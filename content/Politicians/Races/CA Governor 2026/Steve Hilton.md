@@ -92,16 +92,12 @@ Hilton deploys populist rhetoric ("Make California Golden Again," attacks on "on
 
 ### Sources
 
-- ~~[CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Emerson College Polling: California 2026 Poll. Hilton, Swalwell, Bianco Lead](https://emersoncollegepolling.com/california-2026-poll-hilton-swalwell-bianco-lead-nonpartisan-primary-for-governor/) (Tier 1) (VERIFIED)
 - [Wikipedia: Steve Hilton](https://en.wikipedia.org/wiki/Steve_Hilton) (Tier 3)
-- ~~[Santa Barbara Independent: Republican Steve Hilton Campaigns for Governor, Promotes 'Califordable' Agenda](https://www.independent.com/2026/03/04/republican-steve-hilton-campaigns-for-governor-in-santa-barbara-promotes-califordable-agenda/ernor-promotes-califordable-agenda/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ABC7 Los Angeles: California Governor's Race. No Love Lost Between Steve Hilton and Chad Bianco](https://abc7.com/post/california-governors-race-republican-candidates-no-love-lost-between-steve-hilton-riverside-county-sheriff-chad-bianco/18707696/) (Tier 2) (VERIFIED)
-- ~~[Sacramento Observer: Q&A With California Gubernatorial Candidate Steve Hilton](https://www.theobserver.media/politics/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again-88598397/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [San Diego Voice & Viewpoint: Q&A With Steve Hilton](https://sdvoice.info/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again/) (Tier 2) (VERIFIED)
 - [Fox News: Former Fox News Host Hilton Enters California Governor Race](https://www.foxnews.com/politics/media-personality-steve-hilton-enters-california-gubernatorial-race) (Tier 2) (VERIFIED)
 - [Yahoo News/ABC7: CA Governor Candidate Steve Hilton Says 'Everybody Supports' Trump's Immigration Policies](https://www.yahoo.com/news/articles/ca-governor-candidate-steve-hilton-065850265.html) (Tier 2) (VERIFIED)
-- ~~[Crunchbase: Crowdpac. Funding Profile](https://tracxn.com/d/companies/crowdpac/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Fox News: Phil Mickelson Makes $39,200 Donation to GOP California Gubernatorial Bid](https://www.foxnews.com/politics/gop-gubernatorial-hopeful-hails-legendary-golfer-hefty-campaign-donation-honored) (Tier 2) (VERIFIED)
 
 ---
@@ -110,3 +106,12 @@ Hilton deploys populist rhetoric ("Make California Golden Again," attacks on "on
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Republican Steve Hilton is winning the California governor fundraising race](https://calmatters.org/category/politics/2026/02/governors-race-fundraising-reports/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Santa Barbara Independent: Republican Steve Hilton Campaigns for Governor, Promotes 'Califordable' Agenda](https://www.independent.com/2026/03/04/republican-steve-hilton-campaigns-for-governor-in-santa-barbara-promotes-califordable-agenda/ernor-promotes-califordable-agenda/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Sacramento Observer: Q&A With California Gubernatorial Candidate Steve Hilton](https://www.theobserver.media/politics/qa-with-california-gubernatorial-candidate-steve-hilton-california-can-be-golden-again-88598397/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Crunchbase: Crowdpac. Funding Profile](https://tracxn.com/d/companies/crowdpac/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

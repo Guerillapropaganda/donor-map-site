@@ -50,7 +50,6 @@ Wicks's personal trajectory mimics the vault's institutional pipeline: antiwar g
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Buffy Wicks](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end --> — Yes Votes on Acceptable Legislation, Gatekeeping on Threats
 
 Wicks' voting record shows yes votes on legislation unions support that doesn't threaten capital (equal pay, some labor protections, environmental symbolism). But her actual power — Appropriations Committee chair gatekeeping — is where she neutralizes labor's significant demands. She will vote for a $15 minimum wage bill (labor victory) while killing single-payer in committee (labor's signature demand). This voting record creates the appearance of labor alignment while the gatekeeping function serves capital. Wicks' voting record is more progressive than Rendon's — she votes yes more often. But her procedural power is equally constraining: by killing AB 2200 in Appropriations, she protected 249 Assembly Democrats from voting on single-payer. Her yes votes on acceptable bills are cheap labor victories; her committee work is expensive capital victories.
@@ -93,8 +92,14 @@ Wicks represents the current iteration of procedural gatekeeping: a progressive-
 - [Richmond Confidential: How Charter School, Real Estate and Healthcare Money Helped Wicks Outspend Beckles](https://richmondconfidential.org/2018/11/05/how-charter-school-real-estate-and-healthcare-money-helped-wicks-outspend-beckles-4-1/) (Tier 2) (VERIFIED)
 - [48 Hills: The Big Right-Wing Money in Key East Bay Assembly Race](https://48hills.org/2018/06/big-right-wing-money-east-bay/) (Tier 2) (VERIFIED)
 - [Digital Democracy: Buffy Wicks Voting Record and Donor Profile](https://calmatters.digitaldemocracy.org/legislators/buffy-wicks-165044) (Tier 1) (VERIFIED)
-- ~~[FollowTheMoney.org: Buffy Wicks Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=44493619)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ballotpedia: Buffy Wicks](https://ballotpedia.org/Buffy_Wicks) (Tier 2) (VERIFIED)
 
 ### Committee Assignments (Congress.gov)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Buffy Wicks](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[FollowTheMoney.org: Buffy Wicks Campaign Finance](https://www.followthemoney.org/tools/election-overview?eid=44493619)~~ (was FollowTheMoney - site merged into OpenSecrets, all URLs dead) (Tier 1)

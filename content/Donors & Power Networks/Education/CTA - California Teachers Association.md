@@ -119,7 +119,6 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 - [CTA: Official site](https://www.cta.org/) (Tier 1) (VERIFIED)
 - [FPPC: CTA contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 - [CalMatters: Newsom, lawmakers unveil plan to push schools to reopen](https://calmatters.org/health/coronavirus/2021/03/newsom-lawmakers-schools-reopen/) (Tier 2) (VERIFIED)
-- ~~[LA Times: CTA and school closures](https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -185,3 +184,9 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CTA%20-%20California%20Teachers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[LA Times: CTA and school closures](https://www.latimes.com/california/story/2021-03-05/teachers-union-california-schools-reopening)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

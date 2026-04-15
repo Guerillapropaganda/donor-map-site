@@ -38,7 +38,12 @@ Pressley's choice to work within committee structures — rather than confrontin
 
 ### Sources
 
-- ~~[Congress.gov: Ayanna Pressley Financial Services](https://www.congress.gov/member/ayanna-pressley/P000617)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006345}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Ayanna Pressley Financial Services](https://www.congress.gov/member/ayanna-pressley/P000617)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

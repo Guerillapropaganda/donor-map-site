@@ -168,7 +168,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 
 ### Sources
 
-- ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Campaign Legal Center: "One of the Largest Financial Operations in Politics Is Shrouded in Secrecy"](https://campaignlegal.org/update/one-largest-financial-operations-politics-shrouded-secrecy) (Tier 2) (VERIFIED)
 - [Texas Attorney General Ken Paxton: Investigation into ActBlue fraud and suspicious donations](https://www.texasattorneygeneral.gov/news/releases/investigation-actblue-attorney-general-ken-paxton-uncovers-large-number-suspicious-donations-made) (Tier 1) (VERIFIED)
 - [House Administration Committee: Chairman Steil releases findings from ActBlue subpoena](https://republicans-cha.house.gov/2024/12/chairman-steil-releases-findings-from-subpoena-of-actblue) (Tier 1) (VERIFIED)
@@ -276,7 +275,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 | Officer Compensation | $191K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 <!-- auto:propublica-990 pending-merge 2026-04-15 -->
@@ -313,7 +311,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - Campbell's Company v. Campbell (2025) — District Court, E.D. Michigan
 - Park 54 Restaurant Group LLC (2025) — United States Bankruptcy Court, D. Massachusetts
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
@@ -353,11 +350,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1) (VERIFIED)
@@ -448,3 +440,16 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ActBlue) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: ActBlue organization profile](https://www.opensecrets.org/orgs/actblue/summary?id=D000021585)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455097038_202312_990O_2025032023237934.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455097038/2019)~~ (URL broken, archived by Ops)

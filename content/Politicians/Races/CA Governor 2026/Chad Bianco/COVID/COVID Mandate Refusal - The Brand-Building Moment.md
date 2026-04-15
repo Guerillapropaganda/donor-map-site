@@ -113,7 +113,6 @@ The COVID defiance functioned as a political brand-building operation:
 - [FOX 11 LA. Bianco blasts Newsom](https://www.foxla.com/news/riverside-county-sheriff-bianco-blasts-newsom-says-department-wont-enforce-lockdown-orders) (Tier 3) (VERIFIED)
 - [Press Enterprise. Bianco COVID positive](https://www.pressenterprise.com/2021/01/27/riverside-county-sheriff-chad-bianco-tests-positive-for-coronavirus-says-symptoms-are-mild/) (Tier 2) (VERIFIED)
 - [ABC7, vaccine mandate refusal](https://abc7.com/post/riverside-county-sheriffs-department-chad-bianco-vaccination-mandate/11019950/) (Tier 2) (VERIFIED)
-- ~~[KTLA, last line of defense statement](https://ktla.com/news/local-news/riverside-county-sheriff-says-he-wont-impose-vaccine-mandates/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [LAist. AG Bonta response, Oath Keepers connection](https://laist.com/news/criminal-justice/riverside-sheriff-bianco-once-was-an-oath-keeper-defends-the-extremist-group) (Tier 2) (NEEDS REVIEW)
 - [KESQ. COVID third leading cause of death Riverside County](https://kesq.com/news/coronavirus/2020/10/27/covid-19-is-the-third-leading-cause-of-death-in-riverside-county-in-2020/) (Tier 2) (VERIFIED)
 - [CalMatters. California COVID death patterns](https://calmatters.org/health/coronavirus/2021/09/covid-california-deaths/) (Tier 2) (VERIFIED)
@@ -124,5 +123,11 @@ The COVID defiance functioned as a political brand-building operation:
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: COVID Mandate Refusal - The Brand-Building Moment](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[KTLA, last line of defense statement](https://ktla.com/news/local-news/riverside-county-sheriff-says-he-wont-impose-vaccine-mandates/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: COVID Mandate Refusal - The Brand-Building Moment](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

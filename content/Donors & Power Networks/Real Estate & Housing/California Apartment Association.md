@@ -182,7 +182,6 @@ Housing, rent control, supply-side framework, tenant rights
 - Woodfall-Jones v. City of San Mateo (2025) — District Court, N.D. California
 - Marya v. Board of Regents of University of California (2025) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Apartment%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Influence Network (Cross-Reference)
@@ -229,8 +228,14 @@ Housing, rent control, supply-side framework, tenant rights
 | Net Assets | $864K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 950944360](https://projects.propublica.org/nonprofits/organizations/950944360) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F950944360_202312_990O_2025031723222139.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Apartment%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F950944360_202312_990O_2025031723222139.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -126,7 +126,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 - [OpenSecrets: Morgan Stanley organizational profile](https://www.opensecrets.org/orgs/morgan-stanley/summary?id=D000000106) (Tier 1)
 - [OpenSecrets: Morgan Stanley lobbying expenditures](https://www.opensecrets.org/orgs/morgan-stanley/lobbying?id=D000000106) (Tier 1) (VERIFIED)
 - {{src:src_008960}} (Tier 1) (VERIFIED)
-- ~~[Wall Street Journal: Morgan Stanley wealth management growth strategy](https://www.wsj.com/articles/morgan-stanley-wealth-management)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Morgan Stanley political spending](https://ballotpedia.org/Morgan_Stanley) (Tier 3) (VERIFIED)
 
 ### Federal Contracts
@@ -212,11 +211,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136155650) (Tier 1) (VERIFIED)
@@ -238,7 +232,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 - Norfolk County Retirement System v. PayPal Holdings, Inc. (2026) — District Court, N.D. California
 - Taboh v. Bondi (2026) — District Court, W.D. Texas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -301,7 +294,6 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 - [AA-EC-20-66: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2020-058.pdf) (VERIFIED) (10/08/2020) — $60,000,000
 - [AA-EC-2019-50: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea2019-061.pdf) (VERIFIED) (09/30/2019) — $7,500
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Morgan%20Stanley&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 ### FTC Enforcement & Merger Review
@@ -323,3 +315,16 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wall Street Journal: Morgan Stanley wealth management growth strategy](https://www.wsj.com/articles/morgan-stanley-wealth-management)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136155650/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Morgan%20Stanley%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Morgan%20Stanley&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

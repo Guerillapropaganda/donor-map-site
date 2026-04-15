@@ -109,7 +109,6 @@ DSCC fundraising relies on three channels:
 
 ### Sources
 
-- ~~[OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_009594}} (Tier 1) (VERIFIED)
 - [Ballotpedia: DSCC](https://ballotpedia.org/Democratic_Senatorial_Campaign_Committee) (Tier 3) (VERIFIED)
 
@@ -185,5 +184,11 @@ DSCC fundraising relies on three channels:
 - United States v. North Carolina State Board of Elections (2025) — District Court, E.D. North Carolina
 - Bette Eakin v. Adams County Board of Elections (2025) — Court of Appeals for the Third Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Democratic%20Senatorial%20Campaign%20Committee%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: DSCC spending data](https://www.opensecrets.org/parties/totals?cmte=DSCC)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Democratic%20Senatorial%20Campaign%20Committee%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

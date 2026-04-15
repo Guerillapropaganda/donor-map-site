@@ -88,7 +88,6 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 ### Sources
 
 - [Alabama Reflector: How Alabama Power kept bills up and foes out (includes business council regulatory dynamics)](https://alabamareflector.com/2025/11/04/how-alabama-power-kept-bills-up-and-foes-out-to-become-one-of-the-nations-most-powerful-utitilies/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Alabama business lobbying spending](https://www.opensecrets.org/organizations/alabama)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -103,7 +102,6 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 | Officer Compensation | $380K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 630922835](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F630922835_202312_990O_2024061722534137.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -122,7 +120,6 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 - Carstarphen v. Gillespie (2022) — District Court, S.D. Alabama
 - Milligan v. Allen (2021) — District Court, N.D. Alabama
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -139,11 +136,6 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/630922835) (Tier 1) (VERIFIED)
@@ -164,3 +156,16 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Council%20of%20Alabama) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Alabama business lobbying spending](https://www.opensecrets.org/organizations/alabama)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F630922835_202312_990O_2024061722534137.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Business%20Council%20of%20Alabama%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/630922835/2019)~~ (URL broken, archived by Ops)

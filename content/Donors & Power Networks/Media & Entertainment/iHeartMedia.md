@@ -84,9 +84,7 @@ Continued relaxed radio ownership limits, favorable music licensing rates (iHear
 
 ### Sources
 
-- ~~[OpenSecrets: iHeartMedia lobbying](https://www.opensecrets.org/orgs/iheartmedia/summary?id=D000022085)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FCC: Radio station ownership data](https://www.fcc.gov/media/radio/radio-station-ownership) (Tier 1) (NEEDS REVIEW)
-- ~~[Congress.gov: AM Radio for Every Vehicle Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3413)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Telecommunications Act of 1996](https://ballotpedia.org/Telecommunications_Act_of_1996) (Tier 3) (VERIFIED)
 
 ---
@@ -167,7 +165,6 @@ Continued relaxed radio ownership limits, favorable music licensing rates (iHear
 - NAVA Health Medical Group, LLC (2026) — United States Bankruptcy Court, E.D. Virginia
 - Armando Hernandez v. iHeartMedia Entertainment Inc. (2026) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22iHeartMedia%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -188,3 +185,11 @@ Continued relaxed radio ownership limits, favorable music licensing rates (iHear
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/ec54d52d-6189-4661-937a-029bdbfed71a-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: iHeartMedia lobbying](https://www.opensecrets.org/orgs/iheartmedia/summary?id=D000022085)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: AM Radio for Every Vehicle Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/3413)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22iHeartMedia%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

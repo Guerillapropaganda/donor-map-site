@@ -381,13 +381,11 @@ ExxonMobil operates within a structural contradiction that defines fossil fuel p
 - [ExxonMobil: PAC contribution data](https://corporate.exxonmobil.com/who-we-are/policy/political-contributions/pac-contribution-data) (Tier 1) (VERIFIED)
 
 ### Lobbying. Tier 1:
-- ~~[OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [Center for American Progress: 2011 Was Very Good to ExxonMobil](https://www.americanprogress.org/article/2011-was-very-good-to-exxonmobil/) (Tier 2) (VERIFIED) (UNVERIFIED)
 
 ### Climate & Internal Knowledge. Tier 1-2:
 - [Harvard Gazette: Exxon scientists predicted global warming with 'shocking skill and accuracy'](https://news.harvard.edu/gazette/story/2023/01/harvard-led-analysis-finds-exxonmobil-internal-research-accurately-predicted-climate-change/) (Tier 2)
 - [Scientific American: Exxon knew about climate change almost 40 years ago](https://www.scientificamerican.com/article/exxon-knew-about-climate-change-almost-40-years-ago/) (Tier 2) (VERIFIED)
-- ~~[Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [Inside Climate News: The Road Not Taken investigation](https://insideclimatenews.org/project/exxon-the-road-not-taken/) (Tier 2) (VERIFIED)
 - [Supran & Oreskes: Assessing ExxonMobil's Climate Change Communications (1977–2014)](https://cssn.org/wp-content/uploads/2020/12/Assessing-ExxonMobils-climate-change-communications-1977%E2%80%932014-Geoffrey-Supran-.pdf) (VERIFIED) (Tier 1 academic) (UNVERIFIED)
 - [Wikipedia: ExxonMobil Climate Change Denial](https://en.wikipedia.org/wiki/ExxonMobil_climate_change_denial) (Tier 3)
@@ -423,7 +421,6 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 - [Sludge: Exxon Consultant Revolves Back to DOE](https://readsludge.com/2025/03/26/exxon-consultant-revolves-back-to-doe/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Climate and Environment](https://therevolvingdoorproject.org/tag/climate/) (Tier 2) (VERIFIED)
 - [Public Citizen: Trump Appointees Tracker](https://www.citizen.org/article/tracker-trump-appointees-in-the-pocket-of-big-corporations/) (Tier 2) (VERIFIED)
-- ~~[Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [ExxonMobil: Conflict of Interest Agreement. Tillerson](https://corporate.exxonmobil.com/news/news-releases/2017/0103_exxonmobil-and-tillerson-reach-agreement-to-comply-with-conflict-of-interest-requirements) (Tier 1) (VERIFIED)
 
 ### Financial Data. Tier 1:
@@ -467,7 +464,6 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 - State of California v. Wright (2026) — District Court, N.D. California
 - Raizen S.A. and Lorival Nogueira Luz, Jr. (2026) — United States Bankruptcy Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ExxonMobil%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -496,11 +492,6 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136082357) (Tier 1) (VERIFIED)
@@ -610,3 +601,17 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: ExxonMobil Lobbying Profile](https://www.opensecrets.org/orgs/exxon-mobil/lobbying?id=D000000129)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[Science journal: Assessing ExxonMobil's global warming projections](https://www.science.org/doi/10.1126/science.abk0063)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[Politico: Exxon, Mobile, Russia Sanctions, Rex Tillerson](https://www.politico.com/story/2016/12/exxon-mobile-russia-sanctions-rex-tillerson-232770)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ExxonMobil%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136082357/2019)~~ (URL broken, archived by Ops)

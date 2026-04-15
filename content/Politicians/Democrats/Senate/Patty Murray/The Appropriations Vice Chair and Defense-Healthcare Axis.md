@@ -41,6 +41,11 @@ Murray's HELP Committee chairmanship produced the most progressive healthcare le
 - [Congress.gov: Patty Murray member profile](https://www.congress.gov/member/patty-murray/M001111) (Tier 1) (VERIFIED)
 - {{src:src_005224}} (Tier 1) (VERIFIED)
 - {{src:src_005224}} (Tier 1) (VERIFIED)
-- ~~[Seattle Times: Murray, Boeing, and Washington defense economy](https://www.seattletimes.com/murray-boeing/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Patty Murray](https://ballotpedia.org/Patty_Murray) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Seattle Times: Murray, Boeing, and Washington defense economy](https://www.seattletimes.com/murray-boeing/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

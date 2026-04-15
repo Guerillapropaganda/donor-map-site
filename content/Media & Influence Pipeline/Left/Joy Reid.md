@@ -105,10 +105,15 @@ The $3M salary, while objectively high, becomes a tool of class analysis when co
 ### Sources
 
 - [NPR: MSNBC fires host Joy Reid amid network shakeup](https://www.npr.org/2025/02/25/g-s1-50551/joy-reid-msnbc-fired) (Tier 2) (VERIFIED)
-- ~~[People: Joy Reid says she was paid 10% of what some fellow MSNBC hosts made](https://people.com/joy-reid-says-she-was-paid-10-percent-of-what-fellow-msnbc-hosts-made-11793034)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [BBC: MSNBC's Joy Reid addresses homophobic blog post controversy](https://www.bbc.com/news/world-us-canada-43936042) (Tier 2) (VERIFIED)
 - [Deadline: MSNBC to drop Joy Reid from primetime lineup](https://deadline.com/2025/02/msnbc-cancels-joy-reid-1236298901/) (Tier 2) (VERIFIED)
 - [Wikipedia: Joy Reid](https://en.wikipedia.org/wiki/Joy_Reid) (Tier 3) (VERIFIED)
 - [FEC: Joy Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY) (Tier 1)
 - [FEC: Joy-Ann Reid individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=REID%2C+JOY-ANN) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[People: Joy Reid says she was paid 10% of what some fellow MSNBC hosts made](https://people.com/joy-reid-says-she-was-paid-10-percent-of-what-fellow-msnbc-hosts-made-11793034)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

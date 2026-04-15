@@ -154,7 +154,6 @@ This section documents categories of Epstein-related claims that exist in public
 
 ### Sources
 
-- ~~[DOJ: Epstein files release, January 30, 2026](https://www.justice.gov/usao-sdfl/united-states-v-jeffrey-epstein)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NBC News: At least half a dozen top Trump administration officials appear in the Jeffrey Epstein files](https://www.nbcnews.com/politics/justice-department/least-half-dozen-top-trump-administration-officials-appear-jeffrey-eps-rcna258749) (Tier 2) (VERIFIED)
 - [Miami Herald: Julie K. Brown, "Perversion of Justice" series](https://www.miamiherald.com/topics/jeffrey-epstein) (Tier 2) (NEEDS REVIEW)
 - [ProPublica/On the Media: "We Don't Talk About Leonard". Leonard Leo investigation](https://www.wnycstudios.org/podcasts/otm/projects/we-dont-talk-about-leonard) (Tier 2) (VERIFIED)
@@ -208,5 +207,11 @@ This section documents categories of Epstein-related claims that exist in public
 **Notable cases:**
 - Giuffre v. Maxwell (2015) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeffrey%20Epstein%20Network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[DOJ: Epstein files release, January 30, 2026](https://www.justice.gov/usao-sdfl/united-states-v-jeffrey-epstein)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeffrey%20Epstein%20Network%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

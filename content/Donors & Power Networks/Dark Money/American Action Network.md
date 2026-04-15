@@ -214,7 +214,6 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 - [HealthLeaders Media: Drug trade group quietly spends dark money to sway policy. PhRMA $6.1M to AAN in 2017](https://www.healthleadersmedia.com/strategy/drug-trade-group-quietly-spends-dark-money-sway-policy-and-voters) (Tier 2) (VERIFIED)
 - [CREW: Lawsuit against FEC over AAN political spending classification](https://www.citizensforethics.org/legal-action/lawsuits/crew-sues-fec-over-american-action-network-complaint/) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: Super PACs are continuing to hide secret money. CLF-AAN pipeline](https://campaignlegal.org/update/super-pacs-are-continuing-hide-secret-money-wealthy-special-interests-heres-how) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Ballotpedia: American Action Network](https://ballotpedia.org/American_Action_Network) (Tier 3) (VERIFIED)
 - [Wikipedia: American Action Network](https://en.wikipedia.org/wiki/American_Action_Network) (Tier 3) (VERIFIED)
 
@@ -231,7 +230,6 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 | Officer Compensation | $1.3M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 270730508](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F270730508_202306_990O_2024061822537807.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -250,7 +248,6 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 - FTX Recovery Trust v. American Action Network, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 - FTX Trading Ltd. - Adversary Proceeding (2024) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Action%20Network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -268,11 +265,6 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/270730508) (Tier 1) (VERIFIED)
@@ -286,7 +278,6 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 | Total Records | 1 |
 | Registrant Records | 1 |
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Campaign Finance (FEC)
@@ -313,3 +304,18 @@ The case crystallizes the central legal fiction of 501(c)(4) dark money: AAN spe
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Action%20Network) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: American Action Network, founding, leadership, donor history](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Action_Network)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F270730508_202306_990O_2024061822537807.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Action%20Network%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/270730508/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:American%20Action%20Network)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

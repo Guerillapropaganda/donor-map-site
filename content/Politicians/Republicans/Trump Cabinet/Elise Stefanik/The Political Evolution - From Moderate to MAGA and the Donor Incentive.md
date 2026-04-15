@@ -108,7 +108,12 @@ The appointment represented a logical endpoint for the Stefanik trajectory: Harv
 ### Sources
 
 - {{src:src_002998}} (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Trump administration profile — Stefanik donor breakdown](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [TIME: How Elise Stefanik Went From Moderate to MAGA](https://time.com/6046674/elise-stefanik-liz-cheney-republican/) (Tier 2) (VERIFIED)
 - [Wikipedia: Elise Stefanik — career and political positions](https://en.wikipedia.org/wiki/Elise_Stefanik) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Trump administration profile - Stefanik donor breakdown](https://www.opensecrets.org/news/2025/01/trump-administration-profile-elise-stefanik/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

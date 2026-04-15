@@ -217,7 +217,6 @@ party:: Democrat
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 <!-- auto:committee-assignments pending-merge 2026-04-11 -->
@@ -226,7 +225,6 @@ _No committee data found for the 119th Congress._
 
 _No committee data found._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:committee-assignments pending-merge end -->
 
@@ -289,7 +287,6 @@ _No committee data found._
 | 1069 | Notification of Risk to Personal Data Act | Referred to the Subcommittee on Financial Institutions and Consumer Credit. |
 | 797 | Directing the Clerk to post on the public Internet site of the Office of the Cle… | Sponsor introductory remarks on measure. (CR H3500) |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001253)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -322,7 +319,6 @@ _No committee data found._
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Melissa Bean](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -349,3 +345,12 @@ Melissa Bean is an American politician who served as the U.S. representative for
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Melissa_Bean) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q445046) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001253)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Melissa Bean](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

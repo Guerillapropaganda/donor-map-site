@@ -97,7 +97,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 ### Sources
 
 - [OpenSecrets: AT&T organizational profile](https://www.opensecrets.org/orgs/at-t-inc/summary?id=D000000076) (Tier 1)
-- ~~[FCC: Net neutrality rulemaking docket](https://www.fcc.gov/restoring-internet-freedom)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC: AT&T 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=AT%26T%20-%20WarnerMedia&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - [Ballotpedia: AT&T](https://ballotpedia.org/AT&T) (Tier 3) (VERIFIED)
 
@@ -111,7 +110,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 | Net Assets | $253K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 593397155](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_58-62%2F593397155_202312_990EZ_2024052822438682.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Product Recalls (CPSC)
@@ -126,7 +124,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 - ~~[Cellular Phone Charger Recalled by Mascot Electronic A.S.](https://www.cpsc.gov/Recalls/96043)~~ (URL broken, archived by Ops) (1995-12-18) — Electrocution/Electric Shock
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=AT%26T)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Corporate Structure (GLEIF)
@@ -250,11 +247,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/593397155) (Tier 1) (VERIFIED)
@@ -276,7 +268,6 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 - Peninsula Technologies, LLC v. AT&T Mobility LLC (2026) — District Court, E.D. Texas
 - Dasilva v. AT&T Corporation (2026) — District Court, D. Rhode Island
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -300,3 +291,17 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AT%26T%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FCC: Net neutrality rulemaking docket](https://www.fcc.gov/restoring-internet-freedom)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_58-62%2F593397155_202312_990EZ_2024052822438682.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=AT%26T)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/593397155/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AT%26T%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

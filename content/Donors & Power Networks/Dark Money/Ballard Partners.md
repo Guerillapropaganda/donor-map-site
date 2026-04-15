@@ -71,7 +71,6 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 ### Sources
 
 - [ProPublica: How Trump Has Exploited Pardons to Reward Allies and Supporters](https://www.propublica.org/article/trump-pardons-clemency-george-santos-ed-martin) (Tier 2) (VERIFIED)
-- ~~[FARA Database: Ballard Partners Foreign Lobbying Filings](https://efile.fara.gov/efile/Submissions.aspx)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Ballard Partners Lobbying Profile](https://www.opensecrets.org/orgs/ballard-partners/summary?id=D000037635) (Tier 1) (VERIFIED)
 
 ---
@@ -108,3 +107,9 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ballard%20Partners%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FARA Database: Ballard Partners Foreign Lobbying Filings](https://efile.fara.gov/efile/Submissions.aspx)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

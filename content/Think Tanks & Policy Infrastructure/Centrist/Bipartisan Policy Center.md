@@ -242,7 +242,6 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - [Media Bias/Fact Check: Bipartisan Policy Center](https://mediabiasfactcheck.com/bipartisan-policy-center/) (Tier 3) (VERIFIED)
 - [Bipartisan Policy Center: Corporate Council, current corporate sponsors](https://bipartisanpolicy.org/support-bpc/corporate-council/) (Tier 3) (VERIFIED)
 - [Harvard Safra Center for Ethics: Lab Dispatches Vol. 3, think tank funding and funder interests analysis (PDF)](https://www.ethics.harvard.edu/sites/g/files/omnuum9911/files/lab_dispatches_vol3.pdf) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: National Commission on Energy Policy. BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Quincy Institute: Big Ideas and Big Money. Think Tank Funding in America (includes BPC analysis)](https://quincyinst.org/research/big-ideas-and-big-money-think-tank-funding-in-america/) (Tier 2) (VERIFIED)
 - [Responsible Statecraft: Weapons makers, foreign states lavish $32 million on US think tanks (includes BPC data)](https://responsiblestatecraft.org/think-tank-funding-tracker/) (Tier 2) (VERIFIED)
 
@@ -283,11 +282,6 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/731628382) (Tier 1) (VERIFIED)
@@ -309,7 +303,6 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - United States v. Comey (2025) — District Court, E.D. Virginia
 - Relentless Inc. v. US Dep't of Commerce (2025) — Court of Appeals for the First Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Foreign Agent Activity (FARA)
@@ -326,5 +319,18 @@ The Bipartisan Policy Center is the most structurally revealing think tank in th
 - Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
 - Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: National Commission on Energy Policy. BPC's energy industry origin](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/National_Commission_on_Energy_Policy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/731628382/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

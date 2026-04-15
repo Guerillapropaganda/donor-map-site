@@ -111,7 +111,6 @@ known-gaps:
 ### Sources:
 - [Yale E360: U.S. Spending Bill to Grant $40 Billion in Fossil Fuel Subsidies](https://e360.yale.edu/digest/republican-spending-bill-fossil-fuel-subsidies) (Tier 2) (VERIFIED) (Chrome verified. Yale E360 is a reliable environmental journalism source)
 - [Grist: US taxpayers will pay billions in new fossil fuel subsidies thanks to the Big Beautiful Bill](https://grist.org/politics/us-taxpayers-will-pay-billions-in-new-fossil-fuel-subsidies-thanks-to-the-big-beautiful-bill/) (Tier 2) (VERIFIED) (Chrome verified)
-- ~~[EPI: Trump is enabling Musk and DOGE to flout conflicts of interest](https://www.epi.org/publication/trump-is-enabling-musk-and-doge-to-flout-conflicts-of-interest-what-is-the-potential-cost-to-u-s-families/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified)
 
 ---
 
@@ -136,3 +135,9 @@ The pharma astroturf story (Silver) extends Run 6's Diamond pharma story with ne
 3. **Ballard Partners node update:** The $88.1M record and Trump fundraiser connection should be added to both existing Ballard nodes.
 4. **PhRMA donor node update:** The Public Citizen astroturf data (74% front-group financial ties) should be added to the PhRMA donor node as a documented dark money distribution network.
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EPI: Trump is enabling Musk and DOGE to flout conflicts of interest](https://www.epi.org/publication/trump-is-enabling-musk-and-doge-to-flout-conflicts-of-interest-what-is-the-potential-cost-to-u-s-families/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified)

@@ -214,7 +214,6 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 - [FEC: MUR 7575 (Matter Under Review)](https://www.fec.gov/data/legal/matter-under-review/7575/) (Tier 1) (VERIFIED)
 - [ProPublica Nonprofit Explorer: New Consensus 990s (EIN 82-3053965)](https://projects.propublica.org/nonprofits/organizations/823053965) (Tier 1) (VERIFIED)
 - [Business Insider: Chakrabarti net worth (Bryan Metzger, August 2025)](https://www.businessinsider.com/saikat-chakrabarti-net-worth-nancy-pelosi-primary-challenger-2025-8) (Tier 2) (VERIFIED)
-- ~~[Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Politico: Chakrabarti magazine profile (October 2025)](https://www.politico.com/news/magazine/2025/10/30/saikat-chakrabarti-nancy-pelosi-democratic-party-00624012) (Tier 2) (VERIFIED)
 - [Washington Examiner: Disclosure loophole (February 2019)](https://www.washingtonexaminer.com/news/646156/aoc-living-wage-rules-allow-her-staff-to-dodge-financial-disclosure-laws/) (Tier 2) (VERIFIED)
 - [Drop Site News: JD endorsement (Ryan Grim, March 30, 2026)](https://www.dropsitenews.com/p/justice-democrats-adam-hamawy-saikat-chakrabarti-endorsement) (Tier 2) (VERIFIED)
@@ -250,3 +249,4 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 
 - ~~[Congress.gov: Saikat Chakrabarti](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+- ~~[Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

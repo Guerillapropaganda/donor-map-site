@@ -73,7 +73,6 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 
 ### Sources
 
-- ~~[OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Charles Koch](https://ballotpedia.org/Charles_Koch) (Tier 3) (VERIFIED)
 
 ---
@@ -102,7 +101,6 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 | Net Assets | $748.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 480918408](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -121,3 +119,10 @@ Reduced government regulation (across every sector), lower taxes (particularly c
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Charles%20Koch%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Koch Industries political spending](https://www.opensecrets.org/orgs/koch-industries/summary?id=D000000186)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F480918408_202312_990PF_2025011022984232.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

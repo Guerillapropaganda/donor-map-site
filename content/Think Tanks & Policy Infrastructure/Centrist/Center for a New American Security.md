@@ -211,7 +211,6 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 - [Quincy Institute: Defense Contractor Funded Think Tanks Dominate Ukraine Debate](https://quincyinst.org/research/defense-contractor-funded-think-tanks-dominate-ukraine-debate/) (Tier 2) (VERIFIED)
 - [The Intercept: Intelligence Contract Funneled to Pro-War Think Tanks](https://theintercept.com/2021/09/15/pentagon-funding-think-tanks/) (Tier 2) (VERIFIED)
 - [Jacobin: The Biden Era Is Witnessing a Return of the Military-Industrial Complex. CNAS revolving door to Biden admin (2021)](https://jacobin.com/2021/02/military-industrial-complex-biden-administration) (Tier 2) (VERIFIED)
-- ~~[Axios: Biden Gets B- From Progressive Think Tank on Hiring Industry Insiders. Revolving Door Project scorecard (2021)](https://www.axios.com/2021/04/23/biden-progressive-think-tank-hires)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Military.com: Hegseth Orders End to Pentagon-Funded Attendance at Several Elite Universities (Feb 2026)](https://www.military.com/feature/2026/02/28/pete-hegseth-orders-end-pentagon-funded-attendance-several-elite-universities.html) (Tier 2) (VERIFIED)
 - [Inside Higher Ed: Hegseth is Waging War on Colleges. His Targets Are Unclear (Mar 2026)](https://www.insidehighered.com/news/admissions/graduate/2026/03/06/hegseth-waging-war-colleges-his-targets-are-unclear) (Tier 2) (VERIFIED)
 
@@ -248,5 +247,11 @@ The Hegseth fellowship ban (February 2026) is the first time a Defense Secretary
 - WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
 - Getty Images (US), Inc. v. Stability AI, Ltd. (2025) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20a%20New%20American%20Security%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Biden Gets B- From Progressive Think Tank on Hiring Industry Insiders. Revolving Door Project scorecard (2021)](https://www.axios.com/2021/04/23/biden-progressive-think-tank-hires)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20a%20New%20American%20Security%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

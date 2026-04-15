@@ -201,7 +201,6 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 - {{src:src_003213}} (Tier 1) (VERIFIED)
 - {{src:src_003213}} (Tier 1) (VERIFIED)
-- ~~[Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Shelley Moore Capito energy & environment](https://www.capito.senate.gov/about/issues/energy-and-environment) (Tier 1) (VERIFIED)
 - [Senate.gov: Capito commends Trump EPA repeal of Biden coal regulations](https://www.capito.senate.gov/news/press-releases/-capito-commends-trump-epas-repeal-of-biden-era-attacks-on-coal) (Tier 1) (VERIFIED)
 - [Type Investigations: The Fracking Candidate](https://www.typeinvestigations.org/investigation/2014/06/25/fracking-candidate/) (Tier 2) (VERIFIED)
@@ -271,7 +270,6 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 | 12/16/2019 | CMCSA | Purchase | $1,001 - $15,000 | Spouse |
 | 12/13/2018 | PG | Purchase | $1,001 - $15,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Legislative Activity (GovTrack)
@@ -291,7 +289,6 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 - S.Res. 537: A resolution honoring the service and sacrifice of United States Army Specialist Sarah Beckstrom and United States Air F — *This simple resolution was agreed to on December 9, 2025. That is the end of the legislative process for a simple resolution.*
 - S. 351: STEWARD Act of 2025 — *This bill passed in the Senate on November 20, 2025 and goes to the House next for consideration.*
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400061)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -316,7 +313,6 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 **Sources**
 
-- ~~[GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
@@ -343,7 +339,16 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 **Sources**
 
-- ~~[Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Senate EPW Committee: Chairman Capito](https://www.epw.senate.gov/public/public/index.cfm/chairman-capito)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400061)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Shelley Moore Capito](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -243,8 +243,6 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 - [Club for Growth: 2024 results — 32 wins, $163M raised, 77.3% win rate](https://www.clubforgrowth.org/club-for-growth-action-2024-32-wins-and-163-million-raised/) (Tier 4) (VERIFIED)
 - [Fox News: Club for Growth plans $175M for 2026 midterm spending](https://www.foxnews.com/politics/mcintosh-midterms-choice-between-trumps-great-progress-letting-socialists-back) (Tier 2) (VERIFIED)
 - [FactCheck.org: Club for Growth Action profile](https://www.factcheck.org/2024/04/club-for-growth-action-7/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Club for Growth Action 2025 — $15.8M raised, $10M from Yass](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: Club for Growth plots new conservative path after Trump (2023)](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [The New Republic: How the Club for Growth fell out with Trump](https://newrepublic.com/article/176870/club-growth-fell-out-trump) (Tier 2) (VERIFIED)
 - [Texas Tribune: Club for Growth in Texas primary battles — $4M school voucher enforcement](https://www.texastribune.org/2024/04/03/club-for-growth-texas-house-legislature/) (Tier 2) (VERIFIED)
 - [Slate: Jeff Yass TikTok billionaire — Club for Growth funding](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
@@ -296,5 +294,12 @@ The 2024-2025 cycle demonstrated this perfectly: Yass gave $19M to Club for Grow
 - Walker, Gregg v. Bangstad, Kirk (2025) — District Court, W.D. Wisconsin
 - DINNER TABLE ACTION v. SCHNEIDER (2024) — District Court, D. Maine
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Club%20for%20Growth%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Club for Growth Action 2025 - $15.8M raised, $10M from Yass](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Club for Growth plots new conservative path after Trump (2023)](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Club%20for%20Growth%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

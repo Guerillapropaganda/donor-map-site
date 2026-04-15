@@ -172,14 +172,11 @@ Harris's prosecutorial career shows a consistent structural bias:
 
 ### OneWest/Mnuchin:
 - [The Intercept: Kamala Harris Fails to Explain Why She Didn't Prosecute Steven Mnuchin's Bank](https://theintercept.com/2017/01/05/kamala-harris-fails-to-explain-why-she-didnt-prosecute-steven-mnuchins-bank/) (Tier 2) (VERIFIED)
-- ~~[CNN: California investigators wanted to sue Mnuchin bank over foreclosures](https://money.cnn.com/2017/01/04/news/mnuchin-onewest-california-memo/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PolitiFact: Kamala Harris Says She 'Took On The Big Banks' As California Atty. General. Did She Go Far Enough?](https://www.politifact.com/article/2020/aug/25/kamala-harris-says-she-took-big-banks-california-a/) (Tier 2) (VERIFIED)
 - [HuffPost: Kamala Harris Has To Answer For Not Prosecuting Steve Mnuchin](https://www.huffpost.com/entry/kamala-harris-has-to-answer-for-not-prosecuting-steve_b_5980d18ee4b09d231a518205) (Tier 2) (VERIFIED)
-- ~~[The Hill: Dem defends decision not to charge Trump Treasury pick over foreclosures](https://thehill.com/policy/finance/312742-senate-democrat-defends-decision-not-to-charge-trump-treasury-pick-over/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### National Mortgage Settlement:
 - [CNBC: Kamala Harris' complicated history with Wall Street will come under scrutiny in the 2020 race](https://www.cnbc.com/2019/01/26/kamala-harris-has-complicated-history-with-wall-street.html) (Tier 2) (VERIFIED)
-- ~~[The Hill: New book questions Harris's record on big banks](https://thehill.com/hilltv/rising/469968-new-book-questions-harris-record-on-big-banks/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Death Penalty / Kevin Cooper:
 - [Washington Post: Eighteen years and one controversy later, Wes Moore gets a Bronze Star](https://www.washingtonpost.com/dc-md-va/2024/08/30/md-gov-moore-seeks-control-fallout-over-false-bronze-star-claim/) (Tier 2) (VERIFIED)
@@ -195,3 +192,11 @@ Harris's prosecutorial career shows a consistent structural bias:
 ### Truancy:
 - [The Marshall Project: Prosecutor record comprehensive overview](https://theappeal.org/?s=The%20Prosecutor%20Record%20-%20DA%20and%20AG) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CNN: California investigators wanted to sue Mnuchin bank over foreclosures](https://money.cnn.com/2017/01/04/news/mnuchin-onewest-california-memo/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Dem defends decision not to charge Trump Treasury pick over foreclosures](https://thehill.com/policy/finance/312742-senate-democrat-defends-decision-not-to-charge-trump-treasury-pick-over/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: New book questions Harris's record on big banks](https://thehill.com/hilltv/rising/469968-new-book-questions-harris-record-on-big-banks/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

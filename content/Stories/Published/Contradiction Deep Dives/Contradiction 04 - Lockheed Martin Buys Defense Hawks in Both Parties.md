@@ -149,9 +149,14 @@ Rosa DeLauro can fight Kay Granger on healthcare spending and mean it. They genu
 - [Truthout: Lockheed Martin Gave Over $250k to Politicians as They Discussed Ukraine Bills](https://truthout.org/articles/lockheed-martin-gave-over-250k-to-politicians-as-they-discussed-ukraine-bills/) (Tier 2) (VERIFIED)
 - [CBS News: House Passes $895 Billion Defense Bill](https://www.cbsnews.com/news/ndaa-house-vote-2024/) (Tier 2) (VERIFIED)
 - [Breaking Defense: Congress Passes $825 Billion Defense Spending Bill](https://breakingdefense.com/2024/03/congress-passes-825-million-defense-spending-bill-amid-political-battles-government-shutdown-threat/) (Tier 2) (VERIFIED)
-- ~~[POGO: The F-35 and the Captured State](https://www.pogo.org/analysis/the-f-35-and-the-captured-state)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Lockheed Martin F-35 Lightning II Procurement](https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement) (Tier 3) (VERIFIED)
 - [Senate Armed Services Committee: Membership](https://www.armed-services.senate.gov/about/membership) (Tier 1) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: The F-35 and the Captured State](https://www.pogo.org/analysis/the-f-35-and-the-captured-state)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -107,8 +107,6 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 ### Sources
 
 - [ProPublica: Barre Seid and the $1.6B donation](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Leonard Leo Marble Freedom Trust network map](https://www.documentcloud.org/documents/21144404-marble-trust-recipients/) (Tier 2) (VERIFIED)
 - [SCOTUSblog: Dobbs v. Jackson and Federalist Society judicial campaign](https://www.scotusblog.com/cases/case-files/dobbs-v-jackson-womens-health-organization/) (Tier 3) (VERIFIED)
 
@@ -152,11 +150,6 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363342443) (Tier 1) (VERIFIED)
@@ -186,3 +179,15 @@ This asymmetry means conservative jurisprudence is more directly purchased by in
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Barre%20Seid) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Marble Freedom Trust](https://www.opensecrets.org/orgs/marble-freedom-trust/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Judicial Education Project / The 85 Fund (2021-2022)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Barre%20Seid&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363342443/2019)~~ (URL broken, archived by Ops)

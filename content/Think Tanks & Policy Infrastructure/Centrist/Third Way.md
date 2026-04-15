@@ -201,18 +201,14 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 ### Sources
 
 - [ProPublica Nonprofit Explorer: Third Way, Form 990 data (EIN 20-1734070)](https://projects.propublica.org/nonprofits/organizations/201734070) (Tier 1) (VERIFIED)
-- ~~[Wikipedia: Third Way (United States)](https://en.wikipedia.org/wiki/Third_Way_(United_States)~~ (URL broken, archived by Ops)) (Tier 3)
 - [InfluenceWatch: Third Way](https://www.influencewatch.org/non-profit/third-way/) (Tier 3) (VERIFIED)
 - [OpenSecrets: Third Way profile](https://www.opensecrets.org/orgs/third-way/summary?id=D000092397) (Tier 1) (VERIFIED)
 - [The Nation: GOP Donors and K Street Fuel Third Way's Advice for the Democratic Party (Lee Fang)](https://www.thenation.com/article/archive/gop-donors-and-k-street-fuel-third-ways-advice-democratic-party/) (Tier 2) (VERIFIED)
 - [The Intercept: PhRMA Is Funding a Think Tank to Derail Medicare for All (2019)](https://theintercept.com/2019/04/26/medicare-for-all-democrats-phrma/) (Tier 2) (VERIFIED)
 - [Truthout: Wall Street Uses the Third Way to Lead Its Assault on Social Security](https://truthout.org/articles/wall-street-uses-the-third-way-to-lead-its-assault-on-social-security/) (Tier 2) (VERIFIED)
-- ~~[CMD/EXPOSEDbyCMD: Centrist Third Way, Funded by Corporate Interests, Attacks Sanders in Iowa (2020)](https://www.exposedbycmd.org/2020/01/31/centrist-third-way-funded-corporate-interests-attacks-sanders-iowa/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [American Prospect: Centrists: Better Things Aren't Possible (March 2026)](https://prospect.org/2026/03/10/centrists-better-things-arent-possible-democrats-south-carolina-third-way/) (Tier 2) (VERIFIED)
 - [DOD Biography: Mieke Eoyang, Deputy Assistant Secretary of Defense for Cyber Policy](https://www.defense.gov/About/Biographies/Biography/article/2505290/mieke-eoyang/) (Tier 1) (NEEDS REVIEW)
 - [Washington Post: Think Tank's Criticism of Elizabeth Warren's Populist Policies Leads to Democratic Feud](https://www.washingtonpost.com/politics/think-tanks-criticism-of-elizabeth-warrens-populist-policies-leads-to-democratic-feud/2013/12/05/945d1298-5de4-11e3-95c2-13623eb2b0e1_story.html) (Tier 2) (VERIFIED)
-- ~~[Politico: Warren Takes Sides in Dem Feud](https://www.politico.com/story/2013/12/elizabeth-warren-democrats-feud-100678)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[SourceWatch: Third Way](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Third_Way)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Jacobin: The Centrist Think Tank Third Way Just Can't Quit Austerity. COVID relief checks opposition (2021)](https://jacobin.com/2021/02/third-way-think-tank-covid-relief-checks) (Tier 2) (VERIFIED)
 - [New Republic: ThinkProgress Was Always Doomed, structural analysis of CAP/Third Way donor-class dynamics (2019)](https://newrepublic.com/article/155011/thinkprogress-always-doomed) (Tier 2) (VERIFIED)
 - [Daily Kos: Meet the anti-progressive think tank pushing Democrats towards Trumpism. Comeback Retreat analysis (March 2025)](https://www.dailykos.com/stories/2025/3/8/2308767/-Meet-the-anti-progressive-think-tank-pushing-Democrats-towards-Trumpism) (Tier 2) (VERIFIED)
@@ -233,11 +229,6 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/201734070) (Tier 1) (VERIFIED)
@@ -279,3 +270,17 @@ The March 2026 "Winning the Middle" conference in Charleston makes the function 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Third%20Way%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: Third Way (United States)](https://en.wikipedia.org/wiki/Third_Way_(United_States)~~ (URL broken, archived by Ops)) (Tier 3)
+- ~~[CMD/EXPOSEDbyCMD: Centrist Third Way, Funded by Corporate Interests, Attacks Sanders in Iowa (2020)](https://www.exposedbycmd.org/2020/01/31/centrist-third-way-funded-corporate-interests-attacks-sanders-iowa/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Warren Takes Sides in Dem Feud](https://www.politico.com/story/2013/12/elizabeth-warren-democrats-feud-100678)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Third Way](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Third_Way)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2019)~~ (URL broken, archived by Ops)

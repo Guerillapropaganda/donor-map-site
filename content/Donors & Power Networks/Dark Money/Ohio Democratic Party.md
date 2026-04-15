@@ -162,7 +162,6 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - [OpenSecrets: Democratic Party of Ohio PAC summary 2024](https://www.opensecrets.org/political-action-committees-pacs/democratic-party-of-ohio/C00016899/summary/2024) (Tier 1) (VERIFIED)
 - {{src:src_014072}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Ohio Senate 2024 Race. Brown vs. Moreno](https://www.opensecrets.org/races/summary?cycle=2024&id=OHS1) (Tier 1) (VERIFIED)
-- ~~[FollowTheMoney: Ohio Democratic Party entity profile](https://www.followthemoney.org/tools/election-overview?eid=4909)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CNN: What Sherrod Brown says went wrong in his Senate race](https://edition.cnn.com/2024/11/24/politics/sherrod-brown-democrats-workers-ohio) (Tier 2) (VERIFIED)
 - [NBC News: Sherrod Brown talks of rescuing a 'corporate' Democratic Party](https://www.nbcnews.com/politics/congress/sen-sherrod-brown-talks-rescuing-corporate-democratic-party-rcna183486) (Tier 2) (VERIFIED)
 - [Brennan Center: Ohio Congressional Races Illustrate 2024 Campaign Finance Trends](https://www.brennancenter.org/our-work/analysis-opinion/ohio-congressional-races-illustrate-2024-campaign-finance-trends) (Tier 2) (VERIFIED)
@@ -204,7 +203,6 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - VoteAmerica v. Schwab (2025) — Court of Appeals for the Tenth Circuit
 - de la Fuente Diaz v. Gonzalez Colon (2025) — Court of Appeals for the First Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20Democratic%20Party%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### OFAC Sanctions Screening
@@ -347,5 +345,13 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 **Foreign principals:**
 - Democratic Progressive Party (TAIWAN)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ohio%20Democratic%20Party)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FollowTheMoney: Ohio Democratic Party entity profile](https://www.followthemoney.org/tools/election-overview?eid=4909)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20Democratic%20Party%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ohio%20Democratic%20Party)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ohio%20Democratic%20Party)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -119,14 +119,19 @@ The contradiction: she claims to reject corporate influence while accepting bill
 - [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (VERIFIED) (WBEZ Chicago, March 18, 2026) (Tier 2)
 - [Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (VERIFIED) (American Prospect, March 17, 2026) (Tier 2)
 - [JB Pritzker's role in Illinois primary could set the stage for 2028](https://www.ms.now/news/j-b-pritzker-illinois-democrat-senate-primary) (VERIFIED) (MSN/NBC) (Tier 2)
-- ~~[Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/)~~ (URL broken, archived by Ops) (The Hill, March 2026) (Tier 2)
 
 ### Tier 3: Aggregators & Databases
 - [Juliana Stratton - Ballotpedia](https://ballotpedia.org/Juliana_Stratton) (VERIFIED) (Ballotpedia) (Tier 3)
 - [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (VERIFIED) (Ballotpedia) (Tier 3)
-- ~~[Juliana W Stratton - OpenSecrets](https://www.opensecrets.org/officeholders/juliana-w-stratton/)~~ (URL broken, archived by Ops) (OpenSecrets) (Tier 1)
 
 ### Tier 4: Partisan/Opinion
-- ~~[Wealthy elites bankroll Dem Senate candidate who has repeatedly touted 'grassroots' campaign](https://www.yahoo.com/news/articles/wealthy-elites-bankroll-dem-senate-203635284.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Fox News opinion) (Tier 2)
 - [Special-Interest Super PACs Underperform in Illinois](https://prospect.org/2026/03/18/special-interest-super-pacs-underperform-illinois-democratic-primary-stratton-biss-miller-bean-ford/) (VERIFIED) (American Prospect, March 18, 2026) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/)~~ (URL broken, archived by Ops) (The Hill, March 2026) (Tier 2)
+- ~~[Juliana W Stratton - OpenSecrets](https://www.opensecrets.org/officeholders/juliana-w-stratton/)~~ (URL broken, archived by Ops) (OpenSecrets) (Tier 1)
+- ~~[Wealthy elites bankroll Dem Senate candidate who has repeatedly touted 'grassroots' campaign](https://www.yahoo.com/news/articles/wealthy-elites-bankroll-dem-senate-203635284.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Fox News opinion) (Tier 2)

@@ -111,7 +111,6 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 | Officer Compensation | $579K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 941448579](https://projects.propublica.org/nonprofits/organizations/941448579) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2022_prefixes_91-95%2F941448579_202012_990O_2022102720612081.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -190,3 +189,9 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=United%20Farm%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_10_2022_prefixes_91-95%2F941448579_202012_990O_2022102720612081.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

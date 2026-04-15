@@ -229,11 +229,6 @@ NRHC represents the corporate landlord class, private equity-backed firms that c
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2015
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474822520) (Tier 1) (VERIFIED)
@@ -253,5 +248,16 @@ NRHC represents the corporate landlord class, private equity-backed firms that c
 - National Representative Council of Eritrea - GIE (ERITREA)
 - National Council of Resistance of Iran (NCRI) (IRAN)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474822520/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:National%20Rental%20Home%20Council)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

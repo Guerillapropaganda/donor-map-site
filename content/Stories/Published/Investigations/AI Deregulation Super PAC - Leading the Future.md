@@ -70,10 +70,15 @@ The class dynamic: tech oligarchs use venture capital wealth to purchase politic
 
 ### Sources
 
-- ~~[Gizmodo: "The Super PAC Bankrolling Silicon Valley's Political War on AI Safety"](https://gizmodo.com/ai-deregulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Fortune: "Sam Brockman's $100 Million Bet on Deregulation"](https://fortune.com/openai-deregulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[OpenSecrets: Leading the Future PAC FEC Filings](https://www.opensecrets.org/pacs/pacdetail.php?superid=C00000000)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 #analysis
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Gizmodo: "The Super PAC Bankrolling Silicon Valley's Political War on AI Safety"](https://gizmodo.com/ai-deregulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Fortune: "Sam Brockman's $100 Million Bet on Deregulation"](https://fortune.com/openai-deregulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Leading the Future PAC FEC Filings](https://www.opensecrets.org/pacs/pacdetail.php?superid=C00000000)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

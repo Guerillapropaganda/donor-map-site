@@ -169,11 +169,9 @@ Hinson's agricultural advocacy reveals the gap between brand and beneficiary. Sh
 - [Ashley Hinson - Ballotpedia](https://ballotpedia.org/Ashley_Hinson) (Tier 3) (VERIFIED)
 - [About | Representative Ashley Hinson](https://hinson.house.gov/about) (VERIFIED) (Tier 1 - primary) (Tier 1)
 - [Iowa Republican U.S. Rep. Ashley Hinson is running for Senate in 2026 | Iowa Public Radio](https://www.iowapublicradio.org/political-news/2025-09-02/iowa-republican-ashley-hinson-running-for-senate-2026) (Tier 2) (VERIFIED)
-- ~~[GOP Rallies Behind Hinson in Iowa Senate Race | WJBC AM 1230](https://www.wjbc.com/2025/09/05/gop-rallies-behind-hinson-in-iowa-senate-race/)~~ (URL broken, archived by Ops) (Tier 3 - regional broadcast) (Tier 2)
 - [Ashley Hinson takes massive fundraising edge in Iowa's open-seat U.S. Senate campaign | The Gazette](https://www.thegazette.com/news/elections/ashley-hinson-takes-massive-fundraising-edge-in-iowa-s-open-seat-u-s-senate-campaign/article_220dafe1-f9b3-5451-9cbe-6bf8a25bf0a0.html) (Tier 2) (VERIFIED)
 - [Ashley Hinson secures key endorsement from super PAC supporting GOP women | Washington Examiner](https://www.washingtonexaminer.com/news/campaigns/congressional/3796883/ashley-hinson-senate-endorsement-winning-for-women-pac/) (Tier 2) (VERIFIED)
 - {{src:src_003675}} (Tier 1) (VERIFIED)
-- ~~[Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Victory for Iowa Ag: Hinson's Bipartisan PRECISE Act & Major Biofuels Priorities Pass House | Representative Ashley Hinson](https://hinson.house.gov/media/press-releases/victory-iowa-ag-hinsons-bipartisan-precise-act-major-biofuels-priorities-pass) (VERIFIED) (Tier 1 - campaign source) (Tier 1)
 - [Iowa's Hinson says E15 certainty still within reach despite congressional setback | Brownfield Ag News](https://www.brownfieldagnews.com/news/iowas-hinson-says-e15-certainty-still-within-reach-despite-congressional-setback/) (Tier 3) (VERIFIED)
 - [Rep. Hinson seeks more congressional support for biofuels | Brownfield Ag News](https://www.brownfieldagnews.com/news/rep-hinson-seeks-more-congressional-support-for-biofuels/) (Tier 3) (VERIFIED)
@@ -265,7 +263,6 @@ party:: Republican
 
 **Sources**
 
-- ~~[Congress.gov: Ashley Hinson](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -315,3 +312,11 @@ party:: Republican
 
 - {{src:src_003677}} (Tier 1) (VERIFIED)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[GOP Rallies Behind Hinson in Iowa Senate Race | WJBC AM 1230](https://www.wjbc.com/2025/09/05/gop-rallies-behind-hinson-in-iowa-senate-race/)~~ (URL broken, archived by Ops) (Tier 3 - regional broadcast) (Tier 2)
+- ~~[Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Congress.gov: Ashley Hinson](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

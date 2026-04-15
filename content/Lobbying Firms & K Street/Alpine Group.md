@@ -341,7 +341,6 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 - [Senate LDA Filings: Alpine Group Lobbyists, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Alpine Group Issues Lobbied, 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Alpine Group Organization Lobbying Profile](https://www.opensecrets.org/orgs/alpine-group/lobbying?id=D000021816) (Tier 1) (VERIFIED)
-- ~~[The Hill: Lobbying World. Alpine Group Names New CEO](https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PPHC: Alpine Group Strengthens Defense and National Security Team with Abbey Overland](https://pphcompany.com/alpine-group-strengthens-defense-and-national-security-team-with-abbey-overland/) (Tier 3) (VERIFIED)
 - [PPHC: Alpine Group Names Keenan Austin Reed New CEO](https://pphcompany.com/alpine-group-names-keenan-austin-reed-new-ceo/) (Tier 3) (VERIFIED)
 - [PPHC: Greg Walden and Alpine Group Form Alpine Advisors](https://pphcompany.com/greg-walden-and-alpine-group-form-alpine-advisors/) (Tier 3) (VERIFIED)
@@ -351,7 +350,6 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 - [LegiStorm: Les Spivey Biography](https://www.legistorm.com/register.html) (Tier 3) (VERIFIED)
 - [LegiStorm: Colin Brainard Biography](https://www.legistorm.com/person/bio/51052/Colin_C_Brainard.html) (Tier 3) (VERIFIED)
 - [Journal of Accountancy: Ways and Means approves proposed TCJA extensions and tax changes (May 2025)](https://www.journalofaccountancy.com/news/2025/may/ways-and-means-releases-proposed-tcja-extensions-and-tax-changes/) (Tier 2) (VERIFIED)
-- ~~[Tax Notes: Lobbying Swells for TCJA Rewrite; High Tide Forecast for 2025 (Aug 2024)](https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Netherlands expands export curbs on advanced chip tools (Sep 2024)](https://www.cnbc.com/2024/09/06/netherlands-expands-export-curbs-on-advanced-chip-tools.html) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
@@ -369,11 +367,6 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830411414) (Tier 1) (VERIFIED)
@@ -411,3 +404,15 @@ The Walden-Alpine Advisors structure demonstrates how "strategic advisory" funct
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Alpine%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Lobbying World. Alpine Group Names New CEO](https://thehill.com/lobbying/4898825-lobbying-world-alpine-group-ceo/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Tax Notes: Lobbying Swells for TCJA Rewrite; High Tide Forecast for 2025 (Aug 2024)](https://www.taxnotes.com/featured-news/lobbying-swells-tcja-rewrite-high-tide-forecast-2025/2024/08/21/7l4xw)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/830411414/2019)~~ (URL broken, archived by Ops)

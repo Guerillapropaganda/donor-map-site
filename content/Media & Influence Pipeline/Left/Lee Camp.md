@@ -137,7 +137,6 @@ Camp's audience capture mechanism evolved with his platform:
 
 ### Sources
 
-- ~~[Lee Camp. Wikipedia](https://en.wikipedia.org/wiki/Lee_Camp_(comedian)~~ (URL broken, archived by Ops)) (Tier 3) (Chrome-verified 2026-03-27)
 - [Lee Camp official website, leecamp.com](https://leecamp.com) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
 - [Daily Beast: Meet the Sneakiest Defenders of Vladimir Putin's Ukraine Invasion (April 2022)](https://www.thedailybeast.com/meet-the-sneakiest-defenders-of-vladimir-putins-ukraine-invasion-and-chinas-xinjiang-repression/) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
 - [MintPress News: Lee Camp author page](https://www.mintpressnews.com/author/lee-camp/) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
@@ -145,3 +144,9 @@ Camp's audience capture mechanism evolved with his platform:
 - [CNN Business: RT America ceases productions and lays off most of its staff (March 3, 2022)](https://www.cnn.com/2022/03/03/media/rt-america-layoffs) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
 - [FEC: Lee Camp individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=CAMP%2C+LEE) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Lee Camp. Wikipedia](https://en.wikipedia.org/wiki/Lee_Camp_(comedian)~~ (URL broken, archived by Ops)) (Tier 3) (Chrome-verified 2026-03-27)

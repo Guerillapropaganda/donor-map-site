@@ -207,9 +207,6 @@ The **Both-Sides Illusion** applies in reverse here: Shapiro's rhetorical pose a
 - [Wikipedia: The Daily Wire](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3) (VERIFIED)
 - [Wikipedia: Dan and Farris Wilks](https://en.wikipedia.org/wiki/Dan_and_Farris_Wilks) (Tier 3) (VERIFIED)
 - [Vice: How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (VERIFIED)
-- ~~[Axios: The Daily Wire made $22 million from commerce in 2023](https://www.axios.com/2024/05/28/daily-wire-commerce-revenue-2023)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: The Daily Wire eyes growth investment in 2025](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: Daily Wire co-CEO Jeremy Boreing to step down](https://www.axios.com/2025/03/18/daily-wire-jeremy-boreing-steps-down)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Candace Owens departs Ben Shapiro's website after antisemitic commentary](https://www.washingtonpost.com/style/media/2024/03/22/candace-owens-antisemitism-daily-wire-shapiro/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Candace Owens Out at Daily Wire Following Antisemitic Comments](https://www.rollingstone.com/culture/culture-news/candace-owens-leaves-daily-wire-ben-shapiro-anti-semitism-1234992811/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Daily Wire's Ben Shapiro and Candace Owens Spar Over Israel-Hamas War](https://www.rollingstone.com/politics/politics-news/ben-shapiro-candace-owens-fighting-the-daily-wire-israel-hamas-war-1234880402/) (Tier 2) (VERIFIED)
@@ -220,6 +217,14 @@ The **Both-Sides Illusion** applies in reverse here: Shapiro's rhetorical pose a
 - [The Bulwark: A Crack in Ben Shapiro's Daily Wire](https://www.thebulwark.com/p/mysterious-exit-daily-wire-ceo-jeremy-boreing-ben-shapiro) (Tier 2) (VERIFIED)
 - [Barrett Media: The Daily Wire Begins Round of Layoffs](https://barrettmedia.com/2025/04/01/the-daily-wire-begins-round-of-layoffs/) (Tier 3) (VERIFIED)
 - [New Arab: Calls for Ben Shapiro's Daily Wire to be renamed Israel Wire](https://www.newarab.com/news/calls-ben-shapiros-daily-wire-be-renamed-israel-wire) (Tier 3) (VERIFIED)
-- ~~[Canada's National Observer: Danielle Smith and Ben Shapiro discuss Canada electing 'solid allies' to Trump at Florida PragerU event](https://www.nationalobserver.com/2025/03/27/news/danielle-smith-ben-shapiro-prageru-fundraiser)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Edison Research: The Top 50 U.S. Podcasts Q4 2024](https://www.edisonresearch.com/the-top-50-u-s-podcasts-q4-2024/) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: The Daily Wire made $22 million from commerce in 2023](https://www.axios.com/2024/05/28/daily-wire-commerce-revenue-2023)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: The Daily Wire eyes growth investment in 2025](https://www.axios.com/2024/12/10/the-daily-wire-eyes-growth-investment-in-2025)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Daily Wire co-CEO Jeremy Boreing to step down](https://www.axios.com/2025/03/18/daily-wire-jeremy-boreing-steps-down)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Canada's National Observer: Danielle Smith and Ben Shapiro discuss Canada electing 'solid allies' to Trump at Florida PragerU event](https://www.nationalobserver.com/2025/03/27/news/danielle-smith-ben-shapiro-prageru-fundraiser)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -196,8 +196,13 @@ The fundamental asymmetry: a bundler who raises $500K for a senator gets a phone
 - [ActBlue Blog: Q2 2025 grassroots momentum report](https://www.actblue.com/posts/grassroots-donors-keep-breaking-records-q2-2025-shows-undeniable-momentum-on-actblue/) (Tier 1) (VERIFIED)
 - [OpenSecrets: PAC Profile: Justice Democrats, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: PAC Profile: Our Revolution PAC, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/our-revolution-pac/C00676684/donors/2024) (Tier 1) (VERIFIED)
-- ~~[The Hill: Harris campaign fundraising surge on ActBlue](https://thehill.com/elections/4785224-harris-campaign-fundraising-actblue/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Third Way: The Decline of Far-Left Electoral Organizations](https://www.thirdway.org/memo/the-decline-of-far-left-electoral-organizations) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Justice Democrats profile](https://www.influencewatch.org/political-party/justice-democrats/) (Tier 3) (VERIFIED)
 - [USAFacts: Who's funding the 2024 election?](https://usafacts.org/articles/whos-funding-the-2024-election/) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Harris campaign fundraising surge on ActBlue](https://thehill.com/elections/4785224-harris-campaign-fundraising-actblue/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

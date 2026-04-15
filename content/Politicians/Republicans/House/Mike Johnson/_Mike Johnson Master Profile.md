@@ -159,7 +159,6 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 ## Sources
 
-- ~~[Congress.gov: Johnson congressional fundraising](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [The Intercept: AIPAC cash flow to Johnson post-Speaker](https://theintercept.com/2024/01/20/israel-aipac-house-mike-johnson/) (Tier 2) (VERIFIED)
 - [Rolling Stone: ADF employment history](https://www.rollingstone.com/politics/politics-features/mike-johnson-alliance-defending-freedom-anti-lgbtq-1234865340/) (Tier 2) (VERIFIED)
 - [CNBC: Louisiana donor base](https://www.cnbc.com/2023/10/31/mike-johnsons-donors-could-become-key-funders-for-house-gop.html) (Tier 2) (VERIFIED)
@@ -213,3 +212,9 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Johnson congressional fundraising](https://www.congress.gov/search?q=Mike%20Johnson&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

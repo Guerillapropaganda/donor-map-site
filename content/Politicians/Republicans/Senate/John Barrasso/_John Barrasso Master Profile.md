@@ -161,7 +161,6 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 - [Senate Republican Conference: Barrasso Elected Majority Whip for 119th Congress](https://www.republican.senate.gov/2024/11/13/barrasso-elected-as-majority-whip-for-the-119th-congress/) (Tier 1) (VERIFIED)
 - [Accountable.us: $8.8M in Oil Contributions Fueling GOP Climate Opposition](https://accountable.us/new-research-highlights-the-nearly-8-8m-in-oil-contributions-fueling-gop-smears-of-climate-champion-haaland/) (Tier 2) (NEEDS REVIEW)
 - [Earthjustice: What's Behind Attacks on the Endangered Species Act](https://earthjustice.org/article/what-s-behind-attacks-on-the-endangered-species-act-lots-of-industry-money-1) (Tier 2) (VERIFIED)
-- ~~[The Hill: Barrasso to seek top spot on Energy and Natural Resources Committee](https://thehill.com/policy/energy-environment/526525-barrasso-to-seek-top-spot-on-energy-and-natural-resources-committee/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Heatmap News: Senate Energy and Climate Committees Poised for Big Shake-Ups](https://heatmap.news/politics/senate-committee-energy-natural-resources) (Tier 2) (VERIFIED)
 - [DeSmog: Republicans Aim to Limit EPA Power Through Legislation](https://www.desmog.com/2011/02/01/republicans-aim-limit-epa-power-through-legislation/) (Tier 2) (VERIFIED)
 - [GovTrack: John Barrasso](https://www.govtrack.us/congress/members/john_barrasso/412251) (Tier 3) (VERIFIED)
@@ -238,7 +237,6 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 |------|--------|------|--------|-------|
 | 05/01/2018 | -- | Sale | $50,001 - $100,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -261,3 +259,10 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 
 <!-- auto:stock-trades pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Barrasso to seek top spot on Energy and Natural Resources Committee](https://thehill.com/policy/energy-environment/526525-barrasso-to-seek-top-spot-on-energy-and-natural-resources-committee/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

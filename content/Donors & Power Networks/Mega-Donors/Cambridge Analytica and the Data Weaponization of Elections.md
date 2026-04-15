@@ -107,7 +107,6 @@ Cambridge Analytica was hired as consultant by Leave.EU and UKIP during the 2016
 
 - [Wikipedia: Cambridge Analytica](https://en.wikipedia.org/wiki/Cambridge_Analytica) (Tier 3) (VERIFIED)
 - [Wikipedia: Facebook-Cambridge Analytica data scandal](https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal) (Tier 3) (VERIFIED)
-- ~~[The Guardian: Christopher Wylie whistleblower disclosures](https://www-theguardian-com.translate.goog/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FTC: $5 billion penalty and privacy restrictions on Facebook](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (VERIFIED)
 - [Common Cause: Complaint against Cambridge Analytica](https://www.commoncause.org/resources/complaint-against-cambridge-analytica/) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: Coordination violation complaint](https://campaignlegal.org/document/clc-supplemental-complaint-re-cambridge-analytica-and-make-america-number-1) (Tier 2) (VERIFIED)
@@ -151,3 +150,9 @@ Cambridge Analytica was hired as consultant by Leave.EU and UKIP during the 2016
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Guardian: Christopher Wylie whistleblower disclosures](https://www-theguardian-com.translate.goog/news/2018/mar/17/data-war-whistleblower-christopher-wylie-faceook-nix-bannon-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -190,7 +190,6 @@ Key elements: Johnny Chung received $300,000 from Ji Shengde (head of Chinese mi
 > [!contradiction]
 > The 1996 campaign finance scandal revealed that Clinton's DNC — while raising hundreds of millions in legal corporate soft money from Wall Street and telecom — was simultaneously accepting illegal foreign contributions to fund the reelection. The scandal was not an aberration from the donor-class model; it was the model taken to its logical extreme. When legal domestic corporate funding is the norm, illegal foreign funding becomes a difference of degree, not of kind. The DNC returned the foreign money and kept the corporate money — as though one form of purchased influence was legitimate and the other was not.
 
-- ~~[Congress.gov: H. Rept. 105-829 — Investigation of Political Fundraising Improprieties](https://www.congress.gov/committee-report/105th-congress/house-report/829/1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -242,9 +241,6 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 ## Sources
 
 - {{src:src_005663}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Gramm-Leach-Bliley Act (S.900, 106th Congress)](https://www.congress.gov/bill/106th-congress/senate-bill/900)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: NAFTA Implementation Act (H.R.3450, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3450)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Violent Crime Control and Law Enforcement Act (H.R.3355, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3355)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Telecommunications Act of 1996 (S.652, 104th Congress)](https://www.congress.gov/bill/104th-congress/senate-bill/652) (Tier 1) (VERIFIED)
 - [Congress.gov: Personal Responsibility and Work Opportunity Reconciliation Act (H.R.3734, 104th Congress)](https://www.congress.gov/bill/104th-congress/house-bill/3734) (Tier 1) (VERIFIED)
 - [Congress.gov: H. Rept. 105-829 — Investigation of Political Fundraising Improprieties](https://www.congress.gov/committee-report/105th-congress/house-report/829/1) (Tier 1)
@@ -315,5 +311,14 @@ The long-term class consequence: Clinton's realignment of the Democratic Party t
 - Report to the Congress Regarding Conditions in Burma and U.S. Policy Toward Burma (2000-10-31)
 - Delegation of Authority Under the Iran Nonproliferation Act of 2000 (Public Law 106-178) (2000-09-11)
 
-- ~~[Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/william-j-clinton)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:executive-orders end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: H. Rept. 105-829 - Investigation of Political Fundraising Improprieties](https://www.congress.gov/committee-report/105th-congress/house-report/829/1)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Gramm-Leach-Bliley Act (S.900, 106th Congress)](https://www.congress.gov/bill/106th-congress/senate-bill/900)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: NAFTA Implementation Act (H.R.3450, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3450)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Violent Crime Control and Law Enforcement Act (H.R.3355, 103rd Congress)](https://www.congress.gov/bill/103rd-congress/house-bill/3355)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Federal Register - Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/william-j-clinton)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

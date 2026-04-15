@@ -95,7 +95,12 @@ The class function is precise. Kemp represents the institutional Republican resp
 - [Georgia Public Broadcasting: Kemp, Abrams blow away previous fundraising record](https://www.gpb.org/news/2022/11/03/kemp-abrams-blow-away-previous-gubernatorial-campaign-fundraising-record) (Tier 2) (VERIFIED)
 - [Atlanta Journal Constitution: Kemp re-election fundraising dominates](https://www.ajc.com/news/state--regional-govt--politics/georgia-gov-kemp-rakes-726k-after-the-session-for-his-election/dTmL5slWhxzxPjKMn9q8sO/) (Tier 2) (VERIFIED)
 - [American Prospect: Georgia's Latest Attack on the Right to Vote](https://prospect.org/2024/04/01/2024-04-01-georgia-vote-suppression-brian-kemp-democracy/) (Tier 2) (VERIFIED)
-- ~~[ACLU: Kemp Used Absentee Ballot, Then Signed Voter Suppression Law](https://www.aclu.org/press-releases/aclu-georgia-kemp-used-absentee-ballot-and-drop-box-in-november-then-signed-voter)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ACLU: Kemp Used Absentee Ballot, Then Signed Voter Suppression Law](https://www.aclu.org/press-releases/aclu-georgia-kemp-used-absentee-ballot-and-drop-box-in-november-then-signed-voter)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

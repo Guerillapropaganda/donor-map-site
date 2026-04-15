@@ -178,11 +178,8 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 - {{src:src_002884}} (Tier 1) (VERIFIED)
 - [The Intercept: Rubio follows donor dollars, veers from limited-government dogma](https://theintercept.com/2016/01/31/rubio-donor-dollars/) (Tier 2) (VERIFIED)
 - [National Review: Marco Rubio's billion-dollar sugar addiction](https://www.nationalreview.com/2015/11/marco-rubio-sugar-subsidy-support-fanjul-brothers/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Sugar Barons Amass $8 Billion Fortune](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ABC News: Rubio Unanimously Confirmed as Secretary of State](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Rubio Nomination Roll Call](https://www.congress.gov/nomination/119th-congress/11/13)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NBC News: The many immigration positions of Marco Rubio](https://www.nbcnews.com/politics/2016-election/marco-rubio-s-record-immigration-more-complicated-you-think-n488601) (Tier 2) (VERIFIED)
-- ~~[NBC News: Rubio. Gang of 8 bill never meant to pass](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Al Jazeera: Marco Rubio, traditionalist hawk in the age of Trump](https://www.aljazeera.com/features/2025/2/20/marco-rubio-a-traditionalist-hawk-in-the-age-of-trump) (Tier 2) (VERIFIED)
 - [Foreign Policy: Under Trump and Rubio, U.S. might intervene more in Latin America](https://foreignpolicy.com/2024/11/13/trump-rubio-secretary-state-latin-america-cuba-venezuela/) (Tier 2) (VERIFIED)
 - [Wikipedia: Marco Rubio](https://en.wikipedia.org/wiki/Marco_Rubio) (Tier 3) (VERIFIED)
@@ -204,3 +201,11 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Sugar Barons Amass $8 Billion Fortune](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Rubio Nomination Roll Call](https://www.congress.gov/nomination/119th-congress/11/13)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[NBC News: Rubio. Gang of 8 bill never meant to pass](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

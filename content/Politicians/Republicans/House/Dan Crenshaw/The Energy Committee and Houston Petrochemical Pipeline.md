@@ -69,8 +69,6 @@ Crenshaw is explicit about the district-donor alignment in ways most members avo
 - {{src:src_004487}} (Tier 1) (VERIFIED)
 - {{src:src_004487}} (Tier 1) (VERIFIED)
 - {{src:src_004487}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: H.R.7176. Unlocking our Domestic LNG Potential Act of 2024](https://www.congress.gov/bill/118th-congress/house-bill/7176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Dan_Crenshaw) (Tier 3) (VERIFIED)
 - [Houston Public Media: Houston Ship Channel deemed 'sacrifice zone' by Amnesty International](https://www.houstonpublicmedia.org/articles/news/energy-environment/2024/01/26/475695/houston-ship-channel-deemed-sacrifice-zone-in-new-pollution-report-by-amnesty-international/) (Tier 2) (VERIFIED)
 - [Texas Standard: New EPA rules could improve air quality along polluted Houston Ship Channel](https://www.texasstandard.org/stories/new-epa-rules-could-improve-air-quality-along-polluted-houston-ship-channel/) (Tier 2) (VERIFIED)
@@ -79,3 +77,10 @@ Crenshaw is explicit about the district-donor alignment in ways most members avo
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R.7176. Unlocking our Domestic LNG Potential Act of 2024](https://www.congress.gov/bill/118th-congress/house-bill/7176)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

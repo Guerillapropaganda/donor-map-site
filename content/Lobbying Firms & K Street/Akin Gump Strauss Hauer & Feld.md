@@ -269,7 +269,6 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 - [Senate LDA Filings: Akin Gump et al Issues Lobbied 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Retired Reps. find new lobbying jobs with former campaign contributor](https://www.opensecrets.org/news/2019/01/retired-reps-find-new-lobbying-jobs-with-former-campaign-contributor/) (Tier 1) (VERIFIED)
 - [CREW: Former Reps. Shuster, Smith, Ros-Lehtinen chaired committees on issues they now lobby on](https://www.citizensforethics.org/reports-investigations/crew-investigations/former-reps-shuster-smith-ros-lehtinen-chaired-committees-on-issues-they-now-lobby-on/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Ex-GOP lawmakers Ros-Lehtinen, Lamar Smith join top lobbying firm](https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Akin Gump Press Release: Former U.S. Senator Joe Donnelly to Join Akin Gump](https://www.akingump.com/en/insights/press-releases/former-u-s-senator-joe-donnelly-to-join-akin-gump) (Tier 3) (VERIFIED)
 - [Senate LDA Filings: Akin Gump et al Client List 2024](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Akin Gump Revolving Door Profile](https://www.opensecrets.org/revolving-door?id=D000000162) (Tier 1) (VERIFIED)
@@ -325,7 +324,6 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 - Embassy of Japan (JAPAN)
 - Embassy of the United Arab Emirates (UNITED ARAB EMIRATES)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Register Activity
@@ -349,3 +347,11 @@ This is what $65 million per year buys. Not policies. Not legislation. Not outco
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Akin%20Gump%20Strauss%20Hauer%20%26%20Feld%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Ex-GOP lawmakers Ros-Lehtinen, Lamar Smith join top lobbying firm](https://thehill.com/business-a-lobbying/business-a-lobbying/424130-ex-gop-lawmakers-ros-lehtinen-lamar-smith-join-akin/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Akin%20Gump%20Strauss%20Hauer%20%26%20Feld)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

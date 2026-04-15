@@ -326,5 +326,10 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 - Vobev, LLC (2024) — United States Bankruptcy Court, D. Utah
 - Hawaii Carpenters Trust Funds v. NORPAC Walls & Ceilings (2024) — District Court, D. Hawaii
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NORPAC%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NORPAC%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -77,7 +77,6 @@ Newsom significantly built up California's rainy day fund, the Budget Stabilizat
 ### Sources
 
 - [CalMatters: deficit and surplus coverage](https://calmatters.org/category/economy/) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Newsom is set to unveil his last budget, $18 billion deficit looms, January 2026](https://calmatters.org/category/politics/2026/01/gavin-newsom-politics-budget-deficit/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC Los Angeles: $3B deficit, less money from federal govt, what we know about California's 2026 budget](https://www.nbclosangeles.com/news/local/california-budget-proposal-2026-newsom/3829461/) (Tier 2) (VERIFIED)
 - [CalMatters: Opinion. Newsom's last budget belies his 'California for All' pledge, February 2026](https://calmatters.org/commentary/2026/02/newsom-budget-california-for-all/) (Tier 2) (VERIFIED)
 
@@ -107,3 +106,9 @@ Newsom significantly built up California's rainy day fund, the Budget Stabilizat
 > Newsom's attack file includes four straight years of deficits. His 2026-27 budget projects a modest $2.9B shortfall, but the LAO shows the structural gap grows to $22–27B in the years he would be running for president. He's leaving California with a deteriorating fiscal baseline — which his Republican opponents will frame as "California for All went bankrupt."
 >
 > The Medi-Cal cuts are a particular liability: he's reversing his own progressive achievement to close a gap caused partly by the federal Medicaid restructuring in the One Big Beautiful Bill. The donor-compatible framing is "fiscal responsibility." The working-class cost is 200,000 immigrants losing healthcare coverage.
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Newsom is set to unveil his last budget, $18 billion deficit looms, January 2026](https://calmatters.org/category/politics/2026/01/gavin-newsom-politics-budget-deficit/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

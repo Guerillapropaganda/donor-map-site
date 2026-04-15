@@ -220,14 +220,10 @@ Trump administration, deregulatory alignment, inauguration donations
 
 - [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 - [CalMatters: California Proposition 22. Exempting some gig workers](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2) (VERIFIED)
-- ~~[LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Mercury News: Uber Innovation PAC 2024 legislative spending](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2) (VERIFIED)
 - [Transparency USA: Uber Innovation PAC filings](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2) (VERIFIED)
-- ~~[Northern California Record: $30M PAC commitment](https://norcalrecord.com/stories/665656819-uber-invested-30-million-in-pac-aims-to-reshape-california-s-political-landscape/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yahoo Finance: Khosrowshahi/Uber Trump inauguration](https://finance.yahoo.com/news/uber-ceo-donate-1-million-213832942.html) (Tier 2) (VERIFIED)
-- ~~[CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Senate LDA Filings: Uber federal lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [FPPC: contribution filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
@@ -477,7 +473,6 @@ Trump administration, deregulatory alignment, inauguration donations
 
 - ~~[UberScientific Recalls Topical Anesthetic Due to Failure to Meet Child Resistant Closure Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/19001)~~ (URL broken, archived by Ops) (2018-10-01) — The packaging is not child resistant as required by the Poison Prevention Packaging Act. The pain relieving cream and spray contain lidocaine, posing a risk of poisoning to young children if they put it on their skin or ingest it.
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -496,5 +491,15 @@ Trump administration, deregulatory alignment, inauguration donations
 - P. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
 - H. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Uber%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[LA Times: $205M spending total](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Northern California Record: $30M PAC commitment](https://norcalrecord.com/stories/665656819-uber-invested-30-million-in-pac-aims-to-reshape-california-s-political-landscape/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Uber)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Uber%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

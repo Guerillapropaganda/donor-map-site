@@ -194,12 +194,10 @@ The American Federation for Children represents the school privatization movemen
 - [OpenSecrets: American Federation for Children Profile](https://www.opensecrets.org/orgs/american-federation-for-children/summary?id=D000067130) (Tier 1) (VERIFIED)
 - [OpenSecrets: School Choice Group Spends Millions to Oust Recalcitrant Republicans](https://www.opensecrets.org/news/2024/03/school-choice-group-spends-millions-to-oust-recalcitrant-republicans/) (Tier 1) (VERIFIED)
 - [OpenSecrets: School Choice Super PAC Targets Texas GOP Incumbents](https://www.opensecrets.org/news/2024/03/school-choice-super-pac-targets-texas-gop-incumbents/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Educational Choice for Children Act (S.292)](https://www.congress.gov/bill/119th-congress/senate-bill/292)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica Nonprofit Explorer: AFC Growth Fund (990)](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1) (VERIFIED)
 - [US Dept. of Education: Title I School Choice Guidance (March 2025)](https://www.ed.gov/about/news/press-release/department-of-education-encourages-states-expand-education-choice-leveraging-flexibilities-title-i-funds) (Tier 1) (VERIFIED)
 - [US Dept. of Education: Charter Schools Program $500M Funding](https://www.ed.gov/about/news/press-release/secretary-mcmahon-announces-immediate-increased-funding-new-grant-program-charter-schools) (Tier 1) (VERIFIED)
 - [NCSL: Education Savings Accounts State Policy Scan](https://www.ncsl.org/education/education-choice-state-policy-scan-education-savings-accounts) (Tier 1) (VERIFIED)
-- ~~[Economic Policy Institute: Vouchers Harm Public Schools](https://www.epi.org/publication/vouchers-harm-public-schools/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [EPI: School Vouchers Are Not a Proven Strategy](https://www.epi.org/publication/school-vouchers-are-not-a-proven-strategy-for-improving-student-achievement/) (Tier 2) (VERIFIED)
 - [Brookings: More Findings About School Vouchers. Still Negative](https://www.brookings.edu/articles/more-findings-about-school-vouchers-and-test-scores-and-they-are-still-negative/) (Tier 2) (VERIFIED)
 - [ProPublica: School Vouchers and the 2024 Election](https://www.propublica.org/article/school-vouchers-2024-election-trump) (Tier 2) (VERIFIED)
@@ -208,7 +206,6 @@ The American Federation for Children represents the school privatization movemen
 - [WHYY: Jeff Yass Single-Handedly Keeping School Choice PACs Flush](https://whyy.org/articles/jeff-yass-the-richest-man-in-pa-is-single-handedly-keeping-school-choice-pacs-flush/) (Tier 2) (VERIFIED)
 - [CBPP: State Policymakers Should Reject School Voucher Plans](https://www.cbpp.org/research/state-budget-and-tax/state-policymakers-should-reject-k-12-school-voucher-plans) (Tier 2) (VERIFIED)
 - [Washington Post: High court opens the door to more public funding of religious schools](https://www.washingtonpost.com/education/2022/06/21/religious-school-supreme-court-carson/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_American_Federation_for_Children)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Ballotpedia: American Federation for Children](https://ballotpedia.org/American_Federation_for_Children) (Tier 3) (VERIFIED)
 
 ---
@@ -291,7 +288,6 @@ The American Federation for Children represents the school privatization movemen
 - United States v. Kelsey (2021) — District Court, M.D. Tennessee
 - NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE v. DEVOS (2020) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Federation%20for%20Children%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -345,12 +341,21 @@ The American Federation for Children represents the school privatization movemen
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Educational Choice for Children Act (S.292)](https://www.congress.gov/bill/119th-congress/senate-bill/292)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Economic Policy Institute: Vouchers Harm Public Schools](https://www.epi.org/publication/vouchers-harm-public-schools/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: American Federation for Children](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/The_American_Federation_for_Children)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Federation%20for%20Children%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/330627955/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

@@ -165,7 +165,6 @@ The personal financial structure mirrors the institutional one. Roberts's estima
 - [SCOTUSblog: NFIB v. Sebelius](https://www.scotusblog.com/cases/case-files/national-federation-of-independent-business-v-sebelius/) (Tier 2) (VERIFIED)
 - [CNN: How John Roberts Killed the Census Citizenship Question](https://www.cnn.com/2019/09/12/politics/john-roberts-census-citizenship-supreme-court) (Tier 2) (VERIFIED)
 - [NPR: Supreme Court Justices' Disclosures Reveal Details of Their Wealth](https://www.npr.org/2023/06/28/1183337280/supreme-court-ethics-financial-disclosures-possible-conflicts-of-interest) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Loper Bright and the Future of Agency Interpretations](https://www.congress.gov/crs-product/R48320)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -192,3 +191,9 @@ The personal financial structure mirrors the institutional one. Roberts's estima
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Loper Bright and the Future of Agency Interpretations](https://www.congress.gov/crs-product/R48320)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

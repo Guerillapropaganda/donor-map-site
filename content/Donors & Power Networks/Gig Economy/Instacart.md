@@ -157,5 +157,10 @@ Independent contractor classification for gig workers (nationally and in every s
 - United States v. Jelks (2026) — District Court, D. Alaska
 - Uncle Nearest, Inc. (2026) — United States Bankruptcy Court, E.D. Tennessee
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Instacart%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Instacart%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

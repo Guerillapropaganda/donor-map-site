@@ -173,10 +173,8 @@ The funding model is structurally captured without any single donor or patron. T
 - [Boston Globe: How Podcaster Lex Fridman Became MIT's Highest-Profile Science Ambassador (Feb 2024)](https://www.bostonglobe.com/2024/02/14/business/lex-fridman-mit-science-ambassador-podcast/) (Tier 2) (VERIFIED)
 - [Lex Fridman Podcast. Official Sponsors Page](https://lexfridman.com/sponsors/) (Tier 1) (VERIFIED)
 - [MIT LIDS Research Staff](https://lids.mit.edu/people/research-staff) (Tier 1) (VERIFIED)
-- ~~[Lex Fridman. MIT CCES Team Page](https://cces.mit.edu/team/lex-fridman/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - [Washington Post: Zelensky Seeks New Republican Audience in Lex Fridman Interview (Jan 2025)](https://www.washingtonpost.com/world/2025/01/10/ukraine-zelensky-lex-fridman-podcasts/) (Tier 2) (VERIFIED)
 - [Helen Lewis, The Atlantic: Trump's Red-Pill Podcast Tour (Sep 2024)](https://www.theatlantic.com/technology/archive/2024/09/donald-trump-cat-memes/679775/) (Tier 2) (VERIFIED)
-- ~~[Nathan J. Robinson, Current Affairs: "The Guy Who Just Loves Everyone" (Jan 2023)](https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Business Insider: Julia Black, "Safe Space for Anti-Woke Tech Elite" (Apr 2023)](https://www.businessinsider.com/lex-fridman-podcast-anti-woke-elon-musk-ai) (Tier 2) (VERIFIED)
 - [Sponsorable: Lex Fridman Podcast Sponsor Data (402/494 episodes sponsored, 119 companies)](https://sponsorable.com/podcasts/lex-fridman-podcast) (Tier 3) (VERIFIED)
 - [Lex Fridman on X: "I'm not right-wing or left-wing."](https://x.com/lexfridman/status/1600669648185446403) (Tier 1) (VERIFIED)
@@ -184,3 +182,10 @@ The funding model is structurally captured without any single donor or patron. T
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Lex Fridman. MIT CCES Team Page](https://cces.mit.edu/team/lex-fridman/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Nathan J. Robinson, Current Affairs: "The Guy Who Just Loves Everyone" (Jan 2023)](https://www.currentaffairs.org/posts/the-guy-who-just-loves-everyone)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)

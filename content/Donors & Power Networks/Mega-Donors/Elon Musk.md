@@ -358,7 +358,6 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 ### Political Spending:
 - [OpenSecrets. Elon Musk 2024 donor profile](https://www.fec.gov/data/independent-expenditures/?q=Elon%20Musk) (Tier 1)
 - [OpenSecrets News, 2024 political donors ranking](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1) (VERIFIED)
-- ~~[The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News. Elon Musk's quarter-billion-dollar 2024 spending](https://www.nbcnews.com/politics/2024-election/elon-musk-spent-quarter-billion-dollars-electing-trump-financing-myste-rcna182922) (Tier 2) (VERIFIED)
 - [Al Jazeera. Musk's $75M pro-Trump group contribution](https://www.aljazeera.com/news/2024/10/16/musk-gave-seventy-five-million-to-pro-trump-group-underscoring-influence-on-race) (Tier 2) (VERIFIED)
 
@@ -395,7 +394,6 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 ### Legal:
 - [CNBC. SEC settlement talks March 2026](https://www.cnbc.com/2026/03/17/elon-musk-sec-in-talks-to-settle-government-lawsuit-over-twitter-deal.html) (Tier 2) (VERIFIED)
 - [SEC.gov. Elon R. Musk litigation release](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26219) (Tier 1) (VERIFIED)
-- ~~[Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Net Worth:
 - [Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/profiles/elon-r-musk/) (Tier 1)
@@ -434,7 +432,6 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **DOGE self-assessment (March 2026):** Musk told PBS that DOGE was "only somewhat successful" and that he "wouldn't do it again." This is the first major public admission from Musk that the operation fell short, corroborating the Cavanaugh deposition findings above.
 
-- ~~[Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fortune: Elon Musk's retreat from DOGE has lifted Tesla's valuation by $158 billion](https://fortune.com/article/elon-musk-doge-tesla-stock-market-cap-outlook/) (Tier 2) (VERIFIED)
 - [PBS: Elon Musk says DOGE was only 'somewhat successful' and he wouldn't do it again](https://www.pbs.org/newshour/politics/elon-musk-says-doge-was-only-somewhat-successful-and-he-wouldnt-do-it-again) (Tier 2) (VERIFIED)
 
@@ -444,7 +441,6 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 
 **DHS shutdown deepens Musk contradictions:** With the DHS shutdown in its 38th day (March 24), 366 TSA officers have quit and callout rates are 5x normal. ICE agents are now deployed to airports to cover TSA shortfalls. Musk's earlier offer to pay TSA salaries remains unresolved, the architect of government destruction offering to personally subsidize the wreckage.
 
-- ~~[Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Government Executive: Inside DOGE's early days of chaos](https://www.govexec.com/management/2026/03/inside-doges-early-days-pressure-campaigns-rule-breaking-and-chaos/412193/) (Tier 2) (VERIFIED)
 
 ---
@@ -529,3 +525,12 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
 
 <!-- auto:sec-edgar pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill. Musk contributes to Trump super PAC](https://www.thehill.com/homenews/campaign/4953444-elon-musk-contributes-trump-super-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg. Musk seeks dismissal of SEC lawsuit](https://www.bloomberg.com/news/articles/2025-08-29/musk-seeks-dismissal-of-sec-suit-over-twitter-stake-disclosure)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Elon Musk Plans Terafab Chip Facility in Austin with Tesla, SpaceX, xAI](https://www.bloomberg.com/news/articles/2026-03-22/elon-musk-says-tesla-xai-spacex-terafab-to-start-in-austin)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Appeals court blocks Musk deposition in DOGE fight](https://www.bloomberg.com/news/articles/2026-03-04/elon-musk-deposition-blocked-by-appeals-court-in-doge-fight)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

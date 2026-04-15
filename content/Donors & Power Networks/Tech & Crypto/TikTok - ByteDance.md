@@ -70,7 +70,6 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 ### Sources
 
 - [OpenSecrets: TikTok/ByteDance lobbying](https://www.opensecrets.org/orgs/bytedance-inc/summary?id=D000073174) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Supreme Court: TikTok v. Garland](https://www.supremecourt.gov/search.aspx?Search=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
 - [Ballotpedia: TikTok ban](https://ballotpedia.org/TikTok_-_ByteDance) (Tier 3) (VERIFIED)
 
@@ -125,3 +124,9 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Protecting Americans from Foreign Adversary Controlled Applications Act](https://www.congress.gov/bill/118th-congress/house-bill/7521)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

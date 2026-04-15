@@ -206,9 +206,7 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 - [CBS News: Feds killed plan to curb Medicare Advantage overbilling after industry opposition](https://www.cbsnews.com/news/medicare-advantage-overbilling-feds-kill-bill-after-industry-opposition/) (Tier 2) (VERIFIED)
 - [NPR: Medicare Advantage plans overcharged taxpayers, dodged auditors](https://www.npr.org/sections/health-shots/2022/12/12/1141926550/medicare-advantage-plans-overcharged-taxpayers-dodged-auditors) (Tier 2) (VERIFIED)
 - [KFF Health News: UnitedHealth wins ruling over $2B in alleged Medicare Advantage overpayments](https://kffhealthnews.org/news/article/unitedhealth-special-master-ruling-medicare-advantage-overpayments/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Jacobin: UnitedHealthcare's decades-long fight to block reform](https://jacobin.com/2024/12/unitedhealthcare-reform-political-lobbying) (Tier 3) (VERIFIED)
-- ~~[FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -385,3 +383,10 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Insurance%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Medicare Advantage overpayments cost seniors billions](https://thehill.com/policy/healthcare/5777186-medicare-advantage-overpayments-raise-premiums/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FollowTheMoney: Health insurance companies give healthy donations to political campaigns](https://www.followthemoney.org/research/institute-reports/health-insurance-companies-give-healthy-donations-to-political-campaigns)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)

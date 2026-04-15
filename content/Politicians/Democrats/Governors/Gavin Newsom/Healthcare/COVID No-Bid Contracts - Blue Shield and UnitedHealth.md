@@ -85,8 +85,13 @@ This is the clearest documented example of the donor-contract cycle in Newsom's 
 ### Sources
 
 - [CapRadio: Blue Shield / UnitedHealth no-bid contracts (primary investigation)](https://www.capradio.org/articles/2021/02/16/investigation-big-newsom-donors-including-blue-shield-received-no-bid-contracts-during-covid-19-response/) (Tier 2) (VERIFIED)
+- [CapRadio: Another $282M in no-bid pandemic contracts to major Newsom contributor UnitedHealth](https://www.capradio.org/articles/2021/03/25/another-282m-in-no-bid-pandemic-contracts-to-major-newsom-contributor-unitedhealth/) (Tier 2) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[FollowTheMoney.org: Blue Shield of California campaign finance (California state-level)](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=COVID%20No-Bid%20Contracts%20-%20Blue%20Shield%20and%20UnitedHealth#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - ~~[FollowTheMoney.org: UnitedHealth Group campaign finance (California state-level)](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=COVID%20No-Bid%20Contracts%20-%20Blue%20Shield%20and%20UnitedHealth#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
-- [CapRadio: Another $282M in no-bid pandemic contracts to major Newsom contributor UnitedHealth](https://www.capradio.org/articles/2021/03/25/another-282m-in-no-bid-pandemic-contracts-to-major-newsom-contributor-unitedhealth/) (Tier 2) (VERIFIED)
 - ~~[ACLU: Healthcare Industry Lobbying and Campaign Finance in COVID Response](https://www.aclu.org/news/health-care-advocacy/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-

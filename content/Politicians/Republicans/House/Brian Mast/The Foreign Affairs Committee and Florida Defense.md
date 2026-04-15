@@ -38,7 +38,12 @@ Mast is one of AIPAC's most reliable allies in the House. He volunteered with th
 
 ### Sources
 
-- ~~[Congress.gov: Brian Mast member profile](https://www.congress.gov/member/brian-mast/M001199)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_004544}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Brian Mast](https://ballotpedia.org/Brian_Mast) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Brian Mast member profile](https://www.congress.gov/member/brian-mast/M001199)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

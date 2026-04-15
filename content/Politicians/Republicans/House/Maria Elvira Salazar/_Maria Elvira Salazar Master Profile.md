@@ -184,7 +184,6 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 | 5246 | To provide for the political affairs authorities of the Department of State, and… | Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0. |
 | 4393 | DIGNIDAD (Dignity) Act of 2025 | Referred to the Committee on the Judiciary, and in addition to the Committees on Homeland Security, Ways and Means, Transportation and Infrastructure, Education and Workforce, Oversight and Government Reform, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S000168)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### OFAC Sanctions Screening
@@ -277,12 +276,18 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 - National Security, Illicit Finance, and International Financial Institutions
 - Western Hemisphere
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Maria Elvira Salazar](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S000168)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Maria Elvira Salazar](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

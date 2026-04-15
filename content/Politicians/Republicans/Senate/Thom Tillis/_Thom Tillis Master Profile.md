@@ -232,7 +232,6 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 - [PolitiFact: Cunningham half right about Tillis role in prescription drug efforts](https://www.politifact.com/factchecks/2020/sep/24/cal-cunningham/cunningham-half-right-about-tillis-role-prescripti/) (Tier 2) (VERIFIED)
 - [WRAL (Raleigh): Fact check: Cunningham says Tillis blocked 'his own party's efforts to reduce' drug prices](https://www.wral.com/fact-check-cunningham-says-tillis-blocked-his-own-party-s-efforts-to-reduce-drug-prices/19293502/) (Tier 2) (VERIFIED)
 - [CNN Politics: GOP senators seethe as Trump blows up delicate immigration compromise](https://www.cnn.com/2024/01/25/politics/gop-senators-angry-trump-immigration-deal/index.html) (Tier 2) (VERIFIED)
-- ~~[The Hill: GOP senator: 'Immoral' to kill border deal to help Trump](https://www.thehill.com/homenews/senate/4432079-thom-tillis-immoral-kill-border-deal-trump/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Spectrum Local News: Why Tillis changed his position on immigration compromise](https://spectrumlocalnews.com/nc/charlotte/news/2024/02/08/why-tillis-changed-his-position-on-immigration-compromise) (Tier 2) (VERIFIED)
 - [WUNC News: Senate race in NC expected to be most expensive ever](https://www.wunc.org/term/news/2025-12-02/most-expensive-senate-race-ever) (Tier 2) (VERIFIED)
 
@@ -260,7 +259,6 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 | 02/13/2015 | VSI | Sale | $1,001 - $15,000 | Joint |
 | 02/13/2015 | TYPE | Sale | $1,001 - $15,000 | Joint |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ## Influence Network (Cross-Reference)
@@ -338,3 +336,10 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 
 - {{src:src_003157}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: GOP senator: 'Immoral' to kill border deal to help Trump](https://www.thehill.com/homenews/senate/4432079-thom-tillis-immoral-kill-border-deal-trump/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -307,7 +307,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - [Khanna.house.gov: Statement on lone NDAA no vote](https://khanna.house.gov/media/press-releases/statement-khanna-long-no-vote-ndaa-out-house-armed-services-committee) (Tier 1) (VERIFIED)
 - [Common Dreams: Khanna says he is "proud" of lone no vote against $886B military budget](https://www.commondreams.org/news/khanna-no-vote-military-budget) (Tier 2) (VERIFIED)
 - [Common Dreams: Khanna hits back as Silicon Valley oligarchs threaten primary challenge](https://www.commondreams.org/news/khanna-tech-oligarchs) (Tier 2) (VERIFIED)
-- ~~[The Hill: Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax](https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: California's Ro Khanna faces Silicon Valley backlash after embracing wealth tax](https://www.cnbc.com/2025/12/29/silicon-valley-ro-khanna-faces-tech-backlash-over-wealth-tax.html) (Tier 2) (VERIFIED)
 - [SF Standard: Ro Khanna to face primary challenger amid stock trading, billionaire tax backlash](https://sfstandard.com/2026/03/03/ro-khanna-ethan-agarwal-congress/) (Tier 2) (VERIFIED)
 - [NBC News: Ro Khanna wonders who might lead Democrats in 2028](https://www.nbcnews.com/politics/congress/rep-ro-khanna-lead-democrats-2028-rcna201509) (Tier 2) (VERIFIED)
@@ -442,7 +441,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 **Sources**
 
-- ~~[Congress.gov: Ro Khanna](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -473,7 +471,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 | 1092 | Condemning Israeli settlement expansion, settler violence, and related human rig… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 1093 | Acknowledging oppression, forced eviction, and suffering experienced by tens of … | Referred to the House Committee on Foreign Affairs. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/K000389)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -491,7 +488,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 - Economic Growth, Energy Policy, and Regulatory Affairs
 - Seapower and Projection Forces
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -538,3 +534,12 @@ Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. rep
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Ro_Khanna) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7339221) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Ro Khanna faces primary challenge, Silicon Valley backlash over wealth tax](https://thehill.com/policy/technology/5776595-khanna-agarwal-california-congressional/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Ro Khanna](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/K000389)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

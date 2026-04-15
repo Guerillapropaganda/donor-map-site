@@ -87,7 +87,6 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 - Google donor node (if exists in `Donors & Power Networks/Tech & Crypto/`)
 
 ### Lead sources (all Chrome-verified VALID):
-- ~~[The Hill: Senate Democrats press Google, YouTube on Trump settlement](https://thehill.com/policy/technology/5557463-google-youtube-trump-lawsuit-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 **Note:** TechTarget (Google breakup off table) and CNBC (antitrust remedies) cited in search results. URLs need Chrome verification before use.
 
@@ -109,7 +108,6 @@ Automated scan for unreported donor-to-policy connections. All source URLs Chrom
 
 ### Lead sources (all Chrome-verified VALID):
 - [Campaign Legal Center: Elon Musk has grown even wealthier through serving in Trump's administration](https://campaignlegal.org/update/elon-musk-has-grown-even-wealthier-through-serving-trumps-administration) (Tier 2) (VERIFIED)
-- ~~[The Hill: Palantir courts major federal contracts and controversy in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 **Note:** Washington Post ($38B figure) and ABC News cited in results. URLs need Chrome verification before vault use.
 
@@ -206,3 +204,10 @@ URLs referenced in search results but NOT yet Chrome-verified (mark `UNVERIFIED`
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Senate Democrats press Google, YouTube on Trump settlement](https://thehill.com/policy/technology/5557463-google-youtube-trump-lawsuit-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Palantir courts major federal contracts and controversy in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

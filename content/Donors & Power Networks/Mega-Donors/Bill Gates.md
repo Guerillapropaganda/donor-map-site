@@ -160,7 +160,6 @@ The class analysis is straightforward: Gates built his fortune on intellectual p
 - Emrit v. Gates, et al. (2026) — Court of Appeals for the Ninth Circuit
 - Audrey D. Tomerlin v. Angeleina Jolie (2026) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bill%20Gates%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -177,3 +176,9 @@ The class analysis is straightforward: Gates built his fortune on intellectual p
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bill%20Gates%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -272,7 +272,6 @@ While Newsom's prison closures appear progressive, they eliminated for-profit co
 
 ### Sources:
 - [CalMatters: Why California's Prison Guard Union Is Spending Like Never Before on Gavin Newsom](https://calmatters.org/justice/2024/07/ccpoa-gavin-newsom/) (Tier 2) (VERIFIED)
-- ~~[FPPC: Newsom 2018 Campaign Contributors](https://www.fppc.ca.gov/transparency/top-contributors/jun-18-primary.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [California Department of Corrections and Rehabilitation: Prison Closures](https://www.cdcr.ca.gov/prison-closures/) (Tier 1) (VERIFIED)
 - [CalMatters: As California Closes Prisons, Correctional Officers Land a $1 Billion Contract with Raises and More](https://calmatters.org/justice/2023/08/ccpoa-contract-2023-california-prisons/) (Tier 2) (VERIFIED)
 - [LAist: As California Closes Prisons, Correctional Officers Land a $1 Billion Contract with Raises and More](https://laist.com/news/criminal-justice/as-california-closes-prisons-correctional-officers-land-a-1-billion-contract-with-raises-and-more) (Tier 2) (VERIFIED)
@@ -288,3 +287,9 @@ All 13 deep-dive files contain individually verified sources with tier ratings a
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FPPC: Newsom 2018 Campaign Contributors](https://www.fppc.ca.gov/transparency/top-contributors/jun-18-primary.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

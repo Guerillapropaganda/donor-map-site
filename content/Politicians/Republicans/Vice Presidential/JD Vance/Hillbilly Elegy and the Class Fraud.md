@@ -157,10 +157,8 @@ This is not evidence of legislative incompetence. It is evidence that Vance's Se
 
 ### Tier 1 (Primary/Government):
 - [Wikipedia: Hillbilly Elegy article with criticism section](https://en.wikipedia.org/wiki/Hillbilly_Elegy) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: J. D. Vance Senate voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
-- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 2) (VERIFIED)
 - [Global Comment: A mass of contradictions - Hillbilly Elegy review](https://globalcomment.com/a-mass-of-contradictions-hillbilly-elegy-by-j-d-vance-review/) (Tier 2) (VERIFIED)
 
@@ -178,3 +176,10 @@ This is not evidence of legislative incompetence. It is evidence that Vance's Se
 
 **content-readiness:** developed
 **last-updated:** 2026-03-20
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: J. D. Vance Senate voting record](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

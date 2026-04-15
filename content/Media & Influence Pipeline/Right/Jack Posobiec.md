@@ -223,7 +223,6 @@ Any editorial decision that contradicts these dependencies creates instant press
 - [ABC News: Pizzagate promotion and conspiracy amplification](https://abcnews.com/US/trump-retweets-alt-activist-pushed-pizzagate-conspiracy/story?id=49221083) (Tier 2) (VERIFIED)
 - [Just Security/DFRLab: Stop the Steal timeline and January 6 coordination](https://www.justsecurity.org/74622/stopthesteal-timeline-of-social-media-and-extremist-activities-leading-to-1-6-insurrection/) (Tier 2) (VERIFIED)
 - [NBC News: CPAC January 6 comments](https://www.nbcnews.com/politics/2024-election/jack-posobiec-jan-6-2024-cpac-rcna140225) (Tier 2) (VERIFIED)
-- ~~[New York Times: RNC poll watcher training deployment](https://www.nytimes.com/2024/09/26/us/politics/republican-national-committee-2024-posobiec.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [HuffPost: Unhumans book and JD Vance endorsement](https://www.huffpost.com/entry/jd-vance-jack-posobiec_n_66a2755fe4b04c3a302465e7) (Tier 2) (VERIFIED)
 - [The Baffler: Dehumanization rhetoric and Roger Stone](https://thebaffler.com/latest/unhuman-resources-gais) (Tier 2) (VERIFIED)
 - [Deadline: JTN Networks acquisition of Human Events](https://deadline.com/2025/11/right-wing-media-brands-merge-just-the-news-human-events-1236616651/) (Tier 3) (VERIFIED)
@@ -231,3 +230,9 @@ Any editorial decision that contradicts these dependencies creates instant press
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: RNC poll watcher training deployment](https://www.nytimes.com/2024/09/26/us/politics/republican-national-committee-2024-posobiec.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

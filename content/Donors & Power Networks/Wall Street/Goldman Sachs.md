@@ -231,7 +231,6 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [Goldman Sachs Lobbying Profile. OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [Goldman Sachs PAC Finance Summary 2025–2026. BeautifyData](https://beautifydata.com/us-campaign-donations/2025-2026/pac-summary/the-goldman-sachs-group-inc-political-action-committee) (Tier 3) (VERIFIED)
 - [U.S. banks' IPOs and political money contributions. ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1572308922000808) (Tier 2) (VERIFIED)
-- ~~[Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - {{src:src_008865}} (Tier 1) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
@@ -244,7 +243,6 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 | Net Assets | $648.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 311678646](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F311678646_202312_990PF_2025010222971038.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -357,11 +355,6 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/311678646) (Tier 1) (VERIFIED)
@@ -391,3 +384,15 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Goldman%20Sachs) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Goldman Sachs Keeps Its Wallet Closed to Politicians, Parties. Bloomberg](https://www.bloomberg.com/news/articles/2021-07-08/goldman-sachs-keeps-its-wallet-closed-to-politicians-parties)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F311678646_202312_990PF_2025010222971038.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/311678646/2019)~~ (URL broken, archived by Ops)

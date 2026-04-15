@@ -145,12 +145,9 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 
 - [Sunlight Foundation: The Legacy of Billy Tauzin: The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2) (VERIFIED)
 - [PBS Frontline: Obama's Deal](https://www.pbs.org/wgbh/frontline/documentary/obamasdeal/) (Tier 2) (VERIFIED)
-- ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for Public Integrity: Elimination of 'public option' threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2) (VERIFIED)
 - {{src:src_005682}} (Tier 1) (VERIFIED)
 - [ProPublica: Insurance Lobby That Fought Hillarycare and Obamacare Now Has Sturdy Bridges to Democrats](https://www.propublica.org/article/insurance-lobby-has-sturdy-bridges-to-democrats) (Tier 2) (VERIFIED)
-- ~~[Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ---
 
@@ -165,3 +162,11 @@ Baucus, with Fowler as his chief counsel, designed a bill that preserved insuran
 **OpenSecrets note:** OpenSecrets URLs throughout this note are likely 403 bot-blocked (consistent with url-check.md patterns). The underlying data (Baucus donation figures, Obama 2008 healthcare totals) is independently confirmed by Democracy Now and Raw Story reporting on the same CRP database. Tier downgrade not required for the data itself, only URL verification needed.
 
 **Baucus $3.4M figure sourcing:** The $3.4M/23% figure for Baucus's 2003-2008 healthcare fundraising comes from Democracy Now (June 16, 2009) citing PNHP/Montana Standard and the Center for Responsive Politics. Cross-reference against the OpenSecrets Baucus contributor page (contributors?cid=N00004643&cycle=2008) when verified.
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Financial Times: Elizabeth Fowler and the architecture of Obamacare](https://www.ft.com/content/a0f98984-c1d3-11e0-8f16-00144feabdc0)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Kaiser Family Foundation: Insurance Premium and Cost Trends Over the Obama Presidency](https://www.kff.org/report-section/health-insurance-coverage-of-the-nonelderly-state-level-estimates-of-coverage-estimates-by-age/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)

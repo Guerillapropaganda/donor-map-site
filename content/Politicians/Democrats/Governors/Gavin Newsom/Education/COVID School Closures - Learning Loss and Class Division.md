@@ -114,6 +114,11 @@ The Newsom-private-school moment is valuable not as personal hypocrisy but as st
 
 ### Sources
 
-- ~~[LA Times: Newsom children's private school attendance](https://www.latimes.com/california/story/2020-11-24/newsom-children-attend-in-person-private-school)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [CalMatters: Newsom, lawmakers unveil plan to push schools to reopen](https://calmatters.org/health/coronavirus/2021/03/newsom-lawmakers-schools-reopen/) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[LA Times: Newsom children's private school attendance](https://www.latimes.com/california/story/2020-11-24/newsom-children-attend-in-person-private-school)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Education Week: California reopening pace compared nationally](https://web.archive.org/web/2022/https:/www.edweek.org/leadership/school-reopening-tracker/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

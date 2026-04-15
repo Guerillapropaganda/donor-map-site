@@ -257,12 +257,17 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/752805870) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/752805870/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/752805870) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

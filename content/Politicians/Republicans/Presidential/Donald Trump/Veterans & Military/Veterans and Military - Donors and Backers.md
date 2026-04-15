@@ -115,7 +115,6 @@ Wounded Warrior Project specifically benefits from privatization narrative: "cho
 - [The Intercept: DOGE cuts at Pentagon IT](https://theintercept.com/2026/01/19/doge-cuts-pentagon-it-military/) (Tier 2) (VERIFIED)
 - [Military.com: Pentagon civilian firings and DOGE](https://www.military.com/daily-news/2025/03/04/pentagon-leaders-silent-impending-civilian-firings-doge-funding-cuts-questions-mount.html) (Tier 2) (VERIFIED)
 - [CNN: Trump military housing repurposed for bonuses](https://www.cnn.com/2025/12/18/politics/warrior-dividend-housing-stipend) (Tier 2) (VERIFIED)
-- ~~[The Hill: warrior dividend military housing](https://thehill.com/policy/defense/5655433-trump-warrior-dividends-military/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Congress.gov: VA MISSION Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2372) (Tier 1)
 - [VA News: community care latest](https://news.va.gov/57722/va-mission-act-what-is-the-latest-on-community-care/) (Tier 1)
 - [VA Community Care Network information](https://www.va.gov/COMMUNITYCARE/providers/Community-Care-Network.asp) (Tier 1)
@@ -128,3 +127,9 @@ Wounded Warrior Project specifically benefits from privatization narrative: "cho
 - [SourceWatch: Concerned Veterans for America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Concerned_Veterans_for_America) (Tier 2)
 - [Chicago Tribune: Koch veterans group Trump administration](https://www.chicagotribune.com/2018/04/07/how-a-koch-backed-veterans-group-gained-influence-in-trumps-washington/) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: warrior dividend military housing](https://thehill.com/policy/defense/5655433-trump-warrior-dividends-military/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

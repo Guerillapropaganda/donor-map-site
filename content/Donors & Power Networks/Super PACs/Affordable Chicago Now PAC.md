@@ -135,5 +135,10 @@ The paired PAC strategy (Elect Chicago Women + Affordable Chicago Now) also reve
 - ~~{{src:src_009542}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: AIPAC Illinois spending 2024](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 - [OpenSecrets: AIPAC-backed candidates won midterm races following big spending by group's super PAC](https://www.opensecrets.org/news/2022/11/american-israel-public-affairs-committee-backed-candidates-won-midterm-races-following-big-spending-by-groups-super-pac/) (Tier 1) (VERIFIED)
-- ~~[Chicago Tribune: AIPAC spending in Illinois House 2024](https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Chicago Tribune: AIPAC spending in Illinois House 2024](https://www.chicagotribune.com/politics/ct-aipac-spending-illinois-20240930-story.html)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)

@@ -102,7 +102,6 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 - {{src:src_003089}} (Tier 1) (VERIFIED)
 - {{src:src_003089}} (Tier 1) (VERIFIED)
 - [Senate Financial Disclosure: Bernie Moreno](https://efdsearch.senate.gov/search/home/) (Tier 1) (VERIFIED)
-- ~~[Axios: Bernie Moreno's crypto dream in the Ohio Senate race](https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DL News: Crypto champion Bernie Moreno wins Senate seat with $40m in industry cash](https://www.dlnews.com/articles/regulation/bernie-moreno-wins-ohio-from-crypto-sceptic-sherrod-brown/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Crypto industry as political money death star 2024](https://www.rollingstone.com/politics/politics-features/trump-moreno-congress-crypto-death-star-2024-1235168746/) (Tier 2) (VERIFIED)
 - [Cleveland Scene: The Furious Saga of Bernie Moreno, Car Dealer Turned Tech Evangelist](https://www.clevescene.com/news/the-furious-saga-of-bernie-moreno-car-dealer-turned-tech-evangelist-24514858/) (Tier 2) (VERIFIED)
@@ -165,3 +164,9 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Bernie Moreno's crypto dream in the Ohio Senate race](https://www.axios.com/2024/10/01/moreno-brown-senate-crypto-money-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

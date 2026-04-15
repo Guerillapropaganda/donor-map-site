@@ -140,5 +140,10 @@ Jimmy Dore is the audience capture pipeline in its rawest form. Unlike Taibbi (w
 - [Wikipedia: Jimmy Dore](https://en.wikipedia.org/wiki/Jimmy_Dore) (Tier 3) (VERIFIED)
 - [Socialist Alternative: Jimmy Dore is Right. AOC Should Force a Floor Vote on Medicare for All](https://www.socialistalternative.org/2020/12/23/jimmy-dore-is-right-aoc-should-force-a-floor-vote-on-medicare-for-all/) (Tier 4) (VERIFIED)
 - [MEAWW: Jimmy Dore praises Boogaloo Boys. Internet slams 'politically confused' comedian](https://meaww.com/comedian-jimmy-dore-politically-confused-praises-boogaloo-boys-far-right-movement-black-lives-matter) (Tier 3) (VERIFIED)
-- ~~[Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Laughfactory: Jimmy Dore biography](https://www.laughfactory.com/comedians/JimmyDore)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)

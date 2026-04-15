@@ -37,6 +37,11 @@ Scott Air Force Base hosts US Transportation Command (TRANSCOM), the unified com
 ### Sources
 
 - [Congress.gov: Mike Bost member profile](https://www.congress.gov/member/mike-bost/B001295) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Mike Bost campaign finance summary](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Mike Bost](https://ballotpedia.org/Mike_Bost) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mike Bost campaign finance summary](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

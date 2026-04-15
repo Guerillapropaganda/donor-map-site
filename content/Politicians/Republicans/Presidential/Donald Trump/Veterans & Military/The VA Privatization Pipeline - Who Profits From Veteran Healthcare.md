@@ -134,7 +134,6 @@ The solution is straightforward: fund VA benefits processing, hire additional ad
 
 ### Sources
 
-- ~~[Congress.gov: VA MISSION Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2372)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [VA News: Community Care latest](https://news.va.gov/57722/va-mission-act-what-is-the-latest-on-community-care/) (Tier 1)
 - [VA Community Care Network information](https://www.va.gov/COMMUNITYCARE/providers/Community-Care-Network.asp) (Tier 1) (VERIFIED)
 - [American Prospect: VA privatization warning](https://prospect.org/2024/04/11/2024-04-11-privatization-warning-veterans-affairs/) (Tier 2)
@@ -149,3 +148,9 @@ The solution is straightforward: fund VA benefits processing, hire additional ad
 - [Veterans for Peace: Stop privatization VA](https://www.veteransforpeace.org/take-action/stop-privatization-veterans-health-administration) (Tier 3) (VERIFIED)
 - [American Postal Workers Union: VA healthcare](https://apwu.org/news/homefront-veterans-magazine-whats-really-happening-veterans-va-healthcare/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: VA MISSION Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2372)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

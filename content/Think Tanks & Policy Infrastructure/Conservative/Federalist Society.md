@@ -230,14 +230,11 @@ The structural function: the Federalist Society converts donor money into judici
 - [ProPublica: How a Secretive Billionaire Handed His Fortune to Leo (Barre Seid / Marble Freedom Trust)](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 - [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
 - [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2) (VERIFIED)
-- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Yale Daily News: How the Federalist Society Shaped America's Judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: Trump Aims to Build a MAGA Judiciary, Breaking with Traditional Conservatives](https://www.nbcnews.com/politics/trump-administration/trump-aims-build-maga-judiciary-breaking-traditional-conservatives-rcna210785) (Tier 2) (VERIFIED)
 - [Christian Science Monitor: Trump's Attacks on Federalist Society Signal a Search for MAGA Judges](https://www.csmonitor.com/USA/Justice/2025/0604/trump-leonard-leo-federalist-society) (Tier 2) (VERIFIED)
 - [Bloomberg Law: Trump's First Judicial Nominees Have Federalist Society Ties](https://news.bloomberglaw.com/us-law-week/trumps-first-judicial-nominees-have-federalist-society-ties) (Tier 2) (VERIFIED)
 - [Roll Call: Trump's 2025 Saw 26 Lifetime Judicial Nominees Approved](https://rollcall.com/2025/12/30/trumps-2025-saw-26-lifetime-judicial-nominees-approved/) (Tier 2) (VERIFIED)
 - [Senator Whitehouse: The Third Federalist Society (Scheme Speech)](https://www.whitehouse.senate.gov/news/speeches/the-third-federalist-society/) (Tier 2) (VERIFIED)
-- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Massive Dark Money Donation, $1.6 Billion to Conservative Group](https://www.cnn.com/2022/08/22/politics/dark-money-donation-conservative-group-invs) (Tier 2) (VERIFIED)
 - [The Leadership Conference: Project 2025 and the Project to Take Over Our Courts](https://civilrights.org/blog/project-2025-and-the-project-to-take-over-our-courts-and-our-rights/) (Tier 3) (VERIFIED)
 - [The Intercept: Leonard Leo Is Funneling Dark Money Into Law Schools](https://theintercept.com/2024/05/29/leonard-leo-donor-law-schools/) (Tier 2) (VERIFIED)
@@ -246,7 +243,6 @@ The structural function: the Federalist Society converts donor money into judici
 - [Senator Whitehouse: Scheme 18. Leonard Leo's $1.6 Billion Payday](https://www.whitehouse.senate.gov/news/speeches/scheme-18_leonard-leos-16-billion-payday/) (Tier 2) (VERIFIED)
 - [Courthouse News: House GOP Slams DC Attorney General Investigating Leonard Leo Nonprofits](https://www.courthousenews.com/house-gop-slam-d-c-attorney-general-investigating-leonard-leo-nonprofits/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Supreme Court Architect Leonard Leo Expands His Dark-Money Operation](https://www.rollingstone.com/politics/politics-features/leonard-leo-dark-money-supreme-court-trump-1234972151/) (Tier 2) (VERIFIED)
-- ~~[Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -277,3 +273,12 @@ The structural function: the Federalist Society converts donor money into judici
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815109948) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Yale Daily News: How the Federalist Society Shaped America's Judiciary](https://yaledailynews.com/blog/2024/11/04/how-the-federalist-society-shaped-americas-judiciary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Trump Goes After Leonard Leo and the Federalist Society in Fury Over Court Ruling (May 29, 2025)](https://www.politico.com/news/2025/05/29/trump-goes-after-leonard-leo-and-the-federalist-society-in-fury-over-court-ruling-00375813)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

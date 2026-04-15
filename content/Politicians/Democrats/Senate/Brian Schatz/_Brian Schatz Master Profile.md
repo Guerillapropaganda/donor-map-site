@@ -180,7 +180,6 @@ The genuine wins are real. Schatz secured $1.6 billion in Maui wildfire housing 
 - [CNBC: Housing affordability bill clears Senate as investor ban creates headaches](https://www.cnbc.com/2026/03/12/housing-bill-affordability-investor-ban.html) (Tier 2) (VERIFIED)
 - [The Forward: Jewish senator Brian Schatz likely to be whip, then Schumer's heir](https://forward.com/news/763564/brian-schatz-religion-jewish-whip-senate-democrats/) (Tier 2) (VERIFIED)
 - [Punchbowl News: Schatz locks up whip race as Schumer backs Hawaii Democrat](https://punchbowl.news/article/senate/schatz-secures-schumer-backing/) (Tier 2) (VERIFIED)
-- ~~[Axios: Inside Democrat Schatz's donor retreat](https://www.axios.com/2026/02/24/shutdown-democrat-brian-schatz-donor-retreat)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Honolulu Civil Beat: Brian Schatz Has Become A Big Shot In Campaign Fundraising](https://www.civilbeat.org/2018/09/brian-schatz-has-become-a-big-shot-in-campaign-fundraising/) (Tier 2) (VERIFIED)
 - [Maui Now: Schatz secures $1.6B in long-term housing funds for Maui](https://mauinow.com/2024/12/18/schatz-must-pass-federal-bill-includes-1-6b-in-long-term-housing-funds-for-maui/) (Tier 2) (VERIFIED)
 - [Senate Indian Affairs Committee: 2024 Schatz legislation summary](https://www.indian.senate.gov/newsroom/press-release/democratic/in-2024-chair-schatz-led-passage-of-bills-to-support-native-lands-tourism-water-rights-buffalo-restoration-and-ihs-services-secured-critical-funding-for-native-communities-nationwide/) (Tier 1) (VERIFIED)
@@ -220,7 +219,6 @@ party:: Democrat
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001194)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -307,3 +305,10 @@ party:: Democrat
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Inside Democrat Schatz's donor retreat](https://www.axios.com/2026/02/24/shutdown-democrat-brian-schatz-donor-retreat)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001194)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

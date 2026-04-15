@@ -46,11 +46,16 @@ Whitehouse's dark money crusade faces a credibility challenge: Democratic dark m
 
 ### Sources
 
-- ~~[Congress.gov: Sheldon Whitehouse member profile](https://www.congress.gov/member/sheldon-whitehouse/W000802)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005132}} (Tier 1) (VERIFIED)
 - [Senate Judiciary Committee: Whitehouse dark money investigations](https://www.judiciary.senate.gov/committee-activity/hearings) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: DISCLOSE Act](https://www.congress.gov/bill/118th-congress/senate-bill/3512)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Clarence Thomas Acknowledges Undisclosed Free Trips From Harlan Crow](https://www.propublica.org/article/clarence-thomas-gift-disclosures-harlan-crow) (Tier 2) (VERIFIED)
 - [Washington Post: Supreme Court critic Whitehouse gets his day](https://www.washingtonpost.com/politics/2023/07/20/supreme-court-critic-whitehouse-gets-his-day/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Sheldon Whitehouse](https://ballotpedia.org/Sheldon_Whitehouse) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Sheldon Whitehouse member profile](https://www.congress.gov/member/sheldon-whitehouse/W000802)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: DISCLOSE Act](https://www.congress.gov/bill/118th-congress/senate-bill/3512)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

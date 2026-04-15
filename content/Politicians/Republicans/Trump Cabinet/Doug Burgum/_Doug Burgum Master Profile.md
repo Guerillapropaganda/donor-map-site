@@ -142,7 +142,6 @@ The Senate confirmed Burgum 79-18 because they voted for the moderate governor t
 - [Interior Department: Secretarial orders on energy leasing](https://www.doi.gov/pressreleases/secretary-doug-burgum-signs-first-round-secretarys-orders-unleash-american-energy) (Tier 1) (VERIFIED)
 - [CNBC: Burgum and Harold Hamm alliance](https://www.cnbc.com/2024/05/21/trump-vp-doug-burgum-oil.html) (Tier 2) (VERIFIED)
 - [E&E News: Burgum drilling permits, wind/solar restrictions](https://www.eenews.net/articles/another-burgum-order-cold-cocks-solar-and-wind/) (Tier 2) (VERIFIED)
-- ~~[Fortune: Burgum Interior confirmation](https://fortune.com/2025/01/31/senate-confirms-doug-burgum-as-trumps-interior-secretary-tasked-with-boosting-fossil-fuel-production-to-achieve-energy-dominance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: $20 gift card campaign strategy](https://www.cnn.com/2023/07/11/politics/2024-fundraising-strategy-burgum/index.html) (Tier 2) (VERIFIED)
 - [FEC: Doug Burgum contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=burgum,+doug) (Tier 1) (VERIFIED)
 
@@ -183,3 +182,9 @@ The Senate confirmed Burgum 79-18 because they voted for the moderate governor t
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Fortune: Burgum Interior confirmation](https://fortune.com/2025/01/31/senate-confirms-doug-burgum-as-trumps-interior-secretary-tasked-with-boosting-fossil-fuel-production-to-achieve-energy-dominance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

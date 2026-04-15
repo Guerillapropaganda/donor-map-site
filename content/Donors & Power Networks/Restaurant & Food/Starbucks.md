@@ -106,7 +106,6 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 ### Sources
 
 - [NLRB: Starbucks unfair labor practice complaints](https://www.nlrb.gov/case/02-CA-261884) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Starbucks labor practices](https://ballotpedia.org/Starbucks) (Tier 3) (VERIFIED)
 
 ---
@@ -195,7 +194,6 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 - ~~[Laceration Hazard Prompts Recall by Starbucks of Coffee Grinders; Made by Tsann Kuen](https://www.cpsc.gov/Recalls/09244)~~ (URL broken, archived by Ops) (2009-06-16) — The grinder can fail to turn off or can turn on unexpectedly, posing a laceration hazard to consumers.
 - ... and 5 more
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Starbucks)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Vehicle Safety (NHTSA)
@@ -231,11 +229,6 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911795425) (Tier 1) (VERIFIED)
@@ -279,7 +272,6 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 - Quantion LLC v. The Coca-Cola Company (2026) — District Court, D. Delaware
 - Quantion LLC v. Six Continents Hotels, Inc. (2026) — District Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Starbucks%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -303,3 +295,16 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Starbucks%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Starbucks lobbying](https://www.opensecrets.org/orgs/starbucks/summary?id=D000042571)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Starbucks)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911795425/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Starbucks%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -165,7 +165,6 @@ TMTG's political significance is structural: the company gives Trump personal fi
 - Alexandra Marie Dean v. Donald J. Trump (2025) — District Court, C.D. California
 - Trump Media & Technology Group Corp. v. ARC Global Investments II LLC (2024) — District Court, M.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%20Media%20%26%20Technology%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -182,3 +181,9 @@ TMTG's political significance is structural: the company gives Trump personal fi
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%20Media%20%26%20Technology%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

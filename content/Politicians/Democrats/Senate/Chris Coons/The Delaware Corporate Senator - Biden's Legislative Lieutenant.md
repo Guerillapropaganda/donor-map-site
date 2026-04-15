@@ -38,9 +38,14 @@ Coons served as Biden's closest Senate ally, his vote was reliable on every Bide
 
 ### Sources
 
-- ~~[Congress.gov: Chris Coons member profile](https://www.congress.gov/member/chris-coons/C001088)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005546}} (Tier 1) (VERIFIED)
 - {{src:src_005546}} (Tier 1) (VERIFIED)
 - [Washington Post: How Delaware is trying to reshape corporate law after Elon Musk exit](https://www.washingtonpost.com/technology/2025/03/04/delaware-corporate-law-elon-musk/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Chris Coons](https://ballotpedia.org/Chris_Coons) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Chris Coons member profile](https://www.congress.gov/member/chris-coons/C001088)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

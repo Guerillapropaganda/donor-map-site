@@ -148,7 +148,6 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 
 - [The New Yorker: "The Influencer" (Saban profile, 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2) (VERIFIED)
 - [FEC Receipts: Saban donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=haim%20saban) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Haaretz: Saban $1M to AIPAC UDP](https://www.haaretz.com/us-news/2022-04-13/ty-article/.highlight/israeli-u-s-billionaire-saban-donates-1-million-to-aipacs-super-pac/00000180-5bb2-d718-afd9-dfbea3a70000) (Tier 2) (VERIFIED)
 
 ---
@@ -242,7 +241,6 @@ National Democratic politics. Clinton network, AIPAC connection, UDP funding
 - The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
 - Mac Isaac v. Cable News Network, Inc. (2023) — District Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Haim%20Saban%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Wikipedia
@@ -260,3 +258,10 @@ Haim Saban is an Israeli and American media proprietor, investor, musical compos
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q559844) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Saban Capital Group](https://www.opensecrets.org/ORGS/summary.php?id=D000037316)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Haim%20Saban%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

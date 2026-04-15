@@ -341,7 +341,6 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 | Net Assets | $442.1M |
 
 - [Source: ProPublica Nonprofit Explorer - EIN 237049738](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F237049738_202312_990PF_2024112522922928.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -466,11 +465,6 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237049738) (Tier 1) (VERIFIED)
@@ -492,7 +486,6 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - Filardi v. USAA General Indemnity Company (2026) - District Court, E.D. Missouri
 - Westley Dane Rachko v. JPMorgan Chase Bank, N.A. (2026) - District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -540,5 +533,17 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - [AA-ENF-2024-92: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-92.pdf) (11/20/2024)
 - ... and 72 more
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=JPMorgan%20Chase&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F237049738_202312_990PF_2024112522922928.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237049738/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JPMorgan%20Chase%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=JPMorgan%20Chase&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

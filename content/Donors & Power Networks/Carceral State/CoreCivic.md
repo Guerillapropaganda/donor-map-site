@@ -170,7 +170,6 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 ### Sources
 
 - [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2) (VERIFIED)
-- ~~[The Marshall Project: CoreCivic political giving](https://www.themarshallproject.org/2019/08/22/private-prison-companies-are-spending-millions-to-elect-tough-on-crime-candidates)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ABC News: $500K inaugural donation](https://abcnews.com/US/private-prison-firm-corecivic-gave-500k-trumps-inauguration/story?id=118218707?id=118218707) (Tier 2) (VERIFIED)
 - [OpenSecrets: private prison company donations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1) (VERIFIED)
 - [The Intercept: Trump budget and private prisons](https://theintercept.com/2025/07/10/corecivic-trump-big-beautiful-bill/) (Tier 2) (VERIFIED)
@@ -195,7 +194,6 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 | $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
 | $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
 
-- ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
 <!-- auto:usaspending end -->
 
 <!-- auto:usaspending pending-merge 2026-04-15 -->
@@ -424,11 +422,6 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2024)~~ (URL broken, archived by Ops)
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
@@ -613,3 +606,15 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2)
 
 <!-- auto:wikipedia pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Marshall Project: CoreCivic political giving](https://www.themarshallproject.org/2019/08/22/private-prison-companies-are-spending-millions-to-elect-tough-on-crime-candidates)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-CoreCivic)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1) (NEEDS REVIEW: Results page lands with no results)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/823851866/2020)~~ (URL broken, archived by Ops)

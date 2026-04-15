@@ -289,10 +289,8 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 - [KFF Health News: Pharma Campaign Cash Delivered to Key Lawmakers With Surgical Precision](https://kffhealthnews.org/news/article/pharma-campaign-cash-delivered-to-key-lawmakers-with-surgical-precision/) (Tier 2) (VERIFIED)
 - [Sunlight Foundation: The Legacy of Billy Tauzin. The White House PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2) (VERIFIED)
 - [Bill Moyers: The Man Who Made You Pay More at the Drugstore (Tauzin Profile)](https://billmoyers.com/story/the-man-who-made-you-pay-more-at-the-drugstore/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Tauzin's $11.6 Million Made Him Highest-Paid Health Law Lobbyist](https://www.bloomberg.com/news/articles/2011-11-29/tauzin-s-11-6-million-made-him-highest-paid-health-law-lobbyist)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [BMJ Group: FDA Staff Leaving for Industry Jobs Given Behind-the-Scenes Lobbying Advice](https://bmjgroup.com/fda-staff-leaving-for-industry-jobs-given-behind-the-scenes-lobbying-advice/) (Tier 2) (VERIFIED)
 - [Issue One: PhRMA Contributed Record Sum to GOP-Aligned Dark Money Group in 2022](https://issueone.org/press/phrma-contributed-record-sum-to-gop-aligned-dark-money-group-in-2022-new-tax-filing-reviewed-by-issue-one-shows/) (Tier 2) (VERIFIED)
-- ~~[POLITICO: Drugmaker Lobbying Reaches Historic High](https://www.politico.com/newsletters/prescription-pulse/2026/01/23/drugmaker-lobbying-reaches-historic-high-00742296)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Lever: Big Pharma's Dark Money Scores $8 Billion Bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2) (VERIFIED)
 - [Public Citizen: Using the Inflation Reduction Act to Rein In Patenting Evergreening Abuses](https://www.citizen.org/article/using-the-inflation-reduction-act-to-rein-in-patenting-evergreening-abuses/) (Tier 2) (VERIFIED)
 
@@ -325,11 +323,6 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530241211) (Tier 1) (VERIFIED)
@@ -390,3 +383,15 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Tauzin's $11.6 Million Made Him Highest-Paid Health Law Lobbyist](https://www.bloomberg.com/news/articles/2011-11-29/tauzin-s-11-6-million-made-him-highest-paid-health-law-lobbyist)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[POLITICO: Drugmaker Lobbying Reaches Historic High](https://www.politico.com/newsletters/prescription-pulse/2026/01/23/drugmaker-lobbying-reaches-historic-high-00742296)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530241211/2019)~~ (URL broken, archived by Ops)

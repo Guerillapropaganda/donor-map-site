@@ -48,7 +48,6 @@ Nvidia Corporation. The world's most valuable semiconductor company ($130 billio
 
 Nvidia's political operation has grown alongside its market dominance. PAC contributions: $1-2 million per cycle. Lobbying spending: $10-15 million annually (up from $3 million in 2020). CEO Jensen Huang has become one of the most politically significant tech executives, meeting with heads of state and shaping AI policy through corporate influence rather than campaign contributions.
 
-- ~~[OpenSecrets: Nvidia organizational profile](https://www.opensecrets.org/orgs/nvidia-corp/summary?id=D000054927)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -104,5 +103,11 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 - ~~[NVIDIA Recalls European Plug Heads Sold with Power Adaptors Due to Electric Shock Hazard](https://www.cpsc.gov/Recalls/17201)~~ (URL broken, archived by Ops) (2017-08-08) — The plug heads can break exposing metal prongs, posing an electric shock hazard.
 - ~~[NVIDIA Recalls Tablet Computers Due to Fire Hazard](https://www.cpsc.gov/Recalls/15204)~~ (URL broken, archived by Ops) (2015-07-31) — The lithium-ion battery in the tablets can overheat, posing a fire hazard.
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Nvidia)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Nvidia organizational profile](https://www.opensecrets.org/orgs/nvidia-corp/summary?id=D000054927)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Nvidia)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

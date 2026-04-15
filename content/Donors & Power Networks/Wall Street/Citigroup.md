@@ -157,9 +157,7 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 - [OpenSecrets: Citigroup Inc organizational profile](https://www.opensecrets.org/orgs/citigroup-inc/summary?id=D000000071) (Tier 1) (VERIFIED)
 - {{src:src_008803}} (Tier 1)
 - [TARP: Citigroup bailout allocation records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1) (VERIFIED)
-- ~~[New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Robert Rubin's role in Citigroup's risk-taking](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Citigroup political spending](https://ballotpedia.org/Citigroup) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
@@ -223,7 +221,6 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 | Net Assets | $2.7M |
 
 - [Source: ProPublica Nonprofit Explorer - EIN 806098935](https://projects.propublica.org/nonprofits/organizations/806098935) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -360,3 +357,11 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citigroup%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Citigroup lobbyists wrote derivatives provision in spending bill](https://dealbook.nytimes.com/2014/12/11/citigroup-and-other-big-banks-win-a-round-in-dodd-frank-rollback/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wall Street Journal: Citigroup's political spending and lobbying operation](https://www.wsj.com/articles/citigroup-lobbying)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F806098935_202312_990PF_2025010222976934.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

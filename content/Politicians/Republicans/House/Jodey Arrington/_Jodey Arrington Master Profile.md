@@ -169,7 +169,6 @@ The FDIC experience at 28 gave Arrington insider knowledge of financial regulati
 As Budget Committee chair, Arrington authored the budget resolution that unlocked reconciliation, the 51-vote Senate pathway that bypasses the filibuster. The package includes extended Trump-era tax cuts (preserving the 21% corporate rate), border and defense funding increases, energy deregulation provisions, and $1.5–$2 trillion in spending cuts targeting social programs. The Senate version contains $5.8 trillion in new costs against only $4 billion in enforceable savings, a massive net fiscal expansion framed as deficit reduction.
 
 - [Budget Committee: House unlocks reconciliation to deliver President Trump's full America First agenda](https://budget.house.gov/press-release/house-unlocks-reconciliation-to-deliver-president-trumps-full-america-first-agenda) (Tier 1) (VERIFIED)
-- ~~[KSAT: Rep. Arrington retiring after carrying Trump's tax and spending bill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Entitlement Reform Positioning:
 Arrington told Bloomberg Government in October 2022 that raising the retirement age for Social Security and Medicare eligibility age would be "commonsense changes." He proposed a bipartisan debt commission to address unfunded liabilities. When this position became politically toxic, he pivoted to "strengthen and save Social Security and Medicare" language, the same programs, reframed. The shift illustrates the Two-Audience Problem: donor-class priorities (entitlement cuts) must be presented in constituent-friendly packaging.
@@ -228,7 +227,6 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 - [House.gov: Arrington safeguards future of oil and gas production](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2600) (Tier 1)
 - [House.gov: Arrington celebrates extension of Trump tax cuts](https://arrington.house.gov/news/documentsingle.aspx?DocumentID=2744) (Tier 1) (VERIFIED)
 - [Texas Tribune: U.S. Rep. Jodey Arrington retirement announcement](https://www.texastribune.org/2025/11/11/texas-us-house-rep-jodey-arrington-retirement/) (Tier 2) (VERIFIED)
-- ~~[KSAT: Rep. Arrington retiring after carrying Trump's tax and spending megabill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [GovTrack: Jodey Arrington voting record](https://www.govtrack.us/congress/members/jodey_arrington/412726) (Tier 3)
 - [Ballotpedia: Jodey Arrington](https://ballotpedia.org/Jodey_Arrington) (Tier 3) (VERIFIED)
 - [Wikipedia: Jodey Arrington](https://en.wikipedia.org/wiki/Jodey_Arrington) (Tier 3)
@@ -259,7 +257,6 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 | 6248 | Healthy Competition for Better Care Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 5926 | Mexican Energy Trade Enforcement Act | Referred to the House Committee on Ways and Means. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000375)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -339,3 +336,11 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[KSAT: Rep. Arrington retiring after carrying Trump's tax and spending bill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[KSAT: Rep. Arrington retiring after carrying Trump's tax and spending megabill](https://www.ksat.com/news/texas/2025/11/13/u-s-rep-jodey-arrington-who-carried-trump8217s-tax-and-spending-megabill-is-retiring/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000375)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -177,7 +177,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 
 - [OpenSecrets: Tyson Foods organizational profile](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000443) (Tier 1)
 - [ProPublica: Meatpacking worker safety investigations](https://www.propublica.org/article/tyson-foods-secret-recipe-for-carving-up-workers-comp) (Tier 2) (VERIFIED)
-- ~~[Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -234,7 +233,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 | Poultry Processing (311615) | $1.1B |
 | Animal (except Poultry) Slaughtering (311611) | $38.8M |
 
-- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
@@ -271,14 +269,8 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 **Filing history:** 2019, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2019)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2015)~~ (URL broken, archived by Ops)
-- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2014)~~ (URL broken, archived by Ops)
-- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2013)~~ (URL broken, archived by Ops)
-- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
-- ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:nonprofit-990 end -->
 
 <!-- auto:nonprofit-990 pending-merge 2026-04-15 -->
@@ -371,7 +363,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - California Department of Parks and Recreation v. Sable Offshore Corp. (2026) — District Court, C.D. California
 - United States v. one white Tyson Foods semi-truck USDOT003327 located at 7033 Cold Creek Drive, Alexander, AR 72002 aka Vehicle 2 (2026) — District Court, E.D. Arkansas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
@@ -579,7 +570,6 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 | Net Assets | $322K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 476014039](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 <!-- auto:propublica-990 pending-merge 2026-04-15 -->
@@ -708,3 +698,18 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Ballotpedia: Tyson Foods](https://ballotpedia.org/Tyson_Foods)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2019)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/476014039/2012)~~ (URL broken, archived by Ops)
+- ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/476014039)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

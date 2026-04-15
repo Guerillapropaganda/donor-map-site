@@ -181,14 +181,11 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ## Sources
 
-- ~~[OpenSecrets: Jim Risch donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00029441)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - ~~{{src:src_003568}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Jim Risch personal finances](https://www.opensecrets.org/personal-finances/james-risch/net-worth?cid=N00029441)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate Foreign Relations Committee: About the Chairman](https://www.foreign.senate.gov/about/chairman) (Tier 1) (VERIFIED)
 - [Senate.gov: Jim Risch biography](https://www.risch.senate.gov/about/about-jim/) (Tier 1) (VERIFIED)
 - [Senate.gov: Risch assumes SFRC chairmanship](https://www.foreign.senate.gov/press/rep/release/risch-assumes-chairmanship-of-senate-foreign-relations-committee) (Tier 1) (VERIFIED)
 - [Senate.gov: Risch statement on military sales executive order](https://www.foreign.senate.gov/press/rep/release/chairman-risch-statement-on-military-sales-executive-order4-10) (Tier 1) (VERIFIED)
-- ~~[Senate.gov: Risch International Nuclear Energy Act](https://www.risch.senate.gov/public/index.cfm/2025/5/risch-leads-legislation-to-counter-adversary-nuclear-energy-programs)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Idaho Capital Sun: Why has Risch gone silent on NATO and Ukraine?](https://idahocapitalsun.com/2025/05/01/why-has-idahos-u-s-sen-jim-risch-suddenly-gone-silent-on-supporting-nato-and-ukraine/) (Tier 2) (VERIFIED)
 - [Hudson Institute: Future of US Foreign Policy in the Middle East with Senator Risch](https://www.hudson.org/events/future-us-foreign-policy-middle-east-senator-james-risch) (Tier 2) (VERIFIED)
 - [Spokesman-Review: Risch listed as 8th richest senator](https://www.spokesman.com/stories/2009/feb/03/risch-listed-8th-richest-senator/) (Tier 2) (VERIFIED)
@@ -222,12 +219,20 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/R000584)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Jim Risch](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Jim Risch donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00029441)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Jim Risch personal finances](https://www.opensecrets.org/personal-finances/james-risch/net-worth?cid=N00029441)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Senate.gov: Risch International Nuclear Energy Act](https://www.risch.senate.gov/public/index.cfm/2025/5/risch-leads-legislation-to-counter-adversary-nuclear-energy-programs)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/R000584)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jim Risch](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

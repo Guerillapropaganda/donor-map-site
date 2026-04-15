@@ -120,7 +120,12 @@ This is the human cost of the pipeline. The financial incentive to maximize dete
 - [FEC Receipts: Private Prison Industry Donations 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [ProPublica: GEO Group Is Fighting to Pay ICE Detainees as Little as $1 a Day to Work](https://www.propublica.org/article/geo-group-ice-detainees-wage) (Tier 2) (VERIFIED)
 - [The Intercept: Private Prison Companies Pursue Creative Workarounds to Biden Executive Order](https://theintercept.com/2021/10/22/private-prisons-jails-geo-group-biden/) (Tier 2) (VERIFIED)
-- ~~[Government Accountability Office: Private Prison Performance Report](https://gao.gov/private-prisons)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[The Nation: Immigration Detention Industry Profits](https://thenation.com/article/detention-profits/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [American Civil Liberties Union: Private Prison Conditions Report](https://www.aclu.org/issues/immigrants-rights/immigrants-rights-and-detention/privatized-immigration-detention) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Government Accountability Office: Private Prison Performance Report](https://gao.gov/private-prisons)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[The Nation: Immigration Detention Industry Profits](https://thenation.com/article/detention-profits/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -75,7 +75,6 @@ Devon Energy Corporation. One of the largest independent oil and gas producers i
 
 Devon PAC contributes $500,000-$1 million per cycle, with individual employee contributions and lobbying spending of $2-4 million annually. Devon's political significance is concentrated in Oklahoma, where the company is a major employer, taxpayer, and political donor, shaping the state's energy policy ecosystem.
 
-- ~~[OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -243,8 +242,6 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 **Filing history:** 2023, 2022
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2022)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/365040938) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -285,3 +282,11 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Devon Energy organizational profile](https://www.opensecrets.org/orgs/devon-energy/summary?id=D000021818)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/365040938/2022)~~ (URL broken, archived by Ops)

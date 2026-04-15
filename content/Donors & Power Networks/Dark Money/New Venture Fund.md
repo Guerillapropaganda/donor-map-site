@@ -115,13 +115,11 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 | Officer Compensation | $744K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 205806345](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F205806345_202312_990_2025022623129143.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- ~~[IRS: New Venture Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=New%20Venture%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Nonprofit Explorer - New Venture Fund](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 2) (VERIFIED)
 - [Ballotpedia: Arabella Advisors](https://ballotpedia.org/New_Venture_Fund) (Tier 3) (VERIFIED)
 
@@ -173,7 +171,6 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 - Natl Infusion Center v. Kennedy (2025) — Court of Appeals for the Fifth Circuit
 - TEVA PHARMACEUTICALS USA, INC. v. BECERRA (2025) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22New%20Venture%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -209,11 +206,6 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/205806345) (Tier 1) (VERIFIED)
@@ -236,3 +228,16 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F205806345_202312_990_2025022623129143.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[IRS: New Venture Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=New%20Venture%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22New%20Venture%20Fund%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/205806345/2019)~~ (URL broken, archived by Ops)

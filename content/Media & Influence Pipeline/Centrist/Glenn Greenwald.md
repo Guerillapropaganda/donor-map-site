@@ -175,7 +175,6 @@ Greenwald's trajectory, corporate law → progressive blogging → Guardian → 
 - [Al Jazeera: "Greenwald Resigns from The Intercept Citing Censorship" (Oct 30, 2020)](https://www.aljazeera.com/news/2020/10/30/greenwald-resigns-from-the-intercept-over-biden-article) (Tier 2) (VERIFIED)
 - [Washington Post: "Rumble Will Pay Tulsi Gabbard and Glenn Greenwald in Bid to Draw Audience" (Aug 12, 2021)](https://www.washingtonpost.com/technology/2021/08/12/rumble-video-gabbard-greenwald/) (Tier 2) (VERIFIED)
 - [CJR: "The Intercept, a Billionaire-Funded Public Charity, Cuts Back" (Mar 15, 2019)](https://www.cjr.org/business_of_news/layoffs-the-intercept.php) (Tier 2) (VERIFIED)
-- ~~[The Pulitzer Prizes: The Guardian US, 2014 Public Service](https://www.pulitzer.org/winners/guardian-us)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NYU Law: Pulitzer Prize for Public Service Shared by Glenn Greenwald '94 (2014)](https://www.law.nyu.edu/news/work-by-glenn-greenwald-94-barton-gellman-wins-2014-pulitzer-prize) (Tier 2) (VERIFIED)
 - [Mediaite: "Thomas Massie Calls Out Three GOP Pro-Israel Mega-Donors"](https://www.mediaite.com/politics/house-republican-calls-out-three-pro-israel-megadonors-over-deceptively-named-pac-aimed-at-removing-him-from-office/) (Tier 2) (VERIFIED)
 - [Rumble: Glenn Greenwald Channel](https://rumble.com/c/GGreenwald) (Tier 1) (VERIFIED)
@@ -183,3 +182,9 @@ Greenwald's trajectory, corporate law → progressive blogging → Guardian → 
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Pulitzer Prizes: The Guardian US, 2014 Public Service](https://www.pulitzer.org/winners/guardian-us)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

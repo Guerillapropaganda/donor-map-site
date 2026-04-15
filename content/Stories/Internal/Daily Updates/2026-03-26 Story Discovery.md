@@ -56,7 +56,6 @@ The ballroom is not a fundraiser. It's a corruption mechanism operating in plain
 ### Sources (all Chrome-verified VALID):
 - [Public Citizen: Banquet of Greed. Trump Ballroom Donors Feast on Federal Funds and Favors](https://www.citizen.org/article/banquet-of-greed-trump-ballroom-donors-feast-on-federal-funds-and-favors/) (Tier 2) (VERIFIED)
 - [Public Citizen: Corporate Donors to Trump's White House Ballroom Beset by Conflicts, Received $279 Billion in Government Contracts](https://www.citizen.org/news/corporate-donors-to-trumps-white-house-ballroom-beset-by-conflicts-received-279-billion-in-government-contracts-in-the-past-five-years/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Report details ballroom donors' federal contracts, enforcement actions](https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 > [!money]
 > 14 of 24 ballroom donors had federal enforcement actions suspended. The causal chain is direct: donate to the president's building → government stops prosecuting your company → government keeps paying your contracts. Total enforcement benefit to donor companies is incalculable; $279B in contracts is just the baseline.
@@ -351,7 +350,6 @@ The CLARITY Act (broader digital asset market structure) is now advancing in 202
 
 ### Verified sources (Chrome-confirmed this run):
 - [CNBC: Senate passes landmark GENIUS Act stablecoin bill](https://www.cnbc.com/2025/06/17/genius-stablecoin-bill-crypto.html) (Tier 2) (VERIFIED)
-- ~~[CryptoNews: Senator Gillibrand's Role in Stablecoin Regulation – $217,000 in Crypto Donations](https://cryptonews.net/news/legal/30976724/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Congress.gov: S.394. GENIUS Act of 2025](https://www.congress.gov/bill/119th-congress/senate-bill/394/text) (Tier 1) (VERIFIED)
 
 ### Vault connections:
@@ -444,7 +442,6 @@ Run 1 captured the AIPAC Illinois spending story pre-results. Final March 18 res
 2-for-4 despite $22M+ in spending. Biss (IL-9 winner) is a Jewish progressive who explicitly blasted AIPAC in his victory speech. The lobby's candidate in that race finished third. AIPAC claimed credit for the two wins and acknowledged losses in the other two.
 
 ### Verified sources (Chrome-confirmed this run):
-- ~~[Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [WBEZ: Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2)
 - [The Intercept: AIPAC Stays Out of Illinois Senate Race. Its Donors Back Juliana Stratton](https://theintercept.com/2026/03/12/aipac-illinois-senate-stratton-kelly-krishnamoorthi/) (Tier 2) (VERIFIED)
@@ -476,3 +473,11 @@ Run 1 captured the AIPAC Illinois spending story pre-results. Final March 18 res
 - `schrier.house.gov/media/in-the-news/house-lawmakers-rip-middlemen-over-high-drug-prices-despite-welcoming-donations` ✓ VALID
 - `pbs.org/newshour/politics/watch-live-house-expected-to-vote-iran-on-war-powers-resolution` ✓ VALID
 - `democrats-armedservices.house.gov/2026/2/dem-leadership-smith-meeks-himes-khanna-announce-iran-wpr-vote-next-week` ✓ VALID
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Report details ballroom donors' federal contracts, enforcement actions](https://www.washingtonpost.com/politics/2025/11/03/trump-ballroom-donors-contracts-enforcement/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CryptoNews: Senator Gillibrand's Role in Stablecoin Regulation – $217,000 in Crypto Donations](https://cryptonews.net/news/legal/30976724/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Axios: AIPAC notches its first real 2026 Democratic primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

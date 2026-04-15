@@ -96,7 +96,6 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 
 ### Sources
 
-- ~~[OpenSecrets: Fairshake PAC Contributions by Donor](https://www.opensecrets.org/orgs/jump-trading-llc/summary?id=D000088534)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -128,7 +127,6 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 - Jump Operations, LLC v. Heeger (2025) — District Court, N.D. Illinois
 - FractureLabs Ou v. Jump Trading, LLC (2024) — District Court, N.D. Illinois
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jump%20Crypto%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -166,3 +164,10 @@ Jump Crypto represents the pattern of financial oligarchs using massive capital 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Jump%20Crypto) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Fairshake PAC Contributions by Donor](https://www.opensecrets.org/orgs/jump-trading-llc/summary?id=D000088534)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jump%20Crypto%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

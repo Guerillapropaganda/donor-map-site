@@ -212,10 +212,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 - {{src:src_005374}} (Tier 1) (VERIFIED)
 - {{src:src_005374}} (Tier 1) (VERIFIED)
 - {{src:src_005374}} (Tier 1) (VERIFIED)
-- ~~[Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[CBO: Columbia-Class Submarine Cost Estimates](https://www.cbo.gov/publication/57370)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Armed Services Committee members received $5.8M from defense sector during 2022 cycle](https://www.opensecrets.org/news/2023/03/armed-services-committee-members-received-5-8-million-from-defense-sector-during-2022-election-cycle/) (Tier 1) (VERIFIED)
 - [Washington Post: What's in and out of the $1.7 trillion omnibus spending bill — defense provisions](https://www.washingtonpost.com/us-policy/2022/12/22/spending-bill-omnibus-congress/) (Tier 2) (VERIFIED)
 - [NPR: Rhode Island's Defense Economy](NOTFOUND_NPR) (Tier 2)
@@ -237,7 +233,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 |------|--------|------|--------|-------|
 | 01/06/2014 | N/A | other | Unknown | N/A |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -338,7 +333,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -367,7 +361,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/R000122)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -392,6 +385,18 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 **Sources**
 
-- ~~[Congress.gov: Jack Reed](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[GovTrack: Jack Reed](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Senate.gov: Jack Reed official biography](https://www.reed.senate.gov/about)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: National Defense Authorization Act](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[DOD: Rhode Island Defense Spending Report](https://oldcc.gov/state/rhode-island)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[CBO: Columbia-Class Submarine Cost Estimates](https://www.cbo.gov/publication/57370)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/R000122)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jack Reed](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Jack Reed](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

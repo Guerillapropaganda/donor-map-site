@@ -268,7 +268,6 @@ The pipeline's durability is its most important feature. It does not depend on a
 
 ### Heritage Foundation / Project 2025 (previously verified):
 - [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2) (VERIFIED)
-- ~~[19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Former Trump Officials Wrote 25 of 30 Project 2025 Chapters](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2) (VERIFIED)
 - [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2) (NEEDS REVIEW)
@@ -277,7 +276,6 @@ The pipeline's durability is its most important feature. It does not depend on a
 ### Mercatus Center (previously verified):
 - [ProPublica Nonprofit Explorer: Mercatus Center Inc](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1) (VERIFIED)
 - [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Federalist Society (previously verified):
 - [ProPublica: We Don't Talk About Leonard. Leo and the Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
@@ -292,7 +290,6 @@ The pipeline's durability is its most important feature. It does not depend on a
 
 ### ALEC:
 - [Brookings: ALEC's Influence over Lawmaking in State Legislatures](https://www.brookings.edu/articles/alecs-influence-over-lawmaking-in-state-legislatures/) (Tier 2) (VERIFIED)
-- ~~[ExposedByCMD: ALEC Publishes Its Own Project 2025, for the States](https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: How ALEC Shapes States' Legislation Behind The Scenes](https://www.npr.org/transcripts/138537515) (Tier 2) (VERIFIED)
 
 ### Hamilton Project / Brookings (previously verified via cross-comparison piece):
@@ -300,6 +297,14 @@ The pipeline's durability is its most important feature. It does not depend on a
 
 ### Economic Policy Institute:
 - [EPI: Why the U.S. needs a $15 minimum wage](https://www.epi.org/publication/why-america-needs-a-15-minimum-wage/) (Tier 2) (VERIFIED)
-- ~~[EPI: Minimum Wage Tracker](https://www.epi.org/minimum-wage-tracker/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[ExposedByCMD: ALEC Publishes Its Own Project 2025, for the States](https://www.exposedbycmd.org/2025/02/10/alec-publishes-its-own-project-2025-for-the-states/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EPI: Minimum Wage Tracker](https://www.epi.org/minimum-wage-tracker/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

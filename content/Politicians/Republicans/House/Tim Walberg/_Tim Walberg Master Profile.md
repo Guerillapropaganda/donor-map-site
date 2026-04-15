@@ -191,8 +191,6 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 - [Ann Arbor Observer: Tim Walberg's Moment](https://annarborobserver.com/tim-walbergs-moment/) (Tier 2) (VERIFIED)
 - [Washington Reporter: Rep. Walberg lays out agenda as new Ed and Workforce chair](https://washingtonreporter.news/interview-rep-tim-walbergs-case-to-chair-ed-and-workforce/) (Tier 2) (VERIFIED)
 - [Detroit News: Walberg introduces legislation to rein in federal labor watchdog](https://walberg.house.gov/media/in-the-news/detroit-news-walberg-introduces-legislation-rein-federal-labor-watchdog) (Tier 2) (VERIFIED)
-- ~~[CTE Policy Watch: Meet the New Chair of Education and Workforce Committee](https://ctepolicywatch.acteonline.org/2025/01/meet-the-new-chair-of-the-house-education-and-workforce-committee-tim-walberg-.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[AFL-CIO: Tim Walberg Legislative Scorecard](https://aflcio.org/scorecard/legislators/tim-walberg)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Tim Walberg](https://ballotpedia.org/Tim_Walberg) (Tier 3) (VERIFIED)
 - [Wikipedia: Tim Walberg](https://en.wikipedia.org/wiki/Tim_Walberg) (Tier 3) (VERIFIED)
 
@@ -203,5 +201,12 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Tim Walberg](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CTE Policy Watch: Meet the New Chair of Education and Workforce Committee](https://ctepolicywatch.acteonline.org/2025/01/meet-the-new-chair-of-the-house-education-and-workforce-committee-tim-walberg-.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[AFL-CIO: Tim Walberg Legislative Scorecard](https://aflcio.org/scorecard/legislators/tim-walberg)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Tim Walberg](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

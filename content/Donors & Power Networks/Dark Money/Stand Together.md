@@ -190,15 +190,12 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 
 ### Sources
 
-- ~~[EXPOSEDbyCMD: Charles Koch's "Stand Together" donor conduits move $176M, 2022 network mapping](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record, 2024 cycle $548M](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Koch network's flagship super PAC pours big money into 2024 elections](https://www.opensecrets.org/news/2024/08/koch-network-flagship-super-pac-pours-big-money-into-2024-elections/) (Tier 1) (VERIFIED)
 - [NBC News: Leo, Koch networks pour millions into Project 2025 groups, $55M+](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2) (VERIFIED)
 - [Read Sludge: Koch network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Stand Together, organizational profile](https://www.influencewatch.org/non-profit/stand-together/) (Tier 2) (VERIFIED)
 - [Wikipedia: Stand Together](https://en.wikipedia.org/wiki/Stand_Together) (Tier 3) (VERIFIED)
 - [Wikipedia: Koch network](https://en.wikipedia.org/wiki/Koch_network) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Charles Koch Foundation. Learn & Work Ecosystem Library](https://learnworkecosystemlibrary.com/organizations/charles-koch-foundation/) (Tier 3) (VERIFIED)
 
 ---
@@ -228,7 +225,6 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 | Officer Compensation | $178K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 912166417](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F912166417_202112_990_2023051221218708.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -307,7 +303,6 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 - Christian and Jewish Alliance Inc. v. Brunner (2025) — District Court, S.D. California
 - CITY OF PHILADELPHIA v. CVS HEALTH CORPORATION (2025) — District Court, E.D. Pennsylvania
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stand%20Together%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -365,12 +360,22 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 **Filing history:** 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Charles Koch's "Stand Together" donor conduits move $176M, 2022 network mapping](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Koch super PAC shatters election spending record, 2024 cycle $548M](https://www.exposedbycmd.org/2024/11/05/koch-super-pac-shatters-its-election-spending-record/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Stand Together Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Stand_Together_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F912166417_202112_990_2023051221218708.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stand%20Together%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2018)~~ (URL broken, archived by Ops)
 - ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/912166417/2017)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

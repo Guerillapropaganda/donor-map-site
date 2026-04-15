@@ -182,7 +182,6 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 
 - {{src:src_004520}} (Tier 1) (VERIFIED)
 - {{src:src_004520}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Administration Committee: Meet the Chairman](https://cha.house.gov/meet-the-chairman) (Tier 1) (VERIFIED)
 - [House.gov: Steil introduces MEGA Act election reform package](https://steil.house.gov/media/press-releases/steil-introduces-election-reform-package) (Tier 1) (VERIFIED)
 - [House Administration: American Confidence in Elections Act](https://cha.house.gov/press-releases?ContentRecord_id=5379E658-0B3B-4FB9-8B02-281F6A927D73) (Tier 1) (VERIFIED)
@@ -258,12 +257,18 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 | 4735 | Business of Insurance Regulatory Reform Act of 2025 | Referred to the House Committee on Financial Services. |
 | 4430 | Expanding WKSI Eligibility Act | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001213)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/bryan-steil/S001213)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001213)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bryan Steil](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

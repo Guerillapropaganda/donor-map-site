@@ -149,7 +149,6 @@ Shapiro built his national brand prosecuting the Catholic Church's child abuse c
 
 ## Sources
 
-- ~~[OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Josh%20Shapiro)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Philadelphia Inquirer: Shapiro donor analysis and business fundraising](https://www.inquirer.com/politics/pennsylvania/josh-shapiro-campaign-donors-pa-reelection-20260304.html) (Tier 2) (VERIFIED)
 - Pennsylvania Capital-Star: PASS Scholarship proposal (Tier 2)
 - Associated Press: Shapiro VP vetting and AIPAC concerns (Tier 2)
@@ -161,5 +160,11 @@ Shapiro built his national brand prosecuting the Catholic Church's child abuse c
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Josh Shapiro](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Josh%20Shapiro)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Josh Shapiro](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

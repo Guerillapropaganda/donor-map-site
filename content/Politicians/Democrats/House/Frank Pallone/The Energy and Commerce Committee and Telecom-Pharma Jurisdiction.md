@@ -38,8 +38,13 @@ Pallone was a principal architect of the Affordable Care Act (2010) and has defe
 
 ### Sources
 
-- ~~[Congress.gov: Frank Pallone member profile](https://www.congress.gov/member/frank-pallone/P000034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006246}} (Tier 1) (VERIFIED)
 - {{src:src_006246}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Frank Pallone](https://ballotpedia.org/Frank_Pallone) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Frank Pallone member profile](https://www.congress.gov/member/frank-pallone/P000034)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

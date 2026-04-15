@@ -141,5 +141,10 @@ Labor unions are the largest institutional donor bloc in the Democratic coalitio
 - Sierra Club, et al. v. United States Department of Energy, et al. (2026) — Court of Appeals for the Ninth Circuit
 - Martin Luther King, Jr. County v. DOT (2026) — Court of Appeals for the D.C. Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Labor%20Unions%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Labor%20Unions%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

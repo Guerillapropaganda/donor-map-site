@@ -84,7 +84,6 @@ Each victory expands the legal territory in which religious objections override 
 
 ### Sources
 
-- ~~[IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Supreme Court: ADF case record](https://www.supremecourt.gov/search.aspx?Search=Alliance%20Defending%20Freedom) (Tier 1) (VERIFIED)
 - [Ballotpedia: Alliance Defending Freedom](https://ballotpedia.org/Alliance_Defending_Freedom) (Tier 3) (VERIFIED)
 
@@ -134,11 +133,6 @@ Each victory expands the legal territory in which religious objections override 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541660459) (Tier 1) (VERIFIED)
@@ -174,3 +168,14 @@ The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Alliance_Defending_Freedom) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4732297) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS: ADF 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Alliance%20Defending%20Freedom&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541660459/2019)~~ (URL broken, archived by Ops)

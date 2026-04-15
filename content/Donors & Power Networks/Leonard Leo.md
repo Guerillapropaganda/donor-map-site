@@ -243,13 +243,10 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 
 - [ProPublica: Leonard Leo Gave Millions Trying to Influence Supreme Court on Elections, Discrimination](https://www.propublica.org/article/leonard-leo-scotus-elections-nonprofits-discrimination) (Tier 2) (VERIFIED)
 - [FEC Receipts: Leo's Dark Money Architecture](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=leonard%20leo) (Tier 1) (VERIFIED)
-- ~~[IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: We Don't Talk About Leonard](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 - [ProPublica: Barre Seid $1.6B donation to Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
 - [OpenSecrets: Kavanaugh confirmation spending](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 - [Center for American Progress: Federalist Society Judicial Dominance](https://www.americanprogress.org/article/pipelines-power-encouraging-professional-diversity-federal-appellate-bench/) (Tier 2) (VERIFIED)
-- ~~[Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html)~~ (URL broken, archived by Ops) (Tier 2, paywalled) (Tier 2)
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -288,3 +285,11 @@ The Trump-Leo tension exposed in May 2025, when Trump called Leo a "sleazebag wh
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS Form 990: Marble Freedom Trust Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Leonard%20Leo&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Politico: Leonard Leo and Trump's Judicial Appointments](https://politico.com/leonard-leo-judges)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The New York Times: Trump's Rift with Leo (May 2025)](https://www.nytimes.com/2025/05/30/us/politics/trump-judges-nominations.html)~~ (URL broken, archived by Ops) (Tier 2, paywalled) (Tier 2)

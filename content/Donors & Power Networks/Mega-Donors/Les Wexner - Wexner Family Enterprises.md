@@ -509,8 +509,6 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 - [NBC News: "Epstein Saga Engulfs Les Wexner, Ohio" (February 2026)](https://www.nbcnews.com/politics/politics-news/epstein-saga-engulfs-les-wexner-ohio-rcna258821) (Tier 2) (VERIFIED)
 - [Business Insider: "Victoria's Secret Founder Gave Epstein Power of Attorney" (July 2019)](https://www.businessinsider.com/victorias-secret-wexner-gave-power-of-attorney-to-epstein-report-2019-7) (Tier 2) (VERIFIED)
 - [Business Insider: "How Epstein Bought the NYC Townhouse" (July 2019)](https://www.businessinsider.com/jeffrey-epstein-bought-nyc-townhouse-how-2019-7) (Tier 2) (VERIFIED)
-- ~~[Politico: "Former Victoria's Secret CEO Testifies on Epstein Relationship" (February 19, 2026)](https://www.politico.com/news/2026/02/19/former-victoria-secret-ceo-testifies-jeffrey-epstein-relationship-00789913)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[New York Times: "Wexner Deposed by House Democrats on Epstein Files" (February 18, 2026)](https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PBS NewsHour: "House Democrats Speak After Wexner Deposition" (February 2026)](https://www.pbs.org/newshour/nation/watch-les-wexners-full-deposition-to-house-democrats-on-the-epstein-files) (Tier 2) (VERIFIED)
 - [WOSU: "Several Ohio Politicians Donate Money Given to Their Campaigns by Les and Abigail Wexner" (February 16, 2026)](https://www.wosu.org/politics-government/2026-02-16/several-ohio-politicians-donate-money-given-to-their-campaigns-by-les-and-abigail-wexner) (Tier 2) (VERIFIED)
 - [WOSU: "Ohio Nurses Association Calls on Ohio State to Remove Les Wexner's Name From Campus Buildings" (February 22, 2026)](https://www.wosu.org/politics-government/2026-02-22/ohio-nurses-association-calls-on-ohio-state-remove-les-wexners-name-from-campus-buildings) (Tier 2) (VERIFIED)
@@ -524,13 +522,10 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 #### Tier 3 (Secondary Reporting)
 
 - [Times of Israel: "Wexner Foundation Paid Ehud Barak $2.3 Million for Two Reports, Only One Completed" (February 2020)](https://www.timesofisrael.com/wexner-foundation-2-3-million-to-barak-was-for-2-reports-1-wasnt-finished/) (Tier 3) (VERIFIED)
-- ~~[Electronic Intifada: "Leaked Document Exposes Pro-Israel Lobby's Manipulation of U.S. Public" (Luntz document analysis)](https://electronicintifada.net/content/leaked-document-exposes-pro-israel-lobbys-manipulation-us-public/4540)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Al Jazeera: "Les Wexner: How the Billionaire Enabled Jeffrey Epstein's Rise" (February 2026)](https://www.aljazeera.com/news/2026/2/19/les-wexner-how-the-billionaire-enabled-jeffrey-epsteins-rise) (Tier 3) (VERIFIED)
-- ~~[Axios Columbus: "Les Wexner Jeffrey Epstein Ties Testimony" (February 2026)](https://www.axios.com/local/columbus/2026/02/18/les-wexner-jeffrey-epstein-ties-testimony)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Signal Ohio: "Les Wexner Deposed by House Oversight Committee Over Epstein Ties"](https://signalohio.org/les-wexner-deposed-by-house-oversight-committee-over-epstein-ties/) (Tier 3) (VERIFIED)
 - [ABC6 / WSYX: "Ohio Politicians Distance Themselves From Wexner Donations" (February 2026)](https://abc6onyourside.com/news/local/ohio-politicians-distance-themselves-from-wexner-donations-as-campaign-records-reviewed) (Tier 3) (VERIFIED)
 - [ABC6 / WSYX: "House Oversight Committee Panel on Les Wexner and Epstein" (February 2026)](https://abc6onyourside.com/news/local/house-oversight-committee-panel-les-leslie-wexner-jeffrey-epstein-billion-dollars-l-brands-limited-victorias-secret-new-albany-billionaire-columbus-ohio) (Tier 3) (VERIFIED)
-- ~~[Forbes: "Everything We Know About Les Wexner in the Epstein Files" (February 16, 2026)](https://www.forbes.com/sites/simonemelvin/2026/02/16/everything-we-know-about-les-wexner-in-the-epstein-files/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Yahoo News / NBC4: "Lawmakers Return Campaign Contributions from Les Wexner" (February 2026)](https://www.yahoo.com/news/articles/lawmakers-return-campaign-contributions-les-222820793.html) (Tier 3) (VERIFIED)
 - [InfluenceWatch: "Wexner Foundation" (Foundation advocacy mapping)](https://www.influencewatch.org/non-profit/wexner-foundation/) (Tier 3) (VERIFIED)
 - [Town & Country: "Jeffrey Epstein Townhouse Upper East Side" (Real estate history)](https://www.townandcountrymag.com/society/a28340797/jeffrey-epstein-townhouse-upper-east-side/) (Tier 3) (VERIFIED)
@@ -546,3 +541,13 @@ Whether Wexner was a victim, an enabler, or something more complicit remains a m
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: "Former Victoria's Secret CEO Testifies on Epstein Relationship" (February 19, 2026)](https://www.politico.com/news/2026/02/19/former-victoria-secret-ceo-testifies-jeffrey-epstein-relationship-00789913)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "Wexner Deposed by House Democrats on Epstein Files" (February 18, 2026)](https://www.nytimes.com/2026/02/18/us/politics/wexner-epstein-deposition.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Electronic Intifada: "Leaked Document Exposes Pro-Israel Lobby's Manipulation of U.S. Public" (Luntz document analysis)](https://electronicintifada.net/content/leaked-document-exposes-pro-israel-lobbys-manipulation-us-public/4540)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Axios Columbus: "Les Wexner Jeffrey Epstein Ties Testimony" (February 2026)](https://www.axios.com/local/columbus/2026/02/18/les-wexner-jeffrey-epstein-ties-testimony)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Forbes: "Everything We Know About Les Wexner in the Epstein Files" (February 16, 2026)](https://www.forbes.com/sites/simonemelvin/2026/02/16/everything-we-know-about-les-wexner-in-the-epstein-files/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

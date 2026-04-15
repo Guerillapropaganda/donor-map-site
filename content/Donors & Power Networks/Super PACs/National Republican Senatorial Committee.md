@@ -246,7 +246,6 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - BURLEIGH v. FEDERAL COMMUNICATIONS COMMISSION (FCC) (2025) — District Court, District of Columbia
 - Coalition for Good Governance v. Secretary of State for the State of Georgia (2025) — Court of Appeals for the Eleventh Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Republican%20Senatorial%20Committee%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -270,3 +269,9 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Republican%20Senatorial%20Committee%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Republican%20Senatorial%20Committee%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

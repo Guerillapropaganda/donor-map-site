@@ -68,6 +68,11 @@ Paul Pelosi manages the family's investment portfolio. [[_Nancy Pelosi Master Pr
 
 ### Sources
 
-- ~~[The Hill: Pelosi endorses stock trading ban (PELOSI Act)](https://thehill.com/?s=The%20Stock%20Trading%20Record)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - {{src:src_001501}} (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Pelosi endorses stock trading ban (PELOSI Act)](https://thehill.com/?s=The%20Stock%20Trading%20Record)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

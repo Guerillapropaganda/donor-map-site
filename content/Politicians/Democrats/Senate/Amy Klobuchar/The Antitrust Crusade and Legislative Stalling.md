@@ -64,7 +64,6 @@ Klobuchar herself acknowledged the structural reality in December 2024 after thr
 
 ### Sources
 
-- ~~[Congress.gov: American Innovation and Choice Online Act (S.2992)](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005585}} (Tier 1) (VERIFIED)
 - {{src:src_005585}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Google ramped up federal lobbying ahead of DOJ antitrust showdown](https://www.opensecrets.org/news/2023/10/google-ramped-up-federal-lobbying-ahead-of-doj-antitrust-showdown/) (Tier 1) (VERIFIED)
@@ -75,3 +74,9 @@ Klobuchar herself acknowledged the structural reality in December 2024 after thr
 - [Wikipedia: American Innovation and Choice Online Act](https://en.wikipedia.org/wiki/American_Innovation_and_Choice_Online_Act) (Tier 3) (VERIFIED)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: American Innovation and Choice Online Act (S.2992)](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

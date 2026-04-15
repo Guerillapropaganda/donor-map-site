@@ -76,7 +76,6 @@ Ohio's 2026 Senate race is a **special election** (not a regular cycle race) to 
  - **Healthcare/pharma (Ohio companies):** Procter & Gamble connections ($150K+), hospital associations
 - **Trump alignment funding (emerging):** MAGA billionaire networks still mobilizing, estimated $3M+ to come
 - **Union defections (significant weakness for Brown):** Four unions (International Union of Operating Engineers Local 66, International Brotherhood of Boilermakers, others) have switched endorsements from Brown (2024) to Husted (2026), reflecting anxiety about manufacturing decline under Democratic policy
-- ~~[Source: NBC4 WCMH-TV: Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Outside Money Landscape (Still Developing. Special Election Timing Unusual):
 - **Democratic side. Labor Super-PACs:**
@@ -161,7 +160,6 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 ### Sources
 
 - [Democrat Sherrod Brown leads Ohio Republican U.S. Sen. Jon Husted in quarterly fundraising | Ohio Capital Journal](https://ohiocapitaljournal.com/2026/02/04/democrat-sherrod-brown-leads-ohio-republican-u-s-sen-jon-husted-in-quarterly-fundraising/) (Tier 2) (VERIFIED)
-- ~~[Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record | NBC4 WCMH-TV](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - {{src:src_001996}} (Tier 1) (VERIFIED)
 - [Union workers welcome Sherrod Brown's 2026 Ohio comeback, but can he win? | Salon.com](https://www.salon.com/2025/08/27/union-workers-welcome-sherrod-browns-2026-ohio-comeback-but-can-he-win/) (Tier 2) (VERIFIED)
 - [Scoop: Jon Husted snatches third union endorsement from Sherrod Brown | Axios](https://www.axios.com/2025/10/15/senate-brown-husted-ohio-unions) (Tier 2) (VERIFIED)
@@ -171,3 +169,10 @@ This race reveals fundamental contradiction in Ohio working-class politics and w
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: NBC4 WCMH-TV: Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Ohio's U.S. Senate race: Brown raises $8 million, Husted sets Republican record | NBC4 WCMH-TV](https://www.nbc4i.com/news/your-local-election-hq/ohios-u-s-senate-race-brown-raises-8-million-husted-sets-republican-record/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

@@ -293,7 +293,6 @@ Pipeline writes formatted content inside HTML comment markers:
 | Individual Contributions | $1.8M |
 ...
 
-- ~~[Source: FEC](https://www.fec.gov/data/candidate/...)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-fundraising end -->
 ```
 
@@ -3125,3 +3124,9 @@ _No incidents yet. Add entries here as bugs are discovered and fixed._
 _No incidents yet. Pipeline created 2026-04-12. Add entries here as bugs are discovered and fixed._
 
 ---
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: FEC](https://www.fec.gov/data/candidate/...)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

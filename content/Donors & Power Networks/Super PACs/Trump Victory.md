@@ -199,11 +199,6 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 
 - ~~{{src:src_009875}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_009834}} (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Trump Victory Summary 2020](https://www.opensecrets.org/jfc/summary.php?id=C00618389&cycle=2020)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Trump Victory Summary 2016](https://www.opensecrets.org/joint-fundraising-committees-jfcs/summary?name=Trump+Victory&id=C00618389&cycle=2016)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Trump 47 Committee Summary 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/trump-47-cmte/C00867937/2024/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Trump Raised Record Sums for State Parties — Then RNC Took It Back](https://www.opensecrets.org/news/2021/02/trump-raised-record-sums-for-state-parties-rnc/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[The Hill: Trump Fundraising Agreement Prioritizes Legal Fee PAC Before RNC](https://www.thehill.com/homenews/campaign/4548589-trump-fundraising-agreement-prioritizes-payments-to-pac-covering-legal-fees-before-rnc/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [CNN: PAC That Pays Trump's Legal Bills Gets Priority Over RNC Donations](https://www.cnn.com/2024/03/21/politics/save-america-pac-rnc-trump-donations/index.html) (Tier 2) (VERIFIED)
 - [CNN: Trump 2020 Campaign Refunds Millions After Aggressive Fundraising](https://www.cnn.com/2021/08/07/politics/trump-refunds-millions-2020-campaign-fundraising/index.html) (Tier 2) (VERIFIED)
 - [NPR: RNC Member Introduces Resolution to Prevent Trump Legal Bill Payments](https://www.npr.org/2019/01/04/681987077/rnc-members-want-to-block-a-primary-challenge-to-trump-but-the-rules-may-stop-th) (Tier 2) (VERIFIED)
@@ -249,3 +244,13 @@ Trump Victory is the structural mechanism through which Trump converted the Repu
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Victory%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Trump Victory Summary 2020](https://www.opensecrets.org/jfc/summary.php?id=C00618389&cycle=2020)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Trump Victory Summary 2016](https://www.opensecrets.org/joint-fundraising-committees-jfcs/summary?name=Trump+Victory&id=C00618389&cycle=2016)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Trump 47 Committee Summary 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/trump-47-cmte/C00867937/2024/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Trump Raised Record Sums for State Parties - Then RNC Took It Back](https://www.opensecrets.org/news/2021/02/trump-raised-record-sums-for-state-parties-rnc/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: Trump Fundraising Agreement Prioritizes Legal Fee PAC Before RNC](https://www.thehill.com/homenews/campaign/4548589-trump-fundraising-agreement-prioritizes-payments-to-pac-covering-legal-fees-before-rnc/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

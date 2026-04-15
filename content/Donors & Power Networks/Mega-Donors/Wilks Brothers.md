@@ -171,9 +171,6 @@ The Wilks brothers represent **theocratic fossil fuel capital**, the intersectio
 - [Vice: "How Fracking Billionaires, Ben Shapiro, and PragerU Built a Climate Crisis–Denial Empire" (Geoff Dembicki, Aug 2022)](https://www.vice.com/en/article/fracking-farris-dan-wilks-prageru-climate-crisis-denial-shapiro/) (Tier 2) (VERIFIED)
 - [CNN: "How Two Texas Megadonors Have Turbocharged the State's Far-Right Shift" (Casey Tolan et al. Jul 2022)](https://www.cnn.com/2022/07/24/politics/texas-far-right-politics-invs) (Tier 2) (VERIFIED)
 - [ProPublica: "A Pair of Billionaire Preachers Built the Most Powerful Political Machine in Texas" (Ava Kofman, Oct 2024)](https://www.propublica.org/article/tim-dunn-farris-wilks-texas-christian-nationalism-dominionism-elections-voting) (Tier 2) (VERIFIED)
-- ~~[Forbes: "The Forbes 400's Newest Undercover Billionaires: The Wilks Brothers" (Sep 2011)](https://www.forbes.com/sites/edwindurgy/2011/09/26/the-forbes-400s-newest-undercover-billionaires-the-wilks-brothers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Daily Beast: "Big Money: Billionaire Brothers Give Ted Cruz $15M" (Jul 2015)](https://www.thedailybeast.com/big-money-billionaire-brothers-give-ted-cruz-dollar15m)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[Wall Street Journal: "Frac Tech Got $3.5 Billion" (Dinny McMahon, May 2011)](https://www.wsj.com/articles/SB10001424052748704816604576333721284477312)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Rewire News Group: "Local Control? Texas Fracking Billionaires Say 'Not So Fast'" (Jun 2015)](https://rewirenewsgroup.com/2015/06/02/local-control-texas-fracking-billionaires-say-fast/) (Tier 2) (VERIFIED)
 - [The Daily Wire: About Us, founding history](https://www.dailywire.com/about) (Tier 1) (VERIFIED)
 
@@ -181,3 +178,11 @@ The Wilks brothers represent **theocratic fossil fuel capital**, the intersectio
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Forbes: "The Forbes 400's Newest Undercover Billionaires: The Wilks Brothers" (Sep 2011)](https://www.forbes.com/sites/edwindurgy/2011/09/26/the-forbes-400s-newest-undercover-billionaires-the-wilks-brothers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Daily Beast: "Big Money: Billionaire Brothers Give Ted Cruz $15M" (Jul 2015)](https://www.thedailybeast.com/big-money-billionaire-brothers-give-ted-cruz-dollar15m)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Wall Street Journal: "Frac Tech Got $3.5 Billion" (Dinny McMahon, May 2011)](https://www.wsj.com/articles/SB10001424052748704816604576333721284477312)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

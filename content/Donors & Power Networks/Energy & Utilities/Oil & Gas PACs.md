@@ -139,5 +139,10 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 **Notable cases:**
 - FINANCIAL OVERSIGHT AND MANAGEMENT BOARD FOR PUERT v. Pierluisi Urrutia (2024) — United States Bankruptcy Court, D. Puerto Rico
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oil%20%26%20Gas%20PACs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oil%20%26%20Gas%20PACs%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -38,9 +38,14 @@ Mississippi's economy is disproportionately dependent on federal military spendi
 
 ### Sources
 
-- ~~[Congress.gov: Roger Wicker member profile](https://www.congress.gov/member/roger-wicker/W000437)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003242}} (Tier 1) (VERIFIED)
 - {{src:src_003242}} (Tier 1) (VERIFIED)
-- ~~[Defense News: Wicker's 355-ship Navy advocacy](https://web.archive.org/web/2024/https:/www.defensenews.com/wicker-navy-shipbuilding/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Roger Wicker](https://ballotpedia.org/Roger_Wicker) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Roger Wicker member profile](https://www.congress.gov/member/roger-wicker/W000437)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Defense News: Wicker's 355-ship Navy advocacy](https://web.archive.org/web/2024/https:/www.defensenews.com/wicker-navy-shipbuilding/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

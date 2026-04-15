@@ -57,7 +57,6 @@ Meanwhile, GOP cracks are showing, several Republican senators have publicly exp
 
 - [Roll Call: DHS funding deal appears close after White House talks](https://rollcall.com/2026/03/23/dhs-funding-deal-appears-close-after-white-house-talks/) (Tier 2) (VERIFIED)
 - [WSLS/AP: Senators consider deal to fund DHS but not ICE enforcement](https://www.wsls.com/news/politics/2026/03/24/senators-consider-deal-to-fund-homeland-security-but-not-ice-enforcement-as-airport-lines-snarl/) (Tier 2) (VERIFIED)
-- ~~[The Hill: GOP cracks in Senate begin to show in DHS shutdown fight](https://thehill.com/homenews/senate/5795847-homeland-security-funding-stalemate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Trump rejected an off-ramp to the DHS shutdown, for now](https://www.cnn.com/2026/03/23/politics/trump-dhs-shutdown-save-america-act) (Tier 2) (VERIFIED)
 
 ---
@@ -181,3 +180,9 @@ Items to watch in the CA legislature:
 
 *Next scan: March 25, 2026. Watch for: Hormuz 5-day pause developments (expires ~March 28), DHS deal legislative language, SCOTUS orders list, oil price trajectory, any reconciliation 2.0 committee action.*
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: GOP cracks in Senate begin to show in DHS shutdown fight](https://thehill.com/homenews/senate/5795847-homeland-security-funding-stalemate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

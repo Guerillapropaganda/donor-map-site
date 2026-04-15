@@ -236,10 +236,8 @@ The Kott case is the most explicit example of the ideological infrastructure the
 - [Senate LDA Filings: Capitol Counsel Lobbyists 2024, 38 lobbyists, 28 (73.7%) revolving door, 1 former MoC](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Capitol Counsel Issues Lobbied 2024. Health Issues #1 (50 clients), Taxes #2 (46 clients), Fed Budget #3 (41 clients)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [The Lever: The Manchin Aide Turned Corporate Shill. Kott's path from Manchin staff to pharma/fossil fuel/Fox lobbyist; Big Tent Project Fund dark money detail](https://www.levernews.com/the-manchin-aide-turned-corporate-shill/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Inside a K Street success story. Raffaelli/McCrery profile; firm founding, growth to $14.7M, bipartisan expansion strategy](https://thehill.com/business-a-lobbying/business-a-lobbying/200517-inside-a-k-street-success-story/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Capitol Counsel has shot to top of K Street, firm growth profile, November 2013](https://www.washingtonpost.com/business/capitalbusiness/capitol-counsel-has-shot-to-top-of-k-street/2013/11/22/6fe6dadc-507b-11e3-a7f0-b790929232e1_story.html) (Tier 2) (VERIFIED)
 - [Roll Call: The Beginning of Wyden World? Former Top Aide Joins Capitol Counsel. Kardon hire, Finance Committee orbit, January 2014](https://rollcall.com/2014/01/07/the-beginning-of-wyden-world-former-top-aide-joins-capitol-counsel-downtown-moves/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Pat Roberts joins lobbying firm weeks after Senate retirement. February 2021](https://thehill.com/business-a-lobbying/lobbying-hires/540597-pat-roberts-joins-lobbying-firm-weeks-after-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Joe Manchin's former aides lobby Congress for oil, gas, pharma giants. November 2021](https://www.cnbc.com/2021/11/02/joe-manchin-former-aides-lobby-congress-for-oil-gas-pharma-giants.html) (Tier 2) (VERIFIED)
 - [PR Newswire: Capitol Counsel Adds Former Manchin, Coons Senior Advisor As Partner, official firm announcement, June 2021](https://www.prnewswire.com/news-releases/capitol-counsel-adds-former-manchin-coons-senior-advisor-and-communications-director-as-partner-expanding-offerings-301314799.html) (Tier 3) (NEEDS REVIEW)
 - [PR Newswire: Senator Pat Roberts Joins Capitol Counsel, official firm announcement, February 2021](https://www.prnewswire.com/news-releases/senator-pat-roberts-joins-capitol-counsel-301235929.html) (Tier 3) (VERIFIED)
@@ -247,7 +245,6 @@ The Kott case is the most explicit example of the ideological infrastructure the
 - [Wikipedia: John D. Raffaelli. Capitol Counsel founder; McAuliffe Kelly & Raffaelli history; Washington Group; career summary](https://en.wikipedia.org/wiki/John_D._Raffaelli) (Tier 3) (VERIFIED)
 - [PR Newswire: Rubicon Strategy and Capitol Counsel announce exclusive Canada-US trade/government relations partnership. January 7, 2025](https://www.prnewswire.com/news-releases/rubicon-strategy-inc-and-capitol-counsel-announce-exclusive-partnership-to-navigate-cross-border-trade-and-government-relations-302344972.html) (Tier 3) (VERIFIED)
 - [Capitol Counsel: Alan Hill. Of Counsel bio, J.A. Hill Group founder, Energy & Commerce jurisdiction, Arms Act legislative role](https://capitolcounsel.com/team/alanhill/) (Tier 3) (VERIFIED)
-- ~~[AerialFire Magazine: Collective Strategies and Capitol Counsel announce strategic wildfire crisis lobbying partnership. March 5, 2026](https://aerialfiremag.com/2026/03/05/collective-strategies-and-capitol-counsel-a-strategic-union-to-confront-the-wildfire-crisis/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -268,5 +265,13 @@ The Kott case is the most explicit example of the ideological infrastructure the
 - Goold v. First Financial Federal Credit Union (2025) — District Court, D. South Carolina
 - McFadden v. Security Finance Corporation of Spartanburg (2025) — District Court, D. South Carolina
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Capitol%20Counsel%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Inside a K Street success story. Raffaelli/McCrery profile; firm founding, growth to $14.7M, bipartisan expansion strategy](https://thehill.com/business-a-lobbying/business-a-lobbying/200517-inside-a-k-street-success-story/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Pat Roberts joins lobbying firm weeks after Senate retirement. February 2021](https://thehill.com/business-a-lobbying/lobbying-hires/540597-pat-roberts-joins-lobbying-firm-weeks-after-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[AerialFire Magazine: Collective Strategies and Capitol Counsel announce strategic wildfire crisis lobbying partnership. March 5, 2026](https://aerialfiremag.com/2026/03/05/collective-strategies-and-capitol-counsel-a-strategic-union-to-confront-the-wildfire-crisis/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Capitol%20Counsel%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -167,13 +167,10 @@ The politicians who violate this pattern are revealing:
 - {{src:src_000056}} (Tier 1) (VERIFIED)
 - {{src:src_001220}} (Tier 1) (VERIFIED)
 - ~~{{src:src_001221}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Washington Post: See how your neighborhood is giving to Harris and Trump (2024)](https://www.washingtonpost.com/elections/interactive/2024/trump-harris-donors-zip-code-map/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Nationalization of Elections (Academic):
 - [OpenSecrets Special Report: Outside Money, Inside Influence: How National Donors Shaped the 2024 Congressional Elections](https://www.opensecrets.org/news/reports/outside-money-inside-influence) (Tier 1) (VERIFIED)
 - [OpenSecrets: How National Donors Shaped the 2024 Congressional Elections](https://www.opensecrets.org/news/2025/05/special-report-how-national-donors-shaped-the-2024-congressional-elections) (Tier 1) (VERIFIED)
-- ~~[Nicholas Jacobs and Wasike Gil Imboywa: The Nationalization of Individual Campaign Contributions in U.S. Senate Elections, 1984-2020](https://journals.sagepub.com/doi/10.1177/1532673X231220639)~~ (URL broken, archived by Ops) (Sage Journals, Tier 2) (Tier 2)
-- ~~[The Hill: Why a Few Dozen Zip Codes Dominate Political Giving](https://thehill.com/opinion/campaign/592517-why-a-few-dozen-zip-codes-dominate-political-giving/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Zip Code Concentration Studies:
 - [OpenSecrets: Top Zip Codes Contributing Money](https://www.opensecrets.org/elections-overview) (Tier 1) (VERIFIED)
@@ -182,7 +179,15 @@ The politicians who violate this pattern are revealing:
 - [Common Dreams: Just 12 Super-Rich Donors Spent $3.4 Billion to Sway US Elections Since 2009](https://www.commondreams.org/news/2021/04/20/just-12-super-rich-donors-spent-34-billion-sway-us-elections-2009-study) (Tier 3) (VERIFIED)
 
 ### Demographic Analysis of Donor Geography:
-- ~~[Democracy NC: Color of Money - Charlotte Named North Carolina's Political Money Center](https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-color-money-shows-need-campaign-reform/-center-color-money-shows-need-campaign-reform/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: See how your neighborhood is giving to Harris and Trump (2024)](https://www.washingtonpost.com/elections/interactive/2024/trump-harris-donors-zip-code-map/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Nicholas Jacobs and Wasike Gil Imboywa: The Nationalization of Individual Campaign Contributions in U.S. Senate Elections, 1984-2020](https://journals.sagepub.com/doi/10.1177/1532673X231220639)~~ (URL broken, archived by Ops) (Sage Journals, Tier 2) (Tier 2)
+- ~~[The Hill: Why a Few Dozen Zip Codes Dominate Political Giving](https://thehill.com/opinion/campaign/592517-why-a-few-dozen-zip-codes-dominate-political-giving/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Democracy NC: Color of Money - Charlotte Named North Carolina's Political Money Center](https://democracync.org/research/charlotte-named-north-carolinas-political-money-center-color-money-shows-need-campaign-reform/-center-color-money-shows-need-campaign-reform/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

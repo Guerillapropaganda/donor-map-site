@@ -108,7 +108,6 @@ Tammy Duckworth. Democrat, Illinois. Senator since 2017. Purple Heart recipient 
 
 Duckworth's military sacrifice gives her unassailable credentials on defense and veterans' issues — a biographical shield that makes her defense spending positions essentially unquestionable. She is one of the few Democratic senators who can advocate for defense spending increases without facing progressive backlash. Illinois's defense economy — Boeing headquarters in Chicago, Rock Island Arsenal, Collins Aerospace in Rockford, 8,713 defense contractors across 102 counties holding $116.1 billion in government contracts — creates constituency alignment with her committee jurisdiction.
 
-- ~~[Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005102}} (Tier 1) (VERIFIED)
 
 ---
@@ -254,7 +253,6 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | 10/10/2017 | CC | Sale | $1,001 - $15,000 | Joint |
 | 09/15/2017 | INTC | Sale | $1,001 - $15,000 | Joint |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -380,5 +378,12 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/D000622)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/D000622)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

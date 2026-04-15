@@ -353,12 +353,7 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 - [Environmental Working Group: Farm Subsidy Database — Frank Lucas](https://farm.ewg.org/persondetail.php?custnumber=13000178668) (Tier 1) (VERIFIED)
 - {{src:src_004098}} (Tier 1) (VERIFIED)
 - [GovTrack: Frank Lucas voting record on Farm Bills](https://www.govtrack.us/congress/members/zoe_lofgren/400245) (Tier 1) (NEEDS REVIEW)
-- ~~[Congressional Research Service: Farm Bill Overview and History](https://crsreports.congress.gov/product/pdf/R/R47667)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [USDA: Commodity subsidy distribution data](https://www.usda.gov/farmbill/) (Tier 1) (NEEDS REVIEW)
-- ~~[The Guardian: Congressional self-dealing in farm subsidies](https://www.theguardian.com/us-news/2019/nov/15/farm-subsidies-agriculture-committee-members/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: Farm Bill conflicts of interest investigation](https://www.politico.com/news/2022/06/03/farm-bill-agriculture-committee-conflicts-interest)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Roll Call: Lucas's scientific research funding decisions and energy sector donations](https://www.rollcall.com/news/frank-lucas-science-committee-chair/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Public Citizen: Congressional Farm Subsidy Recipients](https://www.citizen.org/article/farm-subsidy-analysis-congress/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [EWG: Farm subsidy database — Frank Lucas district data](https://farm.ewg.org/) (Tier 2) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
@@ -377,7 +372,6 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 - H.R. 5089: Weather Act Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 10, 2025.*
 - H.R. 4459: MINT Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on July 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400247)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -484,5 +478,16 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 | 3244 | CASH Act | Referred to the House Committee on Small Business. |
 | 2563 | Aviation Education Remaining Operational Act | Referred to the Subcommittee on Aviation. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/L000491)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congressional Research Service: Farm Bill Overview and History](https://crsreports.congress.gov/product/pdf/R/R47667)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[The Guardian: Congressional self-dealing in farm subsidies](https://www.theguardian.com/us-news/2019/nov/15/farm-subsidies-agriculture-committee-members/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Farm Bill conflicts of interest investigation](https://www.politico.com/news/2022/06/03/farm-bill-agriculture-committee-conflicts-interest)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Roll Call: Lucas's scientific research funding decisions and energy sector donations](https://www.rollcall.com/news/frank-lucas-science-committee-chair/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Public Citizen: Congressional Farm Subsidy Recipients](https://www.citizen.org/article/farm-subsidy-analysis-congress/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400247)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/L000491)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

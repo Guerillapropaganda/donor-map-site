@@ -197,7 +197,6 @@ The pop-up organization model reveals the deeper function. Arabella creates temp
 - [Tablet Magazine: For-Profit DC Firm Staging America's Grassroots Movements](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors) (Tier 2) (VERIFIED)
 - [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED)
 - [ProPublica: Dark Money Groups Are Reshaping Politics](https://www.propublica.org/article/the-conservative-playbook-for-keeping-dark-money-dark) (Tier 2)
-- ~~[Nonprofit Quarterly: Arabella Advisors Grows as Major Democratic Player](https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Free Beacon: Inside Dem Dark Money Behemoth Arabella Advisors](https://freebeacon.com/democrats/inside-dem-dark-money-behemoth-arabella-advisors-failed-attempt-to-create-an-astroturf-influencer-army/) (Tier 3) (VERIFIED)
 - [House Oversight Committee: Investigation into Sixteen Thirty Fund](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 - [CampaignNow: The $1.5 Billion Machine. Arabella 2024](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3) (VERIFIED)
@@ -221,3 +220,9 @@ The pop-up organization model reveals the deeper function. Arabella creates temp
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Arabella%20Advisors%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Nonprofit Quarterly: Arabella Advisors Grows as Major Democratic Player](https://nonprofitquarterly.org/arabella-advisors-grows-as-a-major-dem-player/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

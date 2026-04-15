@@ -376,12 +376,10 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - [Creators Syndicate: Veronique de Rugy "The Upside, Risks and Limits of DOGE"](https://www.creators.com/read/veronique-de-rugy/02/25/the-upside-risks-and-limits-of-doge) (Tier 3) (VERIFIED)
 - [DeSmog: Mercatus Center](https://www.desmog.com/mercatus-center/) (Tier 2) (VERIFIED)
 - [DeSmog: Koch and George Mason University](https://www.desmog.com/koch-and-george-mason-university/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Koch Industries amassed 150 penalties for environmental violations](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [EPA Archive: Executive Order 13771](https://19january2021snapshot.epa.gov/laws-regulations/executive-order-13771-reducing-regulation-and-controlling-regulatory-costs_.html) (Tier 1) (VERIFIED)
 - [EPA OIG: Regulatory Cost Savings Report FY2017-2018](https://www.epa.gov/sites/default/files/2019-08/documents/_epaoig_20190809-19-p-0267.pdf) (Tier 1) (VERIFIED)
 - [Fortune: Koch Industries Georgia-Pacific safety violations](https://fortune.com/longform/koch-industries-georgia-pacific-safety/) (Tier 2) (VERIFIED)
 - [Good Jobs First Violation Tracker: Koch Industries environmental and safety penalties](https://violationtracker.goodjobsfirst.org/parent/koch-industries) (Tier 1) (VERIFIED) (UNVERIFIED)
-- ~~[Greenpeace: Mercatus Center](https://www.greenpeace.org/global/usa/climate/climate-deniers/front-groups/mercatus-center/)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4)
 - [House Budget Committee: Patrick McLaughlin Congressional Testimony, July 7, 2016](https://democrats-budget.house.gov/sites/evo-subsites/democrats-budget.house.gov/files/documents/McLaughlin%20Testimony.pdf) (Tier 1) (VERIFIED)
 - [InfluenceWatch: Mercatus Center, George Mason University](https://www.influencewatch.org/non-profit/mercatus-center-george-mason-university/) (Tier 4) (VERIFIED)
 - [Inside Higher Ed: Koch agreements with George Mason gave foundation role in faculty hiring and oversight](https://www.insidehighered.com/news/2018/05/01/koch-agreements-george-mason-gave-foundation-role-faculty-hiring-and-oversight) (Tier 2) (VERIFIED)
@@ -394,7 +392,6 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - [People's Policy Project: Mercatus study on Medicare for All](https://www.peoplespolicyproject.org/2018/07/30/mercatus-study-finds-medicare-for-all-saves-2-trillion/) (Tier 2) (VERIFIED)
 - [PNHP: Critique of Blahous M4A study](https://pnhp.org/news/lets-get-it-right-medicare-for-all-is-a-huge-bargain/) (Tier 2) (VERIFIED)
 - [Policy Archive: Susan Dudley OIRA analysis](https://www.policyarchive.org/download/11984) (Tier 1) (VERIFIED)
-- ~~[PR Watch: Koch compliance and Georgia-Pacific health and safety record](https://www.prwatch.org/news/2018/03/13325/koch-compliance-georgia-pacific-plants-have-troubling-health-and-safety-record)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: Mercatus Center Inc (EIN 54-1436224)](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1) (VERIFIED)
 - [ProPublica Trump Town: Mercatus Center at George Mason University](https://projects.propublica.org/trump-town/organizations/mercatus-center-at-george-mason-university) (Tier 1) (VERIFIED)
 - [Public Citizen: The Back Door to Power. Susan Dudley's rise to OIRA Administrator](https://www.citizen.org/news/the-back-door-to-power-susan-dudleys-sneaky-rise-to-oira-administrator/) (Tier 2) (VERIFIED)
@@ -402,10 +399,8 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - [SEC.gov: Commissioner Hester M. Peirce](https://www.sec.gov/about/sec-commissioners/hester-m-peirce) (Tier 1) (VERIFIED)
 - [SEC: Press Release on Hester Peirce appointment](https://www.sec.gov/newsroom/press-releases/2018-5) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Senator Whitehouse: Whitehouse, Warren Air Concerns with BLS Nominee](https://www.whitehouse.senate.gov/news/release/whitehouse-warren-air-concerns-with-bls-nominee/) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [The White House: Establishing and Implementing the President's Department of Government Efficiency](https://www.whitehouse.gov/presidential-actions/2025/01/establishing-and-implementing-the-presidents-department-of-government-efficiency/) (Tier 1) (VERIFIED)
 - [UnKoch My Campus: Donor Control at GMU Finally Exposed](http://www.unkochmycampus.org/charles-koch-foundation-george-mason-mercatus-donor-influence-exposed) (Tier 3) (VERIFIED)
-- ~~[Wall Street Journal: Musk and Ramaswamy DOGE plan](https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Wikipedia: Mercatus Center](https://en.wikipedia.org/wiki/Mercatus_Center) (Tier 3) (VERIFIED)
 - [WTOP: DOGE spending claims and Veronique de Rugy interview](https://wtop.com/local/2025/02/how-much-money-is-doge-saving-the-federal-government/) (Tier 2) (VERIFIED)
 
@@ -425,7 +420,6 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 - Sierra Club v. United States Department of Interior (2025) — District Court, N.D. California
 - Sierra Club v. United States Department Of Energy (2025) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercatus%20Center%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -443,11 +437,6 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541436224) (Tier 1) (VERIFIED)
@@ -474,3 +463,19 @@ The DOGE episode (2025) reveals an emerging tension within the conservative dere
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Mercatus%20Center%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Koch Industries amassed 150 penalties for environmental violations](https://www.exposedbycmd.org/2021/03/29/koch-industries-amassed-150-penalties-for-state-environmental-violations-in-20-states/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Greenpeace: Mercatus Center](https://www.greenpeace.org/global/usa/climate/climate-deniers/front-groups/mercatus-center/)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4)
+- ~~[PR Watch: Koch compliance and Georgia-Pacific health and safety record](https://www.prwatch.org/news/2018/03/13325/koch-compliance-georgia-pacific-plants-have-troubling-health-and-safety-record)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[SourceWatch: Mercatus Center](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Mercatus_Center)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Wall Street Journal: Musk and Ramaswamy DOGE plan](https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercatus%20Center%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/541436224/2019)~~ (URL broken, archived by Ops)

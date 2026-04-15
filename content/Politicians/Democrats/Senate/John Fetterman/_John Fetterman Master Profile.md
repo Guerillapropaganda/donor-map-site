@@ -227,7 +227,6 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 - [Pittsburgh Post-Gazette: Sen. John Fetterman sparks a backlash with staunch support for Israel](https://www.post-gazette.com/news/politics-nation/2023/11/03/john-fetterman-israel-hamas-progressives/stories/202311050075) (Tier 2) (VERIFIED)
 - [Algemeiner: Fetterman Hosts AIPAC, Bondi Survivor in DC Office](https://www.algemeiner.com/2026/02/26/fetterman-hosts-aipac-bondi-survivor-dc-office/) (Tier 2) (VERIFIED)
 - [AIPAC Tracker on X: Fetterman AIPAC donations ($250,000)](https://x.com/TrackAIPAC/status/1775962933354512886?lang=en) (Tier 3) (VERIFIED)
-- ~~[Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Common Dreams: Pennsylvania's Fetterman Brings in Bernie-esque Grassroots Fundraising Haul](https://www.commondreams.org/news/2022/01/05/pennsylvanias-fetterman-brings-bernie-esque-grassroots-fundraising-haul-us-senate) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -279,7 +278,6 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 - S. 3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for  — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 3660: Credit Card Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/456877)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -304,7 +302,6 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 **Sources**
 
-- ~~[GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-11 -->
@@ -331,7 +328,15 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 
 **Sources**
 
-- ~~[Congress.gov: John Fetterman](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Pennsylvania Capital-Star: What we say when we talk about Fetterman's hoodie](https://penncapital-star.com/commentary/what-we-say-and-what-we-mean-when-we-talk-about-fettermans-hoodie-heather-macdonald-pennsylvania-capital-star/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/456877)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: John Fetterman](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

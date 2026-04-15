@@ -233,8 +233,6 @@ Warren's retreat from immediate M4A to a "transition plan" was the moment she ac
 
 ### Sources
 
-- ~~[Congress.gov: Medicare for All Act of 2017 (S. 1804). Cosponsors](https://www.congress.gov/bill/115th-congress/senate-bill/1804/cosponsors)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[The Hill: Warren co-sponsoring Sanders' Medicare for All bill](https://thehill.com/policy/healthcare/349598-warren-co-sponsoring-sanders-medicare-for-all-bill/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [U.S. Senator Elizabeth Warren: Warren Joins Sanders to Reintroduce Medicare for All](https://www.warren.senate.gov/newsroom/press-releases/warren-joins-sanders-13-other-senators-to-reintroduce-medicare-for-all) (Tier 1) (VERIFIED)
 - [NPR: Here's How Warren Finds $20.5 Trillion To Pay For Medicare For All](https://www.npr.org/2019/11/01/775339519/heres-how-warren-finds-20-5-trillion-to-pay-for-medicare-for-all) (Tier 2) (VERIFIED)
 - [Washington Post: Warren's Medicare proposal. Is she an electable revolutionary?](https://www.washingtonpost.com/politics/elizabeth-warren-proposes-new-taxes-to-fund-medicare-for-all-but-says-middle-class-would-be-spared/2019/11/01/13518ae6-fc1a-11e9-ac8c-8eced29ca6ef_story.html) (Tier 2) (VERIFIED)
@@ -245,3 +243,10 @@ Warren's retreat from immediate M4A to a "transition plan" was the moment she ac
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Medicare for All Act of 2017 (S. 1804). Cosponsors](https://www.congress.gov/bill/115th-congress/senate-bill/1804/cosponsors)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: Warren co-sponsoring Sanders' Medicare for All bill](https://thehill.com/policy/healthcare/349598-warren-co-sponsoring-sanders-medicare-for-all-bill/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -186,7 +186,6 @@ The Putin interview represents the endpoint of this logic: Carlson's "anti-estab
 - [Variety: Tucker Carlson's Fox News Exit Tied to Dominion Lawsuit](https://variety.com/2023/tv/news/tucker-carlson-fox-news-exit-dominion-lawsuit-twitter-show-1235613404/) (Tier 2) (VERIFIED)
 - [Fortune: Tucker Carlson's new media company gets seed funding, 1789 Capital $15M](https://fortune.com/2023/10/17/tucker-carlson-media-company-funding-1789-15-million-seed-capital/) (Tier 2) (VERIFIED)
 - [TheWrap: Tucker Carlson Courts GOP Megadonors Rebekah Mercer, Peter Thiel](https://www.thewrap.com/tucker-carlson-gop-donors-mercer-thiel-media-company/) (Tier 2) (VERIFIED)
-- ~~[Axios: Tucker Carlson buys out investors in his media company (June 2025)](https://www.axios.com/2025/06/13/tucker-carlson-investors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Axios: Tucker Carlson lands first major ad deal, investment interest for new media company](https://www.axios.com/2023/07/17/tucker-carlson-ad-deal-new-media-company) (Tier 2) (VERIFIED)
 - [Washington Post: Tucker Carlson said he hates Trump 'passionately'. Dominion lawsuit texts](https://www.washingtonpost.com/media/2023/03/07/fox-news-dominion-tucker-carlson-texts/) (Tier 1) (VERIFIED)
 - [NPR: How Tucker Carlson mainstreamed fringe conspiracy theories](https://www.npr.org/2023/04/25/1171800317/how-tucker-carlsons-extremist-narratives-shaped-fox-news-and-conservative-politi) (Tier 2) (VERIFIED)
@@ -197,3 +196,9 @@ The Putin interview represents the endpoint of this logic: Carlson's "anti-estab
 - [Nasdaq: Tucker Carlson Introduces ALP, A Revolutionary New Nicotine Pouch Company](https://www.nasdaq.com/press-release/tucker-carlson-introduces-alp-revolutionary-new-nicotine-pouch-company-2024-11-14) (Tier 3) (VERIFIED)
 - [NBC News: Far-right laments Tucker Carlson's ouster](https://www.nbcnews.com/tech/internet/far-right-laments-tucker-carlsons-ouster-rcna81595) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Tucker Carlson buys out investors in his media company (June 2025)](https://www.axios.com/2025/06/13/tucker-carlson-investors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

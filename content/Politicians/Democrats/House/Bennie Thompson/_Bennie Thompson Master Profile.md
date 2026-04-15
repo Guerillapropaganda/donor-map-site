@@ -184,13 +184,10 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - {{src:src_006332}} (Tier 1) (VERIFIED)
 - {{src:src_006332}} (Tier 1) (VERIFIED)
 - [House.gov: Bennie Thompson official biography](https://benniethompson.house.gov/about) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Defense & Homeland Security lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Washington Post: 6 questions the Jan. 6 committee aims to answer about the attack](https://www.washingtonpost.com/politics/2022/06/09/jan6-committee-questions-hearings/) (Tier 2) (VERIFIED)
 - [NPR: Bennie Thompson. From Civil Rights to January 6th](https://www.npr.org/2022/06/08/1102909009/jan-6-committee-members-capitol-attack-thompson) (Tier 2) (VERIFIED)
 - [The Intercept: How Post-9/11 Visions of an Imperiled Homeland Supercharged U.S. Immigration Enforcement](https://theintercept.com/2021/09/10/immigration-enforcement-homeland-security-911/) (Tier 2) (VERIFIED)
-- ~~[Mississippi Today: Bennie Thompson Profile](https://mississippitoday.org/category/the-capitol/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Bennie Thompson](https://ballotpedia.org/Bennie_Thompson) (Tier 3) (VERIFIED)
 - [Wikipedia: Bennie Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson) (Tier 3) (VERIFIED)
 
@@ -296,7 +293,6 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400402)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### DOJ Press Releases
@@ -324,8 +320,6 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 **Sources**
 
-- ~~[Congress.gov: Bennie Thompson](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -382,3 +376,14 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: January 6th Select Committee Final Report](https://www.congress.gov/committee/house-select-committee-to-investigate-the-january-6th-attack/hlij00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[DHS.gov: Budget-in-Brief FY2024](https://www.dhs.gov/sites/default/files/2023-03/DHS%20BIB%20-%20web%20version.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Mississippi Today: Bennie Thompson Profile](https://mississippitoday.org/category/the-capitol/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400402)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bennie Thompson](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

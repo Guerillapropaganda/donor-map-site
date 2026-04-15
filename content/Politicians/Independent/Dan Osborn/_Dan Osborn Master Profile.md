@@ -237,7 +237,6 @@ party:: Independent
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Dan Osborn](https://www.congress.gov/member/k000401)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Campaign Finance Summary (FEC)
@@ -262,3 +261,9 @@ party:: Independent
 
 - {{src:src_004998}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Dan Osborn](https://www.congress.gov/member/k000401)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

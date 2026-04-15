@@ -231,7 +231,6 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ### Verified
 - ~~{{src:src_004806}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Katie Porter member profile](https://www.congress.gov/member/katie-porter/P000618)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Katie Porter voting record](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
 - [CalMatters: California Governor Race Fundraising Reports](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 
@@ -318,7 +317,6 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 | 9664 | Accurate Industrial Policy Budgeting Act of 2024 | Referred to the House Committee on Armed Services. |
 | 9507 | Expanding Security Assistance Notification Act | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/P000618)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -343,6 +341,13 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 **Sources**
 
-- ~~[Congress.gov: Katie Porter](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Katie Porter](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Katie Porter member profile](https://www.congress.gov/member/katie-porter/P000618)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000618)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Katie Porter](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

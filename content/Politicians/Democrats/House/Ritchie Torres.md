@@ -114,7 +114,6 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 - [AIPAC Tracker on X: Torres Israel lobby total $1.5M+](https://x.com/TrackAIPAC/status/1793830657472471181) (Tier 3) (VERIFIED)
 - [Jewish Currents: Ritchie Torres is the Future of Pro-Israel Politics](https://jewishcurrents.org/ritchie-torres-is-the-future-of-pro-israel-politics) (Tier 2) (VERIFIED)
 - [City & State New York: The evolution of Ritchie Torres](https://www.cityandstateny.com/personality/2024/06/evolution-ritchie-torres/397205/) (Tier 2) (VERIFIED)
-- ~~[Jewish Telegraphic Agency: Ritchie Torres' challengers test how Israel plays in the Bronx](https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Times of Israel: Ritchie Torres's primary challengers criticize pro-Israel views](https://www.timesofisrael.com/ritchie-torress-primary-challengers-criticize-his-pro-israel-views-take-aim-at-rich-zios/) (Tier 2) (VERIFIED)
 - [CNBC: Crypto super PAC Fairshake has $116 million on hand for 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
 - [City & State New York: Deep-pocketed crypto super PAC eyes New York House races 2026](https://www.cityandstateny.com/politics/2026/03/deep-pocketed-crypto-super-pac-eyes-new-york-house-races-2026/412198/) (Tier 2) (VERIFIED)
@@ -163,7 +162,6 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Ritchie Torres](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -201,5 +199,12 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 | 6727 | Repealing the IMD Exclusion Act | Referred to the House Committee on Energy and Commerce. |
 | 6677 | Professional Degree Access Restoration Act | Referred to the House Committee on Education and Workforce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/T000486)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Jewish Telegraphic Agency: Ritchie Torres' challengers test how Israel plays in the Bronx](https://www.jta.org/2026/01/30/politics/ritchie-torres-challengers-are-testing-how-israel-plays-in-the-bronx-and-testing-aim-at-zionists-in-a-jewish-neighborhood)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Ritchie Torres](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/T000486)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -171,7 +171,6 @@ The Centene pipeline follows the same pattern. Centene Corporation paid Ohio $88
 
 - {{src:src_003485}} (Tier 1) (VERIFIED)
 - {{src:src_003491}} (Tier 1) (VERIFIED)
-- ~~[Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Sen. Jon Husted received donations from Epstein associate Les Wexner. We followed the money](https://www.snopes.com/fact-check/jon-husted-les-wexner-epstein/) (Tier 2) (VERIFIED)
 - [Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
 - [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2) (VERIFIED)
@@ -241,3 +240,9 @@ party:: Republican
 
 - {{src:src_003485}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)

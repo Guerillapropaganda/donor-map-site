@@ -40,6 +40,11 @@ Merkley has authored legislation to restrict corporate homebuying (Stop Wall Str
 
 - [Congress.gov: Jeff Merkley member profile](https://www.congress.gov/member/jeff-merkley/M001176) (Tier 1) (VERIFIED)
 - {{src:src_005349}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

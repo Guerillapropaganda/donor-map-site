@@ -127,5 +127,10 @@ This is the actual function of the deregulated grid: it distributes the benefits
 - [Washington Post: Texas is rattled by the failure to keep electricity flowing](https://www.washingtonpost.com/business/2021/02/16/ercot-texas-electric-grid-failure/) (Tier 2) (VERIFIED)
 - [Texas Tribune: Power companies get what they want - how Texas failed to protect grid](https://www.texastribune.org/2021/02/22/texas-power-grid-extreme-weather/) (Tier 2) (VERIFIED)
 - [Texas Observer: Kelcy Warren Energy Transfer donation post-grid failure](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2) (VERIFIED)
-- ~~[Al Jazeera: Operation Lone Star border enforcement overview](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Al Jazeera: Operation Lone Star border enforcement overview](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -178,9 +178,6 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 - [Defense PAC Contributions, 2024-2025 Cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-0) (Tier 1) (VERIFIED)
 - [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases) (Tier 1) (VERIFIED)
-- ~~[CSIS Analysis: F-35 Production and Cost](https://www.csis.org/analysis/f-35-fighter-jet-program-and-future-military-readiness)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Congressional Budget Office: Defense Budget Analysis](https://www.cbo.gov/publication/59251)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Lockheed Martin Political Spending Analysis](https://www.opensecrets.org/orgs/lockheed-martin/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -211,7 +208,6 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400057)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -251,3 +247,12 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CSIS Analysis: F-35 Production and Cost](https://www.csis.org/analysis/f-35-fighter-jet-program-and-future-military-readiness)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congressional Budget Office: Defense Budget Analysis](https://www.cbo.gov/publication/59251)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Lockheed Martin Political Spending Analysis](https://www.opensecrets.org/orgs/lockheed-martin/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400057)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

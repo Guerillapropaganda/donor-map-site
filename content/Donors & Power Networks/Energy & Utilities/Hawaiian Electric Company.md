@@ -142,11 +142,6 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/990230697) (Tier 1) (VERIFIED)
@@ -237,7 +232,6 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 - Bash v. Bissen (2025) — District Court, D. Hawaii
 - Hu Honua Bioenergy, LLC v. Hawaiian Electric Industries, Inc., et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Hawaiian%20Electric%20Company%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -269,3 +263,14 @@ CLIMATE ADAPTATION RESI |
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/11a8a87d-63d8-cfaa-a9b6-ef53f7406edb-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/990230697/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Hawaiian%20Electric%20Company%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

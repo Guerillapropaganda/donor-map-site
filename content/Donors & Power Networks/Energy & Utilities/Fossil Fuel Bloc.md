@@ -131,9 +131,7 @@ Full California analysis in [[Chevron]] and [[Fracking and Oil Permits - Green B
 
 - [Yale Climate Connections: $219M total fossil fuel election spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
 - [Global Witness: $19M fossil fuel inaugural donations](https://globalwitness.org/en/campaigns/fossil-fuels/fossil-fuel-donors-contributed-19-million-to-donald-trumps-inaugural-fund/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Harold Hamm and oil donor Trump PAC spending](https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Rolling Stone: Tim Dunn Texas oil billionaire Trump donor](https://www.rollingstone.com/politics/politics-features/tim-dunn-texas-oil-billionaire-trump-donor-1235033143/) (Tier 2) (VERIFIED)
-- ~~[TIME: Koch network vs. Trump 2024](https://time.com/7018266/trump-republicans-koch-network-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Trump repeals EPA endangerment finding](https://www.cnn.com/2026/02/12/climate/trump-repeals-epa-endangerment-finding) (Tier 2) (VERIFIED)
 - [NPR: Trump EPA endangerment finding repeal](https://www.npr.org/2026/02/11/nx-s1-5678273/trump-epa-climate-change-endangerment) (Tier 2) (VERIFIED)
 - [EPA: Largest deregulatory action press release](https://www.epa.gov/newsreleases/president-trump-and-administrator-zeldin-deliver-single-largest-deregulatory-action-us) (Tier 1) (VERIFIED)
@@ -217,3 +215,10 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Harold Hamm and oil donor Trump PAC spending](https://www.washingtonpost.com/politics/2024/08/13/oil-donors-trump-pac-harold-hamm-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[TIME: Koch network vs. Trump 2024](https://time.com/7018266/trump-republicans-koch-network-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

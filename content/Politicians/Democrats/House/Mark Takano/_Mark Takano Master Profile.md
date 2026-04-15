@@ -183,13 +183,11 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 ## Sources
 
 - {{src:src_006046}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Veterans' Affairs Democrats: Ranking Member Takano](https://democrats-veterans.house.gov/about/ranking-member) (Tier 1) (VERIFIED)
 - [House.gov: Takano biography](https://takano.house.gov/about) (Tier 1) (VERIFIED)
 - [House VA Democrats: Takano slams VA effort to take away veteran autonomy](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-slams-va-effort-to-take-away-veteran-autonomy) (Tier 1) (VERIFIED)
 - [House VA Democrats: Takano applauds judge restoring VA collective bargaining](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-applauds-judges-decision-to-restore-collective-bargaining-agreements-for-va-employees) (Tier 1) (VERIFIED)
 - [House VA Democrats: Takano denounces Washington Post series scapegoating veterans](https://democrats-veterans.house.gov/news/press-releases/ranking-member-takano-denounces-washington-post-series-scapegoating-veterans-collecting-long-overdue-benefits) (Tier 1) (VERIFIED)
-- ~~[Stars and Stripes: PACT Act signed into law](https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [NPR: Mark Takano and the four-day work week](https://www.npr.org/2022/06/07/1103591879/a-big-32-hour-workweek-test-is-underway-supporters-think-it-could-help-productiv) (Tier 2) (VERIFIED)
 - [Ballotpedia: Mark Takano](https://ballotpedia.org/Mark_Takano) (Tier 3) (VERIFIED)
 - [Wikipedia: Mark Takano](https://en.wikipedia.org/wiki/Mark_Takano) (Tier 3) (VERIFIED)
@@ -199,7 +197,6 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -291,3 +288,11 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 - [Source: Congress.gov](https://www.congress.gov/member/T000472) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/mark-takano/T000472)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Stars and Stripes: PACT Act signed into law](https://www.stripes.com/veterans/2022-08-10/biden-signs-pact-act-burn-pits-veterans-6921619.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Congress.gov: Mark Takano](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

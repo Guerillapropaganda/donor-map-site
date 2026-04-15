@@ -111,7 +111,6 @@ The Emoluments Clause remains unenforced because no federal court has adjudicate
 - [CNN Politics: House committee asks government to end Trump hotel lease before Trump can sell it for $370 million](https://www.cnn.com/2022/02/17/politics/trump-hotel-old-post-office/index.html) (Tier 2) (VERIFIED)
 - [Federal News Network: GSA approves sale of Trump Hotel lease, after years of scrutiny from watchdogs](https://federalnewsnetwork.com/leasing-property-management/2022/03/gsa-approves-sale-of-trump-hotel-lease-after-years-of-scrutiny-from-watchdogs/) (Tier 2) (VERIFIED)
 - [Gizmodo: T-Mobile Admits It Spent $195,000 at Trump Hotel in DC While Feds Weighed Sprint Merger](https://gizmodo.com/t-mobile-admits-it-spent-195-000-at-trump-internationa-1833084388) (Tier 2) (VERIFIED)
-- ~~[The Hill: T-Mobile says it increased Trump hotel spending after Sprint merger announcement](https://thehill.com/policy/technology/432607-t-mobile-acknowledges-it-increased-trump-hotel-spending-after-sprint-merger/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DNYUZ: Trump is selling sneakers, Bibles, and cologne as president](https://dnyuz.com/) (Tier 2) (VERIFIED)
 - [Lawyer Monthly: Trump Launches $TRUMP Meme Coin – A New Crypto Era](https://www.lawyer-monthly.com/2025/01/trump-generates-31-billion-through-the-launch-of-the-new-official-trump-cryptocurrency-meme-coin/) (Tier 3) (VERIFIED)
 - [Wikipedia: World Liberty Financial](https://en.wikipedia.org/wiki/World_Liberty_Financial) (Tier 3) (VERIFIED)
@@ -121,3 +120,9 @@ The Emoluments Clause remains unenforced because no federal court has adjudicate
 - [CREW: The Secret Service spent nearly $2 million at Trump properties](https://www.citizensforethics.org/reports-investigations/crew-investigations/the-secret-service-spent-nearly-2-million-at-trump-properties/) (Tier 2) (VERIFIED)
 - [Miami New Times: Trump's Mar-a-Lago Club Membership Cost to Jump to $1 Million Ahead of Election](https://www.miaminewtimes.com/news/florida-mar-a-lago-club-membership-cost-to-jump-to-1m-20839209/) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: T-Mobile says it increased Trump hotel spending after Sprint merger announcement](https://thehill.com/policy/technology/432607-t-mobile-acknowledges-it-increased-trump-hotel-spending-after-sprint-merger/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

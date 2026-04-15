@@ -219,8 +219,6 @@ The infrastructure was not a monolith. It thrived on tension between revolutiona
 - {{src:src_005834}} (Tier 1) (VERIFIED)
 - {{src:src_005835}} (Tier 1) (VERIFIED)
 - [FEC: Matter Under Review 7592 (Justice Democrats compliance)](https://www.fec.gov/legal-resources/enforcement/) (Tier 1) (VERIFIED)
-- ~~[ProPublica Nonprofit Explorer: Justice Democrats 527 (EIN 814909100)](https://projects.propublica.org/nonprofits/organizations/814909100)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[HuffPost: Cenk Uygur Steps Down from Justice Democrats (Dec 2017)](https://www.huffpost.com/entry/cenk-uygur-justice-democrats_n_5a3e4d40e4b0df0de8b064b3)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Archived
 - ~~[OpenSecrets: Justice Democrats PAC Profile, 2018-2024](https://www.opensecrets.org/political-action-committees-pacs/justice-democrats/C00630665/summary/2024)~~ (was Tier 1, OpenSecrets demoted, FEC committee page above covers same data)
@@ -229,3 +227,5 @@ The infrastructure was not a monolith. It thrived on tension between revolutiona
 - Wikipedia, "Brand New Congress," contributors, revision history (Tier 3) | https://en.wikipedia.org/wiki/Brand_New_Congress
 - Ballotpedia, "Justice Democrats," 2024 (Tier 3) | https://ballotpedia.org/Justice_Democrats
 - Jacobin, "Justice Democrats' Super PAC: How a Squad-Aligned Organization is Blurring Lines," June 2020 (Tier 4)
+- ~~[ProPublica Nonprofit Explorer: Justice Democrats 527 (EIN 814909100)](https://projects.propublica.org/nonprofits/organizations/814909100)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[HuffPost: Cenk Uygur Steps Down from Justice Democrats (Dec 2017)](https://www.huffpost.com/entry/cenk-uygur-justice-democrats_n_5a3e4d40e4b0df0de8b064b3)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

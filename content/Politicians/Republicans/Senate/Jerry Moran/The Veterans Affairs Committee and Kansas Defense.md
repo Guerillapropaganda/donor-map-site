@@ -38,8 +38,13 @@ Kansas is Koch Industries' home state. Charles Koch's political operation — th
 
 ### Sources
 
-- ~~[Congress.gov: Jerry Moran member profile](https://www.congress.gov/member/jerry-moran/M000934)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003589}} (Tier 1) (NEEDS REVIEW)
 - [VA.gov: Veterans Affairs budget submission](https://department.va.gov/administrations-and-offices/management/budget/?redirect=1) (Tier 1) (VERIFIED)
 - [Ballotpedia: Jerry Moran](https://ballotpedia.org/Jerry_Moran) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Jerry Moran member profile](https://www.congress.gov/member/jerry-moran/M000934)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

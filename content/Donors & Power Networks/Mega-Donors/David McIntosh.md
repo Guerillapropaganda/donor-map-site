@@ -83,9 +83,7 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 
 ### Sources
 
-- ~~[OpenSecrets: Club for Growth spending 2024](https://www.opensecrets.org/pacs/pacgave.php?cmte_id=C00432260&cycle=2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_010628}} (Tier 1) (VERIFIED)
-- ~~[Politico: How Club for Growth shapes Republican primaries](https://www.politico.com/news/2024/01/15/club-for-growth-republican-primary-influence)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -168,5 +166,12 @@ David McIntosh is a structural representative of the mega-donor class using ideo
 - President and Fellows of Harvard College v. US Department of Health and Human Services (2025) — District Court, D. Massachusetts
 - Gjovik v. Apple Inc. (2025) — Court of Appeals for the Ninth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20McIntosh%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Club for Growth spending 2024](https://www.opensecrets.org/pacs/pacgave.php?cmte_id=C00432260&cycle=2024)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Politico: How Club for Growth shapes Republican primaries](https://www.politico.com/news/2024/01/15/club-for-growth-republican-primary-influence)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22David%20McIntosh%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

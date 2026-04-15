@@ -186,7 +186,6 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 ### Tier 1 (Primary/Government):
 - {{src:src_002687}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Tier 2 (Major Journalism):
 - [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
@@ -200,7 +199,6 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 ### Tier 4 (Analysis/Media):
 - [The New Republic: J.D. Vance, the False Prophet of Blue America](https://newrepublic.com/article/138717/jd-vance-false-prophet-blue-america) (Tier 4) (VERIFIED)
-- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
 
 ---
 
@@ -239,3 +237,10 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 - [GovTrack: JD Vance](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: J. D. Vance voting record and bills introduced](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 4 - URL broken, archived by Ops) (Tier 4)

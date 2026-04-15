@@ -141,10 +141,6 @@ The 2025 mayoral race made the class dynamics explicit. Cuomo received endorseme
 - [Britannica: Andrew Cuomo](https://www.britannica.com/biography/Andrew-Cuomo) (Tier 3) (VERIFIED)
 - [Ballotpedia: Andrew Cuomo](https://ballotpedia.org/Andrew_Cuomo) (Tier 3) (VERIFIED)
 - [Wikipedia: Andrew Cuomo](https://en.wikipedia.org/wiki/Andrew_Cuomo) (Tier 4) (VERIFIED)
-- ~~[NYT: Cuomo tax return, millionaire income](https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[NYT: Cuomo campaign finance](https://www.nytimes.com/2025/06/24/nyregion/andrew-cuomo-campaign-finance.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[NYT: Cuomo DOJ investigation](https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: Cuomo political career reaches operatic conclusion](https://www.politico.com/news/2025/11/05/andrew-cuomos-political-career-reaches-an-operatic-conclusion-00637590)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [USA Today: NYC mayor election results](https://www.usatoday.com/story/news/politics/elections/2025/11/04/nyc-mayor-election-mamdani-vs-cuomo-results/86572353007/) (Tier 2) (VERIFIED)
 - [CNBC: Mamdani/Cuomo mayoral race, billionaire spending](https://www.cnbc.com/2025/10/30/mamdani-cuomo-nyc-mayor-bid-billionaire-spending.html) (Tier 2) (VERIFIED)
 - [Fox News: Cuomo endorsements and polls](https://www.foxnews.com/politics/cuomo-picks-up-endorsements-rises-polls-comeback-campaign-nears-finish-line) (Tier 3) (VERIFIED)
@@ -169,3 +165,12 @@ The 2025 mayoral race made the class dynamics explicit. Cuomo received endorseme
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Andrew%20Cuomo) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NYT: Cuomo tax return, millionaire income](https://www.nytimes.com/2025/10/29/nyregion/cuomo-tax-return-millionaire.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo campaign finance](https://www.nytimes.com/2025/06/24/nyregion/andrew-cuomo-campaign-finance.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Cuomo DOJ investigation](https://www.nytimes.com/2025/05/20/us/politics/andrew-cuomo-investigation-doj.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Cuomo political career reaches operatic conclusion](https://www.politico.com/news/2025/11/05/andrew-cuomos-political-career-reaches-an-operatic-conclusion-00637590)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -159,7 +159,6 @@ This record shows McMorrow as a capable state legislator on social/cultural issu
 - McMorrow has secured the "Warren wing" of progressivism; El-Sayed has the "Sanders wing"
 
 Sources on Warren endorsement:
-- ~~[Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [U.S. Senator Elizabeth Warren Endorses Mallory McMorrow in Michigan's U.S. Senate Race](https://www.mcmorrowformichigan.com/news/us-senator-elizabeth-warren-endorses-mallory-mcmorrow-in-michigans-us-senate-race) (Tier 1) (VERIFIED)
 
 ---
@@ -259,7 +258,6 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 ## Sources
 
 - {{src:src_005277}} (Tier 1) (VERIFIED)
-- ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Viral speech: Michigan Sen. Mallory McMorrow fires back at colleague's 'grooming' accusation](https://www.clickondetroit.com/news/local/2022/04/20/viral-speech-michigan-sen-mallory-mcmorrow-fires-back-at-colleagues-grooming-accusation/) (Tier 2) (VERIFIED)
 - [Democrat McMorrow's rousing anti-hate speech leads to $250,000 in donations in one day](https://www.metrotimes.com/news/democrat-mcmorrows-rousing-anti-hate-speech-leads-to-250000-in-donations-in-one-day-29865253/) (Tier 2) (VERIFIED)
 - [Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/) (Tier 2)
@@ -324,3 +322,10 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[MCMORROW, MALLORY - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44066166&default=candidate)~~ (was FollowTheMoney - site merged into OpenSecrets, all URLs dead) (Tier 1)

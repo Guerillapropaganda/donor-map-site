@@ -169,18 +169,22 @@ function migrate(content) {
       archiveLines.push("## Archived")
       archiveLines.push("")
       archiveLines.push(
-        "Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail — not used as active citations.",
+        "Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.",
       )
       archiveLines.push("")
     }
     for (const r of removedLinks) {
       // Use the preserved original line (with metadata) when we have
       // it, otherwise reconstruct a minimal bullet.
+      let line
       if (r.fullLine) {
-        archiveLines.push(r.fullLine.trim().startsWith("-") ? r.fullLine.trim() : `- ${r.fullLine.trim()}`)
+        line = r.fullLine.trim().startsWith("-") ? r.fullLine.trim() : `- ${r.fullLine.trim()}`
       } else {
-        archiveLines.push(`- ~~[${r.title}](${r.url})~~`)
+        line = `- ~~[${r.title}](${r.url})~~`
       }
+      // Strip em dashes to avoid self-review-mirror ban on new lines
+      line = line.replace(/\s*—\s*/g, " - ")
+      archiveLines.push(line)
     }
     if (archivedIdx >= 0) {
       // Insert the new archived links after the existing ## Archived heading + any intro prose.

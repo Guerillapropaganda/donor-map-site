@@ -58,8 +58,6 @@ The meatpacking industry's political operation focuses on five structural priori
 
 The companies themselves are multinational — JBS is Brazilian-owned, Smithfield is Chinese-owned (WH Group), Cargill is privately held by the Cargill-MacMillan family (one of the wealthiest families in America). The foreign ownership dimension adds a layer: two of the four dominant beef processors answer to foreign parent companies while processing American cattle and employing American workers under American labor law that their lobbying operations work to weaken.
 
-- ~~[OpenSecrets: Tyson Foods summary](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000460)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: JBS SA summary](https://www.opensecrets.org/orgs/jbs-sa/summary?id=D000042489)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [USDA ERS: Concentration in U.S. Meatpacking Industry](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices) (Tier 1) (VERIFIED)
 
 ---
@@ -111,9 +109,7 @@ The meat processing and products industry spent $886,000 on election-related act
 > [!money]
 > The meatpacking industry's political spending is modest in absolute terms — under $1M per cycle in direct PAC contributions, $2-5M in lobbying — but the return is extraordinary. A $15,615 OSHA fine for a plant where seven workers died of COVID represents a regulatory capture so complete that the penalty amounts to a rounding error on a single day's production. The $2.2M Tyson spent on lobbying in 2025 purchased the withdrawal of USDA rules that would have restructured the industry's market power. The ROI is incalculable because the "investment" is not buying favorable policy — it's buying the absence of enforcement against an 85% market concentration that economic theory says should not exist.
 
-- ~~[OpenSecrets: Tyson Foods PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/tyson-foods/C00169821/candidate-recipients/2024)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_010355}} (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Tyson Foods lobbying profile](https://www.opensecrets.org/orgs/tyson-foods/lobbying?id=D000000460)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Meat processing & products PAC contributions 2024](https://www.opensecrets.org/political-action-committees-pacs/industry-detail/G2300/2024) (Tier 1) (VERIFIED)
 
 ---
@@ -198,5 +194,14 @@ The COVID-19 crisis proved the model. The industry drafted its own executive ord
 - United States v. Cargill Meat Solutions Corporation (2022) — District Court, D. Maryland
 - RANCHERS CATTLEMEN ACTION LEGAL FUND UNITED STOCKGROWERS OF AMERICA v. UNITED STATES DEPARTMENT OF AGRICULTURE (2020) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Meatpacking%20Corporations%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Tyson Foods summary](https://www.opensecrets.org/orgs/tyson-foods/summary?id=D000000460)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: JBS SA summary](https://www.opensecrets.org/orgs/jbs-sa/summary?id=D000042489)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Tyson Foods PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/tyson-foods/C00169821/candidate-recipients/2024)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Tyson Foods lobbying profile](https://www.opensecrets.org/orgs/tyson-foods/lobbying?id=D000000460)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Meatpacking%20Corporations%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

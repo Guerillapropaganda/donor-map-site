@@ -197,7 +197,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 - [CNN: Rand Paul drags out $95 billion foreign aid package](https://www.cnn.com/2024/02/09/politics/rand-paul-senate-foreign-aid-package/index.html) (Tier 2) (VERIFIED)
 - [LPM: Medicaid cuts could devastate Appalachian Kentucky](https://www.lpm.org/news/2025-06-16/proposed-medicaid-cuts-could-devastate-appalachian-kentucky-health-care-providers-say/) (Tier 2) (VERIFIED)
 - [KFF Health News: Rand Paul opposed federal handouts while taking Medicare patients](https://kffhealthnews.org/morning-breakout/reform-politics-and-personalities/) (Tier 2) (VERIFIED)
-- ~~[CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (GovTrack)
@@ -298,5 +297,11 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/P000603)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CNN Money: Rand Paul first presidential candidate to accept Bitcoin](https://money.cnn.com/2015/04/07/technology/rand-paul-bitcoin/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000603)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

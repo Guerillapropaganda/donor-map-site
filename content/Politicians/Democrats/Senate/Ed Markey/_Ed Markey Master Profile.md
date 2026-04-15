@@ -177,7 +177,6 @@ The structural question is whether Markey's evolution is replicable or anomalous
 ## Sources
 
 - {{src:src_005450}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: About Ed Markey](https://www.markey.senate.gov/about) (Tier 1) (VERIFIED)
 - [Senate.gov: Markey committee assignments](https://www.markey.senate.gov/about/committee-assignments) (Tier 1) (VERIFIED)
 - [Senate.gov: Markey to lead as top Democrat on Small Business Committee](https://www.markey.senate.gov/news/press-releases/senator-markey-to-lead-as-top-democrat-on-small-business-and-entrepreneurship-committee) (Tier 1) (VERIFIED)
@@ -252,3 +251,9 @@ The structural question is whether Markey's evolution is replicable or anomalous
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400253) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Edward J. Markey](https://www.congress.gov/member/edward-markey/M000133)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

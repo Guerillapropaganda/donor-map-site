@@ -394,11 +394,7 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 - [New Yorker: Biden's picket line visit](https://www.newyorker.com/news/our-columnists/joe-bidens-visit-to-a-uaw-picket-line-was-a-powerful-political-gesture) (Tier 2) (VERIFIED)
 - [CNN: Biden picket line visit](https://www.cnn.com/2023/09/26/politics/biden-picket-line-michigan-uaw) (Tier 2) (VERIFIED)
 - [PBS NewsHour: Biden picket line](https://www.pbs.org/newshour/politics/biden-to-show-solidarity-with-striking-uaw-workers-in-historic-move) (Tier 2) (VERIFIED)
-- ~~[Politico: UAW Strike politics and Biden endorsement](https://www.politico.com/news/2023/11/06/joe-biden-uaw-strike-politics-00125505)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Politico: Biden gets UAW endorsement](https://www.politico.com/news/2024/01/24/biden-gets-uaw-endorsement-after-noticeable-delay-00137610) (Tier 2) (VERIFIED) (UNVERIFIED)
-- ~~[Reuters: Biden-Fain endorsement timeline](https://www.reuters.com/world/us/biden-uaws-fain-rocky-road-2024-endorsement-2024-01-24/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Reuters: Harris campaign launch](https://www.reuters.com/world/us/uaw-union-launches-pro-harris-campaign-mobilize-workers-across-us-2024-08-14/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[NYT: UAW endorses Harris](https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [PBS: UAW endorses Harris](https://www.pbs.org/newshour/politics/uaw-endorses-harris-adding-blue-collar-backing-in-industrial-states-to-her-campaign) (Tier 2) (VERIFIED)
 - [LA Times: Harris Detroit rally](https://www.latimes.com/opinion/story/2024-08-08/union-working-class-voters-kamala-harris-tim-walz-detroit-uaw-rally) (Tier 2) (VERIFIED)
 - [USA Today: UAW monitor changes December 2025](https://www.usatoday.com/story/cars/news/2025/12/22/uaw-union-culture-changes-federal-monitors-report/87884218007/) (Tier 2) (VERIFIED)
@@ -471,7 +467,6 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 | Net Assets | $180K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 340200249](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2017_03_EO%2F34-0200249_990EO_201612.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -485,11 +480,6 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 **Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2016)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2015)~~ (URL broken, archived by Ops)
-- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2014)~~ (URL broken, archived by Ops)
-- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2013)~~ (URL broken, archived by Ops)
-- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/340200249) (Tier 1) (VERIFIED)
@@ -519,3 +509,18 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UAW%20-%20United%20Auto%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: UAW Strike politics and Biden endorsement](https://www.politico.com/news/2023/11/06/joe-biden-uaw-strike-politics-00125505)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Reuters: Biden-Fain endorsement timeline](https://www.reuters.com/world/us/biden-uaws-fain-rocky-road-2024-endorsement-2024-01-24/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Reuters: Harris campaign launch](https://www.reuters.com/world/us/uaw-union-launches-pro-harris-campaign-mobilize-workers-across-us-2024-08-14/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[NYT: UAW endorses Harris](https://www.nytimes.com/2024/07/31/us/politics/uaw-kamala-harris.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2017_03_EO%2F34-0200249_990EO_201612.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/340200249/2012)~~ (URL broken, archived by Ops)

@@ -101,7 +101,6 @@ Pro-crypto super PACs have amassed $221 million in cash on hand for the 2026 mid
 - [Citation Needed: Crypto super PACs have hundreds of millions ready to spend on the midterms](https://www.citationneeded.news/crypto-super-pacs-2026-midterms/) (Tier 3) (VERIFIED)
 - [NBC News: AI, crypto and Trump super PACs stash millions to spend on midterms](https://www.nbcnews.com/politics/2026-election/ai-crypto-trump-super-pacs-stash-millions-spend-midterms-rcna256622) (Tier 2) (VERIFIED)
 - [Cryptopolitan: Crypto exchanges pour $21M into Trump-backed PAC ahead of 2026 midterms](https://www.cryptopolitan.com/crypto-exchanges-pour-21m-into-pac/) (Tier 4) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -143,7 +142,6 @@ Trump has now secured Most-Favored-Nation (MFN) drug pricing agreements with 16 
 **Vault connections:** Updates [[Eli Lilly]], [[Pfizer]], and the broader Pharma & Healthcare sector. The 3-year deal terms mean pharma is accepting short-term price reductions while likely lobbying for the tariff framework to expire or be weakened after 2028. Track whether pharma PAC spending shifts toward 2028 presidential candidates who might reverse MFN.
 
 - [STAT News: Most-favored nation drug prices divide Trump, Congress in health care talks](https://www.statnews.com/2026/03/17/mfn-drug-pricing-divide-trump-congress-talks/) (Tier 2) (VERIFIED)
-- ~~[Pharmacy Times: Trump announces pricing deals with 9 drugmakers](https://www.pharmacytimes.com/view/trump-announces-pricing-deals-with-9-drugmakers-expanding-most-favored-nation-drug-pricing-strategy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -175,3 +173,10 @@ These items surfaced during scanning but need deeper research before they can be
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose recent contributions](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Pharmacy Times: Trump announces pricing deals with 9 drugmakers](https://www.pharmacytimes.com/view/trump-announces-pricing-deals-with-9-drugmakers-expanding-most-favored-nation-drug-pricing-strategy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

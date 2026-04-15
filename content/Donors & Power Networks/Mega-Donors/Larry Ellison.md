@@ -169,7 +169,6 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 - [Yahoo Finance: Larry Ellison Palm Beach estate $173M near Mar-a-Lago](https://finance.yahoo.com/news/larry-ellison-makes-173-million-201947008.html) (Tier 2) (VERIFIED)
 - [NPR: TikTok Oracle-led ownership deal structure](https://www.npr.org/2025/01/25/g-s1-44779/tiktok-ban-deal-trump-oracle) (Tier 2) (VERIFIED)
 - [OpenSecrets News: Oracle invested millions in government influence before TikTok deal](https://www.opensecrets.org/news/2025/09/oracle-invested-millions-in-government-influence-before-winning-a-major-stake-in-tiktok/) (Tier 2) (VERIFIED)
-- ~~[Yahoo Finance: Larry Ellison net worth 2025 peak $393B](https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Gizmodo: Larry Ellison's Oracle started as CIA project](https://gizmodo.com/larry-ellisons-oracle-started-as-a-cia-project-1636592238) (Tier 2) (VERIFIED)
 - [Fortune: Larry Ellison $450M Florida real estate investment](https://fortune.com/article/larry-ellison-florida-real-estate-450-million-mar-a-lago/) (Tier 2) (VERIFIED)
 
@@ -243,3 +242,9 @@ The TikTok deal demonstrates this mechanism in real time. Oracle did not invent 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Larry%20Ellison%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Yahoo Finance: Larry Ellison net worth 2025 peak $393B](https://finance.yahoo.com/news/larry-ellison-net-worth-update-from-topping-musk-in-2025-to-losing-19-of-his-wealth-in-2026-203114110.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

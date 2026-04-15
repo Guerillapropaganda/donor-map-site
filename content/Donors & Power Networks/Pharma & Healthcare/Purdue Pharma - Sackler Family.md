@@ -49,7 +49,6 @@ The Sackler family fortune was built on pharmaceutical marketing innovation. Art
 
 Purdue's political operation was smaller than its industry peers in direct contributions but strategically targeted: the company focused lobbying on the FDA (which approved OxyContin with a misleading label), state medical boards (which set prescribing guidelines), pain management professional organizations (which Purdue funded to promote opioid prescribing), and attorneys general (who held enforcement power over pharmaceutical marketing). OpenSecrets data shows Purdue spent $860K on lobbying in 2020, peaked at $1.12M in 2018, and continued spending $400K annually through 2024, even in bankruptcy. The revolving door rate is extraordinary: 87.5% of Purdue's lobbyists in 2023 (7 of 8) previously held government jobs.
 
-- ~~[OpenSecrets: Purdue Pharma organizational profile](https://www.opensecrets.org/orgs/purdue-pharma/summary?id=D000022208)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate LDA Filings: Purdue Pharma lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 
 ---
@@ -191,3 +190,9 @@ Drug pricing and FDA regulation, opioid prescribing guidelines, prescription dru
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Purdue%20Pharma%20-%20Sackler%20Family) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Purdue Pharma organizational profile](https://www.opensecrets.org/orgs/purdue-pharma/summary?id=D000022208)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

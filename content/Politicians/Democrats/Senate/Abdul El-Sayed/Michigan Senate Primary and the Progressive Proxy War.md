@@ -145,7 +145,12 @@ If El-Sayed wins the Democratic primary despite McMorrow's 3:1 fundraising advan
 - [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2) (VERIFIED)
 - [U.S. Senator Elizabeth Warren Endorses Mallory McMorrow in Michigan's U.S. Senate Race](https://www.mcmorrowformichigan.com/news/us-senator-elizabeth-warren-endorses-mallory-mcmorrow-in-michigans-us-senate-race) (Tier 1) (VERIFIED)
 - [Mallory McMorrow tops fundraising in U.S. Senate race](https://www.crainsdetroit.com/politics-policy/mallory-mcmorrow-tops-fundraising-us-senate-race/) (Tier 2) (VERIFIED)
-- ~~[Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Bernie Sanders-Backed Abdul El-Sayed Rakes in Over $24K Per Day While Swearing Off PAC Money](https://www.newsweek.com/michigan-senate-race-election-abdul-el-sayed-fundraising-2096219) (Tier 2) (VERIFIED)
 - [United States Senate election in Michigan, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Michigan,_2026) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Elizabeth Warren backs Mallory McMorrow in Michigan Senate primary](https://thehill.com/homenews/campaign/5789748-elizabeth-warren-mallory-mcmorrow-michigan-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

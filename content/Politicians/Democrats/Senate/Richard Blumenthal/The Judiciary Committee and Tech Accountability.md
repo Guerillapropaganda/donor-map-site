@@ -40,8 +40,13 @@ KOSA is a Genuine Win + Structural Limit case: the bill addresses real harm to c
 
 ### Sources
 
-- ~~[Congress.gov: Richard Blumenthal member profile](https://www.congress.gov/member/richard-blumenthal/B001277)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005198}} (Tier 1) (VERIFIED)
-- ~~[Senate.gov: Kids Online Safety Act text](https://www.congress.gov/bill/118th-congress/senate-bill/1409)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Richard Blumenthal](https://ballotpedia.org/Richard_Blumenthal) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Richard Blumenthal member profile](https://www.congress.gov/member/richard-blumenthal/B001277)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Senate.gov: Kids Online Safety Act text](https://www.congress.gov/bill/118th-congress/senate-bill/1409)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

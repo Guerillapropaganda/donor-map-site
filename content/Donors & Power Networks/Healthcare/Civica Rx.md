@@ -126,7 +126,6 @@ Pharmaceutical corporations, not opponents in any material sense. Civica operate
 ### Sources
 
 - [Civica Rx: California Selects Civica Rx as Its Insulin Manufacturing Partner (2023)](https://civicarx.org/california-selects-civica-rx-as-its-insulin-manufacturing-partner/) (Tier 1) (VERIFIED)
-- ~~[California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CalMatters: Affordable insulin is coming: California to launch $11 state-branded pens as part of CalRx initiative (2025)](https://calmatters.org/health/2025/10/insulin-california-announcement/) (Tier 2) (VERIFIED)
 - [Intermountain Healthcare: Not-for-profit Generic Drug Company Officially Established (2018)](https://news.intermountainhealth.org/not-for-profit-generic-drug-company-officially-established-attracts-interest-of-more-than-120-health-organizations/) (Tier 1) (VERIFIED)
 - [West Health: Nonprofit Generic Drug Company Co-Founded by Gary and Mary West Foundation Will Manufacture Low-Cost Insulin](https://westhealth.org/news/nonprofit-generic-drug-company-co-founded-by-gary-and-mary-west-foundation-will-manufacture-and-distribute-low-cost-insulin/) (Tier 1) (VERIFIED)
@@ -192,7 +191,6 @@ Pharmaceutical corporations, not opponents in any material sense. Civica operate
 - In Re: National Prescription Opiate Litigation (2022) — District Court, N.D. Ohio
 - Federal Trade Commission v. Vyera Pharmaceuticals, LLC (2022) — Court of Appeals for the Second Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Civica%20Rx%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -212,3 +210,10 @@ Pharmaceutical corporations, not opponents in any material sense. Civica operate
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Civica%20Rx%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[California Health & Human Services: Governor Newsom announces affordable CalRx insulin, $11 a pen (2025)](https://www.chhs.ca.gov/blog/2025/10/17/governor-newsom-announces-affordable-calrx-insulin-11-a-pen-will-soon-be-available-for-purchase/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Civica%20Rx%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

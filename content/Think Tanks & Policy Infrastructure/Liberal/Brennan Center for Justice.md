@@ -196,7 +196,6 @@ The revolving door. Clinton White House to Brennan Center to federal judiciary t
 - [InfluenceWatch: William J. Brennan Center for Justice](https://www.influencewatch.org/non-profit/william-j-brennan-center-for-justice/) (Tier 4) (VERIFIED)
 - [Wikipedia: Vanita Gupta](https://en.wikipedia.org/wiki/Vanita_Gupta) (Tier 3) (VERIFIED)
 - [Media Bias/Fact Check: Brennan Center for Justice](https://mediabiasfactcheck.com/brennan-center-for-justice/) (Tier 3) (VERIFIED)
-- ~~[Open Society Foundations: Awarded Grants. Brennan Center](https://www.opensocietyfoundations.org/grants/past?filter_keyword=brennan+center)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Brennan Center: Court Strikes Down Key Part of Trump's Unlawful Voting Executive Order, Permanently Blocking Show-Your-Papers Requirement (Oct 2025)](https://www.brennancenter.org/our-work/analysis-opinion/court-strikes-down-key-part-trumps-unlawful-voting-executive-order) (Tier 3) (VERIFIED)
 - [Brennan Center: Status of Trump's Anti-Voting Executive Order, real-time litigation tracker](https://www.brennancenter.org/our-work/research-reports/status-trumps-anti-voting-executive-order) (Tier 3) (VERIFIED)
 - [Brennan Center: The Trump Administration's Campaign to Undermine the Next Election (2026)](https://www.brennancenter.org/our-work/research-reports/trump-administrations-campaign-undermine-next-election) (Tier 3) (VERIFIED)
@@ -216,11 +215,6 @@ The revolving door. Clinton White House to Brennan Center to federal judiciary t
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133839293) (Tier 1) (VERIFIED)
@@ -247,3 +241,14 @@ The revolving door. Clinton White House to Brennan Center to federal judiciary t
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brennan%20Center%20for%20Justice%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Open Society Foundations: Awarded Grants. Brennan Center](https://www.opensocietyfoundations.org/grants/past?filter_keyword=brennan+center)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2019)~~ (URL broken, archived by Ops)

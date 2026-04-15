@@ -282,7 +282,6 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 - [Global Witness: Trump-linked firms make millions from aid-deprived nations. BGR named in minerals-for-lobbying investigation, July 2025](https://globalwitness.org/en/campaigns/transition-minerals/revealed-trump-linked-firms-cash-in-on-mineral-lobbying-deals-as-us-cuts-aid/) (Tier 2) (VERIFIED)
 - [The Daily Pennsylvanian: Penn retains BGR Group with former Trump advisor amid federal funding dispute. Urban/Murphy/Brin/Wood team, May 2025](https://www.thedp.com/article/2025/06/penn-lobbying-efforts-bgr-group) (Tier 2) (VERIFIED)
 - [Columbia Spectator: Columbia tripled its federal lobbying spending to over $1 million in 2025. BGR among retained firms post-$400M funding cancellation](https://www.columbiaspectator.com/news/2026/01/25/columbia-tripled-its-federal-lobbying-spending-to-over-1-million-in-2025/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Top universities ramp up lobbying amid Trump higher education crackdown, broader university lobbying spike context, BGR among firms benefiting](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [BGR Group: BGR Group Welcomes Lt. Gen. Keith Kellogg to Advisory Board, former Trump Ukraine-Russia envoy, January 2026](https://bgrdc.com/bgr-group-welcomes-lt-gen-keith-kellogg-u-s-army-ret-to-advisory-board/) (Tier 3) (VERIFIED)
 - [Fox Business: Keith Kellogg joins BGR Group's advisory board, ex-Trump special envoy Ukraine lands private sector role](https://www.foxbusiness.com/politics/ex-trump-special-envoy-ukraine-lands-new-job-private-sector) (Tier 3) (VERIFIED)
 - [BGR Group: Charlie Chapman Joins BGR Health and Life Sciences Practice as VP, former Trump HHS Policy Advisor, CMS counsel, March 30 2026](https://bgrdc.com/charlie-chapman-joins-bgr-health-and-life-sciences-practice-as-vp/) (Tier 3) (VERIFIED)
@@ -303,8 +302,14 @@ BGR's 58% revenue surge in Trump's first year of his second term is the monetary
 - FRIDMAN v. BEAN LLC (2017) — District Court, District of Columbia
 - Mayfield v. Butler Snow, LLP (2017) — District Court, S.D. Mississippi
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BGR%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Top universities ramp up lobbying amid Trump higher education crackdown, broader university lobbying spike context, BGR among firms benefiting](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BGR%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -160,10 +160,15 @@ The "Change My Mind" format is the perfect metaphor for Crowder's structural rol
 - [CNN Business: YouTube demonetizes Crowder after homophobic harassment](https://www.cnn.com/2019/06/05/tech/youtube-crowder-demonetize) (Tier 2) (VERIFIED)
 - [Variety: Steven Crowder Harassment of Vox's Carlos Maza Prompts YouTube Review](https://variety.com/2019/digital/news/youtube-harassment-policies-attacks-gay-latino-carlos-maza-steven-crowder-1203234645/) (Tier 2) (VERIFIED)
 - [Mediaite: Steven Crowder Signs With Rumble Following Daily Wire Spat](https://www.mediaite.com/media/podcasts/steven-crowder-signs-with-rumble-following-messy-public-spat-with-the-daily-wire/) (Tier 3) (VERIFIED)
-- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Las Vegas Review-Journal: Cary Katz sues conservative media outlet over $20M loan](https://www.reviewjournal.com/local/local-las-vegas/las-vegas-billionaire-sues-conservative-media-outlet-over-20m-loan/) (Tier 2) (VERIFIED)
 - [PRNewswire: Narya and Peter Thiel Lead Investment in Rumble](https://www.prnewswire.com/news-releases/narya-and-peter-thiel-lead-investment-in-rumble-301295309.html) (Tier 3) (VERIFIED)
 - [Wikipedia: The Daily Wire](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 3) (VERIFIED)
 - [Wikipedia: Steven Crowder](https://en.wikipedia.org/wiki/Steven_Crowder) (Tier 3) (VERIFIED)
 - [Media Bias/Fact Check: Louder With Crowder](https://mediabiasfactcheck.com/louder-with-crowder/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

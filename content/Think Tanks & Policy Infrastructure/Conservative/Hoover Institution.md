@@ -264,8 +264,6 @@ The Hoover Institution is the most structurally sophisticated conservative think
 - [Media Bias/Fact Check: Hoover Institution](https://mediabiasfactcheck.com/hoover-institution/) (Tier 3) (VERIFIED)
 - [DeSmog: Hoover Institution on War, Revolution and Peace](https://www.desmog.com/hoover-institution/) (Tier 2) (VERIFIED)
 - [Philanthropy Roundtable: Hoover Institution](https://www.philanthropyroundtable.org/almanac/hoover-institution/) (Tier 3) (VERIFIED)
-- ~~[Stanford Report: Stanford's relationship to the Hoover Institution highlights Faculty Senate discussion](https://news.stanford.edu/stories/2021/01/stanfords-relationship-hoover-institution-highlights-faculty-senate-discussion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Stanford Report: Faculty Senate condemns COVID-19 actions of Hoover's Scott Atlas](https://news.stanford.edu/stories/2020/11/faculty-senate-condemns-actions-hoover-fellow-scott-atlas)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Stanford Daily: Academic freedom or misinformation? Stanford faculty remains divided over the Hoover Institution](https://stanforddaily.com/2021/02/08/academic-freedom-or-misinformation-after-controversies-settle-stanford-faculty-remains-divided-over-the-hoover-institution/) (Tier 2) (VERIFIED)
 - [Inside Philanthropy: How the Hoover Institution Vacuums Up Big Conservative Bucks](https://www.insidephilanthropy.com/home/economic-policy-research-2015-4-21-how-the-hoover-institution-vacuums-up-big-conservative-bucks-html) (Tier 2) (VERIFIED)
 - [Hoover Institution: $10 million grant from Annenberg Foundation](https://www.hoover.org/press-releases/10-million-grant-annenberg-foundation-will-establish-annenberg-strategic-initiative) (Tier 3) (VERIFIED)
@@ -287,3 +285,10 @@ The Hoover Institution is the most structurally sophisticated conservative think
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Hoover%20Institution%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Stanford Report: Stanford's relationship to the Hoover Institution highlights Faculty Senate discussion](https://news.stanford.edu/stories/2021/01/stanfords-relationship-hoover-institution-highlights-faculty-senate-discussion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Stanford Report: Faculty Senate condemns COVID-19 actions of Hoover's Scott Atlas](https://news.stanford.edu/stories/2020/11/faculty-senate-condemns-actions-hoover-fellow-scott-atlas)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

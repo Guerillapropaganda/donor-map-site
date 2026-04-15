@@ -217,13 +217,9 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 ## Sources
 
 ### Verified
-- ~~[Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006345}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: H.Res.702 — Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: H.R.3412 — Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Pressley House.gov: Student debt cancellation floor speech](https://pressley.house.gov/2022/09/21/video-pressley-heralds-student-debt-cancellation-in-powerful-floor-speech/) (Tier 1) (VERIFIED)
 - [Pressley House.gov: Pressley, Booker, Warren reintroduce garnishment suspension bill](https://pressley.house.gov/2025/05/14/pressley-booker-warren-reintroduce-bill-to-suspend-garnishments-for-student-loan-borrowers/) (Tier 1) (VERIFIED)
-- ~~[The Hill: Pressley criminal justice reform resolution](https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [The Intercept: Small Policy Differences Versus Identity in Massachusetts Primary](https://theintercept.com/2018/08/18/mike-capuano-ayanna-pressley-massachusetts-primary/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3) (VERIFIED)
 
@@ -578,3 +574,7 @@ Ayanna Soyini Pressley is an American politician who has served as the U.S. repr
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Ayanna_Pressley) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q13562359) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+- ~~[Congress.gov: Ayanna Pressley member profile](https://www.congress.gov/member/ayanna-pressley/P000617)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.Res.702 - Criminal justice reform resolution (116th Congress)](https://www.congress.gov/bill/116th-congress/house-resolution/702/all-info)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R.3412 - Ending Administrative Garnishment Act of 2025](https://www.congress.gov/bill/119th-congress/house-bill/3412)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: Pressley criminal justice reform resolution](https://thehill.com/homenews/house/470791-ayanna-pressley-introduces-sweeping-criminal-justice-reform-resolution/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

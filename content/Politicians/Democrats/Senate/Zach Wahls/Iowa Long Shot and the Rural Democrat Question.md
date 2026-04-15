@@ -189,7 +189,12 @@ The outcome will reveal something important about whether Democratic long-shot c
 
 - [Zach Wahls - Wikipedia](https://en.wikipedia.org/wiki/Zach_Wahls) (Tier 3) (VERIFIED)
 - [United States Senate election in Iowa, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Iowa,_2026) (Tier 3) (VERIFIED)
-- ~~[Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2) (VERIFIED)
-- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

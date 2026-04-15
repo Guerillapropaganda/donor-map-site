@@ -40,7 +40,12 @@ The pattern revealed how elite university governance actually works: when congre
 
 ### Sources
 
-- ~~[Congress.gov: Antisemitism on College Campuses hearing, 118th Congress](https://www.congress.gov/event/118th-congress/house-event/117305)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_002998}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Elise Stefanik](https://ballotpedia.org/Elise_Stefanik) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Antisemitism on College Campuses hearing, 118th Congress](https://www.congress.gov/event/118th-congress/house-event/117305)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

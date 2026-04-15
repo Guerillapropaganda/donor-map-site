@@ -70,7 +70,6 @@ The 2026 midterms are building 2028 infrastructure:
 
 ### Sources
 - [University of New Hampshire Survey Center: 2028 Presidential Election Preferences (February 2026)](https://scholars.unh.edu/survey_center_polls/927/) (Tier 2) (VERIFIED)
-- ~~[Vance Leads 2028 NH GOP Primary; Buttigieg, AOC, and Newsom Top Democratic Field (UNH Survey Center, 2/19/2026)](https://scholars.unh.edu/cgi/viewcontent.cgi?article=1898&context=survey_center_polls)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Jerusalem Post: Miriam Adelson pledges $250 million for Trump third term](https://www.jpost.com/american-politics/article-880539) (Tier 2) (VERIFIED)
 - [Common Dreams: Billionaire Adelson Vows $250 Million to Fund 'Four More Years' of Trump](https://www.commondreams.org/news/adelson-trump-four-more-years) (Tier 2) (VERIFIED)
 - [Philadelphia Inquirer: Big-money and out-of-state donors helped Josh Shapiro raise $30 million](https://www.inquirer.com/politics/pennsylvania/governor-election-campaign-donations-shapiro-garrity-20260212.html) (Tier 2) (VERIFIED)
@@ -78,7 +77,13 @@ The 2026 midterms are building 2028 infrastructure:
 - [CoinDesk: Fairshake's $10 million Illinois misfire marks first big hitch in crypto political surge (March 2026)](https://www.coindesk.com/news-analysis/2026/03/18/fairshake-s-usd10-million-illinois-misfire-marks-first-big-hitch-in-crypto-political-surge) (Tier 2) (VERIFIED)
 - [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2) (VERIFIED)
 - [The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections) (Tier 2) (VERIFIED)
-- ~~[Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Vance Leads 2028 NH GOP Primary; Buttigieg, AOC, and Newsom Top Democratic Field (UNH Survey Center, 2/19/2026)](https://scholars.unh.edu/cgi/viewcontent.cgi?article=1898&context=survey_center_polls)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

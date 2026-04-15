@@ -182,9 +182,7 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 - {{src:src_004463}} (Tier 1) (VERIFIED)
 - [Congress.gov: Glenn Thompson](https://www.congress.gov/member/glenn-thompson/T000467) (Tier 1) (VERIFIED)
 - [House Agriculture Committee: Chairman Thompson](https://agriculture.house.gov/about/chairman-thompson.htm) (Tier 1) (VERIFIED)
-- ~~[CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Pittsburgh Post-Gazette: Thompson sees PAC money surge as Agriculture Committee chair](https://www.post-gazette.com/news/politics-state/2023/07/30/glenn-thompson-pac-donations-house-agriculture-committee/stories/202307300085) (Tier 2) (VERIFIED)
-- ~~[The Hill: Sparks fly over SNAP at contentious markup of House farm bill](https://thehill.com/policy/healthcare/4683175-house-republican-farm-bill-snap-food-aid-partisan-markup/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Pennsylvania Capital-Star: Thompson talks tariffs, SNAP, and immigration's impact on agriculture](https://penncapital-star.com/agriculture-pa-farms/qa-congressman-glenn-thompson-talks-tariffs-snap-and-immigrations-impact-on-agriculture/) (Tier 2) (VERIFIED)
 - [CNN: GOP congressman attends gay son's wedding after opposing marriage protections](https://www.cnn.com/2022/07/25/politics/glenn-thompson-attends-gay-sons-wedding-after-opposing-protections/index.html) (Tier 2) (VERIFIED)
 - [Common Dreams: GOP Farm Bill Full of Industry-Backed Poison Pills](https://www.commondreams.org/news/farm-bill-2026) (Tier 2) (VERIFIED)
@@ -256,3 +254,10 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 - {{src:src_004463}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CBPP: House Agriculture Committee Chairman Proposes Cut in SNAP Benefits](https://www.cbpp.org/blog/house-agriculture-committee-chairman-proposes-cut-in-snap-benefits-reversing-bipartisan)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Sparks fly over SNAP at contentious markup of House farm bill](https://thehill.com/policy/healthcare/4683175-house-republican-farm-bill-snap-food-aid-partisan-markup/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

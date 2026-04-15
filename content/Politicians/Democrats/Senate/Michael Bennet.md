@@ -130,7 +130,6 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 | 03/01/2019 | -- | Purchase | $100,001 - $250,000 | Self |
 | 01/25/2017 | -- | Purchase | $250,001 - $500,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -185,3 +184,9 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

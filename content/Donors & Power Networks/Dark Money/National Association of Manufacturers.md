@@ -221,8 +221,6 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 
 - [OpenSecrets: National Association of Manufacturers lobbying profile](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/lobbying?id=D000054156) (Tier 1)
 - [OpenSecrets: NAM PAC contributions and summary](https://www.opensecrets.org/orgs/national-assn-of-manufacturers/summary?id=D000054156) (Tier 1)
-- ~~[DeSmog: National Association of Manufacturers. Climate Science Denial profile](https://www.desmog.com/national-association-of-manufacturers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[U.S. Senate: Whitehouse "Time to Wake Up" speech on NAM climate obstruction](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: National Association of Manufacturers](https://ballotpedia.org/National_Association_of_Manufacturers) (Tier 3) (VERIFIED)
 - [NAM: Policy positions](https://nam.org/issues/) (Tier 3) (VERIFIED)
 
@@ -296,11 +294,6 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742553304) (Tier 1) (VERIFIED)
@@ -347,3 +340,15 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Manufacturers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[DeSmog: National Association of Manufacturers. Climate Science Denial profile](https://www.desmog.com/national-association-of-manufacturers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[U.S. Senate: Whitehouse "Time to Wake Up" speech on NAM climate obstruction](https://www.whitehouse.senate.gov/news/speeches/time-to-wake-up-249-the-national-association-of-manufacturers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742553304/2019)~~ (URL broken, archived by Ops)

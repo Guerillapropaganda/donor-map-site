@@ -236,17 +236,12 @@ This concentration of funding created structural dependency: Republican leadersh
 - [CNBC: Miriam Adelson PAC funding](https://www.cnbc.com/2024/08/16/donald-trump-miriam-adelson-campaign-funding.html) (Tier 2) (VERIFIED)
 
 ### Wire Act / Anti-Online Gambling:
-- ~~[Card Player: Sheldon Adelson gets his way. DOJ says all online gambling illegal](https://www.cardplayer.com/poker-news/23543-sheldon-adelson-gets-his-way-department-of-justice-says-all-online-gambling-illegal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Legal Sports Report: NJ AG blasts DOJ Wire Act opinion, eyes Adelson meddling](https://www.legalsportsreport.com/28838/nj-letter-wire-act-adelson/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Tablet Magazine: Casino mogul Sheldon Adelson's campaign against online gambling](https://www.tabletmag.com/sections/news/articles/sheldon-adelsons-war-against-online-gambling)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Israel Policy:
 - [Responsible Statecraft: Trump tell-all cites Adelson's bankrolled Israel embassy move](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
 - [Newsweek: How Miriam Adelson shaped Trump's Israel strategy](https://www.newsweek.com/how-miriam-adelson-shaped-donald-trumps-israel-strategy-10875990) (Tier 2) (VERIFIED)
-- ~~[Al Jazeera: Who is Miriam Adelson, pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Las Vegas Sands / Texas:
-- ~~[OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_010547}} (Tier 1) (VERIFIED)
 - [Casino Beats: Las Vegas Sands 2026 Texas push $9M PAC](https://casinobeats.com/2025/08/13/las-vegas-sands-2026-texas-casino-pac/) (Tier 2) (VERIFIED)
 
@@ -256,7 +251,6 @@ This concentration of funding created structural dependency: Republican leadersh
 
 ### General:
 - [Ballotpedia: Sheldon and Miriam Adelson](https://ballotpedia.org/Adelson_Family) (Tier 3) (VERIFIED)
-- ~~[Bloomberg Billionaires Index: Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -317,12 +311,23 @@ This concentration of funding created structural dependency: Republican leadersh
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Card Player: Sheldon Adelson gets his way. DOJ says all online gambling illegal](https://www.cardplayer.com/poker-news/23543-sheldon-adelson-gets-his-way-department-of-justice-says-all-online-gambling-illegal)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Legal Sports Report: NJ AG blasts DOJ Wire Act opinion, eyes Adelson meddling](https://www.legalsportsreport.com/28838/nj-letter-wire-act-adelson/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Tablet Magazine: Casino mogul Sheldon Adelson's campaign against online gambling](https://www.tabletmag.com/sections/news/articles/sheldon-adelsons-war-against-online-gambling)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Al Jazeera: Who is Miriam Adelson, pro-Israel donor Trump lauded at Knesset](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Las Vegas Sands profile](https://www.opensecrets.org/orgs/las-vegas-sands/summary?id=D000020980)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg Billionaires Index: Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/223769645/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/223769645) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

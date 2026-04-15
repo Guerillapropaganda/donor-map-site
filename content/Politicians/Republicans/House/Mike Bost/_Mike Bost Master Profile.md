@@ -171,7 +171,6 @@ The class structure here is institutional, not financial. Bost's chairmanship de
 
 ## Sources
 
-- ~~[Congress.gov: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Mike Bost](https://www.congress.gov/member/mike-bost/B001295) (Tier 1) (VERIFIED)
 - [House Veterans' Affairs Committee: Chairman Bost](https://veterans.house.gov/about/chairman.htm) (Tier 1) (VERIFIED)
 - [Bost.house.gov: Biography](https://bost.house.gov/biography) (Tier 1) (VERIFIED)
@@ -189,5 +188,11 @@ The class structure here is institutional, not financial. Bost's chairmanship de
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Mike Bost](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mike Bost donor profile](https://www.congress.gov/search?q=Mike%20Bost&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Bost](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

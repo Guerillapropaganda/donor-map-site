@@ -55,5 +55,10 @@ The rhetoric serves a specific function: create intellectual permission for the 
 
 - [Energy and Policy Institute: Chris Wright. Trump's pick for Energy Secretary is a longtime member of Koch's political donor network](https://energyandpolicy.org/chris-wright-energy-secretary-charles-koch/) (Tier 2) (VERIFIED)
 - [Heatmap News: Inside the Mind of Energy Nominee Chris Wright](https://heatmap.news/climate/chris-wright-mind) (Tier 2) (VERIFIED)
-- ~~[CPR News: Don't call it 'climate denial'. Secretary of Energy Chris Wright claims he's preaching 'climate realism'](https://www.cpr.org/2025/05/05/climate-change-trump-secretary-of-energy-chris-wright/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DeSmog: Trump Energy Secretary pick Chris Wright calls climate crisis denier Bjorn Lomborg a 'friend'](https://www.desmog.com/2024/11/19/trump-energy-secretary-pick-chris-wright-calls-climate-crisis-denier-bjorn-lomborg-a-friend/) (Tier 2) (NEEDS REVIEW)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CPR News: Don't call it 'climate denial'. Secretary of Energy Chris Wright claims he's preaching 'climate realism'](https://www.cpr.org/2025/05/05/climate-change-trump-secretary-of-energy-chris-wright/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

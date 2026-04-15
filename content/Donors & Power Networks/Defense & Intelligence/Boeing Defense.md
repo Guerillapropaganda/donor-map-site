@@ -158,8 +158,6 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - [Defense News: Boeing wins contract for NGAD fighter jet, dubbed F-47](https://www.defensenews.com/air/2025/03/21/boeing-wins-contract-for-ngad-fighter-jet-dubbed-f-47/) (Tier 2) (VERIFIED)
 - [NPR: Justice Department may prosecute Boeing for 737 Max crashes](https://www.npr.org/2024/05/14/1251477809/boeing-justice-department-charges) (Tier 2) (VERIFIED)
 - [CNBC: Judge dismisses Boeing case for 737 Max crashes at DOJ request](https://www.cnbc.com/2025/11/06/boeing-criminal-case-737-max-crashes-doj.html) (Tier 2) (VERIFIED)
-- ~~[POGO: Corrupted Oversight — The FAA, Boeing, and the 737 Max](https://www.pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[POGO: Brass Parachutes — The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: Congress protests revolving door to Boeing while rushing through it](https://www.seattletimes.com/business/boeing-aerospace/congress-protests-revolving-door-to-boeing-while-rushing-through-it/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Boeing Defense](https://ballotpedia.org/Boeing_Defense) (Tier 3) (VERIFIED)
 
@@ -197,5 +195,12 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - Oklahoma Firefighters Pension and Retirement System v. Calhoun (2024) — District Court, E.D. Virginia
 - Craig M Garriott v. The Boeing Company (2024) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%20Defense%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Corrupted Oversight - The FAA, Boeing, and the 737 Max](https://www.pogo.org/analyses/corrupted-oversight-the-faa-boeing-and-the-737-max)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%20Defense%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

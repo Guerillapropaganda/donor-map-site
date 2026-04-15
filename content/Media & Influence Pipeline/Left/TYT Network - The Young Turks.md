@@ -198,13 +198,10 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 - [Digiday: The Young Turks now has 27K paying subscribers accounting for half of its revenue](https://digiday.com/media/young-turks-now-27k-paying-subscribers-accounting-half-revenue/) (Tier 3) (VERIFIED)
 - [Variety: Jeffrey Katzenberg's WndrCo Invests in TYT Network as Part of $20 Million Round](https://variety.com/2017/digital/news/young-turks-jeffrey-katzenberg-wndrco-funding-1202518938/) (Tier 2) (VERIFIED)
 - [Hollywood Reporter: The Young Turks Raises $20 Million in Latest Funding Round](https://www.hollywoodreporter.com/news/general-news/left-leaning-political-video-network-young-turks-raises-20-million-1027360/) (Tier 2) (VERIFIED)
-- ~~[Axios: How The Young Turks will spend its $20 million](https://www.axios.com/2017/12/15/how-the-young-turks-will-spend-its-20-million-1513304718)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The New Republic: The Myth of the Progressive Boss](https://newrepublic.com/article/156757/myth-progressive-boss) (Tier 2) (VERIFIED)
 - [In These Times: The Young Turks Union Fight Gets Nastier](https://inthesetimes.com/article/the-young-turks-union-cenk-uygur-labor-organizing) (Tier 2) (VERIFIED)
 - [HuffPost: The Young Turks' Progressive Founder Urged His Staff Not To Unionize](https://www.huffpost.com/entry/the-young-turks-progressive-founder-urged-his-staff-not-to-unionize_n_5e540686c5b6ad3de3823a32) (Tier 2) (VERIFIED)
 - [Deadline: IATSE Launches Drive To Unionize The Young Turks Online News Site](https://deadline.com/2020/02/iatse-launches-drive-to-unionize-the-young-turks-news-site-1202858884/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Cenk Uygur signals optimism after Donald Trump election win](https://thehill.com/homenews/campaign/5015727-cenk-uygur-donald-trump-optimism-2024-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Variety: The Young Turks CEO Cenk Uygur Touts Political News Strategy](https://variety.com/2024/digital/news/cenk-uygur-young-turks-election-1236192092/) (Tier 2) (VERIFIED)
 - [vidIQ: The Young Turks YouTube Channel Statistics](https://vidiq.com/youtube-stats/channel/UC1yBKRuGpC1tSM73A0ZjYjQ/) (Tier 3) (VERIFIED)
 - [Wikipedia: The Young Turks](https://en.wikipedia.org/wiki/The_Young_Turks) (Tier 3) (VERIFIED)
@@ -215,7 +212,6 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 - [FEC: Cenk Uygur individual contributions](https://www.fec.gov/data/receipts/?contributor_name=cenk+uygur) (Tier 1)
 - [FEC: TYT employee contributions (411 results)](https://www.fec.gov/data/receipts/?contributor_employer=the+young+turks) (Tier 1)
 - [Hollywood Reporter: Jeffrey Katzenberg's Email to Harvey Weinstein](https://www.hollywoodreporter.com/news/general-news/jeffrey-katzenbergs-email-harvey-weinstein-youve-done-terrible-things-1047524/) (Tier 2) (VERIFIED)
-- ~~[Medium (Robbie Jaeger): The Ideological Failure of The Young Turks](https://medium.com/@RobletoFire/the-ideological-failure-of-the-young-turks-90c15ddde408)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4)
 
 ---
 
@@ -230,3 +226,12 @@ Patterns present: **Independence Theater** (VC-funded "independent" media), **Au
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: How The Young Turks will spend its $20 million](https://www.axios.com/2017/12/15/how-the-young-turks-will-spend-its-20-million-1513304718)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Democratic presidential candidate Cenk Uygur raises more than $250K](https://thehill.com/homenews/campaign/4327418-democratic-presidential-candidate-cenk-uygur-raises-250k/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Cenk Uygur signals optimism after Donald Trump election win](https://thehill.com/homenews/campaign/5015727-cenk-uygur-donald-trump-optimism-2024-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Medium (Robbie Jaeger): The Ideological Failure of The Young Turks](https://medium.com/@RobletoFire/the-ideological-failure-of-the-young-turks-90c15ddde408)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4)

@@ -86,12 +86,9 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 
 ### Sources
 
-- ~~[Congress.gov: Sen. Bob Casey campaign finance summary](https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Sen. Bob Casey industries](https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Free Beacon: Bob Casey, the Senate's Top Recipient of Pharma Cash, Says He's 'Standing Up to Big Pharma'](https://freebeacon.com/democrats/bob-casey-the-senates-top-recipient-of-pharma-cash-says-hes-standing-up-to-big-pharma/) (Tier 3) (VERIFIED)
 - [Broad & Liberty: Sen. Bob Casey raises more money from PACs than from PA](https://broadandliberty.com/2023/04/27/sen-bob-casey-raises-more-money-from-pacs-than-from-pa/) (Tier 3) (VERIFIED)
 - [Deseret News: Should we be concerned with politicians receiving pharma money?](https://www.deseret.com/politics/2025/01/31/pharma-funding-politicians/) (Tier 3) (VERIFIED)
-- ~~[PolitiFact: Viral image about Democratic senators and 'big pharma' is misleading](https://www.politifact.com/factchecks/2017/jan/18/other-98/viral-image-about-democratic-senators-and-big-pharma/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC Receipts: Pharmaceuticals/Health Products PAC contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 
@@ -99,7 +96,6 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Bob Casey](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -125,5 +121,14 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 | — |  | — |
 | — |  | Amendment SA 3837 agreed to in Senate by Unanimous Consent. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001070)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Sen. Bob Casey campaign finance summary](https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Sen. Bob Casey industries](https://www.congress.gov/search?q=Bob%20Casey&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[PolitiFact: Viral image about Democratic senators and 'big pharma' is misleading](https://www.politifact.com/factchecks/2017/jan/18/other-98/viral-image-about-democratic-senators-and-big-pharma/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Bob Casey](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001070)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

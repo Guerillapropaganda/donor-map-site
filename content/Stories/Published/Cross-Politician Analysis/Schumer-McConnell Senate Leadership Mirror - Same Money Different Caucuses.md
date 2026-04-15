@@ -131,9 +131,14 @@ The result: eighteen combined years of Senate floor control, under both majority
 - [OpenSecrets: Goldman Sachs Profile Summary](https://www.opensecrets.org/orgs/goldman-sachs/summary?id=d000000085) (Tier 1) (VERIFIED)
 - [OpenSecrets: Lockheed Martin PAC Contributions to Federal Candidates, 2024](https://www.opensecrets.org/political-action-committees-pacs/lockheed-martin/C00303024/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Senate Leadership Fund Summary](https://www.opensecrets.org/orgs/senate-leadership-fund/summary?id=D000068516) (Tier 1) (VERIFIED)
-- ~~[Times of Israel: Johnson, Schumer, McConnell to address AIPAC confab](https://www.timesofisrael.com/liveblog_entry/house-speaker-johnson-senate-leaders-schumer-mcconnell-to-address-aipac-confab/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [STAT News: McConnell says House drug bill is dead on arrival](https://www.statnews.com/pharmalot/2019/09/20/mcconnell-trump-drug-prices-purdue-opioids/) (Tier 2) (VERIFIED)
 - [CREW: One Nation raised $172M from anonymous donors in 2020](https://www.citizensforethics.org/reports-investigations/crew-investigations/boosted-by-8-figure-donations-mcconnell-aligned-nonprofit-raised-172-million-in-2020/) (Tier 2) (VERIFIED)
 - [CREW: FTX fraudsters bolstered McConnell dark money group](https://www.citizensforethics.org/reports-investigations/crew-investigations/mitch-mcconnell-tied-dark-money-group-bolstered-by-millions-from-ftx-fraudsters/) (Tier 2) (VERIFIED)
 - [Public Integrity: How Democrats use dark money and win elections](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Times of Israel: Johnson, Schumer, McConnell to address AIPAC confab](https://www.timesofisrael.com/liveblog_entry/house-speaker-johnson-senate-leaders-schumer-mcconnell-to-address-aipac-confab/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

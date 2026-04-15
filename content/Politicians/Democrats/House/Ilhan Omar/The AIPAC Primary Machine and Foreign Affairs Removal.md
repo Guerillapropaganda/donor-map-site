@@ -85,8 +85,6 @@ The precedent is structural: if a party controls the House, it can remove any me
 
 ### Sources
 
-- ~~[Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006158}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Minnesota District 05 2022 race summary](https://www.opensecrets.org/races/summary?cycle=2022&id=MN05) (Tier 1) (VERIFIED)
 - [OpenSecrets: United Democracy Project PAC profile 2024](https://www.opensecrets.org/political-action-committees-pacs/united-democracy-project/C00799031/summary/2024) (Tier 1) (VERIFIED)
@@ -97,3 +95,10 @@ The precedent is structural: if a party controls the House, it can remove any me
 - [Ballotpedia: Minnesota's 5th Congressional District election, 2022](https://ballotpedia.org/Minnesota's_5th_Congressional_District_election,_2022) (Tier 3) (VERIFIED)
 - [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: H.Res.76. Removing Omar from Foreign Affairs](https://www.congress.gov/bill/118th-congress/house-resolution/76)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Ilhan Omar member page](https://www.congress.gov/member/ilhan-omar/O000173)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -42,8 +42,13 @@ Boeing's commercial and military operations in Washington State make the company
 
 ### Sources
 
-- ~~[Congress.gov: Adam Smith member profile](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006407}} (Tier 1) (VERIFIED)
 - [House Armed Services Committee](https://armedservices.house.gov/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Adam Smith (Washington)](https://ballotpedia.org/Adam_Smith_(Washington) (VERIFIED)) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Adam Smith member profile](https://www.congress.gov/member/adam-smith/S000510)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

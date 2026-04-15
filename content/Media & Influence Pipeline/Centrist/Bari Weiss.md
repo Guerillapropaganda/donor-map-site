@@ -154,7 +154,6 @@ Bari Weiss represents the most structurally complete case of Independence Theate
 
 - [FEC Individual Contributions: Bari Weiss (0 results for CA and NY)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=bari+weiss&contributor_state=CA&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
 - [Wikipedia: Bari Weiss](https://en.wikipedia.org/wiki/Bari_Weiss) (Tier 3) (VERIFIED)
-- ~~[Wikipedia: The Free Press (Paramount Skydance)](https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance)~~ (URL broken, archived by Ops)) (Tier 3)
 - [Bari Weiss: NYT Resignation Letter (July 14, 2020)](https://www.bariweiss.com/resignation-letter) (Tier 1) (VERIFIED)
 - [CNBC: "Paramount Skydance to Acquire Bari Weiss-Founded Free Press" (Oct 6, 2025)](https://www.cnbc.com/2025/10/06/paramount-skydance-to-acquire-bari-weiss-founded-free-press.html) (Tier 2) (VERIFIED)
 - [NPR: "Who Is Bari Weiss? CBS News' New Editor-in-Chief Is a Vocal Critic of Legacy Media" (Oct 6, 2025)](https://www.npr.org/2025/10/06/nx-s1-5563786/bari-weiss-cbs-news-free-press) (Tier 2) (VERIFIED)
@@ -162,9 +161,15 @@ Bari Weiss represents the most structurally complete case of Independence Theate
 - [CJR: "Weiss Goes Mainstream" (Oct 13, 2025)](https://www.cjr.org/the_media_today/bari-weiss-goes-mainstream.php) (Tier 2) (VERIFIED)
 - [Nieman Lab/FT: "Bari Weiss's Free Press Is Valued at Around $100 Million and Just Raised $15 Million" (Sep 25, 2024)](https://www.niemanlab.org/reading/bari-weisss-free-press-is-valued-at-around-100-million-and-just-raised-15-million/) (Tier 2) (VERIFIED)
 - [PitchBook: "The Free Press, News Outfit Backed by Top VCs, Acquired by Paramount Skydance for $150M"](https://pitchbook.com/news/articles/the-free-press-news-outfit-backed-by-top-vcs-acquired-by-paramount-skydance-for-150m) (Tier 2) (VERIFIED)
-- ~~[Axios: "The Free Press Hires a Publisher Amid Expansion" (Dec 10, 2024)](https://www.axios.com/2024/12/10/the-free-press-hires-publisher-amid-expansion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: "Controversial Opinion Writer Bari Weiss Resigns from The New York Times" (July 14, 2020)](https://www.cnn.com/2020/07/14/media/bari-weiss-resigns-new-york-times) (Tier 2) (VERIFIED)
 - [CBS News: "Bari Weiss Named Editor-in-Chief of CBS News" (Oct 6, 2025)](https://www.cbsnews.com/news/bari-weiss-editor-in-chief-cbs-news-paramount-the-free-press/) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: The Free Press (Paramount Skydance)](https://en.wikipedia.org/wiki/The_Free_Press_(Paramount_Skydance)~~ (URL broken, archived by Ops)) (Tier 3)
+- ~~[Axios: "The Free Press Hires a Publisher Amid Expansion" (Dec 10, 2024)](https://www.axios.com/2024/12/10/the-free-press-hires-publisher-amid-expansion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

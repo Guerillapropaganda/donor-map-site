@@ -127,9 +127,6 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 ### Sources
 
 - [ProPublica: The 85 Fund and Marble Freedom Trust](https://www.propublica.org/article/dark-money-leonard-leo-barre-seid) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: The 85 Fund organizational profile](https://www.opensecrets.org/orgs/the-85-fund/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Center for Responsive Politics: Dark money and judicial nominations](https://www.opensecrets.org/news/) (Tier 2) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
@@ -149,11 +146,6 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202466871) (Tier 1) (VERIFIED)
@@ -176,3 +168,16 @@ The Fund's rebranding from "Judicial Education Project" to "The 85 Fund" reveals
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: The 85 Fund organizational profile](https://www.opensecrets.org/orgs/the-85-fund/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: The 85 Fund (Judicial Education Project)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2085%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: The 85 Fund spending in 2020-2024](https://www.axios.com/2024/07/12/the-85-fund-spending-supreme-court)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/202466871/2019)~~ (URL broken, archived by Ops)

@@ -230,7 +230,6 @@ party:: Democrat
 | 08/23/2018 | NFLX | Purchase | $1,001 - $15,000 | Child |
 | 07/31/2020 | -- | Sale | $50,001 - $100,000 | Child |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -329,7 +328,6 @@ party:: Democrat
 - State, Foreign Operations, and Related Programs
 - Transportation, Housing and Urban Development, and Related Agencies
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -358,12 +356,19 @@ party:: Democrat
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001088)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Chris Coons](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001088)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chris Coons](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

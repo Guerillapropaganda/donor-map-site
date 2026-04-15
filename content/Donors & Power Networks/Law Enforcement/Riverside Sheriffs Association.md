@@ -235,7 +235,6 @@ justice system, structural parallel to CCPOA as law enforcement union blocking r
 - In Re: Senate Bill 2 Litigation (2023) — District Court, C.D. California
 - Bolbol v. Rowell Ranch Rodeo, Inc. (2023) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Riverside%20Sheriffs%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -286,12 +285,18 @@ justice system, structural parallel to CCPOA as law enforcement union blocking r
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Riverside%20Sheriffs%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/956203844/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956203844) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

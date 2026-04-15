@@ -207,7 +207,6 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 - [ProPublica: The Beleaguered Tenants of Kushnerville](https://www.propublica.org/article/the-beleaguered-tenants-of-kushnerville) (Tier 2) (VERIFIED)
 - [NPR: Kushner business ties and Middle East policy](https://www.npr.org/2025/10/23/nx-s1-5582806/jared-kushner-mideast-business-ceasefire) (Tier 2) (VERIFIED)
 - [CBS News: Kushner and Saudi investment, MBS relationship](https://www.cbsnews.com/news/jared-kushner-post-white-house-business-moves-saudis-wealth-fund-mohammed-bin-salman-jamal-khashoggi/) (Tier 2) (VERIFIED)
-- ~~[House Oversight Committee: Kushner foreign investment investigation](https://oversight.house.gov/news/press-releases/committees-announce-investigation-into-trump-administrations-financial-dealings-saudi-arabia-and-other-foreign-governments)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -218,3 +217,9 @@ For the vault's class analysis: Kushner is the purest case of government-as-inve
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[House Oversight Committee: Kushner foreign investment investigation](https://oversight.house.gov/news/press-releases/committees-announce-investigation-into-trump-administrations-financial-dealings-saudi-arabia-and-other-foreign-governments)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

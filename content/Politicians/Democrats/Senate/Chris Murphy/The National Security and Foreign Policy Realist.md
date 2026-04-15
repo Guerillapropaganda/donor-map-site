@@ -40,7 +40,12 @@ The structural limit: Murphy's Yemen advocacy challenged a specific military ope
 
 ### Sources
 
-- ~~[Congress.gov: Yemen War Powers Resolution](https://www.congress.gov/bill/116th-congress/senate-joint-resolution/7)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005532}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Yemen War Powers Resolution](https://www.congress.gov/bill/116th-congress/senate-joint-resolution/7)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

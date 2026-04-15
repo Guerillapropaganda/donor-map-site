@@ -98,7 +98,6 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 - [FEC campaign finance records: Romney 2012 presidential](https://www.fec.gov) (Tier 1) (VERIFIED)
 - [Bain Capital leveraged buyout model and investment performance](https://www.sec.gov) (Tier 1) (VERIFIED)
 - [Romney "47 percent" comment: leaked video, 2012](https://www.youtube.com/watch?v=J2SLM7ktjUU) (Tier 3) (VERIFIED)
-- ~~[Carried interest tax loophole and PE partner taxation](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Romney 2020 impeachment vote: Senate record](https://www.senate.gov) (Tier 1) (VERIFIED)
 
 ---
@@ -183,3 +182,9 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 - [GovTrack: Mitt Romney](https://www.govtrack.us/congress/members/412841) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Carried interest tax loophole and PE partner taxation](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

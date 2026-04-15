@@ -36,7 +36,12 @@ Lawler's foreign policy positions are calibrated to maintain AIPAC support: unco
 
 ### Sources
 
-- ~~[Congress.gov: Mike Lawler member profile](https://www.congress.gov/member/michael-lawler/L000599)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Mike Lawler campaign finance summary](https://www.congress.gov/search?q=Mike%20Lawler&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Mike Lawler](https://ballotpedia.org/Mike_Lawler) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mike Lawler member profile](https://www.congress.gov/member/michael-lawler/L000599)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Lawler campaign finance summary](https://www.congress.gov/search?q=Mike%20Lawler&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

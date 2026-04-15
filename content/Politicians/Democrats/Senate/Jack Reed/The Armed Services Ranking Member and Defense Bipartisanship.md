@@ -44,8 +44,13 @@ Reed's most consequential parochial interest is submarine construction. Electric
 
 ### Sources
 
-- ~~[Congress.gov: Jack Reed member profile](https://www.congress.gov/member/jack-reed/R000122)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005374}} (Tier 1) (VERIFIED)
 - {{src:src_005374}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Jack Reed](https://ballotpedia.org/Jack_Reed_(Rhode_Island) (VERIFIED)) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Jack Reed member profile](https://www.congress.gov/member/jack-reed/R000122)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

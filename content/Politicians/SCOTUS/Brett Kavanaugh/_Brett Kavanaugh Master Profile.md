@@ -157,5 +157,10 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Brett Kavanaugh](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Brett Kavanaugh](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

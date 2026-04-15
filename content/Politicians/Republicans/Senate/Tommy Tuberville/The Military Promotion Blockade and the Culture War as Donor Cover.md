@@ -93,4 +93,9 @@ The abortion issue was genuine in the sense that Tuberville believes what he say
 - [Al Jazeera: Senator stalls U.S. military promotions in anti-abortion standoff](https://www.aljazeera.com/news/2023/7/10/senator-stalls-us-military-promotions-in-anti-abortion-standoff) (Tier 2) (VERIFIED)
 - [Alabama Reporter: Defense contractors donated during promotions hold](https://www.alreporter.com/2023/10/11/report-tuberville-got-financial-support-from-defense-contractors-amid-confirmations-hold/) (Tier 2) (VERIFIED)
 - [Alabama Reflector: Tuberville relents on blockade, blames Democrats](https://alabamareflector.com/2023/12/05/tuberville-relents-on-months-long-blockade-of-most-military-nominees-blaming-democrats/) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[Bloomberg: Tuberville demands Senate vote on Pentagon abortion policy](https://www.bloomberg.com/news/articles/2023-09-12/tuberville-demands-a-senate-vote-on-pentagon-abortion-policy)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

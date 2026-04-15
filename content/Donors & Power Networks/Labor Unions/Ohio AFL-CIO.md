@@ -102,7 +102,6 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 ### Sources
 
-- ~~[OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: AFL-CIO political spending profile](https://www.opensecrets.org/orgs/afl-cio/summary?id=D000000088) (VERIFIED)
 
 ---
@@ -189,7 +188,6 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 - Plain Local School District Board of Education v. DeWine (2019) — District Court, S.D. Ohio
 - Ohioans Against Corporate Bailouts v. LaRose (2019) — District Court, S.D. Ohio
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20AFL-CIO%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -219,3 +217,10 @@ The Ohio AFL-CIO represents labor's constraint within Democratic Party politics:
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Ohio%20AFL-CIO) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20AFL-CIO%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

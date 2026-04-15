@@ -244,7 +244,6 @@ The public option was included in the original House ACA bill (2009) but strippe
 - [AHA News: BCBS antitrust lawsuit provider settlement platform goes live (December 2024)](https://www.aha.org/news/headline/2024-12-20-bcbs-antitrust-lawsuit-provider-settlement-platform-goes-live) (Tier 2) (VERIFIED)
 - [BCBS Antitrust Settlement: Official settlement site, $2.8B cash, final approval August 2025](https://www.bcbssettlement.com/) (Tier 1) (VERIFIED)
 - [Healthcare Dive: Biden administration finalizes modest cut to 2025 Medicare Advantage rates](https://www.healthcaredive.com/news/medicare-advantage-final-rates-2025-modest-cut/711927/) (Tier 2) (VERIFIED)
-- ~~[CMS: Medicare administrative cost data](https://www.cms.gov/data-research/statistics-trends-and-reports)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CMS: Insurance marketplace enrollment data](https://www.cms.gov/data-research/statistics-trends-and-reports/marketplace-products) (Tier 1) (VERIFIED)
 - [Ballotpedia: Blue Cross Blue Shield Association](https://ballotpedia.org/Blue_Cross_Blue_Shield_Association) (Tier 3) (VERIFIED)
 
@@ -407,5 +406,11 @@ The public option was included in the original House ACA bill (2009) but strippe
 - GERALD SEITZINGER, INDIVIDUALLY AND AS GUARDIAN OF DS v. ARAMARK SERVICES, INC. FSS EMPLOYEE MEDICAL PLAN (2025) — District Court, E.D. Pennsylvania
 - Doe v. United States Office of Personnel Management, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Cross%20Blue%20Shield%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CMS: Medicare administrative cost data](https://www.cms.gov/data-research/statistics-trends-and-reports)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blue%20Cross%20Blue%20Shield%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

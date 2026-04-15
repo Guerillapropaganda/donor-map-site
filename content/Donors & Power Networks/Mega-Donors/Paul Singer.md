@@ -158,7 +158,6 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - [Washington Post: How one hedge fund made $2 billion from Argentina's economic collapse](https://www.washingtonpost.com/news/business/wp/2016/03/29/how-one-hedge-fund-made-2-billion-from-argentinas-economic-collapse/) (Tier 2) (VERIFIED)
 - [FEC Receipts: Paul Singer donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=paul%20singer) (Tier 1)
 - [Ballotpedia: Paul Singer](https://ballotpedia.org/Paul_Singer) (Tier 3) (VERIFIED)
-- ~~[InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -203,11 +202,6 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/272009342) (Tier 1) (VERIFIED)
@@ -229,7 +223,6 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 - Singer v. Waters Esq (2025) - District Court, E.D. California
 - Paul Singer (2025) - United States Bankruptcy Court, W.D. Pennsylvania
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -369,3 +362,15 @@ The $2.4 billion payout was part of a $4.65 billion settlement with four hedge f
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[InfluenceWatch: Paul Singer](https://www.influencewatch.org/person/paul-singer/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/272009342/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Paul%20Singer%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -233,9 +233,7 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 - [Senate LDA Filings: Crossroads Strategies Lobbying Firm Profile, 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Crossroads Strategies Lobbyists. Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Crossroads Strategies Bills Lobbied, 2025](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[The Hill: Lott, Breaux Join Lobbying Shop Crossroads Strategies](https://thehill.com/business-a-lobbying/business-a-lobbying/502725-lott-breaux-join-lobbying-shop-crossroads-strategies/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Roll Call: Ex-Sens. Lott, Breaux Announce Move to Crossroads Strategies](https://rollcall.com/2020/06/15/ex-sens-lott-breaux-announce-move-to-crossroads-strategies/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Lobbying World. Schumer, Amazon Alum to Join Crossroads Strategies](https://thehill.com/business/4411828-lobbying-world-schumer-amazon-alum-to-join-crossroads-strategies/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Crossroads Strategies: Strengthens Offerings with Strategic Hires and Key Promotions (2025)](https://crshq.com/crossroads-strategies-strengthens-offerings-with-strategic-hires-and-key-promotions/) (Tier 3) (VERIFIED)
 - [Bloomberg Government: 10th Annual Top-Performing Lobbying Firms Report. Federal Lobbying Reached $4.5B High in 2024](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2) (VERIFIED)
 - [LegiStorm: Crossroads Strategies LLC Summary](https://www.legistorm.com/organization/summary/79546/Crossroads_Strategies_LLC.html) (Tier 3) (VERIFIED)
@@ -260,7 +258,6 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 - Cooke v. CT Corporation/Jack Kent Cooke Foundation (2021) — District Court, E.D. Virginia
 - Restoration Action, Inc. v. Center for American Restoration, Inc (2021) — District Court, E.D. Virginia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Crossroads%20Strategies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -294,3 +291,11 @@ The 76.9% revolving door rate is the business model expressed as a statistic. Mo
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Crossroads%20Strategies%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Lott, Breaux Join Lobbying Shop Crossroads Strategies](https://thehill.com/business-a-lobbying/business-a-lobbying/502725-lott-breaux-join-lobbying-shop-crossroads-strategies/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Lobbying World. Schumer, Amazon Alum to Join Crossroads Strategies](https://thehill.com/business/4411828-lobbying-world-schumer-amazon-alum-to-join-crossroads-strategies/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Crossroads%20Strategies%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

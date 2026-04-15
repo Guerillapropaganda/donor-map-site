@@ -70,20 +70,25 @@ Florida's special election for a two-year Senate term (versus six-year terms for
 
 ### Sources
 
-- ~~[Florida 2026 Senate Special Election | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Florida,_2026)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-- ~~[Ballotpedia: Ashley Moody political career and campaign finances](https://ballotpedia.org/Ashley_Moody)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - {{src:src_001923}} (Tier 1) (VERIFIED)
 - {{src:src_001924}} (Tier 1) (VERIFIED)
-- ~~[Cory Mills and Republican primary challengers in Florida race | Politico](https://www.politico.com/news/florida-senate-special-election-2026)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - {{src:src_001926}} (Tier 1) (VERIFIED)
+- {{src:src_001928}} (Tier 1) (VERIFIED)
+
+---
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Florida 2026 Senate Special Election | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Florida,_2026)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Ballotpedia: Ashley Moody political career and campaign finances](https://ballotpedia.org/Ashley_Moody)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Cory Mills and Republican primary challengers in Florida race | Politico](https://www.politico.com/news/florida-senate-special-election-2026)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Sugar industry political spending in Florida | FollowTheMoney](https://www.followthemoney.org/Security/login?BackURL=/entity/c/1087342)~~ (was Tier 1, login redirect, FollowTheMoney broken. Replaced with FEC PAC above)
 - ~~[U.S. Sugar federal subsidies and lobbying 2000-2026 | Environmental Working Group](https://www.ewg.org/news-insights/news/sugar-subsidies-analysis)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- {{src:src_001928}} (Tier 1) (VERIFIED)
 - ~~[Real estate developer contributions to Florida politicians | OpenSecrets](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1, blank receipts page with no filters. Replaced with filtered FEC search above)
 - ~~[DeSantis donor network coordination through official channels | Tampa Bay Times](https://www.tampabay.com/news/florida-politics/2026/03/desantis-donor-network-moody-campaign)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - ~~[Florida homeowners insurance crisis and rate increases 2023-2025 | Florida Office of Insurance Regulation Reports](https://www.floir.com/reports)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - ~~[Insurance industry political spending during hurricane season | CAP Watch](https://web.archive.org/web/2023/https:/www.capwatch.org/florida-insurance-spending)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - ~~[Homeowners Insurance PAC contributions to Florida politicians | FollowTheMoney Insurance PAC Data](https://www.followthemoney.org/Security/login?BackURL=/entity/c/florida-homeowners-insurance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-
----
-

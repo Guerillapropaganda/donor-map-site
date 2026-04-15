@@ -173,7 +173,6 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 - {{src:src_004533}} (Tier 1) (VERIFIED)
 - {{src:src_004533}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/bruce-westerman/W000821)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Natural Resources Committee: Chairman Westerman](https://naturalresources.house.gov/about/chairman.htm) (Tier 1) (VERIFIED)
 - [Public Domain Media: House Natural Resources Chair's Oil Stock Purchases Were Unusual](https://www.publicdomain.media/p/bruce-westerman-stocks) (Tier 2) (VERIFIED)
 - [Arkansas Times: Democratic lawmaker rips Westerman for buying stock in oil companies overseen by his committee](https://arktimes.com/arkansas-blog/2025/05/09/democratic-lawmaker-rips-westerman-for-buying-stock-in-oil-companies-overseen-by-his-congressional-committee) (Tier 2) (VERIFIED)
@@ -244,12 +243,18 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 | 289 | Expressing support for the designation of April 2025 as "Second Chance Month". | Referred to the House Committee on the Judiciary. |
 | 1897 | ESA Amendments Act of 2025 | Placed on the Union Calendar, Calendar No. 489. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000821)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/bruce-westerman/W000821)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000821)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bruce Westerman](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

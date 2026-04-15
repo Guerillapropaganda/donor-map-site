@@ -179,7 +179,6 @@ Moore's FY2026 budget ($67.3 billion) includes corporate tax rate cuts, $100 mil
 - [Maryland Matters: Moore's brisk fundraising pace continues in office](https://marylandmatters.org/2024/01/18/moores-brisk-fundraising-pace-continues-in-office-but-he-also-spends-liberally/) (Tier 2) (VERIFIED)
 - [Maryland Matters: Moore finally gets his Bronze Star](https://marylandmatters.org/briefs/moore-finally-gets-his-bronze-star-years-after-his-service-in-afghanistan/) (Tier 2) (VERIFIED)
 - [Maryland Matters: Moore says he was 'attacked' over Bronze Star claim](https://marylandmatters.org/2024/09/06/moore-says-he-was-attacked-over-bronze-star-claim/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Wes Moore steps into Democratic presidential spotlight for 2028](https://thehill.com/homenews/campaign/5291195-maryland-gov-wes-moore-national-profile/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: Moore to give commencement addresses in 2028 battleground states](https://www.cbsnews.com/news/wes-moore-commencement-addresses-2028-battleground-states/) (Tier 2) (VERIFIED)
 - [NBC News: Maryland Gov. Wes Moore says he's ruling out a presidential run in 2028](https://www.nbcnews.com/politics/2028-election/maryland-governor-wes-moore-ruling-out-presidential-run-redistricting-rcna229615) (Tier 2) (VERIFIED)
 - [Free Beacon: Moore says KKK chased his great-grandfather, historical records tell different story](https://freebeacon.com/democrats/wes-moore-says-the-kkk-chased-his-great-grandfather-out-of-south-carolina-historical-records-tell-a-different-story/) (Tier 4) (VERIFIED)
@@ -199,3 +198,9 @@ Moore's FY2026 budget ($67.3 billion) includes corporate tax rate cuts, $100 mil
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Wes Moore steps into Democratic presidential spotlight for 2028](https://thehill.com/homenews/campaign/5291195-maryland-gov-wes-moore-national-profile/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -167,7 +167,6 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 
 ## Sources
 
-- ~~[Congress.gov: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003659}} (Tier 1) (VERIFIED)
 - [U.S. Senator Bill Cassidy official statement on impeachment conviction vote](https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-votes-to-convict-president-donald-trump/) (Tier 1) (VERIFIED)
 - [Rolling Stone: Louisiana GOP Censures Sen. Cassidy Who 'Voted to Convict President Trump Because He Is Guilty'](https://www.rollingstone.com/politics/politics-news/louisiana-gop-censures-cassidy-trump-impeachment-vote-1128332/) (Tier 2) (VERIFIED)
@@ -175,7 +174,6 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 - [NOLA.com: 'It's a slam upon our state': Sen. Bill Cassidy rebukes Joe Biden over 'Cancer Alley' remarks](https://www.nola.com/news/environment/article_98b5dd56-665c-11eb-993d-ab9537e3b12f.html) (Tier 2) (VERIFIED)
 - [Cook Political Report: Bayou Battle Looms as Cassidy Tries To Repent From Trump Impeachment Vote](https://www.cookpolitical.com/analysis/senate/louisiana-senate/bayou-battle-looms-cassidy-tries-repent-trump-impeachment-vote) (Tier 2) (VERIFIED)
 - [NBC News: GOP Sen. Bill Cassidy draws primary challenger citing Trump impeachment vote](https://www.nbcnews.com/politics/congress/gop-sen-bill-cassidy-draws-primary-challenger-trump-impeachment-rcna182940) (Tier 2) (VERIFIED)
-- ~~[19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [U.S. Senator Bill Cassidy: Bipartisan group introduces nation's first comprehensive CO2 infrastructure bill](https://www.cassidy.senate.gov/newsroom/press-releases/bipartisan-group-introduces-nations-first-comprehensive-co2-infrastructure-bill/) (Tier 1) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
@@ -213,3 +211,10 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

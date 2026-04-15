@@ -158,7 +158,6 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 - [Salon/Detroit News: post-J6 fundraising boom](https://www.salon.com/2021/03/18/josh-hawley-marjorie-taylor-greene-report-record-donations-as-gop-sees-post-riot-financial-boom/) (Tier 2) (VERIFIED)
 - [STLPR: 2018 outside money analysis](https://www.stlpr.org/2019-04-17/dark-money-groups-spent-millions-to-influence-missouri-voters-report-finds) (Tier 2) (VERIFIED)
 - [Missouri Independent: out-of-state donor analysis](https://missouriindependent.com/2023/10/23/hawley-kunce-draw-heavily-on-donors-outside-missouri-to-fuel-u-s-senate-campaigns/) (Tier 2) (VERIFIED)
-- ~~[The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -235,3 +234,9 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill/CNN: corporate PAC pledge analysis](https://thehill.com/homenews/senate/4288563-hawley-mcconnell-battle-gut-citizens-united-ruling/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -67,7 +67,6 @@ The structural parallel to the Koch network is exact. Conservative donors coordi
 
 ### Sources
 
-- ~~[IRS: Democracy Alliance-funded 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=National%20Progressive%20Donor%20Networks&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Progressive donor networks](https://ballotpedia.org/National_Progressive_Donor_Networks) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
@@ -107,3 +106,9 @@ The structural parallel to the Koch network is exact. Conservative donors coordi
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS: Democracy Alliance-funded 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=National%20Progressive%20Donor%20Networks&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

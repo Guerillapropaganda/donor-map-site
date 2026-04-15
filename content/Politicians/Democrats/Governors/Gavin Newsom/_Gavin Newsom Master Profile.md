@@ -286,5 +286,10 @@ The genuine wins are real and should not be dismissed. Universal transitional ki
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Gavin Newsom](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Gavin Newsom](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

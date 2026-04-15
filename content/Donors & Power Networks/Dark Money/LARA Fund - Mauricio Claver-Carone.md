@@ -112,7 +112,6 @@ The LARA Fund is not a traditional donor node, it is the structural endpoint of 
 
 - [American Presidency Project: Trump announces Claver-Carone nomination as Special Envoy](https://www.presidency.ucsb.edu/documents/statement-president-elect-donald-j-trump-announcing-the-nomination-mauricio-claver-carone) (Tier 1) (VERIFIED)
 - [LatinFinance: PE fund seeks $750M for LatAm prospects](https://latinfinance.com/daily-brief/2024/08/21/pe-fund-seeks-750-mln-for-latam-prospects/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Former Trump Aide Seeks Middle East Investors for Latin America](https://www.bloomberg.com/news/articles/2024-12-20/former-trump-aide-seeks-middle-east-investors-for-latin-america)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Mauricio Claver-Carone](https://en.wikipedia.org/wiki/Mauricio_Claver-Carone) (Tier 3) (VERIFIED)
 - [CiberCuba: Cuban-American Claver-Carone will leave the Trump Administration](https://en.cibercuba.com/noticias/2025-05-11-u1-e208512-s27061-nid302550-cubanoamericano-mauricio-claver-carone-abandonara) (Tier 2) (VERIFIED)
 - [LARA Fund: About Us](https://larafund.com/about-us/) (Tier 4) (VERIFIED)
@@ -120,3 +119,9 @@ The LARA Fund is not a traditional donor node, it is the structural endpoint of 
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Former Trump Aide Seeks Middle East Investors for Latin America](https://www.bloomberg.com/news/articles/2024-12-20/former-trump-aide-seeks-middle-east-investors-for-latin-america)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

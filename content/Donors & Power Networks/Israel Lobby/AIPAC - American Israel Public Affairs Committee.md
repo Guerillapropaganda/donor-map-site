@@ -349,7 +349,6 @@ AIPAC called for "crippling" sanctions on Iran in a 2012 letter to every member 
 
 - [Chicago Sun-Times: $31M super PAC blitz in 4 congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2)
 - [Washington Monthly: Crypto, AIPAC corrupting Democratic primaries](https://washingtonmonthly.com/2026/03/17/crypto-aipac-corrupting-democratic-primaries/) (Tier 2)
-- ~~[Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ### Illinois Primary Results (March 17, 2026). Updated March 22:
@@ -365,7 +364,6 @@ AIPAC-backed candidates won **2 of 4** targeted Chicago-area House races, a mixe
 > AIPAC's 2026 cumulative direct contributions: **$28 million** delivered to congressional campaigns in the 2025-2026 cycle (Sludge/FEC analysis, March 2026). Through H1 2025 alone, AIPAC PAC reported $12.75M in contributions, more than **3x the next-largest PAC** (National Association of Realtors). Total 2026 cycle outside spending across all vehicles is on pace to exceed $200M.
 
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
-- ~~[Axios: AIPAC notches first real 2026 Democratic primary wins](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: AIPAC spent $12M losing Illinois primary elections](https://www.newsweek.com/aipac-illinois-democratic-primary-elections-11694996) (Tier 2) (VERIFIED)
 - [Al Jazeera: Pro-Israel groups see mixed record in Illinois primaries](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2) (VERIFIED)
 - [WBEZ: Super PAC scorecard. Illinois primary spending](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
@@ -454,11 +452,9 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 **Cycle total:** AIPAC's total 2025-2026 cycle spending now documented at $28M direct contributions + $21M+ Illinois outside spending + undisclosed amounts through satellite PACs nationally.
 
 - [Chicago Tribune: AIPAC funded secretive PACs in Democratic primaries](https://www.chicagotribune.com/2026/03/23/aipac-behind-secretive-pacs-primaries/) (Tier 2) (VERIFIED)
-- ~~[Axios: Pritzker tries to put AIPAC donations behind him](https://www.axios.com/2026/03/22/pritzker-aipac-donations)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Political Wire: Pritzker dodges AIPAC questions](https://politicalwire.com/2026/03/23/pritzker-dodges-questions-on-past-aipac-donations/) (Tier 3) (VERIFIED)
 - [Washington Post: Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary](https://www.washingtonpost.com/politics/2026/03/18/illinois-election-primary-aipac-money/77dbe0fe-2320-11f1-954a-6300919c9854_story.html) (Tier 2) (VERIFIED)
 - [Jewish Telegraphic Agency: Pritzker Once Sat on AIPAC’s National Board](https://www.jta.org/2026/03/19/politics/jb-pritzker-once-sat-on-aipacs-national-board-now-he-says-he-wants-nothing-to-do-with-it) (Tier 2) (VERIFIED)
-- ~~[The Hill: Pritzker Criticizes AIPAC’s Spending in Illinois Primaries](https://thehill.com/homenews/campaign/5791548-jb-pritzker-aipac-illinois-races/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -474,7 +470,6 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 > AIPAC's public messaging emphasizes broad bipartisan support for Israel among American voters. Yet the organization's operatives keep creating new shell PACs with names designed to hide the Israel connection, "Affordable Chicago Now" in Illinois, "Article One PAC" in North Carolina. If the position is as popular as AIPAC claims, why does the money need to be hidden?
 
 - [Read Sludge: AIPAC donor-tied group drops six figures for Foushee](https://readsludge.com/2026/02/26/aipac-donor-tied-group-drops-six-figures-for-foushee-2/) (Tier 2) (VERIFIED)
-- ~~[Duke Chronicle: PAC funded by AIPAC donor backs Foushee in NC-04 primary](https://dukechronicle.com/article/duke-university-north-carolina-congressional-race-district-4-valerie-foushee-aipac-funds-nida-allam-20260227)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NC Newsline: Outsiders spent nearly $4.2M in NC-04 primary, most expensive in state history](https://ncnewsline.com/2026/02/27/outsiders-spent-nearly-4-2m-in-nc-04-primary-most-expensive-in-state-history/) (Tier 2) (VERIFIED)
 
 ---
@@ -558,12 +553,22 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530217164) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: AIPAC notches first real 2026 Democratic primary wins](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Pritzker tries to put AIPAC donations behind him](https://www.axios.com/2026/03/22/pritzker-aipac-donations)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Pritzker Criticizes AIPAC’s Spending in Illinois Primaries](https://thehill.com/homenews/campaign/5791548-jb-pritzker-aipac-illinois-races/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Duke Chronicle: PAC funded by AIPAC donor backs Foushee in NC-04 primary](https://dukechronicle.com/article/duke-university-north-carolina-congressional-race-district-4-valerie-foushee-aipac-funds-nida-allam-20260227)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530217164/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530217164) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

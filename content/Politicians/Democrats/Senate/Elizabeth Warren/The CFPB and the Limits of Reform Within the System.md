@@ -204,7 +204,6 @@ The 2025 destruction reveals the pilot's function: it was permitted as long as i
 
 ### Sources
 
-- ~~[Consumer Financial Protection Bureau: History of the CFPB](https://www.consumerfinance.gov/about-us/newsroom/statements-speeches/history-of-the-cfpb/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CFPB: About Us - Consumer Relief](https://www.consumerfinance.gov/about-us/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Elizabeth Warren donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00009497&cycle=Career) (Tier 1) (VERIFIED)
 - [Boston Globe: CFPB shutdown: Elizabeth Warren fights to save agency she conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
@@ -212,3 +211,9 @@ The 2025 destruction reveals the pilot's function: it was permitted as long as i
 - [Wikipedia: Consumer Financial Protection Bureau](https://en.wikipedia.org/wiki/Consumer_Financial_Protection_Bureau) (Tier 3) (VERIFIED)
 - [U.S. Senator Elizabeth Warren: Consumer Financial Protection Bureau resources](https://www.warren.senate.gov/newsroom/press-releases) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Consumer Financial Protection Bureau: History of the CFPB](https://www.consumerfinance.gov/about-us/newsroom/statements-speeches/history-of-the-cfpb/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

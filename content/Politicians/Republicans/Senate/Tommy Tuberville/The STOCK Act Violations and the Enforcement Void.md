@@ -76,7 +76,12 @@ The pattern is consistent: transparency rules pass when politically convenient; 
 - [CNBC: Tuberville STOCK Act violations, 130+ trades](https://www.cnbc.com/2021/07/27/china-critic-sen-tommy-tuberville-of-alabama-violated-stock-act.html) (Tier 1) (VERIFIED)
 - [Alabama Reporter: Tuberville defense stock trading while on Armed Services Committee](https://www.alreporter.com/2024/12/30/tuberville-involved-in-defense-stock-trading-while-on-armed-services-committee/) (Tier 2) (VERIFIED)
 - [Alabama Reporter: Tuberville stock trading raises conflict-of-interest questions](https://www.alreporter.com/2023/08/21/tubervilles-stock-trading-raises-questions-about-potential-insider-trading/) (Tier 2) (VERIFIED)
-- ~~[Campaign Legal Center: Tuberville infrastructure trades conflict of interest](https://campaignlegal.org/media-mentions/tommy-tubervilles-stock-trades-during-infrastructure-talks-raise-questions-about)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Alabama Reporter: Watchdog files ethics complaint against Tuberville](https://www.alreporter.com/2021/08/02/watchdog-group-files-ethics-complaint-against-sen-tuberville/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Tuberville campaign finance and personal finances](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Washington Post: Members of Congress face tests on stock trading and staff unionization](https://www.washingtonpost.com/opinions/2022/02/09/congress-ethical-test/) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Campaign Legal Center: Tuberville infrastructure trades conflict of interest](https://campaignlegal.org/media-mentions/tommy-tubervilles-stock-trades-during-infrastructure-talks-raise-questions-about)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Tuberville campaign finance and personal finances](https://www.congress.gov/search?q=Tommy%20Tuberville&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

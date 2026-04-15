@@ -308,7 +308,6 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 
 - {{src:src_001236}} (Tier 1) (VERIFIED)
 - [CREW: Majority Forward investigation](https://publicintegrity.org/politics/how-democrats-use-dark-money-and-win-elections/) (Tier 2) (VERIFIED)
-- ~~[Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: How Philanthropist David Rubenstein Helped Save a Tax Break Billionaires Love](https://www.propublica.org/article/how-david-rubenstein-helped-save-the-carried-interest-tax-loophole) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto PAC Fairshake and Schumer crypto pivot](https://www.coindesk.com/policy) (Tier 2) (VERIFIED)
 - New York Times: Schumer-Wall Street relationship, Israel speech analysis (Tier 2)
@@ -319,7 +318,6 @@ conte
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Chuck Schumer](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -349,7 +347,6 @@ conte
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S000148)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -359,5 +356,13 @@ conte
 - Senate Committee on Rules and Administration
 - Senate Select Committee on Intelligence
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: Tech antitrust bill killed without floor vote, $277M tech lobbying](https://www.politico.com/story/2022/03/28/tech-companies-kill-antitrust-bills-1231482)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Chuck Schumer](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S000148)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

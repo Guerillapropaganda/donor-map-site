@@ -187,11 +187,9 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 
 ### Sources
 
-- ~~[OpenSecrets: Sinclair Broadcasting company profile](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NPR: Sinclair Broadcast Group Forces Nearly 200 Station Anchors To Read Same Script](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script) (Tier 2) (VERIFIED)
 - [NPR: Sinclair Broadcasting and local news consolidation](https://www.npr.org/2018/04/02/598916366/sinclair-broadcast-group-forces-nearly-200-station-anchors-to-read-same-script) (Tier 2) (VERIFIED)
 - [FCC: Broadcast station ownership limits and Sinclair compliance](https://www.fcc.gov/document/sinclair-broadcast-group-approval) (Tier 1) (NEEDS REVIEW)
-- ~~[Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -220,11 +218,6 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 **Filing history:** 2019, 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2018)~~ (URL broken, archived by Ops)
-- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2017)~~ (URL broken, archived by Ops)
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2016)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2015)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/465691580) (Tier 1) (VERIFIED)
@@ -283,5 +276,17 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 - Franchise Group Acquisition TM, LLC (2024) — United States Bankruptcy Court, D. Delaware
 - Franchise Group, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcasting%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Sinclair Broadcasting company profile](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Pew Research: Local news trust and Sinclair's market penetration](https://www.pewresearch.org/journalism/2023/06/13/local-news-media-landscape/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/465691580/2015)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcasting%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

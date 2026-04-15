@@ -89,5 +89,10 @@ Opposition to broad student loan forgiveness (which would reduce the loan portfo
 **Notable cases:**
 - STUDENT LOAN SERVICING ALLIANCE v. TAYLOR (2018) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Student%20Loan%20Servicer%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Student%20Loan%20Servicer%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

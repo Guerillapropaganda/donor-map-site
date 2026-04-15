@@ -204,7 +204,6 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - [Senate LDA Filings: Squire Patton Boggs Lobbyists 2023. Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Squire Patton Boggs Issues Lobbied 2023](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Bloomberg Law: Trump Defense Secretary Esper Joins Squire Patton Boggs](https://news.bloomberglaw.com/business-and-practice/trump-defense-secretary-esper-joins-squire-patton-boggs) (Tier 2) (VERIFIED)
-- ~~[The Hill: Lobbying World. DHS assistant secretary jumps to Squire Patton Boggs](https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Bloomberg Law: Assange Allies Turn to Squire Patton Boggs to Help Lobby DOJ](https://news.bloomberglaw.com/us-law-week/assange-allies-turn-to-squire-patton-boggs-to-help-lobby-doj) (Tier 2) (VERIFIED)
 - [Prism Reports: RSS hires U.S. lobbyists for congressional influence campaign](https://prismreports.org/2025/11/12/rss-squire-patton-boggs-lobbying-congress/) (Tier 2) (VERIFIED)
 - [Prism Reports: RSS ends congressional lobbying campaign in U.S.](https://prismreports.org/2026/01/29/rss-lobbying-terminated/) (Tier 2) (VERIFIED)
@@ -242,7 +241,6 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - Embassy of the Republic of Korea (KOREA SOUTH)
 - Palestinian Authority (PALESTINE)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Corporate Structure (GLEIF)
@@ -279,5 +277,13 @@ This is what $23 million a year buys in a world where Patton Boggs once billed $
 - IN RE: The University of Phoenix, Inc., Data Breach Litigation (2026) — United States Judicial Panel on Multidistrict Litigation
 - Urban Red LLC (2026) — United States Bankruptcy Court, E.D. North Carolina
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Squire%20Patton%20Boggs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Lobbying World. DHS assistant secretary jumps to Squire Patton Boggs](https://thehill.com/homenews/4465281-lobbying-world-dhs-assistant-secretary-jumps-to-squire-patton-boggs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Squire%20Patton%20Boggs,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Squire%20Patton%20Boggs%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

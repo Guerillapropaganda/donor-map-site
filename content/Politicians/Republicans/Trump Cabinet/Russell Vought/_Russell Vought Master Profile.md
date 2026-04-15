@@ -138,11 +138,16 @@ The Christian nationalist framework provides the moral architecture. Vought has 
 - [PBS NewsHour: Russell Vought OMB influence](https://www.pbs.org/newshour/show/a-look-at-russell-voughts-influence-and-his-push-to-reshape-the-government) (Tier 2) (VERIFIED)
 - [Government Executive: Vought confirmation and Schedule F](https://www.govexec.com/management/2025/02/russ-vought-champion-schedule-f-and-slashing-agency-budgets-wins-confirmation-omb/402823/) (Tier 2) (VERIFIED)
 - [Heritage Foundation: Project 2025 Mandate for Leadership](https://www.heritage.org/press/project-2025-publishes-comprehensive-policy-guide-mandate-leadership-the-conservative-promise) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Center for Renewing America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_Renewing_America)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-- ~~[Baptist News Global: Vought Christian nationalist statements](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Congress.gov: Russell Vought fundraising and contributions](https://www.congress.gov/search?q=Search&searchResultViewType=expanded) (Tier 1) (VERIFIED)
 
 ## Committee Assignments (Congress.gov)
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Center for Renewing America](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_Renewing_America)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Baptist News Global: Vought Christian nationalist statements](https://baptistnews.com/article/russell-vought-the-gung-ho-christian-nationalist-who-helps-trump-be-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

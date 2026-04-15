@@ -196,7 +196,6 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 | Net Assets | $172K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 300451687](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_27-30%2F300451687_201912_990EZ_2021051918142012.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -214,11 +213,6 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 **Filing history:** 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012
 
 **View 990 filings:**
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2018)~~ (URL broken, archived by Ops)
-- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2017)~~ (URL broken, archived by Ops)
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2016)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2015)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300451687) (Tier 1) (VERIFIED)
@@ -255,5 +249,16 @@ Preservation of the Renewable Fuel Standard, expansion of E15 (15% ethanol blend
 - REH Company, LLC v. EPA (2025) — Court of Appeals for the D.C. Circuit
 - EXO Opportunity Fund, LLC v. Patriot Renewable Fuels, LLC (2025) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ethanol%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=05_2021_prefixes_27-30%2F300451687_201912_990EZ_2021051918142012.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/300451687/2015)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ethanol%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

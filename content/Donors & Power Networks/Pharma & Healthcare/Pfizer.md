@@ -267,14 +267,10 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - [The Intercept: Pfizer CEO Complains About Lower Drug Prices Under IRA](https://theintercept.com/2022/08/03/pfizer-investors-drug-pricing/) (Tier 2) (VERIFIED)
 - [OpenSecrets: Despite Record Lobbying, Pharma Lost Biggest Legislative Bet](https://www.opensecrets.org/news/2023/02/despite-record-federal-lobbying-spending-the-pharmaceutical-and-health-product-industry-lost-their-biggest-legislative-bet-in-2022/) (Tier 2) (VERIFIED)
 - [STAT News: HHS Shuts Door on mRNA Vaccine Research](https://www.statnews.com/2025/08/05/mrna-vaccine-development-canceled-by-kennedy-hhs/) (Tier 2) (VERIFIED)
-- ~~[Fortune: Germany Funded Pfizer's COVID Vaccine Development](https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[The Hill: Pfizer Doubles Paxlovid Price](https://thehill.com/homenews/4264609-pfizer-plans-to-more-than-double-price-of-covid-medication-paxlovid/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Stanford Law: FDA's Revolving Door — Reckoning and Reform](https://law.stanford.edu/publications/fdas-revolving-door-reckoning-and-reform/) (Tier 2) (VERIFIED)
-- ~~[Science: FDA's Revolving Door — Companies Often Hire Staffers Who Managed Reviews](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Quartz: Yet Another FDA Commissioner Joins Pharma](https://qz.com/1656529/yet-another-fda-commissioner-joins-the-pharmaceutical-industry) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Big Pharma](https://therevolvingdoorproject.org/the-industry-agenda-big-pharma/) (Tier 2) (VERIFIED)
 - [BioPharma Dive: Pfizer, Amgen, Lilly Spent Most to Lobby Congress](https://www.biopharmadive.com/news/pharma-lobbying-congress-jama-study/573496/) (Tier 2) (VERIFIED)
-- ~~[MSF: Response to Pfizer-MPP Paxlovid License](https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -304,7 +300,6 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 - ~~[Pfizer Recalls Nurtec ODT Prescription Drugs Due to Failure to Meet Child Resistant Packaging Requirement; Risk of Poisoning](https://www.cpsc.gov/Recalls/23154)~~ (URL broken, archived by Ops) (2023-03-16) — The recalled prescription drugs must be in child resistant packaging as required by the Poison Prevention Packaging Act (PPPA). The packaging of the products is not child resistant, posing a risk of poisoning if the contents are swallowed by young children.
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Pfizer%20Inc.)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### SEC Filing Activity
@@ -342,7 +337,6 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 - HYMES v. PFIZER INC (2026) — District Court, N.D. Florida
 - REUTER v. PFIZER INC (2026) — District Court, N.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pfizer%20Inc.%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2016)
@@ -357,7 +351,6 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 | Net Assets | $1.4M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 132986156](https://projects.propublica.org/nonprofits/organizations/132986156) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_06-13%2F132986156_201612_990O_2018010315075922.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -476,12 +469,24 @@ _Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer In
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2013, 2012, 2011
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136083839) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Fortune: Germany Funded Pfizer's COVID Vaccine Development](https://fortune.com/2020/11/09/pfizer-vaccine-funding-warp-speed/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[The Hill: Pfizer Doubles Paxlovid Price](https://thehill.com/homenews/4264609-pfizer-plans-to-more-than-double-price-of-covid-medication-paxlovid/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Science: FDA's Revolving Door - Companies Often Hire Staffers Who Managed Reviews](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[MSF: Response to Pfizer-MPP Paxlovid License](https://msfaccess.org/msf-response-license-between-pfizer-and-medicines-patent-pool-for-new-covid-19-treatment-paxlovid)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Pfizer%20Inc.)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pfizer%20Inc.%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_06-13%2F132986156_201612_990O_2018010315075922.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/136083839/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136083839) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

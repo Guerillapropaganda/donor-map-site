@@ -128,8 +128,6 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 
 - [Senate LDA Filings: IBEW organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 2) (VERIFIED)
 - {{src:src_011679}} (Tier 1) (VERIFIED)
-- ~~[U.S. Department of Labor: Davis-Bacon prevailing wage](https://www.dol.gov/agencies/whd/government-contracts/prevailing-wage)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Infrastructure Investment and Jobs Act (IIJA)](https://www.congress.gov/bill/117th-congress/house-bill/3684)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -216,3 +214,10 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[U.S. Department of Labor: Davis-Bacon prevailing wage](https://www.dol.gov/agencies/whd/government-contracts/prevailing-wage)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Infrastructure Investment and Jobs Act (IIJA)](https://www.congress.gov/bill/117th-congress/house-bill/3684)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

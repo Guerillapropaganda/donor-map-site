@@ -203,7 +203,6 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 - [OpenSecrets: Maria Cantwell net worth](https://www.opensecrets.org/personal-finances/maria-cantwell/net-worth?cid=N00007836) (Tier 1) (VERIFIED)
 - [Senate.gov: Maria Cantwell about](https://www.cantwell.senate.gov/about/biography) (Tier 1) (VERIFIED)
 - [Senate.gov: Cantwell takes over as Commerce Committee Chair](https://www.cantwell.senate.gov/news/press-releases/cantwell-takes-over-as-chair-of-senate-committee-on-commerce-science-and-transportationfirst-woman-to-chair-the-committee) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: FAA Reauthorization Act](https://www.congress.gov/bill/118th-congress/senate-bill/1939)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Spokesman-Review: Cantwell 2024 race and donors](https://www.spokesman.com/stories/2024/sep/17/facing-steep-odds-in-senate-race-against-maria-can/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Maria Cantwell](https://ballotpedia.org/Maria_Cantwell) (Tier 3) (VERIFIED)
 - [Wikipedia: Maria Cantwell](https://en.wikipedia.org/wiki/Maria_Cantwell) (Tier 3) (VERIFIED)
@@ -281,7 +280,6 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 | 04/28/2016 | RNWK | Sale | $1,001 - $15,000 | Self |
 | 01/16/2014 | N/A | other | Unknown | N/A |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -363,5 +361,12 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C000127)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: FAA Reauthorization Act](https://www.congress.gov/bill/118th-congress/senate-bill/1939)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C000127)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

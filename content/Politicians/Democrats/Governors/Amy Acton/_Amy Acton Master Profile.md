@@ -203,9 +203,7 @@ Her contrast to [[_Vivek Ramaswamy Master Profile|Ramaswamy]] is particularly ef
 - [NPR: Public Health Officials Discuss Why They Quit During COVID-19](https://www.npr.org/2020/08/06/899679894/public-health-officials-discuss-why-they-quit-during-the-covid-19-pandemic) (Tier 2) (VERIFIED)
 - [Washington Post: Ohio's Amy Acton inspires admiration, and a backlash](https://www.washingtonpost.com/national/a-white-coated-hero-or-a-medical-dictator-ohios-amy-acton-inspires-admiration-and-a-backlash-with-tough-coronavirus-response/2020/05/17/fa00cd1c-96d4-11ea-82b4-c8db161ff6e5_story.html) (Tier 2) (VERIFIED)
 - [DOJ: Former Ohio House Speaker Sentenced to 20 Years. Racketeering Conspiracy](https://www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-sentenced-20-years-prison-leading-racketeering-conspiracy) (Tier 1) (VERIFIED)
-- ~~[Ohio Legislature: House Bill 442. Limiting Health Director Emergency Powers](https://www.legislature.ohio.gov/legislation/133/hb442)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Cleveland Jewish News: Protesters gather outside Dr. Amy Acton's home](https://www.clevelandjewishnews.com/news/local_news/protesters-gather-outside-of-dr-amy-acton-s-home/article_fc0a516c-8d7b-11ea-b3ef-fbbfcd2244ef.html) (Tier 2) (VERIFIED)
-- ~~[Ohio Secretary of State: Campaign Finance Filing & Compliance](https://www.ohiosos.gov/elections/campaign-finance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -249,3 +247,10 @@ party:: Democrat
 
 ## Committee Assignments (Congress.gov)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Ohio Legislature: House Bill 442. Limiting Health Director Emergency Powers](https://www.legislature.ohio.gov/legislation/133/hb442)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ohio Secretary of State: Campaign Finance Filing & Compliance](https://www.ohiosos.gov/elections/campaign-finance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

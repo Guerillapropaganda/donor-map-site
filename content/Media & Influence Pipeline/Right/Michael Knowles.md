@@ -132,7 +132,6 @@ The Daily Wire model, billionaire-funded, subscription-protected, ideology-first
 ### Sources
 
 - [The Daily Wire. Wikipedia](https://en.wikipedia.org/wiki/The_Daily_Wire) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- ~~[Michael Knowles (political commentator). Wikipedia](https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator)~~ (URL broken, archived by Ops)) (Tier 2) (Chrome verified 2026-03-27)
 - [The Michael Knowles Show. Daily Wire](https://www.dailywire.com/show/the-michael-knowles-show) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
 - [The Michael Knowles Show. Spotify](https://open.spotify.com/show/3TdABllOVzlzharkEdaiWg) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
 - [What Is a Woman?. Daily Wire Films](https://www.dailywire.com/episode/ep-970-what-is-a-woman) (Tier 3) (VERIFIED) (Chrome verified 2026-03-27)
@@ -142,3 +141,9 @@ The Daily Wire model, billionaire-funded, subscription-protected, ideology-first
 - [Media Bias/Fact Check: The Daily Wire](https://mediabiasfactcheck.com/the-daily-wire/) (Tier 3) (VERIFIED) (WebFetch verified 2026-03-27)
 - [FEC: Michael Knowles individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=KNOWLES%2C+MICHAEL) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Michael Knowles (political commentator). Wikipedia](https://en.wikipedia.org/wiki/Michael_Knowles_(political_commentator)~~ (URL broken, archived by Ops)) (Tier 2) (Chrome verified 2026-03-27)

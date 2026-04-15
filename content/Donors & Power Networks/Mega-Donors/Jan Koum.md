@@ -198,7 +198,6 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 ### Sources
 
 ### Net Worth & Background:
-- ~~[Bloomberg Billionaires Index. Jan Koum](https://www.bloomberg.com/billionaires/profiles/jan-koum/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia. Jan Koum](https://en.wikipedia.org/wiki/Jan_Koum) (Tier 3) (VERIFIED)
 - [JTA. Jan Koum: Tale of Two Cities](https://www.jta.org/2014/02/21/culture/whatsapp-ceo-jan-koums-tale-of-two-cities) (Tier 2) (VERIFIED)
 
@@ -251,7 +250,6 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 - AbouYabis v. Emory University (2025) — District Court, N.D. Georgia
 - Yeyille v. Greenberg Traurig, P.A. (2025) — District Court, S.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jan%20Koum%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Influence Network (Cross-Reference)
@@ -310,5 +308,12 @@ The pro-Israel spending is the other major vector. Koum donated $2 million to AI
 - 2016-05-26 — **4**: PRIMARY DOCUMENT
 - 2015-05-01 — **4**: PRIMARY DOCUMENT
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jan%20Koum%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg Billionaires Index. Jan Koum](https://www.bloomberg.com/billionaires/profiles/jan-koum/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jan%20Koum%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jan%20Koum%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

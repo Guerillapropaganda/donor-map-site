@@ -162,7 +162,6 @@ Galloway's consistent positions across all platforms and political periods:
 
 - [George Galloway. Wikipedia](https://en.wikipedia.org/wiki/George_Galloway) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
 - [The Mother of All Talk Shows. Wikipedia](https://en.wikipedia.org/wiki/The_Mother_of_All_Talk_Shows) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
-- ~~[Sputnik (TV programme). Wikipedia](https://en.wikipedia.org/wiki/Sputnik_(TV_programme)~~ (URL broken, archived by Ops)) (Tier 3) (Chrome-verified 2026-03-27)
 - [Press Gazette: MPs paid £150,000 for journalism work. Galloway equals MP salary in four months](https://pressgazette.co.uk/publishers/nationals/mps-paid-150000-in-six-months-for-journalism-work-with-george-galloway-equalling-his-mp-salary-in-four-months/) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
 - [HuffPost UK: George Galloway Doubles Pay Packet With Appearances On Russia Today And Al-Mayadeen (July 2014)](https://www.huffingtonpost.co.uk/2014/07/11/george-galloway-russia-today_n_5577661.html) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
 - [HuffPost UK: George Galloway's Skripal Coverage On RT Broke Broadcasting Rules, Says Ofcom](https://www.huffingtonpost.co.uk/entry/george-galloway-skripal_uk_5c1b6999e4b0407e90776ad8) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
@@ -171,3 +170,9 @@ Galloway's consistent positions across all platforms and political periods:
 - [Byline Times: After Galloway's Rochdale Victory. What Does His Workers' Party Actually Stand For? (March 2024)](https://bylinetimes.com/2024/03/08/after-george-galloways-rochdale-victory-what-does-his-workers-party-actually-stand-for/) (Tier 2) (VERIFIED) (Chrome-verified 2026-03-27)
 - [South China Morning Post: George Galloway detained under UK terrorism act, questioned on China views (September 2025)](https://www.scmp.com/news/world/europe/article/3327172/ex-british-mp-george-galloway-held-9-hours-counterterror-police-uk-airport) (Tier 3) (VERIFIED) (Chrome-verified 2026-03-27)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Sputnik (TV programme). Wikipedia](https://en.wikipedia.org/wiki/Sputnik_(TV_programme)~~ (URL broken, archived by Ops)) (Tier 3) (Chrome-verified 2026-03-27)

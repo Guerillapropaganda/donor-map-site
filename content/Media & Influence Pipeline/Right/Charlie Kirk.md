@@ -197,11 +197,16 @@ The audience captured by Kirk's content will vote against labor protections, aga
 - {{src:src_001492}} (Tier 1) (VERIFIED)
 - [FEC Independent Expenditures: Turning Point USA Outside Spending 2022](https://www.fec.gov/data/independent-expenditures/) (Tier 1) (NEEDS REVIEW)
 - [Brennan Center for Justice: The Money Behind January 6 Is Flowing into the 2022 Elections](https://www.brennancenter.org/our-work/analysis-opinion/money-behind-january-6-flowing-2022-elections) (Tier 2) (VERIFIED)
-- ~~[The Chronicle of Higher Education: As Turning Point USA Grows, So Does Charlie Kirk's Salary](https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [InfluenceWatch: Turning Point USA](https://www.influencewatch.org/non-profit/turning-point-usa/) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Turning Point USA](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Education Week: How Charlie Kirk's Turning Point USA Is Expanding Its Reach to K-12 Schools](https://www.edweek.org/policy-politics/how-charlie-kirks-turning-point-usa-is-expanding-its-reach-to-k-12-schools/2025/09) (Tier 2) (VERIFIED)
 - [Newsweek: Turning Point USA Sees Huge Donations, Chapters Spread After Charlie Kirk Killing](https://www.newsweek.com/turning-point-usa-donations-chapters-spread-charlie-kirk-2133816) (Tier 3) (VERIFIED)
 - [Al Jazeera: How Charlie Kirk and Turning Point USA helped Trump and MAGA win](https://www.aljazeera.com/news/2025/9/11/how-charlie-kirk-and-turning-point-usa-helped-trump-and-maga-win) (Tier 2) (VERIFIED)
 - [International Business Times: Who Funds Conservative Campus Group Turning Point USA? Donors Revealed](https://www.ibtimes.com/political-capital/who-funds-conservative-campus-group-turning-point-usa-donors-revealed-2620325) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Chronicle of Higher Education: As Turning Point USA Grows, So Does Charlie Kirk's Salary](https://www.chronicle.com/article/as-turning-point-usa-grows-so-does-charlie-kirks-salary)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Turning Point USA](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

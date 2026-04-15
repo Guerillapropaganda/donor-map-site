@@ -136,7 +136,6 @@ Reclaim America PAC is a standard leadership PAC that functions as Rubio's polit
 **Notable cases:**
 - United States v. BANKMAN-FRIED (2022) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reclaim%20America%20PAC%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -151,3 +150,9 @@ Reclaim America PAC is a standard leadership PAC that functions as Rubio's polit
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933113620) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reclaim%20America%20PAC%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

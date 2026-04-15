@@ -295,7 +295,6 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 - [Quiver Quantitative: Congress Trading in Defense](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying%3F) (Tier 2) (VERIFIED)
 
 ### Revolving Door & Compliance:
-- ~~[POGO: Brass Parachutes — Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Senator Warren: Defense Industry Revolving Door Report](https://www.warren.senate.gov/oversight/reports/new-report-from-senator-warren-uncovers-defense-industrys-abuse-of-revolving-door-hiring-practices) (Tier 1) (VERIFIED)
 - [Public Citizen: AI Lobbying Tracking — L3Harris](https://www.citizen.org/article/generative-influence/) (Tier 2) (VERIFIED)
 
@@ -335,7 +334,6 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 - Dow v. L3Harris Technologies, Inc. (2025) — District Court, M.D. Florida
 - Blair v. L3Harris Technologies Inc. (2025) — District Court, N.D. Indiana
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3Harris%20Technologies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -505,3 +503,10 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Brass Parachutes - Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3Harris%20Technologies%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

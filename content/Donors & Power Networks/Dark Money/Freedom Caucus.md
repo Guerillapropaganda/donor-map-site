@@ -168,7 +168,6 @@ The counter-funding dynamic, where Chamber of Commerce, AIPAC, and Main Street P
 - [NBC News: Hard-right Freedom Caucus could be gutted as key members run for new jobs in 2026](https://www.nbcnews.com/politics/congress/hard-right-freedom-caucus-gutted-key-members-run-new-jobs-2026-rcna227209) (Tier 2) (VERIFIED)
 - [NBC News: GOP megadonors finance major campaign against potential House rabble-rousers](https://www.nbcnews.com/politics/2024-election/gop-megadonors-house-freedom-caucus-primaries-rcna140792) (Tier 2) (VERIFIED)
 - [Axios: Wave of exits testing House Freedom Caucus' staying power](https://www.axios.com/2025/09/01/house-freedom-caucus-losing-clout-influence) (Tier 2) (VERIFIED)
-- ~~[The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -242,3 +241,9 @@ The Freedom Caucus, also known as the House Freedom Caucus, is a congressional c
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Freedom_Caucus) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q19881038) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Freedom Caucus urges top funding negotiators to lock in DOGE cuts](https://thehill.com/business/budget/5331509-house-freedom-caucus-demands-budget-cuts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

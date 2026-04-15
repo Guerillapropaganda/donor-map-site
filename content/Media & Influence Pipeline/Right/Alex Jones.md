@@ -206,7 +206,6 @@ Patterns present: **Audience Capture** (psychological, financial, identity, and 
 ### Sources
 
 - [PBS Frontline: United States of Conspiracy](https://www.pbs.org/wgbh/frontline/announcement/united-states-of-conspiracy-documentary/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Infowars' Parent Free Speech Systems Files for Bankruptcy](https://www.bloomberg.com/news/articles/2022-07-30/infowars-parent-free-speech-systems-files-for-bankruptcy)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Deutsche Welle: How to Make Money with Fake News](https://www.dw.com/en/the-conspiracy-business-how-to-make-money-with-fake-news/a-56660466) (Tier 2) (VERIFIED)
 - [New York Magazine: How Does Alex Jones Make Money?](https://nymag.com/intelligencer/2017/05/how-does-alex-jones-make-money.html) (Tier 2) (VERIFIED)
 - [Business Insider: InfoWars Granted White House Press Credentials](https://www.businessinsider.com/infowars-granted-white-house-press-credentials-2017-5) (Tier 2) (VERIFIED)
@@ -214,8 +213,6 @@ Patterns present: **Audience Capture** (psychological, financial, identity, and 
 - [PBS NewsHour: Alex Jones ordered to pay $49.3M](https://www.pbs.org/newshour/nation/alex-jones-ordered-to-pay-49-3m-in-total-damages-over-false-sandy-hook-conspiracy-theories) (Tier 2) (VERIFIED)
 - [AP: Connecticut court upholds $965 million verdict against Alex Jones](https://apnews.com/article/alex-jones-infowars-sandy-hook-024c8397c26e7b504436cb4b761db3fa) (Tier 2) (VERIFIED)
 - [Texas Tribune: Alex Jones ordered to pay nearly $1 billion to Sandy Hook families](https://www.texastribune.org/2022/10/12/alex-jones-sandy-hook-shooting/) (Tier 2) (VERIFIED)
-- ~~[New York Times: Alex Jones Said Bans Would Strengthen Him. He Was Wrong.](https://www.nytimes.com/2018/09/04/technology/alex-jones-infowars-bans-traffic.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[New York Times: Alex Jones's Infowars sold to The Onion at auction](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: DOJ alleges Russia funded company linked to Tim Pool and Benny Johnson](https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars/index.html) (Tier 2) (VERIFIED)
 - [Washington Post: Proud Boys trial evidence shows coordination with Alex Jones on January 6](https://www.washingtonpost.com/dc-md-va/2023/03/07/proud-boys-alex-jones-jan-6/) (Tier 2) (VERIFIED)
 - [January 6 Committee Report, Chapter 8: January 6 Anatomy of an Insurgency](https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/ch8.html) (Tier 1) (VERIFIED)
@@ -232,3 +229,11 @@ Patterns present: **Audience Capture** (psychological, financial, identity, and 
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Infowars' Parent Free Speech Systems Files for Bankruptcy](https://www.bloomberg.com/news/articles/2022-07-30/infowars-parent-free-speech-systems-files-for-bankruptcy)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Alex Jones Said Bans Would Strengthen Him. He Was Wrong.](https://www.nytimes.com/2018/09/04/technology/alex-jones-infowars-bans-traffic.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Alex Jones's Infowars sold to The Onion at auction](https://www.nytimes.com/2024/11/14/business/media/alex-jones-infowars-the-onion.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -153,7 +153,6 @@ The Flex Association was created to prevent the need for another $205 million de
 - Coalition for Workforce Innovation v. Walsh (2021) — District Court, E.D. Texas
 - Bruce S Hamilton (2013) — United States Bankruptcy Court, N.D. Illinois
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Flex%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -171,3 +170,9 @@ The Flex Association was created to prevent the need for another $205 million de
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Flex%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

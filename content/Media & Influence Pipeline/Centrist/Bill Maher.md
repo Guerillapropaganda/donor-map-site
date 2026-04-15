@@ -200,7 +200,6 @@ The Club Random Studios network (Sage Steele, Shane Smith, Billy Corgan) was not
 
 - [Deadline: 'Real Time With Bill Maher' Renewed By HBO Through 2026](https://deadline.com/2024/03/real-time-with-bill-maher-renewed-hbo-2026-1235857494/) (Tier 3) (VERIFIED)
 - [Variety: Bill Maher Gets Two-Season Extension at HBO](https://variety.com/2024/tv/news/bill-maher-real-time-hbo-two-season-extension-1235940853/) (Tier 3) (VERIFIED)
-- ~~[The Hill: Bill Maher inks new deal with HBO through 2026](https://thehill.com/homenews/media/4529654-bill-maher-inks-new-deal-with-hbo-through-2026/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [OpenSecrets: Bill Maher Productions Profile](https://www.opensecrets.org/orgs/bill-maher-productions/summary?id=D000071834) (Tier 1) (VERIFIED)
 - [NPR: Bill Maher's Obama SuperPAC Donation Causing Stir](https://www.npr.org/2012/03/28/149512215/bill-mahers-obama-superpac-donation-causes-stir) (Tier 2) (VERIFIED)
 - [Washington Post: Bill Maher gives $1 million to pro-Obama super PAC Priorities USA](https://www.washingtonpost.com/blogs/election-2012/post/2012/02/24/gIQAX6dqXR_blog.html) (Tier 2) (VERIFIED)
@@ -216,3 +215,9 @@ The Club Random Studios network (Sage Steele, Shane Smith, Billy Corgan) was not
 - [CNN Opinion: The evolution of Bill Maher](https://www.cnn.com/2024/05/24/opinions/bill-maher-what-this-comedian-said-will-shock-you-hemmer) (Tier 3) (VERIFIED)
 - [Hollywood Reporter: HBO Star Bill Maher on Trump, Woke Left, Podcast, 'Real Time'](https://www.hollywoodreporter.com/tv/tv-features/bill-maher-hbo-real-time-returns-interview-1236110059/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Bill Maher inks new deal with HBO through 2026](https://thehill.com/homenews/media/4529654-bill-maher-inks-new-deal-with-hbo-through-2026/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

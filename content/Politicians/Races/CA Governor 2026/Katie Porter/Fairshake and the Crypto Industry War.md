@@ -81,6 +81,11 @@ The $116 million war chest is not proportional to any specific regulatory threat
 
 - [Axios: Crypto super PAC unloads on Katie Porter in California Senate race](https://www.axios.com/2024/02/28/fairshake-crypto-pac-katie-porter-ads-california-senate) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto's political power supercharged with $193 million in Fairshake](https://www.coindesk.com/policy/2026/01/28/crypto-s-political-power-supercharged-with-usd193-million-in-fairshake-thanks-to-new-cash) (Tier 2) (VERIFIED)
-- ~~[CNBC: Coinbase/a16z 2026 cycle contributions](https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Fairshake PAC FEC filings](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024) (Tier 1) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CNBC: Coinbase/a16z 2026 cycle contributions](https://www.cnbc.com/2024/11/13/crypto-firms-dump-77-million-into-fairshake-pac-for-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[SFist: Fairshake ad analysis](https://sfist.com/2024/02/23/fairshake-super-pac-spends-millions-on-ads-against-katie-porter/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

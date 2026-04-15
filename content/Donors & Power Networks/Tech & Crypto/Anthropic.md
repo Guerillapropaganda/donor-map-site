@@ -153,7 +153,6 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 - Chicken Soup for the Soul, LLC v. Anthropic PBC (2026) — District Court, N.D. California
 - Bruff v. USAA Educational Assistance Plan (2026) — District Court, W.D. Texas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anthropic%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -230,3 +229,9 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anthropic%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anthropic%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

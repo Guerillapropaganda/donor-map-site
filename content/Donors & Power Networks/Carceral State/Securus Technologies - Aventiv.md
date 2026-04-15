@@ -119,12 +119,10 @@ The $315M California contract is the countervailing force. Even as rates are reg
 
 ### Sources
 
-- ~~[New York Times: Securus location tracking exposé (May 2018)](https://www.nytimes.com/2018/05/10/technology/securus-cell-tracking-fcc.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FCC: Martha Wright-Reed Act implementation and rate cap orders](https://www.fcc.gov/wireline-competition/commission-action-prior-martha-wright-reed-act) (Tier 1) (VERIFIED)
 - [California Department of Technology: Securus contract award (February 2025)](https://www.cdcr.ca.gov/family-resources/tablets/) (Tier 1) (VERIFIED)
 - [Prison Policy Initiative: Martha Wright-Reed Act analysis](https://www.prisonpolicy.org/blog/2024/07/18/fcc-vote/) (Tier 1) (VERIFIED)
 - [Prison Policy Initiative: Prison telecom research](https://www.prisonpolicy.org/phones/) (Tier 2) (VERIFIED)
-- ~~[Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Worth Rises: Prison Industry Mapping Project](https://worthrises.org/theprisonindustry) (Tier 3) (VERIFIED)
 
 ### Federal Subawards & Spending Breakdown
@@ -227,3 +225,10 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 
 <!-- auto:gleif-lei pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Securus location tracking exposé (May 2018)](https://www.nytimes.com/2018/05/10/technology/securus-cell-tracking-fcc.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Senate LDA Filings: Aventiv Technologies lobbying data](https://lda.gov/filings/public/filing/search/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

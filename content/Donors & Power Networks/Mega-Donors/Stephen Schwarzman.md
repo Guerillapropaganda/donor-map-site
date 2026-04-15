@@ -226,15 +226,9 @@ The philanthropic positioning is the second layer of the operation. The Schwarzm
 - [FEC: Stephen Schwarzman individual contributions 2022-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=schwarzman) (Tier 1) (VERIFIED)
 - [FEC Independent Expenditures: Stephen Schwarzman donor detail (2024 cycle)](https://www.fec.gov/data/independent-expenditures/?q=Stephen%20A.%20Schwarzman) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Blackstone PAC and leadership bundling 2024](https://www.opensecrets.org/orgs/blackstone-inc/summary?id=D000117815)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Forbes: "Billionaire Blackstone CEO Schwarzman will back Trump after donating millions in 2020"](https://www.forbes.com/sites/mollybohannon/2024/05/24/billionaire-blackstone-ceo-schwarzman-will-back-trump-after-donating-millions-in-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Bloomberg via Alternative Credit Investor: "Blackstone's Steve Schwarzman among major donors to Trump's super PAC"](https://alternativecreditinvestor.com/2026/01/02/blackstones-steve-schwarzman-among-major-donors-to-trumps-super-pac/) (Tier 2) (VERIFIED)
-- ~~[Federal Lobbying Disclosure Database: Blackstone lobbying 2022-2024](https://soprweb.senate.gov/index.cfm)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
-- ~~[Tax Foundation: "The Carried Interest Tax Debate"](https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
-- ~~[Institute on Taxation and Economic Policy: "Private Equity Taxation Estimates"](https://itep.org/private-equity-tax-loophole/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [ACCE Institute: Helter Shelter. Housing system analysis](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (VERIFIED)
 - [FEC Receipts: Federal lobbying. Real estate industry 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[Politico: "Opportunity Zones. Tim Scott and Cory Booker bipartisan push"](https://www.politico.com/agenda/story/2018/11/20/tim-scott-opportunity-zones-000793)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ---
 
@@ -347,5 +341,16 @@ The philanthropic positioning is the second layer of the operation. The Schwarzm
 - Bridges v. Blackstone Inc. (2021) — District Court, S.D. Illinois
 - CASTON v. CITY OF NEW YORK POLICE DEPARTMENT (2021) — District Court, E.D. Pennsylvania
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stephen%20Schwarzman%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Blackstone PAC and leadership bundling 2024](https://www.opensecrets.org/orgs/blackstone-inc/summary?id=D000117815)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Forbes: "Billionaire Blackstone CEO Schwarzman will back Trump after donating millions in 2020"](https://www.forbes.com/sites/mollybohannon/2024/05/24/billionaire-blackstone-ceo-schwarzman-will-back-trump-after-donating-millions-in-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Federal Lobbying Disclosure Database: Blackstone lobbying 2022-2024](https://soprweb.senate.gov/index.cfm)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Tax Foundation: "The Carried Interest Tax Debate"](https://taxfoundation.org/research/all/federal/carried-interest-tax-debate/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
+- ~~[Institute on Taxation and Economic Policy: "Private Equity Taxation Estimates"](https://itep.org/private-equity-tax-loophole/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
+- ~~[Politico: "Opportunity Zones. Tim Scott and Cory Booker bipartisan push"](https://www.politico.com/agenda/story/2018/11/20/tim-scott-opportunity-zones-000793)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Stephen%20Schwarzman%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

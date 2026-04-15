@@ -150,8 +150,6 @@ Guthrie supports PBM transparency requirements and fee disclosure, which mollifi
 - [PhRMA 2024 Campaign Finance Data](https://www.opensecrets.org/orgs/pharmaceuticals-health-products/summary?id=D000000149) (Tier 1) (VERIFIED)
 - [House Energy & Commerce Committee Composition, 118th Congress](https://energycommerce.house.gov/about) (Tier 1) (VERIFIED)
 - [Orphan Drug Act expansion votes, Rep Guthrie record](https://www.govtrack.us/congress/members/vern_buchanan/412196) (Tier 1) (VERIFIED)
-- ~~[IRA Drug Pricing Title: Implementation and Guthrie Opposition](https://www.healthaffairs.org/do/10.1377/forefront.20230511.639696)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Kaiser Family Foundation: Medicare Drug Negotiation Analysis](https://www.kff.org/medicare/issue-brief/explaining-the-pharmaceutical-provisions-in-the-inflation-reduction-act/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [House Energy & Commerce Committee: Pharmaceutical Oversight Jurisdiction](https://energycommerce.house.gov/subcommittees) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -188,3 +186,10 @@ Guthrie supports PBM transparency requirements and fee disclosure, which mollifi
 
 - {{src:src_001563}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRA Drug Pricing Title: Implementation and Guthrie Opposition](https://www.healthaffairs.org/do/10.1377/forefront.20230511.639696)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Kaiser Family Foundation: Medicare Drug Negotiation Analysis](https://www.kff.org/medicare/issue-brief/explaining-the-pharmaceutical-provisions-in-the-inflation-reduction-act/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

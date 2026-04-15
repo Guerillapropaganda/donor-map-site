@@ -186,11 +186,8 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 
 - {{src:src_004386}} (Tier 1) (VERIFIED)
 - ~~{{src:src_004387}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [The Atlantic: John Boehner's tobacco industry career](https://www.theatlantic.com/politics/archive/2011/11/video-of-the-day-sen-vitters-honey-badger-analogy-for-lsu-bama/247837/) (Tier 2) (VERIFIED)
 - ProPublica: John Boehner tobacco lobby protection record (Tier 2) (URL NEEDED — fabricated slug; original ProPublica article not found; tobacco record covered by Mother Jones and Atlantic citations above)
-- ~~[Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Wikipedia: John Boehner - tobacco industry and post-House career](https://en.wikipedia.org/wiki/John_Boehner) (Tier 3) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
@@ -299,3 +296,11 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400036) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Mother Jones: John Boehner tobacco check distribution - House floor photograph](https://www.motherjones.com/politics/2011/06/boehner-tobacco-checks)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: John Boehner joins cannabis company board](https://www.reuters.com/article/john-boehner-cannabis-legalization-idUSKBN1YA1X5/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: John Boehner voting record](https://www.congress.gov/member/john-boehner/B000589)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

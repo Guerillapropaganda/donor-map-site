@@ -138,9 +138,14 @@ Mellon's $504 million lifetime spend shows this is not corruption of the system.
 - [Timothy Mellon is Trump's $130 million mystery military donor](https://www.cnbc.com/2025/10/25/trump-timothy-mellon-military-donor-government-shutdown.html) (VERIFIED). CNBC (Tier 2)
 - [Meet Timothy Mellon, the reclusive Wyoming billionaire revealed as the $130 million donor funding military pay during the federal shutdown](https://www.fortune.com/2025/10/30/timothy-mellon-billionaire-wealth-the-reclusive-wyoming-billionaire-revealed-as-the-130-million-donor-funding-military-pay-during-the-federal-shutdown/) (VERIFIED). Fortune (Tier 2)
 - [American Values 2024 - FactCheck.org](https://www.factcheck.org/2024/01/american-values-2024/) (VERIFIED). FactCheck.org (Tier 2)
-- ~~[RFK Jr. super PAC raises $11.3 Million after he launches independent 2024 run](https://www.bloomberg.com/news/articles/2023-10-10/kennedy-super-pac-raises-11-3-million-after-he-leaves-democrats)~~ (URL broken, archived by Ops). Bloomberg (Tier 2)
 - [Timothy Mellon - Wikipedia](https://en.wikipedia.org/wiki/Timothy_Mellon) (VERIFIED). Wikipedia (Tier 3)
 - [Reclusive billionaire heir Timothy Mellon gave $125 million to help elect Trump, even more than Elon Musk](https://www.fortune.com/2024/11/09/timothy-mellon-net-worth-top-donor-trump-campaign-elon-musk/) (VERIFIED). Fortune (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[RFK Jr. super PAC raises $11.3 Million after he launches independent 2024 run](https://www.bloomberg.com/news/articles/2023-10-10/kennedy-super-pac-raises-11-3-million-after-he-leaves-democrats)~~ (URL broken, archived by Ops). Bloomberg (Tier 2)

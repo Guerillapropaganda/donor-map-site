@@ -111,7 +111,6 @@ The Chamber's political operation includes: direct lobbying ($746M+ since 2010),
 CEO: Suzanne Clark (since 2022). Previous CEO: Tom Donohue (1997–2022, 25 years). Annual revenue: approximately $200 million.
 
 - [OpenSecrets: US Chamber of Commerce lobbying profile](https://www.opensecrets.org/orgs/us-chamber-of-commerce/summary?id=D000019798) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: US Chamber of Commerce outside spending](https://www.opensecrets.org/outsidespending/detail.php?cmte=US+Chamber+of+Commerce&cycle=2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -217,7 +216,6 @@ The Chamber's refusal to disclose donors serves a specific structural purpose: i
 > [!contradiction] The Free Market Champions Who Won't Show Their Books
 > The Chamber advocates for market transparency, corporate governance, and shareholder rights — for everyone except itself. The organization that lobbies against financial regulation refuses to disclose its own financial supporters. The organization that opposes dark money reform is the largest dark money spender in American politics. The Chamber's opacity is not incidental; it is the product — corporations pay the Chamber specifically because it launders their political spending into anonymous advocacy. A pharmaceutical company that funds Chamber lobbying against drug pricing reform can simultaneously market itself as supporting affordable healthcare. An oil company that funds Chamber opposition to emissions standards can simultaneously brand itself as climate-conscious. The Chamber is a reputation laundering service.
 
-- ~~[Public Citizen: The Chamber's Dark Money Donors](https://www.citizen.org/article/chamber-of-secrets/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Is the most powerful lobbyist in Washington losing its grip?](https://www.washingtonpost.com/business/economy/is-the-us-chamber-losing-its-grip/2017/07/14/f104d348-4f88-11e7-91eb-9611861a988f_story.html) (Tier 2) (VERIFIED)
 
 ---
@@ -319,8 +317,6 @@ The Chamber does not represent "business." It represents the capital class's int
 - [SCOTUSblog: Epic Systems Corp. v. Lewis](https://www.scotusblog.com/cases/case-files/epic-systems-corp-v-lewis/) (Tier 1) (VERIFIED)
 
 ### Trump Relationship:
-- ~~[Bloomberg: Chamber of Commerce congratulates Trump on 2024 victory](https://www.bloomberg.com/news/articles/2024-11-06/us-chamber-congratulates-trump-on-election-win)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[NPR: Chamber of Commerce condemns January 6](https://www.npr.org/2021/01/07/954478011/u-s-chamber-of-commerce-condemns-violence-at-capitol)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### General Reference:
 - [Ballotpedia: US Chamber of Commerce political spending](https://ballotpedia.org/United_States_Chamber_of_Commerce) (Tier 3) (VERIFIED)
@@ -355,7 +351,6 @@ The Chamber does not represent "business." It represents the capital class's int
 - Life Without Laundry, LLC v. Rinse, Inc. (2025) — District Court, D. Massachusetts
 - Zen JV, LLC (2025) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22US%20Chamber%20of%20Commerce%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -478,7 +473,6 @@ The Chamber does not represent "business." It represents the capital class's int
 | Officer Compensation | $1.6M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 461561597](https://projects.propublica.org/nonprofits/organizations/461561597) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461561597_202312_990_2025022623131785.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -496,11 +490,6 @@ The Chamber does not represent "business." It represents the capital class's int
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/141883061) (Tier 1) (VERIFIED)
@@ -527,3 +516,19 @@ The Chamber does not represent "business." It represents the capital class's int
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22US%20Chamber%20of%20Commerce%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: US Chamber of Commerce outside spending](https://www.opensecrets.org/outsidespending/detail.php?cmte=US+Chamber+of+Commerce&cycle=2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Public Citizen: The Chamber's Dark Money Donors](https://www.citizen.org/article/chamber-of-secrets/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Chamber of Commerce congratulates Trump on 2024 victory](https://www.bloomberg.com/news/articles/2024-11-06/us-chamber-congratulates-trump-on-election-win)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NPR: Chamber of Commerce condemns January 6](https://www.npr.org/2021/01/07/954478011/u-s-chamber-of-commerce-condemns-violence-at-capitol)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22US%20Chamber%20of%20Commerce%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F461561597_202312_990_2025022623131785.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/141883061/2019)~~ (URL broken, archived by Ops)

@@ -141,9 +141,14 @@ The anti-BDS lawsuit is the most consequential output of Martin's career for the
 
 - [Wikipedia: Abby Martin](https://en.wikipedia.org/wiki/Abby_Martin) (Tier 3) (VERIFIED)
 - [Liberation News: U.S. Sanctions Shut Down 'The Empire Files' with Abby Martin](https://liberationnews.org/u-s-sanctions-shut-down-the-empire-files-with-abby-martin/) (Tier 3) (VERIFIED)
-- ~~[CAIR: CAIR Files Federal Appeal Against Officials Who Implemented Georgia's Anti-BDS Law](https://www.cair.com/press_releases/cair-files-federal-appeal-against-officials-who-implemented-georgias-anti-bds-law/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [AJC: Judge: Ga. law barring contracts by groups boycotting Israel unconstitutional](https://www.ajc.com/education/judge-ga-law-barring-contracts-by-groups-boycotting-israel-unconstitutional/UO3WXWOHRBFUBHIX7DWGG4AEPA/) (Tier 2) (VERIFIED)
 - [FMEP: Constitutionality Issues & BDS Legislation: Source Docs & Expert Views](https://fmep.org/resource/constitutionality-issues-bds-legislation-expert-views/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Abby Martin](https://ballotpedia.org/Abby_Martin) (Tier 3) (VERIFIED)
 - [FEC: Abby Martin individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=MARTIN%2C+ABBY) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CAIR: CAIR Files Federal Appeal Against Officials Who Implemented Georgia's Anti-BDS Law](https://www.cair.com/press_releases/cair-files-federal-appeal-against-officials-who-implemented-georgias-anti-bds-law/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

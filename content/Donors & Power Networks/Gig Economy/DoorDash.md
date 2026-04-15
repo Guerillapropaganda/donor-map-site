@@ -141,12 +141,8 @@ IPO/corporate finance. Prop 22 as pre-IPO regulatory investment
 
 - [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 - [California Secretary of State / Cal-Access: Prop 22 committee filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1) (VERIFIED)
-- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: DoorDash PAC and lobbying](https://www.opensecrets.org/orgs/doordash-inc/summary?id=D000072628) (Tier 1) (VERIFIED)
-- ~~[The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -221,3 +217,12 @@ IPO/corporate finance. Prop 22 as pre-IPO regulatory investment
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: DashPAC formation](https://thehill.com/lobbying/3550101-doordash-expands-political-footprint-with-new-pac/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

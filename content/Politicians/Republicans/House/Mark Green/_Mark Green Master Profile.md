@@ -176,8 +176,6 @@ Then he left for the private sector, where the real money is.
 ## Sources
 
 - {{src:src_004331}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[House.gov: Mark Green biography](https://markgreen.house.gov/biography)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [NBC News: Mark Green to resign from Congress for private-sector job](https://www.nbcnews.com/politics/congress/mark-green-tennessee-republican-resign-congress-homeland-security-rcna211953) (Tier 2) (VERIFIED)
 - [CNN: Mark Green to leave Congress after House votes on Trump agenda bill](https://www.cnn.com/2025/06/09/politics/mark-green-tennessee-congressman-to-resign) (Tier 2) (VERIFIED)
 - [Roll Call: Tennessee Rep. Mark Green will resign after next budget vote](https://rollcall.com/2025/06/09/mark-green-tennessee-resign-budget/) (Tier 2) (VERIFIED)
@@ -243,3 +241,10 @@ Then he left for the private sector, where the real money is.
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400159) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mark E. Green](https://www.congress.gov/member/mark-green/G000590)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[House.gov: Mark Green biography](https://markgreen.house.gov/biography)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

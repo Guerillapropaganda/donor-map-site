@@ -41,7 +41,12 @@ The pattern: Paul's libertarianism is deployed against government functions that
 ### Sources
 
 - {{src:src_003284}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Rand Paul voting record](https://www.congress.gov/member/rand-paul/P000603)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Paul filibuster records](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 - [Ballotpedia: Rand Paul](https://ballotpedia.org/Rand_Paul) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Rand Paul voting record](https://www.congress.gov/member/rand-paul/P000603)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

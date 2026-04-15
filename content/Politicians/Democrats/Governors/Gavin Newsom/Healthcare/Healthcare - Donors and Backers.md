@@ -174,8 +174,13 @@ CalRx generic drug program is the exemplar: visible, measurable, addressing a sp
 - [KQED: Newsom Awarded No-Bid Vaccine Contract to Blue Shield](https://www.kqed.org/science/1973320/newsom-awarded-the-no-bid-vaccine-contract-to-blue-shield-a-trusted-and-generous-supporter) (Tier 2) (VERIFIED)
 - [Deadline: California Governor Newsom Chooses Big Political Donors To Run State's Vaccination Program](https://deadline.com/2021/02/california-governor-gavin-newsom-big-political-donors-vaccination-program-1234694674/) (Tier 2) (VERIFIED)
 - [Capital and Main: California Often Leads Change, But Not for Single-Payer Health Care](https://capitalandmain.com/california-often-leads-change-but-not-for-single-payer-health-care) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Single-Payer Healthcare Still Dead in California](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fierce Healthcare: Newsom Vetoes PBM Private Equity Bills](https://www.fiercehealthcare.com/payers/payer-roundup-minnesota-providers-drops-humana-ma-plans-new-no-surprises-act-bill-introduced) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Single-Payer Healthcare Still Dead in California](https://calmatters.org/category/politics/2026/03/california-governor-single-payer-health-care/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

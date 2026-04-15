@@ -38,7 +38,12 @@ The Transportation Committee's donor base is the most transparent committee-to-f
 
 ### Sources
 
-- ~~[Congress.gov: Sam Graves member profile](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_004201}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Sam Graves](https://ballotpedia.org/Sam_Graves) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Sam Graves member profile](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

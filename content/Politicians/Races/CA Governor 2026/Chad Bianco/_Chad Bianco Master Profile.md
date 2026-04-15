@@ -190,7 +190,6 @@ Bianco is a direct foil to Newsom on several policy areas already documented:
 - [Capitol Weekly: Gubernatorial profile](https://capitolweekly.net/better-know-a-ca-gubernatorial-candidate-chad-bianco/) (Tier 2) (VERIFIED)
 - [The Ballot Book: 2026 donor analysis](https://theballotbook.com/blog/bianco-s-donor-base-in-the-la-media-market-could-signal-a-gop-edge) (Tier 3) (VERIFIED)
 - [America First Legal: Sanctuary lawsuit](https://aflegal.org/press-release/america-first-legal-adds-riverside-county-sheriff-chad-bianco-as-plaintiff-in-lawsuit-against-gavin-newsom-and-the-state-of-california-to-end-illegal-alien-sanctuary-laws/) (VERIFIED) (Tier 4, partisan source, verify independently) (Tier 2)
-- ~~[FPPC: Campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Chad Bianco](https://ballotpedia.org/Chad_Bianco) (Tier 3) (VERIFIED)
 
 ---
@@ -227,5 +226,11 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Chad Bianco](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FPPC: Campaign finance records](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chad Bianco](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

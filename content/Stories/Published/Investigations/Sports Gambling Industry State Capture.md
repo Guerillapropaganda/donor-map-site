@@ -138,5 +138,10 @@ The legalization-for-profit model generates enormous social cost while concentra
 
 - [ProPublica: Sports Betting Industry State Capture](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2) (VERIFIED)
 - [NPR: The Story Behind the Sports Betting Boom](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (Tier 2) (VERIFIED)
-- ~~[National Council on Problem Gambling: Prevalence Data](https://ncpg.org/research/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[National Council on Problem Gambling: Prevalence Data](https://ncpg.org/research/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

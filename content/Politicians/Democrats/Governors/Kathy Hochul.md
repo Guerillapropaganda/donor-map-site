@@ -90,8 +90,6 @@ Hochul represents the exhaustion of Democratic executive authority when confront
 
 ### Sources
 
-- ~~[OpenSecrets: Kathy Hochul Money Profile](https://www.opensecrets.org/officeholders/kathy-hochul/summary?cycle=2024&id=4758179)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Hochul Top Contributors](https://www.opensecrets.org/officeholders/kathy-hochul/contributors?cycle=2023&id=4758179&recs=100)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Bisnow: Hochul Slams Brake On Congestion Pricing, Rejecting Real Estate-Backed Policy](https://www.bisnow.com/new-york/news/economy/congestion-pricing-largely-supported-by-real-estate-industry-halted-by-hochul-124565) (Tier 2) (VERIFIED)
 - [Commercial Observer: Hochul's Congestion Pricing Pause Raises Real Estate Industry Concerns](https://commercialobserver.com/2024/06/real-estate-joins-chorus-of-criticism-toward-hochuls-congestion-pricing-pause/) (Tier 2) (VERIFIED)
 - [City & State New York: Who are Kathy Hochul's Big Donors?](https://www.cityandstateny.com/politics/2022/01/who-are-kathy-hochuls-big-donors/360900/) (Tier 2) (VERIFIED)
@@ -106,5 +104,12 @@ Hochul represents the exhaustion of Democratic executive authority when confront
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Kathy Hochul](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Kathy Hochul Money Profile](https://www.opensecrets.org/officeholders/kathy-hochul/summary?cycle=2024&id=4758179)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Hochul Top Contributors](https://www.opensecrets.org/officeholders/kathy-hochul/contributors?cycle=2023&id=4758179&recs=100)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Kathy Hochul](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

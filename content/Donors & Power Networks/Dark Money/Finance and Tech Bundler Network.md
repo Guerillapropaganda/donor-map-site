@@ -59,7 +59,6 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 ### Sources
 
-- ~~[OpenSecrets: Bundler data](https://www.opensecrets.org/bundlers)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Campaign bundling](https://ballotpedia.org/Finance_and_Tech_Bundler_Network) (Tier 3) (VERIFIED)
 
 ### DOJ Press Releases
@@ -98,3 +97,9 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Bundler data](https://www.opensecrets.org/bundlers)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

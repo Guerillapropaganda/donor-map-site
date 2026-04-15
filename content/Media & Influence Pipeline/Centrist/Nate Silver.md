@@ -162,10 +162,15 @@ Nate Silver represents **quantitative centrism as class function**, the mechanis
 - [Semafor: "FiveThirtyEight's Nate Silver Says He's Leaving ABC News Amid Disney Layoffs" (Apr 25, 2023)](https://www.semafor.com/article/04/25/2023/fivethirtyeights-nate-silver-says-hes-leaving-abc-news-amid-disney-layoffs) (Tier 2) (VERIFIED)
 - [Washington Post: "Nate Silver Will Soon Be Out at FiveThirtyEight. Here's His History" (Apr 25, 2023)](https://www.washingtonpost.com/media/2023/04/25/nate-silver-fivethirtyeight-abc-layoffs/) (Tier 2) (VERIFIED)
 - [Nieman Lab: "Disney Is Shrinking FiveThirtyEight, and Nate Silver (and His Models) Are Leaving" (Apr 2023)](https://www.niemanlab.org/2023/04/disney-is-shrinking-fivethirtyeight-and-nate-silver-and-his-models-are-leaving/) (Tier 2) (VERIFIED)
-- ~~[Axios: "Nate Silver Joins Prediction Market Startup Polymarket" (Jul 16, 2024)](https://www.axios.com/2024/07/16/nate-silver-polymarket)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: "How Accurate Was Nate Silver?" (Nov 2024)](https://www.newsweek.com/2024-election-polling-nate-silver-1981876) (Tier 2) (VERIFIED)
 - [Britannica Money: "Polymarket. Founding, Growth, Investors, & Top Prediction Markets"](https://www.britannica.com/money/Polymarket) (Tier 3) (VERIFIED)
 - [Wikipedia: Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: "Nate Silver Joins Prediction Market Startup Polymarket" (Jul 16, 2024)](https://www.axios.com/2024/07/16/nate-silver-polymarket)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

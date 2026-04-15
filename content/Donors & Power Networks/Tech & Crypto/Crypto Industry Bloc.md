@@ -202,7 +202,6 @@ The crypto industry didn't just buy elections, it built a permanent political op
 ### Sources
 
 - [CNBC: Fairshake PAC](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: crypto PAC spending](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CoinDesk: 53 crypto-backed Congress members](https://www.coindesk.com/news-analysis/2024/12/02/crypto-cash-fueled-53-members-of-the-next-u-s-congress) (Tier 2) (VERIFIED)
 - [Public Citizen: Cryptobros United](https://www.citizen.org/article/cryptobros-united-fairshake-super-pac-2024-elections/) (Tier 2) (VERIFIED)
 - [Fortune: $18M inaugural](https://fortune.com/crypto/2025/04/21/donald-trump-inauguration-fund-crypto-coinbase-ripple-circle-18-million/) (Tier 2) (VERIFIED)
@@ -300,3 +299,9 @@ Both sides are deploying in the same primaries as crypto and AIPAC money. In NC-
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Crypto%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: crypto PAC spending](https://www.opensecrets.org/news/2024/07/pro-crypto-super-pacs-pouring-tens-of-millions-into-2024-elections/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

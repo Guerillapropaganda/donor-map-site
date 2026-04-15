@@ -87,7 +87,6 @@ In May 2024 the New York Times reported that an upside down American flag had fl
 ### Sources
 
 - [Inside Climate News. Alito's Recusal in Oil Case Renews Questions About Justice's Investments (January 2026)](https://insideclimatenews.org/news/13012026/supreme-court-justice-samuel-alito-oil-investments-recusal/) (Tier 2) (VERIFIED)
-- ~~[Constitutional Accountability Center. Justice Alito's Stock Portfolio Stands Apart on US Supreme Court](https://www.theusconstitution.org/news/justice-alitos-stock-portfolio-stands-apart-on-us-supreme-court/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek. Samuel Alito Recuses From Chevron Climate Case Days Before Supreme Court Arguments (March 2026)](https://www.newsweek.com/supreme-court-alito-recusal-chevron-case-11332936) (Tier 2) (VERIFIED)
 - [Slate. Sam Alito's Latest Reversal at the Supreme Court Is an Absolute Embarrassment (March 2026)](https://slate.com/news-and-politics/2026/03/sam-alito-supreme-court-embarrassment.html) (Tier 2) (VERIFIED)
 - [New Republic. The Supreme Court's Ethics Code Is a Joke. Big Oil Knows That](https://newrepublic.com/article/203669/coney-barett-oil-climate-alito-conflicts) (Tier 2) (VERIFIED)
@@ -97,3 +96,9 @@ In May 2024 the New York Times reported that an upside down American flag had fl
 - [VOA News. Demands Continue for Alito's Recusal From Election Related Cases](https://www.voanews.com/a/demands-continue-for-alitos-recusal-from-election-related-cases/7636723.html) (Tier 2) (NEEDS REVIEW)
 - [E&E News/Politico. Supreme Court Steps Up Recusal Checks After Alito Near Miss in Louisiana Oil Case](https://www.eenews.net/articles/supreme-court-steps-up-recusal-checks-after-alito-near-miss-in-louisiana-oil-case/) (Tier 2) (VERIFIED)
 - [ProPublica. Alito Took Unreported Luxury Trip With GOP Donor Paul Singer](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Constitutional Accountability Center. Justice Alito's Stock Portfolio Stands Apart on US Supreme Court](https://www.theusconstitution.org/news/justice-alitos-stock-portfolio-stands-apart-on-us-supreme-court/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

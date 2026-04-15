@@ -111,7 +111,6 @@ AFL sits within broader U.S.-Israel political finance ecosystem. Mega-donors (Ad
 - [American Friends of Likud Inc - Nonprofit Explorer - ProPublica](https://projects.propublica.org/nonprofits/organizations/133935945) (Tier 2)
 - [American Friends of Likud - JNS.org](https://www.jns.org/organization/aflikud-org) (Tier 3) (VERIFIED)
 - [American Friends Of Likud Inc - GuideStar Profile](https://www.guidestar.org/profile/13-3935945) (Tier 3) (VERIFIED)
-- ~~[American Friends of Likud Inc in New York, New York - GreatNonprofits](https://greatnonprofits.org/org/american-friends-of-likud-inc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [AFL- American Friends of Likud - Facebook](https://www.facebook.com/AmericanFriendsOfLikud/) (Tier 3) (VERIFIED)
 - [American Friends of Likud – Conference of Presidents](https://conferenceofpresidents.org/member_organization/american-friends-of-likud/) (Tier 3) (VERIFIED)
 - [Over 90% of Netanyahu reelection funds from US donors | The Times of Israel](https://www.timesofisrael.com/over-90-of-netanyahu-reelection-funds-from-us-donors/) (Tier 2)
@@ -122,3 +121,9 @@ AFL sits within broader U.S.-Israel political finance ecosystem. Mega-donors (Ad
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[American Friends of Likud Inc in New York, New York - GreatNonprofits](https://greatnonprofits.org/org/american-friends-of-likud-inc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

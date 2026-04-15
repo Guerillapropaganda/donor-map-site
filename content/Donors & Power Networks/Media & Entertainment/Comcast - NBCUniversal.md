@@ -255,7 +255,6 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 | Net Assets | $21.7M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 510390132](https://projects.propublica.org/nonprofits/organizations/510390132) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F510390132_202312_990PF_2025010222977425.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -304,3 +303,9 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F510390132_202312_990PF_2025010222977425.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

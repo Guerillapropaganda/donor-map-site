@@ -335,7 +335,6 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - RIEGER v. EPIQ SYSTEMS, INC. (2025) — District Court, District of Columbia
 - IN RE STUBHUB HOLDINGS, INC. DERIVATIVE LITIGATION (2025) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### OCC Enforcement Actions
@@ -364,7 +363,6 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
 - [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea826.pdf) (NEEDS REVIEW) (11/10/1992) — $3,000
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 <!-- auto:occ-enforcement pending-merge 2026-04-15 -->
@@ -398,3 +396,10 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 
 <!-- auto:occ-enforcement pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Carlyle%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

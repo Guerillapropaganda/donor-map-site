@@ -148,11 +148,16 @@ This illustrates the asymmetry in party infrastructure advantage: Republican par
 ### Sources
 
 - [NBC News: RNC moves to give early backing to former chair running in key Senate race](https://www.nbcnews.com/politics/2026-election/rnc-moves-give-early-backing-former-chair-running-key-senate-race-rcna229160) (Tier 2) (VERIFIED)
-- ~~[The Hill: Trump-backed GOP leader Michael Whatley launches North Carolina Senate bid](https://thehill.com/homenews/senate/5426353-rnc-chair-michael-whatley-nc-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NOTUS: Michael Whatley Announces Senate Bid. Republicans in Washington Are Already Lining Up Behind Him.](https://www.notus.org/2026-election/michael-whatley-announces-senate-republicans-lining-up) (Tier 2) (VERIFIED)
-- ~~[The Hill: Who is Michael Whatley, Trump's pick to lead RNC](https://thehill.com/homenews/campaign/4472379-who-is-michael-whatley-trump-s-pick-to-lead-rnc/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Daily Caller: EXCLUSIVE: Michael Whatley Raises $5.1 Million For Crucial North Carolina Senate Race](https://dailycaller.com/2026/01/12/michael-whatley-fundraising-north-carolina-senate/) (Tier 3) (VERIFIED)
 - [WRAL: Trump-backed GOP leader Michael Whatley launches U.S. Senate campaign in North Carolina](https://www.wral.com/story/trump-backed-gop-leader-michael-whatley-launches-u-s-senate-campaign-in-north-carolina/22104093/) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Trump-backed GOP leader Michael Whatley launches North Carolina Senate bid](https://thehill.com/homenews/senate/5426353-rnc-chair-michael-whatley-nc-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Who is Michael Whatley, Trump's pick to lead RNC](https://thehill.com/homenews/campaign/4472379-who-is-michael-whatley-trump-s-pick-to-lead-rnc/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

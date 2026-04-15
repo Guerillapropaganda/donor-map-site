@@ -168,7 +168,6 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 - [Senate Judiciary Committee: Patel financial disclosures and ethics concerns](https://www.judiciary.senate.gov/press/rep/releases/grassley-opening-statement-at-executive-business-meeting-on-the-nomination-of-kash-patel-to-be-fbi-director) (Tier 1) (VERIFIED)
 - [ABC News: Kash Patel consulting income](https://abcnews.com/US/kash-patel-trumps-pick-fbi-director-made-26m/story?id=118447126?id=118447126) (Tier 2) (VERIFIED)
 - [PBS News: Kash Patel foreign clients and conflicts](https://www.pbs.org/newshour/politics/patels-roster-of-foreign-clients-draws-scrutiny-over-conflicting-interests-with-the-fbi) (Tier 2) (VERIFIED)
-- ~~[TIME: Kash Patel's Trump loyalty trajectory](https://time.com/7211916/kash-patel-confirmation-hearing-loyalty-trump-essay/-essay/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: FBI purge and mission change under Patel](https://www.npr.org/2025/11/19/nx-s1-5613347/how-kash-patel-is-roiling-the-departme-and-changing-the-mission-of-the-fbi) (Tier 2) (VERIFIED)
 - [Lawfare: The Patel Dossier](https://www.lawfaremedia.org/article/the-patel-dossier) (Tier 2) (VERIFIED)
 - [Jewish Insider: Qatar security deals and conflicts](https://jewishinsider.com/2025/12/fbi-kash-patel-qatar-security-deals-lobbying-disclosure/) (Tier 2) (VERIFIED)
@@ -195,5 +194,11 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Kash Patel](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[TIME: Kash Patel's Trump loyalty trajectory](https://time.com/7211916/kash-patel-confirmation-hearing-loyalty-trump-essay/-essay/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Kash Patel](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

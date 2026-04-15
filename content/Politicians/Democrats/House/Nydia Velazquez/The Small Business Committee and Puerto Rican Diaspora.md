@@ -38,7 +38,12 @@ Velazquez was the first Puerto Rican woman elected to Congress (1992) and has be
 
 ### Sources
 
-- ~~[Congress.gov: Nydia Velazquez member profile](https://www.congress.gov/member/nydia-velazquez/V000081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005977}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Nydia Velazquez](https://ballotpedia.org/Nydia_Vel%C3%A1zquez) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Nydia Velazquez member profile](https://www.congress.gov/member/nydia-velazquez/V000081)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

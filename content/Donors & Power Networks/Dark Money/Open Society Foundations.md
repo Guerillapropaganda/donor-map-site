@@ -198,7 +198,6 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 
 - [Open Society Foundations. Wikipedia](https://en.wikipedia.org/wiki/Open_Society_Foundations) (Tier 2)
 - [Open Society Foundations. Ballotpedia](https://ballotpedia.org/Open_Society_Foundations) (Tier 3)
-- ~~[How George Soros changed justice system in America. DNYUZ](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Guest Commentary: George Soros' Bad Bet on Progressive Prosecutors](https://www.congress.gov/118/meeting/house/117234/documents/HHRG-118-JU00-20240503-SD008-U8.pdf) (Tier 2) (VERIFIED)
 - [Follow the Money: Mapping Soros Prosecutor Funding. LELDF](https://www.policedefense.org/sorosmap/) (Tier 2) (VERIFIED)
 - [Two dozen progressive prosecutors linked to Soros money](https://fox17.com/news/nation-world/two-dozen-progressive-prosecutors-linked-to-soros-money-report-finds) (Tier 3)
@@ -239,7 +238,6 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 | Net Assets | $553 |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 273743368](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F273743368_201612_990EZ_2017080814620190.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -268,11 +266,6 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 **Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2016)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2015)~~ (URL broken, archived by Ops)
-- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2014)~~ (URL broken, archived by Ops)
-- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2013)~~ (URL broken, archived by Ops)
-- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/273743368) (Tier 1) (VERIFIED)
@@ -294,5 +287,17 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 - Schlacter v. U.S. Department of State (2025) — District Court, D. Maryland
 - Rona v. Trump (2025) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Open%20Society%20Foundations%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[How George Soros changed justice system in America. DNYUZ](https://dnyuz.com/2025/12/03/how-george-soros-changed-criminal-justice-in-america/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F273743368_201612_990EZ_2017080814620190.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/273743368/2012)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Open%20Society%20Foundations%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

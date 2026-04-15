@@ -233,16 +233,11 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 - [CREW: Leonard Leo's Firm Rakes In Millions from Dark Money Network](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leos-firm-continues-to-rake-in-millions-from-his-own-dark-money-network/) (Tier 2) (VERIFIED)
 - [CREW: Leo-Tied Nonprofits Paid His Businesses $90 Million](https://www.citizensforethics.org/reports-investigations/crew-investigations/leonard-leo-tied-nonprofits-businesses-88-million/) (Tier 2) (VERIFIED)
 - [CREW: $80 Million Dark Money Group Tied to Leo](https://www.citizensforethics.org/reports-investigations/crew-investigations/80-million-dark-money-group-tied-to-trump-supreme-court-advisor-leonard-leo/) (Tier 2) (VERIFIED)
-- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CMD: DonorsTrust Pumped $142 Million into Right-Wing Causes in 2018](https://www.exposedbycmd.org/2019/12/23/donorstrust-pumped-142-million-right-wing-causes-2018/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Meet the Powerful Group Behind Trump's Judicial Nominations](https://thehill.com/regulation/court-battles/360598-meet-the-powerful-group-behind-trump-judicial-nominations/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [The 19th: How Trump Has Shaped Federal Courts](https://19thnews.org/2025/01/trump-judges-federal-judiciary/) (Tier 2) (VERIFIED)
-- ~~[Yale Daily News: SFFA Funded by Large Conservative Groups with Federalist Society Ties](https://yaledailynews.com/blog/2022/11/03/sffa-funded-by-large-conservative-groups-with-federalist-society-ties/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Harvard Crimson: Public Filings Reveal SFFA Mostly Funded by Conservative Trusts](https://www.thecrimson.com/article/2019/2/7/sffa-finance/) (Tier 2) (VERIFIED)
 - [Inside Philanthropy: Wealthy Donors Behind the Assault on Affirmative Action](https://www.insidephilanthropy.com/home/2023-8-10-the-wealthy-donors-behind-the-assault-on-affirmative-action) (Tier 2) (VERIFIED)
 - [CNN: Senate Democrats Subpoena Leonard Leo in SCOTUS Ethics Probe](https://www.cnn.com/2024/04/11/politics/leonard-leo-subpoena-supreme-court-ethics-probe/index.html) (Tier 2) (VERIFIED)
 - [Senator Whitehouse: The Scheme Speech 5 — The Federalist Society](https://www.whitehouse.senate.gov/news/speeches/the-scheme-speech-5-the-federalist-society/) (Tier 2) (VERIFIED)
-- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [NPR: Heritage Foundation Staff Walkout](https://www.npr.org/2025/12/22/nx-s1-5651990/heritage-foundation-mike-pence) (Tier 2) (VERIFIED)
 
 ---
@@ -303,7 +298,6 @@ The dark money symmetry is complete. Leo's network operates with the same opacit
 - In re: Application for Judicial Assistance (2025) — Court of Appeals for the D.C. Circuit
 - WHEELER v. BLANCHE (2025) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Federalist%20Society%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -340,3 +334,14 @@ The Federalist Society for Law and Public Policy Studies (FedSoc) is an American
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q5440666) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CMD: DonorsTrust Funneled $134 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/11/17/donorstrust-funneled-134-million-to-right-wing-groups-in-2022/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: DonorsTrust Pumped $142 Million into Right-Wing Causes in 2018](https://www.exposedbycmd.org/2019/12/23/donorstrust-pumped-142-million-right-wing-causes-2018/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Meet the Powerful Group Behind Trump's Judicial Nominations](https://thehill.com/regulation/court-battles/360598-meet-the-powerful-group-behind-trump-judicial-nominations/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Yale Daily News: SFFA Funded by Large Conservative Groups with Federalist Society Ties](https://yaledailynews.com/blog/2022/11/03/sffa-funded-by-large-conservative-groups-with-federalist-society-ties/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Time: Trump Calls Leo "Sleazebag," Criticizes Federalist Society](https://time.com/7289940/trump-federalist-society-leonard-leo-sleazebag-bad-advice-judges-tariffs/g-bad-advice-judges-tariffs/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Federalist%20Society%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

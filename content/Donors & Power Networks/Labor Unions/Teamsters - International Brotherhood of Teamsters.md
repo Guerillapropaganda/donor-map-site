@@ -223,7 +223,12 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 | Officer Compensation | $1.1M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 940963930](https://projects.propublica.org/nonprofits/organizations/940963930) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940963930_202312_990O_2024071222684155.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

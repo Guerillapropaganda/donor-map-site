@@ -94,13 +94,18 @@ Among all Senate candidates running in 2020, Graham received the largest percent
 - {{src:src_001211}} (Tier 1) (VERIFIED)
 - [OpenSecrets News: Lindsey Graham gets more money from donors lacking disclosure than anyone else](https://www.opensecrets.org/news/2020/11/lindsey-graham-gets-more-from-lacking-disclosure-than-anyone) (Tier 2) (VERIFIED)
 - [CNN Politics: Former Lindsey Graham donor backs his Democratic challenger after questioning Graham's principles](https://www.cnn.com/2020/05/12/politics/lindsey-graham-donor-support-challenger/index.html) (Tier 2) (VERIFIED)
-- ~~[The Hill: Former Lindsey Graham donor says support stopped when he didn't defend McCain from Trump](https://thehill.com/homenews/senate/497332-former-lindsey-graham-donor-says-support-stopped-when-he-didnt-defend-mccain/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: Former Chairman of Michelin North America Drops Support for Lindsey Graham, Backs Democratic Challenger](https://www.newsweek.com/michelin-north-america-lindsey-graham-1500901) (Tier 2) (VERIFIED)
 - [NPR: Lindsey Graham Warmed To Trump, And Some Voters Feel Left In The Cold](https://www.npr.org/2020/10/18/924466869/lindsey-graham-warmed-to-trump-and-some-republican-voters-feel-left-in-the-cold) (Tier 2) (VERIFIED)
-- ~~[CNN: South Carolina Senate race: How Jaime Harrison's campaign could spend $57 million before Election Day](https://www.cnn.com/2020/10/12/politics/south-carolina-senate-race/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[OpenSecrets News: Lindsey Graham builds grassroots support amid defense of Trump](https://www.opensecrets.org/news/2019/10/lindsey-graham-builds-grassroots-support-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [TIME: The Keys to Jaime Harrison's Record-Setting Senate Campaign Against Lindsey Graham](https://time.com/5904061/jaime-harrison-lindsey-graham-south-carolina/) (Tier 2) (VERIFIED)
-- ~~[WCBD News: Lindsey Graham raised record-breaking funds during 2020 campaign](https://www.counton2.com/news/south-carolina-news/lindsey-graham-raised-record-breaking-funds-during-2020-campaign/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Former Lindsey Graham donor says support stopped when he didn't defend McCain from Trump](https://thehill.com/homenews/senate/497332-former-lindsey-graham-donor-says-support-stopped-when-he-didnt-defend-mccain/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: South Carolina Senate race: How Jaime Harrison's campaign could spend $57 million before Election Day](https://www.cnn.com/2020/10/12/politics/south-carolina-senate-race/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets News: Lindsey Graham builds grassroots support amid defense of Trump](https://www.opensecrets.org/news/2019/10/lindsey-graham-builds-grassroots-support-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[WCBD News: Lindsey Graham raised record-breaking funds during 2020 campaign](https://www.counton2.com/news/south-carolina-news/lindsey-graham-raised-record-breaking-funds-during-2020-campaign/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

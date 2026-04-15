@@ -188,7 +188,6 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 
 ### Sources
 
-- ~~[OpenSecrets: Fairshake PAC summary, $260M raised, $196M spent, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Fairshake PAC targeted candidates](https://www.opensecrets.org/outside-spending/detail/2024?cmte=C00835959&tab=targeted_candidates) (Tier 1) (VERIFIED)
 - [SEC: SEC Chair Gensler to Depart Agency on January 20, official press release](https://www.sec.gov/newsroom/press-releases/2024-182) (Tier 1) (VERIFIED)
 - [NPR: Congress passes 1st major crypto legislation in the U.S. GENIUS Act signed July 18, 2025](https://www.npr.org/2025/07/17/nx-s1-5451413/crypto-week-stablecoin-genius-act-trump) (Tier 2) (VERIFIED)
@@ -246,7 +245,6 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 - Mou v. BTC King Technology Co., Ltd. (2026) — District Court, S.D. New York
 - Coinbase Financial Markets, Inc. v. Ford (2026) — District Court, D. Nevada
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cryptocurrency%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -269,3 +267,10 @@ The crypto industry's $245M+ 2024 election investment produced four concrete pol
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cryptocurrency%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Fairshake PAC summary, $260M raised, $196M spent, 2024 cycle](https://www.opensecrets.org/political-action-committees-pacs/fairshake-pac/C00835959/summary/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cryptocurrency%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

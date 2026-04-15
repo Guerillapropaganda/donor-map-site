@@ -143,7 +143,6 @@ California is ground zero for tech regulation, and Google has dramatically escal
 **Covert tactics:** Google's California lobbying frequently operates through third-party organizations and industry associations without Google's name appearing on direct lobbying disclosures. It organizes small business owner coalitions, funds astroturf campaigns, and uses the California Chamber of Commerce as a proxy.
 
 - [LA Times: Why Google's California lobbying skyrocketed](https://www.latimes.com/california/story/2023-12-19/why-googles-lobbying-in-california-skyrocketed-this-year) (Tier 2) (VERIFIED)
-- ~~[CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Markup: Google covert privacy bill lobbying](https://themarkup.org/privacy/2025/09/12/google-wasnt-against-this-privacy-bill-officially-behind-the-scenes-it-orchestrated-opposition) (Tier 2) (VERIFIED)
 
 ### European Union
@@ -246,7 +245,6 @@ The April 2017 bipartisan maxing out, $33,900 to both the NRSC and DSCC in the s
 - [OpenSecrets: Alphabet Inc top recipients, 2024](https://www.opensecrets.org/orgs/alphabet-inc/recipients?id=D000067823) (Tier 1) (VERIFIED) (Chrome-verified)
 - [OpenSecrets: Google PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/summary/2024) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: Google PAC recipients 2022](https://www.opensecrets.org/political-action-committees-pacs/google-inc/C00428623/candidate-recipients/2022) (Tier 1) (VERIFIED) (UNVERIFIED)
-- ~~[Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [FEC Receipts: Sundar Pichai donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sundar%20Pichai) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ---
@@ -303,7 +301,6 @@ Google lobbied in favor of a 10-year federal moratorium on state AI regulation i
 
 - [NPR: Google loses antitrust case](https://www.npr.org/2024/08/05/nx-s1-5064624/google-justice-department-antitrust-search) (Tier 2) (VERIFIED) (Chrome-verified)
 - [NPR: Judge lets Google keep Chrome (Sept 2025)](https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling) (Tier 2) (VERIFIED) (Chrome-verified)
-- ~~[Congress.gov CRS: Federal Court Endorses Behavioral Remedies](https://www.congress.gov/crs-product/LSB11362)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (Chrome-verified)
 - [Mintz: DOJ drops AI divestiture](https://www.mintz.com/insights-center/viewpoints/54731/2025-03-14-doj-scraps-proposal-require-google-sell-ai-investments) (Tier 2) (VERIFIED)
 - [Bipartisan Policy Center: Gonzalez v. Google](https://bipartisanpolicy.org/article/gonzalez-v-google/) (Tier 3) (VERIFIED) (UNVERIFIED)
 - [Nemko Digital: Big Tech AI regulation blocked 2025](https://digital.nemko.com/insights/how-big-tech-lobbying-stopped-us-ai-regulation-in-2025) (Tier 2) (VERIFIED)
@@ -373,7 +370,6 @@ Google's most distinctive political operation is its funding of academic researc
 
 In 2017, New America fired a researcher who praised the EU's antitrust action against Google, after Google chairman [[Eric Schmidt]], a major funder, objected. The incident revealed the mechanism: Google-funded research that criticizes Google faces institutional consequences. The effect is not direct censorship but self-censorship, researchers at Google-funded institutions learn what topics produce career risk.
 
-- ~~[New York Times: Google's academic funding and the New America incident (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome-verified)
 - [ProPublica: Stanford Promises Not to Use Google Money for Privacy Research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2) (VERIFIED) (Chrome-verified)
 
 ---
@@ -434,7 +430,6 @@ Google represents the most advanced form of monopoly power in the vault, one tha
 - [CNBC: Google stock jumps as judge rules it can keep Chrome](https://www.cnbc.com/2025/09/02/google-antitrust-search-ruling.html) (Tier 2) (VERIFIED)
 - [Issue One: Big Tech cozies up after record lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (VERIFIED)
 - [Open Markets Institute: Google's 50-state lobby strategy](https://www.openmarketsinstitute.org/publications/google-refines-50-state-lobby-strategy-austin-ahlman) (Tier 2) (VERIFIED)
-- ~~[New York Times: Google academic funding and New America (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Stanford and Google privacy research](https://www.propublica.org/article/stanford-promises-not-to-use-google-money-for-privacy-research) (Tier 2) (VERIFIED)
 
 ### Investigative Journalism (UNVERIFIED, need Chrome pass):
@@ -477,7 +472,6 @@ Google represents the most advanced form of monopoly power in the vault, one tha
 **Notable cases:**
 - Redmond v. United States (2022) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -497,3 +491,14 @@ Google represents the most advanced form of monopoly power in the vault, one tha
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Google%20-%20Alphabet) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: California lobbying Q3 2024](https://calmatters.org/category/politics/2024/11/california-lobbying-google-big-oil/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Google $1M Trump inauguration](https://www.politico.com/live-updates/2025/01/09/congress/google-donation-donald-trump-inauguration-00197233)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (VERIFIED) (UNVERIFIED)
+- ~~[Congress.gov CRS: Federal Court Endorses Behavioral Remedies](https://www.congress.gov/crs-product/LSB11362)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (Chrome-verified)
+- ~~[New York Times: Google's academic funding and the New America incident (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome-verified)
+- ~~[New York Times: Google academic funding and New America (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -75,16 +75,21 @@ Pappas' fundraising advantage ($14.2M for House career) is disproportionately bu
 
 - [New Hampshire 2026 Senate race: Pappas vs Brown/Sununu | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_New_Hampshire,_2026) (Tier 3) (VERIFIED)
 - {{src:src_001977}} (Tier 1) (VERIFIED)
-- ~~[Chris Pappas voting record on healthcare and opioid legislation | ProPublica Congress](https://projects.propublica.org/congress/members/P000614-chris-pappas)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_001979}} (Tier 1) (VERIFIED)
-- ~~[John Sununu state campaign finances | New Hampshire Secretary of State](https://sos.nh.gov/elections-division/candidates-committees/campaign-finance-disclosure)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Pharmaceutical industry political spending. New Hampshire](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[Pfizer opioid settlement and ongoing litigation | DOJ Settlement Tracker](https://www.justice.gov/civil/opioid-litigation-settlements)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Portsmouth Naval Shipyard defense contracts and political spending | Center for Responsive Politics](https://www.opensecrets.org/orgs/general-dynamics/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[General Dynamics 2026 campaign contributions tracking | OpenSecrets](https://www.opensecrets.org/orgs/general-dynamics/recipients?cycle=2026)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Pharmaceutical industry political spending in 2026 | PharmWatch](https://www.pharmacwatch.org/2026-political-spending)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[Women's political action networks supporting Pappas | EMILY's List donor database](https://emilyslist.org/candidate-support-2026)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[DSCC and NRSC early spending projections | Politico](https://www.politico.com/news/2026-senate-spending-estimates)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Chris Pappas voting record on healthcare and opioid legislation | ProPublica Congress](https://projects.propublica.org/congress/members/P000614-chris-pappas)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[John Sununu state campaign finances | New Hampshire Secretary of State](https://sos.nh.gov/elections-division/candidates-committees/campaign-finance-disclosure)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Pfizer opioid settlement and ongoing litigation | DOJ Settlement Tracker](https://www.justice.gov/civil/opioid-litigation-settlements)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Portsmouth Naval Shipyard defense contracts and political spending | Center for Responsive Politics](https://www.opensecrets.org/orgs/general-dynamics/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[General Dynamics 2026 campaign contributions tracking | OpenSecrets](https://www.opensecrets.org/orgs/general-dynamics/recipients?cycle=2026)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Pharmaceutical industry political spending in 2026 | PharmWatch](https://www.pharmacwatch.org/2026-political-spending)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Women's political action networks supporting Pappas | EMILY's List donor database](https://emilyslist.org/candidate-support-2026)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[DSCC and NRSC early spending projections | Politico](https://www.politico.com/news/2026-senate-spending-estimates)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

@@ -17,7 +17,6 @@ donors: Leonard Leo (Marble Freedom Trust), National Christian Foundation, Herit
 
 Trump raised millions in small-dollar donations by leveraging culture war issues in 2024. The campaign spent more than $19 million on two television ads attacking Kamala Harris over gender-affirming care for incarcerated people and detained immigrants. The ads aired nearly 55,000 times starting in October 2024. Make America Great Again Inc. (Trump super PAC) spent an additional $1.1 million on similar ads, bringing the Trump operation's anti-trans advertising to over $40 million in the final five weeks of the 2024 cycle.
 
-- ~~[Washington Post: How a grandma became the focus of a 'misinformed' Trump ad on trans athletes](https://www.washingtonpost.com/nation/2024/11/05/election-trans-sports-trump-campaign/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: Trump Millions Spent on Anti-Trans Ads](https://www.cbsnews.com/news/trump-anti-trans-ads-spending/) (Tier 2) (VERIFIED)
 
 Across the entire Republican ecosystem, spending on anti-trans television advertising reached $215 million during the 2024 cycle, with Trump and allied super PACs accounting for about one-third of that total. The scale of advertising spending on a single culture war issue (trans rights) exceeds the entire Democratic media budget in six states.
@@ -146,3 +145,9 @@ The mechanism is deliberate and coordinated. Culture war serves as the political
 
 Culture war is not separate from economic policy. Culture war is the political mechanism through which economic policy becomes electorally viable. It is the delivery system through which capital extraction happens with working class participation.
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: How a grandma became the focus of a 'misinformed' Trump ad on trans athletes](https://www.washingtonpost.com/nation/2024/11/05/election-trans-sports-trump-campaign/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

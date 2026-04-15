@@ -175,9 +175,7 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 ### Sources
 
 - [OpenSecrets: Republican Jewish Coalition organizational profile](https://www.opensecrets.org/orgs/republican-jewish-coalition/summary?id=D000028612) (Tier 1) (VERIFIED)
-- ~~[IRS Form 990: Republican Jewish Coalition (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Republican%20Jewish%20Coalition&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Inside the Investigation of Leading Republican Money Man Sheldon Adelson](https://www.propublica.org/article/inside-the-investigation-of-leading-republican-money-man-sheldon-adelson) (Tier 2) (VERIFIED)
-- ~~[The Guardian: Adelson death and political succession](https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Pro-Israel political giving and RJC](https://ballotpedia.org/Pro-Israel_political_spending) (Tier 3) (VERIFIED)
 
 ---
@@ -210,7 +208,6 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 - American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
 - Taal v. Trump (2025) — District Court, N.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Republican%20Jewish%20Coalition%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -227,11 +224,6 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521386172) (Tier 1) (VERIFIED)
@@ -264,3 +256,16 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Republican%20Jewish%20Coalition) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS Form 990: Republican Jewish Coalition (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Republican%20Jewish%20Coalition&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[The Guardian: Adelson death and political succession](https://www.theguardian.com/us-news/2021/jan/11/sheldon-adelson-dead-pro-israel-mega-donor)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Republican%20Jewish%20Coalition%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521386172/2019)~~ (URL broken, archived by Ops)

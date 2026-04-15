@@ -104,7 +104,6 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 - [OpenSecrets: Humana organizational profile](https://www.opensecrets.org/orgs/humana-inc/summary?id=D000000652) (Tier 1)
 - [CMS: Medicare Advantage payment data](https://www.cms.gov/medicare/payment/medicare-advantage-rates-statistics) (Tier 1) (VERIFIED)
-- ~~[STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Humana political spending](https://ballotpedia.org/Humana) (Tier 3) (VERIFIED)
 
 ---
@@ -131,7 +130,6 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 | Net Assets | $26K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 800487553](https://projects.propublica.org/nonprofits/organizations/800487553) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -169,7 +167,6 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 - Evolution Well Services Operating, LLC et, al v. Hill (2026) — District Court, S.D. Texas
 - Childers v. Humana, Inc. (2026) — District Court, W.D. Kentucky
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -277,3 +274,11 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[STAT News: Medicare Advantage upcoding and overpayment](https://www.statnews.com/medicare-advantage-upcoding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=08_2020_prefixes_74-81%2F800487553_201912_990EZ_2020083117270894.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Humana%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

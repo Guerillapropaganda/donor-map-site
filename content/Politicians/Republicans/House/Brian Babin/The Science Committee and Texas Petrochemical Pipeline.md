@@ -105,7 +105,6 @@ The **Knowledge-Suppression Pipeline**: Oil & Gas PAC money → Science Committe
 
 - {{src:src_004558}} (Tier 1) (VERIFIED)
 - {{src:src_004558}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Brian Babin member profile](https://www.congress.gov/member/brian-babin/B001291)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Science Committee: Chairman Babin applauds NOAA decision to cancel Billion-Dollar Disasters dataset. May 9, 2025](https://republicans-science.house.gov/2025/5/chairman-babin-applauds-noaa-decision-to-cancel-controversial-billion-dollar-disaster-dataset) (Tier 1) (VERIFIED)
 - [House Science Committee: Babin, McCormick probe $27B Biden-era EPA climate fund. June 2025](https://republicans-science.house.gov/2025/6/babin-mccormick-probe-27-billion-biden-era-epa-climate-fund-amid-oversight-favoritism-concerns) (Tier 1) (VERIFIED)
 - [LCV: Brian Babin scorecard, lifetime 1%, 2025 score 0%](https://www.lcv.org/moc/brian-babin/) (Tier 2) (VERIFIED)
@@ -114,3 +113,9 @@ The **Knowledge-Suppression Pipeline**: Oil & Gas PAC money → Science Committe
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Brian Babin member profile](https://www.congress.gov/member/brian-babin/B001291)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

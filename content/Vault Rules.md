@@ -45,7 +45,6 @@ Every factual claim in the vault must cite a government record. Articles provide
 
 ### Verified
 - {{src:src_000056}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: 12 Bills Sponsored, 118th Congress](https://www.congress.gov/member/...)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Investigation into PAC spending](https://propublica.org/...) (Tier 2) (NEEDS REVIEW)
 
 ### Archived
@@ -852,3 +851,4 @@ Permanent record of architectural and editorial decisions that affect the whole 
 | 2026-04-05 | Epstein content excluded from publication scope. If it surfaces, stop and ask David. | David |
 | 2026-04-05 | Politicians whose careers end in a cabinet post go to their administration's Cabinet folder | David |
 | 2026-04-05 | `running-for:` frontmatter for candidate tracking when no race folder exists | David |
+- ~~[Congress.gov: 12 Bills Sponsored, 118th Congress](https://www.congress.gov/member/...)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

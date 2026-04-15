@@ -166,5 +166,10 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Bob Menendez](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bob Menendez](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

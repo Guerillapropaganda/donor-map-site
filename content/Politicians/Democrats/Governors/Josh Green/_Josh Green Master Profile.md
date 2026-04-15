@@ -236,7 +236,6 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 - [NPR: Hawaii governor vows to block land grabs as fire-ravaged Maui rebuilds](https://www.npr.org/2023/08/17/1194351587/hawaii-governor-vows-to-block-land-grabs-as-fire-ravaged-maui-rebuilds) (Tier 2) (VERIFIED)
 - [Governing: Gov. Josh Green Reflects on Maui Wildfires a Year Later](https://www.governing.com/resilience/gov-josh-green-reflects-on-maui-wildfires-a-year-later) (Tier 2) (VERIFIED)
 - [Associated Press: Hawaii Gov. Josh Green tells AP $4B settlement for 2023 Maui wildfire](https://www.hawaiinewsnow.com/2024/08/03/gov-green-announces-historic-4-billion-settlement-maui-wildfire-anniversary-nears/) (Tier 2) (VERIFIED)
-- ~~[Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ## Committee Assignments (Congress.gov)
 
@@ -245,5 +244,11 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Josh Green](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Maui Now: Gov. Green Renews Commitment with 450-unit Ka La'i Ola project](https://mauinow.com/2024/04/23/gov-green-renews-commitment-to-house-fema-ineligible-maui-wildfire-survivors/ble-maui-wildfire-survivors-with-450-unit-ka-lai-ola-project/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Josh Green](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

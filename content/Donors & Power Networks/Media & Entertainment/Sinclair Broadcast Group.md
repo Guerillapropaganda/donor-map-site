@@ -86,7 +86,6 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 ### Sources
 
-- ~~[OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FCC: Station ownership filings](https://www.fcc.gov/media/television/tv-station-profiles) (Tier 1) (NEEDS REVIEW)
 - [Deadspin: Sinclair script compilation](https://www.youtube.com?v=_fHfgU8oMSo) (Tier 2) (VERIFIED)
 - [Ballotpedia: Sinclair Broadcast Group](https://ballotpedia.org/Sinclair_Broadcast_Group) (Tier 3) (VERIFIED)
@@ -121,7 +120,6 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 - American Signature, Inc. (2025) — United States Bankruptcy Court, D. Delaware
 - COBB v. ADVANCED TELEVISION SYSTEMS COMMITTEE (2025) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcast%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -195,11 +193,6 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2014, 2013, 2012
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911500276) (Tier 1) (VERIFIED)
@@ -285,5 +278,17 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 - 2026-03-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526117853/0001193125-26-117853-index.htm) (VERIFIED)
 - 2026-02-03 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526034347/0001193125-26-034347-index.htm) (VERIFIED)
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcast%20Group%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Sinclair Broadcast Group](https://www.opensecrets.org/orgs/sinclair-broadcast-group/summary?id=D000029897)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sinclair%20Broadcast%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911500276/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Sinclair%20Broadcast%20Group%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

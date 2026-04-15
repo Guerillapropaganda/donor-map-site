@@ -180,11 +180,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 ### Sources
 
 - [OpenSecrets. Michael Bloomberg donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=michael%20bloomberg) (Tier 2) (VERIFIED)
-- ~~[ABC News. Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[CNN. Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[InfluenceWatch. Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 - [PBS Frontline. Everytown for Gun Safety](https://www.pbs.org/wgbh/frontline/documentary/gunned-down/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -258,5 +254,14 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Blo
 - Nicole Brooke Beninate v. Chief Justice John G. Roberts, Jr. (2025) — District Court, C.D. California
 - Samantha Rutcoskey v. Chief Justice John Roberts (2025) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Michael%20Bloomberg%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ABC News. Bloomberg 2020 campaign spending](https://abcnews.go.com/Politics/bloomberg-2020-campaign-spending/story?id=68818880)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN. Bloomberg 2018 midterm spending and 2018 House flip](https://web.archive.org/web/2019/https:/www.cnn.com/politics/news/2018-midterms-bloomberg-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[InfluenceWatch. Independence USA PAC](https://www.influencewatch.org/non-profit/independence-usa-pac/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- ~~[Bloomberg Billionaires Index](https://www.bloomberg.com/billionaires/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Michael%20Bloomberg%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

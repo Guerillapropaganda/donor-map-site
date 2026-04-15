@@ -99,8 +99,13 @@ Jacobin is analytically important because it explicitly does what this vault doe
 - [ProPublica: Jacobin Foundation 990s](https://projects.propublica.org/nonprofits/organizations/464332395) (Tier 1) (VERIFIED)
 - [CJR: The ABCs of Jacobin](https://www.cjr.org/special_report/the-abcs-of-jacobin-socialist-magazine.php) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Jacobin](https://www.influencewatch.org/non-profit/jacobin/) (Tier 3) (VERIFIED)
-- ~~[The Nation: Bhaskar Sunkara president announcement](https://www.thenation.com/article/news/jacobin-sunkara-nation/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Payday Report: Tribune workers wage dispute](https://paydayreport.com/jacobin-publisher-accused-of-reneging-on-wage-deal-in-takeover-of-british-magazine-the-tribune/) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Nation: Bhaskar Sunkara president announcement](https://www.thenation.com/article/news/jacobin-sunkara-nation/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

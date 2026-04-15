@@ -157,18 +157,15 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 
 ### Sources
 
-- ~~[OpenSecrets. Saudi FARA](https://www.opensecrets.org/fara/countries/41)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets. UAE FARA](https://www.opensecrets.org/fara/countries/1) (Tier 1) (VERIFIED)
 - [OpenSecrets. Qatar FARA](https://www.opensecrets.org/fara/countries/143) (Tier 1) (VERIFIED)
 - [House Oversight Committee. Kushner $2B probe](https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-launches-probe-of-saudi-government-s-2-billion-investment-in) (Tier 1) (VERIFIED)
 - [Fortune. Tahnoon WLF deal](https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) (Tier 2) (VERIFIED)
 - [CNBC. UAE WLF stake](https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html) (Tier 2) (VERIFIED)
-- ~~[Bloomberg. UAE chip sales](https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Al Jazeera. Khashoggi CIA assessment](https://www.aljazeera.com/news/2018/11/17/cia-says-saudi-crown-prince-ordered-khashoggis-murder-reports) (Tier 2) (VERIFIED)
 - [PBS. Barrack acquittal](https://www.pbs.org/newshour/politics/jury-finds-trump-ally-tom-barrack-not-guilty-of-foreign-agent-charges) (Tier 2) (VERIFIED)
 - [Wikipedia. Affinity Partners](https://en.wikipedia.org/wiki/Affinity_Partners) (Tier 3) (VERIFIED)
 - [Popular.info. Kushner seeks $5B](https://popular.info/p/kushner-breaks-pledge-seeks-5-billion) (Tier 2) (VERIFIED)
-- ~~[Golf Digest. PGA/PIF negotiations](https://www.golfdigest.com/story/pga-tour-saudi-pif-negotiation-breakdown-and-the-state-of-a-potential-deal)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FDD. Qatar $225M influence](https://www.fdd.org/analysis/2025/11/21/inside-qatars-225-million-effort-to-court-us-policymakers-and-press/) (Tier 3) (VERIFIED)
 - [Quincy Institute. Emirati lobby](https://quincyinst.org/research/the-emirati-lobby-in-america/) (Tier 2) (VERIFIED)
 - [German Marshall Fund, foreign money loopholes](https://securingdemocracy.gmfus.org/covert-foreign-money/) (Tier 2) (VERIFIED)
@@ -260,3 +257,11 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets. Saudi FARA](https://www.opensecrets.org/fara/countries/41)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg. UAE chip sales](https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Golf Digest. PGA/PIF negotiations](https://www.golfdigest.com/story/pga-tour-saudi-pif-negotiation-breakdown-and-the-state-of-a-potential-deal)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

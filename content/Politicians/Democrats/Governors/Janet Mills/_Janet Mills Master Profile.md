@@ -157,7 +157,6 @@ Mills employs prosecutor-turned-executive pragmatism: she frames issues through 
 - [Maine Gov. Janet Mills enters Senate race against Susan Collins | Roll Call](https://rollcall.com/2025/10/14/maine-gov-janet-mills-officially-enters-senate-race/) (Tier 2) (VERIFIED)
 - [Deep-pocketed groups are already spending on the Maine U.S. Senate race | Maine Public](https://www.mainepublic.org/politics/2025-12-12/deep-pocketed-groups-are-already-spending-on-the-maine-u-s-senate-race-heres-an-early-guide) (Tier 2) (VERIFIED)
 - [Graham Platner posts $4.6 million in fourth quarter fundraising, Gov. Janet Mills $2.7 million | Maine Public](https://www.mainepublic.org/politics/2026-02-02/graham-platner-posts-4-6-million-in-fourth-quarter-fundraising-gov-janet-mills-2-7-million) (Tier 2) (VERIFIED)
-- ~~[Janet T Mills Money Profile | OpenSecrets](https://www.opensecrets.org/officeholders/janet-t-mills/summary?cycle=2021&id=9941379)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [8 months until election day and spending in Maine U.S. Senate race already tops $37 million | Maine Public](https://www.mainepublic.org/politics/2026-03-20/8-months-until-election-day-and-spending-in-maine-u-s-senate-race-already-tops-37-million) (Tier 2) (VERIFIED)
 - [Governor Mills Applauds Attorney General Frey for Opioid Settlement Funds Agreement | Office of Governor Janet T. Mills](https://www.maine.gov/governor/mills/news/governor-mills-applauds-attorney-general-frey-opioid-settlement-funds-agreement-2022-01-28) (VERIFIED) (Tier 1 - primary source) (Tier 2)
 - [Here's how the Maine AG's office is spending its share of the opioid settlement | Bangor Daily News](https://www.bangordailynews.com/2025/12/22/politics/state-politics/maine-ags-office-opioid-settlement/) (Tier 2) (VERIFIED)
@@ -184,3 +183,9 @@ party:: Democrat
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Janet T Mills Money Profile | OpenSecrets](https://www.opensecrets.org/officeholders/janet-t-mills/summary?cycle=2021&id=9941379)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

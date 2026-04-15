@@ -180,10 +180,7 @@ Before Congress, Connolly worked at SRI International (a government contractor) 
 
 ## Sources
 
-- ~~[Congress.gov: Gerry Connolly donor profile](https://www.congress.gov/search?q=Gerry%20Connolly&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Gerry Connolly industry donors](https://www.opensecrets.org/members-of-congress/industries?cid=N00029891&cycle=CAREER) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Gerry Connolly](https://www.congress.gov/member/gerald-connolly/C001078)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[House.gov: Connolly biography](https://connolly.house.gov/about/full-biography.htm)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Time: How Rep. Gerry Connolly Fought for Federal Workers](https://time.com/7287510/gerry-connolly-dies-federal-workers-advocacy/) (Tier 2) (VERIFIED)
 - [Washington Post: Gerry Connolly, congressman who protected federal workforce, dies at 75](https://www.washingtonpost.com/obituaries/2025/05/21/gerry-connolly-virginia-congressman-dead-obituary/) (Tier 2) (VERIFIED)
 - [FedScoop: Gerry Connolly, congressional champion of federal IT reform, dies at 75](https://fedscoop.com/gerry-connolly-congressional-champion-of-federal-it-reform-dies-at-75/) (Tier 2) (VERIFIED)
@@ -197,7 +194,6 @@ Before Congress, Connolly worked at SRI International (a government contractor) 
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Gerry Connolly](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -246,3 +242,12 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001078) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Gerry Connolly donor profile](https://www.congress.gov/search?q=Gerry%20Connolly&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Gerry Connolly](https://www.congress.gov/member/gerald-connolly/C001078)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[House.gov: Connolly biography](https://connolly.house.gov/about/full-biography.htm)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Gerry Connolly](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

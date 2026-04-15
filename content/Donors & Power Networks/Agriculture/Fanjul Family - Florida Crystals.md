@@ -241,7 +241,6 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 
 - [OpenSecrets: Fanjul Corp Summary](https://www.opensecrets.org/orgs/fanjul-corp/summary?id=D000066714) (Tier 1) (VERIFIED)
 - [OpenSecrets: Fanjul Corp Recipients](https://www.opensecrets.org/orgs/fanjul-corp/recipients?id=D000066714) (Tier 1) (VERIFIED)
-- ~~[Senate LDA Filings: Fanjul Corp Lobbying](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Florida Sugar Cane League PAC](https://www.opensecrets.org/political-action-committees-pacs/florida-sugar-cane-league/C00012328/summary/2024) (Tier 1) (VERIFIED)
 - [GAO: Sugar Program Report (GAO-24-106144)](https://www.gao.gov/products/gao-24-106144) (Tier 1) (VERIFIED)
 - [USDA ERS: Sugar and Sweeteners Policy](https://www.ers.usda.gov/topics/crops/sugar-and-sweeteners/policy) (Tier 1) (VERIFIED)
@@ -274,7 +273,6 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 - [FII Institute: FII Miami 2026 Program — Claver-Carone as LARA Fund Managing Partner](https://fii-institute.org/wp-content/uploads/2025/11/FII-Miami-2026-Program-2.pdf) (Tier 2) (VERIFIED) (Chrome verified 2026-03-31)
 - [LegiStorm: Brian Walsh — NSC Senior Director (Jan–Apr 2025)](https://www.legistorm.com/person/bio/5594/Brian_William_Walsh.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-31)
 - [LegiStorm: Victor Cervino — NSC Senior Director, Western Hemisphere Affairs (2025–)](https://www.legistorm.com/person/bio/5638/Victor_M_Cervino.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-31)
-- ~~[The New York Times: Norman Braman, Marco Rubio's Wealthy Patron](https://www.nytimes.com/2015/05/10/us/politics/norman-braman-marco-rubios-wealthy-patron.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (URL confirmed, Chrome blocked by safety restrictions)
 - [I-On Defense Podcast: Lockheed Martin PrSM Increment 2 Caribbean Deployment](https://rss.buzzsprout.com/1968463.rss) (Tier 3) (VERIFIED) (Chrome verified 2026-03-31 — RSS feed)
 - [eScholarship: Ignorance Is Strength — Rubio received millions from Lockheed Martin, General Dynamics (2017–2022)](https://escholarship.org/content/qt3q86m244/qt3q86m244_noSplash_0d439f824d981bd526a33194a4039007.pdf) (Tier 2) (VERIFIED) (Chrome verified 2026-03-31)
 - [GovInfo: No Stolen Trademarks Honored in America Act (Public Law 118-137)](https://www.govinfo.gov/bulkdata/PLAW/118/public/PLAW-118publ137.xml) (Tier 1) (VERIFIED) (Chrome verified 2026-03-31)
@@ -291,3 +289,10 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 ---
 
 ### Federal Subawards & Spending Breakdown
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Senate LDA Filings: Fanjul Corp Lobbying](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[The New York Times: Norman Braman, Marco Rubio's Wealthy Patron](https://www.nytimes.com/2015/05/10/us/politics/norman-braman-marco-rubios-wealthy-patron.html)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2) (URL confirmed, Chrome blocked by safety restrictions)

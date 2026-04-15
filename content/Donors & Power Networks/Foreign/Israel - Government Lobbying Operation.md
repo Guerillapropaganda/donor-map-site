@@ -74,7 +74,6 @@ Continued $3.8 billion annual military aid, diplomatic cover at the United Natio
 
 ### Sources
 
-- ~~[FARA: Israel-related foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Pro-Israel lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Ballotpedia: Israel-US relations](https://ballotpedia.org/Israel_-_Government_Lobbying_Operation) (Tier 3) (VERIFIED)
 
@@ -93,5 +92,12 @@ Continued $3.8 billion annual military aid, diplomatic cover at the United Natio
 **Foreign principals:**
 - Embassy of the State of Qatar (QATAR)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Israel%20-%20Government%20Lobbying%20Operation)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FARA: Israel-related foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Israel%20-%20Government%20Lobbying%20Operation)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Israel%20-%20Government%20Lobbying%20Operation)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

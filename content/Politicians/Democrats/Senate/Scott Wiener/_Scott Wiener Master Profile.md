@@ -129,7 +129,6 @@ Wiener uses technocratic framing, "supply and demand," "evidence-based housing p
 - [Lawfare: Wiener on SB 53](https://www.lawfaremedia.org/article/scaling-laws--sen.-scott-wiener-on-california-senate-bill-53) (Tier 2) (VERIFIED)
 - [Forward: Wiener steps down from Jewish Caucus](https://forward.com/fast-forward/799791/facing-backlash-after-accusing-israel-of-genocide-scott-wiener-steps-down-as-calif-jewish-caucus-co-chair/) (Tier 2) (VERIFIED)
 - [SF Chronicle: Wiener and Pelosi endorsement](https://www.sfchronicle.com/politics/article/scott-wiener-democrats-nancy-pelosi-21360874.php) (Tier 2) (VERIFIED)
-- ~~[NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Advocate: Wiener endorsed by five organizations](https://www.advocate.com/politics/scott-wiener-endorsed-five-organizations) (Tier 3) (VERIFIED)
 
 ---
@@ -151,5 +150,11 @@ Wiener uses technocratic framing, "supply and demand," "evidence-based housing p
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Scott Wiener](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NYT: Pelosi and Wiener congressional race](https://www.nytimes.com/2025/10/22/us/pelosi-congress-scott-wiener.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Scott Wiener](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

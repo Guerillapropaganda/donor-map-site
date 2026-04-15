@@ -229,18 +229,14 @@ The class function AOC performs is unique: she demonstrates that the small-dolla
 ### Verified
 - {{src:src_001221}} (Tier 1) (VERIFIED)
 - {{src:src_006370}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Alexandria Ocasio-Cortez member profile](https://www.congress.gov/member/alexandria-ocasio-cortez/O000172)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Alexandria Ocasio-Cortez voting record](https://www.govtrack.us/congress/members/412804) (Tier 1) (NEEDS REVIEW)
 - [House Ethics Committee Report: July 25, 2025 (Met Gala ruling)](https://ethics.house.gov/wp-content/uploads/2025/07/Committee-Report-20250725-Rep.-Ocasio-Cortez-1.pdf) (Tier 1) (VERIFIED)
 - [ProPublica Congress: Alexandria Ocasio-Cortez](https://projects.propublica.org/represent/members/O000172) (Tier 1) (NEEDS REVIEW)
 - [CNN: AOC built a Democratic fundraising juggernaut (2025)](https://www.cnn.com/2025/08/26/politics/aoc-ocasio-cortez-fundraising-democrats) (Tier 2) (VERIFIED)
-- ~~[Politico: AOC raised $9.6M in Q1 2025](https://www.politico.com/news/2025/04/15/ocasio-cortez-raised-9-6-million-in-three-months-smashing-her-own-record-00291694)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Business Insider: Wall Street donors to Caruso-Cabrera 2020](https://markets.businessinsider.com/news/stocks/wall-street-giants-donated-aoc-opponent-michelle-caruso-cabrera-2020-6-1029342965) (Tier 2) (VERIFIED)
 - [Sludge: Fight for Our Communities PAC funded by opponent's husband](https://readsludge.com/2020/06/17/aoc-attacked-by-super-pac-funded-by-primary-opponents-husband/) (Tier 2) (VERIFIED)
-- ~~[Forbes: Ethics Committee Met Gala ruling](https://www.forbes.com/sites/tylerroush/2025/07/25/alexandria-ocasio-cortez-violated-house-rules-during-met-gala-appearance-ethics-committee-says/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Business Insider: AOC net worth and financial disclosure](https://www.businessinsider.com/alexandria-ocasio-cortez-net-worth-financial-disclosure-2025-5) (Tier 2) (VERIFIED)
 - [New York Post: Celebrity donors behind small-dollar facade](https://nypost.com/2025/11/15/us-news/aoc-trumpets-small-donors-but-celebs-like-jane-fonda-ben-affleck-wanda-sykes-and-melanie-griffith-give-big/) (Tier 2) (VERIFIED)
-- ~~[Reuters: Moderate Democrats return Courage to Change PAC donations](https://www.reuters.com/business/finance/us-republicans-spotlight-aoc-pacs-contributions-vulnerable-house-democrats-2021-04-19/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Jacobin: AOC voting record and policy accomplishments](https://jacobin.com/2023/08/alexandria-ocasio-cortez-aoc-the-squad-left-criticism-policy-accomplishments) (Tier 2) (VERIFIED)
 - [Slate: AOC apologizes after "present" vote on Iron Dome](https://slate.com/news-and-politics/2021/09/aoc-apologizes-present-vote-iron-dome-funding.html) (Tier 2) (VERIFIED)
 - [Quiver Quantitative: Q4 2025 Filing](https://www.quiverquant.com/news/Fundraising+Update:+Representative+Alexandria+Ocasio-Cortez+just+disclosed+$3.7M+of+new+fundraising) (Tier 2) (VERIFIED)
@@ -652,3 +648,7 @@ _No committee data found for the 119th Congress._
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
 
 <!-- auto:fec-summary pending-merge end -->
+- ~~[Congress.gov: Alexandria Ocasio-Cortez member profile](https://www.congress.gov/member/alexandria-ocasio-cortez/O000172)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Politico: AOC raised $9.6M in Q1 2025](https://www.politico.com/news/2025/04/15/ocasio-cortez-raised-9-6-million-in-three-months-smashing-her-own-record-00291694)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Ethics Committee Met Gala ruling](https://www.forbes.com/sites/tylerroush/2025/07/25/alexandria-ocasio-cortez-violated-house-rules-during-met-gala-appearance-ethics-committee-says/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: Moderate Democrats return Courage to Change PAC donations](https://www.reuters.com/business/finance/us-republicans-spotlight-aoc-pacs-contributions-vulnerable-house-democrats-2021-04-19/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

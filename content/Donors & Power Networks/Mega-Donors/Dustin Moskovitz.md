@@ -150,12 +150,9 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 
 ### Sources
 
-- ~~[OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC: Dustin Moskovitz individual contributions 2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dustin+moskovitz) (Tier 1) (VERIFIED)
 - [Open Philanthropy: Annual reports and strategic documents](https://coefficientgiving.org/research-and-news/) (Tier 1) (VERIFIED)
-- ~~[Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Fortune: Meet the millennial Meta cofounder and his wife who are giving away $20 billion](https://fortune.com/2025/11/10/meet-the-millennial-meta-cofounder-and-his-wife-who-are-giving-away-20-billion/) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Effective altruism helped FTX and Sam Bankman-Fried deflect scrutiny](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/) (Tier 2) (VERIFIED)
 - [OpenSecrets: 2024 Dark Money Political Spending Overview](https://www.opensecrets.org/dark-money) (Tier 2) (VERIFIED)
 
@@ -211,7 +208,6 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 - Dunbar v. Zuckerberg (2025) — District Court, S.D. New York
 - Bussard v. Bryan Health (2024) — District Court, D. Nebraska
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Dustin%20Moskovitz%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -231,3 +227,12 @@ The FTX connection exposed the movement's structural vulnerability. Sam Bankman-
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Future Forward USA Action 2024 spending](https://www.opensecrets.org/groups/240400)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Good Ventures Foundation: IRS Form 990 filings](https://www.guidestar.org/profile/26-1493236)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Wall Street Journal: "Facebook's Dustin Moskovitz on Why He Gives Away His Billions"](https://www.wsj.com/articles/facebooks-dustin-moskovitz-on-why-he-gives-away-his-billions-11576079206)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Dustin%20Moskovitz%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

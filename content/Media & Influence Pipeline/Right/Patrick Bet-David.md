@@ -188,5 +188,10 @@ The "Her Take" expansion is class analysis in action: Valuetainment is building 
 - [Vanity Fair: Watching the Trump Victory Among the Podcasters](https://www.vanityfair.com/news/story/watching-the-trump-victory-among-the-podcasters) (Tier 2) (VERIFIED)
 - [Yahoo Finance/PR Newswire: Bold New Podcast "Her Take" Airs Every Friday](https://finance.yahoo.com/news/bold-podcast-talk-show-her-190000209.html) (Tier 3) (VERIFIED)
 - [Wikipedia: Patrick Bet-David](https://en.wikipedia.org/wiki/Patrick_Bet-David) (Tier 3) (VERIFIED)
-- ~~[Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: Trump suggests Zelenskyy is to blame for the Russia-Ukraine war (PBD interview context)](https://www.politico.com/news/2024/10/17/trump-zelenskyy-russia-ukraine-war-00184183)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

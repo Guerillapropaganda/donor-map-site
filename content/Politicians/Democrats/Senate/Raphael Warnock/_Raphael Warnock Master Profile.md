@@ -394,7 +394,6 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 | 4167 | HBCU Research Capacity Act | Read twice and referred to the Committee on Health, Education, Labor, and Pensions. |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000790)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -419,6 +418,12 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 
 **Sources**
 
-- ~~[Congress.gov: Raphael Warnock](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Raphael Warnock](https://www.govtrack.us/congress/members/456858) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000790)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Raphael Warnock](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

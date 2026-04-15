@@ -119,14 +119,19 @@ This is the cleanest example in his labor record of what happens when his donor 
 - [Ballotpedia: Prop 22 full campaign finance data](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 - [California Secretary of State / Cal-Access: committee filings](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx) (Tier 1) (VERIFIED)
 - [CalMatters: California Proposition 22. Exempting some gig workers](https://calmatters.org/election-2020-guide/proposition-22-gig-workers-ab-5/) (Tier 2) (VERIFIED)
-- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Mercury News: Uber Innovation PAC 2024 legislative spending](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2) (VERIFIED)
+- [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2) (VERIFIED)
+- [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[LA Times: Prop 22 spending totals](https://www.latimes.com/business/story/2020-10-20/prop-22-gig-workers-uber-lyft-record-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The Guardian: Prop 22 constitutional ruling (2021)](https://www.theguardian.com/us-news/2021/aug/20/prop-22-unconstitutional-california-ruling-gig-workers)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[CalMatters: Court upholds Prop 22, appeals court win for gig firms (2023)](https://calmatters.org/category/economy/2023/03/prop-22-appeal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The Hill: Flex Association launch](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- [ABC7: 2025 unionization bill](https://abc7news.com/post/governor-gavin-newsom-signs-bill-giving-800000-uber-lyft-drivers-california-unionize/17938887/) (Tier 2) (VERIFIED)
 - ~~[CalMatters: 2026 Uber ballot initiative](https://calmatters.org/category/economy/2026/02/uber-california-ballot-initiatives/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[CalMatters: Newsom recall donors (DoorDash $500K)](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Economic Roundtable: analysis of effective wages under Prop 22](https://economicrt.org/publication/rights-at-risk/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- [CNBC: Prop 22 and DoorDash IPO](https://www.cnbc.com/2020/11/05/california-prop-22-win-improves-doordash-instacart-ipo-prospects.html) (Tier 2) (VERIFIED)
-

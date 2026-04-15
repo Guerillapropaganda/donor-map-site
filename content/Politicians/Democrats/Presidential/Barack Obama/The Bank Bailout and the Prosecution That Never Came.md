@@ -102,14 +102,9 @@ Holder's law firm billed millions in hours defending the financial sector in reg
 
 ### Sources
 
-- ~~[OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: The Geithner Effect: How the administration protected a failed bank and lost billions](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2) (VERIFIED)
-- ~~[Harvard Law School Forum: Why the Government Didn't Prosecute Wall Street: The Case of the 2008 Financial Crisis](https://corpgov.law.harvard.edu/2016/01/24/why-the-government-didnt-prosecute-wall-street-the-case-of-the-2008-financial-crisis/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [The Intercept: Covington & Burling Gets Eric Holder Back After 6-Year Stopover](https://theintercept.com/2015/07/06/eric-holder-returns-law-firm-lobbies-big-banks/) (Tier 2) (VERIFIED)
-- ~~[Reuters: How Eric Holder Went From Prosecuting Bankers to Defending Them](https://www.reuters.com)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Center for Public Integrity: The Great Recession Prosecution Scorecard](https://publicintegrity.org/business/financial-crisis/the-great-recession-prosecution-scorecard/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Financial Crisis Inquiry Commission: Final Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) (Tier 1) (VERIFIED)
-- ~~[Reuters: S&L crisis prosecutions vs. financial crisis prosecutions comparison](https://www.reuters.com)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -136,12 +131,10 @@ Holder's law firm billed millions in hours defending the financial sector in reg
 ### Sources
 
 - [OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638) (Tier 1)
-- ~~[OpenSecrets: Obama 2008 Total Contributions by Employer](https://www.opensecrets.org/pres08/contributors?id=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [ProPublica: The Geithner Effect: How the administration protected a failed bank and lost billions](https://www.propublica.org/article/how-citigroup-unraveled-under-geithners-watch) (Tier 2)
 - [ProPublica: Secret Documents Show Weak Oversight of Key Foreclosure Program (HAMP)](https://www.propublica.org/article/secret-documents-show-weak-oversight-of-key-foreclosure-program) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [Harvard Law School Forum: Why the Government Didn't Prosecute Wall Street: The Case of the 2008 Financial Crisis](https://corpgov.law.harvard.edu/2014/03/28/too-big-to-fail-banks-not-guilty-as-not-charged/) (Tier 2) (VERIFIED)
 - [The Intercept: Covington and Burling Gets Eric Holder Back After 6-Year Stopover](https://theintercept.com/2015/07/06/eric-holder-returns-law-firm-lobbies-big-banks/) (Tier 2) (VERIFIED)
-- ~~[New York Times: Eric Holder Returns to Covington and Burling](https://www.nytimes.com/2015/07/07/business/dealbook/eric-holder-returns-to-covington-burling.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for Public Integrity: Bankers from Major Institutions Still Haven't Been Held Responsible for Financial Crash](https://publicintegrity.org/inequality-poverty-opportunity/bankers-from-major-institutions-still-havent-been-held-responsible-for-financial-crash/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [Financial Crisis Inquiry Commission: Final Report](https://www.govinfo.gov/content/pkg/GPO-FCIC/pdf/GPO-FCIC.pdf) (Tier 1)
 - [ProPublica: The Rise of Corporate Impunity](https://www.propublica.org/article/the-rise-of-corporate-impunity) (Tier 2) (VERIFIED)
@@ -158,3 +151,15 @@ Holder's law firm billed millions in hours defending the financial sector in reg
 - [Mother Jones: The Real Size of the Bailout (Nomi Prins)](https://www.motherjones.com/politics/2009/12/real-size-bailout-treasury-fed/) (Tier 3) (VERIFIED) (UNVERIFIED)
 - [GAO: Federal Reserve Emergency Lending Audit (2011)](https://www.gao.gov/products/gao-11-696) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Obama 2008 Top Contributors](https://www.opensecrets.org/PRES08/contrib.php?cid=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Harvard Law School Forum: Why the Government Didn't Prosecute Wall Street: The Case of the 2008 Financial Crisis](https://corpgov.law.harvard.edu/2016/01/24/why-the-government-didnt-prosecute-wall-street-the-case-of-the-2008-financial-crisis/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Reuters: How Eric Holder Went From Prosecuting Bankers to Defending Them](https://www.reuters.com)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Center for Public Integrity: The Great Recession Prosecution Scorecard](https://publicintegrity.org/business/financial-crisis/the-great-recession-prosecution-scorecard/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Reuters: S&L crisis prosecutions vs. financial crisis prosecutions comparison](https://www.reuters.com)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Obama 2008 Total Contributions by Employer](https://www.opensecrets.org/pres08/contributors?id=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[New York Times: Eric Holder Returns to Covington and Burling](https://www.nytimes.com/2015/07/07/business/dealbook/eric-holder-returns-to-covington-burling.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

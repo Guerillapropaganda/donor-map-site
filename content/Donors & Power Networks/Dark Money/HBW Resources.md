@@ -84,7 +84,6 @@ The firm's Denver office is led by Andrew Browning, who is simultaneously a mana
 
 - [Senate LDA Filings: HBW Resources lobbying firm profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [DeSmog: Consumer Energy Alliance (CEA)](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -204,7 +203,6 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 - Province of Saskatchewan (CANADA)
 - Province of Alberta (CANADA)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Court Records (CourtListener)
@@ -221,7 +219,6 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 - Cloud Peak Energy Inc. (2019) — United States Bankruptcy Court, D. Delaware
 - VER Technologies HoldCo LLC (2018) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22HBW%20Resources%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -259,3 +256,12 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=HBW%20Resources) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: HBW Resources](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/HBW_Resources)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:HBW%20Resources,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22HBW%20Resources%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

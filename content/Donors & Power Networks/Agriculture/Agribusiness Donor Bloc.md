@@ -74,8 +74,6 @@ The four pillars:
 ### Sources
 
 - [FEC Receipts: Agribusiness industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- ~~[EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Agribusiness%20Donor%20Bloc)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -160,3 +158,10 @@ The four pillars:
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EWG: Farm subsidy database](https://farm.ewg.org/search.php?search=Agribusiness%20Donor%20Bloc)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Ballotpedia: Agricultural policy](https://ballotpedia.org/Agribusiness_Donor_Bloc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

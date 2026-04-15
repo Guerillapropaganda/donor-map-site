@@ -229,14 +229,11 @@ The Villain Framing Miller frames immigrants and immigration advocates as the th
 - [America First Legal Foundation founding details](https://aflegal.org/leadership/stephen-miller/) (Tier 3) (NEEDS REVIEW)
 - [NOTUS: Stephen Miller financial bonus before White House return](https://www.notus.org/money/stephen-miller-financial-bonus-white-house-america-first-legal) (Tier 2) (VERIFIED)
 - [Democracy Docket: America First Legal voting rights litigation](https://www.democracydocket.com/analysis/how-stephen-miller-is-using-america-first-legal-to-assail-voting-rights/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: America First Legal](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/America_First_Legal)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [OpenSecrets: America First Legal tax returns analysis](https://www.opensecrets.org/news/2022/12/tax-returns-reveal-finances-of-former-trump-aides-dark-money-group-bankrolling-divisive-ads-ahead-of-2022-midterms/) (Tier 1) (VERIFIED)
 - [NBC News: Cabinet officials voted on family separation](https://www.nbcnews.com/politics/immigration/trump-cabinet-officials-voted-2018-white-house-meeting-separate-migrant-n1237416) (Tier 2) (VERIFIED)
 - [American Oversight: Stephen Miller family separation correspondence](https://americanoversight.org/emails-reveal-doj-officials-close-working-relationship-with-stephen-miller-at-height-of-family-separations/) (Tier 2) (VERIFIED)
 - [TIME: Stephen Miller uncle David Glosser criticism](https://time.com/5365329/stephen-miller-uncle/) (Tier 2) (VERIFIED)
 - [Snopes: Stephen Miller asylum seeker family fact check](https://www.snopes.com/fact-check/stephen-miller-descendant-asylum-seekers-fled-anti-semitic-violence/) (Tier 2) (VERIFIED)
-- ~~[Axios: Stephen Miller ICE daily arrest quota](https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: Stephen Miller Alien Enemies Act Venezuelan deportations](https://www.axios.com/2025/03/16/trump-white-house-defy-judge-deport-venezuelans)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Media Matters: Stephen Miller denaturalization campaign](https://www.mediamatters.org/immigration/right-wing-media-campaign-denaturalize-and-deport-american-citizens) (Tier 2) (VERIFIED)
 - [White House Executive Orders January 2025](https://www.whitehouse.gov/briefing-room/) (Tier 1) (NEEDS REVIEW)
 - [American Oversight: Stephen Miller investigation](https://americanoversight.org/investigation/stephen-millers-influence-on-immigration-policy-and-throughout-the-administration/) (Tier 2) (VERIFIED)
@@ -266,3 +263,11 @@ The Villain Framing Miller frames immigrants and immigration advocates as the th
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/407733) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: America First Legal](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/America_First_Legal)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Axios: Stephen Miller ICE daily arrest quota](https://www.axios.com/2025/05/28/immigration-ice-deportations-stephen-miller)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Stephen Miller Alien Enemies Act Venezuelan deportations](https://www.axios.com/2025/03/16/trump-white-house-defy-judge-deport-venezuelans)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

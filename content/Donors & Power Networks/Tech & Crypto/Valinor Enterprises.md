@@ -157,7 +157,6 @@ The Thiel network builds defense companies. The Thiel network funds politicians 
 
 - [PRNewswire: Valinor Enterprises $85 Million Raised](https://www.prnewswire.com/news-releases/valinor-enterprises-85-million-raised-to-scale-new-operating-model-for-defense-302656411.html) (Tier 2) (VERIFIED)
 - [General Catalyst: Seeding the Future with Valinor](https://www.generalcatalyst.com/stories/seeding-the-future-with-valinor) (Tier 2) (VERIFIED)
-- ~~[Axios: JD Vance starts venture capital fund](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
 - [Fortune: Peter Thiel's protégés: a common thread runs through Trump's tech team](https://fortune.com/2025/05/21/peter-thiel-silicon-valley-trump-administration-elon-musk-jd-vance/) (Tier 2) (VERIFIED)
 
@@ -178,3 +177,9 @@ The Thiel network builds defense companies. The Thiel network funds politicians 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valinor%20Enterprises) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: JD Vance starts venture capital fund](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

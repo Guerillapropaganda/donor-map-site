@@ -147,7 +147,6 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 
 #### Verified
 - {{src:src_001996}} (Tier 1) (VERIFIED)
-- ~~[AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [WOSU Public Media: Crypto spent millions to defeat Sherrod Brown and elect allies](https://www.wosu.org/politics-government/2025-10-13/crypto-spent-millions-to-defeat-sherrod-brown-and-elect-allies-its-ready-for-a-repeat-in-2026) (Tier 2) (VERIFIED)
 - [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2) (VERIFIED)
 - [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3) (VERIFIED)
@@ -491,3 +490,4 @@ Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Sherrod_Brown) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q381880) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+- ~~[AFL-CIO Scorecard: Sherrod Brown labor voting record](https://aflcio.org/scorecard/legislators/sherrod-brown)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

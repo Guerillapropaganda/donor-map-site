@@ -176,7 +176,6 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 | Net Assets | $806K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 262383244](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_26-26%2F262383244_202212_990_2024010522189481.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Vehicle Safety (NHTSA)
@@ -212,11 +211,6 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/262383244) (Tier 1) (VERIFIED)
@@ -273,7 +267,6 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 - Clark v. Halliburton Energy Services, Inc. (2026) — District Court, M.D. Pennsylvania
 - Fulton (ID 2000036653) v. Smith (2026) — District Court, D. Kansas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -339,3 +332,15 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_01_2024_prefixes_26-26%2F262383244_202212_990_2024010522189481.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/262383244/2018)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Halliburton%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

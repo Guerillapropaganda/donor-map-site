@@ -113,12 +113,10 @@ This is not corruption in the traditional sense, it's *class function*. The dono
 
 - [Marc Andreessen - OpenSecrets donor profile](https://www.fec.gov/data/independent-expenditures/?q=Marc%20Andreessen) (Tier 1) (VERIFIED)
 - [ProPublica: Tech Billionaire Marc Andreessen Bet Big on Trump](https://www.propublica.org/article/trump-cfpb-marc-andreessen-silicon-valley) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Silicon Valley's Andreessen, Horowitz Give Millions to Trump PAC](https://www.bloomberg.com/news/articles/2024-10-16/silicon-valley-s-andreessen-horowitz-give-millions-to-trump-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Andreessen Horowitz founders plan to donate to pro-Trump super PAC](https://www.cnbc.com/2024/07/16/andreessen-horowitz-founders-plan-to-donate-to-pro-trump-pacs.html) (Tier 2) (VERIFIED)
 - [SF Standard: Tech billionaire Marc Andreessen goes full MAGA on Joe Rogan podcast](https://sfstandard.com/2024/11/27/marc-andreessen-joe-rogan-trump-maga-silicon-valley/) (Tier 3) (VERIFIED)
 - [DL News: A16z flexes political clout with 50-page crypto screed to SEC](https://www.dlnews.com/articles/regulation/a16z-flexes-political-clout-with-50-page-screed-to-sec/) (Tier 2) (VERIFIED)
 - [SEC: Crypto Task Force Input from Andreessen Horowitz (March 13, 2025)](https://www.sec.gov/files/ctf-input-andreesen-horowitz-2025-03-13.pdf) (Tier 1) (VERIFIED)
-- ~~[Washington Post: Elon Musk donated $288 million to 2024 election](https://www.washingtonpost.com/politics/2025/01/31/elon-musk-trump-donor-2024-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Political activities of Elon Musk](https://en.wikipedia.org/wiki/Political_activities_of_Elon_Musk) (Tier 3) (VERIFIED)
 - [CNN: A rash of tech billionaires are pivoting to Trump](https://www.cnn.com/2024/07/18/business/silicon-valley-tech-billionaires-trump/index.html) (Tier 2) (VERIFIED)
 - [FEC Receipts: Elon Musk donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=elon%20musk) (Tier 1) (VERIFIED)
@@ -136,7 +134,6 @@ This is not corruption in the traditional sense, it's *class function*. The dono
 - [ProPublica: How Amazon and Silicon Valley Seduced the Pentagon](https://www.propublica.org/article/how-amazon-and-silicon-valley-seduced-the-pentagon) (Tier 2) (VERIFIED)
 - [Eric Schmidt Wikipedia: Political activities](https://en.wikipedia.org/wiki/Eric_Schmidt) (Tier 3) (VERIFIED)
 - [Tech Transparency Project: Eric Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2) (VERIFIED)
-- ~~[DefenseScoop: Eric Schmidt-led panel pushing for new defense experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: Silicon shift - Major tech titans throw financial, political support to Trump](https://www.cbsnews.com/news/trump-jd-vance-silicon-valley-support/) (Tier 2) (VERIFIED)
 - [Fortune: How the 2024 election broke Silicon Valley](https://fortune.com/2024/09/25/paypal-silicon-valley-elon-musk-politics-kamala-trump-campaign/) (Tier 2) (VERIFIED)
 - [NPR: There's a presidential campaign donor battle going on in Silicon Valley](https://www.npr.org/2019/03/11/702102576/democratic-candidates-target-tech-giants-who-are-major-party-donors) (Tier 2) (VERIFIED)
@@ -144,3 +141,11 @@ This is not corruption in the traditional sense, it's *class function*. The dono
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Silicon Valley's Andreessen, Horowitz Give Millions to Trump PAC](https://www.bloomberg.com/news/articles/2024-10-16/silicon-valley-s-andreessen-horowitz-give-millions-to-trump-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Elon Musk donated $288 million to 2024 election](https://www.washingtonpost.com/politics/2025/01/31/elon-musk-trump-donor-2024-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[DefenseScoop: Eric Schmidt-led panel pushing for new defense experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

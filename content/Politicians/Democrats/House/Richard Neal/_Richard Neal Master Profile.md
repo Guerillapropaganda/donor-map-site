@@ -282,8 +282,13 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400291)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400291)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

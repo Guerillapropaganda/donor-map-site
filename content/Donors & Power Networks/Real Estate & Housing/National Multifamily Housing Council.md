@@ -134,7 +134,6 @@ NMHC represents the apartment industry's ownership class, the developers, REITs,
 - [NMHC: 2025 Impact Report](https://www.nmhc.org/contentassets/41a9b83b8183488d9125a7e0a259a561/2025-nmhc-impact-report.pdf) (Tier 3) (VERIFIED)
 - [NMHC: Newsroom](https://www.nmhc.org/news/nmhc-news/) (Tier 3) (VERIFIED)
 - [ProPublica: NMHC 990 filings](https://projects.propublica.org/nonprofits/organizations/521127504) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: NMHC contributions](https://www.opensecrets.org/orgs/national-multi-family-housing-council/summary?id=D000025696)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: NMHC summary (alt ID)](https://www.opensecrets.org/orgs/national-multifamily-housing-council/summary?id=D000000755) (Tier 1) (VERIFIED)
 - [OpenSecrets: NMHC PAC](https://www.opensecrets.org/political-action-committees-pacs/national-multifamily-housing-council/C00130773/summary/2022) (Tier 1) (VERIFIED)
 - [NAA/NMHC: Letter to DOJ on regulations](https://naahq.org/naa-nmhc-and-rettc-letter-doj-highlighting-burdensome-regulations) (Tier 2) (VERIFIED)
@@ -155,7 +154,6 @@ NMHC represents the apartment industry's ownership class, the developers, REITs,
 | Officer Compensation | $3.0M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 521127504](https://projects.propublica.org/nonprofits/organizations/521127504) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F521127504_202306_990O_2024061722535196.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -173,7 +171,6 @@ NMHC represents the apartment industry's ownership class, the developers, REITs,
 - 2016-02-02 — **EX-99.1**: EX-99.1
 - 2023-12-13 — **EX-99.1**: EX-99.1
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Multifamily%20Housing%20Council%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 ### Federal Court Records (CourtListener)
@@ -192,8 +189,16 @@ NMHC represents the apartment industry's ownership class, the developers, REITs,
 - Lopez v. Greystar Real Estate Partners LLC (2025) — District Court, N.D. Texas
 - Federal Trade Commission v. Greystar Real Estate Partners, LLC (2025) — District Court, D. Colorado
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Multifamily%20Housing%20Council%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: NMHC contributions](https://www.opensecrets.org/orgs/national-multi-family-housing-council/summary?id=D000025696)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F521127504_202306_990O_2024061722535196.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Multifamily%20Housing%20Council%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Multifamily%20Housing%20Council%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

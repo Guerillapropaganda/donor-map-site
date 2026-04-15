@@ -264,12 +264,10 @@ The structural innovation Trump represents is the merger of state power and pers
 - [OpenSecrets: 2024 mega-donors](https://www.opensecrets.org/news/2025/03/elon-musk-tops-list-of-2024-political-donors-but-six-others-gave-more-than-100-million) (Tier 1)
 - [Brennan Center: Megadonor analysis](https://www.brennancenter.org/our-work/analysis-opinion/megadonors-playing-larger-role-presidential-race-fec-data-shows) (Tier 2)
 - {{src:src_003731}} (Tier 1) (VERIFIED)
-- ~~[CBO: TCJA analysis](https://www.cbo.gov/publication/53312)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED: H.R. 1, the Tax Cuts and Jobs Act November 13, 2017 Cost Estimate As ordered reported by the House Committee on Ways and Means on November 9, 2017; Seems like it works fine. Not sure about context but it works)
 - [Tax Policy Center: TCJA impact](https://taxpolicycenter.org/briefing-book/how-did-tcja-affect-federal-budget-outlook) (Tier 1) (VERIFIED)
 - [NPR: World Liberty Financial](https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial) (Tier 2) (VERIFIED)
 - [CBS News: Trump family crypto net worth](https://www.cbsnews.com/news/trump-family-net-worth-crypto-investments/) (Tier 2) (VERIFIED)
 - [Yale Climate Connections: Fossil fuel spending](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (VERIFIED: It works just has a bot blocker; removed from bad)
 - [Fox Business: Musk government funding](https://www.foxbusiness.com/politics/how-much-have-musks-tesla-spacex-benefited-from-government-funds) (Tier 2) (VERIFIED)
 - [PBS NewsHour: DOGE disassembled](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
 - [Holland & Knight: Crypto executive order](https://www.hklaw.com/en/insights/publications/2025/01/president-trump-signs-executive-order-on-digital-assets) (Tier 2) (VERIFIED)
@@ -442,6 +440,13 @@ The structural innovation Trump represents is the merger of state power and pers
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Donald Trump](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CBO: TCJA analysis](https://www.cbo.gov/publication/53312)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1) (VERIFIED: H.R. 1, the Tax Cuts and Jobs Act November 13, 2017 Cost Estimate As ordered reported by the House Committee on Ways and Means on November 9, 2017; Seems like it works fine. Not sure about context but it works)
+- ~~[The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2) (VERIFIED: It works just has a bot blocker; removed from bad)
+- ~~[Congress.gov: Donald Trump](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

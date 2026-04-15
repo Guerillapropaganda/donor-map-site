@@ -114,8 +114,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 ### Sources
 
-- ~~[OpenSecrets: Brady PAC political spending profile](https://www.opensecrets.org/orgs/brady-campaign-to-prevent-gun-violence/summary?id=D000031462)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Brady PAC electoral spending](https://www.opensecrets.org/pacs/brady-pac)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [IRS Form 990: Brady Campaign nonprofit financials](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 - [Washington Post: After El Paso and Dayton shootings, gun-control groups seize momentum](https://www.washingtonpost.com/politics/2019/08/13/people-are-fed-up-after-el-paso-dayton-shootings-gun-control-groups-seize-momentum/) (Tier 2) (VERIFIED)
 
@@ -135,7 +133,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - LEMMON v. TRUMP (2026) — District Court, District of Columbia
 - DC PRESERVATION LEAGUE v. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
@@ -274,11 +271,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
@@ -327,7 +319,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - 2019-02-08 — **EX-99.1**: EX-99.1
 - 2019-04-30 — **DEFA14A**: DEFA14A
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 <!-- auto:sec-edgar pending-merge 2026-04-15 -->
@@ -471,3 +462,17 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1)
 
 <!-- auto:federal-register pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Brady PAC political spending profile](https://www.opensecrets.org/orgs/brady-campaign-to-prevent-gun-violence/summary?id=D000031462)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Brady PAC electoral spending](https://www.opensecrets.org/pacs/brady-pac)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237321017/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

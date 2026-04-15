@@ -92,10 +92,15 @@ The Carlyle background shapes Youngkin's governing style in observable ways:
 
 ### Sources
 
-- ~~[Bloomberg: Glenn Youngkin at Carlyle Racked Up Bad Bets Before Entering Virginia Politics](https://www.bloomberg.com/news/articles/2021-08-04/ex-carlyle-boss-racked-up-bad-bets-before-switching-to-politics)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC Washington: GOP Candidate's Private Equity Resume Draws Scrutiny in Va.](https://www.nbcwashington.com/news/local/gop-candidates-private-equity-resume-draws-scrutiny-in-va/2716941/) (Tier 2) (VERIFIED)
 - [CNBC: Former Carlyle Group co-CEO Glenn Youngkin on his run for Virginia governor](https://www.cnbc.com/video/2021/03/25/former-carlyle-group-co-ceo-glenn-youngkin-virginia-governor.html) (Tier 2) (VERIFIED)
 - [Wikipedia: Glenn Youngkin](https://en.wikipedia.org/wiki/Glenn_Youngkin) (Tier 3) (VERIFIED)
 - [Wikipedia: The Carlyle Group](https://en.wikipedia.org/wiki/The_Carlyle_Group) (Tier 3) (VERIFIED)
 - [ProgressVA: Glenn Youngkin's Push to Ban Accurate History is About Making Money for The Carlyle Group](https://progressva.org/press-release/glenn-youngkins-push-to-ban-accurate-history-is-about-making-money-for-the-carlyle-group/) (VERIFIED) (Tier 4, flag: progressive advocacy publication) (Tier 2)
 - [Virginia Democrats: Youngkin Pushed Out of Carlyle Group Due to Failed Leadership](https://vademocrats.org/news/new-reporting-highlights-how-glenn-youngkin-was-pushed-out-of-the-carlyle-group-due-to-failed-leadership/) (VERIFIED) (Tier 4, flag: partisan opposition research) (Tier 2)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Glenn Youngkin at Carlyle Racked Up Bad Bets Before Entering Virginia Politics](https://www.bloomberg.com/news/articles/2021-08-04/ex-carlyle-boss-racked-up-bad-bets-before-switching-to-politics)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -146,9 +146,6 @@ The post-presidency funding flows confirm: Silicon Valley tech billionaires beca
 - [NPR: FTC Closes Google Antitrust Investigation Without Penalties](https://www.npr.org/2013/01/03/168564147/ftc-closes-google-anti-trust-investigation-without-penalties) (Tier 2) (VERIFIED)
 - [The Guardian: NSA collecting phone records of millions of Verizon customers daily](https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order) (Tier 2) (VERIFIED)
 - [ProPublica: Government Surveillance 101: Understanding PRISM and Upstream Programs](https://www.propublica.org/article/nsa-data-collection-faq) (Tier 2) (VERIFIED)
-- ~~[Electronic Frontier Foundation: PRISM Surveillance Program](https://www.eff.org/deeplinks/2013/06/prism-what-we-know)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[USPTO: Obama Administration Patent Policy Changes](https://www.uspto.gov/about-us/performance-and-planning/agency-strategic-documents)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
-- ~~[FTC: Google Antitrust Investigation Closure Statement (January 2013)](https://www.ftc.gov/system/files/attachments/merger-investigation-matters/130103googlewirthabstandingstatement.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ---
 
@@ -167,7 +164,6 @@ Booz Allen Hamilton FY2013 (ending March 2013): $5.9 billion total revenue, 98% 
 
 **OpenSecrets Tech Donor Data:**
 - [OpenSecrets: Obama 2008 Top Contributors by Industry](https://www.opensecrets.org/pres08/industries?id=N00009638) (Tier 1) (VERIFIED) (UNVERIFIED - URL requires verification)
-- ~~[OpenSecrets: Obama 2012 Top Contributors](https://www.opensecrets.org/pres12/contrib?id=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED - URL requires verification)
 
 **USA Freedom Act Reform Gap:**
 Section 215 bulk collection: ended November 29, 2015 under USA Freedom Act. PRISM (Section 702 downstream): continued after 2015 reform. Upstream collection (Section 702): continued until partial reform in 2017. Post-reform collection: NSA collected hundreds of millions of call records in 2018 under new authority, exceeding the old bulk program volume.
@@ -177,3 +173,12 @@ Section 215 bulk collection: ended November 29, 2015 under USA Freedom Act. PRIS
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Electronic Frontier Foundation: PRISM Surveillance Program](https://www.eff.org/deeplinks/2013/06/prism-what-we-know)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[USPTO: Obama Administration Patent Policy Changes](https://www.uspto.gov/about-us/performance-and-planning/agency-strategic-documents)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[FTC: Google Antitrust Investigation Closure Statement (January 2013)](https://www.ftc.gov/system/files/attachments/merger-investigation-matters/130103googlewirthabstandingstatement.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[OpenSecrets: Obama 2012 Top Contributors](https://www.opensecrets.org/pres12/contrib?id=N00009638)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED - URL requires verification)

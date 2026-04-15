@@ -152,7 +152,6 @@ Political infrastructure that operates independently of politicians. The Mercer 
 - [Wikipedia: Robert Mercer](https://en.wikipedia.org/wiki/Robert_Mercer) (Tier 3) (VERIFIED)
 - [CNBC: Robert Mercer political spending](https://www.cnbc.com/2020/04/15/robert-mercer-starts-big-money-effort-for-trump-campaign.html) (Tier 2) (VERIFIED)
 - [Senate Permanent Subcommittee on Investigations: Renaissance Technologies tax avoidance, 2014](https://www.hsgac.senate.gov/subcommittees/investigations/) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: Robert Mercer](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Robert_Mercer)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 ---
 
 ### Pipeline Intel (auto-synced from fec-pipeline.md, 2026-04-04T05:07:36Z)
@@ -230,5 +229,11 @@ Political infrastructure that operates independently of politicians. The Mercer 
 - The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
 - Mastriano v. Gregory (2024) — District Court, W.D. Oklahoma
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Robert%20Mercer%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Robert Mercer](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Robert_Mercer)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Robert%20Mercer%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

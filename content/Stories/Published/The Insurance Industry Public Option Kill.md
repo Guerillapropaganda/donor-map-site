@@ -52,6 +52,11 @@ The sequence:
 ### Sources
 
 - [FEC Receipts: Health insurance industry lobbying](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[Congress.gov: ACA legislative history](https://www.congress.gov/bill/111th-congress/house-bill/3590)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[CBO: Public option cost estimates](https://www.cbo.gov/topics/health)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-

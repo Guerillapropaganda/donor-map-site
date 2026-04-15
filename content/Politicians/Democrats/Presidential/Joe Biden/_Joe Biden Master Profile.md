@@ -265,7 +265,6 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 - [Union Leader: Biden wants $886 billion defense budget](https://www.unionleader.com/news/politics/national/biden-wants-886-billion-defense-budget-with-eyes-on-ukraine-and-future-wars/article_8c271a04-506c-5f24-9cf0-74b4bf114d88.html) (Tier 2) (VERIFIED)
 - [The Intercept: Vaccine Makers Funneled Undisclosed Campaign Cash](https://theintercept.com/2021/12/14/pfizer-moderna-covid-vaccines-2020-dark-money/) (Tier 2) (VERIFIED)
 - [Ways and Means Committee: Bombshell Documents Revealing Hunter Biden Selling Access](https://waysandmeans.house.gov/2023/09/27/bombshell-ways-and-means-releases-new-documents-revealing-hunter-biden-selling-access-to-white-house-investigators-blocked-from-pursuing-evidence-related-to-president-biden/) (VERIFIED) (Tier 3, partisan source) (Tier 1)
-- ~~[Congress.gov: U.S. Security Assistance to Ukraine](https://www.congress.gov/crs-product/IF12040)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [PolitiFact: Biden did not receive millions from drug industry members](https://www.politifact.com/factchecks/2022/jan/28/viral-image/biden-did-not-receive-millions-drug-industry-membe/) (Tier 2) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -344,12 +343,18 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 - Extending and Expanding Eligibility for Deferred Enforced Departure for Certain Hong Kong Residents (2025-01-15)
 - Withdrawal of Certain Areas of the United States Outer Continental Shelf From Oil and Natural Gas Leasing (2025-01-06)
 
-- ~~[Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:executive-orders end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Joe Biden](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: U.S. Security Assistance to Ukraine](https://www.congress.gov/crs-product/IF12040)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Federal Register - Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/joe-biden)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Joe Biden](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

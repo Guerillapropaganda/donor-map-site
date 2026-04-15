@@ -647,7 +647,6 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [DeSmog: API Climate Denial Campaign 1980](https://www.desmog.com/2021/01/15/api-american-petroleum-institute-oil-industry-public-climate-denial-campaign-1980/) (Tier 2) (VERIFIED)
 - [DeSmog: Energy Citizens Astroturf Campaign Exposed](https://www.desmog.com/2009/08/13/oil-lobbys-energy-citizens-astroturf-campaign-exposed-launch/) (Tier 2) (VERIFIED)
 - [DeSmog: Fossil Fuel Trade Associations $1.4 Billion PR Campaigns](https://www.desmog.com/2019/03/18/american-petroleum-institute-api-energy-corporate-trade-associations-1-4-billion-pr-campaigns/) (Tier 2) (VERIFIED)
-- ~~[Sludge: Revealed. Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Sludge: API Climate Denial News Analysis](https://readsludge.com/) (Tier 2) (VERIFIED)
 - [Climate Power: American Petroleum Institute Hypocrisy Analysis](https://climatepower.us/news/american-petroleum-institutes-blatant-hypocrisy-on-climate-action/) (Tier 2) (VERIFIED)
 - [Climate Criminals: Mike Sommers Profile](https://www.climatecriminals.org/mike-sommers) (Tier 2)
@@ -656,12 +655,10 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - [Climate Files: 1998 Global Climate Science Communications Plan](https://www.climatefiles.com/trade-group/american-petroleum-institute/1998-global-climate-science-communications-team-action-plan/) (Tier 1) (VERIFIED)
 - [Inside Climate News: Global Climate Science Communications Plan 1998](https://insideclimatenews.org/documents/global-climate-science-communications-plan-1998/) (Tier 1) (VERIFIED)
 - [Congressional Record: 1998 Climate Science Communications Plan (April 27, 1998)](https://www.govinfo.gov/content/pkg/CREC-1998-04-27/html/CREC-1998-04-27-pt1-PgH2323.htm) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: 1998 Climate Science Communications Plan](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Global_Climate_Science_Communications_Plan_(1998)~~ (URL broken, archived by Ops))) (Tier 3) (UNVERIFIED)
 - [Grist: Oil's Biggest Lobbying Group Killed Carbon Pricing, Now It Supports Them](https://grist.org/energy/oils-biggest-lobbying-group-killed-carbon-pricing-now-it-supports-them/) (Tier 2) (VERIFIED)
 - [Public Citizen: Energy Citizens Rally Exposed](https://www.citizen.org/news/industry-astroturf-rally-against-climate-change-bill-shows-big-oil-cant-organize-real-grassroots-movement-api-throws-company-picnic-not-town-hall-meeting-on-climate-change/) (Tier 2)
 - [Fox Business: Top Energy Lobby Group Unleashes 8-Figure Ad Campaign (2024)](https://www.foxbusiness.com/politics/top-energy-lobby-group-unleashes-8-figure-ad-campaign-support-us-production-ahead-2024-election) (Tier 2) (VERIFIED)
 - [OpenSecrets News: American Petroleum Institute Recycled Same Arguments Decades](https://www.opensecrets.org/news/2024/07/american-petroleum-institute-recycled-same-arguments-for-decades-lobbying-on-climate-policy/) (Tier 2) (VERIFIED) (UNVERIFIED)
-- ~~[Taylor & Francis: Global Climate Coalition and Climate Denial Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
 - [The Cool Down: API Ad Campaign Coverage (2024)](https://www.thecooldown.com/green-business/api-ad-campaign-oil-gas-industry-voters/) (Tier 3) (VERIFIED)
 - [The Intercept: Bipartisan Infrastructure Bill Fossil Fuel Subsidies](https://theintercept.com/2021/08/03/bipartisan-infrastructure-bill-climate-subsidies-fossil-fuel/) (Tier 2) (VERIFIED)
 - [The Real News Network: Fossil Fuel Trade Associations PR Spending (2019)](https://therealnews.com/fossil-fuel-trade-associations-spent-1-4-billion-on-ads-in-past-decade) (Tier 2) (VERIFIED)
@@ -733,11 +730,6 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (VERIFIED)
@@ -759,7 +751,6 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 - Sable Offshore Corp. v. Armando Quintero (2026) — District Court, C.D. California
 - Service Employees International Union v. EPA (2026) — Court of Appeals for the D.C. Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Petroleum%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -827,3 +818,17 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Sludge: Revealed. Oil Industry Dark Money Campaign for Conservative Democrats](https://readsludge.com/2022/11/16/revealed-oil-industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/industry-lobbying-group-funded-dark-money-ad-campaign-for-conservative-democrats/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: 1998 Climate Science Communications Plan](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Global_Climate_Science_Communications_Plan_(1998)~~ (URL broken, archived by Ops))) (Tier 3) (UNVERIFIED)
+- ~~[Taylor & Francis: Global Climate Coalition and Climate Denial Study (2021)](https://www.tandfonline.com/doi/full/10.1080/09644016.2021.1947636)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/130433430/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Petroleum%20Institute%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

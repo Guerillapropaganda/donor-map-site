@@ -254,7 +254,6 @@ The House Ethics Committee found "substantial evidence" that Gaetz engaged in se
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -283,12 +282,18 @@ _No committee data found._
 | 10067 | HARRIS Act of 2024 | Referred to the House Committee on Ways and Means. |
 | 1549 | Expressing the sense of the House of Representatives on contract breaches and ot… | Referred to the House Committee on Armed Services. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/G000578)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Matt Gaetz](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/G000578)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Matt Gaetz](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

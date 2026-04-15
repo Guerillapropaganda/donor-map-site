@@ -169,7 +169,6 @@ Lone Star Rising PAC raised **$6.14 million** from January 1 through February 11
 The Texas race was also notable for its progressive vs. establishment dynamics: Talarico, a white male state legislator, defeated Crockett, a Black congresswoman and national Democratic figure, partly on the strength of millions in Sixteen Thirty-routed dark money, a pattern that has drawn criticism from progressive and racial justice advocates.
 
 - [Texas Tribune: Dark money floods Texas Senate primary races](https://www.texastribune.org/2026/02/20/texas-senate-dark-money-superpacs-talarico-hunt-crockett-paxton-cornyn/) (Tier 2) (VERIFIED)
-- ~~[19th News: Crockett loses, Talarico wins Texas Senate primary](https://19thnews.org/2026/03/texas-us-senate-primary-election-results-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Legis1: Follow the Money. Talarico vs Crockett](https://legis1.com/news/follow-the-money-whos-fueling-the-talarico-vs-crockett-texas-senate-democratic-primary/) (Tier 2) (VERIFIED)
 
 ---
@@ -189,12 +188,7 @@ The 2026 Texas Senate primary completed the picture. Hoffman donated $500,000 to
 ### Sources
 
 - [FEC: Reid Hoffman individual contributions 2019-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hoffman) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Reid Hoffman donor profile](https://www.opensecrets.org/donor/top/hoffman-reid)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Wisconsin Democratic Party financial disclosures 2019-2024](https://elections.wi.gov/state-candidates-and-committees)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Independent Expenditures: Reid Hoffman Outside Spending Donor Detail, 2024 Cycle](https://www.fec.gov/data/independent-expenditures/?q=Reid%20Garrett%20Hoffman) (Tier 1) (VERIFIED)
-- ~~[Wall Street Journal: "Tech Billionaire Reid Hoffman Becomes One of Democrats' Biggest Donors"](https://www.wsj.com/articles/tech-billionaire-reid-hoffman-becomes-one-of-democrats-biggest-donors-11603129533)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: "Reid Hoffman's Wisconsin Machine"](https://www.politico.com/news/2024/10/swing-state-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fortune: "Newly released emails thrust Reid Hoffman into the Epstein firestorm" (November 18, 2025)](https://fortune.com/2025/11/18/reid-hoffman-epstein-files/) (Tier 2) (VERIFIED)
 - [ABC News: "LinkedIn co-founder Reid Hoffman's ties to Jeffrey Epstein face Trump-ordered investigation"](https://abcnews.com/US/linkedin-founder-reid-hoffmans-ties-jeffrey-epstein-face/story?id=127651719) (Tier 2) (VERIFIED)
 - [Fox Business: "Elon Musk, Reid Hoffman clash over Jeffrey Epstein ties"](https://www.foxbusiness.com/politics/tech-titans-elon-musk-reid-hoffman-attack-each-other-over-latest-epstein-emails) (Tier 3) (VERIFIED)
@@ -251,3 +245,14 @@ The 2026 Texas Senate primary completed the picture. Hoffman donated $500,000 to
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Reid%20Hoffman%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[19th News: Crockett loses, Talarico wins Texas Senate primary](https://19thnews.org/2026/03/texas-us-senate-primary-election-results-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Reid Hoffman donor profile](https://www.opensecrets.org/donor/top/hoffman-reid)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wisconsin Democratic Party financial disclosures 2019-2024](https://elections.wi.gov/state-candidates-and-committees)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Wall Street Journal: "Tech Billionaire Reid Hoffman Becomes One of Democrats' Biggest Donors"](https://www.wsj.com/articles/tech-billionaire-reid-hoffman-becomes-one-of-democrats-biggest-donors-11603129533)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: "Reid Hoffman's Wisconsin Machine"](https://www.politico.com/news/2024/10/swing-state-spending)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: "How Jeffrey Epstein Used Reid Hoffman to Court Silicon Valley's Elite" (March 4, 2026)](https://www.bloomberg.com/news/articles/2026-03-04/how-jeffrey-epstein-used-reid-hoffman-to-court-silicon-valley-s-elite)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

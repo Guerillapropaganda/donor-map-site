@@ -176,7 +176,6 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 - {{src:src_004201}} (Tier 1) (VERIFIED)
 - {{src:src_004201}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Sam Graves net worth](https://www.opensecrets.org/personal-finances/sam-graves/net-worth?cid=N00013323) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [House Transportation Committee: Chairman Sam Graves](https://transportation.house.gov/about/ranking-member-sam-graves/) (Tier 1) (VERIFIED)
 - [OCE: Referral regarding Rep. Sam Graves](https://conduct.house.gov/reports/investigations/oce-referral-regarding-representative-graves) (Tier 1) (VERIFIED)
 - [House Ethics Committee: Report on Sam Graves (111th Congress)](https://www.govinfo.gov/content/pkg/CRPT-111hrpt320/html/CRPT-111hrpt320.htm) (Tier 1) (VERIFIED)
@@ -220,3 +219,9 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 
 - {{src:src_004201}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Sam Graves](https://www.congress.gov/member/sam-graves/G000546)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

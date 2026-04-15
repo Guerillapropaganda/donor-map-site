@@ -319,7 +319,6 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 - [Senate LDA Filings: Section 230 lobbying breakdown, $59M Meta spend (2020-2023)](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (UNVERIFIED)
 
 ### Government & Legal:
-- ~~[FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (Chrome-verified, redirected URL)
 - [FTC Press Release: $5 billion fine and 20-year compliance order (July 2019)](https://www.ftc.gov/news-events/news/press-releases/2019/07/ftc-imposes-5-billion-penalty-sweeping-new-privacy-restrictions-facebook) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Sullivan & Cromwell: FTC Antitrust Case. Judge Boasberg Ruling Analysis](https://www.sullcrom.com/) (Tier 2) (VERIFIED)
 - [TechPolicy.Press: FTC Antitrust Tracker. Meta case status](https://www.techpolicy.press/) (Tier 2) (VERIFIED)
@@ -334,10 +333,7 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 - [Issue One: Big Tech cozies up to new administration after spending record sums on lobbying](https://issueone.org/articles/big-tech-spent-record-sums-on-lobbying-last-year/) (Tier 2) (VERIFIED) (Chrome-verified)
 - [Issue One: Revolving Door Statistics. Government Service in Tech Lobbying](https://issueone.org/) (Tier 2) (VERIFIED)
 - [CNN: Senator Elizabeth Warren on Joel Kaplan and Meta lobbying growth](https://www.cnn.com/) (Tier 2) (VERIFIED)
-- ~~[Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [CalMatters: Meta California lobbying spending 2025](https://calmatters.org/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg Gov: California lobbying records. Meta state spending](https://www.bloomberggov.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [AdExchanger: ADPPA front groups and Meta lobbying infrastructure](https://www.adexchanger.com/) (Tier 2) (VERIFIED)
 
 ### Secondary:
@@ -414,3 +410,12 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FTC: FTC v. Meta Platforms case documents](https://www.ftc.gov/legal-library/browse/cases-proceedings/191-0134-facebook-inc-ftc-v-ftc-v-meta-platforms-inc-ftc-v-meta-platforms-inc)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (Chrome-verified, redirected URL)
+- ~~[Politico: Frances Haugen whistleblower and Meta lobbying response](https://www.politico.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Bloomberg Gov: California lobbying records. Meta state spending](https://www.bloomberggov.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Meta lobbying records and state-level operations](https://www.cnbc.com/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -184,7 +184,6 @@ Griffin's political investment protects this arrangement from regulation. His $1
 - [FEC: Kenneth Griffin individual contributions](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=kenneth+griffin) (Tier 1) (VERIFIED)
 - [ArtNews: Kenneth Griffin Donated $100M for 2024 Election (Fifth-Most)](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
 - [CNBC: Citadel's CEO Ken Griffin becomes GOP $100 million midterm megadonor (2022)](https://www.cnbc.com/2022/10/07/citadels-ceo-ken-griffin-becomes-gop-100-million-midterm-megadonor.html) (Tier 2)
-- ~~[Bloomberg: Ken Griffin's Political Donations Clash With Trump Sometimes (July 2024)](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Griffin defends payment for order flow (February 2021)](https://www.cnbc.com/2021/02/18/citadels-ken-griffin-defends-controversial-wall-street-practice-says-firm-would-adapt-if-it-were-outlawed.html) (Tier 2) (VERIFIED)
 - [Jason Garcia / Seeking Rents: Griffin gave $2M to Florida Republican legislators (2026)](https://jasongarcia.substack.com/p/one-billionaire-just-gave-2-million) (Tier 2) (VERIFIED)
 - [Global Trading: Payments for US retail flow reach record high, led by Citadel Securities](https://www.globaltrading.net/payment-for-us-retail-flow-reaches-record-high-led-by-citadel-securities-imc/) (Tier 2) (VERIFIED)
@@ -208,11 +207,6 @@ Griffin's political investment protects this arrangement from regulation. His $1
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1) (VERIFIED)
@@ -268,3 +262,14 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Ken Griffin's Political Donations Clash With Trump Sometimes (July 2024)](https://www.bloomberg.com/news/features/2024-07-30/republican-donor-ken-griffin-billionaire-s-super-pac-giving-shapes-elections)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)~~ (URL broken, archived by Ops)

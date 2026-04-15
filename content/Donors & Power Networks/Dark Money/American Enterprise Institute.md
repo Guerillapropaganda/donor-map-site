@@ -93,7 +93,6 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 
 ### Sources
 
-- ~~[IRS: AEI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=American%20Enterprise%20Institute&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Nonprofit Explorer - AEI](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 2) (VERIFIED)
 - [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3) (VERIFIED)
 
@@ -110,7 +109,6 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 | Officer Compensation | $4.1M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 530218495](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F530218495_202306_990_2024040522345299.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### OFAC Sanctions Screening
@@ -171,11 +169,6 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530218495) (Tier 1) (VERIFIED)
@@ -197,3 +190,15 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Enterprise%20Institute) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS: AEI 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=American%20Enterprise%20Institute&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F530218495_202306_990_2024040522345299.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530218495/2019)~~ (URL broken, archived by Ops)

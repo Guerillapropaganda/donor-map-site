@@ -89,7 +89,6 @@ AbbVie Inc. A major pharmaceutical company with $55 billion in annual revenue (2
 
 AbbVie PAC contributes $1.5-2 million per cycle and the company spends $8-12 million annually on lobbying, with heavy focus on patent law, drug pricing, and FDA regulation.
 
-- ~~[OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -237,11 +236,6 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/460827839) (Tier 1) (VERIFIED)
@@ -307,7 +301,6 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 - Novartis Pharmaceuticals Corporation v. Brown (2026) — District Court, W.D. Washington
 - AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AbbVie%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### FDA Enforcement (openFDA)
@@ -337,3 +330,15 @@ _Variant firm names in FDA data: AbbVie Inc.; AbbVie Inc_
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=AbbVie) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: AbbVie organizational profile](https://www.opensecrets.org/orgs/abbvie-inc/summary?id=D000067068)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/460827839/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AbbVie%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

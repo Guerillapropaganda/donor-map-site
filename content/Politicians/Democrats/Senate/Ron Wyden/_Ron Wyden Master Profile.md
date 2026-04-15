@@ -245,7 +245,6 @@ On tax policy, he frames himself as the counterweight to Crapo, the progressive 
 | 01/03/2014 | -- | Purchase | $50,001 - $100,000 | Spouse |
 | 01/03/2014 | -- | Purchase | $15,001 - $50,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -305,5 +304,11 @@ On tax policy, he frames himself as the counterweight to Crapo, the progressive 
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000779)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000779)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

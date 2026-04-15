@@ -262,7 +262,6 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 - ~~[Verizon Recalls 2.5 Million Ellipsis Jetpack Mobile Hotspots Imported by Franklin Wireless Due to Fire and Burn Hazards](https://www.cpsc.gov/Recalls/21106)~~ (URL broken, archived by Ops) (2021-04-08) — The lithium ion battery in the hotspots can overheat, posing fire and burn hazards.
 - ~~[CPSC, Verizon Wireless Announce Recall of Counterfeit Cell Phone Batteries](https://www.cpsc.gov/Recalls/04559)~~ (URL broken, archived by Ops) (2004-06-24) — Some LG-branded TM-510 batteries may be counterfeit and susceptible to overcharging, especially if used with a non-LG charger. LG Infocomm U.S.A. Inc. states that these are counterfeit LG-branded batteries, which do not contain a safety device in the circuitry, to prevent overcharging. In turn, the counterfeit batteries can overheat, posing a fire and burn hazard to users.
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Verizon)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Tax Filings (IRS 990)
@@ -280,11 +279,6 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/133319048) (Tier 1) (VERIFIED)
@@ -304,3 +298,14 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Verizon)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133319048/2019)~~ (URL broken, archived by Ops)

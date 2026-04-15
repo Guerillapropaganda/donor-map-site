@@ -180,7 +180,6 @@ The industry's structural function for the donor class: maintain Democratic cult
 - [The Intercept: Pro-Israel Megadonor Haim Saban Attacks Democratic Senators' Gaza Letter](https://theintercept.com/2018/06/20/haim-saban-bernie-sanders-israel-gaza-letter/) (Tier 2) (VERIFIED)
 - [CNBC: Haim Saban throws money behind Biden, Democrats in Senate races (2020)](https://www.cnbc.com/2020/09/22/2020-election-haim-saban-throws-money-behind-biden-democrats-in-senate-races.html) (Tier 2) (VERIFIED)
 - [NPR: Celebrities sign letter to Biden urging cease-fire in Gaza](https://www.npr.org/2023/10/21/1207783685/celebrities-letter-ceasefire-israel-gaza-biden) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Saban_Center_for_Middle_East_Policy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Haim Saban](https://en.wikipedia.org/wiki/Haim_Saban) (Tier 3) (VERIFIED)
 
 ### Federal Contracts
@@ -269,3 +268,9 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Entertainment%20and%20Hollywood%20Donors) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Saban Center for Middle East Policy](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Saban_Center_for_Middle_East_Policy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

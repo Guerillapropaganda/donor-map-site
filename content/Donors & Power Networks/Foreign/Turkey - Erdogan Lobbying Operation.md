@@ -65,7 +65,6 @@ F-35 program reinstatement (after S-400 removal), opposition to Kurdish politica
 
 ### Sources
 
-- ~~[FARA: Turkey foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Armenian Genocide Resolution](https://www.congress.gov/bill/116th-congress/house-resolution/296) (Tier 1) (VERIFIED)
 - [Ballotpedia: Turkey-US relations](https://ballotpedia.org/Turkey_-_Erdogan_Lobbying_Operation) (Tier 3) (VERIFIED)
 
@@ -87,3 +86,9 @@ F-35 program reinstatement (after S-400 removal), opposition to Kurdish politica
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Turkey%20-%20Erdogan%20Lobbying%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FARA: Turkey foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

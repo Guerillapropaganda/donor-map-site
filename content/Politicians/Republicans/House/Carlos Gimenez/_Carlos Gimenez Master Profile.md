@@ -225,7 +225,6 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 - {{src:src_004514}} (Tier 1) (VERIFIED)
 - [Florida Politics: Gimenez adds $260K in Q1 through unions, GOP donors](https://floridapolitics.com/archives/519728-carlos-gimenez-adds-260k-in-q1-through-unions-gop-donors/) (Tier 2) (VERIFIED)
 - [StoneColdTruth: Why Is Rep. Gimenez Shielding a Defense Contractor Operating Under Cuban Military Oversight?](https://www.stonecoldtruth.com/p/why-is-rep-carlos-gimenez-shielding) (VERIFIED) (Tier 4, verify independently)
-- ~~[Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops))) (Tier 3)
 
 ---
 
@@ -311,3 +310,9 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: Carlos Gimenez (politician)](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops))) (Tier 3)

@@ -189,7 +189,6 @@ Breaking Points represents **the subscription-funded populist crossover**, the s
 
 - [FEC Individual Contributions: Krystal Ball (149 results, VA, employer: Breaking Points)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=krystal+ball) (Tier 1) (VERIFIED)
 - [FEC Individual Contributions: Saagar Enjeti (0 results)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=saagar+enjeti) (Tier 1) (VERIFIED)
-- ~~[Fast Company: "Why 'Breaking Points with Krystal and Saagar' became the No. 1 political podcast in a week" (Joe Berkowitz, Jun 2021)](https://www.fastcompany.com/90646413/why-breaking-points-with-krystal-and-saagar-became-the-number-one-political-podcast-in-a-week)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hudson Institute: Saagar Enjeti expert profile](https://www.hudson.org/experts/1278-saagar-enjeti) (Tier 3) (VERIFIED)
 - [Hudson Institute: "Hudson Announces Launch of New Podcast and Media Fellows" (Realignment launch)](https://www.hudson.org/national-security-defense/hudson-announces-launch-of-new-podcast-and-media-fellows) (Tier 3) (VERIFIED)
 - [Washington Free Beacon: "Top Dem Donors Cutting Ties With Krystal Ball Org Over 'Scam PAC' Concerns"](https://freebeacon.com/politics/top-dem-donors-cutting-ties-krystal-ball-org-scam-pac-concerns/) (VERIFIED) (Tier 4, partisan source; underlying data from FEC Tier 1)
@@ -200,3 +199,9 @@ Breaking Points represents **the subscription-funded populist crossover**, the s
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Fast Company: "Why 'Breaking Points with Krystal and Saagar' became the No. 1 political podcast in a week" (Joe Berkowitz, Jun 2021)](https://www.fastcompany.com/90646413/why-breaking-points-with-krystal-and-saagar-became-the-number-one-political-podcast-in-a-week)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

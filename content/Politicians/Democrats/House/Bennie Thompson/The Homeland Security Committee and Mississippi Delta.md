@@ -36,8 +36,13 @@ Thompson's chairmanship of the January 6th Committee produced 11 public hearings
 
 ### Sources
 
-- ~~[Congress.gov: Bennie Thompson member profile](https://www.congress.gov/member/bennie-thompson/T000193)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006332}} (Tier 1) (VERIFIED)
 - [January 6th Committee: Final report](https://www.govinfo.gov/collection/january-6th-committee-final-report) (Tier 1) (VERIFIED)
 - [Ballotpedia: Bennie Thompson](https://ballotpedia.org/Bennie_Thompson) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bennie Thompson member profile](https://www.congress.gov/member/bennie-thompson/T000193)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

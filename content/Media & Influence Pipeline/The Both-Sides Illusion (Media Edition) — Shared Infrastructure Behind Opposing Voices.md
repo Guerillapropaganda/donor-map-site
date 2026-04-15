@@ -299,14 +299,10 @@ Both left and right media face identical economic pressures. The "debate" is the
 - [Clay: Rumble $875M total funding](https://www.clay.com/dossier/rumble-funding) (Tier 3) (VERIFIED)
 - [Investopedia: Rumble $775M Tether investment](https://www.investopedia.com/rumble-stock-soars-after-video-platform-gets-usd775m-investment-from-tether-8765696) (Tier 3) (VERIFIED) (UNVERIFIED)
 - [Business Insider: Andreessen/Horowitz $2.5M each to Right for America PAC](https://www.businessinsider.com/marc-andreessen-ben-horowitz-donated-millions-pro-trump-pac-2024-10) (Tier 2) (VERIFIED)
-- ~~[Inc.: Andreessen Horowitz "non-partisan, one issue voters" on tech policy](https://www.inc.com/sam-blum/andreessen-horowitz-announces-foray-into-political-donations.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
-- ~~[Bloomberg: David Sacks all-in on Trump, $33,400 Clinton 2016](https://www.bloomberg.com/news/articles/2024-06-05/venture-capitalist-david-sacks-is-all-in-on-donald-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[CNBC: Sacks divested $200M+ crypto before White House role](https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Fortune: Alan Patricof office adorned with Clinton/Obama photos](https://fortune.com/2017/12/11/alan-patricof-greycroft-apple-aol/) (Tier 2) (VERIFIED)
 - [CNBC: House Victory Project $2.2M transfers to Democratic campaigns](https://www.cnbc.com/2018/07/16/house-victory-project-transfers-2point2-million-to-democratic-campaigns.html) (Tier 2) (VERIFIED)
 - [Wikipedia: Greycroft portfolio and history](https://en.wikipedia.org/wiki/Greycroft) (Tier 3) (VERIFIED)
 - [InfluenceWatch: Alan Patricof political donations](https://www.influencewatch.org/person/alan-patricof/) (Tier 3) (VERIFIED)
-- ~~[TheStreet: Howard Schultz CEO boycott of political donations](https://www.thestreet.com/politics/starbucks-ceo-boycott-campaign-donations-11220781)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
 - [Wikipedia: NBCUniversal DreamWorks $3.8B acquisition](https://en.wikipedia.org/wiki/NBCUniversal) (Tier 3) (VERIFIED)
 - [Quartz: Chamath Palihapitiya co-hosted Trump fundraiser, $1M+ Dem donations](https://qz.com/david-sacks-donald-trump-fundraiser-silicon-valley-tech-1851525573) (Tier 3) (VERIFIED) (UNVERIFIED)
 - [FEC Receipts: Farris Wilks donor lookup](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=farris%20wilks) (Tier 1) (VERIFIED)
@@ -326,7 +322,6 @@ Both left and right media face identical economic pressures. The "debate" is the
 - [YouTube interview: Breaking Points economics, "95 to 98% lower" costs](https://www.youtube.com?v=ZKFeNpFtu-c) (Tier 3) (VERIFIED)
 
 ### Academic & Analytical Frameworks:
-- ~~[Chomsky.info: Manufacturing Consent propaganda model](https://chomsky.info/consent01/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Manufacturing Consent](https://en.wikipedia.org/wiki/Manufacturing_Consent) (Tier 3) (VERIFIED)
 - [Wikipedia: Hallin's Spheres of discourse](https://en.wikipedia.org/wiki/Hallin%27s_spheres) (Tier 3) (VERIFIED)
 - [Bricoleur: Hallin spheres, Overton windows, and media gatekeeping](http://www.bricoleur.org/2018/04/hallin-spheres-overton-windows.html) (Tier 3) (VERIFIED)
@@ -347,3 +342,13 @@ Both left and right media face identical economic pressures. The "debate" is the
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Inc.: Andreessen Horowitz "non-partisan, one issue voters" on tech policy](https://www.inc.com/sam-blum/andreessen-horowitz-announces-foray-into-political-donations.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
+- ~~[Bloomberg: David Sacks all-in on Trump, $33,400 Clinton 2016](https://www.bloomberg.com/news/articles/2024-06-05/venture-capitalist-david-sacks-is-all-in-on-donald-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[CNBC: Sacks divested $200M+ crypto before White House role](https://www.cnbc.com/2025/03/14/david-sacks-sold-200-million-in-crypto-holdings-before-wh-job.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[TheStreet: Howard Schultz CEO boycott of political donations](https://www.thestreet.com/politics/starbucks-ceo-boycott-campaign-donations-11220781)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (UNVERIFIED)
+- ~~[Chomsky.info: Manufacturing Consent propaganda model](https://chomsky.info/consent01/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

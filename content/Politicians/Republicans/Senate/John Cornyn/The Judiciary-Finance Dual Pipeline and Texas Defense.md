@@ -40,7 +40,12 @@ The border is Cornyn's other jurisdiction-donor alignment: he negotiated the fai
 
 ### Sources
 
-- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003536}} (Tier 1) (VERIFIED)
 - [Ballotpedia: John Cornyn](https://ballotpedia.org/John_Cornyn) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

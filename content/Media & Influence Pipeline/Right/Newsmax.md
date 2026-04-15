@@ -306,7 +306,6 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 - [Mediaite: "Newsmax Leaders Urged Staff to 'Soften' Coverage of Qatar"](https://www.mediaite.com/media/news/newsmax-leaders-urged-staff-to-soften-coverage-of-qatar-after-gulf-royal-invested-50-million-in-network-report/) (Tier 2) (VERIFIED)
 
 ### Defamation Settlements & Court Documents (Tier 1-2):
-- ~~[Reuters: "Newsmax agreed to pay $40 million to Smartmatic"](https://www.reuters.com/business/media-telecom/newsmax-agreed-pay-40-million-settle-defamation-suit-over-2020-false-election-2025-03-13/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Politico: "Newsmax reaches $67M settlement with Dominion"](https://www.politico.com/news/2025/08/18/newsmax-dominion-voting-defamation-settlement-00513458) (Tier 2) (VERIFIED)
 - [PBS NewsHour: "Newsmax to pay $67M in defamation case over false 2020 election claims"](https://www.pbs.org/newshour/politics/newsmax-to-pay-67m-in-defamation-case-over-false-2020-election-claims) (Tier 2) (VERIFIED)
 - [NPR: "Newsmax, Smartmatic settle 2020 election defamation lawsuit"](https://www.npr.org/2024/09/26/nx-s1-5130183/newsmax-smartmatic-settlement-defamation-election-lawsuit) (Tier 2) (VERIFIED)
@@ -315,9 +314,6 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 
 ### Ruddy-Trump Relationship & Political Influence (Tier 2):
 - [The Atlantic: "Newsmax's Chris Ruddy Is the Media's Favorite Friend-of-Trump"](https://www.theatlantic.com/politics/archive/2017/03/how-chris-ruddy-became-the-medias-favorite-friend-of-trump/519168/) (Tier 2) (VERIFIED)
-- ~~[New York Times: "The King of Trump TV Thinks You're Dumb Enough to Buy It"](https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Forbes: "Conservative News Outlet Newsmax Mints New Billionaire"](https://www.forbes.com/sites/giacomotognini/2025/03/31/newsmax-founder-chris-ruddy-is-a-billionaire-thanks-to-stock-surge/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: "A conservative media war erupts with both sides hoping Trump is in their corner"](https://www.politico.com/news/2025/11/28/a-conservative-media-war-erupts-with-both-sides-hoping-trump-is-in-their-corner-00669920)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Cable Carriage Disputes & Political Leverage (Tier 2):
 - [Adweek: "Newsmax and DirecTV Come to Terms on New Carriage Deal"](https://www.adweek.com/tvnewser/newsmax-and-directv-come-to-terms-on-new-carriage-deal/) (Tier 2) (VERIFIED)
@@ -329,18 +325,15 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 - [Wendy Siegelman Substack: "A look at businessman Vadim Shulman"](https://wendysiegelman.substack.com/p/a-look-at-newsmax-investor-vadim-shulman) (Tier 2) (VERIFIED)
 - [Wikipedia: Thomas Peterffy](https://en.wikipedia.org/wiki/Thomas_Peterffy) (Tier 3) (VERIFIED)
 - [Wikipedia: Christopher Ruddy](https://en.wikipedia.org/wiki/Christopher_Ruddy) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Richard_Mellon_Scaife)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Editorial Suppression & Content Deletion (Tier 2):
 - [Semafor: "Newsmax deletes interview criticizing FCC"](https://www.semafor.com/article/03/12/2025/newsmax-deletes-interview-criticizing-fcc) (Tier 2) (VERIFIED)
 - [The Independent: "Newsmax star defends Alex Acosta's sweetheart plea deal"](https://www.independent.co.uk/news/world/americas/us-politics/newsmax-epstein-alex-acosta-board-b2794143.html) (Tier 2) (VERIFIED)
 
 ### White House Access & Press Pool Privileges (Tier 2):
-- ~~[Bloomberg: "White House Limits Newswires In Press Pool Takeover"](https://www.bloomberg.com/news/articles/2025-02-26/white-house-limits-newswires-in-press-pool-takeover)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Axios: "News outlets broadly reject Pentagon's new press rules"](https://www.axios.com/2025/10/14/pentagon-press-restrictions-trump-journalists-news-outlets) (Tier 2) (VERIFIED)
 
 ### Meme Stock Bubble & Market Dysfunction (Tier 2):
-- ~~[Bloomberg: "Newsmax More Valuable Than Fox News Owner"](https://www.bloomberg.com/news/articles/2025-04-01/newsmax-becomes-a-meme-stock-with-1-160-post-ipo-surge)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Business Insider: "Why Newsmax Stock Is Going up so Much"](https://www.businessinsider.com/newsmax-stock-price-soars-latest-meme-nmax-post-ipo-boom-2025-4) (Tier 2) (VERIFIED)
 - [Money Control: "Newsmax soars in meme-stock frenzy"](https://www.moneycontrol.com/world/newsmax-soars-in-meme-stock-frenzy-making-founder-christopher-ruddy-a-multibillionaire-article-12982638.html) (Tier 2) (NEEDS REVIEW)
 
@@ -350,3 +343,15 @@ Patterns present: **Donor-Class Override** (Qatar editorial suppression override
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Reuters: "Newsmax agreed to pay $40 million to Smartmatic"](https://www.reuters.com/business/media-telecom/newsmax-agreed-pay-40-million-settle-defamation-suit-over-2020-false-election-2025-03-13/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "The King of Trump TV Thinks You're Dumb Enough to Buy It"](https://www.nytimes.com/2020/11/29/business/media/newsmax-chris-ruddy-trump.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: "Conservative News Outlet Newsmax Mints New Billionaire"](https://www.forbes.com/sites/giacomotognini/2025/03/31/newsmax-founder-chris-ruddy-is-a-billionaire-thanks-to-stock-surge/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: "A conservative media war erupts with both sides hoping Trump is in their corner"](https://www.politico.com/news/2025/11/28/a-conservative-media-war-erupts-with-both-sides-hoping-trump-is-in-their-corner-00669920)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: "Richard Mellon Scaife"](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Richard_Mellon_Scaife)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Bloomberg: "White House Limits Newswires In Press Pool Takeover"](https://www.bloomberg.com/news/articles/2025-02-26/white-house-limits-newswires-in-press-pool-takeover)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: "Newsmax More Valuable Than Fox News Owner"](https://www.bloomberg.com/news/articles/2025-04-01/newsmax-becomes-a-meme-stock-with-1-160-post-ipo-surge)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

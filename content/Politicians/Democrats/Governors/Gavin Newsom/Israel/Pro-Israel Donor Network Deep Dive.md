@@ -159,11 +159,16 @@ This is the class war frame applied to foreign policy: whose interests are repre
 ---
 
 ### Sources
-- ~~[Times of Israel: AIPAC denial / Ro Khanna](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-money/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [The New Yorker: Haim Saban profile ("The Influencer," 2010)](https://www.newyorker.com/magazine/2010/05/10/the-influencer) (Tier 2) (VERIFIED)
 - [J Weekly: JCRC Zoom after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2) (VERIFIED)
-- ~~[Jewish Community Federation: 2008 trip](https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Haim Saban donor profile](https://www.opensecrets.org/donor-lookup/results?name=haim+saban) (Tier 1) (VERIFIED)
 - [OpenSecrets: Larry Ellison donor profile](https://www.opensecrets.org/donor-lookup/results?name=larry+ellison) (Tier 1) (VERIFIED)
 - [FPPC: California campaign finance](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Times of Israel: AIPAC denial / Ro Khanna](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-money/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Jewish Community Federation: 2008 trip](https://jewishfed.org/news/blog/mayor-newsom-heading-israel-federations-mission)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

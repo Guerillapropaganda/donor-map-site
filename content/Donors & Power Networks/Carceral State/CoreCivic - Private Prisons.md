@@ -53,7 +53,6 @@ CoreCivic's revenue breakdown reveals the real business model: ICE contracts acc
 
 CoreCivic's political operation in the 2024 cycle: $784,974 in total contributions (PAC + individual), $1.77 million in lobbying, 60% of lobbyists (6 of 10) are government alumni. CEO Damon Hininger personally contributed $300,000 to a joint Trump-RNC fundraising committee. CoreCivic donated $500,000 to the Trump-Vance inaugural committee in December 2024, double its $250,000 contribution to Trump's 2016 inaugural committee.
 
-- ~~[OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC EDGAR: CoreCivic Inc. (CIK 0001070985), 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=corecivic&CIK=&type=10-K&dateb=&owner=include&count=10&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 
 ---
@@ -90,7 +89,6 @@ The Tennessee concentration is notable: CoreCivic is headquartered in Brentwood,
 > [!money]
 > CoreCivic's 2024 political investment totals roughly $2.5 million when combining contributions ($785K), lobbying ($1.77M), and inaugural donation ($500K, which is not tracked in campaign finance totals). The return: ICE contracts surged from $140 million (Q3 2024, pre-inauguration) to $215 million (Q3 2025) — a 55% increase in a single year. CoreCivic's $2.5M political investment generated roughly $300M+ in annualized new ICE revenue. That's a 120:1 return on political spending.
 
-- ~~[OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2) (VERIFIED)
 
 ---
@@ -161,7 +159,6 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 - [CREW: Trump's budget bill benefits private detention companies that donated to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2)
 - [Tennessee Lookout: CoreCivic saw 55% increase in immigration detainee contracts](https://tennesseelookout.com/2025/11/06/private-prison-operator-corecivic-saw-55-increase-in-immigration-detainee-contracts/) (Tier 2) (VERIFIED)
 - [CNN: Biden promised but failed to end federal use of private prisons](https://www.cnn.com/2025/02/05/politics/private-prisons-poised-to-expand-under-trump-invs/index.html) (Tier 2) (VERIFIED)
-- ~~[Ballotpedia: CoreCivic](https://ballotpedia.org/CoreCivic)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -220,11 +217,6 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -255,3 +247,16 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/474543845) (Tier 1)
 
 <!-- auto:nonprofit-990 pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: CoreCivic organizational profile](https://www.opensecrets.org/orgs/corecivic-inc/summary?id=D000021940)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Private prison companies positioned to benefit from increased deportations](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Ballotpedia: CoreCivic](https://ballotpedia.org/CoreCivic)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/474543845/2019)~~ (URL broken, archived by Ops)

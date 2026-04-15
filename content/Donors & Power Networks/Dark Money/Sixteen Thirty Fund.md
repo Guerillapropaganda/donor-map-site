@@ -207,7 +207,6 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 - [Capital Research Center: Out of Darkness, Cash Part 1](https://capitalresearch.org/article/out-of-darkness-cash-part-1/) (Tier 3) (VERIFIED)
 - [House Oversight Committee: Comer Investigation into Chorus Program](https://oversight.house.gov/release/comer-launches-investigation-into-sixteen-thirty-funds-reported-secretive-chorus-program-effort-to-evade-campaign-finance-laws/) (Tier 1) (VERIFIED)
 - [Arabella Advisors - InfluenceWatch](https://www.influencewatch.org/for-profit/arabella-advisors/) (Tier 3)
-- ~~[Tablet Magazine: Examining Arabella Advisors Dark Money Lobbying Power](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Free Beacon: Inside Dem Dark Money Behemoth Arabella Advisors](https://freebeacon.com/democrats/inside-dem-dark-money-behemoth-arabella-advisors-failed-attempt-to-create-an-astroturf-influencer-army/) (Tier 3) (VERIFIED)
 - [CampaignNow: The $1.5 Billion Machine. Arabella 2024 Dark Money Blitz](https://www.campaignnow.com/blog/the-1.5-billion-machine-inside-arabella-advisors-2024-dark-money-blitz-and-its-ballot-box-results) (Tier 3) (VERIFIED)
 
@@ -243,7 +242,6 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 - Loomer v. Maher (2024) — District Court, M.D. Florida
 - OPAWL - Building AAPI Feminist Leadership v. Dave Yost (2024) — Court of Appeals for the Sixth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sixteen%20Thirty%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -276,11 +274,6 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264486735) (Tier 1) (VERIFIED)
@@ -310,3 +303,15 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sixteen%20Thirty%20Fund) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Tablet Magazine: Examining Arabella Advisors Dark Money Lobbying Power](https://www.tabletmag.com/sections/news/articles/for-profit-dc-firm-staging-americas-grassroots-movements-arabella-advisors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sixteen%20Thirty%20Fund%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264486735/2019)~~ (URL broken, archived by Ops)

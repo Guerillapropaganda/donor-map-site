@@ -110,9 +110,6 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 ### Sources for Funding Section (All Tier 1-2)
 
 - [ProPublica Nonprofit Explorer: ALEC](https://projects.propublica.org/nonprofits/organizations/520140979) (VERIFIED) (Tier 1. Form 990 filings)
-- ~~[EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/)~~ (URL broken, archived by Ops) (Tier 2, 2025 investigative analysis)
-- ~~[EXPOSEDbyCMD: ALEC's Funding Revealed](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (URL broken, archived by Ops) (Tier 2, $41.7M breakdown 2017-2021)
-- ~~[EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ALEC Membership Page](https://alec.org/membership/) (VERIFIED) (Tier 2, official disclosure)
 
 ---
@@ -380,7 +377,6 @@ ALEC publicly claimed it faced a "funding crisis" post-exodus, but recovered thr
 ### Sources for Revolving Door (Limited Tier 3 Data)
 
 - [Britannica: American Legislative Exchange Council](https://www.britannica.com/topic/American-Legislative-Exchange-Council) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: ALEC Politicians](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Politicians)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 **Note:** The revolving door section is data-limited because ALEC's 501(c)(3) status exempts it from lobbying disclosures that would track staff movements.
 
@@ -440,7 +436,6 @@ ALEC published "Essential Policy Solutions for 2025" including:
 
 - [ALEC: Exploring Essential Policy Solutions for 2025](https://alec.org/article/exploring-alecs-essential-policy-solutions-for-2025/) (Tier 2) (VERIFIED)
 - [ALEC: State AI Policy Toolkit](https://alec.org/publication/state-ai-policy-toolkit-the-alec-guide-to-a-golden-age-of-artificial-intelligence-innovation/) (Tier 2) (VERIFIED)
-- ~~[Exposed by CMD: ALEC Grid Stability Bills 2024](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CleanTechnica: ALEC Anti-Renewable Legislation Ohio](https://cleantechnica.com/2026/02/24/alec-pushes-idiotic-anti-renewable-legislation-in-ohio/amp) (Tier 2) (NEEDS REVIEW)
 
 ---
@@ -585,9 +580,6 @@ ALEC published "Essential Policy Solutions for 2025" including:
 ### Sources for Connections Section (Tier 1-2)
 
 - [The Intercept: Charles Koch Doubles Down on ALEC as Others Flee](https://theintercept.com/2018/11/29/alec-corporate-funders-charles-koch/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Charles Koch $176 Million Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-- ~~[ALEC Exposed: State Policy Network Pipeline](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/EXPOSED:_The_State_Policy_Network)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Heritage Foundation Project 2025 Documentation](https://www.aclu.org/project-2025-explained) (Tier 2) (VERIFIED)
 - [Energy & Policy Institute: ALEC Energy Task Force](https://energyandpolicy.org/american-legislative-exchange-council/) (Tier 2) (VERIFIED)
 
@@ -643,3 +635,16 @@ ALEC operates on 35% undisclosed funding while simultaneously drafting legislati
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Who Funds ALEC?](https://www.exposedbycmd.org/2025/07/18/who-funds-alec/)~~ (URL broken, archived by Ops) (Tier 2, 2025 investigative analysis)
+- ~~[EXPOSEDbyCMD: ALEC's Funding Revealed](https://www.exposedbycmd.org/2023/07/25/alecs-funding-revealed/)~~ (URL broken, archived by Ops) (Tier 2, $41.7M breakdown 2017-2021)
+- ~~[EXPOSEDbyCMD: Bradley Foundation Bankrolls ALEC](https://www.exposedbycmd.org/2021/08/20/bradley-foundation-bankrolls-controversial-alec-voter-software)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: ALEC Politicians](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/ALEC_Politicians)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Exposed by CMD: ALEC Grid Stability Bills 2024](https://www.exposedbycmd.org/2025/11/12/alec-pushes-power-grid-stability-bills-to-favor-fossil-fuels-over-renewables)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Charles Koch $176 Million Network](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: SPN Ties to ALEC](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/SPN_Ties_to_ALEC)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[ALEC Exposed: State Policy Network Pipeline](https://www.alecexposed.org/wiki/ALEC_Exposedwiki/EXPOSED:_The_State_Policy_Network)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

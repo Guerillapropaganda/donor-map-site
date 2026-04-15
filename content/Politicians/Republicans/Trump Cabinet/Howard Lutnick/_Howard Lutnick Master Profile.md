@@ -145,9 +145,14 @@ The 9/11 narrative is the human shield. Howard Lutnick lost 658 employees and hi
 
 - [Senate Finance Committee: Wyden probe Lutnick tariff conflicts](https://www.finance.senate.gov/ranking-members-news/wyden-warren-probe-lutnick-firms-potential-conflicts-of-interest-related-to-massive-tariff-bets) (Tier 1) (VERIFIED)
 - [OpenSecrets: Trump Administration Profile. Howard Lutnick](https://www.opensecrets.org/news/2025/03/trump-administration-profile-howard-lutnick/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Lutnick 800+ entity ethics filing](https://www.bloomberg.com/news/articles/2025-01-24/lutnick-discloses-800-firms-in-complex-billionaire-ethics-filing)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NOTUS: White House conflicts of interest waiver](https://www.notus.org/trump-white-house/howard-lutnick-white-house-conflicts-of-interest-waiver) (Tier 2) (VERIFIED)
 - [Newsweek: Lutnick sons tariff profits investigation](https://www.newsweek.com/howard-lutnicks-son-under-investigation-over-alleged-tariff-ruling-profits-11595677) (Tier 2) (VERIFIED)
 - [Salon: "Five-star rating for conflicts of interest"](https://www.salon.com/2025/04/24/a-5-star-rating-for-conflicts-of-interest-commerce-sec-howard-lutnicks-finances-raise-red-flags/) (Tier 2) (VERIFIED)
 - [FEC: Howard Lutnick contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=lutnick,+howard) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Lutnick 800+ entity ethics filing](https://www.bloomberg.com/news/articles/2025-01-24/lutnick-discloses-800-firms-in-complex-billionaire-ethics-filing)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

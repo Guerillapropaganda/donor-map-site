@@ -150,11 +150,16 @@ The PAC splits tell the story: Google PAC 48.5% Democratic/50.5% Republican. Ama
 - [Sludge: Apple Record Lobbying](https://readsludge.com/2023/01/23/apple-spent-record-amount-on-lobbying-as-it-fought-antitrust-legislation/) (Tier 2) (VERIFIED)
 - [New Republic: Jim Jordan Big Tech Donations](https://newrepublic.com/article/176148/jim-jordan-attack-big-tech-accept-donations) (Tier 2) (VERIFIED)
 - [Politico: Senate Democrats Back Off Big Tech Bill](https://www.politico.com/news/2022/05/26/vulnerable-senate-democrats-back-off-big-tech-bill-00035307) (Tier 2) (VERIFIED)
-- ~~[The Hill: How Big Tech Fought Antitrust and Won](https://thehill.com/policy/technology/3785894-how-big-tech-fought-antitrust-reform-and-won/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Tech Transparency Project: Google Revolving Door](https://www.techtransparencyproject.org/articles/googles-revolving-door-us) (Tier 2) (VERIFIED)
-- ~~[Axios: 2023 Tech Lobbying Review](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NY Post: Schumer Daughters at Amazon/Meta](https://nypost.com/2022/01/18/schumers-daughters-work-for-amazon-facebook-as-he-holds-power-over-antitrust-bill/) (Tier 3) (VERIFIED)
-- ~~[FollowTheMoney: AGs vs Big Tech](https://www.followthemoney.org/research/blog/attorneys-general-take-on-big-tech)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: How Big Tech Fought Antitrust and Won](https://thehill.com/policy/technology/3785894-how-big-tech-fought-antitrust-reform-and-won/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: 2023 Tech Lobbying Review](https://www.axios.com/pro/tech-policy/2024/01/23/2023-tech-lobbying-in-review)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FollowTheMoney: AGs vs Big Tech](https://www.followthemoney.org/research/blog/attorneys-general-take-on-big-tech)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 2)

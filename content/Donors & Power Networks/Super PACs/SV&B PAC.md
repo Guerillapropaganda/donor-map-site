@@ -62,7 +62,12 @@ SV&B PAC exemplifies how emerging industries can prevent taxation through concen
 
 ### Sources
 
-- ~~[OpenSecrets: SV&B PAC spending 2024](https://www.opensecrets.org/pacs/svb-pac)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Sports betting industry lobbying](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2) (VERIFIED)
 - [CalMatters: California Prop 27. Online Sports Betting ballot measure](https://calmatters.org/california-voter-guide-2022/propositions/prop-27-sports-betting-online/) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: SV&B PAC spending 2024](https://www.opensecrets.org/pacs/svb-pac)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

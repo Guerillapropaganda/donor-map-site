@@ -170,7 +170,6 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 - [HSGAC: Johnson-Grassley conflicts-of-interest investigation report](https://www.hsgac.senate.gov/media/reps/johnson-grassley-release-report-on-conflicts-of-interest-investigation/) (Tier 1) (VERIFIED)
 - [PolitiFact: Tax break Ron Johnson pushed has benefited America's wealthiest](https://www.politifact.com/factchecks/2022/jun/07/state-democratic-party-wisconsin/yes-tax-break-ron-johnson-pushed-2017-has-benefite/) (Tier 2) (VERIFIED)
 - [PolitiFact: Johnson called climate change BS, took $700K from oil firms](https://www.politifact.com/factchecks/2022/aug/19/league-conservation-voters/johnson-called-climate-change-bull-took-700000-don/) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Billionaires spent $9.5M for Johnson's reelection](https://www.exposedbycmd.org/2022/08/04/billionaires-hendricks-and-uihlein-have-already-spent-9-5-million-for-wisconsin-senator-ron-johnsons-reelection-campaign/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Up North News: Wisconsin billionaires got tax break, now spending millions to re-elect Johnson](https://upnorthnewswi.com/2022/06/08/wisconsin-billionaires-who-got-a-monster-tax-break-from-ron-johnson-are-now-spending-millions-to-get-him-re-elected/) (Tier 2) (VERIFIED)
 - [CNBC: Johnson and Daines back tax bill after pass-through tweak](https://www.cnbc.com/2017/12/01/sen-steve-daines-one-of-the-last-gop-holdouts-will-back-senate-tax-bill-after-pass-through-tweak.html) (Tier 2) (VERIFIED)
 - [Wisconsin Watch: Did Ron Johnson visit Russia on July 4?](https://wisconsinwatch.org/2022/10/did-wisconsin-sen-ron-johnson-visit-russia-on-the-fourth-of-july/) (Tier 2) (VERIFIED)
@@ -214,7 +213,6 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 | 12/20/2019 | -- | Sale | $100,001 - $250,000 | Self |
 | 03/02/2020 | -- | Sale | $5,000,001 - $25,000,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -243,7 +241,6 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Ron Johnson](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -272,5 +269,13 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/J000293)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Billionaires spent $9.5M for Johnson's reelection](https://www.exposedbycmd.org/2022/08/04/billionaires-hendricks-and-uihlein-have-already-spent-9-5-million-for-wisconsin-senator-ron-johnsons-reelection-campaign/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Ron Johnson](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/J000293)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

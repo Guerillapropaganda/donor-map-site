@@ -95,7 +95,6 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 ### Sources
 
-- ~~[New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -146,3 +145,9 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moinian%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Developer contributions to Hochul](https://www.nytimes.com/2022/06/developer-hochul.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

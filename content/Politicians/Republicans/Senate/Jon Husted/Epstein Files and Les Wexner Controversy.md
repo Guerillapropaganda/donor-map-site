@@ -64,8 +64,13 @@ This pattern exemplifies why campaign finance accountability matters: Wexner's c
 - [Tiffin Ohio: Husted took donations from Epstein 'co-conspirator' Les Wexner, then voted to block file release](https://tiffinohio.net/posts/husted-took-donations-from-epstein-co-conspirator-les-wexner-then-voted-to-block-file-release/) (Tier 2) (VERIFIED)
 - [The New Republic: MAGA Senator Took Donation From Epstein Friend Before Key Vote](https://newrepublic.com/post/206564/maga-senator-donation-epstein-conspirator-vote-block-files) (Tier 2) (VERIFIED)
 - [Ohio Democrats: Jon Husted Scrambles Following Report He Took $116K From Epstein Co-Conspirator](https://ohiodems.org/jon-husted-scrambles-following-report-he-took-116k-directly-from-epstein-co-conspirator/) (Tier 4) (VERIFIED)
-- ~~[NBC4: Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [WKYC/WTOL: Wexner questioned about contributions during deposition](https://www.wkyc.com/article/news/local/ohio/wexner-explains-contributions-husted-campaigns-deposition/530-34af01b3-19fc-4ade-88d6-7473e0eefdb7) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NBC4: Jon Husted sitting on $2.6 million for 2026 U.S. Senate race](https://www.nbc4i.com/news/your-local-election-hq/jon-husted-sitting-on-2-6-million-for-2026-u-s-senate-race-as-sherrod-brown-mulls-run/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

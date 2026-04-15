@@ -162,7 +162,6 @@ The man running DOGE (cutting government agencies, influencing contracts) is sim
 - 2026 Senate Races story folder
 
 ### Sources (UNVERIFIED. Chrome unavailable):
-- ~~[The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ---
 
@@ -195,3 +194,9 @@ Both PAC networks explicitly fund Republicans AND Democrats. Both use neutral-so
 | a16z crossover (crypto + AI) | Crossover flag | Flag for David. Do not write full piece. |
 
 ---
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Musk jumps back into political fray with big midterm donations](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)

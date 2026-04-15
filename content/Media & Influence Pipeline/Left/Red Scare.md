@@ -199,8 +199,13 @@ Chapo's subscriber capture constrained hosts toward left consistency. Red Scare'
 - [Vanity Fair: Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets (April 2022)](https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets) (Tier 2) (VERIFIED) (WebSearch verified 2026-03-27. Masters quotes on Thiel/Red Scare funding)
 - [ArtNews: What Do J.D. Vance, Dimes Square, and the Art World Have in Common? (April 2022)](https://www.artnews.com/art-news/news/j-d-vance-dimes-square-the-art-world-new-right-conservatism-1234716130/) (Tier 2) (VERIFIED) (WebSearch verified 2026-03-27)
 - [The American Mind: Soviet America's Sweethearts](https://americanmind.org/salvo/soviet-americas-sweethearts/) (Tier 3) (VERIFIED) (WebSearch verified 2026-03-27, identifies George Floyd protests as rightward turning point)
-- ~~[Primetimer: Who is Dasha Nekrasova? Nick Fuentes podcast appearance reportedly leads to ousting from talent agency](https://www.primetimer.com/news/who-is-dasha-nekrasova-nick-fuentes-podcast-appearance-reportedly-leads-to-sucession-actress-s-ousting-from-talent-agency)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (WebSearch verified 2026-03-27)
 - [Reason: The creepy crusade to cancel Red Scare's Dasha (November 2025)](https://reason.com/2025/11/20/the-creepy-crusade-to-cancel-red-scares-dasha/) (Tier 3) (VERIFIED) (WebSearch verified 2026-03-27)
 - [FEC: Dasha Nekrasova individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=NEKRASOVA%2C+DASHA) (Tier 1)
 - [FEC: Anna Khachiyan individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=KHACHIYAN%2C+ANNA) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Primetimer: Who is Dasha Nekrasova? Nick Fuentes podcast appearance reportedly leads to ousting from talent agency](https://www.primetimer.com/news/who-is-dasha-nekrasova-nick-fuentes-podcast-appearance-reportedly-leads-to-sucession-actress-s-ousting-from-talent-agency)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (WebSearch verified 2026-03-27)

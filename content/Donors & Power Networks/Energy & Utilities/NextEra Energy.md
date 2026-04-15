@@ -104,7 +104,6 @@ NextEra Energy, Inc. The world's largest utility company by market capitalizatio
 
 NextEra PAC contributes $3-5 million per cycle, one of the largest utility PACs, with lobbying spending of $8-12 million annually. The company's political operation is the most aggressive in the utility sector: NextEra's Florida lobbying operation has shaped the state's energy policy to protect FPL's monopoly while the company's federal lobbying promotes renewable energy tax credits that benefit NextEra Resources.
 
-- ~~[OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -187,11 +186,6 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/650031452) (Tier 1) (VERIFIED)
@@ -235,7 +229,6 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 - Natural Resources Defense Council v. FERC (2026) — Court of Appeals for the D.C. Circuit
 - Avenger Flight Group, LLC (2026) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -288,3 +281,15 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: NextEra Energy organizational profile](https://www.opensecrets.org/orgs/nextera-energy/summary?id=D000021981)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/650031452/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22NextEra%20Energy%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -269,7 +269,6 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Brendan Boyle](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -308,3 +307,9 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Brendan Boyle](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

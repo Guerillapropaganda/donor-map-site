@@ -246,7 +246,6 @@ New America is the most important case study in the vault of how Silicon Valley 
 
 - [ProPublica Nonprofit Explorer: New America Foundation (EIN 52-2096845)](https://projects.propublica.org/nonprofits/organizations/522096845) (Tier 1) (VERIFIED)
 - [InfluenceWatch: New America (New America Foundation)](https://www.influencewatch.org/non-profit/new-america-foundation/) (Tier 3) (VERIFIED)
-- ~~[Wikipedia: New America (organization)](https://en.wikipedia.org/wiki/New_America_(organization)~~ (URL broken, archived by Ops)) (Tier 3)
 - [The Intercept: New America Emails Show How Google Wields Power in Washington (2017)](https://theintercept.com/2017/08/31/new-america-google-open-markets-barry-lynn-anne-marie-slaughter/) (Tier 2) (VERIFIED)
 - [Media Bias/Fact Check: New America](https://mediabiasfactcheck.com/new-america/) (Tier 3) (VERIFIED)
 - [New America: About Us](https://www.newamerica.org/about/) (Tier 3) (VERIFIED)
@@ -258,7 +257,6 @@ New America is the most important case study in the vault of how Silicon Valley 
 - [The New Republic: The Credible Think Tank Is Dead. Google, New America, and the corporate capture of policy research (2017)](https://newrepublic.com/article/144818/credible-think-tank-dead) (Tier 2) (VERIFIED)
 - [New America: Funding disclosure page, donor list and transparency](https://www.newamerica.org/about/funding/) (Tier 3) (VERIFIED)
 - [NPR: Google-Funded Think Tank Fires Scholar Who Criticized Tech Giant (2017)](https://www.npr.org/2017/08/31/547491063/google-funded-think-tank-fires-scholar-who-criticized-tech-giant) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: New America Foundation, funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
@@ -294,3 +292,10 @@ New America is the most important case study in the vault of how Silicon Valley 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22New%20America%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: New America (organization)](https://en.wikipedia.org/wiki/New_America_(organization)~~ (URL broken, archived by Ops)) (Tier 3)
+- ~~[SourceWatch: New America Foundation, funding, board, and policy influence documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/New_America_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

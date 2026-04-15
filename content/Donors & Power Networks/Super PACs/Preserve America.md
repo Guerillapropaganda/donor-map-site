@@ -169,9 +169,6 @@ Preserve America does not operate in isolation. It coordinates with:
 **Filing history:** 2013, 2012, 2011
 
 **View 990 filings:**
-- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2013)~~ (URL broken, archived by Ops)
-- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2012)~~ (URL broken, archived by Ops)
-- ~~[2011 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2011)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/561858873) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -216,3 +213,11 @@ Preserve America does not operate in isolation. It coordinates with:
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Preserve%20America%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2012)~~ (URL broken, archived by Ops)
+- ~~[2011 Filing](https://projects.propublica.org/nonprofits/organizations/561858873/2011)~~ (URL broken, archived by Ops)

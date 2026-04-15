@@ -152,7 +152,6 @@ The tech donor class that funds Future Forward received concrete returns during 
 | Officer Compensation | $699K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 824170762](https://projects.propublica.org/nonprofits/organizations/824170762) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_82-83%2F824170762_202212_990O_2023120722083400.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -169,7 +168,6 @@ The tech donor class that funds Future Forward received concrete returns during 
 - Diamond Sports Group, LLC (2023) — United States Bankruptcy Court, S.D. Texas
 - FREEDOM PATH, INC v. INTERNAL REVENUE SERVICE (2020) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Future%20Forward%20USA%20Action%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -187,10 +185,17 @@ The tech donor class that funds Future Forward received concrete returns during 
 **Filing history:** 2022, 2021, 2020, 2018
 
 **View 990 filings:**
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/824170762) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_82-83%2F824170762_202212_990O_2023120722083400.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Future%20Forward%20USA%20Action%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2020)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/824170762/2018)~~ (URL broken, archived by Ops)
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/824170762) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

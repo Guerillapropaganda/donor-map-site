@@ -81,7 +81,6 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 
 ### Sources
 
-- ~~[IRS: Bradley Impact Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Bradley%20Impact%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Nonprofit Explorer - Bradley Impact Fund](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 2) (VERIFIED)
 - [Ballotpedia: Donor-advised funds](https://ballotpedia.org/Bradley_Impact_Fund) (Tier 3) (VERIFIED)
 
@@ -116,12 +115,18 @@ The Bradley Impact Fund is part of a broader conservative DAF network that inclu
 **Filing history:** 2023, 2022, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS: Bradley Impact Fund 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Bradley%20Impact%20Fund&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2022)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2019)~~ (URL broken, archived by Ops)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/454678325/2018)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

@@ -59,5 +59,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 |------|--------|------|--------|-------|
 | 06/02/2017 | -- | Sale | $15,001 - $50,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -192,11 +192,9 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 - {{src:src_005585}} (Tier 1)
 - {{src:src_005585}} (Tier 1) (VERIFIED)
 - [Congress.gov: Amy Klobuchar member profile](https://www.congress.gov/member/amy-klobuchar/K000367) (Tier 1)
-- ~~[Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Merger Filing Fee Modernization Act](https://www.congress.gov/bill/117th-congress/senate-bill/228) (Tier 1) (VERIFIED)
 - [Washington Examiner: Big Tech spent $95M against Klobuchar antitrust bill](https://www.washingtonexaminer.com/news/490898/big-tech-spent-95-million-against-klobuchar-anti-big-tech-antitrust-bill/) (Tier 2) (VERIFIED)
 - [CNBC: Amazon donated to nonprofit that opposed antitrust bills](https://www.cnbc.com/2022/10/27/amazon-donated-to-nonprofit-that-opposed-new-antitrust-bills.html) (Tier 2) (VERIFIED)
-- ~~[Fast Company: Klobuchar on the tech lobby's all-out war on antitrust legislation](https://www.fastcompany.com/90716074/amy-klobuchar-on-the-tech-lobbys-all-out-war-on-antitrust-legislation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for Public Integrity: Amy Klobuchar 2020 campaign profile](https://publicintegrity.org/politics/elections/amy-klobuchar-2020-president-campaign-election/) (Tier 2) (VERIFIED)
 - [LegiStorm: Klobuchar revolving door tracker](https://www.legistorm.com/pro/revolving_door_details/member_id/815/name/Amy_Klobuchar.html) (Tier 3)
 - [Ballotpedia: Amy Klobuchar](https://ballotpedia.org/Amy_Klobuchar) (Tier 3) (VERIFIED)
@@ -295,7 +293,6 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/K000367)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -336,5 +333,13 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Amy Klobuchar](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: American Innovation and Choice Online Act](https://www.congress.gov/bill/117th-congress/senate-bill/2992)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Fast Company: Klobuchar on the tech lobby's all-out war on antitrust legislation](https://www.fastcompany.com/90716074/amy-klobuchar-on-the-tech-lobbys-all-out-war-on-antitrust-legislation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/K000367)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Amy Klobuchar](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

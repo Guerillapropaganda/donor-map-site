@@ -216,11 +216,7 @@ The firm's representation of Saudi Arabia, maintained after the Khashoggi murder
 - [Washington Post: The firm that once employed Trump's pick to run Interior is making millions lobbying it](https://www.washingtonpost.com/climate-environment/2019/04/03/firm-that-once-employed-trumps-pick-run-interior-is-making-millions-lobbying-it/) (Tier 2) (VERIFIED)
 - [Denver Post: Denver lobbyists are nation's most profitable](https://www.denverpost.com/2019/07/29/brownstein-lobbying-congress-nancy-pelosi/) (Tier 2) (VERIFIED)
 - [Denver Post: Colorado lobbying firm brings clout to DC](https://www.denverpost.com/2016/04/09/colorado-lobbying-firm-brings-clout-to-dc/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: As lobbying revenue grows at record pace, Trump-aligned firms reap biggest rewards](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Top firms rake in millions lobbying for foreign nations on US defense budget](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Common Dreams: Oil Lobbyist Turned Interior Chief Proposes Giving Contract to Ex-Client](https://www.commondreams.org/news/2019/11/08/corrupt-it-gets-oil-lobbyist-turned-interior-chief-proposes-giving-coveted-contract) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Brownstein Hyatt Farber Schreck](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Brownstein_Hyatt_Farber_Schreck)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-- ~~[SourceWatch: ALEC Energy, Environment and Agriculture Task Force. BHFS co-chair Martin Shultz](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Energy,_Environment_and_Agriculture_Task_Force)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Brownstein Hyatt Farber Schreck](https://en.wikipedia.org/wiki/Brownstein_Hyatt_Farber_Schreck) (Tier 3) (VERIFIED)
 - [Colorado Sun: Denver-based Brownstein Hyatt Farber Schreck won't cut ties with Saudi Arabia following Jamal Khashoggi's killing](https://coloradosun.com/2018/10/26/brownstein-hyatt-farber-schreck-saudi-arabia-khashoggi/) (Tier 2) (VERIFIED)
 - [Colorado Sun: A Denver-based lobbying firm working for Saudi Arabia met with the White House amid the fallout from a journalist's killing](https://coloradosun.com/2019/02/12/a-denver-based-lobbying-firm-working-for-saudi-arabia-met-with-the-white-house-amid-the-fallout-from-a-journalists-killing/) (Tier 2) (VERIFIED)
@@ -303,5 +299,14 @@ The firm's representation of Saudi Arabia, maintained after the Khashoggi murder
 - Glenwood Caverns Holdings LLC (2026) — United States Bankruptcy Court, D. Delaware
 - Petersen v. Evers (2026) — District Court, D. Nevada
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: As lobbying revenue grows at record pace, Trump-aligned firms reap biggest rewards](https://www.opensecrets.org/news/2025/11/as-lobbying-revenue-grows-at-record-pace-trump-aligned-firms-reap-the-biggest-rewards)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Top firms rake in millions lobbying for foreign nations on US defense budget](https://www.opensecrets.org/news/2023/12/top-firms-rake-in-millions-lobbying-for-foreign-nations-on-us-defense-budget/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[SourceWatch: Brownstein Hyatt Farber Schreck](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Brownstein_Hyatt_Farber_Schreck)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: ALEC Energy, Environment and Agriculture Task Force. BHFS co-chair Martin Shultz](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch?title=Energy,_Environment_and_Agriculture_Task_Force)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brownstein%20Hyatt%20Farber%20Schreck%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

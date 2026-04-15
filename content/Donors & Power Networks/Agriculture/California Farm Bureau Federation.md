@@ -272,7 +272,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - San Luis Obispo Coastkeeper, et al. v. County of San Luis Obispo (2024) — Court of Appeals for the Ninth Circuit
 - Baker Ranches, Inc., et al. v. Haaland, et al. (2024) — Court of Appeals for the Ninth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
@@ -311,11 +310,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940357610) (Tier 1) (VERIFIED)
@@ -551,3 +545,14 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1) (VERIFIED)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940357610/2019)~~ (URL broken, archived by Ops)

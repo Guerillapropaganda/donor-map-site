@@ -168,10 +168,7 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 
 ### Sources
 
-- ~~[OpenSecrets: Ken Griffin donor profile](https://www.opensecrets.org/individuals/kenneth-griffin/summary?cid=N00029020)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Why Citadel's Ken Griffin Spent $54 Million To Defeat an Illinois Tax Increase](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Ken Griffin's hedge fund and political spending](https://www.bloomberg.com/news/articles/2022-02-07/billionaire-kenneth-griffin-plans-100-million-spending-in-2022)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Guardian: Ken Griffin Illinois politics](https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 - [Ballotpedia: Citadel CEO Kenneth Griffin](https://ballotpedia.org/Kenneth_Griffin) (Tier 3) (VERIFIED)
 
 ---
@@ -206,7 +203,6 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 - President and Fellows of Harvard College v. US Department of Health and Human Services (2025) — District Court, D. Massachusetts
 - American Association of University Professors - Harvard Faculty Chapter v. United States Department Of Justice (2025) — District Court, D. Massachusetts
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ken%20Griffin%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -221,7 +217,6 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 | Net Assets | $2.3M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 816166962](https://projects.propublica.org/nonprofits/organizations/816166962) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F816166962_202312_990PF_2025011022987307.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Campaign Finance (FEC)
@@ -264,7 +259,6 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 - 2007-12-04 — **EX-99.1**: EX-99.1
 - 2015-10-21 — **424B7**: 424B7
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ken%20Griffin%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 ### Corporate Structure (GLEIF)
@@ -281,3 +275,14 @@ Griffin's personal pro-choice stance (unusual among mega-donors) while funding a
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Ken Griffin donor profile](https://www.opensecrets.org/individuals/kenneth-griffin/summary?cid=N00029020)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg: Ken Griffin's hedge fund and political spending](https://www.bloomberg.com/news/articles/2022-02-07/billionaire-kenneth-griffin-plans-100-million-spending-in-2022)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Guardian: Ken Griffin Illinois politics](https://www.theguardian.com/business/2024/mar/12/hedge-fund-billionaire-kenneth-griffin)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ken%20Griffin%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F816166962_202312_990PF_2025011022987307.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ken%20Griffin%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

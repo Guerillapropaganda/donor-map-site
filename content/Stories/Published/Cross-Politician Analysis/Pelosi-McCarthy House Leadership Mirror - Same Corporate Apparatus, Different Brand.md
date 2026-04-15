@@ -122,7 +122,6 @@ Pelosi did not save McCarthy when Gaetz moved to vacate. Democrats voted with Ga
 - {{src:src_001501}} (Tier 1) (VERIFIED) (Chrome verified 2026-03-27)
 - {{src:src_001502}} (Tier 1) (VERIFIED) (Chrome verified 2026-03-27, corrected committee ID from C00573519 to C00504530)
 - [Federal Times: Defense Contractors Donate Millions to Election Deniers](https://www.federaltimes.com/federal-oversight/congress/2022/11/02/defense-contractors-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27)
-- ~~[The Hill: Lawmakers Furious at Democratic Leaders After Stock Trading Ban Stalls](https://thehill.com/blogs/blog-briefing-room/news/3669259-lawmakers-furious-at-pelosi-after-stock-trading-ban-stalls/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)
 
 Sub-notes for full sourcing:
 - McCarthy master profile sources: [[_Kevin McCarthy Master Profile]]
@@ -130,3 +129,9 @@ Sub-notes for full sourcing:
 - Dark money architecture: [[Dark Money Networks - The Shadow System]]
 - AIPAC cross-spectrum: [[AIPAC - American Israel Public Affairs Committee]]
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Lawmakers Furious at Democratic Leaders After Stock Trading Ban Stalls](https://thehill.com/blogs/blog-briefing-room/news/3669259-lawmakers-furious-at-pelosi-after-stock-trading-ban-stalls/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome verified 2026-03-27)

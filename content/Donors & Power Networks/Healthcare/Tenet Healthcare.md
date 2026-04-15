@@ -212,8 +212,6 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - [DOJ: Tenet Healthcare to Pay U.S. More Than $900 Million (2006)](https://www.justice.gov/archive/opa/pr/2006/June/06_civ_406.html) (Tier 1) (VERIFIED)
 - [DOJ: Hospital Chain Will Pay Over $513 Million for Defrauding the United States (2016)](https://www.justice.gov/archives/opa/pr/hospital-chain-will-pay-over-513-million-defrauding-united-states-and-making-illegal-payments) (Tier 1) (VERIFIED)
 - [Georgia AG: Landmark Kickback Settlement With Tenet Healthcare. Over $100 Million Returned](https://law.georgia.gov/press-releases/2016-10-03/georgia-reaches-landmark-kickback-settlement-tenet-healthcare-corp-over) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: H.R.972. Outpatient Surgery Quality and Access Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/972)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Becker's Hospital Review: Tenet Spends $630K to Derail 'Medicare for All'](https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Tenet Healthcare](https://ballotpedia.org/Tenet_Healthcare) (Tier 3) (VERIFIED)
 - [Tenet Healthcare: Disclosure of Political Expenditures](https://investor.tenethealth.com/governance/disclosure-of-political-expenditures/default.aspx) (Tier 1) (VERIFIED)
 
@@ -305,7 +303,6 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 - M.C. 1 v. Curriculum Associates, LLC (2025) — District Court, D. Massachusetts
 - TENET HEALTHCARE CORPORATION v. SERVICE EMPLOYEES INTERNATIONAL UNION (2025) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tenet%20Healthcare%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -355,11 +352,6 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742873537) (Tier 1) (VERIFIED)
@@ -411,3 +403,16 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tenet%20Healthcare) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: H.R.972. Outpatient Surgery Quality and Access Act of 2023](https://www.congress.gov/bill/118th-congress/house-bill/972)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Becker's Hospital Review: Tenet Spends $630K to Derail 'Medicare for All'](https://www.beckershospitalreview.com/hospital-management-administration/tenet-spends-630k-to-derail-medicare-for-all/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tenet%20Healthcare%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742873537/2019)~~ (URL broken, archived by Ops)

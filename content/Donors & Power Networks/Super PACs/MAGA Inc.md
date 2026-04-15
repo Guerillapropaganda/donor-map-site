@@ -200,7 +200,6 @@ The legal framework that enables this, *Citizens United* allowing unlimited supe
 - JUDICIAL WATCH, INC. v. U.S. DEPARTMENT OF JUSTICE (2024) — District Court, District of Columbia
 - Donald Trump v. Hillary Clinton (2023) — Court of Appeals for the Eleventh Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22MAGA%20Inc%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -242,3 +241,9 @@ Make America Great Again Inc. is an American super PAC that supports Donald Trum
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc.) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q123281082) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22MAGA%20Inc%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

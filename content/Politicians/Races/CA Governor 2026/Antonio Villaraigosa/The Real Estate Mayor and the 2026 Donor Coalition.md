@@ -110,5 +110,10 @@ The question is not whether Villaraigosa would govern as mayor-like (development
 - [The Real Deal LA: Real estate heavyweights back Villaraigosa's 2026 bid for governor](https://therealdeal.com/la/2025/10/14/real-estate-execs-fund-villaraigosa-for-california-governor/) (Tier 2) (VERIFIED)
 - [EdSource: Surge of funds from pro-charter advocates backs Villaraigosa in last leg of primary campaign](https://edsource.org/2018/surge-of-funds-from-pro-charter-advocates-backs-villaraigosa-in-last-leg-of-primary-campaign/598569) (Tier 2) (VERIFIED)
 - [CalMatters: Billionaires vs teachers union: Charter school fight amps up race for California governor](https://calmatters.org/education/2018/05/billionaires-vs-teachers-union-a-fight-over-charter-schools-amps-up-race-for-california-governor/) (Tier 2) (VERIFIED)
-- ~~[LA Times: Measure ULA Real Estate Transfer Tax](https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[LA Times: Measure ULA Real Estate Transfer Tax](https://www.latimes.com/california/story/2022-10-31/la-mansion-tax-measure-ula-explained)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

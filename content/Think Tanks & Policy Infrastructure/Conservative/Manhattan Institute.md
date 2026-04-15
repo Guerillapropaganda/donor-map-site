@@ -216,7 +216,6 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - [The Intercept: As Paul Singer Donated Millions to Republican Governors Association, Public Funds Flowed Into His Hedge Funds](https://theintercept.com/2020/10/15/paul-singer-hedge-fund-republican-governors-association-rga/) (Tier 2) (VERIFIED)
 - [Inside Philanthropy: Why Wall Streeters Love The Manhattan Institute](https://www.insidephilanthropy.com/home/economic-policy-research-2015-6-1-why-wall-streeters-love-the-manhattan-institute-html) (Tier 2) (VERIFIED)
 - [DeSmog: Manhattan Institute for Policy Research, climate and energy research profile](https://www.desmog.com/manhattan-institute-policy-research/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Manhattan Institute for Policy Research, funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [InfluenceWatch: Manhattan Institute for Policy Research](https://www.influencewatch.org/non-profit/manhattan-institute-for-policy-research/) (Tier 3) (VERIFIED)
 - [Wikipedia: Manhattan Institute for Policy Research](https://en.wikipedia.org/wiki/Manhattan_Institute_for_Policy_Research) (Tier 3) (VERIFIED)
 - [Charity Navigator: Rating for Manhattan Institute for Policy Research (0/100 accountability)](https://www.charitynavigator.org/ein/132912529) (Tier 3) (VERIFIED)
@@ -291,7 +290,6 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 - FTX Recovery Trust v. Ryan Salame (2024) — United States Bankruptcy Court, D. Delaware
 - STANDING ROCK SIOUX TRIBE v. U.S. ARMY CORPS OF ENGINEERS (2024) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Manhattan%20Institute%20for%20Policy%20Research%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -313,3 +311,10 @@ The "urban affairs" framing is particularly effective: MI presents itself as sol
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Manhattan%20Institute%20for%20Policy%20Research%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Manhattan Institute for Policy Research, funding documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Manhattan%20Institute%20for%20Policy%20Research%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

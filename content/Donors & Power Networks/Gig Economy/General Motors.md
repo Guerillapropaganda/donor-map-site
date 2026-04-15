@@ -219,7 +219,6 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 - Walock v. General Motors, LLC (2026) — District Court, M.D. Louisiana
 - Gonnering v. General Motors LLC (2026) — District Court, E.D. Michigan
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22General%20Motors%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -300,11 +299,6 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 **Filing history:** 2023, 2022, 2019, 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2022)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2018)~~ (URL broken, archived by Ops)
-- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2017)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/383569669) (Tier 1) (VERIFIED)
@@ -363,3 +357,14 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Motors) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22General%20Motors%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2022)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/383569669/2017)~~ (URL broken, archived by Ops)

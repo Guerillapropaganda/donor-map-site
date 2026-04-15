@@ -291,10 +291,8 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 ### Government & Regulatory:
 - [SEC: Blackstone Inc. annual filings](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001393818&type=10-K) (Tier 1) (VERIFIED)
-- ~~[CBO: Carried interest revenue estimates](https://www.cbo.gov/publication/options-reducing-deficit)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FTC: Invitation Homes settlement](https://www.ftc.gov/news-events/news/press-releases/2023/invitation-homes-settlement) (Tier 1) (VERIFIED)
 - [IRS: Opportunity Zone regulations](https://www.irs.gov/credits-deductions/businesses/opportunity-zones) (Tier 1) (VERIFIED)
-- ~~[UN OHCHR: Special Rapporteur on Housing. Blackstone criticism](https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Investigative Journalism (Chrome-verified where noted):
 - [ProPublica: Despite Trump campaign promise, billionaires' tax loophole survives again](https://www.propublica.org/article/despite-trump-campaign-promise-billionaires-tax-loophole-survives-again) (Tier 2) (VERIFIED) (Chrome-verified)
@@ -302,13 +300,9 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 - [IBTimes: Tax bill adds new deduction for Blackstone CEO Schwarzman](https://www.ibtimes.com/political-capital/tax-bill-adds-new-deduction-blackstone-ceo-gop-donor-schwarzman-2622738) (Tier 2) (VERIFIED) (Chrome-verified)
 - [ProPublica: Billionaires Keep Benefiting From a Tax Break to Help the Poor. Now, Congress Wants to Investigate.](https://www.propublica.org/article/billionaires-keep-benefiting-from-a-tax-break-to-help-the-poor-now-congress-wants-to-investigate) (Tier 2) (VERIFIED)
 - [Capital & Main: Invitation Homes rent increases in San Diego](https://capitalandmain.com/affordable-housing-tenants-protest-rent-increases-0920) (Tier 2) (VERIFIED)
-- ~~[Financial Times: Saudi PIF Blackstone relationship](https://www.ft.com/content/blackstone-saudi-pif)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Wall Street Journal: Blackstone single-family home acquisitions](https://www.wsj.com/articles/blackstone-invitation-homes-single-family)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Americans for Tax Fairness: Carried interest loophole cost analysis](https://americansfortaxfairness.org/issue/carried-interest/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Secondary:
 - [Ballotpedia: Blackstone Group political spending](https://ballotpedia.org/Blackstone_Group) (Tier 3) (VERIFIED)
-- ~~[Bloomberg: Blackstone sovereign wealth fund relationships](https://www.bloomberg.com/blackstone-sovereign-wealth)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Maine Democratic Party: Schwarzman donations to Collins post-TCJA vote](https://www.mainedems.org/media/new-report-private-equity-billionaire-ramped-donations-senator-collins-after-her-pivotal-vote) (Tier 4) (VERIFIED) (Chrome-verified)
 
 ---
@@ -468,7 +462,6 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 - Parr v. BitPay (2025) - District Court, E.D. Texas
 - Chavous v. Housing Visions Unlimited Inc. (2025) - District Court, N.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### OCC Enforcement Actions
@@ -490,7 +483,6 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 - [AA-EC-89-134: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea86.pdf) (NEEDS REVIEW) (05/25/1990) - $11,000
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 ### SEC Filing Activity
@@ -510,3 +502,16 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Blackstone%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CBO: Carried interest revenue estimates](https://www.cbo.gov/publication/options-reducing-deficit)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[UN OHCHR: Special Rapporteur on Housing. Blackstone criticism](https://www.ohchr.org/en/press-releases/2019/03/un-housing-expert-blackstone)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Financial Times: Saudi PIF Blackstone relationship](https://www.ft.com/content/blackstone-saudi-pif)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wall Street Journal: Blackstone single-family home acquisitions](https://www.wsj.com/articles/blackstone-invitation-homes-single-family)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Americans for Tax Fairness: Carried interest loophole cost analysis](https://americansfortaxfairness.org/issue/carried-interest/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Blackstone sovereign wealth fund relationships](https://www.bloomberg.com/blackstone-sovereign-wealth)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Blackstone%20Group&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

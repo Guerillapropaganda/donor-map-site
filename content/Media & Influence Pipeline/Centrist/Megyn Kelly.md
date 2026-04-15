@@ -174,7 +174,6 @@ The Halperin partnership and Hicks hiring are not anomalies, they are the patter
 - [Hollywood Reporter: Megyn Kelly Channel on SiriusXM Launching in New Multiyear Deal](https://www.hollywoodreporter.com/business/business-news/megyn-kelly-channel-siriusxm-new-deal-1236396667/) (Tier 2) (VERIFIED)
 - [Variety: Fox Acquires Red Seat Ventures, Backer of Shows by Kelly, Carlson](https://variety.com/2025/tv/news/fox-acquires-red-seat-ventures-megyn-kelly-tucker-carlson-1236302452/) (Tier 2) (VERIFIED)
 - [Deadline: Hope Hicks To Join Megyn Kelly's Media Company As COO](https://deadline.com/2025/07/hope-hicks-megyn-kelly-coo-1236472126/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Megyn Kelly hires Hope Hicks as she expands media company](https://thehill.com/homenews/media/5423816-megyn-kelly-media-company-coo/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hollywood Reporter: Hope Hicks Joins Megyn Kelly Podcast Company Devil May Care Media](https://www.hollywoodreporter.com/business/business-news/hope-hicks-joins-megyn-kelly-media-podcast-company-1236330874/) (Tier 2) (VERIFIED)
 - [Hollywood Reporter: Megyn Kelly Podcast Network. Host Launches MK Media With Mark Halperin](https://www.hollywoodreporter.com/business/digital/megyn-kelly-launches-mk-media-podcast-network-1236171445/) (Tier 2) (VERIFIED)
 - [Variety: Megyn Kelly to Lead Her Own Sirius XM Channel in New Multi-Year Deal](https://variety.com/2025/tv/news/megyn-kelly-sirius-xm-channel-multi-year-deal-1236543962/) (Tier 2) (VERIFIED)
@@ -184,3 +183,9 @@ The Halperin partnership and Hicks hiring are not anomalies, they are the patter
 - [PBS Frontline: How Megyn Kelly Went from Fox News Star to Alt-Right Target](https://www.pbs.org/wgbh/frontline/article/cull-her-out-how-megyn-kelly-went-from-fox-news-star-to-alt-right-target/) (Tier 2) (VERIFIED)
 - [Wikipedia: Megyn Kelly](https://en.wikipedia.org/wiki/Megyn_Kelly) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Megyn Kelly hires Hope Hicks as she expands media company](https://thehill.com/homenews/media/5423816-megyn-kelly-media-company-coo/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

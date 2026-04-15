@@ -38,9 +38,14 @@ Murkowski's moderate Republican brand, she voted to convict Trump in his second 
 
 ### Sources
 
-- ~~[Congress.gov: Lisa Murkowski member profile](https://www.congress.gov/member/lisa-murkowski/M001153)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003391}} (Tier 1) (VERIFIED)
 - {{src:src_003391}} (Tier 1) (VERIFIED)
-- ~~[Bureau of Land Management: Willow Project environmental impact statement](https://web.archive.org/web/2023/https:/www.blm.gov/programs/planning-and-nepa/plans-in-development/alaska/willow-master-development-plan)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Lisa Murkowski](https://ballotpedia.org/Lisa_Murkowski) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Lisa Murkowski member profile](https://www.congress.gov/member/lisa-murkowski/M001153)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Bureau of Land Management: Willow Project environmental impact statement](https://web.archive.org/web/2023/https:/www.blm.gov/programs/planning-and-nepa/plans-in-development/alaska/willow-master-development-plan)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -200,11 +200,8 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 - [NBC News: The Adelson Primary Returns](https://www.nbcnews.com/politics/2024-election/miriam-adelson-primary-republicans-las-vegas-rcna169762) (Tier 2) (VERIFIED)
 - [Responsible Statecraft: Trump Book Cites Adelson's Embassy Funding](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
 - [The Intercept: Adelson Gets DOJ Gift Mid-Shutdown (Online Gambling)](https://theintercept.com/2019/02/08/sheldon-adelson-online-gambling/) (Tier 2) (VERIFIED)
-- ~~[Haaretz: Trump Desperate for Adelson Cash. Conditions Reported](https://www.haaretz.com/us-news/2024-06-03/ty-article/.premium/trump-is-desperate-for-cash-but-donors-have-conditions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Las Vegas Sun: Miriam Adelson's Swing-State Blitz](https://lasvegassun.com/news/2024/sep/24/las-vegas-miriam-adelsons-super-pac-fuels-swing-st/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Adelson Oligarchs Analysis](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-sheldon-and-miriam-adelson/) (Tier 2) (VERIFIED)
-- ~~[Times of Israel: Adelson's Unwavering Focus on Israel](https://www.timesofisrael.com/backed-by-deep-pockets-adelson-made-his-mark-with-an-unwavering-focus-on-israel/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -235,11 +232,6 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1) (VERIFIED)
@@ -261,5 +253,18 @@ The Adelson model's most dangerous innovation is its transparency. Most donor-to
 - Al Otro Lado, Inc. v. McAleenan (2017) — District Court, S.D. California
 - MAGERMAN v. MERCER (2017) — District Court, E.D. Pennsylvania
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sheldon%20%26%20Miriam%20Adelson%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Haaretz: Trump Desperate for Adelson Cash. Conditions Reported](https://www.haaretz.com/us-news/2024-06-03/ty-article/.premium/trump-is-desperate-for-cash-but-donors-have-conditions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Times of Israel: Adelson's Unwavering Focus on Israel](https://www.timesofisrael.com/backed-by-deep-pockets-adelson-made-his-mark-with-an-unwavering-focus-on-israel/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Adelson Widow Cuts Back Donations (2022)](https://thehill.com/homenews/campaign/3626124-sheldon-adelsons-widow-cuts-back-on-gop-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sheldon%20%26%20Miriam%20Adelson%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

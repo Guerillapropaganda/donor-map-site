@@ -134,7 +134,6 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 - [OpenSecrets: Nucor Corp PAC 2024 Cycle](https://www.opensecrets.org/political-action-committees-pacs/nucor-corp/C00379628/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: Nucor Corp Organization Profile](https://www.opensecrets.org/orgs/nucor-corp/summary?id=D000028057) (Tier 1) (VERIFIED)
 - [Nucor Investor Relations: Annual Reports](https://investors.nucor.com/financials/annual-reports/default.aspx) (Tier 1) (VERIFIED)
-- ~~[Motley Fool: Nucor Corporation Just Had Its Most Profitable Year](https://www.fool.com/investing/2019/01/29/nucor-corporation-just-had-its-most-profitable-yea.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNBC: Nucor CEO. Trump Tariffs Treating Countries How They Treat Us](https://www.cnbc.com/2018/03/05/nucor-ceo-trump-tariffs-are-treating-countries-how-they-treat-us.html) (Tier 2) (VERIFIED)
 - [CNBC: Nucor CEO. Tariffs Enabled Billion-Dollar New Plant](https://www.cnbc.com/2019/01/29/nucor-ceo-trump-tariffs-enabled-us-to-build-new-billion-dollar-plant.html) (Tier 2) (VERIFIED)
 - [OpenSecrets: Steel Producers Spend Big on Lobbying for Infrastructure](https://www.opensecrets.org/news/2021/11/steel-producers-eyeing-new-infrastructure-investment-spend-big-on-lobbying/) (Tier 2) (VERIFIED)
@@ -243,7 +242,6 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 - Kemper AIP Metals, LLC v. United States (2026) — United States Court of International Trade
 - Steel Dynamics, Inc. v. United States (2026) — United States Court of International Trade
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -267,3 +265,10 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Nucor%20Corporation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Motley Fool: Nucor Corporation Just Had Its Most Profitable Year](https://www.fool.com/investing/2019/01/29/nucor-corporation-just-had-its-most-profitable-yea.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Nucor%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

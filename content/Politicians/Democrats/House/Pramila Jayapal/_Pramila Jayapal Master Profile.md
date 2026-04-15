@@ -222,7 +222,6 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 
 - {{src:src_005955}} (Tier 1) (VERIFIED)
 - [Congress.gov: Pramila Jayapal member profile](https://www.congress.gov/member/pramila-jayapal/J000298) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005955}} (Tier 1) (VERIFIED)
 - [The Intercept: Jayapal Defends Breaking From Progressives' Two-Track Strategy on Build Back Better](https://theintercept.com/2021/12/20/build-back-better-manchin-democrats/) (Tier 2) (VERIFIED)
 - [Seattle Times: Jayapal takes on tech giants antitrust bill](https://www.seattletimes.com/seattle-news/politics/break-up-amazon-seattle-congresswoman-pramila-jayapal-sponsors-bill-taking-on-tech-giants/) (Tier 2) (VERIFIED)
@@ -292,5 +291,11 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 | 6646 | Empowering App-Based Workers Act | Referred to the House Committee on Education and Workforce. |
 | 6397 | Dignity for Detained Immigrants Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/J000298)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Medicare for All Act H.R. 3421 (118th)](https://www.congress.gov/bill/118th-congress/house-bill/3421)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/J000298)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

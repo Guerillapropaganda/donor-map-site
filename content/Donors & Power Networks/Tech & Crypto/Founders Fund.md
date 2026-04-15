@@ -137,8 +137,6 @@ Founders Fund does not have a corporate PAC. The political spending flows throug
 
 - [OpenSecrets: Peter Thiel 2022 outside spending detail](https://www.opensecrets.org/outside-spending/donor_detail/2022?id=U0000004022&name=Thiel,+Peter&super=N&type=I) (Tier 1) (VERIFIED)
 - [OpenSecrets: Peter Thiel dark money group bankrolling 2022 super PACs](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1) (VERIFIED)
-- ~~[The Hill: Thiel gives $10M to Vance super PAC](https://thehill.com/homenews/campaign/543242-billionaire-peter-thiel-gives-10-million-to-super-pac-backing-potential-jd/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Inc: Thiel $3M donation to fight California billionaire tax](https://www.inc.com/leila-sheridan/peter-thiel-makes-his-biggest-political-donation-in-years-to-fight-californias-billionaire-tax/91286966)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -299,7 +297,6 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 - Point Bridge Capital v. Johnson (2025) — Court of Appeals for the Fifth Circuit
 - Crusoe Energy Systems LLC v. Upstream Data Inc. (2025) — District Court, E.D. Texas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Founders%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -317,8 +314,6 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 **Filing history:** 2023, 2022
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2022)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863992946) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -343,3 +338,13 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Thiel gives $10M to Vance super PAC](https://thehill.com/homenews/campaign/543242-billionaire-peter-thiel-gives-10-million-to-super-pac-backing-potential-jd/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Inc: Thiel $3M donation to fight California billionaire tax](https://www.inc.com/leila-sheridan/peter-thiel-makes-his-biggest-political-donation-in-years-to-fight-californias-billionaire-tax/91286966)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Founders%20Fund%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863992946/2022)~~ (URL broken, archived by Ops)

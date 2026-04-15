@@ -204,7 +204,6 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 
 ### Cori Bush Primary 2024 (Tier 2):
 - [Democracy Now!: "Rep. Cori Bush Loses Primary After AIPAC Spent Over $9 Million"](https://www.democracynow.org/2024/8/7/headlines/rep_cori_bush_loses_primary_after_aipac_spent_over_9_million_to_defeat_her) (Tier 2) (VERIFIED)
-- ~~[Axios: '"Squad" Rep. Cori Bush loses to Wesley Bell after $9 million barrage from AIPAC'](https://www.axios.com/2024/08/07/cori-bush-primary-results-loss-wesley-bell)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Intercept: "AIPAC Millions Help Wesley Bell Beat Cori Bush"](https://theintercept.com/2024/08/06/aipac-cori-bush-election-results-wesley-bell/) (Tier 2) (VERIFIED)
 
 ### Ritchie Torres Donor Profile (Tier 2):
@@ -228,7 +227,6 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 - [Times of Israel: "US House overwhelmingly advances Iron Dome funding"](https://www.timesofisrael.com/us-house-overwhelmingly-advances-iron-dome-funding-initially-scotched-by-squad/) (Tier 2) (VERIFIED)
 
 ### Anti-BDS Legislation Votes (Tier 2):
-- ~~[The Hill: "House passes bill opposing BDS, exposing divide among Democrats"](https://thehill.com/homenews/house/454399-house-passes-bill-opposing-bds-exposing-democratic-divides/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Anti-BDS laws overview and voting records](https://en.wikipedia.org/wiki/Anti-BDS_laws) (Tier 3) (VERIFIED)
 - [Common Dreams: "25 Democrats Join GOP to Advance Anti-Boycott Bill"](https://www.commondreams.org/news/2019/01/29/25-democrats-join-gop-advance-anti-boycott-bill-bernie-sanders-warns-violates) (Tier 2) (VERIFIED)
 
@@ -243,3 +241,10 @@ The Democratic base disagrees with Israel policy at significantly higher rates t
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: '"Squad" Rep. Cori Bush loses to Wesley Bell after $9 million barrage from AIPAC'](https://www.axios.com/2024/08/07/cori-bush-primary-results-loss-wesley-bell)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: "House passes bill opposing BDS, exposing divide among Democrats"](https://thehill.com/homenews/house/454399-house-passes-bill-opposing-bds-exposing-democratic-divides/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
