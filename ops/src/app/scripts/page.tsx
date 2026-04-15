@@ -479,6 +479,17 @@ const SCRIPTS: ScriptEntry[] = [
     category: "health-check",
   },
   {
+    name: "Bug Queue Parser",
+    command: "node scripts/bug-queue-parser.cjs --write",
+    purpose: "Regenerate /bugs dashboard manifest after editing bug-queue.md or deferred-items.md.",
+    plainEnglish:
+      "Parses content/Admin Notes/bug-queue.md (bugs David hits using Ops) and content/Phases/phase-6/deferred-items.md (267 items from the Phase 6 audit) into a unified manifest at ops/src/data/bugs-manifest.json. The /bugs Ops dashboard reads this manifest to render its cards, stats, and filter controls. Re-run this script any time you edit either source file (e.g. resolve a bug, triage a deferred item). Safe, read-only — doesn't touch the source files.",
+    output: "ops/src/data/bugs-manifest.json",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
     name: "Ops Surface Audit",
     command: "node scripts/ops-surface-audit.cjs --write",
     purpose: "Regenerate /system-health manifest after adding pages or APIs.",
