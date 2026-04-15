@@ -5,6 +5,7 @@ note-type: data
 priority: normal
 status: open
 last-updated: '2026-04-15'
+progress: "3 of 6 groups drained (GEO Group, Raytheon, Meta). Remaining: Blackstone Real Estate (may be intentional parent/subsidiary split), Fox Corp - Rupert Murdoch (needs new profile), EMILY's List (needs new profile)."
 ---
 
 # Profile Dedup Queue
@@ -30,20 +31,19 @@ Each group lists the suggested canonical file (marked ✓) and the duplicates to
 - `content/Donors & Power Networks/Real Estate/Blackstone Real Estate.md` — separate entity? (Blackstone Real Estate is a subsidiary, may warrant its own profile)
 - `content/Donors & Power Networks/Real Estate/Blackstone Real Estate Political Operation.md` — also separate entity vs dupe — needs review
 
-### Raytheon (partially handled 2026-04-15)
+### Raytheon (DONE 2026-04-15)
 
-- ✓ `content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md` (603 lines — canonical, `title: Raytheon (RTX Corporation)`)
-- **[handled]** `content/Donors & Power Networks/Mega-Donors/Raytheon.md` → marked as redirect
-- `content/Donors & Power Networks/Mega-Donors/Raytheon Technologies.md` (136 lines, has real enrichment data) — MERGE needed: copy `federal-register-mentions`, `regulatory-agencies`, `last-enriched` into canonical, then convert to redirect
+- ✓ `content/Donors & Power Networks/Defense & Intelligence/Raytheon (RTX).md` (canonical, `title: Raytheon (RTX Corporation)`, already had aliases including `Raytheon Technologies`)
+- **[handled]** `content/Donors & Power Networks/Mega-Donors/Raytheon.md` → redirect
+- **[handled]** `content/Donors & Power Networks/Mega-Donors/Raytheon Technologies.md` → redirect. Federal Register enrichment data (28 mentions, regulatory-agencies list, recent activity table) copied into canonical body + frontmatter. Em dashes replaced with periods to keep voice-drift sentinel clean.
+- Entity store: removed orphan `ent_000201` (0 edges)
 
-### Meta / Facebook
+### Meta / Facebook (DONE 2026-04-15)
 
-- Candidates:
-  - `content/Donors & Power Networks/Mega-Donors/Meta.md`
-  - `content/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md`
-  - `content/Donors & Power Networks/Tech & Crypto/Meta - Facebook Political Operation.md`
-- Needs review: which is canonical, whether "Meta - Facebook Political Operation" is a separate entity
-- 4 dangling `[[Meta]]` wikilinks waiting on resolution
+- ✓ `content/Donors & Power Networks/Tech & Crypto/Meta - Facebook.md` — canonical, already had aliases `Meta`, `Facebook`, `Meta - Facebook Political Operation`
+- **[handled]** `content/Donors & Power Networks/Mega-Donors/Meta.md` → redirect (cleaned stub body)
+- **[handled]** `content/Donors & Power Networks/Tech & Crypto/Meta - Facebook Political Operation.md` → redirect (cleaned stub body)
+- Entity store had no orphans (only `ent_000060` for the canonical)
 
 ### Pfizer / PhRMA
 
@@ -52,13 +52,12 @@ Each group lists the suggested canonical file (marked ✓) and the duplicates to
 - Not dupes — but `[[Pfizer]]` and `[[PhRMA]]` wikilinks need filename aliases to resolve (fixed 2026-04-15 via `buildTitleIndex` patch)
 - 35 dangling `[[PhRMA]]` and 13 `[[Pfizer]]` wikilinks should now resolve after the filename-alias fix
 
-### GEO Group
+### GEO Group (DONE 2026-04-15)
 
-- Candidates:
-  - `content/Donors & Power Networks/Carceral State/GEO Group.md`
-  - `content/Donors & Power Networks/Dark Money/GEO Group - Private Prisons.md`
-- Needs review: are these the same entity at different framing angles, or dupes?
-- 16 dangling `[[GEO Group]]` wikilinks
+- ✓ `content/Donors & Power Networks/Carceral State/GEO Group.md` (title: "GEO Group - Private Prison Industrial Complex") — canonical, added aliases `GEO Group`, `GEO Group - Private Prisons`, `GEO Group Inc`
+- **[handled]** `content/Donors & Power Networks/Dark Money/GEO Group - Private Prisons.md` → redirect stub (stripped wrong-EIN 474543845 nonprofit-990 data, a $144K 501(c)(3) false match)
+- Entity store: removed orphan `ent_000398` (0 edges)
+- Class-tag proposals: removed stale `dark-money-vehicle` proposal for ent_000398
 
 ### Fox Corp - Rupert Murdoch (8 dangling wikilinks)
 
