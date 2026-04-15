@@ -1678,6 +1678,8 @@ Full form-specific fields use IRS "element names" from the IRS Annual Extract do
 
 **Known gap:** Many 501(c)(4) dark money vehicles don't file detailed 990s by design. Profiles showing "0 filings on record" for a real 501c4 are not contaminated data — that's a legitimate data gap.
 
+**EIN-first lookup shipped 2026-04-15:** `nonprofit-990-pipeline.cjs` now reads `profile.yaml.ein` before falling back to name search. 262 vault profiles have `ein` fields and will get exact lookups. Profiles without an EIN still use the fuzzy name search with the tightened `bestMatch()` logic above. Fix commit: `6e40251` in `donor-map-engine`. This eliminates the fuzzy match drift class for known-EIN profiles entirely.
+
 ## SEC EDGAR
 **Last verified:** 2026-04-10
 
