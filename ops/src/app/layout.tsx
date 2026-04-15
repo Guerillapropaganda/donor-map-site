@@ -10,6 +10,15 @@ export const metadata: Metadata = {
   description: "The Donor Map Operations Center",
 }
 
+// Force every page and API route to render dynamically at request time.
+// The Ops app reads live JSONL data on every request — static
+// prerendering is never correct for it, and trying to prerender forces
+// useSearchParams() / cookies() / headers() callers into awkward
+// Suspense boundary workarounds (see the 2026-04-15 /editor prerender
+// failure). This one line makes all of ops/ a live-data app, which
+// is what it actually is.
+export const dynamic = "force-dynamic"
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   // ClerkProvider wraps the entire app so any server component / client
   // component can read the Clerk session. It's a no-op visually — no
