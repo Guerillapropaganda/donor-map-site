@@ -1,24 +1,21 @@
 ---
-title: "Brett Kavanaugh"
+title: Brett Kavanaugh
 type: politician
 content-readiness: draft
 central-thesis: "Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave content-readiness: draft7.1 million to JCN specifically for Supreme Court battles. Leonard Leo , who had spent two decades building..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-chamber: "SCOTUS"
+chamber: SCOTUS
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Environment"
-top-donors:
-  - "Leonard Leo"
-  - "Fossil Fuel Bloc"
-  - "Judicial Crisis Network"
+  - Dark Money & Campaign Finance
+  - Environment
+top-donors: "[[Judicial Crisis Network]], [[Leonard Leo]], [[Fossil Fuel Bloc]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Amy Coney Barrett Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]] · [[The McCain-to-Trump Transformation and Donor Base Shift]]"
 ---

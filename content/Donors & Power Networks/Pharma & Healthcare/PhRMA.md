@@ -2,21 +2,18 @@
 title: PhRMA - Pharmaceutical Research and Manufacturers of America
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
 sector: Pharma & Healthcare
 entity-type: Corporation
-politicians-funded:
-  - Richard Neal
-  - Brett Guthrie
-  - Billy Tauzin
+politicians-funded: "[[Brett Guthrie]], [[Richard Neal]]"
 issues:
   - Healthcare
   - Dark Money & Campaign Finance
-ein: '530241211'
+ein: "530241211"
 nonprofit-status: 501(c)(6)
-last-enriched: '2026-04-07'
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 total-revenue: 524889625
@@ -28,11 +25,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: ">- · [[Healthcare - Donors and Backers]] · [[Richard Neal]]"
 cross-vault-triangulation-count: 16
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  LDA data is missing entirely. This profile was promoted to ready without ever
-  having lda enrichment run on it. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 58
 sec-form-types:
   - 10-K

@@ -1,49 +1,49 @@
 ---
-title: "Merck"
+title: Merck
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Pharma & Healthcare"
-entity-type: "Corporation"
+sector: Pharma & Healthcare
+entity-type: Corporation
 issues:
-  - "Healthcare"
+  - Healthcare
 federal-awards-total: 2223209028
 federal-contracts-count: 25
 federal-grants-count: 1
-lei: "96760004Q9TBK1DS6T62"
-lei-jurisdiction: "BE"
-lei-parent: "E. Merck KG"
+lei: 96760004Q9TBK1DS6T62
+lei-jurisdiction: BE
+lei-parent: E. Merck KG
 ein: "226028476"
-annual-revenue: "$17.3M"
-net-assets: "$316.2M"
+annual-revenue: $17.3M
+net-assets: $316.2M
 tax-year: "2023"
 subawards-issued: 1
 subawards-issued-amount: 308700
 subawards-received: 1
 subawards-received-amount: 308700
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "325412"
 related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[Palantir Technologies Political Operation]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 45354708
 total-assets: 328259324
 cpsc-recalls: 1
 federal-register-mentions: 673
 regulatory-agencies:
-  - "Centers for Medicare & Medicaid Services"
-  - "Commerce Department"
-  - "Equal Employment Opportunity Commission"
-  - "Federal Communications Commission"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "Foreign-Trade Zones Board"
-  - "Health and Human Services Department"
-  - "Veterans Affairs Department"
+  - Centers for Medicare & Medicaid Services
+  - Commerce Department
+  - Equal Employment Opportunity Commission
+  - Federal Communications Commission
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - Foreign-Trade Zones Board
+  - Health and Human Services Department
+  - Veterans Affairs Department
 ftc-enforcement-actions: 3
 ftc-hsr-notices: 38
 fda-recalls: 12
@@ -51,9 +51,8 @@ fda-recalls-class-i: 1
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Cory Booker]]"
 ---
 
 <!-- auto:data-panel start -->

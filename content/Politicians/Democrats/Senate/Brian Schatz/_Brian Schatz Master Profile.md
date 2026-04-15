@@ -1,48 +1,46 @@
 ---
-title: "Brian Schatz"
+title: Brian Schatz
 type: politician
 content-readiness: ready
-central-thesis: "Schatz is the Democratic Party's next power broker , Schumer's chosen successor , building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction ..."
-last-updated: 2026-04-15
+central-thesis: Schatz is the Democratic Party's next power broker , Schumer's chosen successor , building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Hawaii"
-state-abbr: "HI"
+party: Democrat
+chamber: Senate
+state: Hawaii
+state-abbr: HI
 committees:
-  - "Appropriations"
-top-donors:
-  - "Private Equity Industry"
-  - "Real Estate Industry"
-total-received: "$1,513,132"
-fec-candidate-id: "S4HI00136"
+  - Appropriations
+top-donors: "[[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]]"
+total-received: $1,513,132
+fec-candidate-id: S4HI00136
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 govtrack-id: 412507
 bills-sponsored: 41
 bills-cosponsored: 249
-website: "https://www.schatz.senate.gov"
-phone: "202-224-3934"
+website: https://www.schatz.senate.gov
+phone: 202-224-3934
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Gary Peters]]"
 last-enriched: "2026-04-10"
-bioguide-id: "S001194"
+bioguide-id: S001194
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Government Operations and Politics"
-  - "International Affairs"
-  - "Native Americans"
-  - "Science, Technology, Communications"
-  - "Taxation"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Congress
+  - Government Operations and Politics
+  - International Affairs
+  - Native Americans
+  - Science, Technology, Communications
+  - Taxation
 ---
 
 <!-- auto:data-panel start -->

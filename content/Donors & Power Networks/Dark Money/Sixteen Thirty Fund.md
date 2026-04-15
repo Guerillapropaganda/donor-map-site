@@ -1,36 +1,35 @@
 ---
-title: "Sixteen Thirty Fund"
+title: Sixteen Thirty Fund
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "DOGE - The Billionaires Government"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[DOGE - The Billionaires Government]], [[David Pakman]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 18
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Federal Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Kansas"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Florida"
-  - "District Court, S.D. Ohio"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Federal Circuit
+  - Court of Appeals for the Sixth Circuit
+  - District Court, D. Kansas
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, M.D. Florida
+  - District Court, S.D. Ohio
 ein: "264486735"
-annual-revenue: "$181.4M"
-net-assets: "$139.9M"
+annual-revenue: $181.4M
+net-assets: $139.9M
 tax-year: "2023"
 related: "[[New Venture Fund]] · [[Foreign Money in State Ballot Initiatives]] · [[David Pakman]] · [[Center for American Progress]] · [[Arabella Advisors]] · [[Demand Justice]] · [[Open Society Foundations]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Party Infrastructure]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[DOGE - The Billionaires Government]] · [[The Both-Sides Dark Money Illusion]]"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 284289469
 total-assets: 106501029
-total-political-spend: "$101,443,846"
+total-political-spend: $101,443,846
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 ---

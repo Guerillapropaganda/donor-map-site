@@ -1,45 +1,44 @@
 ---
-title: "Matt Gaetz"
+title: Matt Gaetz
 type: politician
 content-readiness: ready
-central-thesis: "Gaetz is the donor class's chaos agent , his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono..."
-last-updated: 2026-04-15
+central-thesis: Gaetz is the donor class's chaos agent , his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "1"
-top-donors:
-  - "MAGA Small Dollar Base"
-total-received: "$6,772,979"
-fec-candidate-id: "H6FL01119"
-bioguide-id: "G000578"
+top-donors: "[[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]]"
+total-received: $6,772,979
+fec-candidate-id: H6FL01119
+bioguide-id: G000578
 source-types:
   - FEC
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): G000578. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]] · [[Marjorie Taylor Greene]] · [[From QAnon to DOGE - The Mainstreaming Pipeline]]"
 last-enriched: "2026-04-11"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000578. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: G000578. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 issues:
-  - "Animals"
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
+  - Animals
+  - Armed Forces and National Security
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Immigration
 ---
 
 <!-- auto:data-panel start -->

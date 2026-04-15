@@ -1,98 +1,76 @@
 ---
-title: "Western Growers Association"
+title: Western Growers Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "John Hoeven"
-  - "Gina McCarthy"
-  - "Kevin McCarthy"
-  - "Henry Cuellar"
-  - "Jonathan L. Jackson"
-  - "Lisa Jackson"
-  - "Ronny Jackson"
-  - "Ketanji Brown Jackson"
-  - "Brad Finstad"
-  - "Nathaniel Moran"
-  - "Jerry Moran"
-  - "Roger Marshall"
-  - "August Pfluger"
-  - "Tom Emmer"
-  - "Tracey Mann"
-  - "Henry C. Hank Johnson"
-  - "Julie Johnson"
-  - "Jeh Johnson"
-  - "Dusty Johnson"
-  - "Mike Johnson"
+sector: Agriculture
+entity-type: Individual Donor
+politicians-funded: "[[Jerry Moran]], [[Gina McCarthy]], [[Mike Johnson]], [[Tracey Mann]], [[Julie Johnson]], [[Lisa Jackson]], [[Jeh Johnson]], [[Dusty Johnson]], [[Henry Cuellar]], [[Kevin McCarthy]], [[Brad Finstad]], [[Tom Emmer]], [[August Pfluger]], [[Nathaniel Moran]], [[Ron Johnson]], [[John Hoeven]], [[Henry C. Hank Johnson]], [[Roger Marshall]], [[Ketanji Brown Jackson]], [[Jonathan L. Jackson]], [[Ronny Jackson]]"
 issues:
-  - "Immigration"
+  - Immigration
 ein: "751972150"
-annual-revenue: "$236K"
-net-assets: "$849K"
+annual-revenue: $236K
+net-assets: $849K
 tax-year: "2023"
-total-political-spend: "$481,034"
+total-political-spend: $481,034
 court-cases: 44
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, E.D. California"
-  - "District Court, S.D. California"
-  - "District Court, W.D. New York"
-nonprofit-status: "501(c)(6)"
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, E.D. California
+  - District Court, S.D. California
+  - District Court, W.D. New York
+nonprofit-status: 501(c)(6)
 total-revenue: 265773
 total-assets: 703358
 sec-filings: 61
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10KSB"
-  - "20-F"
-  - "20-F/A"
-  - "424B4"
-  - "485BPOS"
-  - "8-K"
-  - "DEF 14A"
-  - "DRS"
-  - "DRS/A"
-  - "EX-10.5"
-  - "EX-99.1"
-  - "F-1"
-  - "F-1/A"
-  - "F-4"
-  - "F-4/A"
-  - "PRE 14A"
-  - "S-1"
-  - "S-1/A"
-  - "SB-2"
-  - "SB-2/A"
+  - 10-K
+  - 10-K/A
+  - 10KSB
+  - 20-F
+  - 20-F/A
+  - 424B4
+  - 485BPOS
+  - 8-K
+  - DEF 14A
+  - DRS
+  - DRS/A
+  - EX-10.5
+  - EX-99.1
+  - F-1
+  - F-1/A
+  - F-4
+  - F-4/A
+  - PRE 14A
+  - S-1
+  - S-1/A
+  - SB-2
+  - SB-2/A
 federal-register-mentions: 22
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Environmental Protection Agency"
-  - "Fish and Wildlife Service"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Homeland Security Department"
-  - "Interior Department"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Environmental Protection Agency
+  - Fish and Wildlife Service
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Homeland Security Department
+  - Interior Department
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
 related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[California Farm Bureau Federation]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]]"
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q19321870"
-wikipedia-url: "https://en.wikipedia.org/wiki/Western_Growers_Association"
-wikipedia-extract: "The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: Q19321870
+wikipedia-url: https://en.wikipedia.org/wiki/Western_Growers_Association
+wikipedia-extract: The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico.
 ---
 
 <!-- auto:data-panel start -->

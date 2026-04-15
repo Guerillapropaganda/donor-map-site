@@ -2,7 +2,7 @@
 title: League of Conservation Voters
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Super PACs
@@ -12,7 +12,7 @@ issues:
   - Energy & Climate
   - Dark Money & Campaign Finance
 court-cases: 189
-last-enriched: '2026-04-07'
+last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
@@ -20,19 +20,19 @@ court-jurisdictions:
   - Court of Appeals for the First Circuit
   - Court of Appeals for the Second Circuit
   - Court of Appeals for the Third Circuit
-  - 'District Court, C.D. California'
-  - 'District Court, D. Alaska'
-  - 'District Court, D. Massachusetts'
-  - 'District Court, D. New Jersey'
-  - 'District Court, S.D. New York'
-  - 'District Court, W.D. Washington'
+  - District Court, C.D. California
+  - District Court, D. Alaska
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, S.D. New York
+  - District Court, W.D. Washington
 ein: 521733698
 nonprofit-status: 501(c)(4)
 total-revenue: 162237362
 total-assets: 37128315
 annual-revenue: $67.5M
 net-assets: $22.6M
-tax-year: '2023'
+tax-year: "2023"
 federal-register-mentions: 11
 regulatory-agencies:
   - Energy Department
@@ -76,14 +76,11 @@ corroboration-count: 4
 known-gaps:
   - No FEC contribution data
 cross-vault-triangulation-count: 5
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  FEC data is missing entirely. This profile was promoted to ready without ever
-  having fec enrichment run on it. The needs-reenrichment flag has been set. The
-  next scheduled pipeline run will pick it up automatically.
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
-  - "LEAGUE OF CONSERVATION VOTERS ACTION FUND"
-  - "LCV VICTORY FUND"
+  - LEAGUE OF CONSERVATION VOTERS ACTION FUND
+  - LCV VICTORY FUND
+politicians-funded: "[[Jim Himes]], [[Ed Markey]], [[Jeff Merkley]], [[John Thune]], [[Brian Schatz]]"
 ---
 
 <!-- auto:data-panel start -->

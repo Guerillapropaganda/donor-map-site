@@ -24,7 +24,7 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]]"
-top-donors: "[[Standing With Conservatives]]"
+top-donors: "[[Standing With Conservatives]], [[NATIONAL VICTORY ACTION FUND]]"
 ---
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis
 tags: #republican

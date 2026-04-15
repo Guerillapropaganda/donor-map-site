@@ -1,56 +1,54 @@
 ---
-title: "Media Matters"
+title: Media Matters
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
+sector: Dark Money
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Infrastructure"
+  - Dark Money & Campaign Finance
+  - Infrastructure
 ein: "453568592"
-annual-revenue: "$2K"
-net-assets: "$1K"
+annual-revenue: $2K
+net-assets: $1K
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 total-revenue: 5705
 total-assets: 261528
 federal-register-mentions: 4
 regulatory-agencies:
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
+  - Food and Drug Administration
+  - Health and Human Services Department
 court-cases: 511
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. Iowa"
-  - "District Court, W.D. Texas"
-lei: "2330006W7D3HYA5G4N42"
-lei-jurisdiction: "HU"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, District of Columbia
+  - District Court, M.D. Tennessee
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, N.D. Ohio
+  - District Court, S.D. Iowa
+  - District Court, W.D. Texas
+lei: 2330006W7D3HYA5G4N42
+lei-jurisdiction: HU
 source-types:
   - Courts
   - FederalRegister
 corroboration-count: 2
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 lobbying-spend: 9397596
 lobbying-filings: 95
 related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]]"
-total-political-spend: "$3,998,524"
-politicians-funded:
-  - "Bill Clinton"
-  - "Hillary Clinton"
+total-political-spend: $3,998,524
+politicians-funded: "[[Bill Clinton]], [[Hillary Clinton]]"
 ---
 
 <!-- auto:data-panel start -->

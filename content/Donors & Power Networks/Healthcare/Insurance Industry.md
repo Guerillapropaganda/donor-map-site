@@ -1,44 +1,35 @@
 ---
-title: "Insurance Industry"
+title: Insurance Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Individual Donor"
+sector: Healthcare
+entity-type: Individual Donor
 ein: 201240972
-annual-revenue: "$6.4M"
-net-assets: "$4.3M"
+annual-revenue: $6.4M
+net-assets: $4.3M
 tax-year: "2023"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
 ofac-programs:
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - UKRAINE-EO13662] [RUSSIA-EO14024
 federal-contracts: "10817"
-total-political-spend: "$156,500"
-politicians-funded:
-  - "Thom Tillis"
-  - "Deb Fischer"
-  - "Wes Moore"
-  - "Joe Manchin"
-  - "Tammy Baldwin"
-  - "Mark Warner"
-  - "Gary Peters"
-  - "Bryan Steil"
-  - "John Cornyn"
+total-political-spend: $156,500
+politicians-funded: "[[John Thune]], [[Barack Obama]], [[Gary Peters]], [[Tammy Baldwin]], [[John Cornyn]], [[Thom Tillis]], [[Joe Manchin]], [[Wes Moore]], [[Mark Warner]], [[Bryan Steil]], [[Deb Fischer]]"
 federal-register-mentions: 849
 regulatory-agencies:
-  - "Centers for Medicare & Medicaid Services"
-  - "Federal Emergency Management Agency"
-  - "Federal Reserve System"
-  - "Federal Trade Commission"
-  - "Financial Crimes Enforcement Network"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Homeland Security Department"
-  - "Housing and Urban Development Department"
-  - "Internal Revenue Service"
+  - Centers for Medicare & Medicaid Services
+  - Federal Emergency Management Agency
+  - Federal Reserve System
+  - Federal Trade Commission
+  - Financial Crimes Enforcement Network
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Homeland Security Department
+  - Housing and Urban Development Department
+  - Internal Revenue Service
 related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Pharmaceutical Industry]] · [[Thom Tillis]]"
 lobbying-spend: 25607025
 lobbying-filings: 107

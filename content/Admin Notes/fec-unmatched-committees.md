@@ -9,7 +9,7 @@ authority: Pillar 2b migration
 
 # FEC Unmatched Committees
 
-Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **215** unique committees / **289** rows.
+Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **187** unique committees / **243** rows.
 
 **Fix**: add an `aliases:` entry to the parent profile's frontmatter (the `buildTitleIndex` walker reads it), or create a stub profile for the committee. Re-run `migrate-fec-body-tables-to-edges.cjs --write` to pick up the new mapping.
 
@@ -17,45 +17,15 @@ Sorted by total dollar volume (support + oppose).
 
 | Committee | Count | Support $ | Oppose $ | Example politicians |
 |-----------|-------|-----------|----------|---------------------|
-| 314 ACTION FUND | 2 | $0 | $5,775,346 | Nancy Mace, Lee Zeldin |
-| MAJORITY PAC | 1 | $0 | $5,478,958 | Linda McMahon |
-| SOUTH CAROLINA PATRIOTS PAC | 1 | $0 | $4,988,211 | Nancy Mace |
-| 1820 PAC | 1 | $4,805,828 | $0 | Susan Collins |
-| TEXAS FOREVER | 1 | $0 | $4,600,814 | Ted Cruz |
-| WORKING FAMILIES PARTY PAC | 6 | $2,488,740 | $1,741,195 | Cori Bush, Cori Bush, George Latimer |
-| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | 3 | $1,730,000 | $2,301,252 | Matt Gaetz, Kay Granger, Mike Lee |
-| NOW OR NEVER PAC | 2 | $0 | $3,992,413 | Tammy Duckworth, James Lankford |
-| FUTURE45 | 3 | $0 | $3,825,473 | Maxine Waters, Nancy Pelosi, Elizabeth Warren |
-| NATIONAL VICTORY ACTION FUND | 3 | $3,515,000 | $0 | Bill Hagerty, John Barrasso, Elise Stefanik |
 | UNITED DEMOCRACY PROJECT (UDP) | 2 | $223,200 | $3,205,379 | Shontel Brown, Summer Lee |
-| AMERICAN DREAM FEDERAL ACTION | 1 | $3,310,471 | $0 | Katie Britt |
-| LIBERTY CHAMPIONS | 1 | $3,213,782 | $0 | Mike Lee |
-| END THE GRIDLOCK | 1 | $0 | $3,197,722 | Deb Fischer |
-| AMERICANS FOR COMMON SENSE (AFCS) | 1 | $0 | $3,160,436 | Lee Zeldin |
-| SAVE OUR COUNTRY | 1 | $3,100,000 | $0 | Ted Cruz |
-| PROTECT OUR FUTURE PAC | 1 | $3,031,156 | $0 | Shontel Brown |
-| TEXAS FORWARD | 1 | $0 | $2,373,536 | Henry Cuellar |
-| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | 3 | $2,132,995 | $106,057 | Raja Krishnamoorthi, Joe Biden, John Boehner |
-| FREEDOM PARTNERS ACTION FUND INC | 1 | $0 | $2,028,031 | Jeff Merkley |
 | CONSERVATIVE OUTSIDER PAC | 1 | $0 | $1,936,000 | Bill Hagerty |
-| UNITED WE WIN SUPER PAC | 1 | $1,873,487 | $0 | Cory Booker |
 | WFP NATIONAL PAC | 1 | $1,872,561 | $0 | Summer Lee |
 | ENDING SPENDING FUND | 1 | $0 | $1,724,864 | Harry Reid |
-| AMERICA 360 COMMITTEE | 1 | $0 | $1,693,306 | Elizabeth Warren |
-| INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC | 1 | $0 | $1,656,880 | Jeanne Shaheen |
-| COUNCIL FOR AMERICAN JOB GROWTH | 1 | $1,401,341 | $0 | Jeanne Shaheen |
-| BUILDING A BETTER PA | 2 | $1,392,138 | $0 | Brendan Boyle, Brendan Boyle |
-| LIVING UNITED FOR CHANGE IN ARIZONA | 1 | $1,214,021 | $135,590 | Joe Biden |
-| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | 2 | $1,293,926 | $0 | Ilhan Omar, Ilhan Omar |
-| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | 2 | $9,090 | $1,210,936 | Maxine Waters, Nancy Pelosi |
-| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | 1 | $0 | $1,098,954 | Ken Calvert |
-| THE MOBILIZATION PROJECT | 1 | $1,064,894 | $0 | Cory Booker |
-| THE DEMOCRATIC ACTION PAC | 2 | $465,000 | $545,000 | Nina Turner, Shontel Brown |
+| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | 2 | $1,378,458 | $0 | Tim Walz, Jeff Merkley |
 | AMERICAN HOSPITAL ASSOCIATION PAC | 3 | $957,290 | $0 | Richard Neal, Rosa DeLauro, Cathy McMorris Rodgers |
 | REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | 1 | $0 | $930,000 | Martin Heinrich |
 | SLF PAC | 1 | $911,323 | $0 | Michael Whatley |
 | FIRST AMENDMENT ALLIANCE | 2 | $0 | $902,690 | Chris Coons, Harry Reid |
-| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | 1 | $861,651 | $0 | Jeff Merkley |
 | COMMONWEALTH UNITY FUND | 1 | $0 | $785,000 | Elizabeth Warren |
 | NO LABELS ACTION, INC. | 1 | $773,284 | $0 | Josh Gottheimer |
 | OKLAHOMANS FOR A CONSERVATIVE FUTURE INC | 1 | $0 | $766,330 | James Lankford |
@@ -115,6 +85,7 @@ Sorted by total dollar volume (support + oppose).
 | FLORIDA CONSERVATIVE FUND | 1 | $121,542 | $0 | Matt Gaetz |
 | DRAIN THE DC SWAMP PAC | 2 | $73,333 | $48,200 | Pete Buttigieg, Marjorie Taylor Greene |
 | FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | 2 | $0 | $109,000 | Frank Pallone, Frank Pallone |
+| BLUEGREEN ALLIANCE | 1 | $108,805 | $0 | Tim Walz |
 | POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | 2 | $103,800 | $0 | Brett Guthrie, John Barrasso |
 | NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | 1 | $102,121 | $0 | Richard Blumenthal |
 | POLICE OFFICERS DEFENSE ALLIANCE LLC | 1 | $0 | $100,000 | Nancy Pelosi |
@@ -131,6 +102,7 @@ Sorted by total dollar volume (support + oppose).
 | PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND | 1 | $70,488 | $0 | Amy Klobuchar |
 | AMERICAN CONSERVATIVE UNION | 1 | $68,465 | $0 | Bruce Westerman |
 | INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION | 2 | $68,350 | $0 | Brendan Boyle, Brendan Boyle |
+| FREEDOM CLUB FEDERAL PAC | 1 | $0 | $66,000 | Tim Walz |
 | OPPORTUNITY FOR ALL ACTION FUND | 1 | $64,370 | $0 | Joseph Morelle |
 | TRINITY PAC | 1 | $0 | $64,118 | Jim Himes |
 | LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | 1 | $62,562 | $0 | Maxine Waters |

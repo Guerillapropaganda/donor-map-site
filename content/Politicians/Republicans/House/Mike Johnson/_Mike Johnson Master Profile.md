@@ -1,30 +1,30 @@
 ---
-title: "Mike Johnson"
+title: Mike Johnson
 type: politician
 content-readiness: ready
-central-thesis: "Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor..."
-last-updated: 2026-04-15
+central-thesis: Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Louisiana"
-state-abbr: "LA"
+party: Republican
+chamber: House
+state: Louisiana
+state-abbr: LA
 district: "4"
 leadership-roles:
-  - "Speaker"
+  - Speaker
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 top-donors:
-  - "AIPAC - American Israel Public Affairs Committee"
-  - "Peter Thiel"
-  - "Fossil Fuel Bloc"
-bioguide-id: "J000299"
+  - AIPAC - American Israel Public Affairs Committee
+  - Peter Thiel
+  - Fossil Fuel Bloc
+bioguide-id: J000299
 govtrack-id: 412706
 bills-sponsored: 6
 bills-cosponsored: 3
-website: "https://mikejohnson.house.gov"
-phone: "202-225-2777"
+website: https://mikejohnson.house.gov
+phone: 202-225-2777
 last-enriched: "2026-04-07"
 source-types:
   - Congress
@@ -32,10 +32,10 @@ source-types:
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Chip Roy Master Profile]]"
-donors: "[[National Restaurant Association]] · [[Patrick Soon-Shiong]]"
+donors: "[[National Restaurant Association]] · [[Patrick Soon-Shiong]] · [[Western Growers Association]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[American Iron and Steel Institute]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Peter Thiel]] · [[Raytheon (RTX Corporation)]]"
 ---
 
 <!-- auto:data-panel start -->

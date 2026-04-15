@@ -2,8 +2,8 @@
 title: Vivek Ramaswamy
 type: politician
 content-readiness: draft
-central-thesis: "Vivek Ramaswamy's political brand , anti-regulation, anti-DEI, anti-'woke capitalism' , is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan..."
-last-updated: 2026-04-15
+central-thesis: Vivek Ramaswamy's political brand , anti-regulation, anti-DEI, anti-'woke capitalism' , is funded by and serves the same billionaire class it claims to challenge. His $2.4 billion fortune was built through Roivant Sciences, a pharmaceutical compan...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -17,11 +17,8 @@ issues:
   - Tax Policy
   - Government Reform
   - Anti-ESG
-top-donors:
-  - Jeffrey Yass
-  - Ross Stevens
-  - Peter Thiel
-total-received: '$66,197,196'
+top-donors: "[[Jeffrey Yass]], [[Peter Thiel]], [[Ross Stevens]]"
+total-received: $66,197,196
 fec-candidate-id: P40011082
 source-types:
   - FEC
@@ -35,10 +32,8 @@ checklist-na:
   - "committee-assignments: Never held elected office (candidate)"
 related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Amy Acton]]"
 needs-reenrichment: true
-reenrich-reason: "re-run fec pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run fec pipeline
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

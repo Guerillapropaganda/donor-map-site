@@ -1,41 +1,40 @@
 ---
-title: "Koch Industries"
+title: Koch Industries
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 issues:
-  - "Energy & Climate"
-  - "Dark Money & Campaign Finance"
-  - "Environment"
-  - "Labor & Workers"
+  - Energy & Climate
+  - Dark Money & Campaign Finance
+  - Environment
+  - Labor & Workers
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Health and Human Services"
+top-federal-agency: Department of Health and Human Services
 top-naics-code: "541519"
 ein: "480834445"
-annual-revenue: "$375K"
-net-assets: "$1.9M"
+annual-revenue: $375K
+net-assets: $1.9M
 tax-year: "2023"
 federal-awards-total: 0
 federal-contracts-count: 10
 federal-grants-count: 0
 related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[The Foreign Relations Committee and Idaho Energy]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[Kevin McCarthy Master Profile]] · [[Cathy McMorris Rodgers Master Profile]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[The Small Business Committee and Texas Oil-Auto Pipeline]] · [[Blue Cross Blue Shield Association]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
-nonprofit-status: "501(c)(9)"
+nonprofit-status: 501(c)(9)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 212200
 total-assets: 1900682
 cross-vault-triangulation-count: 35
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Kevin McCarthy]], [[Cathy McMorris Rodgers]], [[John Kennedy]], [[Dan Crenshaw]]"
 ---
 
 <!-- auto:data-panel start -->

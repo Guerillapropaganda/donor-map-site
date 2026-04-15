@@ -1,54 +1,52 @@
 ---
-title: "Josh Gottheimer"
+title: Josh Gottheimer
 type: politician
 content-readiness: ready
-central-thesis: "The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi..."
-last-updated: 2026-04-15
+central-thesis: The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
+party: Democrat
+chamber: House
 district: "5"
-top-donors:
-  - "Palantir"
-  - "Wall Street Finance PACs"
-total-received: "$1,892,291"
-fec-candidate-id: "H6NJ05171"
-bioguide-id: "G000583"
+top-donors: "[[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]"
+total-received: $1,892,291
+fec-candidate-id: H6NJ05171
+bioguide-id: G000583
 source-types:
   - FEC
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): G000583. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[Palantir]] · [[Wall Street Finance PACs]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 last-enriched: "2026-04-11"
 committees:
-  - "House Committee on Financial Services"
-  - "House Permanent Select Committee on Intelligence"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: G000583. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+  - House Committee on Financial Services
+  - House Permanent Select Committee on Intelligence
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: G000583. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Emergency Management"
-  - "Families"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-total-raised: "$1,892,291"
-total-spent: "$12,309,298"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Emergency Management
+  - Families
+  - Government Operations and Politics
+  - Health
+  - Immigration
+  - International Affairs
+total-raised: $1,892,291
+total-spent: $12,309,298
 cash-on-hand: "10295485.93"
 fec-cycle: 2026
-wikidata-id: "Q6288908"
-wikipedia-url: "https://en.wikipedia.org/wiki/Josh_Gottheimer"
-wikipedia-extract: "Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017."
+wikidata-id: Q6288908
+wikipedia-url: https://en.wikipedia.org/wiki/Josh_Gottheimer
+wikipedia-extract: Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017.
 born: "1975-03-08"
 ---
 

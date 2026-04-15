@@ -1,40 +1,36 @@
 ---
-title: "Healthcare Sector"
+title: Healthcare Sector
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Chuck Schumer"
-  - "Mitch McConnell"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Mitch McConnell]], [[Raphael Warnock]], [[Chuck Schumer]]"
 issues:
-  - "Healthcare"
-  - "Social Safety Net"
+  - Healthcare
+  - Social Safety Net
 court-cases: 1439
 last-enriched: "2026-04-14"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Delaware"
-  - "District Court, D. Kansas"
-  - "District Court, E.D. Michigan"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Tennessee"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Iowa"
-  - "District Court, W.D. Michigan"
+  - District Court, C.D. California
+  - District Court, D. Delaware
+  - District Court, D. Kansas
+  - District Court, E.D. Michigan
+  - District Court, M.D. Florida
+  - District Court, M.D. Tennessee
+  - District Court, S.D. Florida
+  - District Court, S.D. Iowa
+  - District Court, W.D. Michigan
 related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Blue Cross Blue Shield Association]] · [[Insurance Industry]] · [[American Hospital Association]] · [[Medicare for All]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Mitch McConnell Master Profile|McConnell]] · [[Insurance Industry Bloc]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[Walton Family Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
-lei: "54930024HJBJ7HNLBO26"
-lei-jurisdiction: "US"
+lei: 54930024HJBJ7HNLBO26
+lei-jurisdiction: US
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q137593099"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: Q137593099
 ---
 
 <!-- auto:data-panel start -->

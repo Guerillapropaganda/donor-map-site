@@ -1,65 +1,60 @@
 ---
-title: "Federalist Society"
+title: Federalist Society
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Clarence Thomas"
-  - "Samuel Alito"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Clarence Thomas]], [[Donald Trump]], [[Samuel Alito]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 federal-register-mentions: 2
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Federal Trade Commission"
+  - Federal Trade Commission
 ein: "815109948"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 court-cases: 776
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Seventh Circuit"
-  - "District Court, D. Colorado"
-  - "District Court, D. South Dakota"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Seventh Circuit
+  - District Court, D. Colorado
+  - District Court, D. South Dakota
+  - District Court, District of Columbia
+  - District Court, E.D. Pennsylvania
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
 sec-filings: 677
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "424B3"
+  - 10-K
+  - 10-K/A
+  - 424B3
   - "497"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFC14A"
-  - "EX-1"
-  - "EX-10.1"
-  - "EX-99.(E)"
-  - "EX-99.1"
-  - "N-CSR"
-  - "N-CSRS"
-  - "PRE 14A"
-  - "PX14A6G"
-  - "U-13-60"
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DEFC14A
+  - EX-1
+  - EX-10.1
+  - EX-99.(E)
+  - EX-99.1
+  - N-CSR
+  - N-CSRS
+  - PRE 14A
+  - PX14A6G
+  - U-13-60
 related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: "Q5440666"
-wikipedia-url: "https://en.wikipedia.org/wiki/Federalist_Society"
-wikipedia-extract: "The Federalist Society for Law and Public Policy Studies (FedSoc) is an American conservative and libertarian legal organization that advocates for a textualist and originalist interpretation of the U..."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+wikidata-id: Q5440666
+wikipedia-url: https://en.wikipedia.org/wiki/Federalist_Society
+wikipedia-extract: The Federalist Society for Law and Public Policy Studies (FedSoc) is an American conservative and libertarian legal organization that advocates for a textualist and originalist interpretation of the U...
 ---
 
 <!-- auto:data-panel start -->

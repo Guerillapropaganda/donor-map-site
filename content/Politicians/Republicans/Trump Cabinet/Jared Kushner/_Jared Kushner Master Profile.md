@@ -1,24 +1,24 @@
 ---
-title: "Jared Kushner"
+title: Jared Kushner
 type: politician
 content-readiness: ready
-central-thesis: "Kushner is not a politician who later monetized his connections. He is a business vehicle that briefly held a government position. The January 20 → January 21 timeline , leaves White House one day, incorporates private equity fund the next , is th..."
-last-updated: 2026-04-15
+central-thesis: Kushner is not a politician who later monetized his connections. He is a business vehicle that briefly held a government position. The January 20 → January 21 timeline , leaves White House one day, incorporates private equity fund the next , is th...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Housing"
+  - Housing
 top-donors:
-  - "Miriam Adelson"
+  - Miriam Adelson
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_JD Vance Master Profile]] · [[Immigration Enforcement - The Detention Economy]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[Steve Witkoff]] · [[Tim Scott]]"
-donors: "[[Trump Organization]] · [[World Liberty Financial]]"
+donors: "[[Trump Organization]] · [[World Liberty Financial]] · [[Real Estate Industry]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Crypto Industry Bloc]] · [[Mohammed bin Salman]] · [[Miriam Adelson]]"
 ---
 
 <!-- auto:data-panel start -->

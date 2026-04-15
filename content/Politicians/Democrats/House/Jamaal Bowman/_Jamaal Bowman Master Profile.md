@@ -3,28 +3,28 @@ title: Jamaal Bowman
 type: politician
 content-readiness: ready
 central-thesis: "Bowman is the vault's canonical case study for Donor-Class Override through primary election spending: a one-term incumbent with genuine constituent alignment on every major policy position was removed from office not because his district rejected..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
 chamber: House
 state: New York
 state-abbr: NY
-district: '16'
+district: "16"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Emergency Management"
-  - "Energy"
-  - "Environmental Protection"
-total-received: "$6,052,176"
-fec-candidate-id: "H0NY16143"
-bioguide-id: "B001223"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Crime and Law Enforcement
+  - Education
+  - Emergency Management
+  - Energy
+  - Environmental Protection
+total-received: $6,052,176
+fec-candidate-id: H0NY16143
+bioguide-id: B001223
 govtrack-id: 456839
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -35,29 +35,25 @@ corroboration-count: 2
 known-gaps:
   - GovTrack shows 0 bills sponsored/cosponsored , needs fresh pipeline run (cache invalidation fix deployed 2026-04-10 awaits next run)
   - Congress.gov auto-blocks stripped in 2026-04-10 A000383 cleanup (pipeline fuzzy-match bug, now fixed). Needs fresh pipeline run for correct Congress data.
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001223. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
-
-[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • The profile's own known-gaps field says it needs a fresh pipeline run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[CODE @ 2026-04-10] DEMOTED verified→ready. Previous 'A+ verified' promotion by Research Claude on 2026-04-09 counted Congress.gov as one of 3 Tier 1 source types. That Congress data was A000383-contaminated (wrong member). Corroboration-count reduced from 3 to 2 (FEC + GovTrack only). Same reasoning as Cori Bush demotion. Re-review for verified promotion AFTER fresh pipeline runs populate correct Congress/committee/govtrack data."
-opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]'
-donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: B001223. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [CODE @ 2026-04-10] DEMOTED verified→ready. Previous 'A+ verified' promotion by Research Claude on 2026-04-09 counted Congress.gov as one of 3 Tier 1 source types. That Congress data was A000383-contaminated (wrong member). Corroboration-count reduced from 3 to 2 (FEC + GovTrack only). Same reasoning as Cori Bush demotion. Re-review for verified promotion AFTER fresh pipeline runs populate correct Congress/committee/govtrack data.
+opposes: "[[UNITED DEMOCRACY PROJECT ('UDP')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]"
+donors: "[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[FAIRSHAKE]] · [[DMFI PAC]]"
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Pramila Jayapal]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): B001223. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
-total-raised: "$6,052,176"
-total-spent: "$5,993,808"
+total-raised: $6,052,176
+total-spent: $5,993,808
 cash-on-hand: "79884.30"
 fec-cycle: 2024
 fec-debt: "13261.52"
-wikidata-id: "Q96419280"
-wikipedia-url: "https://en.wikipedia.org/wiki/Jamaal_Bowman"
-wikipedia-extract: "Jamaal Anthony Bowman is an American politician and former educator who served from 2021 to 2025 as the United States representative for New York's 16th congressional district."
+wikidata-id: Q96419280
+wikipedia-url: https://en.wikipedia.org/wiki/Jamaal_Bowman
+wikipedia-extract: Jamaal Anthony Bowman is an American politician and former educator who served from 2021 to 2025 as the United States representative for New York's 16th congressional district.
 born: "1976-04-01"
 ---
 

@@ -1,49 +1,49 @@
 ---
-title: "Ro Khanna"
+title: Ro Khanna
 type: politician
 content-readiness: ready
 central-thesis: "Khanna is the test case for whether progressive politics and tech industry money can coexist , and the answer so far is: barely, and with visible structural compromises. His district is the tech industry. His individual donors are tech executives ..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "17"
-bioguide-id: "K000389"
-fec-committee-id: "C00503185"
+bioguide-id: K000389
+fec-committee-id: C00503185
 committees:
-  - "House Committee on Armed Services"
-  - "House Committee on Oversight and Government Reform"
-  - "House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party"
+  - House Committee on Armed Services
+  - House Committee on Oversight and Government Reform
+  - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
 issues:
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
+  - Armed Forces and National Security
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Energy
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
 top-donors:
-  - "Alphabet/Google employees ($535K career)"
-  - "Wilson Sonsini law firm ($254K career)"
-  - "Stanford University employees ($213K career)"
-  - "Accel Partners ($177K career)"
-  - "Andreessen Horowitz"
+  - Alphabet/Google employees ($535K career)
+  - Wilson Sonsini law firm ($254K career)
+  - Stanford University employees ($213K career)
+  - Accel Partners ($177K career)
+  - Andreessen Horowitz
 govtrack-id: 412684
 bills-sponsored: 36
 bills-cosponsored: 392
-website: "https://khanna.house.gov"
-phone: "202-225-2631"
-total-received: "$9,579,628"
-fec-candidate-id: "H4CA12055"
+website: https://khanna.house.gov
+phone: 202-225-2631
+total-received: $9,579,628
+fec-candidate-id: H4CA12055
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
+reenrich-reason: re-run congress pipeline
 source-types:
   - Congress
   - FEC
@@ -54,26 +54,24 @@ known-gaps:
   - OpenSecrets career/industry breakdown tables in Donor Class Map body text reference OpenSecrets data without Tier 1 URL citation. Data should be cross-verified against FEC committee page for verified promotion.
   - Wilson Sonsini and Accel Partners donor totals need direct FEC filing cross-check
 opposes:
-  - "Silicon Valley tech executives (post-wealth-tax)"
-  - "Defense contractors (NDAA dissent)"
-  - "Ethan Agarwal (primary challenger funded by Y Combinator CEO Garry Tan, Chamath Palihapitiya)"
-donors: "Alphabet/Google individual employees,Wilson Sonsini Goodrich & Rosati,Stanford University,Accel Partners,Andreessen Horowitz individuals,JStreetPAC ($46,950 2024 cycle) · [[Google - Alphabet]]"
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
+  - Silicon Valley tech executives (post-wealth-tax)
+  - Defense contractors (NDAA dissent)
+  - Ethan Agarwal (primary challenger funded by Y Combinator CEO Garry Tan, Chamath Palihapitiya)
+donors: "[[Google - Alphabet]] · [[Protect Progress]]"
+editorial-review-date: "2026-04-10"
+editorial-reviewer: Research Claude
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC candidate page, Congress.gov with verified bioguide K000389, GovTrack, khanna.house.gov official press release on NDAA vote), 7 Tier 2 journalism sources documenting the 2026 wealth tax backlash, exceptional class analysis (tolerated/managed/intolerable dissent hierarchy), detailed donation-to-policy timeline with specific amounts, Influence Network Cross-Reference auto-block showing Apple/Microsoft donate→lobby→committee chains. The 2026 Silicon Valley backlash section is the vault's clearest contemporary case study of donor-class enforcement: wealth tax endorsement triggered coordinated primary challenge (Ethan Agarwal, Garry Tan, Chamath Palihapitiya) within weeks. FIXED: removed stale DOJ from source-types (all vault DOJ blocks stripped this session , bogus API index-size bug). FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: known-gaps (was wrongly listing 'No mapped relationships'). Added bioguide-id, fec-committee-id, structured opposes/donors. No A000383 contamination. No (URL NEEDED) tags. Ready for editor review."
 related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]] · [[Microsoft]] · [[Google - Alphabet]]"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$9,579,628"
-total-spent: "$4,833,756"
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: $9,579,628
+total-spent: $4,833,756
 cash-on-hand: "15454963.11"
 fec-cycle: 2026
 fec-debt: "89348.30"
-wikidata-id: "Q7339221"
-wikipedia-url: "https://en.wikipedia.org/wiki/Ro_Khanna"
-wikipedia-extract: 'Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California''s 17th congressional district since 2017.'
+wikidata-id: Q7339221
+wikipedia-url: https://en.wikipedia.org/wiki/Ro_Khanna
+wikipedia-extract: Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California's 17th congressional district since 2017.
 born: "1976-09-13"
 ---
 

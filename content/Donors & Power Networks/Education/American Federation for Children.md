@@ -1,44 +1,45 @@
 ---
-title: "American Federation for Children"
+title: American Federation for Children
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Education"
-entity-type: "Individual Donor"
+sector: Education
+entity-type: Individual Donor
 issues:
-  - "Education"
-  - "Dark Money & Campaign Finance"
+  - Education
+  - Dark Money & Campaign Finance
 ein: "330627955"
-annual-revenue: "$11.1M"
-net-assets: "$5.2M"
+annual-revenue: $11.1M
+net-assets: $5.2M
 tax-year: "2023"
 lobbying-spend: 3142538
 lobbying-filings: 146
 court-cases: 12
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Louisiana"
-  - "District Court, M.D. Alabama"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, W.D. Washington"
+  - District Court, District of Columbia
+  - District Court, E.D. Louisiana
+  - District Court, M.D. Alabama
+  - District Court, M.D. Florida
+  - District Court, M.D. Tennessee
+  - District Court, N.D. California
+  - District Court, W.D. Washington
 related: "[[US Chamber of Commerce]] · [[Education - Donors and Backers]] · [[Bradley Foundation]] · [[Virginia Foxx]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[DeVos Family]] · [[Koch Network - Charles Koch]] · [[Heritage Foundation]] · [[Walton Family Foundation]] · [[National Education Association]] · [[California Charter Schools Association]] · [[Insurance Industry]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Stand Together]] · [[Republican Party Apparatus]]"
 sec-filings: 9
 sec-form-types:
-  - "DEF 14A"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "PX14A6G"
-total-political-spend: "$1,465,283"
-nonprofit-status: "501(c)(4)"
+  - DEF 14A
+  - EX-99.1
+  - EX-99.2
+  - PX14A6G
+total-political-spend: $1,465,283
+nonprofit-status: 501(c)(4)
 total-revenue: 12945313
 total-assets: 6313490
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[Virginia Foxx]]"
 ---
 
 <!-- auto:data-panel start -->

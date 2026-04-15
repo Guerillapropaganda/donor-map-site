@@ -1,31 +1,31 @@
 ---
-title: "Melissa Bean"
+title: Melissa Bean
 type: politician
 content-readiness: ready
 central-thesis: "Melissa Bean represents a new prototype in the 2026 election cycle: the 'comeback candidate' funded by a coalition of emerging donor interests (AI tech, cryptocurrency, pro-Israel infrastructure). Her 2026 primary victory was almost entirely depen..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
+party: Democrat
+chamber: House
 district: "8"
 top-donors:
-  - "Think Big AI PAC"
-  - "AIPAC"
+  - Think Big AI PAC
+  - AIPAC
 issues:
-  - "Armed Forces and National Security"
-  - "Commemorations"
-  - "Commerce"
-  - "Congress"
-  - "Energy"
-  - "Families"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Housing and Community Development"
-total-received: "$2,292,879"
-fec-candidate-id: "H2IL08088"
-bioguide-id: "B001253"
+  - Armed Forces and National Security
+  - Commemorations
+  - Commerce
+  - Congress
+  - Energy
+  - Families
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Housing and Community Development
+total-received: $2,292,879
+fec-candidate-id: H2IL08088
+bioguide-id: B001253
 source-types:
   - Congress
   - FEC
@@ -33,23 +33,23 @@ corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): B001253. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]]"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: B001253. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: B001253. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown — smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 last-enriched: "2026-04-13"
-total-raised: "$2,292,879"
-total-spent: "$2,451,348"
+total-raised: $2,292,879
+total-spent: $2,451,348
 cash-on-hand: "25239.79"
 fec-cycle: 2010
 fec-debt: "12800.00"
-wikidata-id: "Q445046"
-wikipedia-url: "https://en.wikipedia.org/wiki/Melissa_Bean"
-wikipedia-extract: "Melissa Bean is an American politician who served as the U.S. representative for Illinois's 8th congressional district from 2005 to 2011. Bean is a member of the Democratic Party."
+wikidata-id: Q445046
+wikipedia-url: https://en.wikipedia.org/wiki/Melissa_Bean
+wikipedia-extract: Melissa Bean is an American politician who served as the U.S. representative for Illinois's 8th congressional district from 2005 to 2011. Bean is a member of the Democratic Party.
 born: "1962-01-22"
-donors: "[[Fairshake PAC]] · [[United Democracy Project - UDP]]"
+donors: "[[Fairshake PAC]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Brady Campaign]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

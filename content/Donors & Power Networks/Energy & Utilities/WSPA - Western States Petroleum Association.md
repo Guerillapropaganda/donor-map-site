@@ -1,30 +1,27 @@
 ---
-title: "WSPA - Western States Petroleum Association"
+title: WSPA - Western States Petroleum Association
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]]"
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
 ein: "950596680"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 56147294
 total-assets: 16493191
 related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[PG&E - Pacific Gas and Electric]] · [[ExxonMobil]] · [[Occidental Petroleum]] · [[ConocoPhillips]] · [[HBW Resources]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[Marathon Petroleum]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]]"
 cross-vault-triangulation-count: 16
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

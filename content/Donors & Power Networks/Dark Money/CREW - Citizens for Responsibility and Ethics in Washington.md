@@ -1,34 +1,31 @@
 ---
-title: "CREW - Citizens for Responsibility and Ethics in Washington"
+title: CREW - Citizens for Responsibility and Ethics in Washington
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 court-cases: 2
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, District of Columbia"
+  - District Court, District of Columbia
 related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]]"
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ein: "30445391"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 12386233
 total-assets: 13408716
 aliases:
-  - "CREW"
-  - "CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON"
+  - CREW
+  - CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON
 ---
 
 <!-- auto:data-panel start -->

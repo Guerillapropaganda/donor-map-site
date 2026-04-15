@@ -1,60 +1,59 @@
 ---
-title: "Booz Allen Hamilton"
+title: Booz Allen Hamilton
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gerry Connolly"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Gerry Connolly]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 lobbying-spend: 6460000
 lobbying-filings: 48
 federal-register-mentions: 139
 last-enriched: "2026-04-08"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Copyright Office, Library of Congress"
-  - "Executive Office for Immigration Review"
-  - "Food and Drug Administration"
-  - "Health and Human Services Department"
-  - "Industry and Security Bureau"
-  - "International Trade Administration"
-  - "Justice Department"
-  - "Labor Department"
+  - Antitrust Division
+  - Commerce Department
+  - Copyright Office, Library of Congress
+  - Executive Office for Immigration Review
+  - Food and Drug Administration
+  - Health and Human Services Department
+  - Industry and Security Bureau
+  - International Trade Administration
+  - Justice Department
+  - Labor Department
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
+  - 10-K
+  - 10-Q
   - "144"
   - "4"
-  - "424B2"
-  - "8-K"
-  - "CORRESP"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-21"
-  - "EX-21.1"
-  - "EX-23"
-  - "EX-3.1"
-  - "EX-4.1"
-  - "EX-5.1"
-  - "EX-99.1"
-  - "EX-FILING FEES"
-  - "FWP"
-  - "LETTER"
-  - "PROXY VOTING RECORD"
-  - "S-3ASR"
-  - "S-8"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SCHEDULE 13G"
-  - "SCHEDULE 13G/A"
+  - 424B2
+  - 8-K
+  - CORRESP
+  - EX-10.1
+  - EX-10.2
+  - EX-21
+  - EX-21.1
+  - EX-23
+  - EX-3.1
+  - EX-4.1
+  - EX-5.1
+  - EX-99.1
+  - EX-FILING FEES
+  - FWP
+  - LETTER
+  - PROXY VOTING RECORD
+  - S-3ASR
+  - S-8
+  - S-8 POS
+  - SC 13D
+  - SC 13D/A
+  - SCHEDULE 13G
+  - SCHEDULE 13G/A
 federal-awards-total: 6457449191
 federal-contracts-count: 25
 federal-grants-count: 2
@@ -63,7 +62,7 @@ subawards-issued: 50
 subawards-issued-amount: 926455282
 subawards-received: 50
 subawards-received-amount: 926455282
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "541330"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"

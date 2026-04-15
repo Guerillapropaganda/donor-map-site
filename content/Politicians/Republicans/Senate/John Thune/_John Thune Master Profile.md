@@ -1,30 +1,27 @@
 ---
-title: "John Thune"
+title: John Thune
 type: politician
-bioguide-id: "T000250"
+bioguide-id: T000250
 content-readiness: ready
-central-thesis: "John Thune's 20-year Senate career demonstrates the corporate capture model at its most institutionally successful. An agricultural-state senator from South Dakota , population 900,000, median household income $65K , is funded primarily by NextEra..."
-last-updated: 2026-04-15
+central-thesis: John Thune's 20-year Senate career demonstrates the corporate capture model at its most institutionally successful. An agricultural-state senator from South Dakota , population 900,000, median household income $65K , is funded primarily by NextEra...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "South Dakota"
-state-abbr: "SD"
+party: Republican
+chamber: Senate
+state: South Dakota
+state-abbr: SD
 leadership-roles:
-  - "Majority Leader"
-top-donors:
-  - "NextEra Energy"
-  - "Goldman Sachs"
-  - "Insurance Industry"
-total-received: "$1,221,843"
-fec-candidate-id: "S2SD00068"
+  - Majority Leader
+top-donors: "[[Insurance Industry]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Goldman Sachs]], [[League of Conservation Voters]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
+total-received: $1,221,843
+fec-candidate-id: S2SD00068
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]] · [[John Cornyn]]"
 ---
 

@@ -1,62 +1,55 @@
 ---
-title: "American Iron and Steel Institute"
+title: American Iron and Steel Institute
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Mike Bost"
-  - "Paul Ryan"
-  - "Donald Trump"
-  - "Mike Johnson"
-  - "Ron Johnson"
-  - "Bob Casey"
-  - "Sherrod Brown"
-total-political-spend: "$542,903"
+sector: Defense & Intelligence
+entity-type: Individual Donor
+politicians-funded: "[[Mike Bost]], [[Ron Johnson]], [[Mike Johnson]], [[Bob Casey]], [[Donald Trump]], [[Paul Ryan]], [[Sherrod Brown]]"
+total-political-spend: $542,903
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
 ofac-programs:
-  - "IRAN-EO13871"
+  - IRAN-EO13871
 sec-filings: 984
 sec-form-types:
-  - "10-K"
-  - "10-K405"
-  - "10-Q"
+  - 10-K
+  - 10-K405
+  - 10-Q
   - "425"
-  - "6-K"
-  - "6-K/A"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10.10"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.1."
-  - "EX-99.2"
-  - "EX-99.B"
-  - "S-1"
+  - 6-K
+  - 6-K/A
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-10.10
+  - EX-99
+  - EX-99.1
+  - EX-99.1.
+  - EX-99.2
+  - EX-99.B
+  - S-1
 ein: "131832448"
-annual-revenue: "$11.7M"
-net-assets: "$11.7M"
+annual-revenue: $11.7M
+net-assets: $11.7M
 tax-year: "2023"
 court-cases: 207
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "District Court, D. Montana"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Indiana"
-  - "District Court, W.D. Pennsylvania"
-  - "United States Court of International Trade"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Fifth Circuit
+  - District Court, D. Montana
+  - District Court, District of Columbia
+  - District Court, N.D. California
+  - District Court, S.D. Indiana
+  - District Court, W.D. Pennsylvania
+  - United States Court of International Trade
 related: "[[Trade and Tariffs - Donors and Backers]] · [[Mike Bost]] · [[Ron Johnson]] · [[Paul Ryan]] · [[Bob Casey]] · [[Sherrod Brown]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Nucor Corporation]] · [[_Donald Trump Master Profile|Trump]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[Defense Industry]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[National Education Association]] · [[American Federation for Children]] · [[Stand Together]] · [[Republican Party Apparatus]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 8044067
 total-assets: 10548735
 cross-vault-triangulation-count: 10

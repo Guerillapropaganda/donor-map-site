@@ -1,27 +1,27 @@
 ---
-title: "Howard Lutnick"
+title: Howard Lutnick
 type: politician
 content-readiness: draft
-central-thesis: "Howard Lutnick is the Trump cabinet's most direct case of financial self-dealing. As Commerce Secretary, he controls trade enforcement, tariff implementation, and digital asset policy , every area where his family has direct financial exposure. Ca..."
-last-updated: 2026-04-15
+central-thesis: Howard Lutnick is the Trump cabinet's most direct case of financial self-dealing. As Commerce Secretary, he controls trade enforcement, tariff implementation, and digital asset policy , every area where his family has direct financial exposure. Ca...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 committees:
-  - "Commerce"
+  - Commerce
 issues:
-  - "Technology"
+  - Technology
 top-donors:
-  - "Elon Musk"
+  - Elon Musk
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Scott Bessent Master Profile]] · [[Elon Musk]] · [[Rumble]]"
-donors: "[[Crypto Industry Bloc]]"
+donors: "[[Crypto Industry Bloc]], [[Elon Musk]]"
 ---
 
 <!-- auto:data-panel start -->

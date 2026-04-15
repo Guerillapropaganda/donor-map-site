@@ -4,36 +4,28 @@ type: politician
 chamber: House
 party: Democrat
 content-readiness: ready
-central-thesis: >-
-  Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern
-  U.S. history. She voted alone against indefinite military authorization. Yet
-  in 2024, when Lee ran for the Senate from California, she was systematically
-  outspent and elim...
-last-updated: 2026-04-15
+central-thesis: Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-total-received: "$375,046"
-fec-candidate-id: "H8CA09060"
+total-received: $375,046
+fec-candidate-id: H8CA09060
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: ">- · [[Tim Dunn]] · [[Rebekah Mercer]]"
+donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Courage California Super Pac]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
 bioguide-id: L000551
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572
 related: ">- · [[Adam Schiff]] · [[Rebekah Mercer]]"
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  CONGRESS data is missing entirely. This profile was promoted to ready without
-  ever having congress enrichment run on it. The needs-reenrichment flag has
-  been set. The next scheduled pipeline run will pick it up automatically.
-total-raised: "$375,046"
-total-spent: "$427,255"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: $375,046
+total-spent: $427,255
 cash-on-hand: "144.39"
 fec-cycle: 2024
 issues:
-  - 'Civil Rights and Liberties, Minority Issues'
+  - Civil Rights and Liberties, Minority Issues
   - Crime and Law Enforcement
   - Education
   - Energy

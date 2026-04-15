@@ -1,64 +1,62 @@
 ---
-title: "Cory Booker"
+title: Cory Booker
 type: politician
 content-readiness: draft
-central-thesis: "Cory Booker is the Two-Audience Problem incarnate , and the pharma vote is the receipt. His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall ..."
-last-updated: 2026-04-15
+central-thesis: Cory Booker is the Two-Audience Problem incarnate , and the pharma vote is the receipt. His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "New Jersey"
-state-abbr: "NJ"
+party: Democrat
+chamber: Senate
+state: New Jersey
+state-abbr: NJ
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "International Affairs"
-  - "Labor and Employment"
-  - "Native Americans"
+  - Agriculture and Food
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Health
+  - International Affairs
+  - Labor and Employment
+  - Native Americans
 top-donors:
-  - "Goldman Sachs"
-  - "JPMorgan Chase"
-  - "PhRMA"
-  - "Pfizer"
-  - "Merck"
-  - "Johnson & Johnson"
-  - "Silicon Valley Democratic Donor Network"
+  - Goldman Sachs
+  - JPMorgan Chase
+  - PhRMA
+  - Pfizer
+  - Merck
+  - Johnson & Johnson
+  - Silicon Valley Democratic Donor Network
 stock-trades: 13
 stock-trade-tickers:
-  - "IRM"
-  - "AMT"
-  - "NFLX"
-  - "NKE"
-  - "IBM"
-  - "FB"
-  - "AMZN"
-  - "AAPL"
-  - "DISH"
-  - "EBAY"
+  - IRM
+  - AMT
+  - NFLX
+  - NKE
+  - IBM
+  - FB
+  - AMZN
+  - AAPL
+  - DISH
+  - EBAY
 govtrack-id: 412598
 bills-sponsored: 92
 bills-cosponsored: 541
-website: "https://www.booker.senate.gov"
-phone: "202-224-3224"
+website: https://www.booker.senate.gov
+phone: 202-224-3224
 related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
-donors: "[[JB Pritzker]] · [[Mark Zuckerberg]] · [[JB Pritzker (Donor Network)]]"
-total-received: "$30,106,071"
-fec-candidate-id: "S4NJ00185"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us"
+donors: "[[JB Pritzker]] · [[Mark Zuckerberg]] · [[JB Pritzker (Donor Network)]] · [[Silicon Valley Democratic Donor Network]] · [[Johnson & Johnson]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Independence Usa Pac]] · [[Merck]] · [[THE MOBILIZATION PROJECT]] · [[UNITED WE WIN SUPER PAC]] · [[Dream Defenders Fight Pac]]"
+total-received: $30,106,071
+fec-candidate-id: S4NJ00185
+internal-notes: |-
+  [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-09] 17 checked: 11 ok, 5 broken, 1 slow. | BROKEN: Congress.gov: Cory Booker member profile | BROKEN: Congress.gov: First Step Act | BROKEN: The Hill: Booker puts pause on pharma fundraising | BROKEN: Source: Senate Stock Watcher | BROKEN: Source: Congress.gov | SLOW: Source: GovTrack.us
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "B001288"
+reenrich-reason: re-run congress pipeline
+bioguide-id: B001288
 ---
 
 <!-- auto:data-panel start -->

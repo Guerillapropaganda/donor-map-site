@@ -1,32 +1,32 @@
 ---
-title: "Jim Jordan"
+title: Jim Jordan
 type: politician
 content-readiness: ready
-central-thesis: "Jim Jordan's career is the institutional architecture of performative aggression in service of donor-class protection. The Freedom Caucus exists to block legislation that threatens the Koch/Club for Growth deregulation agenda. The Judiciary Commit..."
-last-updated: 2026-04-15
+central-thesis: Jim Jordan's career is the institutional architecture of performative aggression in service of donor-class protection. The Freedom Caucus exists to block legislation that threatens the Koch/Club for Growth deregulation agenda. The Judiciary Commit...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
+party: Republican
+chamber: House
 district: "6"
 committees:
-  - "Judiciary"
+  - Judiciary
 top-donors:
-  - "Koch Network - Charles Koch"
-  - "Club for Growth"
+  - Koch Network - Charles Koch
+  - Club for Growth
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
-bioguide-id: "J000289"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
+bioguide-id: J000289
 govtrack-id: 412226
 bills-sponsored: 1
 bills-cosponsored: 16
-website: "https://jordan.house.gov"
-phone: "202-225-2676"
+website: https://jordan.house.gov
+phone: 202-225-2676
 related: "[[_Mike Johnson Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Kash Patel Master Profile]] · [[Elise Stefanik]] · [[Chip Roy Master Profile]]"
-donors: "[[House Freedom Caucus]]"
+donors: "[[House Freedom Caucus]], [[Koch Network - Charles Koch]], [[Club for Growth]]"
 ---
 
 <!-- auto:data-panel start -->

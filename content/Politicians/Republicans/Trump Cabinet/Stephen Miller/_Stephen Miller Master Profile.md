@@ -1,31 +1,31 @@
 ---
-title: "Stephen Miller"
+title: Stephen Miller
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Immigration"
-  - "Dark Money & Campaign Finance"
+  - Immigration
+  - Dark Money & Campaign Finance
 top-donors:
-  - "DonorsTrust"
-  - "Bradley Impact Fund"
-total-received: "$181,912"
-fec-candidate-id: "H2NC07104"
+  - DonorsTrust
+  - Bradley Impact Fund
+total-received: $181,912
+fec-candidate-id: H2NC07104
 govtrack-id: 407733
 bills-sponsored: 0
 bills-cosponsored: 0
 source-types:
   - GovTrack
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]] · [[The Nunes Pipeline and the Loyalty Promotion System]]"
-donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]]"
+donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Bradley Impact Fund]] · [[Heritage Foundation]] · [[DonorsTrust]] · [[Republican Jewish Coalition]]"
 ---
 
 <!-- auto:data-panel start -->

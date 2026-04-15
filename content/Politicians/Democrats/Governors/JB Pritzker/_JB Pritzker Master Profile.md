@@ -3,7 +3,7 @@ title: JB Pritzker
 type: politician
 content-readiness: draft
 central-thesis: "JB Pritzker is the Democratic donor class in its purest form: the donor IS the politician. He didn't need bundlers, super PACs, or industry favors , he wrote himself $323 million in checks. The self-funding eliminates the intermediary between weal..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -21,7 +21,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[Juliana Stratton]] · [[Illinois Senate Primary Money War]]"
-donors: "[[Illinois Future PAC]]"
+donors: "[[Illinois Future PAC]], [[Democratic Governors Association]], [[UNITE HERE]]"
 ---
 
 <!-- auto:data-panel start -->

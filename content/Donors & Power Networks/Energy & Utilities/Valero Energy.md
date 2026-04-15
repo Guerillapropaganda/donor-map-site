@@ -1,53 +1,52 @@
 ---
-title: "Valero Energy"
+title: Valero Energy
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "Steve Scalise"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Steve Scalise]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 ein: 742904514
-annual-revenue: "$10.3M"
-net-assets: "$18.1M"
+annual-revenue: $10.3M
+net-assets: $18.1M
 tax-year: "2023"
 lobbying-spend: 6500000
 lobbying-filings: 51
 federal-register-mentions: 79
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Foreign-Trade Zones Board"
-  - "Justice Department"
-  - "National Highway Traffic Safety Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
+  - Antitrust Division
+  - Commerce Department
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Foreign-Trade Zones Board
+  - Justice Department
+  - National Highway Traffic Safety Administration
+  - Pipeline and Hazardous Materials Safety Administration
 federal-awards-total: 665092359
 federal-contracts-count: 25
 federal-grants-count: 0
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "324110"
 related: "[[WSPA - Western States Petroleum Association]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Halliburton]] · [[Devon Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[ConocoPhillips]] · [[American Petroleum Institute]] · [[Chevron]] · [[ExxonMobil]] · [[Fossil Fuel Bloc]] · [[Western States Petroleum Association]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[Koch Network - Charles Koch|Koch Network]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]]"
 court-cases: 871
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "District Court, D. Minnesota"
-  - "District Court, D. Oregon"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Texas"
-  - "District Court, M.D. Louisiana"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Fifth Circuit
+  - District Court, D. Minnesota
+  - District Court, D. Oregon
+  - District Court, District of Columbia
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Texas
+  - District Court, M.D. Louisiana
+  - District Court, N.D. California
+  - District Court, N.D. Texas
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 18

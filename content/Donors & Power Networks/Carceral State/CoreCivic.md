@@ -1,80 +1,75 @@
 ---
-title: "CoreCivic"
+title: CoreCivic
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Carceral State"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Donald Trump"
-  - "Chad Bianco"
+sector: Carceral State
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]]"
 federal-awards-total: 549517348
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3042
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, D. Arizona"
-  - "District Court, D. Montana"
-  - "District Court, D. Nevada"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Michigan"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. Ohio"
-  - "District Court, S.D. California"
+  - District Court, D. Arizona
+  - District Court, D. Montana
+  - District Court, D. Nevada
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. Michigan
+  - District Court, M.D. Tennessee
+  - District Court, N.D. Ohio
+  - District Court, S.D. California
 ein: 823851866
-annual-revenue: "$511K"
-net-assets: "$52K"
+annual-revenue: $511K
+net-assets: $52K
 tax-year: "2024"
 federal-contracts: "608"
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-top-federal-agency: "Department of Homeland Security"
+top-federal-agency: Department of Homeland Security
 top-naics-code: "561612"
 related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 709089
 total-assets: 27969
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-lei: "529900JFA3K6PTLT8B15"
-lei-jurisdiction: "US-MD"
+lei: 529900JFA3K6PTLT8B15
+lei-jurisdiction: US-MD
 cross-vault-triangulation-count: 16
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
-  - "10-Q"
-  - "11-K"
+  - 10-K
+  - 10-Q
+  - 11-K
   - "144"
   - "4"
-  - "424B5"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-19"
-  - "EX-21.1"
-  - "EX-23.1"
-  - "EX-5.1"
-  - "EX-5.2"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "SCHEDULE 13G/A"
-wikidata-id: "Q1135278"
-wikipedia-url: "https://en.wikipedia.org/wiki/CoreCivic"
-wikipedia-extract: "CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States."
+  - 424B5
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-19
+  - EX-21.1
+  - EX-23.1
+  - EX-5.1
+  - EX-5.2
+  - EX-99.1
+  - EX-99.2
+  - SCHEDULE 13G/A
+wikidata-id: Q1135278
+wikipedia-url: https://en.wikipedia.org/wiki/CoreCivic
+wikipedia-extract: CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
 founded: "1983-01-01"
 ---
 

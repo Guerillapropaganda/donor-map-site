@@ -1,63 +1,63 @@
 ---
-title: "Nancy Pelosi"
+title: Nancy Pelosi
 type: politician
 content-readiness: ready
 central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus , content-readiness: ready.6 billion since 2002. Her fundraising power is the structural basis of her politic..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-career-total: "$1.6B"
+career-total: $1.6B
 parent: null
 say-vs-pay:
   passed:
-    - "ACA , expanded coverage to 20M"
-    - "CHIPS Act , $52B for semiconductors"
-    - "Two Trump impeachments"
-    - "BBB passed House at $3.5T"
+    - ACA , expanded coverage to 20M
+    - CHIPS Act , $52B for semiconductors
+    - Two Trump impeachments
+    - BBB passed House at $3.5T
   blocked:
-    - "PRO Act , labor organizing rights"
-    - "Drug pricing negotiation"
-    - "Build Back Better , 90% killed in Senate"
-    - "STOCK Act enforcement"
+    - PRO Act , labor organizing rights
+    - Drug pricing negotiation
+    - Build Back Better , 90% killed in Senate
+    - STOCK Act enforcement
   top-donors:
-    - name: "AIPAC"
-      amount: "$3.2M"
-    - name: "Goldman Sachs"
-      amount: "$2.1M"
-    - name: "PhRMA"
-      amount: "$1.9M"
-    - name: "Lockheed Martin"
-      amount: "$900K"
-  gap-stat: "$1.6B raised , 90% of BBB killed by donor-class Senate"
-party: "Democrat"
-chamber: "House"
-state: "California"
-state-abbr: "CA"
+    - name: AIPAC
+      amount: $3.2M
+    - name: Goldman Sachs
+      amount: $2.1M
+    - name: PhRMA
+      amount: $1.9M
+    - name: Lockheed Martin
+      amount: $900K
+  gap-stat: $1.6B raised , 90% of BBB killed by donor-class Senate
+party: Democrat
+chamber: House
+state: California
+state-abbr: CA
 district: "12"
 leadership-roles:
-  - "Speaker"
+  - Speaker
 issues:
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-  - "Labor and Employment"
+  - Armed Forces and National Security
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Immigration
+  - International Affairs
+  - Labor and Employment
 top-donors:
-  - "Michael Bloomberg"
-  - "Haim Saban"
-  - "AIPAC - American Israel Public Affairs Committee"
-  - "SEIU - Service Employees International Union"
-  - "California Labor Federation"
-  - "Blue Shield of California"
-  - "UnitedHealth Group - Optum"
-  - "Kaiser Permanente"
-total-received: "$2,408,010"
-fec-candidate-id: "H8CA05035"
-bioguide-id: "P000197"
+  - Michael Bloomberg
+  - Haim Saban
+  - AIPAC - American Israel Public Affairs Committee
+  - SEIU - Service Employees International Union
+  - California Labor Federation
+  - Blue Shield of California
+  - UnitedHealth Group - Optum
+  - Kaiser Permanente
+total-received: $2,408,010
+fec-candidate-id: H8CA05035
+bioguide-id: P000197
 last-enriched: "2026-04-13"
 source-types:
   - DOJ
@@ -66,23 +66,23 @@ corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): P000197. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
-wikidata-id: "Q170581"
-wikipedia-url: "https://en.wikipedia.org/wiki/Nancy_Pelosi"
-wikipedia-extract: "Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the United States House of Representatives, serving from 2007 to 2011 and again from 2019 to 2023."
+wikidata-id: Q170581
+wikipedia-url: https://en.wikipedia.org/wiki/Nancy_Pelosi
+wikipedia-extract: Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the United States House of Representatives, serving from 2007 to 2011 and again from 2019 to 2023.
 born: "1940-03-26"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: P000197. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-total-raised: "$2,408,010"
-total-spent: "$3,306,927"
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: P000197. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+total-raised: $2,408,010
+total-spent: $3,306,927
 cash-on-hand: "1179149.96"
 fec-cycle: 2026
-donors: "[[Google - Alphabet]] · [[House Majority PAC]]"
+donors: "[[Google - Alphabet]] · [[House Majority PAC]] · [[Blue Shield of California]] · [[Democratic Small Dollar Networks]] · [[California Labor Federation]] · [[Kaiser Permanente]] · [[Jeffrey Katzenberg]] · [[UnitedHealth Group - Optum]] · [[FUTURE45]] · [[Congressional Leadership Fund]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[SEIU - Service Employees International Union]] · [[AIPAC - American Israel Public Affairs Committee]] · [[VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)]] · [[Mark Zuckerberg]]"
 ---
 
 <!-- auto:data-panel start -->

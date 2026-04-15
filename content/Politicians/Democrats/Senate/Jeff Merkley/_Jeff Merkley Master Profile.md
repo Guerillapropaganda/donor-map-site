@@ -1,43 +1,43 @@
 ---
-title: "Jeff Merkley"
+title: Jeff Merkley
 type: politician
 content-readiness: ready
-central-thesis: "Merkley is the vault's control case , the senator who most consistently operates against the donor-class model that defines his colleagues. He stopped taking corporate PAC money. He was the only senator to endorse Sanders. He authored the Volcker ..."
-last-updated: 2026-04-15
+central-thesis: Merkley is the vault's control case , the senator who most consistently operates against the donor-class model that defines his colleagues. He stopped taking corporate PAC money. He was the only senator to endorse Sanders. He authored the Volcker ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: Senate
+state: Oregon
+state-abbr: OR
 committees:
-  - "Budget"
-  - "Environment & Public Works"
+  - Budget
+  - Environment & Public Works
 issues:
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "International Affairs"
-  - "Native Americans"
-  - "Transportation and Public Works"
+  - Civil Rights and Liberties, Minority Issues
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Health
+  - International Affairs
+  - Native Americans
+  - Transportation and Public Works
 top-donors:
-  - "Labor Unions"
-  - "Small Dollar Donors"
-total-received: "$6,114,210"
-fec-candidate-id: "S8OR00207"
+  - Labor Unions
+  - Small Dollar Donors
+total-received: $6,114,210
+fec-candidate-id: S8OR00207
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 last-enriched: "2026-04-11"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
-bioguide-id: "M001176"
-donors: "[[California Nurses Association]]"
+bioguide-id: M001176
+donors: "[[California Nurses Association]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[Labor Unions]], [[National Republican Senatorial Committee]], [[League of Conservation Voters]], [[FREEDOM PARTNERS ACTION FUND INC]]"
 ---
 
 <!-- auto:data-panel start -->

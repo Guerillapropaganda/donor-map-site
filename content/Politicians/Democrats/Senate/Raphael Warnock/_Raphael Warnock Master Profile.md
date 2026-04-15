@@ -3,40 +3,40 @@ title: Raphael Warnock
 type: politician
 content-readiness: ready
 central-thesis: "Raphael Warnock represents the moral authority brand in Democratic politics: a pastor from MLK's pulpit brings authenticity and historic weight to political messaging, particularly on racial justice and inequality. Yet Warnock's donor base and pol..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
 chamber: Senate
 state: Georgia
 state-abbr: GA
-bioguide-id: "W000790"
+bioguide-id: W000790
 committees:
-  - "Agriculture, Nutrition, and Forestry"
-  - "Banking, Housing, and Urban Affairs"
-  - "Commerce, Science, and Transportation"
-  - "Special Committee on Aging"
+  - Agriculture, Nutrition, and Forestry
+  - Banking, Housing, and Urban Affairs
+  - Commerce, Science, and Transportation
+  - Special Committee on Aging
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Health"
-  - "Public Lands and Natural Resources"
-  - "Taxation"
+  - Agriculture and Food
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Education
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Health
+  - Public Lands and Natural Resources
+  - Taxation
 top-donors:
-  - "National tech / media donors ($13.4M from California 2022)"
-  - "Healthcare sector PAC donors"
-  - "Out-of-state individual donors (92% of 2022 cycle)"
-total-received: "$6,047,785"
-fec-candidate-id: "S0GA00559"
+  - National tech / media donors ($13.4M from California 2022)
+  - Healthcare sector PAC donors
+  - Out-of-state individual donors (92% of 2022 cycle)
+total-received: $6,047,785
+fec-candidate-id: S0GA00559
 govtrack-id: 456858
 bills-sponsored: 24
 bills-cosponsored: 297
-website: 'https://www.warnock.senate.gov'
+website: https://www.warnock.senate.gov
 phone: 202-224-3643
 source-types:
   - Congress
@@ -49,16 +49,14 @@ known-gaps:
   - $170M combined 2020-2022 fundraising figure needs FEC filing cross-check (currently cited via aggregated state-level breakdowns without URL)
 opposes: "[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] · [[NRSC]]"
 related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]] · [[Healthcare Sector]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "Tech and Media Donors (national),Healthcare Sector,Worker Power PAC for Georgia,Out-of-state individual donors (92% of 2022 cycle) · [[David McIntosh]]"
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
+donors: "[[David McIntosh]] · [[Worker Power PAC for Georgia]] · [[Senate Leadership Fund]] · [[Healthcare Sector]] · [[PEACHTREE PAC]] · [[AMERICAN CROSSROADS]] · [[WORKER POWER PAC FOR GEORGIA]] · [[NRSC]]"
+editorial-review-date: "2026-04-10"
+editorial-reviewer: Research Claude
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide W000790, GovTrack, warnock.senate.gov). Strong class analysis framing: 'moral authority brand vs. corporate Democrat alignment' , the MLK pulpit as political asset question. 2020 vs 2022 donor base shift documented (2020: unemployed median donor, grassroots-heavy; 2022: 92% out-of-state, tech/entertainment/finance dominant). Core contradiction well-drawn: Ebenezer Baptist pulpit grants moral authority derived from King's Poor People's Campaign legacy, but Senate record aligns with healthcare/tech donor interests, not King's economic vision. Donation-to-policy timeline broken down by sector (National Donor Machine, Tech/Infrastructure, Healthcare/Pharma). FIXED: converted opposes field from YAML folded scalar to single-line quoted string (same pattern that broke Tucker Carlson and Hillary Clinton , preventive fix). FIXED: removed inline body donors:: and profile-status:: dataview lines per frontmatter-only rule. FIXED: removed duplicate --- after frontmatter. Added bioguide-id W000790, committees list, structured opposes/donors, expanded issues. Zero A000383 contamination, zero (URL NEEDED) tags, DOJ auto-block already stripped earlier this session. Ready for editor review."
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
 ---
 

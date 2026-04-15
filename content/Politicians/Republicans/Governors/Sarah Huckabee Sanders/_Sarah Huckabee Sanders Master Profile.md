@@ -1,24 +1,24 @@
 ---
-title: "Sarah Huckabee Sanders"
+title: Sarah Huckabee Sanders
 type: politician
 content-readiness: draft
-central-thesis: "Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmi..."
-last-updated: 2026-04-15
+central-thesis: Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmi...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Governor"
-state: "Arkansas"
-state-abbr: "AR"
+party: Republican
+chamber: Governor
+state: Arkansas
+state-abbr: AR
 top-donors:
-  - "Walton Family Foundation"
+  - Walton Family Foundation
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]] · [[National Nurses United]]"
-donors: "[[National Nurses United]]"
+donors: "[[National Nurses United]], [[Walton Family Foundation]]"
 ---
 
 <!-- auto:data-panel start -->

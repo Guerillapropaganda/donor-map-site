@@ -1,31 +1,27 @@
 ---
-title: "PG&E"
+title: PG&E
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Energy & Utilities
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]]"
 ein: "943358729"
-annual-revenue: "$23.4M"
-net-assets: "$99.5M"
+annual-revenue: $23.4M
+net-assets: $99.5M
 tax-year: "2023"
 related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]] · [[_Gavin Newsom Master Profile]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Raytheon Technologies]]"
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "221122"
 federal-awards-total: 0
 federal-contracts-count: 25
 federal-grants-count: 2
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run lda pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

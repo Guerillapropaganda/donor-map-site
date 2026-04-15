@@ -2,37 +2,30 @@
 title: AFSCME - American Federation of State County and Municipal Employees
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 sector: Labor Unions
 entity-type: Individual Donor
-politicians-funded:
-  - Pete Aguilar
-  - Mark Takano
-  - Ritchie Torres
-  - Kyrsten Sinema
-  - Barbara Lee
-  - Mike Lee
-  - Richard Neal
+politicians-funded: "[[Pete Aguilar]], [[Ritchie Torres]], [[Mike Lee]], [[Kyrsten Sinema]], [[Barbara Lee]], [[Richard Neal]], [[Mark Takano]]"
 issues:
   - Labor & Workers
-ofac-sdn-match: 'true'
-last-enriched: '2026-04-07'
+ofac-sdn-match: "true"
+last-enriched: "2026-04-07"
 ofac-programs:
   - CAATSA - RUSSIA
   - RUSSIA-EO14024
 court-cases: 2
 court-jurisdictions:
-  - 'District Court, D. Arizona'
-  - 'District Court, S.D. Florida'
+  - District Court, D. Arizona
+  - District Court, S.D. Florida
 federal-register-mentions: 1
 regulatory-agencies:
   - Federal Motor Carrier Safety Administration
   - Transportation Department
-ein: '332579905'
+ein: "332579905"
 nonprofit-status: 501(c)(5)
-total-political-spend: '$4,933,884'
+total-political-spend: $4,933,884
 sec-filings: 12
 sec-form-types:
   - 10-K
@@ -42,7 +35,7 @@ sec-form-types:
   - PRE 14A
 related: ">- · [[Mike Lee]] · [[Ritchie Torres]]"
 cross-vault-triangulation-count: 12
-audit-a-plus-passed: '2026-04-11'
+audit-a-plus-passed: "2026-04-11"
 aliases:
   - AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E
 ---

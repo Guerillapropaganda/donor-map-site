@@ -1,31 +1,31 @@
 ---
-title: "Tom Steyer"
+title: Tom Steyer
 type: politician
 content-readiness: draft
 central-thesis: "Tom Steyer is the billionaire who wants to tax billionaires , the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments no..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: Governor
+state: California
+state-abbr: CA
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 top-donors:
-  - "Michael Bloomberg"
-  - "CNA - California Nurses Association"
-total-received: "$353,041,956"
-fec-candidate-id: "P00012716"
+  - Michael Bloomberg
+  - CNA - California Nurses Association
+total-received: $353,041,956
+fec-candidate-id: P00012716
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]]"
-donors: "[[National Progressive Donor Networks]] · [[Climate Philanthropy - The Green Billionaires]]"
+donors: "[[National Progressive Donor Networks]] · [[Climate Philanthropy - The Green Billionaires]] · [[CNA - California Nurses Association]] · [[Michael Bloomberg]]"
 ---
 
 <!-- auto:data-panel start -->

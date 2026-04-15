@@ -1,26 +1,26 @@
 ---
-title: "Rick Scott"
+title: Rick Scott
 type: politician
 content-readiness: draft
 central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters , he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune , his content-readiness: draft52M+ in ca..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: Senate
+state: Florida
+state-abbr: FL
 top-donors:
-  - "Fanjul Family - Florida Crystals"
-total-received: "$1,289,827"
-fec-candidate-id: "S8FL00273"
-bioguide-id: "S001217"
+  - Fanjul Family - Florida Crystals
+total-received: $1,289,827
+fec-candidate-id: S8FL00273
+bioguide-id: S001217
 stock-trades: 142
 govtrack-id: 412838
 bills-sponsored: 142
 bills-cosponsored: 331
-website: "https://www.rickscott.senate.gov"
-phone: "202-224-5274"
+website: https://www.rickscott.senate.gov
+phone: 202-224-5274
 source-types:
   - DOJ
   - FEC
@@ -29,31 +29,31 @@ corroboration-count: 3
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S001217. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Tom Steyer Master Profile]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]]"
 last-enriched: "2026-04-10"
 issues:
-  - "Agriculture and Food"
-  - "Animals"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Energy"
+  - Agriculture and Food
+  - Animals
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Energy
 committees:
-  - "Senate Committee on Armed Services"
-  - "Senate Committee on Foreign Relations"
-  - "Senate Committee on Homeland Security and Governmental Affairs"
-  - "Senate Committee on the Budget"
-  - "Senate Special Committee on Aging"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S001217. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-donors: "[[National Republican Senatorial Committee]] · [[AFGE - American Federation of Government Employees]]"
+  - Senate Committee on Armed Services
+  - Senate Committee on Foreign Relations
+  - Senate Committee on Homeland Security and Governmental Affairs
+  - Senate Committee on the Budget
+  - Senate Special Committee on Aging
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: S001217. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+donors: "[[National Republican Senatorial Committee]] · [[AFGE - American Federation of Government Employees]] · [[Fanjul Family - Florida Crystals]] · [[Raytheon (RTX Corporation)]] · [[Blue Shield of California]]"
 ---
 
 <!-- auto:data-panel start -->
