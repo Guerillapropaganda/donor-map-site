@@ -479,6 +479,28 @@ const SCRIPTS: ScriptEntry[] = [
     category: "health-check",
   },
   {
+    name: "Deps Sync Check",
+    command: "node scripts/deps-sync-check.cjs",
+    purpose: "Detect package.json / node_modules drift (root + ops).",
+    plainEnglish:
+      "Catches the 2026-04-15 Clerk incident class: someone adds a dependency to package.json, commits the lockfile, but nobody re-runs npm install. The new dep sits in package.json but is MISSING from node_modules. The Ops dev server then throws 'Module not found: @clerk/nextjs' on next cold build. This check compares package.json against node_modules for BOTH the root Quartz build AND the ops/ Next.js app, reports exactly which packages are missing, and gives a one-line fix command. Runs automatically via the .husky/post-merge hook after every git pull — warns loudly if a merge brings in dep changes. Also wired into the pre-commit gate as sentinel #8 (blocks commits that stage package.json without package-lock.json). Exit 0 = clean, exit 1 = drift.",
+    output: "Console only — exit code",
+    when: "on-demand",
+    danger: "safe",
+    category: "health-check",
+  },
+  {
+    name: "Deps Sync Fix",
+    command: "node scripts/deps-sync-check.cjs --fix",
+    purpose: "Run npm install in any directory with drifted deps.",
+    plainEnglish:
+      "Runs deps-sync-check.cjs and, if any directory is drifted, automatically runs `npm install` there. Covers root/ (Quartz) and ops/ (Next.js app). Use this as the one-liner fix when the post-merge hook warns you, or when you switch branches and the post-checkout hook flags drift. Idempotent — safe to re-run.",
+    output: "Runs npm install in drifted dirs",
+    when: "when-needed",
+    danger: "writes-profiles",
+    category: "cleanup",
+  },
+  {
     name: "Phase 6 Deferred Items Collector",
     command: "node scripts/phase-6-deferred-items-collector.cjs --write",
     purpose: "Walk every phase doc + ADR for deferred items and known issues.",

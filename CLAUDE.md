@@ -26,14 +26,24 @@ You are **Code Claude** — you build, style, and deploy thedonormap.org. Editor
 There are three layers of automation running against the vault. Every Claude session, assume these are active unless David says otherwise.
 
 ### 1. Pre-commit gate (husky `.husky/pre-commit`)
-Every `git commit` runs three sentinels automatically. A failure blocks the commit — the commit simply does not happen, no HEAD update.
+Every `git commit` runs eight sentinels automatically. A failure blocks the commit — the commit simply does not happen, no HEAD update.
 - **self-review-mirror** — scans NEW lines only (not pre-existing content) for em dashes, banned AI vocabulary (delve, moreover, furthermore, plethora, tapestry, testament to, etc.), and defamation-prone words (fraud, corrupt, scheme, bribed) outside blockquotes. Also blocks verified-profile regressions (losing Tier 1 source types, losing `## Class Analysis` heading).
 - **yaml-sanity-scan** — rejects broken frontmatter.
 - **duplicate-bioguide-sentinel** — rejects politician ID collisions.
+- **relationship-edge-sentinel** — validates `data/relationships.jsonl` if staged (Phase 3 canonical edge store schema).
+- **canonical-store-sentinel** — blocks hand-edits to frontmatter relationship fields (`related`, `donors`, `top-donors`, `politicians-funded`, `opposes`, `stories`, `*-generated`) unless `data/relationships.jsonl` or a rebuilder script is also staged in the same commit. Enforces the Phase 3 canonical-store write path.
+- **phase-6-regression-tests** — runs the 20-test `node:test` regression suite in ~75 ms. Each test maps to a specific bug fixed in Phases 1-5.
+- **query-engine-contract-tests** — runs the 20-test query-engine API contract suite in ~250 ms. Locks in the 6-subject `query()` / `count()` / `describe()` shape.
+- **deps-staging-sentinel** — if `package.json` is staged, requires the matching `package-lock.json` to be staged too. Catches "edited deps but forgot to run `npm install`" — the 2026-04-15 Clerk incident class.
 
 Emergency bypass: `SKIP_HOOKS=1 git commit ...` (use only when you're certain the gate is wrong, and document why). For intentional verified-profile regressions: `ALLOW_REGRESSION=1 git commit ...`.
 
 **What this means for Code Claude:** Don't manually run these scripts before committing — the hook does it. If a commit gets blocked, read the error and fix the real issue. Do NOT reach for `SKIP_HOOKS=1` as a first response.
+
+### 1a. Post-merge + post-checkout hooks (deps drift defense)
+`.husky/post-merge` runs after every `git pull` / `git merge`; `.husky/post-checkout` runs after every branch switch. If the merge/switch brings in changes to `package.json` or `package-lock.json` (root or `ops/`), these hooks run `scripts/deps-sync-check.cjs --quiet` and print a loud warning if `node_modules` is out of sync with `package.json`. They do NOT auto-install — they warn and print the fix command (`node scripts/deps-sync-check.cjs --fix`). Without these hooks, the 2026-04-15 Clerk incident repeats: someone adds a dep, you pull, dev server fails on next cold rebuild with "Module not found" and you don't know why.
+
+**CI mirror:** the `Ops Next.js Build` job in `.github/workflows/regression-tests.yml` runs `cd ops && npm ci && npx next build` on every PR + push to v4, catching any deps drift that slips past the local hooks.
 
 ### 2. Attention Queue (the "what should I work on" surface)
 Five background "producer" scripts surface findings to a single ranked queue that David reads at `/attention` in the ops app each day:

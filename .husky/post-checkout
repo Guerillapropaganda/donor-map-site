@@ -1,0 +1,61 @@
+#!/usr/bin/env sh
+# Post-checkout hook — runs after `git checkout <branch>`.
+#
+# Arguments git passes:
+#   $1 = previous HEAD
+#   $2 = new HEAD
+#   $3 = flag (1 if branch switch, 0 if file checkout)
+#
+# We only care about branch switches. On a branch switch, if
+# package.json / package-lock.json differ between old and new HEAD,
+# warn the dev that node_modules may be stale.
+#
+# Same philosophy as post-merge: WARN, never auto-install.
+#
+# Bypass: SKIP_HOOKS=1 disables all hooks.
+
+if [ "$SKIP_HOOKS" = "1" ]; then
+  exit 0
+fi
+
+# Only run on branch switches, not file checkouts
+if [ "$3" != "1" ]; then
+  exit 0
+fi
+
+PREV="$1"
+NEW="$2"
+
+# Skip if either ref is empty (shouldn't happen on normal checkouts)
+if [ -z "$PREV" ] || [ -z "$NEW" ]; then
+  exit 0
+fi
+
+# Check if dep files differ between the two refs
+CHANGED=$(git diff --name-only "$PREV" "$NEW" 2>/dev/null | grep -E "(^|/)package(-lock)?\.json$" || true)
+
+if [ -z "$CHANGED" ]; then
+  exit 0
+fi
+
+# Only warn if the drift check actually reports drift
+if node scripts/deps-sync-check.cjs --quiet >/dev/null 2>&1; then
+  exit 0
+fi
+
+echo ""
+echo "════════════════════════════════════════════════════════════"
+echo "  ⚠  DEPS DRIFT DETECTED AFTER BRANCH SWITCH"
+echo "════════════════════════════════════════════════════════════"
+echo ""
+echo "  Branch switch changed these dep files:"
+echo "$CHANGED" | sed 's/^/    /'
+echo ""
+echo "  node_modules is stale for the new branch."
+echo ""
+echo "  FIX:"
+echo "    node scripts/deps-sync-check.cjs --fix"
+echo ""
+echo "════════════════════════════════════════════════════════════"
+echo ""
+exit 0
