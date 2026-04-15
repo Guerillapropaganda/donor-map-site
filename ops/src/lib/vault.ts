@@ -301,7 +301,7 @@ export function completenessScore(
   topLevelType?: string | null,
 ): number {
   const weights = (topLevelType && WEIGHTS_BY_TYPE[topLevelType]) || DEFAULT_WEIGHTS
-  const tier1Floor = (topLevelType && TIER1_FLOOR_BY_TYPE[topLevelType]) ?? 3
+  const tier1Floor: number = topLevelType ? (TIER1_FLOOR_BY_TYPE[topLevelType] ?? 3) : 3
 
   // 1. Frontmatter — has key metadata fields. Scale the 0..1 fraction
   // by the weight.

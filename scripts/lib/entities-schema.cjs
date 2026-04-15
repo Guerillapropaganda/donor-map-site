@@ -73,6 +73,7 @@ const IDEOLOGICAL_FUNCTIONS = Object.freeze([
   "libertarian-ideology",
   "religious-right",
   "carceral-expansion",
+  "surveillance-state",
   "imperialist-aligned",
   "zionist-aligned",
   "nativist",

@@ -3,39 +3,15 @@
 import React, { useState, useEffect } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import Link from "next/link"
-import { readinessColor, typeColor } from "@/lib/vault"
+import { readinessColor, typeColor, type Profile } from "@/lib/vault"
 import { VerificationChecklist, evaluateReadinessEligibility, evaluateStoryGrading } from "@/components/VerificationChecklist"
 import { PipelineDataViewer } from "@/components/PipelineDataViewer"
 
-interface ProfileData {
-  title: string
-  path: string
-  type: string
-  party?: string
-  chamber?: string
-  state?: string
-  sector?: string
-  contentReadiness: string
-  sourceTier?: number
-  lastUpdated?: string
-  lastEnriched?: string
-  totalRaised?: string
-  lobbyingSpend?: string
-  related?: string
-  opposes?: string
-  donors?: string
-  // Editorial review fields
-  editorialReviewDate?: string
-  editorialReviewer?: string
-  editorialResult?: string
-  editorialBlockers?: string[]
-  verifiedBlocks?: string[]
-  checklistNa?: string[]
-  knownGaps?: string[]
-  corrections?: string[]
-  lastVerifiedBy?: string
-  internalNotes?: string
-}
+// ProfileData is the shape of /api/profile's `profile` field — identical
+// to the canonical Profile type in @/lib/vault. Previously declared as a
+// local subset, which caused Profile/ProfileData mismatches whenever the
+// page passed profile data into components that expected Profile.
+type ProfileData = Profile
 
 interface SourceData {
   total: number; tier1: number; tier2: number; tier3: number; tier4: number; broken: number
@@ -246,7 +222,7 @@ export default function ProfilePage() {
   function bulkMarkUnchecked(status: "ok" | "broken" | "unsure") {
     const newOverrides: Record<number, "ok" | "broken" | "unsure" | "yellow"> = { ...urlOverrides }
     urls.forEach((u, i) => {
-      const current = urlOverrides[i] || u.triageStatus || (u.archived ? "broken" : "unchecked")
+      const current: string = urlOverrides[i] || u.triageStatus || (u.archived ? "broken" : "unchecked")
       if (current === "unchecked") newOverrides[i] = status
     })
     setUrlOverrides(newOverrides)

@@ -282,6 +282,7 @@ export interface QueryOpts {
   status?: ProposalStatus
   confidence?: "high" | "medium" | "low"
   capital_type?: CapitalType
+  proposed_by?: string
   search?: string
   limit?: number
   offset?: number
@@ -321,6 +322,8 @@ export function queryProposals(opts: QueryOpts = {}): QueryResult {
   if (opts.confidence) filtered = filtered.filter((p) => p.confidence === opts.confidence)
   if (opts.capital_type)
     filtered = filtered.filter((p) => p.tags.capital_type === opts.capital_type)
+  if (opts.proposed_by)
+    filtered = filtered.filter((p) => p.proposed_by === opts.proposed_by)
   if (opts.search) {
     const q = opts.search.toLowerCase()
     filtered = filtered.filter((p) => p.entity_name.toLowerCase().includes(q))
