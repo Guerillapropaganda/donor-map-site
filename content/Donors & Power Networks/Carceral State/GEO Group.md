@@ -7,6 +7,10 @@ source-tier: 2
 parent: null
 sector: Carceral State
 entity-type: Corporation
+aliases:
+  - "GEO Group"
+  - "GEO Group - Private Prisons"
+  - "GEO Group Inc"
 politicians-funded: "[[Marco Rubio]], [[Chad Bianco]], [[Donald Trump]], [[Gavin Newsom]], [[Pam Bondi]]"
 federal-contracts: "959292"
 ofac-sdn-match: "true"
