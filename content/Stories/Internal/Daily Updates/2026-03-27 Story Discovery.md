@@ -51,7 +51,6 @@ known-gaps:
 - DOGE as policy instrument
 
 ### Sources (Chrome-verified 2026-03-27):
-- ~~[Washington Post: Elon Musk's business empire is built on $38 billion in government funding](https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN Business: Musk's Starlink gets FAA contract, raising new conflict of interest concerns](https://www.cnn.com/2025/02/25/business/musk-faa-starlink-contract) (Tier 2) (VERIFIED)
 - [Broadband Breakfast: Starlink and DOGE: The $42 Billion Conflict of Interest in Rural Broadband](https://broadbandbreakfast.com/starlink-and-doge-the-42-billion-conflict-of-interest-in-rural-broadband/) (Tier 3) (VERIFIED)
 - [Campaign Legal Center: Is Musk Using the FAA to Benefit Himself and His SpaceX Subsidiary, Starlink?](https://campaignlegal.org/update/musk-using-faa-benefit-himself-and-his-spacex-subsidiary-starlink) (Tier 2) (VERIFIED)
@@ -297,3 +296,9 @@ known-gaps:
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Elon Musk's business empire is built on $38 billion in government funding](https://www.washingtonpost.com/technology/interactive/2025/elon-musk-business-government-contracts-funding/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

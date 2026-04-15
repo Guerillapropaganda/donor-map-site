@@ -103,7 +103,6 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 ### Sources
 
 - {{src:src_005628}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: 2005 Bankruptcy Act](https://ballotpedia.org/MBNA_Corporation) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2020)
@@ -116,7 +115,6 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 | Net Assets | $344 |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 842588790](https://projects.propublica.org/nonprofits/organizations/842588790) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2022_prefixes_81-99%2F842588790_202012_990EZ_2022052420133297.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Corporate Structure (GLEIF)
@@ -200,7 +198,6 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
 - [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 <!-- auto:occ-enforcement pending-merge 2026-04-15 -->
@@ -238,3 +235,11 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 
 <!-- auto:occ-enforcement pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bankruptcy Abuse Prevention Act S. 256](https://www.congress.gov/bill/109th-congress/senate-bill/256)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2022_prefixes_81-99%2F842588790_202012_990EZ_2022052420133297.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

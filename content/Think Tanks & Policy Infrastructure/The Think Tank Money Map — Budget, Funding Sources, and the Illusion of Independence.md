@@ -235,8 +235,13 @@ The think tank ecosystem is the research and development department of the donor
 All financial figures derived from IRS 990 filings accessed via ProPublica Nonprofit Explorer. Revenue and asset data compiled from individual vault profiles (all at `ready` status with Tier 1 source citations):
 
 - [ProPublica Nonprofit Explorer: All 25 think tank 990 filings](https://projects.propublica.org/nonprofits/) (Tier 1) (VERIFIED), accessed via individual profile source citations
-- ~~[RAND Corporation: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (URL broken, archived by Ops) (Tier 3, self-reported, consistent with 990 data)
 - [Quincy Institute: Think Tank Funding Tracker, defense contractor contributions](https://responsiblestatecraft.org/think-tank-funding-tracker/) (VERIFIED) (Tier 2, previously Chrome-verified in Atlantic Council and BPC profiles)
 - [Transparify / TTCSP: Global Go To Think Tank Index 2019, $1.029B/$1.078B defense contractor figure](https://repository.upenn.edu/entities/publication/07977660-60a1-4a63-9646-031d4610f1c0) (Tier 2) (NEEDS REVIEW) (Chrome-verified 2026-03-27, old handle URL broken, corrected to repository items URL)
 - All individual vault profiles (ready status, all Chrome-verified): [[Heritage Foundation]] · [[Federalist Society]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Manhattan Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Hudson Institute]] · [[Heartland Institute]] · [[Mercatus Center]] · [[Center for American Progress]] · [[Economic Policy Institute]] · [[Roosevelt Institute]] · [[New America]] · [[Urban Institute]] · [[Center on Budget and Policy Priorities]] · [[Brennan Center for Justice]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[RAND Corporation]] · [[Bipartisan Policy Center]] · [[Third Way]] · [[Aspen Institute]] · [[Atlantic Council]] · [[Center for a New American Security]]
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[RAND Corporation: 2024 Annual Report](https://www.rand.org/pubs/corporate_pubs/CPA1065-5.html)~~ (URL broken, archived by Ops) (Tier 3, self-reported, consistent with 990 data)

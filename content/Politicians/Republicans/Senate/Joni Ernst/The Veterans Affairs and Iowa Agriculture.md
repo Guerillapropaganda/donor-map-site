@@ -105,10 +105,15 @@ The PACT Act episode is the Donor-Class Override pattern with a twist: it wasn't
 - [Iowa Capital Dispatch: 'These people don't care'. GOP stalls burn pit bill](https://iowacapitaldispatch.com/2022/07/28/these-people-dont-care-u-s-senate-gop-stalls-bill-for-veterans-exposed-to-burn-pits/) (Tier 2) (VERIFIED)
 - [NPR: PACT Act passes Senate, aiding veterans exposed to burn pits and other toxins](https://www.npr.org/2022/08/02/1115325176/pact-act-veterans-burn-pits-toxins-passes-senate) (Tier 2) (VERIFIED)
 - [Radio Iowa: Grassley, Ernst among 86 senators voting to send PACT Act to president](https://www.radioiowa.com/2022/08/03/grassley-ernst-among-86-senators-voting-to-send-pact-act-to-president/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: S.2372. VA MISSION Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2372)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: H.R.3967. Honoring our PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate Agriculture Committee: Farm Bill 2023. Commodity Programs, Crop Insurance, and Credit](https://www.agriculture.senate.gov/hearings/farm-bill-2023-commodity-programs-crop-insurance-and-credit) (Tier 1) (VERIFIED)
-- ~~[CBO: The Veterans Community Care Program. Background and Early Effects](https://www.cbo.gov/publication/57583)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: S.2372. VA MISSION Act of 2018](https://www.congress.gov/bill/115th-congress/senate-bill/2372)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R.3967. Honoring our PACT Act of 2022](https://www.congress.gov/bill/117th-congress/house-bill/3967)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[CBO: The Veterans Community Care Program. Background and Early Effects](https://www.cbo.gov/publication/57583)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

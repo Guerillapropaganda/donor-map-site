@@ -105,7 +105,6 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 - [Supreme Court: Bowman v. Monsanto Co. 569 U.S. 278 (2013)](https://supreme.justia.com/cases/federal/us/569/278/) (Tier 1) (VERIFIED)
 - [EPA: Glyphosate interim registration review decision](https://www.epa.gov/ingredients-used-pesticide-products/glyphosate) (Tier 1) (VERIFIED)
 - [NPR: The "Monsanto Protection Act" explained](https://www.npr.org/sections/thesalt/2013/03/21/174973235/did-congress-just-give-gmos-a-free-pass-in-the-courts) (Tier 2) (VERIFIED)
-- ~~[Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -155,5 +154,11 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Securities & Exchange Commission (SEC)
 
-- ~~[Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Monsanto%20-%20Bayer)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Ballotpedia: Monsanto](https://ballotpedia.org/Monsanto_Company)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Monsanto%20-%20Bayer)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -117,12 +117,17 @@ Clean-Record Agreements, the most underreported mechanism of police union power 
 
 ### Sources
 
-- ~~[CalMatters: Cop cash, law enforcement campaign contributions](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [UC Berkeley Journalism: PORAC clean-record agreements](https://journalism.berkeley.edu/projects/this-is-the-secret-system-that-covers-up-police-misconduct-and-ensures-problem-officers-can-get-hired-again/) (Tier 2) (VERIFIED)
 - [Courage California Institute: Police union spending](https://couragecaliforniainstitute.org/investing-in-public-safety-the-influence-of-police-unions-and-associations/) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ### Federal Subawards & Spending Breakdown
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Cop cash, law enforcement campaign contributions](https://calmatters.org/category/politics/2022/03/california-law-enforcement-campaign-contributions/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FollowTheMoney.org: PORAC political spending](https://followthemoney.org/?q=PORAC)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)

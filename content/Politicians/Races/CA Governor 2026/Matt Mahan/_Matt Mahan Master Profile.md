@@ -159,7 +159,6 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 
 ## Sources
 
-- ~~[FollowTheMoney.org: Matt Mahan 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Matt%20Mahan#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [OpenSecrets: Matt Mahan campaign finance](https://www.opensecrets.org/members-of-congress/summary?displayname=Matt%20Mahan) (Tier 1) (VERIFIED)
 - ABC7 San Francisco: tech billionaire donor investigation (Tier 2)
 - [San José Spotlight: Billionaire techies back Matt Mahan campaign](https://sanjosespotlight.com/billionaire-techies-back-matt-mahans-california-governor-campaign/) (Tier 2) (VERIFIED)
@@ -183,3 +182,9 @@ The pattern: every policy creates regulatory certainty for tech industry investm
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FollowTheMoney.org: Matt Mahan 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Matt%20Mahan#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)

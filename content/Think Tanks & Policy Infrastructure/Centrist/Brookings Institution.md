@@ -336,8 +336,6 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 - [Hamilton Project: About, founding, mission, advisory council](https://www.hamiltonproject.org/about/) (Tier 3) (VERIFIED)
 - [Hamilton Project: Advisory Council, full member listing](https://www.hamiltonproject.org/about/advisory-council/) (Tier 3) (VERIFIED)
 - [GBH/NYT Investigation: Brookings Big Think Tank's Push for Corporate Donors' Agendas (Aug 2016). Corporate Overviews Tracking database, Lennar case, JPMorgan internal docs, draft-sharing with donors](https://www.wgbh.org/news/national/2016-08-07/brookings-big-think-tanks-push-corporate-donors-agendas-as-cash-pours-in) (Tier 2) (VERIFIED)
-- ~~[NYT Investigation: Foreign Powers Buy Influence at Think Tanks (Sept 2014). Qatar $14.8M, FARA concerns, Saleem Ali "no-go zones"](https://www.nytimes.com/2014/09/07/us/politics/foreign-powers-buy-influence-at-think-tanks.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[NYT Opinion: Is Money Corrupting Research? (Oct 2015). Litan/Capital Group scandal](https://www.nytimes.com/2015/10/10/opinion/is-money-corrupting-research.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Mother Jones: Brookings, Elizabeth Warren, and Qatar (Oct 2022). Allen scandal, congressional response, 2007 MOU details](https://www.motherjones.com/politics/2022/10/brookings-institution-elizabeth-warren-chuck-grassley-ted-cruz-qatar/) (Tier 2) (VERIFIED)
 - [CNN: Retired Gen. Allen resigns as Brookings president amid FBI probe (June 2022)](https://www.cnn.com/2022/06/13/politics/john-allen-brookings-institution-resignation) (Tier 2) (VERIFIED)
 - [Washington Post: John Allen leaves Brookings amid federal probe (June 2022)](https://www.washingtonpost.com/national-security/2022/06/12/brookings-institution-john-allen-resigns/) (Tier 2) (VERIFIED)
@@ -390,3 +388,10 @@ What Brookings represents structurally is the think tank as a **shadow governmen
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brookings%20Institution%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NYT Investigation: Foreign Powers Buy Influence at Think Tanks (Sept 2014). Qatar $14.8M, FARA concerns, Saleem Ali "no-go zones"](https://www.nytimes.com/2014/09/07/us/politics/foreign-powers-buy-influence-at-think-tanks.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NYT Opinion: Is Money Corrupting Research? (Oct 2015). Litan/Capital Group scandal](https://www.nytimes.com/2015/10/10/opinion/is-money-corrupting-research.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

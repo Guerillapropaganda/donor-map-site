@@ -83,7 +83,6 @@ The class dynamic: Contractor executives use access wealth (direct donations, re
 ### Sources
 
 - [FEC Receipts: Defense Contractor Campaign Spending 2014-2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[Congressional Budget Office: National Defense Authorization Appropriations](https://www.cbo.gov/publication/57950)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Public Citizen: "Defense Contractor Donations and Congressional Power"](https://www.citizen.org/article/military-industrial-complex-contributions-report/) (Tier 2) (VERIFIED)
 - [Responsible Statecraft: "The Defense Committee Chair and Contractor Capture"](https://responsiblestatecraft.org/military-industrial-complex/) (Tier 2) (VERIFIED)
 - [Open Secrets Revolving Door: Northrop Grumman Lobbying Roster](https://www.opensecrets.org/orgs/northrop-grumman/summary?id=D000000170) (Tier 1) (VERIFIED)
@@ -92,3 +91,9 @@ The class dynamic: Contractor executives use access wealth (direct donations, re
 ---
 #analysis
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congressional Budget Office: National Defense Authorization Appropriations](https://www.cbo.gov/publication/57950)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

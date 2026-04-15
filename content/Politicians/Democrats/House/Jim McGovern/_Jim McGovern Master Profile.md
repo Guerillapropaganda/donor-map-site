@@ -198,13 +198,11 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 ## Sources
 
 - {{src:src_006076}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House.gov: McGovern biography](https://mcgovern.house.gov/about/) (Tier 1) (VERIFIED)
 - [House Rules Committee: Ranking Member McGovern](https://democrats-rules.house.gov/about/chairman-mcgovern) (Tier 1) (VERIFIED)
 - [House.gov: McGovern introduces bill to prohibit Saudi arms sales](https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=397287) (Tier 1) (VERIFIED)
 - [House.gov: McGovern bill to hold China accountable for Tibet](https://mcgovern.house.gov/news/documentsingle.aspx?DocumentID=398453) (Tier 1) (VERIFIED)
 - [Radio Free Asia: China sanctions McGovern for criticizing human rights record](https://www.rfa.org/english/news/tibet/china-sanctions-us-lawmaker-criticizing-beijings-human-rights-record-07312024160017.html) (Tier 2) (VERIFIED)
-- ~~[Boston Globe: Lawmakers call for halt to Saudi arms sales — impact on Raytheon](https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Middle East Eye: McGovern leads bill to halt Saudi arms sales](https://www.middleeasteye.net/news/bill-halt-arms-sales-saudi-arabia-over-khashoggi-killing-introduced-us-congress) (Tier 2) (VERIFIED)
 - [GovTrack: Jim McGovern voting record](https://www.govtrack.us/congress/members/james_mcgovern/400263) (Tier 3) (NEEDS REVIEW)
 - [Ballotpedia: Jim McGovern](https://ballotpedia.org/Jim_McGovern_(Massachusetts) (VERIFIED)) (Tier 3)
@@ -268,7 +266,6 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400263)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Committee Assignments (Congress.gov)
@@ -360,3 +357,11 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 - [Source: Congress.gov](https://www.congress.gov/member/F000485) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: James P. McGovern](https://www.congress.gov/member/james-mcgovern/M000312)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Boston Globe: Lawmakers call for halt to Saudi arms sales - impact on Raytheon](https://www.bostonglobe.com/metro/2018/10/23/lawmakers-are-calling-for-halt-saudi-arms-sales-that-could-mean-big-hit-for-raytheon/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400263)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

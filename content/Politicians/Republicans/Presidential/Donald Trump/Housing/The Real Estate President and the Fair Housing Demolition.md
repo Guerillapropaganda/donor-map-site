@@ -105,9 +105,14 @@ The public housing operating fund would be cut $500 million. The capital fund cu
 - [ProPublica. Trump HUD Weakening Fair Housing Enforcement (2025)](https://www.propublica.org/article/trump-hud-weakening-enforcement-fair-housing-laws) (Tier 2) (VERIFIED)
 - [ACLU. Lawsuit Against Ben Carson on Fair Housing](https://www.aclu.org/news/racial-justice/were-suing-ben-carson-trying-dismantle-fair-housing) (Tier 2) (VERIFIED)
 - [Bipartisan Policy Center. Trump Executive Order on Homelessness (July 2025)](https://bipartisanpolicy.org/article/president-trumps-executive-order-on-homelessness-a-shift-in-federal-policy/) (Tier 2) (VERIFIED)
-- ~~[Center on Budget and Policy Priorities. Rental Assistance Time Limits Impact](https://www.cbpp.org/research/housing/rental-assistance-time-limits-would-place-more-than-3-million-people-half-of-them-children-risk)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR. Trump Budget Housing Rental Aid Cuts (May 2025)](https://www.npr.org/2019/04/03/709529287/bipartisan-disapproval-over-trump-administrations-housing-program-cuts) (Tier 2) (VERIFIED)
 - [OpenSecrets. NAR Lobbying Profile 2024](https://www.opensecrets.org/orgs/national-assn-of-realtors/lobbying?id=D000000062) (Tier 1) (VERIFIED)
 - [Treasury Department. Use of Opportunity Zone Tax Incentive](https://home.treasury.gov/system/files/131/WP-123.pdf) (Tier 1) (VERIFIED)
 - [California Department of Justice. AG Bonta Lawsuit Against Trump HUD (September 2025)](https://oag.ca.gov/media/news) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Center on Budget and Policy Priorities. Rental Assistance Time Limits Impact](https://www.cbpp.org/research/housing/rental-assistance-time-limits-would-place-more-than-3-million-people-half-of-them-children-risk)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

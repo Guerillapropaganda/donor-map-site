@@ -166,8 +166,6 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 
 ### Sources
 
-- ~~[OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Gun Owners of America lobbying profile](https://www.opensecrets.org/orgs/gun-owners-of-america/lobbying?id=D000026353) (Tier 1) (VERIFIED)
 - [SCOTUSblog: New York Rifle v. Bruen and Second Amendment doctrine](https://www.scotusblog.com/2022/06/a-minor-impact-on-gun-laws-but-a-potentially-momentous-shift-in-constitutional-method/) (Tier 3) (VERIFIED)
 - [Ballotpedia: Constitutional carry state list](https://ballotpedia.org/Constitutional_carry) (Tier 3) (VERIFIED)
@@ -219,11 +217,6 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1) (VERIFIED)
@@ -295,3 +288,15 @@ Gun Owners of America (GOA) is a gun rights organization in the United States. I
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Gun_Owners_of_America) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1771871) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Gun Owners of America organizational profile](https://www.opensecrets.org/orgs/gun-owners-of-america/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Gun Owners of America (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Gun%20Owners%20of%20America&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521256643/2019)~~ (URL broken, archived by Ops)

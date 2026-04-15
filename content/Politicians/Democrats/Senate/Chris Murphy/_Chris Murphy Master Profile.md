@@ -216,8 +216,6 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 
 - {{src:src_005532}} (Tier 1) (VERIFIED)
 - {{src:src_005532}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Chris Murphy member profile](https://www.congress.gov/member/chris-murphy/M001169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Murphy.senate.gov: Murphy-Young resolution on Saudi arms sales](https://www.murphy.senate.gov/newsroom/press-releases/murphy-young-announce-privileged-resolution-to-force-vote-on-us-saudi-security-relationship-recent-arms-sale) (Tier 1) (VERIFIED)
 - [Washington Post: Chris Murphy on gun-control laws after Uvalde](https://www.washingtonpost.com/magazine/2022/07/05/chris-murphy-uvalde-gun-laws/) (Tier 2) (VERIFIED)
 - [CBS News: Senators reflect on Bipartisan Safer Communities Act](https://www.cbsnews.com/news/gun-legislation-bipartisan-safer-communities-act-senators-chris-murphy-thom-tillis-john-cornyn-krysten-sinema/) (Tier 2) (VERIFIED)
@@ -253,7 +251,6 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/M001169)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -317,5 +314,13 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Chris Murphy](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Chris Murphy member profile](https://www.congress.gov/member/chris-murphy/M001169)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001169)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chris Murphy](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

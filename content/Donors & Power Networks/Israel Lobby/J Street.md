@@ -150,8 +150,6 @@ Domestic, campus free speech, antisemitism definition debates (opposes conflatio
 
 ### Sources
 
-- ~~[OpenSecrets: J Street organization profile](https://www.opensecrets.org/orgs/j-street/summary?id=D000052457)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: JStreetPAC 2024 profile](https://www.opensecrets.org/political-action-committees-pacs/jstreetpac/C00441949/summary/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [JStreetPAC: Our Work in 2024](https://jstreetpac.org/our-work-2024/) (Tier 3) (VERIFIED)
 - [Forward: J Street seeks elusive middle ground in 2026 primaries](https://forward.com/news/812101/j-street-aipac-israel-congress-2026/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: J Street profile](https://www.influencewatch.org/non-profit/j-street/) (Tier 3) (VERIFIED)
@@ -176,3 +174,10 @@ Domestic, campus free speech, antisemitism definition debates (opposes conflatio
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: J Street organization profile](https://www.opensecrets.org/orgs/j-street/summary?id=D000052457)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: JStreetPAC 2024 profile](https://www.opensecrets.org/political-action-committees-pacs/jstreetpac/C00441949/summary/2024)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

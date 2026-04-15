@@ -93,11 +93,16 @@ This is not an argument against universal pre-K. It's an argument that universal
 
 ### Sources
 
-- ~~[California Department of Education: TK expansion timeline and enrollment data](https://www.cde.ca.gov/ci/gs/tk/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [California Legislative Analyst's Office: TK funding and implementation analysis](https://lao.ca.gov/reports/2022/education/transitional-kindergarten) (Tier 1) (VERIFIED)
+- [California Department of Finance: 2025 Education Budget Summary](https://dof.ca.gov/budget/) (Tier 1) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[California Department of Education: TK expansion timeline and enrollment data](https://www.cde.ca.gov/ci/gs/tk/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[CalMatters: California transitional kindergarten. Moving too fast?](https://calmatters.org/category/education/2022/11/california-transitional-kindergarten/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[EdSource: TK quality and staffing gaps in low-income districts](https://edsource.org/2023/california-transitional-kindergarten-expansion-quality)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- [California Department of Finance: 2025 Education Budget Summary](https://dof.ca.gov/budget/) (Tier 1) (VERIFIED)
 - ~~[CREDO Stanford: Early Childhood Education Outcomes by District Wealth](https://credo.stanford.edu/2024-california-tk-outcomes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[CalEPA/Child Trends: California Childcare Infrastructure Study](https://www.childtrends.org/publications/california-childcare-2024)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-

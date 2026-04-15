@@ -176,5 +176,10 @@ The bipartisan dimension matters. SBF publicly gave to Democrats while secretly 
 - United States v. Loftis (2025) — District Court, M.D. Florida
 - United States v. WANDER (2025) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sam%20Bankman-Fried%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sam%20Bankman-Fried%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

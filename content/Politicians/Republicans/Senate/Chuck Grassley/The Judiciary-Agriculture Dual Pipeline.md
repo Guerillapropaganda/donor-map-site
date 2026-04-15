@@ -44,8 +44,13 @@ Grassley chaired the Judiciary Committee during the Merrick Garland blockade (20
 
 ### Sources
 
-- ~~[Congress.gov: Chuck Grassley member profile](https://www.congress.gov/member/chuck-grassley/G000386)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Chuck Grassley campaign finance summary](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Washington Post: Republicans refuse to budge following Garland nomination to Supreme Court](https://www.washingtonpost.com/news/powerpost/wp/2016/03/16/republicans-refuse-to-budge-following-garland-nomination-to-supreme-court/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Chuck Grassley member profile](https://www.congress.gov/member/chuck-grassley/G000386)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chuck Grassley campaign finance summary](https://www.congress.gov/search?q=Chuck%20Grassley&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -79,5 +79,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 08/30/2018 | PODD | Sale | $250,001 - $500,000 | Joint |
 | 07/26/2018 | IIN | Sale | $100,001 - $250,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

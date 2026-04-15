@@ -68,6 +68,11 @@ The Kushner operation doesn't choose one extraction method, it runs all of them 
 
 ### Sources
 
-- ~~[DOJ: Charles Kushner conviction (2005), case records](https://www.justice.gov/archive/tax/txdv05618.htm)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [U.S. Senate: Ambassador confirmation vote (51-45, May 2025)](https://www.senate.gov/senators/senators-contact.htm) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[DOJ: Charles Kushner conviction (2005), case records](https://www.justice.gov/archive/tax/txdv05618.htm)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -206,7 +206,6 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 ### Sources
 
 ### Net Worth & Company Profile:
-- ~~[Bloomberg Billionaires Index. Harold Hamm](https://www.bloomberg.com/billionaires/profiles/harold-g-hamm/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia. Harold Hamm](https://en.wikipedia.org/wiki/Harold_Hamm) (Tier 3) (VERIFIED)
 - [Celebrity Net Worth. Harold Hamm Net Worth](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/harold-hamm-net-worth/) (Tier 3) (VERIFIED)
 - [Continental Resources. Official Company Site](https://www.clr.com/operations/bakken/) (Tier 1) (VERIFIED)
@@ -271,7 +270,6 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 - Anderson v. Permian Resources Corp. (2025) — District Court, D. New Mexico
 - Hayday Farms, LLP v. Permian Resources Corp. (2025) — District Court, D. New Mexico
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harold%20Hamm%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -342,11 +340,6 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2016, 2015, 2014
 
 **View 990 filings:**
-- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2024)~~ (URL broken, archived by Ops)
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461256191) (Tier 1) (VERIFIED)
@@ -386,3 +379,15 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg Billionaires Index. Harold Hamm](https://www.bloomberg.com/billionaires/profiles/harold-g-hamm/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Harold%20Hamm%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/461256191/2020)~~ (URL broken, archived by Ops)

@@ -94,8 +94,6 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 
 ### Sources
 
-- ~~[Bloomberg: Tisch family wealth and business interests](https://www.bloomberg.com/news/articles/tisch-family-loews)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[New York Times: Tisch family political contributions](https://www.nytimes.com/2024/01/tisch-donor-profile.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -129,3 +127,10 @@ The Tisch family represents the bipartisan donor consensus: both major parties s
 
 - [Source: ProPublica Nonprofit Explorer — EIN 134037377](https://projects.propublica.org/nonprofits/organizations/134037377) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Tisch family wealth and business interests](https://www.bloomberg.com/news/articles/tisch-family-loews)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Tisch family political contributions](https://www.nytimes.com/2024/01/tisch-donor-profile.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

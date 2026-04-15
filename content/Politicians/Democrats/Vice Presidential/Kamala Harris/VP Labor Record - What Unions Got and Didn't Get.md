@@ -161,7 +161,6 @@ Harris as VP had veto power (tie-breaking votes), not initiation power. Labor go
 ### IIJA:
 - [U.S. Department of Energy: Infrastructure Investment and Jobs Act](https://www.energy.gov/edf/inflation-reduction-act-2022) (Tier 1) (VERIFIED)
 - [U.S. Department of Labor: Davis-Bacon Act Requirements for IIJA Funding](https://www.energy.gov/infrastructure/davis-bacon-act) (Tier 1) (VERIFIED)
-- ~~[White House: Infrastructure Investment and Jobs Act Summary](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Center for American Progress: Proven State and Local Strategies To Create Good Jobs With IIJA Infrastructure Funds](https://www.americanprogress.org/article/proven-state-and-local-strategies-to-create-good-jobs-with-iija-infrastructure-funds/) (Tier 2) (VERIFIED)
 
 ### IRA:
@@ -175,5 +174,11 @@ Harris as VP had veto power (tie-breaking votes), not initiation power. Labor go
 ### PRO Act / Filibuster:
 
 ### Amazon:
-- ~~[The Hill: Coverage of labor issues and federal contracts](https://thehill.com/?s=VP%20Labor%20Record%20-%20What%20Unions%20Got%20and%20Didn%27t%20Get)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[White House: Infrastructure Investment and Jobs Act Summary](https://www.whitehouse.gov/briefing-room/statements-releases/2021/11/06/fact-sheet-the-bipartisan-infrastructure-deal/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: Coverage of labor issues and federal contracts](https://thehill.com/?s=VP%20Labor%20Record%20-%20What%20Unions%20Got%20and%20Didn%27t%20Get)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -163,8 +163,6 @@ Labor unions (particularly construction trades unions and retail workers' organi
 - [A GOP megadonor says he's not 'happy' Trump is leading the 2024 race. Here's why he's still trying to get him elected - ABC News](https://abcnews.com/US/gop-megadonor-happy-trump-leading-2024-race-elected/story?id=105193130?id=105193130) (Tier 2) (VERIFIED)
 - [He didn't do anything small: Remembering Bernard Marcus - eJewishPhilanthropy](https://ejewishphilanthropy.com/he-didnt-do-anything-small-remembering-bernard-marcus-larger-than-life-businessman-and-philanthropist/) (Tier 2) (VERIFIED)
 - [Marcus Foundation provides $60 million to RootOne - eJewishPhilanthropy](https://ejewishphilanthropy.com/marcus-foundation-provides-60-million-to-rootone-in-one-of-bernie-marcus-final-major-acts/) (Tier 2) (VERIFIED)
-- ~~[Looking Back at Bernie Marcus' Giving, and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Marcus Foundation - Impact](https://marcusfoundation.org/impact/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Home Depot Responds To Calls For Boycott Over Co-Founder's Support For Trump - NPR](https://www.npr.org/2019/07/10/740173176/home-depot-responds-to-calls-for-boycott-over-co-founders-support-for-trump) (Tier 2) (VERIFIED)
 - [Bernie Marcus, Home Depot founder who gave to Republicans and Israel - Jewish Telegraphic Agency](https://www.jta.org/2024/11/05/obituaries/bernie-marcus-home-depot-founder-who-gave-to-republicans-and-israel-dies-at-95) (Tier 2) (VERIFIED)
 
@@ -243,3 +241,10 @@ Labor unions (particularly construction trades unions and retail workers' organi
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Bernard%20Marcus) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Looking Back at Bernie Marcus' Giving, and What's Next - Inside Philanthropy](https://www.insidephilanthropy.com/home/looking-back-at-bernie-marcus-giving-and-what-next)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Marcus Foundation - Impact](https://marcusfoundation.org/impact/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

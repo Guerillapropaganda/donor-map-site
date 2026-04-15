@@ -101,8 +101,13 @@ The structural question: Can labor movement rebuild membership/funding power fas
 - [Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac) (Tier 2) (VERIFIED)
 - [CNBC: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026 election](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
 - [Fortune: AI and Crypto spent nearly $20 million to reshape Illinois's Democratic primaries (March 2026)](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
-- ~~[The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Sludge: Crypto, AI, and AIPAC Set up to Smash Super PAC Spending Records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Block: Crypto-focused PAC Fairshake amasses $141 million war chest ahead of 2026 elections](https://www.theblock.co/post/362685/crypto-focused-pac-fairshake-amasses-141-million-war-chest-ahead-of-2026-elections)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

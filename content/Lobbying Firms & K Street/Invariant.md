@@ -250,7 +250,6 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 - [Sludge: Dems Double Down on Fundraising From SpaceX and Palantir Lobbyists](https://readsludge.com/2025/03/20/dems-double-down-on-fundraising-from-spacex-and-palantir-lobbyists/) (Tier 2) (VERIFIED)
 - [Sludge: Democrats Criticizing ICE Are Paying Consultants Tied to Palantir](https://readsludge.com/2026/03/12/democrats-criticizing-ice-are-paying-consultants-tied-to-palantir/) (Tier 2) (VERIFIED)
 - [CNBC: Former Advisor to VP Kamala Harris Joins Heather Podesta's Lobbying Firm](https://www.cnbc.com/2022/06/14/former-advisor-to-vice-president-kamala-harris-joins-heather-podestas-lobbying-firm.html) (Tier 2) (VERIFIED)
-- ~~[The Hill: Lobby Firm Heather Podesta + Partners Rebrands](https://thehill.com/business-a-lobbying/business-a-lobbying/326279-lobby-firm-heather-podesta-partners-rebrands/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Heather Podesta](https://en.wikipedia.org/wiki/Heather_Podesta) (Tier 3) (VERIFIED)
 - [Fortune: ICE alleged to use Palantir-developed tool that uses Medicaid data to track arrest targets (January 26, 2026)](https://fortune.com/2026/01/26/ice-allegedly-uses-palantir-tool-tracking-medicaid-data/) (Tier 2) (VERIFIED)
 - [Immigration Policy Tracking Project: Palantir granted $30 million to build ImmigrationOS surveillance platform for ICE](https://immpolicytracking.org/policies/reported-palantir-awarded-30-million-to-build-immigrationos-surveillance-platform-for-ice/) (Tier 2) (VERIFIED)
@@ -275,7 +274,6 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 - United States v. State of California (2026) — District Court, E.D. California
 - Uyte v. Mammoth Hockey (2025) — Court of Appeals for the Tenth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Invariant%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -317,3 +315,10 @@ Invariant's Palantir portfolio crystallizes this. As progressive constituents de
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Invariant%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Lobby Firm Heather Podesta + Partners Rebrands](https://thehill.com/business-a-lobbying/business-a-lobbying/326279-lobby-firm-heather-podesta-partners-rebrands/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Invariant%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -88,14 +88,12 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 | Net Assets | $41K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 451839927](https://projects.propublica.org/nonprofits/organizations/451839927) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_45-45%2F451839927_201612_990EZ_2018011115116268.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
 - {{src:src_009904}} (Tier 1) (VERIFIED)
-- ~~[New York Times: Trump's campaign refunded $122 million in recurring donations](https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Four states' AGs investigate pre-checked recurring donation boxes on WinRed and ActBlue](https://www.washingtonpost.com/local/md-politics/attorney-generals-donations-winred-actblue/2021/07/08/671a6af6-e045-11eb-ae31-6b7c5c34f0d6_story.html) (Tier 2) (VERIFIED)
 - [Ballotpedia: WinRed](https://ballotpedia.org/WinRed) (Tier 3) (VERIFIED)
 
@@ -127,3 +125,10 @@ The Trump campaign's $122 million in refunds represents only the donors who succ
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22WinRed%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2018_prefixes_45-45%2F451839927_201612_990EZ_2018011115116268.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[New York Times: Trump's campaign refunded $122 million in recurring donations](https://www.nytimes.com/2021/04/03/us/politics/trump-donations.html)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

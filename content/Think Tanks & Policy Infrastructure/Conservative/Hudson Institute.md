@@ -204,7 +204,6 @@ The Hudson Institute reveals the defense-intellectual complex in its purest form
 - [Wikipedia: Hudson Institute](https://en.wikipedia.org/wiki/Hudson_Institute) (Tier 3) (VERIFIED)
 - [Hudson Institute: About](https://www.hudson.org/about) (Tier 3) (VERIFIED)
 - [Media Bias/Fact Check: Hudson Institute](https://mediabiasfactcheck.com/hudson-institute/) (Tier 3) (VERIFIED)
-- ~~[The Hill: Pompeo joins Hudson Institute](https://thehill.com/policy/international/541416-pompeo-joins-hudson-institute/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Hudson Institute](https://www.opensecrets.org/orgs/hudson-institute/summary?id=D000026653) (Tier 1) (VERIFIED)
 - [Think Tank Funding Tracker: Hudson Institute](https://thinktankfundingtracker.org/think-tank/hudson-institute/) (Tier 2) (VERIFIED)
 - [The Intercept: Intelligence Contract Funneled to Pro-War Think Tanks (2021)](https://theintercept.com/2021/09/15/pentagon-funding-think-tanks/) (Tier 2) (VERIFIED)
@@ -214,7 +213,6 @@ The Hudson Institute reveals the defense-intellectual complex in its purest form
 - [UnHerd: Who's funding DC's pro-war think tanks? (2025)](https://unherd.com/2025/01/whos-funding-dcs-pro-war-think-tanks/) (Tier 2) (VERIFIED)
 - [Philanthropy Roundtable: The History of Kahnsciousness. Herman Kahn and the founding of Hudson Institute](https://www.philanthropyroundtable.org/magazine/the-history-of-kahnsciousness/) (Tier 3) (VERIFIED)
 - [Newsweek: Nikki Haley Responds After Donald Trump Rules Out Administration Role (Pompeo also excluded)](https://www.newsweek.com/nikki-haley-donald-trump-administration-role-mike-pompeo-1983398) (Tier 2) (VERIFIED)
-- ~~[Axios: Mike Pompeo to join Columbia University as fellow, departs Hudson Institute (February 2025)](https://www.axios.com/2025/02/24/mike-pompeo-columbia-university-fellow)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 
 ### Tax Filings (IRS 990)
@@ -231,12 +229,19 @@ The Hudson Institute reveals the defense-intellectual complex in its purest form
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131945157) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Pompeo joins Hudson Institute](https://thehill.com/policy/international/541416-pompeo-joins-hudson-institute/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Mike Pompeo to join Columbia University as fellow, departs Hudson Institute (February 2025)](https://www.axios.com/2025/02/24/mike-pompeo-columbia-university-fellow)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131945157/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131945157) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

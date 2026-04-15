@@ -152,15 +152,20 @@ Acton can win the first category; she cannot address the second without dismantl
 
 ### Sources
 
-- ~~[Amy Acton Healthcare Plan | Campaign Website](https://www.amyacton.com/healthcare-plan)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Ohio Marketplace Enrollment Decline 2017-2026 | Centers for Medicare and Medicaid Services](https://www.cms.gov/marketplace-state-data/ohio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Hospital Closures Threatening Rural Ohio | Ohio Hospital Association](https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Medicaid's Role in Birth Coverage: National Data | Kaiser Family Foundation](https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: The billionaire who fueled JD Vance's rapid rise. Peter Thiel and biotech connections](https://www.cbsnews.com/news/jd-vance-trump-vp-peter-thiel-billionaire/) (Tier 2) (VERIFIED)
-- ~~[DOGE Federal Workforce Cuts: 75% Reduction Plan | Politico](https://www.politico.com/news/2024/11/doge-federal-workforce-cuts)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[FDA Deregulation as Pharma Industry Benefit | STAT News](https://www.statnews.com/article/fda-deregulation-pharma/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Health Insurance Industry Lobbying Spending (2020-2026) | OpenSecrets](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [NPR: As Sanders Calls for Medicare for All, a Twist on That Plan Gains Traction](https://www.npr.org/sections/health-shots/2019/04/11/711902886/as-sanders-calls-for-medicare-for-all-a-twist-on-that-plan-gains-traction) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Amy Acton Healthcare Plan | Campaign Website](https://www.amyacton.com/healthcare-plan)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ohio Marketplace Enrollment Decline 2017-2026 | Centers for Medicare and Medicaid Services](https://www.cms.gov/marketplace-state-data/ohio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Hospital Closures Threatening Rural Ohio | Ohio Hospital Association](https://www.ohiohospitals.org/advocacy/rural-hospitals-at-risk)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Medicaid's Role in Birth Coverage: National Data | Kaiser Family Foundation](https://www.kff.org/medicaid/state-indicator/births-covered-by-medicaid/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[DOGE Federal Workforce Cuts: 75% Reduction Plan | Politico](https://www.politico.com/news/2024/11/doge-federal-workforce-cuts)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FDA Deregulation as Pharma Industry Benefit | STAT News](https://www.statnews.com/article/fda-deregulation-pharma/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

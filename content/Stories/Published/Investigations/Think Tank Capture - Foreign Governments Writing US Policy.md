@@ -83,14 +83,19 @@ The class dynamic: Foreign ruling classes (UAE monarchy, UK establishment, Qatar
 
 ### Sources
 
-- ~~[German Marshall Fund & Brookings: "Foreign Funding of U.S. Think Tanks"](https://www.gmfus.org/publication/think-tank-funding-analysis)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[ProPublica: "How the UAE Built Influence in Washington Think Tanks"](https://projects.propublica.org/uae-washington-influence/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[German Marshall Fund: "British Government Funding of U.S. Policy Research"](https://www.gmfus.org/publication/british-funding-us-think-tanks)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Al Jazeera: "Qatar's Think Tank Funding Strategy"](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper) (Tier 2) (VERIFIED)
-- ~~[CREW: "Dark Money Think Tanks and Congressional Influence"](https://crew.org/report/dark-money-think-tanks/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [IRS Form 990 Database: Think Tank Filings](https://www.irs.gov/charities-non-profits/form-990-series-downloads) (Tier 1) (VERIFIED)
 - [ProPublica Congress: Congressional Citations of Think Tank Papers](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
 
 ---
 #analysis
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[German Marshall Fund & Brookings: "Foreign Funding of U.S. Think Tanks"](https://www.gmfus.org/publication/think-tank-funding-analysis)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[ProPublica: "How the UAE Built Influence in Washington Think Tanks"](https://projects.propublica.org/uae-washington-influence/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[German Marshall Fund: "British Government Funding of U.S. Policy Research"](https://www.gmfus.org/publication/british-funding-us-think-tanks)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CREW: "Dark Money Think Tanks and Congressional Influence"](https://crew.org/report/dark-money-think-tanks/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

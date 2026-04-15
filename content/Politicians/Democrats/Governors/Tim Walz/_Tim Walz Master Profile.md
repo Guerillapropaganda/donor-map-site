@@ -113,7 +113,6 @@ He is not compromised in the transactional sense. He believes in progressive val
 ## Sources
 
 - [Minnesota Secretary of State Campaign Finance: Tim Walz](https://www.sos.state.mn.us/) (Tier 1) (NEEDS REVIEW)
-- ~~[Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Clerk: Tim Walz Congressional Voting Record](https://clerk.house.gov/) (Tier 1) (VERIFIED)
 - [Minnesota State Legislature: Tim Walz Bills](https://www.revisor.mn.gov/) (Tier 1) (VERIFIED)
 - ~~{{src:src_006452}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
@@ -204,7 +203,6 @@ Timothy James Walz is an American politician, former educator, and Army National
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Tim Walz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -273,3 +271,10 @@ Timothy James Walz is an American politician, former educator, and Army National
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 
 <!-- auto:fec-summary pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Open Secrets: Tim Walz Political Profile](https://www.opensecrets.org/politicians/tim-walz)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tim Walz](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

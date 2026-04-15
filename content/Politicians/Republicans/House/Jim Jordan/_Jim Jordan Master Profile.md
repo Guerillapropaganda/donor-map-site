@@ -230,6 +230,11 @@ The class function is explicit: Jordan converts congressional authority into a s
 
 **Sources**
 
-- ~~[Congress.gov: Jim Jordan](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jim Jordan](https://www.govtrack.us/congress/members/412226) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Jim Jordan](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -255,7 +255,6 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -294,3 +293,9 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

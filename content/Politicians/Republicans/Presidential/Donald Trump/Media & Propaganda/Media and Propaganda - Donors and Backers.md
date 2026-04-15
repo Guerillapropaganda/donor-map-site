@@ -41,7 +41,6 @@ The 2023 Dominion defamation settlement required Fox to pay $787.5 million for b
 Sources:
 - [NBC News: Fox News settles Dominion defamation lawsuit](https://www.nbcnews.com/media/fox-news-settles-dominion-defamation-lawsuit-rcna80285) (Tier 2) (VERIFIED)
 - [FEC Independent Expenditures: Murdoch donor profile](https://www.fec.gov/data/independent-expenditures/?q=K.%20Rupert%20Murdoch) (Tier 1) (VERIFIED)
-- ~~[The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -58,7 +57,6 @@ Sinclair's relationship to Trump was one of tactical alignment, not direct finan
 Sources:
 - [NBC News: Sinclair drops Boris Epshteyn segments](https://www.nbcnews.com/business/business-news/sinclair-drops-boris-epshteyn-other-political-analysts-n1099796) (Tier 2) (VERIFIED)
 - [Media Matters: Sinclair must-run segments](https://www.mediamatters.org/boris-epshteyn/sinclair-broadcast-group-drops-boris-epshteyns-must-run-segments) (Tier 2) (VERIFIED)
-- ~~[The Hill: Sinclair boosting Epshteyn airtime](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -78,7 +76,6 @@ The pattern is the same as Trump's other branded merchandise. The customer is bu
 
 Sources:
 - [CNN: DJT stock quote and analysis](https://www.cnn.com/markets/stocks/DJT) (Tier 1) (VERIFIED)
-- ~~[Yahoo Finance: Trump Media & Technology Group stock](https://finance.yahoo.com/quote/DJT/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Variety: Trump Media Q1 2024 revenue and losses](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/) (Tier 2) (VERIFIED)
 - [StockTitan: Trump Media full year 2025 results](https://www.stocktitan.net/news/DJT/trump-media-technology-group-reports-full-year-2025-4mvfx7xljcai.html) (Tier 3) (VERIFIED)
 
@@ -137,7 +134,6 @@ In May 2025, Soon-Shiong met with Trump in Saudi Arabia during the president's f
 The pattern is identical across these outlets. Billionaire ownership. Editorial decisions made to benefit Trump. Coverage that provides in-kind value to Trump's political operation. The difference is that Soon-Shiong's ownership of a major newspaper functions at the level of a major metropolitan area's information ecosystem, while Murdoch's Fox operates at national scale.
 
 Sources:
-- ~~[The Hill: LA Times owner meets with Trump in Saudi Arabia](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FAIR: LA Times non-endorsement](https://fair.org/home/la-times-non-endorsement-another-sign-of-our-billionaire-dominated-politics/) (Tier 2) (VERIFIED)
 - [Fox News: Soon-Shiong discusses relationship with Trump](https://www.foxnews.com/media/los-angeles-times-owner-patrick-soon-shiong-discusses-relationship-trump-fight-cure-cancer) (Tier 2) (VERIFIED)
 
@@ -197,5 +193,14 @@ The contradiction is rendered invisible by framing media decisions as editorial 
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Media and Propaganda - Donors and Backers](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: News Corp and Fox Corp Trump account matching](https://thehill.com/homenews/media/5745359-news-fox-corp-matching-federal-contribution-to-trump-accounts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Sinclair boosting Epshteyn airtime](https://thehill.com/homenews/media/341336-sinclair-boosting-airtime-for-former-trump-official-epshteyn/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Yahoo Finance: Trump Media & Technology Group stock](https://finance.yahoo.com/quote/DJT/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: LA Times owner meets with Trump in Saudi Arabia](https://thehill.com/homenews/media/5300617-la-times-owner-meets-with-trump-in-saudi-arabia/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Media and Propaganda - Donors and Backers](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

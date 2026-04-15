@@ -169,10 +169,15 @@ Dave Rubin represents **the conversion narrative as product**, the progressive-t
 - [Miami Herald: "Dave Rubin says he was a 'victim' of Russian election scheme" (Sep 2024)](https://www.miamiherald.com/news/politics-government/article291976560.html) (Tier 2) (NEEDS REVIEW)
 - [TheWrap: "Conservative YouTuber Dave Rubin Signs Deal With BlazeTV" (Sep 2019)](https://www.thewrap.com/conservative-youtuber-dave-rubin-signs-deal-with-blazetv/) (Tier 3) (VERIFIED)
 - [Data & Society: "Alternative Influence: Broadcasting the Reactionary Right on YouTube" (2018)](https://www.datasociety.net/library/alternative-influence/) (Tier 2) (VERIFIED)
-- ~~[Forbes: "Dave Rubin Is Being Rejected By His Own Audience" (Mar 2022)](https://www.forbes.com/sites/danidiplacido/2022/03/21/dave-rubin-is-being-rejected-by-his-own-audience/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: "Classical Liberals and Libertarians Should Vote Republican" by Dave Rubin (Dec 2021)](https://www.newsweek.com/classical-liberals-libertarians-should-vote-republican-opinion-1656513) (Tier 4) (VERIFIED)
 - [The Jerusalem Post: "Dave Rubin's journey" (Nov 2020)](https://www.jpost.com/jerusalem-report/dave-rubins-journey-647137) (Tier 3) (VERIFIED)
 - [Fox News: "Jordan B. Peterson, Dave Rubin ditch crowdfunding site Patreon to stand up for free speech" (Jan 2019)](https://www.foxnews.com/tech/jordan-b-peterson-dave-rubin-ditch-crowdfunding-site-patreon-to-stand-up-for-free-speech) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Forbes: "Dave Rubin Is Being Rejected By His Own Audience" (Mar 2022)](https://www.forbes.com/sites/danidiplacido/2022/03/21/dave-rubin-is-being-rejected-by-his-own-audience/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

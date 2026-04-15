@@ -124,7 +124,6 @@ Centene's structural function in American healthcare is converting public health
 
 ### Sources
 
-- ~~[OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC: Centene 10-K filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Centene%20Corporation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - [Ballotpedia: Healthcare industry lobbying](https://ballotpedia.org/Centene_Corporation) (Tier 3) (VERIFIED)
 
@@ -286,7 +285,6 @@ Centene's structural function in American healthcare is converting public health
 - Carolina Neurosurgery and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
 - Florida Spine and Orthopedics, Inc. v. Multiplan, Inc. (2026) — District Court, N.D. Illinois
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -355,3 +353,10 @@ Centene's structural function in American healthcare is converting public health
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Centene%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Centene Corporation lobbying and PAC](https://www.opensecrets.org/orgs/centene-corp/summary?id=D000024795)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Centene%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

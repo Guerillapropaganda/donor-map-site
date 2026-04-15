@@ -343,7 +343,6 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 | 4036 | Accountability through Confirmation Act | Referred to the House Committee on Financial Services. |
 | 4035 | Protecting Small Business Information Act of 2023 | Referred to the House Committee on Financial Services. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/M001156)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -368,7 +367,6 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 **Sources**
 
-- ~~[Congress.gov: Patrick McHenry](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Patrick McHenry](https://www.govtrack.us/congress/members/400644) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -381,3 +379,10 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001156)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Patrick McHenry](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -206,7 +206,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 - {{src:src_006117}} (Tier 1) (VERIFIED)
 - {{src:src_006117}} (Tier 1) (VERIFIED)
 - [ProPublica FEC Itemizer: Jamie Raskin PAC donations](https://projects.propublica.org/itemizer/committee/C00575126/2024/pac-donations) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Raskin.house.gov: Committees and Caucuses](https://raskin.house.gov/committees-and-caucuses) (Tier 1) (VERIFIED)
 - [Raskin.house.gov: Raskin to lead Democrats on Judiciary](https://raskin.house.gov/2024/12/rep-jamie-raskin-to-lead-democrats-on-house-judiciary-committee) (Tier 1) (VERIFIED)
 - [NPR: Amid grief, Raskin leads Trump impeachment effort](https://www.npr.org/2021/01/27/960768286/amid-grief-rep-jamie-raskin-leads-trump-impeachment-effort-in-senate) (Tier 2) (VERIFIED)
@@ -258,7 +257,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 **Sources**
 
-- ~~[Congress.gov: Jamie Raskin](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -316,7 +314,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 | 6310 | To designate the facility of the United States Postal Service located at 3570 Ol… | Ordered to be Reported by the Yeas and Nays: 38 - 2. |
 | 797 | Expressing concern about the growing problem of book banning and the proliferati… | Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 <!-- auto:congress-legislation pending-merge 2026-04-15 -->
@@ -357,7 +354,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 - House Committee on the Judiciary
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 <!-- auto:committee-assignments pending-merge 2026-04-15 -->
@@ -448,3 +444,12 @@ Jamin Ben Raskin is an American attorney, law professor, and politician serving 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamie_Raskin) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q640835) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Jamie Raskin member profile](https://www.congress.gov/member/jamie-raskin/R000606)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jamie Raskin](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/R000606)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

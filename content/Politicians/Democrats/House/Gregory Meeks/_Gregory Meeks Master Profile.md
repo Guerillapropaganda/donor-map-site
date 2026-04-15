@@ -219,10 +219,8 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 - [Track AIPAC: Gregory Meeks donor profile](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
 - [Sludge: Dems cash in from private equity firms they defended at House hearing](https://readsludge.com/2020/01/27/dems-cash-in-from-private-equity-firms-they-defended-at-house-hearing/) (Tier 2) (VERIFIED)
 - [Sludge: Beatty and Gottheimer funnel private equity donations through pop-up PAC](https://readsludge.com/2022/02/03/beatty-and-gottheimer-funnel-private-equity-donations-through-pop-up-pac/) (Tier 2) (VERIFIED)
-- ~~[Axios: Israeli assurances on F-15 sale and Meeks' response](https://www.axios.com/2024/04/12/gregory-meeks-democrat-israel-f-15)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [House Foreign Affairs Committee Democrats: Meeks statement on Israel-only supplemental](https://democrats-foreignaffairs.house.gov/2024/2/meeks-issues-statement-announcing-no-vote-on-israel-only-supplemental) (Tier 1) (VERIFIED)
 - [CREW: Most Corrupt Members of Congress 2013. Gregory Meeks](https://s3.amazonaws.com/storage.citizensforethics.org/wp-content/uploads/2016/07/20022654/Gregory_Meeks_CREW_Most_Corrupt_Members_Of_Congress_2013.pdf) (Tier 2) (VERIFIED)
-- ~~[The Hill: Ethics office referral on Azerbaijan travel](https://thehill.com/business-a-lobbying/business-a-lobbying/241946-ethics-office-lawmakers-took-trip-secretly-paid-for/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Times: Lawmaker with corrupt ties to Chávez represents U.S. at funeral](https://www.washingtontimes.com/news/2013/mar/8/lawmaker-corrupt-ties-chavez-represents-us-funeral/) (Tier 3) (VERIFIED)
 - [Jewish Insider: AIPAC virtual gathering opens with Meeks](https://jewishinsider.com/2021/03/aipac-virtual-lobbying-conference/) (Tier 2) (VERIFIED)
 - [Times of Israel: Pro-Israel Democrat elected chair of key House Foreign Affairs panel](https://www.timesofisrael.com/pro-israel-democrat-gregory-meeks-voted-chair-of-key-house-foreign-affairs-panel/) (Tier 2) (VERIFIED)
@@ -293,5 +291,12 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400271)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Israeli assurances on F-15 sale and Meeks' response](https://www.axios.com/2024/04/12/gregory-meeks-democrat-israel-f-15)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Ethics office referral on Azerbaijan travel](https://thehill.com/business-a-lobbying/business-a-lobbying/241946-ethics-office-lawmakers-took-trip-secretly-paid-for/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400271)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

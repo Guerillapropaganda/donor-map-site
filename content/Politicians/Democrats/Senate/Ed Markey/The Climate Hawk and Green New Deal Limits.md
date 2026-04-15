@@ -38,9 +38,14 @@ Before his climate rebrand, Markey was primarily known as a telecom expert, he s
 
 ### Sources
 
-- ~~[Congress.gov: Ed Markey member profile](https://www.congress.gov/member/edward-markey/M000133)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005450}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Green New Deal Resolution](https://www.congress.gov/bill/116th-congress/senate-resolution/59)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Washington Post: Green New Deal unveiling sparks immediate Democratic divisions](https://www.washingtonpost.com/climate-environment/2019/02/07/green-new-deal-sparks-immediate-democratic-divisions/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Ed Markey](https://ballotpedia.org/Ed_Markey) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Ed Markey member profile](https://www.congress.gov/member/edward-markey/M000133)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Green New Deal Resolution](https://www.congress.gov/bill/116th-congress/senate-resolution/59)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

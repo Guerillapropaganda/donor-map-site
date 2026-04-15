@@ -103,7 +103,6 @@ This is the building trades class position at the local level: aligned with capi
 ### Sources
 
 - [IBEW Local 477: Official website. San Bernardino/Inyo/Mono jurisdiction](https://ibew477.org/) (Tier 3) (VERIFIED)
-- ~~[IBEW: Electric Vehicle Infrastructure Training Program (EVITP)](https://ibew.org/articles/23ElectricalWorker/EW2310/EVITP.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Bureau of Labor Statistics: Union membership data. California](https://www.bls.gov/regions/west/news-release/unionmembership_california.htm) (Tier 1) (VERIFIED)
 
 ### Tax Filings (IRS 990)
@@ -121,9 +120,15 @@ This is the building trades class position at the local level: aligned with capi
 **Filing history:** 2023, 2022, 2021
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2021)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/812607816) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IBEW: Electric Vehicle Infrastructure Training Program (EVITP)](https://ibew.org/articles/23ElectricalWorker/EW2310/EVITP.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/812607816/2021)~~ (URL broken, archived by Ops)

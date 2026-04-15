@@ -141,8 +141,6 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 - {{src:src_011972}} (Tier 1) (VERIFIED)
 - [The Lever: Newsom's Big Choice — Single Payer or His Insurance Donors](https://www.levernews.com/newsoms-big-choice-single-payer-or-his-insurance-donors/) (Tier 2) (VERIFIED)
 - [Fierce Healthcare: Elevance Health Q4 2024 earnings, $175.2B revenue](https://www.fiercehealthcare.com/payers/elevance-health-beats-profit-misses-revenue-mixed-q4) (Tier 2) (VERIFIED)
-- ~~[Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[National Institute on Money in Politics: FollowTheMoney.org — Anthem/Elevance state contributions](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Anthem%20-%20Elevance%20Health#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -175,11 +173,6 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/352122763) (Tier 1) (VERIFIED)
@@ -236,3 +229,15 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Becker's Payer Issues: Elevance Health 5 highest-paid executives 2024](https://www.beckerspayer.com/payer/elevance-healths-5-highest-paid-executives-2025/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[National Institute on Money in Politics: FollowTheMoney.org - Anthem/Elevance state contributions](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Anthem%20-%20Elevance%20Health#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney - site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/352122763/2019)~~ (URL broken, archived by Ops)

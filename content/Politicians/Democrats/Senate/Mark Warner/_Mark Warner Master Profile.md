@@ -240,7 +240,6 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 | 12/12/2014 | N/A | other | Unknown | N/A |
 | 12/07/2018 | -- | Purchase | $50,001 - $100,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -359,7 +358,6 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 **Sources**
 
-- ~~[Congress.gov: Mark Warner](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Mark Warner](https://www.govtrack.us/congress/members/412321) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -389,5 +387,12 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000805)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mark Warner](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000805)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

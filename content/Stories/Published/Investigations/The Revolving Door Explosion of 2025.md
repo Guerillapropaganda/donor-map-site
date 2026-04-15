@@ -116,10 +116,15 @@ This is not accidental. This is deliberate normalization of lobbyist staffing. I
 ### Sources
 
 - [OpenSecrets: Revolving Door Tracker 2025](https://www.opensecrets.org/revolving-door/) (Tier 1) (VERIFIED)
-- ~~[Politico: Record Exodus of Congress Members to K Street](https://politico.com/congress-k-street-2025)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes) (Tier 2) (VERIFIED)
 - [Center for Responsive Politics: Revolving Door Analysis](https://responsivepolitics.org/revolving-door) (Tier 2) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: Record Exodus of Congress Members to K Street](https://politico.com/congress-k-street-2025)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[ProPublica: Congress Members and Their Lobbying Deals](https://propublica.org/revolving-door)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Congress.gov: Close the Revolving Door Act (H.R. 2847)](https://congress.gov/bill/hr2847)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Roll Call: K Street Hiring Trends 2025](https://rollcall.com/k-street-hiring)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-

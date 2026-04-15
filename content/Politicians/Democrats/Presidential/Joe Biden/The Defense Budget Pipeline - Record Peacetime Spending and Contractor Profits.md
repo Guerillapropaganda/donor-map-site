@@ -171,13 +171,18 @@ The comparison is instructive: $370B for climate spending (legitimate) vs. $999B
 
 ### Sources
 
-- ~~[Department of Defense: Defense Budget Justification materials, FY2024](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/FY2024_1.2.4_PB_Exhibits.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congressional Budget Office: Defense spending trends](https://www.cbo.gov/publication/58519)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Defense sector campaign spending 2022](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [ProPublica Congress: House defense budget voting records](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
+- [Northrop Grumman annual reports, 2020–2023](https://www.northropgrumman.com/who-we-are/annual-reports) (Tier 1) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Department of Defense: Defense Budget Justification materials, FY2024](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/FY2024_1.2.4_PB_Exhibits.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congressional Budget Office: Defense spending trends](https://www.cbo.gov/publication/58519)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Lockheed Martin annual reports, 2020–2023](https://www.lockheedmartin.com/en-us/news/investor-information.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Raytheon Technologies annual reports, 2020–2023](https://investors.rtx.com/financials/sec-filings)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- [Northrop Grumman annual reports, 2020–2023](https://www.northropgrumman.com/who-we-are/annual-reports) (Tier 1) (VERIFIED)
 - ~~[USA Today: Ukraine aid reaches $113 billion](https://www.usatoday.com/story/news/politics/2024/01/15/biden-administration-ukraine-aid-package/66988220/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Congressional Research Service: FY2024 Defense Budget Request. Context and Selected Issues](https://www.congress.gov/crs-product/R47582)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-

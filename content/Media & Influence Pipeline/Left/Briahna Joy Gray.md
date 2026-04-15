@@ -184,10 +184,15 @@ The current phase, independent Patreon-funded podcasting, is the least captured 
 - [The Root: Bernie Sanders' Messenger. Press Secretary Briahna Joy Gray](https://www.theroot.com/bernie-sanders-messenger-press-secretary-briahna-joy-g-1842429092) (Tier 2) (VERIFIED)
 - [Briahna Joy Gray on X: "It finally happened. The Hill has fired me." (Jun 2024)](https://x.com/briebriejoy/status/1798845475509956743) (Tier 1) (VERIFIED)
 - [Washington Times: Briahna Joy Gray Fired from The Hill (Jun 2024)](https://www.washingtontimes.com/news/2024/jun/7/progressive-commentator-fired-from-hill-after-dism/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Briahna Joy Gray on Progressives and Small-Dollar Donations](https://thehill.com/hilltv/rising/569379-briahna-joy-gray-progressives-can-be-successful-candidates-on-small-dollar/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Bad Faith Podcast. Patreon Page](https://www.patreon.com/cw/badfaithpodcast) (Tier 1) (VERIFIED)
 - [Briahna Joy Gray on X: "Corporate media establishment acolytes are furious they can't 'cancel' me."](https://x.com/briebriejoy/status/1527344880904654853) (Tier 1) (VERIFIED)
 - [Briahna Joy Gray on X: Asked Jamaal Bowman Why the Squad Doesn't Do Independent Left Media](https://x.com/briebriejoy/status/1899474230330175828) (Tier 1) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Briahna Joy Gray on Progressives and Small-Dollar Donations](https://thehill.com/hilltv/rising/569379-briahna-joy-gray-progressives-can-be-successful-candidates-on-small-dollar/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

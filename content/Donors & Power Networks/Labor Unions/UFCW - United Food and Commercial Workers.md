@@ -252,7 +252,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 | Officer Compensation | $5.8M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 530220586](https://projects.propublica.org/nonprofits/organizations/530220586) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -283,3 +282,9 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UFCW%20-%20United%20Food%20and%20Commercial%20Workers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_52-56%2F530220586_202212_990O_2023121222090545.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

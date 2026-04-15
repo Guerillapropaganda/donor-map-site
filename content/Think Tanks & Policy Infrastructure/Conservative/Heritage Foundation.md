@@ -490,7 +490,6 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 - [OpenSecrets: Heritage Foundation organizational profile](https://www.opensecrets.org/orgs/heritage-foundation/summary?id=D000034435) (Tier 1) (VERIFIED)
 - [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
 - [DeSmog: Mapped. How 6 Billionaire Family Fortunes Fund Project 2025](https://www.desmog.com/2024/10/25/project-2025-trump-mapped-how-6-billionaire-family-fortunes-fund-climate-denial/) (Tier 2) (VERIFIED)
-- ~~[DeSmog: MAPPED, 70 Percent of Trump's Cabinet Tied to Project 2025 Groups](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Heritage Foundation Staffers Flood Federal Agencies With Thousands of Information Requests](https://www.propublica.org/article/have-government-employees-mentioned-climate-change-voting-or-gender-identity-the-heritage-foundation-wants-to-know) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Former Trump Officials Wrote 25 of the 30 Chapters in the Project 2025 Playbook](https://therevolvingdoorproject.org/former-trump-officials-wrote-25-of-the-30-chapters-in-the-project-2025-playbook/) (Tier 2) (VERIFIED)
 - [Revolving Door Project: Heritage Lays the Foundation for Schedule F](https://therevolvingdoorproject.org/heritage-lays-the-foundation-for-schedule-f/) (Tier 2) (VERIFIED)
@@ -498,9 +497,7 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 - [Media Matters: Project 2025 Organizer Heritage Foundation Gave $1 Million for Trump's Convention](https://www.mediamatters.org/project-2025/project-2025-organizer-heritage-foundation-gave-1-million-trumps-convention) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: CLC Sues Heritage Action for Violating Disclosure Laws](https://campaignlegal.org/update/clc-sues-secret-money-group-heritage-action-violating-disclosure-laws) (Tier 2) (VERIFIED)
 - [19th News: How Much of Project 2025 Has Been Implemented?](https://19thnews.org/2025/12/project-2025-heritage-foundation-progress/) (Tier 2) (VERIFIED)
-- ~~[Axios: Project 2025 Architects Lay Out 2026 Policy Vision](https://www.axios.com/2025/12/09/trump-china-project-2026-2025-policy-heritage-foundation-abortion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: Heritage Foundation Project 2026 Plan Released](https://www.newsweek.com/project-2026-heritage-foundation-document-11183162) (Tier 2) (VERIFIED)
-- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Conversation: Heritage Foundation's 50-Year History of Steering GOP Lawmaking](https://theconversation.com/usheritage-foundations-project-2025-is-just-the-latest-action-plan-from-a-group-with-an-over-50-year-history-of-steering-gop-lawmaking-234542) (Tier 2) (NEEDS REVIEW)
 - [Climate Investigations Center: Heritage Foundation climate funding](https://climateinvestigations.org/heritage-foundation/) (Tier 2) (VERIFIED)
 - [World Resources Institute: Heritage Foundation Analysis of Climate Policy](https://www.wri.org/insights/heritage-foundation-gets-it-wrong-costs-and-benefits-climate-action) (Tier 2) (VERIFIED)
@@ -511,7 +508,6 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 - [Cato Institute: Heritage Antitrust Contradiction Review](https://www.cato.org/blog/all-roads-lead-big-government-heritage-takes-big-tech) (Tier 2) (VERIFIED)
 - [Brennan Center: Project 2025 Criminal Justice Analysis](https://www.brennancenter.org/our-work/analysis-opinion/project-2025s-plan-criminal-justice-under-trump) (Tier 2) (VERIFIED)
 - [Vipul Naik Donation Database: Bradley Foundation to Heritage](https://donations.vipulnaik.com/donor.php?donor=The+Lynde+and+Harry+Bradley+Foundation) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: Heritage Foundation donor profiles](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heritage_Foundation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [InfluenceWatch: Sarah Scaife Foundation and Heritage](https://www.influencewatch.org/non-profit/sarah-scaife-foundation/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: Lynde and Harry Bradley Foundation](https://www.influencewatch.org/non-profit/lynde-and-harry-bradley-foundation-inc/) (Tier 2) (VERIFIED)
 - [ACLU: Project 2025, Explained](https://www.aclu.org/project-2025-explained) (Tier 3) (VERIFIED)
@@ -552,7 +548,6 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 **Foreign principals:**
 - Korean Cultural Heritage Administration through the Overseas Korean Cultural Heritage Foundation (KOREA SOUTH)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Register Activity
@@ -577,3 +572,14 @@ The December 2025 staff exodus, 12+ senior Heritage employees leaving over antis
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heritage%20Foundation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[DeSmog: MAPPED, 70 Percent of Trump's Cabinet Tied to Project 2025 Groups](https://www.desmog.com/2025/06/02/map-70-percent-trump-cabinet-tie-project-2025-heritage-afpi-convention-states-dunn-doge/ject-2025-heritage-afpi-convention-states-dunn-doge/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Project 2025 Architects Lay Out 2026 Policy Vision](https://www.axios.com/2025/12/09/trump-china-project-2026-2025-policy-heritage-foundation-abortion)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[PR Watch: Koch, Bradley Money Fuels Trump's Right-Wing Echo Chamber](https://www.prwatch.org/news/2019/07/13482/koch-bradley-money-fuels-trumps-right-wing-echo-chamber)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Heritage Foundation donor profiles](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heritage_Foundation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Heritage%20Foundation)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

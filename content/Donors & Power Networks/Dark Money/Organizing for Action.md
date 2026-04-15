@@ -92,7 +92,6 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 - [ProPublica: Organizing for Action's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 2) (VERIFIED)
 - [OpenSecrets: OFA Funding and Spending](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1) (VERIFIED)
-- ~~[IRS Form 990: OFA Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Organizing%20for%20Action&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Center for Responsive Politics: Dark Money and Tax Exemption](https://www.opensecrets.org/orgs/organizing-for-action/summary?id=D000078907) (Tier 1) (VERIFIED)
 
 ---
@@ -120,7 +119,6 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 | Officer Compensation | $470K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 461827418](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2020_prefixes_45-46%2F461827418_201812_990O_2020010316992777.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### SEC Filing Activity
@@ -157,7 +155,6 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 - Latinos for Trump v. Sessions (2021) — District Court, W.D. Texas
 - Larry Klayman v. American Civil Liberties Union (2017) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Organizing%20for%20Action%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -194,11 +191,19 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 **Filing history:** 2018, 2017, 2016, 2015, 2014
 
 **View 990 filings:**
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS Form 990: OFA Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Organizing%20for%20Action&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=01_2020_prefixes_45-46%2F461827418_201812_990O_2020010316992777.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Organizing%20for%20Action%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2018)~~ (URL broken, archived by Ops)
 - ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2017)~~ (URL broken, archived by Ops)
 - ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2016)~~ (URL broken, archived by Ops)
 - ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2015)~~ (URL broken, archived by Ops)
 - ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/461827418/2014)~~ (URL broken, archived by Ops)
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

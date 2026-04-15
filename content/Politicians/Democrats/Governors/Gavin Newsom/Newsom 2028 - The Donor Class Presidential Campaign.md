@@ -253,7 +253,6 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 ### Campaign Activity:
 - [CNN: Gavin Newsom discusses a potential 2028 matchup with Kamala Harris](https://www.cnn.com/2026/02/22/politics/gavin-newsom-book-tour) (Tier 2) (VERIFIED)
 - [Fox News: Gavin Newsom New Hampshire book tour stop fuels 2028 presidential speculation](https://www.foxnews.com/politics/newsom-stop-key-presidential-primary-state-sparks-more-2028-speculation) (Tier 2) (VERIFIED)
-- ~~[The Hill: Newsom fundraising campaign targets everywhere except California](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Kentucky election results: Gov. Andy Beshear wins reelection](https://www.npr.org/2023/11/07/1209090515/2023-results-key-kentucky-elections) (Tier 2) (VERIFIED)
 
 ### Campaign for Democracy PAC:
@@ -261,7 +260,6 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 - [FEC: Browse campaign finance data filings](https://www.fec.gov/data/filings/) (Tier 1) (VERIFIED)
 
 ### Donor Network:
-- ~~[Silicon Valley Business Journal: Newsom tech relationship](https://www.bizjournals.com/sanjose/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Polling:
 - [UNH Survey Center: Polling research](https://cola.unh.edu/unh-survey-center) (Tier 2) (VERIFIED)
@@ -277,10 +275,8 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 ### Harris Rivalry:
 
 ### Personal Finances:
-- ~~[The Hill: Washington political news](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Competition:
-- ~~[OpenSecrets: Campaign finance analysis](https://www.opensecrets.org/members-of-congress/summary?name=Newsom%202028)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -313,6 +309,15 @@ The new variable: AI. If labor's 2028 endorsement condition holds, regulate AI o
 
 **Timeline:** Newsom told allies he likely wouldn't announce a presidential campaign until after he **leaves office in January 2027**, consistent with the standard post-governorship presidential launch pattern.
 
-- ~~[The Hill. Gavin Newsom gains 100,000 new contributors amid battles with Trump](https://thehill.com/homenews/campaign/5641006-gavin-newsom-presidential-run-2028/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yahoo News. Newsom's redistricting campaign unlocks a new donor army ahead of 2028](https://www.yahoo.com/news/articles/newsom-redistricting-campaign-unlocks-donor-130000910.html) (Tier 2) (VERIFIED)
 - [OpenSecrets. Democratic presidential contenders test the waters during midterm 'shadow campaign'](https://www.opensecrets.org/news/2026/01/democratic-presidential-contenders-test-the-waters-during-midterm-shadow-campaign/) (Tier 1) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Newsom fundraising campaign targets everywhere except California](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Silicon Valley Business Journal: Newsom tech relationship](https://www.bizjournals.com/sanjose/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Washington political news](https://thehill.com/?s=Newsom%202028%20-%20The%20Donor%20Class%20Presidential%20Campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Campaign finance analysis](https://www.opensecrets.org/members-of-congress/summary?name=Newsom%202028)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill. Gavin Newsom gains 100,000 new contributors amid battles with Trump](https://thehill.com/homenews/campaign/5641006-gavin-newsom-presidential-run-2028/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

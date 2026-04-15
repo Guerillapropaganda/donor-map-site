@@ -171,7 +171,6 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 - [FEC Individual Contributions: Dan Bongino (15 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=dan+bongino&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
 - [Rumble Corp Blog: "Rumble Secures Exclusive Video and Live Streaming Rights for The Dan Bongino Show" (Jan 12, 2026)](https://corp.rumble.com/blog/rumble-secures-exclusive-video-and-live-streaming-rights-for-the-dan-bongino-show/) (Tier 1) (VERIFIED)
 - [NBC News: "FBI Deputy Director Dan Bongino Says He Will Step Down in January" (Dec 17, 2025)](https://www.nbcnews.com/politics/trump-administration/fbi-deputy-director-dan-bongino-leave-post-january-rcna249789) (Tier 2) (VERIFIED)
-- ~~[Axios: "Trump on Bongino FBI Exit: He 'Wants to Go Back to His Show'" (Dec 17, 2025)](https://www.axios.com/2025/12/17/dan-bongino-tenure-fbi-trump-show)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [PBS News: "Dan Bongino Says He Plans to Resign as FBI Deputy Director" (Dec 17, 2025)](https://www.pbs.org/newshour/politics/dan-bongino-says-he-plans-to-resign-as-fbi-deputy-director-in-january-ending-brief-tenure) (Tier 2) (VERIFIED)
 - [NPR Fresh Air: "How Dan Bongino Is Building a Right-Wing Media Infrastructure in Time for 2024" (Jan 6, 2022)](https://www.npr.org/2022/01/06/1070924133/how-dan-bongino-is-building-a-right-wing-media-infrastructure-in-time-for-2024) (Tier 2) (VERIFIED)
 - [NBC News: "Dan Bongino Weighs Resigning from FBI After Heated Confrontation with Pam Bondi over Epstein Files" (Jul 2025)](https://www.nbcnews.com/politics/justice-department/dan-bongino-weighs-resigning-fbi-heated-confrontation-pam-bondi-epstei-rcna218388) (Tier 2) (VERIFIED)
@@ -182,3 +181,9 @@ Dan Bongino represents **the media-to-government revolving door as content strat
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: "Trump on Bongino FBI Exit: He 'Wants to Go Back to His Show'" (Dec 17, 2025)](https://www.axios.com/2025/12/17/dan-bongino-tenure-fbi-trump-show)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

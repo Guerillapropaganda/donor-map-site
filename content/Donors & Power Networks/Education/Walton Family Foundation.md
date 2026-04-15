@@ -135,7 +135,6 @@ Education, charter schools, teacher accountability, school choice, billionaire p
 
 - [Walton Family Foundation: K-12 education](https://www.waltonfamilyfoundation.org/our-work/k-12-education) (Tier 1) (NEEDS REVIEW)
 - [Network for Public Education: Walton charter funding tracking](https://networkforpubliceducation.org/?s=Walton%20Family%20Foundation) (Tier 2) (VERIFIED)
-- ~~[The Guardian: Walton family education philanthropy](https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
@@ -180,7 +179,6 @@ Education, charter schools, teacher accountability, school choice, billionaire p
 - Students for Fair Admissions v. The United States Naval Academy (2023) — District Court, D. Maryland
 - Dylan Brandt v. Tim Griffin (2023) — Court of Appeals for the Eighth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walton%20Family%20Foundation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -198,12 +196,19 @@ Education, charter schools, teacher accountability, school choice, billionaire p
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014
 
 **View 990 filings:**
+- ... and 2 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Guardian: Walton family education philanthropy](https://www.theguardian.com/us-news/2014/mar/25/walton-family-foundation-charter-schools)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Walton%20Family%20Foundation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/472066714/2019)~~ (URL broken, archived by Ops)
-- ... and 2 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

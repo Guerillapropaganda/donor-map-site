@@ -73,11 +73,9 @@ TPUSA represents a new oligarchic model: dark money youth mobilization disguised
 
 ### Sources
 
-- ~~[OpenSecrets: Turning Point USA spending 2024](https://www.opensecrets.org/groups/turning-point-usa/516850)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Turning Point USA funding and structure](https://www.propublica.org/article/at-this-trump-favored-charity-financial-reporting-is-questionable-and-insiders-are-cashing-in) (Tier 2) (VERIFIED)
 - [Washington Post: January 6 funding and TPUSA buses. Publix heiress Julie Fancelli spent $3M on Jan. 6 rally, Kirk groups received $1.25M for buses](https://www.washingtonpost.com/politics/2022/12/22/publix-heiress-jan-6-financing/) (Tier 2) (VERIFIED)
 - [Rolling Stone: Charlie Kirk TPUSA investigation](https://www.rollingstone.com/politics/politics-news/charlie-kirk-turning-point-usa-founder-dead-1235424931/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: Turning Point USA, dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -94,12 +92,19 @@ TPUSA represents a new oligarchic model: dark money youth mobilization disguised
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/800835023) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Turning Point USA spending 2024](https://www.opensecrets.org/groups/turning-point-usa/516850)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[SourceWatch: Turning Point USA, dark money funding, donors, and organizational profile](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Turning_Point_USA)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/800835023/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/800835023) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

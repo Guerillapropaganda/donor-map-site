@@ -115,7 +115,6 @@ The framework for content: credit the wins, apply the class lens to distribution
 - [California Energy Commission: Electricity data and renewable energy share 2024](https://www.energy.ca.gov/data-reports/energy-almanac/california-electricity-data) (Tier 1) (VERIFIED)
 
 ### Tier 2. Major Journalism & Investigative
-- ~~[CalMatters: California's residential solar rules overhauled after highly charged debate](https://calmatters.org/category/environment/2022/12/california-solar-rules-overhauled/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [KQED: Newsom announces halt to new fracking permits by 2024](https://www.kqed.org/science/1974156/newsom-says-he-will-halt-new-california-fracking-permits-in-2024) (Tier 2) (VERIFIED)
 - [Washington Examiner: Newsom oil drilling permit approvals 2023](https://www.washingtonexaminer.com/policy/energy-and-environment/3820920/newsom-warms-oil-industry-high-costs-threaten-california/) (Tier 2) (VERIFIED)
 - [Governor of California: August 2022 ZEV mandate CARB approval announcement](https://www.gov.ca.gov/2022/08/25/california-enacts-world-leading-plan-to-achieve-100-percent-zero-emission-vehicles-by-2035-cut-pollution/) (Tier 2) (VERIFIED)
@@ -126,3 +125,9 @@ The framework for content: credit the wins, apply the class lens to distribution
 - [Sierra Club California: cap-and-trade and refinery communities](https://www.sierraclub.org/california) (Tier 3) (VERIFIED)
 - [California Policy Center: Newsom concessions to oil industry analysis](https://californiapolicycenter.org/newsoms-concessions-to-oil-industry-will-not-save-it/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: California's residential solar rules overhauled after highly charged debate](https://calmatters.org/category/environment/2022/12/california-solar-rules-overhauled/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

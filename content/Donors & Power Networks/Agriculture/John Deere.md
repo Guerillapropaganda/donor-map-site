@@ -154,7 +154,6 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | $6.4M | Department of Defense | 8511246304!MTR GRADER |
 | $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
 
-- ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:usaspending end -->
 
@@ -187,7 +186,6 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 - [OpenSecrets: Deere & Company organizational profile](https://www.opensecrets.org/orgs/deere-co/summary?id=D000000504) (Tier 1)
 - [FTC: Right-to-repair report](https://www.ftc.gov/reports/nixing-fix-ftc-report-congress-repair-restrictions) (Tier 1) (VERIFIED)
-- ~~[Ballotpedia: Deere & Company](https://ballotpedia.org/Deere_&_Company)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -436,7 +434,6 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - ~~[John Deere Recalls Compact Utility Tractors Due to Risk of Injury (Recall Alert)](https://www.cpsc.gov/Recalls/21776)~~ (URL broken, archived by Ops) (2021-08-19) — Rear wheel spacer bolts that were torqued improperly during manufacturing can cause the wheel to fall off during use. This can result in the tractor overturning, posing an injury hazard to the operator.
 - ... and 37 more
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 <!-- auto:cpsc-recalls pending-merge 2026-04-15 -->
@@ -513,7 +510,6 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - Berger v. Monroe County, Tennessee (2026) — District Court, E.D. Tennessee
 - HERNANDEZ GONZALES v. MADURO MOROS (2026) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
@@ -552,11 +548,6 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/366051024) (Tier 1)
@@ -652,3 +643,17 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=John%20Deere) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-John%20Deere)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Ballotpedia: Deere & Company](https://ballotpedia.org/Deere_&_Company)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/366051024/2019)~~ (URL broken, archived by Ops)

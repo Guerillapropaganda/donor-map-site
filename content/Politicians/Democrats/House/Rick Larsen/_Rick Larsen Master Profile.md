@@ -201,7 +201,6 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 - [Seattle Times: Rep. Larsen loses backing of Machinists over Boeing offer](https://www.seattletimes.com/seattle-news/rep-larsen-loses-backing-of-machinists-over-boeing-offer/) (Tier 2) (VERIFIED)
 - [Everett Herald: State labor council spurns Larsen with no endorsement](https://www.heraldnet.com/2014/05/13/state-labor-council-spurns-larsen-with-no-endorsement/) (Tier 2) (VERIFIED)
 - [My Everett News: Machinists vote to accept Boeing contract extension](https://myeverettnews.com/2011/12/07/machinists-vote-to-accept-boeing-contract-extension-by-74-reaction-from-iam-751-boeing-and-congressman-larsen/) (Tier 2) (VERIFIED)
-- ~~[ACEC 2025 Convention: Congressman Rick Larsen](https://convention.acec.org/speakers/congressman-rick-larsen/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Ballotpedia: Rick Larsen](https://ballotpedia.org/Rick_Larsen) (Tier 3) (VERIFIED)
 - [Wikipedia: Rick Larsen](https://en.wikipedia.org/wiki/Rick_Larsen) (Tier 3) (VERIFIED)
 
@@ -294,7 +293,6 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 
 **Sources**
 
-- ~~[Congress.gov: Rick Larsen](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Rick Larsen](https://www.govtrack.us/congress/members/400232) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -353,5 +351,12 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 | 3477 | Ensuring Airline Resiliency to Reduce Delays and Cancellations Act | Ordered to be Reported by the Yeas and Nays: 57 - 7. |
 | 2860 | Northwest Straits Marine Conservation Initiative Reauthorization Act of 2025 | Placed on the Union Calendar, Calendar No. 376. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/L000560)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ACEC 2025 Convention: Congressman Rick Larsen](https://convention.acec.org/speakers/congressman-rick-larsen/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Congress.gov: Rick Larsen](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/L000560)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

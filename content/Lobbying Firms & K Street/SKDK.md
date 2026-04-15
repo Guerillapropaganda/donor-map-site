@@ -225,10 +225,15 @@ The Israel FARA episode is the exception that proves the rule. For one brief mom
 - [InfluenceWatch: SKDKnickerbocker](https://www.influencewatch.org/for-profit/skdknickerbocker/) (Tier 3) (VERIFIED)
 - [Wikipedia: SKDK](https://en.wikipedia.org/wiki/SKDK) (Tier 3) (VERIFIED)
 - [SKDK Official Website](https://skdknick.com/) (Tier 4) (VERIFIED)
-- ~~[FollowTheMoney: SKDK](https://www.followthemoney.org/tools/election-overview?eid=5162416)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Republic Report: The Real Hilary Rosen Scandal. Does Her Firm Sell Access to the White House to Powerful Corporations?](https://www.republicreport.org/2012/real-hilary-rosen-scandal/) (Tier 3) (VERIFIED)
 - [Sludge: Democrats Criticizing ICE Are Paying Consultants Tied to Palantir (Mar 12, 2026)](https://readsludge.com/2026/03/12/democrats-criticizing-ice-are-paying-consultants-tied-to-palantir/) (Tier 2) (VERIFIED)
 - [PR Newswire: Wavelength Strategy Joins SKDK (Feb 5, 2026)](https://www.prnewswire.com/news-releases/wavelength-strategy-joins-skdk-302679682.html) (Tier 3) (VERIFIED)
 - [PR Week: SKDK acquires digital ad shop Wavelength Strategy (Feb 2026)](https://www.prweek.com/article/1947402/skdk-acquires-digital-ad-shop-wavelength-strategy) (Tier 2) (VERIFIED)
 - [O'Dwyer's PR News: SKDK Makes Move on Wavelength Strategy (Feb 5, 2026)](https://www.odwyerpr.com/story/public/24257/2026-02-05/pr-firm-news-skdk-makes-move-wavelength-strategy.html) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FollowTheMoney: SKDK](https://www.followthemoney.org/tools/election-overview?eid=5162416)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)

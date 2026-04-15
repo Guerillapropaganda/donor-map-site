@@ -82,7 +82,6 @@ Total real estate industry political spending: $150-200 million per cycle in PAC
 ### Sources
 
 - [FEC Receipts: Real estate industry spending](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1)
-- ~~[JCT: 1031 exchange revenue estimates](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry%20Bloc)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NAR: Political advocacy](https://www.nar.realtor/advocacy) (Tier 1) (VERIFIED)
 - [Ballotpedia: Real estate industry](https://ballotpedia.org/Real_Estate_Industry_Bloc) (Tier 3) (VERIFIED)
 
@@ -157,3 +156,9 @@ Total real estate industry political spending: $150-200 million per cycle in PAC
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Real%20Estate%20Industry%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[JCT: 1031 exchange revenue estimates](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry%20Bloc)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

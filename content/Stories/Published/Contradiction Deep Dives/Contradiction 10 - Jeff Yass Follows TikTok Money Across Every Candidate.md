@@ -154,21 +154,17 @@ The contradiction dissolves when you stop thinking about parties and start think
 
 ### Tier 1 (Government documents & primary sources):
 - [FEC Independent Expenditures: Jeff Yass donor profile](https://www.fec.gov/data/independent-expenditures/?q=Jeffrey%20S%20Yass) (Tier 1) (VERIFIED)
-- ~~[Congressional Record: H.R. 7521 PAFACA text](https://www.congress.gov/bill/118th-congress/house-bill/7521/text)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Supreme Court TikTok ban affirmation, January 2025](https://www.supremecourt.gov/search.aspx?Search=Contradiction%2010%20-%20Jeff%20Yass%20Follows%20TikTok%20Money%20Across%20Every%20Candidate) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major investigative journalism):
 - [ProPublica: "Jeff Yass: The Billionaire GOP Mega-Donor Gaming the Tax System"](https://www.propublica.org/article/jeff-yass-susquehanna-tiktok-tax-avoidance) (Tier 2) (VERIFIED)
 - [Fortune: "The biggest donor in the 2024 election holds a $15 billion stake in TikTok's parent company"](https://www.fortune.com/2024/03/13/tiktok-billionaire-jeff-yass-biggest-donor-2024-election/) (Tier 2) (VERIFIED)
-- ~~[Axios: "ByteDance investor Jeff Yass tops 2024 donor list with TikTok under fire"](https://www.axios.com/2024/03/21/tiktok-jeff-yass-bytedance-donor-conservative)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Washington Post: "Why Trump is now against a TikTok ban"](https://www.washingtonpost.com/business/2024/03/12/trump-tiktok-ban-lobbying/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Intercept / Sludge: "How Jeff Yass Bought Trump's TikTok Flip-Flop"](https://www.alleyesonyass.com/statements/aug-5-2025) (Tier 2) (VERIFIED)
 - [Philadelphia Inquirer: "Philly billionaire Jeff Yass is one of TikTok's biggest investors. He's also donating millions to prevent the government from banning the app."](https://www.inquirer.com/business/jeffrey-yass-club-for-growth-pac-20230920.html) (Tier 2) (VERIFIED)
 - [CNBC: "Republican megadonor Jeff Yass, inner circle give millions to shape schools, courts"](https://www.cnbc.com/2024/04/09/jeff-yass-millions-to-influence-schools-courts-and-markets.html) (Tier 2) (VERIFIED)
 - [NBC News: "Who is Jeff Yass? The billionaire donor with investments in TikTok's parent company"](https://www.nbcnews.com/tech/tech-news/jeff-yass-billionaire-donor-investments-tiktoks-parent-company-rcna142531) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Secondary reporting & aggregators):
-- ~~[Bloomberg Billionaires Index: Jeff Yass profile](https://www.bloomberg.com/billionaires/profiles/jeffrey-s-yass/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Donald Trump-TikTok controversy](https://en.wikipedia.org/wiki/Donald_Trump%E2%80%93TikTok_controversy) (Tier 3) (VERIFIED)
 - [Wikipedia: Protecting Americans from Foreign Adversary Controlled Applications Act](https://en.wikipedia.org/wiki/Protecting_Americans_from_Foreign_Adversary_Controlled_Applications_Act) (Tier 3) (VERIFIED)
 - [Ballotpedia: Club for Growth Action (Super PAC)](https://ballotpedia.org/Club_for_Growth_Action_(Super_PAC) (VERIFIED)) (Tier 3)
@@ -177,3 +173,12 @@ The contradiction dissolves when you stop thinking about parties and start think
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congressional Record: H.R. 7521 PAFACA text](https://www.congress.gov/bill/118th-congress/house-bill/7521/text)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: "ByteDance investor Jeff Yass tops 2024 donor list with TikTok under fire"](https://www.axios.com/2024/03/21/tiktok-jeff-yass-bytedance-donor-conservative)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: "Why Trump is now against a TikTok ban"](https://www.washingtonpost.com/business/2024/03/12/trump-tiktok-ban-lobbying/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg Billionaires Index: Jeff Yass profile](https://www.bloomberg.com/billionaires/profiles/jeffrey-s-yass/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

@@ -103,7 +103,6 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 - [FEC campaign finance records: McCain presidential 2008](https://www.fec.gov) (Tier 1) (VERIFIED)
 - [Defense Industry Donations to John McCain](https://publicintegrity.org) (Tier 2) (VERIFIED)
 - [Keating Five scandal: Senate Ethics Committee investigation](https://www.senate.gov) (Tier 1) (VERIFIED)
-- ~~[McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [McCain family business: Hensley & Co beer distribution](https://ballotpedia.org/John_McCain) (Tier 3) (VERIFIED)
 
 ---
@@ -116,7 +115,6 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 12,179 |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300071)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -169,3 +167,10 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 - {{src:src_003506}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[McCain-Feingold Campaign Finance Reform Act of 2002](https://www.congress.gov)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300071)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

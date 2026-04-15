@@ -40,10 +40,15 @@ Cuellar survived a 2022 primary challenge from progressive Jessica Cisneros by 2
 
 ### Sources
 
-- ~~[Congress.gov: Henry Cuellar member profile](https://www.congress.gov/member/henry-cuellar/C001063)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006182}} (Tier 1) (VERIFIED)
 - [DOJ: United States v. Henry Cuellar indictment](https://www.justice.gov/archives/opa/pr/us-congressman-henry-cuellar-and-his-wife-charged-bribery-unlawful-foreign-influence-and) (Tier 1) (VERIFIED)
-- ~~[Washington Post: Cuellar indictment and Azerbaijan connections](https://www.washingtonpost.com/national-security/2024/05/03/henry-cuellar-indicted-bribery-azerbaijan-mexico/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Texas Tribune: Cuellar-Cisneros primary and oil industry spending](https://www.texastribune.org/cuellar-cisneros-primary/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Henry Cuellar](https://ballotpedia.org/Henry_Cuellar) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Henry Cuellar member profile](https://www.congress.gov/member/henry-cuellar/C001063)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Washington Post: Cuellar indictment and Azerbaijan connections](https://www.washingtonpost.com/national-security/2024/05/03/henry-cuellar-indicted-bribery-azerbaijan-mexico/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Texas Tribune: Cuellar-Cisneros primary and oil industry spending](https://www.texastribune.org/cuellar-cisneros-primary/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

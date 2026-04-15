@@ -187,12 +187,9 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 - {{src:src_004155}} (Tier 1) (VERIFIED)
 - {{src:src_004155}} (Tier 1) (VERIFIED)
 - {{src:src_004157}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Tom Cole member profile](https://www.congress.gov/member/tom-cole/C001053)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Appropriations Committee: Chairman Tom Cole](https://appropriations.house.gov/about/chairman-tom-cole) (Tier 1) (VERIFIED)
-- ~~[Cole.house.gov: FY2026 Defense Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-defense-labor-health-and-human-services-educationfense-appropriations-bill)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Cole.house.gov: FY2026 Energy and Water Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-fiscal-year-2026-energy-and-water-appropriations-bill) (Tier 1) (VERIFIED)
 - [Cole.house.gov: Tribal relations issues page](https://cole.house.gov/issues/tribal-relations) (Tier 1) (VERIFIED)
-- ~~[Nebraska Examiner: Cole tapped as Appropriations Chairman](https://nebraskaexaminer.com/2024/04/09/u-rep-tom-cole-of-oklahoma-tapped-by-gop-as-house-appropriations-chairman)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Oklahoma Watch: How Oklahoma's Congressional delegation got rich](https://oklahomawatch.org/2026/03/18/fast-food-farming-and-market-gambles-how-oklahomas-congressional-delegation-got-rich/) (Tier 2) (VERIFIED)
 - [Notus: Cole's Appropriations seat motivates stay in Congress](https://www.notus.org/congress/tom-cole-appropriations-committee-reelection-congress-retire) (Tier 2) (VERIFIED)
 - [Native News Online: Cole becomes longest-serving Native American in the House](https://nativenewsonline.net/currents/rep-cole-becomes-longest-serving-native-american-in-the-house/) (Tier 2) (VERIFIED)
@@ -296,12 +293,20 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 | 6938 | Commerce, Justice, Science; Energy and Water Development; and Interior and Envir… | Became Public Law No: 119-74. |
 | 747 | Directing the Clerk of the House of Representatives to request the Senate to ret… | Motion to reconsider laid on the table Agreed to without objection. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001053)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Tom Cole](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Tom Cole member profile](https://www.congress.gov/member/tom-cole/C001053)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Cole.house.gov: FY2026 Defense Appropriations vote statement](https://cole.house.gov/media/press-releases/cole-votes-favor-defense-labor-health-and-human-services-educationfense-appropriations-bill)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Nebraska Examiner: Cole tapped as Appropriations Chairman](https://nebraskaexaminer.com/2024/04/09/u-rep-tom-cole-of-oklahoma-tapped-by-gop-as-house-appropriations-chairman)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001053)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tom Cole](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

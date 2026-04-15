@@ -229,8 +229,6 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 ## Sources
 
 - {{src:src_003449}} (Tier 1) (VERIFIED)
-- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Think Progress: Iowa Senate Nominee Says The Koch Network 'Started My Trajectory'](https://thinkprogress.org/iowa-senate-nominee-says-the-koch-network-started-my-trajectory-56712b88d7e/) (Tier 2) (VERIFIED)
 - [HuffPost: At Koch Retreat, Top GOP Senate Candidates Credited Koch Network For Their Rise](https://www.huffpost.com/entry/koch-brothers-ernst-cotton-gardner_n_5718773) (Tier 2) (VERIFIED)
 - [NBC News: Republican Sen. Joni Ernst won't seek re-election in Iowa in 2026](https://www.nbcnews.com/politics/2026-election/republican-sen-joni-ernst-wont-seek-re-election-iowa-2026-rcna228053) (Tier 2) (VERIFIED)
@@ -363,7 +361,14 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 **Sources**
 
-- ~~[Congress.gov: Joni Ernst](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Joni Ernst](https://www.govtrack.us/congress/members/412667) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Kochs max out for Iowa Republican](https://www.thehill.com/blogs/ballot-box/senate-races/212609-kochs-max-out-for-ernst-in-iowa/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Real Koch Facts: More Koch Money for Top Crony Joni Ernst](http://realkochfacts.com/more-koch-money-for-top-crony-joni-ernst/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Congress.gov: Joni Ernst](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

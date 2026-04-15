@@ -123,7 +123,6 @@ No legislation required. No public debate. No voted-on compromise. Just executiv
 - [Washington Post: How Charles Koch's Network Won 40 Year War to Curb Regulation](https://www.washingtonpost.com/politics/2024/06/28/supreme-court-chevron-federal-agency-authority/) (Tier 2) (VERIFIED)
 - [The Intercept: How Charles Koch Purchased the Supreme Court's EPA Decision](https://theintercept.com/2022/06/30/supreme-court-epa-climate-charles-koch/) (Tier 2) (VERIFIED)
 - [Senator Whitehouse: Collapse in IRS Investigations of Wealthy Tax Cheats Under Trump](https://www.whitehouse.senate.gov/news/release/whitehouse-wyden-colleagues-probe-collapse-in-irs-investigations-of-wealthy-tax-cheats-under-trump/) (Tier 2) (VERIFIED)
-- ~~[ICIJ: IRS referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Oxfam America: Trump's IRS Cuts Allow Ultra Rich Tax Cheats to Steal $30 Million Per Day](https://www.oxfamamerica.org/press/trump-and-musks-proposed-irs-cuts-would-allow-ultra-rich-tax-cheats-to-steal-30-million-per-day-through-unlawful-tax-evasion/) (Tier 2) (VERIFIED)
 
 ### OFAC Sanctions Screening
@@ -147,3 +146,9 @@ No legislation required. No public debate. No voted-on compromise. Just executiv
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ICIJ: IRS referrals Against Corporations and Ultrawealthy Plummeted](https://www.icij.org/news/2026/03/irs-criminal-referrals-against-big-corporations-and-ultrawealthy-plummeted-during-trumps-first-year/s-and-ultrawealthy-plummeted-during-trump-s-first-year/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

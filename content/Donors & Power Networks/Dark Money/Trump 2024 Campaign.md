@@ -201,7 +201,6 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 - The New York Times Company v. Microsoft Corporation (2023) — District Court, S.D. New York
 - Bragg v. Jordan (2023) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%202024%20Campaign%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -221,3 +220,9 @@ The broader structural pattern: billionaires contributed nearly 20% of all donat
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%202024%20Campaign%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Trump%202024%20Campaign%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

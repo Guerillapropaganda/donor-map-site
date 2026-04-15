@@ -290,13 +290,18 @@ Across three decades, four presidents, and multiple Congress-control shifts, Gol
 - [Wikipedia: Steven Mnuchin](https://en.wikipedia.org/wiki/Steven_Mnuchin) (Tier 3) (VERIFIED)
 - [Jacobin: Chuck Schumer D-Wall Street](https://jacobin.com/2016/11/chuck-schumer-bernie-sanders-financial-industry-fundraising) (Tier 2) (VERIFIED)
 - [OpenSecrets: The Revolving Door Always Spins for Goldman Sachs](https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/) (Tier 2) (VERIFIED)
-- ~~[CNN: Goldman Sachs Alums in Trumpworld](https://money.cnn.com/2018/03/07/investing/gary-cohn-trump-goldman-sachs/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: The Surreal Politics of a Billionaire's Tax Loophole](https://www.propublica.org/article/the-surreal-politics-of-a-billionaires-tax-loophole) (Tier 2) (VERIFIED)
 - [American Prospect: How Chuck Schumer Deep-Sixed the Tech Antitrust Bills](https://prospect.org/2023/01/26/2023-01-26-chuck-schumer-tech-antitrust-bills/) (Tier 2) (VERIFIED)
 - [Washington Examiner: Dodd-Frank Regulations Help Goldman Sachs Gain Market Share](https://www.washingtonexaminer.com/dodd-frank-regulations-help-goldman-sachs-gain-market-share) (Tier 2) (NEEDS REVIEW)
 - [Wikipedia: Glass-Steagall Legislation](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation) (Tier 3) (VERIFIED)
-- ~~[CNN: Goldman Sachs' Top 1% Employees Can't Donate to Trump](https://money.cnn.com/2016/09/06/investing/goldman-sachs-political-donations/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[CNBC: Cory Booker Wall Street Campaign Finance Support](https://www.cnbc.com/2019/03/28/cory-booker-lines-up-support-in-the-financial-industry-to-help-him-raise-cash-for-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CNN: Goldman Sachs Alums in Trumpworld](https://money.cnn.com/2018/03/07/investing/gary-cohn-trump-goldman-sachs/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Goldman Sachs' Top 1% Employees Can't Donate to Trump](https://money.cnn.com/2016/09/06/investing/goldman-sachs-political-donations/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Cory Booker Wall Street Campaign Finance Support](https://www.cnbc.com/2019/03/28/cory-booker-lines-up-support-in-the-financial-industry-to-help-him-raise-cash-for-2020/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

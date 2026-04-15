@@ -253,7 +253,6 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 - [Senate LDA Filings: Prime Policy Group Lobbying Firm Profile. Summary](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Prime Policy Group Lobbyists. Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Prime Policy Group Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[Wikipedia: Charles R. Black Jr.](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops).) (Tier 3)
 - [Wikipedia: BKSH & Associates Worldwide](https://en.wikipedia.org/wiki/BKSH_&_Associates_Worldwide) (Tier 3) (VERIFIED)
 - [Wikipedia: Timmons & Company](https://en.wikipedia.org/wiki/Timmons_%26_Company) (Tier 3) (VERIFIED)
 - [PR Week: WPP merges BKSH and Timmons & Co.](https://www.prweek.com/article/1270010/wpp-merges-bksh-timmons-co) (Tier 2) (VERIFIED)
@@ -268,9 +267,6 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 - [WPP: WPP unites BCW and Hill & Knowlton to create Burson](https://www.wpp.com/en/news/2024/01/wpp-unites-bcw-and-hill-knowlton-to-create-burson) (Tier 2) (VERIFIED)
 - [PR Week: WPP integrates BSG into Burson (Jan 2025)](https://www.prweek.com/article/1896800/wpp-integrates-bsg-burson) (Tier 2) (VERIFIED)
 - [PR Week: Burson drops 6% in 2025 as PR relocates to new WPP Creative unit](https://www.prweek.com/article/1949856/burson-drops-6-2025-pr-relocates-new-wpp-creative-unit) (Tier 2) (VERIFIED)
-- ~~[Pitchonnet: WPP's strategic overhaul sparks speculation around a potential sale of Burson](https://www.pitchonnet.com/pitch-feature/wpps-strategic-overhaul-sparks-speculation-around-a-potential-sale-of-burson-39003.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-- ~~[The Hill: No Labels abandons 2024 presidential effort (April 2024)](https://thehill.com/homenews/campaign/4575052-no-labels-party-passes-2024-election-candidate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Axios: No Labels cancels plans for 2024 third-party ticket](https://www.axios.com/2024/04/04/no-labels-2024-presidential-campaign-cancelled)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ACCF: Former Congressman Tom Reed (R-NY) Joins ACCF Board of Advisors](https://accf.org/former-congressman-tom-reed-r-ny-joins-accf-board-of-advisors/) (Tier 3) (VERIFIED)
 
 ### SEC Filing Activity
@@ -306,11 +302,6 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2019)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/841989534) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -338,5 +329,20 @@ The WPP ownership structure serves a specific function: it insulates the firm fr
 - Ahmad Massoud (AFGHANISTAN)
 - ... and 6 more
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Prime%20Policy%20Group)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: Charles R. Black Jr.](https://en.wikipedia.org/wiki/All-In_(podcast)~~ (URL broken, archived by Ops).) (Tier 3)
+- ~~[Pitchonnet: WPP's strategic overhaul sparks speculation around a potential sale of Burson](https://www.pitchonnet.com/pitch-feature/wpps-strategic-overhaul-sparks-speculation-around-a-potential-sale-of-burson-39003.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[The Hill: No Labels abandons 2024 presidential effort (April 2024)](https://thehill.com/homenews/campaign/4575052-no-labels-party-passes-2024-election-candidate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: No Labels cancels plans for 2024 third-party ticket](https://www.axios.com/2024/04/04/no-labels-2024-presidential-campaign-cancelled)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/841989534/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Prime%20Policy%20Group)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Prime%20Policy%20Group)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

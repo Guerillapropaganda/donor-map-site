@@ -184,7 +184,6 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 | Net Assets | $18.1M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 742904514](https://projects.propublica.org/nonprofits/organizations/742904514) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Lobbying Activity
@@ -291,7 +290,6 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 - Valero Marketing and Supply Company v. United States (2026) — United States Court of International Trade
 - In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -314,3 +312,10 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valero%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F742904514_202309_990_2024120622937805.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Valero%20Energy%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

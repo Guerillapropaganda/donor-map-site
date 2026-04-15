@@ -153,7 +153,6 @@ The Thiel network's political architecture, from Palantir's founding with CIA ve
 - [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED) (Chrome)
 - [USASpending: Palantir Technologies Inc. federal award recipient profile](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/all) (Tier 1) (VERIFIED) (Chrome)
 - [Tech Transparency Project: Inside Palantir's Expanding Influence Operation](https://www.techtransparencyproject.org/articles/inside-palantirs-expanding-influence-operation) (Tier 2) (VERIFIED) (Chrome)
-- ~~[The Hill: Palantir courts major federal contracts, and controversy, in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome)
 - [ACLU: All the Ways Palantir is Assisting Trump's Abusive Removal Campaign](https://www.aclu.org/news/privacy-technology/palantir-deportation-roundup) (Tier 2) (VERIFIED) (Chrome)
 - [Revolving Door Project: Oligarchs and the Trump Admin. Peter Thiel](https://therevolvingdoorproject.org/billionaires-and-the-trump-admin-peter-thiel/) (Tier 2) (VERIFIED) (Chrome)
 - [Ballotpedia: Peter Thiel](https://ballotpedia.org/Peter_Thiel) (Tier 3) (VERIFIED)
@@ -192,3 +191,9 @@ The Thiel network's political architecture, from Palantir's founding with CIA ve
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Palantir courts major federal contracts, and controversy, in Trump era](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome)

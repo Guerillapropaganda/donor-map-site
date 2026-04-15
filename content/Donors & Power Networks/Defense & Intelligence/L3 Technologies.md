@@ -130,7 +130,6 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 ### Sources
 
-- ~~[OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Defense sector political spending overview](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [The Intercept: Surveillance and Border Security Contractors See Big Money in Donald Trump's Immigration Agenda](https://theintercept.com/2016/12/06/defense-companies-trump/) (Tier 2) (VERIFIED)
 
@@ -401,7 +400,6 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - Nathan Griffin v. Stellant Systems, Inc. (2025) — District Court, C.D. California
 - Appiah v. L3 Technologies (2025) — District Court, D. Utah
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3%20Technologies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### FTC Enforcement & Merger Review
@@ -432,3 +430,10 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: L3 Technologies lobbying and contributions](https://www.opensecrets.org/orgs/l3-technologies)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22L3%20Technologies%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

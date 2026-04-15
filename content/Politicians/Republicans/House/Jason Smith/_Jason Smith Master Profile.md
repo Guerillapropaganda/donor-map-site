@@ -181,7 +181,6 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 - {{src:src_004426}} (Tier 1) (VERIFIED)
 - {{src:src_004428}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Ways and Means Committee: Chairman Jason Smith](https://waysandmeans.house.gov/the-chairman/) (Tier 1) (VERIFIED)
 - [Tax Foundation: One Big Beautiful Bill Act Tax Changes](https://taxfoundation.org/research/all/federal/one-big-beautiful-bill-act-tax-changes/) (Tier 1) (VERIFIED)
 - [ProPublica: Secret IRS Files Reveal How the Ultrawealthy Gained by Shaping Trump's Tax Cut](https://www.propublica.org/article/secret-irs-files-reveal-how-much-the-ultrawealthy-gained-by-shaping-trumps-big-beautiful-tax-cut) (Tier 2) (VERIFIED)
@@ -291,7 +290,6 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 **Sources**
 
-- ~~[Congress.gov: Jason Smith](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jason Smith](https://www.govtrack.us/congress/members/412596) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -322,5 +320,12 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | 33 | To amend the Internal Revenue Code of 1986 to provide special rules for the taxa… | Received in the Senate and Read twice and referred to the Committee on Finance. |
 | 8813 | Preventing Child Welfare Entry Caused by Poverty Act | Referred to the Subcommittee on Work and Welfare. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001195)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Rep. Jason Smith Member Profile](https://www.congress.gov/member/jason-smith/S001195)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jason Smith](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001195)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

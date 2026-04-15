@@ -176,8 +176,6 @@ Merkley's existence in the Senate also creates a useful illusion for the Democra
 - [Senator Merkley: Statement on Financial Reform Legislation](https://www.merkley.senate.gov/merkley-statement-on-financial-reform-legislation/) (Tier 1) (VERIFIED)
 - [Jeff Merkley Campaign: End Hedge Fund Control of American Homes Act](https://www.jeffmerkley.com/2024/02/02/end-hedge-fund-control-american-homes-act/) (Tier 1) (VERIFIED)
 - [Jeff Merkley Campaign: Billionaire Money Is Flooding Our Elections](https://www.jeffmerkley.com/2026/03/18/billionaire-money-flooding-our-elections/) (Tier 1) (VERIFIED)
-- ~~[Bend Bulletin: Merkley Has Focused on Health, Energy and Consumer Protection](https://web.archive.org/web/2023/https:/www.bendbulletin.com/home/2286306-151/merkley-has-focused-on-health-energy-and-consumer)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[GovTrack: Senator Jeff Merkley](https://www.govtrack.us/congress/members/jeff_merkley/412325)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Jeff Merkley](https://en.wikipedia.org/wiki/Jeff_Merkley) (Tier 3) (VERIFIED)
 - [Ballotpedia: Jeff Merkley](https://ballotpedia.org/Jeff_Merkley) (Tier 3) (VERIFIED)
 
@@ -250,5 +248,12 @@ party:: Democrat
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/M001176)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bend Bulletin: Merkley Has Focused on Health, Energy and Consumer Protection](https://web.archive.org/web/2023/https:/www.bendbulletin.com/home/2286306-151/merkley-has-focused-on-health-energy-and-consumer)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[GovTrack: Senator Jeff Merkley](https://www.govtrack.us/congress/members/jeff_merkley/412325)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001176)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

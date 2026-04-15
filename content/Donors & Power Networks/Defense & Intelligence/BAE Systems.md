@@ -91,7 +91,6 @@ BAE Systems plc. The largest defense contractor in Europe and seventh-largest gl
 
 BAE Systems Inc. PAC contributes $2-3 million per cycle in the US, with lobbying spending of $5-8 million annually. The company's US political operation is managed through its domestic subsidiary to comply with FARA requirements, but the funding ultimately flows to a UK parent company, making BAE the largest foreign defense contractor in US politics.
 
-- ~~[OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -146,7 +145,6 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 | Officer Compensation | $6K |
 
 - [Source: ProPublica Nonprofit Explorer - EIN 742624710](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_72-74%2F742624710_202212_990O_2023120722085244.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -212,7 +210,6 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 - Quirino Rocha v. BAE Systems, Inc. (2025) - District Court, S.D. California
 - McManus v. Lettera (2025) - District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Spending (USASpending)
@@ -295,11 +292,6 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/742624710) (Tier 1) (VERIFIED)
@@ -428,3 +420,16 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: BAE Systems organizational profile](https://www.opensecrets.org/orgs/bae-systems/summary?id=D000000236)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_12_2023_prefixes_72-74%2F742624710_202212_990O_2023120722085244.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BAE%20Systems%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/742624710/2018)~~ (URL broken, archived by Ops)

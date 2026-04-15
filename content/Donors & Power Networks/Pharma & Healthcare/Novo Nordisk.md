@@ -107,7 +107,6 @@ Novo Nordisk A/S. Danish pharmaceutical company that has become the most valuabl
 
 Novo Nordisk's US political operation is managed through its American subsidiary. The company's PAC contributes $1-2 million per cycle, with lobbying spending of $5-8 million annually. As a foreign-headquartered company, Novo Nordisk's US political operation is constrained by FARA requirements, but the company's market dominance in insulin and GLP-1 drugs gives it enormous regulatory leverage.
 
-- ~~[OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -162,8 +161,6 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 ### Sources
 
 - [OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338) (Tier 1)
-- ~~[Senate Finance Committee: Insulin pricing investigation](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
-- ~~[FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - [Ballotpedia: Novo Nordisk](https://ballotpedia.org/Novo_Nordisk) (Tier 3) (VERIFIED)
 
 ---
@@ -261,7 +258,6 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 - Chairez v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
 - TAHERI v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Novo%20Nordisk%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -331,3 +327,12 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/957f1cea-f42c-bcea-e5c0-b8df5fb0d67d-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Novo Nordisk organizational profile](https://www.opensecrets.org/orgs/novo-nordisk/summary?id=D000042338)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Senate Finance Committee: Insulin pricing investigation](https://www.finance.senate.gov/chairmans-news/grassley-wyden-release-insulin-investigation)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[FDA: Insulin product approvals and biosimilars](https://www.fda.gov/drugs/therapeutic-biologics-applications-bla/insulin)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Novo%20Nordisk%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

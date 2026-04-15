@@ -49,6 +49,11 @@ The structural symmetry is exact: both sides use 501(c)(4) and DAF structures to
 ### Sources
 
 - [OpenSecrets: Dark money spending tracker](https://www.opensecrets.org/dark-money) (Tier 1) (VERIFIED)
-- ~~[IRS: 501(c)(4) organization filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Dark%20Money%20Networks%20-%20The%20Shadow%20System&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Dark money in politics](https://ballotpedia.org/Dark_Money_Networks_-_The_Shadow_System) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS: 501(c)(4) organization filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Dark%20Money%20Networks%20-%20The%20Shadow%20System&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

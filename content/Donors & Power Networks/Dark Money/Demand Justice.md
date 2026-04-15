@@ -210,7 +210,6 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 - [Capital Research Center: Demand Justice Profile](https://capitalresearch.org/article/demand-justice-how/) (Tier 3) (VERIFIED)
 - [NPR: Leonard Leo and The Federalist Society](https://www.npr.org/2024/11/24/nx-s1-5199049/federalist-society-conservative-supreme-court) (Tier 2) (VERIFIED)
 - [Sixteen Thirty Fund - OpenSecrets](https://www.opensecrets.org/orgs/sixteen-thirty-fund/summary?id=D000070975) (Tier 1) (VERIFIED)
-- ~~[Biden Judicial Appointments Record](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Kavanaugh Confirmation Vote Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1) (VERIFIED)
 - [Ketanji Brown Jackson Confirmation Record](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1) (VERIFIED)
 
@@ -247,8 +246,6 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 **Filing history:** 2022, 2021
 
 **View 990 filings:**
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2021)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/863689961) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -322,7 +319,6 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 - Coronavirus Reporter Corporation, et al. v. United States District Court for the Northern District of California, San Francisco (2025) — Court of Appeals for the Ninth Circuit
 - WHEELER v. BLANCHE (2025) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -338,3 +334,12 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Demand%20Justice%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Biden Judicial Appointments Record](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/26/fact-sheet-president-biden-announces-federal-judicial-appointments/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/863689961/2021)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Demand%20Justice%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -189,9 +189,7 @@ The Huckabee dynasty is the mechanism. Mike Huckabee governed for the same Arkan
 ## Sources
 
 - [Ballotpedia: Sarah Huckabee Sanders, campaign finance and donor data](https://ballotpedia.org/Sarah_Huckabee_Sanders) (Tier 3) (VERIFIED)
-- ~~[Arkansas Secretary of State: Campaign contributions](https://www.sos.arkansas.gov/elections/campaign-finance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
-- ~~[KARK: Sarah Huckabee Sanders raises $12.8M for governor race](https://www.kark.com/news/your-local-election-hq/arkansas-governor-candidate-sarah-huckabee-sanders-raises-over-12-8-million-total-for-campaign-66-from-out-of-state-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Sarah Huckabee Sanders signs bill rolling back child labor protections](https://www.cnn.com/2023/03/08/politics/sarah-huckabee-sanders-arkansas-child-labor/index.html) (Tier 2) (VERIFIED)
 - [NPR: Arkansas Gov. Sarah Huckabee Sanders office under fire for buying $19,000 lectern](https://www.cnn.com/2023/01/10/politics/sarah-huckabee-sanders-inauguration/index.html) (Tier 2) (VERIFIED)
 - [ABC News: Sarah Sanders office potentially violated state law in $19K lectern controversy](https://abcnews.com/Politics/sarah-sanders-office-potentially-violated-law-lectern-controversy/story?id=109308721?id=109308721) (Tier 2) (VERIFIED)
@@ -201,3 +199,10 @@ The Huckabee dynasty is the mechanism. Mike Huckabee governed for the same Arkan
 - [In These Times: Arkansas Teachers Strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2) (VERIFIED)
 - [NEA Arkansas: Inside the web of Arkansas school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Arkansas Secretary of State: Campaign contributions](https://www.sos.arkansas.gov/elections/campaign-finance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[KARK: Sarah Huckabee Sanders raises $12.8M for governor race](https://www.kark.com/news/your-local-election-hq/arkansas-governor-candidate-sarah-huckabee-sanders-raises-over-12-8-million-total-for-campaign-66-from-out-of-state-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -88,7 +88,6 @@ This is the two-audience problem in real time: one statement for progressive pri
 ---
 
 ### Sources
-- ~~[CalMatters: Oct 7 response timeline](https://calmatters.org/category/politics/2023/11/gaza-war-california-leaders/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [WSWS: Protest suppression legislation analysis](https://www.wsws.org/en/articles/2024/10/22/uuxx-o22.html) (Tier 4) (VERIFIED)
 - [Haaretz: Shapiro podcast / "no genocide"](https://www.haaretz.com/israel-news/2026-01-18/ty-article/.premium/not-a-big-fan-of-bibi-gavin-newsom-says-no-genocide-in-gaza-but-bashes-israels-conduct/0000019b-d223-d2f8-af9b-f3f3dc180000) (Tier 2) (VERIFIED)
 - [The New Republic: "apartheid state" / military aid comment](https://newrepublic.com/post/207348/newsom-israel-apartheid-us-aid-iran-war) (Tier 3) (VERIFIED)
@@ -96,3 +95,9 @@ This is the two-audience problem in real time: one statement for progressive pri
 - [J Weekly: Newsom staff meets Jewish leaders after "apartheid" comment](https://jweekly.com/2026/03/06/newsom-apartheid-israel/) (Tier 2) (VERIFIED)
 - [Times of Israel: AIPAC denial](https://www.timesofisrael.com/gavin-newsom-declares-he-never-has-and-never-will-accept-aipac-funding/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Oct 7 response timeline](https://calmatters.org/category/politics/2023/11/gaza-war-california-leaders/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

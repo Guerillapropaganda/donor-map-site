@@ -87,8 +87,13 @@ The structural irony is precise: Grim built his reputation through campaign fina
 ### Sources
 
 - [Ryan Grim. HuffPost](https://www.huffpost.com/author/ryan-grim) (Tier 2) (VERIFIED)
-- ~~[Ryan Grim. Drop Site News](https://www.dropsitenews.com/author/ryan-grim/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Semafor: The Intercept is running out of cash](https://www.semafor.com/article/04/14/2024/the-intercept-is-running-out-of-cash) (Tier 2) (VERIFIED)
 - [Washington Free Beacon: Exclusive, Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4) (VERIFIED)
 - [Ryan Grim. Wikipedia](https://en.wikipedia.org/wiki/Ryan_Grim) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Ryan Grim. Drop Site News](https://www.dropsitenews.com/author/ryan-grim/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

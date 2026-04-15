@@ -255,7 +255,6 @@ The pharmaceutical industry's political operation reveals the most complete exam
 - [Senate LDA Filings: Pharmaceuticals/Health Products lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Congress.gov CRS: Medicare Drug Price Negotiation Under the IRA. Industry Responses](https://www.congress.gov/crs-product/R47872) (Tier 1) (VERIFIED)
 - [Fierce Pharma: Big Pharma greets hundreds of ex-federal workers at the revolving door](https://www.fiercepharma.com/pharma/big-pharma-greets-hundreds-ex-federal-workers-at-revolving-door) (Tier 2) (VERIFIED)
-- ~~[The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenLobby: Big Pharma's Lobbying Machine, $452 Million and Counting](https://www.openlobby.us/investigations/big-pharma-lobbying) (Tier 2) (VERIFIED)
 - [Ballotpedia: Pharmaceutical industry political spending](https://ballotpedia.org/Pharmaceutical_industry_in_the_United_States) (Tier 3) (VERIFIED)
 - [Wikipedia: Pharmaceutical lobby](https://en.wikipedia.org/wiki/Pharmaceutical_lobby) (Tier 3) (VERIFIED)
@@ -343,7 +342,6 @@ The pharmaceutical industry's political operation reveals the most complete exam
 - AbbVie Inc v. Brown (2026) — District Court, W.D. Washington
 - Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -360,3 +358,10 @@ The pharmaceutical industry's political operation reveals the most complete exam
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: For Big Pharma, the revolving door keeps spinning](https://thehill.com/blogs/congress-blog/politics/452654-for-big-pharma-the-revolving-door-keeps-spinning/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Pharmaceutical%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

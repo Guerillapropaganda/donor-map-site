@@ -388,10 +388,6 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 #### Tier 1 (Government Databases & API Data)
 
-- ~~[FEC: RTX Corp candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
-- ~~[FEC: PhRMA candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
-- ~~[FEC: GEO Group candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
-- ~~[FEC: UAW candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
 - [Senate LDA: RTX lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA: PhRMA lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA: GEO Group lobbying filings](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
@@ -412,7 +408,6 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 - [OpenSecrets: Defense sector military earmarks analysis](https://www.opensecrets.org/news/2023/01/defense-sector-contributed-heavily-to-45-senators-who-secured-1-8-billion-in-military-construction-earmarks) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [OpenSecrets: Wexner 2022 analysis](https://www.opensecrets.org/news/2022/08/victorias-secret-founder-donates-big-to-gop/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [The Lever: PhRMA dark money $8B bonanza](https://www.levernews.com/big-pharmas-dark-money-scores-8-billion-bonanza/) (Tier 2) (VERIFIED)
-- ~~[Quiver Quantitative: RTX lobbying disclosures](https://www.quiverquant.com/lobbying/stock/RTX/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Quiver Quantitative: Congress trading defense stocks](https://www.quiverquant.com/news/Congress+trading+in+Defense:+What+are+they+buying) (Tier 2) (VERIFIED)
 - [Quiver Quantitative: GEO Group Q1 2025 lobbying](https://www.quiverquant.com/news/Lobbying+Update:+$350,000+of+THE+GEO+GROUP+INC.+lobbying+was+just+disclosed) (Tier 2) (VERIFIED)
 - [Common Dreams: Congress members holding defense stock](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2) (VERIFIED)
@@ -431,8 +426,6 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 #### Tier 3 (Secondary Analysis & Specialized Reporting)
 
-- ~~[FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
-- ~~[FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
 - [JTA: Wexner Epstein files 2026](https://www.jta.org/2026/02/11/united-states/unredacted-epstein-files-and-planned-deposition-thrust-jewish-philanthropist-leslie-wexner-back-into-spotlight) (Tier 3) (VERIFIED)
 - [Equal Justice Initiative: Prison phone companies lobbying](https://eji.org/news/private-companies-lobbied-to-criminalize-cell-phones-in-prisons/) (Tier 3) (VERIFIED)
 - [Physicians for Human Rights: Private prisons ALEC SB 1070](https://phr.org/our-work/resources/private-prison-companies-lobby-against-immigration-reform-for-their-own-profit/) (Tier 3) (VERIFIED)
@@ -451,7 +444,6 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 - [YouTube/Washington Post: BI Incorporated ankle monitor monopoly](https://www.youtube.com?v=ftCRPoZcB9I) (Tier 4) (VERIFIED)
 - [YouTube/WBNS10TV: Wexner 2025 donations](https://www.youtube.com?v=a2kis7KKp84) (Tier 4) (VERIFIED)
-- ~~[MeidasNews: Wexner recent donations](https://meidasnews.com/news/les-wexner-donated-to-several-republican-candidates-as-recently-as-last-year)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4) (UNVERIFIED)
 
 #### Tier 3 (Reference/Policy)
 
@@ -460,3 +452,16 @@ This is not corruption in the quid-pro-quo sense. It is the structural function 
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FEC: RTX Corp candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: PhRMA candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: GEO Group candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[FEC: UAW candidate totals](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1) (UNVERIFIED)
+- ~~[Quiver Quantitative: RTX lobbying disclosures](https://www.quiverquant.com/lobbying/stock/RTX/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[FollowTheMoney: Bail bond industry lobbying](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
+- ~~[FollowTheMoney: Private prisons reporting](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 3) (UNVERIFIED)
+- ~~[MeidasNews: Wexner recent donations](https://meidasnews.com/news/les-wexner-donated-to-several-republican-candidates-as-recently-as-last-year)~~ (was Tier 4. URL broken, archived by Ops) (Tier 4) (UNVERIFIED)

@@ -77,9 +77,6 @@ Alaska's commercial fishing industry (salmon, halibut, pollock: $1.8B annual exp
 - {{src:src_001904}} (Tier 1) (VERIFIED)
 - {{src:src_001903}} (Tier 1) (VERIFIED)
 - {{src:src_001905}} (Tier 1) (VERIFIED)
-- ~~[Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Alaska Native voters shape 2026 race | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Alaska state budget oil revenue dependency analysis | Institute of the North](https://www.institutenorth.org/alaska-budget-oil-revenue)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 #### Archived
 - ~~{{src:src_001909}}~~ (was Tier 1, wrong FEC ID, shows Missouri House candidate not Alaska Senator. Replaced above)
@@ -89,3 +86,6 @@ Alaska's commercial fishing industry (salmon, halibut, pollock: $1.8B annual exp
 - ~~[ExxonMobil | Center for Responsive Politics](https://www.opensecrets.org/orgs/exxon-mobil-corp/summary)~~ (was Tier 1. OpenSecrets under old name, not government data)
 
 ---
+- ~~[Oil industry keeps funding Republicans despite climate crisis | Alaska Dispatch News](https://www.adn.com/politics/2025/11/14/oil-industry-keeps-funding-republicans-despite-climate-crisis/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Alaska Native voters shape 2026 race | Alaska Public Media](https://www.alaskapublic.org/2026/03/alaska-native-voting-power-2026)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Alaska state budget oil revenue dependency analysis | Institute of the North](https://www.institutenorth.org/alaska-budget-oil-revenue)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)

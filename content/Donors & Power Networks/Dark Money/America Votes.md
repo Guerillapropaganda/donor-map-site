@@ -177,10 +177,7 @@ America Votes also reveals **structural inequality in progressive politics:**
 
 ### Sources
 
-- ~~[OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [InfluenceWatch: America Votes, coordination hub and Democracy Alliance ties](https://www.influencewatch.org/non-profit/america-votes/) (Tier 3) (VERIFIED)
-- ~~[Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [America Votes: About Us and Coordination](https://americavotes.org/about/) (Tier 2) (VERIFIED)
 
 ### SEC Filing Activity
@@ -212,7 +209,6 @@ America Votes also reveals **structural inequality in progressive politics:**
 | Officer Compensation | $1.6M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 264568349](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F264568349_202306_990O_2024061822541095.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -230,11 +226,6 @@ America Votes also reveals **structural inequality in progressive politics:**
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/264568349) (Tier 1) (VERIFIED)
@@ -270,7 +261,6 @@ America Votes also reveals **structural inequality in progressive politics:**
 - United States v. Town of Thornapple, Wisconsin (2024) — District Court, W.D. Wisconsin
 - New Hampshire Youth Movement v. Scanlan (2024) — District Court, D. New Hampshire
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22America%20Votes%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -297,3 +287,18 @@ America Votes also reveals **structural inequality in progressive politics:**
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=America%20Votes) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: America Votes organizational profile](https://www.opensecrets.org/orgs/america-votes/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: America Votes (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=America%20Votes&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Democracy Fund: Voter contact efficiency and coordination](https://democracyfund.org/grants/voter-contact-coordination-research/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F264568349_202306_990O_2024061822541095.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/264568349/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22America%20Votes%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

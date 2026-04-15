@@ -38,7 +38,12 @@ Boebert's gun rights brand — she famously carries a Glock pistol on her hip an
 
 ### Sources
 
-- ~~[Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_004373}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Lauren Boebert](https://ballotpedia.org/Lauren_Boebert) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

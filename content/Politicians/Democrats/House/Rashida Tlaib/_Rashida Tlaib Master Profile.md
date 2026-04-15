@@ -236,7 +236,6 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 - {{src:src_005925}} (Tier 1) (VERIFIED)
 - {{src:src_005925}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [NPR: House votes to censure Rep. Rashida Tlaib](https://www.npr.org/2023/11/07/1211315549/tlaib-censure-house-israel-gaza) (Tier 2) (VERIFIED)
 - [Detroit News: Tlaib raises $3.7M after censure](https://www.detroitnews.com/story/news/politics/2024/02/01/tlaib-raises-3-7m-for-reelection-after-censure-by-house/72430690007/) (Tier 2) (VERIFIED)
 - [CBS News: Hill Harper offered $20M to challenge Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2) (VERIFIED)
@@ -365,7 +364,6 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 | 1028 | Expressing the sense of the House of Representatives that the United States must… | Referred to the Committee on the Judiciary, and in addition to the Committees on House Administration, Ways and Means, Education and Workforce, Energy and Commerce, Financial Services, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 7125 | Stop Body Camera Paywalls Act | Referred to the House Committee on the Judiciary. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/T000481)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -380,7 +378,6 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 - Housing and Insurance
 - Oversight and Investigations
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -424,3 +421,11 @@ Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. repre
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Rashida_Tlaib) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7294939) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Rashida Tlaib member profile](https://www.congress.gov/member/rashida-tlaib/T000481)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/T000481)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

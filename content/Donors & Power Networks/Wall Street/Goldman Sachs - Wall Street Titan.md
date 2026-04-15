@@ -173,7 +173,12 @@ The fines are not deterrents. Goldman paid $5.06 billion to the DOJ in 2016 for 
 - [Senate LDA Filings: Goldman Sachs Lobbyists 2024, 71.87% revolving door rate](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [OpenSecrets News: The revolving door always spins for Goldman Sachs, by design (2017)](https://www.opensecrets.org/news/2017/03/revolving-door-goldman-sachs/) (Tier 2) (VERIFIED)
 - [DOJ: Goldman Sachs Agrees to Pay More than $5 Billion. RMBS fraud settlement (April 2016)](https://www.justice.gov/archives/opa/pr/goldman-sachs-agrees-pay-more-5-billion-connection-its-sale-residential-mortgage-backed) (Tier 1) (VERIFIED)
-- ~~[The Hill: Trump continues White House's Goldman Sachs revolving door tradition](https://thehill.com/blogs/pundits-blog/the-administration/309966-trump-continues-white-houses-goldman-sachs-revolving/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Goldman Sachs controversies. ABACUS $550M settlement, AIG $12.9B, TARP](https://en.wikipedia.org/wiki/Goldman_Sachs_controversies) (Tier 3) (VERIFIED)
 - [Wikipedia: List of former employees of Goldman Sachs](https://en.wikipedia.org/wiki/List_of_former_employees_of_Goldman_Sachs) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Trump continues White House's Goldman Sachs revolving door tradition](https://thehill.com/blogs/pundits-blog/the-administration/309966-trump-continues-white-houses-goldman-sachs-revolving/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

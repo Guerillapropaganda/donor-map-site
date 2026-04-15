@@ -121,8 +121,13 @@ Ten states have no licensure requirements for bail agents. Only 22 states requir
 - [Ballotpedia: California Proposition 25 (2020) donor data](https://ballotpedia.org/California_Proposition_25,_Replace_Cash_Bail_with_Risk_Assessments_Referendum_%282020%29) (Tier 1) (VERIFIED)
 - [Brennan Center for Justice: How Profit Shapes the Bail Bond System](https://www.brennancenter.org/our-work/analysis-opinion/how-profit-shapes-bail-bond-system) (Tier 2) (VERIFIED)
 - [ACLU: Statement on Endeavour Capital's Divestment (2020)](https://www.aclu.org/press-releases/aclu-and-color-change-statement-endeavour-capitals-divestment-predatory-profit-bail) (Tier 2) (VERIFIED)
-- ~~[In re Kenneth Humphrey, California Supreme Court (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [California Department of Insurance: Seaview Insurance records](https://www.aclu.org/documents/final-letter-aclu-sent-endeavour-capital) (Tier 1) (VERIFIED)
 - [Private Equity Stakeholder Project: Endeavour Capital bail bond coverage](https://pestakeholder.org/news/following-aclu-report-endeavour-capital-exits-bail-bond-investment-2/) (Tier 3) (VERIFIED)
 - [Color of Change: Endeavour Capital Statement](https://colorofchange.org/blog/internal_press/aclu-and-color-of-change-statement-on-endeavour-capitals-divestment-from-predatory-for-profit-bail-industry/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[In re Kenneth Humphrey, California Supreme Court (2021)](https://law.justia.com/cases/california/supreme-court/2021/s247278.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -266,7 +266,6 @@ The structural function: Ballard Partners is the firm that converts political pr
 - [Washington Post: Firm with ties to Trump officials signs deal to lobby for Libyan warlord (Mar 21, 2026)](https://www.washingtonpost.com/national-security/2026/03/21/firm-with-ties-trump-officials-signs-deal-lobby-libyan-warlord/) (Tier 2) (VERIFIED)
 - [O'Dwyer's: Ballard Inks $2M Pact with Libyan Armed Forces (Mar 17, 2026)](https://www.odwyerpr.com/story/public/24464/2026-03-17/ballard-inks-2m-pact-with-libyan-armed-forces.html) (Tier 3) (VERIFIED)
 - [Middle East Eye: US lobby firm secures $2m contract to whitewash image of Libya's Haftar](https://www.middleeasteye.net/news/us-lobby-firm-secures-2m-contract-whitewash-khalifa-haftars-image) (Tier 2) (VERIFIED)
-- ~~[FARA Filing: Ballard Partners. Libyan Armed Forces (received Mar 13, 2026)](https://efile.fara.gov/docs/7070-Exhibit-AB-20260313-1.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [STAT News: Pharma companies turn to Trump-connected firms for FDA lobbying (Feb 23, 2026)](https://www.statnews.com/2026/02/23/fda-lobbying-trump-connected-firms-cash-in/) (Tier 2) (VERIFIED)
 - [OpenSecrets News: Pharma industry and Ballard Partners dominate the lobbying space in second quarter of 2025](https://www.opensecrets.org/news/2025/07/pharma-industry-and-ballard-partners-dominate-the-lobbying-space-in-second-quarter-of-2025/) (Tier 1) (VERIFIED)
 - [Florida Politics: Rich Haselwood joins Ballard Partners' Washington office (Mar 2026)](https://floridapolitics.com/archives/785587-rich-haselwood-joins-ballard-partners-washington-office/) (Tier 3) (VERIFIED)
@@ -288,7 +287,6 @@ The structural function: Ballard Partners is the firm that converts political pr
 - Bird Global, Inc. (2023) — United States Bankruptcy Court, S.D. Florida.
 - In re: Uber Technologies, Inc., Passenger Sexual Assault Litigation (2023) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ballard%20Partners%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Foreign Agent Activity (FARA)
@@ -299,5 +297,13 @@ The structural function: Ballard Partners is the firm that converts political pr
 | Total Records | 1 |
 | Registrant Records | 1 |
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ballard%20Partners)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FARA Filing: Ballard Partners. Libyan Armed Forces (received Mar 13, 2026)](https://efile.fara.gov/docs/7070-Exhibit-AB-20260313-1.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ballard%20Partners%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ballard%20Partners)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Ballard%20Partners)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

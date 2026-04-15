@@ -157,11 +157,16 @@ But the class analysis doesn't require bad faith to function. The structural que
 - [Washington Examiner: "'Twitter Files' journalist received IRS agent visit at home the same day he testified in Congress"](https://www.washingtonexaminer.com/news/1524730/twitter-files-journalist-received-irs-agent-visit-at-home-the-same-day-he-testified-in-congress/) (Tier 3) (VERIFIED)
 - [Rolling Stone: The Great American Bubble Machine (Goldman Sachs "vampire squid" article)](https://www.rollingstone.com/politics/politics-news/the-great-american-bubble-machine-195229/) (Tier 2) (VERIFIED)
 - [Washington Post: Taibbi and Musk split over Substack-Twitter rivalry](https://www.washingtonpost.com/technology/2023/04/07/twitter-substack-taibbi-musk-split/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Twitter Files journalist Matt Taibbi says Musk "very disappointing" on free speech](https://thehill.com/homenews/media/4536394-twitter-files-journalist-matt-taibbi-musk-disappointing-free-speech/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Reason: Elon Musk Throttles Substack, Clashing With Twitter Files' Matt Taibbi](https://reason.com/2023/04/10/elon-musk-matt-taibbi-twitter-substack/) (Tier 2) (VERIFIED)
-- ~~[Axios: Substack raising $65 million in venture capital (a16z Series B)](https://www.axios.com/2021/03/30/substack-andreessen-horowitz-newsletter)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [New Republic: Twitter Files' Matt Taibbi Says Elon Musk Sent Him Unhinged Messages](https://newrepublic.com/post/179067/twitter-files-matt-taibbi-messages-elon-musk) (Tier 2) (VERIFIED)
 - [House Judiciary Committee: Fighting the Weaponization of the IRS (PDF, documents Taibbi IRS visit)](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/evo-media-document/2023-10-27-fighting-the-weaponization-of-the-internal-revenue-service-the-end-of-abusive-unannounced-field-visits.pdf) (Tier 1) (VERIFIED)
 - [Wikipedia: Matt Taibbi](https://en.wikipedia.org/wiki/Matt_Taibbi) (Tier 3) (VERIFIED)
 - [Wikipedia: Twitter Files](https://en.wikipedia.org/wiki/Twitter_Files) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Twitter Files journalist Matt Taibbi says Musk "very disappointing" on free speech](https://thehill.com/homenews/media/4536394-twitter-files-journalist-matt-taibbi-musk-disappointing-free-speech/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Substack raising $65 million in venture capital (a16z Series B)](https://www.axios.com/2021/03/30/substack-andreessen-horowitz-newsletter)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

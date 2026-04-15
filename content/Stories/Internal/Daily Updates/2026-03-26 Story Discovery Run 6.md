@@ -37,7 +37,6 @@ known-gaps:
 
 ### Sources:
 - [Fierce Healthcare: Orphan drugs' price negotiation exemption to cost Medicare $8.8B](https://www.fiercehealthcare.com/regulatory/expanded-price-negotiation-exemption-orphan-drugs-cost-medicare-88b-over-10-years-cbo) (Tier 2) (VERIFIED)
-- ~~[CEPR: How Big Pharma Bought Government to Protect Its Racket](https://cepr.net/publications/how-big-pharma-bought-government-to-protect-its-racket/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Jacobin: Big Pharma Lobbying Makes Medicine Far More Expensive](https://jacobin.com/2025/11/big-pharma-lobbying-drug-prices) (Tier 2) (VERIFIED)
 - [Poulos for Massachusetts: How Pharmaceutical Industry Money Blocks Congressional Drug Price Reform](https://poulos.house/2026/01/17/pharmaceutical-money-blocks-drug-price-reform.html) (VERIFIED) (Tier 4, congressional office, partisan framing)
 - [Common Dreams: As TrumpRx Scam Does Virtually Nothing, Big Pharma Jacks Up Prices on Cancer Drugs](https://www.commondreams.org/news/pharma-cancer-drugs-price-2676579218) (Tier 2) (VERIFIED)
@@ -96,7 +95,6 @@ known-gaps:
 **Analytical patterns:** Donor-Class Override, Revolving Door (industry-sympathetic appointees), Genuine Win + Structural Limit (Maine ban is real but limited)
 
 ### Sources:
-- ~~[Lexology: Why US regulators are cracking down on private equity investments in the healthcare sector](https://www.lexology.com/library/detail.aspx?g=270f2e15-a852-4ec3-a142-c2a1496ee743)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED, paywalled analysis)
 - [Holland & Knight: Charting a Path Forward in 2026. Year-End Healthcare Antitrust Report](https://www.hklaw.com/en/insights/publications/2025/12/charting-a-path-forward-in-2026-holland-knights-year-end-healthcare) (Tier 3) (VERIFIED) (UNVERIFIED, law firm analysis)
 
 ---
@@ -129,3 +127,10 @@ known-gaps:
 
 The Diamond fossil fuel story overlaps with coverage in Run 5 (Brennan Center was referenced in passing). This run provides substantially more detail on the specific dollar figures, the Energy Transfer Partners pipeline, and the endangerment finding repeal timeline. The pharma story, defense buyback story, PE healthcare story, and Armed Services saturation data are all new to this run.
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CEPR: How Big Pharma Bought Government to Protect Its Racket](https://cepr.net/publications/how-big-pharma-bought-government-to-protect-its-racket/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Lexology: Why US regulators are cracking down on private equity investments in the healthcare sector](https://www.lexology.com/library/detail.aspx?g=270f2e15-a852-4ec3-a142-c2a1496ee743)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED, paywalled analysis)

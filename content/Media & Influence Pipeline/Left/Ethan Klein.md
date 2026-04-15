@@ -179,7 +179,6 @@ Klein's model also illustrates the limits of "independence" in creator economy m
 - [Tubefilter: Ethan, Hila Klein Say They've Prevailed In 2 Of 4 Recent Lawsuits](https://www.tubefilter.com/2022/01/14/ethan-klein-prevail-2-of-4-lawsuits-filed-by-triller-ryan-kavanaugh/) (Tier 3) (VERIFIED)
 - [Dexerto: H3's Ethan Klein set to face major defamation lawsuit after losing appeal](https://www.dexerto.com/entertainment/h3s-ethan-klein-set-to-face-major-defamation-lawsuit-after-losing-appeal-3177424/) (Tier 3) (VERIFIED)
 - [Dexerto: Ethan Klein is suing Denims, Frogan, and Kaceytron for alleged fair use violations](https://www.dexerto.com/youtube/ethan-klein-is-suing-denims-frogan-and-kaceytron-for-alleged-fair-use-violations-3217010/) (Tier 3) (VERIFIED)
-- ~~[Sportskeeda: Ethan Klein apologizes for platforming HasanAbi in much-awaited YouTube "Content Nuke"](https://www.sportskeeda.com/us/streamers/news-ethan-klein-apologizes-platforming-hasanabi-much-awaited-youtube-content-nuke-calls-sociopathic)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Spilled.gg: H3 Podcast slapped with 30-day Twitch ban for airing "Content Nuke"](https://spilled.gg/h3-podcast-slapped-30-day-twitch-ban-hasan-one-day-ban/) (Tier 3) (VERIFIED)
 - [Daily Dot: Was Ethan Klein's Lawsuit Against 3 Streamers a Trap For Hasan Piker?](https://dailydot.com/ethan-klein-copyright-lawsuit-hasan-piker) (Tier 3) (VERIFIED)
 - [Garbage Day: Alright, let's talk about the Hasan Piker and Ethan Klein feud](https://www.garbageday.email/p/alright-let-s-talk-about-the-hasan-piker-and-ethan-klein-feud) (Tier 3) (VERIFIED)
@@ -188,3 +187,9 @@ Klein's model also illustrates the limits of "independence" in creator economy m
 - [Graphtreon: Ethan and Hila Klein Patreon stats](https://graphtreon.com/creator/h3h3productions) (Tier 3) (VERIFIED)
 - [All About Lawyer: H3h3 Lawsuit Update, Ethan Klein's 2025 Legal Battles Explained](https://allaboutlawyer.com/h3h3-lawsuit-update-ethan-kleins-2025-legal-battles-explained-copyright-defamation-whats-next/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Sportskeeda: Ethan Klein apologizes for platforming HasanAbi in much-awaited YouTube "Content Nuke"](https://www.sportskeeda.com/us/streamers/news-ethan-klein-apologizes-platforming-hasanabi-much-awaited-youtube-content-nuke-calls-sociopathic)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

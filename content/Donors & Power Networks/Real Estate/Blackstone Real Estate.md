@@ -208,7 +208,6 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 ### Sources
 
 - [ACCE Institute: Helter Shelter. How Blackstone Contributes to and Profits from California's Broken Housing System](https://www.acceinstitute.org/helter_shelter_how_blackstone_contributes_to_and_profits_from_california_s_broken_housing_system) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Blackstone: Real estate portfolio overview](https://www.blackstone.com/our-businesses/real-estate/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Blackstone Group](https://ballotpedia.org/Blackstone_Group) (Tier 3) (VERIFIED)
 - [Invitation Homes 10-K filings](https://www.businesswire.com/news/home/20260218809149/en/Invitation-Homes-Reports-Fourth-Quarter-and-Full-Year-2025-Results) (Tier 1) (VERIFIED) (UNVERIFIED)
@@ -217,7 +216,6 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 - [Elizabeth Warren Senate: Protecting and Empowering Renters. UN Rapporteurs letter](https://elizabethwarren.com/plans/protecting-empowering-renters) (Tier 2) (VERIFIED)
 - [PESP: National Rental Home Council Report. PE Landlord Coordination](https://pestakeholder.org/reports/the-national-rental-home-council-how-americas-largest-single-family-landlords-put-profit-over-people/) (Tier 2) (VERIFIED)
 - [Private Equity Stakeholder Project: Report Exposes Real Estate Industry Housing Crisis](https://pestakeholder.org/news/report-exposes-how-real-estate-industry-private-equity-firms-maintain-housing-crisis/) (Tier 2) (VERIFIED)
-- ~~[Politico: Single-family rentals group hires theGROUP D.C.](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2) (VERIFIED)
 - [Vox: Opportunity Zones. Sean Parker wealth tax](https://www.vox.com/2018/10/16/17940120/opportunity-zones-sean-parker-silicon-valley-wealth-taxes) (Tier 2) (VERIFIED)
 - [Novoco: Opportunity Zones impact and OZ 2.0 expansion](https://www.novoco.com/notes-from-novogradac/tax-teams-series-highlighting-the-impact-of-the-opportunity-zones-incentive) (Tier 2) (VERIFIED) (UNVERIFIED)
@@ -263,7 +261,6 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 - Blackstone Real Estate Investment LLC (2025) — United States Bankruptcy Court, E.D. California
 - T. v. Bellagio LLC (2025) — District Court, D. Nevada
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Real%20Estate%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -336,3 +333,11 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Blackstone Group organizational profile](https://www.opensecrets.org/orgs/blackstone-group/summary?id=D000021873)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Politico: Single-family rentals group hires theGROUP D.C.](https://www.politico.com/newsletters/politico-influence/2023/12/13/single-family-rentals-group-hires-thegroup-00131647)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Blackstone%20Real%20Estate%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -85,15 +85,20 @@ The class dynamic: Foreign wealth (sovereign funds, state capital) has discovere
 
 ### Sources
 
-- ~~[America First Policy Institute: "Foreign Capital and U.S. State Elections: A Data Audit"](https://americafirstpolicy.com/publications/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[House Oversight Committee: Investigation into Sixteen Thirty Fund](https://oversight.house.gov/hearing/the-impact-of-dark-money-organizations-on-elections/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
-- ~~[Campaign Legal Center: "The 501(c)(4) Loophole in Campaign Finance Law"](https://campaignlegal.org/press-releases/campaign-legal-center-files-fec-complaint-against-super-pac-spending-montana-senatelot-measures)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[German Marshall Fund: "Dark Money and Foreign Interference"](https://www.gmfus.org/publication/foreign-money-dark-money-networks)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Spending by Ballot Initiative](https://ballotpedia.org/Wiki/index.php/Outside_spending_database) (Tier 1) (VERIFIED)
-- ~~[CREW: "Foreign Money in State Elections: Legislative Response 2025-2026"](https://crew.org/report/foreign-dark-money/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [IRS: Form 990 Search Tool](https://www.irs.gov/charities-non-profits/form-990-series-downloads) (Tier 1) (VERIFIED)
-- ~~[ProPublica Nonprofit Explorer: Sixteen Thirty Fund](https://projects.propublica.org/nonprofits/organizations/271663043)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 
 ---
 #analysis
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[America First Policy Institute: "Foreign Capital and U.S. State Elections: A Data Audit"](https://americafirstpolicy.com/publications/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[House Oversight Committee: Investigation into Sixteen Thirty Fund](https://oversight.house.gov/hearing/the-impact-of-dark-money-organizations-on-elections/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Campaign Legal Center: "The 501(c)(4) Loophole in Campaign Finance Law"](https://campaignlegal.org/press-releases/campaign-legal-center-files-fec-complaint-against-super-pac-spending-montana-senatelot-measures)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[German Marshall Fund: "Dark Money and Foreign Interference"](https://www.gmfus.org/publication/foreign-money-dark-money-networks)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[CREW: "Foreign Money in State Elections: Legislative Response 2025-2026"](https://crew.org/report/foreign-dark-money/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[ProPublica Nonprofit Explorer: Sixteen Thirty Fund](https://projects.propublica.org/nonprofits/organizations/271663043)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)

@@ -238,11 +238,9 @@ The prediction market schism reveals the limits of trade association governance 
 - {{src:src_012182}} (Tier 1) (VERIFIED)
 - [AGA: 2024 Commercial Gaming Revenue press release](https://www.americangaming.org/2024-commercial-gaming-revenue-reaches-71-9b-marking-fourth-straight-year-of-record-revenue/) (Tier 1) (VERIFIED) (UNVERIFIED)
 - [Supreme Court: Murphy v. NCAA opinion (584 U.S. 453, 2018)](https://www.supremecourt.gov/opinions/17pdf/16-476_dbfi.pdf) (Tier 1) (VERIFIED)
-- ~~[SBC Americas: IRS confirms $2,000 slot tax threshold for 2026](https://sbcamericas.com/2025/12/17/irs-slot-tax-threshold-increase/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [RSM US: Big Beautiful Bill brings tax changes for casino industry](https://rsmus.com/insights/tax-alerts/2026/big-beautiful-bill-tax-reporting-casino-industry.html) (Tier 2) (VERIFIED)
 - [CNBC: FanDuel, DraftKings abandon AGA memberships](https://www.cnbc.com/2025/11/18/fanduel-draftkings-abandon-aga-memberships.html) (Tier 2) (VERIFIED)
 - [WaPo: DraftKings, FanDuel back prediction markets, leave AGA](https://www.washingtonpost.com/sports/2025/11/19/draftkings-fanduel-prediction-markets/) (Tier 2) (VERIFIED) (UNVERIFIED)
-- ~~[Marketplace: Sports betting is booming. So are calls to gambling addiction helplines](https://www.marketplace.org/story/2024/01/23/sports-betting-is-booming-so-are-calls-to-gambling-addiction-helplines)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [UCSD: Study reveals surge in gambling addiction following legalization](https://today.ucsd.edu/story/study-reveals-surge-in-gambling-addiction-following-legalization-of-sports-betting) (Tier 2) (VERIFIED)
 - [CDC Gaming: Miriam Adelson Las Vegas Sands Texas lobbying](https://cdcgaming.com/brief/miriam-adelson-las-vegas-sands-continue-to-bankroll-pro-gambling-efforts-in-texas/) (Tier 2) (VERIFIED)
 - [AGA staff: Bill Miller bio](https://www.americangaming.org/staff/bill-miller/) (Tier 1) (VERIFIED) (UNVERIFIED)
@@ -304,11 +302,6 @@ The prediction market schism reveals the limits of trade association governance 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/931169142) (Tier 1) (VERIFIED)
@@ -348,7 +341,6 @@ The prediction market schism reveals the limits of trade association governance 
 - Hallman v. KalshiEX LLC (2026) — District Court, S.D. New York
 - Robinhood Derivatives, LLC v. Dreitzer, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Gaming%20Association%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -372,3 +364,16 @@ The prediction market schism reveals the limits of trade association governance 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Gaming%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SBC Americas: IRS confirms $2,000 slot tax threshold for 2026](https://sbcamericas.com/2025/12/17/irs-slot-tax-threshold-increase/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Marketplace: Sports betting is booming. So are calls to gambling addiction helplines](https://www.marketplace.org/story/2024/01/23/sports-betting-is-booming-so-are-calls-to-gambling-addiction-helplines)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/931169142/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Gaming%20Association%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -123,7 +123,6 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 - [Peter Thiel - Mithril](https://www.mithril.com/our-founders/peter-thiel/) (Tier 3) (VERIFIED)
 - [Ajay Royan - Mithril](https://www.mithril.com/our-founders/ajay-royan/) (Tier 3) (VERIFIED)
 - [Mithril Capital – Info, Investments & Portfolio](https://vc-mapping.gilion.com/vc-firms/mithril-capital-management) (Tier 3) (VERIFIED)
-- ~~[Mithril Capital Management - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/mithril-capital-management)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Mithril Capital Management Portfolio Investments - CB Insights](https://www.cbinsights.com/investor/mithril-capital-management) (Tier 3) (VERIFIED)
 - [Invivyd Appoints Ajay Royan, Founder of Mithril Capital, to its Board of Directors](https://investors.adagiotx.com/news-releases/news-release-details/invivyd-appoints-ajay-royan-founder-mithril-capital-its-board/) (Tier 2)
 - [Ajay Royan | Fractyl Health](https://www.fractyl.com/team/ajay-royan/) (Tier 3)
@@ -199,5 +198,11 @@ Mithril sits within the broader Thiel venture ecosystem alongside [[Founders Fun
 - Mithril Capital Management LLC v. McKellar (2019) — District Court, W.D. Texas
 - McKellar v. Mithril Capital Management LLC (2019) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mithril%20Capital%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Mithril Capital Management - Crunchbase Company Profile & Funding](https://www.crunchbase.com/organization/mithril-capital-management)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mithril%20Capital%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

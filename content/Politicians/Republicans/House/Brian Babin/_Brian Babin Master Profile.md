@@ -163,7 +163,6 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 
 - [OpenSecrets: Brian Babin donor profile](https://www.opensecrets.org/members-of-congress/summary?cid=N00005736) (Tier 1) (VERIFIED)
 - {{src:src_004558}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Brian Babin](https://www.congress.gov/member/brian-babin/B001291)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Science Committee: Chairman Brian Babin](https://science.house.gov/chairman-brian-babin) (Tier 1) (VERIFIED)
 - [House Science Committee: Babin applauds repeal of 2009 Endangerment Finding](https://science.house.gov/press-releases?id=C2495D60-D3EC-4C52-ABD2-427B14F8E061) (Tier 1) (VERIFIED)
 - [House Science Committee: Babin applauds NOAA cancellation of Billion-Dollar Disaster dataset](https://republicans-science.house.gov/2025/5/chairman-babin-applauds-noaa-decision-to-cancel-controversial-billion-dollar-disaster-dataset) (Tier 1) (VERIFIED)
@@ -175,3 +174,9 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 - [Center for American Progress: Climate deniers of the 119th Congress](https://www.americanprogress.org/article/climate-deniers-of-the-119th-congress-and-the-second-trump-administration/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Brian Babin](https://ballotpedia.org/Brian_Babin) (Tier 3) (VERIFIED)
 - [Wikipedia: Brian Babin](https://en.wikipedia.org/wiki/Brian_Babin) (Tier 3) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Brian Babin](https://www.congress.gov/member/brian-babin/B001291)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

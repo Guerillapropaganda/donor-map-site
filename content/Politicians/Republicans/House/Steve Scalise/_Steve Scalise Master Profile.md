@@ -179,14 +179,12 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 - {{src:src_004181}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Team Scalise top donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/team-scalise/C00750521/2024/donors) (Tier 1) (VERIFIED)
 - [GovTrack: Steve Scalise](https://www.govtrack.us/congress/members/steve_scalise/412261) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Bloomberg Government: Oil, gas ties power House Speaker candidate Scalise fundraising](https://news.bgov.com/bloomberg-government-news/oil-gas-ties-power-house-speaker-candidate-scalise-fundraising) (Tier 2) (VERIFIED)
 - [Common Dreams: Scalise took $40K from PAC of CEO accused of oil price rigging](https://www.commondreams.org/news/big-oil-political-contributions) (Tier 2) (VERIFIED)
 - [Roll Call: Sweeping GOP energy bill would sweep away Biden's climate agenda](https://rollcall.com/2023/03/14/sweeping-gop-energy-bill-would-sweep-away-bidens-climate-agenda/) (Tier 2) (VERIFIED)
 - [NPR: Scalise says he's a unifier, the state of the GOP will test that](https://www.npr.org/2023/10/12/1205346289/scalise-says-hes-a-unifier-the-current-state-of-the-gop-will-test-that-skill) (Tier 2) (VERIFIED)
 - [Washington Post: The story behind Steve Scalise and David Duke](https://www.washingtonpost.com/politics/2023/10/12/steve-scalise-white-supremacy-david-duke-louisiana/) (Tier 2) (VERIFIED)
 - [OpenSecrets News: McCarthy's ouster spurs big money race for House leadership](https://www.opensecrets.org/news/2023/10/kevin-mccarthys-historic-ouster-spurs-big-money-race-for-house-leadership/) (Tier 2) (VERIFIED)
-- ~~[Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Acty,-Introduces-the-Lower-Energy-Costs-Act,-Introduces-the-Lower-Energy-Costs-Act)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Steve Scalise](https://ballotpedia.org/Steve_Scalise) (Tier 3) (VERIFIED)
 - [On the Issues: Steve Scalise on Energy & Oil](https://ontheissues.org/House/Steve_Scalise_Energy_+_Oil.htm) (Tier 3) (VERIFIED)
 
@@ -277,3 +275,10 @@ Stephen Joseph Scalise is an American politician who has been the House majority
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Scalise) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1857141) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Steve Scalise](https://www.congress.gov/member/steve-scalise/S001176)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Scalise.house.gov: Lower Energy Costs Act](https://scalise.house.gov/press-releases/Scalise-Makes-American-Energy-a-Priority,-Introduces-the-Lower-Energy-Costs-Acty,-Introduces-the-Lower-Energy-Costs-Act,-Introduces-the-Lower-Energy-Costs-Act)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

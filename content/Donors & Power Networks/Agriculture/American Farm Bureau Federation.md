@@ -293,7 +293,6 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 - [IATP: Farm Bureau Leadership Accused of Playing to Business Interests](https://www.iatp.org/news/farm-bureau-leadership-accused-of-playing-to-business-interests) (Tier 2) (VERIFIED)
 - [Missouri Independent: AFBF Representation Criticism](https://missouriindependent.com/2022/02/15/american-farm-bureau-federation-claims-its-the-voice-of-agriculture-others-beg-to-differ/) (Tier 2) (VERIFIED)
 - [InfluenceWatch: AFBF Profile](https://www.influencewatch.org/labor-union/american-farm-bureau-federation/) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: AFBF](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Farm_Bureau_Federation)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: American Farm Bureau Federation](https://en.wikipedia.org/wiki/American_Farm_Bureau_Federation) (Tier 3) (VERIFIED)
 
 ---
@@ -372,11 +371,6 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/360725160) (Tier 1) (VERIFIED)
@@ -459,3 +453,14 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=American%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: AFBF](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Farm_Bureau_Federation)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/360725160/2019)~~ (URL broken, archived by Ops)

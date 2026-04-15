@@ -81,6 +81,11 @@ This is a pure protection racket. Media owner faces competition from Adelson's I
 ### Sources
 
 - [Wikipedia. Trial of [[_Benjamin Netanyahu Master Profile|Benjamin Netanyahu]]](https://en.wikipedia.org/wiki/Trial_of_Benjamin_Netanyahu) (Tier 3)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[Times of Israel. Netanyahu trial updates](https://www.timesofisrael.com/tag/netanyahu-trial/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Haaretz. Netanyahu corruption cases analysis](https://www.haaretz.com/misc/tags/TAG_netanyahu_corruption)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-

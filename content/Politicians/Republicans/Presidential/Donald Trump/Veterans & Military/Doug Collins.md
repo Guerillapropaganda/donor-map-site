@@ -40,5 +40,10 @@ Koch network (via CVA), conservative media (Newsmax, Salem Media), America First
 - [OpenSecrets: Trump administration profile. Doug Collins](https://www.opensecrets.org/news/2025/04/trump-administration-profile-doug-collins/) (Tier 1) (VERIFIED)
 - [OpenSecrets: How money is driving push to privatize veterans' health care](https://www.opensecrets.org/news/2025/12/how-money-is-driving-the-push-to-privatize-veterans-health-care/) (Tier 1) (VERIFIED)
 - [American Prospect: Privatizing Veterans' Health Care Will Be a Disaster](https://prospect.org/2025/07/30/2025-07-30-privatizing-veterans-health-care-will-be-disaster/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Collins nomination](https://www.congress.gov/nomination/119th-congress/11/5)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Collins nomination](https://www.congress.gov/nomination/119th-congress/11/5)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

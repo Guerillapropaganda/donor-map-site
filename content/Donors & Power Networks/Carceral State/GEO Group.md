@@ -519,7 +519,6 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 | $0 | DEPT OF DEFENSE | 2008-08-01 |
 | $0 | DEPT OF DEFENSE | 2008-07-10 |
 
-- ~~[Source: SAM.gov Contract Awards](https://sam.gov/search/?q=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex&page=1&index=opp)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
 
 <!-- auto:sam-contracts end -->
 
@@ -538,7 +537,6 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [OpenSecrets: GEO Group PAC Profile 2024](https://www.opensecrets.org/political-action-committees-pacs/C00382150/summary/2024) (Tier 1) (VERIFIED)
 - [OpenSecrets: GEO Group Donation Recipients](https://www.opensecrets.org/orgs/geo-group/recipients?id=D000022003) (Tier 1) (VERIFIED)
 - [OpenSecrets: GEO Group Totals by Cycle](https://www.opensecrets.org/orgs/geo-group/totals?id=D000022003) (Tier 1) (VERIFIED)
-- ~~[FEC Receipts: For-Profit Prison Industry All-Time Recipients](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
 - [OpenSecrets: private prison political spending 2025](https://www.opensecrets.org/news/2025/04/private-prison-companies-positioned-to-benefit-from-increased-deportations/) (Tier 1) (VERIFIED)
 - [CREW: Private prison companies first to max out to Trump](https://www.citizensforethics.org/reports-investigations/crew-investigations/private-prison-behemoth-is-first-corporation-to-max-out-to-trump/) (Tier 2) (VERIFIED)
 - [Sludge: GEO inaugural donation](https://readsludge.com/2025/01/29/prison-company-banking-on-ice-raids-donated-to-trump-inauguration/) (Tier 2) (VERIFIED)
@@ -547,12 +545,7 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 #### Lobbying & Revolving Door:
 - [OpenSecrets: GEO Group Lobbying](https://www.opensecrets.org/orgs/geo-group/lobbying?id=D000022003) (Tier 1) (VERIFIED)
-- ~~[Senate LDA Filings: Federal Lobbying Summary](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
-- ~~[Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[POGO: Locking In Profits - Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Public Citizen: Pam Bondi Conflict of Interest](https://www.citizen.org/article/conflicted-justice/) (Tier 2) (VERIFIED)
-- ~~[New York Times: Pam Bondi as AG](https://www.nytimes.com/2025/01/08/us/politics/pam-bondi-trump-attorney-general-lobbyist.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Politico: Pam Bondi DOJ ethics](https://www.politico.com/news/2024/12/07/pam-bondi-doj-ethics-00192890)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [U.S. Senate Judiciary Democrats: Pam Bondi lobbying record](https://www.judiciary.senate.gov/press/dem/releases/pam-bondis-extensive-lobbying-for-wealthy-special-interests-and-foreign-government-poses-serious-conflict-of-interest) (Tier 2) (VERIFIED)
 
 #### ICE Detention Expansion:
@@ -562,7 +555,6 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [Brennan Center: Breaking down Biden's 2021 EO](https://www.brennancenter.org/our-work/research-reports/breaking-down-bidens-order-eliminate-doj-private-prison-contracts) (Tier 2) (VERIFIED)
 - [CREW: Trump budget benefits private detention companies](https://www.citizensforethics.org/reports-investigations/crew-investigations/trumps-budget-bill-benefits-private-immigration-detention-companies-that-donated-to-trump/) (Tier 2) (VERIFIED)
 - [NOTUS: private prison lobbying and contracts](https://www.notus.org/money/private-prisons-lobbying-corecivic-geo-group-immigration-detention) (Tier 2) (VERIFIED)
-- ~~[TIME: ICE's Largest Prison Contractors Post Record Revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/revenue/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Center for American Progress: One Big Beautiful Bill Act](https://www.americanprogress.org/article/congressional-republicans-one-big-beautiful-bill-act-creates-an-unaccountable-slush-fund-for-the-trump-administrations-deportation-force/) (Tier 2) (VERIFIED)
 
 #### Conditions & Deaths:
@@ -574,7 +566,6 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [CalMatters: Gov. Newsom can protect Californians by closing private prisons](https://calmatters.org/commentary/2019/09/gov-newsom-can-protect-californians-by-closing-private-prisons/) (Tier 2) (VERIFIED)
 - [KQED: AB 32 federal override](https://www.kqed.org/news/11792302/ice-poised-to-sign-new-for-profit-detention-contracts-before-californias-ban-begins) (Tier 2) (VERIFIED)
 - [California Governor's Office: AB 32 Press Release](https://www.gov.ca.gov/2019/10/11/governor-newsom-signs-ab-32-to-halt-private-for-profit-prisons-and-immigration-detention-facilities-in-california/) (Tier 1) (VERIFIED)
-- ~~[Reuters: GEO Group wins legal challenge to AB 32](https://www.reuters.com/legal/geo-group-wins-legal-challenge-california-private-immigrant-prisons-2022-09-26/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 #### Biden Executive Order & ICE Impact:
 - [OpenSecrets: Biden phases out private prisons](https://www.opensecrets.org/news/2021/02/biden-phases-out-private-prisons/) (Tier 1) (VERIFIED)
@@ -588,7 +579,6 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 - [Prison Legal News: Private prison lobbying influence](https://www.prisonlegalnews.org/news/2012/nov/15/private-prison-companies-use-political-influence-to-increase-incarceration/) (Tier 3) (VERIFIED)
 - [NPR: Why for-profit prisons house more inmates of color](https://www.npr.org/sections/codeswitch/2014/03/13/289000532/why-for-profit-prisons-house-more-inmates-of-color) (Tier 2) (VERIFIED)
 - [Sentencing Project: Racial disparity in imprisonment](https://www.sentencingproject.org/reports/one-in-five-racial-disparity-in-imprisonment-causes-and-remedies/) (Tier 2) (VERIFIED)
-- ~~[Transnational Institute: Stop corporations from profiting from incarceration](https://www.tni.org/en/article/the-first-step-to-stop-corporations-from-profiting-from-incarceration-in-the-united-states)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 #### BI Incorporated & Electronic Monitoring:
 - [Boulder Reporting Lab: BI Inc faces protests as ICE monitoring expands](https://boulderreportinglab.org/2026/02/24/boulders-bi-inc-faces-renewed-protests-as-its-ice-monitoring-role-expands/) (Tier 3) (VERIFIED)
@@ -734,3 +724,18 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: SAM.gov Contract Awards](https://sam.gov/search/?q=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex&page=1&index=opp)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1) (VERIFIED)
+- ~~[FEC Receipts: For-Profit Prison Industry All-Time Recipients](https://www.fec.gov/data/receipts/?data_type=processed)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1) (VERIFIED)
+- ~~[Senate LDA Filings: Federal Lobbying Summary](https://lda.gov/filings/public/filing/search/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1) (VERIFIED)
+- ~~[Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief](https://www.pogo.org/investigates/private-prison-giant-hired-ice-detention-chief)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[POGO: Locking In Profits - Top ICE Officials to GEO](https://www.pogo.org/investigates/locking-in-profits-top-ice-officials-leave-agency-to-serve-its-top-contractor)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Pam Bondi as AG](https://www.nytimes.com/2025/01/08/us/politics/pam-bondi-trump-attorney-general-lobbyist.html)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Politico: Pam Bondi DOJ ethics](https://www.politico.com/news/2024/12/07/pam-bondi-doj-ethics-00192890)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[TIME: ICE's Largest Prison Contractors Post Record Revenue](https://time.com/7378284/ice-immigration-detention-contractors-record-revenue/revenue/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: GEO Group wins legal challenge to AB 32](https://www.reuters.com/legal/geo-group-wins-legal-challenge-california-private-immigrant-prisons-2022-09-26/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Transnational Institute: Stop corporations from profiting from incarceration](https://www.tni.org/en/article/the-first-step-to-stop-corporations-from-profiting-from-incarceration-in-the-united-states)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)

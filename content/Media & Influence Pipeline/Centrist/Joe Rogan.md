@@ -191,6 +191,11 @@ The **Both-Sides Illusion (Media)** pattern applies cleanly: Rogan is described 
 - [Inside Climate News: Joe Rogan Is Fueling Climate Misinformation on TikTok, Watchdogs Warn](https://insideclimatenews.org/news/30052023/todays-climate-joe-rogan-climate-misinformation-tiktok/) (Tier 2) (VERIFIED)
 - [Sentient Media: Joe Rogan & Other Top Podcasts Spread Climate Disinfo, Research Finds](https://sentientmedia.org/joe-rogan-other-podcasts-spread-climate-disinfo/) (Tier 2) (VERIFIED)
 - [Media Matters: The right dominates the online media ecosystem, seeping into sports, comedy, and other supposedly nonpolitical spaces](https://www.mediamatters.org/google/right-dominates-online-media-ecosystem-seeping-sports-comedy-and-other-supposedly) (Tier 2) (VERIFIED)
-- ~~[Medium / Joshua Schall: Unilever Adds Onnit to Growing "Supplement Brands" Portfolio](https://joshua-schall.medium.com/unilever-acquires-onnit-a1230dba013a)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [WellbeingPort: Does Joe Rogan own Onnit?](https://wellbeingport.com/does-joe-rogan-own-onnit/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Medium / Joshua Schall: Unilever Adds Onnit to Growing "Supplement Brands" Portfolio](https://joshua-schall.medium.com/unilever-acquires-onnit-a1230dba013a)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

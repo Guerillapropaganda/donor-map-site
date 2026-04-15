@@ -201,7 +201,12 @@ If progressives win Maine (and Michigan), they will have demonstrated that they 
 ### Sources
 
 - [Elizabeth Warren Backs Graham Platner in Maine Senate Race, Bucking Democratic Leadership](https://www.notus.org/2026-election/elizabeth-warren-graham-platner-maine-senate-endorse) (Tier 2) (VERIFIED)
-- ~~[Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Praising Platner's 'Fighting Spirit,' Warren Is Latest Senator to Endorse Maine Senate Candidate](https://www.commondreams.org/news/warren-platner) (Tier 2) (VERIFIED)
 - [Iraq and Afghanistan veteran launches Democratic campaign against Sen. Susan Collins in Maine](https://www.nbcnews.com/politics/2026-election/iraq-afghanistan-veteran-launches-democratic-campaign-sen-susan-collin-rcna225703) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Elizabeth Warren endorses Graham Platner over Janet Mills in Maine Senate primary](https://thehill.com/homenews/campaign/5791291-warren-endorses-platner-maine-senate-primary/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

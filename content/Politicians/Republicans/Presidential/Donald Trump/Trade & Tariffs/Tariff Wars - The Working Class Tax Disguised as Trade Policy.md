@@ -87,13 +87,9 @@ The January 2020 Phase One trade deal with China was framed as the payoff for th
 
 ### Sources
 
-- ~~[Tax Foundation. The Economic Impact of Tariffs (updated 2025)](https://taxfoundation.org/research/all/federal/tariffs-impact/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Congressional Budget Office. The Budget and Economic Outlook 2025 to 2035. Tariff Revenue Projections](https://www.cbo.gov/publication/60870)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [USDA Economic Research Service. Market Facilitation Program Payments](https://www.ers.usda.gov/topics/farm-economy) (Tier 1) (VERIFIED)
-- ~~[Peterson Institute for International Economics. Trump Trade War Timeline](https://www.piie.com/microsites/trump-trade-war-timeline)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [American Farm Bureau Federation. Farm Bankruptcy Data 2018 to 2020](https://www.fb.org/market-intel/) (Tier 2) (VERIFIED)
 - [U.S. International Trade Commission. USMCA Economic Impact Assessment](https://www.usitc.gov/publications/332/pub4889.pdf) (Tier 1) (VERIFIED)
-- ~~[Chad Bown, Peterson Institute. US China Phase One Tracker](https://www.piie.com/research/piie-charts/us-china-phase-one-tracker)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Legislative Activity (Congress.gov)
 
@@ -101,3 +97,12 @@ The January 2020 Phase One trade deal with China was framed as the payoff for th
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Tax Foundation. The Economic Impact of Tariffs (updated 2025)](https://taxfoundation.org/research/all/federal/tariffs-impact/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congressional Budget Office. The Budget and Economic Outlook 2025 to 2035. Tariff Revenue Projections](https://www.cbo.gov/publication/60870)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Peterson Institute for International Economics. Trump Trade War Timeline](https://www.piie.com/microsites/trump-trade-war-timeline)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Chad Bown, Peterson Institute. US China Phase One Tracker](https://www.piie.com/research/piie-charts/us-china-phase-one-tracker)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

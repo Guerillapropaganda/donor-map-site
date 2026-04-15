@@ -139,13 +139,11 @@ The climate denial is the intellectual infrastructure for the financial interest
 ## Sources
 
 - [U.S. DOE: Secretary Wright accomplishments](https://www.energy.gov/articles/secretary-wright-highlights-100-days-unleashing-american-energy-under-president-trump) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Trump administration profile. Chris Wright](https://www.opensecrets.org/news/2025/09/trump-administration-profile-chris-wright/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Energy and Policy Institute: Chris Wright Koch donor network](https://energyandpolicy.org/chris-wright-energy-secretary-charles-koch/) (Tier 2) (VERIFIED)
 - [ProPublica: Doublespeak of Energy Secretary Chris Wright](https://www.propublica.org/article/energy-secretary-chris-wright-climate-change-double-speak-oil-gas-trump) (Tier 2) (VERIFIED)
 - [Brennan Center: Fossil fuel donors see major returns](https://www.brennancenter.org/our-work/analysis-opinion/fossil-fuel-industry-donors-see-major-returns-trumps-policies) (Tier 2) (VERIFIED)
 - [Common Dreams: Big oil's $445M investment in Trump](https://www.commondreams.org/news/big-oil-donations-trump) (Tier 2) (VERIFIED)
 - [FEC: Chris Wright contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=wright,+chris) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets.org: Chris Wright donation profile](https://www.opensecrets.org/individuals/chris-wright)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -177,5 +175,12 @@ The climate denial is the intellectual infrastructure for the financial interest
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Chris Wright](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Trump administration profile. Chris Wright](https://www.opensecrets.org/news/2025/09/trump-administration-profile-chris-wright/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets.org: Chris Wright donation profile](https://www.opensecrets.org/individuals/chris-wright)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Chris Wright](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

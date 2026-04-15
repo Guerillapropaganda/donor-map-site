@@ -176,7 +176,6 @@ The defense contractor bloc has achieved the most successful sustained lobbying 
 > [!contradiction]
 > Both parties campaign on different defense priorities — Democrats emphasize diplomacy and restraint, Republicans emphasize military strength — but the NDAA passes with overwhelming bipartisan margins every year, and defense spending only rises regardless of which party controls Congress or the White House. The rhetorical differences mask a structural consensus: both parties are funded by the same defense contractors and both parties' districts depend on the same defense jobs. The political competition is over which weapons systems to fund, not whether to keep funding them.
 
-- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Intercept: Biden filling top Pentagon positions with defense contractors](https://theintercept.com/2021/05/28/biden-pentagon-defense-contractors/) (Tier 2) (VERIFIED)
 - [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 2) (VERIFIED)
 - [DOD: Contract announcements](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
@@ -208,7 +207,6 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 | Net Assets | $2.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 20654518](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F020654518_202312_990O_2024061722535487.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -266,7 +264,6 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 - Anthropic PBC v. U.S. Department of War (2026) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Contractors%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -302,12 +299,20 @@ The pattern is **Both-Sides Illusion** at its purest: Democrats and Republicans 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F020654518_202312_990O_2024061722535487.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Defense%20Contractors%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/20654518/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/20654518) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

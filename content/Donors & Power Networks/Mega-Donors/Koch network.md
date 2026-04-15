@@ -68,7 +68,6 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 
 ### Sources
 
-- ~~[OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Koch network](https://ballotpedia.org/Koch_network) (Tier 3) (VERIFIED)
 
 ### Federal Court Records (CourtListener)
@@ -87,7 +86,6 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 - United States v. NAVARRO (2022) — District Court, District of Columbia
 - LINK v. CORCORAN (2021) — District Court, N.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Koch%20network%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -104,3 +102,10 @@ See [[Koch Network - Charles Koch]] for the complete donor node, and [[Koch - Ko
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Koch network spending](https://www.opensecrets.org/outsidespending/donor_detail?cycle=2024&id=U0000003535&type=I&super=N&name=Koch+Industries)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Koch%20network%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

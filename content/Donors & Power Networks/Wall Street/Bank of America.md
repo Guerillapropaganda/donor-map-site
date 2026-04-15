@@ -153,8 +153,6 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 - {{src:src_008628}} (Tier 1)
 - [Department of Justice: Bank of America $16.65 billion settlement](https://www.justice.gov/archives/opa/pr/bank-america-pay-1665-billion-historic-justice-department-settlement-financial-fraud-leading) (Tier 1) (VERIFIED)
 - [TARP: Bank of America bailout records](https://home.treasury.gov/data/troubled-asset-relief-program) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-reduce-overdraft-fees-this-spring-2022-01-11/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Bank of America political spending](https://ballotpedia.org/Bank_of_America) (Tier 3) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
@@ -206,7 +204,6 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 | Net Assets | $7.6M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 200721133](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F200721133_202312_990PF_2024060522488911.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -274,11 +271,6 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/200721133) (Tier 1) (VERIFIED)
@@ -330,7 +322,6 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 - 2026-04-10 — **424B2**: [424B2](https://www.sec.gov/Archives/edgar/data/70858/000191870426009744/0001918704-26-009744-index.htm) (VERIFIED)
 - 2026-04-10 — **FWP**: [FWP](https://www.sec.gov/Archives/edgar/data/70858/000191870426009704/0001918704-26-009704-index.htm) (VERIFIED)
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bank%20of%20America%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
 
 ### OCC Enforcement Actions
@@ -377,7 +368,6 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 - [AA-EC-11-110: Prompt Corrective Action (PCA) Directive](https://www.occ.gov/static/enforcement-actions/ea2011-181.pdf) (VERIFIED) (12/16/2011) [terminated]
 - ... and 109 more
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
 
 <!-- auto:occ-enforcement pending-merge 2026-04-15 -->
@@ -429,3 +419,18 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 
 <!-- auto:occ-enforcement pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Bank of America lobbying expenditures](https://www.opensecrets.org/orgs/bank-of-america/lobbying?id=D000000090)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Reuters: Bank of America reduces overdraft fees ahead of CFPB action](https://www.reuters.com/business/finance/bank-america-reduce-overdraft-fees-this-spring-2022-01-11/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F200721133_202312_990PF_2024060522488911.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/200721133/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Bank%20of%20America%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

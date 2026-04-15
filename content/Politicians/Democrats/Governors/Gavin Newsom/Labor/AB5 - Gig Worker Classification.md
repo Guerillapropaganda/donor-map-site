@@ -94,18 +94,23 @@ AB5 was itself a kind of pilot. It tested whether California could push back on 
 
 ### Tier 1. Primary Documents
 - [California Legislative Information: AB5 full text and legislative history](https://leginfo.legislature.ca.gov/faces/home.xhtml?bill_id=201920200AB5) (Tier 1) (VERIFIED)
-- ~~[California Secretary of State: Proposition 22 official text and results](https://elections.cdn.sos.ca.gov/statewide-elections/2020-general/prop-22-title-and-summary.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: California Proposition 22 (2020), campaign finance totals and contributors](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
 
 ### Tier 2. Major Journalism & Investigative
-- ~~[LA Times: Newsom signs AB5, worker protection bill](https://www.latimes.com/california/story/2019-09-18/gavin-newsom-signs-ab5-worker-protection-bill)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN Business: Prop 22 campaign spending. Uber, Lyft, DoorDash $185 million combined](https://www.cnn.com/2020/10/08/tech/proposition-22-california/index.html) (Tier 2) (VERIFIED)
-- ~~[CalMatters: California gig worker law withstands challenge. AB5 status after Prop 22](https://calmatters.org/category/economy/2024/06/ab-5-california-uber/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[MIT Technology Review: California passes bill making Uber/Lyft drivers employees](https://www.technologyreview.com/2019/09/11/133106/ab5-gig-work-uber-lyft-california-law/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Prop 22 passes; gig workers remain independent contractors](https://www.npr.org/2019/09/18/762108954/california-governor-signs-law-protecting-gig-economy-workers) (Tier 2) (VERIFIED)
 
 ### Tier 3. Secondary/Analysis
-- ~~[Vox: AB5 explainer and carveout analysis](https://www.vox.com/policy-and-politics/2019/9/18/20872942/california-ab5-law-gig-economy-uber-lyft-freelancers)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Berkeley Law Network: Uber, Lyft Win on Prop 22, most expensive ballot measure in California history](https://sites.law.berkeley.edu/thenetwork/2020/11/16/uber-lyft-win-on-prop-22-the-most-expensive-ballot-measure-in-californias-history/) (Tier 3) (VERIFIED)
 - [California Law Review: The Aftermath of California's Proposition 22](https://www.californialawreview.org/online/the-aftermath-of-californias-proposition-22) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[California Secretary of State: Proposition 22 official text and results](https://elections.cdn.sos.ca.gov/statewide-elections/2020-general/prop-22-title-and-summary.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[LA Times: Newsom signs AB5, worker protection bill](https://www.latimes.com/california/story/2019-09-18/gavin-newsom-signs-ab5-worker-protection-bill)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CalMatters: California gig worker law withstands challenge. AB5 status after Prop 22](https://calmatters.org/category/economy/2024/06/ab-5-california-uber/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[MIT Technology Review: California passes bill making Uber/Lyft drivers employees](https://www.technologyreview.com/2019/09/11/133106/ab5-gig-work-uber-lyft-california-law/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Vox: AB5 explainer and carveout analysis](https://www.vox.com/policy-and-politics/2019/9/18/20872942/california-ab5-law-gig-economy-uber-lyft-freelancers)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

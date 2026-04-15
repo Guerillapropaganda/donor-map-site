@@ -41,6 +41,11 @@ As Secretary of State, Rubio's diplomatic positions directly affect defense proc
 ### Sources
 
 - {{src:src_002884}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Uyghur Human Rights Policy Act of 2020 (S.3744)](https://www.congress.gov/bill/116th-congress/senate-bill/3744)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Marco Rubio](https://ballotpedia.org/Marco_Rubio) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Uyghur Human Rights Policy Act of 2020 (S.3744)](https://www.congress.gov/bill/116th-congress/senate-bill/3744)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

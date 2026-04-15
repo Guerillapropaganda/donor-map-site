@@ -194,8 +194,6 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 - {{src:src_005967}} (Tier 1) (VERIFIED)
 - {{src:src_005967}} (Tier 1) (VERIFIED)
 - {{src:src_005967}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: H.R.8034 — Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Quiver Quantitative: Aguilar net worth](https://www.quiverquant.com/congresstrading/politician/Pete%20Aguilar-A000371/net-worth) (Tier 3) (VERIFIED)
 - [Ballotpedia: Pete Aguilar](https://ballotpedia.org/Pete_Aguilar) (Tier 3) (VERIFIED)
 - [CalMatters: Inland Empire warehouse environmental impact](https://calmatters.org/commentary/2023/01/inland-empire-california-warehouse-development/) (Tier 2) (VERIFIED)
@@ -263,14 +261,12 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 | 430 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
 | 2402 | No Hungry Kids in Schools Act | Referred to the House Committee on Education and Workforce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/A000371)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -282,3 +278,12 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 - [Congress.gov: Pete Aguilar](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: H.R.8034 - Israel Security Supplemental Appropriations Act, 2024](https://www.congress.gov/bill/118th-congress/house-bill/8034)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/pete-aguilar/A000371)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/A000371)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Pete Aguilar](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

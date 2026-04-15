@@ -99,7 +99,6 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 ### Sources
 
 - [Energy and Policy Institute: Alabama Power paid millions to shadowy consulting groups involved in scandals](https://energyandpolicy.org/alabama-power-matrix-scandals/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Drummond lobbying spending](https://www.opensecrets.org/orgs/drummond)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -225,7 +224,6 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 - Knight First Amendment Institute at Columbia Uni (2026) — Court of Appeals for the Eleventh Circuit
 - Pitts v. United States (2026) — District Court, N.D. Georgia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Drummond%20Co.%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -242,3 +240,10 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Drummond lobbying spending](https://www.opensecrets.org/orgs/drummond)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Drummond%20Co.%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

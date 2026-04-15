@@ -109,5 +109,10 @@ The political trajectory: presidential primary (2024, brand-building) → DOGE c
 - [New Republic: The philosophical rift between Musk and Ramaswamy](https://newrepublic.com/?q=32-Day%20DOGE%20Tenure%20and%20the%20Musk%20Divorce) (Tier 2) (VERIFIED)
 - [Cato Institute: Analysis of DOGE's economic impact](https://www.cato.org/?q=32-Day%20DOGE%20Tenure%20and%20the%20Musk%20Divorce) (Tier 2) (VERIFIED)
 - [NBC News: Ramaswamy announces Ohio governor campaign](https://www.nbcnews.com/politics/donald-trump/vivek-ramaswamy-doge-launch-run-ohio-governor-rcna188397) (Tier 2) (VERIFIED)
-- ~~[Axios: DOGE staff reporting Ramaswamy's minimal participation](https://www.axios.com/results?q=32-Day%20DOGE%20Tenure%20and%20the%20Musk%20Divorce)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Federal Reserve: Federal spending analysis 2024-2025](https://www.federalreserve.gov/?q=32-Day%20DOGE%20Tenure%20and%20the%20Musk%20Divorce) (Tier 1) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: DOGE staff reporting Ramaswamy's minimal participation](https://www.axios.com/results?q=32-Day%20DOGE%20Tenure%20and%20the%20Musk%20Divorce)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

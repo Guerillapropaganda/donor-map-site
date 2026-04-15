@@ -204,7 +204,6 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 - [Wicker.senate.gov: Multi-Year Contract Award for Ingalls Shipbuilding](https://www.wicker.senate.gov/2018/9/wicker-hyde-smith-palazzo-praise-multi-year-contract-award-for-ingalls-shipbuilding) (Tier 1) (VERIFIED)
 - [Defense News: Powerful GOP Senator Eyes Ships, Jets, Nukes in Defense Spending Surge](https://www.defensenews.com/congress/budget/2024/05/29/powerful-gop-senator-eyes-ships-jets-nukes-in-defense-spending-surge/) (Tier 2) (VERIFIED)
 - [Breaking Defense: New SASC Chair Sets Sight on $200B Defense Boost](https://breakingdefense.com/2025/01/exclusive-new-sasc-chair-sets-sight-on-200b-defense-boost-major-acquisition-reform-push/) (Tier 2) (VERIFIED)
-- ~~[USNI News: Missile Defense Agency Issues Lockheed Martin Aegis Contract Worth Up to $2.97B](https://news.usni.org/2025/07/01/missile-defense-agency-issues-lockheed-martin-aegis-contract-worth-up-to-2-97b/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Magnolia Tribune: Navy Multi-Ship $11.5B Buy to Pascagoula's Ingalls](https://magnoliatribune.com/2024/08/16/navy-multi-ship-11-5-billion-buy-to-be-awarded-to-pascagoulas-ingalls-shipbuilding/) (Tier 2) (VERIFIED)
 - [Stars and Stripes: Wicker, Supporter of Ukraine and More Military Spending, Set to Become Chairman](https://www.stripes.com/theaters/us/2024-11-06/senate-armed-services-committee-chairman-wicker-15762340.html) (Tier 2) (VERIFIED)
 - [Magnolia Tribune: As Did Stennis, Sen. Wicker Is Poised to Exert Tremendous Influence](https://magnoliatribune.com/2024/11/13/as-did-stennis-sen-wicker-is-poised-to-exert-tremendous-influence-on-the-u-s-military/) (Tier 2) (VERIFIED)
@@ -236,7 +235,6 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 | 04/23/2018 | -- | Sale | $15,001 - $50,000 | Spouse |
 | 01/02/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -359,3 +357,10 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 - [GovTrack: Roger Wicker](https://www.govtrack.us/congress/members/400432) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[USNI News: Missile Defense Agency Issues Lockheed Martin Aegis Contract Worth Up to $2.97B](https://news.usni.org/2025/07/01/missile-defense-agency-issues-lockheed-martin-aegis-contract-worth-up-to-2-97b/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

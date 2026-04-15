@@ -53,7 +53,6 @@ Winner of Democratic primary will likely win general election. Virginia's Democr
  3. **Financial services** (Washington, D.C. proximity)
  4. **Real estate/development** (massive commercial development interests in NoVA)
 - **2026 positioning:** Warner entered 2026 with unprecedented cash reserves, signaling he is prepared for a contested primary (Reynolds challenge) and general election.
-- ~~[Source: WDBJ7: Mark Warner banks $13.36M for 2026](https://www.wdbj7.com/2026/01/13/mark-warner-banks-record-1336-million-as-he-gears-up-critical-2026-senate-race/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Jason Reynolds (Democratic Primary Challenger):
 - **Status:** Limited 2026 fundraising data available
@@ -88,7 +87,6 @@ This is the clearest example in the vault of a politician whose funding is direc
 - **Defense contractors (primary money):** Virginia is the only Senate district in America where the primary industry is federal defense contracting. Warner's defense contractor relationships are not incidental, they are central. His voting record on defense spending, weapons procurement, and military policy is directly shaped by his donor base. This is a politician where defense contractor interests are *visible and explicit* in his fundraising.
  - OpenSecrets data shows Warner receiving $500K+ from defense contractor executives in 2024 cycle alone
  - {{src:src_002029}} (Tier 1) (VERIFIED)
- - ~~[Source: VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/)~~ (URL broken, archived by Ops) (Tier 1 Virginia-specific) (Tier 2)
 
 - **Tech industry money:** Virginia's Northern Neck and Arlington are major tech hubs (AOL legacy, Amazon HQ2 recruitment, Palantir operations). Tech PACs and venture capital support Warner as a centrist Democrat friendly to corporate interests.
 
@@ -123,10 +121,17 @@ This is the clearest example in the vault of a politician whose funding is direc
 - [Virginia Mercury: GOP state Sen. Reeves launches 2026 US Senate bid](https://virginiamercury.com/2025/09/24/gop-state-sen-reeves-launches-2026-us-senate-bid-aims-to-unseat-warner/) (Tier 2) (VERIFIED)
 - [Virginia Independent: Key elections coming up in Virginia in 2026](https://virginiaindependentnews.com/elections/2026-constitution-amendments-referendums-primary-general-senate-house/) (Tier 2) (VERIFIED)
 - [Cook Political Report: VA Senate 2026](https://www.cookpolitical.com/senate/race/488691) (Tier 2) (VERIFIED)
-- ~~[WDBJ7: Mark Warner banks record $13.36 million for 2026 Senate race](https://www.wdbj7.com/2026/01/13/mark-warner-banks-record-1336-million-as-he-gears-up-critical-2026-senate-race/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - {{src:src_002029}} (Tier 1) (VERIFIED)
-- ~~[VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[VPAP: Donors to Mark Warner by occupation](https://www.vpap.org/candidates/5301/donors_sector_totals/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: WDBJ7: Mark Warner banks $13.36M for 2026](https://www.wdbj7.com/2026/01/13/mark-warner-banks-record-1336-million-as-he-gears-up-critical-2026-senate-race/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/)~~ (URL broken, archived by Ops) (Tier 1 Virginia-specific) (Tier 2)
+- ~~[WDBJ7: Mark Warner banks record $13.36 million for 2026 Senate race](https://www.wdbj7.com/2026/01/13/mark-warner-banks-record-1336-million-as-he-gears-up-critical-2026-senate-race/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[VPAP: Top donors to Mark Warner](https://www.vpap.org/candidates/5301/top_donors/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[VPAP: Donors to Mark Warner by occupation](https://www.vpap.org/candidates/5301/donors_sector_totals/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

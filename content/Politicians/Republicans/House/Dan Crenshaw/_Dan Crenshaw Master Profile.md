@@ -234,7 +234,6 @@ Crenshaw's 2026 primary loss is the rare case where the donor class lost. Energy
 
 - {{src:src_004487}} (Tier 1) (VERIFIED)
 - {{src:src_004487}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Dan Crenshaw](https://ballotpedia.org/Daniel_Crenshaw) (Tier 3) (VERIFIED)
 - [Texas Tribune: Steve Toth unseats Dan Crenshaw in GOP primary](https://www.texastribune.org/2026/03/03/texas-dan-crenshaw-steve-toth-republican-primary/) (Tier 2) (VERIFIED)
 - [Texas Tribune: Crenshaw blames primary loss on clickbait misinformation](https://www.texastribune.org/2026/03/06/dan-crenshaw-primary-loss-steve-toth-texas-2nd-congressional-district/) (Tier 2) (VERIFIED)
@@ -342,7 +341,6 @@ party:: Republican
 - Health
 - Oversight and Investigations
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -371,12 +369,19 @@ party:: Republican
 | 3859 | Returning Illegals over Turmoil Act | Referred to the House Committee on the Judiciary. |
 | 3756 | FISH Act of 2025 | Subcommittee Hearings Held |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001120)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Dan Crenshaw](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Dan Crenshaw member profile](https://www.congress.gov/member/dan-crenshaw/C001120)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001120)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dan Crenshaw](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

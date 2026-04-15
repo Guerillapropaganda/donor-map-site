@@ -200,7 +200,6 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 | Net Assets | $316.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 226028476](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F226028476_202312_990PF_2025010222973787.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -267,11 +266,6 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/226028476) (Tier 1) (VERIFIED)
@@ -289,7 +283,6 @@ The Merck model reveals the pharmaceutical class strategy in its purest form: ex
 
 - ~~[Merck Recalls Temodar and Temozolomide Bottles with Cracked Caps Due to Failure to Meet Child-Resistant Closure Requirement](https://www.cpsc.gov/Recalls/15219)~~ (URL broken, archived by Ops) (2015-08-18) — The bottle cap can be cracked which can cause the child-resistant closure to become ineffective to young children who can gain unintended access to the capsules, posing a risk of poisoning.
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Merck)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Register Activity
@@ -397,3 +390,15 @@ _Variant firm names in FDA data: Merck Sharp & Dohme LLC; Merck & Co. Inc; MERCK
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Merck) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F226028476_202312_990PF_2025010222973787.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/226028476/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Merck)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

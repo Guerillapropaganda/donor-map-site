@@ -91,7 +91,6 @@ Bradley operates through two vehicles: the **Bradley Foundation** itself (501(c)
 The foundation's current president is Richard Graber. Gabe Conger, who heads the Bradley Impact Fund, served nearly seven years at the Heritage Foundation before joining Bradley in 2018. Under Conger, the Impact Fund dramatically expanded its grants to Project 2025 organizations.
 
 - [ProPublica Nonprofit Explorer: Lynde and Harry Bradley Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/396037928) (Tier 1) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Bradley Funneled $86 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/12/13/bradley-funneled-86-million-to-right-wing-litigation-policy-media-youth-groups-and-higher-education-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -268,7 +267,6 @@ The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, rep
 - [ProPublica Nonprofit Explorer: Lynde and Harry Bradley Foundation 990 filings](https://projects.propublica.org/nonprofits/organizations/396037928) (Tier 1)
 - [ProPublica Nonprofit Explorer: Bradley Impact Fund 990 filings](https://projects.propublica.org/nonprofits/organizations/454678325) (Tier 1) (VERIFIED)
 - [EXPOSEDbyCMD: Bradley Funneled $86 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/12/13/bradley-funneled-86-million-to-right-wing-litigation-policy-media-youth-groups-and-higher-education-in-2022/) (Tier 2)
-- ~~[EXPOSEDbyCMD: Bradley Files. Investigations database](https://www.exposedbycmd.org/bradley-files/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Urban Milwaukee: How Wisconsin Money Funded Trump's Policies (March 2026)](https://urbanmilwaukee.com/2026/03/05/murphys-law-how-wisconsin-money-funded-trumps-policies/) (Tier 2) (VERIFIED)
 - [Documented: Bradley Foundations Pour Millions Into Network of Climate Denial and Anti-Labor Organizations](https://documented.net/reporting/bradley-foundations-pour-millions-into-network-of-climate-denial-and-anti-labor-organizations-tax-filings-show) (Tier 2) (NEEDS REVIEW)
 - [DeSmog: 6 Billionaire Fortunes Bankrolling Project 2025](https://www.desmog.com/2024/08/14/project-2025-billionaire-donor-heritage-foundation-donald-trump-jd-vance-charles-koch-peter-coors/) (Tier 2) (VERIFIED)
@@ -276,7 +274,6 @@ The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, rep
 - [Bucks County Beacon: Bradley Foundation's War on Democracy (2023)](https://buckscountybeacon.com/2023/05/the-arch-conservative-bradley-foundation-is-waging-a-war-on-democracy/) (Tier 2) (VERIFIED)
 - [HistPhil: Bradley Foundation and Milwaukee School Choice History](https://histphil.org/2018/03/08/the-bradley-foundations-milwaukee-story-patience-and-perseverance-in-foundation-funding-of-school-choice/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Bradley Foundation](https://ballotpedia.org/Bradley_Foundation) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Contributions of the Bradley Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Contributions_of_the_Bradley_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -363,11 +360,6 @@ The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, rep
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330771070) (Tier 1) (VERIFIED)
@@ -407,5 +399,18 @@ The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, rep
 - Qualcomm Incorporated v. ARM Holdings PLC (2024) — District Court, D. Delaware
 - ConvergeOne Holdings, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bradley%20Foundation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Bradley Funneled $86 Million to Right-Wing Groups in 2022](https://www.exposedbycmd.org/2023/12/13/bradley-funneled-86-million-to-right-wing-litigation-policy-media-youth-groups-and-higher-education-in-2022/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Bradley Files. Investigations database](https://www.exposedbycmd.org/bradley-files/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Contributions of the Bradley Foundation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Contributions_of_the_Bradley_Foundation)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/330771070/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bradley%20Foundation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -83,14 +83,19 @@ The class dynamic: Crypto billionaires have captured regulatory bodies (SEC appo
 
 ### Sources
 
+- [FEC: Fairshake Super PAC Filing Database](https://www.fec.gov/data/committees/) (Tier 1) (VERIFIED)
+
+---
+#analysis
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[DLNews: "Fairshake Super PAC Has $191M Cash on Hand. Most Ever for Single-Issue PAC"](https://dlnews.com/articles/fairshake-cash-record)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[CNBC: "How Fairshake Became the Crypto Industry's War Machine"](https://cnbc.com/fairshake-super-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Washington Monthly: "Illinois 2025: The Crypto Super PAC's Laboratory"](https://washingtonmonthly.com/illinois-fairshake)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Center for Responsive Politics: "Fairshake and the Crypto Dark Money Ecosystem"](https://www.opensecrets.org/pacs/crypto)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Washington Post: Crypto cash is flooding the 2024 election, here's who's benefiting](https://www.washingtonpost.com/business/interactive/2024/crypto-firms-candidates-house-senate-election-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[CREW & GMF: "Foreign Money and Crypto Super PACs: The Loophole in Campaign Finance Law"](https://crew.org/reports/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- [FEC: Fairshake Super PAC Filing Database](https://www.fec.gov/data/committees/) (Tier 1) (VERIFIED)
-
----
-#analysis
-

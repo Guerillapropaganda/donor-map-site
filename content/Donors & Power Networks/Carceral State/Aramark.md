@@ -199,7 +199,6 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 | Net Assets | $1.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 276727955](https://projects.propublica.org/nonprofits/organizations/276727955) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -218,7 +217,6 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 - HARPER v. ARAMARK SERVICES, INC. (2026) — District Court, S.D. Florida
 - The Cannabist Company Holdings (Canada) Inc. (2026) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -373,3 +371,10 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F276727955_202312_990O_2024061722529605.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Aramark%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

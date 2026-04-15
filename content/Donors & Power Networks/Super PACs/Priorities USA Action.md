@@ -186,9 +186,14 @@ The 2024 fundraising collapse reveals another structural truth: mega-donors don'
 **Filing history:** 2022, 2021, 2020
 
 **View 990 filings:**
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2020)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/833099604) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/833099604/2020)~~ (URL broken, archived by Ops)

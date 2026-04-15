@@ -139,12 +139,10 @@ This template can be replicated. Thiel is now explicitly considering the same st
 
 ### Tier 1 (Primary/Government):
 - [FEC: Protect Ohio Values PAC 2022 cycle filings](https://www.opensecrets.org/news/2022/02/peter-thiel-tied-dark-money-group-helping-bankroll-super-pac-spending-on-2022-election/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: J. D. Vance voting record and bills](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets.org: Peter Thiel donor profile](https://www.opensecrets.org/donor-lookup/results?name=peter+thiel&order=desc&sort=D) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Major Journalism):
 - [Washington Post: Inside the powerful Peter Thiel tech network that launched JD Vance](https://www.washingtonpost.com/technology/2024/07/28/jd-vance-peter-thiel-donors-big-tech-trump-vp/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Conversation: Peter Thiel helped make JD Vance - The Republican kingmaker's influence is growing](https://theconversation.com/friday-essay-libertarian-tech-titan-peter-thiel-helped-make-jd-vance-the-republican-kingmakers-influence-is-growing-261856) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Aggregators & Government Data):
@@ -161,3 +159,10 @@ This template can be replicated. Thiel is now explicitly considering the same st
 
 **content-readiness:** developed
 **last-updated:** 2026-03-20
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: J. D. Vance voting record and bills](https://www.congress.gov/member/j-vance/V000137)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Washington Post: The radicalization of Hillbilly Elegy author J.D. Vance](https://www.washingtonpost.com/nation/2024/07/25/jd-vance-hillbilly-elegy-jackson-kentucky/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

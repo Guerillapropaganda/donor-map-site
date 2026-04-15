@@ -250,7 +250,6 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 - {{src:src_001534}} (Tier 1) (VERIFIED)
 - [FEC: UDP independent expenditures](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project) (Tier 1) (VERIFIED)
 - [NBC News: AIPAC super PAC funded big-spending Illinois groups](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
-- ~~[Axios: AIPAC notches first real 2026 primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: New super PAC launches to counter AIPAC spending](https://www.nbcnews.com/politics/2026-election/new-super-pac-launches-counter-aipac-spending-democratic-primaries-rcna259448) (Tier 2) (VERIFIED)
 - [Semafor: The anti-AIPAC PAC talks about its 2026 strategy](https://www.semafor.com/article/03/11/2026/the-anti-aipac-pac-talks-about-its-2026-strategy) (Tier 2)
 - [The American Prospect: Pro-Palestine Super PAC war chest](https://prospect.org/2026/02/20/pro-palestine-super-pac-midterm-elections-aipac-israel-gaza/) (Tier 2) (VERIFIED)
@@ -278,3 +277,4 @@ The fundamental pattern: donor → UDP → shell PACs → primary outcomes. Vote
 | AFFORDABLE CHICAGO NOW! (ACN) | $1.3M |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+- ~~[Axios: AIPAC notches first real 2026 primary wins in Illinois](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

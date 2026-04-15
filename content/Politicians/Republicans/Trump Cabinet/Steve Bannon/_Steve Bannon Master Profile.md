@@ -141,7 +141,6 @@ When Bannon's usefulness expired, the Mercers cut him off. The January 2018 "Fir
 - [Washington Post: Mercer-Bannon partnership funding](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2) (VERIFIED)
 - [NPR: Inside the wealthy family funding Bannon](https://www.npr.org/2017/03/22/521083950/inside-the-wealthy-family-that-has-been-funding-steve-bannon-s-plan-for-years) (Tier 2) (VERIFIED)
 - [NBC News: Steve Bannon New York state guilty plea](https://www.nbcnews.com/politics/politics-news/steve-bannon-pleads-guilty-new-york-build-wall-case-rcna191672) (Tier 2) (VERIFIED)
-- ~~[Axios: Breitbart $750K salary](https://www.axios.com/2017/12/15/breitbart-paid-bannon-750000year-1513300900)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Cambridge Analytica and Bannon](https://www.cnn.com/2018/03/30/politics/bannon-cambridge-analytica) (Tier 2) (VERIFIED)
 - [FEC: Steve Bannon contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=bannon,+steve) (Tier 1) (VERIFIED)
 
@@ -152,5 +151,11 @@ When Bannon's usefulness expired, the Mercers cut him off. The January 2018 "Fir
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Steve Bannon](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Breitbart $750K salary](https://www.axios.com/2017/12/15/breitbart-paid-bannon-750000year-1513300900)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Steve Bannon](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

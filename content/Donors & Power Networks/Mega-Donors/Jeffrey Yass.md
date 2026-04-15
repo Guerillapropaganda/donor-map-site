@@ -425,14 +425,11 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Rolling Stone: TikTok billionaire Yass GOP donor abortion funding](https://www.rollingstone.com/politics/politics-features/tiktok-billionaire-yass-gop-donor-abortion-1234859270/) (Tier 2) (VERIFIED)
 - [Spotlight PA: Yass $18M on 2022 PA primary](https://www.spotlightpa.org/news/2022/05/pa-primary-2022-billionaire-donations-jeff-yass/) (Tier 2) (VERIFIED)
 - [Spotlight PA: 2024 PA donors/PACs (December 2024)](https://www.spotlightpa.org/news/2024/12/pennsylvania-election-top-donors-pacs-attorney-general-jeff-yass-state-house/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Top 20 Billionaires in American Elections](https://www.washingtonpost.com/politics/interactive/2025/top-20-billionaires-american-elections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Courier-Journal: Why Rand Paul is Yass's favorite politician (October 2022)](https://www.courier-journal.com/story/opinion/2022/10/31/why-rand-paul-is-billionaire-jeff-yass-favorite-national-politician/69598738007/) (Tier 2) (VERIFIED)
 - [Technical.ly: The firm owned by Pennsylvania's richest man is now co-leading US TikTok](https://technical.ly/entrepreneurship/susquehanna-international-group-jeff-yass-tiktok-board/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
 - [Revolving Door Project: Oligarchs in the Trump Admin: Jeff Yass](https://therevolvingdoorproject.org/jeff-yass-trump-admin-billionaires/) (Tier 2) (VERIFIED) (WebFetch verified ✓)
 - [Philadelphia Magazine: Jeff Yass's Big School Choice Gamble](https://www.phillymag.com/news/2024/08/24/jeff-yass-school-choice/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [NBC News: Who is Jeff Yass, billionaire donor investments in TikTok's parent company](https://www.nbcnews.com/tech/tech-news/jeff-yass-billionaire-donor-investments-tiktoks-parent-company-rcna142531) (Tier 2) (VERIFIED)
-- ~~[Forbes: Billionaire Jeff Yass may be the donor behind Trump's TikTok flipflop](https://www.forbes.com/sites/maryroeloffs/2024/03/18/billionaire-jeff-yass-may-be-the-donor-behind-trumps-tiktok-flipflop-heres-what-to-know/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [The 74 Million: School choice activist Jeff Yass may have prompted Trump's about-face on TikTok](https://www.the74million.org/article/school-choice-activist-jeff-yass-may-have-prompted-trumps-about-face-on-tiktok/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 
 ### News & Secondary Sources (Tier 2-3):
@@ -442,7 +439,6 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [Public Citizen: Deleting Enforcement. Trump big tech billion report](https://www.citizen.org/article/deleting-enforcement-trump-big-tech-billion-report/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 - [The Nation: Silicon Valley Trump support donations](https://www.thenation.com/article/politics/silicon-valley-trump-support-donations/) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 - [Inside Higher Ed: Report on billionaires supporting University of Austin](https://www.insidehighered.com/news/quick-takes/2024/10/17/report-some-billionaires-supporting-university-austin) (VERIFIED) (Tier 2-3) (UNVERIFIED)
-- ~~[Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Quartz: Jeff Yass Trump TikTok Truth Social](https://qz.com/jeff-yass-trump-tiktok-truth-social-1851367927) (VERIFIED) (Tier 2-3) (UNVERIFIED)
 
 ### Specialized/Advocacy Sources (Tier 3-4):
@@ -452,7 +448,6 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 - [The Racket: The Free Press pseudo-liberal outlet (Bari Weiss, UATX)](https://theracket.news/p/the-free-speech-event-that-wasnt) (Tier 3) (VERIFIED)
 - [Proteus Fund: Conquering the Courts report (PA Supreme Court)](http://www.proteusfund.org/wp-content/uploads/true-north-conquering-the-courts-report.pdf) (Tier 3) (VERIFIED)
 - [Cambridge Perspectives on Politics: Diaspora-local cooperation and American-Israeli network ideological change (Academic)](https://www.cambridge.org/core/journals/perspectives-on-politics/article/diasporalocal-cooperation-as-a-driver-of-ideological-change-the-ascendance-of-american-conservatism-in-israel/1114BF43E1A4A649C9E46387BB26DFDB) (VERIFIED) (Tier 2-3) (UNVERIFIED)
-- ~~[The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### Reference & Aggregator (Tier 3):
 - [Wikipedia: Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) (Tier 3) (VERIFIED)
@@ -514,3 +509,13 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Jeffrey%20Yass%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Top 20 Billionaires in American Elections](https://www.washingtonpost.com/politics/interactive/2025/top-20-billionaires-american-elections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Forbes: Billionaire Jeff Yass may be the donor behind Trump's TikTok flipflop](https://www.forbes.com/sites/maryroeloffs/2024/03/18/billionaire-jeff-yass-may-be-the-donor-behind-trumps-tiktok-flipflop-heres-what-to-know/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Forbes: Secretive billionaire is one of America's biggest conservative donors](https://www.forbes.com/sites/michelatindera/2021/04/16/this-secretive-billionaire-is-one-of-americas-biggest-conservative-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Marginal Revolution: University of Austin $100M Yass donation](https://marginalrevolution.com/?p=91799)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[The Guardian: Yass donations to anti-Muslim and pro-Israel groups](https://www.theguardian.com/us-news/2024/apr/01/billionaire-donor-tiktok-stake)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)

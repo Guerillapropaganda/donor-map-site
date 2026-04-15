@@ -165,13 +165,11 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 ## Sources
 
-- ~~[FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Congress.gov: Antonio Villaraigosa donor profile](https://www.congress.gov/search?q=Villaraigosa&searchResultViewType=expanded) (Tier 1) (VERIFIED)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [The Real Deal LA: Real estate heavyweights back Villaraigosa's 2026 bid for governor](https://therealdeal.com/la/2025/10/14/real-estate-execs-fund-villaraigosa-for-california-governor/) (Tier 2) (VERIFIED)
 - [CalMatters: Republican leads CA governor fundraising. H2 2025 data](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [EdSource: Charter school backing for Villaraigosa's gubernatorial bid grows](https://edsource.org/2018/charter-school-backers-support-for-former-la-mayors-bid-for-governor-grows/597847) (Tier 2) (VERIFIED)
-- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [KQED: Charter Schools Supporters Seek to Prop Up Villaraigosa in Governor's Race](https://www.kqed.org/news/11661975/charter-schools-supporters-seek-to-prop-up-villaraigosa-in-governors-race) (Tier 2) (VERIFIED)
 - [California Federation of Labor Unions: 2026 Governor Endorsements](https://calaborfed.org/press-releases/california-federation-of-labor-unions-endorse-for-governor-and-other-statewide-races-for-2026-primary-election/) (Tier 1) (VERIFIED)
 - [NBC News: California governor debate canceled after criticism of criteria that excluded candidates of color](https://www.nbcnews.com/politics/2026-election/california-governor-debate-canceled-criticism-candidates-color-rcna264945) (Tier 2) (VERIFIED)
@@ -218,5 +216,12 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Antonio Villaraigosa](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FollowTheMoney.org: Villaraigosa 2026 Governor Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Antonio%20Villaraigosa#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[San Diego Union-Tribune: Netflix CEO Reed Hastings donates $7 million to pro-Villaraigosa group](https://www.sandiegouniontribune.com/la-pol-ca-essential-politics-updates-netflix-ceo-and-ed-reform-advocate-reed-1523495119-htmlstory.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Antonio Villaraigosa](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

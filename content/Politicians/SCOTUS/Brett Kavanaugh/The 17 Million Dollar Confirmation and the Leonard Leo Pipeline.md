@@ -92,8 +92,6 @@ Kavanaugh's confirmation established the template for future dark money judicial
 ### Tier 1 (Primary Documents)
 - [Senate Judiciary Committee: Confirmation Hearing on the Nomination of Brett M. Kavanaugh - September 27, 2018](https://www.senate.gov/pagelayout/general/one_item_and_teasers/waf.htm) (Tier 1) (VERIFIED)
 - {{src:src_002644}} (Tier 1) (VERIFIED)
-- ~~[IRS Form 990-N: Judicial Crisis Network / Concord Fund Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2017%20Million%20Dollar%20Confirmation%20and%20the%20Leonard%20Leo%20Pipeline&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Senate Judiciary Committee: Blasey Ford Testimony Transcript - September 27, 2018](https://www.judiciary.senate.gov/imo/media/doc/Blasey%20Ford%20Testimony.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - [Senate Roll Call Vote 223 - Kavanaugh Confirmation (50-48) - October 6, 2018](https://www.senate.gov/legislative/roll-call-vote-not-available.htm) (Tier 1) (VERIFIED)
 
 ### Tier 2 (Investigative Journalism)
@@ -102,4 +100,11 @@ Kavanaugh's confirmation established the template for future dark money judicial
 - [CREW: Group behind Trump SCOTUS picks brought in nearly $50 million in secret money](https://www.citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/) (Tier 2) (VERIFIED)
 
 ### Tier 3 (Secondary Sources)
-- ~~[SourceWatch: Judicial Crisis Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Judicial_Crisis_Network)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS Form 990-N: Judicial Crisis Network / Concord Fund Annual Filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=The%2017%20Million%20Dollar%20Confirmation%20and%20the%20Leonard%20Leo%20Pipeline&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Senate Judiciary Committee: Blasey Ford Testimony Transcript - September 27, 2018](https://www.judiciary.senate.gov/imo/media/doc/Blasey%20Ford%20Testimony.pdf)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[SourceWatch: Judicial Crisis Network](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Judicial_Crisis_Network)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)

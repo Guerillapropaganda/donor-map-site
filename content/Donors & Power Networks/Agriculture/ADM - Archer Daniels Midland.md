@@ -104,9 +104,7 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 ### Sources
 
 - [OpenSecrets: ADM organizational profile](https://www.opensecrets.org/orgs/archer-daniels-midland/summary?id=D000000132) (Tier 1)
-- ~~[EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard)~~ (URL broken, archived by Ops) (NEEDS REVIEW) (Tier 1)
 - [DOJ: ADM price-fixing prosecution](https://www.justice.gov/archive/opa/pr/1996/Oct96/508at.htm) (Tier 1) (VERIFIED)
-- ~~[Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -124,7 +122,6 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 **Agencies contacted:** Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Education, Dept of, Executive Office of the President (EOP), Federal Communications Commission (FCC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Housing & Urban Development, Dept of (HUD) +7 more
 
-- ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:lda-lobbying end -->
 
 ### Influence Network (Cross-Reference)
@@ -188,7 +185,6 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - Ultimate Parent: [ARCHER-DANIELS-MIDLAND COMPANY](https://search.gleif.org/#/record/549300LO13MQ9HYSTR83) (VERIFIED) (US-DE)
 - Công ty TNHH Archer Daniels Midland VN (this entity)
 
-- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
 
 ### Federal Register Activity
@@ -226,7 +222,6 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 - DP26001: All wheel drive allegation (2026-03-06)
 - DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
-- ~~[Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 <!-- auto:nhtsa-recalls end -->
 
 ### SEC Filing Activity
@@ -248,3 +243,13 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1) (NEEDS REVIEW: Lots of code page)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EPA: Renewable Fuel Standard program](https://www.epa.gov/renewable-fuel-standard)~~ (URL broken, archived by Ops) (NEEDS REVIEW) (Tier 1)
+- ~~[Ballotpedia: ADM](https://ballotpedia.org/Archer_Daniels_Midland)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ADM%20-%20Archer%20Daniels%20Midland)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

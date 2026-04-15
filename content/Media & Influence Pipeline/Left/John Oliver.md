@@ -146,7 +146,6 @@ John Oliver represents **the corporate comedy accountability model**, the parado
 - [FEC Individual Contributions: John Oliver, employer HBO (0 results, 2015-2026)](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=john+oliver&contributor_employer=hbo&min_date=01%2F01%2F2015&max_date=12%2F31%2F2026) (Tier 1) (VERIFIED)
 - [Wikipedia: Last Week Tonight with John Oliver](https://en.wikipedia.org/wiki/Last_Week_Tonight_with_John_Oliver) (Tier 3) (VERIFIED)
 - [Wikipedia: John Oliver](https://en.wikipedia.org/wiki/John_Oliver) (Tier 3) (VERIFIED)
-- ~~[TIME: "The John Oliver Effect: The HBO Host's Real-World Impact" (2015)](https://time.com/3674807/john-oliver-net-neutrality-civil-forfeiture-miss-america/iss-america/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Issue One: "Money in Politics is a Crisis. And John Oliver Just Proved It"](https://issueone.org/articles/money-in-politics-is-a-crisis-and-john-oliver-just-proved-it/) (Tier 2) (VERIFIED)
 - [Deadline: "John Oliver On Paramount Buying WBD: 'Not Great News'" (Mar 2026)](https://deadline.com/2026/03/last-week-tonight-john-oliver-paramount-not-great-news-1236740905/) (Tier 2) (VERIFIED)
 - [TheWrap: "The Future of John Oliver's Last Week Tonight Will Be a Stress Test for Paramount"](https://www.thewrap.com/creative-content/tv-shows/last-week-tonight-john-oliver-hbo-paramount-future-analysis/) (Tier 2) (VERIFIED)
@@ -156,3 +155,9 @@ John Oliver represents **the corporate comedy accountability model**, the parado
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[TIME: "The John Oliver Effect: The HBO Host's Real-World Impact" (2015)](https://time.com/3674807/john-oliver-net-neutrality-civil-forfeiture-miss-america/iss-america/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

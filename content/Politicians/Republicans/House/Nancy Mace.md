@@ -184,7 +184,6 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 - [CNN Politics: Nancy Mace, now targeting transgender lawmaker, called herself 'pro-transgender rights' in 2023](https://www.cnn.com/2024/11/25/politics/nancy-mace-transgender-rights-comments/index.html) (Tier 2) (VERIFIED)
 - [ABC News: Rep. Nancy Mace's position on LGBTQ community appears to have changed](https://abcnews.com/Politics/rep-nancy-mace-position-lgbtq-community-appears-changed/story?id=116718775) (Tier 2) (VERIFIED)
 - [NPR: Nancy Mace launches Capitol bathroom rule before trans colleague's arrival](https://www.npr.org/2024/11/19/nx-s1-5196116/capitol-transgender-bathroom-ban-nancy-mace-sarah-mcbride) (Tier 2) (VERIFIED)
-- ~~[Axios: Congress erupts over bill targeting new transgender member](https://www.axios.com/2024/11/19/nancy-mace-sarah-mcbride-transgender-bathroom)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Post and Courier: SC's Nancy Mace speaks out about Jan. 6 and her former boss Donald Trump](https://www.postandcourier.com/news/newsmaker-scs-nancy-mace-speaks-out-about-jan-6-and-her-former-boss-donald-trump/article_0134c7f8-61ce-11ec-8f9a-c317e9d5151b.html) (Tier 2) (VERIFIED)
 - {{src:src_004084}} (Tier 1) (VERIFIED)
 
@@ -255,3 +254,9 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456843) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Congress erupts over bill targeting new transgender member](https://www.axios.com/2024/11/19/nancy-mace-sarah-mcbride-transgender-bathroom)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

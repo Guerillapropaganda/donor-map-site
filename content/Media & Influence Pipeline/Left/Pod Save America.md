@@ -166,5 +166,10 @@ The union fight crystallizes the class analysis. A company that mobilizes millio
 - {{src:src_001493}} (Tier 1) (VERIFIED)
 - [Wikipedia: Pod Save America](https://en.wikipedia.org/wiki/Pod_Save_America) (Tier 3) (VERIFIED)
 - [Wikipedia: Crooked Media](https://en.wikipedia.org/wiki/Crooked_Media) (Tier 3) (VERIFIED)
-- ~~[Wikipedia: Jon Favreau (speechwriter)](https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter)~~ (URL broken, archived by Ops)) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: Jon Favreau (speechwriter)](https://en.wikipedia.org/wiki/Jon_Favreau_(speechwriter)~~ (URL broken, archived by Ops)) (Tier 3)

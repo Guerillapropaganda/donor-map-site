@@ -260,7 +260,6 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 > [!contradiction] **Bennet signed "No Fossil Fuel Money" pledge and still accepted fossil fuel donations. Warner's Intelligence Committee seat gives him portfolio conflicts on energy regulation. Murray's Boeing dependency makes climate votes structurally impossible. These are not individual failures, they're structural incompatibilities between climate rhetoric and defense/energy infrastructure.**
 
 ### Sources:
-- ~~[The Hill: Overnight Energy: Warren wants Dems to hold climate-focused debate; Klobuchar joins candidates rejecting fossil fuel money; 2020 contender Bennet offers climate plan](https://thehill.com/policy/energy-environment/overnights/444665-overnight-energy-warren-wants-dems-to-hold-climate-focused-debate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yale Climate Connections: The fossil fuel industry spent $219 million to elect the new U.S. government](https://yaleclimateconnections.org/2025/01/the-fossil-fuel-industry-spent-219-million-to-elect-the-new-u-s-government/) (Tier 2) (VERIFIED)
 - [Jacobin: Fossil Fuel Cash Is Weakening Democrats' Climate Support](https://jacobin.com/2024/03/fossil-fuel-cash-democrats-climate) (Tier 2) (VERIFIED)
 
@@ -334,3 +333,9 @@ Key Democrats with public climate rhetoric but fossil fuel funding:
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Overnight Energy: Warren wants Dems to hold climate-focused debate; Klobuchar joins candidates rejecting fossil fuel money; 2020 contender Bennet offers climate plan](https://thehill.com/policy/energy-environment/overnights/444665-overnight-energy-warren-wants-dems-to-hold-climate-focused-debate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

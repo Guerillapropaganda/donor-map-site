@@ -184,7 +184,6 @@ Laura Ingraham represents **the legacy cable television advertising model**, the
 - [Media Matters: "These pharmaceutical companies are funding the spread of COVID misinformation on Fox News"](https://www.mediamatters.org/coronavirus-covid-19/these-pharmaceutical-companies-are-funding-spread-covid-misinformation-fox) (Tier 2) (VERIFIED)
 - [Newsweek: "Laura Ingraham 'Bullied' Closeted Gay Students at Dartmouth More Than 30 Years Ago"](https://www.newsweek.com/ingraham-bullied-gay-students-college-874077) (Tier 2) (VERIFIED)
 - [HuffPost: "Laura Ingraham Once Sent A Student Reporter To Secretly Tape LGBTQ Group"](https://www.huffpost.com/entry/laura-ingraham-dartmouth-lgbtq-group_n_5ac3c6fbe4b09712fec54b7b) (Tier 2) (VERIFIED)
-- ~~[Axios: "Fox-Dominion Lawsuit Filings: Key Takeaways" (Murdoch said Hannity/Ingraham "went too far")](https://www.axios.com/2023/03/08/fox-news-dominion-lawsuit-murdoch)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: "Laura Ingraham's advertisers distance themselves after David Hogg comments"](https://www.cbsnews.com/news/laura-ingraham-advertisers-distance-after-david-hogg-college-mocking/) (Tier 2) (VERIFIED)
 - [The Daily Beast: "Fox News Host Laura Ingraham Joins Board of Donald Trump Jr's Latest MAGA Business Venture"](https://www.thedailybeast.com/fox-news-host-laura-ingraham-joins-board-of-donald-trump-jrs-latest-maga-business-venture/) (Tier 2) (VERIFIED)
 - [Fortune: "Why Fox News's Laura Ingraham Is Facing an Advertiser Boycott. Again"](https://fortune.com/2018/06/22/laura-ingraham-david-hogg-advertising-boycott-migrant-families/) (Tier 2) (VERIFIED)
@@ -192,3 +191,9 @@ Laura Ingraham represents **the legacy cable television advertising model**, the
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: "Fox-Dominion Lawsuit Filings: Key Takeaways" (Murdoch said Hannity/Ingraham "went too far")](https://www.axios.com/2023/03/08/fox-news-dominion-lawsuit-murdoch)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

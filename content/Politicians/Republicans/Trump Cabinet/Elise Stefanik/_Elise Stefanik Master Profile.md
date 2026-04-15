@@ -181,11 +181,8 @@ Stefanik's E-PAC (Elevate PAC) extends the class function beyond her own career.
 - [CNN: Stefanik back in spotlight after fierce questioning of university presidents](https://edition.cnn.com/2023/12/11/politics/elise-stefanik-antisemitism-hearing/index.html) (Tier 2) (VERIFIED)
 - [NPR: 4 things to know about Elise Stefanik](https://www.npr.org/2024/11/11/nx-s1-5186927/trump-taps-rep-elise-stefanik-to-be-u-s-ambassador-to-the-united-nations) (Tier 2) (VERIFIED)
 - [NBC News: Trump pulls Stefanik UN Ambassador nomination](https://www.nbcnews.com/politics/trump-administration/trump-preparing-pull-elise-stefaniks-nomination-un-ambassador-rcna198389) (Tier 2) (VERIFIED)
-- ~~[The Hill: Stefanik exits NY governor's race after getting jilted by Trump](https://thehill.com/opinion/lindseys-lens/5660995-trump-leaves-stefanik-stranded/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[Congress.gov: Elise Stefanik](https://www.congress.gov/member/elise-stefanik/S001196)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Elise Stefanik](https://ballotpedia.org/Elise_Stefanik) (Tier 3) (VERIFIED)
 - [Spectrum News: Stefanik political operation raises record $7.1 million in Q1 2024](https://spectrumlocalnews.com/nys/central-ny/politics/2024/04/04/stefanik-political-operation-raises-record--7-1m-in-2024-s-first-quarter) (Tier 3) (VERIFIED)
-- ~~[FollowTheMoney: Elise Stefanik](https://www.followthemoney.org/tools/election-overview?eid=21236694)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -231,5 +228,13 @@ Stefanik's E-PAC (Elevate PAC) extends the class function beyond her own career.
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Elise Stefanik](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Stefanik exits NY governor's race after getting jilted by Trump](https://thehill.com/opinion/lindseys-lens/5660995-trump-leaves-stefanik-stranded/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Congress.gov: Elise Stefanik](https://www.congress.gov/member/elise-stefanik/S001196)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[FollowTheMoney: Elise Stefanik](https://www.followthemoney.org/tools/election-overview?eid=21236694)~~ (was FollowTheMoney - site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Congress.gov: Elise Stefanik](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

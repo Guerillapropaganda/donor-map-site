@@ -186,7 +186,6 @@ The Michigan primary is a proxy war between two factions of the Democratic donor
 ## Sources
 
 - {{src:src_005620}} (Tier 1) (VERIFIED)
-- ~~[ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467)~~ (was FollowTheMoney — site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Ready to 'Fight for the Working Class': Sanders Endorses Abdul El-Sayed for US Senate](https://www.commondreams.org/news/abdul-el-sayed) (Tier 2)
 - [Abdul El-Sayed joins race for Michigan's U.S. Senate seat with Bernie Sanders endorsement](https://www.metrotimes.com/news/abdul-el-sayed-joins-race-for-michigans-us-senate-seat-with-bernie-sanders-endorsement-39147339/) (Tier 2) (VERIFIED)
 - [Washington Post: Ocasio-Cortez adds Michigan to campaign schedule to help Democrat Abdul El-Sayed](https://www.washingtonpost.com/news/powerpost/wp/2018/07/16/ocasio-cortez-adds-michigan-to-campaign-schedule-to-help-democrat-abdul-el-sayed/) (Tier 2) (VERIFIED)
@@ -239,3 +238,9 @@ The Michigan primary is a proxy war between two factions of the Democratic donor
 
 ## Committee Assignments (Congress.gov)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ABDUL EL-SAYED FOR MICHIGAN - FollowTheMoney.org](https://www.followthemoney.org/tools/election-overview?eid=44060467)~~ (was FollowTheMoney - site merged into OpenSecrets, all URLs dead) (Tier 1)

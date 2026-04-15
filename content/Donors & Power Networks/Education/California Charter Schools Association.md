@@ -132,9 +132,7 @@ Education, charter school expansion, school funding formula, district accountabi
 
 ### Sources
 
-- ~~[CalMatters: What 'Governor Dad' did this year for CA kids — charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Network for Public Education: Charter funding impact](https://networkforpubliceducation.org/?s=California%20Charter%20Schools%20Association) (Tier 2) (VERIFIED)
-- ~~[LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -169,3 +167,10 @@ Education, charter school expansion, school funding formula, district accountabi
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: What 'Governor Dad' did this year for CA kids - charter school legislation](https://calmatters.org/category/education/k-12-education/2019/10/charter-schools-california-legislation-newsom-start-time-teacher-maternity-leave-bonds/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: AB 1507 veto and CCSA position](https://www.latimes.com/california/story/2019-10-13/newsom-vetoes-charter-school-geographic-restriction-bill)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)

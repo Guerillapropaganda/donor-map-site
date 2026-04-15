@@ -200,10 +200,7 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 - [InfluenceWatch: Urban Institute](https://www.influencewatch.org/non-profit/urban-institute/) (Tier 3) (VERIFIED)
 - [Media Bias/Fact Check: Urban Institute](https://mediabiasfactcheck.com/urban-institute/) (Tier 3) (VERIFIED)
 - [MacArthur Foundation: Urban Institute Grant](https://www.macfound.org/grantee/urban-institute-23/) (Tier 1) (VERIFIED)
-- ~~[Urban Institute: Organizational Principles](https://www.urban.org/about/organizational-principles)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-- ~~[Tax Policy Center: About](https://taxpolicycenter.org/about)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Urban Institute: The Transfer Income Model (TRIM)](https://www.urban.org/research/data-methods/data-analysis/quantitative-data-analysis/microsimulation/transfer-income-model-trim) (Tier 3) (VERIFIED)
-- ~~[Urban Institute: Sarah Rosen Wartell biography](https://www.urban.org/author/sarah-rosen-wartell)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Tax Policy Center](https://en.wikipedia.org/wiki/Tax_Policy_Center) (Tier 3) (VERIFIED)
 - [Urban Institute: 2024 Financial Report](https://www.urban.org/sites/default/files/2025-11/Urban-Institute-2024-Financials.pdf) (Tier 1) (VERIFIED)
 - [USAspending.gov: Urban Institute Federal Awards](https://www.usaspending.gov/search/?filters=%7B%22keyword%22%3A%22Urban+Institute%22%7D) (Tier 1) (VERIFIED)
@@ -241,11 +238,6 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/520880375) (Tier 1) (VERIFIED)
@@ -272,3 +264,16 @@ The Urban Institute is the institutional embodiment of American liberalism's cor
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Urban%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Urban Institute: Organizational Principles](https://www.urban.org/about/organizational-principles)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Tax Policy Center: About](https://taxpolicycenter.org/about)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Urban Institute: Sarah Rosen Wartell biography](https://www.urban.org/author/sarah-rosen-wartell)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/520880375/2019)~~ (URL broken, archived by Ops)

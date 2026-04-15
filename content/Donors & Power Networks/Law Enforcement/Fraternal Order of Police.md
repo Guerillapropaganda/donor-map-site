@@ -170,7 +170,6 @@ Preservation of qualified immunity (which shields officers from personal liabili
 - Kirby v. Perfection One Collision Center, Inc. (2026) — District Court, S.D. Ohio
 - Duff v. Yoder Building Solutions LLC (2026) — District Court, S.D. Ohio
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fraternal%20Order%20of%20Police%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -284,3 +283,9 @@ Preservation of qualified immunity (which shields officers from personal liabili
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Fraternal%20Order%20of%20Police%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

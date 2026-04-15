@@ -157,7 +157,6 @@ The class function is straightforward: Ford converts public money into private r
 - Jerry Lee Kline v. Ford Motor Company (2026) — District Court, C.D. California
 - Grillo v. Ford Motor Company (2026) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ford%20Motor%20Company%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -223,11 +222,6 @@ The class function is straightforward: Ford converts public money into private r
 **Filing history:** 2016, 2015, 2014, 2013, 2012, 2011
 
 **View 990 filings:**
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2016)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2015)~~ (URL broken, archived by Ops)
-- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2014)~~ (URL broken, archived by Ops)
-- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2013)~~ (URL broken, archived by Ops)
-- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2012)~~ (URL broken, archived by Ops)
 - ... and 1 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/386054714) (Tier 1) (VERIFIED)
@@ -348,3 +342,14 @@ The class function is straightforward: Ford converts public money into private r
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/1aaf04d1-c14b-54ee-4f16-a62964267244-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ford%20Motor%20Company%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2015)~~ (URL broken, archived by Ops)
+- ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2014)~~ (URL broken, archived by Ops)
+- ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2013)~~ (URL broken, archived by Ops)
+- ~~[2012 Filing](https://projects.propublica.org/nonprofits/organizations/386054714/2012)~~ (URL broken, archived by Ops)

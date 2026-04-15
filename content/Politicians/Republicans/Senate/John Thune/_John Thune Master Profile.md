@@ -150,7 +150,6 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 - [National Pulse: Corporate donor analysis](https://thenationalpulse.com/2024/11/13/john-thune-is-the-new-senate-leader-here-are-his-biggest-corporate-donors/) (Tier 3) (VERIFIED)
 - [NBC News: Senate Majority Leader election](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2) (VERIFIED)
 - [NPR: Thune-Trump relationship evolution](https://www.npr.org/2024/11/14/nx-s1-5186649/newly-elected-senate-majority-leader-john-thune-has-his-work-cut-out-for-him) (Tier 2) (VERIFIED)
-- ~~[The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -197,3 +196,9 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 
 - {{src:src_003500}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Tariff resolution and Thune blocking](https://thehill.com/homenews/senate/5225742-thune-republicans-trump-tariffs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

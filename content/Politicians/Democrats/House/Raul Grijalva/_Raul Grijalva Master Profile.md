@@ -184,7 +184,6 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 ## Sources
 
 - {{src:src_005908}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Natural Resources Democrats: Ranking Member Grijalva](https://democrats-naturalresources.house.gov/about/ranking-member-grijalva) (Tier 1) (VERIFIED)
 - [Grijalva.house.gov: Biography](https://grijalva.house.gov/about/about) (Tier 1) (VERIFIED)
 - [House Natural Resources Democrats: Save Oak Flat From Foreign Mining Act](https://democrats-naturalresources.house.gov/media/press-releases/ranking-democrat-grijalva-introduces-save-oak-flat-from-foreign-mining-act-to-protect-sacred-site-in-central-arizona) (Tier 1) (VERIFIED)
@@ -253,7 +252,6 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 | 6391 | Save Oak Flat from Foreign Mining Act | Referred to the House Committee on Natural Resources. |
 | 911 | Recognizing National Native American Heritage Month and celebrating the heritage… | Referred to the House Committee on Oversight and Government Reform. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/G000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -282,7 +280,6 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 | 2025-03-10 | H.R. 993: Emerging Innovative Border Technologies Act | Not Voting | Passed |
 | 2025-03-10 | H.R. 901: Research Security and Accountability in DHS Act | Not Voting | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400162)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Voting Record
@@ -309,7 +306,6 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 
 **Sources**
 
-- ~~[GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -340,3 +336,12 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 - [GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Raul M. Grijalva](https://www.congress.gov/member/raul-grijalva/G000551)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/G000606)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400162)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Raul Grijalva](https://www.govtrack.us/congress/members/400162)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -172,7 +172,6 @@ The "national security" frame is the mechanism that makes the transfer invisible
 ### Sources
 
 - [Commerce.gov: Section 232 Steel Investigation and Reports](https://www.commerce.gov/issues/trade-enforcement/section-232-steel) (Tier 1) (VERIFIED)
-- ~~[Commerce.gov: Secretary Ross Releases Steel and Aluminum 232 Reports](https://www.commerce.gov/news/press-releases/2018/02/secretary-ross-releases-steel-and-aluminum-232-reports-coordination)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: AISI PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/american-iron-steel-institute/C00295097/summary/2022) (Tier 1) (VERIFIED)
 - {{src:src_013010}} (Tier 1) (VERIFIED)
 - [USITC: Tariff Effects on U.S. Industries](https://www.usitc.gov/press_room/news_release/2023/er0315_63679.htm) (Tier 1) (VERIFIED)
@@ -297,7 +296,6 @@ The "national security" frame is the mechanism that makes the transfer invisible
 - Exxon Mobil Corp v. OSHC (2025) — Court of Appeals for the Fifth Circuit
 - Freeland v. Nippon Steel Corp. (2025) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Iron%20and%20Steel%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -314,12 +312,19 @@ The "national security" frame is the mechanism that makes the transfer invisible
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Commerce.gov: Secretary Ross Releases Steel and Aluminum 232 Reports](https://www.commerce.gov/news/press-releases/2018/02/secretary-ross-releases-steel-and-aluminum-232-reports-coordination)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Iron%20and%20Steel%20Institute%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131832448/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

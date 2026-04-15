@@ -259,7 +259,6 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - [Senate LDA Filings: Palantir Technologies lobbying profile](https://lda.gov/filings/public/filing/search/) (Tier 1)
 - [OpenSecrets: Palantir Technologies PAC candidate recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/palantir-technologies/C00498691/candidate-recipients/2024) (Tier 1)
 - [Senate LDA Filings: Palantir Technologies lobbyists, revolving door](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[Senate LDA API: Palantir Technologies lobbying filings 2006–2025 (489 filings)](https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [USAspending.gov: Palantir ICE contract record](https://www.usaspending.gov/award/CONT_AWD_70CTD022FR0000170_7012_GS35F0086U_4730) (Tier 1)
 - [CNBC: Palantir lands $10 billion Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2)
 - [DefenseScoop: DOD raises Palantir Maven contract to $1.3B](https://defensescoop.com/2025/05/23/dod-palantir-maven-smart-system-contract-increase/) (Tier 2)
@@ -288,7 +287,6 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 - Williams v. Anthropic PBC (2026) — District Court, S.D. New York
 - Danielle Lynne Garfinkel v. RealClearHoldings, LLC (2026) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Palantir%20Technologies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -394,7 +392,6 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 | Registration | ISSUED |
 | Last Updated | 2026-02-18T10:09:39Z |
 
-- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:gleif-lei end -->
 
 ### Federal Spending (USASpending)
@@ -434,3 +431,11 @@ Palantir Technologies Inc. is an American publicly traded company that develops 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Palantir) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q2047336) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Senate LDA API: Palantir Technologies lobbying filings 2006–2025 (489 filings)](https://lda.gov/filings/public/filing/search/?client_name=PALANTIR+TECHNOLOGIES)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Palantir%20Technologies%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GLEIF](https://www.gleif.org/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

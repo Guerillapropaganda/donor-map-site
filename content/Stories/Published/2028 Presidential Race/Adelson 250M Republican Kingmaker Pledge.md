@@ -85,8 +85,13 @@ In 2028, both structures will likely align: Adelson will back the Republican nom
 - [Common Dreams: Billionaire Adelson Vows $250 Million to Fund 'Four More Years' of Trump](https://www.commondreams.org/news/adelson-trump-four-more-years) (Tier 2) (VERIFIED)
 - [Jerusalem Post: Miriam Adelson pledges $250 million for Trump third term at White House Hanukkah party](https://www.jpost.com/american-politics/article-880539) (Tier 2) (VERIFIED)
 - [Newsweek: Donald Trump Offered $250M to Run for a Third Term](https://www.newsweek.com/donald-trump-offered-250m-run-third-term-11226316) (Tier 2) (VERIFIED)
-- ~~[The Daily Beast: Megadonor Miriam Adelson Offers Donald Trump $250M to Run for Third Term](https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-run-for-third-term/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC 5 Dallas-Fort Worth: Mavericks owner Miriam Adelson wants Trump to run in 2028](https://www.nbcdfw.com/news/sports/dallas-mavericks/dallas-mavericks-owner-miriam-adelson-urges-trump-to-run-for-third-term/3958248/) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Daily Beast: Megadonor Miriam Adelson Offers Donald Trump $250M to Run for Third Term](https://www.thedailybeast.com/megadonor-miriam-adelson-offers-donald-trump-250m-run-for-third-term/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

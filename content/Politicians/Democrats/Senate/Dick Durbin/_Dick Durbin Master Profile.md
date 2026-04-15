@@ -225,9 +225,6 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 
 ## Sources
 
-- ~~[Congress.gov: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Dick Durbin career contributors](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005477}} (Tier 1) (VERIFIED)
 - [Senate Judiciary Committee: Durbin celebrates 235 federal judges confirmed during Biden administration](https://www.judiciary.senate.gov/press/dem/releases/durbin-celebrates-235-federal-judges-confirmed-during-the-biden-harris-administration) (Tier 1) (VERIFIED)
 - [PBS NewsHour: Senate confirms 235th federal judge under Biden](https://www.pbs.org/newshour/politics/senate-confirms-235th-judge-under-bidens-presidency-beating-trumps-first-term-tally) (Tier 2) (VERIFIED)
@@ -245,7 +242,6 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Dick Durbin](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -291,3 +287,12 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Dick Durbin campaign finance summary](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dick Durbin career industries](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dick Durbin career contributors](https://www.congress.gov/search?q=Dick%20Durbin&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Dick Durbin](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

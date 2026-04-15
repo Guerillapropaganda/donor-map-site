@@ -179,7 +179,6 @@ Apple occupies a unique position: a corporation that extracts value through cons
 - [DOJ: United States v. Apple Inc. antitrust complaint (2024)](https://www.justice.gov/archives/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets) (Tier 1) (VERIFIED)
 - [SEC: Apple 10-K filing, offshore cash and repatriation](https://www.sec.gov/cgi-bin/browse-edgar?company=apple&CIK=&type=10-K) (Tier 1) (VERIFIED)
 - [Washington Post: Senators want to rein in Apple and Google's app store dominance](https://www.washingtonpost.com/technology/2021/08/11/apple-google-senators-app-store-conflict/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Apple Inc political spending](https://ballotpedia.org/Apple_Inc.) (Tier 3) (VERIFIED)
 
 ---
@@ -355,7 +354,6 @@ Apple occupies a unique position: a corporation that extracts value through cons
 - Poole v. Maxine Productions, LLC (2026) - District Court, S.D. New York
 - United States v. Application For Order Commanding Apple Inc. Not To Notify Any Person Of The Existence Of Subpoena (2026) - District Court, S.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -431,3 +429,10 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apple%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Verge: Apple right-to-repair reversal and self-service repair pricing](https://www.theverge.com/apple-self-service-repair-pricing/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apple%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

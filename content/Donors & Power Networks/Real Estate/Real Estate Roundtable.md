@@ -197,16 +197,9 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 ### Sources
 
 - [OpenSecrets: Real Estate Roundtable Lobbying Profile](https://www.opensecrets.org/orgs/real-estate-roundtable/summary?id=D000054983) (Tier 1) (VERIFIED)
-- ~~[Joint Committee on Taxation: Revenue Estimates for Section 199A Extension](https://www.jct.gov/publications/?search_term=Real%20Estate%20Roundtable)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS: Opportunity Zone Reporting and Statistics](https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
-- ~~[Congress.gov: Tax Cuts and Jobs Act — Section 199A and 1031 Provisions](https://www.congress.gov/bill/115th-congress/house-bill/1)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[CNBC: Sinema Demands Carried Interest Provision Removed from IRA](https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [NPR: Opportunity Zones Touted By White House May Benefit Investors Most](https://www.npr.org/2019/07/08/736546264/white-house-touts-help-for-poor-areas-but-questions-endure-over-wholl-benefit) (Tier 2) (VERIFIED)
-- ~~[Brookings: Opportunity Zones — Early Evidence of Outcomes](https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [ProPublica: How a Tax Break to Help the Poor Went to Luxury Apartments](https://www.propublica.org/article/superyacht-marina-west-palm-beach-opportunity-zone-trump-tax-break-to-help-the-poor-went-to-a-rich-gop-donor) (Tier 2) (VERIFIED)
-- ~~[CNBC: Stephen Schwarzman and the Trump Policy Forum](https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Washington Post: Thomas Barrack, Trump ally, indicted over UAE lobbying](https://www.washingtonpost.com/politics/thomas-barrack-indictment-trump/2021/07/20/d40b64f0-e985-11eb-84a2-d93bc0b50294_story.html) (Tier 2) (VERIFIED)
-- ~~[Tax Policy Center: Like-Kind Exchanges — Revenue and Distribution Effects](https://taxpolicycenter.org/taxvox/repealing-kind-exchanges-raises-revenue-mostly-high-income-taxpayers)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Real Estate Roundtable: Policy Positions](https://www.rer.org/policy-issues/) (Tier 3) (VERIFIED)
 
 ---
@@ -292,11 +285,6 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2024)~~ (URL broken, archived by Ops)
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521128863) (Tier 1) (VERIFIED)
@@ -321,3 +309,20 @@ Opportunity Zones were marketed as anti-poverty policy. The reality: $48 billion
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Real%20Estate%20Roundtable%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Joint Committee on Taxation: Revenue Estimates for Section 199A Extension](https://www.jct.gov/publications/?search_term=Real%20Estate%20Roundtable)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[IRS: Opportunity Zone Reporting and Statistics](https://www.irs.gov/credits-and-deductions-for-businesses/opportunity-zones)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Congress.gov: Tax Cuts and Jobs Act - Section 199A and 1031 Provisions](https://www.congress.gov/bill/115th-congress/house-bill/1)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[CNBC: Sinema Demands Carried Interest Provision Removed from IRA](https://www.cnbc.com/2022/08/04/kyrsten-sinema-demands-carried-interest-change-removed-from-manchin-schumer-climate-deal.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Brookings: Opportunity Zones - Early Evidence of Outcomes](https://www.brookings.edu/articles/opportunity-zones-what-we-know-and-what-we-dont/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[CNBC: Stephen Schwarzman and the Trump Policy Forum](https://www.cnbc.com/2017/02/03/blackstones-schwarzman-on-trump-business-advisory-council.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Tax Policy Center: Like-Kind Exchanges - Revenue and Distribution Effects](https://taxpolicycenter.org/taxvox/repealing-kind-exchanges-raises-revenue-mostly-high-income-taxpayers)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521128863/2020)~~ (URL broken, archived by Ops)

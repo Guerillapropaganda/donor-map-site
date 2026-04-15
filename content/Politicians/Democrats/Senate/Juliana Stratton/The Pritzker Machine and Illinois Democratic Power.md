@@ -102,7 +102,6 @@ The irony: Stratton attacked crypto money and industry special interests while a
 - [Illinois results solidify JB Pritzker's 'powerhouse' role, and set up a White House run](https://www.nbcnews.com/politics/2028-election/illinois-results-solidify-jb-pritzkers-powerhouse-role-set-white-house-rcna263890) (VERIFIED) (NBC News, March 18, 2026) (Tier 2)
 - [A Democratic fight for an Illinois Senate seat is testing the sway of JB Pritzker, pro-crypto forces and anti-ICE messaging](https://www.cnn.com/2026/03/16/politics/illinois-senate-primary-pritzker-crypto-immigration) (VERIFIED) (CNN, March 16, 2026) (Tier 2)
 - [JB Pritzker's role in Illinois primary could set the stage for 2028](https://www.ms.now/news/j-b-pritzker-illinois-democrat-senate-primary) (VERIFIED) (MSN/NBC) (Tier 2)
-- ~~[Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/)~~ (URL broken, archived by Ops) (The Hill, March 2026) (Tier 2)
 - [Gov. JB Pritzker criticizes AIPAC after pro-Israel group spent heavily in Illinois primary](https://www.timesfreepress.com/news/2026/mar/19/gov-jb-pritzker-criticizes-aipac-after-pro-israel-group-spent-heavily-in-illinois-primary/) (VERIFIED) (Chattanooga Times Free Press, March 19, 2026) (Tier 2)
 
 ### Tier 2: Campaign Finance Analysis
@@ -113,3 +112,9 @@ The irony: Stratton attacked crypto money and industry special interests while a
 ### Tier 3: Aggregators
 - [United States Senate election in Illinois, 2026 - Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_Illinois,_2026) (VERIFIED) (Ballotpedia) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Pritzker flexes political muscle with Stratton victory amid 2028 chatter](https://thehill.com/homenews/campaign/5789921-pritzker-influence-illinois-senate-stratton-win/)~~ (URL broken, archived by Ops) (The Hill, March 2026) (Tier 2)

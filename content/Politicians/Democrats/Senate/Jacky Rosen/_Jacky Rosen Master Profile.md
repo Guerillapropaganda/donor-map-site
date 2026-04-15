@@ -70,5 +70,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 04/08/2019 | NVS | exchange | $1,001 - $15,000 | Joint |
 | 02/29/2020 | IR | exchange | $1,001 - $15,000 | Joint |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

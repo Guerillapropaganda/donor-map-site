@@ -205,7 +205,6 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 - [Senate LDA Filings: Federal lobbying by real estate industry and trade associations](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [FEC Receipts: Real estate industry lobbying ecosystem 2024](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [Congress.gov: Stop Wall Street Landlords Act](https://www.congress.gov/bill/118th-congress/senate-bill/2224) (Tier 1) (VERIFIED)
-- ~~[Federal Reserve: Institutional investment in single-family housing](https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: When Private Equity Becomes Your Landlord](https://www.propublica.org/article/when-private-equity-becomes-your-landlord) (Tier 2) (VERIFIED)
 - [Washington Post: Global investors profited from U.S. rental homes, foreclosure crisis](https://www.washingtonpost.com/business/interactive/2021/investors-rental-foreclosure/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Corporate homebuying legislation](https://ballotpedia.org/Corporate_homebuying) (Tier 3) (VERIFIED)
@@ -261,3 +260,9 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Federal Reserve: Institutional investment in single-family housing](https://www.federalreserve.gov/econres/notes/feds-notes/institutional-investors-single-family-housing.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

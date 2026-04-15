@@ -83,7 +83,6 @@ The Pentagon has failed its financial audit every year since audits began in 201
 ### Sources
 
 - [FEC Receipts: Defense industry spending totals](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -154,3 +153,9 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -258,7 +258,6 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - [Wikipedia. Miriam Adelson](https://en.wikipedia.org/wiki/Miriam_Adelson) (Tier 3) (VERIFIED)
 
 ### Net Worth:
-- ~~[Bloomberg Billionaires Index. Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CasinoBeats. Miriam Adelson net worth](https://casinobeats.com/features/miriam-adelson-net-worth/) (Tier 2) (VERIFIED)
 
 ---
@@ -303,7 +302,6 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - Kordia v. Noem (2025) — District Court, N.D. Texas
 - American Association of University Professors v. Rubio (2025) — District Court, D. Massachusetts
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Miriam%20Adelson%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
@@ -324,11 +322,6 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/886063073) (Tier 1) (VERIFIED)
@@ -387,3 +380,15 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg Billionaires Index. Miriam Adelson](https://www.bloomberg.com/billionaires/profiles/miriam-o-adelson/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Miriam%20Adelson%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/886063073/2019)~~ (URL broken, archived by Ops)

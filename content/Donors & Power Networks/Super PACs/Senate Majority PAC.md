@@ -187,8 +187,6 @@ The class function is donor-first governance wrapped in progressive messaging. S
 
 ### Sources
 
-- ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_009848}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Senate Majority PAC](https://ballotpedia.org/Senate_Majority_PAC) (Tier 2) (VERIFIED)
 - [Daily Caller: Schumer-Linked Super PAC Trails GOP Counterpart](https://dailycaller.com/2026/01/29/chuck-schumer-pac-republicans-democrats-senate-fundraising/) (Tier 3) (VERIFIED)
@@ -230,7 +228,6 @@ The class function is donor-first governance wrapped in progressive messaging. S
 - SGCI HOLDINGS III LLC v. FEDERAL COMMUNICATIONS COMMISSION (2024) — District Court, District of Columbia
 - HALES v. PRESTON (2024) — District Court, N.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -264,3 +261,11 @@ The class function is donor-first governance wrapped in progressive messaging. S
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Senate%20Majority%20PAC%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

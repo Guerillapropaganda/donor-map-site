@@ -207,7 +207,6 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 - [PR Newswire: Leidos awarded $390M NSA signals intelligence contract](https://www.prnewswire.com/news-releases/leidos-awarded-390-million-nsa-signals-intelligence-contract-302417279.html) (Tier 2) (VERIFIED)
 - [FedScoop: ODNI awards Leidos $375M technology and analytical services contract](https://fedscoop.com/odni-awards-leidos-375m-technology-and-analytical-services-contract/) (Tier 2) (VERIFIED)
 - [Virginia Business: DHS cancels $2.4B Leidos contract](https://virginiabusiness.com/dhs-says-it-is-canceling-2-4b-leidos-contract/) (Tier 2) (VERIFIED)
-- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [POGO: From Battlefield to Boardroom. Facilitating the DoD Revolving Door](https://www.pogo.org/analyses/from-battlefield-to-boardroom-facilitating-dod-revolving-door) (Tier 2) (VERIFIED)
 - [Defense News: Leidos taps Rolls-Royce executive Bell as next CEO](https://www.defensenews.com/industry/2023/02/27/leidos-taps-rolls-royce-executive-bell-as-next-ceo/) (Tier 2) (VERIFIED)
 
@@ -260,11 +259,6 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/203922378) (Tier 1) (VERIFIED)
@@ -282,9 +276,7 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 **Recent recalls:**
 
 - ~~[Branded LLC Recalls Kaleidoscope Toy Due to Choking, Laceration Hazards; Offered Exclusively at H-E-B Stores in Texas](https://www.cpsc.gov/Recalls/15126)~~ (URL broken, archived by Ops) (2015-04-30) — The end caps of the kaleidoscope can be removed and expose small parts that can come loose and pose a choking hazard to small children and internal components that pose a risk of laceration.
-- ~~[Kaleidoscope Necklaces Recalled As Choking Hazard](https://www.cpsc.gov/Recalls/92053)~~ (URL broken, archived by Ops) (1992-02-11) — Choking
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -454,3 +446,16 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/203922378/2019)~~ (URL broken, archived by Ops)
+- ~~[Kaleidoscope Necklaces Recalled As Choking Hazard](https://www.cpsc.gov/Recalls/92053)~~ (URL broken, archived by Ops) (1992-02-11) - Choking
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Leidos)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

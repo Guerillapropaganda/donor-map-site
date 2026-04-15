@@ -96,5 +96,10 @@ The structural question is whether Scahill genuinely escaped capture by leaving 
 - [Dirty Wars (film). SXSW / IMDb](https://www.imdb.com/title/tt2490374/) (Tier 2) (VERIFIED)
 - [Semafor: Money woes and staff issues strain The Intercept](https://www.semafor.com/article/06/02/2024/money-woes-staff-issues-strain-the-intercept) (Tier 2) (VERIFIED)
 - [Washington Free Beacon: Soros bankrolling anti-Israel Drop Site News](https://freebeacon.com/media/exclusive-soros-bankrolling-anti-israel-drop-site-news/) (Tier 4) (VERIFIED)
-- ~~[Drop Site News. Jeremy Scahill](https://www.dropsitenews.com/author/jeremy-scahill/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Drop Site News. Jeremy Scahill](https://www.dropsitenews.com/author/jeremy-scahill/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

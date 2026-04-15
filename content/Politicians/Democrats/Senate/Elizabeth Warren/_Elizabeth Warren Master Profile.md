@@ -280,7 +280,6 @@ Warren is the vault's case study in the limits of individual resistance within a
 - {{src:src_000346}} (Tier 1) (VERIFIED)
 - {{src:src_005446}} (Tier 1) (VERIFIED)
 - [Consumer Financial Protection Bureau: CFPB History and Impact](https://www.consumerfinance.gov/about-us/) (Tier 1) (VERIFIED)
-- ~~[Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Boston Globe: CFPB Shutdown. Elizabeth Warren Fights to Save Agency She Conceived](https://www.bostonglobe.com/2025/02/10/nation/cfpb-elizabeth-warren-trump-elon-musk/) (Tier 2) (VERIFIED)
 - [CoinDesk: Crypto PAC Fairshake Claims Another Win Against Elizabeth Warren Ally](https://www.coindesk.com/policy2024/08/07/crypto-pac-fairshake-claims-another-win-against-elizabeth-warren-ally-with-bush-loss) (Tier 2) (VERIFIED)
 - [Boston Globe: As Crypto Industry Looks to Widen Influence, Elizabeth Warren Emerges as Target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2) (VERIFIED)
@@ -388,7 +387,6 @@ party:: Democrat
 |------|--------|------|--------|-------|
 | 01/30/2013 | N/A | other | Unknown | N/A |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -441,7 +439,6 @@ party:: Democrat
 | 4001 | Supplemental Security Income Restoration Act of 2026 | Read twice and referred to the Committee on Finance. |
 | 113 | A joint resolution providing congressional disapproval under chapter 8 of title … | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000817)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance (FEC)
@@ -482,5 +479,13 @@ party:: Democrat
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Elizabeth Warren](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Consumer Financial Protection Bureau: Consumer Relief Data](https://www.consumerfinance.gov/about-us/newsroom/cfpb-ordered-return-about-21-billion-in-relief-to-consumers/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000817)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Elizabeth Warren](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

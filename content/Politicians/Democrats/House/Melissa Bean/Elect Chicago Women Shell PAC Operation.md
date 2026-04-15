@@ -136,10 +136,15 @@ The result: AIPAC installs its preferred candidate in IL-8 without appearing on 
 - [AIPAC super PAC funded big-spending Illinois groups, as Democratic fights over Israel spread. NBC News](https://www.nbcnews.com/politics/2026-election/aipac-super-pac-funded-illinois-groups-democratic-primaries-israel-rcna264379) (Tier 2) (VERIFIED)
 - [Pro-Israel group's donors and affiliates pour $13.7 million into Chicago-area primaries. WBEZ Chicago](https://www.wbez.org/politics/2026/02/27/aipac-pro-israel-groups-chicago-area-democratic-congressional-primaries-miller-conyears-ervin-bean-fine) (Tier 2) (VERIFIED)
 - [Super PAC scorecard, how outside spending groups fared in efforts to influence Illinois primary voters. WBEZ Chicago](https://www.wbez.org/government-politics/elections/2026/03/18/illinois-primary-super-pac-spending-aipac-cryptocurrency-ai-sports-betting) (Tier 2) (VERIFIED)
-- ~~[Inside AIPAC's peculiar strategy to sink progressives: Attack them from the left. Axios](https://www.axios.com/2026/03/13/aipac-illinois-abughazaleh-ahmed-bean-biss-israel)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois. Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Filings confirm AIPAC funded millions in outside spending on congressional primary. Evanston RoundTable](https://evanstonroundtable.com/2026/03/21/filings-confirm-aipac-funded-millions-in-outside-spending-on-congressional-primary/) (Tier 3) (VERIFIED)
 - [In Illinois's Eighth District, AIPAC and AI Try to Buy a Seat. The American Prospect](https://prospect.org/2026/03/12/illinois-eighth-congressional-district-aipac-ai-bean-ahmed/) (Tier 2) (VERIFIED)
 - [AIPAC Coordinates Donors in Illinois House Primaries. The American Prospect](https://prospect.org/2026/02/06/aipac-coordinates-donors-in-illinois-house-primaries/) (Tier 2) (VERIFIED)
 - [Pro-Israel groups see mixed record in money-fuelled Illinois primaries. Al Jazeera](https://www.aljazeera.com/news/2026/3/18/pro-israel-groups-see-mixed-record-in-money-fuelled-illinois-primaries) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Inside AIPAC's peculiar strategy to sink progressives: Attack them from the left. Axios](https://www.axios.com/2026/03/13/aipac-illinois-abughazaleh-ahmed-bean-biss-israel)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Pro-Israel group AIPAC notches its first real 2026 Democratic primary wins in Illinois. Axios](https://www.axios.com/2026/03/18/aipac-illinois-primary-biss-abughazaleh-bean)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

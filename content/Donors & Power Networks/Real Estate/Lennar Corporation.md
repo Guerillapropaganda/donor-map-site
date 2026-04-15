@@ -237,7 +237,6 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 | Officer Compensation | $33K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 560946914](https://projects.propublica.org/nonprofits/organizations/560946914) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -256,7 +255,6 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 - Sunnova Energy International Inc. and Rebecca Nelson (2025) — United States Bankruptcy Court, S.D. Texas
 - Stephens v. American Arbitration Association Incorporated (2025) — District Court, D. Arizona
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -329,3 +327,10 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lennar%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F560946914_202312_990O_2024061722525326.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lennar%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

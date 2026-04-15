@@ -140,7 +140,6 @@ In December 2022, Politico reported that Schmidt was helping fund the salaries o
 
 **The Tom Kalil case:** Kalil, Schmidt Futures' chief innovation officer, served as an unpaid consultant in the White House OSTP for four months in 2021 until ethics complaints prompted his departure. He returned to Schmidt Futures, which continued funding OSTP positions.
 
-- ~~[Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ### Defense Innovation Board (2016-2020)
 
@@ -233,7 +232,6 @@ Schmidt exemplifies the most sophisticated revolving door in the vault, one that
 ### Investigative Journalism. Tier 2:
 - [CNBC: Schmidt helped write AI laws without disclosing investments](https://www.cnbc.com/2022/10/24/how-googles-former-ceo-eric-schmidt-helped-write-ai-laws-in-washington-without-publicly-disclosing-investments-in-ai-start-ups.html) (Tier 2) (VERIFIED)
 - [Tech Transparency Project: Schmidt's Hidden Influence Over US Defense Spending](https://www.techtransparencyproject.org/articles/eric-schmidts-unseen-influence-over-us-defense-spending) (Tier 2)
-- ~~[DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Air & Space Forces Magazine: As National AI Panel Shuts Down, New Think Tank Emerges](https://www.airandspaceforces.com/as-national-ai-panel-shuts-down-new-think-tank-emerges-to-continue-its-work/) (Tier 2) (VERIFIED)
 - [Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160) (Tier 2) (UNVERIFIED)
 - [Fox News: Schmidt as Democratic power player](https://www.foxnews.com/politics/former-google-ceo-emerges-key-democratic-power-player-ahead-midterms) (Tier 2)
@@ -327,5 +325,12 @@ Schmidt exemplifies the most sophisticated revolving door in the vault, one that
 - City of New York v. Meta Platforms, Inc. (2025) — District Court, N.D. California
 - WILSON v. ERICSSON INC. (2025) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eric%20Schmidt%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: Ex-Google boss funds Biden administration jobs](https://www.politico.com/news/2022/12/22/eric-schmidt-joe-biden-administration-00074160)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[DefenseScoop: Schmidt-led panel pushing for defense AI experimentation unit](https://defensescoop.com/2023/09/08/eric-schmidt-led-panel-pushing-for-new-defense-experimentation-unit-to-drive-military-adoption-of-generative-ai/se-experimentation-unit-to-drive-military-adoption-of-generative-ai/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eric%20Schmidt%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

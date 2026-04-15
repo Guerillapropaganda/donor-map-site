@@ -118,7 +118,6 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 
 ### Sources
 
-- ~~[ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [OpenSecrets: One Nation Spending Tracker](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1) (VERIFIED)
 - [Center for Responsive Politics: Dark Money in 2024](https://www.opensecrets.org/orgs/one-nation-pac/summary?id=D000046014) (Tier 1) (VERIFIED)
 
@@ -177,7 +176,6 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 - Doe v. Trump (2026) — District Court, W.D. Louisiana
 - Inama v. Idaho State Board of Education (2026) — District Court, D. Idaho
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -197,3 +195,10 @@ One Nation exemplifies how dark money enables wealthy donors to exert political 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22One%20Nation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ProPublica: One Nation's Dark Money Network](https://projects.propublica.org/nonprofits/organizations/474943695)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22One%20Nation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

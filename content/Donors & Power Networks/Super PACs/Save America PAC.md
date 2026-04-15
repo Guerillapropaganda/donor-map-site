@@ -241,7 +241,6 @@ Save America represents a structural innovation in American political corruption
 ### Pardon Economy:
 - [Campaign Legal Center: Foreign Billionaire Pardon Case](https://campaignlegal.org/update/seeking-pardon-foreign-billionaire-allegedly-funneled-millions-trump-super-pac) (Tier 2) (VERIFIED)
 - [AEI: Trump's Sordid Pardon Economy](https://www.aei.org/op-eds/trumps-sordid-pardon-economy/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Trump-Pardoned Allies](https://thehill.com/opinion/campaign/4559868-four-trump-pardoned-allies-thank-him-with-action-and-loyalty/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -271,3 +270,9 @@ Save America represents a structural innovation in American political corruption
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/933113620) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Trump-Pardoned Allies](https://thehill.com/opinion/campaign/4559868-four-trump-pardoned-allies-thank-him-with-action-and-loyalty/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

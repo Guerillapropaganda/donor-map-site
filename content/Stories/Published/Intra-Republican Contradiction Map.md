@@ -256,13 +256,11 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 
 ### [[Jeff Yass|Jeff Yass]] & ByteDance:
 - [Fortune: The biggest donor in the 2024 election holds a $15 billion stake in TikTok's parent company](https://fortune.com/2024/03/13/tiktok-billionaire-jeff-yass-biggest-donor-2024-election/) (Tier 2) (VERIFIED)
-- ~~[Fast Company: Meet Jeff Yass, the billionaire ByteDance investor donating to Republicans who flipped against the TikTok ban](https://www.fastcompany.com/91058467/who-is-jeff-yass-billionaire-donating-to-republicans-who-flipped-on-bytedance-tiktok-ban)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Slate: Jeff Yass: Who is the powerful TikTok billionaire suddenly all over the news, and in Trump's corner?](https://slate.com/news-and-politics/2024/03/tiktok-trump-yass-truth-social-club-for-growth-republicans-megadonor.html) (Tier 2) (VERIFIED)
 
 ### Kenneth Griffin & Citadel:
 - [ArtNews: Billionaire Collector Kenneth Griffin Donated $100 M. for 2024 Election, Fifth-Most for Individual Donors](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
 - [CNBC: Billionaire Ken Griffin, former DeSantis donor, on sidelines for GOP presidential primary](https://www.cnbc.com/2023/09/18/billionaire-ken-griffin-former-desantis-donor-sits-out-gop-primary.html) (Tier 2) (VERIFIED)
-- ~~[NASDAQ: Citadel's Ken Griffin opposes tariffs but backs Trump with inaugural $1M donation](https://www.nasdaq.com/articles/citadels-ken-griffin-opposes-tariffs-but-backs-trump-with-inaugural-1m-donation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Koch Network & Project 2025:
 - [NBC News: Leonard Leo, Koch networks pour millions into groups prepping for potential second Trump administration](https://www.nbcnews.com/politics/2024-election/leonard-leo-koch-networks-pour-millions-prep-potential-second-trump-ad-rcna144360) (Tier 2) (VERIFIED)
@@ -275,7 +273,6 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 - [Axios: Club for Growth: Top conservative spenders plot new path after Trump](https://www.axios.com/2023/01/22/club-for-growth-republicans-conservatives-2024) (Tier 2) (VERIFIED)
 
 ### Stephen Schwarzman & Blackstone:
-- ~~[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Trump's super PAC builds $300 million cash stockpile, fueling unrivaled fundraising pace](https://www.cnn.com/2026/01/02/politics/trump-super-pac-maga-inc-fundraising) (Tier 2) (VERIFIED)
 
 ### [[Miriam Adelson|Miriam Adelson]]:
@@ -296,3 +293,11 @@ The clearest evidence: Koch Network + Club for Growth opposed Trump vigorously i
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Fast Company: Meet Jeff Yass, the billionaire ByteDance investor donating to Republicans who flipped against the TikTok ban](https://www.fastcompany.com/91058467/who-is-jeff-yass-billionaire-donating-to-republicans-who-flipped-on-bytedance-tiktok-ban)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NASDAQ: Citadel's Ken Griffin opposes tariffs but backs Trump with inaugural $1M donation](https://www.nasdaq.com/articles/citadels-ken-griffin-opposes-tariffs-but-backs-trump-with-inaugural-1m-donation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Schwarzman, OpenAI's Brockman Boost $102 Million Trump War Chest](https://www.bloomberg.com/news/articles/2026-01-02/schwarzman-openai-s-brockman-boost-102-million-trump-war-chest)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

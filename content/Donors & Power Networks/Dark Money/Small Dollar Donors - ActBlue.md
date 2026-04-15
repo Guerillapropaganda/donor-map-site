@@ -132,8 +132,13 @@ ActBlue's $3.82 billion in 2024 cycle processing demonstrates that small-dollar 
 - {{src:src_013802}} (Tier 1) (VERIFIED)
 - [OpenSecrets: ActBlue PAC profile — 2024 cycle summary and historical totals](https://www.opensecrets.org/political-action-committees-pacs/actblue/C00401224/summary/2024) (Tier 1) (VERIFIED)
 - [House Administration Committee: Chairman Steil demands information from ActBlue on potential foreign influence](https://cha.house.gov/2024/10/chairman-steil-demands-information-from-actblue-on-potential-foreign-influence-in-campaign-funding) (Tier 1) (VERIFIED)
-- ~~[The Hill: ActBlue rakes in nearly $50 million in 7 hours after Harris campaign launch](https://thehill.com/elections/4785224-harris-campaign-fundraising-actblue/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Campaign Legal Center: One of the largest financial operations in politics is shrouded in secrecy](https://campaignlegal.org/update/one-largest-financial-operations-politics-shrouded-secrecy) (Tier 2) (VERIFIED)
 - [Ballotpedia: ActBlue — platform history, structure, and fundraising totals](https://ballotpedia.org/ActBlue) (Tier 3) (VERIFIED)
 - [Ballotpedia: Small Dollar Donors - ActBlue](https://ballotpedia.org/Small_Dollar_Donors_-_ActBlue) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: ActBlue rakes in nearly $50 million in 7 hours after Harris campaign launch](https://thehill.com/elections/4785224-harris-campaign-fundraising-actblue/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

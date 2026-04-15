@@ -178,15 +178,12 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 | Officer Compensation | $9K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 756085578](https://projects.propublica.org/nonprofits/organizations/756085578) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756085578_202312_990O_2024061722533963.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
 ### Sources
 
-- ~~[OpenSecrets: AFGE political spending](https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [AFGE: About Us and Federal Workforce Advocacy](https://www.afge.org/about-afge/) (Tier 2) (VERIFIED)
-- ~~[Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [ProPublica: Federal workforce reductions and union resistance](https://www.propublica.org/article/doge-elon-musk-trump-staffers-tracker-update) (Tier 2) (VERIFIED)
 - [Union membership statistics: Bureau of Labor Statistics](https://www.bls.gov/news.release/union2.nr0.htm) (Tier 1) (VERIFIED)
 
@@ -253,3 +250,11 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/251331251) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F756085578_202312_990O_2024061722533963.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: AFGE political spending](https://www.opensecrets.org/orgs/american-federation-of-government-employees/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Federal Times: AFGE federal workforce policy positions](https://www.federaltimes.com/management/2024/01/15/afge-federal-workforce/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)

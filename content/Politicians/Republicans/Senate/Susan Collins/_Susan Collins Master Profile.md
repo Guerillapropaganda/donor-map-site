@@ -173,7 +173,6 @@ Collins does not represent Maine voters. She represents the national corporate d
 - [ProPublica: private equity and carried interest](https://www.propublica.org/article/susan-collins-backed-down-from-a-fight-with-private-equity-now-theyre-underwriting-her-reelection) (Tier 2) (VERIFIED)
 - [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2) (VERIFIED)
 - [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2) (VERIFIED)
-- ~~[19th News: 2020 race spending](https://19thnews.org/2020/12/susan-collins-senate-race-2020-defied-the-odds/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Legislative Activity (Congress.gov)
 
@@ -202,7 +201,6 @@ Collins does not represent Maine voters. She represents the national corporate d
 | 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
 | 12/22/2015 | -- | Purchase | $1,001 - $15,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Campaign Finance (FEC)
@@ -242,3 +240,10 @@ Collins does not represent Maine voters. She represents the national corporate d
 
 ## Committee Assignments (Congress.gov)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[19th News: 2020 race spending](https://19thnews.org/2020/12/susan-collins-senate-race-2020-defied-the-odds/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

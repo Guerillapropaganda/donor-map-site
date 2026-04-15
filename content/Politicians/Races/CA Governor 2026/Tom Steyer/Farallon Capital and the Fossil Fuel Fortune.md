@@ -69,6 +69,11 @@ Steyer's Farallon history reveals the fundamental problem with billionaire clima
 
 ### Sources
 
-- ~~[The Hill: Steyer claims he divested from fossil fuels a decade ago, but it's more complicated](https://thehill.com/policy/energy-environment/478320-steyer-claims-he-divested-from-fossil-fuels-a-decade-ago-but-its/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Corporate Knights: How a billionaire fossil fuel investor became a climate crusader](https://corporateknights.com/finance/how-a-billionaire-fossil-fuel-investor-became-a-climate-crusader-tom-steyer/) (Tier 2) (VERIFIED)
 - [FactCheck.org: Tom Steyer Archive](https://www.factcheck.org/person/tom-steyer/) (Tier 1) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Steyer claims he divested from fossil fuels a decade ago, but it's more complicated](https://thehill.com/policy/energy-environment/478320-steyer-claims-he-divested-from-fossil-fuels-a-decade-ago-but-its/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

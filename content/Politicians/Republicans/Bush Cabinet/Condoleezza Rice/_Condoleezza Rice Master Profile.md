@@ -135,13 +135,8 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ## Sources
 
-- ~~[FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[ProPublica: Condoleezza Rice Revolving Door](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Condoleezza Rice - Chevron board service](https://en.wikipedia.org/wiki/Condoleezza_Rice) (Tier 3) (VERIFIED)
-- ~~[The Guardian: The MV Condoleezza Rice - Chevron oil tanker](https://www.theguardian.com/world/2008/jan/20/usa.chevron)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ProPublica: Condoleezza Rice on Lockheed Martin connections (Tier 2) (URL NEEDED, fabricated slug; no ProPublica article found on Rice/private equity/Lockheed connections)
-- ~~[Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hoover Institution: Condoleezza Rice - Senior Fellow](https://www.hoover.org/profiles/condoleezza-rice) (Tier 1) (VERIFIED)
 
 ### Influence Network (Cross-Reference)
@@ -156,3 +151,13 @@ The pattern: energy sector → government → academia. At each stage, Rice's po
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FEC: Condoleezza Rice campaign finance (if applicable)](https://www.fec.gov/data/candidate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Stanford University: Condoleezza Rice bio - CISAC Director](https://cisac.stanford.edu/about/director)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[ProPublica: Condoleezza Rice Revolving Door](https://projects.propublica.org/revolving-door-searchable-database/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Guardian: The MV Condoleezza Rice - Chevron oil tanker](https://www.theguardian.com/world/2008/jan/20/usa.chevron)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Council on Foreign Relations: Condoleezza Rice biography](https://www.cfr.org/experts/condoleezza-rice)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

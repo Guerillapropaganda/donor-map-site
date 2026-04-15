@@ -176,7 +176,6 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 
 ### Investigative Journalism. Tier 2:
 - [House Oversight Committee: Investigation into Jared Kushner's Affinity Partners Saudi Investment (June 2022)](https://oversightdemocrats.house.gov/news/press-releases/chairwoman-maloney-launches-probe-of-saudi-government-s-2-billion-investment-in) (Tier 2) (VERIFIED)
-- ~~[Axios: Jared Kushner's new private equity fund raises old questions (March 2026)](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Reference. Tier 3:
 - [Wikipedia: Affinity Partners](https://en.wikipedia.org/wiki/Affinity_Partners) (Tier 3) (VERIFIED)
@@ -217,3 +216,9 @@ This asymmetry reflects U.S. alignment with Saudi Arabia as Middle East strategi
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Jared Kushner's new private equity fund raises old questions (March 2026)](https://www.axios.com/2026/03/16/jared-kushner-affinity-partners)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -82,4 +82,9 @@ The crypto industry's response: $10 million in [[Fairshake PAC|Fairshake PAC]] a
 - [Katie Porter Campaign: U.S. Senator Elizabeth Warren Endorses Katie Porter For California Governor](https://katieporter.com/2026/02/u-s-senator-elizabeth-warren-endorses-katie-porter-for-california-governor/) (Tier 1) (VERIFIED)
 - [NPR: Rep. Katie Porter is standing up to corporate America, one whiteboard at a time](https://www.npr.org/2023/04/11/1169318377/rep-katie-porter-is-standing-up-to-corporate-america-one-whiteboard-at-a-time) (Tier 2) (VERIFIED)
 - [California Attorney General: Attorney General Kamala D. Harris Appoints Independent Monitor to Protect Interests of Homeowners](https://oag.ca.gov/news/press-releases/attorney-general-kamala-d-harris-appoints-independent-monitor-protect-interests) (Tier 1) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[Congress.gov: Rep. Katie Porter Campaign Finance Summary](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

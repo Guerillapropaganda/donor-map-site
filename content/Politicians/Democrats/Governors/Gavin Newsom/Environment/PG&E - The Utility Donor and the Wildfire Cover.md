@@ -121,8 +121,13 @@ Grid hardening and vegetation management are presented as progressive infrastruc
 
 ### Sources
 
-- ~~[CalMatters: Newsom and PG&E strike bankruptcy deal](https://calmatters.org/category/environment/wildfires/2020/03/california-pge-bankruptcy-gavin-newsom-deal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[LA Times: AB 1054 wildfire liability fund](https://www.latimes.com/california/story/2019-07-12/california-wildfire-legislation-signed-pge)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [SF Chronicle: PG&E guilty plea, 84 counts](https://www.sfchronicle.com/california-wildfires/article/PG-E-pleads-guilty-to-84-counts-of-involuntary-15331371.php) (Tier 2) (VERIFIED)
 - [The Intercept: PG&E contributions to Newsom](https://theintercept.com/2019/11/04/pge-bailout-bankruptcy-lobbying/) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Newsom and PG&E strike bankruptcy deal](https://calmatters.org/category/environment/wildfires/2020/03/california-pge-bankruptcy-gavin-newsom-deal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: AB 1054 wildfire liability fund](https://www.latimes.com/california/story/2019-07-12/california-wildfire-legislation-signed-pge)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

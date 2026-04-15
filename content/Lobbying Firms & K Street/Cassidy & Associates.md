@@ -234,19 +234,14 @@ The firm's representation of authoritarian governments. Equatorial Guinea's Obia
 - [Senate LDA Filings: Cassidy & Assoc Lobbyists. Revolving Door Data](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: Cassidy & Assoc Issues Lobbied](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
 - [Wikipedia: Cassidy & Associates](https://en.wikipedia.org/wiki/Cassidy_&_Associates) (Tier 3) (VERIFIED)
-- ~~[Wikipedia: Gerald Cassidy (lobbyist)](https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist)~~ (URL broken, archived by Ops)) (Tier 3)
 - [Cassidy & Associates: Official Website](https://cassidy.com/) (Tier 4) (VERIFIED)
 - [Roll Call: K Street Paradox. Cassidy earmark history](https://rollcall.com/2007/01/19/k-street-paradox/) (Tier 2) (VERIFIED)
 - [Roll Call: Ex-Rep. Russo, 12 Employees Out in Cassidy Shake-Up](https://rollcall.com/2010/12/15/ex-rep-russo-12-employees-out-in-cassidy-shake-up/) (Tier 2) (VERIFIED)
-- ~~[The Hill: K Street icon Cassidy to step down](https://thehill.com/business-a-lobbying/business-a-lobbying/190992-k-street-icon-cassidy-to-step-down/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Lobbying World. Feinstein's chief of staff joins Cassidy & Associates](https://thehill.com/lobbying/4343004-lobbying-world-feinsteins-chief-of-staff-joins-cassidy-associates/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Mother Jones: Putting Lipstick on a Dictator. Equatorial Guinea lobbying](https://www.motherjones.com/politics/2007/05/putting-lipstick-dictator/) (Tier 2) (VERIFIED)
 - [Al Jazeera: The Egypt-US lobbying connection](https://www.aljazeera.com/features/2017/7/26/the-egypt-us-lobbying-connection) (Tier 2) (VERIFIED)
-- ~~[The Hill: Bottom Line. Former BLM director signs up to lobby for wetlands defense (Okefenokee)](https://thehill.com/lobbying/4773312-bottom-line-former-blm-director-signs-up-to-lobby-for-wetlands-defense/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Daily Pennsylvanian: Penn projected to hit record lobbying spending amid Trump-era funding threats](https://www.thedp.com/article/2025/09/penn-lobbying-spending-projection-ivies-data-trump) (Tier 3) (VERIFIED)
 - [The Daily Pennsylvanian: Penn hit record-high lobbying expenditures in third quarter of 2025](https://www.thedp.com/article/2025/10/penn-lobbying-third-quarter-record-spending) (Tier 3) (VERIFIED)
 - [The Daily Pennsylvanian: Penn spent record-high $510,000 lobbying in fourth quarter of 2025](https://www.thedp.com/article/2026/01/penn-fourth-quarter-spending-lobbying-expenditures-2026) (Tier 3) (VERIFIED)
-- ~~[The Hill: How top universities have boosted lobbying during Donald Trump 2.0](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Big Ten: New Era Begins As House Settlement Approved](https://bigten.org/mgolf/article/93/) (Tier 3) (VERIFIED)
 - [Front Office Sports: NCAA Appears No Closer to Getting Its Congressional Wish List](https://frontofficesports.com/the-ncaa-congressional-wish-list/) (Tier 2) (VERIFIED)
 
@@ -266,5 +261,15 @@ The firm's representation of authoritarian governments. Equatorial Guinea's Obia
 - Campbell v. Mikerin (2016) — District Court, D. Maryland
 - Midas Fund, Inc. v. Gammon Gold, Inc. (2007) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cassidy%20%26%20Associates%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: Gerald Cassidy (lobbyist)](https://en.wikipedia.org/wiki/Gerald_Cassidy_(lobbyist)~~ (URL broken, archived by Ops)) (Tier 3)
+- ~~[The Hill: K Street icon Cassidy to step down](https://thehill.com/business-a-lobbying/business-a-lobbying/190992-k-street-icon-cassidy-to-step-down/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Lobbying World. Feinstein's chief of staff joins Cassidy & Associates](https://thehill.com/lobbying/4343004-lobbying-world-feinsteins-chief-of-staff-joins-cassidy-associates/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Bottom Line. Former BLM director signs up to lobby for wetlands defense (Okefenokee)](https://thehill.com/lobbying/4773312-bottom-line-former-blm-director-signs-up-to-lobby-for-wetlands-defense/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: How top universities have boosted lobbying during Donald Trump 2.0](https://thehill.com/homenews/education/5574565-universities-lobbying-trump-crackdown/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cassidy%20%26%20Associates%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

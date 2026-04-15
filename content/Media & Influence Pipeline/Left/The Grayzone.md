@@ -159,7 +159,6 @@ The revenue opacity prevents answering this definitively. A truly independent ou
 
 - [Washington Post: Documents reveal Iran payments to Grayzone staff](https://www.washingtonpost.com/technology/2024/06/02/grayzone-russia-iran-support/) (Tier 2) (VERIFIED)
 - [New Lines Magazine: Russia-linked left media on Gaza](https://newlinesmag.com/argument/public-mistrust-of-gaza-coverage-is-opening-space-for-russia-linked-media-on-the-left/) (Tier 2) (VERIFIED)
-- ~~[ASPI: Chinese state media citations of Grayzone](https://xjdp.aspi.org.au/explainers/strange-bedfellows-on-xinjiang/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Graphtreon: Grayzone Patreon analytics](https://graphtreon.com/creator/Grayzone) (Tier 3) (VERIFIED)
 - [Wikipedia: The Grayzone](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 3) (VERIFIED)
 
@@ -170,3 +169,9 @@ The revenue opacity prevents answering this definitively. A truly independent ou
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ASPI: Chinese state media citations of Grayzone](https://xjdp.aspi.org.au/explainers/strange-bedfellows-on-xinjiang/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

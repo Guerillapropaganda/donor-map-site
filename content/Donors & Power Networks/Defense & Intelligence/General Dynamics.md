@@ -140,7 +140,6 @@ The defense industrial base argument is the political cover. General Dynamics po
 - [OpenSecrets: General Dynamics organizational profile](https://www.opensecrets.org/orgs/general-dynamics/summary?id=D000000165) (Tier 1)
 - [OpenSecrets: General Dynamics lobbying expenditures](https://www.opensecrets.org/orgs/general-dynamics/lobbying?id=D000000165) (Tier 1) (VERIFIED)
 - [Department of Defense: Columbia-class submarine program](https://www.navy.mil/Resources/Fact-Files/Display-FactFiles/Article/2169795/columbia-class-submarine/) (Tier 1) (NEEDS REVIEW)
-- ~~[Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Ballotpedia: General Dynamics political spending](https://ballotpedia.org/General_Dynamics) (Tier 3) (VERIFIED)
 
 ---
@@ -192,7 +191,6 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 | Net Assets | $11K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 382421395](https://projects.propublica.org/nonprofits/organizations/382421395) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -479,3 +477,10 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Defense News: General Dynamics submarine production and Navy budgets](https://www.defensenews.com/general-dynamics/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=03_2021_prefixes_37-42%2F382421395_201912_990O_2021031217796032.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

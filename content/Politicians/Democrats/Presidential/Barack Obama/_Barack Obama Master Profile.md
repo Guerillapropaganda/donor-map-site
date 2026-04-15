@@ -291,7 +291,6 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 - [Sunlight Foundation: The Legacy of Billy Tauzin: The White House-PhRMA Deal](https://sunlightfoundation.com/2010/02/12/the-legacy-of-billy-tauzin-the-white-house-phrma-deal/) (Tier 2) (VERIFIED)
 - [PBS Frontline: Obama's Deal Chronology](https://www.pbs.org/wgbh/pages/frontline/obamasdeal/etc/cron.html) (Tier 2)
 - [Center for Public Integrity: Elimination of 'public option' threw consumers to the insurance wolves](https://publicintegrity.org/health/elimination-of-public-option-threw-consumers-to-the-insurance-wolves/) (Tier 2) (VERIFIED)
-- ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group](https://medium.com/@OpenSecretsDC/obama-tied-operatives-and-biden-supporters-launch-60-million-dark-money-group-a21197faf3cf) (Tier 2) (VERIFIED)
 - [OpenSecrets: Organizing for Action Committee](https://www.opensecrets.org/obama/organizing-for-action-committee) (Tier 1) (VERIFIED)
 - [Free Beacon: Democracy Alliance Members Big Contributors to OFA](https://freebeacon.com/national-security/democracy-alliance-members-big-contributors-to-ofa/) (VERIFIED) (Tier 3, partisan source but citing primary documentation) (Tier 2)
@@ -377,12 +376,18 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 - Providing an Order of Succession Within the Council on Environmental Quality (2017-01-13)
 - Designation of Officers or Employees of the Office of Science and Technology Policy To Act as Director (2017-01-13)
 
-- ~~[Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/barack-obama)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:executive-orders end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Barack Obama](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Health Affairs Journal: The Origins And Demise Of The Public Option](https://www.healthaffairs.org/doi/10.1377/hlthaff.2010.0363)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Federal Register - Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/barack-obama)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Barack Obama](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

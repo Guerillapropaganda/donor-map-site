@@ -154,14 +154,11 @@ Bostock v. Clayton County (2020) provides the libertarian cover. Gorsuch authore
 - [ProPublica: We Don't Talk About Leonard. The Man Behind the Right's Supreme Court Supermajority](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 - [Supreme Court: Epic Systems Corp. v. Lewis (Official Opinion)](https://www.supremecourt.gov/opinions/17pdf/16-285_q8l1.pdf) (Tier 1) (VERIFIED)
 - [Supreme Court: Loper Bright Enterprises v. Raimondo (Official Opinion)](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Supreme Court Addresses Major Questions Doctrine and EPA Regulation](https://www.congress.gov/crs-product/LSB10791)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Washington Post: Neil Gorsuch's Mother Once Ran the EPA. It Didn't Go Well.](https://www.washingtonpost.com/news/energy-environment/wp/2017/02/01/neil-gorsuchs-mother-once-ran-the-epa-it-was-a-disaster/) (Tier 2) (VERIFIED)
 - [EPA: Biography of Anne M. Gorsuch (Burford)](https://www.epa.gov/archive/epa/aboutepa/biography-anne-m-gorsuch-burford.html) (Tier 1) (VERIFIED)
 - [CNN: Justice Neil Gorsuch's Property Sale to Prominent Lawyer Raises Ethical Questions](https://www.cnn.com/2023/04/25/politics/gorsuch-property-sale-lawyer-ethics) (Tier 2) (VERIFIED)
 - [Cornell LII: Bostock v. Clayton County](https://www.law.cornell.edu/supremecourt/text/17-1618) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Nomination of Neil M. Gorsuch (Official Record)](https://www.congress.gov/nomination/115th-congress/55)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [U.S. Senate: Roll Call Vote. Gorsuch Confirmation 54-45](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1151/vote_115_1_00111.htm) (Tier 1) (VERIFIED)
-- ~~[WBUR/NPR: Contempt. How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -180,3 +177,11 @@ Bostock v. Clayton County (2020) provides the libertarian cover. Gorsuch authore
 
 ## Committee Assignments (Congress.gov)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Supreme Court Addresses Major Questions Doctrine and EPA Regulation](https://www.congress.gov/crs-product/LSB10791)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Nomination of Neil M. Gorsuch (Official Record)](https://www.congress.gov/nomination/115th-congress/55)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[WBUR/NPR: Contempt. How Reagan's EPA Head Became the First Cabinet-Level Official Cited for Contempt of Congress](https://www.wbur.org/hereandnow/2022-09-16/contempt-how-reagans-epa-head-became-the-1st-cabinet-level-official-cited-for-contempt-of-congress)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

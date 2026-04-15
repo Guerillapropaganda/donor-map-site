@@ -182,8 +182,6 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 - {{src:src_002713}} (Tier 1) (VERIFIED)
 - [NPR: Gabbard confirmed as DNI (52-48, February 12, 2025)](https://www.npr.org/2025/02/12/nx-s1-5294635/tulsi-gabbard-confirmed-dni-intelligence-senate) (Tier 2) (VERIFIED)
 - [CBS News: DNI confirmation vote details](https://www.cbsnews.com/news/tulsi-gabbard-confirmation-vote-senate-director-of-national-intelligence/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Gabbard Section 702/FISA surveillance reversal](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Washington Post: Gabbard-Assad meeting](https://www.washingtonpost.com/investigations/2025/01/21/tulsi-gabbard-syria-assad-nomination/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Vice Chair of DNC Tulsi Gabbard resigns to support Bernie Sanders (February 28, 2016)](https://www.npr.org/sections/thetwo-way/2016/02/28/468457319/vice-chair-of-dnc-resigns-to-support-bernie-sanders) (Tier 2) (VERIFIED)
 - [CNN: Hillary Clinton suggests Russians are 'grooming' Tulsi Gabbard for third-party run (October 2019)](https://www.cnn.com/2019/10/18/politics/hillary-clinton-tulsi-gabbard) (Tier 2) (VERIFIED)
 - [ABC News: Gabbard's views on Russia shaped in part by Kremlin propaganda outlet, ex-aides say](https://abcnews.com/US/gabbards-views-russia-shaped-part-kremlin-propaganda-outlet/story?id=116430097) (Tier 2) (VERIFIED)
@@ -213,3 +211,10 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412532) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Gabbard Section 702/FISA surveillance reversal](https://www.washingtonpost.com/national-security/2025/01/28/tulsi-gabbard-section-702-fisa-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Gabbard-Assad meeting](https://www.washingtonpost.com/investigations/2025/01/21/tulsi-gabbard-syria-assad-nomination/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

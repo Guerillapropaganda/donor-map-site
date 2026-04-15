@@ -83,10 +83,15 @@ Padilla's Senate record contains no federal gig worker legislation. He has not i
 
 - {{src:src_005601}} (Tier 1) (VERIFIED)
 - {{src:src_005601}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Alex Padilla member profile and bill sponsorship](https://www.congress.gov/member/alex-padilla/P000145)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Padilla.senate.gov: Budget Committee hearing on immigration and economic growth, Sept. 13, 2023](https://www.padilla.senate.gov/newsroom/press-releases/padilla-highlights-immigrants-vital-role-in-driving-economic-growth-and-competitiveness-calls-for-fixes-to-outdated-system/) (Tier 1) (NEEDS REVIEW)
 - [Padilla.senate.gov: Padilla co-sponsors PRO Act legislation](https://www.padilla.senate.gov/newsroom/press-releases/padilla-cosponsors-bipartisan-bicameral-legislation-to-protect-the-rights-of-american-workers-to-organize/) (Tier 1) (VERIFIED)
 - [Padilla.senate.gov: Immigration issues page](https://www.padilla.senate.gov/about/issues/immigration/) (Tier 1) (VERIFIED)
 - [Wikipedia: 2020 California Proposition 22 (Lyft/Uber gig worker exemption)](https://en.wikipedia.org/wiki/2020_California_Proposition_22) (Tier 3) (VERIFIED)
 - [Ballotpedia: Alex Padilla](https://ballotpedia.org/Alex_Padilla) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Alex Padilla member profile and bill sponsorship](https://www.congress.gov/member/alex-padilla/P000145)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

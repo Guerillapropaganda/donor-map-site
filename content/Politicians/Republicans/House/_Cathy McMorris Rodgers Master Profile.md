@@ -198,10 +198,8 @@ Her committee position turned her funded-by relationship into actual regulatory 
 - {{src:src_004092}} (Tier 1) (VERIFIED)
 - {{src:src_004092}} (Tier 1) (VERIFIED)
 - [House Energy & Commerce Committee roster](https://energycommerce.house.gov/subcommittees) (Tier 1) (VERIFIED)
-- ~~[Fight for the Future: Net Neutrality opposition record](https://fightforthefuture.org/tracking-net-neutrality-opposition/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: What a WA rep's No. 1 ranking in corporate cash means for the climate](https://www.seattletimes.com/seattle-news/politics/what-a-wa-reps-no-1-ranking-in-corporate-cash-means-for-the-climate/) (Tier 2) (VERIFIED)
 - [ProPublica: McMorris Rodgers voting record](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: House Energy and Commerce Committee](https://www.congress.gov/committee/house-energy-and-commerce/hsif00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -248,3 +246,10 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Fight for the Future: Net Neutrality opposition record](https://fightforthefuture.org/tracking-net-neutrality-opposition/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: House Energy and Commerce Committee](https://www.congress.gov/committee/house-energy-and-commerce/hsif00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

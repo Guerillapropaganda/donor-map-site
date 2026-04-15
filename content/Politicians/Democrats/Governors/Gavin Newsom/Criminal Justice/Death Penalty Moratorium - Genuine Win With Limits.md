@@ -110,10 +110,15 @@ This is a genuine win with real limits. Credit the moratorium and the transfer p
 - [CalMatters: Gov. Newsom halts executions in California](https://calmatters.org/justice/2019/03/gavin-newsom-halts-executions-california/) (Tier 2) (VERIFIED)
 - [Death Penalty Information Center: California state spotlight, death row population decline 2024](https://deathpenaltyinfo.org/news/state-spotlight-california-death-row-shrinks-sharply-in-2024-driven-by-the-resentencing-of-at-least-45-people-to-life-sentences-or-less/) (Tier 2) (VERIFIED)
 - [KQED: California death row closure at San Quentin and next steps](https://www.kqed.org/news/11904934/dismantling-death-row-at-san-quentin-state-prison) (Tier 2) (VERIFIED)
-- ~~[Spokesman: California speeds plans to empty San Quentin's death row (2024)](https://www.spokesman.com/stories/2024/mar/18/california-speeds-plans-to-empty-san-quentins-death/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Tier 3. Secondary & Analysis
 - [Death Penalty Information Center: DPIC California death row demographics and overview](https://deathpenaltyinfo.org/state-and-federal-info/state-by-state/california) (Tier 3) (VERIFIED)
 - [Death Penalty FOCUS: California death penalty facts and Newsom transformation of San Quentin](https://deathpenalty.org/ca_factsheet/) (Tier 3) (VERIFIED)
 - [Zócalo Public Square: "The Dark Side of Gavin Newsom's Moratorium on the Death Penalty" (2019)](https://www.zocalopublicsquare.org/dark-side-gavin-newsoms-moratorium-death-penalty/) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Spokesman: California speeds plans to empty San Quentin's death row (2024)](https://www.spokesman.com/stories/2024/mar/18/california-speeds-plans-to-empty-san-quentins-death/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -38,7 +38,12 @@ Craig came to Congress from the private sector (St. Jude Medical, now Abbott Lab
 
 ### Sources
 
-- ~~[Congress.gov: Angie Craig member profile](https://www.congress.gov/member/angie-craig/C001119)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_006362}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Angie Craig](https://ballotpedia.org/Angie_Craig) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Angie Craig member profile](https://www.congress.gov/member/angie-craig/C001119)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

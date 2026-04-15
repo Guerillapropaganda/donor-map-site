@@ -223,8 +223,6 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 - {{src:src_003536}} (Tier 1) (VERIFIED)
 - {{src:src_003536}} (Tier 1) (VERIFIED)
 - {{src:src_003536}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Texas Tribune: How John Cornyn got the bipartisan gun bill passed](https://www.texastribune.org/2022/06/27/john-cornyn-texas-gun-bill/) (Tier 2) (VERIFIED)
 - [Texas Tribune: John Cornyn received late help from national Republicans in reelection bid](https://www.texastribune.org/2020/12/03/john-cornyn-campaign-donors/) (Tier 2) (VERIFIED)
 - [E&E News/Politico: Oil money flows to Cornyn in Texas primary](https://www.eenews.net/articles/oil-money-flows-to-cornyn-in-texas-primary/) (Tier 2) (VERIFIED)
@@ -338,7 +336,6 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | 08/21/2015 | AAPL | Purchase | $15,001 - $50,000 | Self |
 | 02/01/2017 | AAPL | Sale | $15,001 - $50,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -394,5 +391,13 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | 4078 | Stop Somali CASH misconduct Act | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 | — |  | Amendment SA 5115 agreed to in Senate by Unanimous Consent. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001056)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: John Cornyn member profile](https://www.congress.gov/member/john-cornyn/C001056)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Bipartisan Safer Communities Act (S.2938, 117th Congress)](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001056)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

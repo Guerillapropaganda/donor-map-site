@@ -44,7 +44,12 @@ What it did not address: state incarceration (90% of the prison population), pol
 
 ### Sources
 
-- ~~[Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_001199}} (Tier 1) (VERIFIED)
 - [Ballotpedia: First Step Act](https://ballotpedia.org/First_Step_Act) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: First Step Act](https://www.congress.gov/bill/115th-congress/senate-bill/756)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -155,7 +155,6 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 - Atmus Filtration, Inc. v. United States (2026) — United States Court of International Trade
 - Funderburk v. Honeywell International, Inc. Benefit Plan (2026) — District Court, W.D. North Carolina
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -273,7 +272,6 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 - ~~[Apex Security Systems with XICOR Memory Chip Recalled by Honeywell International; Could Fail to Warn of Fire, Intrusion](https://www.cpsc.gov/Recalls/07575)~~ (URL broken, archived by Ops) (2007-09-06) — The memory chip in the control panel could lose programmed values in the event of a power outage exceeding four hours. If this occurs, the panel could fail to communicate with a central monitoring station and not sound an audible notification in the event of a fire or home intrusion.
 - ... and 1 more
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Honeywell%20International)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### DOJ Press Releases
@@ -298,3 +296,10 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Honeywell%20International%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Honeywell%20International)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -119,7 +119,6 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 | Net Assets | $342K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 455577678](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455577678_202312_990EZ_2024070222641028.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Tax Filings (IRS 990)
@@ -137,11 +136,6 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2019)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/455577678) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -251,7 +245,6 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 - Uber Technologies, Inc. v. Mass Tort Ad Agency (2026) — District Court, M.D. Florida
 - Doe v. Perplexity AI, Inc. (2026) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oracle%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -302,3 +295,15 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F455577678_202312_990EZ_2024070222641028.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/455577678/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Oracle%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

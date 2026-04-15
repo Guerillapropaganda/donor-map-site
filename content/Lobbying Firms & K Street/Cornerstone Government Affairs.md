@@ -260,11 +260,8 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 - [Cornerstone Government Affairs: Firm History, founded 2002, 180+ professionals, 16 offices](https://cgagroup.com/firm-history/) (Tier 3) (VERIFIED)
 - [Cornerstone Government Affairs: People directory](https://cgagroup.com/people/) (Tier 3) (VERIFIED)
 - [Cornerstone Government Affairs Named Top Lobbying Firm by Bloomberg Government, 2024](https://cgagroup.com/cornerstone-top-lobbying-firm-2024/) (Tier 3) (VERIFIED)
-- ~~[The Hill: Cornerstone snags DNC chief. Hyma Moore (Nov. 2023)](https://thehill.com/lobbying/4320772-lobbying-world-cornerstone-snags-dnc-chief/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Cornerstone press release: DNC Chief of Staff Hyma Moore joins (Nov. 2023)](https://cgagroup.com/cornerstone-adds-dnc-chief-of-staff-hyma-moore-to-growing-public-affairs-team/) (Tier 3) (VERIFIED)
 - [Cornerstone press release: RNC Chief of Staff Mike Reed joins (Feb. 2024)](https://cgagroup.com/cornerstone-adds-rnc-chief-of-staff-mike-reed-to-growing-public-affairs-team/) (Tier 3) (VERIFIED)
-- ~~[The Hill: DHS alum Lauren Tomlinson joins Cornerstone (Aug. 2024)](https://thehill.com/lobbying/4816663-lobbying-world-dhs-alum-joins-cornerstone/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Treasury appointee Ron Storhaug joins Cornerstone (Dec. 2024)](https://thehill.com/lobbying/4974606-lobbying-world-treasury-appointee-joins-cornerstone/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Cornerstone press release: Former Treasury Tax Appointee Ron Storhaug joins (Dec. 2024)](https://cgagroup.com/former-treasury-tax-appointee-ron-storhaug-joins-cornerstone/) (Tier 3) (VERIFIED)
 - [Cornerstone press release: Michael Falencki, Former Deputy Staff Director House Transportation Committee, joins (Jan. 2024)](https://cgagroup.com/michael-falencki-former-deputy-staff-director-of-the-house-committee-on-transportation-and-infrastructure-joins-cornerstone-government-affairs/) (Tier 3) (VERIFIED)
 - [Sen. Wicker press release: Wicker Names Keast as Commerce Committee Staff Director (Dec. 2018)](https://www.wicker.senate.gov/2018/12/wicker-names-keast-as-commerce-committee-staff-director) (Tier 1) (VERIFIED)
@@ -296,7 +293,6 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 - Ministry of Foreign Affairs of Greece (GREECE)
 - ... and 10 more
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Tax Filings (IRS 990)
@@ -314,11 +310,6 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 **Filing history:** 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2024)~~ (URL broken, archived by Ops)
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2020)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521943698) (Tier 1) (VERIFIED)
@@ -340,7 +331,6 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 - Wellpath Holdings, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
 - United States v. Owens, II (2024) — District Court, S.D. Mississippi
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cornerstone%20Government%20Affairs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -359,3 +349,19 @@ The analytical pattern this firm represents is **Bipartisan Access Machine** com
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cornerstone%20Government%20Affairs%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Cornerstone snags DNC chief. Hyma Moore (Nov. 2023)](https://thehill.com/lobbying/4320772-lobbying-world-cornerstone-snags-dnc-chief/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: DHS alum Lauren Tomlinson joins Cornerstone (Aug. 2024)](https://thehill.com/lobbying/4816663-lobbying-world-dhs-alum-joins-cornerstone/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Treasury appointee Ron Storhaug joins Cornerstone (Dec. 2024)](https://thehill.com/lobbying/4974606-lobbying-world-treasury-appointee-joins-cornerstone/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:Cornerstone%20Government%20Affairs,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2024 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2024)~~ (URL broken, archived by Ops)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521943698/2020)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cornerstone%20Government%20Affairs%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

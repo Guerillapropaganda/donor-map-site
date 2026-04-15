@@ -187,5 +187,10 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 - Tolber v. McDonalds Corporation (2025) — District Court, S.D. Ohio
 - Steele v. Randall (2025) — District Court, N.D. Illinois
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22McDonalds%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22McDonalds%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

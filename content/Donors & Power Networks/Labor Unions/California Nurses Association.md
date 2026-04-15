@@ -99,8 +99,6 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 | Net Assets | $464.3M |
 | Officer Compensation | $6.1M |
 
-- ~~[Source: ProPublica Nonprofit Explorer - EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -246,3 +244,10 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Nurses%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: ProPublica Nonprofit Explorer - EIN 940362060](https://projects.propublica.org/nonprofits/organizations/940362060)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F940362060_202306_990O_2024061822539914.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

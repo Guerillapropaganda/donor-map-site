@@ -107,7 +107,6 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 
 ### Sources
 
-- ~~[Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [DeSmog: Consumer Energy Alliance (CEA), fossil fuel industry front group profile](https://www.desmog.com/consumer-energy-alliance-cea/) (Tier 2) (VERIFIED)
 
 ---
@@ -174,7 +173,6 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - The Transport Project v. EPA (2024) — Court of Appeals for the D.C. Circuit
 - Clean Fuels Alliance America v. EPA (2024) — Court of Appeals for the D.C. Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Consumer%20Energy%20Alliance%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -192,11 +190,6 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/261658339) (Tier 1) (VERIFIED)
@@ -241,3 +234,15 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Consumer%20Energy%20Alliance%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Center for Responsive Politics: CEA lobbying spending](https://www.opensecrets.org/organizations/consumer-energy-alliance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Consumer%20Energy%20Alliance%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/261658339/2019)~~ (URL broken, archived by Ops)

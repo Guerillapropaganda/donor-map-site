@@ -190,7 +190,6 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 - {{src:src_005198}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Richard Blumenthal personal finances](https://www.opensecrets.org/personal-finances/richard-blumenthal/net-worth?cid=N00031685) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Richard Blumenthal](https://www.congress.gov/member/richard-blumenthal/B001277)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate Veterans' Affairs Committee: About the Ranking Member](https://www.veterans.senate.gov/ranking-member-about) (Tier 1) (VERIFIED)
 - [Senate.gov: Blumenthal to serve as VA Committee Ranking Member](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-to-serve-as-ranking-member-of-the-senate-committee-on-veterans-affairs) (Tier 1) (VERIFIED)
 - [Senate.gov: Blumenthal biography](https://www.blumenthal.senate.gov/about/biography) (Tier 1) (VERIFIED)
@@ -278,7 +277,6 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | 12/02/2020 | N/A | other | Unknown | N/A |
 | 11/28/2018 | N/A | other | Unknown | N/A |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -363,5 +361,12 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | — |  | — |
 | 4060 | Prediction Markets Security and Integrity Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001277)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Richard Blumenthal](https://www.congress.gov/member/richard-blumenthal/B001277)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001277)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

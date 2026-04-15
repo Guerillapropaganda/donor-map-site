@@ -166,14 +166,12 @@ REBNY's influence operates through both direct campaign contributions and struct
 
 ### Sources
 
-- ~~[Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [Holland & Knight/Law360: NY 421-a restoration and Good Cause Eviction analysis](https://www.hklaw.com/-/media/files/insights/publications/2024/02/law360_lycoyannis_ny421arestoration.pdf) (Tier 2) (VERIFIED)
 - [NY Housing Conference: 421-a and Good Cause Eviction policy briefs](https://thenyhc.org/2024/01/10/nyhc-releases-new-policy-briefs-on-421a-and-good-cause-eviction/) (Tier 3) (VERIFIED)
 - [The Real Deal: REBNY PAC backs candidates, targets Avilés](https://therealdeal.com/new-york/2025/04/29/rebny-pac-backs-ling-ye-spends-to-unseat-aviles/) (Tier 2) (VERIFIED)
 - [Jacobin: Corporate money in NYC Council elections](https://jacobin.com/2025/06/corporate-money-nyc-council-elections) (Tier 2) (VERIFIED)
 - [Met Council on Housing: What REBNY bought for its money](https://thetenant.org/what-has-rebny-bought-for-its-money/) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [REBNY: Official site and advocacy](https://www.rebny.com/) (Tier 3) (VERIFIED)
-- ~~[New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC Receipts: Real Estate industry political spending profile](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 
 ---
@@ -314,12 +312,19 @@ REBNY's influence operates through both direct campaign contributions and struct
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: REBNY members gave a tenth of all NY campaign money (2015 analysis)](https://www.politico.com/states/new-york/albany/story/2015/04/rebny-members-gave-a-tenth-of-all-ny-campaign-money-021345)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[New York State Joint Commission on Public Ethics: Campaign finance filings](https://publicreporting.elections.ny.gov/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131201480/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

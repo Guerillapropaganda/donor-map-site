@@ -173,10 +173,15 @@ This does not make Hasan Piker a villain or a fraud. It makes the platform the s
 - [Washington Post: Twitch hack reveals pay of xQc, Pokimane, and more](https://www.washingtonpost.com/video-games/2021/10/06/twitch-hack-pay-xqc-pokimane-summit1g/) (Tier 2) (VERIFIED)
 - [Kotaku: Twitch Suspends Popular Leftist Streamer After Controversial 9/11 Comments](https://kotaku.com/twitch-suspends-popular-leftist-streamer-after-controve-1837518859) (Tier 3) (VERIFIED)
 - [Yahoo Entertainment: Young Turks' Hasan Piker Says Comment That US 'Deserved 9/11' Was 'Inappropriate'](https://www.yahoo.com/entertainment/young-turks-hasan-piker-says-154258933.html) (Tier 3) (VERIFIED)
-- ~~[Sportskeeda: Twitch data breach reveals how much HasanAbi has earned since 2019](https://www.sportskeeda.com/esports/twitch-data-breach-reveals-much-hasanabi-earned-since-2019)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Rolling Stone: Hasan Piker on DNC Chaos, Creators for Kamala, Obama's Role in Election](https://www.rollingstone.com/culture/culture-features/hasan-piker-dnc-creators-for-kamala-1235089088/) (Tier 2) (VERIFIED)
 - [Newsweek: Hasan Piker on Kamala Harris Loss: 'You Can't Podcast Your Way Out of This'](https://www.newsweek.com/hasan-piker-kamala-harris-loss-failures-podcast-twitch-streamer-progressive-politics-1983001) (Tier 3) (VERIFIED)
 - [Dazed: Hasan Piker: 'I think the Overton window is shifting on Palestine'](https://www.dazeddigital.com/life-culture/article/65723/1/hasan-piker-i-think-the-overton-window-is-shifting-on-palestine-interview) (Tier 3) (VERIFIED)
 - [Michigan Advance: Michigan's El-Sayed unfazed by backlash against upcoming campaign event with Hasan Piker](https://michiganadvance.com/2026/03/25/michigans-el-sayed-unfazed-by-backlash-against-upcoming-campaign-event-with-hasan-piker/) (Tier 3) (VERIFIED)
 - [FEC Individual Contributions Search: "Hasan Piker" / "Hasan Dogan Piker", zero records across all cycles](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=hasan+piker) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Sportskeeda: Twitch data breach reveals how much HasanAbi has earned since 2019](https://www.sportskeeda.com/esports/twitch-data-breach-reveals-much-hasanabi-earned-since-2019)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

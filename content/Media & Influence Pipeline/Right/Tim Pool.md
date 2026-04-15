@@ -176,7 +176,6 @@ Who benefits from Tim Pool's platform existing?
 - [DOJ Indictment: U.S. v. Kalashnikov and Afanasyeva (PDF)](https://www.justice.gov/d9/2024-09/u.s._v._kalashnikov_and_afanasyeva_indictment_0.pdf) (Tier 1) (VERIFIED)
 - [CNN Politics: Tenet Media. DOJ alleges Russia funded US company linked to Tim Pool and Benny Johnson](https://www.cnn.com/2024/09/04/politics/doj-alleges-russia-funded-company-linked-social-media-stars) (Tier 2) (VERIFIED)
 - [CBS News: U.S. says Russia funded media company that paid right-wing influencers millions for videos](https://www.cbsnews.com/news/russia-tenet-media-right-wing-influencers-justice-department/) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Inside Tenet Media, the pro-Trump 'supergroup' allegedly funded by Russia](https://www.washingtonpost.com/style/media/2024/09/05/tenet-media-russia-rt-tim-pool/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: How Russian operatives covertly hired U.S. influencers to create viral videos](https://www.npr.org/2024/09/05/nx-s1-5100829/russia-election-influencers-youtube) (Tier 2) (VERIFIED)
 - [CNN Business: Right-wing influencers say they were dupes, they're keeping their millions, for now](https://www.cnn.com/2024/09/13/media/right-wing-media-influencers-tenet-russian-money) (Tier 2) (VERIFIED)
 - [PBS NewsHour: Well-known right-wing influencers duped to work for covert Russian operation](https://www.pbs.org/newshour/politics/well-known-right-wing-influencers-duped-to-work-for-covert-russian-operation-u-s-prosecutors-say) (Tier 2) (VERIFIED)
@@ -187,3 +186,9 @@ Who benefits from Tim Pool's platform existing?
 - [Wikipedia: Tim Pool](https://en.wikipedia.org/wiki/Tim_Pool) (Tier 3) (VERIFIED)
 - [Wikipedia: 2024 Tenet Media investigation](https://en.wikipedia.org/wiki/2024_Tenet_Media_investigation) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Inside Tenet Media, the pro-Trump 'supergroup' allegedly funded by Russia](https://www.washingtonpost.com/style/media/2024/09/05/tenet-media-russia-rt-tim-pool/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

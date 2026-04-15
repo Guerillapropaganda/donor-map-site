@@ -155,7 +155,6 @@ Witkoff claims divestment. He sold a $120 million stake in his real estate compa
 - [Wikipedia: Steve Witkoff](https://en.wikipedia.org/wiki/Steve_Witkoff) (Tier 3) (VERIFIED)
 - [Britannica: Steve Witkoff](https://www.britannica.com/biography/Steve-Witkoff) (Tier 3) (VERIFIED)
 - [NPR: Meet Steve Witkoff, Trump's negotiator](https://www.npr.org/2025/04/25/nx-s1-5364884/trump-witkoff-russia-iran-middle-east) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Steve Witkoff still holding Trump-linked crypto assets](https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fortune: Senate Democrats demand Witkoff provide details on crypto investments](https://fortune.com/crypto/2025/10/22/adam-schiff-senators-steve-witkoff-trump-uae-world-liberty-financial/) (Tier 2) (VERIFIED)
 - [Democracy Now: Trump's Mideast Envoy blurs peace and profit](https://www.democracynow.org/2025/10/3/debra_kamin_steve_witkoff_real_estate) (Tier 2) (VERIFIED)
 - [Senate Banking Committee: Warren/Merkley seek WLF records on $2B deal](https://www.banking.senate.gov/newsroom/minority/warren-merkley-seek-world-liberty-financial-records-on-2-billion-trump-stablecoin-deal-involving-uae-firm-and-binance) (Tier 1) (VERIFIED)
@@ -183,3 +182,9 @@ Steven Charles Witkoff is an American real estate developer, investor, and found
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Witkoff) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q16189572) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Steve Witkoff still holding Trump-linked crypto assets](https://www.bloomberg.com/news/articles/2025-09-17/steve-witkoff-is-still-holding-trump-linked-crypto-assets)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

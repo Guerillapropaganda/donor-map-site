@@ -355,7 +355,6 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [DeSmog: American Enterprise Institute, climate denial profile](https://www.desmog.com/american-enterprise-institute/) (Tier 2) (VERIFIED)
 - [DeSmog: ExxonMobil funding to climate denial organizations (2016)](https://www.desmog.com/2016/07/08/exxonmobil-new-disclosures-show-oil-giant-still-funding-climate-science-denial-groups/) (Tier 2) (NEEDS REVIEW)
 - [Union of Concerned Scientists: ExxonMobil funding to climate science denier groups](https://blog.ucs.org/elliott-negin/exxonmobil-still-funding-climate-science-denier-groups/) (Tier 2) (VERIFIED)
-- ~~[The Guardian: AEI offered $10K per article to critique IPCC (Feb 2007)](https://www.theguardian.com/environment/2007/feb/02/frontpagenews.internationalnewscomment)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [AEI: PDF defense of $10K IPCC offer controversy](https://www.aei.org/wp-content/uploads/2011/11/20070209_Guardiancontroversy.pdf) (Tier 3) (VERIFIED)
 - [Washington Post: AEI critiques of warming questioned (Feb 2007)](https://www.washingtonpost.com/archive/politics/2007/02/05/aei-critiques-of-warming-questioned-span-classbankheadthink-tank-defends-money-offers-to-challenge-climate-reportspan/b839bc0d-f562-4a20-bd23-623ee7b58532/) (Tier 2) (VERIFIED)
 - [Skeptical Science: Patrick Michaels funding disclosure](https://skepticalscience.com/patrick-michaels-history-getting-climate-wrong.html) (Tier 2) (VERIFIED)
@@ -365,9 +364,7 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [AEI: EPA greenhouse gas standards criticism (2023)](https://www.aei.org/articles/the-epa-forges-ahead-toward-less-electricity-supply-and-greater-electricity-demand/) (Tier 3) (VERIFIED)
 - [AEI: Peter Wallison FCIC dissent](https://www.aei.org/economics/dissenting-views-at-the-financial-crisis-inquiry-commission/) (Tier 3) (VERIFIED)
 - [AEI: Edward Pinto Forensic Study on housing crisis](https://www.aei.org/articles/government-housing-policy-the-sine-qua-non-of-the-financial-crisis-2/) (Tier 3) (VERIFIED)
-- ~~[New York Times: Peter Wallison "Hidden in Plain Sight" book review (2015)](https://www.nytimes.com/2015/03/12/business/dealbook/a-crusader-against-the-common-view-of-the-financial-crisis.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [AEI: Adam White testimony on CFPB (2015)](https://democrats-financialservices.house.gov/uploadedfiles/11.19.2015_adam_j._white_testimony.pdf) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: American Enterprise Institute, funding and donor documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Enterprise_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [AEI: Wealth Taxation overview (2019)](https://www.aei.org/wp-content/uploads/2019/08/Wealth-Taxation-An-Overview-of-the-Issues.pdf) (Tier 3) (VERIFIED)
 - [AEI: Joe Antos on ACA Medicaid expansion](https://www.aei.org/health-care/why-the-acas-medicaid-expansion-isnt-a-good-deal-for-the-poor/) (Tier 3) (VERIFIED)
 - [AEI: Pharmaceutical pricing and innovation](https://www.aei.org/press/prices-markets-and-the-pharmaceutical-revolution/) (Tier 3) (VERIFIED)
@@ -378,7 +375,6 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [AEI: Andrew Biggs Social Security reform analysis](https://www.aei.org/op-eds/social-security-reform-can-boost-the-economy-or-hold-it-back/) (Tier 3) (VERIFIED)
 - [Cato Institute: Critique of Social Security private savings proposal](https://www.cato.org/blog/case-against-raiding-private-savings-prop-social-security) (Tier 2) (VERIFIED)
 - [AEI: Personal Security Accounts testimony](https://www.aei.org/research-products/testimony/personal-security-accounts/) (Tier 3) (VERIFIED)
-- ~~[Forbes: BlackRock CEO on Social Security private accounts (2025)](https://www.forbes.com/sites/shaharziv/2025/03/17/blackrock-ceo-social-security-reform-with-private-investment-accounts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yahoo News/Daily Beast: DonorsTrust dark money ATM](https://www.yahoo.com/news/gop-dark-money-group-giving-095229471.html) (Tier 2) (VERIFIED)
 - [Wikipedia: American Enterprise Institute](https://en.wikipedia.org/wiki/American_Enterprise_Institute) (Tier 3) (VERIFIED)
 - [Trump White House Archives: Kevin Hassett Tax Policy Center speech (Oct 2017)](https://trumpwhitehouse.archives.gov/sites/whitehouse.gov/files/documents/TPC%20-%20Hassett%20Speech%20-%20FINAL%20FINAL.pdf) (Tier 1) (VERIFIED)
@@ -392,9 +388,7 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - [Militarist Monitor: AEI neoconservative foreign policy and defense](https://militarist-monitor.org/profile/american_enterprise_institute/) (Tier 2) (VERIFIED)
 - [Ballotpedia: American Enterprise Institute](https://ballotpedia.org/American_Enterprise_Institute) (Tier 3) (VERIFIED)
 - [Newsmax: Carlyle's D'Aniello $20M gift to AEI (2014)](https://www.newsmax.com/us/american-enterprise-institute-carlyle-group-daniel-daniello/2014/02/25/id/554626/) (Tier 3) (VERIFIED)
-- ~~[Bloomberg via Investing.com: Carlyle defense fund and €14T gap (2026)](https://uk.investing.com/news/stock-market-news/carlyle-group-plans-defense-fund-amid-military-spending--bloomberg-93CH-4584545)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [AInvest: Carlyle defense fund and StandardAero valuation](https://www.ainvest.com/news/carlyle-sees-14-trillion-defense-funding-gap-high-conviction-capital-deployment-play-hinges-nato-summit-geopolitical-stability-2603/) (Tier 2) (VERIFIED)
-- ~~[Reuters: Harlan Crow and Crow Holdings overview](https://www.reuters.com/world/us/who-is-republican-donor-justice-clarence-thomas-friend-harlan-crow-2023-04-07/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Maine Public: Harlan Crow biographical profile (2023)](https://www.mainepublic.org/2023-05-04/a-look-at-harlan-crow-the-billionaire-central-in-clarence-thomas-controversies) (Tier 2) (VERIFIED)
 - [OpenSecrets: Harlan Crow political contributions ($14.7M)](https://www.opensecrets.org/news/2023/04/harlan-and-kathy-crow-ramped-up-political-contributions-over-the-decades-since-meeting-u-s-supreme-court-justice-clarence-thomas/) (Tier 1) (VERIFIED)
 - [Common Dreams: Harlan Crow and Republican dark money](https://www.commondreams.org/news/harlan-crow-2661379280) (Tier 2) (VERIFIED)
@@ -466,7 +460,6 @@ AEI's role is to make that system invisible by making it look like scholarship.
 - Powers Gardner v. Henderson (2026) — District Court, D. Utah
 - WILDERNESS SOCIETY v. U.S. DEPARTMENT OF INTERIOR (2026) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Enterprise%20Institute%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -483,3 +476,15 @@ AEI's role is to make that system invisible by making it look like scholarship.
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Guardian: AEI offered $10K per article to critique IPCC (Feb 2007)](https://www.theguardian.com/environment/2007/feb/02/frontpagenews.internationalnewscomment)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[New York Times: Peter Wallison "Hidden in Plain Sight" book review (2015)](https://www.nytimes.com/2015/03/12/business/dealbook/a-crusader-against-the-common-view-of-the-financial-crisis.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: American Enterprise Institute, funding and donor documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Enterprise_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Forbes: BlackRock CEO on Social Security private accounts (2025)](https://www.forbes.com/sites/shaharziv/2025/03/17/blackrock-ceo-social-security-reform-with-private-investment-accounts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg via Investing.com: Carlyle defense fund and €14T gap (2026)](https://uk.investing.com/news/stock-market-news/carlyle-group-plans-defense-fund-amid-military-spending--bloomberg-93CH-4584545)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: Harlan Crow and Crow Holdings overview](https://www.reuters.com/world/us/who-is-republican-donor-justice-clarence-thomas-friend-harlan-crow-2023-04-07/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Enterprise%20Institute%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

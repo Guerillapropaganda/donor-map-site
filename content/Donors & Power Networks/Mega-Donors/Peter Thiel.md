@@ -232,11 +232,9 @@ Media/free press. Gawker precedent as billionaire weapon against journalism
 - [The Intercept: Palantir and NSA](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/) (Tier 2) (VERIFIED)
 - [CNBC: Palantir $10B Army contract](https://www.cnbc.com/2025/08/01/palantir-lands-10-billion-army-software-and-data-contract.html) (Tier 2) (VERIFIED)
 - [American Immigration Council: ImmigrationOS](https://www.americanimmigrationcouncil.org/blog/ice-immigrationos-palantir-ai-track-immigrants/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FEC Receipts: Thiel donations](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=peter%20thiel) (Tier 1) (VERIFIED)
 - [Cato Institute: "I no longer believe freedom and democracy are compatible"](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertarian/) (Tier 1) (VERIFIED)
 - [Jacobin: Thiel as philosopher king](https://jacobin.com/2025/10/peter-thiel-would-be-philosopher-king-takes-on-democracy) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Thiel allies in Trump government](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Gawker settlement](https://www.npr.org/sections/thetwo-way/2016/11/02/500389355/hulk-hogan-reaches-settlement-with-gawker-worth-over-31-million) (Tier 2) (VERIFIED)
 - [NBC News: PayPal Mafia Trump connections](https://www.nbcnews.com/tech/tech-news/mapping-trumps-connections-techs-right-wing-brotherhood-rcna180693) (Tier 2) (VERIFIED)
 - [CNBC: Thiel steps down from Meta board](https://www.cnbc.com/2022/02/07/peter-thiel-to-step-down-from-facebook-board.html) (Tier 2) (VERIFIED)
@@ -250,7 +248,6 @@ Media/free press. Gawker precedent as billionaire weapon against journalism
 
 **Context:** Thiel's re-engagement in 2026 coincides with the [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-crypto-AI donor coalition's massive midterm intervention. Thiel's political goals align: he supports candidates hostile to tech regulation, friendly to crypto, and hawkish on China. The Uihlein partnership suggests coordination with the [[Club for Growth|Club for Growth]] orbit. Uihlein's primary vehicle, rather than the MAGA establishment.
 
-- ~~[Bloomberg: Billionaires Thiel and Uihlein pump millions into Republican PAC](https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Crain's Chicago Business: Thiel and Uihlein pump millions into GOP PAC](https://www.chicagobusiness.com/politics-policy/ccb-thiel-and-uihlein-pump-millions-into-gop-pac-20260319/) (Tier 2) (VERIFIED)
 
 ---
@@ -339,7 +336,6 @@ Media/free press. Gawker precedent as billionaire weapon against journalism
 - Gaikwad v. Hanson (2025) — District Court, D. Massachusetts
 - Taibbi v. Higgins (2025) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Peter%20Thiel%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Wikipedia
@@ -357,3 +353,12 @@ Peter Andreas Thiel is a German and American entrepreneur, venture capitalist, a
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Peter_Thiel) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q705525) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Palantir contracts](https://thehill.com/policy/technology/5667232-palantir-trump-administration-surveillance/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Thiel allies in Trump government](https://www.bloomberg.com/features/2025-peter-thiel-trump-administration-connections/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Billionaires Thiel and Uihlein pump millions into Republican PAC](https://www.bloomberg.com/news/articles/2026-03-19/billionaires-thiel-and-uihlein-pump-millions-into-republican-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Peter%20Thiel%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

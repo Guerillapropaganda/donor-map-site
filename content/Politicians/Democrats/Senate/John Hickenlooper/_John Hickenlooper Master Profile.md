@@ -283,10 +283,7 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 - [Colorado Sun: Oil and gas and private donors paid for Hickenlooper initiatives](https://coloradosun.com/2020/06/12/john-hickenlooper-oil-and-gas-governor-office/) (Tier 2) (VERIFIED)
 - [Colorado Sun: Oil and gas donors become issue in Democratic primary](https://coloradosun.com/2020/06/23/oil-and-gas-hickenlooper-romanoff-campaign-finance/) (Tier 2) (VERIFIED)
 - [Colorado Sun: Ethics panel orders Hickenlooper to pay $2,750 for two violations](https://coloradosun.com/2020/06/12/john-hickenlooper-ethics-violation/) (Tier 2) (VERIFIED)
-- ~~[CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [KUNC: What's in the fracking fluid Hickenlooper drank?](https://www.kunc.org/business/2013-02-15/whats-in-the-fracking-fluid-hickenlooper-drank) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
-- ~~[Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Denver Post: Hickenlooper says 2026 reelection will be final Senate run](https://www.denverpost.com/2024/08/21/john-hickenlooper-colorado-us-senate/) (Tier 2) (VERIFIED)
 - [Ballotpedia: John Hickenlooper](https://ballotpedia.org/John_Hickenlooper) (Tier 3) (VERIFIED)
 
@@ -414,7 +411,6 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 - Telecommunications and Media
 - Water and Power
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -443,7 +439,6 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/H000273)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -468,6 +463,16 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 **Sources**
 
-- ~~[Congress.gov: John Hickenlooper](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: John Hickenlooper](https://www.govtrack.us/congress/members/456797) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CPR News: Ethics Commission concludes Hickenlooper violated Colorado's gift ban](https://www.cpr.org/2020/06/05/ethics-commission-concludes-hickenlooper-violated-colorados-gift-ban-for-public-officials/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FollowTheMoney: Energy dollars in Denver](https://www.followthemoney.org/research/blog/energy-dollars-in-denver)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Congress.gov: John W. Hickenlooper member page](https://www.congress.gov/member/john-hickenlooper/H000273)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/H000273)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: John Hickenlooper](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

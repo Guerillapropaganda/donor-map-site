@@ -76,7 +76,6 @@ Johnson & Johnson (J&J). One of the largest pharmaceutical and medical device co
 
 J&J has faced extraordinary legal liability: $8.9 billion in proposed settlements for its talc/asbestos cancer cases (affecting 60,000+ plaintiffs) and participation in the $26 billion national opioid settlement. The company's legal strategy, including a controversial "Texas Two-Step" bankruptcy maneuver to limit talc liability, has drawn congressional scrutiny and judicial rejection.
 
-- ~~[OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -116,8 +115,6 @@ The liability strategy reveals the corporate class position with equal clarity. 
 ### Sources
 
 - [OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385) (Tier 1)
-- ~~[OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Ballotpedia: Johnson & Johnson political spending](https://ballotpedia.org/Johnson_&_Johnson) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2023)
@@ -266,11 +263,9 @@ The liability strategy reveals the corporate class position with equal clarity. 
 
 **Recent recalls:**
 
-- ~~[Johnson & Johnson Recalls Spin-A-Sound Toy](https://www.cpsc.gov/Recalls/90007)~~ (URL broken, archived by Ops) (1989-11-02) — Laceration
 - ~~[Johnson & Johnson Crib Toys Case Settled](https://www.cpsc.gov/Recalls/86065)~~ (URL broken, archived by Ops) (1986-10-23) — Strangulation
 - ~~[Crib Toys Recalled by Johnson & Johnson](https://www.cpsc.gov/Recalls/86036)~~ (URL broken, archived by Ops) (1986-06-02) — Strangulation
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Johnson%20%26%20Johnson)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### SEC Filing Activity
@@ -308,11 +303,6 @@ The liability strategy reveals the corporate class position with equal clarity. 
 **Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2020)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/760552018) (Tier 1) (VERIFIED)
@@ -409,3 +399,18 @@ _Variant firm names in FDA data: Johnson & Johnson Vision Care, Inc.; DePuy Mite
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Johnson%20%26%20Johnson) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Johnson & Johnson organizational profile](https://www.opensecrets.org/orgs/johnson-johnson/summary?id=D000000385)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: J&J lobbying expenditures](https://www.opensecrets.org/orgs/johnson-johnson/lobbying?id=D000000385)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Reuters: J&J talc settlement and bankruptcy strategy](https://www.reuters.com/business/healthcare-pharmaceuticals/jnj-talc-settlement/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Johnson & Johnson Recalls Spin-A-Sound Toy](https://www.cpsc.gov/Recalls/90007)~~ (URL broken, archived by Ops) (1989-11-02) - Laceration
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Johnson%20%26%20Johnson)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2020)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/760552018/2018)~~ (URL broken, archived by Ops)

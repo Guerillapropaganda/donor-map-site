@@ -168,12 +168,7 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 ### Sources
 
 - [FEC: George Soros individual contributions 2004-2024](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=soros) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: "George Soros's Quiet Influence on U.S. justice system"](https://www.propublica.org/article/police-politicians-undermined-reform-prosecutors-chicago-philadelphia) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Open Society Foundations: Annual reports and grant databases](https://www.opensocietyfoundations.org/publications) (Tier 1) (VERIFIED)
 
 ---
@@ -208,7 +203,6 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 - PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY (2025) — District Court, District of Columbia
 - Kotevski v. Bush (2025) — District Court, D. Nevada
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22George%20Soros%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -279,11 +273,6 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 **Filing history:** 2023, 2022, 2021, 2020, 2019
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2019)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/830650656) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -341,3 +330,19 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Senate Majority PAC spending 2024](https://www.opensecrets.org/groups/240364)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: George Soros donor profile](https://www.opensecrets.org/donor/top/soros-george)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wall Street Journal: "George Soros Is Done Trying to Change the World"](https://www.wsj.com/articles/george-soros-says-he-is-done-trying-to-change-the-world-11581961205)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: "George Soros Is Giving His Billions to Democrats. And They're Nervous."](https://www.nytimes.com/2023/10/17/us/politics/soros-donations-democrats.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wisconsin State Journal: "Soros gives $2M to Wisconsin state court elections 2025"](https://madison.com/news/local/government-and-politics/elections)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22George%20Soros%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/830650656/2019)~~ (URL broken, archived by Ops)

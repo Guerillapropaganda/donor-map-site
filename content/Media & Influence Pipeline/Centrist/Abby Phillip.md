@@ -176,7 +176,6 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 ### Sources
 
 - [Wikipedia: Abby Phillip](https://en.wikipedia.org/wiki/Abby_Phillip) (Tier 3) (VERIFIED)
-- ~~[The Hill: CNN moderator criticized for question to Sanders](https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [FAIR: The Big Loser in the Iowa Debate? CNN's Reputation](https://fair.org/home/the-big-loser-in-the-iowa-debate-cnns-reputation/) (Tier 2) (VERIFIED)
 - [Rolling Stone (Taibbi): CNN's Debate Performance Was Villainous and Shameful](https://www.rollingstone.com/politics/political-commentary/january-democratic-debate-2020-cnn-bernie-sanders-elizabeth-warren-938365/) (Tier 2) (VERIFIED)
 - [Mediaite: CNN Debate Moderator Abby Phillip Doesn't Accept Bernie's Denial](https://www.mediaite.com/election-2020/cnn-debate-moderator-abby-phillip-doesnt-accept-bernies-denial-that-he-said-women-cant-win-in-2020/) (Tier 3) (VERIFIED)
@@ -186,3 +185,9 @@ The Paramount acquisition is the denouement. Under WBD, CNN moderated. Under Par
 - [CNN: Abby Phillip NewsNight lineup announcement](https://edition.cnn.com/2023/08/14/media/cnn-prime-time-lineup) (Tier 2) (VERIFIED)
 - [FEC: Abby Phillip individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=PHILLIP%2C+ABBY) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: CNN moderator criticized for question to Sanders](https://thehill.com/homenews/media/478340-cnn-moderator-criticized-for-question-to-sanders/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

@@ -61,7 +61,6 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 
 ### Sources
 
-- ~~[OpenSecrets: Elevance Health organizational profile](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000065854)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC: Elevance Health 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Anthem%20-%20Elevance%20Health%20Political%20Operation&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - [CMS: Medicaid managed care data](https://www.cms.gov/data-research/statistics-trends-and-reports/medicare-advantagepart-d-contract-and-enrollment-data) (Tier 1) (VERIFIED)
 - [Ballotpedia: Health insurance industry](https://ballotpedia.org/Anthem_-_Elevance_Health_Political_Operation) (Tier 3) (VERIFIED)
@@ -150,3 +149,9 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Anthem%20-%20Elevance%20Health%20Political%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Elevance Health organizational profile](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000065854)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -162,11 +162,9 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 - [Williams: Leadership](https://www.williams.com/leadership/) (Tier 3) (VERIFIED)
 - [Williams: 2024 Corporate Contributions](https://www.williams.com/wp-content/uploads/sites/8/2025/04/2024-Coporate-Contributions_Year-End.pdf) (Tier 1) (VERIFIED)
 - [Wikipedia: Williams Companies](https://en.wikipedia.org/wiki/Williams_Companies) (Tier 4) (VERIFIED)
-- ~~[Yahoo Finance: WMB Financials](https://finance.yahoo.com/quote/WMB/financials/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CompaniesMarketCap: Williams Companies](https://companiesmarketcap.com/williams-companies/marketcap/) (Tier 3) (VERIFIED)
 - [OpenSecrets: Williams Companies PAC](https://www.opensecrets.org/political-action-committees-pacs/williams-companies/C00040394/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [TradingView: Williams record 2025 results](https://www.tradingview.com/news/tradingview:cccba52eb204a:0-williams-companies-reports-record-financial-results-for-2025/) (Tier 3) (VERIFIED)
-- ~~[Reuters: Williams 2026 profit outlook](https://www.reuters.com/business/energy/williams-sees-higher-2026-profit-pipeline-projects-drive-growth-2026-02-10/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yahoo Finance: Williams lawsuit against Energy Transfer](https://finance.yahoo.com/news/williams-companies-files-lawsuit-protect-103400684.html) (Tier 2) (VERIFIED)
 - [AllStreamInsiders: Williams $1.6B deal](https://allstreaminsiders.com/williams-companies-secures-1-6-billion-deal-for-natural-gas-and-power-generation/) (Tier 3) (VERIFIED)
 
@@ -292,7 +290,6 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 - In re Target Corp. Securities Class Action Litigation (2025) — District Court, D. Minnesota
 - United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Williams%20Companies%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -309,12 +306,20 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Yahoo Finance: WMB Financials](https://finance.yahoo.com/quote/WMB/financials/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: Williams 2026 profit outlook](https://www.reuters.com/business/energy/williams-sees-higher-2026-profit-pipeline-projects-drive-growth-2026-02-10/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Williams%20Companies%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/237413843/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

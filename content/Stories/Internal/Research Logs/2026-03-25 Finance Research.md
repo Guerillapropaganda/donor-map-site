@@ -191,7 +191,6 @@ Peter Thiel resumed political giving in early 2025 after sitting out the 2024 cy
 
 ### Sources:
 - [Yahoo Finance: Peter Thiel's political hiatus is over. Here's where his money's flowing now.](https://finance.yahoo.com/news/peter-thiels-political-hiatus-over-112902928.html) (Tier 2) (VERIFIED)
-- ~~[EXPOSEDbyCMD: Major Right-Wing Super PACs Disclose Recent Contributions and Endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -259,7 +258,6 @@ The two main Republican congressional super PACs raised a combined $175M in 2025
 
 ### Sources:
 - {{src:src_002105}} (Tier 1) (VERIFIED)
-- ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED, not Chrome-checked this session)
 
 ---
 
@@ -362,3 +360,10 @@ Foris DAX (parent of Crypto.com exchange) was the single largest donor to MAGA I
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EXPOSEDbyCMD: Major Right-Wing Super PACs Disclose Recent Contributions and Endorsements](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: The 2026 midterms spending explosion has begun](https://www.axios.com/2026/02/03/2025-campaign-fundraising)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2) (UNVERIFIED, not Chrome-checked this session)

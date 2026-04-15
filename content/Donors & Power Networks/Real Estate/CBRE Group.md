@@ -115,7 +115,6 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 ### Sources
 
 - [OpenSecrets: CBRE Group organizational profile](https://www.opensecrets.org/orgs/cbre-group/summary?id=D000046887) (Tier 1)
-- ~~[JCT: Revenue estimates for 1031 exchange reform](https://www.jct.gov/publications/?search_term=CBRE%20Group)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: CBRE Group](https://ballotpedia.org/CBRE_Group) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing, 2024)
@@ -222,5 +221,11 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 - Iovate Health Sciences International Inc. (2025) — United States Bankruptcy Court, S.D. New York
 - CVS PHARMACY, INC. v. NEW RITE AID, LLC (2025) — District Court, D. New Jersey
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[JCT: Revenue estimates for 1031 exchange reform](https://www.jct.gov/publications/?search_term=CBRE%20Group)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22CBRE%20Group%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

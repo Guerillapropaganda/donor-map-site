@@ -174,9 +174,14 @@ The two policies are ideologically compatible (strong state power against immigr
 
 - [Texas Tribune: Texas has spent $11 billion on border security. Is it working?](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2) (VERIFIED)
 - [Wikipedia: Operation Lone Star overview](https://en.wikipedia.org/wiki/Operation_Lone_Star) (Tier 3) (VERIFIED)
-- ~~[Al Jazeera: Operation Lone Star all you need to know](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [National Immigration Forum: Operation Lone Star as logistical and political operation](https://forumtogether.org/article/operation-lone-star-texass-logistical-and-political-fireball/) (Tier 2) (VERIFIED)
 - [Texas Tribune: Migrant apprehensions down at Texas border - effectiveness analysis](https://www.texastribune.org/2024/04/22/texas-border-migrant-apprehensions-abbott-operation-lone-star/) (Tier 2) (VERIFIED)
 - [Texas Tribune: Timothy Mellon Texas border wall funding](https://www.texastribune.org/2021/10/06/timothy-mellon-texas-border-wall/) (Tier 2) (VERIFIED)
 - [Texas Governor's Office: Operation Lone Star official statements](https://gov.texas.gov/news/post/operation-lone-star-continues-to-repel-hundreds-of-illegal-immigrants) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Al Jazeera: Operation Lone Star all you need to know](https://www.aljazeera.com/economy/2025/2/26/washington-post-opinion-head-departs-as-jeff-bezos-shifts-focus-for-paper-about-latest-us-border-flashpoint)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

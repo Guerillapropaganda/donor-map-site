@@ -249,8 +249,6 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - [The Intercept: "Zionists for Don Samuels" WhatsApp fundraising group](https://theintercept.com/2024/08/11/ilhan-omar-don-samuels-primary-super-pac-israel/) (Tier 2) (VERIFIED)
 - [Minnesota Reformer: Samuels fundraising disadvantage analysis](https://minnesotareformer.com/2024/07/16/samuels-undeterred-by-omars-massive-cash-advantage-in-minnesota-congressional-race/) (Tier 2) (VERIFIED)
 - [Roll Call: House passes Iron Dome funding with Democratic defections](https://rollcall.com/2021/09/23/house-passes-israel-iron-dome-funding-with-some-democratic-defections/) (Tier 2) (VERIFIED)
-- ~~[Star Tribune: Omar one of few voting no on Iron Dome defense funding](https://www.startribune.com/omar-one-of-few-voting-no-on-iron-dome-defense-funding/600100514)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Star Tribune: Rep. Ilhan Omar's small-dollar fundraising haul sparks FEC inquiry](https://www.startribune.com/rep-ilhan-omar-s-small-dollar-fundraising-haul-sparks-inquiry-from-fec/566574162)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CBS News: Hill Harper offered $20M to mount a primary challenge against Rashida Tlaib](https://www.cbsnews.com/detroit/news/hill-harper-said-he-was-offered-20-million-to-mount-a-primary-challenge-against-rep-rashida-tlaib/) (Tier 2) (VERIFIED)
 - [Middle East Eye: Pro-Israel donors raise hundreds of thousands in last-minute funds to unseat Ilhan Omar](https://www.middleeasteye.net/news/pro-israel-donors-raise-hundreds-thousands-last-minute-funds-oust-ilhan-omar) (Tier 2) (VERIFIED)
 - [Ilhan for Congress: Q1 2024 fundraising, biggest quarter ever, $1.7M](https://ilhanomar.com/news/congresswoman-ilhan-omar-has-biggest-fundraising-quarter-ever-raising-nearly-1-7-million-in-the-first-quarter-of-2024/) (Tier 3) (VERIFIED)
@@ -514,3 +512,5 @@ Ilhan Abdullahi Omar is an American politician serving as the U.S. representativ
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Ilhan_Omar) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q26436159) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+- ~~[Star Tribune: Omar one of few voting no on Iron Dome defense funding](https://www.startribune.com/omar-one-of-few-voting-no-on-iron-dome-defense-funding/600100514)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Star Tribune: Rep. Ilhan Omar's small-dollar fundraising haul sparks FEC inquiry](https://www.startribune.com/rep-ilhan-omar-s-small-dollar-fundraising-haul-sparks-inquiry-from-fec/566574162)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

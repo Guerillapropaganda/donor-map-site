@@ -217,7 +217,6 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 - Johnson v. L.B.O. Holding, Inc. (2017) — District Court, D. New Hampshire
 - Last Call Guarantor, LLC, for itself and on behalf of each of its series (2016) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ross%20Stevens%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -288,3 +287,9 @@ Stevens' political evolution from background institutional donor ($250K to Club 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ross%20Stevens%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

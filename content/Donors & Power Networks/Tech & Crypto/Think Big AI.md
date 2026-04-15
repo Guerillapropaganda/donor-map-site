@@ -212,7 +212,6 @@ Unlike crypto's GENIUS Act (which passed into law in July 2025), AI regulatory l
 - [Fortune: AI and Crypto spent $20M in Illinois primaries, mostly lost](https://fortune.com/2026/03/18/ai-crypto-illinois-primary-spending-fairshake-think-big-pac/) (Tier 2) (VERIFIED)
 - [American Prospect: First AIPAC, now AI PACs, super PACs and the 2026 primaries](https://prospect.org/2026/02/20/aipac-ai-pacs-crypto-midterms-congress-chicago/) (Tier 2) (VERIFIED)
 - [Chicago Sun-Times: $31M super PAC blitz in four congressional primaries](https://chicago.suntimes.com/2026/03/13/cryptocurrency-ai-join-in-31-million-super-pac-blitz-in-four-congressional-primaries) (Tier 2) (VERIFIED)
-- ~~[Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Read Sludge: Crypto, AI, AIPAC set to smash super PAC records](https://readsludge.com/2026/02/02/crypto-ai-and-aipac-set-up-to-smash-super-pac-spending-records/) (Tier 2) (VERIFIED)
 
 ---
@@ -238,3 +237,9 @@ Unlike crypto's GENIUS Act (which passed into law in July 2025), AI regulatory l
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios Chicago: Super PACs flood Illinois congressional races](https://www.axios.com/local/chicago/2026/03/04/super-pacs-for-ai-crypto-and-israel-flood-illinois-congressional-races)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

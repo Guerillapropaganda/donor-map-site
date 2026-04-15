@@ -90,7 +90,6 @@ InfluenceMap occupies a specific structural position in the political economy of
 | Net Assets | $90K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 852619691](https://projects.propublica.org/nonprofits/organizations/852619691) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_84-93%2F852619691_202303_990_2024022022297382.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 <!-- auto:propublica-990 end -->
 
@@ -105,7 +104,6 @@ InfluenceMap occupies a specific structural position in the political economy of
 - [UK Companies House: InfluenceMap CIC](https://find-and-update.company-information.service.gov.uk/company/09480976) (Tier 1) (VERIFIED)
 - [UK Companies House: Filing History](https://find-and-update.company-information.service.gov.uk/company/09480976/filing-history) (Tier 1) (VERIFIED)
 - [InfluenceWatch: InfluenceMap](https://www.influencewatch.org/non-profit/influence-map/) (Tier 3) (VERIFIED)
-- ~~[Wikipedia: InfluenceMap](https://en.wikipedia.org/wiki/InfluenceMap)~~ (was Tier 4 — URL broken, archived by Ops) (Tier 4)
 - [Climate Action 100+: InfluenceMap Benchmark Methodology](https://www.climateaction100.org/wp-content/uploads/2021/10/InfluenceMap-CA100-Benchmark-Alignment-Indicators-Methodology_Sep21.pdf) (Tier 2) (VERIFIED)
 - [McConnell Foundation: InfluenceMap funding](https://www.mcconnellfoundation.ca/funding-database/influencemap/) (Tier 3) (VERIFIED)
 
@@ -128,3 +126,10 @@ InfluenceMap occupies a specific structural position in the political economy of
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=InfluenceMap) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_84-93%2F852619691_202303_990_2024022022297382.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Wikipedia: InfluenceMap](https://en.wikipedia.org/wiki/InfluenceMap)~~ (was Tier 4 - URL broken, archived by Ops) (Tier 4)

@@ -145,7 +145,6 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 - [ABC News: Waltz Signal controversy](https://abcnews.com/Politics/mike-waltz-national-security-adviser-added-journalist-signal/story?id=120131357) (Tier 2) (VERIFIED)
 - [Al Jazeera: Waltz ouster as NSA](https://www.aljazeera.com/news/2025/5/4/what-led-to-mike-waltzs-ouster-as-trumps-national-security-adviser) (Tier 2) (VERIFIED)
 - [American Bridge: Waltz dossier](https://americanbridgepac.org/trumps-orbit/trumps-potential-administration-officials/mike-waltz/) (Tier 3) (VERIFIED)
-- ~~[TheStreet: Waltz net worth](https://www.thestreet.com/personalities/mike-waltz-net-worth)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -210,3 +209,9 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[TheStreet: Waltz net worth](https://www.thestreet.com/personalities/mike-waltz-net-worth)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

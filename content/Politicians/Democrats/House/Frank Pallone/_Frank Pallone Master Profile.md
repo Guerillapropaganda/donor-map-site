@@ -184,16 +184,12 @@ The class function is clear: Pallone is the progressive validator for industries
 
 - {{src:src_006246}} (Tier 1) (VERIFIED)
 - {{src:src_006246}} (Tier 1) (VERIFIED)
-- ~~[C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: H.R. 3 — Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [League of Conservation Voters: Frank Pallone lifetime scorecard (96%)](https://www.lcv.org/moc/frank-j-pallone/) (Tier 1) (VERIFIED)
 - [The New Republic: What Are Frank Pallone's Corporate Donors Getting for Their Money?](https://newrepublic.com/article/161778/frank-pallone-corporate-donors-money) (Tier 2) (VERIFIED)
 - [Fierce Pharma: Top 3 House Democrat leaders have pocketed millions from pharma](https://www.fiercepharma.com/pharma/top-3-house-democrat-leaders-have-pocketed-millions-from-pharma) (Tier 2) (VERIFIED)
 - [Common Dreams: Scathing critique of CLEAN Future Act carbon intensity targets](https://www.commondreams.org/news/2020/01/27/extremely-disappointing-new-analysis-offers-scathing-critique-top-democrats-clean) (Tier 2) (VERIFIED)
-- ~~[The Hill: Kennedy retracts claims about Pallone pharma donations](https://thehill.com/policy/healthcare/5366345-kennedy-retracts-claims-pallone/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Pallone.house.gov: Statement on FCC net neutrality vote](https://pallone.house.gov/press-release/pallone-statement-fcc-vote-adopt-net-neutrality-protections) (Tier 1) (VERIFIED)
 - [Pallone.house.gov: Medicare drug price negotiation statement](https://pallone.house.gov/media/press-releases/pallone-highlights-medicare-drug-price-negotiations-highlights-legislation) (Tier 1) (VERIFIED)
-- ~~[LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -290,8 +286,6 @@ The class function is clear: Pallone is the progressive validator for industries
 
 **Sources**
 
-- ~~[Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -352,7 +346,6 @@ The class function is clear: Pallone is the progressive validator for industries
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
@@ -381,7 +374,6 @@ The class function is clear: Pallone is the progressive validator for industries
 | 5484 | National Flood Insurance Program Reauthorization and Reform Act of 2025 | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
 | 648 | Celebrating 50 years of Bruce Springsteen's album, "Born to Run". | Referred to the House Committee on Education and Workforce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/P000034)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 <!-- auto:congress-legislation pending-merge 2026-04-15 -->
@@ -479,7 +471,6 @@ The class function is clear: Pallone is the progressive validator for industries
 
 - House Committee on Energy and Commerce
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 <!-- auto:committee-assignments pending-merge 2026-04-15 -->
@@ -510,3 +501,17 @@ Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[C-SPAN: RFK Jr. accuses Pallone of $2M pharma donations at E&C hearing](https://www.c-span.org/clip/house-committee/sec-kennedy-accuses-rep-pallone-of-receiving-2-million-of-contributions-from-pharmaceutical-companies/5166292)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: H.R. 3 - Elijah E. Cummings Lower Drug Costs Now Act](https://www.congress.gov/bill/116th-congress/house-bill/3)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[The Hill: Kennedy retracts claims about Pallone pharma donations](https://thehill.com/policy/healthcare/5366345-kennedy-retracts-claims-pallone/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[LegiList: Frank Pallone 2024 campaign finance](https://legilist.com/finance/P000034/2024)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Congress.gov: Frank Pallone](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400308)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000034)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

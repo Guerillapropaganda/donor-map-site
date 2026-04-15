@@ -183,16 +183,13 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 - {{src:src_006093}} (Tier 1) (VERIFIED)
 - {{src:src_006093}} (Tier 1) (VERIFIED)
 - {{src:src_006093}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: H.R. 992 — Swaps Regulatory Improvement Act](https://www.congress.gov/bill/113th-congress/house-bill/992)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House.gov: Jim Himes official biography](https://himes.house.gov/about-jim) (Tier 1) (VERIFIED)
-- ~~[New York Times: Banks' Lobbyists Help in Writing Bill to Loosen Regulations (2013)](https://www.nytimes.com/2013/05/24/business/banks-lobbyists-help-in-writing-financial-regulations.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - {{src:src_006093}} (Tier 1) (VERIFIED)
 - [Salon: Inside Wall Street's New Heist — How Big Banks Exploited a Broken Democratic Caucus (Citigroup Swaps Provision)](https://www.salon.com/2014/12/16/inside_wall_streets_new_heist_how_big_banks_exploited_a_broken_democratic_caucus/) (Tier 2) (VERIFIED)
 - [NPR: Silicon Valley Bank and the Regulatory Rollback (2023)](https://www.npr.org/2023/03/15/1163617407/some-in-washington-blame-the-bank-failures-on-a-rollback-of-landmark-banking-rul) (Tier 2) (VERIFIED)
 - [Ballotpedia: Jim Himes](https://ballotpedia.org/Jim_Himes) (Tier 3) (VERIFIED)
 - [Wikipedia: Jim Himes](https://en.wikipedia.org/wiki/Jim_Himes) (Tier 3) (VERIFIED)
 - [Connecticut Mirror: Himes and the Finance Committee](https://ctmirror.org/custom/jim-himes/) (Tier 2) (VERIFIED)
-- ~~[Forbes: Himes net worth estimate](https://www.forbes.com/profile/jim-himes/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -340,3 +337,11 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 
 - [Source: Congress.gov](https://www.congress.gov/member/H001047) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: H.R. 992 - Swaps Regulatory Improvement Act](https://www.congress.gov/bill/113th-congress/house-bill/992)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[New York Times: Banks' Lobbyists Help in Writing Bill to Loosen Regulations (2013)](https://www.nytimes.com/2013/05/24/business/banks-lobbyists-help-in-writing-financial-regulations.html)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Himes net worth estimate](https://www.forbes.com/profile/jim-himes/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)

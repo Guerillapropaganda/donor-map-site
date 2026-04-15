@@ -89,8 +89,6 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 
 ### Sources
 
-- ~~[IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -105,7 +103,6 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 | Officer Compensation | $914K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 363866530](https://projects.propublica.org/nonprofits/organizations/363866530) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 <!-- auto:propublica-990 pending-merge 2026-04-15 -->
@@ -142,11 +139,6 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/911687883) (Tier 1) (VERIFIED)
@@ -166,7 +158,6 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - Norwegian Agency for Development Cooperation (Mekong Project) (NORWAY)
 - Norwegian Agency for Development Cooperation (Latin America Project) (NORWAY)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Lobbying Activity
@@ -218,5 +209,20 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - State of Minnesota v. Chris Wright (2025) — Court of Appeals for the D.C. Circuit
 - The People of the State of Michigan v. DOE (2025) — Court of Appeals for the D.C. Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Environmental%20Law%20%26%20Policy%20Center%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS Form 990: ELPC nonprofit financials](https://projects.propublica.org/nonprofits/organizations/521544430)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Inside Philanthropy: Environmental foundation funding](https://www.insidephilanthropy.com/environmental-nonprofits/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/911687883/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Environmental%20Law%20%26%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Environmental%20Law%20%26%20Policy%20Center%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

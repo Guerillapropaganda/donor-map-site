@@ -103,12 +103,17 @@ This race reveals three competing donor-class strategies consolidating Republica
 ### Sources
 
 - {{src:src_001215}} (Tier 1) (VERIFIED)
-- ~~[Rep. Mike Collins - Campaign Finance Summary | OpenSecrets](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Crypto Money and Israel Lobby Target Georgia Senate Seat | BeInCrypto](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/) (Tier 3) (VERIFIED)
 - [CNBC: Crypto super PAC Fairshake has $116 million on hand to grow industry's influence in 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
-- ~~[Crypto Industry and AIPAC Back Pro-Trump Candidate for Georgia Senate Seat | CryptoNews](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [Georgia 2026 Poll: Senator Ossoff Starts Re-Election Near 50% and Outpaces GOP Field | Emerson College Polling](https://emersoncollegepolling.com/georgia-2026-poll-senator-ossoff-starts-re-election-near-50-and-outpaces-gop-field/) (Tier 2) (VERIFIED)
 - [2026 United States Senate election in Georgia | Wikipedia](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Georgia) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Rep. Mike Collins - Campaign Finance Summary | OpenSecrets](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Crypto Industry and AIPAC Back Pro-Trump Candidate for Georgia Senate Seat | CryptoNews](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)

@@ -79,7 +79,6 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 
 ### Sources (all Chrome-verified VALID):
 - [CNBC: Crypto PAC Fairshake touts war chest as bill vote looms](https://www.cnbc.com/2026/01/28/crypto-pac-fairshake-bill-vote.html) (Tier 2) (VERIFIED)
-- ~~[Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DL News: Crypto lobby has already spent $271m to sway the 2026 elections](https://www.dlnews.com/articles/people-culture/crypto-lobby-spends-usd271m-to-sway-the-2026-elections/) (Tier 2) (VERIFIED)
 
 ---
@@ -97,7 +96,6 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Silver, the deregulation itself is documented but the donor-to-legislation pipeline hasn't been mapped in a single timeline in the vault.
 
 ### Sources (all Chrome-verified VALID):
-- ~~[Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 #### STORY S-2: Credit Card 10% Rate Cap. Donor-Class Override Attempt in Real Time
 
@@ -153,7 +151,6 @@ Four story tiers surfaced across five major donor-to-policy arcs. All source URL
 **Significance:** Bronze, background data confirming the ongoing Musk-GOP donor relationship. Worth noting in the Musk node's funding timeline when built.
 
 ### Sources (all Chrome-verified VALID):
-- ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -170,3 +167,11 @@ Based on today's scan, in order of vault impact:
 4. **Pharma EPIC Act 74% figure (S-3)**. Single sourced metric from Public Citizen that can be dropped directly into `Healthcare Sector.md` (currently `developed`).
 
 ---
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Crypto PAC Fairshake has already raised $193 million for 2026](https://www.axios.com/2026/01/28/crypto-coinbase-fairshake-pac)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Axios: Wall Street cops propose new slate of easier big bank rules](https://www.axios.com/2026/03/19/fed-bank-wall-street-regulation)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Elon Musk's robust donations may aid GOP in 2026 midterms](https://thehill.com/policy/technology/5727198-musk-political-fray-big-2026-midterm-donations/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

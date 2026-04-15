@@ -200,12 +200,10 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 
 - {{src:src_004503}} (Tier 1) (VERIFIED)
 - {{src:src_004503}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Chip Roy member profile](https://www.congress.gov/member/chip-roy/R000614)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Roy.house.gov: Statement on OBBBA advancement](https://roy.house.gov/media/press-releases/rep-roy-issues-statement-advancement-one-big-beautiful-bill-house-budget) (Tier 1) (VERIFIED)
 - [CNN: Trump pushing Republicans to fall in line — Chip Roy could stand in the way](https://www.cnn.com/2025/05/21/politics/chip-roy-house-budget-bill) (Tier 2) (VERIFIED)
 - [Texas Tribune: Chip Roy emerges as key GOP agitator in Speaker fight](https://www.texastribune.org/2023/01/03/chip-roy-us-house-speaker-kevin-mccarthy/) (Tier 2) (VERIFIED)
 - [Texas Tribune: 14 Texas Republicans vote against debt ceiling](https://www.texastribune.org/2023/05/30/debt-ceiling-texas-republicans/) (Tier 2) (VERIFIED)
-- ~~[Axios: Freedom Caucus promises reckoning over McCarthy debt ceiling deal](https://www.axios.com/2023/05/30/house-freedom-caucus-debt-ceiling-deal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [E&E News/Politico: Solar group takes revenge on Chip Roy over tax credits](https://www.eenews.net/articles/solar-group-takes-revenge-on-chip-roy-over-tax-credits/) (Tier 2) (VERIFIED)
 - [GovTrack: Chip Roy 2024 Report Card](https://www.govtrack.us/congress/members/chip_roy/412826/report-card/2024) (Tier 3) (VERIFIED)
 - [Ballotpedia: Chip Roy](https://ballotpedia.org/Chip_Roy) (Tier 3) (VERIFIED)
@@ -236,7 +234,6 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 | 7296 | SAVE America Act | Referred to the House Committee on House Administration. |
 | — |  | On agreeing to the Roy amendment (A001) Failed by recorded vote: 163 - 257, 1 Present (Roll no. 26). |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/R000614)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
@@ -295,3 +292,11 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 
 ## Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Chip Roy member profile](https://www.congress.gov/member/chip-roy/R000614)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: Freedom Caucus promises reckoning over McCarthy debt ceiling deal](https://www.axios.com/2023/05/30/house-freedom-caucus-debt-ceiling-deal)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/R000614)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

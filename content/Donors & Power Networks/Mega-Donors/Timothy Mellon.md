@@ -259,26 +259,16 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 
 ### Political Spending:
 - [FEC Receipts: Timothy Mellon 2024 donor profile](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=timothy%20mellon) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets News: Mellon as major donor](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Yahoo Finance: Mellon all-time political spending](https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[CNBC: Mellon political spending](https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### $130M Military Payment:
-- ~~[Fortune: Mellon donates $130M for military pay](https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[The Hill: Military pay during shutdown](https://thehill.com/defense/military-operations-personnel/4926374-mellon-donates-military-pay-pentagon-shutdown/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Immigration/Border Wall:
-- ~~[Texas Tribune: Border wall defunded June 2025](https://www.texastribune.org/2025/06/02/texas-border-wall-funding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### [[MAGA Inc]]:
-- ~~[CNN Politics: MAGA Inc fundraising](https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[U.S. News: MAGA Inc 2026 midterms](https://www.usnews.com/news/elections/articles/2026/01/15/maga-inc-enters-2026-with-300-million-war-chest)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ### Heritage/Project 2025:
-- ~~[OpenSecrets: Sentinel Action Fund](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ### Net Worth:
-- ~~[Fortune: Mellon net worth estimates](https://fortune.com/person/timothy-mellon/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Vanity Fair: Mellon family profile](https://archive.vanityfair.com/article/2024/10/a-house-divided) (Tier 2) (VERIFIED)
 
 ### Business:
@@ -329,5 +319,20 @@ Sources: [NOTUS: Mellon-RFK-Trump donor](https://www.notus.org/2024-election/tim
 - C & K Market, Inc. (2013) — United States Bankruptcy Court, D. Oregon
 - Mellon v. The International Group for Historic Aircraft Recovery (2013) — District Court, D. Wyoming
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Timothy%20Mellon%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets News: Mellon as major donor](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Yahoo Finance: Mellon all-time political spending](https://finance.yahoo.com/news/reclusive-billionaire-timothy-mellon-has-spent-504-million-on-trump-and-gop-causes-113025926.html)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[CNBC: Mellon political spending](https://www.cnbc.com/2024/11/07/timothy-mellon-quietly-spent-165-million-on-2024-election-making-him-second-largest-donor.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Fortune: Mellon donates $130M for military pay](https://fortune.com/2025/10/15/timothy-mellon-donates-130-million-to-military-pay-during-shutdown/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[The Hill: Military pay during shutdown](https://thehill.com/defense/military-operations-personnel/4926374-mellon-donates-military-pay-pentagon-shutdown/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Texas Tribune: Border wall defunded June 2025](https://www.texastribune.org/2025/06/02/texas-border-wall-funding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[CNN Politics: MAGA Inc fundraising](https://web.archive.org/web/2024/https:/www.cnn.com/politics/live-news/maga-super-pac-spending)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[U.S. News: MAGA Inc 2026 midterms](https://www.usnews.com/news/elections/articles/2026/01/15/maga-inc-enters-2026-with-300-million-war-chest)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[OpenSecrets: Sentinel Action Fund](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Fortune: Mellon net worth estimates](https://fortune.com/person/timothy-mellon/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Timothy%20Mellon%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

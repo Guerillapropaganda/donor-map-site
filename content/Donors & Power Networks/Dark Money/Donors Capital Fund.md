@@ -152,12 +152,8 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 
 ### Sources
 
-- ~~[ProPublica: Donors Capital Fund 990](https://projects.propublica.org/nonprofits/organizations/522087327)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [InfluenceWatch: Donors Capital Fund](https://www.influencewatch.org/non-profit/donors-capital-fund/) (Tier 3) (VERIFIED)
-- ~~[CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[CMD: Dark money conduit funneled $195M in 2024](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DonorsTrust: Directors and Staff](https://www.donorstrust.org/who-we-are/directors-and-staff/) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Donors Capital Fund](https://sourcewatch.org/index.php/Donors_Capital_Fund)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Mother Jones: DonorsTrust dark money](https://www.motherjones.com/politics/2013/02/donors-trust-donor-capital-fund-dark-money-koch-bradley-devos/) (Tier 2) (VERIFIED)
 - [DeSmog: Donors Capital Fund](https://www.desmog.com/donors-capital-fund/) (Tier 2) (VERIFIED)
 
@@ -179,7 +175,6 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 - LINK v. CORCORAN (2021) — District Court, N.D. Florida
 - CITY OF HOBOKEN v. EXXON MOBIL CORP. (2020) — District Court, D. New Jersey
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Donors%20Capital%20Fund%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -226,11 +221,6 @@ Donors Capital Fund is the conservative donor class's anonymity machine. The DAF
 **Filing history:** 2023, 2022, 2021, 2020, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2020)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1) (VERIFIED)
@@ -270,3 +260,18 @@ DonorsTrust is an American nonprofit donor-advised fund that was founded in 1999
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/DonorsTrust) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q17011069) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[ProPublica: Donors Capital Fund 990](https://projects.propublica.org/nonprofits/organizations/522087327)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[CMD: 100+ funders of State Policy Network revealed](https://www.exposedbycmd.org/2020/09/21/more-than-100-funders-state-policy-network-revealed/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CMD: Dark money conduit funneled $195M in 2024](https://www.exposedbycmd.org/2025/11/21/dark-money-donor-conduit-funneled-195-million-to-right-wing-groups-in-2024/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Donors Capital Fund](https://sourcewatch.org/index.php/Donors_Capital_Fund)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Donors%20Capital%20Fund%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2020)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/541934032/2018)~~ (URL broken, archived by Ops)

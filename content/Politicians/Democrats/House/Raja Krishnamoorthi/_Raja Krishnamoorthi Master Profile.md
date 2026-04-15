@@ -192,7 +192,6 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 - [Chicago Sun-Times: Stratton defeats Krishnamoorthi in Senate primary](https://chicago.suntimes.com/elections/2026/03/17/us-senate-illinois-primary-results) (Tier 2) (VERIFIED)
 - [American Prospect: Illinois Senate primary features millions in outside spending](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Raja Krishnamoorthi](https://ballotpedia.org/Raja_Krishnamoorthi) (Tier 3) (VERIFIED)
-- ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -332,7 +331,6 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 | 6980 | NOVA Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 6752 | Investing in American Workers Act | Referred to the Committee on Ways and Means, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/K000391)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -348,7 +346,6 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 - Central Intelligence Agency
 - Health Care and Financial Services
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -394,3 +391,11 @@ Subramanian Raja Krishnamoorthi is an American attorney and politician serving a
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Raja_Krishnamoorthi) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7285471) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FollowTheMoney: Raja Krishnamoorthi](https://www.followthemoney.org/tools/election-overview?eid=6265333&default=candidate)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/K000391)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

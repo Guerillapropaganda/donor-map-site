@@ -95,7 +95,6 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 
 ### Sources
 
-- ~~[NASA: SpaceX commercial crew contract](https://www.nasa.gov/humans-in-space/commercial-space/spacex/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [DoD: SpaceX launch services contracts](https://www.defense.gov/News/Contracts/) (Tier 1) (NEEDS REVIEW)
 - [FAA: SpaceX launch licenses](https://www.faa.gov/space/licenses) (Tier 1) (VERIFIED)
 - [Ballotpedia: SpaceX](https://ballotpedia.org/SpaceX) (Tier 3) (VERIFIED)
@@ -110,7 +109,6 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 | Net Assets | $13K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 873059688](https://projects.propublica.org/nonprofits/organizations/873059688) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -166,5 +164,12 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 - Adrian Moon v. Satan (2026) — Court of Appeals for the D.C. Circuit
 - Goddard v. 1910 N. Main Street Apartments Capital, LLC. (2026) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22SpaceX%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NASA: SpaceX commercial crew contract](https://www.nasa.gov/humans-in-space/commercial-space/spacex/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_05_2024_prefixes_86-88%2F873059688_202312_990EZ_2024052322427085.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22SpaceX%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

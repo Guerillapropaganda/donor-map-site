@@ -275,7 +275,6 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 - [OpenSecrets: Marathon Petroleum 2024 recipients](https://www.opensecrets.org/orgs/marathon-petroleum/recipients?id=D000023121) (Tier 1) (VERIFIED)
 - [OpenSecrets: Marathon PAC (C00496307) details](https://www.opensecrets.org/political-action-committees-pacs/marathon-petroleum/C00496307/summary/2024) (Tier 1) (VERIFIED)
 - [Business Insider: Marathon Petroleum FEC $85K fine for illegal $1M contribution](https://www.businessinsider.com/fec-marathon-oil-85000-fine-campaign-finance-violation-2022-3) (Tier 2) (VERIFIED)
-- ~~[New York Times: Marathon Petroleum CAFE campaign and draft congressional letter](https://www.nytimes.com/2018/12/13/climate/cafe-emissions-rollback-oil-industry.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [E&E News: Marathon anti-EV campaign and Barrasso bill lobbying](https://www.eenews.net/articles/a-look-into-big-oils-fight-against-electric-cars/) (Tier 2) (VERIFIED)
 - [CleanTechnica: Big Oil anti-EV campaign (ALEC coordination, Facebook dark money 25% DOT comments, New Orleans event)](https://cleantechnica.com/2019/01/06/big-oil-tries-to-kill-the-electric-car-again/) (Tier 2) (VERIFIED)
 - [DeSmog: CAFE rollback lobbying history and oil industry coordination](https://www.desmog.com/2022/03/18/lobbying-weakened-americans-gas-mileage/) (Tier 2) (VERIFIED)
@@ -388,7 +387,6 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 | Net Assets | $13.4M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 464439930](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Contracts
@@ -469,7 +467,6 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 - Williams v. Exxon Mobil Corporation (2026) — District Court, M.D. Louisiana
 - Franks v. Marathon Petroleum Company LP (2026) — District Court, D. Minnesota
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Marathon%20Petroleum%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -501,11 +498,19 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 **Filing history:** 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Marathon Petroleum CAFE campaign and draft congressional letter](https://www.nytimes.com/2018/12/13/climate/cafe-emissions-rollback-oil-industry.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_09_2021_prefixes_45-52%2F464439930_202012_990PF_2021090318810669.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Marathon%20Petroleum%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2019)~~ (URL broken, archived by Ops)
 - ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2015)~~ (URL broken, archived by Ops)
 - ~~[2014 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2014)~~ (URL broken, archived by Ops)
 - ~~[2013 Filing](https://projects.propublica.org/nonprofits/organizations/464439930/2013)~~ (URL broken, archived by Ops)
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

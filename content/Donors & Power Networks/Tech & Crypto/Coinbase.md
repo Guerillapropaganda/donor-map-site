@@ -128,8 +128,6 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - {{src:src_009163}} (Tier 1) (VERIFIED)
 - {{src:src_004057}} (Tier 1) (VERIFIED)
 - [ReadSludge: Crypto Ally French Hill to Lead Financial Services Committee](https://readsludge.com/2024/12/31/crypto-ally-french-hill-to-lead-financial-services-committee/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Coinbase political spending](https://ballotpedia.org/Coinbase) (Tier 3) (VERIFIED)
 
 ---
@@ -162,7 +160,6 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - United States v. Approximately 1,070,013.93441 Tether (USDT) Cryptocurrency (2026) — District Court, M.D. Alabama
 - United States v. Daghita (2026) — District Court, E.D. Virginia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Coinbase%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -296,3 +293,11 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Verge: Coinbase political spending and Fairshake PAC](https://www.theverge.com/coinbase-fairshake-pac-political-spending/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Washington Post: Crypto cash helps propel Trump, other allies to 2024 election victory](https://www.washingtonpost.com/business/2024/11/06/crypto-cash-helps-propel-trump-other-allies-2024-election-victory/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Coinbase%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

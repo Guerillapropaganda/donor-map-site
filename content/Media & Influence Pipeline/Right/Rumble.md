@@ -219,9 +219,6 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 ### Venture Capital & Political Investor (Tier 2. Major Investigative Journalism & Bloomberg/Forbes):
 - [PR Newswire: Narya and Peter Thiel Lead Investment in Rumble](https://www.prnewswire.com/news-releases/narya-and-peter-thiel-lead-investment-in-rumble-301295309.html) (Tier 2) (VERIFIED)
 - [Business Insider: Startups JD Vance is invested in](https://www.businessinsider.com/startups-jd-vance-invested-in-venture-capital-narya-peter-thiel-2024-11) (Tier 2) (VERIFIED)
-- ~~[Forbes: Why the founder of Rumble is now a billionaire](https://www.forbes.com/sites/kylemullins/2025/01/06/why-the-founder-of-the-right-wing-video-platform-rumble-is-now-a-billionaire/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Forbes: Dan Bongino Rumble stake and FBI nomination](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Forbes: Rumble is finally relevant but running out of cash](https://www.forbes.com/sites/kylemullins/2024/12/20/the-jd-vance-backed-youtube-clone-rumble-is-finally-relevant-but-its-running-out-of-cash/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Foreign Money & Russian State Media (Tier 2. Major Investigative Journalism):
 - [Seattle Times / New York Times: Company backed by JD Vance gives platform for Russian propaganda](https://www.seattletimes.com/nation-world/company-backed-by-j-d-vance-gives-platform-for-russian-propaganda/) (Tier 2) (VERIFIED)
@@ -231,7 +228,6 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 ### Content Moderation & Extremism (Tier 2. Major Investigative Journalism):
 - [Rolling Stone: Trump Campaign Ads Are Monetizing Pro-Nazi Content on Rumble](https://www.rollingstone.com/politics/politics-features/trump-campaign-ads-nazi-rumble-stew-peters-1234987325/) (Tier 2) (VERIFIED)
 - [Los Angeles Times: GOP debate livestreaming partner is haven for disinformation](https://www.latimes.com/politics/story/2023-09-25/gop-debate-livestreaming-partner-haven-disinformation-extremism) (Tier 2) (VERIFIED)
-- ~~[ADL: Rumble as Platform for Hate Content](https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### International Legal Battles (Tier 2. News Reporting):
 - [Brussels Signal: Rumble wins court case against French government](https://brusselssignal.eu/2025/10/rumble-wins-court-case-against-french-government-and-regains-access-to-france/) (Tier 2) (VERIFIED)
@@ -240,15 +236,24 @@ Patterns present: **Donor-Class Override** (platform moderation policies reject 
 
 ### Campaign Finance & Political Infrastructure (Tier 2. News Reporting):
 - [Nasdaq: Rumble Announces Livestream Contributions for U.S. Federal Political Campaigns](https://www.nasdaq.com/press-release/rumble-announces-livestream-contributions-for-u.s.-federal-political-campaigns-2024) (Tier 1) (VERIFIED)
-- ~~[PA Democratic Party: McCormick refuses to pull Rumble investments](https://www.padems.org/new-mccormick-refuses-to-pull-investments-from-website-that-platforms-holocaust-denial-and-anti-semitic-hate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Insider Selling & SEC Filings (Tier 2. Financial Data):
-- ~~[GuruFocus: Christopher Pavlovski insider transactions](https://www.gurufocus.com/insider/222244/christopher-pavlovski)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Yahoo Finance: Rumble insider ownership analysis](https://finance.yahoo.com/news/despite-recent-sales-rumble-inc-145742514.html) (Tier 2) (VERIFIED)
 
 ### Reference (Tier 3. Secondary Sources):
-- ~~[Wikipedia: Rumble (company)](https://en.wikipedia.org/wiki/Rumble_(company)~~ (URL broken, archived by Ops)) (Tier 3)
 - [Celebrity Net Worth: Chris Pavlovski](https://www.celebritynetworth.com/richest-businessmen/richest-billionaires/chris-pavlovski-net-worth/) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Forbes: Why the founder of Rumble is now a billionaire](https://www.forbes.com/sites/kylemullins/2025/01/06/why-the-founder-of-the-right-wing-video-platform-rumble-is-now-a-billionaire/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Dan Bongino Rumble stake and FBI nomination](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Rumble is finally relevant but running out of cash](https://www.forbes.com/sites/kylemullins/2024/12/20/the-jd-vance-backed-youtube-clone-rumble-is-finally-relevant-but-its-running-out-of-cash/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[ADL: Rumble as Platform for Hate Content](https://www.adl.org/resources/blog/rumble-emerges-platform-choice-antisemitic-and-far-right-extremist-content)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[PA Democratic Party: McCormick refuses to pull Rumble investments](https://www.padems.org/new-mccormick-refuses-to-pull-investments-from-website-that-platforms-holocaust-denial-and-anti-semitic-hate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[GuruFocus: Christopher Pavlovski insider transactions](https://www.gurufocus.com/insider/222244/christopher-pavlovski)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Wikipedia: Rumble (company)](https://en.wikipedia.org/wiki/Rumble_(company)~~ (URL broken, archived by Ops)) (Tier 3)

@@ -189,7 +189,6 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 - [SF Examiner: Steyer self-funding analysis](https://www.sfexaminer.com/news/politics/steyer-self-funding-spending-dwarfs-gubernatorial-rivals/article_111f9db5-5cb0-412b-b7bd-59825b45df7c.html) (Tier 2) (VERIFIED)
 - [Mercury News: Campaign spending breakdown](https://www.mercurynews.com/2026/02/03/california-governors-race-tom-steyer/) (Tier 2) (VERIFIED)
 - [TIME: The Billionaire Activist Who Wants to Be California's Governor](https://time.com/7335185/tom-steyer-california-governor-2026-billionaire-newsom/) (Tier 2) (VERIFIED)
-- ~~[OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Tom%20Steyer)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - California Nurses Association: CNA endorsement announcement (Tier 1)
 - [CalMatters: Governor race reporting](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - The Hill: Farallon divestment timeline (Tier 2)
@@ -215,3 +214,9 @@ Steyer's profile is unique in this vault: he is simultaneously the donor and the
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Campaign Finance Data](https://www.opensecrets.org/members-of-congress/summary?displayname=Tom%20Steyer)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

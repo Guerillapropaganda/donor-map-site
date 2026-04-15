@@ -151,17 +151,22 @@ The voting record is the financial transparency tool that campaign disclosure hi
 - [Collins Raked in Wall Street Cash While Helping Advance Massive Tax Breaks for Billionaire Mega-Donors](https://democrats.org/news/new-receipts-susan-collins-raked-in-campaign-cash-while-helping-advance-massive-tax-breaks-for-billionaire-mega-donors/) (Tier 3) (VERIFIED)
 - [Joe Manchin's Vote Isn't That Mysterious. Look to the Fossil Fuel Money.](https://newrepublic.com/article/163723/joe-manchin-vote-fossil-fuel) (Tier 2) (VERIFIED)
 - [Economic Growth, Regulatory Relief, and Consumer Protection Act Senate Vote](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1181/vote_118_1_00343.htm) (Tier 1) (VERIFIED)
-- ~~[8 Senate Democrats vote against adding $15 minimum wage amendment to COVID relief](https://www.axios.com/2021/03/05/senate-minimum-wage-democrats)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Here Are the 8 Democrats Who Just Joined GOP to Vote Down Sanders' $15 Minimum Wage Amendment](https://www.commondreams.org/news/2021/03/05/here-are-8-democrats-who-just-joined-gop-to-vote-down-sanders-15-minimum-wage-amendment)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [How Wall Street wooed Sen. Kyrsten Sinema and preserved its multibillion-dollar carried interest tax break](https://www.cnbc.com/2022/08/09/how-wall-street-wooed-sen-kyrsten-sinema-and-preserved-its-multi-billion-dollar-carried-interest-tax-break.html) (Tier 2) (VERIFIED)
 - [Schumer says Sinema left 'no choice' but to cut carried interest provision from tax and climate bill](https://www.cnbc.com/2022/08/05/sinema-made-schumer-cut-carried-interest-loophole-from-reconciliation-bill.html) (Tier 2) (VERIFIED)
 - [Senate passes landmark crypto regulation bill on a bipartisan vote](https://www.nbcnews.com/politics/congress/senate-passes-landmark-crypto-regulation-bill-bipartisan-vote-sending-rcna213437) (Tier 2) (VERIFIED)
 - [House passes historic crypto bill, the GENIUS Act, after right-wing rebellion](https://www.cbsnews.com/news/house-vote-crypto-genius-act-stablecoin-regulations/) (Tier 2) (VERIFIED)
 - [Vote correlation: Internet privacy resolution and telecom contributions](https://www.opensecrets.org/news/2017/03/vote-correlation-internet-privacy-res/) (Tier 2) (VERIFIED)
-- ~~[MapLight Contributions by Vote methodology](http://classic.maplight.org/corework)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: The Dog Ate My Vote. How Congress Explains Its Absences](https://www.propublica.org/article/the-dog-ate-my-vote-how-congress-explains-its-absences) (Tier 2) (VERIFIED)
 - [SVB Collapse: Full List of Lawmakers Who Voted to Weaken Banking Regulation](https://www.newsweek.com/svb-collapse-full-list-lawmakers-who-voted-weaken-banking-regulation-1787573) (Tier 2) (VERIFIED)
 - [The Intercept: Democrats Are Teaming With Republicans for a Stealth Attack on Wall Street Reform](https://theintercept.com/2018/03/02/crapo-instead-of-taking-on-gun-control-democrats-are-teaming-with-republicans-for-a-stealth-attack-on-wall-street-reform/) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[8 Senate Democrats vote against adding $15 minimum wage amendment to COVID relief](https://www.axios.com/2021/03/05/senate-minimum-wage-democrats)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Here Are the 8 Democrats Who Just Joined GOP to Vote Down Sanders' $15 Minimum Wage Amendment](https://www.commondreams.org/news/2021/03/05/here-are-8-democrats-who-just-joined-gop-to-vote-down-sanders-15-minimum-wage-amendment)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[MapLight Contributions by Vote methodology](http://classic.maplight.org/corework)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

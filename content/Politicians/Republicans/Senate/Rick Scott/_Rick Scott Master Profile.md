@@ -230,7 +230,6 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 | 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
 | 12/17/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -307,7 +306,6 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 | — |  | — |
 | 4026 | American Dream Accounts Act of 2026 | Read twice and referred to the Committee on Finance. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001217)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -331,7 +329,6 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 - State Department and USAID Management, International Operations, and Bilateral International Development
 - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
@@ -356,6 +353,14 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 **Sources**
 
-- ~~[Congress.gov: Rick Scott](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Rick Scott](https://www.govtrack.us/congress/members/412838) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001217)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Rick Scott](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

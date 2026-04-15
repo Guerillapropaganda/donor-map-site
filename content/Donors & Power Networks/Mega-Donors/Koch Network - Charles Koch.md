@@ -976,7 +976,6 @@ This architecture allows the Koch Network to:
 
 ### New Sources (UNVERIFIED):
 - [Politico: Koch 2016, 702 million pledge](https://www.politico.com/story/2015/01/koch-2016-702-million-702-million-114604) (Tier 2) (UNVERIFIED)
-- ~~[Washington Post: Koch-backed network 2016 elections spending](https://www.washingtonpost.com/politics/koch-backed-network-aims-to-spend-nearly-1-billion-on-2016-elections/2015/01/26/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [ProPublica Nonprofit Explorer: Freedom Partners Chamber of Commerce EIN 52-2166327](https://projects.propublica.org/nonprofits/organizations/522166327) (Tier 1)
 - [ProPublica Nonprofit Explorer: Donors Capital Fund EIN 54-1934032](https://projects.propublica.org/nonprofits/organizations/541934032) (Tier 1)
 - [ProPublica Nonprofit Explorer: Believe in People EIN 753148958](https://projects.propublica.org/nonprofits/organizations/753148958) (Tier 1)
@@ -991,15 +990,11 @@ This architecture allows the Koch Network to:
 - [NELP: Workers lose billions from local minimum wage blocks](https://www.nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases/) (Tier 2)
 - [SourceWatch: REDMAP](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/REDMAP) (Tier 3) (UNVERIFIED)
 - [CNBC: Koch network warns donors closing wallets](https://www.cnbc.com/2017/06/26/koch-network-warns-donors-are-closing-wallets-until-they-see-legislative-progress.html) *(source unavailable)* (Tier 2) (UNVERIFIED)
-- ~~[Americans for Tax Fairness: Koch Brothers exposed](https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
 - [New Yorker: Koch pledge tied to congressional climate inaction](https://www.newyorker.com/news/news-desk/koch-pledge-tied-to-congressional-climate-inaction) (Tier 2) (VERIFIED)
 - [CNBC: Koch network won't help Trump 2020](https://www.cnbc.com/2020/09/29/2020-presidential-election-why-koch-network-wont-help-trumps-bid.html) (Tier 2)
-- ~~[Politico States: Koch network pledges to shun lawmakers](https://www.politico.com/states/california/story/2021/01/13/koch-network-pledges-to-shun-lawmakers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [EXPOSEDbyCMD: The Koch Coup (2021)](https://www.exposedbycmd.org/2021/01/05/the-koch-coup-charles-kochs-political-machine-bankrolled-senators-who-will-attempt-to-steal-election-for-trump-tomorrow/) (Tier 2)
 - [Politico: Koch Nikki Haley 2024](https://www.politico.com/news/2024/02/25/koch-afp-nikki-haley-00143212) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [Forbes: Charles Koch shares his secret plan](https://www.forbes.com/sites/mattdurot/2023/10/10/billionaire-charles-koch-shares-his-secret-plan/) *(source unavailable)* (Tier 2) (UNVERIFIED)
-- ~~[Politico Magazine: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
-- ~~[EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
@@ -1013,7 +1008,6 @@ This architecture allows the Koch Network to:
 
 **Alignment with Trump:** AFP Action has endorsed the same three candidates as Trump in three of nine open Senate seats, a tactical alignment after years of Koch-Trump friction. The network that backed DeSantis and opposed Trump in 2024 is now playing within the MAGA coalition for 2026 midterm positioning.
 
-- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose contributions and endorsements (February 2026)](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Read Sludge: Koch Network fuels Republican push to kill ACA subsidies](https://readsludge.com/2025/12/15/koch-network-fuels-republican-push-to-kill-aca-subsidies/) (Tier 2) (VERIFIED)
 
 ### Tax Filings (IRS 990)
@@ -1031,11 +1025,6 @@ This architecture allows the Koch Network to:
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/480918408) (Tier 1) (VERIFIED)
@@ -1111,3 +1100,19 @@ This architecture allows the Koch Network to:
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Koch-backed network 2016 elections spending](https://www.washingtonpost.com/politics/koch-backed-network-aims-to-spend-nearly-1-billion-on-2016-elections/2015/01/26/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Americans for Tax Fairness: Koch Brothers exposed](https://americansfortaxfairness.org/tax-fairness-briefing-booklet/fact-sheet-koch-brothers-exposed-billionaires-fuel-extreme-right/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2) (UNVERIFIED)
+- ~~[Politico States: Koch network pledges to shun lawmakers](https://www.politico.com/states/california/story/2021/01/13/koch-network-pledges-to-shun-lawmakers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico Magazine: Koch brothers Chase Koch next generation](https://www.politico.com/magazine/story/2018/12/14/koch-brothers-chase-koch-next-generation-223099)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[EXPOSEDbyCMD: Charles Koch's Stand Together donor conduits](https://www.exposedbycmd.org/2023/12/20/charles-kochs-stand-together-donor-conduits-move-176-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EXPOSEDbyCMD: Major right-wing super PACs disclose contributions and endorsements (February 2026)](https://www.exposedbycmd.org/2026/02/18/major-right-wing-super-pacs-disclose-recent-contributions-and-endorsements/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/480918408/2019)~~ (URL broken, archived by Ops)

@@ -203,7 +203,6 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 - [Philanthropynewsdigest. Powell Jobs launches $50M super school challenge](https://candid.org/blogs/) (Tier 2) (VERIFIED)
 
 ### Net Worth & Inheritance:
-- ~~[Bloomberg Billionaires Index. Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Wikipedia. Laurene Powell Jobs](https://en.wikipedia.org/wiki/Laurene_Powell_Jobs) (Tier 3) (VERIFIED)
 
 ### Climate Giving:
@@ -246,7 +245,6 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 - Keene v. Comcast Cable Communications Management, LLC (2024) — District Court, D. Maryland
 - Weatherill v. United Wholesale Mortgage, LLC (2024) — District Court, E.D. Michigan
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Laurene%20Powell%20Jobs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -281,3 +279,10 @@ The Atlantic acquisition completes the picture. Billionaires buy media propertie
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Laurene%20Powell%20Jobs%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg Billionaires Index. Laurene Powell Jobs](https://www.bloomberg.com/billionaires/profiles/laurene-p-jobs/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Laurene%20Powell%20Jobs%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

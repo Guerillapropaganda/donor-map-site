@@ -278,7 +278,6 @@ Lilly's direct PAC spending ($2.4M raised) is dwarfed by the industry's collecti
 - RAFFURTY v. NOVO NORDISK A/S (2026) — District Court, E.D. Pennsylvania
 - WAKE v. NOVO NORDISK INC. (2026) — District Court, E.D. Pennsylvania
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eli%20Lilly%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -462,3 +461,9 @@ _Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Lilly) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Eli%20Lilly%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

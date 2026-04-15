@@ -158,7 +158,6 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 
 ## Sources
 
-- ~~[Congress.gov: Cotton 2014 Senate fundraising](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003136}} (Tier 1) (VERIFIED)
 - [LobeLog: Emergency Committee for Israel spending](https://lobelog.com/exclusive-emergency-committee-for-israel-spends-big-on-rep-tom-cotton/) (Tier 2) (VERIFIED)
 - [NPR: Freshman senator behind Iran letter](https://www.npr.org/2015/03/13/392845709/tom-cotton-the-freshman-senator-behind-the-iran-letter) (Tier 2) (VERIFIED)
@@ -183,7 +182,6 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 - S. 4158: A bill to temporarily suspend the clean electricity production credit to support the Strategic Petroleum Reserve. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - S. 4106: Rx ACCESS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/412508)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
@@ -246,5 +244,12 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 | 4077 | Trucking Security and CCP Disclosure Act of 2026 | Read twice and referred to the Committee on Armed Services. |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001095)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Cotton 2014 Senate fundraising](https://www.congress.gov/search?q=Tom%20Cotton&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/412508)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001095)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

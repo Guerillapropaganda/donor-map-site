@@ -84,4 +84,9 @@ Zeldin's near-upset was driven by public safety messaging: near-daily press conf
 - [Commercial Observer: Real estate support for Zeldin](https://commercialobserver.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2) (VERIFIED)
 - [Fox Business: NY governor race fundraising](https://www.foxbusiness.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2) (VERIFIED)
 - [Crain's New York: Hochul vs. Zeldin fundraising](https://www.crainsnewyork.com/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[Jewish Telegraphic Agency: Zeldin Jewish donor support](https://www.jta.org/?q=2022%20Governor%20Race%20and%20the%20Lauder%20Super%20PAC)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

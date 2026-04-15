@@ -275,10 +275,8 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 - [Elizabeth Warren backs Zach Wahls in Iowa U.S. Senate race](https://www.thegazette.com/news/elections/elizabeth-warren-backs-zach-wahls-in-iowa-s-democratic-u-s-senate-primary/article_d360eb4e-edad-4493-b803-b4b21c77e7f0.html) (Tier 2) (VERIFIED)
 - [Democratic U.S. Senate candidates Zach Wahls, Josh Turek tout new endorsements](https://iowacapitaldispatch.com/2025/11/18/democratic-u-s-senate-candidates-zach-wahls-josh-turek-tout-new-endorsements/) (Tier 2)
 - [Zach Wahls, who defended his lesbian moms' right to marry, reflects on political victory](https://www.nbcnews.com/feature/nbc-out/zach-wahls-who-defended-his-lesbian-moms-right-marry-reflects-n935441) (Tier 2) (VERIFIED)
-- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Zach Wahls – Iowa State Senator](https://repbio.org/zach-wahls/) (Tier 3) (VERIFIED)
 - [Ten years later, Zach Wahls reflects on 2011 viral speech about family](https://cbs2iowa.com/news/local/ten-years-later-zach-wahls-reflects-on-2011-viral-speech-about-family) (Tier 2) (VERIFIED)
-- ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -311,5 +309,12 @@ The answer to this question will determine whether Wahls' campaign is a serious 
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Democratic state Sen. Zach Wahls launches campaign for U.S. Senate held by Sen. Joni Ernst](https://www.iowapublicradio.org/political-news/2025-06-11/democrat-iowa-senator-zach-wahls-campaign-for-u-s-senate-held-by-sen-joni-ernst)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FollowTheMoney.org: Zach Wahls Iowa Senate 2026](https://www.followthemoney.org/tools/election-overview?eid=46081947)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

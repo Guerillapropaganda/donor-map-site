@@ -38,7 +38,12 @@ Williams partially self-funds his campaigns — a pattern that creates the appea
 
 ### Sources
 
-- ~~[Congress.gov: Roger Williams member profile](https://www.congress.gov/member/roger-williams/W000816)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_004212}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Roger Williams](https://ballotpedia.org/Roger_Williams_(Texas) (VERIFIED)) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Roger Williams member profile](https://www.congress.gov/member/roger-williams/W000816)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

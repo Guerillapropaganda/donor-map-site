@@ -162,7 +162,6 @@ Foxx's flagship legislation as first-term chair would have reauthorized the High
 ### Student Loan Forgiveness Opposition (2023):
 As committee chair, Foxx was the primary architect and spokesperson of the House resolution overturning Biden's student debt relief plan, which passed 218–203. Her framing: "Two-thirds of this debt transfer plan would go to the top half of earners. It takes from those in the lower half and gives to the upper half." After the Supreme Court struck down Biden's plan, she celebrated: "Mr. President, good riddance to your illegal, economically disastrous taxpayer-funded bailout for the wealthy." The "regressive" framing selectively ignores that 91% of targeted borrowers earned under $75,000.
 
-- ~~[The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### College Cost Reduction Act (2024):
 Foxx's second attempt at the same deregulation agenda, rolling back Biden-era reinstatement of gainful employment and 90/10 rules. The pattern is persistent: the same donor-aligned deregulation reintroduced under different names across multiple sessions.
@@ -223,7 +222,6 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 - [Wikipedia: Virginia Foxx](https://en.wikipedia.org/wiki/Virginia_Foxx) (Tier 3) (VERIFIED)
 - [Ballotpedia: Virginia Foxx](https://ballotpedia.org/Virginia_Foxx) (Tier 3) (VERIFIED)
 - [GovTrack: Virginia Foxx voting record](https://www.govtrack.us/congress/members/virginia_foxx/400643) (Tier 3) (VERIFIED)
-- ~~[AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -251,7 +249,6 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 | 6188 | To amend title 36, United States Code, to designate the composition known as "He… | Referred to the House Committee on the Judiciary. |
 | 6139 | Union Members Right to Know Act | Referred to the House Committee on Education and Workforce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/F000450)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Influence Network (Cross-Reference)
@@ -270,3 +267,11 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: House passes measure overturning Biden's student debt forgiveness](https://thehill.com/homenews/education/4019425-house-passes-measure-overturning-bidens-student-debt-forgiveness-program/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[AFL-CIO: Virginia Foxx scorecard](https://aflcio.org/scorecard/legislators/virginia-foxx)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/F000450)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

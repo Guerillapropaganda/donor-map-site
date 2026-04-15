@@ -307,7 +307,6 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | 08/08/2014 | DISH | Sale | $1,001 - $15,000 | Self |
 | 08/08/2014 | AMT | Sale | $50,001 - $100,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -483,7 +482,6 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 
 **Sources**
 
-- ~~[Congress.gov: Cory Booker](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Cory Booker](https://www.govtrack.us/congress/members/412598) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -517,5 +515,12 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | 4096 | A bill to amend the Consolidated Farm and Rural Development Act to modify provis… | Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. |
 | 4042 | Keep Your Pay Act | Read twice and referred to the Committee on Finance. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001288)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Cory Booker](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001288)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

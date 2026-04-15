@@ -175,8 +175,6 @@ The post-government revolving door confirmed the class function. Hudson Institut
 - [Quartz: Secretary of State nominee Pompeo owes his career to the Koch brothers](https://qz.com/1227882/secretary-of-state-nominee-mike-pompeo-owes-his-political-career-to-the-koch-brothers) (Tier 2) (VERIFIED)
 - [WBUR/Here & Now: How Mike Pompeo went from Kansas to Secretary of State](https://www.wbur.org/hereandnow/2019/11/28/mike-pompeo-secretary-of-state-profile) (Tier 2) (VERIFIED)
 - [Hudson Institute: Michael R. Pompeo. Distinguished Fellow](https://www.hudson.org/experts/1357-michael-r-pompeo) (Tier 2) (VERIFIED)
-- ~~[The Hill: Pompeo joins conservative think tank Hudson Institute](https://thehill.com/homenews/administration/536023-pompeo-to-join-conservative-think-tank-hudson-institute/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[SourceWatch: Mike Pompeo](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Mike Pompeo](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3) (VERIFIED)
 - [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1) (VERIFIED)
 
@@ -217,3 +215,10 @@ The post-government revolving door confirmed the class function. Hudson Institut
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Pompeo joins conservative think tank Hudson Institute](https://thehill.com/homenews/administration/536023-pompeo-to-join-conservative-think-tank-hudson-institute/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: Mike Pompeo](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

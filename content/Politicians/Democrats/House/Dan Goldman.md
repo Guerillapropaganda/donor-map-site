@@ -133,7 +133,6 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 - {{src:src_005786}} (Tier 1) (VERIFIED)
 - {{src:src_005786}} (Tier 1) (VERIFIED)
 - [Wikipedia: Dan Goldman biography](https://en.wikipedia.org/wiki/Dan_Goldman) (Tier 3) (VERIFIED)
-- ~~[Bloomberg: Levi Strauss heir wealth and campaign](https://www.bloomberg.com/news/articles/2022-07-30/dan-goldman-levi-strauss-heir-would-join-congress-s-richest-with-nyc-win)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [HuffPost: Dan Goldman NY-10 Democratic candidate interview](https://www.huffpost.com/entry/dan-goldman-new-york-10-democratic-primary_n_62cdf45be4b0aa392d457aaa) (Tier 2) (VERIFIED)
 - [The Intercept: Dan Goldman Israel advocacy and ICJ genocide case](https://theintercept.com/2024/02/01/dan-goldman-icj-israel-genocide/) (Tier 2) (VERIFIED)
 - [Track AIPAC: Dan Goldman AIPAC contributions and alignment](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
@@ -169,3 +168,9 @@ Goldman represents the final stage of Democratic realignment: dynastic wealth in
 
 - {{src:src_005786}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Levi Strauss heir wealth and campaign](https://www.bloomberg.com/news/articles/2022-07-30/dan-goldman-levi-strauss-heir-would-join-congress-s-richest-with-nyc-win)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

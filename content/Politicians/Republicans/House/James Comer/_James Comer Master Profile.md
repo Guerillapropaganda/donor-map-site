@@ -199,7 +199,6 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 - {{src:src_004442}} (Tier 1) (VERIFIED)
 - {{src:src_004442}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
 - [Fortune: Comer's Kentucky Land Shell Company](https://fortune.com/2023/12/14/james-comer-kentucky-land-shell-company-hunter-biden-probe/) (Tier 2) (VERIFIED)
 - [NPR: FBI Informant Smirnov Charged with Lying About Bidens](https://www.npr.org/2024/02/20/1232789953/alexander-smirnov-fbi-informant-biden-hunter-ukraine) (Tier 2) (VERIFIED)
 - [PBS: Smirnov Guilty Plea](https://www.pbs.org/newshour/politics/former-fbi-informant-to-plead-guilty-to-lying-about-fake-bribery-scheme-involving-the-bidens) (Tier 2) (VERIFIED)
@@ -288,7 +287,6 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 **Sources**
 
-- ~~[Congress.gov: James Comer](https://www.congress.gov/member/c001091)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
 - [GovTrack: James Comer](https://www.govtrack.us/congress/members/412676) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -321,7 +319,6 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 | 473 | SHOW UP Act of 2025 | Referred to the House Committee on Oversight and Government Reform. |
 | 9812 | Health Care Workforce Investment Act | Referred to the Subcommittee on Health. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001108)~~ (was Tier 1 â€” URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Wikipedia
@@ -340,3 +337,11 @@ James Richardson Comer Jr. is an American politician from Kentucky who represent
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/James_Comer) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6131602) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: James Comer Member Profile](https://www.congress.gov/member/james-comer/C001108)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: James Comer](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001108)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

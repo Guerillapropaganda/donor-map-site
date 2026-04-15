@@ -164,13 +164,9 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 
 ## Sources
 
-- ~~[Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Phemex News: Crypto Industry and AIPAC Support Mike Collins Georgia Senate](https://phemex.com/news/article/crypto-industry-and-aipac-support-mike-collins-in-georgia-senate-race-20593) (Tier 3) (VERIFIED)
 - [Georgia Recorder: GOP Senate hopefuls fundraising report](https://georgiarecorder.com/briefs/u-s-senate-gop-hopefuls-say-they-raised-nearly-2m-each-in-fight-for-georgia-seat/) (Tier 2) (VERIFIED)
 - [Georgia Recorder: Ossoff fundraising $12M Q3 2025](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2) (VERIFIED)
-- ~~[Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Mike Collins Georgia politician profile](https://ballotpedia.org/Mike_Collins_(Georgia) (VERIFIED)) (Tier 3)
 - [Wikipedia: Mike Collins Georgia politician](https://en.wikipedia.org/wiki/Mike_Collins_%28politician%29) (Tier 3) (VERIFIED)
 - [Georgia Recorder: Mike Collins ethics investigation](https://georgiarecorder.com/briefs/more-details-released-about-ethics-investigation-into-congressman-mike-collins-and-former-top-aide/) (Tier 2) (VERIFIED)
@@ -198,3 +194,12 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Beincrypto: Crypto and AIPAC targeting Georgia Senate seat](https://beincrypto.com/crypto-lobby-and-aipac-targets-georgia-senate/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Cryptonews: Crypto Industry and AIPAC Back Mike Collins Georgia 2026](https://cryptonews.net/news/legal/31673812/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

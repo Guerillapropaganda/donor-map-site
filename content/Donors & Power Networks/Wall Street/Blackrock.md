@@ -121,8 +121,6 @@ BlackRock is not merely a Wall Street firm, it is the infrastructure through whi
 - [OpenSecrets: BlackRock Inc organizational profile](https://www.opensecrets.org/orgs/blackrock-inc/summary?id=D000067266) (Tier 1)
 - [Federal Reserve: Secondary Market Corporate Credit Facility](https://www.federalreserve.gov/monetarypolicy/smccf.htm) (Tier 1) (VERIFIED)
 - [SEC: BlackRock proxy voting records](https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=blackrock&CIK=&type=N-PX) (Tier 1) (VERIFIED)
-- ~~[New York Times: BlackRock managed Fed bond-buying while profiting from same bonds](https://www.nytimes.com/2020/04/14/business/blackrock-federal-reserve-bond-buying.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Financial Times: Anti-ESG backlash and BlackRock's response](https://www.ft.com/content/blackrock-esg-backlash)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Bailout Player BlackRock Becomes Biggest Money Manager](https://www.propublica.org/article/bailout-player-blackrock-becomes-biggest-money-manager) (Tier 2) (VERIFIED)
 - [Ballotpedia: BlackRock political spending](https://ballotpedia.org/BlackRock) (Tier 3) (VERIFIED)
 
@@ -235,7 +233,6 @@ BlackRock is not merely a Wall Street firm, it is the infrastructure through whi
 - Rico v. RBC USA Holdco Corporation (2026) — District Court, D. Minnesota
 - Broadband Communications Association of Pennsylvan v. FCC (2026) — Court of Appeals for the D.C. Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -259,3 +256,11 @@ BlackRock is not merely a Wall Street firm, it is the infrastructure through whi
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: BlackRock managed Fed bond-buying while profiting from same bonds](https://www.nytimes.com/2020/04/14/business/blackrock-federal-reserve-bond-buying.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Financial Times: Anti-ESG backlash and BlackRock's response](https://www.ft.com/content/blackrock-esg-backlash)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22BlackRock%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

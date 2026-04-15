@@ -38,9 +38,14 @@ Ernst's "Squeal Award", a monthly press release highlighting wasteful government
 
 ### Sources
 
-- ~~[Congress.gov: Joni Ernst member profile](https://www.congress.gov/member/joni-ernst/E000295)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003449}} (Tier 1) (VERIFIED)
 - {{src:src_003449}} (Tier 1) (VERIFIED)
-- ~~[Des Moines Register: Ernst ethanol advocacy and Koch tensions](https://web.archive.org/web/2023/https:/www.desmoinesregister.com/ernst-ethanol-koch/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Joni Ernst](https://ballotpedia.org/Joni_Ernst) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Joni Ernst member profile](https://www.congress.gov/member/joni-ernst/E000295)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Des Moines Register: Ernst ethanol advocacy and Koch tensions](https://web.archive.org/web/2023/https:/www.desmoinesregister.com/ernst-ethanol-koch/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

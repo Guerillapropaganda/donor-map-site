@@ -187,15 +187,20 @@ Acton's structural position: she depends on union infrastructure to deliver vict
 
 ### Sources
 
-- ~~[Ohio AFL-CIO Endorses Amy Acton for Governor | Ohio AFL-CIO](https://www.aflcio.org/news/ohio-afl-cio-endorses-amy-acton-governor)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [UAW Endorses Amy Acton for Ohio Governor 2026 | UAW](https://uaw.org/uaw-endorses-amy-acton-for-ohio-governor/) (Tier 1) (VERIFIED)
-- ~~[Ohio Federation of Teachers Endorsement | OFT Press Release](https://www.ohioft.org/news/oft-endorses-acton-2026)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[AFGE Endorses Amy Acton for Governor | AFGE Official](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Economic Policy Institute: Right-to-Work Impact on Union Density and Wages](https://www.epi.org/publication/right-to-work-states/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ohio Senate Bill 5 and 2011 Referendum | Ohio History Central](https://www.ohiohistory.org/research/) (Tier 2) (VERIFIED)
 - [Ohio Prevailing Wage Law | Ohio Revised Code § 4115.13](https://codes.ohio.gov/ohio-revised-code/section-4115.13) (Tier 1) (VERIFIED)
 - [AFGE: Federal Employees Under Attack. DOGE and Workforce Cuts](https://www.afge.org/) (Tier 2) (VERIFIED)
-- ~~[Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Ohio AFL-CIO Endorses Amy Acton for Governor | Ohio AFL-CIO](https://www.aflcio.org/news/ohio-afl-cio-endorses-amy-acton-governor)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ohio Federation of Teachers Endorsement | OFT Press Release](https://www.ohioft.org/news/oft-endorses-acton-2026)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[AFGE Endorses Amy Acton for Governor | AFGE Official](https://www.afge.org/article/afge-endorses-amy-acton-for-ohio-governor/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Economic Policy Institute: Right-to-Work Impact on Union Density and Wages](https://www.epi.org/publication/right-to-work-states/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ramaswamy DOGE Plan: 75% Federal Workforce Cuts | Politico](https://www.politico.com/news/2025/vivek-ramaswamy-doge-federal-workforce)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

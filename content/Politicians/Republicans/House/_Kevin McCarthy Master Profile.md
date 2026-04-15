@@ -255,16 +255,7 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 - [FEC Receipts: Oil and gas contributions to McCarthy by cycle](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - ~~{{src:src_004123}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_004124}} (Tier 1) (VERIFIED)
-- ~~[Politico: McCarthy's debt ceiling deal includes fossil fuel giveaways](https://www.politico.com/news/2023/05/26/how-kevin-mccarthy-got-fossil-fuel-provisions-into-debt-deal)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[E&E News: McCarthy's oil industry backing documented](https://www.eenews.net/articles/mccarthy-gets-most-oil-gas-money-of-any-house-member/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[The Guardian: McCarthy's energy industry connections](https://www.theguardian.com/us-news/2023/jun/15/kevin-mccarthy-fossil-fuel-speaker-debt-deal)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[Environmental Working Group: Debt ceiling fossil fuel provisions breakdown](https://www.ewg.org/news-insights/news/2023/05/debt-ceiling-deal-bails-out-fossil-fuels)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[CNN: McCarthy ousted as Speaker after 269 days](https://web.archive.org/web/2023/https:/www.cnn.com/politics/news/kevin-mccarty-motion-vacate)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Washington Post: McCarthy's failed speakership](https://www.washingtonpost.com/politics/2023/10/03/kevin-mccarthy-ousted-next-house-speaker/) (Tier 2) (VERIFIED)
-- ~~[VoteSmart: McCarthy voting record on energy legislation](https://www.votesmart.org/candidate/evaluations/14652/kevin-mccarthy#.Xq1CRi2ZLOI)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
-- ~~[CREW: McCarthy financial disclosures and oil industry connections](https://www.citizensforethics.org/analysis-kevin-mccarthy-oil-industry-funding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[Public Citizen: Congressional Leadership Fund spending breakdown](https://www.citizen.org/article/congressional-leadership-fund-fossil-fuel-spending-2020-2022/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
-- ~~[Salon: McCarthy's energy industry loyalty](https://www.salon.com/2023/06/01/kevin-mccarthy-fossil-fuel-speaker-baker/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -328,3 +319,17 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Politico: McCarthy's debt ceiling deal includes fossil fuel giveaways](https://www.politico.com/news/2023/05/26/how-kevin-mccarthy-got-fossil-fuel-provisions-into-debt-deal)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[E&E News: McCarthy's oil industry backing documented](https://www.eenews.net/articles/mccarthy-gets-most-oil-gas-money-of-any-house-member/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[The Guardian: McCarthy's energy industry connections](https://www.theguardian.com/us-news/2023/jun/15/kevin-mccarthy-fossil-fuel-speaker-debt-deal)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Environmental Working Group: Debt ceiling fossil fuel provisions breakdown](https://www.ewg.org/news-insights/news/2023/05/debt-ceiling-deal-bails-out-fossil-fuels)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[CNN: McCarthy ousted as Speaker after 269 days](https://web.archive.org/web/2023/https:/www.cnn.com/politics/news/kevin-mccarty-motion-vacate)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[VoteSmart: McCarthy voting record on energy legislation](https://www.votesmart.org/candidate/evaluations/14652/kevin-mccarthy#.Xq1CRi2ZLOI)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[CREW: McCarthy financial disclosures and oil industry connections](https://www.citizensforethics.org/analysis-kevin-mccarthy-oil-industry-funding/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Public Citizen: Congressional Leadership Fund spending breakdown](https://www.citizen.org/article/congressional-leadership-fund-fossil-fuel-spending-2020-2022/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Salon: McCarthy's energy industry loyalty](https://www.salon.com/2023/06/01/kevin-mccarthy-fossil-fuel-speaker-baker/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)

@@ -123,7 +123,6 @@ North Carolina's political system runs through Duke Energy's influence network. 
 ### Sources
 
 - [OpenSecrets: Duke Energy organizational profile](https://www.opensecrets.org/orgs/duke-energy/summary?id=D000000477) (Tier 1)
-- ~~[NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Duke Energy](https://ballotpedia.org/Duke_Energy) (Tier 3) (VERIFIED)
 
 ---
@@ -291,7 +290,6 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 | Net Assets | $6.2M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 581586283](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -331,11 +329,6 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/581586283) (Tier 1) (VERIFIED)
@@ -360,3 +353,15 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NC DEQ: Coal ash management data](https://deq.nc.gov/about/divisions/waste-management/coal-ash-management)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F581586283_202312_990PF_2024112522929234.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/581586283/2019)~~ (URL broken, archived by Ops)

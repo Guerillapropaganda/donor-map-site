@@ -205,7 +205,6 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 - {{src:src_001199}} (Tier 1) (VERIFIED)
 - {{src:src_001197}} (Tier 1) (VERIFIED)
 - {{src:src_001563}} (Tier 1) (VERIFIED)
-- ~~[RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [HHS ASPE: Comparing Prescription Drugs in U.S. and Other Countries](https://aspe.hhs.gov/reports/comparing-prescription-drugs) (Tier 1) (VERIFIED)
 - [Medicare Drug Price Negotiation Program • CMS.gov](https://www.cms.gov/priorities/medicare-prescription-drug-affordability/overview/medicare-drug-price-negotiation-program) (Tier 1) (VERIFIED)
 - [IRA Drug Negotiation Implementation • Congressional Research Service](https://sgp.fas.org/crs/health/IF12447.pdf) (Tier 1) (VERIFIED)
@@ -219,13 +218,19 @@ Americans pay 3–4x what Germans, Canadians, Australians pay for identical drug
 - [OpenSecrets News: Senate Vote on Prescription Drug Price Legislation](https://www.opensecrets.org/news/2017/01/a-senate-vote-on-prescription-drug-price/) (Tier 2) (VERIFIED)
 - [Read Sludge: Top Pharma Cash Recipient Takes Key Oversight Job (Guthrie)](https://readsludge.com/2024/12/20/top-pharma-cash-recipient-takes-key-industry-oversight-job/) (Tier 2) (VERIFIED)
 - [Kentucky Lantern: PAC Donations Flow to New Committee Chairs, Especially Guthrie](https://kentuckylantern.com/2025/10/27/pac-donations-flow-to-new-committee-chairs-especially-us-rep-brett-guthrie-of-kentucky/) (Tier 2) (VERIFIED)
-- ~~[STAT News: Big Pharma PAC Contributions to Sanders, Warren Overblown](https://www.statnews.com/2025/02/03/big-pharma-pac-contributions-to-bernie-sanders-elizabeth-warren-open-secrets-data/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Fierce Pharma: Record Pharma Lobbying Q1 2024 at $92M](https://www.fiercepharma.com/pharma/peddling-influence-d-c-cost-pharma-industry-a-record-92m-first-quarter) (Tier 2) (VERIFIED)
 
 ### Tier 2. Healthcare Policy & Analysis
-- ~~[Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [ProPublica: Medicare Drug Planners Now Lobbyists, With Billions at Stake](https://www.propublica.org/article/medicare-drug-planners-now-lobbyists-with-billions-at-stake-1020) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[RAND: U.S. Prescription Drug Prices 2.78x International Average](https://www.rand.org/news/press/2024/02/01.html)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[STAT News: Big Pharma PAC Contributions to Sanders, Warren Overblown](https://www.statnews.com/2025/02/03/big-pharma-pac-contributions-to-bernie-sanders-elizabeth-warren-open-secrets-data/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Kaiser Health News: Big Pharma Greets Hundreds of Ex-Federal Workers at Revolving Door](https://kffhealthnews.org/news/big-pharma-greets-hundreds-of-ex-federal-workers-at-the-revolving-door/at-the-revolving-door/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Booker Tries to Shake Doubts About Pharmaceutical Ties](https://thehill.com/homenews/campaign/424993-booker-tries-to-shake-doubts-about-pharmaceutical-ties-ahead-of-2020/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

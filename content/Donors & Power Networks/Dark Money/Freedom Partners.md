@@ -151,7 +151,6 @@ Freedom Partners was the Koch network's central bank, a mechanism for the billio
 - Citizens for Responsibility and Ethics in Washington v. Trump (2017) — District Court, S.D. New York
 - Peabody Energy Corporation (2016) — United States Bankruptcy Court, E.D. Missouri
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Freedom%20Partners%20Chamber%20of%20Commerce%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -192,3 +191,9 @@ Freedom Partners was the Koch network's central bank, a mechanism for the billio
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Freedom%20Partners%20Chamber%20of%20Commerce) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Freedom%20Partners%20Chamber%20of%20Commerce%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

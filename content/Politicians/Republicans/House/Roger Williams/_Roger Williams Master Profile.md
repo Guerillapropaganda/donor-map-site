@@ -300,7 +300,6 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 | 5672 | Reducing Unnecessary Slowdowns in Handling Act | Referred to the House Committee on the Judiciary. |
 | 5291 | Merchant Banking Modernization Act | Placed on the Union Calendar, Calendar No. 320. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/W000816)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
@@ -325,6 +324,12 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 
 **Sources**
 
-- ~~[Congress.gov: Roger Williams](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Roger Williams](https://www.govtrack.us/congress/members/412578) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/W000816)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Roger Williams](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

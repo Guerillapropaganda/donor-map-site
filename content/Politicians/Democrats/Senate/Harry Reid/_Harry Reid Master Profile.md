@@ -104,12 +104,8 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 ## Sources
 
 - ~~{{src:src_005391}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Nevada Secretary of State: Campaign Finance Database](https://sos.nv.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Open Secrets: Harry Reid Donor Profile](https://www.opensecrets.org/politicians/harry-reid)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Reid's Personal Real Estate Dealings](https://www.propublica.org/) (Tier 2) (VERIFIED)
-- ~~[Senate Lobbying Disclosure: Nevada Gaming Industry](https://soprweb.senate.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [CalMatters: Nevada Political Money Flows](https://calmatters.org/) (Tier 2) (VERIFIED)
-- ~~[Congressional Voting Record: Harry Reid](https://congress.gov/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -121,7 +117,6 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 | Bills Cosponsored | 0 |
 | Total Votes Cast | 11,661 |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300082)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -158,3 +153,13 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 
 - {{src:src_005396}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Nevada Secretary of State: Campaign Finance Database](https://sos.nv.gov/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Open Secrets: Harry Reid Donor Profile](https://www.opensecrets.org/politicians/harry-reid)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Senate Lobbying Disclosure: Nevada Gaming Industry](https://soprweb.senate.gov/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congressional Voting Record: Harry Reid](https://congress.gov/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/300082)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

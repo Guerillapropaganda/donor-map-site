@@ -161,7 +161,12 @@ Sam Seder represents **the progressive independent media model**, the audience-f
 - [Washington Post: "The odd episode of Sam Seder's firing, and rehiring, by MSNBC" (Dec 2017)](https://www.washingtonpost.com/lifestyle/style/the-odd-episode-of-sam-seders-firing--and-rehiring--by-msnbc/2017/12/07/4608ce02-db5d-11e7-a841-2066faf731ef_story.html) (Tier 2) (VERIFIED)
 - [The Majority Report. Official Support Page](https://majorityreportradio.com/support) (Tier 1) (VERIFIED)
 - [Patreon: The Majority Report with Sam Seder](https://www.patreon.com/MajorityReport) (Tier 1) (VERIFIED)
-- ~~[Wikipedia: Air America (radio network)](https://en.wikipedia.org/wiki/Air_America_(radio_network)~~ (URL broken, archived by Ops))) (Tier 3)
 - [Salon: "MSNBC backtracks, rehires Sam Seder" (Dec 2017)](https://www.salon.com/2017/12/07/msnbc-backtracks-rehires-sam-seder-after-firing-him-in-response-to-mike-cernovich-led-campaign/) (Tier 2) (VERIFIED)
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wikipedia: Air America (radio network)](https://en.wikipedia.org/wiki/Air_America_(radio_network)~~ (URL broken, archived by Ops))) (Tier 3)

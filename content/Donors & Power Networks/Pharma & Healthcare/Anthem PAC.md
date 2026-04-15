@@ -52,7 +52,6 @@ Anthem PAC's contribution pattern is aggressively bipartisan: the PAC funds comm
 
 ### Sources
 
-- ~~[OpenSecrets: Anthem/Elevance Health PAC](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000029305)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Health insurance PACs](https://ballotpedia.org/Anthem_PAC) (Tier 3) (VERIFIED)
 
 ---
@@ -68,3 +67,9 @@ Anthem PAC's contribution pattern is aggressively bipartisan: the PAC funds comm
 | NEW YORK STATE DEMOCRATIC COMMITTEE | $25.0K |
 
 > This section is regenerated from pipeline data. Do not hand-edit; update by re-running the pipeline and re-syncing.
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Anthem/Elevance Health PAC](https://www.opensecrets.org/orgs/elevance-health/summary?id=D000029305)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

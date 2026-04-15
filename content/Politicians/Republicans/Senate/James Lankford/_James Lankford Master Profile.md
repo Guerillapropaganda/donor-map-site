@@ -180,12 +180,8 @@ The pastoral background completes the picture. Lankford ran the largest Christia
 - [Senate.gov: James Lankford biography](https://www.lankford.senate.gov/about/bio/) (Tier 1) (VERIFIED)
 - [Senate.gov: Lankford committee assignments](https://www.lankford.senate.gov/about/committees/) (Tier 1) (VERIFIED)
 - [Senate.gov: Lankford secures wins for Oklahoma energy in One Big Beautiful Bill](https://www.lankford.senate.gov/news/press-releases/lankford-secures-major-wins-for-oklahoma-families-energy-producers-and-small-businesses-in-one-big-beautiful-bill/) (Tier 1) (VERIFIED)
-- ~~[Washington Post: Lankford defends bipartisan border bill after attacks by Trump, GOP](https://www.washingtonpost.com/politics/2024/01/28/border-bill-trump-lankford/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: Trump says border bill 'very bad' for Lankford's career](https://thehill.com/homenews/senate/4449600-trump-border-bill-very-bad-lankfords-career/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: Senate Republicans block border security bill](https://www.nbcnews.com/politics/congress/senate-republicans-block-border-security-bill-campaign-border-chaos-rcna153607) (Tier 2) (VERIFIED)
 - [NPR: Senate Republicans cast doubt on bipartisan border bill](https://www.npr.org/2024/11/14/nx-s1-5191708/gaetz-nomination-republicans-ethics-probe) (Tier 2) (VERIFIED)
-- ~~[Religion News: Lankford walks fine line, pastor and politician](https://religionnews.com/2017/07/11/amid-partisan-din-sen-james-lankford-walks-a-fine-line-pastor-and-politician/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Congress.gov: James Lankford](https://www.congress.gov/member/james-lankford/L000575)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: James Lankford](https://ballotpedia.org/James_Lankford) (Tier 3) (VERIFIED)
 - [Wikipedia: James Lankford](https://en.wikipedia.org/wiki/James_Lankford) (Tier 3) (VERIFIED)
 
@@ -249,5 +245,14 @@ The pastoral background completes the picture. Lankford ran the largest Christia
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/L000575)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Lankford defends bipartisan border bill after attacks by Trump, GOP](https://www.washingtonpost.com/politics/2024/01/28/border-bill-trump-lankford/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Trump says border bill 'very bad' for Lankford's career](https://thehill.com/homenews/senate/4449600-trump-border-bill-very-bad-lankfords-career/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Religion News: Lankford walks fine line, pastor and politician](https://religionnews.com/2017/07/11/amid-partisan-din-sen-james-lankford-walks-a-fine-line-pastor-and-politician/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: James Lankford](https://www.congress.gov/member/james-lankford/L000575)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/L000575)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

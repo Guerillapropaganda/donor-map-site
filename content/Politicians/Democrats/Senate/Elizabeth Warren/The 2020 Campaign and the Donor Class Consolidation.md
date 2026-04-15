@@ -244,7 +244,12 @@ The pilot model, demonstrate that an alternative is possible, then watch as the 
 - [Boston Globe: As crypto industry looks to widen its influence in Washington, Elizabeth Warren emerges as a target](https://www.bostonglobe.com/2024/03/15/metro/elizabeth-warren-reelection-crypto-industry/) (Tier 2) (VERIFIED)
 - [Salon: "Rife with fraud": Crypto industry PAC raises $200+ million to fight regulations](https://www.salon.com/2024/09/13/rife-with-fraud-crypto-industry-pac-raises-200-million-to-fight-regulations/) (Tier 2) (VERIFIED)
 - [U.S. Senator Elizabeth Warren: Warren Expands Coalition of Banking Committee Support for Crypto Anti-Money Laundering Bill](https://www.warren.senate.gov/newsroom/press-releases/warren-expands-coalition-of-banking-committee-support-for-bill-cracking-down-on-cryptos-use-in-money-laundering-drug-trafficking-sanctions-evasion) (Tier 1) (VERIFIED)
-- ~~[CNN Politics: Where Elizabeth Warren's supporters may go after she drops out of 2020 race](https://www.cnn.com/2020/03/06/politics/elizabeth-warren-supporters-next-where-to/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CNN Politics: Where Elizabeth Warren's supporters may go after she drops out of 2020 race](https://www.cnn.com/2020/03/06/politics/elizabeth-warren-supporters-next-where-to/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

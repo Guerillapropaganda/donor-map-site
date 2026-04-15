@@ -202,7 +202,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 - United States v. Arnold (2025) - District Court, N.D. Texas
 - Jensen v. Bureau Of Alcohol, Tobacco, Firearms And Explosives (2025) - District Court, N.D. Texas
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing - 2023)
@@ -298,3 +297,9 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Everytown%20for%20Gun%20Safety%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Everytown%20for%20Gun%20Safety%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

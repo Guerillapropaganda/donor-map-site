@@ -134,7 +134,6 @@ Environment, wildfires, utility regulation, clean energy, NEM 3.0, Diablo Canyon
 - [SF Chronicle: PG&E guilty plea](https://www.sfchronicle.com/california-wildfires/article/PG-E-pleads-guilty-to-84-counts-of-involuntary-15331371.php) (Tier 2) (VERIFIED)
 - [CalMatters: California lobbying spending tracker](https://calmatters.org/data/2025/04/california-lobbying-spending-2024/) (Tier 2) (VERIFIED)
 - [FPPC: Contribution filings / behested payment database](https://cal-access.sos.ca.gov/Campaign/Committees/list.aspx?page=1) (Tier 1) (VERIFIED)
-- ~~[FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -212,3 +211,9 @@ A.	PROJECT |
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/e7960645-6ba4-f6dd-b4d7-32e054308c08-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FPPC: Newsom stipulation Nov. 2024 $13K fine](https://lunar.fppc.ca.gov/content/dam/fppc/documents/Stipulations/2024/november/5-Newsom-for-Governor-2018-Stip.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

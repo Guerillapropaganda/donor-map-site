@@ -248,7 +248,6 @@ party:: Democrat
 - Defense
 - Modernization and Innovation
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 <!-- auto:committee-assignments pending-merge 2026-04-15 -->
@@ -298,7 +297,6 @@ party:: Democrat
 | 5918 | Protect Law Enforcement Task Forces Act | Referred to the House Committee on the Judiciary. |
 | 726 | Supporting the recognition of September 16, 2025, as "National Voter Registratio… | Referred to the House Committee on House Administration. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/M001206)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 <!-- auto:congress-legislation pending-merge 2026-04-15 -->
@@ -362,7 +360,6 @@ party:: Democrat
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -391,3 +388,11 @@ Joseph D. Morelle is an American politician serving as the U.S. representative f
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6285623) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/M001206)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

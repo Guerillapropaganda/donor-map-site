@@ -202,8 +202,6 @@ The fragmentation of Democratic House spending (DCCC, HMP, progressive super PAC
 - [OpenSecrets: House Majority PAC Summary](https://www.opensecrets.org/political-action-committees-pacs/house-majority-pac/C00495028/summary/2024) (Tier 1) (VERIFIED)
 - {{src:src_009660}} (Tier 1) (NEEDS REVIEW)
 - [FactCheck.org: House Majority PAC](https://www.factcheck.org/2024/04/house-majority-pac-7/) (Tier 2) (VERIFIED)
-- ~~[Axios: Jeffries Super PAC 2026 Strategy](https://www.axios.com/2024/12/13/jeffries-2026-elections-republican-seats)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [National Review: House Majority PAC Working Class Outreach 2026](https://www.nationalreview.com/corner/house-democrats-main-super-pac-dedicates-50-million-to-working-class-voter-outreach-in-2026/) (Tier 3) (VERIFIED)
 - [NOTUS: Super PAC Encroaching on DCCC Territory](https://www.notus.org/2026-election/dccc-super-pac-campaigns) (Tier 2) (VERIFIED)
 
@@ -241,7 +239,6 @@ The fragmentation of Democratic House spending (DCCC, HMP, progressive super PAC
 - Jastram v. Nextera Energy, Inc. (2023) — District Court, S.D. Florida
 - People of The State of New York v. Trump (2023) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22House%20Majority%20PAC%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -255,5 +252,13 @@ The fragmentation of Democratic House spending (DCCC, HMP, progressive super PAC
 
 - 2023-03-16 — **10-K**: 10-K
 
-- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22House%20Majority%20PAC%22)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Jeffries Super PAC 2026 Strategy](https://www.axios.com/2024/12/13/jeffries-2026-elections-republican-seats)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22House%20Majority%20PAC%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22House%20Majority%20PAC%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

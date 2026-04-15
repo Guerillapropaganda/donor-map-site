@@ -68,5 +68,10 @@ The reconciliation follows the standard donor-class pattern: Trump needs Senate 
 
 - [NBC News: Senate Republicans elect John Thune as their new leader, replacing Mitch McConnell](https://www.nbcnews.com/politics/congress/senate-republicans-choose-new-leader-mitch-mcconnell-steps-rcna179670) (Tier 2) (VERIFIED)
 - [CNN: Who is John Thune, the next Senate majority leader?](https://edition.cnn.com/2024/11/13/politics/john-thune-senate-republican-leader/) (Tier 2) (VERIFIED)
-- ~~[Axios: Thune cuts $4 million check in major leadership play](https://www.axios.com/2024/09/10/john-thune-senate-gop-leadership-race-money-2024-election)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Republican leadership elections: John Thune, Mike Johnson picked by their party](https://www.npr.org/2024/11/13/nx-s1-5188585/house-senate-republican-leadership) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: Thune cuts $4 million check in major leadership play](https://www.axios.com/2024/09/10/john-thune-senate-gop-leadership-race-money-2024-election)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

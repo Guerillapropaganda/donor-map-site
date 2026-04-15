@@ -109,5 +109,10 @@ The post-government career is the return on the Koch investment, not direct paym
 - [Hudson Institute: Pompeo as Distinguished Fellow](https://www.hudson.org/experts/1357-michael-r-pompeo) (Tier 2) (VERIFIED)
 - [Fox News: Pompeo joins Hudson Institute](https://www.foxnews.com/politics/mike-pompeo-hudson-institute-washington-dc) (Tier 2) (VERIFIED)
 - [Wikipedia: Mike Pompeo, full biography](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Mike Pompeo. Koch connections](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Mike Pompeo. Koch connections](https://sourcewatch.org/index.php/Mike_Pompeo)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

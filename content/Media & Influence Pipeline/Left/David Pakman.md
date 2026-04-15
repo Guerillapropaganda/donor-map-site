@@ -155,7 +155,6 @@ David Pakman represents **the institutionally connected left**, progressive medi
 - [Wikipedia: The David Pakman Show](https://en.wikipedia.org/wiki/The_David_Pakman_Show) (Tier 3) (VERIFIED)
 - [Wikipedia: Sixteen Thirty Fund](https://en.wikipedia.org/wiki/Sixteen_Thirty_Fund) (Tier 3) (VERIFIED)
 - [Yahoo News/NY Post: "Dark money group paying pro-Dem influencers up to $8K a month: report" (Aug 28, 2025)](https://www.yahoo.com/news/articles/dark-money-group-paying-pro-144141433.html) (Tier 2) (VERIFIED)
-- ~~[Wired: Taylor Lorenz, "A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers" (Aug 27, 2025)](https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Current Affairs: "How Top 'Progressive' Influencers Compromised Their Independence"](https://www.currentaffairs.org/news/how-top-progressive-influencers-compromised-their-independence) (Tier 2) (VERIFIED)
 - [Mediaite: "Brian Tyler Cohen Tears Apart Taylor Lorenz Report for Wired" (Aug 2025)](https://www.mediaite.com/media/news/progressive-youtuber-savagely-tears-apart-taylor-lorenzs-report-on-dark-money-group-funding-dem-influencers/) (Tier 2) (VERIFIED)
 - [Jerusalem Post: "Is this Jewish podcaster the progressive answer to Ben Shapiro?" (Alan Zeitlin, Jul 2023)](https://www.jpost.com/diaspora/article-751813) (Tier 2) (VERIFIED)
@@ -163,3 +162,9 @@ David Pakman represents **the institutionally connected left**, progressive medi
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wired: Taylor Lorenz, "A Dark Money Group Is Secretly Funding High-Profile Democratic Influencers" (Aug 27, 2025)](https://www.wired.com/story/a-dark-money-group-is-secretly-funding-high-profile-democratic-influencers/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

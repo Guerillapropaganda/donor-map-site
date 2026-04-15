@@ -251,13 +251,11 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - [NPR: Amazon Union. Third Election Ordered at Bessemer](https://www.npr.org/2021/04/09/982139494/its-a-no-amazon-warehouse-workers-vote-against-unionizing-in-historic-election) (Tier 2) (VERIFIED)
 - [NPR: Washington Post Non-Endorsement and Bezos](https://www.npr.org/2024/10/28/nx-s1-5168416/washington-post-bezos-endorsement-president-cancellations-resignations) (Tier 2) (VERIFIED)
 - [Labor Notes: Amazon Workers at Staten Island Clinch Historic Victory](https://labornotes.org/2022/04/amazon-workers-staten-island-clinch-historic-victory) (Tier 2) (VERIFIED)
-- ~~[The Hill: Amazon Spent Unmatched $14.2M on Anti-Union Consultants](https://thehill.com/business/3931442-amazon-spent-unmatched-14-million-on-labor-consultants-in-anti-union-push/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Engadget: Amazon Spent $4.3M on Anti-Union Consultants in 2021](https://www.engadget.com/amazon-spent-43-million-on-anti-union-consultants-in-2021-alone-082051777.html) (Tier 2) (VERIFIED)
 - [Engadget: NLRB. Amazon Illegally Fired Union Organizer in New York](https://www.engadget.com/nlrb-amazon-illegally-fired-union-organizer-new-york-101549596.html) (Tier 2) (VERIFIED)
 - [The Intercept: Senate Prepping $10 Billion Bailout Fund for Bezos Space Firm](https://theintercept.com/2021/05/25/jeff-bezos-blue-origin-senate-bailout/) (Tier 2) (VERIFIED)
 - [The Daily Beast: Bezos WaPo Non-Endorsement and Blue Origin Conflict](https://www.thedailybeast.com/is-this-the-reason-jeff-bezos-owned-washington-post-didnt-endorse-kamala-harris-blue-origin-donald-trump/) (Tier 2) (VERIFIED)
 - [Washington Post: Amazon HQ2 to benefit from more than $2.4 billion in incentives from Virginia, New York and Tennessee](https://www.washingtonpost.com/local/virginia-news/amazon-hq2-to-receive-more-than-28-billion-in-incentives-from-virginia-new-york-and-tennessee/2018/11/13/f3f73cf4-e757-11e8-a939-9469f1166f9d_story.html) (Tier 2) (VERIFIED)
-- ~~[CNN: Amazon Cancels New York HQ2](https://www.cnn.com/2019/02/tech/amazon-hq2-nyc)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Nation: Amazon Injury Rates 2021-2022](https://www.thenation.com/article/economy/amazon-injury-rate/) (Tier 2) (VERIFIED)
 - [Data Center Dynamics: CIA Gives Amazon $600M Cloud Contract](https://www.datacenterdynamics.com/en/news/report-cia-gives-amazon-us600m-cloud-contract/) (Tier 2) (VERIFIED)
 - [Teamsters: NLRB Doubles Down. Amazon Is Joint Employer](https://teamster.org/2024/10/nlrb-doubles-down-amazon-is-a-joint-employer/) (Tier 2) (VERIFIED)
@@ -481,7 +479,6 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - ~~[MPINOI Adult Portable Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Bioenrrty](https://www.cpsc.gov/Recalls/26350)~~ (URL broken, archived by Ops) (2026-03-26) - The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail, or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.
 - ... and 278 more
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Court Records (CourtListener)
@@ -500,7 +497,6 @@ Amazon is the most complete case study in the vault of how a single corporation 
 - Leavell v. Amazon Fulfillment Center BOIS (2026) - District Court, D. Idaho
 - Baldacci v. Amazon.com (2026) - District Court, W.D. Washington
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -517,3 +513,12 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Amazon Spent Unmatched $14.2M on Anti-Union Consultants](https://thehill.com/business/3931442-amazon-spent-unmatched-14-million-on-labor-consultants-in-anti-union-push/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN: Amazon Cancels New York HQ2](https://www.cnn.com/2019/02/tech/amazon-hq2-nyc)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Amazon)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Amazon%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

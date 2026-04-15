@@ -177,7 +177,6 @@ The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to
 - [OpenSecrets: Defense contractors spent $70 million lobbying ahead of NDAA](https://www.opensecrets.org/news/2023/10/defense-contractors-spent-70-million-lobbying-ahead-of-annual-defense-budget-bill-ndaa/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Revolving door lobbyists help defense contractors in 2023](https://www.opensecrets.org/news/2023/05/revolving-door-lobbyists-help-defense-contractors-get-off-to-strong-start-in-2023/) (Tier 1) (VERIFIED)
 - [Congress.gov: H.R.2670. National Defense Authorization Act for Fiscal Year 2024](https://www.congress.gov/bill/118th-congress/house-bill/2670) (Tier 1) (VERIFIED)
-- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2) (VERIFIED)
 - [Quincy Institute: Profits of War. Top Beneficiaries of Pentagon Spending, 2020-2024](https://quincyinst.org/research/profits-of-war-top-beneficiaries-of-pentagon-spending-2020-2024/) (Tier 2) (VERIFIED)
 - [Quincy Institute: Defense Contractor Funded Think Tanks Dominate Ukraine Debate](https://quincyinst.org/research/defense-contractor-funded-think-tanks-dominate-ukraine-debate/) (Tier 2) (VERIFIED)
@@ -187,3 +186,9 @@ The Both-Sides Illusion operates at sector scale. Lockheed Martin gave $2.47M to
 - [Jacobin: The Publicly Funded Defense Contractor Revolving Door](https://jacobin.com/2024/04/pentagon-fellows-program-sdef-defense-contractors) (Tier 2) (VERIFIED)
 - [Sen. Elizabeth Warren: At Hearing, Warren Blasts Revolving Door Between DoD and Defense Contractors](https://www.warren.senate.gov/newsroom/press-releases/icymi-at-hearing-warren-blasts-revolving-door-between-dod-and-giant-defense-contractors-calls-for-sweeping-ethics-legislation) (Tier 1) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Brass Parachutes. The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

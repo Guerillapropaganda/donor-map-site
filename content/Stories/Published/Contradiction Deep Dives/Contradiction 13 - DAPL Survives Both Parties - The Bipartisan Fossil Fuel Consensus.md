@@ -117,12 +117,9 @@ This is not a bug in Democratic strategy. It is the feature. The party performs 
 - [CNN: Trump advances Keystone and DAPL with executive actions, January 24, 2017](https://www.cnn.com/2017/01/24/politics/trump-keystone-xl-dakota-access-pipelines-executive-actions/index.html) (Tier 2) (VERIFIED)
 - [NBC News: Trump signs orders advancing Keystone and Dakota Access pipelines](https://www.nbcnews.com/politics/white-house/trump-sign-orders-advancing-keystone-dakota-access-pipelines-n711321) (Tier 2) (VERIFIED)
 - [ACLU: President Trump Issues Executive Order Allowing Construction of Dakota Access Pipeline](https://www.aclu.org/press-releases/president-trump-issues-executive-order-allowing-construction-dakota-access-pipeline) (Tier 2) (VERIFIED)
-- ~~[The Hill: Biden administration will not shut down Dakota Access Pipeline, April 2021](https://www.thehill.com/changing-america/sustainability/environment/547730-despite-campaign-promise-biden-administration/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Biden administration will not shut down DAPL during environmental review](https://www.cnn.com/2021/04/09/politics/dakota-access-pipeline-biden-administration/index.html) (Tier 2) (VERIFIED)
-- ~~[Sierra Club: Biden Faced His First Test on DAPL. He Flunked, April 2021](https://www.sierceclub.org/articles/2021/04/biden-faced-his-first-test-dapl-he-flunked)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [E&E News: Kelcy Warren donated $100K+ to Trump campaign](https://www.eenews.net/articles/billionaire-kelcy-warren-invests-in-pipelines-and-trump/) (Tier 2) (VERIFIED)
 - [E&E News: Dakota Access CEO gives $10M to boost Trump](https://web.archive.org/web/2022/https:/www.eenews.net/stories/1063714447) (Tier 2) (NEEDS REVIEW)
-- ~~[Greenpeace: A brief history of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Texas Observer: After Kelcy Warren's Energy Transfer Made $2.4B from Texas Blackouts, He Gave $1M to Greg Abbott](https://www.texasobserver.org/after-kelcy-warrens-energy-transfer-partners-made-billions-from-the-deadly-texas-blackouts-he-gave-1-million-to-greg-abbott/) (Tier 2) (VERIFIED)
 - [KVUE: Energy company made $2.4 billion during Texas winter storm power outages](https://www.kvue.com/article/news/verify/verify-yes-this-energy-company-made-24-billion-during-the-texas-winter-storm-power-outages/269-393e85c7-528f-4b68-bd9a-48f43c4d8436) (Tier 2) (VERIFIED)
 - [Wikipedia: Dakota Access Pipeline](https://en.wikipedia.org/wiki/Dakota_Access_Pipeline) (Tier 3) (VERIFIED)
@@ -130,3 +127,11 @@ This is not a bug in Democratic strategy. It is the feature. The party performs 
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Biden administration will not shut down Dakota Access Pipeline, April 2021](https://www.thehill.com/changing-america/sustainability/environment/547730-despite-campaign-promise-biden-administration/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Sierra Club: Biden Faced His First Test on DAPL. He Flunked, April 2021](https://www.sierceclub.org/articles/2021/04/biden-faced-his-first-test-dapl-he-flunked)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Greenpeace: A brief history of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -152,11 +152,16 @@ AB 1228's fast food council is the exemplar: a visible, measurable program that 
 
 ### Sources
 - [Ballotpedia: Prop 22 campaign finance](https://ballotpedia.org/California_Proposition_22,_App-Based_Drivers_as_Contractors_and_Labor_Policies_Initiative_%282020%29) (Tier 1) (VERIFIED)
-- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Mercury News: Uber Innovation PAC 2024](https://www.mercurynews.com/2024/11/05/big-spenders-these-companies-are-giving-the-most-to-california-legislative-candidates/) (Tier 2) (VERIFIED)
 - [OpenSecrets: Uber, Lyft, DoorDash profiles](https://www.opensecrets.org/members-of-congress/summary?name=Labor) (Tier 1) (VERIFIED)
-- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Transparency USA: Uber Innovation PAC](https://www.transparencyusa.org/ca/committee/uber-innovation-pac-1439102-rcp) (Tier 2) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Newsom recall donors](https://calmatters.org/category/politics/2021/10/newsom-recall-big-donors/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Flex Association](https://thehill.com/business-a-lobbying/business-a-lobbying/597404-gig-companies-launch-lobbying-group-to-counter-pro/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

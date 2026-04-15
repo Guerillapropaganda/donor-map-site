@@ -358,7 +358,6 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Bernie Sanders](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 
@@ -388,5 +387,11 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S000033)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bernie Sanders](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S000033)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -253,7 +253,6 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 | 10/11/2018 | MTUM | Purchase | $1,001 - $15,000 | Self |
 | 10/09/2018 | -- | exchange | $1,001 - $15,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 <!-- auto:stock-trades pending-merge 2026-04-15 -->
@@ -379,7 +378,13 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 **Sources**
 
-- ~~[Congress.gov: John Kennedy](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)
 - [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: John Kennedy](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)

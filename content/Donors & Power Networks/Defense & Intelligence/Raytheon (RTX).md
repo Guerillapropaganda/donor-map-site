@@ -404,8 +404,6 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [OpenSecrets: RTX Corp Profile](https://www.opensecrets.org/orgs/rtx-corp/summary?id=D000072615) (Tier 1) (VERIFIED)
 - [OpenSecrets: RTX PAC Candidate Recipients 2024](https://www.opensecrets.org/political-action-committees-pacs/rtx-corp/C00097568/candidate-recipients/2024) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: RTX Lobbying Profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [RTX 2025 Annual Results](https://www.rtx.com/news/news-center/2026/01/27/rtx-reports-2025-results-and-announces-2026-outlook/) (VERIFIED)
 - [RTX 2024 Annual Results](https://raytheon.mediaroom.com/2025-01-28-RTX-Reports-2024-Results-and-Announces-2025-Outlook) (VERIFIED)
 - [House Foreign Affairs Committee: Faulkner deposition excerpts](https://democrats-foreignaffairs.house.gov/_cache/files/9/7/974fcf1a-f596-4775-b15d-c543996d12fe/E1BDC43C68CEB64B31CF8C5ADB217899.faulkner-excerpts.pdf) (VERIFIED)
@@ -417,12 +415,8 @@ RTX represents the defense sector's structural capture of the American state. Th
 - [OpenSecrets: Yemen arms sales lobbying case study](https://www.opensecrets.org/news/reports/capitalizing-on-conflict/yemen-case-study) (VERIFIED)
 - [Business Insider: Raytheon PAC donations during Ukraine vote (May 2022)](https://www.businessinsider.com/raytheon-stinger-javelin-congress-ukraine-pac-spending-2022-5) (VERIFIED)
 - [The Intercept: Lloyd Austin and Raytheon Board](https://theintercept.com/2020/12/08/biden-defense-secretary-lloyd-austin-raytheon/) (VERIFIED)
-- ~~[Bloomberg: Austin financial disclosure](https://www.bloomberg.com/news/articles/2021-01-10/biden-defense-pick-to-get-up-to-1-7-million-from-raytheon-role)~~ (URL broken, archived by Ops)
-- ~~[The Hill: Austin could make up to $1.7M from Raytheon role](https://thehill.com/policy/defense/533631-biden-pentagon-pick-could-make-up-to-17m-from-leaving-raytheon/)~~ (URL broken, archived by Ops)
-- ~~[POGO: Brass Parachutes revolving door report](https://www.pogo.org/reports/brass-parachutes)~~ (URL broken, archived by Ops)
 - [Jacobin: Pentagon SDEF fellows program](https://jacobin.com/2024/04/pentagon-fellows-program-sdef-defense-contractors) (VERIFIED)
 - [Defense One: Austin recusal pledge](https://www.defenseone.com/business/2021/01/austin-pledges-recuse-himself-military-decisions-involving-raytheon/171496/) (VERIFIED)
-- ~~[NYT: Democrats scrutinize Faulkner's role in arms sales](https://www.nytimes.com/2019/06/11/us/politics/democrats-charles-faulkner-arms-sales.html)~~ (URL broken, archived by Ops)
 - [Salon: $8 billion Saudi arms deal and Faulkner](https://www.salon.com/2020/05/20/scandal-at-state-a-huge-arms-deal-a-revolving-door-lobbyist-and-the-fired-inspector-general/) (VERIFIED)
 - [Truthout: Yemen crisis and Raytheon influence](https://truthout.org/articles/yemen-crisis-linked-to-weapons-maker-raytheons-influence-on-us-foreign-policy/) (VERIFIED)
 - [The Nation: Yemen lobbying firms](https://www.thenation.com/article/archive/tom-dispatch-lobbying-firms-yemen/) (VERIFIED)
@@ -641,3 +635,14 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation) (VERIFIED)) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Mark Esper Revolving Door Profile](https://www.opensecrets.org/revolving-door/esper-mark/summary?id=70733)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[OpenSecrets: Lloyd Austin Revolving Door Profile](https://www.opensecrets.org/revolving-door/lloyd-austin/summary?id=82688)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Bloomberg: Austin financial disclosure](https://www.bloomberg.com/news/articles/2021-01-10/biden-defense-pick-to-get-up-to-1-7-million-from-raytheon-role)~~ (URL broken, archived by Ops)
+- ~~[The Hill: Austin could make up to $1.7M from Raytheon role](https://thehill.com/policy/defense/533631-biden-pentagon-pick-could-make-up-to-17m-from-leaving-raytheon/)~~ (URL broken, archived by Ops)
+- ~~[POGO: Brass Parachutes revolving door report](https://www.pogo.org/reports/brass-parachutes)~~ (URL broken, archived by Ops)
+- ~~[NYT: Democrats scrutinize Faulkner's role in arms sales](https://www.nytimes.com/2019/06/11/us/politics/democrats-charles-faulkner-arms-sales.html)~~ (URL broken, archived by Ops)

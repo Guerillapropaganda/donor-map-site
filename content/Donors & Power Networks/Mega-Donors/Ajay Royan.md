@@ -202,8 +202,13 @@ His structural function is threefold:
 - Mithril GP Employee Feeder LLC v. Crystal Scripps McKellar (2019) — District Court, D. Delaware
 - McKellar v. Mithril Capital Management LLC (2019) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ajay%20Royan%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ajay%20Royan%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

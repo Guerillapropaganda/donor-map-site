@@ -115,5 +115,10 @@ Source: [[Fairshake PAC]] vault entry.
 - Securities and Exchange Commission v. Ripple Labs Inc. (2024) — Court of Appeals for the Second Circuit
 - Schuster v. Crawford (2024) — District Court, S.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brad%20Garlinghouse%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brad%20Garlinghouse%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -234,7 +234,6 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 - Riskon International, Inc. v. Zest Labs Holdings, LLC (2025) — District Court, D. Nevada
 - CLEAR Clinic v. Noem (2025) — District Court, D. Oregon
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -274,3 +273,9 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Las%20Vegas%20Sands) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Las%20Vegas%20Sands%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

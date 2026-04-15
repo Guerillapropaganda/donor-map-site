@@ -202,12 +202,10 @@ The class function is pipeline operator. Peters does not generate progressive po
 
 - {{src:src_005413}} (Tier 1) (VERIFIED)
 - {{src:src_005416}} (Tier 1) (VERIFIED)
-- ~~[POGO: Representatives Are Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [Common Dreams: Report Reveals 50+ US Lawmakers Hold Military Stocks](https://www.commondreams.org/news/members-of-congress-who-own-defense-stock) (Tier 2) (VERIFIED)
 - [Washington Post: Senator Gary Peters Is Overseeing a Boom in Cyber Bills](https://www.hsgac.senate.gov/media/dems/washington-post-senator-gary-peters-is-overseeing-a-boom-in-cyber-bills/) (Tier 2) (VERIFIED)
 - [DSCC: Peters to Return as DSCC Chair for 2024 Cycle](https://www.dscc.org/article/following-historic-victories-sen-gary-peters-to-return-as-dscc-chair-for-2024-cycle/) (Tier 1) (VERIFIED)
 - [Roll Call: DSCC Chair Peters Tapped for Plum Senate Appropriations Seat](https://rollcall.com/2023/01/26/dscc-chair-peters-tapped-for-plum-senate-appropriations-seat/) (Tier 2) (VERIFIED)
-- ~~[Detroit News: Michigan's Peters-James Senate Race Heads Toward Record Spending](https://www.detroitnews.com/story/news/politics/2020/10/09/michigan-u-s-senate-races-turns-into-total-air-war-covid-19-era/3578413001/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [Jacobin: Senate Democrats' Machine Spent $15 Million to Destroy Progressive Candidates](https://jacobin.com/2020/07/senate-democrats-majority-pac-dscc) (Tier 2) (VERIFIED)
 - [Wikipedia: Gary Peters](https://en.wikipedia.org/wiki/Gary_Peters) (Tier 3) (VERIFIED)
 - [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3) (VERIFIED)
@@ -244,7 +242,6 @@ party:: Democrat
 | 11/30/2016 | CVS | Purchase | $1,001 - $15,000 | Self |
 | 11/25/2015 | -- | Purchase | $1,001 - $15,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ## Voting Record
@@ -296,7 +293,6 @@ party:: Democrat
 
 **Sources**
 
-- ~~[Congress.gov: Gary Peters](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)
 - [GovTrack: Gary Peters](https://www.govtrack.us/congress/members/412305) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -343,3 +339,12 @@ party:: Democrat
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Representatives Are Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Detroit News: Michigan's Peters-James Senate Race Heads Toward Record Spending](https://www.detroitnews.com/story/news/politics/2020/10/09/michigan-u-s-senate-races-turns-into-total-air-war-covid-19-era/3578413001/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Gary Peters](https://www.congress.gov/member/a000383)~~ (archived - wrong bioguide ID from pipeline bug, needs correct ID on next run)

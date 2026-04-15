@@ -308,7 +308,6 @@ Northrop Grumman represents the defense sector's most refined form of structural
 - [Federal News Network: DoD Plans to Spend Entire $152B in One Year](https://federalnewsnetwork.com/defense-main/2026/02/dod-plans-to-spend-entire-152-billion-from-reconciliation-bill-in-one-year/) (Tier 2) (VERIFIED)
 - [The War Zone: Troubled Sentinel ICBM Program Still Being Restructured](https://www.twz.com/nuclear/troubled-sentinel-icbm-program-still-being-restructured-nearly-two-years-after-cost-breach) (Tier 2) (VERIFIED)
 - [Federation of American Scientists: The Two-Hundred Billion Dollar Boondoggle](https://fas.org/publication/the-two-hundred-billion-dollar-boondoggle/) (Tier 2) (VERIFIED)
-- ~~[POGO: Brass Parachutes — The Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [POGO: Northrop Grumman Uses B-21 to Push Inflation Bailout](https://www.pogo.org/analyses/northrop-grumman-uses-b-21-program-to-push-unproven-inflation-bailout) (Tier 2) (VERIFIED)
 - [Military.com: Former Air Force Chief of Staff Joins Northrop Board](https://www.military.com/dodbuzz/2016/12/09/revolving-door-air-force-chief-northrop) (Tier 2) (VERIFIED)
 - [Defense News: Defense Firms Donate Millions to Election-Denying Lawmakers](https://www.defensenews.com/congress/2022/11/02/largest-defense-firms-donate-millions-to-election-denying-lawmakers/) (Tier 2) (VERIFIED)
@@ -334,7 +333,6 @@ Northrop Grumman represents the defense sector's most refined form of structural
 **Pattern flags:** Donor-Class Override (war spending continues despite no congressional authorization), Both-Sides Illusion (bipartisan defense spending consensus maintained while performative opposition votes fail).
 
 - [UPI: Senate Republicans again block Democrats' effort to stop Trump's Iran war](https://www.upi.com/Top_News/US/2026/03/25/Senate-Republicans-war-powers-vote/5791774418726/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Senate shoots down Iran war powers measure; Fetterman, Paul cross aisle](https://thehill.com/homenews/senate/5799286-iran-war-powers-resolution-defeated/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [TIME: Iran War May Give Defense Contractors $200 Billion Windfall](https://time.com/article/2026/03/19/trump-iran-war-set-to-boost-profits-for-these-defense-contractors/) (Tier 2) (VERIFIED)
 
 ---
@@ -632,11 +630,6 @@ Northrop Grumman represents the defense sector's most refined form of structural
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/956095343) (Tier 1) (VERIFIED)
@@ -670,3 +663,15 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[POGO: Brass Parachutes - The Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Senate shoots down Iran war powers measure; Fetterman, Paul cross aisle](https://thehill.com/homenews/senate/5799286-iran-war-powers-resolution-defeated/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/956095343/2019)~~ (URL broken, archived by Ops)

@@ -104,7 +104,12 @@ California's legal resistance to Trump is framed as a model of federalism and st
 
 ### Sources
 - [US Department of Homeland Security: Deportation statistics and enforcement data](https://ohss.dhs.gov) (Tier 1) (VERIFIED)
-- ~~[CalMatters: The lawsuits California won and lost against Donald Trump](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[LA Times: Special session and immigration focus](https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Migration Policy Institute: Comparing the Biden and Trump Deportation Records](https://www.migrationpolicy.org/article/biden-deportation-record) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: The lawsuits California won and lost against Donald Trump](https://calmatters.org/category/politics/2025/01/california-lawsuits-against-donald-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[LA Times: Special session and immigration focus](https://www.latimes.com/california/story/2025-01-06/newsom-special-session-trump)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

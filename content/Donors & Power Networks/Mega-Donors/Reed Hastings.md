@@ -162,9 +162,7 @@ The Hastings funding also shows **donor-class override of constituency interests
 
 ### Sources
 
-- ~~[OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Capital & Main: Reed Hastings. Netflix CEO Goes Nuclear on Public Schools](https://capitalandmain.com/reed-hastings-the-disrupter-1101) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Charter school funding by mega-donors](https://ballotpedia.org/School_choice) (Tier 3) (VERIFIED)
 
 ---
@@ -199,7 +197,6 @@ The Hastings funding also shows **donor-class override of constituency interests
 - Sun v. Bloomberg, L.P. (2025) — District Court, D. Delaware
 - In re: Kotevski (2025) — Court of Appeals for the Tenth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reed%20Hastings%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -262,3 +259,11 @@ The Hastings funding also shows **donor-class override of constituency interests
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Reed%20Hastings) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Reed Hastings donor profile](https://www.opensecrets.org/individuals/reed-hastings/summary)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[CalMatters: Education foes fight to a draw in Sacramento](https://calmatters.org/category/education/2017/09/education-foes-fight-draw-sacramento/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Reed%20Hastings%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

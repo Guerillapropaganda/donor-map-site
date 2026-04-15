@@ -169,7 +169,6 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 - [Office of the Secretary: Secretary of Labor Alexander Acosta bio](https://web.archive.org/web/2021/https:/www.dol.gov/sites/dolgov/files/OSEC/official-bio-acosta.pdf) (Tier 1) (NEEDS REVIEW)
 - [Miller Center: R. Alexander Acosta (2017-2019)](https://millercenter.org/r-alexander-acosta-2017-2019) (Tier 2) (VERIFIED)
 - [PBS NewsHour: The 'completely unprecedented' plea deal](https://www.pbs.org/newshour/show/the-completely-unprecedented-plea-deal-jeffrey-epstein-made-with-alex-acosta) (Tier 2) (VERIFIED)
-- ~~[SHRM: Labor Secretary Acosta Talks About Deregulation, Gig Economy](https://web.archive.org/web/2018/https:/www.shrm.org/topics-tools/employment-law-compliance/labor-secretary-acosta-talks-about-deregulation-gig-economy.aspx)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [FIU News: FIU Law Dean Acosta nominated for U.S. labor secretary post](https://newsarchives.fiu.edu/2017/02/fiu-law-dean-acosta-nominated-for-u-s-labor-secretary-post) (Tier 3) (VERIFIED)
 - [House Oversight Committee: Epstein Prosecutor Acosta Interview Transcript](https://oversightdemocrats.house.gov/news/press-releases/oversight-democrats-statement-public-release-epstein-prosecutor-and-former) (Tier 2) (VERIFIED)
 - [NELP: On the Confirmation of Alexander Acosta as Labor Secretary](https://www.nelp.org/on-the-confirmation-of-alexander-acosta-as-labor-secretary/) (Tier 2) (VERIFIED)
@@ -184,5 +183,11 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Alexander Acosta](https://www.congress.gov/member/a000383)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SHRM: Labor Secretary Acosta Talks About Deregulation, Gig Economy](https://web.archive.org/web/2018/https:/www.shrm.org/topics-tools/employment-law-compliance/labor-secretary-acosta-talks-about-deregulation-gig-economy.aspx)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Alexander Acosta](https://www.congress.gov/member/a000383)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

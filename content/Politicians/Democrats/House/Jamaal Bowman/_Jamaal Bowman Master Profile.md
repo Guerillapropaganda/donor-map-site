@@ -318,12 +318,10 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 - {{src:src_006137}} (Tier 1)
 - [FEC: Independent expenditures opposing Bowman](https://www.fec.gov/data/independent-expenditures/?candidate_id=H0NY16143&support_oppose_indicator=O) (Tier 1) (VERIFIED)
 - [FEC: United Democracy Project IE filings against Bowman](https://www.fec.gov/data/independent-expenditures/?q_spender=united+democracy+project&candidate_id=H0NY16143) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jamaal Bowman voting record](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
 - [The Intercept: George Latimer rakes in AIPAC cash to primary Bowman](https://theintercept.com/2024/02/01/george-latimer-aipac-donors-jamaal-bowman/) (Tier 2) (VERIFIED)
 - [The Intercept: AIPAC spends $2 million to attack Bowman](https://theintercept.com/2024/05/16/aipac-jamaal-bowman-attack-ads-george-latimer/) (Tier 2) (VERIFIED)
 - [The Intercept: Progressives on AIPAC beating Bowman](https://theintercept.com/2024/06/26/jamaal-bowman-primary-aipac-latimer/) (Tier 2) (VERIFIED)
-- ~~[Axios: Democrats groan at AIPAC's $14.5M against Bowman](https://www.axios.com/2024/06/26/democrats-aipac-jamaal-bowman-george-latimer)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Jamaal Bowman censured after pulling fire alarm](https://www.washingtonpost.com/politics/2023/12/07/jamaal-bowman-censure-fire-alarm/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Jamaal Bowman](https://ballotpedia.org/Jamaal_Bowman) (Tier 3) (VERIFIED)
 
@@ -388,7 +386,6 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 <!-- auto:committee-assignments pending-merge 2026-04-15 -->
@@ -427,7 +424,6 @@ _No committee data found._
 | 5784 | Green New Deal for Public Schools Act of 2023 | Referred to the House Committee on Education and the Workforce. |
 | 4900 | Fair College Admissions for Students Act | Referred to the House Committee on Education and the Workforce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001223)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 <!-- auto:congress-legislation pending-merge 2026-04-15 -->
@@ -508,7 +504,6 @@ _No committee data found._
 
 **Sources**
 
-- ~~[Congress.gov: Jamaal Bowman](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -556,3 +551,13 @@ Jamaal Anthony Bowman is an American politician and former educator who served f
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamaal_Bowman) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q96419280) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Jamaal Bowman member profile](https://www.congress.gov/member/jamaal-bowman/B001223)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Axios: Democrats groan at AIPAC's $14.5M against Bowman](https://www.axios.com/2024/06/26/democrats-aipac-jamaal-bowman-george-latimer)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001223)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jamaal Bowman](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -182,7 +182,6 @@ His nuclear energy advocacy is the most authentic throughline, it directly serve
 - [PwC: Crapo Releases Substitute for House-Passed Tax Package](https://www.pwc.com/us/en/services/tax/library/chairman-crapo-releases-substitute-house-passed-tax-package.html) (Tier 2) (VERIFIED)
 - [Campaign for Accountability: Ethics Complaint Against Crapo](https://campaignforaccountability.org/watchdog-files-ethics-complaint-against-senator-mike-crapo-for-failing-to-disclose-pac-payments-to-his-wife/) (Tier 2) (VERIFIED)
 - [CBS News: Sen. Crapo Pleads Guilty to DUI](https://www.cbsnews.com/news/sen-mike-crapo-pleads-guilty-to-dui-charge/) (Tier 2) (VERIFIED)
-- ~~[Idaho Press: Crapo Staffer Told FBI About Campaign Investment](https://www.idahopress.com/news/local/crapo-staffer-told-fbi-the-senator-gave-permission-for-250k-campaign-investment-into-get-rich/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Mike Crapo](https://ballotpedia.org/Mike_Crapo) (Tier 3) (VERIFIED)
 
 ---
@@ -237,3 +236,9 @@ His nuclear energy advocacy is the most authentic throughline, it directly serve
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Idaho Press: Crapo Staffer Told FBI About Campaign Investment](https://www.idahopress.com/news/local/crapo-staffer-told-fbi-the-senator-gave-permission-for-250k-campaign-investment-into-get-rich/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

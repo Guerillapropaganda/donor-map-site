@@ -110,7 +110,6 @@ The Biden relationship reveals the structural function most clearly: the Preside
 ### Sources
 
 - [Deadline: Morning Joe co-hosts renew MS NOW deal through 2029](https://deadline.com/2026/03/morning-joe-scarborough-mika-brzezinski-contract-1236765234/) (Tier 2) (VERIFIED)
-- ~~[Puck: Will MSNBC pay Joe Scarborough $31 million?](https://puck.news/will-msnbc-pay-joe-scarborough-31-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: Morning Joe pulled from air after Trump assassination attempt](https://www.cnn.com/2024/07/14/media/msnbc-morning-joe-pulled-trump-assassination) (Tier 2) (VERIFIED)
 - [Politico: Biden surrogates wake up to post-debate panic](https://www.politico.com/news/2024/06/28/biden-debate-democrats-00165722) (Tier 2) (VERIFIED)
 - [Ballotpedia: Joe Scarborough](https://ballotpedia.org/Joe_Scarborough) (Tier 3) (VERIFIED)
@@ -118,3 +117,9 @@ The Biden relationship reveals the structural function most clearly: the Preside
 - [FEC: Joe Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOE) (Tier 1)
 - [FEC: Joseph Scarborough individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=SCARBOROUGH%2C+JOSEPH) (Tier 1)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Puck: Will MSNBC pay Joe Scarborough $31 million?](https://puck.news/will-msnbc-pay-joe-scarborough-31-million/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

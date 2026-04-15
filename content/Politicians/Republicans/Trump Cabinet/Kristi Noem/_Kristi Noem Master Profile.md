@@ -131,9 +131,7 @@ The firing tells the class story most clearly. Trump did not fire Noem for the c
 - {{src:src_002936}} (Tier 1) (VERIFIED)
 - [ProPublica: Kristi Noem secretly took personal cut of political donations](https://www.propublica.org/article/kristi-noem-political-donations-income-dark-money-dhs-ethics) (Tier 1) (VERIFIED)
 - [ProPublica: Kristi Noem-tied firm secretly got piece of $220M DHS campaign](https://www.propublica.org/article/kristi-noem-dhs-ad-campaign-strategy-group) (Tier 1) (VERIFIED)
-- ~~[Bloomberg: Trump fires DHS head Kristi Noem amid $240M ad campaign](https://www.bloomberg.com/news/articles/2026-03-07/trump-fires-dhs-head-kristi-noem-amid-240-million-ad-campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: A $220 million ad blitz and a public split with Trump mark the end of Kristi Noem's DHS tenure](https://www.washingtonpost.com/politics/2026/03/06/kristi-noem-border-immigration-kennedy-ad-campaign/1778b798-19af-11f1-aef0-0aac8e8e94db_story.html) (Tier 2) (NEEDS REVIEW)
-- ~~[The Hill: How Kristi Noem finally lost Trump's trust](https://thehill.com/homenews/administration/5770493-kristi-noem-trump-advertising-scandal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NBC News: Democrats probing companies tied to Noem, Lewandowski](https://www.nbcnews.com/politics/trump-administration/noem-lewandowski-democrats-probing-companies-220-million-ad-contract-rcna262156) (Tier 2) (VERIFIED)
 - [CNN: Taxpayer funds spent on horse, hair and makeup for Noem ad](https://www.cnn.com/2026/03/23/politics/kristi-noem-horse-mount-rushmore-ad) (Tier 2) (VERIFIED)
 - [Wikipedia: Kristi Noem](https://en.wikipedia.org/wiki/Kristi_Noem) (Tier 3) (VERIFIED)
@@ -144,5 +142,12 @@ The firing tells the class story most clearly. Trump did not fire Noem for the c
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Kristi Noem](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Trump fires DHS head Kristi Noem amid $240M ad campaign](https://www.bloomberg.com/news/articles/2026-03-07/trump-fires-dhs-head-kristi-noem-amid-240-million-ad-campaign)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: How Kristi Noem finally lost Trump's trust](https://thehill.com/homenews/administration/5770493-kristi-noem-trump-advertising-scandal/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Kristi Noem](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

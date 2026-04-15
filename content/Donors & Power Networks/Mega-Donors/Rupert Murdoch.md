@@ -272,7 +272,6 @@ Rupert Murdoch created the template for right-wing media dominance that shaped 4
 - Halpern v. Powell (2025) — District Court, N.D. Illinois
 - United States v. Comey (2025) — District Court, E.D. Virginia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Rupert%20Murdoch%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -312,3 +311,9 @@ Rupert Murdoch created the template for right-wing media dominance that shaped 4
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Rupert%20Murdoch%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Rupert%20Murdoch%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

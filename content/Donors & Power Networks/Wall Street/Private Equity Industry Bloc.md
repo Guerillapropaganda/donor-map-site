@@ -78,7 +78,6 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 ### Sources
 
 - [OpenSecrets: American Investment Council lobbying](https://www.opensecrets.org/orgs/american-investment-council/lobbying?id=D000036835) (Tier 1) (VERIFIED)
-- ~~[Americans for Tax Fairness: Carried interest analysis](https://americansfortaxfairness.org/issue/carried-interest/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [ProPublica: This Doctors Group Is Owned by a Private Equity Firm and Repeatedly Sued the Poor Until We Called Them](https://www.propublica.org/article/this-doctors-group-is-owned-by-a-private-equity-firm-and-repeatedly-sued-the-poor-until-we-called-them) (Tier 2) (VERIFIED)
 - [Washington Post: Private-equity lobby wins relief from tax hikes in Inflation Reduction Act](https://www.washingtonpost.com/us-policy/2022/08/07/inflation-reduction-act-sinema-private-equity/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Private equity political spending](https://ballotpedia.org/Private_equity) (Tier 3) (VERIFIED)
@@ -116,3 +115,9 @@ Additional priorities: favorable SEC regulation of fund disclosures, opposition 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Americans for Tax Fairness: Carried interest analysis](https://americansfortaxfairness.org/issue/carried-interest/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

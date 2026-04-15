@@ -86,4 +86,9 @@ Casar's thirst strike on the Capitol steps in February 2023, demanding federal h
 
 ### Verified
 - ~~{{src:src_006229}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Congress.gov: Greg Casar member profile](https://www.congress.gov/member/greg-casar/C001133)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Greg Casar member profile](https://www.congress.gov/member/greg-casar/C001133)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

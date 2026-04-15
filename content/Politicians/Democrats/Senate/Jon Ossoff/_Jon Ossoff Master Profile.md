@@ -292,13 +292,11 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 - {{src:src_001215}} (Tier 1) (VERIFIED)
 - {{src:src_005316}} (Tier 1) (VERIFIED)
 - [CNN: Democrats Ossoff and Warnock each raise more than $100 million for Georgia Senate runoffs](https://www.cnn.com/2020/12/24/politics/georgia-senate-runoffs-ossoff-warnock-fundraising) (Tier 2) (VERIFIED)
-- ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NME: Jon Ossoff produced Stacey Dooley documentaries before Georgia Senate run](https://www.nme.com/news/tv/jon-ossoff-produced-stacey-dooley-documentaries-before-georgia-senate-run-2850342) (Tier 2) (VERIFIED)
 - [IMDb: Jonathan Ossoff Producer Profile](https://www.imdb.com/name/nm7344702/) (Tier 3) (VERIFIED)
 - [Georgia Recorder: Ossoff raises another $12 million as he fights for reelection](https://georgiarecorder.com/briefs/ossoff-raises-another-12-million-as-he-fights-for-reelection-in-closely-watched-2026-senate-race/) (Tier 2) (VERIFIED)
 - [Georgia Recorder: Ossoff's dominance in the U.S. Senate money race continues, $25M COH, Q4 2025 data](https://georgiarecorder.com/2026/02/03/ossoffs-dominance-in-the-u-s-senate-money-race-continues/) (Tier 2) (VERIFIED)
 - [CBS Atlanta: Jon Ossoff enters 2026 race with $25 million on hand](https://www.cbsnews.com/atlanta/news/jon-ossoff-enters-2026-race-with-25-million-on-hand-as-georgia-senate-battle-heats-up/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Ossoff starts 2026 midterm reelection effort with $25M in bank](https://thehill.com/homenews/campaign/5690552-jon-ossoff-war-chest-senate-race-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Newsweek: Jon Ossoff's Chances of Winning as His Fundraising Outpaces Republicans](https://www.newsweek.com/jon-ossoff-chances-winning-fundraising-outpaces-republicans-2100816) (Tier 2) (VERIFIED)
 
 ## Influence Network (Cross-Reference)
@@ -385,3 +383,10 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 - [GovTrack: Jon Ossoff](https://www.govtrack.us/congress/members/456857) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Ossoff, Warnock each rake in over $100 million](https://thehill.com/homenews/campaign/531652-ossoff-warnock-each-rake-in-over-100-million-in-recent-months/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Ossoff starts 2026 midterm reelection effort with $25M in bank](https://thehill.com/homenews/campaign/5690552-jon-ossoff-war-chest-senate-race-2026/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

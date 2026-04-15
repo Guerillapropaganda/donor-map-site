@@ -214,7 +214,6 @@ French Hill serves the financial donor class with unusual structural completenes
 - [Arkansas Times: Banker French Hill clears path in Congress for bankers to charge you more](https://arktimes.com/arkansas-blog/2025/02/19/banker-french-hill-clears-path-for-bankers-to-charge-you-more) (Tier 2)
 - [Roll Call: When French Hill banked on banking](https://rollcall.com/2021/10/28/when-french-hill-banked-on-banking/) (Tier 2)
 - [American Banker: French Hill promises Republican-led bank deregulation](https://www.americanbanker.com/news/french-hill-promises-republican-led-bank-deregulation) (Tier 2)
-- ~~[The Hill: House panels advance crypto oversight-focused Clarity Act](https://thehill.com/policy/technology/5344328-house-panel-advances-crypto-oversight/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Benton Courier: Opinion. French Hill: A Bank Lobbyist Pretending to Be a Congressman](https://www.bentoncourier.com/news/opinion-french-hill-a-bank-lobbyist-pretending-to-be-a-congressman/article_6aa117e8-f468-11ef-b27e-434f391f430c.html) (Tier 3) (VERIFIED)
 - [New South Politics: Arkansas Congressman French Hill career bio and voting record](https://newsouthpolitics.com/arkansas-political-leaders/arkansas-us-senators-and-house-representatives/arkansas-congressman-french-hill-career-bio-voting-record/) (Tier 3) (VERIFIED)
 
@@ -271,3 +270,9 @@ French Hill serves the financial donor class with unusual structural completenes
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412609) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: House panels advance crypto oversight-focused Clarity Act](https://thehill.com/policy/technology/5344328-house-panel-advances-crypto-oversight/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -195,7 +195,6 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 - {{src:src_004373}} (Tier 1) (VERIFIED)
 - {{src:src_004373}} (Tier 1) (VERIFIED)
 - [FEC: MUR 7876 — mileage reimbursement complaint](https://www.fec.gov/files/legal/murs/7876/7876_12.pdf) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Colorado Sun: Business records tie Boebert to husband's gas firm](https://coloradosun.com/2021/08/20/lauren-boebert-husband-jayson-oil-gas-consulting-terra-energy/) (Tier 2) (VERIFIED)
 - [Salon: Boebert's gas problem — concealed conflict of interest](https://www.salon.com/2021/08/24/lauren-boeberts-gas-problem-lawmaker-concealed-blatant-conflict-of-interest/) (Tier 2) (VERIFIED)
 - [CPR: 38,000 miles mileage claim](https://www.cpr.org/2021/02/07/what-we-know-about-lauren-boeberts-campaign-payments-to-herself-for-driving-38000-miles/) (Tier 2) (VERIFIED)
@@ -246,5 +245,11 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Lauren Boebert](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Lauren Boebert member profile](https://www.congress.gov/member/lauren-boebert/B000825)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Lauren Boebert](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

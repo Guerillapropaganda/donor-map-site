@@ -112,7 +112,6 @@ The industry's political priorities are bipartisan by structural necessity: mort
 ### Sources
 
 - [FEC Receipts: Real estate industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
-- ~~[JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Real estate industry lobbying](https://ballotpedia.org/Real_Estate_Industry) (Tier 3) (VERIFIED)
 
 ---
@@ -296,5 +295,11 @@ The industry's political priorities are bipartisan by structural necessity: mort
 - VSI Aerials, LLC v. Drone Ops Solutions of New York, Corp. (2026) — District Court, E.D. New York
 - Real Estate Board of New York v. City of New York (2026) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Real%20Estate%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[JCT: Tax expenditure estimates for real estate provisions](https://www.jct.gov/publications/?search_term=Real%20Estate%20Industry)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Real%20Estate%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

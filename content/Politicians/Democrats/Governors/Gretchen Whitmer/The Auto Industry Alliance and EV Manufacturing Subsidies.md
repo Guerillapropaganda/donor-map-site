@@ -96,14 +96,19 @@ The United Auto Workers endorsed Whitmer for reelection. This is a genuine const
 
 ### Sources
 
-- ~~[OpenSecrets: Gretchen Whitmer 2022 top industries](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/industries?cycle=2022&id=253478)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[FollowTheMoney: Whitmer donor profile](https://www.followthemoney.org/entity-details?eid=253478)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [Bridge Michigan: Top 10 subsidies under Whitmer, $900M, 4,200 jobs](https://bridgemi.com/business-watch/top-10-subsidies-under-whitmer-michigan-spends-900m-firms-create-4200-jobs/) (Tier 2) (VERIFIED)
 - [Bridge Michigan: Michigan has spent $1B on EV/battery plants, 200 jobs created](https://bridgemi.com/business-watch/michigan-has-spent-1b-ev-battery-plants-so-far-theyve-created-200-jobs/) (Tier 2) (VERIFIED)
 - [Bridge Michigan: Ford retreats from EVs after Michigan spends on subsidies](https://bridgemi.com/business-watch/ford-retreats-from-evs-after-michigan-spends-big-on-subsidies-for-battery-plants/) (Tier 2) (VERIFIED)
 - [Bridge Michigan: Where mega battery/EV projects stand after $1B in subsidies](https://bridgemi.com/business-watch/where-mega-battery-ev-projects-stand-after-1-billion-michigan-subsidies/) (Tier 2) (VERIFIED)
 - [Bridge Michigan: GM sells stake in Michigan EV battery factory subsidized by state](https://bridgemi.com/business-watch/gm-sells-stake-michigan-ev-battery-factory-subsidized-state/) (Tier 2) (VERIFIED)
 - [Center for Economic Accountability: Ford battery plant named worst deal of 2023](https://economicaccountability.org/2023/12/04/michigans-subsidies-for-ford-motor-company-electric-vehicle-battery-plant-named-2023s-worst-economic-development-deal-of-the-year-by-the-center-for-economic-a/) (Tier 2) (VERIFIED)
-- ~~[Deadline Detroit: Whitmer's $1.7B Ford subsidy wins taxpayer rip-off award](https://deadlinedetroit.com/articles/31575/starkman_whitmer_s_1_7b_subsidies_for_ford_battery_plant_wins_2023_taxpayer_rip-off_award)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Detroit News: Whitmer has 26x the campaign cash of Tudor Dixon (2022)](https://www.detroitnews.com/story/news/politics/2022/09/01/gov-gretchen-whitmer-has-26-times-campaign-cash-tudor-dixon-does/7963395001/) (Tier 2) (VERIFIED)
 - [Center for American Progress: GM EV and battery investment in Michigan](https://www.americanprogress.org/article/gm-ev-and-battery-investment-in-michigan/) (Tier 3) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Gretchen Whitmer 2022 top industries](https://www.opensecrets.org/officeholders/gretchen-e-whitmer/industries?cycle=2022&id=253478)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[FollowTheMoney: Whitmer donor profile](https://www.followthemoney.org/entity-details?eid=253478)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Deadline Detroit: Whitmer's $1.7B Ford subsidy wins taxpayer rip-off award](https://deadlinedetroit.com/articles/31575/starkman_whitmer_s_1_7b_subsidies_for_ford_battery_plant_wins_2023_taxpayer_rip-off_award)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

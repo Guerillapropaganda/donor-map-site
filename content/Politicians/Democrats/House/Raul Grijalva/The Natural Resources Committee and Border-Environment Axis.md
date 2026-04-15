@@ -40,8 +40,13 @@ Grijalva repeatedly introduced legislation to reform the 1872 Mining Law, impose
 
 ### Sources
 
-- ~~[Congress.gov: Raul Grijalva member profile](https://www.congress.gov/member/ra%C3%BAl-grijalva/G000551)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005908}} (Tier 1) (VERIFIED)
-- ~~[GAO: Hardrock mining — updated information on federal royalties](https://www.gao.gov/products/gao-23-105770)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Raul Grijalva](https://ballotpedia.org/Ra%C3%BAl_Grijalva) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Raul Grijalva member profile](https://www.congress.gov/member/ra%C3%BAl-grijalva/G000551)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GAO: Hardrock mining - updated information on federal royalties](https://www.gao.gov/products/gao-23-105770)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

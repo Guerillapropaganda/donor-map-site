@@ -182,6 +182,12 @@ Triple-income-stream architecture means that even if one funding source dries up
 ### Sources
 
 - [FEC: Christopher Rufo individual contributions (0 results)](https://www.fec.gov/data/receipts/?contributor_name=Christopher+Rufo) (Tier 1) (VERIFIED)
+
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
 - ~~[ProPublica Nonprofit Explorer: Manhattan Institute for Policy Research (990 filings, 2014–2024)](https://projects.propublica.org/nonprofits/organizations/135626156)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - ~~[ProPublica Nonprofit Explorer: American Studio (990 filings, 2020–2024)](https://projects.propublica.org/nonprofits/organizations/855631396)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - ~~[Center for Media and Democracy: SourceWatch. Manhattan Institute for Policy Research](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Manhattan_Institute_for_Policy_Research)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
@@ -193,4 +199,3 @@ Triple-income-stream architecture means that even if one funding source dries up
 - ~~[Politico: "How Christopher Rufo's Anti-CRT Campaign Shapes Republican Politics"](https://www.politico.com/news/2021/10/07/christopher-rufo-anti-crt-republican-politics)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[The Chronicle of Higher Education: "New College's Enrollment Crisis and Rufo's Radical Restructuring"](https://www.chronicle.com/articles/new-college-enrollment-crisis)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - ~~[Marginal Revolution: "New College of Florida's Cost Per Student Rises to $134K"](https://marginalrevolution.com/marginalrevolution/2025/new-college-florida-cost.html)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
-

@@ -73,7 +73,6 @@ Southern Company. The second-largest utility company in the United States ($25 b
 
 Southern Company PAC is one of the largest utility PACs in the country ($3-5 million per cycle), with lobbying spending of $10-15 million annually. Southern Company's political operation extends to state-level regulatory capture: the company has systematically influenced the appointment of Public Service Commission (PSC) members in Georgia and Alabama who approve its rate increases.
 
-- ~~[OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -152,7 +151,6 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 - Bromerc Ltd. v. DTE Energy Resources, LLC (2026) — District Court, D. Delaware
 - Bromerc Ltd. v. CERT Operations, LLC (2026) — District Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Southern%20Company%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -244,12 +242,19 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300749713) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Southern Company organizational profile](https://www.opensecrets.org/orgs/southern-co/summary?id=D000000180)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Southern%20Company%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300749713/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300749713) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

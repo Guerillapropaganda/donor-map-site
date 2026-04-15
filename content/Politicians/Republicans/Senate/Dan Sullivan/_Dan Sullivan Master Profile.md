@@ -80,5 +80,10 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 09/15/2015 | -- | Sale | $250,001 - $500,000 | Joint |
 | 08/17/2015 | SPY | Sale | $50,001 - $100,000 | Joint |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

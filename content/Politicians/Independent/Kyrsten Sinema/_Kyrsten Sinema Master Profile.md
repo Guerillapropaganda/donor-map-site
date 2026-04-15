@@ -200,7 +200,6 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 - [NPR: Kyrsten Sinema leaves Democratic Party, registers as independent](https://www.npr.org/2022/12/09/1141827943/sinema-leaves-democratic-party-independent) (Tier 2) (VERIFIED)
 - [NPR: Kyrsten Sinema censured by Arizona Democratic Party](https://www.npr.org/2022/01/22/1075088298/kyrsten-sinema-censure-arizona-democrats-filibuster-vote) (Tier 2) (VERIFIED)
 - [Washington Post: Kyrsten Sinema switches party to independent](https://www.washingtonpost.com/politics/2022/12/09/kyrsten-sinema-independent/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Hogan Lovells: Senator Kyrsten Sinema joins firm](https://www.hoganlovells.com/en/news/hogan-lovells-welcomes-senator-kyrsten-sinema) (Tier 2) (VERIFIED)
 - [Coinbase: Welcomes Four New Political and Economic Leaders to Global Advisory Council](https://www.coinbase.com/blog/Coinbase-Welcomes-Four-New-Political-and-Economic-Leaders-to-the-Global-Advisory-Council) (Tier 2) (VERIFIED)
 - [CNN: Sinema censured by Arizona Democratic Party over filibuster stance](https://www.cnn.com/2022/01/22/politics/sinema-censured-arizona-democratic-party/index.html) (Tier 2) (VERIFIED)
@@ -277,7 +276,6 @@ The revolving door completed the exchange. Sinema left the Senate on January 3, 
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Legislative Activity (Congress.gov)
@@ -306,12 +304,19 @@ _No committee data found._
 | 2546 | A bill to designate the facility of the United States Postal Service located at … | Held at the desk. |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001191)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Kyrsten Sinema](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Warren rips Sinema over post-Senate influence career](https://thehill.com/homenews/senate/5685025-warren-slams-sinema-corporate-interests/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001191)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Kyrsten Sinema](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

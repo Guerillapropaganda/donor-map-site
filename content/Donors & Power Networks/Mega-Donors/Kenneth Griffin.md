@@ -216,7 +216,6 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 - [ArtNews: $100M 2024 giving](https://www.artnews.com/art-news/news/billionaire-collector-kenneth-griffin-donated-100-million-2024-election-senate-leadership-fund-1234724065/) (Tier 2) (VERIFIED)
 - [Fortune: DeSantis to Trump trajectory](https://fortune.com/2024/07/13/ken-griffin-citadel-paul-singer-elliott-donald-trump-campaign-donation-meetings/) (Tier 2) (VERIFIED)
 - [CNBC: Tariff criticism](https://www.cnbc.com/2025/05/07/griffin-calls-tariffs-a-painfully-regressive-tax-hitting-working-class-the-hardest.html) (Tier 2) (VERIFIED)
-- ~~[Pensions & Investments: Deregulation praise](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation-a-godsend)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 - [ProPublica: Illinois tax move](https://www.propublica.org/article/ken-griffin-illinois-graduated-income-tax) (Tier 2) (VERIFIED)
 - [Fortune: GameStop](https://fortune.com/2021/11/10/citadel-ceo-ken-griffin-meme-stocks-gamestop/) (Tier 2) (VERIFIED)
 
@@ -252,7 +251,6 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 - Kenneth Griffin (2025) — United States Bankruptcy Court, E.D. Pennsylvania
 - Donnahue George v. Ken Griffin (2024) — Court of Appeals for the Eleventh Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kenneth%20Griffin%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -300,11 +298,6 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 **Filing history:** 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015
 
 **View 990 filings:**
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/362167797) (Tier 1) (VERIFIED)
@@ -372,3 +365,15 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Pensions & Investments: Deregulation praise](https://www.pionline.com/hedge-funds/citadels-ken-griffin-criticizes-trump-tariff-and-tax-policies-calls-deregulation-a-godsend)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kenneth%20Griffin%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/362167797/2018)~~ (URL broken, archived by Ops)

@@ -40,10 +40,15 @@ Warner's $215 million net worth creates a Self-Funding as Independence dynamic: 
 
 ### Sources
 
-- ~~[Congress.gov: Mark Warner member profile](https://www.congress.gov/member/mark-warner/W000805)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_002029}} (Tier 1) (VERIFIED)
 - {{src:src_002029}} (Tier 1) (VERIFIED)
 - [Congress.gov: RESTRICT Act (S.686)](https://www.congress.gov/bill/118th-congress/senate-bill/686) (Tier 1) (VERIFIED)
 - [Washington Post: Top Senate intel Democrat proposes measures to counter influence campaigns on social media](https://www.washingtonpost.com/powerpost/top-senate-intel-democrat-proposes-measures-to-counter-influence-campaigns-on-social-media/2018/07/30/50de4786-9420-11e8-810c-5fa705927d54_story.html) (Tier 2) (VERIFIED)
 - [Ballotpedia: Mark Warner](https://ballotpedia.org/Mark_Warner) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mark Warner member profile](https://www.congress.gov/member/mark-warner/W000805)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

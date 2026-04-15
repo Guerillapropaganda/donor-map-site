@@ -145,7 +145,6 @@ The organization's spending does not target specific policy outcomes, it targets
 
 - [OpenSecrets: Outside spending on 2024 elections shatters records](https://www.opensecrets.org/news/2024/11/outside-spending-on-2024-elections-shatters-records-fueled-by-billion-dollar-dark-money-infusion/) (Tier 1) (VERIFIED)
 - [OpenSecrets: Party-aligned groups funnel millions in dark money to super PACs](https://www.opensecrets.org/news/2023/08/party-aligned-groups-funnel-millions-in-dark-money-to-closely-tied-super-pacs-ahead-of-2024-election/) (Tier 1) (VERIFIED)
-- ~~[IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [FEC: Majority Forward contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026individual-contributions/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?contributor_name=Majority+Forward&two_year_transaction_period=2020) (Tier 1) (VERIFIED)
 - [Brennan Center: Dark money hit record $1.9B in 2024 federal races](https://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races) (Tier 2) (VERIFIED)
 - [Center for Public Integrity: Democratic super PAC aided by secret money](https://publicintegrity.org/politics/democratic-super-pac-aided-by-secret-money/) (Tier 2) (VERIFIED)
@@ -196,5 +195,11 @@ The organization's spending does not target specific policy outcomes, it targets
 - Griffin v. North Carolina State Board of Elections (2024) — District Court, E.D. North Carolina
 - North Carolina Democratic Party v. North Carolina State Board of Elections <b><font color="red">Do not docket in this case - all docketing should be in the lead case 5:24-CV-731.</b></font> (2024) — District Court, E.D. North Carolina
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Majority%20Forward%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[IRS: Majority Forward 990 filings](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Majority%20Forward&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Majority%20Forward%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

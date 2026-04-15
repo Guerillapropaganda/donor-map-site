@@ -9,17 +9,17 @@ generator: scripts/migrate-strikethrough-sources-to-archived.cjs
 
 # Strikethrough Source Migration Report
 
-Automatic migration of strikethrough sources (`~~[title](url)~~`) from visible text into `## Archived` sections, per Vault Rules. **DRY RUN — no files were changed.**
+Automatic migration of strikethrough sources (`~~[title](url)~~`) from visible text into `## Archived` sections, per Vault Rules. **Applied.**
 
-**Files that would be / were changed:** 1083
-**Strikethrough links auto-migrated:** 3427 (bullet-list cases)
-**Inline-prose links flagged for manual review:** 894
+**Files that would be / were changed:** 1082
+**Strikethrough links auto-migrated:** 3415 (bullet-list cases)
+**Inline-prose links flagged for manual review:** 892
 
 ## Auto-migrated files
 
 These had strikethrough bullet-list entries that the script moved cleanly to the Archived section.
 
-Total: 964
+Total: 963
 - [American Farm Bureau Federation.md](/content/Donors & Power Networks/Agriculture/American Farm Bureau Federation.md) — 6 links
 - [Fanjul Family - Florida Crystals.md](/content/Donors & Power Networks/Agriculture/Fanjul Family - Florida Crystals.md) — 2 links
 - [Monsanto - Bayer.md](/content/Donors & Power Networks/Agriculture/Monsanto - Bayer.md) — 2 links
@@ -60,7 +60,6 @@ Total: 964
 - [Finance and Tech Bundler Network.md](/content/Donors & Power Networks/Dark Money/Finance and Tech Bundler Network.md) — 1 links
 - [Freedom Caucus.md](/content/Donors & Power Networks/Dark Money/Freedom Caucus.md) — 1 links
 - [Freedom Partners.md](/content/Donors & Power Networks/Dark Money/Freedom Partners.md) — 1 links
-- [GEO Group - Private Prisons.md](/content/Donors & Power Networks/Dark Money/GEO Group - Private Prisons.md) — 5 links
 - [HBW Resources.md](/content/Donors & Power Networks/Dark Money/HBW Resources.md) — 4 links
 - [Healthcare Sector.md](/content/Donors & Power Networks/Dark Money/Healthcare Sector.md) — 1 links
 - [Heritage Foundation.md](/content/Donors & Power Networks/Dark Money/Heritage Foundation.md) — 5 links
@@ -70,7 +69,8 @@ Total: 964
 - [Majority Forward.md](/content/Donors & Power Networks/Dark Money/Majority Forward.md) — 2 links
 - [National Progressive Donor Networks.md](/content/Donors & Power Networks/Dark Money/National Progressive Donor Networks.md) — 1 links
 - [New Venture Fund.md](/content/Donors & Power Networks/Dark Money/New Venture Fund.md) — 8 links
-- … +914 more
+- [Ocean Conservancy.md](/content/Donors & Power Networks/Dark Money/Ocean Conservancy.md) — 6 links
+- … +913 more
 
 ## Manual-review files (inline prose)
 
@@ -239,7 +239,6 @@ These had strikethrough links inside prose paragraphs, not clean bullet-list ent
 - [2026-04-05 Marjorie Taylor Greene rails against ‘insane’ Trump after Easter Iran threat.md](/content/Events/Drafts/2026-04-05 Marjorie Taylor Greene rails against ‘insane’ Trump after Easter Iran threat.md) — 1 inline ref(s)
 - [2026-04-05 Moore Ending foreign wars &#8216;best thing that we could do&#8217; to lower gas.md](/content/Events/Drafts/2026-04-05 Moore Ending foreign wars &#8216;best thing that we could do&#8217; to lower gas.md) — 1 inline ref(s)
 - [2026-04-05 Republican divisions, Trump’s detachment stymie GOP efforts to reopen DHS.md](/content/Events/Drafts/2026-04-05 Republican divisions, Trump’s detachment stymie GOP efforts to reopen DHS.md) — 1 inline ref(s)
-- [2026-04-05 Senate Democrat says Trump &#8216;needs a lot of prayer&#8217;.md](/content/Events/Drafts/2026-04-05 Senate Democrat says Trump &#8216;needs a lot of prayer&#8217;.md) — 1 inline ref(s)
 - [2026-04-05 Senate Democrat says Trump ‘needs a lot of prayer’.md](/content/Events/Drafts/2026-04-05 Senate Democrat says Trump ‘needs a lot of prayer’.md) — 1 inline ref(s)
 - [2026-04-05 SNL rips Bondi’s departure in cold open.md](/content/Events/Drafts/2026-04-05 SNL rips Bondi’s departure in cold open.md) — 1 inline ref(s)
 - [2026-04-05 Top Armed Services Democrat says Iran war &#8216;mistake in large part because o.md](/content/Events/Drafts/2026-04-05 Top Armed Services Democrat says Iran war &#8216;mistake in large part because o.md) — 1 inline ref(s)
@@ -248,7 +247,6 @@ These had strikethrough links inside prose paragraphs, not clean bullet-list ent
 - [2026-04-05 Trump says to not expect Cabinet shake-up after Bondi, Noem firings.md](/content/Events/Drafts/2026-04-05 Trump says to not expect Cabinet shake-up after Bondi, Noem firings.md) — 1 inline ref(s)
 - [2026-04-06 3-year-old immigrant suffered alleged sexual abuse during months in federal cust.md](/content/Events/Drafts/2026-04-06 3-year-old immigrant suffered alleged sexual abuse during months in federal cust.md) — 1 inline ref(s)
 - [2026-04-06 5 takeaways from Trump’s news conference on Iran.md](/content/Events/Drafts/2026-04-06 5 takeaways from Trump’s news conference on Iran.md) — 1 inline ref(s)
-- [2026-04-06 Chris Murphy on Trump&#8217;s Iran threat &#8216;A clear war crime&#8217;.md](/content/Events/Drafts/2026-04-06 Chris Murphy on Trump&#8217;s Iran threat &#8216;A clear war crime&#8217;.md) — 1 inline ref(s)
 - [2026-04-06 Chris Murphy on Trump’s Iran threat ‘A clear war crime’.md](/content/Events/Drafts/2026-04-06 Chris Murphy on Trump’s Iran threat ‘A clear war crime’.md) — 1 inline ref(s)
 - [2026-04-06 Dimon warns Iran war could sink economy into a recession.md](/content/Events/Drafts/2026-04-06 Dimon warns Iran war could sink economy into a recession.md) — 1 inline ref(s)
 - [2026-04-06 Don Bacon on Hegseth firing top military officers &#8216;Not morally right nor w.md](/content/Events/Drafts/2026-04-06 Don Bacon on Hegseth firing top military officers &#8216;Not morally right nor w.md) — 1 inline ref(s)

@@ -405,7 +405,6 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 - [Real Estate News: How NAR Spent Its Money in 2024 — 990 filing](https://www.realestatenews.com/2025/12/03/how-nar-spent-its-money-in-2024) (Tier 2) (VERIFIED)
 
 ### APOA Dark Money:
-- ~~[New York Times: Dark Money Investigation — APOA and Republican Super PACs](https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [HousingWire: NAR APOA New York Times Expose on Nonprofit Giving to Conservative Groups](https://www.housingwire.com/articles/nar-apoa-new-york-times-expose-nonprofit-giving-conservative-groups/) (Tier 2) (VERIFIED)
 - [Real Estate News: NAR Responds to Myths in New York Times Dark Money Story](https://www.realestatenews.com/2024/12/10/nar-responds-to-myths-in-new-york-times-dark-money-story) (Tier 2) (VERIFIED)
 
@@ -419,7 +418,6 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 - [Private Equity Stakeholder Project (PESP): Concerns Surround Appointment of PE Insider to Head FHFA](https://pestakeholder.org/news/concerns-surround-appointment-of-private-equity-insider-to-head-up-federal-housing-finance-agency/) (Tier 2) (VERIFIED)
 - [National Mortgage Professional: Housing Shake — HUD and FHFA Slash Staff](https://nationalmortgageprofessional.com/news/housing-shake-hud-and-fhfa-slash-staff-close-offices) (Tier 2) (VERIFIED) (UNVERIFIED)
 - [Duke University: Predatory Lending — Brian Montgomery History](https://predatorylending.duke.edu/histories/brian-montgomery/) (Tier 3) (VERIFIED)
-- ~~[Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 
 ---
 
@@ -517,11 +515,6 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361520690) (Tier 1) (VERIFIED)
@@ -548,3 +541,15 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Realtors%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Dark Money Investigation - APOA and Republican Super PACs](https://www.nytimes.com/2024/12/09/realestate/nar-real-estate-politics.html)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[Politico: Brian Montgomery Senate Confirmation](https://www.politico.com/story/2018/05/23/brian-montgomery-hud-senate-confirmation-559178)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/361520690/2019)~~ (URL broken, archived by Ops)

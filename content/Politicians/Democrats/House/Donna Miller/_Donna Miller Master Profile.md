@@ -201,7 +201,6 @@ party:: Democrat
 <!-- auto:committee-assignments start -->
 _No committee data found for the 119th Congress._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Wikipedia
@@ -218,3 +217,9 @@ Donna Lynne Miller is an American politician currently serving as a Cook County 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Donna_Miller) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q101318343) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/B001296)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -174,10 +174,7 @@ The revolving door between CAP and Democratic administrations reveals **structur
 
 ### Sources
 
-- ~~[OpenSecrets: Center for American Progress organizational profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: Center for American Progress (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Center%20for%20American%20Progress&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [The Nation: The Secret Donors Behind the Center for American Progress](https://www.thenation.com/article/archive/secret-donors-behind-center-american-progress-and-other-think-tanks-updated-524/) (Tier 2) (VERIFIED)
-- ~~[Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 - [The American Prospect: CAP's role in Democratic strategy](https://prospect.org/2023/07/11/2023-07-11-gunning-for-more-va-privatization/) (Tier 3) (VERIFIED)
 
 ### Financial Overview (990 Filing — 2023)
@@ -211,7 +208,6 @@ The revolving door between CAP and Democratic administrations reveals **structur
 - United States v. Fontes (2026) — District Court, D. Arizona
 - United States v. Thomas (2026) — District Court, D. Connecticut
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20American%20Progress%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -267,3 +263,12 @@ The Center for American Progress (CAP) is a public policy research and advocacy 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q368035) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Center for American Progress organizational profile](https://www.opensecrets.org/orgs/center-for-american-progress/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Center for American Progress (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Center%20for%20American%20Progress&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Salon: Center for American Progress and revolving door politics](https://www.salon.com/2017/12/05/how-center-for-american-progress-became-a-corporate-think-tank/)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Center%20for%20American%20Progress%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -95,14 +95,9 @@ Butler represents the structural barrier labor faces in capitalist democracy: un
 
 ### Sources
 
-- ~~[Governor Newsom Official: Appoints Laphonza Butler to U.S. Senate](https://www.gov.ca.gov/2023/10/01/governor-newsom-appoints-laphonza-butler-senate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [NPR: Feinstein's Successor Laphonza Butler Takes Office as California's New Senator](https://www.npr.org/2022/02/25/1083180736/biden-picks-ketanji-brown-jackson-as-supreme-court-nominee) (Tier 2) (VERIFIED)
-- ~~[CalMatters: How Laphonza Butler Could Reshape California's U.S. Senate Race](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[CNN Politics: Who is Laphonza Butler, California's Next Senator?](https://www.cnn.com/2023/10/02/politics/laphonza-butler-california-senator-newsom/cnn-politics)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [NBC News: Gov. Gavin Newsom Chooses Laphonza Butler to Fill Dianne Feinstein's Senate Seat](https://www.nbcnews.com/politics/2024-election/gavin-newsom-laphonza-butler-fill-dianne-feinstein-senate-seat-rcna118052) (Tier 2) (VERIFIED)
-- ~~[CBS News: Who is Laphonza Butler, the Newest Senator from California?](https://www.cbsnews.com/news/laphonza-butler-senate-california-gavin-newsom-dianne-feinstein-seat-rcna118052)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Laphonza Butler](https://en.wikipedia.org/wiki/Laphonza_Butler) (Tier 3) (VERIFIED)
-- ~~[CalMatters: Newsom Picks Laphonza Butler, Political Ally and Power Player](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-newsom/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ### Committee Assignments (Congress.gov)
 
@@ -124,3 +119,13 @@ Laphonza Romanique Butler is an American labor union official and former politic
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Laphonza_Butler) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q121337973) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Governor Newsom Official: Appoints Laphonza Butler to U.S. Senate](https://www.gov.ca.gov/2023/10/01/governor-newsom-appoints-laphonza-butler-senate/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[CalMatters: How Laphonza Butler Could Reshape California's U.S. Senate Race](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-election/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN Politics: Who is Laphonza Butler, California's Next Senator?](https://www.cnn.com/2023/10/02/politics/laphonza-butler-california-senator-newsom/cnn-politics)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[CBS News: Who is Laphonza Butler, the Newest Senator from California?](https://www.cbsnews.com/news/laphonza-butler-senate-california-gavin-newsom-dianne-feinstein-seat-rcna118052)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[CalMatters: Newsom Picks Laphonza Butler, Political Ally and Power Player](https://calmatters.org/category/politics/2023/10/laphonza-butler-senate-newsom/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

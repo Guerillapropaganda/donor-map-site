@@ -137,7 +137,6 @@ Pritzker's national political operation has three components:
 - [Chicago Tribune: Pritzker and wife gave big for DNC, which raised $97M](https://www.chicagotribune.com/2024/10/17/gov-jb-pritzker-and-wife-gave-big-for-dnc-which-raised-97m-in-all/) (Tier 2) (VERIFIED)
 - [Capitol News Illinois: Pritzker launches self-funded abortion rights advocacy organization](https://capitolnewsillinois.com/news/pritzker-launches-self-funded-nationwide-abortion-rights-advocacy-organization/) (Tier 2) (VERIFIED)
 - [NBC News: Pritzker builds up nonprofit group as 2024 looms](https://www.nbcnews.com/politics/2024-election/jb-pritzker-key-biden-surrogate-builds-nonprofit-group-2024-looms-rcna125167) (Tier 2) (VERIFIED)
-- ~~[Washington Post: Pritzker ramps up abortion rights investments amid 2028 chatter](https://www.washingtonpost.com/politics/2024/02/07/jb-pritzker-abortion-think-big/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [STLPR: Self-funded candidates and dark money cloud Illinois politics](https://www.stlpr.org/government-politics-issues/2024-01-10/illinois-politics-marred-by-deep-pocketed-self-funded-candidates-and-dark-money) (Tier 2) (VERIFIED)
 
 ---
@@ -251,7 +250,6 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 | Net Assets | $148.4M |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 300039820](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Register Activity
@@ -287,7 +285,6 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 - American Federation of State, County & Municipal Employees, AFL-CIO v. U.S. Department of Health and Human Services (2026) — District Court, N.D. California
 - State of Minnesota v. Noem (2026) — District Court, D. Minnesota
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JB%20Pritzker%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -341,12 +338,20 @@ The 2028 presidential calculus brings the class analysis into sharpest focus. A 
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Washington Post: Pritzker ramps up abortion rights investments amid 2028 chatter](https://www.washingtonpost.com/politics/2024/02/07/jb-pritzker-abortion-think-big/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F300039820_202312_990PF_2024112522929848.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22JB%20Pritzker%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300039820/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300039820) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

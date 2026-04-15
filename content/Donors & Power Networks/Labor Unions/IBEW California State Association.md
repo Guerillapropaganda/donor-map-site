@@ -93,8 +93,6 @@ The California locals vary politically by region. Bay Area locals operate in a s
 ### Sources
 
 - [IBEW Local 1245: About IBEW and PG&E](https://ibew1245.com/about-ibew-and-pge/) (VERIFIED) (Tier 4 (union source, cross-reference with PUC data)) (Tier 2)
-- ~~[California Secretary of State: FPPC filings and PAC data](https://www.sos.ca.gov/campaign-lobbying/cal-access-portal)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[California Department of Industrial Relations: Prevailing wage](https://www.dir.ca.gov/dls/prevailing-wage.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -110,12 +108,19 @@ The California locals vary politically by region. Bay Area locals operate in a s
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
+- ... and 3 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940362021) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[California Secretary of State: FPPC filings and PAC data](https://www.sos.ca.gov/campaign-lobbying/cal-access-portal)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[California Department of Industrial Relations: Prevailing wage](https://www.dir.ca.gov/dls/prevailing-wage.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940362021/2019)~~ (URL broken, archived by Ops)
-- ... and 3 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940362021) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

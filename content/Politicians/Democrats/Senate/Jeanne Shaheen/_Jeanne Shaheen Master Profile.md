@@ -172,7 +172,6 @@ Every foreign policy position Shaheen takes maps onto the economic interests of 
 - [Senator Shaheen: NH Delegation Applauds $35M CHIPS Funding to BAE Systems](https://www.shaheen.senate.gov/news/press/nh-delegation-applauds-finalization-of-35-million-in-chips-funding-headed-to-bae-systems) (Tier 1) (VERIFIED)
 - [PR Newswire: BAE Systems and Commerce Announce First CHIPS Funding](https://www.prnewswire.com/news-releases/bae-systems-inc-and-us-department-of-commerce-announce-first-chips-and-science-act-funding-to-modernize-microelectronics-facility-302011249.html) (Tier 2) (VERIFIED)
 - [Union Leader: Shaheen Campaign Announces $2.5 Million Raised in Second Quarter](https://www.unionleader.com/shaheen-campaign-announces-2-5-million-raised-in-second-quarter/article_bd587933-966a-53bb-8fc9-b449b3a5b042.html) (Tier 2) (VERIFIED)
-- ~~[GovTrack: Senator Jeanne Shaheen](https://www.govtrack.us/congress/members/jeanne_shaheen/412323)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Jeanne Shaheen](https://en.wikipedia.org/wiki/Jeanne_Shaheen) (Tier 3) (VERIFIED)
 - [Ballotpedia: Jeanne Shaheen](https://ballotpedia.org/Jeanne_Shaheen) (Tier 3) (VERIFIED)
 
@@ -199,7 +198,6 @@ party:: Democrat
 | 11/07/2018 | -- | Purchase | $100,001 - $250,000 | Spouse |
 | 03/17/2017 | -- | Purchase | $1,001 - $15,000 | Spouse |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ## Influence Network (Cross-Reference)
@@ -313,7 +311,6 @@ party:: Democrat
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 | 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/412323)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### DOJ Press Releases
@@ -321,3 +318,11 @@ party:: Democrat
 
 ### Voting Record
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[GovTrack: Senator Jeanne Shaheen](https://www.govtrack.us/congress/members/jeanne_shaheen/412323)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/412323)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

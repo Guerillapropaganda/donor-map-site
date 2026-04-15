@@ -192,7 +192,6 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 - Jackson v. Trinity Health Corporation (2026) — District Court, E.D. Michigan
 - Mangold v. Stryker Corporation (2026) — District Court, W.D. Michigan
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Healthcare%20Sector%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -218,3 +217,9 @@ The PMC study (1999-2018) documented that $4.7 billion in pharmaceutical lobbyin
 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q137593099) (Tier 2)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Healthcare%20Sector%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

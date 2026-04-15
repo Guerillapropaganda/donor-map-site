@@ -78,5 +78,10 @@ Roberts declared the coverage formula unconstitutional because it relied on outd
 - [Brennan Center: Shelby County v. Holder Turns 10, and Voting Rights Continue to Suffer](https://www.brennancenter.org/our-work/research-reports/shelby-county-v-holder-turns-10-and-voting-rights-continue-suffer-it) (Tier 2) (VERIFIED)
 - [NAACP LDF: Impact of Shelby County v. Holder. Voter Suppression and Discriminatory Redistricting](https://www.naacpldf.org/shelby-county-v-holder-impact/) (Tier 2) (VERIFIED)
 - [Constitution Center: Shelby County v. Holder (2013)](https://constitutioncenter.org/the-constitution/supreme-court-case-library/shelby-county-v-holder) (Tier 2) (VERIFIED)
-- ~~[Supreme Court: Shelby County v. Holder (Official Opinion)](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Leadership Conference on Civil and Human Rights: The Great Poll Closure](https://civilrights.org/resource/the-great-poll-closure/) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Supreme Court: Shelby County v. Holder (Official Opinion)](https://www.supremecourt.gov/opinions/12pdf/12-96_6k47.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

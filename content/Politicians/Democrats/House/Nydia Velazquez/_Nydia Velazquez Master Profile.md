@@ -166,7 +166,6 @@ Velazquez's three decades of institutional knowledge now face a direct class thr
 
 - {{src:src_005977}} (Tier 1) (VERIFIED)
 - {{src:src_005977}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: Nydia Velazquez](https://www.congress.gov/member/nydia-velazquez/V000081)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [House Small Business Committee: Ranking Member Velazquez](https://democrats-smallbusiness.house.gov/about/ranking-member-velazquez.htm) (Tier 1) (VERIFIED)
 - [House.gov: Velazquez small business policy page](https://velazquez.house.gov/issues/small-business) (Tier 1) (VERIFIED)
 - [SBA Office of Advocacy: PPP loan deductibility letter to Velazquez](https://advocacy.sba.gov/2020/12/15/letter-dated-12-15-2020-to-sen-marco-rubio-sen-benjamin-cardin-rep-nydia-velazquez-and-rep-steve-chabot-on-the-deductibility-of-business-expenses-paid-with-forgiven-ppp-loans/) (Tier 1) (VERIFIED)
@@ -175,3 +174,9 @@ Velazquez's three decades of institutional knowledge now face a direct class thr
 - [House Natural Resources Democrats: Grijalva, Velazquez on PPP equity for territories](https://democrats-naturalresources.house.gov/media/press-releases/chairs-grijalva-velazquez-ppp-loan-distribution-must-be-equitable-for-small-businesses-in-us-territories) (Tier 1) (VERIFIED)
 - [Ballotpedia: Nydia Velazquez](https://ballotpedia.org/Nydia_Vel%C3%A1zquez) (Tier 3) (VERIFIED)
 - [Wikipedia: Nydia Velazquez](https://en.wikipedia.org/wiki/Nydia_Vel%C3%A1zquez) (Tier 3) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Nydia Velazquez](https://www.congress.gov/member/nydia-velazquez/V000081)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

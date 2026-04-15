@@ -199,19 +199,13 @@ This investigation surfaces entities that need their own vault nodes:
 - [Code Pink: Cuba Delegation Press Conference](https://www.codepink.org/cubadelegationpressconfpr) (Tier 3) (VERIFIED)
 - [Latin Times: Activists Detained Upon Return](https://www.latintimes.com/activists-who-took-part-flotilla-deliver-aid-cuba-were-reportedly-detained-upon-their-return-596207) (Tier 2) (VERIFIED)
 - [OpenSecrets: US-Cuba Democracy PAC](https://www.opensecrets.org/orgs/us-cuba-democracy-pac/summary?id=D000022302) (Tier 1) (VERIFIED)
-- ~~[Forbes: Fanjul Family Sugar Barons Worth $4 Billion](https://www.forbes.com/sites/chloesorvino/2025/10/16/fanjul-family-sugar-barons-worth-4-billion-donald-trump-coca-cola/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[Foreign Policy Association: Money Makes Cuba Policy Go Round](https://fpa.org/money-makes-cuba-policy-go-round/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Promarket: Sugar Industry Buys Academia Politicians](https://www.promarket.org/2016/09/19/sugar-industry-buys-academia-politicians/) (Tier 2) (VERIFIED)
-- ~~[ICNL: FARA Congressional Investigations](https://www.icnl.org/our-work/us-program/foreign-agents-registration-act/fara-congressional-investigations)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Zeteo: Third Way Hasan Piker Democrats](https://zeteo.com/p/third-way-hasan-piker-democrats-mcmorrow?action=share) (Tier 2) (VERIFIED)
 - [EBSCO: Cuban American National Foundation](https://www.ebsco.com/research-starters/social-sciences-and-humanities/cuban-american-national-foundation-canf) (Tier 3) (VERIFIED)
 - [Republic Report: Cuba Lobby Paralyzes US Policy](https://www.republicreport.org/2012/ozzie-guillen-cuba-lobby-paralyzes-us-policy/) (Tier 3) (VERIFIED)
 - [LAWG: Cuba Policy and Campaign Contributions](https://www.lawg.org/cuba-policy-and-campaign-contributions-ever-wonder-why/) (Tier 3) (VERIFIED)
-- ~~[USF Digital Commons: CANF Political Network](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1104&context=mca?article=1016&context=las_hhfc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [UN Press: 2024 Embargo Vote](https://press.un.org/en/2024/ga12650.doc.htm) (Tier 1) (VERIFIED)
 - [WOLA: Understanding Failure of US Cuba Embargo](https://www.wola.org/analysis/understanding-failure-of-us-cuba-embargo/) (Tier 2) (VERIFIED)
-- ~~[NYT: Hasan Piker Humanitarian Mission Cuba](https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[NYT: Cuba Fuel Blockade Aid Convoy](https://www.nytimes.com/2026/03/20/world/americas/cuba-fuel-blockade-aid-convoy.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [CNN: Cuba Aid Boats Found](https://www.cnn.com/2026/03/28/americas/cuba-aid-boats-found-intl) (Tier 2) (VERIFIED)
 - [International Affairs Australia: Economic Warfare in the Caribbean](https://www.internationalaffairs.org.au/australianoutlook/economic-warfare-in-the-caribbean-cubas-fuel-crisis-and-the-unravelling-rules-based-order/) (Tier 2) (VERIFIED)
 - [Fox News: Far-Left Activists 5-Star Cuban Hotel](https://www.foxnews.com/politics/far-left-activists-stay-5-star-cuban-hotel-island-suffers-total-blackout) (Tier 3) (VERIFIED)
@@ -222,3 +216,14 @@ This investigation surfaces entities that need their own vault nodes:
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Forbes: Fanjul Family Sugar Barons Worth $4 Billion](https://www.forbes.com/sites/chloesorvino/2025/10/16/fanjul-family-sugar-barons-worth-4-billion-donald-trump-coca-cola/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Foreign Policy Association: Money Makes Cuba Policy Go Round](https://fpa.org/money-makes-cuba-policy-go-round/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[ICNL: FARA Congressional Investigations](https://www.icnl.org/our-work/us-program/foreign-agents-registration-act/fara-congressional-investigations)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[USF Digital Commons: CANF Political Network](https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1104&context=mca?article=1016&context=las_hhfc)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[NYT: Hasan Piker Humanitarian Mission Cuba](https://www.nytimes.com/2026/03/23/world/americas/hasan-piker-humanitarian-mission-cuba.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[NYT: Cuba Fuel Blockade Aid Convoy](https://www.nytimes.com/2026/03/20/world/americas/cuba-fuel-blockade-aid-convoy.html)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

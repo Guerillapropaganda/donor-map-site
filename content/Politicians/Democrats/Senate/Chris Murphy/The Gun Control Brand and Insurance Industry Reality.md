@@ -40,7 +40,12 @@ Murphy's insurance industry donors receive no comparable scrutiny to his gun con
 
 ### Sources
 
-- ~~[Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005532}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Chris Murphy](https://ballotpedia.org/Chris_Murphy_(Connecticut) (VERIFIED)) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Bipartisan Safer Communities Act](https://www.congress.gov/bill/117th-congress/senate-bill/2938)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

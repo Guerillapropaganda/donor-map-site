@@ -223,7 +223,6 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 - [Mehlman Consulting: Sage Eastman Bio](https://mehlmanconsulting.com/team-member/sage-eastman/) (Tier 4) (VERIFIED)
 - [Mehlman Consulting: Paul Thornell Bio](https://mehlmanconsulting.com/team-member/paul-thornell/) (Tier 4) (VERIFIED)
 - [Mehlman Consulting: Distefano and Thornell named Partners](https://mehlmanconsulting.com/news/mehlman-consulting-names-nichole-distefano-and-paul-thornell-as-partners/) (Tier 4) (VERIFIED)
-- ~~[The Hill: Top firms raked in record profits lobbying to influence CHIPS Act, IRA](https://thehill.com/lobbying/3697714-top-firms-raked-in-record-profits-lobbying-to-influence-chips-act-ira/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Campus: Bruce P. Mehlman bio](https://washcampus.edu/personnel/the-honorable-bruce-p-mehlman/) (Tier 3) (VERIFIED)
 - [Holland & Knight / Bloomberg Government: AI Lobbying Soars in Washington, Among Big Firms and Upstarts](https://www.hklaw.com/en/news/intheheadlines/2025/12/ai-lobbying-soars-in-washington-among-big-firms-and-upstarts) (Tier 2) (VERIFIED), reports $92M in AI lobbying revenue for firms in Q1-Q3 2025
 - [Bloomberg Law: AI Influence Spending Booms, Signaling Monumental Clashes Ahead](https://news.bloomberglaw.com/artificial-intelligence/ai-influence-spending-booms-signaling-monumental-clashes-ahead) (Tier 2) (VERIFIED). Q4 2025: record $37.2M quarterly AI lobbying revenue (+38% YoY); full-year 2025 total ~$130M
@@ -249,3 +248,9 @@ The bipartisan structure serves a specific commercial function: it makes the fir
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Top firms raked in record profits lobbying to influence CHIPS Act, IRA](https://thehill.com/lobbying/3697714-top-firms-raked-in-record-profits-lobbying-to-influence-chips-act-ira/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

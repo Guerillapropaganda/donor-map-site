@@ -249,14 +249,11 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - [Lockheed Martin PAC Profile • OpenSecrets](https://www.opensecrets.org/political-action-committees-pacs/lockheed-martin/C00303024/summary/2024) (Tier 1) (VERIFIED)
 - [Lockheed Martin Lobbying Profile • OpenSecrets](https://www.opensecrets.org/federal-lobbying/top-spenders?cache=1775433157?id=D000000104) (Tier 1) (VERIFIED)
 - [Lockheed Martin 2024 PAC Disbursements (Official)](https://www.lockheedmartin.com/content/dam/lockheed-martin/eo/documents/governance/2024/LMEPAC-disbursements-2024.pdf) (Tier 1) (VERIFIED)
-- ~~[F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - [F-35 Lightning II: Background and Issues for Congress - CRS](https://sgp.fas.org/crs/weapons/RL33745.pdf) (Tier 1) (VERIFIED)
 
 ### Revolving Door. Tier 2:
-- ~~[Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Responsible Statecraft: When 80 percent of US generals go to work for arms makers](https://responsiblestatecraft.org/pentagon-revolving-door/) (Tier 2) (VERIFIED)
 - [Defense News: Lockheed adds Dunford, former top US military officer, to board](https://www.defensenews.com/industry/2020/01/25/lockheed-adds-dunford-former-top-us-military-officer-to-board/) (Tier 2) (VERIFIED)
-- ~~[Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
 
 ---
 
@@ -343,7 +340,6 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Net Assets | $74K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 946107683](https://projects.propublica.org/nonprofits/organizations/946107683) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Influence Network (Cross-Reference)
@@ -559,7 +555,6 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - State of Texas v. Snap Inc. (2026) — District Court, E.D. Texas
 - Artis v. Sikorsky Aircraft Corporation (2026) — District Court, D. Connecticut
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Contracts
@@ -638,3 +633,13 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[F-35 Program Cost Estimates - Congressional Research Service](https://fas.org/publication/f-35-program-cost/)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Project on Government Oversight: Brass Parachutes - The Problem of the Pentagon Revolving Door](https://www.pogo.org/reports/brass-parachutes)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Costs of War: Profits of War - Top Beneficiaries of Pentagon Spending, 2020-2024](https://costsofwar.watson.brown.edu/papers/2025/MilitaryContractors)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2014_09_EO%2F94-6107683_990EO_201406.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Lockheed%20Martin%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

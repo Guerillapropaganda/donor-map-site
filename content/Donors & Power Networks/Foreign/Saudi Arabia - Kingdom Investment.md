@@ -70,7 +70,6 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 
 ### Sources
 
-- ~~[FARA: Saudi Arabia foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OpenSecrets: Saudi Arabia foreign lobbying](https://www.opensecrets.org/fara) (Tier 1) (VERIFIED)
 - [Ballotpedia: Saudi Arabia-US relations](https://ballotpedia.org/Saudi_Arabia_-_Kingdom_Investment) (Tier 3) (VERIFIED)
 
@@ -125,3 +124,9 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FARA: Saudi Arabia foreign agent registrations](https://efile.fara.gov/ords/fara/f?p=185:1)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -68,18 +68,23 @@ Graham's 2020 victory over Jaime Harrison by only 3.4 points (in a state Trump w
 - [South Carolina 2026 Senate Race | Ballotpedia](https://ballotpedia.org/United_States_Senate_election_in_South_Carolina,_2026) (Tier 3) (VERIFIED)
 - {{src:src_001211}} (Tier 1) (VERIFIED)
 - {{src:src_002003}} (Tier 1) (VERIFIED)
-- ~~[Lockheed Martin contributions to Graham | OpenSecrets Recipient Search](https://www.opensecrets.org/orgs/lockheed-martin-corp/recipients?cand=G000359)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Raytheon Technologies political contributions to Graham | OpenSecrets](https://www.opensecrets.org/orgs/raytheon-technologies-corp/recipients?cand=G000359)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[Boeing Defense political spending on Graham | OpenSecrets](https://www.opensecrets.org/orgs/boeing-co/recipients?cand=G000359)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_001211}} (Tier 1) (VERIFIED)
-- ~~[Graham's voting record on military spending | ProPublica Congress](https://projects.propublica.org/congress/members/S001184-lindsey-graham)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
 - [Graham Senate Armed Services Committee votes analysis | Center for Responsive Politics](https://www.opensecrets.org/members-of-congress/summary?cid=N00009975) (Tier 1) (VERIFIED)
-- ~~[Annie Andrews 2026 campaign launch and funding | South Carolina Democratic Party](https://www.scdemocrats.org/annie-andrews-2026)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 - {{src:src_002010}} (Tier 1) (VERIFIED)
 - [OpenSecrets: Outside spending in South Carolina Senate races](https://www.opensecrets.org/races/outside-spending?cycle=2026&id=SCS1) (Tier 1) (VERIFIED)
-- ~~[Graham's anti-Trump to pro-Trump conversion timeline | CNN](https://web.archive.org/web/2023/https:/www.cnn.com/politics/lindsey-graham-trump-timeline)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Koch network funding to Graham 2017-2024 | OpenSecrets Koch Network Analysis](https://www.opensecrets.org/news/2024/koch-network-funding/)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
-- ~~[Defense spending and South Carolina economy | Center for Budget and Policy Priorities](https://www.cbpp.org/south-carolina-defense-spending)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Lockheed Martin contributions to Graham | OpenSecrets Recipient Search](https://www.opensecrets.org/orgs/lockheed-martin-corp/recipients?cand=G000359)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Raytheon Technologies political contributions to Graham | OpenSecrets](https://www.opensecrets.org/orgs/raytheon-technologies-corp/recipients?cand=G000359)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Boeing Defense political spending on Graham | OpenSecrets](https://www.opensecrets.org/orgs/boeing-co/recipients?cand=G000359)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Graham's voting record on military spending | ProPublica Congress](https://projects.propublica.org/congress/members/S001184-lindsey-graham)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 1)
+- ~~[Annie Andrews 2026 campaign launch and funding | South Carolina Democratic Party](https://www.scdemocrats.org/annie-andrews-2026)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- ~~[Graham's anti-Trump to pro-Trump conversion timeline | CNN](https://web.archive.org/web/2023/https:/www.cnn.com/politics/lindsey-graham-trump-timeline)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Koch network funding to Graham 2017-2024 | OpenSecrets Koch Network Analysis](https://www.opensecrets.org/news/2024/koch-network-funding/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Defense spending and South Carolina economy | Center for Budget and Policy Priorities](https://www.cbpp.org/south-carolina-defense-spending)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

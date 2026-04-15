@@ -333,15 +333,11 @@ The revolving door is the mechanism by which political media becomes an extensio
 - [Time: Jay Carney to Amazon 2015](https://time.com/3723776/jay-carney-amazon/) (Tier 2) (VERIFIED)
 - [Adweek: Robert Gibbs MSNBC 2013](https://www.adweek.com/) (Tier 2) (VERIFIED)
 - [Adweek: Ben Rhodes NBC/MSNBC 2018](https://www.adweek.com/tvnewser/former-obama-official-ben-rhodes-joins-nbc-news-and-msnbc/) (Tier 2) (VERIFIED)
-- ~~[Wall Street Journal: Kayleigh McEnany to Fox News 2021](https://www.wsj.com/business/media/kayleigh-mcenany-joins-fox-news-as-commentator-11614710188)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[The Hill: McEnany "Outnumbered" co-host 2021](https://thehill.com/homenews/media/545543-kayleigh-mcenany-joins-fox-news-as-co-host-of-outnumbered/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [TheWrap: Sean Spicer leaves Newsmax 2023](https://www.thewrap.com/sean-spicer-leaves-newsmax/) (Tier 2) (VERIFIED)
-- ~~[The Hill: Sean Spicer Newsmax exit 2023](https://thehill.com/homenews/media/3939086-sean-spicer-leaves-newsmax/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Sebastian Gorka](https://en.wikipedia.org/wiki/Sebastian_Gorka) (Tier 3) (VERIFIED)
 - [CNBC: Hope Hicks Fox appointment 2018](https://www.cnbc.com/2018/10/08/ex-trump-aide-hope-hicks-hired-by-foxheres-8-things-you-may-not-know.html) (Tier 2) (VERIFIED)
 - [Fox Business: Hope Hicks chief communications officer](https://www.foxbusiness.com/media/hope-hicks-joins-new-fox-as-chief-communications-officer) (Tier 2) (VERIFIED)
 - [Fox News Press: Sarah Huckabee Sanders Fox 2019](https://press.foxnews.com/2019/08/fox-news-signs-sarah-huckabee-sanders-to-contributor-role) (Tier 2) (VERIFIED)
-- ~~[New York Times: Sarah Huckabee Sanders Fox 2019](https://www.nytimes.com/2019/08/22/us/sarah-sanders-fox-news.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Mick Mulvaney](https://en.wikipedia.org/wiki/Mick_Mulvaney) (Tier 3) (VERIFIED)
 - [Harvard Magazine: Mick Mulvaney profile](https://www.harvardmagazine.com/2023/11/mick-mulvaney-harvard) (Tier 2) (VERIFIED)
 - [Newsweek: Fox News Trump administration list](https://www.newsweek.com/full-list-fox-news-personalities-serving-donald-trump-administration-2070560) (Tier 2) (VERIFIED)
@@ -350,7 +346,6 @@ The revolving door is the mechanism by which political media becomes an extensio
 - [Yahoo Finance: Pete Hegseth Fox salary analysis 2025](https://finance.yahoo.com/news/defense-secretary-pete-hegseths-6m-141516956.html) (Tier 2) (VERIFIED)
 - [Hollywood Reporter: Pete Hegseth financial disclosure 2025](https://www.hollywoodreporter.com/business/business-news/pete-hegseth-fox-news-salary-trump-cabinet-1236107855/) (Tier 2) (VERIFIED)
 - [Business Insider: Pete Hegseth financial disclosure 2025](https://www.businessinsider.com/pete-hegseth-salary-fox-paid-speeches-financial-disclosure-2025-1) (Tier 2) (VERIFIED)
-- ~~[Forbes: Dan Bongino Rumble stake 2025](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Fox News: Dan Bongino leaves FBI 2026](https://www.foxnews.com/politics/dan-bongino-leaves-fbi-deputy-director-role-after-less-than-year-returns-civilian-life) (Tier 2) (VERIFIED)
 - [Business Insider: Tulsi Gabbard financial disclosure 2025](https://www.businessinsider.com/tulsi-gabbard-financial-disclosure-paid-speeches-2025-1) (Tier 2) (VERIFIED)
 - [ABC News: Tulsi Gabbard income disclosure](https://abcnews.com/Politics/tulsi-gabbard-income-disclosure-wealth/story?id=117891226) (Tier 2) (VERIFIED)
@@ -364,11 +359,9 @@ The revolving door is the mechanism by which political media becomes an extensio
 - [Business Insider: Nicolle Wallace MSNBC 2018](https://www.businessinsider.com/nicolle-wallace-msnbc-profile-2018-3) (Tier 2) (VERIFIED)
 - [Salon: Defense industry pundits undisclosed ties 2022](https://www.salon.com/2022/04/13/new-report-details-how-cnn-and-msnbc-pundits-profit-from-undisclosed-ties-to-defense-contractors_partner/) (Tier 2) (VERIFIED)
 - [FAIR: Cable news lobbying disclosure failures](https://fair.org/take-action/action-alerts/tell-cable-news-no-more-pr-pundits/) (Tier 2) (VERIFIED)
-- ~~[SourceWatch: AEI Comcast net neutrality](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Enterprise_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [The Lever: Pentagon revolving door SDEF program](https://www.levernews.com/the-pentagons-30-year-lobbying-swindle/) (Tier 2) (VERIFIED)
 - [WSWS: RT America shutdown 2022](https://www.wsws.org/en/articles/2022/03/31/hedg-m31.html) (Tier 2) (VERIFIED)
 - [ESPN: Jesse Ventura RT America 2019](https://www.espn.com/wwe/story/_/id/19581015/ex-governor-wrestler-jesse-ventura-again-work-russian-funded-rt-network) (Tier 2) (VERIFIED)
-- ~~[Star Tribune: Jesse Ventura RT 2017](https://www.startribune.com/former-gov-jesse-ventura-has-a-new-gig-on-russian-television/427092891/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: The Grayzone](https://en.wikipedia.org/wiki/The_Grayzone) (Tier 3) (VERIFIED)
 - [Article 19: FARA and foreign media disclosure](https://www.article19.org/resources/requiring-media-register-foreign-agents-poses-threat-free-speech/) (Tier 2) (VERIFIED)
 - [FARA.us: Foreign Agent Registration Act](https://www.fara.us) (Tier 1) (VERIFIED)
@@ -378,3 +371,15 @@ The revolving door is the mechanism by which political media becomes an extensio
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Wall Street Journal: Kayleigh McEnany to Fox News 2021](https://www.wsj.com/business/media/kayleigh-mcenany-joins-fox-news-as-commentator-11614710188)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: McEnany "Outnumbered" co-host 2021](https://thehill.com/homenews/media/545543-kayleigh-mcenany-joins-fox-news-as-co-host-of-outnumbered/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[The Hill: Sean Spicer Newsmax exit 2023](https://thehill.com/homenews/media/3939086-sean-spicer-leaves-newsmax/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[New York Times: Sarah Huckabee Sanders Fox 2019](https://www.nytimes.com/2019/08/22/us/sarah-sanders-fox-news.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Forbes: Dan Bongino Rumble stake 2025](https://www.forbes.com/sites/kylemullins/2025/02/25/former-secret-service-agent-turned-deputy-fbi-director-is-already-very-rich/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[SourceWatch: AEI Comcast net neutrality](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/American_Enterprise_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Star Tribune: Jesse Ventura RT 2017](https://www.startribune.com/former-gov-jesse-ventura-has-a-new-gig-on-russian-television/427092891/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

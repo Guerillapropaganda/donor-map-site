@@ -184,8 +184,6 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 - {{src:src_003589}} (Tier 1) (NEEDS REVIEW)
 - {{src:src_003589}} (Tier 1) (VERIFIED)
 - [Senate.gov: Moran biography](https://www.moran.senate.gov/public/index.cfm/biography) (Tier 1) (VERIFIED)
-- ~~[Senate.gov: Moran appointed to committees for 119th Congress](https://www.moran.senate.gov/public/index.cfm/2025/1/sen-moran-appointed-to-influential-committees-for-the-119th-congress)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
-- ~~[Senate.gov: Moran Aviation Subcommittee chair](https://www.moran.senate.gov/public/index.cfm/2025/2/sen-moran-to-chair-the-senate-commerce-subcommittee-on-aviation-space-and-innovation)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Senate.gov: Moran leads 19 senators urging VA to correct community care policies](https://www.veterans.senate.gov/2024/7/sen-moran-leads-colleagues-in-urging-va-to-correct-policies-affecting-veteran-access-to-care) (Tier 1) (VERIFIED)
 - [Newsweek: Koch-backed group and VA privatization](https://www.newsweek.com/koch-brothers-backed-group-could-determine-future-va-870693) (Tier 2) (VERIFIED)
 - [American Oversight: Koch-funded VA privatization group's influence](https://americanoversight.org/documents-reveal-extent-of-koch-funded-va-privatization-groups-influence/) (Tier 2) (VERIFIED)
@@ -210,7 +208,6 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 - S. 2981: Veterans Prosthetics Advancement and Reform Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
 - S. 410: Love Lives On Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
 
-- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400284)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
@@ -269,6 +266,14 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 
 **Sources**
 
-- ~~[Congress.gov: Jerry Moran](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[GovTrack: Jerry Moran](https://www.govtrack.us/congress/members/400284)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Senate.gov: Moran appointed to committees for 119th Congress](https://www.moran.senate.gov/public/index.cfm/2025/1/sen-moran-appointed-to-influential-committees-for-the-119th-congress)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Senate.gov: Moran Aviation Subcommittee chair](https://www.moran.senate.gov/public/index.cfm/2025/2/sen-moran-to-chair-the-senate-commerce-subcommittee-on-aviation-space-and-innovation)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400284)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jerry Moran](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[GovTrack: Jerry Moran](https://www.govtrack.us/congress/members/400284)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

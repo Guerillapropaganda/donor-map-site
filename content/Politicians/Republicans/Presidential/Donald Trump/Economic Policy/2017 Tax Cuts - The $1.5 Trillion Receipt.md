@@ -135,11 +135,8 @@ The temporary individual provisions (set to expire 2025, then extended to 2028 u
 ### Sources
 
 - [Joint Committee on Taxation: JCX-67-17. TCJA official estimate ($1.5T revenue cost)](https://www.jct.gov/publications/2017/jcx-67-17/) (Tier 1) (VERIFIED: Okay; reversed from bad; downloadable PDF)
-- ~~[Congressional Budget Office: Economic Effects of TCJA (Publication 53312)](https://www.cbo.gov/publication/53312)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Congressional Research Service: TCJA Expiring Provisions. Economic and Distributional Effects (IF12641)](https://www.congress.gov/crs-product/IF12641) (Tier 1) (VERIFIED)
 - [Tax Policy Center: Distributional analysis by income quintile (Urban-Brookings partnership)](https://taxpolicycenter.org/sites/default/files/publication/150816/2001641_distributional_analysis_of_the_conference_agreement_for_the_tax_cuts_and_jobs_act_0.pdf) (Tier 1) (VERIFIED)
-- ~~[ScienceDirect / Journal of Economic Dynamics and Control: "Share buybacks and corporate tax cuts", empirical analysis of 2018 buyback wave](https://www.sciencedirect.com/science/article/abs/pii/S0165188923000283)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[CNN Business: Stock buyback records ($437B explosion in 2018 post-TCJA)](https://money.cnn.com/2018/07/10/investing/stock-buybacks-record-tax-cuts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Tax Foundation: OBBBA. Trump Tax Cuts 2025 budget reconciliation](https://taxfoundation.org/research/all/federal/trump-tax-cuts-2025-budget-reconciliation/) (Tier 2) (VERIFIED)
 - [Medicare Rights Center: OBBBA triggers $536B in Medicare cuts](https://democrats-budget.house.gov/resources/fact-sheet/trumps-big-ugly-law-triggers-536-billion-medicare-cuts) (Tier 2) (VERIFIED)
 
@@ -167,3 +164,11 @@ The temporary individual provisions (set to expire 2025, then extended to 2028 u
 > The TCJA countdown clock ran out and the donor class won: everything permanent is now made more permanent. The "middle-class benefits", tips deduction, overtime deduction, expire in 2028, exactly when Trump's term ends. The corporate rate, pass-through deduction, and estate tax relief: permanent. Workers get expiring benefits. Donors get permanent ones.
 >
 > The funding mechanism: Medicaid and Medicare cuts. The working class is paying for the donor class's tax permanence through healthcare program reductions. The $536B in Medicare cuts over 10 years exceeds the $193,380 average tax cut the top 0.1% received under TCJA annually.
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congressional Budget Office: Economic Effects of TCJA (Publication 53312)](https://www.cbo.gov/publication/53312)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[ScienceDirect / Journal of Economic Dynamics and Control: "Share buybacks and corporate tax cuts", empirical analysis of 2018 buyback wave](https://www.sciencedirect.com/science/article/abs/pii/S0165188923000283)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[CNN Business: Stock buyback records ($437B explosion in 2018 post-TCJA)](https://money.cnn.com/2018/07/10/investing/stock-buybacks-record-tax-cuts/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

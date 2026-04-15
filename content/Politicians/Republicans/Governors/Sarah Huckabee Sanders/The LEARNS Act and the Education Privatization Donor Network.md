@@ -201,5 +201,10 @@ Sanders governs an impoverished state while implementing privatization policies 
 - [Arkansas Times: Jim Walton gives $500K to defend Arkansas school vouchers from ballot measure](https://arktimes.com/arkansas-blog/2024/05/16/jim-walton-gives-500k-to-defend-arkansas-school-vouchers-from-ballot-measure) (Tier 2) (VERIFIED)
 - [In These Times: Arkansas Teachers went on strike against corporate school privatizers](https://inthesetimes.com/article/little-rock-arkansas-strike-teachers-waltons-walmart) (Tier 2) (VERIFIED)
 - [NEA Arkansas: Inside the web of Arkansas's school privatization empire](https://www.aeaonline.org/resource-library/inside-web-arkansass-school-privatization-empire) (Tier 2) (VERIFIED)
-- ~~[Common Dreams: The Walton Family Plot to Privatize Arkansas public schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-of-arkansas)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Common Dreams: The Walton Family Plot to Privatize Arkansas public schools](https://www.commondreams.org/views/2019/09/05/walton-family-plot-privatize-public-schools-of-arkansas)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

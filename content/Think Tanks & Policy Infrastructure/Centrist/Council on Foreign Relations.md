@@ -255,7 +255,6 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - [Bellingcat: Money Talks. Len Blavatnik and the Council on Foreign Relations (Oct 2019)](https://www.bellingcat.com/news/2019/10/10/money-talks-len-blavatnik-and-the-council-on-foreign-relations/) (Tier 2) (VERIFIED)
 - [Mother Jones: A Soviet-Born Billionaire Is Buying Influence at US Institutions. Blavatnik $12M CFR controversy](https://www.motherjones.com/politics/2019/10/council-on-foreign-relations-leonard-blavatnik-russia/) (Tier 2) (VERIFIED)
 - [DOJ: Former Government Official (Sue Mi Terry) Arrested for Acting as Unregistered Agent of South Korean Government (July 2024)](https://www.justice.gov/archives/opa/pr/former-cia-and-white-house-official-sue-mi-terry-arrested-acting-unregistered-agent-south) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: Council on Foreign Relations, funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [CFR: Former Secretary of Commerce Gina Raimondo Joins CFR as Distinguished Fellow (January 2025)](https://www.cfr.org/articles/former-secretary-commerce-gina-raimondo-joins-cfr-distinguished-fellow) (Tier 3) (VERIFIED)
 - [CFR: Council on Foreign Relations Announces Michael Froman Will Serve as New President (March 2023)](https://www.cfr.org/articles/council-foreign-relations-announces-michael-froman-will-serve-new-president) (Tier 3) (VERIFIED)
 - [UPI: Hegseth Cuts Military Ties with Ivy League Schools, Multiple Think Tanks (March 2026)](https://www.upi.com/Top_News/US/2026/03/01/dod-ends-relationships-ivy-league/5671772385928/) (Tier 2) (VERIFIED)
@@ -276,7 +275,6 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 - Harbourview Products International, LLC v. United States of America (2026) — United States Court of International Trade
 - The State of Oregon v. Trump (2026) — United States Court of International Trade
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20on%20Foreign%20Relations%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -294,11 +292,6 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131628168) (Tier 1) (VERIFIED)
@@ -358,3 +351,15 @@ The "centrist" or "nonpartisan" label obscures what the class composition reveal
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Council%20on%20Foreign%20Relations%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Council on Foreign Relations, funding documentation, leadership history, Wall Street connections](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Council_on_Foreign_Relations)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Council%20on%20Foreign%20Relations%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/131628168/2019)~~ (URL broken, archived by Ops)

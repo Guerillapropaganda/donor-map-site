@@ -217,9 +217,7 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 - [Center for American Progress: Our Supporters (self-reported donor list)](https://www.americanprogress.org/c3-our-supporters/) (Tier 3) (VERIFIED)
 - [Wikipedia: Center for American Progress](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3) (VERIFIED)
 - [Ballotpedia: Center for American Progress](https://ballotpedia.org/Center_for_American_Progress) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Politico: The Most Influential Think Tank of the Biden Era Has a New Leader](https://www.politico.com/news/2021/06/30/center-for-american-progress-new-leader-497167) (Tier 2) (VERIFIED)
-- ~~[The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [The Intercept: Leaked Emails From Pro-Clinton Group Reveal Censorship of Staff on Israel, AIPAC Pandering](https://theintercept.com/2015/11/05/leaked-emails-from-pro-clinton-group-reveal-censorship-of-staff-on-israel-aipac-pandering-warped-militarism/) (Tier 2) (VERIFIED)
 - [Truthdig: The Center for American Progress Isn't Fooling Anybody. ThinkProgress union shutdown analysis (2019)](https://www.truthdig.com/articles/liberal-think-tank-shutters-its-unionized-news-site-thinkprogress/) (Tier 2) (VERIFIED)
 - [The Nation: Corporate Influence at the Center for American Progress?](https://www.thenation.com/article/archive/corporate-influence-center-american-progress/) (Tier 2) (VERIFIED)
@@ -241,11 +239,6 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300126510) (Tier 1) (VERIFIED)
@@ -272,3 +265,15 @@ The ThinkProgress episode is instructive: when CAP's own progressive media staff
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Center%20for%20American%20Progress%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Center for American Progress](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Center_for_American_Progress)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[The Hill: Liberal News Site ThinkProgress Shutting Down](https://thehill.com/homenews/media/460268-liberal-news-site-thinkprogress-shutting-down/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/300126510/2019)~~ (URL broken, archived by Ops)

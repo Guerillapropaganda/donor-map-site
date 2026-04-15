@@ -139,7 +139,6 @@ Microsoft represents the corporate capture of government technology infrastructu
 - [Department of Defense: JWCC cloud contract award](https://www.defense.gov/News/Releases/Release/Article/3239378/) (Tier 1) (NEEDS REVIEW)
 - [SEC: Microsoft 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=microsoft&CIK=&type=10-K) (Tier 1) (VERIFIED)
 - [Washington Post: How Microsoft earned lawmakers trust in Silicon Valley battles](https://www.washingtonpost.com/technology/2022/01/19/microsoft-antitrust-lobbying-washington-reputation/) (Tier 2) (VERIFIED)
-- ~~[The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Microsoft political spending](https://ballotpedia.org/Microsoft) (Tier 3) (VERIFIED)
 
 ### Lobbying Activity
@@ -219,7 +218,6 @@ Microsoft represents the corporate capture of government technology infrastructu
 | Net Assets | $2.8M |
 
 - [Source: ProPublica Nonprofit Explorer - EIN 916374992](https://projects.propublica.org/nonprofits/organizations/916374992) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F916374992_202206_990PF_2023030921056171.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### Federal Court Records (CourtListener)
@@ -238,7 +236,6 @@ Microsoft represents the corporate capture of government technology infrastructu
 - Southeast Kansas Eye Care Associates, P.A. v. UnitedHealth Group Incorporated (2026) - District Court, D. Kansas
 - Shaw v. Kennedy (2026) - Court of Appeals for the First Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Microsoft%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Product Recalls (CPSC)
@@ -253,7 +250,6 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 - ~~[Microsoft Recalls AC Power Cords for Surface Pro Devices Due to Fire, Shock Hazards](https://www.cpsc.gov/Recalls/16089)~~ (URL broken, archived by Ops) (2016-02-02) - The power cords can overheat, posing fire or shock hazards.
 
-- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -371,3 +367,12 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd77b7c3-663e-cb91-229f-5766a50e9b7f-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Verge: Microsoft Activision acquisition and antitrust fight](https://www.theverge.com/microsoft-activision-acquisition/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F916374992_202206_990PF_2023030921056171.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Microsoft%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=Microsoft)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

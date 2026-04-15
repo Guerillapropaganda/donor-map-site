@@ -187,7 +187,6 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 - {{src:src_003525}} (Tier 1) (VERIFIED)
 - {{src:src_003525}} (Tier 1) (VERIFIED)
-- ~~[Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [Hoeven.senate.gov: Keystone XL pipeline legislation](https://www.hoeven.senate.gov/news/news-releases/hoeven-baucus-bipartisan-group-of-senators-introduce-legislation-to-approve-the-keystone-xl-pipeline) (Tier 1) (VERIFIED)
 - [Hoeven.senate.gov: Statement on DAPL and Keystone XL executive orders](https://www.hoeven.senate.gov/news/news-releases/hoeven-statements-on-president-trumps-executive-orders-advancing-the-keystone-xl-and-dakota-access-pipelines) (Tier 1) (VERIFIED)
 - [DeSmog: Senator promoting Dakota Access Pipeline invests in Bakken oil wells](https://www.desmog.com/2016/09/01/john-hoeven-dakota-access-pipeline-investments/) (Tier 2) (VERIFIED)
@@ -257,7 +256,6 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 | 12/29/2015 | -- | Sale | $100,001 - $250,000 | Self |
 | 12/28/2016 | CSX | Sale | $50,001 - $100,000 | Self |
 
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
 ### Legislative Activity (GovTrack)
@@ -291,3 +289,10 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412494) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: John Hoeven committee assignments](https://www.congress.gov/member/john-hoeven/H001061/committees)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

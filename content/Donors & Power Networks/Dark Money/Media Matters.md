@@ -180,10 +180,7 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 ### Sources
 
-- ~~[OpenSecrets: Media Matters organizational profile](https://www.opensecrets.org/orgs/media-matters-for-america/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- ~~[IRS Form 990: Media Matters (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Media%20Matters&city=&state=All+States&country=US)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [InfluenceWatch: Media Matters for America — funding and Democracy Alliance ties](https://www.influencewatch.org/non-profit/media-matters-for-america/) (Tier 3) (VERIFIED)
-- ~~[CNN: Elon Musk sues Media Matters](https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
 - [Media Matters: About Us and Research](https://www.mediamatters.org/about-us) (Tier 2) (VERIFIED)
 
 ---
@@ -215,11 +212,6 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 **Filing history:** 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2019)~~ (URL broken, archived by Ops)
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2018)~~ (URL broken, archived by Ops)
-- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2017)~~ (URL broken, archived by Ops)
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2016)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/453568592) (Tier 1) (VERIFIED)
@@ -258,7 +250,6 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 - COALITION FOR INDEPENDENT TECHNOLOGY RESEARCH v. RUBIO (2026) — District Court, District of Columbia
 - WESTALL v. GOOGLE (2026) — District Court, District of Columbia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Media%20Matters%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -329,3 +320,17 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Media Matters organizational profile](https://www.opensecrets.org/orgs/media-matters-for-america/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[IRS Form 990: Media Matters (2022-2023)](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Media%20Matters&city=&state=All+States&country=US)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[CNN: Elon Musk sues Media Matters](https://www.cnn.com/technology/elon-musk-sues-media-matters/index.html)~~ (URL broken, archived by Ops) *(source unavailable)* (Tier 3)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2019)~~ (URL broken, archived by Ops)
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/453568592/2016)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Media%20Matters%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

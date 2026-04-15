@@ -252,7 +252,6 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 - Upstate Jobs Party v. Kosinski (2021) — Court of Appeals for the Second Circuit
 - Charles v. Sacoolas (2020) — District Court, E.D. Virginia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Dunn%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Campaign Finance (FEC)
@@ -297,3 +296,9 @@ This is not quid pro quo corruption in the legal sense. It is structural politic
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tim%20Dunn%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Dunn%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

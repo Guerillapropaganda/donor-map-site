@@ -255,20 +255,14 @@ The critical question for class analysis is not whether EPI's research is accura
 ### Sources
 
 - [ProPublica Nonprofit Explorer: Economic Policy Institute IRS 990 filings 2011–2024](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1) (VERIFIED)
-- ~~[EPI: Funder acknowledgments and disclosure principles, 2021 donor list](https://www.epi.org/about/funder-acknowledgments-and-disclosure-principles/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Wikipedia: Economic Policy Institute, history, policy proposals, funding](https://en.wikipedia.org/wiki/Economic_Policy_Institute) (Tier 3) (VERIFIED)
 - [Wikipedia: Heidi Shierholz, career at EPI and Obama DOL](https://en.wikipedia.org/wiki/Heidi_Shierholz) (Tier 3) (VERIFIED)
-- ~~[EPI Board of Directors, current board composition](https://www.epi.org/about/board/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [EPI: The workers' think tank, a history of the Economic Policy Institute](https://www.epi.org/publication/the-workers-think-tank-a-history-of-the-economic-policy-institute/) (Tier 3) (VERIFIED)
-- ~~[EPI: State of Working America, flagship data publication](https://www.epi.org/research/state-of-working-america/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [EPI: Raising the federal minimum wage to $15 by 2025 would lift pay of 32 million workers](https://www.epi.org/publication/raising-the-federal-minimum-wage-to-15-by-2025-would-lift-the-pay-of-32-million-workers/) (Tier 3) (VERIFIED)
 - [EPI: Why workers need the PRO Act, fact sheet on labor law reform](https://www.epi.org/publication/why-workers-need-the-pro-act-fact-sheet/) (Tier 3) (VERIFIED)
-- ~~[EPI: Unlawful, employers charged with violating federal law in 41.5% of union election campaigns](https://www.epi.org/publication/unlawful-employer-opposition-to-union-election-campaigns/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[EPI: The Biden board, how Biden's NLRB appointees are restoring workers' rights](https://www.epi.org/publication/bidens-nlrb-restoring-rights/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [NPR: Longtime AFL-CIO official takes up key labor post in Biden administration (Thea Lee)](https://www.npr.org/2021/05/10/995542715/longtime-afl-cio-official-takes-up-key-labor-post-in-biden-administration) (Tier 2) (VERIFIED)
 - [Ballotpedia: Economic Policy Institute](https://ballotpedia.org/Economic_Policy_Institute) (Tier 3) (VERIFIED)
 - [OpenSecrets: Economic Policy Institute profile](https://www.opensecrets.org/orgs/economic-policy-institute/summary?id=D000077354) (Tier 1) (VERIFIED)
-- ~~[SourceWatch: Economic Policy Institute, tobacco funding history, Tobacco Institute relationship documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Economic_Policy_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [EPI: Unprecedented. The Trump NLRB's attack on workers' rights (5 simultaneous rulemakings, quorum loss, constitutional challenge)](https://www.epi.org/publication/unprecedented-the-trump-nlrbs-attack-on-workers-rights/) (Tier 2) (VERIFIED)
 - [EPI: Trump is the biggest union-buster in U.S. history, 1 million federal workers' collective bargaining rights at risk](https://www.epi.org/blog/trump-is-the-biggest-union-buster-in-u-s-history-more-than-1-million-federal-workers-collective-bargaining-rights-are-at-risk/) (Tier 2) (VERIFIED)
 - [EPI: Federal Policy Watch, real-time tracker of Trump administration changes to worker protections](https://www.epi.org/policywatch/) (Tier 3) (VERIFIED)
@@ -288,11 +282,6 @@ The critical question for class analysis is not whether EPI's research is accura
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/521368964) (Tier 1) (VERIFIED)
@@ -311,7 +300,6 @@ The critical question for class analysis is not whether EPI's research is accura
 **Foreign principals:**
 - Korea Institute for International Economic Policy (KIEP) (KOREA SOUTH)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
 
 ### Federal Register Activity
@@ -353,3 +341,21 @@ The critical question for class analysis is not whether EPI's research is accura
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Economic%20Policy%20Institute%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[EPI: Funder acknowledgments and disclosure principles, 2021 donor list](https://www.epi.org/about/funder-acknowledgments-and-disclosure-principles/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[EPI Board of Directors, current board composition](https://www.epi.org/about/board/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[EPI: State of Working America, flagship data publication](https://www.epi.org/research/state-of-working-america/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[EPI: Unlawful, employers charged with violating federal law in 41.5% of union election campaigns](https://www.epi.org/publication/unlawful-employer-opposition-to-union-election-campaigns/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[EPI: The Biden board, how Biden's NLRB appointees are restoring workers' rights](https://www.epi.org/publication/bidens-nlrb-restoring-rights/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[SourceWatch: Economic Policy Institute, tobacco funding history, Tobacco Institute relationship documentation](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Economic_Policy_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

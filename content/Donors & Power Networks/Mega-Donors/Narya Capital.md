@@ -170,10 +170,8 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 
 - [SEC: Narya Capital fund filings](https://www.sec.gov/cgi-bin/browse-edgar?company=Narya%20Capital&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
 - {{src:src_002687}} (Tier 1) (VERIFIED)
-- ~~[Axios: J.D. Vance launches venture capital fund outside of Silicon Valley (Jan. 9, 2020)](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [TechCrunch: 'Hillbilly Elegy' author J.D. Vance has raised $93 million for his own Midwestern venture fund (Jan. 9, 2020)](https://techcrunch.com/2020/01/09/hillbilly-elegy-author-j-d-vance-has-raised-93-million-for-his-own-midwestern-venture-fund/) (Tier 2) (VERIFIED)
 - [Axios: J.D. Vance's short career in venture capital (July 16, 2024)](https://www.axios.com/2024/07/16/jd-vance-venture-capital-career) (Tier 2) (VERIFIED)
-- ~~[Fast Company: These are the companies JD Vance invested in as a VC (and beyond)](https://www.fastcompany.com/91157500/companies-jd-vance-invested-in-as-a-vc)~~ (was Tier 2 — URL broken, archived by Ops) (Tier 2)
 - [CNN: Workers allege 'nightmare' conditions at AppHarvest, the Kentucky startup JD Vance helped fund (Aug. 13, 2024)](https://www.cnn.com/2024/08/13/politics/kentucky-startup-appharvest-jd-vance/index.html) (Tier 2) (VERIFIED)
 - [Sludge: Vance Owns Investments in Companies Receiving Defense Contracts (July 10, 2025)](https://readsludge.com/2025/07/10/vance-owns-investments-in-companies-receiving-defense-contracts/) (Tier 2) (VERIFIED)
 - [True Anomaly: Announcing Our $260M Fundraise](https://www.trueanomaly.space/newsroom/announcing-our-260m-fundraise) (Tier 2) (VERIFIED)
@@ -203,3 +201,10 @@ The analytical pattern is **Revolving Door** plus **Donor-Class Override** in co
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Axios: J.D. Vance launches venture capital fund outside of Silicon Valley (Jan. 9, 2020)](https://www.axios.com/2020/01/09/jd-vance-venture-capital-fund-ohio-silicon-valley-peter-thiel)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
+- ~~[Fast Company: These are the companies JD Vance invested in as a VC (and beyond)](https://www.fastcompany.com/91157500/companies-jd-vance-invested-in-as-a-vc)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

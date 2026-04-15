@@ -133,11 +133,9 @@ Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ke
 
 ### Sources
 
-- ~~[OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_009860}} (Tier 1) (VERIFIED)
 - [Heritage Foundation: About and Policy Priorities](https://www.heritage.org/about-heritage/impact) (Tier 2) (VERIFIED)
 - [OpenSecrets: Sentinel Action Fund PAC Profile 2022](https://www.opensecrets.org/political-action-committees-pacs/sentinel-action-fund/c00811166/summary/2022) (Tier 1) (VERIFIED)
-- ~~[Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs)~~ (was Tier 3 — URL broken, archived by Ops) (Tier 3)
 
 ---
 
@@ -167,12 +165,19 @@ Sentinel also illustrates **speculative mega-donor spending:** Barre Seid and Ke
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018
 
 **View 990 filings:**
+- ... and 1 more years
+
+- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/824373804) (Tier 1) (VERIFIED)
+<!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Sentinel Action Fund organizational profile](https://www.opensecrets.org/orgs/sentinel-action-fund/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Campaign Finance Institute: Super PAC effectiveness research](https://www.cfinst.org/research/super-pacs)~~ (was Tier 3 - URL broken, archived by Ops) (Tier 3)
 - ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2023)~~ (URL broken, archived by Ops)
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/824373804/2019)~~ (URL broken, archived by Ops)
-- ... and 1 more years
-
-- [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/824373804) (Tier 1) (VERIFIED)
-<!-- auto:nonprofit-990 end -->

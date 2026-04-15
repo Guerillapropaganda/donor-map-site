@@ -38,7 +38,12 @@ Peters chaired the Democratic Senatorial Campaign Committee (DSCC) for the 2020 
 
 ### Sources
 
-- ~~[Congress.gov: Gary Peters member profile](https://www.congress.gov/member/gary-peters/P000595)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_005413}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Gary Peters](https://ballotpedia.org/Gary_Peters) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Gary Peters member profile](https://www.congress.gov/member/gary-peters/P000595)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

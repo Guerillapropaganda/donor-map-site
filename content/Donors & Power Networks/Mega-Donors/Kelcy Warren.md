@@ -204,7 +204,6 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 
 ### Sources
 
-- ~~[Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [E&E News: Dakota Access CEO Gives $10M to Boost Trump](https://www.eenews.net/articles/dakota-access-ceo-gives-10m-to-boost-trump/) (Tier 2) (VERIFIED)
 - [Truthout: Dakota Access Pipeline Company Is Top Fossil Fuel Donor to Trump's War Chest](https://truthout.org/articles/dakota-access-pipeline-company-is-top-fossil-fuel-donor-to-trumps-war-chest/) (Tier 2) (VERIFIED)
 - [Wikipedia: Kelcy Warren](https://en.wikipedia.org/wiki/Kelcy_Warren) (Tier 3) (VERIFIED)
@@ -248,7 +247,6 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 - Bruce Smith v. University of Texas At San Antonio (2023) — District Court, W.D. Texas
 - D'Augusta v. American Petroleum Institute (2022) — District Court, N.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kelcy%20Warren%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -263,7 +261,6 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 | Net Assets | $94K |
 
 - [Source: ProPublica Nonprofit Explorer — EIN 367285069](https://projects.propublica.org/nonprofits/organizations/367285069) (Tier 1) (VERIFIED)
-- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2016_06_PF%2F36-7285069_990PF_201512.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
 ### DOJ Press Releases
@@ -286,3 +283,11 @@ This is not a one-time transaction. Warren's subsequent donations to Abbott (pos
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Greenpeace: A Brief History of Kelcy Warren and Donald Trump](https://www.greenpeace.org/global/usa/a-brief-history-of-kelcy-warren-and-donald-trump/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Kelcy%20Warren%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=2016_06_PF%2F36-7285069_990PF_201512.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

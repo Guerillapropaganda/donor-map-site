@@ -164,7 +164,6 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 - {{src:src_006106}} (Tier 1) (VERIFIED)
 - {{src:src_006106}} (Tier 1) (VERIFIED)
 - [GovTrack: Jerrold Nadler](https://www.govtrack.us/congress/members/jerrold_nadler/400289) (Tier 1) (NEEDS REVIEW)
-- ~~[Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Nadler.house.gov: Named Ranking Member of Antitrust Subcommittee](https://nadler.house.gov/news/documentsingle.aspx?DocumentID=396256) (Tier 1) (VERIFIED)
 - [Crain's New York: Nadler-Maloney primary battle reveals donor networks](https://www.crainsnewyork.com/politics/carolyn-maloney-and-jerry-nadler-locked-primary-battle-congress/) (Tier 2) (VERIFIED)
 - [Jewish Insider: From impeachment lead to Israel critic, Nadler ends storied career](https://jewishinsider.com/2025/09/jerry-nadler-retirement-announcement-manhattan-district-israel/) (Tier 2) (VERIFIED)
@@ -179,5 +178,11 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Jerry Nadler](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Jerrold Nadler](https://www.congress.gov/member/jerrold-nadler/N000002)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Jerry Nadler](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

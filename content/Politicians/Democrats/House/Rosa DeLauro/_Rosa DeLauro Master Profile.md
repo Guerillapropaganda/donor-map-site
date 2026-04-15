@@ -189,7 +189,6 @@ On healthcare, she leads with children and families, the child tax credit, schoo
 - [Track AIPAC: Rosa DeLauro Israel lobby contributions](https://www.trackaipac.com/congress) (Tier 2) (VERIFIED)
 - [Hartford Courant: Wall Street, lawyers, insurance and defense top donors to CT lawmakers](https://www.courant.com/2019/05/28/wall-street-lawyers-insurance-and-defense-top-donors-to-connecticut-lawmakers/) (Tier 2) (VERIFIED)
 - [CT Mirror: Rosa DeLauro child tax credit advocacy](https://ctmirror.org/2024/01/15/child-tax-credit-rosa-delauro/) (Tier 2) (VERIFIED)
-- ~~[Science/AAAS: FDA revolving door analysis](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenSecrets: Rosa DeLauro net worth disclosures](https://www.opensecrets.org/personal-finances/rosa-delauro/net-worth?cid=N00000615) (Tier 1) (VERIFIED)
 
 c
@@ -286,7 +285,6 @@ c
 | 6786 | Schedules That Work Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 | 6567 | Federal Food Administration Act of 2025 | Referred to the House Committee on Energy and Commerce. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/D000216)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Committee Assignments (Congress.gov)
@@ -299,7 +297,6 @@ c
 
 - Labor, Health and Human Services, Education, and Related Agencies
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Campaign Finance Summary (FEC)
@@ -351,7 +348,6 @@ c
 
 **Sources**
 
-- ~~[Congress.gov: Rosa DeLauro](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Rosa DeLauro](https://www.govtrack.us/congress/members/400103) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
@@ -371,3 +367,12 @@ Rosa Luisa DeLauro is an American politician serving as the U.S. representative 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Rosa_DeLauro) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q434952) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Science/AAAS: FDA revolving door analysis](https://www.science.org/content/article/fda-s-revolving-door-companies-often-hire-agency-staffers-who-managed-their-successful)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/D000216)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Rosa DeLauro](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

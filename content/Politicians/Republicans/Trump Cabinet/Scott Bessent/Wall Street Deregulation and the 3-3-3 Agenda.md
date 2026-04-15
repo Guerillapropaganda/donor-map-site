@@ -73,5 +73,10 @@ Bessent's disclosed assets exceed $521 million (estimates range $600–700M):
 ### Sources
 
 - [Banking Dive: Treasury's Bessent. Private credit surge underscores need for bank deregulation](https://www.bankingdive.com/news/treasury-bessent-private-credit-bank-deregulation-citi-fraser-milken/747262/) (Tier 2) (VERIFIED)
-- ~~[Campaign Legal Center: Ethics watchdogs demand investigations into Treasury Secretary Bessent's conflicts of interest](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-lawsuit-against-fec-failing-address-violationstreasury-secretary-bessents-potential)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Center for American Progress: Bessent's 3% deficit target would require massive cuts to anti-poverty programs](https://www.americanprogress.org/article/scott-bessents-3-percent-deficit-target-would-require-massive-cuts-to-anti-poverty-programs-and-middle-class-tax-increases/) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Campaign Legal Center: Ethics watchdogs demand investigations into Treasury Secretary Bessent's conflicts of interest](https://campaignlegal.org/press-releases/breaking-campaign-legal-center-files-lawsuit-against-fec-failing-address-violationstreasury-secretary-bessents-potential)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

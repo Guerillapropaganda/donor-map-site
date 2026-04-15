@@ -119,7 +119,6 @@ The exception is strategic, not humanitarian. The delivery provides 25-35 days o
 
 ### Sources
 
-- ~~[UN OHCHR: UN experts condemn US executive order imposing fuel blockade on Cuba](https://www.ohchr.org/en/press-releases/2026/02/un-experts-condemn-us-executive-order-imposing-fuel-blockade-cuba)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [OFAC: FAQ 1238, favorable licensing policy for Venezuelan oil resale to Cuba](https://ofac.treasury.gov/faqs/1238) (Tier 1) (VERIFIED)
 - [SOUTHCOM: Lethal Kinetic Strike, March 25, 2026](https://www.southcom.mil/News/PressReleases/Article/4444436/lethal-kinetic-strike-march-25-2026/) (Tier 1) (VERIFIED)
 - [SOUTHCOM: Lethal Kinetic Strike, Feb. 13, 2026](https://www.southcom.mil/News/PressReleases/Article/4406922/lethal-kinetic-strike-feb-13-2026/) (Tier 1) (VERIFIED)
@@ -129,7 +128,6 @@ The exception is strategic, not humanitarian. The delivery provides 25-35 days o
 - [NPR: Trump says he has 'no problem' with Russian oil tanker bringing relief to Cuba](https://www.npr.org/2026/03/30/nx-s1-5765971/trump-allows-russia-oil-tanker-relief-cuba-blockade) (Tier 2) (VERIFIED)
 - [Democracy Now: U.S. Pressure on Cuba Continues Despite Arrival of Russian Oil Tanker](https://www.democracynow.org/2026/3/31/cuba_oil_blockade_leogrande_fernandez_negotiations) (Tier 2) (VERIFIED)
 - [Al Jazeera: Cuba crisis explained. Who holds power?](https://www.aljazeera.com/news/2026/3/31/cuba-crisis-explained-who-holds-power-and-could-diaz-canel-be-replaced) (Tier 2) (VERIFIED)
-- ~~[The New Humanitarian: In Cuba, government mismanagement and US oil moves tell in human suffering](https://www.thenewhumanitarian.org/news-feature/2026/03/03/cuba-relentless-us-pressure-human-suffering)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Military.com: US Military Boat Strikes Kill 11 in Operation Southern Spear](https://www.military.com/feature/2026/02/17/us-military-boat-strikes-kill-11-operation-southern-spear.html) (Tier 2) (VERIFIED)
 - [Wikipedia: Operation Southern Spear](https://en.wikipedia.org/wiki/Operation_Southern_Spear) (Tier 3) (VERIFIED)
 - [Wikipedia: 2026 Cuban crisis](https://en.wikipedia.org/wiki/2026_Cuban_crisis) (Tier 3) (VERIFIED)
@@ -142,3 +140,10 @@ The exception is strategic, not humanitarian. The delivery provides 25-35 days o
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[UN OHCHR: UN experts condemn US executive order imposing fuel blockade on Cuba](https://www.ohchr.org/en/press-releases/2026/02/un-experts-condemn-us-executive-order-imposing-fuel-blockade-cuba)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[The New Humanitarian: In Cuba, government mismanagement and US oil moves tell in human suffering](https://www.thenewhumanitarian.org/news-feature/2026/03/03/cuba-relentless-us-pressure-human-suffering)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

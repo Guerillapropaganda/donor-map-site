@@ -175,7 +175,6 @@ Total Adelson family investment: $190M+ across four political cycles. Total geop
 - [Miriam Adelson gives $100 million to Trump campaign Times of Israel](https://www.timesofisrael.com/miriam-adelson-gives-100-million-to-trump-campaign-making-good-on-reported-pledge/) (Tier 2) (VERIFIED)
 - [Trump tell-all cites Adelson's bankrolled Israel embassy move Responsible Statecraft](https://responsiblestatecraft.org/2022/10/07/new-book-highlights-how-campaign-money-influences-us-foreign-policy/) (Tier 2) (VERIFIED)
 - [Sheldon Adelson's Fortune Helped Turn the GOP Into the Party of Israeli Apartheid The Intercept](https://theintercept.com/2021/01/12/sheldon-adelson-trump-israel-republican-party/) (Tier 2) (VERIFIED)
-- ~~[Oil prices, recession: What happens if Strait of Hormuz stays closed Axios](https://www.axios.com/2026/03/12/oil-prices-iran-strait-of-hormuz)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [How Strait of Hormuz closure can become tipping point for global economy CNBC](https://www.cnbc.com/2026/03/11/strait-of-hormuz-closure-shipping-economy-oil.html) (Tier 2) (VERIFIED)
 - [What the closure of the Strait of Hormuz means for the global economy Dallas Federal Reserve](https://www.dallasfed.org/research/economics/2026/0320) (Tier 1) (VERIFIED)
 - [2026 Strait of Hormuz crisis Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) (Tier 3) (VERIFIED)
@@ -195,3 +194,9 @@ Total Adelson family investment: $190M+ across four political cycles. Total geop
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Oil prices, recession: What happens if Strait of Hormuz stays closed Axios](https://www.axios.com/2026/03/12/oil-prices-iran-strait-of-hormuz)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

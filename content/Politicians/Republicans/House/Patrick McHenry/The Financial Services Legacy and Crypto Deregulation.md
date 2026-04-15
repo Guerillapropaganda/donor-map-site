@@ -40,7 +40,12 @@ McHenry received substantial crypto industry contributions: Coinbase PAC and emp
 
 ### Sources
 
-- ~~[Congress.gov: Patrick McHenry member profile](https://www.congress.gov/member/patrick-mchenry/M001156)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_004254}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Patrick McHenry](https://ballotpedia.org/Patrick_McHenry) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Patrick McHenry member profile](https://www.congress.gov/member/patrick-mchenry/M001156)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

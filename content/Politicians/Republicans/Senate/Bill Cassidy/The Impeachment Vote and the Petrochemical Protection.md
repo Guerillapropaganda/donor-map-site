@@ -107,7 +107,6 @@ The system is sophisticated enough to tolerate, even celebrate, principled stanc
 
 - [U.S. Senator Bill Cassidy: Cassidy Votes to Convict President Donald Trump](https://www.cassidy.senate.gov/newsroom/press-releases/cassidy-votes-to-convict-president-donald-trump/) (Tier 1) (VERIFIED)
 - [NBC News: GOP Sen. Cassidy explains why he voted to convict](https://www.nbcnews.com/politics/donald-trump/live-blog/2021-02-13-trump-impeachment-trial-live-updates-n1257801/ncrd1257893) (Tier 2) (VERIFIED)
-- ~~[The Hill: GOP Sen. Cassidy: 'I voted to convict Trump because he is guilty'](https://thehill.com/homenews/senate/538774-gop-sen-cassidy-i-voted-to-convict-trump-because-he-is-guilty/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Rolling Stone: Louisiana GOP Censures Sen. Cassidy Who 'Voted to Convict President Trump Because He Is Guilty'](https://www.rollingstone.com/politics/politics-news/louisiana-gop-censures-cassidy-trump-impeachment-vote-1128332/) (Tier 2) (VERIFIED)
 - [Cook Political Report: Bayou Battle Looms as Cassidy Tries To Repent From Trump Impeachment Vote](https://www.cookpolitical.com/analysis/senate/louisiana-senate/bayou-battle-looms-cassidy-tries-repent-trump-impeachment-vote) (Tier 2) (VERIFIED)
 - [Louisiana Illuminator: By objecting to the term 'Cancer Alley,' Sen. Bill Cassidy is defending polluters, not Louisiana](https://lailluminator.com/2021/02/05/despite-sen-cassidys-critiques-louisianans-have-lamented-cancer-alley-since-the-80s/) (Tier 2) (VERIFIED)
@@ -116,3 +115,9 @@ The system is sophisticated enough to tolerate, even celebrate, principled stanc
 - [19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/) (Tier 2) (VERIFIED)
 - [NBC News: GOP Sen. Bill Cassidy draws primary challenger citing Trump impeachment vote](https://www.nbcnews.com/politics/congress/gop-sen-bill-cassidy-draws-primary-challenger-trump-impeachment-rcna182940) (Tier 2) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: GOP Sen. Cassidy: 'I voted to convict Trump because he is guilty'](https://thehill.com/homenews/senate/538774-gop-sen-cassidy-i-voted-to-convict-trump-because-he-is-guilty/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

@@ -152,15 +152,12 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 - [Wikipedia: Anduril Industries](https://en.wikipedia.org/wiki/Anduril_Industries) (Tier 4) (VERIFIED)
 - [Anduril: Mission](https://www.anduril.com/mission) (Tier 3) (VERIFIED)
 - [Sacra: Anduril analysis](https://sacra.com/c/anduril/) (Tier 3) (VERIFIED)
-- ~~[Reuters: Anduril pursuing $4B at $60B valuation](https://www.reuters.com/business/anduril-set-double-its-valuation-with-4-billion-funding-round-source-says-2026-03-03/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DefenseScoop: Anduril $20B Army contract](https://defensescoop.com/2026/03/14/anduril-20-billion-dollar-army-contract/) (Tier 2) (VERIFIED)
 - [FNEX: Anduril $2.5B Series G](https://fnex.com/anduril-secures-2-5b-in-funding-doubling-valuation-to-30-5b/) (Tier 3) (VERIFIED)
 - [Contrary Research: Anduril](https://research.contrary.com/company/anduril) (Tier 3) (VERIFIED)
 - [Aviation Outlook: Anduril analysis](https://aviationoutlook.substack.com/p/anduril-company-analysis-outlook-report) (Tier 3) (VERIFIED)
-- ~~[NYT: Pentagon and Anduril/Palmer Luckey](https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [OpenLobby: Anduril lobbying](https://www.openlobby.us/clients/anduril-industries-inc) (Tier 2) (VERIFIED)
 - [Senate LDA Filings: Anduril lobbying](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[Reuters: Anduril pre-IPO fraud charges](https://www.reuters.com/legal/government/us-investment-manager-charged-with-anduril-pre-ipo-fraud-2025-12-18/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Wikipedia: Palmer Luckey](https://en.wikipedia.org/wiki/Palmer_Luckey) (Tier 4) (VERIFIED)
 - [JPost: Anduril defense tech](https://www.jpost.com/defense-and-tech/article-876647) (Tier 3) (VERIFIED)
 
@@ -322,7 +319,6 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 - Desktop Metal, Inc., Debtor (2025) — United States Bankruptcy Court, S.D. Texas
 - Matthew Guertin v. Tim Walz (2025) — Court of Appeals for the Eighth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anduril%20Industries%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -363,3 +359,12 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anduril%20Industries) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Reuters: Anduril pursuing $4B at $60B valuation](https://www.reuters.com/business/anduril-set-double-its-valuation-with-4-billion-funding-round-source-says-2026-03-03/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[NYT: Pentagon and Anduril/Palmer Luckey](https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Reuters: Anduril pre-IPO fraud charges](https://www.reuters.com/legal/government/us-investment-manager-charged-with-anduril-pre-ipo-fraud-2025-12-18/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Anduril%20Industries%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -251,12 +251,17 @@ The transactional clarity is the defining feature. Traditional Republican fundra
 **Filing history:** 2018, 2018, 2017, 2016, 2015, 2014, 2013, 2012
 
 **View 990 filings:**
-- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)~~ (URL broken, archived by Ops)
 - [2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)
-- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2017)~~ (URL broken, archived by Ops)
-- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2016)~~ (URL broken, archived by Ops)
-- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2015)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363550786) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[2018 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2018)~~ (URL broken, archived by Ops)
+- ~~[2017 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2017)~~ (URL broken, archived by Ops)
+- ~~[2016 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2016)~~ (URL broken, archived by Ops)
+- ~~[2015 Filing](https://projects.propublica.org/nonprofits/organizations/363550786/2015)~~ (URL broken, archived by Ops)

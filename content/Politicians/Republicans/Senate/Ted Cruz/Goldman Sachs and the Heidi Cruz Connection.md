@@ -52,9 +52,14 @@ The loans were discovered by the New York Times in 2016 during Cruz's presidenti
 
 ### Sources
 
-- ~~[New York Times: Ted Cruz Goldman Sachs undisclosed loans](https://www.nytimes.com/2016/01/14/us/politics/goldman-sachs-loan-ted-cruz-wife.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
-- ~~[FEC: Ted Cruz campaign fine for loan disclosure violations](https://www.fec.gov/resources/cms-content/documents/cruz_cruz_conciliation.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Campaign Legal Center: Cruz fined for loan disclosure violations](https://campaignlegal.org/update/senator-ted-cruz-fined-keeping-voters-dark-about-over-1-million-loans-violating-federal-law) (Tier 1) (VERIFIED)
 - [CNN Politics: FEC fines Ted Cruz $35,000](https://www.cnn.com/2019/03/15/politics/ted-cruz-2012-senate-campaign-fine/index.html) (Tier 2) (VERIFIED)
 - [OpenSecrets: Ted Cruz personal finances](https://www.opensecrets.org/personal-finances/ted-cruz/net-worth?cid=N00033085) (Tier 1) (VERIFIED)
 - [The Texas Tribune: Cruz fined $35,000 for loan disclosure](https://www.texastribune.org/2019/03/15/ted-cruz-fined-35000-not-disclosing-campaign-loans/) (Tier 2) (VERIFIED)
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Ted Cruz Goldman Sachs undisclosed loans](https://www.nytimes.com/2016/01/14/us/politics/goldman-sachs-loan-ted-cruz-wife.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FEC: Ted Cruz campaign fine for loan disclosure violations](https://www.fec.gov/resources/cms-content/documents/cruz_cruz_conciliation.pdf)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

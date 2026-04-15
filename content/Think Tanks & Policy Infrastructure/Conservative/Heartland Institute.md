@@ -212,7 +212,6 @@ The Heartland Institute is the most transparent case study in the vault of how t
 - [Media Bias/Fact Check: Heartland Institute](https://mediabiasfactcheck.com/heartland-institute/) (Tier 3) (VERIFIED)
 - [The Guardian: Leak exposes how Heartland Institute works to undermine climate science (2012)](https://www.theguardian.com/environment/2012/feb/15/leak-exposes-heartland-institute-climate) (Tier 2) (VERIFIED)
 - [Heartland Institute: About Us](https://heartland.org/about-us/) (Tier 3) (VERIFIED)
-- ~~[SourceWatch: Heartland Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heartland_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Inside Climate News: How Big Oil Lost Control of Its Climate Misinformation Machine (2017)](https://insideclimatenews.org/news/22122017/big-oil-heartland-climate-science-misinformation-campaign-koch-api-trump-infographic/) (Tier 2) (VERIFIED)
 - [Climate Investigations Center: CIC Briefing. Craig Idso, Heartland Institute, NIPCC Climate Denial](https://climateinvestigations.org/cic_briefing_craig_idso_heartland_institute_nipcc_climate_denial/) (Tier 2) (VERIFIED)
 - [PBS Frontline: In Shift, Key Climate Denialist Group Heartland Institute Pivots to Policy](https://www.pbs.org/wgbh/frontline/article/in-shift-key-climate-denialist-group-heartland-institute-pivots-to-policy/) (Tier 2) (VERIFIED)
@@ -239,11 +238,6 @@ The Heartland Institute is the most transparent case study in the vault of how t
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/363309812) (Tier 1) (VERIFIED)
@@ -283,3 +277,14 @@ The Heartland Institute is the most transparent case study in the vault of how t
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Heartland%20Institute%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[SourceWatch: Heartland Institute](https://www.sourcewatch.org/index.php?title=SourceWatchindex.php?title=SourceWatch/Heartland_Institute)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/363309812/2019)~~ (URL broken, archived by Ops)

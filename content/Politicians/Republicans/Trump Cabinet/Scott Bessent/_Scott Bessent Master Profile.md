@@ -158,7 +158,6 @@ Bessent holds $521 million+ in personal assets affected by his own policy decisi
 
 - [FEC Independent Expenditures: Bessent political contributions](https://www.fec.gov/data/independent-expenditures/?q=Scott%20Bessent) (Tier 1) (VERIFIED)
 - [Fortune: Net worth disclosure and ethics compliance](https://fortune.com/2025/01/12/scott-bessent-net-worth-trump-treasury-secretary-nominee-personal-assets-financial-disclosure/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Wall Street backing and nomination](https://www.bloomberg.com/news/articles/2024-11-25/wall-street-cheers-trump-s-pick-of-bessent-to-run-treasury)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [NPR: Soros connection (Planet Money - Black Wednesday)](https://www.npr.org/transcripts/1216966368) (Tier 2) (VERIFIED)
 - [Banking Dive: Deregulation agenda and ethics investigation](https://www.bankingdive.com/news/bessent-ethics-farmland-divest-assets-investments-china-north-dakota-treasury-crapo-wyden-oge/757703/) (Tier 2) (VERIFIED)
 - [Campaign Legal Center: Ethics compliance failure](https://campaignlegal.org/press-releases/campaign-legal-center-files-fec-complaint-against-super-pac-spending-montana-senate) (Tier 2) (VERIFIED)
@@ -179,7 +178,13 @@ Bessent holds $521 million+ in personal assets affected by his own policy decisi
 **China engagement:** Met with Chinese Vice Premier He Lifeng in Paris (March 15-16), continuing economic diplomacy track parallel to the Iran military escalation.
 
 - [Fortune: Treasury to oversee $180B in defaulted student loans](https://fortune.com/2026/03/20/scott-bessent-treasury-department-student-debt-loans-management/) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Bessent flags potential oil reserve release](https://www.bloomberg.com/news/articles/2026-03-19/bessent-flags-potential-reserve-release-no-market-intervention)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
 ## Committee Assignments (Congress.gov)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Wall Street backing and nomination](https://www.bloomberg.com/news/articles/2024-11-25/wall-street-cheers-trump-s-pick-of-bessent-to-run-treasury)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Bloomberg: Bessent flags potential oil reserve release](https://www.bloomberg.com/news/articles/2026-03-19/bessent-flags-potential-reserve-release-no-market-intervention)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

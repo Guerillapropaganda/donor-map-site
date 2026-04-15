@@ -196,7 +196,6 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 - [NBC News: Koch network faces internal scrutiny after Nikki Haley endorsement](https://www.nbcnews.com/politics/2024-election/koch-network-faces-internal-scrutiny-nikki-haley-endorsement-rcna127838) (Tier 2) (VERIFIED)
 - [CNBC: Wall Street opens wallets wide for 'Trump alternative' Nikki Haley at $500K fundraiser](https://www.cnbc.com/2023/12/05/nikki-haley-raises-over-500000-at-event-with-wall-street-execs.html) (Tier 2) (VERIFIED)
 - [CNBC: Nikki Haley gets early support from wealthy donors](https://www.cnbc.com/2023/04/17/nikki-haley-enjoys-early-billionaire-support-in-2024-race.html) (Tier 2) (VERIFIED)
-- ~~[Bloomberg: Rich donors keep Haley's 2024 run afloat even if voters won't](https://www.bloomberg.com/news/articles/2024-01-24/rich-donors-keep-haley-s-2024-run-afloat-even-if-voters-won-t)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [The Lever: Nikki Haley Helped Boeing Kill Dark Money Disclosure Initiative](https://www.levernews.com/nikki-haley-helped-boeing-kill-dark-money-disclosure-initiative/) (Tier 2) (VERIFIED)
 - [Jacobin: Nikki Haley Helped Boeing Hide Its Political Spending](https://jacobin.com/2024/01/nikki-haley-boeing-political-expenditures) (VERIFIED) (Tier 4, flag: left-partisan publication) (Tier 2)
 - [Hollywood Life: Nikki Haley Endorses Trump, After Calling Him Unfit for Presidency](https://hollywoodlife.com/2024/07/17/nikki-haley-endorses-trump-after-calling-him-unfit-for-presidency/) (Tier 3) (VERIFIED)
@@ -247,3 +246,9 @@ Haley is the most likely donor-class vehicle for 2028 if Trump does not run and 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Bloomberg: Rich donors keep Haley's 2024 run afloat even if voters won't](https://www.bloomberg.com/news/articles/2024-01-24/rich-donors-keep-haley-s-2024-run-afloat-even-if-voters-won-t)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

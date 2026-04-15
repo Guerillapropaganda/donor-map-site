@@ -147,7 +147,6 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - [AFPM: About Us](https://afpm.org/about-us/about-us) (Tier 3) (VERIFIED)
 - [AFPM: History](https://afpm.org/about-afpm/our-history) (Tier 3) (VERIFIED)
 - [AFPM: CEO Chet Thompson](https://www.afpm.org/about-afpm/staff-directory/chet-thompson-president-and-ceo) (Tier 3) (VERIFIED)
-- ~~[AFPM: Statement on Trump executive orders](https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (URL NEEDED)
 - [Wikipedia: AFPM](https://en.wikipedia.org/wiki/American_Fuel_and_Petrochemical_Manufacturers) (Tier 4) (VERIFIED)
 - [ProPublica: AFPM 990 filings](https://projects.propublica.org/nonprofits/organizations/130433430) (Tier 1) (VERIFIED)
 - [OpenSecrets: AFPM contributions](https://www.opensecrets.org/orgs/american-fuel-petrochemical-manufacturers/summary?id=D000000481) (Tier 1) (VERIFIED)
@@ -239,7 +238,6 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 - In Re: MCP 197 (2025) — Court of Appeals for the First Circuit
 - Center for Biological Diversity v. National Highway Traffic Safety Administration (2025) — Court of Appeals for the First Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -275,11 +273,6 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2016, 2015
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530115970) (Tier 1) (VERIFIED)
@@ -302,3 +295,15 @@ AFPM is the fossil fuel industry's collective action vehicle, a $61.4M trade ass
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[AFPM: Statement on Trump executive orders](https://www.afpm.org/newsroom/news/afpm-statement-president-trumps-executive-orders-unleashing-american-energy)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (URL NEEDED)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22American%20Fuel%20and%20Petrochemical%20Manufacturers%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/530115970/2019)~~ (URL broken, archived by Ops)

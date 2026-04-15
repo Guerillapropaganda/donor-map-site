@@ -213,7 +213,6 @@ The class function Scott performs is unique and cannot be replicated by a white 
 - [CNN: Deep-pocketed donors give fresh attention to Tim Scott's long-shot presidential bid](https://www.cnn.com/2023/07/13/politics/tim-scott-donors/index.html) (Tier 2) (VERIFIED)
 - [CNN: Tim Scott endorses Trump for 2024 president](https://www.cnn.com/2024/01/19/politics/tim-scott-endorsement-trump/index.html) (Tier 2) (VERIFIED)
 - [PBS News: Sen. Tim Scott drops out of 2024 presidential race](https://www.pbs.org/newshour/politics/sen-tim-scott-drops-out-of-2024-presidential-race-shocking-donors-and-campaign-staff) (Tier 2) (VERIFIED)
-- ~~[The Hill: Tim Scott leaves open door to being Trump's VP](https://thehill.com/homenews/campaign/4420336-tim-scott-leaves-open-door-to-being-trumps-vp/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Boston Review: The False Promise of Opportunity Zones](https://www.bostonreview.net/articles/the-false-promise-of-opportunity-zones/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Tim Scott](https://ballotpedia.org/Tim_Scott) (Tier 3) (VERIFIED)
 
@@ -243,7 +242,6 @@ The class function Scott performs is unique and cannot be replicated by a white 
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001184)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ## Committee Assignments (Congress.gov)
@@ -277,5 +275,12 @@ The class function Scott performs is unique and cannot be replicated by a white 
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Tim Scott](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Tim Scott leaves open door to being Trump's VP](https://thehill.com/homenews/campaign/4420336-tim-scott-leaves-open-door-to-being-trumps-vp/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001184)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Tim Scott](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

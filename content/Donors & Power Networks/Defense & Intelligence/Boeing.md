@@ -268,12 +268,10 @@ The Starliner failure completes the picture. After stranding two astronauts and 
 - [Motley Fool: Boeing wins $12.8B defense contracts January 2026](https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/) (Tier 2) (VERIFIED)
 
 ### Revolving Door (Tier 2)
-- ~~[Project On Government Oversight: Pentagon's Revolving Door 2021 Review](https://www.pogo.org/analyses/the-pentagons-revolving-door-keeps-spinning-2021-in-review)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Seattle Times: How the revolving door at FAA spins Boeing's way](https://www.seattletimes.com/business/boeing-aerospace/how-the-revolving-door-at-faa-spins-boeings-way/) (Tier 2) (VERIFIED)
 
 ### Starliner Program Failure (Tier 2)
 - [NASA Press Release: Starliner Crewed Flight Test Investigation](https://www.nasa.gov/news-release/nasa-releases-report-on-starliner-crewed-flight-test-investigation/) (Tier 1) (VERIFIED)
-- ~~[Scientific American: NASA says a litany of failures led to 2024 Boeing Starliner astronaut stranding](https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [CNN: NASA designates Boeing Starliner test flight a 'Type A mishap'](https://www.cnn.com/2026/02/19/science/nasa-boeing-starliner-investigation-report) (Tier 2) (VERIFIED)
 
 ### SLS/Artemis Cost Overruns (Tier 2)
@@ -403,7 +401,6 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - United States v. BROWN (2026) — District Court, District of Columbia
 - Miller v. Blue Cross and Blue Shield of Illinois (2026) — District Court, W.D. Washington
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Corporate Structure (GLEIF)
@@ -598,11 +595,6 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/916056255) (Tier 1) (VERIFIED)
@@ -758,3 +750,16 @@ The Boeing Company is an American multinational corporation that designs and man
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1)
 
 <!-- auto:usaspending pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Project On Government Oversight: Pentagon's Revolving Door 2021 Review](https://www.pogo.org/analyses/the-pentagons-revolving-door-keeps-spinning-2021-in-review)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Scientific American: NASA says a litany of failures led to 2024 Boeing Starliner astronaut stranding](https://www.scientificamerican.com/article/nasa-says-a-litany-of-failures-led-to-2024-boeing-starliner/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Boeing%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/916056255/2019)~~ (URL broken, archived by Ops)

@@ -148,7 +148,6 @@ Cargill, Incorporated. The largest privately held company in the United States (
 
 As a private company, Cargill avoids the public disclosure requirements that apply to publicly traded corporations. The company's PAC contributes $1-2 million per cycle, with lobbying spending of $3-5 million annually. Cargill's political influence operates primarily through trade associations (American Farm Bureau Federation, National Grain and Feed Association) and direct lobbying rather than high-profile political contributions.
 
-- ~~[OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -185,7 +184,6 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 
 - [OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241) (Tier 1)
 - [Forbes: Cargill-MacMillan family wealth](https://www.forbes.com/profile/cargill-macmillan/) (Tier 2) (VERIFIED)
-- ~~[Ballotpedia: Cargill](https://ballotpedia.org/Cargill)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 
 ### Financial Overview (990 Filing, 2023)
 <!-- auto:propublica-990 start -->
@@ -256,7 +254,6 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 | All Other Specialty Trade Contractors (238990) | $2.6M |
 | Other Animal Food Manufacturing (311119) | $2.1M |
 
-- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
 <!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
@@ -430,7 +427,6 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
 - Sue Kim v. Target Corporation (2026) — District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 <!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
@@ -591,11 +587,6 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2015, 2014, 2013
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)~~ (URL broken, archived by Ops)
 - ... and 3 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/416020221) (Tier 1)
@@ -785,3 +776,17 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Cargill organizational profile](https://www.opensecrets.org/orgs/cargill-inc/summary?id=D000000241)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Ballotpedia: Cargill](https://ballotpedia.org/Cargill)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/416020221/2019)~~ (URL broken, archived by Ops)

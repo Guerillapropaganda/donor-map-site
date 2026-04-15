@@ -82,7 +82,6 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 
 ### Sources
 
-- ~~[OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Sports betting industry influence on states](https://www.propublica.org/article/illinois-gambling-expansion-bill-sports-betting-video-gambling) (Tier 2) (VERIFIED)
 - [Center for Responsive Politics: Gambling industry contributions](https://www.fec.gov/data/receipts/?data_type=processed) (Tier 1) (VERIFIED)
 - [NPR: The Story Behind the Sports Betting Boom. DraftKings, FanDuel, and state lobbying](https://www.npr.org/2023/04/06/1168349259/the-story-behind-the-sports-betting-boom) (VERIFIED) (
@@ -128,8 +127,6 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 **Filing history:** 2023, 2022
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2022)~~ (URL broken, archived by Ops)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/874117395) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
@@ -184,5 +181,13 @@ The Sports Betting Alliance exemplifies emerging industry regulatory capture: a 
 **Notable cases:**
 - Papaya Gaming, LTD. v. Fair Play For Mobile Games (2025) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sports%20Betting%20Alliance%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Sports betting dark money spending](https://www.opensecrets.org/groups/sports-betting-alliance)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/874117395/2022)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Sports%20Betting%20Alliance%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

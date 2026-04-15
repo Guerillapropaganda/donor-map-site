@@ -109,7 +109,6 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 
 - [OpenSecrets: Sen. Adam Schiff campaign finance summary](https://www.opensecrets.org/members-of-congress/summary?cid=N00009585&cycle=CAREER) (Tier 1) (VERIFIED)
 - [Deadline: California's U.S. Senate Hopefuls Seek Hollywood Support](https://deadline.com/2024/01/california-senate-race-hollywood-adam-schiff-1235693797/) (Tier 2) (VERIFIED)
-- ~~[CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support](https://www.washingtonpost.com/politics/2024/03/04/porter-schiff-california-senate-election/) (Tier 2) (VERIFIED)
 - [JTA: Adam Schiff with AIPAC backing advances to Senate race](https://www.jta.org/2024/03/06/politics/adam-schiff-jewish-impeachment-star-with-aipac-backing-advances-to-senate-runoff-to-replace-dianne-feinstein) (Tier 2) (VERIFIED)
 - [OpenSecrets: Schiff heads into 2024 Senate race with sizable cash advantage](https://www.opensecrets.org/news/2023/05/adam-schiff-heads-into-californias-2024-u-s-senate-race-with-a-sizable-cash-advantage) (Tier 2) (VERIFIED)
@@ -151,7 +150,6 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Adam Schiff](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
@@ -179,5 +177,12 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 | — |  | — |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/S001150)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean?](https://calmatters.org/category/politics/elections/2024/02/california-senate-race-corporate-pacs/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: Adam Schiff](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/S001150)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

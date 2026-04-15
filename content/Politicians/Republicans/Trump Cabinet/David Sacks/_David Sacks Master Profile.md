@@ -153,7 +153,6 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [FEC: David Sacks contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=sacks,+david) (Tier 1) (VERIFIED)
 - [Fortune: Peter Thiel Network Trump White House](https://fortune.com/2024/12/07/peter-thiel-network-trump-white-house-elon-musk-david-sacks/) (Tier 2) (VERIFIED)
 - [KQED: PayPal Mafia South Africa Investigation](https://www.kqed.org/news/12041022) (Tier 2) (VERIFIED)
-- ~~[Reuters: Bitcoin Reserve Trump Crypto Sacks](https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)
 - [White House: Digital Financial Technology Executive Order](https://www.whitehouse.gov/fact-sheets/2025/01/fact-sheet-executive-order-to-establish-united-states-leadership-in-digital-financial-technology/) (Tier 1) (VERIFIED)
 - [CNBC: Sacks Steps Down as AI/Crypto Czar](https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html) (Tier 2) (VERIFIED)
 - [AIP.org: PCAST Members Announced](https://www.aip.org/fyi/white-house-announces-pcast-members) (Tier 1) (VERIFIED)
@@ -193,3 +192,9 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Reuters: Bitcoin Reserve Trump Crypto Sacks](https://www.reuters.com/technology/trump-signs-order-establish-strategic-bitcoin-reserve-white-house-crypto-czar-2025-03-07/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (UNVERIFIED)

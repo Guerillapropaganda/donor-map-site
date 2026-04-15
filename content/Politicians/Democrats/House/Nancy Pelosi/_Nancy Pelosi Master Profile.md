@@ -316,7 +316,6 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Wikipedia
@@ -362,7 +361,6 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 | 1085 | To award three congressional gold medals to the United States Capitol Police and… | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 | 111 | Electing Members to certain standing committees of the House of Representatives. | Motion to reconsider laid on the table Agreed to without objection. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/P000197)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
 ### Campaign Finance Summary (FEC)
@@ -396,7 +394,6 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
@@ -408,3 +405,11 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 - [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/P000197)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -45,7 +45,12 @@ The pattern is consistent: viral moment → media coverage → small-dollar fund
 
 ### Sources
 
-- ~~[Congress.gov: Katie Porter donor profile](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Congress.gov: Katie Porter member page](https://www.congress.gov/member/katie-porter/P000618) (Tier 1) (VERIFIED)
 - [Ballotpedia: Katie Porter](https://ballotpedia.org/Katie_Porter) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Katie Porter donor profile](https://www.congress.gov/search?q=Katie%20Porter&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

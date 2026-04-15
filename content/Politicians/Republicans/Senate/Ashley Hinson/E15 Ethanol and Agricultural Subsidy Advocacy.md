@@ -46,12 +46,17 @@ Hinson's agricultural advocacy follows the standard Republican donor-service mod
 ### Sources
 - [Iowa's Hinson says E15 certainty still within reach despite congressional setback | Brownfield Ag News](https://www.brownfieldagnews.com/news/iowas-hinson-says-e15-certainty-still-within-reach-despite-congressional-setback/) (Tier 3) (VERIFIED)
 - [Agriculture and Rural Development | Representative Ashley Hinson](https://hinson.house.gov/issues/agriculture-and-rural-development) (VERIFIED) (Tier 1 - campaign source) (Tier 1)
-- ~~[Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Hinson talks failed ag appropriations bill, what changes need to be made | Agri-Pulse Communications](https://www.agri-pulse.com/articles/20213-hinson-talks-failed-ag-appropriations-bill-what-changes-need-to-be-made) (Tier 3) (VERIFIED)
 - [Rep. Hinson seeks more congressional support for biofuels | Brownfield Ag News](https://www.brownfieldagnews.com/news/rep-hinson-seeks-more-congressional-support-for-biofuels/) (Tier 3) (VERIFIED)
 - [Victory for Iowa Ag: Hinson's Bipartisan PRECISE Act & Major Biofuels Priorities Pass House | Representative Ashley Hinson](https://hinson.house.gov/media/press-releases/victory-iowa-ag-hinsons-bipartisan-precise-act-major-biofuels-priorities-pass) (VERIFIED) (Tier 1 - campaign source) (Tier 1)
-- ~~[Representative Hinson urges lawmakers to pass bill making E15 ethanol available year round across the nation | KCRG](https://www.kcrg.com/2025/03/12/representative-hinson-urges-lawmakers-pass-bill-making-e15-ethanol-available-year-round-across-the-nation/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
 - [Farm bill extension likely, Rep. Hinson says | Brownfield Ag News](https://www.brownfieldagnews.com/news/farm-bill-extension-likely-rep-hinson-says/) (Tier 3) (VERIFIED)
 
 ---
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Hinson introduces E15 bill in House | Southeast Iowa Union](https://www.southeastiowaunion.com/se-iowa-union-hometown-current/hinson-introduces-e15-bill-in-house/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)
+- ~~[Representative Hinson urges lawmakers to pass bill making E15 ethanol available year round across the nation | KCRG](https://www.kcrg.com/2025/03/12/representative-hinson-urges-lawmakers-pass-bill-making-e15-ethanol-available-year-round-across-the-nation/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3)

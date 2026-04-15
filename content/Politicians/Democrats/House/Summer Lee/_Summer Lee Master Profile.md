@@ -174,7 +174,6 @@ The darker implication: her safety is not a product of principle or popularity. 
 ## Sources
 
 ### Verified
-- ~~[Congress.gov: Summer Lee member profile](https://www.congress.gov/member/summer-lee/L000299)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ### Archived
 - [FEC: Summer Lee independent expenditure records (2022, 2024 cycles)](https://www.fec.gov/data/independent-expenditures/) (Tier 1, generic IE page, replace with candidate-specific committee URL once H2PA18200 committee ID confirmed) (NEEDS REVIEW)
@@ -230,3 +229,4 @@ The darker implication: her safety is not a product of principle or popularity. 
 
 - ~~[Congress.gov: Summer Lee](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+- ~~[Congress.gov: Summer Lee member profile](https://www.congress.gov/member/summer-lee/L000299)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

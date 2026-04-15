@@ -107,7 +107,6 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 ### Sources
 
 - [FEC Receipts: Jeff Bezos political contributions](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=jeff%20bezos) (Tier 1) (VERIFIED)
-- ~~[NASA: Blue Origin Artemis contract](https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Jeff Bezos](https://ballotpedia.org/Jeff_Bezos) (Tier 3) (VERIFIED)
 
 ---
@@ -203,5 +202,11 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 - Shepherd v. Frontier Logistics, Inc. (2026) — District Court, E.D. New York
 - Webb v. Zuckerberg (2026) — District Court, E.D. Virginia
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeff%20Bezos%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[NASA: Blue Origin Artemis contract](https://www.nasa.gov/press-release/nasa-selects-blue-origin-for-second-artemis-moon-lander)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Jeff%20Bezos%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

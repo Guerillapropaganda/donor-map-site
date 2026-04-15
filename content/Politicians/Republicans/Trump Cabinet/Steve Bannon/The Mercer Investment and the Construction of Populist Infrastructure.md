@@ -75,5 +75,10 @@ The estrangement appears permanent. The Mercers largely withdrew from direct Tru
 
 - [Washington Post: The Mercers and Stephen Bannon. How a populist power base was funded and built](https://www.washingtonpost.com/graphics/politics/mercer-bannon/) (Tier 2) (VERIFIED)
 - [NPR: Billionaire investor Robert Mercer to step down from firm, selling stake in Breitbart](https://www.npr.org/2017/11/02/561634551/billionaire-investor-robert-mercer-to-step-down-from-firm-selling-stake-in-breit) (Tier 2) (VERIFIED)
-- ~~[CNN: Steve Bannon cleared to sell Mercer-backed holdings](https://money.cnn.com/2017/04/25/news/steve-bannon-divests/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[CNN: Steve Bannon cleared to sell Mercer-backed holdings](https://money.cnn.com/2017/04/25/news/steve-bannon-divests/index.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

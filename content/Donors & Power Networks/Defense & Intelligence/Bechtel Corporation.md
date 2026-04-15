@@ -105,7 +105,6 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 ### Sources
 
-- ~~[OpenSecrets: Bechtel lobbying and contributions](https://www.opensecrets.org/orgs/bechtel-corp/summary)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Iraq War contracting and Bechtel](https://www.propublica.org/article/100-billion-to-contractors-in-iraq-812) (Tier 2) (VERIFIED)
 
 ---
@@ -138,7 +137,6 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 - Eton Park Capital Management L.P. v. Argentine Republic (2025) — Court of Appeals for the Second Circuit
 - Petersen Energia Inversora, S.A.U. v. Argentine Republic (2025) — Court of Appeals for the Second Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bechtel%20Corporation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Vehicle Safety (NHTSA)
@@ -176,3 +174,10 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Bechtel lobbying and contributions](https://www.opensecrets.org/orgs/bechtel-corp/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bechtel%20Corporation%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

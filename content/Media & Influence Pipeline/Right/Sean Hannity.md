@@ -133,7 +133,6 @@ Hannity is the purest institutional media product in this vault, the Fox News eq
 - [CNN: READ, 82 texts between Sean Hannity and Mark Meadows](https://www.cnn.com/2022/04/29/politics/mm-sh-texts/index.html) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 - [PBS: Jan. 6 panel requests interview with Fox News host Sean Hannity](https://www.pbs.org/newshour/politics/jan-6-panel-requests-interview-with-fox-news-host-sean-hannity) (Tier 2) (VERIFIED) (Chrome verified 2026-03-26)
 - [FEC: Sean Hannity individual contributions (0 results, $0.00)](https://www.fec.gov/data/receipts/?contributor_name=HANNITY%2C+SEAN) (Tier 1)
-- ~~[Forbes: The Highest-Paid TV Hosts Of 2025](https://www.forbes.com/sites/mattcraig/2025/09/12/the-highest-paid-tv-hosts-of-2025/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-26)
 - [Celebrity Net Worth: Sean Hannity Net Worth](https://www.celebritynetworth.com/richest-politicians/republicans/sean-hannity-net-worth/) (Tier 3) (VERIFIED) (Chrome verified 2026-03-26)
 - [The Ankler: CNN Star Salary 'Beheadings', 'Take It or Leave It'](https://theankler.com/p/cnn-star-salary-beheadings-chris-wallace-wolf-blitzer-jake-tapper) (Tier 2) (VERIFIED) (Chrome verified 2026-03-27), industry comparison: Hannity's $25M Fox salary is untouched while CNN slashes anchor pay
 - [Fox News: Sean Hannity and Ainsley Earhardt Engaged](https://www.foxnews.com/media/sean-hannity-ainsley-earhardt-engaged) (Tier 4) (VERIFIED) (Chrome verified 2026-03-27), self-reported engagement announcement; Trump congratulated on Truth Social
@@ -141,3 +140,9 @@ Hannity is the purest institutional media product in this vault, the Fox News eq
 
 > **Technical note:** The FEC API link returns raw JSON from the FEC government database. Sean Hannity shows zero federal political contributions, a $0 FEC record from a $45M/year earner with direct access to the White House and $90M in real estate held through shell companies. The absence is the data point: Hannity influences politics through media access, not through traceable donations.
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Forbes: The Highest-Paid TV Hosts Of 2025](https://www.forbes.com/sites/mattcraig/2025/09/12/the-highest-paid-tv-hosts-of-2025/)~~ (was Tier 3. URL broken, archived by Ops) (Tier 3) (Chrome verified 2026-03-26)

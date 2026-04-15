@@ -269,5 +269,10 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 - [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (04/24/2017)
 
-- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Charles%20Schwab&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Charles%20Schwab&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

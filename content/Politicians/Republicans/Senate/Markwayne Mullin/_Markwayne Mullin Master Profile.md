@@ -191,9 +191,7 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 - [The Oklahoma Post: Johnson called Mullin a stranger, campaign finance record says otherwise](https://theokpost.com/news/nationalnews/johnson-called-mullin-a-stranger-the-campaign-finance-record-tells-a-different-story/2026/03/18/) (Tier 3) (VERIFIED)
 - [CNBC: Senate confirms Markwayne Mullin as next DHS secretary](https://www.cnbc.com/2026/03/23/markwayne-mullin-trump-dhs-senate-confirmation.html) (Tier 2) (VERIFIED)
 - [Washington Post: Senate confirms Mullin as homeland security secretary](https://www.washingtonpost.com/immigration/2026/03/23/mullin-dhs-senate-confirmation/) (Tier 2) (VERIFIED)
-- ~~[TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/wn-noem-tsa-ice/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [DHS: U.S. Senate Confirms Markwayne Mullin as Secretary](https://www.dhs.gov/news/2026/03/24/us-senate-confirms-markwayne-mullin-secretary-department-homeland-security) (Tier 1) (VERIFIED)
-- ~~[FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 
 ---
 
@@ -283,3 +281,10 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 
 - [GovTrack: Markwayne Mullin](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[TIME: Markwayne Mullin confirmed as Homeland Security Secretary](https://time.com/article/2026/03/23/mullin-dhs-confirmed-senate-shutdown-noem-tsa-ice/wn-noem-tsa-ice/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[FollowTheMoney: Markwayne Mullin](https://www.followthemoney.org/tools/election-overview?eid=12013169&default=candidate)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)

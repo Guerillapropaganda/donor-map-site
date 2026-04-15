@@ -236,11 +236,9 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 - {{src:src_004109}} (Tier 1) (VERIFIED)
 - {{src:src_004109}} (Tier 1) (VERIFIED)
 - [House Appropriations Committee roster](https://appropriations.house.gov/about) (Tier 1) (VERIFIED)
-- ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Washington Post: Kay Granger's senior facility revelation sparks debate over lawmakers' ages (2024)](https://www.washingtonpost.com/politics/2024/12/24/kay-granger-texas-congresswoman-age-facility/) (Tier 2) (VERIFIED)
 - [Defense News/Fort Worth Report: Fort Worth's F-35 assembly plant had a record year (2026)](https://fortworthreport.org/2026/01/11/fort-worths-f-35-assembly-plant-had-a-record-year-how-many-aircraft-were-made/) (Tier 2) (VERIFIED)
 - [House Appropriations Committee: Appropriations Committees Release 2024 Government Funding Legislation](https://democrats-appropriations.house.gov/news/press-releases/appropriations-committees-release-2024-government-funding-legislation) (Tier 1) (VERIFIED)
-- ~~[Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [ProPublica: Kay Granger voting record](https://projects.propublica.org/represent/) (Tier 1) (VERIFIED)
 
 ### Campaign Finance (FEC)
@@ -277,3 +275,10 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 
 - {{src:src_004109}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

@@ -148,7 +148,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 
 - [OpenSecrets: Service Employees International Union profile](https://www.opensecrets.org/orgs/american-fedn-of-st-cnty-munic-employees/summary?id=D000000061) (Tier 1) (VERIFIED)
 - [Senate LDA Filings: AFSCME organizational profile](https://lda.gov/filings/public/filing/search/) (Tier 1) (VERIFIED)
-- ~~[Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
 ---
 
@@ -201,7 +200,6 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 - Franklin v. Hartford Life and Accident Insurance Company (2022) — District Court, D. Arizona
 - Guasto v. The City of Miami Beach, Florida (2022) — District Court, S.D. Florida
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -272,3 +270,10 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Supreme Court: Janus v. AFSCME (2018)](https://supreme.justia.com/cases/federal/us/585/16-1466/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

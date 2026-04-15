@@ -123,7 +123,6 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - [OpenSecrets: Apollo Global Management organizational profile](https://www.opensecrets.org/orgs/apollo-global-management/summary?id=D000067184) (Tier 1)
 - {{src:src_008604}} (Tier 1) (VERIFIED)
 - [Republic Report: Foxx and for-profit college donations](https://www.republicreport.org/2022/as-house-education-chair-probes-for-profit-colleges-ranking-republican-foxx-takes-their-donations/) (Tier 2) (VERIFIED)
-- ~~[New York Times: Apollo's insurance and PE operations](https://www.nytimes.com/2023/10/04/business/private-equity-insurance.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Ballotpedia: Apollo Global Management](https://ballotpedia.org/Apollo_Global_Management) (Tier 3) (VERIFIED)
 
 ### OFAC Sanctions Screening
@@ -178,11 +177,6 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 **Filing history:** 2023, 2022, 2021, 2020, 2019, 2018, 2017
 
 **View 990 filings:**
-- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2023)~~ (URL broken, archived by Ops)
-- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2022)~~ (URL broken, archived by Ops)
-- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2021)~~ (URL broken, archived by Ops)
-- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2020)~~ (URL broken, archived by Ops)
-- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2019)~~ (URL broken, archived by Ops)
 - ... and 2 more years
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/815163032) (Tier 1) (VERIFIED)
@@ -204,7 +198,6 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - Feldman v. Apollo Global Management, Inc. (2026) — District Court, S.D. New York
 - Estate of Saul Offit, by Its Marc Offit v. Financial Credit Investment III SPV-B (Cayman), L.P. (2026) — District Court, S.D. New York
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apollo%20Global%20Management%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### SEC Filing Activity
@@ -246,3 +239,15 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apollo%20Global%20Management%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[New York Times: Apollo's insurance and PE operations](https://www.nytimes.com/2023/10/04/business/private-equity-insurance.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[2023 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2023)~~ (URL broken, archived by Ops)
+- ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2022)~~ (URL broken, archived by Ops)
+- ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2021)~~ (URL broken, archived by Ops)
+- ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2020)~~ (URL broken, archived by Ops)
+- ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/815163032/2019)~~ (URL broken, archived by Ops)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Apollo%20Global%20Management%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

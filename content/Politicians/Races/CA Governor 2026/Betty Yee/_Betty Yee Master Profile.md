@@ -172,7 +172,6 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 
 ## Sources
 
-- ~~[FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
 - [CalMatters: Republican Steve Hilton leads California governor fundraising](https://calmatters.org/politics/2026/02/governors-race-fundraising-reports/) (Tier 2) (VERIFIED)
 - [CapRadio: Former state Controller Betty Yee announces campaign for California governor](https://www.capradio.org/articles/2024/03/27/former-state-controller-betty-yee-announces-campaign-for-california-governor/) (Tier 2) (VERIFIED)
 - [CBS San Francisco: Former state Controller Betty Yee latest to announce 2026 run for California governor](https://www.cbsnews.com/sanfrancisco/news/betty-yee-former-california-controller-2026-campaignf-for-governor/) (Tier 2) (VERIFIED)
@@ -201,6 +200,12 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 <!-- auto:voting-record start -->
 **Sources**
 
-- ~~[Congress.gov: Betty Yee](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[FollowTheMoney.org: Betty Yee 2026 Campaign Finance](https://www.followthemoney.org/show-me?s=CA&y=2024&c-r-ot=U&d-cci=Betty%20Yee#[%7B1%7Cgro=d-id)~~ (was FollowTheMoney, site merged into OpenSecrets, all URLs dead) (Tier 1)
+- ~~[Congress.gov: Betty Yee](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

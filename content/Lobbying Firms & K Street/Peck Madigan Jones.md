@@ -217,7 +217,6 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 - [Wikipedia: Tiber Creek Group](http://web.archive.org/web/20250825193021/https:/en.wikipedia.org/wiki/Tiber_Creek_Group) (Tier 3) (VERIFIED)
 - [Tiber Creek Group: Official Website. About](https://www.tibercreekgroup.com/about) (Tier 4) (VERIFIED)
 - [Tiber Creek Group: Official Website. Team](https://www.tibercreekgroup.com/team) (Tier 4) (VERIFIED)
-- ~~[The Hill: Peck Madigan Jones hires Obama, Clinton White House alum](https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - [Roll Call: Jones-ing for Partner](https://rollcall.com/2009/03/27/jones-ing-for-partner/) (Tier 2) (VERIFIED)
 - [Fox News: Biden-linked lobbyists see sharp increase in cash streams](https://www.foxnews.com/politics/joe-biden-linked-lobbyists-increase-cash) (Tier 4) (VERIFIED)
 - [PR Newswire / Bloomberg Government: 10th Annual Top-Performing Lobbying Firms Report. Federal Lobbying Reached $4.5B High in 2024](https://www.prnewswire.com/news-releases/federal-lobbying-spending-reached-new-high-in-2024-bloomberg-governments-10th-annual-top-performing-lobbying-firms-report-finds-302429060.html) (Tier 2) (VERIFIED)
@@ -240,5 +239,12 @@ Harold Ickes' presence in the consortium adds a historical layer. Ickes was Bill
 **Foreign principals:**
 - Embassy of Japan (JAPAN)
 
-- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Peck%20Madigan%20Jones%20(now%20Tiber%20Creek%20Group)~~ (URL broken, archived by Ops)) (Tier 1)
 <!-- auto:fara-foreign-agents end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[The Hill: Peck Madigan Jones hires Obama, Clinton White House alum](https://thehill.com/business-a-lobbying/business-a-lobbying/301420-peck-madigan-jones-hires-obama-clinton-white-house/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Peck%20Madigan%20Jones%20(now%20Tiber%20Creek%20Group)~~ (URL broken, archived by Ops)) (Tier 1)
+- ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Peck%20Madigan%20Jones%20(now%20Tiber%20Creek%20Group)~~ (URL broken, archived by Ops)) (Tier 1)

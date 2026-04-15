@@ -264,5 +264,10 @@ The analytical pattern: **Revolving Door** (complete cycle: regulator → crisis
 - Jenkins-Bey v. Deutsche Bank National Trust Company (2021) — District Court, S.D. Florida
 - Larry Golden v. Apple, Inc. (2021) — Court of Appeals for the Fourth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Geithner%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tim%20Geithner%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

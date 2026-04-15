@@ -92,9 +92,7 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 
 ### Sources
 
-- ~~[OpenSecrets: Occidental Petroleum lobbying](https://www.opensecrets.org/orgs/occidental-petroleum/summary?id=D000000378)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [SEC: Occidental 10-K filing](https://www.sec.gov/cgi-bin/browse-edgar?company=Occidental%20Petroleum&CIK=&type=&dateb=&owner=include&count=40&search_text=&action=getcompany) (Tier 1) (VERIFIED)
-- ~~[IRS: 45Q tax credit data](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Occidental%20Petroleum&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Occidental Petroleum](https://ballotpedia.org/Occidental_Petroleum) (Tier 3) (VERIFIED)
 
 ---
@@ -142,7 +140,6 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 - Liberty Oilfield Services LLC v. Berkley National Insurance Company (2026) — District Court, S.D. Texas
 - In re: Charles Johnson (2025) — Court of Appeals for the Fifth Circuit
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Occidental%20Petroleum%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Federal Register Activity
@@ -166,3 +163,11 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Occidental%20Petroleum%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Occidental Petroleum lobbying](https://www.opensecrets.org/orgs/occidental-petroleum/summary?id=D000000378)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[IRS: 45Q tax credit data](https://apps.irs.gov/app/eos/allSearch?searchChoice=ePostcard&ein=&names=Occidental%20Petroleum&city=&state=All+States&country=US)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Occidental%20Petroleum%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -315,7 +315,6 @@ conte
 
 **Sources**
 
-- ~~[Congress.gov: Ted Cruz](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Ted Cruz](https://www.govtrack.us/congress/members/412573) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -345,7 +344,6 @@ conte
 - Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues
 - the Constitution
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
 ### Influence Network (Cross-Reference)
@@ -393,5 +391,12 @@ conte
 | — |  | Amendment SA 5180 agreed to in Senate by Unanimous Consent. |
 | — |  | — |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001098)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Ted Cruz](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+- ~~[Source: Congress.gov](https://www.congress.gov/member/C001098)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

@@ -64,6 +64,11 @@ The class function of the Republican Party apparatus under Trump is to convert p
 
 ### Sources
 
-- ~~[OpenSecrets: Republican Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - [Ballotpedia: Republican National Committee](https://ballotpedia.org/Republican_Party_Apparatus) (Tier 3) (VERIFIED)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[OpenSecrets: Republican Party fundraising](https://www.opensecrets.org/parties/)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)

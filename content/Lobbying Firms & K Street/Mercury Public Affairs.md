@@ -254,7 +254,6 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 - CarePoint Health Systems, Inc. and Connecticut General Life Insurance Company (2024) — United States Bankruptcy Court, D. Delaware
 - The University of the Arts (2024) — United States Bankruptcy Court, D. Delaware
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Tax Filings (IRS 990)
@@ -305,3 +304,9 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Mercury%20Public%20Affairs%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

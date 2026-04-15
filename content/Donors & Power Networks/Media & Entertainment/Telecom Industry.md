@@ -110,7 +110,6 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 - Broadband Telecom, Inc. (2025) - United States Bankruptcy Court, E.D. New York
 - Lumen21, Inc. v. CenturyLink Communications, LLC (2025) - District Court, C.D. California
 
-- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Telecom%20Industry%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
 ### Lobbying Activity
@@ -234,3 +233,9 @@ The industry's political priorities: spectrum allocation (the FCC auctions that 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Telecom%20Industry%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Telecom%20Industry%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)

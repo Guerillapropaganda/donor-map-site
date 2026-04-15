@@ -40,7 +40,12 @@ The alignment between libertarian constitutionalism and tech industry preference
 
 ### Sources
 
-- ~~[Congress.gov: Mike Lee member profile](https://www.congress.gov/member/mike-lee/L000577)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - {{src:src_003323}} (Tier 1) (VERIFIED)
 - [Ballotpedia: Mike Lee](https://ballotpedia.org/Mike_Lee_(Utah) (VERIFIED)) (Tier 3)
 
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Congress.gov: Mike Lee member profile](https://www.congress.gov/member/mike-lee/L000577)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
