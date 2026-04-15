@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Pre-commit gate for the Donor Map vault.
 #
-# Runs six fast sentinels before every commit:
+# Runs seven fast sentinels before every commit:
 #   1. self-review-mirror      — em dashes, banned AI vocab, defamation-prone words,
 #                                verified-profile regressions
 #   2. yaml-sanity-scan        — catches broken frontmatter before it lands
@@ -13,6 +13,9 @@
 #                                rebuilder script is also touched (Phase 3 rule)
 #   6. regression-tests        — runs the Phase 6 node:test suite (20 tests,
 #                                ~75ms) covering every bug fixed in Phases 1-5
+#   7. query-engine-contract   — runs the query-engine API contract tests
+#                                (20 tests, ~250ms) locking in the 6-subject
+#                                API shape and filter behavior
 #
 # If any fail, the commit is blocked. To bypass in an emergency:
 #   SKIP_HOOKS=1 git commit ...
@@ -77,6 +80,15 @@ node --test scripts/phase-6-regression-tests.cjs >/dev/null 2>&1
 if [ $? -ne 0 ]; then
   echo ""
   echo "[x] regression tests failed — run 'node --test scripts/phase-6-regression-tests.cjs' to see details."
+  exit 1
+fi
+
+# 7. Query engine contract tests (20 tests, locks in 6-subject API)
+echo "  -> query-engine-contract-tests"
+node --test scripts/query-engine-contract-tests.cjs >/dev/null 2>&1
+if [ $? -ne 0 ]; then
+  echo ""
+  echo "[x] query engine contract tests failed — run 'node --test scripts/query-engine-contract-tests.cjs' to see details."
   exit 1
 fi
 
