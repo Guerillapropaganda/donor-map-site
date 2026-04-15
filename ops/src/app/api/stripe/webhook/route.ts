@@ -22,26 +22,11 @@
  */
 
 import { NextRequest, NextResponse } from "next/server"
-import { createRequire } from "module"
-import path from "path"
+import * as usersStore from "@/lib/users-store"
 
-const require = createRequire(import.meta.url)
-
-function findRepoRoot(startDir: string): string {
-  const fs = require("fs")
-  let dir = startDir
-  for (let i = 0; i < 8; i++) {
-    if (fs.existsSync(path.join(dir, "scripts", "lib", "users-store.cjs"))) return dir
-    if (fs.existsSync(path.join(dir, ".git"))) return dir
-    const parent = path.dirname(dir)
-    if (parent === dir) break
-    dir = parent
-  }
-  return startDir
-}
-
-const root = findRepoRoot(process.cwd())
-const usersStore = require(path.join(root, "scripts", "lib", "users-store.cjs"))
+// Force dynamic: this route reads/writes data/users.jsonl at request
+// time, so build-time page-data collection must NOT evaluate it.
+export const dynamic = "force-dynamic"
 
 export async function POST(req: NextRequest) {
   let Stripe: any

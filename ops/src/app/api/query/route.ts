@@ -3,6 +3,16 @@ import { createQueryEngine, type QuerySpec } from "@/lib/query-engine"
 import { requireTier } from "@/lib/auth"
 import { checkDailyLimit, checkPerMinuteLimit } from "@/lib/rate-limit"
 
+// Force dynamic: createQueryEngine() uses createRequire() to load
+// scripts/lib/query-engine.cjs at runtime (a file outside ops/ that
+// webpack can't statically analyze). During `next build` page-data
+// collection, the build-time evaluation of this route would fail to
+// resolve the CJS file. Marking the route dynamic tells Next.js to
+// skip build-time pre-rendering and only evaluate it at request time,
+// where the Node runtime's createRequire works correctly. See the
+// 2026-04-15 ops-build CI failure for the original diagnosis.
+export const dynamic = "force-dynamic"
+
 // ─── /api/query ──────────────────────────────────────────────────────
 //
 // Phase 2 public query engine endpoint. Serves the Ops /query researcher
