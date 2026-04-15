@@ -37,6 +37,9 @@ court-jurisdictions:
   - "District Court, W.D. Texas"
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
+aliases:
+  - "Ripple Labs"
+  - "Ripple Labs Inc"
 ---
 
 

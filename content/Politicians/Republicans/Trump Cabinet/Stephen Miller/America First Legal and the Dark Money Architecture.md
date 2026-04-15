@@ -8,6 +8,9 @@ parent: [[_Stephen Miller Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Stephen Miller Master Profile]] · [[_Russell Vought Master Profile]]"
+aliases:
+  - "America First Legal"
+  - "AFL"
 ---
 #stephen-miller #america-first-legal #dark-money #bradley-impact-fund #donorstrust #conservative-partnership-institute #class-analysis
 

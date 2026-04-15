@@ -64,7 +64,8 @@ regulatory-agencies:
 cross-vault-triangulation-count: 19
 audit-a-plus-passed: "2026-04-11"
 aliases:
-  - David Sacks
+  - "David Sacks"
+  - "David Sacks (Donor Network)"
 ---
 
 <!-- auto:data-panel start -->

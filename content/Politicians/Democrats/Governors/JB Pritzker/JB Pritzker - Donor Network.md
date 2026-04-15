@@ -46,7 +46,8 @@ total-assets: 281327431
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 aliases:
-  - JB Pritzker
+  - "JB Pritzker"
+  - "JB Pritzker (Donor Network)"
 ---
 
 <!-- auto:data-panel start -->

@@ -11,6 +11,10 @@ known-gaps:
   - "No donor network analysis"
 source-types:
   - Congress
+aliases:
+  - "Robert F. Kennedy Jr."
+  - "Robert F. Kennedy Jr"
+  - "RFK Jr"
 ---
 
 
