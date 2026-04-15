@@ -1,61 +1,60 @@
 ---
-title: "BAE Systems"
+title: BAE Systems
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Jeanne Shaheen"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Jeanne Shaheen]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 ein: "742624710"
-annual-revenue: "$418.7M"
-net-assets: "$54.6M"
+annual-revenue: $418.7M
+net-assets: $54.6M
 tax-year: "2022"
 court-cases: 1227
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "District Court, D. Hawaii"
-  - "District Court, D. Maryland"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Louisiana"
-  - "District Court, M.D. Pennsylvania"
-  - "District Court, S.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Oklahoma"
+  - District Court, D. Hawaii
+  - District Court, D. Maryland
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Virginia
+  - District Court, M.D. Louisiana
+  - District Court, M.D. Pennsylvania
+  - District Court, S.D. California
+  - District Court, S.D. New York
+  - District Court, S.D. Texas
+  - District Court, W.D. Oklahoma
 federal-awards-total: 1694356217
 federal-contracts-count: 25
 federal-grants-count: 17
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-lei: "8SVCSVKSGDWMW2QHOH83"
-lei-jurisdiction: "GB"
+lei: 8SVCSVKSGDWMW2QHOH83
+lei-jurisdiction: GB
 related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Northrop Grumman]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]]"
-nonprofit-status: "501(c)(9)"
+nonprofit-status: 501(c)(9)
 total-revenue: 534243661
 total-assets: 33156493
 subawards-issued: 50
 subawards-issued-amount: 9702438629
 subawards-received: 50
 subawards-received-amount: 9702438629
-top-federal-agency: "National Aeronautics and Space Administration"
+top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
 federal-contracts: "815648"
 federal-register-mentions: 651
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Defense Department"
-  - "Federal Aviation Administration"
-  - "Justice Department"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
+  - Antitrust Division
+  - Defense Department
+  - Federal Aviation Administration
+  - Justice Department
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
 ---

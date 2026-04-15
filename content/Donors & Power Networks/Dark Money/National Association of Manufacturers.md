@@ -1,64 +1,59 @@
 ---
-title: "National Association of Manufacturers"
+title: National Association of Manufacturers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "JD Vance"
-  - "Adam Smith"
-  - "Jason Smith"
-  - "Steve Scalise"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Steve Scalise]], [[Donald Trump]], [[Jason Smith]], [[JD Vance]], [[Adam Smith]]"
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Energy & Climate"
-  - "Trade"
+  - Dark Money & Campaign Finance
+  - Energy & Climate
+  - Trade
 ein: "742553304"
-annual-revenue: "$62.0M"
-net-assets: "$69.6M"
+annual-revenue: $62.0M
+net-assets: $69.6M
 tax-year: "2023"
-total-political-spend: "$2,129,676"
-nonprofit-status: "501(c)(6)"
+total-political-spend: $2,129,676
+nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-09"
 total-revenue: 3628984
 total-assets: 6552030
 federal-register-mentions: 241
 regulatory-agencies:
-  - "Commerce Department"
-  - "Consumer Product Safety Commission"
-  - "Copyright Office, Library of Congress"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Federal Maritime Commission"
-  - "Federal Motor Carrier Safety Administration"
-  - "Federal Trade Commission"
-  - "International Trade Administration"
+  - Commerce Department
+  - Consumer Product Safety Commission
+  - Copyright Office, Library of Congress
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Communications Commission
+  - Federal Maritime Commission
+  - Federal Motor Carrier Safety Administration
+  - Federal Trade Commission
+  - International Trade Administration
 related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]] · [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Defense Contractors Bloc]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[California Charter Schools Association]] · [[Haim Saban]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
 sec-filings: 5021
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "144"
   - "4"
-  - "424B3"
-  - "485BPOS"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-1.01"
-  - "EX-1.02"
-  - "EX-3"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.1 P RELEASE"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.7"
-  - "PX14A6G"
+  - 424B3
+  - 485BPOS
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - EX-1.01
+  - EX-1.02
+  - EX-3
+  - EX-99
+  - EX-99.1
+  - EX-99.1 P RELEASE
+  - EX-99.2
+  - EX-99.3
+  - EX-99.7
+  - PX14A6G
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 ---

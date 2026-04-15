@@ -1,19 +1,19 @@
 ---
-title: "Shontel Brown"
+title: Shontel Brown
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: null
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Ohio"
-state-abbr: "OH"
+party: Democrat
+chamber: House
+state: Ohio
+state-abbr: OH
 district: "11"
 issues:
   - Israel & Foreign Policy
 related: "[[_Nina Turner Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors: "DMFI PAC,AIPAC · [[Lawrence Summers]] · [[Republican Jewish Coalition]]"
+donors: "[[Lawrence Summers]] · [[Republican Jewish Coalition]] · [[DMFI PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Protecting Our Vote Pac]] · [[PROTECT OUR FUTURE PAC]] · [[THE DEMOCRATIC ACTION PAC]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
@@ -21,8 +21,8 @@ known-gaps:
   - No FEC candidate ID verified
   - No pipeline enrichment
 last-enriched: "2026-04-10"
-total-received: "$672,085"
-fec-candidate-id: "H2OH11169"
+total-received: $672,085
+fec-candidate-id: H2OH11169
 ---
 
 

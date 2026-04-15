@@ -24,7 +24,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]]"
-top-donors: "[[CLUB FOR GROWTH ACTION]], [[DCCC]], [[HOUSE MAJORITY PAC]]"
+top-donors: "[[CLUB FOR GROWTH ACTION]], [[DCCC]], [[HOUSE MAJORITY PAC]], [[SOUTH CAROLINA PATRIOTS PAC]], [[314 ACTION FUND]]"
 ---
 #nancy-mace #house #south-carolina #swing-district #donor-flip #weather-vane #ideological-flexibility
 

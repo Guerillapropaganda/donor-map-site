@@ -1,27 +1,24 @@
 ---
-title: "Palantir Technologies Political Operation"
+title: Palantir Technologies Political Operation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Defense & Military"
-  - "Immigration"
+  - Defense & Military
+  - Immigration
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 related: "[[Palantir Technologies]] · [[Raytheon (RTX Corporation)]] · [[Northrop Grumman]] · [[Leidos]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Peter Thiel]] · [[Founders Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Defense Industry Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[Lockheed Martin]] · [[BAE Systems]] · [[Anduril Industries]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]]"
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

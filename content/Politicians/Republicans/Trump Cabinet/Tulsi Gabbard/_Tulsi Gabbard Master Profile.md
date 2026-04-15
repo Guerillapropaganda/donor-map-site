@@ -1,19 +1,18 @@
 ---
-title: "Tulsi Gabbard"
+title: Tulsi Gabbard
 type: politician
 content-readiness: ready
-central-thesis: "Gabbard's journey from progressive Democrat (endorsed Bernie 2016) to Trump's DNI nominee is the most ideologically incoherent appointment in the Cabinet , unless understood through the lens of useful contrarianism. Her anti-establishment brand (l..."
-last-updated: 2026-04-15
+central-thesis: Gabbard's journey from progressive Democrat (endorsed Bernie 2016) to Trump's DNI nominee is the most ideologically incoherent appointment in the Cabinet , unless understood through the lens of useful contrarianism. Her anti-establishment brand (l...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-state: "Hawaii"
-state-abbr: "HI"
-top-donors:
-  - "MAGA Inc"
-total-received: "$737,137"
-fec-candidate-id: "H2HI02508"
+party: Republican
+chamber: Cabinet
+state: Hawaii
+state-abbr: HI
+top-donors: "[[MAGA Inc]]"
+total-received: $737,137
+fec-candidate-id: H2HI02508
 govtrack-id: 412532
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -22,8 +21,8 @@ source-types:
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_JD Vance Master Profile]] · [[Securus Technologies - Aventiv]] · [[The Anti-Donor Model - Two Presidential Campaigns]]"
 ---
 

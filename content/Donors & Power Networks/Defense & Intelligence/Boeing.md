@@ -1,108 +1,103 @@
 ---
-title: "Boeing"
+title: Boeing
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Kay Granger"
-  - "Lindsey Graham"
-  - "Elizabeth Warren"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Mike Rogers]], [[Tammy Duckworth]], [[Lindsey Graham]], [[Elizabeth Warren]], [[Colin Powell]], [[Rick Larsen]], [[Tom Cole]], [[Maria Cantwell]], [[Jack Reed]], [[Patty Murray]], [[Adam Smith]], [[Kay Granger]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 court-cases: 35992
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, D. Oregon"
-  - "District Court, D. South Carolina"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Ohio"
-  - "District Court, W.D. Washington"
-  - "United States Bankruptcy Court, C.D. California"
-lei: "254900R0UACRM2XT9692"
-lei-jurisdiction: "US-NC"
+  - District Court, D. Oregon
+  - District Court, D. South Carolina
+  - District Court, District of Columbia
+  - District Court, M.D. Florida
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - District Court, S.D. Ohio
+  - District Court, W.D. Washington
+  - United States Bankruptcy Court, C.D. California
+lei: 254900R0UACRM2XT9692
+lei-jurisdiction: US-NC
 ein: 916056255
-annual-revenue: "$914K"
-net-assets: "$468K"
+annual-revenue: $914K
+net-assets: $468K
 tax-year: "2023"
 sec-filings: 10000
 sec-form-types:
   - "4"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.102"
-  - "EX-10.15"
-  - "EX-10.16"
-  - "EX-10.18"
-  - "EX-10.183"
-  - "EX-10.2"
-  - "EX-10.2.H"
-  - "EX-10.21"
-  - "EX-10.23"
-  - "EX-10.24"
-  - "EX-10.25"
-  - "EX-10.26"
-  - "EX-10.27"
-  - "EX-10.28"
-  - "EX-10.3"
-  - "EX-10.4"
-  - "EX-10.43"
-  - "EX-10.46"
-  - "EX-10.47"
-  - "EX-10.5"
-  - "EX-10.53"
-  - "EX-10.6"
-  - "EX-10.7"
-  - "EX-10.74"
-  - "EX-10.76"
-  - "EX-10.9"
-  - "EX-21"
-  - "EX-4.12"
-  - "EX-4.14"
-  - "EX-4.2.1"
-  - "EX-4.29"
-  - "EX-4.3"
-  - "EX-4.36"
-  - "EX-4.39"
-  - "EX-4.4"
-  - "EX-4.42"
-  - "EX-4.47"
-  - "EX-4.5"
-  - "EX-4.6"
-  - "EX-4.7"
-  - "SCHEDULE 13G/A"
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10
+  - EX-10.1
+  - EX-10.10
+  - EX-10.102
+  - EX-10.15
+  - EX-10.16
+  - EX-10.18
+  - EX-10.183
+  - EX-10.2
+  - EX-10.2.H
+  - EX-10.21
+  - EX-10.23
+  - EX-10.24
+  - EX-10.25
+  - EX-10.26
+  - EX-10.27
+  - EX-10.28
+  - EX-10.3
+  - EX-10.4
+  - EX-10.43
+  - EX-10.46
+  - EX-10.47
+  - EX-10.5
+  - EX-10.53
+  - EX-10.6
+  - EX-10.7
+  - EX-10.74
+  - EX-10.76
+  - EX-10.9
+  - EX-21
+  - EX-4.12
+  - EX-4.14
+  - EX-4.2.1
+  - EX-4.29
+  - EX-4.3
+  - EX-4.36
+  - EX-4.39
+  - EX-4.4
+  - EX-4.42
+  - EX-4.47
+  - EX-4.5
+  - EX-4.6
+  - EX-4.7
+  - SCHEDULE 13G/A
 subawards-issued: 50
 subawards-issued-amount: 6331905785
 subawards-received: 50
 subawards-received-amount: 6331905785
-top-federal-agency: "National Aeronautics and Space Administration"
+top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "336414"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 1031754
 total-assets: 589361
 related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]]"
-wikidata-id: "Q66"
-wikipedia-url: "https://en.wikipedia.org/wiki/Boeing"
-wikipedia-extract: "The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide."
+wikidata-id: Q66
+wikipedia-url: https://en.wikipedia.org/wiki/Boeing
+wikipedia-extract: The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide.
 founded: "1916-07-15"
 cross-vault-triangulation-count: 22
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 3
 ftc-hsr-notices: 16
 federal-awards-total: 21646660464

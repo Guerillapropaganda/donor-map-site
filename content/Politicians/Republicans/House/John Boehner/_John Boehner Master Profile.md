@@ -26,7 +26,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]] · [[MOVEON.ORG POLITICAL ACTION]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network]]"
+donors: "[[Mark Zuckerberg]] · [[Koch network]] · [[Christopher Ruddy]] · [[California Farm Bureau Federation]] · [[MOVEON.ORG POLITICAL ACTION]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network]] · [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]] · [[FREEDOM VOTE]] · [[THE TEA PARTY LEADERSHIP FUND]] · [[BLUE AMERICA PAC]]"
 related: "[[JPMorgan Chase]] · [[Koch network]] · [[Koch Network - Charles Koch|Koch Network]] · [[Paul Ryan]] · [[Donald Trump]] · [[Tobacco Industry]] · [[Cannabis Legalization Movement]] · [[Reynolds American]] · [[Altria]]"
 last-enriched: "2026-04-10"
 bioguide-id: B000589

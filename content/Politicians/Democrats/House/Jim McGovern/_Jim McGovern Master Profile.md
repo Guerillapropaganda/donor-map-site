@@ -13,9 +13,14 @@ state-abbr: "MA"
 district: "2"
 leadership-roles:
   - "Ranking Member"
+bioguide-id: "M000312"
 govtrack-id: 400263
 bills-sponsored: 30
 bills-cosponsored: 431
+born: "1959-11-20"
+wikidata-id: "Q1337459"
+source-types:
+  - "Congress"
 website: "https://mcgovern.house.gov"
 phone: "202-225-6101"
 donors: "[[National Nurses United]]"
@@ -42,7 +47,6 @@ last-enriched: "2026-04-15"
 committees:
   - "House Committee on Agriculture"
   - "House Committee on Rules"
-bioguide-id: "M000312"
 issues:
   - "Agriculture and Food"
   - "Armed Forces and National Security"

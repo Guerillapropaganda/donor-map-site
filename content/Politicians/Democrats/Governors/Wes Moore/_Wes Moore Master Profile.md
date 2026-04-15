@@ -1,28 +1,28 @@
 ---
-title: "Wes Moore"
+title: Wes Moore
 type: politician
 content-readiness: ready
 central-thesis: "Wes Moore is the Democratic donor class's ideal product: a candidate manufactured at the intersection of Wall Street (Citigroup, Deutsche Bank), hedge fund philanthropy (Robin Hood Foundation), military service (82nd Airborne), and nonprofit leade..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Governor"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: Governor
+state: Maryland
+state-abbr: MD
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 top-donors:
-  - "Goldman Sachs"
-  - "Citigroup"
-  - "George Soros"
+  - Goldman Sachs
+  - Citigroup
+  - George Soros
 known-gaps:
-  - "No FEC contribution data"
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]"
-donors: "[[Insurance Industry]] · [[Conservative Partnership Institute]]"
+donors: "[[Insurance Industry]] · [[Conservative Partnership Institute]] · [[Brady Campaign]] · [[Citigroup]] · [[George Soros]] · [[Goldman Sachs]]"
 ---
 
 <!-- auto:data-panel start -->

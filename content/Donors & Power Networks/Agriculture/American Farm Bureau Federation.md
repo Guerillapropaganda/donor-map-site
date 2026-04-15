@@ -1,88 +1,87 @@
 ---
-title: "American Farm Bureau Federation"
+title: American Farm Bureau Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Agriculture
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[Frank Lucas]], [[Jodey Arrington]]"
 issues:
-  - "Agriculture"
-  - "Environment"
-  - "Trade"
-  - "Labor & Workers"
+  - Agriculture
+  - Environment
+  - Trade
+  - Labor & Workers
 ein: "360725160"
-annual-revenue: "$37.3M"
-net-assets: "$108.4M"
+annual-revenue: $37.3M
+net-assets: $108.4M
 tax-year: "2023"
-total-political-spend: "$44,294"
-nonprofit-status: "501(c)(5)"
+total-political-spend: $44,294
+nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-09"
 total-revenue: 36693260
 total-assets: 125601852
 sec-filings: 519
 sec-form-types:
-  - "10-K/A"
-  - "10QSB"
+  - 10-K/A
+  - 10QSB
   - "425"
-  - "485APOS"
-  - "6-K"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.1"
-  - "EX-10.4"
-  - "EX-2"
-  - "EX-2.1"
-  - "EX-3.(I)(B)"
-  - "EX-3.(I)(C)"
-  - "EX-3.(I)(E)"
-  - "EX-3.1"
-  - "EX-3.1(B)"
-  - "EX-3.1(C)"
-  - "EX-3.2"
-  - "EX-3.4"
-  - "EX-3.I.B"
-  - "EX-3.I.C"
-  - "EX-3.I.E"
-  - "EX-4.2"
-  - "EX-99.(A)(1)(A)"
-  - "EX-99.(A)(1)(D)"
-  - "EX-99.(A)(1)(E)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "N-CSR"
-  - "PRE 14A"
-  - "SC TO-I"
-  - "SC TO-I/A"
+  - 485APOS
+  - 6-K
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - EX-10.1
+  - EX-10.4
+  - EX-2
+  - EX-2.1
+  - EX-3.(I)(B)
+  - EX-3.(I)(C)
+  - EX-3.(I)(E)
+  - EX-3.1
+  - EX-3.1(B)
+  - EX-3.1(C)
+  - EX-3.2
+  - EX-3.4
+  - EX-3.I.B
+  - EX-3.I.C
+  - EX-3.I.E
+  - EX-4.2
+  - EX-99.(A)(1)(A)
+  - EX-99.(A)(1)(D)
+  - EX-99.(A)(1)(E)
+  - EX-99.1
+  - EX-99.2
+  - N-CSR
+  - PRE 14A
+  - SC TO-I
+  - SC TO-I/A
 related: "[[DeVos Family]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Trade and Tariffs - Donors and Backers]] · [[Agriculture - Donors and Backers]] · [[National Cattlemen's Beef Association]] · [[Frank Lucas Master Profile]] · [[The Agriculture Committee and Arkansas Cotton]] · [[Jodey Arrington]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
 court-cases: 330
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, C.D. Illinois"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Maryland"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Utah"
-  - "District Court, D. Wyoming"
-  - "District Court, District of Columbia"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Sixth Circuit
+  - District Court, C.D. Illinois
+  - District Court, D. Connecticut
+  - District Court, D. Maryland
+  - District Court, D. Massachusetts
+  - District Court, D. Utah
+  - District Court, D. Wyoming
+  - District Court, District of Columbia
 federal-register-mentions: 210
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Commerce Department"
-  - "Employment and Training Administration"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "Fish and Wildlife Service"
-  - "Homeland Security Department"
-  - "Interior Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Commerce Department
+  - Employment and Training Administration
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - Fish and Wildlife Service
+  - Homeland Security Department
+  - Interior Department
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 internal-notes: "[CODE @ 2026-04-13] Pipeline: lda completed for American Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359872848"

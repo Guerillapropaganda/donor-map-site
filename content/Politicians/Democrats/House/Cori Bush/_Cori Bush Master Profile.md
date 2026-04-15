@@ -30,7 +30,7 @@ issues:
   - Health
   - Housing and Community Development
 related: "[[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Ilhan Omar Master Profile|Ilhan Omar]] · [[_Ayanna Pressley Master Profile|Ayanna Pressley]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]] · [[Bernie Sanders Master Profile]] · [[Pramila Jayapal]]"
-donors: "[[FAIRSHAKE]], [[Mainstream Democrats Pac]], [[Justice Democrats PAC]], [[UNITED DEMOCRACY PROJECT ('UDP')]], [[JUSTICE DEMOCRATS PAC]]"
+donors: "[[FAIRSHAKE]], [[Mainstream Democrats Pac]], [[Justice Democrats PAC]], [[UNITED DEMOCRACY PROJECT ('UDP')]], [[JUSTICE DEMOCRATS PAC]], [[WORKING FAMILIES PARTY PAC]]"
 opposes:
   - AIPAC
   - United Democracy Project

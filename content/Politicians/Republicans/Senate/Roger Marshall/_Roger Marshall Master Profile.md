@@ -34,7 +34,7 @@ known-gaps:
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 last-enriched: "2026-04-11"
 bioguide-id: M001198
-donors: "[[Western Growers Association]], [[ESAFUND]], [[CLUB FOR GROWTH ACTION]]"
+donors: "[[Western Growers Association]], [[ESAFUND]], [[CLUB FOR GROWTH ACTION]], [[HOUSE LIBERTY PROJECT]], [[KANSAS AG COMMUNITIES COALITION]], [[KANSAS FARMERS FUND]]"
 ---
 
 <!-- auto:data-panel start -->

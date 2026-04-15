@@ -32,7 +32,7 @@ bills-cosponsored: 364
 website: https://www.markey.senate.gov
 phone: 202-224-2742
 related: "[[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]]"
-top-donors: "[[Sierra Club Independent Action]], [[League of Conservation Voters]]"
+top-donors: "[[Sierra Club Independent Action]], [[League of Conservation Voters]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -1,23 +1,23 @@
 ---
-title: "Pam Bondi"
+title: Pam Bondi
 type: politician
 content-readiness: draft
-central-thesis: "Pam Bondi is the proof that the revolving door doesn't just create conflicts of interest , it is the operating model. As Florida AG, she dropped the Trump University fraud investigation after soliciting a $25,000 donation. She fired attorneys inve..."
-last-updated: 2026-04-15
+central-thesis: Pam Bondi is the proof that the revolving door doesn't just create conflicts of interest , it is the operating model. As Florida AG, she dropped the Trump University fraud investigation after soliciting a $25,000 donation. She fired attorneys inve...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 top-donors:
-  - "Pharmaceutical Industry"
+  - Pharmaceutical Industry
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[GEO Group - Private Prison Industrial Complex]]"
-donors: "[[GEO Group - Private Prison Industrial Complex]]"
+donors: "[[GEO Group - Private Prison Industrial Complex]], [[Pharmaceutical Industry]]"
 ---
 
 <!-- auto:data-panel start -->

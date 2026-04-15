@@ -27,7 +27,7 @@ issues:
   - Civil Rights & Minority Issues
   - Climate & Environmental Protection
   - Healthcare Access
-top-donors: "[[WOMEN VOTE!]]"
+top-donors: "[[WOMEN VOTE!]], [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]], [[PLANNED PARENTHOOD VOTES NORTHWEST]], [[UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB]], [[ONEAMERICA VOTES]]"
 total-received: $1,548,482
 source-types:
   - Congress

@@ -1,38 +1,37 @@
 ---
-title: "Demand Justice"
+title: Demand Justice
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Jamie Raskin"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Jamie Raskin]]"
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ein: "863689961"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-09"
 total-revenue: 566313
 total-assets: 1534141
-total-political-spend: "$20,000"
+total-political-spend: $20,000
 lobbying-spend: 650000
 lobbying-filings: 45
 related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Western States Petroleum Association]] · [[Ohio Democratic Party]] · [[National Association of Manufacturers]]"
 court-cases: 240
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Kentucky"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, E.D. Kentucky
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Executive Office of the President"
+  - Executive Office of the President
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 ---

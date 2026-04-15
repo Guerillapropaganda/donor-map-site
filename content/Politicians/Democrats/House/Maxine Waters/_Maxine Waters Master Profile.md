@@ -21,7 +21,7 @@ bills-sponsored: 40
 bills-cosponsored: 182
 website: https://waters.house.gov
 phone: 202-225-2201
-donors: "[[California Nurses Association]], [[Goldman Sachs]]"
+donors: "[[California Nurses Association]], [[Goldman Sachs]], [[FUTURE45]], [[VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)]], [[STARS AND STRIPES FOREVER PAC]], [[LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE]], [[ELBERT GUILLORY'S AMERICA]]"
 related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[Gregory Meeks]] · [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true

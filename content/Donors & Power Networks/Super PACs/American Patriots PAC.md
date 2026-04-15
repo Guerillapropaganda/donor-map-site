@@ -1,17 +1,18 @@
 ---
-title: "American Patriots PAC"
+title: American Patriots PAC
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-15
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "AMERICAN PATRIOTS PAC"
+  - AMERICAN PATRIOTS PAC
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 related: "[[Michael Waltz]]"
+politicians-funded: "[[Michael Waltz]]"
 ---
 
 ## Auto-Created Stub

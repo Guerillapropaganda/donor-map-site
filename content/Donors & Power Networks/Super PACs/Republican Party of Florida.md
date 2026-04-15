@@ -1,17 +1,18 @@
 ---
-title: "Republican Party of Florida"
+title: Republican Party of Florida
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-15
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "REPUBLICAN PARTY OF FLORIDA"
+  - REPUBLICAN PARTY OF FLORIDA
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 related: "[[George W. Bush]]"
+politicians-funded: "[[George W. Bush]]"
 ---
 
 ## Auto-Created Stub

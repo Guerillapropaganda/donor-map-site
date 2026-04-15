@@ -18,7 +18,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]]"
-top-donors: "[[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]]"
+top-donors: "[[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]], [[AMERICAN DREAM FEDERAL ACTION]]"
 ---
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 

@@ -1,40 +1,37 @@
 ---
-title: "John Kennedy"
+title: John Kennedy
 type: politician
 content-readiness: ready
-central-thesis: "Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances , sharp questioning, memorable soundbi..."
-last-updated: 2026-04-15
+central-thesis: Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances , sharp questioning, memorable soundbi...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Louisiana"
-state-abbr: "LA"
+party: Republican
+chamber: Senate
+state: Louisiana
+state-abbr: LA
 committees:
-  - "Judiciary"
-  - "Banking"
+  - Judiciary
+  - Banking
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 top-donors:
-  - "ExxonMobil"
-  - "Koch Industries"
-  - "ConocoPhillips"
-bioguide-id: "K000393"
+  - ExxonMobil
+  - Koch Industries
+  - ConocoPhillips
+bioguide-id: K000393
 govtrack-id: 406274
 bills-sponsored: 0
 bills-cosponsored: 0
 stock-trades: 2
 stock-trade-tickers:
-  - "MTUM"
-fec-candidate-id: "S4LA00065"
+  - MTUM
+fec-candidate-id: S4LA00065
 related: "[[Dan Crenshaw Master Profile]] · [[_Bill Cassidy Master Profile|Cassidy]] · [[ExxonMobil]] · [[Koch Industries]] · [[ConocoPhillips]] · [[_Lindsey Graham Master Profile|Graham]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Goldman Sachs]]"
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+donors: "[[Goldman Sachs]], [[ExxonMobil]], [[Koch Industries]], [[ConocoPhillips]]"
 ---
 
 <!-- auto:data-panel start -->

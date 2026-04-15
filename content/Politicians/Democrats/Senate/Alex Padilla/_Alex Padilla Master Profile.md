@@ -1,31 +1,31 @@
 ---
-title: "Alex Padilla"
+title: Alex Padilla
 type: politician
 content-readiness: ready
-central-thesis: "Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-m..."
-last-updated: 2026-04-13
+central-thesis: Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-m...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "California"
-state-abbr: "CA"
+party: Democrat
+chamber: Senate
+state: California
+state-abbr: CA
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Emergency Management"
-  - "Energy"
-  - "Environmental Protection"
-  - "Health"
-  - "Housing and Community Development"
-  - "Immigration"
-  - "International Affairs"
-total-received: "$1,908,371"
-fec-candidate-id: "S2CA00955"
-bioguide-id: "P000145"
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Emergency Management
+  - Energy
+  - Environmental Protection
+  - Health
+  - Housing and Community Development
+  - Immigration
+  - International Affairs
+total-received: $1,908,371
+fec-candidate-id: S2CA00955
+bioguide-id: P000145
 source-types:
   - Congress
   - FEC
@@ -34,27 +34,27 @@ corroboration-count: 3
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): P000145. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No mapped relationships"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: P000145. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
-
-[URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee"
+  - No mapped relationships
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: P000145. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true — the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+  [URL Check 2026-04-09] 11 checked: 9 ok, 1 broken, 1 slow. | BROKEN: Congress.gov: Alex Padilla | SLOW: Senate.gov: Padilla elected top Democrat on Rules and Administration Committee
 related: "[[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-11"
 committees:
-  - "Joint Committee of Congress on the Library"
-  - "Joint Committee on Printing"
-  - "Senate Committee on Energy and Natural Resources"
-  - "Senate Committee on Environment and Public Works"
-  - "Senate Committee on Rules and Administration"
-  - "Senate Committee on the Budget"
-  - "Senate Committee on the Judiciary"
-total-raised: "$1,908,371"
-total-spent: "$2,184,375"
+  - Joint Committee of Congress on the Library
+  - Joint Committee on Printing
+  - Senate Committee on Energy and Natural Resources
+  - Senate Committee on Environment and Public Works
+  - Senate Committee on Rules and Administration
+  - Senate Committee on the Budget
+  - Senate Committee on the Judiciary
+total-raised: $1,908,371
+total-spent: $2,184,375
 cash-on-hand: "7177222.88"
 fec-cycle: 2028
 fec-debt: "225.58"
+top-donors: "[[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[CARE ACTION NOW INC.]], [[DOLORES HUERTA ACTION FUND]], [[DEMOCRATIC ALLIANCE FOR ACTION]]"
 ---
 
 <!-- auto:data-panel start -->

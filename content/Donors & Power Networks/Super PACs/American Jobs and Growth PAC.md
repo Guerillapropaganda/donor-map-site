@@ -1,17 +1,18 @@
 ---
-title: "American Jobs and Growth PAC"
+title: American Jobs and Growth PAC
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-15
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "AMERICAN JOBS AND GROWTH PAC"
+  - AMERICAN JOBS AND GROWTH PAC
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Michael Waltz]]"
+politicians-funded: "[[Michael Waltz]]"
 ---
 
 ## Auto-Created Stub

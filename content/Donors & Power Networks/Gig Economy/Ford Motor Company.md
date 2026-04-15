@@ -1,59 +1,56 @@
 ---
-title: "Ford Motor Company"
+title: Ford Motor Company
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Corporation"
-politicians-funded:
-  - "Joe Biden"
+sector: Gig Economy
+entity-type: Corporation
+politicians-funded: "[[Joe Biden]]"
 issues:
-  - "Trade"
+  - Trade
 ein: "386054714"
-annual-revenue: "$30.0M"
-net-assets: "$243K"
+annual-revenue: $30.0M
+net-assets: $243K
 tax-year: "2016"
 court-cases: 21936
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Michigan"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Texas"
-  - "United States Court of International Trade"
+  - District Court, C.D. California
+  - District Court, E.D. California
+  - District Court, E.D. Michigan
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. Texas
+  - United States Court of International Trade
 nhtsa-recalls: 500
 nhtsa-complaints: 0
-nonprofit-status: "501(c)(17)"
+nonprofit-status: 501(c)(17)
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-top-federal-agency: "General Services Administration"
+top-federal-agency: General Services Administration
 top-naics-code: "336111"
-lei: "20S05OYHG0MQM4VUIC57"
-lei-jurisdiction: "US-DE"
+lei: 20S05OYHG0MQM4VUIC57
+lei-jurisdiction: US-DE
 federal-register-mentions: 920
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Federal Communications Commission"
-  - "Justice Department"
-  - "National Highway Traffic Safety Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
+  - Antitrust Division
+  - Federal Communications Commission
+  - Justice Department
+  - National Highway Traffic Safety Administration
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
 federal-awards-total: 739664294
 federal-contracts-count: 25
 federal-grants-count: 7
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]] · [[General Motors]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[UPS]]"
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

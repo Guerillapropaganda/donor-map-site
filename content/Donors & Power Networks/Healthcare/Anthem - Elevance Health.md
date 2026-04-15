@@ -1,30 +1,27 @@
 ---
-title: "Anthem - Elevance Health"
+title: Anthem - Elevance Health
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Healthcare"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Healthcare
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 ein: "352122763"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 40154470
 total-assets: 139880517
 lobbying-spend: 680000
 lobbying-filings: 12
 related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[CNA - California Nurses Association]] · [[Tenet Healthcare]]"
 cross-vault-triangulation-count: 12
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

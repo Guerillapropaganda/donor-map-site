@@ -2,8 +2,8 @@
 title: Pete Buttigieg
 type: politician
 content-readiness: ready
-central-thesis: "Buttigieg is the McKinsey candidate , a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproporti..."
-last-updated: 2026-04-15
+central-thesis: Buttigieg is the McKinsey candidate , a donor-class product designed in a lab. His 2020 campaign was funded by bundlers from finance, tech, and consulting; his Transportation tenure delivered bipartisan infrastructure money that flowed disproporti...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -20,7 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: ">- · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
-donors: "[[DoorDash]]"
+donors: "[[DoorDash]], [[Women Speak Out Pac]], [[Dream Defenders Fight Pac]], [[Votevets]], [[Equality California Votes]], [[Finance and Tech Bundler Network]], [[DRAIN THE DC SWAMP PAC]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -1,67 +1,63 @@
 ---
-title: "General Dynamics"
+title: General Dynamics
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Jack Reed"
-  - "Roger Wicker"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Tammy Duckworth]], [[Jack Reed]], [[Roger Wicker]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 ein: 382421395
-annual-revenue: "$207K"
-net-assets: "$11K"
+annual-revenue: $207K
+net-assets: $11K
 tax-year: "2019"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 subawards-issued: 50
 subawards-issued-amount: 5728077424
 subawards-received: 50
 subawards-received-amount: 5728077424
-top-federal-agency: "General Services Administration"
+top-federal-agency: General Services Administration
 top-naics-code: "541512"
 related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Jack Reed Master Profile|Jack Reed]] · [[_Roger Wicker Master Profile|Roger Wicker]] · [[Leidos]] · [[BAE Systems]] · [[Anduril Industries]] · [[The Defense Spending Bipartisan Consensus]] · [[Veterans and Military - Donors and Backers]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]]"
 federal-register-mentions: 386
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Coast Guard"
-  - "Defense Department"
-  - "Environmental Protection Agency"
-  - "Homeland Security Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "Veterans Employment and Training Service"
+  - Antitrust Division
+  - Coast Guard
+  - Defense Department
+  - Environmental Protection Agency
+  - Homeland Security Department
+  - Justice Department
+  - Labor Department
+  - Veterans Employment and Training Service
 sec-filings: 10000
 sec-form-types:
-  - "11-K"
+  - 11-K
   - "4"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.9"
-  - "EX-21"
-  - "EX-99.(A)(5)(XXVIII)"
-  - "EX-99.1"
-  - "EX-99.3"
-  - "SC 13D"
-  - "SC 14D9"
-  - "SC 14D9/A"
-  - "SC TO-C"
-  - "SC TO-T/A"
-  - "SCHEDULE 13G/A"
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - EX-10.1
+  - EX-10.10
+  - EX-10.9
+  - EX-21
+  - EX-99.(A)(5)(XXVIII)
+  - EX-99.1
+  - EX-99.3
+  - SC 13D
+  - SC 14D9
+  - SC 14D9/A
+  - SC TO-C
+  - SC TO-T/A
+  - SCHEDULE 13G/A
 cross-vault-triangulation-count: 20
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 30
 ---

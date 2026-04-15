@@ -1,34 +1,33 @@
 ---
-title: "Koch Network - Charles Koch"
+title: Koch Network - Charles Koch
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
-aliases: ["Koch Network", "Koch Brothers", "Charles Koch", "Koch Industries", "Americans for Prosperity", "AFP"]
+last-updated: 2026-04-15T00:00:00.000Z
+aliases:
+  - Koch Network
+  - Koch Brothers
+  - Charles Koch
+  - Koch Industries
+  - Americans for Prosperity
+  - AFP
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Gavin Newsom"
-  - "Nikki Haley"
-  - "Mike Rogers"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Chris Wright]], [[Samuel Alito]], [[Lex Fridman]], [[Mike Rogers]], [[Tim Scott]], [[John Roberts]], [[Mike Pompeo]], [[Greg Abbott]], [[Gavin Newsom]], [[Josh Hawley]], [[John Cornyn]], [[Rand Paul]], [[Lee Zeldin]], [[Clarence Thomas]], [[Doug Burgum]], [[Thom Tillis]], [[Bill Cassidy]], [[Neil Gorsuch]], [[Ron DeSantis]], [[Jim Jordan]], [[Mike Crapo]], [[Dave Rubin]], [[Mitch McConnell]], [[Ted Cruz]], [[Joni Ernst]], [[Donald Trump]], [[Nikki Haley]]"
 featured-date: "2026-04-17"
-spotlight-reason: "Highest ROI in the database , $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media."
-shareable-stat: "$2.9M donated. $1.9T in tax cuts. 655,172x return."
+spotlight-reason: Highest ROI in the database , $2.9M to McConnell returned $1.9T in tax cuts (655,172x). Dark money network spanning think tanks, PACs, and media.
+shareable-stat: $2.9M donated. $1.9T in tax cuts. 655,172x return.
 issues:
-  - "Dark Money & Campaign Finance"
-  - "Energy & Climate"
+  - Dark Money & Campaign Finance
+  - Energy & Climate
 related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Kentucky Inc - Coal Tobacco Bourbon and Pharma]] · [[The Finance Committee and Tax Industry Alignment]] · [[Josh Hawley Master Profile]] · [[Dark Money and the 2018 Missouri Machine]] · [[Joni Ernst Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Bill Cassidy Master Profile]]"
 lobbying-spend: 21285000
 lobbying-filings: 55
 cross-vault-triangulation-count: 32
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

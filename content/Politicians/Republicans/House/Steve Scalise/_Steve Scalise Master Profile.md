@@ -15,7 +15,7 @@ issues:
   - Energy & Climate
 total-received: $7,843,280
 fec-candidate-id: H0LA01087
-donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Larry Ellison]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[THE LINCOLN PROJECT]] · [[Club for Growth]] · [[Hunter Action Fund (haf)]]"
+donors: "[[American Gaming Association]] · [[Valero Energy]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Larry Ellison]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[THE LINCOLN PROJECT]] · [[Club for Growth]] · [[Hunter Action Fund (haf)]] · [[MAD DOG PAC]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[Valero Energy]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true

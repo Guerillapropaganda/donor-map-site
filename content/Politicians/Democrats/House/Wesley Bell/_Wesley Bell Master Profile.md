@@ -1,28 +1,28 @@
 ---
-title: "Wesley Bell"
+title: Wesley Bell
 type: politician
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: null
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Missouri"
-state-abbr: "MO"
+party: Democrat
+chamber: House
+state: Missouri
+state-abbr: MO
 district: "1"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Emergency Management"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "International Affairs"
-  - "Labor and Employment"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Commerce
+  - Crime and Law Enforcement
+  - Emergency Management
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
+  - International Affairs
+  - Labor and Employment
 related: "[[_Cori Bush Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors: "AIPAC,United Democracy Project,DMFI PAC · [[Bernie Marcus]]"
+donors: "[[Bernie Marcus]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[DMFI - Democratic Majority for Israel]] · [[DMFI PAC]] · [[Mainstream Democrats Pac]] · [[JUSTICE DEMOCRATS PAC]] · [[WORKING FAMILIES PARTY PAC]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
@@ -30,9 +30,9 @@ known-gaps:
   - No FEC candidate ID verified
   - No pipeline enrichment
 last-enriched: "2026-04-10"
-total-received: "$1,272,557"
-fec-candidate-id: "H4MO01134"
-bioguide-id: "B001324"
+total-received: $1,272,557
+fec-candidate-id: H4MO01134
+bioguide-id: B001324
 ---
 
 

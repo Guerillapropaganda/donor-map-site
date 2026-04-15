@@ -1,35 +1,35 @@
 ---
-title: "Kay Granger"
+title: Kay Granger
 type: politician
-bioguide-id: "G000377"
+bioguide-id: G000377
 content-readiness: ready
-central-thesis: "Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee , with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S..."
-last-updated: 2026-04-15
+central-thesis: Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee , with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "12"
 committees:
-  - "Appropriations"
+  - Appropriations
 issues:
-  - "Defense & Military"
+  - Defense & Military
 top-donors:
-  - "Lockheed Martin"
-  - "Oil & Gas PACs"
-total-received: "$1,080,370"
-fec-candidate-id: "H6TX12060"
+  - Lockheed Martin
+  - Oil & Gas PACs
+total-received: $1,080,370
+fec-candidate-id: H6TX12060
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[Lockheed Martin]] · [[Boeing]]"
-donors: "[[Boeing]]"
+donors: "[[Boeing]], [[Oil & Gas PACs]], [[Congressional Leadership Fund]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH ACTION]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]], [[WFW ACTION FUND, INC.]]"
 ---
 
 <!-- auto:data-panel start -->

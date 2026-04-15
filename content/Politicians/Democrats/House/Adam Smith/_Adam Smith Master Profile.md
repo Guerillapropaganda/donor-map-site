@@ -33,7 +33,7 @@ top-donors:
   - Lockheed Martin
 fec-candidate-id: H6WA09025
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
-donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[SUSAN B ANTHONY LIST INC]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]]"
+donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[SUSAN B ANTHONY LIST INC]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[NARAL]] · [[TOGETHER FOR PROGRESS PAC]] · [[THE 60 PLUS ASSOCIATION]] · [[PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline

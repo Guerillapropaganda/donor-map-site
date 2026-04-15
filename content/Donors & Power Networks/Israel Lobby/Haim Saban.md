@@ -1,40 +1,35 @@
 ---
-title: "Haim Saban"
+title: Haim Saban
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Israel Lobby"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Kamala Harris"
-  - "Joe Biden"
-  - "Hakeem Jeffries"
-  - "Nancy Pelosi"
-  - "Gavin Newsom"
+sector: Israel Lobby
+entity-type: Individual Donor
+politicians-funded: "[[Benjamin Netanyahu]], [[Nancy Pelosi]], [[Kamala Harris]], [[Joe Biden]], [[Gavin Newsom]], [[Hakeem Jeffries]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 ein: 306473477
-annual-revenue: "$2.0M"
-net-assets: "$26.3M"
+annual-revenue: $2.0M
+net-assets: $26.3M
 tax-year: "2020"
-total-political-spend: "$20,115,751"
+total-political-spend: $20,115,751
 related: "[[JCRC Bay Area]] · [[Harris-Newsom Donor Class Fracture]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Benjamin Netanyahu Master Profile]] · [[AIPAC and the Progressive Purge]] · [[DMFI - Democratic Majority for Israel]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Senate Record and 2020 Primary]] · [[Nancy Pelosi Master Profile]] · [[Blue Shield of California]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Voting Record Layer - When Donors Vote Through Their Politicians]] · [[Rashida Tlaib]] · [[Jan Koum]] · [[American Friends of the Likud]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Turkey - Erdogan Lobbying Operation]] · [[Israel - Government Lobbying Operation]] · [[California Charter Schools Association]] · [[American Petroleum Institute]] · [[2028 Presidential Landscape]] · [[Adam Schiff]]"
 last-enriched: "2026-04-10"
 court-cases: 31
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Delaware"
-  - "District Court, D. New Jersey"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-wikidata-id: "Q559844"
-wikipedia-url: "https://en.wikipedia.org/wiki/Haim_Saban"
-wikipedia-extract: "Haim Saban is an Israeli and American media proprietor, investor, musical composer and producer of records, film, and television."
+  - Court of Appeals for the D.C. Circuit
+  - District Court, C.D. California
+  - District Court, D. Delaware
+  - District Court, D. New Jersey
+  - District Court, District of Columbia
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+wikidata-id: Q559844
+wikipedia-url: https://en.wikipedia.org/wiki/Haim_Saban
+wikipedia-extract: Haim Saban is an Israeli and American media proprietor, investor, musical composer and producer of records, film, and television.
 born: "1944-10-15"
 cross-vault-triangulation-count: 27
 audit-a-plus-passed: "2026-04-11"

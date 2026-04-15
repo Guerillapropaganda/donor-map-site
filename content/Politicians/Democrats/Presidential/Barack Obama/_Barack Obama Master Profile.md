@@ -3,7 +3,7 @@ title: Barack Obama
 type: politician
 content-readiness: ready
 central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -37,41 +37,19 @@ top-donors:
   - Google
   - Apple
 fec-candidate-id: S6CA00808
-opposes: '[[Donald Trump Master Profile]]'
-stories: >-
-  [[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]] ·
-  [[Infrastructure: The Shovel-Ready Betrayal]] · [[Education: Race to the Top]]
-  · [[Climate: All of the Above Betrayal]] · [[The Drone Presidency - Seven
-  Countries Bombed and the Peace Prize Paradox]] · [[The Post-Presidency
-  Capitalization - From Hope and Change to Martha's Vineyard]] · [[The HAMP
-  Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The ACA -
-  Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Bank
-  Bailout and the Prosecution That Never Came]] · [[ACA and the Insurance
-  Industry Negotiation]] · [[Dodd-Frank and the Wall Street Bailout]] · [[DACA
-  and the Limits of Executive Action]] · [[The Deportation Machine - Obama to
-  Biden and the Apparatus Trump Inherited]] · [[Barack Obama Executive Orders
-  Timeline]] · [[Barack Obama Donor Network - The Full Map]] · [[Organizing for
-  Action]] · [[Term 1 vs Term 2 - Obama Comparison]]
-internal-notes: >-
-  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
-  VOTING data is missing entirely. This profile was promoted to ready without
-  ever having voting enrichment run on it. • CONGRESS data is missing entirely.
-  This profile was promoted to ready without ever having congress enrichment run
-  on it. The needs-reenrichment flag has been set. The next scheduled pipeline
-  run will pick it up automatically.
-
-  [URL Check 2026-04-08] 15 checked: 12 ok, 3 broken, 0 slow. | BROKEN:
-  OpenSecrets: Obama 2008 Top Contributors | BROKEN: Health Affairs: The Origins
-  And Demise Of The Public Option | BROKEN: Medium/OpenSecrets: Obama-tied
-  operatives and Biden supporters launch $60 million 'dark money' group
+opposes: "[[Donald Trump Master Profile]]"
+stories: "[[Pharmaceutical: The PhRMA Deal]] · [[Civil Rights: The Ceiling]] · [[Infrastructure: The Shovel-Ready Betrayal]] · [[Education: Race to the Top]] · [[Climate: All of the Above Betrayal]] · [[The Drone Presidency - Seven Countries Bombed and the Peace Prize Paradox]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[The HAMP Betrayal - Foaming the Runway While 9 Million Homes Were Lost]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[ACA and the Insurance Industry Negotiation]] · [[Dodd-Frank and the Wall Street Bailout]] · [[DACA and the Limits of Executive Action]] · [[The Deportation Machine - Obama to Biden and the Apparatus Trump Inherited]] · [[Barack Obama Executive Orders Timeline]] · [[Barack Obama Donor Network - The Full Map]] · [[Organizing for Action]] · [[Term 1 vs Term 2 - Obama Comparison]]"
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-08] 15 checked: 12 ok, 3 broken, 0 slow. | BROKEN: OpenSecrets: Obama 2008 Top Contributors | BROKEN: Health Affairs: The Origins And Demise Of The Public Option | BROKEN: Medium/OpenSecrets: Obama-tied operatives and Biden supporters launch $60 million 'dark money' group
 executive-orders: 294
 presidential-memoranda: 257
 proclamations: 1230
-last-enriched: '2026-04-08'
+last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[Organizing for Action]] · [[Democracy Alliance]] · [[Joe Biden Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[Lawrence Summers]] · [[Google - Alphabet]]"
+donors: "[[Lawrence Summers]] · [[Google - Alphabet]] · [[Gates Foundation]] · [[Insurance Industry]] · [[US Chamber of Commerce]] · [[Reed Hastings]] · [[Eric Schmidt]] · [[JPMorgan Chase]] · [[Entertainment and Hollywood Donors]] · [[General Motors]] · [[Apple]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -21,7 +21,7 @@ issues:
   - Immigration
   - International Affairs
   - Public Lands and Natural Resources
-top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]]"
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[THE NATIONAL REPUBLICAN TRUST PAC]], [[AMERICAN WORKER INC, THE]], [[LET FREEDOM RING INC]], [[FIRST AMENDMENT ALLIANCE]]"
 stock-trades: 24
 stock-trade-tickers:
   - NFLX

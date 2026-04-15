@@ -1,51 +1,50 @@
 ---
-title: "HBW Resources"
+title: HBW Resources
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Corporation"
+sector: Dark Money
+entity-type: Corporation
 issues:
-  - "Energy & Climate"
-  - "Dark Money & Campaign Finance"
-fara-status: "registrant"
+  - Energy & Climate
+  - Dark Money & Campaign Finance
+fara-status: registrant
 fara-records: 4
 fara-countries:
-  - "CANADA"
+  - CANADA
 court-cases: 4
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, S.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - District Court, S.D. Texas
+  - United States Bankruptcy Court, D. Delaware
+  - United States Bankruptcy Court, S.D. Texas
 related: "[[WSPA - Western States Petroleum Association]] · [[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Consumer Energy Alliance]] · [[Western States and Tribal Nations]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[Chevron]] · [[BP]] · [[Turkey - Erdogan Lobbying Operation|Turkey - Erdogan Lobbying Operation]] · [[Valero Energy]] · [[PG&E - Pacific Gas and Electric]] · [[Southern Company]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Flex Association]] · [[DoorDash]] · [[Johnson & Johnson]]"
 sec-filings: 19
 sec-form-types:
-  - "10-K"
-  - "424B2"
-  - "424B3"
-  - "424B4"
-  - "424H"
-  - "DEF 14A"
-  - "DEFM14A"
-  - "DRS/A"
-  - "F-4"
-  - "F-4/A"
-  - "FWP"
-  - "PREM14A"
-  - "PRER14A"
-  - "S-1"
-  - "S-1/A"
+  - 10-K
+  - 424B2
+  - 424B3
+  - 424B4
+  - 424H
+  - DEF 14A
+  - DEFM14A
+  - DRS/A
+  - F-4
+  - F-4/A
+  - FWP
+  - PREM14A
+  - PRER14A
+  - S-1
+  - S-1/A
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 11
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Michael Whatley]]"
 ---
 
 <!-- auto:data-panel start -->

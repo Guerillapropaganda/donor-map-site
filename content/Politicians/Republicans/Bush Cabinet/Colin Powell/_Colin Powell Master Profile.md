@@ -8,7 +8,7 @@ source-tier: 1
 parent: null
 party: Republican
 chamber: Cabinet
-top-donors: "[[Boeing]], [[Lockheed Martin]]"
+top-donors: "[[Boeing]], [[Lockheed Martin]], [[WASHINGTON CITIZENS FOR COLIN POWELL]]"
 fec-candidate-id: P60003050
 last-enriched: "2026-04-07"
 source-types:

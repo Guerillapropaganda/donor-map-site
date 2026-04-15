@@ -23,7 +23,7 @@ top-donors:
   - Apollo Global Management
 total-received: $6,801,272
 fec-candidate-id: S0UT00165
-donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Club for Growth]] · [[CLUB FOR GROWTH ACTION]] · [[Put Utah First PAC]] · [[Koch Network]]"
+donors: "[[Eric Schmidt]] · [[Tim Dunn]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Koch network]] · [[Rebekah Mercer]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Apollo Global Management]] · [[Blackstone Group]] · [[Club for Growth]] · [[CLUB FOR GROWTH ACTION]] · [[Put Utah First PAC]] · [[Koch Network]] · [[LIBERTY CHAMPIONS]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]]"
 related: "[[John Barrasso]] · [[Chip Roy Master Profile]] · [[Apollo Global Management]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[Club for Growth]] · [[Blackstone Group]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[Federalist Society]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines

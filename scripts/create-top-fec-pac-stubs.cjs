@@ -34,29 +34,58 @@ const REGISTRY_PATH = path.join(REPO, "data", "fec-committee-registry.json")
 const UNMATCHED_PATH = path.join(REPO, "content", "Admin Notes", "fec-unmatched-committees.md")
 
 // ─── Title Case helper ───────────────────────────────────────────────────
+// FEC committee names are ALL-CAPS in source data. Strategy:
+//   - Connectors stay lowercase (except when first token)
+//   - Known acronyms/initialisms stay ALL-CAPS (explicit allowlist)
+//   - Everything else → Title Case
+const CONNECTORS = new Set(["of", "for", "the", "and", "a", "in", "on", "to", "or", "by", "as", "at"])
+// Acronyms common in FEC/political committee names. Matched case-insensitively
+// against each whitespace/hyphen-separated token.
+const ACRONYMS = new Set([
+  // Committee types
+  "PAC", "PACs", "SPAC", "LLC", "INC", "LP", "LLP", "CO", "USA", "US",
+  // Party committees
+  "DCCC", "NRCC", "DSCC", "NRSC", "DNC", "RNC", "GOP", "DFL",
+  // Labor
+  "SEIU", "AFL", "CIO", "COPE", "AFT", "UFCW", "IBEW", "UAW", "NEA", "AFSCME", "UA",
+  // Advocacy / ideological
+  "NRA", "AIPAC", "UDP", "WFP", "CREW", "ACLU", "ADL", "NAACP", "NARAL",
+  "LGBTQ", "LGBT", "CHC", "CBC", "CAPAC", "CHCI",
+  // Known FEC committee shorts found in our data
+  "VIGOP", "SLF", "AFCS", "AFP", "FOP", "BOLD", "SMART", "AFGE", "UFW",
+  // Economic/industry
+  "FEC", "SEC", "IRS", "DOJ", "DOD",
+  // State abbreviations (2-letter USPS codes) - covers "PA", "WV", "NY", etc.
+  "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA", "HI", "ID", "IL", "IN",
+  "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV",
+  "NH", "NJ", "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", "SD", "TN",
+  "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY", "DC",
+])
 function titleCase(s) {
-  // Conservative: uppercase first letter of each whitespace-separated token,
-  // keep acronyms (all-upper 2-5 chars) intact, lowercase short connectors.
-  const connectors = new Set(["of", "for", "the", "and", "a", "in", "on", "to"])
   return s
-    .toLowerCase()
     .split(/(\s+|-)/)
     .map((tok, i) => {
       if (/^\s+$/.test(tok) || tok === "-") return tok
-      if (connectors.has(tok) && i > 0) return tok
-      if (tok.length >= 2 && tok.length <= 5 && /^[a-z]+$/.test(tok)) {
-        // heuristic: preserve PAC, DCCC, NRSC, NRCC, DNC, RNC etc.
-        if (["pac", "dccc", "nrsc", "nrcc", "dnc", "rnc", "seiu", "afl", "cio", "afcs", "udp", "nea", "nra", "slf", "afp", "fec", "afps"].includes(tok)) {
-          return tok.toUpperCase()
-        }
-      }
-      return tok.charAt(0).toUpperCase() + tok.slice(1)
+      const lower = tok.toLowerCase()
+      const upper = tok.toUpperCase()
+      // Connector: lowercase unless it's the first token
+      if (CONNECTORS.has(lower) && i > 0) return lower
+      // Known acronym (case-insensitive match)
+      if (ACRONYMS.has(upper)) return upper
+      // Digit-containing: keep digits, title-case letters around them
+      if (/\d/.test(tok)) return tok.charAt(0) + tok.slice(1).toLowerCase()
+      // Default: Title Case
+      return tok.charAt(0).toUpperCase() + tok.slice(1).toLowerCase()
     })
     .join("")
 }
 
 function safeFilename(t) {
-  return t.replace(/[\\/:*?"<>|]/g, "-").replace(/\s+/g, " ").trim()
+  // Strip Windows-forbidden chars, collapse whitespace, cap length at 100
+  // to stay well under the 260-char PATH limit.
+  const cleaned = t.replace(/[\\/:*?"<>|]/g, "-").replace(/\s+/g, " ").trim()
+  if (cleaned.length <= 100) return cleaned
+  return cleaned.slice(0, 97).trimEnd() + "..."
 }
 
 // ─── Scan vault for existing fec-committee-id + alias claims ────────────

@@ -70,7 +70,7 @@ const SECTOR_MAP = [
   { match: ["carceral", "prison", "private prison", "bail bond", "immigration detention"], type: "carceral-capital" },
   { match: ["media", "entertainment", "publishing", "news corp"], type: "media-capital" },
   { match: ["real estate", "landlord", "reit", "real-estate"], type: "rentier-capital" },
-  { match: ["finance", "financial", "hedge fund", "private equity", "investment bank", "asset manager", "banking"], type: "finance-capital" },
+  { match: ["finance", "financial", "hedge fund", "private equity", "investment bank", "asset manager", "banking", "wall street"], type: "finance-capital" },
   { match: ["technology", "tech ", "big tech", "platform", "silicon valley"], type: "tech-monopoly" },
   { match: ["retail", "logistics", "walmart", "e-commerce", "amazon"], type: "retail-monopoly" },
   { match: ["labor union", "labor unions", "union ", "afl-cio", "seiu"], type: "labor-aligned" },

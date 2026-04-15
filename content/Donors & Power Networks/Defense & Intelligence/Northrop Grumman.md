@@ -1,85 +1,82 @@
 ---
-title: "Northrop Grumman"
+title: Northrop Grumman
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Defense & Intelligence"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Defense & Intelligence
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Tom Cole]], [[Jeanne Shaheen]], [[John Ratcliffe]], [[Roger Wicker]], [[Adam Smith]]"
 issues:
-  - "Defense & Military"
+  - Defense & Military
 federal-contracts: "94260"
 ein: "956095343"
-annual-revenue: "$15.1M"
-net-assets: "$31.0M"
+annual-revenue: $15.1M
+net-assets: $31.0M
 tax-year: "2023"
 sec-filings: 10000
 sec-form-types:
   - "144"
   - "3"
   - "4"
-  - "424B3"
+  - 424B3
   - "425"
-  - "8-K"
-  - "8-K/A"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFC14A"
-  - "EX-10.32"
-  - "EX-2.1"
-  - "EX-2.3"
-  - "EX-21"
-  - "EX-21.1"
-  - "EX-99"
-  - "EX-99.(A)(5)(D)"
-  - "EX-99.(A)(5)(FF)"
-  - "EX-99.(D)(3)"
-  - "EX-99.1"
-  - "EX-99.14"
-  - "EX-99.28"
-  - "EX-99.A.12"
-  - "EX-99.A.9"
-  - "POS AM"
-  - "PREC14A"
-  - "PREM14C"
-  - "PRRN14A"
-  - "PX14A6G"
-  - "S-3"
-  - "S-3/A"
-  - "S-4"
-  - "S-4/A"
-  - "S-8 POS"
-  - "SC 13D"
-  - "SC 13E3"
-  - "SC 14D9/A"
-  - "SC TO-T/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - 8-K/A
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - DEFC14A
+  - EX-10.32
+  - EX-2.1
+  - EX-2.3
+  - EX-21
+  - EX-21.1
+  - EX-99
+  - EX-99.(A)(5)(D)
+  - EX-99.(A)(5)(FF)
+  - EX-99.(D)(3)
+  - EX-99.1
+  - EX-99.14
+  - EX-99.28
+  - EX-99.A.12
+  - EX-99.A.9
+  - POS AM
+  - PREC14A
+  - PREM14C
+  - PRRN14A
+  - PX14A6G
+  - S-3
+  - S-3/A
+  - S-4
+  - S-4/A
+  - S-8 POS
+  - SC 13D
+  - SC 13E3
+  - SC 14D9/A
+  - SC TO-T/A
+  - SCHEDULE 13G/A
 federal-awards-total: 9185964914
 federal-contracts-count: 25
 federal-grants-count: 12
 related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The National Security-to-Senate Pipeline]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[Volodymyr Zelenskyy]] · [[The Energy Committee and Nuclear-Renewables Axis]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)]] · [[Israel and Foreign Policy - Donors and Backers]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Jeanne Shaheen Master Profile]] · [[Koch Industries]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]]"
-lei: "RIMU48P07456QXSO0R61"
-lei-jurisdiction: "US-DE"
+lei: RIMU48P07456QXSO0R61
+lei-jurisdiction: US-DE
 subawards-issued: 50
 subawards-issued-amount: 25770235047
 subawards-received: 50
 subawards-received-amount: 25770235047
-top-federal-agency: "National Aeronautics and Space Administration"
+top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "541330"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 15858568
 total-assets: 20131005
 cross-vault-triangulation-count: 25
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 13
 ---

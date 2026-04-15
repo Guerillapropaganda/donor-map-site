@@ -1,51 +1,51 @@
 ---
-title: "Chuck Schumer"
+title: Chuck Schumer
 type: politician
 content-readiness: ready
-central-thesis: "Chuck Schumer is the Democratic Party's answer to Mitch McConnell , not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono..."
-last-updated: 2026-04-15
+central-thesis: Chuck Schumer is the Democratic Party's answer to Mitch McConnell , not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-career-total: "$100M"
+career-total: $100M
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "New York"
-state-abbr: "NY"
-bioguide-id: "S000148"
+party: Democrat
+chamber: Senate
+state: New York
+state-abbr: NY
+bioguide-id: S000148
 leadership-roles:
-  - "Majority Leader"
+  - Majority Leader
 issues:
-  - "Agriculture and Food"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "International Affairs"
-  - "Labor and Employment"
-  - "Law"
-  - "Native Americans"
-  - "Science, Technology, Communications"
+  - Agriculture and Food
+  - Civil Rights and Liberties, Minority Issues
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - International Affairs
+  - Labor and Employment
+  - Law
+  - Native Americans
+  - Science, Technology, Communications
 top-donors:
-  - "Goldman Sachs"
-  - "AIPAC - American Israel Public Affairs Committee"
+  - Goldman Sachs
+  - AIPAC - American Israel Public Affairs Committee
 source-types:
   - FEC
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000148. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 opposes: "[[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
 related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 last-enriched: "2026-04-10"
 committees:
-  - "Senate Committee on Rules and Administration"
-  - "Senate Select Committee on Intelligence"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: S000148. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
-donors: "[[Morgan Stanley]] · [[Citigroup]]"
+  - Senate Committee on Rules and Administration
+  - Senate Select Committee on Intelligence
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: S000148. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+donors: "[[Morgan Stanley]] · [[Citigroup]] · [[Majority Forward]] · [[Blackstone Group]] · [[Google - Alphabet]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Democratic Small Dollar Networks]] · [[Mark Zuckerberg]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Healthcare Sector]] · [[Goldman Sachs]]"
 ---
 
 <!-- auto:data-panel start -->

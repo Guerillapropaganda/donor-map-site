@@ -18,7 +18,7 @@ issues:
   - Defense & Military
 total-received: $4,955,682
 fec-candidate-id: H4NY21079
-donors: "[[Winning for Women PAC]] · [[Miriam Adelson]] · [[THE LINCOLN PROJECT]]"
+donors: "[[Winning for Women PAC]] · [[Miriam Adelson]] · [[THE LINCOLN PROJECT]] · [[NATIONAL VICTORY ACTION FUND]] · [[NEW YORK 2014]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]]"
 related: "[[_Kevin McCarthy Master Profile|McCarthy]] · [[_Jim Jordan Master Profile|Jim Jordan]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

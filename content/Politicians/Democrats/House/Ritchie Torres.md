@@ -11,7 +11,7 @@ source-tier: 1
 parent: null
 total-received: $5,052,480
 fec-candidate-id: H0NY15160
-donors: "[[AFSCME - American Federation of State County and Municipal Employees]], [[Protect Progress]], [[NORPAC]], [[FAIRSHAKE]], [[AIPAC - American Israel Public Affairs Committee]]"
+donors: "[[AFSCME - American Federation of State County and Municipal Employees]], [[Protect Progress]], [[NORPAC]], [[FAIRSHAKE]], [[AIPAC - American Israel Public Affairs Committee]], [[EQUALITY PROJECT PAC]], [[VOTER PROTECTION PROJECT]], [[CHC BOLD PAC]]"
 related: "[[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[NORPAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Fairshake PAC|Fairshake]] · [[Demand Justice]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines

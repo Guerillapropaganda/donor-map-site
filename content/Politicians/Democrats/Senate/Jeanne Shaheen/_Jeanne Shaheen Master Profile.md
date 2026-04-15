@@ -1,40 +1,35 @@
 ---
-title: "Jeanne Shaheen"
+title: Jeanne Shaheen
 type: politician
 content-readiness: ready
-central-thesis: "Shaheen is the defense industry's ideal Democratic senator , a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approv..."
-last-updated: 2026-04-15
+central-thesis: Shaheen is the defense industry's ideal Democratic senator , a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approv...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "New Hampshire"
-state-abbr: "NH"
+party: Democrat
+chamber: Senate
+state: New Hampshire
+state-abbr: NH
 committees:
-  - "Foreign Relations"
-  - "Armed Services"
-top-donors:
-  - "BAE Systems"
-  - "Raytheon"
-  - "Northrop Grumman"
-  - "Honeywell"
-  - "Defense Industry"
+  - Foreign Relations
+  - Armed Services
+top-donors: "[[INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[National Republican Senatorial Committee]], [[AMERICAN CROSSROADS]], [[BAE Systems]], [[Northrop Grumman]], [[ENDING SPENDING ACTION FUND]], [[Defense Industry]], [[COUNCIL FOR AMERICAN JOB GROWTH]]"
 stock-trades: 3
-total-received: "$2,658,242"
-fec-candidate-id: "S0NH00219"
-bioguide-id: "S001181"
+total-received: $2,658,242
+fec-candidate-id: S0NH00219
+bioguide-id: S001181
 govtrack-id: 412323
 bills-sponsored: 77
 bills-cosponsored: 409
-website: "https://www.shaheen.senate.gov"
-phone: "202-224-2841"
+website: https://www.shaheen.senate.gov
+phone: 202-224-2841
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]] · [[Martin Heinrich]]"
 ---

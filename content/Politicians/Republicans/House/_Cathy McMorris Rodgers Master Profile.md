@@ -1,35 +1,31 @@
 ---
-title: "Cathy McMorris Rodgers"
+title: Cathy McMorris Rodgers
 type: politician
-bioguide-id: "M001159"
+bioguide-id: M001159
 content-readiness: draft
 central-thesis: "Cathy McMorris Rodgers was the #1 corporate PAC recipient in the entire House of Representatives , $3 million in corporate PAC money in the 2020 cycle alone, 40% more than any other House member. As Energy & Commerce Committee chair (2023–2022), s..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Republican
+chamber: House
+state: Washington
+state-abbr: WA
 district: "5"
 committees:
-  - "Energy & Commerce"
+  - Energy & Commerce
 top-donors:
-  - "Oil & Gas PACs"
-  - "Koch Industries"
-  - "Marathon Petroleum"
-  - "Chevron"
-total-received: "$3,631,602"
-fec-candidate-id: "H4WA05077"
+  - Oil & Gas PACs
+  - Koch Industries
+  - Marathon Petroleum
+  - Chevron
+total-received: $3,631,602
+fec-candidate-id: H4WA05077
 related: "[[Kevin McCarthy Master Profile]] · [[Koch Network - Charles Koch|Koch Industries]] · [[Marathon Petroleum]] · [[Chevron]] · [[Microsoft]] · [[Amazon]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Tech Industry]] · [[Patrick Soon-Shiong]]"
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+donors: "[[Tech Industry]] · [[Patrick Soon-Shiong]] · [[Marathon Petroleum]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Koch Industries]] · [[Clearpath Action Fund, Inc.]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Oil & Gas PACs]] · [[Chevron]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]]"
 ---
 
 <!-- auto:data-panel start -->

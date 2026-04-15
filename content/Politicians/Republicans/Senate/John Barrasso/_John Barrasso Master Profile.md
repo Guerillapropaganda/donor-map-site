@@ -21,7 +21,7 @@ bills-cosponsored: 196
 website: https://www.barrasso.senate.gov
 phone: 202-224-6441
 stock-trades: 1
-donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]] · [[American Petroleum Institute]] · [[Clearpath Action Fund, Inc.]] · [[High Plains Pac]]"
+donors: "[[Marathon Petroleum]] · [[ExxonMobil]] · [[Raytheon (RTX Corporation)]] · [[American Petroleum Institute]] · [[Clearpath Action Fund, Inc.]] · [[High Plains Pac]] · [[NATIONAL VICTORY ACTION FUND]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[AMERICAN CHEMISTRY COUNCIL, INC]]"
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Mike Lee Master Profile|Mike Lee]] · [[WSPA - Western States Petroleum Association|WSPA]] · [[Halliburton]] · [[Honeywell]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

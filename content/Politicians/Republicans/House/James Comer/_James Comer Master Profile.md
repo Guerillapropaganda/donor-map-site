@@ -41,7 +41,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/James_Comer
 wikipedia-extract: James Richardson Comer Jr. is an American politician from Kentucky who represents the state's 1st congressional district in the United States House of Representatives.
 born: "1972-08-19"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]]"
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[ALLIANCE COAL, LLC PAC]], [[TOGETHER WE THRIVE]]"
 ---
 
 <!-- auto:data-panel start -->

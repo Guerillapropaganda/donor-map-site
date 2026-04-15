@@ -1,36 +1,36 @@
 ---
-title: "Jon Ossoff"
+title: Jon Ossoff
 type: politician
 content-readiness: ready
 central-thesis: "Jon Ossoff is the template for next-generation corporate Democrats: young, visually polished, media-savvy, positioned as anti-establishment 'outsider' despite strong establishment backing. His documentary filmmaker brand provided authenticity cove..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Georgia"
-state-abbr: "GA"
+party: Democrat
+chamber: Senate
+state: Georgia
+state-abbr: GA
 top-donors:
-  - "Tech and Media Donors"
-  - "Entertainment and Hollywood Donors"
-bioguide-id: "O000174"
+  - Tech and Media Donors
+  - Entertainment and Hollywood Donors
+bioguide-id: O000174
 govtrack-id: 456857
 bills-sponsored: 16
 bills-cosponsored: 182
-website: "https://www.ossoff.senate.gov"
-phone: "202-224-3521"
-total-received: "$31,605,071"
-fec-candidate-id: "S8GA00180"
+website: https://www.ossoff.senate.gov
+phone: 202-224-3521
+total-received: $31,605,071
+fec-candidate-id: S8GA00180
 last-enriched: "2026-04-08"
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[JB Pritzker (Donor Network)]] · [[David Sacks (Donor Network)]]"
+donors: "[[JB Pritzker (Donor Network)]] · [[David Sacks (Donor Network)]] · [[Congressional Leadership Fund]] · [[NRCC]] · [[US CHAMBER OF COMMERCE]] · [[Entertainment and Hollywood Donors]] · [[David Sacks]] · [[ActBlue]] · [[JB Pritzker]] · [[Tech and Media Donors]] · [[AMERICA FIRST POLICIES INC.]] · [[David McIntosh]] · [[PLANNED PARENTHOOD ACTION FUND INC]]"
 ---
 
 <!-- auto:data-panel start -->

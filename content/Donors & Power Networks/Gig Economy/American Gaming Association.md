@@ -1,49 +1,40 @@
 ---
-title: "American Gaming Association"
+title: American Gaming Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Individual Donor"
+sector: Gig Economy
+entity-type: Individual Donor
 ein: "931169142"
-annual-revenue: "$17.4M"
-net-assets: "$30.6M"
+annual-revenue: $17.4M
+net-assets: $30.6M
 tax-year: "2023"
-total-political-spend: "$695,569"
-politicians-funded:
-  - "Adam Smith"
-  - "Jason Smith"
-  - "Steve Scalise"
-  - "Bennie Thompson"
-  - "Glenn Thompson"
-  - "Mike Collins"
-  - "Susan Collins"
-  - "Kevin McCarthy"
-
-nonprofit-status: "501(c)(6)"
+total-political-spend: $695,569
+politicians-funded: "[[Glenn Thompson]], [[Adam Smith]], [[Susan Collins]], [[Kevin McCarthy]], [[Jason Smith]], [[Steve Scalise]], [[Mike Collins]], [[Bennie Thompson]]"
+nonprofit-status: 501(c)(6)
 last-enriched: "2026-04-11"
 total-revenue: 24597723
 total-assets: 36994357
 sec-filings: 2157
 sec-form-types:
   - "425"
-  - "8-K"
-  - "DEFC14A"
-  - "EX-99"
-  - "EX-99.(A)(1)(G)"
-  - "EX-99.(A)(1)(J)"
-  - "EX-99.(A)(1)(K)"
-  - "EX-99.(A)(1)(L)"
-  - "EX-99.(A)(2)"
-  - "EX-99.(A)(3)"
-  - "EX-99.(A)(5)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "N-Q"
-  - "SC TO-C"
+  - 8-K
+  - DEFC14A
+  - EX-99
+  - EX-99.(A)(1)(G)
+  - EX-99.(A)(1)(J)
+  - EX-99.(A)(1)(K)
+  - EX-99.(A)(1)(L)
+  - EX-99.(A)(2)
+  - EX-99.(A)(3)
+  - EX-99.(A)(5)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - N-Q
+  - SC TO-C
 related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]] · [[Glenn Thompson]] · [[Bennie Thompson]] · [[National Association of Manufacturers]] · [[Adam Smith]] · [[Blue Shield of California]] · [[Miriam Adelson]] · [[Sheldon Adelson]] · [[Las Vegas Sands]] · [[MGM Resorts International]] · [[Caesars Entertainment]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Anthem - Elevance Health]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"

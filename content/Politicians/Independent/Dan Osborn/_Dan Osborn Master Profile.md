@@ -1,28 +1,25 @@
 ---
-title: "Dan Osborn"
+title: Dan Osborn
 type: politician
 content-readiness: ready
-central-thesis: "Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an 'independent' brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical ..."
-last-updated: 2026-04-15
+central-thesis: Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an 'independent' brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Independent"
-chamber: "Senate"
-top-donors:
-  - "Senate Majority PAC"
-  - "ActBlue"
-  - "Labor Unions"
-total-received: "$2,121,436"
-fec-candidate-id: "S4NE00207"
+party: Independent
+chamber: Senate
+top-donors: "[[Labor Unions]], [[Heartland Resurgence]], [[Railroaders for Public Safety]], [[ActBlue]], [[Senate Leadership Fund]], [[Retire Career Politicians]], [[ESAFUND]], [[Senate Majority PAC]]"
+total-received: $2,121,436
+fec-candidate-id: S4NE00207
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 related: "[[Senate Majority PAC]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]]"
-total-raised: "$2,121,436"
-total-spent: "$1,608,939"
+total-raised: $2,121,436
+total-spent: $1,608,939
 cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"

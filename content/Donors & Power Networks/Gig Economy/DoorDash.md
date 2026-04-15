@@ -1,37 +1,32 @@
 ---
-title: "DoorDash"
+title: DoorDash
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Pete Buttigieg"
-  - "Joe Biden"
+sector: Gig Economy
+entity-type: Corporation
+politicians-funded: "[[Joe Biden]], [[Gavin Newsom]], [[Pete Buttigieg]]"
 issues:
-  - "Technology"
-lei: "549300NUQ43FGGSK5051"
-lei-jurisdiction: "US-DE"
+  - Technology
+lei: 549300NUQ43FGGSK5051
+lei-jurisdiction: US-DE
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 federal-register-mentions: 7
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Federal Trade Commission"
-  - "Justice Department"
-  - "Labor Department"
-  - "Wage and Hour Division"
+  - Antitrust Division
+  - Federal Trade Commission
+  - Justice Department
+  - Labor Department
+  - Wage and Hour Division
 related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]]"
 cross-vault-triangulation-count: 11
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

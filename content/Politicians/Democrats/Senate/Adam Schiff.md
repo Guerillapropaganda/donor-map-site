@@ -1,38 +1,34 @@
 ---
-title: "Adam Schiff"
+title: Adam Schiff
 type: politician
-bioguide-id: "S001150"
-chamber: "Senate"
-party: "Democrat"
+bioguide-id: S001150
+chamber: Senate
+party: Democrat
 content-readiness: ready
 central-thesis: "Adam Schiff exemplifies the Democratic Party's security establishment player: an intelligence operative who performs progressive values while serving the national security state. His 2019–2023 role as House Intelligence Committee chair gave him ac..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-fec-candidate-id: "H0CA27085"
-donors: "[[AFL-CIO]]"
+fec-candidate-id: H0CA27085
+donors: "[[AFL-CIO]], [[ALHAMBRA DEMOCRATIC CLUB]], [[NARAL]], [[27TH CONGRESSIONAL DISTRICT DEMOCRATIC CLUB]]"
 related: "[[Barbara Lee]] · [[Laphonza Butler]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Katie Porter Master Profile]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support"
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [URL Check 2026-04-08] 8 checked: 6 ok, 2 broken, 0 slow. | BROKEN: CalMatters: Katie Porter, Adam Schiff and Barbara Lee swore off corporate PAC money. What does that mean? | BROKEN: Washington Post: Katie Porter appears outmatched by Adam Schiff's establishment support
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline; run pipelines"
+reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 last-enriched: "2026-04-13"
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Emergency Management"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Emergency Management
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - Immigration
+  - International Affairs
 ---
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
 tags: #democrat

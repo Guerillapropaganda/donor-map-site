@@ -1,41 +1,34 @@
 ---
-title: "Dianne Feinstein"
+title: Dianne Feinstein
 type: politician
-
-
 content-readiness: ready
-last-updated: 2026-04-15
-
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
-party: "Democrat"
-chamber: "Senate"
-state: "California"
-state-abbr: "CA"
-bioguide-id: "F000062"
+party: Democrat
+chamber: Senate
+state: California
+state-abbr: CA
+bioguide-id: F000062
 govtrack-id: 300043
 born: "1929-06-22"
 stock-trades: 29
-total-received: "$679,803"
-fec-candidate-id: "S0CA00199"
+total-received: $679,803
+fec-candidate-id: S0CA00199
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
-central-thesis: "Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned."
-top-donors:
-  - "Richard Blum Capital Partners"
-  - "Defense Contractors (URS, Perini, Tutor Perini)"
-  - "AIPAC"
-  - "San Francisco Real Estate Industry"
+central-thesis: Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned.
+top-donors: "[[COPS VOTER GUIDE INC.]], [[ONE NATION UNITED]], [[DELIVERING FOR CALIFORNIA]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]]"
 bills-sponsored: 2211
 bills-cosponsored: 6727
 known-gaps:
-  - "Committee data shows empty (deceased member, no longer on active roster)"
+  - Committee data shows empty (deceased member, no longer on active roster)
 last-enriched: "2026-04-12"
 related: "[[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 needs-reenrichment: true
-reenrich-reason: "run committee pipeline; re-run congress pipeline for bills count"
+reenrich-reason: run committee pipeline; re-run congress pipeline for bills count
 internal-notes: "[CODE @ 2026-04-12] Pipeline: congress FAILED for Dianne Feinstein. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24318211380"
 checklist-na:
   - "bills: From the Congress.gov API via the enrichment pipeline. "
