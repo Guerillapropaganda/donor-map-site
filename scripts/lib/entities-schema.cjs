@@ -88,6 +88,7 @@ const IDEOLOGICAL_FUNCTIONS = Object.freeze([
   "labor-organizing",
   "electoral-left",
   "movement-left",
+  "reproductive-rights",
 ])
 
 const WORKER_RELATIONSHIPS = Object.freeze([
