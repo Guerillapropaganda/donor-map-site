@@ -40,7 +40,6 @@ const PartySplitMeter: QuartzComponent = ({
   }
 
   // ── Fallback: infer from politicians-funded ──
-  let inferredPolCount = 0
   if (demPct === null || repPct === null) {
     const polFunded = Array.isArray(fm?.["politicians-funded"])
       ? (fm["politicians-funded"] as string[])
@@ -83,7 +82,6 @@ const PartySplitMeter: QuartzComponent = ({
       if (demPct >= repPct) demPct += diff
       else repPct += diff
     }
-    inferredPolCount = total
     sourceLabel = "Inferred from funded candidates"
     sampleLabel = `Based on ${total} tracked politician${total === 1 ? "" : "s"} this donor has funded`
   }

@@ -373,7 +373,6 @@ const ProfileWidget: QuartzComponent = ({
 
   const compactGraphData = JSON.stringify({ nodes: isPolitician ? compactNodes : miniGraphNodes, edges: isPolitician ? compactEdges : miniGraphEdges })
   const fullGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
-  const hasExtendedNetwork = isPolitician && networkInfo.size > 0
   const hasMiniGraph = miniGraphNodes.length > 1
 
   return (

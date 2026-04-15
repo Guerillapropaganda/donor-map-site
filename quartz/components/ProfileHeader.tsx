@@ -8,20 +8,9 @@ const ProfileHeader: QuartzComponent = ({
   const fm = fileData.frontmatter
   const type = String(fm?.type ?? "unknown")
   if (type !== "politician" && type !== "donor") return null
-  const readiness = String(fm?.["content-readiness"] ?? "draft")
-  const lastUpdated = String(fm?.["last-updated"] ?? "")
-  const sourceTier = String(fm?.["source-tier"] ?? "")
 
   // Normalize display values
   const typeLabel = type.charAt(0).toUpperCase() + type.slice(1)
-  const tierLabel = sourceTier
-    ? /^\d+$/.test(sourceTier)
-      ? `TIER ${sourceTier}`
-      : sourceTier.replace(/-/g, " ").replace(/^tier /i, "TIER ").toUpperCase()
-    : ""
-  const readinessLabel = readiness.replace(/-/g, " ").toUpperCase()
-  const isVerified = readiness === "verified"
-  const isReady = readiness === "publication-ready" || readiness === "ready"
 
   // Party for politicians
   const party = String(fm?.party ?? "")
@@ -73,14 +62,13 @@ const ProfileHeader: QuartzComponent = ({
 
   // ─── #3: Key stat (big number) ───
   const billsSponsored = Number(fm?.["bills-sponsored"] ?? 0)
-  const billsCosponsored = Number(fm?.["bills-cosponsored"] ?? 0)
   const polsFunded = Array.isArray(fm?.["politicians-funded"]) ? (fm["politicians-funded"] as string[]).length : 0
   let keyStat = ""
   let keyStatLabel = ""
   if (type === "politician" && billsSponsored > 0) {
     keyStat = String(billsSponsored)
     keyStatLabel = "BILLS SPONSORED"
-  } else if ((type === "donor" || type === "corporation") && polsFunded > 0) {
+  } else if (type === "donor" && polsFunded > 0) {
     keyStat = String(polsFunded)
     keyStatLabel = "POLITICIANS FUNDED"
   }

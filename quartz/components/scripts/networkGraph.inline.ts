@@ -131,7 +131,6 @@ function initNetworkGraph() {
   let allEdges: { source: string; target: string }[] = []
   let activeFilter = "all"
   let maxNodes = 150
-  let highlightedNode: GraphNode | null = null
 
   // Fetch graph data
   // @ts-ignore — fetchGraphData is a global promise defined in renderPage.tsx
@@ -206,7 +205,7 @@ function initNetworkGraph() {
     svgEl.setAttribute("viewBox", `0 0 ${width} ${height}`)
 
     const svg = select(svgEl)
-    removeAllChildren(svgEl)
+    removeAllChildren(svgEl as unknown as HTMLElement)
 
     const { nodes, edges } = getFilteredData()
 
@@ -279,7 +278,7 @@ function initNetworkGraph() {
     // Draw nodes
     const nodeGroup = g.append("g").attr("class", "dm-ng-nodes")
     const nodeEls = nodeGroup
-      .selectAll("g")
+      .selectAll<SVGGElement, GraphNode>("g")
       .data(simNodes)
       .join("g")
       .attr("class", "dm-ng-node")
@@ -350,8 +349,6 @@ function initNetworkGraph() {
     // Hover
     nodeEls
       .on("mouseenter", (event, d) => {
-        highlightedNode = d
-
         // Find connected nodes
         const connected = new Set<string>()
         connected.add(d.id)
@@ -429,7 +426,6 @@ function initNetworkGraph() {
         tooltip.style.top = event.pageY - 10 + "px"
       })
       .on("mouseleave", () => {
-        highlightedNode = null
         nodeEls.select(".dm-ng-shape").attr("fill-opacity", 0.8).attr("filter", "none")
         nodeEls.select(".dm-ng-glow-ring").attr("stroke-opacity", 0.15)
         nodeEls.select(".dm-ng-label").attr("display", "none").attr("fill-opacity", 1)
@@ -519,9 +515,9 @@ function initNetworkGraph() {
     }
 
     select(svgEl)
-      .selectAll(".dm-ng-node")
-      .each(function (this: SVGGElement, d: any) {
-        const match = d.name.toLowerCase().includes(q)
+      .selectAll<SVGGElement, GraphNode>(".dm-ng-node")
+      .each(function (this: SVGGElement, d: GraphNode) {
+        const match = (d.name || "").toLowerCase().includes(q)
         select(this).select(".dm-ng-shape").attr("fill-opacity", match ? 1 : 0.08)
         select(this).select(".dm-ng-label").attr("fill-opacity", match ? 1 : 0.08)
       })
@@ -691,7 +687,7 @@ function renderMiniGraphInContainer(container: HTMLElement, graphData: string, e
   const centerSize = expanded ? 14 : 8
 
   const nodeEls = g
-    .selectAll("g.mini-node")
+    .selectAll<SVGGElement, GraphNode>("g.mini-node")
     .data(simNodes)
     .join("g")
     .attr("class", "mini-node")

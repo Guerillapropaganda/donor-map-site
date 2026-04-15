@@ -123,7 +123,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         const fm: any = page.frontmatter ?? {}
         const rawTitle = String(fm.title ?? "")
         const title = rawTitle.replace(/^_/, "").replace(/\s+Master\s+Profile\s*$/i, "").trim()
-        const tags = fm.tags ?? []
+        const tags: string[] = Array.isArray(fm.tags) ? (fm.tags as string[]) : []
 
         // Enrichment fields (present on ~most profiles via enrich-frontmatter)
         const type = String(fm.type ?? "").toLowerCase()
