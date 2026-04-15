@@ -96,6 +96,9 @@ const IDEOLOGICAL_ALIAS = {
   "austerity-advocacy": "austerity",
   "anti-trust": "anti-trust-defender",
   "labor-friendly": "labor-organizing",
+  "labor-militant": "labor-organizing",
+  "climate-justice": "movement-left",
+  "environmental-justice": "movement-left",
   "dark-money": "dark-money-networked",
   // These are outside the locked vocabulary — DROPPED with warning:
   //   surveillance-state, climate-skeptical, anti-worker, tax-cut-lobby
@@ -103,7 +106,9 @@ const IDEOLOGICAL_ALIAS = {
 const WORKER_ALIAS = {
   "anti-union": "union-hostile",
   "union-neutral": "union-neutral-employer",
+  "union-tolerant": "union-neutral-employer",
   "union-friendly": "union-aligned",
+  "union-controlled": "union-aligned",
   "labor-aligned": "union-aligned",
   "unionized": "union-neutral-employer",
   "neutral": "neutral",
