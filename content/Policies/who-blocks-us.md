@@ -15,25 +15,25 @@ The donors funding politicians who oppose policies with majority public support.
 | Rank | Donor | Politicians funded | Total spend |
 |---|---|---|---|
 | 1 | Goldman Sachs | 6 | — |
-| 2 | Western Growers Association | 1 | — |
+| 2 | Western Growers Association | 3 | — |
 | 3 | Marc Andreessen & Horowitz | 2 | — |
 | 4 | Majority Forward | 1 | — |
-| 5 | California Farm Bureau Federation | 3 | — |
+| 5 | California Farm Bureau Federation | 4 | — |
 | 6 | Bank of America | 2 | — |
 | 7 | National Republican Senatorial Committee | 1 | — |
 | 8 | Boeing | 4 | — |
 | 9 | Crypto Industry Bloc | 5 | — |
 | 10 | Google - Alphabet | 3 | — |
-| 11 | Democratic Small Dollar Networks | 5 | — |
-| 12 | Fairshake PAC | 2 | — |
-| 13 | Apollo Global Management | 1 | — |
-| 14 | AFSCME - American Federation of State County and Municipal Employees | 3 | — |
-| 15 | Blackstone Group | 2 | — |
-| 16 | UFCW - United Food and Commercial Workers | 2 | — |
-| 17 | Koch Network - Charles Koch | 5 | — |
-| 18 | NORPAC | 3 | — |
-| 19 | Morgan Stanley | 1 | — |
-| 20 | Republican Jewish Coalition | 2 | — |
+| 11 | DMFI - Democratic Majority for Israel | 1 | — |
+| 12 | Democratic Small Dollar Networks | 5 | — |
+| 13 | Fairshake PAC | 3 | — |
+| 14 | Apollo Global Management | 1 | — |
+| 15 | AFSCME - American Federation of State County and Municipal Employees | 3 | — |
+| 16 | Blackstone Group | 2 | — |
+| 17 | UFCW - United Food and Commercial Workers | 2 | — |
+| 18 | Koch Network - Charles Koch | 5 | — |
+| 19 | NORPAC | 3 | — |
+| 20 | Morgan Stanley | 1 | — |
 
 ## Donors playing both sides
 

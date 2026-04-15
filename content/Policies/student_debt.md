@@ -48,10 +48,10 @@ Opposition comes from **finance-capital** — the capital fractions with a direc
 | Donor | Total spend | Politicians funded |
 |---|---|---|
 | Goldman Sachs | — | 6 |
-| Western Growers Association | — | 1 |
+| Western Growers Association | — | 3 |
 | Marc Andreessen & Horowitz | — | 2 |
 | Majority Forward | — | 1 |
-| California Farm Bureau Federation | — | 3 |
+| California Farm Bureau Federation | — | 4 |
 | Bank of America | — | 2 |
 | National Republican Senatorial Committee | — | 1 |
 | Boeing | — | 4 |
