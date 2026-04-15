@@ -279,6 +279,27 @@ function processFile(filePath, stats) {
     return
   }
 
+  // Skip files that aren't real entities: README files, redirects, and
+  // anything explicitly marked as reference/documentation. These end up
+  // as garbage entries in the store with broken sector values.
+  if (/^_?readme/i.test(path.basename(filePath))) {
+    stats.skipped += 1
+    return
+  }
+  if (fm.type === "reference" || fm.type === "redirect") {
+    stats.skipped += 1
+    return
+  }
+  if (fm["editorial-status"] === "redirect") {
+    stats.skipped += 1
+    return
+  }
+  // Title ending in "(Redirect)" is the existing redirect-file convention
+  if (typeof name === "string" && /\(redirect\)$/i.test(name.trim())) {
+    stats.skipped += 1
+    return
+  }
+
   // Normalize the profile_path to a repo-relative path for storage
   const repoRoot = path.join(__dirname, "..")
   const relPath = path.relative(repoRoot, filePath).replace(/\\/g, "/")

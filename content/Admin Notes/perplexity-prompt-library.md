@@ -106,29 +106,115 @@ Fill in: `{SUBJECT}` (e.g. "AIPAC and its influence on US Congress", "Pfizer lob
 
 ## D. Class tag batch proposal
 
-**Use when:** A batch of entities need class_tags researched (on top of or replacing the heuristic pass).
-**Output destination:** JSONL that Research Claude loads into the approval queue.
+**Use when:** A batch of donor/corporation entities need class_tags researched — either because the heuristic proposer skipped them (no sector keyword match, no body-snippet signal) or because Research Claude needs stronger-than-heuristic proposals for a high-profile entity.
+
+**Output destination:** A markdown code block containing JSONL, one record per line. David saves this to `data/perplexity-class-tag-proposals-{YYYY-MM-DD}.jsonl`. From there, a one-shot loader script (`scripts/load-perplexity-class-tag-proposals.cjs` — to be written) merges records into `data/entity-class-tags-proposed.jsonl` with `proposed_by: "perplexity-{MODEL}"` so they flow into the same Ops `/class-tags` approval queue David already uses for heuristic proposals.
+
+**Authority:** ADR-0001 (locked class-tag vocabulary). Do NOT invent new values.
 
 ```
-I have {N} entities from a political donor database that need class tag proposals. For each, propose:
+You are helping class-tag entities for a political donor accountability database (The Donor Map, thedonormap.org). The analytical framework is class analysis: each entity is tagged along 5 dimensions that locate it in the class structure.
 
-- `capital_type` from: industrial / financial / rentier / labor-aligned / petty-bourgeois / state-capital
-- `class_position` from: ruling-class / capitalist / professional-managerial / labor-aligned / ambiguous
-- `ideological_function` array from: [climate-denial, union-busting, privatization, deregulation, surveillance-state, carceral-state, imperialist-aligned, zionist-aligned, christian-nationalist, corporate-liberal, progressive, socialist, labor-militant, tenants-rights, ...]
+I have {N} donor/corporation entities that need class-tag proposals. The deterministic heuristic proposer already ran and either skipped them (no sector keyword match) or produced low-confidence guesses. Research each one properly: use public FEC filings, IRS 990s, OpenSecrets, ProPublica Nonprofit Explorer, SEC filings, news coverage, and scholarly sources on political economy / class composition.
 
-Override rules:
-- Labor unions ALWAYS get `capital_type: labor-aligned` AND `class_position: labor-aligned`, regardless of spend
-- Foundations and 501(c)(3)s that are funded by billionaires and push market-friendly policy get `capital_type: financial` AND `class_position: ruling-class`
-- Trade associations get `class_position: capitalist` (not ruling-class unless explicitly billionaire-funded)
-- If you can't confidently tag an entity, set `class_position: ambiguous` and explain why
+=== LOCKED VOCABULARY (ADR-0001 — do not invent new values) ===
 
-Return as JSONL, one record per line, with: entity_name, capital_type, class_position, ideological_function, rationale (1 sentence), confidence (high/medium/low).
+capital_type — the primary industry / form of capital this entity represents. Pick ONE.
+  fossil-capital          — oil, gas, coal, fossil-fuel utilities
+  extractive-capital      — mining, timber, commodities, non-fossil extraction
+  finance-capital         — banks, hedge funds, private equity, asset managers, Wall Street
+  rentier-capital         — real estate, landlords, REITs, intellectual-property licensing
+  tech-monopoly           — Big Tech, platform companies, gig-economy labor arbitrage
+  retail-monopoly         — Walmart, Amazon retail, logistics giants
+  military-industrial     — defense contractors, weapons, intelligence contractors
+  carceral-capital        — private prisons, bail bonds, immigration detention, surveillance tech
+  pharma-capital          — drug companies, PBMs, health-insurance underwriters
+  media-capital           — media conglomerates, entertainment, publishing
+  agribusiness-capital    — factory farms, agricultural conglomerates, food processing
+  small-capital           — small business, locally owned firms, franchise owners
+  professional-class      — law firms, consultancies, professional services (non-capital-owning)
+  labor-aligned           — unions, worker co-ops, labor federations
+  dark-money-vehicle      — 501(c)(4)s, donor-advised funds, dark-money pass-throughs
+  mixed                   — conglomerates or holding companies spanning multiple above (use sparingly)
 
-ENTITIES (with signal data: revenue, lobbying spend, sector, NAICS code, description):
+class_position — where this entity sits in the class structure.
+  ruling-class            — ultra-rich individuals (>$100M net worth), billionaire families, strategically-positioned capital
+  upper-bourgeois         — owners of significant capital but below ruling class; corporate executives; top 1% earners
+  petty-bourgeois         — small business owners, independent professionals, small capital holders
+  labor-aligned           — unions and worker-controlled organizations (ALWAYS for any real labor organization, regardless of spend)
+  ambiguous               — can't confidently assign; explain why in rationale
+
+ideological_function — what political work the entity does. Multi-select (array, can be empty).
+  union-busting           — direct union-busting activity (not just anti-labor)
+  climate-denial          — climate denial or delay machine
+  deregulatory            — general deregulation / regulatory-capture agenda
+  libertarian-ideology    — libertarian / free-market-fundamentalist
+  religious-right         — Christian right, religious-right political organizing
+  carceral-expansion      — expansion of the carceral state (policing, prisons, detention)
+  imperialist-aligned     — pro-imperial foreign policy, regime change, interventionism
+  zionist-aligned         — explicitly pro-Israel-lobby positioning (AIPAC, UDP, etc.)
+  nativist                — anti-immigration, nativist, "great replacement" rhetoric
+  voter-suppression       — voter ID laws, voter purges, election-integrity theater
+  privatization           — privatization of public services (schools, infrastructure, etc.)
+  austerity               — public-sector austerity advocacy
+  anti-trust-defender     — opposing anti-trust enforcement
+  tax-avoidance-lobby     — tax-cut lobbying, tax-haven defense
+  astroturf               — astroturf / fake grassroots
+  dark-money-networked    — embedded in dark-money donor networks
+  progressive-capital     — capital-aligned "progressive" (corporate liberalism)
+  labor-organizing        — actively organizes workers
+  electoral-left          — electoral left politics (DSA-aligned, Squad, etc.)
+  movement-left           — movement left (protest movements, abolition, climate justice)
+
+worker_relationship — how the entity relates to the working class. Pick ONE.
+  union-busting           — actively busts unions (Amazon, Starbucks, Tesla pattern)
+  union-hostile           — resists unionization but not a serial buster
+  low-wage-extractive     — business model depends on low-wage workforce (fast food, warehousing)
+  neutral                 — no meaningful worker relationship (finance firms, dark-money groups)
+  union-neutral-employer  — unionized workforce, management-union relationship is functional
+  union-aligned           — explicitly labor-aligned org
+  worker-owned            — worker cooperative or worker-owned firm
+
+=== OVERRIDE RULES ===
+
+1. Any real labor union / labor federation → capital_type: labor-aligned AND class_position: labor-aligned AND worker_relationship: union-aligned, regardless of spend or other signals.
+
+2. 501(c)(4)s and 501(c)(3)s funded primarily by billionaire donors that push pro-capital policy → capital_type: dark-money-vehicle, class_position: ruling-class, add ideological_function: dark-money-networked.
+
+3. Trade associations (US Chamber, NAM, etc.) → class_position: upper-bourgeois (NOT ruling-class unless founded/controlled by named billionaires).
+
+4. Individual donors: use net-worth as the class_position signal. >$100M net worth → ruling-class. $10M-$100M → upper-bourgeois. Below that → petty-bourgeois.
+
+5. Foreign government / state-linked actors → class_position: ambiguous (state capital doesn't fit the domestic class framework), ideological_function: imperialist-aligned or nativist as applicable.
+
+6. If you genuinely can't confidently assign → class_position: ambiguous AND confidence: low AND explain why in rationale. Do NOT force a guess.
+
+=== REQUIRED RETURN FORMAT ===
+
+Return ONLY a fenced markdown code block tagged as `jsonl`, containing one JSON object per line. One line per entity. No other prose.
+
+Each record MUST have this exact shape:
+
+{"entity_id":"<ent_NNNNNN from input>","entity_name":"<name>","capital_type":"<one value or null>","secondary_capital_type":"<one value or null>","class_position":"<one value>","ideological_function":["<value>","<value>"],"worker_relationship":"<one value or null>","rationale":"<1-2 sentence class-analysis explanation grounded in specific evidence>","sources":["<url1>","<url2>"],"confidence":"high|medium|low"}
+
+Rules for the fields:
+- `entity_id` MUST match the input's ent_NNNNNN. This is how the records get merged back in.
+- `capital_type` may be null only if the entity is clearly not a capital holder (e.g. a union — labor-aligned fits there too though).
+- `secondary_capital_type` is for entities with meaningful exposure to a second industry (e.g. Koch Industries is fossil-capital primary + finance-capital secondary). Null if not applicable.
+- `ideological_function` is an array, can be empty [].
+- `worker_relationship` may be null for entities with no direct worker relationship (e.g. a dark-money PAC that doesn't employ anyone).
+- `rationale` must cite specific evidence (filing, ruling, policy stance, funding source) — not vague generalizations.
+- `sources` is an array of 2-5 URLs you used. Prefer Tier 1 (FEC, IRS 990 via ProPublica Nonprofit Explorer, SEC filings, Congress.gov) over Tier 2 (newspapers, OpenSecrets articles) over Tier 3 (aggregators).
+- `confidence` must reflect how much hard evidence you found. high = multiple Tier 1 filings directly support the tags. medium = Tier 2 sources + reasonable inference. low = inference dominates.
+
+=== ENTITIES TO TAG ===
+
 {PASTE_ENTITY_SIGNALS}
 ```
 
-Fill in: `{N}`, `{PASTE_ENTITY_SIGNALS}`
+**Fill in:** `{N}` (count), `{PASTE_ENTITY_SIGNALS}` (the export from `scripts/export-class-tag-research-batch.cjs` — one entity block per target, containing: ent_id, name, type, sector, edge_count, total_political_spend, top_politicians_funded, body_snippet, profile_path. TODO: this exporter is yet to be built; for now, manually copy the relevant rows from `content/Admin Notes/class-tag-research-queue.md` Bucket B).
+
+**Loader destination:** `data/entity-class-tags-proposed.jsonl` via `scripts/load-perplexity-class-tag-proposals.cjs` (TODO: yet to be built). Until then, David can paste the returned JSONL into a new file under `content/Admin Notes/perplexity-research/class-tags-{YYYY-MM-DD}.md` as a fenced block, and Code Claude will write the loader when that file lands.
 
 ---
 
