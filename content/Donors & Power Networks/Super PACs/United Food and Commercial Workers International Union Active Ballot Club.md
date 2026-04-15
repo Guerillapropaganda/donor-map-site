@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00002766
 aliases:
@@ -13,6 +13,10 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Pramila Jayapal]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +40,22 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- JOINT STOCK COMPANY JOINT STOCK COMMERCIAL BANK INTERNATIONAL FINANCIAL CLUB (-0-) [RUSSIA-EO14024]
+  - Remarks: SWIFT/BIC ICFIRUMM; Website www.mfk-bank.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; Tax ID No. 7744000038 (Russia); Registration Number ...
+- JOINT STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK (-0-) [RUSSIA-EO14024]
+  - Remarks: SWIFT/BIC EUJKRU55; Website www.united.ru; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type Financial Institution; Tax ID No. 2447002227 (Russia); Legal Entity Number 25...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

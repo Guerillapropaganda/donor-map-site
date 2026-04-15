@@ -6,13 +6,13 @@ chamber: Senate
 party: Democrat
 content-readiness: ready
 central-thesis: Bennet's political career is underwritten by education reform donors. As DPS superintendent, he implemented charter school expansion (70+ new charters opened during his tenure, 48 schools closed). This positioned him as attractive to Eli Broad, Wa...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 stock-trades: 7
 stock-trade-tickers:
-  - RGC
-  - LVLT
+  - "RGC"
+  - "LVLT"
 total-received: $7,524,650
 fec-candidate-id: P00011833
 related: "[[John Hickenlooper]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Gates Foundation]]"
@@ -21,6 +21,7 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 top-donors: "[[MISLOVE, ALAN EDWARD]], [[Mislove, Alan Edward]]"
+donors: "[[Mislove, Alan Edward]]"
 ---
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat
 tags: #democrat

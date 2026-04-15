@@ -3,7 +3,7 @@ title: Mark Warner
 type: politician
 content-readiness: ready
 central-thesis: Warner occupies the clearest personal financial conflict in the Senate. His $215M+ wealth comes directly from telecom venture capital (Nextel, spectrum trading). He now sits on committees that set policy for tech regulation, foreign investment scr...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -19,11 +19,11 @@ top-donors:
 fec-candidate-id: S6VA00093
 stock-trades: 88
 stock-trade-tickers:
-  - ZAYO
-  - CHTR
-  - HALO
-  - XON
-  - ZIOP
+  - "ZAYO"
+  - "CHTR"
+  - "HALO"
+  - "XON"
+  - "ZIOP"
 bioguide-id: W000805
 govtrack-id: 412321
 bills-sponsored: 35

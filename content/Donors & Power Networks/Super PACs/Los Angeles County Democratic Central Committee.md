@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00300731
 aliases:
@@ -13,6 +13,12 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Maxine Waters]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "DPRK3"
+  - "ILLICIT-DRUGS-EO14059"
+related: "[[Maxine Waters]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +42,24 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 3 |
+| Sanctions Programs | DPRK3, ILLICIT-DRUGS-EO14059 |
+| Entity Types | -0-, individual |
+
+**Matched SDN entries:**
+- CENTRAL BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA (-0-) [DPRK3]
+  - Remarks: Secondary sanctions risk: North Korea Sanctions Regulations, sections 510.201 and 510.210; Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions: North Korea Sanctions...
+- BELL FERNANDEZ, Gilbert Hernan de Los Angeles (individual) [ILLICIT-DRUGS-EO14059]
+  - Remarks: DOB 02 May 1963; POB Turrialba, Cartago, Costa Rica; nationality Costa Rica; Gender Male; Cedula No. 302600933 (Costa Rica); a.k.a. 'MACHO COCA'.
+- VERACRUZANA DE SERVICIOS HOTELEROS Y GASTRONOMICOS LOS ANGELES, S.A. DE C.V. (-0-) [ILLICIT-DRUGS-EO14059]
+  - Remarks: Organization Established Date 01 Aug 2012; Organization Type: Restaurants and mobile food service activities; RFC VSH1208019D1 (Mexico); Folio Mercantil No. 29001 (Mexico); a.k.a. 'HOTEL ANGELES'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

@@ -2,7 +2,7 @@
 title: Petrochemical Industry Bloc
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Energy & Utilities
@@ -16,8 +16,8 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - NPWMD] [IFSR
-related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]] · [[ALEC - American Legislative Exchange Council]] · [[National Association of Manufacturers]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Federation for Children]] · [[Defense Industry]]"
+  - "NPWMD] [IFSR"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]] · [[ALEC - American Legislative Exchange Council]] · [[National Association of Manufacturers]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]]"
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Bill Cassidy]]"

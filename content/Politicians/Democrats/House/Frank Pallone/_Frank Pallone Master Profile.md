@@ -3,7 +3,7 @@ title: Frank Pallone
 type: politician
 content-readiness: ready
 central-thesis: "Pallone is the textbook example of the committee-jurisdiction donor pipeline: the longer he has held the gavel (or ranking member position) on Energy and Commerce, the more money has flowed from every industry his committee regulates. Pharmaceutic..."
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -32,7 +32,7 @@ top-donors:
 total-received: $1,311,209
 fec-candidate-id: H8NJ03073
 donors: "[[UAW - United Auto Workers]] · [[AFGE - American Federation of Government Employees]] · [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]] · [[FOCUS ON THE FAMILY ACTION]] · [[Family Research Council Action Political Action Committee]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[FREEDOM'S DEFENSE FUND]] · [[Pfizer]] · [[Freedom's Defense Fund]] · [[American College of Radiology Association PAC]] · [[NEW JERSEY FAMILY FIRST INC]] · [[Focus on the Family Action]] · [[PhRMA]] · [[AIPAC - American Israel Public Affairs Committee]] · [[New Jersey Family First INC]]"
-related: ">- · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Rosa DeLauro]]"
+related: ">- · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Rosa DeLauro]] · [[Maxine Waters]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline

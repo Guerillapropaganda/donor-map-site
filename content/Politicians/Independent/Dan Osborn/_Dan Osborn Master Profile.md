@@ -3,7 +3,7 @@ title: Dan Osborn
 type: politician
 content-readiness: ready
 central-thesis: Osborn represents an emerging independent working-class model that is primarily funded by national Democratic infrastructure while maintaining an 'independent' brand to appeal to Nebraska moderates and right-leaning working-class voters skeptical ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Independent
@@ -24,6 +24,7 @@ cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "33492.00"
+donors: "[[Retire Career Politicians]]"
 ---
 
 <!-- auto:data-panel start -->

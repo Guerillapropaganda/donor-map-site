@@ -2,10 +2,10 @@
 title: "Trump Crypto - The President as Personal Profiteer"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
-related: "[[Media and Propaganda - Donors and Backers]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[Crypto and Tech - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Emoluments and Self Dealing - Donors and Backers]] · [[World Liberty Financial]] · [[Save America PAC]] · [[Elon Musk]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[Crypto and Tech - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Emoluments and Self Dealing - Donors and Backers]] · [[World Liberty Financial]] · [[Save America PAC]] · [[Elon Musk]] · [[David Sacks (Donor Network)]]"
 ---
 #trump #crypto #WLFI #meme-coin #class-analysis #follow-the-money #conflict-of-interest #deregulation #grift #personal-enrichment
 

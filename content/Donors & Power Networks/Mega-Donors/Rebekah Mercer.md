@@ -2,7 +2,7 @@
 title: Rebekah Mercer
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Mega-Donors
@@ -16,7 +16,7 @@ sec-form-types:
   - D
   - EX-10.9
   - PX14A6G
-related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]] · [[Robert Mercer]] · [[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Mitt Romney]] · [[Mike Lee]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Barbara Lee]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
+related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]] · [[Robert Mercer]] · [[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Mitt Romney]] · [[Mike Lee]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Barbara Lee]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]] · [[Ted Cruz]]"
 last-enriched: "2026-04-09"
 total-political-spend: $1,838,065
 cross-vault-triangulation-count: 12

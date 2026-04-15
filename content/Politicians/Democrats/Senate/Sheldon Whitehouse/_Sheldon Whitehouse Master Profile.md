@@ -3,7 +3,7 @@ title: Sheldon Whitehouse
 type: politician
 content-readiness: draft
 central-thesis: Whitehouse is the Senate's dark money watchdog who is himself embedded in the donor infrastructure he critiques. His 'Scheme' floor speech series (80+ documented speeches, 2016–present) is the most detailed public accounting of right-wing judicial...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -38,16 +38,16 @@ total-received: $365,144
 fec-candidate-id: S6RI00221
 stock-trades: 687
 stock-trade-tickers:
-  - GILD
-  - FB
-  - IBM
-  - T
-  - BIIB
-  - NVDA
-  - BMY
-  - C
-  - AAPL
-  - AMGN
+  - "GILD"
+  - "FB"
+  - "IBM"
+  - "T"
+  - "BIIB"
+  - "NVDA"
+  - "BMY"
+  - "C"
+  - "AAPL"
+  - "AMGN"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline

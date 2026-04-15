@@ -2,7 +2,7 @@
 title: Real Estate Roundtable
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Real Estate
@@ -20,16 +20,16 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - SDNTK
-  - UKRAINE-EO13662] [RUSSIA-EO14024
-  - SDGT
-  - PAARSSR-EO13894
-  - RUSSIA-EO14024
-  - IRAN-EO13846
-  - GLOMAG
-  - DPRK2
-  - ILLICIT-DRUGS-EO14059
-  - TCO
+  - "SDNTK"
+  - "UKRAINE-EO13662] [RUSSIA-EO14024"
+  - "SDGT"
+  - "PAARSSR-EO13894"
+  - "RUSSIA-EO14024"
+  - "IRAN-EO13846"
+  - "GLOMAG"
+  - "DPRK2"
+  - "ILLICIT-DRUGS-EO14059"
+  - "TCO"
 related: "[[Housing - Donors and Backers]] · [[Jason Smith]] · [[The Real Estate President and the Fair Housing Demolition]] · [[_Donald Trump Master Profile|Trump]] · [[Real Estate Industry Bloc]] · [[CBRE Group]] · [[Blackstone Real Estate]]"
 nonprofit-status: 501(c)(6)
 total-revenue: 8265540

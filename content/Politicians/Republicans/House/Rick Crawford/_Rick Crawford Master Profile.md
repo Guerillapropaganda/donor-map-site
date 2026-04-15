@@ -3,7 +3,7 @@ title: Rick Crawford
 type: politician
 content-readiness: ready
 central-thesis: Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee , a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -44,6 +44,7 @@ fec-cycle: 2026
 last-enriched: "2026-04-11"
 bioguide-id: C001087
 top-donors: "[[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[AMERICANS FOR JOB SECURITY]], [[REVERE AMERICA]], [[Revere America]], [[Americans for Job Security]]"
+donors: "[[Revere America]]"
 ---
 
 <!-- auto:data-panel start -->

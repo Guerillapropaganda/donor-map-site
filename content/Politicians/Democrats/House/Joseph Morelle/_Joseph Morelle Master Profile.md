@@ -3,7 +3,7 @@ title: Joseph Morelle
 type: politician
 content-readiness: ready
 central-thesis: Morelle is the institutional Democrat , a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -53,6 +53,7 @@ wikidata-id: Q6285623
 wikipedia-url: https://en.wikipedia.org/wiki/Joseph_Morelle
 wikipedia-extract: Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.
 born: "1957-04-29"
+donors: "[[Together We Thrive]]"
 ---
 
 <!-- auto:data-panel start -->

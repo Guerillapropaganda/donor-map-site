@@ -3,7 +3,7 @@ title: John Kennedy
 type: politician
 content-readiness: ready
 central-thesis: Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances , sharp questioning, memorable soundbi...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -25,7 +25,7 @@ bills-sponsored: 0
 bills-cosponsored: 0
 stock-trades: 2
 stock-trade-tickers:
-  - MTUM
+  - "MTUM"
 fec-candidate-id: S4LA00065
 related: "[[Dan Crenshaw Master Profile]] · [[_Bill Cassidy Master Profile|Cassidy]] · [[ExxonMobil]] · [[Koch Industries]] · [[ConocoPhillips]] · [[_Lindsey Graham Master Profile|Graham]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 needs-reenrichment: true

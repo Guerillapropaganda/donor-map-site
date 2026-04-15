@@ -2,7 +2,7 @@
 title: Apollo Global Management
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Wall Street
@@ -16,7 +16,7 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
-  - IRAN-EO13846
+  - "IRAN-EO13846"
 ein: "815163032"
 nonprofit-status: 501(c)(3)
 total-revenue: 1096673

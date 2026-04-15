@@ -3,7 +3,7 @@ title: Maria Elvira Salazar
 type: politician
 content-readiness: draft
 central-thesis: Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps: null
@@ -19,7 +19,7 @@ top-donors:
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 ofac-programs:
-  - SDNTK
+  - "SDNTK"
 total-received: $922,124
 fec-candidate-id: H8FL27185
 bioguide-id: S000168

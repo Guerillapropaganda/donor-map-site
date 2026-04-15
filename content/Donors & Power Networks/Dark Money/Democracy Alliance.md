@@ -2,7 +2,7 @@
 title: Democracy Alliance
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Dark Money
@@ -11,7 +11,7 @@ politicians-funded: "[[Tammy Duckworth]], [[Tim Walz]], [[Lindsey Graham]]"
 issues:
   - Dark Money & Campaign Finance
 total-political-spend: $116,675
-related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]]"
+related: "[[New Venture Fund]] · [[Tammy Duckworth]] · [[The Post-Presidency Capitalization - From Hope and Change to Martha's Vineyard]] · [[Center on Budget and Policy Priorities]] · [[Third Way]] · [[Tim Walz]] · [[Barack Obama Master Profile]] · [[Organizing for Action]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Media Matters]] · [[Center for American Progress]] · [[America Votes]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]]"
 ein: "204366413"
 nonprofit-status: 501(c)(4)
 last-enriched: "2026-04-09"

@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00155952
 aliases:
@@ -13,6 +13,11 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Bobby Scott]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "BALKANS"
+related: "[[Bobby Scott]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +41,20 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `DEMOCRATIC PARTY OF VIRGINIA`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | BALKANS |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- SERB DEMOCRATIC PARTY (-0-) [BALKANS]
+  - Remarks: a.k.a. 'SDS'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

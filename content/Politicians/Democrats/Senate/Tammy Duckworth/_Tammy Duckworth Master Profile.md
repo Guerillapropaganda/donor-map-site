@@ -3,7 +3,7 @@ title: Tammy Duckworth
 type: politician
 content-readiness: ready
 central-thesis: Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -32,16 +32,16 @@ top-donors:
   - SEIU
 stock-trades: 15
 stock-trade-tickers:
-  - CAT
-  - BBL
-  - GS
-  - SOUHY
-  - DWDP
-  - ABT
-  - JNJ
-  - CC
-  - INTC
-  - DVMT
+  - "CAT"
+  - "BBL"
+  - "GS"
+  - "SOUHY"
+  - "DWDP"
+  - "ABT"
+  - "JNJ"
+  - "CC"
+  - "INTC"
+  - "DVMT"
 total-received: $385,884
 fec-candidate-id: S6IL00292
 donors: "[[Democracy Alliance]], [[Boeing]], [[General Dynamics]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[FREEDOMWORKS FOR AMERICA]], [[Lockheed Martin]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NOW OR NEVER PAC]], [[NEW PROSPERITY FOUNDATION; THE]], [[Now Or Never PAC]], [[FreedomWorks for America]], [[New Prosperity Foundation; the]], [[Raytheon (RTX)]]"

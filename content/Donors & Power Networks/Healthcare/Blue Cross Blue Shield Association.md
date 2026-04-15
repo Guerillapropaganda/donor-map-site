@@ -2,7 +2,7 @@
 title: Blue Cross Blue Shield Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Healthcare
@@ -15,16 +15,16 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
-  - SDNTK
-  - IRAN
-  - SDGT
-  - SDGT] [IFSR
-  - BELARUS-EO14038
-  - GLOMAG
-  - IRAN-EO13846
-  - NPWMD] [IFSR
-  - IRAN-EO13902
-  - SDGT] [ILLICIT-DRUGS-EO14059
+  - "SDNTK"
+  - "IRAN"
+  - "SDGT"
+  - "SDGT] [IFSR"
+  - "BELARUS-EO14038"
+  - "GLOMAG"
+  - "IRAN-EO13846"
+  - "NPWMD] [IFSR"
+  - "IRAN-EO13902"
+  - "SDGT] [ILLICIT-DRUGS-EO14059"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 federal-register-mentions: 27
@@ -43,7 +43,7 @@ ein: 135656874
 annual-revenue: $819.1M
 net-assets: $1.1B
 tax-year: "2023"
-related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Palantir Technologies Political Operation]]"
+related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]]"
 court-cases: 825
 court-jurisdictions:
   - Court of Appeals for the Ninth Circuit

@@ -2,7 +2,7 @@
 title: Tyson Foods
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Agriculture
@@ -102,8 +102,8 @@ wikidata-id: Q1325987
 wikipedia-url: https://en.wikipedia.org/wiki/Tyson_Foods
 wikipedia-extract: Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
 founded: "1935-01-01"
-lei: WD6L6041MNRW1JE49D58
-lei-jurisdiction: US-DE
+lei: "WD6L6041MNRW1JE49D58"
+lei-jurisdiction: "US-DE"
 lobbying-spend: 5030000
 lobbying-filings: 30
 ---

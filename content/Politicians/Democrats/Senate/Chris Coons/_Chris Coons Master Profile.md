@@ -3,7 +3,7 @@ title: Chris Coons
 type: politician
 content-readiness: ready
 central-thesis: Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -24,9 +24,9 @@ issues:
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[THE NATIONAL REPUBLICAN TRUST PAC]], [[AMERICAN WORKER INC, THE]], [[LET FREEDOM RING INC]], [[FIRST AMENDMENT ALLIANCE]], [[First Amendment Alliance]], [[The National Republican Trust PAC]], [[Let Freedom Ring INC]], [[American Worker Inc, the]]"
 stock-trades: 24
 stock-trade-tickers:
-  - NFLX
-  - AAPL
-  - MSFT
+  - "NFLX"
+  - "AAPL"
+  - "MSFT"
 total-received: $5,285,973
 fec-candidate-id: S0DE00092
 bioguide-id: C001088
@@ -50,6 +50,7 @@ committees:
 internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: C001088. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+donors: "[[The National Republican Trust PAC]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00496521
 aliases:
@@ -13,6 +13,11 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Zoe Lofgren]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "DPRK3"
+related: "[[Zoe Lofgren]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +41,20 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | DPRK3 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- CENTRAL BANK OF THE DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA (-0-) [DPRK3]
+  - Remarks: Secondary sanctions risk: North Korea Sanctions Regulations, sections 510.201 and 510.210; Transactions Prohibited For Persons Owned or Controlled By U.S. Financial Institutions: North Korea Sanctions...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

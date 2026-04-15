@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 2
 parent: null
-related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]]"
+related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 #2028-election #republican-primary #mega-donor #adelson #israel-lobby
 

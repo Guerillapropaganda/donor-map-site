@@ -2,7 +2,7 @@
 title: Gulf State Money - Saudi Arabia, UAE, Qatar
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Foreign Influence
@@ -13,12 +13,12 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - SDGT
+  - "SDGT"
 lobbying-spend: 918000
 lobbying-filings: 71
 lei: 894500LPEZD0PA4A6I95
 lei-jurisdiction: IN
-related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[World Liberty Financial]] · [[Mohammed bin Salman]]"
+related: "[[Haim Saban]] · [[Affinity Partners and the Saudi Pipeline]] · [[Abraham Accords as Business Development]] · [[666 Fifth Avenue and Financial Desperation]] · [[Steve Witkoff]] · [[Trump Donor Coalition]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Miriam Adelson]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]] · [[_Jared Kushner Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Christians United for Israel]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[World Liberty Financial]] · [[Mohammed bin Salman]] · [[American Petroleum Institute]]"
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---

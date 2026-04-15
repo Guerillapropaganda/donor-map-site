@@ -3,7 +3,7 @@ title: Cory Booker
 type: politician
 content-readiness: draft
 central-thesis: Cory Booker is the Two-Audience Problem incarnate , and the pharma vote is the receipt. His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,16 +31,16 @@ top-donors:
   - Silicon Valley Democratic Donor Network
 stock-trades: 13
 stock-trade-tickers:
-  - IRM
-  - AMT
-  - NFLX
-  - NKE
-  - IBM
-  - FB
-  - AMZN
-  - AAPL
-  - DISH
-  - EBAY
+  - "IRM"
+  - "AMT"
+  - "NFLX"
+  - "NKE"
+  - "IBM"
+  - "FB"
+  - "AMZN"
+  - "AAPL"
+  - "DISH"
+  - "EBAY"
 govtrack-id: 412598
 bills-sponsored: 92
 bills-cosponsored: 541

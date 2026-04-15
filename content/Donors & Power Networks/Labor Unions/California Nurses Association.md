@@ -2,7 +2,7 @@
 title: California Nurses Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-09T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Labor Unions
@@ -38,7 +38,7 @@ sec-form-types:
   - S-4
   - S-4/A
   - XML
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[CNA - California Nurses Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[California Labor Federation]]"
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[CNA - California Nurses Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[California Labor Federation]] · [[Jeff Merkley]]"
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 ---

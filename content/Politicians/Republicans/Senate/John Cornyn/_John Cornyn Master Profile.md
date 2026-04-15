@@ -4,7 +4,7 @@ type: politician
 bioguide-id: C001056
 content-readiness: ready
 central-thesis: John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -38,7 +38,7 @@ total-received: $11,155,399
 fec-candidate-id: S2TX00106
 stock-trades: 2
 stock-trade-tickers:
-  - AAPL
+  - "AAPL"
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline

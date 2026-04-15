@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00003251
 aliases:
@@ -13,6 +13,11 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Jamie Raskin]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "RUSSIA-EO14024"
+related: "[[Jamie Raskin]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +41,22 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `NEA FUND FOR CHILDREN AND PUBLIC EDUCATION`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- ALL RUSSIAN CHILDREN AND YOUTH MILITARY PATRIOTIC PUBLIC MOVEMENT YOUTH ARMY (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 28 Jul 2016; Tax ID No. 7704366170 (Russia); Registration Number 1167700061540 (Russia); a.k.a. 'YUNAR...
+- ALL RUSSIAN PUBLIC STATE MOVEMENT OF CHILDREN AND YOUTH (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Target Type State-Owned Enterprise; Tax ID No. 9709087880 (Russia); Registration Number 1227700776038 (Russia); a.k.a. 'MOVEMENT OF ...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

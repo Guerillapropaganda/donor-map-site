@@ -2,7 +2,7 @@
 title: Bernie Marcus
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: null
 parent: null
 sector: Retail
@@ -11,7 +11,7 @@ issues:
   - Israel & Foreign Policy
   - Republican Politics
 politicians-funded: "[[George Latimer]], [[Donald Trump]], [[Wesley Bell]]"
-related: "[[United Democracy Project - UDP]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile]] · [[_Jamaal Bowman Master Profile]]"
+related: "[[United Democracy Project - UDP]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile]] · [[_Jamaal Bowman Master Profile]] · [[Wesley Bell]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

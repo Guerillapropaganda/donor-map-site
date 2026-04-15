@@ -3,7 +3,7 @@ title: Josh Gottheimer
 type: politician
 content-readiness: ready
 central-thesis: The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -21,7 +21,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[Palantir]] · [[Wall Street Finance PACs]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
+related: "[[Palantir]] · [[Wall Street Finance PACs]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Hakeem Jeffries Master Profile]]"
 last-enriched: "2026-04-11"
 committees:
   - House Committee on Financial Services
@@ -48,6 +48,7 @@ wikidata-id: Q6288908
 wikipedia-url: https://en.wikipedia.org/wiki/Josh_Gottheimer
 wikipedia-extract: Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017.
 born: "1975-03-08"
+donors: "[[No Labels Action, Inc.]]"
 ---
 
 <!-- auto:data-panel start -->

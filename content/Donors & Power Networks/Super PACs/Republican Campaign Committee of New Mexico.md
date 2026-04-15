@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00020818
 aliases:
@@ -13,6 +13,11 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Martin Heinrich]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "FTO] [SDGT"
+related: "[[Martin Heinrich]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +41,20 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | FTO] [SDGT |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- NEW IRISH REPUBLICAN ARMY (-0-) [FTO] [SDGT]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; a.k.a. 'RIRA'; a.k.a. 'REAL IRA'; a.k.a. 'NEW IRA'; a.k.a. 'NIRA'.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

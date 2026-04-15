@@ -2,7 +2,7 @@
 title: Ajay Royan
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -26,7 +26,7 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 internal-notes: "[URL Check 2026-04-09] 19 checked: 18 ok, 1 broken, 0 slow. | BROKEN: Source: CourtListener / RECAP"
-related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Palantir Technologies]] · [[Founders Fund]] · [[Narya Capital]] · [[_JD Vance Master Profile|JD Vance]] · [[David Sacks]] · [[BlackSky]] · [[Marc Andreessen]]"
+related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Palantir Technologies]] · [[Founders Fund]] · [[Narya Capital]] · [[_JD Vance Master Profile|JD Vance]] · [[David Sacks]] · [[BlackSky]] · [[Marc Andreessen]] · [[David Sacks (Donor Network)]]"
 ---
 
 <!-- auto:data-panel start -->

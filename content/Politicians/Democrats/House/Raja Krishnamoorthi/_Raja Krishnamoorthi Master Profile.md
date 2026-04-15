@@ -3,7 +3,7 @@ title: Raja Krishnamoorthi
 type: politician
 content-readiness: ready
 central-thesis: Krishnamoorthi is the bipartisan national security technocrat , a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the Amer...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -33,7 +33,7 @@ bills-sponsored: 34
 bills-cosponsored: 578
 website: https://krishnamoorthi.house.gov
 phone: 202-225-3711
-related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]]"
+related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]] · [[JB Pritzker (Donor Network)]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
@@ -49,6 +49,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Raja_Krishnamoorthi
 wikipedia-extract: Subramanian Raja Krishnamoorthi is an American attorney and politician serving as the U.S. representative for Illinois's 8th congressional district since 2017. He is a member of the Democratic Party.
 born: "1973-07-19"
 top-donors: "[[Planned Parenthood Votes]], [[NEA ADVOCACY FUND]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[TOGETHER WE THRIVE]], [[VICTORY FOR SCHAUMBURG]], [[NEA Advocacy Fund]], [[Victory for Schaumburg]], [[Together We Thrive]]"
+donors: "[[Victory for Schaumburg]]"
 ---
 
 <!-- auto:data-panel start -->

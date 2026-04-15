@@ -3,7 +3,7 @@ title: Roger Wicker
 type: politician
 content-readiness: ready
 central-thesis: "Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense c..."
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -25,8 +25,8 @@ website: https://www.wicker.senate.gov
 phone: 202-224-6253
 stock-trades: 8
 stock-trade-tickers:
-  - GDV
-  - BIF
+  - "GDV"
+  - "BIF"
 donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[Northrop Grumman]] · [[MISSISSIPPI REPUBLICAN PARTY]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Mississippi Republican Party]] · [[Planned Parenthood Action Fund INC]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]]"
 total-received: $286,732

@@ -3,7 +3,7 @@ title: Ted Cruz
 type: politician
 content-readiness: ready
 central-thesis: Ted Cruz is the perfect case study in donor-class override of personal unpopularity. He is consistently rated the least-liked senator among his own colleagues. His favorability ratings are among the lowest of any incumbent senator. He fled to Canc...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 career-total: $100M
 parent: null
@@ -38,7 +38,7 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
+related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 last-enriched: "2026-04-11"
 committees:
   - Senate Committee on Commerce, Science, and Transportation

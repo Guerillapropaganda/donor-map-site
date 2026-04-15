@@ -48,7 +48,7 @@ regulatory-agencies:
   - "International Trade Commission"
   - "Justice Department"
   - "Patent and Trademark Office"
-cpsc-recalls: 43
+cpsc-recalls: 42
 lei: "969500UMN0I81FGDFL82"
 lei-jurisdiction: "FR"
 cross-vault-triangulation-count: 8
@@ -445,7 +445,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 | Metric | Value |
 |--------|-------|
-| Total CPSC Recalls | 43 |
+| Total CPSC Recalls | 42 |
 | Most Recent Recall | 2025-01-02 |
 | Earliest Recall | 1984-07-09 |
 | Hazard Types | The voltage regulator in the mower's engine can fail during use or while the product is being stored, causing the engine to overheat, posing fire and burn hazards., The front bell crank in the brake linkage can fail causing the tractor to lose braking, resulting in a crash hazard., The recalled engines can overheat, posing fire and burn hazards., Fuel can leak from under the fuel cap, posing a fire hazard., The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards. |
@@ -458,7 +458,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [John Deere Recalls XUV590 Gator Utility Vehicles Due to Fire Hazard (Recall Alert)](https://www.cpsc.gov/Recalls/23768) (2023-06-08) — Fuel can leak from under the fuel cap, posing a fire hazard.
 - [John Deere Recalls Lawn Tractors Due to Crash and Injury Hazards (Recall Alert)](https://www.cpsc.gov/Recalls/22756) (2022-07-07) — The wheel hubs were not manufactured to specifications and can fail, causing the tractor to lose braking and propulsion, posing crash and injury hazards.
 - [John Deere Recalls Compact Utility Tractors Due to Risk of Injury (Recall Alert)](https://www.cpsc.gov/Recalls/21776) (2021-08-19) — Rear wheel spacer bolts that were torqued improperly during manufacturing can cause the wheel to fall off during use. This can result in the tractor overturning, posing an injury hazard to the operator.
-- ... and 37 more
+- ... and 36 more
 
 - [Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere) (Tier 1)
 

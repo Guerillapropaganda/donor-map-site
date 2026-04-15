@@ -4,7 +4,7 @@ type: politician
 bioguide-id: G000546
 content-readiness: ready
 central-thesis: "Sam Graves chairs the largest committee in Congress , and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -27,6 +27,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]]"
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]], [[Associated General Contractors of America Political Action Committee]]"
+donors: "[[Associated General Contractors of America Political Action Committee]]"
 ---
 
 <!-- auto:data-panel start -->

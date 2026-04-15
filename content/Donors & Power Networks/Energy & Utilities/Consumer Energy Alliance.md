@@ -2,7 +2,7 @@
 title: Consumer Energy Alliance
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Energy & Utilities
@@ -14,7 +14,7 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - IRAN-EO13846
+  - "IRAN-EO13846"
 court-cases: 44
 court-jurisdictions:
   - Court of Appeals for the D.C. Circuit

@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00452383
 aliases:
@@ -13,6 +13,12 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Frank Pallone]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "BALKANS"
+  - "GLOMAG"
+related: "[[Frank Pallone]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +42,22 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | BALKANS, GLOMAG |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- POLITICAL COUNCIL OF PRESEVO, MEDVEDJA, AND BUJANOVAC (-0-) [BALKANS]
+  - Remarks: -0-
+- RAPID ACTION BATTALION (-0-) [GLOMAG]
+  - Remarks: Organization Established Date 26 Mar 2004; Target Type Government Entity.
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

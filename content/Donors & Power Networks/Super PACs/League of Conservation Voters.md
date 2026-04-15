@@ -2,7 +2,7 @@
 title: League of Conservation Voters
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Super PACs
@@ -43,7 +43,7 @@ regulatory-agencies:
   - Interior Department
   - National Park Service
   - Presidio Trust
-related: ">- · [[InfluenceMap]] · [[Sheldon Whitehouse]]"
+related: ">- · [[InfluenceMap]] · [[Sheldon Whitehouse]] · [[Jeff Merkley]]"
 sec-filings: 246
 sec-form-types:
   - 10-K/A

@@ -2,7 +2,7 @@
 title: Narya Capital
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -41,7 +41,7 @@ sec-form-types:
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]"
+related: "[[Mithril Capital]] · [[Ajay Royan]] · [[_JD Vance Master Profile|JD Vance]] · [[Peter Thiel]] · [[Founders Fund]] · [[_David Sacks Master Profile|David Sacks]] · [[Marc Andreessen]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[David Sacks (Donor Network)]]"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---

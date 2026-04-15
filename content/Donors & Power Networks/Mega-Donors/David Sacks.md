@@ -2,7 +2,7 @@
 title: David Sacks (Donor Network)
 type: donor
 content-readiness: ready
-last-updated: "2026-04-14"
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -54,7 +54,7 @@ court-jurisdictions:
   - District Court, N.D. Ohio
   - District Court, S.D. New York
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]"
-related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Elon Musk]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Elon Musk]] · [[Jon Ossoff]]"
 stories: "[[The Billionaire Cabinet - Wealthiest Administration in History]]"
 federal-register-mentions: 1
 regulatory-agencies:

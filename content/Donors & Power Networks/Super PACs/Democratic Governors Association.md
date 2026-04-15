@@ -2,7 +2,7 @@
 title: "Democratic Governors Association"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -17,7 +17,7 @@ regulatory-agencies:
   - "Coast Guard"
   - "Federal Election Commission"
   - "Homeland Security Department"
-related: "[[JB Pritzker Master Profile]] · [[Illinois Future PAC]]"
+related: "[[JB Pritzker Master Profile]] · [[Illinois Future PAC]] · [[JB Pritzker (Donor Network)]]"
 ein: "274862860"
 nonprofit-status: "501(c)(3)"
 total-revenue: 1131836

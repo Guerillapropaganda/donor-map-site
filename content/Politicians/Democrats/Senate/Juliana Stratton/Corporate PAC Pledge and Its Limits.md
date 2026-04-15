@@ -2,10 +2,10 @@
 title: "Corporate PAC Pledge and Its Limits"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[_JB Pritzker Master Profile|JB Pritzker]]"
+related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[JB Pritzker (Donor Network)]]"
 ---
 #juliana-stratton #campaign-finance #corporate-pac #2026-senate
 

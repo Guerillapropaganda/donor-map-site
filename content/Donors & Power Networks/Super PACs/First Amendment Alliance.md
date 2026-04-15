@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C30001432
 aliases:
@@ -13,6 +13,11 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Harry Reid]], [[Chris Coons]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "RUSSIA-EO14024"
+  - "SDGT] [IFSR"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +41,22 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `FIRST AMENDMENT ALLIANCE`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 2 |
+| Sanctions Programs | RUSSIA-EO14024, SDGT] [IFSR |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- NON-STATE PENSION FUND FIRST INDUSTRIAL ALLIANCE (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 02 Mar 1999; Tax ID No. 1655319199 (Russia); Government Gazette Number 50607380 (Russia); Registration...
+- ALLIANCE FIRST TRADING L.L.C (-0-) [SDGT] [IFSR]
+  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; Organization Established Date 09 May 2023; Business Registration Number 1184152 (United Arab Emira...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

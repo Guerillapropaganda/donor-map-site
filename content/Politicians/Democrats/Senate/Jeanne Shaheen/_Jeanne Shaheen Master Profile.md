@@ -3,7 +3,7 @@ title: Jeanne Shaheen
 type: politician
 content-readiness: ready
 central-thesis: Shaheen is the defense industry's ideal Democratic senator , a three-committee portfolio covering every stage of the defense spending pipeline, from the foreign policy that creates demand for weapons systems to the budget authorization that approv...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -32,6 +32,7 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]] · [[Martin Heinrich]]"
+donors: "[[Independent Leadership for New Hampshire PAC]]"
 ---
 
 <!-- auto:data-panel start -->

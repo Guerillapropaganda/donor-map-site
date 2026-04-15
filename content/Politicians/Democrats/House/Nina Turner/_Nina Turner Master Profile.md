@@ -2,7 +2,7 @@
 title: Nina Turner
 type: politician
 content-readiness: ready
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: null
 parent: null
 party: Democrat
@@ -28,6 +28,7 @@ last-enriched: "2026-04-10"
 total-received: $7,693,038
 fec-candidate-id: H2OH11151
 top-donors: "[[Wfp Ie Committee]], [[Third Way]], [[Mainstream Democrats Pac]], [[DMFI PAC]], [[THE DEMOCRATIC ACTION PAC]], [[The Democratic Action PAC]]"
+donors: "[[The Democratic Action PAC]]"
 ---
 
 

@@ -2,7 +2,7 @@
 title: UFCW - United Food and Commercial Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Labor Unions
@@ -15,7 +15,7 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - RUSSIA-EO14024
+  - "RUSSIA-EO14024"
 ein: "201130122"
 annual-revenue: $240.0M
 net-assets: $531.3M

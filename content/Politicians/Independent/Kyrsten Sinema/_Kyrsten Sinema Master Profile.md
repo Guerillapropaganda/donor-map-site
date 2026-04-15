@@ -3,7 +3,7 @@ title: Kyrsten Sinema
 type: politician
 content-readiness: ready
 central-thesis: Kyrsten Sinema is the defining illustration of donor-class capture functioning at maximum efficiency. The carried interest kill alone , her decision to block a tax provision that would have cost the private equity industry $6.5–14 billion per deca...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Independent
@@ -35,7 +35,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 opposes: "[[DEFENDARIZONA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[CONGRESSIONAL LEADERSHIP FUND]]"
-related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Koch Network - Charles Koch]] · [[_Joe Manchin Master Profile]] · [[_Chuck Schumer Master Profile]] · [[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 total-raised: $17,050,976
 total-spent: $12,945,617
 cash-on-hand: "4276880.44"

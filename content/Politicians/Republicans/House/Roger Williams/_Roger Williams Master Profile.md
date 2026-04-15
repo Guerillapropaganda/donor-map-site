@@ -3,7 +3,7 @@ title: Roger Williams
 type: politician
 content-readiness: ready
 central-thesis: Roger Williams is the donor class serving itself directly , no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealer...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -41,6 +41,7 @@ issues:
   - Government Operations and Politics
   - Health
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Activate America]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]], [[Committee for Defending American Values]]"
+donors: "[[Committee for Defending American Values]]"
 ---
 
 <!-- auto:data-panel start -->

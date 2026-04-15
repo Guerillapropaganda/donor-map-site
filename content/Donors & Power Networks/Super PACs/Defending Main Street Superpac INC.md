@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00540203
 aliases:
@@ -13,6 +13,10 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Shelley Moore Capito]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "IRAN-EO13846"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +40,20 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `DEFENDING MAIN STREET SUPERPAC INC`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 1 |
+| Sanctions Programs | IRAN-EO13846 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- MAIN STREET 1095 PROPRIETARY LIMITED (-0-) [IRAN-EO13846]
+  - Remarks: Executive Order 13846 information: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i); alt. Executive Order 13846 information: FOREIGN EXCHANGE.  Sec. 5(a)(ii); alt. Executive Order 13846 ...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

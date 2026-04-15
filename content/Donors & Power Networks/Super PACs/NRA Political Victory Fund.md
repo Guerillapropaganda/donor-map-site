@@ -5,14 +5,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 aliases:
   - NRA POLITICAL VICTORY FUND
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[George W. Bush]]"
-related: "[[George W. Bush]]"
+related: "[[George W. Bush]] · [[John McCain]]"
 politicians-funded: "[[George W. Bush]], [[John McCain]], [[John Thune]], [[Bernie Sanders]]"
 ---
 

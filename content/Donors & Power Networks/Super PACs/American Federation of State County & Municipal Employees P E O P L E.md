@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 fec-committee-id: C00011114
 aliases:
@@ -13,6 +13,12 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Linda McMahon]]"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "CAATSA - RUSSIA"
+  - "RUSSIA-EO14024"
+related: "[[Linda McMahon]]"
 ---
 
 ## Auto-Created Stub
@@ -36,3 +42,28 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E`
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 14 |
+| Sanctions Programs | CAATSA - RUSSIA, RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION FGUP CENTRAL SCIENTIFIC RESEARCH INSTITUTE OF CHEMISTRY AND MECHANICS (-0-) [CAATSA - RUSSIA]
+  - Remarks: Website http://cniihm.ru; Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201; Tax ID No. 7724073013 (Russia); Government Gazette Number 07521506 (Russia); Registra...
+- STATE DUMA OF THE FEDERAL ASSEMBLY OF THE RUSSIAN FEDERATION (-0-) [RUSSIA-EO14024]
+  - Remarks: Website http://www.duma.gov.ru/; Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Type: General public administration activities; Target Type Government Entity.
+- STATE RESEARCH INSTITUTE OF AVIATION SYSTEMS STATE RESEARCH CENTER OF THE RUSSIAN FEDERATION (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 17 Jan 1992; Tax ID No. 7714037739 (Russia); Registration Number 1027700227720 (Russia).
+- FEDERAL STATE FINANCED INSTITUTION OF SCIENCE PHYSICAL HIGHER EDUCATION INSTITUTION NAMED AFTER P. N. LEBEDEVA OF THE RUSSIAN FEDERATION ACADEMY SCIENCES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 03 Oct 2001; Tax ID No. 7736037394 (Russia); Registration Number 1027739617960 (Russia); a.k.a. 'LPI R...
+- FEDERAL STATE FINANCED INSTITUTION OF SCIENCE HIGHER EDUCATION INSTITUTION SPECTROSCOPY OF THE RUSSIAN FEDERATION ACADEMY OF SCIENCES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 07 Jul 1992; Tax ID No. 5046005427 (Russia); Registration Number 1035009350100 (Russia); a.k.a. 'ISAN'...
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->
