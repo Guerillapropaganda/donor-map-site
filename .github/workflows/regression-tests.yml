@@ -37,6 +37,9 @@ jobs:
       - name: Run regression tests
         run: node --test scripts/phase-6-regression-tests.cjs
 
+      - name: Run query engine contract tests
+        run: node --test scripts/query-engine-contract-tests.cjs
+
   data-integrity-audit:
     name: Data Integrity Audit
     runs-on: ubuntu-latest
