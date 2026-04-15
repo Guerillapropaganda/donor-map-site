@@ -112,8 +112,13 @@ jobs:
         working-directory: ops
         run: npm ci
 
-      - name: Run deps-sync-check
-        run: node scripts/deps-sync-check.cjs
+      # Note: deps-sync-check is NOT run here — it expects BOTH root/
+      # and ops/ node_modules to exist, but this job intentionally only
+      # installs ops/. The equivalent validation comes from `npm ci`
+      # above (strict lockfile match) + `next build` below (import
+      # resolution). For full-repo drift detection, the local
+      # .husky/post-merge hook and pre-commit sentinel #8 are the
+      # authoritative layers.
 
       - name: Build Ops app (validates imports)
         working-directory: ops
