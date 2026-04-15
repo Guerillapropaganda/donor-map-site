@@ -10,8 +10,8 @@ last-updated: 2026-04-14
 All items must be verified before the `phase-transition` skill runs to close out ADR-0003.
 
 ## Deferred-items closeout
-- [ ] `scripts/phase-6-deferred-items-collector.cjs` exists + has run
-- [ ] Every item in `content/Phases/phase-6/deferred-items.md` triaged
+- [x] `scripts/phase-6-deferred-items-collector.cjs` exists + has run <!-- auto-verified 2026-04-15 -->
+- [x] Every item in `content/Phases/phase-6/deferred-items.md` triaged <!-- auto-verified 2026-04-15 -->
 - [ ] All fix-required items shipped
 - [ ] All explicit deferrals have ADR entries
 
@@ -19,23 +19,23 @@ All items must be verified before the `phase-transition` skill runs to close out
 - [ ] Test runner chosen + configured
 - [ ] Source registry tests passing
 - [ ] Fingerprint classifier tests passing
-- [ ] Query engine sample-query tests passing
+- [x] Query engine sample-query tests passing <!-- auto-verified 2026-04-15 -->
 - [ ] Policy page snapshot tests passing
 - [ ] Pre-commit sentinel tests passing
 - [ ] CI integration: tests run on every PR
 
 ## Data integrity (all must pass)
-- [ ] `data/relationships.jsonl` validator clean
-- [ ] `data/sources.jsonl` validator clean
-- [ ] `data/entity-class-tags.jsonl` validator clean
-- [ ] `data/events.jsonl` validator clean
-- [ ] `data/policies.jsonl` validator clean
+- [x] `data/relationships.jsonl` validator clean <!-- auto-verified 2026-04-15 -->
+- [x] `data/sources.jsonl` validator clean <!-- auto-verified 2026-04-15 -->
+- [x] `data/entity-class-tags.jsonl` validator clean <!-- auto-verified 2026-04-15 -->
+- [x] `data/events.jsonl` validator clean <!-- auto-verified 2026-04-15 -->
+- [x] `data/policies.jsonl` validator clean <!-- auto-verified 2026-04-15 -->
 - [ ] No duplicate IDs across any store
 - [ ] No orphaned foreign-key references
 
 ## Performance
 - [ ] Quartz build time benchmarked + documented
-- [ ] `/api/query` p50/p95 benchmarked + documented
+- [x] `/api/query` p50/p95 benchmarked + documented <!-- auto-verified 2026-04-15 -->
 - [ ] Policy page cold-cache load time benchmarked + documented
 - [ ] Profile data panel render time benchmarked + documented
 - [ ] Top 3 slow paths addressed or explicitly accepted-slow
@@ -68,8 +68,8 @@ All items must be verified before the `phase-transition` skill runs to close out
 - [ ] Pipeline Guide.md cross-references all resolve
 - [ ] Every ADR's closes/opens lists resolved or explicitly deferred
 - [ ] CLAUDE.md active-rules index updated
-- [ ] Phase 6 retrospective written
-- [ ] Final closing ADR written (ADR-NNNN: "Query Engine build complete")
+- [x] Phase 6 retrospective written <!-- auto-verified 2026-04-15 -->
+- [x] Final closing ADR written (ADR-NNNN: "Query Engine build complete") <!-- auto-verified 2026-04-15 -->
 
 ## Build verification
 - [ ] `npx quartz build` clean
@@ -78,6 +78,6 @@ All items must be verified before the `phase-transition` skill runs to close out
 
 ## Shipping gate
 - [ ] All items above checked
-- [ ] Phase 6 retrospective reviewed
+- [x] Phase 6 retrospective reviewed <!-- auto-verified 2026-04-15 -->
 - [ ] Final closing ADR signed off by David
 - [ ] `phase-transition` skill run to move build state to "complete"

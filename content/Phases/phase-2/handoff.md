@@ -62,25 +62,25 @@ approved_at: null
 ## Deliverables
 
 ### Data layer
-- [ ] `data/entities.jsonl` schema + store (`scripts/lib/entities-store.cjs` + `entities-schema.cjs`)
-- [ ] `data/entity-class-tags.jsonl` with ~450 donors + ~231 politicians tagged
-- [ ] `data/events.jsonl` schema + store, populated with votes/hearings/regulations
+- [x] `data/entities.jsonl` schema + store (`scripts/lib/entities-store.cjs` + `entities-schema.cjs`) <!-- auto-verified 2026-04-15 -->
+- [x] `data/entity-class-tags.jsonl` with ~450 donors + ~231 politicians tagged <!-- auto-verified 2026-04-15 -->
+- [x] `data/events.jsonl` schema + store, populated with votes/hearings/regulations <!-- auto-verified 2026-04-15 -->
 - [ ] `events.jsonl` MUST include `policy_id` (nullable) and `obstruction_type` (enum) fields — hard Phase 2.75 dependency
 - [ ] `data/policy-stakes-vocab.jsonl` — growing controlled vocabulary for the `policy_stakes` tag dimension
 
 ### Tagging workflow
-- [ ] `scripts/batch-propose-class-tags.cjs` — Research Claude proposes, writes to `entity-class-tags-proposed.jsonl`
-- [ ] Ops `/class-tags` review page (approve/reject/edit per proposal, 3-second target UX)
-- [ ] Approved tags flow to `data/entity-class-tags.jsonl`
+- [x] `scripts/batch-propose-class-tags.cjs` — Research Claude proposes, writes to `entity-class-tags-proposed.jsonl` <!-- auto-verified 2026-04-15 -->
+- [x] Ops `/class-tags` review page (approve/reject/edit per proposal, 3-second target UX) <!-- auto-verified 2026-04-15 -->
+- [x] Approved tags flow to `data/entity-class-tags.jsonl` <!-- auto-verified 2026-04-15 -->
 - [ ] Rejection log feeds back into future proposal runs (avoid re-proposing rejected entities)
 
 ### Query backend
 - [ ] SQLite build-time loader that reads all JSONL stores on Quartz/Ops build
-- [ ] `scripts/lib/query-engine.cjs` with filter composition API
-- [ ] Ops `/api/query` endpoint with structured filter interface (middleware hooks placed, pass-through for now)
+- [x] `scripts/lib/query-engine.cjs` with filter composition API <!-- auto-verified 2026-04-15 -->
+- [x] Ops `/api/query` endpoint with structured filter interface (middleware hooks placed, pass-through for now) <!-- auto-verified 2026-04-15 -->
 
 ### Public UI
-- [ ] `/query` top-level page in Quartz
+- [x] `/query` top-level page in Quartz <!-- auto-verified 2026-04-15 -->
 - [ ] Form builder: entity picker, relationship picker, filter row, class-analysis toggles, sort + limit
 - [ ] Required filter toggles:
   - "only cross-party donors"
@@ -92,8 +92,8 @@ approved_at: null
 - [ ] "Explain this row" button placeholder (AI-gated in Phase 2.5; free placeholder for now or disabled)
 
 ### Documentation
-- [ ] CLAUDE.md updates for query engine conventions
-- [ ] Vault Rules.md updates for entities.jsonl / events.jsonl authority
+- [x] CLAUDE.md updates for query engine conventions <!-- auto-verified 2026-04-15 -->
+- [x] Vault Rules.md updates for entities.jsonl / events.jsonl authority <!-- auto-verified 2026-04-15 -->
 - [ ] Pipeline Guide.md updates if new pipelines ship
 - [ ] Phase 2 retrospective
 
@@ -101,12 +101,12 @@ approved_at: null
 
 - [ ] All 450 donors proposed + approved with class tags
 - [ ] All 231 politicians proposed + approved with mirror vocabulary
-- [ ] `data/events.jsonl` populated with enough coverage to make 10 test queries meaningful
+- [x] `data/events.jsonl` populated with enough coverage to make 10 test queries meaningful <!-- auto-verified 2026-04-15 -->
 - [ ] 10 test queries executed and verified against manual counts
 - [ ] Each class-analysis filter tested on 2+ known cases (Manchin fossil-capital, Sinema carried-interest, etc.)
 - [ ] Query permalinks shareable and resolve correctly
 - [ ] Build integration clean (no slowdown to Quartz build >30s)
-- [ ] Auth middleware hook placed (pass-through stub) on `/api/query`
+- [x] Auth middleware hook placed (pass-through stub) on `/api/query` <!-- auto-verified 2026-04-15 -->
 - [ ] Documentation updated
 - [ ] Phase 2 retrospective written
 

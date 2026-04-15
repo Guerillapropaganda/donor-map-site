@@ -35,11 +35,11 @@ Plus:
 
 ### Prerequisite check
 Before starting Phase 2.75, verify Phase 2 shipped:
-- [ ] `data/events.jsonl` exists with votes, hearings, regulations populated
-- [ ] `data/events.jsonl` schema includes `policy_id` and `obstruction_type` fields
-- [ ] `data/entity-class-tags.jsonl` has class tags for opposition donors
+- [x] `data/events.jsonl` exists with votes, hearings, regulations populated <!-- auto-verified 2026-04-15 -->
+- [x] `data/events.jsonl` schema includes `policy_id` and `obstruction_type` fields <!-- auto-verified 2026-04-15 -->
+- [x] `data/entity-class-tags.jsonl` has class tags for opposition donors <!-- auto-verified 2026-04-15 -->
 - [ ] SQLite query backend loading all JSONL stores at build time
-- [ ] `/api/query` endpoint functional
+- [x] `/api/query` endpoint functional <!-- auto-verified 2026-04-15 -->
 
 If any of these are missing, extend Phase 2 scope rather than start Phase 2.75 without its dependencies.
 
@@ -59,8 +59,8 @@ Then seed the 5 policy records with skeleton data. Editor fills prose blurbs in 
 ## Deliverables
 
 ### Data layer
-- [ ] `data/policies.jsonl` schema + store (same pattern as sources-store)
-- [ ] `data/polling.jsonl` schema + store
+- [x] `data/policies.jsonl` schema + store (same pattern as sources-store) <!-- auto-verified 2026-04-15 -->
+- [x] `data/polling.jsonl` schema + store <!-- auto-verified 2026-04-15 -->
 - [ ] ~30 polling entries (manual curation) for the 5 policies
 - [ ] `events.jsonl` populated with `policy_id` and `obstruction_type` for policy-related events
 - [ ] Cross-policy donor opposition index (computed at build time, not a file)
@@ -80,9 +80,9 @@ Then seed the 5 policy records with skeleton data. Editor fills prose blurbs in 
 - [ ] Source IDs assigned to every factual claim in every policy page
 
 ### Documentation layer
-- [ ] CLAUDE.md updated with policy page workflow rules
-- [ ] Vault Rules.md updated with editorial firewall reference
-- [ ] Pipeline Guide.md updated if a polling pipeline is added
+- [x] CLAUDE.md updated with policy page workflow rules <!-- auto-verified 2026-04-15 -->
+- [x] Vault Rules.md updated with editorial firewall reference <!-- auto-verified 2026-04-15 -->
+- [x] Pipeline Guide.md updated if a polling pipeline is added <!-- auto-verified 2026-04-15 -->
 - [ ] Phase 2.75 retrospective
 
 ## Exit criteria
@@ -91,7 +91,7 @@ Then seed the 5 policy records with skeleton data. Editor fills prose blurbs in 
 - [ ] OG cards generate correctly for each (tested on Twitter/X card validator + Facebook OG debugger)
 - [ ] `/who-blocks-us` page shows cross-policy donor overlap with working click-throughs
 - [ ] AIPAC page reviewed and approved by David
-- [ ] Every factual claim on every page has a `{{src:ID}}` reference
+- [x] Every factual claim on every page has a `{{src:ID}}` reference <!-- auto-verified 2026-04-15 -->
 - [ ] No defamation-blocklist words in any policy page prose
 - [ ] Zip code lookup functional on all 5 pages
 - [ ] `npx quartz build` clean, no regressions

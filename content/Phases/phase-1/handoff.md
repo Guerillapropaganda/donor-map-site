@@ -68,13 +68,13 @@ After that:
 - [x] `scripts/sources-orphan-report.cjs` (triage report generator)
 - [x] `data/sources.jsonl` populated with 14,681 deduped sources
 - [ ] Fingerprint pass complete on all unverified sources *(in progress or just done)*
-- [ ] `content/Admin Notes/orphan-citations-report.md` committed
-- [ ] Quartz `{{src:ID}}` plugin
-- [ ] Ops `/sources` review page
+- [x] `content/Admin Notes/orphan-citations-report.md` committed <!-- auto-verified 2026-04-15 -->
+- [x] Quartz `{{src:ID}}` plugin <!-- auto-verified 2026-04-15 -->
+- [x] Ops `/sources` review page <!-- auto-verified 2026-04-15 -->
 - [ ] At least one pipeline migrated to sources-store
 - [ ] `CLAUDE.md`, `Vault Rules.md`, `Pipeline Guide.md` updated with new rules
 - [ ] `npx quartz build` clean (no regressions)
-- [ ] Phase 1 retrospective written
+- [x] Phase 1 retrospective written <!-- auto-verified 2026-04-15 -->
 
 **Progress: ~91% (10 of 11 core deliverables shipped this session).**
 

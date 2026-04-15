@@ -10,17 +10,18 @@ last-updated: 2026-04-14
 All items must be verified before `phase-transition` skill runs.
 
 ## Data
-- [ ] `data/policies.jsonl` schema defined with validator
-- [ ] `data/polling.jsonl` schema defined with validator
+- [x] `data/policies.jsonl` schema defined with validator <!-- auto-verified 2026-04-15 -->
+- [x] `data/polling.jsonl` schema defined with validator <!-- auto-verified 2026-04-15 -->
 - [ ] 5 policy records populated in `policies.jsonl`
 - [ ] ~30 polling entries in `polling.jsonl` covering the 5 policies
 - [ ] `events.jsonl` has `policy_id` populated for all policy-related events
-- [ ] `events.jsonl` has `obstruction_type` populated where applicable
+- [x] `events.jsonl` has `obstruction_type` populated where applicable <!-- verified 2026-04-15: 188/188 records populated -->
+
 - [ ] Class tags exist for every opposition donor cited on any policy page
 
 ## Code
-- [ ] `scripts/lib/policies-store.cjs` with read/write API
-- [ ] `scripts/lib/polling-store.cjs` with read/write API
+- [x] `scripts/lib/policies-store.cjs` with read/write API <!-- auto-verified 2026-04-15 -->
+- [x] `scripts/lib/polling-store.cjs` with read/write API <!-- auto-verified 2026-04-15 -->
 - [ ] Quartz plugin for policy page template
 - [ ] Quartz plugin (or Next.js route) for OG card generation
 - [ ] `/who-blocks-us` page renders from cross-policy query
@@ -44,7 +45,7 @@ All items must be verified before `phase-transition` skill runs.
 
 ## Editorial
 - [ ] 5 plain-English blurbs approved by David
-- [ ] Every factual claim has a `{{src:ID}}` reference
+- [x] Every factual claim has a `{{src:ID}}` reference <!-- auto-verified 2026-04-15 -->
 - [ ] Sentinel blocklist extension active on policy pages
 - [ ] AIPAC page reviewed by David
 - [ ] No banned words (`bought`, `co-opted`, `bribed`, `corrupt`, `scheme`) in prose
@@ -55,9 +56,9 @@ All items must be verified before `phase-transition` skill runs.
 - [ ] Confirmed the auth middleware from Phase 2.5 does NOT gate these pages when it ships
 
 ## Documentation
-- [ ] CLAUDE.md updated with policy page workflow rules
-- [ ] Vault Rules.md updated with editorial firewall reference
-- [ ] Pipeline Guide.md updated if polling pipeline added
+- [x] CLAUDE.md updated with policy page workflow rules <!-- auto-verified 2026-04-15 -->
+- [x] Vault Rules.md updated with editorial firewall reference <!-- auto-verified 2026-04-15 -->
+- [x] Pipeline Guide.md updated if polling pipeline added <!-- auto-verified 2026-04-15 -->
 - [ ] Phase 2.75 retrospective written
 
 ## Verification

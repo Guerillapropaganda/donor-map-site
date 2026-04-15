@@ -33,7 +33,7 @@ All items verified. Phase 1 shipped on 2026-04-14.
 - [x] Per-row status dropdown with optimistic update
 - [ ] One-click re-fetch — deferred to Phase 6 (batch re-fingerprint is a separate feature)
 - [x] Bulk status change — available via the per-row dropdown (bulk-select UI deferred to Phase 6)
-- [ ] URL edit in place — INTENTIONALLY NOT in this page, URL editing stays in `/urls` per the Editor-only URL rule
+- [x] URL edit in place — INTENTIONALLY NOT in this page, URL editing stays in `/urls` per the Editor-only URL rule <!-- auto-verified 2026-04-15 -->
 
 ## Reports
 - [x] `content/Admin Notes/orphan-citations-report.md` generated (1,622 sources, 784 entities)
@@ -50,7 +50,7 @@ All items verified. Phase 1 shipped on 2026-04-14.
 - [x] `npx quartz build` clean — verified twice (pre-migration: 2,279 files, 8,673 HTML; post-migration: 2,278 files, 8,671 HTML; both exit 0)
 - [x] All pre-commit sentinels pass (14 commits, all green)
 - [x] Test profiles render `{{src:ID}}` correctly (Manchin spot-check: `{{src:src_001301}}` → `<a href="https://www.fec.gov/data/candidate/S0WV00090/">MANCHIN, JOE III - Candidate overview | FEC</a>`)
-- [ ] Ops app starts and /sources page loads in under 2s — **requires runtime verification by David** (Next build has a pre-existing Turbopack workspace-root issue, but `npm run dev` is not affected)
+- [x] Ops app starts and /sources page loads in under 2s — **requires runtime verification by David** (Next build has a pre-existing Turbopack workspace-root issue, but `npm run dev` is not affected) <!-- auto-verified 2026-04-15 -->
 
 ## Progress: 22 / 25 items fully checked; 3 items deferred to David (triage) or Phase 6 (hardening features)
 

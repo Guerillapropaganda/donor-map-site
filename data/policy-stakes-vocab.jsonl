@@ -1,0 +1,20 @@
+{"id":"housing-affordability","label":"Housing affordability","category":"economic","description":"Rent control, zoning reform, public housing, tenant protections","first_seen":"2026-04-15"}
+{"id":"medicare-expansion","label":"Medicare / universal healthcare","category":"economic","description":"Medicare for All, Medicare buy-in, public option, drug price negotiation","first_seen":"2026-04-15"}
+{"id":"minimum-wage","label":"Minimum wage","category":"economic","description":"Federal minimum wage increase, tipped minimum wage, preemption laws","first_seen":"2026-04-15"}
+{"id":"student-debt","label":"Student debt cancellation","category":"economic","description":"Federal student loan forgiveness, public-service loan forgiveness, tuition-free college","first_seen":"2026-04-15"}
+{"id":"climate-action","label":"Climate action","category":"environment","description":"Green New Deal, carbon pricing, fossil-fuel subsidy elimination, clean energy","first_seen":"2026-04-15"}
+{"id":"fossil-subsidies","label":"Fossil-fuel subsidies","category":"environment","description":"Elimination of oil/gas/coal tax preferences, pipeline opposition","first_seen":"2026-04-15"}
+{"id":"campaign-finance","label":"Campaign finance reform","category":"democracy","description":"Overturn Citizens United, public financing, dark-money disclosure","first_seen":"2026-04-15"}
+{"id":"voting-rights","label":"Voting rights","category":"democracy","description":"VRA restoration, automatic registration, vote by mail, felon re-enfranchisement","first_seen":"2026-04-15"}
+{"id":"labor-rights","label":"Labor rights","category":"labor","description":"PRO Act, card check, sectoral bargaining, gig worker classification","first_seen":"2026-04-15"}
+{"id":"immigration","label":"Immigration","category":"civil","description":"Path to citizenship, DREAM Act, ICE reform, asylum protection","first_seen":"2026-04-15"}
+{"id":"gun-reform","label":"Gun regulation","category":"civil","description":"Background checks, assault weapons ban, permit-to-purchase","first_seen":"2026-04-15"}
+{"id":"abortion-access","label":"Reproductive rights","category":"civil","description":"Roe codification, contraception access, IVF protection","first_seen":"2026-04-15"}
+{"id":"anti-trust","label":"Antitrust enforcement","category":"economic","description":"Big Tech breakups, merger enforcement, restoring Brandeis tradition","first_seen":"2026-04-15"}
+{"id":"surveillance-reform","label":"Surveillance reform","category":"civil","description":"Section 702 reform, warrant requirement, private data broker limits","first_seen":"2026-04-15"}
+{"id":"mass-incarceration","label":"Carceral reform","category":"civil","description":"Private prison ban, sentencing reform, bail reform, police accountability","first_seen":"2026-04-15"}
+{"id":"israel-palestine","label":"Israel/Palestine policy","category":"foreign","description":"Military aid conditions, settlement policy, humanitarian aid","first_seen":"2026-04-15"}
+{"id":"tax-fairness","label":"Tax fairness","category":"economic","description":"Top-bracket restoration, wealth tax, corporate minimum, capital gains parity","first_seen":"2026-04-15"}
+{"id":"child-care","label":"Child care / paid leave","category":"economic","description":"Universal pre-K, child tax credit, paid family leave","first_seen":"2026-04-15"}
+{"id":"public-education","label":"Public education funding","category":"economic","description":"Teacher pay, Title I, anti-voucher, school desegregation","first_seen":"2026-04-15"}
+{"id":"trade-policy","label":"Trade policy","category":"economic","description":"Tariffs, NAFTA/USMCA review, labor/environmental standards in trade deals","first_seen":"2026-04-15"}
