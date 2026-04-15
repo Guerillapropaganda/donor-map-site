@@ -2,31 +2,27 @@
 title: David Sacks (Donor Network)
 type: donor
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: "2026-04-14"
 source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded:
-  - Donald Trump
-  - Bernie Moreno
-  - Sherrod Brown
-  - Jon Ossoff
+politicians-funded: "[[Bernie Moreno]], [[Donald Trump]], [[Sherrod Brown]], [[Jon Ossoff]]"
 issues:
   - Technology
-ein: '746417564'
+ein: "746417564"
 annual-revenue: $22K
 net-assets: $634K
-tax-year: '2023'
+tax-year: "2023"
 sec-filings: 218
 sec-form-types:
   - 10-K
   - 10-K/A
   - 10-Q
   - 10-Q/A
-  - '4'
+  - "4"
   - 424B3
-  - '425'
+  - "425"
   - 497AD
   - 8-K
   - D
@@ -43,41 +39,29 @@ sec-form-types:
   - S-4/A
   - S-8
   - SC 13D/A
-total-political-spend: '$458,349'
+total-political-spend: $458,349
 court-cases: 98
-last-enriched: '2026-04-10'
+last-enriched: "2026-04-10"
 court-jurisdictions:
   - Court of Appeals for the First Circuit
-  - 'District Court, C.D. California'
-  - 'District Court, D. Delaware'
-  - 'District Court, D. Maryland'
-  - 'District Court, D. Massachusetts'
-  - 'District Court, D. New Jersey'
-  - 'District Court, N.D. California'
-  - 'District Court, N.D. Illinois'
-  - 'District Court, N.D. Ohio'
-  - 'District Court, S.D. New York'
-donors: >-
-  [[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen &
-  Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] ·
-  [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]
-related: >-
-  [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]]
-  · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in
-  History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David
-  Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD
-  Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]]
-  · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril
-  Industries]] · [[Tech Billionaires Switch Parties on Regulatory
-  Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]] ·
-  [[Elon Musk]]
-stories: '[[The Billionaire Cabinet - Wealthiest Administration in History]]'
+  - District Court, C.D. California
+  - District Court, D. Delaware
+  - District Court, D. Maryland
+  - District Court, D. Massachusetts
+  - District Court, D. New Jersey
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, N.D. Ohio
+  - District Court, S.D. New York
+donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Peter Thiel]] · [[Palantir Technologies]] · [[Narya Capital]] · [[Trump 2024 Campaign]]"
+related: "[[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[Sherrod Brown]] · [[Steve Witkoff]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Ajay Royan]] · [[_David Sacks Master Profile|Sacks]] · [[Peter Thiel]] · [[Founders Fund]] · [[_JD Vance Master Profile|Vance]] · [[Cryptocurrency Industry]] · [[Fairshake PAC]] · [[Palantir]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril Industries]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Elon Musk]]"
+stories: "[[The Billionaire Cabinet - Wealthiest Administration in History]]"
 federal-register-mentions: 1
 regulatory-agencies:
   - Health and Human Services Department
   - National Institutes of Health
 cross-vault-triangulation-count: 19
-audit-a-plus-passed: '2026-04-11'
+audit-a-plus-passed: "2026-04-11"
 aliases:
   - David Sacks
 ---

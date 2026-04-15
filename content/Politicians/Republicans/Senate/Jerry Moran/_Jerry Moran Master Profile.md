@@ -1,38 +1,35 @@
 ---
-title: "Jerry Moran"
+title: Jerry Moran
 type: politician
 content-readiness: ready
-central-thesis: "Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries , headquartered in his state , is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to ..."
-last-updated: 2026-04-13
+central-thesis: Jerry Moran chairs the Veterans' Affairs Committee while Koch Industries , headquartered in his state , is his second-largest career donor. The Koch network funds Concerned Veterans for America (CVA), the organization that has led the campaign to ...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Kansas"
-state-abbr: "KS"
+party: Republican
+chamber: Senate
+state: Kansas
+state-abbr: KS
 committees:
-  - "Veterans' Affairs"
-  - "Agriculture"
+  - Veterans' Affairs
+  - Agriculture
 issues:
-  - "Agriculture"
+  - Agriculture
 top-donors:
-  - "Koch Network"
-bioguide-id: "M000934"
+  - Koch Network
+bioguide-id: M000934
 govtrack-id: 400284
 bills-sponsored: 71
 bills-cosponsored: 171
-website: "https://www.moran.senate.gov"
-phone: "202-224-6521"
-total-received: "$1,586,154"
-fec-candidate-id: "S0KS00091"
+website: https://www.moran.senate.gov
+phone: 202-224-6521
+total-received: $1,586,154
+fec-candidate-id: S0KS00091
 related: "[[Richard Blumenthal]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]]"
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

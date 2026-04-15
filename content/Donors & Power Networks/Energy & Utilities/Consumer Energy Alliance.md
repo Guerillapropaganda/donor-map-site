@@ -1,53 +1,52 @@
 ---
-title: "Consumer Energy Alliance"
+title: Consumer Energy Alliance
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Individual Donor"
+sector: Energy & Utilities
+entity-type: Individual Donor
 issues:
-  - "Dark Money & Campaign Finance"
+  - Dark Money & Campaign Finance
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "IRAN-EO13846"
+  - IRAN-EO13846
 court-cases: 44
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Sixth Circuit"
-  - "District Court, D. Oregon"
-  - "District Court, District of Columbia"
-  - "United States Bankruptcy Court, S.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Sixth Circuit
+  - District Court, D. Oregon
+  - District Court, District of Columbia
+  - United States Bankruptcy Court, S.D. Texas
 ein: "261658339"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 total-revenue: 3002567
 total-assets: 1618273
 related: "[[Michael Whatley Master Profile]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[HBW Resources]]"
 federal-register-mentions: 8
 regulatory-agencies:
-  - "Commerce Department"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Energy Regulatory Commission"
-  - "National Oceanic and Atmospheric Administration"
+  - Commerce Department
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Energy Regulatory Commission
+  - National Oceanic and Atmospheric Administration
 sec-filings: 19
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "DEF 14A"
-  - "DEFC14A"
-  - "PRE 14A"
-  - "PREC14A"
-  - "PX14A6G"
+  - 10-K
+  - 10-K/A
+  - DEF 14A
+  - DEFC14A
+  - PRE 14A
+  - PREC14A
+  - PX14A6G
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Michael Whatley]]"
 ---
 
 

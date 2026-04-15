@@ -1,24 +1,20 @@
 ---
-title: "World Liberty Financial"
+title: World Liberty Financial
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
-  - "David Sacks"
-  - "Jared Kushner"
-  - "Steve Witkoff"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Jared Kushner]], [[David Sacks]], [[Steve Witkoff]], [[David Sacks (Donor Network)]]"
 issues:
-  - "Technology"
+  - Technology
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 ein: "813552287"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 lobbying-spend: 1859712
 lobbying-filings: 106
 related: "[[The Grift Machine - How Trump Monetized the Presidency]] · [[_Donald Trump Master Profile|Trump]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Steve Witkoff Master Profile|Steve Witkoff]] · [[Fairshake PAC]] · [[Trump Crypto - The President as Personal Profiteer]] · [[Emoluments and Self Dealing - Donors and Backers]]"

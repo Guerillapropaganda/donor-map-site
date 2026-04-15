@@ -1,42 +1,40 @@
 ---
-title: "Ron Wyden"
+title: Ron Wyden
 type: politician
-bioguide-id: "W000779"
+bioguide-id: W000779
 content-readiness: ready
 central-thesis: "Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021,..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Oregon"
-state-abbr: "OR"
+party: Democrat
+chamber: Senate
+state: Oregon
+state-abbr: OR
 committees:
-  - "Finance"
+  - Finance
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Education"
-  - "Energy"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-total-received: "$133,281"
-fec-candidate-id: "S6OR00110"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Education
+  - Energy
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+total-received: $133,281
+fec-candidate-id: S6OR00110
 stock-trades: 10
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Mike Crapo Master Profile|Mike Crapo]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
 last-enriched: "2026-04-12"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run voting pipeline; run congress pipeline
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

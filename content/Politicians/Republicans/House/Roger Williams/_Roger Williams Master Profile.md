@@ -1,45 +1,46 @@
 ---
-title: "Roger Williams"
+title: Roger Williams
 type: politician
 content-readiness: ready
-central-thesis: "Roger Williams is the donor class serving itself directly , no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealer..."
-last-updated: 2026-04-13
+central-thesis: Roger Williams is the donor class serving itself directly , no middleman required. He doesn't take money from auto dealers and then do their bidding. He IS the auto dealer. He chairs the Small Business Committee while running a $50 million+ dealer...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: House
+state: Texas
+state-abbr: TX
 district: "25"
 committees:
-  - "Small Business"
-total-received: "$989,055"
-fec-candidate-id: "H2TX33040"
+  - Small Business
+total-received: $989,055
+fec-candidate-id: H2TX33040
 source-types:
   - FEC
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No voting record data"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No voting record data
+  - No mapped relationships
 govtrack-id: 412578
 bills-sponsored: 36
 bills-cosponsored: 182
-website: "https://williams.house.gov"
-phone: "202-225-9896"
+website: https://williams.house.gov
+phone: 202-225-9896
 related: "[[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-11"
-bioguide-id: "W000816"
+bioguide-id: W000816
 issues:
-  - "Agriculture and Food"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
+  - Agriculture and Food
+  - Commerce
+  - Crime and Law Enforcement
+  - Education
+  - Energy
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Activate America]]"
 ---
 
 <!-- auto:data-panel start -->

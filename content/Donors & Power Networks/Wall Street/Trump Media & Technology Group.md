@@ -1,35 +1,32 @@
 ---
-title: "Trump Media & Technology Group"
+title: Trump Media & Technology Group
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]]"
 federal-contracts: "960966"
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ofac-programs:
-  - "CAATSA - RUSSIA] [CYBER4"
+  - CAATSA - RUSSIA] [CYBER4
 related: "[[Trishul LLC and the Trump Loyalty Economy]] · [[Rumble]] · [[_Donald Trump Master Profile|Trump]] · [[Trump Organization]] · [[News Corp - Fox Corporation]]"
 court-cases: 16
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, M.D. Florida"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-lei: "6488S3A83U2SRQ48O215"
-lei-jurisdiction: "US-DE"
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, M.D. Florida
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+lei: 6488S3A83U2SRQ48O215
+lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

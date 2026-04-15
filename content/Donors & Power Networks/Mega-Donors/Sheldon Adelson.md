@@ -1,38 +1,37 @@
 ---
-title: "Sheldon & Miriam Adelson"
+title: Sheldon & Miriam Adelson
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 ein: "886063073"
-annual-revenue: "$13K"
-net-assets: "$90K"
+annual-revenue: $13K
+net-assets: $90K
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-08"
 total-revenue: 3842
 total-assets: 92607
 court-cases: 7
 court-jurisdictions:
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, E.D. Virginia"
-  - "District Court, S.D. California"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Washington"
+  - District Court, District of Columbia
+  - District Court, E.D. Pennsylvania
+  - District Court, E.D. Virginia
+  - District Court, S.D. California
+  - District Court, S.D. New York
+  - District Court, W.D. Washington
 source-types:
   - Courts
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 related: "[[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Israel and Foreign Policy - Donors and Backers]]"
 ---
 

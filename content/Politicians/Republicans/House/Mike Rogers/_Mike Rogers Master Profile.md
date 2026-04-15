@@ -1,38 +1,35 @@
 ---
-title: "Mike Rogers"
+title: Mike Rogers
 type: politician
 content-readiness: ready
-central-thesis: "Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations , more than any other House member in the current Congress , bought the most reliable advocate the military-industrial complex h..."
-last-updated: 2026-04-13
+central-thesis: Mike Rogers is the defense industry's highest-paid congressional employee. Over $2 million in career defense donations , more than any other House member in the current Congress , bought the most reliable advocate the military-industrial complex h...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Alabama"
-state-abbr: "AL"
+party: Republican
+chamber: House
+state: Alabama
+state-abbr: AL
 district: "3"
 committees:
-  - "Armed Services"
+  - Armed Services
 issues:
-  - "Defense & Military"
+  - Defense & Military
 top-donors:
-  - "Lockheed Martin"
-  - "Boeing"
-donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]] · [[National Cattlemen's Beef Association]]"
+  - Lockheed Martin
+  - Boeing
+donors: "[[Great Lakes Conservatives Fund]] · [[Paul Singer]] · [[Koch Network - Charles Koch]] · [[Raytheon (RTX Corporation)]] · [[Christopher Ruddy]] · [[National Cattlemen's Beef Association]] · [[Boeing]] · [[Lockheed Martin]]"
 related: "[[The Armed Services Committee and Progressive Defense Paradox]] · [[_Jack Reed Master Profile|Reed]] · [[Lockheed Martin]] · [[Boeing]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline"
-bioguide-id: "R000575"
+reenrich-reason: run fec pipeline; run congress pipeline
+bioguide-id: R000575
 govtrack-id: 400341
 bills-sponsored: 82
 bills-cosponsored: 1979
-website: "https://mikerogers.house.gov"
-phone: "202-225-3261"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+website: https://mikerogers.house.gov
+phone: 202-225-3261
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,34 +1,30 @@
 ---
-title: "Mike Crapo"
+title: Mike Crapo
 type: politician
 content-readiness: ready
-central-thesis: "Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him authorship over the entire federal tax code, and the financial services industry that benefits most from that code is his dominant donor class. Over 50% of his campaign fun..."
-last-updated: 2026-04-13
+central-thesis: Crapo is Wall Street's tax chairman. His Finance Committee gavel gives him authorship over the entire federal tax code, and the financial services industry that benefits most from that code is his dominant donor class. Over 50% of his campaign fun...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Idaho"
-state-abbr: "ID"
+party: Republican
+chamber: Senate
+state: Idaho
+state-abbr: ID
 committees:
-  - "Finance"
+  - Finance
 top-donors:
-  - "Koch Network - Charles Koch"
-donors: "[[Harlan Crow]]"
+  - Koch Network - Charles Koch
+donors: "[[Harlan Crow]], [[Koch Network - Charles Koch]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Jason Smith Master Profile|Jason Smith]] · [[Ron Wyden]]"
-bioguide-id: "C000880"
+bioguide-id: C000880
 govtrack-id: 300030
 bills-sponsored: 27
 bills-cosponsored: 254
-website: "https://www.crapo.senate.gov"
-phone: "202-224-6142"
+website: https://www.crapo.senate.gov
+phone: 202-224-6142
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

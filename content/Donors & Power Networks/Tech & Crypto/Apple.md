@@ -1,104 +1,105 @@
 ---
-title: "Apple"
+title: Apple
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
+sector: Tech & Crypto
+entity-type: Corporation
 issues:
-  - "Technology"
-  - "Antitrust & Monopoly"
+  - Technology
+  - Antitrust & Monopoly
 lobbying-spend: 29220000
 lobbying-filings: 62
 ein: 870911755
-annual-revenue: "$8.9M"
-net-assets: "$61.9M"
+annual-revenue: $8.9M
+net-assets: $61.9M
 tax-year: "2023"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "541330"
 court-cases: 123599
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Puerto Rico"
-  - "District Court, E.D. Arkansas"
-  - "District Court, N.D. California"
-  - "District Court, S.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Puerto Rico
+  - District Court, E.D. Arkansas
+  - District Court, N.D. California
+  - District Court, S.D. California
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - District Court, W.D. Texas
 federal-register-mentions: 3372
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Animal and Plant Health Inspection Service"
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Reserve System"
-  - "Food and Drug Administration"
+  - Agriculture Department
+  - Animal and Plant Health Inspection Service
+  - Antitrust Division
+  - Commerce Department
+  - Energy Department
+  - Environmental Protection Agency
+  - Federal Communications Commission
+  - Federal Energy Regulatory Commission
+  - Federal Reserve System
+  - Food and Drug Administration
 related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[Invariant]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Microsoft]] · [[TikTok - ByteDance]] · [[Nvidia]]"
 federal-awards-total: 17198395
 federal-contracts-count: 25
 federal-grants-count: 25
 sec-filings: 10000
 sec-form-types:
-  - "10-12G"
-  - "10-K"
-  - "10-K405"
-  - "10-Q"
+  - 10-12G
+  - 10-K
+  - 10-K405
+  - 10-Q
   - "144"
   - "3"
   - "4"
-  - "424B2"
-  - "424B3"
+  - 424B2
+  - 424B3
   - "425"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFM14A"
-  - "EX-1.01"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.13"
-  - "EX-10.15"
-  - "EX-10.161"
-  - "EX-10.2"
-  - "EX-10.22"
-  - "EX-10.23(A)"
-  - "EX-10.23(B)"
-  - "EX-10.28"
-  - "EX-10.3"
-  - "EX-10.4"
-  - "EX-10.47"
-  - "EX-10.6"
-  - "EX-10.68"
-  - "EX-10.9"
-  - "EX-14.1"
-  - "EX-2.1"
-  - "EX-21"
-  - "EX-21.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.7"
-  - "EX-99.8"
-  - "EX1A-6 MAT CTRCT"
-  - "PX14A6G"
-  - "S-4"
-  - "S-4/A"
-  - "SC 13D/A"
-  - "SCHEDULE 13G/A"
+  - 8-K
+  - DEF 14A
+  - DEFA14A
+  - DEFM14A
+  - EX-1.01
+  - EX-10.1
+  - EX-10.10
+  - EX-10.13
+  - EX-10.15
+  - EX-10.161
+  - EX-10.2
+  - EX-10.22
+  - EX-10.23(A)
+  - EX-10.23(B)
+  - EX-10.28
+  - EX-10.3
+  - EX-10.4
+  - EX-10.47
+  - EX-10.6
+  - EX-10.68
+  - EX-10.9
+  - EX-14.1
+  - EX-2.1
+  - EX-21
+  - EX-21.1
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.7
+  - EX-99.8
+  - EX1A-6 MAT CTRCT
+  - PX14A6G
+  - S-4
+  - S-4/A
+  - SC 13D/A
+  - SCHEDULE 13G/A
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[Barack Obama]], [[Amy Klobuchar]]"
 ---
 
 <!-- auto:data-panel start -->

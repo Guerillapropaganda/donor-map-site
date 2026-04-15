@@ -1,18 +1,17 @@
 ---
-title: "Bail Bond Industry"
+title: Bail Bond Industry
 type: donor
 content-readiness: draft
-last-updated: 2026-03-23
+last-updated: 2026-03-23T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Carceral State"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Carceral State
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying disclosure data
+  - No mapped relationships
 related: "[[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[GEO Group]] · [[CoreCivic]] · [[_Gavin Newsom Master Profile]] · [[Riverside Sheriffs Association]]"
 ---
 

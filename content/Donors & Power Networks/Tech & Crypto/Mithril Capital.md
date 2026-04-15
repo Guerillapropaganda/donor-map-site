@@ -1,27 +1,26 @@
 ---
-title: "Mithril Capital"
+title: Mithril Capital
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "JD Vance"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[JD Vance]]"
 last-enriched: "2026-04-09"
-lei: "254900QJNNCR8JK6LC36"
-lei-jurisdiction: "CZ"
+lei: 254900QJNNCR8JK6LC36
+lei-jurisdiction: CZ
 lobbying-spend: 130000
 lobbying-filings: 8
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Matt Mahan Master Profile]] · [[The Thiel-Adjacent Tech Pipeline]] · [[Peter Thiel]] · [[Ajay Royan]] · [[Narya Capital]] · [[Founders Fund]]"
 court-cases: 10
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Nevada"
-  - "District Court, N.D. California"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, D. Delaware"
+  - District Court, C.D. California
+  - District Court, D. Nevada
+  - District Court, N.D. California
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, D. Delaware
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 ---

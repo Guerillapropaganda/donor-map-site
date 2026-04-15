@@ -1,73 +1,69 @@
 ---
-title: "Michael Bloomberg"
+title: Michael Bloomberg
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[Nancy Pelosi]], [[Gavin Newsom]], [[Josh Shapiro]], [[Kamala Harris]], [[Tim Scott]], [[Tom Steyer]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 federal-register-mentions: 12
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Alcohol, Tobacco, Firearms, and Explosives Bureau"
-  - "Antitrust Division"
-  - "Defense Department"
-  - "Federal Election Commission"
-  - "Federal Emergency Management Agency"
-  - "Federal Highway Administration"
-  - "Homeland Security Department"
-  - "Justice Department"
-  - "Transportation Department"
+  - Alcohol, Tobacco, Firearms, and Explosives Bureau
+  - Antitrust Division
+  - Defense Department
+  - Federal Election Commission
+  - Federal Emergency Management Agency
+  - Federal Highway Administration
+  - Homeland Security Department
+  - Justice Department
+  - Transportation Department
 related: "[[Harris-Newsom Donor Class Fracture]] · [[Tom Steyer Master Profile]] · [[NextGen America and the Climate-to-Politics Pipeline]] · [[Kamala Harris Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[The Billion-Dollar Campaign - 2024 Finance]] · [[Nancy Pelosi Master Profile]] · [[The Biden Exit and Harris Installation]] · [[Josh Shapiro Master Profile]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Gun and Public Safety - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[Chris Murphy Master Profile]] · [[Andrew Cuomo]] · [[Tim Scott]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[Eli Broad Foundation]] · [[Walton Family Foundation]] · [[Everytown for Gun Safety]] · [[CNA - California Nurses Association]] · [[The Self-Funded Billionaire Model]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[Mark Kelly]] · [[Amy Klobuchar]] · [[Senate Majority PAC]] · [[Future Forward USA Action]] · [[Climate Philanthropy - The Green Billionaires]]"
 sec-filings: 1621
 sec-form-types:
-  - "10KSB"
+  - 10KSB
   - "425"
   - "497"
-  - "6-K"
-  - "8-K"
-  - "8-K/A"
-  - "ARS"
-  - "DEF 14A"
-  - "DEF 14C"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-99"
-  - "EX-99.(2)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-99.5"
-  - "FWP"
-  - "N-30D"
-  - "N-CSR"
-  - "N-CSR/A"
-  - "PRE 14C"
-  - "PX14A6G"
-  - "SC 13G/A"
+  - 6-K
+  - 8-K
+  - 8-K/A
+  - ARS
+  - DEF 14A
+  - DEF 14C
+  - DEFA14A
+  - DFAN14A
+  - EX-99
+  - EX-99.(2)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX-99.5
+  - FWP
+  - N-30D
+  - N-CSR
+  - N-CSR/A
+  - PRE 14C
+  - PX14A6G
+  - SC 13G/A
 court-cases: 857
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "United States Bankruptcy Court, S.D. New York"
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, District of Columbia
+  - District Court, E.D. New York
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - United States Bankruptcy Court, S.D. New York
 cross-vault-triangulation-count: 21
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

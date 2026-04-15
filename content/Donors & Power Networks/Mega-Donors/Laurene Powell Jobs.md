@@ -1,62 +1,59 @@
 ---
-title: "Laurene Powell Jobs"
+title: Laurene Powell Jobs
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Kamala Harris"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Kamala Harris]]"
 issues:
-  - "Immigration"
+  - Immigration
 court-cases: 22
 last-enriched: "2026-04-06"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Maryland"
-  - "District Court, D. South Carolina"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. California"
-  - "District Court, S.D. New York"
-lei: "549300MB5G3G4YWX8732"
-lei-jurisdiction: "US-CA"
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Maryland
+  - District Court, D. South Carolina
+  - District Court, District of Columbia
+  - District Court, E.D. Michigan
+  - District Court, E.D. New York
+  - District Court, N.D. California
+  - District Court, S.D. New York
+lei: 549300MB5G3G4YWX8732
+lei-jurisdiction: US-CA
 related: "[[Silicon Valley Democratic Donor Network]] · [[_Kamala Harris Master Profile]] · [[Democratic Donor Network]] · [[Climate Philanthropy - The Green Billionaires]] · [[Education - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Reed Hastings]]"
 sec-filings: 71
 sec-form-types:
-  - "10-K"
-  - "424B3"
-  - "424B4"
-  - "424B7"
-  - "D"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFC14A"
-  - "DFAN14A"
-  - "DRS"
-  - "DRS/A"
-  - "EX-1"
-  - "EX-99.1"
-  - "POS AM"
-  - "PRE 14A"
-  - "PREC14A"
-  - "PRRN14A"
-  - "S-1"
-  - "S-1/A"
-  - "S-3ASR"
-  - "S-4"
-  - "S-4/A"
-  - "SC 13G"
-  - "SC 13G/A"
+  - 10-K
+  - 424B3
+  - 424B4
+  - 424B7
+  - D
+  - DEF 14A
+  - DEFA14A
+  - DEFC14A
+  - DFAN14A
+  - DRS
+  - DRS/A
+  - EX-1
+  - EX-99.1
+  - POS AM
+  - PRE 14A
+  - PREC14A
+  - PRRN14A
+  - S-1
+  - S-1/A
+  - S-3ASR
+  - S-4
+  - S-4/A
+  - SC 13G
+  - SC 13G/A
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

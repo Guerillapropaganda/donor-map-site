@@ -1,14 +1,14 @@
 ---
 title: Catherine Cortez Masto
 type: politician
-chamber: "Senate"
-party: "Democrat"
+chamber: Senate
+party: Democrat
 content-readiness: ready
-central-thesis: "Nevada's economy is gaming. Cortez Masto's donor base is gaming. Top donors include Las Vegas Sands Corporation (controlled by Miriam Adelson), Caesars Entertainment, MGM Resorts, and their executives. Between 2017–2024, gaming industry donors con..."
-last-updated: 2026-04-13
+central-thesis: Nevada's economy is gaming. Cortez Masto's donor base is gaming. Top donors include Las Vegas Sands Corporation (controlled by Miriam Adelson), Caesars Entertainment, MGM Resorts, and their executives. Between 2017–2024, gaming industry donors con...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-total-received: '$4,570,516'
+total-received: $4,570,516
 fec-candidate-id: S6NV00200
 source-types:
   - FEC
@@ -16,9 +16,10 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-last-enriched: '2026-04-09'
+last-enriched: "2026-04-09"
 opposes: "[[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]] · [[FREEDOM PARTNERS ACTION FUND, INC.]] · [[NRSC]]"
 related: "[[Miriam Adelson]] · [[Las Vegas Sands]] · [[EMILY's List]] · [[Adelson Family]]"
+top-donors: "[[SMP]], [[FREEDOM PARTNERS ACTION FUND, INC.]], [[NRSC]], [[CLUB FOR GROWTH ACTION]], [[Senate Leadership Fund]]"
 ---
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
 tags: #democrat

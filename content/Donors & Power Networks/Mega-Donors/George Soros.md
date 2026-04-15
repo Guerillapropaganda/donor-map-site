@@ -1,59 +1,56 @@
 ---
-title: "George Soros"
+title: George Soros
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]], [[Wes Moore]]"
 issues:
-  - "Dark Money & Campaign Finance"
-total-political-spend: "$188,381,113"
+  - Dark Money & Campaign Finance
+total-political-spend: $188,381,113
 court-cases: 600
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Nevada"
-  - "District Court, D. Utah"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Louisiana"
-  - "District Court, N.D. Georgia"
-  - "District Court, N.D. Illinois"
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, D. Nevada
+  - District Court, D. Utah
+  - District Court, District of Columbia
+  - District Court, E.D. Virginia
+  - District Court, M.D. Louisiana
+  - District Court, N.D. Georgia
+  - District Court, N.D. Illinois
 ein: "830650656"
-annual-revenue: "$1"
-net-assets: "$1K"
+annual-revenue: $1
+net-assets: $1K
 tax-year: "2023"
 federal-register-mentions: 10
 regulatory-agencies:
-  - "Executive Office of the President"
-  - "Federal Trade Commission"
-  - "Securities and Exchange Commission"
+  - Executive Office of the President
+  - Federal Trade Commission
+  - Securities and Exchange Commission
 sec-filings: 2093
 sec-form-types:
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-nonprofit-status: "501(c)(3)"
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+nonprofit-status: 501(c)(3)
 total-revenue: 1
 total-assets: 899
-lei: "549300N08KWU11RFO340"
-lei-jurisdiction: "KY"
-lei-parent: "Quantum Partners LP"
+lei: 549300N08KWU11RFO340
+lei-jurisdiction: KY
+lei-parent: Quantum Partners LP
 lobbying-spend: 1515500
 lobbying-filings: 100
 related: "[[Harris-Newsom Donor Class Fracture]] · [[From Soros CIO to Trump Treasury - The Class Defection]] · [[The Biden Exit and Harris Installation]] · [[Wes Moore Master Profile]] · [[The Robin Hood Pipeline - From Hedge Fund Charity to Statehouse]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[Center on Budget and Policy Priorities]] · [[Pod Save America]] · [[_Gavin Newsom Master Profile]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Arabella Advisors]]"
 cross-vault-triangulation-count: 13
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

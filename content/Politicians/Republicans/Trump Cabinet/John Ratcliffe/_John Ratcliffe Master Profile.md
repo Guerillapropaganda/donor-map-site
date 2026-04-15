@@ -1,32 +1,28 @@
 ---
-title: "John Ratcliffe"
+title: John Ratcliffe
 type: politician
 content-readiness: ready
-central-thesis: "John Ratcliffe's career arc , small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director , represents loyalty-as-qualification in its purest form. He has no intelligence community background, inf..."
-last-updated: 2026-04-13
+central-thesis: John Ratcliffe's career arc , small-town mayor → congressman → Trump impeachment defender → DNI → defense consultant ($2.2M+) → CIA Director , represents loyalty-as-qualification in its purest form. He has no intelligence community background, inf...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 committees:
-  - "Intelligence"
-top-donors:
-  - "Club for Growth"
-  - "L3 Technologies"
-  - "Northrop Grumman"
-  - "Blackstone"
+  - Intelligence
+top-donors: "[[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Northrop Grumman]], [[L3 Technologies]]"
 govtrack-id: 412653
 bills-sponsored: 0
 bills-cosponsored: 0
-total-received: "$544,358"
-fec-candidate-id: "H4TX04153"
+total-received: $544,358
+fec-candidate-id: H4TX04153
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Pam Bondi Master Profile]]"
 ---
 

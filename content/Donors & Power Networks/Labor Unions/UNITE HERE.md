@@ -1,46 +1,42 @@
 ---
-title: "UNITE HERE"
+title: UNITE HERE
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Kamala Harris"
-  - "Brendan Boyle"
-  - "Debbie Wasserman Schultz"
-  - "Jamie Raskin"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Jamie Raskin]], [[Debbie Wasserman Schultz]], [[Brendan Boyle]], [[Kamala Harris]], [[JB Pritzker]]"
 issues:
-  - "Labor & Workers"
-total-political-spend: "$51,678,221"
+  - Labor & Workers
+total-political-spend: $51,678,221
 ein: "352455960"
-nonprofit-status: "501(c)(5)"
+nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-10"
-lei: "54930053JDKWMZI3NN64"
-lei-jurisdiction: "CA"
+lei: 54930053JDKWMZI3NN64
+lei-jurisdiction: CA
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Jamie Raskin]] · [[Debbie Wasserman Schultz]] · [[Brendan Boyle]] · [[JB Pritzker Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[California Labor Federation]] · [[SEIU - Service Employees International Union]] · [[Immigration Enforcement - The Detention Economy]] · [[Ash Kalra]] · [[National Restaurant Association]] · [[Miriam Adelson]] · [[Adelson Family]]"
 federal-register-mentions: 91
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Railroad Administration"
-  - "Federal Trade Commission"
-  - "Labor Department"
-  - "National Labor Relations Board"
-  - "Occupational Safety and Health Administration"
-  - "Transportation Department"
-  - "Wage and Hour Division"
+  - Commodity Futures Trading Commission
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Railroad Administration
+  - Federal Trade Commission
+  - Labor Department
+  - National Labor Relations Board
+  - Occupational Safety and Health Administration
+  - Transportation Department
+  - Wage and Hour Division
 court-cases: 2330
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Iowa"
-  - "District Court, W.D. Washington"
+  - Court of Appeals for the D.C. Circuit
+  - District Court, C.D. California
+  - District Court, D. Arizona
+  - District Court, N.D. Illinois
+  - District Court, S.D. Iowa
+  - District Court, W.D. Washington
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 ---

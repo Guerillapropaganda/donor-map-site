@@ -1,29 +1,30 @@
 ---
-title: "Lauren Boebert"
+title: Lauren Boebert
 type: politician
-bioguide-id: "B000825"
+bioguide-id: B000825
 content-readiness: ready
 central-thesis: "Boebert is the culture war economy personified: she converts media attention into campaign donations without producing legislation or serving donor-class interests in the traditional sense. Her fundraising operates outside the committee-jurisdicti..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Colorado"
-state-abbr: "CO"
+party: Republican
+chamber: House
+state: Colorado
+state-abbr: CO
 district: "3"
 issues:
-  - "Energy & Climate"
-total-received: "$723,121"
-fec-candidate-id: "H0CO03165"
+  - Energy & Climate
+total-received: $723,121
+fec-candidate-id: H0CO03165
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[Club for Growth]] · [[Freedom Caucus]] · [[American Petroleum Institute]] · [[Koch Industries]]"
+top-donors: "[[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]], [[Colorado United Pac]]"
 ---
 
 <!-- auto:data-panel start -->

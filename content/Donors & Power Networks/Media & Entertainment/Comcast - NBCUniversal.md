@@ -1,14 +1,13 @@
 ---
-title: "Comcast - NBCUniversal"
+title: Comcast - NBCUniversal
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Media & Entertainment"
-entity-type: "Corporation"
-politicians-funded:
-  - "Maria Cantwell"
+sector: Media & Entertainment
+entity-type: Corporation
+politicians-funded: "[[Maria Cantwell]]"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
@@ -16,48 +15,46 @@ subawards-received-amount: 1009778941592127500
 federal-register-mentions: 1
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Federal Communications Commission"
+  - Federal Communications Commission
 ein: 510390132
-annual-revenue: "$23.1M"
-net-assets: "$21.7M"
+annual-revenue: $23.1M
+net-assets: $21.7M
 tax-year: "2023"
 sec-filings: 1165
 sec-form-types:
   - "425"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-1.01"
-  - "EX-10.1"
-  - "EX-10.10"
-  - "EX-10.15"
-  - "EX-10.16"
-  - "EX-10.4"
-  - "EX-10.C"
-  - "EX-2.2"
-  - "EX-4.9"
-  - "EX-5.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-FILING FEES"
-  - "N-PX"
-  - "PROXY VOTING RECORD"
-  - "PX14A6G"
-  - "S-8"
-  - "SC 13D/A"
+  - 8-K
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-1.01
+  - EX-10.1
+  - EX-10.10
+  - EX-10.15
+  - EX-10.16
+  - EX-10.4
+  - EX-10.C
+  - EX-2.2
+  - EX-4.9
+  - EX-5.1
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX-FILING FEES
+  - N-PX
+  - PROXY VOTING RECORD
+  - PX14A6G
+  - S-8
+  - SC 13D/A
 related: "[[The Telecom and Media Monopoly Oversight]] · [[Megyn Kelly]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[AT&T]] · [[Charter Communications]] · [[iHeartMedia]] · [[Walt Disney Company]] · [[Verizon]] · [[Sinclair Broadcast Group]] · [[News Corp - Fox Corporation]] · [[Telecom Industry]]"
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 26
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

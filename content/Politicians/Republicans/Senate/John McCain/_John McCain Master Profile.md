@@ -1,31 +1,29 @@
 ---
-title: "John McCain"
+title: John McCain
 type: politician
 content-readiness: ready
-central-thesis: "McCain positioned himself as a reformer fighting corruption and excess campaign spending, while simultaneously serving as one of the Senate's most reliable advocates for defense spending increases and weapons contractor interests. His 'maverick' b..."
-last-updated: 2026-04-13
+central-thesis: McCain positioned himself as a reformer fighting corruption and excess campaign spending, while simultaneously serving as one of the Senate's most reliable advocates for defense spending increases and weapons contractor interests. His 'maverick' b...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-bioguide-id: "M000303"
+party: Republican
+chamber: Senate
+bioguide-id: M000303
 govtrack-id: 300071
 bills-sponsored: 0
 bills-cosponsored: 0
-total-received: "$707,083"
-fec-candidate-id: "H2AZ01024"
-donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]]"
+total-received: $707,083
+fec-candidate-id: H2AZ01024
+donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]] · [[NRA POLITICAL VICTORY FUND]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
-total-raised: "$707,083"
-total-spent: "$524,237"
+reenrich-reason: run congress pipeline
+total-raised: $707,083
+total-spent: $524,237
 cash-on-hand: "192781.00"
 fec-cycle: 1984
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 

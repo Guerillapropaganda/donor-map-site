@@ -1,67 +1,66 @@
 ---
-title: "California Restaurant Association"
+title: California Restaurant Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Restaurant & Food"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Restaurant & Food
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
 sec-filings: 284
 sec-form-types:
-  - "10-K/A"
-  - "10-K405/A"
-  - "10-Q"
-  - "10-Q/A"
-  - "10KSB"
-  - "10KSB/A"
-  - "10QSB"
-  - "10QSB/A"
-  - "8-K"
-  - "COVER"
-  - "DEF 14A"
-  - "DEF 14C"
-  - "EX-13.1"
-  - "EX-13.2"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.3"
-  - "LETTER"
-  - "POS AM"
-  - "PRE 14A"
-  - "PRE 14C"
-  - "PX14A6G"
-  - "S-1/A"
-  - "S-4/A"
-  - "SB-2/A"
+  - 10-K/A
+  - 10-K405/A
+  - 10-Q
+  - 10-Q/A
+  - 10KSB
+  - 10KSB/A
+  - 10QSB
+  - 10QSB/A
+  - 8-K
+  - COVER
+  - DEF 14A
+  - DEF 14C
+  - EX-13.1
+  - EX-13.2
+  - EX-99
+  - EX-99.1
+  - EX-99.3
+  - LETTER
+  - POS AM
+  - PRE 14A
+  - PRE 14C
+  - PX14A6G
+  - S-1/A
+  - S-4/A
+  - SB-2/A
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50
 subawards-received-amount: 1009778941592127500
 ein: 951241045
-annual-revenue: "$5.4M"
-net-assets: "$20.8M"
+annual-revenue: $5.4M
+net-assets: $20.8M
 tax-year: "2023"
 related: "[[UFCW - United Food and Commercial Workers]] · [[_Gavin Newsom Master Profile]] · [[FAST Act and the AB 1228 Deal]] · [[Labor - Donors and Backers]] · [[Western States Petroleum Association]]"
 court-cases: 97
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, E.D. California"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. California"
-  - "District Court, W.D. Washington"
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, E.D. California
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. California
+  - District Court, W.D. Washington
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Energy Department"
-  - "Environmental Protection Agency"
+  - Energy Department
+  - Environmental Protection Agency
 lobbying-spend: 10579974
 lobbying-filings: 109
 cross-vault-triangulation-count: 5

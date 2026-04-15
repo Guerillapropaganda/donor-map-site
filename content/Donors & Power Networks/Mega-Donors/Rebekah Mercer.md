@@ -1,31 +1,24 @@
 ---
-title: "Rebekah Mercer"
+title: Rebekah Mercer
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Mitt Romney"
-  - "The Gubernatorial Pivot - From Sheriff to Culture War Candidate"
-  - "The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate"
-  - "Ted Cruz"
-  - "Barbara Lee"
-  - "Mike Lee"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]], [[Ted Cruz]], [[Barbara Lee]], [[Mike Lee]], [[Mitt Romney]], [[Steve Bannon]], [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]], [[Donald Trump]]"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 sec-filings: 9
 sec-form-types:
   - "425"
-  - "D"
-  - "EX-10.9"
-  - "PX14A6G"
+  - D
+  - EX-10.9
+  - PX14A6G
 related: "[[The Leo Pipeline and Operation Higher Court]] · [[The Supermajority Rulings and the Donor-Class Returns]] · [[Steve Bannon Master Profile]] · [[The Mercer Investment and the Construction of Populist Infrastructure]] · [[The Goldman-to-Fraud Pipeline and the Conviction Record]] · [[Tucker Carlson]] · [[Ben Shapiro]] · [[Robert Mercer]] · [[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Mitt Romney]] · [[Mike Lee]] · [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]] · [[Barbara Lee]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]]"
 last-enriched: "2026-04-09"
-total-political-spend: "$1,838,065"
+total-political-spend: $1,838,065
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
 ---

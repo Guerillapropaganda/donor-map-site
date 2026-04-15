@@ -1,45 +1,45 @@
 ---
-title: "Brian Mast"
+title: Brian Mast
 type: politician
-bioguide-id: "M001199"
+bioguide-id: M001199
 content-readiness: draft
-central-thesis: "Brian Mast is AIPAC's man in the chairman's seat , the House Foreign Affairs Committee chair who has received nearly $700,000 from the pro-Israel lobby, volunteered with the Israeli military, wore an IDF uniform in Congress, compared Palestinian c..."
-last-updated: 2026-04-10
+central-thesis: Brian Mast is AIPAC's man in the chairman's seat , the House Foreign Affairs Committee chair who has received nearly $700,000 from the pro-Israel lobby, volunteered with the Israeli military, wore an IDF uniform in Congress, compared Palestinian c...
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Florida"
-state-abbr: "FL"
+party: Republican
+chamber: House
+state: Florida
+state-abbr: FL
 district: "21"
 committees:
-  - "Foreign Affairs"
+  - Foreign Affairs
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 top-donors:
-  - "AIPAC"
-  - "Fanjul Family - Florida Crystals"
-total-received: "$2,368,244"
-fec-candidate-id: "H6FL18097"
+  - AIPAC
+  - Fanjul Family - Florida Crystals
+total-received: $2,368,244
+fec-candidate-id: H6FL18097
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
-donors: "[[NORPAC]]"
+  - No voting record data
+  - No mapped relationships
+donors: "[[NORPAC]], [[DCCC]], [[HOUSE MAJORITY PAC]], [[NRCC]], [[SPECIAL OPERATIONS FOR AMERICA]], [[WITH HONOR FUND, INC.]], [[Fanjul Family - Florida Crystals]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
-opensanctions-status: "pep-sanctioned"
+opensanctions-status: pep-sanctioned
 opensanctions-matches: 2
 opensanctions-datasets:
-  - "wd_categories"
-  - "ann_pep_positions"
-  - "everypolitician"
-  - "wd_peps"
-  - "wikidata"
-  - "us_congress"
-  - "ru_mfa_sanctions"
+  - wd_categories
+  - ann_pep_positions
+  - everypolitician
+  - wd_peps
+  - wikidata
+  - us_congress
+  - ru_mfa_sanctions
 ---
 
 <!-- auto:data-panel start -->

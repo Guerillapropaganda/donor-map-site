@@ -1,24 +1,23 @@
 ---
-title: "Chris Larsen"
+title: Chris Larsen
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
-politicians-funded:
-  - "Kamala Harris"
+politicians-funded: "[[Kamala Harris]]"
 related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[Future Forward]] · [[_Kamala Harris Master Profile]] · [[Brad Garlinghouse]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: Ripple co-founding, XRP holdings, personal FEC contributions, Harris donation documentation
 ein: 112894655
-annual-revenue: "$9"
-net-assets: "$2K"
+annual-revenue: $9
+net-assets: $2K
 tax-year: "2014"
 ---
 

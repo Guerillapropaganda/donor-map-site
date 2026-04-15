@@ -1,46 +1,47 @@
 ---
-title: "Ohio AFL-CIO"
+title: Ohio AFL-CIO
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-total-political-spend: "$1,478,057"
+sector: Labor Unions
+entity-type: Individual Donor
+total-political-spend: $1,478,057
 lobbying-spend: 2848540
 lobbying-filings: 95
 sec-filings: 36
 sec-form-types:
-  - "10-12G"
-  - "10-12G/A"
-  - "10-K"
-  - "424B3"
-  - "424B4"
+  - 10-12G
+  - 10-12G/A
+  - 10-K
+  - 424B3
+  - 424B4
   - "497"
-  - "DEF 14A"
-  - "DEFC14A"
-  - "DFAN14A"
-  - "EX-1.1"
-  - "EX-99.(F)(1)"
-  - "PRE 14A"
-  - "PREC14A"
-  - "PRER14A"
-  - "S-1"
-  - "S-1/A"
-  - "S-4"
-  - "S-4/A"
-  - "SC 14D9/A"
+  - DEF 14A
+  - DEFC14A
+  - DFAN14A
+  - EX-1.1
+  - EX-99.(F)(1)
+  - PRE 14A
+  - PREC14A
+  - PRER14A
+  - S-1
+  - S-1/A
+  - S-4
+  - S-4/A
+  - SC 14D9/A
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 court-cases: 47
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Ohio"
+  - District Court, S.D. New York
+  - District Court, S.D. Ohio
 related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]]"
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[Amy Acton]]"
 ---
 
 

@@ -1,61 +1,58 @@
 ---
-title: "Bobby Scott"
+title: Bobby Scott
 type: politician
 content-readiness: ready
-central-thesis: "Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi..."
-last-updated: 2026-04-15
+central-thesis: Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Democrat
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "3"
 committees:
-  - "Education & Labor"
+  - Education & Labor
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Environmental Protection"
-  - "Families"
-  - "Health"
-  - "Labor and Employment"
+  - Agriculture and Food
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Economics and Public Finance
+  - Education
+  - Environmental Protection
+  - Families
+  - Health
+  - Labor and Employment
 top-donors:
-  - "SEIU"
+  - SEIU
 govtrack-id: 400364
 bills-sponsored: 17
 bills-cosponsored: 154
-website: "https://bobbyscott.house.gov"
-phone: "202-225-8351"
-total-received: "$290,963"
-fec-candidate-id: "H6VA01117"
-donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
+website: https://bobbyscott.house.gov
+phone: 202-225-8351
+total-received: $290,963
+fec-candidate-id: H6VA01117
+donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]] · [[Sierra Club Independent Action]] · [[United We Can]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
-opensanctions-status: "pep"
+opensanctions-status: pep
 opensanctions-matches: 1
 opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "everypolitician"
-  - "wd_peps"
-  - "wikidata"
-  - "us_congress"
+  - ann_pep_positions
+  - wd_categories
+  - everypolitician
+  - wd_peps
+  - wikidata
+  - us_congress
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
-bioguide-id: "S000185"
-total-raised: "$290,963"
-total-spent: "$358,184"
+bioguide-id: S000185
+total-raised: $290,963
+total-spent: $358,184
 cash-on-hand: "95642.17"
 fec-cycle: 2026
 fec-debt: "3191.43"

@@ -1,21 +1,20 @@
 ---
-title: "CNA - California Nurses Association"
+title: CNA - California Nurses Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Tom Steyer]], [[Kamala Harris]], [[Gavin Newsom]]"
 issues:
-  - "Healthcare"
-  - "Labor & Workers"
-total-political-spend: "$319,800"
+  - Healthcare
+  - Labor & Workers
+total-political-spend: $319,800
 sec-filings: 1
 sec-form-types:
-  - "EX-10.1"
+  - EX-10.1
 related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Medicare for All - The Policy That Broke the Party]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Populist Billionaire Contradiction]] · [[_Gavin Newsom Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[UnitedHealth Group - Optum]] · [[Anthem - Elevance Health]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Michael Bloomberg]] · [[California Nurses Association]]"
 last-enriched: "2026-04-09"
 cross-vault-triangulation-count: 16

@@ -1,28 +1,27 @@
 ---
-title: "Financial Services Donors"
+title: Financial Services Donors
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Individual Donor"
+sector: Wall Street
+entity-type: Individual Donor
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
-  - "GLOMAG"
-  - "SDGT] [IFSR"
-  - "RUSSIA-EO14024"
+  - UKRAINE-EO13662] [RUSSIA-EO14024
+  - GLOMAG
+  - SDGT] [IFSR
+  - RUSSIA-EO14024
 related: "[[Payday Lending Regulatory Capture]] · [[Dick Durbin]] · [[Securities & Investment Industry]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[MBNA Corporation]] · [[Wall Street Finance PACs]] · [[Wall Street Finance Networks]] · [[Wall Street Bloc]] · [[Master Donor Database]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Dick Durbin]]"
 ---
 
 <!-- auto:data-panel start -->

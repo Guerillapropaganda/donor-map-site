@@ -3,7 +3,7 @@ title: Josh Hawley
 type: politician
 content-readiness: ready
 central-thesis: "Josh Hawley is the MAGA donor class's prototype for a new kind of Republican: the manufactured populist. His 2018 election was funded by $20.7M from McConnell's Senate Leadership Fund and $3.9M from the Koch network. His January 6 fist pump , whic..."
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -12,10 +12,8 @@ state: Missouri
 state-abbr: MO
 issues:
   - Dark Money & Campaign Finance
-top-donors:
-  - Koch Network - Charles Koch
-  - Leonard Leo
-total-received: '$1,150,554'
+top-donors: "[[PATRIOTS PREVAIL PAC]], [[WOMEN VOTE!]], [[Koch Network - Charles Koch]], [[Leonard Leo]], [[SMP]], [[MAJORITY FORWARD]], [[PRIORITIES USA ACTION]]"
+total-received: $1,150,554
 fec-candidate-id: S8MO00160
 source-types:
   - Congress

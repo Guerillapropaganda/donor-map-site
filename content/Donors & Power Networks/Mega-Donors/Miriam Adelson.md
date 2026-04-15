@@ -1,49 +1,40 @@
 ---
-title: "Miriam Adelson"
+title: Miriam Adelson
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Benjamin Netanyahu"
-  - "Kamala Harris"
-  - "JD Vance"
-  - "Marco Rubio"
-  - "Pete Hegseth"
-  - "Elise Stefanik"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]], [[Benjamin Netanyahu]], [[Elise Stefanik]], [[Jared Kushner]], [[JD Vance]], [[Marco Rubio]], [[Kamala Harris]], [[Pete Hegseth]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 ein: "886063073"
-annual-revenue: "$13K"
-net-assets: "$90K"
+annual-revenue: $13K
+net-assets: $90K
 tax-year: "2023"
 court-cases: 41
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. Nevada"
-  - "District Court, District of Columbia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Florida"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
-nonprofit-status: "501(c)(3)"
+  - Court of Appeals for the Ninth Circuit
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, D. Nevada
+  - District Court, District of Columbia
+  - District Court, N.D. California
+  - District Court, N.D. Florida
+  - District Court, N.D. Illinois
+  - District Court, N.D. Texas
+  - District Court, S.D. New York
+nonprofit-status: 501(c)(3)
 total-revenue: 3842
 total-assets: 92607
 related: "[[Intra-Republican Contradiction Map]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[The 2022 Governor Race and the Lauder Super PAC]] · [[Jared Kushner Master Profile]] · [[Abraham Accords as Business Development]] · [[Elise Stefanik]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[The Insurrection Investment - Who Funded January 6th and What They Got]] · [[Israel and Foreign Policy - Donors and Backers]] · [[West Bank Annexation and Settlement Expansion]] · [[The Trump Alliance and US Military Aid]] · [[The American Donor Network]] · [[Israel Hayom and the Corruption Cases]] · [[AIPAC and the Israel Donor Network]] · [[Bill Hagerty]] · [[Brian Kemp]] · [[Catherine Cortez Masto]] · [[Jan Koum]] · [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Kamala Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[UNITE HERE]] · [[_JD Vance Master Profile]] · [[Haim Saban]] · [[Timothy Mellon]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[NORPAC]] · [[2028 Presidential Landscape]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Preserve America]] · [[MAGA Inc]] · [[Adelson Family]] · [[Republican Jewish Coalition]] · [[DMFI - Democratic Majority for Israel]] · [[American Friends of the Likud]] · [[American Gaming Association]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Trump Donor Coalition]] · [[Trump 2024 Campaign]]"
 cross-vault-triangulation-count: 28
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

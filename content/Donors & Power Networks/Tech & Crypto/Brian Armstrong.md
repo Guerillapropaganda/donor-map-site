@@ -1,17 +1,16 @@
 ---
-title: "Brian Armstrong"
+title: Brian Armstrong
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
   - Financial Deregulation
-politicians-funded:
-  - "Donald Trump"
+politicians-funded: "[[Donald Trump]]"
 related: "[[Coinbase]] · [[Fairshake PAC]] · [[Defend American Jobs]] · [[Protect Progress]] · [[_Donald Trump Master Profile]]"
 source-types: []
 known-gaps:
@@ -21,13 +20,13 @@ known-gaps:
 federal-register-mentions: 31
 last-enriched: "2026-04-11"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Commerce Department"
-  - "Energy Department"
-  - "Federal Aviation Administration"
-  - "Justice Department"
-  - "National Oceanic and Atmospheric Administration"
-  - "Transportation Department"
+  - Antitrust Division
+  - Commerce Department
+  - Energy Department
+  - Federal Aviation Administration
+  - Justice Department
+  - National Oceanic and Atmospheric Administration
+  - Transportation Department
 ---
 
 

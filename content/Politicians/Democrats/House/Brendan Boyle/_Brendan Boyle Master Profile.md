@@ -1,33 +1,31 @@
 ---
-title: "Brendan Boyle"
+title: Brendan Boyle
 type: politician
-bioguide-id: "B001296"
+bioguide-id: B001296
 content-readiness: ready
-central-thesis: "Brendan Boyle is the Budget Committee's working-class Democrat , funded by labor unions, trial lawyers, and the Philadelphia Democratic machine rather than Wall Street or corporate PACs. His donor profile reflects Philadelphia ward politics more t..."
-last-updated: 2026-04-15
+central-thesis: Brendan Boyle is the Budget Committee's working-class Democrat , funded by labor unions, trial lawyers, and the Philadelphia Democratic machine rather than Wall Street or corporate PACs. His donor profile reflects Philadelphia ward politics more t...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Pennsylvania"
-state-abbr: "PA"
+party: Democrat
+chamber: House
+state: Pennsylvania
+state-abbr: PA
 district: "2"
 committees:
-  - "Budget"
+  - Budget
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
-donors: "[[UNITE HERE]] · [[AFL-CIO]]"
+reenrich-reason: run congress pipeline
+donors: "[[UNITE HERE]] · [[AFL-CIO]] · [[WOMEN VOTE!]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Donald Trump Master Profile|Trump]]"
-total-received: "$1,522,158"
-fec-candidate-id: "H4PA13199"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-received: $1,522,158
+fec-candidate-id: H4PA13199
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

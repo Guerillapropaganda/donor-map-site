@@ -1,14 +1,14 @@
 ---
-title: "Nina Turner"
+title: Nina Turner
 type: politician
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: null
 parent: null
-party: "Democrat"
-chamber: "Former Candidate"
-state: "Ohio"
-state-abbr: "OH"
+party: Democrat
+chamber: Former Candidate
+state: Ohio
+state-abbr: OH
 district: "11"
 issues:
   - Medicare for All
@@ -16,8 +16,8 @@ issues:
   - Labor
 related: "[[_Bernie Sanders Master Profile]] · [[_Shontel Brown Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
 opposes:
-  - "DMFI PAC"
-  - "Shontel Brown"
+  - DMFI PAC
+  - Shontel Brown
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
@@ -25,8 +25,9 @@ known-gaps:
   - No FEC candidate ID verified
   - No pipeline enrichment
 last-enriched: "2026-04-10"
-total-received: "$7,693,038"
-fec-candidate-id: "H2OH11151"
+total-received: $7,693,038
+fec-candidate-id: H2OH11151
+top-donors: "[[Wfp Ie Committee]], [[Third Way]], [[Mainstream Democrats Pac]], [[DMFI PAC]]"
 ---
 
 

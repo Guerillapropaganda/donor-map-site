@@ -1,44 +1,39 @@
 ---
-title: "Virginia Foxx"
+title: Virginia Foxx
 type: politician
-bioguide-id: "F000450"
+bioguide-id: F000450
 content-readiness: ready
-central-thesis: "Virginia Foxx is the for-profit college industry's legislative shield. Her committee controls higher education policy , student loan rules, accreditation standards, Title IV funding eligibility, and regulatory oversight of colleges. Every major le..."
-last-updated: 2026-04-13
+central-thesis: Virginia Foxx is the for-profit college industry's legislative shield. Her committee controls higher education policy , student loan rules, accreditation standards, Title IV funding eligibility, and regulatory oversight of colleges. Every major le...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "North Carolina"
-state-abbr: "NC"
+party: Republican
+chamber: House
+state: North Carolina
+state-abbr: NC
 district: "5"
 committees:
-  - "Education & Labor"
+  - Education & Labor
 issues:
-  - "Arts, Culture, Religion"
-  - "Congress"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Energy"
-  - "Families"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Immigration"
+  - Arts, Culture, Religion
+  - Congress
+  - Economics and Public Finance
+  - Education
+  - Energy
+  - Families
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Immigration
 top-donors:
-  - "DeVos Family"
-  - "American Federation for Children"
-  - "Walton Family Foundation"
-donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]]"
+  - DeVos Family
+  - American Federation for Children
+  - Walton Family Foundation
+donors: "[[Apollo Global Management]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Student Loan Servicer Industry]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[DeVos Family]]"
 related: "[[The Education Committee and Labor Alignment]] · [[DeVos Family]] · [[American Federation for Children]] · [[_Donald Trump Master Profile|Trump]] · [[Walton Family Foundation]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run voting pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

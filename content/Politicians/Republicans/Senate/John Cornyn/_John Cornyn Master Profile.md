@@ -1,53 +1,50 @@
 ---
-title: "John Cornyn"
+title: John Cornyn
 type: politician
-bioguide-id: "C001056"
+bioguide-id: C001056
 content-readiness: ready
-central-thesis: "John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun..."
-last-updated: 2026-04-15
+central-thesis: John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Texas"
-state-abbr: "TX"
+party: Republican
+chamber: Senate
+state: Texas
+state-abbr: TX
 committees:
-  - "Judiciary"
-  - "Intelligence"
-  - "Finance"
+  - Judiciary
+  - Intelligence
+  - Finance
 issues:
-  - "Armed Forces and National Security"
-  - "Commerce"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "International Affairs"
-  - "Law"
+  - Armed Forces and National Security
+  - Commerce
+  - Congress
+  - Crime and Law Enforcement
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Immigration
+  - International Affairs
+  - Law
 top-donors:
-  - "ExxonMobil"
-  - "Chevron"
-  - "Koch Network - Charles Koch"
-  - "US Chamber of Commerce"
-  - "Goldman Sachs"
-  - "Blackstone"
-  - "Senate Leadership Fund"
-total-received: "$11,155,399"
-fec-candidate-id: "S2TX00106"
+  - ExxonMobil
+  - Chevron
+  - Koch Network - Charles Koch
+  - US Chamber of Commerce
+  - Goldman Sachs
+  - Blackstone
+  - Senate Leadership Fund
+total-received: $11,155,399
+fec-candidate-id: S2TX00106
 stock-trades: 2
 stock-trade-tickers:
-  - "AAPL"
+  - AAPL
 last-enriched: "2026-04-07"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
+reenrich-reason: run voting pipeline; run congress pipeline
 related: "[[Tim Scott]] · [[US Chamber of Commerce]] · [[_John Thune Master Profile|John Thune]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Chevron]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
-donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]] · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]] · [[Texans for a Conservative Majority]] · [[SMP]] · [[FF PAC]] · [[ExxonMobil]] · [[Koch Network - Charles Koch]] · [[US Chamber of Commerce]] · [[Goldman Sachs]] · [[Chevron]] · [[Senate Leadership Fund]] · [[WOMEN VOTE!]]"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

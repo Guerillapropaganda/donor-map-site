@@ -1,50 +1,47 @@
 ---
-title: "Rick Larsen"
+title: Rick Larsen
 type: politician
 content-readiness: ready
-central-thesis: "Rick Larsen is Boeing's Democratic guardian , the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation..."
-last-updated: 2026-04-13
+central-thesis: Rick Larsen is Boeing's Democratic guardian , the ranking member on Transportation who ensures the aviation giant has bipartisan protection in the House. His district hosts Boeing's largest factory. Boeing is his top donor. He chaired the Aviation...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "2"
 committees:
-  - "Transportation & Infrastructure"
+  - Transportation & Infrastructure
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Emergency Management"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Health"
-  - "Immigration"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Education
+  - Emergency Management
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Health
+  - Immigration
 top-donors:
-  - "Boeing"
-donors: "[[IBEW - International Brotherhood of Electrical Workers]]"
-total-received: "$1,185,411"
-fec-candidate-id: "H0WA02080"
+  - Boeing
+donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[Boeing]], [[AMERICAN FUTURE FUND]], [[AMERICAN CROSSROADS]]"
+total-received: $1,185,411
+fec-candidate-id: H0WA02080
 govtrack-id: 400232
 bills-sponsored: 8
 bills-cosponsored: 187
-website: "https://larsen.house.gov"
-phone: "202-225-2605"
+website: https://larsen.house.gov
+phone: 202-225-2605
 related: "[[_Sam Graves Master Profile|Graves]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Boeing]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
-bioguide-id: "L000560"
+bioguide-id: L000560
 ---
 
 <!-- auto:data-panel start -->

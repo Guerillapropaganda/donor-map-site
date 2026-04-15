@@ -1,112 +1,109 @@
 ---
-title: "Tyson Foods"
+title: Tyson Foods
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Corporation"
-politicians-funded:
-  - "John Boozman"
+sector: Agriculture
+entity-type: Corporation
+politicians-funded: "[[John Boozman]]"
 issues:
-  - "Agriculture"
-  - "Labor & Workers"
-  - "Immigration"
-top-federal-agency: "Department of Agriculture"
+  - Agriculture
+  - Labor & Workers
+  - Immigration
+top-federal-agency: Department of Agriculture
 top-naics-code: "311615"
 ein: 476014039
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 1
 total-assets: 321518
 federal-register-mentions: 74
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Children and Families Administration"
-  - "Consumer Financial Protection Bureau"
-  - "Employment and Training Administration"
-  - "Environmental Protection Agency"
-  - "Federal Aviation Administration"
-  - "Federal Maritime Commission"
-  - "Food and Nutrition Service"
-  - "Health and Human Services Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Children and Families Administration
+  - Consumer Financial Protection Bureau
+  - Employment and Training Administration
+  - Environmental Protection Agency
+  - Federal Aviation Administration
+  - Federal Maritime Commission
+  - Food and Nutrition Service
+  - Health and Human Services Department
 related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]] · [[ADM - Archer Daniels Midland]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Agribusiness Donor Bloc]]"
 court-cases: 14516
 court-jurisdictions:
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, C.D. Illinois"
-  - "District Court, D. Oregon"
-  - "District Court, E.D. Arkansas"
-  - "District Court, E.D. Washington"
-  - "District Court, M.D. Alabama"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. Illinois"
-  - "District Court, W.D. Oklahoma"
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, C.D. Illinois
+  - District Court, D. Oregon
+  - District Court, E.D. Arkansas
+  - District Court, E.D. Washington
+  - District Court, M.D. Alabama
+  - District Court, S.D. Florida
+  - District Court, S.D. Illinois
+  - District Court, W.D. Oklahoma
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 federal-awards-total: 219988618
 federal-contracts-count: 25
 federal-grants-count: 0
 cross-vault-triangulation-count: 9
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 fda-recalls: 7
 fda-recalls-class-i: 1
 sec-filings: 10000
 sec-form-types:
-  - "10-K"
+  - 10-K
   - "4"
-  - "424B5"
-  - "8-K"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-10"
-  - "EX-10.1"
-  - "EX-10.11"
-  - "EX-10.12"
-  - "EX-10.13"
-  - "EX-10.18"
-  - "EX-10.19"
-  - "EX-10.2"
-  - "EX-10.4"
-  - "EX-10.5"
-  - "EX-10.65"
-  - "EX-14"
-  - "EX-14.1"
-  - "EX-21"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-99.A.15"
-  - "FWP"
-  - "NPORT-P"
-  - "PROXY VOTING RECORD"
-  - "PX14A6G"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-C"
-  - "SC TO-T"
-  - "SC TO-T/A"
-  - "SC14D9C"
-  - "SCHEDULE 13D/A"
-  - "SCHEDULE 13G/A"
-  - "XML"
-annual-revenue: "$1"
-net-assets: "$322K"
+  - 424B5
+  - 8-K
+  - DEFA14A
+  - DFAN14A
+  - EX-10
+  - EX-10.1
+  - EX-10.11
+  - EX-10.12
+  - EX-10.13
+  - EX-10.18
+  - EX-10.19
+  - EX-10.2
+  - EX-10.4
+  - EX-10.5
+  - EX-10.65
+  - EX-14
+  - EX-14.1
+  - EX-21
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX-99.A.15
+  - FWP
+  - NPORT-P
+  - PROXY VOTING RECORD
+  - PX14A6G
+  - SC 13G
+  - SC 13G/A
+  - SC TO-C
+  - SC TO-T
+  - SC TO-T/A
+  - SC14D9C
+  - SCHEDULE 13D/A
+  - SCHEDULE 13G/A
+  - XML
+annual-revenue: $1
+net-assets: $322K
 tax-year: "2019"
-wikidata-id: "Q1325987"
-wikipedia-url: "https://en.wikipedia.org/wiki/Tyson_Foods"
-wikipedia-extract: "Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry."
+wikidata-id: Q1325987
+wikipedia-url: https://en.wikipedia.org/wiki/Tyson_Foods
+wikipedia-extract: Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
 founded: "1935-01-01"
-lei: "WD6L6041MNRW1JE49D58"
-lei-jurisdiction: "US-DE"
+lei: WD6L6041MNRW1JE49D58
+lei-jurisdiction: US-DE
 lobbying-spend: 5030000
 lobbying-filings: 30
 ---

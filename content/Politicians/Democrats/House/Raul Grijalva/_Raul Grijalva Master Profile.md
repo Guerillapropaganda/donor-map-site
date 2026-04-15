@@ -2,46 +2,43 @@
 title: Raul Grijalva
 type: politician
 content-readiness: ready
-central-thesis: "Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent tw..."
-last-updated: 2026-04-13
+central-thesis: Raul Grijalva was the extractive industry's adversary on the Natural Resources Committee — funded by environmental organizations, labor unions, and small donors rather than the mining, oil, and timber companies his committee regulates. He spent tw...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
 chamber: House
 state: Arizona
 state-abbr: AZ
-district: '7'
+district: "7"
 committees:
   - Environment & Public Works
 leadership-roles:
   - Ranking Member
 issues:
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Education"
-  - "Families"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Housing and Community Development"
-  - "International Affairs"
-  - "Labor and Employment"
-  - "Native Americans"
-total-received: '$17,388'
+  - Armed Forces and National Security
+  - Congress
+  - Education
+  - Families
+  - Government Operations and Politics
+  - Health
+  - Housing and Community Development
+  - International Affairs
+  - Labor and Employment
+  - Native Americans
+total-received: $17,388
 fec-candidate-id: H2AZ07070
 govtrack-id: 400162
 bills-sponsored: 2
 bills-cosponsored: 122
-donors: '[[National Nurses United]]'
-opposes: '[[AMERICANS FOR TAX REFORM]]'
+donors: "[[National Nurses United]], [[MOVEON.ORG POLITICAL ACTION]], [[CAMPAIGN FOR COMMUNITY CHANGE]], [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]], [[AMERICANS FOR TAX REFORM]]"
+opposes: "[[AMERICANS FOR TAX REFORM]]"
 related: "[[_Bruce Westerman Master Profile|Bruce Westerman]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
-bioguide-id: "G000606"
+bioguide-id: G000606
 ---
 
 <!-- auto:data-panel start -->

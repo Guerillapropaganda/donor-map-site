@@ -1,25 +1,22 @@
 ---
 title: Mark Kelly
 type: politician
-chamber: "Senate"
-party: "Democrat"
+chamber: Senate
+party: Democrat
 content-readiness: draft
-central-thesis: "Mark Kelly is the defense contractor donor class's favorite Democrat. His military/NASA biography provides unassailable patriotic cover for voting to expand Pentagon budgets that directly benefit his donors. He sits on the Senate Armed Services Co..."
-last-updated: 2026-04-13
+central-thesis: Mark Kelly is the defense contractor donor class's favorite Democrat. His military/NASA biography provides unassailable patriotic cover for voting to expand Pentagon budgets that directly benefit his donors. He sits on the Senate Armed Services Co...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-total-received: '$33,067,827'
+total-received: $33,067,827
 fec-candidate-id: S0AZ00350
-last-enriched: '2026-04-08'
+last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run voting pipeline; run congress pipeline"
-donors: "[[Ken Griffin]] · [[CA Farm Bureau Federation]]"
+reenrich-reason: run voting pipeline; run congress pipeline
+donors: "[[Ken Griffin]] · [[CA Farm Bureau Federation]] · [[NRSC]] · [[CLUB FOR GROWTH ACTION]] · [[Senate Leadership Fund]] · [[DEFENDARIZONA]] · [[The Sentinel Action Fund]]"
 related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Boeing]]"
 opposes: "[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH ACTION]] · [[THE SENTINEL ACTION FUND]]"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 

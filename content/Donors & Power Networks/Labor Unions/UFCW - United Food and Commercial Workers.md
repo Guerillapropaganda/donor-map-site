@@ -1,39 +1,33 @@
 ---
-title: "UFCW - United Food and Commercial Workers"
+title: UFCW - United Food and Commercial Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Kamala Harris"
-  - "Elizabeth Warren"
-  - "Katie Porter"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Katie Porter]], [[Kamala Harris]], [[Gavin Newsom]], [[Elizabeth Warren]]"
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 ofac-programs:
-  - "RUSSIA-EO14024"
+  - RUSSIA-EO14024
 ein: "201130122"
-annual-revenue: "$240.0M"
-net-assets: "$531.3M"
+annual-revenue: $240.0M
+net-assets: $531.3M
 tax-year: "2022"
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[California Labor Federation]] · [[California Restaurant Association]] · [[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[Ash Kalra]] · [[Teamsters - International Brotherhood of Teamsters]]"
-nonprofit-status: "501(c)(5)"
+nonprofit-status: 501(c)(5)
 sec-filings: 9
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
+  - 10-K
+  - 10-K/A
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,30 +1,28 @@
 ---
-title: "Rupert Murdoch"
+title: Rupert Murdoch
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "Mitch McConnell"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Mitch McConnell]], [[Donald Trump]]"
 court-cases: 415
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Virginia"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. California"
-  - "District Court, S.D. Florida"
+  - District Court, C.D. California
+  - District Court, D. Colorado
+  - District Court, E.D. New York
+  - District Court, E.D. Virginia
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, N.D. Texas
+  - District Court, S.D. California
+  - District Court, S.D. Florida
 related: "[[Fox News to Pentagon - The Media-Military Pipeline]] · [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[Fox News - Murdoch Media Empire]] · [[Wilks Brothers , Dan and Farris Wilks]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile|Mitch McConnell]] · [[Media and Propaganda - Donors and Backers]] · [[Paul Ryan]]"
 sec-filings: 5590
 sec-form-types:
@@ -32,41 +30,39 @@ sec-form-types:
   - "4"
   - "425"
   - "5"
-  - "6-K"
-  - "8-K"
-  - "CORRESP"
-  - "DFAN14A"
-  - "EX-10.1"
-  - "EX-10.7"
-  - "EX-12.1"
-  - "EX-13.1"
-  - "EX-31.1"
-  - "EX-32.1"
-  - "EX-99.(A)(17)"
-  - "EX-99.(A)(18)"
-  - "EX-99.(A)(22)"
-  - "EX-99.(A)(23)"
-  - "EX-99.(A)(27)"
-  - "EX-99.(A)(34)"
-  - "EX-99.1"
-  - "EX-99.1(A)"
-  - "EX-99.1.(A)"
-  - "EX-99.2"
-  - "LETTER"
-  - "POS AM"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
-  - "SC TO-T/A"
-  - "SCHEDULE 13G/A"
+  - 6-K
+  - 8-K
+  - CORRESP
+  - DFAN14A
+  - EX-10.1
+  - EX-10.7
+  - EX-12.1
+  - EX-13.1
+  - EX-31.1
+  - EX-32.1
+  - EX-99.(A)(17)
+  - EX-99.(A)(18)
+  - EX-99.(A)(22)
+  - EX-99.(A)(23)
+  - EX-99.(A)(27)
+  - EX-99.(A)(34)
+  - EX-99.1
+  - EX-99.1(A)
+  - EX-99.1.(A)
+  - EX-99.2
+  - LETTER
+  - POS AM
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
+  - SC TO-T/A
+  - SCHEDULE 13G/A
 federal-register-mentions: 12
 regulatory-agencies:
-  - "Federal Trade Commission"
+  - Federal Trade Commission
 cross-vault-triangulation-count: 6
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,97 +1,96 @@
 ---
-title: "MassMutual"
+title: MassMutual
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
+sector: Wall Street
+entity-type: Corporation
 ein: "474967720"
-annual-revenue: "$820K"
-net-assets: "$8.6M"
+annual-revenue: $820K
+net-assets: $8.6M
 tax-year: "2023"
-top-federal-agency: "Department of the Treasury"
+top-federal-agency: Department of the Treasury
 top-naics-code: "522110"
-lei: "549300AWJCCLBT2W8T68"
-lei-jurisdiction: "US-MA"
-lei-parent: "MASSMUTUAL PREMIER FUNDS"
+lei: 549300AWJCCLBT2W8T68
+lei-jurisdiction: US-MA
+lei-parent: MASSMUTUAL PREMIER FUNDS
 related: "[[Richard Neal Master Profile]]"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 total-revenue: 58873009
 total-assets: 34302568
 sec-filings: 10000
 sec-form-types:
-  - "24F-2NT"
+  - 24F-2NT
   - "497"
-  - "8-K"
-  - "DEF 14C"
-  - "EX-99"
-  - "EX-99.(D)(34)"
-  - "EX-99.(G)(10)"
-  - "EX-99.(G)(11)"
-  - "EX-99.(G)(12)"
-  - "EX-99.(G)(6)"
-  - "EX-99.(G)(7)"
-  - "EX-99.(G)(8)"
-  - "EX-99.(G)(9)"
-  - "EX-99.(H)(10)"
-  - "EX-99.(H)(11)"
-  - "EX-99.(H)(15)"
-  - "EX-99.(H)(17)"
-  - "EX-99.(H)(18)"
-  - "EX-99.(H)(19)"
-  - "EX-99.(H)(23)"
-  - "EX-99.(H)(27)"
-  - "EX-99.(H)(28)"
-  - "EX-99.(H)(3)"
-  - "EX-99.(H)(33)"
-  - "EX-99.(H)(35)"
-  - "EX-99.(H)(41)"
-  - "EX-99.(H)(5)"
-  - "EX-99.(H)(6)"
-  - "EX-99.(H)(9)"
-  - "EX-99.(J)(1)"
-  - "EX-99.D(118)"
-  - "EX-99.D(23)"
-  - "EX-99.D(26)"
-  - "EX-99.D(74)"
-  - "EX-99.D.17"
-  - "EX-99.D.26"
-  - "EX-99.D.52"
-  - "EX-99.E(3)"
-  - "EX-99.G(10)"
-  - "EX-99.G(2)"
-  - "EX-99.G(3)"
-  - "EX-99.G(4)"
-  - "EX-99.G(5)"
-  - "EX-99.G(6)"
-  - "EX-99.H(11)"
-  - "EX-99.H(13)"
-  - "EX-99.H(14)"
-  - "EX-99.H(2)"
-  - "EX-99.H(20)"
-  - "EX-99.H(24)"
-  - "EX-99.H(3)"
-  - "EX-99.H(30)"
-  - "EX-99.H(31)"
-  - "EX-99.H(4)"
-  - "EX-99.H(6)"
-  - "EX-99.H(7)"
-  - "EX-99.H(9)"
-  - "EX-99.H40"
-  - "NPORT-P"
-  - "PRE 14A"
+  - 8-K
+  - DEF 14C
+  - EX-99
+  - EX-99.(D)(34)
+  - EX-99.(G)(10)
+  - EX-99.(G)(11)
+  - EX-99.(G)(12)
+  - EX-99.(G)(6)
+  - EX-99.(G)(7)
+  - EX-99.(G)(8)
+  - EX-99.(G)(9)
+  - EX-99.(H)(10)
+  - EX-99.(H)(11)
+  - EX-99.(H)(15)
+  - EX-99.(H)(17)
+  - EX-99.(H)(18)
+  - EX-99.(H)(19)
+  - EX-99.(H)(23)
+  - EX-99.(H)(27)
+  - EX-99.(H)(28)
+  - EX-99.(H)(3)
+  - EX-99.(H)(33)
+  - EX-99.(H)(35)
+  - EX-99.(H)(41)
+  - EX-99.(H)(5)
+  - EX-99.(H)(6)
+  - EX-99.(H)(9)
+  - EX-99.(J)(1)
+  - EX-99.D(118)
+  - EX-99.D(23)
+  - EX-99.D(26)
+  - EX-99.D(74)
+  - EX-99.D.17
+  - EX-99.D.26
+  - EX-99.D.52
+  - EX-99.E(3)
+  - EX-99.G(10)
+  - EX-99.G(2)
+  - EX-99.G(3)
+  - EX-99.G(4)
+  - EX-99.G(5)
+  - EX-99.G(6)
+  - EX-99.H(11)
+  - EX-99.H(13)
+  - EX-99.H(14)
+  - EX-99.H(2)
+  - EX-99.H(20)
+  - EX-99.H(24)
+  - EX-99.H(3)
+  - EX-99.H(30)
+  - EX-99.H(31)
+  - EX-99.H(4)
+  - EX-99.H(6)
+  - EX-99.H(7)
+  - EX-99.H(9)
+  - EX-99.H40
+  - NPORT-P
+  - PRE 14A
 federal-awards-total: 0
 federal-contracts-count: 1
 federal-grants-count: 0
 cross-vault-triangulation-count: 0
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Richard Neal]]"
 ---
 
 

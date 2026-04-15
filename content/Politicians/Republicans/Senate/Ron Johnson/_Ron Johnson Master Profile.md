@@ -1,26 +1,23 @@
 ---
-title: "Ron Johnson"
+title: Ron Johnson
 type: politician
-bioguide-id: "J000293"
+bioguide-id: J000293
 content-readiness: ready
-central-thesis: "Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like..."
-last-updated: 2026-04-15
+central-thesis: Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Wisconsin"
-state-abbr: "WI"
-fec-candidate-id: "S0WI00197"
+party: Republican
+chamber: Senate
+state: Wisconsin
+state-abbr: WI
+fec-candidate-id: S0WI00197
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]] · [[Really American Pac]]"
 related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

@@ -1,57 +1,55 @@
 ---
-title: "Rosa DeLauro"
+title: Rosa DeLauro
 type: politician
 content-readiness: ready
-central-thesis: "DeLauro is the working-class progressive who controls the spending. Her Appropriations gavel gives her direct authority over federal spending allocations , and the industries that depend on those allocations fund her campaign. The contradiction is..."
-last-updated: 2026-04-13
+central-thesis: DeLauro is the working-class progressive who controls the spending. Her Appropriations gavel gives her direct authority over federal spending allocations , and the industries that depend on those allocations fund her campaign. The contradiction is...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Connecticut"
-state-abbr: "CT"
+party: Democrat
+chamber: House
+state: Connecticut
+state-abbr: CT
 district: "3"
 committees:
-  - "House Committee on Appropriations"
+  - House Committee on Appropriations
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 top-donors:
-  - "Lockheed Martin"
-  - "AIPAC"
-donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]]"
+  - Lockheed Martin
+  - AIPAC
+donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[Wfp Ie Committee]]"
 related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]] · [[Adam Smith]]"
-total-received: "$689,298"
-fec-candidate-id: "H0CT03072"
+total-received: $689,298
+fec-candidate-id: H0CT03072
 govtrack-id: 400103
 bills-sponsored: 29
 bills-cosponsored: 179
-website: "https://delauro.house.gov"
-phone: "202-225-3661"
+website: https://delauro.house.gov
+phone: 202-225-3661
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "D000216"
+reenrich-reason: re-run congress pipeline
+bioguide-id: D000216
 issues:
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$689,298"
-total-spent: "$675,149"
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: $689,298
+total-spent: $675,149
 cash-on-hand: "239597.33"
 fec-cycle: 2026
-wikidata-id: "Q434952"
-wikipedia-url: "https://en.wikipedia.org/wiki/Rosa_DeLauro"
-wikipedia-extract: "Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party."
+wikidata-id: Q434952
+wikipedia-url: https://en.wikipedia.org/wiki/Rosa_DeLauro
+wikipedia-extract: Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party.
 born: "1943-03-02"
 ---
 

@@ -1,27 +1,20 @@
 ---
-title: "Marc Andreessen & Horowitz"
+title: Marc Andreessen & Horowitz
 type: donor
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "JD Vance"
-  - "Donald Trump"
-  - "Katie Porter"
-  - "David Sacks"
+sector: Tech & Crypto
+entity-type: Individual Donor
+politicians-funded: "[[French Hill]], [[David Sacks]], [[Matt Mahan]], [[Katie Porter]], [[David Sacks (Donor Network)]], [[Donald Trump]], [[JD Vance]]"
 issues:
-  - "Technology"
+  - Technology
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]] · [[Fairshake and the Crypto Industry War]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ro Khanna Master Profile]] · [[Valinor Enterprises]] · [[French Hill]] · [[_JD Vance Master Profile]] · [[The 2024 Tech Billionaire Network]] · [[Peter Thiel]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_David Sacks Master Profile|David Sacks]] · [[Narya Capital]] · [[Bari Weiss]] · [[Nate Silver]] · [[Cryptocurrency Industry]] · [[Think Big AI]] · [[Think Big AI PAC]] · [[Silicon Valley Donors]] · [[Coinbase]] · [[Ben Horowitz]] · [[AI Regulation and Tech Donors]]"
 cross-vault-triangulation-count: 24
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

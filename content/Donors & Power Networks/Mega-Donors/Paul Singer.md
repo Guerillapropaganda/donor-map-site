@@ -1,39 +1,39 @@
 ---
-title: "Paul Singer"
+title: Paul Singer
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
-aliases: ["Paul Singer", "Elliott Management"]
+last-updated: 2026-04-11T00:00:00.000Z
+aliases:
+  - Paul Singer
+  - Elliott Management
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Mike Rogers"
-  - "Michael Whatley"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Michael Whatley]], [[Samuel Alito]], [[Tom Cotton]], [[Mike Rogers]]"
 ein: "272009342"
-annual-revenue: "$53.9M"
-net-assets: "$276.4M"
+annual-revenue: $53.9M
+net-assets: $276.4M
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 total-revenue: 227044787
 total-assets: 172417068
 court-cases: 155
 court-jurisdictions:
-  - "Court of Appeals for the Fifth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Massachusetts"
-  - "District Court, D. South Carolina"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, S.D. Illinois"
-  - "District Court, W.D. Texas"
-  - "United States Bankruptcy Court, M.D. Florida"
+  - Court of Appeals for the Fifth Circuit
+  - District Court, C.D. California
+  - District Court, D. Massachusetts
+  - District Court, D. South Carolina
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. Pennsylvania
+  - District Court, S.D. Illinois
+  - District Court, W.D. Texas
+  - United States Bankruptcy Court, M.D. Florida
 lobbying-spend: 1268033
 lobbying-filings: 104
-total-political-spend: "$16,466,849"
+total-political-spend: $16,466,849
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Winning for Women PAC]] · [[Great Lakes Conservatives Fund]]"
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"

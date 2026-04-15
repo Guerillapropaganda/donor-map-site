@@ -1,16 +1,17 @@
 ---
-title: "Kentuckians for Strong Leadership"
+title: Kentuckians for Strong Leadership
 type: donor
 content-readiness: raw
 editorial-status: stub
-sector: "Political Committees"
-entity-type: "PAC"
-last-updated: 2026-04-14
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-14T00:00:00.000Z
 source-tier: 1
 aliases:
-  - "KENTUCKIANS FOR STRONG LEADERSHIP"
+  - KENTUCKIANS FOR STRONG LEADERSHIP
 known-gaps:
-  - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
+  - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
+politicians-funded: "[[Hillary Clinton]]"
 ---
 
 ## Auto-Created Stub

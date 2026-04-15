@@ -1,59 +1,56 @@
 ---
-title: "MBNA Corporation"
+title: MBNA Corporation
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Joe Biden"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Joe Biden]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ein: 842588790
-annual-revenue: "$0"
-net-assets: "$344"
+annual-revenue: $0
+net-assets: $344
 tax-year: "2020"
-lei: "9SRTZ2L9ZJUILAT91D80"
-lei-jurisdiction: "US"
+lei: 9SRTZ2L9ZJUILAT91D80
+lei-jurisdiction: US
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-11"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 sec-filings: 5981
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "11-K"
-  - "13F-HR"
-  - "15-15D"
+  - 10-K
+  - 10-K/A
+  - 11-K
+  - 13F-HR
+  - 15-15D
   - "4"
-  - "8-A12B"
-  - "8-K"
-  - "EX-10.(MM)"
-  - "EX-10.(NN)"
-  - "EX-13"
-  - "EX-23"
-  - "EX-23.(E)"
-  - "EX-23.C"
-  - "EX-32"
-  - "EX-32.1"
-  - "EX-32.2"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "S-8"
-  - "S-8 POS"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
+  - 8-A12B
+  - 8-K
+  - EX-10.(MM)
+  - EX-10.(NN)
+  - EX-13
+  - EX-23
+  - EX-23.(E)
+  - EX-23.C
+  - EX-32
+  - EX-32.1
+  - EX-32.2
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - S-8
+  - S-8 POS
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
 related: "[[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[_Joe Biden Master Profile|Joe Biden]] · [[Goldman Sachs]] · [[Financial Services Donors]]"
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 occ-enforcement-actions: 4
 occ-active-actions: 4
 occ-charter-numbers:

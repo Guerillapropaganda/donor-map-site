@@ -1,28 +1,26 @@
 ---
-title: "Brett Guthrie"
+title: Brett Guthrie
 type: politician
-bioguide-id: "G000558"
+bioguide-id: G000558
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
+party: Republican
+chamber: House
 district: "2"
 issues:
-  - "Healthcare"
-top-donors:
-  - "PhRMA"
-  - "AbbVie"
-total-received: "$3,143,679"
-fec-candidate-id: "H8KY02031"
+  - Healthcare
+top-donors: "[[AbbVie]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]]"
+total-received: $3,143,679
+fec-candidate-id: H8KY02031
 source-types:
   - FEC
   - GovTrack
 corroboration-count: 2
 known-gaps:
-  - "No legislative record from Congress.gov"
-  - "No mapped relationships"
+  - No legislative record from Congress.gov
+  - No mapped relationships
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AbbVie]]"
 ---
 

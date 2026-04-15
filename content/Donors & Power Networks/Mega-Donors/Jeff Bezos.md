@@ -1,54 +1,52 @@
 ---
-title: "Jeff Bezos"
+title: Jeff Bezos
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 sec-filings: 530
 sec-form-types:
   - "425"
-  - "8-K"
-  - "CORRESP"
-  - "DEF 14C"
-  - "DEFA14A"
-  - "EX-10.11"
-  - "EX-10.15"
-  - "EX-10.16"
-  - "EX-10.8"
-  - "EX-10.9"
-  - "EX-24"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "PRE 14C"
-  - "PX14A6G"
-  - "S-8"
-total-political-spend: "$10,358,971"
-politicians-funded:
-  - "Patty Murray"
-  - "Maria Cantwell"
+  - 8-K
+  - CORRESP
+  - DEF 14C
+  - DEFA14A
+  - EX-10.11
+  - EX-10.15
+  - EX-10.16
+  - EX-10.8
+  - EX-10.9
+  - EX-24
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - PRE 14C
+  - PX14A6G
+  - S-8
+total-political-spend: $10,358,971
+politicians-funded: "[[Maria Cantwell]], [[Patty Murray]]"
 last-enriched: "2026-04-10"
 related: "[[Patty Murray]] · [[Maria Cantwell]] · [[Amazon]] · [[SpaceX]] · [[Mark Zuckerberg]] · [[Elon Musk]]"
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
+  - Energy Department
+  - Federal Energy Regulatory Commission
 court-cases: 842
 court-jurisdictions:
-  - "Court of Appeals for the Eighth Circuit"
-  - "District Court, D. Connecticut"
-  - "District Court, D. Delaware"
-  - "District Court, D. Maryland"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
+  - Court of Appeals for the Eighth Circuit
+  - District Court, D. Connecticut
+  - District Court, D. Delaware
+  - District Court, D. Maryland
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, E.D. New York
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 ---

@@ -1,26 +1,27 @@
 ---
-title: "Harry Reid"
+title: Harry Reid
 type: politician
 content-readiness: ready
-central-thesis: "Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progr..."
-last-updated: 2026-04-13
+central-thesis: Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progr...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-bioguide-id: "R000146"
+party: Democrat
+chamber: Senate
+bioguide-id: R000146
 govtrack-id: 300082
 bills-sponsored: 0
 bills-cosponsored: 0
-total-received: "$4,692,846"
-fec-candidate-id: "S6NV00028"
+total-received: $4,692,846
+fec-candidate-id: S6NV00028
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
+top-donors: "[[National Republican Senatorial Committee]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[AMERICAN CROSSROADS]], [[Crossroads Grassroots Policy Strategies]]"
 ---
 
 

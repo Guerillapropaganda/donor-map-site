@@ -1,31 +1,27 @@
 ---
-title: "Silicon Valley Donors"
+title: Silicon Valley Donors
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
-  - "David Sacks"
+sector: Tech & Crypto
+entity-type: Individual Donor
+politicians-funded: "[[David Sacks (Donor Network)]], [[David Sacks]], [[Mark Warner]], [[Donald Trump]]"
 issues:
-  - "Technology"
+  - Technology
 lobbying-spend: 1258000
 lobbying-filings: 51
 related: "[[Mark Warner]] · [[Jon Ossoff Master Profile]] · [[a16z - Andreessen Horowitz|a16z]] · [[Founders Fund]] · [[Reid Hoffman]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Donald Trump Master Profile|Trump]] · [[_David Sacks Master Profile|David Sacks]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[America PAC - Elon Musk|America PAC]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Tech and Media Donors]] · [[Tech Industry]] · [[Finance and Tech Bundler Network]]"
 ein: "330152369"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 total-revenue: 102333
 total-assets: 12131
 cross-vault-triangulation-count: 17
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

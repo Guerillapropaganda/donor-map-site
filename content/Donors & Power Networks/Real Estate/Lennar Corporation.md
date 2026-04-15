@@ -1,46 +1,43 @@
 ---
-title: "Lennar Corporation"
+title: Lennar Corporation
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Ron DeSantis"
-  - "Donald Trump"
+sector: Real Estate
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Gavin Newsom]], [[Ron DeSantis]]"
 issues:
-  - "Housing"
-  - "Immigration"
-  - "Labor & Workers"
+  - Housing
+  - Immigration
+  - Labor & Workers
 ein: 560946914
-annual-revenue: "$4.0M"
-net-assets: "$22.6M"
+annual-revenue: $4.0M
+net-assets: $22.6M
 tax-year: "2023"
 court-cases: 376
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Arizona"
-  - "District Court, D. Colorado"
-  - "District Court, D. Idaho"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Georgia"
-  - "District Court, S.D. Florida"
-  - "United States Bankruptcy Court, S.D. Texas"
-lei: "529900G61XVRLX5TJX09"
-lei-jurisdiction: "US-DE"
+  - District Court, C.D. California
+  - District Court, D. Arizona
+  - District Court, D. Colorado
+  - District Court, D. Idaho
+  - District Court, E.D. Pennsylvania
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, N.D. Georgia
+  - District Court, S.D. Florida
+  - United States Bankruptcy Court, S.D. Texas
+lei: 529900G61XVRLX5TJX09
+lei-jurisdiction: US-DE
 federal-register-mentions: 7
 regulatory-agencies:
-  - "Environmental Protection Agency"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Interior Department"
-  - "Securities and Exchange Commission"
+  - Environmental Protection Agency
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Interior Department
+  - Securities and Exchange Commission
 related: "[[Housing - Donors and Backers]] · [[National Association of Realtors]] · [[Blackstone Real Estate]] · [[Invitation Homes - Institutional Landlords]] · [[Real Estate Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[_Ron DeSantis Master Profile|Ron DeSantis]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Carlos Gimenez Master Profile|Carlos Gimenez]] · [[Bipartisan Policy Center]]"
 source-types:
   - Courts
@@ -49,8 +46,8 @@ source-types:
   - FederalRegister
 corroboration-count: 4
 known-gaps:
-  - "No SEC corporate filings"
-  - "No lobbying disclosure data"
+  - No SEC corporate filings
+  - No lobbying disclosure data
 lobbying-spend: 0
 lobbying-filings: 8
 cross-vault-triangulation-count: 10

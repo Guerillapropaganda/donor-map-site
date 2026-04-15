@@ -31,19 +31,7 @@ Claude will normalize it on the next visit.
 
 ## open
 
-### bug-005: Enrichment pipeline dark — only 5 of ~25 pipelines running
-- **reported:** 2026-04-15 (Pillar 2b investigation)
-- **severity:** high
-- **where:** `donor-map-engine` repo (external pipeline orchestrator); symptom visible in `content/Vault Maintenance/Auto-Enrichment Log.md` and in the enrichment-history API that feeds the Ops pipeline-health page
-- **what:** Audit of the last 200 `API Enrichment Bot` commits shows only 5 pipelines have been running recently (`gleif`, `lda`, `ofac-sdn`, `propublica`, `stock-watcher`). The commits look normal — `API enrichment: 260 files (gleif:5 lda:7 ofac-sdn:22 propublica:13 stock-watcher:20)` — but the 20+ other pipelines in `ops/src/app/api/enrichment-history/route.ts`'s PIPELINE_LABELS map (congress, govtrack, usaspending, sec-edgar, courtlistener, fara, doj-press, federal-register, nonprofit-990, nhtsa-recalls, sec-litigation, lobbyview, fec, fec-summary, etc.) are SILENT.
-- **specific FEC finding:** `fec-summary` ran exactly 3 times in the last 200 enrichment commits (April 10–11, 2026: `fec-summary:8`, `fec-summary:11`, `fec-summary:19`). Full `fec:N` (Schedule A/E receipts) has **never** appeared in any enrichment commit. This is why 1,098 pre-existing monetary edges in `data/relationships.jsonl` had null `amount` and null `cycle` — the pipeline that was supposed to fill them never ran.
-- **impact:**
-  - Policy donor tables look thin because per-donor amounts aren't in the canonical store (worked around by Pillar 2b.1 body-table migration, but that's a one-time backfill, not a durable fix).
-  - Any non-FEC pipeline that depends on an ID the vault hasn't acquired (e.g. `fec-candidate-id` missing on 546 of 730 politicians) stays empty.
-  - Enrichment-history dashboard shows inflated "files changed" counts that don't reflect actual work (the counts include pending-merge log additions, not real vault mutations).
-- **root cause:** Unknown — must be diagnosed in the `donor-map-engine` repo. Suspects: (1) env config dropping pipeline entries, (2) silent per-pipeline failures swallowed by the orchestrator, (3) a quiet commit that shrank the default pipeline list after April 11.
-- **workaround:** None in this repo. Pillar 2b body-table migration extracted the amounts the `fec-summary` pipeline DID emit (in April) into the canonical store. Future enrichment data requires the pipelines to actually run.
-- **next step:** Diagnose in `donor-map-engine` — look at recent commits + orchestrator config + per-run logs. Once fixed, the new FEC Committee Registry (`data/fec-committee-registry.json` + `scripts/lib/fec-committee-registry.cjs`) should be plumbed into the `fec-summary` pipeline so it writes both body tables AND structured edges via `upsertEdges()` on the same run.
+*(no open bugs — all clear)*
 
 ---
 
@@ -68,6 +56,21 @@ Claude will normalize it on the next visit.
   - [phase-2.5-setup.md § Recovery from Clerk lockout](./phase-2.5-setup.md) documents all three recovery paths
   - 21 auth smoke tests wired into pre-commit sentinel #9 + CI job to lock the architecture in place
 - **long-term:** upgrade Clerk from dev-mode to production (~$25/mo) before public launch. Pre-launch checklist item, not foundation-phase blocker.
+
+### bug-005: Enrichment pipeline dark — only 5 of ~25 pipelines running
+- **reported:** 2026-04-15
+- **resolved:** 2026-04-15 (this session)
+- **severity:** high
+- **root cause:** All 25+ pipelines were in a single api-enrichment.yml step with a 30-minute job timeout. Launched in parallel, most pipelines were killed by the timeout before completing. LDA additionally had a dead auth token (lda.senate.gov → lda.gov migration).
+- **fix:** Redesigned orchestration into 5 batch workflows in `donor-map-engine`:
+  - `batch1-bulk.yml` — ofac-sdn, stock-watcher, gleif, nhtsa-recalls (every 6 hrs, parallel, 25 min timeout)
+  - `batch2-fecapi.yml` — fec, fec-summary, ftc, occ, fda (twice daily, SEQUENTIAL to avoid shared api.data.gov rate limit, 55 min timeout)
+  - `batch3-congress.yml` — congress, committee, usaspending, sam, govtrack (twice daily, parallel)
+  - `batch4-independent-gov.yml` — fara, federal-register, epa-echo, osha, courtlistener, voting-record, executive-orders, lobbying-contrib (twice daily, parallel)
+  - `batch5-corporate.yml` — sec-edgar, propublica, nonprofit-990, opensanctions, wikipedia, fcc, public-accountability (once daily, parallel)
+  - `api-enrichment.yml` — removed all schedules, now manual-only for debugging
+  - LDA disabled: `api-config.cjs` lda entry set `disabled: true`, CSV import planned post-June 2026 migration
+- **next:** FEC pipeline should write structured edges via `upsertEdges()` (open item for next session)
 
 ### bug-002: HTTP 401 on /query page Entities tab
 - **reported:** 2026-04-15
