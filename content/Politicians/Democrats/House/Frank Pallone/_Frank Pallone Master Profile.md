@@ -31,7 +31,7 @@ top-donors:
   - PhRMA
 total-received: $1,311,209
 fec-candidate-id: H8NJ03073
-donors: "[[UAW - United Auto Workers]] · [[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[FREEDOM'S DEFENSE FUND]] · [[FOCUS ON THE FAMILY ACTION]] · [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]] · [[NEW JERSEY FAMILY FIRST INC]]"
+donors: "[[UAW - United Auto Workers]] · [[AFGE - American Federation of Government Employees]] · [[AIPAC - American Israel Public Affairs Committee]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[FREEDOM'S DEFENSE FUND]] · [[FOCUS ON THE FAMILY ACTION]] · [[FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE]] · [[NEW JERSEY FAMILY FIRST INC]] · [[Family Research Council Action Political Action Committee]] · [[Freedom's Defense Fund]] · [[American College of Radiology Association PAC]] · [[Focus on the Family Action]] · [[New Jersey Family First INC]] · [[Pfizer]] · [[PhRMA]]"
 related: ">- · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Rosa DeLauro]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true

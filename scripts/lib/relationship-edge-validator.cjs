@@ -615,6 +615,29 @@ function buildTitleIndex(contentRoot) {
     // Aliases are added as weaker index entries (they lose to real titles
     // in a collision). Entry.aliasOf points back to the canonical title
     // so callers can report the resolution.
+    // Implicit filename alias: if the file basename (after stripping "_"
+    // prefix and " Master Profile" suffix) differs from the title, register
+    // it as a weaker alias. Rationale: profiles like Pfizer.md have
+    // title: "Pfizer Inc." but the vault wikilinks use [[Pfizer]]. Without
+    // this, every such wikilink resolves as dangling even though the file
+    // exists. Part of the 2026-04-15 dangling-wikilink fix.
+    const baseName = normalizeTitle(path.basename(filePath, '.md'));
+    if (baseName && baseName !== title) {
+      const aliasEntry = { ...entry, aliasOf: title };
+      if (index.has(baseName)) {
+        const existing = index.get(baseName);
+        if (!Array.isArray(existing) && !existing.aliasOf) {
+          // real title wins — skip
+        } else if (Array.isArray(existing)) {
+          if (!existing.some((e) => !e.aliasOf)) existing.push(aliasEntry);
+        } else {
+          index.set(baseName, [existing, aliasEntry]);
+        }
+      } else {
+        index.set(baseName, aliasEntry);
+      }
+    }
+
     const aliases = Array.isArray(data.aliases)
       ? data.aliases
       : typeof data.aliases === 'string'

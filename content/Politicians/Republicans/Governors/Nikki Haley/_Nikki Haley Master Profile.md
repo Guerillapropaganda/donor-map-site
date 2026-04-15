@@ -25,7 +25,7 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
-donors: "[[Americans for Prosperity]] · [[Jan Koum]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Kenneth Griffin]] · [[Sfa Fund, Inc]] · [[Fossil Fuel Bloc]] · [[NEVER BACK DOWN INC.]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[Adelson Family]] · [[Koch Network - Charles Koch]] · [[FIGHT RIGHT INC]]"
+donors: "[[Americans for Prosperity]] · [[Jan Koum]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Kenneth Griffin]] · [[Sfa Fund, Inc]] · [[Fossil Fuel Bloc]] · [[NEVER BACK DOWN INC.]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[Adelson Family]] · [[Koch Network - Charles Koch]] · [[FIGHT RIGHT INC]] · [[Never Back Down Inc.]]"
 ---
 
 <!-- auto:data-panel start -->

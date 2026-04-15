@@ -13,7 +13,7 @@ state-abbr: NH
 committees:
   - Foreign Relations
   - Armed Services
-top-donors: "[[INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[National Republican Senatorial Committee]], [[AMERICAN CROSSROADS]], [[BAE Systems]], [[Northrop Grumman]], [[ENDING SPENDING ACTION FUND]], [[Defense Industry]], [[COUNCIL FOR AMERICAN JOB GROWTH]]"
+top-donors: "[[INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[National Republican Senatorial Committee]], [[AMERICAN CROSSROADS]], [[BAE Systems]], [[Northrop Grumman]], [[ENDING SPENDING ACTION FUND]], [[Defense Industry]], [[COUNCIL FOR AMERICAN JOB GROWTH]], [[Independent Leadership for New Hampshire PAC]], [[American Crossroads]], [[Council for American Job Growth]]"
 stock-trades: 3
 total-received: $2,658,242
 fec-candidate-id: S0NH00219

@@ -29,7 +29,7 @@ issues:
   - Finance and Financial Sector
 total-received: $1,274,233
 fec-candidate-id: H4CA16049
-donors: "[[Tech Industry]] · [[Google - Alphabet]] · [[Courage California Super Pac]] · [[RESOLUTE COURAGE PAC]] · [[OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR]] · [[CENTRAL COAST VALUES PAC]] · [[SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE]]"
+donors: "[[Tech Industry]] · [[Google - Alphabet]] · [[Courage California Super Pac]] · [[RESOLUTE COURAGE PAC]] · [[OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR]] · [[CENTRAL COAST VALUES PAC]] · [[SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE]] · [[Central Coast Values PAC]] · [[Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and Public and Pr]] · [[San Benito County Democratic Central Committee]] · [[Resolute Courage PAC]]"
 related: "[[Brian Babin]] · [[_Donald Trump Master Profile|Trump]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true

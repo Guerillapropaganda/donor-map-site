@@ -9,31 +9,31 @@ generator: scripts/migrate-frontmatter-delta.cjs
 
 # Frontmatter Delta Migration Report
 
-Generated: 2026-04-15T04:22:36.023Z
-Mode: WRITE
+Generated: 2026-04-15T20:24:56.042Z
+Mode: **DRY RUN** (no files written)
 
 Re-scans vault frontmatter for relationship fields and upserts edges into `data/relationships.jsonl`. Unlike the original Phase 3 Part 1 migration, this script uses `relationships-store.upsertEdges()` to MERGE with existing edges, preserving all non-frontmatter sources (pipelines, manual-ops, etc.).
 
 ## Summary
 
-- Profiles scanned: 2564
-- Profiles with relationships: 1399
-- Raw wikilink targets: 16757
-- Edge candidates built: 16097
-- Skipped (missing target): 654
+- Profiles scanned: 2849
+- Profiles with relationships: 1765
+- Raw wikilink targets: 19075
+- Edge candidates built: 18736
+- Skipped (missing target): 334
 - Skipped (missing source): 0
 - Skipped (collision): 0
-- Skipped (self-link): 6
+- Skipped (self-link): 5
 
 ## By field
 
 | Field | Edges built |
 |---|---:|
-| `related` | 14644 |
-| `politicians-funded` | 713 |
-| `top-donors` | 343 |
-| `donors` | 253 |
-| `opposes` | 114 |
+| `related` | 14972 |
+| `donors` | 1576 |
+| `politicians-funded` | 1423 |
+| `top-donors` | 602 |
+| `opposes` | 133 |
 | `stories` | 17 |
 | `politicians-opposed` | 13 |
 
@@ -41,20 +41,10 @@ Re-scans vault frontmatter for relationship fields and upserts edges into `data/
 
 | Type | Edges built |
 |---|---:|
-| `related` | 14644 |
-| `monetary` | 1309 |
-| `political-opposition` | 127 |
+| `related` | 14972 |
+| `monetary` | 3601 |
+| `political-opposition` | 146 |
 | `story-link` | 17 |
-
-## Applied to canonical store
-
-- Edges before: 27594
-- Edges after: 30213
-- Net new: **+2619**
-- upsertEdges added: 2619
-- upsertEdges updated: 13146
-- upsertEdges skipped (no-change): 332
-- upsertEdges invalid: 0
 
 ## Top missing targets (wikilinks with no matching profile)
 
@@ -62,26 +52,26 @@ These are wikilinks in frontmatter that don't resolve to any profile in the titl
 
 | Target | Referenced by N profiles |
 |---|---:|
-| PhRMA | 41 |
-| AIPAC | 26 |
-| Raytheon (RTX) | 25 |
-| Media Pipeline Framework | 25 |
-| GEO Group | 18 |
-| Pfizer | 18 |
-| EMILY's List | 9 |
-| Lobbying Firms Framework | 9 |
-| Blackstone | 9 |
-| Jeff Yass | 8 |
-| VAULT_INDEX | 8 |
-| Think Tank Framework | 8 |
+| AIPAC | 22 |
+| EMILY's List | 8 |
 | Fox Corp - Rupert Murdoch | 8 |
-| Wilks Brothers | 8 |
-| United Democracy Project | 7 |
-| Raytheon | 6 |
-| AT&T - WarnerMedia | 6 |
-| Fairshake PAC - Crypto Super PAC | 6 |
 | [] | 6 |
-| Helms-Burton Title III and the Bacardi Trademark Wars | 5 |
+| Ripple Labs | 5 |
+| United Democracy Project | 5 |
+| SENATE LEADERSHIP FUND | 4 |
+| America First Legal | 3 |
+| Koch - Koch Industries | 3 |
+| Small Dollar Donors (ActBlue) | 3 |
+| SEIU | 3 |
+| How Money Captures Media — The Donor Map Media Pipeline | 3 |
+| Donna Edwards | 2 |
+| Marc Andreessen | 2 |
+| Restaurant & Food Industry | 2 |
+| Haley Stevens | 2 |
+| GENIUS Act | 2 |
+| Comcast Corporation | 2 |
+| First Look Media | 2 |
+| Real Estate Donors | 2 |
 
 ---
 

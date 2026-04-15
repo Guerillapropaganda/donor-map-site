@@ -23,7 +23,7 @@ bills-sponsored: 14
 bills-cosponsored: 355
 website: https://benniethompson.house.gov
 phone: 202-225-5876
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[UNITE HERE TIP CAMPAIGN COMMITTEE]] · [[LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.]] · [[NARAL Pro-Choice America]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[UNITE HERE TIP CAMPAIGN COMMITTEE]] · [[LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.]] · [[NARAL Pro-Choice America]] · [[Unite Here Tip Campaign Committee]] · [[Laborers' Political League-Laborers' International Union of N.a.]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline

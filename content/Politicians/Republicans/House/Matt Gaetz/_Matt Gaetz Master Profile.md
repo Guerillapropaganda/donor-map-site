@@ -11,7 +11,7 @@ chamber: House
 state: Florida
 state-abbr: FL
 district: "1"
-top-donors: "[[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]], [[CITIZEN SUPER PAC]], [[FLORIDA CONSERVATIVE FUND]]"
+top-donors: "[[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]], [[CITIZEN SUPER PAC]], [[FLORIDA CONSERVATIVE FUND]], [[Florida Conservative Fund]], [[Citizen Super PAC]], [[Protect Freedom Political Action Committee]]"
 total-received: $6,772,979
 fec-candidate-id: H6FL01119
 bioguide-id: G000578

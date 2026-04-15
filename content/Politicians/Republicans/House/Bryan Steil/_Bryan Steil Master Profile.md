@@ -26,7 +26,7 @@ top-donors:
   - Koch Network
 total-received: $3,443,146
 fec-candidate-id: H8WI01156
-donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]] · [[MIDWEST GROWTH PAC]]"
+donors: "[[Insurance Industry]] · [[Stand Together]] · [[National Restaurant Association]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Koch Network]] · [[FAIRSHAKE]] · [[HMP]] · [[MIDWEST GROWTH PAC]] · [[Midwest Growth PAC]] · [[Koch network]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline

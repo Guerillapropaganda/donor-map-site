@@ -20,7 +20,7 @@ source-types:
   - GovTrack
 corroboration-count: 3
 central-thesis: Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned.
-top-donors: "[[COPS VOTER GUIDE INC.]], [[ONE NATION UNITED]], [[DELIVERING FOR CALIFORNIA]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]]"
+top-donors: "[[COPS VOTER GUIDE INC.]], [[ONE NATION UNITED]], [[DELIVERING FOR CALIFORNIA]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]], [[Cops Voter Guide Inc.]], [[One Nation United]], [[English Language Political Action Committee]], [[Humane Society Legislative Fund]], [[Delivering for California]]"
 bills-sponsored: 2211
 bills-cosponsored: 6727
 known-gaps:

@@ -7,6 +7,11 @@ source-tier: 2
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
+aliases:
+  - "Raytheon"
+  - "Raytheon Technologies"
+  - "Raytheon (RTX)"
+  - "RTX Corporation"
 featured-date: "2026-04-10"
 spotlight-reason: Highest reach in the database , funds 22 politicians across both parties. Board members cycle through Pentagon leadership. Defense budget hit $886B.
 shareable-stat: 22 politicians funded. Board-to-Pentagon pipeline. $886B defense budget.

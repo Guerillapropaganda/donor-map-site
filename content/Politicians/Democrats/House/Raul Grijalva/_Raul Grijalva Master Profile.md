@@ -31,7 +31,7 @@ fec-candidate-id: H2AZ07070
 govtrack-id: 400162
 bills-sponsored: 2
 bills-cosponsored: 122
-donors: "[[National Nurses United]], [[MOVEON.ORG POLITICAL ACTION]], [[CAMPAIGN FOR COMMUNITY CHANGE]], [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]], [[AMERICANS FOR TAX REFORM]], [[WORKING FAMILIES PARTY PAC]]"
+donors: "[[National Nurses United]], [[MOVEON.ORG POLITICAL ACTION]], [[CAMPAIGN FOR COMMUNITY CHANGE]], [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]], [[AMERICANS FOR TAX REFORM]], [[WORKING FAMILIES PARTY PAC]], [[Campaign for Community Change]], [[MoveOn.org Political Action]], [[Working Families Party PAC]]"
 opposes: "[[AMERICANS FOR TAX REFORM]]"
 related: "[[_Bruce Westerman Master Profile|Bruce Westerman]]"
 needs-reenrichment: true

@@ -278,11 +278,20 @@ function main() {
           )
           continue
         }
+        let toProfile
         if (Array.isArray(toIndexEntry)) {
-          stats.skippedCollisionAmbiguous++
-          continue
+          // buildTitleIndex already sorts by priority (politician > entity >
+          // story > archived). Pick the first non-alias entry if present,
+          // otherwise the first entry. Previously we skipped ambiguous
+          // collisions entirely, which left hundreds of edges orphaned for
+          // every profile-dupe pair (Blackstone, Meta, Raytheon, GEO Group,
+          // Pfizer, etc.). Priority disambiguation restores those edges.
+          const realEntries = toIndexEntry.filter((e) => !e.aliasOf)
+          toProfile = realEntries[0] || toIndexEntry[0]
+          stats.collisionResolvedByPriority = (stats.collisionResolvedByPriority || 0) + 1
+        } else {
+          toProfile = toIndexEntry
         }
-        const toProfile = toIndexEntry
 
         let edgeFromTitle, edgeFromProfile, edgeToTitle, edgeToProfile
         if (mapping.direction === "outgoing") {

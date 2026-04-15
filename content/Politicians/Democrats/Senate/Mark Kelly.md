@@ -13,7 +13,7 @@ fec-candidate-id: S0AZ00350
 last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-donors: "[[Ken Griffin]] · [[CA Farm Bureau Federation]] · [[NRSC]] · [[CLUB FOR GROWTH ACTION]] · [[Senate Leadership Fund]] · [[DEFENDARIZONA]] · [[The Sentinel Action Fund]]"
+donors: "[[Ken Griffin]] · [[CA Farm Bureau Federation]] · [[NRSC]] · [[CLUB FOR GROWTH ACTION]] · [[Senate Leadership Fund]] · [[DEFENDARIZONA]] · [[The Sentinel Action Fund]] · [[DefendArizona]]"
 related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Boeing]]"
 opposes: "[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH ACTION]] · [[THE SENTINEL ACTION FUND]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

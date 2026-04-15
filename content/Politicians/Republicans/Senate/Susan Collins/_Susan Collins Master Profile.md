@@ -35,7 +35,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[WOMEN VOTE!]] · [[DSCC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[SMP]]"
+donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[WOMEN VOTE!]] · [[DSCC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[SMP]] · [[Blackstone]]"
 ---
 
 <!-- auto:data-panel start -->

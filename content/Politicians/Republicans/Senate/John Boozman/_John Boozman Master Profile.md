@@ -19,7 +19,7 @@ issues:
 stock-trades: 43
 total-received: $335,864
 fec-candidate-id: S0AR00150
-donors: "[[Walmart - Walton Family]] · [[Tyson Foods]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ACTION FUND INC]]"
+donors: "[[Walmart - Walton Family]] · [[Tyson Foods]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Planned Parenthood Action Fund INC]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Glenn Thompson Master Profile|Glenn Thompson]] · [[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

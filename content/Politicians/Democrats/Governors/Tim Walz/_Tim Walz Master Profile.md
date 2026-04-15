@@ -12,7 +12,7 @@ state: Minnesota
 state-abbr: MN
 total-received: $113,151
 fec-candidate-id: H6MN01174
-donors: "[[Democracy Alliance]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[SEIU COPE]], [[BLUEGREEN ALLIANCE]], [[FREEDOM CLUB FEDERAL PAC]]"
+donors: "[[Democracy Alliance]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[SEIU COPE]], [[BLUEGREEN ALLIANCE]], [[FREEDOM CLUB FEDERAL PAC]], [[Freedom Club Federal PAC]], [[Bluegreen Alliance]]"
 wikidata-id: Q2434360
 last-enriched: "2026-04-15"
 needs-reenrichment: true

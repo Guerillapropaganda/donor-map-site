@@ -11,7 +11,7 @@ chamber: House
 state: Georgia
 state-abbr: GA
 district: "14"
-top-donors: "[[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[THE LINCOLN PROJECT]], [[A GREAT AMERICA PAC]], [[DRAIN THE DC SWAMP PAC]]"
+top-donors: "[[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[THE LINCOLN PROJECT]], [[A GREAT AMERICA PAC]], [[DRAIN THE DC SWAMP PAC]], [[A Great America PAC]], [[The Lincoln Project]], [[Drain the DC Swamp PAC]]"
 fec-candidate-id: H0GA06192
 source-types:
   - FEC

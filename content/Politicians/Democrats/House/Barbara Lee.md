@@ -13,7 +13,7 @@ fec-candidate-id: H8CA09060
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Courage California Super Pac]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[KUCINICH ACTION PAC]]"
+donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Courage California Super Pac]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[KUCINICH ACTION PAC]] · [[Kucinich Action PAC]] · [[Together We Thrive]] · [[Sandre Swanson for Assembly 2010]] · [[Care Action]]"
 bioguide-id: L000551
 govtrack-id: 400237
 bills-sponsored: 604
