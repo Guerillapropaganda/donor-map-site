@@ -27,6 +27,8 @@ regulatory-agencies:
   - "Federal Trade Commission"
   - "Fish and Wildlife Service"
   - "Interior Department"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #wall-street #corporate-democrat #anti-progressive #class-analysis

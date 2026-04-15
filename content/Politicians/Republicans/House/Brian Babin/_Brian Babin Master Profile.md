@@ -30,6 +30,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Donald Trump Master Profile|Trump]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

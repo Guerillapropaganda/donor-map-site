@@ -23,6 +23,7 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

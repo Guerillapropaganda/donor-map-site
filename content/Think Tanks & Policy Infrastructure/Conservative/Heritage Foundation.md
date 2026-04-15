@@ -63,6 +63,8 @@ sec-form-types:
   - SC 13G
 lobbying-spend: 1622000
 lobbying-filings: 57
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #conservative #project-2025 #dark-money #revolving-door #idea-laundering #regulatory-capture #judicial-pipeline #501c3

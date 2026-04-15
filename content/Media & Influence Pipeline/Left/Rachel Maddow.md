@@ -10,6 +10,10 @@ platform: multi-platform
 related: "[[Pod Save America]] · [[Sam Seder]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[Briahna Joy Gray]] · [[Kyle Kulinski]] · [[TYT Network - The Young Turks]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Cenk Uygur]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Ana Kasparian]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]] · [[Sean Hannity]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]]"
 opposes: "[[Laura Ingraham]]"
 donors: "[]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #left #cable-news #msnbc #corporate-media #russiagate #dnc-alignment #class-analysis

@@ -37,6 +37,9 @@ court-jurisdictions:
   - United States Bankruptcy Court, D. Delaware
   - United States Judicial Panel on Multidistrict Litigation
 related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Debbie Stabenow]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

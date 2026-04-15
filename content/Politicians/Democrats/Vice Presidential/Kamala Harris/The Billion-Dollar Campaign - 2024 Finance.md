@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Kamala Harris Master Profile]]
 related: "[[The Biden Exit and Harris Installation]] · [[_Kamala Harris Master Profile]] · [[_Donald Trump Master Profile]] · [[The Prosecutor Record - DA and AG]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #harris #2024 #campaign-finance #class-analysis #follow-the-money #donor-class #bundlers #super-pac #dark-money #tech #hollywood #wall-street
 

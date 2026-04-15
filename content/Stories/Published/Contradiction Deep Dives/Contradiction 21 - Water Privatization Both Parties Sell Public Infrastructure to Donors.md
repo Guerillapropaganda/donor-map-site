@@ -8,6 +8,10 @@ parent: null
 issues:
   - "Infrastructure"
 related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #contradiction #water #privatization #infrastructure #class-analysis
 

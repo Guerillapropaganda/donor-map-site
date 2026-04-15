@@ -38,6 +38,7 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
 last-enriched: "2026-04-10"
 bioguide-id: "C001095"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -8,6 +8,10 @@ source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
 related: "[[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Corporate PAC Pledge and Its Limits]] · [[Dick Durbin]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Fairshake PAC]]"
 donors: "[[Illinois Future PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #politician #democrat #senate #illinois #2026-candidate #black-woman-senator
 tags: #democrat

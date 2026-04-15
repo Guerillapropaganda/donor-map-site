@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: "_Melissa Bean Master Profile"
 related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[_Melissa Bean Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[AIPAC Illinois Shell PAC Operation]] · [[Think Big AI PAC and AI Policy Alignment]] · [[Melissa Bean's Corporate Background]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #aipac #shell-pac #dark-money #2026-election #illinois #il-8 #bean #class-analysis #follow-the-money #disclosure-evasion
 

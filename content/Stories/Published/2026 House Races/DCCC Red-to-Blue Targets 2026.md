@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[2026 House Money Map]] · [[California Razor-Thin Districts 2026]] · [[GOP House Defense 2026]] · [[House Majority PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #house #race-frame #dccc #red-to-blue #offensive-strategy
 

@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
 related: "[[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Doug Collins]] · [[_Donald Trump Master Profile]] · [[_Pete Hegseth Master Profile|Pete Hegseth]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[General Dynamics]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #military #defense #veterans #VA #policy-node
 

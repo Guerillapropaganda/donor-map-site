@@ -25,6 +25,7 @@ known-gaps:
 last-enriched: "2026-04-10"
 total-received: $280,886
 fec-candidate-id: H4NY16087
+urls-first-triaged: "2026-04-15"
 ---
 
 

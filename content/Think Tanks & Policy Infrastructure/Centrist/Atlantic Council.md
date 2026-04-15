@@ -20,6 +20,8 @@ regulatory-agencies:
   - "Occupational Safety and Health Administration"
 lei: "213800383E8Z6FGMAH59"
 lei-jurisdiction: "GB"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #NATO #defense-industry #foreign-government-funding #DFRLab #Burisma #class-analysis

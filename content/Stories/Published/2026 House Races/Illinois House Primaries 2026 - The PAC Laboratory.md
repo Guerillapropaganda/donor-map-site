@@ -9,6 +9,10 @@ issues:
   - "Israel & Foreign Policy"
   - "Technology"
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[AIPAC Illinois Shell PAC Operation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[2026 House Money Map]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]] · [[Adelson 250M Republican Kingmaker Pledge]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #house #illinois #race-frame #aipac #crypto #ai-pac #primary
 

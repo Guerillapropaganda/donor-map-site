@@ -13,6 +13,10 @@ issues:
 related: "[[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Nancy Pelosi Master Profile]] · [[_Kevin McCarthy Master Profile]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money Different Caucuses]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Harris-Newsom Donor Class Fracture]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[2028 Presidential Landscape]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[Illinois 2026 Senate Race]] · [[Georgia 2026 Senate Race]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #pelosi #mccarthy #both-sides #donor-class #defense #stock-trading #dark-money #israel #class-analysis #follow-the-money #california #house-speakers
 

@@ -49,6 +49,8 @@ sec-form-types:
   - PX14A6G
   - PX14A6N
   - SC 13D/A
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #conservative #neoconservative #defense-policy #climate-denial #revolving-door #dark-money #deregulation #tax-policy

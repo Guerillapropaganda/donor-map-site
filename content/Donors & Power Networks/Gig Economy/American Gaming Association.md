@@ -38,6 +38,9 @@ sec-form-types:
 related: "[[Sports Gambling Industry State Capture]] · [[Steve Scalise]] · [[Jason Smith]] · [[Glenn Thompson]] · [[Bennie Thompson]] · [[National Association of Manufacturers]] · [[Adam Smith]] · [[Blue Shield of California]] · [[Miriam Adelson]] · [[Sheldon Adelson]] · [[Las Vegas Sands]] · [[MGM Resorts International]] · [[Caesars Entertainment]] · [[Haim Saban]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Anthem - Elevance Health]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Susan Collins]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

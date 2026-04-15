@@ -36,6 +36,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
 donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[WOMEN VOTE!]] · [[DSCC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[SMP]] · [[Blackstone]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

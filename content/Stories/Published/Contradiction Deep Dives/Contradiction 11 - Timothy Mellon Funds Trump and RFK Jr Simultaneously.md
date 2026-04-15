@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Timothy Mellon|Timothy Mellon]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #timothy-mellon #trump #rfk #spoiler #class-analysis
 tags: #analysis #story

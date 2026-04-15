@@ -27,6 +27,7 @@ stock-trade-tickers:
   - "VFC"
   - "APC"
   - "NVS"
+urls-first-triaged: "2026-04-15"
 ---
 
 

@@ -8,6 +8,10 @@ parent: [[_Lee Zeldin Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Lee Zeldin Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #lee-zeldin #fossil-fuels #leonard-leo #crc-advisors #koch #op-eds #dark-money #class-analysis
 

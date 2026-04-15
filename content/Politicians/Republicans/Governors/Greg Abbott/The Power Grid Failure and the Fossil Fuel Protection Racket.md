@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Greg Abbott Master Profile]]
 related: "[[_Greg Abbott Master Profile]] · [[Kelcy Warren - Energy Transfer Partners]] · [[Fossil Fuel Bloc]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #abbott #texas #grid-failure #ercot #fossil-fuel #deregulation #deaths #infrastructure #class-analysis
 

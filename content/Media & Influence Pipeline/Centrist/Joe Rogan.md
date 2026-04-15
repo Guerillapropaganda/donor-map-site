@@ -10,6 +10,10 @@ platform: multi-platform
 related: "[[Peter Thiel]] · [[Elon Musk]] · [[Marc Andreessen and a16z]] · [[Founders Fund]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Nate Silver]] · [[Glenn Greenwald]] · [[Dan Bongino]] · [[Rumble]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Jimmy Dore]] · [[Dave Rubin]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #audience-capture #independence-theater #centrist-laundering #climate-denial #covid-misinformation #spotify #ufc

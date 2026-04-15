@@ -7,6 +7,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[Ohio 2026 Governor Race - The Structural Landscape]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile]] · [[Jeff Yass]] · [[Peter Thiel]] · [[EMILY's List]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #ohio #governor-2026 #acton #ramaswamy #donor-analysis #class-analysis #follow-the-money
 

@@ -8,6 +8,10 @@ source-url: "https://thehill.com/homenews/5830139-watch-live-johnson-jeffries-ho
 profiles:
   - "Hakeem Jeffries"
   - "Mike Johnson"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

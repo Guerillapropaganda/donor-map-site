@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
 related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Joe Manchin Master Profile]] · [[Fossil Fuel Bloc]] · [[The Endorsement Economy - Courage to Change PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #aoc #green-new-deal #climate #ira #inflation-reduction-act #fossil-fuels #class-analysis #legislation #manchin
 

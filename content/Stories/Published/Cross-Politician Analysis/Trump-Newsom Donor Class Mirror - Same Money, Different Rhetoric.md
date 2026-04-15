@@ -12,6 +12,10 @@ issues:
   - "Immigration"
   - "Dark Money & Campaign Finance"
 related: "[[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Harris-Newsom Donor Class Fracture]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]] · [[Adelson 250M Republican Kingmaker Pledge]] · [[Georgia 2026 Senate Race]] · [[New York House Races 2026]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #newsom #both-sides #donor-class #gig-economy #pharma #israel #housing #immigration #dark-money #class-analysis #follow-the-money
 

@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 2
 parent: [[_Matt Mahan Master Profile]]
 related: "[[Tech Industry Policy Alignment and the Billionaire Tax Fight]] · [[From Causes to Governor - The Tech Career to Politics Pipeline]] · [[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #matt-mahan #silicon-valley #billionaires #tech-donors #class-analysis #follow-the-money
 

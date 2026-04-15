@@ -8,6 +8,10 @@ parent: [[_Scott Bessent Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Scott Bessent Master Profile]] · [[Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #scott-bessent #deregulation #wall-street #3-3-3 #treasury #class-analysis #follow-the-money
 

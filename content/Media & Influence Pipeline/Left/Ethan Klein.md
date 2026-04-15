@@ -8,6 +8,10 @@ parent: null
 category: left
 platform: multi-platform
 related: "[[Google - Alphabet|Google / YouTube]] · [[Silicon Valley Democratic Donor Network]] · [[Briahna Joy Gray]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #left #youtube #podcast #platform-dependency #audience-capture #independence-theater

@@ -6,6 +6,10 @@ last-updated: 2026-04-11
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
 related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[Jared Kushner Master Profile]] · [[Visa Programs - Anti-Immigration Rhetoric Meets Tech Donor Needs]] · [[The Wall Contractor Money - Who Got Paid to Build What]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Operation Lone Star and the Border Militarization Spending Machine]] · [[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]] · [[Securus Technologies - Aventiv]] · [[Peter Thiel]] · [[Timothy Mellon]] · [[Project 2025 - The Blueprint They Followed]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[UNITE HERE]] · [[Agricultural Labor Vulnerability Donors]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #immigration #detention #deportation #class-analysis #follow-the-money #GEO-Group #[[CoreCivic|CoreCivic]] #ICE #private-prisons #labor-suppression
 

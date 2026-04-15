@@ -21,6 +21,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] · [[_Lee Zeldin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]]"
 donors: "[[Ruralvote.org]], [[Best of America PAC]], [[PRIORITIES USA ACTION]], [[Harold Hamm]], [[Koch Network - Charles Koch]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

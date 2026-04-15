@@ -13,6 +13,10 @@ known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-09"
 related: "[[Media and Propaganda - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Trump Donor Network - The Full Map]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #media #propaganda #fox-news #murdoch #donors #in-kind-contribution #follow-the-money #research-node
 

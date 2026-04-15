@@ -28,6 +28,7 @@ tax-year: "2023"
 related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Rent Control - Props 10, 21, and 33]] · [[Supply-Side Framework - Who It Helps]] · [[3.5 Million Units - Broken Promise]]"
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

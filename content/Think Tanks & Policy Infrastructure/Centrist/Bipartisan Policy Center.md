@@ -38,6 +38,8 @@ fara-status: "registrant"
 fara-records: 3
 fara-countries:
   - "NORWAY"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #bipartisan #energy #healthcare #housing #immigration #governance #class-analysis

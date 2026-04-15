@@ -9,6 +9,9 @@ parent: null
 issues:
   - "Technology"
 related: "[[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[Sherrod Brown]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Intra-Republican Contradiction Map]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #investigation #contradiction #crypto #fairshake #both-sides #bipartisan-capture #class-analysis
 tags: #analysis #story

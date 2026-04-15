@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Matt Gaetz Master Profile]]
 related: "[[_Matt Gaetz Master Profile]] · [[Kevin McCarthy]] · [[Freedom Caucus]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #matt-gaetz #kevin-mccarthy #motion-to-vacate #freedom-caucus #institutional-destruction #speaker #class-analysis #house-dysfunction
 

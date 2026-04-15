@@ -11,6 +11,10 @@ issues:
 related: "[[How Committee Jurisdiction Drives Fundraising]] · [[Blackstone Group]] · [[Apollo Global Management]] · [[Hedge Fund Industry Bloc]] · [[Private Equity Industry Bloc]]"
 source-types:
   - Congress
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #carried-interest #private-equity #wall-street #tax #loophole #bipartisan #lobbying
 

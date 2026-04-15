@@ -12,4 +12,8 @@ fec-ie-support: $18,062
 fec-ie-oppose: null
 politicians-funded: "[[Sherrod Brown]]"
 related: "[[Sherrod Brown]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---

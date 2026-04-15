@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Mike Lawler Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #lawler #new-york #swing-district #israel #aipac #foreign-affairs #suburban
 

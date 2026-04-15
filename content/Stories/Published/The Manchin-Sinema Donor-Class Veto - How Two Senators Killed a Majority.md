@@ -14,6 +14,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Joe Manchin Master Profile]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #manchin #sinema #donor-capture #class-analysis #senate #50-50 #carried-interest #fossil-fuel #pharma #filibuster
 

@@ -35,6 +35,9 @@ tax-year: "2023"
 wikidata-id: "Q1771871"
 wikipedia-url: "https://en.wikipedia.org/wiki/Gun_Owners_of_America"
 wikipedia-extract: "Gun Owners of America (GOA) is a gun rights organization in the United States. It makes efforts to differentiate itself from the larger National Rifle Association (NRA) and has publicly criticized the..."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

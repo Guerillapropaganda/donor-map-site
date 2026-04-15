@@ -12,4 +12,8 @@ fec-ie-support: $2,927,408
 fec-ie-oppose: $2,287,615
 politicians-funded: "[[Cori Bush]], [[Nina Turner]], [[Wesley Bell]], [[Henry Cuellar]], [[Dan Goldman]]"
 related: "[[Wesley Bell]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---

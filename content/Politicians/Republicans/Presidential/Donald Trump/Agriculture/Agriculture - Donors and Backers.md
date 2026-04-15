@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
 related: "[[Agricultural Labor Vulnerability Donors]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #agriculture #donors #backers #farm-bureau #meatpacking #tyson #cargill #agribusiness #snap #ethanol #follow-the-money #research-node
 

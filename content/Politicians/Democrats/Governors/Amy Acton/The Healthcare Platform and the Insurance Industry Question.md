@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
 related: "[[The Labor Coalition and What Unions Expect]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio Democratic Party]] · [[The COVID Tenure and the Political Fallout]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #acton #healthcare #insurance #medicaid #policy-platform #class-analysis #follow-the-money #structural-limits
 

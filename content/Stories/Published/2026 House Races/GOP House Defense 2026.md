@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: null
 related: "[[DCCC Red-to-Blue Targets 2026]] · [[2026 House Money Map]] · [[Congressional Leadership Fund|CLF]] · [[Americans for Prosperity|AFP]] · [[MAGA Inc]] · [[California Razor-Thin Districts 2026]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #house #race-frame #nrcc #republican-defense #class-analysis
 

@@ -8,6 +8,9 @@ parent: null
 category: right
 platform: multi-platform
 related: "[[Richard Mellon Scaife - Conservative Movement Infrastructure]] · [[Foreign Money in U.S. Media]] · [[Alex Acosta - Trump Justice System]] · [[Cable News Carriage Wars]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #right #conservative-media #trump-aligned #qatari-money #foreign-investment #defamation #cable-carriage #profit-driven

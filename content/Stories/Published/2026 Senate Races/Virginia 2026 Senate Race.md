@@ -11,6 +11,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Mark Warner Master Profile]] · [[Defense Contractors]] · [[Tech Industry]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #senate-race #2026 #competitive #virginia #analysis
 tags: #story

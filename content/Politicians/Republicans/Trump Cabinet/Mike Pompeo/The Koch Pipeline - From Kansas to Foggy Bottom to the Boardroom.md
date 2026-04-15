@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Mike Pompeo Master Profile]]
 related: "[[_Mike Pompeo Master Profile]] · [[Koch Network - Charles Koch]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #mike-pompeo #koch-network #kansas #revolving-door #cia #secretary-of-state #defense-contractors #follow-the-money #class-analysis #wichita #fossil-fuels #iran #khashoggi
 

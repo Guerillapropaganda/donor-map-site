@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - No standalone Justice Democrats PAC master profile in Donors & Power Networks folder (currently exists only as this sub-note)
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[_Cori Bush Master Profile|Bush]] · [[_AOC Squad]] · [[Progressive PACs and Funding Networks]] · [[Summer Lee Master Profile]] · [[Rashida Tlaib]] · [[Nina Turner Master Profile]] · [[Ilhan Omar Master Profile]] · [[Greg Casar Master Profile]] · [[The Endorsement Economy - Courage to Change PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #justice-democrats #brand-new-congress #pac #recruitment #casting-call #aoc #squad #class-analysis #follow-the-money
 

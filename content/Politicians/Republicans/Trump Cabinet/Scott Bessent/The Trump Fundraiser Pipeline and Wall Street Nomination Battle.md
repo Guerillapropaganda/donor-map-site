@@ -8,6 +8,10 @@ parent: [[_Scott Bessent Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Scott Bessent Master Profile]] · [[_Donald Trump Master Profile]] · [[Elon Musk|Elon Musk - Tesla SpaceX X]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #scott-bessent #trump-fundraiser #bundler #wall-street #howard-lutnick #class-analysis #follow-the-money
 

@@ -7,6 +7,10 @@ source-tier: 1
 parent: null
 related: "[[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Immigration Enforcement - The Detention Economy]] · [[Heritage Foundation]] · [[Federalist Society]]"
 last-enriched: "2026-04-09"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #project-2025 #heritage-foundation #class-analysis #follow-the-money #administrative-state #deregulation #Koch #mandate-for-leadership
 

@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Katie Porter Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Kamala Harris Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #katie-porter #elizabeth-warren #consumer-protection #mortgage-settlement #financial-services #class-analysis
 

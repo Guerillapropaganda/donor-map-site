@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
 related: "[[Melissa Bean's Corporate Background]] · [[_Melissa Bean Master Profile]] · [[Elect Chicago Women Shell PAC Operation]] · [[Think Big AI PAC and AI Policy Alignment]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #democrat #politician #house #illinois #2026-primary #super-pac #aipac #ai-pac #crypto-pac #outside-spending
 

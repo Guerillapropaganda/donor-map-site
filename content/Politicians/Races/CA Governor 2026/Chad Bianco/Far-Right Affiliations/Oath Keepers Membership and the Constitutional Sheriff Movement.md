@@ -6,6 +6,9 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] · [[_Chad Bianco Master Profile]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[RSA - The Single-Patron Sheriff]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #bianco #oath-keepers #far-right #militia #constitutional-sheriff #class-analysis #follow-the-money #extremism #posse-comitatus #january-6
 

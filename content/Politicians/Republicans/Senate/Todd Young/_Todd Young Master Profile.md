@@ -22,6 +22,7 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 donors: "[[California Farm Bureau Federation]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

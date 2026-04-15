@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Benjamin Netanyahu Master Profile]]
 related: "[[West Bank Annexation and Settlement Expansion]] · [[_Benjamin Netanyahu Master Profile]] · [[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[The American Donor Network]] · [[Post-October 7 Positions and Flip History]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #israel #military-aid #weapons #diplomacy #class-analysis #adelson #usmilitary #gulfstates #international
 

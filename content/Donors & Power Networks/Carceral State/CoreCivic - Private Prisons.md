@@ -23,6 +23,7 @@ ein: "474543845"
 nonprofit-status: "501(c)(3)"
 total-revenue: 143756
 total-assets: 118562
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

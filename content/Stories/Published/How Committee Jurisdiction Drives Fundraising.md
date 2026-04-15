@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: null
 related: "[[The Revolving Door - How Government Service Becomes Industry Employment]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[The Defense Spending Bipartisan Consensus]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #committees #fundraising #jurisdiction #access #pay-to-play #congress #campaign-finance
 

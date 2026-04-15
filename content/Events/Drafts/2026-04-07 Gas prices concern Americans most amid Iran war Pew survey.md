@@ -8,6 +8,10 @@ source-url: "https://thehill.com/policy/international/5820379-rising-fuel-costs-
 profiles:
   - "The Iran War - Defense Donors and the DOGE Readiness Gap"
   - "Israel - Government Lobbying Operation"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

@@ -1,6 +1,7 @@
 ---
 title: Changelog
 type: meta
+urls-first-triaged: "2026-04-15"
 ---
 
 # The Donor Map. Development Changelog

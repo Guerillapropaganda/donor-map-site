@@ -12,6 +12,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]] · [[_Donald Trump Master Profile]] · [[Trump Crypto - The President as Personal Profiteer]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #media #propaganda #donors #backers #fox-news #sinclair #truth-social #follow-the-money #research-node
 

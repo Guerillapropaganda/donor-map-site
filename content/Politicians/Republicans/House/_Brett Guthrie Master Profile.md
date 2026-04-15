@@ -23,6 +23,7 @@ known-gaps:
   - No mapped relationships
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AbbVie]]"
 donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AbbVie]], [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

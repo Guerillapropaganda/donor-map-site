@@ -8,6 +8,10 @@ source-url: "https://www.opensecrets.org/news/2026/03/some-major-trump-donors-ar
 profiles:
   - "Immigration - Donors and Backers"
   - "Donald Trump"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

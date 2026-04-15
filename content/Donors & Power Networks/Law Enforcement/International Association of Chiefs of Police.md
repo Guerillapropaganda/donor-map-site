@@ -33,6 +33,9 @@ known-gaps:
 related: "[[Fraternal Order of Police]] · [[PORAC - Peace Officers Research Association of California]]"
 lobbying-spend: 2245088
 lobbying-filings: 142
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

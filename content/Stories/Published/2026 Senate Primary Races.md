@@ -8,6 +8,10 @@ parent: null
 related: "[[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Graham Platner Master Profile]] · [[Abdul El-Sayed Master Profile]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[National Republican Senatorial Committee]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026 #senate #primary #elections #midterm #map #donors #super-pac
 

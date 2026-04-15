@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Clarence Thomas Master Profile]]
 related: "[[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[Harlan Crow]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #clarence-thomas #koch-network #leonard-leo #harlan-crow #donor-summits #federalist-society #dark-money #marble-freedom-trust #class-analysis #follow-the-money
 

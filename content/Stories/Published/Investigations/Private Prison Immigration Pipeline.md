@@ -13,6 +13,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[GEO Group]] · [[CoreCivic]] · [[Immigration Enforcement - The Detention Economy|Immigration Enforcement]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #private-prison #immigration #geo-group #corecivic #ice #detention #deportation
 

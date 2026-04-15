@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Chuck Grassley Master Profile]] · [[American Farm Bureau Federation]] · [[PhRMA]] · [[Federalist Society]] · [[Leonard Leo]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #grassley #iowa #judiciary #agriculture #ethanol #pharma #drug-pricing
 

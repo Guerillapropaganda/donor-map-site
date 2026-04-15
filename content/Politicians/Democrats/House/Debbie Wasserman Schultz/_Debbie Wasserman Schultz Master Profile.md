@@ -38,6 +38,7 @@ total-raised: $1,785,365
 total-spent: $875,347
 cash-on-hand: "1967326.77"
 fec-cycle: 2026
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

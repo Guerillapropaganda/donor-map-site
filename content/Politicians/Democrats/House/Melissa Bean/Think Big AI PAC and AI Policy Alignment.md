@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 2
 parent: "_Melissa Bean Master Profile"
 related: "[[_Melissa Bean Master Profile]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean's Corporate Background]] · [[Peter Thiel]] · [[Mark Zuckerberg]] · [[Elect Chicago Women Shell PAC Operation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #democrat #politician #house #illinois #ai-pac #think-big #leading-the-future #openai #a16z #deregulation #tech-donor
 

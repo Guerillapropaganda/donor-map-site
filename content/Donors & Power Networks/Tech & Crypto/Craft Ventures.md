@@ -18,6 +18,7 @@ lobbying-filings: 38
 cross-vault-triangulation-count: 0
 audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[David Sacks]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

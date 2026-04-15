@@ -6,6 +6,10 @@ last-updated: 2026-04-09
 source-tier: 2
 parent: null
 related: "[[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #surveillance #section-702 #fisa #nsa #warrantless #class-analysis #follow-the-money #privacy #tech
 

@@ -31,6 +31,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[NORPAC]]"
 related: "[[_Bobby Scott Master Profile|Bobby Scott]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

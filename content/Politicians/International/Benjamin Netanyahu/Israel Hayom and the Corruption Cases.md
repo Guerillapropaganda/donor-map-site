@@ -8,6 +8,10 @@ parent: [[_Benjamin Netanyahu Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Benjamin Netanyahu Master Profile]] · [[Miriam Adelson]] · [[The American Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #corruption #israel #media #oligarchy #trials #class-analysis #bribery #fraud #international
 

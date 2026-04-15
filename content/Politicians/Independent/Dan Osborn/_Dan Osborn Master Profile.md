@@ -25,6 +25,7 @@ fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "33492.00"
 donors: "[[Retire Career Politicians]], [[Labor Unions]], [[Heartland Resurgence]], [[Railroaders for Public Safety]], [[ActBlue]], [[Senate Leadership Fund]], [[ESAFUND]], [[Senate Majority PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

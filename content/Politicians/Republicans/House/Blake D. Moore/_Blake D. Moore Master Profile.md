@@ -23,6 +23,7 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 donors: "[[Brady Campaign]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

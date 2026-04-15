@@ -14,6 +14,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[Jeff Yass]] · [[Club for Growth]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[_Rand Paul Master Profile|Rand Paul]] · [[Vivek Ramaswamy]] · [[Susquehanna International Group]] · [[TikTok - ByteDance|TikTok]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #jeff-yass #tiktok #bytedance #multi-candidate #class-analysis
 tags: #analysis #story

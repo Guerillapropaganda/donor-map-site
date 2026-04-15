@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 related: "[[_Lauren Boebert Master Profile]] · [[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[WinRed]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #boebert #colorado #culture-war #small-dollar #fundraising #media #nra
 

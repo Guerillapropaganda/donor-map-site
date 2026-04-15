@@ -28,9 +28,6 @@ source-types:
   - HouseDisclosures
   - IRS
 corroboration-count: 3
-checklist-na:
-  - "voting-records: Never held elected office (candidate)"
-  - "committee-assignments: Never held elected office (candidate)"
 known-gaps:
   - FEC Brand New Congress LLC transfers under 3-3 deadlock (MUR 7592) — no final resolution
 editorial-review-date: "2026-04-09"
@@ -43,6 +40,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "voting-records: Never held elected office (candidate)"
+  - "committee-assignments: Never held elected office (candidate)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

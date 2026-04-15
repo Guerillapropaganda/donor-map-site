@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Angie Craig Master Profile]] · [[Labor Unions]] · [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #senate-race #2026 #competitive #minnesota #open-seat #analysis
 tags: #story

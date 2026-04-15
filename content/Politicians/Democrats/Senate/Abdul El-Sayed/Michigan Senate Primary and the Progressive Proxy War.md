@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Abdul El-Sayed Master Profile]]
 related: "[[_Abdul El-Sayed Master Profile]] · [[_Mallory McMorrow Master Profile]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #michigan #2026-senate #primary #progressive-civil-war #sanders-warren #donor-class #class-analysis
 

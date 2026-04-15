@@ -12,6 +12,10 @@ issues:
 related: "[[Crypto vs Labor - The Structural Funding Gap]] · [[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Melissa Bean Master Profile]] · [[Think Big AI PAC and AI Policy Alignment]] · [[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Elect Chicago Women PAC]] · [[Fairshake PAC - Crypto Super PAC]] · [[Marc Andreessen & Horowitz]] · [[Eric Schmidt]] · [[2026 House Money Map]] · [[United Democracy Project - UDP]] · [[AI Regulation and Tech Donors]] · [[Affordable Chicago Now PAC]]"
 known-gaps:
   - "No FEC contribution data"
+checklist-na:
+  - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

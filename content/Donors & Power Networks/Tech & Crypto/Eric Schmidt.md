@@ -26,6 +26,9 @@ regulatory-agencies:
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Matt Mahan Master Profile]] · [[Ro Khanna Master Profile]] · [[Google - Alphabet]] · [[_JD Vance Master Profile|JD Vance]] · [[The 2024 Tech Billionaire Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Peter Thiel]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Mike Lee Master Profile|Mike Lee]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[The Silicon Valley Billionaire Donor Map]] · [[Mark Warner]] · [[Think Big AI PAC]] · [[Silicon Valley Donors]] · [[Palantir Technologies]]"
 cross-vault-triangulation-count: 15
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

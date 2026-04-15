@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
 related: "[[Amy Acton Master Profile]] · [[Amy Acton]] · [[The Labor Coalition and What Unions Expect]] · [[The Healthcare Platform and the Insurance Industry Question]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #acton #covid-19 #ohio #health-director #class-analysis #follow-the-money #republican-pressure #corruption
 

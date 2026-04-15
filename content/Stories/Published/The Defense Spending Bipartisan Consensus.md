@@ -12,6 +12,9 @@ source-types:
   - Congress
   - FEC
 corroboration-count: 2
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #defense #bipartisan #spending #military-industrial-complex #ndaa #pentagon #lobbying
 

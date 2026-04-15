@@ -73,6 +73,9 @@ lei: 558600DGUQYRUVIRPA94
 lei-jurisdiction: SA
 cross-vault-triangulation-count: 17
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

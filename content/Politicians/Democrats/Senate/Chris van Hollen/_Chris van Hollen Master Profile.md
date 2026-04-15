@@ -30,6 +30,7 @@ stock-trade-tickers:
   - "JNJ"
   - "GE"
   - "T"
+urls-first-triaged: "2026-04-15"
 ---
 
 

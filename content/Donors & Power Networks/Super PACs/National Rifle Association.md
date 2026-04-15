@@ -70,6 +70,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 aliases:
   - "NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND"
   - "NRA POLITICAL VICTORY FUND"
+checklist-na:
+  - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

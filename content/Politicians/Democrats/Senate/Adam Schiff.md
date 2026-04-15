@@ -29,6 +29,7 @@ issues:
   - Health
   - Immigration
   - International Affairs
+urls-first-triaged: "2026-04-15"
 ---
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
 tags: #democrat

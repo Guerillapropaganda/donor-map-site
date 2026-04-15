@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 related: "[[_Richard Blumenthal Master Profile]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Apple]] · [[_Amy Klobuchar Master Profile|Klobuchar]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #blumenthal #judiciary #tech #privacy #children #antitrust #connecticut
 

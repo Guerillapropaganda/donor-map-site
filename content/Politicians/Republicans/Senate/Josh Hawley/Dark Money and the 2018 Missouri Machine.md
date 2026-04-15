@@ -8,6 +8,10 @@ parent: [[_Josh Hawley Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Josh Hawley Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #josh-hawley #dark-money #2018-election #mcconnell #koch #nra #class-analysis #follow-the-money
 

@@ -7,6 +7,10 @@ source: "The Hill"
 source-url: "https://thehill.com/homenews/administration/5819417-greene-25th-amendment-trump-iran-threat/"
 profiles:
   - "Marjorie Taylor Greene"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

@@ -25,6 +25,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 wikidata-id: Q19881038
 wikipedia-url: https://en.wikipedia.org/wiki/Freedom_Caucus
 wikipedia-extract: The Freedom Caucus, also known as the House Freedom Caucus, is a congressional caucus of conservative members of the Republican Party in the United States House of Representatives.
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

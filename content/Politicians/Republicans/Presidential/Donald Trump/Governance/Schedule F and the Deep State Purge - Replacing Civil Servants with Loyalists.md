@@ -15,6 +15,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Project 2025 - The Blueprint They Followed]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #governance #schedule-f #civil-service #deep-state #loyalty-test #administrative-state #project-2025 #follow-the-money
 

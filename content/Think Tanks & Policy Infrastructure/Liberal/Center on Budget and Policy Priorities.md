@@ -45,6 +45,9 @@ fara-status: "registrant"
 fara-records: 3
 fara-countries:
   - "NORWAY"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #think-tank #liberal #safety-net #anti-poverty #tax-policy #medicaid #SNAP #EITC #class-analysis

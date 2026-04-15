@@ -50,6 +50,10 @@ total-political-spend: $2,273,803
 politicians-funded: "[[Donald Trump]], [[Mitt Romney]], [[Ted Cruz]], [[The Ramaswamy 32 Days - DOGE Co-Lead to Ohio Governor Candidate]], [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]], [[Mike Rogers]], [[John Boehner]], [[John McCain]], [[Marco Rubio]]"
 cross-vault-triangulation-count: 3
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 

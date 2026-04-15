@@ -12,6 +12,10 @@ issues:
 related: "[[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Centene Corporation PAC]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[Insurance Industry Bloc]] · [[Blue Cross Blue Shield Association]]"
 known-gaps:
   - "No FEC contribution data"
+checklist-na:
+  - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

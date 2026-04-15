@@ -51,6 +51,8 @@ regulatory-agencies:
   - "Transportation Department"
   - "U.S. Citizenship and Immigration Services"
   - "U.S. Immigration and Customs Enforcement"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #foreign-policy #defense #wall-street #revolving-door #idea-laundering #bipartisan-credibility-shield

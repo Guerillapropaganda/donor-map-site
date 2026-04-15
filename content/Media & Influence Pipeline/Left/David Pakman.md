@@ -9,6 +9,10 @@ category: left
 platform: multi-platform
 related: "[[Kyle Kulinski]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Cenk Uygur]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Jimmy Dore]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Pod Save America]] · [[Hasan Piker]] · [[Crooked Media]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]]"
 donors: "[[Sixteen Thirty Fund]] (Chorus Creator Incubator Program, disclosed Aug 2025)"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-profile #left #progressive #youtube #democratic-party #dark-money #chorus #sixteen-thirty-fund #immigrant

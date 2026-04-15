@@ -7,6 +7,10 @@ source-tier: 1
 parent: null
 related: "[[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Peter Thiel]] · [[DOGE - The Billionaires Government]] · [[David Sacks (Donor Network)]]"
 last-enriched: "2026-04-09"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #cabinet #class-analysis #follow-the-money #oligarchy #wealth #donor-class #governance #conflict-of-interest
 

@@ -8,6 +8,9 @@ parent: null
 category: left
 platform: multi-platform
 related: "(no donor nodes — small-dollar self-funded campaigns; DNC gatekeeping structural analysis, not donor-class capture)"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #left #self-help #spirituality #outsider-candidate #dnc-gatekeeping

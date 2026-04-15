@@ -23,6 +23,7 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

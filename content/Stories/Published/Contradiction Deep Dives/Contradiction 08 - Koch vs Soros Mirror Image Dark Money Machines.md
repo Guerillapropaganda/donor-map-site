@@ -8,6 +8,9 @@ parent: null
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[The Both-Sides Dark Money Illusion]] · [[Koch network]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Stand Together]] · [[Americans for Prosperity]] · [[George Soros]] · [[Open Society Foundations]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[New Venture Fund]] · [[Citizens United and the Architecture of Unlimited Political Money|Citizens United]] · [[Dark Money Networks - The Shadow System]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #investigation #contradiction #koch #soros #dark-money #both-sides #class-analysis
 tags: #analysis #story

@@ -27,6 +27,8 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Deposit Insurance Corporation"
   - "Federal Housing Finance Agency"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #liberal #housing #poverty #healthcare #tax-policy #urban-policy #government-funded #class-analysis

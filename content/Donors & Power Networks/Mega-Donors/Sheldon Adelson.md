@@ -33,6 +33,10 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 related: "[[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Israel and Foreign Policy - Donors and Backers]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

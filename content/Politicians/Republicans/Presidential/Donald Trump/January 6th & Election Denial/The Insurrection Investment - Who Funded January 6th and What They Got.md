@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
 related: "[[_Donald Trump Master Profile]] · [[January 6th and Election Denial - Donors and Backers]] · [[Save America PAC]] · [[Koch Network - Charles Koch]] · [[Miriam Adelson]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #jan6 #election-denial #class-analysis #investigation #insurrection #donor-analysis
 

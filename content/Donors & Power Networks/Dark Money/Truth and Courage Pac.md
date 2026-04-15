@@ -13,4 +13,8 @@ fec-ie-support: $6,598,631
 fec-ie-oppose: "null"
 politicians-funded: "[[Ted Cruz]]"
 related: "[[Ted Cruz]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---

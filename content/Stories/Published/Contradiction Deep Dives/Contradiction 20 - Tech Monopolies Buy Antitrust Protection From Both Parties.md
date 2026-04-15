@@ -8,6 +8,10 @@ parent: null
 issues:
   - "Antitrust & Monopoly"
 related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Ted Cruz Master Profile|Cruz]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #contradiction #big-tech #antitrust #lobbying #AICOA #revolving-door #class-analysis
 

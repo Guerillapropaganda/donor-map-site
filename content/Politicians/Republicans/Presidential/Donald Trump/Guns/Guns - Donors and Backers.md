@@ -8,6 +8,10 @@ parent: "[[_Donald Trump Master Profile]]"
 known-gaps:
   - "No mapped relationships"
 related: "[[The NRA Investment and the Second Amendment Theater]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #guns #donors #backers #nra #nssf #goa #manufacturers #second-amendment #follow-the-money #research-node
 

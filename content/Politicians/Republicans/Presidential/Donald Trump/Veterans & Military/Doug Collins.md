@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
 related: "[[_Pete Hegseth Master Profile]] · [[_Donald Trump Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]] · [[Concerned Veterans for America]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #doug-collins #va-secretary #georgia #veterans #koch-network #privatization #class-analysis
 

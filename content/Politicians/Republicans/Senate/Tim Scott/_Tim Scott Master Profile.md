@@ -35,6 +35,7 @@ needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 bioguide-id: S001184
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -26,6 +26,7 @@ related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Donald T
 total-received: $1,522,158
 fec-candidate-id: H4PA13199
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

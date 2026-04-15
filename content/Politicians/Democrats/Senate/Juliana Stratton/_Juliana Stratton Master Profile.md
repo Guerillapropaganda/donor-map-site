@@ -17,6 +17,7 @@ fec-candidate-id: "S6IL00458"
 related: "[[Illinois 2026 Senate Race]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Fairshake PAC - Crypto Super PAC|Fairshake]] · [[Illinois Future PAC]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]]"
 last-enriched: "2026-04-10"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

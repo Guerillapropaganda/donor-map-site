@@ -6,6 +6,7 @@ redirect-target: "[[Raytheon (RTX)]]"
 last-updated: 2026-04-15
 aliases:
   - "Raytheon Technologies"
+urls-first-triaged: "2026-04-15"
 ---
 
 # Raytheon Technologies

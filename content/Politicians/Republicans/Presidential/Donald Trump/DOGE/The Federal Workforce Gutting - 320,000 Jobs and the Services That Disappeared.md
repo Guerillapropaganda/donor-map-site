@@ -6,6 +6,10 @@ last-updated: 2026-04-09
 source-tier: 1
 parent: null
 related: "[[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]] · [[The NLRB Gutting and the Biggest Union Bust in American History]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #doge #federal-workforce #class-analysis #follow-the-money #schedule-f #probationary #fork-in-the-road #usaid #cfpb #social-security #veterans
 

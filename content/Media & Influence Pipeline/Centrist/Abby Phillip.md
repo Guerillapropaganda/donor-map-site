@@ -8,6 +8,10 @@ parent: null
 category: centrist
 platform: multi-platform
 related: "[[Bari Weiss]] · [[Matt Taibbi]] · [[Ezra Klein]] · [[TYT Network - The Young Turks]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #CNN #corporate-media #institutional-capture #warner-bros-discovery #paramount

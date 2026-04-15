@@ -30,6 +30,9 @@ lobbying-filings: 143
 related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]] · [[Bernie Sanders]]"
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 

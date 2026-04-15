@@ -25,6 +25,7 @@ total-spent: "$202,555"
 cash-on-hand: "0.00"
 fec-cycle: 2012
 last-enriched: "2026-04-10"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -11,6 +11,10 @@ related: "[[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and
 stories: >-
   [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political
   Media]]
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #right #fox-news #replacement-theory #dark-money #russia #independence-theater

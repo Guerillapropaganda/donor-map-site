@@ -37,6 +37,7 @@ related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master
 last-enriched: "2026-04-10"
 bioguide-id: B001230
 donors: "[[UAW - United Auto Workers]] · [[National Nurses United]] · [[Insurance Industry]] · [[American Principles Project Pac]] · [[AFGE - American Federation of Government Employees]] · [[Votevets]] · [[Blue Cross Blue Shield Association]] · [[Protect the Vote]] · [[LET AMERICA VOTE PAC]] · [[HUMAN RIGHTS CAMPAIGN EQUALITY VOTES]] · [[Let America Vote PAC]] · [[Human Rights Campaign Equality Votes]] · [[Emily's List]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

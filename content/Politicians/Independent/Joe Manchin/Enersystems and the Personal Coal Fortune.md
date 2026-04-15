@@ -6,6 +6,9 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
 related: "[[The BBB Kill and IRA Fossil Fuel Concessions]] · [[_Joe Manchin Master Profile]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #joe-manchin #enersystems #coal #fossil-fuels #personal-enrichment #class-analysis #follow-the-money
 

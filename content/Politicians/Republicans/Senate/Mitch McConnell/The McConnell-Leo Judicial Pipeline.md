@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
 related: "[[Susan Collins Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]] · [[_Mitch McConnell Master Profile]] · [[Leonard Leo]] · [[_Clarence Thomas Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #mcconnell #leonard-leo #federalist-society #judicial-appointments #scotus #garland #barrett #class-analysis
 

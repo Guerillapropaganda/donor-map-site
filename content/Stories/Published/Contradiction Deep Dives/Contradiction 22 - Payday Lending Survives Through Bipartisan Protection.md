@@ -6,6 +6,10 @@ last-updated: 2026-04-15
 source-tier: 2
 parent: null
 related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis
 

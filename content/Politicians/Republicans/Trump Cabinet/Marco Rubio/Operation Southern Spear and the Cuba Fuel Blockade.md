@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: "[[_Marco Rubio Master Profile]]"
 related: "[[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[Mike Waltz]] · [[Ted Cruz Master Profile]] · [[Rick Scott Master Profile]] · [[Brian Mast]] · [[_Marco Rubio Master Profile]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]] · [[Fanjul Family - Florida Crystals]] · [[_Donald Trump Master Profile|Trump]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #rubio #cuba #operation-southern-spear #blockade #fuel #humanitarian-crisis #sugar #fanjul #class-analysis #follow-the-money #2026
 

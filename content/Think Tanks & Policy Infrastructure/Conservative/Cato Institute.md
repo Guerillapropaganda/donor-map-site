@@ -34,6 +34,8 @@ ein: "237432162"
 nonprofit-status: "501(c)(3)"
 total-revenue: 67482807
 total-assets: 190480742
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #conservative #libertarian #deregulation #climate-denial #social-security #financial-regulation #dark-money #koch

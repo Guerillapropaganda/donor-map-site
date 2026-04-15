@@ -18,6 +18,8 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. California"
   - "District Court, W.D. Virginia"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #defense #national-security #revolving-door #military-industrial-complex #class-analysis

@@ -51,6 +51,9 @@ total-political-spend: $108,324,551
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 opposes: "[[Elizabeth Warren Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

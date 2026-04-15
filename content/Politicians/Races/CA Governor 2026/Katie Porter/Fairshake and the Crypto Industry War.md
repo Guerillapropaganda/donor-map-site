@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Katie Porter Master Profile]]
 related: "[[The Whiteboard Brand and the Corporate Accountability Record]] · [[_Katie Porter Master Profile]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #fairshake #crypto #katie-porter #a16z #coinbase #ripple #super-pac #class-analysis #follow-the-money
 

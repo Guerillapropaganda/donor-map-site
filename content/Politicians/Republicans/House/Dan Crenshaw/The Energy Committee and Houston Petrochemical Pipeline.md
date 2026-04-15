@@ -6,6 +6,10 @@ last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Dan Crenshaw Master Profile]]"
 related: "[[_Dan Crenshaw Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Chevron]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #crenshaw #texas #energy #houston #exxon #oil-gas #epa #petrochemical #ship-channel #lng #class-analysis #follow-the-money #sacrifice-zone
 

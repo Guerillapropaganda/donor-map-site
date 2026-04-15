@@ -9,6 +9,9 @@ category: centrist
 platform: multi-platform
 related: "[[Fox News - Murdoch Media Empire]] · [[Bari Weiss]] · [[Jake Tapper]] · [[Nicolle Wallace]] · [[Chris Wallace]] · [[Crooked Media]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]]"
 internal-notes: "[URL Check 2026-04-09] 13 checked: 12 ok, 1 broken, 0 slow. | BROKEN: FEC API: Anderson Cooper individual contributions"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #centrist #CNN #institutional-media #vanderbilt #class-analysis

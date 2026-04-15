@@ -8,6 +8,10 @@ parent: [[_Graham Platner Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Graham Platner Master Profile]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #maine #schumer #sanders #warren #progressive-unity #democratic-establishment #class-analysis #2026-senate
 

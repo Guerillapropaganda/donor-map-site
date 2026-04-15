@@ -49,6 +49,9 @@ lobbying-filings: 95
 related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]]"
 total-political-spend: $3,998,524
 politicians-funded: "[[Bill Clinton]], [[Hillary Clinton]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

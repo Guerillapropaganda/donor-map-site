@@ -46,6 +46,9 @@ wikidata-id: Q4676589
 wikipedia-url: https://en.wikipedia.org/wiki/ActBlue
 wikipedia-extract: ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure.
 total-political-spend: $1,765,636
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

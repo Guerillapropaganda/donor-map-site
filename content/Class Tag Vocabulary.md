@@ -4,6 +4,7 @@ type: system
 status: locked
 last-updated: 2026-04-14
 authority: ADR-0001
+urls-first-triaged: "2026-04-15"
 ---
 
 # Class Tag Vocabulary

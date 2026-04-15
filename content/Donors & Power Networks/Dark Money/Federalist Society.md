@@ -55,6 +55,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 wikidata-id: Q5440666
 wikipedia-url: https://en.wikipedia.org/wiki/Federalist_Society
 wikipedia-extract: The Federalist Society for Law and Public Policy Studies (FedSoc) is an American conservative and libertarian legal organization that advocates for a textualist and originalist interpretation of the U...
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

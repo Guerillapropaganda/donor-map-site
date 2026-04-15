@@ -33,6 +33,7 @@ last-enriched: "2026-04-10"
 total-received: $1,272,557
 fec-candidate-id: H4MO01134
 bioguide-id: B001324
+urls-first-triaged: "2026-04-15"
 ---
 
 

@@ -20,6 +20,7 @@ internal-notes: "[URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | S
 last-enriched: "2026-04-09"
 related: "[[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[CCPOA - California Correctional Peace Officers Association]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[Steve Hilton]]"
 donors: "[[IBEW Local 477 - San Bernardino]] · [[IBEW Local 440 - Riverside]] · [[RSA - The Single-Patron Sheriff]] · [[GEO Group - Private Prison Industrial Complex]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

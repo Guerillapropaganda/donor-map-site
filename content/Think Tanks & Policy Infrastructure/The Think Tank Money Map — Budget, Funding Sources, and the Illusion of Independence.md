@@ -10,6 +10,8 @@ tax-status: null
 related: "[[Heritage Foundation]] · [[RAND Corporation]] · [[Aspen Institute]] · [[Urban Institute]] · [[Brookings Institution]] · [[Council on Foreign Relations]] · [[Center for American Progress]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heartland Institute]] · [[Third Way]] · [[Atlantic Council]] · [[Mercatus Center]] · [[_Think Tank Framework]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[Brennan Center for Justice]] · [[Center for a New American Security]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Center on Budget and Policy Priorities]] · [[Economic Policy Institute]] · [[Hoover Institution]]"
 known-gaps:
   - "No FEC contribution data"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #cross-comparison #budget-analysis #funding-sources #class-analysis #government-contractor #dark-money #illusion-of-independence

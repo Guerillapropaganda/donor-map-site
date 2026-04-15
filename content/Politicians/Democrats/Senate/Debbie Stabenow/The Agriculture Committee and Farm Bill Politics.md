@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 related: "[[_Debbie Stabenow Master Profile]] · [[_Chuck Grassley Master Profile|Grassley]] · [[_Glenn Thompson Master Profile|Thompson]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #stabenow #michigan #agriculture #farm-bill #snap #auto #bipartisan
 

@@ -6,6 +6,7 @@ redirect-target: "[[GEO Group]]"
 last-updated: 2026-04-15
 aliases:
   - "GEO Group - Private Prisons"
+urls-first-triaged: "2026-04-15"
 ---
 
 # GEO Group - Private Prisons

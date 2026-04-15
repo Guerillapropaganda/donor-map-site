@@ -9,6 +9,10 @@ category: centrist
 platform: multi-platform
 related: "[[Kyle Kulinski]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Pod Save America]] · [[_Media Pipeline Framework]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Dave Rubin]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Matt Walsh]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Jimmy Dore]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Sam Seder]] · [[Rachel Maddow]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]]"
 donors: "(subscription-funded , Reid Hoffman → People's House Project; Enjeti: Hudson Institute fellowships prior to launch)"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #populist #independent #youtube #podcast #left-right-crossover #class-analysis

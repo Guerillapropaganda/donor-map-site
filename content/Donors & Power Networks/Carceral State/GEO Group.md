@@ -33,6 +33,7 @@ related: "[[Uber]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - 
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 internal-notes: "[URL Check 2026-04-13] 59 checked: 52 ok, 7 broken, 0 slow. | BROKEN: Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief | BROKEN: POGO: Locking In Profits - Top ICE Officials to GEO | BROKEN: New York Times: Pam Bondi as AG | BROKEN: Politico: Pam Bondi DOJ ethics | BROKEN: TIME: ICE's Largest Prison Contractors Post Record Revenue | BROKEN: Reuters: GEO Group wins legal challenge to AB 32 | BROKEN: Transnational Institute: Stop corporations from profiting from incarceration"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

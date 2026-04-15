@@ -19,6 +19,7 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 related: "[[_JD Vance Master Profile]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Peter Thiel]] · [[The Palantir State - Surveillance as Policy]] · [[Marc Andreessen & Horowitz]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

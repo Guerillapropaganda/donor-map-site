@@ -8,6 +8,10 @@ parent: null
 category: right
 platform: multi-platform
 related: "[[Salem Media Group]] · [[Club for Growth Action]] · [[Right Texas PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #right #conservative-film #salem-media #dinesh #trump-pardon #election-fraud #propagandist

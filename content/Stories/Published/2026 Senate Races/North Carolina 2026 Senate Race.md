@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Roy Cooper Master Profile]] · [[_Michael Whatley Master Profile]] · [[Republican Party Apparatus]] · [[Senate Leadership Fund]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #senate #north-carolina #race-frame #analysis
 tags: #story

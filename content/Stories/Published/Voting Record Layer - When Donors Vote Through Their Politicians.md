@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[Research Methodology and Data Sources]] · [[_Gavin Newsom Master Profile]] · [[_Susan Collins Master Profile]] · [[_Joe Manchin Master Profile]] · [[Koch Network - Charles Koch]] · [[Haim Saban]] · [[Crypto Industry Bloc]] · [[Fossil Fuel Bloc]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #methodology-layer #voting-record #donor-vote-correlation #class-analysis
 tags: #story

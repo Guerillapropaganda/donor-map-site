@@ -19,6 +19,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[Peter Thiel]] · [[Mithril Capital]] · [[Eric Schmidt]] · [[Marc Andreessen & Horowitz]] · [[_Gavin Newsom Master Profile]] · [[_Katie Porter Master Profile]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

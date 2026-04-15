@@ -8,6 +8,9 @@ parent: null
 issues:
   - "Israel & Foreign Policy"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Cory Booker Master Profile|Cory Booker]] · [[Ritchie Torres]] · [[_Jamaal Bowman Master Profile|Jamaal Bowman]] · [[United Democracy Project - UDP|United Democracy Project]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #investigation #contradiction #aipac #israel #both-sides #bipartisan #primary-weapon #class-analysis
 tags: #analysis #story

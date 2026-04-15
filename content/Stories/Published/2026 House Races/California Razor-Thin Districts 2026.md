@@ -9,6 +9,9 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[2026 House Money Map]] · [[DCCC Red-to-Blue Targets 2026]] · [[GOP House Defense 2026]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #2026-election #house #california #race-frame #vulnerable-freshmen
 

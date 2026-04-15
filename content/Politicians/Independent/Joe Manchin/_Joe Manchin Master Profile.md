@@ -25,6 +25,7 @@ known-gaps:
   - No mapped relationships
 related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Williams Companies]] · [[Enterprise Products Partners]]"
 donors: "[[Centene Corporation]] · [[Insurance Industry]] · [[SMP]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MAJORITY FORWARD]] · [[National Republican Senatorial Committee]] · [[NRSC]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Senate Leadership Fund]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

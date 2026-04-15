@@ -11,6 +11,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[Sherrod Brown|Sherrod Brown]] · [[_Jon Husted Master Profile]] · [[_JD Vance Master Profile]] · [[UAW - United Auto Workers]] · [[Wexner Family - Ohio Wealth & Political Networks]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #senate #ohio #race-frame #special-election #analysis
 tags: #story

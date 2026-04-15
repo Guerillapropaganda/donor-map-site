@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 2
 parent: [[_Kamala Harris Master Profile]]
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Senate Record and 2020 Primary]] · [[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[The Billion-Dollar Campaign - 2024 Finance]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #harris #prosecutor #attorney-general #district-attorney #class-analysis #follow-the-money #onewest #mnuchin #mortgage #death-penalty #wrongful-conviction
 

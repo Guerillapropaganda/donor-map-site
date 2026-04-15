@@ -10,6 +10,10 @@ platform: multi-platform
 related: "(no donor nodes , platform-funded via Twitch/YouTube algorithmic revenue; no billionaire or corporate donor class patron)"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #streaming #debate-bro #twitch #youtube #platform-ban

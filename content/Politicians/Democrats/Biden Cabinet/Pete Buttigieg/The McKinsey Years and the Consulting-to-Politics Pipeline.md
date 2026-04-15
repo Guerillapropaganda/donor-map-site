@@ -6,6 +6,9 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Pete Buttigieg Master Profile]]
 related: "[[_Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #pete-buttigieg #mckinsey #consulting #technocracy #donor-class #blue-cross #postal-service #class-analysis
 

@@ -6,6 +6,7 @@ redirect-target: "[[Marc Andreessen & Horowitz]]"
 last-updated: 2026-04-15
 aliases:
   - "Marc Andreessen and a16z"
+urls-first-triaged: "2026-04-15"
 ---
 
 # Marc Andreessen and a16z

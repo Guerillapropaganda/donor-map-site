@@ -25,6 +25,10 @@ lobbying-filings: 53
 related: "[[Wall Street Finance Networks]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Club for Growth]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[Elon Musk]] · [[Hedge Fund Industry Bloc]] · [[Ken Griffin]]"
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

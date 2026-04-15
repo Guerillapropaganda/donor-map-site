@@ -51,6 +51,8 @@ regulatory-agencies:
   - "Labor Department"
   - "Rural Business-Cooperative Service"
   - "Securities and Exchange Commission"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #elite-networking #billionaire-consensus #congressional-influence #class-analysis

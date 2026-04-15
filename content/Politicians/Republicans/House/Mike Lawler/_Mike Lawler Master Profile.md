@@ -22,6 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -16,6 +16,9 @@ tax-year: "2016"
 related: "[[Sentinel Action Fund]] · [[Stephen Miller Master Profile]] · [[The Immigration Policy Architecture from Sessions to Mass Deportation]] · [[America First Legal and the Dark Money Architecture]] · [[The Project 2025 Pipeline and the Center for Renewing America]] · [[Christian Nationalism and the Theological Budget]] · [[American Enterprise Institute]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Koch Network - Charles Koch|Koch Network]] · [[Donors Capital Fund|Donors Capital Fund (DCF)]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Americans for Prosperity|AFP]] · [[Heartland Institute]] · [[State Policy Network|SPN]] · [[Competitive Enterprise Institute|CEI]] · [[Cato Institute]] · [[Marble Freedom Trust|Marble Freedom Trust (Leo)]] · [[The 85 Fund|The 85 Fund]] · [[Consumers' Research]] · [[The Both-Sides Dark Money Illusion]] · [[Koch Industries]] · [[Sixteen Thirty Fund]] · [[Dark Money Networks - The Shadow System]] · [[Majority Forward]] · [[Conservative Partnership Institute]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Arabella Advisors]] · [[ALEC - American Legislative Exchange Council]]"
 known-gaps:
   - "No FEC contribution data"
+checklist-na:
+  - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

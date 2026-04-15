@@ -9,6 +9,7 @@ sector: "Foreign Influence"
 issues:
   - "Israel & Foreign Policy"
 related: "[[The AIPAC Primary Machine and Foreign Affairs Removal]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Israel - Government Lobbying Operation]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -24,6 +24,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]] · [[John Cornyn]]"
 donors: "[[NRA Political Victory Fund]], [[Insurance Industry]], [[CLUB FOR GROWTH INC PAC]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[League of Conservation Voters]], [[Goldman Sachs]], [[Club for Growth INC PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

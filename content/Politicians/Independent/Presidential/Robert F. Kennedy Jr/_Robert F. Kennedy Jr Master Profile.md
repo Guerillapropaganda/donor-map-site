@@ -15,6 +15,7 @@ aliases:
   - "Robert F. Kennedy Jr."
   - "Robert F. Kennedy Jr"
   - "RFK Jr"
+urls-first-triaged: "2026-04-15"
 ---
 
 

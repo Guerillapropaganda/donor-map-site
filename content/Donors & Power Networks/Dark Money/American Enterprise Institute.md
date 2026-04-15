@@ -44,6 +44,10 @@ total-political-spend: "$6,625"
 related: "[[Bradley Impact Fund]] · [[Heritage Foundation]] · [[Bradley Foundation]] · [[Koch Industries]] · [[Council for National Policy]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]]"
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

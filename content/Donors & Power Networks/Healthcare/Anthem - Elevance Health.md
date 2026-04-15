@@ -22,6 +22,10 @@ lobbying-filings: 12
 related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[CNA - California Nurses Association]] · [[Tenet Healthcare]] · [[Insurance Industry Bloc]]"
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

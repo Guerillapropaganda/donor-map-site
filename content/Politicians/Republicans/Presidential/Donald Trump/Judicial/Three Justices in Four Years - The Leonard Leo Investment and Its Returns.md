@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: null
 related: "[[Judicial - Donors and Backers]] · [[Guns - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Neil Gorsuch Master Profile]] · [[_Brett Kavanaugh Master Profile]] · [[_Amy Coney Barrett Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]] · [[Judicial Crisis Network]] · [[The NRA Investment and the Second Amendment Theater]] · [[The EPA Demolition - Pruitt to Wheeler to Zeldin]] · [[Federalist Society]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #judicial #leonard-leo #federalist-society #scotus #gorsuch #kavanaugh #barrett #mcconnell #garland #dark-money #chevron #dobbs #class-analysis #follow-the-money
 

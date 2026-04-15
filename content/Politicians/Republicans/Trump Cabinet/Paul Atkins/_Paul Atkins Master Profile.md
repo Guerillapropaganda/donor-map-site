@@ -18,6 +18,7 @@ known-gaps:
   - Stub created 2026-04-09 to preserve vault connections
   - Full build required: prior SEC Commissioner tenure (2002-2008), Patomak Global Advisors consulting firm, 2025 confirmation, enforcement record
   - No FEC contribution records compiled
+urls-first-triaged: "2026-04-15"
 ---
 
 

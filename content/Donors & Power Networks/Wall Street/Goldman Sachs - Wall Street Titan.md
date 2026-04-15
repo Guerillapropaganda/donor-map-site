@@ -11,6 +11,10 @@ politicians-funded:
 issues:
   - "Wall Street & Finance"
 related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs]] · [[Tim Geithner]] · [[_Donald Trump Master Profile|Trump]] · [[Carlyle Group]] · [[JPMorgan Chase]] · [[Wall Street Bloc]] · [[Wall Street Finance Networks]] · [[Financial Services Donors]] · [[Squire Patton Boggs]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

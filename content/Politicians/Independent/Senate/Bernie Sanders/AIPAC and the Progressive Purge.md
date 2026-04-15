@@ -8,6 +8,10 @@ parent: [[_Bernie Sanders Master Profile]]
 related: "[[AIPAC Buys Progressive Cover for Bipartisan Israel Policy]] · [[_Bernie Sanders Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[DMFI - Democratic Majority for Israel]] · [[Haim Saban]] · [[_Nancy Pelosi Master Profile]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #sanders #aipac #israel #class-analysis #follow-the-money #primary-spending #progressive #bowman #bush
 

@@ -8,6 +8,9 @@ parent: null
 category: right
 platform: multi-platform
 related: "[[Dark Money Networks - The Shadow System|Dark Money]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Tucker Carlson]] · [[Steven Crowder]] · [[Rumble]] · [[Jordan Peterson]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jesse Watters]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Jimmy Dore]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #right #tenet-media #russia #dark-money #audience-capture #independence-theater #manufactured-populism #white-house-access

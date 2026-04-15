@@ -5,6 +5,7 @@ status: query-engine-build-complete
 last-updated: 2026-04-14
 authority: ADR-0003
 closed-by: ADR-0008
+urls-first-triaged: "2026-04-15"
 ---
 
 # Build Phases — Query Engine + Source Registry + Class Tags

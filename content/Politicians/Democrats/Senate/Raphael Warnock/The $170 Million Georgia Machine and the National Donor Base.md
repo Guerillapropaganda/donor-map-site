@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Raphael Warnock Master Profile]]
 related: "[[_Raphael Warnock Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Kamala Harris Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #raphael-warnock #fundraising #national-donors #georgia #campaign-finance #2020-2022
 

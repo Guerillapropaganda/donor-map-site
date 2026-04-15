@@ -25,6 +25,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

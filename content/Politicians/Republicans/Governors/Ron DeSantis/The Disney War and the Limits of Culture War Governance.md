@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Ron DeSantis Master Profile]]
 related: "[[_Ron DeSantis Master Profile]] · [[The $150 Million Collapse - When Donor Money Can't Buy a Primary]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #desantis #disney #reedy-creek #culture-war #dont-say-gay #corporate-retaliation #class-analysis #florida
 

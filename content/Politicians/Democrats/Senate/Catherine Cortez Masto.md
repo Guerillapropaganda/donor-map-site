@@ -20,6 +20,7 @@ last-enriched: "2026-04-09"
 opposes: "[[SENATE LEADERSHIP FUND]] · [[CLUB FOR GROWTH ACTION]] · [[FREEDOM PARTNERS ACTION FUND, INC.]] · [[NRSC]]"
 related: "[[Miriam Adelson]] · [[Las Vegas Sands]] · [[EMILY's List]] · [[Adelson Family]]"
 top-donors: "[[SMP]], [[FREEDOM PARTNERS ACTION FUND, INC.]], [[NRSC]], [[CLUB FOR GROWTH ACTION]], [[Senate Leadership Fund]]"
+urls-first-triaged: "2026-04-15"
 ---
 #catherine-cortez-masto #senator #nevada #casino #gaming #labor #class-analysis #democrat
 tags: #democrat

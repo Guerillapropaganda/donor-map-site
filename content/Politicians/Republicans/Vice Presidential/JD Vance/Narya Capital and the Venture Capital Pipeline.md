@@ -6,6 +6,9 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
 related: "[[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[Valinor Enterprises]] · [[The 2024 Tech Billionaire Network]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #venture-capital #conflict-of-interest #defense-contractors
 

@@ -6,6 +6,9 @@ last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Thom Tillis Master Profile]]"
 related: "[[_Thom Tillis Master Profile]] · [[Bank of America]] · [[Duke Energy]] · [[Pharmaceutical Industry Bloc]] · [[PhRMA]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #tillis #north-carolina #ip #banking #charlotte #pharma #judiciary #wall-street #deregulation #cfpb #prevail-act
 

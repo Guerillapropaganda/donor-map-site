@@ -16,6 +16,7 @@ issues:
 total-received: "$2,785,989"
 fec-candidate-id: "H8CA11116"
 related: "[[National Multifamily Housing Council]] · [[Real Estate Donors]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

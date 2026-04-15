@@ -17,6 +17,9 @@ last-enriched: "2026-04-13"
 internal-notes: "[CODE @ 2026-04-13] Pipeline: fec completed for CA Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24360089891"
 total-political-spend: $216,324
 politicians-funded: "[[Robin L. Kelly]], [[Ketanji Brown Jackson]], [[Donald G. Davis]], [[Cindy Hyde-Smith]], [[Mike Kelly]], [[Trent Kelly]], [[Lindsey Graham]], [[Bennie Thompson]], [[Jonathan L. Jackson]], [[Danny K. Davis]], [[Russell Fry]], [[Gregory F. Murphy]], [[Mike Thompson]], [[Lisa Jackson]], [[Chris Murphy]], [[Mark Kelly]], [[Glenn Thompson]], [[Ronny Jackson]], [[Brad Knott]], [[John Kelly]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 

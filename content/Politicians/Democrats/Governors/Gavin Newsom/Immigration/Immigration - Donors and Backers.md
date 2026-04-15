@@ -6,6 +6,10 @@ last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
 related: "[[Prop 22 - The $200M Corporate Rollback]] · [[Criminal Justice - Donors and Backers]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Private Detention - AB 32]] · [[Trump Resistance and the 2028 Play]] · [[Labor - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]] · [[Supply-Side Framework - Who It Helps]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #newsom #immigration #donors #backers #follow-the-money #agricultural-employers #private-prison #GEO-group #[[CoreCivic|CoreCivic]] #western-growers #farm-bureau #research-node
 

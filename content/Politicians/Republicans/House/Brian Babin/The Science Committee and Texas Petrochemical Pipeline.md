@@ -6,6 +6,10 @@ last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Brian Babin Master Profile]]"
 related: "[[_Brian Babin Master Profile]] · [[ExxonMobil]] · [[Koch Industries]] · [[_Donald Trump Master Profile|Trump]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #babin #texas #science #petrochemical #nasa #energy #climate-denial #exxonmobil #follow-the-money #class-analysis #knowledge-suppression #revolving-door
 

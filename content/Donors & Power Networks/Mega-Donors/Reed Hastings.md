@@ -45,6 +45,9 @@ total-political-spend: $28,513,162
 politicians-funded: "[[Hakeem Jeffries]], [[CSPOA - The Anti-Government Sheriff Network]], [[Barack Obama]], [[Joe Biden]], [[Kamala Harris]]"
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

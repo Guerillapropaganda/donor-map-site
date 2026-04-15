@@ -6,6 +6,10 @@ last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Josh Shapiro Master Profile]]
 related: "[[The Biden Exit and Harris Installation]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Post-October 7 Positions and Flip History]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Early History and Background Ties 2003-2019]] · [[Gun and Public Safety - Donors and Backers]] · [[_Josh Shapiro Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[The $1.6 Billion Fundraising Machine]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]] · [[Trump Resistance and the 2028 Play]] · [[Sanctuary State - SB 54 and What It Actually Does]] · [[Private Detention - AB 32]] · [[Immigration - Donors and Backers]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #josh-shapiro #donors #aipac #bloomberg #soros #corporate-democrat #class-analysis #follow-the-money
 

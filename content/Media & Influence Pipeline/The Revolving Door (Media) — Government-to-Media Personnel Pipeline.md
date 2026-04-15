@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 2
 parent: null
 related: "[[Fox News - Murdoch Media Empire]] · [[Crooked Media]] · [[Rachel Maddow]] · [[Sean Hannity]] · [[Tucker Carlson]] · [[Dan Bongino]] · [[Nicolle Wallace]] · [[Joe Scarborough]] · [[Raytheon (RTX)]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media #revolving-door #fox-news #msnbc #trump #obama #defense #lobbying #disclosure #both-sides-illusion

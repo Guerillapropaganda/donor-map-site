@@ -26,6 +26,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Steve_Witkoff
 wikipedia-extract: Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group.
 born: "1957-03-15"
 top-donors: "[[World Liberty Financial]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

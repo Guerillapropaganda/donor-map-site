@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Ron DeSantis Master Profile]]
 related: "[[The Disney War and the Limits of Culture War Governance]] · [[_Ron DeSantis Master Profile]] · [[Kenneth Griffin]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #desantis #super-pac #never-back-down #donor-class #failed-campaign #class-analysis #follow-the-money #2024-primary
 

@@ -12,6 +12,7 @@ issues:
   - Energy & Climate
 related: "[[Enterprise Products Partners]] · [[ExxonMobil]] · [[Donald Trump]]"
 top-donors: "[[ExxonMobil]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

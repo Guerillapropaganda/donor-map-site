@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Josh Green Master Profile]]
 related: "[[_Josh Green Master Profile]] · [[Hawaiian Electric Company]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #josh-green #hawaii #maui #wildfire #disaster #rebuilding #fema #insurance #class-analysis
 

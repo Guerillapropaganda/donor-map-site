@@ -49,6 +49,9 @@ wikipedia-extract: "Brady: United Against Gun Violence is an American nonprofit 
 federal-register-mentions: 1
 regulatory-agencies:
   - Federal Election Commission
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 

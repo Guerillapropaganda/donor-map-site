@@ -6,6 +6,9 @@ last-updated: 2026-03-27
 source-tier: 1
 parent: "[[_Alex Padilla Master Profile]]"
 related: "[[_Alex Padilla Master Profile]] · [[Marc Andreessen & Horowitz]] · [[Google - Alphabet]] · [[Meta - Facebook]] · [[Amazon]] · [[Lyft]] · [[Silicon Valley Democratic Donor Network]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #padilla #california #tech #immigration #labor #judiciary #environment #h1b #vc-donors #gig-economy #class-analysis #follow-the-money
 

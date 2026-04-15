@@ -6,6 +6,9 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Chad Bianco Master Profile]]
 related: "[[_Chad Bianco Master Profile]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]] · [[Sanctuary State - SB 54 and What It Actually Does]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #bianco #immigration #287g #sanctuary #SB54 #ICE #class-analysis #follow-the-money #latino #riverside #trump #america-first-legal
 

@@ -6,6 +6,10 @@ last-updated: 2026-04-15
 source-tier: 2
 parent: [[_Juliana Stratton Master Profile]]
 related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Corporate PAC Pledge and Its Limits]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[JB Pritzker (Donor Network)]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #juliana-stratton #illinois-2026 #campaign-finance #primary
 

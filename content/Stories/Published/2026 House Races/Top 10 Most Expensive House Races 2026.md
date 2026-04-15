@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[AIPAC United Democracy Project 2026 Primary Intervention]] · [[Fairshake Crypto PAC 2026 Election Intervention]] · [[2026 Redistricting Wave - The Mid-Decade Map Wars]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #house #spending #super-pac #donor-analysis
 
