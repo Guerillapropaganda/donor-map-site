@@ -3,7 +3,7 @@ title: Raja Krishnamoorthi
 type: politician
 content-readiness: ready
 central-thesis: Krishnamoorthi is the bipartisan national security technocrat , a Democrat who provides liberal cover for the anti-China consensus that serves both defense industry donors and tech competitors seeking to eliminate Chinese competition from the Amer...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -49,7 +49,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Raja_Krishnamoorthi
 wikipedia-extract: Subramanian Raja Krishnamoorthi is an American attorney and politician serving as the U.S. representative for Illinois's 8th congressional district since 2017. He is a member of the Democratic Party.
 born: "1973-07-19"
 top-donors: "[[Planned Parenthood Votes]], [[NEA ADVOCACY FUND]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[TOGETHER WE THRIVE]], [[VICTORY FOR SCHAUMBURG]], [[NEA Advocacy Fund]], [[Victory for Schaumburg]], [[Together We Thrive]]"
-donors: "[[Victory for Schaumburg]]"
+donors: "[[Victory for Schaumburg]], [[NEA Advocacy Fund]], [[Together We Thrive]], [[VICTORY FOR SCHAUMBURG]], [[Planned Parenthood Votes]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[NEA ADVOCACY FUND]], [[TOGETHER WE THRIVE]]"
 ---
 
 <!-- auto:data-panel start -->

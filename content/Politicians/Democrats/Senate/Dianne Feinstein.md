@@ -2,7 +2,7 @@
 title: Dianne Feinstein
 type: politician
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -32,7 +32,7 @@ reenrich-reason: run committee pipeline; re-run congress pipeline for bills coun
 internal-notes: "[CODE @ 2026-04-12] Pipeline: congress FAILED for Dianne Feinstein. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24318211380"
 checklist-na:
   - "bills: From the Congress.gov API via the enrichment pipeline. "
-donors: "[[One Nation United]]"
+donors: "[[One Nation United]], [[COPS VOTER GUIDE INC.]], [[DELIVERING FOR CALIFORNIA]], [[ONE NATION UNITED]], [[Cops Voter Guide Inc.]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[English Language Political Action Committee]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]], [[Humane Society Legislative Fund]], [[Delivering for California]]"
 ---
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
 

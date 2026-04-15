@@ -13,7 +13,7 @@ issues:
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
-related: "[[David Sacks Political Operation]] · [[Jeff Yass]] · [[Coinbase]] · [[Ripple Labs]]"
+related: "[[David Sacks]] · [[Jeff Yass]] · [[Coinbase]] · [[Ripple Labs]]"
 ---
 
 <!-- auto:data-panel start -->

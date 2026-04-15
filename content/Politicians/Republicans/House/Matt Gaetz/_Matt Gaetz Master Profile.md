@@ -3,7 +3,7 @@ title: Matt Gaetz
 type: politician
 content-readiness: ready
 central-thesis: Gaetz is the donor class's chaos agent , his function is not to pass legislation but to make government dysfunctional enough that regulation becomes impossible. His father's $30M+ fortune from the healthcare industry means he doesn't need the dono...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -39,7 +39,7 @@ issues:
   - Government Operations and Politics
   - Health
   - Immigration
-donors: "[[Protect Freedom Political Action Committee]]"
+donors: "[[Protect Freedom Political Action Committee]], [[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[CITIZEN SUPER PAC]], [[Florida Conservative Fund]], [[FLORIDA CONSERVATIVE FUND]], [[Citizen Super PAC]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]]"
 ---
 
 <!-- auto:data-panel start -->

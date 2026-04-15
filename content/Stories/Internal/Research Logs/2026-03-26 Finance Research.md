@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 known-gaps:
   - "No mapped relationships"
-related: "[[GEO Group - Private Prisons]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Raytheon Technologies]] · [[United Auto Workers]] · [[David Sacks Political Operation]] · [[_Donald Trump Master Profile]]"
+related: "[[GEO Group - Private Prisons]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Raytheon Technologies]] · [[United Auto Workers]] · [[David Sacks]] · [[_Donald Trump Master Profile]]"
 ---
 #finance-research #campaign-finance #daily-update #automated
 
@@ -243,7 +243,7 @@ Sacks has direct financial interests in crypto and AI regulation:
 > [!contradiction]
 > **Sacks holds a regulatory portfolio covering the exact industries his VC firm is invested in.** Unlike traditional government ethics rules requiring divestiture, the "special government employee" classification used for some White House advisors has more limited disclosure requirements. The creation of a federal AI/crypto regulatory framework by someone with active VC investments in AI and crypto companies is a textbook conflict of interest.
 
-**Vault profiles to update / create:** [[David Sacks Political Operation]]
+**Vault profiles to update / create:** [[David Sacks]]
 
 ### Sources (UNVERIFIED, not Chrome-loaded this session):
 - [OpenSecrets: David Sacks donor lookup](https://www.opensecrets.org/donor-lookup/results?name=David+Sacks&state=CA&cycle=2024&order=desc&sort=D) (Tier 1) (VERIFIED) (UNVERIFIED, page loaded but data requires JS rendering; verify detail in next session)
@@ -261,7 +261,7 @@ Sacks has direct financial interests in crypto and AI regulation:
 | [[PhRMA - Pharmaceutical Research and Manufacturers of America]] | $31.7M lobbying 2024; $37.9M in 2025; orphan drug exemption win; inaugural committee donations | HIGH |
 | [[Raytheon Technologies]] | $13.5M lobbying 2024; 71% revolving door; bipartisan both-sides contribution structure | MEDIUM |
 | [[United Auto Workers]] | $6.2M 2024 cycle; $1.7M to Senate Majority PAC; $40M organizing drive; 0% revolving door contrast | MEDIUM |
-| [[David Sacks Political Operation]] | 2024 donor profile; Trump AI/Crypto Czar appointment; Craft Ventures conflict of interest | MEDIUM |
+| [[David Sacks]] | 2024 donor profile; Trump AI/Crypto Czar appointment; Craft Ventures conflict of interest | MEDIUM |
 | [[Pam Bondi]] | GEO Group lobbyist ($390K) → U.S. Attorney General, direct revolving door to regulatory power over GEO's contracts | HIGH |
 
 ---

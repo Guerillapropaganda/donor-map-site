@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Corporation
-politicians-funded: "[[David Sacks (Donor Network)]], [[JD Vance]], [[Donald Trump]], [[David Sacks]]"
+politicians-funded: "[[David Sacks]], [[JD Vance]], [[Donald Trump]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
 issues:
   - Defense & Military
   - Immigration

@@ -3,7 +3,7 @@ title: Brian Schatz
 type: politician
 content-readiness: ready
 central-thesis: Schatz is the Democratic Party's next power broker , Schumer's chosen successor , building his leadership bid by signaling reliability to the donor class while maintaining a progressive public brand. His committee portfolio gives him jurisdiction ...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -41,7 +41,7 @@ issues:
   - Native Americans
   - Science, Technology, Communications
   - Taxation
-donors: "[[MoveOn.org Political Action]]"
+donors: "[[MoveOn.org Political Action]], [[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[Climate Hawks Vote]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]], [[International Longshore and Warehouse Union -- Political Action Fund]]"
 ---
 
 <!-- auto:data-panel start -->

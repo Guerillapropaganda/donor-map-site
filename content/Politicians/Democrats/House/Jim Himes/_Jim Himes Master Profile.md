@@ -3,7 +3,7 @@ title: Jim Himes
 type: politician
 content-readiness: ready
 central-thesis: Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -30,7 +30,7 @@ needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Trinity PAC]]"
+donors: "[[Trinity PAC]], [[League of Conservation Voters]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Common Sense for Connecticut]], [[COMMON SENSE FOR CONNECTICUT]], [[CONNECTICUT TAXPAYERS ALLIANCE]], [[TRINITY PAC]], [[Goldman Sachs]], [[Connecticut Taxpayers Alliance]]"
 ---
 
 <!-- auto:data-panel start -->

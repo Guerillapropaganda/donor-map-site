@@ -3,7 +3,7 @@ title: Marjorie Taylor Greene
 type: politician
 content-readiness: ready
 central-thesis: MTG monetizes outrage , her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -21,7 +21,7 @@ known-gaps:
   - No mapped relationships
 opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-donors: "[[The Lincoln Project]]"
+donors: "[[The Lincoln Project]], [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[A GREAT AMERICA PAC]], [[THE LINCOLN PROJECT]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[A Great America PAC]], [[DRAIN THE DC SWAMP PAC]], [[Drain the DC Swamp PAC]]"
 ---
 
 <!-- auto:data-panel start -->

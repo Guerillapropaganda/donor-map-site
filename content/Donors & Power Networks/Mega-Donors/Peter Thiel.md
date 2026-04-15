@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[Dan Bongino]], [[Donald Trump]], [[Matt Mahan]], [[Glenn Greenwald]], [[Nate Silver]], [[David Sacks]], [[Vivek Ramaswamy]], [[Mike Johnson]], [[David Sacks (Donor Network)]], [[Bari Weiss]], [[JD Vance]], [[Russell Brand]], [[Lex Fridman]]"
+politicians-funded: "[[Dan Bongino]], [[Donald Trump]], [[Matt Mahan]], [[Glenn Greenwald]], [[Nate Silver]], [[David Sacks]], [[Vivek Ramaswamy]], [[Mike Johnson]], [[Bari Weiss]], [[JD Vance]], [[Russell Brand]], [[Lex Fridman]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]]"
 subawards-issued: 50
 subawards-issued-amount: 1009778941592127500
 subawards-received: 50

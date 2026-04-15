@@ -1,6 +1,8 @@
 ---
 title: "Fairshake PAC - Crypto Super PAC (Redirect)"
-type: pac
+type: redirect
+editorial-status: redirect
+redirect-target: "[[Fairshake PAC]]"
 content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null

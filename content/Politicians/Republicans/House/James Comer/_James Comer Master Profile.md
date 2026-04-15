@@ -3,7 +3,7 @@ title: James Comer
 type: politician
 content-readiness: draft
 central-thesis: Comer is the investigator who doesn't investigate himself. His Oversight Committee gavel gives him the most powerful investigative tool in Congress — unilateral subpoena power — and he has deployed it almost exclusively as a partisan weapon. The B...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -42,7 +42,7 @@ wikipedia-extract: James Richardson Comer Jr. is an American politician from Ken
 born: "1972-08-19"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[ALLIANCE COAL, LLC PAC]], [[TOGETHER WE THRIVE]], [[Together We Thrive]], [[Alliance Coal, LLC PAC]]"
-donors: "[[Together We Thrive]]"
+donors: "[[Together We Thrive]], [[Alliance Coal, LLC PAC]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[TOGETHER WE THRIVE]], [[ALLIANCE COAL, LLC PAC]]"
 ---
 
 <!-- auto:data-panel start -->

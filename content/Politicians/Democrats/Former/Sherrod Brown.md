@@ -3,7 +3,7 @@ title: Sherrod Brown
 type: politician
 content-readiness: ready
 central-thesis: Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 fec-candidate-id: S6OH00163
@@ -14,7 +14,7 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[David Sacks]] · [[Crossroads Grassroots Policy Strategies]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Senate Leadership Fund]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[STARS AND STRIPES FOREVER PAC]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]]"
+donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[David Sacks]] · [[Crossroads Grassroots Policy Strategies]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Senate Leadership Fund]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[STARS AND STRIPES FOREVER PAC]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]] · [[David Sacks - Donor Network]]"
 related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]]"
 editorial-review-date: "2026-04-08"
 editorial-reviewer: Research Claude

@@ -3,7 +3,7 @@ title: Lee Zeldin
 type: politician
 content-readiness: ready
 central-thesis: "Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: Leonard Leo's CRC Advisors paid him $3K+ for fossil..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -30,7 +30,7 @@ last-enriched: "2026-04-10"
 wikipedia-url: https://en.wikipedia.org/wiki/Lee_Zeldin
 wikipedia-extract: Lee Michael Zeldin is an American politician and lawyer serving as the 17th administrator of the Environmental Protection Agency (EPA) since January 2025.
 born: "1980-01-30"
-donors: "[[314 Action Fund]]"
+donors: "[[314 Action Fund]], [[DCCC]], [[AMERICANS FOR COMMON SENSE (AFCS)]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Leonard Leo]], [[314 ACTION FUND]], [[Koch Network - Charles Koch]], [[HOUSE MAJORITY PAC]]"
 ---
 
 <!-- auto:data-panel start -->

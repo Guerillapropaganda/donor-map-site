@@ -9,17 +9,17 @@ generator: scripts/migrate-frontmatter-delta.cjs
 
 # Frontmatter Delta Migration Report
 
-Generated: 2026-04-15T20:24:56.042Z
-Mode: **DRY RUN** (no files written)
+Generated: 2026-04-15T20:57:46.222Z
+Mode: WRITE
 
 Re-scans vault frontmatter for relationship fields and upserts edges into `data/relationships.jsonl`. Unlike the original Phase 3 Part 1 migration, this script uses `relationships-store.upsertEdges()` to MERGE with existing edges, preserving all non-frontmatter sources (pipelines, manual-ops, etc.).
 
 ## Summary
 
-- Profiles scanned: 2849
+- Profiles scanned: 2852
 - Profiles with relationships: 1765
-- Raw wikilink targets: 19075
-- Edge candidates built: 18736
+- Raw wikilink targets: 19086
+- Edge candidates built: 18747
 - Skipped (missing target): 334
 - Skipped (missing source): 0
 - Skipped (collision): 0
@@ -30,7 +30,7 @@ Re-scans vault frontmatter for relationship fields and upserts edges into `data/
 | Field | Edges built |
 |---|---:|
 | `related` | 14972 |
-| `donors` | 1576 |
+| `donors` | 1587 |
 | `politicians-funded` | 1423 |
 | `top-donors` | 602 |
 | `opposes` | 133 |
@@ -42,9 +42,19 @@ Re-scans vault frontmatter for relationship fields and upserts edges into `data/
 | Type | Edges built |
 |---|---:|
 | `related` | 14972 |
-| `monetary` | 3601 |
+| `monetary` | 3612 |
 | `political-opposition` | 146 |
 | `story-link` | 17 |
+
+## Applied to canonical store
+
+- Edges before: 31981
+- Edges after: 32035
+- Net new: **+54**
+- upsertEdges added: 54
+- upsertEdges updated: 17012
+- upsertEdges skipped (no-change): 1681
+- upsertEdges invalid: 0
 
 ## Top missing targets (wikilinks with no matching profile)
 

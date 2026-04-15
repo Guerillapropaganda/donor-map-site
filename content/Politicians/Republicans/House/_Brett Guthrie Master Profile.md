@@ -3,7 +3,7 @@ title: Brett Guthrie
 type: politician
 bioguide-id: G000558
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -22,7 +22,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AbbVie]]"
-donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
+donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AbbVie]], [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->
