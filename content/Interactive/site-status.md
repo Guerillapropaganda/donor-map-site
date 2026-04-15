@@ -7,36 +7,36 @@ type: reference
 
 | Category | Count |
 |----------|-------|
-| **Total Profiles** (politicians + donors) | 1129 |
-| Politicians | 729 |
-| Donors / Corporations | 400 |
+| **Total Profiles** (politicians + donors) | 1168 |
+| Politicians | 730 |
+| Donors / Corporations | 438 |
 | Stories | 105 |
-| Events | 302 |
-| All .md files scanned | 2404 |
+| Events | 362 |
+| All .md files scanned | 2565 |
 
 ## Readiness Breakdown
 
 | Level | Count |
 |-------|-------|
-| Raw (D-F) | 470 |
-| Draft (C) | 593 |
+| Raw (D-F) | 509 |
+| Draft (C) | 598 |
 | Ready (B) | 927 |
 | Verified (A+) | 0 |
-| Unknown / Not Set | 414 |
+| Unknown / Not Set | 531 |
 
 ## Verification Status
 
 | Tag | Files |
 |-----|-------|
-| Files with (UNVERIFIED) | 57 |
-| Files with (URL NEEDED) | 29 |
+| Files with (UNVERIFIED) | 59 |
+| Files with (URL NEEDED) | 33 |
 
 ## Coverage
 
 | Metric | Count |
 |--------|-------|
 | Politicians with top-donors populated | 158 |
-| Politicians missing top-donors | 571 |
+| Politicians missing top-donors | 572 |
 | Donors with politicians-funded populated | 223 |
 
 ## Recent Activity
@@ -45,16 +45,16 @@ Last 10 profiles updated (by `last-updated` frontmatter):
 
 | Profile | Type | Last Updated |
 |---------|------|--------------|
-| Agribusiness Donor Bloc | donor | 2026-04-14 |
-| Agricultural Labor Vulnerability Donors | donor | 2026-04-14 |
-| California Farm Bureau Federation | donor | 2026-04-14 |
-| Cargill | corporation | 2026-04-14 |
-| John Deere | corporation | 2026-04-14 |
-| National Cattlemen's Beef Association | donor | 2026-04-14 |
-| Tyson Foods | corporation | 2026-04-14 |
-| Western Growers Association | donor | 2026-04-14 |
-| CoreCivic | corporation | 2026-04-14 |
-| Securus Technologies - Aventiv | corporation | 2026-04-14 |
+| 🚨 Bioguide contamination alert — 2026-04-15 | admin-note | '2026-04-15' |
+| Broken Source Refs Report | admin-note | 2026-04-15 |
+| Bug Queue | admin-note | 2026-04-15 |
+| Class Tag Priority Queue | admin-note | 2026-04-15 |
+| Entity Dedup + Orphan Audit | admin-note | 2026-04-15 |
+| FEC Unmatched Committees | admin-note | 2026-04-15 |
+| Frontmatter Delta Migration Report | admin-note | 2026-04-15 |
+| Ops Surface Audit | admin-note | 2026-04-15 |
+| Policy Class-Tag Gap Report | admin-note | 2026-04-15 |
+| Readiness Promotion Digest — Next Review Session | admin-note | 2026-04-15 |
 
 ## Stale Profiles
 
@@ -62,4 +62,4 @@ Profiles where `last-updated` is 90+ days ago: **0**
 
 ---
 
-*Generated: 2026-04-14 09:59:34 UTC*
+*Generated: 2026-04-15 06:29:08 UTC*
