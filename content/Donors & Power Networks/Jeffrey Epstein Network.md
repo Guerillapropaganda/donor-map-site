@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: Jeffrey Epstein Network.md
+sector: "Mega-Donors"
 entity-type: Individual Donor
 politicians-funded: "[[JD Vance]], [[Steve Bannon]], [[Donald Trump]]"
 issues:

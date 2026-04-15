@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-06
 source-tier: null
 parent: null
-sector: "Jeff Yass.md"
+sector: "Mega-Donors"
 entity-type: "Individual Donor"
 source-types:
   - LDA

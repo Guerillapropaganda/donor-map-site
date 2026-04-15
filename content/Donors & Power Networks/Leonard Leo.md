@@ -5,7 +5,7 @@ content-readiness: ready
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: Leonard Leo.md
+sector: "Dark Money"
 entity-type: Individual Donor
 politicians-funded: "[[Neil Gorsuch]], [[Clarence Thomas]], [[Mitch McConnell]], [[Brett Kavanaugh]], [[Lee Zeldin]], [[Josh Hawley]], [[Samuel Alito]], [[John Roberts]], [[Donald Trump]], [[Russell Vought]], [[Amy Coney Barrett]]"
 issues:
