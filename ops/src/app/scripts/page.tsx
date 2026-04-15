@@ -479,6 +479,17 @@ const SCRIPTS: ScriptEntry[] = [
     category: "health-check",
   },
   {
+    name: "Ops Surface Audit",
+    command: "node scripts/ops-surface-audit.cjs --write",
+    purpose: "Regenerate /system-health manifest after adding pages or APIs.",
+    plainEnglish:
+      "Walks ops/src/app/ for every page.tsx and api/**/route.ts file, parses each for fetch() calls + auth helpers, and writes a structured manifest to ops/src/data/ops-surfaces.json. The /system-health Ops dashboard reads this manifest to render its cards + run live health checks. Re-run this script any time you add a new Ops page, a new API route, or change the Sidebar.tsx NAV_ITEMS. Also writes a human-readable report to content/Admin Notes/ops-surface-audit.md. Safe, read-only — doesn't touch any Ops route.",
+    output: "ops/src/data/ops-surfaces.json + content/Admin Notes/ops-surface-audit.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
     name: "Deps Sync Check",
     command: "node scripts/deps-sync-check.cjs",
     purpose: "Detect package.json / node_modules drift (root + ops).",
