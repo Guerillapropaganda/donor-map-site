@@ -402,14 +402,18 @@
     "party": null,
     "state": "FL",
     "aliases": [
-      "FIGHT RIGHT INC"
+      "FIGHT RIGHT INC",
+      "Fight Right Inc",
+      "Fight Right Inc.",
+      "Never Back Down Inc",
+      "NEVER BACK DOWN INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": "content/Donors & Power Networks/Dark Money/Fight Right Inc.md",
-    "vault_slug": "fight-right-inc",
+    "vault_profile": "content/Donors & Power Networks/Dark Money/Never Back Down Inc.md",
+    "vault_slug": "never-back-down-inc",
     "status": "mapped",
     "added": "2026-04-15T05:19:23.637Z",
-    "updated": "2026-04-15T16:03:50.990Z"
+    "updated": "2026-04-15T16:13:00.693Z"
   },
   "C00834630": {
     "committee_id": "C00834630",

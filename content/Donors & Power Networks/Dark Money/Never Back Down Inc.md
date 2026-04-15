@@ -1,5 +1,5 @@
 ---
-title: "Fight Right Inc."
+title: "Never Back Down Inc."
 type: donor
 content-readiness: raw
 sector: "Dark Money"
