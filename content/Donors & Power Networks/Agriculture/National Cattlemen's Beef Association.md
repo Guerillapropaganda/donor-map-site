@@ -34,7 +34,7 @@ annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-12"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -62,7 +62,7 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Food Safety and Inspection Service"
   - "Interior Department"
-related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]]"
+related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
 nonprofit-status: "501(c)(6)"
 total-revenue: 56531773
 total-assets: 37287895
@@ -322,7 +322,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Cattlemen's%20Beef%20Association%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -407,7 +407,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-11 -->
+<!-- auto:federal-register pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -25,7 +25,7 @@ bills-sponsored: 1
 bills-cosponsored: 16
 website: "https://jordan.house.gov"
 phone: "202-225-2676"
-related: "[[_Mike Johnson Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Kash Patel Master Profile]] · [[Elise Stefanik]]"
+related: "[[_Mike Johnson Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Kash Patel Master Profile]] · [[Elise Stefanik]] · [[Chip Roy Master Profile]]"
 donors: "[[House Freedom Caucus]]"
 ---
 

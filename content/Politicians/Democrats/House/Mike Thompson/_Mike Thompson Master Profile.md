@@ -22,7 +22,7 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
-donors: "[[National Cattlemen's Beef Association]]"
+donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
 ---
 
 

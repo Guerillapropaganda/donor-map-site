@@ -59,7 +59,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(5)"
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]]"
 sec-filings: 291
 sec-form-types:
   - "10-Q"
@@ -252,7 +252,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-11 -->
+<!-- auto:federal-register pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -296,7 +296,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -304,7 +304,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 |--------|-------|
 | Federal Court Cases | 111 |
 | Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware |
-| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/compromised Organization |
+| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/Corrupt Organization |
 
 **Notable cases:**
 - United Farm Workers v. United States Department of Labor (2025) — District Court, E.D. California

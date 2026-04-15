@@ -11,7 +11,7 @@ known-gaps:
   - "No donor network analysis"
 source-types:
   - Congress
-donors: "[[National Cattlemen's Beef Association]]"
+donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
 ---
 
 

@@ -25,8 +25,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
-donors: "[[Patrick Soon-Shiong]]"
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[South Carolina 2026 Senate Race]]"
+donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]]"
 ---
 
 <!-- auto:data-panel start -->

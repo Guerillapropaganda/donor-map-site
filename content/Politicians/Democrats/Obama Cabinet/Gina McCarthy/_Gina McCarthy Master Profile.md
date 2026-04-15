@@ -11,7 +11,7 @@ known-gaps:
   - "No donor network analysis"
 source-types:
   - Congress
-donors: "[[Brady Campaign]]"
+donors: "[[Brady Campaign]] · [[Western Growers Association]]"
 ---
 
 

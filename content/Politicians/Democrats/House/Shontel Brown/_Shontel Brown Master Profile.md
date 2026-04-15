@@ -13,7 +13,7 @@ district: "11"
 issues:
   - Israel & Foreign Policy
 related: "[[_Nina Turner Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors: "DMFI PAC,AIPAC · [[Lawrence Summers]]"
+donors: "DMFI PAC,AIPAC · [[Lawrence Summers]] · [[Republican Jewish Coalition]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

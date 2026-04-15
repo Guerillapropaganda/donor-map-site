@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: "Dark Money"
 entity-type: "Individual Donor"
-court-cases: 410
+court-cases: 411
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: "501(c)(4)"
@@ -157,13 +157,13 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 410 |
+| Federal Court Cases | 411 |
 | Courts | Court of Appeals for the D.C. Circuit, District Court, D. Kansas, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. North Carolina, District Court, W.D. Texas |
 | Case Types | 2899 Other Statutes APA/Review Agency, 440 Civil Rights: Other, 840 Trademark, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
 
@@ -256,19 +256,19 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 **Funded politicians:**
 
+- [[Jerrold Nadler]] — lobbying: $836K
+- [[Jerry Nadler]] (Judiciary, Antitrust (Judiciary)) — lobbying: $836K
+- [[James E. Clyburn]] — lobbying: $836K
 - [[Gina McCarthy]] — lobbying: $836K
 - [[Kevin McCarthy]] — lobbying: $836K
+- [[Robert Menendez]] — lobbying: $836K
+- [[Bob Menendez]] (Foreign Relations) — lobbying: $836K
 - [[Wes Moore]] — lobbying: $836K
 - [[Gwen Moore]] — lobbying: $836K
 - [[Barry Moore]] — lobbying: $836K
 - [[Blake D. Moore]] — lobbying: $836K
 - [[Riley M. Moore]] — lobbying: $836K
 - [[Tim Moore]] — lobbying: $836K
-- [[Jerrold Nadler]] — lobbying: $836K
-- [[Jerry Nadler]] (Judiciary, Antitrust (Judiciary)) — lobbying: $836K
-- [[James E. Clyburn]] — lobbying: $836K
-- [[Robert Menendez]] — lobbying: $836K
-- [[Bob Menendez]] (Foreign Relations) — lobbying: $836K
 - [[Melissa Bean]] — lobbying: $836K
 - [[Aaron Bean]] — lobbying: $836K
 - [[Linda McMahon]] (Education & Labor) — lobbying: $836K
@@ -404,3 +404,20 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+<!-- auto:federal-register pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 1 |
+| Notice | 1 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2024/12/09/2024-28995/sunshine-act-meetings) (2024-12-09) — Federal Election Commission
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1)
+
+<!-- auto:federal-register pending-merge end -->

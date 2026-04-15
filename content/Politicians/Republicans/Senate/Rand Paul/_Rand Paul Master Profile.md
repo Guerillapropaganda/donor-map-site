@@ -27,12 +27,12 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
-related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
+related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Jeffrey Yass]]"
 last-enriched: "2026-04-10"
 bioguide-id: "P000603"
 issues:
   - "Crime and Law Enforcement"
-donors: "[[Larry Ellison]]"
+donors: "[[Larry Ellison]] · [[Jeffrey Yass]]"
 ---
 
 <!-- auto:data-panel start -->

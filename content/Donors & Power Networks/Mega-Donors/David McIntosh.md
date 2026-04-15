@@ -2,7 +2,7 @@
 title: "David McIntosh"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Mega-Donors"
@@ -13,7 +13,7 @@ politicians-funded:
   - "Jon Ossoff"
   - "Roy Cooper"
   - "Donald Trump"
-related: "[[Club for Growth]]"
+related: "[[Club for Growth]] · [[Raphael Warnock]]"
 last-enriched: "2026-04-11"
 federal-register-mentions: 10
 regulatory-agencies:

@@ -46,7 +46,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]"
-donors: "[[AFGE - American Federation of Government Employees]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[Insurance Industry]]"
 ---
 
 <!-- auto:data-panel start -->

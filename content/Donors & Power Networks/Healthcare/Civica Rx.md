@@ -24,7 +24,7 @@ court-cases: 2
 court-jurisdictions:
   - "Court of Appeals for the Second Circuit"
   - "District Court, N.D. Ohio"
-related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]]"
+related: "[[UnitedHealth Group - Optum]] · [[CalRx - The Genuine Win With Caveats]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Healthcare - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]]"
 sec-filings: 7
 sec-form-types:
   - "DEF 14A"

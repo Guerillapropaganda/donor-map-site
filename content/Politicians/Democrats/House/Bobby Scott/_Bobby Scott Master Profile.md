@@ -324,7 +324,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 **Key Votes**
 
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
@@ -342,7 +342,6 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 **Sources**
 
-- [Congress.gov: Bobby Scott](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

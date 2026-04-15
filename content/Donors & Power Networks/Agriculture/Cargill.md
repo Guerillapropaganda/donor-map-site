@@ -24,7 +24,7 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]] · [[Agribusiness Donor Bloc]]"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 sec-filings: 10000
@@ -77,7 +77,7 @@ sec-form-types:
   - "SC 13D"
   - "SC 13D/A"
   - "XML"
-court-cases: 12441
+court-cases: 12597
 court-jurisdictions:
   - "Court of Appeals for the Federal Circuit"
   - "Court of Appeals for the Tenth Circuit"
@@ -86,9 +86,9 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. California"
   - "District Court, M.D. Florida"
+  - "District Court, M.D. Louisiana"
   - "District Court, M.D. Pennsylvania"
   - "District Court, S.D. Iowa"
-  - "United States Bankruptcy Court, N.D. Florida"
 fda-recalls: 42
 fda-recalls-class-i: 10
 cross-vault-triangulation-count: 12
@@ -104,18 +104,18 @@ wikipedia-extract: "Cargill, Incorporated is an American multinational food corp
 founded: "1865-01-01"
 lei: "549300B5ALGB4HZFWU97"
 lei-jurisdiction: "NL"
-federal-register-mentions: 820
+federal-register-mentions: 822
 regulatory-agencies:
   - "Agricultural Marketing Service"
   - "Agriculture Department"
-  - "Coast Guard"
   - "Commerce Department"
   - "Drug Enforcement Administration"
   - "Environmental Protection Agency"
   - "Federal Mine Safety and Health Review Commission"
   - "Food and Drug Administration"
   - "Health and Human Services Department"
-  - "Homeland Security Department"
+  - "International Trade Administration"
+  - "International Trade Commission"
 lobbying-spend: 4875000
 lobbying-filings: 50
 ---
@@ -431,23 +431,23 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 12,441 |
-| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Nebraska, District Court, District of Columbia, District Court, E.D. California, District Court, M.D. Florida, District Court, M.D. Pennsylvania +3 more |
+| Federal Court Cases | 12,597 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Nebraska, District Court, District of Columbia, District Court, E.D. California, District Court, M.D. Florida, District Court, M.D. Louisiana +4 more |
 | Case Types | 410 Anti-Trust, 463 Habeas Corpus - Alien Detainee, 830 Patent Infringement (Fed. Qst.), 890 Other Statutory Actions |
 
 **Notable cases:**
+- Chenevert v. PSC Group LLC (2026) — District Court, M.D. Louisiana
 - REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
 - Dennis v. Cargill, Incorporated (2026) — District Court, D. Nebraska
 - Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
 - Strahl v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
 - In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
-- Sue Kim v. Target Corporation (2026) — District Court, C.D. California
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
 
@@ -606,6 +606,31 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+<!-- auto:federal-register pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 822 |
+| Final Rules | 62 |
+| Proposed Rules | 43 |
+| Notices | 717 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Commerce Department, Drug Enforcement Administration, Environmental Protection Agency, Federal Mine Safety and Health Review Commission, Food and Drug Administration, Health and Human Services Department +4 more |
+
+**Recent regulatory activity:**
+- [Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2026/04/15/2026-07311/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of-the) (2026-04-15) — Commerce Department
+- [Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order](https://www.federalregister.gov/documents/2026/04/15/2026-07308/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of-the) (2026-04-15) — Commerce Department
+- [Erythritol From China; Determinations](https://www.federalregister.gov/documents/2026/03/26/2026-05850/erythritol-from-china-determinations) (2026-03-26) — International Trade Commission
+- [Citric Acid and Certain Citrate Salts From China; Scheduling of Expedited Five-Year Reviews](https://www.federalregister.gov/documents/2026/03/26/2026-05848/citric-acid-and-certain-citrate-salts-from-china-scheduling-of-expedited-five-year-reviews) (2026-03-26) — International Trade Commission
+- [Public Hearing](https://www.federalregister.gov/documents/2026/03/25/2026-05817/public-hearing) (2026-03-25) — Susquehanna River Basin Commission
+- [Citric Acid and Certain Citrate Salts From Canada and India: Postponement of Preliminary Determination in the Countervailing Duty Investigations](https://www.federalregister.gov/documents/2026/03/25/2026-05806/citric-acid-and-certain-citrate-salts-from-canada-and-india-postponement-of-preliminary) (2026-03-25) — Commerce Department
+- ... and 816 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1)
+
+<!-- auto:federal-register pending-merge end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

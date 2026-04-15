@@ -20,7 +20,7 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 lobbying-spend: 2076000
 lobbying-filings: 84
-related: ">- · [[State Policy Network]]"
+related: ">- · [[State Policy Network]] · [[ALEC - American Legislative Exchange Council]]"
 source-types:
   - Courts
   - LDA

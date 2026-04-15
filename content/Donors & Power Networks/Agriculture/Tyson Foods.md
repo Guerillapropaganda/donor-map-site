@@ -17,7 +17,7 @@ top-federal-agency: "Department of Agriculture"
 top-naics-code: "311615"
 ein: 476014039
 nonprofit-status: "501(c)(3)"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 total-revenue: 1
@@ -35,7 +35,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Health and Human Services Department"
 related: "[[Cargill]] · [[Agriculture - Donors and Backers]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[American Farm Bureau Federation]] · [[_John Boozman Master Profile|Boozman]] · [[National Cattlemen's Beef Association]] · [[Monsanto - Bayer]] · [[John Deere]] · [[ADM - Archer Daniels Midland]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Agribusiness Donor Bloc]]"
-court-cases: 14516
+court-cases: 14512
 court-jurisdictions:
   - "Court of Appeals for the Tenth Circuit"
   - "District Court, C.D. California"
@@ -333,7 +333,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tyson%20Foods%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-11 -->
+<!-- auto:federal-register pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -377,13 +377,13 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 14,516 |
+| Federal Court Cases | 14,512 |
 | Courts | Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, C.D. Illinois, District Court, D. Oregon, District Court, E.D. Arkansas, District Court, E.D. Washington, District Court, M.D. Alabama, District Court, S.D. Florida +3 more |
 | Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 830 Patent, 890 Other Statutory Actions, 893 Environmental Matters |
 

@@ -18,7 +18,7 @@ ein: 237236607
 annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 federal-register-mentions: 172
@@ -32,7 +32,7 @@ regulatory-agencies:
   - "Safety and Environmental Enforcement Bureau"
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
 sec-filings: 10000
 sec-form-types:
   - "8-K"
@@ -293,6 +293,31 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Roundtable%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+<!-- auto:federal-register pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 172 |
+| Final Rules | 74 |
+| Proposed Rules | 45 |
+| Notices | 53 |
+| Agencies | Environmental Protection Agency, Homeland Security Department, Interior Department, Justice Department, Labor Department, Ocean Energy Management Bureau, Safety and Environmental Enforcement Bureau, Securities and Exchange Commission +1 more |
+
+**Recent regulatory activity:**
+- [Acceleration of Effectiveness of Registration Statements of Issuers With Certain Mandatory Arbitration Provisions](https://www.federalregister.gov/documents/2025/09/19/2025-18238/acceleration-of-effectiveness-of-registration-statements-of-issuers-with-certain-mandatory) (2025-09-19) — Securities and Exchange Commission
+- [Advisory Committee on Veterans' Employment, Training and Employer Outreach (ACVETEO): Charter Renewal](https://www.federalregister.gov/documents/2025/05/15/2025-08461/advisory-committee-on-veterans-employment-training-and-employer-outreach-acveteo-charter-renewal) (2025-05-15) — Labor Department
+- [Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2025/01/08/2024-31486/preventing-access-to-us-sensitive-personal-data-and-government-related-data-by-countries-of-concern) (2025-01-08) — Justice Department
+- [Decabromodiphenyl Ether and Phenol, Isopropylated Phosphate (3:1); Revision to the Regulation of Persistent, Bioaccumulative, and Toxic Chemicals Under the Toxic Substances Control Act (TSCA)](https://www.federalregister.gov/documents/2024/11/19/2024-25758/decabromodiphenyl-ether-and-phenol-isopropylated-phosphate-31-revision-to-the-regulation-of) (2024-11-19) — Environmental Protection Agency
+- [Provisions Pertaining to Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons](https://www.federalregister.gov/documents/2024/10/29/2024-24582/provisions-pertaining-to-preventing-access-to-us-sensitive-personal-data-and-government-related-data) (2024-10-29) — Justice Department
+- [Solicitation of Nominations for Appointment to the Advisory Committee on Veterans' Employment, Training, and Employer Outreach (ACVETEO)](https://www.federalregister.gov/documents/2024/08/05/2024-17221/solicitation-of-nominations-for-appointment-to-the-advisory-committee-on-veterans-employment) (2024-08-05) — Labor Department
+- ... and 166 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Business%20Roundtable%22) (Tier 1)
+
+<!-- auto:federal-register pending-merge end -->
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
