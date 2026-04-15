@@ -1,21 +1,20 @@
 ---
-title: "Oracle"
+title: Oracle
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Technology"
+  - Technology
 ein: "455577678"
-annual-revenue: "$169K"
-net-assets: "$342K"
+annual-revenue: $169K
+net-assets: $342K
 tax-year: "2023"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-09"
 total-revenue: 238199
 total-assets: 312779
@@ -23,7 +22,7 @@ subawards-issued: 50
 subawards-issued-amount: 281107145
 subawards-received: 50
 subawards-received-amount: 281107145
-top-federal-agency: "Department of Veterans Affairs"
+top-federal-agency: Department of Veterans Affairs
 top-naics-code: "541512"
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[Larry Ellison]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]]"
 federal-awards-total: 1133627862
@@ -31,20 +30,20 @@ federal-contracts-count: 25
 federal-grants-count: 3
 court-cases: 18876
 court-jurisdictions:
-  - "District Court, D. Arizona"
-  - "District Court, D. Delaware"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Texas"
-  - "District Court, W.D. Michigan"
-  - "District Court, W.D. Missouri"
+  - District Court, D. Arizona
+  - District Court, D. Delaware
+  - District Court, M.D. Florida
+  - District Court, M.D. Tennessee
+  - District Court, N.D. California
+  - District Court, N.D. Texas
+  - District Court, S.D. New York
+  - District Court, S.D. Texas
+  - District Court, W.D. Michigan
+  - District Court, W.D. Missouri
 lobbying-spend: 21330000
 lobbying-filings: 58
-lei: "969500QP03W2YD1S4389"
-lei-jurisdiction: "FR"
+lei: 969500QP03W2YD1S4389
+lei-jurisdiction: FR
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
 ---

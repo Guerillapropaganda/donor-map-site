@@ -1,36 +1,35 @@
 ---
-title: "Harold Hamm"
+title: Harold Hamm
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Doug Burgum]], [[Donald Trump]]"
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 court-cases: 75
 last-enriched: "2026-04-07"
 court-jurisdictions:
-  - "District Court, D. Delaware"
-  - "District Court, D. New Mexico"
-  - "District Court, N.D. Illinois"
-  - "District Court, W.D. Oklahoma"
-  - "United States Bankruptcy Court, D. Wyoming"
-  - "United States Bankruptcy Court, E.D. Texas"
-  - "United States Bankruptcy Court, W.D. Louisiana"
-  - "United States Bankruptcy Court, W.D. North Carolina"
-total-political-spend: "$3,161,279"
+  - District Court, D. Delaware
+  - District Court, D. New Mexico
+  - District Court, N.D. Illinois
+  - District Court, W.D. Oklahoma
+  - United States Bankruptcy Court, D. Wyoming
+  - United States Bankruptcy Court, E.D. Texas
+  - United States Bankruptcy Court, W.D. Louisiana
+  - United States Bankruptcy Court, W.D. North Carolina
+total-political-spend: $3,161,279
 federal-register-mentions: 3
 regulatory-agencies:
-  - "Federal Trade Commission"
+  - Federal Trade Commission
 ein: "461256191"
-annual-revenue: "$163K"
-net-assets: "$11.1M"
+annual-revenue: $163K
+net-assets: $11.1M
 tax-year: "2024"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 160081
 total-assets: 8950006
 related: "[[Doug Burgum Master Profile]] · [[The Interior Department as Fossil Fuel Policy Vehicle]] · [[The Harold Hamm Pipeline and the Continental Resources Conflict]] · [[The 445 Million Dollar Oil Investment and Wrights Buy-In]] · [[Environment - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[Chevron]] · [[PG&E]]"

@@ -1,38 +1,38 @@
 ---
-title: "Rashida Tlaib"
+title: Rashida Tlaib
 type: politician
 content-readiness: ready
-central-thesis: "Tlaib represents the intersection of Palestinian-American identity politics and working-class Detroit economics , a combination that makes her impossible for AIPAC to defeat in her district but perpetually marginalized within the Democratic caucus..."
-last-updated: 2026-04-12
+central-thesis: Tlaib represents the intersection of Palestinian-American identity politics and working-class Detroit economics , a combination that makes her impossible for AIPAC to defeat in her district but perpetually marginalized within the Democratic caucus...
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Michigan"
-state-abbr: "MI"
+party: Democrat
+chamber: House
+state: Michigan
+state-abbr: MI
 district: "12"
-bioguide-id: "T000481"
+bioguide-id: T000481
 committees:
-  - "House Committee on Financial Services"
-  - "House Committee on Oversight and Government Reform"
+  - House Committee on Financial Services
+  - House Committee on Oversight and Government Reform
 govtrack-id: 412787
 bills-sponsored: 32
 bills-cosponsored: 871
-website: "https://tlaib.house.gov"
-phone: "202-225-5126"
-total-received: "$1,896,063"
-fec-candidate-id: "H8MI13250"
+website: https://tlaib.house.gov
+phone: 202-225-5126
+total-received: $1,896,063
+fec-candidate-id: H8MI13250
 issues:
-  - "Agriculture and Food"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Commerce"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Emergency Management"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
+  - Agriculture and Food
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Commerce
+  - Crime and Law Enforcement
+  - Education
+  - Emergency Management
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
 source-types:
   - Congress
   - FEC
@@ -43,33 +43,28 @@ known-gaps:
   - Body text references Drain the Swamp Act but no direct Congress.gov citation
   - Marathon Petroleum refinery leak details cited via DeSmog (Tier 2) , could benefit from direct EPA ECHO Tier 1 backup
 opposes:
-  - "AIPAC"
-  - "United Democracy Project"
-  - "DMFI PAC"
-  - "Marathon Petroleum"
-  - "Koch Network"
-donors:
-  - "Small Dollar Donors (grassroots)"
-  - "Arab-American community organizations"
-  - "DSA network"
-editorial-review-date: '2026-04-10'
-editorial-reviewer: "Research Claude"
+  - AIPAC
+  - United Democracy Project
+  - DMFI PAC
+  - Marathon Petroleum
+  - Koch Network
+donors: "[[Wfp Ie Committee]], [[Law Enforcement for a Safer America Pac]], [[Honoring American Law Enforcement Pac]], [[MOVEON.ORG POLITICAL ACTION]]"
+editorial-review-date: "2026-04-10"
+editorial-reviewer: Research Claude
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC, Congress.gov with verified bioguide T000481, GovTrack, House Oversight Democrats primary source), strong class analysis, documented core contradiction, extensive AIPAC War section with real spending numbers, November 2023 censure documented, Marathon Petroleum Oversight investigation cited. No defamation-prone claims. No (URL NEEDED) tags. No (UNVERIFIED) tags. No A000383 contamination (verified clean). Zero inline dataview markers. Ready for editor review."
 related: "[[_Ilhan Omar Master Profile|Omar]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[J Street]] · [[_Jamaal Bowman Master Profile|Bowman]] · [[Marathon Petroleum]] · [[Haim Saban]] · [[_Saikat Chakrabarti Master Profile|Saikat Chakrabarti]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
-total-raised: "$1,896,063"
-total-spent: "$1,250,673"
+total-raised: $1,896,063
+total-spent: $1,250,673
 cash-on-hand: "4908945.01"
 fec-cycle: 2026
-wikidata-id: "Q7294939"
-wikipedia-url: "https://en.wikipedia.org/wiki/Rashida_Tlaib"
-wikipedia-extract: "Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023."
+wikidata-id: Q7294939
+wikipedia-url: https://en.wikipedia.org/wiki/Rashida_Tlaib
+wikipedia-extract: Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023.
 born: "1976-07-24"
 ---
 

@@ -1,29 +1,30 @@
 ---
-title: "Bill Hagerty"
+title: Bill Hagerty
 type: politician
-chamber: "Senate"
-party: "Republican"
+chamber: Senate
+party: Republican
 content-readiness: ready
-central-thesis: "Hagerty exemplifies the private equity-to-political-appointment-to-elected-office pipeline. His donor base is Blackstone, private equity networks, and Trump mega-donors seeking financial sector favorability. The Trump ambassador credential was pol..."
-last-updated: 2026-04-13
+central-thesis: Hagerty exemplifies the private equity-to-political-appointment-to-elected-office pipeline. His donor base is Blackstone, private equity networks, and Trump mega-donors seeking financial sector favorability. The Trump ambassador credential was pol...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-bioguide-id: "H000601"
+bioguide-id: H000601
 govtrack-id: 456798
 bills-sponsored: 22
 bills-cosponsored: 158
-website: "https://www.hagerty.senate.gov"
-phone: "202-224-4944"
-total-received: "$13,807,466"
-fec-candidate-id: "S0TN00169"
+website: https://www.hagerty.senate.gov
+phone: 202-224-4944
+total-received: $13,807,466
+fec-candidate-id: S0TN00169
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]]"
+top-donors: "[[Standing With Conservatives]]"
 ---
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis
 tags: #republican

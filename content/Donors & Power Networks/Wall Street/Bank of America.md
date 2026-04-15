@@ -1,44 +1,42 @@
 ---
-title: "Bank of America"
+title: Bank of America
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "French Hill"
-  - "Tim Scott"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Tim Scott]], [[French Hill]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ein: "200721133"
-annual-revenue: "$220.2M"
-net-assets: "$7.6M"
+annual-revenue: $220.2M
+net-assets: $7.6M
 tax-year: "2023"
 federal-register-mentions: 828
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 regulatory-agencies:
-  - "Commodity Futures Trading Commission"
-  - "Comptroller of the Currency"
-  - "Consumer Financial Protection Bureau"
-  - "Federal Communications Commission"
-  - "Federal Deposit Insurance Corporation"
-  - "Federal Housing Finance Agency"
-  - "Federal Reserve System"
-  - "Housing and Urban Development Department"
-  - "Justice Department"
-  - "Securities and Exchange Commission"
+  - Commodity Futures Trading Commission
+  - Comptroller of the Currency
+  - Consumer Financial Protection Bureau
+  - Federal Communications Commission
+  - Federal Deposit Insurance Corporation
+  - Federal Housing Finance Agency
+  - Federal Reserve System
+  - Housing and Urban Development Department
+  - Justice Department
+  - Securities and Exchange Commission
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[The Intellectual Property and Banking Donor Pipeline]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[_French Hill Master Profile|French Hill]] · [[_Tim Scott Master Profile|Tim Scott]] · [[Wells Fargo]] · [[Morgan Stanley]]"
 subawards-issued: 9
 subawards-issued-amount: 912260
 subawards-received: 9
 subawards-received-amount: 912260
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "522110"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 total-revenue: 218843611
 total-assets: 10062101
 federal-awards-total: 180306
@@ -46,16 +44,16 @@ federal-contracts-count: 4
 federal-grants-count: 3
 sec-filings: 10000
 sec-form-types:
-  - "424B2"
-  - "EX-10"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3 OTHER FIN ST"
-  - "EX-99.4 ACQ AGREEMNT"
-  - "FWP"
-  - "N-Q"
-  - "NPORT-P"
+  - 424B2
+  - EX-10
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3 OTHER FIN ST
+  - EX-99.4 ACQ AGREEMNT
+  - FWP
+  - N-Q
+  - NPORT-P
 occ-enforcement-actions: 115
 occ-active-actions: 95
 occ-charter-numbers:
@@ -70,9 +68,7 @@ occ-charter-numbers:
   - "21944"
 occ-cmp-dollars: 491299530
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->
@@ -383,3 +379,53 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 - ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
+
+<!-- auto:occ-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Legal name (OCC) | Bank of America, National Association |
+| Charter number(s) | 13044, 500610, 11280, 22429, 14740, 14925, 703052, 22381, 21944 |
+| Total OCC enforcement actions | 115 |
+| **Active actions** | **95** |
+| Civil Money Penalties | 9 |
+| Total CMP dollars | $491,299,530 |
+| Most recent action | 12/30/1999 |
+| Earliest action | 01/04/2019 |
+
+**Action types:**
+
+- Prohibition/Removal Orders: 72
+- C&D or PC&D Requiring Restitution: 13
+- Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D): 11
+- Civil Money Penalty (CMP): 9
+- 1829 Prohibition Notification: 4
+- Formal Agreement: 4
+- Prompt Corrective Action (PCA) Directive: 1
+- Securities Enforcement Action: 1
+
+**Subject areas (2012+):** Board / Management Oversight; BSA Independent Testing/Audit; BSA Internal Controls; BSA Officer; BSA Program Violation / 12 CFR 21.21; BSA Risk Assessment; BSA SAR Violation / 12 CFR 21.11 or 163.180; BSA Training; BSA Violation Cited; BSA/AML; Customer/Enhanced Due Diligence (CDD/EDD); OFAC Compliance Issue
+
+**Still-active enforcement actions:**
+
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (12/30/1999)
+- [AA-ENF-2024-56: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-56.pdf) (12/23/2024)
+- [AA-EC-11-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2011-184.pdf) (12/21/2011)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-42.pdf) (12/20/2024)
+- [AA-EC-09-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2009-225.pdf) (12/10/2009)
+
+**Recent enforcement history:**
+
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (12/30/1999)
+- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea99-107.pdf) (12/30/1999) — $20,000
+- [AA-ENF-2024-56: Cease-and-Desist Order (C&D) or Personal Cease-and-Desist Order (PC&D)](https://www.occ.gov/static/enforcement-actions/eaAA-ENF-2024-56.pdf) (12/23/2024)
+- [AA-EC-11-72: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2011-184.pdf) (12/21/2011)
+- [: 1829 Prohibition Notification](https://www.occ.gov/static/enforcement-actions/ea2024-42.pdf) (12/20/2024)
+- [AA-EC-11-110: Prompt Corrective Action (PCA) Directive](https://www.occ.gov/static/enforcement-actions/ea2011-181.pdf) (12/16/2011) [terminated]
+- ... and 109 more
+
+- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+
+<!-- auto:occ-enforcement pending-merge end -->

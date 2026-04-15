@@ -150,60 +150,69 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
-## 2026-04-15 16:57 UTC — 16 profiles
 
-**nonprofit-990 — 16 profiles:**
-- California Farm Bureau Federation — EIN 940357610, 501(c)(5), rev $29.9M ⚠️ CONFLICT
-- Cargill — EIN 416020221, 501(c)(3), rev $144.3M ⚠️ CONFLICT
-- John Deere — EIN 366051024, 501(c)(3), rev $132.8M ⚠️ CONFLICT
-- National Cattlemen's Beef Association — EIN 840738973, 501(c)(6), rev $56.5M ⚠️ CONFLICT
-- Tyson Foods — EIN 476014039, 501(c)(3), rev $1 ⚠️ CONFLICT
-- Western Growers Association — EIN 751972150, 501(c)(6), rev $266K ⚠️ CONFLICT
-- CCPOA - California Correctional Peace Officers Association — EIN 941490964, 501(c)(5), rev $35.0M ⚠️ CONFLICT
-- CoreCivic - Private Prisons — EIN 474543845, 501(c)(3), rev $144K ⚠️ CONFLICT
-- CoreCivic — EIN 823851866, 501(c)(3), rev $709K ⚠️ CONFLICT
-- ActBlue — EIN 455097038, 501(c)(4), rev $3.1M ⚠️ CONFLICT
-- Brady Campaign — EIN 237321017, 501(c)(4), rev $4.8M ⚠️ CONFLICT
-- Business Roundtable — EIN 237236607, 501(c)(6), rev $79.4M ⚠️ CONFLICT
-- CREW - Citizens for Responsibility and Ethics in Washington — EIN 30445391, 501(c)(3), rev $12.4M ⚠️ CONFLICT
-- Concerned Veterans for America — EIN 853318501, 501(c)(3), rev N/A ⚠️ CONFLICT
-- Council for National Policy — EIN 720921017, 501(c)(3), rev $4.2M ⚠️ CONFLICT
-- Democratic Donor Network — EIN 943062436, 501(c)(3), rev $161.3M ⚠️ CONFLICT
 
-**Conflicts detected: 16** (see `pending-merge` blocks in the listed profiles)
+## 2026-04-15 17:02 UTC — 2 profiles
+
+**fda-enforcement — 2 profiles:**
+- Cargill — 42 FDA recalls (10 Class I) ⚠️ CONFLICT
+- Tyson Foods — 7 FDA recalls (1 Class I) ⚠️ CONFLICT
+
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-15 16:56 UTC — 10 profiles
+## 2026-04-15 16:57 UTC — 3 profiles
 
-**ProPublica — 10 profiles:**
-- California Farm Bureau Federation — $12.9M revenue, 2023 990 ⚠️ CONFLICT
-- Cargill — $2.5M revenue, 2023 990 ⚠️ CONFLICT
-- John Deere — $17.7M revenue, 2023 990 ⚠️ CONFLICT
-- National Cattlemen's Beef Association — $54.9M revenue, 2023 990 ⚠️ CONFLICT
-- Tyson Foods — $1 revenue, 2019 990 ⚠️ CONFLICT
-- CoreCivic — $511K revenue, 2024 990 ⚠️ CONFLICT
-- ActBlue — $2.0M revenue, 2023 990 ⚠️ CONFLICT
-- Brady Campaign — $4.8M revenue, 2023 990 ⚠️ CONFLICT
-- Business Roundtable — $64.5M revenue, 2023 990 ⚠️ CONFLICT
-- Council for National Policy — $3.8M revenue, 2023 990 ⚠️ CONFLICT
+**occ-enforcement — 3 profiles:**
+- Bank of America — 115 OCC actions (95 active, $491,299,530 CMPs) ⚠️ CONFLICT
+- Carlyle Group — 2 OCC actions (1 active, $3,000 CMPs) ⚠️ CONFLICT
+- MBNA Corporation — 4 OCC actions (4 active, $0 CMPs) ⚠️ CONFLICT
 
-**Conflicts detected: 10** (see `pending-merge` blocks in the listed profiles)
+**Conflicts detected: 3** (see `pending-merge` blocks in the listed profiles)
 
 ---
-## 2026-04-15 16:55 UTC — 9 profiles
+## 2026-04-15 16:56 UTC — 2 profiles
 
-**sec-edgar — 9 profiles:**
-- California Farm Bureau Federation — 291 filings, 16 form types ⚠️ CONFLICT
-- Cargill — 10000 filings, 48 form types ⚠️ CONFLICT
-- John Deere — 10000 filings, 6 form types ⚠️ CONFLICT
-- National Cattlemen's Beef Association — 108 filings, 24 form types ⚠️ CONFLICT
-- Tyson Foods — 10000 filings, 38 form types ⚠️ CONFLICT
-- Western Growers Association — 61 filings, 22 form types ⚠️ CONFLICT
-- CoreCivic — 10000 filings, 18 form types ⚠️ CONFLICT
-- ActBlue — 5 filings, 3 form types ⚠️ CONFLICT
-- Brady Campaign — 44 filings, 9 form types ⚠️ CONFLICT
+**ftc-enforcement — 2 profiles:**
+- Cargill — 0 enforcement actions + 30 HSR notices ⚠️ CONFLICT
+- Boeing — 3 enforcement actions + 16 HSR notices ⚠️ CONFLICT
 
-**Conflicts detected: 9** (see `pending-merge` blocks in the listed profiles)
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:55 UTC — 14 profiles
+
+**fec-summary — 14 profiles:**
+- Sherrod Brown — 2026 raised $14,356,451, spent $4,456,809, COH 9899641.92 ⚠️ CONFLICT
+- Tim Walz — 2018 raised $113,151, spent $155,222, COH 0.00 ⚠️ CONFLICT
+- Adam Smith — 2026 raised $786,535, spent $659,320, COH 697967.61 ⚠️ CONFLICT
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045, spent $13,983,781, COH 13408910.09 ⚠️ CONFLICT
+- Ayanna Pressley — 2026 raised $687,535, spent $706,959, COH 98796.68 ⚠️ CONFLICT
+- Barbara Lee — 2024 raised $375,046, spent $427,255, COH 144.39 ⚠️ CONFLICT
+- Bennie Thompson — 2026 raised $608,726, spent $819,626, COH 1415264.19
+- Bobby Scott — 2026 raised $290,963, spent $358,184, COH 95642.17 ⚠️ CONFLICT
+- Brendan Boyle — 2026 raised $1,522,158, spent $548,110, COH 4812331.40
+- Cori Bush — 2026 raised $534,492, spent $352,962, COH 203864.16 ⚠️ CONFLICT
+- Debbie Wasserman Schultz — 2026 raised $1,785,365, spent $875,347, COH 1967326.77
+- Frank Pallone — 2026 raised $1,311,209, spent $1,257,401, COH 3125718.74 ⚠️ CONFLICT
+- Hakeem Jeffries — 2026 raised $10,327,241, spent $9,417,063, COH 5864742.02 ⚠️ CONFLICT
+- Ilhan Omar — 2026 raised $3,125,783, spent $2,329,199, COH 1120804.52 ⚠️ CONFLICT
+
+**Conflicts detected: 11** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:54 UTC — 9 profiles
+
+**FEC — 9 profiles:**
+- Sherrod Brown — 2026 raised $14,356,451
+- Tim Walz — 2018 raised $113,151
+- Adam Smith — 2026 raised $786,535
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045
+- Ayanna Pressley — 2026 raised $687,535
+- Barbara Lee — 2024 raised $375,046
+- Bennie Thompson — 2026 raised $608,726
+- Bobby Scott — 2026 raised $290,963
+- California Farm Bureau Federation — total political spend $892,442
 
 ---
 ## 2026-04-15 16:37 UTC — 25 profiles

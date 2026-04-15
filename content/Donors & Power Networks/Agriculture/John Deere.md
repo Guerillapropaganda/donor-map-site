@@ -55,7 +55,7 @@ cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-court-cases: 16500
+court-cases: 16497
 court-jurisdictions:
   - "District Court, C.D. Illinois"
   - "District Court, D. Kansas"
@@ -158,7 +158,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-11 -->
+<!-- auto:usaspending pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -179,7 +179,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | $6.4M | Department of Defense | 8511246304!MTR GRADER |
 | $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1)
 
 <!-- auto:usaspending pending-merge end -->
 
@@ -282,7 +282,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (NEEDS REVIEW: Generic search results)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -392,7 +392,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-11 -->
+<!-- auto:federal-register pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -515,6 +515,28 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
+
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Court Cases | 16,497 |
+| Courts | District Court, C.D. Illinois, District Court, D. Kansas, District Court, D. Maine, District Court, D. Minnesota, District Court, D. North Dakota, District Court, District of Columbia, District Court, E.D. Arkansas, District Court, E.D. Kentucky +7 more |
+| Case Types | 110 Insurance, 360 P.I.: Other, 440 Civil Rights: Other, 485 Telephone Consumer Protection Act (TCPA), 840 Trademark |
+
+**Notable cases:**
+- Kroskob Bros Farms, LLC (2026) — United States Bankruptcy Court, D. Colorado
+- Ogles v. City of Sevierville (2026) — District Court, E.D. Tennessee
+- Lindsley Excavating LLC (2026) — United States Bankruptcy Court, N.D. New York
+- AVE-PLP, LLC v. AgriVision, LLC (2026) — District Court, D. Kansas
+- Tiede v. Brandt Equities, LP (2026) — District Court, D. North Dakota
+- Mulford Construction Co., Inc. (2026) — United States Bankruptcy Court, D. Maryland
+
+- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22John%20Deere%22&type=r) (Tier 1)
+
+<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

@@ -1,42 +1,42 @@
 ---
-title: "Gregory Meeks"
+title: Gregory Meeks
 type: politician
 content-readiness: draft
-central-thesis: "Gregory Meeks is the donor class's man on foreign affairs. His committee position gives him veto authority over arms sales , and his donors know it. AIPAC and pro-Israel groups have given him $523,000+ career; Wall Street firms fund him through Fi..."
-last-updated: 2026-04-09
+central-thesis: Gregory Meeks is the donor class's man on foreign affairs. His committee position gives him veto authority over arms sales , and his donors know it. AIPAC and pro-Israel groups have given him $523,000+ career; Wall Street firms fund him through Fi...
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "New York"
-state-abbr: "NY"
+party: Democrat
+chamber: House
+state: New York
+state-abbr: NY
 district: "5"
 committees:
-  - "Foreign Affairs"
+  - Foreign Affairs
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 top-donors:
-  - "AIPAC"
-  - "DMFI"
-  - "Goldman Sachs"
-total-received: "$1,032,781"
-fec-candidate-id: "H8NY06048"
-bioguide-id: "M001137"
+  - AIPAC
+  - DMFI
+  - Goldman Sachs
+total-received: $1,032,781
+fec-candidate-id: H8NY06048
+bioguide-id: M001137
 govtrack-id: 400271
 bills-sponsored: 36
 bills-cosponsored: 193
-website: "https://meeks.house.gov"
-phone: "202-225-3461"
+website: https://meeks.house.gov
+phone: 202-225-3461
 source-types:
   - Congress
   - FEC
   - GovTrack
 corroboration-count: 3
 known-gaps:
-  - "No mapped relationships"
-donors: "[[NORPAC]]"
+  - No mapped relationships
+donors: "[[NORPAC]], [[FAIRSHAKE]], [[Goldman Sachs]], [[Planned Parenthood Votes]]"
 related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Goldman Sachs]]"
 ---
 

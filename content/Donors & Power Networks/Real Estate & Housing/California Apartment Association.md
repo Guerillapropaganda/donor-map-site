@@ -1,30 +1,29 @@
 ---
-title: "California Apartment Association"
+title: California Apartment Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
-politicians-funded:
-  - "Gavin Newsom"
+sector: Real Estate
+entity-type: Corporation
+politicians-funded: "[[Gavin Newsom]], [[Antonio Villaraigosa]]"
 issues:
-  - "Housing"
+  - Housing
 lobbying-spend: 10419974
 lobbying-filings: 105
 court-cases: 123
 last-enriched: "2026-04-09"
 court-jurisdictions:
-  - "Court of Appeals for the Ninth Circuit"
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, C.D. California"
-  - "District Court, N.D. California"
+  - Court of Appeals for the Ninth Circuit
+  - Court of Appeals for the Second Circuit
+  - District Court, C.D. California
+  - District Court, N.D. California
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 ein: 950944360
-annual-revenue: "$291K"
-net-assets: "$864K"
+annual-revenue: $291K
+net-assets: $864K
 tax-year: "2023"
 related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and the 2026 Donor Coalition]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Housing - Donors and Backers]] · [[Homelessness Spending and Encampments]] · [[_Gavin Newsom Master Profile]] · [[Rent Control - Props 10, 21, and 33]] · [[Supply-Side Framework - Who It Helps]] · [[3.5 Million Units - Broken Promise]]"
 cross-vault-triangulation-count: 10

@@ -395,6 +395,16 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001223) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |
@@ -423,6 +433,38 @@ _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/B001223)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 1108 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Emergency Management, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1617 | Expressing the sense of the House of Representatives that it is the duty of the … | Referred to the Committee on Education and the Workforce, and in addition to the Committees on Energy and Commerce, Transportation and Infrastructure, Financial Services, Agriculture, the Judiciary, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8797 | Ending Corporate Greed Act | Referred to the House Committee on Ways and Means. |
+| 8678 | FAIR Costs Act | Referred to the House Committee on Financial Services. |
+| 7924 | ACCESS in Mental Health Act | Sponsor introductory remarks on measure. (CR H2869) |
+| 988 | Supporting the values of the Equity or Else quality-of-life platform and acknowl… | Referred to the House Committee on the Judiciary. |
+| 6616 | College Athlete Right to Organize Act | Referred to the House Committee on Education and the Workforce. |
+| 5784 | Green New Deal for Public Schools Act of 2023 | Referred to the House Committee on Education and the Workforce. |
+| 4900 | Fair College Admissions for Students Act | Referred to the House Committee on Education and the Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001223) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -498,7 +540,6 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Jamaal Bowman](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

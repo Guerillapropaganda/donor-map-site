@@ -1,50 +1,44 @@
 ---
-title: "California Nurses Association"
+title: California Nurses Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Gavin Newsom"
-  - "Jeff Merkley"
-  - "Sherrod Brown"
-  - "Barbara Lee"
-  - "Mike Lee"
-  - "Maxine Waters"
+sector: Labor Unions
+entity-type: Individual Donor
+politicians-funded: "[[Gavin Newsom]], [[Jeff Merkley]], [[Eric Swalwell]], [[Mike Lee]], [[Maxine Waters]], [[Sherrod Brown]], [[Barbara Lee]]"
 issues:
-  - "Healthcare"
-  - "Labor & Workers"
+  - Healthcare
+  - Labor & Workers
 ein: 940362060
-annual-revenue: "$157.8M"
-net-assets: "$464.3M"
+annual-revenue: $157.8M
+net-assets: $464.3M
 tax-year: "2023"
 lobbying-spend: 10419974
 lobbying-filings: 105
-total-political-spend: "$19,855,072"
+total-political-spend: $19,855,072
 federal-register-mentions: 2
 last-enriched: "2026-04-09"
 regulatory-agencies:
-  - "National Labor Relations Board"
+  - National Labor Relations Board
 sec-filings: 71
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
-  - "424B3"
-  - "DEF 14A"
-  - "DEFC14A"
-  - "EX-10.1"
-  - "EX-10.2"
-  - "EX-99.1"
-  - "EX-99.5"
-  - "PRRN14A"
-  - "S-4"
-  - "S-4/A"
-  - "XML"
-related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[CNA - California Nurses Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[California Labor Federation]] · [[Jeff Merkley]]"
+  - 10-K
+  - 10-K/A
+  - 10-Q
+  - 424B3
+  - DEF 14A
+  - DEFC14A
+  - EX-10.1
+  - EX-10.2
+  - EX-99.1
+  - EX-99.5
+  - PRRN14A
+  - S-4
+  - S-4/A
+  - XML
+related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[CNA - California Nurses Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[California Labor Federation]]"
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 ---

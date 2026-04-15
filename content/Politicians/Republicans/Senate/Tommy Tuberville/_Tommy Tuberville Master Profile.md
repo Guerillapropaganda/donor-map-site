@@ -1,34 +1,33 @@
 ---
-title: "Tommy Tuberville"
+title: Tommy Tuberville
 type: politician
 content-readiness: ready
-central-thesis: "Tommy Tuberville demonstrates that the donor class doesn't need competent politicians , it needs compliant ones. His ignorance of basic governance (named the three branches of government as 'the House, the Senate, and the executive'; described D-D..."
-last-updated: 2026-04-13
+central-thesis: Tommy Tuberville demonstrates that the donor class doesn't need competent politicians , it needs compliant ones. His ignorance of basic governance (named the three branches of government as 'the House, the Senate, and the executive'; described D-D...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Senate"
-state: "Alabama"
-state-abbr: "AL"
-bioguide-id: "T000278"
+party: Republican
+chamber: Senate
+state: Alabama
+state-abbr: AL
+bioguide-id: T000278
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Finance and Financial Sector"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Immigration"
-  - "Labor and Employment"
-  - "Social Welfare"
-top-donors:
-  - "Defense Industry Bloc"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Finance and Financial Sector
+  - Government Operations and Politics
+  - Health
+  - Immigration
+  - Labor and Employment
+  - Social Welfare
+top-donors: "[[Defense Industry Bloc]]"
 govtrack-id: 456796
 bills-sponsored: 35
 bills-cosponsored: 194
-website: "https://www.tuberville.senate.gov"
-phone: "202-224-4124"
+website: https://www.tuberville.senate.gov
+phone: 202-224-4124
 source-types:
   - Congress
   - GovTrack
@@ -36,19 +35,19 @@ corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): T000278. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps:
-  - "No FEC contribution data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]]"
 last-enriched: "2026-04-10"
 committees:
-  - "Senate Committee on Agriculture, Nutrition, and Forestry"
-  - "Senate Committee on Armed Services"
-  - "Senate Committee on Health, Education, Labor, and Pensions"
-  - "Senate Committee on Veterans' Affairs"
-  - "Senate Special Committee on Aging"
-internal-notes: "[MANUAL 2026-04-11] Bioguide recovered: T000278. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
-
-[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+  - Senate Committee on Agriculture, Nutrition, and Forestry
+  - Senate Committee on Armed Services
+  - Senate Committee on Health, Education, Labor, and Pensions
+  - Senate Committee on Veterans' Affairs
+  - Senate Special Committee on Aging
+internal-notes: |-
+  [MANUAL 2026-04-11] Bioguide recovered: T000278. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
+  [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 ---
 
 <!-- auto:data-panel start -->

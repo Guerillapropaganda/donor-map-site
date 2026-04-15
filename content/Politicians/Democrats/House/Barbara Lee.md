@@ -28,21 +28,21 @@ internal-notes: >-
   CONGRESS data is missing entirely. This profile was promoted to ready without
   ever having congress enrichment run on it. The needs-reenrichment flag has
   been set. The next scheduled pipeline run will pick it up automatically.
-total-raised: '$375,046'
-total-spent: '$427,255'
-cash-on-hand: '144.39'
+total-raised: "$375,046"
+total-spent: "$427,255"
+cash-on-hand: "144.39"
 fec-cycle: 2024
 issues:
-  - 'Civil Rights and Liberties, Minority Issues'
-  - Crime and Law Enforcement
-  - Education
-  - Energy
-  - Environmental Protection
-  - Families
-  - Finance and Financial Sector
-  - Government Operations and Politics
-  - Health
-  - Immigration
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Education"
+  - "Environmental Protection"
+  - "Families"
+  - "Government Operations and Politics"
+  - "Health"
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
@@ -162,6 +162,37 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| Chamber | House |
+| Bills Sponsored | 668 |
+| Bills Cosponsored | 10571 |
+
+**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Environmental Protection, Families, Government Operations and Politics, Health, International Affairs, Labor and Employment, Science, Technology, Communications, Social Welfare, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 10457 | PEPFAR Extension Act of 2024 | Referred to the House Committee on Foreign Affairs. |
+| 1605 | Supporting the goals of World AIDS Day. | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 9977 | Victims of Agent Orange Relief Act of 2024 | Referred to the Subcommittee on Health. |
+| 9872 | Sickle Cell Disease Treatment Centers Act of 2024 | Referred to the House Committee on Energy and Commerce. |
+| 1513 | Affirming the term "woke" and its historical connection to Black history, Black … | Referred to the House Committee on Oversight and Accountability. |
+| 9631 | National Food as Medicine Program Act of 2024 | Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture. |
+| 9607 | Workforce of the Future Act of 2024 | Referred to the Committee on Education and the Workforce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 1411 | Recognizing July 2024 as the 30th anniversary of the reproductive justice moveme… | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/L000551) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
 | Metric | Value |
@@ -240,6 +271,16 @@ _No committee data found._
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/L000551) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
@@ -267,7 +308,7 @@ _No committee data found._
 - ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/400237)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:govtrack end -->
 
-<!-- auto:govtrack pending-merge 2026-04-12 -->
+<!-- auto:govtrack pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -328,6 +369,36 @@ _No committee data found._
 
 - {{src:src_005776}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,046 |
+| Total Spent | $427,255 |
+| Cash on Hand | 144.39 |
+| Individual Contributions | $308,954 |
+| PAC Contributions | $11,800 |
+| Coverage Through | 2024-09-30 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2024 | $375,046 | $427,255 | 144.39 |
+| 2022 | $2,183,373 | $2,341,393 | 52353.25 |
+| 2020 | $1,888,202 | $1,810,132 | 210373.72 |
+| 2018 | $1,875,867 | $1,781,696 | 132303.44 |
+| 2016 | $1,328,822 | $1,374,381 | 38131.96 |
+| 2014 | $1,139,240 | $1,100,730 | 83690.60 |
+| ... | 8 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

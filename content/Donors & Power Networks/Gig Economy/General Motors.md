@@ -1,57 +1,55 @@
 ---
-title: "General Motors"
+title: General Motors
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Gig Economy"
-entity-type: "Corporation"
-politicians-funded:
-  - "Joe Biden"
-  - "Barack Obama"
+sector: Gig Economy
+entity-type: Corporation
+politicians-funded: "[[Barack Obama]], [[Joe Biden]]"
 federal-awards-total: 615175233
 federal-contracts-count: 25
 federal-grants-count: 20
 lobbying-spend: 61183910
 lobbying-filings: 104
 ein: "383569669"
-annual-revenue: "$25K"
-net-assets: "$130K"
+annual-revenue: $25K
+net-assets: $130K
 tax-year: "2023"
 court-cases: 52314
 last-enriched: "2026-04-11"
 court-jurisdictions:
-  - "District Court, D. Colorado"
-  - "District Court, E.D. Michigan"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Louisiana"
-  - "District Court, N.D. Texas"
-  - "District Court, W.D. Texas"
-  - "District Court, W.D. Washington"
+  - District Court, D. Colorado
+  - District Court, E.D. Michigan
+  - District Court, M.D. Florida
+  - District Court, M.D. Louisiana
+  - District Court, N.D. Texas
+  - District Court, W.D. Texas
+  - District Court, W.D. Washington
 subawards-issued: 1
 subawards-issued-amount: 68510
 subawards-received: 1
 subawards-received-amount: 68510
-top-federal-agency: "General Services Administration"
+top-federal-agency: General Services Administration
 top-naics-code: "336111"
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Ford Motor Company]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[_Barack Obama Master Profile|Obama]]"
-lei: "6488WGUD2TY76047V783"
-lei-jurisdiction: "IN"
-nonprofit-status: "501(c)(3)"
+lei: 6488WGUD2TY76047V783
+lei-jurisdiction: IN
+nonprofit-status: 501(c)(3)
 total-revenue: 95059
 total-assets: 13703
 federal-register-mentions: 1900
 regulatory-agencies:
-  - "Environmental Protection Agency"
-  - "Executive Office of the President"
-  - "Homeland Security Department"
-  - "International Trade Commission"
-  - "Justice Department"
-  - "National Highway Traffic Safety Administration"
-  - "Pipeline and Hazardous Materials Safety Administration"
-  - "Transportation Department"
-  - "U.S. Customs and Border Protection"
+  - Environmental Protection Agency
+  - Executive Office of the President
+  - Homeland Security Department
+  - International Trade Commission
+  - Justice Department
+  - National Highway Traffic Safety Administration
+  - Pipeline and Hazardous Materials Safety Administration
+  - Transportation Department
+  - U.S. Customs and Border Protection
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 ---

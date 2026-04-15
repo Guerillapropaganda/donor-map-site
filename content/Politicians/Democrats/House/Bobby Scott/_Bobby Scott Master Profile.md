@@ -1,61 +1,58 @@
 ---
-title: "Bobby Scott"
+title: Bobby Scott
 type: politician
 content-readiness: ready
-central-thesis: "Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi..."
-last-updated: 2026-04-15
+central-thesis: Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Virginia"
-state-abbr: "VA"
+party: Democrat
+chamber: House
+state: Virginia
+state-abbr: VA
 district: "3"
 committees:
-  - "Education & Labor"
+  - Education & Labor
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Environmental Protection"
-  - "Families"
-  - "Health"
-  - "Labor and Employment"
+  - Agriculture and Food
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Economics and Public Finance
+  - Education
+  - Environmental Protection
+  - Families
+  - Health
+  - Labor and Employment
 top-donors:
-  - "SEIU"
+  - SEIU
 govtrack-id: 400364
 bills-sponsored: 17
 bills-cosponsored: 154
-website: "https://bobbyscott.house.gov"
-phone: "202-225-8351"
-total-received: "$290,963"
-fec-candidate-id: "H6VA01117"
-donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]]"
+website: https://bobbyscott.house.gov
+phone: 202-225-8351
+total-received: $290,963
+fec-candidate-id: H6VA01117
+donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]] · [[Sierra Club Independent Action]] · [[United We Can]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
-opensanctions-status: "pep"
+opensanctions-status: pep
 opensanctions-matches: 1
 opensanctions-datasets:
-  - "ann_pep_positions"
-  - "wd_categories"
-  - "everypolitician"
-  - "wd_peps"
-  - "wikidata"
-  - "us_congress"
+  - ann_pep_positions
+  - wd_categories
+  - everypolitician
+  - wd_peps
+  - wikidata
+  - us_congress
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-15"
-bioguide-id: "S000185"
-total-raised: "$290,963"
-total-spent: "$358,184"
+bioguide-id: S000185
+total-raised: $290,963
+total-spent: $358,184
 cash-on-hand: "95642.17"
 fec-cycle: 2026
 fec-debt: "3191.43"
@@ -324,7 +321,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 **Key Votes**
 
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
@@ -342,7 +339,6 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 **Sources**
 
-- [Congress.gov: Bobby Scott](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -392,6 +388,38 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - ~~[Source: Congress.gov](https://www.congress.gov/member/S000185)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | VA |
+| Chamber | House |
+| Bills Sponsored | 331 |
+| Bills Cosponsored | 4486 |
+
+**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Environmental Protection, Families, Health, Labor and Employment, Public Lands and Natural Resources, Sports and Recreation, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7340 | Rebuild America’s Schools Act of 2026 | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6893 | Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and S… | Subcommittee Hearings Held |
+| 6597 | LET’S Protect Workers Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5740 | WIC Benefits Protection Act | Referred to the House Committee on Education and Workforce. |
+| 4862 | LOAN Act | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4771 | Transformation to Competitive Integrated Employment Act | Referred to the House Committee on Education and Workforce. |
+| 4418 | Child Care for Working Families Act | Referred to the House Committee on Education and Workforce. |
+| 3997 | Protecting Children Act | Referred to the House Committee on Education and Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._
@@ -426,3 +454,34 @@ _No committee data found._
 
 - {{src:src_006327}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $290,963 |
+| Total Spent | $358,184 |
+| Cash on Hand | 95642.17 |
+| Debt | 3191.43 |
+| Individual Contributions | $131,043 |
+| PAC Contributions | $143,341 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $290,963 | $358,184 | 95642.17 |
+| 2024 | $869,637 | $899,213 | 162841.47 |
+| 2022 | $851,699 | $856,030 | 192336.91 |
+| 2020 | $875,926 | $837,219 | 210393.19 |
+| 2018 | $653,415 | $615,208 | 148742.68 |
+| 2016 | $771,224 | $765,805 | 110924.80 |
+| ... | 13 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->

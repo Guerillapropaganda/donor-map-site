@@ -1,33 +1,29 @@
 ---
-title: "Dick Durbin"
+title: Dick Durbin
 type: politician
 content-readiness: ready
 central-thesis: "Durbin's 44-year career demonstrates how managed opposition functions as institutional power. His donor base — lawyers ($7.1M career), securities/investment ($2.4M), health professionals (content-readiness: ready.6M), pro-Israel (content-readiness: ready.1M), insurance ($831K) — maps precis..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Illinois"
-state-abbr: "IL"
+party: Democrat
+chamber: Senate
+state: Illinois
+state-abbr: IL
 committees:
-  - "Judiciary"
+  - Judiciary
 leadership-roles:
-  - "Whip"
+  - Whip
 top-donors:
-  - "Legal Sector Donors"
-  - "Financial Services Donors"
-  - "Pharmaceutical Industry"
-  - "AIPAC"
-donors: "[[ADM - Archer Daniels Midland]]"
+  - Legal Sector Donors
+  - Financial Services Donors
+  - Pharmaceutical Industry
+  - AIPAC
+donors: "[[ADM - Archer Daniels Midland]], [[Legal Sector Donors]], [[Financial Services Donors]], [[Pharmaceutical Industry]]"
 related: "[[Tammy Duckworth]] · [[The Pritzker Machine and Illinois Democratic Power]] · [[Financial Services Donors]] · [[Legal Sector Donors]] · [[Pharmaceutical Industry]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Joe Biden Master Profile|Biden]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Patty Murray Master Profile|Murray]] · [[Juliana Stratton]]"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

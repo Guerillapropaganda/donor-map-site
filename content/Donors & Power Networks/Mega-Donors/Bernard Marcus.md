@@ -1,68 +1,67 @@
 ---
-title: "Bernard Marcus"
+title: Bernard Marcus
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 sec-filings: 104
 sec-form-types:
-  - "10-K"
-  - "10-Q"
+  - 10-K
+  - 10-Q
   - "3"
   - "4"
-  - "8-K"
-  - "DEF 14A"
-  - "DEFM14A"
-  - "EX-10.1"
-  - "EX-10.17"
-  - "EX-10.20"
-  - "EX-10.21"
-  - "EX-10.61"
-  - "EX-10.63"
-  - "EX-10.65"
-  - "EX-13"
-  - "EX-24"
-  - "EX-24.4_28877"
-  - "EX-99"
-  - "EX-99.(A)(1)(A)"
-  - "EX-99.(A)(1)(C)"
-  - "EX-99.(A)(5)(A)"
-  - "EX-99.(A)(5)(B)"
-  - "EX-99.(A)(5)(C)"
-  - "EX-99.(A)(5)(D)"
-  - "EX-99.(A)(5)(E)"
-  - "EX-99.(A)(5)(F)"
-  - "EX-99.(A)(5)(G)"
-  - "EX-99.(A)(5)(H)"
-  - "EX-99.(A)(5)(I)"
-  - "EX-99.(C)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.3"
-  - "EX-99.4"
-  - "EX-99.D"
-  - "PRE 14A"
-  - "PRE 14C"
-  - "PREM14A"
-  - "S-4"
-  - "S-8"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 14D9"
-  - "SC TO-T"
-  - "SC TO-T/A"
-lei: "213800MWAHGQE6BU9654"
-lei-jurisdiction: "GB"
+  - 8-K
+  - DEF 14A
+  - DEFM14A
+  - EX-10.1
+  - EX-10.17
+  - EX-10.20
+  - EX-10.21
+  - EX-10.61
+  - EX-10.63
+  - EX-10.65
+  - EX-13
+  - EX-24
+  - EX-24.4_28877
+  - EX-99
+  - EX-99.(A)(1)(A)
+  - EX-99.(A)(1)(C)
+  - EX-99.(A)(5)(A)
+  - EX-99.(A)(5)(B)
+  - EX-99.(A)(5)(C)
+  - EX-99.(A)(5)(D)
+  - EX-99.(A)(5)(E)
+  - EX-99.(A)(5)(F)
+  - EX-99.(A)(5)(G)
+  - EX-99.(A)(5)(H)
+  - EX-99.(A)(5)(I)
+  - EX-99.(C)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.3
+  - EX-99.4
+  - EX-99.D
+  - PRE 14A
+  - PRE 14C
+  - PREM14A
+  - S-4
+  - S-8
+  - SC 13D
+  - SC 13D/A
+  - SC 14D9
+  - SC TO-T
+  - SC TO-T/A
+lei: 213800MWAHGQE6BU9654
+lei-jurisdiction: GB
 related: "[[Charlie Kirk]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Heritage Foundation]] · [[Federalist Society]] · [[American Enterprise Institute]]"
 last-enriched: "2026-04-11"
-total-political-spend: "$31,938,031"
+total-political-spend: $31,938,031
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 ---

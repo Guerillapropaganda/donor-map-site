@@ -148,7 +148,8 @@ function checkCrossRefs(profiles) {
 
   // Check: if Profile A lists Profile B as a donor, does B list A as politicians-funded?
   for (const p of profiles) {
-    const donorsField = p.data.donors || '';
+    const donorsRaw = p.data.donors || '';
+    const donorsField = Array.isArray(donorsRaw) ? donorsRaw.join(' ') : String(donorsRaw);
     const donorLinks = donorsField.match(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g) || [];
 
     for (const link of donorLinks) {

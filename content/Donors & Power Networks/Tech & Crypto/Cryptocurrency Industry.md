@@ -1,38 +1,37 @@
 ---
-title: "Cryptocurrency Industry"
+title: Cryptocurrency Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 issues:
-  - "Technology"
+  - Technology
 lobbying-spend: 90000
 lobbying-filings: 5
 court-cases: 460
 last-enriched: "2026-04-08"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "District Court, D. Nevada"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. New York"
-  - "District Court, M.D. Tennessee"
-  - "District Court, S.D. New York"
+  - District Court, D. Nevada
+  - District Court, E.D. Michigan
+  - District Court, E.D. New York
+  - District Court, M.D. Tennessee
+  - District Court, S.D. New York
 federal-register-mentions: 6
 regulatory-agencies:
-  - "Consumer Financial Protection Bureau"
-  - "Financial Crimes Enforcement Network"
-  - "Internal Revenue Service"
-  - "Securities and Exchange Commission"
-  - "Treasury Department"
+  - Consumer Financial Protection Bureau
+  - Financial Crimes Enforcement Network
+  - Internal Revenue Service
+  - Securities and Exchange Commission
+  - Treasury Department
 related: "[[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[David Sacks]] · [[Coinbase]] · [[Marc Andreessen & Horowitz|Andreessen Horowitz]]"
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+politicians-funded: "[[Rand Paul]]"
 ---
 
 <!-- auto:data-panel start -->

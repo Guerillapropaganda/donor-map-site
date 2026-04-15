@@ -1,72 +1,71 @@
 ---
-title: "Real Estate Industry"
+title: Real Estate Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Jared Kushner"
+sector: Real Estate
+entity-type: Individual Donor
+politicians-funded: "[[Jared Kushner]], [[Gary Peters]], [[Brian Schatz]]"
 issues:
-  - "Housing"
+  - Housing
 ofac-sdn-match: "true"
 last-enriched: "2026-04-10"
 ofac-programs:
-  - "SDNTK"
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
-  - "SDGT"
-  - "PAARSSR-EO13894"
-  - "RUSSIA-EO14024"
-  - "IRAN-EO13846"
-  - "GLOMAG"
-  - "DPRK2"
-  - "ILLICIT-DRUGS-EO14059"
-  - "TCO"
+  - SDNTK
+  - UKRAINE-EO13662] [RUSSIA-EO14024
+  - SDGT
+  - PAARSSR-EO13894
+  - RUSSIA-EO14024
+  - IRAN-EO13846
+  - GLOMAG
+  - DPRK2
+  - ILLICIT-DRUGS-EO14059
+  - TCO
 federal-register-mentions: 141
 regulatory-agencies:
-  - "Agriculture Department"
-  - "Antitrust Division"
-  - "Consumer Financial Protection Bureau"
-  - "Employee Benefits Security Administration"
-  - "Environmental Protection Agency"
-  - "Federal Trade Commission"
-  - "Financial Crimes Enforcement Network"
-  - "General Services Administration"
-  - "Housing and Urban Development Department"
-  - "Justice Department"
-lei: "254900I73YTKE7MJ8E15"
-lei-jurisdiction: "US-NY"
+  - Agriculture Department
+  - Antitrust Division
+  - Consumer Financial Protection Bureau
+  - Employee Benefits Security Administration
+  - Environmental Protection Agency
+  - Federal Trade Commission
+  - Financial Crimes Enforcement Network
+  - General Services Administration
+  - Housing and Urban Development Department
+  - Justice Department
+lei: 254900I73YTKE7MJ8E15
+lei-jurisdiction: US-NY
 ein: "991696593"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 related: "[[Chris Christie]] · [[Gary Peters Master Profile]] · [[Brian Schatz Master Profile]] · [[Hakeem Jeffries Master Profile]] · [[The Real Estate Money and Brooklyn's Gentrification Politics]] · [[Real Estate Industry Bloc]] · [[Blackstone Real Estate Political Operation|Blackstone Real Estate]] · [[_Jared Kushner Master Profile|Kushner]] · [[Kevin McCarthy Master Profile]]"
 sec-filings: 10000
 sec-form-types:
   - "4"
   - "497"
-  - "497K"
-  - "ARS"
-  - "CORRESP"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "LETTER"
-  - "PRE 14A"
-total-political-spend: "$15,000"
+  - 497K
+  - ARS
+  - CORRESP
+  - DEF 14A
+  - DEFA14A
+  - LETTER
+  - PRE 14A
+total-political-spend: $15,000
 lobbying-spend: 32210838
 lobbying-filings: 101
 court-cases: 2453
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. Colorado"
-  - "District Court, D. Maryland"
-  - "District Court, E.D. New York"
-  - "District Court, M.D. Florida"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Ohio"
-  - "District Court, S.D. Texas"
+  - District Court, C.D. California
+  - District Court, D. Colorado
+  - District Court, D. Maryland
+  - District Court, E.D. New York
+  - District Court, M.D. Florida
+  - District Court, N.D. California
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - District Court, S.D. Ohio
+  - District Court, S.D. Texas
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"
 ---

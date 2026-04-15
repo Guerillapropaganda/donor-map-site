@@ -1,24 +1,23 @@
 ---
-title: "Adelson Family"
+title: Adelson Family
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Nikki Haley"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Nikki Haley]]"
 issues:
-  - "Israel & Foreign Policy"
+  - Israel & Foreign Policy
 ein: "223769645"
-annual-revenue: "$706K"
-net-assets: "$5.9M"
+annual-revenue: $706K
+net-assets: $5.9M
 tax-year: "2023"
 related: "[[Catherine Cortez Masto]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Donald Trump Master Profile|Trump]] · [[_Benjamin Netanyahu Master Profile|Netanyahu]] · [[_Marco Rubio Master Profile|Rubio]] · [[Preserve America]] · [[MAGA Inc]] · [[Koch Network - Charles Koch]] · [[Timothy Mellon]] · [[Haim Saban]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[UNITE HERE]]"
 last-enriched: "2026-04-11"
-total-political-spend: "$1,000"
-nonprofit-status: "501(c)(3)"
+total-political-spend: $1,000
+nonprofit-status: 501(c)(3)
 total-revenue: 4067997
 total-assets: 6954685
 cross-vault-triangulation-count: 13

@@ -1,36 +1,30 @@
 ---
-title: "National Nurses United"
+title: National Nurses United
 type: donor
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Labor Unions"
-entity-type: "Individual Donor"
+sector: Labor Unions
+entity-type: Individual Donor
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 ein: 271450491
-annual-revenue: "$18.1M"
-net-assets: "$52.0M"
+annual-revenue: $18.1M
+net-assets: $52.0M
 tax-year: "2023"
-total-political-spend: "$25,048,260"
-politicians-funded:
-  - "Bernie Sanders"
-  - "Sarah Huckabee Sanders"
-  - "Mark Takano"
-  - "Raul Grijalva"
-  - "Tammy Baldwin"
-  - "Jim McGovern"
+total-political-spend: $25,048,260
+politicians-funded: "[[Raul Grijalva]], [[Mark Takano]], [[Jim McGovern]], [[Ilhan Omar]], [[Tammy Baldwin]], [[Bernie Sanders]], [[Sarah Huckabee Sanders]]"
 federal-register-mentions: 28
 last-enriched: "2026-04-07"
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Consumer Financial Protection Bureau"
-  - "Justice Department"
-  - "Labor Department"
-  - "National Labor Relations Board"
-  - "Occupational Safety and Health Administration"
-  - "Regulatory Information Service Center"
+  - Antitrust Division
+  - Consumer Financial Protection Bureau
+  - Justice Department
+  - Labor Department
+  - National Labor Relations Board
+  - Occupational Safety and Health Administration
+  - Regulatory Information Service Center
 lobbying-spend: 3106887
 lobbying-filings: 143
 related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]]"

@@ -1,16 +1,15 @@
 ---
-title: "Brad Garlinghouse"
+title: Brad Garlinghouse
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: null
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Individual Donor"
+sector: Tech & Crypto
+entity-type: Individual Donor
 issues:
   - Cryptocurrency Regulation
-politicians-funded:
-  - "Donald Trump"
+politicians-funded: "[[Donald Trump]]"
 related: "[[Ripple Labs]] · [[Fairshake PAC]] · [[GENIUS Act]] · [[_Donald Trump Master Profile]] · [[Chris Larsen]]"
 source-types: []
 known-gaps:
@@ -19,14 +18,14 @@ known-gaps:
 court-cases: 32
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the Second Circuit"
-  - "District Court, D. Oregon"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. New York"
-  - "District Court, N.D. California"
-  - "District Court, S.D. Florida"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Oklahoma"
+  - Court of Appeals for the Second Circuit
+  - District Court, D. Oregon
+  - District Court, D. South Carolina
+  - District Court, E.D. New York
+  - District Court, N.D. California
+  - District Court, S.D. Florida
+  - District Court, S.D. New York
+  - District Court, W.D. Oklahoma
 ---
 
 

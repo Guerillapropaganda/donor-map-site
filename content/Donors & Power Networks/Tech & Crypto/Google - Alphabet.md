@@ -1,39 +1,28 @@
 ---
-title: "Google - Alphabet"
+title: Google - Alphabet
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
-  - "Chuck Schumer"
-  - "Nancy Pelosi"
-  - "Ro Khanna"
-  - "Zoe Lofgren"
-  - "Amy Klobuchar"
-  - "Richard Blumenthal"
-  - "Barack Obama"
-  - "Kamala Harris"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[Richard Blumenthal]], [[Barack Obama]], [[Amy Klobuchar]], [[Chuck Schumer]], [[Zoe Lofgren]], [[Nancy Pelosi]], [[Ro Khanna]], [[Kamala Harris]], [[Donald Trump]]"
 issues:
-  - "Technology"
-  - "Antitrust & Monopoly"
-  - "Dark Money & Campaign Finance"
+  - Technology
+  - Antitrust & Monopoly
+  - Dark Money & Campaign Finance
 court-cases: 1
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 court-jurisdictions:
-  - "District Court, N.D. California"
+  - District Court, N.D. California
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Tech Privacy Advocacy]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Center for American Progress]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Subject Matter (now Avoq)]] · [[Mehlman Consulting]] · [[Fierce Government Relations]] · [[Cornerstone Government Affairs]] · [[Amazon]] · [[Meta - Facebook]] · [[Apple]] · [[Microsoft]] · [[Eric Schmidt]] · [[Silicon Valley Democratic Donor Network]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Nancy Pelosi Master Profile|Nancy Pelosi]] · [[_Ro Khanna Master Profile|Ro Khanna]] · [[_Zoe Lofgren Master Profile|Zoe Lofgren]] · [[_Amy Klobuchar Master Profile|Amy Klobuchar]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[TikTok - ByteDance]] · [[Tech IP and Patent Lobbying]] · [[Silicon Valley Donors]] · [[Oracle]] · [[OpenAI]] · [[Nvidia]] · [[Anthropic]] · [[AI Safety and Regulatory Capture]] · [[AI Regulation and Tech Donors]] · [[Walt Disney Company]] · [[Comcast - NBCUniversal]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 32
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

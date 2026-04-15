@@ -1,58 +1,56 @@
 ---
-title: "Adam Smith"
+title: Adam Smith
 type: politician
 content-readiness: ready
-central-thesis: "Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ..."
-last-updated: 2026-04-15
+central-thesis: Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: House
+state: Washington
+state-abbr: WA
 district: "9"
 committees:
-  - "House Committee on Armed Services"
+  - House Committee on Armed Services
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Energy"
-  - "Environmental Protection"
-  - "Foreign Trade and International Finance"
-  - "Health"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Civil Rights and Liberties, Minority Issues
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Energy
+  - Environmental Protection
+  - Foreign Trade and International Finance
+  - Health
 top-donors:
-  - "Boeing"
-  - "Northrop Grumman"
-  - "Raytheon"
-  - "Lockheed Martin"
-fec-candidate-id: "H6WA09025"
+  - Boeing
+  - Northrop Grumman
+  - Raytheon
+  - Lockheed Martin
+fec-candidate-id: H6WA09025
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
-donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]]"
+donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[SUSAN B ANTHONY LIST INC]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]]"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline"
+reenrich-reason: run congress pipeline
 govtrack-id: 400379
 bills-sponsored: 199
 bills-cosponsored: 4972
-website: "https://adamsmith.house.gov"
-phone: "202-225-8901"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
-
-[CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287"
-bioguide-id: "S000510"
-total-raised: "$786,535"
-total-spent: "$659,320"
+website: https://adamsmith.house.gov
+phone: 202-225-8901
+internal-notes: |-
+  [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
+  [CODE @ 2026-04-10] Pipeline: fec completed for Adam Smith. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24267974287
+bioguide-id: S000510
+total-raised: $786,535
+total-spent: $659,320
 cash-on-hand: "697967.61"
 fec-cycle: 2026
-total-received: "$786,535"
+total-received: $786,535
 ---
 
 <!-- auto:data-panel start -->
@@ -271,6 +269,38 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[Source: Congress.gov](https://www.congress.gov/member/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | WA |
+| Chamber | House |
+| Bills Sponsored | 232 |
+| Bills Cosponsored | 4981 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Education, Energy, Environmental Protection, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 6281 | CHARGE Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+| 5859 | Behavioral Health Crisis Care Centers Act of 2025 | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5807 | Empowering Individuals to Succeed Through Education and Workforce Training Act | Referred to the House Committee on Education and Workforce. |
+| 5806 | Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 5785 | Voluntary Grazing Permit Retirement Act of 2025 | Referred to the House Committee on Natural Resources. |
+| 5532 | To direct the Secretary of Education to establish a program to facilitate the tr… | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5531 | Career and Technical Education Access Act | Referred to the House Committee on Education and Workforce. |
+| 5492 | PAAF Act | Referred to the House Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
@@ -345,6 +375,18 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Armed Services
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
 | Metric | Value |
@@ -371,6 +413,36 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - {{src:src_006409}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $786,535 |
+| Total Spent | $659,320 |
+| Cash on Hand | 697967.61 |
+| Individual Contributions | $412,258 |
+| PAC Contributions | $326,250 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $786,535 | $659,320 | 697967.61 |
+| 2024 | $1,677,916 | $1,701,114 | 570752.82 |
+| 2022 | $1,386,776 | $1,378,653 | 593950.77 |
+| 2020 | $1,327,196 | $933,145 | 585827.81 |
+| 2018 | $1,415,994 | $1,623,913 | 191776.67 |
+| 2016 | $925,645 | $1,105,447 | 399695.38 |
+| ... | 10 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
@@ -404,7 +476,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 **Key Votes**
 
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |

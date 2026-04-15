@@ -1,7 +1,7 @@
 ---
 title: Debbie Wasserman Schultz
 type: politician
-bioguide-id: W000797
+bioguide-id: "W000797"
 content-readiness: ready
 central-thesis: >-
   Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat
@@ -17,7 +17,16 @@ state: Florida
 state-abbr: FL
 district: '25'
 issues:
-  - Israel & Foreign Policy
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Emergency Management"
+  - "Energy"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
@@ -35,6 +44,10 @@ internal-notes: >-
   This profile was promoted to ready without ever having congress enrichment run
   on it. The needs-reenrichment flag has been set. The next scheduled pipeline
   run will pick it up automatically.
+total-raised: "$1,785,365"
+total-spent: "$875,347"
+cash-on-hand: "1967326.77"
+fec-cycle: 2026
 ---
 
 <!-- auto:data-panel start -->
@@ -264,3 +277,30 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,785,365 |
+| Total Spent | $875,347 |
+| Cash on Hand | 1967326.77 |
+| Individual Contributions | $1,322,746 |
+| PAC Contributions | $401,750 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,785,365 | $875,347 | 1967326.77 |
+| 2024 | $2,896,300 | $2,621,371 | 1057308.92 |
+| 2022 | $2,087,129 | $1,920,982 | 782379.35 |
+| 2020 | $2,204,638 | $1,992,619 | 616232.68 |
+| 2018 | $2,233,842 | $1,986,789 | 404213.88 |
+| 2016 | $4,037,050 | $4,242,401 | 157161.11 |
+| ... | 6 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
+<!-- auto:fec-summary end -->

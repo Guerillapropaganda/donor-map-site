@@ -1,19 +1,18 @@
 ---
-title: "Amazon"
+title: Amazon
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Tech & Crypto"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
+sector: Tech & Crypto
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Amy Klobuchar]]"
 issues:
-  - "Technology"
-  - "Labor & Workers"
+  - Technology
+  - Labor & Workers
 ein: "873103053"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 lobbying-spend: 42075000
 lobbying-filings: 59
@@ -22,35 +21,35 @@ subawards-issued: 50
 subawards-issued-amount: 683597304
 subawards-received: 50
 subawards-received-amount: 683597304
-top-federal-agency: "Department of Defense"
+top-federal-agency: Department of Defense
 top-naics-code: "518210"
 federal-register-mentions: 797
 regulatory-agencies:
-  - "Antitrust Division"
-  - "Employee Benefits Security Administration"
-  - "Energy Department"
-  - "Environmental Protection Agency"
-  - "Export-Import Bank"
-  - "Federal Communications Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Federal Trade Commission"
-  - "Food and Drug Administration"
-  - "General Services Administration"
+  - Antitrust Division
+  - Employee Benefits Security Administration
+  - Energy Department
+  - Environmental Protection Agency
+  - Export-Import Bank
+  - Federal Communications Commission
+  - Federal Energy Regulatory Commission
+  - Federal Trade Commission
+  - Food and Drug Administration
+  - General Services Administration
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 cpsc-recalls: 284
 court-cases: 67410
 court-jurisdictions:
-  - "District Court, D. Delaware"
-  - "District Court, D. Idaho"
-  - "District Court, D. South Carolina"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Wisconsin"
-  - "District Court, M.D. Florida"
-  - "District Court, M.D. Tennessee"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Texas"
-  - "District Court, S.D. Florida"
+  - District Court, D. Delaware
+  - District Court, D. Idaho
+  - District Court, D. South Carolina
+  - District Court, E.D. New York
+  - District Court, E.D. Wisconsin
+  - District Court, M.D. Florida
+  - District Court, M.D. Tennessee
+  - District Court, N.D. California
+  - District Court, N.D. Texas
+  - District Court, S.D. Florida
 cross-vault-triangulation-count: 15
 audit-a-plus-passed: "2026-04-11"
 ---

@@ -14,7 +14,7 @@ politicians-funded:
 issues:
   - "Defense & Military"
 court-cases: 35992
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 court-jurisdictions:
@@ -105,7 +105,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 3
 ftc-hsr-notices: 16
-federal-awards-total: 21586241485
+federal-awards-total: 21646660464
 federal-contracts-count: 25
 federal-grants-count: 23
 ---
@@ -520,7 +520,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -668,6 +668,41 @@ The Boeing Company is an American multinational corporation that designs and man
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
 
+<!-- auto:ftc-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 3 |
+| HSR early termination notices (merger filings) | 16 |
+| Most recent enforcement action | 2006-10-03 |
+| Earliest enforcement action | 1996-12-06 |
+
+**Enforcement by type:**
+
+- Consent Order Accepted for Comment: 3
+
+**Recent enforcement actions (historical):**
+
+- [The Boeing Company / Lockheed Martin Corp](http://www.ftc.gov/os/caselist/0510165/0510165.shtm) (2006-10-03) — Defense � Equipment and Engineering Services
+- [Boeing Co / Hughes Electronics](http://www.ftc.gov/os/caselist/c3992.shtm) (2000-09-27) — Defense � Equipment and Engineering Services
+- [The Boeing Co](http://www.ftc.gov/os/caselist/c3723.shtm) (1996-12-06) — Defense � Equipment and Engineering Services
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Boeing Employees' Credit Union → SAFE Credit Union](https://www.ftc.gov/legal-library/browse/early-termination-notices/20260777) (2026-02-13)
+- [The Boeing Company → Argon ST, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20100883) (2010-07-19)
+- [The Boeing Company → United Launch Alliance, L.L.C.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20051491) (2006-10-06)
+- [Onex Partners L.P. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050684) (2005-03-18)
+- [L-3 Communications Holdings, Inc. → The Boeing Company](https://www.ftc.gov/legal-library/browse/early-termination-notices/20050339) (2005-02-11)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Boeing) (Tier 1)
+
+<!-- auto:ftc-enforcement pending-merge end -->
+
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
 | Metric | Value |
@@ -699,3 +734,38 @@ The Boeing Company is an American multinational corporation that designs and man
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+<!-- auto:usaspending pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $21.6B |
+| Contracts (recent 3yr) | 25 ($229.5B sampled) |
+| Grants (recent 3yr) | 23 ($121.0M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $32.0B | Department of Defense | KC-X MODERNIZATION PROGRAM |
+| $22.4B | National Aeronautics and Space Administration | INTERNATIONAL SPACE STATION |
+| $18.8B | Department of Defense | 200112!000108!9700!ZD60 !BALLISTIC MISSILE DEFENSE ORG. !HQ000601C0001 !A!N!*!N! !20001222!20080930! |
+| $18.1B | Department of Defense | USN P-8A FRP II LONG LEAD MATERIAL |
+| $11.2B | Department of Defense | RSAF F-15 FLEET MODERNIZATION PROGRAM |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $45.9M | National Aeronautics and Space Administration | 1. P1.TPC.IMP: THERMOPLASTICS - INTEGRATED MASTER SCHEDULE & PLAN DEVELOPMENT  2. RESIN INFUSION - I |
+| $15.0M | Department of Defense | GRANT |
+| $10.8M | Department of Defense | NEXT GENERATION ROTORCRAFT TRANSMISSION |
+| $10.0M | National Aeronautics and Space Administration | SINGLE SOURCE: TRANSONIC TRUSS BRACED WING VISION VEHICLE TECHNOLOGY DEVELOPMENT (5 JULY 2023) |
+| $6.0M | Department of Defense | RESILIENT, VERSATILE SPACE PHOTOVOLTAIC FACTORY FOR CONTESTED SPACE ENVIRONMENTS AND AN EVOLVING MAR |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1)
+
+<!-- auto:usaspending pending-merge end -->

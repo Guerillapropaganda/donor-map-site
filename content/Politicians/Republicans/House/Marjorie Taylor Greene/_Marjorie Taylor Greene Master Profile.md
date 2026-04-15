@@ -2,17 +2,16 @@
 title: Marjorie Taylor Greene
 type: politician
 content-readiness: ready
-central-thesis: "MTG monetizes outrage , her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe..."
-last-updated: 2026-04-13
+central-thesis: MTG monetizes outrage , her donor model is built on small-dollar fundraising triggered by controversy, making her the right-wing mirror of the progressive fundraising model. But unlike AOC, whose controversies emerge from substantive policy challe...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
 chamber: House
 state: Georgia
 state-abbr: GA
-district: '14'
-top-donors:
-  - MAGA Small Dollar Base
+district: "14"
+top-donors: "[[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[THE LINCOLN PROJECT]], [[A GREAT AMERICA PAC]]"
 fec-candidate-id: H0GA06192
 source-types:
   - FEC

@@ -1,50 +1,47 @@
 ---
-title: "Maria Cantwell"
+title: Maria Cantwell
 type: politician
 content-readiness: ready
-central-thesis: "Maria Cantwell is the tech-aerospace industry's Senate anchor , a former tech executive who chairs the committee with jurisdiction over the industries that dominate her state's economy. She receives more campaign donations from the airline and tel..."
-last-updated: 2026-04-15
+central-thesis: Maria Cantwell is the tech-aerospace industry's Senate anchor , a former tech executive who chairs the committee with jurisdiction over the industries that dominate her state's economy. She receives more campaign donations from the airline and tel...
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "Senate"
-state: "Washington"
-state-abbr: "WA"
+party: Democrat
+chamber: Senate
+state: Washington
+state-abbr: WA
 committees:
-  - "Commerce"
+  - Commerce
 leadership-roles:
-  - "Ranking Member"
+  - Ranking Member
 issues:
-  - "Armed Forces and National Security"
-  - "Education"
-  - "Government Operations and Politics"
-  - "Health"
-  - "Native Americans"
-  - "Science, Technology, Communications"
-  - "Sports and Recreation"
-  - "Taxation"
-  - "Transportation and Public Works"
+  - Armed Forces and National Security
+  - Education
+  - Government Operations and Politics
+  - Health
+  - Native Americans
+  - Science, Technology, Communications
+  - Sports and Recreation
+  - Taxation
+  - Transportation and Public Works
 top-donors:
-  - "Boeing"
-total-received: "$896,096"
-fec-candidate-id: "S8WA00194"
-bioguide-id: "C000127"
+  - Boeing
+total-received: $896,096
+fec-candidate-id: S8WA00194
+bioguide-id: C000127
 govtrack-id: 300018
 bills-sponsored: 21
 bills-cosponsored: 188
-website: "https://www.cantwell.senate.gov"
-phone: "202-224-3441"
+website: https://www.cantwell.senate.gov
+phone: 202-224-3441
 stock-trades: 6
 stock-trade-tickers:
-  - "RNWK"
-donors: "[[Jeff Bezos]] · [[Comcast - NBCUniversal]] · [[Boeing Defense]]"
+  - RNWK
+donors: "[[Jeff Bezos]] · [[Comcast - NBCUniversal]] · [[Boeing Defense]] · [[Boeing]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Patty Murray Master Profile|Murray]] · [[Boeing]]"
 needs-reenrichment: true
-reenrich-reason: "run congress pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run congress pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 ---
 

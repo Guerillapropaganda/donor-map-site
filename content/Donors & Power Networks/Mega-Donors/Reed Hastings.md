@@ -1,53 +1,48 @@
 ---
-title: "Reed Hastings"
+title: Reed Hastings
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-10T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
+sector: Mega-Donors
+entity-type: Individual Donor
 court-cases: 218
 last-enriched: "2026-04-10"
 court-jurisdictions:
-  - "Court of Appeals for the Tenth Circuit"
-  - "District Court, C.D. California"
-  - "District Court, D. Delaware"
-  - "District Court, D. Utah"
-  - "District Court, E.D. California"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, W.D. Virginia"
+  - Court of Appeals for the Tenth Circuit
+  - District Court, C.D. California
+  - District Court, D. Delaware
+  - District Court, D. Utah
+  - District Court, E.D. California
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. New York
+  - District Court, W.D. Virginia
 sec-filings: 10000
 sec-form-types:
   - "144"
-  - "144/A"
+  - 144/A
   - "4"
-  - "8-K"
-  - "DEF 14A"
-  - "EX-10.10"
-  - "EX-10.9"
-  - "EX-31.1"
-  - "EX-32.1"
-  - "EX-99.1"
-  - "S-1/A"
-  - "S-8"
-  - "SC 13G"
-  - "SC 13G/A"
+  - 8-K
+  - DEF 14A
+  - EX-10.10
+  - EX-10.9
+  - EX-31.1
+  - EX-32.1
+  - EX-99.1
+  - S-1/A
+  - S-8
+  - SC 13G
+  - SC 13G/A
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 federal-register-mentions: 2
 regulatory-agencies:
-  - "Securities and Exchange Commission"
+  - Securities and Exchange Commission
 related: "[[Silicon Valley Democratic Donor Network]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[Laurene Powell Jobs]] · [[Hollywood Democratic Donor Network]]"
-total-political-spend: "$28,513,162"
-politicians-funded:
-  - "Joe Biden"
-  - "Hakeem Jeffries"
-  - "Kamala Harris"
-  - "Barack Obama"
-  - "CSPOA - The Anti-Government Sheriff Network"
+total-political-spend: $28,513,162
+politicians-funded: "[[Hakeem Jeffries]], [[CSPOA - The Anti-Government Sheriff Network]], [[Barack Obama]], [[Joe Biden]], [[Kamala Harris]]"
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 ---

@@ -1,30 +1,25 @@
 ---
-title: "Jeffrey Katzenberg"
+title: Jeffrey Katzenberg
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Nancy Pelosi"
-  - "Kamala Harris"
-  - "Joe Biden"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Nancy Pelosi]], [[Joe Biden]], [[Kamala Harris]]"
 ein: 954513461
-annual-revenue: "$922K"
-net-assets: "$10.7M"
+annual-revenue: $922K
+net-assets: $10.7M
 tax-year: "2023"
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 related: "[[Adam Schiff]] · [[Ana Kasparian]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Barack Obama Master Profile|Obama]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Cenk Uygur]] · [[Tech and Media Donors]] · [[Priorities USA Action]] · [[Hollywood Democratic Donor Network]] · [[Finance and Tech Bundler Network]]"
-total-political-spend: "$13,889,097"
+total-political-spend: $13,889,097
 cross-vault-triangulation-count: 12
 needs-reenrichment: true
-reenrich-reason: "run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

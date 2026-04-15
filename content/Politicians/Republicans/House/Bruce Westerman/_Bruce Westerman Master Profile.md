@@ -1,38 +1,36 @@
 ---
-title: "Bruce Westerman"
+title: Bruce Westerman
 type: politician
 content-readiness: draft
-central-thesis: "Bruce Westerman is the extractive industry's credentialed gatekeeper — a Yale-educated forester who uses his environmental credentials to open public lands to drilling, mining, and logging while framing resource extraction as 'conservation.' His c..."
-last-updated: 2026-04-13
+central-thesis: Bruce Westerman is the extractive industry's credentialed gatekeeper — a Yale-educated forester who uses his environmental credentials to open public lands to drilling, mining, and logging while framing resource extraction as 'conservation.' His c...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Arkansas"
-state-abbr: "AR"
+party: Republican
+chamber: House
+state: Arkansas
+state-abbr: AR
 district: "4"
 issues:
-  - "Armed Forces and National Security"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Education"
-  - "Environmental Protection"
-  - "Finance and Financial Sector"
-  - "Foreign Trade and International Finance"
-  - "Government Operations and Politics"
-  - "Health"
-  - "International Affairs"
-total-received: "$1,848,430"
-fec-candidate-id: "H4AR04048"
+  - Armed Forces and National Security
+  - Congress
+  - Crime and Law Enforcement
+  - Education
+  - Environmental Protection
+  - Finance and Financial Sector
+  - Foreign Trade and International Finance
+  - Government Operations and Politics
+  - Health
+  - International Affairs
+total-received: $1,848,430
+fec-candidate-id: H4AR04048
 related: "[[Raul Grijalva]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]]"
+donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
-reenrich-reason: "re-run congress pipeline"
-bioguide-id: "W000821"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: re-run congress pipeline
+bioguide-id: W000821
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

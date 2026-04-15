@@ -1,42 +1,38 @@
 ---
-title: "Real Estate Development Industry Bloc"
+title: Real Estate Development Industry Bloc
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Real Estate"
-entity-type: "Corporation"
-politicians-funded:
-  - "Donald Trump"
-  - "Gavin Newsom"
+sector: Real Estate
+entity-type: Corporation
+politicians-funded: "[[Donald Trump]], [[Gavin Newsom]]"
 issues:
-  - "Housing"
+  - Housing
 ofac-sdn-match: "true"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 ofac-programs:
-  - "PAARSSR-EO13894"
-  - "SDGT"
-  - "GLOMAG"
-  - "TCO"
-  - "IRAN] [IRAN-EO13876"
-  - "SDNTK"
-  - "UKRAINE-EO13662] [RUSSIA-EO14024"
-  - "SDGT] [IFSR"
-  - "IRAN"
-  - "RUSSIA-EO14024"
-  - "IRAN-EO13846"
-  - "DPRK2"
-  - "ILLICIT-DRUGS-EO14059"
+  - PAARSSR-EO13894
+  - SDGT
+  - GLOMAG
+  - TCO
+  - IRAN] [IRAN-EO13876
+  - SDNTK
+  - UKRAINE-EO13662] [RUSSIA-EO14024
+  - SDGT] [IFSR
+  - IRAN
+  - RUSSIA-EO14024
+  - IRAN-EO13846
+  - DPRK2
+  - ILLICIT-DRUGS-EO14059
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 related: "[[Steve Witkoff]] · [[3.5 Million Units - Broken Promise]] · [[Supply-Side Framework - Who It Helps]] · [[Housing - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Lennar Corporation]]"
 cross-vault-triangulation-count: 7
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

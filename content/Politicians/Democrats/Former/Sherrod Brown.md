@@ -56,23 +56,23 @@ internal-notes: >-
   The profile's own known-gaps field says it needs a fresh pipeline run. The
   needs-reenrichment flag has been set. The next scheduled pipeline run will
   pick it up automatically.
-total-raised: '$14,356,451'
-total-spent: '$4,456,809'
-cash-on-hand: '9899641.92'
+total-raised: "$14,356,451"
+total-spent: "$4,456,809"
+cash-on-hand: "9899641.92"
 fec-cycle: 2026
 last-enriched: "2026-04-15"
-bioguide-id: B001313
+bioguide-id: "B001313"
 issues:
-  - Agriculture and Food
-  - Armed Forces and National Security
-  - 'Arts, Culture, Religion'
-  - 'Civil Rights and Liberties, Minority Issues'
-  - Congress
-  - Crime and Law Enforcement
-  - Economics and Public Finance
-  - Education
-  - Finance and Financial Sector
-  - Government Operations and Politics
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
 total-received: "$14,356,451"
 wikidata-id: Q381880
 wikipedia-url: 'https://en.wikipedia.org/wiki/Sherrod_Brown'
@@ -327,12 +327,50 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - {{src:src_006846}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $14,356,451 |
+| Total Spent | $4,456,809 |
+| Cash on Hand | 9899641.92 |
+| Individual Contributions | $5,958,251 |
+| PAC Contributions | $600,126 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $14,356,451 | $4,456,809 | 9899641.92 |
+| 2024 | $103,336,341 | $104,313,356 | 394230.48 |
+| 2018 | $28,817,989 | $27,997,834 | 1371245.26 |
+| 2012 | $24,831,022 | $24,567,107 | 551089.00 |
+| 2006 | $8,937,005 | $10,752,667 | 287174.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -362,6 +400,38 @@ _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/B001313)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | OH |
+| Chamber | Senate |
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 960 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Sports and Recreation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7975 | Feeding Families Not Fear Act of 2026 | Referred to the Committee on the Judiciary, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7685 | Healthy Hair Act | Referred to the House Committee on Energy and Commerce. |
+| 1004 | Honoring Reverend Dr. Martin Luther King, Jr., by celebrating diversity, promoti… | Referred to the House Committee on the Judiciary. |
+| 6429 | Expanding Cybersecurity Workforce Act of 2025 | Referred to the House Committee on Homeland Security. |
+| 5457 | Strengthening Agency Management and Oversight of Software Assets Act | Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 5255 | Thriving Community Gardens Act | Referred to the House Committee on Education and Workforce. |
+| 4635 | To designate the facility of the United States Postal Service located at 890 Eas… | Motion to reconsider laid on the table Agreed to without objection. |
+| 4392 | Uterine Fibroid Intervention and Gynecological Health Treatment Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

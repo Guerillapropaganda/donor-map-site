@@ -1,16 +1,17 @@
 ---
-title: "Rex Tillerson"
+title: Rex Tillerson
 type: politician
 content-readiness: draft
 central-thesis: "Tillerson's career is the fossil fuel revolving door in its purest form: 41 years building wealth and relationships inside the world's most powerful oil company, then a brief stint as Secretary of State where his primary qualification was his rela..."
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
+party: Republican
+chamber: Cabinet
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 related: "[[Enterprise Products Partners]] · [[ExxonMobil]] · [[Donald Trump]]"
+top-donors: "[[ExxonMobil]]"
 ---
 
 <!-- auto:data-panel start -->

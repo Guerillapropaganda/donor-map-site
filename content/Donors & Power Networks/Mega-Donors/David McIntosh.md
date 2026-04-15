@@ -1,29 +1,24 @@
 ---
-title: "David McIntosh"
+title: David McIntosh
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Kamala Harris"
-  - "Raphael Warnock"
-  - "Jon Ossoff"
-  - "Roy Cooper"
-  - "Donald Trump"
-related: "[[Club for Growth]] · [[Raphael Warnock]]"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Roy Cooper]], [[Raphael Warnock]], [[Donald Trump]], [[Kamala Harris]], [[Jon Ossoff]]"
+related: "[[Club for Growth]]"
 last-enriched: "2026-04-11"
 federal-register-mentions: 10
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Election Commission"
-  - "Federal Energy Regulatory Commission"
-  - "Labor Department"
-  - "Occupational Safety and Health Administration"
-  - "State Department"
-total-political-spend: "$53,369"
+  - Energy Department
+  - Federal Election Commission
+  - Federal Energy Regulatory Commission
+  - Labor Department
+  - Occupational Safety and Health Administration
+  - State Department
+total-political-spend: $53,369
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 ---

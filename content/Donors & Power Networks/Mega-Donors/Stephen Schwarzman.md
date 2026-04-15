@@ -1,78 +1,75 @@
 ---
-title: "Stephen Schwarzman"
+title: Stephen Schwarzman
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Mega-Donors"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Donald Trump"
+sector: Mega-Donors
+entity-type: Individual Donor
+politicians-funded: "[[Donald Trump]]"
 issues:
-  - "Wall Street & Finance"
-total-political-spend: "$36,566,410"
+  - Wall Street & Finance
+total-political-spend: $36,566,410
 ein: 474634539
-annual-revenue: "$127.1M"
-net-assets: "$105.5M"
+annual-revenue: $127.1M
+net-assets: $105.5M
 tax-year: "2023"
 federal-register-mentions: 2
 last-enriched: "2026-04-09"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Energy Department"
-  - "Federal Energy Regulatory Commission"
+  - Energy Department
+  - Federal Energy Regulatory Commission
 lobbying-spend: 3022000
 lobbying-filings: 89
 sec-filings: 64
 sec-form-types:
-  - "10-Q"
-  - "424B2"
-  - "424H"
+  - 10-Q
+  - 424B2
+  - 424H
   - "425"
   - "5"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DFAN14A"
-  - "EX-3.1"
-  - "EX-3.2"
-  - "EX-99.(A)-(1)"
-  - "EX-99.(C)(4)"
-  - "EX-99.(R.2)"
-  - "EX-99.(R2)"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.4"
-  - "EX-99.A.1.A"
-  - "EX-99.A.3.A"
-  - "EX-99.P.1"
-  - "FWP"
-  - "N-CSR"
-  - "N-CSRS"
-  - "PREM14A"
-  - "PRER14A"
-  - "SC 13D"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 14D9"
+  - DEF 14A
+  - DEFA14A
+  - DFAN14A
+  - EX-3.1
+  - EX-3.2
+  - EX-99.(A)-(1)
+  - EX-99.(C)(4)
+  - EX-99.(R.2)
+  - EX-99.(R2)
+  - EX-99.1
+  - EX-99.2
+  - EX-99.4
+  - EX-99.A.1.A
+  - EX-99.A.3.A
+  - EX-99.P.1
+  - FWP
+  - N-CSR
+  - N-CSRS
+  - PREM14A
+  - PRER14A
+  - SC 13D
+  - SC 13D/A
+  - SC 13G
+  - SC 14D9
 related: "[[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Donald Trump Master Profile]] · [[Private Equity Industry Bloc|Private Equity Industry]] · [[MAGA Inc]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Blackstone Group]] · [[Great Lakes Conservatives Fund]] · [[Blackstone Real Estate]]"
 court-cases: 25
 court-jurisdictions:
-  - "District Court, D. Maryland"
-  - "District Court, D. New Jersey"
-  - "District Court, E.D. New York"
-  - "District Court, E.D. Pennsylvania"
-  - "District Court, M.D. North Carolina"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "District Court, S.D. Illinois"
-  - "District Court, S.D. New York"
-  - "District Court, S.D. Texas"
+  - District Court, D. Maryland
+  - District Court, D. New Jersey
+  - District Court, E.D. New York
+  - District Court, E.D. Pennsylvania
+  - District Court, M.D. North Carolina
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - District Court, S.D. Illinois
+  - District Court, S.D. New York
+  - District Court, S.D. Texas
 cross-vault-triangulation-count: 8
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

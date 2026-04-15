@@ -1,61 +1,51 @@
 ---
-title: "ActBlue"
+title: ActBlue
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Katherine M. Clark"
-  - "Jon Ossoff"
-  - "Adam Smith"
-  - "Tina Smith"
-  - "Adrian Smith"
-  - "Christopher H. Smith"
-  - "Jason Smith"
-  - "James C. Justice"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Adrian Smith]], [[Katherine M. Clark]], [[Joe Biden]], [[Dan Osborn]], [[Jon Ossoff]], [[Christopher H. Smith]], [[Tina Smith]], [[James C. Justice]], [[Adam Smith]], [[Jason Smith]]"
 issues:
-  - "Infrastructure"
-  - "Dark Money & Campaign Finance"
+  - Infrastructure
+  - Dark Money & Campaign Finance
 sec-filings: 5
 sec-form-types:
-  - "40-APP"
-  - "40-APP/A"
-  - "EX-99"
+  - 40-APP
+  - 40-APP/A
+  - EX-99
 federal-register-mentions: 9
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 regulatory-agencies:
-  - "Federal Election Commission"
-ein: "455097038"
-annual-revenue: "$2.0M"
-net-assets: "$8.5M"
+  - Federal Election Commission
+ein: 455097038
+annual-revenue: $2.0M
+net-assets: $8.5M
 tax-year: "2023"
 related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]] · [[Democratic Small Dollar Networks]] · [[WinRed]] · [[Democratic Donor Network]] · [[Future Forward USA Action]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Bernie Sanders Master Profile]] · [[MAGA Small Dollar Base]] · [[Emilys List]] · [[Adam Smith]] · [[Jason Smith]] · [[American Gaming Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[Ocean Conservancy]] · [[New Venture Fund]]"
 court-cases: 141
 court-jurisdictions:
-  - "District Court, C.D. California"
-  - "District Court, D. New Mexico"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. Michigan"
-  - "District Court, E.D. Virginia"
-  - "District Court, N.D. California"
-  - "District Court, N.D. Illinois"
-  - "United States Bankruptcy Court, D. Massachusetts"
+  - District Court, C.D. California
+  - District Court, D. New Mexico
+  - District Court, District of Columbia
+  - District Court, E.D. Michigan
+  - District Court, E.D. Virginia
+  - District Court, N.D. California
+  - District Court, N.D. Illinois
+  - United States Bankruptcy Court, D. Massachusetts
 cross-vault-triangulation-count: 21
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-nonprofit-status: "501(c)(4)"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+nonprofit-status: 501(c)(4)
 total-revenue: 3117422
 total-assets: 9477177
-wikidata-id: "Q4676589"
-wikipedia-url: "https://en.wikipedia.org/wiki/ActBlue"
-wikipedia-extract: "ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure."
-total-political-spend: "$1,765,636"
+wikidata-id: Q4676589
+wikipedia-url: https://en.wikipedia.org/wiki/ActBlue
+wikipedia-extract: ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure.
+total-political-spend: $1,765,636
 ---
 
 <!-- auto:data-panel start -->
@@ -249,6 +239,31 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
+<!-- auto:federal-register pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 9 |
+| Rule | 1 |
+| Proposed Rule | 2 |
+| Notice | 6 |
+| Agencies | Federal Election Commission |
+
+**Recent regulatory activity:**
+- [Technological Modernization](https://www.federalregister.gov/documents/2024/01/02/2023-27908/technological-modernization) (2024-01-02) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2022/09/08/2022-19382/technological-modernization) (2022-09-08) — Federal Election Commission
+- [Technological Modernization](https://www.federalregister.gov/documents/2016/11/02/2016-25102/technological-modernization) (2016-11-02) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/01/12/2015-00367/sunshine-act-meetings) (2015-01-12) — Federal Election Commission
+- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2014/09/16/2014-22087/sunshine-act-meetings) (2014-09-16) — Federal Election Commission
+- [Sunshine Act Notices](https://www.federalregister.gov/documents/2007/12/10/07-6011/sunshine-act-notices) (2007-12-10) — Federal Election Commission
+- ... and 3 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1)
+
+<!-- auto:federal-register pending-merge end -->
+
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
 | Metric | Amount |
@@ -301,7 +316,7 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -309,7 +324,7 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 |--------|-------|
 | Federal Court Cases | 141 |
 | Courts | District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Illinois, United States Bankruptcy Court, D. Massachusetts |
-| Case Types | 370 Other misconduct, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
+| Case Types | 370 Other Fraud, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
 
 **Notable cases:**
 - COMMITTEE TO ELECT YAIDA FORD v. ACTBLUE LLC. (2026) — District Court, District of Columbia

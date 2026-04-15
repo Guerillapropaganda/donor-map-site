@@ -1,31 +1,32 @@
 ---
-title: "Sam Graves"
+title: Sam Graves
 type: politician
-bioguide-id: "G000546"
+bioguide-id: G000546
 content-readiness: ready
 central-thesis: "Sam Graves chairs the largest committee in Congress , and every industry it regulates funds his campaigns. OpenSecrets data shows Graves as the #1 recipient of contributions from airlines, trucking, railroads, and air transport in the 2022 cycle, ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "House"
-state: "Missouri"
-state-abbr: "MO"
+party: Republican
+chamber: House
+state: Missouri
+state-abbr: MO
 district: "6"
 committees:
-  - "Transportation & Infrastructure"
+  - Transportation & Infrastructure
 issues:
-  - "Infrastructure"
-total-received: "$1,448,379"
-fec-candidate-id: "H0MO06073"
+  - Infrastructure
+total-received: $1,448,379
+fec-candidate-id: H0MO06073
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]]"
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -1,56 +1,53 @@
 ---
-title: "Jamie Raskin"
+title: Jamie Raskin
 type: politician
 content-readiness: draft
-central-thesis: "Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand , the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati..."
-last-updated: 2026-04-13
+central-thesis: Raskin is the constitutional scholar who became the Democratic Party's anti-corruption brand , the intellectual conscience of the caucus, the impeachment manager, the man who channels grief (his son Tommy's death by suicide in 2020) into democrati...
+last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Democrat"
-chamber: "House"
-state: "Maryland"
-state-abbr: "MD"
+party: Democrat
+chamber: House
+state: Maryland
+state-abbr: MD
 district: "8"
 committees:
-  - "House Committee on the Judiciary"
+  - House Committee on the Judiciary
 leadership-roles:
-  - "Ranking Member"
-total-received: "$4,396,225"
-fec-candidate-id: "H6MD08457"
+  - Ranking Member
+total-received: $4,396,225
+fec-candidate-id: H6MD08457
 govtrack-id: 412708
 bills-sponsored: 18
 bills-cosponsored: 265
-website: "https://raskin.house.gov"
-phone: "202-225-5341"
-donors: "[[UNITE HERE]] · [[Demand Justice]]"
+website: https://raskin.house.gov
+phone: 202-225-5341
+donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]]"
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "re-run fec pipeline; re-run congress pipeline"
-bioguide-id: "R000606"
+reenrich-reason: re-run fec pipeline; re-run congress pipeline
+bioguide-id: R000606
 issues:
-  - "Agriculture and Food"
-  - "Armed Forces and National Security"
-  - "Arts, Culture, Religion"
-  - "Civil Rights and Liberties, Minority Issues"
-  - "Congress"
-  - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
-  - "Education"
-  - "Environmental Protection"
-  - "Foreign Trade and International Finance"
-internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-  • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-total-raised: "$4,396,225"
-total-spent: "$2,984,270"
+  - Agriculture and Food
+  - Armed Forces and National Security
+  - Arts, Culture, Religion
+  - Civil Rights and Liberties, Minority Issues
+  - Congress
+  - Crime and Law Enforcement
+  - Economics and Public Finance
+  - Education
+  - Environmental Protection
+  - Foreign Trade and International Finance
+internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: $4,396,225
+total-spent: $2,984,270
 cash-on-hand: "6377157.84"
 fec-cycle: 2026
-wikidata-id: "Q640835"
-wikipedia-url: "https://en.wikipedia.org/wiki/Jamie_Raskin"
-wikipedia-extract: "Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017."
+wikidata-id: Q640835
+wikipedia-url: https://en.wikipedia.org/wiki/Jamie_Raskin
+wikipedia-extract: Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017.
 born: "1962-12-13"
 ---
 
@@ -269,27 +266,8 @@ On campaign finance reform, he leads with the structural argument, corporations 
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Key Votes**
-
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-
 **Sources**
 
-- [Congress.gov: Jamie Raskin](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -323,6 +301,38 @@ On campaign finance reform, he leads with the structural argument, corporations 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/R000606)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MD |
+| Chamber | House |
+| Bills Sponsored | 128 |
+| Bills Cosponsored | 3684 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8275 | To establish the Commission on Presidential Capacity to Discharge the Powers and… | Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8122 | 9–8–8 Connect Act | Referred to the House Committee on Energy and Commerce. |
+| 8123 | STOP Corrupt Bets Act of 2026 | Referred to the House Committee on Agriculture. |
+| 8124 | STOP Suicide Act | Referred to the House Committee on Energy and Commerce. |
+| 6761 | People’s White House Historic Preservation Act | Referred to the House Committee on Natural Resources. |
+| 6589 | Ranked Choice Voting Act | Referred to the House Committee on House Administration. |
+| 913 | Expressing the opposition of the House of Representatives to any grant of commut… | Referred to the House Committee on the Judiciary. |
+| 6310 | To designate the facility of the United States Postal Service located at 3570 Ol… | Motion to reconsider laid on the table Agreed to without objection. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 **Committees:**
@@ -331,6 +341,18 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on the Judiciary
+
+- [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

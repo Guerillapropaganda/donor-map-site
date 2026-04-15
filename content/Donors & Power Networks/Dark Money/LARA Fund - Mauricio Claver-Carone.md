@@ -1,22 +1,20 @@
 ---
-title: "LARA Fund - Mauricio Claver-Carone"
+title: LARA Fund - Mauricio Claver-Carone
 type: donor
 content-readiness: draft
-last-updated: 2026-04-08
+last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Marco Rubio"
-  - "Mario Diaz-Balart"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[Marco Rubio]], [[Mario Diaz-Balart]]"
 issues:
-  - "Infrastructure"
-  - "Dark Money & Campaign Finance"
+  - Infrastructure
+  - Dark Money & Campaign Finance
 related: "[[The Nuestra América Convoy , How the Donor Class Attacked a Humanitarian Mission]] · [[Helms-Burton Title III and the Bacardi Trademark Wars: How Corporate Lobbying Rewrote U.S.-Cuba Policy]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[Bacardi - Bacardi USA]]"
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying disclosure data"
+  - No FEC contribution data
+  - No lobbying disclosure data
 ---
 
 <!-- auto:data-panel start -->

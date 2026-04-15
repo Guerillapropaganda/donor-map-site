@@ -77,7 +77,7 @@ sec-form-types:
   - "SC 13D"
   - "SC 13D/A"
   - "XML"
-court-cases: 12441
+court-cases: 12597
 court-jurisdictions:
   - "Court of Appeals for the Federal Circuit"
   - "Court of Appeals for the Tenth Circuit"
@@ -86,9 +86,9 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, E.D. California"
   - "District Court, M.D. Florida"
+  - "District Court, M.D. Louisiana"
   - "District Court, M.D. Pennsylvania"
   - "District Court, S.D. Iowa"
-  - "United States Bankruptcy Court, N.D. Florida"
 fda-recalls: 42
 fda-recalls-class-i: 10
 cross-vault-triangulation-count: 12
@@ -104,20 +104,22 @@ wikipedia-extract: "Cargill, Incorporated is an American multinational food corp
 founded: "1865-01-01"
 lei: "549300B5ALGB4HZFWU97"
 lei-jurisdiction: "NL"
-federal-register-mentions: 820
+federal-register-mentions: 822
 regulatory-agencies:
   - "Agricultural Marketing Service"
   - "Agriculture Department"
-  - "Coast Guard"
   - "Commerce Department"
   - "Drug Enforcement Administration"
   - "Environmental Protection Agency"
   - "Federal Mine Safety and Health Review Commission"
   - "Food and Drug Administration"
   - "Health and Human Services Department"
-  - "Homeland Security Department"
+  - "International Trade Administration"
+  - "International Trade Commission"
 lobbying-spend: 4875000
 lobbying-filings: 50
+ftc-enforcement-actions: 0
+ftc-hsr-notices: 30
 ---
 
 <!-- auto:data-panel start -->
@@ -257,7 +259,7 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - ~~[Source: USASpending.gov Subawards](https://www.usaspending.gov/search)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -335,7 +337,7 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/a31654c7-f5ff-71fe-90d8-91a59745fb51-C/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-11 -->
+<!-- auto:usaspending pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -431,23 +433,23 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-11 -->
+<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Federal Court Cases | 12,441 |
-| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Nebraska, District Court, District of Columbia, District Court, E.D. California, District Court, M.D. Florida, District Court, M.D. Pennsylvania +3 more |
+| Federal Court Cases | 12,597 |
+| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, D. Nebraska, District Court, District of Columbia, District Court, E.D. California, District Court, M.D. Florida, District Court, M.D. Louisiana +4 more |
 | Case Types | 410 Anti-Trust, 463 Habeas Corpus - Alien Detainee, 830 Patent Infringement (Fed. Qst.), 890 Other Statutory Actions |
 
 **Notable cases:**
+- Chenevert v. PSC Group LLC (2026) — District Court, M.D. Louisiana
 - REQUEST FOR EXEMPTION FROM ELECTRONIC PUBLIC ACCESS FEES BY ALEXANDER LOVE (2026) — District Court, District of Columbia
 - Dennis v. Cargill, Incorporated (2026) — District Court, D. Nebraska
 - Praznik v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
 - Strahl v. Consumer Safety Technology, LLC (2026) — District Court, S.D. Iowa
 - In Re: Nexstar-TEGNA Merger Litigation (2026) — District Court, E.D. California
-- Sue Kim v. Target Corporation (2026) — District Court, C.D. California
 
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Cargill%22&type=r) (Tier 1)
 
@@ -491,6 +493,47 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Cargill) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
+<!-- auto:fda-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 42 |
+| Food recalls | 42 |
+| **Class I (life-threatening)** | **10** |
+| Class II (temporary/reversible) | 31 |
+| Class III (unlikely to cause harm) | 1 |
+| Most recent | 2023-06-23 |
+| Earliest | 2015-10-19 |
+
+**Class I recalls (life-threatening):**
+
+- [food] **F-1289-2022** (2022-05-23): Milk Chocolate Covered Peanut Butter Meltaways 8oz. Item code:  K120M
+  - Reason: Possible contamination with Salmonella
+- [food] **F-1292-2022** (2022-05-23): Peanut Butter Fudge 8 oz. Item code:  K509
+  - Reason: Possible contamination with Salmonella
+- [food] **F-1291-2022** (2022-05-23): Peanut Butter and Chocolate Fudge 8 oz. Item code: K508
+  - Reason: Possible contamination with Salmonella
+- [food] **F-1286-2022** (2022-05-23): Dark Chocolate Covered Peanut Butter Eggs - 8 oz. Item code: K119D
+  - Reason: Possible contamination with Salmonella
+
+**Recent recalls:**
+
+- [food] [Class II] F-1223-2023 (2023-06-23): Cargill Tripotassium Citrate Monohydrate packaged in 50 lb. paper bag.  Product item: SKU 100105392, TPC GNLR 50LB BG KH FCC
+- [food] [Class II] F-1222-2023 (2023-06-23): Cargill Trisodium Citrate Dihydrate packaged in 50 lb. paper bags and 2,000 lb. supersacks.  Product item ids:   1. SKU 100002299, TSC DIHYD FN 50LB BG 6132-04-3 KH FC 2. SKU 100105400, TSC DIHYD FN 2
+- [food] [Class II] F-0770-2023 (2023-04-07): Wilbur¿ Dark Chocolate Covered Cashews Net Wt.16 oz (1 LB) 454g  Packaged in plastic bag
+- [food] [Class II] F-0787-2023 (2023-03-30): PROSANTE TSOYFLR 10P MNCD 50LB BG, paper bag
+- [food] [Class II] F-0792-2023 (2023-03-30): PROSANTE TVGPTN 12BF7 MNCD 50LB BG/36P, paper bag
+- [food] [Class II] F-0796-2023 (2023-03-30): PROSANTE SOYFLR 3038P FLK 50LB BG, PROSANTE TSOYFLR 3038P FLK 50LB BG/18P, paper bags
+- ... and 36 more
+
+_Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Cargill Cocoa & Chocolate, Inc.; Cargill Cocoa and Chocolate Inc; Cargill Salt; Cargill Cocoa and Chocolate, Inc._
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Cargill) (Tier 1)
+
+<!-- auto:fda-enforcement pending-merge end -->
+
 ### FTC Enforcement & Merger Review
 <!-- auto:ftc-enforcement start -->
 | Metric | Value |
@@ -510,6 +553,29 @@ _Variant firm names in FDA data: Cargill, Inc         Corporate Headquarters; Ca
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+<!-- auto:ftc-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| FTC enforcement actions (historical, ≤FY2021) | 0 |
+| HSR early termination notices (merger filings) | 30 |
+
+**Recent HSR merger filings (early terminations granted):**
+
+- [Cargill, Incorporated → CW Brand Holdings, Inc.](https://www.ftc.gov/legal-library/browse/early-termination-notices/20180220) (2017-11-28)
+- [Mitsubishi Corporation → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20172017) (2017-09-29)
+- [Cargill, Incorporated → Southern States Cooperative, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171826) (2017-09-05)
+- [Macquarie Group Limited → Cargill Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171540) (2017-07-18)
+- [Macquarie Group Limited → Cargill, Incorporated](https://www.ftc.gov/legal-library/browse/early-termination-notices/20171126) (2017-05-19)
+
+> _FTC enforcement CSVs last updated early 2021 (FY1996–FY2021). Post-2021 cases not included._ For post-2021 cases, see the [FTC Legal Library search](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill).
+
+- [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Cargill) (Tier 1)
+
+<!-- auto:ftc-enforcement pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -653,6 +719,31 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+<!-- auto:federal-register pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Federal Register Mentions | 822 |
+| Final Rules | 62 |
+| Proposed Rules | 43 |
+| Notices | 717 |
+| Agencies | Agricultural Marketing Service, Agriculture Department, Commerce Department, Drug Enforcement Administration, Environmental Protection Agency, Federal Mine Safety and Health Review Commission, Food and Drug Administration, Health and Human Services Department +4 more |
+
+**Recent regulatory activity:**
+- [Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order](https://www.federalregister.gov/documents/2026/04/15/2026-07311/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of-the) (2026-04-15) — Commerce Department
+- [Citric Acid and Certain Citrate Salts From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order](https://www.federalregister.gov/documents/2026/04/15/2026-07308/citric-acid-and-certain-citrate-salts-from-the-peoples-republic-of-china-final-results-of-the) (2026-04-15) — Commerce Department
+- [Erythritol From China; Determinations](https://www.federalregister.gov/documents/2026/03/26/2026-05850/erythritol-from-china-determinations) (2026-03-26) — International Trade Commission
+- [Citric Acid and Certain Citrate Salts From China; Scheduling of Expedited Five-Year Reviews](https://www.federalregister.gov/documents/2026/03/26/2026-05848/citric-acid-and-certain-citrate-salts-from-china-scheduling-of-expedited-five-year-reviews) (2026-03-26) — International Trade Commission
+- [Public Hearing](https://www.federalregister.gov/documents/2026/03/25/2026-05817/public-hearing) (2026-03-25) — Susquehanna River Basin Commission
+- [Citric Acid and Certain Citrate Salts From Canada and India: Postponement of Preliminary Determination in the Countervailing Duty Investigations](https://www.federalregister.gov/documents/2026/03/25/2026-05806/citric-acid-and-certain-citrate-salts-from-canada-and-india-postponement-of-preliminary) (2026-03-25) — Commerce Department
+- ... and 816 more
+
+- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Cargill%22) (Tier 1)
+
+<!-- auto:federal-register pending-merge end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->

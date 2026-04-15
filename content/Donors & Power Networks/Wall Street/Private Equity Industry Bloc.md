@@ -1,28 +1,24 @@
 ---
-title: "Private Equity Industry Bloc"
+title: Private Equity Industry Bloc
 type: donor
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Kyrsten Sinema"
+sector: Wall Street
+entity-type: Individual Donor
+politicians-funded: "[[Kyrsten Sinema]]"
 issues:
-  - "Wall Street & Finance"
-  - "Healthcare"
-  - "Housing"
+  - Wall Street & Finance
+  - Healthcare
+  - Housing
 lobbying-spend: 2239378
 lobbying-filings: 64
 related: "[[The Education Committee and For-Profit College Pipeline]] · [[Blackstone Group]] · [[Goldman Sachs]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Apollo Global Management]] · [[The Carried Interest Loophole - 30 Years of Survival]] · [[Wall Street Finance Networks]] · [[Hedge Fund Industry Bloc]] · [[Carlyle Group]] · [[Hospital Corporation of America - HCA]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline; run pipelines"
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-  • No last-enriched date is set. The pipelines have never touched this file.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+reenrich-reason: run fec pipeline; run pipelines
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ---
 
 <!-- auto:data-panel start -->

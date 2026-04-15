@@ -1,23 +1,21 @@
 ---
-title: "Kash Patel"
+title: Kash Patel
 type: politician
 content-readiness: draft
-central-thesis: "Kash Patel is the logical endpoint of the Trump loyalty economy , a system where demonstrated willingness to use institutional power against Trump's enemies is the only qualification for advancement. Patel authored the Nunes Memo (2018), which gav..."
-last-updated: 2026-04-07
+central-thesis: Kash Patel is the logical endpoint of the Trump loyalty economy , a system where demonstrated willingness to use institutional power against Trump's enemies is the only qualification for advancement. Patel authored the Nunes Memo (2018), which gav...
+last-updated: 2026-04-07T00:00:00.000Z
 source-tier: 1
 parent: null
-party: "Republican"
-chamber: "Cabinet"
-top-donors:
-  - "Save America PAC"
-  - "MAGA Inc"
+party: Republican
+chamber: Cabinet
+top-donors: "[[Save America PAC]], [[MAGA Inc]]"
 source-types:
   - Congress
   - FEC
 corroboration-count: 2
 known-gaps:
-  - "No voting record data"
-  - "No mapped relationships"
+  - No voting record data
+  - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]] · [[_Steve Bannon Master Profile|Steve Bannon]] · [[_Pete Hegseth Master Profile]]"
 ---
 

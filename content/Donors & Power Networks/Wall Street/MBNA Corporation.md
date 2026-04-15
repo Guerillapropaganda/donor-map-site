@@ -1,59 +1,56 @@
 ---
-title: "MBNA Corporation"
+title: MBNA Corporation
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-11T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Wall Street"
-entity-type: "Corporation"
-politicians-funded:
-  - "Joe Biden"
+sector: Wall Street
+entity-type: Corporation
+politicians-funded: "[[Joe Biden]]"
 issues:
-  - "Wall Street & Finance"
+  - Wall Street & Finance
 ein: 842588790
-annual-revenue: "$0"
-net-assets: "$344"
+annual-revenue: $0
+net-assets: $344
 tax-year: "2020"
-lei: "9SRTZ2L9ZJUILAT91D80"
-lei-jurisdiction: "US"
+lei: 9SRTZ2L9ZJUILAT91D80
+lei-jurisdiction: US
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run lda pipeline"
+reenrich-reason: run lda pipeline
 sec-filings: 5981
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "11-K"
-  - "13F-HR"
-  - "15-15D"
+  - 10-K
+  - 10-K/A
+  - 11-K
+  - 13F-HR
+  - 15-15D
   - "4"
-  - "8-A12B"
-  - "8-K"
-  - "EX-10.(MM)"
-  - "EX-10.(NN)"
-  - "EX-13"
-  - "EX-23"
-  - "EX-23.(E)"
-  - "EX-23.C"
-  - "EX-32"
-  - "EX-32.1"
-  - "EX-32.2"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "S-8"
-  - "S-8 POS"
-  - "SC 13D/A"
-  - "SC 13G"
-  - "SC 13G/A"
+  - 8-A12B
+  - 8-K
+  - EX-10.(MM)
+  - EX-10.(NN)
+  - EX-13
+  - EX-23
+  - EX-23.(E)
+  - EX-23.C
+  - EX-32
+  - EX-32.1
+  - EX-32.2
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - S-8
+  - S-8 POS
+  - SC 13D/A
+  - SC 13G
+  - SC 13G/A
 related: "[[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[_Joe Biden Master Profile|Joe Biden]] · [[Goldman Sachs]] · [[Financial Services Donors]]"
 cross-vault-triangulation-count: 3
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 occ-enforcement-actions: 4
 occ-active-actions: 4
 occ-charter-numbers:
@@ -205,3 +202,39 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 - ~~[Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:occ-enforcement end -->
+
+<!-- auto:occ-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Legal name (OCC) | Mbna America Bank, N.A. |
+| Charter number(s) | 22381 |
+| Total OCC enforcement actions | 4 |
+| **Active actions** | **4** |
+| Most recent action | 07/28/2006 |
+| Earliest action | 04/07/2000 |
+
+**Action types:**
+
+- Prohibition/Removal Orders: 3
+- C&D or PC&D Requiring Restitution: 1
+
+**Still-active enforcement actions:**
+
+- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
+- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
+
+**Recent enforcement history:**
+
+- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
+- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
+- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
+
+- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
+
+<!-- auto:occ-enforcement pending-merge end -->
