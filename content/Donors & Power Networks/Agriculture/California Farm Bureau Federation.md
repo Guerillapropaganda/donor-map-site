@@ -83,7 +83,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: "Q126731054"
-total-political-spend: "$891,442"
+total-political-spend: "$892,442"
 lobbying-spend: 10784974
 lobbying-filings: 122
 ---
@@ -450,8 +450,8 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 | Metric | Value |
 |--------|-------|
-| Total Political Spend | $891,442 |
-| Contributions | 243 |
+| Total Political Spend | $892,442 |
+| Contributions | 244 |
 
 **Top recipients:**
 

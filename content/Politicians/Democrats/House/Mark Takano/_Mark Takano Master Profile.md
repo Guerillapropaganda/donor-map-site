@@ -210,7 +210,7 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 **Sources**
 
-- [Congress.gov: Mark Takano](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Mark Takano](https://www.congress.gov/member/s001193) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
 

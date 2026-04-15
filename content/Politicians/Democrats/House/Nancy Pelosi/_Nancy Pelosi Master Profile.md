@@ -404,6 +404,6 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 
 **Sources**
 
-- [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/s001193) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

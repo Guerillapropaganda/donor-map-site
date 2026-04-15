@@ -318,7 +318,7 @@ party:: Democrat
 
 **Sources**
 
-- [Congress.gov: Joseph Morelle](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Joseph Morelle](https://www.congress.gov/member/s001193) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
 

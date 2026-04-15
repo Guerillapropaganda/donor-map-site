@@ -276,7 +276,7 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 **Sources**
 
-- [Congress.gov: Maxine Waters](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Maxine Waters](https://www.congress.gov/member/s001193) (Tier 1)
 - [GovTrack: Maxine Waters](https://www.govtrack.us/congress/members/400422) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

@@ -478,7 +478,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 **Sources**
 
-- [Congress.gov: Cori Bush](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Cori Bush](https://www.congress.gov/member/s001193) (Tier 1)
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

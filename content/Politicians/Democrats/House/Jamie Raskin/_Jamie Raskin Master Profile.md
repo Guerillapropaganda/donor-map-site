@@ -289,7 +289,7 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 **Sources**
 
-- [Congress.gov: Jamie Raskin](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Jamie Raskin](https://www.congress.gov/member/s001193) (Tier 1)
 - [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

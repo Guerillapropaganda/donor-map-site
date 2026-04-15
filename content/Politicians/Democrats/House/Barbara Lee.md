@@ -383,7 +383,7 @@ _No committee data found._
 
 **Sources**
 
-- [Congress.gov: Barbara Lee](https://www.congress.gov/member/e000179) (Tier 1)
+- [Congress.gov: Barbara Lee](https://www.congress.gov/member/s001193) (Tier 1)
 - [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
