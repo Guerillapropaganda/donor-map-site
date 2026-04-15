@@ -43,8 +43,8 @@ That becomes Phase 6's initial backlog. Every item gets triaged: fix / explicitl
 ## Deliverables
 
 ### Deferred-items closeout
-- [ ] `scripts/phase-6-deferred-items-collector.cjs` + initial run
-- [ ] `content/Phases/phase-6/deferred-items.md` populated
+- [x] `scripts/phase-6-deferred-items-collector.cjs` + initial run <!-- auto-verified 2026-04-15 -->
+- [x] `content/Phases/phase-6/deferred-items.md` populated <!-- auto-verified 2026-04-15 -->
 - [ ] Every item triaged: fix / defer-with-ADR / accept-as-permanent
 - [ ] Fixes shipped, deferrals logged
 
@@ -59,21 +59,21 @@ That becomes Phase 6's initial backlog. Every item gets triaged: fix / explicitl
 ### Regression coverage
 - [ ] Test suite for source registry (dedupe, URL normalization, schema validation)
 - [ ] Test suite for fingerprint classifier (live/dead/bot-block/paywall/orphan/redirected)
-- [ ] Test suite for query engine (sample queries with expected counts)
+- [x] Test suite for query engine (sample queries with expected counts) <!-- auto-verified 2026-04-15 -->
 - [ ] Test suite for policy page template (snapshot tests)
 - [ ] Test suite for pre-commit sentinels (banned words, verified regression, bioguide dupes)
 - [ ] CI integration (tests run on every PR)
 
 ### Data integrity audits
-- [ ] `data/relationships.jsonl` — schema + dedupe + orphan endpoints
-- [ ] `data/sources.jsonl` — schema + URL dedupe + staleness check
-- [ ] `data/entity-class-tags.jsonl` — vocabulary compliance
-- [ ] `data/events.jsonl` — `policy_id` + `obstruction_type` validation
-- [ ] `data/policies.jsonl` — `related_events[]` + prose scan
+- [x] `data/relationships.jsonl` — schema + dedupe + orphan endpoints <!-- auto-verified 2026-04-15 -->
+- [x] `data/sources.jsonl` — schema + URL dedupe + staleness check <!-- auto-verified 2026-04-15 -->
+- [x] `data/entity-class-tags.jsonl` — vocabulary compliance <!-- auto-verified 2026-04-15 -->
+- [x] `data/events.jsonl` — `policy_id` + `obstruction_type` validation <!-- auto-verified 2026-04-15 -->
+- [x] `data/policies.jsonl` — `related_events[]` + prose scan <!-- auto-verified 2026-04-15 -->
 
 ### Performance audit
 - [ ] Quartz build time benchmark
-- [ ] `/api/query` p50/p95 measurement
+- [x] `/api/query` p50/p95 measurement <!-- auto-verified 2026-04-15 -->
 - [ ] Policy page cold-cache load time
 - [ ] Profile data panel render time
 - [ ] Top 3 slow paths optimized or documented
@@ -98,8 +98,8 @@ That becomes Phase 6's initial backlog. Every item gets triaged: fix / explicitl
 - [ ] Pipeline Guide.md cross-references resolved
 - [ ] Every ADR's closes/opens lists resolved or explicitly deferred
 - [ ] CLAUDE.md active-rules index updated
-- [ ] Phase 6 retrospective
-- [ ] Final ADR closing out ADR-0003 as "query engine build complete"
+- [x] Phase 6 retrospective <!-- auto-verified 2026-04-15 -->
+- [x] Final ADR closing out ADR-0003 as "query engine build complete" <!-- auto-verified 2026-04-15 -->
 
 ## Exit criteria
 

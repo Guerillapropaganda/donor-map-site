@@ -115,6 +115,7 @@ export default function BugsPage() {
   const [categoryFilter, setCategoryFilter] = useState<string>("all")
   const [severityFilter, setSeverityFilter] = useState<string>("all")
   const [phaseFilter, setPhaseFilter] = useState<string>("all")
+  const [kindFilter, setKindFilter] = useState<string>("unchecked-exit-criterion")
   const [search, setSearch] = useState<string>("")
 
   const [expandedBugs, setExpandedBugs] = useState<Set<string>>(new Set())
@@ -154,10 +155,11 @@ export default function BugsPage() {
       if (categoryFilter !== "all" && e.category !== categoryFilter) return false
       if (severityFilter !== "all" && e.severity !== severityFilter) return false
       if (phaseFilter !== "all" && e.phase !== phaseFilter) return false
+      if (kindFilter !== "all" && e.kind !== kindFilter) return false
       if (needle && !e.text.toLowerCase().includes(needle) && !e.source_ref.toLowerCase().includes(needle)) return false
       return true
     })
-  }, [manifest, categoryFilter, severityFilter, phaseFilter, search])
+  }, [manifest, categoryFilter, severityFilter, phaseFilter, kindFilter, search])
 
   // Unique filter values from the data
   const { categories, phases } = useMemo(() => {
@@ -473,15 +475,28 @@ export default function BugsPage() {
               </option>
             ))}
           </select>
+          <select
+            value={kindFilter}
+            onChange={(e) => setKindFilter(e.target.value)}
+            className="bg-neutral-900 border border-neutral-700 text-neutral-200 px-2 py-1.5 text-xs rounded font-mono"
+            title="Filter by item kind: unchecked-exit-criterion are real TODOs; markers and in-section are historical annotations"
+          >
+            <option value="unchecked-exit-criterion">actionable only</option>
+            <option value="all">all kinds</option>
+            <option value="marker">marker</option>
+            <option value="in-section">in-section</option>
+          </select>
           {(categoryFilter !== "all" ||
             severityFilter !== "all" ||
             phaseFilter !== "all" ||
+            kindFilter !== "unchecked-exit-criterion" ||
             search) && (
             <button
               onClick={() => {
                 setCategoryFilter("all")
                 setSeverityFilter("all")
                 setPhaseFilter("all")
+                setKindFilter("unchecked-exit-criterion")
                 setSearch("")
               }}
               className="px-2 py-1.5 text-xs text-neutral-400 hover:text-white font-mono"
