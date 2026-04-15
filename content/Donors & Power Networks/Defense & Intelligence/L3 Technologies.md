@@ -2,7 +2,7 @@
 title: "L3 Technologies"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Defense & Intelligence"
@@ -308,7 +308,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -357,10 +357,10 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 |--------|--------|
 | Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.6B |
 | Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing (334220) | $1.1B |
-| Other Communications Equipment Manufacturing (334290) | $633.6M |
+| Other Communications Equipment Manufacturing (334290) | $634.3M |
 | Commercial and Service Industry Machinery Manufacturing (333310) | $531.7M |
 | Engineering Services (541330) | $424.1M |
-| Optical Instrument and Lens Manufacturing (333314) | $351.5M |
+| Optical Instrument and Lens Manufacturing (333314) | $351.4M |
 | Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $328.4M |
 | Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $220.1M |
 

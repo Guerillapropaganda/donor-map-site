@@ -25,7 +25,7 @@ top-donors:
 total-received: "$1,175,903,792"
 fec-candidate-id: "P00009423"
 opposes: "[[_Donald Trump Master Profile]]"
-related: "[[Nancy Pelosi Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[California Labor Federation]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]]"
+related: "[[Nancy Pelosi Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[California Labor Federation]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Crypto Industry Bloc]] · [[Koch Network - Charles Koch]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in One Cycle]]"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
@@ -33,7 +33,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Lawrence Summers]]"
+donors: "[[Lawrence Summers]] · [[Google - Alphabet]]"
 ---
 
 <!-- auto:data-panel start -->

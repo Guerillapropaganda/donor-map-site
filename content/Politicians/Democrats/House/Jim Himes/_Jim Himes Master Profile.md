@@ -3,7 +3,7 @@ title: "Jim Himes"
 type: politician
 content-readiness: ready
 central-thesis: "Jim Himes is the Goldman Sachs pipeline made flesh. He moved from the trading floor to Congress, represented the hedge fund corridor, sat on the committee that regulates his former industry, and consistently voted to weaken the regulations his par..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -12,11 +12,21 @@ state: "Connecticut"
 state-abbr: "CT"
 district: "4"
 committees:
-  - "Intelligence"
+  - "House Committee on Financial Services"
+  - "House Permanent Select Committee on Intelligence"
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Wall Street & Finance"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Energy"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
 top-donors:
   - "Goldman Sachs"
 total-received: "$803,939"
@@ -26,13 +36,14 @@ bills-sponsored: 3
 bills-cosponsored: 157
 website: "https://himes.house.gov"
 phone: "202-225-5541"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline"
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bioguide-id: "H001047"
 ---
 
 <!-- auto:data-panel start -->
@@ -304,3 +315,42 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 
 - {{src:src_006093}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Financial Services
+- House Permanent Select Committee on Intelligence
+
+- [Source: Congress.gov](https://www.congress.gov/member/F000485) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Connecticut |
+| Chamber | House of Representatives |
+| Bills Sponsored | 110 |
+| Bills Cosponsored | 2527 |
+
+**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Economics and Public Finance, Energy, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7792 | Property Improvement and Manufactured Housing Loan Modernization Act of 2026 | Referred to the House Committee on Financial Services. |
+| 3542 | CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense … | Referred to the House Committee on Financial Services. |
+| 3395 | Middle Market IPO Cost Act | Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
+| 10026 | Multi-State Worker Tax Fairness Act of 2024 | Referred to the House Committee on the Judiciary. |
+| 6405 | Lori Jackson-Nicolette Elias Domestic Violence Survivor Protection Act | Referred to the House Committee on the Judiciary. |
+| 5557 | Combatting Foreign Surveillance Spyware Sanctions Act | Reported (Amended) by the Committee on Financial Services. H. Rept. 118-802, Part I. |
+| 5522 | Combatting Foreign Surveillance Spyware Sanctions Act | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5440 | Protecting Americans from Foreign Commercial Spyware Act | Referred to the House Committee on Foreign Affairs. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/H001047) (Tier 1)
+<!-- auto:congress-legislation end -->

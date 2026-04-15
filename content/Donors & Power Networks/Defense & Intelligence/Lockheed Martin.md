@@ -28,7 +28,7 @@ subawards-received: 50
 subawards-received-amount: 2946802998
 top-federal-agency: "National Aeronautics and Space Administration"
 top-naics-code: "561990"
-related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Merck]] · [[Novo Nordisk]] · [[Moderna]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+related: "[[Palantir Technologies]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Northrop Grumman]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[South Carolina 2026 Senate Race]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The Secretary of State and Sugar-Defense-Israel Donor Triangle]] · [[The China Hawk and National Security State]] · [[The National Security Hawk and Arkansas Defense]] · [[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Moderate Brand as Donor Strategy]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[Lindsey Graham Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[_Kay Granger Master Profile]] · [[_Ken Calvert Master Profile]] · [[_Mike Rogers Master Profile]] · [[Americans for Prosperity]] · [[Donor Registry - Master Index]] · [[Defense Industry Bloc]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[Koch Industries]] · [[Eli Lilly]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Merck]] · [[Novo Nordisk]] · [[Moderna]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]]"
 ftc-enforcement-actions: 2
 ftc-hsr-notices: 23
 last-enriched: "2026-04-10"
@@ -493,7 +493,7 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -532,8 +532,8 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 | Agency | Amount |
 |--------|--------|
 | National Aeronautics and Space Administration | $4.0B |
-| Department of Homeland Security | $670.2M |
-| Department of Commerce | $488.9M |
+| Department of Homeland Security | $673.3M |
+| Department of Commerce | $489.0M |
 | Department of Transportation | $170.9M |
 | General Services Administration | $130.2M |
 | Department of Justice | $34.1M |

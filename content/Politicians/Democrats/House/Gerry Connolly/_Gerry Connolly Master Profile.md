@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "C001078"
 content-readiness: ready
 central-thesis: "Gerry Connolly was the government contractor economy's congressman , funded by the industries that depend on federal spending, representing the district where those companies are headquartered, and using his Oversight Committee position to champio..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -26,6 +26,18 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-15"
+issues:
+  - "Agriculture and Food"
+  - "Animals"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Environmental Protection"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -198,3 +210,39 @@ Before Congress, Connolly worked at SRI International (a government contractor) 
 
 <!-- auto:voting-record pending-merge end -->
 
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001078) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | VA |
+| Chamber | House |
+| Bills Sponsored | 355 |
+| Bills Cosponsored | 4563 |
+
+**Policy areas:** Agriculture and Food, Animals, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Environmental Protection, Government Operations and Politics, Health, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 3490 | Gerald E. Connolly Esophageal Cancer Awareness Act of 2025 | Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 3317 | Honoring Civil Servants Killed in the Line of Duty Act | Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Foreign Affairs, Armed Services, Veterans' Affairs, Transportation and Infrastructure, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 403 | Expressing the sense of the House of Representatives that public servants should… | Referred to the House Committee on Oversight and Government Reform. |
+| — |  | On agreeing to the Connolly amendment (A015) Failed by recorded vote: 215 - 218 (Roll no. 437). |
+| 324 | Raising awareness of esophageal cancer by expressing support for the designation… | Referred to the House Committee on Energy and Commerce. |
+| 2622 | Russia-North Korea Cooperation Sanctions Act | Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Ways and Means, Financial Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 2416 | Taiwan International Solidarity Act | Received in the Senate and Read twice and referred to the Committee on Foreign Relations. |
+| 2417 | Strengthening Agency Management and Oversight of Software Assets Act | Referred to the House Committee on Oversight and Government Reform. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/C001078) (Tier 1)
+<!-- auto:congress-legislation end -->

@@ -19,13 +19,13 @@ issues:
   - "Agriculture and Food"
   - "Armed Forces and National Security"
   - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
   - "Crime and Law Enforcement"
-  - "Economics and Public Finance"
   - "Education"
   - "Energy"
   - "Environmental Protection"
-  - "Foreign Trade and International Finance"
   - "Health"
+  - "Housing and Community Development"
 top-donors:
   - "Boeing"
   - "Northrop Grumman"
@@ -271,6 +271,38 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~[Source: Congress.gov](https://www.congress.gov/member/S000510)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | WA |
+| Chamber | House |
+| Bills Sponsored | 232 |
+| Bills Cosponsored | 4981 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Education, Energy, Environmental Protection, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 6281 | CHARGE Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+| 5859 | Behavioral Health Crisis Care Centers Act of 2025 | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5807 | Empowering Individuals to Succeed Through Education and Workforce Training Act | Referred to the House Committee on Education and Workforce. |
+| 5806 | Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 5785 | Voluntary Grazing Permit Retirement Act of 2025 | Referred to the House Committee on Natural Resources. |
+| 5532 | To direct the Secretary of Education to establish a program to facilitate the tr… | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5531 | Career and Technical Education Access Act | Referred to the House Committee on Education and Workforce. |
+| 5492 | PAAF Act | Referred to the House Committee on the Judiciary. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
@@ -344,6 +376,18 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Armed Services
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

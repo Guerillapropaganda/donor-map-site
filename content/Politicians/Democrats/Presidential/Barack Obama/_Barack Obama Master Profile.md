@@ -70,8 +70,8 @@ proclamations: 1230
 last-enriched: '2026-04-08'
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[Organizing for Action]] · [[Democracy Alliance]] · [[Joe Biden Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
-donors: "[[Lawrence Summers]]"
+related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[Organizing for Action]] · [[Democracy Alliance]] · [[Joe Biden Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+donors: "[[Lawrence Summers]] · [[Google - Alphabet]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -429,6 +429,38 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - ~~[Source: Congress.gov](https://www.congress.gov/member/J000294)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 133 |
+| Bills Cosponsored | 1582 |
+
+**Policy areas:** Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 625 | Recognizing the 50th anniversary of the independence of the Republic of Cabo Ver… | Referred to the House Committee on Foreign Affairs. |
+| 13 | Reserved for the Minority Leader. | — |
+| 11 | Reserved for the Minority Leader. | — |
+| 19 | Reserved for the Minority Leader. | — |
+| 16 | Reserved for the Minority Leader. | — |
+| 1396 | Recognizing a half century of the independence of the Republic of Cabo Verde and… | Referred to the House Committee on Foreign Affairs. |
+| 19 | Reserved for the Minority Leader. | Introduced in House |
+| 18 | Reserved for the Minority Leader. | Introduced in House |
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
 | Metric | Value |
@@ -462,6 +494,16 @@ _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

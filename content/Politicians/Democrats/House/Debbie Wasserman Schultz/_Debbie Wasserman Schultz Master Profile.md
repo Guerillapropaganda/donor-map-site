@@ -1,7 +1,7 @@
 ---
 title: Debbie Wasserman Schultz
 type: politician
-bioguide-id: W000797
+bioguide-id: "W000797"
 content-readiness: ready
 central-thesis: >-
   Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat
@@ -17,7 +17,16 @@ state: Florida
 state-abbr: FL
 district: '25'
 issues:
-  - Israel & Foreign Policy
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Crime and Law Enforcement"
+  - "Economics and Public Finance"
+  - "Emergency Management"
+  - "Energy"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
@@ -264,3 +273,39 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000797) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | FL |
+| Chamber | House |
+| Bills Sponsored | 172 |
+| Bills Cosponsored | 4389 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Economics and Public Finance, Emergency Management, Energy, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7857 | No Escaping Justice Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7856 | Fair Housing for Survivors Act of 2026 | Referred to the House Committee on the Judiciary. |
+| 7564 | Jaime’s Law | Referred to the House Committee on the Judiciary. |
+| 69 | Recognizing the 15th Anniversary of the January 8, 2011, Tucson, Arizona, shooti… | Referred to the House Committee on Oversight and Government Reform. |
+| 904 | Recognizing November 30, 2025, as "Yom Haplitim" or "Jewish Refugee Day". | Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5506 | Courtney Wild Reinforcing Crime Victims’ Rights Act | Referred to the House Committee on the Judiciary. |
+| 4752 | Reducing Hereditary Cancer Act | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4751 | To amend the Virginia Graeme Baker Pool and Spa Safety Act to reauthorize certai… | Referred to the House Committee on Energy and Commerce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/W000797) (Tier 1)
+<!-- auto:congress-legislation end -->

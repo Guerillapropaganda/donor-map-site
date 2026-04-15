@@ -20,12 +20,12 @@ issues:
   - "Armed Forces and National Security"
   - "Arts, Culture, Religion"
   - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
   - "Congress"
   - "Crime and Law Enforcement"
   - "Education"
   - "Finance and Financial Sector"
   - "Government Operations and Politics"
-  - "Health"
 total-received: "$687,535"
 fec-candidate-id: "H8MA07032"
 govtrack-id: 412782
@@ -249,7 +249,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
-<!-- auto:govtrack pending-merge 2026-04-11 -->
+<!-- auto:govtrack pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -257,12 +257,12 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 |--------|-------|
 | Bills Sponsored | 136 |
 | Bills Cosponsored | 1,817 |
-| Total Votes Cast | 3,663 |
+| Total Votes Cast | 3,665 |
 
 **Recent bills sponsored:**
 
-- H.R. 8235: To require certain libraries to maintain a diverse collection of books, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8185: To create a database of eviction information, establish grant programs for eviction prevention and legal aid, and limit  — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8235: Books Save Lives Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8185: HELP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 8063: SPARK Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.Con.Res. 78: Expressing support for the recognition of March 10, 2026, as “Abortion Provider Appreciation Day”. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
 - H.R. 7804: BLS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
@@ -271,14 +271,14 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 | Date | Question | Vote | Result |
 |------|----------|------|--------|
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collisi… | Yea | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | Yea | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
 | 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
 | 2026-03-27 | On Motion to Adjourn | Nay | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
 | 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412782) (Tier 1)
 
@@ -381,6 +381,25 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Financial Services
+- House Committee on Oversight and Government Reform
+
+**Subcommittees:**
+
+- Digital Assets, Financial Technology, and Artificial Intelligence
+- Federal Law Enforcement
+- Housing and Insurance
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000617) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |
@@ -409,6 +428,38 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/P000617)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MA |
+| Chamber | House |
+| Bills Sponsored | 147 |
+| Bills Cosponsored | 1817 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, Labor and Employment, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 8235 | Books Save Lives Act | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 8185 | HELP Act of 2026 | Referred to the House Committee on Financial Services. |
+| 8063 | SPARK Act | Referred to the House Committee on Small Business. |
+| 78 | Expressing support for the recognition of March 10, 2026, as "Abortion Provider … | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7804 | BLS Act | Referred to the House Committee on Education and Workforce. |
+| 1088 | Recognizing and celebrating the significance of Black history museums and cultur… | Referred to the Committee on Natural Resources, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7583 | BE HEARD in the Workplace Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on the Judiciary, House Administration, Oversight and Government Reform, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7513 | GSIB Act of 2026 | Referred to the House Committee on Financial Services. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/P000617) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -34,8 +34,8 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]]"
-donors: "[[National Restaurant Association]]"
+related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Chip Roy Master Profile]]"
+donors: "[[National Restaurant Association]] · [[Patrick Soon-Shiong]]"
 ---
 
 <!-- auto:data-panel start -->

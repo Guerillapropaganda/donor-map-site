@@ -11,7 +11,7 @@ aliases:
   - "DEFENDARIZONA"
 known-gaps:
   - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
-opposes: "[[Kyrsten Sinema]]"
+opposes: "[[Kyrsten Sinema]] · [[Mark Kelly]]"
 ---
 
 ## Auto-Created Stub

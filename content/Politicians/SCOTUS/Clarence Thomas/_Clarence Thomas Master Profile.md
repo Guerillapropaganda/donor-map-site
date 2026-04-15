@@ -17,7 +17,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Leonard Leo]] · [[Harlan Crow]] · [[Koch Network - Charles Koch]] · [[_Samuel Alito Master Profile]]"
-donors: "[[Judicial Crisis Network]]"
+donors: "[[Judicial Crisis Network]] · [[Federalist Society]]"
 ---
 
 <!-- auto:data-panel start -->

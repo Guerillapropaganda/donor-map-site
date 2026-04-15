@@ -158,7 +158,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-11 -->
+<!-- auto:usaspending pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -179,7 +179,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 | $6.4M | Department of Defense | 8511246304!MTR GRADER |
 | $1.9M | Department of Defense | 8511345881!MOTOR GRADER |
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/62fbfb7a-aa79-01e2-9bd7-941bd1c0a434-C/latest) (Tier 1)
 
 <!-- auto:usaspending pending-merge end -->
 
@@ -282,7 +282,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (NEEDS REVIEW: Generic search results)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -24,8 +24,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 last-enriched: "2026-04-09"
-related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]] · [[National Progressive Donor Networks]]"
-donors: "[[National Progressive Donor Networks]]"
+related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]] · [[National Progressive Donor Networks]] · [[Democracy Alliance]]"
+donors: "[[National Progressive Donor Networks]] · [[Climate Philanthropy - The Green Billionaires]]"
 ---
 
 <!-- auto:data-panel start -->

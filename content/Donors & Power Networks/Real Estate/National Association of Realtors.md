@@ -57,7 +57,7 @@ regulatory-agencies:
   - Justice Department
   - Labor Department
   - National Labor Relations Board
-related: ">- · [[The Real Estate President and the Fair Housing Demolition]]"
+related: ">- · [[The Real Estate President and the Fair Housing Demolition]] · [[Housing - Donors and Backers]]"
 cross-vault-triangulation-count: 11
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •

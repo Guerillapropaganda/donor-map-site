@@ -94,7 +94,7 @@ nhtsa-complaints: 0
 nonprofit-status: "501(c)(6)"
 total-revenue: 1031754
 total-assets: 589361
-related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]]"
+related: "[[The Defense-China Hawk and the Military-Industrial Alignment]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[The Veterans Affairs Committee and Southern Illinois Defense]] · [[Colin Powell]] · [[Volodymyr Zelenskyy]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[Northrop Grumman]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[The Homeland Security Committee and Michigan Defense]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[_Kay Granger Master Profile|Kay Granger]] · [[Mark Kelly]] · [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[Tammy Duckworth]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Raytheon (RTX Corporation)]] · [[Leidos]] · [[L3Harris Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]]"
 wikidata-id: "Q66"
 wikipedia-url: "https://en.wikipedia.org/wiki/Boeing"
 wikipedia-extract: "The Boeing Company is an American multinational corporation that designs and manufactures airplanes, rotorcraft, rockets, satellites, and missiles worldwide."
@@ -105,7 +105,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 3
 ftc-hsr-notices: 16
-federal-awards-total: 21586241485
+federal-awards-total: 21646660464
 federal-contracts-count: 25
 federal-grants-count: 23
 ---
@@ -520,7 +520,7 @@ Fischer's dual committee position (Appropriations + Armed Services with Strategi
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -699,3 +699,38 @@ The Boeing Company is an American multinational corporation that designs and man
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+<!-- auto:usaspending pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| All-Time Federal Awards | $21.6B |
+| Contracts (recent 3yr) | 25 ($229.5B sampled) |
+| Grants (recent 3yr) | 23 ($121.0M sampled) |
+| Federal Agencies | 5 |
+
+**Top contracts:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $32.0B | Department of Defense | KC-X MODERNIZATION PROGRAM |
+| $22.4B | National Aeronautics and Space Administration | INTERNATIONAL SPACE STATION |
+| $18.8B | Department of Defense | 200112!000108!9700!ZD60 !BALLISTIC MISSILE DEFENSE ORG. !HQ000601C0001 !A!N!*!N! !20001222!20080930! |
+| $18.1B | Department of Defense | USN P-8A FRP II LONG LEAD MATERIAL |
+| $11.2B | Department of Defense | RSAF F-15 FLEET MODERNIZATION PROGRAM |
+
+**Top grants:**
+
+| Amount | Agency | Description |
+|--------|--------|-------------|
+| $45.9M | National Aeronautics and Space Administration | 1. P1.TPC.IMP: THERMOPLASTICS - INTEGRATED MASTER SCHEDULE & PLAN DEVELOPMENT  2. RESIN INFUSION - I |
+| $15.0M | Department of Defense | GRANT |
+| $10.8M | Department of Defense | NEXT GENERATION ROTORCRAFT TRANSMISSION |
+| $10.0M | National Aeronautics and Space Administration | SINGLE SOURCE: TRANSONIC TRUSS BRACED WING VISION VEHICLE TECHNOLOGY DEVELOPMENT (5 JULY 2023) |
+| $6.0M | Department of Defense | RESILIENT, VERSATILE SPACE PHOTOVOLTAIC FACTORY FOR CONTESTED SPACE ENVIRONMENTS AND AN EVOLVING MAR |
+
+- [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1)
+
+<!-- auto:usaspending pending-merge end -->

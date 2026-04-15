@@ -3,7 +3,7 @@ title: "Joseph Morelle"
 type: politician
 content-readiness: ready
 central-thesis: "Morelle is the institutional Democrat , a career legislator who spent nearly three decades in the Albany Assembly before moving to Congress, where he now oversees the mechanics of federal elections from the House Administration Committee. His dono..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -19,9 +19,9 @@ issues:
   - "Congress"
   - "Crime and Law Enforcement"
   - "Education"
-  - "Finance and Financial Sector"
   - "Government Operations and Politics"
   - "Health"
+  - "Immigration"
 top-donors:
   - "Labor Unions"
 total-received: "$1,130,491"
@@ -37,7 +37,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]]"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 committees:
   - "House Committee on Appropriations"
   - "House Committee on House Administration"
@@ -251,6 +251,27 @@ party:: Democrat
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Appropriations
+- House Committee on House Administration
+- Joint Committee of Congress on the Library
+- Joint Committee on Printing
+
+**Subcommittees:**
+
+- Commerce, Justice, Science, and Related Agencies
+- Defense
+- Modernization and Innovation
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |
@@ -279,6 +300,38 @@ party:: Democrat
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/M001206)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 131 |
+| Bills Cosponsored | 1816 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1098 | Expressing support for the designation of March 3, 2026, as "National Triple-Neg… | Referred to the House Committee on Oversight and Government Reform. |
+| 7404 | Fair Repair Act | Referred to the House Committee on Energy and Commerce. |
+| 982 | Providing for consideration of the bill (H.R. 6039) to advance commonsense prior… | Motion to Discharge Committee filed by Mr. Morelle. Petition No: 119-14. (<a href="https://clerk.house.gov/DischargePetition/2026012114">Discharge petition</a> text with signatures.) |
+| 6694 | To designate the facility of the United States Postal Service located at 130 Nor… | Referred to the House Committee on Oversight and Government Reform. |
+| 6471 | Justice in Sentencing for Survivors Act of 2025 | Referred to the House Committee on the Judiciary. |
+| 6307 | Hunger Clearinghouse Enhancement Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 5918 | Protect Law Enforcement Task Forces Act | Referred to the House Committee on the Judiciary. |
+| 726 | Supporting the recognition of September 16, 2025, as "National Voter Registratio… | Referred to the House Committee on House Administration. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

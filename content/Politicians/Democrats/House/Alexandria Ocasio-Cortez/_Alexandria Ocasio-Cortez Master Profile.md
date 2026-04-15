@@ -29,7 +29,7 @@ top-donors:
 govtrack-id: 412804
 bioguide-id: "O000172"
 bills-sponsored: 59
-bills-cosponsored: 1608
+bills-cosponsored: 1609
 website: "https://ocasio-cortez.house.gov"
 phone: "202-225-3965"
 total-received: "$23,658,045"
@@ -321,7 +321,7 @@ _No committee data found for the 119th Congress._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-11 -->
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -335,7 +335,7 @@ _No committee data found for the 119th Congress._
 - Health
 - Oversight and Investigations
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/O000172) (Tier 1)
 
 <!-- auto:committee-assignments pending-merge end -->
 
@@ -358,15 +358,15 @@ _No committee data found for the 119th Congress._
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
 
-<!-- auto:govtrack pending-merge 2026-04-11 -->
+<!-- auto:govtrack pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
 | Bills Sponsored | 59 |
-| Bills Cosponsored | 1,608 |
-| Total Votes Cast | 3,663 |
+| Bills Cosponsored | 1,609 |
+| Total Votes Cast | 3,665 |
 
 **Recent bills sponsored:**
 
@@ -380,14 +380,14 @@ _No committee data found for the 119th Congress._
 
 | Date | Question | Vote | Result |
 |------|----------|------|--------|
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collisi… | Yea | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | Yea | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
 | 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
 | 2026-03-27 | On Motion to Adjourn | Nay | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
 | 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1)
 
@@ -567,6 +567,38 @@ _No committee data found for the 119th Congress._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/O000172)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | NY |
+| Chamber | House |
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 1609 |
+
+**Policy areas:** Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Energy, Environmental Protection, Families, Finance and Financial Sector, Foreign Trade and International Finance, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7917 | Fair Wages for Home Care Workers Act | Referred to the House Committee on Education and Workforce. |
+| 5333 | 9/11 Immigrant Worker Freedom Act | Referred to the House Committee on the Judiciary. |
+| 3562 | DEFIANCE Act of 2025 | Referred to the House Committee on the Judiciary. |
+| 3302 | Healthy Start Reauthorization Act of 2025 | Placed on the Union Calendar, Calendar No. 284. |
+| 1944 | 10 Percent Credit Card Interest Rate Cap Act | Referred to the House Committee on Financial Services. |
+| 398 | Geothermal Cost-Recovery Authority Act of 2025 | Ordered to be Reported by Unanimous Consent. |
+| 360 | Oyster Reef Recovery Act of 2025 | Referred to the House Committee on Natural Resources. |
+| 9705 | Oyster Reef Recovery Act | Referred to the House Committee on Natural Resources. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/O000172) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

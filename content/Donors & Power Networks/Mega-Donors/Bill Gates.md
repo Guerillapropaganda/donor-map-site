@@ -2,7 +2,7 @@
 title: "Bill Gates"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -16,7 +16,7 @@ politicians-funded:
   - "Martin Heinrich"
   - "Debbie Stabenow"
   - "Rosa DeLauro"
-related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]]"
+related: "[[Economic Policy Institute]] · [[Rosa DeLauro]] · [[Microsoft]] · [[Walton Family Foundation]] · [[Eli Broad Foundation]] · [[DeVos Family]] · [[Martin Heinrich]]"
 last-enriched: "2026-04-10"
 court-cases: 1299
 court-jurisdictions:

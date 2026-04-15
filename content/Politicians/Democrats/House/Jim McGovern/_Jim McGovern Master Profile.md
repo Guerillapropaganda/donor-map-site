@@ -3,7 +3,7 @@ title: "Jim McGovern"
 type: politician
 content-readiness: ready
 central-thesis: "Jim McGovern is the rare committee leader whose donor profile is genuinely modest and whose policy work centers on issues with no major corporate lobby: hunger, human rights, and procedural reform. His top donors are labor unions, lawyers, and hea..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -38,6 +38,22 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+last-enriched: "2026-04-15"
+committees:
+  - "House Committee on Agriculture"
+  - "House Committee on Rules"
+bioguide-id: "M000312"
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Commerce"
+  - "Congress"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "Housing and Community Development"
+  - "Immigration"
 ---
 
 <!-- auto:data-panel start -->
@@ -191,6 +207,33 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 - [Wikipedia: Jim McGovern](https://en.wikipedia.org/wiki/Jim_McGovern_%28American_politician%29) (Tier 3) (VERIFIED)
 
 ### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democratic |
+| State | Massachusetts |
+| Chamber | House of Representatives |
+| Bills Sponsored | 434 |
+| Bills Cosponsored | 11803 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Foreign Trade and International Finance, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 1068 | Providing for consideration of the joint resolution (H.J. Res. 143) enabling Con… | Referred to the House Committee on Rules. |
+| 7521 | United States-Cuba Trade Act of 2026 | Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, Energy and Commerce, the Judiciary, Agriculture, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7546 | To amend title XVIII of the Social Security Act to provide coverage for wigs as … | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 143 | Resolution Act. | Referred to the Subcommittee on Health. |
+| 999 | Providing for the consideration of the resolution (H. Res. 997) enabling the Hou… | Referred to the House Committee on Rules. |
+| 997 | Enabling the House of Representatives to be responsive to its membership. | Referred to the Committee on House Administration, and in addition to the Committees on Rules, and Ethics, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 986 | Providing for consideration of the bill (H.R. 7007) to govern on behalf of the A… | Referred to the House Committee on Rules. |
+| 7007 | Governing for the People Act | Referred to the Subcommittee on Health. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/M000312) (Tier 1)
+<!-- auto:congress-legislation end -->
 
 ### Legislative Activity (GovTrack)
 <!-- auto:govtrack start -->
@@ -299,3 +342,18 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Jim%20McGovern) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Agriculture
+- House Committee on Rules
+
+**Subcommittees:**
+
+- Nutrition and Foreign Agriculture
+- Rules and Organization of the House
+
+- [Source: Congress.gov](https://www.congress.gov/member/F000485) (Tier 1)
+<!-- auto:committee-assignments end -->

@@ -22,7 +22,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]]"
+related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]] · [[Timothy Mellon Funds Trump and RFK Jr Simultaneously]]"
 ---
 
 <!-- auto:data-panel start -->

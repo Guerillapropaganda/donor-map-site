@@ -27,7 +27,7 @@ subawards-received: 50
 subawards-received-amount: 5728077424
 top-federal-agency: "General Services Administration"
 top-naics-code: "541512"
-related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Jack Reed Master Profile|Jack Reed]] · [[_Roger Wicker Master Profile|Roger Wicker]] · [[Leidos]] · [[BAE Systems]] · [[Anduril Industries]] · [[The Defense Spending Bipartisan Consensus]] · [[Veterans and Military - Donors and Backers]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]]"
+related: "[[Raytheon (RTX Corporation)]] · [[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[Raytheon Technologies]] · [[Booz Allen Hamilton]] · [[Boeing Defense]] · [[Palantir Technologies Political Operation]] · [[The Armed Services Committee and Illinois Defense Economy]] · [[The Homeland Security Committee and Michigan Defense]] · [[The National Security and Foreign Policy Realist]] · [[New Hampshire 2026 Senate Race]] · [[Tammy Duckworth]] · [[L3Harris Technologies]] · [[Cornerstone Government Affairs]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Jack Reed Master Profile|Jack Reed]] · [[_Roger Wicker Master Profile|Roger Wicker]] · [[Leidos]] · [[BAE Systems]] · [[Anduril Industries]] · [[The Defense Spending Bipartisan Consensus]] · [[Veterans and Military - Donors and Backers]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]]"
 federal-register-mentions: 386
 regulatory-agencies:
   - "Antitrust Division"
@@ -323,7 +323,7 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-11 -->
+<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

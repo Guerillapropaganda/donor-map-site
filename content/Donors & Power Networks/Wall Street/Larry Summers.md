@@ -2,7 +2,7 @@
 title: "Lawrence Summers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Wall Street"
@@ -28,7 +28,7 @@ politicians-funded:
   - "Shontel Brown"
   - "Kamala Harris"
   - "Barack Obama"
-related: "[[Sherrod Brown]]"
+related: "[[Sherrod Brown]] · [[Kamala Harris]]"
 ---
 
 

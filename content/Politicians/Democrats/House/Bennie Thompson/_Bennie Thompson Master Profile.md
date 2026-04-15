@@ -12,7 +12,7 @@ state: "Mississippi"
 state-abbr: "MS"
 district: "6"
 committees:
-  - "Homeland Security"
+  - "House Committee on Homeland Security"
 leadership-roles:
   - "Ranking Member"
 total-received: "$608,726"
@@ -31,6 +31,17 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profi
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+issues:
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Crime and Law Enforcement"
+  - "Emergency Management"
+  - "Energy"
+  - "Environmental Protection"
+  - "Finance and Financial Sector"
 ---
 
 <!-- auto:data-panel start -->
@@ -358,3 +369,41 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Homeland Security
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000193) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MS |
+| Chamber | House |
+| Bills Sponsored | 255 |
+| Bills Cosponsored | 5514 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Emergency Management, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Public Lands and Natural Resources, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7382 | Nonprofit Security Grant Program Transparency Act | Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 1035 | Condemning Federal workforce reductions that undermine preparedness, response, a… | Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7124 | Realigning Mobile Phone Biometrics for American Privacy Protection Act | Referred to the House Committee on Homeland Security. |
+| 6548 | DHS Suicide Prevention and Resiliency for Law Enforcement Act | Referred to the House Committee on Homeland Security. |
+| 698 | Recognizing the victims, survivors, and thousands of other Americans impacted by… | Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4971 | Terrorist Watchlist Data Accuracy and Transparency Act | Referred to the House Committee on Homeland Security. |
+| 4579 | FEMA Cybersecurity Improvement Act | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
+| 4467 | Vicksburg National Military Park Boundary Modification Act | Received in the Senate. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/T000193) (Tier 1)
+<!-- auto:congress-legislation end -->

@@ -18,8 +18,8 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: ">- · [[Lawrence Summers]]"
-related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]]"
+donors: ">- · [[Lawrence Summers]] · [[Ken Griffin]]"
+related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]]"
 editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block
@@ -61,18 +61,18 @@ total-spent: '$4,456,809'
 cash-on-hand: '9899641.92'
 fec-cycle: 2026
 last-enriched: "2026-04-15"
-bioguide-id: B001313
+bioguide-id: "B001313"
 issues:
-  - Agriculture and Food
-  - Armed Forces and National Security
-  - 'Arts, Culture, Religion'
-  - 'Civil Rights and Liberties, Minority Issues'
-  - Congress
-  - Crime and Law Enforcement
-  - Economics and Public Finance
-  - Education
-  - Finance and Financial Sector
-  - Government Operations and Politics
+  - "Agriculture and Food"
+  - "Armed Forces and National Security"
+  - "Arts, Culture, Religion"
+  - "Civil Rights and Liberties, Minority Issues"
+  - "Congress"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Finance and Financial Sector"
+  - "Government Operations and Politics"
+  - "Health"
 total-received: "$14,356,451"
 wikidata-id: Q381880
 wikipedia-url: 'https://en.wikipedia.org/wiki/Sherrod_Brown'
@@ -334,6 +334,16 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
+
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
 | Metric | Value |
@@ -362,6 +372,38 @@ _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/B001313)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | OH |
+| Chamber | Senate |
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 960 |
+
+**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Sports and Recreation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7975 | Feeding Families Not Fear Act of 2026 | Referred to the Committee on the Judiciary, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 7685 | Healthy Hair Act | Referred to the House Committee on Energy and Commerce. |
+| 1004 | Honoring Reverend Dr. Martin Luther King, Jr., by celebrating diversity, promoti… | Referred to the House Committee on the Judiciary. |
+| 6429 | Expanding Cybersecurity Workforce Act of 2025 | Referred to the House Committee on Homeland Security. |
+| 5457 | Strengthening Agency Management and Oversight of Software Assets Act | Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
+| 5255 | Thriving Community Gardens Act | Referred to the House Committee on Education and Workforce. |
+| 4635 | To designate the facility of the United States Postal Service located at 890 Eas… | Motion to reconsider laid on the table Agreed to without objection. |
+| 4392 | Uterine Fibroid Intervention and Gynecological Health Treatment Act of 2025 | Referred to the House Committee on Energy and Commerce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

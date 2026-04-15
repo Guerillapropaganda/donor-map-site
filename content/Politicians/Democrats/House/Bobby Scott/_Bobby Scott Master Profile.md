@@ -17,7 +17,6 @@ leadership-roles:
   - "Ranking Member"
 issues:
   - "Agriculture and Food"
-  - "Arts, Culture, Religion"
   - "Civil Rights and Liberties, Minority Issues"
   - "Congress"
   - "Economics and Public Finance"
@@ -26,6 +25,7 @@ issues:
   - "Families"
   - "Health"
   - "Labor and Employment"
+  - "Public Lands and Natural Resources"
 top-donors:
   - "SEIU"
 govtrack-id: 400364
@@ -391,6 +391,38 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/S000185)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | VA |
+| Chamber | House |
+| Bills Sponsored | 331 |
+| Bills Cosponsored | 4486 |
+
+**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Environmental Protection, Families, Health, Labor and Employment, Public Lands and Natural Resources, Sports and Recreation, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7340 | Rebuild America’s Schools Act of 2026 | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 6893 | Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and S… | Subcommittee Hearings Held |
+| 6597 | LET’S Protect Workers Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5740 | WIC Benefits Protection Act | Referred to the House Committee on Education and Workforce. |
+| 4862 | LOAN Act | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4771 | Transformation to Competitive Integrated Employment Act | Referred to the House Committee on Education and Workforce. |
+| 4418 | Child Care for Working Families Act | Referred to the House Committee on Education and Workforce. |
+| 3997 | Protecting Children Act | Referred to the House Committee on Education and Workforce. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

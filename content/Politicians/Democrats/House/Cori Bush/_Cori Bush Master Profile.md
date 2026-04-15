@@ -253,7 +253,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-11 -->
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -281,7 +281,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 | 4901 | Reproductive Health Care Accessibility Act | Referred to the Subcommittee on Health. |
 | 4699 | The People’s Response Act | Referred to the Subcommittee on Health. |
 
-- ~~[Source: Congress.gov](https://www.congress.gov/member/B001224)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
 
 <!-- auto:congress-legislation pending-merge end -->
 
@@ -489,6 +489,16 @@ _No committee data found._
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+_No committee data found._
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

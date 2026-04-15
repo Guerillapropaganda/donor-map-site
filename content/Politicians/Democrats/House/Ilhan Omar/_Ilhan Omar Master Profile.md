@@ -388,6 +388,38 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - ~~[Source: Congress.gov](https://www.congress.gov/member/O000173)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
+<!-- auto:congress-legislation pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | MN |
+| Chamber | House |
+| Bills Sponsored | 122 |
+| Bills Cosponsored | 2177 |
+
+**Policy areas:** Agriculture and Food, Animals, Commerce, Crime and Law Enforcement, Energy, Environmental Protection, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Native Americans, Taxation
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 5720 | Federal Worker Childcare Protection Act of 2025 | Referred to the House Committee on Oversight and Government Reform. |
+| 5655 | No Shame at School Act of 2025 | Referred to the House Committee on Education and Workforce. |
+| 51 | To direct the removal of United States Armed Forces from hostilities that have n… | Referred to the House Committee on Foreign Affairs. |
+| 669 | Honoring the victims and survivors of the mass shooting at Annunciation Catholic… | Referred to the House Committee on Oversight and Government Reform. |
+| 606 | Supporting the goals and ideals of World Drowning Prevention Day. | Referred to the House Committee on Foreign Affairs. |
+| 4714 | End Polluter Welfare Act of 2025 | Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Science, Space, and Technology, Energy and Commerce, Agriculture, Appropriations, Financial Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4241 | Syria Sanctions Relief Act | Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 451 | Expressing condemnation for police brutality wherever in the world it occurs. | Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/O000173) (Tier 1)
+
+<!-- auto:congress-legislation pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 **Committees:**
@@ -402,6 +434,24 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+<!-- auto:committee-assignments pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Committees:**
+
+- House Committee on Education and Workforce
+- House Committee on the Budget
+
+**Subcommittees:**
+
+- Higher Education and Workforce Development
+- Workforce Protections
+
+- [Source: Congress.gov](https://www.congress.gov/member/O000173) (Tier 1)
+
+<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

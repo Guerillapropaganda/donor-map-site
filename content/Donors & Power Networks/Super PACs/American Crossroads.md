@@ -11,7 +11,7 @@ aliases:
   - "AMERICAN CROSSROADS"
 known-gaps:
   - "Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis."
-opposes: "[[Raphael Warnock]]"
+opposes: "[[Raphael Warnock]] · [[John Fetterman]]"
 ---
 
 ## Auto-Created Stub

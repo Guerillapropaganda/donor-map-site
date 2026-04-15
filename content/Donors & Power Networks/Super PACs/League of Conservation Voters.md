@@ -43,7 +43,7 @@ regulatory-agencies:
   - Interior Department
   - National Park Service
   - Presidio Trust
-related: ">- · [[InfluenceMap]]"
+related: ">- · [[InfluenceMap]] · [[Sheldon Whitehouse]]"
 sec-filings: 246
 sec-form-types:
   - 10-K/A

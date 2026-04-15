@@ -13,11 +13,21 @@ state: "Pennsylvania"
 state-abbr: "PA"
 district: "2"
 committees:
-  - "Budget"
+  - "House Committee on Ways and Means"
+  - "House Committee on the Budget"
 leadership-roles:
   - "Ranking Member"
 issues:
-  - "Labor & Workers"
+  - "Congress"
+  - "Economics and Public Finance"
+  - "Education"
+  - "Foreign Trade and International Finance"
+  - "Government Operations and Politics"
+  - "Health"
+  - "International Affairs"
+  - "Labor and Employment"
+  - "Public Lands and Natural Resources"
+  - "Social Welfare"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline"
@@ -283,3 +293,47 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 - [Congress.gov: Brendan Boyle](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Committee Assignments (Congress.gov)
+<!-- auto:committee-assignments start -->
+**Committees:**
+
+- House Committee on Ways and Means
+- House Committee on the Budget
+
+**Subcommittees:**
+
+- Health
+- Trade
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+<!-- auto:committee-assignments end -->
+
+### Legislative Activity (Congress.gov)
+<!-- auto:congress-legislation start -->
+| Metric | Value |
+|--------|-------|
+| Scope | Career Total |
+| Party | Democrat |
+| State | PA |
+| Chamber | House |
+| Bills Sponsored | 128 |
+| Bills Cosponsored | 2262 |
+
+**Policy areas:** Congress, Economics and Public Finance, Education, Foreign Trade and International Finance, Government Operations and Politics, Health, International Affairs, Labor and Employment, Public Lands and Natural Resources, Social Welfare, Sports and Recreation, Taxation, Transportation and Public Works
+
+**Recent sponsored legislation:**
+
+| Bill | Title | Status |
+|------|-------|--------|
+| 7763 | Protecting American History Act | Referred to the House Committee on Natural Resources. |
+| 960 | Expressing support for the designation of November 2025 as "National Lung Cancer… | Referred to the House Committee on Energy and Commerce. |
+| 5708 | Federal Employees Civil Relief Act | Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Financial Services, Ways and Means, the Judiciary, Education and Workforce, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 5380 | Labor Market Response Act | Referred to the House Committee on Ways and Means. |
+| 5220 | Congressional Power of the Purse Act | Referred to the Committee on the Budget, and in addition to the Committees on Oversight and Government Reform, Transportation and Infrastructure, Rules, Foreign Affairs, the Judiciary, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 4634 | Debt Ceiling Reform Act | Referred to the Committee on Ways and Means, and in addition to the Committees on Rules, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+| 3271 | Medicare and Social Security Fair Share Act | Referred to the House Committee on Ways and Means. |
+| 2753 | Hands Off Medicaid and SNAP Act of 2025 | Referred to the Committee on Rules, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
+
+- [Source: Congress.gov](https://www.congress.gov/member/B001296) (Tier 1)
+<!-- auto:congress-legislation end -->
