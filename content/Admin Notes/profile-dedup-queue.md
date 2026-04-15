@@ -5,7 +5,7 @@ note-type: data
 priority: normal
 status: open
 last-updated: '2026-04-15'
-progress: "3 of 6 groups drained (GEO Group, Raytheon, Meta). Remaining: Blackstone Real Estate (may be intentional parent/subsidiary split), Fox Corp - Rupert Murdoch (needs new profile), EMILY's List (needs new profile)."
+progress: "4 of 6 groups drained (GEO Group, Raytheon, Meta, Blackstone). Remaining 2 need new profiles (Research Claude lane): Fox Corp - Rupert Murdoch, EMILY's List."
 ---
 
 # Profile Dedup Queue
@@ -24,12 +24,13 @@ Each group lists the suggested canonical file (marked ✓) and the duplicates to
 
 ## Groups
 
-### Blackstone (partially handled 2026-04-15)
+### Blackstone (DONE 2026-04-15)
 
-- ✓ `content/Donors & Power Networks/Wall Street/Blackstone Group.md` (509 lines — canonical)
-- **[handled]** `content/Donors & Power Networks/Mega-Donors/Blackstone.md` → marked as redirect
-- `content/Donors & Power Networks/Real Estate/Blackstone Real Estate.md` — separate entity? (Blackstone Real Estate is a subsidiary, may warrant its own profile)
-- `content/Donors & Power Networks/Real Estate/Blackstone Real Estate Political Operation.md` — also separate entity vs dupe — needs review
+- ✓ `content/Donors & Power Networks/Wall Street/Blackstone Group.md` (509 lines — parent company canonical)
+- ✓ `content/Donors & Power Networks/Real Estate/Blackstone Real Estate.md` (304 lines — subsidiary canonical, kept separate. Added aliases, federal-contracts, source-types)
+- **[handled]** `content/Donors & Power Networks/Mega-Donors/Blackstone.md` → redirect (cleaned stub body, points to both Group and Real Estate)
+- **[handled]** `content/Donors & Power Networks/Wall Street/Blackstone Real Estate Political Operation.md` → redirect to [[Blackstone Real Estate]] (lobbying/OFAC/SAM data already identical)
+- Entity store: removed orphan `ent_000009`
 
 ### Raytheon (DONE 2026-04-15)
 
