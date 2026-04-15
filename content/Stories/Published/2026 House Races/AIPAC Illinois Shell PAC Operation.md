@@ -2,13 +2,13 @@
 title: "AIPAC Illinois Shell PAC Operation"
 type: story
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[2026 House Money Map]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]]"
+related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Georgia 2026 Senate Race]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[New York House Races 2026]] · [[AIPAC - American Israel Public Affairs Committee]] · [[United Democracy Project - UDP]] · [[2026 House Money Map]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]] · [[Adelson 250M Republican Kingmaker Pledge]]"
 ---
 #2026-election #house #illinois #aipac #shell-pac #dark-money #class-analysis
 

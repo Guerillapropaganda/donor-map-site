@@ -7,7 +7,7 @@ central-thesis: >-
   unpopularity. He is consistently rated the least-liked senator among his own
   colleagues. His favorability ratings are among the lowest of any incumbent
   senator. He fled to Canc...
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 career-total: $100M
 parent: null
@@ -45,11 +45,7 @@ reenrich-reason: >-
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: >-
-  [[Koch Network - Charles Koch]] · [[Robert Mercer]] · [[Goldman Sachs]] ·
-  [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]] ·
-  [[_Marco Rubio Master Profile|Rubio]] · [[Operation Southern Spear and the
-  Cuba Fuel Blockade]] · [[Steve Bannon Master Profile]]
+related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
 last-enriched: '2026-04-11'
 committees:
   - 'Senate Committee on Commerce, Science, and Transportation'
@@ -73,6 +69,7 @@ internal-notes: >-
   removed. A correct bioguide must be added manually (verify at
   bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this
   profile. Pipeline will skip this profile until a bioguide is provided.
+donors: "[[Rebekah Mercer]]"
 ---
 
 <!-- auto:data-panel start -->

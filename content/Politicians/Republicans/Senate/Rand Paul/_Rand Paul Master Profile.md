@@ -3,7 +3,7 @@ title: "Rand Paul"
 type: politician
 content-readiness: ready
 central-thesis: "Rand Paul sells libertarianism as principle but delivers it as policy that benefits the donor class , specifically: deregulation for finance and tech, tax cuts for the wealthy, and obstruction of social spending that the working class depends on. ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -27,11 +27,12 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - "No mapped relationships"
-related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]]"
+related: "[[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
 last-enriched: "2026-04-10"
 bioguide-id: "P000603"
 issues:
   - "Crime and Law Enforcement"
+donors: "[[Larry Ellison]]"
 ---
 
 <!-- auto:data-panel start -->

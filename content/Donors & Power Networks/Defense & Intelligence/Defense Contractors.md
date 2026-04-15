@@ -2,7 +2,7 @@
 title: "Defense Contractors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -37,7 +37,7 @@ court-jurisdictions:
   - "District Court, N.D. California"
   - "District Court, W.D. Oklahoma"
   - "United States Court of Federal Claims"
-related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]] · [[Mark Warner]] · [[Insurance Industry]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Raytheon (RTX)]] · [[Northrop Grumman]] · [[Palantir Technologies]] · [[Anduril Industries]] · [[General Dynamics]] · [[Fanjul Family - Florida Crystals]] · [[Kevin McCarthy Master Profile]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Federation for Children]]"
+related: "[[Defense Contractors Bloc]] · [[Texas 2026 Senate Race]] · [[Katie Britt]] · [[Virginia 2026 Senate Race]] · [[Chris Murphy Master Profile]] · [[Mark Warner]] · [[Insurance Industry]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Raytheon (RTX)]] · [[Northrop Grumman]] · [[Palantir Technologies]] · [[Anduril Industries]] · [[General Dynamics]] · [[Fanjul Family - Florida Crystals]] · [[Kevin McCarthy Master Profile]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Federation for Children]] · [[American Action Network]]"
 sec-filings: 10000
 sec-form-types:
   - "10-K"

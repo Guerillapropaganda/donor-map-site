@@ -2,10 +2,10 @@
 title: "The Wall Street Democrat - Goldman Sachs to Congress Pipeline"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-15
 source-tier: 1
 parent: "[[_Jim Himes Master Profile]]"
-related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Jim Himes Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[_French Hill Master Profile|French Hill]] · [[_Maxine Waters Master Profile|Maxine Waters]]"
+related: "[[The Financial Services Committee and Wall Street Oversight]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Jim Himes Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[_French Hill Master Profile|French Hill]] · [[_Maxine Waters Master Profile|Maxine Waters]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 ---
 #himes #wall-street #goldman-sachs #financial-services #revolving-door #connecticut
 

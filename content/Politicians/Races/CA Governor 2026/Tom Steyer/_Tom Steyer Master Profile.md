@@ -3,7 +3,7 @@ title: "Tom Steyer"
 type: politician
 content-readiness: draft
 central-thesis: "Tom Steyer is the billionaire who wants to tax billionaires , the donor class's self-appointed class traitor. His campaign is built on the most visible contradiction in this vault: a man who made billions from fossil fuel hedge fund investments no..."
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -24,7 +24,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 last-enriched: "2026-04-09"
-related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]]"
+related: "[[Michael Bloomberg]] · [[_Katie Porter Master Profile]] · [[_Matt Mahan Master Profile]] · [[_Gavin Newsom Master Profile]] · [[CNA - California Nurses Association]] · [[National Progressive Donor Networks]]"
+donors: "[[National Progressive Donor Networks]]"
 ---
 
 <!-- auto:data-panel start -->

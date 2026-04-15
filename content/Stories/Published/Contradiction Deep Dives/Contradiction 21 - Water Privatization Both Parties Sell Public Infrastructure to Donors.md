@@ -2,12 +2,12 @@
 title: "Water Privatization: Both Parties Sell Public Infrastructure to Donors"
 type: story
 content-readiness: ready
-last-updated: 2026-04-10
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 issues:
   - "Infrastructure"
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[_Joe Manchin Master Profile|Manchin]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Payday Lending Survives Through Bipartisan Protection]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 #contradiction #water #privatization #infrastructure #class-analysis
 

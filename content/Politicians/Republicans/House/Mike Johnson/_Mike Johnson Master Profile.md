@@ -3,7 +3,7 @@ title: "Mike Johnson"
 type: politician
 content-readiness: ready
 central-thesis: "Mike Johnson's speakership demonstrates how the donor class captures institutions through the least-expected candidates. A constitutional lawyer with 9 years at Alliance Defending Freedom (anti-LGBTQ litigation), a 0/100 Human Rights Campaign scor..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -34,7 +34,8 @@ corroboration-count: 3
 known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]]"
+related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]]"
+donors: "[[National Restaurant Association]]"
 ---
 
 <!-- auto:data-panel start -->

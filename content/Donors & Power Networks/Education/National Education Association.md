@@ -2,7 +2,7 @@
 title: "National Education Association"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Education"
@@ -24,7 +24,7 @@ sec-form-types:
   - "EX-99.3G"
 lei: "549300HK4YWG61O0MF87"
 lei-jurisdiction: "US-DC"
-related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]]"
+related: "[[Economic Policy Institute]] · [[CalSTRS - California State Teachers' Retirement System]] · [[CTA - California Teachers Association]] · [[AFL-CIO]] · [[American Federation for Children]] · [[DeVos Family]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[The 85 Fund]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[Republican Party Apparatus]]"
 federal-register-mentions: 57
 last-enriched: "2026-04-08"
 regulatory-agencies:

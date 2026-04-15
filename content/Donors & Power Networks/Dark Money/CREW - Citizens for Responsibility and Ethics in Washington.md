@@ -2,7 +2,7 @@
 title: "CREW - Citizens for Responsibility and Ethics in Washington"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -17,7 +17,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
   - "District Court, District of Columbia"
-related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]]"
+related: "[[Ocean Conservancy]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[New Venture Fund]] · [[Democratic Donor Network]] · [[Dark Money Networks - The Shadow System]] · [[Judicial Watch]] · [[America First Legal]] · [[Democracy Forward]] · [[_Donald Trump Master Profile|Trump]] · [[National Progressive Donor Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]]"
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

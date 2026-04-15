@@ -3,7 +3,7 @@ title: "Chad Bianco"
 type: politician
 content-readiness: draft
 central-thesis: "Bianco represents a different species than the donor-class Democrat. He is the authoritarian-right sheriff: a constitutional sheriff movement adherent who believes the county sheriff's authority supersedes federal and state government, a former Oa..."
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -18,7 +18,8 @@ known-gaps:
   - "No mapped relationships"
 internal-notes: "[URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits | [URL Check 2026-04-09] 15 checked: 14 ok, 0 broken, 1 slow. | SLOW: ABC7: Jail deaths, civil rights lawsuits"
 last-enriched: "2026-04-09"
-related: "[[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[CCPOA - California Correctional Peace Officers Association]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]]"
+related: "[[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[Riverside Sheriffs Association]] · [[PORAC - Peace Officers Research Association of California]] · [[CCPOA - California Correctional Peace Officers Association]] · [[IBEW Local 477 - San Bernardino|IBEW Local 477]] · [[Steve Hilton]]"
+donors: "[[IBEW Local 477 - San Bernardino]]"
 ---
 
 <!-- auto:data-panel start -->

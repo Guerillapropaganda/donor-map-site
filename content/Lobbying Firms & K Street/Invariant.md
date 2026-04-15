@@ -2,7 +2,7 @@
 title: "Invariant"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 annual-revenue: "$47.2M (2025) / $42.3M (2024)"
@@ -34,7 +34,7 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Justice Department"
   - "Labor Department"
-related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Holland & Knight]] · [[Prime Policy Group]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]]"
+related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Holland & Knight]] · [[Prime Policy Group]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]] · [[Peck Madigan Jones (now Tiber Creek Group)]]"
 sec-filings: 737
 sec-form-types:
   - "10-K"

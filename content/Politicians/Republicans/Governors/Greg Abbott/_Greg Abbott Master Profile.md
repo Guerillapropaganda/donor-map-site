@@ -3,7 +3,7 @@ title: "Greg Abbott"
 type: politician
 content-readiness: ready
 central-thesis: "Abbott is the vault's clearest example of a fossil fuel governor , a politician whose donor base, policy agenda, and governing philosophy are dominated by a single industry. Of content-readiness: ready66 million raised across his career, approximately $30 million (18%)..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -22,7 +22,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]]"
+related: "[[_Donald Trump Master Profile]] · [[Timothy Mellon]] · [[_Chad Bianco Master Profile]] · [[Koch Network - Charles Koch]] · [[GEO Group]] · [[CoreCivic]] · [[Fossil Fuel Bloc]] · [[Immigration Enforcement - The Detention Economy]] · [[Fossil Fuel Deregulation - The Climate Donors]] · [[DAPL Survives Both Parties - The Bipartisan Fossil Fuel Consensus]]"
 ---
 
 <!-- auto:data-panel start -->

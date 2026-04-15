@@ -2,7 +2,7 @@
 title: "Ford Motor Company"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Gig Economy"
@@ -16,7 +16,7 @@ annual-revenue: "$30.0M"
 net-assets: "$243K"
 tax-year: "2016"
 court-cases: 21936
-last-enriched: "2026-04-10"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 court-jurisdictions:
@@ -181,7 +181,7 @@ The class function is straightforward: Ford converts public money into private r
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-11 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -196,12 +196,12 @@ The class function is straightforward: Ford converts public money into private r
 
 **Recent recalls:**
 
-- [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (VERIFIED) (2026-03-31)
-- [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (VERIFIED) (2026-03-31)
-- [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (VERIFIED) (2026-03-31)
-- [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (VERIFIED) (2026-03-31)
-- [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (VERIFIED) (2026-03-19)
-- [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (VERIFIED) (2026-03-17)
+- [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (2026-03-31)
+- [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (2026-03-31)
+- [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (2026-03-31)
+- [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (2026-03-31)
+- [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (2026-03-19)
+- [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (2026-03-17)
 - ... and 494 more
 
 **Active/recent investigations:**

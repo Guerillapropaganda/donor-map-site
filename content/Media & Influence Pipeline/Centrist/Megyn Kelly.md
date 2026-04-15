@@ -2,12 +2,12 @@
 title: "Megyn Kelly"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]] · [[The Daily Wire]]"
 ---
 
 #media-pipeline #centrist #independence-theater #revolving-door #fox-news #conservative-media

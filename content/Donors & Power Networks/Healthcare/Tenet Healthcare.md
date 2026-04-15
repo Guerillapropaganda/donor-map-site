@@ -2,7 +2,7 @@
 title: "Tenet Healthcare"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Healthcare"
@@ -67,7 +67,7 @@ sec-form-types:
   - "SC TO-I"
   - "SC TO-I/A"
   - "SCHEDULE 13G/A"
-related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[UnitedHealth Group - Optum]]"
+related: "[[Cigna Group]] · [[Hospital Corporation of America - HCA]] · [[Blue Cross Blue Shield Association]] · [[PhRMA]] · [[Anthem - Elevance Health]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 23648810
 total-assets: 24419400

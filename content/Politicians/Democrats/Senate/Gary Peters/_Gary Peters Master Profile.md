@@ -3,7 +3,7 @@ title: "Gary Peters"
 type: politician
 content-readiness: ready
 central-thesis: "Peters is the Democratic Party's quiet operator , a former Wall Street investment advisor who became the party's Senate fundraising chief while chairing the committee that oversees the homeland security and cybersecurity industries. His 22-year ca..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -46,6 +46,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]"
+donors: "[[AFGE - American Federation of Government Employees]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -7,7 +7,7 @@ central-thesis: >-
   enough for donors, diverse enough for the base, loyal enough for leadership.
   His rise from a Southern California inland district to the third-ranking House
   Democrat illus...
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -19,13 +19,8 @@ committees:
   - Appropriations
 total-received: '$3,026,029'
 fec-candidate-id: H2CA31125
-donors: >-
-  [[AFSCME - American Federation of State County and Municipal Employees]] ·
-  [[Blue Shield of California]] · [[UAW - United Auto Workers]]
-related: >-
-  [[_Hakeem Jeffries Master Profile|Jeffries]] · [[_Nancy Pelosi Master
-  Profile|Pelosi]] · [[_Suzan DelBene Master Profile|DelBene]] · [[Debbie
-  Stabenow Master Profile]] · [[Gary Peters Master Profile]]
+donors: ">- · [[UAW - United Auto Workers]]"
+related: ">- · [[UAW - United Auto Workers]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: >-

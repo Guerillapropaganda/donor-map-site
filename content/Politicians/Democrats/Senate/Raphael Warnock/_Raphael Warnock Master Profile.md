@@ -3,7 +3,7 @@ title: Raphael Warnock
 type: politician
 content-readiness: ready
 central-thesis: "Raphael Warnock represents the moral authority brand in Democratic politics: a pastor from MLK's pulpit brings authenticity and historic weight to political messaging, particularly on racial justice and inequality. Yet Warnock's donor base and pol..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -48,12 +48,8 @@ known-gaps:
   - CNA single-payer pressure documented in body but no direct CNA primary source cited
   - $170M combined 2020-2022 fundraising figure needs FEC filing cross-check (currently cited via aggregated state-level breakdowns without URL)
 opposes: "[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] · [[NRSC]]"
-related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]] · [[Healthcare Sector]]"
-donors:
-  - "Tech and Media Donors (national)"
-  - "Healthcare Sector"
-  - "Worker Power PAC for Georgia"
-  - "Out-of-state individual donors (92% of 2022 cycle)"
+related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]] · [[Healthcare Sector]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+donors: "Tech and Media Donors (national),Healthcare Sector,Worker Power PAC for Georgia,Out-of-state individual donors (92% of 2022 cycle) · [[David McIntosh]]"
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate

@@ -2,7 +2,7 @@
 title: "Tina Smith"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"
 chamber: "Senate"
@@ -32,6 +32,7 @@ stock-trade-tickers:
   - "ABT"
   - "IIN"
   - "ENTL"
+donors: "[[ActBlue]]"
 ---
 
 

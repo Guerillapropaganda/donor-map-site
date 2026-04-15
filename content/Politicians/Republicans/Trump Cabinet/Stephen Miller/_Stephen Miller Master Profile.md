@@ -2,7 +2,7 @@
 title: "Stephen Miller"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-07
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -24,7 +24,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]]"
+related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]]"
+donors: "[[Tim Dunn]]"
 ---
 
 <!-- auto:data-panel start -->

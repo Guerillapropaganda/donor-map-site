@@ -27,11 +27,7 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 donors: '[[UNITE HERE]] · [[Bacardi - Bacardi USA]]'
-related: >-
-  [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master
-  Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC -
-  American Israel Public Affairs Committee|AIPAC]] · [[_Bob Menendez Master
-  Profile|Menendez]] · [[Rick Scott Master Profile]]
+related: ">- · [[Fanjul Family - Florida Crystals]]"
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   VOTING data is missing entirely. This profile was promoted to ready without

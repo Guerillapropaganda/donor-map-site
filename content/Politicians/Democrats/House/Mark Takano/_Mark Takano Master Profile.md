@@ -8,7 +8,7 @@ central-thesis: >-
   shepherded the largest VA healthcare expansion in decades through committee
   and into law. His donor profile is modest: labor unions, teachers' unions,
   LGBTQ advocacy groups, and...
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -22,13 +22,8 @@ leadership-roles:
   - Ranking Member
 total-received: '$524,547'
 fec-candidate-id: H2CA43245
-donors: >-
-  [[National Nurses United]] · [[AFSCME - American Federation of State County
-  and Municipal Employees]] · [[UAW - United Auto Workers]]
-related: >-
-  [[_Mike Bost Master Profile|Mike Bost]] · [[_Donald Trump Master
-  Profile|Trump]] · [[Pete Aguilar]] · [[Debbie Stabenow Master Profile]] ·
-  [[Gary Peters Master Profile]]
+donors: ">- · [[UAW - United Auto Workers]]"
+related: ">- · [[Mike Bost]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
 internal-notes: >-

@@ -3,7 +3,7 @@ title: Thom Tillis
 type: politician
 content-readiness: ready
 central-thesis: "Thom Tillis is the pharmaceutical industry's most documented senator in the vault's research. His opposition to drug pricing reform, his intellectual property hawkishness, and his consistent legislative service to pharmaceutical and biotech intere..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -49,6 +49,7 @@ total-spent: "$5,232,134"
 cash-on-hand: "3675005.14"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
+donors: "[[Insurance Industry]]"
 ---
 
 <!-- auto:data-panel start -->

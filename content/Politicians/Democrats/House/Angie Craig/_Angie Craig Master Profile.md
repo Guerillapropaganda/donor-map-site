@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "C001119"
 content-readiness: ready
 central-thesis: "Craig is the medical device industry's graduate in Congress , a former St. Jude Medical vice president and PAC director who entered politics in the district where the industry is headquartered, then used swing-district survival skills to climb to ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -28,6 +28,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]]"
+donors: "[[Republican Jewish Coalition]]"
 ---
 
 <!-- auto:data-panel start -->

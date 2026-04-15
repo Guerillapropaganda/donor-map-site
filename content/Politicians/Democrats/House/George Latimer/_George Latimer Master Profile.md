@@ -3,7 +3,7 @@ title: "George Latimer"
 type: politician
 bioguide-id: "L000606"
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-15
 source-tier: null
 parent: null
 party: "Democrat"
@@ -15,11 +15,7 @@ issues:
   - Israel & Foreign Policy
   - Local Government
 related: "[[_Jamaal Bowman Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
-donors:
-  - "AIPAC"
-  - "United Democracy Project"
-  - "DMFI PAC"
-  - "Fairshake PAC"
+donors: "AIPAC,United Democracy Project,DMFI PAC,Fairshake PAC · [[Bernie Marcus]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

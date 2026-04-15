@@ -3,7 +3,7 @@ title: "Josh Gottheimer"
 type: politician
 content-readiness: ready
 central-thesis: "The centrist Democrat as corporate insurance policy. Gottheimer's structural role is to prevent the Democratic majority from enacting legislation that threatens donor class interests while maintaining the appearance of pragmatism and bipartisanshi..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -23,7 +23,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[Palantir]] · [[Wall Street Finance PACs]]"
+related: "[[Palantir]] · [[Wall Street Finance PACs]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 last-enriched: "2026-04-11"
 committees:
   - "House Committee on Financial Services"

@@ -3,7 +3,7 @@ title: "Sarah Huckabee Sanders"
 type: politician
 content-readiness: draft
 central-thesis: "Sarah Huckabee Sanders monetized the Trump brand into a governorship and is now using that governorship to implement a corporate donor agenda that mirrors the national Republican platform. She is not a independent political force; she is a transmi..."
-last-updated: 2026-03-24
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -17,7 +17,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]]"
+related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]] · [[National Nurses United]]"
+donors: "[[National Nurses United]]"
 ---
 
 <!-- auto:data-panel start -->

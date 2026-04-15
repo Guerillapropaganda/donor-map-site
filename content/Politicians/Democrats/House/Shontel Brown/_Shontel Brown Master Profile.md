@@ -2,7 +2,7 @@
 title: "Shontel Brown"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-15
 source-tier: null
 parent: null
 party: "Democrat"
@@ -13,9 +13,7 @@ district: "11"
 issues:
   - Israel & Foreign Policy
 related: "[[_Nina Turner Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors:
-  - "DMFI PAC"
-  - "AIPAC"
+donors: "DMFI PAC,AIPAC · [[Lawrence Summers]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

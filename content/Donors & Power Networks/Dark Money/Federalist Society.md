@@ -2,7 +2,7 @@
 title: "Federalist Society"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -52,7 +52,7 @@ sec-form-types:
   - "PRE 14A"
   - "PX14A6G"
   - "U-13-60"
-related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]]"
+related: "[[DeVos Family]] · [[Leonard Leo]] · [[Project 2025 - The Blueprint They Followed]] · [[People of Praise and the Federalist Society as Parallel Selection Pipelines]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]] · [[Heritage Foundation]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Clarence Thomas Master Profile|Thomas]] · [[_Samuel Alito Master Profile|Alito]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[National Association of Manufacturers]]"
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.

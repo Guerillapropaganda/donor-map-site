@@ -3,7 +3,7 @@ title: "Jeff Merkley"
 type: politician
 content-readiness: ready
 central-thesis: "Merkley is the vault's control case , the senator who most consistently operates against the donor-class model that defines his colleagues. He stopped taking corporate PAC money. He was the only senator to endorse Sanders. He authored the Volcker ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -37,6 +37,7 @@ known-gaps:
 last-enriched: "2026-04-11"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
 bioguide-id: "M001176"
+donors: "[[California Nurses Association]]"
 ---
 
 <!-- auto:data-panel start -->

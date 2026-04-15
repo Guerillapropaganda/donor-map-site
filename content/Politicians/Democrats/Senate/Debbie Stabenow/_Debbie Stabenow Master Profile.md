@@ -3,7 +3,7 @@ title: "Debbie Stabenow"
 type: politician
 content-readiness: ready
 central-thesis: "Stabenow is the Farm Bill senator , the Democrat who controlled more agribusiness spending than any other member of her caucus for over a decade. Her Agriculture Committee chairmanship gave her jurisdiction over crop insurance subsidies (the large..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -31,7 +31,8 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]]"
+related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Angie Craig]]"
+donors: "[[Sam Bankman-Fried]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -2,7 +2,7 @@
 title: Emilys List
 type: pac
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Super PACs
@@ -23,13 +23,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(4)
 total-revenue: 1057103
 total-assets: 79716
-related: >-
-  [[Democratic Senatorial Campaign Committee]] · [[ActBlue]] · [[House Majority
-  PAC]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[DSCC -
-  Democratic Senatorial Campaign Committee]] · [[Majority Forward]] · [[Winning
-  for Women PAC]] · [[Senate Leadership Fund]] · [[One Nation]] · [[WinRed]] ·
-  [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve
-  America]] · [[National Rifle Association]]
+related: ">- · [[Senate Majority PAC]]"
 cross-vault-triangulation-count: 7
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •

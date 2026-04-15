@@ -2,14 +2,14 @@
 title: "CoreCivic - Private Prisons"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
 issues:
   - "Immigration"
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 nhtsa-recalls: 0
@@ -183,6 +183,27 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic%20-%20Private%20Prisons) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+<!-- auto:nhtsa-recalls pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Vehicle Recalls | 0 |
+| Consumer Complaints | 0 |
+| NHTSA Investigations | 10 |
+
+**Active/recent investigations:**
+
+- DP26003: Fuel smell and loss of motive power (2026-03-30)
+- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
+- DP26001: All wheel drive allegation (2026-03-06)
+- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
+
+- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic%20-%20Private%20Prisons) (Tier 1)
+
+<!-- auto:nhtsa-recalls pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

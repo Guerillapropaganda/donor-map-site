@@ -3,7 +3,7 @@ title: "Wes Moore"
 type: politician
 content-readiness: ready
 central-thesis: "Wes Moore is the Democratic donor class's ideal product: a candidate manufactured at the intersection of Wall Street (Citigroup, Deutsche Bank), hedge fund philanthropy (Robin Hood Foundation), military service (82nd Airborne), and nonprofit leade..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,6 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile]] · [[_JB Pritzker Master Profile]] · [[_Andy Beshear Master Profile]] · [[Goldman Sachs]] · [[George Soros]]"
+donors: "[[Insurance Industry]]"
 ---
 
 <!-- auto:data-panel start -->

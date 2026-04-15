@@ -2,12 +2,12 @@
 title: "Tech Billionaires Switch Parties on Regulatory Self-Interest"
 type: story
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 issues:
   - "Technology"
-related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
+related: "[[Crypto Industry Buys Both Parties in One Cycle]] · [[Marc Andreessen & Horowitz|Marc Andreessen]] · [[Elon Musk]] · [[Reid Hoffman]] · [[David Sacks]] · [[Dustin Moskovitz]] · [[Eric Schmidt]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[_Donald Trump Master Profile|Donald Trump]] · [[Crypto Industry Bloc]] · [[Georgia 2026 Senate Race]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Intra-Republican Contradiction Map]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]]"
 ---
 #investigation #contradiction #tech #silicon-valley #party-switching #class-analysis
 tags: #analysis #story

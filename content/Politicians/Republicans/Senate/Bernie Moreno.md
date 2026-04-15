@@ -5,7 +5,7 @@ chamber: "Senate"
 party: "Republican"
 content-readiness: ready
 central-thesis: "Moreno's 2024 victory represents the most concentrated single-industry political investment in recent Senate history. The crypto industry spent $40M+ (Defend American Jobs $22.8M alone) to elect Moreno, a crypto entrepreneur who had already divest..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 bioguide-id: "M001242"
@@ -16,7 +16,7 @@ website: "https://www.moreno.senate.gov"
 phone: "202-224-2315"
 total-received: "$1,879,101"
 fec-candidate-id: "S4OH00192"
-donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]]"
+donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]] · [[David Sacks (Donor Network)]]"
 related: "[[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
 needs-reenrichment: true
 reenrich-reason: "run congress pipeline; run pipelines"

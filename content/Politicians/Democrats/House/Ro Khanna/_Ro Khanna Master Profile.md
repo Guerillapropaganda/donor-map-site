@@ -3,7 +3,7 @@ title: "Ro Khanna"
 type: politician
 content-readiness: ready
 central-thesis: "Khanna is the test case for whether progressive politics and tech industry money can coexist , and the answer so far is: barely, and with visible structural compromises. His district is the tech industry. His individual donors are tech executives ..."
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -57,18 +57,12 @@ opposes:
   - "Silicon Valley tech executives (post-wealth-tax)"
   - "Defense contractors (NDAA dissent)"
   - "Ethan Agarwal (primary challenger funded by Y Combinator CEO Garry Tan, Chamath Palihapitiya)"
-donors:
-  - "Alphabet/Google individual employees"
-  - "Wilson Sonsini Goodrich & Rosati"
-  - "Stanford University"
-  - "Accel Partners"
-  - "Andreessen Horowitz individuals"
-  - "JStreetPAC ($46,950 2024 cycle)"
+donors: "Alphabet/Google individual employees,Wilson Sonsini Goodrich & Rosati,Stanford University,Accel Partners,Andreessen Horowitz individuals,JStreetPAC ($46,950 2024 cycle) · [[Google - Alphabet]]"
 editorial-review-date: '2026-04-10'
 editorial-reviewer: "Research Claude"
 editorial-result: verified-candidate
 editorial-notes: "Flagged for David's verified sign-off. Qualifies on merits: 4 Tier 1 source types (FEC candidate page, Congress.gov with verified bioguide K000389, GovTrack, khanna.house.gov official press release on NDAA vote), 7 Tier 2 journalism sources documenting the 2026 wealth tax backlash, exceptional class analysis (tolerated/managed/intolerable dissent hierarchy), detailed donation-to-policy timeline with specific amounts, Influence Network Cross-Reference auto-block showing Apple/Microsoft donate→lobby→committee chains. The 2026 Silicon Valley backlash section is the vault's clearest contemporary case study of donor-class enforcement: wealth tax endorsement triggered coordinated primary challenge (Ethan Agarwal, Garry Tan, Chamath Palihapitiya) within weeks. FIXED: removed stale DOJ from source-types (all vault DOJ blocks stripped this session , bogus API index-size bug). FIXED: removed inline body donors:: dataview line per frontmatter-only rule. FIXED: known-gaps (was wrongly listing 'No mapped relationships'). Added bioguide-id, fec-committee-id, structured opposes/donors. No A000383 contamination. No (URL NEEDED) tags. Ready for editor review."
-related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]] · [[Microsoft]]"
+related: "[[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Pramila Jayapal Master Profile|Jayapal]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[Alphabet - Google|Google]] · [[Apple]] · [[Marc Andreessen & Horowitz]] · [[Meta]] · [[Eric Schmidt]] · [[_Matt Mahan Master Profile]] · [[_Eric Swalwell Master Profile]] · [[Wilson Sonsini Goodrich & Rosati]] · [[Accel Partners]] · [[Ethan Agarwal]] · [[Garry Tan]] · [[Chamath Palihapitiya]] · [[Microsoft]] · [[Google - Alphabet]]"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

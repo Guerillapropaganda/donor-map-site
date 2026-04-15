@@ -3,7 +3,7 @@ title: "Nikki Haley"
 type: politician
 content-readiness: ready
 central-thesis: "Haley is the donor class's 'electability' candidate , the corporate-friendly, defense-hawk Republican who could theoretically win general elections by assembling the pre-Trump GOP coalition: suburban voters, defense establishment, Wall Street, and..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -24,7 +24,8 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 last-enriched: "2026-04-09"
-related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]]"
+related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[The Koch Endorsement and the Corporate Republican Restoration Project]] · [[The Defense Industry Pipeline and South Carolina's Military Economy]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
+donors: "[[Americans for Prosperity]]"
 ---
 
 <!-- auto:data-panel start -->

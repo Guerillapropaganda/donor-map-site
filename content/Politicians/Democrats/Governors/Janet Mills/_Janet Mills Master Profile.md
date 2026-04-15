@@ -3,7 +3,7 @@ title: "Janet Mills"
 type: politician
 content-readiness: ready
 central-thesis: "Janet Mills represents the Democratic establishment's preferred profile: a career progressive prosecutor with genuine female leadership credentials and real working-class policy achievements, now positioning herself as a Senate candidate through a..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -22,7 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 last-enriched: "2026-04-09"
-related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]] · [[Democratic Senatorial Campaign Committee]]"
+related: "[[_Susan Collins Master Profile|Susan Collins]] · [[_Graham Platner Master Profile|Graham Platner]] · [[One Nation]] · [[Democratic Senatorial Campaign Committee]] · [[Opioid Litigation and Pharmaceutical Industry Accountability]]"
 donors: "[[Democratic Senatorial Campaign Committee]]"
 ---
 

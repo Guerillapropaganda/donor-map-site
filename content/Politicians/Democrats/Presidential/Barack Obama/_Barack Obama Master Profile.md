@@ -3,7 +3,7 @@ title: Barack Obama
 type: politician
 content-readiness: ready
 central-thesis: "Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised 'hope and change' and ran against the financial sector's power. His private reassurance to bankers ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -70,7 +70,8 @@ proclamations: 1230
 last-enriched: '2026-04-08'
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[Organizing for Action]] · [[Democracy Alliance]] · [[Joe Biden Master Profile]]"
+related: ">- · [[UnitedHealth Group - Optum]] · [[Insurance Industry Bloc]] · [[Organizing for Action]] · [[Democracy Alliance]] · [[Joe Biden Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
+donors: "[[Lawrence Summers]]"
 ---
 
 <!-- auto:data-panel start -->

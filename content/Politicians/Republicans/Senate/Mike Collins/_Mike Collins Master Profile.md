@@ -7,7 +7,7 @@ central-thesis: >-
   (crypto and pro-Israel) who have nothing to do with his trucking company base
   or Trump movement roots. He is running as an 'America First trucker,' but his
   campaign is ...
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -40,6 +40,7 @@ related: >-
   [[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] ·
   [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] ·
   [[David Sacks Master Profile]] · [[Howard Lutnick Master Profile]]
+donors: "[[Tech Industry]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -2,7 +2,7 @@
 title: "Wesley Bell"
 type: politician
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: null
 parent: null
 party: "Democrat"
@@ -22,10 +22,7 @@ issues:
   - "International Affairs"
   - "Labor and Employment"
 related: "[[_Cori Bush Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors:
-  - "AIPAC"
-  - "United Democracy Project"
-  - "DMFI PAC"
+donors: "AIPAC,United Democracy Project,DMFI PAC · [[Bernie Marcus]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

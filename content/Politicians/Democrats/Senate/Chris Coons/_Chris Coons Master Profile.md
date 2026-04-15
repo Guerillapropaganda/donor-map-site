@@ -41,7 +41,7 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-11"
-related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+related: "[[_Joe Biden Master Profile|Joe Biden]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Jeanne Shaheen]]"
 committees:
   - "Senate Committee on Appropriations"
   - "Senate Committee on Foreign Relations"

@@ -3,12 +3,12 @@ title: "Prison Telecom Monopoly Profits From Bipartisan Neglect"
 type: story
 content-readiness: ready
 editor-vouched: true
-last-updated: 2026-04-08
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 issues:
   - "Criminal Justice"
-related: "[[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]]"
+related: "[[Payday Lending Survives Through Bipartisan Protection]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]] · [[_Joe Biden Master Profile|Biden]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 #contradiction #prison-telecom #criminal-justice #monopoly #class-analysis
 

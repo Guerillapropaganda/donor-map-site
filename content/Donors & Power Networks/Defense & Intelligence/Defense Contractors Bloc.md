@@ -2,7 +2,7 @@
 title: "Defense Contractors Bloc"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 issues:
   - "Defense & Military"
-related: "[[Pete Hegseth Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[Tammy Duckworth]] · [[Defense Contractors]] · [[Defense Industry Bloc]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril]] · [[Palantir]] · [[Concerned Veterans for America]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[National Education Association]] · [[American Federation for Children]] · [[US Chamber of Commerce]]"
+related: "[[Pete Hegseth Master Profile]] · [[Veterans and Military - Donors and Backers]] · [[Tammy Duckworth]] · [[Defense Contractors]] · [[Defense Industry Bloc]] · [[L3Harris Technologies]] · [[Boeing Defense]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[Anduril]] · [[Palantir]] · [[Concerned Veterans for America]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[National Education Association]] · [[American Federation for Children]] · [[US Chamber of Commerce]] · [[Raytheon (RTX Corporation)]]"
 cross-vault-triangulation-count: 14
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

@@ -2,7 +2,7 @@
 title: "Cindy Hyde-Smith"
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 party: "Republican"
 chamber: "Senate"
@@ -21,6 +21,7 @@ known-gaps:
   - "No legislative record"
   - "No voting record"
   - "No mapped relationships"
+donors: "[[CA Farm Bureau Federation]]"
 ---
 
 

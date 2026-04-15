@@ -3,7 +3,7 @@ title: "Martin Heinrich"
 type: politician
 content-readiness: ready
 central-thesis: "Heinrich is the nuclear weapons complex's senator , an engineer who started his career inside the weapons labs, built his committee portfolio around the agencies that fund them, and has doubled their budgets. New Mexico's economy is structurally d..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -34,6 +34,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
+donors: "[[Bill Gates]]"
 ---
 
 <!-- auto:data-panel start -->

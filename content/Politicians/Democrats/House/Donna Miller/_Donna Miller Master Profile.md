@@ -5,7 +5,7 @@ current-office: "Cook County Commissioner, District 6 (Illinois)"
 candidate-for: "US House 2026 (Illinois, Democratic primary , exact district needs verification from FEC filing H6IL02355)"
 content-readiness: draft
 central-thesis: "Donna Miller's 2026 primary victory represents the most visible and controversial deployment of AIPAC's shell PAC infrastructure in the 2026 cycle. The 'Affordable Chicago Now' super PAC, which Miller's opponents explicitly identified as an AIPAC s..."
-last-updated: 2026-04-11
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -30,6 +30,7 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Donna_Miller"
 wikipedia-extract: "Donna Lynne Miller is an American politician currently serving as a Cook County commissioner, representing the board's 6th district."
 born: "1965-09-07"
 internal-notes: "[JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'B001296' ((unknown , smaller 3-file contamination)), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 3 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
+donors: "[[Tim Dunn]]"
 ---
 
 <!-- auto:data-panel start -->

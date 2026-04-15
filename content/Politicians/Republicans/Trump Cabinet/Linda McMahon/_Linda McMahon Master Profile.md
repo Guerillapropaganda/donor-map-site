@@ -3,7 +3,7 @@ title: Linda McMahon
 type: politician
 content-readiness: ready
 central-thesis: "Linda McMahon is the purest donor-to-cabinet pipeline in the Trump administration. $50M+ in political contributions purchased: SBA Administrator (first term), transition co-chair, and Education Secretary (second term). AFPI , the think tank she fo..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -26,6 +26,7 @@ known-gaps:
 last-enriched: '2026-04-09'
 opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E]] · [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]]"
 related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]]"
+donors: "[[Brady Campaign]]"
 ---
 
 <!-- auto:data-panel start -->

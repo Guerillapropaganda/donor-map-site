@@ -2,7 +2,7 @@
 title: "Leon Panetta"
 type: politician
 content-readiness: raw
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 party: "Democrat"
 chamber: "Secretary of Defense (2011-2013)"
@@ -11,6 +11,7 @@ known-gaps:
   - "No donor network analysis"
 source-types:
   - Congress
+donors: "[[National Cattlemen's Beef Association]]"
 ---
 
 

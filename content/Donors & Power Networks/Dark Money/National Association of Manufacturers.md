@@ -2,7 +2,7 @@
 title: "National Association of Manufacturers"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -38,7 +38,7 @@ regulatory-agencies:
   - "Federal Motor Carrier Safety Administration"
   - "Federal Trade Commission"
   - "International Trade Administration"
-related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]] · [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Defense Contractors Bloc]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[California Charter Schools Association]] · [[Haim Saban]]"
+related: "[[DeVos Family]] · [[Labor - Donors and Backers]] · [[The Education Committee and Michigan Manufacturing]] · [[Jason Smith]] · [[Steve Scalise]] · [[American Gaming Association]] · [[Adam Smith]] · [[American Action Network]] · [[US Chamber of Commerce]] · [[Business Roundtable]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[_Donald Trump Master Profile|Trump]] · [[ALEC - American Legislative Exchange Council]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Defense Contractors Bloc]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[California Charter Schools Association]] · [[Haim Saban]] · [[Judicial Crisis Network]]"
 sec-filings: 5021
 sec-form-types:
   - "10-K"

@@ -3,7 +3,7 @@ title: "Benjamin Netanyahu"
 type: politician
 content-readiness: ready
 central-thesis: "Netanyahu's political life reveals what donor-first class analysis predicts: politicians are not puppets but agents serving a donor class that controls the material conditions of their political survival. American mega-donor money is not periphera..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 chamber: "International"
@@ -22,6 +22,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Miriam Adelson]] · [[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Pro-Israel Donor Network Deep Dive]] · [[_JD Vance Master Profile]]"
+donors: "[[American Friends of the Likud]]"
 ---
 
 <!-- auto:data-panel start -->

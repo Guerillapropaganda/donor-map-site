@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "G000377"
 content-readiness: ready
 central-thesis: "Kay Granger was, effectively, Lockheed Martin's $634,000+ congressional employee , with a career total possibly exceeding $800,000 in direct contributions and revolving-door connections. Her Fort Worth district contains the F-35 production line. S..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -28,7 +28,8 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
-related: "[[Lockheed Martin]]"
+related: "[[Lockheed Martin]] · [[Boeing]]"
+donors: "[[Boeing]]"
 ---
 
 <!-- auto:data-panel start -->

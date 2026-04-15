@@ -2,22 +2,14 @@
 title: Priorities USA Action
 type: pac
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Super PACs
 entity-type: PAC
 issues:
   - Dark Money & Campaign Finance
-related: >-
-  [[Emilys List]] · [[Democratic Senatorial Campaign Committee]] · [[Senate
-  Majority PAC]] · [[House Majority PAC]] · [[Future Forward USA Action]] ·
-  [[EMILY's List]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[John Fetterman
-  Master Profile]] · [[DSCC - Democratic Senatorial Campaign Committee]] ·
-  [[Majority Forward]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]]
-  · [[One Nation]] · [[National Republican Senatorial Committee]] · [[WinRed]] ·
-  [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve
-  America]] · [[National Rifle Association]]
+related: ">- · [[John Fetterman]]"
 ein: '833099604'
 nonprofit-status: 501(c)(3)
 last-enriched: '2026-04-09'

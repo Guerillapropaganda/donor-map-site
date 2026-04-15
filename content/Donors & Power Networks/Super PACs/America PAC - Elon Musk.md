@@ -2,14 +2,14 @@
 title: "America PAC - Elon Musk"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 issues:
   - "Technology"
-related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]]"
+related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]]"
 known-gaps:
   - "No FEC contribution data"
 ---

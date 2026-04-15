@@ -2,10 +2,10 @@
 title: "Payday Lending Survives Through Bipartisan Protection"
 type: story
 content-readiness: draft
-last-updated: 2026-04-10
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
-related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]]"
+related: "[[Prison Telecom Monopoly Profits From Bipartisan Neglect]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Joe Biden Master Profile|Biden]] · [[_Kyrsten Sinema Master Profile|Sinema]] · [[Water Privatization: Both Parties Sell Public Infrastructure to Donors]] · [[Contradiction 20 , Tech Monopolies Buy Antitrust Protection From Both Parties]] · [[Contradiction 19 , Student Loan Industry Buys Bipartisan Protection for the Creditor Class]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 #contradiction #payday-lending #consumer-protection #CFPB #class-analysis
 

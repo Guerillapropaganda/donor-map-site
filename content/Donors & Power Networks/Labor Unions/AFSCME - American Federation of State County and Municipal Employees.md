@@ -2,7 +2,7 @@
 title: AFSCME - American Federation of State County and Municipal Employees
 type: donor
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Labor Unions
@@ -40,13 +40,7 @@ sec-form-types:
   - N-CSR
   - N-CSRS
   - PRE 14A
-related: >-
-  [[Ritchie Torres]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Mike Lee]] ·
-  [[Barbara Lee]] · [[SEIU - Service Employees International Union]] ·
-  [[California Labor Federation]] · [[_Gavin Newsom Master Profile]] · [[_Kamala
-  Harris Master Profile]] · [[Koch Network - Charles Koch]] · [[CCPOA -
-  California Correctional Peace Officers Association]] · [[DOGE - The
-  Billionaires Government]]
+related: ">- · [[Mike Lee]]"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: '2026-04-11'
 aliases:

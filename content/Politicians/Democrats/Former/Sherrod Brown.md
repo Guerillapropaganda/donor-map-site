@@ -18,20 +18,8 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: >-
-  [[David Sacks]] · [[UAW - United Auto Workers]] · [[California Nurses
-  Association]] · [[American Iron and Steel Institute]] · [[Ohio Democratic
-  Party]] · [[Ken Griffin]] · [[Fraternal Order of Police]] · [[Republican
-  Jewish Coalition]] · [[Lawrence Summers]]
-related: >-
-  [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special
-  Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] ·
-  [[Teamsters - International Brotherhood of Teamsters]] · [[Crypto Industry
-  Bloc]] · [[_JD Vance Master Profile]] · [[Ohio Federation of Teachers]] ·
-  [[Bernie Moreno]] · [[Frank Pallone]] · [[Mark Takano]] · [[Pete Aguilar]] ·
-  [[Debbie Stabenow Master Profile]] · [[Gary Peters Master Profile]] ·
-  [[Barbara Lee]] · [[Maxine Waters]] · [[Eric Swalwell Master Profile]] ·
-  [[Mike Lee]]
+donors: ">- · [[Lawrence Summers]]"
+related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]]"
 editorial-review-date: '2026-04-08'
 editorial-reviewer: Research Claude
 editorial-result: block

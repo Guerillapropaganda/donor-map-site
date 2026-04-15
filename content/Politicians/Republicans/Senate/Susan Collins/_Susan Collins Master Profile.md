@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "C001035"
 content-readiness: ready
 central-thesis: "Susan Collins has perfected the most profitable brand in the Senate: the reluctant moderate. Her 'careful deliberation' on every major vote generates maximum fundraising pressure from both sides , and she reliably delivers for the donor class ever..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Republican"
@@ -34,7 +34,8 @@ corroboration-count: 2
 known-gaps:
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]]"
+related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
+donors: "[[Blackstone Group]]"
 ---
 
 <!-- auto:data-panel start -->

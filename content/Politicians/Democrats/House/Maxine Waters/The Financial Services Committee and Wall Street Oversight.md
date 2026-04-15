@@ -2,10 +2,10 @@
 title: "The Financial Services Committee and Wall Street Oversight"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-08
+last-updated: 2026-04-15
 source-tier: 1
 parent: "[[_Maxine Waters Master Profile]]"
-related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Maxine Waters Master Profile]] · [[_French Hill Master Profile|French Hill]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]]"
+related: "[[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]] · [[The Foreign Affairs Committee and Wall Street-Queens Axis]] · [[Goldman Sachs — The Government Sachs Alumni Network]] · [[_Maxine Waters Master Profile]] · [[_French Hill Master Profile|French Hill]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Goldman Sachs , The Government Sachs Alumni Network]]"
 ---
 #waters #financial-services #wall-street #cfpb #banking-regulation #dodd-frank
 

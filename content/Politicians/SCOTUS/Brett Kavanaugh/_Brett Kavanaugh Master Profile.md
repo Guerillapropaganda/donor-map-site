@@ -3,7 +3,7 @@ title: "Brett Kavanaugh"
 type: politician
 content-readiness: draft
 central-thesis: "Brett Kavanaugh's confirmation represents the dark money capture of the Supreme Court at its most explicit. A single anonymous donor gave content-readiness: draft7.1 million to JCN specifically for Supreme Court battles. Leonard Leo , who had spent two decades building..."
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 chamber: "SCOTUS"
@@ -20,7 +20,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 last-enriched: "2026-04-09"
-related: "[[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Amy Coney Barrett Master Profile]]"
+related: "[[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Amy Coney Barrett Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]]"
 ---
 
 <!-- auto:data-panel start -->

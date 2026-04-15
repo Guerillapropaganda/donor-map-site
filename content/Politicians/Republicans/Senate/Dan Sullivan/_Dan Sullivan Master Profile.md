@@ -2,7 +2,7 @@
 title: "Dan Sullivan"
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 party: "Republican"
 chamber: "Senate"
@@ -33,6 +33,7 @@ stock-trade-tickers:
   - "TSCIX"
   - "VPMAX"
   - "GFAFX"
+donors: "[[ConocoPhillips]]"
 ---
 
 

@@ -2,10 +2,10 @@
 title: "Tax Policy - Who Pays and Who Doesnt"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]]"
+related: "[[Inequality and Poverty - The Numbers Under the Rhetoric]] · [[Corporate Subsidies and the Business Climate Argument]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Labor - Donors and Backers]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]]"
 ---
 #newsom #economic-policy #tax-policy #wealth-tax #corporate-tax #class-analysis #california #budget #follow-the-money #inequality
 

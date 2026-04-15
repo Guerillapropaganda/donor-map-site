@@ -2,7 +2,7 @@
 title: "Democratic Small Dollar Networks"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -15,7 +15,7 @@ politicians-funded:
   - "Joe Biden"
   - "Nancy Pelosi"
   - "Chuck Schumer"
-related: "[[Small Dollar Donors - ActBlue]] · [[Ohio 2026 Special Senate Election]] · [[North Carolina 2026 Senate Race]] · [[ActBlue]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Kamala Harris Master Profile|Harris]] · [[_Joe Biden Master Profile|Biden]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[MAGA Small Dollar Base]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
+related: "[[Small Dollar Donors - ActBlue]] · [[Ohio 2026 Special Senate Election]] · [[North Carolina 2026 Senate Race]] · [[ActBlue]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Kamala Harris Master Profile|Harris]] · [[_Joe Biden Master Profile|Biden]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[MAGA Small Dollar Base]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]]"
 cross-vault-triangulation-count: 12
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

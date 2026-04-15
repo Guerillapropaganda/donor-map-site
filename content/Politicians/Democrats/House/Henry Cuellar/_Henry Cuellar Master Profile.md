@@ -3,7 +3,7 @@ title: "Henry Cuellar"
 type: politician
 content-readiness: ready
 central-thesis: "Henry Cuéllar is the most explicit donor-to-policy case in this vault: foreign bribes converted directly into legislative action. Azerbaijan's state oil company paid $300,000+ to Cuéllar through intermediaries 2014-2021. The payments were document..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -36,6 +36,7 @@ cash-on-hand: "483316.29"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "238000.00"
+donors: "[[American Petroleum Institute]]"
 ---
 
 <!-- auto:data-panel start -->

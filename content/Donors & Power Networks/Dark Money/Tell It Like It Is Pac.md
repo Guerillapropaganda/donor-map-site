@@ -6,8 +6,33 @@ sector: "Dark Money"
 entity-type: "Super PAC"
 committee-id: "C00841593"
 fec-url: "https://www.fec.gov/data/committee/C00841593/"
-last-updated: "2026-04-15"
+last-updated: 2026-04-15
 source-tier: 1
 fec-ie-support: "$5,854,979"
 fec-ie-oppose: null
+ofac-sdn-match: "true"
+last-enriched: "2026-04-15"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
+
+### OFAC Sanctions Screening
+<!-- auto:ofac-sdn start -->
+| Metric | Value |
+|--------|-------|
+| SDN List Status | **Match found** |
+| Match Quality | Fuzzy match (token overlap) |
+| SDN Records Matched | 3 |
+| Sanctions Programs | RUSSIA-EO14024 |
+| Entity Types | -0- |
+
+**Matched SDN entries:**
+- UT IT NOVAYA INDUSTRIYA OOO (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Organization Established Date 19 Feb 2019; Tax ID No. 7728461088 (Russia); Registration Number 1197746126071 (Russia); a.k.a. 'NEW I...
+- OBSHESTVO S OGRANICHENNOJ OTVETSTVENNOSTYU NIPIGAZ IT (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 9728089667 (Russia); Registration Number 1237700161115 (Russia); Linked To: NAUCHNO ISSLEDOVATELSKII I PROEKTNYI INSTITUT...
+- JOINT STOCK COMPANY IBS IT SERVICES (-0-) [RUSSIA-EO14024]
+  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; Tax ID No. 7713444361 (Russia); Registration Number 1177746672905 (Russia).
+
+- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
+<!-- auto:ofac-sdn end -->

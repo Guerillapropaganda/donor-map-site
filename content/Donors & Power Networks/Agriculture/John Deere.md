@@ -19,7 +19,7 @@ net-assets: "$212.6M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-11"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 subawards-issued: 50
@@ -439,7 +439,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - ~~[Source: CPSC SaferProducts](https://www.saferproducts.gov/PublicSearch?query=John%20Deere)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:cpsc-recalls end -->
 
-<!-- auto:cpsc-recalls pending-merge 2026-04-11 -->
+<!-- auto:cpsc-recalls pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

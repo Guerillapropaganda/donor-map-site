@@ -3,7 +3,7 @@ title: "Josh Shapiro"
 type: politician
 content-readiness: ready
 central-thesis: "Josh Shapiro's political rise is a case study in corporate-Democratic coalition building. His $68M gubernatorial race , the most expensive in Pennsylvania history , was funded by Bloomberg ($2.5M), Soros ($500K), 240+ corporate CEOs, coal executiv..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -20,7 +20,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]]"
+related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]] · [[Gretchen Whitmer]]"
+donors: "[[Jeffrey Yass]]"
 ---
 
 <!-- auto:data-panel start -->

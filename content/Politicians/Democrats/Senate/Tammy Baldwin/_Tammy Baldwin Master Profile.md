@@ -3,7 +3,7 @@ title: "Tammy Baldwin"
 type: politician
 content-readiness: ready
 central-thesis: "### Baldwin is the rare progressive who wins in a swing state by anchoring her progressive economic agenda to specific Wisconsin industries , dairy, manufacturing, healthcare , rather than abstract ideology. Her donor architecture reveals the stru..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -36,6 +36,7 @@ known-gaps:
 related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]]"
 last-enriched: "2026-04-10"
 bioguide-id: "B001230"
+donors: "[[UAW - United Auto Workers]]"
 ---
 
 <!-- auto:data-panel start -->

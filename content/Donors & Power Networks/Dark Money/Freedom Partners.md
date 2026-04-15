@@ -2,7 +2,7 @@
 title: Freedom Partners Chamber of Commerce
 type: donor
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -20,15 +20,7 @@ subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
 lobbying-spend: 2076000
 lobbying-filings: 84
-related: >-
-  [[ALEC - American Legislative Exchange Council]] · [[Donors Capital Fund]] ·
-  [[State Policy Network]] · [[Americans for Prosperity]] · [[Stand Together]] ·
-  [[Koch Industries]] · [[DeVos Family]] · [[US Chamber of Commerce]] ·
-  [[Insurance Industry]] · [[National Education Association]] · [[Walton Family
-  Foundation]] · [[American Federation for Children]] · [[Defense Contractors]]
-  · [[Defense Industry]] · [[Western States Petroleum Association]] ·
-  [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Defense
-  Industry Bloc]]
+related: ">- · [[State Policy Network]]"
 source-types:
   - Courts
   - LDA

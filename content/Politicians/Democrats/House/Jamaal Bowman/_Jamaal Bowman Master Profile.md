@@ -3,7 +3,7 @@ title: Jamaal Bowman
 type: politician
 content-readiness: ready
 central-thesis: "Bowman is the vault's canonical case study for Donor-Class Override through primary election spending: a one-term incumbent with genuine constituent alignment on every major policy position was removed from office not because his district rejected..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -46,7 +46,7 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 [CODE @ 2026-04-10] DEMOTED verified→ready. Previous 'A+ verified' promotion by Research Claude on 2026-04-09 counted Congress.gov as one of 3 Tier 1 source types. That Congress data was A000383-contaminated (wrong member). Corroboration-count reduced from 3 to 2 (FEC + GovTrack only). Same reasoning as Cori Bush demotion. Re-review for verified promotion AFTER fresh pipeline runs populate correct Congress/committee/govtrack data."
 opposes: '[[UNITED DEMOCRACY PROJECT (''UDP'')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]'
 donors: '[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]]'
-related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]]"
+related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): B001223. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."

@@ -2,7 +2,7 @@
 title: House Majority PAC
 type: pac
 content-readiness: ready
-last-updated: '2026-04-14'
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Super PACs
@@ -26,14 +26,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - 10-K
-related: >-
-  [[Senate Majority PAC]] · [[DCCC Red-to-Blue Targets 2026]] · [[_Hakeem
-  Jeffries Master Profile|Hakeem Jeffries]] · [[Master Donor Database]] ·
-  [[Donor Registry - Master Index]] · [[Senate Leadership Fund]] · [[National
-  Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities
-  USA Action]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake
-  PAC]] · [[Save America PAC]] · [[Preserve America]] · [[One Nation]] ·
-  [[National Rifle Association]]
+related: ">- · [[DCCC Red-to-Blue Targets 2026]]"
 opposes: '[[Michael Waltz]] · [[Mark Green]]'
 cross-vault-triangulation-count: 8
 internal-notes: >-
