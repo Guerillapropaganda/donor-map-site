@@ -29,6 +29,7 @@ const NAV_ITEMS = [
   // Phase 2+ query engine + auth surfaces (added 2026-04-14)
   { href: "/sources", label: "Source Registry", icon: "globe" },
   { href: "/class-tags", label: "Class Tags", icon: "target" },
+  { href: "/policies", label: "Policies", icon: "book" },
   { href: "/query", label: "Query Engine", icon: "search" },
   { href: "/account", label: "Account", icon: "user" },
   { href: "/pricing", label: "Pricing", icon: "dollar" },
