@@ -160,7 +160,12 @@ function checkFile(filePath) {
   }
 
   // Gate 4: every {{src:ID}} ref must resolve to an OK status
-  const srcRefs = [...body.matchAll(/\{\{src:([a-z0-9_]+)\}\}/gi)]
+  // Strip backtick inline code + fenced code blocks so documentation
+  // examples like `{{src:ID}}` don't get counted as broken refs.
+  const bodyNoCode = body
+    .replace(/```[\s\S]*?```/g, "")
+    .replace(/`[^`\n]*`/g, "")
+  const srcRefs = [...bodyNoCode.matchAll(/\{\{src:([a-z0-9_]+)\}\}/gi)]
   const OK_STATUSES = new Set(["live", "archived"])
   const refStatusCounts = {}
   for (const match of srcRefs) {
