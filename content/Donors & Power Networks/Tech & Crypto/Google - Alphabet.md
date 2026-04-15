@@ -7,6 +7,11 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Corporation
+aliases:
+  - "Google"
+  - "Alphabet"
+  - "Alphabet Inc"
+  - "Google / Alphabet Inc."
 politicians-funded: "[[Richard Blumenthal]], [[Barack Obama]], [[Amy Klobuchar]], [[Chuck Schumer]], [[Zoe Lofgren]], [[Nancy Pelosi]], [[Ro Khanna]], [[Kamala Harris]], [[Donald Trump]]"
 issues:
   - Technology

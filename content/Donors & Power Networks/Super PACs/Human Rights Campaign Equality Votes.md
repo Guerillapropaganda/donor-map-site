@@ -13,11 +13,6 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Tammy Baldwin]]"
-ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
-ofac-programs:
-  - "SDGT"
-  - "ICC-EO14203"
 related: "[[Tammy Baldwin]]"
 ---
 

@@ -3,7 +3,7 @@ title: Ed Markey
 type: politician
 content-readiness: ready
 central-thesis: Ed Markey is the telecom law architect who became the Green New Deal's Senate champion — a 50-year career arc from writing the laws that built the internet economy to proposing the framework to decarbonize it. His donor profile reflects the tensio...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -33,7 +33,7 @@ website: https://www.markey.senate.gov
 phone: 202-224-2742
 related: "[[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]] · [[_Richard Blumenthal Master Profile|Richard Blumenthal]]"
 top-donors: "[[Sierra Club Independent Action]], [[League of Conservation Voters]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Political Committee]]"
-donors: "[[Sierra Club Political Committee]]"
+donors: "[[Sierra Club Political Committee]], [[League of Conservation Voters]], [[Sierra Club Independent Action]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[National Committee to Preserve Social Security PAC]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]]"
 ---
 
 <!-- auto:data-panel start -->

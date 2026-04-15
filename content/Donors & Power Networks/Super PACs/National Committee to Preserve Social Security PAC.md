@@ -13,15 +13,6 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Ron Wyden]], [[Ed Markey]], [[Bobby Scott]]"
-ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
-ofac-programs:
-  - "BALKANS"
-  - "IRAN-TRA"
-  - "IRAN-EO13846"
-  - "BELARUS"
-  - "RUSSIA-EO14024"
-  - "GLOMAG"
 related: "[[Bobby Scott]]"
 ---
 

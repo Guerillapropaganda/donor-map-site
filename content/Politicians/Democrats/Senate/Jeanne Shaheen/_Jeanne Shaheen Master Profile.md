@@ -32,7 +32,7 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]] · [[Martin Heinrich]]"
-donors: "[[Independent Leadership for New Hampshire PAC]]"
+donors: "[[Independent Leadership for New Hampshire PAC]], [[INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC]], [[ENDING SPENDING ACTION FUND]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[National Republican Senatorial Committee]], [[AMERICAN CROSSROADS]], [[COUNCIL FOR AMERICAN JOB GROWTH]], [[BAE Systems]], [[Northrop Grumman]], [[Defense Industry]], [[American Crossroads]], [[Council for American Job Growth]]"
 ---
 
 <!-- auto:data-panel start -->

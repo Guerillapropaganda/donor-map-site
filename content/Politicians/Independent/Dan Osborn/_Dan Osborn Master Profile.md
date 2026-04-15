@@ -24,7 +24,7 @@ cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "33492.00"
-donors: "[[Retire Career Politicians]]"
+donors: "[[Retire Career Politicians]], [[Labor Unions]], [[Heartland Resurgence]], [[Railroaders for Public Safety]], [[ActBlue]], [[Senate Leadership Fund]], [[ESAFUND]], [[Senate Majority PAC]]"
 ---
 
 <!-- auto:data-panel start -->

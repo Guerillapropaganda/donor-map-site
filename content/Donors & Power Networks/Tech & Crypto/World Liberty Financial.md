@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Corporation
-politicians-funded: "[[Donald Trump]], [[Jared Kushner]], [[David Sacks]], [[Steve Witkoff]], [[David Sacks (Donor Network)]]"
+politicians-funded: "[[Donald Trump]], [[Jared Kushner]], [[David Sacks]], [[Steve Witkoff]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
 issues:
   - Technology
 nhtsa-recalls: 0

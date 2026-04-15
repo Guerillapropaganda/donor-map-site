@@ -13,11 +13,6 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Maxine Waters]]"
-ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
-ofac-programs:
-  - "DPRK3"
-  - "ILLICIT-DRUGS-EO14059"
 related: "[[Maxine Waters]]"
 ---
 

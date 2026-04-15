@@ -46,6 +46,8 @@ opposes: '[[Elizabeth Warren Master Profile]]'
 aliases:
   - "FAIRSHAKE"
   - "FF PAC"
+  - "Fairshake"
+  - "Fairshake PAC - Crypto Super PAC"
 ---
 
 <!-- auto:data-panel start -->

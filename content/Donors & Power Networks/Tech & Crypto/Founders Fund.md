@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Individual Donor
-politicians-funded: "[[Donald Trump]], [[David Sacks (Donor Network)]], [[JD Vance]], [[David Sacks]]"
+politicians-funded: "[[Donald Trump]], [[David Sacks]], [[JD Vance]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
 issues:
   - Technology
   - Defense & Military

@@ -3,7 +3,7 @@ title: Bennie Thompson
 type: politician
 content-readiness: ready
 central-thesis: Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -15,8 +15,8 @@ committees:
   - Homeland Security
 leadership-roles:
   - Ranking Member
-total-received: $608,726
-fec-candidate-id: H4MS02068
+total-received: "$608,726"
+fec-candidate-id: "H4MS02068"
 bioguide-id: T000193
 govtrack-id: 400402
 bills-sponsored: 14

@@ -41,7 +41,7 @@ issues:
   - Native Americans
   - Science, Technology, Communications
   - Taxation
-donors: "[[MoveOn.org Political Action]]"
+donors: "[[MoveOn.org Political Action]], [[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[Climate Hawks Vote]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]], [[International Longshore and Warehouse Union -- Political Action Fund]]"
 ---
 
 <!-- auto:data-panel start -->

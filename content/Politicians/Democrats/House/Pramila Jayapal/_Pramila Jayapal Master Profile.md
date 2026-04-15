@@ -3,7 +3,7 @@ title: Pramila Jayapal
 type: politician
 content-readiness: ready
 central-thesis: "Jayapal represents the progressive wing's structural challenge: the CPC has enough numerical power to block any bill that Democratic leadership wants to pass, but has never successfully sustained that leverage when party leadership applies direct ..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Democrat
@@ -48,7 +48,7 @@ editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: ready-candidate
 editorial-notes: "Depth review 2026-04-10. Body NOT touched — central thesis ('CPC leverage is real in theory and paper-thin in practice') + Build Back Better case study + WA-7 Amazon contradiction are strong analytical frame. bioguide-id J000298 already set, Congress source-type present, FEC data present. FIXED (Research Claude): expanded committees to include Budget + flagged Antitrust Subcommittee former Chair role, added former-roles for CPC Chair 2021-2024, restructured issues to lead with Medicare for All (her signature) and immigration (her origin), expanded top-donors to acknowledge small-dollar / ActBlue pattern, added structured opposes (Amazon/Microsoft antitrust targets — the WA-7 contradiction the body describes), expanded related to include full Squad + CPC + relevant Big Tech targets, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 15+ wikilinks exist; removed 'No voting record data' in favor of specific 'GovTrack voting record not yet populated' phrasing so the janitor will catch it). REMOVED: body inline dataview 'donors: [[SEIU...]] [[CNA...]] [[ActBlue]]' per frontmatter-only rule. STAYS draft per tightened Vault Rules: GovTrack voting record missing, and BBB timeline + Amazon antitrust work need direct sourcing. Once GovTrack block lands and the BBB section is sourced, ready to promote to ready and flag verified-candidate. Not flagging needs-reenrichment since Congress data IS present — only GovTrack is missing, and the scheduled pipeline run will hit her on its normal rotation."
-donors: "[[United Food and Commercial Workers International Union Active Ballot Club]]"
+donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]], [[Planned Parenthood Votes Northwest]], [[PLANNED PARENTHOOD VOTES NORTHWEST]], [[UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB]], [[WOMEN VOTE!]], [[Oneamerica Votes]], [[National Nurses United for Patient Protection]], [[ONEAMERICA VOTES]]"
 ---
 
 <!-- auto:data-panel start -->

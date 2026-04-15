@@ -3,7 +3,7 @@ title: Patrick McHenry
 type: politician
 content-readiness: ready
 central-thesis: "Patrick McHenry's congressional career is the perfected architecture of Wall Street legislative capture: a Congressman who spent 20 years writing financial regulation that explicitly benefited his donors, then cashed out to those same donors' firm..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -39,7 +39,7 @@ bills-sponsored: 124
 bills-cosponsored: 1487
 related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
 bioguide-id: M001156
-donors: "[[Club for Growth INC PAC]]"
+donors: "[[Club for Growth INC PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[CLUB FOR GROWTH INC PAC]], [[Securities & Investment Industry]], [[FAIRSHAKE]], [[Kenneth Griffin]], [[Crypto Industry Bloc]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -3,7 +3,7 @@ title: Shelley Moore Capito
 type: politician
 content-readiness: ready
 central-thesis: Shelley Moore Capito chairs the committee that regulates the fossil fuel industry — and the fossil fuel industry is her largest donor class, her state's economic backbone, and her family's employer. The EPW Committee oversees the EPA, the Clean Ai...
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -44,7 +44,7 @@ known-gaps:
   - No mapped relationships
 opposes: "[[SENATE MAJORITY PAC]]"
 related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[Defending Main Street Superpac INC]]"
+donors: "[[Defending Main Street Superpac INC]], [[US CHAMBER OF COMMERCE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[TAKE ME HOME WV ACTION]], [[Senate Majority PAC]], [[DEFENDING MAIN STREET SUPERPAC INC]], [[US Chamber of Commerce]], [[Koch network]], [[Take Me Home WV Action]], [[Koch Network]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -48,7 +48,7 @@ wikidata-id: Q6288908
 wikipedia-url: https://en.wikipedia.org/wiki/Josh_Gottheimer
 wikipedia-extract: Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017.
 born: "1975-03-08"
-donors: "[[No Labels Action, Inc.]]"
+donors: "[[No Labels Action, Inc.]], [[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NO LABELS ACTION, INC.]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]"
 ---
 
 <!-- auto:data-panel start -->

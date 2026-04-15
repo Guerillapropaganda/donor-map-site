@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Individual Donor
-politicians-funded: "[[David Sacks (Donor Network)]], [[David Sacks]], [[Mark Warner]], [[Donald Trump]]"
+politicians-funded: "[[David Sacks]], [[Mark Warner]], [[Donald Trump]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
 issues:
   - Technology
 lobbying-spend: 1258000

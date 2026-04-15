@@ -3,7 +3,7 @@ title: Doug Burgum
 type: politician
 content-readiness: ready
 central-thesis: "Doug Burgum's trajectory , software entrepreneur → tech millionaire → North Dakota governor → Interior Secretary → 'energy czar' , represents the conversion of tech wealth into fossil fuel policy power. His content-readiness: ready.1 billion Microsoft exit funded a pol..."
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
 party: Republican
@@ -20,7 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] · [[_Lee Zeldin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[Ruralvote.org]]"
+donors: "[[Ruralvote.org]], [[Best of America PAC]], [[PRIORITIES USA ACTION]], [[Harold Hamm]], [[Koch Network - Charles Koch]]"
 ---
 
 <!-- auto:data-panel start -->
