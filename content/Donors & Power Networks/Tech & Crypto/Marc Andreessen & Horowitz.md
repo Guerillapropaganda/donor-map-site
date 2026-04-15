@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Individual Donor
-politicians-funded: "[[French Hill]], [[David Sacks]], [[Matt Mahan]], [[Katie Porter]], [[David Sacks (Donor Network)]], [[Donald Trump]], [[JD Vance]]"
+politicians-funded: "[[French Hill]], [[David Sacks]], [[Matt Mahan]], [[Katie Porter]], [[Donald Trump]], [[JD Vance]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]]"
 issues:
   - Technology
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Venture Capital Pipeline]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Matt Mahan Master Profile]] · [[The Silicon Valley Billionaire Donor Map]] · [[Fairshake and the Crypto Industry War]] · [[The California Corporate Democrat and Tech-Labor Tension]] · [[Ro Khanna Master Profile]] · [[Valinor Enterprises]] · [[French Hill]] · [[_JD Vance Master Profile]] · [[The 2024 Tech Billionaire Network]] · [[Peter Thiel]] · [[Crypto Industry Bloc]] · [[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[_Katie Porter Master Profile|Katie Porter]] · [[_David Sacks Master Profile|David Sacks]] · [[Narya Capital]] · [[Bari Weiss]] · [[Nate Silver]] · [[Cryptocurrency Industry]] · [[Think Big AI]] · [[Think Big AI PAC]] · [[Silicon Valley Donors]] · [[Coinbase]] · [[Ben Horowitz]] · [[AI Regulation and Tech Donors]]"

@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Tech & Crypto
 entity-type: Corporation
-politicians-funded: "[[French Hill]], [[Ted Cruz]], [[Jared Kushner]], [[Donald Trump]], [[David Sacks (Donor Network)]], [[Elizabeth Warren]], [[JD Vance]], [[David Sacks]], [[Howard Lutnick]], [[Katie Porter]], [[Patrick McHenry]]"
+politicians-funded: "[[French Hill]], [[Ted Cruz]], [[Jared Kushner]], [[Donald Trump]], [[David Sacks]], [[Elizabeth Warren]], [[JD Vance]], [[Howard Lutnick]], [[Katie Porter]], [[Patrick McHenry]], [[David Sacks (Donor Network)]], [[David Sacks - Donor Network]]"
 issues:
   - Technology
 subawards-issued: 50

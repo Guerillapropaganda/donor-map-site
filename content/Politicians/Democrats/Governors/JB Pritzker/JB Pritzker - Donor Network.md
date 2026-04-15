@@ -1,6 +1,7 @@
 ---
-title: JB Pritzker (Donor Network)
-type: donor
+title: JB Pritzker - Donor Network
+type: sub-note
+parent-profile: "[[_JB Pritzker Master Profile|JB Pritzker]]"
 content-readiness: ready
 last-updated: "2026-04-14"
 source-tier: 1

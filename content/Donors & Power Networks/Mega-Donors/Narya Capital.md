@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
-politicians-funded: "[[JD Vance]], [[David Sacks]], [[David Sacks (Donor Network)]]"
+politicians-funded: "[[JD Vance]], [[David Sacks]], [[David Sacks - Donor Network]], [[David Sacks (Donor Network)]]"
 issues:
   - Technology
   - Defense & Military

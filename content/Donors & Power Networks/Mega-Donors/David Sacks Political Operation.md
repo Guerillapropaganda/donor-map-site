@@ -1,6 +1,8 @@
 ---
 title: "David Sacks Political Operation (Redirect)"
-type: donor
+type: redirect
+editorial-status: redirect
+redirect-target: "[[_David Sacks Master Profile|David Sacks]]"
 content-readiness: draft
 last-updated: 2026-04-01
 source-tier: null

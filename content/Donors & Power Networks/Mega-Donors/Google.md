@@ -1,6 +1,8 @@
 ---
 title: "Google / Alphabet Inc. (Redirect)"
-type: corporation
+type: redirect
+editorial-status: redirect
+redirect-target: "[[Google - Alphabet]]"
 content-readiness: draft
 last-updated: 2026-04-09
 source-tier: null

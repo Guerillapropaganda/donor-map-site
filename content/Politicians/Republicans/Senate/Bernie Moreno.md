@@ -16,7 +16,7 @@ website: https://www.moreno.senate.gov
 phone: 202-224-2315
 total-received: $1,879,101
 fec-candidate-id: S4OH00192
-donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]] · [[David Sacks (Donor Network)]] · [[Buckeye Leadership Fund, Inc.]] · [[WinSenate]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Senate Leadership Fund]] · [[Defend American Jobs]]"
+donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]] · [[Buckeye Leadership Fund, Inc.]] · [[WinSenate]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Senate Leadership Fund]] · [[Defend American Jobs]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 related: "[[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
