@@ -9,7 +9,7 @@ authority: Pillar 2b migration
 
 # FEC Unmatched Committees
 
-Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **267** unique committees / **373** rows.
+Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **265** unique committees / **371** rows.
 
 **Fix**: add an `aliases:` entry to the parent profile's frontmatter (the `buildTitleIndex` walker reads it), or create a stub profile for the committee. Re-run `migrate-fec-body-tables-to-edges.cjs --write` to pick up the new mapping.
 
@@ -17,7 +17,6 @@ Sorted by total dollar volume (support + oppose).
 
 | Committee | Count | Support $ | Oppose $ | Example politicians |
 |-----------|-------|-----------|----------|---------------------|
-| FIGHT RIGHT INC | 1 | $0 | $18,881,648 | Nikki Haley |
 | ALABAMA CONSERVATIVES FUND | 1 | $6,460,099 | $0 | Katie Britt |
 | TELL IT LIKE IT IS PAC | 1 | $5,854,979 | $0 | Chris Christie |
 | 314 ACTION FUND | 2 | $0 | $5,775,346 | Nancy Mace, Lee Zeldin |
@@ -34,7 +33,6 @@ Sorted by total dollar volume (support + oppose).
 | NOW OR NEVER PAC | 2 | $0 | $3,992,413 | Tammy Duckworth, James Lankford |
 | FUTURE45 | 3 | $0 | $3,825,473 | Maxine Waters, Nancy Pelosi, Elizabeth Warren |
 | HEARTLAND RESURGENCE | 1 | $0 | $3,787,060 | Dan Osborn |
-| FREEDOMWORKS FOR AMERICA | 1 | $30,511 | $3,649,440 | Tammy Duckworth |
 | NATIONAL VICTORY ACTION FUND | 3 | $3,515,000 | $0 | Bill Hagerty, John Barrasso, Elise Stefanik |
 | UNITED DEMOCRACY PROJECT (UDP) | 2 | $223,200 | $3,205,379 | Shontel Brown, Summer Lee |
 | AMERICAN DREAM FEDERAL ACTION | 1 | $3,310,471 | $0 | Katie Britt |
