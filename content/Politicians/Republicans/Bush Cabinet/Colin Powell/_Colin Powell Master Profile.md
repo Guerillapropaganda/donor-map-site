@@ -3,7 +3,7 @@ title: Colin Powell
 type: politician
 content-readiness: draft
 central-thesis: Colin Powell's career demonstrates how credibility operates as political currency for the donor class. His military authority, his status as 'the most trusted man in America,' and his African American identity made him uniquely valuable to the Bus...
-last-updated: 2026-04-07T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -20,6 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"
+donors: "[[Washington Citizens for Colin Powell]]"
 ---
 
 <!-- auto:data-panel start -->

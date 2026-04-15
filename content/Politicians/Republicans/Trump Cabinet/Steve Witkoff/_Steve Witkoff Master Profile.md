@@ -3,7 +3,7 @@ title: Steve Witkoff
 type: politician
 content-readiness: ready
 central-thesis: Witkoff is the purest embodiment of the Trump administration's merger of personal profit and public diplomacy. As Middle East envoy, he negotiates with the same Gulf state leaders whose sovereign wealth funds invest in his business ventures and th...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -20,7 +20,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]]"
+related: "[[_Donald Trump Master Profile|Trump]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[World Liberty Financial]] · [[Crypto Industry Bloc]] · [[Real Estate Development Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[David Sacks (Donor Network)]]"
 wikidata-id: Q16189572
 wikipedia-url: https://en.wikipedia.org/wiki/Steve_Witkoff
 wikipedia-extract: Steven Charles Witkoff is an American real estate developer, investor, and founder of the Witkoff Group.

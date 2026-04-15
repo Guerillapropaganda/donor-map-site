@@ -3,7 +3,7 @@ title: Adam Smith
 type: politician
 content-readiness: ready
 central-thesis: Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,7 +31,7 @@ top-donors:
   - Northrop Grumman
   - Raytheon
   - Lockheed Martin
-fec-candidate-id: H6WA09025
+fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[SUSAN B ANTHONY LIST INC]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[NARAL]] · [[TOGETHER FOR PROGRESS PAC]] · [[THE 60 PLUS ASSOCIATION]] · [[PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT]] · [[The 60 Plus Association]] · [[Together for Progress PAC]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Raytheon]]"
 last-enriched: "2026-04-15"
@@ -50,7 +50,7 @@ total-raised: $786,535
 total-spent: $659,320
 cash-on-hand: "697967.61"
 fec-cycle: 2026
-total-received: $786,535
+total-received: "$786,535"
 ---
 
 <!-- auto:data-panel start -->

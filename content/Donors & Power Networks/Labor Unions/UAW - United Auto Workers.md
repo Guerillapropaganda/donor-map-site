@@ -2,7 +2,7 @@
 title: UAW - United Auto Workers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Labor Unions
@@ -21,7 +21,7 @@ ein: "340200249"
 annual-revenue: $104K
 net-assets: $180K
 tax-year: "2016"
-related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]] · [[Ohio 2026 Special Senate Election]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Debbie Stabenow Master Profile|Stabenow]] · [[_Sherrod Brown Master Profile|Sherrod Brown]] · [[_Joe Biden Master Profile|Biden]] · [[_Kamala Harris Master Profile|Harris]] · [[_Donald Trump Master Profile|Trump]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Frank Pallone]] · [[United Auto Workers]] · [[General Motors]] · [[Ford Motor Company]]"
+related: "[[Michigan 2026 Senate Race]] · [[Gary Peters Master Profile]] · [[Ohio 2026 Special Senate Election]] · [[AFL-CIO]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Debbie Stabenow Master Profile|Stabenow]] · [[_Sherrod Brown Master Profile|Sherrod Brown]] · [[_Joe Biden Master Profile|Biden]] · [[_Kamala Harris Master Profile|Harris]] · [[_Donald Trump Master Profile|Trump]] · [[Pete Aguilar]] · [[Mark Takano]] · [[Frank Pallone]] · [[United Auto Workers]] · [[General Motors]] · [[Ford Motor Company]] · [[Tammy Baldwin]]"
 nonprofit-status: 501(c)(5)
 last-enriched: "2026-04-09"
 total-political-spend: $3,283,200

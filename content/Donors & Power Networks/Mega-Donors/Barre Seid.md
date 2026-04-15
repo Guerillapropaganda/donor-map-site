@@ -2,7 +2,7 @@
 title: Barre Seid
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -16,7 +16,7 @@ nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-11"
 total-revenue: 701289
 total-assets: 279469
-related: "[[Federalist Society]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Sentinel Action Fund]] · [[_Clarence Thomas Master Profile|Thomas]]"
+related: "[[Federalist Society]] · [[Leonard Leo]] · [[Marble Freedom Trust]] · [[The 85 Fund]] · [[Sentinel Action Fund]] · [[_Clarence Thomas Master Profile|Thomas]] · [[Rand Paul]]"
 total-political-spend: $266,480
 cross-vault-triangulation-count: 6
 audit-a-plus-passed: "2026-04-11"

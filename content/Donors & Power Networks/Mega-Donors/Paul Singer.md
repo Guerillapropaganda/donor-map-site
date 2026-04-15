@@ -2,7 +2,7 @@
 title: Paul Singer
 type: donor
 content-readiness: ready
-last-updated: 2026-04-11T00:00:00.000Z
+last-updated: 2026-04-15
 aliases:
   - Paul Singer
   - Elliott Management
@@ -34,7 +34,7 @@ court-jurisdictions:
 lobbying-spend: 1268033
 lobbying-filings: 104
 total-political-spend: $16,466,849
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Winning for Women PAC]] · [[Great Lakes Conservatives Fund]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Winning for Women PAC]] · [[Great Lakes Conservatives Fund]] · [[Michael Whatley]]"
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 ---

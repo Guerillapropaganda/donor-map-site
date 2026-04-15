@@ -2,10 +2,10 @@
 title: "The Pritzker Machine and Illinois Democratic Power"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]]"
+related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]] · [[JB Pritzker (Donor Network)]]"
 ---
 #pritzker #illinois-machine #billionaire-politics #campaign-finance #2026-senate
 

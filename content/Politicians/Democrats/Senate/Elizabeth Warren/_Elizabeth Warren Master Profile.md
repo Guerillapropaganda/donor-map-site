@@ -2,7 +2,7 @@
 title: Elizabeth Warren
 type: politician
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -46,7 +46,7 @@ known-gaps:
   - GovTrack voting record not yet populated (awaits pipeline run)
   - CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)
   - Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration
-related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]]"
+related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]] · [[The Warren Pipeline - Consumer Protection to Governor]]"
 opposes: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude

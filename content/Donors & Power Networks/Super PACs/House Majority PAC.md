@@ -26,7 +26,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - 10-K
-related: ">- · [[DCCC Red-to-Blue Targets 2026]] · [[Master Donor Database]]"
+related: ">- · [[DCCC Red-to-Blue Targets 2026]] · [[Master Donor Database]] · [[Mario Diaz-Balart]]"
 opposes: '[[Michael Waltz]] · [[Mark Green]]'
 cross-vault-triangulation-count: 8
 internal-notes: >-

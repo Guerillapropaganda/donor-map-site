@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 aliases:
   - AMERICAN CROSSROADS
@@ -13,6 +13,7 @@ known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Raphael Warnock]] · [[John Fetterman]]"
 politicians-funded: "[[Paul Ryan]], [[Harry Reid]], [[Jeanne Shaheen]], [[Sherrod Brown]], [[Raphael Warnock]], [[Mitt Romney]], [[John Fetterman]], [[Rick Larsen]]"
+related: "[[Mitt Romney]]"
 ---
 
 ## Auto-Created Stub

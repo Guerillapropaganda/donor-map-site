@@ -3,7 +3,7 @@ title: Ron DeSantis
 type: politician
 content-readiness: ready
 central-thesis: DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for Growth-aligned donors rallied ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -27,7 +27,7 @@ known-gaps:
 executive-actions: 25
 last-enriched: "2026-04-10"
 opposes: "[[SFA FUND, INC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"
-related: ">- · [[Florida 2026 Special Senate Election]] · [[Ready to Win]]"
+related: ">- · [[Florida 2026 Special Senate Election]] · [[Ready to Win]] · [[Ken Griffin]]"
 opensanctions-status: pep
 opensanctions-matches: 1
 opensanctions-datasets:

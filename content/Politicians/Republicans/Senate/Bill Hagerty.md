@@ -5,7 +5,7 @@ chamber: Senate
 party: Republican
 content-readiness: ready
 central-thesis: Hagerty exemplifies the private equity-to-political-appointment-to-elected-office pipeline. His donor base is Blackstone, private equity networks, and Trump mega-donors seeking financial sector favorability. The Trump ambassador credential was pol...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 bioguide-id: H000601
@@ -25,6 +25,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]]"
 top-donors: "[[Standing With Conservatives]], [[NATIONAL VICTORY ACTION FUND]], [[SENATE CONSERVATIVES FUND]], [[WINNING RIGHT PAC]], [[Winning Right PAC]], [[Senate Conservatives Fund]], [[National Victory Action Fund]]"
+donors: "[[Winning Right PAC]]"
 ---
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis
 tags: #republican

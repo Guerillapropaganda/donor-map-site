@@ -2,7 +2,7 @@
 title: Pharmaceutical Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Pharma & Healthcare
@@ -42,7 +42,7 @@ sec-form-types:
   - PX14A6G
   - S-1
   - S-1/A
-related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Dick Durbin]] · [[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Gilead Sciences]] · [[Moderna]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Insurance Industry]] · [[Healthcare Sector]] · [[Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides]]"
+related: "[[Pam Bondi Master Profile]] · [[Kyrsten Sinema Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Barack Obama Master Profile]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Dick Durbin]] · [[Pharmaceutical Industry Bloc]] · [[PhRMA]] · [[Gilead Sciences]] · [[Moderna]] · [[AbbVie]] · [[Eli Lilly]] · [[Merck]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Insurance Industry]] · [[Healthcare Sector]] · [[Contradiction 03 - PhRMA Kills Drug Negotiation From Both Sides]] · [[Bernie Sanders]]"
 federal-register-mentions: 623
 last-enriched: "2026-04-08"
 needs-reenrichment: true

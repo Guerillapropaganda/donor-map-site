@@ -2,7 +2,7 @@
 title: Larry Ellison
 type: donor
 content-readiness: draft
-last-updated: 2026-04-10T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -21,7 +21,7 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-10"
 total-political-spend: $10,212
-related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]]"
+related: "[[_Donald Trump Master Profile]] · [[Oracle]] · [[Steve Scalise]] · [[Marco Rubio]]"
 federal-register-mentions: 2
 regulatory-agencies:
   - Fish and Wildlife Service

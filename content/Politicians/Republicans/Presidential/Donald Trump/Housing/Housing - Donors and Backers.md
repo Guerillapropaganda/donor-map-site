@@ -2,10 +2,10 @@
 title: "Housing - Donors and Backers"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[3.5 Million Units - Broken Promise]] · [[California Apartment Association]] · [[The Real Estate President and the Fair Housing Demolition]] · [[National Association of Realtors]] · [[_Donald Trump Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
+related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[3.5 Million Units - Broken Promise]] · [[California Apartment Association]] · [[The Real Estate President and the Fair Housing Demolition]] · [[National Association of Realtors]] · [[_Donald Trump Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]]"
 ---
 #donald-trump #housing #donors #backers #real-estate #nar #opportunity-zones #kushner #lefrak #developers #follow-the-money #research-node
 

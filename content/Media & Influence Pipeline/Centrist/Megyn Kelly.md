@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
 ---
 
 #media-pipeline #centrist #independence-theater #revolving-door #fox-news #conservative-media

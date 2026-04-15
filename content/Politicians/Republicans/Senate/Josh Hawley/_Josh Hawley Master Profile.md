@@ -3,7 +3,7 @@ title: Josh Hawley
 type: politician
 content-readiness: ready
 central-thesis: "Josh Hawley is the MAGA donor class's prototype for a new kind of Republican: the manufactured populist. His 2018 election was funded by $20.7M from McConnell's Senate Leadership Fund and $3.9M from the Koch network. His January 6 fist pump , whic..."
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Republican
@@ -28,6 +28,7 @@ last-enriched: "2026-04-10"
 govtrack-id: 405245
 bills-sponsored: 0
 bills-cosponsored: 0
+donors: "[[Patriots Prevail PAC]]"
 ---
 
 <!-- auto:data-panel start -->

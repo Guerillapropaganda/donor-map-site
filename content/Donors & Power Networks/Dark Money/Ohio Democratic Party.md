@@ -2,7 +2,7 @@
 title: Ohio Democratic Party
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -34,7 +34,7 @@ sec-form-types:
   - DEF 14A
 total-political-spend: $9,177,680
 politicians-funded: "[[Richard Neal]], [[Amy Acton]], [[Sherrod Brown]]"
-related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]] · [[The Healthcare Platform and the Insurance Industry Question]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[New Venture Fund]]"
+related: "[[Ohio Federation of Teachers]] · [[Amy Acton Master Profile]] · [[Democratic Donor Network]] · [[Sherrod Brown]] · [[UAW - United Auto Workers|UAW]] · [[Democratic Party Infrastructure]] · [[AFL-CIO]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[Senate Majority PAC]] · [[ActBlue]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]] · [[The Healthcare Platform and the Insurance Industry Question]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
 ein: "273554312"
 nonprofit-status: tax-exempt
 fara-status: registrant

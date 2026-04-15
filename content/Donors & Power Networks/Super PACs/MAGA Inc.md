@@ -29,7 +29,7 @@ nonprofit-status: 501(c)(4)
 sec-filings: 1
 sec-form-types:
   - D
-related: ">- · [[Tulsi Gabbard]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]]"
+related: ">- · [[Tulsi Gabbard]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Linda McMahon]]"
 wikidata-id: Q123281082
 wikipedia-url: 'https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc.'
 wikipedia-extract: >-

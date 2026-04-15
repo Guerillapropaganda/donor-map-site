@@ -152,6 +152,19 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-15 20:49 UTC — 7 profiles
+
+**FEC — 7 profiles:**
+- Adam Smith — 2026 raised $786,535
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045
+- Ayanna Pressley — 2026 raised $687,535
+- Barbara Lee — 2024 raised $375,046
+- Bennie Thompson — 2026 raised $608,726
+- Bobby Scott — 2026 raised $290,963
+- California Farm Bureau Federation — total political spend $892,442
+
+---
 ## 2026-04-15 17:02 UTC — 2 profiles
 
 **fda-enforcement — 2 profiles:**

@@ -3,7 +3,7 @@ title: Gavin Newsom
 type: politician
 content-readiness: ready
 central-thesis: "Newsom is the perfect specimen of the donor-class Democrat: genuinely progressive on social and cultural issues (immigration, LGBTQ rights, abortion, gun control), reliably capital-aligned on economic structure (taxes on wealth, corporate subsidie..."
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,7 +31,7 @@ known-gaps:
   - No mapped relationships
 executive-actions: 10
 last-enriched: "2026-04-09"
-related: ">- · [[Alex Padilla]] · [[CalPERS]]"
+related: ">- · [[Alex Padilla]] · [[CalPERS]] · [[JB Pritzker (Donor Network)]]"
 donors: "[[CalSTRS - California State Teachers' Retirement System]] · [[CalPERS]] · [[California Nurses Association]] · [[Chevron]] · [[Lyft]] · [[Lennar Corporation]] · [[Western States Petroleum Association]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[IBEW California State Association]] · [[Dustin Moskovitz]] · [[California Restaurant Association]] · [[George Soros]] · [[Elon Musk]] · [[Eli Broad Foundation]] · [[Koch Network - Charles Koch]] · [[Teamsters - International Brotherhood of Teamsters]] · [[PG&E - Pacific Gas and Electric]] · [[National Association of Realtors]] · [[Kaiser Permanente]] · [[Agricultural Labor Vulnerability Donors]] · [[Open Society Foundations]] · [[Anthem - Elevance Health]] · [[California Building and Construction Trades Council]] · [[Michael Bloomberg]] · [[Reid Hoffman]] · [[CTA - California Teachers Association]] · [[California Apartment Association]] · [[SEIU - Service Employees International Union]] · [[UFCW - United Food and Commercial Workers]] · [[Bail Bond Industry]] · [[California Labor Federation]] · [[DoorDash]] · [[AIPAC - American Israel Public Affairs Committee]] · [[GEO Group - Private Prison Industrial Complex]] · [[Uber]] · [[Real Estate Development Industry Bloc]] · [[CNA - California Nurses Association]] · [[UnitedHealth Group - Optum]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Civica Rx]] · [[Fossil Fuel Bloc]] · [[CoreCivic]] · [[PG&E]] · [[JCRC Bay Area]] · [[PORAC - Peace Officers Research Association of California]] · [[Blue Shield of California]] · [[WSPA - Western States Petroleum Association]] · [[Haim Saban]] · [[California Charter Schools Association]]"
 ---
 

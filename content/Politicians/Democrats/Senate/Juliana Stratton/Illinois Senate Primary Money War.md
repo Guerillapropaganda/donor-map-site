@@ -2,10 +2,10 @@
 title: "Illinois Senate Primary Money War"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-03-24
+last-updated: 2026-04-15
 source-tier: 2
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Corporate PAC Pledge and Its Limits]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]]"
+related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Corporate PAC Pledge and Its Limits]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[JB Pritzker (Donor Network)]]"
 ---
 #juliana-stratton #illinois-2026 #campaign-finance #primary
 

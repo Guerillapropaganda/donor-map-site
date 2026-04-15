@@ -2,7 +2,7 @@
 title: Raytheon (RTX Corporation)
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Defense & Intelligence
@@ -27,7 +27,7 @@ subawards-received-amount: 51876611853
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-08"
-related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[DoorDash]] · [[Johnson & Johnson]]"
+related: "[[Palantir Technologies Political Operation]] · [[Roger Wicker]] · [[Rosa DeLauro]] · [[John Barrasso]] · [[Steve Scalise]] · [[Mike Rogers]] · [[Adam Smith]] · [[Booz Allen Hamilton]] · [[Raytheon Technologies]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[_Donald Trump Master Profile|Trump]] · [[_Lloyd Austin Master Profile|Lloyd Austin]] · [[_Mark Esper Master Profile|Mark Esper]] · [[Defense Contractors Bloc]] · [[ExxonMobil]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[DoorDash]] · [[Johnson & Johnson]] · [[Novo Nordisk]]"
 lobbying-spend: 2200000
 lobbying-filings: 50
 cross-vault-triangulation-count: 18

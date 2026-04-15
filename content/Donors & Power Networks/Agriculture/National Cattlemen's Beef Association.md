@@ -2,7 +2,7 @@
 title: National Cattlemen's Beef Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Agriculture
@@ -43,7 +43,7 @@ regulatory-agencies:
   - Fish and Wildlife Service
   - Food Safety and Inspection Service
   - Interior Department
-related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
+related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
 nonprofit-status: 501(c)(6)
 total-revenue: 56531773
 total-assets: 37287895

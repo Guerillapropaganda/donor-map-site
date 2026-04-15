@@ -3,7 +3,7 @@ title: Alex Padilla
 type: politician
 content-readiness: ready
 central-thesis: Alex Padilla is the rare case of a committee assignment that matches expertise rather than donor interest. As California's former Secretary of State, he actually administered elections — implemented automatic voter registration, expanded vote-by-m...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -55,6 +55,7 @@ cash-on-hand: "7177222.88"
 fec-cycle: 2028
 fec-debt: "225.58"
 top-donors: "[[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[CARE ACTION NOW INC.]], [[DOLORES HUERTA ACTION FUND]], [[DEMOCRATIC ALLIANCE FOR ACTION]], [[Care Action Now Inc.]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Democratic Alliance for Action]], [[Dolores Huerta Action Fund]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]]"
+donors: "[[Dolores Huerta Action Fund]]"
 ---
 
 <!-- auto:data-panel start -->

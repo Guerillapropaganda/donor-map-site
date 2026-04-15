@@ -2,7 +2,7 @@
 title: Small Dollar Donors - ActBlue
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -10,7 +10,7 @@ entity-type: Individual Donor
 politicians-funded: "[[Alexandria Ocasio-Cortez]], [[Bernie Sanders]]"
 issues:
   - Infrastructure
-related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[New Venture Fund]]"
+related: "[[Saikat Chakrabarti Master Profile]] · [[The Small-Dollar Model and the Anti-Donor Experiment]] · [[The Green New Deal - From Resolution to Reality]] · [[ActBlue]] · [[Democratic Small Dollar Networks]] · [[_Bernie Sanders Master Profile|Sanders]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Democratic Party Infrastructure]] · [[WinRed]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
 cross-vault-triangulation-count: 10
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines

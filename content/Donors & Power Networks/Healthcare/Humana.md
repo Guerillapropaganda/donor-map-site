@@ -25,7 +25,7 @@ court-jurisdictions:
   - "District Court, S.D. Texas"
   - "District Court, W.D. Kentucky"
   - "United States Bankruptcy Court, W.D. Kentucky"
-related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]]"
+related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]]"
 federal-awards-total: 4870581193
 federal-contracts-count: 3
 federal-grants-count: 12

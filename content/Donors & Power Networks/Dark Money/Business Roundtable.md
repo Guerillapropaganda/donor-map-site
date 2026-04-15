@@ -2,7 +2,7 @@
 title: Business Roundtable
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -30,7 +30,7 @@ regulatory-agencies:
   - Safety and Environmental Enforcement Bureau
   - Securities and Exchange Commission
   - Veterans Employment and Training Service
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]]"
 sec-filings: 10000
 sec-form-types:
   - 8-K
