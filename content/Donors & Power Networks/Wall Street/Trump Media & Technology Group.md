@@ -2,7 +2,7 @@
 title: "Trump Media & Technology Group"
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Wall Street"
@@ -11,7 +11,7 @@ politicians-funded:
   - "Donald Trump"
 federal-contracts: "960966"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 ofac-programs:
@@ -109,7 +109,7 @@ TMTG's political significance is structural: the company gives Trump personal fi
 
 - [[Donald Trump]] — contracts: $961K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening
@@ -129,7 +129,7 @@ TMTG's political significance is structural: the company gives Trump personal fi
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

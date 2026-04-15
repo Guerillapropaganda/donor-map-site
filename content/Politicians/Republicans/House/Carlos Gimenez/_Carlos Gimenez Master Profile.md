@@ -309,7 +309,7 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 
 - [[MasTec - Mas Canosa Family]] — $180K lobbying spend (Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

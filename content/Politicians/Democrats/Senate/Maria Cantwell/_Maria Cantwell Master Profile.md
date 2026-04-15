@@ -3,7 +3,7 @@ title: "Maria Cantwell"
 type: politician
 content-readiness: ready
 central-thesis: "Maria Cantwell is the tech-aerospace industry's Senate anchor , a former tech executive who chairs the committee with jurisdiction over the industries that dominate her state's economy. She receives more campaign donations from the airline and tel..."
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -287,7 +287,7 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-14 -->
+<!-- auto:stock-trades pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

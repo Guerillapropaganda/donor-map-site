@@ -2,7 +2,7 @@
 title: "Environmental Law & Policy Center"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -108,7 +108,7 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F363866530_202306_990_2024061122523505.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+<!-- auto:propublica-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

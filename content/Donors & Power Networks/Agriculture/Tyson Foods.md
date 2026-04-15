@@ -2,7 +2,7 @@
 title: "Tyson Foods"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -200,7 +200,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -219,7 +219,7 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 
 - [[John Boozman]] (Agriculture, Appropriations) — lobbying: $5.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -503,7 +503,7 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=10_2020_prefixes_47-52%2F476014039_201912_990PR_2020102017391100.pdf)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+<!-- auto:propublica-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -551,7 +551,7 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
-<!-- auto:gleif-lei pending-merge 2026-04-14 -->
+<!-- auto:gleif-lei pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -588,7 +588,7 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
-<!-- auto:lda-lobbying pending-merge 2026-04-14 -->
+<!-- auto:lda-lobbying pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

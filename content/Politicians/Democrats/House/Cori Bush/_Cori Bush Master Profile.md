@@ -3,7 +3,7 @@ title: "Cori Bush"
 type: politician
 content-readiness: ready
 central-thesis: "Bush's political trajectory is a case study in how the donor class neutralizes progressive insurgents through a multi-pressure vector strategy. The triggering event is legible in the Congressional record: on October 25, 2023, Bush introduced H.Res..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -64,7 +64,7 @@ checklist-na:
 known-gaps:
   - 2026 comeback campaign ongoing — state-level polling and endorsements not yet fully documented
   - Federal indictment (Aug 2025) outcome pending — court filings need citation once resolved
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
@@ -386,6 +386,43 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - {{src:src_006283}} (Tier 1)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $534,492 |
+| Individual Contributions | $377,596 |
+| Cash on Hand | 203864.16 |
+| IE Support (Super PAC) | $4,401,980 |
+| IE Opposition (Super PAC) | $13,968,928 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $534,492 | $377,596 | $0 |
+| 2024 | $4,165,846 | $2,501,283 | $206,609 |
+| 2022 | $2,448,937 | $1,044,344 | $144,949 |
+| 2020 | $1,429,837 | $527,593 | $116,849 |
+| 2018 | $177,038 | $44,763 | $3,832 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| UNITED DEMOCRACY PROJECT ('UDP') | $0 | $9,956,554 |
+| FAIRSHAKE | $0 | $2,789,872 |
+| JUSTICE DEMOCRATS PAC | $2,755,000 | $0 |
+| MAINSTREAM DEMOCRATS PAC | $0 | $992,222 |
+| WORKING FAMILIES PARTY PAC | $878,370 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ## Committee Assignments (Congress.gov)
 
 _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer serving in the 119th Congress. Committee assignments from her 117th–118th Congress tenure (Judiciary Committee, Oversight Committee, Education & Labor) are documented in the body narrative above. If her 2026 comeback bid succeeds, this section will repopulate with 120th Congress assignments._
@@ -417,7 +454,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -441,7 +478,7 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 **Sources**
 
-- ~~[Congress.gov: Cori Bush](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Cori Bush](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

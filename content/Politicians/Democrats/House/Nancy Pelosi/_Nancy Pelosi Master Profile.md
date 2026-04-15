@@ -270,7 +270,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 - [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
 - [[Blue Shield of California]] — $3.8M lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)
@@ -398,7 +398,7 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 - ~~[Congress.gov: Nancy Pelosi](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-14 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

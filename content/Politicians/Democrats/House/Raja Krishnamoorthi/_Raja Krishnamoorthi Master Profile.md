@@ -277,12 +277,14 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 - [GovTrack: Raja Krishnamoorthi](https://www.govtrack.us/congress/members/412701) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-14 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
@@ -296,8 +298,6 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 | 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Not Voting** | Passed |
 | 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
 | 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Not Voting** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
 
 **Sources**
 

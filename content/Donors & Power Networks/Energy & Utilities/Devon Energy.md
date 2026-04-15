@@ -178,7 +178,7 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-12.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-14 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -194,7 +194,7 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 - [[Markwayne Mullin]] (Armed Services) — lobbying: $810K
 - [[John Fetterman]] — lobbying: $810K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

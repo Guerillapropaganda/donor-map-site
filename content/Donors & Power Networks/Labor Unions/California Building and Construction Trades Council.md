@@ -170,7 +170,7 @@ The result: building trades end up allied with developers on approving projects 
 - [[Gavin Newsom]] — lobbying: $10.5M
 - [[Antonio Villaraigosa]] — lobbying: $10.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

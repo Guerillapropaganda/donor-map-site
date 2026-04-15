@@ -289,7 +289,7 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -309,7 +309,7 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 - [[Everytown for Gun Safety]] — $5.2M lobbying spend (Budget/Appropriations, Firearms/Guns/Ammunition, Health Issues)
 - [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

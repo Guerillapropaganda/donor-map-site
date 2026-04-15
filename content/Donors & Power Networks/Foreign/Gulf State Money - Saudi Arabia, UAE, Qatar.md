@@ -2,7 +2,7 @@
 title: "Gulf State Money - Saudi Arabia, UAE, Qatar"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -12,7 +12,7 @@ politicians-funded:
   - "Jared Kushner"
   - "Benjamin Netanyahu"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -195,7 +195,7 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -248,7 +248,7 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 - [[Jared Kushner]] — lobbying: $918K
 - [[Benjamin Netanyahu]] — lobbying: $918K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Corporate Structure (GLEIF)

@@ -6,7 +6,7 @@ chamber: "Senate"
 party: "Democrat"
 content-readiness: ready
 central-thesis: "Bennet's political career is underwritten by education reform donors. As DPS superintendent, he implemented charter school expansion (70+ new charters opened during his tenure, 48 schools closed). This positioned him as attractive to Eli Broad, Wa..."
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 stock-trades: 7
@@ -134,7 +134,7 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-14 -->
+<!-- auto:stock-trades pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

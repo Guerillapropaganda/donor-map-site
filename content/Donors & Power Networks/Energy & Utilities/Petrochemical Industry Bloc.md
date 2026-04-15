@@ -2,7 +2,7 @@
 title: "Petrochemical Industry Bloc"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -12,7 +12,7 @@ issues:
 lobbying-spend: 36374000
 lobbying-filings: 51
 ofac-sdn-match: "true"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -103,7 +103,7 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 
 - [[Bill Cassidy]] — lobbying: $36.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### OFAC Sanctions Screening
@@ -125,7 +125,7 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

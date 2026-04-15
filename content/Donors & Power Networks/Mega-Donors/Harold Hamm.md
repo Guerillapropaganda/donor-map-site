@@ -385,5 +385,5 @@ Hamm refused the Energy Secretary position in 2016 because accepting it would ha
 - [[Donald Trump]] — lobbying: $70K
 - [[Doug Burgum]] — lobbying: $70K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

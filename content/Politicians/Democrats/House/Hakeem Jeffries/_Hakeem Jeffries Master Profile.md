@@ -3,7 +3,7 @@ title: "Hakeem Jeffries Master Profile"
 type: politician
 content-readiness: ready
 central-thesis: "Jeffries is the Democratic establishment's chosen successor to Pelosi — a corporate-friendly leader who performs progressivism while maintaining the party's Wall Street and real estate donor relationships. His Brooklyn base is gentrifying; his don..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -66,7 +66,7 @@ reenrich-reason: "re-run congress pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 total-raised: "$10,327,241"
 total-spent: "$9,417,063"
 cash-on-hand: "5864742.02"
@@ -345,6 +345,43 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - {{src:src_006189}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $10,327,241 |
+| Individual Contributions | $2,259,645 |
+| PAC Contributions | $1,224,500 |
+| Cash on Hand | 5864742.02 |
+| IE Support (Super PAC) | $46,398 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $10,327,241 | $2,259,645 | $1,224,500 |
+| 2024 | $22,977,197 | $7,242,168 | $2,639,351 |
+| 2022 | $6,037,500 | $2,506,901 | $2,054,097 |
+| 2020 | $4,201,480 | $2,383,236 | $1,669,549 |
+| 2018 | $1,744,153 | $855,829 | $844,300 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| STUDENTSFIRST | $20,778 | $0 |
+| BLUEWAVEAMERICA LLC | $11,300 | $0 |
+| PROGRESSIVE CHANGE CAMPAIGN COMMITTEE | $7,612 | $0 |
+| HEROES UNITED PAC, DBA VOLUNTEER FIREFIGHTERS ASSOCIATION, DBA ASSOCIATION OF POLICE & FIRST RESPONDERS | $6,400 | $0 |
+| PLANNED PARENTHOOD VOTES | $195 | $0 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
 | Metric | Value |
@@ -433,12 +470,14 @@ _No committee data found._
 - ~~[Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
@@ -452,13 +491,11 @@ _No committee data found._
 | 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
 | 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
 | 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
 
 **Sources**
 
-- ~~[Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-- [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1) (NEEDS REVIEW)
+- [Congress.gov: Hakeem Jeffries](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
 

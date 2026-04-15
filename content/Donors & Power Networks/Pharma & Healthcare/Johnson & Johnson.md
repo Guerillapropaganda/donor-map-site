@@ -2,7 +2,7 @@
 title: "Johnson & Johnson"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Pharma & Healthcare"
@@ -14,7 +14,7 @@ annual-revenue: "$477K"
 net-assets: "$1.3M"
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 ofac-programs:
@@ -155,7 +155,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-14 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

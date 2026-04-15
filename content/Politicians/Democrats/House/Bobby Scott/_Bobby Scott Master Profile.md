@@ -3,7 +3,7 @@ title: "Bobby Scott"
 type: politician
 content-readiness: ready
 central-thesis: "Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -52,7 +52,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 bioguide-id: "S000185"
 total-raised: "$290,963"
 total-spent: "$358,184"
@@ -256,7 +256,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - {{src:src_006315}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-13 -->
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -289,7 +289,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 | $0 |
 | TOGETHER WE THRIVE | $750 | $0 |
 
-- {{src:src_006327}} (Tier 1) (VERIFIED)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -318,12 +318,14 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - ~~[GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
@@ -337,12 +339,10 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
 | 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
 | 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
 
 **Sources**
 
-- ~~[Congress.gov: Bobby Scott](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Bobby Scott](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

@@ -185,7 +185,7 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [[John Ratcliffe]] (Intelligence) — contracts: $443K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Spending (USASpending)

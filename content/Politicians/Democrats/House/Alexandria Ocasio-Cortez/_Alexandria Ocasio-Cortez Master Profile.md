@@ -3,7 +3,7 @@ title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
 central-thesis: "AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokeh..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -59,7 +59,7 @@ reenrich-reason: "run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 committees:
   - "House Committee on Energy and Commerce"
 total-raised: "$23,658,045"
@@ -428,6 +428,44 @@ _No committee data found for the 119th Congress._
 - {{src:src_001221}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $23,658,045 |
+| Individual Contributions | $6,636,331 |
+| PAC Contributions | $12,050 |
+| Cash on Hand | 13408910.09 |
+| IE Support (Super PAC) | $5,917 |
+| IE Opposition (Super PAC) | $1,323,914 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $23,658,045 | $6,636,331 | $12,050 |
+| 2024 | $15,299,236 | $4,264,081 | $44,883 |
+| 2022 | $12,471,243 | $3,910,643 | $54,935 |
+| 2020 | $21,166,404 | $4,232,825 | $60,690 |
+| 2018 | $2,147,896 | $749,453 | $77,618 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| FUTURE45 | $0 | $633,303 |
+| STOP THE AOC PAC | $0 | $193,069 |
+| HONORING AMERICAN LAW ENFORCEMENT PAC | $0 | $127,500 |
+| LAW ENFORCEMENT FOR A SAFER AMERICA PAC | $0 | $127,500 |
+| KEEP AMERICA AMERICA ACTION FUND | $0 | $81,400 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
+
 ### Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**
@@ -453,6 +491,35 @@ _No committee data found for the 119th Congress._
 - ~~[Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 - [GovTrack: Alexandria Ocasio-Cortez](https://www.govtrack.us/congress/members/412804) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Key Votes**
+
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
+| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
+| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
+| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
+| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
+| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
+| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
+| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
+| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
+
+**Sources**
+
+- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/e000179) (Tier 1)
+- [GovTrack: Alexandria Ocasio-Cortez](https://www.govtrack.us/congress/members/412804) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->

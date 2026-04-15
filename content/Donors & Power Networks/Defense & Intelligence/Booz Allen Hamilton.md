@@ -195,7 +195,7 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 - [[Gerry Connolly]] (Oversight & Reform) — lobbying: $6.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "M001111"
 content-readiness: ready
 central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -248,7 +248,7 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -272,7 +272,7 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 - [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry)
 - [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -302,6 +302,36 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
+
+<!-- auto:stock-trades pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total Trades | 161 |
+| Purchases | 78 |
+| Sales | 83 |
+| Est. Value Range | $161,161 – $2,415,000 |
+
+**Top tickers traded:** WMB, WRK, WFC, WBA, WMT, VZ, UTX, UPS
+
+**Recent notable trades:**
+
+| Date | Ticker | Type | Amount | Owner |
+|------|--------|------|--------|-------|
+| 06/15/2017 | WMB | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WRK | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WFC | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WBA | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | WMT | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | VZ | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | VTR | Sale | $1,001 - $15,000 | Spouse |
+| 06/15/2017 | UTX | Sale | $1,001 - $15,000 | Spouse |
+
+- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
+
+<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

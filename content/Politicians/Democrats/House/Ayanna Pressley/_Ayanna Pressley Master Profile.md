@@ -3,7 +3,7 @@ title: "Ayanna Pressley Master Profile"
 type: politician
 content-readiness: ready
 central-thesis: "Pressley is the Squad member who chose institutional integration over institutional confrontation — building power within committee structures rather than through media insurgency. Her Financial Services Committee seat gives her formal jurisdictio..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -41,7 +41,7 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - DOJ press pipeline data stripped 2026-04-10 (was false positive index-size bug — 264,413 generic mentions). Needs re-enrichment after DOJ pipeline sanity cap takes effect.
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "demote to draft; re-run fec pipeline; re-run congress pipeline"
 opposes:
@@ -309,12 +309,14 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
@@ -328,12 +330,10 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 | 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
 | 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
 | 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
 
 **Sources**
 
-- ~~[Congress.gov: Ayanna Pressley](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/e000179) (Tier 1)
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
@@ -444,6 +444,44 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 - {{src:src_006345}} (Tier 1)
 <!-- auto:fec-politician end -->
+
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $687,535 |
+| Individual Contributions | $353,529 |
+| PAC Contributions | $36,500 |
+| Cash on Hand | 98796.68 |
+| IE Support (Super PAC) | $187,429 |
+| IE Opposition (Super PAC) | $294,644 |
+
+**Fundraising by cycle:**
+
+| Cycle | Total Raised | Individual | PAC |
+|-------|-------------|------------|-----|
+| 2026 | $687,535 | $353,529 | $36,500 |
+| 2024 | $1,432,055 | $748,329 | $136,850 |
+| 2022 | $1,467,293 | $671,248 | $108,492 |
+| 2020 | $2,190,613 | $857,768 | $161,598 |
+| 2018 | $1,491,070 | $1,028,408 | $119,574 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| HONORING AMERICAN LAW ENFORCEMENT PAC | $0 | $127,500 |
+| LAW ENFORCEMENT FOR A SAFER AMERICA PAC | $0 | $127,500 |
+| SUPERMAJORITY PAC | $45,120 | $0 |
+| INDIVISIBLE PROJECT INC. | $41,981 | $0 |
+| WE DECIDE | $0 | $35,256 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MA07032/) (Tier 1)
+
+<!-- auto:fec-politician pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

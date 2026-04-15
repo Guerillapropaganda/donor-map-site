@@ -182,5 +182,5 @@ The Senate confirmed Burgum 79-18 because they voted for the moderate governor t
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Harold Hamm]] — $70K lobbying spend (Energy/Nuclear, Manufacturing, Taxation/Internal Revenue Code)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

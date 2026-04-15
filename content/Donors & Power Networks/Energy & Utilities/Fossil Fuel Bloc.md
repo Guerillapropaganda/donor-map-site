@@ -221,5 +221,5 @@ The February 28, 2026 US-Israel strikes on Iran and the subsequent Strait of Hor
 
 - [[John Hickenlooper]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Energy and Natural Resources, Senate Committee on Health, Education, Labor, and Pensions)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

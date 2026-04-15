@@ -302,6 +302,28 @@ party:: Republican
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 1 of 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **ConocoPhillips** donates → Lobbies on **Energy/Nuclear** → This member sits on **House Committee on Energy and Commerce**
+- **ConocoPhillips** donates → Lobbies on **Environment/Superfund** → This member sits on **House Committee on Energy and Commerce**
+
+**Donors who lobby (by spend):**
+
+- [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+
+<!-- auto:influence-cross-ref pending-merge end -->
+
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 

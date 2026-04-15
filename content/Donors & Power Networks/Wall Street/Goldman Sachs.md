@@ -275,7 +275,7 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-13 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -300,7 +300,7 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 - [[Paul Ryan]] (Finance)
 - [[John Cornyn]] (Judiciary, Intelligence, Finance)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

@@ -178,7 +178,7 @@ Bostock v. Clayton County (2020) provides the libertarian cover. Gorsuch authore
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy)
 - [[Judicial Crisis Network]] — $248K lobbying spend (Constitution, Government Issues)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)

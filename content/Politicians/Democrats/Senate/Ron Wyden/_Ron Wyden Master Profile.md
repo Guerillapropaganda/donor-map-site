@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "W000779"
 content-readiness: ready
 central-thesis: "Wyden is the reform Democrat whose reforms never pass. His brand is powerful: privacy crusader, billionaire tax champion, surveillance opponent, tech-accountability advocate. He has introduced the Billionaires Income Tax at least four times (2021,..."
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -249,7 +249,7 @@ On tax policy, he frames himself as the counterweight to Crapo, the progressive 
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-14 -->
+<!-- auto:stock-trades pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -343,5 +343,5 @@ The 2025 strategy shift from federal politics to state judicial elections reveal
 - [[Gavin Newsom]] — lobbying: $1.5M
 - [[Wes Moore]] — lobbying: $1.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

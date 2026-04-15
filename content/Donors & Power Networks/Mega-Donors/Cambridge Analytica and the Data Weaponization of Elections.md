@@ -152,5 +152,5 @@ Cambridge Analytica was hired as consultant by Leave.EU and UKIP during the 2016
 - [[Ted Cruz]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Foreign Relations, Senate Committee on Rules and Administration) — lobbying: $790K
 - [[Steve Bannon]] — lobbying: $790K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

@@ -178,7 +178,7 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 - [[Peter Thiel]] — $1.7M lobbying spend
 - [[Ross Stevens]] — $925K lobbying spend (Arts/Entertainment, Budget/Appropriations, Defense)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

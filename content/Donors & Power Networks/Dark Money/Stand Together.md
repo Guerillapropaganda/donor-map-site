@@ -348,7 +348,7 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 
 - [[Bryan Steil]] — lobbying: $6.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

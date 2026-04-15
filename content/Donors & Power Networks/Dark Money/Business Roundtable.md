@@ -2,7 +2,7 @@
 title: "Business Roundtable"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -233,7 +233,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - [[Linda T. Sanchez]] — lobbying: $4.9M
 - [[J. Luis Correa]] — lobbying: $4.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Financial Overview (990 Filing — 2023)
@@ -251,7 +251,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+<!-- auto:propublica-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

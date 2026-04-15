@@ -290,7 +290,7 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 - [[Gavin Newsom]] — lobbying: $3.4M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Spending (USASpending)

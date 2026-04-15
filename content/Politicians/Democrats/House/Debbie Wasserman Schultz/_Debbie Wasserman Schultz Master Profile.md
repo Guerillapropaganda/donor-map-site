@@ -8,7 +8,7 @@ central-thesis: >-
   funded by the same sugar PACs and Israel lobby money that funds the Republican
   Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the
   embargo , and ...
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: Democrat
@@ -23,7 +23,7 @@ top-donors:
   - AIPAC
 total-received: "$1,785,365"
 fec-candidate-id: "H4FL20023"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 donors: '[[UNITE HERE]] · [[Bacardi - Bacardi USA]]'
@@ -211,7 +211,7 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - {{src:src_006273}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-14 -->
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -259,7 +259,7 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - ~~[Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-14 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

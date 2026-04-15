@@ -98,5 +98,5 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 - [[Dick Durbin]] (Judiciary) — lobbying: $7.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

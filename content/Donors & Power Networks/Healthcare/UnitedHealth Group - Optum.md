@@ -220,7 +220,7 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 - [[Joe Biden]] — lobbying: $25.1M
 - [[Kamala Harris]] — lobbying: $25.1M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

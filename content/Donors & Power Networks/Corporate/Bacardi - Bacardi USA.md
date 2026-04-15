@@ -204,7 +204,7 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 - [[Carlos Gimenez]] (Transportation & Infrastructure) — lobbying: $1.8M
 - [[Debbie Wasserman Schultz]] — lobbying: $1.8M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### FTC Enforcement & Merger Review

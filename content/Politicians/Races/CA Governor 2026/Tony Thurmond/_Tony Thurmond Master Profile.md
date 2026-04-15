@@ -198,5 +198,5 @@ This unresolved contradiction makes the CTA endorsement decision even more signi
 
 - [[CTA - California Teachers Association]] — $160K lobbying spend (Budget/Appropriations, Transportation)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

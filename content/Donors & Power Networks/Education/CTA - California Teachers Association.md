@@ -166,7 +166,7 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 - [[Gavin Newsom]] — lobbying: $160K
 - [[Tony Thurmond]] (Education & Labor) — lobbying: $160K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Vehicle Safety (NHTSA)

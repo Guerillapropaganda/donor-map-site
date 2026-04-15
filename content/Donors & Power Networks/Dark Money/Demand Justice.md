@@ -304,7 +304,7 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 
 - [[Jamie Raskin]] (House Committee on the Judiciary) — lobbying: $650K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Court Records (CourtListener)

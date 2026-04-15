@@ -75,5 +75,5 @@ See [[Financial Services Donors]] and [[Securities & Investment Industry]] for c
 
 - [[Josh Gottheimer]] (House Committee on Financial Services, House Permanent Select Committee on Intelligence)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->

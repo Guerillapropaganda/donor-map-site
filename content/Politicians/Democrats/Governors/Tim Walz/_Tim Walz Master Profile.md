@@ -3,7 +3,7 @@ title: "Tim Walz"
 type: politician
 content-readiness: ready
 central-thesis: "Walz's authenticity is genuine: he taught school, coached football, served in the National Guard, and built Minnesota Democratic politics through labor union relationships rather than Wall Street finance. The question is whether this authenticity ..."
-last-updated: 2026-04-13
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -14,7 +14,7 @@ total-received: "$113,151"
 fec-candidate-id: "H6MN01174"
 donors: "[[Democracy Alliance]]"
 wikidata-id: "Q2434360"
-last-enriched: "2026-04-13"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: "run voting pipeline; run congress pipeline"
 wikipedia-url: "https://en.wikipedia.org/wiki/Tim_Walz"
@@ -148,7 +148,7 @@ He is not compromised in the transactional sense. He believes in progressive val
 - {{src:src_006454}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-13 -->
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -182,7 +182,7 @@ He is not compromised in the transactional sense. He believes in progressive val
 | BLUEGREEN ALLIANCE | $108,805 | $0 |
 | FREEDOM CLUB FEDERAL PAC | $0 | $66,000 |
 
-- {{src:src_006454}} (Tier 1)
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 
 <!-- auto:fec-politician pending-merge end -->
 
@@ -209,6 +209,16 @@ Timothy James Walz is an American politician, former educator, and Army National
 
 - ~~[Congress.gov: Tim Walz](https://www.congress.gov/member/e000179)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:voting-record end -->
+
+<!-- auto:voting-record pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+**Sources**
+
+- [Congress.gov: Tim Walz](https://www.congress.gov/member/e000179) (Tier 1)
+
+<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

@@ -166,7 +166,7 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 
 - [[Insurance Industry]] — $25.6M lobbying spend (Accounting, Agriculture, Alcohol and Drug Abuse) + $11K in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Campaign Finance (FEC)

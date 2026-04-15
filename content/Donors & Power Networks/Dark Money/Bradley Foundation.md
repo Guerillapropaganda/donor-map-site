@@ -312,7 +312,7 @@ The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, rep
 
 - [[Donald Trump]] — lobbying: $3.5M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-14.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Subawards & Spending Breakdown

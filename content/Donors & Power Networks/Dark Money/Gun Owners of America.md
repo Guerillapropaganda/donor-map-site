@@ -2,7 +2,7 @@
 title: "Gun Owners of America"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -262,7 +262,7 @@ The post-Bruen litigation strategy reveals how **judicial capture can override d
 - [Source: ProPublica Nonprofit Explorer — EIN 521256643](https://projects.propublica.org/nonprofits/organizations/521256643) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-14 -->
+<!-- auto:propublica-990 pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

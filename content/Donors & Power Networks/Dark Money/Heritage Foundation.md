@@ -410,3 +410,30 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
+
+<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 4 |
+| Active Lobbyist | Yes |
+| Committee Overlap Detected | 2 politicians |
+
+**Lobby → Donate → Committee chains:**
+
+- Lobbies on **Foreign Relations** → Funds **Jim Risch** → Sits on **Foreign Relations**
+- Lobbies on **Agriculture** → Funds **Jodey Arrington** → Sits on **Agriculture**
+- Lobbies on **Budget/Appropriations** → Funds **Jodey Arrington** → Sits on **Budget**
+
+**Funded politicians:**
+
+- [[Jim Risch]] (Foreign Relations) — lobbying: $1.6M
+- [[Donna Miller]] — lobbying: $1.6M
+- [[Stephen Miller]] — lobbying: $1.6M
+- [[Jodey Arrington]] (Budget, Ways & Means, Agriculture) — lobbying: $1.6M
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+
+<!-- auto:influence-cross-ref pending-merge end -->

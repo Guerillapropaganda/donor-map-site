@@ -9,12 +9,12 @@ central-thesis: >-
   U.S. history. She voted alone against indefinite military authorization. Yet
   in 2024, when Lee ran for the Senate from California, she was systematically
   outspent and elim...
-last-updated: 2026-04-14
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 total-received: "$375,046"
 fec-candidate-id: "H8CA09060"
-last-enriched: "2026-04-14"
+last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 donors: >-
@@ -200,7 +200,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - {{src:src_005776}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-14 -->
+<!-- auto:fec-politician pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -359,7 +359,7 @@ _No committee data found._
 - [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-14 -->
+<!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
