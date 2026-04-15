@@ -62,7 +62,8 @@ internal-notes: >-
   next scheduled pipeline run will pick it up automatically.
 opposes: '[[Elizabeth Warren Master Profile]]'
 aliases:
-  - FAIRSHAKE
+  - "FAIRSHAKE"
+  - "FF PAC"
 ---
 
 <!-- auto:data-panel start -->

@@ -555,6 +555,96 @@ const SCRIPTS: ScriptEntry[] = [
     danger: "writes-profiles",
     category: "cleanup",
   },
+
+  // ─── FEC COMMITTEE REGISTRY (Pillar 2b) ────────────────────────
+  {
+    name: "FEC Committee Resolver",
+    command: "node scripts/fec-committee-resolver.cjs",
+    purpose: "Look up unmatched FEC committees in the OpenFEC API and populate the committee registry.",
+    plainEnglish:
+      "Reads the unmatched committees report at content/Admin Notes/fec-unmatched-committees.md (emitted by migrate-fec-body-tables-to-edges). For each unknown committee name, queries GET /v1/committees/?q=<name> and captures the authoritative committee_id, canonical name, committee type, designation, connected org, candidate IDs, and cycles. Caches raw responses to data/fec-committee-cache.jsonl so re-runs are free. Rate-limited to 1 req / 4 sec (well under FEC's 1000/hr standard-key limit). This button runs the default top-50-by-dollar-volume pass — use the --all variant for full coverage.",
+    output: "data/fec-committee-cache.jsonl + data/fec-committee-metadata.json + enriched content/Admin Notes/fec-unmatched-committees.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "pipeline",
+  },
+  {
+    name: "FEC Committee Resolver (ALL)",
+    command: "node scripts/fec-committee-resolver.cjs --all",
+    purpose: "Resolve every unmatched committee against the FEC API (~20 min).",
+    plainEnglish:
+      "Same as FEC Committee Resolver but runs on every row in the unmatched report, not just the top 50. Takes about 20 minutes at the 4-sec rate limit. Idempotent because of the cache — after the first full pass, subsequent runs only hit committees newly added by the body-table migration.",
+    output: "data/fec-committee-cache.jsonl + data/fec-committee-metadata.json + enriched content/Admin Notes/fec-unmatched-committees.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "pipeline",
+  },
+  {
+    name: "Seed FEC Committee Registry (DRY RUN)",
+    command: "node scripts/seed-fec-committee-registry.cjs",
+    purpose: "Preview populating the FEC committee registry from the resolver cache.",
+    plainEnglish:
+      "Reads data/fec-committee-cache.jsonl and proposes records to add to data/fec-committee-registry.json. Each FEC committee is matched against the vault title index via case-insensitive exact + suffix-strip lookup. Matches are marked status: mapped with vault_profile populated; non-matches are marked status: unmapped-needs-stub. Dry-run only — the registry file is not touched.",
+    output: "Console — summary of mapped vs unmapped vs review",
+    when: "on-demand",
+    danger: "safe",
+    category: "pipeline",
+  },
+  {
+    name: "Seed FEC Committee Registry (APPLY)",
+    command: "node scripts/seed-fec-committee-registry.cjs --write",
+    purpose: "Populate data/fec-committee-registry.json from the resolver cache.",
+    plainEnglish:
+      "Same as DRY RUN but actually writes data/fec-committee-registry.json. Idempotent — re-running upserts with fresh FEC metadata. After this, run Apply FEC Committee Registry to sync the new mapped entries into vault profile aliases.",
+    output: "Writes data/fec-committee-registry.json",
+    when: "on-demand",
+    danger: "writes-profiles",
+    category: "pipeline",
+  },
+  {
+    name: "Apply FEC Committee Registry (DRY RUN)",
+    command: "node scripts/apply-fec-committee-registry.cjs",
+    purpose: "Preview which vault profiles would get new FEC-committee aliases from the registry.",
+    plainEnglish:
+      "Reads data/fec-committee-registry.json. For every record with status: mapped and a vault_profile, lists the aliases that would be added to that profile's frontmatter. DRY RUN only — no files are touched. Run this BEFORE the APPLY variant below to confirm the changes look right. Idempotent: re-running after an apply shows zero changes.",
+    output: "Console only — lists profiles that would be touched",
+    when: "on-demand",
+    danger: "safe",
+    category: "pipeline",
+  },
+  {
+    name: "Apply FEC Committee Registry (APPLY)",
+    command: "node scripts/apply-fec-committee-registry.cjs --write",
+    purpose: "Write new FEC-committee aliases into vault profile frontmatter from the registry.",
+    plainEnglish:
+      "Syncs the mapped records from data/fec-committee-registry.json into the vault. Touches only the frontmatter aliases: field of each profile — everything else is byte-for-byte preserved. Profiles with status: unmapped-needs-stub are reported but NOT created automatically (stub creation is David's editorial decision). After this, re-run 'FEC Body Table → Edges Migration' to pick up the new matches in data/relationships.jsonl.",
+    output: "Rewrites N profile .md files (reported in console)",
+    when: "on-demand",
+    danger: "writes-profiles",
+    category: "pipeline",
+  },
+  {
+    name: "FEC Body Table → Edges Migration (DRY RUN)",
+    command: "node scripts/migrate-fec-body-tables-to-edges.cjs",
+    purpose: "Preview the FEC body-table → canonical monetary edges migration.",
+    plainEnglish:
+      "Walks every politician profile's auto:fec-politician body-table block, parses the 'Top outside spenders' committee | support | oppose rows, resolves each committee to a vault profile via the registry + case-insensitive title index, and previews the monetary edges it would upsert into data/relationships.jsonl. Reports match rate and dollar volume. DRY RUN — no edges are written.",
+    output: "Console + content/Admin Notes/fec-unmatched-committees.md (regenerated)",
+    when: "on-demand",
+    danger: "safe",
+    category: "pipeline",
+  },
+  {
+    name: "FEC Body Table → Edges Migration (APPLY)",
+    command: "node scripts/migrate-fec-body-tables-to-edges.cjs --write",
+    purpose: "Apply the body-table migration: upsert monetary edges with amount + cycle + role.",
+    plainEnglish:
+      "Same as DRY RUN but calls upsertEdges() to insert or update monetary edges in data/relationships.jsonl. Idempotent — re-running writes an updated last_verified timestamp on every existing edge + adds any newly matched edges. Run this AFTER Apply FEC Committee Registry so the new aliases are picked up. Deploy after to see the amounts show up on policy pages.",
+    output: "Rewrites data/relationships.jsonl + content/Admin Notes/fec-unmatched-committees.md",
+    when: "on-demand",
+    danger: "writes-profiles",
+    category: "pipeline",
+  },
 ]
 
 const CATEGORY_LABELS: Record<string, string> = {

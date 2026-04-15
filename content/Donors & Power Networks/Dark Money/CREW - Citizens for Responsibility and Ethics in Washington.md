@@ -26,6 +26,9 @@ ein: "30445391"
 nonprofit-status: "501(c)(3)"
 total-revenue: 12386233
 total-assets: 13408716
+aliases:
+  - "CREW"
+  - "CITIZENS FOR RESPONSIBILITY AND ETHICS IN WASHINGTON"
 ---
 
 <!-- auto:data-panel start -->
