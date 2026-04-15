@@ -19,7 +19,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]]"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 815

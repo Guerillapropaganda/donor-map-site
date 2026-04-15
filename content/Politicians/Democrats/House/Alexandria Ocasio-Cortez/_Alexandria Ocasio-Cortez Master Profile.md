@@ -592,3 +592,31 @@ _No committee data found for the 119th Congress._
 
 - {{src:src_001221}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $23,658,045 |
+| Total Spent | $13,983,781 |
+| Cash on Hand | 13408910.09 |
+| Individual Contributions | $6,636,331 |
+| PAC Contributions | $12,050 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $23,658,045 | $13,983,781 | 13408910.09 |
+| 2024 | $15,299,236 | $16,716,493 | 3734646.88 |
+| 2022 | $12,471,243 | $11,344,695 | 5151904.20 |
+| 2020 | $21,166,404 | $17,506,285 | 4025356.26 |
+| 2018 | $2,147,896 | $1,782,302 | 365236.59 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->

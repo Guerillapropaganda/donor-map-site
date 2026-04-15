@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] · [[Rumble]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Jeremy Boreing]]"
+related: "[[Peter Thiel]] · [[TYT Network - The Young Turks]] · [[Lee Camp]] · [[Rumble]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]]"
 ---
 
 #media-pipeline #left #youtube #rumble #force-the-vote #audience-swap #anti-establishment

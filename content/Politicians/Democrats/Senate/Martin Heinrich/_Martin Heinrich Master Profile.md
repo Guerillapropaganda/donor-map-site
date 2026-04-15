@@ -34,7 +34,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
-donors: "[[Bill Gates]]"
+donors: "[[Bill Gates]] · [[American Petroleum Institute]]"
 ---
 
 <!-- auto:data-panel start -->

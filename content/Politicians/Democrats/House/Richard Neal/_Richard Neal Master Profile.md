@@ -34,8 +34,8 @@ corroboration-count: 2
 known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[The Ways and Means Chair and TCJA Extension]]"
+donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
 ---
 
 <!-- auto:data-panel start -->

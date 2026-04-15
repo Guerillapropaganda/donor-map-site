@@ -467,6 +467,40 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
+<!-- auto:fda-enforcement pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Total FDA recalls | 7 |
+| Food recalls | 7 |
+| **Class I (life-threatening)** | **1** |
+| Class II (temporary/reversible) | 6 |
+| Most recent | 2018-10-19 |
+| Earliest | 2017-05-11 |
+
+**Class I recalls (life-threatening):**
+
+- [food] **F-1475-2018** (2018-04-27): Vans gluten free Original 6 WAFFLES NET WT 9 OZ (255g) INGREDIENTS:***VAN'S GLUTEN FREE MIX (BROWN RICE FLOUR, POTATO STARCH, RICE FLOUR, SOY FLOUR),***RICE FLOUR,***SUNFLOWER AND/OR SOY LECITHIN***CO
+  - Reason: The firm was notified that they failed to include the allergens milk & wheat in their ingredient statement.
+
+**Recent recalls:**
+
+- [food] [Class II] F-0363-2019 (2018-10-19): Pierre Philly Style Chicken Sandwich, item 1238, 12 units packaged per case Net Wt. 4.99 LBS (2.27 kg) KEEP FROZEN
+- [food] [Class II] F-0365-2019 (2018-10-19): Steak-EZE Philly Cheesesteak Sandwich, item 06433, Net Wt 5.15 OZ., 4 sandwiches per case KEEP FROZEN
+- [food] [Class II] F-0364-2019 (2018-10-19): TGIF All American Slider, item 5461, 4 cartons of 4 sandwiches per case NET WT 10 OZ KEEP FROZEN
+- [food] [Class II] F-0362-2019 (2018-10-19): Pierre Philly Style Cheesesteak Sandwich, item 1125, 12 units packaged per case Net Wt. 4.65 LBS (2.11 kg) KEEP FROZEN
+- [food] [Class I] F-1475-2018 (2018-04-27): Vans gluten free Original 6 WAFFLES NET WT 9 OZ (255g) INGREDIENTS:***VAN'S GLUTEN FREE MIX (BROWN RICE FLOUR, POTATO STARCH, RICE FLOUR, SOY FLOUR),***RICE FLOUR,***SUNFLOWER AND/OR SOY LECITHIN***CO
+- [food] [Class II] F-2247-2017 (2017-05-11): Chef Pierre 10 Spinach Quiche, and 6/10 Frozen Quiche, 38 oz. packed in a paper carton, keep frozen
+- ... and 1 more
+
+_Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc._
+
+- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1)
+
+<!-- auto:fda-enforcement pending-merge end -->
+
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
 | Metric | Value |

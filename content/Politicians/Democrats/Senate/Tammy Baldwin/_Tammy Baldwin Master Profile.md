@@ -36,7 +36,7 @@ known-gaps:
 related: "[[_Ron Johnson Master Profile|Ron Johnson]] · [[_Amy Klobuchar Master Profile|Klobuchar]] · [[Blue Cross Blue Shield Association]] · [[SEIU - Service Employees International Union|SEIU]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Elizabeth Warren Master Profile|Warren]]"
 last-enriched: "2026-04-10"
 bioguide-id: "B001230"
-donors: "[[UAW - United Auto Workers]]"
+donors: "[[UAW - United Auto Workers]] · [[National Nurses United]]"
 ---
 
 <!-- auto:data-panel start -->

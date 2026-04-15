@@ -420,6 +420,34 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - {{src:src_006158}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $3,125,783 |
+| Total Spent | $2,329,199 |
+| Cash on Hand | 1120804.52 |
+| Individual Contributions | $1,052,716 |
+| PAC Contributions | $35,829 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $3,125,783 | $2,329,199 | 1120804.52 |
+| 2024 | $8,335,875 | $8,063,371 | 324220.63 |
+| 2022 | $3,111,918 | $3,227,971 | 51716.15 |
+| 2020 | $5,810,874 | $5,697,934 | 167769.73 |
+| 2018 | $1,084,183 | $1,029,354 | 54829.27 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Ilhan Abdullahi Omar is an American politician serving as the U.S. representative for Minnesota's 5th congressional district since 2019. She is a member of the Democratic Party.

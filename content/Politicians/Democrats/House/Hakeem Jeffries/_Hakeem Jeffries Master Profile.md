@@ -456,6 +456,36 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - {{src:src_006189}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $10,327,241 |
+| Total Spent | $9,417,063 |
+| Cash on Hand | 5864742.02 |
+| Individual Contributions | $2,259,645 |
+| PAC Contributions | $1,224,500 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $10,327,241 | $9,417,063 | 5864742.02 |
+| 2024 | $22,977,197 | $20,238,858 | 4954564.65 |
+| 2022 | $6,037,500 | $5,966,557 | 2216225.11 |
+| 2020 | $4,201,480 | $3,325,841 | 2145321.91 |
+| 2018 | $1,744,153 | $1,486,075 | 1269682.34 |
+| 2016 | $1,294,870 | $791,629 | 1011604.86 |
+| ... | 2 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
 _No committee data found._

@@ -17,20 +17,20 @@ fec-candidate-id: "H8CA09060"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: ">- · [[Tim Dunn]]"
+donors: ">- · [[Tim Dunn]] · [[Rebekah Mercer]]"
 bioguide-id: L000551
 govtrack-id: 400237
 bills-sponsored: 604
 bills-cosponsored: 10572
-related: ">- · [[Adam Schiff]]"
+related: ">- · [[Adam Schiff]] · [[Rebekah Mercer]]"
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •
   CONGRESS data is missing entirely. This profile was promoted to ready without
   ever having congress enrichment run on it. The needs-reenrichment flag has
   been set. The next scheduled pipeline run will pick it up automatically.
-total-raised: '$375,046'
-total-spent: '$427,255'
-cash-on-hand: '144.39'
+total-raised: "$375,046"
+total-spent: "$427,255"
+cash-on-hand: "144.39"
 fec-cycle: 2024
 issues:
   - 'Civil Rights and Liberties, Minority Issues'
@@ -328,6 +328,36 @@ _No committee data found._
 
 - {{src:src_005776}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2024 |
+| Total Raised | $375,046 |
+| Total Spent | $427,255 |
+| Cash on Hand | 144.39 |
+| Individual Contributions | $308,954 |
+| PAC Contributions | $11,800 |
+| Coverage Through | 2024-09-30 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2024 | $375,046 | $427,255 | 144.39 |
+| 2022 | $2,183,373 | $2,341,393 | 52353.25 |
+| 2020 | $1,888,202 | $1,810,132 | 210373.72 |
+| 2018 | $1,875,867 | $1,781,696 | 132303.44 |
+| 2016 | $1,328,822 | $1,374,381 | 38131.96 |
+| 2014 | $1,139,240 | $1,100,730 | 83690.60 |
+| ... | 8 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->

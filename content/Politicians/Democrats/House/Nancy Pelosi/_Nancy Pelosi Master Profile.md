@@ -82,7 +82,7 @@ total-raised: "$2,408,010"
 total-spent: "$3,306,927"
 cash-on-hand: "1179149.96"
 fec-cycle: 2026
-donors: "[[Google - Alphabet]]"
+donors: "[[Google - Alphabet]] · [[House Majority PAC]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -9,7 +9,7 @@ sector: Dark Money
 entity-type: Individual Donor
 issues:
   - Dark Money & Campaign Finance
-related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]]"
+related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

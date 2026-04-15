@@ -20,7 +20,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]] · [[Gretchen Whitmer]]"
+related: "[[_Andy Beshear Master Profile]] · [[_Wes Moore Master Profile]] · [[_JB Pritzker Master Profile]] · [[Gretchen Whitmer]] · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
 donors: "[[Jeffrey Yass]]"
 ---
 

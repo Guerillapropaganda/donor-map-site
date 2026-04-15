@@ -12,7 +12,7 @@ issues:
   - Dark Money & Campaign Finance
 lobbying-spend: 1699750
 lobbying-filings: 70
-related: "[[Les Wexner - Wexner Family Enterprises]] · [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]"
+related: "[[Les Wexner - Wexner Family Enterprises]] · [[Leonard Leo]] · [[Peter Thiel]] · [[Harlan Crow]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Steve Bannon]]"
 court-cases: 1
 last-enriched: "2026-04-09"
 needs-reenrichment: true

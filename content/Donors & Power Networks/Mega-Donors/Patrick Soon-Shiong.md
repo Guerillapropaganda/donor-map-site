@@ -10,7 +10,7 @@ entity-type: Individual Donor
 politicians-funded: "[[Ron Johnson]], [[Cathy McMorris Rodgers]], [[John McCain]], [[Mike Johnson]], [[Kevin McCarthy]], [[Lindsey Graham]]"
 total-political-spend: $735,621
 last-enriched: "2026-04-09"
-related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[Ron Johnson]] · [[John McCain]] · [[_Donald Trump Master Profile|Trump]] · [[_Kamala Harris Master Profile|Kamala Harris]] · [[Entertainment and Hollywood Donors]] · [[Media & Influence Pipeline]] · [[Lindsey Graham]]"
 lobbying-spend: 0
 lobbying-filings: 1
 cross-vault-triangulation-count: 5

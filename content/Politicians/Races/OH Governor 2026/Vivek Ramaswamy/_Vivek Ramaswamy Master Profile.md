@@ -33,7 +33,7 @@ known-gaps:
 checklist-na:
   - "voting-records: Never held elected office (candidate)"
   - "committee-assignments: Never held elected office (candidate)"
-related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
+related: "[[_Donald Trump Master Profile]] · [[Elon Musk]] · [[Jeffrey Yass]] · [[Peter Thiel]] · [[The Roivant Fortune and the FDA Deregulation Conflict]] · [[Ross Stevens]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Amy Acton]]"
 needs-reenrichment: true
 reenrich-reason: "re-run fec pipeline"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because:

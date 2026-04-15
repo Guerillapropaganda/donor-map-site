@@ -36,7 +36,7 @@ cash-on-hand: "483316.29"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "238000.00"
-donors: "[[American Petroleum Institute]]"
+donors: "[[American Petroleum Institute]] · [[Western Growers Association]]"
 ---
 
 <!-- auto:data-panel start -->

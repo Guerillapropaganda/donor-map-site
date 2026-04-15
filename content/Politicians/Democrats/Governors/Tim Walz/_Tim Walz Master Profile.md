@@ -156,6 +156,8 @@ He is not compromised in the transactional sense. He believes in progressive val
 | Individual Contributions | $22,700 |
 | PAC Contributions | $80,650 |
 | Cash on Hand | 0.00 |
+| IE Support (Super PAC) | $941,203 |
+| IE Opposition (Super PAC) | $2,002,818 |
 
 **Fundraising by cycle:**
 
@@ -166,6 +168,16 @@ He is not compromised in the transactional sense. He believes in progressive val
 | 2014 | $1,575,565 | $639,514 | $672,763 |
 | 2012 | $1,976,106 | $787,174 | $780,173 |
 | 2010 | $2,163,759 | $952,848 | $751,771 |
+
+**Top outside spenders:**
+
+| Committee | Support | Oppose |
+|-----------|---------|--------|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $0 | $1,935,395 |
+| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | $516,807 | $0 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $212,147 | $0 |
+| BLUEGREEN ALLIANCE | $108,805 | $0 |
+| FREEDOM CLUB FEDERAL PAC | $0 | $66,000 |
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
 
@@ -231,3 +243,33 @@ Timothy James Walz is an American politician, former educator, and Army National
 
 - {{src:src_006454}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2018 |
+| Total Raised | $113,151 |
+| Total Spent | $155,222 |
+| Cash on Hand | 0.00 |
+| Individual Contributions | $22,700 |
+| PAC Contributions | $80,650 |
+| Coverage Through | 2018-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2018 | $113,151 | $155,222 | 0.00 |
+| 2016 | $1,572,881 | $1,610,108 | 42071.16 |
+| 2014 | $1,575,565 | $1,559,503 | 79298.63 |
+| 2012 | $1,976,106 | $1,931,331 | 63236.95 |
+| 2010 | $2,163,759 | $2,175,826 | 18461.30 |
+| 2008 | $2,732,743 | $2,707,390 | 30528.16 |
+| ... | 1 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6MN01174/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->

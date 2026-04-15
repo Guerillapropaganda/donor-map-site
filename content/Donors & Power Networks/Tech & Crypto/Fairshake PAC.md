@@ -26,7 +26,7 @@ issues:
   - Dark Money & Campaign Finance
   - Financial Deregulation
   - Technology
-related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]]"
 source-types:
   - FEC
 known-gaps:

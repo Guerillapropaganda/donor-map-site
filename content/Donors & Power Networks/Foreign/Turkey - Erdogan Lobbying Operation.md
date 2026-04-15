@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
-related: "[[HBW Resources]] · [[Saudi Arabia - Kingdom Investment]] · [[United Arab Emirates - Influence Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]]"
+related: "[[HBW Resources]] · [[Saudi Arabia - Kingdom Investment]] · [[United Arab Emirates - Influence Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]]"
 lobbying-spend: 1170000
 lobbying-filings: 32
 cross-vault-triangulation-count: 2

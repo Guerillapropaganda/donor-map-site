@@ -16,7 +16,7 @@ nonprofit-status: 501(c)(4)
 last-enriched: '2026-04-09'
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: ">- · [[Senate Majority PAC]]"
+related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]]"
 court-cases: 36
 court-jurisdictions:
   - Court of Appeals for the Fourth Circuit

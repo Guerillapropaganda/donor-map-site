@@ -35,8 +35,8 @@ known-gaps:
   - No mapped relationships
 executive-actions: 10
 last-enriched: '2026-04-09'
-related: ">- · [[Alex Padilla]]"
-donors: "[[CalSTRS - California State Teachers' Retirement System]]"
+related: ">- · [[Alex Padilla]] · [[CalPERS]]"
+donors: "[[CalSTRS - California State Teachers' Retirement System]] · [[CalPERS]]"
 ---
 
 <!-- auto:data-panel start -->
