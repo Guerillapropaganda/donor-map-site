@@ -25,7 +25,7 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 3. **FEC full-receipts pipeline wrote 0** — cause unknown (log line cut off). Check `fec-pipeline.cjs` behavior with `--write` flag; likely `selectTargets()` skip or missing committee ID lookup.
 4. **FEC pipeline → upsertEdges()** — plumb the FEC Committee Registry into fec-summary so each run writes monetary edges via `upsertEdges()`. Open item from bug-005 resolution.
 5. **Remaining 215 unmatched FEC committees ($123.4M)** — continue stub creation. Current registry: 293 entries.
-6. Apply the strikethrough-source migration when David says go (3,427 bullet lines across 1,083 profiles).
+6. ~~Strikethrough source migration~~ DONE (3,415 links across 1,082 profiles, 2026-04-15 evening session).
 7. Re-run heuristic class-tag pass on 2 policy-cited entities (Bank of America, National Republican Senatorial Committee).
 
 **Next concrete actions (manual review, David's lane):**
@@ -89,6 +89,46 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-15 (evening session: foundation fixes + strikethrough migration)
+
+### Theme
+David's directive: "keep fixing foundational problems." Drained the profile-dedup queue (4 of 6 groups), resolved ~77 dangling wikilinks via aliases, refreshed FEC monetary edges, tightened triage heuristics, loaded Perplexity batch 2 class-tag proposals, added `reproductive-rights` to locked vocabulary (ADR-0011), built the dangling wikilinks triage doc, and executed the strikethrough source migration (3,415 links across 1,082 profiles).
+
+### Done this session
+
+- **Profile dedup: 4 of 6 groups drained** (GEO Group, Raytheon, Meta, Blackstone). 5 redirect stubs created, 5 orphan entity records removed, 1 orphan class-tag proposal removed. Remaining 2 (Fox Corp, EMILY's List) need new profiles (Research Claude lane).
+- **Marc Andreessen dedup** (a16z stub converted to redirect, canonical is `Marc Andreessen & Horowitz.md`)
+- **Dangling wikilink aliases** (2 batches, 10 profiles): David Sacks (Donor Network) [19], JB Pritzker (Donor Network) [12], Energy Transfer Partners [10], Ripple Labs [5], Stephen Schwarzman [5], Marc Andreessen [5], RFK Jr [4], America First Legal [4], Comcast [3], RTX Corp [3]. Fixed Kelcy Warren alias collision.
+- **FEC committee aliases** (7 profiles): UDP, DCCC, NRCC, AFSCME, LCV, NEA Fund, Working Families Party. Match rate 96.3% to 97.7%, 9 new monetary edges.
+- **FEC body-table migration re-run**: 661 edges refreshed, 652 with real dollar amounts ($5.3B). Unmatched committees 22 to 12.
+- **Triage heuristics tightened**: 10 new resolvers + 3 fixes in `scripts/triage-deferred-items.cjs`. Auto-verified items 1 to 15.
+- **Perplexity batch 2 loaded**: 42 class-tag proposals from David's research. Added JSONL auto-detection to loader script.
+- **ADR-0011**: `reproductive-rights` added to IDEOLOGICAL_FUNCTIONS (22 values). 4 previously dropped proposals recovered.
+- **Dangling wikilinks triage doc**: 396 targets categorized into 6 groups at `content/Admin Notes/dangling-wikilinks-triage.md`.
+- **Strikethrough source migration**: 3,415 broken source links moved to ## Archived sections across 1,082 profiles. Script fixed to replace em dashes in generated text.
+- **Quartz build benchmark**: 6m 45s for 2,741 input files, 9,816 output files. Emit phase (6m) is the bottleneck.
+- **Events.jsonl audit**: 170/188 events lack policy_id because topics (crypto, defense, tech) have no policy record yet. Not a data bug, editorial scope question.
+- **Canonical store**: 31,996 edges (up from 31,987). 509 class-tag proposals. 1,462 entities.
+
+### Known issues
+- 892 inline-prose strikethrough links flagged for manual review (not touched by migration)
+- 12 FEC unmatched committees remain (small-dollar, not worth stubs)
+- 2 remaining dedup groups (Fox Corp, EMILY's List) need Research Claude
+- auto-connection-engine crash at enrichment-log.cjs:101 (engine repo)
+- batch4 pipeline failures: fara, osha, voting-record (engine repo)
+
+### Next session priorities
+1. **Review 124 profiles for A+ sign-off** (David's lane, at Ops `/attention`)
+2. **Approve 42 batch 2 class-tag proposals** (David's lane, at Ops `/class-tags`)
+3. **Drain dangling wikilinks** by category from the triage doc (Code + Research Claude)
+4. **Fix batch4 silent failures** (engine repo session)
+5. **Continue FEC stub creation** (215 unmatched committees, $123.4M)
+6. **Manual review of 892 inline-prose strikethrough links**
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-15 (pipeline audit + batch schedule fix continuation)
 

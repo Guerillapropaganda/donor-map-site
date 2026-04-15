@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-15-session-save-foundation-audit-marathon'
+last-updated: '2026-04-15-session-save-evening-foundation-fixes'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1628,6 +1628,62 @@ phase_1_tasks:
       commit: "(this session-save commit)"
       notes: |
         Sixth session-save of the day. Rewrote Session State.md Last Session with full narrative of 9 commit chains (193 super PAC stubs, McGovern dedup, Wall Street sector fix, class-tag research queue + Perplexity batch, canonical store backfill, title index filename alias, 611 entity name strip, David Sacks + JB Pritzker sub-note merge, 5 redirects marked, ADR-0010 surveillance-state, Ops TS 17→0, class-tags proposer filter, deferred items triage, /bugs kind filter). Moved prior "Pillar 2/2b" Last Session to Previous Session. Sprint-schedule cc_136-cc_147 added as ad-hoc done. Wrote session handoff doc for the next session at content/Admin Notes/session-handoff-2026-04-15-next.md. North Star: public_launch_shipped unchanged (false); no verified_profile_count change (David's lane); draft_to_ready_promotions unchanged; pipeline_bugs_closed unchanged (bug-005 was closed in a prior session, not this one).
+
+    - id: cc_148
+      task: "Profile dedup: 4 of 6 groups drained (GEO, Raytheon, Meta, Blackstone)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Converted 5 dupe files to redirect stubs, removed 5 orphan entity records + 2 orphan class-tag proposals. Merged Federal Register enrichment from Raytheon Technologies into canonical. Kept Blackstone Real Estate as separate subsidiary profile."
+
+    - id: cc_149
+      task: "Dangling wikilink aliases: 10 profiles, ~77 links resolved"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Added FEC name aliases to 7 committee profiles (UDP, DCCC, NRCC, AFSCME, LCV, NEA, WFP). Added display aliases to 10 donor/politician profiles. Fixed Kelcy Warren alias collision (person vs company)."
+
+    - id: cc_150
+      task: "FEC body-table migration refresh + unmatched committees report"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Re-ran migrate-fec-body-tables-to-edges.cjs. 661 edges updated, 9 new. Match rate 96.3% to 97.7%. Unmatched 22 to 12."
+
+    - id: cc_151
+      task: "Triage heuristics: 10 new resolvers, auto-verified 1 to 15"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Added backtick stripping, explicit-deferred resolver, ADR checks, Ops page patterns, husky hook checks, lib module checks. Fixed sentinel count threshold and Pipeline Guide pattern."
+
+    - id: cc_152
+      task: "Load Perplexity batch 2 + ADR-0011 reproductive-rights"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "42 class-tag proposals loaded. Added JSONL auto-detection to loader. ADR-0011: reproductive-rights added to IDEOLOGICAL_FUNCTIONS (22 values). 4 previously dropped proposals recovered."
+
+    - id: cc_153
+      task: "Strikethrough source migration: 3,415 links across 1,082 profiles"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Executed per David's go-ahead. Broken URLs moved to ## Archived sections. 892 inline-prose links flagged for manual review. Script fixed to replace em dashes in generated text."
+
+    - id: cc_154
+      task: "Dangling wikilinks triage doc + Quartz build benchmark + events.jsonl audit"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "396 dangling targets categorized into 6 groups. Build benchmark: 6m45s. Events audit: 170/188 lack policy_id (editorial scope, not data bug)."
+
+    - id: cc_155
+      task: "Session save — 2026-04-15 evening foundation fixes"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "16 commits this session. All deployed to v4."
 
   research_claude:
     - id: rc_01
