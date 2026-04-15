@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-15
 ---
-<!-- last session: Autonomous audit + polish + integration sprint (2026-04-15) — 7 new scripts (policy gap, entity dedup, source dedup, readiness digest, query engine contract tests, cache drift, status dashboard), 5 admin reports, 20 new contract tests wired to pre-commit + CI. Pre-commit hook at 7 sentinels. Headline: 4 class tag approvals unblock all 5 policy pages. Query engine build architecturally complete since 2026-04-14 (ADR-0008). -->
+<!-- last session: Foundation-stabilization marathon (2026-04-15 evening) — David recalibrated to "stabilize before shipping" mid-session. Shipped Pillars 1, 3, 5, 4 of a 5-pillar plan: auth audit (ADR-0009, OPS_AUTH_BYPASS, 21 smoke tests), Ops /system-health dashboard, Ops /bugs dashboard, Quartz TS 27→0 errors + strict pre-push gate. Pre-commit hook at 9 sentinels (was 7). Also /policies feature, deps drift 5-layer defense, and cross-session security brief filed as reference. Pillar 2 (data coverage, bug-003) remains. -->
 
 
 
@@ -15,21 +15,31 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Current Build Phase
 
-**Phase:** ALL SHIPPED ✅ — query engine build architecturally complete
-**Status:** maintenance rhythm
-**Closed by:** ADR-0008 (Query Engine Build Complete) on 2026-04-14
-**Authority:** ADR-0003 (closed by ADR-0008), ADR-0008, CLAUDE.md rules 9–13
-
-**Next concrete actions (manual review, David's lane):**
-1. Approve 4 class tags in Ops `/class-tags`: **Western Growers Association, Majority Forward, California Farm Bureau Federation, Boeing**. This is the Rule 11 gate for all 5 v1 policy pages simultaneously. See `content/Admin Notes/policy-class-tag-gap-report.md`.
-2. Work through `content/Admin Notes/readiness-promotion-digest.md` — 19 profiles are one flag-flip from verified, 11 more are draft→verified.
-3. Run gitleaks on full repo history before any public launch.
-4. Run Perplexity Prompt B on the 267-item deferred backlog.
+**Phase:** Foundation stabilization (post-ADR-0008 maintenance rhythm)
+**Status:** Four of five foundation pillars shipped. Pillar 2 (data coverage / bug-003) remains.
+**Authority:** ADR-0003 (closed by ADR-0008), ADR-0008, ADR-0009 (auth), CLAUDE.md rules 9–13
 
 **Next concrete actions (autonomous, Code Claude's lane):**
-1. Build `scripts/migrate-frontmatter-to-canonical.cjs` — 15,023 edges in frontmatter need to flow into the canonical relationships store. Do NOT run the existing cache-rebuilder in the meantime (it would regress data).
+1. **Pillar 2 — data coverage**. Build `scripts/migrate-frontmatter-to-canonical.cjs` to close the 15,023-edge gap between frontmatter and `data/relationships.jsonl`. Then FEC amount enrichment to fill the "Total spend" column on policy pages. Expected ~3-5 hours autonomous work. Addresses bug-003 directly.
 2. Re-run heuristic class-tag pass on 2 policy-cited entities with no proposals yet (Bank of America, National Republican Senatorial Committee).
 3. Apply the strikethrough-source migration when David says go (3,427 bullet lines across 1,083 profiles).
+
+**Next concrete actions (manual review, David's lane):**
+1. Work through `content/Admin Notes/readiness-promotion-digest.md` — 19 profiles are one flag-flip from verified, 11 more are draft→verified.
+2. Run `gitleaks detect --source . --report-path gitleaks-report.json` on full repo history before any public launch. (The other Claude session is implementing gitleaks CI integration — see `content/Admin Notes/pre-launch-security-brief.md`.)
+3. Answer the 5 blocker questions at the bottom of the pre-launch security brief (attribution name, pseudonymity stance, corrections email, second Git remote, trademark).
+4. Decide: keep going Pillar 2 fresh tomorrow, or defer and work on other things.
+
+**Do NOT touch** (the other Claude session owns these):
+- LICENSE / CONTENT-LICENSE files
+- Public `/legal` page
+- Rate limiting middleware
+- Query engine cost limits + new contract tests (would become sentinel #10)
+- gitleaks CI wiring
+- Pseudonymity audit scripts
+- Corrections policy / DMCA playbook / backup playbook
+
+See `content/Admin Notes/pre-launch-security-brief.md` for full context.
 
 ---
 
@@ -37,35 +47,119 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 Updated every session. Regenerate with `node scripts/status.cjs`.
 
-**Last updated:** 2026-04-15
+**Last updated:** 2026-04-15 (end-of-marathon session)
 
 | Metric | Count |
 |---|---|
-| Total canonical records | 43,587 across 8 stores |
+| Total canonical records | 43,678 across 8 stores |
 | Sources (live / archived / needs_review / dead / other) | 9,555 / 3,317 / 1,041 / 539 / 229 |
-| Entities (donors / politicians / tags approved) | 276 / 709 / 71 |
-| Class tag proposals (pending / approved / rejected) | 275 / 71 / 0 |
-| Policy pages verified | 0 / 5 |
+| Entities (donors / politicians / tags approved) | 276 / 709 / 71 in entities.jsonl + 346 proposals approved |
+| Class tag proposals (pending / approved / rejected) | **0 / 346 / 0** — David cleared the entire queue this session |
+| Policy pages verified | 0 / 5 (Rule 11 gate cleared, awaiting David's promote) |
 | Profiles one-flag-flip from verified | 19 |
-| Pre-commit sentinels | 7 |
-| Regression tests + contract tests | 20 + 20 passing |
+| Pre-commit sentinels | **9** (was 4 at session start) |
+| Quartz TS errors | **0** (was 27) — pre-push now strict |
+| Ops TS errors | 17 (documented deferred in `content/Admin Notes/ts-errors-inventory.md`) |
+| Regression + contract + auth-smoke tests | 20 + 20 + 21 passing |
 | Data integrity audit | ✓ clean |
 | Public routes live | under-construction page only |
+| Open bugs | 0 (bug-001 + bug-002 resolved same session) |
+| Deferred items backlog | 267 (filterable at Ops `/bugs`) |
+
+**New Ops dashboards David can now open:**
+- `/policies` — policy promote/publish workflow
+- `/system-health` — live status of 29 pages + 59 APIs
+- `/bugs` — 269 tracked items with filters
 
 **Pre-launch hard blockers (CLAUDE.md rule 9):**
 1. AIPAC page personal review + optional lawyer review (Perplexity precedent research at `content/Admin Notes/perplexity-research/2026-04-14-aipac-defamation-precedent.md`)
-2. Git secret scan (gitleaks) on full repo history
-3. 4 class tag approvals for policy pages (see above)
-4. `publication-readiness-check.cjs` passes on every intended public route
-5. Stripe activation if paid tiers launch alongside public (otherwise defer)
+2. Git secret scan (gitleaks) on full repo history — other Claude session owns the CI wiring
+3. Policy page publication-readiness gate passes (Rule 11 cleared, still needs `content_readiness: verified`)
+4. Data coverage fix (bug-003) — Pillar 2 autonomous work
+5. Production Clerk upgrade (ADR-0009 pre-launch checklist item)
 
-**Recommended soft-launch path:** `/policies` first, starting with housing or minimum_wage (non-AIPAC, lower legal risk).
+**Recommended soft-launch path:** `/policies/housing` first, but ONLY after Pillar 2 lands (data coverage is currently too thin — policy donor tables show 6 for Goldman Sachs when reality is ~80+).
 
 ---
 
 ## Last Session
 Claude: Code
-Date: 2026-04-15
+Date: 2026-04-15 (evening — foundation-stabilization marathon)
+
+### Theme
+Long multi-part session. Started with Phase 6 closeout + pre-launch hardening. Hit a series of real bugs during the work (Clerk sign-in lockout, D3 type errors, dynamic-require time bombs, ops build CI iteration, deps drift). Built `/policies` Ops page per David's design conversation. Mid-session David recalibrated: **"I'm not trying to ship anything right now. What I'm trying to do is get the foundation set… stabilize before shipping."** Switched gears into a 5-pillar foundation-stabilization plan; completed 4 of 5 pillars. Filed cross-session security brief as reference material at end.
+
+### Done — Pre-recalibration (policy workflow + deps defense)
+
+- **Ops `/policies` dashboard + 5 API routes** (commit `b6b1a010a`). Per David's design conversation: dashboard view, inline react-markdown preview, promote-to-verified + publish two-click confirm, keyboard shortcuts (↑↓/Enter/P/U/X/?), toast notifications. Backed by GET /api/policies, GET /api/policies/[slug]/preview, POST /api/policies/promote, POST /api/policies/demote, POST /api/policies/publish. Plus Quartz construction-mode conversion from boolean to slug allowlist at `data/public-routes.json`.
+
+- **`OPS_AUTH_BYPASS` dev escape hatch** after bug-001 (Clerk dev-mode sign-in lockout) hit David mid-session. ops/src/lib/auth.ts synthetic admin user, DevModeBanner component, /api/auth/bypass-status route. Bug-002 (HTTP 401 on /query) resolved same fix.
+
+- **5-layer deps drift defense** after `@clerk/nextjs` Module Not Found hit the Ops build: `scripts/deps-sync-check.cjs` + `.husky/post-merge` + `.husky/post-checkout` + pre-commit sentinel #8 (deps-staging) + CI ops-build job.
+
+- **4 iterations of ops-build CI debugging** — caught real latent bugs: deps-check false positive (removed), D3 type errors in money-trail (scoped out via OPS_CI_BUILD=1), 2 dynamic-require time bombs in query-engine.ts + stripe/webhook (lazy-loaded + TS-mirror swap), static prerendering misconfiguration (force-dynamic at root layout).
+
+- **All 346 class tags approved by David** this session via Ops `/class-tags`. Queue went from 275 pending to 0.
+
+### Done — Foundation stabilization (Pillars 1, 3, 5, 4)
+
+**Pillar 1 — Auth audit** (commit `ff383d9b8`). ADR-0009 documents three failure modes (dev-mode ephemeral, clerk_id drift, undocumented recovery). OPS_AUTH_BYPASS formally declared primary local dev path. `currentUser()` loud fall-through warning for Mode C detection. Sign-in page bypass-awareness (shows the recovery note when bypass is off, shows "you don't need to sign in" when it's on). `phase-2.5-setup.md § Recovery from Clerk lockout` with 3 documented paths. **21 auth smoke tests** at `scripts/auth-smoke-tests.cjs` wired into pre-commit sentinel #9 + CI.
+
+**Pillar 3 — Ops surface audit** (commit `3ddb32051`). `scripts/ops-surface-audit.cjs` walks ops/src/app/ for every page + API route, parses for auth helpers + fetch() dependencies. Outputs `ops/src/data/ops-surfaces.json` + human report. `/api/system-health` serves the manifest. **`/system-health` Ops dashboard** — 29 pages + 59 API routes with live HTTP health checks, stat cards, expandable rows. **Headline finding: 50 of 59 Ops API routes have no auth check** (predate Phase 2.5). Surfaced visibly so it can't stay invisible.
+
+**Pillar 5 — Bugs + deferred triage** (commit `47f004341`). `scripts/bug-queue-parser.cjs` parses both `content/Admin Notes/bug-queue.md` and `content/Phases/phase-6/deferred-items.md` into unified `ops/src/data/bugs-manifest.json`. **`/bugs` Ops dashboard** — stats cards, category chip filters, severity/phase/category dropdowns, search. Read-only v1. 269 items (2 bugs resolved + 267 deferred) visible in one place with filter affordances. First-screen finding: 50 high-severity items across the backlog.
+
+**Pillar 4 — Build + CI audit** (commit `6cb9e1a59`). Root tsconfig.json excluded `ops/**/*` — eliminated 600+ false-positive errors on every `tsc --noEmit` run. Fixed 27 real Quartz TS errors: 20 unused-vars (AdminBar, DiscoveryPanel x4, EventTimeline, EvidencePanel, NetworkGraph, PartySplitMeter, ProfileHeader x6, ProfileWidget, graph.inline.ts, networkGraph.inline.ts x1, networkGraphIndex.ts x2), 1 implicit-any in PageList.tsx, 1 dead comparison in ProfileHeader.tsx, 1 ArticleNav FullSlug fallback, 4 D3 type mismatches in networkGraph.inline.ts (selectAll generic type parameters + removeAllChildren cast). Quartz `tsc --noEmit` now exits 0. **`.husky/pre-push` flipped from warn-only to strict blocking gate.** Ops 17 errors documented as deferred in `content/Admin Notes/ts-errors-inventory.md` with per-error effort estimates.
+
+### Done — Cross-session security brief filed
+
+- **`content/Admin Notes/pre-launch-security-brief.md`** — filed as reference material from another Claude session. Contains a 4-tier security sprint plan (licensing, Tier 1 non-negotiable, Tier 2 before remote Ops, Tier 3 launch hardening, Tier 4 nice-to-have) + 5 blocker questions for David. Current session did NOT act on the content. Memory pointer added at `project_pre_launch_security.md` + `MEMORY.md` entry so future sessions know the other session owns: LICENSE files, /legal, rate limiting, query cost limits (sentinel #10), gitleaks CI, pseudonymity audit, corrections/DMCA/backup playbooks.
+
+### Commits this session (in order)
+
+1. `b6b1a010a` — Ops /policies page + 5 API routes + construction-mode allowlist
+2. (Several earlier commits for deps drift defense, dynamic-require fixes, force-dynamic layout, deps-sync-check script, canonical-store sentinel — all in the Pre-recalibration phase)
+3. `ff383d9b8` — Pillar 1 auth audit (ADR-0009, 21 smoke tests, recovery docs, Mode C detector, sign-in UX)
+4. `3ddb32051` — Pillar 3 Ops surface audit (/system-health dashboard + manifest)
+5. `47f004341` — Pillar 5 bugs + deferred triage (/bugs dashboard + parser)
+6. `6cb9e1a59` — Pillar 4 build + CI audit (Quartz TS 0 errors, pre-push strict)
+7. (pending) — this session-save commit
+
+### Deploys this session
+All green. Representative runs: `24434607120` (Pillar 1), `24434832784` (Pillar 3), `24435006572` (Pillar 5), `24435523818` (Pillar 4). Plus several earlier deploys during pre-recalibration work.
+
+### Sprint-schedule task IDs added this session
+- cc_122: Pre-recalibration deps drift defense + ops /policies page (lands retroactively)
+- cc_123: OPS_AUTH_BYPASS + DevModeBanner + bug-001/002 resolution
+- cc_124: Pillar 1 — Auth audit
+- cc_125: Pillar 3 — Ops surface audit
+- cc_126: Pillar 5 — Bugs + deferred triage dashboard
+- cc_127: Pillar 4 — Build + CI audit
+- cc_128: Cross-session security brief filed as reference
+- cc_129: Session save
+
+### Known issues
+- **Pillar 2 (data coverage) still deferred.** bug-003 (sparse canonical store + no amount enrichment on policy pages) is the real reason housing can't ship publicly yet. Roughly 3-5 hours of autonomous work: frontmatter→canonical migration + FEC amount enrichment. Explicitly deferred tonight because David was running long and Pillar 2 deserves fresh attention.
+- **Ops 17 TS errors** — documented in `content/Admin Notes/ts-errors-inventory.md`. Not blocking anything; `ops-build` CI still runs with `OPS_CI_BUILD=1` to bypass strict typecheck while catching import-resolution issues via webpack compile. Roughly 3-4 hours to drive to zero.
+- **Cross-session coordination** — another Claude session will implement the pre-launch security brief. Sentinel numbering note: their brief says "Task 2.6 becomes sentinel 8" but after Pillar 1 landed, the hook is at 9 sentinels, so query cost limits will become sentinel 10.
+- **Sign-in UX gap found but NOT filed as a bug** — if David disables OPS_AUTH_BYPASS and Clerk is still broken, the "Locked out?" note on the sign-in page is the only guidance. It works but hasn't been user-tested.
+
+### In progress
+Nothing. All four pillars fully landed + deployed. Session is clean.
+
+### Next session priorities
+1. **Pillar 2 — data coverage (autonomous, ~3-5 hours).** Build `scripts/migrate-frontmatter-to-canonical.cjs` first (closes the 15,023-edge gap; this is the bigger visual improvement on policy donor tables). Then FEC amount enrichment (`scripts/enrich-edges-with-fec-amounts.cjs`) to fill "Total spend" column. Then rebuild policy pages via `build-policy-pages.cjs` and verify via `/system-health` + `/policies` preview.
+2. **Review content/Admin Notes/readiness-promotion-digest.md and approve the 19 near-ready profiles** (David's lane, 60-90 min manual review).
+3. **Run gitleaks on repo history** (David, 2 min) — NOTE: the other Claude session is implementing gitleaks CI integration; if their CI is live, the manual scan might be moot.
+4. **Answer the 5 blocker questions** at `content/Admin Notes/pre-launch-security-brief.md § Key things flagged as blockers for David`.
+5. **Decide what to do with the Ops TS 17 errors** — schedule for a cleanup session or leave permanently deferred with `OPS_CI_BUILD=1`.
+6. **If the other Claude session has begun implementing the security brief**, coordinate before touching pre-commit hook, CI workflow, or LICENSE files to avoid merge conflicts.
+
+---
+
+## Previous Session
+Claude: Code
+Date: 2026-04-15 (earlier — audit + polish + integration sprint)
 
 ### Theme
 Fully autonomous audit + polish + integration sprint. David asked for "more automatic stuff whether its auditing or polishing what we built. Integration of the engines." Shipped 7 new scripts that audit cross-cutting concerns (not just individual stores), 5 admin reports with specific action items, 20 new contract tests locking in the query-engine public API, and a one-command system health dashboard. No lane-crossing — all autonomous, no manual review from David required in-session.

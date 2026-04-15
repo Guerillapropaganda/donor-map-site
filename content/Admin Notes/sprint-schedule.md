@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-15-session-save-audit-sprint'
+last-updated: '2026-04-15-session-save-foundation-marathon'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1387,9 +1387,81 @@ phase_1_tasks:
       status: done
       completed_date: 2026-04-15
       added_adhoc: true
-      commit: "(this session-save commit)"
+      commit: "344f01593"
       notes: |
         Session state update: Last Session rewritten to cover the autonomous audit/polish/integration sprint (7 new scripts, 5 new reports, 20 new contract tests, pre-commit hook at 7 sentinels). Sprint schedule renumbered cc_107-cc_112 (previously collided with Session A's cc_100-106), then appended cc_113-cc_121 for this session's work.
+
+    - id: cc_122
+      task: "Ops /policies page + 5 API routes + construction-mode allowlist"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "b6b1a010a"
+      notes: |
+        Per David's design conversation: dashboard listing all 5 v1 policies with inline react-markdown preview, promote-to-verified + two-click publish actions, keyboard shortcuts (↑↓/Enter/Space/P/U/X/?), toast notifications. Backed by GET /api/policies, GET /api/policies/[slug]/preview, POST /api/policies/promote, POST /api/policies/demote, POST /api/policies/publish. Quartz construction-mode converted from boolean (only index emitted) to slug allowlist at data/public-routes.json (default: ["index"]) — policies get published by appending "policies/<slug>" to that file. Added react-markdown + remark-gfm deps. Sidebar link added between /class-tags and /query. Verified via preview: 200 on page + api, 0 server errors.
+
+    - id: cc_123
+      task: "OPS_AUTH_BYPASS dev escape hatch + bug-001/002 resolution"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "eff6577fd"
+      notes: |
+        David hit Clerk dev-mode sign-in lockout mid-session: "Couldn't find your account" error with no path forward. Built OPS_AUTH_BYPASS env var gate in ops/src/lib/auth.ts: synthetic admin user returned by currentUser/requireTier/requireAdmin when NODE_ENV !== "production" AND OPS_AUTH_BYPASS=1. Guardrails: hard prod disable, warn every 60s, yellow DevModeBanner on every page. /api/auth/bypass-status route + DevModeBanner component. Added ops-dashboard-bypass preview config to .claude/launch.json. Created content/Admin Notes/bug-queue.md with bug-001 + bug-002 (resolved by same fix) as the first entries. Unblocked David in 60 seconds via single .env.local edit.
+
+    - id: cc_124
+      task: "Pillar 1 — Auth audit (ADR-0009 + 21 smoke tests + recovery docs + Mode C detector + sign-in UX)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "ff383d9b8"
+      notes: |
+        First of five foundation-stabilization pillars after David recalibrated mid-session to "stabilize before shipping." Shipped: content/Decisions/0009-auth-architecture.md (documents 3 failure modes: Clerk dev-mode ephemerality, clerk_id drift, undocumented recovery), content/Admin Notes/phase-2.5-setup.md § Recovery from Clerk lockout (3 documented recovery paths), loud fall-through warning in currentUser() for Mode C detection with copy-pasteable seed-admin-user.cjs command, bypass-awareness banner on sign-in page (both when bypass active and when it's off), scripts/auth-smoke-tests.cjs (21 tests covering tier hierarchy, OPS_AUTH_BYPASS guards, recovery doc integrity, users.jsonl admin flag integrity, bypass-status endpoint). Wired into pre-commit sentinel #9 + CI regression-tests workflow. Deploy 24434607120 ✓.
+
+    - id: cc_125
+      task: "Pillar 3 — Ops surface audit (/system-health dashboard + manifest)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "3ddb32051"
+      notes: |
+        scripts/ops-surface-audit.cjs walks ops/src/app/ for every page + API route, parses pages for fetch() deps, API routes for requireAdmin/requireTier auth + HTTP methods. Outputs ops/src/data/ops-surfaces.json + content/Admin Notes/ops-surface-audit.md. GET /api/system-health serves the manifest. /system-health page: 4 stat cards, live HTTP health checks for every route (client-side fetch in parallel), expandable rows per surface, green/yellow/red/blue/gray status dots. Headline finding surfaced visually: 50 of 59 Ops API routes have no auth check (predate Phase 2.5). Sidebar link added. Registered "Ops Surface Audit" in /scripts registry. Deploy 24434832784 ✓.
+
+    - id: cc_126
+      task: "Pillar 5 — Bugs + deferred triage (/bugs dashboard + parser)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "47f004341"
+      notes: |
+        scripts/bug-queue-parser.cjs parses content/Admin Notes/bug-queue.md (## open + ## resolved sections with dash-list fields) AND content/Phases/phase-6/deferred-items.md (pipe tables per category section) into unified ops/src/data/bugs-manifest.json. Heuristic severity inference for deferred items: legal/defamation/security/data-integrity → high, performance/tests → medium, docs/polish → low. GET /api/bugs serves the manifest. /bugs dashboard: 4 stat cards (total_open, high_severity, bug_queue split, deferred count), category chip filter row, search box, severity/phase/category dropdowns, pagination (first 200 visible). Bug Queue section shows open (currently empty) + resolved (toggle). Deferred Items section shows filterable table. Read-only v1 — triage writes stay in the markdown files. First-screen: 269 total open (0 bugs + 267 deferred), 50 high-severity. Sidebar link added. Deploy 24435006572 ✓.
+
+    - id: cc_127
+      task: "Pillar 4 — Build + CI audit (Quartz TS 27→0, pre-push strict gate)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "6cb9e1a59"
+      notes: |
+        Fixed 27 Quartz TS errors: 20 unused-vars across 11 files (AdminBar, DiscoveryPanel x4, EventTimeline, EvidencePanel, NetworkGraph, PartySplitMeter, ProfileHeader x6, ProfileWidget, graph.inline.ts, networkGraph.inline.ts, networkGraphIndex.ts x2), 1 implicit-any in PageList.tsx (explicit string[] annotation on tags), 1 dead comparison in ProfileHeader.tsx (type === "corporation" unreachable after earlier narrow), 1 ArticleNav FullSlug fallback ("index" as FullSlug), 4 D3 type mismatches in networkGraph.inline.ts (selectAll<SVGGElement, GraphNode>() generic narrows + removeAllChildren cast). Root tsconfig.json: added "ops/**/*" to exclude — eliminated 600+ false-positive errors on every tsc run (ops has its own tsconfig). Flipped .husky/pre-push from warn-only to strict blocking gate (baseline is now 0 errors). content/Admin Notes/ts-errors-inventory.md documents Ops's 17 deferred errors with per-error effort estimates. Deploy 24435523818 ✓.
+
+    - id: cc_128
+      task: "Cross-session security brief filed as reference"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "(this session-save commit)"
+      notes: |
+        David handed over a pre-launch security brief from another Claude session covering Licensing (MIT + CC-BY-SA) + 4-tier security sprint (Tier 1: gitleaks/pseudonymity/Clerk dev-prod/CVE scan, Tier 2: rate limiting + query cost limits, Tier 3: corrections/DMCA/backup, Tier 4: source corroboration). Filed at content/Admin Notes/pre-launch-security-brief.md with explicit "do not act" frontmatter + coordination notes (sentinel numbering shift from #8 → #10 after Pillar 1 landed, existing /system-health surfacing the 50-public-APIs gap, OPS_AUTH_BYPASS context for the Clerk dev/prod separation work). Added project_pre_launch_security.md memory file + MEMORY.md pointer so future sessions know which files are the other session's lane (LICENSE, /legal, rate limiting, query cost limits, gitleaks CI, pseudonymity audit, corrections/DMCA/backup playbooks). Current session did NOT implement any of the brief — pure reference filing.
+
+    - id: cc_129
+      task: "Session save — 2026-04-15 foundation-stabilization marathon"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "(this session-save commit)"
+      notes: |
+        Session State rewritten with new Current Build Phase (foundation-stabilization: 4 of 5 pillars shipped, Pillar 2 remains), new Publication Readiness Snapshot (346/346 tags approved, Quartz TS 0, pre-commit at 9 sentinels), new Last Session covering pre-recalibration work + Pillars 1/3/5/4 + security brief filing. Previous Session section demoted from earlier cc_121 entry. Sprint-schedule cc_122-cc_129 added as ad-hoc done.
 
   research_claude:
     - id: rc_01
@@ -1721,7 +1793,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-15 (Autonomous audit + polish + integration sprint. 7 new scripts: policy-class-tag-gap-report, entity-dedup-orphan-audit, source-registry-dedup-audit, readiness-promotion-digest, query-engine-contract-tests (20 new tests wired to pre-commit + CI, bringing total pre-commit sentinels to 7), relationship-cache-drift-audit, status.cjs (one-glance dashboard). 5 new reports in content/Admin Notes/. Headline finding: approving just 4 class tags (Western Growers Association, Majority Forward, California Farm Bureau Federation, Boeing) unblocks all 5 v1 policy pages simultaneously because they share the same cross-policy donor table. Readiness digest shows 19 profiles are one-flag-flip from verified. cc_113-cc_121 added; cc_107-cc_112 renumbered from prior cc_100-105 to resolve second collision with Session A's cc_100-106 block. Query engine build still architecturally complete; system health dashboard confirms 43,587 records · tests ✓ · integrity ✓ · sentinels 7.)**
-**Current phase: POST-BUILD — all 8 query engine phases shipped, maintenance rhythm**
-**Next checkpoint: public launch readiness (David's gate: /policies soft-launch after 4-tag approval + AIPAC review + gitleaks)**
+**Schedule last updated: 2026-04-15 (Foundation-stabilization marathon. David cleared all 346 class tag proposals. Shipped Ops /policies page + OPS_AUTH_BYPASS dev escape hatch + 5-layer deps drift defense. Then Pillar 1 auth audit (ADR-0009, 21 smoke tests, Mode C detector, sign-in recovery UX), Pillar 3 Ops surface audit (/system-health dashboard — surfaces 50 unauthed API routes), Pillar 5 bugs + deferred triage (/bugs dashboard — 269 items filterable), Pillar 4 Quartz TS 27→0 errors + pre-push strict gate. Filed cross-session security brief as reference. cc_122-cc_129 added. Pre-commit hook at 9 sentinels (was 7). Pillar 2 (data coverage / bug-003) is the only remaining pillar.)**
+**Current phase: POST-BUILD foundation stabilization — 4 of 5 pillars complete, Pillar 2 (data coverage) remains**
+**Next checkpoint: Pillar 2 data coverage fix (frontmatter→canonical migration + FEC amount enrichment); after that, David's pre-launch gate reviews + other session's security brief work**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
