@@ -15,7 +15,8 @@ class-analysis-tags:
   - dark-money-networked
 high-risk-editorial: true
 requires-legal-review: true
-last-updated: 2026-04-14
+content-readiness: draft
+last-updated: 2026-04-15
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
 ---

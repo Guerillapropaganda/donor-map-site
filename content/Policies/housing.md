@@ -12,7 +12,8 @@ class-analysis-tags:
   - tax-avoidance-lobby
   - privatization
   - anti-trust-defender
-last-updated: 2026-04-14
+content-readiness: draft
+last-updated: 2026-04-15
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
 ---

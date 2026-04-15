@@ -106,6 +106,10 @@ function buildPolicyPage(policy, engine) {
   }
   if (policy.high_risk_editorial) lines.push(`high-risk-editorial: true`)
   if (policy.requires_legal_review) lines.push(`requires-legal-review: true`)
+  // content-readiness enforced by publication-readiness-check.cjs (CLAUDE.md rule 9).
+  // Defaults to "draft" — policy records must be promoted explicitly in data/policies.jsonl
+  // before the publication gate will allow the page on a public URL.
+  lines.push(`content-readiness: ${policy.content_readiness || "draft"}`)
   lines.push(`last-updated: ${new Date().toISOString().slice(0, 10)}`)
   lines.push(`generated-by: scripts/build-policy-pages.cjs`)
   lines.push(`editor-vouched: true`)

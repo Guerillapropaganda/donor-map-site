@@ -13,7 +13,8 @@ class-analysis-tags:
   - union-busting
   - anti-trust-defender
   - tax-avoidance-lobby
-last-updated: 2026-04-14
+content-readiness: draft
+last-updated: 2026-04-15
 generated-by: scripts/build-policy-pages.cjs
 editor-vouched: true
 ---

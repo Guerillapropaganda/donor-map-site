@@ -1,0 +1,81 @@
+name: Regression Tests + Data Integrity
+
+# Runs the Phase 6 regression test suite and data integrity audit on
+# every PR to v4 and every push to v4. These are the same gates the
+# pre-commit hook runs locally — CI runs them server-side in case the
+# hook was bypassed (SKIP_HOOKS=1) or never installed.
+#
+# Docs:
+# - content/Decisions/0008-query-engine-build-complete.md
+# - content/Phases/phase-6/retrospective.md
+# - scripts/phase-6-regression-tests.cjs (20 tests, ~75ms)
+# - scripts/phase-6-data-integrity-audit.cjs
+
+on:
+  pull_request:
+    branches:
+      - v4
+  push:
+    branches:
+      - v4
+  workflow_dispatch:
+
+jobs:
+  regression-tests:
+    name: Phase 6 Regression Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Run regression tests
+        run: node --test scripts/phase-6-regression-tests.cjs
+
+  data-integrity-audit:
+    name: Data Integrity Audit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Run data integrity audit
+        run: node scripts/phase-6-data-integrity-audit.cjs
+
+  publication-readiness-smoke:
+    name: Publication Readiness Script Smoke Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      # This job does NOT fail on unpublishable profiles — it only fails
+      # if the script itself crashes. "0 profiles ready" is expected
+      # until David works through the verified-promotion batch.
+      - name: Smoke test publication-readiness-check
+        run: |
+          node scripts/publication-readiness-check.cjs --folder Policies || exit_code=$?
+          # Exit 1 from the script means "found unpublishable profiles" (expected).
+          # Exit 2 means "script crashed" (real failure).
+          if [ "${exit_code:-0}" = "2" ]; then
+            echo "publication-readiness-check.cjs crashed"
+            exit 1
+          fi
+          echo "publication-readiness-check.cjs ran cleanly"
