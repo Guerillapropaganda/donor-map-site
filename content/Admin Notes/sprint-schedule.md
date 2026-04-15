@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-14-session-save-phase6-closeout'
+last-updated: '2026-04-15-session-save-audit-sprint'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1256,7 +1256,7 @@ phase_1_tasks:
       notes: |
         Two updates to content/Phases/phase-1/handoff.md: mid-session update documenting the 4 commits shipped so far + restart instructions if session ends mid-fingerprint, then end-session update with final fingerprint distribution and "next concrete action = Quartz {{src:ID}} plugin". Phase 1 now at ~55% (7 of 11 deliverables shipped). Remaining Phase 1 work: Quartz source-refs plugin, Ops /sources review page, one pipeline migration, CLAUDE.md/Vault Rules.md/Pipeline Guide.md updates, Phase 1 retrospective.
 
-    - id: cc_100
+    - id: cc_107
       task: "Phase 6 sprint 6b — regression test harness (20 tests)"
       status: done
       completed_date: 2026-04-14
@@ -1265,7 +1265,7 @@ phase_1_tasks:
       notes: |
         Wrote scripts/phase-6-regression-tests.cjs using Node's built-in node:test module. 20 tests, zero extra deps, ~75ms runtime. Each test maps to a specific bug fixed in Phases 1-5 that would silently regress if a future refactor "cleaned up" the fix. Coverage: source URL normalization (3 tests), schema validator rejections across sources/entities/events/claims (7), tier hierarchy admin/researcher/anonymous/patron (4), story scorer math including recency decay curve (4), claims defamation firewall (2), heuristic class tag vocabulary labor-aligned override (1). All 20 pass clean. This is the test that would have caught the California Nurses Association "ruling-class" bug, the events "signed" outcome bug, and the FEC dedupe regression if a future refactor reintroduced them.
 
-    - id: cc_101
+    - id: cc_108
       task: "Phase 6 shipped — ADR-0008 closes ADR-0003 (query engine build complete)"
       status: done
       completed_date: 2026-04-14
@@ -1274,7 +1274,7 @@ phase_1_tasks:
       notes: |
         Wrote content/Decisions/0008-query-engine-build-complete.md (closing ADR for the 8-phase query engine build from ADR-0003) and content/Phases/phase-6/retrospective.md. ADR-0008 enumerates what shipped (all 8 phases), what moved to ongoing maintenance (267 deferred items triage, 346 class tag approvals, Stripe activation, performance benchmarks, AIPAC legal review, git secret scan), and the honest metrics snapshot (8 canonical stores, 43,587 records, 0 failures, 20 regression tests, ADRs 0001-0008). Retrospective documents what shipped, what took longer than expected (267 deferred items was higher than the 40-60 estimate), what surprised us (zero data integrity failures = validators-at-write-time pays off), lessons (regression tests should cover bugs not modules; closing ADRs should be honest about deferred items), and tech debt introduced (regression tests not yet in CI, perf benchmarks deferred, Stripe scaffolded not activated). content/Build Phases.md updated with closed-by: ADR-0008.
 
-    - id: cc_102
+    - id: cc_109
       task: "Publication-readiness gate + canonical-store sentinel"
       status: done
       completed_date: 2026-04-14
@@ -1283,7 +1283,7 @@ phase_1_tasks:
       notes: |
         Built scripts/publication-readiness-check.cjs — the single source of truth for "is this profile publishable." Walks profiles, enforces 6 gates: content-readiness:verified, no (URL NEEDED)/(UNVERIFIED)/(NEEDS REVIEW) markers in visible text, no strikethrough sources outside Archived section, every {{src:ID}} resolves to live/archived (not dead/generic_orphan/needs_review/paywall), every cited entity has approved class tags (not proposed), ## Class Analysis section present. Supports --folder, --file, --json, --ready-only, --verbose. Smoke-tested on /Policies: 7 BLOCKED (content-readiness not set) — honest signal. Built scripts/canonical-store-sentinel.cjs — new pre-commit sentinel that blocks any commit touching frontmatter relationship fields (related, donors, top-donors, politicians-funded, opposes, stories, *-generated) unless the commit also touches data/relationships.jsonl or a rebuilder script. Enforces the Phase 3 canonical-store write-path rule at the commit gate. Wired both new sentinels into .husky/pre-commit — hook now runs 6 sentinels instead of 4 (added canonical-store and regression-tests).
 
-    - id: cc_103
+    - id: cc_110
       task: "CLAUDE.md rules 9-13 + 3 checklists + checklist index"
       status: done
       completed_date: 2026-04-14
@@ -1292,7 +1292,7 @@ phase_1_tasks:
       notes: |
         Added 5 new core rules to CLAUDE.md § Query Engine: rule 9 (architecturally complete ≠ publication ready — publication-readiness-check is the gate, under-construction is the default), rule 10 (canonical stores are the write path; frontmatter fields are read-caches — enforced by canonical-store-sentinel), rule 11 (class tag approval gate — no verified promotion with proposed tags), rule 12 (claim-object vs prose decision rule — AOC is the reference), rule 13 (Perplexity-first research protocol — extended from pipelines to class tags, story calibration, legal precedent). Updated active ADRs list 0001-0008 and added "Active checklists" cross-ref block. Created content/Checklists/ folder with pre-publication.md (script-enforced + human-enforced gates), new-data-store.md (ADR → schema → validator → store → TS mirror → tests → docs), new-pipeline.md (codifies Pipeline Research Protocol), README.md index.
 
-    - id: cc_104
+    - id: cc_111
       task: "Perplexity prompt library + AIPAC research filing"
       status: done
       completed_date: 2026-04-14
@@ -1301,14 +1301,95 @@ phase_1_tasks:
       notes: |
         Wrote content/Admin Notes/perplexity-prompt-library.md — 7 copy-paste research prompt templates (A: new pipeline cheatsheet, B: deferred items triage, C: AIPAC defamation precedent, D: class tag batch proposal, E: story score calibration, F: source URL deep triage, G: prior art check). The library is how David routes research work to Perplexity: Claude gives him a filled-in prompt, he pastes it, copies answer back. Zero Claude time, ~2 min David time per prompt. David ran Prompt C mid-session — filed the AIPAC defamation precedent output to content/Admin Notes/perplexity-research/2026-04-14-aipac-defamation-precedent.md with frontmatter + Claude TL;DR + 8 concrete action items for the AIPAC page. Headline findings: no successful AIPAC defamation suit against a journalist ever, our vocabulary (imperialist-aligned, zionist-aligned, capital_type, class_position) is protected under Milkovich, correlation framing safe/causation dangerous (already our rule), banned-word list correct, Mapping Project survived similar labels with no US lawsuits, Track AIPAC running openly since 2024, best jurisdictions CA/NY/DC/OR.
 
-    - id: cc_105
+    - id: cc_112
       task: "Session State publication readiness snapshot + Last Session update + session save"
       status: done
       completed_date: 2026-04-14
       added_adhoc: true
-      commit: "(pending session-save commit)"
+      commit: "cdcb907ae"
       notes: |
-        Updated content/Session State.md: new "Publication Readiness Snapshot" section (one-glance launch readiness table), Current Build Phase updated to reflect ADR-0008 closure and maintenance rhythm, Last Session updated with full 3-part theme (Phase 6 closeout + hardening + Perplexity integration), previous Phase 1 session moved to Previous Session slot. Sprint-schedule cc_100-cc_105 added as ad-hoc tasks for this session (renumbered from cc_93-98 after discovering collision with Session A's cc_93-98 during deploy merge).
+        Updated content/Session State.md: new "Publication Readiness Snapshot" section (one-glance launch readiness table), Current Build Phase updated to reflect ADR-0008 closure and maintenance rhythm, Last Session updated with full 3-part theme (Phase 6 closeout + hardening + Perplexity integration), previous Phase 1 session moved to Previous Session slot. Sprint-schedule entries re-renumbered to cc_107-cc_112 after double collision with Session A's cc_85-98 and cc_100-106.
+
+    - id: cc_113
+      task: "Autonomous hardening sprint — CI workflow, canonical-store sentinel, priority queues, broken-refs audit, strikethrough migration"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "827343da6"
+      notes: |
+        Phase 6 tech-debt items + pre-launch hardening. Shipped: .github/workflows/regression-tests.yml (runs Phase 6 regression + data-integrity audit + publication-readiness smoke on every PR), scripts/publication-readiness-check.cjs improvements (strip backtick code blocks before ref scan to eliminate doc false positives), scripts/canonical-store-sentinel.cjs (NEW pre-commit sentinel blocking hand-edits to frontmatter relationship fields unless data/relationships.jsonl or a rebuilder is also touched), .husky/pre-commit now runs 6 sentinels, CLAUDE.md Rules 9-13 added (architecturally complete ≠ publication ready, canonical stores are the write path, class tag approval gate, claim-object vs prose decision rule, Perplexity-first research protocol). Reports: scripts/class-tag-priority-queue.cjs (rank pending tags by citation count — AIPAC #1 at 434), scripts/broken-source-refs-report.cjs (0 broken refs, clean), scripts/migrate-strikethrough-sources-to-archived.cjs (1,083 files, 3,427 auto-migratable, ready but not applied). Content: content/Checklists/ folder (pre-publication, new-data-store, new-pipeline, README), content/Admin Notes/perplexity-prompt-library.md (7 prompt templates A-G), 3 admin reports generated. Policy builder updated to emit content-readiness from data/policies.jsonl.
+
+    - id: cc_114
+      task: "Policy-to-class-tag gap report"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/policy-class-tag-gap-report.cjs — cross-references policy page citations (both [[wikilinks]] AND markdown table rows under "Top opposition donors" headers) against class-tag approval state. Finding: ALL 5 v1 policy pages share the SAME 4 Rule-11 blockers (Western Growers Association, Majority Forward, California Farm Bureau Federation, Boeing). Approving those 4 entities unblocks every policy page simultaneously. Report at content/Admin Notes/policy-class-tag-gap-report.md.
+
+    - id: cc_115
+      task: "Entity dedup + orphan audit"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/entity-dedup-orphan-audit.cjs — 1,167 entities scanned. Finding: 2 duplicate groups, 53 name mismatches (entity findable via variant name but primary name drifts from how vault references it — breaks class-tag lookup pipeline), 439 true orphans, 0 missing profile files. Name mismatches are the most actionable — they're cheap to fix and unblock downstream lookups. Report at content/Admin Notes/entity-dedup-orphan-audit.md.
+
+    - id: cc_116
+      task: "Source registry dedup audit"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/source-registry-dedup-audit.cjs — 14,681 sources scanned. Finding: registry is essentially clean. 0 normalizer bugs (good), 1 trivial loose duplicate (Wikipedia anchor), 8 FEC/Congress entity-duplicate groups with 11 total redundant records. Added HASH_ROUTING_HOSTS guard for GLEIF (hash is the entity ID, not a fragment). Report at content/Admin Notes/source-registry-dedup-audit.md.
+
+    - id: cc_117
+      task: "Readiness promotion digest"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/readiness-promotion-digest.cjs — runs publication-readiness-check.cjs and produces a distance-to-ready digest sorted by review priority. Finding: 19 profiles are one flag-flip away from verified (ready→verified trivial promotion), 11 more are draft→verified, 736 are two-failures-away. Prep sheet for David's next manual review session. Report at content/Admin Notes/readiness-promotion-digest.md.
+
+    - id: cc_118
+      task: "Query engine contract tests (20 tests, wired to pre-commit + CI)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/query-engine-contract-tests.cjs — 20 contract tests covering the query engine's 6 subjects (edges, entities, events, cross_party_donors, timing_proximity, top_opposition_donors), pagination, filter behavior, count/describe/query shape. Locks in the API contract so future refactors can't silently drift. All 20 pass in ~250ms. Wired into .husky/pre-commit as sentinel #7 (hook now runs 7 sentinels total, was 6) and into .github/workflows/regression-tests.yml.
+
+    - id: cc_119
+      task: "Relationship cache drift audit"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/relationship-cache-drift-audit.cjs — compares frontmatter relationship fields (related/donors/top-donors/politicians-funded/politicians-opposed/opposes/stories) against canonical data/relationships.jsonl. Finding: 15,023 links exist in frontmatter but NOT in canonical, 374 canonical links missing from cache. Report correctly identifies this as a COVERAGE GAP (not drift) — the canonical store was populated later and is still catching up; running the cache rebuilder would regress data. Recommends a new migration pass (migrate-frontmatter-to-canonical.cjs) instead. Report at content/Admin Notes/relationship-cache-drift-audit.md.
+
+    - id: cc_120
+      task: "Status dashboard script (scripts/status.cjs)"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "14b6e727d"
+      notes: |
+        scripts/status.cjs — one-command system health dashboard. Full mode shows all 8 canonical stores (record counts), source status distribution, class tag progress (pending/approved/rejected with approval rate), entity coverage by type, policy readiness by tier, test + audit health (regression tests, contract tests, data integrity audit, pre-commit sentinel count), auth + users. Supports --compact (one-line summary) and --json (machine-readable). No writes, no side effects. Current snapshot: 43,587 records · 275/346 tags pending · 0/5 policies verified · tests ✓ · integrity ✓ · sentinels 7.
+
+    - id: cc_121
+      task: "Session save — 2026-04-15 audit + polish + integration sprint"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "(this session-save commit)"
+      notes: |
+        Session state update: Last Session rewritten to cover the autonomous audit/polish/integration sprint (7 new scripts, 5 new reports, 20 new contract tests, pre-commit hook at 7 sentinels). Sprint schedule renumbered cc_107-cc_112 (previously collided with Session A's cc_100-106), then appended cc_113-cc_121 for this session's work.
 
   research_claude:
     - id: rc_01
@@ -1640,7 +1721,7 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-14 (Phase 6 closeout + pre-launch hardening megasession. Phase 6 regression test harness (20 tests, 0 fail), ADR-0008 closing ADR-0003 (query engine build complete), Phase 6 retrospective, publication-readiness-check.cjs (the publication gate), canonical-store-sentinel.cjs (pre-commit gate for Phase 3 write path), .husky/pre-commit now 6 sentinels, 5 new CLAUDE.md core rules (9-13), 3 checklists in content/Checklists/, Perplexity prompt library with 7 templates, AIPAC defamation precedent research filed. cc_100-105 added (renumbered from cc_93-98 to avoid collision with earlier parallel Session A cc_85-99 block covering relationship engine audit + vault cleanup + 20,105 em dash strip + deploy unblocker). Query engine build architecturally complete; ongoing work is maintenance (267 deferred items triage + 346 class tag approvals + Stripe activation + AIPAC review + gitleaks scan).)**
+**Schedule last updated: 2026-04-15 (Autonomous audit + polish + integration sprint. 7 new scripts: policy-class-tag-gap-report, entity-dedup-orphan-audit, source-registry-dedup-audit, readiness-promotion-digest, query-engine-contract-tests (20 new tests wired to pre-commit + CI, bringing total pre-commit sentinels to 7), relationship-cache-drift-audit, status.cjs (one-glance dashboard). 5 new reports in content/Admin Notes/. Headline finding: approving just 4 class tags (Western Growers Association, Majority Forward, California Farm Bureau Federation, Boeing) unblocks all 5 v1 policy pages simultaneously because they share the same cross-policy donor table. Readiness digest shows 19 profiles are one-flag-flip from verified. cc_113-cc_121 added; cc_107-cc_112 renumbered from prior cc_100-105 to resolve second collision with Session A's cc_100-106 block. Query engine build still architecturally complete; system health dashboard confirms 43,587 records · tests ✓ · integrity ✓ · sentinels 7.)**
 **Current phase: POST-BUILD — all 8 query engine phases shipped, maintenance rhythm**
-**Next checkpoint: public launch readiness (David's gate: /policies soft-launch after AIPAC review + class tag approvals + gitleaks)**
+**Next checkpoint: public launch readiness (David's gate: /policies soft-launch after 4-tag approval + AIPAC review + gitleaks)**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
