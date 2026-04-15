@@ -1,5 +1,5 @@
 import path from "path"
-import { isConstructionMode } from "../../constructionMode"
+import { isConstructionMode, isAllowedSlug } from "../../constructionMode"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"
@@ -84,8 +84,10 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
-        // Construction mode: only emit the homepage
-        if (isConstructionMode && slug !== "index") continue
+        // Construction mode: only emit slugs on the public-routes
+        // allowlist (default: ["index"]). Updated by the Ops
+        // /api/policies/publish route when David ships a page.
+        if (isConstructionMode && !isAllowedSlug(slug)) continue
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         // Event drafts are data-only (feed sidebar widgets) — don't emit standalone pages
