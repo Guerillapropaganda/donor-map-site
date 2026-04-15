@@ -16,6 +16,10 @@ import {
   hasHeading,
   runLegalReviewCheck,
   detectBothSidesEntities,
+  countUnresolvedUrlTags,
+  isUrlTriageComplete,
+  detectPipelineStatus,
+  type PipelineStatusInfo,
 } from "@/lib/checklist-helpers"
 import { getRequiredPipelinesForCommittees } from "@/lib/committee-pipeline-map"
 
@@ -196,6 +200,8 @@ function getPoliticianChecklist(chamber?: string): ChecklistItem[] {
         return raw.includes("[!contradiction-cleared]")
       }
     },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", group: "core", blockingFor: "verified",
+      check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "sign-off", label: "Editorial sign-off", group: "core", blockingFor: "verified",
       check: (p) => p.lastVerifiedBy === "editorial" },
   ]
@@ -210,17 +216,19 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "sector", label: "Sector classified", check: (p) => !!p.sector },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => isEnrichedWithin(p, 90) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   corporation: [
     { id: "pac-contributions", label: "PAC contributions / politicians funded", pipeline: "fec", check: (p, raw) => !!p.politiciansFunded || raw.includes("<!-- auto:fec-donor") },
     { id: "lobbying", label: "Lobbying filings", pipeline: "lda", check: (p, raw) => !!p.lobbyingSpend || raw.includes("<!-- auto:lda-lobbying") },
-    { id: "contracts", label: "Federal contracts", pipeline: "usaspending", check: (_, raw) => raw.includes("<!-- auto:usaspending") || raw.includes("<!-- auto:sam-contracts") },
+    { id: "contracts", label: "Federal contracts", pipeline: "usaspending", check: (_, raw) => raw.includes("<!-- auto:usaspending") || raw.includes("<!-- auto:sam-contracts"), naAllowed: true },
     { id: "sec-filings", label: "SEC filings", pipeline: "sec-edgar", check: (_, raw) => raw.includes("<!-- auto:sec-edgar"), naAllowed: true },
     { id: "regulatory", label: "Regulatory record (EPA/OSHA)", pipeline: "epa-echo", check: (_, raw) => raw.includes("<!-- auto:epa-echo") || raw.includes("<!-- auto:osha"), naAllowed: true },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
     { id: "connections", label: "Connections mapped", check: (p) => !!(p.related || p.donors) },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "enriched", label: "Enriched within 90 days", pipeline: "all", check: (p) => isEnrichedWithin(p, 90) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
@@ -230,6 +238,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "connected", label: "Connected donors/politicians", check: (p) => !!p.related },
     { id: "platform", label: "Platform documented", check: (p) => !!p.platform },
     { id: "source-type", label: "1+ Tier 1 source type", pipeline: "fec", check: (p, raw) => (p.sourceTypes || []).length >= 1 || countTier1InBody(raw) >= 1, naAllowed: true },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "think-tank": [
@@ -238,6 +247,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "policy-mapped", label: "Policy positions mapped", check: (p) => !!p.related },
     { id: "tax-status", label: "Tax status documented", check: (p) => !!(p.taxStatus || p.nonprofitStatus) },
     { id: "source-type", label: "1+ Tier 1 source type", check: (p, raw) => (p.sourceTypes || []).length >= 1 || countTier1InBody(raw) >= 1 },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   "lobbying-firm": [
@@ -246,6 +256,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "fara", label: "FARA registrations", pipeline: "fara", check: (p, raw) => !!p.faraClients || raw.includes("<!-- auto:fara"), naAllowed: true },
     { id: "revolving-door", label: "Revolving door documented", check: (p) => !!p.revolvingDoorPct, naAllowed: true },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   pac: [
@@ -253,6 +264,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "donors-mapped", label: "Donors mapped", check: (p) => !!p.donors },
     { id: "politicians-funded", label: "Politicians funded", pipeline: "fec", check: (p) => !!p.politiciansFunded || !!p.related },
     { id: "source-diversity", label: "2+ Tier 1 source types", check: (p, raw) => (p.sourceTypes || []).length >= 2 || countTier1InBody(raw) >= 2 },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   // Editorial content types — no pipeline enrichment required
@@ -261,6 +273,7 @@ const CHECKLISTS: Record<string, ChecklistItem[]> = {
     { id: "url-threshold", label: "5+ sourced URLs (Report level)", check: (_, raw) => countMarkdownUrls(raw) >= 5 },
     { id: "profiles-linked", label: "Profiles linked via wikilinks", check: (_, raw) => countWikilinks(raw) >= 1 },
     { id: "investigation-level", label: "10+ URLs + 3 Tier 1 (Investigation)", check: (_, raw) => countMarkdownUrls(raw) >= 10 && countTier1InBody(raw) >= 3, naAllowed: true },
+    { id: "urls-triaged", label: "URLs triaged (no URL NEEDED / NEEDS REVIEW)", check: (_, raw) => isUrlTriageComplete(raw) },
     { id: "sign-off", label: "Editorial sign-off", check: (p) => p.lastVerifiedBy === "editorial" },
   ],
   event: [
@@ -307,6 +320,20 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
   }
 
   const isNa = (id: string) => naItems.some((n) => n.startsWith(`${id}:`))
+
+  // Pipeline status cache — compute once per render
+  const pipelineStatusCache = new Map<string, PipelineStatusInfo>()
+  const getPipelineInfo = (item: ChecklistItem): PipelineStatusInfo | null => {
+    if (!item.pipeline || item.pipeline === "all") return null
+    const key = item.pipeline
+    if (!pipelineStatusCache.has(key)) {
+      pipelineStatusCache.set(key, detectPipelineStatus(key, raw, profile.internalNotes))
+    }
+    return pipelineStatusCache.get(key)!
+  }
+
+  // URL triage tag count for inline display
+  const urlTagCount = countUnresolvedUrlTags(raw)
 
   const checked = items.filter((item) => !isNa(item.id) && item.check(profile, raw)).length
   const naCount = items.filter((item) => isNa(item.id)).length
@@ -419,22 +446,59 @@ export function VerificationChecklist({ profile, raw, onSaveNa, onRunPipeline }:
           const na = isNa(item.id)
           const passed = !na && item.check(profile, raw)
           const naReasonText = getNaReason(item.id)
+          const pipelineInfo = getPipelineInfo(item)
+          // Pipeline warning: item failed AND pipeline has a known issue (not just "data missing")
+          const isPipelineWarning = !na && !passed && pipelineInfo && (pipelineInfo.status === "failed" || pipelineInfo.status === "never-ran")
+          const isUrlItem = item.id === "urls-triaged"
 
           return (
             <div key={item.id} className={`flex items-center gap-2 p-1.5 rounded ${na ? "opacity-50" : ""}`}>
-              {/* Status icon */}
+              {/* Status icon — 4 states: green check, grey dash (N/A), amber warning (pipeline), red X (real failure) */}
               {na ? (
-                <span className="w-4 h-4 flex items-center justify-center text-[9px] text-[var(--color-text-dim)] bg-[var(--color-bg)] rounded" title="N/A">—</span>
+                <span className="w-4 h-4 flex items-center justify-center text-[9px] text-[var(--color-text-dim)] bg-[var(--color-bg)] rounded" title={`N/A: ${naReasonText || "marked"}`}>—</span>
               ) : passed ? (
                 <span className="w-4 h-4 flex items-center justify-center text-[10px] text-[var(--color-green)]">&#10003;</span>
+              ) : isPipelineWarning ? (
+                <span className="w-4 h-4 flex items-center justify-center text-[10px] text-[var(--color-amber)]" title={pipelineInfo!.status === "failed" ? `Pipeline failed: ${pipelineInfo!.failReason}` : "Pipeline has not been run on this profile"}>&#9888;</span>
               ) : (
                 <span className="w-4 h-4 flex items-center justify-center text-[10px] text-[var(--color-red)]">&#10007;</span>
               )}
 
               {/* Label + pipeline button inline */}
-              <span className={`text-[10px] ${na ? "line-through text-[var(--color-text-dim)]" : passed ? "text-[var(--color-text)]" : "text-[var(--color-red)]"}`}>
+              <span className={`text-[10px] ${
+                na ? "line-through text-[var(--color-text-dim)]"
+                : passed ? "text-[var(--color-text)]"
+                : isPipelineWarning ? "text-[var(--color-amber)]"
+                : "text-[var(--color-red)]"
+              }`}>
                 {item.label}
               </span>
+
+              {/* Pipeline status badge */}
+              {isPipelineWarning && (
+                <span className={`text-[7px] px-1 py-0.5 rounded ${
+                  pipelineInfo!.status === "failed"
+                    ? "bg-[var(--color-amber)]/15 text-[var(--color-amber)] border border-[var(--color-amber)]/30"
+                    : "bg-[var(--color-text-dim)]/10 text-[var(--color-text-dim)] border border-[var(--color-border)]"
+                }`}>
+                  {pipelineInfo!.status === "failed" ? `FAILED ${pipelineInfo!.failDate || ""}` : "NOT RUN"}
+                </span>
+              )}
+
+              {/* URL tag count for urls-triaged item */}
+              {isUrlItem && !passed && !na && urlTagCount > 0 && (
+                <span className="text-[7px] px-1 py-0.5 rounded bg-[var(--color-red)]/15 text-[var(--color-red)] border border-[var(--color-red)]/30">
+                  {urlTagCount} tag{urlTagCount !== 1 ? "s" : ""}
+                </span>
+              )}
+
+              {/* First-triaged date for urls-triaged item */}
+              {isUrlItem && passed && profile.urlsFirstTriaged && (
+                <span className="text-[7px] px-1 py-0.5 rounded bg-[var(--color-green)]/10 text-[var(--color-green)] border border-[var(--color-green)]/30">
+                  since {profile.urlsFirstTriaged}
+                </span>
+              )}
+
               {item.pipeline && !na && onRunPipeline && (
                 <button
                   onClick={(e) => { e.stopPropagation(); onRunPipeline(item.pipeline!, profile.title) }}

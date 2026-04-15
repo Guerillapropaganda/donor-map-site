@@ -243,6 +243,96 @@ export function countWikilinks(raw: string): number {
   return (raw.match(/\[\[[^\]]+\]\]/g) || []).length
 }
 
+// ─── URL triage tracking ─────────────────────────────────────────────
+
+/**
+ * Count unresolved URL tags in the body. These indicate URLs that need
+ * David's manual review before the profile can be considered URL-clean.
+ */
+export function countUnresolvedUrlTags(raw: string): number {
+  const tags = [
+    /\(URL NEEDED\)/gi,
+    /\(NEEDS REVIEW\)/gi,
+    /\(UNVERIFIED\)/gi,
+  ]
+  let count = 0
+  for (const re of tags) {
+    const matches = raw.match(re)
+    if (matches) count += matches.length
+  }
+  return count
+}
+
+/**
+ * Check whether all URLs on a profile have been triaged (no unresolved tags).
+ */
+export function isUrlTriageComplete(raw: string): boolean {
+  return countUnresolvedUrlTags(raw) === 0
+}
+
+// ─── Pipeline status detection ───────────────────────────────────────
+
+export type PipelineStatus = "passed" | "never-ran" | "failed" | "no-data"
+
+export interface PipelineStatusInfo {
+  status: PipelineStatus
+  failDate?: string
+  failReason?: string
+}
+
+/**
+ * Determine the status of a pipeline for a given profile by examining
+ * internal-notes for failure messages and the body for auto-blocks.
+ *
+ * Returns:
+ *   - "passed"    — auto-block present, pipeline wrote data
+ *   - "failed"    — internal-notes records a pipeline failure
+ *   - "no-data"   — internal-notes shows pipeline ran but found nothing
+ *   - "never-ran" — no auto-block AND no failure note (pipeline hasn't run)
+ */
+export function detectPipelineStatus(
+  pipelineName: string,
+  raw: string,
+  internalNotes?: string
+): PipelineStatusInfo {
+  // If auto-block exists, pipeline succeeded
+  if (hasAutoBlock(raw, pipelineName)) {
+    return { status: "passed" }
+  }
+
+  // Check internal-notes for failure or no-data messages
+  if (internalNotes) {
+    // Pattern: [CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ...
+    const failPattern = new RegExp(
+      `\\[CODE\\s*@\\s*(\\d{4}-\\d{2}-\\d{2})\\]\\s*Pipeline:\\s*${escapeRegex(pipelineName)}\\s+FAILED`,
+      "i"
+    )
+    const failMatch = internalNotes.match(failPattern)
+    if (failMatch) {
+      return {
+        status: "failed",
+        failDate: failMatch[1],
+        failReason: `Pipeline failed on ${failMatch[1]}`,
+      }
+    }
+
+    // Pattern: Pipeline: X returned 0 results / no data
+    const noDataPattern = new RegExp(
+      `Pipeline:\\s*${escapeRegex(pipelineName)}\\s+(returned 0|no data|no results|0 results)`,
+      "i"
+    )
+    if (noDataPattern.test(internalNotes)) {
+      return { status: "no-data" }
+    }
+  }
+
+  return { status: "never-ran" }
+}
+
+function escapeRegex(s: string): string {
+  return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+}
+
 // ══════════════════════════════════════════════════════════════════════
 // CHECK-ID SYSTEM (Phase 2a)
 // ══════════════════════════════════════════════════════════════════════
