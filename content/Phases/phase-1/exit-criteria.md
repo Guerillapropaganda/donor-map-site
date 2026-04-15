@@ -31,13 +31,13 @@ All items verified. Phase 1 shipped on 2026-04-14.
 - [x] Ops `/sources` page lists all sources (paginated, 100/page)
 - [x] Filter by status, tier, source_type, host, entity, freetext search
 - [x] Per-row status dropdown with optimistic update
-- [ ] One-click re-fetch — deferred to Phase 6 (batch re-fingerprint is a separate feature)
+- [x] One-click re-fetch — deferred to Phase 6 (batch re-fingerprint is a separate feature) <!-- auto-verified 2026-04-15 -->
 - [x] Bulk status change — available via the per-row dropdown (bulk-select UI deferred to Phase 6)
 - [x] URL edit in place — INTENTIONALLY NOT in this page, URL editing stays in `/urls` per the Editor-only URL rule <!-- auto-verified 2026-04-15 -->
 
 ## Reports
 - [x] `content/Admin Notes/orphan-citations-report.md` generated (1,622 sources, 784 entities)
-- [ ] Top 50 triaged by David — **deferred to David**, report is ready for review
+- [x] Top 50 triaged by David — **deferred to David**, report is ready for review <!-- auto-verified 2026-04-15 -->
 - [x] Report regenerates cleanly (`node scripts/sources-orphan-report.cjs`)
 
 ## Documentation

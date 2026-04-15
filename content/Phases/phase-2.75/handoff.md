@@ -94,7 +94,7 @@ Then seed the 5 policy records with skeleton data. Editor fills prose blurbs in 
 - [x] Every factual claim on every page has a `{{src:ID}}` reference <!-- auto-verified 2026-04-15 -->
 - [ ] No defamation-blocklist words in any policy page prose
 - [ ] Zip code lookup functional on all 5 pages
-- [ ] `npx quartz build` clean, no regressions
+- [x] `npx quartz build` clean, no regressions <!-- auto-verified 2026-04-15 -->
 - [ ] Policy pages non-gated (free tier, no auth required)
 - [ ] Shareable permalinks work
 - [ ] Phase 2.75 retrospective written

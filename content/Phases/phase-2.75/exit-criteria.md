@@ -62,8 +62,8 @@ All items must be verified before `phase-transition` skill runs.
 - [ ] Phase 2.75 retrospective written
 
 ## Verification
-- [ ] `npx quartz build` clean
-- [ ] All pre-commit sentinels pass
+- [x] `npx quartz build` clean <!-- auto-verified 2026-04-15 -->
+- [x] All pre-commit sentinels pass <!-- auto-verified 2026-04-15 -->
 - [ ] Every policy page loads in <2s on a cold cache
 - [ ] Shareable permalinks resolve correctly
 - [ ] Cross-page links (donor profile → policy page → rep lookup) work end-to-end

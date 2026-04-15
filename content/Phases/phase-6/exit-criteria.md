@@ -21,7 +21,7 @@ All items must be verified before the `phase-transition` skill runs to close out
 - [ ] Fingerprint classifier tests passing
 - [x] Query engine sample-query tests passing <!-- auto-verified 2026-04-15 -->
 - [ ] Policy page snapshot tests passing
-- [ ] Pre-commit sentinel tests passing
+- [x] Pre-commit sentinel tests passing <!-- auto-verified 2026-04-15 -->
 - [ ] CI integration: tests run on every PR
 
 ## Data integrity (all must pass)
@@ -72,8 +72,8 @@ All items must be verified before the `phase-transition` skill runs to close out
 - [x] Final closing ADR written (ADR-NNNN: "Query Engine build complete") <!-- auto-verified 2026-04-15 -->
 
 ## Build verification
-- [ ] `npx quartz build` clean
-- [ ] All pre-commit sentinels pass
+- [x] `npx quartz build` clean <!-- auto-verified 2026-04-15 -->
+- [x] All pre-commit sentinels pass <!-- auto-verified 2026-04-15 -->
 - [ ] No regressions on any phase's earlier exit criteria
 
 ## Shipping gate

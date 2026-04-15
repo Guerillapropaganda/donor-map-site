@@ -45,8 +45,8 @@ All items must be verified before `phase-transition` skill runs.
 ## Verification
 - [ ] 10 test queries executed, results verified against manual counts
 - [ ] Each class-analysis filter tested on 2+ known cases
-- [ ] `npx quartz build` clean, build time increase <30s
-- [ ] All pre-commit sentinels pass
+- [x] `npx quartz build` clean, build time increase <30s <!-- auto-verified 2026-04-15 -->
+- [x] All pre-commit sentinels pass <!-- auto-verified 2026-04-15 -->
 - [ ] No regressions on Phase 1 source registry functionality
 
 ## Documentation

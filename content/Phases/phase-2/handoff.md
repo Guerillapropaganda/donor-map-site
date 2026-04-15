@@ -66,7 +66,7 @@ approved_at: null
 - [x] `data/entity-class-tags.jsonl` with ~450 donors + ~231 politicians tagged <!-- auto-verified 2026-04-15 -->
 - [x] `data/events.jsonl` schema + store, populated with votes/hearings/regulations <!-- auto-verified 2026-04-15 -->
 - [ ] `events.jsonl` MUST include `policy_id` (nullable) and `obstruction_type` (enum) fields — hard Phase 2.75 dependency
-- [ ] `data/policy-stakes-vocab.jsonl` — growing controlled vocabulary for the `policy_stakes` tag dimension
+- [x] `data/policy-stakes-vocab.jsonl` — growing controlled vocabulary for the `policy_stakes` tag dimension <!-- auto-verified 2026-04-15 -->
 
 ### Tagging workflow
 - [x] `scripts/batch-propose-class-tags.cjs` — Research Claude proposes, writes to `entity-class-tags-proposed.jsonl` <!-- auto-verified 2026-04-15 -->
@@ -94,7 +94,7 @@ approved_at: null
 ### Documentation
 - [x] CLAUDE.md updates for query engine conventions <!-- auto-verified 2026-04-15 -->
 - [x] Vault Rules.md updates for entities.jsonl / events.jsonl authority <!-- auto-verified 2026-04-15 -->
-- [ ] Pipeline Guide.md updates if new pipelines ship
+- [x] Pipeline Guide.md updates if new pipelines ship <!-- auto-verified 2026-04-15 -->
 - [ ] Phase 2 retrospective
 
 ## Exit criteria

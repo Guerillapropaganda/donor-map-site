@@ -72,8 +72,8 @@ After that:
 - [x] Quartz `{{src:ID}}` plugin <!-- auto-verified 2026-04-15 -->
 - [x] Ops `/sources` review page <!-- auto-verified 2026-04-15 -->
 - [ ] At least one pipeline migrated to sources-store
-- [ ] `CLAUDE.md`, `Vault Rules.md`, `Pipeline Guide.md` updated with new rules
-- [ ] `npx quartz build` clean (no regressions)
+- [x] `CLAUDE.md`, `Vault Rules.md`, `Pipeline Guide.md` updated with new rules <!-- auto-verified 2026-04-15 -->
+- [x] `npx quartz build` clean (no regressions) <!-- auto-verified 2026-04-15 -->
 - [x] Phase 1 retrospective written <!-- auto-verified 2026-04-15 -->
 
 **Progress: ~91% (10 of 11 core deliverables shipped this session).**

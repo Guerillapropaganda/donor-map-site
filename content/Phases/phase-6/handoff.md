@@ -61,7 +61,7 @@ That becomes Phase 6's initial backlog. Every item gets triaged: fix / explicitl
 - [ ] Test suite for fingerprint classifier (live/dead/bot-block/paywall/orphan/redirected)
 - [x] Test suite for query engine (sample queries with expected counts) <!-- auto-verified 2026-04-15 -->
 - [ ] Test suite for policy page template (snapshot tests)
-- [ ] Test suite for pre-commit sentinels (banned words, verified regression, bioguide dupes)
+- [x] Test suite for pre-commit sentinels (banned words, verified regression, bioguide dupes) <!-- auto-verified 2026-04-15 -->
 - [ ] CI integration (tests run on every PR)
 
 ### Data integrity audits
