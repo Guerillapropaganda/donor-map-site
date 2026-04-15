@@ -20,7 +20,7 @@ issues:
 top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
-donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Fanjul Family - Florida Crystals]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[HOUSE MAJORITY PAC]] · [[GIFFORDS PAC]] · [[CHANGE NOW]]"
+donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Fanjul Family - Florida Crystals]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[HOUSE MAJORITY PAC]] · [[GIFFORDS PAC]] · [[CHANGE NOW]] · [[Change Now]] · [[Giffords PAC]]"
 related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 total-received: $1,175,788
 fec-candidate-id: H2FL25018

@@ -7,6 +7,9 @@ source-tier: 1
 parent: null
 sector: Wall Street
 entity-type: Corporation
+aliases:
+  - "Blackstone"
+  - "Blackstone Inc"
 politicians-funded: "[[Mike Lee]], [[Chuck Schumer]], [[Donald Trump]], [[Susan Collins]]"
 issues:
   - Wall Street & Finance

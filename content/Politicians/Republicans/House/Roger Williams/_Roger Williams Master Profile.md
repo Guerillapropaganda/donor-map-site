@@ -40,7 +40,7 @@ issues:
   - Foreign Trade and International Finance
   - Government Operations and Politics
   - Health
-top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Activate America]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]]"
+top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Activate America]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]], [[Committee for Defending American Values]]"
 ---
 
 <!-- auto:data-panel start -->

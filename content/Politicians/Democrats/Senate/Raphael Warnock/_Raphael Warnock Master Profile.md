@@ -49,7 +49,7 @@ known-gaps:
   - $170M combined 2020-2022 fundraising figure needs FEC filing cross-check (currently cited via aggregated state-level breakdowns without URL)
 opposes: "[[AMERICAN CROSSROADS]] · [[SENATE LEADERSHIP FUND]] · [[PEACHTREE PAC]] · [[NRSC]]"
 related: "[[_Kamala Harris Master Profile]] · [[_Jon Ossoff Master Profile]] · [[_Bernie Sanders Master Profile]] · [[CNA - California Nurses Association|CNA]] · [[SEIU - Service Employees International Union|SEIU]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Ebenezer Baptist Church]] · [[Tech and Media Donors]] · [[Healthcare Sector]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[David McIntosh]] · [[Worker Power PAC for Georgia]] · [[Senate Leadership Fund]] · [[Healthcare Sector]] · [[PEACHTREE PAC]] · [[AMERICAN CROSSROADS]] · [[WORKER POWER PAC FOR GEORGIA]] · [[NRSC]]"
+donors: "[[David McIntosh]] · [[Worker Power PAC for Georgia]] · [[Senate Leadership Fund]] · [[Healthcare Sector]] · [[PEACHTREE PAC]] · [[AMERICAN CROSSROADS]] · [[WORKER POWER PAC FOR GEORGIA]] · [[NRSC]] · [[American Crossroads]] · [[Peachtree PAC]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate

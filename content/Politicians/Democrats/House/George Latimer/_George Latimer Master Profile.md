@@ -15,7 +15,7 @@ issues:
   - Israel & Foreign Policy
   - Local Government
 related: "[[_Jamaal Bowman Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fairshake PAC]]"
-donors: "[[Bernie Marcus]] · [[DMFI - Democratic Majority for Israel]] · [[Fairshake PAC]] · [[DMFI PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[JUSTICE DEMOCRATS PAC]] · [[United Democracy Project - UDP]] · [[EMGAGE FEDERAL POLITICAL ACTION COMMITTEE]]"
+donors: "[[Bernie Marcus]] · [[DMFI - Democratic Majority for Israel]] · [[Fairshake PAC]] · [[DMFI PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[JUSTICE DEMOCRATS PAC]] · [[United Democracy Project - UDP]] · [[EMGAGE FEDERAL POLITICAL ACTION COMMITTEE]] · [[Justice Democrats PAC]] · [[Working Families Party PAC]] · [[Emgage Federal Political Action Committee]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

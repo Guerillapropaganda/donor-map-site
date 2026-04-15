@@ -34,7 +34,7 @@ last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.)]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]], [[POLITICAL ACTION FOR LASTING SECURITY]], [[SIERRA CLUB POLITICAL COMMITTEE]]"
+top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.)]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]], [[POLITICAL ACTION FOR LASTING SECURITY]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Political Committee]], [[Political Action for Lasting Security]]"
 ---
 
 <!-- auto:data-panel start -->

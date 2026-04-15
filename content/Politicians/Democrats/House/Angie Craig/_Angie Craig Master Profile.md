@@ -28,7 +28,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]]"
-donors: "[[Republican Jewish Coalition]], [[Center Forward Committee]], [[DMFI PAC]], [[NORTH STAR DAWN PAC]], [[CLEAR VOICE MINNESOTA]], [[BLUE MAJORITY PROJECT]]"
+donors: "[[Republican Jewish Coalition]], [[Center Forward Committee]], [[DMFI PAC]], [[NORTH STAR DAWN PAC]], [[CLEAR VOICE MINNESOTA]], [[BLUE MAJORITY PROJECT]], [[Clear Voice Minnesota]], [[North Star Dawn PAC]], [[Blue Majority Project]]"
 ---
 
 <!-- auto:data-panel start -->

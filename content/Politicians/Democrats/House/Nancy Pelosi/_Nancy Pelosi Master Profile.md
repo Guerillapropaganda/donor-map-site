@@ -82,7 +82,7 @@ total-raised: $2,408,010
 total-spent: $3,306,927
 cash-on-hand: "1179149.96"
 fec-cycle: 2026
-donors: "[[Google - Alphabet]] · [[House Majority PAC]] · [[Blue Shield of California]] · [[Democratic Small Dollar Networks]] · [[California Labor Federation]] · [[Kaiser Permanente]] · [[Jeffrey Katzenberg]] · [[UnitedHealth Group - Optum]] · [[FUTURE45]] · [[Congressional Leadership Fund]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[SEIU - Service Employees International Union]] · [[AIPAC - American Israel Public Affairs Committee]] · [[VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)]] · [[Mark Zuckerberg]] · [[ARIZONANS FOR AFFORDABLE ELECTRICITY]]"
+donors: "[[Google - Alphabet]] · [[House Majority PAC]] · [[Blue Shield of California]] · [[Democratic Small Dollar Networks]] · [[California Labor Federation]] · [[Kaiser Permanente]] · [[Jeffrey Katzenberg]] · [[UnitedHealth Group - Optum]] · [[FUTURE45]] · [[Congressional Leadership Fund]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[SEIU - Service Employees International Union]] · [[AIPAC - American Israel Public Affairs Committee]] · [[VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)]] · [[Mark Zuckerberg]] · [[ARIZONANS FOR AFFORDABLE ELECTRICITY]] · [[Arizonans for Affordable Electricity]] · [[Future45]]"
 ---
 
 <!-- auto:data-panel start -->

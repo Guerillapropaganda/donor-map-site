@@ -14,7 +14,7 @@ bills-sponsored: 0
 bills-cosponsored: 0
 total-received: $707,083
 fec-candidate-id: H2AZ01024
-donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]] · [[NRA POLITICAL VICTORY FUND]]"
+donors: "[[Patrick Soon-Shiong]] · [[Christopher Ruddy]] · [[NRA POLITICAL VICTORY FUND]] · [[NRA Political Victory Fund]]"
 related: "[[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true

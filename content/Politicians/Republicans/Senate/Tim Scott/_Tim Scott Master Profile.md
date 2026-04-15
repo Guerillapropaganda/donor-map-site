@@ -27,7 +27,7 @@ top-donors:
   - Senate Leadership Fund
   - Michael Bloomberg
 related: "[[Bank of America]] · [[John Cornyn]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Blackstone]] · [[Goldman Sachs]] · [[Senate Leadership Fund]]"
-donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Michael Bloomberg]] · [[Senate Leadership Fund]]"
+donors: "[[Bank of America]] · [[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Koch Network - Charles Koch]] · [[Goldman Sachs]] · [[Michael Bloomberg]] · [[Senate Leadership Fund]] · [[Blackstone]]"
 total-received: $1,539
 fec-candidate-id: S4SC00240
 last-enriched: "2026-04-10"

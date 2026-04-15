@@ -34,7 +34,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
-donors: "[[Bill Gates]] · [[American Petroleum Institute]] · [[Tech Industry]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Raytheon (RTX Corporation)]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[Defense Industry]] · [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]] · [[ENVIRONMENT AMERICA INC]]"
+donors: "[[Bill Gates]] · [[American Petroleum Institute]] · [[Tech Industry]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Raytheon (RTX Corporation)]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[Defense Industry]] · [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]] · [[ENVIRONMENT AMERICA INC]] · [[American Future Fund]] · [[Environment America INC]] · [[Republican Campaign Committee of New Mexico]]"
 ---
 
 <!-- auto:data-panel start -->

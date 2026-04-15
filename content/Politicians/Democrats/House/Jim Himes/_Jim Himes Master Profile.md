@@ -17,7 +17,7 @@ leadership-roles:
   - Ranking Member
 issues:
   - Wall Street & Finance
-top-donors: "[[League of Conservation Voters]], [[Goldman Sachs]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[COMMON SENSE FOR CONNECTICUT]], [[TRINITY PAC]], [[CONNECTICUT TAXPAYERS ALLIANCE]]"
+top-donors: "[[League of Conservation Voters]], [[Goldman Sachs]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[COMMON SENSE FOR CONNECTICUT]], [[TRINITY PAC]], [[CONNECTICUT TAXPAYERS ALLIANCE]], [[Common Sense for Connecticut]], [[Trinity PAC]], [[Connecticut Taxpayers Alliance]]"
 total-received: $803,939
 fec-candidate-id: H8CT04172
 govtrack-id: 412282

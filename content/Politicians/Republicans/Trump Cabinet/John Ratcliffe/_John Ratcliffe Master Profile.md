@@ -10,7 +10,7 @@ party: Republican
 chamber: Cabinet
 committees:
   - Intelligence
-top-donors: "[[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Northrop Grumman]], [[L3 Technologies]], [[MADISON PROJECT INC.]], [[SENATE CONSERVATIVES FUND]]"
+top-donors: "[[CLUB FOR GROWTH ACTION]], [[Club for Growth]], [[Northrop Grumman]], [[L3 Technologies]], [[MADISON PROJECT INC.]], [[SENATE CONSERVATIVES FUND]], [[Madison Project Inc.]], [[Senate Conservatives Fund]]"
 govtrack-id: 412653
 bills-sponsored: 0
 bills-cosponsored: 0

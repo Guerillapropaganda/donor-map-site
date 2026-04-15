@@ -1,60 +1,56 @@
 ---
-title: "Business Roundtable"
+title: Business Roundtable
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Dark Money"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Linda T. Sanchez"
-  - "J. Luis Correa"
+sector: Dark Money
+entity-type: Individual Donor
+politicians-funded: "[[J. Luis Correa]], [[Donald Trump]], [[Linda T. Sanchez]]"
 issues:
-  - "Labor & Workers"
+  - Labor & Workers
 lobbying-spend: 4861010
 lobbying-filings: 104
 ein: "237236607"
-annual-revenue: "$64.5M"
-net-assets: "$47.8M"
+annual-revenue: $64.5M
+net-assets: $47.8M
 tax-year: "2023"
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 federal-register-mentions: 172
 regulatory-agencies:
-  - "Environmental Protection Agency"
-  - "Homeland Security Department"
-  - "Interior Department"
-  - "Justice Department"
-  - "Labor Department"
-  - "Ocean Energy Management Bureau"
-  - "Safety and Environmental Enforcement Bureau"
-  - "Securities and Exchange Commission"
-  - "Veterans Employment and Training Service"
+  - Environmental Protection Agency
+  - Homeland Security Department
+  - Interior Department
+  - Justice Department
+  - Labor Department
+  - Ocean Energy Management Bureau
+  - Safety and Environmental Enforcement Bureau
+  - Securities and Exchange Commission
+  - Veterans Employment and Training Service
 related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]]"
 sec-filings: 10000
 sec-form-types:
-  - "8-K"
-  - "DEFA14A"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "EX-99.8"
-  - "PX14A6G"
-  - "PX14A6N"
-  - "SC 14F1"
+  - 8-K
+  - DEFA14A
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - EX-99.8
+  - PX14A6G
+  - PX14A6N
+  - SC 14F1
 cross-vault-triangulation-count: 14
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-nonprofit-status: "501(c)(6)"
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+nonprofit-status: 501(c)(6)
 total-revenue: 79436895
 total-assets: 50178043
-wikidata-id: "Q5001792"
-wikipedia-url: "https://en.wikipedia.org/wiki/Business_Roundtable"
-wikipedia-extract: "The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies."
-total-political-spend: "$110,825"
+wikidata-id: Q5001792
+wikipedia-url: https://en.wikipedia.org/wiki/Business_Roundtable
+wikipedia-extract: The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies.
+total-political-spend: $110,825
 ---
 
 <!-- auto:data-panel start -->

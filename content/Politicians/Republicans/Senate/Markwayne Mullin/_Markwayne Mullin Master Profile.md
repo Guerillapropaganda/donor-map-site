@@ -14,7 +14,7 @@ committees:
   - Armed Services
 total-received: $4,666,234
 fec-candidate-id: S2OK00186
-donors: "[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]] · [[Fraternal Order of Police]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[PERFORMANCE RACING INC.]]"
+donors: "[[Devon Energy]] · [[DEFEND US PAC]] · [[CRYPTO INNOVATION]] · [[Fraternal Order of Police]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[PERFORMANCE RACING INC.]] · [[Performance Racing Inc.]] · [[Defend US PAC]]"
 related: "[[Kristi Noem]] · [[_Jim Inhofe Master Profile|Jim Inhofe]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Lockheed Martin]] · [[L3 Technologies]]"
 govtrack-id: 412568
 bills-sponsored: 23

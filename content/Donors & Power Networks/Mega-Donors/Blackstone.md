@@ -1,6 +1,8 @@
 ---
 title: "Blackstone (Redirect)"
-type: corporation
+type: redirect
+editorial-status: redirect
+redirect-target: "[[Blackstone Group]]"
 content-readiness: draft
 last-updated: 2026-04-09
 source-tier: null

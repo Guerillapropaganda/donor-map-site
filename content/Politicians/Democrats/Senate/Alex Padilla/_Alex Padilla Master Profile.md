@@ -54,7 +54,7 @@ total-spent: $2,184,375
 cash-on-hand: "7177222.88"
 fec-cycle: 2028
 fec-debt: "225.58"
-top-donors: "[[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[CARE ACTION NOW INC.]], [[DOLORES HUERTA ACTION FUND]], [[DEMOCRATIC ALLIANCE FOR ACTION]]"
+top-donors: "[[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[CARE ACTION NOW INC.]], [[DOLORES HUERTA ACTION FUND]], [[DEMOCRATIC ALLIANCE FOR ACTION]], [[Care Action Now Inc.]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Democratic Alliance for Action]], [[Dolores Huerta Action Fund]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]]"
 ---
 
 <!-- auto:data-panel start -->

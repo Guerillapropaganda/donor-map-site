@@ -44,7 +44,7 @@ stock-trade-tickers:
   - DVMT
 total-received: $385,884
 fec-candidate-id: S6IL00292
-donors: "[[Democracy Alliance]], [[Boeing]], [[General Dynamics]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[FREEDOMWORKS FOR AMERICA]], [[Lockheed Martin]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NOW OR NEVER PAC]], [[NEW PROSPERITY FOUNDATION; THE]]"
+donors: "[[Democracy Alliance]], [[Boeing]], [[General Dynamics]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[FREEDOMWORKS FOR AMERICA]], [[Lockheed Martin]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NOW OR NEVER PAC]], [[NEW PROSPERITY FOUNDATION; THE]], [[Now Or Never PAC]], [[FreedomWorks for America]], [[New Prosperity Foundation; the]], [[Raytheon (RTX)]]"
 bioguide-id: D000622
 govtrack-id: 412533
 bills-sponsored: 47

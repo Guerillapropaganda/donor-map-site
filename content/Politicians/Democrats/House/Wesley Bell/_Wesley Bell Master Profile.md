@@ -22,7 +22,7 @@ issues:
   - International Affairs
   - Labor and Employment
 related: "[[_Cori Bush Master Profile]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]]"
-donors: "[[Bernie Marcus]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[DMFI - Democratic Majority for Israel]] · [[DMFI PAC]] · [[Mainstream Democrats Pac]] · [[JUSTICE DEMOCRATS PAC]] · [[WORKING FAMILIES PARTY PAC]]"
+donors: "[[Bernie Marcus]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[DMFI - Democratic Majority for Israel]] · [[DMFI PAC]] · [[Mainstream Democrats Pac]] · [[JUSTICE DEMOCRATS PAC]] · [[WORKING FAMILIES PARTY PAC]] · [[Working Families Party PAC]] · [[Justice Democrats PAC]]"
 source-types: []
 known-gaps:
   - Stub created 2026-04-09 to preserve vault connections

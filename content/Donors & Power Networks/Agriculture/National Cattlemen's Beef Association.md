@@ -1,105 +1,84 @@
 ---
-title: "National Cattlemen's Beef Association"
+title: National Cattlemen's Beef Association
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Agriculture"
-entity-type: "Individual Donor"
-politicians-funded:
-  - "Julia Letlow"
-  - "David G. Valadao"
-  - "Jimmy Panetta"
-  - "Leon Panetta"
-  - "Tracey Mann"
-  - "August Pfluger"
-  - "Richard Hudson"
-  - "Bennie Thompson"
-  - "Mike Thompson"
-  - "Glenn Thompson"
-  - "Bruce Westerman"
-  - "Brad Finstad"
-  - "Nathaniel Moran"
-  - "Jerry Moran"
-  - "Harold Rogers"
-  - "Mike Rogers"
-  - "Vince Fong"
-  - "Jim Costa"
-  - "Mike Carey"
+sector: Agriculture
+entity-type: Individual Donor
+politicians-funded: "[[Mike Carey]], [[Harold Rogers]], [[Jimmy Panetta]], [[Glenn Thompson]], [[Leon Panetta]], [[Richard Hudson]], [[Frank Lucas]], [[Jim Costa]], [[Bennie Thompson]], [[Mike Rogers]], [[August Pfluger]], [[Nathaniel Moran]], [[Tracey Mann]], [[Vince Fong]], [[Donald Trump]], [[David G. Valadao]], [[Mike Thompson]], [[Jerry Moran]], [[Brad Finstad]], [[Bruce Westerman]], [[Julia Letlow]]"
 issues:
-  - "Agriculture"
+  - Agriculture
 ein: "840738973"
-annual-revenue: "$54.9M"
-net-assets: "$37.3M"
+annual-revenue: $54.9M
+net-assets: $37.3M
 tax-year: "2023"
 court-cases: 85
 last-enriched: "2026-04-15"
 needs-reenrichment: true
-reenrich-reason: "run fec pipeline"
+reenrich-reason: run fec pipeline
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Eighth Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the Ninth Circuit"
-  - "District Court, D. North Dakota"
-  - "District Court, D. Oregon"
-  - "District Court, D. Utah"
-  - "District Court, D. Wyoming"
-  - "District Court, District of Columbia"
-  - "District Court, W.D. Texas"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Eighth Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the Ninth Circuit
+  - District Court, D. North Dakota
+  - District Court, D. Oregon
+  - District Court, D. Utah
+  - District Court, D. Wyoming
+  - District Court, District of Columbia
+  - District Court, W.D. Texas
 lobbying-spend: 3106887
 lobbying-filings: 143
 federal-register-mentions: 71
 regulatory-agencies:
-  - "Agricultural Marketing Service"
-  - "Agriculture Department"
-  - "Animal and Plant Health Inspection Service"
-  - "Commodity Futures Trading Commission"
-  - "Environmental Protection Agency"
-  - "Federal Motor Carrier Safety Administration"
-  - "Federal Trade Commission"
-  - "Fish and Wildlife Service"
-  - "Food Safety and Inspection Service"
-  - "Interior Department"
+  - Agricultural Marketing Service
+  - Agriculture Department
+  - Animal and Plant Health Inspection Service
+  - Commodity Futures Trading Commission
+  - Environmental Protection Agency
+  - Federal Motor Carrier Safety Administration
+  - Federal Trade Commission
+  - Fish and Wildlife Service
+  - Food Safety and Inspection Service
+  - Interior Department
 related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 56531773
 total-assets: 37287895
 cross-vault-triangulation-count: 10
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
-  • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it.
-The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 108
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-K405"
-  - "10-Q"
+  - 10-K
+  - 10-K/A
+  - 10-K405
+  - 10-Q
   - "3"
-  - "424B1"
-  - "424B3"
-  - "8-K"
-  - "ABS-15G"
-  - "ABS-15G/A"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "EX-13"
-  - "EX-13.1"
-  - "EX-99"
-  - "EX-99.1"
-  - "EX-99.2"
-  - "IRANNOTICE"
-  - "PRE 14A"
-  - "S-8"
-  - "SB-2"
-  - "SB-2/A"
-  - "SC 14D9"
-  - "SC 14D9/A"
-wikidata-id: "Q6971302"
-wikipedia-url: "https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association"
-wikipedia-extract: "National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers."
-total-political-spend: "$452,500"
+  - 424B1
+  - 424B3
+  - 8-K
+  - ABS-15G
+  - ABS-15G/A
+  - DEF 14A
+  - DEFA14A
+  - EX-13
+  - EX-13.1
+  - EX-99
+  - EX-99.1
+  - EX-99.2
+  - IRANNOTICE
+  - PRE 14A
+  - S-8
+  - SB-2
+  - SB-2/A
+  - SC 14D9
+  - SC 14D9/A
+wikidata-id: Q6971302
+wikipedia-url: https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association
+wikipedia-extract: National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers.
+total-political-spend: $452,500
 ---
 
 <!-- auto:data-panel start -->
