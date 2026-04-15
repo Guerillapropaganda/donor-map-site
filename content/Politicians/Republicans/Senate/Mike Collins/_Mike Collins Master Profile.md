@@ -40,7 +40,7 @@ related: >-
   [[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] ·
   [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] ·
   [[David Sacks Master Profile]] · [[Howard Lutnick Master Profile]]
-donors: "[[Tech Industry]]"
+donors: "[[Tech Industry]] · [[American Gaming Association]]"
 ---
 
 <!-- auto:data-panel start -->

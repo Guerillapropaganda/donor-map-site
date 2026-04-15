@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: "501(c)(4)"

@@ -24,8 +24,8 @@ known-gaps:
   - "No FEC contribution data"
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]]"
-donors: "[[Tim Dunn]]"
+related: "[[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Russell Vought Master Profile]] · [[America First Legal and the Dark Money Architecture]] · [[Kash Patel]] · [[The Nunes Pipeline and the Loyalty Promotion System]]"
+donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Workers]]"
 ---
 
 <!-- auto:data-panel start -->

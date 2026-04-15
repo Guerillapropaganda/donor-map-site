@@ -23,7 +23,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[Palantir]] · [[Wall Street Finance PACs]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[Palantir]] · [[Wall Street Finance PACs]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]]"
 last-enriched: "2026-04-11"
 committees:
   - "House Committee on Financial Services"

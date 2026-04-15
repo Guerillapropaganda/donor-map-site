@@ -37,8 +37,8 @@ opposes: >-
   Ocasio-Cortez Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida
   Tlaib Master Profile]] · [[_Maxine Waters Master Profile]] · [[_Jamie Raskin
   Master Profile]] · [[Hillary Clinton Master Profile]]
-donors: ">- · [[Trump Organization]]"
-related: "The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+donors: ">- · [[Trump Organization]] · [[Trump Media & Technology Group]]"
+related: "The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]]"
 total-received: '$3,852,435'
 fec-candidate-id: P80001571
 internal-notes: >-

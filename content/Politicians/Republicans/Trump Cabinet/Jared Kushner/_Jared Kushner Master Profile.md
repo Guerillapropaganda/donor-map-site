@@ -17,8 +17,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_JD Vance Master Profile]] · [[Immigration Enforcement - The Detention Economy]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[Steve Witkoff]]"
-donors: "[[Trump Organization]]"
+related: "[[_Donald Trump Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Miriam Adelson]] · [[_Benjamin Netanyahu Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_JD Vance Master Profile]] · [[Immigration Enforcement - The Detention Economy]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[_Marco Rubio Master Profile]] · [[_Pete Hegseth Master Profile]] · [[Steve Witkoff]] · [[Tim Scott]]"
+donors: "[[Trump Organization]] · [[World Liberty Financial]]"
 ---
 
 <!-- auto:data-panel start -->

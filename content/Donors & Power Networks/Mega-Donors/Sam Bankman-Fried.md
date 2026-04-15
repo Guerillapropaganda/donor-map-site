@@ -2,7 +2,7 @@
 title: "Sam Bankman-Fried"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-09
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Mega-Donors"
@@ -38,7 +38,7 @@ court-jurisdictions:
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Judicial Panel on Multidistrict Litigation"
-related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]]"
+related: "[[FTX - Sam Bankman-Fried]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Debbie Stabenow]]"
 ---
 
 <!-- auto:data-panel start -->

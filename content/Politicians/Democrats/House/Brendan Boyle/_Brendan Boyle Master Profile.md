@@ -28,6 +28,10 @@ fec-candidate-id: "H4PA13199"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$1,522,158"
+total-spent: "$548,110"
+cash-on-hand: "4812331.40"
+fec-cycle: 2026
 ---
 
 <!-- auto:data-panel start -->
@@ -283,3 +287,30 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 - [Congress.gov: Brendan Boyle](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $1,522,158 |
+| Total Spent | $548,110 |
+| Cash on Hand | 4812331.40 |
+| Individual Contributions | $358,434 |
+| PAC Contributions | $502,235 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $1,522,158 | $548,110 | 4812331.40 |
+| 2024 | $2,337,216 | $843,874 | 3838283.35 |
+| 2022 | $1,708,550 | $832,350 | 2344941.15 |
+| 2020 | $1,560,584 | $760,250 | 1468741.37 |
+| 2018 | $1,174,515 | $967,575 | 668407.46 |
+| 2016 | $1,088,645 | $1,042,401 | 461467.13 |
+| ... | 1 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
+<!-- auto:fec-summary end -->

@@ -31,6 +31,10 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profi
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: "$608,726"
+total-spent: "$819,626"
+cash-on-hand: "1415264.19"
+fec-cycle: 2026
 ---
 
 <!-- auto:data-panel start -->
@@ -358,3 +362,30 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Campaign Finance Summary (FEC)
+<!-- auto:fec-summary start -->
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $608,726 |
+| Total Spent | $819,626 |
+| Cash on Hand | 1415264.19 |
+| Individual Contributions | $145,169 |
+| PAC Contributions | $452,744 |
+| Coverage Through | 2026-03-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $608,726 | $819,626 | 1415264.19 |
+| 2024 | $1,245,201 | $1,349,946 | 1626164.23 |
+| 2022 | $1,515,666 | $1,308,305 | 1730909.56 |
+| 2020 | $1,379,892 | $1,099,404 | 1523548.27 |
+| 2018 | $1,020,602 | $1,034,484 | 1243060.41 |
+| 2016 | $1,029,909 | $1,029,507 | 1256941.99 |
+| ... | 11 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
+<!-- auto:fec-summary end -->

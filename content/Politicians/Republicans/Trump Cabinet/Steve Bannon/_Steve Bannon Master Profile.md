@@ -20,7 +20,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]] · [[Kash Patel]]"
+related: "[[_Donald Trump Master Profile]] · [[Robert Mercer]] · [[Rebekah Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]] · [[Kash Patel]] · [[Trishul LLC and the Trump Loyalty Economy]]"
 donors: "[[Jeffrey Epstein Network]]"
 ---
 

@@ -20,8 +20,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[The 2024 Tech Billionaire Network]]"
-donors: "[[World Liberty Financial]]"
+related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]]"
+donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]]"
 ---
 
 <!-- auto:data-panel start -->

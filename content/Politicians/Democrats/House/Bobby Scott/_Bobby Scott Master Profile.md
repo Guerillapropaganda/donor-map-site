@@ -426,3 +426,34 @@ _No committee data found._
 
 - {{src:src_006327}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $290,963 |
+| Total Spent | $358,184 |
+| Cash on Hand | 95642.17 |
+| Debt | 3191.43 |
+| Individual Contributions | $131,043 |
+| PAC Contributions | $143,341 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $290,963 | $358,184 | 95642.17 |
+| 2024 | $869,637 | $899,213 | 162841.47 |
+| 2022 | $851,699 | $856,030 | 192336.91 |
+| 2020 | $875,926 | $837,219 | 210393.19 |
+| 2018 | $653,415 | $615,208 | 148742.68 |
+| 2016 | $771,224 | $765,805 | 110924.80 |
+| ... | 13 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->

@@ -372,6 +372,36 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - {{src:src_006409}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $786,535 |
+| Total Spent | $659,320 |
+| Cash on Hand | 697967.61 |
+| Individual Contributions | $412,258 |
+| PAC Contributions | $326,250 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $786,535 | $659,320 | 697967.61 |
+| 2024 | $1,677,916 | $1,701,114 | 570752.82 |
+| 2022 | $1,386,776 | $1,378,653 | 593950.77 |
+| 2020 | $1,327,196 | $933,145 | 585827.81 |
+| 2018 | $1,415,994 | $1,623,913 | 191776.67 |
+| 2016 | $925,645 | $1,105,447 | 399695.38 |
+| ... | 10 more cycles available | | |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Voting Record
 <!-- auto:voting-record start -->
 **Key Votes**

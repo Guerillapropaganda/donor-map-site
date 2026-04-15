@@ -45,7 +45,7 @@ reenrich-reason: >-
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]]"
+related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]]"
 last-enriched: '2026-04-11'
 committees:
   - 'Senate Committee on Commerce, Science, and Transportation'
@@ -69,7 +69,7 @@ internal-notes: >-
   removed. A correct bioguide must be added manually (verify at
   bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this
   profile. Pipeline will skip this profile until a bioguide is provided.
-donors: "[[Rebekah Mercer]]"
+donors: "[[Rebekah Mercer]] · [[Kelcy Warren]]"
 ---
 
 <!-- auto:data-panel start -->

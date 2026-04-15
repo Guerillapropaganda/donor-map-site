@@ -49,7 +49,7 @@ wikidata-id: "Q445046"
 wikipedia-url: "https://en.wikipedia.org/wiki/Melissa_Bean"
 wikipedia-extract: "Melissa Bean is an American politician who served as the U.S. representative for Illinois's 8th congressional district from 2005 to 2011. Bean is a member of the Democratic Party."
 born: "1962-01-22"
-donors: "[[Fairshake PAC]]"
+donors: "[[Fairshake PAC]] · [[United Democracy Project - UDP]]"
 ---
 
 <!-- auto:data-panel start -->

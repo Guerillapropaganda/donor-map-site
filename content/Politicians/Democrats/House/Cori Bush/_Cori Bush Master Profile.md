@@ -516,6 +516,35 @@ _No committee data found._
 - {{src:src_006283}} (Tier 1)
 <!-- auto:fec-summary end -->
 
+<!-- auto:fec-summary pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Election Cycle | 2026 |
+| Total Raised | $534,492 |
+| Total Spent | $352,962 |
+| Cash on Hand | 203864.16 |
+| Debt | 13374.55 |
+| Individual Contributions | $377,596 |
+| PAC Contributions | $0 |
+| Coverage Through | 2025-12-31 |
+
+**Fundraising history:**
+
+| Cycle | Raised | Spent | Cash on Hand |
+|-------|--------|-------|-------------|
+| 2026 | $534,492 | $352,962 | 203864.16 |
+| 2024 | $4,165,846 | $4,154,359 | 22333.49 |
+| 2022 | $2,448,937 | $2,522,593 | 10847.18 |
+| 2020 | $1,429,837 | $1,345,334 | 84502.71 |
+| 2018 | $177,038 | $177,038 | 0.00 |
+
+- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
+
+<!-- auto:fec-summary pending-merge end -->
+
 ### Wikipedia
 <!-- auto:wikipedia start -->
 Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025.

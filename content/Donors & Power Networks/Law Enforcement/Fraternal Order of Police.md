@@ -2,7 +2,7 @@
 title: "Fraternal Order of Police"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-12
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 sector: "Law Enforcement"
@@ -45,7 +45,7 @@ sec-form-types:
   - "S-4"
   - "S-4/A"
   - "SC 14F1"
-related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]] · [[Sherrod Brown]] · [[CoreCivic - Private Prisons]]"
+related: "[[The Sheriff-to-Governor Pipeline and Law Enforcement Politics]] · [[International Association of Chiefs of Police]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]] · [[PORAC - Peace Officers Research Association of California|PORAC]] · [[Mark Green]] · [[Markwayne Mullin]] · [[John Cornyn]] · [[Amy Klobuchar]] · [[Sheldon Whitehouse]] · [[Sherrod Brown]] · [[CoreCivic - Private Prisons]] · [[Josh Green]]"
 federal-register-mentions: 29
 regulatory-agencies:
   - "Defense Department"

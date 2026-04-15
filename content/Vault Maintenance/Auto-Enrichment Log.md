@@ -147,6 +147,74 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+
+
+
+## 2026-04-15 17:02 UTC — 2 profiles
+
+**fda-enforcement — 2 profiles:**
+- Cargill — 42 FDA recalls (10 Class I) ⚠️ CONFLICT
+- Tyson Foods — 7 FDA recalls (1 Class I) ⚠️ CONFLICT
+
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:57 UTC — 3 profiles
+
+**occ-enforcement — 3 profiles:**
+- Bank of America — 115 OCC actions (95 active, $491,299,530 CMPs) ⚠️ CONFLICT
+- Carlyle Group — 2 OCC actions (1 active, $3,000 CMPs) ⚠️ CONFLICT
+- MBNA Corporation — 4 OCC actions (4 active, $0 CMPs) ⚠️ CONFLICT
+
+**Conflicts detected: 3** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:56 UTC — 2 profiles
+
+**ftc-enforcement — 2 profiles:**
+- Cargill — 0 enforcement actions + 30 HSR notices ⚠️ CONFLICT
+- Boeing — 3 enforcement actions + 16 HSR notices ⚠️ CONFLICT
+
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:55 UTC — 14 profiles
+
+**fec-summary — 14 profiles:**
+- Sherrod Brown — 2026 raised $14,356,451, spent $4,456,809, COH 9899641.92 ⚠️ CONFLICT
+- Tim Walz — 2018 raised $113,151, spent $155,222, COH 0.00 ⚠️ CONFLICT
+- Adam Smith — 2026 raised $786,535, spent $659,320, COH 697967.61 ⚠️ CONFLICT
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045, spent $13,983,781, COH 13408910.09 ⚠️ CONFLICT
+- Ayanna Pressley — 2026 raised $687,535, spent $706,959, COH 98796.68 ⚠️ CONFLICT
+- Barbara Lee — 2024 raised $375,046, spent $427,255, COH 144.39 ⚠️ CONFLICT
+- Bennie Thompson — 2026 raised $608,726, spent $819,626, COH 1415264.19
+- Bobby Scott — 2026 raised $290,963, spent $358,184, COH 95642.17 ⚠️ CONFLICT
+- Brendan Boyle — 2026 raised $1,522,158, spent $548,110, COH 4812331.40
+- Cori Bush — 2026 raised $534,492, spent $352,962, COH 203864.16 ⚠️ CONFLICT
+- Debbie Wasserman Schultz — 2026 raised $1,785,365, spent $875,347, COH 1967326.77
+- Frank Pallone — 2026 raised $1,311,209, spent $1,257,401, COH 3125718.74 ⚠️ CONFLICT
+- Hakeem Jeffries — 2026 raised $10,327,241, spent $9,417,063, COH 5864742.02 ⚠️ CONFLICT
+- Ilhan Omar — 2026 raised $3,125,783, spent $2,329,199, COH 1120804.52 ⚠️ CONFLICT
+
+**Conflicts detected: 11** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-15 16:54 UTC — 9 profiles
+
+**FEC — 9 profiles:**
+- Sherrod Brown — 2026 raised $14,356,451
+- Tim Walz — 2018 raised $113,151
+- Adam Smith — 2026 raised $786,535
+- Alexandria Ocasio-Cortez — 2026 raised $23,658,045
+- Ayanna Pressley — 2026 raised $687,535
+- Barbara Lee — 2024 raised $375,046
+- Bennie Thompson — 2026 raised $608,726
+- Bobby Scott — 2026 raised $290,963
+- California Farm Bureau Federation — total political spend $892,442
+
+---
 ## 2026-04-15 16:37 UTC — 25 profiles
 
 **ofac-sdn — 25 profiles:**
