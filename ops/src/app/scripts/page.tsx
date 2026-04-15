@@ -339,6 +339,178 @@ const SCRIPTS: ScriptEntry[] = [
     danger: "safe",
     category: "intelligence",
   },
+
+  // ─── QUERY ENGINE BUILD / PUBLICATION READINESS ────────────────
+  // Everything below here was shipped during the Phase 6 closeout +
+  // pre-launch hardening + audit/polish/integration sprint cycle.
+  // Most are READ-ONLY audits; a few write admin reports. The only
+  // destructive one is migrate-strikethrough-sources (bulk rewrite).
+
+  {
+    name: "Status Dashboard",
+    command: "node scripts/status.cjs",
+    purpose: "One-glance system health across all 8 engines.",
+    plainEnglish:
+      "Runs in under 5 seconds. Shows record counts for all 8 canonical data stores (sources, relationships, entities, events, policies, polling, users, claims), source status distribution (live/archived/needs_review/dead/paywall/redirected/generic_orphan), class tag approval progress (pending/approved/rejected with approval rate), entity coverage by type, policy readiness by tier, test + audit health (regression tests, contract tests, data integrity audit, pre-commit sentinel count), auth + users. No writes. Safe to run anytime — this is your daily 'where is the system right now' check. Also supports --compact (one-line summary) and --json (machine-readable).",
+    output: "Console only — no writes",
+    when: "on-demand",
+    danger: "safe",
+    category: "reporting",
+  },
+  {
+    name: "Publication Readiness Check",
+    command: "node scripts/publication-readiness-check.cjs",
+    purpose: "The publication gate — is this profile safe to publish?",
+    plainEnglish:
+      "Walks every profile in content/ and enforces 6 gates for public URL exposure (CLAUDE.md Rule 9): content-readiness: verified, no (URL NEEDED) / (UNVERIFIED) / (NEEDS REVIEW) markers in visible text, no strikethrough sources outside ## Archived section, every {{src:ID}} ref resolves to a live/archived source, every cited entity has approved class tags, ## Class Analysis section present. Supports --folder X (filter to one folder like Policies), --file path (check one file), --ready-only (show passing profiles only), --json, --verbose. Exit code 0 means all scanned profiles passed; exit 1 means at least one failed. This is the single source of truth for 'can I expose this URL publicly'.",
+    output: "Console + exit code",
+    when: "on-demand",
+    danger: "safe",
+    category: "gate",
+  },
+  {
+    name: "Readiness Promotion Digest",
+    command: "node scripts/readiness-promotion-digest.cjs --write",
+    purpose: "Prep sheet for David's next manual review session.",
+    plainEnglish:
+      "Runs publication-readiness-check.cjs under the hood, sorts profiles by distance-to-ready (how many gates each one fails), and writes a digest organized into sections: profiles one flag-flip away (trivial promote after a human read), two-failures-away, and failure pattern summaries. Use this BEFORE each review session to know exactly which profiles are highest leverage to work on. Finding as of 2026-04-15: 19 profiles are one ready→verified flip away, 11 more are draft→verified.",
+    output: "content/Admin Notes/readiness-promotion-digest.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "reporting",
+  },
+  {
+    name: "Policy Class-Tag Gap Report",
+    command: "node scripts/policy-class-tag-gap-report.cjs --write",
+    purpose: "Exactly which class tags block WHICH policy pages (Rule 11).",
+    plainEnglish:
+      "Parses every policy page in content/Policies/ for entity citations — both [[wikilinks]] AND markdown table rows under 'Top opposition donors' headers — and cross-references against class tag approval state. Reports per-policy: which entities are approved, pending (Rule 11 blockers), no-proposal (entity exists but never through the heuristic), no-entity (wikilink doesn't resolve). Sort: approve these in order for maximum policy-unblocking per review minute. Much more targeted than the general priority queue.",
+    output: "content/Admin Notes/policy-class-tag-gap-report.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Class Tag Priority Queue",
+    command: "node scripts/class-tag-priority-queue.cjs --write",
+    purpose: "Rank pending class tag proposals by citation count.",
+    plainEnglish:
+      "Loads data/entity-class-tags-proposed.jsonl (pending proposals), walks every [[wikilink]] in visible vault text, and ranks pending entities by: policies-cited (Rule 11 blockers) > stories-cited > total citation count. Produces a prioritized worksheet so your next class-tag review session approves the highest-leverage entities first. Re-run after each approval batch to see updated priorities.",
+    output: "content/Admin Notes/class-tag-priority-queue.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Entity Dedup + Orphan Audit",
+    command: "node scripts/entity-dedup-orphan-audit.cjs --write",
+    purpose: "Find duplicates, name mismatches, and orphans in entities.jsonl.",
+    plainEnglish:
+      "Three-way audit of the entity registry. (1) Probable duplicates via name normalization (strips Inc/LLC/Corp suffixes, punctuation, parentheticals). (2) Name mismatches — entity.name differs from how the vault wikilinks it (breaks class-tag lookup silently). (3) True orphans — registry records that no vault file references by any name variant. (4) Missing profile files — entity.profile_path points to a nonexistent file. Each category has a dedicated section in the report with specific fix instructions.",
+    output: "content/Admin Notes/entity-dedup-orphan-audit.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Source Registry Dedup Audit",
+    command: "node scripts/source-registry-dedup-audit.cjs --write",
+    purpose: "Find dedup gaps that slip past the write-path normalizer.",
+    plainEnglish:
+      "The sources-store.cjs normalizeUrl() dedupes on write (lowercase host, strip www, force https, drop tracking params, normalize trailing slash) but misses several categories. This audit groups sources by LOOSER normalization (also strips fragments + archive.org prefixes) and by ENTITY KEY (same FEC committee / congress bill / member across different URL shapes). Reports normalizer bugs (exact duplicate URL → 2 source IDs — an outright write-path failure), entity-duplicate groups, and loose duplicate groups. HASH_ROUTING_HOSTS guard prevents false positives on GLEIF.",
+    output: "content/Admin Notes/source-registry-dedup-audit.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Broken Source Refs Report",
+    command: "node scripts/broken-source-refs-report.cjs --write",
+    purpose: "Find {{src:ID}} refs in profiles that don't resolve.",
+    plainEnglish:
+      "Walks every .md file in content/ (excluding admin notes, checklists, phases, decisions — which contain literal {{src:ID}} examples in docs) and finds every {{src:ID}} reference that doesn't resolve to a record in data/sources.jsonl. Categorizes broken refs: possible-typo (nearby valid ID exists), out-of-range (ID exceeds registry max), never-registered (format valid, not in registry), malformed-id. Suggests fixes where possible. Strips backtick code blocks before scanning to avoid documentation false positives. Current result: 0 broken refs, the source registry system is working perfectly.",
+    output: "content/Admin Notes/broken-source-refs-report.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Relationship Cache Drift Audit",
+    command: "node scripts/relationship-cache-drift-audit.cjs --write",
+    purpose: "Compare frontmatter caches against canonical relationships.jsonl.",
+    plainEnglish:
+      "CLAUDE.md Rule 10 says data/relationships.jsonl is canonical and frontmatter fields (related, donors, top-donors, politicians-funded, opposes, stories) are READ-CACHES. This audit extracts every wikilink from every profile's guarded frontmatter fields and cross-checks against the canonical store. Reports drift two ways: stale-in-frontmatter (cached link no longer in canonical) and missing-from-cache (canonical link not yet rebuilt into frontmatter). Current finding: 15,023 frontmatter links exist BUT NOT in canonical — this is a COVERAGE GAP (canonical store is still catching up from migration), NOT drift. Running the existing cache-rebuilder would REGRESS data. Fix is a new migration script (migrate-frontmatter-to-canonical.cjs, TBD).",
+    output: "content/Admin Notes/relationship-cache-drift-audit.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Phase 6 Regression Tests",
+    command: "node --test scripts/phase-6-regression-tests.cjs",
+    purpose: "20 tests covering every bug fixed in Phases 1-5.",
+    plainEnglish:
+      "Uses Node's built-in node:test module (zero extra dependencies, runs in ~75ms). Each test maps to a specific bug fixed during the query engine build that would silently regress if a future refactor 'cleaned up' the fix: source URL normalization (3 tests for www, case, utm), schema validator rejections across sources/entities/events/claims (7 tests for the defamation firewall), tier hierarchy admin/researcher/anonymous/patron (4 tests for Phase 2.5 auth), story scorer math including recency decay curve (4 tests for Phase 5), heuristic class tag labor-aligned override (1 test for the California Nurses Association bug). Wired into .husky/pre-commit as sentinel #6 and into CI workflow — blocks merge if any test fails.",
+    output: "Console only — TAP format, exit code",
+    when: "on-demand",
+    danger: "safe",
+    category: "gate",
+  },
+  {
+    name: "Query Engine Contract Tests",
+    command: "node --test scripts/query-engine-contract-tests.cjs",
+    purpose: "20 tests locking in the query engine's public API shape.",
+    plainEnglish:
+      "Contract tests for scripts/lib/query-engine.cjs — the 6-subject query interface used by the policy pages, the /query UI, and the /api/query route. Tests: query() returns { subject, total, returned, rows[] } shape for edges / entities / events / cross_party_donors / timing_proximity / top_opposition_donors subjects, unknown subject throws, count() on unknown is tolerant (returns 0), pagination respects offset + limit, entity_type / tags_approved filters actually filter. Locks in the API contract so a future refactor can't silently drift it. Runs in ~250ms. Wired into .husky/pre-commit as sentinel #7 and into CI workflow.",
+    output: "Console only — TAP format, exit code",
+    when: "on-demand",
+    danger: "safe",
+    category: "gate",
+  },
+  {
+    name: "Data Integrity Audit",
+    command: "node scripts/phase-6-data-integrity-audit.cjs",
+    purpose: "Schema + FK validation across all 8 canonical stores.",
+    plainEnglish:
+      "Loads every canonical JSONL store (sources, relationships, entities, events, policies, polling, users, claims), runs each record through its schema validator, detects duplicate IDs within each store, and resolves foreign-key references across stores (policies → events, events → policies, sources → entities, claims → sources, etc.). Reports per-store pass/fail counts. Currently: 43,678 records, 0 failures across all 8 stores. Run after any large data migration or pipeline change.",
+    output: "Console only — exit code",
+    when: "on-demand",
+    danger: "safe",
+    category: "health-check",
+  },
+  {
+    name: "Phase 6 Deferred Items Collector",
+    command: "node scripts/phase-6-deferred-items-collector.cjs --write",
+    purpose: "Walk every phase doc + ADR for deferred items and known issues.",
+    plainEnglish:
+      "The first concrete action of Phase 6 per ADR-0005. Walks every content/Phases/phase-*/ doc and every ADR in content/Decisions/, extracts lines matching 'deferred' markers (TODO, known issue, tech debt, revisit, fix later, not blocking, follow-up, pending, out of scope, won't fix, XXX/FIXME/HACK) plus whole sections titled 'Known issues', 'What this opens', 'Open questions', 'Blockers', 'Deferred'. Categorizes into 11 buckets (legal/defamation, security/auth, performance, regression/tests, documentation, data integrity, pipelines, phase 2.75/4/5 polish, class tags, misc). Current backlog: 267 items.",
+    output: "content/Phases/phase-6/deferred-items.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "reporting",
+  },
+  {
+    name: "Strikethrough Source Migration (DRY RUN)",
+    command: "node scripts/migrate-strikethrough-sources-to-archived.cjs --report",
+    purpose: "Preview: move ~~strikethrough~~ sources into ## Archived sections.",
+    plainEnglish:
+      "DRY RUN preview only — this variant writes a report showing which files WOULD change if you ran the actual migration with --write. The real migration finds bullet-list lines starting with '- ~~[Title](url)~~ (metadata)' in visible text and moves them to a ## Archived section at the bottom of the profile (creating the section if needed). Inline-prose strikethrough is flagged for manual review (Research Claude's lane), not auto-migrated. Current preview: 1,083 files would change, 3,427 bullet lines auto-movable, 894 inline-prose cases flagged. Run this button first to review; run the 'Strikethrough Source Migration (APPLY)' button below only after reading the report.",
+    output: "content/Admin Notes/strikethrough-migration-report.md",
+    when: "on-demand",
+    danger: "safe",
+    category: "audit",
+  },
+  {
+    name: "Strikethrough Source Migration (APPLY)",
+    command: "node scripts/migrate-strikethrough-sources-to-archived.cjs --write",
+    purpose: "APPLY the strikethrough migration to 1,083 profile files.",
+    plainEnglish:
+      "⚠️ DESTRUCTIVE — rewrites ~1,083 profile .md files. Only run AFTER reviewing the DRY RUN report. Moves bullet-list strikethrough source lines from visible text into ## Archived sections. Preserves the full original line with metadata suffix (e.g. '(was Tier 1 — URL broken, archived by Ops)'). Inline-prose strikethrough is NOT touched — those go to the flagged list for Research Claude. Idempotent: safe to re-run, already-migrated files are no-ops. Git tracks every change; revert with `git reset --hard` if needed.",
+    output: "Rewrites ~1,083 .md files + updates report",
+    when: "on-demand",
+    danger: "writes-profiles",
+    category: "cleanup",
+  },
 ]
 
 const CATEGORY_LABELS: Record<string, string> = {
