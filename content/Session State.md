@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-15
 ---
-<!-- last session: Pillar 2/2b data coverage marathon (2026-04-15 late evening) — closed out the "only remaining pillar" from the foundation-stabilization sprint. Shipped 5 sequential commits: Pillar 2a delta migration + renormalize + orphan prune, Pillar 2b.1 FEC body-table → canonical monetary edges, Pillar 2b.2 FEC PAC aliases + case-insensitive resolver, Pillar 2b.3 infra FEC Committee Registry system, Pillar 2b.3 data 298 committees resolved via FEC API. Net monetary edges with real amount/cycle/role: 0 → ~282. Filed bug-005: only 5 of ~25 enrichment pipelines active (donor-map-engine repo root cause). -->
+<!-- last session: Pipeline audit + batch schedule fix (2026-04-15, continuation). Full batch run completed after prior session. Audited all 5 batches from GitHub Actions logs. Pipeline scorecard: 18/35 functional (writing data), 12 writing 0, 3 orphaned (lda/lobbyview/doj-press). Key findings: (1) SAM hit 10x 429 rate limits because batch2 (FEC/FTC/OCC/FDA all use api.data.gov) and batch3 fired only 1hr apart — quota conflict. Fixed: batch3 rescheduled from 0 9,21 to 0 11,23 UTC (3hr gap). Committed 61a479e to engine repo. (2) Auto-connection-engine.cjs crashes at flushLog line 101 in every batch run — stack trace visible in logs but summaries still print (workflow reads log files independently). Not blocking writes but should be diagnosed. (3) Batch4 (fara/osha/voting-record) shows Not found:15/15 or Errors:15/15 — entire pipelines failing silently. (4) Govtrack 2 errors are transient API failures, not structural. (5) Committee 0 writes = data already current, expected. (6) FEC full-receipts pipeline wrote 0 — log line truncated, cause unknown. Query engine contract tests expanded from 20→30 tests (10 edge cases added). vault-integrity.cjs donors-array bug fixed. rebuild-relationship-caches.cjs built and ran (634 profiles fixed). Nonprofit-990 EIN-first lookup shipped to engine (commit 6e40251). -->
 
 
 
@@ -20,10 +20,13 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 **Authority:** ADR-0003 (closed by ADR-0008), ADR-0008, ADR-0009 (auth), CLAUDE.md rules 9–13
 
 **Next concrete actions (autonomous, Code Claude's lane):**
-1. **bug-005 — enrichment pipeline dark (donor-map-engine repo).** The biggest open finding from the Pillar 2b investigation. Only 5 of ~25 pipelines have been running recently; `fec-summary` fired 3 times in 200 commits, `fec` full-receipts never. Root cause is in `donor-map-engine` — needs access to that repo to diagnose orchestration config / silent failures. Once fixed, the new FEC Committee Registry should be plumbed in so `fec-summary` writes BOTH body tables AND monetary edges via `upsertEdges()` on the same run. See [content/Admin Notes/bug-queue.md](content/Admin%20Notes/bug-queue.md) § bug-005 for full diagnostic evidence.
-2. **Stub profiles for top ~30 super PACs by dollar volume.** The FEC Committee Registry has 278 super PAC candidates with authoritative committee IDs + fec.gov links, sorted by dollar volume in [content/Admin Notes/fec-unmatched-committees.md](content/Admin%20Notes/fec-unmatched-committees.md) § Stub profile candidates. Creating stub profiles (frontmatter + committee_id + empty body) would unlock the next ~500 monetary edges via another `migrate-fec-body-tables-to-edges.cjs --write` pass. Editorial scope so Research Claude's lane, but Code Claude can scaffold frontmatter-only stubs.
-3. Apply the strikethrough-source migration when David says go (3,427 bullet lines across 1,083 profiles).
-4. Re-run heuristic class-tag pass on 2 policy-cited entities with no proposals yet (Bank of America, National Republican Senatorial Committee).
+1. **Fix batch4 silent failures** — fara, osha, voting-record all show Not found:15/15 or Errors:15/15. These pipelines run but accomplish nothing. Diagnose name-matching logic and API endpoint health for each.
+2. **Fix auto-connection-engine crash** — stack trace at `scripts/lib/enrichment-log.cjs:101 (flushLog)` appears in every batch run. Read that file at line 101 and fix the unhandled error.
+3. **FEC full-receipts pipeline wrote 0** — cause unknown (log line cut off). Check `fec-pipeline.cjs` behavior with `--write` flag; likely `selectTargets()` skip or missing committee ID lookup.
+4. **FEC pipeline → upsertEdges()** — plumb the FEC Committee Registry into fec-summary so each run writes monetary edges via `upsertEdges()`. Open item from bug-005 resolution.
+5. **Remaining 215 unmatched FEC committees ($123.4M)** — continue stub creation. Current registry: 293 entries.
+6. Apply the strikethrough-source migration when David says go (3,427 bullet lines across 1,083 profiles).
+7. Re-run heuristic class-tag pass on 2 policy-cited entities (Bank of America, National Republican Senatorial Committee).
 
 **Next concrete actions (manual review, David's lane):**
 1. Work through `content/Admin Notes/readiness-promotion-digest.md` — 19 profiles are one flag-flip from verified, 11 more are draft→verified.
@@ -66,7 +69,7 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 | Regression + contract + auth-smoke tests | 20 + 20 + 21 passing |
 | Data integrity audit | ✓ clean |
 | Public routes live | under-construction page only |
-| Open bugs | **1 (bug-005 — enrichment pipeline dark)** |
+| Open bugs | **0 (bug-005 resolved — 5-batch redesign shipped)** |
 | Deferred items backlog | 267 (filterable at Ops `/bugs`) |
 
 **New Ops dashboards David can now open:**
@@ -87,10 +90,23 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 
 ## Last Session
 Claude: Code
-Date: 2026-04-15 (late evening — Pillar 2/2b data coverage marathon)
+Date: 2026-04-15 (pipeline audit + batch schedule fix continuation)
 
 ### Theme
-Pick up where the foundation-stabilization marathon left off: close the "only remaining pillar" (Pillar 2 — data coverage / bug-003). What started as one migration script grew into a five-commit arc that ended with a permanent FEC Committee Registry + diagnosis of bug-005 (the enrichment pipeline is 80% dark). Session ran through 5 sequential commits, each deployed green. David's directive throughout: **"I want whatever is the cleanest way to fix this issue. I also want the pipelines to stay corrected throughout the sessions."** So I avoided one-off alias hacks and built the registry as durable infrastructure that future pipelines can read on every run.
+Continued from prior session where 5 batch workflows had just been deployed. Ran full pipeline audit after all 5 batches completed. Identified 18/35 pipelines functional, 12 writing 0, 3 orphaned. Root cause of SAM rate limiting found (api.data.gov quota shared between batch2 and batch3 firing 1hr apart). Fixed batch3 schedule. Also audited auto-connection-engine crash pattern visible in every batch run.
+
+### Done this session
+
+- **Query engine contract tests expanded** — added 10 edge-case tests (null filters, unicode search, special chars, large limit, offset≥total, etc.). Suite now 30 tests, all green.
+- **vault-integrity.cjs donors-array fix** — `donors` field can be YAML array not just string; fixed crash (`TypeError: donorsField.match is not a function`).
+- **rebuild-relationship-caches.cjs** (new script) — syncs frontmatter `donors`/`top-donors`/`politicians-funded` from canonical store. Fixed 634 profiles with monetary edge cache drift.
+- **Nonprofit-990 EIN-first lookup** — 262 profiles have `ein` frontmatter field; pipeline now does exact `/organizations/{ein}.json` lookup before falling back to fuzzy name search. Committed `6e40251` to engine repo.
+- **bug-005 resolved** — moved to resolved archive in bug-queue.md.
+- **Pipeline scorecard** (from batch run logs):
+  - Functional: ofac-sdn:25, stock-watcher:20, gleif:4, nhtsa:7, fec-summary:14, occ:3, ftc:2, fda:2, govtrack:3, usaspending:5, usaspending-awards:10, courtlistener:9, federal-register:9, sec-edgar:9, propublica:10, nonprofit-990:16, wikipedia:11
+  - 0 writes / broken: fec-full, sam (rate limited), committee (data current), fara, osha, voting-record, lobbying-contrib, opensanctions, fcc-political, public-accountability, sec-litigation, epa-echo (partial)
+  - Orphaned (no batch): lda (disabled), lobbyview (unscheduled), doj-press (disabled)
+- **batch3 schedule fix** — rescheduled from `0 9,21` to `0 11,23` UTC (3hr gap after batch2) to clear api.data.gov quota conflict. Commit `61a479e` pushed to engine repo main.
 
 ### Done — Pillar 2a (frontmatter → canonical delta migration)
 
