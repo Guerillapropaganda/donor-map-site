@@ -12,7 +12,7 @@ state: Hawaii
 state-abbr: HI
 committees:
   - Appropriations
-top-donors: "[[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]]"
+top-donors: "[[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]]"
 total-received: $1,513,132
 fec-candidate-id: S4HI00136
 source-types:

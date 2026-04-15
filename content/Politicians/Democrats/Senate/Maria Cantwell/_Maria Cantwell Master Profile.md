@@ -37,7 +37,7 @@ phone: 202-224-3441
 stock-trades: 6
 stock-trade-tickers:
   - RNWK
-donors: "[[Jeff Bezos]] · [[Comcast - NBCUniversal]] · [[Boeing Defense]] · [[Boeing]]"
+donors: "[[Jeff Bezos]] · [[Comcast - NBCUniversal]] · [[Boeing Defense]] · [[Boeing]] · [[TOGETHER FOR PROGRESS PAC]] · [[PLANNED PARENTHOOD NW ACTION PAC]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Patty Murray Master Profile|Murray]] · [[Boeing]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

@@ -18,7 +18,7 @@ leadership-roles:
 top-donors:
   - Lockheed Martin
   - AIPAC
-donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[Wfp Ie Committee]]"
+donors: "[[Bill Gates]] · [[Raytheon (RTX Corporation)]] · [[Lockheed Martin]] · [[Wfp Ie Committee]] · [[CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE]] · [[CLEAN UP CONGRESS]]"
 related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[SEIU - Service Employees International Union|SEIU]] · [[Frank Pallone]] · [[Adam Smith]]"
 total-received: $689,298
 fec-candidate-id: H0CT03072

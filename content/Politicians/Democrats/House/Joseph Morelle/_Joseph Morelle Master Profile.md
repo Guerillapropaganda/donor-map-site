@@ -22,7 +22,7 @@ issues:
   - Finance and Financial Sector
   - Government Operations and Politics
   - Health
-top-donors: "[[Labor Unions]], [[Planned Parenthood Votes]], [[Congressional Leadership Fund]], [[NEA ADVOCACY FUND]]"
+top-donors: "[[Labor Unions]], [[Planned Parenthood Votes]], [[Congressional Leadership Fund]], [[NEA ADVOCACY FUND]], [[TOGETHER WE THRIVE]], [[OPPORTUNITY FOR ALL ACTION FUND]]"
 total-received: $1,130,491
 fec-candidate-id: H8NY25105
 bioguide-id: M001206

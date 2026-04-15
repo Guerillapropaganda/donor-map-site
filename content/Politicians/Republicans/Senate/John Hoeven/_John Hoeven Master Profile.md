@@ -45,7 +45,7 @@ bills-cosponsored: 190
 website: https://www.hoeven.senate.gov
 phone: 202-224-2551
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master Profile|Barrasso]] · [[_Joe Manchin Master Profile|Manchin]]"
-donors: "[[Western Growers Association]], [[American Energy Action Fund]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Clearpath Action Fund, Inc.]]"
+donors: "[[Western Growers Association]], [[American Energy Action Fund]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Clearpath Action Fund, Inc.]], [[NORTH DAKOTA STRONG INC]], [[NATIONAL WILDLIFE FEDERATION ACTION FUND]]"
 ---
 
 <!-- auto:data-panel start -->

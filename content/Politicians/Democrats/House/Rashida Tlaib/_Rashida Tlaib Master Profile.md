@@ -48,7 +48,7 @@ opposes:
   - DMFI PAC
   - Marathon Petroleum
   - Koch Network
-donors: "[[Wfp Ie Committee]], [[Law Enforcement for a Safer America Pac]], [[Honoring American Law Enforcement Pac]], [[MOVEON.ORG POLITICAL ACTION]]"
+donors: "[[Wfp Ie Committee]], [[Law Enforcement for a Safer America Pac]], [[Honoring American Law Enforcement Pac]], [[MOVEON.ORG POLITICAL ACTION]], [[FRIENDS OF THE EARTH (ACTION) INC]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate

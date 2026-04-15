@@ -9,7 +9,7 @@ authority: Pillar 2b migration
 
 # FEC Unmatched Committees
 
-Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **187** unique committees / **243** rows.
+Committees found in `auto:fec-politician` body tables that could not be resolved to a vault profile via title, alias, or simple suffix strip. Total: **22** unique committees / **26** rows.
 
 **Fix**: add an `aliases:` entry to the parent profile's frontmatter (the `buildTitleIndex` walker reads it), or create a stub profile for the committee. Re-run `migrate-fec-body-tables-to-edges.cjs --write` to pick up the new mapping.
 
@@ -21,186 +21,21 @@ Sorted by total dollar volume (support + oppose).
 | CONSERVATIVE OUTSIDER PAC | 1 | $0 | $1,936,000 | Bill Hagerty |
 | WFP NATIONAL PAC | 1 | $1,872,561 | $0 | Summer Lee |
 | ENDING SPENDING FUND | 1 | $0 | $1,724,864 | Harry Reid |
-| SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE) | 2 | $1,378,458 | $0 | Tim Walz, Jeff Merkley |
-| AMERICAN HOSPITAL ASSOCIATION PAC | 3 | $957,290 | $0 | Richard Neal, Rosa DeLauro, Cathy McMorris Rodgers |
-| REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | 1 | $0 | $930,000 | Martin Heinrich |
-| SLF PAC | 1 | $911,323 | $0 | Michael Whatley |
-| FIRST AMENDMENT ALLIANCE | 2 | $0 | $902,690 | Chris Coons, Harry Reid |
-| COMMONWEALTH UNITY FUND | 1 | $0 | $785,000 | Elizabeth Warren |
-| NO LABELS ACTION, INC. | 1 | $773,284 | $0 | Josh Gottheimer |
-| OKLAHOMANS FOR A CONSERVATIVE FUTURE INC | 1 | $0 | $766,330 | James Lankford |
-| CALIFORNIANS FOR INNOVATION | 1 | $745,467 | $0 | Ro Khanna |
-| NEW YORK 2014 | 1 | $744,532 | $0 | Elise Stefanik |
-| EQUALITY PROJECT PAC | 2 | $736,517 | $0 | Mark Takano, Ritchie Torres |
-| FIGHT CORPORATE MONOPOLIES | 1 | $0 | $650,000 | Richard Neal |
-| THE TEA PARTY LEADERSHIP FUND | 1 | $0 | $553,540 | John Boehner |
-| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E | 1 | $0 | $518,043 | Linda McMahon |
-| NEW PROSPERITY FOUNDATION; THE | 1 | $0 | $517,710 | Tammy Duckworth |
-| AMERICAN PRINCIPLES FUND | 1 | $0 | $511,500 | Cory Booker |
-| PLANNED PARENTHOOD ACTION FUND INC | 4 | $495,427 | $6 | Jon Ossoff, Jerry Moran, John Boozman |
-| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | 5 | $494,384 | $0 | Debbie Wasserman Schultz, Debbie Wasserman Schultz, Frank Pallone |
-| HOUSE LIBERTY PROJECT | 1 | $0 | $479,599 | Roger Marshall |
-| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | 3 | $459,847 | $0 | Bruce Westerman, Glenn Thompson, Elise Stefanik |
-| LEADERSHIP NOW | 1 | $0 | $446,250 | Richard Blumenthal |
-| CONGRESSIONAL PROGRESSIVE CAUCUS PAC | 1 | $437,462 | $0 | Summer Lee |
-| GIFFORDS PAC | 1 | $0 | $415,200 | Mario Diaz-Balart |
-| VOTER PROTECTION PROJECT | 1 | $414,621 | $0 | Ritchie Torres |
-| HUMAN RIGHTS CAMPAIGN EQUALITY VOTES | 1 | $412,621 | $0 | Tammy Baldwin |
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | 4 | $405,610 | $0 | Ilhan Omar, Ilhan Omar, Mark Takano |
-| KANSAS FARMERS FUND | 1 | $0 | $374,565 | Roger Marshall |
-| AMERICAN COMMITMENT ACTION FUND | 1 | $0 | $371,600 | Cory Booker |
-| PEOPLE'S MAJORITY | 1 | $0 | $366,331 | Sheldon Whitehouse |
-| CLUB FOR GROWTH INC PAC | 2 | $365,646 | $0 | Patrick McHenry, John Thune |
-| CENTRAL COAST VALUES PAC | 1 | $349,671 | $0 | Zoe Lofgren |
 | CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION | 1 | $346,842 | $0 | Pete Aguilar |
-| FREEDOM VOTE | 1 | $342,178 | $0 | John Boehner |
-| CHC BOLD PAC | 1 | $336,876 | $0 | Ritchie Torres |
-| AMERICAN FUTURE FUND POLITICAL ACTION | 1 | $0 | $330,000 | Jeff Merkley |
 | CLEARPATH ACTION, INC. | 1 | $322,299 | $0 | Elise Stefanik |
-| NORTH DAKOTA STRONG INC | 1 | $320,600 | $0 | John Hoeven |
 | LEAGUE OF CONSERVATION VOTERS VICTORY FUND | 1 | $319,383 | $0 | Pete Aguilar |
-| COMMON SENSE FOR AMERICA PAC | 1 | $303,194 | $0 | Deb Fischer |
-| INDIVISIBLE ACTION | 1 | $0 | $302,147 | Richard Neal |
-| ENVIRONMENT AMERICA INC | 2 | $289,614 | $0 | Jack Reed, Martin Heinrich |
-| SENATE CONSERVATIVES FUND | 2 | $287,181 | $0 | Bill Hagerty, John Ratcliffe |
-| RESTORING OUR COMMUNITY | 1 | $264,208 | $0 | Pete Aguilar |
-| ARIZONANS FOR AFFORDABLE ELECTRICITY | 1 | $0 | $241,764 | Nancy Pelosi |
-| FREEDOM'S DEFENSE FUND | 2 | $0 | $239,000 | Frank Pallone, Frank Pallone |
 | NEA FUND FOR CHILDREN AND PUBLIC EDUCATION; THE (FKA NEAPAC) | 1 | $0 | $221,568 | Rick Larsen |
-| STARS AND STRIPES FOREVER PAC | 2 | $0 | $218,270 | Sherrod Brown, Maxine Waters |
-| FOUNDATION FOR ECONOMIC PROSPERITY INC. | 1 | $216,623 | $0 | James Lankford |
-| KANSAS AG COMMUNITIES COALITION | 1 | $204,877 | $0 | Roger Marshall |
-| SIERRA CLUB POLITICAL COMMITTEE | 4 | $84,305 | $119,221 | Gregory Meeks, Debbie Stabenow, Ed Markey |
-| EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | 1 | $0 | $200,000 | George Latimer |
-| CHANGE NOW | 1 | $0 | $197,825 | Mario Diaz-Balart |
-| WORKING FOR US POLITICAL ACTION COMMITTEE INC | 1 | $0 | $167,557 | Ro Khanna |
-| HUMANE SOCIETY LEGISLATIVE FUND | 1 | $159,553 | $0 | Dianne Feinstein |
-| DELIVERING FOR CALIFORNIA | 1 | $150,000 | $0 | Dianne Feinstein |
-| CALIFORNIANS FOR SACRED SITES PROTECTION | 1 | $144,114 | $0 | Mark Takano |
-| AMERICAN CHEMISTRY COUNCIL, INC | 1 | $133,204 | $0 | John Barrasso |
-| EMILY'S LIST | 1 | $133,005 | $0 | Amy Klobuchar |
-| WINNING RIGHT PAC | 1 | $130,000 | $0 | Bill Hagerty |
-| NARAL | 3 | $0 | $128,130 | Adam Smith, Rick Larsen, Adam Schiff |
-| THE DISABLED VETERANS COALITION PAC | 1 | $125,262 | $0 | Bruce Westerman |
-| FLORIDA CONSERVATIVE FUND | 1 | $121,542 | $0 | Matt Gaetz |
-| DRAIN THE DC SWAMP PAC | 2 | $73,333 | $48,200 | Pete Buttigieg, Marjorie Taylor Greene |
-| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | 2 | $0 | $109,000 | Frank Pallone, Frank Pallone |
-| BLUEGREEN ALLIANCE | 1 | $108,805 | $0 | Tim Walz |
-| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | 2 | $103,800 | $0 | Brett Guthrie, John Barrasso |
-| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | 1 | $102,121 | $0 | Richard Blumenthal |
 | POLICE OFFICERS DEFENSE ALLIANCE LLC | 1 | $0 | $100,000 | Nancy Pelosi |
-| NATIONAL WILDLIFE FEDERATION ACTION FUND | 1 | $100,000 | $0 | John Hoeven |
-| UNITE HERE TIP CAMPAIGN COMMITTEE | 2 | $98,252 | $0 | Bennie Thompson, Bennie Thompson |
-| DEFENDING MAIN STREET SUPERPAC INC | 1 | $98,000 | $0 | Shelley Moore Capito |
-| CLEAR VOICE MINNESOTA | 1 | $0 | $96,000 | Angie Craig |
-| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | 1 | $94,608 | $0 | Pramila Jayapal |
-| PROGRESSIVE TURNOUT PROJECT | 1 | $87,327 | $0 | Amy Klobuchar |
-| POWERPACPLUS | 1 | $81,401 | $0 | Cory Booker |
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES | 2 | $0 | $80,164 | Rick Larsen, Adam Schiff |
-| WFW ACTION FUND, INC. | 1 | $79,662 | $0 | Kay Granger |
-| FREETHOUGHT EQUALITY SUPER PAC | 1 | $72,200 | $0 | Jamie Raskin |
-| PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND | 1 | $70,488 | $0 | Amy Klobuchar |
-| AMERICAN CONSERVATIVE UNION | 1 | $68,465 | $0 | Bruce Westerman |
-| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION | 2 | $68,350 | $0 | Brendan Boyle, Brendan Boyle |
-| FREEDOM CLUB FEDERAL PAC | 1 | $0 | $66,000 | Tim Walz |
-| OPPORTUNITY FOR ALL ACTION FUND | 1 | $64,370 | $0 | Joseph Morelle |
-| TRINITY PAC | 1 | $0 | $64,118 | Jim Himes |
-| LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | 1 | $62,562 | $0 | Maxine Waters |
-| TZEDEK PAC | 1 | $52,000 | $0 | Dan Goldman |
-| BLUE MAJORITY PROJECT | 1 | $50,853 | $0 | Angie Craig |
-| COPS VOTER GUIDE INC. | 1 | $50,000 | $0 | Dianne Feinstein |
-| ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE | 1 | $0 | $47,994 | Dianne Feinstein |
-| NEW HOUSE PAC | 1 | $47,072 | $0 | Melissa Bean |
-| RESOLUTE COURAGE PAC | 1 | $46,152 | $0 | Zoe Lofgren |
-| COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE | 1 | $45,992 | $0 | Pete Aguilar |
-| CITIZEN SUPER PAC | 1 | $0 | $44,721 | Matt Gaetz |
-| 27TH CONGRESSIONAL DISTRICT DEMOCRATIC CLUB | 1 | $0 | $44,171 | Adam Schiff |
-| COMMONWEALTH COMMUNICATIONS | 2 | $44,016 | $0 | Brendan Boyle, Brendan Boyle |
-| NARAL Pro-Choice America | 2 | $44,000 | $0 | Brendan Boyle, Brendan Boyle |
-| FRIENDS OF THE EARTH (ACTION) INC | 1 | $40,939 | $0 | Rashida Tlaib |
-| CONNECTICUT TAXPAYERS ALLIANCE | 1 | $0 | $40,000 | Jim Himes |
-| MIDWEST GROWTH PAC | 1 | $39,950 | $0 | Bryan Steil |
-| COMMON SENSE FOR CONNECTICUT | 1 | $0 | $39,058 | Jim Himes |
-| NORTH STAR DAWN PAC | 1 | $37,500 | $0 | Angie Craig |
-| AFSCME WORKING FAMILIES FUND | 1 | $36,702 | $0 | Amy Klobuchar |
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | 1 | $0 | $35,076 | John Boozman |
-| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | 3 | $0 | $31,971 | Bobby Scott, Ed Markey, Ron Wyden |
-| ONE NATION UNITED | 1 | $26,400 | $0 | Dianne Feinstein |
-| ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE | 1 | $21,628 | $0 | Sam Graves |
 | AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED | 2 | $20,000 | $0 | Bennie Thompson, Bennie Thompson |
-| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A. | 2 | $20,000 | $0 | Bennie Thompson, Bennie Thompson |
-| MISSISSIPPI REPUBLICAN PARTY | 1 | $19,442 | $0 | Roger Wicker |
-| BLUE AMERICA PAC | 1 | $0 | $19,200 | John Boehner |
-| PLANNED PARENTHOOD VOTES NORTHWEST | 1 | $19,132 | $0 | Pramila Jayapal |
-| DIRECT SELLING EMPOWERS AMERICANS | 1 | $18,941 | $0 | Gregory Meeks |
-| ELBERT GUILLORY'S AMERICA | 1 | $9,724 | $8,292 | Maxine Waters |
-| DREAM UNITED | 1 | $17,667 | $0 | Cory Booker |
-| CARE ACTION | 2 | $17,538 | $0 | Barbara Lee, Barbara Lee |
-| NEW JERSEY FAMILY FIRST INC | 2 | $0 | $15,362 | Frank Pallone, Frank Pallone |
-| FOCUS ON THE FAMILY ACTION | 2 | $0 | $15,362 | Frank Pallone, Frank Pallone |
-| LET FREEDOM RING INC | 1 | $0 | $14,018 | Chris Coons |
-| OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | 1 | $13,246 | $0 | Ro Khanna |
-| CARE ACTION NOW INC. | 2 | $11,861 | $0 | Gregory Meeks, Alex Padilla |
-| PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC | 1 | $11,245 | $0 | Mark Takano |
-| KUCINICH ACTION PAC | 2 | $11,046 | $0 | Barbara Lee, Barbara Lee |
-| COALITION TO GROW SAN FRANCISCO - GROW SF PAC | 1 | $10,432 | $0 | Alex Padilla |
 | PLANNED PARENTHOOD LA ADVOCACY PROJECT | 1 | $0 | $10,023 | Adam Schiff |
-| GOOD JOBS AND STRONG COMMUNITIES PAC | 1 | $10,000 | $0 | Sherrod Brown |
-| NEA FUND FOR CHILDREN AND PUBLIC EDUCATION | 1 | $10,000 | $0 | Jamie Raskin |
-| MADISON PROJECT INC. | 1 | $10,000 | $0 | John Ratcliffe |
-| ONEAMERICA VOTES | 1 | $9,956 | $0 | Pramila Jayapal |
-| CLEAN UP CONGRESS | 1 | $0 | $9,464 | Rosa DeLauro |
 | MASSACHUSETTS FREEZE VOTER '84 | 1 | $0 | $9,015 | Ed Markey |
-| LET AMERICA VOTE PAC | 1 | $8,884 | $0 | Tammy Baldwin |
-| PATRIOT VOICES PAC | 1 | $0 | $8,232 | Jack Reed |
-| TOGETHER FOR PROGRESS PAC | 2 | $8,180 | $0 | Adam Smith, Maria Cantwell |
-| WASHINGTON CITIZENS FOR COLIN POWELL | 1 | $0 | $8,098 | Colin Powell |
 | MAYDAY PAC | 1 | $7,717 | $0 | Jamie Raskin |
-| AMERICAN WORKER INC, THE | 1 | $7,540 | $0 | Chris Coons |
-| MAD DOG PAC | 1 | $0 | $7,527 | Steve Scalise |
 | LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF NA | 1 | $0 | $7,500 | Debbie Stabenow |
-| NARAL PRO-CHOICE AMERICA | 2 | $6,760 | $0 | Bennie Thompson, Bennie Thompson |
-| THE NATIONAL REPUBLICAN TRUST PAC | 1 | $0 | $6,615 | Chris Coons |
-| PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | 1 | $6,577 | $0 | Adam Smith |
-| HE'S GOTTA GO PAC | 1 | $1,750 | $4,715 | Ro Khanna |
-| VICTORY FOR SCHAUMBURG | 1 | $0 | $6,171 | Raja Krishnamoorthi |
-| THE 60 PLUS ASSOCIATION | 1 | $0 | $6,122 | Adam Smith |
-| CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT | 1 | $5,075 | $0 | Rosa DeLauro |
 | THE COMMITTEE TO DEFEND THE PRESIDENT | 1 | $5,000 | $0 | John Ratcliffe |
-| DEMOCRATIC PARTY OF VIRGINIA | 1 | $4,606 | $0 | Bobby Scott |
-| TOGETHER WE THRIVE | 6 | $3,750 | $750 | Barbara Lee, Barbara Lee, Bobby Scott |
-| MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE | 1 | $0 | $4,496 | Rosa DeLauro |
-| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | 2 | $4,463 | $0 | Brian Schatz, Bernie Sanders |
 | FLIP THE WEST | 1 | $0 | $4,333 | Roger Williams |
-| REVERE AMERICA | 1 | $4,298 | $0 | Rick Crawford |
-| ALHAMBRA DEMOCRATIC CLUB | 1 | $0 | $3,577 | Adam Schiff |
-| AMERICANS FOR JOB SECURITY | 1 | $3,227 | $0 | Rick Crawford |
-| ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC | 1 | $3,129 | $0 | Alex Padilla |
 | HUMANEUSA POLITICAL ACTION COMMITTEE | 1 | $0 | $2,799 | Maria Cantwell |
-| PLANNED PARENTHOOD NW ACTION PAC | 1 | $2,799 | $0 | Maria Cantwell |
-| SANDRE SWANSON FOR ASSEMBLY 2010 | 2 | $2,488 | $0 | Barbara Lee, Barbara Lee |
-| HEALTH JUSTICE FOR ALL | 1 | $2,417 | $0 | Mark Warner |
-| SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | 1 | $1,795 | $0 | Zoe Lofgren |
-| OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | 1 | $1,772 | $0 | Zoe Lofgren |
-| COMMITTEE FOR DEFENDING AMERICAN VALUES | 1 | $1,715 | $0 | Roger Williams |
-| PENNSYLVANIA PRO-LIFE FEDERATION PAC | 1 | $1,635 | $0 | Glenn Thompson |
-| DEMOCRATIC ALLIANCE FOR ACTION | 1 | $1,550 | $0 | Alex Padilla |
-| CLIMATE HAWKS VOTE | 1 | $1,500 | $0 | Brian Schatz |
-| DOLORES HUERTA ACTION FUND | 1 | $1,449 | $0 | Alex Padilla |
 | KNIGHT, MARILYN | 1 | $0 | $1,232 | Maria Cantwell |
-| MISLOVE, ALAN EDWARD | 2 | $1,117 | $0 | Michael Bennet, Tom Steyer |
 | ZB, N.A. DBA AMEGY BANK PAC | 1 | $1,000 | $0 | Roger Williams |
-| SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | 1 | $984 | $0 | Bobby Scott |
-| SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.) | 1 | $0 | $679 | Ron Wyden |
-| MICHIGAN REPUBLICAN PARTY | 1 | $0 | $597 | Bill Clinton |
-| PERFORMANCE RACING INC. | 1 | $500 | $0 | Markwayne Mullin |
-| KANSANS FOR LIFE POLITICAL ACTION COMMITTEE | 1 | $0 | $223 | Jerry Moran |
-| RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE | 1 | $0 | $174 | Debbie Stabenow |
-| PLANNED PARENTHOOD ADVOCATES OF KANSAS | 1 | $0 | $120 | Jerry Moran |
-| POLITICAL ACTION FOR LASTING SECURITY | 1 | $0 | $80 | Ron Wyden |
 | TRANSPORTATION POLITICAL EDUCATION LEAGUE | 2 | $0 | $77 | Maria Cantwell, Bernie Sanders |
-| ALLIANCE COAL, LLC PAC | 1 | $69 | $0 | James Comer |
-| CAMPAIGN FOR WORKING FAMILIES | 1 | $0 | $66 | Jack Reed |
-| INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC | 1 | $0 | $21 | Bernie Sanders |
-| PLANNED PARENTHOOD OF KS & MID-MO | 1 | $0 | $7 | Jerry Moran |
-| PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE | 1 | $0 | $5 | Bernie Sanders |

@@ -22,7 +22,7 @@ fec-candidate-id: H4FL20023
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[America's Renewal Pac, Inc.]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]]"
+donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[America's Renewal Pac, Inc.]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]]"
 related: ">- · [[Fanjul Family - Florida Crystals]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $1,785,365

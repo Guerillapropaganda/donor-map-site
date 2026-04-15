@@ -29,7 +29,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[Lockheed Martin]] · [[Boeing]]"
-donors: "[[Boeing]], [[Oil & Gas PACs]], [[Congressional Leadership Fund]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH ACTION]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]]"
+donors: "[[Boeing]], [[Oil & Gas PACs]], [[Congressional Leadership Fund]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH ACTION]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]], [[WFW ACTION FUND, INC.]]"
 ---
 
 <!-- auto:data-panel start -->

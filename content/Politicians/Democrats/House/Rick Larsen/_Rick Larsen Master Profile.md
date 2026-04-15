@@ -28,7 +28,7 @@ issues:
   - Immigration
 top-donors:
   - Boeing
-donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[Boeing]], [[AMERICAN FUTURE FUND]], [[AMERICAN CROSSROADS]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[Boeing]], [[AMERICAN FUTURE FUND]], [[AMERICAN CROSSROADS]], [[NARAL]]"
 total-received: $1,185,411
 fec-candidate-id: H0WA02080
 govtrack-id: 400232

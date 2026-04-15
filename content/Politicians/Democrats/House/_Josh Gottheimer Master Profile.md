@@ -9,7 +9,7 @@ parent: null
 party: Democrat
 chamber: House
 district: "5"
-top-donors: "[[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]"
+top-donors: "[[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]], [[NO LABELS ACTION, INC.]]"
 total-received: $1,892,291
 fec-candidate-id: H6NJ05171
 bioguide-id: G000583

@@ -28,7 +28,7 @@ stock-trades: 50
 last-enriched: "2026-04-12"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
-donors: "[[Google - Alphabet]], [[Connecticut Patriots Pac]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Restoration PAC]]"
+donors: "[[Google - Alphabet]], [[Connecticut Patriots Pac]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Restoration PAC]], [[LEADERSHIP NOW]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Jerry Moran Master Profile|Jerry Moran]] · [[_Ed Markey Master Profile|Ed Markey]] · [[_Donald Trump Master Profile|Trump]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 issues:

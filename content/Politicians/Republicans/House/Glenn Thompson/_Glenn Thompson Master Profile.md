@@ -18,7 +18,7 @@ issues:
   - Agriculture
 total-received: $1,227,441
 fec-candidate-id: H8PA05071
-donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[EVERYTOWN FOR GUN SAFETY ACTION FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
+donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[EVERYTOWN FOR GUN SAFETY ACTION FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[PENNSYLVANIA PRO-LIFE FEDERATION PAC]]"
 related: "[[John Boozman]] · [[_Donald Trump Master Profile|Trump]]"
 total-raised: $1,227,441
 total-spent: $1,152,094

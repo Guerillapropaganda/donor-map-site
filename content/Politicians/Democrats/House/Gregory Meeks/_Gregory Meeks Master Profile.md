@@ -36,7 +36,7 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-donors: "[[NORPAC]], [[FAIRSHAKE]], [[Goldman Sachs]], [[Planned Parenthood Votes]]"
+donors: "[[NORPAC]], [[FAIRSHAKE]], [[Goldman Sachs]], [[Planned Parenthood Votes]], [[CARE ACTION NOW INC.]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[DIRECT SELLING EMPOWERS AMERICANS]]"
 related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Goldman Sachs]]"
 ---
 

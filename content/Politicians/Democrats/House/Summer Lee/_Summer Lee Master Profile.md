@@ -20,7 +20,7 @@ issues:
   - Healthcare
   - Environmental Justice
 related: "[[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[United Democracy Project - UDP]] · [[DMFI - Democratic Majority for Israel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Bernie Sanders]] · [[Pramila Jayapal]]"
-donors: "[[WORKING FAMILIES PARTY PAC]], [[Courage to Change PAC]], [[JUSTICE DEMOCRATS PAC]], [[Justice Democrats PAC]]"
+donors: "[[WORKING FAMILIES PARTY PAC]], [[Courage to Change PAC]], [[JUSTICE DEMOCRATS PAC]], [[Justice Democrats PAC]], [[CONGRESSIONAL PROGRESSIVE CAUCUS PAC]]"
 opposes:
   - United Democracy Project
   - DMFI PAC

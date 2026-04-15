@@ -1,0 +1,38 @@
+---
+title: North Dakota Strong INC
+type: donor
+content-readiness: raw
+editorial-status: stub
+sector: Political Committees
+entity-type: PAC
+last-updated: 2026-04-15T00:00:00.000Z
+source-tier: 1
+fec-committee-id: C00826271
+aliases:
+  - NORTH DAKOTA STRONG INC
+known-gaps:
+  - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
+politicians-funded: "[[John Hoeven]]"
+---
+
+## Auto-Created Stub
+
+This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15
+so that independent-expenditure records from the FEC API referencing committee
+"NORTH DAKOTA STRONG INC" can resolve to a canonical vault profile.
+
+It is a data placeholder only. Full editorial content including class analysis,
+donor network, politicians funded, ideology, and transparency score is pending
+from Research Claude.
+
+### FEC committee record
+
+- **FEC committee ID**: [C00826271](https://www.fec.gov/data/committee/C00826271/)
+- **Committee type**: Super PAC (Independent Expenditure-Only)
+- **Active cycles**: 2022, 2024
+
+### FEC aliases
+
+This profile absorbs the following FEC-format committee name(s):
+
+- `NORTH DAKOTA STRONG INC`

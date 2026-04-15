@@ -27,7 +27,7 @@ stock-trades: 8
 stock-trade-tickers:
   - GDV
   - BIF
-donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[Northrop Grumman]]"
+donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[Northrop Grumman]] · [[MISSISSIPPI REPUBLICAN PARTY]] · [[PLANNED PARENTHOOD ACTION FUND INC]]"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]]"
 total-received: $286,732
 fec-candidate-id: S8MS00196

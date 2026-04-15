@@ -32,7 +32,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Angie Craig]]"
-donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Federation]] · [[UAW - United Auto Workers]]"
+donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Federation]] · [[UAW - United Auto Workers]] · [[RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE]] · [[SIERRA CLUB POLITICAL COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -13,7 +13,7 @@ state: South Dakota
 state-abbr: SD
 leadership-roles:
   - Majority Leader
-top-donors: "[[Insurance Industry]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Goldman Sachs]], [[League of Conservation Voters]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
+top-donors: "[[Insurance Industry]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Goldman Sachs]], [[League of Conservation Voters]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH INC PAC]]"
 total-received: $1,221,843
 fec-candidate-id: S2SD00068
 source-types:

@@ -35,7 +35,7 @@ website: https://bobbyscott.house.gov
 phone: 202-225-8351
 total-received: $290,963
 fec-candidate-id: H6VA01117
-donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]] · [[Sierra Club Independent Action]] · [[United We Can]]"
+donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]] · [[Sierra Club Independent Action]] · [[United We Can]] · [[DEMOCRATIC PARTY OF VIRGINIA]] · [[TOGETHER WE THRIVE]] · [[SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
 opensanctions-status: pep
 opensanctions-matches: 1

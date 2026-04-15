@@ -1673,11 +1673,11 @@
       "SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (SEIU COPE)"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/SEIU Cope.md",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/SEIU COPE.md",
     "vault_slug": "seiu-cope",
     "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T17:33:23.404Z"
+    "updated": "2026-04-15T19:18:09.372Z"
   },
   "C00564765": {
     "committee_id": "C00564765",
@@ -2033,11 +2033,11 @@
       "BUILDING A BETTER PA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/Building a Better Pa.md",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Building a Better PA.md",
     "vault_slug": "building-a-better-pa",
     "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T17:33:23.404Z"
+    "updated": "2026-04-15T19:18:09.375Z"
   },
   "C90018169": {
     "committee_id": "C90018169",
@@ -2143,11 +2143,11 @@
       "VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": "content/Donors & Power Networks/Super PACs/Vigop.md",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/VIGOP.md",
     "vault_slug": "vigop",
     "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T17:33:23.404Z"
+    "updated": "2026-04-15T19:18:09.374Z"
   },
   "C00688655": {
     "committee_id": "C00688655",
@@ -2335,11 +2335,11 @@
       "AMERICAN HOSPITAL ASSOCIATION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Hospital Association PAC.md",
+    "vault_slug": "american-hospital-association-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00020818": {
     "committee_id": "C00020818",
@@ -2385,11 +2385,11 @@
       "REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Republican Campaign Committee of New Mexico.md",
+    "vault_slug": "republican-campaign-committee-of-new-mexico",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00571703": {
     "committee_id": "C00571703",
@@ -2415,11 +2415,11 @@
       "SLF PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/SLF PAC.md",
+    "vault_slug": "slf-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C30001432": {
     "committee_id": "C30001432",
@@ -2443,11 +2443,11 @@
       "FIRST AMENDMENT ALLIANCE INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/First Amendment Alliance.md",
+    "vault_slug": "first-amendment-alliance",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00582312": {
     "committee_id": "C00582312",
@@ -2526,11 +2526,11 @@
       "COMMONWEALTH UNITY FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Commonwealth Unity Fund.md",
+    "vault_slug": "commonwealth-unity-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00680983": {
     "committee_id": "C00680983",
@@ -2553,11 +2553,11 @@
       "NO LABELS ACTION, INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/No Labels Action, Inc..md",
+    "vault_slug": "no-labels-action-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90014739": {
     "committee_id": "C90014739",
@@ -2580,11 +2580,11 @@
       "OKLAHOMANS FOR A CONSERVATIVE FUTURE INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Oklahomans for a Conservative Future INC.md",
+    "vault_slug": "oklahomans-for-a-conservative-future-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00738815": {
     "committee_id": "C00738815",
@@ -2635,11 +2635,11 @@
       "CALIFORNIANS FOR INNOVATION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Californians for Innovation.md",
+    "vault_slug": "californians-for-innovation",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00563171": {
     "committee_id": "C00563171",
@@ -2661,11 +2661,11 @@
       "NEW YORK 2014"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/New York 2014.md",
+    "vault_slug": "new-york-2014",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00848440": {
     "committee_id": "C00848440",
@@ -2714,11 +2714,11 @@
       "EQUALITY PROJECT PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Equality Project PAC.md",
+    "vault_slug": "equality-project-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00826412": {
     "committee_id": "C00826412",
@@ -2769,11 +2769,11 @@
       "FIGHT CORPORATE MONOPOLIES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Fight Corporate Monopolies.md",
+    "vault_slug": "fight-corporate-monopolies",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00520825": {
     "committee_id": "C00520825",
@@ -2796,11 +2796,11 @@
       "THE TEA PARTY LEADERSHIP FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/The Tea Party Leadership Fund.md",
+    "vault_slug": "the-tea-party-leadership-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00011114": {
     "committee_id": "C00011114",
@@ -2846,11 +2846,11 @@
       "AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Federation of State County & Municipal Employees P E O P L E.md",
+    "vault_slug": "american-federation-of-state-county-municipal-employees-p-e-o-p-l-e",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00488494": {
     "committee_id": "C00488494",
@@ -2879,11 +2879,11 @@
       "NEW PROSPERITY FOUNDATION; THE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/New Prosperity Foundation; the.md",
+    "vault_slug": "new-prosperity-foundation-the",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00527804": {
     "committee_id": "C00527804",
@@ -2911,11 +2911,11 @@
       "AMERICAN PRINCIPLES FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Principles Fund.md",
+    "vault_slug": "american-principles-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00314617": {
     "committee_id": "C00314617",
@@ -2952,11 +2952,11 @@
       "PLANNED PARENTHOOD ACTION FUND INC PAC, DBA PLANNED PARENTHOOD FEDERAL PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood Action Fund INC.md",
+    "vault_slug": "planned-parenthood-action-fund-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00343459": {
     "committee_id": "C00343459",
@@ -2990,11 +2990,11 @@
       "AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American College of Radiology Association PAC.md",
+    "vault_slug": "american-college-of-radiology-association-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00620369": {
     "committee_id": "C00620369",
@@ -3018,11 +3018,11 @@
       "HOUSE LIBERTY PROJECT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/House Liberty Project.md",
+    "vault_slug": "house-liberty-project",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00553974": {
     "committee_id": "C00553974",
@@ -3046,11 +3046,11 @@
       "CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Citizens for Responsible Energy Solutions Inc..md",
+    "vault_slug": "citizens-for-responsible-energy-solutions-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00807321": {
     "committee_id": "C00807321",
@@ -3074,11 +3074,11 @@
       "LEADERSHIP NOW PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Leadership Now.md",
+    "vault_slug": "leadership-now",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00513176": {
     "committee_id": "C00513176",
@@ -3106,11 +3106,11 @@
       "CONGRESSIONAL PROGRESSIVE CAUCUS PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Congressional Progressive Caucus PAC.md",
+    "vault_slug": "congressional-progressive-caucus-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00608943": {
     "committee_id": "C00608943",
@@ -3168,11 +3168,11 @@
       "GIFFORDS PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Giffords PAC.md",
+    "vault_slug": "giffords-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00767632": {
     "committee_id": "C00767632",
@@ -3194,11 +3194,11 @@
       "VOTER PROTECTION PROJECT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Voter Protection Project.md",
+    "vault_slug": "voter-protection-project",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00508440": {
     "committee_id": "C00508440",
@@ -3227,11 +3227,11 @@
       "HUMAN RIGHTS CAMPAIGN EQUALITY VOTES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Human Rights Campaign Equality Votes.md",
+    "vault_slug": "human-rights-campaign-equality-votes",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00490375": {
     "committee_id": "C00490375",
@@ -3260,11 +3260,11 @@
       "NATIONAL NURSES UNITED FOR PATIENT PROTECTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/National Nurses United for Patient Protection.md",
+    "vault_slug": "national-nurses-united-for-patient-protection",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00686246": {
     "committee_id": "C00686246",
@@ -3285,11 +3285,11 @@
       "KANSAS FARMERS FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Kansas Farmers Fund.md",
+    "vault_slug": "kansas-farmers-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00547265": {
     "committee_id": "C00547265",
@@ -3312,11 +3312,11 @@
       "AMERICAN COMMITMENT ACTION FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Commitment Action Fund.md",
+    "vault_slug": "american-commitment-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00486878": {
     "committee_id": "C00486878",
@@ -3341,11 +3341,11 @@
       "PEOPLE'S MAJORITY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/People's Majority.md",
+    "vault_slug": "people-s-majority",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00346536": {
     "committee_id": "C00346536",
@@ -3372,11 +3372,11 @@
       "CLUB FOR GROWTH INC PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Club for Growth INC PAC.md",
+    "vault_slug": "club-for-growth-inc-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00870204": {
     "committee_id": "C00870204",
@@ -3398,11 +3398,11 @@
       "CENTRAL COAST VALUES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Central Coast Values PAC.md",
+    "vault_slug": "central-coast-values-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION": {
     "committee_id": "UNRESOLVED:CULAC THE PAC OF CREDIT UNION NATIONAL ASSOCIATION",
@@ -3450,11 +3450,11 @@
       "USA VOTE FOR FREEDOM ORGANIZATION SUPER PAC, INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Freedom Vote.md",
+    "vault_slug": "freedom-vote",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00365536": {
     "committee_id": "C00365536",
@@ -3487,11 +3487,11 @@
       "CHC BOLD PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/CHC BOLD PAC.md",
+    "vault_slug": "chc-bold-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00449926": {
     "committee_id": "C00449926",
@@ -3521,11 +3521,11 @@
       "AMERICAN FUTURE FUND POLITICAL ACTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Future Fund Political Action.md",
+    "vault_slug": "american-future-fund-political-action",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00826271": {
     "committee_id": "C00826271",
@@ -3547,11 +3547,11 @@
       "NORTH DAKOTA STRONG INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/North Dakota Strong INC.md",
+    "vault_slug": "north-dakota-strong-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:LEAGUE OF CONSERVATION VOTERS VICTORY FUND": {
     "committee_id": "UNRESOLVED:LEAGUE OF CONSERVATION VOTERS VICTORY FUND",
@@ -3628,11 +3628,11 @@
       "COMMON SENSE FOR AMERICA PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Common Sense for America PAC.md",
+    "vault_slug": "common-sense-for-america-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00678839": {
     "committee_id": "C00678839",
@@ -3657,11 +3657,11 @@
       "INDIVISIBLE ACTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Indivisible Action.md",
+    "vault_slug": "indivisible-action",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00442020": {
     "committee_id": "C00442020",
@@ -3692,11 +3692,11 @@
       "ENVIRONMENT AMERICA INC. VOTER ACTION (ABBV. 'ENVIRONMENT AMERICA VOTER ACTION')"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Environment America INC.md",
+    "vault_slug": "environment-america-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00448696": {
     "committee_id": "C00448696",
@@ -3726,11 +3726,11 @@
       "SENATE CONSERVATIVES FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Senate Conservatives Fund.md",
+    "vault_slug": "senate-conservatives-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00902106": {
     "committee_id": "C00902106",
@@ -3778,11 +3778,11 @@
       "RESTORING OUR COMMUNITY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Restoring Our Community.md",
+    "vault_slug": "restoring-our-community",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00784876": {
     "committee_id": "C00784876",
@@ -3867,11 +3867,11 @@
       "ARIZONANS FOR AFFORDABLE ELECTRICITY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Arizonans for Affordable Electricity.md",
+    "vault_slug": "arizonans-for-affordable-electricity",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00750505": {
     "committee_id": "C00750505",
@@ -3947,11 +3947,11 @@
       "STARS AND STRIPES FOREVER PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Stars and Stripes Forever PAC.md",
+    "vault_slug": "stars-and-stripes-forever-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90014879": {
     "committee_id": "C90014879",
@@ -3974,11 +3974,11 @@
       "FOUNDATION FOR ECONOMIC PROSPERITY INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Foundation for Economic Prosperity Inc..md",
+    "vault_slug": "foundation-for-economic-prosperity-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00742130": {
     "committee_id": "C00742130",
@@ -4064,11 +4064,11 @@
       "KANSAS AG COMMUNITIES COALITION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Kansas Ag Communities Coalition.md",
+    "vault_slug": "kansas-ag-communities-coalition",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00135368": {
     "committee_id": "C00135368",
@@ -4112,11 +4112,11 @@
       "SIERRA CLUB POLITICAL COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Sierra Club Political Committee.md",
+    "vault_slug": "sierra-club-political-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00453704": {
     "committee_id": "C00453704",
@@ -4146,11 +4146,11 @@
       "EMGAGE FEDERAL POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Emgage Federal Political Action Committee.md",
+    "vault_slug": "emgage-federal-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00683599": {
     "committee_id": "C00683599",
@@ -4174,11 +4174,11 @@
       "CHANGE NOW"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Change Now.md",
+    "vault_slug": "change-now",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00430876": {
     "committee_id": "C00430876",
@@ -4208,11 +4208,11 @@
       "WORKING FOR US POLITICAL ACTION COMMITTEE INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Working for US Political Action Committee INC.md",
+    "vault_slug": "working-for-us-political-action-committee-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00889246": {
     "committee_id": "C00889246",
@@ -4269,11 +4269,11 @@
       "HUMANE SOCIETY LEGISLATIVE FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Humane Society Legislative Fund.md",
+    "vault_slug": "humane-society-legislative-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00672386": {
     "committee_id": "C00672386",
@@ -4295,11 +4295,11 @@
       "DELIVERING FOR CALIFORNIA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Delivering for California.md",
+    "vault_slug": "delivering-for-california",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00509463": {
     "committee_id": "C00509463",
@@ -4353,11 +4353,11 @@
       "CALIFORNIANS FOR SACRED SITES PROTECTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Californians for Sacred Sites Protection.md",
+    "vault_slug": "californians-for-sacred-sites-protection",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C30002430": {
     "committee_id": "C30002430",
@@ -4384,11 +4384,11 @@
       "AMERICAN CHEMISTRY COUNCIL, INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Chemistry Council, INC.md",
+    "vault_slug": "american-chemistry-council-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.638Z",
-    "updated": "2026-04-15T05:19:23.638Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00591073": {
     "committee_id": "C00591073",
@@ -4411,11 +4411,11 @@
       "PRIORITIES USA ACTION AND EMILY'S LIST WOMEN VOTE! JOINT FUNDRAISING COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Emily's List.md",
+    "vault_slug": "emily-s-list",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00930495": {
     "committee_id": "C00930495",
@@ -4436,11 +4436,11 @@
       "WINNING RIGHT PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Winning Right PAC.md",
+    "vault_slug": "winning-right-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00337451": {
     "committee_id": "C00337451",
@@ -4472,11 +4472,11 @@
       "NEW YORK STATE NARAL INC WOMEN'S HEALTH POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/NARAL.md",
+    "vault_slug": "naral",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00710178": {
     "committee_id": "C00710178",
@@ -4556,11 +4556,11 @@
       "THE DISABLED VETERANS COALITION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/The Disabled Veterans Coalition PAC.md",
+    "vault_slug": "the-disabled-veterans-coalition-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00671388": {
     "committee_id": "C00671388",
@@ -4584,11 +4584,11 @@
       "FLORIDA CONSERVATIVE FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Florida Conservative Fund.md",
+    "vault_slug": "florida-conservative-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00662072": {
     "committee_id": "C00662072",
@@ -4612,11 +4612,11 @@
       "DRAIN THE DC SWAMP PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Drain the DC Swamp PAC.md",
+    "vault_slug": "drain-the-dc-swamp-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00401786": {
     "committee_id": "C00401786",
@@ -4648,11 +4648,11 @@
       "FREEDOM'S DEFENSE FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Freedom's Defense Fund.md",
+    "vault_slug": "freedom-s-defense-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C30001739": {
     "committee_id": "C30001739",
@@ -4677,11 +4677,11 @@
       "BLUEGREEN ALLIANCE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Bluegreen Alliance.md",
+    "vault_slug": "bluegreen-alliance",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00343137": {
     "committee_id": "C00343137",
@@ -4716,11 +4716,11 @@
       "POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS--PAC OF AAOS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Political Action Committee of the American Association of Orthopaedic Surgeons.md",
+    "vault_slug": "political-action-committee-of-the-american-association-of-orthopaedic-surgeons",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00172296": {
     "committee_id": "C00172296",
@@ -4763,11 +4763,11 @@
       "NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/National Committee to Preserve Social Security PAC.md",
+    "vault_slug": "national-committee-to-preserve-social-security-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:POLICE OFFICERS DEFENSE ALLIANCE LLC": {
     "committee_id": "UNRESOLVED:POLICE OFFICERS DEFENSE ALLIANCE LLC",
@@ -4818,11 +4818,11 @@
       "NATIONAL WILDLIFE FEDERATION ACTION FUND POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/National Wildlife Federation Action Fund.md",
+    "vault_slug": "national-wildlife-federation-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00004861": {
     "committee_id": "C00004861",
@@ -4868,11 +4868,11 @@
       "UNITE HERE TIP CAMPAIGN COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Unite Here Tip Campaign Committee.md",
+    "vault_slug": "unite-here-tip-campaign-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00540203": {
     "committee_id": "C00540203",
@@ -4901,11 +4901,11 @@
       "DEFENDING MAIN STREET SUPERPAC INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Defending Main Street Superpac INC.md",
+    "vault_slug": "defending-main-street-superpac-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00912477": {
     "committee_id": "C00912477",
@@ -4926,11 +4926,11 @@
       "CLEAR VOICE MINNESOTA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Clear Voice Minnesota.md",
+    "vault_slug": "clear-voice-minnesota",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00002766": {
     "committee_id": "C00002766",
@@ -4976,11 +4976,11 @@
       "UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/United Food and Commercial Workers International Union Active Ballot Club.md",
+    "vault_slug": "united-food-and-commercial-workers-international-union-active-ballot-club",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00879080": {
     "committee_id": "C00879080",
@@ -5058,11 +5058,11 @@
       "PROGRESSIVE TURNOUT PROJECT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Progressive Turnout Project.md",
+    "vault_slug": "progressive-turnout-project",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00516500": {
     "committee_id": "C00516500",
@@ -5090,11 +5090,11 @@
       "POWERPACPLUS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Powerpacplus.md",
+    "vault_slug": "powerpacplus",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES": {
     "committee_id": "UNRESOLVED:DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE - EXPENDITURES",
@@ -5143,11 +5143,11 @@
       "WFW ACTION FUND, INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Wfw Action Fund, Inc..md",
+    "vault_slug": "wfw-action-fund-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00575845": {
     "committee_id": "C00575845",
@@ -5171,11 +5171,11 @@
       "FREETHOUGHT EQUALITY SUPER PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Freethought Equality Super PAC.md",
+    "vault_slug": "freethought-equality-super-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00684530": {
     "committee_id": "C00684530",
@@ -5200,11 +5200,11 @@
       "PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood of Minnesota Political Action Fund.md",
+    "vault_slug": "planned-parenthood-of-minnesota-political-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00505792": {
     "committee_id": "C00505792",
@@ -5233,11 +5233,11 @@
       "AMERICAN CONSERVATIVE UNION SUPER PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Conservative Union.md",
+    "vault_slug": "american-conservative-union",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00162818": {
     "committee_id": "C00162818",
@@ -5280,11 +5280,11 @@
       "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/International Brotherhood of Electrical Workers Local 98 Committee on Political Education.md",
+    "vault_slug": "international-brotherhood-of-electrical-workers-local-98-committee-on-political-education",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00307777": {
     "committee_id": "C00307777",
@@ -5319,11 +5319,11 @@
       "FREEDOM CLUB FEDERAL PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Freedom Club Federal PAC.md",
+    "vault_slug": "freedom-club-federal-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90021353": {
     "committee_id": "C90021353",
@@ -5346,11 +5346,11 @@
       "OPPORTUNITY FOR ALL ACTION FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Opportunity for All Action Fund.md",
+    "vault_slug": "opportunity-for-all-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00528919": {
     "committee_id": "C00528919",
@@ -5372,11 +5372,11 @@
       "TRINITY PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Trinity PAC.md",
+    "vault_slug": "trinity-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00300731": {
     "committee_id": "C00300731",
@@ -5413,11 +5413,11 @@
       "LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Los Angeles County Democratic Central Committee.md",
+    "vault_slug": "los-angeles-county-democratic-central-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00824821": {
     "committee_id": "C00824821",
@@ -5474,11 +5474,11 @@
       "FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Family Research Council Action Political Action Committee.md",
+    "vault_slug": "family-research-council-action-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00770511": {
     "committee_id": "C00770511",
@@ -5501,11 +5501,11 @@
       "TZEDEK PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Tzedek PAC.md",
+    "vault_slug": "tzedek-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00897363": {
     "committee_id": "C00897363",
@@ -5526,11 +5526,11 @@
       "BLUE MAJORITY PROJECT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Blue Majority Project.md",
+    "vault_slug": "blue-majority-project",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90017625": {
     "committee_id": "C90017625",
@@ -5555,11 +5555,11 @@
       "COPS VOTER GUIDE INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Cops Voter Guide Inc..md",
+    "vault_slug": "cops-voter-guide-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00199802": {
     "committee_id": "C00199802",
@@ -5592,11 +5592,11 @@
       "ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/English Language Political Action Committee.md",
+    "vault_slug": "english-language-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00383232": {
     "committee_id": "C00383232",
@@ -5623,11 +5623,11 @@
       "NEW HOUSE PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/New House PAC.md",
+    "vault_slug": "new-house-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00866640": {
     "committee_id": "C00866640",
@@ -5649,11 +5649,11 @@
       "RESOLUTE COURAGE PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Resolute Courage PAC.md",
+    "vault_slug": "resolute-courage-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00492116": {
     "committee_id": "C00492116",
@@ -5681,11 +5681,11 @@
       "COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Cooperative of American Physicians Independent Expenditure Committee.md",
+    "vault_slug": "cooperative-of-american-physicians-independent-expenditure-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00496927": {
     "committee_id": "C00496927",
@@ -5710,11 +5710,11 @@
       "CITIZENS SUPER PAC FOR AMERICA (CSPAC)"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Citizen Super PAC.md",
+    "vault_slug": "citizen-super-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00343756": {
     "committee_id": "C00343756",
@@ -5736,11 +5736,11 @@
       "27TH CONGRESSIONAL DISTRICT DEMOCRATIC CLUB"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/27th Congressional District Democratic Club.md",
+    "vault_slug": "27th-congressional-district-democratic-club",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90019670": {
     "committee_id": "C90019670",
@@ -5764,11 +5764,11 @@
       "COMMONWEALTH COMMUNICATIONS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Commonwealth Communications.md",
+    "vault_slug": "commonwealth-communications",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C70002761": {
     "committee_id": "C70002761",
@@ -5803,11 +5803,11 @@
       "NARAL Pro-Choice America"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/NARAL Pro-Choice America.md",
+    "vault_slug": "naral-pro-choice-america",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00701797": {
     "committee_id": "C00701797",
@@ -5857,11 +5857,11 @@
       "FRIENDS OF THE EARTH (ACTION) INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Friends of the Earth (action) INC.md",
+    "vault_slug": "friends-of-the-earth-action-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00563627": {
     "committee_id": "C00563627",
@@ -5883,11 +5883,11 @@
       "CONNECTICUT TAXPAYERS ALLIANCE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Connecticut Taxpayers Alliance.md",
+    "vault_slug": "connecticut-taxpayers-alliance",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00617779": {
     "committee_id": "C00617779",
@@ -5912,11 +5912,11 @@
       "MIDWEST GROWTH PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Midwest Growth PAC.md",
+    "vault_slug": "midwest-growth-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00820084": {
     "committee_id": "C00820084",
@@ -5938,11 +5938,11 @@
       "COMMON SENSE FOR CONNECTICUT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Common Sense for Connecticut.md",
+    "vault_slug": "common-sense-for-connecticut",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00935973": {
     "committee_id": "C00935973",
@@ -5963,11 +5963,11 @@
       "NORTH STAR DAWN PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/North Star Dawn PAC.md",
+    "vault_slug": "north-star-dawn-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00754754": {
     "committee_id": "C00754754",
@@ -6024,11 +6024,11 @@
       "AFSCME WORKING FAMILIES FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/AFSCME Working Families Fund.md",
+    "vault_slug": "afscme-working-families-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES": {
     "committee_id": "UNRESOLVED:NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES",
@@ -6078,11 +6078,11 @@
       "ONE NATION UNITED"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/One Nation United.md",
+    "vault_slug": "one-nation-united",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00082917": {
     "committee_id": "C00082917",
@@ -6127,11 +6127,11 @@
       "ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Associated General Contractors of America Political Action Committee.md",
+    "vault_slug": "associated-general-contractors-of-america-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED": {
     "committee_id": "UNRESOLVED:AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED",
@@ -6187,11 +6187,11 @@
       "MID-ATLANTIC LABORERS' POLITICAL LEAGUE/LABORERS' INTERNATIONAL UNION OF NORTH AMERICA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Laborers' Political League-Laborers' International Union of N.a..md",
+    "vault_slug": "laborers-political-league-laborers-international-union-of-n-a",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00084368": {
     "committee_id": "C00084368",
@@ -6236,11 +6236,11 @@
       "MISSISSIPPI REPUBLICAN PARTY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Mississippi Republican Party.md",
+    "vault_slug": "mississippi-republican-party",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00427617": {
     "committee_id": "C00427617",
@@ -6271,11 +6271,11 @@
       "BLUE AMERICA PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Blue America PAC.md",
+    "vault_slug": "blue-america-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90014119": {
     "committee_id": "C90014119",
@@ -6303,11 +6303,11 @@
       "PLANNED PARENTHOOD VOTES NORTHWEST"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood Votes Northwest.md",
+    "vault_slug": "planned-parenthood-votes-northwest",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00564997": {
     "committee_id": "C00564997",
@@ -6334,11 +6334,11 @@
       "DIRECT SELLING EMPOWERS AMERICANS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Direct Selling Empowers Americans.md",
+    "vault_slug": "direct-selling-empowers-americans",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00672139": {
     "committee_id": "C00672139",
@@ -6395,11 +6395,11 @@
       "ELBERT GUILLORY'S AMERICA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Elbert Guillory's America.md",
+    "vault_slug": "elbert-guillory-s-america",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00754671": {
     "committee_id": "C00754671",
@@ -6424,11 +6424,11 @@
       "UNITED WE DREAM ACTION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Dream United.md",
+    "vault_slug": "dream-united",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00006080": {
     "committee_id": "C00006080",
@@ -6475,11 +6475,11 @@
       "CARE ACTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Care Action.md",
+    "vault_slug": "care-action",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90007998": {
     "committee_id": "C90007998",
@@ -6511,11 +6511,11 @@
       "LET FREEDOM RING INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Let Freedom Ring INC.md",
+    "vault_slug": "let-freedom-ring-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00382283": {
     "committee_id": "C00382283",
@@ -6548,11 +6548,11 @@
       "OHLONE AREA UNITED DEMOCRATIC CAMPAIGN"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Ohlone Area United Democratic Campaign.md",
+    "vault_slug": "ohlone-area-united-democratic-campaign",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90021973": {
     "committee_id": "C90021973",
@@ -6575,11 +6575,11 @@
       "CARE ACTION NOW INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Care Action Now Inc..md",
+    "vault_slug": "care-action-now-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00688432": {
     "committee_id": "C00688432",
@@ -6604,11 +6604,11 @@
       "PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood Action Fund of the Pacific Southwest PAC.md",
+    "vault_slug": "planned-parenthood-action-fund-of-the-pacific-southwest-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00325704": {
     "committee_id": "C00325704",
@@ -6641,11 +6641,11 @@
       "KUCINICH ACTION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Kucinich Action PAC.md",
+    "vault_slug": "kucinich-action-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90021387": {
     "committee_id": "C90021387",
@@ -6668,11 +6668,11 @@
       "COALITION TO GROW SAN FRANCISCO - GROW SF PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Coalition to Grow San Francisco - Grow Sf PAC.md",
+    "vault_slug": "coalition-to-grow-san-francisco-grow-sf-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:PLANNED PARENTHOOD LA ADVOCACY PROJECT": {
     "committee_id": "UNRESOLVED:PLANNED PARENTHOOD LA ADVOCACY PROJECT",
@@ -6722,11 +6722,11 @@
       "GOOD JOBS AND STRONG COMMUNITIES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Good Jobs and Strong Communities PAC.md",
+    "vault_slug": "good-jobs-and-strong-communities-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00003251": {
     "committee_id": "C00003251",
@@ -6772,11 +6772,11 @@
       "NEA FUND FOR CHILDREN AND PUBLIC EDUCATION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/NEA Fund for Children and Public Education.md",
+    "vault_slug": "nea-fund-for-children-and-public-education",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00298000": {
     "committee_id": "C00298000",
@@ -6813,11 +6813,11 @@
       "MADISON PROJECT INC."
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Madison Project Inc..md",
+    "vault_slug": "madison-project-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00690255": {
     "committee_id": "C00690255",
@@ -6840,11 +6840,11 @@
       "ONEAMERICA VOTES JUSTICE FOR ALL FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Oneamerica Votes.md",
+    "vault_slug": "oneamerica-votes",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00245456": {
     "committee_id": "C00245456",
@@ -6875,11 +6875,11 @@
       "CLEAN UP CONGRESS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Clean Up Congress.md",
+    "vault_slug": "clean-up-congress",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00530766": {
     "committee_id": "C00530766",
@@ -6960,11 +6960,11 @@
       "LET AMERICA VOTE PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Let America Vote PAC.md",
+    "vault_slug": "let-america-vote-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00528307": {
     "committee_id": "C00528307",
@@ -6992,11 +6992,11 @@
       "PATRIOT VOICES PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Patriot Voices PAC.md",
+    "vault_slug": "patriot-voices-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00688994": {
     "committee_id": "C00688994",
@@ -7018,11 +7018,11 @@
       "TOGETHER FOR PROGRESS PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Together for Progress PAC.md",
+    "vault_slug": "together-for-progress-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00306977": {
     "committee_id": "C00306977",
@@ -7047,11 +7047,11 @@
       "WASHINGTON CITIZENS FOR COLIN POWELL"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Washington Citizens for Colin Powell.md",
+    "vault_slug": "washington-citizens-for-colin-powell",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:MAYDAY PAC": {
     "committee_id": "UNRESOLVED:MAYDAY PAC",
@@ -7104,11 +7104,11 @@
       "NEW JERSEY FAMILY FIRST INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/New Jersey Family First INC.md",
+    "vault_slug": "new-jersey-family-first-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C30000673": {
     "committee_id": "C30000673",
@@ -7135,11 +7135,11 @@
       "FOCUS ON THE FAMILY ACTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Focus on the Family Action.md",
+    "vault_slug": "focus-on-the-family-action",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00488759": {
     "committee_id": "C00488759",
@@ -7163,11 +7163,11 @@
       "THE AMERICAN WORKER, INC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/American Worker Inc, the.md",
+    "vault_slug": "american-worker-inc-the",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00663211": {
     "committee_id": "C00663211",
@@ -7192,11 +7192,11 @@
       "MAD DOG PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Mad Dog PAC.md",
+    "vault_slug": "mad-dog-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF NA": {
     "committee_id": "UNRESOLVED:LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF NA",
@@ -7310,11 +7310,11 @@
       "THE NATIONAL REPUBLICAN TRUST PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/The National Republican Trust PAC.md",
+    "vault_slug": "the-national-republican-trust-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00101592": {
     "committee_id": "C00101592",
@@ -7360,11 +7360,11 @@
       "PUGET SOUND ENERGY INC. PAC FOR GOOD GOVERNMENT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Puget Sound Energy INC PAC for Good Government.md",
+    "vault_slug": "puget-sound-energy-inc-pac-for-good-government",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00483693": {
     "committee_id": "C00483693",
@@ -7419,11 +7419,11 @@
       "HE'S GOTTA GO PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/He's Gotta Go PAC.md",
+    "vault_slug": "he-s-gotta-go-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00815977": {
     "committee_id": "C00815977",
@@ -7444,11 +7444,11 @@
       "VICTORY FOR SCHAUMBURG"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Victory for Schaumburg.md",
+    "vault_slug": "victory-for-schaumburg",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C30001671": {
     "committee_id": "C30001671",
@@ -7473,11 +7473,11 @@
       "THE 60 PLUS ASSOCIATION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/The 60 Plus Association.md",
+    "vault_slug": "the-60-plus-association",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00428649": {
     "committee_id": "C00428649",
@@ -7508,11 +7508,11 @@
       "CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/CT Working Families Federal PAC D-b-a Take Back Congress CT.md",
+    "vault_slug": "ct-working-families-federal-pac-d-b-a-take-back-congress-ct",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00756056": {
     "committee_id": "C00756056",
@@ -7667,11 +7667,11 @@
       "DEMOCRATIC PARTY OF VIRGINIA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Democratic Party of Virginia.md",
+    "vault_slug": "democratic-party-of-virginia",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00522458": {
     "committee_id": "C00522458",
@@ -7699,11 +7699,11 @@
       "TOGETHER WE THRIVE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Together We Thrive.md",
+    "vault_slug": "together-we-thrive",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00139972": {
     "committee_id": "C00139972",
@@ -7736,11 +7736,11 @@
       "MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Mid-America Conservative Political Action Committee.md",
+    "vault_slug": "mid-america-conservative-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00176214": {
     "committee_id": "C00176214",
@@ -7782,11 +7782,11 @@
       "INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/International Longshore and Warehouse Union -- Political Action Fund.md",
+    "vault_slug": "international-longshore-and-warehouse-union-political-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00640300": {
     "committee_id": "C00640300",
@@ -7864,11 +7864,11 @@
       "REVERE AMERICA"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Revere America.md",
+    "vault_slug": "revere-america",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00302711": {
     "committee_id": "C00302711",
@@ -7900,11 +7900,11 @@
       "ALHAMBRA DEMOCRATIC CLUB - FED"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Alhambra Democratic Club.md",
+    "vault_slug": "alhambra-democratic-club",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.639Z",
-    "updated": "2026-04-15T05:19:23.639Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C30001135": {
     "committee_id": "C30001135",
@@ -7930,11 +7930,11 @@
       "AMERICANS FOR JOB SECURITY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Americans for Job Security.md",
+    "vault_slug": "americans-for-job-security",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00705277": {
     "committee_id": "C00705277",
@@ -7958,11 +7958,11 @@
       "ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Alice B. Toklas LGBTQ Democratic Club Federal PAC.md",
+    "vault_slug": "alice-b-toklas-lgbtq-democratic-club-federal-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:HUMANEUSA POLITICAL ACTION COMMITTEE": {
     "committee_id": "UNRESOLVED:HUMANEUSA POLITICAL ACTION COMMITTEE",
@@ -8008,11 +8008,11 @@
       "PLANNED PARENTHOOD NW ACTION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood Nw Action PAC.md",
+    "vault_slug": "planned-parenthood-nw-action-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00509893": {
     "committee_id": "C00509893",
@@ -8069,11 +8069,11 @@
       "SANDRE SWANSON FOR ASSEMBLY 2010"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Sandre Swanson for Assembly 2010.md",
+    "vault_slug": "sandre-swanson-for-assembly-2010",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00695619": {
     "committee_id": "C00695619",
@@ -8096,11 +8096,11 @@
       "HEALTH JUSTICE FOR ALL"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Health Justice for All.md",
+    "vault_slug": "health-justice-for-all",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00541433": {
     "committee_id": "C00541433",
@@ -8159,11 +8159,11 @@
       "SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/San Benito County Democratic Central Committee.md",
+    "vault_slug": "san-benito-county-democratic-central-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90016841": {
     "committee_id": "C90016841",
@@ -8189,11 +8189,11 @@
       "OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and....md",
+    "vault_slug": "opportunity-pac-a-coalition-of-teachers-health-care-givers-faculty-members-school-employees-and-public-and-pr",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00759142": {
     "committee_id": "C00759142",
@@ -8215,11 +8215,11 @@
       "COMMITTEE FOR DEFENDING AMERICAN VALUES"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Committee for Defending American Values.md",
+    "vault_slug": "committee-for-defending-american-values",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00172361": {
     "committee_id": "C00172361",
@@ -8261,11 +8261,11 @@
       "PENNSYLVANIA PRO-LIFE FEDERATION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Pennsylvania Pro-Life Federation PAC.md",
+    "vault_slug": "pennsylvania-pro-life-federation-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00407262": {
     "committee_id": "C00407262",
@@ -8296,11 +8296,11 @@
       "DEMOCRATIC ALLIANCE FOR ACTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Democratic Alliance for Action.md",
+    "vault_slug": "democratic-alliance-for-action",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00548461": {
     "committee_id": "C00548461",
@@ -8328,11 +8328,11 @@
       "CLIMATE HAWKS VOTE POLITICAL ACTION"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Climate Hawks Vote.md",
+    "vault_slug": "climate-hawks-vote",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90021577": {
     "committee_id": "C90021577",
@@ -8355,11 +8355,11 @@
       "DOLORES HUERTA ACTION FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Dolores Huerta Action Fund.md",
+    "vault_slug": "dolores-huerta-action-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:KNIGHT, MARILYN": {
     "committee_id": "UNRESOLVED:KNIGHT, MARILYN",
@@ -8407,11 +8407,11 @@
       "MISLOVE, ALAN EDWARD"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Mislove, Alan Edward.md",
+    "vault_slug": "mislove-alan-edward",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:ZB, N.A. DBA AMEGY BANK PAC": {
     "committee_id": "UNRESOLVED:ZB, N.A. DBA AMEGY BANK PAC",
@@ -8473,11 +8473,11 @@
       "SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Southern States Police Benevolent Assoc PAC Fund.md",
+    "vault_slug": "southern-states-police-benevolent-assoc-pac-fund",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00489799": {
     "committee_id": "C00489799",
@@ -8541,11 +8541,11 @@
       "SENIOR POLITICAL ACTION COMMITTEE (WASH D.C.)"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Senior Political Action Committee.md",
+    "vault_slug": "senior-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00041160": {
     "committee_id": "C00041160",
@@ -8591,11 +8591,11 @@
       "MICHIGAN REPUBLICAN PARTY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Michigan Republican Party.md",
+    "vault_slug": "michigan-republican-party",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00389403": {
     "committee_id": "C00389403",
@@ -8628,11 +8628,11 @@
       "SPECIALTY EQUIPMENT MARKET ASSOCIATION & PERFORMANCE RACING, INC. PAC (SEMA & PRI PAC)"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Performance Racing Inc..md",
+    "vault_slug": "performance-racing-inc",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00175521": {
     "committee_id": "C00175521",
@@ -8675,11 +8675,11 @@
       "KANSANS FOR LIFE POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Kansans for Life Political Action Committee.md",
+    "vault_slug": "kansans-for-life-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00101212": {
     "committee_id": "C00101212",
@@ -8724,11 +8724,11 @@
       "RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Right to Life of Michigan Political Action Committee.md",
+    "vault_slug": "right-to-life-of-michigan-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90006719": {
     "committee_id": "C90006719",
@@ -8754,11 +8754,11 @@
       "PLANNED PARENTHOOD ADVOCATES OF KANSAS"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood Advocates of Kansas.md",
+    "vault_slug": "planned-parenthood-advocates-of-kansas",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00174748": {
     "committee_id": "C00174748",
@@ -8781,11 +8781,11 @@
       "POLITICAL ACTION FOR LASTING SECURITY"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Political Action for Lasting Security.md",
+    "vault_slug": "political-action-for-lasting-security",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "UNRESOLVED:TRANSPORTATION POLITICAL EDUCATION LEAGUE": {
     "committee_id": "UNRESOLVED:TRANSPORTATION POLITICAL EDUCATION LEAGUE",
@@ -8844,11 +8844,11 @@
       "ALLIANCE COAL, LLC PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Alliance Coal, LLC PAC.md",
+    "vault_slug": "alliance-coal-llc-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00325076": {
     "committee_id": "C00325076",
@@ -8884,11 +8884,11 @@
       "CAMPAIGN FOR WORKING FAMILIES"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Campaign for Working Families.md",
+    "vault_slug": "campaign-for-working-families",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00029447": {
     "committee_id": "C00029447",
@@ -8934,11 +8934,11 @@
       "INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/International Association of Firefighters Interested in Registration and Education PAC.md",
+    "vault_slug": "international-association-of-firefighters-interested-in-registration-and-education-pac",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C90006032": {
     "committee_id": "C90006032",
@@ -8964,11 +8964,11 @@
       "PLANNED PARENTHOOD OF KS & MID-MO"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Planned Parenthood of KS & Mid-MO.md",
+    "vault_slug": "planned-parenthood-of-ks-mid-mo",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   },
   "C00243584": {
     "committee_id": "C00243584",
@@ -8992,10 +8992,10 @@
       "PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE"
     ],
     "source": "fec-committee-resolver",
-    "vault_profile": null,
-    "vault_slug": null,
-    "status": "unmapped-needs-stub",
+    "vault_profile": "content/Donors & Power Networks/Super PACs/Putting People First Political Action Committee.md",
+    "vault_slug": "putting-people-first-political-action-committee",
+    "status": "mapped",
     "added": "2026-04-15T05:19:23.640Z",
-    "updated": "2026-04-15T05:19:23.640Z"
+    "updated": "2026-04-15T19:18:20.790Z"
   }
 }

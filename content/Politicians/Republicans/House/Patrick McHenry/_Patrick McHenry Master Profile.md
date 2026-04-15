@@ -22,7 +22,7 @@ issues:
   - Foreign Trade and International Finance
   - Government Operations and Politics
   - Health
-top-donors: "[[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[Securities & Investment Industry]], [[Kenneth Griffin]], [[FAIRSHAKE]], [[Crypto Industry Bloc]]"
+top-donors: "[[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[Securities & Investment Industry]], [[Kenneth Griffin]], [[FAIRSHAKE]], [[Crypto Industry Bloc]], [[CLUB FOR GROWTH INC PAC]]"
 total-received: $2,203,814
 fec-candidate-id: H4NC10047
 last-enriched: "2026-04-10"

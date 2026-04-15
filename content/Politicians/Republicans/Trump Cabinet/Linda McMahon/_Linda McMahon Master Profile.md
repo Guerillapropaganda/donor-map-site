@@ -26,7 +26,7 @@ known-gaps:
 last-enriched: "2026-04-09"
 opposes: "[[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[MAJORITY PAC]] · [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES P E O P L E]] · [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]]"
 related: "[[_Donald Trump Master Profile]] · [[_Howard Lutnick Master Profile]] · [[US Chamber of Commerce]]"
-donors: "[[Brady Campaign]], [[MAJORITY PAC]], [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]], [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]], [[MAGA Inc]], [[America First Policy Institute]], [[US CHAMBER OF COMMERCE]]"
+donors: "[[Brady Campaign]], [[MAJORITY PAC]], [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]], [[LEAGUE OF CONSERVATION VOTERS ACTION FUND]], [[MAGA Inc]], [[America First Policy Institute]], [[US CHAMBER OF COMMERCE]], [[AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E]]"
 ---
 
 <!-- auto:data-panel start -->

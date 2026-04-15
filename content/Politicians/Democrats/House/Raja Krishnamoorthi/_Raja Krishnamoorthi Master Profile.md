@@ -48,7 +48,7 @@ wikidata-id: Q7285471
 wikipedia-url: https://en.wikipedia.org/wiki/Raja_Krishnamoorthi
 wikipedia-extract: Subramanian Raja Krishnamoorthi is an American attorney and politician serving as the U.S. representative for Illinois's 8th congressional district since 2017. He is a member of the Democratic Party.
 born: "1973-07-19"
-top-donors: "[[Planned Parenthood Votes]], [[NEA ADVOCACY FUND]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]]"
+top-donors: "[[Planned Parenthood Votes]], [[NEA ADVOCACY FUND]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[TOGETHER WE THRIVE]], [[VICTORY FOR SCHAUMBURG]]"
 ---
 
 <!-- auto:data-panel start -->

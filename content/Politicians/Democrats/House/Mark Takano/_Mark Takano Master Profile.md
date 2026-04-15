@@ -18,7 +18,7 @@ leadership-roles:
   - Ranking Member
 total-received: $524,547
 fec-candidate-id: H2CA43245
-donors: "[[UAW - United Auto Workers]] · [[National Nurses United]] · [[US CHAMBER OF COMMERCE]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
+donors: "[[UAW - United Auto Workers]] · [[National Nurses United]] · [[US CHAMBER OF COMMERCE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]] · [[PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC]] · [[EQUALITY PROJECT PAC]] · [[CALIFORNIANS FOR SACRED SITES PROTECTION]]"
 related: ">- · [[Mike Bost]] · [[National Nurses United]]"
 needs-reenrichment: true
 reenrich-reason: re-run fec pipeline

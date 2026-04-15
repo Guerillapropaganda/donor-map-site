@@ -22,7 +22,7 @@ bills-sponsored: 18
 bills-cosponsored: 265
 website: https://raskin.house.gov
 phone: 202-225-5341
-donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]]"
+donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]] · [[NEA FUND FOR CHILDREN AND PUBLIC EDUCATION]] · [[FREETHOUGHT EQUALITY SUPER PAC]]"
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[The Oversight Chair and the Investigation Theater]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Demand Justice]]"
 last-enriched: "2026-04-13"
