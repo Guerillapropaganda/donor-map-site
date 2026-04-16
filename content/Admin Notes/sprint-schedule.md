@@ -1791,6 +1791,20 @@ phase_1_tasks:
       added_adhoc: true
       notes: "Money Trail: full Canvas rewrite with dollar-sized nodes, edge type filters, amount thresholds. Relationships: dollar totals + contracts. Capitol Trades: DONOR cross-reference badge. ProfileWidget: Canvas mini-graph + Contracts tab + dollar amounts. ConnectionsExplorer component."
 
+    - id: cc_170
+      task: "Money Trail v4: ego graph + context-aware flow dots + Capitol Trades hover fix"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Reverted Canvas attempts, built ego graph (pick profile, star layout like relationships page). Flow dots direction depends on profile type: politicians/media/lobbyists receive inward, donors/corps/PACs give outward. Capitol Trades hover dimming softened."
+
+    - id: cc_171
+      task: "Bulk data progress tracker + 9 scripts registered in Ops /scripts"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "content/Admin Notes/bulk-data-progress.md tracks all ingested/pending/not-downloaded data. 9 scripts added to ops /scripts page under Bulk Data Ingest and Screening categories. FEC individual contributions (18.7GB, 6 cycles) downloaded and renamed."
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
