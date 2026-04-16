@@ -7,7 +7,7 @@ source-tier: 2
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[Glenn Thompson]] · [[Cindy Hyde-Smith]] · [[Ketanji Brown Jackson]] · [[Lindsey Graham]] · [[Trent Kelly]] · [[Democratic Donor Network]] · [[Ocean Conservancy]]"
+related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[Glenn Thompson]] · [[Cindy Hyde-Smith]] · [[Ketanji Brown Jackson]] · [[Lindsey Graham]] · [[Trent Kelly]] · [[Democratic Donor Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

@@ -35,7 +35,7 @@ regulatory-agencies:
   - "Federal Energy Regulatory Commission"
   - "Labor Department"
   - "Veterans Employment and Training Service"
-related: "[[Duke Energy]] · [[NextEra Energy]] · [[Koch Industries]] · [[US Chamber of Commerce]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]]"
+related: "[[Duke Energy]] · [[NextEra Energy]] · [[Koch Industries]] · [[US Chamber of Commerce]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]]"
 top-federal-agency: "General Services Administration"
 top-naics-code: "221210"
 lobbying-spend: 26933250

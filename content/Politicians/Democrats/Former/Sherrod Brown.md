@@ -6,7 +6,7 @@ central-thesis: Brown represents the structural ceiling of labor-backed politics
 last-updated: 2026-04-16
 source-tier: 1
 parent: null
-fec-candidate-id: S6OH00163
+fec-candidate-id: "S6OH00163"
 govtrack-id: 400050
 bills-sponsored: 897
 bills-cosponsored: 7312
@@ -50,7 +50,7 @@ total-raised: $14,356,451
 total-spent: $4,456,809
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 bioguide-id: B001313
 issues:
   - Agriculture and Food
@@ -63,7 +63,7 @@ issues:
   - Finance and Financial Sector
   - Government Operations and Politics
   - Health
-total-received: $14,356,451
+total-received: "$14,356,451"
 wikidata-id: Q381880
 wikipedia-url: https://en.wikipedia.org/wiki/Sherrod_Brown
 wikipedia-extract: Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as a United States senator from Ohio. A member of the Democratic Party, he was the U.S.
@@ -186,7 +186,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - {{src:src_001996}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
+<!-- auto:fec-politician pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

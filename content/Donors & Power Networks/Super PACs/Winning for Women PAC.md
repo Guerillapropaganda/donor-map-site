@@ -9,7 +9,7 @@ sector: "Super PACs"
 entity-type: "PAC"
 politicians-funded:
   - "Elise Stefanik"
-related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[National Republican Senatorial Committee]] · [[One Nation]] · [[MAGA Inc]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Emilys List]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]]"
+related: "[[Ashley Hinson Master Profile]] · [[EMILY's List]] · [[Congressional Leadership Fund]] · [[_Elise Stefanik Master Profile|Stefanik]] · [[National Republican Congressional Committee|NRCC]] · [[Citadel LLC]] · [[Paul Singer]] · [[Senate Leadership Fund]] · [[Senate Majority PAC]] · [[Priorities USA Action]] · [[National Republican Senatorial Committee]] · [[One Nation]] · [[MAGA Inc]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Emilys List]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

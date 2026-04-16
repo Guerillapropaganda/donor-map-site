@@ -3,7 +3,7 @@ title: Bennie Thompson
 type: politician
 content-readiness: ready
 central-thesis: Bennie Thompson is the civil rights organizer who became the surveillance state's Democratic gatekeeper. His career arc , from SNCC activism to chairing the committee that oversees DHS, TSA, ICE, and CBP , is a map of how the Democratic Party abso...
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 party: Democrat
@@ -24,7 +24,7 @@ bills-cosponsored: 355
 website: https://benniethompson.house.gov
 phone: 202-225-5876
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[UNITE HERE TIP CAMPAIGN COMMITTEE]] · [[LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.]] · [[NARAL Pro-Choice America]] · [[Unite Here Tip Campaign Committee]] · [[Laborers' Political League-Laborers' International Union of N.a.]]"
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
@@ -227,7 +227,7 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - {{src:src_006332}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
+<!-- auto:fec-politician pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

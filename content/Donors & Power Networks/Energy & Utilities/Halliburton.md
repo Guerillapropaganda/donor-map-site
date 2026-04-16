@@ -21,7 +21,7 @@ total-revenue: 4436307
 total-assets: 1150303
 lei: "ENYF8GB5SMQZ25S06U51"
 lei-jurisdiction: "US-DE"
-related: "[[Valero Energy]] · [[John Barrasso]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]]"
+related: "[[Valero Energy]] · [[John Barrasso]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Koch Industries]] · [[Fossil Fuel Bloc]] · [[WSPA - Western States Petroleum Association]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
 sec-filings: 10000
 sec-form-types:
   - "144"

@@ -7,7 +7,26 @@ source-tier: 1
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-politicians-funded: "[[Lindsey Graham]], [[Leon Panetta]], [[Glenn Thompson]], [[Nathaniel Moran]], [[Gina McCarthy]], [[Bennie Thompson]], [[Jared F. Golden]], [[Young Kim]], [[Andy Kim]], [[Debbie Stabenow]], [[Sonny Perdue]], [[Kevin McCarthy]], [[Jimmy Panetta]], [[Jim Costa]], [[John Boehner]], [[Mike Thompson]], [[Jerry Moran]], [[Todd Young]], [[Shalanda Young]]"
+politicians-funded:
+  - "John Boehner"
+  - "Gina McCarthy"
+  - "Kevin McCarthy"
+  - "Bennie Thompson"
+  - "Mike Thompson"
+  - "Glenn Thompson"
+  - "Jim Costa"
+  - "Shalanda Young"
+  - "Todd Young"
+  - "Andy Kim"
+  - "Young Kim"
+  - "Debbie Stabenow"
+  - "Jimmy Panetta"
+  - "Leon Panetta"
+  - "Nathaniel Moran"
+  - "Jerry Moran"
+  - "Sonny Perdue"
+  - "Lindsey Graham"
+  - "Jared F. Golden"
 issues:
   - Immigration
 ein: 940357610
@@ -40,7 +59,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(5)
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
 sec-filings: 291
 sec-form-types:
   - 10-Q
@@ -62,7 +81,7 @@ sec-form-types:
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 wikidata-id: "Q126731054"
-total-political-spend: $892,442
+total-political-spend: "$892,442"
 lobbying-spend: 10784974
 lobbying-filings: 122
 checklist-na:
@@ -435,7 +454,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
-<!-- auto:fec-donor pending-merge 2026-04-15 -->
+<!-- auto:fec-donor pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -7,7 +7,7 @@ last-updated: 2026-04-16
 aliases:
   - "Raytheon Technologies"
 urls-first-triaged: "2026-04-15"
-related: "[[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[South Carolina 2026 Senate Race]]"
 ---
 
 # Raytheon Technologies

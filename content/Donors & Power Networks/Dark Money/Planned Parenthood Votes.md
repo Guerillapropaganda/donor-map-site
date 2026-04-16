@@ -11,7 +11,7 @@ source-tier: 1
 fec-ie-support: $762
 fec-ie-oppose: null
 politicians-funded: "[[Joseph Morelle]], [[Jack Reed]], [[Gregory Meeks]], [[Raja Krishnamoorthi]], [[Jamie Raskin]]"
-related: "[[Jack Reed]] · [[Raja Krishnamoorthi]] · [[Joseph Morelle]]"
+related: "[[Jack Reed]] · [[Raja Krishnamoorthi]] · [[Joseph Morelle]] · [[Jamie Raskin]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
