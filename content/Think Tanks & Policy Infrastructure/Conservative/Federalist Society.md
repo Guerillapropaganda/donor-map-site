@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[Samuel Alito]] · [[Clarence Thomas]] · [[Donald Trump]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[New America]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]]"
+related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[Samuel Alito]] · [[Clarence Thomas]] · [[Donald Trump]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[New America]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]]"
 federal-register-mentions: 2
 last-enriched: '2026-04-11'
 regulatory-agencies:

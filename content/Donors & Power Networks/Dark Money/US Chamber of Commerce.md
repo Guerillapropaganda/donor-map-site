@@ -53,7 +53,7 @@ tax-year: "2023"
 nonprofit-status: 501(c)(6)
 total-revenue: 173949
 total-assets: 231861
-related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Cornyn]] · [[Donald Trump]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[Jon Ossoff]]"
+related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Cornyn]] · [[Donald Trump]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[Jon Ossoff]] · [[Barack Obama]]"
 federal-register-mentions: 22
 regulatory-agencies:
   - Commerce Department

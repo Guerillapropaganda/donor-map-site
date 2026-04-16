@@ -32,7 +32,7 @@ bills-sponsored: 11
 bills-cosponsored: 378
 website: "https://ocasio-cortez.house.gov"
 phone: "202-225-3965"
-total-received: "$23,658,045"
+total-received: "$27,733,215"
 fec-candidate-id: "H8NY15148"
 source-types:
   - Congress
@@ -466,10 +466,10 @@ _No committee data found for the 119th Congress._
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2026 |
-| Total Raised | $23,658,045 |
-| Individual Contributions | $6,636,331 |
-| PAC Contributions | $12,050 |
-| Cash on Hand | 13408910.09 |
+| Total Raised | $27,733,215 |
+| Individual Contributions | $8,388,671 |
+| PAC Contributions | $17,050 |
+| Cash on Hand | 14689448.31 |
 | IE Support (Super PAC) | $5,917 |
 | IE Opposition (Super PAC) | $1,323,914 |
 
@@ -477,7 +477,7 @@ _No committee data found for the 119th Congress._
 
 | Cycle | Total Raised | Individual | PAC |
 |-------|-------------|------------|-----|
-| 2026 | $23,658,045 | $6,636,331 | $12,050 |
+| 2026 | $27,733,215 | $8,388,671 | $17,050 |
 | 2024 | $15,299,236 | $4,264,081 | $44,883 |
 | 2022 | $12,471,243 | $3,910,643 | $54,935 |
 | 2020 | $21,166,404 | $4,232,825 | $60,690 |

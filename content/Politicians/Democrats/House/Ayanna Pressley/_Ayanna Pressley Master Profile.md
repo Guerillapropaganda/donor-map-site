@@ -26,7 +26,7 @@ issues:
   - "Education"
   - "Finance and Financial Sector"
   - "Government Operations and Politics"
-total-received: "$687,535"
+total-received: "$914,493"
 fec-candidate-id: "H8MA07032"
 govtrack-id: 412782
 bills-sponsored: 41
@@ -562,10 +562,10 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2026 |
-| Total Raised | $687,535 |
-| Individual Contributions | $353,529 |
-| PAC Contributions | $36,500 |
-| Cash on Hand | 98796.68 |
+| Total Raised | $914,493 |
+| Individual Contributions | $503,307 |
+| PAC Contributions | $44,000 |
+| Cash on Hand | 138065.23 |
 | IE Support (Super PAC) | $187,429 |
 | IE Opposition (Super PAC) | $294,644 |
 
@@ -573,7 +573,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 | Cycle | Total Raised | Individual | PAC |
 |-------|-------------|------------|-----|
-| 2026 | $687,535 | $353,529 | $36,500 |
+| 2026 | $914,493 | $503,307 | $44,000 |
 | 2024 | $1,432,055 | $748,329 | $136,850 |
 | 2022 | $1,467,293 | $671,248 | $108,492 |
 | 2020 | $2,190,613 | $857,768 | $161,598 |

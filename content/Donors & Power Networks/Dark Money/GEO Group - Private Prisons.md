@@ -7,7 +7,7 @@ last-updated: 2026-04-16
 aliases:
   - "GEO Group - Private Prisons"
 urls-first-triaged: "2026-04-15"
-related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]] · [[Criminal Justice - Donors and Backers]] · [[2026-03-26 Finance Research]] · [[ViaPath Technologies - GTL]] · [[Securus Technologies - Aventiv]] · [[CoreCivic - Private Prisons]]"
 ---
 
 # GEO Group - Private Prisons

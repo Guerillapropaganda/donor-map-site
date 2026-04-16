@@ -19,7 +19,7 @@ regulatory-agencies:
   - "Food and Nutrition Service"
   - "Labor Department"
   - "Wage and Hour Division"
-related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
+related: "[[Airbnb]] · [[Labor - Donors and Backers]] · [[Uber]] · [[DoorDash]] · [[Lyft]] · [[Flex Association]] · [[Fossil Fuel Bloc]] · [[UnitedHealth Group - Optum]] · [[PG&E]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Johnson & Johnson]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 815
