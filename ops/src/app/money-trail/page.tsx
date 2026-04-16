@@ -211,8 +211,12 @@ export default function MoneyTrailPage() {
       .attr("stroke-opacity", 0.25)
       .attr("stroke-dasharray", (d: any) => d.connType === "opposition" ? "4 3" : "none")
 
-    // Flow dots — all flow from outer nodes toward center (money flowing in)
-    // Color tells the type: green=donations, blue=contracts, red=opposition
+    // Flow dots — direction depends on context:
+    // Politician at center: dots flow INWARD (donors paying them)
+    // Donor/corp at center: green dots flow OUTWARD (paying politicians),
+    //                       blue (contract) dots flow INWARD (govt paying them)
+    // Red (opposition): always flows INWARD (being spent against center)
+    const isPoliticianCenter = selected.type === "politician" || selected.type === "state-politician"
     const flowDots = g.append("g").selectAll("circle")
       .data(links).join("circle")
       .attr("r", 2)
@@ -223,9 +227,24 @@ export default function MoneyTrailPage() {
       const t = Date.now() * 0.001
       flowDots.each(function (d: any, i: number) {
         const phase = (t * 0.3 + i * 0.17) % 1
-        // Always flow from outer node toward center
-        const fromX = d.target.x ?? 0, fromY = d.target.y ?? 0
-        const toX = d.source.x ?? 0, toY = d.source.y ?? 0
+        const centerX = d.source.x ?? 0, centerY = d.source.y ?? 0
+        const outerX = d.target.x ?? 0, outerY = d.target.y ?? 0
+
+        // Determine direction: inward (outer→center) or outward (center→outer)
+        let flowInward: boolean
+        if (d.connType === "contract") {
+          flowInward = true // govt pays corp — money flows in
+        } else if (d.connType === "opposition") {
+          flowInward = true // opposition spends against center — money flows in
+        } else {
+          // monetary: depends on who's at center
+          flowInward = isPoliticianCenter // politician receives, donor gives
+        }
+
+        const fromX = flowInward ? outerX : centerX
+        const fromY = flowInward ? outerY : centerY
+        const toX = flowInward ? centerX : outerX
+        const toY = flowInward ? centerY : outerY
         select(this)
           .attr("cx", fromX + (toX - fromX) * phase)
           .attr("cy", fromY + (toY - fromY) * phase)
