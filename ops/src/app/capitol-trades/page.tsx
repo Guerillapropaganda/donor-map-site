@@ -117,6 +117,8 @@ export default function CapitolTradesPage() {
   const [loading, setLoading] = useState(true)
   const [tab, setTab] = useState<"table" | "flow" | "trail" | "tickers" | "traders" | "stories" | "scoreboard" | "timeline" | "unusual" | "conflicts" | "lobby" | "crypto">("table")
   const [lobbyData, setLobbyData] = useState<any>(null)
+  // Donor cross-reference: politician name → Set of donor company names (for flagging conflicts)
+  const [donorMap, setDonorMap] = useState<Map<string, Set<string>>>(new Map())
   // Crypto tier filters — tiers 1-3 on by default, adjacent (tier 4) opt-in
   const [activeTiers, setActiveTiers] = useState<Set<CryptoTier>>(new Set(['direct', 'etf', 'company']))
   const trailRef = useRef<SVGSVGElement>(null)
@@ -170,6 +172,19 @@ export default function CapitolTradesPage() {
     fetch("/api/lobby-trades")
       .then(r => r.json())
       .then(data => setLobbyData(data))
+      .catch(() => {})
+    // Load per-profile edge data for donor cross-referencing
+    fetch("/api/connections")
+      .then(r => r.json())
+      .then(data => {
+        const map = new Map<string, Set<string>>()
+        for (const conn of (data.topConnected || [])) {
+          if (conn.donors && conn.donors.length > 0) {
+            map.set(conn.title, new Set(conn.donors))
+          }
+        }
+        setDonorMap(map)
+      })
       .catch(() => {})
   }, [])
 
@@ -463,7 +478,14 @@ export default function CapitolTradesPage() {
                       {isOpt && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#8b5cf622] text-[#8b5cf6]">{t.optionType === 'call' ? 'CALL' : t.optionType === 'put' ? 'PUT' : 'OPT'}</span>}
                       {isCryp && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#f59e0b22] text-[#f59e0b]">CRYPTO</span>}
                       {isWhale && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#f59e0b22] text-[#f59e0b]">WHALE</span>}
-                      {isLate && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#ef444422] text-[#ef4444]">LATE {t.filingDelayDays}d</span>}
+                      {isLate && <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#ef444422] text-[#ef4444]">LATE {(t as any).filingDelayDays}d</span>}
+                      {(() => {
+                        const donors = donorMap.get(t.politician)
+                        if (!donors) return null
+                        const assetLower = t.asset.toLowerCase()
+                        const isDonorMatch = [...donors].some(d => assetLower.includes(d.toLowerCase().split(' ')[0]) || d.toLowerCase().includes(assetLower.split(' ')[0]))
+                        return isDonorMatch ? <span className="px-1 py-0 text-[7px] font-bold font-mono bg-[#22c55e22] text-[#22c55e]" title="This politician also receives donations from this company">DONOR</span> : null
+                      })()}
                     </div>
                   </td>
                   <td className="py-2 px-2">

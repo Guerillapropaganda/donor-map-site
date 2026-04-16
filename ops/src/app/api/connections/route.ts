@@ -59,13 +59,16 @@ export interface ConnectedProfile {
   path: string
   type: string
   connectionCount: number
+  totalAmount: number
   related: string[]
   donors: string[]
   opposes: string[]
   stories: string[]
+  contracts: string[]
+  monetaryDetail: { name: string; amount: number; cycle: string }[]
 }
 
-type LegacyType = "related" | "donors" | "opposes" | "stories"
+type LegacyType = "related" | "donors" | "opposes" | "stories" | "contracts"
 
 function getRepoRoot(): string {
   const fromOps = path.resolve(process.cwd(), "..")
@@ -165,6 +168,8 @@ function mapToLegacyType(t: RelationshipType): LegacyType | null {
       return "opposes"
     case "story-link":
       return "stories"
+    case "government-contract":
+      return "contracts"
     default:
       return null
   }
@@ -232,10 +237,13 @@ export async function GET() {
         path: meta.path,
         type: meta.type,
         connectionCount: 0,
+        totalAmount: 0,
         related: [],
         donors: [],
         opposes: [],
         stories: [],
+        contracts: [],
+        monetaryDetail: [],
       })
     }
 
@@ -260,6 +268,21 @@ export async function GET() {
       if (profile && !profile[legacyType].includes(target)) {
         profile[legacyType].push(target)
         profile.connectionCount++
+      }
+
+      // Track monetary amounts
+      const amt = typeof edge.amount === "number" ? edge.amount : 0
+      if (amt > 0 && (edge.type === "monetary" || edge.type === "government-contract")) {
+        const srcProfile = profileMap.get(source)
+        if (srcProfile) {
+          srcProfile.totalAmount += amt
+          srcProfile.monetaryDetail.push({ name: target, amount: amt, cycle: edge.cycle ?? "" })
+        }
+        const tgtProfile = profileMap.get(target)
+        if (tgtProfile) {
+          tgtProfile.totalAmount += amt
+          tgtProfile.monetaryDetail.push({ name: source, amount: amt, cycle: edge.cycle ?? "" })
+        }
       }
 
       // Bidirectional edges: if A→B exists, B should also see A.
