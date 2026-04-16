@@ -2161,7 +2161,31 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-16 (Research Claude editorial pass — built editorial-queue.cjs + editorialpass skill, fixed Adam Smith YAML deploy-blocker, added Class Analysis + central-thesis to 7 profiles: Stratton, Guthrie, Mast, Miller, Wiener, Green, Latimer. rc_01–rc_03 added as ad-hoc done. Flag: Mark Green pipeline data mismatch needs Code Claude fix.)**
-**Current phase: POST-BUILD foundation stabilization — 4 of 5 pillars complete, Pillar 2 (data coverage) remains**
-**Next checkpoint: Pillar 2 data coverage fix (frontmatter→canonical migration + FEC amount enrichment); after that, David's pre-launch gate reviews + other session's security brief work**
+**Schedule last updated: 2026-04-16 (Code Claude security sprint — full pre-launch security upgrade completed in single session)**
+**Current phase: POST-BUILD foundation stabilization — all 5 pillars complete. Security hardening DONE.**
+**Next checkpoint: David's pre-launch gate reviews (19 profiles one-flag-flip from verified). bug-005 enrichment pipeline investigation. Pillar 2 stub profiles for super PACs.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
+
+### Security sprint — 2026-04-15/16 (Code Claude, single session)
+
+Complete pre-launch security upgrade. 28-item checklist, 27 done, 1 code-ready (rate limit Worker, deferred until public API). 10 commits, 35+ files.
+
+**Licensing:** MIT LICENSE + CC-BY-SA CONTENT-LICENSE + /legal page + /corrections page + GitHub correction request issue template.
+
+**Scanning scripts (5):** gitleaks-full-scan.cjs (clean -- 0 real secrets), identity-audit.cjs (no personal exposure), deps-cve-scan.cjs (0 vulns after npm audit fix), source-corroboration-audit.cjs, backup-staleness-check.cjs. CVE scan wired into CI.
+
+**Query engine hardening:** MAX_PAGE_SIZE=500, unbounded-query gate, 5s timeout. 7 new contract tests (37 total).
+
+**Backup:** donor-map-vault refreshed (was 19 days stale), backup remote connected, Windows Task Scheduler daily 3AM push, staleness alarm for Attention Queue.
+
+**GitHub hardening:** Secret scanning + push protection enabled, Dependabot enabled, branch protection on v4 (CI required, force push blocked), all 7 workflows pinned to commit SHAs, CODEOWNERS file.
+
+**Cloudflare:** DNS proxy active (nameservers switched from Namecheap to Cloudflare), SSL Full mode, HSTS 6 months, TLS 1.2 minimum, security headers Transform Rule (X-Frame-Options DENY, X-Content-Type-Options nosniff, Referrer-Policy, Permissions-Policy), Turnstile invisible CAPTCHA on tip form.
+
+**Analytics:** GoatCounter wired in (guerillapropaganda.goatcounter.com).
+
+**Personal:** 2FA on all accounts (GitHub, Namecheap, ProtonMail), WHOIS privacy verified (fully redacted).
+
+**Playbooks:** DMCA/legal response playbook, backup recovery playbook (4 scenarios), attack surface inventory, ops README with Clerk dev/prod docs.
+
+**Remaining (David's lane):** Trademark filing (~$250-350 USPTO), fill lawyer contacts in legal playbook, rate limit Worker deployment (when API goes public).
