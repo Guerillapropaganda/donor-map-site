@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: open
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 ---
 
 # Bulk Data Ingestion Progress
@@ -79,21 +79,40 @@ Tracks what bulk CSV/ZIP files have been parsed, what made it into the canonical
 - **Result:** Zero matches. Vault entities are clean against Treasury sanctions list.
 - **Completed:** 2026-04-15
 
+### ~~USASpending Federal Grants/Assistance (FY2026)~~
+- **Files:** `FY2026_All_Assistance_Full_20260406.zip` (421MB, 2 CSVs inside). Note: 7 copies existed from Chrome re-downloads; all identical (same CRC). Only the base file was ingested.
+- **Script:** `scripts/ingest-usaspending-grants-bulk.cjs`
+- **Rows streamed:** 2,920,385
+- **Matched to vault:** 5,555
+- **Written:** 37 federal-grant edges in `data/relationships.jsonl` + `<!-- auto:usaspending-grants -->` auto-blocks on 25 profiles + `federal-grants` and `federal-grants-total` frontmatter
+- **Top matches:** Honeywell ($187.5M), Comcast/NBCUniversal ($89.7M), AT&T ($15.4M), AEI ($7.3M), Heritage Foundation ($2.4M)
+- **Completed:** 2026-04-16
+
+### ~~FEC Individual Contributions~~
+- **Files:** `fec-individual-contributions-16.zip` through `fec-individual-contributions-26.zip` (6 files, 18.7GB total)
+- **Script:** `scripts/ingest-fec-individual-bulk.cjs`
+- **Rows streamed:** 255,343,066
+- **Matched to vault:** 4,491,188 (employer + committee both in vault)
+- **Written:** 17,816 monetary edges (role: employee-contributions) in `data/relationships.jsonl` + `<!-- auto:fec-individual -->` auto-blocks on 294 employer profiles + `employee-contributions`, `employee-contributions-total`, `employee-donor-count` frontmatter
+- **Top matches:** Las Vegas Sands ($159M), Blackstone ($99.9M), Google/Alphabet ($52.8M), Oracle ($47.8M), FTX/SBF ($45.8M)
+- **Note:** Per-cycle flush architecture to handle 255M rows without OOM. Employee counts are approximate (cross-cycle overlap not deduped).
+- **Completed:** 2026-04-16
+
 ---
 
 ## Not Yet Ingested
-
-### USASpending Federal Grants/Assistance (FY2026)
-- **Files:** `FY2026_All_Assistance_Full_20260406.zip` (7 files × 422MB = ~3GB)
-- **What it provides:** Federal grants and assistance awards to nonprofits, think-tanks, universities. Would fill data gaps on ~20 think-tank profiles.
-- **Script needed:** Adapt `ingest-usaspending-bulk.cjs` to handle assistance award columns (different schema from contracts)
-- **Priority:** MEDIUM
 
 ### USASpending Contracts Delta (All Years)
 - **Files:** `FY(All)_All_Contracts_Delta_20260406.zip` (250MB)
 - **What it provides:** Incremental contract changes across all fiscal years. Useful for catching contracts missed in FY2024-2025 full files.
 - **Script needed:** Same as contracts ingest, just different file
 - **Priority:** LOW (FY2024-2025 already covers the active political cycle)
+
+### FEC "Lobbyist Bundling" (actually candidate summary data)
+- **Files:** `fec-lobbyist-bundling-24.zip` (120K), `fec-lobbyist-bundling-26.zip` (113K)
+- **What they actually contain:** FEC `webl` format — candidate financial summaries (same schema as weball). Mislabeled at download time. Contains total raised/spent/cash-on-hand per candidate. NOT actual lobbyist bundling disclosure data.
+- **Script needed:** Could adapt `ingest-fec-pac-summary.cjs` but data overlaps with existing candidate data from FEC API
+- **Priority:** LOW (mostly duplicative)
 
 ### EPA Enforcement & Compliance (ICIS FE&C)
 - **Files:** NOT YET DOWNLOADED — need `case_downloads.zip` (~73MB) from echo.epa.gov/tools/data-downloads
@@ -105,18 +124,6 @@ Tracks what bulk CSV/ZIP files have been parsed, what made it into the canonical
 - **Files:** `epa-facility-tribal-spatial.zip` (105MB)
 - **What it provides:** Geospatial coordinates for EPA-registered facilities. Mapping use only.
 - **Priority:** LOW
-
-### FEC Individual Contributions
-- **Files:** `fec-individual-contributions-16.zip` through `fec-individual-contributions-26.zip` (6 files, 18.7GB total)
-- **What it provides:** Individual donor → committee contribution records. Would enable "donor → PAC → politician" chain tracing. Shows which named individuals fund which PACs.
-- **Script needed:** New `ingest-fec-individual-bulk.cjs` — must stream (files are 1.4-5.5GB each)
-- **Priority:** HIGH — files are downloaded and ready
-
-### FEC Lobbyist Bundling
-- **Files:** `fec-lobbyist-bundling-24.zip` (120K), `fec-lobbyist-bundling-26.zip` (113K)
-- **What it provides:** Which lobbyists bundle donations for which candidates. Small files, unique data.
-- **Script needed:** New script
-- **Priority:** MEDIUM
 
 ### Congress 118th Bills Status
 - **Files:** `congress-118th-bills-status.zip` (66MB)
@@ -148,8 +155,10 @@ Tracks what bulk CSV/ZIP files have been parsed, what made it into the canonical
 
 | Status | Files | Rows Parsed | Data Written |
 |---|---|---|---|
-| **Completed** | 28 ZIP files | ~23M rows | 25,858 edges + 651 profiles enriched + 2 screening reports |
-| **Not ingested** | ~15 files | est. ~20M rows | Grants, enforcement, individual donors, bundling, bills |
-| **Not downloaded** | 2 sources | unknown | EPA enforcement, FEC individual contributions |
+| **Completed** | 30 ZIP files | ~281M rows | 43,711 edges + 945 profiles enriched + 2 screening reports |
+| **Not ingested** | ~8 files | est. ~5M rows | Enforcement, bills, NHTSA, ProPublica FTF |
+| **Not downloaded** | 1 source | unknown | EPA enforcement |
 
-**Total canonical store after ingest:** 56,245 edges. 100% of monetary edges have real dollar amounts ($320B tracked).
+**Total canonical store after ingest:** ~74,000 edges. 100% of monetary edges have real dollar amounts.
+
+**2026-04-16 session:** +258M rows (USASpending grants + FEC individual contributions 2016-2026). 17,853 new edges, 319 profiles enriched.
