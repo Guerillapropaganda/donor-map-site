@@ -25,6 +25,12 @@ export async function GET(request: Request) {
 
   try {
     const data = loadData()
+
+    // Special: __all__ returns the full map (for Money Trail page)
+    if (title === "__all__") {
+      return NextResponse.json({ edges: data })
+    }
+
     // Normalize title: strip leading _, trailing Master Profile
     const normalized = title.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim()
     const edges = data[normalized] || null
