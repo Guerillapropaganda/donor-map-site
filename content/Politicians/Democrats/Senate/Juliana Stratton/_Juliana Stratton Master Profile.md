@@ -3,9 +3,10 @@ title: "Juliana Stratton"
 type: state-politician
 current-office: "Lieutenant Governor of Illinois (2019–present)"
 candidate-for: "US Senate 2026 (IL, Democratic primary)"
-content-readiness: ready
-central-thesis: "Stratton's political identity is built on dual narratives of grassroots progressivism and executive proximity to the Pritzker billionaire network. She positions herself as a criminal justice reformer opposed to corporate influence in politics, yet..."
+content-readiness: draft
+central-thesis: "Stratton's political identity is built on dual narratives of grassroots progressivism and executive proximity to the Pritzker billionaire network. She positions herself as a criminal justice reformer opposed to corporate influence in politics, yet the 2026 primary proved that one billionaire's $5M check — not grassroots fundraising — purchased the Democratic nomination."
 last-updated: 2026-04-16
+editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Demoted ready→draft per vault rule (CA was missing). Removed 3 body inline fields (office::, state::, party::). Ready to re-promote once David reviews."
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -142,6 +143,18 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 
 ---
 
+## Class Analysis
+
+JB Pritzker is the Hyatt Hotels heir, one of the wealthiest individuals in American politics, with a net worth exceeding $3 billion. His political spending is not philanthropy. It is ruling-class investment in a candidate whose policy positions are acceptable to his capital interests. Criminal justice reform does not threaten hotel revenues. Reproductive rights do not threaten Hyatt franchise models. Stratton's policy portfolio, the areas where she is genuinely progressive, are precisely the areas that do not conflict with Pritzker's business model. This is not coincidence. Billionaires do not fund candidates whose core platform threatens their wealth. The $5M December check tells you what Pritzker is not afraid of.
+
+The corporate PAC pledge is the tell. Stratton's July 2025 pledge to reject corporate PAC contributions is technically real. Corporate PACs, drawing from corporate treasuries, are capped at $5,000 per candidate. What she rejected was a $5,000 maximum vehicle. What she accepted was $6.1 million from one family delivered through an outside super PAC. The legal distinction between a corporate PAC and a billionaire's personal donation is real in campaign finance law. The functional distinction, in terms of whose interests get represented, is nonexistent. The Marquis Energy episode captures the contradiction perfectly: she returned the family's $5K corporate PAC check on anti-corruption principle, then kept $21K in personal donations from the same family members. The anti-corruption pledge is real within its narrow legal frame and empty as a political commitment.
+
+The 2026 Illinois Democratic primary was not a grassroots contest. It was a billionaire-vs-billionaire fight over which ruling-class faction would control an Illinois Senate seat. Illinois Future PAC (Pritzker's vehicle) spent $15.8M supporting Stratton. Fairshake (the crypto industry PAC) spent $15.4M opposing her. Pritzker beat the crypto billionaires by $400K and 6.3 percentage points. Ordinary Illinois Democrats, the voters who actually cast ballots, chose between two candidates whose primary funding came from competing concentrated wealth. This is what Democratic primaries look like when grassroots fundraising ($3.2M in direct donations) is dwarfed by one person's monthly check. Stratton won. The Pritzker machine won. The Illinois voters who cast ballots for her did so authentically. The class structure that produced that outcome is the story.
+
+The genuine complications are real and should be stated: Stratton has spent years doing actual work on sentencing policy, and her Illinois Sentencing Policy Advisory Council record predates her Pritzker affiliation. The criminal justice reform credentials are not manufactured. What the Pritzker patronage structure does is not create a fake progressive. It creates a real progressive whose viability depends on a billionaire's continued support, which means the areas where she is willing to challenge ruling-class interests are bounded by what Pritzker can tolerate. Tax reform, labor organizing rights, pharmaceutical price controls, housing policy that threatens real estate capital. These are the policy spaces where genuine accountability to constituents would conflict with her patron's interests. That is where the class analysis needs to be tested once she reaches the Senate.
+
+---
+
 ## Sources
 
 - {{src:src_005296}} (Tier 1) (VERIFIED)
@@ -161,10 +174,6 @@ In July 2025, Stratton pledged publicly that her Senate campaign would reject co
 - [The American Prospect: Illinois Senate Primary Features Millions in Outside Spending, Too](https://prospect.org/2026/03/17/illinois-senate-primary-super-pac-spending-juliana-stratton-raja-krishnamoorthi/) (Tier 2) (VERIFIED)
 
 ---
-
-office:: Illinois Lieutenant Governor (2026 Democratic Senate nominee)
-state:: Illinois
-party:: Democrat
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
