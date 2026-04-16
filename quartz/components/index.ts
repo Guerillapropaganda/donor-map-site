@@ -29,6 +29,7 @@ import LandingPage from "./LandingPage"
 import DiscoveryPanel from "./DiscoveryPanel"
 import ContradictionCard from "./ContradictionCard"
 import EvidencePanel from "./EvidencePanel"
+import SummaryInfobox from "./SummaryInfobox"
 import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
 import PartySplitMeter from "./PartySplitMeter"
@@ -54,6 +55,7 @@ export {
   DiscoveryPanel,
   ContradictionCard,
   EvidencePanel,
+  SummaryInfobox,
   IssueExplorer,
   Content,
   TagContent,
