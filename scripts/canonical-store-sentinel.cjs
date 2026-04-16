@@ -105,7 +105,26 @@ function main() {
   const staged = getStagedFiles()
   if (staged.length === 0) process.exit(0)
 
-  const stagedMd = staged.filter((f) => f.endsWith(".md") && f.startsWith("content/"))
+  // Exempt paths that are explicitly docs/workshop (not real profiles):
+  //   - content/Drafts/    — work-in-progress docs being drafted before replacing live files
+  //   - content/Decisions/ — ADRs routinely show YAML example values
+  //   - content/Checklists/ — process docs with example frontmatter
+  //   - CLAUDE.md, Vault Rules.md, Profile Template.md, CSV Data Sources.md,
+  //     Pipeline Guide.md — system docs that catalog frontmatter fields
+  const EXEMPT_PATHS = [
+    /^content\/Drafts\//,
+    /^content\/Decisions\//,
+    /^content\/Checklists\//,
+    /^content\/CLAUDE\.md$/,
+    /^content\/Vault Rules\.md$/,
+    /^content\/Profile Template\.md$/,
+    /^content\/CSV Data Sources\.md$/,
+    /^content\/Pipeline Guide\.md$/,
+    /^CLAUDE\.md$/,
+  ]
+  const isExempt = (f) => EXEMPT_PATHS.some((re) => re.test(f))
+
+  const stagedMd = staged.filter((f) => f.endsWith(".md") && f.startsWith("content/") && !isExempt(f))
   if (stagedMd.length === 0) process.exit(0)
 
   const hasCanonicalWrite = staged.some(isCanonicalWrite)
