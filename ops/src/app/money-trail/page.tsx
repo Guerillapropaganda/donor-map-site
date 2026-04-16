@@ -429,7 +429,7 @@ export default function MoneyTrailPage() {
         Node size = dollar amount. <span className="text-[#22c55e]">Green</span> = donations, <span className="text-[#3b82f6]">blue</span> = contracts, <span className="text-[#ef4444]">red</span> = opposition. Drag nodes, scroll zoom, click to open.
       </div>
 
-      <div ref={containerRef} className="flex-1 relative bg-[#0c0c0f]">
+      <div ref={containerRef} className="relative bg-[#0c0c0f]" style={{ height: "calc(100vh - 160px)" }}>
         {loading ? (
           <div className="absolute inset-0 flex items-center justify-center text-[var(--color-text-dim)] text-sm animate-pulse">Loading edges...</div>
         ) : (
