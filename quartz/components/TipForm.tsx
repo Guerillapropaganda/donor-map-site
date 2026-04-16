@@ -52,7 +52,7 @@ const TipForm: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
             <input type="text" name="_gotcha" tabIndex={-1} autoComplete="off" />
           </div>
           {/* Cloudflare Turnstile widget — invisible mode */}
-          <div id="tip-turnstile" class="cf-turnstile" data-sitekey="TURNSTILE_SITE_KEY_PLACEHOLDER" data-callback="onTurnstileVerify" data-theme="dark" data-size="invisible"></div>
+          <div id="tip-turnstile" class="cf-turnstile" data-sitekey="0x4AAAAAAC-oC9WdT_mOO48c" data-callback="onTurnstileVerify" data-theme="dark" data-size="invisible"></div>
           <button type="submit" id="tip-submit" class="tip-submit-btn">
             SEND TIP
           </button>
