@@ -48,10 +48,17 @@ const VERIFIED_TYPES = new Set([
 // from frontmatter — no heading in markdown.
 // Sections 2-9 are H2 headings in this order:
 
-function getRequiredSections(profileType) {
-  // Section 4 varies by type
+function getRequiredSections(profileType, fm) {
+  // Section 5 varies by type + chamber (presidents/cabinet use Executive Actions)
+  const isPresidential =
+    profileType === "politician" &&
+    (fm?.chamber === "Presidential" || fm?.chamber === "Cabinet" ||
+     String(fm?.["current-office"] || "").match(/president|cabinet|secretary of/i))
+
   const typeSpecific =
-    profileType === "politician" || profileType === "state-politician" || profileType === "local-politician"
+    isPresidential
+      ? ["Executive Actions", "Executive Orders", "Key Executive Actions"]
+      : profileType === "politician" || profileType === "state-politician" || profileType === "local-politician"
       ? ["Key Votes", "Key Votes + Actions", "Key Votes and Actions", "Voting Record"]
       : profileType === "donor"
       ? ["Politicians Funded", "Allied Donors + Politicians Funded"]
@@ -67,9 +74,9 @@ function getRequiredSections(profileType) {
 
   return [
     { pos: 2, canonical: "Who They Are", variants: ["Who They Are", "Who He Is", "Who She Is", "Who We Are", "Bio", "Biography", "Background", "About"] },
-    { pos: 3, canonical: "The Money", variants: ["The Money", "Money", "Funding", "The Donor Class Map", "The Donors", "Campaign Finance"] },
-    { pos: 4, canonical: typeSpecific[0] || "Type-Specific", variants: typeSpecific },
-    { pos: 5, canonical: "Class Analysis", variants: ["Class Analysis"] },
+    { pos: 3, canonical: "Class Analysis", variants: ["Class Analysis"] },
+    { pos: 4, canonical: "The Money", variants: ["The Money", "Money", "Funding", "The Donor Class Map", "The Donors", "Campaign Finance"] },
+    { pos: 5, canonical: typeSpecific[0] || "Type-Specific", variants: typeSpecific },
     { pos: 6, canonical: "The Contradictions", variants: ["The Contradictions", "Contradictions", "The Core Contradiction", "Contradictions + Conflicts"] },
     { pos: 7, canonical: "Timeline", variants: ["Timeline", "Chronology", "History"] },
     { pos: 8, canonical: "Related Figures", variants: ["Related Figures", "Related", "Related Profiles", "Connections", "Network"] },
@@ -165,7 +172,7 @@ function validateProfile(filePath, fm, body) {
 
   // Section contract
   const headings = extractH2Headings(body)
-  const sections = getRequiredSections(type)
+  const sections = getRequiredSections(type, fm)
 
   // Heading matches a variant as exact OR prefix-with-separator
   // (so "The Donor Class Map, 2024" matches variant "The Donor Class Map")

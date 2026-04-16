@@ -28,7 +28,8 @@ reenrich-reason: run congress pipeline
 opposes: "[[Barack Obama Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Joe Biden Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[_Adam Schiff Master Profile]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Ilhan Omar Master Profile]] · [[_Rashida Tlaib Master Profile]] · [[_Maxine Waters Master Profile]] · [[_Jamie Raskin Master Profile]] · [[Hillary Clinton Master Profile]]"
 donors: "[[Trump Organization]] · [[Trump Media & Technology Group]] · [[World Liberty Financial]] · [[Republican Party Apparatus]] · [[Richard and Elizabeth Uihlein]] · [[Stephen Schwarzman]] · [[Bernard Marcus]] · [[FF PAC]] · [[MAGA Inc]] · [[DeVos Family]] · [[Christopher Ruddy]] · [[Founders Fund]] · [[Lennar Corporation]] · [[AB PAC]] · [[American Farm Bureau Federation]] · [[Peter Thiel]] · [[Northrop Grumman]] · [[Agricultural Labor Vulnerability Donors]] · [[Fossil Fuel Bloc]] · [[Dustin Moskovitz]] · [[Miriam Adelson]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Crypto Industry Bloc]] · [[US Chamber of Commerce]] · [[Michael Bloomberg]] · [[Fox News Pipeline to Power]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[Ken Griffin]] · [[Sheldon & Miriam Adelson]] · [[PRIORITIES USA ACTION]] · [[Jeffrey Epstein Network]] · [[Fraternal Order of Police]] · [[Bernie Marcus]] · [[Les Wexner - Wexner Family Enterprises]] · [[CoreCivic]] · [[Rupert Murdoch]] · [[Meta - Facebook]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Concerned Veterans for America]] · [[National Association of Manufacturers]] · [[Jan Koum]] · [[Real Estate Development Industry Bloc]] · [[National Rifle Association]] · [[Blackstone Group]] · [[Elon Musk]] · [[Susquehanna International Group]] · [[Ben Horowitz]] · [[David Sacks (Donor Network)]] · [[GEO Group - Private Prison Industrial Complex]] · [[Think Big AI]] · [[Nucor Corporation]] · [[Oracle]] · [[Trump Donor Coalition]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Bradley Foundation]] · [[David Sacks]] · [[Uber]] · [[Real Estate Roundtable]] · [[Palantir Technologies Political Operation]] · [[Defense Contractors Bloc]] · [[Kelcy Warren]] · [[Kenneth Griffin]] · [[Amazon]] · [[Meatpacking Corporations]] · [[Timothy Mellon]] · [[Kelcy Warren - Energy Transfer Partners]] · [[David McIntosh]] · [[Silicon Valley Donors]] · [[National Cattlemen's Beef Association]] · [[L3Harris Technologies]] · [[Breitbart News and the Mercer-Bannon Media Pipeline]] · [[Federalist Society]] · [[Citadel - Kenneth Griffin]] · [[Eric Schmidt]] · [[ExxonMobil]] · [[Robert Mercer]] · [[RBG PAC]] · [[American Iron and Steel Institute]] · [[Preserve America]] · [[Leonard Leo]] · [[Google - Alphabet]] · [[FTX - Sam Bankman-Fried]] · [[Koch Network - Charles Koch]] · [[Business Roundtable]] · [[Mohammed bin Salman]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Trump Victory]] · [[Palantir Technologies]] · [[Marc Andreessen & Horowitz]] · [[Fanjul Family - Florida Crystals]] · [[Trump 2024 Campaign]] · [[WinRed]] · [[Save America PAC]] · [[Harold Hamm]] · [[Jeffrey Yass]] · [[Brian Armstrong]] · [[MAGA Small Dollar Base]] · [[Rebekah Mercer]] · [[Raytheon (RTX Corporation)]] · [[Republican Jewish Coalition]] · [[Brad Garlinghouse]] · [[David Sacks - Donor Network]]"
 related: "The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Rex Tillerson]] · [[Michael Waltz]] · [[Bill Pulte]] · [[Paul Ryan]] · [[John Boehner]] · [[Wall Street Finance Networks]]"
-total-received: $3,852,435
+total-received: "$724,161,916"
+total-received-note: "Canonical store IE + independent spending 2022-2026 cycles. 2024 campaign + PACs raised ~$1.45B total per OpenSecrets. CSV individual contributions ingest pending."
 fec-candidate-id: P80001571
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
@@ -48,19 +49,23 @@ proclamations: 706
 **Party:** Republican · **Chamber:** Presidential
 **FEC candidate ID:** `P80001571`
 
-**Total received:** $3,852,435
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $724,161,916
+**Tracked donors:** 627 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Elon Musk
-- Peter Thiel
-- Miriam Adelson
-- Jeffrey Yass
-- Timothy Mellon
-- Richard Uihlein
-- Kenneth Griffin
-- Crypto Industry Bloc
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| PRIORITIES USA ACTION | $210,068,093 | 1 |
+| FF PAC | $95,790,154 | 1 |
+| America PAC - Elon Musk | $88,218,291 | 1 |
+| Ab Pac | $58,551,561 | 1 |
+| MAGA Inc | $57,695,733 | 1 |
+| MAKE AMERICA GREAT AGAIN INC. | $44,719,936 | 1 |
+| RBG PAC | $34,600,000 | 1 |
+| AB PAC | $33,935,549 | 1 |
+| RNC - Republican National Committee | $29,255,723 | 1 |
+| Rbg Pac | $20,476,000 | 1 |
 
 _Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
 <!-- auto:data-panel end -->
@@ -72,6 +77,18 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 Donald John Trump. Born June 14, 1946, in Queens, New York. Republican. 45th and 47th President of the United States. Real estate heir turned casino bankrupter turned reality TV host turned president turned convicted felon turned president again. Net worth fluctuates wildly depending on who's counting and what his stock is doing, somewhere between $2 billion and $6 billion, much of it in branding value and Truth Social stock rather than liquid assets.
 
 Born into wealth, not self-made, despite the mythology. Fred Trump's real estate empire in New York provided the inheritance, the loans, the connections, and the political infrastructure that launched Donald's career. The "small loan of a million dollars" line is the tell: even his attempt to minimize his inheritance revealed a man for whom a million dollars is small.
+
+---
+
+## Class Analysis
+
+Donald Trump is not a servant of the donor class. He is an extraction machine that happens to align with donor-class interests when the price is right. The distinction matters: a captured politician serves one master. Trump runs a multi-directional grift, extracting from the billionaire class (access-selling, deregulation), from the working class (branded merchandise, crypto scams, culture war distraction), and from the state itself (federal contracts, tax policy, direct personal enrichment through presidential power).
+
+The 2024 funding structure reveals the class architecture. $1.45 billion raised. 44% from just 10 megadonors. Six individuals gave over $100 million each: Timothy Mellon ($125-197M, banking heir), Elon Musk ($292M total, holds $38B+ in federal contracts), Miriam Adelson ($100-148M, Israel maximalism), the Uihleins ($100M+, far-right infrastructure), Kenneth Griffin ($100M+, financial deregulation), Jeffrey Yass ($100M+, TikTok stake protection). Small-dollar donations collapsed from 50% in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. The hat says "Make America Great Again." The check says "Make My Portfolio Tax-Free."
+
+The policy returns are explicit and documented. Fossil fuel industry ($75M+) got a declared energy emergency, drilling expansion, EPA weakened, methane limits delayed, and 31 environmental rules targeted for rollback. Crypto industry ($13.5M to inaugural alone) got a strategic Bitcoin reserve, CBDC banned, Biden-era oversight repealed, and a president personally profiting from the asset class he deregulates ($TRUMP meme coin, World Liberty Financial generating $460M+ for the family in H1 2025). Defense/surveillance (Peter Thiel/Palantir) got contracts doubling from $541M to $970.5M in one year. Private prisons (CoreCivic, GEO Group, $500K each) got immigration enforcement expansion filling their beds.
+
+The structural innovation Trump represents is the merger of state power and personal enrichment at a scale unprecedented in American history. The wealthiest cabinet in history. DOGE run by a billionaire targeting agencies that regulate his own companies. A media company ($DJT) valued at billions despite negligible revenue. Branded Bibles, NFTs, crypto coins, and a gold sneaker line extracting money from supporters. The presidency is not a public office in this model. It is a holding company. The working-class voters who wear the hat are the customer base. The billionaires who write the checks are the shareholders. And the president is the CEO who takes a cut of everything.
 
 ---
 
@@ -107,14 +124,6 @@ Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. 
 **Defense/Surveillance:** Palantir's federal contracts: $4.4M (2009) → $541M (2024) → $970.5M (2025). Nearly doubled in one year of the second Trump term. [[Peter Thiel|Peter Thiel]] co-founded Palantir, backed [[_JD Vance Master Profile|JD Vance]] for Senate, and built the MAGA tech infrastructure. 10-year, $10 billion Army contract. $1.3 billion DoD Project Maven contract. ICE surveillance contract. Thiel notably gave $0 directly to Trump in 2024, he didn't need to. The investment was already made through Vance and the institutional infrastructure. [Source: The Hill. Tier 2; Statista. Tier 2]
 
 ---
-
-## Key Votes
-
-<!-- template:auto:key-votes -->
-<!-- Auto-populated at build time. Top 20 floor votes in current cycle with bill title + outcome + donor alignment. Generated from GovTrack. -->
-_[Auto-generated content will appear here]_
-<!-- template:auto:key-votes:end -->
-
 
 ## The Personal Grift. Trump's Side Hustles
 
@@ -160,81 +169,6 @@ This note does not allege specific misconduct. It locates Trump within a social 
 
 ---
 
-## Class Analysis
-
-Donald Trump is not a servant of the donor class. He is an extraction machine that happens to align with donor-class interests when the price is right. The distinction matters: a captured politician serves one master. Trump runs a multi-directional grift, extracting from the billionaire class (access-selling, deregulation), from the working class (branded merchandise, crypto scams, culture war distraction), and from the state itself (federal contracts, tax policy, direct personal enrichment through presidential power).
-
-The 2024 funding structure reveals the class architecture. $1.45 billion raised. 44% from just 10 megadonors. Six individuals gave over $100 million each: Timothy Mellon ($125-197M, banking heir), Elon Musk ($292M total, holds $38B+ in federal contracts), Miriam Adelson ($100-148M, Israel maximalism), the Uihleins ($100M+, far-right infrastructure), Kenneth Griffin ($100M+, financial deregulation), Jeffrey Yass ($100M+, TikTok stake protection). Small-dollar donations collapsed from 50% in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. The hat says "Make America Great Again." The check says "Make My Portfolio Tax-Free."
-
-The policy returns are explicit and documented. Fossil fuel industry ($75M+) got a declared energy emergency, drilling expansion, EPA weakened, methane limits delayed, and 31 environmental rules targeted for rollback. Crypto industry ($13.5M to inaugural alone) got a strategic Bitcoin reserve, CBDC banned, Biden-era oversight repealed, and a president personally profiting from the asset class he deregulates ($TRUMP meme coin, World Liberty Financial generating $460M+ for the family in H1 2025). Defense/surveillance (Peter Thiel/Palantir) got contracts doubling from $541M to $970.5M in one year. Private prisons (CoreCivic, GEO Group, $500K each) got immigration enforcement expansion filling their beds.
-
-The structural innovation Trump represents is the merger of state power and personal enrichment at a scale unprecedented in American history. The wealthiest cabinet in history. DOGE run by a billionaire targeting agencies that regulate his own companies. A media company ($DJT) valued at billions despite negligible revenue. Branded Bibles, NFTs, crypto coins, and a gold sneaker line extracting money from supporters. The presidency is not a public office in this model. It is a holding company. The working-class voters who wear the hat are the customer base. The billionaires who write the checks are the shareholders. And the president is the CEO who takes a cut of everything.
-
----
-
-## The Central Thesis
-
-Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist misconduct who scams in every direction simultaneously, extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
-
-The standard left framing is "Trump serves capital." That's true but incomplete. Trump serves Trump. Capital gets what it wants (tax cuts, deregulation, labor discipline) because capital is willing to pay, and Trump is willing to sell. But Trump is also running side hustles, crypto coins, branded Bibles, NFTs, a media company valued at billions despite generating almost no revenue, that extract directly from his own supporters. He is not an ideological servant of capital. He is a transactional grifter whose interests happen to align with capital's when the price is right.
-
-The fascism is real, the authoritarian consolidation, the movement politics, the scapegoating, the dismantling of institutional checks. But the fascism is also for sale. The people buying it are the billionaire class documented below, and what they're purchasing is not ideology but deregulation, tax protection, and the elimination of the administrative state that constrains their accumulation. The fascism is the delivery mechanism. The product is oligarchy.
-
----
-
-## The Core Contradiction
-
-> [!contradiction]
-> Trump's brand is built on one claim: he fights for the working class against a corrupt elite.
-
-His record is the opposite: the 2017 Tax Cuts and Jobs Act delivered $1.5 trillion in tax cuts overwhelmingly benefiting corporations and the wealthy. His 2024 campaign was funded by six donors who each gave over $100 million. His cabinet is the wealthiest in American history. His administration created DOGE, a billionaire's personal vehicle for dismantling the agencies that regulate his own companies. His personal business ventures extract money directly from his supporters through branded merchandise, crypto scams, and a media company propped up by political loyalty rather than revenue.
-
-The working-class voters who wear the hat get the culture war. The billionaires who write the checks get the policy.
-
----
-
-## Timeline
-
-<!-- template:auto:timeline -->
-<!-- Auto-populated at build time. Reverse-chronological events from data/events.jsonl + FEC cycles + executive actions. -->
-_[Auto-generated content will appear here]_
-<!-- template:auto:timeline:end -->
-
-
-## Connections to Existing Vault
-
-**Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model, constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
-
-**Newsom:** The foil. Newsom's entire 2028 positioning is built against Trump. The "California vs. Trump" frame documented in [[Trump Resistance and the 2028 Play]] serves Newsom's donor class by redirecting class analysis onto partisan conflict. Trump makes Newsom's contradictions invisible, who cares about single-payer when you're fighting fascism?
-
-**Private Prisons:** [[CoreCivic|CoreCivic]] and [[GEO Group|GEO Group]] fund both Trump (inaugural) and operate in the California system documented in the Newsom immigration notes ([[Private Detention - AB 32]]). The private detention industry doesn't care which party is in power. It needs beds full. Trump fills them through enforcement. Newsom fills them through delayed reform. The money flows to both.
-
----
-
-### Policy Area Notes
-
-, [[2017 Tax Cuts - The $1.5 Trillion Receipt]]
-, [[DOGE - The Billionaires Government]]
-, [[Trump Crypto - The President as Personal Profiteer]]
-, [[Fossil Fuel Deregulation - The Climate Donors]]
-, [[The Palantir State - Surveillance as Policy]]
-, [[Immigration Enforcement - The Detention Economy]]
-, [[Project 2025 - The Blueprint They Followed]]
-, [[The Billionaire Cabinet - Wealthiest Administration in History]]
-, [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]
-, [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]]
-, [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]]
-, [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]]
-, [[The Insurrection Investment - Who Funded January 6th and What They Got]]
-, [[The Grift Machine - How Trump Monetized the Presidency]]
-, [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
-, [[The Culture War Economy - Who Profits From Division]]
-, [[The Iran War Money Trail - From Adelson to Airstrikes]]
-
----
-
-#<!-- auto:executive-orders start -->
-
 ## Executive Orders (Federal Register)
 
 | Document Type | Count |
@@ -274,6 +208,68 @@ _[Auto-generated content will appear here]_
 
 - [Source: Federal Register — Presidential Documents](https://www.federalregister.gov/presidential-documents/executive-orders/donald-trump/2026) (Tier 1) (VERIFIED)
 <!-- auto:executive-orders end -->
+
+## The Central Thesis
+
+Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist misconduct who scams in every direction simultaneously, extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
+
+The standard left framing is "Trump serves capital." That's true but incomplete. Trump serves Trump. Capital gets what it wants (tax cuts, deregulation, labor discipline) because capital is willing to pay, and Trump is willing to sell. But Trump is also running side hustles, crypto coins, branded Bibles, NFTs, a media company valued at billions despite generating almost no revenue, that extract directly from his own supporters. He is not an ideological servant of capital. He is a transactional grifter whose interests happen to align with capital's when the price is right.
+
+The fascism is real, the authoritarian consolidation, the movement politics, the scapegoating, the dismantling of institutional checks. But the fascism is also for sale. The people buying it are the billionaire class documented below, and what they're purchasing is not ideology but deregulation, tax protection, and the elimination of the administrative state that constrains their accumulation. The fascism is the delivery mechanism. The product is oligarchy.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Trump's brand is built on one claim: he fights for the working class against a corrupt elite.
+
+His record is the opposite: the 2017 Tax Cuts and Jobs Act delivered $1.5 trillion in tax cuts overwhelmingly benefiting corporations and the wealthy. His 2024 campaign was funded by six donors who each gave over $100 million. His cabinet is the wealthiest in American history. His administration created DOGE, a billionaire's personal vehicle for dismantling the agencies that regulate his own companies. His personal business ventures extract money directly from his supporters through branded merchandise, crypto scams, and a media company propped up by political loyalty rather than revenue.
+
+The working-class voters who wear the hat get the culture war. The billionaires who write the checks get the policy.
+
+---
+
+## Timeline
+
+<!-- template:auto:timeline -->
+<!-- Auto-populated at build time. Reverse-chronological events from data/events.jsonl + FEC cycles + executive actions. -->
+_[Auto-generated content will appear here]_
+<!-- template:auto:timeline:end -->
+
+## Connections to Existing Vault
+
+**Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model, constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
+
+**Newsom:** The foil. Newsom's entire 2028 positioning is built against Trump. The "California vs. Trump" frame documented in [[Trump Resistance and the 2028 Play]] serves Newsom's donor class by redirecting class analysis onto partisan conflict. Trump makes Newsom's contradictions invisible, who cares about single-payer when you're fighting fascism?
+
+**Private Prisons:** [[CoreCivic|CoreCivic]] and [[GEO Group|GEO Group]] fund both Trump (inaugural) and operate in the California system documented in the Newsom immigration notes ([[Private Detention - AB 32]]). The private detention industry doesn't care which party is in power. It needs beds full. Trump fills them through enforcement. Newsom fills them through delayed reform. The money flows to both.
+
+---
+
+### Policy Area Notes
+
+, [[2017 Tax Cuts - The $1.5 Trillion Receipt]]
+, [[DOGE - The Billionaires Government]]
+, [[Trump Crypto - The President as Personal Profiteer]]
+, [[Fossil Fuel Deregulation - The Climate Donors]]
+, [[The Palantir State - Surveillance as Policy]]
+, [[Immigration Enforcement - The Detention Economy]]
+, [[Project 2025 - The Blueprint They Followed]]
+, [[The Billionaire Cabinet - Wealthiest Administration in History]]
+, [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]]
+, [[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]]
+, [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]]
+, [[The Fox News Pipeline - How Media Money Shaped the MAGA Machine]]
+, [[The Insurrection Investment - Who Funded January 6th and What They Got]]
+, [[The Grift Machine - How Trump Monetized the Presidency]]
+, [[The VA Privatization Pipeline - Who Profits From Veteran Healthcare]]
+, [[The Culture War Economy - Who Profits From Division]]
+, [[The Iran War Money Trail - From Adelson to Airstrikes]]
+
+---
+
+#<!-- auto:executive-orders start -->
 
 ## Sources
 
@@ -433,12 +429,13 @@ _[Auto-generated content will appear here]_
 
 **Fundraising by cycle:**
 
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2024 | $3,852,435 | $4,750 | $0 |
-| 2020 | $811,898,514 | $257,157,698 | $859,558 |
-| 2016 | $350,668,436 | $46,884,985 | $154,039 |
-| 1988 | $0 | $0 | $0 |
+| Cycle | Candidate Committee | Total incl. Super PACs |
+|-------|---------------------|------------------------|
+| 2024 | $3,852,435 | ~$1,450,000,000 (OpenSecrets) |
+| 2020 | $811,898,514 | ~$1,200,000,000 |
+| 2016 | $350,668,436 | ~$550,000,000 |
+
+_Candidate committee totals from FEC. Super PAC totals aggregated across MAGA Inc, PRIORITIES USA ACTION, FF PAC, and affiliated outside spending. <!-- UNVERIFIED --> 2024 total pending CSV individual-contribution ingest._
 
 **Top outside spenders:**
 
