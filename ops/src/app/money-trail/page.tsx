@@ -228,15 +228,14 @@ export default function MoneyTrailPage() {
       r: 4 + (n.totalAmount > 0 ? Math.log10(n.totalAmount + 1) / logMax : 0) * 20,
     }))
 
-    const nodeMap = new Map(simNodes.map(n => [n.id, n]))
+    // Build edges with string IDs — D3 forceLink resolves them to node objects via .id()
     const simEdges: MoneyEdge[] = filteredEdges
       .filter(e => nodeIds.has(e.source as unknown as string) && nodeIds.has(e.target as unknown as string))
       .map(e => ({
-        source: nodeMap.get(e.source as unknown as string)!,
-        target: nodeMap.get(e.target as unknown as string)!,
+        source: e.source as unknown as string,
+        target: e.target as unknown as string,
         confidence: e.confidence, amount: e.amount, cycle: e.cycle, edgeType: e.edgeType,
-      }))
-      .filter(e => e.source && e.target)
+      } as unknown as MoneyEdge))
 
     nodesRef.current = simNodes
     edgesRef.current = simEdges
@@ -249,7 +248,7 @@ export default function MoneyTrailPage() {
     const sim = forceSimulation<MoneyNode>(simNodes)
       .force("charge", forceManyBody().strength(-60))
       .force("center", forceCenter(0, 0).strength(0.05))
-      .force("link", forceLink<MoneyNode, MoneyEdge>(simEdges).distance(60).strength(0.15))
+      .force("link", forceLink<MoneyNode, MoneyEdge>(simEdges).id((d: any) => d.id).distance(60).strength(0.15))
       .force("collide", forceCollide<MoneyNode>(n => n.r + 2).iterations(2))
       .force("x", forceX(0).strength(0.02))
       .force("y", forceY(0).strength(0.02))
