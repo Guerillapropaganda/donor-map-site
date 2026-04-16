@@ -2,8 +2,9 @@
 title: Mark Green
 type: politician
 content-readiness: draft
-central-thesis: Mark Green is the national security performace artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most...
-last-updated: 2026-04-10T00:00:00.000Z
+central-thesis: Mark Green is the national security performance artist — the special operator who turned military credentials into political power, then used Homeland Security chairmanship primarily for partisan spectacle rather than structural oversight. His most...
+last-updated: 2026-04-16
+editorial-notes: "[Research Claude 2026-04-16] Added Class Analysis section. Fixed typo in central-thesis ('performace'). Note: FEC and GovTrack auto-blocks show mismatched data from another politician — govtrack-id 400159 and the 2010/2012/2014 FEC cycles do not correspond to Mark Green (TN-7, elected 2018). Data needs pipeline correction."
 source-tier: 1
 parent: null
 party: Republican
@@ -170,6 +171,16 @@ Then he left for the private sector, where the real money is.
 
 - [[_Donald Trump Master Profile|Trump]] — Mayorkas impeachment aligned with Trump border agenda
 - [[_Bennie Thompson Master Profile|Thompson]] — Homeland Security RM (Democratic counterpart)
+
+---
+
+## Class Analysis
+
+Mark Green's Homeland Security chairmanship is the clearest example in the vault of a committee used as a credential rather than a capture mechanism. Guthrie used Energy and Commerce to protect pharma profits. Mast used Foreign Affairs to advance pro-Israel policy. Green used Homeland Security to generate partisan brand content. The Mayorkas impeachment, the first cabinet impeachment in 150 years, produced zero policy outcomes: the Senate dismissed charges without trial, Mayorkas served out the Biden term, and immigration policy was unchanged. What the impeachment produced was a national media moment, a Fox News clip library, and a Homeland Security chair who could claim he "took on the Biden administration." The committee's actual oversight function, examining the $60 billion DHS apparatus, its contractor networks, ICE detention costs, FEMA procurement, and surveillance infrastructure, was subordinated to political performance.
+
+The class analysis on Green is different from typical donor capture because his wealth preceded his political career. He built Align MD into a $200M+ emergency department staffing company before entering politics. This pre-political wealth meant he did not need committee chairmanship to enrich himself or his donors. What he needed it for was credential building: six years in Congress, with a high-profile chairmanship and a documented confrontation with a Democratic cabinet secretary, is worth substantially more to a private-sector entrepreneur than six years as a backbencher. He left Congress in July 2025, citing a "private-sector opportunity designed to help America compete against the CCP," which is exactly the kind of credential-laundering statement that turns congressional service into consulting market value.
+
+The healthcare background adds the structural complexity. Green ran a staffing company in the emergency medicine space, an industry that benefits from regulatory capture, workforce shortages, and the absence of federal intervention in hospital staffing markets. When he chaired Homeland Security, he was not technically overseeing healthcare regulation. But the adjacency matters: a committee chair who understands the private-sector value of emergency response systems is also a committee chair who understands which DHS oversight decisions would affect those systems. The absence of action on domestic emergency response infrastructure during his chairmanship is consistent with protecting the industry conditions that made him wealthy.
 
 ---
 
