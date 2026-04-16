@@ -155,8 +155,18 @@ Massive data session. Started with David flagging broken checklist items on corp
 - **Ops Relationships upgrade** — Dollar totals in Most Connected sidebar, government-contract edges included
 - **Ops Capitol Trades** — Green DONOR badge when politician trades stock in a company that donates to them
 
+- **Money Trail v4** — Reverted Canvas attempts. Built ego graph (select profile → star layout, same as relationships page). Context-aware flow dots: politicians/media/lobbyists receive inward, donors/corps/PACs give outward, contracts always inward, opposition always inward.
+- **Capitol Trades fixes** — Hover dimming softened (0.05→0.1). DONOR badge cross-references donor edges.
+- **Bulk data progress tracker** — `content/Admin Notes/bulk-data-progress.md` with strikethrough on completed items
+- **Ops /scripts registration** — 9 new scripts under Bulk Data Ingest + Screening categories
+- **FEC individual contributions** — 6 files (18.7GB) downloaded and renamed, ready for ingest
+
 ### Next session priorities
-1. **Test all three Ops pages** — Money Trail canvas, Relationships dollar totals, Capitol Trades DONOR badges. Verify with real data.
+1. **Fix Capitol Trades Money Trail tab** — hover still has issues David flagged. Investigate what specifically goes wrong.
+2. **Ingest FEC individual contributions** (18.7GB, 6 cycles) — donor → PAC chain tracing
+3. **Download + ingest EPA enforcement** (ICIS FE&C) — violation penalties
+4. **Wire tier filtering into public site components** (DiscoveryPanel, data panels)
+5. **Fix batch4 silent failures** (engine repo: fara, osha, voting-record)
 2. **Review ICIJ offshore screening report** at `content/Admin Notes/icij-offshore-screening-report.md` (David's lane — verify officer matches)
 3. **Download + ingest EPA enforcement data** (ICIS FE&C — violations + penalty amounts)
 4. **Ingest FEC individual contributions** when downloads finish (donor → PAC chains)
