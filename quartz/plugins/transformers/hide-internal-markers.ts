@@ -45,7 +45,15 @@ function transform(src: string): string {
     return src // fast path — nothing to do
   }
 
-  const lines = src.split("\n")
+  // Split frontmatter from body. Never touch frontmatter — YAML parses fail
+  // if our regexes rewrite inside field values. The pattern is: if the source
+  // starts with a `---` line, the YAML frontmatter runs until the next `---`
+  // line. Everything after that is body and safe to transform.
+  const fmMatch = src.match(/^(---\n[\s\S]*?\n---\n)([\s\S]*)$/)
+  const frontmatter = fmMatch ? fmMatch[1] : ""
+  const body = fmMatch ? fmMatch[2] : src
+
+  const lines = body.split("\n")
   let inFence = false
   let fenceMarker = ""
   const out: string[] = []
@@ -77,7 +85,7 @@ function transform(src: string): string {
     out.push(transformed)
   }
 
-  return out.join("\n")
+  return frontmatter + out.join("\n")
 }
 
 export const HideInternalMarkers: QuartzTransformerPlugin = () => {
