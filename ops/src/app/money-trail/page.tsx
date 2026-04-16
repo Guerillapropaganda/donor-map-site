@@ -57,7 +57,7 @@ export default function MoneyTrailPage() {
   // Mutable refs for interaction (no React re-render needed)
   const nodesRef = useRef<MoneyNode[]>([])
   const edgesRef = useRef<MoneyEdge[]>([])
-  const transformRef = useRef({ k: 1, x: 0, y: 0 })
+  const transformRef = useRef({ k: 1, x: 600, y: 350 }) // center of typical viewport, updated in buildGraph
   const hoveredRef = useRef<MoneyNode | null>(null)
   const dragRef = useRef<{ node: MoneyNode | null; panning: boolean; startX: number; startY: number; startTx: number; startTy: number }>({
     node: null, panning: false, startX: 0, startY: 0, startTx: 0, startTy: 0,
@@ -97,7 +97,7 @@ export default function MoneyTrailPage() {
     for (let i = 0; i < edges.length; i++) {
       const e = edges[i]
       const a = e.source as MoneyNode, b = e.target as MoneyNode
-      if (!a?.x || !b?.x) continue
+      if (a?.x == null || b?.x == null) continue
       const isHl = hov && (a.id === hov.id || b.id === hov.id)
 
       ctx.beginPath()
@@ -124,7 +124,7 @@ export default function MoneyTrailPage() {
 
     // Nodes
     for (const n of nodes) {
-      if (n.x == null || n.y == null) continue
+      if (n.x === undefined || n.y === undefined) continue
       const isHov = hov?.id === n.id
       const isConn = hov ? edges.some(e => {
         const s = (e.source as MoneyNode).id, t = (e.target as MoneyNode).id
@@ -271,7 +271,7 @@ export default function MoneyTrailPage() {
 
     function hitTest(wx: number, wy: number): MoneyNode | null {
       for (const n of nodesRef.current) {
-        if (n.x != null && n.y != null && Math.hypot(wx - n.x, wy - n.y) <= n.r + 3) return n
+        if (n.x !== undefined && n.y !== undefined && Math.hypot(wx - n.x, wy - n.y) <= n.r + 3) return n
       }
       return null
     }
