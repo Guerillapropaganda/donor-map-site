@@ -1656,6 +1656,11 @@ export default function RelationshipsPage() {
                   <span className="text-[8px] text-[var(--color-text-dim)] w-4">{i + 1}</span>
                   <span className="w-1.5 h-1.5 rounded-full" style={{ backgroundColor: TYPE_COLORS[p.type] || "#7a7a86" }} />
                   <span className="text-[9px] text-[var(--color-text)] flex-1 truncate">{p.title}</span>
+                  {(p as any).totalAmount > 0 && (
+                    <span className="text-[7px] font-mono text-[#22c55e]">
+                      {"$" + ((p as any).totalAmount >= 1e9 ? ((p as any).totalAmount / 1e9).toFixed(1) + "B" : (p as any).totalAmount >= 1e6 ? ((p as any).totalAmount / 1e6).toFixed(1) + "M" : (p as any).totalAmount >= 1e3 ? Math.round((p as any).totalAmount / 1e3) + "K" : (p as any).totalAmount)}
+                    </span>
+                  )}
                   <span className="text-[8px] font-bold text-[var(--color-steel)]">{p.connectionCount}</span>
                 </button>
               ))}
