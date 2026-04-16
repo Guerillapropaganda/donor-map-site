@@ -211,11 +211,11 @@ export default function MoneyTrailPage() {
       .attr("stroke-opacity", 0.25)
       .attr("stroke-dasharray", (d: any) => d.connType === "opposition" ? "4 3" : "none")
 
-    // Flow dots — money flows FROM connections TO center (donations coming in)
-    // Opposition flows FROM center TO target (spending going out)
+    // Flow dots — all flow from outer nodes toward center (money flowing in)
+    // Color tells the type: green=donations, blue=contracts, red=opposition
     const flowDots = g.append("g").selectAll("circle")
       .data(links).join("circle")
-      .attr("r", (d: any) => d.connType === "opposition" ? 2 : 2.5)
+      .attr("r", 2)
       .attr("fill", (d: any) => CONN_COLORS[d.connType] || "#22c55e")
       .attr("opacity", 0.6)
 
@@ -223,13 +223,9 @@ export default function MoneyTrailPage() {
       const t = Date.now() * 0.001
       flowDots.each(function (d: any, i: number) {
         const phase = (t * 0.3 + i * 0.17) % 1
-        // For money/contracts: flow from target (donor) toward source (center) — money flowing IN
-        // For opposition: flow from source (center) toward target — spending going OUT
-        const isOpposition = d.connType === "opposition"
-        const fromX = isOpposition ? (d.source.x ?? 0) : (d.target.x ?? 0)
-        const fromY = isOpposition ? (d.source.y ?? 0) : (d.target.y ?? 0)
-        const toX = isOpposition ? (d.target.x ?? 0) : (d.source.x ?? 0)
-        const toY = isOpposition ? (d.target.y ?? 0) : (d.source.y ?? 0)
+        // Always flow from outer node toward center
+        const fromX = d.target.x ?? 0, fromY = d.target.y ?? 0
+        const toX = d.source.x ?? 0, toY = d.source.y ?? 0
         select(this)
           .attr("cx", fromX + (toX - fromX) * phase)
           .attr("cy", fromY + (toY - fromY) * phase)
