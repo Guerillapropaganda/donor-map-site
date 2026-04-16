@@ -1,16 +1,18 @@
 "use client"
 
-import { useState, useEffect, useRef } from "react"
+import { useState, useEffect, useRef, useCallback } from "react"
+import {
+  forceSimulation, forceManyBody, forceCenter, forceLink, forceCollide, forceX, forceY,
+  type Simulation, type SimulationNodeDatum, type SimulationLinkDatum,
+} from "d3"
 
-interface MoneyNode {
+interface MoneyNode extends SimulationNodeDatum {
   id: string; name: string; type: string; party?: string; sector?: string
-  degree: number; totalAmount: number; bothSides: boolean
-  x: number; y: number; vx: number; vy: number; r: number
+  degree: number; totalAmount: number; bothSides: boolean; r: number
 }
 
-interface MoneyEdge {
-  source: string; target: string; confidence: number
-  amount: number; cycle: string; edgeType: string
+interface MoneyEdge extends SimulationLinkDatum<MoneyNode> {
+  confidence: number; amount: number; cycle: string; edgeType: string
 }
 
 const TYPE_COLORS: Record<string, string> = {
@@ -41,6 +43,7 @@ type EdgeFilter = "all" | "monetary" | "government-contract" | "political-opposi
 export default function MoneyTrailPage() {
   const canvasRef = useRef<HTMLCanvasElement>(null)
   const containerRef = useRef<HTMLDivElement>(null)
+  const simRef = useRef<Simulation<MoneyNode, MoneyEdge> | null>(null)
   const [loading, setLoading] = useState(true)
   const [stats, setStats] = useState<Record<string, number>>({})
   const [hoveredName, setHoveredName] = useState("")
@@ -49,293 +52,226 @@ export default function MoneyTrailPage() {
   const [filter, setFilter] = useState<FilterMode>("all")
   const [edgeFilter, setEdgeFilter] = useState<EdgeFilter>("all")
   const [minAmount, setMinAmount] = useState(0)
+  const allDataRef = useRef<{ nodes: MoneyNode[]; edges: MoneyEdge[] }>({ nodes: [], edges: [] })
 
-  // All mutable state in refs (not React state) so the animation loop doesn't re-render React
+  // Mutable refs for interaction (no React re-render needed)
   const nodesRef = useRef<MoneyNode[]>([])
   const edgesRef = useRef<MoneyEdge[]>([])
-  const allDataRef = useRef<{ nodes: MoneyNode[]; edges: MoneyEdge[] }>({ nodes: [], edges: [] })
-  const zoomRef = useRef(1)
-  const panRef = useRef({ x: 0, y: 0 })
-  const hoveredRef = useRef<string | null>(null)
-  const dragRef = useRef<{ active: boolean; nodeId: string | null; panning: boolean; lastX: number; lastY: number }>({
-    active: false, nodeId: null, panning: false, lastX: 0, lastY: 0,
+  const transformRef = useRef({ k: 1, x: 0, y: 0 })
+  const hoveredRef = useRef<MoneyNode | null>(null)
+  const dragRef = useRef<{ node: MoneyNode | null; panning: boolean; startX: number; startY: number; startTx: number; startTy: number }>({
+    node: null, panning: false, startX: 0, startY: 0, startTx: 0, startTy: 0,
   })
-  const physicsRef = useRef({ running: true, alpha: 1 })
-  const animFrameRef = useRef(0)
+  const animRef = useRef(0)
 
-  // Build layout when controls change
-  useEffect(() => {
-    if (loading) return
+  // Canvas render function — called by D3 tick + animation frame
+  const renderCanvas = useCallback(() => {
+    const canvas = canvasRef.current
+    const container = containerRef.current
+    if (!canvas || !container) return
+    const ctx = canvas.getContext("2d")
+    if (!ctx) return
+
+    const dpr = window.devicePixelRatio || 1
+    const w = container.clientWidth
+    const h = container.clientHeight
+    if (canvas.width !== w * dpr || canvas.height !== h * dpr) {
+      canvas.width = w * dpr; canvas.height = h * dpr
+      canvas.style.width = w + "px"; canvas.style.height = h + "px"
+    }
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
+
+    const nodes = nodesRef.current
+    const edges = edgesRef.current
+    const tf = transformRef.current
+    const hov = hoveredRef.current
+    const t = Date.now() * 0.001
+
+    ctx.fillStyle = "#0c0c0f"
+    ctx.fillRect(0, 0, w, h)
+    ctx.save()
+    ctx.translate(tf.x, tf.y)
+    ctx.scale(tf.k, tf.k)
+
+    // Edges
+    for (let i = 0; i < edges.length; i++) {
+      const e = edges[i]
+      const a = e.source as MoneyNode, b = e.target as MoneyNode
+      if (!a?.x || !b?.x) continue
+      const isHl = hov && (a.id === hov.id || b.id === hov.id)
+
+      ctx.beginPath()
+      ctx.moveTo(a.x, a.y)
+      ctx.lineTo(b.x, b.y)
+      ctx.strokeStyle = EDGE_COLORS[e.edgeType] || "#f59e0b"
+      ctx.globalAlpha = isHl ? 0.7 : (hov ? 0.03 : 0.12)
+      ctx.lineWidth = (isHl ? 2 : 0.5) / tf.k
+      if (e.edgeType === "political-opposition") { ctx.setLineDash([4 / tf.k, 3 / tf.k]) } else { ctx.setLineDash([]) }
+      ctx.stroke()
+      ctx.setLineDash([])
+
+      // Flow dot
+      if (e.edgeType === "monetary" && (!hov || isHl)) {
+        const phase = (t * 0.3 + i * 0.11) % 1
+        ctx.beginPath()
+        ctx.arc(a.x + (b.x - a.x) * phase, a.y + (b.y - a.y) * phase, (isHl ? 2.5 : 1.5) / tf.k, 0, Math.PI * 2)
+        ctx.fillStyle = EDGE_COLORS[e.edgeType]
+        ctx.globalAlpha = isHl ? 0.8 : 0.25
+        ctx.fill()
+      }
+      ctx.globalAlpha = 1
+    }
+
+    // Nodes
+    for (const n of nodes) {
+      if (n.x == null || n.y == null) continue
+      const isHov = hov?.id === n.id
+      const isConn = hov ? edges.some(e => {
+        const s = (e.source as MoneyNode).id, t = (e.target as MoneyNode).id
+        return (s === hov.id && t === n.id) || (t === hov.id && s === n.id)
+      }) : false
+      const dim = hov != null && !isHov && !isConn
+      const color = getNodeColor(n)
+
+      ctx.beginPath()
+      ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2)
+      ctx.fillStyle = color
+      ctx.globalAlpha = dim ? 0.06 : (isHov ? 1 : 0.85)
+      ctx.fill()
+      ctx.strokeStyle = color
+      ctx.lineWidth = (isHov ? 2.5 : 1) / tf.k
+      ctx.globalAlpha = dim ? 0.03 : 0.5
+      ctx.stroke()
+      ctx.globalAlpha = 1
+
+      if (n.bothSides && !dim) {
+        ctx.beginPath()
+        ctx.arc(n.x, n.y, n.r + 4, 0, Math.PI * 2)
+        ctx.strokeStyle = "#f59e0b"; ctx.lineWidth = 1 / tf.k; ctx.globalAlpha = 0.4
+        ctx.setLineDash([3 / tf.k, 2 / tf.k]); ctx.stroke(); ctx.setLineDash([]); ctx.globalAlpha = 1
+      }
+
+      const showLabel = tf.k > 0.5 && (n.r * tf.k >= 6 || isHov || isConn)
+      if (showLabel && !dim) {
+        const fontSize = Math.max(8, Math.min(12, 10 / tf.k))
+        ctx.font = `${isHov ? "bold " : ""}${fontSize}px ui-monospace, monospace`
+        ctx.fillStyle = isHov ? "#fff" : color
+        ctx.globalAlpha = isHov ? 1 : 0.6
+        ctx.textAlign = "center"
+        const label = n.name.length > 22 ? n.name.slice(0, 20) + ".." : n.name
+        ctx.fillText(label, n.x, n.y + n.r + fontSize + 2)
+        if ((isHov || isConn) && n.totalAmount > 0) {
+          ctx.font = `bold ${fontSize}px ui-monospace, monospace`
+          ctx.fillStyle = "#22c55e"
+          ctx.fillText(formatAmt(n.totalAmount), n.x, n.y + n.r + fontSize * 2 + 4)
+        }
+        ctx.globalAlpha = 1
+      }
+    }
+
+    ctx.restore()
+
+    // Legend
+    ctx.font = '8px ui-monospace, monospace'
+    let lx = 10
+    for (const [label, color] of [["Funded", "#22c55e"], ["Contracts", "#3b82f6"], ["Opposes", "#ef4444"], ["Dem", "#3b82f6"], ["Rep", "#ef4444"], ["Both Sides", "#f59e0b"]] as const) {
+      ctx.fillStyle = color; ctx.globalAlpha = 0.7; ctx.fillRect(lx, h - 20, 8, 8)
+      ctx.fillStyle = "#888"; ctx.globalAlpha = 0.6; ctx.textAlign = "left"
+      ctx.fillText(label, lx + 10, h - 13); lx += ctx.measureText(label).width + 20; ctx.globalAlpha = 1
+    }
+
+    animRef.current = requestAnimationFrame(renderCanvas)
+  }, [])
+
+  // Build graph when controls change
+  const buildGraph = useCallback(() => {
     const { nodes: allNodes, edges: allEdges } = allDataRef.current
     if (allNodes.length === 0) return
 
-    // Filter edges
+    if (simRef.current) simRef.current.stop()
+
     let filteredEdges = allEdges
     if (edgeFilter !== "all") filteredEdges = allEdges.filter(e => e.edgeType === edgeFilter)
     if (minAmount > 0) filteredEdges = filteredEdges.filter(e => e.amount >= minAmount)
 
     const connectedIds = new Set<string>()
-    for (const e of filteredEdges) { connectedIds.add(e.source); connectedIds.add(e.target) }
+    for (const e of filteredEdges) { connectedIds.add(e.source as unknown as string); connectedIds.add(e.target as unknown as string) }
 
     let filtered = allNodes.filter(n => connectedIds.has(n.id))
 
-    // Party/type filter
     if (filter === "Democrat" || filter === "Republican") {
       const partyPols = new Set(filtered.filter(n => n.type === "politician" && n.party === filter).map(n => n.id))
-      const connected = new Set<string>()
-      for (const e of filteredEdges) {
-        if (partyPols.has(e.source)) connected.add(e.target)
-        if (partyPols.has(e.target)) connected.add(e.source)
-      }
-      filtered = filtered.filter(n => partyPols.has(n.id) || connected.has(n.id))
+      const conn = new Set<string>()
+      for (const e of filteredEdges) { if (partyPols.has(e.source as unknown as string)) conn.add(e.target as unknown as string); if (partyPols.has(e.target as unknown as string)) conn.add(e.source as unknown as string) }
+      filtered = filtered.filter(n => partyPols.has(n.id) || conn.has(n.id))
     } else if (filter === "donors") {
       const donors = new Set(filtered.filter(n => n.type !== "politician").map(n => n.id))
-      const connected = new Set<string>()
-      for (const e of filteredEdges) {
-        if (donors.has(e.source)) connected.add(e.target)
-        if (donors.has(e.target)) connected.add(e.source)
-      }
-      filtered = filtered.filter(n => donors.has(n.id) || connected.has(n.id))
+      const conn = new Set<string>()
+      for (const e of filteredEdges) { if (donors.has(e.source as unknown as string)) conn.add(e.target as unknown as string); if (donors.has(e.target as unknown as string)) conn.add(e.source as unknown as string) }
+      filtered = filtered.filter(n => donors.has(n.id) || conn.has(n.id))
     } else if (filter === "both-sides") {
       const bs = new Set(filtered.filter(n => n.bothSides).map(n => n.id))
-      const connected = new Set<string>()
-      for (const e of filteredEdges) {
-        if (bs.has(e.source)) connected.add(e.target)
-        if (bs.has(e.target)) connected.add(e.source)
-      }
-      filtered = filtered.filter(n => bs.has(n.id) || connected.has(n.id))
+      const conn = new Set<string>()
+      for (const e of filteredEdges) { if (bs.has(e.source as unknown as string)) conn.add(e.target as unknown as string); if (bs.has(e.target as unknown as string)) conn.add(e.source as unknown as string) }
+      filtered = filtered.filter(n => bs.has(n.id) || conn.has(n.id))
     }
 
-    // Top N by amount
     filtered.sort((a, b) => b.totalAmount - a.totalAmount)
     filtered = filtered.slice(0, maxNodes)
     const nodeIds = new Set(filtered.map(n => n.id))
-    const visibleEdges = filteredEdges.filter(e => nodeIds.has(e.source) && nodeIds.has(e.target))
 
-    // Node radius (log scale)
+    // Compute radii
     const maxAmt = Math.max(1, ...filtered.map(n => n.totalAmount))
     const logMax = Math.log10(maxAmt + 1)
-    const w = containerRef.current?.clientWidth || 1200
-    const h = containerRef.current?.clientHeight || 700
-
-    const layoutNodes: MoneyNode[] = filtered.map(n => ({
+    const simNodes: MoneyNode[] = filtered.map(n => ({
       ...n,
-      r: 4 + (n.totalAmount > 0 ? Math.log10(n.totalAmount + 1) / logMax : 0) * 22,
-      x: n.x ?? w / 2 + (Math.random() - 0.5) * w * 0.6,
-      y: n.y ?? h / 2 + (Math.random() - 0.5) * h * 0.6,
-      vx: 0, vy: 0,
+      r: 4 + (n.totalAmount > 0 ? Math.log10(n.totalAmount + 1) / logMax : 0) * 20,
     }))
 
-    nodesRef.current = layoutNodes
-    edgesRef.current = visibleEdges
-    physicsRef.current = { running: true, alpha: 1 }
-  }, [loading, maxNodes, filter, edgeFilter, minAmount])
+    const nodeMap = new Map(simNodes.map(n => [n.id, n]))
+    const simEdges: MoneyEdge[] = filteredEdges
+      .filter(e => nodeIds.has(e.source as unknown as string) && nodeIds.has(e.target as unknown as string))
+      .map(e => ({
+        source: nodeMap.get(e.source as unknown as string)!,
+        target: nodeMap.get(e.target as unknown as string)!,
+        confidence: e.confidence, amount: e.amount, cycle: e.cycle, edgeType: e.edgeType,
+      }))
+      .filter(e => e.source && e.target)
 
-  // Animation loop — runs physics + renders canvas every frame
-  useEffect(() => {
-    let running = true
+    nodesRef.current = simNodes
+    edgesRef.current = simEdges
 
-    function frame() {
-      if (!running) return
-      const canvas = canvasRef.current
-      const container = containerRef.current
-      if (!canvas || !container) { animFrameRef.current = requestAnimationFrame(frame); return }
+    // D3 force simulation — O(n log n) via quadtree
+    const w = containerRef.current?.clientWidth || 1200
+    const h = containerRef.current?.clientHeight || 700
+    transformRef.current = { k: 1, x: w / 2, y: h / 2 }
 
-      const ctx = canvas.getContext("2d")
-      if (!ctx) return
+    const sim = forceSimulation<MoneyNode>(simNodes)
+      .force("charge", forceManyBody().strength(-60))
+      .force("center", forceCenter(0, 0).strength(0.05))
+      .force("link", forceLink<MoneyNode, MoneyEdge>(simEdges).distance(60).strength(0.15))
+      .force("collide", forceCollide<MoneyNode>(n => n.r + 2).iterations(2))
+      .force("x", forceX(0).strength(0.02))
+      .force("y", forceY(0).strength(0.02))
+      .alphaDecay(0.02)
 
-      const dpr = window.devicePixelRatio || 1
-      const w = container.clientWidth
-      const h = container.clientHeight
-      if (canvas.width !== w * dpr || canvas.height !== h * dpr) {
-        canvas.width = w * dpr
-        canvas.height = h * dpr
-        canvas.style.width = w + "px"
-        canvas.style.height = h + "px"
-      }
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
+    simRef.current = sim
+  }, [maxNodes, filter, edgeFilter, minAmount])
 
-      const nodes = nodesRef.current
-      const edges = edgesRef.current
-      const zoom = zoomRef.current
-      const pan = panRef.current
-      const hovId = hoveredRef.current
-      const physics = physicsRef.current
-      const nodeMap = new Map(nodes.map(n => [n.id, n]))
-
-      // Physics step
-      if (physics.running && physics.alpha > 0.001) {
-        physics.alpha *= 0.985
-        const alpha = physics.alpha
-
-        // Repulsion
-        for (let i = 0; i < nodes.length; i++) {
-          for (let j = i + 1; j < nodes.length; j++) {
-            const a = nodes[i], b = nodes[j]
-            const dx = (a.x - b.x) || 0.1
-            const dy = (a.y - b.y) || 0.1
-            const dist2 = dx * dx + dy * dy
-            const dist = Math.sqrt(dist2)
-            const force = 600 * alpha / dist2
-            const fx = (dx / dist) * force
-            const fy = (dy / dist) * force
-            a.vx += fx; a.vy += fy
-            b.vx -= fx; b.vy -= fy
-          }
-        }
-
-        // Springs
-        for (const e of edges) {
-          const a = nodeMap.get(e.source), b = nodeMap.get(e.target)
-          if (!a || !b) continue
-          const dx = b.x - a.x, dy = b.y - a.y
-          const dist = Math.sqrt(dx * dx + dy * dy) || 1
-          const force = 0.008 * (dist - 80) * alpha
-          a.vx += (dx / dist) * force; a.vy += (dy / dist) * force
-          b.vx -= (dx / dist) * force; b.vy -= (dy / dist) * force
-        }
-
-        // Center gravity + apply
-        for (const n of nodes) {
-          if (dragRef.current.nodeId === n.id) continue // skip dragged node
-          n.vx += (w / 2 - n.x) * 0.0005 * alpha
-          n.vy += (h / 2 - n.y) * 0.0005 * alpha
-          n.vx *= 0.8; n.vy *= 0.8
-          n.x += n.vx; n.y += n.vy
-          n.x = Math.max(n.r, Math.min(w - n.r, n.x))
-          n.y = Math.max(n.r, Math.min(h - n.r, n.y))
-        }
-      }
-
-      // ─── RENDER ───
-      ctx.fillStyle = "#0c0c0f"
-      ctx.fillRect(0, 0, w, h)
-      ctx.save()
-      ctx.translate(w / 2 + pan.x, h / 2 + pan.y)
-      ctx.scale(zoom, zoom)
-      ctx.translate(-w / 2, -h / 2)
-
-      const t = Date.now() * 0.001 // for flow animation
-
-      // Edges
-      for (let ei = 0; ei < edges.length; ei++) {
-        const e = edges[ei]
-        const a = nodeMap.get(e.source), b = nodeMap.get(e.target)
-        if (!a || !b) continue
-        const isHl = hovId === a.id || hovId === b.id
-
-        ctx.beginPath()
-        ctx.moveTo(a.x, a.y)
-        ctx.lineTo(b.x, b.y)
-        ctx.strokeStyle = EDGE_COLORS[e.edgeType] || "#f59e0b"
-        ctx.globalAlpha = isHl ? 0.6 : (hovId ? 0.03 : 0.1)
-        ctx.lineWidth = isHl ? 2 : 0.4 + Math.min(e.amount / 1e7, 1.5)
-        if (e.edgeType === "political-opposition") { ctx.setLineDash([4, 3]) } else { ctx.setLineDash([]) }
-        ctx.stroke()
-        ctx.setLineDash([])
-
-        // Flow dot (animated particle along edge)
-        if (e.edgeType === "monetary" && (isHl || !hovId)) {
-          const phase = (t * 0.4 + ei * 0.13) % 1
-          const fx = a.x + (b.x - a.x) * phase
-          const fy = a.y + (b.y - a.y) * phase
-          ctx.beginPath()
-          ctx.arc(fx, fy, isHl ? 2.5 : 1.5, 0, Math.PI * 2)
-          ctx.fillStyle = EDGE_COLORS[e.edgeType] || "#f59e0b"
-          ctx.globalAlpha = isHl ? 0.8 : 0.3
-          ctx.fill()
-        }
-        ctx.globalAlpha = 1
-      }
-
-      // Nodes
-      for (const n of nodes) {
-        const isHov = n.id === hovId
-        const isConn = hovId ? edges.some(e => (e.source === hovId && e.target === n.id) || (e.target === hovId && e.source === n.id)) : false
-        const dim = hovId != null && !isHov && !isConn
-        const color = getNodeColor(n)
-
-        ctx.beginPath()
-        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2)
-        ctx.fillStyle = color
-        ctx.globalAlpha = dim ? 0.06 : (isHov ? 1 : 0.8)
-        ctx.fill()
-        ctx.globalAlpha = 1
-
-        ctx.beginPath()
-        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2)
-        ctx.strokeStyle = color
-        ctx.lineWidth = isHov ? 2.5 : 1
-        ctx.globalAlpha = dim ? 0.03 : 0.4
-        ctx.stroke()
-        ctx.globalAlpha = 1
-
-        if (n.bothSides && !dim) {
-          ctx.beginPath()
-          ctx.arc(n.x, n.y, n.r + 4, 0, Math.PI * 2)
-          ctx.strokeStyle = "#f59e0b"
-          ctx.lineWidth = 1; ctx.globalAlpha = 0.4
-          ctx.setLineDash([3, 2]); ctx.stroke(); ctx.setLineDash([]); ctx.globalAlpha = 1
-        }
-
-        // Labels
-        const showLabel = zoom > 0.7 && (n.r >= 8 || isHov || isConn)
-        if (showLabel && !dim) {
-          const label = n.name.length > 22 ? n.name.slice(0, 20) + ".." : n.name
-          ctx.font = isHov ? 'bold 11px ui-monospace, monospace' : '8px ui-monospace, monospace'
-          ctx.fillStyle = isHov ? "#fff" : color
-          ctx.globalAlpha = isHov ? 1 : 0.6
-          ctx.textAlign = "center"
-          ctx.fillText(label, n.x, n.y + n.r + 11)
-          if ((isHov || isConn) && n.totalAmount > 0) {
-            ctx.font = 'bold 9px ui-monospace, monospace'
-            ctx.fillStyle = "#22c55e"
-            ctx.fillText(formatAmt(n.totalAmount), n.x, n.y + n.r + 21)
-          }
-          ctx.globalAlpha = 1
-        }
-      }
-
-      ctx.restore()
-
-      // Legend
-      ctx.font = '8px ui-monospace, monospace'
-      let lx = 10
-      for (const [label, color] of [["Funded", "#22c55e"], ["Contracts", "#3b82f6"], ["Opposes", "#ef4444"], ["Democrat", "#3b82f6"], ["Republican", "#ef4444"], ["Both Sides", "#f59e0b"]]) {
-        ctx.fillStyle = color; ctx.globalAlpha = 0.7
-        ctx.fillRect(lx, h - 20, 8, 8)
-        ctx.fillStyle = "#888"; ctx.globalAlpha = 0.6; ctx.textAlign = "left"
-        ctx.fillText(label, lx + 10, h - 13)
-        lx += ctx.measureText(label).width + 22
-        ctx.globalAlpha = 1
-      }
-
-      animFrameRef.current = requestAnimationFrame(frame)
-    }
-
-    animFrameRef.current = requestAnimationFrame(frame)
-    return () => { running = false; cancelAnimationFrame(animFrameRef.current) }
-  }, []) // empty deps — runs once, reads everything from refs
-
-  // Mouse handlers (write to refs, not React state)
+  // Mouse interaction
   useEffect(() => {
     const canvas = canvasRef.current
     if (!canvas) return
 
     function toWorld(e: MouseEvent): [number, number] {
       const rect = canvas!.getBoundingClientRect()
-      const w = rect.width, h = rect.height
-      const zoom = zoomRef.current, pan = panRef.current
-      const sx = e.clientX - rect.left
-      const sy = e.clientY - rect.top
-      const wx = (sx - w / 2 - pan.x) / zoom + w / 2
-      const wy = (sy - h / 2 - pan.y) / zoom + h / 2
-      return [wx, wy]
+      const tf = transformRef.current
+      return [(e.clientX - rect.left - tf.x) / tf.k, (e.clientY - rect.top - tf.y) / tf.k]
     }
 
     function hitTest(wx: number, wy: number): MoneyNode | null {
       for (const n of nodesRef.current) {
-        if (Math.hypot(wx - n.x, wy - n.y) <= n.r + 3) return n
+        if (n.x != null && n.y != null && Math.hypot(wx - n.x, wy - n.y) <= n.r + 3) return n
       }
       return null
     }
@@ -343,19 +279,18 @@ export default function MoneyTrailPage() {
     function onMouseMove(e: MouseEvent) {
       const dr = dragRef.current
       if (dr.panning) {
-        panRef.current.x += e.clientX - dr.lastX
-        panRef.current.y += e.clientY - dr.lastY
-        dr.lastX = e.clientX; dr.lastY = e.clientY
+        transformRef.current.x = dr.startTx + (e.clientX - dr.startX)
+        transformRef.current.y = dr.startTy + (e.clientY - dr.startY)
+        return
+      }
+      if (dr.node) {
+        const [wx, wy] = toWorld(e)
+        dr.node.fx = wx; dr.node.fy = wy
         return
       }
       const [wx, wy] = toWorld(e)
-      if (dr.active && dr.nodeId) {
-        const n = nodesRef.current.find(n => n.id === dr.nodeId)
-        if (n) { n.x = wx; n.y = wy; n.vx = 0; n.vy = 0 }
-        return
-      }
       const hit = hitTest(wx, wy)
-      hoveredRef.current = hit?.id ?? null
+      hoveredRef.current = hit
       canvas!.style.cursor = hit ? "pointer" : "grab"
       setHoveredName(hit?.name ?? "")
       setHoveredAmt(hit?.totalAmount ?? 0)
@@ -365,28 +300,40 @@ export default function MoneyTrailPage() {
       const [wx, wy] = toWorld(e)
       const hit = hitTest(wx, wy)
       if (hit) {
-        dragRef.current = { active: true, nodeId: hit.id, panning: false, lastX: 0, lastY: 0 }
-        physicsRef.current.alpha = Math.max(physicsRef.current.alpha, 0.3)
-        physicsRef.current.running = true
+        dragRef.current = { node: hit, panning: false, startX: 0, startY: 0, startTx: 0, startTy: 0 }
+        hit.fx = hit.x; hit.fy = hit.y
+        simRef.current?.alphaTarget(0.3).restart()
       } else {
-        dragRef.current = { active: false, nodeId: null, panning: true, lastX: e.clientX, lastY: e.clientY }
+        const tf = transformRef.current
+        dragRef.current = { node: null, panning: true, startX: e.clientX, startY: e.clientY, startTx: tf.x, startTy: tf.y }
         canvas!.style.cursor = "grabbing"
       }
     }
 
     function onMouseUp() {
-      dragRef.current = { active: false, nodeId: null, panning: false, lastX: 0, lastY: 0 }
+      const dr = dragRef.current
+      if (dr.node) {
+        dr.node.fx = null; dr.node.fy = null
+        simRef.current?.alphaTarget(0)
+      }
+      dragRef.current = { node: null, panning: false, startX: 0, startY: 0, startTx: 0, startTy: 0 }
       canvas!.style.cursor = hoveredRef.current ? "pointer" : "grab"
     }
 
     function onWheel(e: WheelEvent) {
       e.preventDefault()
-      const factor = e.deltaY > 0 ? 0.92 : 1.08
-      zoomRef.current = Math.max(0.1, Math.min(5, zoomRef.current * factor))
+      const rect = canvas!.getBoundingClientRect()
+      const mx = e.clientX - rect.left, my = e.clientY - rect.top
+      const tf = transformRef.current
+      const factor = e.deltaY > 0 ? 0.9 : 1.1
+      const newK = Math.max(0.05, Math.min(8, tf.k * factor))
+      // Zoom toward mouse position
+      tf.x = mx - (mx - tf.x) * (newK / tf.k)
+      tf.y = my - (my - tf.y) * (newK / tf.k)
+      tf.k = newK
     }
 
     function onClick(e: MouseEvent) {
-      if (dragRef.current.active) return
       const [wx, wy] = toWorld(e)
       const hit = hitTest(wx, wy)
       if (hit) window.open(`/editor?search=${encodeURIComponent(hit.name)}`, "_blank")
@@ -408,6 +355,12 @@ export default function MoneyTrailPage() {
     }
   }, [])
 
+  // Start animation loop once
+  useEffect(() => {
+    animRef.current = requestAnimationFrame(renderCanvas)
+    return () => cancelAnimationFrame(animRef.current)
+  }, [renderCanvas])
+
   // Load data
   useEffect(() => {
     fetch("/api/money-trail")
@@ -419,6 +372,14 @@ export default function MoneyTrailPage() {
       })
       .catch(() => setLoading(false))
   }, [])
+
+  // Rebuild when data/controls change
+  useEffect(() => {
+    if (!loading && allDataRef.current.nodes.length > 0) {
+      const t = setTimeout(buildGraph, 50)
+      return () => clearTimeout(t)
+    }
+  }, [loading, buildGraph])
 
   const THRESHOLDS = [
     { label: "All", value: 0 }, { label: "$10K+", value: 10000 },
@@ -432,11 +393,7 @@ export default function MoneyTrailPage() {
         <span className="text-[9px] text-[var(--color-text-dim)]">
           {stats.totalEdges || 0} edges | {stats.totalDonors || 0} donors | {stats.totalPoliticians || 0} politicians | {stats.bothSidesCount || 0} both-sides
         </span>
-        {hoveredName && (
-          <span className="text-[10px] text-[var(--color-text)] ml-2 font-mono">
-            {hoveredName}{hoveredAmt > 0 ? ` — ${formatAmt(hoveredAmt)}` : ""}
-          </span>
-        )}
+        {hoveredName && <span className="text-[10px] text-[var(--color-text)] ml-2 font-mono">{hoveredName}{hoveredAmt > 0 ? ` — ${formatAmt(hoveredAmt)}` : ""}</span>}
       </div>
 
       <div className="flex items-center gap-2 px-4 py-2 border-b border-[var(--color-border)] bg-[var(--color-bg-card)] flex-wrap">
@@ -465,8 +422,7 @@ export default function MoneyTrailPage() {
         ))}
         <span className="w-px h-4 bg-[var(--color-border)]" />
         <span className="text-[8px] text-[var(--color-text-dim)]">Nodes:</span>
-        <input type="range" min={20} max={300} value={maxNodes} onChange={e => setMaxNodes(parseInt(e.target.value))}
-          className="w-20 h-1 accent-[#f59e0b]" />
+        <input type="range" min={20} max={300} value={maxNodes} onChange={e => setMaxNodes(parseInt(e.target.value))} className="w-20 h-1 accent-[#f59e0b]" />
         <span className="text-[8px] text-[var(--color-text-dim)] w-8">{maxNodes}</span>
       </div>
 
