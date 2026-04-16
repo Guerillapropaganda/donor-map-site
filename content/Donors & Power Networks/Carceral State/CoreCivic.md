@@ -12,7 +12,7 @@ federal-awards-total: 1057092807
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3058
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 court-jurisdictions:
@@ -26,9 +26,9 @@ court-jurisdictions:
   - District Court, M.D. Tennessee
   - District Court, N.D. Ohio
   - District Court, S.D. California
-ein: "823851866"
-annual-revenue: $511K
-net-assets: $52K
+ein: 823851866
+annual-revenue: "$511K"
+net-assets: "$52K"
 tax-year: "2024"
 federal-contracts: 228
 subawards-issued: 50
@@ -67,9 +67,9 @@ sec-form-types:
   - EX-99.1
   - EX-99.2
   - SCHEDULE 13G/A
-wikidata-id: Q1135278
-wikipedia-url: https://en.wikipedia.org/wiki/CoreCivic
-wikipedia-extract: CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
+wikidata-id: "Q1135278"
+wikipedia-url: "https://en.wikipedia.org/wiki/CoreCivic"
+wikipedia-extract: "CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States."
 founded: "1983-01-01"
 epa-facilities: 1
 epa-states: "CA"
@@ -272,7 +272,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -585,7 +585,7 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

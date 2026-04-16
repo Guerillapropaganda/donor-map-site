@@ -16,7 +16,7 @@ top-federal-agency: Department of Agriculture
 top-naics-code: "311615"
 ein: 476014039
 nonprofit-status: 501(c)(3)
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 total-revenue: 1
@@ -95,12 +95,12 @@ sec-form-types:
   - SCHEDULE 13D/A
   - SCHEDULE 13G/A
   - XML
-annual-revenue: $1
-net-assets: $322K
+annual-revenue: "$1"
+net-assets: "$322K"
 tax-year: "2019"
-wikidata-id: Q1325987
-wikipedia-url: https://en.wikipedia.org/wiki/Tyson_Foods
-wikipedia-extract: Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
+wikidata-id: "Q1325987"
+wikipedia-url: "https://en.wikipedia.org/wiki/Tyson_Foods"
+wikipedia-extract: "Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry."
 founded: "1935-01-01"
 lei: "WD6L6041MNRW1JE49D58"
 lei-jurisdiction: "US-DE"
@@ -574,7 +574,7 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - [Source: ProPublica Nonprofit Explorer — EIN 476014039](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -607,7 +607,7 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

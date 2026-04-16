@@ -8,7 +8,7 @@ parent: null
 sector: Dark Money
 entity-type: Individual Donor
 court-cases: 410
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
@@ -19,8 +19,8 @@ court-jurisdictions:
   - District Court, E.D. North Carolina
   - District Court, W.D. Texas
 ein: 237321017
-annual-revenue: $4.8M
-net-assets: $8.1M
+annual-revenue: "$4.8M"
+net-assets: "$8.1M"
 tax-year: "2023"
 related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]]"
 lobbying-spend: 836000
@@ -43,8 +43,8 @@ sec-form-types:
   - U5S
 total-political-spend: $499,761
 politicians-funded: "[[Barry Moore]], [[Wes Moore]], [[Bob Menendez]], [[Salud O. Carbajal]], [[Blake D. Moore]], [[Jerrold Nadler]], [[Aaron Bean]], [[Tim Moore]], [[Riley M. Moore]], [[Gina McCarthy]], [[Robert Menendez]], [[Melissa Bean]], [[Gwen Moore]], [[Kevin McCarthy]], [[Linda McMahon]], [[Jerry Nadler]], [[James E. Clyburn]]"
-wikidata-id: Q4955170
-wikipedia-url: https://en.wikipedia.org/wiki/Brady_Campaign
+wikidata-id: "Q4955170"
+wikipedia-url: "https://en.wikipedia.org/wiki/Brady_Campaign"
 wikipedia-extract: "Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence."
 federal-register-mentions: 1
 regulatory-agencies:
@@ -174,7 +174,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -415,7 +415,7 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

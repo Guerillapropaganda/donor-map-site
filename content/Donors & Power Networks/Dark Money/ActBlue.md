@@ -17,14 +17,14 @@ sec-form-types:
   - 40-APP/A
   - EX-99
 federal-register-mentions: 9
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
   - "Federal Election Commission"
 ein: 455097038
-annual-revenue: $2.0M
-net-assets: $8.5M
+annual-revenue: "$2.0M"
+net-assets: "$8.5M"
 tax-year: "2023"
 related: "[[Democratic Party Infrastructure]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[The Housing Progressive and Wall Street Tension]] · [[Elizabeth Warren Master Profile]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[The CFPB and the Limits of Reform Within the System]] · [[The 2020 Campaign and the Donor Class Consolidation]] · [[The Climate Hawk and Green New Deal Limits]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Pramila Jayapal]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[The Oversight Committee and the Anti-Corruption Brand]] · [[The Education Committee and Labor Alignment]] · [[Democratic Small Dollar Networks]] · [[WinRed]] · [[Democratic Donor Network]] · [[Future Forward USA Action]] · [[Senate Majority PAC]] · [[House Majority PAC]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Democratic Party]] · [[Ohio Federation of Teachers]] · [[Bernie Sanders Master Profile]] · [[MAGA Small Dollar Base]] · [[Emilys List]] · [[Adam Smith]] · [[Jason Smith]] · [[American Gaming Association]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[National Association of Manufacturers]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]]"
 court-cases: 141
@@ -42,9 +42,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 nonprofit-status: 501(c)(4)
 total-revenue: 3117422
 total-assets: 9477177
-wikidata-id: Q4676589
-wikipedia-url: https://en.wikipedia.org/wiki/ActBlue
-wikipedia-extract: ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure.
+wikidata-id: "Q4676589"
+wikipedia-url: "https://en.wikipedia.org/wiki/ActBlue"
+wikipedia-extract: "ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure."
 total-political-spend: $1,765,636
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -285,7 +285,7 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -406,7 +406,7 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
