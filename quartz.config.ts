@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "goatcounter",
-      websiteId: "donormap",
+      websiteId: "guerillapropaganda",
     },
     locale: "en-US",
     baseUrl: "thedonormap.org",
