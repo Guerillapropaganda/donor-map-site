@@ -65,6 +65,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 epa-facilities: 11
 epa-states: "AL"
 federal-contracts: 170
+total-raised: 97269
+total-spent: 83021
+cash-on-hand: 268189
+individual-contributions: 90423
+contributions-to-committees: 82500
 ---
 
 

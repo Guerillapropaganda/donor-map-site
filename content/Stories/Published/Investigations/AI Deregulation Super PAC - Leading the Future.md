@@ -13,6 +13,11 @@ checklist-na:
   - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+total-raised: 50310579
+total-spent: 11039408
+cash-on-hand: 39271172
+individual-contributions: 50100000
+contributions-to-committees: 10000000
 ---
 #story #investigation #donor-pipeline #ai-deregulation
 tags: #investigation

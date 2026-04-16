@@ -42,6 +42,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 politicians-funded: "[[Kevin McCarthy]]"
 epa-facilities: 4
 epa-states: "CA, MI, NJ"
+total-raised: 301264
+total-spent: 232709
+cash-on-hand: 192644
+individual-contributions: 301264
+contributions-to-committees: 213800
 ---
 
 <!-- auto:data-panel start -->

@@ -32,6 +32,11 @@ epa-facilities: 225
 epa-states: "AL, CA, CO, DC, FL, GA, IL, MA, MI, NC, NV, NY, OR, PA"
 federal-contracts: 9
 federal-awards-total: 7929124
+total-raised: 1089609
+total-spent: 1117894
+cash-on-hand: 2198544
+individual-contributions: 1088609
+contributions-to-committees: 991384
 ---
 
 <!-- auto:data-panel start -->

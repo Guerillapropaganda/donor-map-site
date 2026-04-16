@@ -28,6 +28,8 @@ checklist-na:
   - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+total-spent: 84484
+cash-on-hand: 33188
 ---
 
 #lobbying #k-street #appropriations #earmarks #defense #energy #universities #bipartisan

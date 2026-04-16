@@ -64,6 +64,12 @@ aliases:
   - NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND
   - NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE
 politicians-funded: "[[Gavin Newsom]]"
+total-raised: 15568540
+total-spent: 13323135
+cash-on-hand: 21410243
+independent-expenditures: 425714
+individual-contributions: 11326503
+contributions-to-committees: 10079000
 ---
 
 <!-- auto:data-panel start -->

@@ -77,6 +77,11 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 11
 epa-states: "CA, FL, MD, RI"
 federal-contracts: 33178
+total-raised: 1024528
+total-spent: 993770
+cash-on-hand: 1004168
+individual-contributions: 1018028
+contributions-to-committees: 993500
 ---
 
 <!-- auto:data-panel start -->

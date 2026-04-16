@@ -49,6 +49,11 @@ lei: IGJSJL3JD5P30I6NJZ34
 lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: 448670
+total-spent: 459826
+cash-on-hand: 1434286
+individual-contributions: 443577
+contributions-to-committees: 458500
 ---
 
 <!-- auto:data-panel start -->

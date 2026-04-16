@@ -16,6 +16,11 @@ epa-facilities: 17
 epa-states: "CA, CO, MA, OH, RI"
 federal-contracts: 8
 federal-awards-total: 222125105
+total-raised: 877331
+total-spent: 852000
+cash-on-hand: 394529
+individual-contributions: 875290
+contributions-to-committees: 817000
 ---
 
 

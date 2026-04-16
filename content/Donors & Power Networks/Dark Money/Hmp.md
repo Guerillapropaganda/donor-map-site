@@ -19,6 +19,12 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 federal-contracts: 2
 federal-awards-total: 58032
+total-raised: 78931093
+total-spent: 30411418
+cash-on-hand: 53604530
+independent-expenditures: 961782
+individual-contributions: 7523667
+contributions-to-committees: 270000
 ---
 
 

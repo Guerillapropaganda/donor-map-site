@@ -41,6 +41,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 3
 epa-states: "CA"
+total-raised: 917
+total-spent: 2027
+cash-on-hand: 63682
+individual-contributions: 917
+contributions-to-committees: 2000
 ---
 
 <!-- auto:data-panel start -->

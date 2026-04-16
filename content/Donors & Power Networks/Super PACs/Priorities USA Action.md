@@ -29,6 +29,9 @@ aliases:
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
+total-raised: 1195754
+total-spent: 1070345
+cash-on-hand: 1038057
 ---
 
 <!-- auto:data-panel start -->

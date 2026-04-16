@@ -49,6 +49,11 @@ total-political-spend: $1,765,636
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+total-raised: 1365720007
+total-spent: 1373643088
+cash-on-hand: 92009349
+individual-contributions: 1332206808
+contributions-to-committees: 1263374389
 ---
 
 <!-- auto:data-panel start -->

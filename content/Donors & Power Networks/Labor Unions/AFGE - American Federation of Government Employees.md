@@ -27,6 +27,7 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 federal-contracts: 1
 federal-awards-total: 10000
+total-spent: 73857
 ---
 
 <!-- auto:data-panel start -->

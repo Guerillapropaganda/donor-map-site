@@ -30,6 +30,11 @@ epa-facilities: 156
 epa-states: "CA"
 federal-contracts: 138
 federal-awards-total: 120514827
+total-raised: 440448
+total-spent: 295005
+cash-on-hand: 291463
+individual-contributions: 440448
+contributions-to-committees: 295005
 ---
 
 <!-- auto:data-panel start -->

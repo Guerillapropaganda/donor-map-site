@@ -46,6 +46,11 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+total-raised: 2119700
+total-spent: 2012354
+cash-on-hand: 602040
+individual-contributions: 2065352
+contributions-to-committees: 1719798
 ---
 
 <!-- auto:data-panel start -->

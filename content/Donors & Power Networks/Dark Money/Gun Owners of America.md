@@ -38,6 +38,11 @@ wikipedia-extract: "Gun Owners of America (GOA) is a gun rights organization in 
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+total-raised: 6752
+total-spent: 5633
+cash-on-hand: 4469
+individual-contributions: 6752
+contributions-to-committees: 1500
 ---
 
 <!-- auto:data-panel start -->

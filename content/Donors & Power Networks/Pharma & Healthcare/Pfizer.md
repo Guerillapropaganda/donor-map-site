@@ -86,6 +86,11 @@ total-assets: 255288291
 epa-facilities: 32
 epa-states: "CA, CT, IL, IN, MA, MO, NC, NJ, NY, OH, PA"
 federal-contracts: 1340
+total-raised: 1008433
+total-spent: 908185
+cash-on-hand: 310652
+individual-contributions: 1007453
+contributions-to-committees: 770600
 ---
 
 <!-- auto:data-panel start -->

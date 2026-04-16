@@ -49,6 +49,11 @@ epa-facilities: 75
 epa-states: "AL, AR, AZ, CA, CO, CT, FL, IN, KS, KY, MA, MD, MI, MS, NH, NJ, NY, PA, RI, TX, VA"
 federal-contracts: 18143
 federal-awards-total: 53187942533
+total-raised: 1682166
+total-spent: 1392268
+cash-on-hand: 3936720
+individual-contributions: 1675666
+contributions-to-committees: 1240500
 ---
 
 <!-- auto:data-panel start -->

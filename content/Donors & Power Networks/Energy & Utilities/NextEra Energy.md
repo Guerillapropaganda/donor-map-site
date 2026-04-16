@@ -73,6 +73,11 @@ politicians-funded: "[[John Thune]]"
 epa-facilities: 9
 epa-states: "CA, FL, ND"
 federal-contracts: 156
+total-raised: 1547821
+total-spent: 1537279
+cash-on-hand: 794988
+individual-contributions: 1532270
+contributions-to-committees: 1210000
 ---
 
 <!-- auto:data-panel start -->

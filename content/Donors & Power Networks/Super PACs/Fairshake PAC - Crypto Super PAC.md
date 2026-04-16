@@ -13,6 +13,11 @@ known-gaps:
   - "No FEC contribution data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+total-raised: 134043372
+total-spent: 26871126
+cash-on-hand: 171416444
+independent-expenditures: 7774301
+individual-contributions: 106202988
 ---
 
 

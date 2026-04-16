@@ -64,6 +64,11 @@ epa-facilities: 18
 epa-states: "CA, FL, LA, MA, MI, MN, NC, NE, PA"
 federal-contracts: 4724
 federal-awards-total: 9006731387
+total-raised: 1615733
+total-spent: 1952206
+cash-on-hand: 423161
+individual-contributions: 1608733
+contributions-to-committees: 1927200
 ---
 
 <!-- auto:data-panel start -->

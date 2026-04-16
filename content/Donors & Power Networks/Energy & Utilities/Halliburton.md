@@ -94,6 +94,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 12
 epa-states: "CA, KS, NH, OK, TX, WY"
+total-raised: 248553
+total-spent: 194788
+cash-on-hand: 309852
+individual-contributions: 247050
+contributions-to-committees: 135000
 ---
 
 <!-- auto:data-panel start -->

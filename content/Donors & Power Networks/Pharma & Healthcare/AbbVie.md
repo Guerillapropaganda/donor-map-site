@@ -58,6 +58,11 @@ politicians-funded: "[[Brett Guthrie]]"
 epa-facilities: 8
 epa-states: "CA, IL, MI, PR"
 federal-contracts: 354
+total-raised: 920792
+total-spent: 760411
+cash-on-hand: 527969
+individual-contributions: 908284
+contributions-to-committees: 516500
 ---
 
 <!-- auto:data-panel start -->

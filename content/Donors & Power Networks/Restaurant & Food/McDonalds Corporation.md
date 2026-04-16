@@ -54,6 +54,11 @@ court-jurisdictions:
   - "District Court, N.D. Oklahoma"
 epa-facilities: 200
 epa-states: "AL, CA, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NV, NY, PA, SC, TN, TX, UT, VA, VT, WA, WI"
+total-raised: 443488
+total-spent: 442887
+cash-on-hand: 364209
+individual-contributions: 435239
+contributions-to-committees: 433500
 ---
 
 <!-- auto:data-panel start -->

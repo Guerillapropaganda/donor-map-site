@@ -41,6 +41,11 @@ cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 12
 epa-states: "CO, LA, MI, NM"
+total-raised: 197006
+total-spent: 124579
+cash-on-hand: 160986
+individual-contributions: 191067
+contributions-to-committees: 91000
 ---
 
 <!-- auto:data-panel start -->

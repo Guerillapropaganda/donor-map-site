@@ -76,6 +76,11 @@ cross-vault-triangulation-count: 21
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 28
 epa-states: "CA, CO, MA, MI, OK, OR, TN, TX"
+total-raised: 285642
+total-spent: 274875
+cash-on-hand: 21591
+individual-contributions: 285642
+contributions-to-committees: 218000
 ---
 
 <!-- auto:data-panel start -->
