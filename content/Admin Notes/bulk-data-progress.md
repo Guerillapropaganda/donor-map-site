@@ -125,11 +125,14 @@ Tracks what bulk CSV/ZIP files have been parsed, what made it into the canonical
 - **What it provides:** Geospatial coordinates for EPA-registered facilities. Mapping use only.
 - **Priority:** LOW
 
-### Congress 118th Bills Status
-- **Files:** `congress-118th-bills-status.zip` (66MB)
-- **What it provides:** Full legislative history (bill status XML) for the 118th Congress. Could cross-reference with donor data to show "donor funded politician → politician voted on bill affecting donor's industry."
-- **Script needed:** XML parser, cross-reference with edge data
-- **Priority:** MEDIUM
+### ~~Congress 118th Bills Status~~
+- **Files:** `congress-118th-bills-status.zip` (66MB, 19,308 XML files)
+- **Script:** `scripts/ingest-congress-bills-bulk.cjs`
+- **Bills parsed:** 19,308
+- **Matched to vault:** 18,633 bills (96.5% match rate via bioguideId)
+- **Written:** `bills-sponsored`, `bills-cosponsored`, `bills-enacted`, `top-policy-area` frontmatter + `<!-- auto:congress-bills -->` auto-blocks on 465 politician profiles. Includes enacted laws list and top policy areas.
+- **Top sponsors:** Andy Biggs (612), Gary Peters (164, 15 enacted), Cory Booker (156), Ted Cruz (142)
+- **Completed:** 2026-04-16
 
 ### NHTSA Investigations
 - **Files:** `nhtsa-investigations-flat.zip` (44MB)
@@ -155,10 +158,10 @@ Tracks what bulk CSV/ZIP files have been parsed, what made it into the canonical
 
 | Status | Files | Rows Parsed | Data Written |
 |---|---|---|---|
-| **Completed** | 30 ZIP files | ~281M rows | 43,711 edges + 945 profiles enriched + 2 screening reports |
-| **Not ingested** | ~8 files | est. ~5M rows | Enforcement, bills, NHTSA, ProPublica FTF |
+| **Completed** | 31 ZIP files | ~281M rows + 19K XMLs | 43,711 edges + 1,410 profiles enriched + 2 screening reports |
+| **Not ingested** | ~5 files | est. ~1M rows | EPA enforcement (not downloaded), NHTSA, ProPublica FTF (2012 only, low value), EPA spatial, USASpending delta |
 | **Not downloaded** | 1 source | unknown | EPA enforcement |
 
 **Total canonical store after ingest:** ~74,000 edges. 100% of monetary edges have real dollar amounts.
 
-**2026-04-16 session:** +258M rows (USASpending grants + FEC individual contributions 2016-2026). 17,853 new edges, 319 profiles enriched.
+**2026-04-16 session:** +258M rows + 19K bill XMLs. 17,853 new edges, 784 profiles enriched (319 employer + 465 politician).
