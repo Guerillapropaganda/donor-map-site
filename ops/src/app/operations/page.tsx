@@ -10,7 +10,7 @@ interface SecurityItem {
   description: string
   status: "done" | "in-progress" | "not-started"
   priority: "critical" | "high" | "medium" | "low"
-  category: "infrastructure" | "application" | "personal" | "monitoring"
+  category: "infrastructure" | "application" | "personal" | "monitoring" | "legal"
   notes: string
   updatedAt: string
 }
@@ -69,6 +69,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   application: "Application",
   personal: "Personal",
   monitoring: "Monitoring",
+  legal: "Legal",
 }
 
 const COST_CATEGORY_COLORS: Record<string, string> = {
@@ -321,7 +322,7 @@ export default function OperationsPage() {
 
           {/* Category filter */}
           <div className="flex gap-1 mb-2 flex-wrap">
-            {["all", "infrastructure", "application", "personal", "monitoring"].map((cat) => (
+            {["all", "infrastructure", "application", "personal", "monitoring", "legal"].map((cat) => (
               <button
                 key={cat}
                 onClick={() => setSecFilter(cat)}
@@ -371,6 +372,7 @@ export default function OperationsPage() {
                   <option value="application">Application</option>
                   <option value="personal">Personal</option>
                   <option value="monitoring">Monitoring</option>
+                  <option value="legal">Legal</option>
                 </select>
               </div>
               <div className="flex gap-2 justify-end">
