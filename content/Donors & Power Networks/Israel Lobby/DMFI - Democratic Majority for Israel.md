@@ -40,7 +40,7 @@ known-gaps:
     IRS 990 auto-block shows 0 filings on record (EIN 833298146, 501c4). Need to
     verify filing status.
   - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
-related: ">- · [[AIPAC and the Progressive Purge]] · [[Sean Casten]] · [[Wesley Bell]] · [[Shontel Brown]] · [[Glenn Ivey]]"
+related: ">- · [[AIPAC and the Progressive Purge]] · [[Sean Casten]] · [[Wesley Bell]] · [[Shontel Brown]] · [[Glenn Ivey]] · [[George Latimer]]"
 opposes: '[[Jamaal Bowman Master Profile]]'
 cross-vault-triangulation-count: 17
 internal-notes: >-

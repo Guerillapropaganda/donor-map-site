@@ -6,7 +6,7 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00786152
 fec-url: https://www.fec.gov/data/committee/C00786152/
-last-updated: "2026-04-15"
+last-updated: 2026-04-16
 source-tier: 1
 fec-ie-support: $6,460,099
 fec-ie-oppose: null
@@ -18,4 +18,5 @@ urls-first-triaged: "2026-04-15"
 total-spent: 90880
 cash-on-hand: 2875
 contributions-to-committees: 75000
+related: "[[Katie Britt]]"
 ---

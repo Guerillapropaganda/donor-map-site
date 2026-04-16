@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00448696
 aliases:
@@ -23,6 +23,7 @@ cash-on-hand: 816283
 independent-expenditures: 1447158
 individual-contributions: 3167195
 contributions-to-committees: 1405974
+related: "[[John Ratcliffe]]"
 ---
 
 ## Auto-Created Stub

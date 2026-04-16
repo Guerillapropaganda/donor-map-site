@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00540203
 aliases:
@@ -26,6 +26,7 @@ total-spent: 1408205
 cash-on-hand: 552026
 independent-expenditures: 135000
 individual-contributions: 1250000
+related: "[[Shelley Moore Capito]]"
 ---
 
 ## Auto-Created Stub

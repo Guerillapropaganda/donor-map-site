@@ -2,10 +2,10 @@
 title: "Trump Crypto - The President as Personal Profiteer"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
-related: "[[Media and Propaganda - Donors and Backers]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[Crypto and Tech - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Emoluments and Self Dealing - Donors and Backers]] · [[World Liberty Financial]] · [[Save America PAC]] · [[Elon Musk]] · [[David Sacks (Donor Network)]]"
+related: "[[Media and Propaganda - Donors and Backers]] · [[The Grift Machine - How Trump Monetized the Presidency]] · [[Crypto and Tech - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile|David Sacks]] · [[_JD Vance Master Profile]] · [[_Jared Kushner Master Profile]] · [[Emoluments and Self Dealing - Donors and Backers]] · [[World Liberty Financial]] · [[Save America PAC]] · [[Elon Musk]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"

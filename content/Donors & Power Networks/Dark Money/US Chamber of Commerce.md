@@ -53,7 +53,7 @@ tax-year: "2023"
 nonprofit-status: 501(c)(6)
 total-revenue: 173949
 total-assets: 231861
-related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Cornyn]]"
+related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Cornyn]] · [[Donald Trump]]"
 federal-register-mentions: 22
 regulatory-agencies:
   - Commerce Department

@@ -2,12 +2,12 @@
 title: "Bill Maher"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]]"
+related: "[[Koch Network - Charles Koch]] · [[John Oliver]] · [[Lex Fridman]] · [[Dave Rubin]] · [[Tucker Carlson]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]]"
 checklist-na:
   - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"

@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00633248
 aliases:
@@ -23,6 +23,7 @@ cash-on-hand: 23719
 independent-expenditures: 529810
 individual-contributions: 378690
 contributions-to-committees: 135500
+related: "[[Lee Zeldin]]"
 ---
 
 ## Auto-Created Stub

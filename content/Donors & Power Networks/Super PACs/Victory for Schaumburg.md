@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00815977
 aliases:
@@ -22,6 +22,7 @@ total-spent: 21211
 cash-on-hand: 39
 independent-expenditures: 6171
 individual-contributions: 21250
+related: "[[Raja Krishnamoorthi]]"
 ---
 
 ## Auto-Created Stub

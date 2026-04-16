@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00346536
 aliases:
@@ -23,6 +23,7 @@ cash-on-hand: 322804
 independent-expenditures: 161385
 individual-contributions: 340561
 contributions-to-committees: 233104
+related: "[[John Thune]]"
 ---
 
 ## Auto-Created Stub

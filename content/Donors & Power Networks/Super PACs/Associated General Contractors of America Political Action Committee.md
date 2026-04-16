@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00082917
 aliases:
@@ -22,6 +22,7 @@ total-spent: 473851
 cash-on-hand: 348040
 individual-contributions: 666109
 contributions-to-committees: 472000
+related: "[[Sam Graves]]"
 ---
 
 ## Auto-Created Stub

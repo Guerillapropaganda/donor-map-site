@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00680983
 aliases:
@@ -19,6 +19,7 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 168411
 independent-expenditures: 99983
+related: "[[Josh Gottheimer]]"
 ---
 
 ## Auto-Created Stub

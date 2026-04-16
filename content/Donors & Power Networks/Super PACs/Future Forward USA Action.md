@@ -22,7 +22,7 @@ court-jurisdictions:
   - "District Court, District of Columbia"
   - "District Court, N.D. Texas"
   - "United States Bankruptcy Court, S.D. Texas"
-related: "[[Senate Majority PAC]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Emilys List]] · [[Club for Growth]] · [[Americans for Prosperity]]"
+related: "[[Senate Majority PAC]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Donor Registry - Master Index]] · [[Master Donor Database]] · [[Senate Leadership Fund]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Priorities USA Action]] · [[MAGA Inc]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Emilys List]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]]"
 nonprofit-status: "501(c)(4)"
 total-revenue: 624582324
 total-assets: 26668352

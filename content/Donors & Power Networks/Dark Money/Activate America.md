@@ -6,7 +6,7 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00640300
 fec-url: https://www.fec.gov/data/committee/C00640300/
-last-updated: "2026-04-15"
+last-updated: 2026-04-16
 source-tier: 1
 fec-ie-support: null
 fec-ie-oppose: $4,333
@@ -20,4 +20,5 @@ total-spent: 987355
 cash-on-hand: 405199
 independent-expenditures: 41445
 individual-contributions: 1120106
+related: "[[Roger Williams]]"
 ---

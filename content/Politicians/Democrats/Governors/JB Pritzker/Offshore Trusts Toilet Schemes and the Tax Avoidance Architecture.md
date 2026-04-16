@@ -2,10 +2,10 @@
 title: "Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: [[_JB Pritzker Master Profile]]
-related: "[[The 323 Million Dollar Self-Funded Governor]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]]"
+related: "[[The 323 Million Dollar Self-Funded Governor]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"

@@ -7,7 +7,7 @@ entity-type: Super PAC
 committee-type: Super PAC (Independent Expenditure-Only)
 committee-id: C00573055
 fec-url: https://www.fec.gov/data/committee/C00573055/
-last-updated: "2026-04-15"
+last-updated: 2026-04-16
 source-tier: 1
 fec-ie-support: $35,391,631
 fec-ie-oppose: "null"
@@ -18,4 +18,5 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-raised: 475
 total-spent: 61697
+related: "[[Chris Christie]]"
 ---

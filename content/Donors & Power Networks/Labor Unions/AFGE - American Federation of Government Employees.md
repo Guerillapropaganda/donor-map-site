@@ -18,7 +18,7 @@ last-enriched: "2026-04-09"
 regulatory-agencies:
   - Homeland Security Department
   - Personnel Management Office
-related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]] · [[Rick Scott]] · [[Kyrsten Sinema]] · [[Tammy Baldwin]]"
+related: "[[Lisa Murkowski]] · [[Tim Scott]] · [[Frank Pallone]] · [[Bobby Scott]] · [[Rick Scott]] · [[Kyrsten Sinema]] · [[Tammy Baldwin]] · [[Gary Peters]]"
 nonprofit-status: tax-exempt
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"

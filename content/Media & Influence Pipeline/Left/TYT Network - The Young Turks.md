@@ -2,12 +2,12 @@
 title: "TYT Network - The Young Turks"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]] · [[Sam Seder]] · [[John Oliver]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Hasan Piker]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Nate Silver]] · [[Matt Taibbi]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]]"
+related: "[[Cenk Uygur]] · [[Ana Kasparian]] · [[Kyle Kulinski]] · [[Jimmy Dore]] · [[David Pakman]] · [[Sam Seder]] · [[John Oliver]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Hasan Piker]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Nate Silver]] · [[Matt Taibbi]] · [[Joe Rogan]] · [[Russell Brand]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Crooked Media]]"
 checklist-na:
   - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"

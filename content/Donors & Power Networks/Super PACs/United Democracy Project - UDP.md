@@ -30,7 +30,7 @@ known-gaps:
     Only 1 Tier 1 source type (FEC). Need second Tier 1 type for verified
     promotion (e.g., Senate LDA if lobbying disclosures exist).
   - 'No IRS 990 data (super PAC, not 501c4, so may not apply)'
-related: "Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Sarah Elfreth]] · [[Melissa Bean]] · [[George Latimer]]"
+related: "Donors and Backers]] · [[Elect Chicago Women Shell PAC Operation]] · · [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]] · [[Israel and Foreign Policy - Donors and Backers]] · [[Sarah Elfreth]] · [[Melissa Bean]] · [[George Latimer]] · [[Illinois House Primaries 2026 - The PAC Laboratory]]"
 cross-vault-triangulation-count: 14
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines

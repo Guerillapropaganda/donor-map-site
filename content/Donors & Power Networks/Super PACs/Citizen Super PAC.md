@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00496927
 aliases:
@@ -18,6 +18,7 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 cash-on-hand: -240
+related: "[[Matt Gaetz]]"
 ---
 
 ## Auto-Created Stub
