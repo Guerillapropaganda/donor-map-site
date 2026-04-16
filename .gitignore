@@ -24,6 +24,9 @@ ops/data/
 # Security scan reports (never commit scan output)
 .security/
 
+# Profile template generator backups (per-profile .before files)
+**/.template-backup/
+
 # Attention dispatcher rotating log
 content/Admin Notes/.attention-dispatcher.log
 content/Admin Notes/.attention-dispatcher.log.1

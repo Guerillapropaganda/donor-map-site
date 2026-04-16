@@ -75,27 +75,6 @@ Born into wealth, not self-made, despite the mythology. Fred Trump's real estate
 
 ---
 
-## The Central Thesis
-
-Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist misconduct who scams in every direction simultaneously, extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
-
-The standard left framing is "Trump serves capital." That's true but incomplete. Trump serves Trump. Capital gets what it wants (tax cuts, deregulation, labor discipline) because capital is willing to pay, and Trump is willing to sell. But Trump is also running side hustles, crypto coins, branded Bibles, NFTs, a media company valued at billions despite generating almost no revenue, that extract directly from his own supporters. He is not an ideological servant of capital. He is a transactional grifter whose interests happen to align with capital's when the price is right.
-
-The fascism is real, the authoritarian consolidation, the movement politics, the scapegoating, the dismantling of institutional checks. But the fascism is also for sale. The people buying it are the billionaire class documented below, and what they're purchasing is not ideology but deregulation, tax protection, and the elimination of the administrative state that constrains their accumulation. The fascism is the delivery mechanism. The product is oligarchy.
-
----
-
-## The Core Contradiction
-
-> [!contradiction]
-> Trump's brand is built on one claim: he fights for the working class against a corrupt elite.
-
-His record is the opposite: the 2017 Tax Cuts and Jobs Act delivered $1.5 trillion in tax cuts overwhelmingly benefiting corporations and the wealthy. His 2024 campaign was funded by six donors who each gave over $100 million. His cabinet is the wealthiest in American history. His administration created DOGE, a billionaire's personal vehicle for dismantling the agencies that regulate his own companies. His personal business ventures extract money directly from his supporters through branded merchandise, crypto scams, and a media company propped up by political loyalty rather than revenue.
-
-The working-class voters who wear the hat get the culture war. The billionaires who write the checks get the policy.
-
----
-
 ## The Donor Class Map, 2024
 
 Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. About 44% came from just 10 megadonors. Small-dollar donations (under $200) collapsed from roughly 50% of his fundraising in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. [Source: OpenSecrets. Tier 1; Brennan Center. Tier 2]
@@ -128,6 +107,14 @@ Trump's 2024 campaign and affiliated groups raised approximately $1.45 billion. 
 **Defense/Surveillance:** Palantir's federal contracts: $4.4M (2009) → $541M (2024) → $970.5M (2025). Nearly doubled in one year of the second Trump term. [[Peter Thiel|Peter Thiel]] co-founded Palantir, backed [[_JD Vance Master Profile|JD Vance]] for Senate, and built the MAGA tech infrastructure. 10-year, $10 billion Army contract. $1.3 billion DoD Project Maven contract. ICE surveillance contract. Thiel notably gave $0 directly to Trump in 2024, he didn't need to. The investment was already made through Vance and the institutional infrastructure. [Source: The Hill. Tier 2; Statista. Tier 2]
 
 ---
+
+## Key Votes
+
+<!-- template:auto:key-votes -->
+<!-- Auto-populated at build time. Top 20 floor votes in current cycle with bill title + outcome + donor alignment. Generated from GovTrack. -->
+_[Auto-generated content will appear here]_
+<!-- template:auto:key-votes:end -->
+
 
 ## The Personal Grift. Trump's Side Hustles
 
@@ -185,6 +172,35 @@ The structural innovation Trump represents is the merger of state power and pers
 
 ---
 
+## The Central Thesis
+
+Trump is not a donor-class Democrat (like Newsom) or a police-class authoritarian (like Bianco). He is something the existing political categories struggle to contain: a billionaire populist misconduct who scams in every direction simultaneously, extracting from the working class through false promises and culture war distraction, extracting from the billionaire class through access-selling and institutional capture, and extracting from the state itself through contracts, deregulation, and direct personal enrichment schemes.
+
+The standard left framing is "Trump serves capital." That's true but incomplete. Trump serves Trump. Capital gets what it wants (tax cuts, deregulation, labor discipline) because capital is willing to pay, and Trump is willing to sell. But Trump is also running side hustles, crypto coins, branded Bibles, NFTs, a media company valued at billions despite generating almost no revenue, that extract directly from his own supporters. He is not an ideological servant of capital. He is a transactional grifter whose interests happen to align with capital's when the price is right.
+
+The fascism is real, the authoritarian consolidation, the movement politics, the scapegoating, the dismantling of institutional checks. But the fascism is also for sale. The people buying it are the billionaire class documented below, and what they're purchasing is not ideology but deregulation, tax protection, and the elimination of the administrative state that constrains their accumulation. The fascism is the delivery mechanism. The product is oligarchy.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Trump's brand is built on one claim: he fights for the working class against a corrupt elite.
+
+His record is the opposite: the 2017 Tax Cuts and Jobs Act delivered $1.5 trillion in tax cuts overwhelmingly benefiting corporations and the wealthy. His 2024 campaign was funded by six donors who each gave over $100 million. His cabinet is the wealthiest in American history. His administration created DOGE, a billionaire's personal vehicle for dismantling the agencies that regulate his own companies. His personal business ventures extract money directly from his supporters through branded merchandise, crypto scams, and a media company propped up by political loyalty rather than revenue.
+
+The working-class voters who wear the hat get the culture war. The billionaires who write the checks get the policy.
+
+---
+
+## Timeline
+
+<!-- template:auto:timeline -->
+<!-- Auto-populated at build time. Reverse-chronological events from data/events.jsonl + FEC cycles + executive actions. -->
+_[Auto-generated content will appear here]_
+<!-- template:auto:timeline:end -->
+
+
 ## Connections to Existing Vault
 
 **Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model, constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
@@ -218,6 +234,7 @@ The structural innovation Trump represents is the merger of state power and pers
 ---
 
 #<!-- auto:executive-orders start -->
+
 ## Executive Orders (Federal Register)
 
 | Document Type | Count |

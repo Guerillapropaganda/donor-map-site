@@ -66,13 +66,13 @@ function getRequiredSections(profileType) {
       : []
 
   return [
-    { pos: 2, canonical: "Who They Are", variants: ["Who They Are", "Bio", "Background", "About"] },
-    { pos: 3, canonical: "The Money", variants: ["The Money", "Money", "Funding"] },
+    { pos: 2, canonical: "Who They Are", variants: ["Who They Are", "Who He Is", "Who She Is", "Who We Are", "Bio", "Biography", "Background", "About"] },
+    { pos: 3, canonical: "The Money", variants: ["The Money", "Money", "Funding", "The Donor Class Map", "The Donors", "Campaign Finance"] },
     { pos: 4, canonical: typeSpecific[0] || "Type-Specific", variants: typeSpecific },
     { pos: 5, canonical: "Class Analysis", variants: ["Class Analysis"] },
-    { pos: 6, canonical: "The Contradictions", variants: ["The Contradictions", "Contradictions"] },
-    { pos: 7, canonical: "Timeline", variants: ["Timeline", "Chronology"] },
-    { pos: 8, canonical: "Related Figures", variants: ["Related Figures", "Related", "Connections"] },
+    { pos: 6, canonical: "The Contradictions", variants: ["The Contradictions", "Contradictions", "The Core Contradiction", "Contradictions + Conflicts"] },
+    { pos: 7, canonical: "Timeline", variants: ["Timeline", "Chronology", "History"] },
+    { pos: 8, canonical: "Related Figures", variants: ["Related Figures", "Related", "Related Profiles", "Connections", "Network"] },
     { pos: 9, canonical: "Sources", variants: ["Sources", "References", "Citations", "Bibliography"] },
   ]
 }
@@ -167,11 +167,24 @@ function validateProfile(filePath, fm, body) {
   const headings = extractH2Headings(body)
   const sections = getRequiredSections(type)
 
+  // Heading matches a variant as exact OR prefix-with-separator
+  // (so "The Donor Class Map, 2024" matches variant "The Donor Class Map")
+  const matchesVariant = (heading, variant) => {
+    const h = heading.toLowerCase().trim()
+    const v = variant.toLowerCase().trim()
+    if (h === v) return true
+    if (h.length > v.length) {
+      const next = h[v.length]
+      if (h.startsWith(v) && (next === "," || next === ":" || next === " " || next === "—" || next === "-" || next === ".")) {
+        return true
+      }
+    }
+    return false
+  }
+
   // Map each required section to the first matching heading
   const sectionPositions = sections.map((s) => {
-    const foundAt = headings.findIndex((h) =>
-      s.variants.some((v) => h.text.toLowerCase() === v.toLowerCase())
-    )
+    const foundAt = headings.findIndex((h) => s.variants.some((v) => matchesVariant(h.text, v)))
     return { ...s, foundAt, found: foundAt >= 0 ? headings[foundAt] : null }
   })
 
