@@ -397,11 +397,50 @@ const ProfileWidget: QuartzComponent = ({
   const fullGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
   const hasMiniGraph = miniGraphNodes.length > 1
 
+  // ── CANVAS GRAPH: Build compact data for the new radial canvas graph ──
+  // Top connections by dollar amount for the mini graph (max 24 for radial layout)
+  const MAX_GRAPH_NODES = 24
+  const graphConnections: { name: string; amount: number; type: "money" | "contract" | "opposition" | "related"; slug: string }[] = []
+
+  // Add monetary connections (sorted by amount)
+  for (const d of [...(monetaryDetail || [])].sort((a, b) => b.amount - a.amount)) {
+    if (d.confidence < 0.7) continue
+    if (graphConnections.some(g => g.name === d.name)) continue
+    const info = donorInfo.get(d.name)
+    graphConnections.push({ name: d.name, amount: d.amount, type: "money", slug: info?.slug || "" })
+    if (graphConnections.length >= MAX_GRAPH_NODES) break
+  }
+
+  // Add contract connections
+  if (graphConnections.length < MAX_GRAPH_NODES) {
+    for (const d of [...(contractDetail || [])].sort((a, b) => b.amount - a.amount)) {
+      if (graphConnections.some(g => g.name === d.name)) continue
+      graphConnections.push({ name: d.name, amount: d.amount, type: "contract", slug: "" })
+      if (graphConnections.length >= MAX_GRAPH_NODES) break
+    }
+  }
+
+  // Add opposition
+  if (graphConnections.length < MAX_GRAPH_NODES) {
+    for (const name of (rels?.opposes ?? [])) {
+      if (graphConnections.some(g => g.name === name)) continue
+      graphConnections.push({ name, amount: 0, type: "opposition", slug: "" })
+      if (graphConnections.length >= MAX_GRAPH_NODES) break
+    }
+  }
+
+  const canvasGraphData = JSON.stringify({
+    center: { name: currentTitle, type: fmType, party },
+    connections: graphConnections,
+    totalConnections: (monetaryDetail?.length || 0) + (contractDetail?.length || 0) + (rels?.opposes?.length || 0),
+  })
+  const hasCanvasGraph = graphConnections.length > 0
+
   return (
     <div class={classNames(displayClass, "pw-widget")}>
       {/* Tabs */}
       <div class="pw-tabs">
-        {hasMiniGraph && <button class="pw-tab pw-tab-active" data-tab="graph">Graph</button>}
+        {(hasCanvasGraph || hasMiniGraph) && <button class="pw-tab pw-tab-active" data-tab="graph">Graph</button>}
         {topDonors.length > 0 && (
           <button class={`pw-tab ${hasMiniGraph ? "" : "pw-tab-active"}`} data-tab="flow">
             {isPolitician ? "Donors" : "Connections"}
@@ -412,11 +451,23 @@ const ProfileWidget: QuartzComponent = ({
         {hasNetwork && <button class="pw-tab" data-tab="network">Reach</button>}
       </div>
 
-      {/* Tab: Graph — Mini force-directed graph (first tab) */}
-      {hasMiniGraph && (
+      {/* Tab: Graph — Canvas radial graph (first tab) */}
+      {hasCanvasGraph && (
         <div class="pw-panel pw-panel-active" data-panel="graph">
+          <div class="pw-canvas-graph" data-canvas-graph={canvasGraphData}>
+            <canvas width="600" height="520"></canvas>
+          </div>
+          {graphConnections.length < (monetaryDetail?.length || 0) + (contractDetail?.length || 0) && (
+            <div class="pw-graph-overflow">
+              Showing top {graphConnections.length} of {(monetaryDetail?.length || 0) + (contractDetail?.length || 0)} connections by dollar amount
+            </div>
+          )}
+        </div>
+      )}
+      {/* Legacy SVG graph fallback for profiles without monetary data */}
+      {!hasCanvasGraph && hasMiniGraph && (
+        <div class={`pw-panel ${hasCanvasGraph ? "" : "pw-panel-active"}`} data-panel="graph">
           <div class="pw-mini-graph" data-graph={compactGraphData} data-full-graph={fullGraphData}></div>
-          {/* Full Screen button is added dynamically by networkGraph.inline.ts */}
         </div>
       )}
 
@@ -556,6 +607,223 @@ function initProfileWidget() {
   if (typeof window.initMiniGraph === 'function') {
     setTimeout(window.initMiniGraph, 100);
   }
+
+  // ── Canvas Radial Graph ──
+  initCanvasGraph();
+}
+
+function initCanvasGraph() {
+  var container = document.querySelector('.pw-canvas-graph');
+  if (!container) return;
+  var canvas = container.querySelector('canvas');
+  if (!canvas) return;
+  var raw = container.getAttribute('data-canvas-graph');
+  if (!raw) return;
+
+  var data;
+  try { data = JSON.parse(raw); } catch(e) { return; }
+
+  var ctx = canvas.getContext('2d');
+  if (!ctx) return;
+
+  var dpr = window.devicePixelRatio || 1;
+  var cssW = container.clientWidth || 300;
+  var cssH = 260;
+  canvas.width = cssW * dpr;
+  canvas.height = cssH * dpr;
+  canvas.style.width = cssW + 'px';
+  canvas.style.height = cssH + 'px';
+  ctx.scale(dpr, dpr);
+
+  var cx = cssW / 2;
+  var cy = cssH / 2;
+  var conns = data.connections || [];
+  var center = data.center || {};
+
+  // Color scheme
+  var TYPE_COLORS = { money: '#16a34a', contract: '#3b82f6', opposition: '#e63946', related: '#a855f7' };
+  var PARTY_COLORS = { Democrat: '#3b82f6', Republican: '#e63946' };
+  var centerColor = PARTY_COLORS[center.party] || '#fbbf24';
+
+  // Node sizing: log scale of dollar amount
+  var maxAmt = 1;
+  for (var i = 0; i < conns.length; i++) { if (conns[i].amount > maxAmt) maxAmt = conns[i].amount; }
+
+  function nodeRadius(amt) {
+    if (amt <= 0) return 5;
+    var logMax = Math.log10(maxAmt + 1);
+    var logAmt = Math.log10(amt + 1);
+    return 5 + (logAmt / logMax) * 18;
+  }
+
+  function formatAmt(n) {
+    if (n >= 1e9) return '$' + (n / 1e9).toFixed(1) + 'B';
+    if (n >= 1e6) return '$' + (n / 1e6).toFixed(1) + 'M';
+    if (n >= 1e3) return '$' + Math.round(n / 1e3) + 'K';
+    if (n > 0) return '$' + n;
+    return '';
+  }
+
+  function truncName(name, maxLen) {
+    if (name.length <= maxLen) return name;
+    return name.slice(0, maxLen - 2) + '..';
+  }
+
+  // Background
+  ctx.fillStyle = '#0a0a0a';
+  ctx.fillRect(0, 0, cssW, cssH);
+
+  // Layout: radial — connections placed in a circle around center
+  var n = conns.length;
+  var ringRadius = Math.min(cssW, cssH) * 0.34;
+  var positions = [];
+
+  for (var i = 0; i < n; i++) {
+    var angle = (2 * Math.PI * i / n) - Math.PI / 2;
+    var r = nodeRadius(conns[i].amount);
+    var px = cx + ringRadius * Math.cos(angle);
+    var py = cy + ringRadius * Math.sin(angle);
+    positions.push({ x: px, y: py, r: r, conn: conns[i] });
+  }
+
+  // Draw edges (lines from center to each node)
+  for (var i = 0; i < positions.length; i++) {
+    var p = positions[i];
+    var edgeColor = TYPE_COLORS[p.conn.type] || '#555';
+    ctx.beginPath();
+    ctx.moveTo(cx, cy);
+    ctx.lineTo(p.x, p.y);
+    ctx.strokeStyle = edgeColor;
+    ctx.globalAlpha = 0.3;
+    ctx.lineWidth = Math.max(1, p.r / 8);
+    if (p.conn.type === 'opposition') {
+      ctx.setLineDash([4, 3]);
+    } else {
+      ctx.setLineDash([]);
+    }
+    ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.globalAlpha = 1;
+  }
+
+  // Draw connection nodes
+  for (var i = 0; i < positions.length; i++) {
+    var p = positions[i];
+    var color = TYPE_COLORS[p.conn.type] || '#fbbf24';
+
+    // Node circle
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, p.r, 0, 2 * Math.PI);
+    ctx.fillStyle = color;
+    ctx.globalAlpha = 0.85;
+    ctx.fill();
+    ctx.globalAlpha = 1;
+
+    // Border
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, p.r, 0, 2 * Math.PI);
+    ctx.strokeStyle = color;
+    ctx.lineWidth = 1.5;
+    ctx.globalAlpha = 0.4;
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+
+    // Label (only for nodes large enough)
+    if (p.r >= 8) {
+      var label = truncName(p.conn.name, 16);
+      ctx.font = '9px "Space Mono", monospace';
+      ctx.fillStyle = '#ccc';
+      ctx.textAlign = 'center';
+      ctx.fillText(label, p.x, p.y + p.r + 11);
+    }
+
+    // Amount label (only for top nodes)
+    if (p.conn.amount > 0 && p.r >= 10) {
+      ctx.font = 'bold 8px "Space Mono", monospace';
+      ctx.fillStyle = color;
+      ctx.textAlign = 'center';
+      ctx.fillText(formatAmt(p.conn.amount), p.x, p.y + p.r + 20);
+    }
+  }
+
+  // Draw center node (the profile itself)
+  var centerR = 16;
+  ctx.beginPath();
+  ctx.arc(cx, cy, centerR, 0, 2 * Math.PI);
+  ctx.fillStyle = centerColor;
+  ctx.globalAlpha = 0.95;
+  ctx.fill();
+  ctx.globalAlpha = 1;
+
+  // Center border
+  ctx.beginPath();
+  ctx.arc(cx, cy, centerR + 2, 0, 2 * Math.PI);
+  ctx.strokeStyle = centerColor;
+  ctx.lineWidth = 2;
+  ctx.globalAlpha = 0.3;
+  ctx.stroke();
+  ctx.globalAlpha = 1;
+
+  // Center label
+  ctx.font = 'bold 10px "Space Mono", monospace';
+  ctx.fillStyle = '#fff';
+  ctx.textAlign = 'center';
+  var centerLabel = truncName(center.name || '', 14);
+  ctx.fillText(centerLabel, cx, cy + 3);
+
+  // Legend
+  var legendY = cssH - 14;
+  var legendItems = [
+    { label: 'Funded', color: TYPE_COLORS.money },
+    { label: 'Contracts', color: TYPE_COLORS.contract },
+    { label: 'Opposes', color: TYPE_COLORS.opposition },
+  ];
+  var legendX = 8;
+  ctx.font = '8px "Space Mono", monospace';
+  for (var i = 0; i < legendItems.length; i++) {
+    ctx.fillStyle = legendItems[i].color;
+    ctx.fillRect(legendX, legendY - 6, 8, 8);
+    ctx.fillStyle = '#888';
+    ctx.textAlign = 'left';
+    ctx.fillText(legendItems[i].label, legendX + 11, legendY + 1);
+    legendX += ctx.measureText(legendItems[i].label).width + 20;
+  }
+
+  // Hover + click handling
+  canvas.addEventListener('mousemove', function(e) {
+    var rect = canvas.getBoundingClientRect();
+    var mx = (e.clientX - rect.left);
+    var my = (e.clientY - rect.top);
+    var hovered = false;
+    for (var i = 0; i < positions.length; i++) {
+      var p = positions[i];
+      var dist = Math.sqrt(Math.pow(mx - p.x, 2) + Math.pow(my - p.y, 2));
+      if (dist <= p.r + 4) {
+        canvas.style.cursor = p.conn.slug ? 'pointer' : 'default';
+        canvas.title = p.conn.name + (p.conn.amount > 0 ? ' — ' + formatAmt(p.conn.amount) : '');
+        hovered = true;
+        break;
+      }
+    }
+    if (!hovered) {
+      canvas.style.cursor = 'default';
+      canvas.title = '';
+    }
+  });
+
+  canvas.addEventListener('click', function(e) {
+    var rect = canvas.getBoundingClientRect();
+    var mx = (e.clientX - rect.left);
+    var my = (e.clientY - rect.top);
+    for (var i = 0; i < positions.length; i++) {
+      var p = positions[i];
+      var dist = Math.sqrt(Math.pow(mx - p.x, 2) + Math.pow(my - p.y, 2));
+      if (dist <= p.r + 4 && p.conn.slug) {
+        window.location.href = '/' + p.conn.slug;
+        break;
+      }
+    }
+  });
 }
 
 initProfileWidget();
@@ -820,7 +1088,35 @@ a.pw-bs-recip:hover {
   flex-shrink: 0;
 }
 
-/* ─── Mini Graph tab ────────────────────────── */
+/* ─── Canvas Graph tab ─────────────────────── */
+
+.pw-canvas-graph {
+  width: 100%;
+  height: 260px;
+  background: #0a0a0a;
+  border-radius: 0;
+  position: relative;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}
+
+.pw-canvas-graph canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.pw-graph-overflow {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  color: #8a8a96;
+  text-align: center;
+  padding: 6px 8px;
+  border-bottom: 1px solid #ddd;
+  background: #f5f0eb;
+}
+
+/* ─── Legacy Mini Graph tab ────────────────── */
 
 .pw-mini-graph {
   width: 100%;
