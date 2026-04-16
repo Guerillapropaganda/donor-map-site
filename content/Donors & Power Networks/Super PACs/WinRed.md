@@ -19,7 +19,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 regulatory-agencies:
   - "Federal Election Commission"
-related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]] · [[National Republican Senatorial Committee]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Emilys List]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Majority Forward]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
+related: "[[Trump Victory]] · [[The Culture War Economy and Small Dollar Fundraising]] · [[ActBlue]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]] · [[National Republican Senatorial Committee]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Emilys List]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Majority Forward]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[DonorsTrust]]"
 sec-filings: 2
 sec-form-types:
   - "10-K"

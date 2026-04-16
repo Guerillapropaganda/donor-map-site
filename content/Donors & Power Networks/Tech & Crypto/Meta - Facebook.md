@@ -400,6 +400,7 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 |--------|-------|
 | Politicians Funded | 1 |
 | Active Lobbyist | Yes |
+| Federal Contractor | Yes |
 | Committee Overlap Detected | 1 politician |
 
 **Lobby → Donate → Committee chains:**
@@ -409,9 +410,9 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 
 **Funded politicians:**
 
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $36.5M
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $36.5M — contracts: $1
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### EPA Facility Registry

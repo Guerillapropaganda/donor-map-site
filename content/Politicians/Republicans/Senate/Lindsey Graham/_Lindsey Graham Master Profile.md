@@ -228,3 +228,14 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 - [Defense News: Senate passes Ukraine, Israel, Taiwan aid amid Trump-fueled opposition](https://www.defensenews.com/congress/2024/02/13/senate-passes-ukraine-israel-taiwan-aid-amid-trump-fueled-opposition/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Lindsey Graham](https://ballotpedia.org/Lindsey_Graham) (Tier 3) (VERIFIED)
 
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | None |
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

@@ -23,7 +23,7 @@ sec-form-types:
   - "N-CSR/A"
   - "N-CSRS"
   - "PX14A6G"
-related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Emilys List]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[DSCC - Democratic Senatorial Campaign Committee]]"
+related: "[[WinRed]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile|Trump]] · [[Save America PAC]] · [[MAGA Inc]] · [[National Rifle Association]] · [[Trump 2024 Campaign]] · [[Fairshake PAC]] · [[Preserve America]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Emilys List]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Majority Forward]]"
 cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

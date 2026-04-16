@@ -271,7 +271,8 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
+| Donors Who Also Lobby | 2 of 3 |
+| Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
@@ -279,7 +280,7 @@ Detailed sourcing is in each sub-note. Key sources for the master profile:
 - [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
 - [[Blue Shield of California]] — $3.8M lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### DOJ Press Releases

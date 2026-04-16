@@ -271,8 +271,8 @@ The genuine wins are real and should not be dismissed. Universal transitional ki
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 2 of 3 |
-| Donors With Federal Contracts | 1 |
+| Donors Who Also Lobby | 2 of 4 |
+| Donors With Federal Contracts | 2 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
@@ -280,7 +280,7 @@ The genuine wins are real and should not be dismissed. Universal transitional ki
 - [[UnitedHealth Group - Optum]] — $25.1M lobbying spend (Banking, Budget/Appropriations, Defense)
 - [[Blue Shield of California]] — $3.8M lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

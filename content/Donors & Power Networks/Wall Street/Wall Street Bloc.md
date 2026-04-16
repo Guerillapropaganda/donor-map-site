@@ -95,5 +95,5 @@ See [[Financial Services Donors]], [[Securities & Investment Industry]], and [[G
 
 - [[Kyrsten Sinema]] — lobbying: $1.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->

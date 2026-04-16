@@ -7,7 +7,7 @@ last-updated: 2026-04-16
 aliases:
   - "Marc Andreessen and a16z"
 urls-first-triaged: "2026-04-15"
-related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lex Fridman]] · [[Bari Weiss]]"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Lex Fridman]] · [[Bari Weiss]] · [[Matt Taibbi]]"
 ---
 
 # Marc Andreessen and a16z

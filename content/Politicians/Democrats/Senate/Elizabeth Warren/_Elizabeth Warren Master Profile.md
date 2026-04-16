@@ -46,7 +46,7 @@ known-gaps:
   - GovTrack voting record not yet populated (awaits pipeline run)
   - CFPB dismantlement timeline under Trump II needs complete cataloging (partially documented)
   - Wealth tax proposal votes and co-sponsor retreat pattern needs full enumeration
-related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]] · [[The Warren Pipeline - Consumer Protection to Governor]] · [[Fairshake and the Crypto Industry War]] · [[Bernie Sanders]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[Medicare for All - The Policy That Broke the Party]] · [[Zach Wahls]]"
+related: ">- · [[DOGE - The Billionaires Government]] · [[Katie Porter Master Profile]] · [[The Warren Pipeline - Consumer Protection to Governor]] · [[Fairshake and the Crypto Industry War]] · [[Bernie Sanders]] · [[The Anti-Donor Model - Two Presidential Campaigns]] · [[Medicare for All - The Policy That Broke the Party]] · [[Zach Wahls]] · [[Mallory McMorrow Master Profile]]"
 opposes: "[[_Donald Trump Master Profile]] · [[Fairshake PAC]] · [[Kenneth Griffin]] · [[Crypto Industry Bloc]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude

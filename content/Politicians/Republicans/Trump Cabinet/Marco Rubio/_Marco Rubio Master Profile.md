@@ -191,13 +191,14 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 | Metric | Value |
 |--------|-------|
 | Donors Who Also Lobby | 1 of 2 |
+| Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
 **Donors who lobby (by spend):**
 
-- [[MasTec - Mas Canosa Family]] — $180K lobbying spend (Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil)
+- [[MasTec - Mas Canosa Family]] — $180K lobbying spend (Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil) + $6 in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

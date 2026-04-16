@@ -9,7 +9,7 @@ sector: "Foreign Influence"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]] · [[California Charter Schools Association]] · [[Trump Donor Coalition]] · [[Entertainment and Hollywood Donors]] · [[Western Growers Association]]"
+related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]] · [[California Charter Schools Association]] · [[Trump Donor Coalition]] · [[Entertainment and Hollywood Donors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

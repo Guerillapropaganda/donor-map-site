@@ -245,3 +245,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Congress.gov: Mike Rogers](https://www.congress.gov/member/mike-rogers/R000575)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Project on Government Oversight: Representatives Too Invested in Defense Contractors](https://www.pogo.org/analyses/representatives-are-too-invested-in-defense-contractors)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Axios Huntsville: Why Redstone Arsenal was chosen for Space Command HQ](https://www.axios.com/local/huntsville/2025/09/02/redstone-arsenal-space-command-huntsville-alabama-colorado-air-force)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

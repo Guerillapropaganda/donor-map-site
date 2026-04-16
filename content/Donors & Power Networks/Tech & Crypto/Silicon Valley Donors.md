@@ -200,7 +200,7 @@ Third, **preemption of democratic governance.** The December 2025 executive orde
 
 - [[Mark Warner]] (Intelligence) — lobbying: $1.3M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

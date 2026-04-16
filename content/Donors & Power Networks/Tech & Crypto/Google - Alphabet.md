@@ -541,3 +541,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[New York Times: Google's academic funding and the New America incident (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2) (Chrome-verified)
 - ~~[New York Times: Google academic funding and New America (2017)](https://www.nytimes.com/2017/08/30/us/politics/eric-schmidt-google-new-america.html)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Google%20-%20Alphabet%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 2 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — contracts: $9
+- [[Barack Obama]] — contracts: $9
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

@@ -21,7 +21,7 @@ shareable-stat: $2.9M donated. $1.9T in tax cuts. 655,172x return.
 issues:
   - Dark Money & Campaign Finance
   - Energy & Climate
-related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Kentucky Inc - Coal Tobacco Bourbon and Pharma]] · [[The Finance Committee and Tax Industry Alignment]] · [[Josh Hawley Master Profile]] · [[Dark Money and the 2018 Missouri Machine]] · [[Joni Ernst Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Bill Cassidy Master Profile]] · [[Tim Scott]] · [[Mike Crapo]] · [[John Cornyn]] · [[Doug Collins]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[The NLRB Gutting and the Biggest Union Bust in American History]]"
+related: "[[The Manchin-Sinema Donor-Class Veto - How Two Senators Killed a Majority]] · [[Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[The Stolen Seat and the McConnell-Leo Pipeline]] · [[The Gorsuch Deregulation Record and the Family Pipeline]] · [[John Roberts Master Profile]] · [[Shelby County and the Donor-Class Voter Suppression Strategy]] · [[Citizens United and the Architecture of Unlimited Political Money]] · [[Clarence Thomas Master Profile]] · [[The Koch-Leo-Crow Triangle and Donor Summit Access]] · [[The Koch Network and Concerned Veterans for America]] · [[Fox News to Pentagon - The Media-Military Pipeline]] · [[Mike Pompeo Master Profile]] · [[The Koch Pipeline - From Kansas to Foggy Bottom to the Boardroom]] · [[Lee Zeldin Master Profile]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[Doug Burgum Master Profile]] · [[Chris Wright Master Profile]] · [[The Koch Network Pipeline and Climate Denial as Policy]] · [[Thom Tillis Master Profile]] · [[Ted Cruz Master Profile]] · [[Oil Gas and the Texas Energy Donor Base]] · [[_Donald Trump Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Nikki Haley Master Profile|Nikki Haley]] · [[Peter Thiel]] · [[Elon Musk]] · [[Jeff Yass]] · [[Richard and Elizabeth Uihlein|Richard Uihlein]] · [[Miriam Adelson]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[CCPOA - California Correctional Peace Officers Association]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[California Labor Federation]] · [[Fossil Fuel Bloc]] · [[Chevron]] · [[WSPA - Western States Petroleum Association]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[California Building and Construction Trades Council]] · [[DOGE - The Billionaires Government]] · [[2017 Tax Cuts - The $1.5 Trillion Receipt]] · [[Rand Paul Master Profile]] · [[The Libertarian Brand and the Koch Network Reality]] · [[Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[Kentucky Inc - Coal Tobacco Bourbon and Pharma]] · [[The Finance Committee and Tax Industry Alignment]] · [[Josh Hawley Master Profile]] · [[Dark Money and the 2018 Missouri Machine]] · [[Joni Ernst Master Profile]] · [[The Agriculture-Defense Dual Donor Axis]] · [[The Agribusiness Senator and the Family Farm Myth]] · [[Ernst Campaign Finance Research - Verified Dates and Amounts]] · [[The Judiciary-Agriculture Dual Pipeline]] · [[Bill Cassidy Master Profile]] · [[Tim Scott]] · [[Mike Crapo]] · [[John Cornyn]] · [[Doug Collins]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[The NLRB Gutting and the Biggest Union Bust in American History]] · [[Three Justices in Four Years - The Leonard Leo Investment and Its Returns]]"
 lobbying-spend: 21285000
 lobbying-filings: 55
 cross-vault-triangulation-count: 32
@@ -1060,6 +1060,7 @@ This architecture allows the Koch Network to:
 |--------|-------|
 | Politicians Funded | 20 |
 | Active Lobbyist | Yes |
+| Federal Contractor | Yes |
 | Committee Overlap Detected | 9 politicians |
 
 **Lobby → Donate → Committee chains:**
@@ -1082,28 +1083,28 @@ This architecture allows the Koch Network to:
 
 **Funded politicians:**
 
-- [[Nikki Haley]] — lobbying: $21.3M
-- [[Ron DeSantis]] — lobbying: $21.3M
-- [[Jim Jordan]] (Judiciary) — lobbying: $21.3M
-- [[Bill Cassidy]] — lobbying: $21.3M
-- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $21.3M
-- [[Joni Ernst]] (Agriculture) — lobbying: $21.3M
-- [[Mike Crapo]] (Finance) — lobbying: $21.3M
-- [[Mitch McConnell]] — lobbying: $21.3M
-- [[Rand Paul]] — lobbying: $21.3M
-- [[Ted Cruz]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Foreign Relations, Senate Committee on Rules and Administration) — lobbying: $21.3M
-- [[Thom Tillis]] — lobbying: $21.3M
-- [[Tim Scott]] — lobbying: $21.3M
-- [[Clarence Thomas]] — lobbying: $21.3M
-- [[Samuel Alito]] — lobbying: $21.3M
-- [[Bryan Steil]] — lobbying: $21.3M
-- [[John Boehner]] (Finance) — lobbying: $21.3M
-- [[Paul Ryan]] (Finance) — lobbying: $21.3M
-- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $21.3M
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $21.3M
-- [[Pete Hegseth]] — lobbying: $21.3M
+- [[Nikki Haley]] — lobbying: $21.3M — contracts: $17
+- [[Ron DeSantis]] — lobbying: $21.3M — contracts: $17
+- [[Jim Jordan]] (Judiciary) — lobbying: $21.3M — contracts: $17
+- [[Bill Cassidy]] — lobbying: $21.3M — contracts: $17
+- [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $21.3M — contracts: $17
+- [[Joni Ernst]] (Agriculture) — lobbying: $21.3M — contracts: $17
+- [[Mike Crapo]] (Finance) — lobbying: $21.3M — contracts: $17
+- [[Mitch McConnell]] — lobbying: $21.3M — contracts: $17
+- [[Rand Paul]] — lobbying: $21.3M — contracts: $17
+- [[Ted Cruz]] (Senate Committee on Commerce, Science, and Transportation, Senate Committee on Foreign Relations, Senate Committee on Rules and Administration) — lobbying: $21.3M — contracts: $17
+- [[Thom Tillis]] — lobbying: $21.3M — contracts: $17
+- [[Tim Scott]] — lobbying: $21.3M — contracts: $17
+- [[Clarence Thomas]] — lobbying: $21.3M — contracts: $17
+- [[Samuel Alito]] — lobbying: $21.3M — contracts: $17
+- [[Bryan Steil]] — lobbying: $21.3M — contracts: $17
+- [[John Boehner]] (Finance) — lobbying: $21.3M — contracts: $17
+- [[Paul Ryan]] (Finance) — lobbying: $21.3M — contracts: $17
+- [[Jerry Moran]] (Veterans' Affairs, Agriculture) — lobbying: $21.3M — contracts: $17
+- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $21.3M — contracts: $17
+- [[Pete Hegseth]] — lobbying: $21.3M — contracts: $17
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### Federal Contracts (USASpending)

@@ -387,3 +387,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Congress.gov: Tammy Duckworth member profile](https://www.congress.gov/member/tammy-duckworth/D000622)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: Congress.gov](https://www.congress.gov/member/D000622)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 2 |
+| Donors With Federal Contracts | 2 |
+| Committee Overlap Detected | 2 donors |
+
+**Donate → Lobby → Committee chains:**
+
+- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+- **General Dynamics** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

@@ -231,13 +231,14 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 3 of 3 |
+| Donors Who Also Lobby | 3 of 4 |
+| Donors With Federal Contracts | 3 |
 | Committee Overlap Detected | 3 donors |
 
 **Donate → Lobby → Committee chains:**
@@ -258,10 +259,10 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 **Donors who lobby (by spend):**
 
 - [[Amazon]] — $42.1M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
-- [[Meta - Facebook]] — $36.5M lobbying spend (Automotive Industry, Aviation/Airlines/Airports, Banking)
-- [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
+- [[Meta - Facebook]] — $36.5M lobbying spend (Automotive Industry, Aviation/Airlines/Airports, Banking) + $1 in contracts
+- [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking) + $15 in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

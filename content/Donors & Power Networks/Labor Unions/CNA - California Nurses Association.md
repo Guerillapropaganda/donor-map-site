@@ -247,3 +247,20 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/940362060/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/940362060)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Politicians Funded | 3 |
+| Federal Contractor | Yes |
+| Committee Overlap Detected | None |
+
+**Funded politicians:**
+
+- [[Gavin Newsom]] — contracts: $6
+- [[Kamala Harris]] — contracts: $6
+- [[Tom Steyer]] — contracts: $6
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

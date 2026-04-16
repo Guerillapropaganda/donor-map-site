@@ -20,7 +20,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Jon Ossoff]] · [[Sherrod Brown]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[2026-03-26 Finance Research]] · [[Steve Witkoff]]"
+related: "[[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[Elon Musk]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[The 2024 Tech Billionaire Network]] · [[Bernie Moreno]] · [[The Billionaire Cabinet - Wealthiest Administration in History]] · [[Jon Ossoff]] · [[Sherrod Brown]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[2026-03-26 Finance Research]] · [[Steve Witkoff]] · [[Trump Crypto - The President as Personal Profiteer]]"
 donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andreessen & Horowitz]] · [[Peter Thiel]] · [[Narya Capital]] · [[Trump 2024 Campaign]] · [[Craft Ventures]] · [[Elon Musk]] · [[Crypto Industry Bloc]] · [[Founders Fund]] · [[Palantir Technologies]]"
 ---
 
@@ -175,7 +175,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -189,7 +189,7 @@ Born May 25, 1972, South Africa. All three PayPal Mafia principals (Thiel, Sacks
 - [[Peter Thiel]] — $1.7M lobbying spend
 - [[Craft Ventures]] — $1.7M lobbying spend (Alcohol and Drug Abuse, Beverage Industry, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

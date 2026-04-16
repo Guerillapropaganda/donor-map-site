@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]] · [[Aaron Bean]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: 501(c)(4)
@@ -48,7 +48,7 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Brady_Campaign"
 wikipedia-extract: "Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence."
 federal-register-mentions: 1
 regulatory-agencies:
-  - Federal Election Commission
+  - "Federal Election Commission"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -449,7 +449,7 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-15 -->
+<!-- auto:federal-register pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

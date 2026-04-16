@@ -305,14 +305,14 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
+<!-- auto:voting-record pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
-| 2026-04-15 | On Agreeing to the Resolution: H RES 1174 Providing for consideration of the bills (H.R. 6387, H.R. 6398, and H.R. 6409) | **No** | Passed |
-| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
+| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
@@ -329,7 +329,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 **Sources**
 
-- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/g000594) (Tier 1)
+- [Congress.gov: Ayanna Pressley](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Ayanna Pressley](https://www.govtrack.us/congress/members/412782) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

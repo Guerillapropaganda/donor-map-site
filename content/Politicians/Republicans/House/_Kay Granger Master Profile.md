@@ -283,3 +283,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Read Sludge: Kay Granger and Lockheed Martin ties](https://read-sludge.myopengov.com/politicians/kay-granger)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Congress.gov: House Appropriations Committee](https://www.congress.gov/committee/house-appropriations/hsap00)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

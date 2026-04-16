@@ -264,7 +264,7 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 - [[American Federation for Children]] — $3.1M lobbying spend (Aerospace, Agriculture, Animals)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

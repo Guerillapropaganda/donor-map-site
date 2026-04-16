@@ -241,11 +241,11 @@ Her committee position turned her funded-by relationship into actual regulatory 
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 0 of 2 |
-| Donors With Federal Contracts | 1 |
+| Donors Who Also Lobby | 0 of 3 |
+| Donors With Federal Contracts | 3 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ## Archived

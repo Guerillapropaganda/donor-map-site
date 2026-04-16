@@ -7,7 +7,7 @@ last-updated: 2026-04-16
 aliases:
   - "Blackstone Real Estate Political Operation"
 urls-first-triaged: "2026-04-15"
-related: "[[Carlyle Group]] · [[Blackstone Group]] · [[Real Estate Industry Bloc]]"
+related: "[[Carlyle Group]] · [[Blackstone Group]] · [[Real Estate Industry Bloc]] · [[Kenneth Griffin]]"
 ---
 
 # Blackstone Real Estate Political Operation

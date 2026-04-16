@@ -57,7 +57,7 @@ regulatory-agencies:
   - Justice Department
   - Labor Department
   - National Labor Relations Board
-related: ">- · [[The Real Estate President and the Fair Housing Demolition]] · [[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]] · [[Lennar Corporation]] · [[Invitation Homes - Institutional Landlords]]"
+related: ">- · [[The Real Estate President and the Fair Housing Demolition]] · [[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom]] · [[Real Estate Industry Bloc]] · [[Real Estate Board of New York]] · [[Lennar Corporation]] · [[Invitation Homes - Institutional Landlords]] · [[CBRE Group]]"
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:
@@ -451,7 +451,7 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 
 - [[Gavin Newsom]] — contracts: $2.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

@@ -314,21 +314,22 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 | Metric | Value |
 |--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
+| Donors Who Also Lobby | 0 of 2 |
+| Donors With Federal Contracts | 2 |
+| Committee Overlap Detected | 2 donors |
 
 **Donate → Lobby → Committee chains:**
 
 - **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
+- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
@@ -500,14 +501,14 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
+<!-- auto:voting-record pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
-| 2026-04-15 | On Agreeing to the Resolution: H RES 1174 Providing for consideration of the bills (H.R. 6387, H.R. 6398, and H.R. 6409) | **No** | Passed |
-| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collision prevention technology, to improve hel | **Yea** | Passed |
+| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
+| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
 | 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
 | 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
@@ -524,7 +525,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 **Sources**
 
-- [Congress.gov: Adam Smith](https://www.congress.gov/member/g000594) (Tier 1)
+- [Congress.gov: Adam Smith](https://www.congress.gov/member/f000485) (Tier 1)
 - [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->

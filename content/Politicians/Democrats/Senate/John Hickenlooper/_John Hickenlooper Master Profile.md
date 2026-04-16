@@ -476,3 +476,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: Congress.gov](https://www.congress.gov/member/H000273)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: John Hickenlooper](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **American Petroleum Institute** donates → Lobbies on **Energy & Climate** → This member sits on **Senate Committee on Energy and Natural Resources**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->

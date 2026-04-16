@@ -16,7 +16,7 @@ fara-countries:
   - "KAZAKHSTAN"
   - "KOREA SOUTH"
   - "PALESTINE"
-related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]] · [[Ballard Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Invariant]] · [[Holland & Knight]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]]"
+related: "[[Boeing]] · [[_Lobbying Firms Framework]] · [[Goldman Sachs , The Government Sachs Alumni Network]] · [[Donald Trump Master Profile]] · [[Ballard Partners]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Prime Policy Group]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Invariant]] · [[Holland & Knight]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]] · [[Cassidy & Associates]] · [[Capitol Counsel]]"
 lei: "259400PVBJ4RB4LUZ721"
 lei-jurisdiction: "PL"
 last-enriched: "2026-04-08"

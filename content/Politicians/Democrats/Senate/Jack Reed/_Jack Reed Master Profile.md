@@ -401,3 +401,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: Congress.gov](https://www.congress.gov/member/R000122)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Jack Reed](https://www.congress.gov/member/c001091)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[GovTrack: Jack Reed](https://www.govtrack.us/congress/members/300081)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+### Influence Network (Cross-Reference)
+<!-- auto:influence-cross-ref start -->
+| Metric | Value |
+|--------|-------|
+| Donors Who Also Lobby | 0 of 1 |
+| Donors With Federal Contracts | 1 |
+| Committee Overlap Detected | 1 donor |
+
+**Donate → Lobby → Committee chains:**
+
+- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
+
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+<!-- auto:influence-cross-ref end -->
