@@ -211,12 +211,24 @@ export default function MoneyTrailPage() {
       .attr("stroke-opacity", 0.25)
       .attr("stroke-dasharray", (d: any) => d.connType === "opposition" ? "4 3" : "none")
 
-    // Flow dots — direction depends on context:
-    // Politician at center: dots flow INWARD (donors paying them)
-    // Donor/corp at center: green dots flow OUTWARD (paying politicians),
-    //                       blue (contract) dots flow INWARD (govt paying them)
-    // Red (opposition): always flows INWARD (being spent against center)
-    const isPoliticianCenter = selected.type === "politician" || selected.type === "state-politician"
+    // Flow dots — universal logic for ALL profile types:
+    //
+    // The center profile is the SUBJECT. The question is always:
+    //   "Who funds them?" → dots flow INWARD (green)
+    //   "Who do they fund?" → dots flow OUTWARD (green)
+    //   "Who gives them contracts?" → dots flow INWARD (blue)
+    //   "Who spends against them?" → dots flow INWARD (red)
+    //
+    // For politicians: donors fund them → inward
+    // For donors/corps: they fund politicians → outward
+    // For media/lobbyists/think-tanks: whoever funds them → inward
+    // For PACs: they fund politicians → outward
+    //
+    // Simple rule: if the center profile has "donors" (receives money),
+    // green flows inward. If it has "politicians-funded" (gives money),
+    // green flows outward.
+    const receivesMoneyTypes = new Set(["politician", "state-politician", "media-profile", "journalist", "podcaster", "lobbying-firm", "think-tank"])
+    const centerReceivesMoney = receivesMoneyTypes.has(selected.type)
     const flowDots = g.append("g").selectAll("circle")
       .data(links).join("circle")
       .attr("r", 2)
@@ -238,7 +250,7 @@ export default function MoneyTrailPage() {
           flowInward = true // opposition spends against center — money flows in
         } else {
           // monetary: depends on who's at center
-          flowInward = isPoliticianCenter // politician receives, donor gives
+          flowInward = centerReceivesMoney // politicians/media/lobbyists receive, donors/corps/PACs give
         }
 
         const fromX = flowInward ? outerX : centerX
