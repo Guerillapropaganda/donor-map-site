@@ -29,6 +29,10 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 310
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -255,6 +259,35 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 
 - {{src:src_004463}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 310 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- Labor and Employment (31)
+- Taxation (27)
+- Armed Forces and National Security (26)
+- Education (24)
+- Crime and Law Enforcement (24)
+- Government Operations and Politics (19)
+- International Affairs (18)
+- Agriculture and Food (14)
+- Finance and Financial Sector (12)
+
+**Enacted into law:**
+
+- HR 3165: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

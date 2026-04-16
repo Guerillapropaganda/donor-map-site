@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 4
+bills-cosponsored: 196
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,36 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Timothy M. Kennedy
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 196 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (36)
+- Health (32)
+- Government Operations and Politics (19)
+- Armed Forces and National Security (18)
+- Civil Rights and Liberties, Minority Issues (11)
+- Transportation and Public Works (9)
+- Taxation (8)
+- Labor and Employment (7)
+- Finance and Financial Sector (6)
+- Agriculture and Food (5)
+
+**Recent bills sponsored:**
+
+- HR 10395: To direct the Secretary of Veterans Affairs to establish and carry out a pilot program to furnish a headstone or buri...
+- HR 10264: NEXUS Improvement Act
+- HR 9350: Border-Crossing and Re-entry for K9s Act
+- HR 8662: H.R. 8662, TSA Commuting Fairness Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

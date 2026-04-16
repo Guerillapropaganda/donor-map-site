@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 20
+bills-cosponsored: 451
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Frederica S. Wilson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 451 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (75)
+- Education (44)
+- Crime and Law Enforcement (43)
+- Civil Rights and Liberties, Minority Issues (41)
+- Government Operations and Politics (36)
+- Labor and Employment (30)
+- International Affairs (29)
+- Agriculture and Food (18)
+- Transportation and Public Works (18)
+- Taxation (14)
+
+**Recent bills sponsored:**
+
+- HRES 1519: Expressing support for the designation of the week of September 18 through September 24, 2023, as "Rail Safety Week" ...
+- HR 8192: High School Voter Empowerment Act of 2024
+- HR 7978: Family Leave for Parental Involvement in Education Act
+- HRES 1142: Recognizing the Tenth Anniversary of the Chibok Girls Kidnapping by the Boko Haram Terrorist Organization and calling...
+- HR 7886: Jobs for All Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

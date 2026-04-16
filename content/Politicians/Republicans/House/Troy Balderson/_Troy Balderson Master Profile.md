@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8OH12180"
+bills-sponsored: 18
+bills-cosponsored: 283
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Troy Balderson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 283 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- Energy (26)
+- Taxation (25)
+- Crime and Law Enforcement (20)
+- International Affairs (19)
+- Armed Forces and National Security (16)
+- Environmental Protection (16)
+- Education (13)
+- Finance and Financial Sector (12)
+- Government Operations and Politics (12)
+
+**Recent bills sponsored:**
+
+- HR 10120: To nullify certain interagency guidance related to climate-related financial risk management for large financial inst...
+- HR 9801: GRID Power Act
+- HR 9138: ADAPT Act
+- HR 8819: Religious Exemptions for Social Security and Healthcare Taxes Act
+- HJRES 163: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

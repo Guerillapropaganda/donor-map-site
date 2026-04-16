@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4WI08119"
+bills-sponsored: 0
+bills-cosponsored: 5
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,22 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Tony Wied
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 5 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (1)
+- Crime and Law Enforcement (1)
+- Transportation and Public Works (1)
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

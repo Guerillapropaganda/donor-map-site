@@ -26,8 +26,8 @@ total-received: $6,052,176
 fec-candidate-id: H0NY16143
 bioguide-id: B001223
 govtrack-id: 456839
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 14
+bills-cosponsored: 523
 source-types:
   - FEC
   - GovTrack
@@ -55,6 +55,8 @@ wikidata-id: Q96419280
 wikipedia-url: https://en.wikipedia.org/wiki/Jamaal_Bowman
 wikipedia-extract: Jamaal Anthony Bowman is an American politician and former educator who served from 2021 to 2025 as the United States representative for New York's 16th congressional district.
 born: "1976-04-01"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -551,6 +553,39 @@ Jamaal Anthony Bowman is an American politician and former educator who served f
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamaal_Bowman) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q96419280) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 523 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (76)
+- Education (60)
+- Labor and Employment (43)
+- Civil Rights and Liberties, Minority Issues (39)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (30)
+- International Affairs (28)
+- Taxation (26)
+- Immigration (22)
+- Arts, Culture, Religion (18)
+
+**Recent bills sponsored:**
+
+- HRES 1617: Expressing the sense of the House of Representatives that it is the duty of the Federal Government to dramatically ex...
+- HR 8797: Ending Corporate Greed Act
+- HR 8678: FAIR Costs Act
+- HR 7924: ACCESS in Mental Health Act
+- HRES 988: Supporting the values of the Equity or Else quality-of-life platform and acknowledging the need for the House of Repr...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

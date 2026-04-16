@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8NY21203"
+bills-sponsored: 30
+bills-cosponsored: 638
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Paul Tonko
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 638 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (202)
+- Government Operations and Politics (45)
+- Crime and Law Enforcement (39)
+- Civil Rights and Liberties, Minority Issues (30)
+- Labor and Employment (29)
+- Education (27)
+- Taxation (26)
+- Agriculture and Food (25)
+- Armed Forces and National Security (24)
+- International Affairs (24)
+
+**Enacted into law:**
+
+- HR 619: NAPA Reauthorization Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -42,8 +42,8 @@ stock-trade-tickers:
   - "DISH"
   - "EBAY"
 govtrack-id: 412598
-bills-sponsored: 92
-bills-cosponsored: 541
+bills-sponsored: 156
+bills-cosponsored: 670
 website: https://www.booker.senate.gov
 phone: 202-224-3224
 related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
@@ -58,6 +58,8 @@ needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 bioguide-id: B001288
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -517,6 +519,39 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 | 4042 | Keep Your Pay Act | Read twice and referred to the Committee on Finance. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 156 |
+| Bills Cosponsored | 670 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (156)
+- Crime and Law Enforcement (80)
+- Agriculture and Food (62)
+- Education (62)
+- International Affairs (49)
+- Civil Rights and Liberties, Minority Issues (38)
+- Government Operations and Politics (37)
+- Labor and Employment (36)
+- Armed Forces and National Security (33)
+- Environmental Protection (27)
+
+**Recent bills sponsored:**
+
+- SRES 933: A resolution calling on the United Nations Security Council to enforce the existing arms embargo on Darfur and extend...
+- SRES 927: A resolution commemorating and supporting the goals of World AIDS Day.
+- S 5507: A bill to expand reporting on subcontracts and subgrants made under Federal awards, and for other purposes.
+- S 5516: A bill to establish a new Housing and Urban Development grant program to provide community land trusts and other comm...
+- S 5464: A bill to amend title XVIII of the Social Security Act to require the collection of data regarding graduate medical e...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

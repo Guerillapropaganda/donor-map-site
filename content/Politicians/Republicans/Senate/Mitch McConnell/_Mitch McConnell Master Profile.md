@@ -25,8 +25,8 @@ top-donors:
   - Timothy Mellon
 bioguide-id: M000355
 govtrack-id: 300072
-bills-sponsored: 12
-bills-cosponsored: 52
+bills-sponsored: 8
+bills-cosponsored: 108
 website: 'https://www.mcconnell.senate.gov'
 phone: 202-224-2541
 total-received: '$7,816,890'
@@ -43,6 +43,8 @@ related: >-
   Profile]] · [[Timothy Mellon]] · [[_Clarence Thomas Master Profile]] ·
   [[_Samuel Alito Master Profile]] · [[Neil Gorsuch Master Profile]] · [[Amy
   Coney Barrett Master Profile]]
+bills-enacted: 0
+top-policy-area: "Congress"
 ---
 
 <!-- auto:data-panel start -->
@@ -352,3 +354,37 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 ## Committee Assignments (Congress.gov)
 
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 108 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (39)
+- International Affairs (13)
+- Crime and Law Enforcement (13)
+- Education (8)
+- Government Operations and Politics (6)
+- Labor and Employment (6)
+- Health (6)
+- Armed Forces and National Security (5)
+- Environmental Protection (5)
+- Immigration (4)
+
+**Recent bills sponsored:**
+
+- S 5289: White Oak Resilience Act of 2024
+- S 4293: To designate the United States courthouse annex located at 310 South Main Street in London, Kentucky, as the "Eugene ...
+- S 4095: SHOP Act
+- SJRES 65: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- S 2284: Federal Prisons Accountability Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

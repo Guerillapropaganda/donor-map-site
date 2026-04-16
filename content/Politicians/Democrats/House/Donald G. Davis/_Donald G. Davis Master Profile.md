@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 26
+bills-cosponsored: 881
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Donald G. Davis
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 881 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (222)
+- Armed Forces and National Security (125)
+- Agriculture and Food (73)
+- Crime and Law Enforcement (60)
+- Government Operations and Politics (51)
+- Taxation (45)
+- International Affairs (43)
+- Education (39)
+- Transportation and Public Works (24)
+- Labor and Employment (24)
+
+**Recent bills sponsored:**
+
+- HRES 1564: Recognizing the need for a Senior Security Promise.
+- HR 9816: Rural Housing Assistance Act
+- HR 9365: Pharmacy and Medically Underserved Areas Enhancement Act
+- HR 8627: Student Veteran Debt Relief Act of 2024
+- HR 8267: Old Drugs, New Cures Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

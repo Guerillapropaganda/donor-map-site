@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 10
+bills-cosponsored: 327
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lizzie Fletcher
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 327 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (63)
+- Crime and Law Enforcement (38)
+- Civil Rights and Liberties, Minority Issues (28)
+- Government Operations and Politics (28)
+- International Affairs (28)
+- Armed Forces and National Security (20)
+- Taxation (15)
+- Arts, Culture, Religion (12)
+- Education (10)
+- Immigration (9)
+
+**Recent bills sponsored:**
+
+- HR 8117: HEIR Act of 2024
+- HR 7927: Pink Tariffs Study Act
+- HR 6808: PFAS Action Act of 2023
+- HR 3366: To amend the Middle Class Tax Relief and Job Creation Act of 2012 to reauthorize the First Responder Network Authority.
+- HR 3182: CLEAR Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 128
+bills-cosponsored: 1917
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Eleanor Holmes Norton
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 128 |
+| Bills Cosponsored | 1917 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (353)
+- Crime and Law Enforcement (152)
+- Government Operations and Politics (136)
+- Education (135)
+- International Affairs (119)
+- Armed Forces and National Security (106)
+- Taxation (103)
+- Labor and Employment (98)
+- Civil Rights and Liberties, Minority Issues (87)
+- Agriculture and Food (83)
+
+**Enacted into law:**
+
+- HR 2509: FAA Reauthorization Act of 2024
+- HR 7550: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

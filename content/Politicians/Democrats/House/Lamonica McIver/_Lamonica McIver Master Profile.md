@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4NJ10176"
+bills-sponsored: 1
+bills-cosponsored: 55
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lamonica McIver
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 1 |
+| Bills Cosponsored | 55 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (9)
+- Government Operations and Politics (5)
+- Labor and Employment (5)
+- Transportation and Public Works (3)
+- Education (3)
+- Crime and Law Enforcement (3)
+- Armed Forces and National Security (3)
+- International Affairs (3)
+- Civil Rights and Liberties, Minority Issues (3)
+- Agriculture and Food (2)
+
+**Recent bills sponsored:**
+
+- HR 10322: To improve the effectiveness of body armor issued to female agents and officers of the Department of Homeland Securit...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

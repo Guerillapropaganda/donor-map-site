@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 21
+bills-cosponsored: 370
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Neal P. Dunn
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 370 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (81)
+- International Affairs (42)
+- Armed Forces and National Security (34)
+- Crime and Law Enforcement (27)
+- Government Operations and Politics (23)
+- Taxation (19)
+- Science, Technology, Communications (17)
+- Finance and Financial Sector (16)
+- Education (15)
+- Energy (13)
+
+**Recent bills sponsored:**
+
+- HR 10451: To establish requirements and impose civil penalties on certain entities of the People's Republic of China that do no...
+- HR 10286: To establish the Constitutional Government Review Commission, and for other purposes.
+- HR 9447: Ending China’s Unfair Advantage Act of 2024
+- HR 9007: Secretary General Jens Stoltenberg Congressional Gold Medal Act
+- HR 7997: Generalized System of Preferences Reform Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

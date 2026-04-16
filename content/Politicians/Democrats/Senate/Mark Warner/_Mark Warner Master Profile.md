@@ -26,8 +26,8 @@ stock-trade-tickers:
   - "ZIOP"
 bioguide-id: W000805
 govtrack-id: 412321
-bills-sponsored: 35
-bills-cosponsored: 248
+bills-sponsored: 57
+bills-cosponsored: 268
 website: https://www.warner.senate.gov
 phone: 202-224-2023
 last-enriched: "2026-04-12"
@@ -45,6 +45,8 @@ issues:
   - Native Americans
   - Science, Technology, Communications
   - Taxation
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -388,6 +390,35 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 57 |
+| Bills Cosponsored | 268 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (51)
+- Government Operations and Politics (32)
+- Taxation (31)
+- Armed Forces and National Security (22)
+- Finance and Financial Sector (22)
+- Congress (19)
+- International Affairs (19)
+- Science, Technology, Communications (12)
+- Civil Rights and Liberties, Minority Issues (11)
+- Public Lands and Natural Resources (10)
+
+**Enacted into law:**
+
+- S 3331: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

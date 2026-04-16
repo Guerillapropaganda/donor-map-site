@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 20
+bills-cosponsored: 691
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Daniel S. Goldman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 691 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (96)
+- Crime and Law Enforcement (81)
+- International Affairs (71)
+- Government Operations and Politics (58)
+- Civil Rights and Liberties, Minority Issues (40)
+- Taxation (36)
+- Labor and Employment (33)
+- Immigration (33)
+- Education (29)
+- Agriculture and Food (22)
+
+**Enacted into law:**
+
+- HR 7245: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

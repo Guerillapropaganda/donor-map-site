@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MO07143"
+bills-sponsored: 22
+bills-cosponsored: 263
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Eric Burlison
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 263 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (31)
+- Health (24)
+- International Affairs (21)
+- Armed Forces and National Security (20)
+- Labor and Employment (20)
+- Taxation (19)
+- Education (15)
+- Finance and Financial Sector (13)
+- Immigration (10)
+
+**Recent bills sponsored:**
+
+- HR 10519: To strengthen the reliability of the United States' power grids by preventing the premature retirement of essential e...
+- HJRES 229: Proposing an amendment to the Constitution of the United States related to the public debt.
+- HR 10473: To prevent covered vehicle manufacturers from accessing, selling, or otherwise selling certain covered vehicle data, ...
+- HR 9595: FIT Procurement Act
+- HJRES 203: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4CA20082"
+bills-sponsored: 26
+bills-cosponsored: 587
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jim Costa
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 587 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (103)
+- Health (62)
+- Agriculture and Food (54)
+- Crime and Law Enforcement (42)
+- Government Operations and Politics (41)
+- Armed Forces and National Security (36)
+- Taxation (28)
+- Civil Rights and Liberties, Minority Issues (20)
+- Public Lands and Natural Resources (18)
+- Education (16)
+
+**Recent bills sponsored:**
+
+- HR 10210: National Plan for Epilepsy Act
+- HR 10140: To authorize additional funding for the San Joaquin River Restoration Settlement Act.
+- HRES 1520: Expressing support for the designation of October 8, 2023, as "National Hydrogen and Fuel Cell Day".
+- HR 9814: Rural Homeownership Continuity Act of 2024
+- HR 9305: To direct the Secretary of Health and Human Services to make grants to local governments for the training of local la...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

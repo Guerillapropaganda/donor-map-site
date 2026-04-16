@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 71
+bills-cosponsored: 395
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # W. Gregory Steube
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 395 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (69)
+- Health (52)
+- Taxation (45)
+- Armed Forces and National Security (41)
+- Crime and Law Enforcement (39)
+- Government Operations and Politics (36)
+- Finance and Financial Sector (22)
+- Immigration (22)
+- Education (16)
+- Transportation and Public Works (13)
+
+**Recent bills sponsored:**
+
+- HR 10380: To amend the Internal Revenue Code of 1986 to allow a portion of general business credit carryforwards to be transfer...
+- HR 10350: To amend the Wild and Scenic Rivers Act to designate the portion of the Myakka River lying within Sarasota County, Fl...
+- HR 10315: To withhold bilateral, multilateral, and humanitarian non-defense foreign assistance with respect to which of the Pre...
+- HR 10130: FEMA for America First Act of 2024
+- HR 9646: PAGER Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

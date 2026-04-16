@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 10
+bills-cosponsored: 436
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sanford D. Bishop
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 436 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (78)
+- Armed Forces and National Security (51)
+- Agriculture and Food (50)
+- Civil Rights and Liberties, Minority Issues (30)
+- Government Operations and Politics (28)
+- Education (27)
+- International Affairs (23)
+- Taxation (23)
+- Crime and Law Enforcement (22)
+- Labor and Employment (16)
+
+**Recent bills sponsored:**
+
+- HR 9647: President Jimmy Carter Congressional Gold Medal Act
+- HR 9600: H.R. 9600, a bill to designate the facility of the United States Postal Service located at 119 Main Street in Plains,...
+- HR 9240: Protecting Our Produce Act
+- HR 8198: Farm, Food, and National Security Act of 2024
+- HCONRES 104: Authorizing the use of the rotunda of the Capitol for the lying in honor of the remains of Ralph Puckett, Jr., the la...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

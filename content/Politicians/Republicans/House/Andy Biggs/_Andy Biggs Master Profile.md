@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6AZ05083"
+bills-sponsored: 612
+bills-cosponsored: 408
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andy Biggs
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 612 |
+| Bills Cosponsored | 408 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (128)
+- International Affairs (117)
+- Health (108)
+- Congress (79)
+- Crime and Law Enforcement (65)
+- Immigration (55)
+- Labor and Employment (46)
+- Agriculture and Food (45)
+- Public Lands and Natural Resources (41)
+- Environmental Protection (37)
+
+**Recent bills sponsored:**
+
+- HR 10284: Secret Service Prioritization Act of 2024
+- HR 10270: Congressional Border Security Assessment Act
+- HRES 1597: A resolution recognizing the National Center for Missing &amp; Exploited Children on its 40th anniversary.
+- HR 10250: Mens Rea Reform Act of 2024
+- HR 10251: End Endless Criminal Statutes Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

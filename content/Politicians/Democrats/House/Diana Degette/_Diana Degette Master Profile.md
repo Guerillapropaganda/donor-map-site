@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6CO01141"
+bills-sponsored: 15
+bills-cosponsored: 302
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Diana Degette
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 302 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (84)
+- Crime and Law Enforcement (35)
+- Public Lands and Natural Resources (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Environmental Protection (16)
+- Government Operations and Politics (15)
+- Taxation (13)
+- Labor and Employment (12)
+- International Affairs (11)
+- Education (11)
+
+**Recent bills sponsored:**
+
+- HR 9400: Colorado Wilderness Act of 2024
+- HRES 1381: Commemorating the past success of the United States Olympic and Paralympic Teams and supporting the United States Oly...
+- HR 7856: PREVENT DIABETES Act
+- HR 7743: Department of Energy Experienced Worker Program Act
+- HR 7327: Protecting Front Line Multimission Hospitals Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

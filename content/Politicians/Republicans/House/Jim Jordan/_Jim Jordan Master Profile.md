@@ -21,12 +21,14 @@ known-gaps:
   - No mapped relationships
 bioguide-id: J000289
 govtrack-id: 412226
-bills-sponsored: 1
-bills-cosponsored: 16
+bills-sponsored: 4
+bills-cosponsored: 45
 website: https://jordan.house.gov
 phone: 202-225-2676
 related: "[[_Mike Johnson Master Profile]] · [[_Donald Trump Master Profile]] · [[_Steve Bannon Master Profile]] · [[_Kash Patel Master Profile]] · [[Elise Stefanik]] · [[Chip Roy Master Profile]]"
 donors: "[[House Freedom Caucus]], [[Koch Network - Charles Koch]], [[Club for Growth]]"
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -232,6 +234,38 @@ The class function is explicit: Jordan converts congressional authority into a s
 
 - [GovTrack: Jim Jordan](https://www.govtrack.us/congress/members/412226) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 45 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (11)
+- Taxation (8)
+- International Affairs (5)
+- Finance and Financial Sector (3)
+- Health (3)
+- Education (3)
+- Congress (3)
+- Crime and Law Enforcement (2)
+- Armed Forces and National Security (2)
+- Environmental Protection (2)
+
+**Recent bills sponsored:**
+
+- HRES 1292: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
+- HR 4791: Free Speech Protection Act
+- HRES 159: Providing for the expenses of certain committees of the House of Representatives in the One Hundred Eighteenth Congress.
+- HRES 12: Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

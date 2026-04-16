@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2TX35011"
+bills-sponsored: 34
+bills-cosponsored: 290
+bills-enacted: 5
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Joaquin Castro
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 290 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (83)
+- Government Operations and Politics (24)
+- Health (23)
+- Armed Forces and National Security (23)
+- Crime and Law Enforcement (22)
+- Education (18)
+- Labor and Employment (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Immigration (18)
+- Taxation (8)
+
+**Enacted into law:**
+
+- HR 6796: National Defense Authorization Act for Fiscal Year 2024
+- HR 6798: National Defense Authorization Act for Fiscal Year 2024
+- HR 6181: National Defense Authorization Act for Fiscal Year 2024
+- HR 6799: National Defense Authorization Act for Fiscal Year 2024
+- HR 6182: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

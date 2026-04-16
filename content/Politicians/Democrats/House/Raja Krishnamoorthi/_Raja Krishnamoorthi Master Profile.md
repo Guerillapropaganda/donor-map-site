@@ -29,8 +29,8 @@ issues:
 total-received: $3,915,957
 fec-candidate-id: H6IL08147
 govtrack-id: 412701
-bills-sponsored: 34
-bills-cosponsored: 578
+bills-sponsored: 27
+bills-cosponsored: 630
 website: https://krishnamoorthi.house.gov
 phone: 202-225-3711
 related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]] · [[JB Pritzker (Donor Network)]]"
@@ -50,6 +50,8 @@ wikipedia-extract: Subramanian Raja Krishnamoorthi is an American attorney and p
 born: "1973-07-19"
 top-donors: "[[Planned Parenthood Votes]], [[NEA ADVOCACY FUND]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[TOGETHER WE THRIVE]], [[VICTORY FOR SCHAUMBURG]], [[NEA Advocacy Fund]], [[Victory for Schaumburg]], [[Together We Thrive]]"
 donors: "[[Victory for Schaumburg]], [[NEA Advocacy Fund]], [[Together We Thrive]], [[VICTORY FOR SCHAUMBURG]], [[Planned Parenthood Votes]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[NEA ADVOCACY FUND]], [[TOGETHER WE THRIVE]]"
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -391,6 +393,35 @@ Subramanian Raja Krishnamoorthi is an American attorney and politician serving a
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Raja_Krishnamoorthi) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7285471) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 630 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (113)
+- International Affairs (68)
+- Government Operations and Politics (48)
+- Education (45)
+- Crime and Law Enforcement (42)
+- Agriculture and Food (36)
+- Labor and Employment (32)
+- Taxation (30)
+- Armed Forces and National Security (29)
+- Civil Rights and Liberties, Minority Issues (23)
+
+**Enacted into law:**
+
+- HR 2379: To designate the facility of the United States Postal Service located at 616 East Main Street in St. Charles, Illinoi...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

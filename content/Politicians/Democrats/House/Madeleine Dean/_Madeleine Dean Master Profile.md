@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8PA04116"
+bills-sponsored: 27
+bills-cosponsored: 470
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Madeleine Dean
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 470 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Crime and Law Enforcement (68)
+- International Affairs (43)
+- Education (33)
+- Government Operations and Politics (32)
+- Civil Rights and Liberties, Minority Issues (28)
+- Armed Forces and National Security (24)
+- Taxation (20)
+- Labor and Employment (19)
+- Finance and Financial Sector (15)
+
+**Recent bills sponsored:**
+
+- HR 10450: To regulate monitoring of electronic communications between an incarcerated person in a Bureau of Prisons facility an...
+- HRES 1565: Expressing support for the recognition of the week of November 5 through November 11, 2023, as "Drowsy Driving Preven...
+- HR 8169: Lead Free Forests Act of 2024
+- HR 8116: Stop Wasteful and Outdated Medical Training on Animals Act
+- HR 7537: Flood History Information Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

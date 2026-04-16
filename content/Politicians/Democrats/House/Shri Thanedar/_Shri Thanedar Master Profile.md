@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MI13204"
+bills-sponsored: 28
+bills-cosponsored: 603
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Shri Thanedar
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 603 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (114)
+- Crime and Law Enforcement (47)
+- Education (40)
+- Government Operations and Politics (40)
+- Civil Rights and Liberties, Minority Issues (37)
+- International Affairs (35)
+- Labor and Employment (32)
+- Armed Forces and National Security (31)
+- Taxation (28)
+- Commerce (23)
+
+**Enacted into law:**
+
+- HR 6845: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

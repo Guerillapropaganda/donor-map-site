@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 22
+bills-cosponsored: 532
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mary E. Miller
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 532 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (61)
+- Health (59)
+- Government Operations and Politics (58)
+- International Affairs (49)
+- Immigration (40)
+- Taxation (34)
+- Agriculture and Food (31)
+- Education (31)
+- Armed Forces and National Security (25)
+- Labor and Employment (22)
+
+**Recent bills sponsored:**
+
+- HJRES 207: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 9218: Defining Male and Female Act of 2024
+- HJRES 165: Providing for consideration of the bill (H.R. 8281) to amend the National Voter Registration Act of 1993 to require p...
+- HJRES 147: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 8277: Preserving America’s Farmland Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

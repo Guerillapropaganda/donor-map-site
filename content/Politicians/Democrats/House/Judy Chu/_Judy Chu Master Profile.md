@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0CA32101"
+bills-sponsored: 39
+bills-cosponsored: 703
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Judy Chu
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 703 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (112)
+- Education (54)
+- Taxation (50)
+- International Affairs (48)
+- Armed Forces and National Security (46)
+- Government Operations and Politics (41)
+- Labor and Employment (41)
+- Crime and Law Enforcement (39)
+- Civil Rights and Liberties, Minority Issues (34)
+- Agriculture and Food (30)
+
+**Recent bills sponsored:**
+
+- HR 10208: DIPLOMA Act
+- HR 9781: Providing Real Opportunities for Growth to Rising Entrepreneurs for Sustained Success (PROGRESS) Act
+- HRES 1487: A resolution expressing support for the recognition of September 23, 2024, to September 29, 2024, as "Asian American ...
+- HRES 1445: Supporting the designation of the week of September 17 through September 23, 2023, as "Community School Coordinators ...
+- HR 9244: NO BAN Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

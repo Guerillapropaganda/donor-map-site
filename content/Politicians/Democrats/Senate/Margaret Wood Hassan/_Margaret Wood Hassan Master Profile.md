@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 59
+bills-cosponsored: 349
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Margaret Wood Hassan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 59 |
+| Bills Cosponsored | 349 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (73)
+- Government Operations and Politics (32)
+- Armed Forces and National Security (32)
+- Education (31)
+- Crime and Law Enforcement (26)
+- International Affairs (24)
+- Taxation (19)
+- Congress (18)
+- Labor and Employment (15)
+- Civil Rights and Liberties, Minority Issues (15)
+
+**Recent bills sponsored:**
+
+- S 5624: A bill to require the Secretary of Veterans Affairs to establish an integrated project team to improve the process fo...
+- S 5511: A bill to amend the Older Americans Act of 1965 to provide additional opportunities for older individuals to voluntee...
+- S 5445: A bill to amend title XVIII of the Social Security Act to provide coverage of contraceptive items and services at no ...
+- S 5398: DETERRENCE Act
+- S 5308: Rural Hospital Flexibility Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -30,8 +30,8 @@ total-received: $896,096
 fec-candidate-id: S8WA00194
 bioguide-id: C000127
 govtrack-id: 300018
-bills-sponsored: 21
-bills-cosponsored: 188
+bills-sponsored: 37
+bills-cosponsored: 225
 website: https://www.cantwell.senate.gov
 phone: 202-224-3441
 stock-trades: 6
@@ -43,6 +43,8 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -362,6 +364,39 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 225 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- Congress (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Native Americans (17)
+- Commerce (16)
+- Science, Technology, Communications (15)
+- Crime and Law Enforcement (14)
+- Taxation (14)
+- Government Operations and Politics (10)
+- Public Lands and Natural Resources (10)
+
+**Recent bills sponsored:**
+
+- S 5600: A bill to authorize programs for the National Aeronautics and Space Administration for fiscal year 2025, and for othe...
+- S 5601: A bill to improve the National Oceanic and Atmospheric Administration's weather research, support improvements in wea...
+- S 5468: A bill to authorize appropriations for the Coast Guard, and for other purposes.
+- S 5411: A bill to reauthorize the National Quantum Initiative Act, and for other purposes.
+- SRES 864: A resolution expressing support for the designation of the week of September 18 through September 24, 2023, as "Rail ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MN01223"
+bills-sponsored: 31
+bills-cosponsored: 362
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Brad Finstad
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 362 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (42)
+- Agriculture and Food (39)
+- International Affairs (35)
+- Armed Forces and National Security (34)
+- Taxation (33)
+- Crime and Law Enforcement (33)
+- Government Operations and Politics (22)
+- Finance and Financial Sector (20)
+- Transportation and Public Works (20)
+- Energy (15)
+
+**Recent bills sponsored:**
+
+- HR 9917: To modify procurement requirements relating to rare earth elements and strategic and critical materials by contractor...
+- HRES 1402: A resolution commending the Minnesota State University, Mankato women's and men's basketball teams for winning the 20...
+- HR 8800: A bill to amend title 36, United States Code, to designate the bald eagle as the national bird.
+- HJRES 145: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+- HR 8350: FARMER Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

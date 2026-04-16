@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 45
+bills-cosponsored: 228
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jim Banks
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 228 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (39)
+- International Affairs (32)
+- Crime and Law Enforcement (26)
+- Education (25)
+- Armed Forces and National Security (24)
+- Government Operations and Politics (17)
+- Taxation (14)
+- Finance and Financial Sector (12)
+- Civil Rights and Liberties, Minority Issues (11)
+- Immigration (10)
+
+**Recent bills sponsored:**
+
+- HR 10416: To require the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Tra...
+- HR 10061: End Executive Branch Amnesty Act of 2024
+- HR 9383: SENIOR Act
+- HR 9117: No Visas for Violent Criminals Act
+- HJRES 182: A joint resolution disapproving the rule submitted by the Department of Health and Human Services relating to "Design...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
 donors: "[[Fairshake PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4AZ00139"
+bills-sponsored: 42
+bills-cosponsored: 304
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ruben Gallego
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 42 |
+| Bills Cosponsored | 304 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (34)
+- Health (33)
+- Crime and Law Enforcement (29)
+- Education (25)
+- Taxation (21)
+- Government Operations and Politics (21)
+- Armed Forces and National Security (20)
+- Native Americans (19)
+- Finance and Financial Sector (13)
+- Immigration (13)
+
+**Enacted into law:**
+
+- HR 6752: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

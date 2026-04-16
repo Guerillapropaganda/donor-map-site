@@ -35,11 +35,13 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 govtrack-id: 400644
-bills-sponsored: 124
-bills-cosponsored: 1487
+bills-sponsored: 24
+bills-cosponsored: 69
 related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
 bioguide-id: M001156
 donors: "[[Club for Growth INC PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[CLUB FOR GROWTH INC PAC]], [[Securities & Investment Industry]], [[FAIRSHAKE]], [[Kenneth Griffin]], [[Crypto Industry Bloc]]"
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 <!-- auto:data-panel start -->
@@ -379,6 +381,39 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 69 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (19)
+- Crime and Law Enforcement (10)
+- International Affairs (9)
+- Education (8)
+- Health (7)
+- Taxation (7)
+- Government Operations and Politics (6)
+- Energy (3)
+- Economics and Public Finance (3)
+- Environmental Protection (3)
+
+**Recent bills sponsored:**
+
+- HR 10293: To extend certain authorities under the Defense Production Act of 1950.
+- HRES 1600: Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financ...
+- HR 7440: H.R. 7440, Financial Services Innovation Act of 2024
+- HR 4766: Clarity for Payment Stablecoins Act of 2023
+- HR 4036: Accountability through Confirmation Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

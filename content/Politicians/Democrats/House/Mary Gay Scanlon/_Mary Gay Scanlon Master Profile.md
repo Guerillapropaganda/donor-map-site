@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 19
+bills-cosponsored: 493
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mary Gay Scanlon
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 493 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (79)
+- Crime and Law Enforcement (61)
+- Government Operations and Politics (44)
+- Education (30)
+- Civil Rights and Liberties, Minority Issues (27)
+- Labor and Employment (24)
+- Taxation (21)
+- International Affairs (19)
+- Armed Forces and National Security (18)
+- Immigration (18)
+
+**Recent bills sponsored:**
+
+- HR 10540: To prohibit data brokers from selling and transferring certain sensitive data.
+- HR 10149: Disability Voting Rights Act
+- HR 10032: Voter Empowerment Act of 2024
+- HRES 1516: A resolution recognizing Big Brothers Big Sisters of America on its 120th anniversary.
+- HRES 1491: A resolution expressing the support of the Senate for the designation of "Public Radio Music Day" and deep appreciati...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

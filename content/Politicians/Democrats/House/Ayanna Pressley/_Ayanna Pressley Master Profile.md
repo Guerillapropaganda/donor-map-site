@@ -29,8 +29,8 @@ issues:
 total-received: "$687,535"
 fec-candidate-id: "H8MA07032"
 govtrack-id: 412782
-bills-sponsored: 136
-bills-cosponsored: 1817
+bills-sponsored: 41
+bills-cosponsored: 364
 website: "https://pressley.house.gov"
 phone: "202-225-5111"
 source-types:
@@ -71,6 +71,8 @@ wikidata-id: "Q13562359"
 wikipedia-url: "https://en.wikipedia.org/wiki/Ayanna_Pressley"
 wikipedia-extract: "Ayanna Soyini Pressley is an American politician who has served as the U.S. representative for Massachusetts's 7th congressional district since 2019."
 born: "1974-02-03"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -223,7 +225,40 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - [The Intercept: Small Policy Differences Versus Identity in Massachusetts Primary](https://theintercept.com/2018/08/18/mike-capuano-ayanna-pressley-massachusetts-primary/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Ayanna Pressley](https://ballotpedia.org/Ayanna_Pressley) (Tier 3) (VERIFIED)
 
-### Archived
+#### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 364 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (70)
+- Crime and Law Enforcement (38)
+- Civil Rights and Liberties, Minority Issues (38)
+- Education (28)
+- International Affairs (26)
+- Government Operations and Politics (24)
+- Taxation (20)
+- Labor and Employment (20)
+- Housing and Community Development (15)
+- Agriculture and Food (14)
+
+**Recent bills sponsored:**
+
+- HRES 1618: Expressing support for the designation of November 20, 2024, through December 20, 2024, as "National Survivors of Hom...
+- HR 10295: Andrew Kearse Accountability for Denial of Medical Care Act of 2024
+- HR 9848: GSIB Act of 2024
+- HRES 1483: Providing for consideration of the joint resolution (H.J. Res. 25) removing the deadline for the ratification of the ...
+- HR 9228: BE HEARD in the Workplace Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Archived
 - ~~[OpenSecrets: Ayanna Pressley career industries breakdown](https://www.opensecrets.org/members-of-congress/industries?cid=N00042581&cycle=CAREER)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donation-to-Policy Timeline body; needs FEC committee-page cross-check)
 
 ### Legislative Activity (GovTrack)

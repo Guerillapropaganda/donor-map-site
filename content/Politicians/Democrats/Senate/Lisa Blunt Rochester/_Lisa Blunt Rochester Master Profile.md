@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4DE00060"
+bills-sponsored: 29
+bills-cosponsored: 470
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lisa Blunt Rochester
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 470 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (148)
+- Armed Forces and National Security (40)
+- Crime and Law Enforcement (34)
+- Civil Rights and Liberties, Minority Issues (32)
+- Government Operations and Politics (27)
+- Labor and Employment (23)
+- Agriculture and Food (22)
+- Taxation (21)
+- Education (20)
+- International Affairs (19)
+
+**Recent bills sponsored:**
+
+- HR 10465: To study the need for, and the feasibility and cost of, establishing a national residential rental registry, and for ...
+- HR 9673: Consumers LEARN AI Act
+- HRES 1465: Honoring the life and legacy of Diaz Bonville.
+- HR 8604: Reducing Regulatory Barriers to Housing Act
+- HR 8223: Advancing Menopause Care and Mid-Life Women’s Health Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

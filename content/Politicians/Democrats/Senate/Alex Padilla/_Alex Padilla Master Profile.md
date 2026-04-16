@@ -57,6 +57,10 @@ fec-debt: "225.58"
 top-donors: "[[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[CARE ACTION NOW INC.]], [[DOLORES HUERTA ACTION FUND]], [[DEMOCRATIC ALLIANCE FOR ACTION]], [[Care Action Now Inc.]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Democratic Alliance for Action]], [[Dolores Huerta Action Fund]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]]"
 donors: "[[Dolores Huerta Action Fund]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[Care Action Now Inc.]], [[CARE ACTION NOW INC.]], [[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[DEMOCRATIC ALLIANCE FOR ACTION]], [[DOLORES HUERTA ACTION FUND]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Democratic Alliance for Action]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 105
+bills-cosponsored: 684
+bills-enacted: 5
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -333,6 +337,39 @@ The appointment contradiction adds a layer. Padilla's Senate career began when G
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 105 |
+| Bills Cosponsored | 684 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Crime and Law Enforcement (57)
+- Agriculture and Food (56)
+- Education (55)
+- Government Operations and Politics (54)
+- Armed Forces and National Security (40)
+- Civil Rights and Liberties, Minority Issues (36)
+- Labor and Employment (36)
+- Public Lands and Natural Resources (36)
+- International Affairs (33)
+
+**Enacted into law:**
+
+- S 3711: Federal Disaster Tax Relief Act of 2023
+- S 3605: Consolidated Appropriations Act, 2024
+- S 277: Pala Band of Mission Indians Land Transfer Act of 2023
+- S 2803: Wounded Warrior Access Act
+- S 4077: S. 4077, a bill to designate the facility of the United States Postal Service located at 180 Steuart Street in San Fr...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

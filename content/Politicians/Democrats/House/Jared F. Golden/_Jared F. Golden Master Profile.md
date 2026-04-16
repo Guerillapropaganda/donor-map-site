@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 23
+bills-cosponsored: 247
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jared F. Golden
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 247 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (33)
+- Government Operations and Politics (30)
+- International Affairs (27)
+- Health (25)
+- Taxation (20)
+- Crime and Law Enforcement (11)
+- Commerce (10)
+- Education (10)
+- Transportation and Public Works (9)
+- Labor and Employment (9)
+
+**Recent bills sponsored:**
+
+- HR 9965: To designate the Maine Forest and Logging Museum, located in Bradley, Maine, as the National Museum of Forestry and L...
+- HR 9919: Postmaster General Reform Act of 2024
+- HR 9827: To impose additional duties on imports of goods into the United States.
+- HJRES 200: Disapproving the rule submitted by the Department of Health and Human Services relating to "Control of Communicable D...
+- HR 8351: Protecting American Autoworkers from China Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

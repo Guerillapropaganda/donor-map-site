@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4WA04104"
+bills-sponsored: 44
+bills-cosponsored: 323
+bills-enacted: 0
+top-policy-area: "Energy"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Dan Newhouse
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 44 |
+| Bills Cosponsored | 323 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Energy (45)
+- Armed Forces and National Security (31)
+- Crime and Law Enforcement (30)
+- Agriculture and Food (28)
+- International Affairs (25)
+- Environmental Protection (25)
+- Taxation (23)
+- Health (20)
+- Public Lands and Natural Resources (20)
+- Government Operations and Politics (17)
+
+**Recent bills sponsored:**
+
+- HR 10459: To establish the Joint Task Force to Counter the Illicit Synthetic Narcotics.
+- HR 10014: Federal Employee Return to Work Act
+- HR 9932: Upholding USPS Delivery Standards and Election Integrity Act of 2024
+- HRES 1447: Designating the week of September 24 through September 30, 2023, as "Gold Star Families Remembrance Week".
+- HR 9456: Providing for consideration of the bill (H.R. 1398) to establish the CCP Initiative program, and for other purposes; ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

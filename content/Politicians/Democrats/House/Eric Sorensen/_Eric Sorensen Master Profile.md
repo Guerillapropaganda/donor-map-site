@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2IL17147"
+bills-sponsored: 13
+bills-cosponsored: 334
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Eric Sorensen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 334 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (45)
+- Agriculture and Food (42)
+- Government Operations and Politics (25)
+- Crime and Law Enforcement (23)
+- International Affairs (21)
+- Education (21)
+- Taxation (18)
+- Labor and Employment (17)
+- Energy (15)
+- Armed Forces and National Security (15)
+
+**Enacted into law:**
+
+- HR 6206: All-American Flag Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

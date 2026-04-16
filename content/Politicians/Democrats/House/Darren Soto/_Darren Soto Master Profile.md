@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6FL09179"
+bills-sponsored: 24
+bills-cosponsored: 571
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Darren Soto
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 571 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (146)
+- Government Operations and Politics (39)
+- Agriculture and Food (38)
+- International Affairs (38)
+- Crime and Law Enforcement (34)
+- Education (30)
+- Taxation (29)
+- Civil Rights and Liberties, Minority Issues (25)
+- Armed Forces and National Security (23)
+- Immigration (22)
+
+**Enacted into law:**
+
+- HR 682: Launch Communications Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

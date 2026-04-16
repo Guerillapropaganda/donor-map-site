@@ -20,8 +20,8 @@ top-donors:
   - Blue Cross Blue Shield
 bioguide-id: S000770
 govtrack-id: 300093
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 36
+bills-cosponsored: 343
 total-received: $92,299
 fec-candidate-id: S8MI00281
 source-types:
@@ -33,6 +33,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Gary Peters Master Profile|Gary Peters]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[Angie Craig]]"
 donors: "[[Sam Bankman-Fried]] · [[Bill Gates]] · [[California Farm Bureau Federation]] · [[UAW - United Auto Workers]] · [[RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[Right to Life of Michigan Political Action Committee]] · [[Sierra Club Political Committee]]"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -247,3 +249,37 @@ party:: Democrat
 
 - [GovTrack: Debbie Stabenow](https://www.govtrack.us/congress/members/300093) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 343 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (103)
+- Armed Forces and National Security (31)
+- Taxation (30)
+- Congress (21)
+- International Affairs (19)
+- Government Operations and Politics (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Agriculture and Food (17)
+- Education (17)
+- Labor and Employment (12)
+
+**Recent bills sponsored:**
+
+- S 5335: Colorado River Salinity Control Fix Act
+- SRES 775: A resolution designating July 15, 2023, as "National Leiomyosarcoma Awareness Day".
+- S 4693: Revitalizing Downtowns and Main Streets Act
+- S 4192: We Can't Wait Act of 2023
+- SRES 639: A resolution expressing support for the designation of April 2023 as "Parkinson's Awareness Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

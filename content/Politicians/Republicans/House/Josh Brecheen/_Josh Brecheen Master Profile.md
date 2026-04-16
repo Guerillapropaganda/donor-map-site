@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OK02315"
+bills-sponsored: 19
+bills-cosponsored: 273
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Josh Brecheen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 273 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (35)
+- International Affairs (34)
+- Health (34)
+- Crime and Law Enforcement (30)
+- Immigration (22)
+- Armed Forces and National Security (13)
+- Finance and Financial Sector (13)
+- Agriculture and Food (12)
+- Education (12)
+- Congress (11)
+
+**Recent bills sponsored:**
+
+- HR 10472: To authorize the Secretary of the Treasury to make payments to the Quapaw Nation and certain members of the Quapaw Na...
+- HR 9777: To amend the Congressional Budget and Impoundment Control Act of 1974 to require any cost estimate for a bill or join...
+- HR 9757: No More Taxpayer Cash for the Taliban Act
+- HR 9080: Secret Service Readiness Act of 2024
+- HR 7345: Do Our Job Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

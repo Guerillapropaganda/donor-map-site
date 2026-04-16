@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0TX13228"
+bills-sponsored: 27
+bills-cosponsored: 352
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ronny Jackson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 352 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (51)
+- Health (49)
+- Government Operations and Politics (32)
+- Crime and Law Enforcement (32)
+- Agriculture and Food (25)
+- Armed Forces and National Security (22)
+- Immigration (21)
+- Taxation (17)
+- Energy (17)
+- Finance and Financial Sector (15)
+
+**Recent bills sponsored:**
+
+- HR 9923: To designate the facility of the United States Postal Service located at 505 East 9th Avenue in Amarillo, Texas, as t...
+- HR 9208: Improving Military Recruitment at Senior Military Colleges Act
+- HR 9155: Wildfire Victim Tax Relief and Recovery Act
+- HR 9103: Air Force Technical Training Enhancement Act
+- HR 8434: A bill to designate the facility of the United States Postal Service located at 107 North Hoyne Avenue in Fritch, Tex...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

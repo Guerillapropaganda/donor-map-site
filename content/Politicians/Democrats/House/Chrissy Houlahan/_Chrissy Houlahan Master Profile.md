@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8PA06087"
+bills-sponsored: 27
+bills-cosponsored: 377
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Chrissy Houlahan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 377 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (72)
+- Armed Forces and National Security (64)
+- International Affairs (36)
+- Government Operations and Politics (36)
+- Taxation (25)
+- Crime and Law Enforcement (22)
+- Labor and Employment (19)
+- Education (14)
+- Immigration (12)
+- Agriculture and Food (12)
+
+**Recent bills sponsored:**
+
+- HRES 1510: Expressing support for "Military Sexual Trauma Awareness Day".
+- HRES 1298: A resolution designating June 16, 2023, as National Service and Conservation Corps Day.
+- HR 8711: To amend title II of the Public Health Service Act to include as an additional right or privilege of commissioned off...
+- HR 8633: Stop Copay Overpay Act
+- HR 8479: Unity through Service Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

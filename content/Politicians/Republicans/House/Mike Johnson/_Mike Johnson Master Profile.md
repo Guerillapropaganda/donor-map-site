@@ -21,8 +21,8 @@ top-donors:
   - Fossil Fuel Bloc
 bioguide-id: J000299
 govtrack-id: 412706
-bills-sponsored: 6
-bills-cosponsored: 3
+bills-sponsored: 11
+bills-cosponsored: 126
 website: https://mikejohnson.house.gov
 phone: 202-225-2777
 last-enriched: "2026-04-07"
@@ -36,6 +36,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Leonard Leo]] · [[Peter Thiel]] · [[AIPAC - American Israel Public Affairs Committee]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[Chip Roy Master Profile]]"
 donors: "[[National Restaurant Association]] · [[Patrick Soon-Shiong]] · [[Western Growers Association]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[American Iron and Steel Institute]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Peter Thiel]] · [[Raytheon (RTX Corporation)]]"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -212,6 +214,39 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 126 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (20)
+- Crime and Law Enforcement (18)
+- Government Operations and Politics (13)
+- Taxation (9)
+- Armed Forces and National Security (8)
+- Education (8)
+- Finance and Financial Sector (7)
+- International Affairs (7)
+- Immigration (5)
+- Law (5)
+
+**Recent bills sponsored:**
+
+- HRES 1126: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
+- HR 5488: Protecting Our Courts from Foreign Manipulation Act of 2023
+- HR 4872: Federal Lands Amplified Security for the Homeland (FLASH) Act
+- HR 4491: Ensuring Faith in Our Elections Act
+- HR 1580: HALT Fentanyl Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

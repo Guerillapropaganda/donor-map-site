@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 22
+bills-cosponsored: 299
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jennifer A. Kiggans
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 299 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (83)
+- Health (57)
+- International Affairs (37)
+- Public Lands and Natural Resources (16)
+- Government Operations and Politics (16)
+- Taxation (15)
+- Crime and Law Enforcement (12)
+- Finance and Financial Sector (9)
+- Agriculture and Food (7)
+- Environmental Protection (7)
+
+**Enacted into law:**
+
+- HR 7091: Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

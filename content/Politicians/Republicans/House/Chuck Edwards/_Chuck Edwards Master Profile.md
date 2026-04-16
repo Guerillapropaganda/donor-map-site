@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NC14050"
+bills-sponsored: 27
+bills-cosponsored: 283
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Chuck Edwards
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 283 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (31)
+- Government Operations and Politics (29)
+- Armed Forces and National Security (27)
+- International Affairs (24)
+- Finance and Financial Sector (18)
+- Transportation and Public Works (17)
+- Education (16)
+- Labor and Employment (14)
+- Taxation (14)
+- Immigration (13)
+
+**Enacted into law:**
+
+- HR 2830: Veteran Improvement Commercial Driver License Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

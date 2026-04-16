@@ -18,8 +18,8 @@ issues:
   - "Healthcare"
 bioguide-id: "G000386"
 govtrack-id: 300048
-bills-sponsored: 73
-bills-cosponsored: 202
+bills-sponsored: 77
+bills-cosponsored: 324
 website: "https://www.grassley.senate.gov"
 phone: "202-224-3744"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[Federalist Society]] · [[Heritage Foundation]] · [[Mike Lee]]"
@@ -31,6 +31,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 <!-- auto:data-panel start -->
@@ -238,6 +240,39 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 77 |
+| Bills Cosponsored | 324 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (59)
+- International Affairs (49)
+- Health (42)
+- Agriculture and Food (29)
+- Education (24)
+- Finance and Financial Sector (20)
+- Government Operations and Politics (19)
+- Congress (18)
+- Immigration (16)
+- Armed Forces and National Security (15)
+
+**Recent bills sponsored:**
+
+- S 5578: A bill to amend title 18, United States Code, to reform certain forfeiture procedures, and for other purposes.
+- S 5510: A bill to amend title XI of the Social Security Act to require pharmaceutical and device manufacturers to publicly di...
+- S 5437: A bill to authorize the Secretary of Health and Human Services to collect registration fees from members of the Organ...
+- S 5164: Temporary Extension of Fentanyl Scheduling Act of 2024
+- S 5160: A bill to expand the sharing of information with respect to suspected violations of intellectual property rights in t...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

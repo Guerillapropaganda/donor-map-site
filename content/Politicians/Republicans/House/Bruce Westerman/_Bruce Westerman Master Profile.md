@@ -32,6 +32,10 @@ reenrich-reason: re-run congress pipeline
 bioguide-id: W000821
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 16
+bills-cosponsored: 166
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -251,6 +255,39 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 166 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (27)
+- International Affairs (17)
+- Armed Forces and National Security (17)
+- Crime and Law Enforcement (16)
+- Finance and Financial Sector (12)
+- Taxation (12)
+- Education (11)
+- Agriculture and Food (8)
+- Environmental Protection (8)
+- Government Operations and Politics (8)
+
+**Recent bills sponsored:**
+
+- HR 10409: To address the high costs of health care services, prescription drugs, and health insurance coverage in the United St...
+- HR 9938: Promising Pathway Act 2.0
+- HRES 1467: A resolution calling on Congress, schools, and State and local educational agencies to recognize the significant educ...
+- HR 9533: ESA Amendments Act of 2024
+- HR 8993: Focus on Learning Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

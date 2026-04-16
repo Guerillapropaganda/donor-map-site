@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0FL03175"
+bills-sponsored: 23
+bills-cosponsored: 280
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kat Cammack
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 280 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (41)
+- Crime and Law Enforcement (32)
+- Government Operations and Politics (28)
+- Agriculture and Food (25)
+- International Affairs (25)
+- Taxation (19)
+- Armed Forces and National Security (19)
+- Finance and Financial Sector (16)
+- Science, Technology, Communications (12)
+- Education (11)
+
+**Recent bills sponsored:**
+
+- HR 9648: Regulations from the Executive in Need of Scrutiny Act of 2024
+- HR 9555: Countering Communist China Act
+- HR 9397: COP Act of 2024
+- HR 9141: IVF with HSAs Act of 2024
+- HR 8450: H.R. 8450, Phosphate and Potash Protection Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

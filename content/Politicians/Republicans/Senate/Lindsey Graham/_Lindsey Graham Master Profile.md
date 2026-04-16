@@ -29,6 +29,10 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Pr
 donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S0SC00149"
+bills-sponsored: 39
+bills-cosponsored: 269
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -228,3 +232,37 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 - [Defense News: Senate passes Ukraine, Israel, Taiwan aid amid Trump-fueled opposition](https://www.defensenews.com/congress/2024/02/13/senate-passes-ukraine-israel-taiwan-aid-amid-trump-fueled-opposition/) (Tier 2) (VERIFIED)
 - [Ballotpedia: Lindsey Graham](https://ballotpedia.org/Lindsey_Graham) (Tier 3) (VERIFIED)
 
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 269 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (68)
+- Crime and Law Enforcement (33)
+- Congress (18)
+- Education (15)
+- Energy (15)
+- Armed Forces and National Security (15)
+- Environmental Protection (15)
+- Immigration (14)
+- Health (13)
+- Taxation (13)
+
+**Recent bills sponsored:**
+
+- S 5643: A bill to impose sanctions with respect to the Government of Turkiye, and for other purposes.
+- SRES 931: A resolution recognizing the exceptional service of Ambassador Michael Herzog during his tenure as Ambassador of Isra...
+- S 5457: A bill to amend the Internal Revenue Code of 1986 to allow a portion of general business credit carryforwards to be t...
+- SRES 860: A resolution designating the week of October 1, 2023, through October 7, 2023, as "Religious Education Week" to celeb...
+- S 5223: Birthright Citizenship Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

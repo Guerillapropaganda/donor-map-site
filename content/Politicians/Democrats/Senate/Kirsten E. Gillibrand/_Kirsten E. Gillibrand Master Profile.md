@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 71
+bills-cosponsored: 428
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kirsten E. Gillibrand
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 428 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (87)
+- Agriculture and Food (58)
+- Crime and Law Enforcement (38)
+- Labor and Employment (28)
+- Government Operations and Politics (27)
+- Armed Forces and National Security (25)
+- International Affairs (23)
+- Taxation (23)
+- Congress (21)
+- Civil Rights and Liberties, Minority Issues (19)
+
+**Recent bills sponsored:**
+
+- S 5627: A bill to amend title 39, United States Code, to provide that the United States Postal Service may provide certain ba...
+- S 5590: A bill to redesignate Saratoga National Historical Park as Saratoga National Battlefield Park.
+- S 5591: A bill to designate the Holcombe Rucker Park National Commemorative Site in Harlem, New York, and for other purposes.
+- S 5589: A bill to establish a grant for the National September 11 Memorial &amp; Museum, and for other purposes.
+- S 5566: A bill to amend the Internal Revenue Code of 1986 to exclude from gross income any judgments, awards, and settlements...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 34
+bills-cosponsored: 305
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Beth van Duyne
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 305 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (48)
+- Crime and Law Enforcement (41)
+- Health (39)
+- International Affairs (34)
+- Government Operations and Politics (18)
+- Education (17)
+- Immigration (16)
+- Armed Forces and National Security (12)
+- Finance and Financial Sector (11)
+- Labor and Employment (10)
+
+**Recent bills sponsored:**
+
+- HR 10556: To require the Secretary of Homeland Security to promptly comply with State requests for information regarding the ci...
+- HR 10557: To prohibit the use of Federal funds for congressional earmarks targeted to a State or unit of local government that ...
+- HR 10240: Portable Ultrasound Reimbursement Equity Act of 2024
+- HR 10097: Enhancing Hospice Oversight and Transparency Act
+- HR 10098: Family Plus Health Care Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

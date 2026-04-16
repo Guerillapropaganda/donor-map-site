@@ -30,6 +30,10 @@ total-spent: 77488
 cash-on-hand: 100010
 individual-contributions: 10509
 contributions-to-committees: 51700
+bills-sponsored: 45
+bills-cosponsored: 199
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -51,3 +55,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Darrell Issa
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 199 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (43)
+- Crime and Law Enforcement (24)
+- Government Operations and Politics (23)
+- Finance and Financial Sector (14)
+- Commerce (12)
+- Energy (12)
+- Armed Forces and National Security (11)
+- Immigration (10)
+- Taxation (10)
+- Law (9)
+
+**Enacted into law:**
+
+- HR 7803: A bill to amend title 35, United States Code, to provide a good faith exception to the imposition of fines for false ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

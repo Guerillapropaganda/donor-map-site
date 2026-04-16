@@ -24,6 +24,10 @@ known-gaps:
 donors: "[[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4NJ00466"
+bills-sponsored: 25
+bills-cosponsored: 567
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andy Kim
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 567 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (89)
+- Armed Forces and National Security (64)
+- International Affairs (62)
+- Government Operations and Politics (47)
+- Crime and Law Enforcement (44)
+- Education (44)
+- Labor and Employment (27)
+- Taxation (25)
+- Agriculture and Food (22)
+- Civil Rights and Liberties, Minority Issues (20)
+
+**Enacted into law:**
+
+- HR 4220: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

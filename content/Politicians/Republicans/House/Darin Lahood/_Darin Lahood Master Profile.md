@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6IL18088"
+bills-sponsored: 37
+bills-cosponsored: 233
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Darin Lahood
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 233 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (67)
+- Health (33)
+- International Affairs (23)
+- Crime and Law Enforcement (22)
+- Armed Forces and National Security (15)
+- Agriculture and Food (13)
+- Finance and Financial Sector (12)
+- Foreign Trade and International Finance (11)
+- Education (10)
+- Government Operations and Politics (9)
+
+**Recent bills sponsored:**
+
+- HR 10468: To amend the Internal Revenue Code of 1986 to establish an elective residency-based income tax for nonresident citize...
+- HR 10225: Rebuild America’s Health Care Schools Act of 2024
+- HR 9267: Preserving Rural Housing Investments Act
+- HR 9076: PARENT Act of 2024
+- HR 8864: Electronic Communication Uniformity Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

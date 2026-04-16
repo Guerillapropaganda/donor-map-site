@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 13
+bills-cosponsored: 219
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John W. Rose
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 219 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (31)
+- International Affairs (27)
+- Health (25)
+- Crime and Law Enforcement (21)
+- Taxation (17)
+- Government Operations and Politics (15)
+- Agriculture and Food (12)
+- Armed Forces and National Security (9)
+- Education (9)
+- Immigration (8)
+
+**Recent bills sponsored:**
+
+- HRES 1561: Condemning President Biden's remarks referring to President Trump's supporters as "garbage".
+- HR 9579: Financial Innovation and Technology for the 21st Century Act
+- HR 7297: Homebuyers Privacy Protection Act
+- HR 5931: Countering Chinese Threats to U.S. National Security in Africa Act
+- HR 5198: Revitalizing America’s Housing Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

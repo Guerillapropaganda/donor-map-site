@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NE01118"
+bills-sponsored: 19
+bills-cosponsored: 220
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Flood
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 220 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (33)
+- Health (27)
+- Agriculture and Food (20)
+- International Affairs (16)
+- Armed Forces and National Security (16)
+- Taxation (15)
+- Crime and Law Enforcement (12)
+- Labor and Employment (11)
+- Government Operations and Politics (10)
+- Transportation and Public Works (9)
+
+**Recent bills sponsored:**
+
+- HR 10454: To repeal section 138 of the Clean Air Act, relating to environmental and climate justice block grants.
+- HR 10391: To prohibit the continuing availability of any portion of a Federal payment to the District of Columbia for a program...
+- HR 10351: To direct the Secretary of Housing and Urban Development, acting through the Assistant Secretary for Policy Developme...
+- HR 10319: To require annual reports on bonuses awarded to career Senior Executive Service employees, and for other purposes.
+- HR 10213: Whole-Home Repairs Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NJ13075"
+bills-sponsored: 14
+bills-cosponsored: 279
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Robert Menendez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 279 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- Crime and Law Enforcement (38)
+- International Affairs (31)
+- Transportation and Public Works (22)
+- Labor and Employment (21)
+- Government Operations and Politics (17)
+- Taxation (15)
+- Education (13)
+- Civil Rights and Liberties, Minority Issues (12)
+- Immigration (8)
+
+**Recent bills sponsored:**
+
+- HR 10499: To establish a pilot program on home kenneling of canines for U.S. Customs and Border Protection's Office of Field Op...
+- HR 10370: To amend the Federal Food, Drug, and Cosmetic Act to establish certain labeling requirements for caffeine, and for ot...
+- HR 10344: To authorize the Secretary of Housing and Urban Development to establish a program enabling communities to better lev...
+- HR 9762: H.R. 9762, DHS International Cyber Partner Act of 2024
+- HRES 1488: Expressing support for the designation of the week of September 23, 2024, as "National Latino Gastronomic Cuisine Wee...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

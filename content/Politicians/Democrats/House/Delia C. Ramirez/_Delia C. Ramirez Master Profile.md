@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 14
+bills-cosponsored: 576
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Delia C. Ramirez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 576 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (63)
+- Crime and Law Enforcement (62)
+- Immigration (42)
+- Labor and Employment (40)
+- Civil Rights and Liberties, Minority Issues (35)
+- Government Operations and Politics (35)
+- International Affairs (34)
+- Armed Forces and National Security (31)
+- Housing and Community Development (30)
+- Taxation (28)
+
+**Recent bills sponsored:**
+
+- HR 10539: To amend section 222 of the Immigration and Nationality Act to prohibit the rejection of immigrant and nonimmigrant a...
+- HR 10504: To establish in the Department of Homeland Security the Task Force on the Reunification of Families, and for other pu...
+- HR 10237: CBP Guidance on Personal Belongings Act
+- HR 10148: To amend title 38, United States Code, to expand the authority of the Secretary of Veterans Affairs to make grants to...
+- HRES 1553: Expressing the sense that the House of Representatives must take responsible and timely action to address the Federal...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

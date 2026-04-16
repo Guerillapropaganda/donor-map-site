@@ -28,8 +28,8 @@ top-donors:
   - "NYC Dept of Education employees"
 govtrack-id: 412804
 bioguide-id: "O000172"
-bills-sponsored: 59
-bills-cosponsored: 1609
+bills-sponsored: 11
+bills-cosponsored: 378
 website: "https://ocasio-cortez.house.gov"
 phone: "202-225-3965"
 total-received: "$23,658,045"
@@ -66,6 +66,8 @@ total-raised: "$23,658,045"
 total-spent: "$13,983,781"
 cash-on-hand: "13408910.09"
 fec-cycle: 2026
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -241,7 +243,40 @@ The class function AOC performs is unique: she demonstrates that the small-dolla
 - [Slate: AOC apologizes after "present" vote on Iron Dome](https://slate.com/news-and-politics/2021/09/aoc-apologizes-present-vote-iron-dome-funding.html) (Tier 2) (VERIFIED)
 - [Quiver Quantitative: Q4 2025 Filing](https://www.quiverquant.com/news/Fundraising+Update:+Representative+Alexandria+Ocasio-Cortez+just+disclosed+$3.7M+of+new+fundraising) (Tier 2) (VERIFIED)
 
-### Archived
+#### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 378 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (49)
+- Government Operations and Politics (33)
+- Labor and Employment (32)
+- Civil Rights and Liberties, Minority Issues (27)
+- Crime and Law Enforcement (26)
+- Education (20)
+- Taxation (19)
+- Environmental Protection (19)
+- International Affairs (17)
+- Housing and Community Development (16)
+
+**Recent bills sponsored:**
+
+- HR 9705: Oyster Reef Recovery Act
+- HR 9662: Homes Act of 2024
+- HRES 1353: Impeaching Clarence Thomas, Associate Justice of the Supreme Court of the United States, for high crimes and misdemea...
+- HRES 1354: Impeaching Samuel Alito, Jr., Associate Justice of the Supreme Court of the United States, for high crimes and misdem...
+- HR 7782: Green New Deal for Public Housing Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Archived
 - ~~[OpenSecrets: AOC Industries Combined](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C)~~ (was Tier 1, OpenSecrets demoted, FEC data preserved)
 - ~~[OpenSecrets: Courage to Change PAC 2024](https://www.opensecrets.org/political-action-committees-pacs/courage-to-change/C00692202/summary/2024)~~ (was Tier 1, FEC committee page above covers same data)
 

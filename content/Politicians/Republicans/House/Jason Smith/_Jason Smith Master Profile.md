@@ -20,8 +20,8 @@ last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 govtrack-id: 412596
-bills-sponsored: 7
-bills-cosponsored: 27
+bills-sponsored: 14
+bills-cosponsored: 67
 website: https://jasonsmith.house.gov
 phone: 202-225-4404
 donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Real Estate Roundtable]]"
@@ -39,6 +39,8 @@ issues:
   - Families
   - Foreign Trade and International Finance
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -321,6 +323,35 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 | 8813 | Preventing Child Welfare Entry Caused by Poverty Act | Referred to the Subcommittee on Work and Welfare. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 67 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (10)
+- Taxation (9)
+- Crime and Law Enforcement (8)
+- Agriculture and Food (7)
+- Finance and Financial Sector (6)
+- Health (4)
+- Environmental Protection (4)
+- Transportation and Public Works (4)
+- Congress (4)
+- Foreign Trade and International Finance (3)
+
+**Enacted into law:**
+
+- HR 4004: United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 34
+bills-cosponsored: 395
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Bradley Scott Schneider
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 395 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (90)
+- Health (75)
+- Taxation (45)
+- Crime and Law Enforcement (43)
+- Civil Rights and Liberties, Minority Issues (20)
+- Armed Forces and National Security (16)
+- Government Operations and Politics (16)
+- Education (12)
+- Immigration (10)
+- Labor and Employment (10)
+
+**Enacted into law:**
+
+- HR 2531: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

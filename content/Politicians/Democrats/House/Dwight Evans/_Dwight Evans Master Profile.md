@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6PA02171"
+bills-sponsored: 11
+bills-cosponsored: 624
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Dwight Evans
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 624 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Crime and Law Enforcement (57)
+- Taxation (47)
+- Government Operations and Politics (40)
+- Civil Rights and Liberties, Minority Issues (39)
+- International Affairs (39)
+- Education (38)
+- Agriculture and Food (34)
+- Labor and Employment (34)
+- Armed Forces and National Security (20)
+
+**Recent bills sponsored:**
+
+- HRES 1591: Recognizing November 2023 as "National Family Caregivers Month".
+- HR 9306: Safe Streets for All Program Improvement Act
+- HR 9063: Legal Guardianship Inclusion Act
+- HR 9041: PEER Mentors Act of 2024
+- HRES 898: A resolution recognizing November 2023 as "National Family Caregivers Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

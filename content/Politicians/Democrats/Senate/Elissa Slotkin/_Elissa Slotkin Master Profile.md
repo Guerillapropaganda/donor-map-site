@@ -24,6 +24,10 @@ known-gaps:
 donors: "[[Fairshake PAC]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4MI00470"
+bills-sponsored: 63
+bills-cosponsored: 380
+bills-enacted: 5
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Elissa Slotkin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 63 |
+| Bills Cosponsored | 380 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (90)
+- Health (57)
+- Agriculture and Food (37)
+- International Affairs (33)
+- Crime and Law Enforcement (28)
+- Government Operations and Politics (23)
+- Taxation (21)
+- Labor and Employment (20)
+- Civil Rights and Liberties, Minority Issues (16)
+- Immigration (16)
+
+**Enacted into law:**
+
+- HR 5260: National Defense Authorization Act for Fiscal Year 2024
+- HR 2852: National Defense Authorization Act for Fiscal Year 2024
+- HR 5261: National Defense Authorization Act for Fiscal Year 2024
+- HR 5262: National Defense Authorization Act for Fiscal Year 2024
+- HR 6895: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

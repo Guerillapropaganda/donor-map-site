@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 80
+bills-cosponsored: 416
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andrew Ogles
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 80 |
+| Bills Cosponsored | 416 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (67)
+- Crime and Law Enforcement (51)
+- Finance and Financial Sector (48)
+- Government Operations and Politics (47)
+- Immigration (35)
+- Health (33)
+- Taxation (24)
+- Armed Forces and National Security (21)
+- Labor and Employment (20)
+- Energy (19)
+
+**Recent bills sponsored:**
+
+- HR 10434: To amend the Consumer Product Safety Act to increase reliance by the Consumer Product Safety Commission on voluntary ...
+- HR 10324: To amend title 5, United States Code, to address telework for Federal employees, and for other purposes.
+- HR 10309: Build America First Act
+- HR 10075: Stopping the Mutilation of Children Act of 2024
+- HR 10052: Americans First Disaster Relief Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

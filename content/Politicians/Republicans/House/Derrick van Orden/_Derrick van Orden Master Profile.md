@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0WI03175"
+bills-sponsored: 31
+bills-cosponsored: 321
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Derrick van Orden
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 321 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (72)
+- Agriculture and Food (34)
+- Transportation and Public Works (27)
+- Taxation (27)
+- International Affairs (23)
+- Health (23)
+- Government Operations and Politics (18)
+- Crime and Law Enforcement (18)
+- Environmental Protection (13)
+- Finance and Financial Sector (11)
+
+**Recent bills sponsored:**
+
+- HR 9715: Strengthening our Servicemembers with Milk Act
+- HCONRES 128: Expressing support for the designation of September 29, 2024, as "Veterans of Foreign Wars of the United States Day".
+- HR 8647: VA Home Loan Program Reform Act
+- HR 8646: Modernizing the Veterans On-Campus Experience Act of 2024
+- HR 8592: Warriors to Workforce Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

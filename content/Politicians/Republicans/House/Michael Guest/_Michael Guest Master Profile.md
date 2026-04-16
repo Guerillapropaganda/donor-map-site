@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8MS03125"
+bills-sponsored: 16
+bills-cosponsored: 361
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michael Guest
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 361 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (54)
+- Crime and Law Enforcement (42)
+- Health (42)
+- Immigration (25)
+- Education (22)
+- Government Operations and Politics (22)
+- Armed Forces and National Security (19)
+- Agriculture and Food (18)
+- Taxation (17)
+- Finance and Financial Sector (15)
+
+**Enacted into law:**
+
+- HR 1401: END FENTANYL Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

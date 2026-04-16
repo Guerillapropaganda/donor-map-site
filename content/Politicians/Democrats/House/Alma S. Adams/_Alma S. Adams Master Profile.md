@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 28
+bills-cosponsored: 524
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Alma S. Adams
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 524 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (105)
+- Agriculture and Food (57)
+- Education (57)
+- Labor and Employment (46)
+- Crime and Law Enforcement (38)
+- Civil Rights and Liberties, Minority Issues (38)
+- International Affairs (30)
+- Taxation (22)
+- Government Operations and Politics (22)
+- Armed Forces and National Security (19)
+
+**Recent bills sponsored:**
+
+- HR 10383: To authorize grants to support long-term climate resiliency for archival institutions, libraries, and museums in orde...
+- HR 9794: Industrial Agriculture Conversion Act of 2024
+- HR 9753: Parent Plus Parity Act
+- HRES 1424: Expressing the sense of Congress that August 30, 2023, be observed as the 133d anniversary of the 1890 Institutions.
+- HRES 1416: Expressing support for the designation of the week of August 25, 2024, through August 31, 2024, as "Black Breastfeedi...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

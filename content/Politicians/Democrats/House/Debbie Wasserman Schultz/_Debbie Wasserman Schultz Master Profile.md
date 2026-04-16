@@ -39,6 +39,10 @@ total-spent: $875,347
 cash-on-hand: "1967326.77"
 fec-cycle: 2026
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 35
+bills-cosponsored: 465
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -294,6 +298,39 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 465 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (115)
+- International Affairs (60)
+- Crime and Law Enforcement (47)
+- Government Operations and Politics (47)
+- Civil Rights and Liberties, Minority Issues (26)
+- Labor and Employment (23)
+- Immigration (22)
+- Education (19)
+- Armed Forces and National Security (17)
+- Taxation (16)
+
+**Recent bills sponsored:**
+
+- HRES 1596: Recognizing November 30, 2024, as Yom Haplitim or Jewish Refugee Day.
+- HR 9995: REVOCAR Act
+- HR 9858: Reinforcing Crime Victims’ Rights Act
+- HR 9713: BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2024
+- HR 9641: PROTECT Our Children Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

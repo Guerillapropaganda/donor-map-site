@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OH03125"
+bills-sponsored: 31
+bills-cosponsored: 363
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Joyce Beatty
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 363 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (71)
+- Civil Rights and Liberties, Minority Issues (36)
+- Finance and Financial Sector (34)
+- Crime and Law Enforcement (33)
+- Government Operations and Politics (23)
+- Education (21)
+- Housing and Community Development (20)
+- International Affairs (20)
+- Labor and Employment (18)
+- Taxation (17)
+
+**Recent bills sponsored:**
+
+- HR 10518: To amend the Elementary and Secondary Education Act of 1965 to provide grants to local educational agencies to encour...
+- HR 10417: To amend the Runaway and Homeless Youth Act to permit services provided by grant recipients to include provision of s...
+- HR 10354: To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to require regulated entities to provide infor...
+- HR 10336: To improve access for diverse-owned asset management firms, and for other purposes.
+- HR 10283: Diversity Data Accountability Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

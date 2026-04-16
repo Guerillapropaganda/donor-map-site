@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2IL13153"
+bills-sponsored: 15
+bills-cosponsored: 479
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Nikki Budzinski
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 479 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (90)
+- Agriculture and Food (46)
+- Labor and Employment (43)
+- Armed Forces and National Security (43)
+- Government Operations and Politics (35)
+- Taxation (34)
+- Crime and Law Enforcement (30)
+- Civil Rights and Liberties, Minority Issues (20)
+- Education (19)
+- International Affairs (18)
+
+**Recent bills sponsored:**
+
+- HR 9806: Improving Veterans’ Experience Act of 2024
+- HR 9193: Secure and Affordable Broadband Extension Act
+- HR 9179: SAFE STEPS for Veterans Act of 2024
+- HR 9140: To direct the Secretary of the Interior to issue a report regarding the effects of mine subsidence.
+- HR 8166: To require the Secretary of Defense to issue regulations requiring that optional combat boots worn by members of the ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

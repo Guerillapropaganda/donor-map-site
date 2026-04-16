@@ -26,6 +26,10 @@ donors: "[[House Freedom Caucus]]"
 related: "[[House Freedom Caucus]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2PA04135"
+bills-sponsored: 41
+bills-cosponsored: 221
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -47,3 +51,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Scott Perry
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 221 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (31)
+- International Affairs (25)
+- Taxation (23)
+- Transportation and Public Works (21)
+- Environmental Protection (18)
+- Crime and Law Enforcement (15)
+- Energy (14)
+- Labor and Employment (13)
+- Armed Forces and National Security (12)
+- Finance and Financial Sector (11)
+
+**Recent bills sponsored:**
+
+- HR 10402: To recognize Somaliland of the Federal Republic of Somalia as a separate, independent country.
+- HR 10279: Taiwan PLUS Act
+- HR 10076: Bertie’s Respect for National Cemeteries Act
+- HR 9594: Protecting Taxpayers’ Wallets Act
+- HR 8869: IVF Protection Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

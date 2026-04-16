@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 17
+bills-cosponsored: 191
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andrew S. Clyde
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 191 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (29)
+- Government Operations and Politics (28)
+- Health (21)
+- International Affairs (18)
+- Immigration (13)
+- Taxation (13)
+- Armed Forces and National Security (11)
+- Education (11)
+- Finance and Financial Sector (8)
+- Labor and Employment (8)
+
+**Recent bills sponsored:**
+
+- HR 10414: To repeal the Impoundment Control Act of 1974.
+- HR 10299: Medicaid Funds Integrity Act of 2024
+- HR 9941: No Guns for Illegal Aliens Act
+- HR 9913: Ending FCC Meddling in Our Elections Act
+- HR 8838: Free Speech Defense Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

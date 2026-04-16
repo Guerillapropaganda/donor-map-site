@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 21
+bills-cosponsored: 245
+bills-enacted: 0
+top-policy-area: "Education"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Joe Courtney
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 245 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Education (28)
+- Health (28)
+- Taxation (23)
+- Armed Forces and National Security (23)
+- Government Operations and Politics (20)
+- Crime and Law Enforcement (19)
+- International Affairs (17)
+- Labor and Employment (16)
+- Civil Rights and Liberties, Minority Issues (13)
+- Agriculture and Food (13)
+
+**Recent bills sponsored:**
+
+- HR 10547: To amend the Elementary and Secondary Education Act to expand the Magnet Schools Assistance Program.
+- HR 10477: To amend the Higher Education Act of 1965 to improve the Public Service Loan Forgiveness program and reduce interest ...
+- HR 10273: To direct the Secretary of Defense, in consultation the heads of certain agencies and organizations, to conduct a stu...
+- HR 9517: To direct the Secretary of Education to deem each month for which certain Federal student loans are in deferment duri...
+- HR 8472: Freight for Farms Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

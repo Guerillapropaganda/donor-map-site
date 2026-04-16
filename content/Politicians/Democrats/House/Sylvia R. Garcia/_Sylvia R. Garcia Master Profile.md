@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 18
+bills-cosponsored: 492
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sylvia R. Garcia
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 492 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (52)
+- Crime and Law Enforcement (52)
+- Civil Rights and Liberties, Minority Issues (38)
+- Armed Forces and National Security (34)
+- Education (34)
+- International Affairs (34)
+- Labor and Employment (30)
+- Finance and Financial Sector (29)
+- Immigration (26)
+- Government Operations and Politics (21)
+
+**Recent bills sponsored:**
+
+- HR 10426: To amend part E of title IV of the Social Security Act to require States to prohibit genital surgery on foster childr...
+- HR 10153: Women Veterans Cancer Care Coordination Act
+- HR 8252: Improving Language Access in Mortgage Servicing Act of 2024
+- HR 7949: STOP CSAM Act of 2023
+- HR 6338: Veterans’ Cancer Care Coordinator Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

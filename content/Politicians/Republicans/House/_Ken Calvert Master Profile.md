@@ -16,8 +16,8 @@ top-donors:
   - Raytheon PAC
 bioguide-id: C000059
 govtrack-id: 400057
-bills-sponsored: 20
-bills-cosponsored: 162
+bills-sponsored: 21
+bills-cosponsored: 198
 website: https://calvert.house.gov
 phone: 202-225-1986
 total-received: $4,493,644
@@ -34,6 +34,8 @@ known-gaps:
 related: "[[Raytheon (RTX)|Raytheon PAC]]"
 donors: "[[Elon Musk]], [[Edf Action Votes]], [[EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)]], [[HMP]], [[LCV VICTORY FUND]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]]"
 urls-first-triaged: "2026-04-15"
+bills-enacted: 1
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -248,6 +250,35 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 198 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (29)
+- International Affairs (27)
+- Crime and Law Enforcement (21)
+- Taxation (20)
+- Armed Forces and National Security (19)
+- Health (13)
+- Finance and Financial Sector (10)
+- Environmental Protection (9)
+- Transportation and Public Works (8)
+- Public Lands and Natural Resources (7)
+
+**Enacted into law:**
+
+- HR 273: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

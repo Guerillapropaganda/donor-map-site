@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8PA18199"
+bills-sponsored: 25
+bills-cosponsored: 382
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Guy Reschenthaler
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 382 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (59)
+- Crime and Law Enforcement (42)
+- Taxation (38)
+- Health (35)
+- Armed Forces and National Security (32)
+- Government Operations and Politics (31)
+- Finance and Financial Sector (22)
+- Congress (20)
+- Energy (18)
+- Immigration (14)
+
+**Recent bills sponsored:**
+
+- HR 9677: Modernize the Au Pair Program Act of 2024
+- HRES 1376: Strongly condemning the Biden Administration and its Border Czar, Kamala Harris's, failure to secure the United State...
+- HRES 1269: Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2025
+- HR 8445: To amend title 38, United States Code, and the Servicemembers Civil Relief Act to provide for the eligibility of Unit...
+- HRES 1149: Fourth Amendment Is Not For Sale Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

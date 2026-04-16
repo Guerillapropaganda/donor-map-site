@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 38
+bills-cosponsored: 894
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Bonnie Watson Coleman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 38 |
+| Bills Cosponsored | 894 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (177)
+- Crime and Law Enforcement (76)
+- Civil Rights and Liberties, Minority Issues (62)
+- Education (57)
+- Government Operations and Politics (50)
+- International Affairs (49)
+- Agriculture and Food (45)
+- Taxation (41)
+- Labor and Employment (41)
+- Transportation and Public Works (36)
+
+**Recent bills sponsored:**
+
+- HR 10189: Commission on Advancing Restorative Justice in Elementary and Secondary Education Act of 2024
+- HRES 1539: Recognizing the roles and the contributions of United States certified nurse-midwives and certified midwives in provi...
+- HR 8911: Worker Rights and Support Act
+- HR 8748: Capitol Dog Relief Act
+- HR 8722: Homes for Young Adults Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

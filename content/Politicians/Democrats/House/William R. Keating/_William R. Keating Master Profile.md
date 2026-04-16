@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 25
+bills-cosponsored: 431
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # William R. Keating
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 431 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (103)
+- Health (75)
+- Armed Forces and National Security (32)
+- Education (29)
+- Crime and Law Enforcement (25)
+- Government Operations and Politics (24)
+- Civil Rights and Liberties, Minority Issues (18)
+- Taxation (18)
+- Agriculture and Food (16)
+- Labor and Employment (15)
+
+**Recent bills sponsored:**
+
+- HR 10492: To amend the Act of August 9, 1955 (commonly known as the "Long-Term Leasing Act"), to authorize leases of up to 99 y...
+- HR 10368: To codify in statute certain sanctions with respect to the Russian Federation.
+- HR 9123: Western Balkans Democracy and Prosperity Act
+- HR 8845: GPA Act
+- HR 8824: The U.S.-European Nuclear Energy Cooperation Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

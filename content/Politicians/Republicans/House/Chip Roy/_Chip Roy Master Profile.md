@@ -14,8 +14,8 @@ district: "21"
 committees:
   - "Judiciary"
 govtrack-id: 412826
-bills-sponsored: 48
-bills-cosponsored: 125
+bills-sponsored: 49
+bills-cosponsored: 682
 website: "https://roy.house.gov"
 phone: "202-225-4236"
 total-received: "$782,581"
@@ -41,6 +41,8 @@ issues:
   - "Health"
   - "Housing and Community Development"
   - "Immigration"
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -292,6 +294,39 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 
 ## Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 682 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (102)
+- Government Operations and Politics (96)
+- Health (81)
+- Congress (78)
+- Agriculture and Food (43)
+- Labor and Employment (42)
+- Environmental Protection (35)
+- Public Lands and Natural Resources (33)
+- Education (22)
+- Commerce (18)
+
+**Recent bills sponsored:**
+
+- HR 10462: To modify a provision relating to adjustments of certain State apportionments for Federal highway programs, and for o...
+- HR 10446: Disaster Offset and Government Efficiency Act
+- HRES 1336: Calling on Vice President Kamala Harris to convene and mobilize the principal officers of the executive departments o...
+- HR 8672: Smarter Sentencing Act of 2023
+- HJRES 160: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

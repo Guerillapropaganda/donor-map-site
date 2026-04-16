@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 29
+bills-cosponsored: 631
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Salud O. Carbajal
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 631 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (89)
+- Armed Forces and National Security (77)
+- Government Operations and Politics (49)
+- Crime and Law Enforcement (41)
+- Agriculture and Food (37)
+- Taxation (36)
+- Transportation and Public Works (33)
+- International Affairs (32)
+- Education (28)
+- Civil Rights and Liberties, Minority Issues (27)
+
+**Enacted into law:**
+
+- HR 5786: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

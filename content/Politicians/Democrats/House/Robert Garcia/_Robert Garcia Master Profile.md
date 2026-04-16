@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2CA47188"
+bills-sponsored: 24
+bills-cosponsored: 398
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Robert Garcia
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 398 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (53)
+- Government Operations and Politics (50)
+- Crime and Law Enforcement (43)
+- Labor and Employment (28)
+- Taxation (26)
+- Civil Rights and Liberties, Minority Issues (21)
+- Agriculture and Food (20)
+- International Affairs (18)
+- Housing and Community Development (18)
+- Armed Forces and National Security (15)
+
+**Enacted into law:**
+
+- HR 5300: GAO Inspector General Parity Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

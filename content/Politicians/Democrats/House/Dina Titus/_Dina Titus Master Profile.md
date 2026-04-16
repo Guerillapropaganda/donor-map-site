@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8NV03036"
+bills-sponsored: 42
+bills-cosponsored: 820
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Dina Titus
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 42 |
+| Bills Cosponsored | 820 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (148)
+- Health (97)
+- Armed Forces and National Security (64)
+- Crime and Law Enforcement (56)
+- Transportation and Public Works (50)
+- Taxation (44)
+- Government Operations and Politics (44)
+- Civil Rights and Liberties, Minority Issues (35)
+- Education (34)
+- Labor and Employment (32)
+
+**Enacted into law:**
+
+- HR 3780: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

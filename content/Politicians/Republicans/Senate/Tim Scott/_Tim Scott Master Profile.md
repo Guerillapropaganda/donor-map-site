@@ -36,6 +36,10 @@ reenrich-reason: re-run congress pipeline
 bioguide-id: S001184
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 54
+bills-cosponsored: 248
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -277,6 +281,39 @@ The class function Scott performs is unique and cannot be replicated by a white 
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 248 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Health (38)
+- Education (31)
+- Taxation (26)
+- Congress (18)
+- Finance and Financial Sector (17)
+- Crime and Law Enforcement (16)
+- Immigration (14)
+- Labor and Employment (13)
+- Environmental Protection (9)
+
+**Recent bills sponsored:**
+
+- S 5357: SBA Disaster Transparency Act
+- SRES 861: A resolution expressing support for the designation of September 2023 as "Sickle Cell Disease Awareness Month" in ord...
+- S 5190: STRATEGIC Act of 2024
+- S 5139: Small Entity Update Act
+- S 5037: Indian Ocean Region Strategic Review Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

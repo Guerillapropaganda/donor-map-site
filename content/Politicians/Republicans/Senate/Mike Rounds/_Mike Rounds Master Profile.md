@@ -24,6 +24,10 @@ known-gaps:
 stock-trades: 9
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4SD00049"
+bills-sponsored: 54
+bills-cosponsored: 339
+bills-enacted: 9
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -69,6 +73,39 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 04/09/2018 | -- | Purchase | $50,001 - $100,000 | Joint |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 339 |
+| Bills Enacted | 9 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (51)
+- Health (35)
+- Finance and Financial Sector (31)
+- Agriculture and Food (30)
+- International Affairs (28)
+- Native Americans (23)
+- Crime and Law Enforcement (23)
+- Environmental Protection (20)
+- Congress (19)
+- Immigration (19)
+
+**Enacted into law:**
+
+- S 2486: National Defense Authorization Act for Fiscal Year 2024
+- S 2502: National Defense Authorization Act for Fiscal Year 2024
+- S 2715: National Defense Authorization Act for Fiscal Year 2024
+- S 3267: S. 3267, a bill to designate the facility of the United States Postal Service located at 410 Dakota Avenue South in H...
+- S 2473: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

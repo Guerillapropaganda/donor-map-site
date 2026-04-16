@@ -26,6 +26,10 @@ urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0FL08208"
 total-spent: 4239
 contributions-to-committees: 3514
+bills-sponsored: 5
+bills-cosponsored: 223
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -47,3 +51,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Daniel Webster
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 5 |
+| Bills Cosponsored | 223 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (29)
+- International Affairs (28)
+- Health (22)
+- Crime and Law Enforcement (17)
+- Transportation and Public Works (16)
+- Government Operations and Politics (15)
+- Immigration (11)
+- Taxation (9)
+- Finance and Financial Sector (8)
+- Science, Technology, Communications (8)
+
+**Recent bills sponsored:**
+
+- HR 9642: Protecting Investments in Our Ports Act
+- HR 7557: Coast Guard Authorization Act of 2024
+- HR 5455: Collision Avoidance Systems Act of 2023
+- HR 2986: HEALTH Act
+- HR 490: Federal Infrastructure Bank Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

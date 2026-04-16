@@ -37,6 +37,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.)]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]], [[POLITICAL ACTION FOR LASTING SECURITY]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[National Committee to Preserve Social Security PAC]], [[Sierra Club Political Committee]], [[Political Action for Lasting Security]]"
 donors: "[[Sierra Club Political Committee]], [[National Committee to Preserve Social Security PAC]], [[POLITICAL ACTION FOR LASTING SECURITY]], [[SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.)]], [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[Political Action for Lasting Security]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 80
+bills-cosponsored: 597
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -306,6 +310,35 @@ On tax policy, he frames himself as the counterweight to Crapo, the progressive 
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 80 |
+| Bills Cosponsored | 597 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (62)
+- Government Operations and Politics (49)
+- Agriculture and Food (45)
+- Crime and Law Enforcement (42)
+- Education (41)
+- Taxation (41)
+- Civil Rights and Liberties, Minority Issues (39)
+- Armed Forces and National Security (36)
+- International Affairs (34)
+- Public Lands and Natural Resources (33)
+
+**Enacted into law:**
+
+- S 1668: Securing the U.S. Organ Procurement and Transplantation Network Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

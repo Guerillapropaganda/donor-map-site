@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0WI05113"
+bills-sponsored: 26
+bills-cosponsored: 206
+bills-enacted: 1
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Scott Fitzgerald
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 206 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (42)
+- Crime and Law Enforcement (30)
+- Taxation (20)
+- International Affairs (19)
+- Labor and Employment (15)
+- Armed Forces and National Security (12)
+- Health (12)
+- Education (11)
+- Government Operations and Politics (10)
+- Agriculture and Food (9)
+
+**Enacted into law:**
+
+- HR 7199: H.R. 7199, a bill to designate the facility of the United States Postal Service located at S74w16860 Janesville Road,...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

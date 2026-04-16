@@ -24,8 +24,8 @@ top-donors:
   - "Paul Singer"
   - "Defense Industry"
 govtrack-id: 412508
-bills-sponsored: 78
-bills-cosponsored: 149
+bills-sponsored: 72
+bills-cosponsored: 274
 website: "https://www.cotton.senate.gov"
 phone: "202-224-2353"
 source-types:
@@ -39,6 +39,8 @@ related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public A
 last-enriched: "2026-04-10"
 bioguide-id: "C001095"
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -246,6 +248,39 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 72 |
+| Bills Cosponsored | 274 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (46)
+- Armed Forces and National Security (40)
+- Crime and Law Enforcement (38)
+- Health (24)
+- Immigration (24)
+- Congress (18)
+- Finance and Financial Sector (18)
+- Education (17)
+- Taxation (16)
+- Government Operations and Politics (11)
+
+**Recent bills sponsored:**
+
+- SRES 935: A resolution condemning the commutation of Michael Conahan granted by President Biden on December 12, 2024.
+- SJRES 119: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- S 5431: A bill to prohibit the use of materials that use the term "West Bank", and for other purposes.
+- S 5419: Protecting Our Essential Medicines Act
+- S 5410: Expel Illegal Chinese Police Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

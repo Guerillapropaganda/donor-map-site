@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0MN04049"
+bills-sponsored: 10
+bills-cosponsored: 496
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Betty McCollum
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 496 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (82)
+- International Affairs (47)
+- Crime and Law Enforcement (40)
+- Civil Rights and Liberties, Minority Issues (32)
+- Taxation (29)
+- Government Operations and Politics (25)
+- Labor and Employment (22)
+- Environmental Protection (20)
+- Agriculture and Food (20)
+- Education (19)
+
+**Recent bills sponsored:**
+
+- HR 9571: CARE Act
+- HRES 1397: Expressing support for July to be designated as "Disability Pride Month".
+- HR 8074: Forever Chemical Regulation and Accountability Act of 2024
+- HR 7289: MRRRI Act
+- HRES 750: A resolution recognizing Operation Green Light for Veterans for supporting veterans and raising awareness about impor...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

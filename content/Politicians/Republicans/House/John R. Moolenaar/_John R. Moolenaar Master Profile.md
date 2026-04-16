@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 28
+bills-cosponsored: 437
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John R. Moolenaar
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 437 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (64)
+- Health (57)
+- Taxation (47)
+- Armed Forces and National Security (33)
+- Government Operations and Politics (27)
+- Crime and Law Enforcement (26)
+- Labor and Employment (21)
+- Finance and Financial Sector (19)
+- Agriculture and Food (17)
+- Energy (17)
+
+**Recent bills sponsored:**
+
+- HJRES 225: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 10127: Neither Permanent Nor Normal Trade Relations Act
+- HR 10100: Economic Security and Diplomacy Act of 2024
+- HR 9843: Patriotic Investment Act
+- HRES 1441: A resolution expressing support for the designation of the week of September 11 through September 17 as "Patriot Week".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

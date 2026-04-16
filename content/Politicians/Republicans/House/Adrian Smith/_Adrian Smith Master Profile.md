@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[ActBlue]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6NE03115"
+bills-sponsored: 38
+bills-cosponsored: 244
+bills-enacted: 3
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,35 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Adrian Smith
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 38 |
+| Bills Cosponsored | 244 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (58)
+- Taxation (53)
+- Crime and Law Enforcement (17)
+- International Affairs (15)
+- Agriculture and Food (14)
+- Government Operations and Politics (14)
+- Finance and Financial Sector (12)
+- Environmental Protection (11)
+- Labor and Employment (11)
+- Energy (10)
+
+**Enacted into law:**
+
+- HJRES 64: Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Insti...
+- HJRES 63: Providing for the reappointment of Michael Govan as a citizen regent of the Board of Regents of the Smithsonian Insti...
+- HJRES 62: Providing for the appointment of Antoinette Bush as a citizen regent of the Board of Regents of the Smithsonian Insti...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

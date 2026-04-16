@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S8ND00120"
+bills-sponsored: 17
+bills-cosponsored: 548
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kevin Cramer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 548 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (57)
+- Armed Forces and National Security (52)
+- International Affairs (50)
+- Finance and Financial Sector (38)
+- Crime and Law Enforcement (34)
+- Taxation (33)
+- Environmental Protection (27)
+- Immigration (25)
+- Education (24)
+- Government Operations and Politics (22)
+
+**Recent bills sponsored:**
+
+- S 5113: Homeward Bound Act
+- S 4652: Firearms Interstate Commerce Reform Act
+- S 4493: Expanding Access to Capital Act of 2023
+- S 4404: To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota,...
+- SRES 591: Reaffirming the deep and steadfast United States-Canada partnership and the ties that bind the two countries in suppo...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

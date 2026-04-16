@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0GA07273"
+bills-sponsored: 16
+bills-cosponsored: 258
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Richard McCormick
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 258 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (68)
+- Health (31)
+- Armed Forces and National Security (26)
+- Government Operations and Politics (21)
+- Crime and Law Enforcement (19)
+- Education (12)
+- Taxation (11)
+- Immigration (11)
+- Science, Technology, Communications (9)
+- Finance and Financial Sector (8)
+
+**Recent bills sponsored:**
+
+- HR 9084: STOP the SWAMP Act
+- HR 9045: Community Association Reporting Exemption Act
+- HRES 1348: Urging the Government of Nigeria to immediately release Tigran Gambaryan from imprisonment.
+- HR 8361: H.R. 8361, Economic Espionage Prevention Act
+- HR 7183: PROTECTS Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

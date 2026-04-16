@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2CA37304"
+bills-sponsored: 34
+bills-cosponsored: 470
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sydney Kamlager-Dove
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 470 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (82)
+- Health (69)
+- Crime and Law Enforcement (59)
+- Civil Rights and Liberties, Minority Issues (40)
+- Government Operations and Politics (37)
+- Education (20)
+- Environmental Protection (18)
+- Labor and Employment (17)
+- Arts, Culture, Religion (16)
+- Taxation (14)
+
+**Enacted into law:**
+
+- HR 5982: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

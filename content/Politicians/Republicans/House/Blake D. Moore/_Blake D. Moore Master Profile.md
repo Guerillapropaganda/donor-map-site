@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 34
+bills-cosponsored: 184
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Blake D. Moore
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 184 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (43)
+- International Affairs (20)
+- Health (16)
+- Crime and Law Enforcement (16)
+- Public Lands and Natural Resources (14)
+- Armed Forces and National Security (13)
+- Congress (9)
+- Finance and Financial Sector (8)
+- Economics and Public Finance (8)
+- Government Operations and Politics (8)
+
+**Recent bills sponsored:**
+
+- HR 9716: H.R. 9716, Increasing Baseline Updates Act
+- HR 9659: Low Income Housing for Defense Communities Act
+- HRES 1460: Strongly condemning "Kamalanomics", Vice President Kamala Harris' radical economic agenda that has increased inflatio...
+- HR 9394: HOPE Act of 2024
+- HR 9183: STAR Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

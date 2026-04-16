@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6NE00129"
+bills-sponsored: 30
+bills-cosponsored: 373
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Pete Ricketts
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 373 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (66)
+- Environmental Protection (36)
+- Health (29)
+- Taxation (27)
+- Agriculture and Food (26)
+- Immigration (25)
+- Crime and Law Enforcement (23)
+- Congress (20)
+- Energy (20)
+- Armed Forces and National Security (17)
+
+**Recent bills sponsored:**
+
+- SRES 928: A resolution honoring the life of Nebraska community leader John Edmund Gottschalk.
+- S 5233: No Capital Gains Allowance for American Adversaries Act
+- S 5234: Protecting Endowments from Our Adversaries Act
+- S 5277: Securing American Agriculture Act
+- S 5244: PRC Military and Human Rights Capital Markets Sanctions Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

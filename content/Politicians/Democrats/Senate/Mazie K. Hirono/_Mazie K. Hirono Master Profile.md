@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 71
+bills-cosponsored: 521
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mazie K. Hirono
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 521 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (63)
+- Health (62)
+- Armed Forces and National Security (46)
+- Government Operations and Politics (42)
+- Education (39)
+- Civil Rights and Liberties, Minority Issues (33)
+- Commerce (33)
+- Taxation (25)
+- International Affairs (24)
+- Immigration (24)
+
+**Recent bills sponsored:**
+
+- S 5469: A bill to direct the Secretary of the Interior to establish a National Climate Adaptation Science Center and Regional...
+- S 5423: A bill to amend the Immigration and Nationality Act to promote family unity, and for other purposes.
+- SRES 901: A resolution supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of vio...
+- SRES 856: Recognizing the month of October 2024 as Filipino American History Month and celebrating the history and culture of F...
+- S 5168: Judiciary Accountability Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

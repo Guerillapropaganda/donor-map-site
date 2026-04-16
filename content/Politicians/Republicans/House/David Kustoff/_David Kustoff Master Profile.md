@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2TN07103"
+bills-sponsored: 28
+bills-cosponsored: 226
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # David Kustoff
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 226 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (44)
+- International Affairs (33)
+- Health (28)
+- Crime and Law Enforcement (22)
+- Finance and Financial Sector (21)
+- Armed Forces and National Security (17)
+- Education (11)
+- Government Operations and Politics (9)
+- Agriculture and Food (9)
+- Labor and Employment (6)
+
+**Recent bills sponsored:**
+
+- HR 10494: To amend the Internal Revenue Code of 1986 to establish a tax credit to incentivize the purchase of American agricult...
+- HCONRES 122: A concurrent resolution expressing the sense of Congress that Operation Legend was successful in reducing and combati...
+- HR 8540: Child Care for American Families Act
+- HR 8179: Winter Oilseed Study Act of 2024
+- HR 8026: CDBG Modernization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

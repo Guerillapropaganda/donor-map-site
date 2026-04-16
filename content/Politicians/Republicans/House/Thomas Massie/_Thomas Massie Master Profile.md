@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2KY04121"
+bills-sponsored: 25
+bills-cosponsored: 85
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Thomas Massie
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 85 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (17)
+- International Affairs (13)
+- Armed Forces and National Security (12)
+- Congress (12)
+- Health (7)
+- Government Operations and Politics (6)
+- Agriculture and Food (5)
+- Labor and Employment (5)
+- Finance and Financial Sector (5)
+- Taxation (4)
+
+**Recent bills sponsored:**
+
+- HJRES 224: Relating to the disapproval of the Presidential report with respect to the indebtedness of the Government of Ukraine.
+- HR 9534: National Constitutional Carry Act
+- HR 8785: Tax Free Tips Act of 2024
+- HR 8519: To prohibit the obligation or expenditure of Federal funds for disinformation research grants, and for other purposes.
+- HR 8421: Federal Reserve Board Abolition Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

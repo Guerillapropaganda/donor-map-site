@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OH09031"
+bills-sponsored: 16
+bills-cosponsored: 249
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Marcy Kaptur
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 249 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (39)
+- International Affairs (31)
+- Government Operations and Politics (23)
+- Taxation (19)
+- Labor and Employment (17)
+- Crime and Law Enforcement (17)
+- Civil Rights and Liberties, Minority Issues (16)
+- Armed Forces and National Security (13)
+- Agriculture and Food (13)
+- Education (11)
+
+**Enacted into law:**
+
+- HR 6406: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

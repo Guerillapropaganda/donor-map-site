@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 0
+bills-cosponsored: 53
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,29 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michael A. Rulli
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 53 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (6)
+- Taxation (5)
+- Health (4)
+- Transportation and Public Works (4)
+- International Affairs (4)
+- Finance and Financial Sector (3)
+- Science, Technology, Communications (3)
+- Government Operations and Politics (3)
+- Congress (3)
+- Energy (3)
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

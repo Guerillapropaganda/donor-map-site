@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MO02102"
+bills-sponsored: 24
+bills-cosponsored: 158
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ann Wagner
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 158 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (42)
+- Finance and Financial Sector (36)
+- Crime and Law Enforcement (25)
+- Taxation (13)
+- Government Operations and Politics (8)
+- Health (6)
+- Armed Forces and National Security (6)
+- Environmental Protection (5)
+- Education (5)
+- Agriculture and Food (5)
+
+**Enacted into law:**
+
+- HR 4193: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

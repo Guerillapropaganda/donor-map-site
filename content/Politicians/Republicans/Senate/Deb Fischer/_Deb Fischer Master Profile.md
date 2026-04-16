@@ -19,8 +19,8 @@ issues:
 top-donors:
   - AIPAC
 govtrack-id: 412556
-bills-sponsored: 30
-bills-cosponsored: 154
+bills-sponsored: 40
+bills-cosponsored: 304
 website: https://www.fischer.senate.gov
 phone: 202-224-6551
 total-received: $572,417
@@ -32,6 +32,8 @@ needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 bioguide-id: F000463
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -317,6 +319,36 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 
 - [GovTrack: Deb Fischer](https://www.govtrack.us/congress/members/412556) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 40 |
+| Bills Cosponsored | 304 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (37)
+- International Affairs (35)
+- Congress (28)
+- Transportation and Public Works (24)
+- Armed Forces and National Security (24)
+- Government Operations and Politics (21)
+- Taxation (19)
+- Agriculture and Food (18)
+- Crime and Law Enforcement (18)
+- Environmental Protection (14)
+
+**Enacted into law:**
+
+- S 1659: FAA Reauthorization Act of 2024
+- S 3230: Winnebago Land Transfer Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

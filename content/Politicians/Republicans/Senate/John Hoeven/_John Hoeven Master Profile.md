@@ -40,12 +40,14 @@ known-gaps:
 last-enriched: "2026-04-09"
 bioguide-id: H001061
 govtrack-id: 412494
-bills-sponsored: 19
-bills-cosponsored: 190
+bills-sponsored: 24
+bills-cosponsored: 323
 website: https://www.hoeven.senate.gov
 phone: 202-224-2551
 related: "[[Koch Network - Charles Koch|Koch Network]] · [[_John Barrasso Master Profile|Barrasso]] · [[_Joe Manchin Master Profile|Manchin]]"
 donors: "[[Western Growers Association]], [[American Energy Action Fund]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Clearpath Action Fund, Inc.]], [[NORTH DAKOTA STRONG INC]], [[NATIONAL WILDLIFE FEDERATION ACTION FUND]], [[National Wildlife Federation Action Fund]], [[North Dakota Strong INC]]"
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -289,6 +291,36 @@ The "energy independence" framing is the rhetorical mechanism that makes all of 
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/412494) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 323 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (46)
+- Armed Forces and National Security (34)
+- Environmental Protection (24)
+- Agriculture and Food (22)
+- Crime and Law Enforcement (22)
+- Native Americans (20)
+- Energy (20)
+- Health (19)
+- Congress (17)
+- Immigration (16)
+
+**Enacted into law:**
+
+- S 27: National Defense Authorization Act for Fiscal Year 2024
+- S 1308: Continuing Appropriations Act, 2024 and Other Extensions Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

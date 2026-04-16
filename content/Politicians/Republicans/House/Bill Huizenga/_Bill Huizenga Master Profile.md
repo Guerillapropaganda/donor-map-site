@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 29
+bills-cosponsored: 208
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Bill Huizenga
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 208 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (39)
+- Finance and Financial Sector (37)
+- Armed Forces and National Security (23)
+- Health (18)
+- Government Operations and Politics (16)
+- Crime and Law Enforcement (16)
+- Taxation (13)
+- Labor and Employment (11)
+- Immigration (9)
+- Agriculture and Food (6)
+
+**Enacted into law:**
+
+- HR 8272: FAA Reauthorization Act of 2024
+- HR 8405: A bill to designate the facility of the United States Postal Service located at 90 McCamly Street South in Battle Cre...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

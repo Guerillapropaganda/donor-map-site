@@ -29,8 +29,8 @@ issues:
 top-donors:
   - SEIU
 govtrack-id: 400364
-bills-sponsored: 17
-bills-cosponsored: 154
+bills-sponsored: 18
+bills-cosponsored: 202
 website: https://bobbyscott.house.gov
 phone: 202-225-8351
 total-received: "$290,963"
@@ -57,6 +57,8 @@ cash-on-hand: "95642.17"
 fec-cycle: 2026
 fec-debt: "3191.43"
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 <!-- auto:data-panel start -->
@@ -478,6 +480,39 @@ _No committee data found._
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
 
 <!-- auto:fec-summary pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 202 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (25)
+- Health (25)
+- Labor and Employment (23)
+- Government Operations and Politics (22)
+- Armed Forces and National Security (16)
+- Civil Rights and Liberties, Minority Issues (15)
+- Environmental Protection (9)
+- International Affairs (9)
+- Finance and Financial Sector (8)
+- Taxation (8)
+
+**Recent bills sponsored:**
+
+- HR 9137: LET’S Protect Workers Act
+- HR 8907: Virginia Plan to Reduce Gun Violence Act of 2024
+- HR 7522: To amend the America's Conservation Enhancement Act to reauthorize the Chesapeake WILD program.
+- HR 6581: Protecting Older Workers Against Discrimination Act
+- HR 5511: Opening Doors for Youth Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

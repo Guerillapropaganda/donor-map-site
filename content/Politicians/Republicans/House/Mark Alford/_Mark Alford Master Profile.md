@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MO04207"
+bills-sponsored: 25
+bills-cosponsored: 196
+bills-enacted: 1
+top-policy-area: "Agriculture and Food"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mark Alford
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 196 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Agriculture and Food (30)
+- International Affairs (22)
+- Government Operations and Politics (19)
+- Armed Forces and National Security (19)
+- Crime and Law Enforcement (17)
+- Finance and Financial Sector (12)
+- Commerce (11)
+- Taxation (10)
+- Health (10)
+- Congress (10)
+
+**Enacted into law:**
+
+- HR 4532: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

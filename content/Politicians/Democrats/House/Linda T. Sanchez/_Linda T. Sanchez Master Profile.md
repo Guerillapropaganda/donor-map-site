@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Business Roundtable]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 21
+bills-cosponsored: 499
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Linda T. Sanchez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 499 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (49)
+- Health (48)
+- Education (42)
+- Government Operations and Politics (39)
+- International Affairs (39)
+- Labor and Employment (37)
+- Crime and Law Enforcement (33)
+- Civil Rights and Liberties, Minority Issues (32)
+- Agriculture and Food (27)
+- Armed Forces and National Security (23)
+
+**Recent bills sponsored:**
+
+- HR 10436: To award a Congressional Gold Medal to the members of Escuadrón 201.
+- HR 9788: To amend the Internal Revenue Code of 1986 to disregard veteran disability compensation or pension payments in determ...
+- HRES 1355: Expressing support for the designation of Journeyman Lineworkers Recognition Day.
+- HJRES 112: A resolution designating the week of February 6 through 10, 2023, as "National School Counseling Week".
+- HR 7119: Fairness in Nursing Home Arbitration Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

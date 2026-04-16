@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8PA13125"
+bills-sponsored: 19
+bills-cosponsored: 179
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John Joyce
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 179 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- Crime and Law Enforcement (16)
+- Environmental Protection (14)
+- Energy (11)
+- Government Operations and Politics (11)
+- International Affairs (10)
+- Finance and Financial Sector (9)
+- Labor and Employment (9)
+- Taxation (8)
+- Armed Forces and National Security (7)
+
+**Enacted into law:**
+
+- HR 5677: 5G SALE Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

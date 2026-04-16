@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6OH08315"
+bills-sponsored: 39
+bills-cosponsored: 181
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Warren Davidson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 181 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (36)
+- International Affairs (26)
+- Government Operations and Politics (19)
+- Taxation (18)
+- Crime and Law Enforcement (18)
+- Armed Forces and National Security (14)
+- Health (12)
+- Labor and Employment (7)
+- Education (7)
+- Foreign Trade and International Finance (6)
+
+**Recent bills sponsored:**
+
+- HR 10561: To codify the special purpose broker dealer, and for other purposes.
+- HR 9758: Evaluating DeFi Opportunities Act
+- HR 9518: BRAVE Act of 2024
+- HR 9248: Railroad Responsibility Act of 2024
+- HRES 1343: A resolution expressing that the United States should not enter into any bilateral or multilateral agreement to provi...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

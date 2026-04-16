@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0CA10073"
+bills-sponsored: 39
+bills-cosponsored: 653
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mark DeSaulnier
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 653 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (96)
+- Crime and Law Enforcement (62)
+- Labor and Employment (54)
+- Education (52)
+- Government Operations and Politics (48)
+- Civil Rights and Liberties, Minority Issues (40)
+- Transportation and Public Works (37)
+- Agriculture and Food (36)
+- International Affairs (34)
+- Taxation (32)
+
+**Enacted into law:**
+
+- HR 4021: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

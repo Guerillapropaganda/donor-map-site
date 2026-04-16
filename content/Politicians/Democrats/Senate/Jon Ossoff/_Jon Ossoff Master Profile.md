@@ -15,8 +15,8 @@ top-donors:
   - Entertainment and Hollywood Donors
 bioguide-id: O000174
 govtrack-id: 456857
-bills-sponsored: 16
-bills-cosponsored: 182
+bills-sponsored: 76
+bills-cosponsored: 237
 website: https://www.ossoff.senate.gov
 phone: 202-224-3521
 total-received: $31,605,071
@@ -31,6 +31,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
 donors: "[[JB Pritzker]] · [[David Sacks]] · [[Congressional Leadership Fund]] · [[NRCC]] · [[US CHAMBER OF COMMERCE]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Tech and Media Donors]] · [[AMERICA FIRST POLICIES INC.]] · [[David McIntosh]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[US Chamber of Commerce]] · [[Planned Parenthood Action Fund INC]] · [[JB Pritzker (Donor Network)]] · [[David Sacks - Donor Network]] · [[David Sacks (Donor Network)]] · [[JB Pritzker - Donor Network]]"
+bills-enacted: 3
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -383,6 +385,37 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 - [GovTrack: Jon Ossoff](https://www.govtrack.us/congress/members/456857) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 76 |
+| Bills Cosponsored | 237 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (56)
+- Crime and Law Enforcement (33)
+- International Affairs (23)
+- Government Operations and Politics (23)
+- Health (23)
+- Congress (19)
+- Agriculture and Food (19)
+- Taxation (12)
+- Civil Rights and Liberties, Minority Issues (11)
+- Transportation and Public Works (10)
+
+**Enacted into law:**
+
+- S 2359: National Defense Authorization Act for Fiscal Year 2024
+- S 1980: National Defense Authorization Act for Fiscal Year 2024
+- S 1401: Federal Prison Oversight Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

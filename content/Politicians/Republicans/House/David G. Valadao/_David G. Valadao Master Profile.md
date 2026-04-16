@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 27
+bills-cosponsored: 481
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # David G. Valadao
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 481 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (85)
+- Agriculture and Food (45)
+- Crime and Law Enforcement (45)
+- Armed Forces and National Security (38)
+- Government Operations and Politics (34)
+- Taxation (32)
+- International Affairs (29)
+- Public Lands and Natural Resources (19)
+- Education (19)
+- Finance and Financial Sector (18)
+
+**Recent bills sponsored:**
+
+- HRES 1554: Expressing support for the recognition and commemoration of the Sikh Genocide of 1984.
+- HR 9889: Making emergency supplemental appropriations for disaster relief for the fiscal year ending September 30, 2024, and f...
+- HRES 1518: Supporting the goals and ideals of "Creutzfeldt-Jakob Disease (CJD) Awareness Day".
+- HR 9711: H.R. 9711, Congressional Budget Office Scheduling Reform Act
+- HR 9712: Extension of Authority for Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

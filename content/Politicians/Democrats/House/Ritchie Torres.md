@@ -29,6 +29,10 @@ issues:
   - Finance and Financial Sector
   - Government Operations and Politics
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 65
+bills-cosponsored: 421
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 #master-profile #democrat #house #bronx #new-york #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #crypto #class-contradiction
 
@@ -201,6 +205,39 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 | 6677 | Professional Degree Access Restoration Act | Referred to the House Committee on Education and Workforce. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 65 |
+| Bills Cosponsored | 421 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (78)
+- Crime and Law Enforcement (41)
+- Finance and Financial Sector (39)
+- International Affairs (38)
+- Civil Rights and Liberties, Minority Issues (37)
+- Government Operations and Politics (33)
+- Taxation (26)
+- Education (23)
+- Armed Forces and National Security (17)
+- Labor and Employment (15)
+
+**Recent bills sponsored:**
+
+- HR 10375: To amend the Immigration and Nationality Act and the Mutual Education and Cultural Exchange Act of 1961 to strengthen...
+- HR 10331: To prohibit health insurers, including Medicaid managed care organizations and other private health plans, from impos...
+- HR 10266: Repealing the IMD Exclusion Act
+- HR 10057: Affordable Remittance Act
+- HR 10017: Elder Abuse Prevention in Public Housing Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

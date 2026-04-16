@@ -23,8 +23,8 @@ total-received: $1,411,406
 fec-candidate-id: H8MA02041
 bioguide-id: N000015
 govtrack-id: 400291
-bills-sponsored: 3
-bills-cosponsored: 108
+bills-sponsored: 6
+bills-cosponsored: 96
 website: https://neal.house.gov
 phone: 202-225-5601
 source-types:
@@ -37,6 +37,8 @@ known-gaps:
 related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[The Ways and Means Chair and TCJA Extension]]"
 donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Fidelity Investments]] · [[Ohio Democratic Party]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[MassMutual]] · [[JUSTICE DEMOCRATS PAC]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[INDIVISIBLE ACTION]] · [[FIGHT CORPORATE MONOPOLIES]] · [[American Hospital Association PAC]] · [[Fight Corporate Monopolies]] · [[Indivisible Action]] · [[Justice Democrats PAC]]"
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -287,6 +289,39 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 
 ## Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 96 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (14)
+- International Affairs (13)
+- Civil Rights and Liberties, Minority Issues (9)
+- Government Operations and Politics (6)
+- Agriculture and Food (6)
+- Crime and Law Enforcement (6)
+- Finance and Financial Sector (5)
+- Labor and Employment (5)
+- Health (4)
+- Education (4)
+
+**Recent bills sponsored:**
+
+- HRES 1345: Recognizing the 100th anniversary of the establishment of diplomatic relations between the United States and Ireland.
+- HR 8392: AOH Act
+- HR 7293: Automatic IRA Act of 2024
+- HR 4260: Public Servants Protection and Fairness Act of 2023
+- HR 2718: Addressing SILO Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 35
+bills-cosponsored: 1052
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jill N. Tokuda
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 1052 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (206)
+- Agriculture and Food (121)
+- Education (84)
+- International Affairs (62)
+- Crime and Law Enforcement (60)
+- Armed Forces and National Security (55)
+- Taxation (53)
+- Labor and Employment (41)
+- Government Operations and Politics (37)
+- Transportation and Public Works (35)
+
+**Recent bills sponsored:**
+
+- HR 10280: To amend the Internal Revenue Code of 1986 to exclude certain health professions education scholarship and loan payme...
+- HRES 1594: Supporting the goals and ideals of National Rural Health Day.
+- HR 9589: Stop Illegal Campaign Coordination Act
+- HR 9300: Protecting and Preserving Social Security Act
+- HR 8973: Native Arts and Culture Promotion Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

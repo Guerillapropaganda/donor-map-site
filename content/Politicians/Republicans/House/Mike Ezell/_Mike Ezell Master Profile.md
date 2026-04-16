@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 14
+bills-cosponsored: 220
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Ezell
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 220 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (30)
+- International Affairs (20)
+- Armed Forces and National Security (19)
+- Health (18)
+- Government Operations and Politics (16)
+- Finance and Financial Sector (14)
+- Taxation (13)
+- Immigration (13)
+- Transportation and Public Works (12)
+- Education (11)
+
+**Enacted into law:**
+
+- HR 8530: Improving Federal Building Security Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 24
+bills-cosponsored: 294
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Thomas P. Tiffany
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 294 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Crime and Law Enforcement (41)
+- Health (22)
+- Immigration (21)
+- Government Operations and Politics (20)
+- Taxation (19)
+- Education (18)
+- Finance and Financial Sector (16)
+- Armed Forces and National Security (16)
+- Public Lands and Natural Resources (15)
+
+**Enacted into law:**
+
+- HR 6651: H.R. 6651, a bill to designate the facility of the United States Postal Service located at 603 West 3rd Street in Nec...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

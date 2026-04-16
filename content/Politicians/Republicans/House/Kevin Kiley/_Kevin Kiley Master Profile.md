@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 20
+bills-cosponsored: 165
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kevin Kiley
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 165 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (27)
+- Health (17)
+- Crime and Law Enforcement (16)
+- Education (16)
+- International Affairs (14)
+- Taxation (11)
+- Finance and Financial Sector (10)
+- Armed Forces and National Security (10)
+- Public Lands and Natural Resources (6)
+- Labor and Employment (6)
+
+**Recent bills sponsored:**
+
+- HR 10320: To amend title 51, United States Code, to establish a Commercial Space Transportation Administration, and for other p...
+- HR 10029: National Human Trafficking Database Act
+- HR 9474: Patent Eligibility Restoration Act of 2024
+- HR 9124: To name the Department of Veterans Affairs community-based outpatient clinic in Auburn, California, as the "Louis A. ...
+- HRES 1212: Ending campus encampments.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

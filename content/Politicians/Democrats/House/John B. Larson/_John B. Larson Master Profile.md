@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 4
+bills-cosponsored: 286
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,36 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John B. Larson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 286 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (50)
+- Taxation (37)
+- International Affairs (24)
+- Labor and Employment (24)
+- Crime and Law Enforcement (22)
+- Education (17)
+- Armed Forces and National Security (16)
+- Government Operations and Politics (14)
+- Civil Rights and Liberties, Minority Issues (11)
+- Agriculture and Food (9)
+
+**Recent bills sponsored:**
+
+- HR 6759: Segal AmeriCorps Education Award Tax Relief Act of 2023
+- HR 4583: Social Security Fairness Act of 2023
+- HR 4289: Assault Weapon Financing Accountability Act
+- HR 1588: ACTION for National Service Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

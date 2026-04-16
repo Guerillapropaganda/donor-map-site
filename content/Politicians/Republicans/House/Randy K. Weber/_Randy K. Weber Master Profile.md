@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 22
+bills-cosponsored: 651
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Randy K. Weber
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 651 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (96)
+- Crime and Law Enforcement (71)
+- Government Operations and Politics (59)
+- Health (58)
+- Immigration (47)
+- Energy (39)
+- Taxation (33)
+- Finance and Financial Sector (29)
+- Education (23)
+- Environmental Protection (23)
+
+**Recent bills sponsored:**
+
+- HR 10408: To establish an interagency working group to assess the challenges of protecting military and commercial telecommunic...
+- HR 10190: Juneteenth Museum Act of 2024
+- HR 8789: Officer John Barnes Act
+- HRES 1303: Condemning the Biden administration's politically motivated ban on liquefied natural gas exports to non-free trade ag...
+- HRES 1148: Condemning the Iranian regime's terrorism, regional proxy war, internal suppression, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

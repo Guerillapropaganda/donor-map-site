@@ -27,6 +27,10 @@ total-received: $1,522,158
 fec-candidate-id: H4PA13199
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 17
+bills-cosponsored: 329
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -308,6 +312,36 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 329 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- International Affairs (39)
+- Taxation (34)
+- Government Operations and Politics (33)
+- Crime and Law Enforcement (31)
+- Labor and Employment (22)
+- Civil Rights and Liberties, Minority Issues (18)
+- Education (18)
+- Armed Forces and National Security (13)
+- Transportation and Public Works (10)
+
+**Enacted into law:**
+
+- HR 7032: H.R. 7032, Congressional Budget Office Data Sharing Act
+- HR 6073: H.R. 6073, a bill to designate the facility of the United States Postal Service located at 9925 Bustleton Avenue in P...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OH15228"
+bills-sponsored: 29
+bills-cosponsored: 272
+bills-enacted: 1
+top-policy-area: "Taxation"
 ---
 
 
@@ -46,3 +50,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Carey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 272 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (60)
+- Health (51)
+- International Affairs (19)
+- Crime and Law Enforcement (16)
+- Education (14)
+- Armed Forces and National Security (14)
+- Finance and Financial Sector (13)
+- Government Operations and Politics (13)
+- Immigration (11)
+- Energy (11)
+
+**Enacted into law:**
+
+- HR 9779: COCOA Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

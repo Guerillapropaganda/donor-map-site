@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2CA36439"
+bills-sponsored: 48
+bills-cosponsored: 320
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Raul Ruiz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 320 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (69)
+- Government Operations and Politics (37)
+- Armed Forces and National Security (28)
+- Crime and Law Enforcement (20)
+- International Affairs (20)
+- Education (17)
+- Civil Rights and Liberties, Minority Issues (17)
+- Labor and Employment (16)
+- Taxation (15)
+- Agriculture and Food (14)
+
+**Enacted into law:**
+
+- HR 8216: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

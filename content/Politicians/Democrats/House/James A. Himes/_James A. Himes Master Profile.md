@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 7
+bills-cosponsored: 235
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # James A. Himes
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 235 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (43)
+- Health (43)
+- Crime and Law Enforcement (23)
+- Armed Forces and National Security (15)
+- Finance and Financial Sector (14)
+- Civil Rights and Liberties, Minority Issues (12)
+- Education (12)
+- Government Operations and Politics (12)
+- Labor and Employment (9)
+- Taxation (8)
+
+**Recent bills sponsored:**
+
+- HR 10026: Multi-State Worker Tax Fairness Act of 2024
+- HR 6405: Lori Jackson-Nicolette Elias Domestic Violence Survivor Protection Act
+- HR 5557: Combatting Foreign Surveillance Spyware Sanctions Act
+- HR 5522: Combatting Foreign Surveillance Spyware Sanctions Act
+- HR 5440: Protecting Americans from Foreign Commercial Spyware Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

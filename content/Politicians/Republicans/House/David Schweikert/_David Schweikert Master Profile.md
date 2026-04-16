@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4AZ06045"
+bills-sponsored: 25
+bills-cosponsored: 121
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # David Schweikert
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 121 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (30)
+- Health (30)
+- Finance and Financial Sector (10)
+- International Affairs (10)
+- Native Americans (7)
+- Animals (6)
+- Economics and Public Finance (6)
+- Government Operations and Politics (6)
+- Foreign Trade and International Finance (5)
+- Crime and Law Enforcement (5)
+
+**Recent bills sponsored:**
+
+- HR 9738: ERTC Repeal Act of 2024
+- HR 8949: Yavapai-Apache Nation Water Rights Settlement Act of 2024
+- HR 8929: User Data Protection Act
+- HR 8832: American Medical Innovation and Investment Act of 2024
+- HR 8293: Speech Privacy Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

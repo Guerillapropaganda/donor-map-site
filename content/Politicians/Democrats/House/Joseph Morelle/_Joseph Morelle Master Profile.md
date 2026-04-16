@@ -54,6 +54,10 @@ wikipedia-url: https://en.wikipedia.org/wiki/Joseph_Morelle
 wikipedia-extract: Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.
 born: "1957-04-29"
 donors: "[[Together We Thrive]], [[Labor Unions]], [[Planned Parenthood Votes]], [[TOGETHER WE THRIVE]], [[NEA ADVOCACY FUND]], [[OPPORTUNITY FOR ALL ACTION FUND]], [[Congressional Leadership Fund]], [[Opportunity for All Action Fund]], [[NEA Advocacy Fund]]"
+bills-sponsored: 31
+bills-cosponsored: 458
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -388,6 +392,39 @@ Joseph D. Morelle is an American politician serving as the U.S. representative f
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Joseph_Morelle) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6285623) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 458 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (101)
+- Crime and Law Enforcement (42)
+- International Affairs (39)
+- Armed Forces and National Security (33)
+- Government Operations and Politics (29)
+- Taxation (28)
+- Labor and Employment (25)
+- Education (23)
+- Civil Rights and Liberties, Minority Issues (20)
+- Agriculture and Food (17)
+
+**Recent bills sponsored:**
+
+- HR 9845: HOPE Act of 2024
+- HR 9844: DELIVER Act of 2024
+- HR 9276: Veteran Caregiver Reeducation, Reemployment, and Retirement Act
+- HR 9222: Summer Meals and Learning Act of 2024
+- HJRES 193: Proposing an amendment to the Constitution of the United States providing that there is no immunity from criminal pro...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

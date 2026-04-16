@@ -21,6 +21,10 @@ related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|
 top-donors: "[[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]], [[AMERICAN DREAM FEDERAL ACTION]], [[American Dream Federal Action]]"
 donors: "[[American Dream Federal Action]], [[AMERICAN DREAM FEDERAL ACTION]], [[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 17
+bills-cosponsored: 367
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 
@@ -164,6 +168,39 @@ When Britt moved from BCA to the Senate, she carried that donor list and alignme
 
 - {{src:src_001218}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 367 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (39)
+- Health (34)
+- Crime and Law Enforcement (25)
+- Finance and Financial Sector (25)
+- Education (24)
+- Immigration (23)
+- Congress (21)
+- Environmental Protection (21)
+- Government Operations and Politics (20)
+- Armed Forces and National Security (18)
+
+**Recent bills sponsored:**
+
+- S 5150: Stop the Scroll Act
+- SRES 801: A resolution honoring the life and enduring legacy of William "Willie" Howard Mays, Jr.
+- S 4917: Expanding Access to Capital Act of 2023
+- S 4832: Lulu’s Law
+- SRES 728: Commending the University of South Alabama on the occasion of its 60th anniversary and its years of service to the St...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

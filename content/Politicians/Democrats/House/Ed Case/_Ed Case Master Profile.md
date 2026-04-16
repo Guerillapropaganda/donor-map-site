@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 24
+bills-cosponsored: 426
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ed Case
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 426 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (45)
+- International Affairs (42)
+- Armed Forces and National Security (36)
+- Crime and Law Enforcement (33)
+- Education (28)
+- Government Operations and Politics (24)
+- Public Lands and Natural Resources (22)
+- Agriculture and Food (21)
+- Civil Rights and Liberties, Minority Issues (21)
+- Commerce (18)
+
+**Recent bills sponsored:**
+
+- HR 10206: Engage the Pacific Act
+- HR 10037: Invasive Species Response Act
+- HRES 1504: Recognizing the month of October 2023 as Filipino American History Month and celebrating the history and culture of F...
+- HCONRES 105: A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebr...
+- HR 7159: Pacific Partnership Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

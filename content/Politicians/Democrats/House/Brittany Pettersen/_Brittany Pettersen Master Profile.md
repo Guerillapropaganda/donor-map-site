@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CO07045"
+bills-sponsored: 25
+bills-cosponsored: 497
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Brittany Pettersen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 497 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (125)
+- Armed Forces and National Security (40)
+- Crime and Law Enforcement (39)
+- Taxation (36)
+- Agriculture and Food (32)
+- International Affairs (31)
+- Finance and Financial Sector (26)
+- Government Operations and Politics (23)
+- Education (22)
+- Labor and Employment (21)
+
+**Recent bills sponsored:**
+
+- HR 10325: To require the Secretary of the Interior to carry out a program for post-disaster reforestation and restoration Progr...
+- HR 9908: Strengthening Wildfire Resiliency Through Satellites Act of 2024
+- HR 9847: Creating Early Childhood Leaders Act
+- HR 9765: Improving Retirement Security for Family Caregivers Act of 2024
+- HR 9764: Catching Up Family Caregivers Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

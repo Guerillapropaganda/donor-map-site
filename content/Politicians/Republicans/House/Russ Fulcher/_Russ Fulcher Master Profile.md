@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8ID01124"
+bills-sponsored: 15
+bills-cosponsored: 183
+bills-enacted: 0
+top-policy-area: "Energy"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Russ Fulcher
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 183 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Energy (19)
+- Environmental Protection (16)
+- Health (14)
+- International Affairs (14)
+- Public Lands and Natural Resources (13)
+- Armed Forces and National Security (12)
+- Taxation (11)
+- Crime and Law Enforcement (11)
+- Finance and Financial Sector (9)
+- Government Operations and Politics (9)
+
+**Recent bills sponsored:**
+
+- HR 10114: To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to conveyances for aquifer recharge pur...
+- HR 8938: Keep Every Extra Penny Act of 2024
+- HJRES 133: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+- HR 7514: WAIVER Act
+- HR 6788: MAILS Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

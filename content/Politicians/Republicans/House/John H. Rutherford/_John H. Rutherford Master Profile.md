@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 10
+bills-cosponsored: 422
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John H. Rutherford
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 422 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (84)
+- Crime and Law Enforcement (42)
+- Armed Forces and National Security (41)
+- International Affairs (38)
+- Government Operations and Politics (31)
+- Taxation (26)
+- Immigration (18)
+- Education (18)
+- Finance and Financial Sector (17)
+- Labor and Employment (13)
+
+**Recent bills sponsored:**
+
+- HR 6955: Investing in Uniformed Division Leadership Act
+- HR 6613: PLAN for School Safety Act of 2023
+- HR 6212: PROTECT Florida Act
+- HR 4587: H.R. 4587, Red Snapper Act of 2023
+- HR 3458: Reinstate Our Troops Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

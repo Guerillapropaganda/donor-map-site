@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 23
+bills-cosponsored: 502
+bills-enacted: 2
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Christopher R. Deluzio
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 502 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (73)
+- Government Operations and Politics (71)
+- Health (54)
+- Labor and Employment (43)
+- Crime and Law Enforcement (42)
+- International Affairs (29)
+- Taxation (27)
+- Transportation and Public Works (21)
+- Civil Rights and Liberties, Minority Issues (18)
+- Agriculture and Food (15)
+
+**Enacted into law:**
+
+- HR 5270: National Defense Authorization Act for Fiscal Year 2024
+- HR 5272: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

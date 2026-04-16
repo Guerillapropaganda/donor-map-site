@@ -18,8 +18,8 @@ leadership-roles:
 total-received: $4,396,225
 fec-candidate-id: H6MD08457
 govtrack-id: 412708
-bills-sponsored: 18
-bills-cosponsored: 265
+bills-sponsored: 29
+bills-cosponsored: 561
 website: https://raskin.house.gov
 phone: 202-225-5341
 donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]] · [[NEA FUND FOR CHILDREN AND PUBLIC EDUCATION]] · [[FREETHOUGHT EQUALITY SUPER PAC]] · [[NEA Advocacy Fund]] · [[NEA Fund for Children and Public Education]] · [[Freethought Equality Super PAC]]"
@@ -49,6 +49,8 @@ wikidata-id: Q640835
 wikipedia-url: https://en.wikipedia.org/wiki/Jamie_Raskin
 wikipedia-extract: Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017.
 born: "1962-12-13"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -426,6 +428,39 @@ Jamin Ben Raskin is an American attorney, law professor, and politician serving 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Jamie_Raskin) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q640835) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 561 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- Government Operations and Politics (58)
+- Crime and Law Enforcement (57)
+- International Affairs (51)
+- Taxation (39)
+- Civil Rights and Liberties, Minority Issues (29)
+- Education (27)
+- Armed Forces and National Security (24)
+- Labor and Employment (23)
+- Agriculture and Food (22)
+
+**Recent bills sponsored:**
+
+- HR 10505: To amend the Commodity Exchange Act to prohibit political election or contest agreements, contracts, transactions, an...
+- HR 10310: Free Speech Protection Act
+- HRES 1499: A resolution expressing concern about the spreading problem of book banning and the proliferation of threats to freed...
+- HR 9577: STOP Suicide Act
+- HR 9578: Ranked Choice Voting Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

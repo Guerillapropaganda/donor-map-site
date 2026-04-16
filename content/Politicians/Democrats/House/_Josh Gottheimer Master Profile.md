@@ -49,6 +49,10 @@ wikipedia-url: https://en.wikipedia.org/wiki/Josh_Gottheimer
 wikipedia-extract: Joshua S. Gottheimer is an American politician, attorney, writer, and public policy adviser serving as the U.S. representative for New Jersey's 5th congressional district since 2017.
 born: "1975-03-08"
 donors: "[[No Labels Action, Inc.]], [[FAIRSHAKE]], [[Patriot Majority Pac]], [[Center Forward Committee]], [[Wall Street Finance PACs]], [[NO LABELS ACTION, INC.]], [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]]"
+bills-sponsored: 46
+bills-cosponsored: 1074
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -371,6 +375,39 @@ Joshua S. Gottheimer is an American politician, attorney, writer, and public pol
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Josh_Gottheimer) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6288908) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 46 |
+| Bills Cosponsored | 1074 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (181)
+- International Affairs (146)
+- Armed Forces and National Security (104)
+- Crime and Law Enforcement (92)
+- Taxation (70)
+- Education (58)
+- Agriculture and Food (54)
+- Government Operations and Politics (52)
+- Finance and Financial Sector (39)
+- Labor and Employment (36)
+
+**Recent bills sponsored:**
+
+- HR 10484: To direct the Secretary of Health and Human Services to carry out a public awareness campaign to increase participati...
+- HR 10485: To authorize to be appropriated funds for COPS Tech projects.
+- HRES 1620: Calling on law enforcement led by the Federal Bureau of Investigation, the Department of Homeland Security, and the F...
+- HR 10182: Caregiver Financial Relief Act
+- HR 10154: Ballot Box Protection Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

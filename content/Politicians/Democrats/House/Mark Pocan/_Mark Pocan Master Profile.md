@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2WI02124"
+bills-sponsored: 19
+bills-cosponsored: 582
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mark Pocan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 582 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (117)
+- Labor and Employment (47)
+- Government Operations and Politics (39)
+- Taxation (36)
+- Agriculture and Food (36)
+- Civil Rights and Liberties, Minority Issues (35)
+- International Affairs (34)
+- Crime and Law Enforcement (32)
+- Education (31)
+- Armed Forces and National Security (28)
+
+**Recent bills sponsored:**
+
+- HR 9985: Carried Interest Fairness Act of 2024
+- HR 8807: Pell Grant Preservation and Expansion Act of 2024
+- HRES 1032: Expressing support for the designation of the week of February 27 through March 3, 2023, as "Public Schools Week".
+- HR 6470: Restore Honor to Service Members Act of 2023
+- HRES 828: A resolution expressing support for the designation of October 2023 as "National Co-Op Month" and commending the coop...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

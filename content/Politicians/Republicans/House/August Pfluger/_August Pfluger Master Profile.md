@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0TX11230"
+bills-sponsored: 63
+bills-cosponsored: 323
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # August Pfluger
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 63 |
+| Bills Cosponsored | 323 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (56)
+- International Affairs (40)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (34)
+- Armed Forces and National Security (29)
+- Taxation (23)
+- Immigration (22)
+- Environmental Protection (20)
+- Finance and Financial Sector (17)
+- Science, Technology, Communications (16)
+
+**Recent bills sponsored:**
+
+- HJRES 228: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 10145: PARTS Act of 2024
+- HR 10053: STRAFE Act
+- HR 9879: SIMSA Act of 2024
+- HJRES 210: Proposing an amendment to the Constitution of the United States to prohibit persons who are not citizens, nationals, ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

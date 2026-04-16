@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 28
+bills-cosponsored: 596
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Deborah K. Ross
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 596 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (139)
+- Crime and Law Enforcement (59)
+- Education (46)
+- Armed Forces and National Security (41)
+- International Affairs (36)
+- Taxation (32)
+- Labor and Employment (27)
+- Civil Rights and Liberties, Minority Issues (25)
+- Government Operations and Politics (23)
+- Science, Technology, Communications (21)
+
+**Recent bills sponsored:**
+
+- HR 10326: To amend title 36, United States Code, to reform certain proceedings before the United States Center for SafeSport.
+- HRES 1575: Expressing support for designating the week of November 4 through November 10, 2024, as "Forensic Nursing Week".
+- HR 10095: Insurance Fraud Accountability Act
+- HRES 1529: Expressing support for the designation of October 1 as "National Science Day".
+- HR 9849: Medical Laboratory Personnel Shortage Relief Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

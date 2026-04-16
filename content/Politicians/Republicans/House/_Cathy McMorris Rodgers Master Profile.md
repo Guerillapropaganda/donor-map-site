@@ -27,6 +27,10 @@ reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 donors: "[[Tech Industry]] · [[Patrick Soon-Shiong]] · [[Marathon Petroleum]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Koch Industries]] · [[Clearpath Action Fund, Inc.]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Oil & Gas PACs]] · [[Chevron]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[American Hospital Association PAC]] · [[American College of Radiology Association PAC]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 36
+bills-cosponsored: 160
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -247,6 +251,39 @@ Her committee position turned her funded-by relationship into actual regulatory 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 160 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (31)
+- International Affairs (22)
+- Health (15)
+- Crime and Law Enforcement (14)
+- Finance and Financial Sector (10)
+- Government Operations and Politics (10)
+- Agriculture and Food (9)
+- Taxation (9)
+- Labor and Employment (7)
+- Economics and Public Finance (7)
+
+**Recent bills sponsored:**
+
+- HR 10296: To amend the Internal Revenue Code of 1986 to make expiring ABLE provisions permanent, improve accessibility and educ...
+- HR 9484: RELIEVE Act
+- HR 8905: MIRACLE Act of 2024
+- HR 8818: American Privacy Rights Act of 2024
+- HR 8395: AUDIT EPA Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 294
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Robert J. Wittman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 294 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (50)
+- International Affairs (42)
+- Health (30)
+- Taxation (26)
+- Crime and Law Enforcement (20)
+- Government Operations and Politics (16)
+- Energy (16)
+- Public Lands and Natural Resources (15)
+- Finance and Financial Sector (13)
+- Environmental Protection (12)
+
+**Enacted into law:**
+
+- HR 3168: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

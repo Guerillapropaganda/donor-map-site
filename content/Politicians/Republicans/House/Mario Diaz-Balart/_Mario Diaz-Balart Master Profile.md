@@ -28,6 +28,10 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 16
+bills-cosponsored: 143
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -214,6 +218,35 @@ The family narrative is the rhetorical armor. Diaz-Balart's aunt, Mirta Diaz-Bal
 
 - {{src:src_004359}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 143 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (35)
+- Government Operations and Politics (18)
+- Education (12)
+- Armed Forces and National Security (11)
+- Crime and Law Enforcement (10)
+- Taxation (10)
+- Finance and Financial Sector (8)
+- Economics and Public Finance (7)
+- Health (5)
+- Immigration (5)
+
+**Enacted into law:**
+
+- HCONRES 100: Further Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8TX05144"
+bills-sponsored: 17
+bills-cosponsored: 315
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lance Gooden
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 315 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (51)
+- Crime and Law Enforcement (43)
+- Health (33)
+- Immigration (30)
+- Government Operations and Politics (26)
+- Armed Forces and National Security (21)
+- Taxation (20)
+- Finance and Financial Sector (14)
+- Labor and Employment (12)
+- Transportation and Public Works (11)
+
+**Recent bills sponsored:**
+
+- HR 8452: Taiwan Interpol Endorsement and Inclusion Act
+- HR 8131: Bureau of Prisons Inmate Trust Fund Accountability Act
+- HR 7747: Federal Judiciary Stabilization Act of 2024
+- HR 7169: Think Tank and Nonprofit Foreign Influence Disclosure Act
+- HR 6380: Wings for Veterans Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

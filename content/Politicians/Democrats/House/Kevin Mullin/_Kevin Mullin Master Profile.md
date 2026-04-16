@@ -29,6 +29,10 @@ total-spent: 21994
 cash-on-hand: 5861
 individual-contributions: 9928
 contributions-to-committees: 13000
+bills-sponsored: 6
+bills-cosponsored: 593
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -50,3 +54,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kevin Mullin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 593 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (97)
+- Government Operations and Politics (50)
+- Crime and Law Enforcement (40)
+- International Affairs (39)
+- Labor and Employment (32)
+- Education (32)
+- Civil Rights and Liberties, Minority Issues (32)
+- Agriculture and Food (29)
+- Taxation (28)
+- Environmental Protection (27)
+
+**Recent bills sponsored:**
+
+- HR 10051: Driver Technology and Pedestrian Safety Act of 2024
+- HR 9375: Earthquake Resilience Act
+- HR 6639: Poverty Line Act of 2023
+- HR 6556: SNORE Act of 2023
+- HR 6121: Filipino Veterans Fairness Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

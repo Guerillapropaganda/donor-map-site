@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 9
+bills-cosponsored: 150
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John R. Carter
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 9 |
+| Bills Cosponsored | 150 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (18)
+- Immigration (17)
+- Crime and Law Enforcement (16)
+- Taxation (16)
+- Government Operations and Politics (14)
+- Armed Forces and National Security (11)
+- Education (10)
+- Health (7)
+- Finance and Financial Sector (5)
+- Energy (5)
+
+**Recent bills sponsored:**
+
+- HR 8580: Providing for consideration of the bill (H.R. 8580) making appropriations for military construction, the Department o...
+- HR 8041: Driving Forward Act
+- HR 5184: School Security Enhancement Act
+- HR 4366: Military Construction, Veterans Affairs, and Related Agencies Appropriations Act, 2024
+- HR 3632: READI Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

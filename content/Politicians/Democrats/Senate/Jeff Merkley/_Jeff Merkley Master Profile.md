@@ -39,6 +39,10 @@ related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie San
 bioguide-id: M001176
 donors: "[[California Nurses Association]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[Labor Unions]], [[National Republican Senatorial Committee]], [[League of Conservation Voters]], [[FREEDOM PARTNERS ACTION FUND INC]], [[AMERICAN FUTURE FUND POLITICAL ACTION]], [[SEIU COPE]], [[American Future Fund Political Action]], [[Freedom Partners Action Fund Inc]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 101
+bills-cosponsored: 629
+bills-enacted: 3
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -250,6 +254,37 @@ party:: Democrat
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 101 |
+| Bills Cosponsored | 629 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (108)
+- International Affairs (80)
+- Government Operations and Politics (46)
+- Crime and Law Enforcement (42)
+- Civil Rights and Liberties, Minority Issues (39)
+- Education (37)
+- Taxation (34)
+- Armed Forces and National Security (34)
+- Labor and Employment (33)
+- Environmental Protection (33)
+
+**Enacted into law:**
+
+- S 2231: Maternal and Child Health Stillbirth Prevention Act of 2024
+- S 1286: To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Con...
+- S 910: Grand Ronde Reservation Act Amendment of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

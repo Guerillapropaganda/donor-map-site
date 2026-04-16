@@ -47,6 +47,10 @@ internal-notes: |-
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 donors: "[[Morgan Stanley]] · [[Citigroup]] · [[Majority Forward]] · [[Blackstone Group]] · [[Google - Alphabet]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Democratic Small Dollar Networks]] · [[Mark Zuckerberg]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Healthcare Sector]] · [[Goldman Sachs]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 54
+bills-cosponsored: 134
+bills-enacted: 1
+top-policy-area: "Congress"
 ---
 
 <!-- auto:data-panel start -->
@@ -358,6 +362,35 @@ conte
 - Senate Select Committee on Intelligence
 
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 134 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (52)
+- Health (16)
+- Crime and Law Enforcement (13)
+- Government Operations and Politics (12)
+- International Affairs (9)
+- Armed Forces and National Security (9)
+- Taxation (9)
+- Civil Rights and Liberties, Minority Issues (8)
+- Labor and Employment (7)
+- Arts, Culture, Religion (5)
+
+**Enacted into law:**
+
+- S 1395: Fiscal Responsibility Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

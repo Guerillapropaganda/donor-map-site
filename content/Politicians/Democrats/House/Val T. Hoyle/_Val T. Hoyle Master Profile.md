@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 11
+bills-cosponsored: 327
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Val T. Hoyle
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 327 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (39)
+- Armed Forces and National Security (34)
+- Government Operations and Politics (33)
+- Taxation (25)
+- Labor and Employment (24)
+- Crime and Law Enforcement (22)
+- Transportation and Public Works (17)
+- International Affairs (16)
+- Public Lands and Natural Resources (15)
+- Agriculture and Food (12)
+
+**Enacted into law:**
+
+- HR 4618: National Defense Authorization Act for Fiscal Year 2024
+- HR 7696: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

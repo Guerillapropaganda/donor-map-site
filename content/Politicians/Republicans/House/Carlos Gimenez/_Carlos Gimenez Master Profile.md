@@ -23,8 +23,8 @@ total-received: $301,979
 fec-candidate-id: H0FL26036
 bioguide-id: G000593
 govtrack-id: 456809
-bills-sponsored: 8
-bills-cosponsored: 113
+bills-sponsored: 21
+bills-cosponsored: 307
 website: https://gimenez.house.gov
 phone: 202-225-2778
 donors: "[[Bacardi - Bacardi USA]], [[HOUSE MAJORITY PAC]], [[Fanjul Family - Florida Crystals]], [[South Florida Residents First]], [[LCV VICTORY FUND]], [[MasTec - Mas Canosa Family]], [[WOMEN VOTE!]], [[DCCC]]"
@@ -53,6 +53,8 @@ verified-blocks:
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -310,6 +312,35 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 
 ### Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 307 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (74)
+- Armed Forces and National Security (35)
+- Crime and Law Enforcement (27)
+- Government Operations and Politics (25)
+- Finance and Financial Sector (16)
+- Taxation (15)
+- Education (15)
+- Immigration (13)
+- Transportation and Public Works (12)
+- Public Lands and Natural Resources (9)
+
+**Enacted into law:**
+
+- HR 1348: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

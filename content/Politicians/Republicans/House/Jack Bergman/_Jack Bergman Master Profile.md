@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 28
+bills-cosponsored: 277
+bills-enacted: 2
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jack Bergman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 277 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (47)
+- International Affairs (36)
+- Health (25)
+- Government Operations and Politics (17)
+- Finance and Financial Sector (17)
+- Taxation (16)
+- Crime and Law Enforcement (15)
+- Education (14)
+- Economics and Public Finance (13)
+- Immigration (13)
+
+**Enacted into law:**
+
+- HR 1227: CADETS Act
+- HR 3672: To designate the clinic of the Department of Veterans Affairs in Indian River, Michigan, as the "Pfc. Justin T. Paton...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4GA11061"
+bills-sponsored: 14
+bills-cosponsored: 184
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Barry Loudermilk
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 184 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (31)
+- International Affairs (29)
+- Government Operations and Politics (22)
+- Crime and Law Enforcement (15)
+- Health (14)
+- Armed Forces and National Security (14)
+- Taxation (11)
+- Labor and Employment (8)
+- Environmental Protection (6)
+- Economics and Public Finance (5)
+
+**Recent bills sponsored:**
+
+- HR 10397: To amend title 5, United States Code, to provide for an alternative removal for performance or misconduct for Federal...
+- HR 9272: Catastrophic Specialty Hospital Act of 2024
+- HR 8686: Financial Reporting Threshold Modernization Act
+- HR 6027: Exchange Regulatory Improvement Act of 2023
+- HR 4823: Banking Regulator International Reporting Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

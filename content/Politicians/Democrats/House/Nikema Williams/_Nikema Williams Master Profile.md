@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0GA05301"
+bills-sponsored: 51
+bills-cosponsored: 713
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Nikema Williams
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 51 |
+| Bills Cosponsored | 713 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (122)
+- Crime and Law Enforcement (72)
+- Civil Rights and Liberties, Minority Issues (68)
+- Education (56)
+- International Affairs (52)
+- Government Operations and Politics (52)
+- Labor and Employment (35)
+- Armed Forces and National Security (28)
+- Finance and Financial Sector (28)
+- Taxation (25)
+
+**Recent bills sponsored:**
+
+- HR 10562: To require analyses of the impact of Government rules, programs, and policies on poverty and racial inequity, includi...
+- HRES 1625: Supporting the recognition of "World Basketball Day", celebrated globally on December 21 each year, and honoring the ...
+- HR 10316: To amend the Equal Credit Opportunity Act to require creditors to consider certain additional credit information when...
+- HR 10079: COACH Act
+- HR 9989: PRIDE Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

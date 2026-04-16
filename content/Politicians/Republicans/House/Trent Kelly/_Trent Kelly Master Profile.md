@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 15
+bills-cosponsored: 220
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Trent Kelly
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 220 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (39)
+- International Affairs (24)
+- Agriculture and Food (23)
+- Health (22)
+- Crime and Law Enforcement (21)
+- Taxation (18)
+- Finance and Financial Sector (15)
+- Transportation and Public Works (6)
+- Government Operations and Politics (6)
+- Science, Technology, Communications (6)
+
+**Recent bills sponsored:**
+
+- HR 10493: To support the national defense and economic security of the United States by supporting vessels, ports, and shipyard...
+- HR 10045: Farmer Assistance and Revenue Mitigation Act of 2024
+- HR 9837: To exclude from gross income certain emergency assistance provided to farmers.
+- HR 9836: Pacific Ready Coast Guard Act
+- HR 8095: To amend the Internal Revenue Code of 1986 to extend the energy credit with respect to electrochromic glass.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

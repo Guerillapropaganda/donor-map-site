@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6NV04020"
+bills-sponsored: 23
+bills-cosponsored: 364
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Susie Lee
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 364 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- International Affairs (49)
+- Armed Forces and National Security (39)
+- Crime and Law Enforcement (31)
+- Education (19)
+- Taxation (17)
+- Government Operations and Politics (16)
+- Public Lands and Natural Resources (14)
+- Labor and Employment (14)
+- Civil Rights and Liberties, Minority Issues (13)
+
+**Enacted into law:**
+
+- HR 5253: National Defense Authorization Act for Fiscal Year 2024
+- HR 6056: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

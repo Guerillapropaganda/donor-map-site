@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 9
+bills-cosponsored: 361
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Valerie P. Foushee
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 9 |
+| Bills Cosponsored | 361 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (62)
+- Crime and Law Enforcement (44)
+- Civil Rights and Liberties, Minority Issues (35)
+- International Affairs (20)
+- Taxation (20)
+- Government Operations and Politics (20)
+- Labor and Employment (19)
+- Education (19)
+- Science, Technology, Communications (15)
+- Environmental Protection (13)
+
+**Recent bills sponsored:**
+
+- HR 9894: Cool Roof Rebate Act of 2024
+- HR 9824: College Thriving Act
+- HR 9403: H.R. 9403, Expanding AI Voices Act
+- HR 9253: National Gun Violence Research Act
+- HR 9136: Concrete and Asphalt Innovation Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

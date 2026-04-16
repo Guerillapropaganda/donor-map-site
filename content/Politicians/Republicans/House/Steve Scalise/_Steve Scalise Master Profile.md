@@ -22,8 +22,8 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline
 bioguide-id: S001176
 govtrack-id: 412261
-bills-sponsored: 3
-bills-cosponsored: 5
+bills-sponsored: 12
+bills-cosponsored: 32
 website: https://scalise.house.gov
 phone: 202-225-3015
 wikidata-id: Q1857141
@@ -31,6 +31,8 @@ wikipedia-url: https://en.wikipedia.org/wiki/Steve_Scalise
 wikipedia-extract: Stephen Joseph Scalise is an American politician who has been the House majority leader since 2023 and the U.S. representative for Louisiana's 1st congressional district since 2008.
 born: "1965-10-06"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -275,6 +277,39 @@ Stephen Joseph Scalise is an American politician who has been the House majority
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Steve_Scalise) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1857141) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 32 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (8)
+- Congress (8)
+- Government Operations and Politics (7)
+- Crime and Law Enforcement (4)
+- Education (4)
+- Energy (2)
+- Economics and Public Finance (2)
+- Taxation (2)
+- Public Lands and Natural Resources (1)
+- Health (1)
+
+**Recent bills sponsored:**
+
+- HR 8364: Firearms Interstate Commerce Reform Act
+- HCONRES 93: Providing for a joint session of Congress to receive a message from the President.
+- HR 7423: A bill to designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Lou...
+- HR 6843: Atchafalaya National Heritage Area Boundary Modification Act
+- HRES 811: Authorizing the Clerk to inform the President of the election of the Speaker.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

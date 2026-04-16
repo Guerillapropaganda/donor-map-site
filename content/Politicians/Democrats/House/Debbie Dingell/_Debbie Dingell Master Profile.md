@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4MI12079"
+bills-sponsored: 60
+bills-cosponsored: 569
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Debbie Dingell
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 60 |
+| Bills Cosponsored | 569 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (149)
+- Crime and Law Enforcement (55)
+- Labor and Employment (42)
+- Armed Forces and National Security (41)
+- Government Operations and Politics (31)
+- Civil Rights and Liberties, Minority Issues (30)
+- Education (28)
+- International Affairs (28)
+- Taxation (23)
+- Environmental Protection (19)
+
+**Recent bills sponsored:**
+
+- HR 10527: To direct the National Park Service to pursue options for the provision of mineral-based, broad-spectrum sunscreen or...
+- HR 10424: To amend part E of title IV of the Social Security Act to require States to follow certain procedures in placing a ch...
+- HR 10390: To amend the Pittman-Robertson Wildlife Restoration Act to make supplemental funds available for management of fish a...
+- HR 9964: Urban Bird Treaty Act of 2024
+- HRES 1531: Expressing support for designation of the week of October 6, 2024, through October 12, 2024, as "Latex Allergy Awaren...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

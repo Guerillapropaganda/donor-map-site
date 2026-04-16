@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 38
+bills-cosponsored: 340
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andrew R. Garbarino
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 38 |
+| Bills Cosponsored | 340 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (54)
+- Finance and Financial Sector (36)
+- Government Operations and Politics (36)
+- Crime and Law Enforcement (36)
+- Health (32)
+- Armed Forces and National Security (26)
+- Taxation (24)
+- Labor and Employment (14)
+- Transportation and Public Works (14)
+- Education (13)
+
+**Enacted into law:**
+
+- HR 1453: Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

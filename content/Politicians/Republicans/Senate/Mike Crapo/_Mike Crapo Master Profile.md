@@ -18,13 +18,15 @@ donors: "[[Harlan Crow]], [[Koch Network - Charles Koch]]"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile|Trump]] · [[_Jason Smith Master Profile|Jason Smith]] · [[Ron Wyden]]"
 bioguide-id: C000880
 govtrack-id: 300030
-bills-sponsored: 27
-bills-cosponsored: 254
+bills-sponsored: 18
+bills-cosponsored: 422
 website: https://www.crapo.senate.gov
 phone: 202-224-6142
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -236,6 +238,39 @@ His nuclear energy advocacy is the most authentic throughline, it directly serve
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 422 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Environmental Protection (32)
+- Crime and Law Enforcement (29)
+- Health (28)
+- Armed Forces and National Security (26)
+- Finance and Financial Sector (23)
+- Public Lands and Natural Resources (21)
+- Congress (20)
+- Government Operations and Politics (20)
+- Education (20)
+
+**Recent bills sponsored:**
+
+- SRES 915: Expressing support for the designation of September 2024 as "National Prostate Cancer Awareness Month".
+- SRES 844: A resolution recognizing and supporting the goals and ideals of National Forensic Science Week.
+- SRES 813: A resolution honoring the life of Steven D. Symms, former United States Senator for the State of Idaho.
+- S 4634: S. 4634, a bill to designate the facility of the United States Postal Service located at 154 First Avenue East in Jer...
+- S 4072: A bill to prohibit the use of funds to implement, administer, or enforce certain rules of the Environmental Protectio...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

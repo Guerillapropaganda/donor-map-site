@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0NM03102"
+bills-sponsored: 35
+bills-cosponsored: 297
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Teresa Leger Fernandez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 297 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (53)
+- Education (27)
+- Native Americans (23)
+- Labor and Employment (23)
+- Civil Rights and Liberties, Minority Issues (22)
+- Agriculture and Food (20)
+- Public Lands and Natural Resources (19)
+- Government Operations and Politics (16)
+- Armed Forces and National Security (15)
+- International Affairs (14)
+
+**Enacted into law:**
+
+- HR 1590: A bill to designate the clinic of the Department of Veterans Affairs in Gallup, New Mexico, as the Hiroshi "Hershey" ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

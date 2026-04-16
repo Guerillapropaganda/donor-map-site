@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 50
+bills-cosponsored: 194
+bills-enacted: 0
+top-policy-area: "Public Lands and Natural Resources"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John R. Curtis
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 50 |
+| Bills Cosponsored | 194 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Public Lands and Natural Resources (29)
+- Energy (28)
+- Health (23)
+- International Affairs (22)
+- Environmental Protection (21)
+- Taxation (16)
+- Crime and Law Enforcement (14)
+- Armed Forces and National Security (10)
+- Science, Technology, Communications (9)
+- Agriculture and Food (8)
+
+**Recent bills sponsored:**
+
+- HR 10513: To authorize the Secretary of the Interior to co-locate renewable energy projects on certain existing Federal leased ...
+- HR 10523: To establish and carry out a Federal Wildfire Relief Fund.
+- HR 10252: Cleaner Biofuels Act of 2024
+- HR 10212: SCAM Platform Act
+- HRES 1583: Expressing support for the designation of November 15, 2023, as "National GIS Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

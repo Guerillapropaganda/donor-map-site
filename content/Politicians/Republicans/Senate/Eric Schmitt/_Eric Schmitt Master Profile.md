@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S2MO00544"
+bills-sponsored: 30
+bills-cosponsored: 217
+bills-enacted: 0
+top-policy-area: "Congress"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Eric Schmitt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 217 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (24)
+- Health (24)
+- Government Operations and Politics (23)
+- International Affairs (18)
+- Crime and Law Enforcement (16)
+- Taxation (16)
+- Armed Forces and National Security (15)
+- Education (15)
+- Immigration (10)
+- Finance and Financial Sector (10)
+
+**Recent bills sponsored:**
+
+- SRES 942: A resolution congratulating the Washington University in St. Louis Bears women's soccer team for winning the 2024 NCA...
+- S 5623: A bill to establish a debt reduction fund to reduce the national debt of the United States.
+- S 5541: A bill to amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, and Respond to Health and Wellne...
+- S 5500: A bill to amend title 5, United States Code, to instruct Inspectors General to report to Congress on social media com...
+- S 5353: National Plan for Epilepsy Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

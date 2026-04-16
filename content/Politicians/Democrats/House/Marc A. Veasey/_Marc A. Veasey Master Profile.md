@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 15
+bills-cosponsored: 403
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Marc A. Veasey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 403 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- International Affairs (44)
+- Armed Forces and National Security (37)
+- Government Operations and Politics (33)
+- Crime and Law Enforcement (30)
+- Civil Rights and Liberties, Minority Issues (22)
+- Taxation (20)
+- Labor and Employment (19)
+- Finance and Financial Sector (14)
+- Education (14)
+
+**Recent bills sponsored:**
+
+- HR 10110: 320th Barrage Balloon Battalion Gold Medal Act
+- HRES 1461: A resolution designating September 2023 as "National Voting Rights Month".
+- HR 9112: To designate the facility of the United States Postal Service located at 4650 East Rosedale Street in Fort Worth, Tex...
+- HR 8770: Cybersecurity Clinics Grant Program Act
+- HRES 1259: Expressing support for the designation of May 2023 as "National Physical Fitness and Sports Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

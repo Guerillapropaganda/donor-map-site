@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4WI06048"
+bills-sponsored: 34
+bills-cosponsored: 383
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Glenn Grothman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 383 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (60)
+- Government Operations and Politics (35)
+- Taxation (29)
+- Finance and Financial Sector (27)
+- Education (27)
+- Crime and Law Enforcement (26)
+- International Affairs (25)
+- Economics and Public Finance (20)
+- Armed Forces and National Security (18)
+- Labor and Employment (18)
+
+**Enacted into law:**
+
+- HR 5712: H.R. 5712, a bill to designate the facility of the United States Postal Service located at 220 Fremont Street in Kiel...
+- HR 7184: Congressional Budget Office Data Access Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

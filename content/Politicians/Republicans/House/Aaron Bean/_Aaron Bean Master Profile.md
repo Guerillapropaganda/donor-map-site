@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2FL04211"
+bills-sponsored: 20
+bills-cosponsored: 219
+bills-enacted: 2
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -46,3 +50,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Aaron Bean
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 219 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (24)
+- Education (22)
+- Health (22)
+- Crime and Law Enforcement (19)
+- International Affairs (18)
+- Labor and Employment (15)
+- Immigration (14)
+- Armed Forces and National Security (13)
+- Finance and Financial Sector (12)
+- Taxation (11)
+
+**Enacted into law:**
+
+- HR 3469: To designate the facility of the United States Postal Service located at 859 North State Road 21 in Melrose, Florida,...
+- HR 5224: Missing Children’s Assistance Reauthorization Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

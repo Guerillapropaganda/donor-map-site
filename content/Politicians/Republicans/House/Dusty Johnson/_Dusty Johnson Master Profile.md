@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Western Growers Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8SD01055"
+bills-sponsored: 33
+bills-cosponsored: 209
+bills-enacted: 0
+top-policy-area: "Agriculture and Food"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Dusty Johnson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 33 |
+| Bills Cosponsored | 209 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Agriculture and Food (25)
+- International Affairs (20)
+- Finance and Financial Sector (18)
+- Native Americans (18)
+- Taxation (16)
+- Transportation and Public Works (16)
+- Crime and Law Enforcement (16)
+- Health (15)
+- Government Operations and Politics (12)
+- Environmental Protection (10)
+
+**Recent bills sponsored:**
+
+- HR 9834: Western South Dakota Water Supply Project Feasibility Study Act
+- HR 9565: Securing Infrastructure from Adversaries Act
+- HR 9390: Sober Act of 2024
+- HR 8966: Improving Tribal Cultural Training for Providers Act of 2024
+- HR 8955: Restoring Accountability in the Indian Health Service Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

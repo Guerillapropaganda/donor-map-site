@@ -22,8 +22,8 @@ top-donors:
   - Koch Network - Charles Koch
   - Crypto Industry Bloc
 govtrack-id: 412573
-bills-sponsored: 111
-bills-cosponsored: 220
+bills-sponsored: 142
+bills-cosponsored: 377
 website: https://www.cruz.senate.gov
 phone: 202-224-5922
 total-received: $6,442,446
@@ -49,6 +49,8 @@ internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: C001098. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 donors: "[[Rebekah Mercer]] · [[Kelcy Warren]] · [[SAVE OUR COUNTRY]] · [[Crypto Industry Bloc]] · [[Republican Jewish Coalition]] · [[WinSenate]] · [[Truth and Courage PAC]] · [[Christopher Ruddy]] · [[TEXAS FOREVER]] · [[Texas Conservatives Fund]] · [[Robert Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Texas Forever]] · [[Save Our Country]]"
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -392,6 +394,36 @@ conte
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 142 |
+| Bills Cosponsored | 377 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (74)
+- Crime and Law Enforcement (50)
+- Armed Forces and National Security (42)
+- Government Operations and Politics (37)
+- Immigration (32)
+- Finance and Financial Sector (29)
+- Congress (26)
+- Health (24)
+- Education (23)
+- Taxation (20)
+
+**Enacted into law:**
+
+- S 2339: National Defense Authorization Act for Fiscal Year 2024
+- S 1280: TRANQ Research Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

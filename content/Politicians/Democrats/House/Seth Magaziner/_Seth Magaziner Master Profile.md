@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2RI02184"
+bills-sponsored: 20
+bills-cosponsored: 547
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Seth Magaziner
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 547 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (82)
+- Crime and Law Enforcement (56)
+- International Affairs (48)
+- Labor and Employment (41)
+- Taxation (36)
+- Education (35)
+- Armed Forces and National Security (32)
+- Government Operations and Politics (31)
+- Transportation and Public Works (22)
+- Agriculture and Food (21)
+
+**Recent bills sponsored:**
+
+- HR 10291: To amend title XVIII of the Social Security Act to provide coverage for certain fall prevention items under the Medic...
+- HR 10226: National Guard and Reserve Student Loan Fairness Act
+- HR 10116: To direct the Secretary of Interior to submit to Congress a report on the National Park Service's interpretation and ...
+- HR 9658: To establish "Silver Sea Bream" as an acceptable market name for Stenotomus chrysops.
+- HR 9337: Don’t STEAL Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

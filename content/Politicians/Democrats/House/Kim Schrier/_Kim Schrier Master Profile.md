@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8WA08189"
+bills-sponsored: 25
+bills-cosponsored: 315
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kim Schrier
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 315 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (77)
+- Agriculture and Food (35)
+- Crime and Law Enforcement (27)
+- Public Lands and Natural Resources (21)
+- Taxation (18)
+- Government Operations and Politics (16)
+- Armed Forces and National Security (16)
+- International Affairs (15)
+- Education (13)
+- Environmental Protection (12)
+
+**Recent bills sponsored:**
+
+- HR 10438: To expand cost-sharing reductions with respect to qualified health plans offered through an Exchange, and for other p...
+- HR 10188: Capping Costs for Consumers Act of 2024
+- HR 10096: Strengthening the Vaccines for Children Program Act of 2024
+- HR 9356: Lasting Home Affordability Act of 2024
+- HR 8698: SCREEN for Type 1 Diabetes Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

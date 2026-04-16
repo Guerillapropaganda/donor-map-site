@@ -32,6 +32,10 @@ stock-trade-tickers:
   - "T"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6MD03441"
+bills-sponsored: 51
+bills-cosponsored: 602
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -78,6 +82,39 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 02/17/2017 | T | Sale | $1,001 - $15,000 | Self |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 51 |
+| Bills Cosponsored | 602 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- International Affairs (64)
+- Education (61)
+- Government Operations and Politics (45)
+- Taxation (44)
+- Crime and Law Enforcement (34)
+- Armed Forces and National Security (32)
+- Civil Rights and Liberties, Minority Issues (26)
+- Labor and Employment (24)
+- Finance and Financial Sector (24)
+
+**Recent bills sponsored:**
+
+- S 5613: A bill to improve the quality, appropriateness, and effectiveness of diagnosis in health care, and for other purposes.
+- S 5561: A bill to establish a Federal standard in order to improve the Nation's resilience to current and future flood risk.
+- S 5499: A bill to amend title 28, United States Code, with regard to counsel for persons proceeding in forma pauperis.
+- S 5495: A bill to cap the emissions of greenhouse gases through a requirement to purchase carbon permits, to distribute the p...
+- SJRES 118: Providing for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Em...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 2
+bills-cosponsored: 95
+bills-enacted: 0
+top-policy-area: "Civil Rights and Liberties, Minority Issues"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Steny H. Hoyer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 2 |
+| Bills Cosponsored | 95 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Civil Rights and Liberties, Minority Issues (13)
+- Government Operations and Politics (12)
+- Crime and Law Enforcement (10)
+- International Affairs (9)
+- Health (9)
+- Labor and Employment (7)
+- Congress (6)
+- Animals (3)
+- Armed Forces and National Security (3)
+- Agriculture and Food (3)
+
+**Recent bills sponsored:**
+
+- HR 9867: Combatting Global Deforestation Act of 2024
+- HCONRES 43: H. Con. Res. 43, a concurrent resolution authorizing the use of the Capitol Grounds for the Greater Washington Soap B...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4WI04183"
+bills-sponsored: 27
+bills-cosponsored: 589
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Gwen Moore
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 589 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (113)
+- Crime and Law Enforcement (59)
+- Education (46)
+- Civil Rights and Liberties, Minority Issues (39)
+- Armed Forces and National Security (38)
+- Taxation (37)
+- Government Operations and Politics (29)
+- Labor and Employment (28)
+- International Affairs (25)
+- Transportation and Public Works (22)
+
+**Recent bills sponsored:**
+
+- HR 10400: To amend the Internal Revenue Code of 1986 to clarify the definition of applicable educational institution for purpos...
+- HR 10308: To amend the Internal Revenue Code of 1986 to allow for payments to certain individuals who dye fuel, and for other p...
+- HRES 1601: Expressing support for the designation of November 8, 2023, as "National First-Generation College Celebration Day".
+- HRES 1541: Expressing the sense of the House of Representatives regarding the relationships between firearm violence, misogyny, ...
+- HR 8390: Mental Health and MAMA Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -32,6 +32,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 14
+bills-cosponsored: 9
+bills-enacted: 0
+top-policy-area: "Congress"
 ---
 
 <!-- auto:data-panel start -->
@@ -320,6 +324,38 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 9 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (4)
+- Government Operations and Politics (3)
+- Health (3)
+- International Affairs (2)
+- Social Welfare (1)
+- Public Lands and Natural Resources (1)
+- Water Resources Development (1)
+- Science, Technology, Communications (1)
+- Environmental Protection (1)
+
+**Recent bills sponsored:**
+
+- HR 6718: City of Ridgecrest Land Exchange Act
+- HR 6068: Clergy Act
+- HR 5617: Space Transformation And Reliability Act
+- HRES 593: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
+- HRES 523: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

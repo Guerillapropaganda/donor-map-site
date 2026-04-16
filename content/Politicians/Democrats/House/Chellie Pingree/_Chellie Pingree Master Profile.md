@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8ME01120"
+bills-sponsored: 19
+bills-cosponsored: 616
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Chellie Pingree
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 616 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (129)
+- Agriculture and Food (101)
+- Taxation (40)
+- Crime and Law Enforcement (31)
+- International Affairs (30)
+- Education (29)
+- Government Operations and Politics (27)
+- Environmental Protection (25)
+- Labor and Employment (24)
+- Civil Rights and Liberties, Minority Issues (24)
+
+**Recent bills sponsored:**
+
+- HR 10502: To require the United States Armed Forces to fully utilize applicable State extreme risk protection order programs, a...
+- HR 9909: Working Waterfront Disaster Mitigation Tax Credit Act
+- HR 6937: O DAIRY Act of 2023
+- HR 6641: Sustaining America’s Fisheries for the Future Act of 2024
+- HRES 783: A resolution designating October 16, 2023, and October 16, 2024, as "World Food Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

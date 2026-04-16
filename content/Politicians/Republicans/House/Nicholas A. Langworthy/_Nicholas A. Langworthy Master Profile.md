@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 364
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Nicholas A. Langworthy
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 364 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (47)
+- International Affairs (42)
+- Health (39)
+- Government Operations and Politics (38)
+- Agriculture and Food (31)
+- Taxation (25)
+- Armed Forces and National Security (25)
+- Immigration (18)
+- Congress (18)
+- Finance and Financial Sector (15)
+
+**Enacted into law:**
+
+- HR 9566: H.R. 9566, Source code Harmonization and Reuse in Information Technology Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

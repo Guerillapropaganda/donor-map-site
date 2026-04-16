@@ -28,6 +28,10 @@ ofac-programs:
   - "SDGT] [IFSR"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MI10150"
+bills-sponsored: 36
+bills-cosponsored: 177
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -66,3 +70,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 177 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (49)
+- Armed Forces and National Security (34)
+- Health (25)
+- Education (16)
+- Taxation (12)
+- Government Operations and Politics (11)
+- Crime and Law Enforcement (10)
+- Labor and Employment (8)
+- Finance and Financial Sector (6)
+- Environmental Protection (5)
+
+**Recent bills sponsored:**
+
+- HR 10365: To extend certain authorities relating to United States efforts to combat HIV/AIDS, tuberculosis, and malaria globall...
+- HR 10366: To reauthorize the African Growth and Opportunity Act.
+- HR 10364: To safeguard children from harmful app services accessible through app stores across the United States, to provide pa...
+- HRES 1429: Congratulating the Olympians and Paralympians of Michigan who competed in the 2024 Olympics and Paralympics in Paris,...
+- HR 8893: Preserving Veterans’ Legacy Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

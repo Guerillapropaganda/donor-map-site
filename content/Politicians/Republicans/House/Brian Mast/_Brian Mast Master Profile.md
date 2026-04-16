@@ -41,6 +41,10 @@ opensanctions-datasets:
   - us_congress
   - ru_mfa_sanctions
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 212
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -245,3 +249,37 @@ Mast's committee also oversees foreign affairs broadly. China, Russia, Iran, NAT
 
 - [Source: OpenSanctions](https://www.opensanctions.org/search/?q=Brian%20Mast) (Tier 1) (VERIFIED)
 <!-- auto:opensanctions end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 212 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (59)
+- Armed Forces and National Security (36)
+- Health (21)
+- Government Operations and Politics (15)
+- Crime and Law Enforcement (14)
+- Taxation (12)
+- Transportation and Public Works (11)
+- Environmental Protection (10)
+- Immigration (8)
+- Finance and Financial Sector (7)
+
+**Recent bills sponsored:**
+
+- HRES 1482: Condemning the attempted assassination of former President Donald J. Trump at the Trump International Golf Club in We...
+- HR 8542: Dr. Joseph B. Kirsner Congressional Gold Medal Act
+- HR 8481: Emergency Community Care Notification Time Adjustment Act of 2024
+- HR 8408: To designate the facility of the United States Postal Service located at 290 NW Peacock Boulevard in Port St. Lucie, ...
+- HR 8232: H.R. 8232, a bill to authorize the Secretary of State to withdraw from the United Nations Relief and Works Agency for...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

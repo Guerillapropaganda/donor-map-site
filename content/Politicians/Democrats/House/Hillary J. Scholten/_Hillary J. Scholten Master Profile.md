@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 10
+bills-cosponsored: 345
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Hillary J. Scholten
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 345 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (54)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (27)
+- International Affairs (24)
+- Taxation (24)
+- Labor and Employment (19)
+- Armed Forces and National Security (17)
+- Environmental Protection (16)
+- Civil Rights and Liberties, Minority Issues (15)
+- Transportation and Public Works (13)
+
+**Recent bills sponsored:**
+
+- HR 9285: H.R. 9285, a bill to designate the facility of the United States Postal Service located at 3913 Leland Avenue Northwe...
+- HR 7642: To reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994 (16 U.S.C. 719 et seq.).
+- HR 5732: Grand River Bands of Ottawa Indians Restoration Act of 2024
+- HR 5450: H.R. 5450, a bill to amend the Small Business Act to modify the application of price evaluation preference for qualif...
+- HR 5424: H.R. 5424, Main Street Competes Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -20,7 +20,7 @@ fec-candidate-id: "H4MS02068"
 bioguide-id: T000193
 govtrack-id: 400402
 bills-sponsored: 14
-bills-cosponsored: 355
+bills-cosponsored: 373
 website: https://benniethompson.house.gov
 phone: 202-225-5876
 donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Blue Shield of California]] · [[American Gaming Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[CA Farm Bureau Federation]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[UNITE HERE TIP CAMPAIGN COMMITTEE]] · [[LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A.]] · [[NARAL Pro-Choice America]] · [[Unite Here Tip Campaign Committee]] · [[Laborers' Political League-Laborers' International Union of N.a.]]"
@@ -30,6 +30,8 @@ reenrich-reason: run congress pipeline
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Nancy Pelosi Master Profile|Pelosi]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -377,6 +379,39 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
 <!-- auto:fec-summary end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 373 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (54)
+- Crime and Law Enforcement (36)
+- Education (31)
+- Government Operations and Politics (29)
+- Civil Rights and Liberties, Minority Issues (27)
+- Agriculture and Food (24)
+- Labor and Employment (23)
+- Armed Forces and National Security (21)
+- Taxation (11)
+- Transportation and Public Works (10)
+
+**Recent bills sponsored:**
+
+- HRES 1555: Condemning the spreading of disinformation and malicious rumors that have led to threats against disaster response pe...
+- HR 9743: DEPLOY Tax Relief Act
+- HR 8618: Forest Biomass Emissions Act of 2024
+- HRES 1261: Honoring the service and sacrifices of the men and women of the U.S. Border Patrol and their families on its centennial.
+- HR 8370: Rights for the TSA Workforce Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

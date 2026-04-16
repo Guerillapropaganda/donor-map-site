@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OR01133"
+bills-sponsored: 71
+bills-cosponsored: 730
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Suzanne Bonamici
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 730 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (112)
+- Education (70)
+- Labor and Employment (61)
+- Agriculture and Food (51)
+- Crime and Law Enforcement (49)
+- Civil Rights and Liberties, Minority Issues (45)
+- Environmental Protection (37)
+- Taxation (33)
+- Housing and Community Development (32)
+- International Affairs (30)
+
+**Recent bills sponsored:**
+
+- HR 10512: To extend the RAISE Family Caregivers Act.
+- HR 10471: To support marine carbon dioxide removal activities, and for other purposes.
+- HR 10379: To establish a Federal Public Defender Commission, and for other purposes.
+- HRES 1598: Designating November 2023 as "National Homeless Children and Youth Awareness Month".
+- HR 9912: Coastal Restoration Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

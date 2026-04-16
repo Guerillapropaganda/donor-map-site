@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 4
+bills-cosponsored: 250
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,36 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Thomas R. Suozzi
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 250 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (43)
+- International Affairs (30)
+- Government Operations and Politics (22)
+- Taxation (21)
+- Crime and Law Enforcement (20)
+- Armed Forces and National Security (13)
+- Labor and Employment (9)
+- Animals (8)
+- Finance and Financial Sector (8)
+- Transportation and Public Works (8)
+
+**Recent bills sponsored:**
+
+- HR 10265: Securing our Northern Border Act
+- HR 9987: Commission To Study the Potential of a National Museum of Italian American History and Culture Act
+- HR 9952: To add the Republic of Korea to the E3 nonimmigrant visa program.
+- HRES 1394: Celebrating the principles of democracy, religious pluralism, human rights, and the rule of law shared by both the Un...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

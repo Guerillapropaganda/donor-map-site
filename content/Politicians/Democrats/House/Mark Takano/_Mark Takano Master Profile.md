@@ -37,6 +37,10 @@ issues:
   - Government Operations and Politics
   - Health
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 29
+bills-cosponsored: 509
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -289,6 +293,39 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 - [Source: Congress.gov](https://www.congress.gov/member/T000472) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 509 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- Education (43)
+- Government Operations and Politics (41)
+- Civil Rights and Liberties, Minority Issues (41)
+- Armed Forces and National Security (39)
+- Crime and Law Enforcement (36)
+- Labor and Employment (31)
+- Taxation (27)
+- International Affairs (21)
+- Agriculture and Food (19)
+
+**Recent bills sponsored:**
+
+- HR 10381: To amend title 38, United States Code, to authorize a joint scholarship program under which the Secretary of Veterans...
+- HR 9855: VA Employee Fairness Act of 2024
+- HRES 1324: Condemning Uganda's undemocratic human rights regression.
+- HR 8560: End Veteran Homelessness Act of 2024
+- HRES 1135: A resolution supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

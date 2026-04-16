@@ -83,6 +83,10 @@ opensanctions-datasets:
   - us_congress
   - ru_mfa_sanctions
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-sponsored: 61
+bills-cosponsored: 576
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -455,6 +459,39 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 61 |
+| Bills Cosponsored | 576 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- Crime and Law Enforcement (59)
+- Taxation (46)
+- International Affairs (41)
+- Armed Forces and National Security (39)
+- Government Operations and Politics (37)
+- Civil Rights and Liberties, Minority Issues (33)
+- Environmental Protection (28)
+- Labor and Employment (27)
+- Education (26)
+
+**Recent bills sponsored:**
+
+- S 5612: A bill to amend part C of title XVIII of the Social Security Act to provide for prior authorization reforms under the...
+- S 5441: A bill to provide for offshore wind energy development, and for other purposes.
+- S 5399: Medical Bankruptcy Fairness Act of 2024
+- SRES 871: Expressing support for the designation of October 2024 as "National Youth Justice Action Month".
+- S 5220: Supreme Court Review Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

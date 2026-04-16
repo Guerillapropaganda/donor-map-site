@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4TX10028"
+bills-sponsored: 24
+bills-cosponsored: 427
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lloyd Doggett
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 427 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (102)
+- International Affairs (48)
+- Crime and Law Enforcement (32)
+- Government Operations and Politics (32)
+- Civil Rights and Liberties, Minority Issues (29)
+- Education (27)
+- Labor and Employment (22)
+- Taxation (22)
+- Armed Forces and National Security (16)
+- Agriculture and Food (13)
+
+**Recent bills sponsored:**
+
+- HRES 1366: Expressing the profound sorrow of the House of Representatives on the death of the Honorable Sheila Jackson Lee.
+- HRES 1352: Expressing support for the designation of July 2024 as "Plastic Pollution Action Month".
+- HR 8268: Stop Corporate Inversions Act of 2024
+- HR 6654: Farewell to Foam Act of 2023
+- HR 6417: Ending Importation of Laundered Russian Oil Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

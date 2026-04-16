@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0OR02127"
+bills-sponsored: 7
+bills-cosponsored: 121
+bills-enacted: 1
+top-policy-area: "Public Lands and Natural Resources"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Cliff Bentz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 121 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Public Lands and Natural Resources (16)
+- Environmental Protection (12)
+- Crime and Law Enforcement (11)
+- Armed Forces and National Security (10)
+- Energy (10)
+- Health (9)
+- International Affairs (7)
+- Water Resources Development (7)
+- Finance and Financial Sector (5)
+- Government Operations and Politics (5)
+
+**Enacted into law:**
+
+- HR 8296: GAO Database Modernization Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

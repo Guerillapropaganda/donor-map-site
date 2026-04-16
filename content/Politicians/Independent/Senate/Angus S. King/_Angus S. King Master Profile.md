@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 stock-trades: 8
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 54
+bills-cosponsored: 490
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -68,6 +72,35 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 03/07/2013 | N/A | other | Unknown | N/A |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 490 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (69)
+- Health (62)
+- Agriculture and Food (42)
+- Taxation (38)
+- Education (34)
+- International Affairs (31)
+- Public Lands and Natural Resources (30)
+- Government Operations and Politics (28)
+- Congress (19)
+- Civil Rights and Liberties, Minority Issues (18)
+
+**Enacted into law:**
+
+- S 2268: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

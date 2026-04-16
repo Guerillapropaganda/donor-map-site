@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 14
+bills-cosponsored: 333
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ben Cline
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 333 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (40)
+- Health (38)
+- International Affairs (37)
+- Government Operations and Politics (32)
+- Taxation (29)
+- Armed Forces and National Security (19)
+- Agriculture and Food (19)
+- Education (19)
+- Finance and Financial Sector (16)
+- Immigration (14)
+
+**Recent bills sponsored:**
+
+- HR 8979: No Bias in the Baseline Act
+- HR 8224: No Subsidies for Wealthy Universities Act
+- HR 7737: One Agency Act
+- HR 7081: Protecting Access to American Products Act
+- HR 6847: Federal Grant Accountability Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8MA03106"
+bills-sponsored: 14
+bills-cosponsored: 395
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lori Trahan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 395 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (124)
+- Crime and Law Enforcement (31)
+- Government Operations and Politics (28)
+- International Affairs (26)
+- Civil Rights and Liberties, Minority Issues (21)
+- Labor and Employment (20)
+- Education (20)
+- Armed Forces and National Security (18)
+- Taxation (17)
+- Commerce (12)
+
+**Recent bills sponsored:**
+
+- HRES 1419: Supporting the goals of Overdose Awareness Day and strengthening efforts to combat the opioid crisis in the United St...
+- HR 9323: Pipeline Accountability, Safety, and Environmental Standards Act of 2024
+- HRES 1156: Expressing support for the designation of April 17, 2025, as "Cambodian Genocide Remembrance Day" to remember the hor...
+- HR 7605: SENIOR Act of 2024
+- HR 7397: To amend title XVIII of the Social Security Act to establish a definition of essential health system in statute.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

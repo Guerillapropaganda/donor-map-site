@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 41
+bills-cosponsored: 350
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Carol D. Miller
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 350 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (79)
+- Taxation (74)
+- International Affairs (43)
+- Crime and Law Enforcement (27)
+- Government Operations and Politics (19)
+- Foreign Trade and International Finance (17)
+- Finance and Financial Sector (15)
+- Energy (15)
+- Labor and Employment (13)
+- Armed Forces and National Security (11)
+
+**Recent bills sponsored:**
+
+- HR 10345: To require the Secretary of Veterans Affairs to carry out a program for the construction and renovation of committal ...
+- HR 10187: Rural Hospital Flexibility Act of 2024
+- HR 9876: United States-Republic of Korea Digital Trade Enforcement Act
+- HR 9842: RCORP Authorization Act
+- HR 9125: Patient Access to LTCH Care Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

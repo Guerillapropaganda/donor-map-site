@@ -36,6 +36,10 @@ reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; r
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4NC05146"
+bills-sponsored: 20
+bills-cosponsored: 137
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -269,6 +273,39 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 
 ### Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 137 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (23)
+- Education (21)
+- Labor and Employment (15)
+- Health (12)
+- International Affairs (12)
+- Immigration (9)
+- Taxation (9)
+- Crime and Law Enforcement (8)
+- Civil Rights and Liberties, Minority Issues (5)
+- Economics and Public Finance (4)
+
+**Recent bills sponsored:**
+
+- HR 10425: To amend and reauthorize the Workforce Innovation and Opportunity Act and the Older Americans Act of 1965.
+- HR 10257: Protect Economic Freedom Act
+- HR 10087: Disaster Recovery and Resilience Act of 2024
+- HR 10088: Helene Recovery Support Act
+- HR 8573: Union Members Right to Know Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

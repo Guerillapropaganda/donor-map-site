@@ -24,8 +24,8 @@ issues:
   - Social Welfare
 top-donors: "[[Defense Industry Bloc]]"
 govtrack-id: 456796
-bills-sponsored: 35
-bills-cosponsored: 194
+bills-sponsored: 21
+bills-cosponsored: 228
 website: https://www.tuberville.senate.gov
 phone: 202-224-4124
 source-types:
@@ -49,6 +49,8 @@ internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: T000278. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -318,6 +320,39 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 228 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (25)
+- Education (23)
+- International Affairs (20)
+- Immigration (18)
+- Congress (17)
+- Agriculture and Food (14)
+- Crime and Law Enforcement (14)
+- Government Operations and Politics (13)
+- Health (13)
+- Finance and Financial Sector (13)
+
+**Recent bills sponsored:**
+
+- S 4816: Alabama Underwater Forest National Marine Sanctuary and Protection Act
+- S 4568: CHIPS Improvement Act
+- S 4506: Workforce DATA Act
+- S 4297: Repealing Big Brother Overreach Act
+- SRES 667: Expressing support for the month of May as "Fallen Heroes Memorial Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -29,6 +29,10 @@ related: "[[_Donald Trump Master Profile|Trump]]"
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]], [[Associated General Contractors of America Political Action Committee]]"
 donors: "[[Associated General Contractors of America Political Action Committee]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 21
+bills-cosponsored: 127
+bills-enacted: 3
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -220,6 +224,37 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 
 - {{src:src_004201}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 127 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (18)
+- Transportation and Public Works (15)
+- Crime and Law Enforcement (14)
+- Taxation (11)
+- Finance and Financial Sector (10)
+- Armed Forces and National Security (10)
+- Government Operations and Politics (10)
+- International Affairs (10)
+- Education (8)
+- Agriculture and Food (8)
+
+**Enacted into law:**
+
+- HR 8289: Airport and Airway Extension Act of 2024, Part II
+- HR 5711: Continuing Appropriations Act, 2024 and Other Extensions Act
+- HR 7454: Airport and Airway Extension Act of 2023, Part II
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

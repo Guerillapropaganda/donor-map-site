@@ -33,6 +33,10 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 63
+bills-cosponsored: 434
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -247,6 +251,36 @@ The pastoral background completes the picture. Lankford ran the largest Christia
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 63 |
+| Bills Cosponsored | 434 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (54)
+- Health (50)
+- Government Operations and Politics (48)
+- Education (32)
+- Taxation (32)
+- Armed Forces and National Security (31)
+- Crime and Law Enforcement (30)
+- Immigration (25)
+- Environmental Protection (21)
+- Congress (20)
+
+**Enacted into law:**
+
+- S 349: National Defense Authorization Act for Fiscal Year 2024
+- S 5314: A bill to designate the medical center of the Department of Veterans Affairs in Tulsa, Oklahoma, as the James Mountai...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

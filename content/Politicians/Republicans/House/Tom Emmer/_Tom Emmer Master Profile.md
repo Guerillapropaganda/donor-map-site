@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Western Growers Association]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 12
+bills-cosponsored: 84
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Tom Emmer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 84 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (40)
+- Taxation (8)
+- Government Operations and Politics (7)
+- Crime and Law Enforcement (7)
+- International Affairs (6)
+- Economics and Public Finance (4)
+- Environmental Protection (3)
+- Labor and Employment (3)
+- Commerce (2)
+- Education (2)
+
+**Recent bills sponsored:**
+
+- HR 8066: Ammunition Supply Chain Act
+- HR 7873: Firearm Due Process Protection Act
+- HR 7455: Sunset Act of 2024
+- HR 6962: Financial Stability Oversight Council Reform Act
+- HR 6922: Securing Facilities for Mental Health Services Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

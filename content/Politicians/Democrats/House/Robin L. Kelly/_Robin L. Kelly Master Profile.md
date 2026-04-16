@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 23
+bills-cosponsored: 393
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Robin L. Kelly
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 393 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (101)
+- Crime and Law Enforcement (59)
+- Civil Rights and Liberties, Minority Issues (30)
+- Government Operations and Politics (26)
+- International Affairs (24)
+- Armed Forces and National Security (18)
+- Taxation (17)
+- Labor and Employment (17)
+- Education (16)
+- Commerce (15)
+
+**Recent bills sponsored:**
+
+- HR 10455: To direct the Secretary of Health and Human Services to establish the Health Sector Cybersecurity Coordination Center...
+- HR 10394: To expand reporting on subcontracts and subgrants made under Federal awards, and for other purposes.
+- HR 10124: To direct the Secretary of Agriculture to establish and administer a pilot program to provide grants to support Food ...
+- HR 10090: Keeping Guns from High-Risk Individuals Act
+- HR 9104: Access to Birth Control Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

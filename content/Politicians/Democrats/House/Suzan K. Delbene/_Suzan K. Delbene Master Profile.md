@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 19
+bills-cosponsored: 523
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Suzan K. Delbene
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 523 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (94)
+- Taxation (44)
+- Armed Forces and National Security (39)
+- Crime and Law Enforcement (38)
+- Government Operations and Politics (37)
+- Civil Rights and Liberties, Minority Issues (32)
+- Labor and Employment (30)
+- Education (22)
+- International Affairs (21)
+- Agriculture and Food (17)
+
+**Recent bills sponsored:**
+
+- HR 10359: To establish the Immersive Technology Advisory Panel to promote the use of immersive technology in the United States,...
+- HR 10303: DAMS for Beavers Act
+- HR 10282: Expanding Support for Living Donors Act of 2024
+- HR 10181: Prevent Tariff Abuse Act
+- HR 9892: Smart Cities and Communities Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 15
+bills-cosponsored: 509
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Stephen F. Lynch
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 509 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (88)
+- Crime and Law Enforcement (46)
+- Education (42)
+- Labor and Employment (39)
+- Government Operations and Politics (35)
+- Armed Forces and National Security (30)
+- International Affairs (29)
+- Civil Rights and Liberties, Minority Issues (28)
+- Finance and Financial Sector (21)
+- Taxation (20)
+
+**Recent bills sponsored:**
+
+- HR 6786: Reengage the Workforce Act
+- HR 6677: Seawall Expansion Act
+- HR 5410: ECASH Act
+- HR 4765: H.R. 4765, Exposing China’s Support for the Taliban Act
+- HR 3914: Failing Bank Acquisition Fairness Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

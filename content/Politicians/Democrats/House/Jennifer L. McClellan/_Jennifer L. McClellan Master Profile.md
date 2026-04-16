@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 23
+bills-cosponsored: 448
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jennifer L. McClellan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 448 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (95)
+- Crime and Law Enforcement (39)
+- Government Operations and Politics (38)
+- Armed Forces and National Security (38)
+- Civil Rights and Liberties, Minority Issues (33)
+- Education (28)
+- International Affairs (24)
+- Agriculture and Food (21)
+- Environmental Protection (17)
+- Labor and Employment (15)
+
+**Enacted into law:**
+
+- HR 6386: National Defense Authorization Act for Fiscal Year 2024
+- HJRES 89: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

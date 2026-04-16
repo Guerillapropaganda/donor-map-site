@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6FL11126"
+bills-sponsored: 24
+bills-cosponsored: 464
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kathy Castor
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 464 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (121)
+- Crime and Law Enforcement (39)
+- Government Operations and Politics (28)
+- Education (26)
+- Energy (25)
+- Civil Rights and Liberties, Minority Issues (22)
+- International Affairs (21)
+- Environmental Protection (20)
+- Armed Forces and National Security (19)
+- Labor and Employment (19)
+
+**Enacted into law:**
+
+- HR 3218: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

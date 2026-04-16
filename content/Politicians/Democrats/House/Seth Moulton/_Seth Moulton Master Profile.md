@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Raytheon (RTX Corporation)]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6MA00296"
+bills-sponsored: 13
+bills-cosponsored: 553
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Seth Moulton
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 553 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (90)
+- Armed Forces and National Security (76)
+- International Affairs (66)
+- Crime and Law Enforcement (43)
+- Government Operations and Politics (31)
+- Education (28)
+- Transportation and Public Works (26)
+- Civil Rights and Liberties, Minority Issues (26)
+- Labor and Employment (24)
+- Agriculture and Food (20)
+
+**Recent bills sponsored:**
+
+- HR 10433: To provide for consideration of all modes of transportation and all road users in certain highway and transit program...
+- HRES 1560: Providing for consideration of the bill (H.R. 8996) to enhance safety requirements for trains transporting hazardous ...
+- HRES 1301: Expressing support for the inaugural Heart Recovery Awareness Day on February 20, 2025.
+- HR 7600: American High-Speed Rail Act
+- HR 4347: Mass Shooter Prosecution Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

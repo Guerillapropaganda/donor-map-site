@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CA10126"
+bills-sponsored: 37
+bills-cosponsored: 419
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Josh Harder
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 419 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (81)
+- Agriculture and Food (52)
+- Government Operations and Politics (38)
+- Crime and Law Enforcement (38)
+- Armed Forces and National Security (32)
+- Taxation (23)
+- Education (21)
+- Labor and Employment (18)
+- Transportation and Public Works (16)
+- International Affairs (14)
+
+**Recent bills sponsored:**
+
+- HR 10486: To amend the Omnibus Crime Control and Safe Streets Act of 1968 to establish a grant program to help law enforcement ...
+- HR 10158: To extend the break-in-service consideration for firefighter retirements, and other purposes.
+- HR 10142: VA COMPETES Act
+- HR 10006: CAT Act of 2024
+- HR 9899: Abandoned Vessel Prevention Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

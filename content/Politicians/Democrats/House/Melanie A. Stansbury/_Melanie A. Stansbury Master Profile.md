@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 19
+bills-cosponsored: 630
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Melanie A. Stansbury
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 630 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (131)
+- Agriculture and Food (41)
+- Public Lands and Natural Resources (38)
+- Crime and Law Enforcement (37)
+- Government Operations and Politics (37)
+- Labor and Employment (35)
+- Education (33)
+- Native Americans (29)
+- Taxation (26)
+- Environmental Protection (24)
+
+**Recent bills sponsored:**
+
+- HR 10314: To amend the Internal Revenue Code of 1986 to establish a National Resilience and Recovery Fund, and for other purposes.
+- HR 10109: Veteran Benefits Enhancement Act
+- HR 10078: IHS Provider Expansion Act
+- HR 9789: To direct the Secretary of the Interior to take into trust for the benefit of the San Felipe Pueblo certain Federal l...
+- HR 9790: STOPP Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

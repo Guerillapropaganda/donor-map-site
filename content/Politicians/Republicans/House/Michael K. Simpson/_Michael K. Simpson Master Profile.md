@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 8
+bills-cosponsored: 106
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michael K. Simpson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 106 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (12)
+- Armed Forces and National Security (10)
+- Crime and Law Enforcement (10)
+- Health (10)
+- Finance and Financial Sector (8)
+- Environmental Protection (8)
+- Taxation (8)
+- Government Operations and Politics (6)
+- Economics and Public Finance (5)
+- Law (4)
+
+**Recent bills sponsored:**
+
+- HR 8998: To amend the Coastal Barrier Resources Act to create an exemption for certain shoreline borrow sites.
+- HR 6107: Urban Canal Modernization Act
+- HR 6064: Don’t Develop Obstructive Infrastructure on our Terrain Act
+- HR 4821: Department of the Interior, Environment, and Related Agencies Appropriations Act, 2024
+- HR 2694: A bill to amend the Infrastructure Investment and Jobs Act to authorize the use of funds for certain additional Carey...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

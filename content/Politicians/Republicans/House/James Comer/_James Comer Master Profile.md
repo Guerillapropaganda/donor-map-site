@@ -14,8 +14,8 @@ district: "1"
 committees:
   - Oversight & Reform
 govtrack-id: 412676
-bills-sponsored: 7
-bills-cosponsored: 67
+bills-sponsored: 16
+bills-cosponsored: 92
 website: https://comer.house.gov
 phone: 202-225-3115
 related: "[[The Oversight Committee and the Anti-Corruption Brand]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
@@ -43,6 +43,8 @@ born: "1972-08-19"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[ALLIANCE COAL, LLC PAC]], [[TOGETHER WE THRIVE]], [[Together We Thrive]], [[Alliance Coal, LLC PAC]]"
 donors: "[[Together We Thrive]], [[Alliance Coal, LLC PAC]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[TOGETHER WE THRIVE]], [[ALLIANCE COAL, LLC PAC]]"
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -337,6 +339,39 @@ James Richardson Comer Jr. is an American politician from Kentucky who represent
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/James_Comer) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6131602) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 92 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (24)
+- Crime and Law Enforcement (10)
+- Health (10)
+- Finance and Financial Sector (8)
+- Labor and Employment (8)
+- Environmental Protection (7)
+- Agriculture and Food (7)
+- Taxation (6)
+- International Affairs (4)
+- Congress (4)
+
+**Recent bills sponsored:**
+
+- HR 9812: Health Care Workforce Investment Act
+- HR 9598: Office of National Drug Control Policy Reauthorization Act of 2024
+- HR 9597: Federal Acquisition Security Council Improvement Act of 2024
+- HRES 1293: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
+- HR 8489: Presidential Ethics Reform Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

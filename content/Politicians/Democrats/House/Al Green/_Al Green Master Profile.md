@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 47
+bills-cosponsored: 432
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Al Green
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 47 |
+| Bills Cosponsored | 432 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- Civil Rights and Liberties, Minority Issues (52)
+- Crime and Law Enforcement (49)
+- International Affairs (37)
+- Government Operations and Politics (35)
+- Finance and Financial Sector (30)
+- Armed Forces and National Security (23)
+- Education (21)
+- Labor and Employment (20)
+- Taxation (19)
+
+**Recent bills sponsored:**
+
+- HRES 1578: Original Resolution honoring and commending the American Jewish Committee on its 118th anniversary
+- HRES 1558: Original National Domestic Violence Awareness Month Resolution of 2023
+- HRES 1559: Original Resolution Recognizing Islam as One of the Great Religions of the World
+- HRES 1546: Original resolution calling for, among other things, the inclusion of peace with a two state solution in H. Res. 1537...
+- HR 9329: To posthumously award a Congressional Gold Medal to Prince Hall, in recognition of his service to the Black Community...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

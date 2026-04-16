@@ -44,6 +44,10 @@ issues:
   - Government Operations and Politics
   - Health
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 461
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -284,6 +288,35 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 461 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (138)
+- Immigration (51)
+- Health (38)
+- Crime and Law Enforcement (34)
+- Armed Forces and National Security (29)
+- Government Operations and Politics (21)
+- Taxation (20)
+- Commerce (15)
+- Agriculture and Food (13)
+- Finance and Financial Sector (11)
+
+**Enacted into law:**
+
+- HR 537: Forgotten Heroes of the Holocaust Congressional Gold Medal Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

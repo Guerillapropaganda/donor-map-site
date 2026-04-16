@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 22
+bills-cosponsored: 414
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Barry Moore
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 414 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (61)
+- Government Operations and Politics (41)
+- International Affairs (36)
+- Health (31)
+- Agriculture and Food (29)
+- Armed Forces and National Security (26)
+- Taxation (25)
+- Finance and Financial Sector (22)
+- Immigration (22)
+- Energy (16)
+
+**Recent bills sponsored:**
+
+- HR 9930: To amend the Small Business Act to include surviving children in the definition of small business concern owned and c...
+- HRES 1383: Condemning the International Criminal Court's request to issue arrest warrants for the Israeli Prime Minister and Def...
+- HR 8866: Advocates for Families Act of 2024
+- HR 8690: Stop Secret Spending Act of 2024
+- HR 8459: Stopping Traffickers and Their Accomplices Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

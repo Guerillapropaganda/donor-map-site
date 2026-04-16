@@ -45,6 +45,10 @@ wikidata-id: Q218217
 wikipedia-url: https://en.wikipedia.org/wiki/Zoe_Lofgren
 wikipedia-extract: Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.
 born: "1947-12-21"
+bills-sponsored: 18
+bills-cosponsored: 565
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -327,6 +331,39 @@ Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S.
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Zoe_Lofgren) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q218217) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 565 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (91)
+- Armed Forces and National Security (49)
+- Government Operations and Politics (47)
+- International Affairs (41)
+- Crime and Law Enforcement (35)
+- Agriculture and Food (33)
+- Labor and Employment (25)
+- Civil Rights and Liberties, Minority Issues (22)
+- Taxation (22)
+- Education (21)
+
+**Recent bills sponsored:**
+
+- HR 9215: H.R. 9215, Workforce for AI Trust Act
+- HR 8897: ZZZ’s to A’s Act
+- HR 8826: Chip EQUIP Act of 2024
+- HR 7806: Justice for the Living Victims of Lockerbie Act
+- HR 7724: Real Courts, Rule of Law Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

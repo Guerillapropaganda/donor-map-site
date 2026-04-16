@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6CA20152"
+bills-sponsored: 56
+bills-cosponsored: 683
+bills-enacted: 2
+top-policy-area: "Taxation"
 ---
 
 
@@ -46,3 +50,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jimmy Panetta
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 56 |
+| Bills Cosponsored | 683 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (88)
+- Health (86)
+- Agriculture and Food (63)
+- Armed Forces and National Security (54)
+- Government Operations and Politics (47)
+- International Affairs (41)
+- Education (40)
+- Crime and Law Enforcement (39)
+- Public Lands and Natural Resources (27)
+- Labor and Employment (22)
+
+**Enacted into law:**
+
+- HR 1764: National Defense Authorization Act for Fiscal Year 2024
+- HR 4631: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

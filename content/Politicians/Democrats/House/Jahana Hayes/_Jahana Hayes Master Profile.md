@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CT05245"
+bills-sponsored: 33
+bills-cosponsored: 699
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jahana Hayes
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 33 |
+| Bills Cosponsored | 699 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (106)
+- Education (78)
+- Agriculture and Food (66)
+- Crime and Law Enforcement (55)
+- Labor and Employment (55)
+- Government Operations and Politics (35)
+- Taxation (34)
+- Armed Forces and National Security (32)
+- Civil Rights and Liberties, Minority Issues (31)
+- Housing and Community Development (31)
+
+**Recent bills sponsored:**
+
+- HR 10363: To amend the Agricultural Act of 1961 with respect to the Emergency Loan Program.
+- HR 10288: Fair Telehealth Billing Act of 2024
+- HR 10184: Educational Equity Challenge Grant Act of 2024
+- HR 9829: Students Working for Communities Act
+- HR 9521: BASIC Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

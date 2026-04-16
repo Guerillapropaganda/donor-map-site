@@ -16,8 +16,8 @@ total-received: $1,139,745
 fec-candidate-id: S6WY00068
 bioguide-id: B001261
 govtrack-id: 412251
-bills-sponsored: 49
-bills-cosponsored: 196
+bills-sponsored: 65
+bills-cosponsored: 338
 website: https://www.barrasso.senate.gov
 phone: 202-224-6441
 stock-trades: 1
@@ -26,6 +26,8 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Mas
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -259,6 +261,35 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 - [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
 
 <!-- auto:stock-trades pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 65 |
+| Bills Cosponsored | 338 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (51)
+- Health (42)
+- Environmental Protection (33)
+- Public Lands and Natural Resources (27)
+- Taxation (27)
+- Energy (23)
+- Congress (21)
+- Education (20)
+- Finance and Financial Sector (17)
+- Crime and Law Enforcement (16)
+
+**Enacted into law:**
+
+- S 763: Prohibiting Russian Uranium Imports Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

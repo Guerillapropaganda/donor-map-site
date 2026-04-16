@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2FL10259"
+bills-sponsored: 20
+bills-cosponsored: 518
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Maxwell Frost
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 518 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (70)
+- Crime and Law Enforcement (58)
+- Government Operations and Politics (47)
+- Civil Rights and Liberties, Minority Issues (40)
+- Labor and Employment (34)
+- Education (32)
+- Armed Forces and National Security (27)
+- International Affairs (23)
+- Taxation (23)
+- Agriculture and Food (20)
+
+**Enacted into law:**
+
+- HR 6187: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

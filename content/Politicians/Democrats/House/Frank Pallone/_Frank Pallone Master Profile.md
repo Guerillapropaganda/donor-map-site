@@ -37,8 +37,8 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 govtrack-id: 400308
-bills-sponsored: 534
-bills-cosponsored: 6690
+bills-sponsored: 18
+bills-cosponsored: 247
 website: https://pallone.house.gov
 phone: 202-225-4671
 bioguide-id: P000034
@@ -51,6 +51,8 @@ wikidata-id: Q965289
 wikipedia-url: https://en.wikipedia.org/wiki/Frank_Pallone
 wikipedia-extract: Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party.
 born: "1951-10-30"
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -501,6 +503,36 @@ Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Frank_Pallone) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 247 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Government Operations and Politics (22)
+- Crime and Law Enforcement (21)
+- Civil Rights and Liberties, Minority Issues (18)
+- Health (17)
+- Taxation (16)
+- Armed Forces and National Security (13)
+- Labor and Employment (13)
+- Arts, Culture, Religion (11)
+- Finance and Financial Sector (10)
+
+**Enacted into law:**
+
+- HR 7520: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+- HR 6829: HEARTS Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

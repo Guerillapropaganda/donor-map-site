@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 16
+bills-cosponsored: 352
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # James R. Baird
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 352 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (66)
+- Armed Forces and National Security (35)
+- Crime and Law Enforcement (34)
+- Agriculture and Food (31)
+- Health (31)
+- Immigration (22)
+- Science, Technology, Communications (17)
+- Education (15)
+- Government Operations and Politics (15)
+- Labor and Employment (14)
+
+**Enacted into law:**
+
+- HR 3888: A bill to amend title 38, United States Code, to strengthen benefits for children of Vietnam veterans born with spina...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

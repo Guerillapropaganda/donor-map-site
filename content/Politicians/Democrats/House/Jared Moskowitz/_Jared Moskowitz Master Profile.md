@@ -25,6 +25,10 @@ known-gaps:
 related: "[[Fanjul Family - Florida Crystals]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2FL22171"
+bills-sponsored: 16
+bills-cosponsored: 495
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jared Moskowitz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 495 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (113)
+- Health (51)
+- Crime and Law Enforcement (49)
+- Armed Forces and National Security (46)
+- Government Operations and Politics (36)
+- Education (22)
+- Civil Rights and Liberties, Minority Issues (21)
+- Emergency Management (17)
+- Finance and Financial Sector (15)
+- Agriculture and Food (12)
+
+**Recent bills sponsored:**
+
+- HR 9946: To authorize the appropriation of $8,000,000,000 for disaster loans.
+- HR 9906: School Safety Notification System Act
+- HR 9905: To make supplemental appropriations for disaster relief in response to Hurricane Helene, and for other purposes.
+- HR 9441: Student Loan Interest Cap Act
+- HRES 1360: Honoring former fire department chief Corey Comperatore who was killed while shielding his family during the attempte...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

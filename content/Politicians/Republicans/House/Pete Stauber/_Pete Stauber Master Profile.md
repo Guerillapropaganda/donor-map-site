@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8MN08043"
+bills-sponsored: 24
+bills-cosponsored: 347
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Pete Stauber
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 347 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (45)
+- Taxation (29)
+- Transportation and Public Works (29)
+- Health (28)
+- Government Operations and Politics (23)
+- International Affairs (22)
+- Public Lands and Natural Resources (22)
+- Armed Forces and National Security (20)
+- Energy (19)
+- Environmental Protection (18)
+
+**Recent bills sponsored:**
+
+- HR 9950: Miracle on Ice Congressional Gold Medal Act
+- HR 9174: A bill to designate the facility of the United States Postal Service located at 31143 State Highway 65 in Pengilly, M...
+- HR 9031: H.R. 9031, Assurance for Small Business Act of 2024
+- HR 8809: Motor Carrier Safety Selection Standard Act of 2023
+- HR 8642: MAIL Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

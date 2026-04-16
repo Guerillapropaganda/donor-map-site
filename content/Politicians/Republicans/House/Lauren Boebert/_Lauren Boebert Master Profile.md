@@ -27,6 +27,10 @@ related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Ass
 top-donors: "[[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]], [[Colorado United Pac]]"
 donors: "[[Colorado United Pac]], [[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 26
+bills-cosponsored: 335
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -247,6 +251,39 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 335 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (44)
+- Crime and Law Enforcement (39)
+- Health (33)
+- Immigration (26)
+- International Affairs (25)
+- Energy (20)
+- Armed Forces and National Security (17)
+- Environmental Protection (17)
+- Taxation (15)
+- Public Lands and Natural Resources (14)
+
+**Recent bills sponsored:**
+
+- HR 9755: Human Trafficking Fingerprint Background Check Protection Act of 2024
+- HR 9756: Private Sector Competition in Microtransit Act
+- HR 9514: Finish the Arkansas Valley Conduit Act
+- HR 9034: Secret Service Accountability Act
+- HR 8753: To establish new ZIP Codes for certain communities, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 73
+bills-cosponsored: 450
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ben Ray Lujan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 73 |
+| Bills Cosponsored | 450 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (68)
+- Agriculture and Food (50)
+- Native Americans (31)
+- Education (31)
+- Science, Technology, Communications (30)
+- Government Operations and Politics (28)
+- Labor and Employment (26)
+- Public Lands and Natural Resources (25)
+- Commerce (22)
+- Congress (20)
+
+**Recent bills sponsored:**
+
+- S 5596: A bill to amend the Food and Nutrition Act of 2008 to increase the Federal cost share for supplemental nutrition assi...
+- S 5504: A bill to amend the Public Health Service Act to eliminate consideration of the income of organ recipients in providi...
+- S 5527: A bill to accelerate the development, demonstration, and deployment of new technologies and innovative solutions to a...
+- S 5259: Community Solar Consumer Choice Act of 2023
+- S 5268: High Court Gift Ban Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

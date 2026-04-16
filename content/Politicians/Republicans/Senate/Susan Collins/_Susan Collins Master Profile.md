@@ -37,6 +37,10 @@ known-gaps:
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Schwarzman and Singer Fund Every Republican Faction]]"
 donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[WOMEN VOTE!]] · [[DSCC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[SMP]] · [[Blackstone]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 37
+bills-cosponsored: 475
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -241,6 +245,39 @@ Collins does not represent Maine voters. She represents the national corporate d
 
 ## Committee Assignments (Congress.gov)
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 475 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- Education (45)
+- International Affairs (42)
+- Armed Forces and National Security (33)
+- Agriculture and Food (27)
+- Taxation (27)
+- Public Lands and Natural Resources (22)
+- Government Operations and Politics (22)
+- Environmental Protection (21)
+- Congress (20)
+
+**Recent bills sponsored:**
+
+- SRES 924: A resolution designating December 14, 2024, as "National Wreaths Across America Day".
+- SRES 882: A resolution designating the week of September 23 through September 27, 2024, as "National Clean Energy Week".
+- S 5149: Catching Up Family Caregivers Act of 2024
+- S 5148: Improving Retirement Security for Family Caregivers Act of 2024
+- S 5055: Armed Forces Crisis Intervention Notification Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

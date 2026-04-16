@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]] · [[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CA01109"
+bills-sponsored: 22
+bills-cosponsored: 330
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Thompson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 330 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (52)
+- Government Operations and Politics (31)
+- Crime and Law Enforcement (31)
+- Armed Forces and National Security (26)
+- Public Lands and Natural Resources (17)
+- Taxation (17)
+- Agriculture and Food (17)
+- Civil Rights and Liberties, Minority Issues (16)
+- Environmental Protection (16)
+- Education (14)
+
+**Recent bills sponsored:**
+
+- HRES 1563: Expressing the sense of Congress that the United States is committed to ensuring a safe and healthy climate for futur...
+- HRES 1538: Expressing support for the designation of the week beginning on October 8, 2023, as "National Wildlife Refuge Week".
+- HRES 1534: A resolution reocgnizing the 15th anniversary of Outdoor Afro.
+- HRES 1237: Recognizing "Necrotizing Enterocolitis Awareness Day".
+- HR 7849: Disaster Resiliency and Coverage Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
