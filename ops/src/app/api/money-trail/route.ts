@@ -11,6 +11,7 @@ interface MoneyNode {
   party?: string
   sector?: string
   degree: number
+  totalAmount: number
   bothSides: boolean
 }
 
@@ -18,6 +19,9 @@ interface MoneyEdge {
   source: string
   target: string
   confidence: number
+  amount: number
+  cycle: string
+  edgeType: string // "monetary" | "government-contract" | "political-opposition"
 }
 
 let cache: { data: unknown; timestamp: number } | null = null
@@ -32,9 +36,10 @@ export async function GET() {
     const repoRoot = path.resolve(process.cwd(), "..")
     const contentDir = path.join(repoRoot, "content")
 
-    // Load all monetary edges from canonical store
+    // Load monetary + contract + opposition edges from canonical store
     const allEdges = loadEdges()
-    const monetaryEdges = allEdges.filter(e => e.type === "monetary" && e.status === "active")
+    const relevantTypes = new Set(["monetary", "government-contract", "political-opposition"])
+    const monetaryEdges = allEdges.filter(e => relevantTypes.has(e.type) && e.status === "active")
 
     // Quick profile metadata scan for type/party/sector
     const profileMeta = new Map<string, { type: string; party?: string; sector?: string }>()
@@ -84,7 +89,7 @@ export async function GET() {
           id: name, name,
           type: meta?.type ?? edgeType ?? "unknown",
           party: meta?.party, sector: meta?.sector,
-          degree: 0, bothSides: false,
+          degree: 0, totalAmount: 0, bothSides: false,
         })
       }
     }
@@ -92,12 +97,20 @@ export async function GET() {
     for (const edge of monetaryEdges) {
       ensureNode(edge.from, edge.from_type ?? undefined)
       ensureNode(edge.to, edge.to_type ?? undefined)
-      nodeMap.get(edge.from)!.degree++
-      nodeMap.get(edge.to)!.degree++
+      const fromNode = nodeMap.get(edge.from)!
+      const toNode = nodeMap.get(edge.to)!
+      fromNode.degree++
+      toNode.degree++
+      const amt = typeof edge.amount === "number" ? edge.amount : 0
+      fromNode.totalAmount += amt
+      toNode.totalAmount += amt
       edges.push({
         source: edge.from,
         target: edge.to,
         confidence: edge.confidence ?? 0.5,
+        amount: amt,
+        cycle: edge.cycle ?? "",
+        edgeType: edge.type,
       })
     }
 
