@@ -37,6 +37,9 @@ cross-vault-triangulation-count: 17
 audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+employee-contributions: 20
+employee-contributions-total: 1635
+employee-donor-count: 3
 ---
 
 <!-- auto:data-panel start -->
@@ -385,6 +388,23 @@ The Medicare Advantage program represents the endpoint of this strategy: a gover
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Insurance%20Industry) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 20 |
+| Total Amount | $1,635 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,635 (20 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

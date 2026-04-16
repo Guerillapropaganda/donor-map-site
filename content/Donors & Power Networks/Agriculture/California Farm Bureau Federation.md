@@ -69,6 +69,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 9
+employee-contributions-total: 750
+employee-donor-count: 4
 ---
 
 <!-- auto:data-panel start -->
@@ -549,6 +552,25 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 9 |
+| Total Amount | $750 |
+| Unique Employee Donors | ~4 |
+| Recipient Committees | 3 |
+| Election Cycles | 2018, 2020, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $470 (5 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $210 (2 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $70 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

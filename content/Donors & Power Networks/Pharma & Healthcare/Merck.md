@@ -55,6 +55,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 politicians-funded: "[[Cory Booker]]"
 epa-facilities: 1
 epa-states: "CA"
+employee-contributions: 6585
+employee-contributions-total: 912811
+employee-donor-count: 1285
 ---
 
 <!-- auto:data-panel start -->
@@ -405,6 +408,32 @@ _Variant firm names in FDA data: Merck Sharp & Dohme LLC; Merck & Co. Inc; MERCK
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 6,585 |
+| Total Amount | $912,811 |
+| Unique Employee Donors | ~1,285 |
+| Recipient Committees | 58 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $595,790 (3969 contributions)
+- [[WinRed]]: $94,687 (618 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $39,924 (271 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $29,108 (179 contributions)
+- [[RNC - Republican National Committee]]: $18,631 (350 contributions)
+- [[Bob Casey]]: $16,060 (17 contributions)
+- [[MAGA Inc]]: $10,795 (72 contributions)
+- [[The Lincoln Project]]: $10,035 (70 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $9,600 (114 contributions)
+- [[_Jon Ossoff Master Profile]]: $9,117 (76 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

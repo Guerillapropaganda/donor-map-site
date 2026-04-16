@@ -44,6 +44,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 5
+employee-contributions-total: 3816
+employee-donor-count: 5
 ---
 
 <!-- auto:data-panel start -->
@@ -349,6 +352,27 @@ The American Federation for Children represents the school privatization movemen
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/330627955) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5 |
+| Total Amount | $3,816 |
+| Unique Employee Donors | ~5 |
+| Recipient Committees | 5 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[_Dan Newhouse Master Profile]]: $2,900 (1 contributions)
+- [[ActBlue]]: $250 (1 contributions)
+- [[_Scott Fitzgerald Master Profile]]: $250 (1 contributions)
+- [[WinRed]]: $208 (1 contributions)
+- [[RNC - Republican National Committee]]: $208 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

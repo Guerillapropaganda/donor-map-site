@@ -91,6 +91,9 @@ federal-grants-count: 0
 cross-vault-triangulation-count: 0
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Richard Neal]]"
+employee-contributions: 1737
+employee-contributions-total: 526341
+employee-donor-count: 453
 ---
 
 
@@ -244,6 +247,32 @@ MassMutual represents the regulatory capture of an industry built on information
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/88e28639-3b63-5a05-9403-1064360e44ea-R/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,737 |
+| Total Amount | $526,341 |
+| Unique Employee Donors | ~453 |
+| Recipient Committees | 46 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $264,643 (1012 contributions)
+- [[WinRed]]: $78,488 (262 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $57,066 (19 contributions)
+- [[With Honor Fund]]: $25,000 (1 contributions)
+- [[_Chris Pappas Master Profile]]: $17,100 (7 contributions)
+- [[_Tim Scott Master Profile]]: $12,800 (3 contributions)
+- [[MAGA Inc]]: $11,438 (26 contributions)
+- [[_Claudia Tenney Master Profile]]: $6,149 (4 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $6,105 (51 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $4,293 (48 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

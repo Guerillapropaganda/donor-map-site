@@ -86,6 +86,11 @@ total-spent: 2956524
 cash-on-hand: 7320086
 individual-contributions: 2324041
 contributions-to-committees: 2530000
+federal-grants: 1
+federal-grants-total: 169665
+employee-contributions: 501829
+employee-contributions-total: 21100910
+employee-donor-count: 22922
 ---
 
 <!-- auto:data-panel start -->
@@ -682,6 +687,53 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $169,665 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- National Aeronautics and Space Administration: $169,665
+
+**Top programs:**
+
+- AERONAUTICS
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 501,829 |
+| Total Amount | $21,100,910 |
+| Unique Employee Donors | ~22,922 |
+| Recipient Committees | 101 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Northrop Grumman]]: $18,689,870 (474534 contributions)
+- [[ActBlue]]: $1,104,130 (13133 contributions)
+- [[WinRed]]: $486,719 (4633 contributions)
+- [[MAGA Inc]]: $117,516 (596 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $110,701 (1607 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $106,551 (1403 contributions)
+- [[RNC - Republican National Committee]]: $102,710 (1274 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $71,430 (854 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $59,904 (570 contributions)
+- [[_Jon Ossoff Master Profile]]: $26,325 (238 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

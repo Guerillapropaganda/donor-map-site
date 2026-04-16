@@ -19,6 +19,9 @@ cross-vault-triangulation-count: 0
 audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[David Sacks]]"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 22
+employee-contributions-total: 116134
+employee-donor-count: 10
 ---
 
 
@@ -142,3 +145,25 @@ David Sacks exemplifies the revolving door in its purest form: a venture capital
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 22 |
+| Total Amount | $116,134 |
+| Unique Employee Donors | ~10 |
+| Recipient Committees | 5 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $96,483 (11 contributions)
+- [[_Byron Donalds Master Profile]]: $9,900 (2 contributions)
+- [[ActBlue]]: $3,570 (6 contributions)
+- [[Bernie Moreno]]: $3,300 (1 contributions)
+- [[Common Sense for America PAC]]: $2,881 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

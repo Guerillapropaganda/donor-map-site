@@ -52,6 +52,11 @@ total-spent: 1577871
 cash-on-hand: 939137
 individual-contributions: 1415117
 contributions-to-committees: 1556500
+federal-grants: 256
+federal-grants-total: 15410157
+employee-contributions: 34092
+employee-contributions-total: 2994189
+employee-donor-count: 4535
 ---
 
 <!-- auto:data-panel start -->
@@ -338,6 +343,53 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 256 |
+| Total Obligation | $15,410,157 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Federal Communications Commission: $15,410,157
+
+**Top programs:**
+
+- UNIVERSAL SERVICE FUND - RURAL HEALTH CARE
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 34,092 |
+| Total Amount | $2,994,189 |
+| Unique Employee Donors | ~4,535 |
+| Recipient Committees | 127 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,768,565 (21550 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $150,411 (490 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $150,216 (3626 contributions)
+- [[AT&T - WarnerMedia]]: $149,029 (2269 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $124,378 (529 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $72,245 (1082 contributions)
+- [[RNC - Republican National Committee]]: $58,289 (288 contributions)
+- [[Trump Victory]]: $56,545 (10 contributions)
+- [[SLF PAC]]: $50,000 (1 contributions)
+- [[MAGA Inc]]: $30,206 (272 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

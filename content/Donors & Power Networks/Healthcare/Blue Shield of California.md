@@ -39,6 +39,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 1864
+employee-contributions-total: 817552
+employee-donor-count: 303
 ---
 
 <!-- auto:data-panel start -->
@@ -312,6 +315,32 @@ Healthcare. Single-payer, COVID contracts, PBM regulation
 - Anderson v. Blue Shield of California (2026) - District Court, S.D. California
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,864 |
+| Total Amount | $817,552 |
+| Unique Employee Donors | ~303 |
+| Recipient Committees | 42 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $594,466 (1296 contributions)
+- [[_Lauren Underwood Master Profile]]: $35,912 (58 contributions)
+- [[Mark Kelly]]: $21,100 (13 contributions)
+- [[_Jon Ossoff Master Profile]]: $19,384 (49 contributions)
+- [[_Alex Padilla Master Profile]]: $17,600 (11 contributions)
+- [[_George Whitesides Master Profile]]: $13,600 (4 contributions)
+- [[_Adam Gray Master Profile]]: $13,600 (4 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $13,340 (15 contributions)
+- [[_Kamala Harris Master Profile]]: $11,452 (24 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $9,650 (29 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

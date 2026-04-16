@@ -22,6 +22,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 37
+employee-contributions-total: 2606
+employee-donor-count: 19
 ---
 
 <!-- auto:data-panel start -->
@@ -127,6 +130,28 @@ This is the building trades class position at the local level: aligned with capi
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/812607816) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 37 |
+| Total Amount | $2,606 |
+| Unique Employee Donors | ~19 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[DCCC - Democratic Congressional Campaign Committee]]: $1,100 (2 contributions)
+- [[SEIU COPE]]: $625 (16 contributions)
+- [[ActBlue]]: $389 (5 contributions)
+- [[MoveOn.org Political Action]]: $315 (2 contributions)
+- [[Save America PAC]]: $100 (1 contributions)
+- [[Progressive Turnout Project]]: $77 (11 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

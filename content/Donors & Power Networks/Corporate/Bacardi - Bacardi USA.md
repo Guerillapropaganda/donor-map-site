@@ -21,6 +21,9 @@ ftc-hsr-notices: 2
 last-enriched: "2026-04-11"
 epa-facilities: 5
 epa-states: "FL, PR"
+employee-contributions: 40
+employee-contributions-total: 12995
+employee-donor-count: 18
 ---
 
 <!-- auto:data-panel start -->
@@ -234,3 +237,25 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 40 |
+| Total Amount | $12,995 |
+| Unique Employee Donors | ~18 |
+| Recipient Committees | 5 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $6,020 (6 contributions)
+- [[ActBlue]]: $5,925 (24 contributions)
+- [[RNC - Republican National Committee]]: $500 (5 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $350 (3 contributions)
+- [[MAGA Inc]]: $200 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

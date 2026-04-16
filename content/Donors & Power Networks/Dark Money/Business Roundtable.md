@@ -54,6 +54,9 @@ total-political-spend: $110,825
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 224
+employee-contributions-total: 264749
+employee-donor-count: 80
 ---
 
 <!-- auto:data-panel start -->
@@ -444,6 +447,32 @@ The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washi
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Roundtable) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 224 |
+| Total Amount | $264,749 |
+| Unique Employee Donors | ~80 |
+| Recipient Committees | 25 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $140,607 (100 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $76,247 (47 contributions)
+- [[ActBlue]]: $23,500 (42 contributions)
+- [[Majority PAC]]: $2,500 (1 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $2,500 (1 contributions)
+- [[_Tim Scott Master Profile]]: $2,000 (1 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,750 (3 contributions)
+- [[_Brian Jack Master Profile]]: $1,520 (2 contributions)
+- [[_Angie Craig Master Profile]]: $1,500 (3 contributions)
+- [[_Chris Pappas Master Profile]]: $1,500 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

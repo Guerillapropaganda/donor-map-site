@@ -49,6 +49,9 @@ cash-on-hand: 4331114
 independent-expenditures: 31364
 individual-contributions: 7053546
 contributions-to-committees: 575000
+employee-contributions: 5087
+employee-contributions-total: 452140
+employee-donor-count: 507
 ---
 
 <!-- auto:data-panel start -->
@@ -197,3 +200,30 @@ Increased public school funding, opposition to school vouchers and charter schoo
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Education%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5,087 |
+| Total Amount | $452,140 |
+| Unique Employee Donors | ~507 |
+| Recipient Committees | 18 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[NEA Fund for Children and Public Education]]: $258,758 (3562 contributions)
+- [[ActBlue]]: $154,606 (1276 contributions)
+- [[_Tammy Baldwin Master Profile]]: $10,150 (95 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $10,075 (37 contributions)
+- [[League of Conservation Voters]]: $5,500 (3 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $5,245 (51 contributions)
+- [[_Jon Ossoff Master Profile]]: $3,241 (31 contributions)
+- [[Let America Vote PAC]]: $789 (12 contributions)
+- [[Progressive Turnout Project]]: $726 (4 contributions)
+- [[_Nancy Pelosi Master Profile]]: $550 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

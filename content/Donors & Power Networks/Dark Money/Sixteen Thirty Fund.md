@@ -36,6 +36,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 27
+employee-contributions-total: 6550
+employee-donor-count: 6
 ---
 
 <!-- auto:data-panel start -->
@@ -307,6 +310,26 @@ What makes Sixteen Thirty distinctive is not the scale of spending but the perma
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Sixteen%20Thirty%20Fund) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 27 |
+| Total Amount | $6,550 |
+| Unique Employee Donors | ~6 |
+| Recipient Committees | 4 |
+| Election Cycles | 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $3,050 (17 contributions)
+- [[_Cori Bush Master Profile]]: $2,000 (8 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,000 (1 contributions)
+- [[_Martin Heinrich Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

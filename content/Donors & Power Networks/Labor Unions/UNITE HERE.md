@@ -45,6 +45,9 @@ checklist-na:
 total-raised: 210
 total-spent: 2621
 cash-on-hand: 156132
+employee-contributions: 20293
+employee-contributions-total: 546767
+employee-donor-count: 983
 ---
 
 <!-- auto:data-panel start -->
@@ -289,6 +292,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UNI
 - Unite Here Local 11 v. Thunderbird Legacy Development LLC (2026) — District Court, D. Arizona
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 20,293 |
+| Total Amount | $546,767 |
+| Unique Employee Donors | ~983 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Unite Here Tip Campaign Committee]]: $458,900 (18207 contributions)
+- [[ActBlue]]: $58,815 (1571 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $11,159 (256 contributions)
+- [[MoveOn.org Political Action]]: $6,747 (87 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $5,325 (61 contributions)
+- [[Winsenate]]: $1,825 (12 contributions)
+- [[Indivisible Action]]: $675 (14 contributions)
+- [[_Rashida Tlaib Master Profile]]: $500 (2 contributions)
+- [[HMP]]: $485 (7 contributions)
+- [[_Jon Ossoff Master Profile]]: $465 (15 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

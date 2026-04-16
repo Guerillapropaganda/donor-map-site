@@ -50,6 +50,11 @@ total-spent: 787125
 cash-on-hand: 307316
 individual-contributions: 825276
 contributions-to-committees: 634500
+federal-grants: 1
+federal-grants-total: -148999
+employee-contributions: 17917
+employee-contributions-total: 1913369
+employee-donor-count: 2008
 ---
 
 <!-- auto:data-panel start -->
@@ -411,6 +416,53 @@ _Variant firm names in FDA data: Johnson & Johnson Vision Care, Inc.; DePuy Mite
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $-148,999 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Health and Human Services: $-148,999
+
+**Top programs:**
+
+- FOOD AND DRUG ADMINISTRATION RESEARCH
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 17,917 |
+| Total Amount | $1,913,369 |
+| Unique Employee Donors | ~2,008 |
+| Recipient Committees | 70 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Johnson & Johnson]]: $1,081,878 (12085 contributions)
+- [[ActBlue]]: $556,068 (3954 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $28,736 (350 contributions)
+- [[National Association of Manufacturers]]: $25,000 (5 contributions)
+- [[Bob Casey]]: $20,864 (99 contributions)
+- [[RNC - Republican National Committee]]: $16,568 (85 contributions)
+- [[_Jon Ossoff Master Profile]]: $14,758 (120 contributions)
+- [[_Chrissy Houlahan Master Profile]]: $12,610 (39 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $12,186 (212 contributions)
+- [[Human Rights Campaign Equality Votes]]: $11,750 (15 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

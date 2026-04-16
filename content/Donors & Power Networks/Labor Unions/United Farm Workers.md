@@ -59,6 +59,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 11
+employee-contributions-total: 5616
+employee-donor-count: 5
 ---
 
 <!-- auto:data-panel start -->
@@ -192,6 +195,23 @@ The immigration dimension: agribusiness depends on immigrant farmworker labor (A
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=United%20Farm%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 11 |
+| Total Amount | $5,616 |
+| Unique Employee Donors | ~5 |
+| Recipient Committees | 1 |
+| Election Cycles | 2016, 2018, 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $5,616 (11 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

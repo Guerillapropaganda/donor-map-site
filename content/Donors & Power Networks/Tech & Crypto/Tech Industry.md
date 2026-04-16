@@ -82,6 +82,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 48
+employee-contributions-total: 1980
+employee-donor-count: 7
 ---
 
 <!-- auto:data-panel start -->
@@ -236,6 +239,24 @@ The industry's political priorities span both parties' agendas: Section 230 pres
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 48 |
+| Total Amount | $1,980 |
+| Unique Employee Donors | ~7 |
+| Recipient Committees | 2 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,720 (47 contributions)
+- [[WinRed]]: $260 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

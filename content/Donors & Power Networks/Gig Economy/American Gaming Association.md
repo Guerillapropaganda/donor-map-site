@@ -46,6 +46,9 @@ total-spent: 100817
 cash-on-hand: 126745
 individual-contributions: 56067
 contributions-to-committees: 100500
+employee-contributions: 186
+employee-contributions-total: 151287
+employee-donor-count: 66
 ---
 
 <!-- auto:data-panel start -->
@@ -372,6 +375,32 @@ The prediction market schism reveals the limits of trade association governance 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22American%20Gaming%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 186 |
+| Total Amount | $151,287 |
+| Unique Employee Donors | ~66 |
+| Recipient Committees | 11 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[American Gaming Association]]: $96,433 (134 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $21,833 (10 contributions)
+- [[WinRed]]: $11,449 (9 contributions)
+- [[ActBlue]]: $10,950 (24 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $5,000 (1 contributions)
+- [[_Melissa Bean Master Profile]]: $3,622 (2 contributions)
+- [[_Ben Cline Master Profile]]: $1,000 (2 contributions)
+- [[_Marcia Fudge Master Profile]]: $250 (1 contributions)
+- [[_Byron Donalds Master Profile]]: $250 (1 contributions)
+- [[_Shontel Brown Master Profile]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

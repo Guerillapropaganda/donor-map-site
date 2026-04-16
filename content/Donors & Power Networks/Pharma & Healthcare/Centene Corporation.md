@@ -79,6 +79,9 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
 epa-states: "MO"
 federal-contracts: 19
+employee-contributions: 8620
+employee-contributions-total: 1579148
+employee-donor-count: 945
 ---
 
 <!-- auto:data-panel start -->
@@ -367,6 +370,32 @@ Centene's structural function in American healthcare is converting public health
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 8,620 |
+| Total Amount | $1,579,148 |
+| Unique Employee Donors | ~945 |
+| Recipient Committees | 57 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $663,615 (5364 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $565,917 (887 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $85,684 (75 contributions)
+- [[WinRed]]: $77,160 (481 contributions)
+- [[Catherine Cortez Masto]]: $30,770 (61 contributions)
+- [[_Ann Wagner Master Profile]]: $21,200 (7 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $11,789 (148 contributions)
+- [[MAGA Inc]]: $10,986 (56 contributions)
+- [[Mark Kelly]]: $10,816 (105 contributions)
+- [[_Chris Pappas Master Profile]]: $8,233 (16 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

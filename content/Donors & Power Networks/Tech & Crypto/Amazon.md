@@ -54,6 +54,9 @@ cross-vault-triangulation-count: 15
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 12
 epa-states: "CA, FL, KY, NV, TX, WA"
+employee-contributions: 50889
+employee-contributions-total: 8050153
+employee-donor-count: 8790
 ---
 
 <!-- auto:data-panel start -->
@@ -529,6 +532,32 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 50,889 |
+| Total Amount | $8,050,153 |
+| Unique Employee Donors | ~8,790 |
+| Recipient Committees | 151 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $5,876,010 (33563 contributions)
+- [[WinRed]]: $537,230 (5475 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $234,546 (1213 contributions)
+- [[_Jon Ossoff Master Profile]]: $180,001 (882 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $167,439 (1025 contributions)
+- [[Mark Kelly]]: $86,732 (426 contributions)
+- [[RNC - Republican National Committee]]: $66,070 (1452 contributions)
+- [[MAGA Inc]]: $55,868 (306 contributions)
+- [[MoveOn.org Political Action]]: $51,276 (756 contributions)
+- [[Sfa Fund, Inc]]: $50,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

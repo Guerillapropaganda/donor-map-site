@@ -24,6 +24,9 @@ total-raised: 117682
 total-spent: 403
 cash-on-hand: 1179394
 individual-contributions: 117682
+employee-contributions: 479
+employee-contributions-total: 81637
+employee-donor-count: 48
 ---
 
 ## Auto-Created Stub
@@ -65,3 +68,30 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 479 |
+| Total Amount | $81,637 |
+| Unique Employee Donors | ~48 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $44,630 (321 contributions)
+- [[WinRed]]: $15,196 (13 contributions)
+- [[MAGA Inc]]: $11,591 (6 contributions)
+- [[MoveOn.org Political Action]]: $2,324 (100 contributions)
+- [[RNC - Republican National Committee]]: $1,451 (13 contributions)
+- [[_Laura Friedman Master Profile]]: $1,375 (4 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $860 (2 contributions)
+- [[Catherine Cortez Masto]]: $810 (10 contributions)
+- [[League of Conservation Voters]]: $500 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

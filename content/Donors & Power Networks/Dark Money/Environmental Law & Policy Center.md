@@ -38,6 +38,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 152
+employee-contributions-total: 72502
+employee-donor-count: 32
 ---
 
 
@@ -214,6 +217,29 @@ ELPC represents NGO environmental infrastructure controlled by foundation fundin
 - The People of the State of Michigan v. DOE (2025) — Court of Appeals for the D.C. Circuit
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 152 |
+| Total Amount | $72,502 |
+| Unique Employee Donors | ~32 |
+| Recipient Committees | 7 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $60,677 (110 contributions)
+- [[_Bill Foster Master Profile]]: $9,750 (15 contributions)
+- [[_Lauren Underwood Master Profile]]: $1,025 (23 contributions)
+- [[_Kamala Harris Master Profile]]: $500 (1 contributions)
+- [[_Tammy Baldwin Master Profile]]: $250 (1 contributions)
+- [[_Melissa Bean Master Profile]]: $250 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $50 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

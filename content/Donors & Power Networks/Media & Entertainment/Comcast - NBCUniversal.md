@@ -68,6 +68,11 @@ total-spent: 1822301
 cash-on-hand: 1166265
 individual-contributions: 2024696
 contributions-to-committees: 1444000
+federal-grants: 4868
+federal-grants-total: 89692193
+employee-contributions: 41838
+employee-contributions-total: 8332367
+employee-donor-count: 5585
 ---
 
 <!-- auto:data-panel start -->
@@ -350,6 +355,55 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 4,868 |
+| Total Obligation | $89,692,193 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 3 |
+
+**Top awarding agencies:**
+
+- Federal Communications Commission: $89,692,193
+
+**Top programs:**
+
+- UNIVERSAL SERVICE FUND - SCHOOLS AND LIBRARIES
+- UNIVERSAL SERVICE FUND - RURAL HEALTH CARE
+- AFFORDABLE CONNECTIVITY PROGRAM
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 41,838 |
+| Total Amount | $8,332,367 |
+| Unique Employee Donors | ~5,585 |
+| Recipient Committees | 121 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,986,068 (13635 contributions)
+- [[Comcast - NBCUniversal]]: $2,968,323 (22404 contributions)
+- [[WinRed]]: $718,619 (1134 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $214,052 (149 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $213,078 (804 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $194,865 (158 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $161,004 (494 contributions)
+- [[Bob Casey]]: $146,114 (182 contributions)
+- [[RNC - Republican National Committee]]: $63,925 (321 contributions)
+- [[_Chrissy Houlahan Master Profile]]: $55,591 (51 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

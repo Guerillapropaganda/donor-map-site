@@ -47,6 +47,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 30
+employee-contributions-total: 8505
+employee-donor-count: 8
 ---
 
 <!-- auto:data-panel start -->
@@ -350,6 +353,23 @@ The class analysis of Ohio Democratic collapse is structural, not cyclical:
 - Democratic Progressive Party (TAIWAN)
 
 <!-- auto:fara-foreign-agents end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 30 |
+| Total Amount | $8,505 |
+| Unique Employee Donors | ~8 |
+| Recipient Committees | 1 |
+| Election Cycles | 2016, 2018, 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $8,505 (30 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

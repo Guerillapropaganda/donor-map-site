@@ -38,6 +38,9 @@ politicians-funded: "[[Kevin McCarthy]], [[Cathy McMorris Rodgers]], [[John Kenn
 epa-facilities: 4
 epa-states: "GA, KS, MN, TX"
 federal-contracts: 3
+employee-contributions: 253
+employee-contributions-total: 9939019
+employee-donor-count: 85
 ---
 
 <!-- auto:data-panel start -->
@@ -818,6 +821,32 @@ What distinguishes Koch Industries from other corporate political actors is the 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 253 |
+| Total Amount | $9,939,019 |
+| Unique Employee Donors | ~85 |
+| Recipient Committees | 19 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Freedom Partners Action Fund Inc]]: $9,000,000 (3 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $709,356 (17 contributions)
+- [[Americans for Prosperity]]: $85,000 (4 contributions)
+- [[WinRed]]: $63,288 (67 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $30,792 (15 contributions)
+- [[_Tim Scott Master Profile]]: $10,332 (15 contributions)
+- [[FreedomWorks for America]]: $8,300 (2 contributions)
+- [[_Ron Johnson Master Profile]]: $8,100 (3 contributions)
+- [[ActBlue]]: $7,159 (33 contributions)
+- [[_Marco Rubio Master Profile]]: $5,214 (28 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

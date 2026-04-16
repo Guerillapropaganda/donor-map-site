@@ -19,6 +19,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 14
+employee-contributions-total: 12422
+employee-donor-count: 10
 ---
 
 <!-- auto:data-panel start -->
@@ -79,6 +82,25 @@ The class function is straightforward. The pledge prevents tax increases on the 
 - [ATR: Taxpayer Protection Pledge signers list](https://atr.org/pledge-database/) (Tier 1) (VERIFIED)
 - [Ballotpedia: Americans for Tax Reform](https://ballotpedia.org/Americans_for_Tax_Reform) (Tier 3) (VERIFIED)
 
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 14 |
+| Total Amount | $12,422 |
+| Unique Employee Donors | ~10 |
+| Recipient Committees | 3 |
+| Election Cycles | 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $8,356 (10 contributions)
+- [[Trump Victory]]: $3,840 (3 contributions)
+- [[_Mark Green Master Profile]]: $226 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

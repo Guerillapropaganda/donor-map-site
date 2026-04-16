@@ -35,6 +35,9 @@ total-spent: 8490313
 cash-on-hand: 1788978
 individual-contributions: 8062856
 contributions-to-committees: 3333200
+employee-contributions: 15609
+employee-contributions-total: 1039689
+employee-donor-count: 2313
 ---
 
 <!-- auto:data-panel start -->
@@ -222,6 +225,32 @@ The 95% Democratic PAC split tells one story. The fact that IBEW members in many
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 15,609 |
+| Total Amount | $1,039,689 |
+| Unique Employee Donors | ~2,313 |
+| Recipient Committees | 37 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[IBEW - International Brotherhood of Electrical Workers]]: $719,221 (11323 contributions)
+- [[ActBlue]]: $204,907 (2509 contributions)
+- [[WinRed]]: $46,078 (652 contributions)
+- [[MAGA Inc]]: $10,103 (61 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $10,095 (274 contributions)
+- [[RNC - Republican National Committee]]: $8,816 (191 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $5,630 (45 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $5,260 (115 contributions)
+- [[Bob Casey]]: $5,250 (18 contributions)
+- [[Progressive Turnout Project]]: $3,181 (107 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -100,6 +100,9 @@ total-spent: 908335
 cash-on-hand: 520127
 individual-contributions: 859027
 contributions-to-committees: 694500
+employee-contributions: 210308
+employee-contributions-total: 6669725
+employee-donor-count: 11790
 ---
 
 <!-- auto:data-panel start -->
@@ -509,6 +512,32 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 210,308 |
+| Total Amount | $6,669,725 |
+| Unique Employee Donors | ~11,790 |
+| Recipient Committees | 34 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Marathon Petroleum]]: $6,431,694 (208852 contributions)
+- [[ActBlue]]: $88,193 (645 contributions)
+- [[WinRed]]: $64,366 (218 contributions)
+- [[Club for Growth INC PAC]]: $15,600 (8 contributions)
+- [[MAGA Inc]]: $15,450 (58 contributions)
+- [[RNC - Republican National Committee]]: $12,702 (180 contributions)
+- [[_Ted Cruz Master Profile]]: $8,538 (47 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $5,305 (71 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $4,833 (50 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,871 (49 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

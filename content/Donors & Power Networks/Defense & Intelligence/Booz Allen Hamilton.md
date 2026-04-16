@@ -69,6 +69,9 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
 epa-states: "FL"
 federal-contracts: 7661
+employee-contributions: 6830
+employee-contributions-total: 1062512
+employee-donor-count: 1355
 ---
 
 <!-- auto:data-panel start -->
@@ -320,3 +323,30 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 6,830 |
+| Total Amount | $1,062,512 |
+| Unique Employee Donors | ~1,355 |
+| Recipient Committees | 62 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $559,333 (4120 contributions)
+- [[WinRed]]: $115,066 (518 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $77,785 (177 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $51,439 (219 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $39,702 (373 contributions)
+- [[MAGA Inc]]: $34,690 (154 contributions)
+- [[RNC - Republican National Committee]]: $32,375 (226 contributions)
+- [[_Josh Harder Master Profile]]: $16,900 (5 contributions)
+- [[Democratic Party of Virginia]]: $15,946 (96 contributions)
+- [[_Mario Diaz-Balart Master Profile]]: $13,200 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

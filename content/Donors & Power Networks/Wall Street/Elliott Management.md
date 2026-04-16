@@ -21,6 +21,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 404
+employee-contributions-total: 38275800
+employee-donor-count: 207
 ---
 
 <!-- auto:data-panel start -->
@@ -237,6 +240,32 @@ Pattern flags: **Donor-Class Override** (judicial recusal reversed to protect do
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 404 |
+| Total Amount | $38,275,800 |
+| Unique Employee Donors | ~207 |
+| Recipient Committees | 39 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[SLF PAC]]: $10,000,000 (10 contributions)
+- [[Sfa Fund, Inc]]: $5,500,000 (2 contributions)
+- [[Conservative Solutions PAC]]: $5,000,000 (2 contributions)
+- [[ESAFUND]]: $3,200,000 (5 contributions)
+- [[Congressional Leadership Fund]]: $2,900,000 (4 contributions)
+- [[Preserve America]]: $2,500,000 (1 contributions)
+- [[RNC - Republican National Committee]]: $1,922,800 (22 contributions)
+- [[The Sentinel Action Fund]]: $1,500,000 (2 contributions)
+- [[Future45]]: $1,250,000 (2 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $1,114,700 (14 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

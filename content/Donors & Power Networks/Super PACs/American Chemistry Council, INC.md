@@ -25,6 +25,9 @@ total-spent: 366041
 cash-on-hand: 359502
 individual-contributions: 310752
 contributions-to-committees: 365041
+employee-contributions: 8651
+employee-contributions-total: 758422
+employee-donor-count: 701
 ---
 
 ## Auto-Created Stub
@@ -65,3 +68,30 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 8,651 |
+| Total Amount | $758,422 |
+| Unique Employee Donors | ~701 |
+| Recipient Committees | 14 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[American Chemistry Council, INC]]: $712,838 (8558 contributions)
+- [[WinRed]]: $22,760 (24 contributions)
+- [[ActBlue]]: $15,489 (55 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,300 (3 contributions)
+- [[_Jim Costa Master Profile]]: $1,000 (1 contributions)
+- [[_August Pfluger Master Profile]]: $1,000 (1 contributions)
+- [[_Brian Jack Master Profile]]: $1,000 (1 contributions)
+- [[Catherine Cortez Masto]]: $1,000 (1 contributions)
+- [[_David Rouzer Master Profile]]: $500 (1 contributions)
+- [[MAGA Inc]]: $500 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

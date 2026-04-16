@@ -53,6 +53,9 @@ source-types:
 corroboration-count: 5
 aliases:
   - "Blackstone Real Estate Political Operation"
+employee-contributions: 2
+employee-contributions-total: 5800
+employee-donor-count: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -333,6 +336,23 @@ Score: 12 Industry Wins, 2 Tenant Wins, 2 Compromises (with compromises represen
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $5,800 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[_Susie Lee Master Profile]]: $5,800 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

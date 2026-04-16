@@ -21,6 +21,9 @@ total-raised: 913
 total-spent: 913
 independent-expenditures: 913
 individual-contributions: 913
+employee-contributions: 24
+employee-contributions-total: 7330
+employee-donor-count: 9
 ---
 
 ## Auto-Created Stub
@@ -44,3 +47,26 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `LET FREEDOM RING INC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 24 |
+| Total Amount | $7,330 |
+| Unique Employee Donors | ~9 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2018, 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[_Marco Rubio Master Profile]]: $2,730 (4 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $1,600 (16 contributions)
+- [[_Don Bacon Master Profile]]: $1,000 (1 contributions)
+- [[WinRed]]: $1,000 (1 contributions)
+- [[_Jason Smith Master Profile]]: $500 (1 contributions)
+- [[_Jim Jordan Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -67,6 +67,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 839
+employee-contributions-total: 1065697
+employee-donor-count: 254
 ---
 
 <!-- auto:data-panel start -->
@@ -267,6 +270,32 @@ The Center for American Progress (CAP) is a public policy research and advocacy 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Center_for_American_Progress) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q368035) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 839 |
+| Total Amount | $1,065,697 |
+| Unique Employee Donors | ~254 |
+| Recipient Committees | 36 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $596,085 (675 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $155,950 (15 contributions)
+- [[Priorities USA Action]]: $100,000 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $83,900 (3 contributions)
+- [[_Elissa Slotkin Master Profile]]: $14,000 (31 contributions)
+- [[_Judy Chu Master Profile]]: $12,700 (5 contributions)
+- [[Indivisible Action]]: $12,640 (5 contributions)
+- [[Emily's List]]: $12,250 (6 contributions)
+- [[AB PAC]]: $10,000 (1 contributions)
+- [[Bob Casey]]: $7,420 (6 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

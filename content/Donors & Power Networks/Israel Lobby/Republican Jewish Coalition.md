@@ -39,6 +39,9 @@ total-spent: 975066
 cash-on-hand: 226435
 individual-contributions: 1044435
 contributions-to-committees: 945547
+employee-contributions: 18
+employee-contributions-total: 13795
+employee-donor-count: 10
 ---
 
 <!-- auto:data-panel start -->
@@ -265,6 +268,25 @@ The RJC also demonstrates **asymmetry in pro-Israel vs. pro-Palestinian funding:
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Republican%20Jewish%20Coalition) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 18 |
+| Total Amount | $13,795 |
+| Unique Employee Donors | ~10 |
+| Recipient Committees | 3 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $7,350 (3 contributions)
+- [[Republican Jewish Coalition]]: $5,520 (13 contributions)
+- [[Trump Victory]]: $925 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

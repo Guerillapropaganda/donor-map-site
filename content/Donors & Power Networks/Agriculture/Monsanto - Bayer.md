@@ -54,6 +54,9 @@ audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 76
 epa-states: "AL, AZ, CA, CT, FL, GA, HI, IA, IL, IN, KS, KY, MA, MI, MN, MO, MS, NC, NE, NJ, OH, OR, PA, PR, SC, TN, TX, VA, WI, WV, WY"
+employee-contributions: 3875
+employee-contributions-total: 444029
+employee-donor-count: 705
 ---
 
 <!-- auto:data-panel start -->
@@ -171,6 +174,32 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,875 |
+| Total Amount | $444,029 |
+| Unique Employee Donors | ~705 |
+| Recipient Committees | 52 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $255,201 (2558 contributions)
+- [[WinRed]]: $43,350 (219 contributions)
+- [[_Josh Hawley Master Profile]]: $22,775 (30 contributions)
+- [[_Ann Wagner Master Profile]]: $22,662 (21 contributions)
+- [[RNC - Republican National Committee]]: $14,293 (193 contributions)
+- [[MAGA Inc]]: $13,173 (75 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $9,680 (49 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $9,001 (186 contributions)
+- [[Bob Casey]]: $5,300 (8 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $5,171 (76 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -29,6 +29,11 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+federal-grants: 38
+federal-grants-total: 2089569
+employee-contributions: 627
+employee-contributions-total: 22657933
+employee-donor-count: 268
 ---
 
 <!-- auto:data-panel start -->
@@ -266,6 +271,54 @@ Griffin's political investment protects this arrangement from regulation. His $1
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 38 |
+| Total Obligation | $2,089,569 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 2 |
+
+**Top awarding agencies:**
+
+- Department of Education: $2,089,569
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+- FEDERAL WORK-STUDY PROGRAM
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 627 |
+| Total Amount | $22,657,933 |
+| Unique Employee Donors | ~268 |
+| Recipient Committees | 61 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[American Patriots PAC]]: $8,500,000 (5 contributions)
+- [[Conservative Solutions PAC]]: $5,100,000 (3 contributions)
+- [[Freedom Partners Action Fund Inc]]: $2,000,000 (1 contributions)
+- [[DefendArizona]]: $2,000,000 (1 contributions)
+- [[ESAFUND]]: $1,900,000 (3 contributions)
+- [[Future45]]: $1,250,000 (2 contributions)
+- [[WinRed]]: $1,027,531 (249 contributions)
+- [[Opportunity Matters Fund]]: $250,000 (1 contributions)
+- [[ActBlue]]: $223,199 (211 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $67,800 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

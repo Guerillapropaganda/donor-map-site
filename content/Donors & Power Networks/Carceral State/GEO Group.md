@@ -34,6 +34,11 @@ cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 internal-notes: "[URL Check 2026-04-13] 59 checked: 52 ok, 7 broken, 0 slow. | BROKEN: Project on Government Oversight (POGO): Private Prison Giant Hired ICE Detention Chief | BROKEN: POGO: Locking In Profits - Top ICE Officials to GEO | BROKEN: New York Times: Pam Bondi as AG | BROKEN: Politico: Pam Bondi DOJ ethics | BROKEN: TIME: ICE's Largest Prison Contractors Post Record Revenue | BROKEN: Reuters: GEO Group wins legal challenge to AB 32 | BROKEN: Transnational Institute: Stop corporations from profiting from incarceration"
 urls-first-triaged: "2026-04-15"
+federal-grants: 9
+federal-grants-total: 78464
+employee-contributions: 991
+employee-contributions-total: 283132
+employee-donor-count: 164
 ---
 
 <!-- auto:data-panel start -->
@@ -725,6 +730,53 @@ Both GEO and [[CoreCivic]] are members of the **Day 1 Alliance**, a trade associ
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=GEO%20Group%20-%20Private%20Prison%20Industrial%20Complex) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 9 |
+| Total Obligation | $78,464 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Federal Communications Commission: $78,464
+
+**Top programs:**
+
+- UNIVERSAL SERVICE FUND - SCHOOLS AND LIBRARIES
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 991 |
+| Total Amount | $283,132 |
+| Unique Employee Donors | ~164 |
+| Recipient Committees | 18 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $162,307 (408 contributions)
+- [[Trump Victory]]: $68,500 (18 contributions)
+- [[ActBlue]]: $18,944 (337 contributions)
+- [[_Marco Rubio Master Profile]]: $16,300 (8 contributions)
+- [[American Federation of State County & Municipal Employees  P E O P L E]]: $3,777 (39 contributions)
+- [[_Tom Barrett Master Profile]]: $2,943 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $2,086 (118 contributions)
+- [[_Tim Scott Master Profile]]: $2,000 (1 contributions)
+- [[RNC - Republican National Committee]]: $1,975 (31 contributions)
+- [[Reclaim America PAC]]: $1,750 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

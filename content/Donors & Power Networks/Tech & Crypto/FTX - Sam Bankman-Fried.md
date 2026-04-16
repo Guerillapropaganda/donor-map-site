@@ -23,6 +23,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 234
+employee-contributions-total: 45790530
+employee-donor-count: 64
 ---
 
 <!-- auto:data-panel start -->
@@ -182,3 +185,30 @@ SBF represents the purest case study in the vault of money-as-political-infrastr
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22FTX%20-%20Sam%20Bankman-Fried%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 234 |
+| Total Amount | $45,790,530 |
+| Unique Employee Donors | ~64 |
+| Recipient Committees | 47 |
+| Election Cycles | 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Protect Our Future PAC]]: $28,000,000 (5 contributions)
+- [[HMP]]: $6,000,000 (1 contributions)
+- [[Fairshake PAC]]: $5,000,000 (1 contributions)
+- [[Winsenate]]: $2,500,000 (3 contributions)
+- [[Emily's List]]: $2,250,000 (2 contributions)
+- [[National Wildlife Federation Action Fund]]: $810,000 (1 contributions)
+- [[WinRed]]: $386,960 (144 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $250,000 (3 contributions)
+- [[VIEW PAC - Value in Electing Women]]: $250,000 (1 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $66,500 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

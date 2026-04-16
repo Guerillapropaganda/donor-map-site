@@ -21,6 +21,9 @@ total-spent: 852000
 cash-on-hand: 394529
 individual-contributions: 875290
 contributions-to-committees: 817000
+employee-contributions: 57999
+employee-contributions-total: 9046559
+employee-donor-count: 6707
 ---
 
 
@@ -76,3 +79,30 @@ Profile pending enrichment.
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 57,999 |
+| Total Amount | $9,046,559 |
+| Unique Employee Donors | ~6,707 |
+| Recipient Committees | 71 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Amgen Inc]]: $7,639,299 (51806 contributions)
+- [[ActBlue]]: $561,570 (3377 contributions)
+- [[WinRed]]: $422,956 (477 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $95,479 (88 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $48,986 (837 contributions)
+- [[_Tim Scott Master Profile]]: $40,900 (21 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $33,972 (302 contributions)
+- [[_Julia Brownley Master Profile]]: $28,657 (104 contributions)
+- [[RNC - Republican National Committee]]: $25,826 (138 contributions)
+- [[CHC BOLD PAC]]: $22,250 (15 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

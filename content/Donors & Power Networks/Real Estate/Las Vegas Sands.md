@@ -67,6 +67,9 @@ cross-vault-triangulation-count: 2
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 428
+employee-contributions-total: 159266491
+employee-donor-count: 88
 ---
 
 
@@ -273,6 +276,32 @@ Sheldon Adelson exemplifies the mega-donor as foreign policy architect: he used 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Las%20Vegas%20Sands) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 428 |
+| Total Amount | $159,266,491 |
+| Unique Employee Donors | ~88 |
+| Recipient Committees | 29 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[SLF PAC]]: $77,500,000 (8 contributions)
+- [[Congressional Leadership Fund]]: $62,500,000 (7 contributions)
+- [[Future45]]: $10,000,000 (3 contributions)
+- [[America First Action]]: $5,000,000 (1 contributions)
+- [[Trump Victory]]: $1,654,300 (5 contributions)
+- [[RNC - Republican National Committee]]: $1,462,800 (18 contributions)
+- [[ESAFUND]]: $1,000,000 (1 contributions)
+- [[ActBlue]]: $36,527 (277 contributions)
+- [[_Don Bacon Master Profile]]: $15,438 (7 contributions)
+- [[WinRed]]: $12,167 (7 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

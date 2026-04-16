@@ -24,6 +24,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
 epa-states: "CA"
+employee-contributions: 479
+employee-contributions-total: 169947
+employee-donor-count: 150
 ---
 
 <!-- auto:data-panel start -->
@@ -140,6 +143,32 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 479 |
+| Total Amount | $169,947 |
+| Unique Employee Donors | ~150 |
+| Recipient Committees | 29 |
+| Election Cycles | 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $121,185 (318 contributions)
+- [[WinRed]]: $17,376 (61 contributions)
+- [[_Martin Heinrich Master Profile]]: $5,000 (5 contributions)
+- [[_Mark Green Master Profile]]: $3,800 (2 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $2,500 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $2,000 (3 contributions)
+- [[_Jon Ossoff Master Profile]]: $1,575 (13 contributions)
+- [[Emily's List]]: $1,515 (30 contributions)
+- [[_Sydney Kamlager-Dove Master Profile]]: $1,500 (3 contributions)
+- [[_Vince Fong Master Profile]]: $1,500 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

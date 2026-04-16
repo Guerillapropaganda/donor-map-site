@@ -13,6 +13,9 @@ known-gaps:
 source-types: []
 related: "[[Economic Policy Institute]] · [[Ohio Federation of Teachers]]"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 245
+employee-contributions-total: 44502
+employee-donor-count: 75
 ---
 
 
@@ -36,3 +39,30 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 Second-largest teachers union in the US. Major Democratic donor and political force. Led by Randi Weingarten.
 
 Profile pending enrichment.
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 245 |
+| Total Amount | $44,502 |
+| Unique Employee Donors | ~75 |
+| Recipient Committees | 11 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $30,152 (191 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $5,500 (7 contributions)
+- [[_Bonnie Watson Coleman Master Profile]]: $3,250 (7 contributions)
+- [[Working Families Party PAC]]: $1,500 (3 contributions)
+- [[Emily's List]]: $1,040 (28 contributions)
+- [[_Kamala Harris Master Profile]]: $1,000 (1 contributions)
+- [[_Tammy Baldwin Master Profile]]: $750 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $600 (2 contributions)
+- [[Minnesota Democratic-Farmer-Labor Party]]: $250 (1 contributions)
+- [[Catherine Cortez Masto]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

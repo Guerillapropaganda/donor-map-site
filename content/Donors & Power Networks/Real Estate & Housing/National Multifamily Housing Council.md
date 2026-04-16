@@ -59,6 +59,9 @@ total-spent: 2364186
 cash-on-hand: 1625880
 individual-contributions: 2124166
 contributions-to-committees: 2355000
+employee-contributions: 1352
+employee-contributions-total: 164966
+employee-donor-count: 126
 ---
 
 <!-- auto:data-panel start -->
@@ -199,6 +202,27 @@ NMHC represents the apartment industry's ownership class, the developers, REITs,
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,352 |
+| Total Amount | $164,966 |
+| Unique Employee Donors | ~126 |
+| Recipient Committees | 5 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Multifamily Housing Council]]: $160,866 (1338 contributions)
+- [[ActBlue]]: $2,350 (8 contributions)
+- [[_Vern Buchanan Master Profile]]: $1,000 (1 contributions)
+- [[Catherine Cortez Masto]]: $450 (4 contributions)
+- [[CHC BOLD PAC]]: $300 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

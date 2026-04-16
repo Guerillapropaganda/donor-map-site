@@ -77,6 +77,9 @@ total-raised: 577319
 total-spent: 1276942
 individual-contributions: 571319
 contributions-to-committees: 743000
+employee-contributions: 16967
+employee-contributions-total: 964600
+employee-donor-count: 1772
 ---
 
 
@@ -445,6 +448,32 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 16,967 |
+| Total Amount | $964,600 |
+| Unique Employee Donors | ~1,772 |
+| Recipient Committees | 21 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[L3 Technologies]]: $901,873 (15857 contributions)
+- [[ActBlue]]: $24,948 (602 contributions)
+- [[_Mike Rogers Master Profile]]: $13,800 (5 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $4,011 (77 contributions)
+- [[RNC - Republican National Committee]]: $3,593 (61 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $3,292 (91 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $2,900 (58 contributions)
+- [[_Ted Cruz Master Profile]]: $2,360 (61 contributions)
+- [[MAGA Inc]]: $2,161 (20 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $1,695 (25 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

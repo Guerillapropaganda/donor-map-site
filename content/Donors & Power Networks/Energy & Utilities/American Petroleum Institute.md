@@ -43,6 +43,9 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 federal-contracts: 1
 federal-awards-total: 10863
+employee-contributions: 143
+employee-contributions-total: 242765
+employee-donor-count: 51
 ---
 
 <!-- auto:data-panel start -->
@@ -839,6 +842,32 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 143 |
+| Total Amount | $242,765 |
+| Unique Employee Donors | ~51 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $148,715 (78 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $51,250 (14 contributions)
+- [[ActBlue]]: $11,200 (22 contributions)
+- [[_Ted Cruz Master Profile]]: $10,900 (4 contributions)
+- [[Trump Victory]]: $5,000 (1 contributions)
+- [[_August Pfluger Master Profile]]: $3,500 (2 contributions)
+- [[_Tim Scott Master Profile]]: $3,300 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $2,700 (1 contributions)
+- [[_Adrian Smith Master Profile]]: $1,500 (2 contributions)
+- [[_Debbie Wasserman Schultz Master Profile]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -69,6 +69,9 @@ urls-first-triaged: "2026-04-15"
 epa-facilities: 12
 epa-states: "AL, CA, CO, IL, MA"
 federal-contracts: 293
+employee-contributions: 10351
+employee-contributions-total: 2391367
+employee-donor-count: 2145
 ---
 
 <!-- auto:data-panel start -->
@@ -242,6 +245,32 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 10,351 |
+| Total Amount | $2,391,367 |
+| Unique Employee Donors | ~2,145 |
+| Recipient Committees | 107 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $895,623 (4999 contributions)
+- [[National Multifamily Housing Council]]: $521,950 (382 contributions)
+- [[WinRed]]: $266,576 (1219 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $131,878 (76 contributions)
+- [[United Democracy Project - UDP]]: $110,000 (3 contributions)
+- [[RNC - Republican National Committee]]: $48,971 (552 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $46,319 (721 contributions)
+- [[MAGA Inc]]: $41,706 (171 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $30,356 (400 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $22,326 (398 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

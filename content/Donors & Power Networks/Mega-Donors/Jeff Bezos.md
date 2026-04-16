@@ -52,6 +52,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 7
+employee-contributions-total: 1178
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -206,6 +209,24 @@ Favorable antitrust treatment for Amazon, government cloud computing contracts (
 - Webb v. Zuckerberg (2026) — District Court, E.D. Virginia
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 7 |
+| Total Amount | $1,178 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 2 |
+| Election Cycles | 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[MAGA Inc]]: $678 (5 contributions)
+- [[WinRed]]: $500 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

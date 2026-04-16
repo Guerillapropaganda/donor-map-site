@@ -38,6 +38,8 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 federal-contracts: 20
 federal-awards-total: 318270
+federal-grants: 5
+federal-grants-total: 4985976
 ---
 
 <!-- auto:data-panel start -->
@@ -154,6 +156,30 @@ IACP's political significance: the organization provides an "expert" voice that 
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 5 |
+| Total Obligation | $4,985,976 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 4 |
+
+**Top awarding agencies:**
+
+- Department of Justice: $4,985,976
+
+**Top programs:**
+
+- OVW TECHNICAL ASSISTANCE INITIATIVE
+- EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT PROGRAM
+- PUBLIC SAFETY PARTNERSHIP AND COMMUNITY POLICING GRANTS
+- LAW ENFORCEMENT MENTAL HEALTH AND WELLNESS ACT
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
 
 ## Archived
 

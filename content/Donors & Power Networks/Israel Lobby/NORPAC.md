@@ -51,6 +51,9 @@ total-spent: 2012354
 cash-on-hand: 602040
 individual-contributions: 2065352
 contributions-to-committees: 1719798
+employee-contributions: 84
+employee-contributions-total: 11571
+employee-donor-count: 16
 ---
 
 <!-- auto:data-panel start -->
@@ -335,6 +338,30 @@ For the vault's framework: NORPAC operates at a different tier than AIPAC or DMF
 - Hawaii Carpenters Trust Funds v. NORPAC Walls & Ceilings (2024) — District Court, D. Hawaii
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 84 |
+| Total Amount | $11,571 |
+| Unique Employee Donors | ~16 |
+| Recipient Committees | 8 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Bob Casey]]: $5,000 (2 contributions)
+- [[NORPAC]]: $3,760 (7 contributions)
+- [[ActBlue]]: $1,030 (3 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $755 (41 contributions)
+- [[RNC - Republican National Committee]]: $601 (15 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $320 (13 contributions)
+- [[WinRed]]: $90 (2 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $15 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

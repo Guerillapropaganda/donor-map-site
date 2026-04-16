@@ -87,6 +87,9 @@ total-spent: 120898
 cash-on-hand: 159654
 individual-contributions: 195598
 contributions-to-committees: 100500
+employee-contributions: 4769
+employee-contributions-total: 658681
+employee-donor-count: 712
 ---
 
 <!-- auto:data-panel start -->
@@ -419,6 +422,32 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4,769 |
+| Total Amount | $658,681 |
+| Unique Employee Donors | ~712 |
+| Recipient Committees | 35 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Tenet Healthcare]]: $464,588 (3523 contributions)
+- [[ActBlue]]: $133,973 (831 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $8,569 (84 contributions)
+- [[WinRed]]: $8,321 (52 contributions)
+- [[_Julie Johnson Master Profile]]: $6,700 (8 contributions)
+- [[Human Rights Campaign Equality Votes]]: $6,000 (5 contributions)
+- [[_Yassamin Ansari Master Profile]]: $3,500 (1 contributions)
+- [[Bob Casey]]: $3,400 (9 contributions)
+- [[_Angie Craig Master Profile]]: $3,000 (6 contributions)
+- [[_Pete Sessions Master Profile]]: $3,000 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

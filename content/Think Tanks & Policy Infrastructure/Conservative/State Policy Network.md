@@ -47,6 +47,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+employee-contributions: 3
+employee-contributions-total: 1551
+employee-donor-count: 2
 ---
 
 #think-tank #conservative #state-level #deregulation #koch-network #dark-money #class-analysis #follow-the-money
@@ -237,6 +240,24 @@ SPN is the state-level arm of the conservative donor class's policy apparatus. T
 - The Center for Investigative Reporting, Inc. v. OpenAI, Inc. (2024) — District Court, S.D. New York
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $1,551 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 2 |
+| Election Cycles | 2016, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $1,301 (2 contributions)
+- [[_Marco Rubio Master Profile]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

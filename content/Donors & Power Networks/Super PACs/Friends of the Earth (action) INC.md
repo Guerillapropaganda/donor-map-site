@@ -23,6 +23,9 @@ total-spent: 1532
 cash-on-hand: 12376
 individual-contributions: 809
 contributions-to-committees: 1500
+employee-contributions: 1
+employee-contributions-total: 2500
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -46,3 +49,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `FRIENDS OF THE EARTH (ACTION) INC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $2,500 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2016 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Friends of the Earth (action) INC]]: $2,500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

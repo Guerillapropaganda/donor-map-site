@@ -83,6 +83,9 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 5
 epa-states: "CA, CO, FL, MA"
 federal-contracts: 1
+employee-contributions: 1366
+employee-contributions-total: 215904
+employee-donor-count: 311
 ---
 
 <!-- auto:data-panel start -->
@@ -341,6 +344,32 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,366 |
+| Total Amount | $215,904 |
+| Unique Employee Donors | ~311 |
+| Recipient Committees | 48 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $131,513 (782 contributions)
+- [[WinRed]]: $24,735 (110 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $13,558 (60 contributions)
+- [[Mark Kelly]]: $5,900 (4 contributions)
+- [[MoveOn.org Political Action]]: $5,089 (107 contributions)
+- [[MAGA Inc]]: $4,494 (22 contributions)
+- [[_Doug Burgum Master Profile]]: $3,300 (1 contributions)
+- [[The Lincoln Project]]: $3,007 (43 contributions)
+- [[_Michael Waltz Master Profile]]: $2,500 (3 contributions)
+- [[Bob Casey]]: $2,462 (35 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

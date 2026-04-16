@@ -55,6 +55,11 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+federal-grants: 36
+federal-grants-total: 3360423
+employee-contributions: 27
+employee-contributions-total: 53091
+employee-donor-count: 14
 ---
 
 <!-- auto:data-panel start -->
@@ -403,6 +408,55 @@ The 2022 grant of $27.1 million to America First Legal, 61% of AFL's budget, rep
 - ConvergeOne Holdings, Inc. (2024) — United States Bankruptcy Court, S.D. Texas
 
 <!-- auto:courtlistener-cases end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 36 |
+| Total Obligation | $3,360,423 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 3 |
+| Programs | 4 |
+
+**Top awarding agencies:**
+
+- Department of Education: $3,258,173
+- National Science Foundation: $138,668
+- National Endowment for the Humanities: $-36,418
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+- TEACHER EDUCATION ASSISTANCE FOR COLLEGE AND HIGHER EDUCATION GRANTS (TEACH GRANTS)
+- PROMOTION OF THE HUMANITIES PROFESSIONAL DEVELOPMENT
+- OFFICE OF INTERNATIONAL SCIENCE AND ENGINEERING
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 27 |
+| Total Amount | $53,091 |
+| Unique Employee Donors | ~14 |
+| Recipient Committees | 7 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $25,054 (5 contributions)
+- [[_Tim Scott Master Profile]]: $16,500 (4 contributions)
+- [[_Glenn Grothman Master Profile]]: $6,500 (7 contributions)
+- [[_Tony Wied Master Profile]]: $2,000 (1 contributions)
+- [[_Ron Johnson Master Profile]]: $1,800 (6 contributions)
+- [[WinRed]]: $737 (3 contributions)
+- [[_Scott Fitzgerald Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

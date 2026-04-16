@@ -51,6 +51,9 @@ total-spent: 145500
 cash-on-hand: 93923
 individual-contributions: 143856
 contributions-to-committees: 145500
+employee-contributions: 289
+employee-contributions-total: 391911
+employee-donor-count: 93
 ---
 
 
@@ -260,6 +263,32 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 289 |
+| Total Amount | $391,911 |
+| Unique Employee Donors | ~93 |
+| Recipient Committees | 11 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Drummond Co]]: $207,844 (193 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $87,025 (16 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $43,521 (48 contributions)
+- [[WinRed]]: $36,770 (24 contributions)
+- [[RNC - Republican National Committee]]: $5,062 (2 contributions)
+- [[Common Sense for America PAC]]: $5,000 (1 contributions)
+- [[_Michael Waltz Master Profile]]: $2,900 (1 contributions)
+- [[Save America PAC]]: $2,602 (1 contributions)
+- [[_Jim Jordan Master Profile]]: $500 (1 contributions)
+- [[ActBlue]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

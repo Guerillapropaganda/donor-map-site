@@ -59,6 +59,9 @@ total-spent: 1489253
 cash-on-hand: 935379
 individual-contributions: 1657423
 contributions-to-committees: 985000
+employee-contributions: 343
+employee-contributions-total: 178322
+employee-donor-count: 121
 ---
 
 <!-- auto:data-panel start -->
@@ -327,6 +330,32 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 343 |
+| Total Amount | $178,322 |
+| Unique Employee Donors | ~121 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Valero Energy]]: $120,250 (25 contributions)
+- [[WinRed]]: $21,992 (85 contributions)
+- [[RNC - Republican National Committee]]: $7,154 (82 contributions)
+- [[_Ted Cruz Master Profile]]: $5,292 (21 contributions)
+- [[MAGA Inc]]: $4,625 (36 contributions)
+- [[_Don Bacon Master Profile]]: $3,950 (3 contributions)
+- [[ActBlue]]: $3,527 (32 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $3,157 (27 contributions)
+- [[Trump Victory]]: $2,700 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,300 (20 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

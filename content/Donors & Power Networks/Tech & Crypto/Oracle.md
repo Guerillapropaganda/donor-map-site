@@ -49,6 +49,9 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 26
 epa-states: "CA, CO, MA, MO, NH, OR, PA, TN, TX, VT"
 federal-contracts: 73
+employee-contributions: 32202
+employee-contributions-total: 47816625
+employee-donor-count: 4914
 ---
 
 <!-- auto:data-panel start -->
@@ -302,6 +305,32 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 32,202 |
+| Total Amount | $47,816,625 |
+| Unique Employee Donors | ~4,914 |
+| Recipient Committees | 140 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Opportunity Matters Fund]]: $35,010,509 (8 contributions)
+- [[Conservative Solutions PAC]]: $5,000,000 (4 contributions)
+- [[ActBlue]]: $3,181,590 (20428 contributions)
+- [[1820 PAC]]: $1,000,000 (1 contributions)
+- [[Preserve America]]: $1,000,000 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $489,797 (613 contributions)
+- [[WinRed]]: $426,986 (2591 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $306,043 (301 contributions)
+- [[Trump Victory]]: $181,000 (9 contributions)
+- [[Fairshake PAC]]: $125,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

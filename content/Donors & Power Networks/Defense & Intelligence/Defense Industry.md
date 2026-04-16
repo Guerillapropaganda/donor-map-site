@@ -49,6 +49,9 @@ politicians-funded: "[[Gary Peters]], [[Tom Cotton]], [[Jeanne Shaheen]], [[Mart
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 31
+employee-contributions-total: 3237
+employee-donor-count: 8
 ---
 
 <!-- auto:data-panel start -->
@@ -225,6 +228,26 @@ See [[Defense Industry Bloc]], [[Defense Contractors]], and [[Defense Contractor
 - United States v. BROWN (2026) — District Court, District of Columbia
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 31 |
+| Total Amount | $3,237 |
+| Unique Employee Donors | ~8 |
+| Recipient Committees | 4 |
+| Election Cycles | 2016, 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,537 (27 contributions)
+- [[_Marco Rubio Master Profile]]: $250 (1 contributions)
+- [[WinRed]]: $250 (1 contributions)
+- [[Mark Kelly]]: $200 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

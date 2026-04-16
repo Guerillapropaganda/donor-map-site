@@ -60,6 +60,11 @@ total-spent: 2171418
 cash-on-hand: 25207
 individual-contributions: 1580449
 contributions-to-committees: 1200500
+federal-grants: 1
+federal-grants-total: -266986
+employee-contributions: 322474
+employee-contributions-total: 12192316
+employee-donor-count: 31124
 ---
 
 <!-- auto:data-panel start -->
@@ -360,6 +365,53 @@ GM's political evolution follows the money: bailed out by Obama ($50B+), the com
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $-266,986 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Energy: $-266,986
+
+**Top programs:**
+
+- CONSERVATION RESEARCH AND DEVELOPMENT
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 322,474 |
+| Total Amount | $12,192,316 |
+| Unique Employee Donors | ~31,124 |
+| Recipient Committees | 75 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[General Motors]]: $11,159,492 (311382 contributions)
+- [[ActBlue]]: $514,894 (5388 contributions)
+- [[WinRed]]: $165,121 (1565 contributions)
+- [[RNC - Republican National Committee]]: $64,874 (647 contributions)
+- [[MAGA Inc]]: $43,448 (144 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $39,511 (700 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $25,547 (609 contributions)
+- [[National Rifle Association]]: $25,317 (396 contributions)
+- [[_John James Master Profile]]: $16,515 (83 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $15,895 (237 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

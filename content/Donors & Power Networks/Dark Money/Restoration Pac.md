@@ -23,4 +23,25 @@ cash-on-hand: 7809750
 independent-expenditures: 1659890
 individual-contributions: 23531021
 contributions-to-committees: 6861461
+employee-contributions: 1
+employee-contributions-total: 260
+employee-donor-count: 1
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $260 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $260 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

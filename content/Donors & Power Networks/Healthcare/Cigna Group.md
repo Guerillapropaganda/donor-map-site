@@ -37,6 +37,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
 epa-states: "CT"
+employee-contributions: 8269
+employee-contributions-total: 1009194
+employee-donor-count: 1246
 ---
 
 <!-- auto:data-panel start -->
@@ -239,6 +242,32 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 8,269 |
+| Total Amount | $1,009,194 |
+| Unique Employee Donors | ~1,246 |
+| Recipient Committees | 70 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $414,681 (4872 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $206,524 (281 contributions)
+- [[WinRed]]: $205,521 (834 contributions)
+- [[MAGA Inc]]: $26,718 (264 contributions)
+- [[RNC - Republican National Committee]]: $24,981 (266 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $14,645 (359 contributions)
+- [[_Eric Burlison Master Profile]]: $13,250 (12 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $13,158 (318 contributions)
+- [[The Lincoln Project]]: $9,405 (136 contributions)
+- [[Mark Kelly]]: $8,876 (140 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

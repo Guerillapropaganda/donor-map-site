@@ -23,4 +23,27 @@ cash-on-hand: 12368189
 independent-expenditures: 999309
 individual-contributions: 8047802
 contributions-to-committees: 402500
+employee-contributions: 696
+employee-contributions-total: 18875
+employee-donor-count: 16
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 696 |
+| Total Amount | $18,875 |
+| Unique Employee Donors | ~16 |
+| Recipient Committees | 3 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $12,198 (291 contributions)
+- [[Votevets]]: $6,177 (404 contributions)
+- [[_Chris Pappas Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

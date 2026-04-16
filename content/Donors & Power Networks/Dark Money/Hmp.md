@@ -25,6 +25,9 @@ cash-on-hand: 53604530
 independent-expenditures: 961782
 individual-contributions: 7523667
 contributions-to-committees: 270000
+employee-contributions: 32
+employee-contributions-total: 8376
+employee-donor-count: 18
 ---
 
 
@@ -43,3 +46,26 @@ contributions-to-committees: 270000
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 32 |
+| Total Amount | $8,376 |
+| Unique Employee Donors | ~18 |
+| Recipient Committees | 6 |
+| Election Cycles | 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $5,300 (16 contributions)
+- [[WinRed]]: $1,520 (5 contributions)
+- [[MAGA Inc]]: $700 (4 contributions)
+- [[RNC - Republican National Committee]]: $450 (3 contributions)
+- [[The Lincoln Project]]: $250 (1 contributions)
+- [[Save America PAC]]: $156 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

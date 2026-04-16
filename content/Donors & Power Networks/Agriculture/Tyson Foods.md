@@ -114,6 +114,9 @@ total-spent: 434000
 cash-on-hand: 177227
 individual-contributions: 425043
 contributions-to-committees: 417250
+employee-contributions: 22604
+employee-contributions-total: 1978178
+employee-donor-count: 1297
 ---
 
 <!-- auto:data-panel start -->
@@ -713,6 +716,32 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 22,604 |
+| Total Amount | $1,978,178 |
+| Unique Employee Donors | ~1,297 |
+| Recipient Committees | 47 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $785,198 (6657 contributions)
+- [[Tyson Foods]]: $571,202 (13161 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $147,412 (136 contributions)
+- [[WinRed]]: $108,733 (385 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $75,211 (346 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $70,450 (338 contributions)
+- [[Let America Vote PAC]]: $53,261 (438 contributions)
+- [[Progressive Turnout Project]]: $51,089 (398 contributions)
+- [[_Cory Booker Master Profile]]: $11,949 (48 contributions)
+- [[_Pete Aguilar Master Profile]]: $10,280 (138 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

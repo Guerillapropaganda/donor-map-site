@@ -78,6 +78,9 @@ total-spent: 1537279
 cash-on-hand: 794988
 individual-contributions: 1532270
 contributions-to-committees: 1210000
+employee-contributions: 5388
+employee-contributions-total: 1781961
+employee-donor-count: 952
 ---
 
 <!-- auto:data-panel start -->
@@ -293,6 +296,32 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5,388 |
+| Total Amount | $1,781,961 |
+| Unique Employee Donors | ~952 |
+| Recipient Committees | 35 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[NextEra Energy]]: $912,369 (3918 contributions)
+- [[ActBlue]]: $405,334 (736 contributions)
+- [[WinRed]]: $237,318 (252 contributions)
+- [[_Vern Buchanan Master Profile]]: $58,050 (64 contributions)
+- [[_Debbie Wasserman Schultz Master Profile]]: $38,200 (41 contributions)
+- [[_Marco Rubio Master Profile]]: $29,251 (34 contributions)
+- [[Catherine Cortez Masto]]: $26,950 (27 contributions)
+- [[Majority PAC]]: $16,500 (17 contributions)
+- [[_Darren Soto Master Profile]]: $14,750 (26 contributions)
+- [[_Carlos Gimenez Master Profile]]: $10,800 (10 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

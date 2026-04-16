@@ -105,6 +105,11 @@ federal-contracts-count: 25
 federal-grants-count: 23
 epa-facilities: 14
 epa-states: "AL, AZ, CO, IL, KS, NH, NY, TX, UT, WA"
+federal-grants: 3
+federal-grants-total: 1678232
+employee-contributions: 54529
+employee-contributions-total: 4114523
+employee-donor-count: 6120
 ---
 
 <!-- auto:data-panel start -->
@@ -771,6 +776,54 @@ The Boeing Company is an American multinational corporation that designs and man
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 3 |
+| Total Obligation | $1,678,232 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 2 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $1,678,232
+
+**Top programs:**
+
+- RESEARCH AND TECHNOLOGY DEVELOPMENT
+- BASIC SCIENTIFIC RESEARCH
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 54,529 |
+| Total Amount | $4,114,523 |
+| Unique Employee Donors | ~6,120 |
+| Recipient Committees | 105 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,034,094 (27978 contributions)
+- [[WinRed]]: $805,367 (9114 contributions)
+- [[RNC - Republican National Committee]]: $203,500 (2557 contributions)
+- [[MAGA Inc]]: $157,913 (798 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $152,696 (2981 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $117,447 (1537 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $103,344 (1915 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $78,347 (1676 contributions)
+- [[SLF PAC]]: $40,000 (2 contributions)
+- [[_Ted Cruz Master Profile]]: $35,383 (287 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

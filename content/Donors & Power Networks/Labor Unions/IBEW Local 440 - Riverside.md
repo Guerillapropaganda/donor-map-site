@@ -20,6 +20,11 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 federal-contracts: 2
 federal-awards-total: 26301
+federal-grants: 1
+federal-grants-total: 32868
+employee-contributions: 499
+employee-contributions-total: 295303
+employee-donor-count: 131
 ---
 
 <!-- auto:data-panel start -->
@@ -132,6 +137,53 @@ The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a l
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $32,868 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Housing and Urban Development: $32,868
+
+**Top programs:**
+
+- SUPPORTIVE HOUSING FOR PERSONS WITH DISABILITIES
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 499 |
+| Total Amount | $295,303 |
+| Unique Employee Donors | ~131 |
+| Recipient Committees | 28 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $119,685 (132 contributions)
+- [[ActBlue]]: $75,781 (202 contributions)
+- [[_Shontel Brown Master Profile]]: $25,800 (7 contributions)
+- [[RNC - Republican National Committee]]: $22,193 (26 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $15,260 (5 contributions)
+- [[MAGA Inc]]: $11,394 (8 contributions)
+- [[_Summer Lee Master Profile]]: $7,932 (5 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $4,000 (2 contributions)
+- [[_Mark Takano Master Profile]]: $2,042 (28 contributions)
+- [[_Donna Miller Master Profile]]: $2,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -47,6 +47,9 @@ cross-vault-triangulation-count: 24
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 6
 epa-states: "FL, MN, NJ, UT, WA"
+employee-contributions: 3290
+employee-contributions-total: 99875997
+employee-donor-count: 1438
 ---
 
 <!-- auto:data-panel start -->
@@ -517,6 +520,32 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,290 |
+| Total Amount | $99,875,997 |
+| Unique Employee Donors | ~1,438 |
+| Recipient Committees | 109 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[SLF PAC]]: $74,236,000 (25 contributions)
+- [[MAGA Inc]]: $5,011,410 (68 contributions)
+- [[ActBlue]]: $3,896,917 (1412 contributions)
+- [[WinRed]]: $3,543,550 (1006 contributions)
+- [[America First Action]]: $3,000,000 (1 contributions)
+- [[1820 PAC]]: $2,000,000 (4 contributions)
+- [[Tell It Like It Is Pac]]: $2,000,000 (1 contributions)
+- [[Buckeye Values PAC]]: $1,375,000 (2 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $724,700 (72 contributions)
+- [[Winsenate]]: $550,550 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -35,6 +35,9 @@ total-spent: 295005
 cash-on-hand: 291463
 individual-contributions: 440448
 contributions-to-committees: 295005
+employee-contributions: 38508
+employee-contributions-total: 3440454
+employee-donor-count: 3768
 ---
 
 <!-- auto:data-panel start -->
@@ -196,6 +199,32 @@ PG&E represents the extreme case of utility political capture: a company that ha
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 38,508 |
+| Total Amount | $3,440,454 |
+| Unique Employee Donors | ~3,768 |
+| Recipient Committees | 37 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[PG&E - Pacific Gas and Electric]]: $3,258,117 (37059 contributions)
+- [[ActBlue]]: $115,936 (858 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $11,998 (134 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $7,364 (88 contributions)
+- [[_Scott Wiener Master Profile]]: $7,000 (3 contributions)
+- [[WinRed]]: $6,685 (22 contributions)
+- [[RNC - Republican National Committee]]: $5,156 (27 contributions)
+- [[MoveOn.org Political Action]]: $4,880 (73 contributions)
+- [[_Jon Ossoff Master Profile]]: $4,403 (41 contributions)
+- [[_Alex Padilla Master Profile]]: $2,250 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

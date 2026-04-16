@@ -88,6 +88,9 @@ total-spent: 731100
 cash-on-hand: 700873
 individual-contributions: 913190
 contributions-to-committees: 731000
+employee-contributions: 117
+employee-contributions-total: 65398
+employee-donor-count: 16
 ---
 
 <!-- auto:data-panel start -->
@@ -576,6 +579,25 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=National%20Cattlemen's%20Beef%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 117 |
+| Total Amount | $65,398 |
+| Unique Employee Donors | ~16 |
+| Recipient Committees | 3 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Cattlemen's Beef Association]]: $63,398 (114 contributions)
+- [[_David Rouzer Master Profile]]: $1,000 (2 contributions)
+- [[_Jimmy Panetta Master Profile]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

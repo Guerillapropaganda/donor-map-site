@@ -25,6 +25,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 78
+employee-contributions-total: 7135
+employee-donor-count: 16
 ---
 
 <!-- auto:data-panel start -->
@@ -171,6 +174,26 @@ Education, charter school expansion, school funding formula, district accountabi
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 78 |
+| Total Amount | $7,135 |
+| Unique Employee Donors | ~16 |
+| Recipient Committees | 4 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $3,375 (24 contributions)
+- [[MoveOn.org Political Action]]: $3,185 (49 contributions)
+- [[_Kamala Harris Master Profile]]: $500 (2 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $75 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

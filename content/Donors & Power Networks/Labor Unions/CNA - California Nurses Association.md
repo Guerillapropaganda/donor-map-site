@@ -25,6 +25,9 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 federal-contracts: 6
 federal-awards-total: 148442
+employee-contributions: 2549
+employee-contributions-total: 266366
+employee-donor-count: 295
 ---
 
 <!-- auto:data-panel start -->
@@ -236,6 +239,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,549 |
+| Total Amount | $266,366 |
+| Unique Employee Donors | ~295 |
+| Recipient Committees | 30 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $180,405 (1549 contributions)
+- [[WinRed]]: $11,620 (103 contributions)
+- [[Mark Kelly]]: $8,300 (112 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $8,082 (348 contributions)
+- [[_Josh Riley Master Profile]]: $6,500 (2 contributions)
+- [[MAGA Inc]]: $4,691 (11 contributions)
+- [[RNC - Republican National Committee]]: $4,490 (45 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $4,350 (37 contributions)
+- [[Winsenate]]: $3,700 (9 contributions)
+- [[_Cori Bush Master Profile]]: $3,299 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

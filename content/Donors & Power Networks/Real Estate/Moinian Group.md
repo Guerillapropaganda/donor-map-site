@@ -42,6 +42,9 @@ reenrich-reason: "run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 7
+employee-contributions-total: 5665
+employee-donor-count: 3
 ---
 
 
@@ -145,6 +148,24 @@ Moinian Group exemplifies how individual developers can exercise substantial pol
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Moinian%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 7 |
+| Total Amount | $5,665 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 2 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $3,300 (1 contributions)
+- [[ActBlue]]: $2,365 (6 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -100,6 +100,9 @@ related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Pe
 epa-facilities: 13
 epa-states: "CA, FL, MA, MN, NV, OR, RI"
 federal-contracts: 16
+employee-contributions: 3078
+employee-contributions-total: 143169
+employee-donor-count: 379
 ---
 
 <!-- auto:data-panel start -->
@@ -384,6 +387,32 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,078 |
+| Total Amount | $143,169 |
+| Unique Employee Donors | ~379 |
+| Recipient Committees | 36 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $70,515 (1424 contributions)
+- [[WinRed]]: $15,235 (678 contributions)
+- [[RNC - Republican National Committee]]: $10,739 (173 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $7,835 (242 contributions)
+- [[Bob Casey]]: $6,300 (11 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $5,873 (102 contributions)
+- [[_Ted Cruz Master Profile]]: $3,490 (13 contributions)
+- [[_Nancy Pelosi Master Profile]]: $2,867 (12 contributions)
+- [[Chris Christie]]: $2,700 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $2,358 (94 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

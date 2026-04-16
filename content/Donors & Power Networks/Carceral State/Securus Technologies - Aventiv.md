@@ -25,6 +25,9 @@ lei: "549300EBCNNXVCJ2FW66"
 lei-jurisdiction: "US-DE"
 federal-contracts: 7
 federal-awards-total: 23323
+employee-contributions: 209
+employee-contributions-total: 25685
+employee-donor-count: 38
 ---
 
 <!-- auto:data-panel start -->
@@ -243,6 +246,32 @@ The $315M California contract is the countervailing force. Even as rates are reg
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 209 |
+| Total Amount | $25,685 |
+| Unique Employee Donors | ~38 |
+| Recipient Committees | 10 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $7,776 (68 contributions)
+- [[WinRed]]: $7,344 (40 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $5,610 (24 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $3,231 (51 contributions)
+- [[RNC - Republican National Committee]]: $505 (6 contributions)
+- [[_Ted Cruz Master Profile]]: $475 (7 contributions)
+- [[_Marco Rubio Master Profile]]: $300 (5 contributions)
+- [[_Yassamin Ansari Master Profile]]: $250 (1 contributions)
+- [[Bernie Moreno]]: $144 (6 contributions)
+- [[_Tim Scott Master Profile]]: $50 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

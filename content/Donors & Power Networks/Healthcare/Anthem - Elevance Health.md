@@ -33,6 +33,9 @@ total-spent: 1981629
 cash-on-hand: 512143
 individual-contributions: 1744348
 contributions-to-committees: 1617000
+employee-contributions: 640
+employee-contributions-total: 267770
+employee-donor-count: 261
 ---
 
 <!-- auto:data-panel start -->
@@ -257,6 +260,32 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 640 |
+| Total Amount | $267,770 |
+| Unique Employee Donors | ~261 |
+| Recipient Committees | 30 |
+| Election Cycles | 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $131,910 (257 contributions)
+- [[WinRed]]: $67,817 (143 contributions)
+- [[_Lauren Underwood Master Profile]]: $24,599 (39 contributions)
+- [[Anthem - Elevance Health]]: $15,000 (3 contributions)
+- [[_Jon Ossoff Master Profile]]: $7,350 (7 contributions)
+- [[_Dave Min Master Profile]]: $3,650 (2 contributions)
+- [[_Claudia Tenney Master Profile]]: $2,500 (1 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $2,250 (3 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,720 (12 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $1,350 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

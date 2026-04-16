@@ -54,6 +54,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 epa-facilities: 3
 epa-states: "CA, DE, FL"
 federal-contracts: 1
+employee-contributions: 2092
+employee-contributions-total: 1928025
+employee-donor-count: 649
 ---
 
 <!-- auto:data-panel start -->
@@ -256,6 +259,32 @@ BlackRock is not merely a Wall Street firm, it is the infrastructure through whi
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,092 |
+| Total Amount | $1,928,025 |
+| Unique Employee Donors | ~649 |
+| Recipient Committees | 49 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,181,253 (1734 contributions)
+- [[WinRed]]: $193,664 (80 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $85,000 (4 contributions)
+- [[_Chrissy Houlahan Master Profile]]: $59,000 (24 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $47,649 (19 contributions)
+- [[_Bill Foster Master Profile]]: $37,400 (15 contributions)
+- [[RNC - Republican National Committee]]: $35,250 (5 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $33,855 (20 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $33,040 (18 contributions)
+- [[_Pete Aguilar Master Profile]]: $29,300 (11 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

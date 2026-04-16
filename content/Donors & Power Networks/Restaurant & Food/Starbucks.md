@@ -58,6 +58,9 @@ cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 40
 epa-states: "CO, FL, GA, IL, IN, KY, MO, NH, NY, SC, TN, TX, VA, WA"
+employee-contributions: 6099
+employee-contributions-total: 464353
+employee-donor-count: 859
 ---
 
 <!-- auto:data-panel start -->
@@ -310,6 +313,32 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 6,099 |
+| Total Amount | $464,353 |
+| Unique Employee Donors | ~859 |
+| Recipient Committees | 50 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $338,496 (4448 contributions)
+- [[Human Rights Campaign Equality Votes]]: $18,800 (11 contributions)
+- [[WinRed]]: $18,364 (189 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $9,854 (192 contributions)
+- [[MoveOn.org Political Action]]: $9,710 (233 contributions)
+- [[Mark Kelly]]: $6,425 (27 contributions)
+- [[_Jon Ossoff Master Profile]]: $6,269 (45 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $6,173 (107 contributions)
+- [[RNC - Republican National Committee]]: $5,927 (218 contributions)
+- [[MAGA Inc]]: $5,607 (58 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

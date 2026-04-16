@@ -22,6 +22,9 @@ total-raised: 111872
 total-spent: 78402
 cash-on-hand: 438643
 individual-contributions: 320
+employee-contributions: 3
+employee-contributions-total: 5300
+employee-donor-count: 3
 ---
 
 ## Auto-Created Stub
@@ -39,3 +42,23 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `AMERICAN CROSSROADS`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $5,300 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 3 |
+| Election Cycles | 2018, 2020, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $3,300 (1 contributions)
+- [[_Josh Hawley Master Profile]]: $1,000 (1 contributions)
+- [[_John James Master Profile]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

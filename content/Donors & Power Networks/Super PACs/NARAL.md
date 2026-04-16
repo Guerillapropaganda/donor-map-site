@@ -18,6 +18,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 26
+employee-contributions-total: 6530
+employee-donor-count: 12
 ---
 
 ## Auto-Created Stub
@@ -41,3 +44,23 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `NARAL`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 26 |
+| Total Amount | $6,530 |
+| Unique Employee Donors | ~12 |
+| Recipient Committees | 3 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $5,980 (24 contributions)
+- [[_Kamala Harris Master Profile]]: $300 (1 contributions)
+- [[_Lauren Underwood Master Profile]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

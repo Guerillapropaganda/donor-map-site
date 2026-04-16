@@ -70,6 +70,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 politicians-funded: "[[Joe Biden]]"
 epa-facilities: 7
 epa-states: "FL, MA"
+employee-contributions: 392
+employee-contributions-total: 114676
+employee-donor-count: 117
 ---
 
 <!-- auto:data-panel start -->
@@ -296,3 +299,30 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 392 |
+| Total Amount | $114,676 |
+| Unique Employee Donors | ~117 |
+| Recipient Committees | 14 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $84,685 (299 contributions)
+- [[WinRed]]: $13,511 (21 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $3,950 (11 contributions)
+- [[_Jon Ossoff Master Profile]]: $3,250 (4 contributions)
+- [[Mark Kelly]]: $2,893 (40 contributions)
+- [[Bob Casey]]: $2,250 (2 contributions)
+- [[The Lincoln Project]]: $950 (5 contributions)
+- [[Winsenate]]: $700 (2 contributions)
+- [[DNC - Democratic National Committee]]: $500 (1 contributions)
+- [[Emily's List]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

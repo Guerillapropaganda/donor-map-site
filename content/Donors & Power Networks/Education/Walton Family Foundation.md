@@ -37,6 +37,9 @@ politicians-funded: "[[Virginia Foxx]], [[Sarah Huckabee Sanders]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 105
+employee-contributions-total: 28729
+employee-donor-count: 35
 ---
 
 <!-- auto:data-panel start -->
@@ -203,6 +206,30 @@ Education, charter schools, teacher accountability, school choice, billionaire p
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/472066714) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 105 |
+| Total Amount | $28,729 |
+| Unique Employee Donors | ~35 |
+| Recipient Committees | 8 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $17,689 (90 contributions)
+- [[RNC - Republican National Committee]]: $4,000 (4 contributions)
+- [[Republican Jewish Coalition]]: $3,500 (5 contributions)
+- [[WinRed]]: $2,000 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $600 (2 contributions)
+- [[_Ted Cruz Master Profile]]: $500 (1 contributions)
+- [[_Nancy Pelosi Master Profile]]: $250 (1 contributions)
+- [[Catherine Cortez Masto]]: $190 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

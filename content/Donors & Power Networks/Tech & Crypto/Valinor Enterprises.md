@@ -22,6 +22,9 @@ related: "[[_JD Vance Master Profile]] · [[Narya Capital and the Venture Capita
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
 epa-states: "CA"
+employee-contributions: 2
+employee-contributions-total: 800
+employee-donor-count: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -193,6 +196,23 @@ The Thiel network builds defense companies. The Thiel network funds politicians 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $800 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $800 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

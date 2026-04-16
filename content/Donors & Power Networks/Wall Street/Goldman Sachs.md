@@ -36,6 +36,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 3975
+employee-contributions-total: 6036348
+employee-donor-count: 1647
 ---
 
 <!-- auto:data-panel start -->
@@ -387,6 +390,32 @@ Goldman's bipartisan giving reflects this reality: donate to whoever is in power
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Goldman%20Sachs) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,975 |
+| Total Amount | $6,036,348 |
+| Unique Employee Donors | ~1,647 |
+| Recipient Committees | 110 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,257,560 (2355 contributions)
+- [[WinRed]]: $984,133 (441 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $621,520 (196 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $574,426 (84 contributions)
+- [[_Tim Scott Master Profile]]: $213,300 (65 contributions)
+- [[_Marco Rubio Master Profile]]: $209,270 (96 contributions)
+- [[RNC - Republican National Committee]]: $160,144 (58 contributions)
+- [[Winsenate]]: $77,500 (8 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $72,500 (20 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $72,441 (150 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

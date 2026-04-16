@@ -36,6 +36,9 @@ epa-states: "CA, NJ, UT"
 federal-contracts: 87
 federal-awards-total: 7768520221
 cash-on-hand: 9001
+employee-contributions: 6938
+employee-contributions-total: 1566423
+employee-donor-count: 1292
 ---
 
 
@@ -211,6 +214,32 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 6,938 |
+| Total Amount | $1,566,423 |
+| Unique Employee Donors | ~1,292 |
+| Recipient Committees | 44 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Bechtel Corporation]]: $1,093,740 (3086 contributions)
+- [[ActBlue]]: $157,480 (1952 contributions)
+- [[WinRed]]: $105,213 (583 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $75,561 (201 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $24,910 (26 contributions)
+- [[RNC - Republican National Committee]]: $16,783 (200 contributions)
+- [[MAGA Inc]]: $14,007 (43 contributions)
+- [[_Ted Cruz Master Profile]]: $13,699 (105 contributions)
+- [[_Dan Newhouse Master Profile]]: $13,619 (68 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $11,294 (111 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

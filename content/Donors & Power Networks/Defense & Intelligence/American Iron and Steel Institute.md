@@ -58,6 +58,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 3
+employee-contributions-total: 1000
+employee-donor-count: 3
 ---
 
 <!-- auto:data-panel start -->
@@ -320,6 +323,23 @@ The "national security" frame is the mechanism that makes the transfer invisible
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131832448) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $1,000 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 1 |
+| Election Cycles | 2018, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,000 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

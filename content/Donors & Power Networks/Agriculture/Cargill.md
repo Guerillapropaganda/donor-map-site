@@ -122,6 +122,9 @@ ftc-enforcement-actions: 0
 ftc-hsr-notices: 30
 epa-facilities: 129
 epa-states: "AR, CA, CO, FL, GA, IA, IL, IN, KS, KY, LA, MA, MN, MO, MT, NC, ND, NE, OH, TX, UT, VT, WI"
+employee-contributions: 1600
+employee-contributions-total: 424021
+employee-donor-count: 398
 ---
 
 <!-- auto:data-panel start -->
@@ -791,6 +794,32 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,600 |
+| Total Amount | $424,021 |
+| Unique Employee Donors | ~398 |
+| Recipient Committees | 39 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $205,464 (887 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $58,473 (82 contributions)
+- [[WinRed]]: $45,468 (264 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $17,433 (45 contributions)
+- [[_Ron Johnson Master Profile]]: $14,100 (14 contributions)
+- [[RNC - Republican National Committee]]: $12,380 (125 contributions)
+- [[FreedomWorks for America]]: $10,000 (3 contributions)
+- [[_Pete Stauber Master Profile]]: $10,000 (6 contributions)
+- [[_Marco Rubio Master Profile]]: $8,800 (7 contributions)
+- [[_Angie Craig Master Profile]]: $3,535 (8 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

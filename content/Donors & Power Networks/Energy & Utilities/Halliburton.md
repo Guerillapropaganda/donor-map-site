@@ -99,6 +99,9 @@ total-spent: 194788
 cash-on-hand: 309852
 individual-contributions: 247050
 contributions-to-committees: 135000
+employee-contributions: 2511
+employee-contributions-total: 418270
+employee-donor-count: 346
 ---
 
 <!-- auto:data-panel start -->
@@ -352,6 +355,32 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,511 |
+| Total Amount | $418,270 |
+| Unique Employee Donors | ~346 |
+| Recipient Committees | 24 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Halliburton]]: $298,164 (1226 contributions)
+- [[ActBlue]]: $43,256 (512 contributions)
+- [[WinRed]]: $29,422 (175 contributions)
+- [[RNC - Republican National Committee]]: $15,313 (181 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $4,634 (66 contributions)
+- [[_Ted Cruz Master Profile]]: $4,016 (25 contributions)
+- [[Trump Victory]]: $3,530 (3 contributions)
+- [[MAGA Inc]]: $3,420 (15 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $3,275 (71 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $2,907 (90 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

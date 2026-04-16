@@ -32,6 +32,9 @@ total-spent: 84000
 cash-on-hand: 44060
 individual-contributions: 127500
 contributions-to-committees: 84000
+employee-contributions: 2147
+employee-contributions-total: 799687
+employee-donor-count: 400
 ---
 
 <!-- auto:data-panel start -->
@@ -222,6 +225,32 @@ IPO/corporate finance. Prop 22 as pre-IPO regulatory investment
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,147 |
+| Total Amount | $799,687 |
+| Unique Employee Donors | ~400 |
+| Recipient Committees | 44 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[DoorDash]]: $344,750 (87 contributions)
+- [[ActBlue]]: $332,609 (1110 contributions)
+- [[WinRed]]: $18,978 (493 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $16,574 (25 contributions)
+- [[_Alex Padilla Master Profile]]: $13,600 (6 contributions)
+- [[Mark Kelly]]: $9,694 (9 contributions)
+- [[_Jon Ossoff Master Profile]]: $7,374 (29 contributions)
+- [[_Martin Heinrich Master Profile]]: $5,800 (2 contributions)
+- [[_Lauren Underwood Master Profile]]: $5,606 (27 contributions)
+- [[_Josh Harder Master Profile]]: $3,700 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

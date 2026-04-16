@@ -21,6 +21,9 @@ total-raised: 149439
 total-spent: 203735
 cash-on-hand: 22736
 individual-contributions: 140096
+employee-contributions: 3
+employee-contributions-total: 30
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -44,3 +47,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `MADISON PROJECT INC.`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $30 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $30 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

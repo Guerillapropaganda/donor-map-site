@@ -48,6 +48,9 @@ total-spent: 58186
 cash-on-hand: 266291
 independent-expenditures: 10000
 contributions-to-committees: 48000
+employee-contributions: 2887
+employee-contributions-total: 101609
+employee-donor-count: 264
 ---
 
 <!-- auto:data-panel start -->
@@ -263,6 +266,30 @@ CNA's political operation spends $10-20M per cycle on California and federal cam
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Nurses%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,887 |
+| Total Amount | $101,609 |
+| Unique Employee Donors | ~264 |
+| Recipient Committees | 8 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $54,448 (585 contributions)
+- [[National Nurses United]]: $43,875 (2214 contributions)
+- [[_Cori Bush Master Profile]]: $958 (25 contributions)
+- [[Justice Democrats PAC]]: $870 (25 contributions)
+- [[_Jon Ossoff Master Profile]]: $679 (14 contributions)
+- [[MoveOn.org Political Action]]: $493 (21 contributions)
+- [[Progressive Turnout Project]]: $200 (2 contributions)
+- [[Los Angeles County Democratic Central Committee]]: $86 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

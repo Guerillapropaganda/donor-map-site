@@ -29,6 +29,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 80
+employee-contributions-total: 7937
+employee-donor-count: 10
 ---
 
 <!-- auto:data-panel start -->
@@ -201,3 +204,25 @@ For IBEW members: the Federation is the body through which IBEW's California pol
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 80 |
+| Total Amount | $7,937 |
+| Unique Employee Donors | ~10 |
+| Recipient Committees | 5 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $5,360 (16 contributions)
+- [[Mark Kelly]]: $1,304 (39 contributions)
+- [[Barbara Lee]]: $950 (5 contributions)
+- [[Medicare for All - The Policy That Broke the Party]]: $223 (16 contributions)
+- [[Bob Casey]]: $100 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

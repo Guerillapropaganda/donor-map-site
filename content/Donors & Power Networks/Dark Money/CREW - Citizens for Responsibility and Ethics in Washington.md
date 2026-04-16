@@ -30,6 +30,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 66
+employee-contributions-total: 4330
+employee-donor-count: 12
 ---
 
 <!-- auto:data-panel start -->
@@ -254,6 +257,26 @@ CREW occupies a specific structural position in the American political ecosystem
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/30445391) (Tier 1)
 
 <!-- auto:nonprofit-990 pending-merge end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 66 |
+| Total Amount | $4,330 |
+| Unique Employee Donors | ~12 |
+| Recipient Committees | 4 |
+| Election Cycles | 2016, 2018, 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,985 (41 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $850 (11 contributions)
+- [[_Tammy Baldwin Master Profile]]: $395 (13 contributions)
+- [[Emily's List]]: $100 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

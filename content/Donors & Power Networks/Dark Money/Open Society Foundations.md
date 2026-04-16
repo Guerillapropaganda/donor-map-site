@@ -37,6 +37,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 589
+employee-contributions-total: 130748
+employee-donor-count: 127
 ---
 
 <!-- auto:data-panel start -->
@@ -291,6 +294,32 @@ The donor class needs its progressive wing. OSF provides it, professionally mana
 - Rona v. Trump (2025) — District Court, S.D. New York
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 589 |
+| Total Amount | $130,748 |
+| Unique Employee Donors | ~127 |
+| Recipient Committees | 23 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $111,056 (509 contributions)
+- [[_George Whitesides Master Profile]]: $3,300 (1 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $3,250 (3 contributions)
+- [[Mark Kelly]]: $2,400 (4 contributions)
+- [[_Elissa Slotkin Master Profile]]: $2,000 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $1,242 (42 contributions)
+- [[Catherine Cortez Masto]]: $1,150 (4 contributions)
+- [[_Gabe Vasquez Master Profile]]: $1,000 (1 contributions)
+- [[_Jamie Raskin Master Profile]]: $500 (2 contributions)
+- [[_Kamala Harris Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

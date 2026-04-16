@@ -13,6 +13,9 @@ known-gaps:
 source-types: []
 related: "[[Stand Together]] · [[Judicial Crisis Network]]"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 40
+employee-contributions-total: 6256
+employee-donor-count: 8
 ---
 
 
@@ -36,3 +39,24 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 Donor-advised fund that anonymizes conservative giving. Called the "dark money ATM of the right." Channels hundreds of millions to conservative nonprofits while shielding donor identities.
 
 Profile pending enrichment.
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 40 |
+| Total Amount | $6,256 |
+| Unique Employee Donors | ~8 |
+| Recipient Committees | 4 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $4,855 (19 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $550 (12 contributions)
+- [[_Ted Cruz Master Profile]]: $500 (1 contributions)
+- [[RNC - Republican National Committee]]: $351 (8 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

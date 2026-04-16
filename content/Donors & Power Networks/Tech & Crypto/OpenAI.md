@@ -58,6 +58,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 3
 epa-states: "CA"
+employee-contributions: 452
+employee-contributions-total: 25990449
+employee-donor-count: 182
 ---
 
 <!-- auto:data-panel start -->
@@ -248,6 +251,32 @@ Favorable AI regulation (that permits continued scaling), federal preemption of 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 452 |
+| Total Amount | $25,990,449 |
+| Unique Employee Donors | ~182 |
+| Recipient Committees | 20 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[AI Deregulation Super PAC - Leading the Future]]: $12,500,000 (1 contributions)
+- [[MAGA Inc]]: $12,500,000 (1 contributions)
+- [[ActBlue]]: $745,125 (370 contributions)
+- [[Winsenate]]: $100,000 (1 contributions)
+- [[_Scott Wiener Master Profile]]: $64,950 (26 contributions)
+- [[WinRed]]: $39,725 (12 contributions)
+- [[_Josh Harder Master Profile]]: $8,900 (3 contributions)
+- [[_Susie Lee Master Profile]]: $7,699 (4 contributions)
+- [[_Lisa Blunt Rochester Master Profile]]: $6,600 (2 contributions)
+- [[_Martin Heinrich Master Profile]]: $3,800 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

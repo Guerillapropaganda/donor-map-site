@@ -75,6 +75,9 @@ total-spent: 5000
 cash-on-hand: 12374
 individual-contributions: 12000
 contributions-to-committees: 5000
+employee-contributions: 4887
+employee-contributions-total: 1123672
+employee-donor-count: 831
 ---
 
 <!-- auto:data-panel start -->
@@ -381,6 +384,32 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4,887 |
+| Total Amount | $1,123,672 |
+| Unique Employee Donors | ~831 |
+| Recipient Committees | 51 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $772,563 (3461 contributions)
+- [[Winsenate]]: $100,575 (6 contributions)
+- [[Lyft]]: $81,001 (49 contributions)
+- [[WinRed]]: $33,131 (363 contributions)
+- [[_Cory Booker Master Profile]]: $23,400 (9 contributions)
+- [[_Jon Ossoff Master Profile]]: $19,974 (58 contributions)
+- [[_Alex Padilla Master Profile]]: $11,700 (6 contributions)
+- [[_Josh Riley Master Profile]]: $7,050 (5 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $6,730 (77 contributions)
+- [[RNC - Republican National Committee]]: $5,877 (196 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -77,6 +77,11 @@ total-spent: 545255
 cash-on-hand: 797058
 individual-contributions: 478115
 contributions-to-committees: 479500
+federal-grants: 2
+federal-grants-total: -2
+employee-contributions: 127718
+employee-contributions-total: 6057995
+employee-donor-count: 10546
 ---
 
 <!-- auto:data-panel start -->
@@ -427,6 +432,53 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 2 |
+| Total Obligation | $-2 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Agriculture: $-2
+
+**Top programs:**
+
+- ENVIRONMENTAL QUALITY INCENTIVES PROGRAM
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 127,718 |
+| Total Amount | $6,057,995 |
+| Unique Employee Donors | ~10,546 |
+| Recipient Committees | 120 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Bank of America]]: $3,243,355 (99792 contributions)
+- [[ActBlue]]: $1,678,668 (17810 contributions)
+- [[WinRed]]: $324,958 (2345 contributions)
+- [[MAGA Inc]]: $80,516 (374 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $78,254 (1526 contributions)
+- [[The Lincoln Project]]: $77,819 (350 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $75,496 (768 contributions)
+- [[RNC - Republican National Committee]]: $52,895 (660 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $40,739 (806 contributions)
+- [[_Jon Ossoff Master Profile]]: $22,010 (283 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

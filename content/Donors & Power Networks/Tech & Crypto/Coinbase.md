@@ -47,6 +47,9 @@ total-spent: 167013
 cash-on-hand: 4406
 individual-contributions: 114254
 contributions-to-committees: 154000
+employee-contributions: 2148
+employee-contributions-total: 3479704
+employee-donor-count: 398
 ---
 
 <!-- auto:data-panel start -->
@@ -296,6 +299,32 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Coinbase) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,148 |
+| Total Amount | $3,479,704 |
+| Unique Employee Donors | ~398 |
+| Recipient Committees | 56 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,057,835 (648 contributions)
+- [[Fairshake PAC - Crypto Super PAC]]: $1,006,179 (5 contributions)
+- [[WinRed]]: $540,754 (150 contributions)
+- [[Coinbase]]: $360,757 (1203 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $108,600 (7 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $91,350 (5 contributions)
+- [[_Tim Scott Master Profile]]: $80,970 (20 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $44,300 (1 contributions)
+- [[_Andy Barr Master Profile]]: $23,500 (7 contributions)
+- [[_Alex Padilla Master Profile]]: $16,350 (7 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -38,6 +38,9 @@ total-spent: 103877
 cash-on-hand: 11966
 individual-contributions: 82482
 contributions-to-committees: 103000
+employee-contributions: 2721
+employee-contributions-total: 76463
+employee-donor-count: 264
 ---
 
 
@@ -250,3 +253,28 @@ National Nurses United represents class analysis embedded within labor organizin
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,721 |
+| Total Amount | $76,463 |
+| Unique Employee Donors | ~264 |
+| Recipient Committees | 8 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Nurses United]]: $38,975 (2039 contributions)
+- [[ActBlue]]: $34,044 (643 contributions)
+- [[Indivisible Action]]: $1,500 (1 contributions)
+- [[Working Families Party PAC]]: $1,189 (8 contributions)
+- [[_Rashida Tlaib Master Profile]]: $384 (14 contributions)
+- [[Winsenate]]: $260 (2 contributions)
+- [[Let America Vote PAC]]: $61 (13 contributions)
+- [[Mark Kelly]]: $50 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

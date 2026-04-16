@@ -70,6 +70,9 @@ audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[John Boehner]], [[Cory Booker]], [[Barack Obama]], [[Joe Biden]], [[Paul Ryan]]"
 epa-facilities: 5
 epa-states: "CA"
+employee-contributions: 6014
+employee-contributions-total: 1023588
+employee-donor-count: 1116
 ---
 
 <!-- auto:data-panel start -->
@@ -549,6 +552,32 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 6,014 |
+| Total Amount | $1,023,588 |
+| Unique Employee Donors | ~1,116 |
+| Recipient Committees | 66 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $766,537 (3713 contributions)
+- [[WinRed]]: $49,967 (281 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $21,680 (103 contributions)
+- [[Mark Kelly]]: $20,368 (67 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $17,416 (338 contributions)
+- [[_Cory Booker Master Profile]]: $15,050 (14 contributions)
+- [[RNC - Republican National Committee]]: $13,481 (205 contributions)
+- [[MAGA Inc]]: $12,406 (60 contributions)
+- [[Giffords PAC]]: $9,835 (29 contributions)
+- [[_Pete Aguilar Master Profile]]: $9,000 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

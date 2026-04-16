@@ -63,6 +63,9 @@ total-spent: 760411
 cash-on-hand: 527969
 individual-contributions: 908284
 contributions-to-committees: 516500
+employee-contributions: 114709
+employee-contributions-total: 7115027
+employee-donor-count: 6372
 ---
 
 <!-- auto:data-panel start -->
@@ -347,6 +350,32 @@ _Variant firm names in FDA data: AbbVie Inc.; AbbVie Inc_
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 114,709 |
+| Total Amount | $7,115,027 |
+| Unique Employee Donors | ~6,372 |
+| Recipient Committees | 62 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[AbbVie]]: $6,227,223 (107298 contributions)
+- [[ActBlue]]: $558,803 (4292 contributions)
+- [[WinRed]]: $94,344 (815 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $36,996 (314 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $26,172 (413 contributions)
+- [[MAGA Inc]]: $20,856 (115 contributions)
+- [[RNC - Republican National Committee]]: $20,273 (325 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $14,762 (240 contributions)
+- [[The Lincoln Project]]: $13,153 (157 contributions)
+- [[_Jon Ossoff Master Profile]]: $12,388 (69 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

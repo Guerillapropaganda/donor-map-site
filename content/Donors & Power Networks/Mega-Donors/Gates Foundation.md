@@ -68,6 +68,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 433
+employee-contributions-total: 145521
+employee-donor-count: 146
 ---
 
 <!-- auto:data-panel start -->
@@ -326,6 +329,32 @@ The tax-exempt structure is the foundation of the foundation: every dollar Gates
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/562618866) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 433 |
+| Total Amount | $145,521 |
+| Unique Employee Donors | ~146 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $90,323 (321 contributions)
+- [[Reclaim America PAC]]: $25,000 (5 contributions)
+- [[_Marco Rubio Master Profile]]: $10,900 (4 contributions)
+- [[_Susie Lee Master Profile]]: $5,800 (2 contributions)
+- [[Mark Kelly]]: $2,880 (8 contributions)
+- [[Emily's List]]: $2,775 (66 contributions)
+- [[_Jon Ossoff Master Profile]]: $2,250 (2 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $2,150 (9 contributions)
+- [[Human Rights Campaign Equality Votes]]: $750 (2 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $550 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

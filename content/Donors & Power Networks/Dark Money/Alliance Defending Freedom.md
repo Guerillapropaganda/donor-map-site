@@ -30,6 +30,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 43
+employee-contributions-total: 27121
+employee-donor-count: 21
 ---
 
 <!-- auto:data-panel start -->
@@ -171,6 +174,32 @@ The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Alliance_Defending_Freedom) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4732297) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 43 |
+| Total Amount | $27,121 |
+| Unique Employee Donors | ~21 |
+| Recipient Committees | 10 |
+| Election Cycles | 2016, 2018, 2020, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $13,825 (13 contributions)
+- [[Women Speak Out Pac]]: $10,000 (2 contributions)
+- [[RNC - Republican National Committee]]: $596 (19 contributions)
+- [[_Claudia Tenney Master Profile]]: $500 (1 contributions)
+- [[SLF PAC]]: $500 (1 contributions)
+- [[_Eric Burlison Master Profile]]: $500 (1 contributions)
+- [[MAGA Inc]]: $475 (1 contributions)
+- [[Trump Victory]]: $300 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $250 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $175 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

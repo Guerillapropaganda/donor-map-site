@@ -43,6 +43,9 @@ reenrich-reason: run lda pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 1
 epa-states: "CA"
+employee-contributions: 2502
+employee-contributions-total: 323668
+employee-donor-count: 456
 ---
 
 <!-- auto:data-panel start -->
@@ -180,3 +183,30 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,502 |
+| Total Amount | $323,668 |
+| Unique Employee Donors | ~456 |
+| Recipient Committees | 43 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $199,716 (1444 contributions)
+- [[WinRed]]: $27,546 (142 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $13,958 (159 contributions)
+- [[RNC - Republican National Committee]]: $7,120 (83 contributions)
+- [[_Susie Lee Master Profile]]: $5,900 (7 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $5,290 (195 contributions)
+- [[_Cory Booker Master Profile]]: $5,000 (1 contributions)
+- [[Planned Parenthood Votes]]: $5,000 (1 contributions)
+- [[Planned Parenthood Action Fund INC]]: $5,000 (1 contributions)
+- [[Mark Kelly]]: $4,715 (11 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

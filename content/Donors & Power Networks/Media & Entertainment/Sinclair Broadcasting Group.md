@@ -58,6 +58,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+employee-contributions: 150
+employee-contributions-total: 71427
+employee-donor-count: 29
 ---
 
 
@@ -277,6 +280,30 @@ Sinclair's success also reveals **regulatory capture in media:** FCC nominally r
 - Franchise Group, Inc. (2024) — United States Bankruptcy Court, D. Delaware
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 150 |
+| Total Amount | $71,427 |
+| Unique Employee Donors | ~29 |
+| Recipient Committees | 8 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[NRSC - National Republican Senatorial Committee]]: $37,500 (3 contributions)
+- [[_Andy Harris Master Profile]]: $20,100 (7 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $5,275 (12 contributions)
+- [[ActBlue]]: $5,026 (83 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $2,500 (22 contributions)
+- [[National Rifle Association]]: $500 (1 contributions)
+- [[_Nancy Pelosi Master Profile]]: $488 (20 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $38 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

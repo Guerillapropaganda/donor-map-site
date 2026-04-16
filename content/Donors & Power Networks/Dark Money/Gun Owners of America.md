@@ -43,6 +43,9 @@ total-spent: 5633
 cash-on-hand: 4469
 individual-contributions: 6752
 contributions-to-committees: 1500
+employee-contributions: 5
+employee-contributions-total: 385
+employee-donor-count: 3
 ---
 
 <!-- auto:data-panel start -->
@@ -296,6 +299,24 @@ Gun Owners of America (GOA) is a gun rights organization in the United States. I
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Gun_Owners_of_America) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1771871) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5 |
+| Total Amount | $385 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 2 |
+| Election Cycles | 2016, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $310 (3 contributions)
+- [[Senate Conservatives Fund]]: $75 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

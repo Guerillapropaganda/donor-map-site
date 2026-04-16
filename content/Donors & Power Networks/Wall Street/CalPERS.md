@@ -51,6 +51,9 @@ lobbying-spend: 480000
 lobbying-filings: 14
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
+employee-contributions: 645
+employee-contributions-total: 38564
+employee-donor-count: 78
 ---
 
 <!-- auto:data-panel start -->
@@ -328,6 +331,32 @@ The Buenrostro scandal was the system's most visible failure, but the structure 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 645 |
+| Total Amount | $38,564 |
+| Unique Employee Donors | ~78 |
+| Recipient Committees | 22 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $21,409 (447 contributions)
+- [[WinRed]]: $8,144 (47 contributions)
+- [[MAGA Inc]]: $2,047 (18 contributions)
+- [[_John James Master Profile]]: $1,166 (9 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $910 (27 contributions)
+- [[RNC - Republican National Committee]]: $768 (6 contributions)
+- [[_Nancy Pelosi Master Profile]]: $640 (13 contributions)
+- [[J Street]]: $500 (2 contributions)
+- [[_Jim Jordan Master Profile]]: $500 (4 contributions)
+- [[Mark Kelly]]: $400 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -41,6 +41,9 @@ total-spent: 335435
 cash-on-hand: 59632
 individual-contributions: 332489
 contributions-to-committees: 334000
+employee-contributions: 1446
+employee-contributions-total: 203645
+employee-donor-count: 204
 ---
 
 <!-- auto:data-panel start -->
@@ -190,6 +193,32 @@ Continued relaxed radio ownership limits, favorable music licensing rates (iHear
 
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/ec54d52d-6189-4661-937a-029bdbfed71a-P/latest) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,446 |
+| Total Amount | $203,645 |
+| Unique Employee Donors | ~204 |
+| Recipient Committees | 34 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $152,119 (1107 contributions)
+- [[iHeartMedia]]: $16,835 (25 contributions)
+- [[WinRed]]: $7,723 (26 contributions)
+- [[MoveOn.org Political Action]]: $6,346 (123 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $3,345 (49 contributions)
+- [[VIEW PAC - Value in Electing Women]]: $2,000 (2 contributions)
+- [[_Ted Cruz Master Profile]]: $1,705 (11 contributions)
+- [[_Joe Neguse Master Profile]]: $1,250 (2 contributions)
+- [[Progressive Turnout Project]]: $1,082 (18 contributions)
+- [[_Kamala Harris Master Profile]]: $1,000 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

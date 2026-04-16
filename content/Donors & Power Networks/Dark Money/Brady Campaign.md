@@ -52,6 +52,9 @@ regulatory-agencies:
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 1
+employee-contributions-total: 250
+employee-donor-count: 1
 ---
 
 
@@ -465,6 +468,23 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1)
 
 <!-- auto:federal-register pending-merge end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $250 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

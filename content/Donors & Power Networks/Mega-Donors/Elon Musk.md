@@ -47,6 +47,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 13
+employee-contributions-total: 3750
+employee-donor-count: 4
 ---
 
 <!-- auto:data-panel start -->
@@ -529,6 +532,26 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
 
 <!-- auto:sec-edgar pending-merge end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 13 |
+| Total Amount | $3,750 |
+| Unique Employee Donors | ~4 |
+| Recipient Committees | 4 |
+| Election Cycles | 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,000 (2 contributions)
+- [[WinRed]]: $850 (5 contributions)
+- [[National Victory Action Fund]]: $600 (4 contributions)
+- [[_Marco Rubio Master Profile]]: $300 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

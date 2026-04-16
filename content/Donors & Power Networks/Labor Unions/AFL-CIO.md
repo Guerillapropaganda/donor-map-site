@@ -51,6 +51,9 @@ total-spent: 4124
 cash-on-hand: 58621
 individual-contributions: 12048
 contributions-to-committees: 3500
+employee-contributions: 1125
+employee-contributions-total: 192330
+employee-donor-count: 258
 ---
 
 <!-- auto:data-panel start -->
@@ -338,6 +341,32 @@ AFL-CIO President Shuler's framing: tariffs "can be an effective tool" but must 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AFL-CIO%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,125 |
+| Total Amount | $192,330 |
+| Unique Employee Donors | ~258 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[AFL-CIO]]: $126,586 (698 contributions)
+- [[ActBlue]]: $52,871 (362 contributions)
+- [[_Jamie Raskin Master Profile]]: $4,568 (12 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $2,957 (21 contributions)
+- [[Mad Dog PAC]]: $1,483 (9 contributions)
+- [[WinRed]]: $1,000 (1 contributions)
+- [[_Debbie Wasserman Schultz Master Profile]]: $500 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $500 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $350 (7 contributions)
+- [[DNC - Democratic National Committee]]: $300 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

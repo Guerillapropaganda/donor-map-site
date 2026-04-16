@@ -22,6 +22,9 @@ total-spent: 9373252
 cash-on-hand: 2387752
 individual-contributions: 2589021
 contributions-to-committees: 10000
+employee-contributions: 33
+employee-contributions-total: 15362
+employee-donor-count: 14
 ---
 
 ## Auto-Created Stub
@@ -39,3 +42,26 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `REPUBLICAN PARTY OF FLORIDA`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 33 |
+| Total Amount | $15,362 |
+| Unique Employee Donors | ~14 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Republican Party of Florida]]: $12,025 (10 contributions)
+- [[WinRed]]: $2,210 (15 contributions)
+- [[_Daniel Webster Master Profile]]: $750 (2 contributions)
+- [[Trump Victory]]: $250 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $75 (3 contributions)
+- [[MAGA Inc]]: $52 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

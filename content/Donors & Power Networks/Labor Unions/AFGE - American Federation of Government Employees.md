@@ -28,6 +28,9 @@ checklist-na:
 federal-contracts: 1
 federal-awards-total: 10000
 total-spent: 73857
+employee-contributions: 535
+employee-contributions-total: 39301
+employee-donor-count: 100
 ---
 
 <!-- auto:data-panel start -->
@@ -272,6 +275,32 @@ This means AFGE's defense of federal jobs is simultaneously defense of privilege
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 535 |
+| Total Amount | $39,301 |
+| Unique Employee Donors | ~100 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $30,252 (393 contributions)
+- [[Let America Vote PAC]]: $1,588 (22 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,551 (12 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $1,388 (10 contributions)
+- [[MoveOn.org Political Action]]: $1,220 (47 contributions)
+- [[Bob Casey]]: $900 (8 contributions)
+- [[Catherine Cortez Masto]]: $725 (13 contributions)
+- [[_Dwight Evans Master Profile]]: $350 (2 contributions)
+- [[Congressional Progressive Caucus PAC]]: $285 (15 contributions)
+- [[_Jamie Raskin Master Profile]]: $266 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

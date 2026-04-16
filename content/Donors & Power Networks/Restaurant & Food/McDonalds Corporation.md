@@ -59,6 +59,9 @@ total-spent: 442887
 cash-on-hand: 364209
 individual-contributions: 435239
 contributions-to-committees: 433500
+employee-contributions: 11663
+employee-contributions-total: 3902388
+employee-donor-count: 2554
 ---
 
 <!-- auto:data-panel start -->
@@ -208,6 +211,32 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 11,663 |
+| Total Amount | $3,902,388 |
+| Unique Employee Donors | ~2,554 |
+| Recipient Committees | 83 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[McDonalds Corporation]]: $3,169,001 (5283 contributions)
+- [[ActBlue]]: $308,004 (3275 contributions)
+- [[WinRed]]: $126,504 (1251 contributions)
+- [[RNC - Republican National Committee]]: $69,366 (255 contributions)
+- [[MAGA Inc]]: $29,860 (71 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $20,950 (298 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $20,192 (180 contributions)
+- [[_Dave Min Master Profile]]: $19,700 (8 contributions)
+- [[_Lauren Underwood Master Profile]]: $14,000 (13 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $7,533 (249 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

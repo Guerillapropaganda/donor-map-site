@@ -55,6 +55,9 @@ occ-enforcement-actions: 4
 occ-active-actions: 4
 occ-charter-numbers:
   - "22381"
+employee-contributions: 4
+employee-contributions-total: 1111
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -235,6 +238,23 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 
 <!-- auto:occ-enforcement pending-merge end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4 |
+| Total Amount | $1,111 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $1,111 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

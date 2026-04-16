@@ -37,6 +37,9 @@ total-spent: 533291
 cash-on-hand: 188703
 individual-contributions: 387440
 contributions-to-committees: 512677
+employee-contributions: 7025
+employee-contributions-total: 2546541
+employee-donor-count: 1004
 ---
 
 <!-- auto:data-panel start -->
@@ -285,6 +288,32 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 7,025 |
+| Total Amount | $2,546,541 |
+| Unique Employee Donors | ~1,004 |
+| Recipient Committees | 18 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Nucor Corporation]]: $2,181,602 (6386 contributions)
+- [[WinRed]]: $111,828 (253 contributions)
+- [[RNC - Republican National Committee]]: $106,526 (88 contributions)
+- [[Trump Victory]]: $100,300 (20 contributions)
+- [[ActBlue]]: $22,201 (180 contributions)
+- [[MAGA Inc]]: $5,844 (14 contributions)
+- [[Nancy Mace]]: $5,400 (9 contributions)
+- [[_Ron Johnson Master Profile]]: $4,100 (6 contributions)
+- [[Bernie Moreno]]: $2,374 (3 contributions)
+- [[_Ted Cruz Master Profile]]: $2,000 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

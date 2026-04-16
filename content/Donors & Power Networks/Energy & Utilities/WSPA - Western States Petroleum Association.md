@@ -25,6 +25,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
 epa-states: "PA"
+employee-contributions: 23
+employee-contributions-total: 3097
+employee-donor-count: 10
 ---
 
 <!-- auto:data-panel start -->
@@ -134,6 +137,26 @@ WSPA's primary political function is fighting California's climate regulations: 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 23 |
+| Total Amount | $3,097 |
+| Unique Employee Donors | ~10 |
+| Recipient Committees | 4 |
+| Election Cycles | 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,450 (5 contributions)
+- [[WinRed]]: $1,197 (15 contributions)
+- [[_Robert Garcia Master Profile]]: $250 (1 contributions)
+- [[RNC - Republican National Committee]]: $200 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -48,6 +48,9 @@ epa-facilities: 16
 epa-states: "CA"
 federal-contracts: 1
 federal-awards-total: 14400
+employee-contributions: 26468
+employee-contributions-total: 10203461
+employee-donor-count: 6059
 ---
 
 <!-- auto:data-panel start -->
@@ -443,6 +446,32 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 26,468 |
+| Total Amount | $10,203,461 |
+| Unique Employee Donors | ~6,059 |
+| Recipient Committees | 125 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $7,790,761 (21275 contributions)
+- [[Emily's List]]: $518,720 (125 contributions)
+- [[WinRed]]: $314,130 (547 contributions)
+- [[_Jon Ossoff Master Profile]]: $190,291 (758 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $165,627 (627 contributions)
+- [[RNC - Republican National Committee]]: $155,232 (28 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $117,233 (395 contributions)
+- [[Mark Kelly]]: $94,975 (251 contributions)
+- [[Winsenate]]: $86,800 (66 contributions)
+- [[The Lincoln Project]]: $51,106 (214 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

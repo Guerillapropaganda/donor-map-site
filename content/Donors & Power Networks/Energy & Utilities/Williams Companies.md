@@ -81,6 +81,9 @@ cross-vault-triangulation-count: 4
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 118
+employee-contributions-total: 26402
+employee-donor-count: 20
 ---
 
 <!-- auto:data-panel start -->
@@ -310,6 +313,31 @@ Williams Companies represents the "moderate face" of fossil fuel political spend
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237413843) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 118 |
+| Total Amount | $26,402 |
+| Unique Employee Donors | ~20 |
+| Recipient Committees | 9 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $20,036 (13 contributions)
+- [[ActBlue]]: $4,947 (78 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $275 (11 contributions)
+- [[_Marco Rubio Master Profile]]: $265 (2 contributions)
+- [[FreedomWorks for America]]: $254 (2 contributions)
+- [[Winsenate]]: $250 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $192 (6 contributions)
+- [[Emily's List]]: $180 (4 contributions)
+- [[MAGA Inc]]: $3 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

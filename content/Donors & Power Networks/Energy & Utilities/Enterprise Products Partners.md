@@ -42,6 +42,9 @@ cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
 epa-states: "CO"
+employee-contributions: 66
+employee-contributions-total: 239960
+employee-donor-count: 36
 ---
 
 <!-- auto:data-panel start -->
@@ -246,6 +249,32 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 66 |
+| Total Amount | $239,960 |
+| Unique Employee Donors | ~36 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $86,310 (16 contributions)
+- [[Trump Victory]]: $57,200 (2 contributions)
+- [[_Tony Gonzales Master Profile]]: $25,100 (9 contributions)
+- [[Congressional Leadership Fund]]: $25,000 (1 contributions)
+- [[_August Pfluger Master Profile]]: $8,400 (2 contributions)
+- [[RNC - Republican National Committee]]: $7,700 (3 contributions)
+- [[_Jason Smith Master Profile]]: $6,700 (2 contributions)
+- [[MAGA Inc]]: $6,150 (5 contributions)
+- [[ActBlue]]: $4,248 (6 contributions)
+- [[_Jake Ellzey Master Profile]]: $4,000 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

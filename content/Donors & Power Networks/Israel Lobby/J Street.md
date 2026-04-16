@@ -28,6 +28,9 @@ total-spent: 3586585
 cash-on-hand: 134034
 individual-contributions: 3572940
 contributions-to-committees: 3437152
+employee-contributions: 89
+employee-contributions-total: 36138
+employee-donor-count: 40
 ---
 
 <!-- auto:data-panel start -->
@@ -183,6 +186,32 @@ Domestic, campus free speech, antisemitism definition debates (opposes conflatio
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 89 |
+| Total Amount | $36,138 |
+| Unique Employee Donors | ~40 |
+| Recipient Committees | 10 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[J Street]]: $29,068 (45 contributions)
+- [[ActBlue]]: $4,995 (32 contributions)
+- [[_Emily Randall Master Profile]]: $750 (2 contributions)
+- [[Barbara Lee]]: $250 (1 contributions)
+- [[_Chris Pappas Master Profile]]: $250 (1 contributions)
+- [[_Martin Heinrich Master Profile]]: $250 (1 contributions)
+- [[_Jamie Raskin Master Profile]]: $250 (1 contributions)
+- [[_Nancy Pelosi Master Profile]]: $125 (4 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $100 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $100 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

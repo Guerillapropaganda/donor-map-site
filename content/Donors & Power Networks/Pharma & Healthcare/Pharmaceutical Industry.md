@@ -76,6 +76,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 37
+employee-contributions-total: 5561
+employee-donor-count: 10
 ---
 
 <!-- auto:data-panel start -->
@@ -361,6 +364,27 @@ The pharmaceutical industry's political operation reveals the most complete exam
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 37 |
+| Total Amount | $5,561 |
+| Unique Employee Donors | ~10 |
+| Recipient Committees | 5 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $4,082 (24 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $656 (9 contributions)
+- [[_Jon Ossoff Master Profile]]: $416 (2 contributions)
+- [[WinRed]]: $377 (1 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $30 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

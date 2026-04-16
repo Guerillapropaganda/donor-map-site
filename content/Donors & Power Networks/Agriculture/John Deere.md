@@ -75,6 +75,9 @@ lobbying-spend: 1894623
 lobbying-filings: 138
 epa-facilities: 9
 epa-states: "ID, IL, MN, NC, ND, OR, VT"
+employee-contributions: 2371
+employee-contributions-total: 144353
+employee-donor-count: 305
 ---
 
 <!-- auto:data-panel start -->
@@ -658,6 +661,32 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,371 |
+| Total Amount | $144,353 |
+| Unique Employee Donors | ~305 |
+| Recipient Committees | 26 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $79,685 (1273 contributions)
+- [[WinRed]]: $24,297 (380 contributions)
+- [[RNC - Republican National Committee]]: $18,677 (102 contributions)
+- [[MAGA Inc]]: $4,073 (43 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,292 (98 contributions)
+- [[Justice Democrats PAC]]: $1,910 (35 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $1,653 (77 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,282 (25 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $1,194 (52 contributions)
+- [[Save America PAC]]: $1,187 (19 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

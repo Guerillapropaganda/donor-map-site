@@ -90,6 +90,9 @@ cross-vault-triangulation-count: 3
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 39
 epa-states: "AR, CA, CT, FL, GA, IA, LA, MA, MI, NJ, NM, NY, PA, PR, TX, UT"
+employee-contributions: 176094
+employee-contributions-total: 5659895
+employee-donor-count: 16162
 ---
 
 <!-- auto:data-panel start -->
@@ -340,6 +343,32 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 176,094 |
+| Total Amount | $5,659,895 |
+| Unique Employee Donors | ~16,162 |
+| Recipient Committees | 106 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Walmart - Walton Family]]: $3,096,509 (104638 contributions)
+- [[ActBlue]]: $992,382 (30367 contributions)
+- [[WinRed]]: $503,156 (14656 contributions)
+- [[HMP]]: $177,988 (254 contributions)
+- [[RNC - Republican National Committee]]: $177,405 (4511 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $161,554 (6926 contributions)
+- [[MAGA Inc]]: $106,168 (855 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $95,266 (2872 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $50,356 (2173 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $44,261 (1352 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

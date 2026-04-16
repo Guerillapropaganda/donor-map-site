@@ -46,6 +46,9 @@ total-spent: 44674
 cash-on-hand: 79991
 individual-contributions: 12916
 contributions-to-committees: 29819
+employee-contributions: 370
+employee-contributions-total: 85874
+employee-donor-count: 93
 ---
 
 <!-- auto:data-panel start -->
@@ -306,6 +309,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Everytown%20for%20Gun%20Safety%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 370 |
+| Total Amount | $85,874 |
+| Unique Employee Donors | ~93 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $72,498 (328 contributions)
+- [[Giffords PAC]]: $5,000 (1 contributions)
+- [[Everytown for Gun Safety]]: $1,258 (1 contributions)
+- [[_Tammy Baldwin Master Profile]]: $1,000 (1 contributions)
+- [[_Elissa Slotkin Master Profile]]: $1,000 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $800 (16 contributions)
+- [[Emily's List]]: $750 (2 contributions)
+- [[_Gabe Amo Master Profile]]: $750 (2 contributions)
+- [[_Mike Levin Master Profile]]: $550 (2 contributions)
+- [[Barbara Lee]]: $520 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

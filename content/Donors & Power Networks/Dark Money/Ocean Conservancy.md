@@ -41,6 +41,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 87
+employee-contributions-total: 23436
+employee-donor-count: 33
 ---
 
 <!-- auto:data-panel start -->
@@ -299,6 +302,28 @@ The pattern mirrors what has been documented across the environmental nonprofit 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/237245152) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 87 |
+| Total Amount | $23,436 |
+| Unique Employee Donors | ~33 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $20,186 (73 contributions)
+- [[_Summer Lee Master Profile]]: $1,500 (3 contributions)
+- [[Winsenate]]: $550 (4 contributions)
+- [[The Lincoln Project]]: $500 (2 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $500 (1 contributions)
+- [[Catherine Cortez Masto]]: $200 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

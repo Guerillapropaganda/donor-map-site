@@ -13,6 +13,9 @@ known-gaps:
 source-types: []
 related: "[[National Rental Home Council]] · [[Invitation Homes - Institutional Landlords]]"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 39
+employee-contributions-total: 30545
+employee-donor-count: 16
 ---
 
 
@@ -36,3 +39,25 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 Institutional single-family home landlord. One of the largest corporate landlords in the US. Part of the Wall Street-to-Main Street housing extraction pipeline.
 
 Profile pending enrichment.
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 39 |
+| Total Amount | $30,545 |
+| Unique Employee Donors | ~16 |
+| Recipient Committees | 5 |
+| Election Cycles | 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Rental Home Council]]: $18,000 (7 contributions)
+- [[WinRed]]: $4,980 (9 contributions)
+- [[ActBlue]]: $4,365 (21 contributions)
+- [[_Tim Scott Master Profile]]: $2,900 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $300 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -60,6 +60,9 @@ total-spent: 714073
 cash-on-hand: 448394
 individual-contributions: 558930
 contributions-to-committees: 648500
+employee-contributions: 372
+employee-contributions-total: 261344
+employee-donor-count: 96
 ---
 
 <!-- auto:data-panel start -->
@@ -313,6 +316,32 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 372 |
+| Total Amount | $261,344 |
+| Unique Employee Donors | ~96 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Restaurant Association]]: $176,018 (291 contributions)
+- [[ActBlue]]: $38,215 (50 contributions)
+- [[WinRed]]: $13,061 (9 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $12,500 (3 contributions)
+- [[_Pete Ricketts Master Profile]]: $6,000 (5 contributions)
+- [[Trump Victory]]: $4,000 (1 contributions)
+- [[MAGA Inc]]: $3,000 (3 contributions)
+- [[_Virginia Foxx Master Profile]]: $2,700 (1 contributions)
+- [[_Don Bacon Master Profile]]: $1,000 (1 contributions)
+- [[_Andy Barr Master Profile]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

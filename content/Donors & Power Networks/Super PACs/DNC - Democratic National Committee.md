@@ -25,6 +25,9 @@ total-raised: 6824143
 total-spent: 10472132
 cash-on-hand: 808442
 individual-contributions: 1372456
+employee-contributions: 458
+employee-contributions-total: 147449
+employee-donor-count: 159
 ---
 
 ## Auto-Created Stub
@@ -63,3 +66,30 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 458 |
+| Total Amount | $147,449 |
+| Unique Employee Donors | ~159 |
+| Recipient Committees | 24 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $114,737 (347 contributions)
+- [[Emily's List]]: $7,036 (16 contributions)
+- [[Democratic Party of Virginia]]: $4,490 (20 contributions)
+- [[Catherine Cortez Masto]]: $3,400 (2 contributions)
+- [[WinRed]]: $3,301 (37 contributions)
+- [[_Tammy Baldwin Master Profile]]: $2,300 (5 contributions)
+- [[DNC - Democratic National Committee]]: $2,000 (1 contributions)
+- [[_Adriano Espaillat Master Profile]]: $2,000 (1 contributions)
+- [[_Kweisi Mfume Master Profile]]: $1,000 (1 contributions)
+- [[_Cory Booker Master Profile]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

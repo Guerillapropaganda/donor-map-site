@@ -64,6 +64,9 @@ total-spent: 770828
 cash-on-hand: 274209
 individual-contributions: 772103
 contributions-to-committees: 770000
+employee-contributions: 15872
+employee-contributions-total: 1655397
+employee-donor-count: 1643
 ---
 
 <!-- auto:data-panel start -->
@@ -433,6 +436,32 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 15,872 |
+| Total Amount | $1,655,397 |
+| Unique Employee Donors | ~1,643 |
+| Recipient Committees | 70 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[BAE Systems]]: $904,937 (8876 contributions)
+- [[ActBlue]]: $386,723 (3316 contributions)
+- [[WinRed]]: $141,359 (897 contributions)
+- [[RNC - Republican National Committee]]: $39,505 (611 contributions)
+- [[MAGA Inc]]: $27,022 (103 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $20,933 (309 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $17,964 (284 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $14,818 (328 contributions)
+- [[Nancy Mace]]: $9,850 (7 contributions)
+- [[_Jon Ossoff Master Profile]]: $8,926 (73 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

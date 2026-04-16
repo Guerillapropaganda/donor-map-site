@@ -63,6 +63,9 @@ cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
 epa-states: "IL, MD"
+employee-contributions: 188
+employee-contributions-total: 565997
+employee-donor-count: 114
 ---
 
 <!-- auto:data-panel start -->
@@ -411,6 +414,32 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 188 |
+| Total Amount | $565,997 |
+| Unique Employee Donors | ~114 |
+| Recipient Committees | 22 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $287,180 (110 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $111,000 (10 contributions)
+- [[WinRed]]: $47,366 (23 contributions)
+- [[RNC - Republican National Committee]]: $35,000 (2 contributions)
+- [[Bob Casey]]: $34,300 (15 contributions)
+- [[SLF PAC]]: $25,000 (1 contributions)
+- [[_Yassamin Ansari Master Profile]]: $7,000 (2 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $4,500 (3 contributions)
+- [[The Lincoln Project]]: $2,855 (5 contributions)
+- [[Planned Parenthood Votes]]: $2,500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

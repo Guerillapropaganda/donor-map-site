@@ -38,6 +38,9 @@ cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 1068
+employee-contributions-total: 100215
+employee-donor-count: 153
 ---
 
 <!-- auto:data-panel start -->
@@ -158,6 +161,32 @@ Independent contractor classification for gig workers (nationally and in every s
 - Uncle Nearest, Inc. (2026) — United States Bankruptcy Court, E.D. Tennessee
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,068 |
+| Total Amount | $100,215 |
+| Unique Employee Donors | ~153 |
+| Recipient Committees | 20 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $71,436 (453 contributions)
+- [[_Josh Riley Master Profile]]: $10,500 (8 contributions)
+- [[WinRed]]: $7,323 (479 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $4,771 (31 contributions)
+- [[_Josh Harder Master Profile]]: $2,000 (3 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $797 (28 contributions)
+- [[_Ted Cruz Master Profile]]: $546 (10 contributions)
+- [[_Jon Ossoff Master Profile]]: $386 (2 contributions)
+- [[Barbara Lee]]: $355 (6 contributions)
+- [[The Lincoln Project]]: $285 (6 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

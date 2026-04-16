@@ -66,6 +66,9 @@ total-spent: 652510
 cash-on-hand: 645674
 individual-contributions: 789319
 contributions-to-committees: 584500
+employee-contributions: 38826
+employee-contributions-total: 4823803
+employee-donor-count: 2689
 ---
 
 <!-- auto:data-panel start -->
@@ -380,6 +383,32 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 38,826 |
+| Total Amount | $4,823,803 |
+| Unique Employee Donors | ~2,689 |
+| Recipient Committees | 65 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Citigroup]]: $3,623,971 (33821 contributions)
+- [[ActBlue]]: $718,703 (3187 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $93,320 (117 contributions)
+- [[WinRed]]: $65,782 (202 contributions)
+- [[The Lincoln Project]]: $57,680 (97 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $45,740 (101 contributions)
+- [[_Tim Scott Master Profile]]: $36,250 (20 contributions)
+- [[_Donald Norcross Master Profile]]: $19,400 (9 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $18,161 (385 contributions)
+- [[RNC - Republican National Committee]]: $17,053 (169 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

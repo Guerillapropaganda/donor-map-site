@@ -25,6 +25,11 @@ epa-facilities: 6
 epa-states: "CA, MN, ND, OH, TX, WI"
 federal-contracts: 37
 federal-awards-total: 1844862
+federal-grants: 27
+federal-grants-total: 775649
+employee-contributions: 2703
+employee-contributions-total: 7024218
+employee-donor-count: 554
 ---
 
 <!-- auto:data-panel start -->
@@ -207,3 +212,52 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 27 |
+| Total Obligation | $775,649 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Education: $775,649
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,703 |
+| Total Amount | $7,024,218 |
+| Unique Employee Donors | ~554 |
+| Recipient Committees | 65 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[SLF PAC]]: $6,000,000 (4 contributions)
+- [[ActBlue]]: $615,736 (1842 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $130,999 (108 contributions)
+- [[WinRed]]: $76,341 (104 contributions)
+- [[Trump Victory]]: $36,000 (2 contributions)
+- [[RNC - Republican National Committee]]: $30,484 (11 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $29,328 (187 contributions)
+- [[_Kamala Harris Master Profile]]: $17,083 (11 contributions)
+- [[Emily's List]]: $11,975 (43 contributions)
+- [[_Tammy Baldwin Master Profile]]: $7,250 (9 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
