@@ -11,6 +11,7 @@ ProfileTabs.afterDOMLoaded = `
     { id: 'donors', label: 'The Money' },
     { id: 'voting', label: 'Key Votes' },
     { id: 'analysis', label: 'Analysis' },
+    { id: 'timeline', label: 'Timeline' },
     { id: 'sources', label: 'Sources' }
   ];
   var PRESIDENTIAL_TABS = [
@@ -18,6 +19,7 @@ ProfileTabs.afterDOMLoaded = `
     { id: 'donors', label: 'The Money' },
     { id: 'executive', label: 'Executive Actions' },
     { id: 'analysis', label: 'Analysis' },
+    { id: 'timeline', label: 'Timeline' },
     { id: 'sources', label: 'Sources' }
   ];
   var DONOR_TABS = [
@@ -25,6 +27,7 @@ ProfileTabs.afterDOMLoaded = `
     { id: 'recipients', label: 'Recipients' },
     { id: 'wins', label: 'Policy Wins' },
     { id: 'analysis', label: 'Analysis' },
+    { id: 'timeline', label: 'Timeline' },
     { id: 'sources', label: 'Sources' }
   ];
 

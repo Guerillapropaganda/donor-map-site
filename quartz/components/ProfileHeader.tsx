@@ -246,7 +246,7 @@ function wrapProfileSections() {
         if (isClassAnalysis || text.indexOf('who ') !== -1 || text.indexOf('bio') === 0 || text.indexOf('background') !== -1 || text.indexOf('about') === 0) tab = 'overview';
         else if (variant.indexOf('psc-donors') !== -1 || text.indexOf('the money') !== -1 || text.indexOf('the donor class') !== -1 || text.indexOf('personal grift') !== -1 || text.indexOf('tax cuts') !== -1 || text.indexOf('epstein') !== -1 || text.indexOf('mega-donor') !== -1 || text.indexOf('industry sector') !== -1) tab = 'donors';
         else if (variant.indexOf('psc-executive') !== -1 || variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1 || text.indexOf('executive action') !== -1 || text.indexOf('key vote') !== -1) tab = 'voting';
-        else if (variant.indexOf('psc-timeline') !== -1 || text.indexOf('timeline') !== -1 || text.indexOf('donation-to-policy') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-timeline') !== -1 || text.indexOf('timeline') !== -1 || text.indexOf('donation-to-policy') !== -1) tab = 'timeline';
         else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1 || text.indexOf('influence network') !== -1 || text.indexOf('connections') !== -1) tab = 'analysis';
         else if (variant.indexOf('psc-sources') !== -1 || text.indexOf('related') !== -1 || text.indexOf('archived') !== -1) tab = 'sources';
       }

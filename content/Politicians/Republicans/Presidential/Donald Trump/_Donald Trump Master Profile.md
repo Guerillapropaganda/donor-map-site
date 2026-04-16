@@ -249,8 +249,50 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 ## Timeline
 
 <!-- template:auto:timeline -->
-<!-- Auto-populated at build time. Reverse-chronological events from data/events.jsonl + FEC cycles + executive actions. -->
-_[Auto-generated content will appear here]_
+_Auto-generated from `data/events.jsonl`, `data/relationships.jsonl` cycles, and Executive Orders table. 2 events, 3 cycles, 25 executive orders, 0 editorial entries. Regenerate: `node scripts/profile-timeline-generator.cjs --write <path>`_
+
+### 2026
+
+- **2026-12-31** [fec-cycle] 2026 cycle — Received $26K across 2 edge(s) from 2 donor(s). Top: Planned Parenthood Votes, Emgage Federal Political Action Committee
+- **2026-04-03** [executive-order] Ensuring Citizenship Verification and Integrity in Federal Elections
+- **2026-03-31** [executive-order] Addressing DEI Discrimination by Federal Contractors
+- **2026-03-27** [executive-order] Further Continuance of the Federal Emergency Management Agency Review Council
+- **2026-03-25** [executive-order] Preserving America's Game
+- **2026-03-19** [executive-order] Establishing the Task Force To Eliminate Fraud
+- **2026-03-18** [executive-order] Removing Regulatory Barriers to Affordable Home Construction
+- **2026-03-18** [executive-order] Promoting Access to Mortgage Credit
+- **2026-03-18** [executive-order] Ensuring Truthful Advertising of Products Claiming To Be Made in America
+- **2026-03-18** [executive-order] Adjusting Certain Delegations Under the Defense Production Act
+- **2026-03-11** [executive-order] Combating Cybercrime, Fraud, and Predatory Schemes Against American Citizens
+- **2026-02-25** [executive-order] Ending Certain Tariff Actions
+- **2026-02-25** [executive-order] Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries
+- **2026-02-23** [executive-order] Promoting the National Defense by Ensuring an Adequate Supply of Elemental Phosphorus and Glyphosate- Based Herbicides
+- **2026-02-17** [executive-order] Strengthening United States National Defense With America's Beautiful Clean Coal Power Generation Fleet
+- **2026-02-11** [executive-order] Protecting the National Security and Welfare of the United States and Its Citizens From Criminal Actors and Other Public Safety Threats
+- **2026-02-11** [executive-order] Modifying Duties To Address Threats to the United States by the Government of the Russian Federation
+- **2026-02-11** [executive-order] Establishing an America First Arms Transfer Strategy
+- **2026-02-11** [executive-order] Addressing Threats to the United States by the Government of Iran
+- **2026-02-04** [executive-order] Celebrating American Greatness With American Motor Racing
+- **2026-02-03** [executive-order] Addressing Threats to the United States by the Government of Cuba
+- **2026-02-03** [executive-order] Addressing Addiction Through the Great American Recovery Initiative
+- **2026-01-29** [executive-order] Continuance of the Federal Emergency Management Agency Review Council
+- **2026-01-29** [executive-order] Addressing State and Local Failures To Rebuild Los Angeles After Wildfire Disasters
+- **2026-01-23** [executive-order] Stopping Wall Street From Competing With Main Street Homebuyers
+- **2026-01-22** [executive-order] Designating the Board of Peace as a Public International Organization Entitled To Enjoy Certain Privileges, Exemptions, and Immunities
+
+### 2025
+
+- **2025-05-21** [bill_introduction] S.Res. 243: A resolution condemning the financial entanglements of World Liberty Financial, Inc. with President Donald J. Trump, the Trump family, and the Trump Administration.
+- **2025-05-21** [bill_introduction] S.Res. 245: A resolution condemning the financial entanglements of President Donald J. Trump with the $TRUMP meme coin.
+
+### 2024
+
+- **2024-12-31** [fec-cycle] 2024 cycle — Received $722.6M across 64 edge(s) from 64 donor(s). Top: DMFI - Democratic Majority for Israel, MAGA Inc, Mad Dog PAC
+
+### 2022
+
+- **2022-12-31** [fec-cycle] 2022 cycle — Received $1.6M across 10 edge(s) from 10 donor(s). Top: Planned Parenthood Votes, SEIU COPE, Really American Pac
+
 <!-- template:auto:timeline:end -->
 
 ## Connections to Existing Vault
