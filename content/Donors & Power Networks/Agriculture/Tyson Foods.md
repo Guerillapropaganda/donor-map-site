@@ -48,7 +48,7 @@ court-jurisdictions:
   - District Court, W.D. Oklahoma
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-federal-awards-total: 218070634
+federal-awards-total: 465605213
 federal-contracts-count: 25
 federal-grants-count: 0
 cross-vault-triangulation-count: 9
@@ -106,6 +106,9 @@ lei: "WD6L6041MNRW1JE49D58"
 lei-jurisdiction: "US-DE"
 lobbying-spend: 5030000
 lobbying-filings: 30
+epa-facilities: 40
+epa-states: "AL, AR, CT, GA, IA, ID, MD, MO, NC, NE, NJ, OK, PA, TX, VA"
+federal-contracts: 141
 ---
 
 <!-- auto:data-panel start -->
@@ -409,22 +412,16 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $220.0M |
-| Contracts (recent 3yr) | 25 ($490.1M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 1 |
+| Federal Contracts | 141 |
+| Total Obligation | $465,605,213 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $29.6M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000009015/4400001627/4100026817/CHICKEN WHOLE BAGGED FRZ CTN-36 |
-| $28.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010990/4100032985/CHICKEN LARGE CHILLED -BULK |
-| $27.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010352/4100031038/CHICKEN LARGE CHILLED -BULK |
-| $26.7M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010261/4100030713/CHICKEN LARGE CHILLED -BULK |
-| $25.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011083/4100033455/CHICKEN LARGE CHILLED -BULK |
+- Department of Agriculture: $465,605,213
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 <!-- auto:usaspending pending-merge 2026-04-15 -->
@@ -698,6 +695,19 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 40 |
+| States | 15 (AL, AR, CT, GA, IA, ID, MD, MO, NC, NE, NJ, OK, PA, TX, VA) |
+| Registry IDs | 110002452435, 110002339381, 110002129900, 110000517316, 110038611730 +35 more |
+
+**Facility locations:** FAYETTEVILLE, AR, CHARLESTON, AR, PARIS, AR, ORANGE CITY, IA, OXFORD, AL, VIENNA, GA, DAWSON, GA, DEXTER, MO, BROKEN BOW, OK, MADISON, NE +18 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

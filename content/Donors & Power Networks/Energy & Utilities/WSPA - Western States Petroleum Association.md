@@ -23,6 +23,8 @@ related: "[[Valero Energy]] · [[Environment - Donors and Backers]] · [[Economi
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+epa-facilities: 1
+epa-states: "PA"
 ---
 
 <!-- auto:data-panel start -->
@@ -119,6 +121,19 @@ WSPA's primary political function is fighting California's climate regulations: 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/950596680) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (PA) |
+| Registry IDs | 110012803822 |
+
+**Facility locations:** SPRAGGS, PA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

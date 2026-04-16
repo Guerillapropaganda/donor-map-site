@@ -52,6 +52,8 @@ court-jurisdictions:
   - District Court, S.D. Florida
 cross-vault-triangulation-count: 15
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 12
+epa-states: "CA, FL, KY, NV, TX, WA"
 ---
 
 <!-- auto:data-panel start -->
@@ -514,6 +516,19 @@ Amazon is the most complete case study in the vault of how a single corporation 
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 12 |
+| States | 6 (CA, FL, KY, NV, TX, WA) |
+| Registry IDs | 110032759968, 110039228323, 110070095489, 110071670499, 110070460331 +7 more |
+
+**Facility locations:** FORT MYERS, FL, SEATTLE, WA, SAN BERNARDINO, CA, DALLAS, TX, SACRAMENTO, CA, ONTARIO, CA, WINCHESTER, KY, SAN FRANCISCO, CA, SAN LUIS OBISPO, CA, LAS VEGAS, NV +1 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

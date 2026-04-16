@@ -52,6 +52,8 @@ lobbying-filings: 16
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
+epa-facilities: 76
+epa-states: "AL, AZ, CA, CT, FL, GA, HI, IA, IL, IN, KS, KY, MA, MI, MN, MO, MS, NC, NE, NJ, OH, OR, PA, PR, SC, TN, TX, VA, WI, WV, WY"
 ---
 
 <!-- auto:data-panel start -->
@@ -156,6 +158,19 @@ Patent protection for genetically modified seeds (preventing farmers from saving
 **Agencies contacted:** Commerce, Dept of (DOC), HOUSE OF REPRESENTATIVES, Natl Security Council (NSC), SENATE, Securities & Exchange Commission (SEC)
 
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 76 |
+| States | 31 (AL, AZ, CA, CT, FL, GA, HI, IA, IL, IN, KS, KY, MA, MI, MN, MO, MS, NC, NE, NJ, OH, OR, PA, PR, SC, TN, TX, VA, WI, WV, WY) |
+| Registry IDs | 110008327186, 110002653600, 110023164653, 110003008593, 110007058325 +71 more |
+
+**Facility locations:** VERO BEACH, FL, SANTA CLARA, CA, DURHAM, NC, BLOOMFIELD, CT, WILLIAMSBURG, IA, MISHAWAKA, IN, OXFORD, IN, DWIGHT, IL, ULYSSES, KS, WICHITA, KS +57 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

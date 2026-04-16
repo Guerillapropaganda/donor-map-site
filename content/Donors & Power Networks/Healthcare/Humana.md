@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, W.D. Kentucky"
   - "United States Bankruptcy Court, W.D. Kentucky"
 related: "[[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Hospital Corporation of America - HCA]] · [[Anthem - Elevance Health Political Operation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Anthem - Elevance Health]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]]"
-federal-awards-total: 4870581193
+federal-awards-total: 3193941331
 federal-contracts-count: 3
 federal-grants-count: 12
 subawards-issued: 1
@@ -51,6 +51,9 @@ ftc-enforcement-actions: 0
 ftc-hsr-notices: 20
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 3
+epa-states: "KY, SC"
+federal-contracts: 126
 ---
 
 <!-- auto:data-panel start -->
@@ -173,30 +176,17 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $4.9B |
-| Contracts (recent 3yr) | 3 ($77.5B sampled) |
-| Grants (recent 3yr) | 12 ($40.4M sampled) |
-| Federal Agencies | 5 |
+| Federal Contracts | 126 |
+| Total Obligation | $3,193,941,331 |
+| Fiscal Years | 2024 |
+| Awarding Agencies | 2 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $51.3B | Department of Defense | IGF::OT::IGF |
-| $20.5B | Department of Defense | T3 MANAGED CARE SUPPORT CONTRACT FOR SOUTH REGION |
-| $5.8B | Department of Defense | TRICARE MANAGED CARE SUPPORT SERVICES CONTRACT, 5TH GENERATION EAST REGION |
+- Department of Defense: $3,065,661,687
+- Department of Veterans Affairs: $128,279,644
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $17.6M | Department of Health and Human Services | PROJECT TONGA NZOTO; IN CONGOLESE THIS MEANS "REVITALIZE YOUR HEALTH" OR "BUILD UP YOUR BODY." |
-| $8.7M | Agency for International Development | FIXED AMOUNT AWARD ON THE BOTSWANA COMMUNITY FOCUSED HIV/AIDS PROGRAM WITH A PROVISION OF COMMUNITY- |
-| $8.2M | Agency for International Development | REDUCE TB, IMPLEMENTED BY HPP-CONGO AND PARTNER APSME, WILL EMPOWER LOCAL COMMUNITIES AND HEALTH SER |
-| $4.5M | Department of Health and Human Services | TOTAL CONTROL OF THE EPIDEMIC TCE KINSHASA - LOCAL CONGOLESE NGO HUMANA PEOPLE TO PEOPLE CONGO (HPP- |
-| $474K | Inter-American Foundation | FOR FARMING COMMUNITIES IN THE SOUTHERN REGION OF THE FRANCISCO MORAZÁN DEPARTMENT, REPEATED DROUGHT |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1068e466-707d-6b6f-367f-0255fab79b8c-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -274,6 +264,19 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Humana) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 2 (KY, SC) |
+| Registry IDs | 110006543598, 110003216430, 110064676854 |
+
+**Facility locations:** LOUISVILLE, KY, LANCASTER, SC
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

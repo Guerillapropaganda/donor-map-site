@@ -52,12 +52,15 @@ regulatory-agencies:
   - Housing and Urban Development Department
   - National Oceanic and Atmospheric Administration
 related: "[[The Judiciary Committee and Tech Accountability]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Venture Capital Senator - Tech Wealth in the Senate]] · [[The Commerce Committee and Boeing Washington]] · [[The Commerce Committee and Big Tech Jurisdiction]] · [[The Climate and Commerce Committee Jurisdiction]] · [[The Antitrust Crusade and Legislative Stalling]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[Patty Murray]] · [[Google - Alphabet]] · [[Amazon]] · [[Apple]] · [[OpenAI]] · [[Palantir Technologies]] · [[Cathy McMorris Rodgers Master Profile]] · [[Amy Klobuchar]] · [[Oracle]] · [[Pramila Jayapal]] · [[Nvidia]] · [[Meta - Facebook]] · [[Anthropic]] · [[AI Regulation and Tech Donors]] · [[Bill Gates]]"
-federal-awards-total: 470321891
+federal-awards-total: 1052776577
 federal-contracts-count: 25
 federal-grants-count: 0
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[Patty Murray]]"
+epa-facilities: 23
+epa-states: "CA, MA, TX, VA, WA"
+federal-contracts: 955
 ---
 
 <!-- auto:data-panel start -->
@@ -350,23 +353,39 @@ Microsoft represents the corporate capture of government technology infrastructu
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $470.3M |
-| Contracts (recent 3yr) | 25 ($1.8B sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 955 |
+| Total Obligation | $1,052,776,577 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 15 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $220.0M | Department of Defense | MICROSOFT CONSULTING SERVICES (MCS) AND MICROSOFT PREMIER SUPPORT (MPS) FOR THE UNITED STATES MARINE |
-| $172.5M | Department of Defense | ARMY CYBER COMMANDS MICROSOFT CONSULTING SERVICES AND MICROSOFT PREMIER SUPPORT |
-| $160.7M | Department of Defense | IGF::OT::IGF - METSS FOR USMC |
-| $148.0M | Department of Defense | IGF::OT::IGF LABOR |
-| $119.5M | Department of Defense | MICROSOFT CONSULTING SERVICES (MCS) AND UNIFIED SUPPORT FOR THE U.S. NAVY / PROGRAM EXECUTIVE OFFICE |
+- Department of Defense: $856,585,406
+- Department of Agriculture: $49,940,312
+- Department of State: $47,152,978
+- Department of Justice: $43,871,233
+- Social Security Administration: $22,982,322
+- Department of Homeland Security: $17,085,360
+- Department of Transportation: $10,990,211
+- Smithsonian Institution: $3,864,785
+- District of Columbia Courts: $347,121
+- National Gallery of Art: $178,441
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd77b7c3-663e-cb91-229f-5766a50e9b7f-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 23 |
+| States | 5 (CA, MA, TX, VA, WA) |
+| Registry IDs | 110006816838, 110005350949, 110054209637, 110018850894, 110035309476 +18 more |
+
+**Facility locations:** CAMBRIDGE, MA, REDMOND, WA, SANTA CLARA, CA, SAN ANTONIO, TX, WARRENTON, VA, SUNNYVALE, CA, MOUNTAIN VIEW, CA, SAN JOSE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

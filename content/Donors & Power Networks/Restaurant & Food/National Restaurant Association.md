@@ -53,6 +53,8 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+federal-contracts: 2
+federal-awards-total: 11560
 ---
 
 <!-- auto:data-panel start -->
@@ -290,6 +292,22 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 2 |
+| Total Obligation | $11,560 |
+| Fiscal Years | 2024 |
+| Awarding Agencies | 1 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $11,560
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

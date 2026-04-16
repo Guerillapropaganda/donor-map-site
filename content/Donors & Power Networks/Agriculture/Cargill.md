@@ -120,6 +120,8 @@ lobbying-spend: 4875000
 lobbying-filings: 50
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 30
+epa-facilities: 129
+epa-states: "AR, CA, CO, FL, GA, IA, IL, IN, KS, KY, LA, MA, MN, MO, MT, NC, ND, NE, OH, TX, UT, VT, WI"
 ---
 
 <!-- auto:data-panel start -->
@@ -776,6 +778,19 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cargill) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 129 |
+| States | 23 (AR, CA, CO, FL, GA, IA, IL, IN, KS, KY, LA, MA, MN, MO, MT, NC, ND, NE, OH, TX, UT, VT, WI) |
+| Registry IDs | 110000770595, 110007349244, 110002360720, 110002318082, 110003004043 +124 more |
+
+**Facility locations:** SAN BERNARDINO, CA, SPRINGDALE, AR, DENVER, CO, FULLERTON, CA, SHELBYVILLE, KY, ATLANTIC, IA, FOREST PARK, GA, SIOUX CITY, IA, MOUNT CARMEL, IL, PRINCETON, IN +95 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

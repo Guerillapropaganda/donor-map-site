@@ -22,6 +22,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -125,6 +127,19 @@ The Supreme Court upheld the law in January 2025. The implementation has been co
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=TikTok%20-%20ByteDance) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110072046809 |
+
+**Facility locations:** SAN JOSE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

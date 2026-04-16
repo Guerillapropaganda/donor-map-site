@@ -9,7 +9,7 @@ sector: "Pharma & Healthcare"
 entity-type: "Corporation"
 issues:
   - "Healthcare"
-federal-awards-total: 0
+federal-awards-total: 2041811751
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 1
@@ -83,6 +83,9 @@ fda-recalls-class-i: 14
 nonprofit-status: "501(c)(3)"
 total-revenue: 29100015
 total-assets: 255288291
+epa-facilities: 32
+epa-states: "CA, CT, IL, IN, MA, MO, NC, NJ, NY, OH, PA"
+federal-contracts: 1340
 ---
 
 <!-- auto:data-panel start -->
@@ -226,31 +229,22 @@ The RFK Jr. disruption is structurally interesting because it represents the one
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
-
 | Metric | Value |
 |--------|-------|
-| Contracts (recent 3yr) | 25 ($31.9B sampled) |
-| Grants (recent 3yr) | 1 ($1.5M sampled) |
-| Federal Agencies | 4 |
+| Federal Contracts | 1,340 |
+| Total Obligation | $2,041,811,751 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 5 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $12.5B | Department of Defense | AWARD OF 10M TREATMENT COURSES OF ORAL PROTEASE INHIBITOR PF-07321332 |
-| $11.1B | Department of Defense | COVID-19 VACCINE PRODUCTION |
-| $4.2B | Agency for International Development | COVID-19 VACCINES FOR INTERNATIONAL DONATION |
-| $4.0B | Department of Defense | COVID-19 ADULT MDV VACCINE |
-| $69.7M | Department of Health and Human Services | IGF::OT::IGF |
+- Department of Health and Human Services: $2,062,376,518
+- Department of Veterans Affairs: $458,306
+- Department of Justice: $5,098
+- Department of Defense: $-1,560,477
+- Agency for International Development: $-19,467,694
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $1.5M | Department of Health and Human Services | DEVELOPING A NOVEL ANTIFUNGAL TARGETING GWT1 FOR THE TREATMENT OF INVASIVE ASPERGILLOSIS AND RARE MO |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Pfizer%20Inc.) (Tier 1) (VERIFIED)
-
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Sources
@@ -473,6 +467,19 @@ _Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer In
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/136083839) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 32 |
+| States | 11 (CA, CT, IL, IN, MA, MO, NC, NJ, NY, OH, PA) |
+| Registry IDs | 110007906114, 110007945901, 110004413741, 110008117947, 110043644321 +27 more |
+
+**Facility locations:** WEST TRENTON, NJ, SAYREVILLE, NJ, NEW YORK, NY, GIBSONBURG, OH, SAN DIEGO, CA, CAMBRIDGE, MA, SOUTH SAN FRANCISCO, CA, CHESTERFIELD, MO, SANFORD, NC, BROOKLYN, NY +13 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

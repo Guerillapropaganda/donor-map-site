@@ -41,7 +41,7 @@ sec-form-types:
   - "SC 13G/A"
   - "SCHEDULE 13G/A"
 related: "[[Real Estate Industry Bloc]] · [[National Association of Realtors]] · [[Real Estate Roundtable]] · [[Blackstone Real Estate]]"
-federal-awards-total: 87656
+federal-awards-total: 22596647
 federal-contracts-count: 3
 federal-grants-count: 0
 top-federal-agency: "General Services Administration"
@@ -66,6 +66,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+epa-facilities: 12
+epa-states: "AL, CA, CO, IL, MA"
+federal-contracts: 293
 ---
 
 <!-- auto:data-panel start -->
@@ -154,20 +157,23 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $88K |
-| Contracts (recent 3yr) | 3 ($353K sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 293 |
+| Total Obligation | $22,596,647 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 8 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $193K | Department of the Treasury | EXPERT WITNESS SERVICES |
-| $144K | Department of the Treasury | TRACS0001866 - APPROVAL DATE 5/2/25. EXPERT WITNESS SERVICES REQUIRED FOR VALUATION OF REAL ESTATE F |
-| $15K | Environmental Protection Agency | SMALL INSTRUMENT CALIBRATION FOR CENTRIFUGES, PH METERS, THERMOCYCLERS, THERMOMETERS, AND SPECTROPHO |
+- General Services Administration: $17,135,362
+- Department of State: $3,710,543
+- Millennium Challenge Corporation: $1,533,827
+- Department of the Interior: $173,000
+- Department of Defense: $28,500
+- Department of the Treasury: $21,656
+- Environmental Protection Agency: $-161
+- Department of Justice: $-6,080
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/7e86b7d3-1a74-95d4-dd2e-e89f86cc9d2b-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -223,6 +229,19 @@ Preservation of 1031 exchanges, favorable commercial real estate depreciation sc
 - CVS PHARMACY, INC. v. NEW RITE AID, LLC (2025) — District Court, D. New Jersey
 
 <!-- auto:courtlistener-cases end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 12 |
+| States | 5 (AL, CA, CO, IL, MA) |
+| Registry IDs | 110046319890, 110071198808, 110070206530, 110072096326, 110069222530 +7 more |
+
+**Facility locations:** STATEWIDE, CO, MOUNTAIN VIEW, CA, CHICAGO, IL, SAN FRANCISCO, CA, BIRMINGHAM, AL, WALNUT CREEK, CA, LEXINGTON, MA, SAN CARLOS, CA, ANAHEIM, CA, SAN DIEGO, CA +1 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

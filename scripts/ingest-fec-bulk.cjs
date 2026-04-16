@@ -90,17 +90,13 @@ async function main() {
   console.log(`  FEC registry: ${Object.keys(registry).length} committees (${mappedCommittees.length} mapped)`)
 
   // Build committee ID → vault title lookup
+  // Wait until titleIndex is built to resolve proper types
   const cmteToVault = new Map()
-  for (const [cmteId, rec] of mappedCommittees) {
-    // Extract title from vault_profile path
+  const _pendingCmte = mappedCommittees.map(([cmteId, rec]) => {
     const profilePath = rec.vault_profile
     const basename = path.basename(profilePath, '.md').replace(/^_/, '').replace(/ Master Profile$/, '')
-    cmteToVault.set(cmteId, {
-      title: basename,
-      path: profilePath,
-      type: 'entity',
-    })
-  }
+    return { cmteId, title: basename, path: profilePath }
+  })
 
   // Step 2: Build candidate ID → vault profile lookup from frontmatter
   console.log('  building candidate ID index...')
@@ -132,6 +128,24 @@ async function main() {
   }
   console.log(`    ${candIdToVault.size} candidates with FEC IDs`)
   console.log(`    ${titleIndex.size} titles in index`)
+
+  // Resolve committee types from title index
+  for (const { cmteId, title, path: profilePath } of _pendingCmte) {
+    const normalized = normalizeTitle(title)
+    const entry = titleIndex.get(normalized)
+    let type = 'entity'
+    let subcategory = null
+    if (entry && !Array.isArray(entry)) {
+      type = entry.type || 'entity'
+      subcategory = entry.subcategory || null
+    } else if (Array.isArray(entry)) {
+      const first = entry.find(e => !e.aliasOf) || entry[0]
+      type = first.type || 'entity'
+      subcategory = first.subcategory || null
+    }
+    cmteToVault.set(cmteId, { title: normalized, path: profilePath, type, subcategory })
+  }
+  console.log(`    ${cmteToVault.size} committees resolved with types`)
 
   // Step 3: Process each cycle's PAS2 file
   // Aggregate: Map<"from|to|cycle", { from, to, fromEntry, toEntry, amount, count, cycle }>
@@ -200,6 +214,7 @@ async function main() {
           from: donor.title,
           fromPath: donor.path,
           fromType: donor.type,
+          fromSubcategory: donor.subcategory || null,
           to: politicianTitle,
           toType: politicianEntry.type || 'politician',
           toSubcategory: politicianEntry.subcategory || null,
@@ -243,7 +258,7 @@ async function main() {
       to: agg.to,
       from_type: agg.fromType,
       to_type: agg.toType,
-      from_subcategory: null,
+      from_subcategory: agg.fromSubcategory || null,
       to_subcategory: agg.toSubcategory,
       type: 'monetary',
       direction: 'directed',

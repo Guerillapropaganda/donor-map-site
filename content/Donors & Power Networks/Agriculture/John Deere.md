@@ -73,6 +73,8 @@ total-assets: 220477766
 wikidata-id: "Q98642757"
 lobbying-spend: 1894623
 lobbying-filings: 138
+epa-facilities: 9
+epa-states: "ID, IL, MN, NC, ND, OR, VT"
 ---
 
 <!-- auto:data-panel start -->
@@ -643,6 +645,19 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=John%20Deere) (Tier 1)
 
 <!-- auto:lda-lobbying pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 9 |
+| States | 7 (ID, IL, MN, NC, ND, OR, VT) |
+| Registry IDs | 110005294902, 110030478016, 110018052989, 110018408105, 110045418259 +4 more |
+
+**Facility locations:** HARTFORD, VT, NEZPERCE, ID, EAST MOLINE, IL, URBANA, IL, PENDLETON, OR, (UNKNOWN CITY), ND, KERNERSVILLE, NC
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

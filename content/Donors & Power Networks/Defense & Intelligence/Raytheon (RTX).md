@@ -45,6 +45,10 @@ regulatory-agencies:
   - "Justice Department"
   - "Labor Department"
   - "Securities and Exchange Commission"
+epa-facilities: 75
+epa-states: "AL, AR, AZ, CA, CO, CT, FL, IN, KS, KY, MA, MD, MI, MS, NH, NJ, NY, PA, RI, TX, VA"
+federal-contracts: 18143
+federal-awards-total: 53187942533
 ---
 
 <!-- auto:data-panel start -->
@@ -635,6 +639,44 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 - [Source: Senate Lobbying Disclosures](https://lda.gov/filings/public/filing/search/?client_name=Raytheon%20(RTX%20Corporation) (VERIFIED)) (Tier 1)
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 75 |
+| States | 21 (AL, AR, AZ, CA, CO, CT, FL, IN, KS, KY, MA, MD, MI, MS, NH, NJ, NY, PA, RI, TX, VA) |
+| Registry IDs | 110012212097, 110006381655, 110001176245, 110002333975, 110006487113 +70 more |
+
+**Facility locations:** AURORA, CO, LARGO, FL, OXNARD, CA, EL SEGUNDO, CA, GOLETA, CA, FULLERTON, CA, HUNTSVILLE, AL, LOWELL, MA, WAYLAND, MA, TUCSON, AZ +42 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 18,143 |
+| Total Obligation | $53,187,942,533 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 16 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $52,235,427,810
+- Department of Transportation: $383,857,459
+- National Aeronautics and Space Administration: $281,513,704
+- Department of Commerce: $139,996,499
+- General Services Administration: $87,957,266
+- Department of Homeland Security: $33,870,833
+- Department of Justice: $7,381,024
+- Department of the Treasury: $5,873,938
+- Department of Veterans Affairs: $4,127,876
+- Social Security Administration: $3,073,612
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

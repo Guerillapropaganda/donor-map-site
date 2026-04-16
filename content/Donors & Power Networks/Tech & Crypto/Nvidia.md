@@ -21,6 +21,8 @@ cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 14
+epa-states: "CA, NC"
 ---
 
 <!-- auto:data-panel start -->
@@ -104,6 +106,19 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 - ~~[NVIDIA Recalls Tablet Computers Due to Fire Hazard](https://www.cpsc.gov/Recalls/15204)~~ (URL broken, archived by Ops) (2015-07-31) — The lithium-ion battery in the tablets can overheat, posing a fire hazard.
 
 <!-- auto:cpsc-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 14 |
+| States | 2 (CA, NC) |
+| Registry IDs | 110038079986, 110055701003, 110070471278, 110070415125, 110070486213 +9 more |
+
+**Facility locations:** SANTA CLARA, CA, DURHAM, NC, SUNNYVALE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -74,6 +74,8 @@ total-revenue: 138485
 total-assets: 5548963
 cross-vault-triangulation-count: 21
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 28
+epa-states: "CA, CO, MA, MI, OK, OR, TN, TX"
 ---
 
 <!-- auto:data-panel start -->
@@ -431,6 +433,19 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/202555951) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 28 |
+| States | 8 (CA, CO, MA, MI, OK, OR, TN, TX) |
+| Registry IDs | 110010458511, 110003430840, 110004777402, 110006124522, 110017216804 +23 more |
+
+**Facility locations:** PIRU, CA, DUXBURY, MA, COOS BAY, OR, ORLA, TX, MARTINEZ, CA, SANTA CRUZ, CA, BARTLESVILLE, OK, FREMONT, CA, CHATTANOOGA, TN, WATERFORD, MI +13 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

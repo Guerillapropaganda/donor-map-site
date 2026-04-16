@@ -10,7 +10,7 @@ entity-type: Corporation
 politicians-funded: "[[Donald Trump]]"
 issues:
   - Defense & Military
-federal-awards-total: 5907320427
+federal-awards-total: 16846100446
 federal-contracts-count: 25
 federal-grants-count: 2
 court-cases: 166
@@ -65,6 +65,9 @@ cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 1
+epa-facilities: 23
+epa-states: "CA, FL, IN, MD, NH, NJ, NY, VA"
+federal-contracts: 8111
 ---
 
 <!-- auto:data-panel start -->
@@ -235,33 +238,27 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
-
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $5.9B |
-| Contracts (recent 3yr) | 25 ($14.6B sampled) |
-| Grants (recent 3yr) | 2 ($160K sampled) |
-| Federal Agencies | 4 |
+| Federal Contracts | 8,111 |
+| Total Obligation | $16,846,100,446 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 18 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $2.2B | Department of Defense | 200204!000024!5700!GV59 !ESC/NDK !F1962802C0010 !A!N! !N! !20020130!20020930!052819732!052819732!001 |
-| $1.8B | Department of Commerce | THE PURPOSE OF THIS CONTRACT IS TO DEVELOP THE GROUND SYSTEM THAT WILL SUPPORT NOAA S NEXT GENERATIO |
-| $1.2B | Department of Defense | AWARD OF MAINTENANCE OF SPACE SURVEILLENCE AND INTEGRATED CAPABILITIES CONTRACT |
-| $1.0B | National Aeronautics and Space Administration | TAS::80 0122::TAS DEVELOPMENT, MANUFACTURING AND SUPPORT TO WEATHER OBSERVING INSTRUMENT |
-| $814.4M | National Aeronautics and Space Administration | ENGINEERING SERVICES AND DEVELOPMENT LEADING TO THE DELIVERY OF THE CROSS TRACK INFRARED SOUNDER (CR |
+- Department of Defense: $13,459,712,687
+- Department of Transportation: $1,905,628,798
+- National Aeronautics and Space Administration: $1,071,922,896
+- Department of Commerce: $168,220,555
+- General Services Administration: $100,769,936
+- Department of Homeland Security: $75,541,052
+- Department of Energy: $48,191,579
+- Department of the Interior: $12,295,589
+- Department of Justice: $3,346,622
+- Department of Veterans Affairs: $397,630
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $151K | National Aeronautics and Space Administration | L3HARRIS WILL PROVIDE TRAINING ON THE SOFTWARE DEVELOPMENT PROCESS FOR THE APPSTAR MICRO SDR PLATFOR |
-| $9K | Department of Commerce | GREENHOUSE GAS LASER IMAGING TOMOGRAPHY EXPERIMENT-URBAN (GREENLITE-U) VALIDATION OF MEASUREMENTS OV |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3Harris%20Technologies) (Tier 1) (VERIFIED)
-
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Sources
@@ -503,6 +500,19 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3Harris%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 23 |
+| States | 8 (CA, FL, IN, MD, NH, NJ, NY, VA) |
+| Registry IDs | 110005661382, 110002543169, 110038058981, 110000804372, 110004100829 +18 more |
+
+**Facility locations:** MELBOURNE, FL, VANDENBERG, CA, CLIFTON, NJ, LONDONDERRY, NH, ROCHESTER, NY, VICTOR, NY, CARLSBAD, CA, MOUNT OLIVE, NJ, FORT WAYNE, IN, FOREST, VA +5 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

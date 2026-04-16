@@ -18,6 +18,8 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-11"
 urls-first-triaged: "2026-04-15"
+epa-facilities: 2
+epa-states: "AR, CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -123,3 +125,17 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=ViaPath%20Technologies%20-%20GTL) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 2 (AR, CA) |
+| Registry IDs | 110070566958, 110071736197 |
+
+**Facility locations:** REDFIELD, AR, STOCKTON, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

@@ -60,6 +60,8 @@ lei: 549300QUCKLMUO3B0I31
 lei-jurisdiction: BE
 cross-vault-triangulation-count: 31
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 20
+epa-states: "CA, CT, LA, MI, MN, NJ, PA, RI, TN, TX, VA"
 ---
 
 <!-- auto:data-panel start -->
@@ -601,6 +603,19 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 20 |
+| States | 11 (CA, CT, LA, MI, MN, NJ, PA, RI, TN, TX, VA) |
+| Registry IDs | 110003290135, 110001438640, 110054850229, 110044306097, 110002402356 +15 more |
+
+**Facility locations:** METAIRIE, LA, SAINT PAUL, MN, WAYNE, NJ, NASHVILLE, TN, FAIRFAX, VA, BATON ROUGE, LA, PLEASANTON, CA, HARLEYSVILLE, PA, SAULT SAINTE MARIE, MI, GARDEN GROVE, CA +9 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -26,7 +26,7 @@ ein: "460827839"
 nonprofit-status: 501(c)(3)
 total-revenue: 67617104
 total-assets: 217738010
-federal-awards-total: 378082
+federal-awards-total: 1314431
 federal-contracts-count: 20
 federal-grants-count: 0
 related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie Master Profile]] · [[Merck]] · [[Eli Lilly]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Cornerstone Government Affairs]] · [[PhRMA]] · [[Pfizer]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]]"
@@ -55,6 +55,9 @@ court-jurisdictions:
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Brett Guthrie]]"
+epa-facilities: 8
+epa-states: "CA, IL, MI, PR"
+federal-contracts: 354
 ---
 
 <!-- auto:data-panel start -->
@@ -245,22 +248,18 @@ AbbVie's PAC distributes $1.5-2 million per cycle across both parties, with $30,
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $378K |
-| Contracts (recent 3yr) | 20 ($624K sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 354 |
+| Total Obligation | $1,314,431 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $113K | Department of Veterans Affairs | PHARM - VYALEV |
-| $69K | Department of Veterans Affairs | FOSCARBIDOPA 12MG/ML/FOSLEVODOPA 240MG/ML INJ,SOLN - 4 MONTH SUPPLY |
-| $62K | Department of Veterans Affairs | VYALEV - ANTIPARKINSON AGENTS |
-| $52K | Department of Health and Human Services | ABBVIE US LLC, ALLERGAN BREAST IMPLANT SUPPLIES, PIMC, YEAR 3 |
-| $50K | Department of Health and Human Services | BPA CALL 25F28002 YEAR 2 ABBVIE US LLC PIMC ALLERGAN BREAST IMPLANT SUPPLIES |
+- Department of Defense: $964,528
+- Department of Veterans Affairs: $335,755
+- Department of Health and Human Services: $14,148
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/b143e4e4-6e13-3227-a9be-875c39fabe95-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -330,6 +329,19 @@ _Variant firm names in FDA data: AbbVie Inc.; AbbVie Inc_
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=AbbVie) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 8 |
+| States | 4 (CA, IL, MI, PR) |
+| Registry IDs | 110015873045, 110054154302, 110007806188, 110054154295, 110071265240 +3 more |
+
+**Facility locations:** WYANDOTTE, MI, NORTH CHICAGO, IL, BARCELONETA, PR, WAUKEGAN, IL, SACRAMENTO, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

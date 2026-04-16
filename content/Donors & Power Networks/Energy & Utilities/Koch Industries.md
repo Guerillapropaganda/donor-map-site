@@ -22,7 +22,7 @@ ein: "480834445"
 annual-revenue: $375K
 net-assets: $1.9M
 tax-year: "2023"
-federal-awards-total: 0
+federal-awards-total: 521794
 federal-contracts-count: 10
 federal-grants-count: 0
 related: "[[Eli Lilly]] · [[ALEC Dark Money Protection Machine]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Veterans Affairs and Iowa Agriculture]] · [[John Kennedy Master Profile]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[WSPA - Western States Petroleum Association]] · [[Chevron]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[The Judiciary-Finance Dual Pipeline and Texas Defense]] · [[The Agriculture-Appropriations Pipeline and Arkansas Defense]] · [[The Foreign Relations Committee and Idaho Energy]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[Kevin McCarthy Master Profile]] · [[Cathy McMorris Rodgers Master Profile]] · [[Koch Network - Charles Koch]] · [[Americans for Prosperity]] · [[Stand Together]] · [[DonorsTrust]] · [[Fossil Fuel Bloc]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[US Chamber of Commerce]] · [[Federalist Society]] · [[Club for Growth]] · [[Congressional Leadership Fund]] · [[Senate Leadership Fund]] · [[Freedom Caucus]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[The Small Business Committee and Texas Oil-Auto Pipeline]] · [[Blue Cross Blue Shield Association]] · [[Johnson & Johnson]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]]"
@@ -35,6 +35,9 @@ total-assets: 1900682
 cross-vault-triangulation-count: 35
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Kevin McCarthy]], [[Cathy McMorris Rodgers]], [[John Kennedy]], [[Dan Crenshaw]]"
+epa-facilities: 4
+epa-states: "GA, KS, MN, TX"
+federal-contracts: 3
 ---
 
 <!-- auto:data-panel start -->
@@ -767,21 +770,17 @@ What distinguishes Koch Industries from other corporate political actors is the 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Contracts (recent 3yr) | 10 ($613K sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 3 |
+| Total Obligation | $521,794 |
+| Fiscal Years | 2024 |
+| Awarding Agencies | 2 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $260K | Department of Health and Human Services | INFOR (US), INC:1222017 [24-000496] ANNUAL SOFTWARE ELITE XTREME PREMIUM MAINTENANCE AND SUPPORT AGR |
-| $254K | Department of Health and Human Services | INFOR (US), INC:1222017 [24-000019]  CLOVERLEAF MAINTENANCE |
-| $40K | Department of Health and Human Services | 01-ANNUAL SOFTWARE LICENSE, INFOR OS - ION PROCESS GRID EDITION |
-| $36K | Department of Health and Human Services | HL7 SECURE SERVER RENEWAL |
-| $14K | Department of Health and Human Services | INFOR (US), INC:1222017 [23-010757] ANNUAL SOFTWARE LICENSE, |
+- Department of Health and Human Services: $514,084
+- Department of Defense: $7,710
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8cc00587-be89-6ad5-76c5-92c6a33ea5a2-R/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Tax Filings (IRS 990)
@@ -806,6 +805,19 @@ What distinguishes Koch Industries from other corporate political actors is the 
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 4 |
+| States | 4 (GA, KS, MN, TX) |
+| Registry IDs | 110011516047, 110017507786, 110006132871, 110003801636 |
+
+**Facility locations:** SAVANNAH, GA, WICHITA, KS, MIDLAND, TX, ROSEMOUNT, MN
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

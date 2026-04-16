@@ -73,6 +73,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+epa-facilities: 103
+epa-states: "AL, AZ, CA, CT, FL, GA, IA, IL, LA, MD, ME, MI, MN, MO, ND, NJ, OR, PR, TX, WA, WV"
 ---
 
 <!-- auto:data-panel start -->
@@ -338,6 +340,19 @@ The class analysis conclusion: corporate political spending is effective against
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 103 |
+| States | 21 (AL, AZ, CA, CT, FL, GA, IA, IL, LA, MD, ME, MI, MN, MO, ND, NJ, OR, PR, TX, WA, WV) |
+| Registry IDs | 110022813589, 110007477168, 110003389191, 110007502951, 110008316223 +98 more |
+
+**Facility locations:** URBANA, IL, MIAMI, FL, ENTERPRISE, AL, OSKALOOSA, IA, HIALEAH, FL, RUSTON, LA, CLEARWATER, FL, JACKSONVILLE, FL, TAYLOR, MI, RED WING, MN +74 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

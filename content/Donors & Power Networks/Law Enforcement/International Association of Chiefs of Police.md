@@ -36,6 +36,8 @@ lobbying-filings: 142
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+federal-contracts: 20
+federal-awards-total: 318270
 ---
 
 <!-- auto:data-panel start -->
@@ -132,6 +134,26 @@ IACP's political significance: the organization provides an "expert" voice that 
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=International%20Association%20of%20Chiefs%20of%20Police) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 20 |
+| Total Obligation | $318,270 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 5 |
+
+**Top awarding agencies:**
+
+- Department of Justice: $122,150
+- Department of Defense: $81,749
+- Department of State: $77,600
+- Department of Homeland Security: $36,200
+- Department of Transportation: $571
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

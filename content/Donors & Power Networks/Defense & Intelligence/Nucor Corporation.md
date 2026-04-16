@@ -30,6 +30,8 @@ court-jurisdictions:
   - United States Court of International Trade
 cross-vault-triangulation-count: 4
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 5
+epa-states: "CA, IN, NE, WY"
 ---
 
 <!-- auto:data-panel start -->
@@ -265,6 +267,19 @@ Nucor's policy agenda is inseparable from [[American Iron and Steel Institute|AI
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Nucor%20Corporation%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 4 (CA, IN, NE, WY) |
+| Registry IDs | 110070280419, 110072138314, 110070643391, 110070645122, 110071448519 |
+
+**Facility locations:** NORFOLK, NE, FONTANA, CA, ROCK SPRINGS, WY, RIVERTON, WY, CRAWFORDSVILLE, IN
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -54,7 +54,7 @@ sec-form-types:
   - SC 13D/A
   - SCHEDULE 13G
   - SCHEDULE 13G/A
-federal-awards-total: 6457449191
+federal-awards-total: 16011729255
 federal-contracts-count: 25
 federal-grants-count: 2
 related: "[[Raytheon (RTX Corporation)]] · [[The National Security-to-Senate Pipeline]] · [[General Dynamics]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Boeing Defense]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[L3Harris Technologies]] · [[_Gerry Connolly Master Profile|Connolly]] · [[Leidos]] · [[BAE Systems]] · [[Anduril Industries]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]]"
@@ -66,6 +66,9 @@ top-federal-agency: Department of Veterans Affairs
 top-naics-code: "541330"
 cross-vault-triangulation-count: 12
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 1
+epa-states: "FL"
+federal-contracts: 7661
 ---
 
 <!-- auto:data-panel start -->
@@ -221,29 +224,25 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $6.5B |
-| Contracts (recent 3yr) | 25 ($16.4B sampled) |
-| Grants (recent 3yr) | 2 ($2.0M sampled) |
-| Federal Agencies | 7 |
+| Federal Contracts | 7,661 |
+| Total Obligation | $16,011,729,255 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 23 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $1.4B | General Services Administration | TASK ORDER (TO) 47QFCA21F0018 IS HEREBY AWARDED TO BOOZ ALLEN HAMILTON, INC. (BAH) TO PROVIDE ENTERP |
-| $1.4B | Department of Veterans Affairs | TRANSFORMATION TWENTY-ONE TOTAL TECHNOLOGY NEXT GENERATION (T4NG) TASK ORDER - BENEFITS INTEGRATED D |
-| $1.1B | Department of Veterans Affairs | PRODUCT AND TECHNOLOGY ECOSYSTEM MANAGEMENT SERVICES (PTEMS)WHICH INCLUDES PRODUCT DELIVERY AND LIFE |
-| $1.1B | General Services Administration | TASK ORDER AWARD |
-| $1.1B | General Services Administration | THE PURPOSE OF THIS EFFORT IS TO ACQUIRE CONTRACTOR SERVICES TO PROVIDE REAL-TIME, COMPREHENSIVE THR |
+- Department of Defense: $5,748,053,548
+- General Services Administration: $5,255,306,276
+- Department of Veterans Affairs: $2,477,198,310
+- Department of Health and Human Services: $864,874,197
+- National Aeronautics and Space Administration: $299,744,469
+- Department of the Treasury: $282,213,812
+- Department of Justice: $212,108,262
+- Department of Homeland Security: $186,885,385
+- Department of the Interior: $114,582,246
+- Department of Energy: $112,615,684
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $2.0M | Department of Commerce | PURPOSE: THE RESEARCH EFFORT SEEKS TO MATERIALLY ADVANCE THE STATE-OF-THE-ART SECURITY OF O-RAN ENAB |
-| $0 | Department of Commerce | PURPOSE: THE RESEARCH EFFORT SEEKS TO MATERIALLY ADVANCE THE STATE-OF-THE-ART SECURITY OF O-RAN ENAB |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/ed02855e-60d7-2540-e3d7-18fba1dd1316-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### DOJ Press Releases
@@ -307,3 +306,17 @@ Sustained and increased federal IT spending, expanded cybersecurity contracts, f
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (FL) |
+| Registry IDs | 110069340877 |
+
+**Facility locations:** PANAMA CITY, FL
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

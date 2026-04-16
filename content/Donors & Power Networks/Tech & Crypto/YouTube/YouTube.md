@@ -12,6 +12,8 @@ known-gaps:
   - "No mapped relationships"
 source-types: []
 urls-first-triaged: "2026-04-15"
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 
@@ -35,3 +37,17 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 Google/Alphabet video platform. Largest online video platform. Major vector for political media influence and advertising revenue.
 
 Profile pending enrichment.
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110058323755 |
+
+**Facility locations:** SAN BRUNO, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

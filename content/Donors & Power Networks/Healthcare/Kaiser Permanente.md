@@ -41,6 +41,8 @@ sec-form-types:
 cross-vault-triangulation-count: 21
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+epa-facilities: 113
+epa-states: "CA, CO, NY, OH, VA, WA"
 ---
 
 <!-- auto:data-panel start -->
@@ -257,6 +259,19 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kaiser%20Permanente%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 113 |
+| States | 6 (CA, CO, NY, OH, VA, WA) |
+| Registry IDs | 110002775612, 110000785295, 110000785302, 110009549024, 110002857061 +108 more |
+
+**Facility locations:** OAKLAND, CA, NAPA, CA, ROSEVILLE, CA, RICHMOND, CA, GILROY, CA, LOS ANGELES, CA, FAIRFIELD, CA, PLEASANTON, CA, SCHENECTADY, NY, BROOKLYN HEIGHTS, OH +57 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

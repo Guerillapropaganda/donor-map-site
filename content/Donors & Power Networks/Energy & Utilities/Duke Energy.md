@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: "Energy & Utilities"
 entity-type: "Corporation"
-federal-awards-total: 22823613
+federal-awards-total: 63431209
 federal-contracts-count: 25
 federal-grants-count: 2
 lei: "I1BZKREC126H0VB1BL91"
@@ -63,6 +63,9 @@ cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 18
+epa-states: "FL, IL, KY, LA, NC, NM, OH, VA"
+federal-contracts: 205
 ---
 
 <!-- auto:data-panel start -->
@@ -143,31 +146,25 @@ North Carolina's political system runs through Duke Energy's influence network. 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $22.8M |
-| Contracts (recent 3yr) | 25 ($460.7M sampled) |
-| Grants (recent 3yr) | 2 ($9.2M sampled) |
-| Federal Agencies | 6 |
+| Federal Contracts | 205 |
+| Total Obligation | $63,431,209 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 10 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $101.0M | Department of Defense | CAMP LEJEUNE UESC TO 3 |
-| $65.7M | Department of Defense | UTILITY ENERGY SERVICE CONTRACT (UESC) CAMP LEJEUNE, NC |
-| $51.8M | Department of Defense | UESC ECM IMPLEMENTATION AND FINANCING COST |
-| $47.7M | Department of Defense | CAMP LEJEUNE UESC TO II |
-| $46.3M | Environmental Protection Agency | IGF::OT::IGF  ELECTRIC UTILITIES FOR THE EPA AND NIEHS MAIN CAMPUS IN RTP, NC |
+- Department of Defense: $43,136,361
+- Department of Justice: $9,632,172
+- Environmental Protection Agency: $5,827,430
+- Department of Health and Human Services: $2,312,502
+- Department of Commerce: $2,210,006
+- Department of Homeland Security: $139,258
+- Department of the Interior: $110,000
+- Department of Veterans Affairs: $58,444
+- Nuclear Regulatory Commission: $7,392
+- U.S. Agency for Global Media: $-2,356
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $8.2M | Department of Energy | FEED STUDY FOR EDWARDSPORT FLEX FUEL INTEGRATED CAPTURE FOR INDIANA’S ENERGY TRANSITION (EFFICIENT)
- |
-| $972K | Department of Energy | INTEGRATED METHANE MONITORING PLATFORM EXTENSION (IMMPE)
-THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Duke%20Energy) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
@@ -353,6 +350,19 @@ THE OBJECTIVE OF THIS PROJECT IS TO EXPAND  |
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Duke%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 18 |
+| States | 8 (FL, IL, KY, LA, NC, NM, OH, VA) |
+| Registry IDs | 110010430328, 110001979315, 110004641157, 110004652313, 110004685868 +13 more |
+
+**Facility locations:** MANTENO, IL, CHARLOTTE, NC, CINCINNATI, OH, TRENTON, OH, MONROE, OH, FRANKLIN, NC, BRYCELAND, LA, CONOVER, NC, FLORENCE, KY, CARLSBAD, NM +3 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

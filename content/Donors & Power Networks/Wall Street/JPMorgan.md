@@ -68,6 +68,8 @@ related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[John Boe
 cross-vault-triangulation-count: 33
 audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[John Boehner]], [[Cory Booker]], [[Barack Obama]], [[Joe Biden]], [[Paul Ryan]]"
+epa-facilities: 5
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -534,6 +536,19 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 - ... and 72 more
 
 <!-- auto:occ-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 1 (CA) |
+| Registry IDs | 110071685365, 110071183774, 110071303842, 110071260241, 110071464921 |
+
+**Facility locations:** FRESNO, CA, PARAMOUNT, CA, BURBANK, CA, DELANO, CA, LONG BEACH, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

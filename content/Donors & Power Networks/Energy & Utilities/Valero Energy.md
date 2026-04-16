@@ -29,7 +29,7 @@ regulatory-agencies:
   - Justice Department
   - National Highway Traffic Safety Administration
   - Pipeline and Hazardous Materials Safety Administration
-federal-awards-total: 665092359
+federal-awards-total: 2211460817
 federal-contracts-count: 25
 federal-grants-count: 0
 top-federal-agency: Department of Defense
@@ -51,6 +51,9 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 18
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 3
+epa-states: "CO, TX"
+federal-contracts: 521
 ---
 
 <!-- auto:data-panel start -->
@@ -246,22 +249,16 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $665.1M |
-| Contracts (recent 3yr) | 25 ($1.3B sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 1 |
+| Federal Contracts | 521 |
+| Total Obligation | $2,211,460,817 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $116.3M | Department of Defense | 14000000 USG OF TURBINE FUEL, AVIATION (JP8) |
-| $114.3M | Department of Defense | 14000000 USG OF TURBINE FUEL, AVIATION (JP8) |
-| $76.8M | Department of Defense | 14000000 USG OF TURBINE FUEL, AVIATION (JP8) |
-| $70.6M | Department of Defense | CLIN 0007 14000000 USG OF TURBINE FUEL, AVIATION (JP8) FMS REQUIREMENT  FMS REQUIREMENT |
-| $64.7M | Department of Defense | CLIN 0008 9140-01-556-9156 DIESEL FUEL OIL (EN590)     14,000,000.00 USG UNIT PRICE $1.826260  AMOUN |
+- Department of Defense: $2,211,460,817
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ad3783b-6219-ee2a-8de8-f116c8b3c799-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -312,6 +309,19 @@ Valero's PAC contributions flow to members of Congress on energy, commerce, and 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valero%20Energy) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 2 (CO, TX) |
+| Registry IDs | 110038619411, 110017285971, 110010815092 |
+
+**Facility locations:** THORNTON, CO, YOAKUM, TX, UNKNOWN, TX
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

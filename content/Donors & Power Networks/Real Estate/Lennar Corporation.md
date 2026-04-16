@@ -52,6 +52,8 @@ lobbying-spend: 0
 lobbying-filings: 8
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 7
+epa-states: "CA, MN"
 ---
 
 <!-- auto:data-panel start -->
@@ -327,6 +329,19 @@ The Hunters Point development makes the class function explicit: Lennar extracte
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lennar%20Corporation%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 7 |
+| States | 2 (CA, MN) |
+| Registry IDs | 110038874126, 110071690518, 110070407354, 110070803884, 110072024851 +2 more |
+
+**Facility locations:** MAPLE GROVE, MN, MOUNTAIN HOUSE, CA, ALHAMBRA, CA, IRVINE, CA, BUENA PARK, CA, CARSON, CA, SAN MARCOS, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

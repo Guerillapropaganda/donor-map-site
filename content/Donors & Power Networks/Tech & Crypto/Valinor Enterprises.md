@@ -20,6 +20,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_JD Vance Master Profile]] · [[Narya Capital and the Venture Capital Pipeline]] · [[Peter Thiel]] · [[The Palantir State - Surveillance as Policy]] · [[Marc Andreessen & Horowitz]]"
 urls-first-triaged: "2026-04-15"
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -178,6 +180,19 @@ The Thiel network builds defense companies. The Thiel network funds politicians 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Valinor%20Enterprises) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110072034199 |
+
+**Facility locations:** SANTA BARBARA, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

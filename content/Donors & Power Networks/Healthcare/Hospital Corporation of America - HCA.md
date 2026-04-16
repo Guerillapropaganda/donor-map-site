@@ -19,6 +19,8 @@ cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 2
+epa-states: "TN"
 ---
 
 <!-- auto:data-panel start -->
@@ -133,3 +135,17 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Hospital%20Corporation%20of%20America%20-%20HCA) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 1 (TN) |
+| Registry IDs | 110007864454, 110064743586 |
+
+**Facility locations:** KINGSPORT, TN, NASHVILLE, TN
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

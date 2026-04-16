@@ -75,7 +75,7 @@ regulatory-agencies:
   - "Labor Department"
   - "National Labor Relations Board"
   - "National Park Service"
-federal-awards-total: 5386278
+federal-awards-total: 1406693
 federal-contracts-count: 25
 federal-grants-count: 0
 nhtsa-recalls: 0
@@ -97,6 +97,9 @@ subawards-received-amount: 4556712
 top-federal-agency: "Department of the Interior"
 top-naics-code: "561210"
 related: "[[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CoreCivic - Private Prisons]] · [[GEO Group - Private Prisons]]"
+epa-facilities: 13
+epa-states: "CA, FL, MA, MN, NV, OR, RI"
+federal-contracts: 16
 ---
 
 <!-- auto:data-panel start -->
@@ -265,22 +268,19 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $5.4M |
-| Contracts (recent 3yr) | 25 ($70.4M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 8 |
+| Federal Contracts | 16 |
+| Total Obligation | $1,406,693 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $31.9M | Department of Homeland Security | IGF::OT::IGF FULL FOOD SERVICES IN ACCORDANCE WITH THE SCHEDULE OF SERVICES ON PAGES 5 THROUGH 9 AT  |
-| $16.1M | Department of the Interior | NCTC GUEST SERVICES |
-| $15.9M | Department of the Interior | GUEST AND FOOD&BEVERAGE SERVICES AT THE NATIONAL CONSERVATION TRAINING CENTER  IGF::OT::IGF |
-| $1.2M | Department of Homeland Security | RESERVISTS LODGING/MEALS IGF::CT::IGF |
-| $1.1M | Department of the Interior | VISITOR TRANSPORTATION SERVICE FOR NATIONAL PARK SERVICE - INTERIOR REGIONS 8, 9, 10, AND 12, YOSEMI |
+- Department of the Interior: $1,445,506
+- Department of Homeland Security: $-2,525
+- Department of Health and Human Services: $-12,406
+- Department of Defense: $-23,882
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/51228162-3071-aad7-ea2a-2d3d08d780eb-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Vehicle Safety (NHTSA)
@@ -371,6 +371,19 @@ The workers who prepare and serve the food in many facilities are incarcerated p
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 13 |
+| States | 7 (CA, FL, MA, MN, NV, OR, RI) |
+| Registry IDs | 110003769084, 110004815059, 110058297908, 110071533096, 110001956223 +8 more |
+
+**Facility locations:** ROSEVILLE, MN, PORTLAND, OR, ZEPHYR COVE, NV, FRESNO, CA, LAWRENCE, MA, OAKLAND, CA, ORANGE CITY, FL, EAST PROVIDENCE, RI, SANTA CLARA, CA, LOMPOC, CA +2 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

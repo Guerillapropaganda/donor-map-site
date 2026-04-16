@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
-federal-awards-total: 19305761
+federal-awards-total: 44258160
 federal-contracts-count: 25
 federal-grants-count: 2
 ein: "650031452"
@@ -70,6 +70,9 @@ top-naics-code: "221112"
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[John Thune]]"
+epa-facilities: 9
+epa-states: "CA, FL, ND"
+federal-contracts: 156
 ---
 
 <!-- auto:data-panel start -->
@@ -147,29 +150,20 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $19.3M |
-| Contracts (recent 3yr) | 25 ($101.9M sampled) |
-| Grants (recent 3yr) | 2 ($79.5M sampled) |
-| Federal Agencies | 5 |
+| Federal Contracts | 156 |
+| Total Obligation | $44,258,160 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 5 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $14.6M | National Aeronautics and Space Administration | ELECTRICITY SUPPLY & ANCILLARY SERVICES FOR JSC (JSC, EF, SCTF) |
-| $13.7M | National Aeronautics and Space Administration | ELECTRICITY |
-| $8.1M | Department of Defense | SHEPPARD AFB RETAIL ELECTRIC |
-| $7.2M | Department of Defense | SHEPPARD AFB RETAIL ELECTRIC |
-| $6.6M | Department of Defense | FY25 - RETAIL ELECTRIC CONTRACT (1 OCT 2024 - 30 SEP 2025) - GEXA ENERGY, LP |
+- Department of Defense: $16,575,242
+- General Services Administration: $14,165,392
+- National Aeronautics and Space Administration: $13,109,144
+- Environmental Protection Agency: $410,000
+- Department of Justice: $-1,618
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $49.1M | Department of Energy | DEMONSTRATE THE VIABILITY OF A ZINC-BROMIDE BATTERY FOR 10+ HOUR ENERGY STORAGE. DEMONSTRATE THE COM |
-| $30.4M | Department of Energy | FLORIDA POWER LIGHT IS PROPOSING A SMART GRID MANHOLE AND VAULT MONITORING PROJECT (MVMP) TO ENHANCE |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-NextEra%20Energy) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Tax Filings (IRS 990)
@@ -281,6 +275,19 @@ Extension and expansion of renewable energy tax credits (Production Tax Credit, 
 
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 9 |
+| States | 3 (CA, FL, ND) |
+| Registry IDs | 110070106731, 110070617819, 110070620183, 110070617456, 110070620876 +4 more |
+
+**Facility locations:** ORLANDO, FL, UNKNOWN, ND, SLOUGHHOUSE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

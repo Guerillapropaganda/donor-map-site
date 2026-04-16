@@ -16,6 +16,10 @@ lobbying-filings: 56
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
+epa-facilities: 18
+epa-states: "AZ, CA, CT, IL, RI"
+federal-contracts: 11
+federal-awards-total: 27301569
 ---
 
 <!-- auto:data-panel start -->
@@ -155,6 +159,37 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=CVS%20Health%20-%20Aetna) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 18 |
+| States | 5 (AZ, CA, CT, IL, RI) |
+| Registry IDs | 110002494961, 110054319251, 110032956237, 110069706456, 110070037434 +13 more |
+
+**Facility locations:** HARTFORD, CT, SAN JOSE, CA, SCOTTSDALE, AZ, FULLERTON, CA, WOONSOCKET, RI, PATTERSON, CA, LOS ANGELES, CA, SANTEE, CA, MARTINEZ, CA, CHULA VISTA, CA +3 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 11 |
+| Total Obligation | $27,301,569 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
+
+**Top awarding agencies:**
+
+- Department of Health and Human Services: $26,867,981
+- Department of Veterans Affairs: $404,515
+- Department of Justice: $29,074
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

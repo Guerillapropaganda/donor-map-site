@@ -45,6 +45,8 @@ total-revenue: 426162
 total-assets: 98362
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 6
+epa-states: "AL, CA, GA, LA, TX"
 ---
 
 <!-- auto:data-panel start -->
@@ -246,6 +248,19 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/300749713) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 6 |
+| States | 5 (AL, CA, GA, LA, TX) |
+| Registry IDs | 110003341553, 110001322408, 110005170983, 110041038007, 110002843451 +1 more |
+
+**Facility locations:** NEW ORLEANS, LA, ATLANTA, GA, WACO, TX, WILSONVILLE, AL, SACRAMENTO, CA, LAREDO, TX
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

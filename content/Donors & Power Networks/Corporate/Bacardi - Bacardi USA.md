@@ -19,6 +19,8 @@ lobbying-filings: 36
 ftc-enforcement-actions: 0
 ftc-hsr-notices: 2
 last-enriched: "2026-04-11"
+epa-facilities: 5
+epa-states: "FL, PR"
 ---
 
 <!-- auto:data-panel start -->
@@ -218,3 +220,17 @@ The political contributions ($39,000 PAC annually, $550,000 in lobbying) are inv
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Bacardi%20-%20Bacardi%20USA) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 2 (FL, PR) |
+| Registry IDs | 110040135555, 110012592186, 110064864838, 110072152779, 110064868013 |
+
+**Facility locations:** JACKSONVILLE, FL, CATANO, PR, CATAÑO, PR, SAN JUAN, PR
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

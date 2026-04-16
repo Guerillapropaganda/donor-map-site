@@ -21,6 +21,10 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 6
+epa-states: "CA, MN, ND, OH, TX, WI"
+federal-contracts: 37
+federal-awards-total: 1844862
 ---
 
 <!-- auto:data-panel start -->
@@ -163,3 +167,43 @@ Media deregulation (relaxed ownership limits allowing greater consolidation), fa
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/850803187) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 6 |
+| States | 6 (CA, MN, ND, OH, TX, WI) |
+| Registry IDs | 110002686040, 110005438856, 110041580250, 110041476818, 110049457707 +1 more |
+
+**Facility locations:** HAYWARD, CA, WEST ALLIS, WI, NEW BRAUNFELS, TX, MAGNOLIA, OH, DUNN COUNTY, ND
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 37 |
+| Total Obligation | $1,844,862 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 14 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $437,843
+- Department of Energy: $322,031
+- Department of the Treasury: $247,305
+- Executive Office of the President: $180,495
+- Department of Commerce: $174,761
+- Department of Justice: $116,148
+- Pension Benefit Guaranty Corporation: $80,925
+- Department of State: $60,750
+- U.S. International Development Finance Corporation: $58,700
+- Department of Agriculture: $47,871
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->

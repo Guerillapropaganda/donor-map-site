@@ -92,6 +92,8 @@ cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 32
+epa-states: "AZ, CA, FL, IA, MI, MN"
 ---
 
 <!-- auto:data-panel start -->
@@ -364,6 +366,19 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 - ... and 110 more
 
 <!-- auto:occ-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 32 |
+| States | 6 (AZ, CA, FL, IA, MI, MN) |
+| Registry IDs | 110005761853, 110012151580, 110005732136, 110054323344, 110032637797 +27 more |
+
+**Facility locations:** SIOUX CITY, IA, DES MOINES, IA, CEDAR RAPIDS, IA, ROSEVILLE, CA, MINNEAPOLIS, MN, COMMERCE, CA, GROSSE POINTE PARK, MI, PHOENIX, AZ, THE VILLAGES, FL, MORGAN HILL, CA +13 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

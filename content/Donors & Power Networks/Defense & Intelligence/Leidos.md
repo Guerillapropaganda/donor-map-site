@@ -66,7 +66,7 @@ regulatory-agencies:
   - "International Trade Administration"
   - "Justice Department"
   - "Labor Department"
-federal-awards-total: 10432350765
+federal-awards-total: 22942904199
 federal-contracts-count: 25
 federal-grants-count: 9
 related: "[[Palantir Technologies Political Operation]] · [[Booz Allen Hamilton]] · [[General Dynamics]] · [[BAE Systems]] · [[Defense Industry Bloc]] · [[Lockheed Martin]] · [[Boeing Defense]] · [[Northrop Grumman]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[L3Harris Technologies]] · [[Anduril Industries]] · [[Defense Contractors Bloc]] · [[Valero Energy]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Johnson & Johnson]] · [[Novo Nordisk]]"
@@ -74,6 +74,9 @@ lobbying-spend: 10260000
 lobbying-filings: 54
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 11
+epa-states: "CA, FL, MD, RI"
+federal-contracts: 33178
 ---
 
 <!-- auto:data-panel start -->
@@ -380,32 +383,25 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $10.4B |
-| Contracts (recent 3yr) | 25 ($28.6B sampled) |
-| Grants (recent 3yr) | 9 ($11.4M sampled) |
-| Federal Agencies | 13 |
+| Federal Contracts | 33,178 |
+| Total Obligation | $22,942,904,199 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 28 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $4.8B | Department of Health and Human Services | TAS::75 0849::TAS  OPER OF GOVT R&D GOCO FACILITIES |
-| $3.6B | Department of Energy | MISSION SUPPORT CONTRACT - PROVIDE DIRECT SUPPORT TO DOE-RL, DOE-ORP AND THEIR CONTRACTORS WITH COST |
-| $3.1B | National Science Foundation | SCIENCE OPERATION AND MAINTENANCE SUPPORT FOR THE UNITED STATES ANTARCTIC PROGRAM |
-| $1.8B | Department of Health and Human Services | NCI OPERATIONAL TASK ORDER |
-| $1.3B | National Aeronautics and Space Administration | THE FACILITIES DEVELOPMENT AND OPERATIONS CONTRACT(FDOC) SPECIFIES TECHNICAL, MANAGERIAL, AND ADMINS |
+- Department of Defense: $8,467,663,635
+- Department of Veterans Affairs: $4,580,908,047
+- Department of Health and Human Services: $1,953,455,413
+- General Services Administration: $1,631,526,125
+- Department of Transportation: $1,404,489,491
+- Department of Energy: $1,266,023,460
+- Department of Homeland Security: $1,120,242,122
+- National Aeronautics and Space Administration: $732,499,065
+- National Science Foundation: $623,861,626
+- Social Security Administration: $579,670,801
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $11.2M | Department of Education | CONVERGENCE:  WHEN ART AND STEM MEET |
-| $57K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
-| $53K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
-| $50K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
-| $29K | Department of Housing and Urban Development | MOD UNIT INSPITA CON |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/3b1c9c58-1f9e-8125-7105-02f4ff2c5b8b-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Lobbying Activity
@@ -446,6 +442,19 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 11 |
+| States | 4 (CA, FL, MD, RI) |
+| Registry IDs | 110012191859, 110046229728, 110066819660, 110070095774, 110063078459 +6 more |
+
+**Facility locations:** VISTA, CA, SAN DIEGO, CA, COLUMBIA, MD, NEWPORT, RI, MAYPORT, FL, NARRAGANSETT, RI
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -46,7 +46,7 @@ regulatory-agencies:
   - Federal Reserve System
   - Food and Drug Administration
 related: "[[Amy Klobuchar]] · [[The Antitrust Crusade and Legislative Stalling]] · [[Barack Obama Master Profile]] · [[The Silicon Valley Presidency - Google Surveillance and Market Dominance]] · [[The Immigration and Administration Committees - Silicon Valley Gatekeeper]] · [[Ro Khanna Master Profile]] · [[The Silicon Valley Progressive and Tech Industry Alignment]] · [[The Judiciary Committee and Libertarian Constitutionalism]] · [[The Finance Committee and Corporate Tax Enforcement]] · [[The Judiciary Committee and Tech Accountability]] · [[Invariant]] · [[Google - Alphabet]] · [[Amazon]] · [[Meta - Facebook]] · [[Microsoft]] · [[TikTok - ByteDance]] · [[Nvidia]]"
-federal-awards-total: 17198395
+federal-awards-total: 79171
 federal-contracts-count: 25
 federal-grants-count: 25
 sec-filings: 10000
@@ -100,6 +100,9 @@ sec-form-types:
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 politicians-funded: "[[Barack Obama]], [[Amy Klobuchar]]"
+epa-facilities: 79
+epa-states: "CA, FL, LA, MA, NC, NV, OH, OR, TN, TX"
+federal-contracts: 15
 ---
 
 <!-- auto:data-panel start -->
@@ -382,32 +385,21 @@ Apple occupies a unique position: a corporation that extracts value through cons
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $17.2M |
-| Contracts (recent 3yr) | 25 ($62.5M sampled) |
-| Grants (recent 3yr) | 25 ($84.8M sampled) |
-| Federal Agencies | 8 |
+| Federal Contracts | 15 |
+| Total Obligation | $79,171 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 6 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $6.1M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011131/4100033614/APPLE JUICE PLST BTL-8/64 FL OZ,CHERRY APP |
-| $5.4M | Department of Defense | RENOVATE B4329 AND DEMOLISH B3101 |
-| $4.4M | Department of Defense | THE PURPOSE OF THIS PROJECT IS TO PROVIDE DESIGN AND ENGINEERING SERVICES TO SUPPORT SEA LEVEL RISE  |
-| $4.2M | Department of Homeland Security | FIRM-FIXED PRICE (FFP) CONTRACT WITH APPLETON MARINE, INC TO PURCHASE THE AFT BOAT HANDLING SYSTEM F |
-| $4.2M | Department of Defense | IGF::OT::IGF DRY DOCK 2 PORTAL CRANE RAIL REPAIRS |
+- Department of State: $97,239
+- Department of Justice: $15,178
+- Department of Defense: $299
+- Department of the Interior: $-4,400
+- U.S. Agency for Global Media: $-8,918
+- Agency for International Development: $-20,226
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $16.0M | Department of Transportation | CITY OF APPLETON VALLEY TRANSIT 5339 BUSES AND BUS FACILITIES INFRASTRUCTURE INVESTMENT CAPITAL GRAN |
-| $10.9M | Department of Transportation | THIS APPLICATION REQUESTS FUNDING FOR MULTIPLE PROJECTS INCLUDING OPERATING ASSISTANCE TO THE CITY O |
-| $7.4M | Department of Transportation | CITY OF APPLETON VALLEY TRANSIT 5307 CARES ACT GRANT |
-| $7.1M | Department of Education | REPLICATING HIGH-QUALITY CHARTER PRESCHOOLS |
-| $7.0M | Department of Agriculture | TO CONDUCT APPROVED MARKET DEVELOPMENT ACTIVITIES INTENDED TO FOSTER EXPANDED EXPORTS AND MARKET DIV |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/f6912e36-6cca-1f27-b7de-3d9631b48ec0-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### SEC Filing Activity
@@ -429,6 +421,19 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Apple%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 79 |
+| States | 10 (CA, FL, LA, MA, NC, NV, OH, OR, TN, TX) |
+| Registry IDs | 110002689617, 110002689396, 110009554614, 110070059171, 110038084612 +74 more |
+
+**Facility locations:** CUPERTINO, CA, SANTA CLARA, CA, SUNNYVALE, CA, NEWARK, CA, LOCKHART, TX, PIQUA, OH, CULVER CITY, CA, SAN JOSE, CA, BRISTOL, TN, MAIDEN, NC +15 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

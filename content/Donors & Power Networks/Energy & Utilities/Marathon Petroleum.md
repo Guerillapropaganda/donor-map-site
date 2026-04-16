@@ -11,7 +11,7 @@ politicians-funded: "[[Cathy McMorris Rodgers]], [[Kevin McCarthy]], [[John Barr
 issues:
   - Energy & Climate
   - Dark Money & Campaign Finance
-federal-awards-total: 437282470
+federal-awards-total: 829860556
 federal-contracts-count: 25
 federal-grants-count: 2
 top-federal-agency: Department of Defense
@@ -61,7 +61,7 @@ ein: "464439930"
 annual-revenue: $5.1M
 net-assets: $13.4M
 tax-year: "2020"
-federal-contracts: "51405"
+federal-contracts: 651
 federal-register-mentions: 105
 regulatory-agencies:
   - Antitrust Division
@@ -93,6 +93,8 @@ total-revenue: 2916203
 total-assets: 1240962
 cross-vault-triangulation-count: 18
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 96
+epa-states: "AL, CA, IL, IN, KY, LA, MD, MI, ND, OH, OK, TN, TX, WI, WV"
 ---
 
 <!-- auto:data-panel start -->
@@ -304,29 +306,16 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $437.3M |
-| Contracts (recent 3yr) | 25 ($337.4M sampled) |
-| Grants (recent 3yr) | 2 ($36K sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 651 |
+| Total Obligation | $829,860,556 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $31.9M | Department of Defense | 8511258088!DISTILLATE,NAVAL |
-| $21.8M | Department of Defense | 8511343326!DISTILLATE,NAVAL |
-| $21.0M | Department of Defense | 8510075507!DISTILLATE,NAVAL |
-| $18.5M | Department of Defense | 8511577581!DISTILLATE,NAVAL |
-| $16.4M | Department of Defense | 8511113444!DISTILLATE,NAVAL |
+- Department of Defense: $829,860,556
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $36K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
-| $0 | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Marathon%20Petroleum) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -502,6 +491,19 @@ The 2025 policy return completes the circuit. Marathon spent years and tens of m
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/464439930) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 96 |
+| States | 15 (AL, CA, IL, IN, KY, LA, MD, MI, ND, OH, OK, TN, TX, WI, WV) |
+| Registry IDs | 110003023406, 110010329439, 110009739756, 110008362280, 110002069699 +91 more |
+
+**Facility locations:** BIRMINGHAM, AL, INDIANAPOLIS, IN, RICHMOND, IN, CORBIN, KY, WOOD DALE, IL, MCHENRY, IL, CATLETTSBURG, KY, WEST BRANCH, MI, DEARBORN, MI, GRAND RAPIDS, MI +73 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

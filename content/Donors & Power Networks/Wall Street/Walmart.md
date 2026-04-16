@@ -88,6 +88,8 @@ sec-form-types:
   - "SCHEDULE 13G/A"
 cross-vault-triangulation-count: 3
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 39
+epa-states: "AR, CA, CT, FL, GA, IA, LA, MA, MI, NJ, NM, NY, PA, PR, TX, UT"
 ---
 
 <!-- auto:data-panel start -->
@@ -325,6 +327,19 @@ The Both-Sides Illusion is visible in the PAC's bipartisan giving: Walmart gives
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Walmart%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 39 |
+| States | 16 (AR, CA, CT, FL, GA, IA, LA, MA, MI, NJ, NM, NY, PA, PR, TX, UT) |
+| Registry IDs | 110002656297, 110011369367, 110003295032, 110003311229, 110012245178 +34 more |
+
+**Facility locations:** WEST HILLS, CA, UNKNOWN, CT, LEESVILLE, LA, MARKSVILLE, LA, STURBRIDGE, MA, PLYMOUTH, MA, MORGAN CITY, LA, LEWISBURG, PA, UNKNOWN, TX, PONCE, PR +21 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

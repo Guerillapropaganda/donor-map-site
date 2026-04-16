@@ -32,6 +32,8 @@ sec-form-types:
   - N-MFP/A
   - N-Q
   - N-Q/A
+epa-facilities: 5
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -182,3 +184,17 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22CalSTRS%20-%20California%20State%20Teachers'%20Retirement%20System%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 1 (CA) |
+| Registry IDs | 110058305070, 110070481114, 110070726142, 110071431170, 110071387947 |
+
+**Facility locations:** WEST SACRAMENTO, CA, LOS ANGELES, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

@@ -20,7 +20,7 @@ subawards-received: 5
 subawards-received-amount: 923723
 top-federal-agency: "Pension Benefit Guaranty Corporation"
 top-naics-code: "541519"
-federal-awards-total: 1387500
+federal-awards-total: -3608
 federal-contracts-count: 25
 federal-grants-count: 6
 related: "[[Council on Foreign Relations]] · [[BGR Group]] · [[Akin Gump Strauss Hauer & Feld]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Blackstone Group]]"
@@ -51,6 +51,9 @@ cross-vault-triangulation-count: 6
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 3
+epa-states: "CA, DE, FL"
+federal-contracts: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -189,32 +192,16 @@ BlackRock is not merely a Wall Street firm, it is the infrastructure through whi
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $1.4M |
-| Contracts (recent 3yr) | 25 ($44.0M sampled) |
-| Grants (recent 3yr) | 6 ($5.3M sampled) |
-| Federal Agencies | 4 |
+| Federal Contracts | 1 |
+| Total Obligation | $-3,608 |
+| Fiscal Years | 2024 |
+| Awarding Agencies | 1 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $14.0M | Pension Benefit Guaranty Corporation | IGF::CT::IGF |
-| $12.7M | Pension Benefit Guaranty Corporation | IGF::CT::IGF PORTFOLIO MANAGEMENT SERVICES |
-| $7.6M | Pension Benefit Guaranty Corporation | IGF::CT::IGF INVESTMENT RISK MANAGEMENT SYSTEM (IRMS) |
-| $5.5M | Pension Benefit Guaranty Corporation | INVESTMENT RISK MANAGEMENT SYSTEM |
-| $1.5M | Pension Benefit Guaranty Corporation | RECOMPETE OF PBGC01CT160005 |
+- Pension Benefit Guaranty Corporation: $-3,608
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $1.7M | Department of Health and Human Services | DEVELOPMENT AND TRANSLATION OF NOVEL SIC ENCAPSULATION THIN FILM FOR CHRONIC AUDITORY NERVE IMPLANT  |
-| $1.7M | Department of Health and Human Services | DEVELOPMENT OF AN AMF ORION/BLACKROCK HD-USEA BASED 60/128 CHANNEL IMPLANTABLE WIRELESS SIMULATOR SY |
-| $970K | Department of Health and Human Services | COMMERCIAL TRANSLATION OF HIGH-DENSITY CARBON FIBER ELECTRODE ARRAYS FOR MULTI-MODAL ANALYSIS OF NEU |
-| $437K | Department of Health and Human Services | HIGH DENSITY CHRONIC OPTOGENETIC INTERFACE FOR PRIMATE BRAINS - PROJECT SUMMARY UNDERSTANDING THE FU |
-| $299K | Department of Health and Human Services | METRICS FOR BRAIN CONTROLLED COMMUNICATION: A COMPREHENSIVE REVIEW OF CLINICAL OUTCOME ASSESSMENTS F |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/963017a4-7c44-8029-c07b-ea24185fdc8a-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -256,6 +243,19 @@ BlackRock is not merely a Wall Street firm, it is the infrastructure through whi
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BlackRock%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 3 (CA, DE, FL) |
+| Registry IDs | 110058303848, 110054582019, 110069218858 |
+
+**Facility locations:** SAN FRANCISCO, CA, WILMINGTON, DE, YULEE, FL
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

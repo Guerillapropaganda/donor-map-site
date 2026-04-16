@@ -21,6 +21,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+epa-facilities: 6
+epa-states: "NC, NJ, NY"
 ---
 
 <!-- auto:data-panel start -->
@@ -191,6 +193,19 @@ Drug pricing and FDA regulation, opioid prescribing guidelines, prescription dru
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Purdue%20Pharma%20-%20Sackler%20Family) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 6 |
+| States | 3 (NC, NJ, NY) |
+| Registry IDs | 110004536413, 110004543156, 110012239568, 110029079048, 110064649705 +1 more |
+
+**Facility locations:** ARDSLEY, NY, CRANBURY, NJ, UNKNOWN, NY, DURHAM, NC
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

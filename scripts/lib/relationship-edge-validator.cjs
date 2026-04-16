@@ -387,6 +387,11 @@ function validateEdge(edge, ctx = {}) {
       }
       const matches = ctx.titleIndex.get(title);
       if (!matches) {
+        // Government agencies in government-contract edges are not profiled in the vault
+        const subcatField = `${side}_subcategory`;
+        if (edge.type === 'government-contract' && edge[subcatField] === 'government-agency') {
+          continue; // skip profile existence check for agencies
+        }
         errors.push(`${side}: no profile with title "${title}" in vault`);
         continue;
       }

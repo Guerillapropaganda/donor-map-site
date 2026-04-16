@@ -41,6 +41,8 @@ regulatory-agencies:
 related: "[[Civica Rx]] · [[Healthcare - Donors and Backers]] · [[Medicare for All - The Policy That Broke the Party]] · [[Kamala Harris Master Profile]] · [[Joe Biden Master Profile]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[Moderna]] · [[The ACA - Insurance Industry Capture Disguised as Healthcare Reform]] · [[Nancy Pelosi Master Profile]] · [[Kaiser Permanente]] · [[Legislative Record as Speaker]] · [[The Energy and Commerce Committee and Telecom-Pharma Jurisdiction]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Economic Policy - Donors and Backers]] · [[CTA - California Teachers Association]] · [[The Insurance Industry Public Option Kill]] · [[Bernie Sanders Master Profile]] · [[Barack Obama Master Profile]] · [[The Labor-HHS Appropriations Chair and Nutrition Policy]] · [[Josh Green Master Profile]] · [[_Gavin Newsom Master Profile]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Single-Payer Broken Promise]] · [[Uber]] · [[Lyft]] · [[Anthem - Elevance Health Political Operation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Purdue Pharma - Sackler Family]] · [[Novo Nordisk]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]]"
 cross-vault-triangulation-count: 25
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 70
+epa-states: "CA, MN, NV, TN"
 ---
 
 <!-- auto:data-panel start -->
@@ -303,3 +305,17 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=UnitedHealth%20Group%20-%20Optum) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 70 |
+| States | 4 (CA, MN, NV, TN) |
+| Registry IDs | 110013290063, 110063231097, 110070424476, 110070424478, 110070424480 +65 more |
+
+**Facility locations:** EDEN PRAIRIE, MN, NASHVILLE, TN, EL MONTE, CA, HUNTINGTON PARK, CA, MONTEBELLO, CA, SANTA CLARITA, CA, TORRANCE, CA, HUNTINGTON BEACH, CA, NORTHRIDGE, CA, LAWNDALE, CA +32 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

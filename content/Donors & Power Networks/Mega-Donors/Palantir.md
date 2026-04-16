@@ -47,7 +47,7 @@ related: "[[Palantir Technologies Political Operation]] · [[Invariant]] · [[Co
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
   [URL Check 2026-04-08] 25 checked: 16 ok, 1 broken, 8 slow. | BROKEN: Source: CourtListener / RECAP | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 2, To Allow Companies To List in Connection With a Direct Listing With a Primary Offering in Which the Company Will Sell Shares Itself in the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Order Instituting Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change To Allow Companies To List in Connection With a Direct Listing With a Primary Offering In Which the Company Will Sell Shares Itself In the Opening Auction on the First Day of Trading on Nasdaq and To Explain How the Opening Transaction for Such a Listing Will Be Effected | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Granting of Requests for Early Termination of the Waiting Period Under the Premerger Notification Rules | SLOW: Source: Federal Register | SLOW: Source: GLEIF
-federal-awards-total: 1168645041
+federal-awards-total: 1561764094
 federal-contracts-count: 25
 federal-grants-count: 0
 wikidata-id: Q2047336
@@ -55,6 +55,9 @@ wikipedia-url: https://en.wikipedia.org/wiki/Palantir
 wikipedia-extract: Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics platforms enabling government agencies, militaries, and corporations to combine and analy...
 founded: "2003-00-00"
 cross-vault-triangulation-count: 28
+epa-facilities: 1
+epa-states: "CA"
+federal-contracts: 314
 ---
 
 <!-- auto:data-panel start -->
@@ -398,22 +401,25 @@ The deeper structural pattern: Palantir's entire business model depends on probl
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $1.2B |
-| Contracts (recent 3yr) | 25 ($2.1B sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 8 |
+| Federal Contracts | 314 |
+| Total Obligation | $1,561,764,094 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 12 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $292.7M | Department of Defense | TASK ORDER #1 FOR MAVEN SMART SYSTEM - USER INTERFACE/USER EXPERIENCE (UI/UX) PROTOTYPE |
-| $252.5M | Department of Defense | CDAO MSS TASK ORDER OFF OF CONTRACT W519TC25D0039 |
-| $195.7M | Department of Defense | PROVIDES ACCESS TO AGILE, SCALABLE DATA PLATFORM WITH ROBUST DATA STREAMING,STORAGE TECHNOLOGIES, CO |
-| $150.7M | Department of Homeland Security | INVESTIGATIVE CASE MANAGEMENT (ICM) OPERATIONS AND MAINTENANCE (O&M) SUPPORT SERVICES AND CUSTOM ENH |
-| $130.0M | Department of Defense | ESTABLISH BASIC LETTER CONTRACT FOR COMMERCIAL DATA AS A SERVE PLATFORM. |
+- Department of Defense: $1,031,736,391
+- Department of Health and Human Services: $124,477,771
+- Department of Homeland Security: $101,754,994
+- Department of the Treasury: $96,790,154
+- Department of State: $75,282,640
+- Department of Energy: $45,606,639
+- Department of Veterans Affairs: $37,124,653
+- Department of Transportation: $31,241,646
+- U.S. International Development Finance Corporation: $7,888,966
+- Department of Agriculture: $5,309,230
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1ea8a9a4-3726-3491-9040-66950bb67606-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Wikipedia
@@ -431,6 +437,19 @@ Palantir Technologies Inc. is an American publicly traded company that develops 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Palantir) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q2047336) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110058338525 |
+
+**Facility locations:** PALO ALTO, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

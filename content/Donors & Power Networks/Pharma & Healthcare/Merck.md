@@ -53,6 +53,8 @@ nhtsa-complaints: 0
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Cory Booker]]"
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -390,6 +392,19 @@ _Variant firm names in FDA data: Merck Sharp & Dohme LLC; Merck & Co. Inc; MERCK
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Merck) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110071227066 |
+
+**Facility locations:** SAN DIEGO, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

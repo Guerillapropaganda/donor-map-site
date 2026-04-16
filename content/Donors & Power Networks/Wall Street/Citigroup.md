@@ -25,7 +25,7 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-07"
 lobbying-spend: 11560000
 lobbying-filings: 52
-federal-awards-total: 0
+federal-awards-total: 5803054
 federal-contracts-count: 25
 federal-grants-count: 0
 related: "[[Wall Street Deregulation and the 3-3-3 Agenda]] · [[The Delaware Corporate Senator - Biden's Legislative Lieutenant]] · [[Joe Biden Master Profile]] · [[The Bank Bailout and the Prosecution That Never Came]] · [[Wes Moore Master Profile]] · [[Center for American Progress]] · [[Barack Obama Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Bank of America]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_French Hill Master Profile|French Hill]] · [[The Financial Services Committee and Wall Street Oversight]] · [[Wells Fargo]] · [[Morgan Stanley]] · [[Tim Geithner]]"
@@ -58,6 +58,9 @@ sec-form-types:
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
+epa-facilities: 3
+epa-states: "NY"
+federal-contracts: 73
 ---
 
 <!-- auto:data-panel start -->
@@ -322,21 +325,22 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Contracts (recent 3yr) | 25 ($884K sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 6 |
+| Federal Contracts | 73 |
+| Total Obligation | $5,803,054 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 7 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $245K | Department of Homeland Security | FRESHWATER OIL SPILL RESPONSE EQUIPMENT FOR THE CENTER OF EXPERTISE (GL NCOE) FOR GREAT LAKES OIL SP |
-| $65K | Consumer Financial Protection Bureau | HANDSHAKE DIGITAL RECRUITING PLATFORM |
-| $53K | Department of Homeland Security | FOOD SERVICE EQUIPMENT FOR AIR STATION BARBERS POINT |
-| $51K | Consumer Financial Protection Bureau | 2023 CRA & FAIR LENDING COLLOQUIUM |
-| $41K | Social Security Administration | THIRD PARTY PAYMENT SYSTEM (TPPS) BANK SERVICES CONTRACT - TASK ORDER FOR TPPS SERVICES |
+- Department of Homeland Security: $5,524,094
+- Smithsonian Institution: $218,686
+- Consumer Financial Protection Bureau: $193,030
+- Department of the Treasury: $11,613
+- Department of Justice: $4,040
+- Agency for International Development: $-23,094
+- Federal Mine Safety and Health Review Commission: $-125,314
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8aa915fd-d3c6-9128-ff26-48aa35edd9e7-R/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### SEC Filing Activity
@@ -358,6 +362,19 @@ Citigroup represents the purest form of Wall Street regulatory capture. The bank
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Citigroup%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 1 (NY) |
+| Registry IDs | 110018883779, 110043646597, 110070834705 |
+
+**Facility locations:** WHITE PLAINS, NY, NEW YORK, NY, GETZVILLE, NY
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

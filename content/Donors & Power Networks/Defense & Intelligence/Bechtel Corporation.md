@@ -31,6 +31,10 @@ lei: "A2351DQ25OUUH2Q6RR89"
 lei-jurisdiction: "US-NV"
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 3
+epa-states: "CA, NJ, UT"
+federal-contracts: 87
+federal-awards-total: 7768520221
 ---
 
 
@@ -174,6 +178,38 @@ Bechtel exemplifies military-industrial complex dynamics: a major defense contra
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 3 (CA, NJ, UT) |
+| Registry IDs | 110006184146, 110065652412, 110070876839 |
+
+**Facility locations:** HAINESPORT, NJ, SAN FRANCISCO, CA, PARK CITY, UT
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 87 |
+| Total Obligation | $7,768,520,221 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $5,241,582,693
+- Department of Energy: $1,931,742,210
+- National Aeronautics and Space Administration: $595,192,818
+- General Services Administration: $2,500
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

@@ -44,6 +44,10 @@ cross-vault-triangulation-count: 18
 needs-reenrichment: true
 reenrich-reason: run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 16
+epa-states: "CA"
+federal-contracts: 1
+federal-awards-total: 14400
 ---
 
 <!-- auto:data-panel start -->
@@ -410,6 +414,35 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 16 |
+| States | 1 (CA) |
+| Registry IDs | 110055438281, 110071111976, 110070427999, 110070424073, 110070438625 +11 more |
+
+**Facility locations:** MENLO PARK, CA, NORTHRIDGE, CA, SANTA CLARA, CA, FREMONT, CA, BURLINGAME, CA, PLAYA VISTA, CA, SUNNYVALE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 1 |
+| Total Obligation | $14,400 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 1 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $14,400
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

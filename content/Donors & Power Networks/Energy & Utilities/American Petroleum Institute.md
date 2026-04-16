@@ -41,6 +41,8 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+federal-contracts: 1
+federal-awards-total: 10863
 ---
 
 <!-- auto:data-panel start -->
@@ -821,6 +823,22 @@ The $252M annual budget is not a philanthropic charitable organization. It is a 
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 1 |
+| Total Obligation | $10,863 |
+| Fiscal Years | 2025 |
+| Awarding Agencies | 1 |
+
+**Top awarding agencies:**
+
+- Department of Energy: $10,863
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

@@ -81,6 +81,10 @@ regulatory-agencies:
   - "Patent and Trademark Office"
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 22
+epa-states: "CA, NC, NJ, WA"
+federal-contracts: 13
+federal-awards-total: -9142692
 ---
 
 <!-- auto:data-panel start -->
@@ -303,6 +307,36 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Gilead%20Sciences%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 22 |
+| States | 4 (CA, NC, NJ, WA) |
+| Registry IDs | 110002333136, 110002838261, 110013793859, 110009510902, 110044928898 +17 more |
+
+**Facility locations:** FOSTER CITY, CA, DURHAM, NC, SEATTLE, WA, PRINCETON, NJ, SAN DIMAS, CA, SAN MATEO, CA, MORRIS PLAINS, NJ, FREMONT, CA, LA VERNE, CA, OCEANSIDE, CA +2 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 13 |
+| Total Obligation | $-9,142,692 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
+
+**Top awarding agencies:**
+
+- Department of Veterans Affairs: $365,670
+- Department of Health and Human Services: $-9,508,362
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

@@ -35,6 +35,8 @@ cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 2
+epa-states: "CT"
 ---
 
 <!-- auto:data-panel start -->
@@ -224,6 +226,19 @@ Cigna/Express Scripts represents the intermediary extraction layer in American h
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Cigna%20Group) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 1 (CT) |
+| Registry IDs | 110001732493, 110044176049 |
+
+**Facility locations:** WINDSOR, CT, BLOOMFIELD, CT
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

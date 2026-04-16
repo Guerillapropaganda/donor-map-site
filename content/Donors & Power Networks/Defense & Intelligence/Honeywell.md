@@ -38,7 +38,7 @@ subawards-received: 50
 subawards-received-amount: 7506016889
 top-federal-agency: "Department of Defense"
 top-naics-code: "336992"
-federal-awards-total: 1083390059
+federal-awards-total: 3877199629
 federal-contracts-count: 25
 federal-grants-count: 12
 cpsc-recalls: 7
@@ -55,6 +55,9 @@ known-gaps:
 lei: "5493009W7CBW32FX0K77"
 lei-jurisdiction: "CH"
 lei-parent: "HONEYWELL INTERNATIONAL INC."
+epa-facilities: 121
+epa-states: "AL, AZ, CA, CO, CT, DE, FL, GA, HI, IL, IN, KS, LA, MA, MD, MI, MN, NC, NE, NJ, NY, OH, OR, PA, RI, SC, TN, TX, WA, WI"
+federal-contracts: 9597
 ---
 
 
@@ -220,37 +223,25 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $1.1B |
-| Contracts (recent 3yr) | 25 ($46.9B sampled) |
-| Grants (recent 3yr) | 12 ($171.1M sampled) |
-| Federal Agencies | 5 |
+| Federal Contracts | 9,597 |
+| Total Obligation | $3,877,199,629 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 18 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $41.7B | Department of Energy | IGF::CL,CT::IGF CONTRACT AWARD DE-NA0003525 TO THE NATIONAL TECHNOLOGY&ENGINEERING SOLUTIONS OF SAND |
-| $1.2B | Department of Defense | TIGER II SERVICES AND HARDWARE UCA |
-| $798.7M | Department of Defense | NON-PERSONAL SERVICES - SECONDARY POWER LOGISTICS SOLUTION (SPLS) |
-| $341.5M | General Services Administration | CONTRACTOR TO BUILD PHASE 3 OF CENTRAL UTILITY PLANT AT THE FDA WHITE OAK CONSOLIDATION CAMPUS IN SI |
-| $316.8M | General Services Administration | NEW CONTRACT AWARD DOCUMENT TO MAKE THE CURRENT CONTRACT INTERFACEABLE WITH PEGASYS ONLY. |
+- Department of Defense: $2,465,313,044
+- Department of Energy: $1,087,572,383
+- General Services Administration: $138,284,367
+- Department of Transportation: $97,562,951
+- Department of Homeland Security: $19,304,488
+- Department of Housing and Urban Development: $17,066,773
+- Department of Veterans Affairs: $14,864,804
+- Department of Justice: $12,298,628
+- National Aeronautics and Space Administration: $10,168,052
+- Department of the Treasury: $7,944,819
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $123.8M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW (BIL): LIFSI: ELECTROLYTE SALT PRODUCTION FACILITY
-
-THE OBJECTIVE IS T |
-| $14.8M | Department of Energy | INFLATION REDUCTION ACT (IRA): THE OBJECTIVE OF THE PROJECT IS TO CREATE A HFO-1234YF PRODUCTION CAP |
-| $6.8M | Department of Energy | HONEYWELL INTERNATIONAL, INC.: NEW AWARD
-2238-1534 	
-ASCEND
-PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
-| $6.6M | Department of Health and Human Services | A WEARABLE FUNCTIONAL-BRAIN-IMAGING SYSTEM WITH FULL-HEAD COVERAGE AND ENHANCED SPATIOTEMPORAL-RESOL |
-| $4.6M | Department of Defense | JOINT MULTI-ROLE TECHNOLOGY DEMONSTRATOR MISSION SYSTEMS ARCHITECTURE DEMONSTRATION JCA PRODUCT DEVE |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/a281345d-2343-2f48-369a-746f3ec8888f-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Product Recalls (CPSC)
@@ -296,6 +287,19 @@ PROJECT TITLE: ADVANCED ELECTRIC PROPULS |
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 121 |
+| States | 30 (AL, AZ, CA, CO, CT, DE, FL, GA, HI, IL, IN, KS, LA, MA, MD, MI, MN, NC, NE, NJ, NY, OH, OR, PA, RI, SC, TN, TX, WA, WI) |
+| Registry IDs | 110000610205, 110002717917, 110002570977, 110002578087, 110002588584 +116 more |
+
+**Facility locations:** SAN DIEGO, CA, CARSON, CA, PHOENIX, AZ, CHANDLER, AZ, NEW CASTLE, DE, SUNNYVALE, CA, SIMI VALLEY, CA, MARLBOROUGH, MA, SOUTH BEND, IN, ELBERTON, GA +83 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 
