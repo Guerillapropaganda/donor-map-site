@@ -70,6 +70,17 @@ Kelly's public identity: Gun control advocate married to a shooting survivor, Gi
 
 **The Two-Audience Problem**. Kelly speaks to progressive gun safety donors as a family tragedy survivor and democracy defender. He speaks to defense contractors and military interests as someone who votes for their budget expansions. Both audiences are funded independently; both positions are genuine; the contradiction is managed through compartmentalization (gun advocacy appears separate from military spending votes).
 
+
+## Class Analysis
+
+<!-- RESEARCH CLAUDE: Draft the class analysis section here.
+     Anchor on the donor/contribution data above. Focus on:
+     1. Who funds them and what that reveals about material interests
+     2. How voting record aligns (or doesn't) with funder priorities
+     3. The "both sides" / cross-party structure if applicable
+     4. Position in the broader capital-to-politician pipeline
+     Remove this comment block when done. ~300-500 words. -->
+
 ### Sources
 
 - {{src:src_001217}} (Tier 1) (VERIFIED)

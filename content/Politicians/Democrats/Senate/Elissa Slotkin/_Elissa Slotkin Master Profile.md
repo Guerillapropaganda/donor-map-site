@@ -28,6 +28,8 @@ bills-sponsored: 63
 bills-cosponsored: 380
 bills-enacted: 5
 top-policy-area: "Armed Forces and National Security"
+needs-reenrichment: true
+reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 ---
 
 
@@ -83,3 +85,14 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
+
+## Class Analysis
+
+<!-- RESEARCH CLAUDE: Draft the class analysis section here.
+     Anchor on the donor/contribution data above. Focus on:
+     1. Who funds them and what that reveals about material interests
+     2. How voting record aligns (or doesn't) with funder priorities
+     3. The "both sides" / cross-party structure if applicable
+     4. Position in the broader capital-to-politician pipeline
+     Remove this comment block when done. ~300-500 words. -->
+

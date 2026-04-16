@@ -222,6 +222,17 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 
 ---
 
+
+## Class Analysis
+
+<!-- RESEARCH CLAUDE: Draft the class analysis section here.
+     Anchor on contracts, lobbying, and politicians funded. Focus on:
+     1. What state function this corp captures (defense, surveillance, carceral, pharma regulation, etc.)
+     2. The revolving door , board members cycling through government
+     3. Material interest in maintaining current policy
+     4. How class position shapes lobbying priorities
+     Remove this comment block when done. ~300-500 words. -->
+
 ### Sources
 
 - [OpenSecrets: JPMorgan Chase & Co organizational profile and contribution totals](https://www.opensecrets.org/orgs/jpmorgan-chase-co/summary?id=d000000103) (Tier 1) (VERIFIED)

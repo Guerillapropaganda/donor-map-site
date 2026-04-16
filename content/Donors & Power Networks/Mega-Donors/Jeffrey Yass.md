@@ -398,6 +398,17 @@ Simultaneously, Yass funds Club for Growth's primary agenda: **elimination of ca
 
 ---
 
+
+## Class Analysis
+
+<!-- RESEARCH CLAUDE: Draft the class analysis section here.
+     Anchor on this donor's actual contribution pattern. Focus on:
+     1. What fraction of capital , finance, tech, fossil, carceral, etc.
+     2. Ideological function , which policy demands track to the money
+     3. Cross-party spending if any, and what it reveals
+     4. Relationship to the broader donor network / dark money flows
+     Remove this comment block when done. ~300-500 words. -->
+
 ### Sources
 
 ### OpenSecrets & FEC (Tier 1):

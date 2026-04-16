@@ -256,6 +256,17 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 ---
 
+
+## Class Analysis
+
+<!-- RESEARCH CLAUDE: Draft the class analysis section here.
+     Anchor on contracts, lobbying, and politicians funded. Focus on:
+     1. What state function this corp captures (defense, surveillance, carceral, pharma regulation, etc.)
+     2. The revolving door , board members cycling through government
+     3. Material interest in maintaining current policy
+     4. How class position shapes lobbying priorities
+     Remove this comment block when done. ~300-500 words. -->
+
 ### Sources
 
 - [Lockheed Martin Official Summary • OpenSecrets](https://www.opensecrets.org/orgs/lockheed-martin/summary?id=D000000104) (Tier 1) (VERIFIED)
