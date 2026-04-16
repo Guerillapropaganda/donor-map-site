@@ -1770,6 +1770,27 @@ phase_1_tasks:
       added_adhoc: true
       notes: "15+ commits. Edge store 32K→56K. Deployed to v4."
 
+    - id: cc_167
+      task: "FEC registry expansion + re-run bulk + PAC summary"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Candidate master 187→418 IDs. Committee master 293→852. Re-ran FEC bulk: 25,144 edges. PAC summary: 481 profiles. Total edges 56K."
+
+    - id: cc_168
+      task: "ICIJ + OFAC screening + edge cleanup + tier presets"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "ICIJ: 12 officer + 142 entity matches. OFAC: clean. Removed 1,591 bad edges, deduped 737. EDGE_TIER_PRESETS in query engine. Monetary 100% with amounts."
+
+    - id: cc_169
+      task: "Ops Money Trail Canvas rewrite + Relationships amounts + Capitol Trades DONOR badge"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Money Trail: full Canvas rewrite with dollar-sized nodes, edge type filters, amount thresholds. Relationships: dollar totals + contracts. Capitol Trades: DONOR cross-reference badge. ProfileWidget: Canvas mini-graph + Contracts tab + dollar amounts. ConnectionsExplorer component."
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"

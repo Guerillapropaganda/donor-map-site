@@ -140,8 +140,23 @@ Massive data session. Started with David flagging broken checklist items on corp
 - ICIJ offshore entity matches are mostly false positives (common company names) — David needs to triage the 12 officer matches
 - EPA enforcement data (ICIS FE&C with penalties) not yet downloaded
 
+### Additional work (continued session)
+
+- **FEC registry expansion** — `ingest-fec-candidate-master.cjs` (231 new IDs, 187→418), `ingest-fec-committee-master.cjs` (559 new mappings, 293→852), re-ran FEC bulk: 25,144 monetary edges (was 2,455)
+- **FEC PAC summary ingest** — `ingest-fec-pac-summary.cjs`: 481 profiles with total-raised/spent/cash-on-hand from 6 cycles
+- **ICIJ offshore screening** — `screen-icij-offshore.cjs`: 12 officer + 142 entity matches against Panama/Paradise/Pandora Papers. Report at `content/Admin Notes/icij-offshore-screening-report.md`
+- **OFAC SDN screening** — `screen-ofac-sdn.cjs`: Zero matches, vault clean
+- **Edge quality cleanup** — Removed 854 redundant null-amount edges, downgraded 1,181 to related, deduped 737. Monetary: 100% with real amounts
+- **Tiered visibility presets** — `EDGE_TIER_PRESETS` in query-engine.cjs: public (26K), paid (27K), internal (56K)
+- **ProfileWidget wiring** — Donors tab shows dollar amounts, new Contracts tab for corporations
+- **ConnectionsExplorer** — New `ops/src/components/ConnectionsExplorer.tsx` with Money Trail/Contracts/Opposition/Network filter chips + explainers
+- **Canvas graph** — ProfileWidget mini-graph replaced with Canvas radial layout (nodes sized by $, instant render)
+- **Ops Money Trail rewrite** — Complete Canvas rewrite with dollar-sized nodes, edge type filtering, amount thresholds, custom physics
+- **Ops Relationships upgrade** — Dollar totals in Most Connected sidebar, government-contract edges included
+- **Ops Capitol Trades** — Green DONOR badge when politician trades stock in a company that donates to them
+
 ### Next session priorities
-1. **Rework graph visualization** — Canvas renderer, node sizing by $, progressive disclosure (top 20 default), sector clustering, confidence threshold culling. This is what makes the data visible.
+1. **Test all three Ops pages** — Money Trail canvas, Relationships dollar totals, Capitol Trades DONOR badges. Verify with real data.
 2. **Review ICIJ offshore screening report** at `content/Admin Notes/icij-offshore-screening-report.md` (David's lane — verify officer matches)
 3. **Download + ingest EPA enforcement data** (ICIS FE&C — violations + penalty amounts)
 4. **Ingest FEC individual contributions** when downloads finish (donor → PAC chains)
