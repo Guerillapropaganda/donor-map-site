@@ -23,7 +23,7 @@ const ALLOWED_SCRIPTS: Record<string, { command: string; danger: "safe" | "write
   "duplicate-bioguide-sentinel": { command: "node scripts/duplicate-bioguide-sentinel.cjs", danger: "safe" },
   "self-review-mirror": { command: "node scripts/self-review-mirror.cjs", danger: "safe" },
   "yaml-sanity-scan": { command: "node scripts/yaml-sanity-scan.cjs", danger: "safe" },
-  "strip-inline-dataview": { command: "node scripts/strip-inline-dataview.cjs --dry-run", danger: "safe" },
+  "strip-inline-dataview": { command: "node scripts/_archive/one-time-cleanups/strip-inline-dataview.cjs --dry-run", danger: "safe" },
   "normalize-related-bidirectionality": { command: "node scripts/normalize-related-bidirectionality.cjs --dry-run", danger: "safe" },
   "build-relationships-per-profile": { command: "node scripts/build-relationships-per-profile.cjs", danger: "writes-profiles" },
   "fec-committee-resolver": { command: "node scripts/fec-committee-resolver.cjs", danger: "safe" },
@@ -32,8 +32,8 @@ const ALLOWED_SCRIPTS: Record<string, { command: string; danger: "safe" | "write
   "seed-fec-committee-registry-write": { command: "node scripts/seed-fec-committee-registry.cjs --write", danger: "writes-profiles" },
   "apply-fec-committee-registry": { command: "node scripts/apply-fec-committee-registry.cjs", danger: "safe" },
   "apply-fec-committee-registry-write": { command: "node scripts/apply-fec-committee-registry.cjs --write", danger: "writes-profiles" },
-  "migrate-fec-body-tables-to-edges": { command: "node scripts/migrate-fec-body-tables-to-edges.cjs", danger: "safe" },
-  "migrate-fec-body-tables-to-edges-write": { command: "node scripts/migrate-fec-body-tables-to-edges.cjs --write", danger: "writes-profiles" },
+  "migrate-fec-body-tables-to-edges": { command: "node scripts/_archive/migrations/migrate-fec-body-tables-to-edges.cjs", danger: "safe" },
+  "migrate-fec-body-tables-to-edges-write": { command: "node scripts/_archive/migrations/migrate-fec-body-tables-to-edges.cjs --write", danger: "writes-profiles" },
 }
 
 export async function POST(request: Request) {

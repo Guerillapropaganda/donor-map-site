@@ -785,6 +785,57 @@ const DANGER_LABELS: Record<string, string> = {
   destructive: "DESTRUCTIVE — irreversible",
 }
 
+// Archived scripts — moved to scripts/_archive/ 2026-04-16
+// Preserved for reference, not in active use. Git history follows.
+interface ArchivedScript {
+  name: string
+  category: "migrations" | "backfills" | "one-time-cleanups" | "deprecated-experiments"
+  whatItDid: string
+  archivedDate: string
+}
+
+const ARCHIVED_CATEGORIES: Record<string, string> = {
+  migrations: "Migrations (one-time data migrations)",
+  backfills: "Backfills (one-time historical loads)",
+  "one-time-cleanups": "One-time cleanups (bug fixes already applied)",
+  "deprecated-experiments": "Deprecated experiments",
+}
+
+const ARCHIVED_SCRIPTS: ArchivedScript[] = [
+  // MIGRATIONS
+  { name: "migrate-fec-body-tables-to-edges.cjs", category: "migrations", whatItDid: "Parsed FEC body tables in profiles, promoted to canonical monetary edges in data/relationships.jsonl. Phase 2b.1.", archivedDate: "2026-04-16" },
+  { name: "migrate-fec-citations-to-refs.cjs", category: "migrations", whatItDid: "Rewrote FEC URL citations to {{src:ID}} refs via the source registry. Phase 1 reference implementation.", archivedDate: "2026-04-16" },
+  { name: "migrate-frontmatter-delta.cjs", category: "migrations", whatItDid: "Upserted frontmatter relationship fields into data/relationships.jsonl (Pillar 2a).", archivedDate: "2026-04-16" },
+  { name: "migrate-frontmatter-to-relationships-jsonl.cjs", category: "migrations", whatItDid: "Original Phase 3 Part 1 migration from frontmatter to canonical store.", archivedDate: "2026-04-16" },
+  { name: "migrate-ops-add-clerk-stripe.cjs", category: "migrations", whatItDid: "Ops auth bootstrap (Phase 2.5) — added Clerk + Stripe config files.", archivedDate: "2026-04-16" },
+  { name: "migrate-strikethrough-sources-to-archived.cjs", category: "migrations", whatItDid: "Moved strikethrough-marked dead sources to Archived sections.", archivedDate: "2026-04-16" },
+  // BACKFILLS
+  { name: "financial-disclosures-backfill.cjs", category: "backfills", whatItDid: "One-time STOCK Act PTR historical load. Current data flows through financial-disclosures-pipeline.cjs (still active).", archivedDate: "2026-04-16" },
+  { name: "senate-disclosures-backfill.cjs", category: "backfills", whatItDid: "Senate disclosure backfill. Same pattern as PTR backfill.", archivedDate: "2026-04-16" },
+  // ONE-TIME CLEANUPS
+  { name: "clean-a000383-contamination.cjs", category: "one-time-cleanups", whatItDid: "Cleared 95 profiles contaminated with A000383 (Alan Armstrong) bioguide from a bad fuzzy-match.", archivedDate: "2026-04-16" },
+  { name: "clean-inline-fields.cjs", category: "one-time-cleanups", whatItDid: "Removed legacy Obsidian Dataview 'field:: value' body fields.", archivedDate: "2026-04-16" },
+  { name: "clean-redirect-contamination.cjs", category: "one-time-cleanups", whatItDid: "Cleaned up redirect files the pipeline had accidentally enriched.", archivedDate: "2026-04-16" },
+  { name: "fix-demo-key-urls.cjs", category: "one-time-cleanups", whatItDid: "Removed DEMO_KEY URLs from profile citations.", archivedDate: "2026-04-16" },
+  { name: "fix-entity-name-mismatches.cjs", category: "one-time-cleanups", whatItDid: "Entity consolidation repair.", archivedDate: "2026-04-16" },
+  { name: "fix-fec-ids.cjs", category: "one-time-cleanups", whatItDid: "One-off FEC ID repair (Katie Porter S4CA00522 case).", archivedDate: "2026-04-16" },
+  { name: "strip-em-dashes.cjs", category: "one-time-cleanups", whatItDid: "Removed em dashes from existing profile content (banned vocab cleanup).", archivedDate: "2026-04-16" },
+  { name: "strip-inline-dataview.cjs", category: "one-time-cleanups", whatItDid: "Companion to clean-inline-fields.cjs. Removed Dataview syntax from 562 profiles.", archivedDate: "2026-04-16" },
+  { name: "strip-master-profile-title-suffix.cjs", category: "one-time-cleanups", whatItDid: "Normalized 'X Master Profile' title formatting.", archivedDate: "2026-04-16" },
+  { name: "classify-mistyped-politicians.cjs", category: "one-time-cleanups", whatItDid: "Fixed type: politician profiles that should have been state-politician or local-politician.", archivedDate: "2026-04-16" },
+  { name: "find-mistyped-politicians.cjs", category: "one-time-cleanups", whatItDid: "Audit companion to classify-mistyped-politicians.", archivedDate: "2026-04-16" },
+  { name: "apply-type-reclassification.cjs", category: "one-time-cleanups", whatItDid: "Bulk type migration driven by profile-type-rulebook.cjs.", archivedDate: "2026-04-16" },
+  { name: "archive-followthemoney.cjs", category: "one-time-cleanups", whatItDid: "FollowTheMoney source migration after the service merged into OpenSecrets.", archivedDate: "2026-04-16" },
+  // DEPRECATED EXPERIMENTS
+  { name: "batch-propose-class-tags-heuristic.cjs", category: "deprecated-experiments", whatItDid: "Heuristic class-tag proposal pass. 346 proposals approved, heuristic retired. Ongoing work uses manual approvals.", archivedDate: "2026-04-16" },
+  { name: "batch-gather-entity-signals.cjs", category: "deprecated-experiments", whatItDid: "Signal collection for class-tag heuristic. Companion to batch-propose.", archivedDate: "2026-04-16" },
+  { name: "gen-perplexity-batches.cjs", category: "deprecated-experiments", whatItDid: "Generated batch research requests for Perplexity. Workflow now ad-hoc per CLAUDE.md rule 13.", archivedDate: "2026-04-16" },
+  { name: "load-perplexity-class-tag-proposals.cjs", category: "deprecated-experiments", whatItDid: "Integrated Perplexity research into class-tag proposals.", archivedDate: "2026-04-16" },
+  { name: "integrate-perplexity-research.cjs", category: "deprecated-experiments", whatItDid: "Same workflow as above.", archivedDate: "2026-04-16" },
+  { name: "match-fec-pdf.cjs", category: "deprecated-experiments", whatItDid: "Incomplete PDF-matcher experiment.", archivedDate: "2026-04-16" },
+  { name: "phase-6-deferred-items-collector.cjs", category: "deprecated-experiments", whatItDid: "Phase 6 closed (ADR-0008).", archivedDate: "2026-04-16" },
+]
+
 // Map script names to their API IDs for the Run button
 const SCRIPT_ID_MAP: Record<string, string> = {
   "Morning Briefing": "morning-briefing",
@@ -992,6 +1043,44 @@ export default function ScriptsPage() {
           )
         })}
 
+        {/* Archived Scripts — expandable section */}
+        <details className="mt-8 border border-[var(--color-border)] bg-[var(--color-bg-card)] rounded">
+          <summary className="p-4 cursor-pointer text-[13px] font-bold uppercase tracking-widest text-[var(--color-text)] hover:bg-[var(--color-bg)]">
+            Archived Scripts ({ARCHIVED_SCRIPTS.length}) — moved out of active use
+          </summary>
+          <div className="p-4 border-t border-[var(--color-border)]">
+            <p className="text-[11px] text-[var(--color-text-dim)] mb-4">
+              These scripts ran once (migrations, backfills, one-time cleanups) or were experiments that concluded.
+              Preserved in <code className="text-[var(--color-steel)]">scripts/_archive/</code> with git history intact.
+              To resurrect: <code className="text-[var(--color-steel)]">git mv scripts/_archive/&lt;category&gt;/&lt;name&gt;.cjs scripts/</code>
+            </p>
+            {Object.entries(ARCHIVED_CATEGORIES).map(([cat, label]) => {
+              const items = ARCHIVED_SCRIPTS.filter((s) => s.category === cat)
+              if (items.length === 0) return null
+              return (
+                <div key={cat} className="mb-6">
+                  <h3 className="text-[10px] font-bold uppercase tracking-widest text-[var(--color-yellow)] mb-2">
+                    {label} ({items.length})
+                  </h3>
+                  <div className="space-y-2">
+                    {items.map((s) => (
+                      <div key={s.name} className="p-2 bg-[var(--color-bg)] border border-[var(--color-border)] text-[10px] font-mono">
+                        <div className="flex items-center justify-between">
+                          <code className="text-[var(--color-text)]">{s.name}</code>
+                          <span className="text-[9px] text-[var(--color-text-dim)]">{s.archivedDate}</span>
+                        </div>
+                        <p className="mt-1 text-[var(--color-text-dim)] font-sans text-[11px]">
+                          {s.whatItDid}
+                        </p>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )
+            })}
+          </div>
+        </details>
+
         {/* Footer note */}
         <div className="mt-12 p-4 bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded text-[10px] text-[var(--color-text-dim)]">
           <p className="mb-2">
@@ -1000,11 +1089,15 @@ export default function ScriptsPage() {
             <code className="text-[var(--color-steel)]">ops/src/app/scripts/page.tsx</code>.
             Plain-English descriptions only — no jargon. If a non-coder can't understand what it does, rewrite.
           </p>
-          <p>
+          <p className="mb-2">
             <strong className="text-[var(--color-text)]">Where they live:</strong>{" "}
             <code className="text-[var(--color-steel)]">scripts/</code> in the site repo. Each is a standalone
             Node.js CommonJS script. Run from the repo root with{" "}
             <code className="text-[var(--color-steel)]">node scripts/NAME.cjs</code>.
+          </p>
+          <p>
+            <strong className="text-[var(--color-text)]">Archived scripts</strong> live in{" "}
+            <code className="text-[var(--color-steel)]">scripts/_archive/</code> with a README catalog. See the expandable section above.
           </p>
         </div>
       </div>
