@@ -2077,7 +2077,7 @@ function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.Re
                     fill="none"
                     stroke="#22c55e"
                     strokeWidth={Math.max(0.5, (f.buyAmt / maxVol) * 12)}
-                    opacity={isDimmed ? 0.05 : isHighlighted ? 0.9 : 0.25}
+                    opacity={isDimmed ? 0.1 : isHighlighted ? 0.9 : 0.3}
                     className="transition-opacity duration-150"
                   />
                 )}
@@ -2087,7 +2087,7 @@ function MoneyTrailGraph({ trades, svgRef }: { trades: Trade[]; svgRef: React.Re
                     fill="none"
                     stroke="#ef4444"
                     strokeWidth={Math.max(0.5, (f.sellAmt / maxVol) * 12)}
-                    opacity={isDimmed ? 0.05 : isHighlighted ? 0.9 : 0.25}
+                    opacity={isDimmed ? 0.1 : isHighlighted ? 0.9 : 0.3}
                     className="transition-opacity duration-150"
                   />
                 )}
