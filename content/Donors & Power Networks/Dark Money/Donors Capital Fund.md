@@ -2,7 +2,7 @@
 title: "Donors Capital Fund"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -26,7 +26,7 @@ ein: 541934032
 annual-revenue: "$696K"
 net-assets: "$9.5M"
 tax-year: "2023"
-related: "[[DeVos Family]] · [[Freedom Partners]] · [[State Policy Network]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Federalist Society]] · [[America First Legal]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]]"
+related: "[[DeVos Family]] · [[Freedom Partners]] · [[State Policy Network]] · [[DonorsTrust]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Federalist Society]] · [[America First Legal]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Demand Justice]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 8448130
 total-assets: 10973631

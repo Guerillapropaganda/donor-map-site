@@ -2,7 +2,7 @@
 title: Lawrence Summers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Wall Street
@@ -23,7 +23,7 @@ regulatory-agencies:
   - State Department
 total-political-spend: $401,797
 politicians-funded: "[[Sherrod Brown]], [[Kamala Harris]], [[Barack Obama]], [[Shontel Brown]], [[Joe Biden]]"
-related: "[[Sherrod Brown]] · [[Kamala Harris]] · [[Joe Biden]]"
+related: "[[Sherrod Brown]] · [[Kamala Harris]] · [[Joe Biden]] · [[Barack Obama]]"
 ---
 
 

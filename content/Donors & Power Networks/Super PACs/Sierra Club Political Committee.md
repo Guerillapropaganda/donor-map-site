@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00135368
 aliases:
@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Debbie Stabenow]], [[Ed Markey]], [[Gregory Meeks]], [[Ron Wyden]]"
-related: "[[Debbie Stabenow]] · [[Ron Wyden]]"
+related: "[[Debbie Stabenow]] · [[Ron Wyden]] · [[Ed Markey]]"
 ---
 
 ## Auto-Created Stub

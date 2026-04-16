@@ -154,6 +154,16 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-15 23:54 UTC — 2 profiles
+
+**GovTrack — 2 profiles:**
+- Sherrod Brown — 897 sponsored, 7312 cosponsored ⚠️ CONFLICT
+- Adam Smith — 199 sponsored, 4981 cosponsored ⚠️ CONFLICT
+
+**Conflicts detected: 2** (see `pending-merge` blocks in the listed profiles)
+
+---
 ## 2026-04-15 22:43 UTC — 109 profiles
 
 **influence-xref — 109 profiles:**

@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C30001432
 aliases:
@@ -18,7 +18,7 @@ last-enriched: "2026-04-15"
 ofac-programs:
   - "RUSSIA-EO14024"
   - "SDGT] [IFSR"
-related: "[[Harry Reid]]"
+related: "[[Harry Reid]] · [[Chris Coons]]"
 ---
 
 ## Auto-Created Stub

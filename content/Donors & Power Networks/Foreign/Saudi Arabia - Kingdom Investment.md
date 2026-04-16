@@ -2,7 +2,7 @@
 title: "Saudi Arabia - Kingdom Investment"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
@@ -13,7 +13,7 @@ needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "SDGT"
-related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]]"
+related: "[[The National Security and Foreign Policy Realist]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Mohammed bin Salman]] · [[Halliburton]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]] · [[Entertainment and Hollywood Donors]]"
 lei: "558600VNAD657YBT9892"
 lei-jurisdiction: "SA"
 cross-vault-triangulation-count: 3

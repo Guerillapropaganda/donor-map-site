@@ -2,14 +2,14 @@
 title: Occidental Petroleum
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Energy & Utilities
 entity-type: Corporation
 lei: IM7X0T3ECJW4C1T7ON55
 lei-jurisdiction: US-DE
-related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]] · [[Devon Energy]] · [[Halliburton]] · [[ExxonMobil]] · [[Chevron]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]]"
+related: "[[Valero Energy]] · [[Kevin McCarthy Master Profile]] · [[Marathon Petroleum]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Environment - Donors and Backers]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Holland & Knight]] · [[Koch Industries]] · [[ConocoPhillips]] · [[Devon Energy]] · [[Halliburton]] · [[ExxonMobil]] · [[Chevron]] · [[NextEra Energy]] · [[Southern Company]] · [[Duke Energy]] · [[Raytheon (RTX Corporation)]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]]"
 court-cases: 2807
 last-enriched: "2026-04-09"
 needs-reenrichment: true

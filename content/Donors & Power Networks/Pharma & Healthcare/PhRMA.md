@@ -2,7 +2,7 @@
 title: PhRMA - Pharmaceutical Research and Manufacturers of America
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Pharma & Healthcare
@@ -23,7 +23,7 @@ regulatory-agencies:
   - Health and Human Services Department
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-related: ">- · [[Healthcare - Donors and Backers]] · [[Richard Neal]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie]]"
+related: ">- · [[Healthcare - Donors and Backers]] · [[Richard Neal]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Brett Guthrie]] · [[2026-03-26 Finance Research]]"
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 sec-filings: 58

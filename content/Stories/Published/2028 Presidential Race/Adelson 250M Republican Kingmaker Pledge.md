@@ -2,10 +2,10 @@
 title: "Adelson 250M Republican Kingmaker Pledge"
 type: story
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
-related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
+related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]]"
 ---
 #2028-election #republican-primary #mega-donor #adelson #israel-lobby
 

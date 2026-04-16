@@ -2,14 +2,14 @@
 title: Heritage Foundation
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
 lei: 5493006YU7R03XUJSX56
 lei-jurisdiction: US-DC
-related: ">- · [[Jim Risch]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[Stephen Miller]] · [[Jodey Arrington]]"
+related: ">- · [[Jim Risch]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[Stephen Miller]] · [[Jodey Arrington]] · [[Donna Miller]]"
 fara-status: registrant
 fara-records: 2
 fara-countries:

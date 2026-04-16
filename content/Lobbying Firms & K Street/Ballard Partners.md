@@ -2,14 +2,14 @@
 title: Ballard Partners
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 annual-revenue: $88.1M (2025)
 lobbyist-count: 38
 fara-clients: 14
 revolving-door-pct: 29.7%
-related: ">- · [[The DOJ as Political Weapon and Donor Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]]"
+related: ">- · [[The DOJ as Political Weapon and Donor Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]]"
 court-cases: 33
 last-enriched: '2026-04-07'
 needs-reenrichment: true

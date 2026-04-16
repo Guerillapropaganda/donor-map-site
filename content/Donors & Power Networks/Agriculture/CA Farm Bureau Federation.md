@@ -2,12 +2,12 @@
 title: CA Farm Bureau Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[Glenn Thompson]] · [[Cindy Hyde-Smith]] · [[Ketanji Brown Jackson]] · [[Lindsey Graham]]"
+related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[Glenn Thompson]] · [[Cindy Hyde-Smith]] · [[Ketanji Brown Jackson]] · [[Lindsey Graham]] · [[Trent Kelly]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

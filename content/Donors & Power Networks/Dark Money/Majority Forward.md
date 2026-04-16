@@ -2,7 +2,7 @@
 title: Majority Forward
 type: pac
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -16,7 +16,7 @@ nonprofit-status: 501(c)(4)
 last-enriched: '2026-04-09'
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]]"
+related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]] · [[Chuck Schumer]]"
 court-cases: 36
 court-jurisdictions:
   - Court of Appeals for the Fourth Circuit

@@ -2,13 +2,13 @@
 title: David McIntosh
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
 politicians-funded: "[[Roy Cooper]], [[Raphael Warnock]], [[Donald Trump]], [[Kamala Harris]], [[Jon Ossoff]]"
-related: "[[Club for Growth]] · [[Donald Trump]] · [[Kamala Harris]]"
+related: "[[Club for Growth]] · [[Donald Trump]] · [[Kamala Harris]] · [[Raphael Warnock]]"
 last-enriched: "2026-04-11"
 federal-register-mentions: 10
 regulatory-agencies:

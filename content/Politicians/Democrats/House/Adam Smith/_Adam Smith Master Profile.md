@@ -39,7 +39,7 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline
 govtrack-id: 400379
 bills-sponsored: 199
-bills-cosponsored: 4972
+bills-cosponsored: 4981
 website: https://adamsmith.house.gov
 phone: 202-225-8901
 internal-notes: |-
@@ -362,6 +362,41 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
 <!-- auto:govtrack end -->
+
+<!-- auto:govtrack pending-merge 2026-04-15 -->
+> [!attention] Fresh API data available — needs manual merge
+> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 199 |
+| Bills Cosponsored | 4,981 |
+| Total Votes Cast | 18,376 |
+
+**Recent bills sponsored:**
+
+- H.R. 6281: CHARGE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5859: Behavioral Health Crisis Care Centers Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5807: Empowering Individuals to Succeed Through Education and Workforce Training Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5806: Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5785: Voluntary Grazing Permit Retirement Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-04-15 | On Motion to Discharge: H.Res. 965: Providing for consideration of the bill (H.R… | Yea | Passed |
+| 2026-04-15 | On Agreeing to the Resolution: H RES 1174 Providing for consideration of the bil… | No | Passed |
+| 2026-04-15 | On Ordering the Previous Question: H RES 1174 Providing for consideration of the… | Nay | Passed |
+| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collisi… | Yea | Passed |
+| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | Yea | Passed |
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400379) (Tier 1)
+
+<!-- auto:govtrack pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

@@ -2,7 +2,7 @@
 title: Demand Justice
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -18,7 +18,7 @@ total-assets: 1534141
 total-political-spend: $20,000
 lobbying-spend: 650000
 lobbying-filings: 45
-related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Western States Petroleum Association]] · [[Ohio Democratic Party]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Healthcare Sector]]"
+related: "[[New Venture Fund]] · [[Sheldon Whitehouse]] · [[The Dark Money Crusader and Court Reform]] · [[Jamie Raskin]] · [[Sixteen Thirty Fund]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[Leonard Leo]] · [[Federalist Society]] · [[The 85 Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[DeVos Family]] · [[National Education Association]] · [[Insurance Industry]] · [[Western States Petroleum Association]] · [[Ohio Democratic Party]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]]"
 court-cases: 240
 court-jurisdictions:
   - Court of Appeals for the Ninth Circuit

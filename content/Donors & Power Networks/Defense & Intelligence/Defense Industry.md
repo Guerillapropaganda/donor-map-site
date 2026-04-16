@@ -2,7 +2,7 @@
 title: Defense Industry
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Defense & Intelligence
@@ -30,7 +30,7 @@ regulatory-agencies:
   - International Trade Administration
 lei: 5299006DUWIX3AEL2A58
 lei-jurisdiction: US-DE
-related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Fanjul Family - Florida Crystals]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]] · [[American Federation for Children]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Stand Together]]"
+related: "[[Tom Cotton Master Profile]] · [[Martin Heinrich Master Profile]] · [[Jeanne Shaheen Master Profile]] · [[Gary Peters Master Profile]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Fanjul Family - Florida Crystals]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]] · [[American Federation for Children]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Stand Together]] · [[National Association of Manufacturers]]"
 nonprofit-status: 501(c)(6)
 total-revenue: 995455
 total-assets: 1266724

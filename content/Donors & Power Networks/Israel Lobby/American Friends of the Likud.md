@@ -2,13 +2,13 @@
 title: American Friends of the Likud
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Israel Lobby
 entity-type: Individual Donor
 politicians-funded: "[[Benjamin Netanyahu]]"
-related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Israel - Government Lobbying Operation]] · [[The American Donor Network]] · [[Benjamin Netanyahu]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[California Charter Schools Association]]"
+related: "[[Haim Saban]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Miriam Adelson]] · [[Pro-Israel Donor Network Deep Dive]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Israel - Government Lobbying Operation]] · [[The American Donor Network]] · [[Benjamin Netanyahu]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[California Charter Schools Association]] · [[Trump Donor Coalition]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

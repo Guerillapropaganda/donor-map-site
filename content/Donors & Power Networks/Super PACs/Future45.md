@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00574533
 aliases:
@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Nancy Pelosi]], [[Elizabeth Warren]], [[Maxine Waters]]"
-related: "[[Elizabeth Warren]] · [[Nancy Pelosi]]"
+related: "[[Elizabeth Warren]] · [[Nancy Pelosi]] · [[Maxine Waters]]"
 ---
 
 ## Auto-Created Stub

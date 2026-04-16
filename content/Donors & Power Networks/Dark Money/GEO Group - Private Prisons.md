@@ -3,10 +3,10 @@ title: "GEO Group - Private Prisons"
 type: redirect
 editorial-status: redirect
 redirect-target: "[[GEO Group]]"
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 aliases:
   - "GEO Group - Private Prisons"
-related: "[[Immigration Enforcement - The Detention Economy]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]]"
 ---
 
 # GEO Group - Private Prisons

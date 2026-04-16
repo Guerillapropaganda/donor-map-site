@@ -2,7 +2,7 @@
 title: "New Venture Fund"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -56,7 +56,7 @@ sec-form-types:
   - "S-1/A"
   - "S-4"
   - "S-4/A"
-related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]] · [[Media Matters]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Koch vs Soros Mirror Image Dark Money Machines]]"
+related: "[[National Progressive Donor Networks]] · [[Center for American Progress]] · [[Demand Justice]] · [[Arabella Advisors]] · [[Sixteen Thirty Fund]] · [[Democracy Alliance]] · [[Media Matters]] · [[Democratic Party Infrastructure]] · [[Open Society Foundations]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Western Growers Association]]"
 nonprofit-status: "501(c)(3)"
 total-revenue: 664320202
 total-assets: 624857462

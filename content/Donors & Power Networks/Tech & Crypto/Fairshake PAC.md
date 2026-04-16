@@ -2,7 +2,7 @@
 title: Fairshake PAC
 type: pac
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Tech & Crypto
@@ -26,7 +26,7 @@ issues:
   - Dark Money & Campaign Finance
   - Financial Deregulation
   - Technology
-related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Mike Collins]] · [[Crypto and AIPAC's Georgia Strategy]]"
+related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Mike Collins]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Bernie Moreno]]"
 source-types:
   - FEC
 known-gaps:

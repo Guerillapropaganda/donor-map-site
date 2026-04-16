@@ -2,7 +2,7 @@
 title: Brady Campaign
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Dark Money
@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: $4.8M
 net-assets: $8.1M
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: 501(c)(4)

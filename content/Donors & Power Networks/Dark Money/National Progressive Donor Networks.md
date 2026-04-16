@@ -2,7 +2,7 @@
 title: National Progressive Donor Networks
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -10,7 +10,7 @@ entity-type: Individual Donor
 politicians-funded: "[[Mallory McMorrow]], [[Zach Wahls]], [[Tom Steyer]]"
 issues:
   - Dark Money & Campaign Finance
-related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]]"
+related: "[[Democratic Donor Network]] · [[Zach Wahls Master Profile]] · [[Mallory McMorrow Master Profile]] · [[Center for American Progress]] · [[Viral Moment Pipeline and National Fundraising]] · [[Arabella Advisors]] · [[Democracy Alliance]] · [[George Soros]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Western Growers Association]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

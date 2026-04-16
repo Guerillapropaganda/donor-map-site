@@ -2,7 +2,7 @@
 title: Tim Dunn
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Mega-Donors
@@ -22,7 +22,7 @@ court-jurisdictions:
   - United States Bankruptcy Court, D. Delaware
   - United States Bankruptcy Court, S.D. New York
 total-political-spend: $9,908,147
-related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers , Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]] · [[Stephen Miller]] · [[Michael Whatley]]"
+related: "[[The National Security-to-Senate Pipeline]] · [[Barbara Lee]] · [[Mike Lee]] · [[Wilks Brothers , Dan and Farris Wilks]] · [[_Mike Rogers Master Profile]] · [[Great Lakes Conservatives Fund]] · [[Tim Dunn]] · [[America First Policy Institute]] · [[Stephen Miller]] · [[Michael Whatley]] · [[Donna Miller]]"
 sec-filings: 63
 sec-form-types:
   - 10-K/A

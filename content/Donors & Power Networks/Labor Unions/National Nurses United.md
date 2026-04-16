@@ -2,7 +2,7 @@
 title: National Nurses United
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
 sector: Labor Unions
@@ -27,7 +27,7 @@ regulatory-agencies:
   - Regulatory Information Service Center
 lobbying-spend: 3106887
 lobbying-filings: 143
-related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]] · [[Bernie Sanders]] · [[Tammy Baldwin]]"
+related: "[[Pramila Jayapal]] · [[Sarah Huckabee Sanders]] · [[Raul Grijalva]] · [[Mark Takano]] · [[Jim McGovern]] · [[Bernie Sanders]] · [[Tammy Baldwin]] · [[Ilhan Omar]]"
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 ---

@@ -2,7 +2,7 @@
 title: National Association of Realtors
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Real Estate
@@ -57,7 +57,7 @@ regulatory-agencies:
   - Justice Department
   - Labor Department
   - National Labor Relations Board
-related: ">- · [[The Real Estate President and the Fair Housing Demolition]] · [[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom]]"
+related: ">- · [[The Real Estate President and the Fair Housing Demolition]] · [[Housing - Donors and Backers]] · [[The Ways and Means Chair and TCJA Extension]] · [[Gavin Newsom]] · [[Real Estate Industry Bloc]]"
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 aliases:

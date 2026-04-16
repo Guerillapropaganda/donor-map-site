@@ -2,7 +2,7 @@
 title: Ohio Federation of Teachers
 type: donor
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -15,7 +15,7 @@ subawards-received-amount: 1009778941592127500
 sec-filings: 1
 sec-form-types:
   - 424B3
-related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]] · [[Democratic Party Infrastructure]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[American Iron and Steel Institute]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]]"
+related: "[[Amy Acton Master Profile]] · [[The Labor Coalition and What Unions Expect]] · [[National Education Association]] · [[Ohio Democratic Party]] · [[Sherrod Brown]] · [[American Federation of Teachers]] · [[AFL-CIO]] · [[Ohio Education Association]] · [[Democratic Donor Network]] · [[Democratic Party Infrastructure]] · [[Small Dollar Donors - ActBlue]] · [[Democratic Small Dollar Networks]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[American Iron and Steel Institute]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]]"
 lobbying-spend: 2868540
 lobbying-filings: 96
 cross-vault-triangulation-count: 9

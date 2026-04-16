@@ -2,14 +2,14 @@
 title: Americans for Tax Reform - Grover Norquist
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
 issues:
   - Dark Money & Campaign Finance
-related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]]"
+related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]] · [[American Enterprise Institute]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

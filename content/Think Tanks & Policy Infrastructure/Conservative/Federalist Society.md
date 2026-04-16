@@ -2,12 +2,12 @@
 title: Federalist Society
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 category: conservative
 tax-status: 501c3
-related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[Samuel Alito]] · [[Clarence Thomas]] · [[Donald Trump]]"
+related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[Samuel Alito]] · [[Clarence Thomas]] · [[Donald Trump]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]]"
 federal-register-mentions: 2
 last-enriched: '2026-04-11'
 regulatory-agencies:

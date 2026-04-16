@@ -2,7 +2,7 @@
 title: "Holland & Knight"
 type: lobbying-firm
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 annual-revenue: "$54.9M (2025)"
@@ -19,7 +19,7 @@ fara-countries:
   - "JAPAN"
   - "KOREA SOUTH"
   - "QATAR"
-related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Invariant]] · [[Forbes Tate Partners]]"
+related: "[[Google - Alphabet|Alphabet/Google]] · [[Occidental Petroleum]] · [[Fossil Fuel Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Prime Policy Group]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Invariant]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]]"
 ein: "311472972"
 nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-09"

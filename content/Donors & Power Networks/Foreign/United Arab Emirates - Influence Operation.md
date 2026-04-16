@@ -2,14 +2,14 @@
 title: "United Arab Emirates - Influence Operation"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 issues:
   - "Technology"
-related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]]"
+related: "[[Turkey - Erdogan Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[Haim Saban]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Israel - Government Lobbying Operation]] · [[California Charter Schools Association]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
