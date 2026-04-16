@@ -28,6 +28,7 @@ stock-trade-tickers:
   - "APC"
   - "NVS"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S8NV00156"
 ---
 
 

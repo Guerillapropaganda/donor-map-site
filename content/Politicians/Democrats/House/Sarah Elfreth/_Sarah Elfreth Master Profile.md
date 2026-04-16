@@ -24,6 +24,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[United Democracy Project - UDP]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H4MD03156"
 ---
 
 

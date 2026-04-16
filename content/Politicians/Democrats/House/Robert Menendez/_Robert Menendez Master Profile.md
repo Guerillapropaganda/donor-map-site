@@ -24,6 +24,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H2NJ13075"
 ---
 
 

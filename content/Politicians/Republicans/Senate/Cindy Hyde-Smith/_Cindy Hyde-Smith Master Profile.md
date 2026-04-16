@@ -23,6 +23,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S8MS00261"
 ---
 
 

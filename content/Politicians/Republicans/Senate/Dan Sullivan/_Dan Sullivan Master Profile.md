@@ -35,6 +35,7 @@ stock-trade-tickers:
   - "GFAFX"
 donors: "[[ConocoPhillips]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S4AK00214"
 ---
 
 

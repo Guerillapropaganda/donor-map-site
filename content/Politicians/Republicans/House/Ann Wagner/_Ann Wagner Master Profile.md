@@ -23,6 +23,7 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H2MO02102"
 ---
 
 

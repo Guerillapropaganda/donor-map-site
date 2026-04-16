@@ -31,6 +31,7 @@ ofac-programs:
   - "VENEZUELA-EO13850"
   - "SDGT] [ILLICIT-DRUGS-EO14059"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H0TX15124"
 ---
 
 

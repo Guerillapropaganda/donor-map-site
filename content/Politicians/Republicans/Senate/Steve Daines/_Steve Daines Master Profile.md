@@ -23,6 +23,7 @@ known-gaps:
   - "No mapped relationships"
 stock-trades: 1
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S2MT00096"
 ---
 
 

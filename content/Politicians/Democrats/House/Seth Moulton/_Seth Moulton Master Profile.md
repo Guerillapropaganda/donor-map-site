@@ -24,6 +24,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Raytheon (RTX Corporation)]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S6MA00296"
 ---
 
 

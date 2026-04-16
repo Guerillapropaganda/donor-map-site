@@ -23,6 +23,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Fairshake PAC]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S4MI00470"
 ---
 
 

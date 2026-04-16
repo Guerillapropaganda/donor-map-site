@@ -24,6 +24,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[DMFI - Democratic Majority for Israel]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H8IL06139"
 ---
 
 

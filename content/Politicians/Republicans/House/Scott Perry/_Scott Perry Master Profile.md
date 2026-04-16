@@ -25,6 +25,7 @@ known-gaps:
 donors: "[[House Freedom Caucus]]"
 related: "[[House Freedom Caucus]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H2PA04135"
 ---
 
 
