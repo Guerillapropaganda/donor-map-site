@@ -1,9 +1,9 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 ---
-<!-- last session: Pipeline audit + batch schedule fix (2026-04-15, continuation). Full batch run completed after prior session. Audited all 5 batches from GitHub Actions logs. Pipeline scorecard: 18/35 functional (writing data), 12 writing 0, 3 orphaned (lda/lobbyview/doj-press). Key findings: (1) SAM hit 10x 429 rate limits because batch2 (FEC/FTC/OCC/FDA all use api.data.gov) and batch3 fired only 1hr apart — quota conflict. Fixed: batch3 rescheduled from 0 9,21 to 0 11,23 UTC (3hr gap). Committed 61a479e to engine repo. (2) Auto-connection-engine.cjs crashes at flushLog line 101 in every batch run — stack trace visible in logs but summaries still print (workflow reads log files independently). Not blocking writes but should be diagnosed. (3) Batch4 (fara/osha/voting-record) shows Not found:15/15 or Errors:15/15 — entire pipelines failing silently. (4) Govtrack 2 errors are transient API failures, not structural. (5) Committee 0 writes = data already current, expected. (6) FEC full-receipts pipeline wrote 0 — log line truncated, cause unknown. Query engine contract tests expanded from 20→30 tests (10 edge cases added). vault-integrity.cjs donors-array bug fixed. rebuild-relationship-caches.cjs built and ran (634 profiles fixed). Nonprofit-990 EIN-first lookup shipped to engine (commit 6e40251). -->
+<!-- last session: Bulk data ingest marathon (2026-04-16, Code Claude). Parsed 258M+ rows across 3 new scripts. (1) ingest-usaspending-grants-bulk.cjs: 2.9M rows from FY2026 assistance awards → 37 federal-grant edges + 25 profiles (AEI $7.3M, Heritage $2.4M, Bradley $3.4M). Added federal-grant edge type to schema. (2) ingest-fec-individual-bulk.cjs: 255.3M rows from 6 FEC individual contribution cycles (2016-2026) → 17,816 monetary edges + 294 employer profiles. Per-cycle flush architecture to avoid OOM on 18.7GB. Top: Las Vegas Sands $159M, Blackstone $99.9M, Google $52.8M, FTX $45.8M. (3) ingest-congress-bills-bulk.cjs: 19,308 bill XMLs from 118th Congress → 465 politician profiles with bills-sponsored, bills-cosponsored, bills-enacted, top-policy-area frontmatter + auto-blocks. 96.5% match rate via bioguideId. Reviewed master list of ~200 potential data sources, recommended Tier 1 downloads: IRS 990 bulk, FEC independent expenditures, CMS Open Payments, SEC Form 4, LittleSis, EPA enforcement, OpenSanctions. -->
 
 
 
@@ -55,9 +55,11 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 
 | Metric | Count |
 |---|---|
-| Total canonical records | ~56,245 across 9 stores |
-| Monetary edges (total / with real amount) | 25,787 / **25,787** (100%, was 2,696 / 661) |
-| Government-contract edges | **714** (new type this session) |
+| Total canonical records | ~74,000 across 9 stores |
+| Monetary edges (total / with real amount) | 43,603 / **43,603** (100%) |
+| Government-contract edges | **714** |
+| Federal-grant edges | **37** (new type this session) |
+| Employee-contribution edges | **17,816** (new this session, 2016-2026) |
 | Sources (live / archived / needs_review / dead / other) | 9,555 / 3,317 / 1,041 / 539 / 229 |
 | Entities (donors / politicians / tags approved) | 276 / 709 / 71 in entities.jsonl + 346 proposals approved |
 | Class tag proposals (pending / approved / rejected) | 0 / 346 / 0 |
@@ -65,6 +67,7 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 | Profiles one-flag-flip from verified | 19 |
 | FEC committees in registry | 852 (was 293) |
 | Politicians with FEC candidate IDs | 418 (was 187) |
+| Politicians with bill data (118th Congress) | 465 |
 | Pre-commit sentinels | 9 |
 | Quartz TS errors | 0 — pre-push strict |
 | Ops TS errors | 17 (documented deferred) |
