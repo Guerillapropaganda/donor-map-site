@@ -3,7 +3,7 @@ title: "Ayanna Pressley Master Profile"
 type: politician
 content-readiness: ready
 central-thesis: "Pressley is the Squad member who chose institutional integration over institutional confrontation — building power within committee structures rather than through media insurgency. Her Financial Services Committee seat gives her formal jurisdictio..."
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -41,7 +41,7 @@ source-types:
 corroboration-count: 4
 known-gaps:
   - DOJ press pipeline data stripped 2026-04-10 (was false positive index-size bug — 264,413 generic mentions). Needs re-enrichment after DOJ pipeline sanity cap takes effect.
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: "demote to draft; re-run fec pipeline; re-run congress pipeline"
 opposes:
@@ -520,7 +520,7 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 - {{src:src_006345}} (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
+<!-- auto:fec-politician pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
