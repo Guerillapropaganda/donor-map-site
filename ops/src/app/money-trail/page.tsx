@@ -179,14 +179,15 @@ export default function MoneyTrailPage() {
     }))
 
     // Force simulation — star layout, center pinned
+    // Heavier nodes get more collision space so they spread out naturally
     const sim = forceSimulation<ForceNode>(nodes)
-      .force("charge", forceManyBody().strength(-150))
+      .force("charge", forceManyBody<ForceNode>().strength(d => d.isCenter ? -200 : -80 - getNodeRadius(d, maxAmt) * 3))
       .force("center", forceCenter(width / 2, height / 2).strength(0.05))
-      .force("link", forceLink<ForceNode, ForceLink>(links).distance(100).strength(0.3))
-      .force("collide", forceCollide<ForceNode>(d => getNodeRadius(d, maxAmt) + 4).iterations(3))
-      .force("x", forceX(width / 2).strength(0.03))
-      .force("y", forceY(height / 2).strength(0.03))
-      .alphaDecay(0.025)
+      .force("link", forceLink<ForceNode, ForceLink>(links).distance(d => 80 + getNodeRadius(d.target as ForceNode, maxAmt) * 2).strength(0.25))
+      .force("collide", forceCollide<ForceNode>(d => getNodeRadius(d, maxAmt) + 6).iterations(3))
+      .force("x", forceX(width / 2).strength(0.02))
+      .force("y", forceY(height / 2).strength(0.02))
+      .alphaDecay(0.02)
 
     centerNode.fx = width / 2
     centerNode.fy = height / 2
@@ -210,18 +211,28 @@ export default function MoneyTrailPage() {
       .attr("stroke-opacity", 0.25)
       .attr("stroke-dasharray", (d: any) => d.connType === "opposition" ? "4 3" : "none")
 
-    // Flow dots
+    // Flow dots — money flows FROM connections TO center (donations coming in)
+    // Opposition flows FROM center TO target (spending going out)
     const flowDots = g.append("g").selectAll("circle")
-      .data(links.filter(l => l.connType === "money")).join("circle")
-      .attr("r", 2).attr("fill", "#22c55e").attr("opacity", 0.6)
+      .data(links).join("circle")
+      .attr("r", (d: any) => d.connType === "opposition" ? 2 : 2.5)
+      .attr("fill", (d: any) => CONN_COLORS[d.connType] || "#22c55e")
+      .attr("opacity", 0.6)
 
     function animateFlow() {
       const t = Date.now() * 0.001
       flowDots.each(function (d: any, i: number) {
         const phase = (t * 0.3 + i * 0.17) % 1
-        const sx = d.source.x ?? 0, sy = d.source.y ?? 0
-        const tx = d.target.x ?? 0, ty = d.target.y ?? 0
-        select(this).attr("cx", sx + (tx - sx) * phase).attr("cy", sy + (ty - sy) * phase)
+        // For money/contracts: flow from target (donor) toward source (center) — money flowing IN
+        // For opposition: flow from source (center) toward target — spending going OUT
+        const isOpposition = d.connType === "opposition"
+        const fromX = isOpposition ? (d.source.x ?? 0) : (d.target.x ?? 0)
+        const fromY = isOpposition ? (d.source.y ?? 0) : (d.target.y ?? 0)
+        const toX = isOpposition ? (d.target.x ?? 0) : (d.source.x ?? 0)
+        const toY = isOpposition ? (d.target.y ?? 0) : (d.source.y ?? 0)
+        select(this)
+          .attr("cx", fromX + (toX - fromX) * phase)
+          .attr("cy", fromY + (toY - fromY) * phase)
       })
       requestAnimationFrame(animateFlow)
     }
