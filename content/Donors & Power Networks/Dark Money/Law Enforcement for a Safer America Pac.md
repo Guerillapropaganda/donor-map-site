@@ -21,6 +21,11 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+total-raised: 3011138
+total-spent: 2971467
+cash-on-hand: 150822
+independent-expenditures: 213880
+individual-contributions: 2972964
 ---
 
 ### OFAC Sanctions Screening

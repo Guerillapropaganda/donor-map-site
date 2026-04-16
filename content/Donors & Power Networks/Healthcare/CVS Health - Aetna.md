@@ -20,6 +20,11 @@ epa-facilities: 18
 epa-states: "AZ, CA, CT, IL, RI"
 federal-contracts: 11
 federal-awards-total: 27301569
+total-raised: 1115160
+total-spent: 1150341
+cash-on-hand: 309063
+individual-contributions: 1107660
+contributions-to-committees: 570000
 ---
 
 <!-- auto:data-panel start -->

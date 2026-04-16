@@ -23,6 +23,11 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+total-raised: 7500
+total-spent: 7381
+cash-on-hand: 8211
+individual-contributions: 5000
+contributions-to-committees: 5500
 ---
 
 

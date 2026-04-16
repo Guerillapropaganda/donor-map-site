@@ -95,6 +95,11 @@ cross-vault-triangulation-count: 18
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 96
 epa-states: "AL, CA, IL, IN, KY, LA, MD, MI, ND, OH, OK, TN, TX, WI, WV"
+total-raised: 859027
+total-spent: 908335
+cash-on-hand: 520127
+individual-contributions: 859027
+contributions-to-committees: 694500
 ---
 
 <!-- auto:data-panel start -->

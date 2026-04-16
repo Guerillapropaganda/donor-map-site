@@ -27,6 +27,7 @@ last-enriched: "2026-04-12"
 ofac-programs:
   - "SDGT] [IFSR"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H2MI10150"
 ---
 
 

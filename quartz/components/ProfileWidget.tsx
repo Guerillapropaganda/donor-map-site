@@ -246,10 +246,19 @@ const ProfileWidget: QuartzComponent = ({
     )
   }
 
-  // ── FLOW TAB: Top donors with sector ──
+  // ── FLOW TAB: Top donors with sector + dollar amounts ──
+  // monetary-detail has per-connection amounts from the canonical edge store
+  type MonetaryDetail = { name: string; amount: number; cycle: string; confidence: number }
+  const monetaryDetail: MonetaryDetail[] = (rels as any)?.["monetary-detail"] ?? []
+  // Aggregate: sum amounts across cycles per donor, filter by confidence >= 0.7
+  const donorAmounts = new Map<string, number>()
+  for (const d of monetaryDetail) {
+    if (d.confidence < 0.7) continue
+    donorAmounts.set(d.name, (donorAmounts.get(d.name) || 0) + d.amount)
+  }
+
   const flowData = topDonors.map((donorName) => {
     const info = donorInfo.get(donorName)
-    // Determine relationship type from canonical data
     let relType: "donor" | "related" | "opposes" | "story" = "donor"
     if (rels) {
       if (rels.opposes.includes(donorName)) relType = "opposes"
@@ -263,8 +272,9 @@ const ProfileWidget: QuartzComponent = ({
       sector: info?.sector ?? "",
       slug: info?.slug ?? "",
       relType,
+      amount: donorAmounts.get(donorName) || 0,
     }
-  })
+  }).sort((a, b) => b.amount - a.amount) // sort by dollar amount when available
 
   // ── BOTH SIDES TAB: Which of my donors also fund the other party? ──
   const oppositeParty = party === "Democrat" ? "Republican" : party === "Republican" ? "Democrat" : ""
@@ -371,6 +381,18 @@ const ProfileWidget: QuartzComponent = ({
     miniGraphEdges.push({ source: centerId, target: nodeId, edgeType: info.edgeType || "allied" })
   }
 
+  // ── CONTRACTS TAB: Government contracts for corporation profiles ──
+  const contractDetail: MonetaryDetail[] = (rels as any)?.["contract-detail"] ?? []
+  // Aggregate by agency across fiscal years
+  const agencyTotals = new Map<string, number>()
+  for (const d of contractDetail) {
+    agencyTotals.set(d.name, (agencyTotals.get(d.name) || 0) + d.amount)
+  }
+  const contractData = [...agencyTotals.entries()]
+    .map(([agency, total]) => ({ agency, total }))
+    .sort((a, b) => b.total - a.total)
+  const hasContracts = contractData.length > 0
+
   const compactGraphData = JSON.stringify({ nodes: isPolitician ? compactNodes : miniGraphNodes, edges: isPolitician ? compactEdges : miniGraphEdges })
   const fullGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
   const hasMiniGraph = miniGraphNodes.length > 1
@@ -385,6 +407,7 @@ const ProfileWidget: QuartzComponent = ({
             {isPolitician ? "Donors" : "Connections"}
           </button>
         )}
+        {hasContracts && <button class="pw-tab" data-tab="contracts">Contracts</button>}
         {hasBothSides && <button class="pw-tab" data-tab="both">Both Sides</button>}
         {hasNetwork && <button class="pw-tab" data-tab="network">Reach</button>}
       </div>
@@ -414,7 +437,30 @@ const ProfileWidget: QuartzComponent = ({
                   <span class="pw-flow-sector">{d.sector}</span>
                 )}
               </div>
+              {d.amount > 0 && (
+                <span class="pw-flow-amount">
+                  {"$" + (d.amount >= 1e6 ? (d.amount / 1e6).toFixed(1) + "M" : d.amount >= 1e3 ? Math.round(d.amount / 1e3) + "K" : d.amount.toLocaleString())}
+                </span>
+              )}
             </a>
+          ))}
+        </div>
+      )}
+
+      {/* Tab: Contracts — Government contracts for corporations */}
+      {hasContracts && (
+        <div class="pw-panel" data-panel="contracts">
+          <div class="pw-section-label">FEDERAL CONTRACTS</div>
+          <div class="pw-explain">Government agencies awarding contracts to {currentTitle}. Source: USASpending.gov.</div>
+          {contractData.map((d) => (
+            <div class="pw-flow-row">
+              <div class="pw-flow-info">
+                <span class="pw-flow-donor">{d.agency}</span>
+              </div>
+              <span class="pw-flow-amount">
+                {"$" + (d.total >= 1e9 ? (d.total / 1e9).toFixed(1) + "B" : d.total >= 1e6 ? (d.total / 1e6).toFixed(1) + "M" : d.total >= 1e3 ? Math.round(d.total / 1e3) + "K" : d.total.toLocaleString())}
+              </span>
+            </div>
           ))}
         </div>
       )}
@@ -653,6 +699,16 @@ a.pw-rel-story { border-left: 3px solid #a855f7; }
   font-size: 10px;
   color: #8a8a96;
   letter-spacing: 0.5px;
+}
+
+.pw-flow-amount {
+  font-family: 'Space Mono', monospace;
+  font-size: 11px;
+  font-weight: 700;
+  color: #16a34a;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-left: 8px;
 }
 
 /* ─── Reach badge ────────────────────────────── */

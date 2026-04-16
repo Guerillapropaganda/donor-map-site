@@ -54,6 +54,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+total-raised: 2129173
+total-spent: 2364186
+cash-on-hand: 1625880
+individual-contributions: 2124166
+contributions-to-committees: 2355000
 ---
 
 <!-- auto:data-panel start -->

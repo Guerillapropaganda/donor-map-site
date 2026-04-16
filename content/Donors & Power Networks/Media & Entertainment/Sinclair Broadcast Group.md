@@ -39,6 +39,11 @@ cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 1
 epa-states: "CA"
+total-raised: 11000
+total-spent: 23500
+cash-on-hand: 39746
+individual-contributions: 11000
+contributions-to-committees: 23500
 ---
 
 <!-- auto:data-panel start -->

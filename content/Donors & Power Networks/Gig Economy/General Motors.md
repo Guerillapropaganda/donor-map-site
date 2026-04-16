@@ -55,6 +55,11 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 94
 epa-states: "CA, CO, FL, GA, IL, IN, KS, KY, MA, MD, MI, MO, NV, NY, OH, OK, PA, TN, TX, WI, WV"
 federal-contracts: 9814
+total-raised: 1586074
+total-spent: 2171418
+cash-on-hand: 25207
+individual-contributions: 1580449
+contributions-to-committees: 1200500
 ---
 
 <!-- auto:data-panel start -->

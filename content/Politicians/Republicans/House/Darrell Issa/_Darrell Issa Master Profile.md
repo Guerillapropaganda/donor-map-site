@@ -24,6 +24,12 @@ known-gaps:
   - "No mapped relationships"
 related: "[[Fanjul Family - Florida Crystals]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H0CA48024"
+total-raised: 131892
+total-spent: 77488
+cash-on-hand: 100010
+individual-contributions: 10509
+contributions-to-committees: 51700
 ---
 
 

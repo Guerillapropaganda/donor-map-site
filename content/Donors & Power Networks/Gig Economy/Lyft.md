@@ -70,6 +70,11 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: "CA"
 federal-contracts: 17
+total-raised: 12000
+total-spent: 5000
+cash-on-hand: 12374
+individual-contributions: 12000
+contributions-to-committees: 5000
 ---
 
 <!-- auto:data-panel start -->

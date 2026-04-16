@@ -24,6 +24,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H0TX13228"
 ---
 
 

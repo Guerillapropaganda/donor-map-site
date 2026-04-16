@@ -54,6 +54,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 epa-facilities: 84
 epa-states: "CA, CO, FL, GA, IL, KY, MI, MN, NJ, NY, OH, TN, TX, VA"
 federal-contracts: 18196
+total-raised: 621734
+total-spent: 557696
+cash-on-hand: 1092317
+individual-contributions: 596103
+contributions-to-committees: 326500
 ---
 
 <!-- auto:data-panel start -->

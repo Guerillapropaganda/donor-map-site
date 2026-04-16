@@ -65,6 +65,9 @@ occ-charter-numbers:
   - "718077"
 epa-facilities: 5
 epa-states: "AZ, CA, NE"
+total-raised: 6937
+total-spent: 147403
+individual-contributions: 6937
 ---
 
 <!-- auto:data-panel start -->

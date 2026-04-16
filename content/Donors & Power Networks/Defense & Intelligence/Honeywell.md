@@ -58,6 +58,11 @@ lei-parent: "HONEYWELL INTERNATIONAL INC."
 epa-facilities: 121
 epa-states: "AL, AZ, CA, CO, CT, DE, FL, GA, HI, IL, IN, KS, LA, MA, MD, MI, MN, NC, NE, NJ, NY, OH, OR, PA, RI, SC, TN, TX, WA, WI"
 federal-contracts: 9597
+total-raised: 4575037
+total-spent: 4365683
+cash-on-hand: 526588
+individual-contributions: 4566146
+contributions-to-committees: 2882000
 ---
 
 

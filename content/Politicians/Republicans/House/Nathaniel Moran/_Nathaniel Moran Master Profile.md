@@ -24,6 +24,7 @@ known-gaps:
   - No mapped relationships
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H2TX01112"
 ---
 
 

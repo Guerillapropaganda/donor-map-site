@@ -54,6 +54,11 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: "KY, SC"
 federal-contracts: 126
+total-raised: 858393
+total-spent: 668847
+cash-on-hand: 798951
+individual-contributions: 857746
+contributions-to-committees: 544000
 ---
 
 <!-- auto:data-panel start -->

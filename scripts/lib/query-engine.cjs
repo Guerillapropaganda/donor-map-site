@@ -39,6 +39,35 @@
  *   }
  */
 
+/**
+ * EDGE_TIER_PRESETS — Named filter presets for the three visibility tiers.
+ * Components and API endpoints use these instead of hardcoding thresholds.
+ *
+ * Usage:
+ *   const { EDGE_TIER_PRESETS } = require('./query-engine.cjs')
+ *   engine.query({ subject: 'edges', filters: { ...EDGE_TIER_PRESETS.public, from: 'AIPAC' } })
+ *
+ * | Tier     | Who sees it     | Edge types                          | Confidence floor |
+ * |----------|-----------------|-------------------------------------|------------------|
+ * | public   | Everyone        | monetary + government-contract      | 0.85             |
+ * | paid     | Subscribers     | monetary + contract + opposition    | 0.7              |
+ * | internal | Ops + Claude    | everything                          | 0.0              |
+ */
+const EDGE_TIER_PRESETS = {
+  public: {
+    min_confidence: 0.85,
+    _allowed_types: ['monetary', 'government-contract'],
+  },
+  paid: {
+    min_confidence: 0.7,
+    _allowed_types: ['monetary', 'government-contract', 'political-opposition'],
+  },
+  internal: {
+    min_confidence: 0,
+    _allowed_types: null, // all types
+  },
+}
+
 const edgesStore = require("./relationships-store.cjs")
 const entitiesStore = require("./entities-store.cjs")
 const eventsStore = require("./events-store.cjs")
@@ -71,26 +100,41 @@ function createInMemoryEngine() {
   function filterEdges(filters = {}) {
     ensureLoaded()
     const all = edgesStore.loadEdges()
-    const minConf = typeof filters.min_confidence === "number" ? filters.min_confidence : 0
+
+    // Apply tier preset if specified (merges preset filters with explicit ones)
+    let resolved = { ...filters }
+    if (filters.tier && EDGE_TIER_PRESETS[filters.tier]) {
+      const preset = EDGE_TIER_PRESETS[filters.tier]
+      resolved = { ...preset, ...filters }
+    }
+
+    const minConf = typeof resolved.min_confidence === "number" ? resolved.min_confidence : 0
+    const allowedTypes = resolved._allowed_types || null // null = all types
+
     return all.filter((e) => {
       // Status: default "active" unless "all" requested
-      if (filters.status !== "all") {
-        const wantStatus = filters.status || "active"
+      if (resolved.status !== "all") {
+        const wantStatus = resolved.status || "active"
         if (e.status !== wantStatus) return false
       }
-      if (filters.from && e.from !== filters.from) return false
-      if (filters.to && e.to !== filters.to) return false
-      if (filters.from_type && e.from_type !== filters.from_type) return false
-      if (filters.to_type && e.to_type !== filters.to_type) return false
-      if (filters.type && e.type !== filters.type) return false
+      if (resolved.from && e.from !== resolved.from) return false
+      if (resolved.to && e.to !== resolved.to) return false
+      if (resolved.from_type && e.from_type !== resolved.from_type) return false
+      if (resolved.to_type && e.to_type !== resolved.to_type) return false
+      // Single type filter (existing behavior)
+      if (resolved.type && e.type !== resolved.type) return false
+      // Multi-type filter via tier preset
+      if (allowedTypes && !allowedTypes.includes(e.type)) return false
       if (typeof e.confidence === "number" && e.confidence < minConf) return false
-      if (typeof filters.min_amount === "number") {
-        if (typeof e.amount !== "number" || e.amount < filters.min_amount) return false
+      if (typeof resolved.min_amount === "number") {
+        if (typeof e.amount !== "number" || e.amount < resolved.min_amount) return false
       }
-      if (typeof filters.max_amount === "number") {
-        if (typeof e.amount !== "number" || e.amount > filters.max_amount) return false
+      if (typeof resolved.max_amount === "number") {
+        if (typeof e.amount !== "number" || e.amount > resolved.max_amount) return false
       }
-      if (filters.source && e.source !== filters.source) return false
+      if (resolved.source && e.source !== resolved.source) return false
+      // Cycle filter (e.g., "2024" or "FY2024")
+      if (resolved.cycle && e.cycle !== resolved.cycle) return false
       return true
     })
   }
@@ -353,4 +397,5 @@ function createInMemoryEngine() {
 
 module.exports = {
   createQueryEngine: createInMemoryEngine,
+  EDGE_TIER_PRESETS,
 }

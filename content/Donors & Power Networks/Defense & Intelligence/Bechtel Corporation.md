@@ -35,6 +35,7 @@ epa-facilities: 3
 epa-states: "CA, NJ, UT"
 federal-contracts: 87
 federal-awards-total: 7768520221
+cash-on-hand: 9001
 ---
 
 

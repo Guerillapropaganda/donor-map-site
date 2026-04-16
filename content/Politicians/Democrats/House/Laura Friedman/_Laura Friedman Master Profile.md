@@ -23,6 +23,11 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H4CA30149"
+total-raised: 28500
+total-spent: 22500
+cash-on-hand: 6000
+contributions-to-committees: 1000
 ---
 
 

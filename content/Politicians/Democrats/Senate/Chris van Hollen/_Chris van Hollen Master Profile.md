@@ -31,6 +31,7 @@ stock-trade-tickers:
   - "GE"
   - "T"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "S6MD03441"
 ---
 
 

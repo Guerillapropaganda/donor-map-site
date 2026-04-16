@@ -46,6 +46,11 @@ cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: "AL, MT, OK"
+total-raised: 148856
+total-spent: 145500
+cash-on-hand: 93923
+individual-contributions: 143856
+contributions-to-committees: 145500
 ---
 
 

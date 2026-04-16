@@ -81,6 +81,11 @@ ftc-enforcement-actions: 1
 ftc-hsr-notices: 13
 epa-facilities: 38
 epa-states: "AZ, CA, CO, FL, GA, LA, MD, MN, MO, MS, NY, OH, TX, UT, VA"
+total-raised: 2324041
+total-spent: 2956524
+cash-on-hand: 7320086
+individual-contributions: 2324041
+contributions-to-committees: 2530000
 ---
 
 <!-- auto:data-panel start -->

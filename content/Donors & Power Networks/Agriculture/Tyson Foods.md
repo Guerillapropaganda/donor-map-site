@@ -109,6 +109,11 @@ lobbying-filings: 30
 epa-facilities: 40
 epa-states: "AL, AR, CT, GA, IA, ID, MD, MO, NC, NE, NJ, OK, PA, TX, VA"
 federal-contracts: 141
+total-raised: 425050
+total-spent: 434000
+cash-on-hand: 177227
+individual-contributions: 425043
+contributions-to-committees: 417250
 ---
 
 <!-- auto:data-panel start -->

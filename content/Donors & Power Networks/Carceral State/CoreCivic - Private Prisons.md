@@ -24,6 +24,11 @@ nonprofit-status: "501(c)(3)"
 total-revenue: 143756
 total-assets: 118562
 urls-first-triaged: "2026-04-15"
+total-raised: 168496
+total-spent: 135060
+cash-on-hand: 35761
+individual-contributions: 167062
+contributions-to-committees: 121000
 ---
 
 <!-- auto:data-panel start -->

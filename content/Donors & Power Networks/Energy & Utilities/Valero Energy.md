@@ -54,6 +54,11 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: "CO, TX"
 federal-contracts: 521
+total-raised: 1667996
+total-spent: 1489253
+cash-on-hand: 935379
+individual-contributions: 1657423
+contributions-to-committees: 985000
 ---
 
 <!-- auto:data-panel start -->

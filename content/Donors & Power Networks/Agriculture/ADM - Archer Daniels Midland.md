@@ -49,6 +49,11 @@ sec-form-types:
 internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746"
 epa-facilities: 69
 epa-states: "AL, AR, CA, CO, FL, IA, IL, IN, KS, LA, MI, MN, MO, NC, ND, NE, NJ, SC, TN, TX, WI"
+total-raised: 148414
+total-spent: 122810
+cash-on-hand: 83436
+individual-contributions: 147414
+contributions-to-committees: 95450
 ---
 
 <!-- auto:data-panel start -->

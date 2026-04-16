@@ -82,6 +82,11 @@ nhtsa-complaints: 0
 epa-facilities: 2
 epa-states: "MI"
 federal-contracts: 9
+total-raised: 195598
+total-spent: 120898
+cash-on-hand: 159654
+individual-contributions: 195598
+contributions-to-committees: 100500
 ---
 
 <!-- auto:data-panel start -->

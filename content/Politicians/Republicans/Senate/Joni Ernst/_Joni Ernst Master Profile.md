@@ -32,6 +32,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Ethanol Industry]] · [[_Donald Trump Master Profile]]"
+fec-candidate-id: "S4IA00129"
 ---
 
 <!-- auto:data-panel start -->

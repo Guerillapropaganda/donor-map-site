@@ -61,6 +61,11 @@ urls-first-triaged: "2026-04-15"
 epa-facilities: 3
 epa-states: "NY"
 federal-contracts: 73
+total-raised: 794319
+total-spent: 652510
+cash-on-hand: 645674
+individual-contributions: 789319
+contributions-to-committees: 584500
 ---
 
 <!-- auto:data-panel start -->

@@ -20,6 +20,11 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 federal-contracts: 3
 federal-awards-total: 40731
+total-raised: 366252
+total-spent: 366041
+cash-on-hand: 359502
+individual-contributions: 310752
+contributions-to-committees: 365041
 ---
 
 ## Auto-Created Stub

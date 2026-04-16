@@ -85,6 +85,11 @@ epa-facilities: 22
 epa-states: "CA, NC, NJ, WA"
 federal-contracts: 13
 federal-awards-total: -9142692
+total-raised: 472492
+total-spent: 435704
+cash-on-hand: 258742
+individual-contributions: 462492
+contributions-to-committees: 399500
 ---
 
 <!-- auto:data-panel start -->

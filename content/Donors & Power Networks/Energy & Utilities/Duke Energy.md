@@ -66,6 +66,11 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 epa-facilities: 18
 epa-states: "FL, IL, KY, LA, NC, NM, OH, VA"
 federal-contracts: 205
+total-raised: 1047183
+total-spent: 1063866
+cash-on-hand: 402224
+individual-contributions: 1014783
+contributions-to-committees: 585000
 ---
 
 <!-- auto:data-panel start -->

@@ -68,6 +68,11 @@ ftc-hsr-notices: 1
 epa-facilities: 23
 epa-states: "CA, FL, IN, MD, NH, NJ, NY, VA"
 federal-contracts: 8111
+total-raised: 1347800
+total-spent: 1629643
+cash-on-hand: 1315512
+individual-contributions: 1336620
+contributions-to-committees: 1569600
 ---
 
 <!-- auto:data-panel start -->

@@ -16,4 +16,8 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+total-raised: 1668
+total-spent: 9874
+cash-on-hand: 1708
+individual-contributions: 1668
 ---

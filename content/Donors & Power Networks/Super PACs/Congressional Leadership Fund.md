@@ -33,6 +33,10 @@ checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+total-raised: 71981445
+total-spent: 19037355
+cash-on-hand: 54542329
+individual-contributions: 5000
 ---
 
 <!-- auto:data-panel start -->

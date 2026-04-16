@@ -42,6 +42,11 @@ federal-grants-count: 0
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 federal-contracts: 1
+total-raised: 124754
+total-spent: 167013
+cash-on-hand: 4406
+individual-contributions: 114254
+contributions-to-committees: 154000
 ---
 
 <!-- auto:data-panel start -->

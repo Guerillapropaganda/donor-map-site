@@ -79,12 +79,25 @@ function main() {
         'politicians-funded': [],
         opposes: [],
         stories: [],
+        'government-contracts': [],
+        // Monetary detail: { name, amount, cycle, confidence }[] for rendering dollar amounts
+        'monetary-detail': [],
+        'contract-detail': [],
       });
     }
     return byProfile.get(title);
   }
   function addUnique(arr, value) {
     if (!arr.includes(value)) arr.push(value);
+  }
+  function addMonetaryDetail(arr, name, amount, cycle, confidence) {
+    // Dedup by name+cycle, keep highest amount
+    const existing = arr.find(d => d.name === name && d.cycle === cycle)
+    if (existing) {
+      if (amount > existing.amount) existing.amount = amount
+    } else {
+      arr.push({ name, amount: amount || 0, cycle: cycle || '', confidence: confidence || 0 })
+    }
   }
 
   let mapped = 0;
@@ -105,13 +118,20 @@ function main() {
         // Donor gave to recipient. Store in BOTH endpoints:
         //   - recipient.donors                  ← donor
         //   - donor.politicians-funded          ← recipient (if recipient is political)
-        // We don't filter by recipient type here because the legacy
-        // politicians-funded field was used loosely (could include
-        // judicial, candidates, etc).
         const donorEntry = ensure(from);
         addUnique(donorEntry['politicians-funded'], to);
+        addMonetaryDetail(donorEntry['monetary-detail'], to, edge.amount, edge.cycle, edge.confidence);
         const recipientEntry = ensure(to);
         addUnique(recipientEntry.donors, from);
+        addMonetaryDetail(recipientEntry['monetary-detail'], from, edge.amount, edge.cycle, edge.confidence);
+        mapped++;
+        break;
+      }
+      case 'government-contract': {
+        // Agency awarded contract to corporation
+        const corpEntry = ensure(to);
+        addUnique(corpEntry['government-contracts'], from);
+        addMonetaryDetail(corpEntry['contract-detail'], from, edge.amount, edge.cycle, edge.confidence);
         mapped++;
         break;
       }

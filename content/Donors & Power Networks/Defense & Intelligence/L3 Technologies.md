@@ -73,6 +73,10 @@ ftc-hsr-notices: 1
 politicians-funded: "[[John Ratcliffe]]"
 epa-facilities: 7
 epa-states: "CA, MA"
+total-raised: 577319
+total-spent: 1276942
+individual-contributions: 571319
+contributions-to-committees: 743000
 ---
 
 

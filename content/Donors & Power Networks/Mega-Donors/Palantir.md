@@ -58,6 +58,11 @@ cross-vault-triangulation-count: 28
 epa-facilities: 1
 epa-states: "CA"
 federal-contracts: 314
+total-raised: 69135
+total-spent: 78215
+cash-on-hand: 60233
+individual-contributions: 66185
+contributions-to-committees: 74000
 ---
 
 <!-- auto:data-panel start -->

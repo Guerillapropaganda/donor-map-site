@@ -45,6 +45,11 @@ politicians-funded: "[[Cory Booker]]"
 epa-facilities: 7
 epa-states: "IL, NJ"
 federal-contracts: 9088
+total-raised: 837811
+total-spent: 787125
+cash-on-hand: 307316
+individual-contributions: 825276
+contributions-to-committees: 634500
 ---
 
 <!-- auto:data-panel start -->

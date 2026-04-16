@@ -43,6 +43,10 @@ aliases:
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+total-raised: 533809
+total-spent: 516513
+cash-on-hand: 52576
+individual-contributions: 533809
 ---
 
 <!-- auto:data-panel start -->

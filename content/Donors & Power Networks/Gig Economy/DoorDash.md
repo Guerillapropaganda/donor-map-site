@@ -27,6 +27,11 @@ regulatory-agencies:
 related: "[[Instacart]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[_Gavin Newsom Master Profile]] · [[AB5 - Gig Worker Classification]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Uber]] · [[Lyft]] · [[Labor - Donors and Backers]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]]"
 cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+total-raised: 127500
+total-spent: 84000
+cash-on-hand: 44060
+individual-contributions: 127500
+contributions-to-committees: 84000
 ---
 
 <!-- auto:data-panel start -->

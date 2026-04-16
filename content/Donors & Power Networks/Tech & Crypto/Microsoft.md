@@ -61,6 +61,11 @@ politicians-funded: "[[Patty Murray]]"
 epa-facilities: 23
 epa-states: "CA, MA, TX, VA, WA"
 federal-contracts: 955
+total-raised: 1018520
+total-spent: 911080
+cash-on-hand: 400366
+individual-contributions: 1018520
+contributions-to-committees: 790000
 ---
 
 <!-- auto:data-panel start -->

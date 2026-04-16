@@ -24,6 +24,7 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Western Growers Association]]"
 urls-first-triaged: "2026-04-15"
+fec-candidate-id: "H8SD01055"
 ---
 
 
