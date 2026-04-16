@@ -72,8 +72,22 @@ const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
 
   // Money stats
   const careerTotal = fm["career-total"] ?? fm["total-received"] ?? fm["total-raised"] ?? ""
+  const careerTotalNote = String(fm["total-received-note"] ?? fm["career-total-note"] ?? "")
   const lobbyingSpend = fm["lobbying-spend"] ?? ""
   const totalRevenue = fm["total-revenue"] ?? ""
+
+  // Custom outlier stats (Trump's Truth Social stake, $TRUMP coin, etc.)
+  // For profiles with extraordinary financials that don't fit the standard schema.
+  interface CustomStat {
+    label: string
+    value: string
+    source?: string
+  }
+  const customStatsRaw = fm["custom-stats"]
+  const customStats: CustomStat[] = Array.isArray(customStatsRaw)
+    ? customStatsRaw.filter((s: unknown): s is CustomStat =>
+        typeof s === "object" && s !== null && "label" in s && "value" in s)
+    : []
 
   // Top connections
   const topDonors = toArray(fm["top-donors"] ?? fm.donors).slice(0, 3)
@@ -136,6 +150,7 @@ const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
         <div class="summary-stat-primary">
           <span class="summary-stat-label">CAREER TOTAL RAISED</span>
           <span class="summary-stat-number">{formatMoney(careerTotal)}</span>
+          {careerTotalNote && <span class="summary-stat-note">{careerTotalNote}</span>}
         </div>
       )}
       {(isDonorOrPac && careerTotal) && (
@@ -178,6 +193,22 @@ const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
           <ul class="summary-connections-list">
             {politiciansFunded.map((name) => (
               <li><a href={`/${name.toLowerCase().replace(/\s+/g, "-")}`}>{name}</a></li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      {/* Custom outlier stats (Trump grift numbers, etc.) */}
+      {customStats.length > 0 && (
+        <div class="summary-custom-stats">
+          <span class="summary-label">ADDITIONAL TRACKED FINANCIALS</span>
+          <ul class="summary-custom-stats-list">
+            {customStats.map((s) => (
+              <li>
+                <span class="custom-stat-label">{s.label}</span>
+                <span class="custom-stat-value">{s.value}</span>
+                {s.source && <span class="custom-stat-source">{s.source}</span>}
+              </li>
             ))}
           </ul>
         </div>
@@ -290,6 +321,66 @@ SummaryInfobox.css = `
   font-weight: 700;
   letter-spacing: 0.15em;
   color: var(--darkgray);
+}
+
+.summary-stat-note {
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  color: var(--darkgray);
+  line-height: 1.4;
+  margin-top: 4px;
+  font-style: italic;
+}
+
+.summary-custom-stats {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--lightgray);
+}
+
+.summary-custom-stats .summary-label {
+  display: block;
+  margin-bottom: 12px;
+}
+
+.summary-custom-stats-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.summary-custom-stats-list li {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 12px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--lightgray);
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
+}
+
+.summary-custom-stats-list li:last-child {
+  border-bottom: none;
+}
+
+.custom-stat-label {
+  color: var(--dark);
+  font-weight: 600;
+}
+
+.custom-stat-value {
+  color: var(--dark);
+  font-weight: 700;
+  font-family: "Space Mono", monospace;
+  text-align: right;
+}
+
+.custom-stat-source {
+  grid-column: 1 / -1;
+  color: var(--darkgray);
+  font-family: "Space Mono", monospace;
+  font-size: 9px;
+  font-style: italic;
 }
 
 .summary-stat-grid {

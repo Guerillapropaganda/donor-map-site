@@ -8,15 +8,15 @@ ProfileTabs.afterDOMLoaded = `
 (function() {
   var POLITICIAN_TABS = [
     { id: 'overview', label: 'Overview' },
-    { id: 'donors', label: 'Donors' },
-    { id: 'voting', label: 'Voting' },
+    { id: 'donors', label: 'The Money' },
+    { id: 'voting', label: 'Key Votes' },
     { id: 'analysis', label: 'Analysis' },
     { id: 'sources', label: 'Sources' }
   ];
   var PRESIDENTIAL_TABS = [
     { id: 'overview', label: 'Overview' },
-    { id: 'donors', label: 'Donors' },
-    { id: 'executive', label: 'Executive Orders' },
+    { id: 'donors', label: 'The Money' },
+    { id: 'executive', label: 'Executive Actions' },
     { id: 'analysis', label: 'Analysis' },
     { id: 'sources', label: 'Sources' }
   ];

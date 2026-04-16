@@ -30,6 +30,22 @@ donors: "[[Trump Organization]] · [[Trump Media & Technology Group]] · [[World
 related: "The Billionaires Government]] · [[2017 Tax Cuts - The related: .5 Trillion · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Jeff Yass Follows TikTok Money Across Every Candidate]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Rex Tillerson]] · [[Michael Waltz]] · [[Bill Pulte]] · [[Paul Ryan]] · [[John Boehner]] · [[Wall Street Finance Networks]]"
 total-received: "$724,161,916"
 total-received-note: "Canonical store IE + independent spending 2022-2026 cycles. 2024 campaign + PACs raised ~$1.45B total per OpenSecrets. CSV individual contributions ingest pending."
+custom-stats:
+  - label: "Trump Media (DJT) stake"
+    value: "~$3B at peak"
+    source: "SEC 10-K filings"
+  - label: "$TRUMP meme coin holdings"
+    value: "800M of 1B tokens"
+    source: "On-chain (Solana)"
+  - label: "World Liberty Financial proceeds"
+    value: "$1B+ by Dec 2025"
+    source: "CBS News / NPR"
+  - label: "Family H1 2025 crypto earnings"
+    value: "$460M+"
+    source: "CBS News"
+  - label: "2024 mega-donors (>$100M each)"
+    value: "6 individuals"
+    source: "OpenSecrets"
 fec-candidate-id: P80001571
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.

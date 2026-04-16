@@ -223,18 +223,32 @@ function wrapProfileSections() {
       }
 
       // Map variant class to tab bucket for ProfileTabs (type-aware)
+      // Updated for 9-section template (Class Analysis at pos 3):
+      //   Overview tab: Who They Are, Class Analysis (the frame)
+      //   Donors/Recipients tab: The Money, donor-related supps (Personal Grift etc.)
+      //   Voting/Executive tab: Key Votes or Executive Actions
+      //   Analysis tab: The Contradictions, Timeline, supplementary essays
+      //   Sources tab: Related Figures, Sources
       var variant = currentCard.className;
       var tab = 'overview';
+
+      // Class Analysis -> overview (frames the reader's lens, shown first)
+      // psc-thesis class is assigned to both "thesis" headings AND "class analysis" headings
+      var isClassAnalysis = text.indexOf('class analysis') !== -1;
+
       if (profileType === 'donor') {
-        if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'recipients';
+        if (isClassAnalysis || text.indexOf('who ') !== -1 || text.indexOf('bio') === 0 || text.indexOf('background') !== -1 || text.indexOf('about') === 0) tab = 'overview';
+        else if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'recipients';
         else if (variant.indexOf('psc-wins') !== -1 || variant.indexOf('psc-voting') !== -1) tab = 'wins';
         else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
-        else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
+        else if (variant.indexOf('psc-sources') !== -1 || text.indexOf('related') !== -1) tab = 'sources';
       } else {
-        if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'donors';
-        else if (variant.indexOf('psc-executive') !== -1 || variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1) tab = 'voting';
-        else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
-        else if (variant.indexOf('psc-sources') !== -1) tab = 'sources';
+        if (isClassAnalysis || text.indexOf('who ') !== -1 || text.indexOf('bio') === 0 || text.indexOf('background') !== -1 || text.indexOf('about') === 0) tab = 'overview';
+        else if (variant.indexOf('psc-donors') !== -1 || text.indexOf('the money') !== -1 || text.indexOf('the donor class') !== -1 || text.indexOf('personal grift') !== -1 || text.indexOf('tax cuts') !== -1 || text.indexOf('epstein') !== -1 || text.indexOf('mega-donor') !== -1 || text.indexOf('industry sector') !== -1) tab = 'donors';
+        else if (variant.indexOf('psc-executive') !== -1 || variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1 || text.indexOf('executive action') !== -1 || text.indexOf('key vote') !== -1) tab = 'voting';
+        else if (variant.indexOf('psc-timeline') !== -1 || text.indexOf('timeline') !== -1 || text.indexOf('donation-to-policy') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1 || text.indexOf('influence network') !== -1 || text.indexOf('connections') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-sources') !== -1 || text.indexOf('related') !== -1 || text.indexOf('archived') !== -1) tab = 'sources';
       }
       currentCard.dataset.tab = tab;
 
