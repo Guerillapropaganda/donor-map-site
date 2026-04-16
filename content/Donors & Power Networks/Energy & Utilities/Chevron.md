@@ -44,6 +44,9 @@ total-spent: 888990
 cash-on-hand: 192930
 individual-contributions: 754295
 contributions-to-committees: 717000
+employee-contributions: 16884
+employee-contributions-total: 3228745
+employee-donor-count: 1944
 ---
 
 <!-- auto:data-panel start -->
@@ -522,6 +525,32 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 16,884 |
+| Total Amount | $3,228,745 |
+| Unique Employee Donors | ~1,944 |
+| Recipient Committees | 94 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Chevron]]: $1,023,280 (5938 contributions)
+- [[ActBlue]]: $703,591 (6237 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $567,745 (308 contributions)
+- [[WinRed]]: $308,501 (987 contributions)
+- [[RNC - Republican National Committee]]: $172,166 (736 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $74,863 (112 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $65,406 (629 contributions)
+- [[Trump Victory]]: $56,800 (6 contributions)
+- [[MAGA Inc]]: $41,379 (154 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $26,068 (239 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

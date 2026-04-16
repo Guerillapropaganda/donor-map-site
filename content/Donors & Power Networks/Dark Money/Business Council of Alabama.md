@@ -36,6 +36,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 4
+employee-contributions-total: 4000
+employee-donor-count: 3
 ---
 
 
@@ -160,6 +163,24 @@ The Business Council of Alabama reveals how state-level business lobbying can ac
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Business%20Council%20of%20Alabama) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4 |
+| Total Amount | $4,000 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 2 |
+| Election Cycles | 2016, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[_Mike Rogers Master Profile]]: $2,000 (3 contributions)
+- [[WinRed]]: $2,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

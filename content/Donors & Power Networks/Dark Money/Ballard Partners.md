@@ -26,6 +26,9 @@ known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"
   - "No mapped relationships"
+employee-contributions: 411
+employee-contributions-total: 1180836
+employee-donor-count: 244
 ---
 
 
@@ -107,6 +110,32 @@ Ballard Partners is a pure distribution mechanism for elite legal and political 
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Ballard%20Partners%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 411 |
+| Total Amount | $1,180,836 |
+| Unique Employee Donors | ~244 |
+| Recipient Committees | 42 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $366,100 (9 contributions)
+- [[Trump Victory]]: $336,300 (8 contributions)
+- [[WinRed]]: $143,614 (123 contributions)
+- [[ActBlue]]: $120,715 (119 contributions)
+- [[Conservative Solutions PAC]]: $32,800 (3 contributions)
+- [[_Jared Moskowitz Master Profile]]: $20,900 (15 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $20,000 (2 contributions)
+- [[_Aaron Bean Master Profile]]: $14,150 (14 contributions)
+- [[_Debbie Wasserman Schultz Master Profile]]: $12,400 (13 contributions)
+- [[_Mike Haridopolos Master Profile]]: $11,557 (10 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

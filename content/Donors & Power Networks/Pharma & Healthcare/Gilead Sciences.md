@@ -90,6 +90,9 @@ total-spent: 435704
 cash-on-hand: 258742
 individual-contributions: 462492
 contributions-to-committees: 399500
+employee-contributions: 15343
+employee-contributions-total: 2265505
+employee-donor-count: 1764
 ---
 
 <!-- auto:data-panel start -->
@@ -342,6 +345,32 @@ Patent protection for antiviral portfolio, opposition to drug importation, favor
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 15,343 |
+| Total Amount | $2,265,505 |
+| Unique Employee Donors | ~1,764 |
+| Recipient Committees | 53 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Gilead Sciences]]: $1,632,992 (12790 contributions)
+- [[ActBlue]]: $461,041 (1851 contributions)
+- [[WinRed]]: $24,119 (64 contributions)
+- [[Barbara Lee]]: $21,600 (20 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $18,532 (83 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $15,050 (4 contributions)
+- [[_Kevin Mullin Master Profile]]: $13,000 (12 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $8,491 (110 contributions)
+- [[_Jon Ossoff Master Profile]]: $7,922 (51 contributions)
+- [[MAGA Inc]]: $7,502 (22 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

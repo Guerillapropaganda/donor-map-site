@@ -44,6 +44,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 politicians-funded: "[[Richard Neal]]"
 epa-facilities: 5
 epa-states: "MA, NH, RI, TX"
+employee-contributions: 3330
+employee-contributions-total: 2099906
+employee-donor-count: 1327
 ---
 
 
@@ -224,6 +227,32 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,330 |
+| Total Amount | $2,099,906 |
+| Unique Employee Donors | ~1,327 |
+| Recipient Committees | 69 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $999,851 (1970 contributions)
+- [[Priorities USA Action]]: $424,500 (6 contributions)
+- [[WinRed]]: $308,716 (449 contributions)
+- [[Congressional Leadership Fund]]: $50,000 (1 contributions)
+- [[MAGA Inc]]: $29,561 (52 contributions)
+- [[DMFI - Democratic Majority for Israel]]: $25,000 (1 contributions)
+- [[_Jake Auchincloss Master Profile]]: $22,450 (25 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $20,830 (215 contributions)
+- [[_Jon Ossoff Master Profile]]: $20,398 (54 contributions)
+- [[Bob Casey]]: $19,875 (20 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

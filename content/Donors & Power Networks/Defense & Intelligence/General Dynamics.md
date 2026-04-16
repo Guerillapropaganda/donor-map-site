@@ -69,6 +69,9 @@ total-spent: 1952206
 cash-on-hand: 423161
 individual-contributions: 1608733
 contributions-to-committees: 1927200
+employee-contributions: 7151
+employee-contributions-total: 832205
+employee-donor-count: 1085
 ---
 
 <!-- auto:data-panel start -->
@@ -493,6 +496,32 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 7,151 |
+| Total Amount | $832,205 |
+| Unique Employee Donors | ~1,085 |
+| Recipient Committees | 60 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $362,949 (2948 contributions)
+- [[WinRed]]: $208,949 (1773 contributions)
+- [[RNC - Republican National Committee]]: $28,927 (328 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $26,755 (291 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $26,292 (414 contributions)
+- [[_Mike Rogers Master Profile]]: $25,200 (21 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $22,853 (119 contributions)
+- [[MAGA Inc]]: $20,291 (99 contributions)
+- [[Mark Kelly]]: $15,311 (198 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $14,332 (435 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

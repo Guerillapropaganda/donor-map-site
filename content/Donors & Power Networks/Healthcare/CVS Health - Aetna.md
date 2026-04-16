@@ -25,6 +25,9 @@ total-spent: 1150341
 cash-on-hand: 309063
 individual-contributions: 1107660
 contributions-to-committees: 570000
+employee-contributions: 71121
+employee-contributions-total: 8783774
+employee-donor-count: 8250
 ---
 
 <!-- auto:data-panel start -->
@@ -195,6 +198,32 @@ CVS Health represents the complete vertical capture of the prescription drug sup
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 71,121 |
+| Total Amount | $8,783,774 |
+| Unique Employee Donors | ~8,250 |
+| Recipient Committees | 89 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[CVS Health - Aetna]]: $7,520,871 (60870 contributions)
+- [[ActBlue]]: $726,912 (6241 contributions)
+- [[WinRed]]: $145,333 (900 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $85,815 (238 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $65,317 (359 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $34,186 (440 contributions)
+- [[RNC - Republican National Committee]]: $26,164 (340 contributions)
+- [[MAGA Inc]]: $25,197 (191 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $17,173 (185 contributions)
+- [[_Jon Ossoff Master Profile]]: $11,824 (65 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

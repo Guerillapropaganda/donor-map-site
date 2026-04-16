@@ -22,6 +22,9 @@ total-raised: 668834
 total-spent: 642551
 cash-on-hand: 113326
 individual-contributions: 444899
+employee-contributions: 3
+employee-contributions-total: 470
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -45,3 +48,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `MISSISSIPPI REPUBLICAN PARTY`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $470 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2016 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Mississippi Republican Party]]: $470 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

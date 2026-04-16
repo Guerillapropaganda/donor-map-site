@@ -23,6 +23,11 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+federal-grants: 1
+federal-grants-total: 499717
+employee-contributions: 159
+employee-contributions-total: 42998
+employee-donor-count: 59
 ---
 
 
@@ -100,6 +105,53 @@ TPUSA represents a new oligarchic model: dark money youth mobilization disguised
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/800835023) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $499,717 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Justice: $499,717
+
+**Top programs:**
+
+- CRIME VICTIM ASSISTANCE/DISCRETIONARY GRANTS
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 159 |
+| Total Amount | $42,998 |
+| Unique Employee Donors | ~59 |
+| Recipient Committees | 18 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $19,607 (93 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $6,500 (4 contributions)
+- [[WinRed]]: $5,923 (13 contributions)
+- [[Trump Victory]]: $3,300 (2 contributions)
+- [[RNC - Republican National Committee]]: $1,632 (5 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $1,350 (17 contributions)
+- [[FreedomWorks for America]]: $1,000 (1 contributions)
+- [[Human Rights Campaign Equality Votes]]: $1,000 (1 contributions)
+- [[Emily's List]]: $550 (2 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

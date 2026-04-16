@@ -43,6 +43,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 urls-first-triaged: "2026-04-15"
 epa-facilities: 113
 epa-states: "CA, CO, NY, OH, VA, WA"
+employee-contributions: 55620
+employee-contributions-total: 4764316
+employee-donor-count: 6869
 ---
 
 <!-- auto:data-panel start -->
@@ -272,6 +275,32 @@ The fines don't change the behavior because the behavior is profitable. Denying 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 55,620 |
+| Total Amount | $4,764,316 |
+| Unique Employee Donors | ~6,869 |
+| Recipient Committees | 139 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $3,021,393 (32554 contributions)
+- [[WinRed]]: $269,909 (4370 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $212,277 (1830 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $201,706 (4726 contributions)
+- [[MoveOn.org Political Action]]: $80,725 (1704 contributions)
+- [[_Jon Ossoff Master Profile]]: $68,607 (845 contributions)
+- [[RNC - Republican National Committee]]: $59,364 (956 contributions)
+- [[MAGA Inc]]: $58,504 (448 contributions)
+- [[Barbara Lee]]: $46,306 (67 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $43,605 (921 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -23,6 +23,9 @@ total-spent: 407406
 cash-on-hand: 88671
 individual-contributions: 455103
 contributions-to-committees: 393500
+employee-contributions: 1
+employee-contributions-total: 500
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -46,3 +49,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `CARE ACTION`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $500 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2018 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

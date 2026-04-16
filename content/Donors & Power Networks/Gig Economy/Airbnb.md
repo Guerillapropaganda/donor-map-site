@@ -46,6 +46,9 @@ total-spent: 2027
 cash-on-hand: 63682
 individual-contributions: 917
 contributions-to-committees: 2000
+employee-contributions: 3722
+employee-contributions-total: 1548066
+employee-donor-count: 932
 ---
 
 <!-- auto:data-panel start -->
@@ -212,3 +215,30 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,722 |
+| Total Amount | $1,548,066 |
+| Unique Employee Donors | ~932 |
+| Recipient Committees | 55 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,144,083 (2939 contributions)
+- [[Airbnb]]: $178,365 (60 contributions)
+- [[_Jon Ossoff Master Profile]]: $29,995 (89 contributions)
+- [[_Alex Padilla Master Profile]]: $28,700 (15 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $16,489 (44 contributions)
+- [[WinRed]]: $13,445 (89 contributions)
+- [[_Joe Neguse Master Profile]]: $12,200 (5 contributions)
+- [[_Jason Crow Master Profile]]: $11,400 (4 contributions)
+- [[Justice Democrats PAC]]: $10,300 (2 contributions)
+- [[_Scott Wiener Master Profile]]: $8,500 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -24,6 +24,9 @@ cash-on-hand: 1664572
 independent-expenditures: 619257
 individual-contributions: 3590277
 contributions-to-committees: 235000
+employee-contributions: 2
+employee-contributions-total: 750
+employee-donor-count: 2
 ---
 
 ## Auto-Created Stub
@@ -47,3 +50,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `CONGRESSIONAL PROGRESSIVE CAUCUS PAC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $750 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $750 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

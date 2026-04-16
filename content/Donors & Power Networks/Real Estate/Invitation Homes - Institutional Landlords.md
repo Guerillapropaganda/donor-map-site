@@ -24,6 +24,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 5
 epa-states: "CA"
+employee-contributions: 87
+employee-contributions-total: 47339
+employee-donor-count: 25
 ---
 
 <!-- auto:data-panel start -->
@@ -275,6 +278,29 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 87 |
+| Total Amount | $47,339 |
+| Unique Employee Donors | ~25 |
+| Recipient Committees | 7 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Rental Home Council]]: $16,000 (4 contributions)
+- [[WinRed]]: $15,850 (4 contributions)
+- [[ActBlue]]: $10,347 (73 contributions)
+- [[_Marco Rubio Master Profile]]: $2,700 (1 contributions)
+- [[_Tim Scott Master Profile]]: $2,000 (1 contributions)
+- [[_Beth van Duyne Master Profile]]: $250 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $192 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

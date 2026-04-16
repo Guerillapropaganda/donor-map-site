@@ -59,6 +59,9 @@ total-spent: 557696
 cash-on-hand: 1092317
 individual-contributions: 596103
 contributions-to-committees: 326500
+employee-contributions: 64673
+employee-contributions-total: 4998432
+employee-donor-count: 13436
 ---
 
 <!-- auto:data-panel start -->
@@ -349,6 +352,32 @@ The class function is straightforward: Ford converts public money into private r
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 64,673 |
+| Total Amount | $4,998,432 |
+| Unique Employee Donors | ~13,436 |
+| Recipient Committees | 81 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Ford Motor Company]]: $3,781,299 (51966 contributions)
+- [[ActBlue]]: $532,163 (5990 contributions)
+- [[WinRed]]: $175,081 (1966 contributions)
+- [[Michigan Republican Party]]: $73,740 (30 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $70,115 (305 contributions)
+- [[RNC - Republican National Committee]]: $66,455 (727 contributions)
+- [[MAGA Inc]]: $49,541 (286 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $33,488 (802 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $30,629 (1063 contributions)
+- [[_Debbie Dingell Master Profile]]: $25,850 (22 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

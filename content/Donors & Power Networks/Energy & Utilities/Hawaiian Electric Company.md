@@ -55,6 +55,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 epa-facilities: 2
 epa-states: "HI"
 federal-contracts: 59
+employee-contributions: 1567
+employee-contributions-total: 53359
+employee-donor-count: 64
 ---
 
 <!-- auto:data-panel start -->
@@ -268,6 +271,32 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,567 |
+| Total Amount | $53,359 |
+| Unique Employee Donors | ~64 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $21,214 (1035 contributions)
+- [[ActBlue]]: $18,440 (39 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $3,621 (135 contributions)
+- [[_Jake Ellzey Master Profile]]: $2,399 (111 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $2,105 (70 contributions)
+- [[RNC - Republican National Committee]]: $1,338 (55 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,000 (1 contributions)
+- [[MAGA Inc]]: $941 (24 contributions)
+- [[_Marco Rubio Master Profile]]: $653 (30 contributions)
+- [[_Ron Johnson Master Profile]]: $516 (29 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

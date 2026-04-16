@@ -21,4 +21,31 @@ cash-on-hand: 405199
 independent-expenditures: 41445
 individual-contributions: 1120106
 related: "[[Roger Williams]]"
+employee-contributions: 158
+employee-contributions-total: 20026
+employee-donor-count: 27
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 158 |
+| Total Amount | $20,026 |
+| Unique Employee Donors | ~27 |
+| Recipient Committees | 7 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $18,396 (133 contributions)
+- [[_Jon Ossoff Master Profile]]: $900 (5 contributions)
+- [[_Tammy Baldwin Master Profile]]: $395 (15 contributions)
+- [[Bob Casey]]: $200 (2 contributions)
+- [[Let America Vote PAC]]: $75 (1 contributions)
+- [[MoveOn.org Political Action]]: $40 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $20 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

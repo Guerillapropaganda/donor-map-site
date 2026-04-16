@@ -22,6 +22,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 560
+employee-contributions-total: 5547230
+employee-donor-count: 253
 ---
 
 <!-- auto:data-panel start -->
@@ -293,6 +296,32 @@ The Fanjul family is the vault's purest example of the Both-Sides Illusion — t
 ---
 
 ### Federal Subawards & Spending Breakdown
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 560 |
+| Total Amount | $5,547,230 |
+| Unique Employee Donors | ~253 |
+| Recipient Committees | 48 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Trump Victory]]: $1,665,000 (12 contributions)
+- [[WinRed]]: $1,163,445 (98 contributions)
+- [[ActBlue]]: $844,200 (206 contributions)
+- [[RNC - Republican National Committee]]: $508,000 (7 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $293,500 (8 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $292,100 (9 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $257,800 (13 contributions)
+- [[HMP]]: $100,000 (1 contributions)
+- [[_Lois Frankel Master Profile]]: $79,800 (26 contributions)
+- [[_Marco Rubio Master Profile]]: $62,005 (47 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -23,6 +23,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 14
 epa-states: "CA, NC"
+employee-contributions: 11251
+employee-contributions-total: 2626398
+employee-donor-count: 1702
 ---
 
 <!-- auto:data-panel start -->
@@ -119,6 +122,32 @@ Favorable AI regulation (avoiding restrictions on AI model development), continu
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 11,251 |
+| Total Amount | $2,626,398 |
+| Unique Employee Donors | ~1,702 |
+| Recipient Committees | 77 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,926,438 (8377 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $135,392 (300 contributions)
+- [[WinRed]]: $106,904 (446 contributions)
+- [[_Jon Ossoff Master Profile]]: $62,119 (258 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $50,261 (261 contributions)
+- [[Mark Kelly]]: $37,257 (219 contributions)
+- [[Winsenate]]: $32,263 (44 contributions)
+- [[MoveOn.org Political Action]]: $22,866 (122 contributions)
+- [[The Lincoln Project]]: $19,065 (122 contributions)
+- [[Catherine Cortez Masto]]: $18,628 (57 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

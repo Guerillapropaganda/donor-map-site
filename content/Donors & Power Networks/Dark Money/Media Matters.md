@@ -52,6 +52,9 @@ politicians-funded: "[[Bill Clinton]], [[Hillary Clinton]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 7
+employee-contributions-total: 2075
+employee-donor-count: 4
 ---
 
 <!-- auto:data-panel start -->
@@ -323,6 +326,23 @@ The Musk lawsuit reveals that this billionaire-funded model is strategically vul
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 7 |
+| Total Amount | $2,075 |
+| Unique Employee Donors | ~4 |
+| Recipient Committees | 1 |
+| Election Cycles | 2018, 2020, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,075 (7 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

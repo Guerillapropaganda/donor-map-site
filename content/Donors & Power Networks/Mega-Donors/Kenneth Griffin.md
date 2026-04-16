@@ -54,6 +54,9 @@ opposes: "[[Elizabeth Warren Master Profile]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 1
+employee-contributions-total: 1000
+employee-donor-count: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -368,6 +371,23 @@ Source: [Insurance Journal: Florida non-compete expansion](https://www.insurance
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $1,000 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

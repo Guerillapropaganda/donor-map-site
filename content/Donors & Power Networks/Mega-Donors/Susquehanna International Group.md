@@ -50,6 +50,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+federal-grants: 23
+federal-grants-total: 1662261
+employee-contributions: 474
+employee-contributions-total: 235984
+employee-donor-count: 92
 ---
 
 <!-- auto:data-panel start -->
@@ -289,6 +294,56 @@ The analytical patterns:
 - Axis Holdings LLC (on behalf of Donald Guerrero, former Finance Minister of the Dominican Republic) through DCI Group AZ, LLC (DOMINICAN REPUBLIC)
 
 <!-- auto:fara-foreign-agents end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 23 |
+| Total Obligation | $1,662,261 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 2 |
+| Programs | 3 |
+
+**Top awarding agencies:**
+
+- Department of Education: $1,669,933
+- National Endowment for the Humanities: $-7,672
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+- TEACHER EDUCATION ASSISTANCE FOR COLLEGE AND HIGHER EDUCATION GRANTS (TEACH GRANTS)
+- PROMOTION OF THE HUMANITIES TEACHING AND LEARNING RESOURCES AND CURRICULUM DEVELOPMENT
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 474 |
+| Total Amount | $235,984 |
+| Unique Employee Donors | ~92 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $116,796 (359 contributions)
+- [[WinRed]]: $51,100 (8 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $17,200 (14 contributions)
+- [[_Jon Ossoff Master Profile]]: $14,527 (23 contributions)
+- [[_Chrissy Houlahan Master Profile]]: $11,650 (5 contributions)
+- [[_Victoria Spartz Master Profile]]: $5,600 (2 contributions)
+- [[Emily's List]]: $3,500 (4 contributions)
+- [[_Donna Miller Master Profile]]: $3,500 (1 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $2,943 (9 contributions)
+- [[Bob Casey]]: $2,700 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -57,6 +57,9 @@ cross-vault-triangulation-count: 14
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+employee-contributions: 84
+employee-contributions-total: 1412801
+employee-donor-count: 33
 ---
 
 <!-- auto:data-panel start -->
@@ -340,6 +343,32 @@ What makes the Founders Fund model especially potent is its self-reinforcing nat
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 84 |
+| Total Amount | $1,412,801 |
+| Unique Employee Donors | ~33 |
+| Recipient Committees | 10 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Sfa Fund, Inc]]: $1,000,000 (2 contributions)
+- [[WinRed]]: $204,800 (28 contributions)
+- [[The Sentinel Action Fund]]: $100,000 (1 contributions)
+- [[ActBlue]]: $54,880 (39 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $25,000 (1 contributions)
+- [[Congressional Leadership Fund]]: $10,000 (2 contributions)
+- [[_Scott Wiener Master Profile]]: $7,000 (2 contributions)
+- [[_Josh Harder Master Profile]]: $6,400 (7 contributions)
+- [[_John James Master Profile]]: $2,800 (1 contributions)
+- [[Common Sense for America PAC]]: $1,921 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

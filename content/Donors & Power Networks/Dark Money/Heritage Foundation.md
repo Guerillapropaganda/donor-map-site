@@ -68,6 +68,11 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+federal-grants: 41
+federal-grants-total: 2444895
+employee-contributions: 241
+employee-contributions-total: 31214
+employee-donor-count: 43
 ---
 
 <!-- auto:data-panel start -->
@@ -432,6 +437,57 @@ Heritage Action's scorecard system deserves specific attention. By rating every 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 41 |
+| Total Obligation | $2,444,895 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 2 |
+| Programs | 4 |
+
+**Top awarding agencies:**
+
+- Department of Education: $2,419,895
+- National Science Foundation: $25,000
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+- FEDERAL WORK-STUDY PROGRAM
+- SCHOOL SAFELY NATIONAL ACTIVITIES
+- STEM EDUCATION (FORMERLY EDUCATION AND HUMAN RESOURCES)
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 241 |
+| Total Amount | $31,214 |
+| Unique Employee Donors | ~43 |
+| Recipient Committees | 18 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $20,239 (158 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $3,470 (13 contributions)
+- [[_Marco Rubio Master Profile]]: $1,515 (15 contributions)
+- [[MAGA Inc]]: $1,141 (7 contributions)
+- [[FreedomWorks for America]]: $754 (2 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $650 (2 contributions)
+- [[RNC - Republican National Committee]]: $565 (7 contributions)
+- [[_Ron Johnson Master Profile]]: $437 (4 contributions)
+- [[_Ted Cruz Master Profile]]: $350 (2 contributions)
+- [[Republican Party of Florida]]: $350 (7 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

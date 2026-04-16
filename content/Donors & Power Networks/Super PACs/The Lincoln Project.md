@@ -21,6 +21,9 @@ urls-first-triaged: "2026-04-15"
 total-raised: 6176142
 total-spent: 6268550
 cash-on-hand: 117459
+employee-contributions: 13
+employee-contributions-total: 1496
+employee-donor-count: 3
 ---
 
 ## Auto-Created Stub
@@ -38,3 +41,21 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `THE LINCOLN PROJECT`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 13 |
+| Total Amount | $1,496 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[The Lincoln Project]]: $1,496 (13 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -26,6 +26,9 @@ urls-first-triaged: "2026-04-15"
 epa-facilities: 55
 epa-states: "CA"
 federal-contracts: 58
+employee-contributions: 6794
+employee-contributions-total: 887167
+employee-donor-count: 802
 ---
 
 <!-- auto:data-panel start -->
@@ -222,6 +225,32 @@ Environment, wildfires, utility regulation, clean energy, NEM 3.0, Diablo Canyon
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 6,794 |
+| Total Amount | $887,167 |
+| Unique Employee Donors | ~802 |
+| Recipient Committees | 49 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $382,883 (4407 contributions)
+- [[PG&E - Pacific Gas and Electric]]: $357,839 (933 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $33,601 (301 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $24,133 (252 contributions)
+- [[_Martin Heinrich Master Profile]]: $8,100 (12 contributions)
+- [[_Jimmy Panetta Master Profile]]: $6,350 (14 contributions)
+- [[_Jim Costa Master Profile]]: $5,650 (7 contributions)
+- [[_Debbie Dingell Master Profile]]: $5,200 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $5,057 (65 contributions)
+- [[MoveOn.org Political Action]]: $4,841 (144 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

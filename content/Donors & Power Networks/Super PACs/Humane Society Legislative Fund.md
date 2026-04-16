@@ -18,6 +18,9 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 related: "[[Dianne Feinstein]]"
+employee-contributions: 49
+employee-contributions-total: 8704
+employee-donor-count: 14
 ---
 
 ## Auto-Created Stub
@@ -41,3 +44,27 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `HUMANE SOCIETY LEGISLATIVE FUND`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 49 |
+| Total Amount | $8,704 |
+| Unique Employee Donors | ~14 |
+| Recipient Committees | 7 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $7,652 (28 contributions)
+- [[MoveOn.org Political Action]]: $509 (16 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $199 (1 contributions)
+- [[Indivisible Action]]: $100 (1 contributions)
+- [[_Tammy Baldwin Master Profile]]: $100 (1 contributions)
+- [[Bob Casey]]: $100 (1 contributions)
+- [[_Cori Bush Master Profile]]: $44 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

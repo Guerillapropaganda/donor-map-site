@@ -26,6 +26,9 @@ ofac-sdn-match: "true"
 last-enriched: "2026-04-16"
 ofac-programs:
   - "BALKANS"
+employee-contributions: 32
+employee-contributions-total: 3122
+employee-donor-count: 11
 ---
 
 ## Auto-Created Stub
@@ -66,3 +69,22 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 32 |
+| Total Amount | $3,122 |
+| Unique Employee Donors | ~11 |
+| Recipient Committees | 2 |
+| Election Cycles | 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Democratic Party of Virginia]]: $1,619 (9 contributions)
+- [[ActBlue]]: $1,503 (23 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

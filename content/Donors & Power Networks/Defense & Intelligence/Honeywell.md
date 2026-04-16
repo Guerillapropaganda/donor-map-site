@@ -63,6 +63,11 @@ total-spent: 4365683
 cash-on-hand: 526588
 individual-contributions: 4566146
 contributions-to-committees: 2882000
+federal-grants: 1
+federal-grants-total: 187500000
+employee-contributions: 531005
+employee-contributions-total: 37014257
+employee-donor-count: 20720
 ---
 
 
@@ -305,6 +310,53 @@ Honeywell represents the permanent symbiosis between the defense industry and th
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $187,500,000 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Energy: $187,500,000
+
+**Top programs:**
+
+- NUCLEAR ENERGY RESEARCH, DEVELOPMENT AND DEMONSTRATION
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 531,005 |
+| Total Amount | $37,014,257 |
+| Unique Employee Donors | ~20,720 |
+| Recipient Committees | 65 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Honeywell]]: $36,209,273 (522571 contributions)
+- [[ActBlue]]: $398,086 (4287 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $100,061 (449 contributions)
+- [[WinRed]]: $96,760 (714 contributions)
+- [[RNC - Republican National Committee]]: $43,131 (642 contributions)
+- [[Mark Kelly]]: $25,711 (536 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $21,612 (171 contributions)
+- [[MAGA Inc]]: $19,928 (278 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $15,473 (415 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $13,469 (266 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -24,6 +24,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 43
+employee-contributions-total: 13266
+employee-donor-count: 25
 ---
 
 <!-- auto:data-panel start -->
@@ -259,3 +262,26 @@ The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 43 |
+| Total Amount | $13,266 |
+| Unique Employee Donors | ~25 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $9,433 (31 contributions)
+- [[League of Conservation Voters]]: $1,500 (4 contributions)
+- [[_Tammy Baldwin Master Profile]]: $1,500 (4 contributions)
+- [[_Jon Ossoff Master Profile]]: $333 (2 contributions)
+- [[Democratic Party of Virginia]]: $250 (1 contributions)
+- [[Working Families Party PAC]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

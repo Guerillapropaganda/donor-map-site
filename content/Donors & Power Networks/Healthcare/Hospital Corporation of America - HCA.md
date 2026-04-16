@@ -21,6 +21,11 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 2
 epa-states: "TN"
+federal-grants: 2
+federal-grants-total: 106483
+employee-contributions: 12511
+employee-contributions-total: 1133383
+employee-donor-count: 1802
 ---
 
 <!-- auto:data-panel start -->
@@ -149,3 +154,52 @@ Favorable Medicare/Medicaid reimbursement rates, preservation of certificate-of-
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 2 |
+| Total Obligation | $106,483 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Education: $106,483
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 12,511 |
+| Total Amount | $1,133,383 |
+| Unique Employee Donors | ~1,802 |
+| Recipient Committees | 67 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $608,143 (6928 contributions)
+- [[WinRed]]: $197,597 (1750 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $45,351 (477 contributions)
+- [[RNC - Republican National Committee]]: $42,671 (532 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $32,799 (538 contributions)
+- [[MAGA Inc]]: $28,651 (143 contributions)
+- [[Standing With Conservatives]]: $25,000 (2 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $19,109 (180 contributions)
+- [[Progressive Turnout Project]]: $17,692 (303 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $12,490 (347 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

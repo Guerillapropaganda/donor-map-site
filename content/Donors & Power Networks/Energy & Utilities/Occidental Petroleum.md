@@ -47,6 +47,9 @@ total-spent: 232709
 cash-on-hand: 192644
 individual-contributions: 301264
 contributions-to-committees: 213800
+employee-contributions: 8210
+employee-contributions-total: 1805639
+employee-donor-count: 581
 ---
 
 <!-- auto:data-panel start -->
@@ -183,6 +186,32 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 8,210 |
+| Total Amount | $1,805,639 |
+| Unique Employee Donors | ~581 |
+| Recipient Committees | 35 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Occidental Petroleum]]: $513,278 (7577 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $237,013 (32 contributions)
+- [[Freedom Partners Action Fund Inc]]: $225,000 (2 contributions)
+- [[Texans for a Conservative Majority]]: $150,000 (3 contributions)
+- [[Americans for Prosperity]]: $125,100 (2 contributions)
+- [[SLF PAC]]: $125,000 (2 contributions)
+- [[Congressional Leadership Fund]]: $125,000 (2 contributions)
+- [[RNC - Republican National Committee]]: $77,671 (61 contributions)
+- [[American Crossroads]]: $50,000 (1 contributions)
+- [[Conservative Solutions PAC]]: $50,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

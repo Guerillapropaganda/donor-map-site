@@ -42,6 +42,9 @@ total-spent: 887736
 cash-on-hand: 649909
 individual-contributions: 552633
 contributions-to-committees: 40000
+employee-contributions: 15
+employee-contributions-total: 4730
+employee-donor-count: 7
 ---
 
 <!-- auto:data-panel start -->
@@ -342,6 +345,23 @@ Demand Justice's 2021 spin-off from the Sixteen Thirty Fund illustrates how dark
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Demand%20Justice%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 15 |
+| Total Amount | $4,730 |
+| Unique Employee Donors | ~7 |
+| Recipient Committees | 1 |
+| Election Cycles | 2018, 2020, 2022, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $4,730 (15 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

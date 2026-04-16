@@ -50,6 +50,9 @@ total-political-spend: "$157,372,490"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 109
+employee-contributions-total: 47117
+employee-donor-count: 43
 ---
 
 <!-- auto:data-panel start -->
@@ -290,6 +293,27 @@ America Votes also reveals **structural inequality in progressive politics:**
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=America%20Votes) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 109 |
+| Total Amount | $47,117 |
+| Unique Employee Donors | ~43 |
+| Recipient Committees | 5 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $36,467 (87 contributions)
+- [[Emily's List]]: $5,370 (11 contributions)
+- [[_Gabe Vasquez Master Profile]]: $4,000 (7 contributions)
+- [[_Deb Haaland Master Profile]]: $1,000 (3 contributions)
+- [[DNC - Democratic National Committee]]: $280 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

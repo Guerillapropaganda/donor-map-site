@@ -23,6 +23,9 @@ total-spent: 31769447
 cash-on-hand: 4694483
 individual-contributions: 17132947
 contributions-to-committees: 647617
+employee-contributions: 407
+employee-contributions-total: 114224
+employee-donor-count: 121
 ---
 
 ## Auto-Created Stub
@@ -46,3 +49,30 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `EMILY'S LIST`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 407 |
+| Total Amount | $114,224 |
+| Unique Employee Donors | ~121 |
+| Recipient Committees | 14 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Emily's List]]: $58,708 (237 contributions)
+- [[ActBlue]]: $48,096 (148 contributions)
+- [[_Tammy Baldwin Master Profile]]: $2,000 (2 contributions)
+- [[Catherine Cortez Masto]]: $1,750 (3 contributions)
+- [[_Kamala Harris Master Profile]]: $1,000 (1 contributions)
+- [[_Chris Pappas Master Profile]]: $500 (2 contributions)
+- [[_Emily Randall Master Profile]]: $500 (2 contributions)
+- [[_Yassamin Ansari Master Profile]]: $500 (1 contributions)
+- [[_Elissa Slotkin Master Profile]]: $300 (2 contributions)
+- [[CHC BOLD PAC]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

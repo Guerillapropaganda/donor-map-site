@@ -44,6 +44,9 @@ total-spent: 23500
 cash-on-hand: 39746
 individual-contributions: 11000
 contributions-to-committees: 23500
+employee-contributions: 605
+employee-contributions-total: 374617
+employee-donor-count: 169
 ---
 
 <!-- auto:data-panel start -->
@@ -299,6 +302,32 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 605 |
+| Total Amount | $374,617 |
+| Unique Employee Donors | ~169 |
+| Recipient Committees | 17 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Sinclair Broadcast Group]]: $183,525 (121 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $73,000 (4 contributions)
+- [[RNC - Republican National Committee]]: $35,396 (7 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $30,420 (15 contributions)
+- [[ActBlue]]: $14,971 (414 contributions)
+- [[WinRed]]: $11,945 (19 contributions)
+- [[_Tim Scott Master Profile]]: $10,000 (4 contributions)
+- [[Trump Victory]]: $5,000 (1 contributions)
+- [[Save America PAC]]: $5,000 (1 contributions)
+- [[MAGA Inc]]: $1,200 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

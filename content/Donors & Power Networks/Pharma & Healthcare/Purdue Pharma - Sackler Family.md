@@ -23,6 +23,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 urls-first-triaged: "2026-04-15"
 epa-facilities: 6
 epa-states: "NC, NJ, NY"
+employee-contributions: 62
+employee-contributions-total: 67005
+employee-donor-count: 23
 ---
 
 <!-- auto:data-panel start -->
@@ -206,6 +209,30 @@ Drug pricing and FDA regulation, opioid prescribing guidelines, prescription dru
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 62 |
+| Total Amount | $67,005 |
+| Unique Employee Donors | ~23 |
+| Recipient Committees | 8 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $43,550 (8 contributions)
+- [[ActBlue]]: $18,045 (32 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,000 (4 contributions)
+- [[Majority PAC]]: $2,000 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $500 (1 contributions)
+- [[MoveOn.org Political Action]]: $455 (7 contributions)
+- [[MAGA Inc]]: $275 (6 contributions)
+- [[Republican Party of Florida]]: $180 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

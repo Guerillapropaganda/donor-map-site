@@ -46,6 +46,9 @@ cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 2144
+employee-contributions-total: 5823473
+employee-donor-count: 425
 ---
 
 <!-- auto:data-panel start -->
@@ -165,6 +168,32 @@ Favorable FAA launch licensing (SpaceX has clashed repeatedly with the FAA over 
 - Goddard v. 1910 N. Main Street Apartments Capital, LLC. (2026) — District Court, N.D. California
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,144 |
+| Total Amount | $5,823,473 |
+| Unique Employee Donors | ~425 |
+| Recipient Committees | 44 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Congressional Leadership Fund]]: $5,000,000 (1 contributions)
+- [[ActBlue]]: $397,608 (1602 contributions)
+- [[WinRed]]: $217,394 (114 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $37,985 (19 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $24,287 (16 contributions)
+- [[_Mark Takano Master Profile]]: $15,200 (13 contributions)
+- [[_Jon Ossoff Master Profile]]: $11,044 (30 contributions)
+- [[_Tony Wied Master Profile]]: $9,700 (2 contributions)
+- [[_Mike Collins Master Profile]]: $9,700 (2 contributions)
+- [[_Martin Heinrich Master Profile]]: $7,300 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

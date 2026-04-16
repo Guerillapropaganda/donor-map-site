@@ -24,6 +24,9 @@ independent-expenditures: 529810
 individual-contributions: 378690
 contributions-to-committees: 135500
 related: "[[Lee Zeldin]] · [[Nancy Mace]]"
+employee-contributions: 1
+employee-contributions-total: 5000
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -47,3 +50,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `314 ACTION FUND`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $5,000 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Emily's List]]: $5,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

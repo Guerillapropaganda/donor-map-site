@@ -33,6 +33,9 @@ total-raised: 407531
 total-spent: 419237
 cash-on-hand: 86518
 individual-contributions: 407531
+employee-contributions: 11627
+employee-contributions-total: 7302018
+employee-donor-count: 1151
 ---
 
 <!-- auto:data-panel start -->
@@ -267,6 +270,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: SEI
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/361760052) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 11,627 |
+| Total Amount | $7,302,018 |
+| Unique Employee Donors | ~1,151 |
+| Recipient Committees | 45 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $6,806,754 (3708 contributions)
+- [[SEIU COPE]]: $424,357 (7314 contributions)
+- [[_Jon Ossoff Master Profile]]: $8,676 (18 contributions)
+- [[_Susie Lee Master Profile]]: $7,850 (9 contributions)
+- [[_Rashida Tlaib Master Profile]]: $6,109 (15 contributions)
+- [[_Lauren Underwood Master Profile]]: $5,350 (4 contributions)
+- [[_Pete Aguilar Master Profile]]: $5,000 (2 contributions)
+- [[Congressional Progressive Caucus PAC]]: $5,000 (1 contributions)
+- [[_Summer Lee Master Profile]]: $4,900 (6 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $3,682 (163 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

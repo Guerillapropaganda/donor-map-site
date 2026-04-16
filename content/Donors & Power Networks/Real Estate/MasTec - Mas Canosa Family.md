@@ -35,6 +35,9 @@ epa-facilities: 5
 epa-states: "AZ, CA, MN, NC"
 federal-contracts: 6
 federal-awards-total: -2340741
+employee-contributions: 527
+employee-contributions-total: 172434
+employee-donor-count: 116
 ---
 
 <!-- auto:data-panel start -->
@@ -268,3 +271,30 @@ The Mas Canosa family represents the structural intersection of exile politics a
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 527 |
+| Total Amount | $172,434 |
+| Unique Employee Donors | ~116 |
+| Recipient Committees | 21 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $66,516 (135 contributions)
+- [[ActBlue]]: $47,119 (199 contributions)
+- [[_Marco Rubio Master Profile]]: $30,170 (15 contributions)
+- [[_Carlos Gimenez Master Profile]]: $11,700 (5 contributions)
+- [[MAGA Inc]]: $6,800 (18 contributions)
+- [[_Tim Scott Master Profile]]: $1,320 (7 contributions)
+- [[RNC - Republican National Committee]]: $1,291 (29 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,075 (34 contributions)
+- [[_Ted Cruz Master Profile]]: $880 (5 contributions)
+- [[_Anna Paulina Luna Master Profile]]: $725 (6 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

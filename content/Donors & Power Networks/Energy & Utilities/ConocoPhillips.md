@@ -81,6 +81,9 @@ total-spent: 274875
 cash-on-hand: 21591
 individual-contributions: 285642
 contributions-to-committees: 218000
+employee-contributions: 19314
+employee-contributions-total: 2125152
+employee-donor-count: 1637
 ---
 
 <!-- auto:data-panel start -->
@@ -449,6 +452,32 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 19,314 |
+| Total Amount | $2,125,152 |
+| Unique Employee Donors | ~1,637 |
+| Recipient Committees | 40 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ConocoPhillips]]: $1,654,266 (17083 contributions)
+- [[ActBlue]]: $194,014 (1364 contributions)
+- [[WinRed]]: $166,104 (277 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $41,668 (44 contributions)
+- [[MAGA Inc]]: $12,314 (56 contributions)
+- [[RNC - Republican National Committee]]: $10,008 (102 contributions)
+- [[Bernie Moreno]]: $5,300 (2 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $4,915 (51 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $4,208 (90 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $3,897 (59 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

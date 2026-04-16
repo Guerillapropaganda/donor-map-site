@@ -28,6 +28,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 5
+employee-contributions-total: 560
+employee-donor-count: 2
 ---
 
 
@@ -177,6 +180,23 @@ The Jewish Democratic Council of America exemplifies how identity-based advocacy
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5 |
+| Total Amount | $560 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $560 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

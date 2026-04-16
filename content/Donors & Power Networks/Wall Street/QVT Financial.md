@@ -47,6 +47,9 @@ court-jurisdictions:
   - "United States Judicial Panel on Multidistrict Litigation"
 wikidata-id: "Q104480161"
 founded: "2003-01-01"
+employee-contributions: 21
+employee-contributions-total: 62112
+employee-donor-count: 16
 ---
 
 <!-- auto:data-panel start -->
@@ -103,7 +106,31 @@ QVT Financial exemplifies how venture capital operators convert business wealth 
 - [GLEIF: QVT Financial LP entity registration (LEI 549300JMMSS9C5S2HO30)](https://search.gleif.org/#/record/549300JMMSS9C5S2HO30) (Tier 1) (VERIFIED)
 - [Forbes: Vivek Ramaswamy wealth and investments](https://www.forbes.com/profile/vivek-ramaswamy/) (Tier 2) (VERIFIED)
 
-### Archived
+#### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 21 |
+| Total Amount | $62,112 |
+| Unique Employee Donors | ~16 |
+| Recipient Committees | 8 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $38,000 (12 contributions)
+- [[_George Latimer Master Profile]]: $6,600 (2 contributions)
+- [[_Ted Cruz Master Profile]]: $5,112 (2 contributions)
+- [[_Josh Riley Master Profile]]: $3,300 (1 contributions)
+- [[WinRed]]: $2,800 (1 contributions)
+- [[Majority PAC]]: $2,500 (1 contributions)
+- [[_Ted Lieu Master Profile]]: $2,500 (1 contributions)
+- [[_Don Bacon Master Profile]]: $1,300 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
+
+## Archived
 - ~~[Bloomberg: Ramaswamy and QVT Financial](https://www.bloomberg.com/news/articles/ramaswamy-qvt)~~ (Tier 2, URL likely paywalled/dead, generic Bloomberg path)
 
 ### DOJ Press Releases

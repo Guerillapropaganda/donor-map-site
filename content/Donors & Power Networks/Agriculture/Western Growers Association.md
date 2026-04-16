@@ -74,6 +74,9 @@ wikipedia-extract: "The Western Growers Association (WGA) is an association repr
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 2
+employee-contributions-total: 510
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -463,6 +466,23 @@ The Western Growers Association (WGA) is an association representing family farm
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2)
 
 <!-- auto:wikipedia pending-merge end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $510 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 1 |
+| Election Cycles | 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $510 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

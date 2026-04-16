@@ -22,6 +22,9 @@ total-spent: 13944696
 cash-on-hand: 7269628
 individual-contributions: 16056234
 contributions-to-committees: 5000
+employee-contributions: 3
+employee-contributions-total: 950
+employee-donor-count: 3
 ---
 
 ## Auto-Created Stub
@@ -39,3 +42,21 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `MOVEON.ORG POLITICAL ACTION`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $950 |
+| Unique Employee Donors | ~3 |
+| Recipient Committees | 1 |
+| Election Cycles | 2016, 2018 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $950 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

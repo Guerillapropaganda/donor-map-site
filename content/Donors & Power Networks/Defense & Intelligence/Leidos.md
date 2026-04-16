@@ -82,6 +82,11 @@ total-spent: 993770
 cash-on-hand: 1004168
 individual-contributions: 1018028
 contributions-to-committees: 993500
+federal-grants: 3
+federal-grants-total: -18938
+employee-contributions: 50945
+employee-contributions-total: 6986102
+employee-donor-count: 5702
 ---
 
 <!-- auto:data-panel start -->
@@ -460,6 +465,54 @@ The Genuine Win + Structural Limit pattern appears in Leidos' VA healthcare work
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 3 |
+| Total Obligation | $-18,938 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 2 |
+
+**Top awarding agencies:**
+
+- Department of Housing and Urban Development: $-18,938
+
+**Top programs:**
+
+- PUBLIC HOUSING CAPITAL FUND
+- DEMOLITION AND REVITALIZATION OF SEVERELY DISTRESSED PUBLIC HOUSING
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 50,945 |
+| Total Amount | $6,986,102 |
+| Unique Employee Donors | ~5,702 |
+| Recipient Committees | 72 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Leidos]]: $5,492,298 (38194 contributions)
+- [[ActBlue]]: $834,199 (6786 contributions)
+- [[WinRed]]: $314,242 (1652 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $34,024 (634 contributions)
+- [[RNC - Republican National Committee]]: $32,850 (455 contributions)
+- [[_Mike Rogers Master Profile]]: $31,800 (32 contributions)
+- [[MAGA Inc]]: $31,267 (166 contributions)
+- [[_Bill Foster Master Profile]]: $27,200 (23 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $26,440 (467 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $21,818 (515 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

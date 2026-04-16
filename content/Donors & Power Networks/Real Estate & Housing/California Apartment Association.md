@@ -29,6 +29,9 @@ related: "[[Antonio Villaraigosa Master Profile]] · [[The Real Estate Mayor and
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 21
+employee-contributions-total: 2500
+employee-donor-count: 7
 ---
 
 <!-- auto:data-panel start -->
@@ -233,6 +236,25 @@ Housing, rent control, supply-side framework, tenant rights
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 21 |
+| Total Amount | $2,500 |
+| Unique Employee Donors | ~7 |
+| Recipient Committees | 3 |
+| Election Cycles | 2018, 2020, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,400 (17 contributions)
+- [[_Dave Min Master Profile]]: $1,000 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $100 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

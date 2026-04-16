@@ -62,6 +62,9 @@ cross-vault-triangulation-count: 31
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 20
 epa-states: "CA, CT, LA, MI, MN, NJ, PA, RI, TN, TX, VA"
+employee-contributions: 9543
+employee-contributions-total: 1343236
+employee-donor-count: 1263
 ---
 
 <!-- auto:data-panel start -->
@@ -616,6 +619,32 @@ The Pioneer acquisition ($59.5B, May 2024) reveals the class strategy for the en
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 9,543 |
+| Total Amount | $1,343,236 |
+| Unique Employee Donors | ~1,263 |
+| Recipient Committees | 71 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $425,263 (4613 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $329,324 (566 contributions)
+- [[WinRed]]: $242,824 (1978 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $99,422 (219 contributions)
+- [[MAGA Inc]]: $64,061 (257 contributions)
+- [[_Ted Cruz Master Profile]]: $29,715 (181 contributions)
+- [[RNC - Republican National Committee]]: $28,336 (283 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $21,882 (483 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $13,383 (119 contributions)
+- [[The Lincoln Project]]: $11,333 (52 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

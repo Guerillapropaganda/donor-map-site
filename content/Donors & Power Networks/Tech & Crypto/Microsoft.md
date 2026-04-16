@@ -66,6 +66,9 @@ total-spent: 911080
 cash-on-hand: 400366
 individual-contributions: 1018520
 contributions-to-committees: 790000
+employee-contributions: 195850
+employee-contributions-total: 22378287
+employee-donor-count: 23747
 ---
 
 <!-- auto:data-panel start -->
@@ -392,6 +395,32 @@ Microsoft represents the corporate capture of government technology infrastructu
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 195,850 |
+| Total Amount | $22,378,287 |
+| Unique Employee Donors | ~23,747 |
+| Recipient Committees | 139 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $10,359,998 (43283 contributions)
+- [[Microsoft]]: $5,287,603 (136290 contributions)
+- [[AB PAC]]: $1,279,796 (32 contributions)
+- [[WinRed]]: $1,035,444 (2377 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $689,008 (2583 contributions)
+- [[Best of America PAC]]: $500,000 (2 contributions)
+- [[Winsenate]]: $444,645 (142 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $400,467 (1803 contributions)
+- [[Fairshake PAC]]: $253,000 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $232,988 (1369 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -23,6 +23,11 @@ total-spent: 186536
 cash-on-hand: 187432
 individual-contributions: 54594
 contributions-to-committees: 1000
+federal-grants: 2
+federal-grants-total: 1291679
+employee-contributions: 1
+employee-contributions-total: 1000
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -46,3 +51,44 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `CAMPAIGN FOR WORKING FAMILIES`
+
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 2 |
+| Total Obligation | $1,291,679 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 2 |
+
+**Top awarding agencies:**
+
+- Department of the Treasury: $1,291,679
+
+**Top programs:**
+
+- VOLUNTEER INCOME TAX ASSISTANCE (VITA) MATCHING GRANT PROGRAM
+- LOW INCOME TAXPAYER CLINICS
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $1,000 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

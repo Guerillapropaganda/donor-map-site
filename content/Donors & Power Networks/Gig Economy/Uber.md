@@ -100,6 +100,9 @@ cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 3
 epa-states: "CA"
+employee-contributions: 12769
+employee-contributions-total: 1279342
+employee-donor-count: 1603
 ---
 
 <!-- auto:data-panel start -->
@@ -507,6 +510,32 @@ Trump administration, deregulatory alignment, inauguration donations
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 12,769 |
+| Total Amount | $1,279,342 |
+| Unique Employee Donors | ~1,603 |
+| Recipient Committees | 66 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $764,384 (7354 contributions)
+- [[WinRed]]: $107,854 (1711 contributions)
+- [[HMP]]: $68,998 (19 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $65,742 (306 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $55,577 (686 contributions)
+- [[Planned Parenthood Votes]]: $35,300 (3 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $19,027 (480 contributions)
+- [[RNC - Republican National Committee]]: $18,609 (501 contributions)
+- [[_Jon Ossoff Master Profile]]: $17,288 (172 contributions)
+- [[Planned Parenthood Action Fund INC]]: $15,215 (4 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

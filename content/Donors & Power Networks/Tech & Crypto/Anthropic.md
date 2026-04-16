@@ -48,6 +48,9 @@ cross-vault-triangulation-count: 7
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 240
+employee-contributions-total: 1019624
+employee-donor-count: 111
 ---
 
 <!-- auto:data-panel start -->
@@ -229,6 +232,32 @@ AI safety regulation that establishes testing and evaluation requirements for fr
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Anthropic%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 240 |
+| Total Amount | $1,019,624 |
+| Unique Employee Donors | ~111 |
+| Recipient Committees | 12 |
+| Election Cycles | 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $713,508 (191 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $133,900 (6 contributions)
+- [[_Scott Wiener Master Profile]]: $73,050 (25 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $44,300 (2 contributions)
+- [[WinRed]]: $22,000 (5 contributions)
+- [[_Ted Lieu Master Profile]]: $16,000 (5 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $10,000 (1 contributions)
+- [[DNC - Democratic National Committee]]: $3,066 (1 contributions)
+- [[_Alex Padilla Master Profile]]: $2,900 (1 contributions)
+- [[Indivisible Action]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

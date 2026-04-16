@@ -65,6 +65,9 @@ audit-a-plus-passed: "2026-04-11"
 epa-facilities: 30
 epa-states: "CA, CO, GA, IN, MA, MS, NC, OR, RI, VA, WA"
 federal-contracts: 223
+employee-contributions: 727
+employee-contributions-total: 2714887
+employee-donor-count: 182
 ---
 
 <!-- auto:data-panel start -->
@@ -371,6 +374,32 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 727 |
+| Total Amount | $2,714,887 |
+| Unique Employee Donors | ~182 |
+| Recipient Committees | 57 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $664,656 (215 contributions)
+- [[ActBlue]]: $649,848 (344 contributions)
+- [[Trump Victory]]: $572,200 (2 contributions)
+- [[RNC - Republican National Committee]]: $250,000 (3 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $93,600 (3 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $93,600 (3 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $41,770 (8 contributions)
+- [[_Dave Min Master Profile]]: $17,900 (8 contributions)
+- [[_Susie Lee Master Profile]]: $17,600 (6 contributions)
+- [[_Mario Diaz-Balart Master Profile]]: $15,900 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

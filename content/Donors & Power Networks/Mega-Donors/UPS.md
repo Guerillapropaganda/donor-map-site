@@ -75,6 +75,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 urls-first-triaged: "2026-04-15"
 epa-facilities: 103
 epa-states: "AL, AZ, CA, CT, FL, GA, IA, IL, LA, MD, ME, MI, MN, MO, ND, NJ, OR, PR, TX, WA, WV"
+employee-contributions: 29330
+employee-contributions-total: 2048421
+employee-donor-count: 3748
 ---
 
 <!-- auto:data-panel start -->
@@ -353,6 +356,32 @@ The class analysis conclusion: corporate political spending is effective against
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 29,330 |
+| Total Amount | $2,048,421 |
+| Unique Employee Donors | ~3,748 |
+| Recipient Committees | 113 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $712,148 (12940 contributions)
+- [[WinRed]]: $545,649 (6378 contributions)
+- [[RNC - Republican National Committee]]: $142,618 (2037 contributions)
+- [[MAGA Inc]]: $134,691 (757 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $101,118 (1643 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $47,685 (444 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $46,959 (987 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $38,169 (1075 contributions)
+- [[Trump Victory]]: $22,688 (23 contributions)
+- [[_Jon Ossoff Master Profile]]: $18,454 (188 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -27,6 +27,9 @@ total-spent: 80435487
 cash-on-hand: 32662753
 individual-contributions: 68087780
 contributions-to-committees: 1493000
+employee-contributions: 62
+employee-contributions-total: 13662
+employee-donor-count: 22
 ---
 
 ## Auto-Created Stub
@@ -65,3 +68,27 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 62 |
+| Total Amount | $13,662 |
+| Unique Employee Donors | ~22 |
+| Recipient Committees | 7 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $6,966 (20 contributions)
+- [[RNC - Republican National Committee]]: $2,850 (33 contributions)
+- [[_Brian Jack Master Profile]]: $1,541 (2 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $1,000 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $755 (3 contributions)
+- [[_John James Master Profile]]: $500 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $50 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

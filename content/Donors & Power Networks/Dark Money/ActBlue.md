@@ -54,6 +54,9 @@ total-spent: 1373643088
 cash-on-hand: 92009349
 individual-contributions: 1332206808
 contributions-to-committees: 1263374389
+employee-contributions: 411
+employee-contributions-total: 81649
+employee-donor-count: 81
 ---
 
 <!-- auto:data-panel start -->
@@ -448,6 +451,32 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=ActBlue) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 411 |
+| Total Amount | $81,649 |
+| Unique Employee Donors | ~81 |
+| Recipient Committees | 15 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $75,779 (340 contributions)
+- [[Barbara Lee]]: $1,000 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $560 (7 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $504 (3 contributions)
+- [[_Deb Haaland Master Profile]]: $500 (1 contributions)
+- [[Really American Pac]]: $500 (1 contributions)
+- [[_Cory Booker Master Profile]]: $500 (4 contributions)
+- [[Minnesota Democratic-Farmer-Labor Party]]: $450 (18 contributions)
+- [[_Kevin Mullin Master Profile]]: $400 (2 contributions)
+- [[Los Angeles County Democratic Central Committee]]: $300 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -37,6 +37,9 @@ total-spent: 1117894
 cash-on-hand: 2198544
 individual-contributions: 1088609
 contributions-to-committees: 991384
+employee-contributions: 170533
+employee-contributions-total: 52771918
+employee-donor-count: 24906
 ---
 
 <!-- auto:data-panel start -->
@@ -530,6 +533,32 @@ Google represents the most advanced form of monopoly power in the vault, one tha
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 170,533 |
+| Total Amount | $52,771,918 |
+| Unique Employee Donors | ~24,906 |
+| Recipient Committees | 168 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $29,483,758 (84681 contributions)
+- [[Google - Alphabet]]: $8,227,532 (64293 contributions)
+- [[Fairshake PAC]]: $4,136,375 (5 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,693,942 (2334 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $1,585,992 (2678 contributions)
+- [[WinRed]]: $1,018,228 (1093 contributions)
+- [[_Jon Ossoff Master Profile]]: $977,762 (3356 contributions)
+- [[RNC - Republican National Committee]]: $477,428 (208 contributions)
+- [[314 Action Fund]]: $469,718 (318 contributions)
+- [[Winsenate]]: $379,374 (286 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

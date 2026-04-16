@@ -47,6 +47,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 266
 epa-states: "CA, IA, IL, KS, MA, MD, MI, NH, NJ, NY, PA, RI, VA, VT, WI"
+employee-contributions: 21085
+employee-contributions-total: 1947154
+employee-donor-count: 3274
 ---
 
 <!-- auto:data-panel start -->
@@ -313,6 +316,32 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 21,085 |
+| Total Amount | $1,947,154 |
+| Unique Employee Donors | ~3,274 |
+| Recipient Committees | 106 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,116,482 (11634 contributions)
+- [[WinRed]]: $311,670 (2897 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $64,332 (616 contributions)
+- [[RNC - Republican National Committee]]: $58,794 (841 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $55,315 (1092 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $48,370 (760 contributions)
+- [[MAGA Inc]]: $46,012 (272 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $32,073 (534 contributions)
+- [[_Jon Ossoff Master Profile]]: $12,736 (240 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $10,500 (7 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

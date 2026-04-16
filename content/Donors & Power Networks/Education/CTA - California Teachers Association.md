@@ -28,6 +28,9 @@ epa-facilities: 6
 epa-states: "AL, IL, UT"
 federal-contracts: 36
 federal-awards-total: 2527004
+employee-contributions: 1351
+employee-contributions-total: 164575
+employee-donor-count: 245
 ---
 
 <!-- auto:data-panel start -->
@@ -221,6 +224,32 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,351 |
+| Total Amount | $164,575 |
+| Unique Employee Donors | ~245 |
+| Recipient Committees | 37 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $76,543 (720 contributions)
+- [[WinRed]]: $20,989 (108 contributions)
+- [[NEA Fund for Children and Public Education]]: $11,680 (19 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $11,342 (138 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $5,865 (62 contributions)
+- [[_Jon Ossoff Master Profile]]: $4,718 (26 contributions)
+- [[MAGA Inc]]: $4,378 (15 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $4,060 (5 contributions)
+- [[_Mark Takano Master Profile]]: $3,250 (8 contributions)
+- [[CHC BOLD PAC]]: $2,500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

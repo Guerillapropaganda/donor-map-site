@@ -28,6 +28,9 @@ total-spent: 89833297
 cash-on-hand: 57555735
 individual-contributions: 54486730
 contributions-to-committees: 105000
+employee-contributions: 107
+employee-contributions-total: 13344
+employee-donor-count: 27
 ---
 
 ## Auto-Created Stub
@@ -66,3 +69,29 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 107 |
+| Total Amount | $13,344 |
+| Unique Employee Donors | ~27 |
+| Recipient Committees | 9 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $6,092 (57 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $1,825 (4 contributions)
+- [[RNC - Republican National Committee]]: $1,644 (5 contributions)
+- [[_Ben Cline Master Profile]]: $1,250 (2 contributions)
+- [[Trump Victory]]: $800 (8 contributions)
+- [[ActBlue]]: $621 (17 contributions)
+- [[VIEW PAC - Value in Electing Women]]: $500 (2 contributions)
+- [[_Doug Burgum Master Profile]]: $462 (9 contributions)
+- [[_Chrissy Houlahan Master Profile]]: $150 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

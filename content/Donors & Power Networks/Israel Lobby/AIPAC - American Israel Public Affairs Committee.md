@@ -38,6 +38,9 @@ total-spent: 32322241
 cash-on-hand: 3045118
 individual-contributions: 32699029
 contributions-to-committees: 30592045
+employee-contributions: 99
+employee-contributions-total: 262161
+employee-donor-count: 57
 ---
 
 <!-- auto:data-panel start -->
@@ -566,6 +569,32 @@ The Chicago Tribune confirmed on March 23 that AIPAC's United Democracy Project 
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/530217164) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 99 |
+| Total Amount | $262,161 |
+| Unique Employee Donors | ~57 |
+| Recipient Committees | 11 |
+| Election Cycles | 2016, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[AIPAC - American Israel Public Affairs Committee]]: $171,114 (65 contributions)
+- [[United Democracy Project - UDP]]: $75,000 (2 contributions)
+- [[ActBlue]]: $9,692 (21 contributions)
+- [[Democratic Party of Virginia]]: $1,105 (3 contributions)
+- [[Majority PAC]]: $1,000 (1 contributions)
+- [[_Adriano Espaillat Master Profile]]: $1,000 (1 contributions)
+- [[_Brian Jack Master Profile]]: $1,000 (1 contributions)
+- [[WinRed]]: $1,000 (1 contributions)
+- [[_Glenn Ivey Master Profile]]: $500 (1 contributions)
+- [[_Tony Gonzales Master Profile]]: $500 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

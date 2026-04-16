@@ -22,6 +22,9 @@ total-spent: 126696
 cash-on-hand: 316020
 individual-contributions: 131620
 contributions-to-committees: 30000
+employee-contributions: 2
+employee-contributions-total: 200
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -39,3 +42,21 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `COURAGE TO CHANGE`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $200 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $200 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

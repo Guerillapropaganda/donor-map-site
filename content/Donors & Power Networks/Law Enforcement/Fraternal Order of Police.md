@@ -65,6 +65,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 3
+employee-contributions-total: 575
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -286,6 +289,24 @@ Preservation of qualified immunity (which shields officers from personal liabili
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $575 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 2 |
+| Election Cycles | 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[MAGA Inc]]: $500 (2 contributions)
+- [[RNC - Republican National Committee]]: $75 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

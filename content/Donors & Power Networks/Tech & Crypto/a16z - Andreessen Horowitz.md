@@ -15,6 +15,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 357
+employee-contributions-total: 33410790
+employee-donor-count: 153
 ---
 
 
@@ -39,3 +42,30 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 
 See **[[Marc Andreessen & Horowitz]]** for the full donor node. FEC contributions, Fairshake PAC, Leading the Future super PAC, PCAST appointment, revolving door, class analysis.
 
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 357 |
+| Total Amount | $33,410,790 |
+| Unique Employee Donors | ~153 |
+| Recipient Committees | 45 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[AI Deregulation Super PAC - Leading the Future]]: $25,000,000 (2 contributions)
+- [[MAGA Inc]]: $6,000,000 (4 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $577,068 (18 contributions)
+- [[United Democracy Project - UDP]]: $500,000 (2 contributions)
+- [[ActBlue]]: $498,414 (159 contributions)
+- [[WinRed]]: $278,262 (46 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $243,666 (13 contributions)
+- [[_Jake Auchincloss Master Profile]]: $48,200 (14 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $37,534 (4 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $27,534 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

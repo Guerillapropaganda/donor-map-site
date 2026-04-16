@@ -19,4 +19,53 @@ urls-first-triaged: "2026-04-15"
 total-raised: 475
 total-spent: 61697
 related: "[[Chris Christie]]"
+federal-grants: 1
+federal-grants-total: 167092
+employee-contributions: 46
+employee-contributions-total: 3054
+employee-donor-count: 8
 ---
+
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $167,092 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Agriculture: $167,092
+
+**Top programs:**
+
+- RURAL RENTAL ASSISTANCE PAYMENTS
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 46 |
+| Total Amount | $3,054 |
+| Unique Employee Donors | ~8 |
+| Recipient Committees | 5 |
+| Election Cycles | 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,770 (5 contributions)
+- [[_Tim Scott Master Profile]]: $450 (18 contributions)
+- [[_Nancy Pelosi Master Profile]]: $400 (3 contributions)
+- [[WinRed]]: $225 (9 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $209 (11 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

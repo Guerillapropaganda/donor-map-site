@@ -18,6 +18,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 4
+employee-contributions-total: 4454
+employee-donor-count: 2
 ---
 
 ## Auto-Created Stub
@@ -41,3 +44,22 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `TOGETHER WE THRIVE`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4 |
+| Total Amount | $4,454 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 2 |
+| Election Cycles | 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Mark Kelly]]: $2,227 (2 contributions)
+- [[ActBlue]]: $2,227 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

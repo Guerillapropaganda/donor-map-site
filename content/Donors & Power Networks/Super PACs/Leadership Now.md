@@ -23,6 +23,9 @@ total-spent: 84291
 independent-expenditures: 538850
 individual-contributions: 8174
 cash-on-hand: 185308
+employee-contributions: 18
+employee-contributions-total: 28000
+employee-donor-count: 6
 ---
 
 ## Auto-Created Stub
@@ -46,3 +49,23 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `LEADERSHIP NOW`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 18 |
+| Total Amount | $28,000 |
+| Unique Employee Donors | ~6 |
+| Recipient Committees | 3 |
+| Election Cycles | 2020, 2022, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $23,200 (15 contributions)
+- [[_Lauren Underwood Master Profile]]: $3,800 (2 contributions)
+- [[_Jake Auchincloss Master Profile]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -58,6 +58,9 @@ court-jurisdictions:
 cross-vault-triangulation-count: 19
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Chris Murphy]], [[Tammy Baldwin]], [[Roy Cooper]]"
+employee-contributions: 119
+employee-contributions-total: 58431
+employee-donor-count: 66
 ---
 
 <!-- auto:data-panel start -->
@@ -407,6 +410,32 @@ The public option was included in the original House ACA bill (2009) but strippe
 - Doe v. United States Office of Personnel Management, et al. (2025) — Court of Appeals for the Ninth Circuit
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 119 |
+| Total Amount | $58,431 |
+| Unique Employee Donors | ~66 |
+| Recipient Committees | 13 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $30,927 (74 contributions)
+- [[_Lauren Underwood Master Profile]]: $11,500 (16 contributions)
+- [[WinRed]]: $8,020 (4 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $6,000 (2 contributions)
+- [[_Rashida Tlaib Master Profile]]: $500 (1 contributions)
+- [[Giffords PAC]]: $450 (1 contributions)
+- [[_Jon Ossoff Master Profile]]: $250 (1 contributions)
+- [[Progressive Turnout Project]]: $250 (1 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $175 (4 contributions)
+- [[MAGA Inc]]: $150 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

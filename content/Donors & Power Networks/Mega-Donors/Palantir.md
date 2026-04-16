@@ -63,6 +63,9 @@ total-spent: 78215
 cash-on-hand: 60233
 individual-contributions: 66185
 contributions-to-committees: 74000
+employee-contributions: 1867
+employee-contributions-total: 3342791
+employee-donor-count: 526
 ---
 
 <!-- auto:data-panel start -->
@@ -455,6 +458,32 @@ Palantir Technologies Inc. is an American publicly traded company that develops 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,867 |
+| Total Amount | $3,342,791 |
+| Unique Employee Donors | ~526 |
+| Recipient Committees | 63 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,002,446 (1217 contributions)
+- [[MAGA Inc]]: $1,001,770 (4 contributions)
+- [[Texans for a Conservative Majority]]: $250,000 (1 contributions)
+- [[Palantir]]: $181,521 (255 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $178,725 (32 contributions)
+- [[WinRed]]: $108,130 (50 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $98,000 (10 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $90,000 (5 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $63,850 (14 contributions)
+- [[_Josh Riley Master Profile]]: $57,301 (31 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

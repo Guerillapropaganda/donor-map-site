@@ -21,4 +21,28 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 23
+employee-contributions-total: 15665953
+employee-donor-count: 6
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 23 |
+| Total Amount | $15,665,953 |
+| Unique Employee Donors | ~6 |
+| Recipient Committees | 4 |
+| Election Cycles | 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[America First Action]]: $15,663,443 (12 contributions)
+- [[WinRed]]: $2,000 (8 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $260 (2 contributions)
+- [[MAGA Inc]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

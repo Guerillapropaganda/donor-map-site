@@ -28,6 +28,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 urls-first-triaged: "2026-04-15"
 epa-facilities: 5
 epa-states: "CA, TN, TX"
+employee-contributions: 11159
+employee-contributions-total: 925622
+employee-donor-count: 1210
 ---
 
 <!-- auto:data-panel start -->
@@ -165,6 +168,32 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 11,159 |
+| Total Amount | $925,622 |
+| Unique Employee Donors | ~1,210 |
+| Recipient Committees | 67 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $434,814 (8220 contributions)
+- [[WinRed]]: $259,881 (619 contributions)
+- [[RNC - Republican National Committee]]: $39,091 (214 contributions)
+- [[Americans for Prosperity]]: $25,000 (1 contributions)
+- [[MAGA Inc]]: $17,577 (98 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $15,061 (242 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $11,015 (308 contributions)
+- [[_Julia Brownley Master Profile]]: $10,800 (20 contributions)
+- [[_Lauren Underwood Master Profile]]: $9,965 (32 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $9,074 (91 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

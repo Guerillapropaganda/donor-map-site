@@ -22,6 +22,9 @@ total-raised: 942
 total-spent: 522
 cash-on-hand: 4514
 individual-contributions: 551329
+employee-contributions: 26
+employee-contributions-total: 25355
+employee-donor-count: 15
 ---
 
 ## Auto-Created Stub
@@ -45,3 +48,25 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `MICHIGAN REPUBLICAN PARTY`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 26 |
+| Total Amount | $25,355 |
+| Unique Employee Donors | ~15 |
+| Recipient Committees | 5 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Michigan Republican Party]]: $12,768 (20 contributions)
+- [[_John James Master Profile]]: $8,100 (2 contributions)
+- [[RNC - Republican National Committee]]: $3,050 (2 contributions)
+- [[_Don Bacon Master Profile]]: $1,041 (1 contributions)
+- [[WinRed]]: $396 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

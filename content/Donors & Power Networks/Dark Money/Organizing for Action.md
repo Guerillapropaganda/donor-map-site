@@ -49,6 +49,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 41
+employee-contributions-total: 8666
+employee-donor-count: 13
 ---
 
 
@@ -198,6 +201,25 @@ Organizing for Action exemplifies how campaign finance law's restrictions on ind
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/461827418) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 41 |
+| Total Amount | $8,666 |
+| Unique Employee Donors | ~13 |
+| Recipient Committees | 3 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $8,081 (38 contributions)
+- [[Catherine Cortez Masto]]: $500 (1 contributions)
+- [[Climate Hawks Vote]]: $85 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

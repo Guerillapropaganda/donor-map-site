@@ -73,6 +73,9 @@ wikipedia-extract: "CoreCivic, Inc. is an American private prison operator and o
 founded: "1983-01-01"
 epa-facilities: 1
 epa-states: "CA"
+employee-contributions: 4859
+employee-contributions-total: 1399214
+employee-donor-count: 554
 ---
 
 <!-- auto:data-panel start -->
@@ -617,6 +620,32 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4,859 |
+| Total Amount | $1,399,214 |
+| Unique Employee Donors | ~554 |
+| Recipient Committees | 25 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[CoreCivic - Private Prisons]]: $1,138,126 (4424 contributions)
+- [[WinRed]]: $146,504 (206 contributions)
+- [[_Mark Green Master Profile]]: $36,125 (18 contributions)
+- [[Trump Victory]]: $13,700 (7 contributions)
+- [[_Matt van Epps Master Profile]]: $13,000 (6 contributions)
+- [[RNC - Republican National Committee]]: $11,961 (30 contributions)
+- [[ActBlue]]: $7,175 (63 contributions)
+- [[Bernie Moreno]]: $5,810 (2 contributions)
+- [[The Sentinel Action Fund]]: $5,000 (1 contributions)
+- [[Standing With Conservatives]]: $5,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

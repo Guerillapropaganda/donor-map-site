@@ -22,6 +22,9 @@ total-raised: 163532
 total-spent: 220038
 cash-on-hand: 11919
 individual-contributions: 163136
+employee-contributions: 3
+employee-contributions-total: 1782
+employee-donor-count: 2
 ---
 
 ## Auto-Created Stub
@@ -45,3 +48,21 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `MAD DOG PAC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3 |
+| Total Amount | $1,782 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Mad Dog PAC]]: $1,782 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

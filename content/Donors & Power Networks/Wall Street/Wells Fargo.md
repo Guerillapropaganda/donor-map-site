@@ -94,6 +94,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 32
 epa-states: "AZ, CA, FL, IA, MI, MN"
+employee-contributions: 46363
+employee-contributions-total: 4174400
+employee-donor-count: 5535
 ---
 
 <!-- auto:data-panel start -->
@@ -379,6 +382,32 @@ The bipartisan political spending ($2-3M per cycle in PAC contributions) ensures
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 46,363 |
+| Total Amount | $4,174,400 |
+| Unique Employee Donors | ~5,535 |
+| Recipient Committees | 146 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,166,922 (29191 contributions)
+- [[WinRed]]: $576,370 (3180 contributions)
+- [[RNC - Republican National Committee]]: $143,714 (1349 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $110,512 (896 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $100,516 (1810 contributions)
+- [[MAGA Inc]]: $91,041 (474 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $68,405 (851 contributions)
+- [[Progressive Turnout Project]]: $64,334 (3004 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $56,625 (34 contributions)
+- [[AB PAC]]: $54,681 (24 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

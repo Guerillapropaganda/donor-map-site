@@ -47,6 +47,9 @@ cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 6
 epa-states: "AL, CA, GA, LA, TX"
+employee-contributions: 1383
+employee-contributions-total: 236470
+employee-donor-count: 278
 ---
 
 <!-- auto:data-panel start -->
@@ -261,6 +264,32 @@ Favorable rate increases from state PSCs, nuclear power subsidies (Plant Vogtle)
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,383 |
+| Total Amount | $236,470 |
+| Unique Employee Donors | ~278 |
+| Recipient Committees | 26 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $88,846 (469 contributions)
+- [[WinRed]]: $44,258 (163 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $29,962 (390 contributions)
+- [[_Mike Rogers Master Profile]]: $12,700 (8 contributions)
+- [[_Jon Ossoff Master Profile]]: $8,490 (48 contributions)
+- [[MAGA Inc]]: $7,868 (29 contributions)
+- [[_Ron Johnson Master Profile]]: $7,300 (2 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $6,555 (14 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $6,504 (56 contributions)
+- [[RNC - Republican National Committee]]: $5,883 (103 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

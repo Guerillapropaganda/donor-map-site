@@ -20,6 +20,9 @@ last-enriched: "2026-04-11"
 urls-first-triaged: "2026-04-15"
 epa-facilities: 2
 epa-states: "AR, CA"
+employee-contributions: 145
+employee-contributions-total: 23633
+employee-donor-count: 26
 ---
 
 <!-- auto:data-panel start -->
@@ -139,3 +142,29 @@ The duopoly itself is the class analysis. Two private equity-owned companies con
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 145 |
+| Total Amount | $23,633 |
+| Unique Employee Donors | ~26 |
+| Recipient Committees | 9 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $8,465 (77 contributions)
+- [[Trump Victory]]: $5,000 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $2,900 (1 contributions)
+- [[ActBlue]]: $2,435 (17 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,053 (42 contributions)
+- [[MAGA Inc]]: $1,930 (1 contributions)
+- [[RNC - Republican National Committee]]: $400 (2 contributions)
+- [[Emily's List]]: $250 (1 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $200 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

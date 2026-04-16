@@ -23,6 +23,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 2
+employee-contributions-total: 10500
+employee-donor-count: 1
 ---
 
 
@@ -105,6 +108,23 @@ Source: [[Fairshake PAC]] vault entry.
 
 - [Source: ProPublica Nonprofit Explorer — EIN 112894655](https://projects.propublica.org/nonprofits/organizations/112894655) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $10,500 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $10,500 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

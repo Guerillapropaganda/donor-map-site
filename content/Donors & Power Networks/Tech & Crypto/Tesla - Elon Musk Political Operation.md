@@ -19,6 +19,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 epa-facilities: 123
 epa-states: "AZ, CA, CO, FL, GA, IL, IN, MI, MN, MO, NC, NH, NJ, NV, NY, OH, OK, PA, RI, TN, TX, VA, WI"
+employee-contributions: 4447
+employee-contributions-total: 987579
+employee-donor-count: 814
 ---
 
 <!-- auto:data-panel start -->
@@ -106,3 +109,30 @@ EV tax credit structures that favor Tesla's manufacturing model, reduced NHTSA e
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 4,447 |
+| Total Amount | $987,579 |
+| Unique Employee Donors | ~814 |
+| Recipient Committees | 61 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $682,428 (3053 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $57,533 (44 contributions)
+- [[WinRed]]: $46,679 (349 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $44,810 (96 contributions)
+- [[_Jon Ossoff Master Profile]]: $21,254 (100 contributions)
+- [[_Josh Harder Master Profile]]: $13,807 (20 contributions)
+- [[Votevets]]: $10,000 (1 contributions)
+- [[Mark Kelly]]: $9,007 (48 contributions)
+- [[RNC - Republican National Committee]]: $8,984 (217 contributions)
+- [[The Lincoln Project]]: $7,980 (18 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

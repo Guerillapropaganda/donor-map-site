@@ -14,6 +14,9 @@ source-types: []
 urls-first-triaged: "2026-04-15"
 epa-facilities: 1
 epa-states: "CA"
+employee-contributions: 447
+employee-contributions-total: 133279
+employee-donor-count: 97
 ---
 
 
@@ -51,3 +54,30 @@ Profile pending enrichment.
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 447 |
+| Total Amount | $133,279 |
+| Unique Employee Donors | ~97 |
+| Recipient Committees | 15 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $107,930 (388 contributions)
+- [[_Kamala Harris Master Profile]]: $5,400 (2 contributions)
+- [[Marianne Williamson]]: $5,400 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $5,176 (13 contributions)
+- [[Google - Alphabet]]: $5,000 (1 contributions)
+- [[_Derek Tran Master Profile]]: $2,000 (2 contributions)
+- [[Mark Kelly]]: $450 (3 contributions)
+- [[WinRed]]: $400 (5 contributions)
+- [[RNC - Republican National Committee]]: $379 (8 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $265 (16 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

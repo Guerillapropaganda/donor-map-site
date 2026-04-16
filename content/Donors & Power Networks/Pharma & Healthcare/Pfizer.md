@@ -91,6 +91,9 @@ total-spent: 908185
 cash-on-hand: 310652
 individual-contributions: 1007453
 contributions-to-committees: 770600
+employee-contributions: 188265
+employee-contributions-total: 9343204
+employee-donor-count: 13656
 ---
 
 <!-- auto:data-panel start -->
@@ -485,6 +488,32 @@ _Variant firm names in FDA data: PFIZER INC; Pfizer Inc.; PFIZER, INC; Pfizer In
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 188,265 |
+| Total Amount | $9,343,204 |
+| Unique Employee Donors | ~13,656 |
+| Recipient Committees | 93 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Pfizer]]: $7,485,425 (174618 contributions)
+- [[ActBlue]]: $1,220,036 (8221 contributions)
+- [[WinRed]]: $187,636 (1175 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $69,634 (398 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $41,165 (465 contributions)
+- [[MAGA Inc]]: $38,386 (246 contributions)
+- [[RNC - Republican National Committee]]: $37,781 (363 contributions)
+- [[Emily's List]]: $24,953 (180 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $24,712 (377 contributions)
+- [[Mark Kelly]]: $22,462 (281 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -51,6 +51,9 @@ needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+employee-contributions: 10
+employee-contributions-total: 4708
+employee-donor-count: 5
 ---
 
 <!-- auto:data-panel start -->
@@ -113,3 +116,23 @@ The Trump Organization's political operation is inseparable from Trump's persona
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Trump%20Organization%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 10 |
+| Total Amount | $4,708 |
+| Unique Employee Donors | ~5 |
+| Recipient Committees | 3 |
+| Election Cycles | 2016, 2018, 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[MAGA Inc]]: $4,333 (4 contributions)
+- [[Trump Victory]]: $250 (1 contributions)
+- [[WinRed]]: $125 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

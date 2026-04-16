@@ -58,6 +58,9 @@ wikipedia-extract: The Federalist Society for Law and Public Policy Studies (Fed
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 2
+employee-contributions-total: 5200
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -337,6 +340,24 @@ The Federalist Society for Law and Public Policy Studies (FedSoc) is an American
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Federalist_Society) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q5440666) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $5,200 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 2 |
+| Election Cycles | 2018 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[_Ted Cruz Master Profile]]: $2,700 (1 contributions)
+- [[_Josh Hawley Master Profile]]: $2,500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

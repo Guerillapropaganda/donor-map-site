@@ -71,6 +71,9 @@ cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 2
 epa-states: "FL, IN"
+employee-contributions: 5158
+employee-contributions-total: 390631
+employee-donor-count: 498
 ---
 
 <!-- auto:data-panel start -->
@@ -476,6 +479,32 @@ _Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5,158 |
+| Total Amount | $390,631 |
+| Unique Employee Donors | ~498 |
+| Recipient Committees | 37 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $238,979 (3921 contributions)
+- [[WinRed]]: $29,550 (112 contributions)
+- [[Majority PAC]]: $21,000 (11 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $20,220 (290 contributions)
+- [[RNC - Republican National Committee]]: $16,789 (105 contributions)
+- [[_Andre Carson Master Profile]]: $10,959 (77 contributions)
+- [[MAGA Inc]]: $7,645 (38 contributions)
+- [[Mark Kelly]]: $5,890 (40 contributions)
+- [[Progressive Turnout Project]]: $5,203 (99 contributions)
+- [[Giffords PAC]]: $5,135 (51 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -46,6 +46,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 35
+employee-contributions-total: 4881
+employee-donor-count: 7
 ---
 
 <!-- auto:data-panel start -->
@@ -319,6 +322,24 @@ REBNY's influence operates through both direct campaign contributions and struct
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/131201480) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 35 |
+| Total Amount | $4,881 |
+| Unique Employee Donors | ~7 |
+| Recipient Committees | 2 |
+| Election Cycles | 2016, 2018, 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $4,765 (33 contributions)
+- [[MoveOn.org Political Action]]: $116 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

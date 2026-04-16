@@ -26,6 +26,9 @@ nhtsa-complaints: 0
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+employee-contributions: 5
+employee-contributions-total: 1400
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -381,6 +384,23 @@ The return on $2.9 million in Newsom contributions is $1.6 billion in contracts 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association) (Tier 1)
 
 <!-- auto:nhtsa-recalls pending-merge end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5 |
+| Total Amount | $1,400 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 1 |
+| Election Cycles | 2016, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,400 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

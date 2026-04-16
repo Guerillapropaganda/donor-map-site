@@ -18,6 +18,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 43
+employee-contributions-total: 7685
+employee-donor-count: 19
 ---
 
 ## Auto-Created Stub
@@ -41,3 +44,25 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `NARAL Pro-Choice America`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 43 |
+| Total Amount | $7,685 |
+| Unique Employee Donors | ~19 |
+| Recipient Committees | 5 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $6,214 (33 contributions)
+- [[DNC - Democratic National Committee]]: $696 (6 contributions)
+- [[_Lauren Underwood Master Profile]]: $500 (2 contributions)
+- [[Emily's List]]: $250 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $25 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -22,6 +22,9 @@ total-spent: 105968186
 cash-on-hand: 57383284
 individual-contributions: 76884358
 contributions-to-committees: 91540
+employee-contributions: 637
+employee-contributions-total: 67016
+employee-donor-count: 109
 ---
 
 ## Auto-Created Stub
@@ -40,3 +43,30 @@ This profile absorbs the following FEC-format committee name(s):
 
 - `DCCC`
 - `DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 637 |
+| Total Amount | $67,016 |
+| Unique Employee Donors | ~109 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $58,898 (461 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $4,228 (147 contributions)
+- [[_Jon Ossoff Master Profile]]: $700 (4 contributions)
+- [[_Josh Harder Master Profile]]: $500 (1 contributions)
+- [[WinRed]]: $420 (1 contributions)
+- [[_Julia Brownley Master Profile]]: $364 (2 contributions)
+- [[Mark Kelly]]: $250 (1 contributions)
+- [[314 Action Fund]]: $250 (1 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $250 (1 contributions)
+- [[Emily's List]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

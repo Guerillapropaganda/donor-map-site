@@ -29,6 +29,9 @@ total-spent: 5146518
 cash-on-hand: 7434322
 individual-contributions: 9608423
 contributions-to-committees: 713500
+employee-contributions: 5592
+employee-contributions-total: 278969
+employee-donor-count: 656
 ---
 
 <!-- auto:data-panel start -->
@@ -235,6 +238,32 @@ DHL Express Teamsters voted **96% to authorize a strike** if no contract is reac
 <!-- auto:propublica-990 end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5,592 |
+| Total Amount | $278,969 |
+| Unique Employee Donors | ~656 |
+| Recipient Committees | 21 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Teamsters - International Brotherhood of Teamsters]]: $226,602 (4845 contributions)
+- [[ActBlue]]: $39,806 (548 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $2,047 (61 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,580 (24 contributions)
+- [[_Jon Ossoff Master Profile]]: $1,200 (9 contributions)
+- [[Winsenate]]: $1,100 (2 contributions)
+- [[RNC - Republican National Committee]]: $984 (12 contributions)
+- [[WinRed]]: $858 (10 contributions)
+- [[_Gabe Vasquez Master Profile]]: $750 (2 contributions)
+- [[Democratic Party of Virginia]]: $673 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

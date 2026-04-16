@@ -88,6 +88,9 @@ internal-notes: "[CODE @ 2026-04-13] Pipeline: lda completed for American Farm B
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 21
+employee-contributions-total: 7080
+employee-donor-count: 15
 ---
 
 <!-- auto:data-panel start -->
@@ -456,6 +459,31 @@ The American Farm Bureau Federation is a case study in institutional identity fr
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=American%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 21 |
+| Total Amount | $7,080 |
+| Unique Employee Donors | ~15 |
+| Recipient Committees | 9 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $2,375 (7 contributions)
+- [[WinRed]]: $1,770 (3 contributions)
+- [[_Brian Jack Master Profile]]: $1,000 (1 contributions)
+- [[The Lincoln Project]]: $525 (4 contributions)
+- [[_Jeff Hurd Master Profile]]: $500 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $250 (1 contributions)
+- [[_David Rouzer Master Profile]]: $250 (1 contributions)
+- [[RNC - Republican National Committee]]: $220 (1 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $190 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

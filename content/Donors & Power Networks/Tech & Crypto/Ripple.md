@@ -41,6 +41,9 @@ aliases:
   - "Ripple Labs"
   - "Ripple Labs Inc"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 482
+employee-contributions-total: 16199458
+employee-donor-count: 144
 ---
 
 
@@ -240,6 +243,32 @@ Ripple exemplifies how new industries use political spending to prevent regulati
 - Anthropic PBC v. United States Department of War (2026) — Court of Appeals for the D.C. Circuit
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 482 |
+| Total Amount | $16,199,458 |
+| Unique Employee Donors | ~144 |
+| Recipient Committees | 35 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Fairshake PAC]]: $11,649,925 (6 contributions)
+- [[HMP]]: $2,200,000 (5 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $656,630 (12 contributions)
+- [[ActBlue]]: $645,124 (327 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $511,500 (7 contributions)
+- [[WinRed]]: $238,849 (45 contributions)
+- [[Equality California Votes]]: $50,000 (1 contributions)
+- [[SLF PAC]]: $50,000 (1 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $39,400 (2 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $36,500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

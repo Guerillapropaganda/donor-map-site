@@ -46,6 +46,9 @@ total-spent: 124579
 cash-on-hand: 160986
 individual-contributions: 191067
 contributions-to-committees: 91000
+employee-contributions: 30436
+employee-contributions-total: 2360937
+employee-donor-count: 1972
 ---
 
 <!-- auto:data-panel start -->
@@ -302,6 +305,32 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 30,436 |
+| Total Amount | $2,360,937 |
+| Unique Employee Donors | ~1,972 |
+| Recipient Committees | 20 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Devon Energy]]: $1,305,345 (30124 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $531,562 (65 contributions)
+- [[RNC - Republican National Committee]]: $180,378 (29 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $101,149 (35 contributions)
+- [[Conservative Solutions PAC]]: $80,000 (2 contributions)
+- [[WinRed]]: $65,738 (34 contributions)
+- [[_Marco Rubio Master Profile]]: $35,100 (9 contributions)
+- [[Trump Victory]]: $27,700 (2 contributions)
+- [[National Association of Manufacturers]]: $20,000 (4 contributions)
+- [[ActBlue]]: $9,273 (55 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

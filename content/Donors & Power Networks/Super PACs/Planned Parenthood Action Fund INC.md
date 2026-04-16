@@ -23,6 +23,9 @@ total-spent: 182066
 cash-on-hand: 508839
 individual-contributions: 397182
 contributions-to-committees: 157500
+employee-contributions: 61
+employee-contributions-total: 125843
+employee-donor-count: 18
 ---
 
 ## Auto-Created Stub
@@ -46,3 +49,24 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `PLANNED PARENTHOOD ACTION FUND INC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 61 |
+| Total Amount | $125,843 |
+| Unique Employee Donors | ~18 |
+| Recipient Committees | 4 |
+| Election Cycles | 2016, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Planned Parenthood Votes]]: $116,373 (21 contributions)
+- [[ActBlue]]: $6,645 (26 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $2,000 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $825 (12 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

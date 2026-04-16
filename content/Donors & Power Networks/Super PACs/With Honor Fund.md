@@ -19,6 +19,9 @@ total-raised: 4356144
 total-spent: 5934040
 individual-contributions: 4250293
 contributions-to-committees: 5891512
+employee-contributions: 1
+employee-contributions-total: 10
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -36,3 +39,21 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `WITH HONOR FUND, INC.`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $10 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2018 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[With Honor Fund]]: $10 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

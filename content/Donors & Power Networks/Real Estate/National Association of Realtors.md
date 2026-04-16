@@ -70,6 +70,9 @@ cash-on-hand: 21410243
 independent-expenditures: 425714
 individual-contributions: 11326503
 contributions-to-committees: 10079000
+employee-contributions: 3149
+employee-contributions-total: 387422
+employee-donor-count: 361
 ---
 
 <!-- auto:data-panel start -->
@@ -547,6 +550,32 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Association%20of%20Realtors%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,149 |
+| Total Amount | $387,422 |
+| Unique Employee Donors | ~361 |
+| Recipient Committees | 34 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[National Association of Realtors]]: $263,752 (2858 contributions)
+- [[ActBlue]]: $36,064 (144 contributions)
+- [[WinRed]]: $16,520 (12 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $14,100 (27 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $8,325 (18 contributions)
+- [[Catherine Cortez Masto]]: $6,000 (11 contributions)
+- [[RNC - Republican National Committee]]: $5,000 (1 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $4,500 (9 contributions)
+- [[_Tim Scott Master Profile]]: $3,500 (4 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $3,000 (6 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

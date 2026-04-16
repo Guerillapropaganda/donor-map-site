@@ -69,6 +69,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 70
+employee-contributions-total: 33976
+employee-donor-count: 38
 ---
 
 <!-- auto:data-panel start -->
@@ -367,6 +370,28 @@ The $30M+ annual Koch investment in criminal justice reform is not philanthropy,
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/912166417) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 70 |
+| Total Amount | $33,976 |
+| Unique Employee Donors | ~38 |
+| Recipient Committees | 6 |
+| Election Cycles | 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $19,376 (48 contributions)
+- [[ActBlue]]: $3,675 (8 contributions)
+- [[Americans for Prosperity]]: $3,275 (4 contributions)
+- [[Trump Victory]]: $3,100 (2 contributions)
+- [[RNC - Republican National Committee]]: $2,500 (1 contributions)
+- [[_Jeff Crank Master Profile]]: $2,050 (7 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

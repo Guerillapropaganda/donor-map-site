@@ -43,6 +43,9 @@ cross-vault-triangulation-count: 25
 audit-a-plus-passed: "2026-04-11"
 epa-facilities: 70
 epa-states: "CA, MN, NV, TN"
+employee-contributions: 13159
+employee-contributions-total: 1532687
+employee-donor-count: 2100
 ---
 
 <!-- auto:data-panel start -->
@@ -319,3 +322,30 @@ The class dimension is the regulated monopoly structure itself. UnitedHealth's c
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 13,159 |
+| Total Amount | $1,532,687 |
+| Unique Employee Donors | ~2,100 |
+| Recipient Committees | 79 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,071,737 (8057 contributions)
+- [[WinRed]]: $111,292 (1444 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $80,317 (438 contributions)
+- [[MAGA Inc]]: $21,868 (134 contributions)
+- [[Mark Kelly]]: $21,688 (177 contributions)
+- [[RNC - Republican National Committee]]: $19,792 (291 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $14,821 (333 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $14,751 (368 contributions)
+- [[_Jon Ossoff Master Profile]]: $14,575 (82 contributions)
+- [[_Angie Craig Master Profile]]: $11,450 (13 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

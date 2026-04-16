@@ -33,6 +33,9 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 federal-contracts: 17
 federal-awards-total: 1206348
+employee-contributions: 327
+employee-contributions-total: 87185
+employee-donor-count: 116
 ---
 
 <!-- auto:data-panel start -->
@@ -1122,6 +1125,32 @@ This architecture allows the Koch Network to:
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 327 |
+| Total Amount | $87,185 |
+| Unique Employee Donors | ~116 |
+| Recipient Committees | 22 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $35,447 (78 contributions)
+- [[ActBlue]]: $12,656 (172 contributions)
+- [[_Tom Barrett Master Profile]]: $12,400 (4 contributions)
+- [[RNC - Republican National Committee]]: $9,175 (25 contributions)
+- [[_Jeff Crank Master Profile]]: $6,621 (13 contributions)
+- [[Trump Victory]]: $3,570 (5 contributions)
+- [[Michigan Republican Party]]: $1,500 (1 contributions)
+- [[Americans for Prosperity]]: $1,300 (3 contributions)
+- [[_Eric Burlison Master Profile]]: $1,000 (1 contributions)
+- [[MAGA Inc]]: $500 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

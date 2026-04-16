@@ -29,6 +29,9 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 total-spent: 7740
+employee-contributions: 22
+employee-contributions-total: 1075
+employee-donor-count: 2
 ---
 
 <!-- auto:data-panel start -->
@@ -180,6 +183,24 @@ Israel, legislative advocacy, anti-protest legislation, ethnic studies, donor ne
 
 - [Source: ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/organizations/680028695) (Tier 1) (VERIFIED)
 <!-- auto:nonprofit-990 end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 22 |
+| Total Amount | $1,075 |
+| Unique Employee Donors | ~2 |
+| Recipient Committees | 2 |
+| Election Cycles | 2022, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $1,000 (1 contributions)
+- [[Save America PAC]]: $75 (21 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -54,6 +54,11 @@ total-spent: 1392268
 cash-on-hand: 3936720
 individual-contributions: 1675666
 contributions-to-committees: 1240500
+federal-grants: 2
+federal-grants-total: 706510
+employee-contributions: 204711
+employee-contributions-total: 15292373
+employee-donor-count: 24473
 ---
 
 <!-- auto:data-panel start -->
@@ -682,6 +687,54 @@ RTX represents the defense sector's structural capture of the American state. Th
 
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 2 |
+| Total Obligation | $706,510 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 2 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $706,510
+
+**Top programs:**
+
+- RESEARCH AND TECHNOLOGY DEVELOPMENT
+- PROCUREMENT TECHNICAL ASSISTANCE FOR BUSINESS FIRMS
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 204,711 |
+| Total Amount | $15,292,373 |
+| Unique Employee Donors | ~24,473 |
+| Recipient Committees | 101 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Raytheon (RTX)]]: $12,400,643 (172888 contributions)
+- [[ActBlue]]: $1,389,771 (15523 contributions)
+- [[WinRed]]: $611,791 (5002 contributions)
+- [[MAGA Inc]]: $133,872 (832 contributions)
+- [[RNC - Republican National Committee]]: $128,972 (1600 contributions)
+- [[Mark Kelly]]: $82,193 (1194 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $74,908 (1065 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $72,450 (1710 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $70,859 (745 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $41,731 (772 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -21,4 +21,25 @@ total-raised: 275000
 total-spent: 153048
 cash-on-hand: 210641
 individual-contributions: 275000
+employee-contributions: 2
+employee-contributions-total: 125
+employee-donor-count: 1
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $125 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2020 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $125 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

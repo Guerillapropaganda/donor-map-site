@@ -32,6 +32,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 5648
+employee-contributions-total: 255090
+employee-donor-count: 704
 ---
 
 <!-- auto:data-panel start -->
@@ -286,6 +289,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: UFC
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22UFCW%20-%20United%20Food%20and%20Commercial%20Workers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 5,648 |
+| Total Amount | $255,090 |
+| Unique Employee Donors | ~704 |
+| Recipient Committees | 15 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[United Food and Commercial Workers International Union Active Ballot Club]]: $182,610 (5047 contributions)
+- [[ActBlue]]: $37,385 (427 contributions)
+- [[The Lincoln Project]]: $25,000 (1 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $6,929 (84 contributions)
+- [[Bob Casey]]: $550 (2 contributions)
+- [[_Dwight Evans Master Profile]]: $500 (1 contributions)
+- [[MoveOn.org Political Action]]: $490 (10 contributions)
+- [[Mark Kelly]]: $390 (11 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $377 (20 contributions)
+- [[_Jimmy Gomez Master Profile]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

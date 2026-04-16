@@ -30,6 +30,9 @@ audit-a-plus-passed: "2026-04-11"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 484
+employee-contributions-total: 47228
+employee-donor-count: 93
 ---
 
 <!-- auto:data-panel start -->
@@ -512,6 +515,32 @@ Fain articulated the union's strategic theory explicitly: "The billionaire class
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=UAW%20-%20United%20Auto%20Workers) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 484 |
+| Total Amount | $47,228 |
+| Unique Employee Donors | ~93 |
+| Recipient Committees | 10 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $35,788 (357 contributions)
+- [[Emily's List]]: $6,000 (2 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,545 (21 contributions)
+- [[MoveOn.org Political Action]]: $1,511 (60 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $1,334 (26 contributions)
+- [[_Jon Ossoff Master Profile]]: $400 (4 contributions)
+- [[_Rashida Tlaib Master Profile]]: $250 (1 contributions)
+- [[_Nancy Pelosi Master Profile]]: $150 (6 contributions)
+- [[_Jamie Raskin Master Profile]]: $150 (6 contributions)
+- [[_Debbie Dingell Master Profile]]: $100 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

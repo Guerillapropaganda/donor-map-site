@@ -24,6 +24,9 @@ sec-form-types:
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 9
+employee-contributions-total: 9800
+employee-donor-count: 7
 ---
 
 <!-- auto:data-panel start -->
@@ -554,6 +557,25 @@ The defining pattern is corporate policy preferences overriding constituency int
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ALEC%20-%20American%20Legislative%20Exchange%20Council%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 9 |
+| Total Amount | $9,800 |
+| Unique Employee Donors | ~7 |
+| Recipient Committees | 3 |
+| Election Cycles | 2018, 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $5,650 (6 contributions)
+- [[Trump Victory]]: $3,150 (2 contributions)
+- [[VIEW PAC - Value in Electing Women]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

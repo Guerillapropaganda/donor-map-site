@@ -26,6 +26,9 @@ total-spent: 143088184
 cash-on-hand: 111385133
 individual-contributions: 112947949
 contributions-to-committees: 50000
+employee-contributions: 580
+employee-contributions-total: 419323
+employee-donor-count: 114
 ---
 
 ## Auto-Created Stub
@@ -64,3 +67,30 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
 <!-- auto:ofac-sdn end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 580 |
+| Total Amount | $419,323 |
+| Unique Employee Donors | ~114 |
+| Recipient Committees | 14 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[RNC - Republican National Committee]]: $255,113 (426 contributions)
+- [[WinRed]]: $71,886 (109 contributions)
+- [[Trump Victory]]: $63,150 (23 contributions)
+- [[MAGA Inc]]: $14,438 (9 contributions)
+- [[Michigan Republican Party]]: $10,245 (2 contributions)
+- [[_Ron Johnson Master Profile]]: $1,250 (2 contributions)
+- [[_Beth van Duyne Master Profile]]: $1,000 (1 contributions)
+- [[_John James Master Profile]]: $560 (2 contributions)
+- [[_Ann Wagner Master Profile]]: $500 (1 contributions)
+- [[_Doug Burgum Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

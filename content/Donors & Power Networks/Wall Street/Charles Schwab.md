@@ -68,6 +68,9 @@ epa-states: "AZ, CA, NE"
 total-raised: 6937
 total-spent: 147403
 individual-contributions: 6937
+employee-contributions: 14647
+employee-contributions-total: 35307342
+employee-donor-count: 1299
 ---
 
 <!-- auto:data-panel start -->
@@ -288,6 +291,32 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 14,647 |
+| Total Amount | $35,307,342 |
+| Unique Employee Donors | ~1,299 |
+| Recipient Committees | 85 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[SLF PAC]]: $18,800,000 (12 contributions)
+- [[WinRed]]: $4,191,850 (632 contributions)
+- [[RNC - Republican National Committee]]: $2,560,431 (92 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,308,077 (101 contributions)
+- [[Charles Schwab]]: $1,429,347 (10290 contributions)
+- [[Wfw Action Fund, Inc.]]: $1,360,000 (8 contributions)
+- [[ESAFUND]]: $1,250,000 (2 contributions)
+- [[American Patriots PAC]]: $1,000,000 (6 contributions)
+- [[Future45]]: $1,000,000 (1 contributions)
+- [[ActBlue]]: $365,291 (2442 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

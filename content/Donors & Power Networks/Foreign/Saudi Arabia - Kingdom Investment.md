@@ -23,6 +23,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 1
+employee-contributions-total: 6600
+employee-donor-count: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -127,6 +130,23 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $6,600 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $6,600 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -54,6 +54,9 @@ total-spent: 459826
 cash-on-hand: 1434286
 individual-contributions: 443577
 contributions-to-committees: 458500
+employee-contributions: 63106
+employee-contributions-total: 8546253
+employee-donor-count: 5934
 ---
 
 <!-- auto:data-panel start -->
@@ -320,6 +323,32 @@ Morgan Stanley is the donor class's bank. Its wealth management division serves 
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Morgan%20Stanley) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 63,106 |
+| Total Amount | $8,546,253 |
+| Unique Employee Donors | ~5,934 |
+| Recipient Committees | 153 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Morgan Stanley]]: $3,897,153 (54237 contributions)
+- [[ActBlue]]: $2,132,344 (4520 contributions)
+- [[WinRed]]: $528,742 (916 contributions)
+- [[AIPAC - American Israel Public Affairs Committee]]: $266,800 (191 contributions)
+- [[Americans for Prosperity]]: $200,000 (2 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $124,083 (344 contributions)
+- [[MAGA Inc]]: $117,017 (198 contributions)
+- [[J Street]]: $114,900 (108 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $105,523 (455 contributions)
+- [[RNC - Republican National Committee]]: $96,715 (266 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

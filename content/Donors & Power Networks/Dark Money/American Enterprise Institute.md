@@ -48,6 +48,11 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+federal-grants: 226
+federal-grants-total: 7315343
+employee-contributions: 149
+employee-contributions-total: 46842
+employee-donor-count: 53
 ---
 
 <!-- auto:data-panel start -->
@@ -194,6 +199,69 @@ Market-based solutions to policy challenges (healthcare, education, environment)
 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=American%20Enterprise%20Institute) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 226 |
+| Total Obligation | $7,315,343 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 8 |
+| Programs | 15 |
+
+**Top awarding agencies:**
+
+- Department of Education: $5,637,410
+- National Aeronautics and Space Administration: $1,610,366
+- National Endowment for the Humanities: $197,225
+- Department of the Treasury: $41,679
+- National Science Foundation: $25,000
+- Department of Agriculture: $-12,933
+- Department of Justice: $-15,971
+- Department of Health and Human Services: $-167,433
+
+**Top programs:**
+
+- FEDERAL PELL GRANT PROGRAM
+- TEACHER EDUCATION ASSISTANCE FOR COLLEGE AND HIGHER EDUCATION GRANTS (TEACH GRANTS)
+- TEACHER QUALITY PARTNERSHIP GRANTS
+- FEDERAL WORK-STUDY PROGRAM
+- LOW INCOME TAXPAYER CLINICS
+- SCIENCE
+- OFFICE OF STEM ENGAGEMENT (OSTEM)
+- CROP INSURANCE
+- MENTAL HEALTH RESEARCH GRANTS
+- RESEARCH AND TRAINING IN COMPLEMENTARY AND INTEGRATIVE HEALTH
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 149 |
+| Total Amount | $46,842 |
+| Unique Employee Donors | ~53 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $10,664 (36 contributions)
+- [[ActBlue]]: $9,885 (43 contributions)
+- [[RNC - Republican National Committee]]: $7,239 (8 contributions)
+- [[_Marco Rubio Master Profile]]: $5,610 (10 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,600 (2 contributions)
+- [[_Virginia Foxx Master Profile]]: $2,000 (2 contributions)
+- [[_Darren Soto Master Profile]]: $2,000 (2 contributions)
+- [[_Ron Johnson Master Profile]]: $1,750 (2 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $1,319 (14 contributions)
+- [[Trump Victory]]: $1,000 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

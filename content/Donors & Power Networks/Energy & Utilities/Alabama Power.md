@@ -70,6 +70,9 @@ total-spent: 83021
 cash-on-hand: 268189
 individual-contributions: 90423
 contributions-to-committees: 82500
+employee-contributions: 1818
+employee-contributions-total: 184971
+employee-donor-count: 310
 ---
 
 
@@ -291,6 +294,32 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,818 |
+| Total Amount | $184,971 |
+| Unique Employee Donors | ~310 |
+| Recipient Committees | 15 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Alabama Power]]: $132,186 (1383 contributions)
+- [[WinRed]]: $20,828 (198 contributions)
+- [[ActBlue]]: $14,903 (57 contributions)
+- [[_Mike Rogers Master Profile]]: $6,500 (6 contributions)
+- [[RNC - Republican National Committee]]: $4,720 (90 contributions)
+- [[MAGA Inc]]: $2,008 (18 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $1,145 (39 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $656 (6 contributions)
+- [[_Jimmy Panetta Master Profile]]: $500 (1 contributions)
+- [[HMP]]: $450 (8 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

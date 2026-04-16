@@ -47,6 +47,9 @@ total-raised: 533809
 total-spent: 516513
 cash-on-hand: 52576
 individual-contributions: 533809
+employee-contributions: 3477
+employee-contributions-total: 242533
+employee-donor-count: 321
 ---
 
 <!-- auto:data-panel start -->
@@ -277,6 +280,32 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: AFS
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22AFSCME%20-%20American%20Federation%20of%20State%20County%20and%20Municipal%20Employees%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 3,477 |
+| Total Amount | $242,533 |
+| Unique Employee Donors | ~321 |
+| Recipient Committees | 19 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[American Federation of State County & Municipal Employees  P E O P L E]]: $93,599 (1817 contributions)
+- [[ActBlue]]: $93,073 (1144 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $25,291 (46 contributions)
+- [[Winsenate]]: $8,500 (2 contributions)
+- [[Let America Vote PAC]]: $6,014 (265 contributions)
+- [[_Tammy Baldwin Master Profile]]: $3,809 (43 contributions)
+- [[Bob Casey]]: $2,825 (91 contributions)
+- [[_Bonnie Watson Coleman Master Profile]]: $2,450 (7 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $1,649 (8 contributions)
+- [[Emily's List]]: $1,050 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -23,6 +23,9 @@ total-spent: 1608188
 cash-on-hand: 924
 individual-contributions: 1962767
 contributions-to-committees: 25500
+employee-contributions: 8
+employee-contributions-total: 3000
+employee-donor-count: 5
 ---
 
 ## Auto-Created Stub
@@ -46,3 +49,24 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `AMERICAN CONSERVATIVE UNION`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 8 |
+| Total Amount | $3,000 |
+| Unique Employee Donors | ~5 |
+| Recipient Committees | 4 |
+| Election Cycles | 2020, 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $1,500 (4 contributions)
+- [[MAGA Inc]]: $750 (2 contributions)
+- [[Trump Victory]]: $500 (1 contributions)
+- [[FreedomWorks for America]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

@@ -73,6 +73,9 @@ aliases:
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 399
+employee-contributions-total: 171474
+employee-donor-count: 151
 ---
 
 <!-- auto:data-panel start -->
@@ -517,6 +520,32 @@ The Chamber does not represent "business." It represents the capital class's int
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22US%20Chamber%20of%20Commerce%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 399 |
+| Total Amount | $171,474 |
+| Unique Employee Donors | ~151 |
+| Recipient Committees | 42 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $80,506 (97 contributions)
+- [[ActBlue]]: $42,542 (210 contributions)
+- [[_Marco Rubio Master Profile]]: $8,275 (14 contributions)
+- [[_Ann Wagner Master Profile]]: $4,800 (3 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $3,450 (5 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $3,375 (15 contributions)
+- [[_Vern Buchanan Master Profile]]: $2,900 (1 contributions)
+- [[Trump Victory]]: $2,500 (1 contributions)
+- [[_Lisa Blunt Rochester Master Profile]]: $2,500 (2 contributions)
+- [[_Tim Scott Master Profile]]: $1,800 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

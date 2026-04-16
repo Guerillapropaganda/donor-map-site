@@ -64,6 +64,9 @@ total-spent: 222083
 cash-on-hand: 170161
 individual-contributions: 103343
 contributions-to-committees: 220500
+employee-contributions: 70
+employee-contributions-total: 37625
+employee-donor-count: 27
 ---
 
 <!-- auto:data-panel start -->
@@ -348,6 +351,31 @@ NAM is the permanent institutional voice of manufacturing capital, the organizat
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Association%20of%20Manufacturers%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 70 |
+| Total Amount | $37,625 |
+| Unique Employee Donors | ~27 |
+| Recipient Committees | 9 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $12,286 (16 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $11,500 (2 contributions)
+- [[ActBlue]]: $11,339 (44 contributions)
+- [[_Marco Rubio Master Profile]]: $500 (1 contributions)
+- [[MAGA Inc]]: $500 (2 contributions)
+- [[_Adrian Smith Master Profile]]: $500 (2 contributions)
+- [[_Jason Smith Master Profile]]: $500 (1 contributions)
+- [[VIEW PAC - Value in Electing Women]]: $250 (1 contributions)
+- [[Bob Casey]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

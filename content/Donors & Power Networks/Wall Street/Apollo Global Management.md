@@ -62,6 +62,9 @@ regulatory-agencies:
   - Securities and Exchange Commission
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 1233
+employee-contributions-total: 7372958
+employee-donor-count: 710
 ---
 
 <!-- auto:data-panel start -->
@@ -239,6 +242,32 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Apollo%20Global%20Management%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,233 |
+| Total Amount | $7,372,958 |
+| Unique Employee Donors | ~710 |
+| Recipient Committees | 54 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[SLF PAC]]: $1,750,000 (3 contributions)
+- [[ActBlue]]: $1,519,492 (642 contributions)
+- [[Congressional Leadership Fund]]: $1,450,000 (7 contributions)
+- [[WinRed]]: $698,241 (266 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $299,600 (6 contributions)
+- [[Texans for a Conservative Majority]]: $250,000 (3 contributions)
+- [[Opportunity Matters Fund]]: $250,000 (2 contributions)
+- [[United Democracy Project - UDP]]: $250,000 (1 contributions)
+- [[Trump Victory]]: $85,000 (2 contributions)
+- [[_Virginia Foxx Master Profile]]: $80,800 (31 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -36,6 +36,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 80
+employee-contributions-total: 12202
+employee-donor-count: 29
 ---
 
 <!-- auto:data-panel start -->
@@ -129,6 +132,28 @@ United Auto Workers. A redirect node. See [[UAW - United Auto Workers]] for the 
 <!-- auto:sec-edgar end -->
 
 ### Federal Subawards & Spending Breakdown
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 80 |
+| Total Amount | $12,202 |
+| Unique Employee Donors | ~29 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $10,507 (56 contributions)
+- [[MoveOn.org Political Action]]: $705 (18 contributions)
+- [[_Lauren Underwood Master Profile]]: $500 (1 contributions)
+- [[Working Families Party PAC]]: $290 (3 contributions)
+- [[_Jon Ossoff Master Profile]]: $100 (1 contributions)
+- [[Catherine Cortez Masto]]: $100 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

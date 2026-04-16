@@ -39,6 +39,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 200
+employee-contributions-total: 48379
+employee-donor-count: 64
 ---
 
 <!-- auto:data-panel start -->
@@ -224,6 +227,31 @@ The pop-up organization model reveals the deeper function. Arabella creates temp
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Arabella%20Advisors%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 200 |
+| Total Amount | $48,379 |
+| Unique Employee Donors | ~64 |
+| Recipient Committees | 9 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $45,677 (167 contributions)
+- [[DNC - Democratic National Committee]]: $1,000 (1 contributions)
+- [[Justice Democrats PAC]]: $462 (11 contributions)
+- [[_Lauren Underwood Master Profile]]: $300 (3 contributions)
+- [[The Lincoln Project]]: $250 (2 contributions)
+- [[_Adam Gray Master Profile]]: $250 (1 contributions)
+- [[_Gabe Amo Master Profile]]: $250 (1 contributions)
+- [[Emily's List]]: $165 (13 contributions)
+- [[_Jon Ossoff Master Profile]]: $25 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

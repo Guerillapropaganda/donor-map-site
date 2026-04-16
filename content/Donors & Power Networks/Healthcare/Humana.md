@@ -59,6 +59,9 @@ total-spent: 668847
 cash-on-hand: 798951
 individual-contributions: 857746
 contributions-to-committees: 544000
+employee-contributions: 110772
+employee-contributions-total: 5672597
+employee-donor-count: 7133
 ---
 
 <!-- auto:data-panel start -->
@@ -282,6 +285,32 @@ Medicare Advantage expansion and favorable reimbursement: Humana's entire busine
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 110,772 |
+| Total Amount | $5,672,597 |
+| Unique Employee Donors | ~7,133 |
+| Recipient Committees | 51 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Humana]]: $4,999,945 (103874 contributions)
+- [[ActBlue]]: $331,224 (4007 contributions)
+- [[WinRed]]: $172,785 (657 contributions)
+- [[RNC - Republican National Committee]]: $38,872 (256 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $15,470 (370 contributions)
+- [[_Morgan McGarvey Master Profile]]: $13,740 (32 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $12,939 (178 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $9,602 (269 contributions)
+- [[MAGA Inc]]: $9,187 (72 contributions)
+- [[Progressive Turnout Project]]: $7,483 (230 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

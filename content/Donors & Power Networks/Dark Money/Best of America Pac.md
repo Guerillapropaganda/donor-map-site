@@ -18,4 +18,25 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 5743
 related: "[[Doug Burgum]]"
+employee-contributions: 2
+employee-contributions-total: 500000
+employee-donor-count: 1
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2 |
+| Total Amount | $500,000 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Best of America PAC]]: $500,000 (2 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

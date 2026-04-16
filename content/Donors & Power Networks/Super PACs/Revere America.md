@@ -18,6 +18,9 @@ checklist-na:
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
 related: "[[Rick Crawford]]"
+employee-contributions: 598
+employee-contributions-total: 114702
+employee-donor-count: 42
 ---
 
 ## Auto-Created Stub
@@ -41,3 +44,30 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `REVERE AMERICA`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 598 |
+| Total Amount | $114,702 |
+| Unique Employee Donors | ~42 |
+| Recipient Committees | 14 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $87,679 (399 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $5,475 (23 contributions)
+- [[WinRed]]: $5,110 (26 contributions)
+- [[Winsenate]]: $5,000 (39 contributions)
+- [[Indivisible Action]]: $3,400 (39 contributions)
+- [[_Lauren Underwood Master Profile]]: $2,050 (6 contributions)
+- [[_Jon Ossoff Master Profile]]: $1,966 (5 contributions)
+- [[RNC - Republican National Committee]]: $1,000 (10 contributions)
+- [[314 Action Fund]]: $925 (20 contributions)
+- [[_Cory Booker Master Profile]]: $650 (3 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

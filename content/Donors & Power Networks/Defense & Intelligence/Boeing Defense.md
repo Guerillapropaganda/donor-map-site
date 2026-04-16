@@ -18,6 +18,9 @@ needs-reenrichment: true
 reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+employee-contributions: 12
+employee-contributions-total: 1016
+employee-donor-count: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -196,6 +199,23 @@ The Both-Sides Illusion pattern is central to Boeing's operation: the company fu
 - Craig M Garriott v. The Boeing Company (2024) — District Court, C.D. California
 
 <!-- auto:courtlistener-cases end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 12 |
+| Total Amount | $1,016 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2024 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $1,016 (12 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

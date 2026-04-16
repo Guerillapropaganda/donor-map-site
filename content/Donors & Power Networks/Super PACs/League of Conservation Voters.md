@@ -92,6 +92,9 @@ cash-on-hand: 19172181
 independent-expenditures: 60027
 individual-contributions: 19342453
 contributions-to-committees: 228522
+employee-contributions: 314
+employee-contributions-total: 142359
+employee-donor-count: 69
 ---
 
 <!-- auto:data-panel start -->
@@ -327,6 +330,32 @@ LCV occupies an unusual position in the donor-class framework: it's a mass-membe
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 314 |
+| Total Amount | $142,359 |
+| Unique Employee Donors | ~69 |
+| Recipient Committees | 12 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[League of Conservation Voters]]: $112,275 (79 contributions)
+- [[ActBlue]]: $18,898 (140 contributions)
+- [[Emily's List]]: $4,296 (60 contributions)
+- [[Catherine Cortez Masto]]: $2,270 (8 contributions)
+- [[_Tammy Baldwin Master Profile]]: $1,500 (4 contributions)
+- [[Bob Casey]]: $1,000 (3 contributions)
+- [[_Nancy Pelosi Master Profile]]: $730 (7 contributions)
+- [[Mark Kelly]]: $500 (1 contributions)
+- [[_Gabe Amo Master Profile]]: $500 (1 contributions)
+- [[MAGA Inc]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

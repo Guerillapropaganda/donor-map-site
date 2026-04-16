@@ -71,6 +71,9 @@ total-spent: 1063866
 cash-on-hand: 402224
 individual-contributions: 1014783
 contributions-to-committees: 585000
+employee-contributions: 2764
+employee-contributions-total: 918484
+employee-donor-count: 712
 ---
 
 <!-- auto:data-panel start -->
@@ -368,6 +371,32 @@ North Carolina's political system runs through Duke Energy's influence network. 
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,764 |
+| Total Amount | $918,484 |
+| Unique Employee Donors | ~712 |
+| Recipient Committees | 38 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Duke Energy]]: $373,116 (160 contributions)
+- [[WinRed]]: $172,892 (634 contributions)
+- [[ActBlue]]: $123,094 (959 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $73,135 (35 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $60,405 (274 contributions)
+- [[MAGA Inc]]: $30,872 (86 contributions)
+- [[RNC - Republican National Committee]]: $20,273 (236 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $15,430 (59 contributions)
+- [[_Mark Harris Master Profile]]: $9,225 (22 contributions)
+- [[_Ralph Norman Master Profile]]: $6,750 (11 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

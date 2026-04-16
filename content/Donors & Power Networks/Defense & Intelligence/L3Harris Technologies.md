@@ -73,6 +73,11 @@ total-spent: 1629643
 cash-on-hand: 1315512
 individual-contributions: 1336620
 contributions-to-committees: 1569600
+federal-grants: 1
+federal-grants-total: 138731
+employee-contributions: 2196
+employee-contributions-total: 284074
+employee-donor-count: 699
 ---
 
 <!-- auto:data-panel start -->
@@ -518,6 +523,53 @@ L3Harris represents the defense sector's "invisible infrastructure" model of pol
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 1 |
+| Total Obligation | $138,731 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 1 |
+| Programs | 1 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $138,731
+
+**Top programs:**
+
+- PROCUREMENT TECHNICAL ASSISTANCE FOR BUSINESS FIRMS
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 2,196 |
+| Total Amount | $284,074 |
+| Unique Employee Donors | ~699 |
+| Recipient Committees | 32 |
+| Election Cycles | 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $113,719 (358 contributions)
+- [[L3Harris Technologies]]: $55,567 (30 contributions)
+- [[WinRed]]: $34,992 (442 contributions)
+- [[L3 Technologies]]: $33,797 (835 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $9,600 (14 contributions)
+- [[_Rashida Tlaib Master Profile]]: $6,600 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $6,133 (7 contributions)
+- [[RNC - Republican National Committee]]: $3,791 (81 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $3,227 (262 contributions)
+- [[_Gabe Vasquez Master Profile]]: $2,900 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -41,6 +41,11 @@ total-spent: 3018408
 cash-on-hand: 1882383
 individual-contributions: 2403402
 contributions-to-committees: 1904500
+federal-grants: 4
+federal-grants-total: 978615
+employee-contributions: 220258
+employee-contributions-total: 22821076
+employee-donor-count: 24730
 ---
 
 <!-- auto:data-panel start -->
@@ -649,6 +654,56 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Federal Grants & Assistance (USASpending)
+<!-- auto:usaspending-grants start -->
+| Metric | Value |
+|--------|-------|
+| Federal Grants/Assistance | 4 |
+| Total Obligation | $978,615 |
+| Fiscal Years | 2026 |
+| Awarding Agencies | 2 |
+| Programs | 3 |
+
+**Top awarding agencies:**
+
+- National Aeronautics and Space Administration: $685,890
+- Department of Defense: $292,725
+
+**Top programs:**
+
+- SCIENCE
+- BASIC, APPLIED, AND ADVANCED RESEARCH IN SCIENCE AND ENGINEERING
+- RESEARCH ON CHEMICAL AND BIOLOGICAL DEFENSE
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending-grants end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 220,258 |
+| Total Amount | $22,821,076 |
+| Unique Employee Donors | ~24,730 |
+| Recipient Committees | 129 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Lockheed Martin]]: $19,184,061 (190066 contributions)
+- [[ActBlue]]: $1,807,363 (15292 contributions)
+- [[WinRed]]: $696,167 (4048 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $153,140 (1917 contributions)
+- [[MAGA Inc]]: $149,772 (483 contributions)
+- [[RNC - Republican National Committee]]: $126,199 (1436 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $96,767 (1480 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $89,182 (666 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $56,631 (849 contributions)
+- [[_Mike Rogers Master Profile]]: $50,750 (47 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

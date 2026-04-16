@@ -46,6 +46,9 @@ cross-vault-triangulation-count: 11
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Michael Whatley]]"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 134
+employee-contributions-total: 127914
+employee-donor-count: 55
 ---
 
 <!-- auto:data-panel start -->
@@ -257,6 +260,32 @@ The carbon capture pivot (Verde CO2, 2022–2025) illustrates a newer pattern: a
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=HBW%20Resources) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 134 |
+| Total Amount | $127,914 |
+| Unique Employee Donors | ~55 |
+| Recipient Committees | 21 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[WinRed]]: $70,061 (83 contributions)
+- [[MAGA Inc]]: $10,000 (10 contributions)
+- [[ActBlue]]: $7,250 (8 contributions)
+- [[Trump Victory]]: $5,600 (1 contributions)
+- [[_Marco Rubio Master Profile]]: $5,400 (2 contributions)
+- [[_Ted Cruz Master Profile]]: $5,000 (5 contributions)
+- [[Catherine Cortez Masto]]: $3,500 (3 contributions)
+- [[_Ron Johnson Master Profile]]: $2,700 (1 contributions)
+- [[_Josh Hawley Master Profile]]: $2,700 (1 contributions)
+- [[_Mark Harris Master Profile]]: $2,700 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

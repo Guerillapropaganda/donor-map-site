@@ -54,6 +54,9 @@ cash-on-hand: 83436
 individual-contributions: 147414
 contributions-to-committees: 95450
 internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746 | [CODE @ 2026-04-16] Pipeline: usaspending completed for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24492256375"
+employee-contributions: 23348
+employee-contributions-total: 1675589
+employee-donor-count: 1548
 ---
 
 <!-- auto:data-panel start -->
@@ -263,6 +266,32 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 23,348 |
+| Total Amount | $1,675,589 |
+| Unique Employee Donors | ~1,548 |
+| Recipient Committees | 26 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ADM - Archer Daniels Midland]]: $1,444,878 (22510 contributions)
+- [[ActBlue]]: $90,187 (366 contributions)
+- [[WinRed]]: $78,200 (179 contributions)
+- [[RNC - Republican National Committee]]: $13,430 (112 contributions)
+- [[_Brian Jack Master Profile]]: $10,500 (2 contributions)
+- [[_Kevin Kiley Master Profile]]: $8,400 (7 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $7,798 (13 contributions)
+- [[_Marco Rubio Master Profile]]: $3,250 (6 contributions)
+- [[_Ron Johnson Master Profile]]: $2,900 (1 contributions)
+- [[Winsenate]]: $2,800 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

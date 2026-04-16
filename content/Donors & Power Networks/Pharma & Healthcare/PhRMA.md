@@ -50,6 +50,9 @@ lobbying-spend: 2748000
 lobbying-filings: 51
 aliases:
   - PhRMA - Pharmaceutical Research and Manufacturers of America
+employee-contributions: 656
+employee-contributions-total: 427648
+employee-donor-count: 228
 ---
 
 <!-- auto:data-panel start -->
@@ -379,6 +382,32 @@ The Inflation Reduction Act represents the first breach in this structure. PhRMA
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 <!-- auto:influence-cross-ref end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 656 |
+| Total Amount | $427,648 |
+| Unique Employee Donors | ~228 |
+| Recipient Committees | 38 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $176,614 (413 contributions)
+- [[WinRed]]: $104,695 (78 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $62,500 (30 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $18,050 (31 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $13,500 (20 contributions)
+- [[_Tim Scott Master Profile]]: $7,500 (7 contributions)
+- [[Catherine Cortez Masto]]: $5,400 (4 contributions)
+- [[Bob Casey]]: $5,000 (4 contributions)
+- [[Emily's List]]: $4,500 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $4,133 (5 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

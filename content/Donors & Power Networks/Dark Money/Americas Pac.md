@@ -20,4 +20,34 @@ total-raised: 2577600
 total-spent: 2751870
 cash-on-hand: 30244
 individual-contributions: 27600
+employee-contributions: 615
+employee-contributions-total: 444928
+employee-donor-count: 167
 ---
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 615 |
+| Total Amount | $444,928 |
+| Unique Employee Donors | ~167 |
+| Recipient Committees | 18 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $317,225 (319 contributions)
+- [[WinRed]]: $82,902 (99 contributions)
+- [[Save America PAC]]: $8,310 (3 contributions)
+- [[RNC - Republican National Committee]]: $7,845 (10 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $7,432 (34 contributions)
+- [[Common Sense for America PAC]]: $5,000 (1 contributions)
+- [[Americans for Prosperity]]: $3,000 (1 contributions)
+- [[MAGA Inc]]: $2,720 (19 contributions)
+- [[_Ted Cruz Master Profile]]: $2,110 (15 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $2,100 (89 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

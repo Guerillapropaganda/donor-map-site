@@ -69,6 +69,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+employee-contributions: 435
+employee-contributions-total: 176026
+employee-donor-count: 154
 ---
 
 <!-- auto:data-panel start -->
@@ -231,6 +234,32 @@ The "dark money" designation: like conservative counterparts (DonorsTrust, Marbl
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 435 |
+| Total Amount | $176,026 |
+| Unique Employee Donors | ~154 |
+| Recipient Committees | 16 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $165,451 (407 contributions)
+- [[_Lisa Blunt Rochester Master Profile]]: $4,350 (5 contributions)
+- [[314 Action Fund]]: $1,000 (1 contributions)
+- [[The Lincoln Project]]: $800 (2 contributions)
+- [[_Jon Ossoff Master Profile]]: $750 (6 contributions)
+- [[Mark Kelly]]: $500 (2 contributions)
+- [[Congressional Progressive Caucus PAC]]: $500 (2 contributions)
+- [[_Young Kim Master Profile]]: $500 (2 contributions)
+- [[League of Conservation Voters]]: $500 (1 contributions)
+- [[_Gabe Vasquez Master Profile]]: $500 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

@@ -23,6 +23,9 @@ cash-on-hand: 1202188
 independent-expenditures: 1346
 individual-contributions: 1247717
 contributions-to-committees: 47500
+employee-contributions: 1
+employee-contributions-total: 25
+employee-donor-count: 1
 ---
 
 ## Auto-Created Stub
@@ -40,3 +43,21 @@ pending from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `JUSTICE DEMOCRATS PAC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1 |
+| Total Amount | $25 |
+| Unique Employee Donors | ~1 |
+| Recipient Committees | 1 |
+| Election Cycles | 2022 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Justice Democrats PAC]]: $25 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

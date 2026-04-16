@@ -33,6 +33,9 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+employee-contributions: 1128
+employee-contributions-total: 29811216
+employee-donor-count: 232
 ---
 
 <!-- auto:data-panel start -->
@@ -202,3 +205,30 @@ Warren's $1M Abbott donation after the 2021 Texas freeze is the most cynical tra
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Kelcy%20Warren%20-%20Energy%20Transfer%20Partners%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 1,128 |
+| Total Amount | $29,811,216 |
+| Unique Employee Donors | ~232 |
+| Recipient Committees | 34 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[MAGA Inc]]: $17,504,152 (35 contributions)
+- [[America First Action]]: $10,000,000 (1 contributions)
+- [[Trump Victory]]: $819,853 (5 contributions)
+- [[Texans for a Conservative Majority]]: $550,000 (4 contributions)
+- [[WinRed]]: $259,546 (388 contributions)
+- [[NRCC - National Republican Congressional Committee]]: $185,178 (33 contributions)
+- [[Congressional Leadership Fund]]: $150,000 (2 contributions)
+- [[NRSC - National Republican Senatorial Committee]]: $111,953 (101 contributions)
+- [[Truth and Courage PAC]]: $100,000 (1 contributions)
+- [[RNC - Republican National Committee]]: $57,028 (143 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

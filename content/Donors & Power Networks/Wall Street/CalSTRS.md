@@ -34,6 +34,9 @@ sec-form-types:
   - N-Q/A
 epa-facilities: 5
 epa-states: "CA"
+employee-contributions: 135
+employee-contributions-total: 12833
+employee-donor-count: 25
 ---
 
 <!-- auto:data-panel start -->
@@ -198,3 +201,26 @@ The governance structure completes the capture. Gubernatorial appointees, electe
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 135 |
+| Total Amount | $12,833 |
+| Unique Employee Donors | ~25 |
+| Recipient Committees | 6 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $10,366 (115 contributions)
+- [[WinRed]]: $1,000 (3 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $950 (13 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $400 (1 contributions)
+- [[Stars and Stripes Forever PAC]]: $100 (2 contributions)
+- [[MAGA Inc]]: $17 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->

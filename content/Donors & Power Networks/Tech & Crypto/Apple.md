@@ -103,6 +103,9 @@ politicians-funded: "[[Barack Obama]], [[Amy Klobuchar]]"
 epa-facilities: 79
 epa-states: "CA, FL, LA, MA, NC, NV, OH, OR, TN, TX"
 federal-contracts: 15
+employee-contributions: 61764
+employee-contributions-total: 13175028
+employee-donor-count: 9032
 ---
 
 <!-- auto:data-panel start -->
@@ -435,6 +438,32 @@ Apple occupies a unique position: a corporation that extracts value through cons
 
 - [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
 <!-- auto:epa-echo end -->
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 61,764 |
+| Total Amount | $13,175,028 |
+| Unique Employee Donors | ~9,032 |
+| Recipient Committees | 142 |
+| Election Cycles | 2016, 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[ActBlue]]: $9,773,657 (46290 contributions)
+- [[DSCC - Democratic Senatorial Campaign Committee]]: $386,347 (1509 contributions)
+- [[DCCC - Democratic Congressional Campaign Committee]]: $379,885 (2586 contributions)
+- [[WinRed]]: $338,610 (1231 contributions)
+- [[_Jon Ossoff Master Profile]]: $318,814 (1420 contributions)
+- [[Winsenate]]: $182,019 (189 contributions)
+- [[Trump Victory]]: $155,300 (3 contributions)
+- [[Mark Kelly]]: $150,216 (874 contributions)
+- [[_Josh Riley Master Profile]]: $113,730 (59 contributions)
+- [[Emily's List]]: $97,192 (625 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
 
 ## Archived
 

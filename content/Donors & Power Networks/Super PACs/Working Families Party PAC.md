@@ -26,6 +26,9 @@ cash-on-hand: 5746492
 independent-expenditures: 1722537
 individual-contributions: 1259384
 contributions-to-committees: 39324
+employee-contributions: 168
+employee-contributions-total: 45354
+employee-donor-count: 51
 ---
 
 ## Auto-Created Stub
@@ -49,3 +52,25 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `WORKING FAMILIES PARTY PAC`
+
+
+### Employee Political Contributions (FEC)
+<!-- auto:fec-individual start -->
+| Metric | Value |
+|--------|-------|
+| Employee Contributions | 168 |
+| Total Amount | $45,354 |
+| Unique Employee Donors | ~51 |
+| Recipient Committees | 5 |
+| Election Cycles | 2018, 2020, 2022, 2024, 2026 |
+
+**Top recipient committees (by employee contributions):**
+
+- [[Working Families Party PAC]]: $28,492 (41 contributions)
+- [[ActBlue]]: $15,812 (123 contributions)
+- [[_Rashida Tlaib Master Profile]]: $500 (2 contributions)
+- [[Wfp Ie Committee]]: $300 (1 contributions)
+- [[_Summer Lee Master Profile]]: $250 (1 contributions)
+
+- [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
+<!-- auto:fec-individual end -->
