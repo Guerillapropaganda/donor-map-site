@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-15-session-save-late-evening-bulk-ingest'
+last-updated: '2026-04-15-session-save-night-bulk-ingest-marathon'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1714,6 +1714,61 @@ phase_1_tasks:
       completed_date: 2026-04-15
       added_adhoc: true
       notes: "8 commits this session. Deploying to v4."
+
+    - id: cc_160
+      task: "FEC registry expansion: candidate master + committee master + re-run bulk"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commits: ["fe887b5aa"]
+      notes: "ingest-fec-candidate-master.cjs: 231 new FEC IDs (187→418). ingest-fec-committee-master.cjs: 559 new mappings (293→852). Re-ran FEC bulk: 164K matched rows (was 15K), 25,144 monetary edges. Fixed 421 Raytheon slug collisions."
+
+    - id: cc_161
+      task: "ICIJ offshore leaks + OFAC SDN screening"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "c46d0cc62"
+      notes: "screen-icij-offshore.cjs: 12 officer + 142 entity matches against Panama/Paradise/Pandora Papers. Report at content/Admin Notes/icij-offshore-screening-report.md. screen-ofac-sdn.cjs: Zero matches, vault clean. Both reports for David's review."
+
+    - id: cc_162
+      task: "Edge quality cleanup + tiered visibility filtering"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "e8e0f7533"
+      notes: "Removed 854 redundant null-amount edges, downgraded 1,181 to related, deduped 737. Monetary edges 100% with real amounts. EDGE_TIER_PRESETS in query-engine.cjs: public (26K, conf≥0.85), paid (27K, conf≥0.7), internal (56K). Cycle filter added."
+
+    - id: cc_163
+      task: "FEC PAC summary ingest: 481 profiles with financial data"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "1addc2179"
+      notes: "ingest-fec-pac-summary.cjs: 604 PAC summaries from 6 cycles. Wrote total-raised, total-spent, cash-on-hand, independent-expenditures to 481 profiles. Top: ActBlue $1.4B, WinRed $470M."
+
+    - id: cc_164
+      task: "Wire monetary amounts + contracts into ProfileWidget + per-profile cache"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "be80eb724"
+      notes: "ProfileWidget Donors tab shows dollar amounts sorted by total. New Contracts tab for corporations. build-relationships-per-profile.cjs enhanced with monetary-detail + contract-detail arrays. AIPAC shows 253 politicians, Lockheed shows $74B DoD."
+
+    - id: cc_165
+      task: "Ops ConnectionsExplorer with tiered filtering + explainers"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commit: "6611e53ec"
+      notes: "New ops/src/components/ConnectionsExplorer.tsx with Money Trail/Contracts/Opposition/Network filter chips. Sort by amount/name/cycle, min threshold $1K-$1M. Explainer per category. New /api/profile/edges route. Wired into profile page connections tab."
+
+    - id: cc_166
+      task: "Session save — 2026-04-15 night bulk ingest marathon"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "15+ commits. Edge store 32K→56K. Deployed to v4."
 
   research_claude:
     - id: rc_01
