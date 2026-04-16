@@ -1,0 +1,44 @@
+name: Correction Request
+description: Report a factual error in a profile or page
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We take factual accuracy seriously. Every claim in our database traces to a cited source. If you've found an error, please tell us.
+
+  - type: input
+    id: page
+    attributes:
+      label: Which page or profile contains the error?
+      placeholder: "e.g., Politicians/Democrat/Senate/Chuck Schumer"
+    validations:
+      required: true
+
+  - type: textarea
+    id: error
+    attributes:
+      label: What is the error?
+      description: Be as specific as possible. Quote the text if you can.
+      placeholder: "The profile states X, but the correct information is Y."
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Correct information and source
+      description: If you have the correct information and a source to back it up, include it here.
+      placeholder: "According to [source], the correct figure is..."
+    validations:
+      required: false
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact (optional)
+      description: Email or other way to reach you if we need clarification.
+      placeholder: "email@example.com"
+    validations:
+      required: false

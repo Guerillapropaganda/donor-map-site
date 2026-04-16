@@ -1,0 +1,25 @@
+# Content License
+
+All editorial content in this repository -- profiles, class analysis, narrative
+writing, policy explainers, and story seeds located in `content/` -- is licensed
+under the Creative Commons Attribution-ShareAlike 4.0 International License
+(CC-BY-SA 4.0).
+
+**Summary (not a substitute for the full license):**
+- You may share, copy, and redistribute this content in any medium or format
+- You may adapt, remix, transform, and build upon this content for any purpose,
+  including commercial use
+- You must give appropriate credit to The Donor Map, provide a link to the
+  license, and indicate if changes were made
+- If you remix or build upon this content, you must distribute your contributions
+  under the same license (CC-BY-SA 4.0)
+
+**Full license text:** https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+**Note on facts:** Raw factual data in `data/*.jsonl` files (donation records,
+relationship edges, source records, etc.) is not subject to copyright under
+US law (Feist v. Rural Telephone, 1991) and is provided as-is for any use.
+
+**Note on code:** Code in this repository (`quartz/`, `scripts/`, `ops/`, and all
+other non-content directories) is licensed separately under the MIT License.
+See LICENSE.

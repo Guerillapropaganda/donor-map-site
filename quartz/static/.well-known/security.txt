@@ -1,0 +1,5 @@
+Contact: mailto:guerillapropaganda@proton.me
+Expires: 2027-04-15T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://thedonormap.org/.well-known/security.txt
+Policy: https://thedonormap.org/legal

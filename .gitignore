@@ -21,6 +21,9 @@ ops/.next/
 ops/.env.local
 ops/data/
 
+# Security scan reports (never commit scan output)
+.security/
+
 # Attention dispatcher rotating log
 content/Admin Notes/.attention-dispatcher.log
 content/Admin Notes/.attention-dispatcher.log.1

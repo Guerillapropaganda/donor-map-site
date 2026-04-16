@@ -1,0 +1,27 @@
+# Code Owners — require review for security-sensitive paths
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Workflows and CI config
+.github/ @Guerillapropaganda
+
+# Security scripts
+scripts/security/ @Guerillapropaganda
+
+# Pre-commit hooks and sentinels
+.husky/ @Guerillapropaganda
+scripts/*sentinel*.cjs @Guerillapropaganda
+
+# Authentication and payment
+ops/src/app/api/stripe/ @Guerillapropaganda
+ops/src/lib/rate-limit* @Guerillapropaganda
+
+# Canonical data stores
+data/*.jsonl @Guerillapropaganda
+
+# Deploy config
+deploy.yml @Guerillapropaganda
+CNAME @Guerillapropaganda
+
+# Licensing
+LICENSE @Guerillapropaganda
+CONTENT-LICENSE @Guerillapropaganda

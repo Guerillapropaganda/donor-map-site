@@ -34,7 +34,7 @@ const engine = createQueryEngine()
 // ─── Shape contract: every query() returns { subject, total, returned, rows } ───
 
 test("query() on edges returns {subject, total, returned, rows}", () => {
-  const result = engine.query({ subject: "edges", filters: { limit: 5 } })
+  const result = engine.query({ subject: "edges", filters: { type: "monetary", limit: 5 } })
   assert.equal(result.subject, "edges")
   assert.equal(typeof result.total, "number")
   assert.equal(typeof result.returned, "number")
@@ -44,14 +44,14 @@ test("query() on edges returns {subject, total, returned, rows}", () => {
 })
 
 test("query() on entities returns shape contract", () => {
-  const result = engine.query({ subject: "entities", filters: { limit: 5 } })
+  const result = engine.query({ subject: "entities", filters: { entity_type: "donor", limit: 5 } })
   assert.equal(result.subject, "entities")
   assert.ok(Array.isArray(result.rows))
   assert.ok(result.rows.length <= 5)
 })
 
 test("query() on events returns shape contract", () => {
-  const result = engine.query({ subject: "events", filters: { limit: 5 } })
+  const result = engine.query({ subject: "events", filters: { event_type: "floor_vote", limit: 5 } })
   assert.equal(result.subject, "events")
   assert.ok(Array.isArray(result.rows))
 })
@@ -62,17 +62,18 @@ test("query() on unknown subject throws", () => {
 
 // ─── Count contract ───
 
-test("count() on edges returns non-negative integer", () => {
-  const c = engine.count({ subject: "edges" })
+test("count() on edges with filter returns non-negative integer", () => {
+  const c = engine.count({ subject: "edges", filters: { type: "monetary" } })
   assert.equal(typeof c, "number")
   assert.ok(Number.isInteger(c))
   assert.ok(c >= 0)
 })
 
 test("count() on entities matches actual entity count", () => {
-  const c = engine.count({ subject: "entities" })
-  const qAll = engine.query({ subject: "entities", filters: { limit: 100000 } })
-  assert.equal(c, qAll.total, "count() must equal query().total with unbounded limit")
+  const c = engine.count({ subject: "entities", filters: { entity_type: "donor" } })
+  const qAll = engine.query({ subject: "entities", filters: { entity_type: "donor", limit: 500 } })
+  // count returns full filtered count; query returns paginated slice
+  assert.ok(c >= qAll.returned, "count() must be >= returned rows in clamped page")
 })
 
 test("count() on unknown subject returns 0 (not throw)", () => {
@@ -94,8 +95,8 @@ test("describe() returns non-empty string", () => {
 // ─── Pagination contract ───
 
 test("query() pagination: offset + limit are respected", () => {
-  const page1 = engine.query({ subject: "edges", filters: { limit: 10, offset: 0 } })
-  const page2 = engine.query({ subject: "edges", filters: { limit: 10, offset: 10 } })
+  const page1 = engine.query({ subject: "edges", filters: { type: "monetary", limit: 10, offset: 0 } })
+  const page2 = engine.query({ subject: "edges", filters: { type: "monetary", limit: 10, offset: 10 } })
   if (page1.total > 10) {
     assert.ok(page2.rows.length > 0, "second page should have rows if total > limit")
     // Pages should not overlap
@@ -108,7 +109,7 @@ test("query() pagination: offset + limit are respected", () => {
 })
 
 test("query() edges with limit=0 returns no rows", () => {
-  const result = engine.query({ subject: "edges", filters: { limit: 0 } })
+  const result = engine.query({ subject: "edges", filters: { type: "monetary", limit: 0 } })
   assert.equal(result.rows.length, 0)
 })
 
@@ -201,29 +202,32 @@ test("engine exports clear() for test teardown", () => {
 
 // ─── Edge cases: Phase 6 requirement — 10 query edge cases ───────────────
 
-test("query() with no filters returns rows (empty filters object)", () => {
-  const result = engine.query({ subject: "edges", filters: {} })
-  assert.equal(result.subject, "edges")
-  assert.ok(Array.isArray(result.rows))
-  assert.ok(result.total > 0, "vault should have edges")
+test("query() with no filters on edges throws unbounded-query error", () => {
+  // Security hardening: unbounded queries on edges/entities/events are rejected
+  assert.throws(
+    () => engine.query({ subject: "edges", filters: {} }),
+    /Unbounded query on "edges"/,
+  )
 })
 
-test("query() with null filters falls back gracefully", () => {
-  // null filters should behave as no-filter (not throw)
-  const result = engine.query({ subject: "edges", filters: null })
-  assert.ok(Array.isArray(result.rows))
+test("query() with null filters on edges throws unbounded-query error", () => {
+  // Security hardening: null filters treated as no-filter, rejected for table-scan subjects
+  assert.throws(
+    () => engine.query({ subject: "edges", filters: null }),
+    /Unbounded query on "edges"/,
+  )
 })
 
 test("query() with limit=1 returns exactly one row when data exists", () => {
-  const result = engine.query({ subject: "edges", filters: { limit: 1 } })
+  const result = engine.query({ subject: "edges", filters: { type: "monetary", limit: 1 } })
   assert.equal(result.rows.length, 1)
   assert.equal(result.returned, 1)
 })
 
-test("query() with very large limit does not crash or exceed total", () => {
-  const result = engine.query({ subject: "entities", filters: { limit: 9999999 } })
+test("query() with very large limit is clamped to MAX_PAGE_SIZE (500)", () => {
+  const result = engine.query({ subject: "entities", filters: { entity_type: "donor", limit: 9999999 } })
   assert.ok(Array.isArray(result.rows))
-  assert.ok(result.rows.length <= result.total)
+  assert.ok(result.rows.length <= 500, "returned rows must not exceed MAX_PAGE_SIZE")
   assert.equal(result.returned, result.rows.length)
 })
 
@@ -240,32 +244,89 @@ test("query() edges with special chars in from_name filter does not throw", () =
 })
 
 test("query() total is stable across repeated calls with same filter", () => {
-  const r1 = engine.query({ subject: "edges", filters: { limit: 100 } })
-  const r2 = engine.query({ subject: "edges", filters: { limit: 100 } })
+  const r1 = engine.query({ subject: "edges", filters: { type: "monetary", limit: 100 } })
+  const r2 = engine.query({ subject: "edges", filters: { type: "monetary", limit: 100 } })
   assert.equal(r1.total, r2.total, "total should be deterministic")
 })
 
-test("count() returns same value as query().total for each subject", () => {
-  for (const subject of ["edges", "entities", "events"]) {
-    const counted = engine.count({ subject })
-    const queried = engine.query({ subject, filters: { limit: 0 } }).total
+test("count() returns same value as query().total for filtered subjects", () => {
+  // Must use real filters now (unbounded-query gate)
+  const cases = [
+    { subject: "edges", filters: { type: "monetary" } },
+    { subject: "entities", filters: { entity_type: "donor" } },
+    { subject: "events", filters: { event_type: "floor_vote" } },
+  ]
+  for (const { subject, filters } of cases) {
+    const counted = engine.count({ subject, filters })
+    const queried = engine.query({ subject, filters: { ...filters, limit: 0 } }).total
     assert.equal(counted, queried, `count vs query().total mismatch for ${subject}`)
   }
 })
 
 test("query() with offset >= total returns empty rows but correct total", () => {
-  const all = engine.query({ subject: "entities", filters: { limit: 1 } })
-  const beyondEnd = engine.query({ subject: "entities", filters: { limit: 10, offset: all.total + 100 } })
+  const all = engine.query({ subject: "entities", filters: { entity_type: "donor", limit: 1 } })
+  const beyondEnd = engine.query({ subject: "entities", filters: { entity_type: "donor", limit: 10, offset: all.total + 100 } })
   assert.equal(beyondEnd.rows.length, 0, "no rows beyond total")
   assert.equal(beyondEnd.total, all.total, "total unchanged by offset")
 })
 
 test("query() on events returns event records with required shape", () => {
-  const result = engine.query({ subject: "events", filters: { limit: 5 } })
+  const result = engine.query({ subject: "events", filters: { event_type: "floor_vote", limit: 5 } })
   assert.ok(Array.isArray(result.rows))
   // Events should have at minimum: id or title
   for (const r of result.rows) {
     const hasId = typeof r.id === "string" || typeof r.title === "string"
     assert.ok(hasId, "event row must have id or title")
   }
+})
+
+// ─── Cost limit contract tests (security hardening) ─────────────────────
+
+test("SECURITY: unbounded query on edges is rejected", () => {
+  assert.throws(
+    () => engine.query({ subject: "edges" }),
+    /Unbounded query/,
+    "edges with no spec should throw unbounded-query error",
+  )
+})
+
+test("SECURITY: unbounded query on entities is rejected", () => {
+  assert.throws(
+    () => engine.query({ subject: "entities", filters: {} }),
+    /Unbounded query/,
+  )
+})
+
+test("SECURITY: unbounded query on events is rejected", () => {
+  assert.throws(
+    () => engine.query({ subject: "events", filters: { limit: 10 } }),
+    /Unbounded query/,
+    "limit-only filters (pagination keys) should not count as real filters",
+  )
+})
+
+test("SECURITY: query with real filter is allowed", () => {
+  const result = engine.query({ subject: "edges", filters: { type: "monetary", limit: 5 } })
+  assert.equal(result.subject, "edges")
+  assert.ok(result.rows.length <= 5)
+})
+
+test("SECURITY: limit is clamped to 500 (MAX_PAGE_SIZE)", () => {
+  const result = engine.query({ subject: "edges", filters: { type: "monetary", limit: 10000 } })
+  assert.ok(result.rows.length <= 500, `returned ${result.rows.length} rows, expected <= 500`)
+})
+
+test("SECURITY: composers (cross_party_donors) still work without unbounded gate", () => {
+  // Composers are pre-aggregated and bounded by their own logic
+  const result = engine.query({ subject: "cross_party_donors", filters: { limit: 5 } })
+  assert.equal(result.subject, "cross_party_donors")
+  assert.ok(Array.isArray(result.rows))
+})
+
+test("SECURITY: count() on unbounded edges still works (for UI)", () => {
+  // count() is tolerant — it does the full scan but only returns a number,
+  // which is much cheaper than returning rows. Keep this working for dashboard counts.
+  const c = engine.count({ subject: "edges" })
+  assert.equal(typeof c, "number")
+  assert.ok(c > 0)
 })

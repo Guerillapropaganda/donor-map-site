@@ -86,6 +86,31 @@ jobs:
           fi
           echo "publication-readiness-check.cjs ran cleanly"
 
+  deps-cve-scan:
+    name: Dependencies CVE Scan
+    runs-on: ubuntu-latest
+    # Fails the PR if critical or high severity vulnerabilities are found
+    # in either root or ops/ dependencies.
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Install root dependencies
+        run: npm ci
+
+      - name: Install ops dependencies
+        working-directory: ops
+        run: npm ci
+
+      - name: Run CVE scan
+        run: node scripts/security/deps-cve-scan.cjs --ci
+
   ops-build:
     name: Ops Next.js Build
     runs-on: ubuntu-latest

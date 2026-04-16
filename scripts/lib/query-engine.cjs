@@ -324,38 +324,110 @@ function createInMemoryEngine() {
       .slice(0, limit)
   }
 
+  // ─── Cost limits (security hardening) ──────────────────────────
+  //
+  // Prevents abuse of the query engine via unbounded scans.
+  // Added as part of pre-launch security sprint (2026-04-15).
+  //
+  // Rules:
+  //   1. Max 500 rows per page (hard ceiling, cannot be overridden)
+  //   2. Unbounded queries on edges/entities/events require at least
+  //      one filter beyond limit/offset — prevents full table scans
+  //   3. 5-second wall-clock timeout on any query execution
+
+  const MAX_PAGE_SIZE = 500
+  const QUERY_TIMEOUT_MS = 5000
+
+  // Filter keys that count as "real" filters (not pagination)
+  const PAGINATION_KEYS = new Set(["limit", "offset"])
+
+  function hasRealFilters(filters) {
+    if (!filters) return false
+    for (const [k, v] of Object.entries(filters)) {
+      if (PAGINATION_KEYS.has(k)) continue
+      if (v !== undefined && v !== null && v !== "") return true
+    }
+    return false
+  }
+
+  function clampLimit(requestedLimit) {
+    if (typeof requestedLimit !== "number" || requestedLimit < 0) return 100
+    return Math.min(requestedLimit, MAX_PAGE_SIZE)
+  }
+
+  function enforceTimeout(fn, label) {
+    const start = Date.now()
+    const result = fn()
+    const elapsed = Date.now() - start
+    if (elapsed > QUERY_TIMEOUT_MS) {
+      throw new Error(
+        `Query timeout: ${label} took ${elapsed}ms (limit: ${QUERY_TIMEOUT_MS}ms). ` +
+        `Add filters to narrow the query.`
+      )
+    }
+    return result
+  }
+
+  // Subjects that require at least one real filter for unbounded queries
+  const UNBOUNDED_SUBJECTS = new Set(["edges", "entities", "events"])
+
   // ─── Public interface ─────────────────────────────────────────
 
   function query(spec = {}) {
     const subject = spec.subject || "edges"
     const filters = spec.filters || {}
-    const limit = filters.limit ?? 100
+    const limit = clampLimit(filters.limit ?? 100)
     const offset = filters.offset ?? 0
 
-    // Class-analysis composers are special query subjects
+    // Class-analysis composers are special query subjects (pre-aggregated,
+    // always bounded by their own logic, so no unbounded-query gate needed)
     if (subject === "cross_party_donors") {
-      const rows = crossPartyDonors({ days: filters.days })
+      const rows = enforceTimeout(
+        () => crossPartyDonors({ days: filters.days }),
+        "cross_party_donors"
+      )
       return { subject, total: rows.length, returned: rows.slice(offset, offset + limit).length, rows: rows.slice(offset, offset + limit) }
     }
     if (subject === "timing_proximity") {
-      const rows = timingProximity({
-        days: filters.timing_proximity_days ?? 30,
-        event_type: filters.event_type || "floor_vote",
-      })
+      const rows = enforceTimeout(
+        () => timingProximity({
+          days: filters.timing_proximity_days ?? 30,
+          event_type: filters.event_type || "floor_vote",
+        }),
+        "timing_proximity"
+      )
       return { subject, total: rows.length, returned: rows.slice(offset, offset + limit).length, rows: rows.slice(offset, offset + limit) }
     }
     if (subject === "top_opposition_donors") {
-      const rows = topOppositionDonors({
-        sector_affected: filters.sector_affected,
-        limit: filters.limit ?? 20,
-      })
+      const cappedLimit = clampLimit(filters.limit ?? 20)
+      const rows = enforceTimeout(
+        () => topOppositionDonors({
+          sector_affected: filters.sector_affected,
+          limit: cappedLimit,
+        }),
+        "top_opposition_donors"
+      )
       return { subject, total: rows.length, returned: rows.length, rows }
     }
 
+    // Unbounded-query gate: edges/entities/events MUST have at least
+    // one real filter. This prevents full table scans from the public API.
+    if (UNBOUNDED_SUBJECTS.has(subject) && !hasRealFilters(filters)) {
+      throw new Error(
+        `Unbounded query on "${subject}" requires at least one filter. ` +
+        `Supported filter fields: ` +
+        (subject === "edges"
+          ? "from, to, from_type, to_type, type, min_confidence, min_amount, max_amount, source, status"
+          : subject === "entities"
+          ? "entity_type, capital_type, class_position, worker_relationship, tags_approved, ideological_function, search"
+          : "event_type, obstruction_type, policy_id, chamber, outcome, stakeholder, sector_affected, since, until")
+      )
+    }
+
     let rows = []
-    if (subject === "edges") rows = filterEdges(filters)
-    else if (subject === "entities") rows = filterEntities(filters)
-    else if (subject === "events") rows = filterEvents(filters)
+    if (subject === "edges") rows = enforceTimeout(() => filterEdges(filters), "edges")
+    else if (subject === "entities") rows = enforceTimeout(() => filterEntities(filters), "entities")
+    else if (subject === "events") rows = enforceTimeout(() => filterEvents(filters), "events")
     else throw new Error(`unknown subject: ${subject}`)
 
     const total = rows.length
