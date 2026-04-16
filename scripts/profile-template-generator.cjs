@@ -38,25 +38,32 @@ const VERIFIED_TYPES = new Set([
 
 // ─── Required section spec (matches validator) ──────────────────────
 
-function getRequiredSections(profileType) {
+function getRequiredSections(profileType, fm) {
+  const isPresidential =
+    profileType === "politician" &&
+    (fm?.chamber === "Presidential" || fm?.chamber === "Cabinet" ||
+     String(fm?.["current-office"] || "").match(/president|cabinet|secretary of/i))
+
   const typeSpecific =
-    profileType === "politician" || profileType === "state-politician" || profileType === "local-politician"
-      ? { canonical: "Key Votes", variants: ["Key Votes", "Key Votes + Actions", "Key Votes and Actions", "Voting Record"] }
+    isPresidential
+      ? { canonical: "Executive Actions", variants: ["Executive Actions", "Executive Orders", "Key Executive Actions"], kind: "auto" }
+      : profileType === "politician" || profileType === "state-politician" || profileType === "local-politician"
+      ? { canonical: "Key Votes", variants: ["Key Votes", "Key Votes + Actions", "Key Votes and Actions", "Voting Record"], kind: "auto" }
       : profileType === "donor" || profileType === "pac"
-      ? { canonical: "Politicians Funded", variants: ["Politicians Funded", "Allied Donors + Politicians Funded"] }
+      ? { canonical: "Politicians Funded", variants: ["Politicians Funded", "Allied Donors + Politicians Funded"], kind: "auto" }
       : profileType === "corporation"
-      ? { canonical: "Contracts + Lobbying", variants: ["Contracts + Lobbying", "Contracts and Lobbying"] }
+      ? { canonical: "Contracts + Lobbying", variants: ["Contracts + Lobbying", "Contracts and Lobbying"], kind: "auto" }
       : profileType === "think-tank"
-      ? { canonical: "Policy Positions", variants: ["Policy Positions", "Influence"] }
+      ? { canonical: "Policy Positions", variants: ["Policy Positions", "Influence"], kind: "auto" }
       : profileType === "lobbying-firm"
-      ? { canonical: "Clients + Issues", variants: ["Clients + Issues", "Clients and Issues"] }
-      : { canonical: "Type-Specific", variants: [] }
+      ? { canonical: "Clients + Issues", variants: ["Clients + Issues", "Clients and Issues"], kind: "auto" }
+      : { canonical: "Type-Specific", variants: [], kind: "auto" }
 
   return [
     { pos: 2, canonical: "Who They Are", variants: ["Who They Are", "Who He Is", "Who She Is", "Who We Are", "Bio", "Biography", "Background", "About"], kind: "editorial" },
-    { pos: 3, canonical: "The Money", variants: ["The Money", "Money", "Funding", "The Donor Class Map", "The Donors", "Campaign Finance"], kind: "auto" },
-    { pos: 4, canonical: typeSpecific.canonical, variants: typeSpecific.variants, kind: "auto" },
-    { pos: 5, canonical: "Class Analysis", variants: ["Class Analysis"], kind: "editorial" },
+    { pos: 3, canonical: "Class Analysis", variants: ["Class Analysis"], kind: "editorial" },
+    { pos: 4, canonical: "The Money", variants: ["The Money", "Money", "Funding", "The Donor Class Map", "The Donors", "Campaign Finance"], kind: "auto" },
+    { pos: 5, canonical: typeSpecific.canonical, variants: typeSpecific.variants, kind: typeSpecific.kind },
     { pos: 6, canonical: "The Contradictions", variants: ["The Contradictions", "Contradictions", "The Core Contradiction", "Contradictions + Conflicts"], kind: "editorial" },
     { pos: 7, canonical: "Timeline", variants: ["Timeline", "Chronology", "History"], kind: "auto" },
     { pos: 8, canonical: "Related Figures", variants: ["Related Figures", "Related", "Related Profiles", "Connections", "Network"], kind: "auto" },
@@ -164,17 +171,41 @@ function stubForSection(section, profileType) {
 
 // ─── The core transform ─────────────────────────────────────────────
 
-function reshape(body, profileType) {
-  const spec = getRequiredSections(profileType)
+function reshape(body, profileType, fm) {
+  const spec = getRequiredSections(profileType, fm)
+  const specOrdinals = spec.map((s) => s.pos) // e.g. [2, 3, 4, 5, 6, 7, 8, 9]
   const { preamble, blocks } = splitIntoBlocks(body)
   const classified = classifyBlocks(blocks, spec)
 
-  // Classify blocks: required (with ordinal) vs supplementary
+  // Detect and drop stale template:auto stubs — these are stubs inserted by
+  // a previous generator run whose section is no longer required (e.g., old
+  // "Key Votes" stub when a profile is re-classified as Presidential and
+  // now needs "Executive Actions" instead).
+  //
+  // Stub signature: content contains `<!-- template:auto:KEY -->` AND
+  // `_[Auto-generated content will appear here]_` (our exact marker) AND
+  // heading doesn't match any current spec variant.
+  const isStaleStub = (block) => {
+    if (!block.content.includes("<!-- template:auto:")) return false
+    if (!block.content.includes("_[Auto-generated content will appear here]_")) return false
+    // If the heading matches a current spec variant, it's still relevant
+    for (const section of spec) {
+      if (section.variants.some((v) => headingMatchesVariant(block.heading, v))) return false
+    }
+    return true
+  }
+
+  // Classify blocks: required (with ordinal) vs supplementary, skip stale stubs
   const requiredBlocks = new Map() // ordinal -> block
   const supplementary = []
+  let droppedStubs = 0
 
   for (let i = 0; i < classified.length; i++) {
     const b = { ...classified[i], originalIndex: i }
+    if (isStaleStub(b)) {
+      droppedStubs++
+      continue
+    }
     if (b.required && !requiredBlocks.has(b.section.pos)) {
       requiredBlocks.set(b.section.pos, b)
     } else {
@@ -183,49 +214,83 @@ function reshape(body, profileType) {
     }
   }
 
-  // For each supplementary block, assign it to the "anchor" — the required
-  // section ordinal it should appear BEFORE. Based on source order: pick the
-  // next required section (by ordinal) that appeared in the source AFTER this
-  // supp. If no required section comes after it in the source, it goes at the end.
+  // Helper: find next ordinal in spec that exists after a given position
+  const nextOrdinalAfter = (ord) => {
+    for (const n of specOrdinals) {
+      if (n > ord) return n
+    }
+    return null
+  }
+
+  // For each supplementary block, anchor to the NEXT ORDINAL after the
+  // supp's nearest preceding required section in source.
   //
-  // Example: if supp at origIdx 5 appears, and required section ordinal=6 exists
-  // at origIdx 2 (before the supp) and ordinal=3 exists at origIdx 8 (after),
-  // the supp goes "before ordinal 3" in the output.
+  // Rationale: supplementary content typically elaborates on the required
+  // section that precedes it in the source. We want the supp to stay with
+  // that material in the output — so it emits between "its anchor required"
+  // and "the next required". Using source-order-next-required would push
+  // supps backwards in the ordinal-reordered output when editorial sections
+  // are out of source order (common).
   //
-  // Subtlety: we want supps to stay close to editorial content that anchored
-  // them. So "next required AFTER this supp in source" is the right anchor.
+  // Example: Trump source has Donor Class Map (pos 4) at idx 3, then
+  // Personal Grift (supp) at idx 4. Preceding required for the supp is
+  // Donor Class Map (pos 4). Anchor to next ordinal = pos 5 (Executive Actions).
+  // So Personal Grift emits between pos 4 and pos 5 in output. Correct flow.
   const suppAnchor = new Map() // ordinal -> array of supp blocks to emit before that ordinal
-  const trailingSupps = []
+  const leadingSupps = [] // before any required section
+  const trailingSupps = [] // after the last required section in source
 
   for (const supp of supplementary) {
-    // Find the next required section in SOURCE order whose originalIndex > supp.originalIndex
-    let nextRequired = null
+    // Find the nearest required section BEFORE this supp in source
+    let precedingRequired = null
     for (const [, rb] of requiredBlocks) {
-      if (rb.originalIndex > supp.originalIndex) {
-        if (!nextRequired || rb.originalIndex < nextRequired.originalIndex) {
-          nextRequired = rb
+      if (rb.originalIndex < supp.originalIndex) {
+        if (!precedingRequired || rb.originalIndex > precedingRequired.originalIndex) {
+          precedingRequired = rb
         }
       }
     }
-    if (nextRequired) {
-      const ord = nextRequired.section.pos
-      if (!suppAnchor.has(ord)) suppAnchor.set(ord, [])
-      suppAnchor.get(ord).push(supp)
-    } else {
-      trailingSupps.push(supp)
+
+    if (!precedingRequired) {
+      // Supp comes before all required sections — emit before first required
+      leadingSupps.push(supp)
+      continue
     }
+
+    const anchorOrd = nextOrdinalAfter(precedingRequired.section.pos)
+    if (anchorOrd === null) {
+      // Preceding required was the last ordinal (pos 9) — supp is trailing
+      trailingSupps.push(supp)
+      continue
+    }
+
+    if (!suppAnchor.has(anchorOrd)) suppAnchor.set(anchorOrd, [])
+    suppAnchor.get(anchorOrd).push(supp)
   }
 
-  // Emit in canonical order: for each ordinal 2-9, emit its anchored supps first,
-  // then the required section (existing or stub).
+  // Emit leading supplementaries (content that came before any required section)
   const out = []
+  leadingSupps.sort((a, b) => a.originalIndex - b.originalIndex)
+  for (const s of leadingSupps) {
+    out.push(s.raw.trimEnd() + "\n")
+  }
+
+  // Emit in canonical order: for each ordinal 2-9, emit the required section
+  // (existing or stub), then any supps anchored to the NEXT ordinal (which
+  // will appear after this required section, before the next required).
+  //
+  // Wait — we want anchored supps to come BETWEEN sections, so for each
+  // section we emit its anchored supps BEFORE it (they anchored to THIS ordinal,
+  // meaning "come before section at THIS ordinal"). That is: supps anchored
+  // to ord=5 come between section at ord=4 (the preceding required) and
+  // section at ord=5.
   for (const section of spec) {
-    // Anchored supps first (sorted by original order)
+    // Anchored supps for this ordinal first (they anchored here, meaning "emit before section at this ordinal")
     const anchored = (suppAnchor.get(section.pos) || []).sort((a, b) => a.originalIndex - b.originalIndex)
     for (const s of anchored) {
       out.push(s.raw.trimEnd() + "\n")
     }
-    // Then the required section
+    // Then the required section itself
     const existing = requiredBlocks.get(section.pos)
     if (existing) {
       out.push(existing.raw.trimEnd() + "\n")
@@ -273,7 +338,7 @@ function processFile(filePath, { write = false } = {}) {
     return { file: filePath, skipped: true, reason: "claim-object or editor-vouched (exempt)" }
   }
 
-  const newBody = reshape(parsed.body, type)
+  const newBody = reshape(parsed.body, type, parsed.fm)
   const newText = parsed.frontmatterText + newBody
 
   if (newText === parsed.raw) {

@@ -22,10 +22,12 @@ import { QuartzTransformerPlugin } from "../types"
 
 // Patterns: each one [regex with capture group, HTML comment template]
 const PATTERNS: Array<[RegExp, (match: string, ...groups: string[]) => string]> = [
-  // Standalone inline markers
+  // Standalone inline markers — all editorial signals, not for readers
   [/\(URL NEEDED\)/g, () => "<!-- URL NEEDED -->"],
   [/\(UNVERIFIED\)/g, () => "<!-- UNVERIFIED -->"],
   [/\(NEEDS REVIEW\)/g, () => "<!-- NEEDS REVIEW -->"],
+  [/\(VERIFIED\)/g, () => "<!-- VERIFIED -->"],
+  [/\(DEFAMATION-SANITIZED\)/g, () => "<!-- DEFAMATION-SANITIZED -->"],
 
   // Bracketed annotations like [JANITOR 2026-04-11] ... end of line
   // Only match when they appear in a paragraph context, not inside code blocks
@@ -39,7 +41,7 @@ const PATTERNS: Array<[RegExp, (match: string, ...groups: string[]) => string]> 
  * untouched so we don't mangle code examples that legitimately contain these strings.
  */
 function transform(src: string): string {
-  if (!/\(URL NEEDED\)|\(UNVERIFIED\)|\(NEEDS REVIEW\)|\[JANITOR|\[URL Check/.test(src)) {
+  if (!/\(URL NEEDED\)|\(UNVERIFIED\)|\(NEEDS REVIEW\)|\(VERIFIED\)|\(DEFAMATION-SANITIZED\)|\[JANITOR|\[URL Check/.test(src)) {
     return src // fast path — nothing to do
   }
 
