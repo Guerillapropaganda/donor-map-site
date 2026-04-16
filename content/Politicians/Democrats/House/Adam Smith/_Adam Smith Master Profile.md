@@ -40,8 +40,6 @@ reenrich-reason: run congress pipeline
 govtrack-id: 400379
 bills-sponsored: 199
 bills-cosponsored: 4981
-bills-sponsored: 19
-bills-cosponsored: 361
 website: https://adamsmith.house.gov
 phone: 202-225-8901
 internal-notes: |-
