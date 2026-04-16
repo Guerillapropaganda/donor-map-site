@@ -94,6 +94,48 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 ---
 
 ## Last Session
+Claude: Research
+Date: 2026-04-16
+Context window: interrupted, continued in new session
+
+### Theme
+Batch editorial pass on vault profiles. Built editorial infrastructure (queue script, editorialpass skill), fixed a YAML deploy-blocker (Adam Smith), then worked through 7 profiles adding Class Analysis sections and central-thesis frontmatter.
+
+### Done this session
+
+**Infrastructure:**
+- `scripts/editorial-queue.cjs` (new): prioritization script for editorial batch work. Scoring by FEC data presence, relationship edges, missing Class Analysis/thesis. Fixed `toStr()` bug for array-type `known-gaps`. Usage: `node scripts/editorial-queue.cjs [--limit N] [--type donor|politician] [--csv]`. Results: 609 actionable, 107 skipped.
+- `C:\Users\third\.claude\skills\editorial-pass\skill.md` (new): full editorial workflow skill
+- `C:\Users\third\.claude\skills\editorialpass\skill.md` (new): non-hyphen alias that actually triggers via slash command
+
+**YAML deploy fix:**
+- `content/Politicians/Democrats/House/Adam Smith/_Adam Smith Master Profile.md`: removed duplicated `bills-sponsored`/`bills-cosponsored` frontmatter keys from bulk ingest. Was blocking Quartz build.
+
+**Class Analysis passes (7 profiles, commits `8e07b898e`–`da154059b`):**
+- `content/Politicians/Democrats/Senate/Juliana Stratton/_Juliana Stratton Master Profile.md`: added Class Analysis (Pritzker as ruling-class investor; corporate PAC pledge compliance gap; 2026 primary as billionaire-vs-billionaire fight). Demoted `ready` → `draft` (was missing Class Analysis, rule violation). Removed inline body fields.
+- `content/Politicians/Republicans/House/_Brett Guthrie Master Profile.md`: added Class Analysis (pharma-capital committee chair; orphan drug exemption mechanism; state-created patent monopoly; 62% PAC split). Fixed timestamp, removed stray `tags:` body line.
+- `content/Politicians/Republicans/House/Brian Mast/_Brian Mast Master Profile.md`: added Class Analysis (AIPAC jurisdictional premium on Foreign Affairs; personal IDF conviction eliminating analytical friction; Russian MFA sanctions as corroborating signal).
+- `content/Politicians/Democrats/House/Donna Miller/_Donna Miller Master Profile.md`: added Class Analysis (3.4:1 outside-to-candidate ratio; shell PAC "Affordable Chicago Now" naming strategy; AIPAC expansion into majority-Black districts). Removed inline body fields.
+- `content/Politicians/Democrats/Senate/Scott Wiener/_Scott Wiener Master Profile.md`: added Class Analysis (rentier-capital capture; YIMBY framing as class cover for developer vs. tenant distribution question; career real estate vs. cleaner 2026 congressional cycle).
+- `content/Politicians/Republicans/House/Mark Green/_Mark Green Master Profile.md`: added Class Analysis (committee-as-credential; Mayorkas impeachment as brand content not policy; pre-political Align MD wealth means no financial capture). Fixed typo in `central-thesis`. Flagged FEC/GovTrack auto-blocks contain wrong politician data (2010-2014 cycles, govtrack-id 400159).
+- `content/Politicians/Democrats/House/George Latimer/_George Latimer Master Profile.md`: added Class Analysis (39:1 outside-to-candidate ratio as structural dependency; AIPAC monetizing existing alignment not manufacturing puppet; deterrence value of Bowman defeat). Added `central-thesis` frontmatter.
+
+### Known issues
+- Mark Green's FEC and GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 FEC cycles). Flagged in editorial-notes. Pipeline correction needed.
+- George Latimer `## Sources › Needed` section still lists "FEC candidate ID" as a gap — stale, ID is populated. Low priority cleanup.
+
+### In progress
+- Batch editorial queue has 600+ remaining actionable profiles. Next up from queue: Shontel Brown (draft, FEC block, $672K raised), Daniel Biss (draft, FEC block, $2.54M raised).
+
+### Next session priorities
+1. **Continue batch editorial pass** — run `node scripts/editorial-queue.cjs --limit 20` to get next targets, prioritize House/Senate members with FEC auto-blocks but no Class Analysis
+2. **Fix Mark Green pipeline data** — govtrack-id 400159 and 2010/2012/2014 FEC cycles are wrong politician. Correct govtrack-id for Mark Green (TN-7, elected 2018) needed.
+3. **Promote completed profiles** — after Class Analysis sweep, run `node scripts/editorial-queue.cjs` to find any profiles now eligible for `draft → ready`
+4. **Deploy** — current branch `claude/heuristic-clarke` needs merge to v4 and push
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-15 (night: bulk data ingest marathon + component wiring)
 

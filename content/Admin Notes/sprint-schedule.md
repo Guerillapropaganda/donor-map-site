@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-15-session-save-night-bulk-ingest-marathon'
+last-updated: '2026-04-16-research-editorial-pass'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2135,7 +2135,33 @@ parser_guidance:
 
 ---
 
-**Schedule last updated: 2026-04-15 (foundation audit marathon — David said "we keep deferring things, it's just building up" and asked for a real audit. Shipped 9 commit chains across ~6 hours: 193 super PAC stubs + FEC edge migration (215→679 matches, monetary edges with real amount/cycle/role 282→652), Wall Street sector fix (+32 eligible entities), McGovern bioguide dedup, class-tag research queue + Perplexity batch (40 proposals loaded, 37 high confidence), canonical store backfill via migrate-frontmatter-delta (+1,728 net edges: 30,254→31,982), buildTitleIndex filename alias (223 dangling wikilinks unlocked), fix-entity-name-mismatches (609 "Master Profile" suffixes stripped + 7 redirect orphans deleted), ADR-0010 surveillance-state added to IDEOLOGICAL_FUNCTIONS (20→21 values), David Sacks + JB Pritzker donor+politician sub-note merge (3→1 and 2→1 in search), 5 remaining Redirect files properly marked, Ops TypeScript 17→0 (Profile/ProfileData + D3 + misc), /class-tags by-proposer filter, deferred-items auto-triage (74 stale criteria flipped + 4 manually verified + policy-stakes-vocab seeded), /bugs kind filter (actionable-only default shows 91/436). cc_136-cc_147 added as ad-hoc done. All 9 sentinels green every commit.)**
+    - id: rc_01
+      task: "Build editorial-queue.cjs + editorialpass skill"
+      status: done
+      completed_date: 2026-04-16
+      added_adhoc: true
+      notes: "scripts/editorial-queue.cjs: prioritization script scoring profiles by FEC data, relationship edges, missing Class Analysis/thesis. 609 actionable profiles identified. Fixed toStr() bug for array-type known-gaps field. ~/.claude/skills/editorialpass/skill.md + editorial-pass alias created as triggerable slash command."
+
+    - id: rc_02
+      task: "YAML deploy fix: Adam Smith duplicate frontmatter keys"
+      status: done
+      completed_date: 2026-04-16
+      added_adhoc: true
+      notes: "content/Politicians/Democrats/House/Adam Smith/_Adam Smith Master Profile.md had duplicated bills-sponsored/bills-cosponsored from bulk ingest script. Was blocking Quartz build entirely. Removed duplicate lines, kept career totals (199 sponsored, 4981 cosponsored)."
+
+    - id: rc_03
+      task: "Batch Class Analysis pass: 7 politician profiles"
+      status: done
+      completed_date: 2026-04-16
+      added_adhoc: true
+      commits: ["8e07b898e", "f1382bbfd", "b41ec0e04", "97fda808c", "da154059b"]
+      notes: |
+        Added Class Analysis sections and central-thesis frontmatter to 7 profiles: Juliana Stratton (demoted ready→draft, was missing CA), Brett Guthrie, Brian Mast, Donna Miller, Scott Wiener, Mark Green, George Latimer.
+        Key analytical threads: AIPAC enforcement model (Mast, Miller, Latimer); pharma committee capture (Guthrie); YIMBY developer-tenant distribution question (Wiener); committee-as-credential vs committee-as-capture (Green); 39:1 outside-to-candidate structural dependency (Latimer).
+        Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
+        Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
+
+**Schedule last updated: 2026-04-16 (Research Claude editorial pass — built editorial-queue.cjs + editorialpass skill, fixed Adam Smith YAML deploy-blocker, added Class Analysis + central-thesis to 7 profiles: Stratton, Guthrie, Mast, Miller, Wiener, Green, Latimer. rc_01–rc_03 added as ad-hoc done. Flag: Mark Green pipeline data mismatch needs Code Claude fix.)**
 **Current phase: POST-BUILD foundation stabilization — 4 of 5 pillars complete, Pillar 2 (data coverage) remains**
 **Next checkpoint: Pillar 2 data coverage fix (frontmatter→canonical migration + FEC amount enrichment); after that, David's pre-launch gate reviews + other session's security brief work**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
