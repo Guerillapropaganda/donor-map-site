@@ -6,6 +6,7 @@ import Link from "next/link"
 import { readinessColor, typeColor, type Profile } from "@/lib/vault"
 import { VerificationChecklist, evaluateReadinessEligibility, evaluateStoryGrading } from "@/components/VerificationChecklist"
 import { PipelineDataViewer } from "@/components/PipelineDataViewer"
+import { ConnectionsExplorer } from "@/components/ConnectionsExplorer"
 
 // ProfileData is the shape of /api/profile's `profile` field — identical
 // to the canonical Profile type in @/lib/vault. Previously declared as a
@@ -70,6 +71,7 @@ export default function ProfilePage() {
   const [urlFilter, setUrlFilter] = useState<"all" | "unchecked" | "verified" | "broken" | "unsure">("all")
   const [expandedUrl, setExpandedUrl] = useState<number | null>(null)
   const [rawContent, setRawContent] = useState("")
+  const [profileEdges, setProfileEdges] = useState<Record<string, unknown> | null>(null)
   const [readinessChanging, setReadinessChanging] = useState(false)
   const [readinessMsg, setReadinessMsg] = useState("")
   const [internalNotes, setInternalNotes] = useState("")
@@ -114,6 +116,15 @@ export default function ProfilePage() {
           (c: Connection) => c.source === title || c.target === title
         )
         setConnections(profileConns)
+
+        // Load per-profile edge data (monetary detail, contracts, etc.)
+        if (title) {
+          fetch(`/api/profile/edges?title=${encodeURIComponent(title)}`)
+            .then(r => r.json())
+            .then(edgeData => setProfileEdges(edgeData.edges || null))
+            .catch(() => setProfileEdges(null))
+        }
+
         setLoading(false)
       })
       .catch(() => setLoading(false))
@@ -943,7 +954,19 @@ export default function ProfilePage() {
       )}
 
       {tab === "connections" && (
+        <div className="space-y-4">
+          {/* Connections Explorer — filtered view with money trail, contracts, opposition */}
+          <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+            <ConnectionsExplorer
+              profileTitle={profile.title}
+              profileType={profile.type}
+              edges={profileEdges as any}
+            />
+          </div>
+
+          {/* Manual connection management */}
         <div className="bg-[var(--color-bg-card)] border border-[var(--color-border)] rounded-lg p-4">
+          <h3 className="text-[10px] uppercase tracking-wider text-[var(--color-text-dim)] mb-3">Manage Connections</h3>
           {/* Add connection */}
           <div className="flex gap-2 mb-4 pb-4 border-b border-[var(--color-border)]">
             <div className="relative flex-1">
@@ -1031,6 +1054,7 @@ export default function ProfilePage() {
           {allRelated.length + allDonors.length + allOpposes.length === 0 && (
             <p className="text-xs text-[var(--color-text-dim)] text-center py-8">No connections found. Search above to add.</p>
           )}
+        </div>
         </div>
       )}
 
