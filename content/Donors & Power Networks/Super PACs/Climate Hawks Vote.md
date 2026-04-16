@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00548461
 aliases:
@@ -21,6 +21,7 @@ total-raised: 54563
 total-spent: 54718
 cash-on-hand: 10141
 individual-contributions: 54563
+related: "[[Brian Schatz]]"
 ---
 
 ## Auto-Created Stub

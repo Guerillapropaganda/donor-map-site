@@ -2,10 +2,10 @@
 title: "Corporate PAC Pledge and Its Limits"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[JB Pritzker (Donor Network)]]"
+related: "[[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"

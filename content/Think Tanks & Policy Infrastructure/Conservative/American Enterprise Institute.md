@@ -25,7 +25,7 @@ regulatory-agencies:
   - Federal Deposit Insurance Corporation
   - Federal Housing Finance Agency
   - Federal Reserve System
-related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[New America]]"
+related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[New America]] · [[Economic Policy Institute]]"
 lei: 549300H55I05SOXHZO50
 lei-jurisdiction: US-DC
 ein: '530218495'

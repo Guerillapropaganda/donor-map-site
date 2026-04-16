@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00330233
 aliases:
@@ -22,6 +22,7 @@ total-spent: 50105
 cash-on-hand: 108196
 individual-contributions: 116888
 contributions-to-committees: 11000
+related: "[[James Comer]]"
 ---
 
 ## Auto-Created Stub

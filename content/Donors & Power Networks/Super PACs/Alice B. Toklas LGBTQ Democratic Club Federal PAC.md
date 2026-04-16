@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00705277
 aliases:
@@ -20,6 +20,7 @@ urls-first-triaged: "2026-04-15"
 total-raised: 11500
 total-spent: 5036
 cash-on-hand: 18720
+related: "[[Alex Padilla]]"
 ---
 
 ## Auto-Created Stub

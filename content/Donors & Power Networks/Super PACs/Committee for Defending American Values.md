@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00759142
 aliases:
@@ -19,6 +19,7 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 253
 cash-on-hand: 187
+related: "[[Roger Williams]]"
 ---
 
 ## Auto-Created Stub

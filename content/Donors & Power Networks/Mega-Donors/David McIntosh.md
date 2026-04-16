@@ -8,7 +8,7 @@ parent: null
 sector: Mega-Donors
 entity-type: Individual Donor
 politicians-funded: "[[Roy Cooper]], [[Raphael Warnock]], [[Donald Trump]], [[Kamala Harris]], [[Jon Ossoff]]"
-related: "[[Club for Growth]] · [[Donald Trump]] · [[Kamala Harris]] · [[Raphael Warnock]]"
+related: "[[Club for Growth]] · [[Donald Trump]] · [[Kamala Harris]] · [[Raphael Warnock]] · [[Jon Ossoff]]"
 last-enriched: "2026-04-11"
 federal-register-mentions: 10
 regulatory-agencies:

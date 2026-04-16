@@ -2,10 +2,10 @@
 title: "The Pritzker Machine and Illinois Democratic Power"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
-related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]] · [[JB Pritzker (Donor Network)]]"
+related: "[[Juliana Stratton]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[Illinois Future PAC]] · [[Dick Durbin]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"

@@ -2,10 +2,10 @@
 title: "Adelson 250M Republican Kingmaker Pledge"
 type: story
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 2
 parent: null
-related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
+related: "[[2028 Presidential Landscape]] · [[_JD Vance Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Marco Rubio Master Profile]] · [[Miriam Adelson]] · [[Timothy Mellon]] · [[Elon Musk]] · [[_Benjamin Netanyahu Master Profile]] · [[Intra-Republican Contradiction Map]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]]"
 checklist-na:
   - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"

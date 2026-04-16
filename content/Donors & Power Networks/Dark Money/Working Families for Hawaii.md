@@ -6,7 +6,7 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00490193
 fec-url: https://www.fec.gov/data/committee/C00490193/
-last-updated: "2026-04-15"
+last-updated: 2026-04-16
 source-tier: 1
 fec-ie-support: $241,841
 fec-ie-oppose: null
@@ -17,4 +17,5 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-spent: 234
 cash-on-hand: 8990
+related: "[[Brian Schatz]]"
 ---

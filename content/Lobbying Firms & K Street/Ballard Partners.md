@@ -9,7 +9,7 @@ annual-revenue: $88.1M (2025)
 lobbyist-count: 38
 fara-clients: 14
 revolving-door-pct: 29.7%
-related: ">- · [[The DOJ as Political Weapon and Donor Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]]"
+related: ">- · [[The DOJ as Political Weapon and Donor Shield]] · [[Qatar Lobbying and the Revolving Door to DOJ]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]] · [[Prime Policy Group]]"
 court-cases: 33
 last-enriched: '2026-04-07'
 needs-reenrichment: true

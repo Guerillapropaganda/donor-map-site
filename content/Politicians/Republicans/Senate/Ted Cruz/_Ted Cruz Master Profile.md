@@ -38,7 +38,7 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
+related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[John Cornyn]]"
 last-enriched: "2026-04-11"
 committees:
   - Senate Committee on Commerce, Science, and Transportation

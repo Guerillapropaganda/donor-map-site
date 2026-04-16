@@ -3,10 +3,11 @@ title: "Marc Andreessen and a16z"
 type: redirect
 editorial-status: redirect
 redirect-target: "[[Marc Andreessen & Horowitz]]"
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 aliases:
   - "Marc Andreessen and a16z"
 urls-first-triaged: "2026-04-15"
+related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]]"
 ---
 
 # Marc Andreessen and a16z
