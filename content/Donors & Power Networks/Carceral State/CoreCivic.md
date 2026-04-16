@@ -12,7 +12,7 @@ federal-awards-total: 1057092807
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3058
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 court-jurisdictions:
@@ -26,9 +26,9 @@ court-jurisdictions:
   - District Court, M.D. Tennessee
   - District Court, N.D. Ohio
   - District Court, S.D. California
-ein: "823851866"
-annual-revenue: $511K
-net-assets: $52K
+ein: 823851866
+annual-revenue: "$511K"
+net-assets: "$52K"
 tax-year: "2024"
 federal-contracts: 228
 subawards-issued: 50
@@ -37,7 +37,7 @@ subawards-received: 50
 subawards-received-amount: 51876611853
 top-federal-agency: Department of Homeland Security
 top-naics-code: "561612"
-related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]]"
+related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 709089
 total-assets: 27969
@@ -67,9 +67,9 @@ sec-form-types:
   - EX-99.1
   - EX-99.2
   - SCHEDULE 13G/A
-wikidata-id: Q1135278
-wikipedia-url: https://en.wikipedia.org/wiki/CoreCivic
-wikipedia-extract: CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
+wikidata-id: "Q1135278"
+wikipedia-url: "https://en.wikipedia.org/wiki/CoreCivic"
+wikipedia-extract: "CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States."
 founded: "1983-01-01"
 epa-facilities: 1
 epa-states: "CA"
@@ -272,7 +272,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -585,7 +585,7 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

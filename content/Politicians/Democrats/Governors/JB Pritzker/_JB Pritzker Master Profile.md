@@ -20,7 +20,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Jon Ossoff]] · [[Cory Booker]] · [[Barack Obama]]"
+related: "[[_Kamala Harris Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[Juliana Stratton]] · [[Illinois Senate Primary Money War]] · [[Corporate PAC Pledge and Its Limits]] · [[Jon Ossoff]] · [[Cory Booker]] · [[Barack Obama]] · [[The 323 Million Dollar Self-Funded Governor]]"
 donors: "[[Illinois Future PAC]], [[Democratic Governors Association]], [[UNITE HERE]]"
 urls-first-triaged: "2026-04-15"
 ---

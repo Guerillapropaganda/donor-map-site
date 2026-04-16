@@ -12,7 +12,7 @@ source-tier: 1
 fec-ie-support: $12,170,854
 fec-ie-oppose: $145,576,184
 politicians-funded: "[[Ted Cruz]], [[Bernie Moreno]], [[Sherrod Brown]]"
-related: "[[Ted Cruz]] · [[Bernie Moreno]]"
+related: "[[Ted Cruz]] · [[Bernie Moreno]] · [[Sherrod Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

@@ -23,7 +23,7 @@ cash-on-hand: 23719
 independent-expenditures: 529810
 individual-contributions: 378690
 contributions-to-committees: 135500
-related: "[[Lee Zeldin]]"
+related: "[[Lee Zeldin]] · [[Nancy Mace]]"
 ---
 
 ## Auto-Created Stub

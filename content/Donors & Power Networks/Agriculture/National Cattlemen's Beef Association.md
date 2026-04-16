@@ -10,12 +10,12 @@ entity-type: Individual Donor
 politicians-funded: "[[Mike Carey]], [[Harold Rogers]], [[Jimmy Panetta]], [[Glenn Thompson]], [[Leon Panetta]], [[Richard Hudson]], [[Frank Lucas]], [[Jim Costa]], [[Bennie Thompson]], [[Mike Rogers]], [[August Pfluger]], [[Nathaniel Moran]], [[Tracey Mann]], [[Vince Fong]], [[Donald Trump]], [[David G. Valadao]], [[Mike Thompson]], [[Jerry Moran]], [[Brad Finstad]], [[Bruce Westerman]], [[Julia Letlow]]"
 issues:
   - Agriculture
-ein: "840738973"
-annual-revenue: $54.9M
-net-assets: $37.3M
+ein: 840738973
+annual-revenue: "$54.9M"
+net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
@@ -43,7 +43,7 @@ regulatory-agencies:
   - "Fish and Wildlife Service"
   - "Food Safety and Inspection Service"
   - "Interior Department"
-related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]]"
+related: "[[Fanjul Family - Florida Crystals]] · [[The Agriculture-Defense Dual Donor Axis]] · [[Agriculture - Donors and Backers]] · [[Frank Lucas Master Profile]] · [[The Oversight Chair and the Investigation Theater]] · [[The Agriculture Committee and Farm Subsidy Pipeline]] · [[Farm Subsidies, SNAP Cuts, and the Tariff Bailout - Who Actually Got Paid]] · [[American Farm Bureau Federation]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[American Iron and Steel Institute]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Walton Family Foundation]] · [[National Education Association]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]]"
 nonprofit-status: 501(c)(6)
 total-revenue: 56531773
 total-assets: 37287895
@@ -75,9 +75,9 @@ sec-form-types:
   - SB-2/A
   - SC 14D9
   - SC 14D9/A
-wikidata-id: Q6971302
-wikipedia-url: https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association
-wikipedia-extract: National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers.
+wikidata-id: "Q6971302"
+wikipedia-url: "https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association"
+wikipedia-extract: "National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers."
 total-political-spend: $452,500
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -212,7 +212,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -506,7 +506,7 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -13,7 +13,7 @@ known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Thom Tillis]]"
 politicians-funded: "[[Thom Tillis]], [[Jamie Raskin]], [[Raja Krishnamoorthi]], [[Joseph Morelle]]"
-related: "[[Jamie Raskin]] · [[Raja Krishnamoorthi]]"
+related: "[[Jamie Raskin]] · [[Raja Krishnamoorthi]] · [[Joseph Morelle]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

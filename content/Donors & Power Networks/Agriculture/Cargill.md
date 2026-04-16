@@ -2,7 +2,7 @@
 title: "Cargill"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Agriculture"
   - "Trade"
-ein: "416020221"
+ein: 416020221
 annual-revenue: "$2.5M"
 net-assets: "$255.2M"
 tax-year: "2023"
@@ -24,7 +24,7 @@ federal-awards-total: 49170610
 federal-contracts-count: 25
 federal-grants-count: 10
 related: "[[The Veterans Affairs and Iowa Agriculture]] · [[The Oversight Legacy and Agricultural Protection]] · [[Agriculture - Donors and Backers]] · [[ADM - Archer Daniels Midland]] · [[Monsanto - Bayer]] · [[John Deere]] · [[The Farm Bill - The Bipartisan Subsidy Machine]] · [[Tyson Foods]] · [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Meatpacking Corporations]] · [[United Farm Workers]] · [[Ethanol Industry]] · [[Agribusiness Donor Bloc]]"
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 sec-filings: 10000
@@ -200,7 +200,7 @@ The 42 FDA recalls (including 10 Class I, the most serious category) and 12,441 
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F416020221_202312_990PF_2025010222978691.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -638,7 +638,7 @@ Cargill, Incorporated is an American multinational food corporation based in Min
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1036056) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

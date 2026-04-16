@@ -11,11 +11,11 @@ politicians-funded: "[[Lindsey Graham]], [[Leon Panetta]], [[Glenn Thompson]], [
 issues:
   - Immigration
 ein: 940357610
-annual-revenue: $12.9M
-net-assets: $73.5M
+annual-revenue: "$12.9M"
+net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
@@ -40,7 +40,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(5)
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]]"
 sec-filings: 291
 sec-form-types:
   - 10-Q
@@ -61,7 +61,7 @@ sec-form-types:
   - N-6
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-wikidata-id: Q126731054
+wikidata-id: "Q126731054"
 total-political-spend: $892,442
 lobbying-spend: 10784974
 lobbying-filings: 122
@@ -190,7 +190,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-15 -->
+<!-- auto:propublica-990 pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -396,7 +396,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-15 -->
+<!-- auto:wikipedia pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
