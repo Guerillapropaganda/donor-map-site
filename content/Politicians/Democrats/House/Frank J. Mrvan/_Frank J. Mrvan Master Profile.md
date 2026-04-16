@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 6
+bills-cosponsored: 266
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Frank J. Mrvan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 266 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (51)
+- Armed Forces and National Security (42)
+- Crime and Law Enforcement (27)
+- Government Operations and Politics (21)
+- Labor and Employment (20)
+- Taxation (17)
+- Education (12)
+- International Affairs (9)
+- Transportation and Public Works (9)
+- Agriculture and Food (7)
+
+**Recent bills sponsored:**
+
+- HR 10105: Veterans’ Security and Pay Transparency Act
+- HR 7638: Stop Mexico’s Steel Surge Act
+- HR 7549: Gold Star Family Education Parity Act
+- HR 6097: To amend the Family Violence Prevention and Services Act to authorize grants to ensure access for victims of family v...
+- HR 4225: ARCA Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

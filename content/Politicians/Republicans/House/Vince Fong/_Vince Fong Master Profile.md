@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4CA20181"
+bills-sponsored: 4
+bills-cosponsored: 56
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,36 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Vince Fong
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 56 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (15)
+- Government Operations and Politics (6)
+- Environmental Protection (5)
+- Science, Technology, Communications (4)
+- International Affairs (4)
+- Taxation (3)
+- Crime and Law Enforcement (3)
+- Finance and Financial Sector (2)
+- Public Lands and Natural Resources (2)
+- Civil Rights and Liberties, Minority Issues (2)
+
+**Recent bills sponsored:**
+
+- HRES 1421: Supporting the goals of "Blood Cancer Awareness Month".
+- HR 9402: H.R. 9402, NSF AI Education Act of 2024
+- HR 9347: STOP TRANQ Act
+- HR 8920: Tule River Tribe Reserved Water Rights Settlement Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

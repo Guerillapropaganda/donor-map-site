@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[DMFI - Democratic Majority for Israel]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2MD04232"
+bills-sponsored: 8
+bills-cosponsored: 386
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Glenn Ivey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 386 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (79)
+- Health (49)
+- Civil Rights and Liberties, Minority Issues (32)
+- Government Operations and Politics (27)
+- International Affairs (21)
+- Labor and Employment (20)
+- Education (19)
+- Armed Forces and National Security (17)
+- Agriculture and Food (16)
+- Finance and Financial Sector (13)
+
+**Recent bills sponsored:**
+
+- HR 9832: CONTRACTS Act of 2024
+- HR 9261: Continued Presence Improvement Act
+- HR 9154: Bankruptcy Administration Improvement Act of 2024
+- HR 7378: Frederick Douglass Congressional Gold Medal Act
+- HR 6231: H.R. 6231, Department of Homeland Security Policy Issuance Review Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

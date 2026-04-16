@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[ActBlue]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 6
+bills-cosponsored: 49
+bills-enacted: 0
+top-policy-area: "Civil Rights and Liberties, Minority Issues"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Katherine M. Clark
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 49 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Civil Rights and Liberties, Minority Issues (8)
+- Government Operations and Politics (7)
+- Health (6)
+- Families (5)
+- Crime and Law Enforcement (4)
+- International Affairs (4)
+- Education (3)
+- Finance and Financial Sector (2)
+- Animals (2)
+- Labor and Employment (2)
+
+**Recent bills sponsored:**
+
+- HR 9811: Child Care Infrastructure Act
+- HR 9810: Child Care Workforce Development Act
+- HR 9559: CCAMPIS Reauthorization Act
+- HR 8526: Trauma-Informed Schools Act of 2024
+- HR 8524: Elementary and Secondary School Counseling Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

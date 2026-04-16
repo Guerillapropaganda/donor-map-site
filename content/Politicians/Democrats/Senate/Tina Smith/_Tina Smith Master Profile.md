@@ -35,6 +35,10 @@ stock-trade-tickers:
 donors: "[[ActBlue]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S8MN00578"
+bills-sponsored: 70
+bills-cosponsored: 571
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -82,6 +86,39 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 07/26/2018 | IIN | Sale | $100,001 - $250,000 | Spouse |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 70 |
+| Bills Cosponsored | 571 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (131)
+- Agriculture and Food (60)
+- Education (47)
+- Taxation (34)
+- Government Operations and Politics (32)
+- Native Americans (28)
+- Crime and Law Enforcement (26)
+- Finance and Financial Sector (25)
+- Labor and Employment (24)
+- Civil Rights and Liberties, Minority Issues (21)
+
+**Recent bills sponsored:**
+
+- S 5626: A bill to modify the Federal share of operating costs for certain projects that receive grants under the Formula Gran...
+- S 5621: A bill to provide grants to States, Indian Tribes, and Tribal organizations for activities to increase the availabili...
+- S 5595: A bill to amend the Act of June 22, 1948.
+- S 5534: A bill to authorize a grant program for educational institutions to analyze, digitize, and map historic records relat...
+- S 5456: A bill to amend the Public Health Service Act to authorize rural residency planning and development grant programs, a...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

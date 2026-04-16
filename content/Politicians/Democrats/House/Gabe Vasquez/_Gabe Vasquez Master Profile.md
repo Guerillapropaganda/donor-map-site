@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 28
+bills-cosponsored: 276
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Gabe Vasquez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 276 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (39)
+- Health (38)
+- Agriculture and Food (33)
+- Taxation (24)
+- Crime and Law Enforcement (21)
+- Government Operations and Politics (17)
+- Native Americans (14)
+- Immigration (14)
+- Public Lands and Natural Resources (14)
+- Labor and Employment (12)
+
+**Recent bills sponsored:**
+
+- HR 9493: Las Cruces Bataan Memorial Clinic Act
+- HR 9301: New Mexico Rural Veteran Health Care Access Act
+- HR 9129: Patient Debt Relief Act
+- HR 8992: Stop Fentanyl at the Border Act
+- HR 8951: Zuni Indian Tribe Water Rights Settlement Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

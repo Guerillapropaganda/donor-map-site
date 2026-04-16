@@ -23,8 +23,8 @@ related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed M
 total-received: $689,298
 fec-candidate-id: H0CT03072
 govtrack-id: 400103
-bills-sponsored: 29
-bills-cosponsored: 179
+bills-sponsored: 45
+bills-cosponsored: 204
 website: https://delauro.house.gov
 phone: 202-225-3661
 last-enriched: "2026-04-11"
@@ -51,6 +51,8 @@ wikidata-id: Q434952
 wikipedia-url: https://en.wikipedia.org/wiki/Rosa_DeLauro
 wikipedia-extract: Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party.
 born: "1943-03-02"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -367,6 +369,39 @@ Rosa Luisa DeLauro is an American politician serving as the U.S. representative 
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Rosa_DeLauro) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q434952) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 204 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (46)
+- Labor and Employment (23)
+- Civil Rights and Liberties, Minority Issues (20)
+- Taxation (20)
+- Crime and Law Enforcement (17)
+- International Affairs (17)
+- Government Operations and Politics (13)
+- Education (11)
+- Agriculture and Food (11)
+- Armed Forces and National Security (7)
+
+**Recent bills sponsored:**
+
+- HR 10548: To amend the Internal Revenue Code of 1986 to protect children's health by denying any deduction for advertising and ...
+- HR 10526: To amend the Social Security Act to establish a Medicare for America health program to provide for comprehensive heal...
+- HR 10525: To facilitate efficient investments and financing of infrastructure projects and new job creation through the establi...
+- HR 10339: To amend title 40, United States Code, to establish a Southern New England Regional Commission, and for other purposes.
+- HR 9817: Toxic Free Food Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

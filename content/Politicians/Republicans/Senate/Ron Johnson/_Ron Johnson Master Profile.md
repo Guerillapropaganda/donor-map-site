@@ -19,6 +19,10 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 16
+bills-cosponsored: 125
+bills-enacted: 0
+top-policy-area: "Congress"
 ---
 
 <!-- auto:data-panel start -->
@@ -271,6 +275,39 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 125 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (18)
+- Government Operations and Politics (17)
+- International Affairs (13)
+- Education (11)
+- Crime and Law Enforcement (10)
+- Immigration (9)
+- Health (7)
+- Taxation (7)
+- Transportation and Public Works (6)
+- Finance and Financial Sector (5)
+
+**Recent bills sponsored:**
+
+- S 5608: A bill to reduce the size of the Federal workforce through attrition, and for other purposes.
+- S 5481: A bill to clarify that agencies of the Department of Health and Human Services do not have the authority to regulate ...
+- S 5158: Interstate Commerce Simplification Act of 2024
+- SRES 764: A resolution expressing support for the designation of July 2023 as "National Sarcoma Awareness Month".
+- S 4485: Midnight Rules Relief Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -50,6 +50,10 @@ editorial-result: ready-candidate
 editorial-notes: "Depth review 2026-04-10. Body NOT touched — central thesis ('CPC leverage is real in theory and paper-thin in practice') + Build Back Better case study + WA-7 Amazon contradiction are strong analytical frame. bioguide-id J000298 already set, Congress source-type present, FEC data present. FIXED (Research Claude): expanded committees to include Budget + flagged Antitrust Subcommittee former Chair role, added former-roles for CPC Chair 2021-2024, restructured issues to lead with Medicare for All (her signature) and immigration (her origin), expanded top-donors to acknowledge small-dollar / ActBlue pattern, added structured opposes (Amazon/Microsoft antitrust targets — the WA-7 contradiction the body describes), expanded related to include full Squad + CPC + relevant Big Tech targets, cleaned known-gaps (removed factually-wrong 'No mapped relationships' — 15+ wikilinks exist; removed 'No voting record data' in favor of specific 'GovTrack voting record not yet populated' phrasing so the janitor will catch it). REMOVED: body inline dataview 'donors: [[SEIU...]] [[CNA...]] [[ActBlue]]' per frontmatter-only rule. STAYS draft per tightened Vault Rules: GovTrack voting record missing, and BBB timeline + Amazon antitrust work need direct sourcing. Once GovTrack block lands and the BBB section is sourced, ready to promote to ready and flag verified-candidate. Not flagging needs-reenrichment since Congress data IS present — only GovTrack is missing, and the scheduled pipeline run will hit her on its normal rotation."
 donors: "[[United Food and Commercial Workers International Union Active Ballot Club]], [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]], [[Planned Parenthood Votes Northwest]], [[PLANNED PARENTHOOD VOTES NORTHWEST]], [[UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB]], [[WOMEN VOTE!]], [[Oneamerica Votes]], [[National Nurses United for Patient Protection]], [[ONEAMERICA VOTES]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 36
+bills-cosponsored: 541
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -293,6 +297,39 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 | 6397 | Dignity for Detained Immigrants Act | Referred to the Committee on the Judiciary, and in addition to the Committee on Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 541 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (85)
+- Crime and Law Enforcement (41)
+- Labor and Employment (38)
+- International Affairs (38)
+- Government Operations and Politics (37)
+- Civil Rights and Liberties, Minority Issues (36)
+- Education (28)
+- Immigration (28)
+- Taxation (27)
+- Agriculture and Food (19)
+
+**Recent bills sponsored:**
+
+- HRES 1604: A resolution recognizing the 40th year since the 1984 Bhopal chemical disaster and helping to ensure that no other co...
+- HRES 1588: A resolution supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of vio...
+- HR 9209: Workforce Opportunities for Communities in Recovery Act
+- HR 9156: Health Over Wealth Act
+- HRES 1318: Recognizing the Museum of Pop Culture in Seattle, Washington, as the "National Museum of Pop Culture".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

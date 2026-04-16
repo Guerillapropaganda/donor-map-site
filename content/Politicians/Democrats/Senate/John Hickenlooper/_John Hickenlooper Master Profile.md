@@ -42,8 +42,8 @@ known-gaps:
 donors: "[[NORPAC]], [[Brownstein Hyatt Farber Schreck]], [[FAIR SHARE ACTION]], [[SMP]], [[American Petroleum Institute]], [[Fossil Fuel Bloc]], [[NRSC]], [[Senate Leadership Fund]], [[ESAFUND]], [[Fair Share Action]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
 govtrack-id: 456797
-bills-sponsored: 106
-bills-cosponsored: 879
+bills-sponsored: 49
+bills-cosponsored: 330
 website: https://www.hickenlooper.senate.gov
 phone: 202-224-5941
 opensanctions-status: pep-sanctioned
@@ -63,6 +63,8 @@ committees:
 internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -465,6 +467,39 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 - [GovTrack: John Hickenlooper](https://www.govtrack.us/congress/members/456797) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 330 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (41)
+- International Affairs (28)
+- Armed Forces and National Security (28)
+- Public Lands and Natural Resources (22)
+- Civil Rights and Liberties, Minority Issues (21)
+- Labor and Employment (21)
+- Congress (19)
+- Science, Technology, Communications (19)
+- Energy (18)
+- Education (17)
+
+**Recent bills sponsored:**
+
+- S 5573: A bill to amend title 35, United States Code, to provide for a safe harbor from infringement of a method of use paten...
+- S 5404: Summit of the Americas Act
+- S 5401: Workforce Data Enhancement Act
+- S 5281: REPLACE Act
+- S 5251: Critical Materials Future Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

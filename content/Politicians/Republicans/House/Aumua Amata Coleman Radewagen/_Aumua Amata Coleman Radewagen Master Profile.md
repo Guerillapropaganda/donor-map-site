@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 5
+bills-cosponsored: 174
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Aumua Amata Coleman Radewagen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 5 |
+| Bills Cosponsored | 174 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (67)
+- Armed Forces and National Security (23)
+- Public Lands and Natural Resources (10)
+- Immigration (9)
+- Government Operations and Politics (7)
+- Finance and Financial Sector (6)
+- Health (6)
+- Agriculture and Food (6)
+- Environmental Protection (5)
+- Social Welfare (5)
+
+**Recent bills sponsored:**
+
+- HR 10236: To permanently extend the American Samoa economic development tax credit.
+- HR 6606: H.R. 6606, a bill to amend the Export Control Reform Act of 2018 relating to the statement of policy
+- HR 6061: To amend the Immigration and Nationality Act to waive certain naturalization requirements for United States nationals...
+- HR 6062: H.R. 6062, an act to restore the ability of the people of American Samoa to approve amendments to the territorial con...
+- HR 1792: H.R. 1792, South Pacific Tuna Treaty Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

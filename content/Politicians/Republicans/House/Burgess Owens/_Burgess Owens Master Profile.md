@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0UT04076"
+bills-sponsored: 17
+bills-cosponsored: 291
+bills-enacted: 0
+top-policy-area: "Education"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Burgess Owens
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 291 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Education (38)
+- International Affairs (35)
+- Crime and Law Enforcement (28)
+- Labor and Employment (23)
+- Government Operations and Politics (20)
+- Taxation (17)
+- Energy (16)
+- Armed Forces and National Security (15)
+- Transportation and Public Works (11)
+- Health (11)
+
+**Recent bills sponsored:**
+
+- HR 9167: Sanctuary City Oversight and Responsibility in Enforcement Act of 2024
+- HR 8761: Ensuring Distance Education Act
+- HR 8717: H.R. 8717, a bill to designate the facility of the United States Postal Service located at 20 West Main Street in San...
+- HR 7824: Preventing Child Trafficking Act of 2024
+- HR 7784: SALT Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

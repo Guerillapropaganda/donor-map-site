@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4UT02296"
+bills-sponsored: 17
+bills-cosponsored: 75
+bills-enacted: 1
+top-policy-area: "Public Lands and Natural Resources"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Celeste Maloy
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 75 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Public Lands and Natural Resources (16)
+- Health (10)
+- Environmental Protection (8)
+- Energy (7)
+- Agriculture and Food (6)
+- Government Operations and Politics (5)
+- Labor and Employment (4)
+- Water Resources Development (4)
+- Transportation and Public Works (3)
+- Commerce (3)
+
+**Enacted into law:**
+
+- HR 7779: Good Samaritan Remediation of Abandoned Hardrock Mines Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

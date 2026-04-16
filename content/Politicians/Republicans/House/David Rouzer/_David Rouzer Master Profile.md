@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NC07096"
+bills-sponsored: 22
+bills-cosponsored: 339
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # David Rouzer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 339 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (39)
+- Agriculture and Food (33)
+- Taxation (29)
+- Health (29)
+- Crime and Law Enforcement (24)
+- Transportation and Public Works (19)
+- Government Operations and Politics (19)
+- Environmental Protection (18)
+- Education (17)
+- Armed Forces and National Security (16)
+
+**Recent bills sponsored:**
+
+- HR 9750: Disaster Management Costs Modernization Act
+- HRES 1451: Honoring the the American Kennel Club on its 140th anniversary.
+- HRES 1157: Recognizing linemen, the profession of linemen, the contributions of these brave men and women who protect public saf...
+- HR 7479: CONTAINER Act
+- HRES 1012: A resolution condemning the treatment of Dr. Gubad Ibadoghlu by the Government of Azerbaijan and urging his immediate...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

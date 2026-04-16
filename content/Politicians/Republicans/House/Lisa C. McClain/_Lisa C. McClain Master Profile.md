@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 187
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lisa C. McClain
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 187 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (26)
+- Education (24)
+- Government Operations and Politics (19)
+- Health (19)
+- Armed Forces and National Security (15)
+- Taxation (14)
+- Finance and Financial Sector (12)
+- Crime and Law Enforcement (11)
+- Congress (10)
+- Immigration (9)
+
+**Enacted into law:**
+
+- HR 8276: Reuse Excess Property Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

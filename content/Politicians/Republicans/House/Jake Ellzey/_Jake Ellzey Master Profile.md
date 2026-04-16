@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 3
+bills-cosponsored: 274
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,35 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jake Ellzey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 3 |
+| Bills Cosponsored | 274 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (34)
+- Armed Forces and National Security (27)
+- Government Operations and Politics (25)
+- Health (23)
+- Crime and Law Enforcement (19)
+- Immigration (18)
+- Taxation (17)
+- Finance and Financial Sector (11)
+- Agriculture and Food (11)
+- Environmental Protection (10)
+
+**Recent bills sponsored:**
+
+- HR 6591: H.R. 6591, Encouraging Success Act
+- HR 6378: To permit the remains of any Medal of Honor recipient to lie in honor in the rotunda of the United States Capitol, an...
+- HRES 747: A resolution supporting the goals and ideals of Red Ribbon Week during the period of October 23 through October 31, 2...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

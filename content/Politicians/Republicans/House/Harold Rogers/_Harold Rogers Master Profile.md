@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0KY05015"
+bills-sponsored: 9
+bills-cosponsored: 79
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Harold Rogers
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 9 |
+| Bills Cosponsored | 79 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (17)
+- Crime and Law Enforcement (10)
+- International Affairs (9)
+- Finance and Financial Sector (6)
+- Taxation (6)
+- Government Operations and Politics (5)
+- Congress (3)
+- Economics and Public Finance (3)
+- Labor and Employment (3)
+- Energy (2)
+
+**Recent bills sponsored:**
+
+- HR 10016: Kentucky Wildlands National Heritage Area Act
+- HR 9026: Commerce, Justice, Science, and Related Agencies Appropriations Act, 2025
+- HR 8324: A bill to designate the United States courthouse annex located at 310 South Main Street in London, Kentucky, as the "...
+- HR 6644: John White Ensuring Timely Black Lung Benefits Act
+- HR 5893: Commerce, Justice, Science, and Related Agencies Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

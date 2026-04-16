@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 29
+bills-cosponsored: 241
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Norma J. Torres
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 241 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (40)
+- Government Operations and Politics (33)
+- International Affairs (30)
+- Armed Forces and National Security (25)
+- Crime and Law Enforcement (22)
+- Civil Rights and Liberties, Minority Issues (15)
+- Arts, Culture, Religion (12)
+- Labor and Employment (10)
+- Taxation (8)
+- Finance and Financial Sector (7)
+
+**Recent bills sponsored:**
+
+- HR 9887: Native American Seeds Act of 2024
+- HR 9669: Student Food Security Act of 2024
+- HRES 1414: Expressing support for the recognition of August 13th through August 19, 2023, as "Warehouse Worker Recognition Week"...
+- HRES 1408: Recognizing August 1, National Night Out, the national coming together of Americans all over the Nation to unite and ...
+- HR 8747: Asbestos Exposure in Housing Reduction Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

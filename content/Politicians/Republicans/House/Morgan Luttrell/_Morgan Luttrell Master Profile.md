@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2TX08182"
+bills-sponsored: 21
+bills-cosponsored: 148
+bills-enacted: 2
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Morgan Luttrell
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 148 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (37)
+- Immigration (26)
+- Crime and Law Enforcement (23)
+- International Affairs (20)
+- Government Operations and Politics (16)
+- Health (5)
+- Congress (5)
+- Transportation and Public Works (4)
+- Finance and Financial Sector (3)
+- Taxation (3)
+
+**Enacted into law:**
+
+- HR 6507: Mark Our Place Act
+- HR 1529: Veterans' COLA Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

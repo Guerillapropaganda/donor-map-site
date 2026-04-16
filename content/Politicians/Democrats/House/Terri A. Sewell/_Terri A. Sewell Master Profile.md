@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 17
+bills-cosponsored: 592
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Terri A. Sewell
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 592 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (206)
+- Taxation (61)
+- Education (43)
+- Crime and Law Enforcement (42)
+- Civil Rights and Liberties, Minority Issues (32)
+- Government Operations and Politics (27)
+- Armed Forces and National Security (26)
+- International Affairs (24)
+- Agriculture and Food (19)
+- Labor and Employment (16)
+
+**Recent bills sponsored:**
+
+- HR 10129: To direct the Secretary of Defense to establish a pilot program regarding treating pregnancy as a qualifying event fo...
+- HR 9708: Bridge to Medicaid Act of 2024
+- HR 8396: LIFT Act
+- HR 7893: H.R. 7893, an act to designate the facility of the United States Postal Service located at 306 Pickens Street in Mari...
+- HR 7506: SMART Save Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -34,6 +34,10 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koc
 bioguide-id: S001213
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 31
+bills-cosponsored: 166
+bills-enacted: 2
+top-policy-area: "Finance and Financial Sector"
 ---
 
 <!-- auto:data-panel start -->
@@ -265,6 +269,36 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 166 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (34)
+- International Affairs (21)
+- Government Operations and Politics (19)
+- Taxation (18)
+- Health (16)
+- Crime and Law Enforcement (11)
+- Armed Forces and National Security (11)
+- Congress (10)
+- Agriculture and Food (8)
+- Labor and Employment (7)
+
+**Enacted into law:**
+
+- HR 5734: A bill to amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain repor...
+- HR 3196: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

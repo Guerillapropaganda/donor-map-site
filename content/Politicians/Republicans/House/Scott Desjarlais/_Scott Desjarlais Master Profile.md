@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0TN04195"
+bills-sponsored: 4
+bills-cosponsored: 146
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,36 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Scott Desjarlais
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 146 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (21)
+- International Affairs (16)
+- Crime and Law Enforcement (14)
+- Education (14)
+- Health (12)
+- Government Operations and Politics (11)
+- Taxation (11)
+- Finance and Financial Sector (9)
+- Immigration (6)
+- Agriculture and Food (5)
+
+**Recent bills sponsored:**
+
+- HR 2648: Protecting Horses from Soring Act of 2023
+- HR 1210: Stop Fentanyl Border Crossings Act
+- HR 1211: Student Loan Accountability Act
+- HJRES 35: Proposing an amendment to the Constitution of the United States to require individuals to demonstrate cognitive compe...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

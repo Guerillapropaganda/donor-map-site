@@ -30,6 +30,10 @@ known-gaps:
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]]"
 donors: "[[Republican Jewish Coalition]], [[Center Forward Committee]], [[DMFI PAC]], [[NORTH STAR DAWN PAC]], [[CLEAR VOICE MINNESOTA]], [[BLUE MAJORITY PROJECT]], [[Clear Voice Minnesota]], [[North Star Dawn PAC]], [[Blue Majority Project]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 29
+bills-cosponsored: 543
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -196,3 +200,37 @@ party:: Democrat
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 543 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (144)
+- Armed Forces and National Security (44)
+- Crime and Law Enforcement (41)
+- Agriculture and Food (40)
+- Taxation (40)
+- Government Operations and Politics (29)
+- Education (27)
+- International Affairs (25)
+- Transportation and Public Works (23)
+- Labor and Employment (22)
+
+**Recent bills sponsored:**
+
+- HR 9621: 21st Century Workforce Partnerships Act
+- HR 8918: Cooper Davis Act
+- HR 8584: Stop Fraud in Federal Programs Act of 2024
+- HR 8493: Task Force to Stop Price Gouging Act of 2024
+- HRES 1245: Recognizing "National Public Works Week".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

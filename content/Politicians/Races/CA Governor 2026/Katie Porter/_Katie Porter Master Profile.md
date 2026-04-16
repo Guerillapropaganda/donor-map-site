@@ -15,8 +15,8 @@ bioguide-id: "P000618"
 govtrack-id: 412758
 fec-candidate-id: "S4CA00522"
 fec-candidate-id-house: "H8CA45130"
-bills-sponsored: 174
-bills-cosponsored: 1848
+bills-sponsored: 85
+bills-cosponsored: 762
 issues:
   - "Armed Forces and National Security"
   - "Arts, Culture, Religion"
@@ -68,6 +68,8 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
   • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -343,6 +345,35 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 - [GovTrack: Katie Porter](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 85 |
+| Bills Cosponsored | 762 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (118)
+- Government Operations and Politics (87)
+- International Affairs (69)
+- Crime and Law Enforcement (49)
+- Education (48)
+- Taxation (48)
+- Armed Forces and National Security (40)
+- Agriculture and Food (39)
+- Civil Rights and Liberties, Minority Issues (36)
+- Labor and Employment (34)
+
+**Enacted into law:**
+
+- HR 2618: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

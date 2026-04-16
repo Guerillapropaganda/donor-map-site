@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 19
+bills-cosponsored: 152
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Robert E. Latta
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 152 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (24)
+- Energy (21)
+- Crime and Law Enforcement (20)
+- International Affairs (14)
+- Environmental Protection (14)
+- Armed Forces and National Security (13)
+- Taxation (11)
+- Science, Technology, Communications (9)
+- Government Operations and Politics (9)
+- Finance and Financial Sector (6)
+
+**Recent bills sponsored:**
+
+- HR 10321: To amend the definition of "production facility" in the Atomic Energy Act of 1954 to exclude an equipment or device c...
+- HR 9083: SECURE Grid Act
+- HJRES 153: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+- HR 7589: ROUTERS Act
+- HR 5718: Nuclear Fuel Security Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

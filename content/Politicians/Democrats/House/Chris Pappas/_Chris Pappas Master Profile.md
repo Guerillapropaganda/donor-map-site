@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6NH00141"
+bills-sponsored: 41
+bills-cosponsored: 542
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Chris Pappas
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 542 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (126)
+- Armed Forces and National Security (78)
+- International Affairs (62)
+- Crime and Law Enforcement (40)
+- Taxation (29)
+- Government Operations and Politics (29)
+- Transportation and Public Works (23)
+- Agriculture and Food (21)
+- Civil Rights and Liberties, Minority Issues (17)
+- Education (14)
+
+**Recent bills sponsored:**
+
+- HRES 1614: Expressing support for the recognition of December 2024 as "National Impaired Driving Prevention Month", and promotin...
+- HRES 1557: Expressing support for the designation of October 28 as "Oxi Day" to commemorate the anniversary of Greek Prime Minis...
+- HR 9734: SERVE Act
+- HR 9636: To allow States to require payment of State fees related to boating as a condition for issuance of a vessel number an...
+- HR 9481: Improving Coordination for the Northern Border Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8IL14174"
+bills-sponsored: 29
+bills-cosponsored: 226
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lauren Underwood
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 226 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (69)
+- Crime and Law Enforcement (22)
+- Armed Forces and National Security (20)
+- Government Operations and Politics (19)
+- Civil Rights and Liberties, Minority Issues (14)
+- Agriculture and Food (13)
+- Labor and Employment (13)
+- Taxation (13)
+- Education (9)
+- International Affairs (5)
+
+**Recent bills sponsored:**
+
+- HR 10131: Health Coverage for IVF Act of 2024
+- HR 9774: Health Care Affordability Act of 2024
+- HR 9773: Copay Fairness for Veterans Act
+- HR 9232: Residential Recovery for Seniors Act
+- HR 9133: Primary and Behavioral Health Care Access Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

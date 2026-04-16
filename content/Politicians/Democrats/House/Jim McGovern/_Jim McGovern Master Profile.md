@@ -15,8 +15,8 @@ leadership-roles:
   - "Ranking Member"
 bioguide-id: "M000312"
 govtrack-id: 400263
-bills-sponsored: 30
-bills-cosponsored: 431
+bills-sponsored: 23
+bills-cosponsored: 798
 born: "1959-11-20"
 wikidata-id: "Q1337459"
 source-types:
@@ -58,6 +58,8 @@ issues:
   - "Health"
   - "Housing and Community Development"
   - "Immigration"
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -357,6 +359,35 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 - [Source: Congress.gov](https://www.congress.gov/member/F000485) (Tier 1)
 <!-- auto:committee-assignments end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 798 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (116)
+- Health (108)
+- Agriculture and Food (54)
+- Armed Forces and National Security (46)
+- Immigration (45)
+- Government Operations and Politics (43)
+- Crime and Law Enforcement (42)
+- Labor and Employment (40)
+- Taxation (40)
+- Civil Rights and Liberties, Minority Issues (37)
+
+**Enacted into law:**
+
+- HR 533: Promoting a Resolution to the Tibet-China Dispute Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

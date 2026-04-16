@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6MD07020"
+bills-sponsored: 15
+bills-cosponsored: 322
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kweisi Mfume
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 322 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (50)
+- Crime and Law Enforcement (43)
+- Government Operations and Politics (39)
+- Civil Rights and Liberties, Minority Issues (27)
+- Labor and Employment (19)
+- Education (18)
+- Armed Forces and National Security (16)
+- International Affairs (16)
+- Commerce (15)
+- Agriculture and Food (12)
+
+**Recent bills sponsored:**
+
+- HR 10231: Justice Thurgood Marshall National Historic Site Establishment Act of 2024
+- HR 9544: A bill to designate the facility of the United States Postal Service located at 340 South Loudon Avenue in Baltimore,...
+- HR 8014: H.R. 8014 Transparency and Predictability in Small Business Opportunities Act
+- HR 7961: Baltimore BRIDGE Relief Act
+- HR 6826: A bill to designate the visitor and education center at Fort McHenry National Monument and Historic Shrine as the "Pa...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

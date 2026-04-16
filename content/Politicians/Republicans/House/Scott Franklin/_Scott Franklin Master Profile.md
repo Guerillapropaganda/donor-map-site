@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0FL15104"
+bills-sponsored: 22
+bills-cosponsored: 287
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Scott Franklin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 287 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (36)
+- Armed Forces and National Security (31)
+- Government Operations and Politics (31)
+- Health (25)
+- Agriculture and Food (21)
+- Crime and Law Enforcement (21)
+- Finance and Financial Sector (14)
+- Immigration (14)
+- Taxation (13)
+- Education (13)
+
+**Recent bills sponsored:**
+
+- HR 9498: TAME Extreme Weather Act
+- HR 9146: Ensuring Continuity in Veterans Health Act
+- HR 8206: A bill to prohibit Big Cypress National Preserve from being designated as wilderness or as a component of the Nationa...
+- HJRES 135: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 7734: VA Political Performance Disclosure Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

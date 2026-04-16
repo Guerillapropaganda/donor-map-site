@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NV04011"
+bills-sponsored: 27
+bills-cosponsored: 373
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Steven Horsford
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 373 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (58)
+- Armed Forces and National Security (52)
+- Crime and Law Enforcement (32)
+- Civil Rights and Liberties, Minority Issues (27)
+- Taxation (25)
+- International Affairs (24)
+- Labor and Employment (19)
+- Government Operations and Politics (19)
+- Finance and Financial Sector (15)
+- Education (14)
+
+**Recent bills sponsored:**
+
+- HR 10307: TOTAL Care Act
+- HR 9831: Dependent Income Exclusion Act of 2024
+- HRES 1500: Censuring Representative Glen Clay Higgins of the 3rd Congressional District of Louisiana.
+- HR 9784: HUNTER Act of 2024
+- HR 9624: No Tax on Tips Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

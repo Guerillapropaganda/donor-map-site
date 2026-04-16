@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 17
+bills-cosponsored: 204
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Laurel M. Lee
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 204 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (38)
+- Government Operations and Politics (27)
+- Health (23)
+- International Affairs (15)
+- Armed Forces and National Security (15)
+- Taxation (12)
+- Finance and Financial Sector (10)
+- Agriculture and Food (10)
+- Immigration (10)
+- Education (7)
+
+**Enacted into law:**
+
+- HR 5082: REPORT Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

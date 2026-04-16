@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0AR03055"
+bills-sponsored: 10
+bills-cosponsored: 149
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Steve Womack
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 149 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (22)
+- Taxation (18)
+- Armed Forces and National Security (13)
+- Health (13)
+- Finance and Financial Sector (10)
+- Crime and Law Enforcement (9)
+- Labor and Employment (8)
+- Energy (7)
+- Economics and Public Finance (6)
+- Transportation and Public Works (6)
+
+**Enacted into law:**
+
+- HCONRES 94: Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

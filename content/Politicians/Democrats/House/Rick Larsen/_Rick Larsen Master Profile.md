@@ -32,8 +32,8 @@ donors: "[[IBEW - International Brotherhood of Electrical Workers]], [[Boeing]],
 total-received: $1,185,411
 fec-candidate-id: H0WA02080
 govtrack-id: 400232
-bills-sponsored: 8
-bills-cosponsored: 187
+bills-sponsored: 17
+bills-cosponsored: 305
 website: https://larsen.house.gov
 phone: 202-225-2605
 related: "[[_Sam Graves Master Profile|Graves]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Boeing]]"
@@ -42,6 +42,8 @@ reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
 bioguide-id: L000560
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -352,6 +354,39 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 | 2860 | Northwest Straits Marine Conservation Initiative Reauthorization Act of 2025 | Placed on the Union Calendar, Calendar No. 376. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 305 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (43)
+- Health (39)
+- International Affairs (26)
+- Crime and Law Enforcement (22)
+- Government Operations and Politics (21)
+- Civil Rights and Liberties, Minority Issues (19)
+- Transportation and Public Works (18)
+- Taxation (13)
+- Agriculture and Food (12)
+- Labor and Employment (12)
+
+**Recent bills sponsored:**
+
+- HR 10185: To provide authority to contribute to the NATO Innovation Fund.
+- HR 10047: Closing the Substance Use Care Gap Act of 2024
+- HR 9903: Next Generation Military Education Act
+- HR 9871: End Fentanyl Trafficking with Local Task Forces Act of 2024
+- HR 9406: Summer Meals Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

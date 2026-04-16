@@ -23,6 +23,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 top-donors: "[[MISLOVE, ALAN EDWARD]], [[Mislove, Alan Edward]]"
 donors: "[[Mislove, Alan Edward]], [[MISLOVE, ALAN EDWARD]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 75
+bills-cosponsored: 333
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 #michael-bennet #senator #colorado #education #reform #moderate #class-analysis #democrat
 tags: #democrat
@@ -185,6 +189,39 @@ Bennet represents the education reform pipeline operating at scale. Billionaire 
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 75 |
+| Bills Cosponsored | 333 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (61)
+- International Affairs (32)
+- Armed Forces and National Security (28)
+- Taxation (27)
+- Civil Rights and Liberties, Minority Issues (24)
+- Government Operations and Politics (24)
+- Agriculture and Food (24)
+- Public Lands and Natural Resources (22)
+- Congress (19)
+- Education (19)
+
+**Recent bills sponsored:**
+
+- S 5546: A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide funding for innovations in communit...
+- S 5369: Carbon Dioxide Removal Investment Act
+- SRES 895: A resolution recognizing the first commemoration of the anti-LGBTQ+ attack that occurred on November 19-20, 2022, at ...
+- S 5254: Child Care for American Families Act
+- S 5192: Gold King Mine Spill Compensation Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

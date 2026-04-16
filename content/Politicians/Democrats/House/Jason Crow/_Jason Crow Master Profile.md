@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CO06229"
+bills-sponsored: 40
+bills-cosponsored: 445
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jason Crow
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 40 |
+| Bills Cosponsored | 445 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (85)
+- Armed Forces and National Security (70)
+- International Affairs (57)
+- Crime and Law Enforcement (51)
+- Government Operations and Politics (25)
+- Taxation (22)
+- Labor and Employment (18)
+- Civil Rights and Liberties, Minority Issues (15)
+- Education (13)
+- Agriculture and Food (13)
+
+**Recent bills sponsored:**
+
+- HR 10449: To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide funding for innovations in community polic...
+- HRES 1606: Honoring the 5th anniversary of the United States Space Force.
+- HR 10274: POD Act of 2024
+- HR 10211: CLEAR Act of 2024
+- HR 10102: SIGAR Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 40
+bills-cosponsored: 572
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Danny K. Davis
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 40 |
+| Bills Cosponsored | 572 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Taxation (64)
+- Education (56)
+- Crime and Law Enforcement (53)
+- Civil Rights and Liberties, Minority Issues (47)
+- Labor and Employment (35)
+- Government Operations and Politics (34)
+- International Affairs (31)
+- Armed Forces and National Security (29)
+- Agriculture and Food (16)
+
+**Recent bills sponsored:**
+
+- HR 10478: To ensure that foster children are able to use their Social Security benefits, Supplemental Security Income benefits,...
+- HRES 1495: Expressing support for the designation of September 2023 as "Sickle Cell Disease Awareness Month" in order to educate...
+- HR 9691: Julius Rosenwald and Rosenwald Schools National Historical Park Act
+- HR 8885: Partnership Grants to Strengthen Families Affected by Parental Substance Use Disorder Act of 2024
+- HR 8799: Supporting America’s Children and Families Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

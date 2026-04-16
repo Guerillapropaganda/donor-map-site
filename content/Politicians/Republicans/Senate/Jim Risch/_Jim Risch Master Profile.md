@@ -33,6 +33,10 @@ reenrich-reason: re-run congress pipeline
 bioguide-id: R000584
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 62
+bills-cosponsored: 431
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -227,6 +231,39 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 62 |
+| Bills Cosponsored | 431 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (82)
+- Health (32)
+- Crime and Law Enforcement (30)
+- Armed Forces and National Security (28)
+- Public Lands and Natural Resources (26)
+- Energy (26)
+- Environmental Protection (25)
+- Government Operations and Politics (22)
+- Taxation (22)
+- Congress (21)
+
+**Recent bills sponsored:**
+
+- S 5421: A bill to provide enhanced provisions for advanced nuclear energy projects receiving loan guarantees through the Depa...
+- S 5303: Stand with Israel Act
+- S 5224: Modern Firearm Safety Act
+- S 5131: Blocking Bad Batteries Act
+- S 5003: VALOR Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

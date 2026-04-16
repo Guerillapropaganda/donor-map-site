@@ -25,6 +25,10 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 20
+bills-cosponsored: 351
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -273,6 +277,35 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 351 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (49)
+- Health (45)
+- International Affairs (30)
+- Taxation (25)
+- Finance and Financial Sector (23)
+- Environmental Protection (22)
+- Congress (20)
+- Crime and Law Enforcement (19)
+- Education (16)
+- Agriculture and Food (15)
+
+**Enacted into law:**
+
+- S 788: Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

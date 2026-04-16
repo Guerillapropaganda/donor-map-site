@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CA49074"
+bills-sponsored: 27
+bills-cosponsored: 457
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sara Jacobs
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 457 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (66)
+- International Affairs (53)
+- Armed Forces and National Security (49)
+- Government Operations and Politics (40)
+- Civil Rights and Liberties, Minority Issues (35)
+- Crime and Law Enforcement (32)
+- Education (24)
+- Agriculture and Food (18)
+- Labor and Employment (17)
+- Immigration (16)
+
+**Enacted into law:**
+
+- HR 5330: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

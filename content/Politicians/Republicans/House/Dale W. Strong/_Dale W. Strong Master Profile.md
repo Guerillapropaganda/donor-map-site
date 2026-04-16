@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 14
+bills-cosponsored: 120
+bills-enacted: 1
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Dale W. Strong
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 120 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (14)
+- Crime and Law Enforcement (13)
+- International Affairs (12)
+- Armed Forces and National Security (11)
+- Immigration (10)
+- Health (9)
+- Taxation (8)
+- Finance and Financial Sector (8)
+- Education (5)
+- Agriculture and Food (5)
+
+**Enacted into law:**
+
+- HR 7177: H.R. 7177, a bill to amend title 28, United States Code, to consolidate certain divisions in the Northern District of...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

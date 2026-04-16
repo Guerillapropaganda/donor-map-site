@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2TX01112"
+bills-sponsored: 21
+bills-cosponsored: 224
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Nathaniel Moran
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 224 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (37)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (22)
+- Health (18)
+- Education (17)
+- Taxation (16)
+- Immigration (15)
+- Armed Forces and National Security (11)
+- Labor and Employment (10)
+- Environmental Protection (8)
+
+**Recent bills sponsored:**
+
+- HRES 1572: Honoring the selfless acts of adoption, fostering, and unconditional love by Bishop W.C. Martin, First Lady Donna Mar...
+- HR 9440: SEAS Act of 2024
+- HR 9221: RESTORE Patent Rights Act of 2024
+- HRES 1285: Condemning the pro-abortion policies of the Biden administration.
+- HR 8050: Supporting Parents in Education Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

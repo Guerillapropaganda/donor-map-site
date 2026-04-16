@@ -46,6 +46,10 @@ bioguide-id: C001087
 top-donors: "[[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[AMERICANS FOR JOB SECURITY]], [[REVERE AMERICA]], [[Revere America]], [[Americans for Job Security]]"
 donors: "[[Revere America]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[AMERICANS FOR JOB SECURITY]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[REVERE AMERICA]], [[Americans for Job Security]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 23
+bills-cosponsored: 201
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -292,6 +296,39 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 | 5167 | Intelligence Authorization Act for Fiscal Year 2026 | Placed on the Union Calendar, Calendar No. 339. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 201 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (22)
+- Agriculture and Food (19)
+- Crime and Law Enforcement (17)
+- Taxation (16)
+- Finance and Financial Sector (15)
+- Government Operations and Politics (15)
+- Health (13)
+- International Affairs (13)
+- Immigration (11)
+- Transportation and Public Works (11)
+
+**Recent bills sponsored:**
+
+- HCONRES 120: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the unveiling of the...
+- HR 8475: Explosive Ordnance Disposal Brain Health and Suicide Report Act of 2024
+- HR 8473: Total Army Analysis Explosive Ordnance Disposal Domestic Response Act of 2024
+- HR 8476: Department of the Army’s Explosive Ordnance Disposal Enterprise Act of 2024
+- HR 8474: Explosive Ordnance Disposal Incentive Pay Improvement Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

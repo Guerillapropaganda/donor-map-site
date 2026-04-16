@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 34
+bills-cosponsored: 259
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Tony Gonzales
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 259 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (38)
+- Crime and Law Enforcement (38)
+- Immigration (33)
+- Armed Forces and National Security (32)
+- Government Operations and Politics (24)
+- Health (19)
+- Taxation (14)
+- Finance and Financial Sector (11)
+- Education (9)
+- Agriculture and Food (8)
+
+**Enacted into law:**
+
+- HR 786: Improving Access to Our Courts Act
+- HR 5538: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

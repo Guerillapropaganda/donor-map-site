@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 4
+bills-cosponsored: 285
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,36 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Gabe Amo
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 285 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (40)
+- International Affairs (40)
+- Crime and Law Enforcement (31)
+- Armed Forces and National Security (26)
+- Civil Rights and Liberties, Minority Issues (20)
+- Government Operations and Politics (19)
+- Labor and Employment (14)
+- Finance and Financial Sector (12)
+- Taxation (10)
+- Education (9)
+
+**Recent bills sponsored:**
+
+- HRES 1622: Emphasizing the importance and power of distributed ledger technologies (DLT) to support democratic governance, human...
+- HR 10384: To amend the Omnibus Crime Control and Safe Streets Act of 1968 with respect to eligibility under the Edward Byrne Me...
+- HR 10035: Blue Economy and Innovation Act
+- HR 8568: First Rhode Island Regiment Congressional Gold Medal Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

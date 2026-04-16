@@ -19,8 +19,8 @@ total-received: $2,658,242
 fec-candidate-id: S0NH00219
 bioguide-id: S001181
 govtrack-id: 412323
-bills-sponsored: 77
-bills-cosponsored: 409
+bills-sponsored: 96
+bills-cosponsored: 463
 website: https://www.shaheen.senate.gov
 phone: 202-224-2841
 source-types:
@@ -34,6 +34,8 @@ last-enriched: "2026-04-09"
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Chris Coons Master Profile|Chris Coons]] · [[Martin Heinrich]]"
 donors: "[[Independent Leadership for New Hampshire PAC]], [[INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC]], [[ENDING SPENDING ACTION FUND]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[National Republican Senatorial Committee]], [[AMERICAN CROSSROADS]], [[COUNCIL FOR AMERICAN JOB GROWTH]], [[BAE Systems]], [[Northrop Grumman]], [[Defense Industry]], [[American Crossroads]], [[Council for American Job Growth]]"
 urls-first-triaged: "2026-04-15"
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -319,6 +321,36 @@ party:: Democrat
 
 ### Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 96 |
+| Bills Cosponsored | 463 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (79)
+- Health (79)
+- Armed Forces and National Security (54)
+- Crime and Law Enforcement (35)
+- Taxation (31)
+- Government Operations and Politics (26)
+- Education (24)
+- Commerce (23)
+- Agriculture and Food (20)
+- Congress (20)
+
+**Enacted into law:**
+
+- S 4564: To designate the facility of the United States Postal Service located at 50 East Derry Road in East Derry, New Hampsh...
+- S 3339: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

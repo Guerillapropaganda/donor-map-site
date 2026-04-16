@@ -41,6 +41,10 @@ reenrich-reason: re-run fec pipeline
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bioguide-id: K000367
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 153
+bills-cosponsored: 644
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -336,6 +340,36 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 153 |
+| Bills Cosponsored | 644 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (133)
+- Crime and Law Enforcement (75)
+- Government Operations and Politics (55)
+- Taxation (49)
+- Agriculture and Food (43)
+- Education (43)
+- Armed Forces and National Security (39)
+- International Affairs (36)
+- Congress (33)
+- Commerce (30)
+
+**Enacted into law:**
+
+- S 1752: FAA Reauthorization Act of 2024
+- S 66: NOTAM Improvement Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0IL05096"
+bills-sponsored: 13
+bills-cosponsored: 455
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Quigley
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 455 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (81)
+- International Affairs (73)
+- Crime and Law Enforcement (44)
+- Civil Rights and Liberties, Minority Issues (27)
+- Government Operations and Politics (25)
+- Armed Forces and National Security (25)
+- Taxation (22)
+- Immigration (21)
+- Environmental Protection (19)
+- Education (15)
+
+**Recent bills sponsored:**
+
+- HR 10235: Flood Mapping Modernization and Homeowner Empowerment Pilot Program Act of 2024
+- HR 8640: National Interagency Seed and Restoration Center Establishment Act
+- HR 8597: Cameras in the Courtroom Act
+- HRES 1264: A resolution designating May 2023 as "National Brain Tumor Awareness Month".
+- HR 7460: A bill to designate the area of Sumner Row between 16th Street Northwest and L Street Northwest in Washington, Distri...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

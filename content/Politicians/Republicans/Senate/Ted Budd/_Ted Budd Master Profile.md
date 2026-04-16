@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 42
+bills-cosponsored: 416
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -43,3 +47,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ted Budd
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 42 |
+| Bills Cosponsored | 416 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (48)
+- International Affairs (41)
+- Immigration (33)
+- Armed Forces and National Security (32)
+- Crime and Law Enforcement (30)
+- Government Operations and Politics (29)
+- Finance and Financial Sector (29)
+- Taxation (26)
+- Education (24)
+- Congress (24)
+
+**Enacted into law:**
+
+- S 711: Working Dog Commemorative Coin Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

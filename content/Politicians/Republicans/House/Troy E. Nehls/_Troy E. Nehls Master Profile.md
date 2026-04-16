@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 33
+bills-cosponsored: 361
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Troy E. Nehls
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 33 |
+| Bills Cosponsored | 361 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (47)
+- Government Operations and Politics (40)
+- Transportation and Public Works (35)
+- Immigration (35)
+- International Affairs (30)
+- Energy (29)
+- Health (23)
+- Armed Forces and National Security (20)
+- Taxation (17)
+- Environmental Protection (17)
+
+**Recent bills sponsored:**
+
+- HR 9574: Stop CARB Act of 2024
+- HR 9047: Strengthening Child Exploitation Enforcement Act
+- HR 9015: Justice for Jocelyn Act
+- HR 8996: Railway Safety Act of 2023
+- HR 8692: H.R. 8692, The Amtrak Transparency and Accountability for Passengers and Taxpayer Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

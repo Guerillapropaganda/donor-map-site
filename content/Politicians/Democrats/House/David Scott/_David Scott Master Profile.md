@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2GA13012"
+bills-sponsored: 16
+bills-cosponsored: 270
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # David Scott
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 270 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (46)
+- Crime and Law Enforcement (32)
+- Civil Rights and Liberties, Minority Issues (29)
+- Finance and Financial Sector (22)
+- Government Operations and Politics (19)
+- Education (19)
+- International Affairs (17)
+- Agriculture and Food (13)
+- Armed Forces and National Security (13)
+- Taxation (10)
+
+**Recent bills sponsored:**
+
+- HR 10439: To amend the Public Health Service Act to expand research and education with respect to endometrial cancer, and for o...
+- HRES 1580: Supporting the designation of July as Uterine Fibroids Awareness Month.
+- HR 9739: Jobs, On-the-Job Earn-While-You-Learn Training, and Apprenticeships for Young African-Americans Act
+- HRES 1418: Supporting the designation of March 2023 as Endometriosis Awareness Month.
+- HRES 1384: Recognizing the seriousness of polycystic ovary syndrome (PCOS) and expressing support for the designation of the mon...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

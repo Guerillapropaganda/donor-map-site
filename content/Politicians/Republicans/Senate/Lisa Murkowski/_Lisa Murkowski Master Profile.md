@@ -31,6 +31,10 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
   • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 39
+bills-cosponsored: 294
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -226,6 +230,39 @@ Murkowski genuinely supports climate science, sits on the Climate Solutions Cauc
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 294 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (65)
+- Armed Forces and National Security (38)
+- International Affairs (29)
+- Native Americans (25)
+- Energy (17)
+- Congress (16)
+- Public Lands and Natural Resources (16)
+- Crime and Law Enforcement (13)
+- Finance and Financial Sector (12)
+- Taxation (12)
+
+**Recent bills sponsored:**
+
+- S 5081: Arctic Research and Policy Amendments Act of 2024
+- SRES 797: A resolution designating August 16, 2023, as "National Airborne Day".
+- S 4974: A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to reauthorize the National Vol...
+- S 4591: A bill to permanently authorize the exemption of aliens working as fish processors from the numerical limitation on H...
+- S 4573: To extend the obligation deadline of funds made available to recipients under the American Rescue Plan Act for the pu...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

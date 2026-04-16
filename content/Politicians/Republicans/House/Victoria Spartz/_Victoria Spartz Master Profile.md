@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0IN05326"
+bills-sponsored: 13
+bills-cosponsored: 122
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Victoria Spartz
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 122 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (26)
+- Crime and Law Enforcement (14)
+- Health (13)
+- Finance and Financial Sector (11)
+- Immigration (11)
+- Taxation (7)
+- Government Operations and Politics (7)
+- Economics and Public Finance (6)
+- Armed Forces and National Security (5)
+- Congress (5)
+
+**Recent bills sponsored:**
+
+- HR 9775: To designate the facility of the United States Postal Service located at 119 North Anderson Street in Elwood, Indiana...
+- HR 6927: Debt Commission Act of 2024
+- HR 6878: Farm Equipment Safety Act
+- HR 6879: Farm Freedom to Repair Act
+- HR 3446: Sunshine for Regulatory Decrees and Settlements Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

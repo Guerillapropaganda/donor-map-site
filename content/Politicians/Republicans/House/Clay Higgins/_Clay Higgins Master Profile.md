@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6LA03148"
+bills-sponsored: 47
+bills-cosponsored: 353
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Clay Higgins
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 47 |
+| Bills Cosponsored | 353 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (52)
+- Government Operations and Politics (48)
+- International Affairs (40)
+- Immigration (38)
+- Health (28)
+- Taxation (19)
+- Transportation and Public Works (15)
+- Energy (15)
+- Education (15)
+- Finance and Financial Sector (13)
+
+**Enacted into law:**
+
+- HR 9460: DHS Joint Task Forces Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

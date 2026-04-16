@@ -20,8 +20,8 @@ top-donors:
   - "Ethanol Industry"
 bioguide-id: "E000295"
 govtrack-id: 412667
-bills-sponsored: 84
-bills-cosponsored: 174
+bills-sponsored: 81
+bills-cosponsored: 299
 website: "https://www.ernst.senate.gov"
 phone: "202-224-3254"
 source-types:
@@ -33,6 +33,8 @@ known-gaps:
   - "No mapped relationships"
 related: "[[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]] · [[Ethanol Industry]] · [[_Donald Trump Master Profile]]"
 fec-candidate-id: "S4IA00129"
+bills-enacted: 3
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -366,6 +368,37 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 - [GovTrack: Joni Ernst](https://www.govtrack.us/congress/members/412667) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 81 |
+| Bills Cosponsored | 299 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (41)
+- Government Operations and Politics (34)
+- Health (29)
+- Agriculture and Food (29)
+- Armed Forces and National Security (27)
+- Education (23)
+- Congress (22)
+- Crime and Law Enforcement (22)
+- Immigration (18)
+- Commerce (16)
+
+**Enacted into law:**
+
+- S 3547: National Defense Authorization Act for Fiscal Year 2024
+- S 1469: National Defense Authorization Act for Fiscal Year 2024
+- S 2034: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

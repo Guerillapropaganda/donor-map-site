@@ -57,6 +57,10 @@ editorial-notes: "Depth review 2026-04-10. BODY IS EXCEPTIONAL , arguably the st
 last-enriched: "2026-04-11"
 donors: "[[Senate Majority PAC]] · [[Pharmaceutical Industry]] · [[Democratic Small Dollar Networks]] · [[NRA POLITICAL VICTORY FUND]] · [[J Street]] · [[Small Dollar Donors - ActBlue]] · [[National Nurses United]] · [[Mohammed bin Salman]] · [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]] · [[INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC]] · [[PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE]] · [[NRA Political Victory Fund]] · [[International Association of Firefighters Interested in Registration and Education PAC]] · [[International Longshore and Warehouse Union -- Political Action Fund]] · [[Putting People First Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 50
+bills-cosponsored: 495
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -389,6 +393,39 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 50 |
+| Bills Cosponsored | 495 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (55)
+- Labor and Employment (45)
+- Government Operations and Politics (37)
+- Agriculture and Food (35)
+- Crime and Law Enforcement (34)
+- Taxation (32)
+- Civil Rights and Liberties, Minority Issues (31)
+- Education (30)
+- Armed Forces and National Security (29)
+- International Affairs (27)
+
+**Recent bills sponsored:**
+
+- SJRES 112: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 114: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 113: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 111: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 116: A joint resolution providing for congressional disapproval of the proposed enhancement or upgrade of sensitivity of t...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

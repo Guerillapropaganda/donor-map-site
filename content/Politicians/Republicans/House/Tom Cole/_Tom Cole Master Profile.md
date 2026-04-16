@@ -33,6 +33,10 @@ needs-reenrichment: true
 reenrich-reason: re-run fec pipeline; re-run congress pipeline
 bioguide-id: C001053
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-sponsored: 31
+bills-cosponsored: 175
+bills-enacted: 4
+top-policy-area: "Native Americans"
 ---
 
 <!-- auto:data-panel start -->
@@ -300,6 +304,38 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 175 |
+| Bills Enacted | 4 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Native Americans (30)
+- Health (28)
+- International Affairs (14)
+- Taxation (14)
+- Congress (14)
+- Economics and Public Finance (12)
+- Armed Forces and National Security (12)
+- Finance and Financial Sector (11)
+- Crime and Law Enforcement (11)
+- Government Operations and Politics (8)
+
+**Enacted into law:**
+
+- HR 10515: American Relief Act, 2025
+- HRES 583: National Defense Authorization Act for Fiscal Year 2024
+- HRES 456: Fiscal Responsibility Act of 2023
+- HRES 582: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -62,6 +62,10 @@ wikidata-id: Q26436159
 wikipedia-url: https://en.wikipedia.org/wiki/Ilhan_Omar
 wikipedia-extract: Ilhan Abdullahi Omar is an American politician serving as the U.S. representative for Minnesota's 5th congressional district since 2019. She is a member of the Democratic Party.
 born: "1982-10-04"
+bills-sponsored: 25
+bills-cosponsored: 534
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -255,7 +259,40 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - [Minneapolis Regional Labor Federation: Omar seeks re-election as labor champion](https://minneapolisunions.org/news/mlr-2024-07-27-omar-runs-as-labor-champion) (Tier 3) (VERIFIED)
 - [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3) (VERIFIED)
 
-### Archived
+#### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 534 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (76)
+- Health (55)
+- Labor and Employment (45)
+- Crime and Law Enforcement (35)
+- Civil Rights and Liberties, Minority Issues (34)
+- Taxation (32)
+- Government Operations and Politics (29)
+- Armed Forces and National Security (28)
+- Education (27)
+- Immigration (25)
+
+**Recent bills sponsored:**
+
+- HRES 1593: Expressing support for the designation of December 16, 2024, as the "National Day of Awareness for Missing and Murder...
+- HR 9907: Long COVID Research Moonshot Act
+- HR 9878: No Shame at School Act of 2024
+- HR 9279: Shrinkflation Reduction Act
+- HRES 1388: Supporting the goals and ideals of World Drowning Prevention Day.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Archived
 - ~~[OpenSecrets News: Pro-Israel PACs poised to spend big to unseat progressive Congress members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09, use FEC/Jewish Insider sources above for same data)
 
 ### Campaign Finance (FEC)

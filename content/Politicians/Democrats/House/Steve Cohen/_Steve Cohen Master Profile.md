@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6TN09068"
+bills-sponsored: 64
+bills-cosponsored: 770
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Steve Cohen
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 64 |
+| Bills Cosponsored | 770 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (177)
+- International Affairs (90)
+- Crime and Law Enforcement (54)
+- Armed Forces and National Security (52)
+- Transportation and Public Works (46)
+- Government Operations and Politics (39)
+- Taxation (37)
+- Agriculture and Food (36)
+- Education (32)
+- Environmental Protection (29)
+
+**Recent bills sponsored:**
+
+- HJRES 227: A joint resolution proposing an amendment to the Constitution of the United States to abolish the electoral college a...
+- HRES 1609: Directing the Committee on Ethics to preserve and release records of the Committee's review of the alleged misconduct...
+- HRES 1603: Directing the Committee on Ethics to preserve and release records of the Committee's review of the alleged misconduct...
+- HRES 1584: Directing the Committee on Ethics to preserve and release records of the Committee's review of the alleged misconduct...
+- HR 10022: School Bus Safety Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

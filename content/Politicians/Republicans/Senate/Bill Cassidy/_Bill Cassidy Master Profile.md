@@ -26,6 +26,10 @@ known-gaps:
   - "No mapped relationships"
 related: "[[Petrochemical Industry Bloc]] · [[Fossil Fuel Bloc]] · [[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 95
+bills-cosponsored: 436
+bills-enacted: 5
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -213,6 +217,39 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 
 ### Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 95 |
+| Bills Cosponsored | 436 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (54)
+- International Affairs (53)
+- Taxation (47)
+- Armed Forces and National Security (38)
+- Education (32)
+- Crime and Law Enforcement (32)
+- Labor and Employment (28)
+- Immigration (27)
+- Energy (26)
+- Finance and Financial Sector (22)
+
+**Enacted into law:**
+
+- S 4632: FAFSA Deadline Act
+- S 677: VETT Act
+- S 3634: To designate the facility of the United States Postal Service located at 3901 MacArthur Blvd., in New Orleans, Louisi...
+- S 3678: Federal Disaster Tax Relief Act of 2023
+- S 4329: To designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Louisiana,...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

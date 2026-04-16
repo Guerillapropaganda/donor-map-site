@@ -30,6 +30,10 @@ issues:
   - Immigration
   - International Affairs
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 71
+bills-cosponsored: 696
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 #master-profile #democrat #senate #california #intelligence #hollywood #aipac #follow-the-money #class-analysis
 tags: #democrat
@@ -179,6 +183,39 @@ AIPAC's $5M+ independent spending on Schiff's behalf during 2023–2024 reflecte
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 696 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (88)
+- Health (77)
+- Government Operations and Politics (72)
+- Crime and Law Enforcement (50)
+- Education (41)
+- Armed Forces and National Security (41)
+- Labor and Employment (35)
+- Taxation (34)
+- Environmental Protection (32)
+- Agriculture and Food (30)
+
+**Recent bills sponsored:**
+
+- HR 9884: Investigative Integrity Protection Act of 2024
+- HR 9706: CARE Act
+- HR 9707: Transnational Repression Reporting Act of 2024
+- HR 9666: Artsakh Revenue Recovery Act of 2024
+- HR 9639: AI Ads Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

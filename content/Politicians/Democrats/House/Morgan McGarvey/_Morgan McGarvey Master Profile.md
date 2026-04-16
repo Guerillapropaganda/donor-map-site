@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2KY03206"
+bills-sponsored: 28
+bills-cosponsored: 354
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Morgan McGarvey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 354 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (52)
+- Armed Forces and National Security (47)
+- Crime and Law Enforcement (38)
+- Labor and Employment (25)
+- Government Operations and Politics (25)
+- Agriculture and Food (24)
+- Education (23)
+- Taxation (20)
+- Civil Rights and Liberties, Minority Issues (17)
+- Commerce (12)
+
+**Recent bills sponsored:**
+
+- HR 10536: To amend title 38, United States Code, to establish a mission of the Veterans Health Administration to innovate, and ...
+- HR 10432: To amend the Federal Water Pollution Control Act to establish an Ohio River Basin Restoration Program, and for other ...
+- HR 10369: To improve the emergency management capabilities of the Department of Veterans Affairs, and for other purposes.
+- HR 10229: To amend the Infrastructure Investment and Jobs Act to extend the authorization of appropriations for the Clean Energ...
+- HR 9875: Child Safety and Well-Being Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

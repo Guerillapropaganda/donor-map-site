@@ -17,8 +17,8 @@ top-donors:
   - Goldman Sachs
 bioguide-id: W000187
 govtrack-id: 400422
-bills-sponsored: 40
-bills-cosponsored: 182
+bills-sponsored: 36
+bills-cosponsored: 275
 website: https://waters.house.gov
 phone: 202-225-2201
 donors: "[[California Nurses Association]], [[Goldman Sachs]], [[FUTURE45]], [[VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)]], [[STARS AND STRIPES FOREVER PAC]], [[LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE]], [[ELBERT GUILLORY'S AMERICA]], [[Los Angeles County Democratic Central Committee]], [[Elbert Guillory's America]], [[Stars and Stripes Forever PAC]], [[Future45]]"
@@ -30,6 +30,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 total-received: $431,662
 fec-candidate-id: H4CA23011
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -312,6 +314,39 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 - {{src:src_006034}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 275 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- Government Operations and Politics (36)
+- Labor and Employment (22)
+- Education (21)
+- Crime and Law Enforcement (20)
+- Civil Rights and Liberties, Minority Issues (19)
+- International Affairs (19)
+- Armed Forces and National Security (17)
+- Finance and Financial Sector (15)
+- Agriculture and Food (12)
+
+**Recent bills sponsored:**
+
+- HR 10542: To amend the Federal Deposit Insurance Act and the Federal Credit Union Act to authorize a temporary transaction acco...
+- HR 10510: To permanently extend certain enhancements related to credit unions, and for other purposes.
+- HR 10511: To amend the Federal Credit Union Act to permit credit unions to serve certain underserved areas, and for other purpo...
+- HR 10509: To expand and enhance consumer, student, servicemember, and small business protections with respect to debt collectio...
+- HR 10442: To amend title 28, United States Code, to adjust the penalty for unjust conviction and imprisonment, and for other pu...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

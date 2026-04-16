@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Western Growers Association]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 24
+bills-cosponsored: 779
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Henry C. Hank Johnson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 779 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (118)
+- Crime and Law Enforcement (103)
+- Civil Rights and Liberties, Minority Issues (58)
+- Government Operations and Politics (51)
+- Education (44)
+- International Affairs (43)
+- Armed Forces and National Security (36)
+- Taxation (34)
+- Labor and Employment (31)
+- Transportation and Public Works (31)
+
+**Recent bills sponsored:**
+
+- HRES 1589: Advancing racial justice and the global rights of people of African descent in the next decade.
+- HR 9868: Effective Death Penalty Appeals Act
+- HR 9674: Judiciary Accountability Act of 2024
+- HRES 1439: Expressing support for the recognition of September 7, 2024, as "Liturgical Dance Day" and the International Dance Co...
+- HR 9262: Bivens Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

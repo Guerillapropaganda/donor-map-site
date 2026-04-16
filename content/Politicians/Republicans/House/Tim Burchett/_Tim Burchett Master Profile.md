@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8TN02119"
+bills-sponsored: 32
+bills-cosponsored: 219
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Tim Burchett
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 219 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Crime and Law Enforcement (29)
+- Health (19)
+- Government Operations and Politics (18)
+- Taxation (16)
+- Finance and Financial Sector (14)
+- Education (14)
+- Transportation and Public Works (10)
+- Armed Forces and National Security (9)
+- Congress (9)
+
+**Recent bills sponsored:**
+
+- HR 10318: To amend title 49, United States Code, to authorize the use of physical or digital copies of certain certificates for...
+- HR 10133: Timely Stock Disclosure Act
+- HR 10111: UAP Whistleblower Protection Act
+- HR 10000: SANE Act of 2024
+- HR 9955: Safeguarding Our Stockpiles Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

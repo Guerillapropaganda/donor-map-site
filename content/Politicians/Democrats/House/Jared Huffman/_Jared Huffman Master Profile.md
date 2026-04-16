@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2CA06259"
+bills-sponsored: 34
+bills-cosponsored: 504
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jared Huffman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 504 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (59)
+- Public Lands and Natural Resources (56)
+- Environmental Protection (52)
+- Government Operations and Politics (40)
+- Energy (35)
+- Agriculture and Food (24)
+- Taxation (24)
+- International Affairs (23)
+- Crime and Law Enforcement (21)
+- Animals (19)
+
+**Recent bills sponsored:**
+
+- HR 10490: To amend the Deepwater Port Act of 1974 to improve community outreach, public participation, and the consideration of...
+- HR 10489: To prohibit drilling in the outer Continental Shelf, to prohibit coal leases on Federal land, and for other purposes.
+- HR 10491: To require the Administrator of the National Oceanic and Atmospheric Administration to establish a Blue Carbon Progra...
+- HR 10428: To support and fund the Federal procurement of clean energy products, and for other purposes.
+- HR 10341: To require the use of the voice and vote of the United States in international financial institutions to advance the ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

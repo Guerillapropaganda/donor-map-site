@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 48
+bills-cosponsored: 310
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Randy Feenstra
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 310 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (59)
+- International Affairs (42)
+- Agriculture and Food (38)
+- Health (32)
+- Crime and Law Enforcement (32)
+- Finance and Financial Sector (15)
+- Armed Forces and National Security (15)
+- Government Operations and Politics (15)
+- Immigration (12)
+- Transportation and Public Works (11)
+
+**Recent bills sponsored:**
+
+- HR 9822: Improving Brain Health in Schools Act
+- HR 9346: Audit the IRS Act
+- HR 9251: Increasing Small-Scale Poultry Processing Opportunities Act
+- HR 9081: Storm Recovery and Community Restoration Act
+- HR 8860: Paid Family and Medical Leave Tax Credit Extension and Enhancement Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

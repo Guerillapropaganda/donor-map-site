@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NY17162"
+bills-sponsored: 68
+bills-cosponsored: 1258
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michael Lawler
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 68 |
+| Bills Cosponsored | 1258 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (276)
+- Health (175)
+- Armed Forces and National Security (109)
+- Agriculture and Food (82)
+- Crime and Law Enforcement (79)
+- Government Operations and Politics (64)
+- Finance and Financial Sector (59)
+- Taxation (57)
+- Education (52)
+- Immigration (44)
+
+**Enacted into law:**
+
+- HR 9106: Enhanced Presidential Security Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

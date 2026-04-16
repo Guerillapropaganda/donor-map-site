@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6TX00552"
+bills-sponsored: 22
+bills-cosponsored: 635
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jasmine Crockett
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 635 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (114)
+- Crime and Law Enforcement (61)
+- Agriculture and Food (53)
+- Civil Rights and Liberties, Minority Issues (51)
+- Education (48)
+- International Affairs (40)
+- Government Operations and Politics (38)
+- Armed Forces and National Security (34)
+- Labor and Employment (27)
+- Taxation (27)
+
+**Recent bills sponsored:**
+
+- HR 10423: To amend the Internal Revenue Code of 1986 to allow the work opportunity tax credit for hiring displaced disaster vic...
+- HR 9862: Combating the Housing Supply Shortage Act of 2024
+- HR 9690: TIMER Act
+- HR 9560: HPRP Progress Act of 2024
+- HCONRES 123: Directing legislative branch support offices to take certain actions to promote the procurement of goods and services...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

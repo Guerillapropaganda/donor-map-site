@@ -28,6 +28,10 @@ ofac-programs:
   - "IRAN-HR"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8NY19223"
+bills-sponsored: 17
+bills-cosponsored: 359
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -66,3 +70,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 359 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (55)
+- Armed Forces and National Security (55)
+- International Affairs (32)
+- Crime and Law Enforcement (25)
+- Government Operations and Politics (24)
+- Agriculture and Food (21)
+- Taxation (20)
+- Transportation and Public Works (17)
+- Finance and Financial Sector (16)
+- Labor and Employment (13)
+
+**Recent bills sponsored:**
+
+- HR 9377: Deliver Housing Now Act of 2024
+- HR 9379: Mortgage Rate Reduction Act
+- HR 9380: Workforce Housing Tax Credit Act
+- HR 9378: Pro-Housing Act of 2024
+- HR 9341: Protecting Social Security Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

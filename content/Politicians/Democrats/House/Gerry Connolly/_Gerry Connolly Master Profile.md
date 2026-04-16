@@ -39,6 +39,10 @@ issues:
   - "Health"
   - "International Affairs"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 47
+bills-cosponsored: 492
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -243,6 +247,39 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/C001078) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 47 |
+| Bills Cosponsored | 492 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (96)
+- International Affairs (79)
+- Government Operations and Politics (64)
+- Crime and Law Enforcement (33)
+- Civil Rights and Liberties, Minority Issues (23)
+- Labor and Employment (23)
+- Armed Forces and National Security (22)
+- Environmental Protection (22)
+- Taxation (22)
+- Education (15)
+
+**Recent bills sponsored:**
+
+- HR 10522: To establish an interagency task force to increase vital documents access for unaccompanied homeless youth.
+- HR 10521: To amend the Internal Revenue Code of 1986 to allow a credit against income tax for qualified conservation contributi...
+- HR 10285: To amend chapter 63 of title 5, United States Code, to modify the accumulation of annual leave for use in succeeding ...
+- HR 10209: To amend the Cybersecurity Enhancement Act of 2014 to make improvements to the Federal Cyber Scholarship for Service ...
+- HR 9813: Chai Suthammanont Healthy Federal Workplaces Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

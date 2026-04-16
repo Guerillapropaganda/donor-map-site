@@ -32,6 +32,10 @@ ofac-programs:
   - "SDGT] [ILLICIT-DRUGS-EO14059"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0TX15124"
+bills-sponsored: 30
+bills-cosponsored: 315
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -78,3 +82,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 315 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (45)
+- Finance and Financial Sector (36)
+- Health (33)
+- Crime and Law Enforcement (30)
+- Armed Forces and National Security (27)
+- Immigration (24)
+- Government Operations and Politics (23)
+- Taxation (20)
+- Agriculture and Food (17)
+- Education (12)
+
+**Recent bills sponsored:**
+
+- HR 10113: South Texas Agriculture Emergency Assistance Act
+- HR 10085: Saving Lives on Campuses Act of 2024
+- HR 10039: Diabetes Prevention Program Reauthorization Act of 2024
+- HR 10002: Lance Corporal Dustin Sekula Congressional Gold Medal Act
+- HR 9960: Water Delivery Transparency Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

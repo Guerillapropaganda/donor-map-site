@@ -24,6 +24,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 37
+bills-cosponsored: 354
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -190,6 +194,39 @@ The class structure here is institutional, not financial. Bost's chairmanship de
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 354 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (56)
+- Health (45)
+- Crime and Law Enforcement (42)
+- International Affairs (32)
+- Agriculture and Food (29)
+- Taxation (26)
+- Government Operations and Politics (24)
+- Education (17)
+- Transportation and Public Works (16)
+- Environmental Protection (13)
+
+**Recent bills sponsored:**
+
+- HR 10267: Complete the Mission Act of 2024
+- HR 10201: To amend title 36, United States Code, to move the place of incorporation and domicile of the National Woman's Relief...
+- HRES 1586: Recognizing the 50th anniversary of Mid-America Transplant.
+- HR 9685: USPS Act
+- HR 9427: Veterans’ Mental Health Access Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

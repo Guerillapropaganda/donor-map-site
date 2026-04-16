@@ -19,8 +19,8 @@ top-donors:
   - Northrop Grumman
 bioguide-id: W000437
 govtrack-id: 400432
-bills-sponsored: 39
-bills-cosponsored: 237
+bills-sponsored: 35
+bills-cosponsored: 448
 website: https://www.wicker.senate.gov
 phone: 202-224-6253
 stock-trades: 8
@@ -34,6 +34,8 @@ fec-candidate-id: S8MS00196
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -358,6 +360,39 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 - [GovTrack: Roger Wicker](https://www.govtrack.us/congress/members/400432) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 448 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- International Affairs (43)
+- Environmental Protection (35)
+- Taxation (30)
+- Crime and Law Enforcement (29)
+- Science, Technology, Communications (25)
+- Education (23)
+- Government Operations and Politics (23)
+- Congress (20)
+- Armed Forces and National Security (20)
+
+**Recent bills sponsored:**
+
+- S 5618: A bill to promote defense innovation, and for other purposes.
+- SRES 878: A resolution honoring the life, legacy, and contributions of James Earl Jones.
+- S 4994: Vicksburg National Military Park Boundary Modification Act
+- SRES 802: A resolution designating August 2023 as "National Catfish Month".
+- SRES 791: A resolution designating August 1, 2024, as "Gold Star Children's Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

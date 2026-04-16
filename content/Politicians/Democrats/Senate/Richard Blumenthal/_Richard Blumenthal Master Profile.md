@@ -20,8 +20,8 @@ total-received: $619,810
 fec-candidate-id: S0CT00177
 bioguide-id: B001277
 govtrack-id: 412490
-bills-sponsored: 102
-bills-cosponsored: 625
+bills-sponsored: 99
+bills-cosponsored: 792
 website: https://www.blumenthal.senate.gov
 phone: 202-224-2823
 stock-trades: 50
@@ -42,6 +42,8 @@ issues:
   - International Affairs
   - Native Americans
   - Taxation
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -362,6 +364,35 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 | 4060 | Prediction Markets Security and Integrity Act of 2026 | Read twice and referred to the Committee on the Judiciary. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 99 |
+| Bills Cosponsored | 792 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (132)
+- Crime and Law Enforcement (84)
+- Armed Forces and National Security (55)
+- Government Operations and Politics (50)
+- International Affairs (49)
+- Agriculture and Food (46)
+- Education (40)
+- Civil Rights and Liberties, Minority Issues (38)
+- Taxation (38)
+- Labor and Employment (37)
+
+**Enacted into law:**
+
+- S 305: 250th Anniversary of the United States Marine Corps Commemorative Coin Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

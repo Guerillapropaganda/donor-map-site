@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2FL14053"
+bills-sponsored: 14
+bills-cosponsored: 351
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Lois Frankel
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 351 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (65)
+- International Affairs (40)
+- Crime and Law Enforcement (33)
+- Government Operations and Politics (28)
+- Education (24)
+- Armed Forces and National Security (23)
+- Civil Rights and Liberties, Minority Issues (23)
+- Labor and Employment (18)
+- Taxation (17)
+- Social Welfare (12)
+
+**Recent bills sponsored:**
+
+- HCONRES 132: Expressing support for the designation of the week of November 13 through November 19, 2023, as "National Caregiving ...
+- HCONRES 129: Supporting the designation of the week of September 17 through September 23, 2023, as "National Fall Prevention Aware...
+- HR 9254: Tax Fairness for Survivors Act
+- HR 8532: Healthy Moms and Babies Act
+- HCONRES 97: Recognizing the significance of equal pay and the disparity between wages paid to men and women.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

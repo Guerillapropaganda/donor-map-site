@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0MN07091"
+bills-sponsored: 24
+bills-cosponsored: 183
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michelle Fischbach
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 183 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (28)
+- Health (24)
+- Crime and Law Enforcement (23)
+- Agriculture and Food (18)
+- Government Operations and Politics (16)
+- Finance and Financial Sector (12)
+- Congress (10)
+- Environmental Protection (8)
+- Armed Forces and National Security (7)
+- Energy (7)
+
+**Recent bills sponsored:**
+
+- HRES 1576: CLEAN Act
+- HRES 1370: Energy and Water Development and Related Agencies Appropriations Act, 2025
+- HR 8841: A bill to designate the facility of the United States Postal Service located at 114 Center Street East in Roseau, Min...
+- HR 8801: MOMS Act
+- HJRES 139: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

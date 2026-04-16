@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 45
+bills-cosponsored: 350
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Donald S. Beyer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 350 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (37)
+- Taxation (37)
+- Crime and Law Enforcement (35)
+- Government Operations and Politics (34)
+- International Affairs (27)
+- Environmental Protection (25)
+- Civil Rights and Liberties, Minority Issues (18)
+- Labor and Employment (17)
+- Public Lands and Natural Resources (15)
+- Science, Technology, Communications (14)
+
+**Recent bills sponsored:**
+
+- HR 10546: To amend the Internal Revenue Code of 1986 to allow the disclosure of certain business tax return information to the ...
+- HR 10470: To amend section 207 of title 18, United States Code, to prohibit certain former Federal officials from investing in ...
+- HR 10418: To cap the emissions of greenhouse gases through a requirement to purchase carbon permits, to distribute the proceeds...
+- HR 10386: To amend title 38, United States Code, to improve the Solid Start program of the Department of Veterans Affairs, and ...
+- HR 10199: Childhood Diabetes Reduction Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 24
+bills-cosponsored: 429
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Becca Balint
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 429 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (88)
+- Crime and Law Enforcement (45)
+- Civil Rights and Liberties, Minority Issues (29)
+- Education (29)
+- Government Operations and Politics (29)
+- Agriculture and Food (28)
+- International Affairs (23)
+- Housing and Community Development (21)
+- Labor and Employment (20)
+- Taxation (20)
+
+**Recent bills sponsored:**
+
+- HR 10448: To combat loneliness and increase social connection, and for other purposes.
+- HRES 1552: Expressing support for the recognition of October 26, 2023, as "Intersex Awareness Day", and supporting the goals and...
+- HRES 1501: A resolution expressing support for the designation of the week of October 24, 2023, to October 31, 2023, as "BatWeek".
+- HR 9683: Marsh-Billings-Rockefeller National Historical Park Establishment Act Amendments Act of 2024
+- HR 9097: Lake Champlain Basin Program Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

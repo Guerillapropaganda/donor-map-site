@@ -47,8 +47,8 @@ fec-candidate-id: S6IL00292
 donors: "[[Democracy Alliance]], [[Boeing]], [[General Dynamics]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[FREEDOMWORKS FOR AMERICA]], [[Lockheed Martin]], [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]], [[NOW OR NEVER PAC]], [[NEW PROSPERITY FOUNDATION; THE]], [[Now Or Never PAC]], [[FreedomWorks for America]], [[New Prosperity Foundation; the]], [[Raytheon (RTX)]]"
 bioguide-id: D000622
 govtrack-id: 412533
-bills-sponsored: 47
-bills-cosponsored: 423
+bills-sponsored: 60
+bills-cosponsored: 477
 website: https://www.duckworth.senate.gov
 phone: 202-224-2854
 related: "[[_Dick Durbin Master Profile|Durbin]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]"
@@ -56,6 +56,8 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -379,6 +381,39 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 60 |
+| Bills Cosponsored | 477 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- Crime and Law Enforcement (44)
+- International Affairs (37)
+- Government Operations and Politics (34)
+- Civil Rights and Liberties, Minority Issues (29)
+- Labor and Employment (29)
+- Education (29)
+- Armed Forces and National Security (29)
+- Transportation and Public Works (26)
+- Immigration (25)
+
+**Recent bills sponsored:**
+
+- S 5348: Uniformed Services Leave Parity Act
+- S 5330: Improving Access to Prenatal Care for Military Families Act
+- S 5118: Kangaroo Protection Act of 2023
+- S 5088: Entrepreneurs with Disabilities Reporting Act of 2024
+- S 5033: CCAMPIS Reauthorization Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

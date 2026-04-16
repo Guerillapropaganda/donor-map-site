@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6OK04247"
+bills-sponsored: 20
+bills-cosponsored: 171
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Kevin Hern
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 171 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (32)
+- Health (32)
+- International Affairs (23)
+- Finance and Financial Sector (12)
+- Government Operations and Politics (12)
+- Armed Forces and National Security (9)
+- Crime and Law Enforcement (9)
+- Labor and Employment (8)
+- Immigration (8)
+- Education (7)
+
+**Recent bills sponsored:**
+
+- HR 10167: To designate the medical center of the Department of Veterans Affairs in Tulsa, Oklahoma, as the James Mountain Inhof...
+- HR 9069: Renewing Investment in American Workers and Supply Chains Act
+- HR 8921: Tribal Child Welfare Support Act
+- HR 8915: Student Empowerment Act
+- HR 8576: Securing Access to Care for Seniors in Critical Condition Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

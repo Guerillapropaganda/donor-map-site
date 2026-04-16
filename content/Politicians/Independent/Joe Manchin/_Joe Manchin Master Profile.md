@@ -26,6 +26,10 @@ known-gaps:
 related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Williams Companies]] · [[Enterprise Products Partners]]"
 donors: "[[Centene Corporation]] · [[Insurance Industry]] · [[SMP]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MAJORITY FORWARD]] · [[National Republican Senatorial Committee]] · [[NRSC]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]] · [[Senate Leadership Fund]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 57
+bills-cosponsored: 260
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -229,3 +233,33 @@ The Manchin-Kyrsten Sinema bloc functioned as the donor class's two-person insur
 
 - {{src:src_001301}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 57 |
+| Bills Cosponsored | 260 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- International Affairs (33)
+- Armed Forces and National Security (33)
+- Congress (26)
+- Energy (16)
+- Finance and Financial Sector (16)
+- Environmental Protection (15)
+- Government Operations and Politics (14)
+- Public Lands and Natural Resources (13)
+- Taxation (13)
+
+**Enacted into law:**
+
+- S 3004: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6IN09143"
+bills-sponsored: 22
+bills-cosponsored: 287
+bills-enacted: 1
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Erin Houchin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 287 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (39)
+- Education (38)
+- International Affairs (29)
+- Crime and Law Enforcement (26)
+- Taxation (23)
+- Government Operations and Politics (18)
+- Labor and Employment (17)
+- Congress (16)
+- Immigration (15)
+- Health (15)
+
+**Enacted into law:**
+
+- HRES 597: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

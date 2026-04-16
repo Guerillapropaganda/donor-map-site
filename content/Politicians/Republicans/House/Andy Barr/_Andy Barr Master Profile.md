@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 44
+bills-cosponsored: 284
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andy Barr
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 44 |
+| Bills Cosponsored | 284 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (66)
+- International Affairs (49)
+- Health (32)
+- Taxation (29)
+- Crime and Law Enforcement (26)
+- Armed Forces and National Security (16)
+- Government Operations and Politics (15)
+- Labor and Employment (14)
+- Environmental Protection (8)
+- Housing and Community Development (7)
+
+**Recent bills sponsored:**
+
+- HR 10559: To protect the national security of the United States by imposing sanctions with respect to certain persons of the Pe...
+- HR 10036: Civil Investigative Demand Reform Act of 2024
+- HR 9860: Camp Nelson National Monument Act
+- HR 9512: Congressional Banking Regulation Priorities and Accountability Act of 2024
+- HR 8650: Securing Europe’s Energy Security Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

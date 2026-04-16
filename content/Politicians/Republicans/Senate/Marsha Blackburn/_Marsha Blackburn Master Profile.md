@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S8TN00337"
+bills-sponsored: 101
+bills-cosponsored: 581
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Marsha Blackburn
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 101 |
+| Bills Cosponsored | 581 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (91)
+- Crime and Law Enforcement (66)
+- International Affairs (60)
+- Armed Forces and National Security (45)
+- Education (43)
+- Taxation (41)
+- Immigration (35)
+- Government Operations and Politics (33)
+- Congress (27)
+- Science, Technology, Communications (24)
+
+**Recent bills sponsored:**
+
+- S 5604: A bill to amend the Internal Revenue Code of 1986 to expand the advanced manufacturing investment credit to include m...
+- S 5603: A bill to amend the Internal Revenue Code of 1986 to increase the threshold amounts for inclusion of Social Security ...
+- S 5549: A bill to establish a grant program within the Office of Juvenile Justice and Delinquency Prevention to award grants ...
+- S 5538: A bill to direct the Secretary of Homeland Security to amend certain regulations to permit certain children to accomp...
+- S 5540: A bill to amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B o...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

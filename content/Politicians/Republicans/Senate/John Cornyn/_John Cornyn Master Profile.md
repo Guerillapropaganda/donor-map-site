@@ -46,6 +46,10 @@ related: "[[Tim Scott]] · [[US Chamber of Commerce]] · [[_John Thune Master Pr
 donors: "[[Harlan Crow]] · [[Insurance Industry]] · [[Fraternal Order of Police]] · [[Republican Jewish Coalition]] · [[AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION)]] · [[Texans for a Conservative Majority]] · [[SMP]] · [[FF PAC]] · [[ExxonMobil]] · [[Koch Network - Charles Koch]] · [[US Chamber of Commerce]] · [[Goldman Sachs]] · [[Chevron]] · [[Senate Leadership Fund]] · [[WOMEN VOTE!]] · [[Blackstone]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 118
+bills-cosponsored: 440
+bills-enacted: 12
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -394,6 +398,39 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 | — |  | Amendment SA 5115 agreed to in Senate by Unanimous Consent. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 118 |
+| Bills Cosponsored | 440 |
+| Bills Enacted | 12 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (68)
+- Crime and Law Enforcement (61)
+- Armed Forces and National Security (53)
+- Health (43)
+- Education (39)
+- Government Operations and Politics (29)
+- Immigration (22)
+- Agriculture and Food (21)
+- Science, Technology, Communications (21)
+- Finance and Financial Sector (20)
+
+**Enacted into law:**
+
+- S 1965: National Defense Authorization Act for Fiscal Year 2024
+- S 3499: National Defense Authorization Act for Fiscal Year 2024
+- S 2260: Grant Transparency Act of 2023
+- S 3473: National Defense Authorization Act for Fiscal Year 2024
+- S 2828: Protecting Hunting Heritage and Education Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

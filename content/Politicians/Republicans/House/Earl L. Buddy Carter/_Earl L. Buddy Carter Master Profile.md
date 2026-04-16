@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 56
+bills-cosponsored: 405
+bills-enacted: 3
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,35 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Earl L. Buddy Carter
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 56 |
+| Bills Cosponsored | 405 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (101)
+- International Affairs (43)
+- Crime and Law Enforcement (35)
+- Taxation (30)
+- Government Operations and Politics (26)
+- Finance and Financial Sector (22)
+- Environmental Protection (22)
+- Immigration (20)
+- Public Lands and Natural Resources (19)
+- Armed Forces and National Security (19)
+
+**Enacted into law:**
+
+- HR 769: National Defense Authorization Act for Fiscal Year 2024
+- HR 593: To rename the Department of Veterans Affairs community-based outpatient clinic in Hinesville, Georgia, as the "John G...
+- HR 5233: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

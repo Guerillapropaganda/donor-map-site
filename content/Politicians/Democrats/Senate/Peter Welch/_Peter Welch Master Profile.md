@@ -23,6 +23,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S2VT00235"
+bills-sponsored: 93
+bills-cosponsored: 638
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Peter Welch
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 93 |
+| Bills Cosponsored | 638 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (99)
+- Agriculture and Food (86)
+- Crime and Law Enforcement (49)
+- Government Operations and Politics (42)
+- International Affairs (41)
+- Taxation (40)
+- Armed Forces and National Security (30)
+- Civil Rights and Liberties, Minority Issues (29)
+- Commerce (27)
+- Environmental Protection (26)
+
+**Recent bills sponsored:**
+
+- SRES 941: A resolution congratulating the University of Vermont men's soccer team on winning the 2024 National Collegiate Athle...
+- S 5642: A bill to amend title 18, United States Code, to prevent and mitigate the potential for conflicts of interest followi...
+- S 5617: A bill to provide for debt reduction for developing countries for purposes of climate adaptation, and for other purpo...
+- S 5539: A bill to require systematic review of artificial intelligence systems before deployment by the Federal Government, a...
+- S 5526: A bill to establish a Federal Public Defender Commission, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

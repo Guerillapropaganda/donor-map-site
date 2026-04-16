@@ -47,6 +47,10 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 
 [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 25
+bills-cosponsored: 405
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -378,6 +382,39 @@ party:: Republican
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 405 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (91)
+- Crime and Law Enforcement (56)
+- International Affairs (50)
+- Armed Forces and National Security (32)
+- Government Operations and Politics (28)
+- Immigration (25)
+- Education (22)
+- Taxation (21)
+- Environmental Protection (18)
+- Energy (15)
+
+**Recent bills sponsored:**
+
+- HR 8775: Contingency Plan for Critical Infrastructure Act
+- HR 8251: The HCT/P Modernization Act of 2024
+- HJRES 123: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 7626: H.R. 7626, Affordable Air Conditioning Act
+- HR 6848: To amend the Higher Education Act of 1965 to prohibit institutions of higher education from requiring ideological oat...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

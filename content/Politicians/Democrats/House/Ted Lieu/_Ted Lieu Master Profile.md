@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4CA33119"
+bills-sponsored: 57
+bills-cosponsored: 724
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ted Lieu
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 57 |
+| Bills Cosponsored | 724 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (108)
+- International Affairs (107)
+- Crime and Law Enforcement (65)
+- Government Operations and Politics (52)
+- Armed Forces and National Security (48)
+- Taxation (35)
+- Civil Rights and Liberties, Minority Issues (29)
+- Housing and Community Development (28)
+- Education (27)
+- Environmental Protection (27)
+
+**Enacted into law:**
+
+- HR 5542: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

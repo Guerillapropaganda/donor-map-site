@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[ActBlue]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 54
+bills-cosponsored: 378
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Christopher H. Smith
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 378 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (109)
+- Health (54)
+- Government Operations and Politics (31)
+- Crime and Law Enforcement (31)
+- Taxation (29)
+- Armed Forces and National Security (23)
+- Immigration (18)
+- Transportation and Public Works (18)
+- Labor and Employment (16)
+- Education (13)
+
+**Enacted into law:**
+
+- HR 7025: United States Commission on International Religious Freedom Reauthorization Act of 2024
+- HR 620: Alzheimer’s Accountability and Investment Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

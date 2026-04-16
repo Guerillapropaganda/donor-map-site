@@ -10,8 +10,8 @@ source-tier: 1
 parent: null
 bioguide-id: H000601
 govtrack-id: 456798
-bills-sponsored: 22
-bills-cosponsored: 158
+bills-sponsored: 32
+bills-cosponsored: 316
 website: https://www.hagerty.senate.gov
 phone: 202-224-4944
 total-received: $13,807,466
@@ -26,6 +26,8 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Trump Donor Coalition]]"
 top-donors: "[[Standing With Conservatives]], [[NATIONAL VICTORY ACTION FUND]], [[SENATE CONSERVATIVES FUND]], [[WINNING RIGHT PAC]], [[Winning Right PAC]], [[Senate Conservatives Fund]], [[National Victory Action Fund]]"
 donors: "[[Winning Right PAC]], [[SENATE CONSERVATIVES FUND]], [[Standing With Conservatives]], [[WINNING RIGHT PAC]], [[Senate Conservatives Fund]], [[NATIONAL VICTORY ACTION FUND]], [[National Victory Action Fund]]"
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 #bill-hagerty #senate #tennessee #private-equity #trump-ambassador #corporate-republican #class-analysis
 tags: #republican
@@ -184,3 +186,33 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 
 - [GovTrack: Bill Hagerty](https://www.govtrack.us/congress/members/456798) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 316 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (81)
+- Finance and Financial Sector (38)
+- Government Operations and Politics (26)
+- Crime and Law Enforcement (24)
+- Congress (22)
+- Immigration (19)
+- Health (17)
+- Education (16)
+- Labor and Employment (12)
+- Taxation (12)
+
+**Enacted into law:**
+
+- SJRES 12: Disapproving the action of the District of Columbia Council in approving the Revised Criminal Code Act of 2022.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

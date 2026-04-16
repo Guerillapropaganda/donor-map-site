@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 30
+bills-cosponsored: 304
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Stephanie I. Bice
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 304 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (37)
+- Government Operations and Politics (30)
+- Armed Forces and National Security (28)
+- Taxation (26)
+- Crime and Law Enforcement (26)
+- International Affairs (25)
+- Finance and Financial Sector (20)
+- Energy (16)
+- Congress (16)
+- Education (12)
+
+**Recent bills sponsored:**
+
+- HR 10355: To amend title 18, United States Code, to require the recording of communications between Secret Service agents deplo...
+- HR 10300: To provide for congressional review of rules with respect to which the agency explicitly relied on Chevron deference ...
+- HR 10200: Protecting Military Parental Leave Evaluations Act
+- HR 10177: DOGE Act
+- HR 8522: Agriculture and National Security Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

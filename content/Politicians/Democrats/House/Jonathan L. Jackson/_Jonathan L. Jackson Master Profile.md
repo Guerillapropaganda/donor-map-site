@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Western Growers Association]] · [[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 6
+bills-cosponsored: 540
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jonathan L. Jackson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 540 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (90)
+- Agriculture and Food (52)
+- Crime and Law Enforcement (48)
+- International Affairs (42)
+- Armed Forces and National Security (37)
+- Government Operations and Politics (34)
+- Civil Rights and Liberties, Minority Issues (32)
+- Education (32)
+- Labor and Employment (26)
+- Housing and Community Development (16)
+
+**Recent bills sponsored:**
+
+- HR 9973: COINTELPRO Full Disclosure Act
+- HR 8934: H.R. 8934, Sanction Sea Pirates Act of 2024
+- HR 8354: Blair Holt Firearm Owner Licensing and Record of Sale Act of 2024
+- HRES 1121: Recognizing the 158th anniversary of the Civil Rights Act of 1866.
+- HR 6672: Marshall ‘Major’ Taylor Congressional Gold Medal Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

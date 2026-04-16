@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CA49058"
+bills-sponsored: 30
+bills-cosponsored: 495
+bills-enacted: 2
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Levin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 495 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (75)
+- Health (66)
+- International Affairs (42)
+- Government Operations and Politics (40)
+- Taxation (29)
+- Crime and Law Enforcement (29)
+- Environmental Protection (28)
+- Energy (25)
+- Agriculture and Food (21)
+- Public Lands and Natural Resources (20)
+
+**Enacted into law:**
+
+- HR 5985: H.R. 5985, an act to designate the facility of the United States Postal Service located at 517 Seagaze Drive in Ocean...
+- HR 6676: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

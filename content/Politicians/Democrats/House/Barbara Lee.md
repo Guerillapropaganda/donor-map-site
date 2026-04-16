@@ -16,8 +16,8 @@ reenrich-reason: run congress pipeline
 donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Kucinich Action PAC]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[Courage California Super Pac]] · [[Together We Thrive]] · [[KUCINICH ACTION PAC]] · [[Sandre Swanson for Assembly 2010]] · [[Care Action]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
 bioguide-id: L000551
 govtrack-id: 400237
-bills-sponsored: 604
-bills-cosponsored: 10572
+bills-sponsored: 59
+bills-cosponsored: 1031
 related: ">- · [[Adam Schiff]] · [[Rebekah Mercer]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $375,046
@@ -35,6 +35,8 @@ issues:
   - Families
   - Government Operations and Politics
   - Health
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 #barbara-lee #house #california #progressive #anti-war #oakland #class-analysis #democrat
 tags: #democrat
@@ -439,6 +441,35 @@ _No committee data found._
 - [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 59 |
+| Bills Cosponsored | 1031 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (160)
+- Crime and Law Enforcement (79)
+- International Affairs (75)
+- Government Operations and Politics (71)
+- Civil Rights and Liberties, Minority Issues (71)
+- Taxation (61)
+- Armed Forces and National Security (56)
+- Education (56)
+- Labor and Employment (52)
+- Housing and Community Development (36)
+
+**Enacted into law:**
+
+- HR 1088: Shirley Chisholm Congressional Gold Medal Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

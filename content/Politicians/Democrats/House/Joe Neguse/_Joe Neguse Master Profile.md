@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 108
+bills-cosponsored: 718
+bills-enacted: 9
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Joe Neguse
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 108 |
+| Bills Cosponsored | 718 |
+| Bills Enacted | 9 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (123)
+- Armed Forces and National Security (88)
+- Crime and Law Enforcement (79)
+- Taxation (57)
+- Government Operations and Politics (51)
+- Public Lands and Natural Resources (44)
+- Agriculture and Food (40)
+- Labor and Employment (33)
+- Environmental Protection (29)
+- Civil Rights and Liberties, Minority Issues (26)
+
+**Enacted into law:**
+
+- HR 5151: National Defense Authorization Act for Fiscal Year 2024
+- HR 4934: National Defense Authorization Act for Fiscal Year 2024
+- HR 5148: National Defense Authorization Act for Fiscal Year 2024
+- HR 5972: National Defense Authorization Act for Fiscal Year 2024
+- HR 5770: H.R. 5770, Water Monitoring and Tracking Essential Resources (WATER) Data Improvement Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

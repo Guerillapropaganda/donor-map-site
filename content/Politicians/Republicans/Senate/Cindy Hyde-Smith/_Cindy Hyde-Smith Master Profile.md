@@ -24,6 +24,10 @@ known-gaps:
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S8MS00261"
+bills-sponsored: 30
+bills-cosponsored: 404
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Cindy Hyde-Smith
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 404 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (69)
+- Crime and Law Enforcement (40)
+- Education (34)
+- Taxation (32)
+- Finance and Financial Sector (26)
+- International Affairs (25)
+- Congress (19)
+- Agriculture and Food (18)
+- Environmental Protection (18)
+- Energy (17)
+
+**Recent bills sponsored:**
+
+- SRES 884: A resolution designating the week of September 24 through September 30, 2023, as "Gold Star Families Remembrance Week".
+- SRES 794: A resolution designating September 25, 2023, as "National Ataxia Awareness Day", and raising awareness of ataxia, ata...
+- S 4968: IDeA Reauthorization Act of 2024
+- SRES 733: A resolution honoring the life and legacy of Patrick Gottsch.
+- S 4533: RESTORE Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

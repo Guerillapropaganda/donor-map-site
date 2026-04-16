@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 40
+bills-cosponsored: 200
+bills-enacted: 2
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # David P. Joyce
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 40 |
+| Bills Cosponsored | 200 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (50)
+- Health (33)
+- Crime and Law Enforcement (23)
+- International Affairs (22)
+- Taxation (13)
+- Education (11)
+- Government Operations and Politics (11)
+- Labor and Employment (8)
+- Finance and Financial Sector (7)
+- Agriculture and Food (6)
+
+**Enacted into law:**
+
+- HR 1405: IMPACTT Human Trafficking Act
+- HR 4646: SIREN Reauthorization Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

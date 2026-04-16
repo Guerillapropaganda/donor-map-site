@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NC08185"
+bills-sponsored: 25
+bills-cosponsored: 291
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Richard Hudson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 291 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (52)
+- International Affairs (33)
+- Crime and Law Enforcement (29)
+- Taxation (26)
+- Armed Forces and National Security (25)
+- Finance and Financial Sector (17)
+- Energy (17)
+- Government Operations and Politics (13)
+- Education (13)
+- Environmental Protection (11)
+
+**Enacted into law:**
+
+- HR 6366: Further Continuing Appropriations and Other Extensions Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

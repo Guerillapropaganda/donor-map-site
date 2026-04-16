@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4NJ01084"
+bills-sponsored: 20
+bills-cosponsored: 353
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Donald Norcross
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 353 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (49)
+- Labor and Employment (40)
+- Armed Forces and National Security (37)
+- International Affairs (36)
+- Government Operations and Politics (31)
+- Taxation (23)
+- Education (22)
+- Crime and Law Enforcement (22)
+- Finance and Financial Sector (16)
+- Transportation and Public Works (16)
+
+**Enacted into law:**
+
+- HR 3438: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

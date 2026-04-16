@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[DMFI - Democratic Majority for Israel]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8IL06139"
+bills-sponsored: 32
+bills-cosponsored: 491
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sean Casten
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 491 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (62)
+- Crime and Law Enforcement (57)
+- Taxation (38)
+- Government Operations and Politics (35)
+- International Affairs (28)
+- Civil Rights and Liberties, Minority Issues (26)
+- Finance and Financial Sector (24)
+- Education (24)
+- Agriculture and Food (24)
+- Environmental Protection (23)
+
+**Recent bills sponsored:**
+
+- HRES 1608: Directing the Committee on Ethics of the House of Representatives to release to the public the committee's report on ...
+- HR 10207: LNG Public Interest Determination Act of 2024
+- HR 10064: Military VOTE Act
+- HR 10063: FACES Act of 2024
+- HR 10021: Financial Empowerment and Protection Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

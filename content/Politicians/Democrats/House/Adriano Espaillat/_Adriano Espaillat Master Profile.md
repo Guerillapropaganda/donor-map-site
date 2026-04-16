@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NY13096"
+bills-sponsored: 59
+bills-cosponsored: 555
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Adriano Espaillat
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 59 |
+| Bills Cosponsored | 555 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (75)
+- Crime and Law Enforcement (59)
+- International Affairs (54)
+- Civil Rights and Liberties, Minority Issues (42)
+- Immigration (38)
+- Government Operations and Politics (38)
+- Education (32)
+- Transportation and Public Works (29)
+- Labor and Employment (27)
+- Arts, Culture, Religion (24)
+
+**Recent bills sponsored:**
+
+- HRES 1607: Recognizing the significant global impact and legacy of Peter Westbrook in the sport of fencing in the United States ...
+- HR 8680: Community Mental Wellness Worker Training Act
+- HR 8130: La Comisión de las Ocupaciónes Americanos Act
+- HR 8087: Solid Waste Infrastructure for Recycling Grant Program Reauthorization Act
+- HR 7998: Combating Hate Across Campus
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

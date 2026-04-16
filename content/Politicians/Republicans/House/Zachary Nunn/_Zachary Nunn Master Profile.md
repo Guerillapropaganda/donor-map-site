@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 54
+bills-cosponsored: 462
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Zachary Nunn
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 462 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (69)
+- Armed Forces and National Security (57)
+- Agriculture and Food (51)
+- Finance and Financial Sector (45)
+- Health (44)
+- Taxation (34)
+- Crime and Law Enforcement (32)
+- Immigration (20)
+- Education (15)
+- Families (15)
+
+**Recent bills sponsored:**
+
+- HRES 1556: Supporting the designation of October as "Foster Youth Voice Month" and encouraging public awareness and participatio...
+- HR 9480: Empowering Law Enforcement to Combat Financial Fraud Act
+- HR 9316: Brighter Futures for Teens and Young Adults in Foster Care Act of 2024
+- HR 9315: Public and Private Sector Ransomware Response Coordination Act of 2024
+- HR 9278: To amend section 5336 of title 31, United States Code, to provide existing small businesses with an additional year t...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

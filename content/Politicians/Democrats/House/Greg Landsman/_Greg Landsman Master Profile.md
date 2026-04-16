@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OH01194"
+bills-sponsored: 20
+bills-cosponsored: 453
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Greg Landsman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 453 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (71)
+- Armed Forces and National Security (48)
+- Crime and Law Enforcement (45)
+- International Affairs (36)
+- Government Operations and Politics (31)
+- Taxation (28)
+- Education (25)
+- Civil Rights and Liberties, Minority Issues (24)
+- Labor and Employment (20)
+- Agriculture and Food (20)
+
+**Recent bills sponsored:**
+
+- HR 10431: To amend title 18, United States Code, to require the United States Secret Service to reimburse States and units of l...
+- HR 10396: To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs furnishes certain non-opioid ...
+- HR 10277: Tax Relief for Renters Act of 2024
+- HR 10115: Child Care for Small Businesses Act
+- HR 10046: 21st Century Vehicle Choice Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

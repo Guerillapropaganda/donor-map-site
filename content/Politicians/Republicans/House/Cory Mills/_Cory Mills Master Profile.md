@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2FL07156"
+bills-sponsored: 15
+bills-cosponsored: 239
+bills-enacted: 2
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Cory Mills
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 239 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (55)
+- Government Operations and Politics (34)
+- Crime and Law Enforcement (27)
+- Armed Forces and National Security (23)
+- Health (16)
+- Finance and Financial Sector (12)
+- Taxation (12)
+- Congress (11)
+- Immigration (9)
+- Education (9)
+
+**Enacted into law:**
+
+- HR 6247: National Defense Authorization Act for Fiscal Year 2024
+- HR 3750: Fiscal Responsibility Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

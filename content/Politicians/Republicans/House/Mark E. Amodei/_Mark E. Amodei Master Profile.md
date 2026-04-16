@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 14
+bills-cosponsored: 195
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mark E. Amodei
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 195 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (22)
+- Finance and Financial Sector (22)
+- Armed Forces and National Security (20)
+- International Affairs (19)
+- Health (18)
+- Taxation (17)
+- Government Operations and Politics (15)
+- Public Lands and Natural Resources (15)
+- Energy (8)
+- Arts, Culture, Religion (6)
+
+**Enacted into law:**
+
+- HR 1274: Lake Tahoe Restoration Reauthorization Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

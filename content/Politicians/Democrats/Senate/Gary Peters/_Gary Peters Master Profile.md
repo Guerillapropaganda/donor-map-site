@@ -22,8 +22,8 @@ top-donors:
 fec-candidate-id: S4MI00355
 bioguide-id: P000595
 govtrack-id: 412305
-bills-sponsored: 70
-bills-cosponsored: 228
+bills-sponsored: 164
+bills-cosponsored: 403
 website: https://www.peters.senate.gov
 phone: 202-224-6221
 stock-trades: 133
@@ -47,6 +47,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Debbie Stabenow Master Profile|Debbie Stabenow]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Brian Schatz Master Profile|Brian Schatz]]"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Insurance Industry]] · [[Real Estate Industry]] · [[Defense Industry]] · [[American Action Network]] · [[UAW - United Auto Workers]] · [[Blue Shield of California]]"
+bills-enacted: 15
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -339,6 +341,39 @@ party:: Democrat
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 164 |
+| Bills Cosponsored | 403 |
+| Bills Enacted | 15 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (88)
+- Health (79)
+- Armed Forces and National Security (63)
+- International Affairs (28)
+- Crime and Law Enforcement (23)
+- Science, Technology, Communications (22)
+- Transportation and Public Works (22)
+- Labor and Employment (21)
+- Taxation (21)
+- Congress (20)
+
+**Enacted into law:**
+
+- S 4335: FAA Reauthorization Act of 2024
+- S 2177: National Defense Authorization Act for Fiscal Year 2024
+- S 3504: National Defense Authorization Act for Fiscal Year 2024
+- S 3475: Strengthening the Commercial Driver’s License Information System Act
+- S 3640: S. 3640, a bill to designate the facility of the United States Postal Service located at 155 South Main Street in Mou...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

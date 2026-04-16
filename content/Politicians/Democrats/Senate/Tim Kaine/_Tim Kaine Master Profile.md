@@ -26,6 +26,10 @@ stock-trade-tickers:
   - "GE"
   - "KMI"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 70
+bills-cosponsored: 484
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -69,6 +73,39 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 05/16/2019 | GE | Sale | $1,001 - $15,000 | Spouse |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 70 |
+| Bills Cosponsored | 484 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (100)
+- Health (66)
+- Education (46)
+- Armed Forces and National Security (39)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (34)
+- Labor and Employment (31)
+- Civil Rights and Liberties, Minority Issues (26)
+- Taxation (25)
+- Congress (19)
+
+**Recent bills sponsored:**
+
+- S 5628: A bill to provide for an international disability rights strategy, and for other purposes.
+- S 5584: A bill to support foreign assistance programs and diplomatic initiatives to counter violence in the Western Hemisphere.
+- S 5552: A bill to modify a provision supporting the execution of bilateral agreements concerning illicit transnational mariti...
+- S 5430: A bill to require the Secretary of the Interior to issue a right-of-way for an emergency exit on certain National Par...
+- S 5368: End Drug Shortages Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

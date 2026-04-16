@@ -19,8 +19,8 @@ top-donors:
   - Tech Industry
 bioguide-id: H001046
 govtrack-id: 412281
-bills-sponsored: 39
-bills-cosponsored: 329
+bills-sponsored: 67
+bills-cosponsored: 451
 website: https://www.heinrich.senate.gov
 phone: 202-224-5521
 fec-candidate-id: S2NM00088
@@ -35,6 +35,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]]"
 donors: "[[Bill Gates]] · [[American Petroleum Institute]] · [[Tech Industry]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Raytheon (RTX Corporation)]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[AMERICAN FUTURE FUND]] · [[Defense Industry]] · [[REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO]] · [[ENVIRONMENT AMERICA INC]] · [[American Future Fund]] · [[Environment America INC]] · [[Republican Campaign Committee of New Mexico]]"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -260,3 +262,37 @@ party:: Democrat
 
 - [GovTrack: Martin Heinrich](https://www.govtrack.us/congress/members/412281) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 67 |
+| Bills Cosponsored | 451 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (81)
+- Agriculture and Food (41)
+- Armed Forces and National Security (33)
+- Native Americans (29)
+- Public Lands and Natural Resources (26)
+- Education (25)
+- Labor and Employment (24)
+- Environmental Protection (24)
+- Civil Rights and Liberties, Minority Issues (23)
+- Taxation (23)
+
+**Recent bills sponsored:**
+
+- S 5645: A bill to amend title 54, United States Code, to increase amounts deposited in the Historic Preservation Fund, and fo...
+- S 5632: A bill to direct the Secretary of Agriculture to establish and administer a pilot program to provide grants to suppor...
+- S 5585: A bill to reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994, and for other purposes.
+- S 5447: A bill to establish a grant program to assist projects that use nonlethal coexistence measures to reduce property dam...
+- S 5203: Maternal and Infant Syphilis Prevention Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

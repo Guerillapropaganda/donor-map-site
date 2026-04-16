@@ -28,6 +28,10 @@ total-spent: 7381
 cash-on-hand: 8211
 individual-contributions: 5000
 contributions-to-committees: 5500
+bills-sponsored: 20
+bills-cosponsored: 171
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -49,3 +53,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Tom McClintock
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 171 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (31)
+- Government Operations and Politics (23)
+- Crime and Law Enforcement (18)
+- Immigration (17)
+- Economics and Public Finance (13)
+- Finance and Financial Sector (11)
+- Public Lands and Natural Resources (11)
+- Energy (10)
+- Taxation (9)
+- Armed Forces and National Security (7)
+
+**Recent bills sponsored:**
+
+- HJRES 171: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the pro...
+- HR 7335: H.R. 7335, Transparency in National Security Threats Act
+- HR 7334: Laken Riley Act
+- HR 6678: Providing for consideration of the bill (H.R. 5585) to impose criminal and immigration penalties for intentionally fl...
+- HR 6679: Providing for consideration of the bill (H.R. 5585) to impose criminal and immigration penalties for intentionally fl...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -27,6 +27,10 @@ last-enriched: "2026-04-12"
 ofac-programs:
   - "ILLICIT-DRUGS-EO14059"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 11
+bills-cosponsored: 618
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -65,3 +69,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 618 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (85)
+- Crime and Law Enforcement (47)
+- Education (46)
+- Labor and Employment (41)
+- Civil Rights and Liberties, Minority Issues (39)
+- International Affairs (35)
+- Agriculture and Food (33)
+- Immigration (30)
+- Government Operations and Politics (30)
+- Taxation (29)
+
+**Recent bills sponsored:**
+
+- HR 10215: Our Homes, Our Votes Act
+- HR 8171: Lead-Safe Housing for Kids Act of 2024
+- HR 7902: Stop Onerous Surcharges Act
+- HR 6884: Fair Compensation for Truck Crash Victims Act
+- HR 3909: Cargo Flight Deck Security Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 37
+bills-cosponsored: 251
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Bill Foster
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 251 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (32)
+- Crime and Law Enforcement (23)
+- Finance and Financial Sector (22)
+- International Affairs (22)
+- Taxation (21)
+- Science, Technology, Communications (20)
+- Government Operations and Politics (20)
+- Armed Forces and National Security (16)
+- Labor and Employment (15)
+- Education (13)
+
+**Recent bills sponsored:**
+
+- HR 9783: Improving Digital Identity Act of 2023
+- HR 9252: National Windstorm Impact Reduction Program Reauthorization Act of 2024
+- HR 9205: National Fab Lab Network Act of 2024
+- HR 9145: Enhancing Financial Stability Research and Oversight Act
+- HR 8964: Medical Records Access Fairness Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

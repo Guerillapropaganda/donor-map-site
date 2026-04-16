@@ -29,6 +29,10 @@ stock-trade-tickers:
   - "NVS"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S8NV00156"
+bills-sponsored: 66
+bills-cosponsored: 379
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -73,6 +77,35 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 02/29/2020 | IR | exchange | $1,001 - $15,000 | Joint |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 66 |
+| Bills Cosponsored | 379 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (59)
+- Health (51)
+- International Affairs (44)
+- Government Operations and Politics (26)
+- Crime and Law Enforcement (25)
+- Taxation (23)
+- Congress (21)
+- Science, Technology, Communications (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Commerce (17)
+
+**Enacted into law:**
+
+- S 932: S. 932, No CORRUPTION Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

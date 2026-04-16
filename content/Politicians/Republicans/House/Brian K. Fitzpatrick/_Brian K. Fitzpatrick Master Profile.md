@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 66
+bills-cosponsored: 1286
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Brian K. Fitzpatrick
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 66 |
+| Bills Cosponsored | 1286 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (255)
+- International Affairs (155)
+- Armed Forces and National Security (99)
+- Taxation (85)
+- Education (84)
+- Crime and Law Enforcement (75)
+- Government Operations and Politics (69)
+- Agriculture and Food (66)
+- Transportation and Public Works (48)
+- Labor and Employment (47)
+
+**Enacted into law:**
+
+- HR 1831: Billie Jean King Congressional Gold Medal Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

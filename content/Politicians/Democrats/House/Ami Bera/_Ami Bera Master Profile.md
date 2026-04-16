@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 19
+bills-cosponsored: 300
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ami Bera
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 300 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (74)
+- Health (70)
+- Government Operations and Politics (30)
+- Crime and Law Enforcement (23)
+- Civil Rights and Liberties, Minority Issues (12)
+- Taxation (10)
+- Armed Forces and National Security (10)
+- Finance and Financial Sector (9)
+- Science, Technology, Communications (9)
+- Immigration (9)
+
+**Recent bills sponsored:**
+
+- HR 10385: To provide clarification of assistance related to safeguarding and the elimination of landmines, other explosive remn...
+- HR 10175: Global Alzheimer’s Initiative Now Act
+- HR 8490: National Strategy for Social Connection Act
+- HRES 1127: A resolution reaffirming the United States' commitment to Taiwan and recognizing the 45th anniversary of the enactmen...
+- HRES 1113: A resolution recognizing April 4, 2024, as the International Day for Mine Awareness and Assistance in Mine Action, an...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 25
+bills-cosponsored: 644
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Troy A. Carter
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 644 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (128)
+- Crime and Law Enforcement (54)
+- Armed Forces and National Security (45)
+- Agriculture and Food (39)
+- Education (39)
+- Government Operations and Politics (39)
+- Civil Rights and Liberties, Minority Issues (38)
+- Taxation (31)
+- International Affairs (24)
+- Transportation and Public Works (23)
+
+**Recent bills sponsored:**
+
+- HR 9536: To amend title 23, United States Code, and the Infrastructure Investment and Jobs Act with respect to vehicle roadsid...
+- HR 9036: To amend the Small Business Act to provide for cancellation or repayment for Small Business Administration disaster l...
+- HR 9037: Federal Emergency Mobilization Accountability (FEMA) Workforce Planning Act
+- HRES 1359: Condemning the atrocities that occurred in New Orleans, Louisiana, on July 30, 1866, in which a White supremacist mob...
+- HR 8917: Marijuana Misdemeanor Expungement Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

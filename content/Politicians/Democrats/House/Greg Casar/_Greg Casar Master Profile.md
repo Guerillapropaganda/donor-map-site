@@ -38,6 +38,10 @@ editorial-reviewer: "Research Claude"
 editorial-result: stub-created
 editorial-notes: "Raw stub created 2026-04-10. Greg Casar (TX-35, Austin) is a Justice Democrats-backed progressive freshman (elected 2022), former Austin City Council member, and labor organizer. Key story angle: one of the most labor-aligned members of the 2022 class, endorsed by AOC and Bernie Sanders, district is Austin + San Antonio corridor. Was mentioned in AOC's Courage to Change PAC and Saikat Chakrabarti's Justice Democrats profile. Needs: full profile build including central thesis, donor class map, class analysis, sources. Priority: medium — include in next Research Claude session's stub-to-draft queue."
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 31
+bills-cosponsored: 353
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -87,6 +91,35 @@ Casar's thirst strike on the Capitol steps in February 2023, demanding federal h
 
 ### Verified
 - ~~{{src:src_006229}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 353 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (54)
+- Health (53)
+- International Affairs (43)
+- Crime and Law Enforcement (33)
+- Immigration (31)
+- Taxation (19)
+- Government Operations and Politics (19)
+- Education (16)
+- Finance and Financial Sector (13)
+- Energy (11)
+
+**Enacted into law:**
+
+- HR 7684: Further Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

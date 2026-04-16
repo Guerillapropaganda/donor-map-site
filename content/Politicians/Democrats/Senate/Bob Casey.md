@@ -21,6 +21,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-13"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 154
+bills-cosponsored: 489
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 #bob-casey #senate #pennsylvania #labor #pharma #class-analysis #2024-defeat #democrat
 tags: #democrat
@@ -123,6 +127,36 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 | — |  | Amendment SA 3837 agreed to in Senate by Unanimous Consent. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 154 |
+| Bills Cosponsored | 489 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (115)
+- Crime and Law Enforcement (47)
+- Education (44)
+- Taxation (39)
+- Labor and Employment (38)
+- International Affairs (37)
+- Government Operations and Politics (36)
+- Civil Rights and Liberties, Minority Issues (32)
+- Social Welfare (30)
+- Agriculture and Food (30)
+
+**Enacted into law:**
+
+- S 4076: To designate the facility of the United States Postal Service located at 1077 River Road, Suite 1, in Washington Cros...
+- S 2758: To designate the facility of the United States Postal Service located at 101 South 8th Street in Lebanon, Pennsylvani...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

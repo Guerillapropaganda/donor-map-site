@@ -48,6 +48,10 @@ reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 45
+bills-cosponsored: 318
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -360,6 +364,36 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 - {{src:src_005224}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 318 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- Armed Forces and National Security (40)
+- Labor and Employment (27)
+- Civil Rights and Liberties, Minority Issues (26)
+- International Affairs (22)
+- Congress (21)
+- Crime and Law Enforcement (20)
+- Taxation (19)
+- Government Operations and Politics (17)
+- Native Americans (16)
+
+**Enacted into law:**
+
+- SCONRES 25: Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+- SCONRES 29: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

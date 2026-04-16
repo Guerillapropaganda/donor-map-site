@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2CA00120"
+bills-sponsored: 58
+bills-cosponsored: 688
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Julia Brownley
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 58 |
+| Bills Cosponsored | 688 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (99)
+- Armed Forces and National Security (81)
+- Crime and Law Enforcement (55)
+- Government Operations and Politics (49)
+- Taxation (46)
+- Transportation and Public Works (45)
+- Agriculture and Food (40)
+- Education (39)
+- International Affairs (37)
+- Labor and Employment (29)
+
+**Recent bills sponsored:**
+
+- HR 10138: To amend title 38, United States Code, to direct the Chairman of the Board of Veterans' Appeals to give priority to i...
+- HR 10137: To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide health care for family ...
+- HRES 1548: A resolution designating October 2024 as "National Learning Disabilities Awareness Month".
+- HR 9804: Loved Ones Interment Act
+- HR 9725: WISER Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

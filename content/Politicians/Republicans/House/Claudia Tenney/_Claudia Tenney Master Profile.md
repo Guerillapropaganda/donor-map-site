@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4NY22051"
+bills-sponsored: 79
+bills-cosponsored: 577
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Claudia Tenney
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 79 |
+| Bills Cosponsored | 577 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (93)
+- International Affairs (84)
+- Health (63)
+- Crime and Law Enforcement (62)
+- Armed Forces and National Security (49)
+- Government Operations and Politics (48)
+- Education (28)
+- Immigration (22)
+- Finance and Financial Sector (19)
+- Agriculture and Food (19)
+
+**Recent bills sponsored:**
+
+- HR 10413: To provide for across-the-board rescissions of nonsecurity discretionary spending, and for other purposes.
+- HR 10411: To implement a 5-year pilot program establishing a performance-based pay structure for certain Federal employees in o...
+- HR 10410: To establish a commission to study the relocation of certain agencies outside of the Washington, D.C. metropolitan ar...
+- HR 10412: To impose restrictions on Federal agencies with respect to appointments, and for other purposes.
+- HR 10373: To amend the Internal Revenue Code of 1986 to create a tax credit for nurse preceptors.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

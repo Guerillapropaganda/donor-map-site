@@ -16,8 +16,8 @@ committees:
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
 govtrack-id: 412787
-bills-sponsored: 32
-bills-cosponsored: 871
+bills-sponsored: 30
+bills-cosponsored: 922
 website: https://tlaib.house.gov
 phone: 202-225-5126
 total-received: $1,896,063
@@ -66,6 +66,8 @@ wikidata-id: Q7294939
 wikipedia-url: https://en.wikipedia.org/wiki/Rashida_Tlaib
 wikipedia-extract: Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023.
 born: "1976-07-24"
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -421,6 +423,35 @@ Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. repre
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Rashida_Tlaib) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7294939) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 922 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (145)
+- Civil Rights and Liberties, Minority Issues (67)
+- Crime and Law Enforcement (58)
+- International Affairs (58)
+- Taxation (56)
+- Labor and Employment (56)
+- Education (53)
+- Government Operations and Politics (53)
+- Finance and Financial Sector (44)
+- Armed Forces and National Security (43)
+
+**Enacted into law:**
+
+- HR 5892: A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the "Rosa Parks Fede...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

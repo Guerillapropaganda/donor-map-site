@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 13
+bills-cosponsored: 267
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # William R. Timmons
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 267 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (36)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (29)
+- Health (23)
+- International Affairs (23)
+- Armed Forces and National Security (19)
+- Taxation (16)
+- Education (14)
+- Immigration (10)
+- Congress (10)
+
+**Recent bills sponsored:**
+
+- HR 10544: To specify the treatment of covered non-fungible tokens under the securities laws, and for other purposes.
+- HR 10132: Federal Agency Performance Act of 2024
+- HRES 1315: Expressing the sense of the House of Representatives that the Supreme Court of the United States should use its power...
+- HR 8464: Tokenization Report Act of 2024
+- HR 8218: Demanding Citizenship in DC Elections Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

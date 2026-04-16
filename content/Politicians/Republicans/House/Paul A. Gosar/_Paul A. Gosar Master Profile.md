@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 21
+bills-cosponsored: 401
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Paul A. Gosar
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 401 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (50)
+- Crime and Law Enforcement (49)
+- Government Operations and Politics (36)
+- International Affairs (31)
+- Immigration (31)
+- Taxation (29)
+- Armed Forces and National Security (27)
+- Finance and Financial Sector (20)
+- Public Lands and Natural Resources (20)
+- Energy (16)
+
+**Recent bills sponsored:**
+
+- HR 10466: To deposit portions of revenue generated from public lands into the Social Security Trust Fund.
+- HR 9828: End the Vaccine Carveout Act
+- HR 8954: Clean Electricity and Transmission Acceleration Act of 2023
+- HR 8620: TRUMP Act of 2024
+- HR 8518: Responsibility in Federal Contracting Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

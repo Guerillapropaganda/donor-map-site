@@ -14,8 +14,8 @@ top-donors:
   - Koch Network - Charles Koch
   - Cryptocurrency Industry
 govtrack-id: 412492
-bills-sponsored: 48
-bills-cosponsored: 59
+bills-sponsored: 52
+bills-cosponsored: 100
 website: https://www.paul.senate.gov
 phone: 202-224-4343
 total-received: $11,515
@@ -33,6 +33,8 @@ bioguide-id: P000603
 issues:
   - Crime and Law Enforcement
 donors: "[[Larry Ellison]] · [[Jeffrey Yass]] · [[Cryptocurrency Industry]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[Barre Seid]]"
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -299,6 +301,39 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 | — |  | — |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 52 |
+| Bills Cosponsored | 100 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (23)
+- Congress (22)
+- Health (21)
+- Government Operations and Politics (12)
+- Crime and Law Enforcement (11)
+- Taxation (8)
+- Labor and Employment (6)
+- Education (6)
+- Finance and Financial Sector (5)
+- Environmental Protection (4)
+
+**Recent bills sponsored:**
+
+- S 5512: A bill to restore the integrity of the Fifth Amendment to the Constitution of the United States, and for other purposes.
+- S 5458: A bill to allow Federal funds appropriated for kindergarten through grade 12 education to follow the student.
+- SJRES 117: A joint resolution relating to the disapproval of the Presidential report with respect to the indebtedness of the Gov...
+- S 5299: Paperwork Reduction for Farmers and H–2A Modernization Act
+- S 5298: Health Marketplace for All Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

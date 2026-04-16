@@ -83,6 +83,10 @@ total-spent: $3,306,927
 cash-on-hand: "1179149.96"
 fec-cycle: 2026
 donors: "[[Google - Alphabet]] · [[House Majority PAC]] · [[Blue Shield of California]] · [[Democratic Small Dollar Networks]] · [[California Labor Federation]] · [[Kaiser Permanente]] · [[Jeffrey Katzenberg]] · [[UnitedHealth Group - Optum]] · [[FUTURE45]] · [[Congressional Leadership Fund]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[SEIU - Service Employees International Union]] · [[AIPAC - American Israel Public Affairs Committee]] · [[VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY)]] · [[Mark Zuckerberg]] · [[ARIZONANS FOR AFFORDABLE ELECTRICITY]] · [[Arizonans for Affordable Electricity]] · [[Future45]]"
+bills-sponsored: 2
+bills-cosponsored: 95
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -405,6 +409,36 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 - [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/f000485) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 2 |
+| Bills Cosponsored | 95 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (22)
+- International Affairs (16)
+- Civil Rights and Liberties, Minority Issues (6)
+- Crime and Law Enforcement (6)
+- Labor and Employment (6)
+- Health (6)
+- Finance and Financial Sector (5)
+- Education (3)
+- Taxation (3)
+- Congress (3)
+
+**Recent bills sponsored:**
+
+- HRES 742: A resolution honoring the life and legacy of Dianne Feinstein, the late Senator for the State of California.
+- HRES 621: A resolution commemorating the life, legacy, and entertainment career of Tony Bennett.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 41
+bills-cosponsored: 308
+bills-enacted: 1
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Harriet M. Hageman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 308 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (33)
+- Crime and Law Enforcement (29)
+- Health (25)
+- International Affairs (24)
+- Energy (24)
+- Armed Forces and National Security (23)
+- Environmental Protection (21)
+- Taxation (19)
+- Public Lands and Natural Resources (14)
+- Transportation and Public Works (12)
+
+**Enacted into law:**
+
+- HR 7170: Victims' VOICES Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

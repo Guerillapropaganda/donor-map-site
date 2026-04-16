@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8FL20032"
+bills-sponsored: 20
+bills-cosponsored: 643
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sheila Cherfilus-McCormick
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 643 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (160)
+- International Affairs (64)
+- Armed Forces and National Security (59)
+- Crime and Law Enforcement (47)
+- Government Operations and Politics (45)
+- Education (37)
+- Civil Rights and Liberties, Minority Issues (36)
+- Labor and Employment (27)
+- Agriculture and Food (18)
+- Taxation (17)
+
+**Recent bills sponsored:**
+
+- HR 10272: DEAL with Obesity Act of 2024
+- HR 9363: Empowering Women in Agriculture Act
+- HRES 1326: Congratulating the Florida Panthers for winning the 2024 Stanley Cup Final, the team's first-ever Stanley Cup champio...
+- HRES 1254: A resolution recognizing the strategic importance of Kenya to the United States and celebrating the 60-year anniversa...
+- HR 8249: ASTIP Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

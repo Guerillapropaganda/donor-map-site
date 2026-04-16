@@ -12,13 +12,15 @@ total-received: $483,642,897
 fec-candidate-id: S8UT00176
 bioguide-id: R000615
 govtrack-id: 412841
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 27
+bills-cosponsored: 150
 donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]] · [[PRIORITIES USA ACTION]] · [[Winning Our Future]] · [[Americans for Responsible Leadership]] · [[Restore Our Future, Inc.]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]]"
 related: "[[Paul Ryan]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -182,6 +184,39 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 - [GovTrack: Mitt Romney](https://www.govtrack.us/congress/members/412841) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 150 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (32)
+- Congress (18)
+- Armed Forces and National Security (15)
+- Education (14)
+- Government Operations and Politics (11)
+- Finance and Financial Sector (10)
+- Labor and Employment (8)
+- Public Lands and Natural Resources (7)
+- Environmental Protection (7)
+- Health (7)
+
+**Recent bills sponsored:**
+
+- S 5616: A bill to establish the Artificial Intelligence Safety Review Office in the Department of Commerce, and for other pur...
+- S 5403: Aligning Development and Competition Act of 2024
+- S 5256: Family Security Act
+- S 5140: COVID Spending Transparency Act of 2024
+- S 5079: Tax Relief for American Families and Workers Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

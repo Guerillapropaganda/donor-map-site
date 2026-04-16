@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2WA03217"
+bills-sponsored: 31
+bills-cosponsored: 339
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Marie Gluesenkamp Perez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 339 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (53)
+- Armed Forces and National Security (32)
+- Crime and Law Enforcement (28)
+- Agriculture and Food (27)
+- Taxation (27)
+- International Affairs (25)
+- Government Operations and Politics (25)
+- Labor and Employment (18)
+- Commerce (16)
+- Education (16)
+
+**Recent bills sponsored:**
+
+- HR 10401: To promote military readiness by ensuring the Department of Defense retains the right to repair equipment it acquires...
+- HR 10260: To provide compensation flexibility to address retention and hiring issues at the Bonneville Power Administration.
+- HRES 1573: Establishing the Select Committee on Electoral Reform.
+- HR 10031: Performance Life Disclosure Act of 2024
+- HR 10015: Cutting Red Tape on Child Care Providers Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

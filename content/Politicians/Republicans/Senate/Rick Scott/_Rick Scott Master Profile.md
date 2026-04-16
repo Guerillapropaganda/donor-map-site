@@ -17,8 +17,8 @@ fec-candidate-id: S8FL00273
 bioguide-id: S001217
 stock-trades: 142
 govtrack-id: 412838
-bills-sponsored: 142
-bills-cosponsored: 331
+bills-sponsored: 128
+bills-cosponsored: 552
 website: https://www.rickscott.senate.gov
 phone: 202-224-5274
 source-types:
@@ -54,6 +54,8 @@ internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: S001217. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 donors: "[[National Republican Senatorial Committee]] · [[AFGE - American Federation of Government Employees]] · [[Fanjul Family - Florida Crystals]] · [[Raytheon (RTX Corporation)]] · [[Blue Shield of California]]"
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -355,6 +357,35 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 - [GovTrack: Rick Scott](https://www.govtrack.us/congress/members/412838) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 128 |
+| Bills Cosponsored | 552 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (113)
+- Government Operations and Politics (54)
+- Health (47)
+- Armed Forces and National Security (47)
+- Finance and Financial Sector (44)
+- Crime and Law Enforcement (43)
+- Education (36)
+- Congress (34)
+- Taxation (31)
+- Immigration (22)
+
+**Enacted into law:**
+
+- S 3181: Michel O. Maceda Memorial Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

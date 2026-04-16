@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2SC07280"
+bills-sponsored: 11
+bills-cosponsored: 229
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Russell Fry
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 229 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (37)
+- International Affairs (31)
+- Government Operations and Politics (31)
+- Armed Forces and National Security (18)
+- Immigration (13)
+- Taxation (11)
+- Health (11)
+- Congress (10)
+- Education (9)
+- Law (7)
+
+**Recent bills sponsored:**
+
+- HRES 1533: Reaffirming United States support of the State of Israel one year after the October 7, 2023, attacks.
+- HR 8304: Protect the BALL Act of 2024
+- HRES 1183: A resolution commending the University of South Carolina Gamecocks women's basketball team for winning the 2024 Natio...
+- HR 7137: Trafficking Survivors Relief Act of 2024
+- HR 6625: Chinese Spy Balloon Assessment Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

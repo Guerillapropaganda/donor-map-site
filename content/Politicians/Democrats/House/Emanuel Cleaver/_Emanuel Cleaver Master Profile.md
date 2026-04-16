@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4MO05234"
+bills-sponsored: 31
+bills-cosponsored: 557
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Emanuel Cleaver
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 557 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (109)
+- Crime and Law Enforcement (57)
+- Government Operations and Politics (42)
+- Civil Rights and Liberties, Minority Issues (35)
+- Education (35)
+- Finance and Financial Sector (30)
+- Labor and Employment (30)
+- Taxation (25)
+- International Affairs (25)
+- Armed Forces and National Security (23)
+
+**Recent bills sponsored:**
+
+- HR 10475: To direct the Secretary of Housing and Urban Development to establish a grant program to address deed fraud, and for ...
+- HR 10421: To establish a permanent rural housing preservation and revitalization program, and for other purposes.
+- HR 10422: To amend the Community Development Banking and Financial Institutions Act of 1994 to reauthorize and improve the comm...
+- HRES 1505: Expressing support for the designation of September 2024 as "National Polycystic Kidney Disease Awareness Month", and...
+- HR 9245: American Housing and Economic Mobility Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

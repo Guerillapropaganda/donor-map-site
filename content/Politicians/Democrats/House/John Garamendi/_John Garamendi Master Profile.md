@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0CA10149"
+bills-sponsored: 40
+bills-cosponsored: 476
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # John Garamendi
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 40 |
+| Bills Cosponsored | 476 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (58)
+- Transportation and Public Works (46)
+- Government Operations and Politics (43)
+- Armed Forces and National Security (43)
+- Crime and Law Enforcement (28)
+- International Affairs (28)
+- Taxation (27)
+- Education (26)
+- Labor and Employment (24)
+- Agriculture and Food (23)
+
+**Recent bills sponsored:**
+
+- HR 9943: Seaman Danyelle Luckey Military Medical Accountability Amendment Act of 2024
+- HR 9825: Expanding Head Start Eligibility Act of 2024
+- HR 9826: San Pablo Bay National Wildlife Refuge Expansion Act of 2024
+- HR 9602: Forest Legacy Management Flexibility Act
+- HR 9348: Justice for Victims of Foreign Vessel Accidents Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

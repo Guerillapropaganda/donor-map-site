@@ -25,8 +25,8 @@ total-received: $1,032,781
 fec-candidate-id: H8NY06048
 bioguide-id: M001137
 govtrack-id: 400271
-bills-sponsored: 36
-bills-cosponsored: 193
+bills-sponsored: 23
+bills-cosponsored: 287
 website: https://meeks.house.gov
 phone: 202-225-3461
 source-types:
@@ -38,6 +38,8 @@ known-gaps:
   - No mapped relationships
 donors: "[[NORPAC]], [[FAIRSHAKE]], [[Goldman Sachs]], [[Planned Parenthood Votes]], [[CARE ACTION NOW INC.]], [[SIERRA CLUB POLITICAL COMMITTEE]], [[DIRECT SELLING EMPOWERS AMERICANS]], [[Sierra Club Political Committee]], [[Direct Selling Empowers Americans]], [[Care Action Now Inc.]]"
 related: "[[_Maxine Waters Master Profile|Maxine Waters]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[Goldman Sachs]]"
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -292,6 +294,39 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 | 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
 
 <!-- auto:govtrack end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 287 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (67)
+- Health (44)
+- Civil Rights and Liberties, Minority Issues (24)
+- Government Operations and Politics (24)
+- Finance and Financial Sector (23)
+- Crime and Law Enforcement (20)
+- Armed Forces and National Security (13)
+- Labor and Employment (10)
+- Housing and Community Development (7)
+- Immigration (7)
+
+**Recent bills sponsored:**
+
+- HR 10498: To amend the National Housing Act to restrict the collection of annual mortgage insurance premiums when a 78 percent ...
+- HCONRES 135: Affirming the nature and importance of the support of the United States for Syria.
+- HR 10294: To establish a pilot program for the Secretary of Housing and Urban Development to evaluate the effectiveness of insu...
+- HR 10268: U.S. Engagement in Sudanese Peace Act
+- HR 9719: Strengthening USAID Management Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

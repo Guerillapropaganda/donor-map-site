@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 8
+bills-cosponsored: 224
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Austin Scott
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 224 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (28)
+- Crime and Law Enforcement (23)
+- Agriculture and Food (22)
+- Government Operations and Politics (21)
+- Armed Forces and National Security (21)
+- International Affairs (18)
+- Taxation (15)
+- Labor and Employment (14)
+- Finance and Financial Sector (13)
+- Education (10)
+
+**Recent bills sponsored:**
+
+- HRES 1612: Liberty in Laundry Act
+- HRES 1316: Department of Defense Appropriations Act, 2025
+- HRES 1287: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
+- HR 8182: Ocmulgee Mounds National Park and Preserve Establishment Act
+- HR 8055: Ensuring Access to Risk Management Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

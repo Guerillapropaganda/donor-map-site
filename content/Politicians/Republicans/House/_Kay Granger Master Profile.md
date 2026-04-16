@@ -31,6 +31,10 @@ known-gaps:
 related: "[[Lockheed Martin]] · [[Boeing]]"
 donors: "[[Boeing]], [[Oil & Gas PACs]], [[Congressional Leadership Fund]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH ACTION]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]], [[WFW ACTION FUND, INC.]], [[Wfw Action Fund, Inc.]], [[Protect Freedom Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 8
+bills-cosponsored: 108
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -276,6 +280,35 @@ Granger's "fiscal conservative" brand makes the class analysis sharper. She oppo
 
 - {{src:src_004109}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 108 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (14)
+- Government Operations and Politics (13)
+- Armed Forces and National Security (11)
+- Economics and Public Finance (10)
+- Taxation (9)
+- Crime and Law Enforcement (8)
+- Finance and Financial Sector (6)
+- Health (6)
+- Immigration (5)
+- Transportation and Public Works (4)
+
+**Enacted into law:**
+
+- HRES 1102: Further Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

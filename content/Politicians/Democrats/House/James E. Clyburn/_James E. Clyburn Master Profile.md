@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 8
+bills-cosponsored: 112
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # James E. Clyburn
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 112 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (17)
+- Civil Rights and Liberties, Minority Issues (16)
+- Government Operations and Politics (12)
+- Health (11)
+- Armed Forces and National Security (10)
+- International Affairs (8)
+- Education (7)
+- Labor and Employment (6)
+- Science, Technology, Communications (3)
+- Congress (3)
+
+**Recent bills sponsored:**
+
+- HR 10084: Renewing the African American Civil Rights Network Act
+- HR 9727: Voter Empowerment Act of 2024
+- HR 8607: VA Housing Loan Forever Act of 2024
+- HR 6239: To designate the facility of the United States Postal Service located at 250 Edward Street in Branchville, South Caro...
+- HR 3849: Rural Energy Savings Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

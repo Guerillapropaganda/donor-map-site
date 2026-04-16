@@ -32,6 +32,10 @@ known-gaps:
 donors: "[[NORPAC]]"
 related: "[[_Bobby Scott Master Profile|Bobby Scott]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 32
+bills-cosponsored: 213
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -203,6 +207,39 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 213 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (23)
+- Labor and Employment (20)
+- Education (19)
+- Energy (18)
+- Crime and Law Enforcement (18)
+- Health (17)
+- Government Operations and Politics (17)
+- Armed Forces and National Security (14)
+- Immigration (14)
+- Science, Technology, Communications (13)
+
+**Recent bills sponsored:**
+
+- HR 9302: Worker Enfranchisement Act
+- HJRES 199: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+- HRES 1391: Congratulating the American Motorcyclist Association on their 100th Anniversary.
+- HJRES 181: H.J. Res. 181, providing for Congressional disapproval under chapter 8 of title 5, United States Code, of the rule su...
+- HJRES 166: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

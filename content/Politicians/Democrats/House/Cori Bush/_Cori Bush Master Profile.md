@@ -13,8 +13,8 @@ state-abbr: MO
 district: "1"
 bioguide-id: B001224
 govtrack-id: 456829
-bills-sponsored: 38
-bills-cosponsored: 756
+bills-sponsored: 15
+bills-cosponsored: 398
 total-received: $534,492
 fec-candidate-id: H8MO01143
 fec-committee-id: C00638767
@@ -76,6 +76,8 @@ wikidata-id: Q98084800
 wikipedia-url: https://en.wikipedia.org/wiki/Cori_Bush
 wikipedia-extract: Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025.
 born: "1976-07-21"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -229,7 +231,40 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - [Fox News: Records challenge Bush's claims of funding delivered to district](https://www.foxnews.com/politics/unearthed-records-torpedo-cori-bushs-new-claim-billions-funding-she-delivered-district) (Tier 3) (VERIFIED)
 - [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4) (VERIFIED)
 
-#### Archived
+##### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 398 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- Civil Rights and Liberties, Minority Issues (36)
+- Crime and Law Enforcement (29)
+- Labor and Employment (25)
+- Government Operations and Politics (25)
+- Taxation (24)
+- Education (22)
+- International Affairs (20)
+- Agriculture and Food (16)
+- Housing and Community Development (15)
+
+**Recent bills sponsored:**
+
+- HRES 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropr...
+- HR 8470: Helping Families Heal Act of 2024
+- HCONRES 92: Honoring the Mary Meachum Freedom Crossing.
+- HRES 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
+- HRES 634: Unhoused Persons Bill of Rights
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Archived
 - ~~[bush.house.gov: About](https://bush.house.gov/about)~~ (was Tier 1, site deactivated after Bush left office Jan 2025, bio data preserved in Who They Are section)
 
 ---

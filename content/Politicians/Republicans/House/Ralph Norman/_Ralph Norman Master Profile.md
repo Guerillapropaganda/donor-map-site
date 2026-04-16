@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8SC05158"
+bills-sponsored: 24
+bills-cosponsored: 483
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ralph Norman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 483 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (65)
+- Crime and Law Enforcement (54)
+- Government Operations and Politics (45)
+- Finance and Financial Sector (39)
+- Health (39)
+- Immigration (35)
+- Taxation (26)
+- Armed Forces and National Security (25)
+- Economics and Public Finance (22)
+- Education (20)
+
+**Recent bills sponsored:**
+
+- HR 10371: To prohibit sanctuary jurisdictions from receiving community development block grants.
+- HR 10106: Ensuring Quality Care for Our Veterans Act
+- HR 9714: H.R. 9714, CBO Oversight Act
+- HR 8051: Earmark Elimination Act of 2024
+- HR 7620: Protecting Access to Recreation with Cash Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

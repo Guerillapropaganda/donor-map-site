@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 15
+bills-cosponsored: 151
+bills-enacted: 1
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michael R. Turner
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 151 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (29)
+- International Affairs (26)
+- Taxation (15)
+- Government Operations and Politics (14)
+- Health (10)
+- Crime and Law Enforcement (9)
+- Finance and Financial Sector (8)
+- Education (8)
+- Transportation and Public Works (6)
+- Labor and Employment (4)
+
+**Enacted into law:**
+
+- HR 1376: COVID-19 Origin Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

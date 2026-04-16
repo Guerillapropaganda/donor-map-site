@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 17
+bills-cosponsored: 210
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Max L. Miller
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 210 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (38)
+- Taxation (19)
+- Crime and Law Enforcement (19)
+- Armed Forces and National Security (18)
+- Agriculture and Food (16)
+- Science, Technology, Communications (14)
+- Education (13)
+- Government Operations and Politics (13)
+- Finance and Financial Sector (11)
+- Health (11)
+
+**Recent bills sponsored:**
+
+- HR 9723: H.R. 9723, National Windstorm Impact Reduction Program Reauthorization Act of 2024
+- HR 9338: To amend the Internal Revenue Code of 1986 to restrict the advanced manufacturing production credit with respect to c...
+- HR 9219: Weather Data Taxpayer Protection Act
+- HRES 1362: Expressing condemnation of political violence and denouncing the attempted assassination of Former President Donald J...
+- HRES 1219: Israel Security Assistance Support Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

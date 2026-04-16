@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 27
+bills-cosponsored: 684
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Yvette D. Clarke
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 684 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (172)
+- Crime and Law Enforcement (53)
+- Government Operations and Politics (47)
+- International Affairs (44)
+- Education (41)
+- Civil Rights and Liberties, Minority Issues (38)
+- Immigration (30)
+- Labor and Employment (28)
+- Environmental Protection (26)
+- Agriculture and Food (24)
+
+**Recent bills sponsored:**
+
+- HR 10139: American Renewable Energy Act of 2024
+- HR 9782: Uterine Cancer Study Act of 2024
+- HR 9689: DHS Cybersecurity Internship Program Act
+- HR 9098: Peggy Lillis Clostridioides difficile Inclusion Act
+- HR 8527: Climate Justice Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

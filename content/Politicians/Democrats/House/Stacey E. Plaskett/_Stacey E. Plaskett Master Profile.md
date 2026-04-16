@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 30
+bills-cosponsored: 197
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Stacey E. Plaskett
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 197 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (30)
+- Crime and Law Enforcement (25)
+- Government Operations and Politics (21)
+- Taxation (21)
+- Civil Rights and Liberties, Minority Issues (16)
+- Agriculture and Food (13)
+- Armed Forces and National Security (11)
+- Education (10)
+- Social Welfare (7)
+- Emergency Management (6)
+
+**Recent bills sponsored:**
+
+- HR 10503: To amend the Internal Revenue Code of 1986 to determine global intangible low-taxed income without regard to certain ...
+- HR 10435: To extend preferential duty treatment program for Haiti under the Caribbean Basin Economic Recovery Act, and for othe...
+- HR 10146: Hire A Hero Act of 2024
+- HR 10147: RECRUIT Act of 2024
+- HRES 1124: Expressing support for the designation of the last Tuesday of April each year as "APOL1-Mediated Kidney Disease (AMKD...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

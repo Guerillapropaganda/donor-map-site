@@ -28,8 +28,8 @@ top-donors:
   - "American Farm Bureau Federation"
   - "National Cattlemen's Beef Association"
 govtrack-id: 400247
-bills-sponsored: 13
-bills-cosponsored: 63
+bills-sponsored: 22
+bills-cosponsored: 80
 website: "https://lucas.house.gov"
 phone: "202-225-5565"
 total-received: "$472,295"
@@ -45,6 +45,8 @@ known-gaps:
   - "No mapped relationships"
 related: "[[American Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network - Charles Koch|Koch Industries]] · [[_Gavin Newsom Master Profile]]"
 bioguide-id: "L000491"
+bills-enacted: 0
+top-policy-area: "Science, Technology, Communications"
 ---
 
 <!-- auto:data-panel start -->
@@ -479,6 +481,39 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 | 2563 | Aviation Education Remaining Operational Act | Referred to the Subcommittee on Aviation. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 80 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Science, Technology, Communications (19)
+- Finance and Financial Sector (13)
+- Crime and Law Enforcement (8)
+- International Affairs (8)
+- Agriculture and Food (8)
+- Health (5)
+- Taxation (4)
+- Energy (4)
+- Foreign Trade and International Finance (4)
+- Armed Forces and National Security (4)
+
+**Recent bills sponsored:**
+
+- HR 9633: Securing Innovation in Financial Regulation Act
+- HR 9632: CASH Act
+- HCONRES 124: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Go...
+- HR 8958: ASCEND Act
+- HR 8802: Capital Markets Impact of Federal Reserve Study Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

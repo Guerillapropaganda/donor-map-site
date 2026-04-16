@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2TX03126"
+bills-sponsored: 17
+bills-cosponsored: 331
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Pete Sessions
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 331 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (48)
+- International Affairs (43)
+- Finance and Financial Sector (41)
+- Government Operations and Politics (39)
+- Crime and Law Enforcement (34)
+- Immigration (21)
+- Taxation (18)
+- Education (15)
+- Labor and Employment (13)
+- Armed Forces and National Security (8)
+
+**Recent bills sponsored:**
+
+- HR 9593: MANAGER Act
+- HR 9342: Securities Enforcement Clarity Act of 2024
+- HR 8930: Accessibility Constituent Communication Act of 2024
+- HR 8878: Blind Americans Return to Work Act of 2024
+- HR 8373: No Taxpayer-Funded Pensions for Sex Criminals Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

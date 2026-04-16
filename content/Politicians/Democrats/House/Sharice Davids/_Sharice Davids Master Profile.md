@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8KS03155"
+bills-sponsored: 16
+bills-cosponsored: 420
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Sharice Davids
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 420 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (83)
+- Native Americans (42)
+- Agriculture and Food (29)
+- Armed Forces and National Security (28)
+- Taxation (24)
+- Crime and Law Enforcement (24)
+- Civil Rights and Liberties, Minority Issues (24)
+- International Affairs (18)
+- Commerce (16)
+- Education (13)
+
+**Recent bills sponsored:**
+
+- HR 10302: ABLE Employment Flexibility Act
+- HR 9959: To direct the Comptroller General of the United States to issue a report on the effectiveness of local outdoor siren ...
+- HRES 1526: Recognizing the week of September 30th as "National Orange Shirt Week" or "National Week of Remembrance", which aims ...
+- HR 9863: Resilient Food Supply Chain and Affordability Act
+- HR 9121: Fire Management Assistance Grants for Tribal Governments Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

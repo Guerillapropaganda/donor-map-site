@@ -23,8 +23,8 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 govtrack-id: 412507
-bills-sponsored: 41
-bills-cosponsored: 249
+bills-sponsored: 79
+bills-cosponsored: 272
 website: https://www.schatz.senate.gov
 phone: 202-224-3934
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Gary Peters]]"
@@ -42,6 +42,8 @@ issues:
   - Science, Technology, Communications
   - Taxation
 donors: "[[MoveOn.org Political Action]], [[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[Climate Hawks Vote]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]], [[International Longshore and Warehouse Union -- Political Action Fund]]"
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -305,6 +307,35 @@ party:: Democrat
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 79 |
+| Bills Cosponsored | 272 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (36)
+- Crime and Law Enforcement (26)
+- International Affairs (25)
+- Government Operations and Politics (25)
+- Native Americans (22)
+- Taxation (22)
+- Congress (20)
+- Civil Rights and Liberties, Minority Issues (19)
+- Labor and Employment (18)
+- Armed Forces and National Security (17)
+
+**Enacted into law:**
+
+- S 2285: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

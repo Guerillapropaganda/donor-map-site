@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 30
+bills-cosponsored: 344
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # James C. Moylan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 344 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (70)
+- International Affairs (29)
+- Public Lands and Natural Resources (27)
+- Health (26)
+- Government Operations and Politics (26)
+- Crime and Law Enforcement (24)
+- Agriculture and Food (19)
+- Immigration (15)
+- Taxation (15)
+- Transportation and Public Works (13)
+
+**Recent bills sponsored:**
+
+- HR 9407: To amend title 49, United States Code, to except from certain requirements relating to eligibility for essential air ...
+- HR 8899: Ko’ko’ BIRDS Stamp Act
+- HRES 1335: Supporting the designation of July 21, 2024, as "Guam Liberation Day".
+- HR 8786: PIFAA
+- HRES 1290: Recognizing June 12, 2024, as this year's observance of "Philippines Independence Day" to honor the 126th anniversary...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

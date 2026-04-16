@@ -41,6 +41,10 @@ issues:
   - Immigration
 donors: "[[Protect Freedom Political Action Committee]], [[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[CITIZEN SUPER PAC]], [[Florida Conservative Fund]], [[FLORIDA CONSERVATIVE FUND]], [[Citizen Super PAC]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 43
+bills-cosponsored: 691
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -290,6 +294,39 @@ _No committee data found._
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 43 |
+| Bills Cosponsored | 691 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (105)
+- International Affairs (86)
+- Congress (83)
+- Health (81)
+- Agriculture and Food (44)
+- Labor and Employment (41)
+- Public Lands and Natural Resources (36)
+- Crime and Law Enforcement (30)
+- Armed Forces and National Security (29)
+- Taxation (26)
+
+**Recent bills sponsored:**
+
+- HR 10067: HARRIS Act of 2024
+- HR 10066: JAIL for Alien Voters Act of 2024
+- HRES 1549: Expressing the sense of the House of Representatives on contract breaches and other failures under the F-35 aircraft ...
+- HR 10003: National Motor Voter Clarification Act
+- HR 9895: BARRIER Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

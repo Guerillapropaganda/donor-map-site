@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0TN01118"
+bills-sponsored: 25
+bills-cosponsored: 333
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Diana Harshbarger
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 333 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Crime and Law Enforcement (39)
+- International Affairs (36)
+- Government Operations and Politics (30)
+- Taxation (24)
+- Armed Forces and National Security (23)
+- Immigration (18)
+- Education (13)
+- Finance and Financial Sector (10)
+- Energy (10)
+
+**Recent bills sponsored:**
+
+- HR 10362: To prohibit pharmacy benefit managers and pharmacies from being under common ownership, and for other purposes.
+- HR 9010: Universal Savings Account Act of 2024
+- HR 8843: American Music Tourism Act of 2024
+- HR 7376: Wireless Broadband Competition and Efficient Deployment Act
+- HR 7155: United States-Abraham Accords Cooperation and Security Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -24,6 +24,10 @@ known-gaps:
 donors: "[[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6IN00191"
+bills-sponsored: 43
+bills-cosponsored: 324
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Todd Young
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 43 |
+| Bills Cosponsored | 324 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (54)
+- Health (31)
+- Education (23)
+- Labor and Employment (22)
+- Taxation (22)
+- Congress (19)
+- Science, Technology, Communications (17)
+- Finance and Financial Sector (17)
+- Crime and Law Enforcement (15)
+- Commerce (15)
+
+**Enacted into law:**
+
+- S 4141: FIFA World Cup 2026 Commemorative Coin Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

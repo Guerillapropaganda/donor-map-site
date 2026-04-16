@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 53
+bills-cosponsored: 494
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jefferson van Drew
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 53 |
+| Bills Cosponsored | 494 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (101)
+- Armed Forces and National Security (63)
+- International Affairs (53)
+- Crime and Law Enforcement (49)
+- Government Operations and Politics (39)
+- Taxation (29)
+- Immigration (28)
+- Transportation and Public Works (27)
+- Education (19)
+- Finance and Financial Sector (18)
+
+**Enacted into law:**
+
+- HR 6714: A bill to provide remote access to court proceedings for victims of the 1988 Bombing of Pan Am Flight 103 over Locker...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

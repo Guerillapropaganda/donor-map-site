@@ -76,10 +76,12 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
 wikipedia-extract: "Hakeem Sekou Jeffries is an American politician and attorney who has served as House minority leader and leader of the House Democratic Caucus since 2023."
 born: "1970-08-04"
 govtrack-id: 412561
-bills-sponsored: 120
-bills-cosponsored: 1582
+bills-sponsored: 1
+bills-cosponsored: 36
 website: "https://jeffries.house.gov"
 phone: "202-225-5936"
+bills-enacted: 0
+top-policy-area: "Civil Rights and Liberties, Minority Issues"
 ---
 
 <!-- auto:data-panel start -->
@@ -232,7 +234,36 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 - House Democratic Caucus leadership page
 - Direct FEC IE filings for AIPAC coordinated spending on Jeffries
 
-### Archived
+#### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 1 |
+| Bills Cosponsored | 36 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Civil Rights and Liberties, Minority Issues (6)
+- Health (5)
+- Arts, Culture, Religion (5)
+- Crime and Law Enforcement (4)
+- Government Operations and Politics (3)
+- International Affairs (3)
+- Labor and Employment (2)
+- Finance and Financial Sector (2)
+- Congress (1)
+- Social Welfare (1)
+
+**Recent bills sponsored:**
+
+- HRES 1396: A resolution recognizing the 49th anniversary of the independence of the Republic of Cabo Verde and celebrating the c...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Archived
 - ~~[OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donor Class Map body; needs FEC cross-check)
 
 ---

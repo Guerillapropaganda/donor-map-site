@@ -21,8 +21,8 @@ top-donors:
   - ConocoPhillips
 bioguide-id: K000393
 govtrack-id: 406274
-bills-sponsored: 0
-bills-cosponsored: 0
+bills-sponsored: 84
+bills-cosponsored: 240
 stock-trades: 2
 stock-trade-tickers:
   - "MTUM"
@@ -32,6 +32,8 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 donors: "[[Goldman Sachs]], [[ExxonMobil]], [[Koch Industries]], [[ConocoPhillips]]"
+bills-enacted: 1
+top-policy-area: "Finance and Financial Sector"
 ---
 
 <!-- auto:data-panel start -->
@@ -382,6 +384,35 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 - [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 84 |
+| Bills Cosponsored | 240 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (35)
+- Crime and Law Enforcement (32)
+- International Affairs (29)
+- Congress (21)
+- Health (19)
+- Commerce (17)
+- Taxation (17)
+- Agriculture and Food (16)
+- Environmental Protection (16)
+- Government Operations and Politics (15)
+
+**Enacted into law:**
+
+- S 1169: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

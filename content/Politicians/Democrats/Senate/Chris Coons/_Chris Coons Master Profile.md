@@ -52,6 +52,10 @@ internal-notes: |-
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 donors: "[[The National Republican Trust PAC]], [[First Amendment Alliance]], [[AMERICAN WORKER INC, THE]], [[LET FREEDOM RING INC]], [[Let Freedom Ring INC]], [[THE NATIONAL REPUBLICAN TRUST PAC]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[FIRST AMENDMENT ALLIANCE]], [[American Worker Inc, the]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 77
+bills-cosponsored: 425
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -364,6 +368,35 @@ party:: Democrat
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 77 |
+| Bills Cosponsored | 425 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (79)
+- Health (52)
+- Crime and Law Enforcement (45)
+- Government Operations and Politics (27)
+- Armed Forces and National Security (27)
+- Energy (26)
+- Civil Rights and Liberties, Minority Issues (24)
+- Commerce (24)
+- Taxation (22)
+- Labor and Employment (21)
+
+**Enacted into law:**
+
+- S 3745: BRIDGE for Workers Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

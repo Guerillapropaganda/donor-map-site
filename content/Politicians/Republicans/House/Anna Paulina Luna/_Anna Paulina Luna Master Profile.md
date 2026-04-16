@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0FL13158"
+bills-sponsored: 36
+bills-cosponsored: 300
+bills-enacted: 0
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Anna Paulina Luna
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 300 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (41)
+- International Affairs (37)
+- Government Operations and Politics (37)
+- Armed Forces and National Security (35)
+- Health (32)
+- Taxation (21)
+- Congress (17)
+- Immigration (14)
+- Education (8)
+- Transportation and Public Works (7)
+
+**Recent bills sponsored:**
+
+- HRES 1599: Condemning the death threats against Representative Nancy Mace.
+- HR 9476: To condition the availability of Federal funds to Turkey on a formal apology for the attack on September 2, 2024, and...
+- HRES 1357: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
+- HRES 1344: Recommending that the House of Representatives find United States Attorney General Merrick B. Garland in contempt of ...
+- HRES 1334: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

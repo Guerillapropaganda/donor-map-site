@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S6TX00511"
+bills-sponsored: 11
+bills-cosponsored: 165
+bills-enacted: 2
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -45,3 +49,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Wesley Hunt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 165 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (29)
+- International Affairs (22)
+- Armed Forces and National Security (17)
+- Government Operations and Politics (15)
+- Immigration (15)
+- Energy (9)
+- Environmental Protection (7)
+- Health (7)
+- Taxation (6)
+- Congress (6)
+
+**Enacted into law:**
+
+- HR 7377: H.R. 7377, Royalty Resiliency Act
+- HR 3325: Recruit and Retain Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

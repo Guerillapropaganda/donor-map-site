@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2SC02059"
+bills-sponsored: 26
+bills-cosponsored: 354
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Joe Wilson
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 354 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (140)
+- Health (40)
+- Armed Forces and National Security (25)
+- Crime and Law Enforcement (21)
+- Education (21)
+- Immigration (16)
+- Government Operations and Politics (16)
+- Taxation (15)
+- Finance and Financial Sector (11)
+- Congress (11)
+
+**Recent bills sponsored:**
+
+- HR 8566: H.R. 8566, Mobilizing and Enhancing Georgia’s Options for Building Accountability, Resilience, and Independence Act
+- HR 7866: United States-Israel Anti-Tunnel Cooperation Act
+- HRES 932: Recognizing the 120th anniversary of diplomatic relations between the United States of America and the Republic of Bu...
+- HRES 930: Condemning the Cable News Network (CNN) for utilizing images from an imbedded photojournalist with prior knowledge of...
+- HR 6491: Asset Seizure for Ukraine Reconstruction Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

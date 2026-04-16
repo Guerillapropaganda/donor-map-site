@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[House Freedom Caucus]]"
 related: "[[House Freedom Caucus]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 2
+bills-cosponsored: 218
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andy Harris
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 2 |
+| Bills Cosponsored | 218 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- Crime and Law Enforcement (31)
+- Taxation (20)
+- International Affairs (15)
+- Immigration (15)
+- Armed Forces and National Security (14)
+- Government Operations and Politics (14)
+- Education (11)
+- Civil Rights and Liberties, Minority Issues (7)
+- Agriculture and Food (6)
+
+**Recent bills sponsored:**
+
+- HR 9027: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2025
+- HR 4368: To nullify the modifications made by the Food and Drug Administration in January 2023 to the risk evaluation and miti...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

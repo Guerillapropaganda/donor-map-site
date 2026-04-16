@@ -42,6 +42,10 @@ related: "[[_Jim Himes Master Profile|Jim Himes]] · [[Everytown for Gun Safety]
 last-enriched: "2026-04-11"
 bioguide-id: "M001169"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 45
+bills-cosponsored: 355
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -316,6 +320,39 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 355 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- International Affairs (41)
+- Crime and Law Enforcement (36)
+- Education (29)
+- Civil Rights and Liberties, Minority Issues (23)
+- Agriculture and Food (19)
+- Government Operations and Politics (19)
+- Labor and Employment (19)
+- Congress (18)
+- Taxation (15)
+
+**Recent bills sponsored:**
+
+- S 5593: A bill to amend the Elementary and Secondary Education Act to expand the Magnet Schools Assistance Program.
+- S 5524: A bill to provide for civil monetary penalties for violations of mental health parity requirements.
+- S 5375: Vision Lab Choice Act of 2024
+- S 5232: Vote Without Fear Act
+- S 5247: Witness Assistance and Criminal Accountability Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

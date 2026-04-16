@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 9
+bills-cosponsored: 167
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Robert B. Aderholt
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 9 |
+| Bills Cosponsored | 167 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (28)
+- International Affairs (23)
+- Crime and Law Enforcement (23)
+- Taxation (11)
+- Government Operations and Politics (11)
+- Education (11)
+- Armed Forces and National Security (10)
+- Law (6)
+- Finance and Financial Sector (5)
+- Families (5)
+
+**Recent bills sponsored:**
+
+- HRES 1577: A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting natio...
+- HRES 1456: Expressing support for and honoring September 17, 2024, as "Constitution Day".
+- HR 9078: Deliver for Democracy Act
+- HR 9029: Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2025
+- HRES 875: A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting natio...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

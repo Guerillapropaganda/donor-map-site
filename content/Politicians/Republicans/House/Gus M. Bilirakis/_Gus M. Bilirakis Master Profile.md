@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 33
+bills-cosponsored: 422
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Gus M. Bilirakis
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 33 |
+| Bills Cosponsored | 422 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (120)
+- Armed Forces and National Security (58)
+- International Affairs (57)
+- Crime and Law Enforcement (29)
+- Government Operations and Politics (24)
+- Finance and Financial Sector (18)
+- Taxation (18)
+- Energy (17)
+- Education (14)
+- Science, Technology, Communications (12)
+
+**Enacted into law:**
+
+- HR 7189: H.R. 7189, Congenital Heart Futures Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

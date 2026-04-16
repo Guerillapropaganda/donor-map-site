@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 37
+bills-cosponsored: 406
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 
@@ -43,3 +47,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Cynthia M. Lummis
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 406 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (37)
+- Environmental Protection (36)
+- International Affairs (32)
+- Health (28)
+- Crime and Law Enforcement (25)
+- Taxation (24)
+- Government Operations and Politics (23)
+- Congress (22)
+- Agriculture and Food (21)
+- Public Lands and Natural Resources (21)
+
+**Recent bills sponsored:**
+
+- S 5307: A bill to redesignate the National Historic Trails Interpretive Center in Casper, Wyoming, as the "Barbara L. Cubin N...
+- SRES 866: A resolution designating October 4, 2023, as National Energy Appreciation Day to celebrate the people who work to pow...
+- S 4978: No American Land for Communist China Act
+- S 4972: Lawful Purpose and Historical Firearms Act
+- S 4959: REG Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

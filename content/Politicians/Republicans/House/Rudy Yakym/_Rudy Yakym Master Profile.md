@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2IN02295"
+bills-sponsored: 19
+bills-cosponsored: 282
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Rudy Yakym
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 282 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (40)
+- Health (40)
+- Crime and Law Enforcement (25)
+- Taxation (22)
+- Armed Forces and National Security (22)
+- Transportation and Public Works (17)
+- Government Operations and Politics (16)
+- Education (15)
+- Economics and Public Finance (14)
+- Immigration (14)
+
+**Recent bills sponsored:**
+
+- HR 9996: National Veterans Advocate Act of 2024
+- HR 8854: Ensuring Veterans’ Final Resting Place Act of 2024
+- HRES 1268: Expressing support for the designation of the week of June 4 through June 10, 2023, as "National Trailer Safety Week"...
+- HR 8468: No Debt Forgiveness for SPOILED Students Act
+- HR 8342: Improper Payments Transparency Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

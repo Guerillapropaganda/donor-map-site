@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 25
+bills-cosponsored: 232
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Emilia Strong Sykes
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 232 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (48)
+- Crime and Law Enforcement (26)
+- Government Operations and Politics (22)
+- Taxation (21)
+- Transportation and Public Works (14)
+- Civil Rights and Liberties, Minority Issues (14)
+- Commerce (11)
+- Science, Technology, Communications (11)
+- Armed Forces and National Security (11)
+- Labor and Employment (10)
+
+**Recent bills sponsored:**
+
+- HR 9937: Stop Predatory Investing Act
+- HR 9792: Feed Our Families Act of 2023
+- HR 9791: Pay Our Military Act
+- HR 9742: Extension of Authority for Joint Department of Defense-Department of Veterans Affairs Medical Facility Demonstration ...
+- HRES 1448: A resolution expressing the sense of the Senate that every person has the basic right to emergency health care, inclu...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

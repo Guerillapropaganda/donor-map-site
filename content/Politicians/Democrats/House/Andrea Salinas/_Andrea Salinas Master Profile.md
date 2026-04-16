@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2OR06066"
+bills-sponsored: 22
+bills-cosponsored: 643
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Andrea Salinas
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 643 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (125)
+- Agriculture and Food (66)
+- Crime and Law Enforcement (50)
+- Armed Forces and National Security (42)
+- Taxation (35)
+- Government Operations and Politics (34)
+- Labor and Employment (32)
+- Education (30)
+- Civil Rights and Liberties, Minority Issues (29)
+- International Affairs (24)
+
+**Recent bills sponsored:**
+
+- HR 10163: Housing to Homes Act of 2024
+- HR 9581: STAR Plus Scholarship Act
+- HRES 1380: Supporting the designation of July 20, 2024 as "National Moon Day".
+- HR 8765: Disaster Relief for Farmworkers Act of 2024
+- HR 7572: SNAP E&amp;T Data And Technical Assistance (DATA) Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

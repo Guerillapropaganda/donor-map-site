@@ -8,8 +8,8 @@ source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
 govtrack-id: 400050
-bills-sponsored: 897
-bills-cosponsored: 7312
+bills-sponsored: 12
+bills-cosponsored: 406
 party: Democrat
 chamber: Senate
 state: Ohio
@@ -68,6 +68,8 @@ wikidata-id: Q381880
 wikipedia-url: https://en.wikipedia.org/wiki/Sherrod_Brown
 wikipedia-extract: Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as a United States senator from Ohio. A member of the Democratic Party, he was the U.S.
 born: "1952-11-09"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 #sherrod-brown #senate #ohio #labor #populist #class-analysis #2024-defeat
 tags: #democrat
@@ -151,7 +153,40 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - [CNBC: Bitcoiners celebrate as Bernie Moreno ousts Sherrod Brown](https://www.cnbc.com/2024/11/05/bitcoiners-celebrate-as-bernie-moreno-ousts-sherrod-brown-ohio-upset.html) (Tier 2) (VERIFIED)
 - [Common Dreams: Crypto Industry's $40 Million Defeat of Pro-Worker Sherrod Brown](https://www.commondreams.org/news/sherrod-brown-crypto) (Tier 3) (VERIFIED)
 
-#### Archived
+##### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 406 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (56)
+- Crime and Law Enforcement (47)
+- Civil Rights and Liberties, Minority Issues (41)
+- Education (39)
+- Government Operations and Politics (36)
+- Agriculture and Food (30)
+- International Affairs (19)
+- Armed Forces and National Security (18)
+- Taxation (16)
+- Labor and Employment (16)
+
+**Recent bills sponsored:**
+
+- HR 10337: To amend the Public Health Service Act to establish a demonstration project to make grants to eligible hospitals for ...
+- HR 8858: Securing Elections From AI Deception Act
+- HRES 1279: Expressing support for the designation of June 2024 as "Black Music Month".
+- HR 8469: Diverse Cybersecurity Workforce Act of 2024
+- HR 8247: Uterine Fibroid Intervention and Gynecological Health Treatment Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+## Archived
 - ~~[OpenSecrets: Victory Now for Sherrod Brown donors 2024](https://www.opensecrets.org/joint-fundraising-committees-jfcs/victory-now-for-sherrod-brown/C00846196/2024/donors)~~ (was Tier 1 — OpenSecrets demoted, data preserved in FEC section)
 
 ### Campaign Finance (FEC)

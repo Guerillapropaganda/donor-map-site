@@ -34,8 +34,8 @@ top-donors:
 total-received: $6,047,785
 fec-candidate-id: S0GA00559
 govtrack-id: 456858
-bills-sponsored: 24
-bills-cosponsored: 297
+bills-sponsored: 37
+bills-cosponsored: 390
 website: https://www.warnock.senate.gov
 phone: 202-224-3643
 source-types:
@@ -58,6 +58,8 @@ needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -420,6 +422,35 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 
 - [GovTrack: Raphael Warnock](https://www.govtrack.us/congress/members/456858) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 390 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (70)
+- Armed Forces and National Security (41)
+- Agriculture and Food (36)
+- International Affairs (22)
+- Crime and Law Enforcement (22)
+- Finance and Financial Sector (22)
+- Congress (20)
+- Transportation and Public Works (20)
+- Education (19)
+- Civil Rights and Liberties, Minority Issues (19)
+
+**Enacted into law:**
+
+- S 2396: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

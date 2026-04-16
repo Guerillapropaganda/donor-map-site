@@ -35,14 +35,16 @@ last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 govtrack-id: 300081
-bills-sponsored: 35
-bills-cosponsored: 238
+bills-sponsored: 41
+bills-cosponsored: 300
 website: https://www.reed.senate.gov
 phone: 202-224-4642
 bioguide-id: R000122
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-received: $3,297,809
 urls-first-triaged: "2026-04-15"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -387,6 +389,39 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 300 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (48)
+- Taxation (28)
+- Crime and Law Enforcement (25)
+- Labor and Employment (25)
+- Education (23)
+- Congress (20)
+- Civil Rights and Liberties, Minority Issues (18)
+- Finance and Financial Sector (18)
+- Government Operations and Politics (17)
+- Armed Forces and National Security (16)
+
+**Recent bills sponsored:**
+
+- SCONRES 44: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
+- SRES 821: Expressing support for designation of the week of September 15 through 21, 2024, as "National Adult Education and Fam...
+- SRES 814: A resolution designating September 2024 as "National Literacy Month".
+- S 4905: Innovation in Pediatric Drugs Act of 2024
+- S 4678: Legislative Branch Appropriations Act, 2025
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

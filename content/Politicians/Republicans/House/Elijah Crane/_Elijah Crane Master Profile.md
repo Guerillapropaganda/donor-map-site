@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 18
+bills-cosponsored: 783
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Elijah Crane
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 783 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (103)
+- International Affairs (96)
+- Health (91)
+- Congress (80)
+- Agriculture and Food (44)
+- Labor and Employment (42)
+- Public Lands and Natural Resources (40)
+- Environmental Protection (34)
+- Armed Forces and National Security (32)
+- Crime and Law Enforcement (25)
+
+**Recent bills sponsored:**
+
+- HR 10330: To award a Congressional Gold Medal to Daniel Penny, who protected women and children of the city of New York, New Yo...
+- HR 10023: Legacy Mine Cleanup Act of 2024
+- HR 9891: To designate the facility of the United States Postal Service located at 765 West Old Route 66 in Ash Fork, Arizona, ...
+- HRES 1377: Directing the Secretary of Homeland Security to transmit to the House of Representatives not later than 7 days after ...
+- HR 9053: Veterans 2nd Amendment Restoration Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

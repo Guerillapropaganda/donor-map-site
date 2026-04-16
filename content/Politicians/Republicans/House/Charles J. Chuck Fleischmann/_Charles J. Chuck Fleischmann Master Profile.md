@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 10
+bills-cosponsored: 250
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Charles J. Chuck Fleischmann
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 250 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (42)
+- Health (32)
+- Crime and Law Enforcement (24)
+- Armed Forces and National Security (21)
+- Taxation (15)
+- Energy (15)
+- Finance and Financial Sector (13)
+- Government Operations and Politics (12)
+- Education (11)
+- Immigration (9)
+
+**Recent bills sponsored:**
+
+- HRES 1434: A resolution recognizing the role of the Scarboro 85 in the desegregation of public schools following the landmark de...
+- HR 9386: James J. Andrews and William H. Campbell Congressional Gold Medal Act
+- HR 8997: Unlocking our Domestic LNG Potential Act of 2024
+- HR 4394: Water Supply Permitting Coordination Act
+- HRES 400: A resolution commending the Tennessee Valley Authority on the 90th anniversary of the signing of the Tennessee Valley...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

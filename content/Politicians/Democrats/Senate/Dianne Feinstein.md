@@ -21,8 +21,8 @@ source-types:
 corroboration-count: 3
 central-thesis: Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned.
 top-donors: "[[COPS VOTER GUIDE INC.]], [[ONE NATION UNITED]], [[DELIVERING FOR CALIFORNIA]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]], [[Cops Voter Guide Inc.]], [[One Nation United]], [[English Language Political Action Committee]], [[Humane Society Legislative Fund]], [[Delivering for California]]"
-bills-sponsored: 2211
-bills-cosponsored: 6727
+bills-sponsored: 37
+bills-cosponsored: 297
 known-gaps:
   - Committee data shows empty (deceased member, no longer on active roster)
 last-enriched: "2026-04-12"
@@ -33,6 +33,8 @@ internal-notes: "[CODE @ 2026-04-12] Pipeline: congress FAILED for Dianne Feinst
 checklist-na:
   - "bills: From the Congress.gov API via the enrichment pipeline. "
 donors: "[[One Nation United]], [[COPS VOTER GUIDE INC.]], [[DELIVERING FOR CALIFORNIA]], [[ONE NATION UNITED]], [[Cops Voter Guide Inc.]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[English Language Political Action Committee]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]], [[Humane Society Legislative Fund]], [[Delivering for California]]"
+bills-enacted: 1
+top-policy-area: "Crime and Law Enforcement"
 ---
 #feinstein #democrat #senate #california #intelligence #defense-contractors #richard-blum #surveillance-champion #class-analysis
 
@@ -360,6 +362,35 @@ _No committee data found._
 
 - [Source: Congress.gov](https://www.congress.gov/member/F000062) (Tier 1)
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 297 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (43)
+- Health (23)
+- Public Lands and Natural Resources (23)
+- Government Operations and Politics (22)
+- Armed Forces and National Security (21)
+- Taxation (20)
+- International Affairs (18)
+- Agriculture and Food (17)
+- Civil Rights and Liberties, Minority Issues (17)
+- Education (16)
+
+**Enacted into law:**
+
+- S 2528: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

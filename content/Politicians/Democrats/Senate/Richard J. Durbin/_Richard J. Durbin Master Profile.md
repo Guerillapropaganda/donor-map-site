@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 129
+bills-cosponsored: 522
+bills-enacted: 2
+top-policy-area: "Crime and Law Enforcement"
 ---
 
 
@@ -43,3 +47,34 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Richard J. Durbin
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 129 |
+| Bills Cosponsored | 522 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (85)
+- Education (67)
+- International Affairs (65)
+- Health (57)
+- Government Operations and Politics (37)
+- Immigration (32)
+- Armed Forces and National Security (31)
+- Labor and Employment (29)
+- Civil Rights and Liberties, Minority Issues (26)
+- Agriculture and Food (25)
+
+**Enacted into law:**
+
+- S 158: National Defense Authorization Act for Fiscal Year 2024
+- S 3328: National Guard and Reservists Debt Relief Extension Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

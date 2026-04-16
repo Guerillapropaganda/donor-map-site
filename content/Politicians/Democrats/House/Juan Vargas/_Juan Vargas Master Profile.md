@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2CA50026"
+bills-sponsored: 8
+bills-cosponsored: 506
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Juan Vargas
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 506 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- International Affairs (55)
+- Government Operations and Politics (47)
+- Immigration (36)
+- Crime and Law Enforcement (35)
+- Civil Rights and Liberties, Minority Issues (24)
+- Finance and Financial Sector (23)
+- Labor and Employment (23)
+- Education (22)
+- Armed Forces and National Security (22)
+
+**Recent bills sponsored:**
+
+- HR 10558: To amend the Housing and Community Development Act of 1980 and the Housing Act of 1949 to make financial assistance a...
+- HR 9640: Border Water Quality Restoration and Protection Act
+- HRES 1339: Honoring the life and legacy of Father Stan, a prominent human rights activist who died while in custody of the India...
+- HR 8851: Strengthening Citizenship Services for Veterans Act
+- HR 4759: Environmentally Sustainable Growth Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

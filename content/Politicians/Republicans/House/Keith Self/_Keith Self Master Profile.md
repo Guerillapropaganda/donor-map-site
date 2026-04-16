@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2TX00064"
+bills-sponsored: 25
+bills-cosponsored: 313
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Keith Self
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 313 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (69)
+- Armed Forces and National Security (34)
+- Crime and Law Enforcement (32)
+- Government Operations and Politics (28)
+- Immigration (22)
+- Health (22)
+- Education (18)
+- Agriculture and Food (16)
+- Finance and Financial Sector (15)
+- Taxation (15)
+
+**Recent bills sponsored:**
+
+- HR 10463: To direct the Secretary of Homeland Security to relocate to the State of Texas the headquarters of U.S. Customs and B...
+- HR 10349: To amend title 18, United States Code, to require the Attorney General to investigate alleged violations of the parti...
+- HR 9992: Federal Program Integrity and Fraud Prevention Act of 2024
+- HR 9582: VENUE Act
+- HR 9485: Enhancing Faith-Based Support for Veterans Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 65
+bills-cosponsored: 783
+bills-enacted: 19
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Don Bacon
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 65 |
+| Bills Cosponsored | 783 |
+| Bills Enacted | 19 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (195)
+- Crime and Law Enforcement (99)
+- Armed Forces and National Security (84)
+- International Affairs (67)
+- Taxation (50)
+- Agriculture and Food (43)
+- Government Operations and Politics (40)
+- Transportation and Public Works (26)
+- Education (24)
+- Finance and Financial Sector (23)
+
+**Enacted into law:**
+
+- HR 5321: National Defense Authorization Act for Fiscal Year 2024
+- HR 6738: National Defense Authorization Act for Fiscal Year 2024
+- HR 5231: National Defense Authorization Act for Fiscal Year 2024
+- HR 6739: National Defense Authorization Act for Fiscal Year 2024
+- HR 5227: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

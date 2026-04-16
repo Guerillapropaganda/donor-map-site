@@ -36,6 +36,10 @@ last-enriched: "2026-04-11"
 bioguide-id: M001198
 donors: "[[Western Growers Association]], [[ESAFUND]], [[CLUB FOR GROWTH ACTION]], [[HOUSE LIBERTY PROJECT]], [[KANSAS AG COMMUNITIES COALITION]], [[KANSAS FARMERS FUND]], [[Kansas Farmers Fund]], [[House Liberty Project]], [[Kansas Ag Communities Coalition]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 69
+bills-cosponsored: 426
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -239,6 +243,39 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 | 3623 | Credit Card Competition Act of 2026 | Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. |
 
 <!-- auto:congress-legislation end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 69 |
+| Bills Cosponsored | 426 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Agriculture and Food (39)
+- International Affairs (33)
+- Crime and Law Enforcement (31)
+- Government Operations and Politics (30)
+- Congress (25)
+- Environmental Protection (24)
+- Taxation (22)
+- Immigration (20)
+- Energy (19)
+
+**Recent bills sponsored:**
+
+- S 5535: A bill to amend title XXVII of the Public Health Service Act, the Employee Retirement Income Security Act of 1974, an...
+- S 5424: A bill to prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to...
+- S 5356: Defining Male and Female Act of 2024
+- S 5198: Small Energy Producers Performance Enhancement Act
+- S 5145: Farmer First Fuel Incentives Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

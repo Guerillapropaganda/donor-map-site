@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8KS04112"
+bills-sponsored: 15
+bills-cosponsored: 178
+bills-enacted: 0
+top-policy-area: "Taxation"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Ron Estes
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 178 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (35)
+- Health (22)
+- Crime and Law Enforcement (16)
+- Energy (12)
+- Finance and Financial Sector (11)
+- International Affairs (10)
+- Environmental Protection (10)
+- Government Operations and Politics (7)
+- Agriculture and Food (7)
+- Labor and Employment (7)
+
+**Recent bills sponsored:**
+
+- HR 9751: H.R. 9751, Executive Action Cost Transparency Act
+- HR 8244: H.R. 8244, Ensuring Seniors’ Access to Quality Care Act
+- HR 4695: Unfair Tax Prevention Act
+- HR 3691: Protecting Air Ambulance Services for Americans Act of 2023
+- HR 3690: Financing Our Energy Future Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -22,8 +22,8 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 govtrack-id: 412578
-bills-sponsored: 36
-bills-cosponsored: 182
+bills-sponsored: 28
+bills-cosponsored: 223
 website: https://williams.house.gov
 phone: 202-225-9896
 related: "[[_Donald Trump Master Profile|Trump]]"
@@ -42,6 +42,8 @@ issues:
   - Health
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Activate America]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]], [[Committee for Defending American Values]]"
 donors: "[[Committee for Defending American Values]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]], [[Activate America]]"
+bills-enacted: 0
+top-policy-area: "Finance and Financial Sector"
 ---
 
 <!-- auto:data-panel start -->
@@ -326,6 +328,39 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 
 - [GovTrack: Roger Williams](https://www.govtrack.us/congress/members/412578) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 223 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (41)
+- International Affairs (25)
+- Government Operations and Politics (22)
+- Crime and Law Enforcement (22)
+- Health (19)
+- Immigration (16)
+- Taxation (14)
+- Armed Forces and National Security (12)
+- Labor and Employment (11)
+- Commerce (9)
+
+**Recent bills sponsored:**
+
+- HRES 1338: Expressing support for the designation of the month of July as "American Patriotism Month".
+- HR 8591: Federal Reserve Financial Accountability and Transparency Act
+- HRES 1267: Supporting the Second Amendment's guarantee that the right of the people to keep and bear arms shall not be infringed...
+- HR 8332: No Student Loan Forgiveness for Antisemitic Criminals Act
+- HRES 1203: A resolution designating July 17, 2024, as "Glioblastoma Awareness Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

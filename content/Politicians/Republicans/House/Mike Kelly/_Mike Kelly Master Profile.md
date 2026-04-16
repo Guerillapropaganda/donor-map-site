@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[CA Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4PA03117"
+bills-sponsored: 37
+bills-cosponsored: 315
+bills-enacted: 1
+top-policy-area: "Taxation"
 ---
 
 
@@ -46,3 +50,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mike Kelly
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 315 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Taxation (86)
+- Health (69)
+- Crime and Law Enforcement (26)
+- Armed Forces and National Security (21)
+- International Affairs (17)
+- Education (15)
+- Finance and Financial Sector (12)
+- Government Operations and Politics (12)
+- Immigration (11)
+- Foreign Trade and International Finance (9)
+
+**Enacted into law:**
+
+- HR 3149: A bill to designate United States Route 20 in the States of Oregon, Idaho, Montana, Wyoming, Nebraska, Iowa, Illinois...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -21,8 +21,8 @@ top-donors:
   - Club for Growth
 bioguide-id: C001129
 govtrack-id: 456895
-bills-sponsored: 12
-bills-cosponsored: 206
+bills-sponsored: 11
+bills-cosponsored: 162
 website: https://collins.house.gov
 phone: 202-225-4101
 source-types:
@@ -34,6 +34,8 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Jon Ossoff Master Profile]] · [[Fairshake PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[David Sacks Master Profile]] · [[Howard Lutnick Master Profile]]"
 donors: "[[Tech Industry]] · [[American Gaming Association]] · [[Fairshake PAC]] · [[Winklevoss Twins]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elon Musk]] · [[Club for Growth]]"
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 <!-- auto:data-panel start -->
@@ -194,6 +196,39 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 
 ### Voting Record
 
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 162 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (31)
+- Crime and Law Enforcement (25)
+- International Affairs (14)
+- Immigration (11)
+- Congress (11)
+- Taxation (10)
+- Transportation and Public Works (9)
+- Science, Technology, Communications (8)
+- Armed Forces and National Security (8)
+- Health (7)
+
+**Recent bills sponsored:**
+
+- HRES 1438: A resolution condemning the horrific shooting at Apalachee High School in Winder, Georgia, recognizing the victims, a...
+- HR 9197: H.R. 9197, Small Business Artificial Intelligence Advancement Act
+- HR 8603: ROAM Act
+- HJRES 151: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 7511: SUE for Immigration Enforcement Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

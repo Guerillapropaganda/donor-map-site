@@ -30,8 +30,8 @@ top-donors: "[[Heritage Foundation]], [[American Farm Bureau Federation]], [[Ame
 total-received: $1,678,317
 fec-candidate-id: H6TX19099
 govtrack-id: 412726
-bills-sponsored: 54
-bills-cosponsored: 79
+bills-sponsored: 56
+bills-cosponsored: 172
 website: https://arrington.house.gov
 phone: 202-225-4005
 source-types:
@@ -44,6 +44,8 @@ known-gaps:
 related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Americans for Prosperity]] · [[American Farm Bureau Federation]]"
 last-enriched: "2026-04-10"
 bioguide-id: A000375
+bills-enacted: 2
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -336,6 +338,36 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 56 |
+| Bills Cosponsored | 172 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (28)
+- Taxation (26)
+- Crime and Law Enforcement (17)
+- International Affairs (16)
+- Armed Forces and National Security (15)
+- Government Operations and Politics (15)
+- Immigration (14)
+- Economics and Public Finance (10)
+- Environmental Protection (10)
+- Finance and Financial Sector (9)
+
+**Enacted into law:**
+
+- HR 1821: I-27 Numbering Act of 2023
+- HR 3358: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

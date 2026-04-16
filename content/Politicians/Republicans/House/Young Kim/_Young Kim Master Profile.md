@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[California Farm Bureau Federation]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CA39240"
+bills-sponsored: 39
+bills-cosponsored: 324
+bills-enacted: 1
+top-policy-area: "International Affairs"
 ---
 
 
@@ -46,3 +50,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Young Kim
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 324 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (88)
+- Health (46)
+- Finance and Financial Sector (37)
+- Government Operations and Politics (25)
+- Armed Forces and National Security (22)
+- Taxation (17)
+- Crime and Law Enforcement (14)
+- Immigration (11)
+- Arts, Culture, Religion (10)
+- Commerce (8)
+
+**Enacted into law:**
+
+- HR 3608: H.R. 3608, a bill to designate the facility of the United States Postal Service located at 28081 Marguerite Parkway i...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

@@ -54,6 +54,10 @@ editorial-result: ready-candidate
 editorial-notes: "Depth review 2026-04-10. BODY NOT TOUCHED , the central thesis ('what happens when a politician's funding IS clean'), donor class map (96.2% individual contributions, 0.7% PAC), and the CFPB architect → CFPB destroyed arc are all excellent. Structural test case for the vault. FIXED (Research Claude): added bioguide-id W000817 (unblocks Congress pipeline , was the reason 'No legislative record from Congress.gov' was a persistent gap), removed false-positive DOJ from source-types (engine scan artifact, same class of error as Whitehouse DOJ strip), expanded issues 1→8 entries, added committees (Banking / Finance / Armed Services / HELP), restructured top-donors to lead with the small-dollar model (96.2% individual), added structured opposes (Fairshake, Griffin, corporate PACs), expanded related to include full anti-donor + squad coalition, cleaned known-gaps (removed factually-wrong 'No mapped relationships' , 12+ wikilinks exist). REMOVED: body inline dataview 'donors: [[ActBlue]] · ...' per frontmatter-only rule. REMOVED: double '---' separator artifact. STAYS draft per tightened Vault Rules: known-gaps explicitly cite missing Congress.gov + GovTrack pipeline data. Flagged needs-reenrichment: true. Once clean pipeline data lands, ready to promote to ready and flag verified-candidate."
 donors: "[[Crypto Industry Bloc]] · [[UFCW - United Food and Commercial Workers]] · [[AMERICA 360 COMMITTEE]] · [[Democratic Small Dollar Networks]] · [[Boeing]] · [[FUTURE45]] · [[AMERICANS FOR TAX REFORM]] · [[Crossroads Grassroots Policy Strategies]] · [[COMMONWEALTH UNITY FUND]] · [[Commonwealth Unity Fund]] · [[Emily's List]] · [[America 360 Committee]] · [[Future45]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 84
+bills-cosponsored: 623
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -481,6 +485,35 @@ party:: Democrat
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 84 |
+| Bills Cosponsored | 623 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (102)
+- Crime and Law Enforcement (49)
+- Armed Forces and National Security (46)
+- Labor and Employment (43)
+- Education (42)
+- Government Operations and Politics (41)
+- Taxation (36)
+- Finance and Financial Sector (35)
+- Civil Rights and Liberties, Minority Issues (34)
+- International Affairs (26)
+
+**Enacted into law:**
+
+- S 2047: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

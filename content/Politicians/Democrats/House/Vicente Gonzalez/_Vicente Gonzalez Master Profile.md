@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6TX15162"
+bills-sponsored: 7
+bills-cosponsored: 194
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Vicente Gonzalez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 194 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (30)
+- International Affairs (26)
+- Finance and Financial Sector (15)
+- Armed Forces and National Security (15)
+- Government Operations and Politics (14)
+- Education (13)
+- Taxation (11)
+- Immigration (10)
+- Agriculture and Food (8)
+- Civil Rights and Liberties, Minority Issues (8)
+
+**Recent bills sponsored:**
+
+- HR 6244: To designate the facility of the United States Postal Service located at 1535 East Los Ebanos Boulevard in Brownsvill...
+- HR 4868: Member Business Loan Expansion Act
+- HR 4867: Veterans Member Business Loan Act
+- HR 2946: Safe Zones Act of 2023
+- HR 1804: Border Airport Fairness Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

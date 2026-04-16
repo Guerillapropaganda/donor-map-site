@@ -40,6 +40,8 @@ reenrich-reason: run congress pipeline
 govtrack-id: 400379
 bills-sponsored: 199
 bills-cosponsored: 4981
+bills-sponsored: 19
+bills-cosponsored: 361
 website: https://adamsmith.house.gov
 phone: 202-225-8901
 internal-notes: |-
@@ -51,6 +53,8 @@ total-spent: $659,320
 cash-on-hand: "697967.61"
 fec-cycle: 2026
 total-received: "$786,535"
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -529,6 +533,35 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
 
 <!-- auto:voting-record pending-merge end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 361 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- Agriculture and Food (30)
+- Labor and Employment (29)
+- Crime and Law Enforcement (28)
+- Civil Rights and Liberties, Minority Issues (26)
+- Government Operations and Politics (23)
+- International Affairs (19)
+- Immigration (18)
+- Environmental Protection (16)
+- Education (16)
+
+**Enacted into law:**
+
+- HR 1049: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Western Growers Association]] · [[National Cattlemen's Beef Association]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0KS01123"
+bills-sponsored: 23
+bills-cosponsored: 417
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Tracey Mann
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 417 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (83)
+- Taxation (35)
+- Transportation and Public Works (30)
+- International Affairs (30)
+- Crime and Law Enforcement (28)
+- Agriculture and Food (27)
+- Armed Forces and National Security (25)
+- Finance and Financial Sector (22)
+- Environmental Protection (21)
+- Labor and Employment (17)
+
+**Recent bills sponsored:**
+
+- HR 9787: Farmer First Fuel Incentives Act
+- HR 9527: Protecting Our Land from Federal Overreach Act of 2024
+- HRES 1015: Expressing support for the designation of February 18 through February 25, 2023, as "National FFA Week", recognizing ...
+- HR 7104: H.R. 7104, National SBDC Advisory Board Improvement Act
+- HR 7042: RIFLE Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

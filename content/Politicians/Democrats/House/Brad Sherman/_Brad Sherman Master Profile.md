@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H6CA24113"
+bills-sponsored: 15
+bills-cosponsored: 452
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Brad Sherman
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 452 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (134)
+- Finance and Financial Sector (37)
+- Health (32)
+- Government Operations and Politics (30)
+- Civil Rights and Liberties, Minority Issues (22)
+- Armed Forces and National Security (22)
+- Crime and Law Enforcement (22)
+- Taxation (21)
+- Transportation and Public Works (17)
+- Labor and Employment (17)
+
+**Recent bills sponsored:**
+
+- HR 9709: 8–K Trading Gap Act of 2024
+- HR 8340: H.R. 8340, Housing Unhoused Disabled Veterans Act
+- HR 7914: H.R. 7914, Accountability for Terrorist Perpetrators of October 7th Act
+- HR 7758: No China in Index Funds Act
+- HR 7760: No Capital Gains Allowance for American Adversaries Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

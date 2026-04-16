@@ -36,6 +36,10 @@ stock-trade-tickers:
 donors: "[[ConocoPhillips]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S4AK00214"
+bills-sponsored: 74
+bills-cosponsored: 335
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -83,6 +87,39 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 08/17/2015 | SPY | Sale | $50,001 - $100,000 | Joint |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 74 |
+| Bills Cosponsored | 335 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (58)
+- Armed Forces and National Security (39)
+- Environmental Protection (36)
+- Health (32)
+- Energy (27)
+- Public Lands and Natural Resources (22)
+- Native Americans (20)
+- Finance and Financial Sector (18)
+- Congress (17)
+- Crime and Law Enforcement (14)
+
+**Recent bills sponsored:**
+
+- S 5649: Save Our Seas 2.0 Amendments Act
+- S 5646: Pay Our Military Act of 2024
+- S 5544: A bill to reduce the number of student visas available to nationals of the People's Republic of China until China rem...
+- S 5536: A bill to prohibit United States Government assistance to the Government of the People's Republic of China and affili...
+- S 5365: Stop Adversaries Meddling in American Elections Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

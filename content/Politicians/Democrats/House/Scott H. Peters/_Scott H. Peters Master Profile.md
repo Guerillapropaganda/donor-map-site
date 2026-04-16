@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 26
+bills-cosponsored: 497
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Scott H. Peters
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 497 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (87)
+- International Affairs (54)
+- Armed Forces and National Security (43)
+- Crime and Law Enforcement (36)
+- Government Operations and Politics (35)
+- Civil Rights and Liberties, Minority Issues (28)
+- Education (26)
+- Energy (24)
+- Environmental Protection (18)
+- Labor and Employment (17)
+
+**Recent bills sponsored:**
+
+- HR 9735: Responsible Budgeting Act
+- HR 8901: Cannabis Research Act
+- HRES 1310: Expressing support for the designation of the month of June 2024 as "National Post-Traumatic Stress Awareness Month" ...
+- HRES 1200: Designating the week of May 1, 2023, through May 7, 2023, as "Tardive Dyskinesia Awareness Week".
+- HR 8054: SSRA of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

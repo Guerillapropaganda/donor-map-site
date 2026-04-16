@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 51
+bills-cosponsored: 141
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Gary J. Palmer
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 51 |
+| Bills Cosponsored | 141 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (23)
+- Health (19)
+- Energy (18)
+- International Affairs (16)
+- Environmental Protection (16)
+- Finance and Financial Sector (15)
+- Taxation (13)
+- Crime and Law Enforcement (12)
+- Labor and Employment (7)
+- Armed Forces and National Security (6)
+
+**Recent bills sponsored:**
+
+- HJRES 222: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 10143: To direct the Administrator of the Federal Emergency Management Agency to transfer certain amounts to the Disaster Re...
+- HJRES 221: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HJRES 220: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HJRES 219: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

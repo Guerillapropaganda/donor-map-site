@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 donors: "[[Business Roundtable]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 26
+bills-cosponsored: 331
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # J. Luis Correa
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 331 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (51)
+- Crime and Law Enforcement (40)
+- Government Operations and Politics (35)
+- Immigration (25)
+- International Affairs (24)
+- Armed Forces and National Security (21)
+- Civil Rights and Liberties, Minority Issues (19)
+- Arts, Culture, Religion (17)
+- Finance and Financial Sector (11)
+- Agriculture and Food (11)
+
+**Enacted into law:**
+
+- HR 7192: H.R. 7192, a bill to designate the facility of the United States Postal Service located at 333 West Broadway in Anahe...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

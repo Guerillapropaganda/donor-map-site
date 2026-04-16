@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 34
+bills-cosponsored: 117
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # H. Morgan Griffith
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 117 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- Government Operations and Politics (16)
+- Crime and Law Enforcement (14)
+- Environmental Protection (14)
+- Taxation (12)
+- Energy (12)
+- International Affairs (10)
+- Finance and Financial Sector (9)
+- Armed Forces and National Security (7)
+- Science, Technology, Communications (4)
+
+**Recent bills sponsored:**
+
+- HR 10068: To amend the Federal Power Act to require generating facilities to provide advance notices for retiring electric gene...
+- HR 9897: To amend section 3559 of title 18, United States Code, to provide that a misdemeanor for which no punishment or no ma...
+- HR 9256: To amend the Internal Revenue Code of 1986 to increase and adjust for inflation the above-the-line deduction for teac...
+- HJRES 152: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 8113: Transparency into State Directed Payments Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

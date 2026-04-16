@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8TX27049"
+bills-sponsored: 17
+bills-cosponsored: 197
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Michael Cloud
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 197 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (32)
+- Health (20)
+- Armed Forces and National Security (18)
+- International Affairs (18)
+- Crime and Law Enforcement (16)
+- Finance and Financial Sector (14)
+- Economics and Public Finance (11)
+- Immigration (11)
+- Taxation (10)
+- Agriculture and Food (9)
+
+**Recent bills sponsored:**
+
+- HR 10065: To designate the facility of the United States Postal Service located at 802 North Tancahua Street in Corpus Christi,...
+- HR 8706: Dismantle DEI Act of 2024
+- HR 8341: BASIC Act
+- HR 6619: Preventing Aliens Through Rivers Or Land Act
+- HR 5561: Protecting the Right To Keep and Bear Arms Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

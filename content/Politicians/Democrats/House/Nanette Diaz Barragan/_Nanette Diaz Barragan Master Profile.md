@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 34
+bills-cosponsored: 746
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Nanette Diaz Barragan
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 34 |
+| Bills Cosponsored | 746 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (192)
+- Government Operations and Politics (50)
+- Crime and Law Enforcement (47)
+- Labor and Employment (42)
+- Environmental Protection (36)
+- Civil Rights and Liberties, Minority Issues (33)
+- International Affairs (32)
+- Taxation (31)
+- Agriculture and Food (31)
+- Education (27)
+
+**Recent bills sponsored:**
+
+- HRES 1619: Congratulating the Los Angeles Galaxy for winning the 2024 Major League Soccer Cup.
+- HRES 1615: Recognizing Interscholastic Athletic Administrators' Day on December 14, 2024.
+- HR 10335: To amend the Federal Water Pollution Control Act to increase certain criminal fines, and for other purposes.
+- HR 10174: To direct the Secretary of Transportation to establish a program to support the research, development, demonstration,...
+- HRES 1544: Expressing support for the designation of September 22, 2024, as "National Hispanic Nurses Day" and recognizing the N...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

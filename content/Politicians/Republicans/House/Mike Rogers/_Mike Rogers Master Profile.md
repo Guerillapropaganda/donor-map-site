@@ -25,11 +25,13 @@ needs-reenrichment: true
 reenrich-reason: run fec pipeline; run congress pipeline
 bioguide-id: R000575
 govtrack-id: 400341
-bills-sponsored: 82
-bills-cosponsored: 1979
+bills-sponsored: 6
+bills-cosponsored: 153
 website: https://mikerogers.house.gov
 phone: 202-225-3261
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -235,6 +237,39 @@ Rogers' number one career donor is Lockheed Martin, the company competing for th
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/400341) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 153 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (23)
+- Crime and Law Enforcement (20)
+- Taxation (18)
+- Finance and Financial Sector (14)
+- Government Operations and Politics (10)
+- Armed Forces and National Security (8)
+- International Affairs (8)
+- Education (6)
+- Energy (5)
+- Foreign Trade and International Finance (4)
+
+**Recent bills sponsored:**
+
+- HCONRES 134: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
+- HR 8070: TAP Promotion Act
+- HR 5880: To provide that reimbursement of Members of Congress by the House of Representatives for expenses incurred in connect...
+- HR 2670: Intergovernmental Critical Minerals Task Force Act
+- HR 1474: Daylight Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

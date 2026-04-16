@@ -25,6 +25,10 @@ known-gaps:
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]] · [[John Cornyn]]"
 donors: "[[NRA Political Victory Fund]], [[Insurance Industry]], [[CLUB FOR GROWTH INC PAC]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[League of Conservation Voters]], [[Goldman Sachs]], [[Club for Growth INC PAC]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 49
+bills-cosponsored: 260
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -197,6 +201,39 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 
 - {{src:src_003500}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 260 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (33)
+- International Affairs (26)
+- Taxation (26)
+- Crime and Law Enforcement (22)
+- Agriculture and Food (20)
+- Government Operations and Politics (19)
+- Congress (18)
+- Environmental Protection (16)
+- Science, Technology, Communications (16)
+- Armed Forces and National Security (15)
+
+**Recent bills sponsored:**
+
+- SRES 902: A resolution relating to the death of Timothy Peter Johnson, former Senator for the State of South Dakota.
+- S 5216: Western South Dakota Water Supply Project Feasibility Study Act
+- S 4821: Accelerating Broadband Permits Act
+- S 4301: A bill to grant States and Indian Tribes the authority to waive the 2-year foreign residence requirement for educator...
+- S 4257: END BYOD Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

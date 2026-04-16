@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8TX16109"
+bills-sponsored: 16
+bills-cosponsored: 341
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Veronica Escobar
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 341 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (57)
+- Armed Forces and National Security (34)
+- International Affairs (28)
+- Crime and Law Enforcement (27)
+- Civil Rights and Liberties, Minority Issues (24)
+- Labor and Employment (22)
+- Government Operations and Politics (21)
+- Agriculture and Food (15)
+- Education (14)
+- Taxation (13)
+
+**Recent bills sponsored:**
+
+- HR 10452: To amend title 18, United States Code, to prohibit certain types of fraud in the provision of immigration services, a...
+- HR 10360: To require the Secretary of Defense to enhance the readiness of the Department of Defense to challenges relating to c...
+- HR 10141: Homeland Security Improvement Act
+- HR 10117: Targeting Environmental and Climate Recklessness Act of 2024
+- HR 9865: Access to Contraception for Servicemembers and Dependents Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

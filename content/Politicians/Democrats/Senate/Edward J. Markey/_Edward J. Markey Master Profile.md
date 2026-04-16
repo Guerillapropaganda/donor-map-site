@@ -22,6 +22,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 143
+bills-cosponsored: 501
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -43,3 +47,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Edward J. Markey
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 143 |
+| Bills Cosponsored | 501 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (93)
+- Crime and Law Enforcement (55)
+- International Affairs (42)
+- Civil Rights and Liberties, Minority Issues (41)
+- Government Operations and Politics (37)
+- Labor and Employment (32)
+- Education (28)
+- Taxation (28)
+- Transportation and Public Works (27)
+- Environmental Protection (24)
+
+**Enacted into law:**
+
+- S 1759: To designate the facility of the United States Postal Service located at 25 Dorchester Avenue, Room 1, in Boston, Mas...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

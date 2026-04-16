@@ -23,6 +23,10 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 28
+bills-cosponsored: 405
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -44,3 +48,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Thomas H. Kean
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 405 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (104)
+- Health (56)
+- Crime and Law Enforcement (34)
+- Armed Forces and National Security (32)
+- Taxation (31)
+- Transportation and Public Works (19)
+- Science, Technology, Communications (18)
+- Government Operations and Politics (18)
+- Finance and Financial Sector (12)
+- Energy (12)
+
+**Recent bills sponsored:**
+
+- HRES 1590: Expressing support for the designation of November 20, 2024, as "Carbon Monoxide Poisoning Awareness Day".
+- HR 9542: Treaty on Conventional Armed Forces in Europe Reform Act
+- HR 9404: Home Health Aides for Veterans’ Spouses Act
+- HR 9405: Foreign Adversary Investment Prohibition Act
+- HR 9332: Presidential Security Resources Reimbursement Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

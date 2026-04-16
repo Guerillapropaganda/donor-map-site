@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8IA02043"
+bills-sponsored: 48
+bills-cosponsored: 399
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Mariannette Miller-Meeks
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 399 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (97)
+- Armed Forces and National Security (47)
+- International Affairs (41)
+- Energy (27)
+- Crime and Law Enforcement (27)
+- Taxation (25)
+- Agriculture and Food (23)
+- Environmental Protection (20)
+- Education (18)
+- Finance and Financial Sector (17)
+
+**Recent bills sponsored:**
+
+- HR 10399: To amend the American Rescue Plan Act of 2021 to direct the President to end financial assistance for funeral expense...
+- HR 10346: To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to reimburse State homes for the c...
+- HR 10104: Second Generation Biofuel Producer Credit Extension Act of 2024
+- HR 9929: Improving Mental Healthcare in the Re-Entry System Act of 2024
+- HRES 1489: Supporting the designation of the week of September 25 through September 29, 2023, as "National Clean Energy Week".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

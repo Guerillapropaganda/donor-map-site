@@ -25,6 +25,10 @@ known-gaps:
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H2NY17071"
+bills-sponsored: 18
+bills-cosponsored: 598
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -46,3 +50,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jerrold Nadler
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 598 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (121)
+- Education (37)
+- Government Operations and Politics (36)
+- Taxation (34)
+- Crime and Law Enforcement (32)
+- Labor and Employment (31)
+- Agriculture and Food (30)
+- Civil Rights and Liberties, Minority Issues (28)
+- International Affairs (28)
+- Environmental Protection (26)
+
+**Recent bills sponsored:**
+
+- HR 10538: To amend title 11, United States Code, to improve protections for employees and retirees in business bankruptcies.
+- HR 10500: To amend title 11, United States Code, to add a bankruptcy chapter relating to the debt of individuals, and for other...
+- HR 9982: Children’s Health Protection Act of 2024
+- HR 9981: Ban Atrazine Toxicants Act
+- HR 9931: Student Borrower Bankruptcy Relief Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

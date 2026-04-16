@@ -24,6 +24,10 @@ known-gaps:
 stock-trades: 1
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "S2MT00096"
+bills-sponsored: 58
+bills-cosponsored: 450
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -62,6 +66,35 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 | 06/02/2017 | -- | Sale | $15,001 - $50,000 | Self |
 
 <!-- auto:stock-trades end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 58 |
+| Bills Cosponsored | 450 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- International Affairs (44)
+- Finance and Financial Sector (35)
+- Armed Forces and National Security (30)
+- Crime and Law Enforcement (30)
+- Public Lands and Natural Resources (28)
+- Taxation (28)
+- Education (23)
+- Congress (23)
+- Immigration (22)
+
+**Enacted into law:**
+
+- S 758: Moving Americans Privacy Protection Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -25,6 +25,10 @@ last-enriched: "2026-04-09"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[Brady Campaign]]"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 75
+bills-cosponsored: 263
+bills-enacted: 3
+top-policy-area: "International Affairs"
 ---
 
 <!-- auto:data-panel start -->
@@ -168,6 +172,37 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 75 |
+| Bills Cosponsored | 263 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (55)
+- Health (47)
+- Crime and Law Enforcement (39)
+- Finance and Financial Sector (20)
+- Government Operations and Politics (18)
+- Taxation (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Congress (15)
+- Education (14)
+- Armed Forces and National Security (14)
+
+**Enacted into law:**
+
+- S 2119: Firefighter Cancer Registry Reauthorization Act of 2023
+- S 746: No Stolen Trademarks Honored in America Act of 2023
+- S 509: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

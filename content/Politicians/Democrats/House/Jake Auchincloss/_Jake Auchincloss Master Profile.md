@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0MA04192"
+bills-sponsored: 8
+bills-cosponsored: 265
+bills-enacted: 0
+top-policy-area: "International Affairs"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jake Auchincloss
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 265 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (50)
+- Health (43)
+- Crime and Law Enforcement (41)
+- Government Operations and Politics (15)
+- Finance and Financial Sector (11)
+- Civil Rights and Liberties, Minority Issues (10)
+- Education (9)
+- Transportation and Public Works (9)
+- Armed Forces and National Security (9)
+- Agriculture and Food (8)
+
+**Recent bills sponsored:**
+
+- HR 10447: To authorize sanctions relating to the production and distribution of illicit synthetic narcotics by the People's Rep...
+- HR 9464: Supporting Transit Commutes Act
+- HR 9187: Intimate Privacy Protection Act
+- HR 9096: Pharmacists Fight Back Act
+- HR 7534: Verifying Kids’ Online Privacy Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

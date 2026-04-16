@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H0WA10034"
+bills-sponsored: 16
+bills-cosponsored: 363
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,37 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Marilyn Strickland
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 363 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (66)
+- Armed Forces and National Security (54)
+- Crime and Law Enforcement (28)
+- International Affairs (23)
+- Civil Rights and Liberties, Minority Issues (21)
+- Agriculture and Food (19)
+- Education (19)
+- Labor and Employment (19)
+- Government Operations and Politics (18)
+- Taxation (17)
+
+**Recent bills sponsored:**
+
+- HR 8598: Capital for Beginning Farmers and Ranchers Act of 2024
+- HR 8509: Enhancing Oversight to End Discrimination in Policing Act
+- HR 7790: Women and Underrepresented Minorities in STEM Booster Act of 2024
+- HR 6946: To direct the Secretary of Defense to establish a compensation fund for military firefighters exposed to PFAS.
+- HR 6835: Care Across Generations Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

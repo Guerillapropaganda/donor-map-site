@@ -12,8 +12,8 @@ total-received: $452,863
 fec-candidate-id: H0SC01394
 bioguide-id: M000194
 govtrack-id: 456843
-bills-sponsored: 79
-bills-cosponsored: 170
+bills-sponsored: 75
+bills-cosponsored: 478
 website: https://mace.house.gov
 phone: 202-225-3176
 source-types:
@@ -26,6 +26,8 @@ known-gaps:
 related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]]"
 top-donors: "[[CLUB FOR GROWTH ACTION]], [[DCCC]], [[HOUSE MAJORITY PAC]], [[SOUTH CAROLINA PATRIOTS PAC]], [[314 ACTION FUND]], [[314 Action Fund]], [[South Carolina Patriots PAC]]"
 donors: "[[South Carolina Patriots PAC]], [[SOUTH CAROLINA PATRIOTS PAC]], [[CLUB FOR GROWTH ACTION]], [[314 ACTION FUND]], [[DCCC]], [[314 Action Fund]], [[HOUSE MAJORITY PAC]]"
+bills-enacted: 0
+top-policy-area: "Government Operations and Politics"
 ---
 #nancy-mace #house #south-carolina #swing-district #donor-flip #weather-vane #ideological-flexibility
 
@@ -254,6 +256,39 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 
 - [Source: GovTrack.us](https://www.govtrack.us/congress/members/456843) (Tier 1) (NEEDS REVIEW)
 <!-- auto:govtrack end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 75 |
+| Bills Cosponsored | 478 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (67)
+- Armed Forces and National Security (65)
+- International Affairs (53)
+- Crime and Law Enforcement (52)
+- Immigration (51)
+- Health (47)
+- Taxation (17)
+- Agriculture and Food (16)
+- Education (16)
+- Transportation and Public Works (15)
+
+**Recent bills sponsored:**
+
+- HR 10497: To amend title 18, United States Code, to provide for certain rules for housing or transportation based on gender and...
+- HR 10398: To prohibit certain sex offenders from entering or using the services of certain emergency shelters, to authorize the...
+- HR 10290: To prohibit an entity from receiving Federal funds if such entity permits an individual to access or use a single-sex...
+- HR 10186: Protecting Women’s Private Spaces Act
+- HRES 1579: Prohibiting Members, officers, and employees of the House from using single-sex facilities other than those correspon...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

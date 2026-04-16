@@ -25,8 +25,8 @@ known-gaps:
   - No mapped relationships
 bioguide-id: C001063
 govtrack-id: 400657
-bills-sponsored: 2
-bills-cosponsored: 150
+bills-sponsored: 11
+bills-cosponsored: 254
 website: https://cuellar.house.gov
 phone: 202-225-1640
 related: "[[_Donald Trump Master Profile]] · [[_Greg Abbott Master Profile]]"
@@ -37,6 +37,8 @@ fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "238000.00"
 donors: "[[American Petroleum Institute]] · [[Western Growers Association]] · [[TEXAS FORWARD]] · [[Mainstream Democrats Pac]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[NRCC]] · [[Texas Forward]]"
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -272,3 +274,33 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 
 - {{src:src_006182}} (Tier 1)
 <!-- auto:fec-summary end -->
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 254 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- International Affairs (24)
+- Government Operations and Politics (24)
+- Taxation (19)
+- Crime and Law Enforcement (18)
+- Armed Forces and National Security (16)
+- Agriculture and Food (15)
+- Finance and Financial Sector (13)
+- Civil Rights and Liberties, Minority Issues (13)
+- Immigration (12)
+
+**Enacted into law:**
+
+- HR 3569: Starr–Camargo Bridge Expansion Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

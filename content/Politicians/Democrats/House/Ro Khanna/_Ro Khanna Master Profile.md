@@ -35,8 +35,8 @@ top-donors:
   - Accel Partners ($177K career)
   - Andreessen Horowitz
 govtrack-id: 412684
-bills-sponsored: 36
-bills-cosponsored: 392
+bills-sponsored: 43
+bills-cosponsored: 523
 website: https://khanna.house.gov
 phone: 202-225-2631
 total-received: $9,579,628
@@ -73,6 +73,8 @@ wikidata-id: Q7339221
 wikipedia-url: https://en.wikipedia.org/wiki/Ro_Khanna
 wikipedia-extract: Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California's 17th congressional district since 2017.
 born: "1976-09-13"
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 <!-- auto:data-panel start -->
@@ -534,6 +536,39 @@ Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. rep
 - [Source: Wikipedia](https://en.wikipedia.org/wiki/Ro_Khanna) (Tier 3) (VERIFIED)
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7339221) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 43 |
+| Bills Cosponsored | 523 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (57)
+- International Affairs (51)
+- Government Operations and Politics (49)
+- Armed Forces and National Security (44)
+- Taxation (37)
+- Crime and Law Enforcement (33)
+- Civil Rights and Liberties, Minority Issues (25)
+- Environmental Protection (24)
+- Agriculture and Food (24)
+- Finance and Financial Sector (21)
+
+**Recent bills sponsored:**
+
+- HR 10531: To prohibit the exportation of gasoline during periods of high gasoline prices.
+- HR 10532: To amend the Federal Election Campaign Act of 1971 to prohibit a candidate for election to the office or Representati...
+- HR 10530: To amend the Federal Reserve Act to modify the goals of the Board of Governors of the Federal Reserve System, to elim...
+- HR 10456: To direct the Secretary of Health and Human Services to conduct a study to assess the unintended impacts on the healt...
+- HR 10429: To amend the Internal Revenue Code of 1986 to establish a State and local general sales tax credit for small businesses.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

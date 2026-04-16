@@ -19,8 +19,8 @@ top-donors:
   - Koch Network
 bioguide-id: M000934
 govtrack-id: 400284
-bills-sponsored: 71
-bills-cosponsored: 171
+bills-sponsored: 55
+bills-cosponsored: 319
 website: https://www.moran.senate.gov
 phone: 202-224-6521
 total-received: $1,586,154
@@ -30,6 +30,8 @@ needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[PLANNED PARENTHOOD OF KS & MID-MO]] · [[KANSANS FOR LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ADVOCATES OF KANSAS]] · [[Planned Parenthood Action Fund INC]] · [[Planned Parenthood Advocates of Kansas]] · [[Kansans for Life Political Action Committee]] · [[Koch network]] · [[Planned Parenthood of KS & Mid-MO]]"
+bills-enacted: 0
+top-policy-area: "Armed Forces and National Security"
 ---
 
 <!-- auto:data-panel start -->
@@ -267,6 +269,39 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 **Sources**
 
 <!-- auto:voting-record end -->
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 55 |
+| Bills Cosponsored | 319 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (61)
+- Health (39)
+- Taxation (29)
+- International Affairs (26)
+- Congress (21)
+- Finance and Financial Sector (21)
+- Agriculture and Food (19)
+- Transportation and Public Works (16)
+- Environmental Protection (13)
+- Crime and Law Enforcement (12)
+
+**Recent bills sponsored:**
+
+- SRES 939: A resolution commending and congratulating the Hutchinson Community College Blue Dragons football team for winning th...
+- SRES 932: A resolution designating the month of October 2024 as "National Military Toxic Exposures Awareness Month".
+- S 5568: A bill to amend title XVI of the Social Security Act to provide that the supplemental security income benefits of adu...
+- S 5472: A bill to authorize peace officer standards and training agencies to access criminal history records, and for other p...
+- S 5460: A bill to modify the Precision Medicine for Veterans Initiative of the Department of Veterans Affairs.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 

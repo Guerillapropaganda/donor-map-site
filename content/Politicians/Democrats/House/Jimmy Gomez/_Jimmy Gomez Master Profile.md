@@ -24,6 +24,10 @@ known-gaps:
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H8CA34266"
+bills-sponsored: 21
+bills-cosponsored: 399
+bills-enacted: 1
+top-policy-area: "Health"
 ---
 
 
@@ -45,3 +49,33 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 # Jimmy Gomez
 
 Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 399 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (51)
+- Taxation (37)
+- Government Operations and Politics (35)
+- Labor and Employment (30)
+- Crime and Law Enforcement (28)
+- Housing and Community Development (25)
+- International Affairs (24)
+- Civil Rights and Liberties, Minority Issues (23)
+- Education (19)
+- Immigration (17)
+
+**Enacted into law:**
+
+- HR 599: H.R. 599, a bill to designate the facility of the United States Postal Service located at 3500 West 6th Street, Suite...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->

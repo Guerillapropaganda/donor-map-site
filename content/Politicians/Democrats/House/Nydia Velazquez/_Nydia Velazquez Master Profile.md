@@ -26,6 +26,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 50
+bills-cosponsored: 564
+bills-enacted: 0
+top-policy-area: "Health"
 ---
 
 
@@ -175,6 +179,39 @@ Velazquez's three decades of institutional knowledge now face a direct class thr
 - [House Natural Resources Democrats: Grijalva, Velazquez on PPP equity for territories](https://democrats-naturalresources.house.gov/media/press-releases/chairs-grijalva-velazquez-ppp-loan-distribution-must-be-equitable-for-small-businesses-in-us-territories) (Tier 1) (VERIFIED)
 - [Ballotpedia: Nydia Velazquez](https://ballotpedia.org/Nydia_Vel%C3%A1zquez) (Tier 3) (VERIFIED)
 - [Wikipedia: Nydia Velazquez](https://en.wikipedia.org/wiki/Nydia_Vel%C3%A1zquez) (Tier 3) (VERIFIED)
+
+### Legislative Activity (118th Congress)
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 50 |
+| Bills Cosponsored | 564 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (110)
+- Education (46)
+- Crime and Law Enforcement (39)
+- Civil Rights and Liberties, Minority Issues (38)
+- Labor and Employment (35)
+- Government Operations and Politics (33)
+- International Affairs (31)
+- Environmental Protection (26)
+- Taxation (22)
+- Immigration (22)
+
+**Recent bills sponsored:**
+
+- HR 10407: To amend the Small Business Act to reauthorize and modify the Small Business Innovation Research and Small Business T...
+- HR 10247: 504 Credit Risk Management Improvement Act of 2024
+- HR 10241: Microloan Improvement Act of 2024
+- HR 10244: Improving SBA Engagement on Employee Ownership Act
+- HR 10242: Main Street Employee Ownership 2.0 Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
 
 ## Archived
 
