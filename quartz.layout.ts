@@ -67,6 +67,13 @@ export const defaultContentPageLayout: PageLayout = {
       condition: isProfilePage,
     }),
     Component.ConditionalRender({
+      component: Component.SummaryInfobox(),
+      condition: (page) => {
+        const type = String(page.fileData.frontmatter?.type ?? "")
+        return ["politician", "state-politician", "local-politician", "donor", "corporation", "pac", "think-tank", "lobbying-firm"].includes(type)
+      },
+    }),
+    Component.ConditionalRender({
       component: Component.VotingRecord(),
       condition: (page) => String(page.fileData.frontmatter?.type ?? "").toLowerCase() === "politician",
     }),
