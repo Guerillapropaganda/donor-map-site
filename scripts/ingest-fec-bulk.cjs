@@ -39,9 +39,9 @@ const WRITE = process.argv.includes('--write')
 
 // FEC PAS2 files: cycle → zip filename
 const PAS_FILES = {
-  2022: 'pas222.zip',
-  2024: 'pas224.zip',
-  2026: 'pas226.zip',
+  2022: 'fec-cmte-to-candidate-2022.zip',
+  2024: 'fec-cmte-to-candidate-2024.zip',
+  2026: 'fec-cmte-to-candidate-2026.zip',
 }
 
 const NOW = new Date().toISOString()

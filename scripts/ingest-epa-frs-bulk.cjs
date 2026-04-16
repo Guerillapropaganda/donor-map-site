@@ -136,7 +136,7 @@ async function main() {
   console.log(`    ${corpCount} corporation profiles, ${corpIndex.size} name variants`)
 
   // Step 2: Stream FRS_FACILITIES.csv
-  const zipPath = path.join(BULK_DIR, 'frs_downloads.zip')
+  const zipPath = path.join(BULK_DIR, 'epa-frs-facilities.zip')
   if (!fs.existsSync(zipPath)) {
     console.log('  ERROR: frs_downloads.zip not found in data/bulk/')
     return
