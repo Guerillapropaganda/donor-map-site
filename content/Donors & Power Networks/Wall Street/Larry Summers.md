@@ -23,7 +23,7 @@ regulatory-agencies:
   - State Department
 total-political-spend: $401,797
 politicians-funded: "[[Sherrod Brown]], [[Kamala Harris]], [[Barack Obama]], [[Shontel Brown]], [[Joe Biden]]"
-related: "[[Sherrod Brown]] · [[Kamala Harris]] · [[Joe Biden]] · [[Barack Obama]]"
+related: "[[Sherrod Brown]] · [[Kamala Harris]] · [[Joe Biden]] · [[Barack Obama]] · [[Shontel Brown]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

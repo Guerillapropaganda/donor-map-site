@@ -9,7 +9,7 @@ category: conservative
 tax-status: 501c3
 lei: 5493006YU7R03XUJSX56
 lei-jurisdiction: US-DC
-related: ">- · [[Jim Risch]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[Stephen Miller]] · [[Jodey Arrington]] · [[Donna Miller]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]]"
+related: ">- · [[Jim Risch]] · [[Schedule F and the Deep State Purge - Replacing Civil Servants with Loyalists]] · [[Stephen Miller]] · [[Jodey Arrington]] · [[Donna Miller]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]]"
 fara-status: registrant
 fara-records: 2
 fara-countries:

@@ -37,7 +37,7 @@ subawards-received: 50
 subawards-received-amount: 51876611853
 top-federal-agency: Department of Homeland Security
 top-naics-code: "561612"
-related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]]"
+related: "[[Uber]] · [[Private Prison Immigration Pipeline]] · [[Family Separation - Zero Tolerance and Who Profited]] · [[Criminal Justice and DOJ - Donors and Backers]] · [[Brian Kemp]] · [[Greg Abbott Master Profile]] · [[The Judiciary Committee and Criminal Justice Reform Limits]] · [[Bail Bond Industry]] · [[Aramark]] · [[CCPOA - California Correctional Peace Officers Association]] · [[_Gavin Newsom Master Profile]] · [[Private Detention - AB 32]] · [[GEO Group]] · [[Immigration - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[_Chad Bianco Master Profile]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 709089
 total-assets: 27969
@@ -471,7 +471,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-15 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
