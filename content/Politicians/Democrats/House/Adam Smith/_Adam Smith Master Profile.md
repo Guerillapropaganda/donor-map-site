@@ -50,7 +50,7 @@ total-raised: $786,535
 total-spent: $659,320
 cash-on-hand: "697967.61"
 fec-cycle: 2026
-total-received: "$786,535"
+total-received: "$1,128,650"
 bills-enacted: 1
 top-policy-area: "Health"
 ---
@@ -210,10 +210,10 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2026 |
-| Total Raised | $786,535 |
-| Individual Contributions | $412,258 |
-| PAC Contributions | $326,250 |
-| Cash on Hand | 697967.61 |
+| Total Raised | $1,128,650 |
+| Individual Contributions | $641,476 |
+| PAC Contributions | $420,250 |
+| Cash on Hand | 847127.52 |
 | IE Support (Super PAC) | $31,191 |
 | IE Opposition (Super PAC) | $50,926 |
 
@@ -221,7 +221,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 | Cycle | Total Raised | Individual | PAC |
 |-------|-------------|------------|-----|
-| 2026 | $786,535 | $412,258 | $326,250 |
+| 2026 | $1,128,650 | $641,476 | $420,250 |
 | 2024 | $1,677,916 | $899,896 | $714,400 |
 | 2022 | $1,386,776 | $601,760 | $727,000 |
 | 2020 | $1,327,196 | $523,669 | $776,312 |

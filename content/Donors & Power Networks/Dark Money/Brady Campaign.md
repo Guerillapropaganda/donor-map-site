@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]] · [[Aaron Bean]] · [[Gina McCarthy]] · [[Salud O. Carbajal]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]] · [[Aaron Bean]] · [[Gina McCarthy]] · [[Salud O. Carbajal]] · [[Robert Menendez]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: 501(c)(4)
