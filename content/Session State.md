@@ -51,12 +51,13 @@ See `content/Admin Notes/pre-launch-security-brief.md` for full context.
 
 Updated every session. Regenerate with `node scripts/status.cjs`.
 
-**Last updated:** 2026-04-15 (end of Pillar 2b data coverage marathon)
+**Last updated:** 2026-04-15 (late evening: bulk CSV ingest)
 
 | Metric | Count |
 |---|---|
-| Total canonical records | ~43,976 across 9 stores (added `fec-committee-registry` this session) |
-| Monetary edges (total / with real amount + cycle + role) | ~1,380 / **~282** (was 1,098 / **0** at session start) |
+| Total canonical records | ~47,132 across 9 stores |
+| Monetary edges (total / with real amount + cycle) | 5,138 / **5,138** (was 2,696 / 661) |
+| Government-contract edges | **714** (new type this session) |
 | Sources (live / archived / needs_review / dead / other) | 9,555 / 3,317 / 1,041 / 539 / 229 |
 | Entities (donors / politicians / tags approved) | 276 / 709 / 71 in entities.jsonl + 346 proposals approved |
 | Class tag proposals (pending / approved / rejected) | 0 / 346 / 0 |
@@ -89,6 +90,42 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-15 (late evening: checklist overhaul + bulk CSV ingest)
+
+### Theme
+David flagged that corporation checklist items (Federal contracts, EPA/OSHA) were permanently red with no path to resolution. Investigation revealed systemic issues: EPA pipeline never worked (0/110 corps), USASpending missing on 37 corps, checklist-na never used on corporations. Built three-pronged fix: (1) checklist UI overhaul with pipeline status detection and URL triage tracking, (2) auto-N/A sweeper for 2,464 profiles, (3) bulk CSV ingest from 26GB of government downloads (FEC, USASpending, EPA FRS).
+
+### Done this session
+
+- **Checklist: URL triage item** — new `urls-triaged` checklist item on all profile types. Checks for zero `(URL NEEDED)` / `(NEEDS REVIEW)` tags. Tracks `urls-first-triaged` date in frontmatter for regression detection. Added to `ops/src/components/VerificationChecklist.tsx`, `ops/src/lib/checklist-helpers.ts`, `ops/src/lib/vault.ts`, `ops/src/app/api/profile/checklist/route.ts`.
+- **Checklist: pipeline status detection** — new `detectPipelineStatus()` in `checklist-helpers.ts`. Parses `internal-notes` for failure messages. Three visual states: green check (passed), amber warning (pipeline failed/never-ran), grey dash (N/A with reason+date), red X (real failure).
+- **Checklist: auto-N/A sweeper** — `scripts/checklist-auto-na.cjs`. Bulk marks obvious N/A items (EPA/OSHA for non-corporations, federal contracts for non-corporations). 3,432 N/A items across 2,464 profiles. 2,238 `urls-first-triaged` stamps on URL-clean profiles.
+- **Bulk data library** — David downloaded ~30GB of government CSVs to `data/bulk/`. Files renamed from cryptic source defaults to clear `{source}-{dataset}-{cycle}` pattern. Catalog at `data/bulk/CATALOG.md` (gitignored).
+- **FEC bulk ingest** — `scripts/ingest-fec-bulk.cjs`. Streamed 1.58M PAS2 rows across 3 cycles (2022/2024/2026). 2,442 new monetary edges via FEC committee registry → candidate ID matching. Confidence 0.95 (authoritative bulk data).
+- **USASpending bulk ingest** — `scripts/ingest-usaspending-bulk.cjs`. Streamed 13.3M contract rows from 14 CSVs (FY2024-2025). 714 government-contract edges + 66 corporation profiles with auto-blocks. New `government-contract` edge type added to validator.
+- **EPA FRS bulk ingest** — `scripts/ingest-epa-frs-bulk.cjs`. Matched 4,779 facilities across 3.2M FRS rows. 104 corporation profiles with EPA auto-blocks (was 0 — pipeline had never worked).
+- **Edge validator updates** — new edge type `government-contract` (directed, requires amount+cycle). New sources: `fec-bulk`, `epa-frs`, `usaspending-bulk`. Government agencies exempt from profile-existence check. Fixed 2,494 pre-existing stale type denormalization errors + 2 Elliott Management slug collisions.
+- **Canonical store**: 31,996 → 35,152 edges (+3,156). Monetary 2,696 → 5,138. Government-contract 0 → 714. EPA profiles 0 → 104.
+
+### Known issues
+- 6 FEC individual contribution files still downloading (~18GB)
+- EPA enforcement/penalty data (ICIS FE&C) may need separate download
+- ADM still missing USASpending (hyphenated name "ARCHER-DANIELS-MIDLAND" vs normalized "archer daniels midland" — name normalizer strips hyphens to spaces but USASpending doesn't)
+- NHTSA data on ADM profile is wrong (showing Tesla vehicle data — known false match)
+- GLEIF on ADM shows Vietnamese subsidiary instead of US parent
+
+### Next session priorities
+1. **Review 124 profiles for A+ sign-off** (David's lane, at Ops `/attention`)
+2. **Ingest FEC individual contributions** when downloads finish (donor → PAC chains)
+3. **Ingest FEC committee master + candidate master** (expand registry from 293 to full coverage)
+4. **Build EPA enforcement ingest** (ICIS FE&C — violations + penalty amounts)
+5. **Build ICIJ offshore leaks ingest** (Panama/Paradise/Pandora Papers entity matching)
+6. **Fix batch4 silent failures** (engine repo: fara, osha, voting-record)
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-15 (evening session: foundation fixes + strikethrough migration)
 
