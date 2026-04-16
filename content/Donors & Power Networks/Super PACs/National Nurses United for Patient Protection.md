@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Mark Takano]], [[Pramila Jayapal]], [[Ilhan Omar]]"
-related: "[[Mark Takano]] · [[Pramila Jayapal]]"
+related: "[[Mark Takano]] · [[Pramila Jayapal]] · [[Ilhan Omar]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
@@ -21,6 +21,11 @@ urls-first-triaged: "2026-04-15"
 total-spent: 94629
 cash-on-hand: 1111621
 independent-expenditures: 94400
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "BALKANS"
+  - "UKRAINE-EO13661] [CYBER2] [ELECTION-EO13848"
 ---
 
 ## Auto-Created Stub

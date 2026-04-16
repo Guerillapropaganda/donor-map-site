@@ -34,7 +34,7 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Justice Department"
   - "Labor Department"
-related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Holland & Knight]] · [[Prime Policy Group]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Crossroads Strategies]]"
+related: "[[Palantir Technologies]] · [[SpaceX]] · [[Apple]] · [[Raytheon (RTX)]] · [[Founders Fund]] · [[Crypto Industry Bloc]] · [[Donald Trump Master Profile]] · [[Brownstein Hyatt Farber Schreck]] · [[Holland & Knight]] · [[Prime Policy Group]] · [[Thorn Run Partners]] · [[Subject Matter (now Avoq)]] · [[Squire Patton Boggs]] · [[Peck Madigan Jones (now Tiber Creek Group)]] · [[Mehlman Consulting]] · [[K&L Gates]] · [[Forbes Tate Partners]] · [[Fierce Government Relations]] · [[Crossroads Strategies]] · [[Cornerstone Government Affairs]]"
 sec-filings: 737
 sec-form-types:
   - "10-K"

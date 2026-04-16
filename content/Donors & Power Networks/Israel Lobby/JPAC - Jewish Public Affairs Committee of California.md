@@ -11,12 +11,12 @@ politicians-funded: "[[Gavin Newsom]]"
 issues:
   - Israel & Foreign Policy
 ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
-  - BELARUS
-  - GLOMAG
+  - "BELARUS"
+  - "GLOMAG"
 related: "[[Ethnic Studies - Whose History Gets Taught]] · [[_Gavin Newsom Master Profile]] · [[Pro-Israel Donor Network Deep Dive]] · [[Early History and Background Ties 2003-2019]] · [[Post-October 7 Positions and Flip History]] · [[JCRC Bay Area]] · [[Haim Saban]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[California Charter Schools Association]] · [[Trump Donor Coalition]] · [[Entertainment and Hollywood Donors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]]"
 ein: "680028695"
 nonprofit-status: 501(c)(4)
@@ -136,7 +136,7 @@ Israel, legislative advocacy, anti-protest legislation, ethnic studies, donor ne
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00300731
 aliases:
@@ -23,6 +23,11 @@ total-spent: 962711
 cash-on-hand: 42159
 individual-contributions: 182394
 contributions-to-committees: 315
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "DPRK3"
+  - "ILLICIT-DRUGS-EO14059"
 ---
 
 ## Auto-Created Stub

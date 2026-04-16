@@ -3,7 +3,7 @@ title: Chris Coons
 type: politician
 content-readiness: ready
 central-thesis: Coons is Big Pharma's man in the Senate , Jacobin's phrase, but the evidence is structural. Delaware is home to DuPont, AstraZeneca, and the corporate incorporation industry that shelters more than 1.8 million business entities. Coons's committee ...
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 party: Democrat
@@ -233,7 +233,7 @@ party:: Democrat
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-15 -->
+<!-- auto:stock-trades pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

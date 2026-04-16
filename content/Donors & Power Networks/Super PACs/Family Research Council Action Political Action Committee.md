@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00452383
 aliases:
@@ -23,6 +23,11 @@ total-spent: 1008
 cash-on-hand: 50624
 individual-contributions: 7965
 contributions-to-committees: 1000
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "BALKANS"
+  - "GLOMAG"
 ---
 
 ## Auto-Created Stub

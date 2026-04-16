@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00011114
 aliases:
@@ -23,6 +23,11 @@ total-spent: 6017683
 cash-on-hand: 5659187
 individual-contributions: 9341186
 contributions-to-committees: 2226000
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "CAATSA - RUSSIA"
+  - "RUSSIA-EO14024"
 ---
 
 ## Auto-Created Stub

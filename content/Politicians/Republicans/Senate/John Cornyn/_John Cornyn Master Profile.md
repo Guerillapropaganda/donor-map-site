@@ -4,7 +4,7 @@ type: politician
 bioguide-id: C001056
 content-readiness: ready
 central-thesis: John Cornyn is the Texas corporate establishment's Senate operator — a reliable legislative mechanic for oil and gas deregulation, defense spending, financial services preferences, and judicial confirmations who functions as the institutional coun...
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 party: Republican
@@ -339,7 +339,7 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-15 -->
+<!-- auto:stock-trades pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

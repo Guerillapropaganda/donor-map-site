@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Adam Smith]], [[Rick Larsen]], [[Adam Schiff]]"
-related: "[[Adam Schiff]] · [[Rick Larsen]]"
+related: "[[Adam Schiff]] · [[Rick Larsen]] · [[Adam Smith]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"

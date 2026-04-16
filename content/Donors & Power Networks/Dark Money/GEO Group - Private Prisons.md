@@ -7,7 +7,7 @@ last-updated: 2026-04-16
 aliases:
   - "GEO Group - Private Prisons"
 urls-first-triaged: "2026-04-15"
-related: "[[Immigration Enforcement - The Detention Economy]]"
+related: "[[Immigration Enforcement - The Detention Economy]] · [[Immigration - Donors and Backers]]"
 ---
 
 # GEO Group - Private Prisons

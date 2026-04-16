@@ -4,7 +4,7 @@ type: politician
 bioguide-id: M001111
 content-readiness: ready
 central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 party: Democrat
@@ -296,7 +296,7 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-15 -->
+<!-- auto:stock-trades pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

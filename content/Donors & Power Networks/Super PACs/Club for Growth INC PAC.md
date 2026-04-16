@@ -23,7 +23,7 @@ cash-on-hand: 322804
 independent-expenditures: 161385
 individual-contributions: 340561
 contributions-to-committees: 233104
-related: "[[John Thune]]"
+related: "[[John Thune]] · [[Patrick McHenry]]"
 ---
 
 ## Auto-Created Stub

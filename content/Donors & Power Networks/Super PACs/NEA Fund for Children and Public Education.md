@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00003251
 aliases:
@@ -25,6 +25,10 @@ total-spent: 1167599
 cash-on-hand: 2901981
 individual-contributions: 2264014
 contributions-to-committees: 1010500
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "RUSSIA-EO14024"
 ---
 
 ## Auto-Created Stub

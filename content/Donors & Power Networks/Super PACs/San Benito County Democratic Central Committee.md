@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00496521
 aliases:
@@ -22,6 +22,10 @@ total-raised: 27926
 total-spent: 19559
 cash-on-hand: 17309
 individual-contributions: 18877
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "DPRK3"
 ---
 
 ## Auto-Created Stub

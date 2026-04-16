@@ -46,7 +46,7 @@ known-gaps:
   - No mapped relationships
 lobbying-spend: 9397596
 lobbying-filings: 95
-related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]]"
+related: "[[Democracy Alliance]] · [[Center for American Progress]] · [[Media Matters|David Brock]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[National Progressive Donor Networks]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]]"
 total-political-spend: $3,998,524
 politicians-funded: "[[Bill Clinton]], [[Hillary Clinton]]"
 checklist-na:

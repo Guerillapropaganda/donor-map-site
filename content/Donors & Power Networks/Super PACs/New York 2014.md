@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00563171
 aliases:
@@ -20,6 +20,10 @@ checklist-na:
 urls-first-triaged: "2026-04-15"
 total-raised: 3428
 total-spent: 92448
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "VENEZUELA-EO13850"
 ---
 
 ## Auto-Created Stub

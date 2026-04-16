@@ -8,7 +8,7 @@ parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -93,7 +93,7 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

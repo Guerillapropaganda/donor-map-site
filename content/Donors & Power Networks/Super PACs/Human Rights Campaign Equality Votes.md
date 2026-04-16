@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00508440
 aliases:
@@ -23,6 +23,11 @@ total-spent: 105291
 cash-on-hand: 40385
 independent-expenditures: 50
 individual-contributions: 12478
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "SDGT"
+  - "ICC-EO14203"
 ---
 
 ## Auto-Created Stub

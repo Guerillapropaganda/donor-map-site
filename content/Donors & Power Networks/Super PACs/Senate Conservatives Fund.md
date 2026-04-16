@@ -23,7 +23,7 @@ cash-on-hand: 816283
 independent-expenditures: 1447158
 individual-contributions: 3167195
 contributions-to-committees: 1405974
-related: "[[John Ratcliffe]]"
+related: "[[John Ratcliffe]] · [[Bill Hagerty]]"
 ---
 
 ## Auto-Created Stub

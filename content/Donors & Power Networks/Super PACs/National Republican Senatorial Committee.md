@@ -10,7 +10,7 @@ entity-type: "PAC"
 politicians-funded:
   - "Rick Scott"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -27,7 +27,7 @@ court-jurisdictions:
   - "District Court, D. Utah"
   - "District Court, District of Columbia"
   - "District Court, W.D. Michigan"
-related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[MAGA Inc]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Emilys List]] · [[Joe Manchin]] · [[Majority Forward]]"
+related: "[[Club for Growth]] · [[New Hampshire 2026 Senate Race]] · [[Florida 2026 Special Senate Election]] · [[Senate Leadership Fund]] · [[Congressional Leadership Fund]] · [[WinRed]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[MAGA Inc]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Emilys List]] · [[Joe Manchin]] · [[Majority Forward]] · [[Sheldon Whitehouse]]"
 federal-register-mentions: 22
 regulatory-agencies:
   - "Federal Election Commission"
@@ -209,7 +209,7 @@ The NRSC's recent history includes the most damaging internal party conflict of 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

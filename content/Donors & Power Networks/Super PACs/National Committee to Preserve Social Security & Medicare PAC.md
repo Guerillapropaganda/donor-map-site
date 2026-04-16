@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 fec-committee-id: C00172296
 aliases:
@@ -18,6 +18,15 @@ checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 urls-first-triaged: "2026-04-15"
+ofac-sdn-match: "true"
+last-enriched: "2026-04-16"
+ofac-programs:
+  - "BALKANS"
+  - "IRAN-TRA"
+  - "IRAN-EO13846"
+  - "BELARUS"
+  - "RUSSIA-EO14024"
+  - "GLOMAG"
 ---
 
 ## Auto-Created Stub

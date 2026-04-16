@@ -2,14 +2,14 @@
 title: Gulf State Money - Saudi Arabia, UAE, Qatar
 type: donor
 content-readiness: draft
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Foreign Influence
 entity-type: Individual Donor
 politicians-funded: "[[Jared Kushner]], [[Benjamin Netanyahu]], [[Donald Trump]]"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
@@ -190,7 +190,7 @@ $23 billion F-35/drone package to UAE as Abraham Accords sweetener. U.S. defense
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-15 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

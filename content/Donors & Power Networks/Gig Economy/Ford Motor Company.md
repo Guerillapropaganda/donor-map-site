@@ -2,7 +2,7 @@
 title: Ford Motor Company
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-15
+last-updated: 2026-04-16
 source-tier: 1
 parent: null
 sector: Gig Economy
@@ -15,7 +15,7 @@ annual-revenue: $30.0M
 net-assets: $243K
 tax-year: "2016"
 court-cases: 21936
-last-enriched: "2026-04-15"
+last-enriched: "2026-04-16"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 court-jurisdictions:
@@ -185,7 +185,7 @@ The class function is straightforward: Ford converts public money into private r
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-15 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-16 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -193,7 +193,7 @@ The class function is straightforward: Ford converts public money into private r
 |--------|-------|
 | Vehicle Recalls | 500 |
 | Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
+| NHTSA Investigations | 0 |
 | Recall Components | ENGINE AND ENGINE COOLING, VISIBILITY, AIR BAGS, BACK OVER PREVENTION, FUEL SYSTEM, DIESEL |
 | Most Recent Recall | 2026-03-31 |
 | Earliest Recall | 2019-05-13 |
@@ -207,13 +207,6 @@ The class function is straightforward: Ford converts public money into private r
 - [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (2026-03-19)
 - [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (2026-03-17)
 - ... and 494 more
-
-**Active/recent investigations:**
-
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
 
