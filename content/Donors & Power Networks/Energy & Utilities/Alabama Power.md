@@ -49,7 +49,7 @@ sec-form-types:
   - "PRE 14A"
   - "S-3"
   - "U-1"
-federal-awards-total: 18296801
+federal-awards-total: 45172350
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 1859
@@ -62,6 +62,9 @@ cross-vault-triangulation-count: 1
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 11
+epa-states: "AL"
+federal-contracts: 170
 ---
 
 
@@ -234,22 +237,19 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $18.3M |
-| Contracts (recent 3yr) | 25 ($148.6M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 4 |
+| Federal Contracts | 170 |
+| Total Obligation | $45,172,350 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $75.2M | Department of Defense | 200309!009606!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060003C8262  !A!N! !N!                  |
-| $16.9M | Department of Homeland Security | IGF::OT::IGF ELECTRICAL SERVICES FOR THE CDP |
-| $10.0M | Department of Defense | UESC ANNISTON ARMY DEPOT IMPLEMENTATION |
-| $8.7M | Department of Defense | INVESTMENT GRADE AUDIT (IGA) |
-| $8.3M | Department of Defense | PREVENTIVE MAINT OF ELECTRICAL EQUIPMENT |
+- Department of Defense: $35,045,043
+- Department of Homeland Security: $5,924,736
+- Department of Justice: $3,658,419
+- Department of Veterans Affairs: $544,153
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/8a7cd03a-dabc-9d74-2795-cc4f3ada4fd1-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -273,6 +273,19 @@ Alabama Power exemplifies utility monopoly power in states with weak regulatory 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Alabama%20Power%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 11 |
+| States | 1 (AL) |
+| Registry IDs | 110000368183, 110003027661, 110000741270, 110070598201, 110020722404 +6 more |
+
+**Facility locations:** GADSDEN, AL, BIRMINGHAM, AL, BUCKS, AL, WILSONVILLE, AL, TALLADEGA, AL, CHICKASAW, AL, NORTHPORT, AL, THEODORE, AL, MCINTOSH, AL, CHELSEA, AL +1 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

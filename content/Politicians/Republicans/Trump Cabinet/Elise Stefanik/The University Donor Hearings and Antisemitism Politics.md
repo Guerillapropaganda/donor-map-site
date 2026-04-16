@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 related: "[[_Elise Stefanik Master Profile]] · [[_Virginia Foxx Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #stefanik #antisemitism #university #donors #harvard #penn #mit #hearing #education
 

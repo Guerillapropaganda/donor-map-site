@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-15-session-save-evening-foundation-fixes'
+last-updated: '2026-04-15-session-save-late-evening-bulk-ingest'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1684,6 +1684,36 @@ phase_1_tasks:
       completed_date: 2026-04-15
       added_adhoc: true
       notes: "16 commits this session. All deployed to v4."
+
+    - id: cc_156
+      task: "Checklist overhaul: URL triage tracking + pipeline status detection + auto-N/A"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commits: ["f7552b79b", "534ec50f6", "f9818a1d2"]
+      notes: "New urls-triaged checklist item on all profile types with urls-first-triaged date tracking. Pipeline status detection (passed/failed/never-ran/no-data) with amber warning vs red X rendering. Auto-N/A sweeper (scripts/checklist-auto-na.cjs): 3,432 N/A items across 2,464 profiles + 2,238 url-triaged stamps. contracts now naAllowed for corporations."
+
+    - id: cc_157
+      task: "Bulk CSV ingest: FEC PAS2 + USASpending contracts + EPA FRS facilities"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      commits: ["526019696", "0668293c8", "882f112f8"]
+      notes: "Three new ingest scripts. FEC: 2,442 monetary edges from 1.58M rows. USASpending: 714 government-contract edges + 66 auto-blocks from 13.3M rows (streaming). EPA FRS: 104 corporation auto-blocks from 3.2M facility rows. New government-contract edge type. Fixed 2,494 stale denormalization errors. Canonical store 31,996 → 35,152 edges."
+
+    - id: cc_158
+      task: "Bulk data library: rename files + catalog + memory for future sessions"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "Renamed all bulk files to {source}-{dataset}-{cycle} pattern. Catalog at data/bulk/CATALOG.md. Memory saved for future sessions. ~30GB of FEC, USASpending, EPA, OFAC, ICIJ, Congress, ProPublica data."
+
+    - id: cc_159
+      task: "Session save — 2026-04-15 late evening checklist + bulk ingest"
+      status: done
+      completed_date: 2026-04-15
+      added_adhoc: true
+      notes: "8 commits this session. Deploying to v4."
 
   research_claude:
     - id: rc_01

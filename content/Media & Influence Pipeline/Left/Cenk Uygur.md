@@ -2,12 +2,16 @@
 title: "Cenk Uygur"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 category: left
 platform: multi-platform
-related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Christopher Rufo]]"
+related: "[[Jeffrey Katzenberg]] · [[Greycroft]] · [[WndrCo]] · [[TYT Network - The Young Turks]] · [[Ana Kasparian]] · [[Sam Seder]] · [[Kyle Kulinski]] · [[Rachel Maddow]] · [[Pod Save America]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Briahna Joy Gray]] · [[Ezra Klein]] · [[Breaking Points with Krystal and Saagar]] · [[Abby Phillip]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum — Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Michael Knowles]] · [[Matt Walsh]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jimmy Dore]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Greg Gutfeld]] · [[Dave Rubin]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #left #independence-theater #audience-capture #revolving-door #labor-contradiction #venture-capital

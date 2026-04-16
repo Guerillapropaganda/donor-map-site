@@ -2,7 +2,7 @@
 title: Chevron
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Energy & Utilities
@@ -24,8 +24,8 @@ ein: 510189525
 annual-revenue: $222K
 net-assets: $781K
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]]"
-federal-awards-total: 192677628
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]]"
+federal-awards-total: 368049861
 federal-contracts-count: 25
 federal-grants-count: 5
 lei: 254900JAIX71VO1NS489
@@ -36,6 +36,9 @@ top-federal-agency: Department of Defense
 top-naics-code: "324110"
 cross-vault-triangulation-count: 29
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 763
+epa-states: "AK, AL, AZ, CA, CO, CT, DC, FL, GA, KY, LA, MD, MI, MS, NC, NE, NH, NJ, NM, NY, OH, OR, PA, RI, TX, UT, WV"
+federal-contracts: 422
 ---
 
 <!-- auto:data-panel start -->
@@ -385,38 +388,16 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $192.7M |
-| Contracts (recent 3yr) | 25 ($334.2M sampled) |
-| Grants (recent 3yr) | 5 ($28.0M sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 422 |
+| Total Obligation | $368,049,861 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $100.7M | Department of Defense | 200212!006174!97AS!0600  !DEFENSE ENERGY SUPPORT CENTER   !SP060002C5216  !A!N! !N!P00003            |
-| $53.5M | Department of Defense | 8508181558!OCONUS COCO STORAGE SERVICES |
-| $50.3M | Department of Defense | 8509235048!OCONUS COCO STORAGE SERVICES |
-| $28.8M | Department of Defense | 8508180522!OCONUS COCO STORAGE SERVICES |
-| $11.3M | Department of Defense | 8511777583!TURBINE FUEL,AVIATION |
+- Department of Defense: $368,049,861
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $13.0M | Department of Energy | DE-FE0031944/0000 NEW AWARD
-CHEVRON NATURAL GAS CARBON CAPTURE TECHNOLOGY TESTING PROJECT 
-THE PURPO |
-| $11.9M | Department of Energy | BIL - GEOZONE ENHANCED GEOTHERMAL SYSTEMS (EGS) PILOT PROJECT
-
-THE GOAL OF THIS PROJECT (PROJECT) IS |
-| $3.0M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW (BIL) CHEVRON WESTERN REGIONAL DIRECT AIR CAPTURE HUB 
-
-THE OBJECTIVE  |
-| $158K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
-| $0 | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/deb1d465-49fc-877e-6f83-066c774fb2f5-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Lobbying Activity
@@ -442,11 +423,13 @@ THE OBJECTIVE  |
 <!-- auto:influence-cross-ref start -->
 | Metric | Value |
 |--------|-------|
-| Politicians Funded | 3 |
+| Politicians Funded | 5 |
 | Committee Overlap Detected | None |
 
 **Funded politicians:**
 
+- [[Gavin Newsom]]
+- [[Condoleezza Rice]]
 - [[Cathy McMorris Rodgers]] (Energy & Commerce)
 - [[Kevin McCarthy]]
 - [[John Cornyn]] (Judiciary, Intelligence, Finance)
@@ -501,6 +484,19 @@ THE OBJECTIVE  |
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Chevron) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 763 |
+| States | 27 (AK, AL, AZ, CA, CO, CT, DC, FL, GA, KY, LA, MD, MI, MS, NC, NE, NH, NJ, NM, NY, OH, OR, PA, RI, TX, UT, WV) |
+| Registry IDs | 110005606843, 110005608459, 110005601152, 110002661771, 110040482466 +758 more |
+
+**Facility locations:** WEST PALM BEACH, FL, ATLANTIC BEACH, FL, HUNTINGTON BEACH, CA, FELLOWS, CA, CHULA VISTA, CA, PHOENIX, AZ, NEWHALL, CA, WASHINGTON, DC, TAFT, CA, SAN ARDO, CA +288 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

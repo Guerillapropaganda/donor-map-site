@@ -7,6 +7,7 @@ source-tier: 1
 parent: null
 sector: "Carceral State"
 related: "[[CoreCivic - Private Prisons]] · [[CoreCivic]] · [[GEO Group]] · [[Securus Technologies - Aventiv]] · [[ViaPath Technologies - GTL]] · [[CCPOA - California Correctional Peace Officers Association|CCPOA]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

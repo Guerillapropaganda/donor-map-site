@@ -33,6 +33,8 @@ sec-form-types:
   - PRE 14A
   - PX14A6G
   - U-13-60
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #conservative #judicial #federalist-society #leonard-leo #scotus #judicial-pipeline #originalism #dark-money #deregulation

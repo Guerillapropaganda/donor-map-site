@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
 related: "[[RFK Jr and the HHS Demolition - Make America Healthy Again Meets Pharma Deregulation]] · [[The Medicare for All Retreat - Two Audiences and One Calculation]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Pfizer Inc.]] · [[Single-Payer Broken Promise]] · [[Environment - Donors and Backers]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Labor - Donors and Backers]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Mental Health CARE Court and Forced Treatment]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[The Education Committee and Labor Alignment]] · [[Economic Policy - Donors and Backers]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Kaiser Permanente]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[The ACA Repeal That Never Came and the Pharma Donors Who Paid Either Way]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[_Donald Trump Master Profile]] · [[Civica Rx]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #healthcare #donors #backers #pharma #insurance #phrma #pfizer #unitedhealth #rfk-jr #wellness-industry #follow-the-money #research-node
 

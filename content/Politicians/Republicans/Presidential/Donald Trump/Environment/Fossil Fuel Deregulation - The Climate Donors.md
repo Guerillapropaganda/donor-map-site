@@ -6,6 +6,10 @@ last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Alexander Acosta Master Profile]]
 related: "[[Timothy Mellon Funds Trump and RFK Jr Simultaneously]] · [[_Donald Trump Master Profile]] · [[Koch Network - Charles Koch]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[The Iran War - Defense Donors and the DOGE Readiness Gap]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[Project 2025 - The Blueprint They Followed]] · [[Environment - Donors and Backers]] · [[Elliott Management]] · [[Harold Hamm]] · [[Elon Musk]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #fossil-fuel #deregulation #climate #class-analysis #follow-the-money #EPA #drilling #emissions #energy-emergency
 

@@ -8,7 +8,7 @@ parent: null
 sector: Gig Economy
 entity-type: Corporation
 politicians-funded: "[[Barack Obama]], [[Joe Biden]]"
-federal-awards-total: 615175233
+federal-awards-total: 533491739
 federal-contracts-count: 25
 federal-grants-count: 20
 lobbying-spend: 61183910
@@ -52,6 +52,9 @@ regulatory-agencies:
   - U.S. Customs and Border Protection
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 94
+epa-states: "CA, CO, FL, GA, IL, IN, KS, KY, MA, MD, MI, MO, NV, NY, OH, OK, PA, TN, TX, WI, WV"
+federal-contracts: 9814
 ---
 
 <!-- auto:data-panel start -->
@@ -100,40 +103,22 @@ GM's political evolution follows the money: bailed out by Obama ($50B+), the com
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
-
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $615.2M |
-| Contracts (recent 3yr) | 25 ($73.2M sampled) |
-| Grants (recent 3yr) | 20 ($604.5M sampled) |
-| Federal Agencies | 4 |
+| Federal Contracts | 9,814 |
+| Total Obligation | $533,491,739 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 5 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $28.3M | Department of Homeland Security | NEXT GENERATION LIMOUSINES (NGL4). |
-| $6.5M | Department of Homeland Security | THE PURPOSE OF THIS CONTRACT IS FOR THE CAMP DAVID LIMOUSINE REFRESH |
-| $5.3M | General Services Administration | 4X4 SUV, INTERMEDIATE, 4 DR, 5 PASS, FOR UPFITTING |
-| $4.0M | General Services Administration | 4X2 VAN WAGON, FULL SIZE, 15 PASSENGER |
-| $3.3M | General Services Administration | 4X4 SUV, INTERMEDIATE, 4 DR, 5 PASS, MIN 5500 GVWR |
+- General Services Administration: $453,585,576
+- Department of Defense: $43,689,735
+- Department of Homeland Security: $35,210,933
+- Pension Benefit Guaranty Corporation: $1,081,318
+- Department of State: $-75,823
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $500.0M | Department of Energy | INFLATION REDUCTION ACT (IRA) ELECTRIC VEHICLE (EV) CONVERSION
-
-THE RECIPIENT WILL CONVERT AN EXISTI |
-| $30.0M | Department of Energy | HIGH SPEED FUEL CELL STACK MANUFACTURING
-
-THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
-| $22.1M | Department of Energy | NEW AWARD TO GENERAL MOTORS, LLC.  AWARD NUMBER#: DE-EE0009859.   PROJECT TITLE:  FREIGHT EMISSIONS  |
-| $7.5M | Department of Energy | NEW AWARD TO GENERAL MOTORS LLC.  AWARD NUMBER# DE-EE0009204.  PROJECT ENTITLED: DEVELOPMENT OF TAIL |
-| $7.5M | Department of Energy | THE PURPOSE OF THE PROJECT IS TO DEVELOP 400-KILOWATT 800 V-CLASS GALIUM-NITRIDE (GAN) ENABLED INTEG |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-General%20Motors) (Tier 1) (VERIFIED)
-
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Sources
@@ -357,6 +342,19 @@ THE PROJECT OBJECTIVE IS TO DESIGN, BUILD, AND DEPLOY A MA |
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=General%20Motors) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 94 |
+| States | 21 (CA, CO, FL, GA, IL, IN, KS, KY, MA, MD, MI, MO, NV, NY, OH, OK, PA, TN, TX, WI, WV) |
+| Registry IDs | 110070834403, 110024414720, 110000766993, 110012271852, 110009258560 +89 more |
+
+**Facility locations:** DEFIANCE, OH, ANDERSON, IN, INDIANAPOLIS, IN, BOLINGBROOK, IL, BOWLING GREEN, KY, KANSAS CITY, KS, DETROIT, MI, JACKSONVILLE, FL, CONSTANTINE, MI, LANSING, MI +50 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

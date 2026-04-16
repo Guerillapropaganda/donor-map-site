@@ -4,6 +4,7 @@ type: system
 status: active
 last-updated: 2026-04-14
 authority: ADR-0002
+urls-first-triaged: "2026-04-15"
 ---
 
 # Monetization Model

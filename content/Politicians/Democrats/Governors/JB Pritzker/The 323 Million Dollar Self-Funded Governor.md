@@ -5,7 +5,10 @@ content-readiness: draft
 last-updated: 2026-04-15
 source-tier: 2
 parent: [[_JB Pritzker Master Profile]]
-related: "[[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
+related: "[[Offshore Trusts Toilet Schemes and the Tax Avoidance Architecture]] · [[_JB Pritzker Master Profile]] · [[JB Pritzker (Donor Network)]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #jb-pritzker #self-funded #campaign-finance #dga #think-big-america #class-analysis #follow-the-money
 

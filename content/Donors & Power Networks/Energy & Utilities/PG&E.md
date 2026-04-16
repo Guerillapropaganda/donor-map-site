@@ -15,13 +15,17 @@ tax-year: "2023"
 related: "[[Fossil Fuel Bloc]] · [[IBEW California State Association]] · [[_Gavin Newsom Master Profile]] · [[PG&E - The Utility Donor and the Wildfire Cover]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]]"
 top-federal-agency: Department of Defense
 top-naics-code: "221122"
-federal-awards-total: 0
+federal-awards-total: 21014667
 federal-contracts-count: 25
 federal-grants-count: 2
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+urls-first-triaged: "2026-04-15"
+epa-facilities: 55
+epa-states: "CA"
+federal-contracts: 58
 ---
 
 <!-- auto:data-panel start -->
@@ -186,31 +190,38 @@ Environment, wildfires, utility regulation, clean energy, NEM 3.0, Diablo Canyon
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| Contracts (recent 3yr) | 25 ($68.5M sampled) |
-| Grants (recent 3yr) | 2 ($26.9M sampled) |
-| Federal Agencies | 7 |
+| Federal Contracts | 58 |
+| Total Obligation | $21,014,667 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 9 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $29.6M | Department of Defense | 200212!000184!2100!BT67  !COMMANDER DLIFLC & POM          !DABT6702C0007  !A!N! !N!                  |
-| $9.7M | Department of Defense | 200311!000142!2100!BK27  !ACA, PRESIDIO OF MONTEREY       !DABT6702C0009  !A!N! !N!0Q08              |
-| $6.0M | Department of the Treasury | IGF::OT::IGF FOR OTHER FUNCTIONS - ELECTRICAL SERVICE, ACCOUNT #9658005947-3,  NATURAL GAS SERVICE,  |
-| $4.1M | Department of Veterans Affairs | IGF::OT::IGF OTHER FUNCTIONS - UTILITY ENERGY SERVICES CONTRACT (UESC) FOR THREE (3) VISN 21 SIERRA  |
-| $3.1M | Department of Defense | UESC DEBT SRV PAYMENT |
+- Department of Defense: $13,743,970
+- Department of Justice: $3,804,490
+- Department of Veterans Affairs: $2,006,066
+- Department of the Treasury: $603,000
+- Department of Transportation: $310,000
+- Department of the Interior: $291,654
+- Department of Health and Human Services: $144,000
+- General Services Administration: $98,988
+- National Aeronautics and Space Administration: $12,500
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $25.0M | Department of Energy | TAS::89 0328::TAS RECOVERY NEW AWARD TO PACIFIC GAS AND ELECTRIC COMPANY OE SMART GRID DEMONSTRATION |
-| $1.9M | Department of Energy | A SENSITIVITY-DRIVEN WIDE AREA PROTECTION COORDINATION TOOL FOR HIGH PENETRATION OF IBRS
-
-A.	PROJECT |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/e7960645-6ba4-f6dd-b4d7-32e054308c08-R/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 55 |
+| States | 1 (CA) |
+| Registry IDs | 110055669593, 110041987482, 110055703724, 110049649298, 110049657206 +50 more |
+
+**Facility locations:** WOODACRE, CA, HOLT, CA, SAN LEANDRO, CA, SUISUN CITY, CA, VALLEJO, CA, SAMOA, CA, SANTA ROSA, CA, STOCKTON, CA, ORINDA, CA, GUALALA, CA +33 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -9,6 +9,10 @@ category: left
 platform: multi-platform
 related: "[[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Hasan Piker]] · [[Sam Seder]] · [[_Media Pipeline Framework]] · [[John Oliver]] · [[David Pakman]] · [[TYT Network - The Young Turks]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Crooked Media]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]]"
 donors: "(audience-funded , no institutional donor)"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-profile #left #progressive #independent #youtube #justice-democrats #bernie #class-analysis

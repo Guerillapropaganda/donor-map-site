@@ -65,6 +65,9 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 wikidata-id: "Q17011069"
 wikipedia-url: "https://en.wikipedia.org/wiki/DonorsTrust"
 wikipedia-extract: 'DonorsTrust is an American nonprofit donor-advised fund that was founded in 1999 with the goal of "safeguarding the intent of libertarian and conservative donors".'
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

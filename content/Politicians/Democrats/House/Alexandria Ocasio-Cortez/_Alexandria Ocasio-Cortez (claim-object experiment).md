@@ -13,6 +13,7 @@ last-updated: 2026-04-14
 source-tier: 1
 editor-vouched: true
 experiment: phase-4-claim-object
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- This file renders via the Phase 4 ClaimObject Quartz transformer. -->

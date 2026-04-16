@@ -63,6 +63,8 @@ occ-enforcement-actions: 1
 occ-active-actions: 1
 occ-charter-numbers:
   - "718077"
+epa-facilities: 5
+epa-states: "AZ, CA, NE"
 ---
 
 <!-- auto:data-panel start -->
@@ -270,6 +272,19 @@ Opposition to strict fiduciary standards (which would require brokers to act in 
 - [AA-EC-2017-18: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2017-038.pdf) (04/24/2017)
 
 <!-- auto:occ-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 3 (AZ, CA, NE) |
+| Registry IDs | 110045442115, 110002593989, 110001197909, 110039340200, 110071743423 |
+
+**Facility locations:** OMAHA, NE, PHOENIX, AZ, BRISBANE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

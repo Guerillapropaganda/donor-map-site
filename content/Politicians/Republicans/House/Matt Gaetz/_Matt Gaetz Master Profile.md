@@ -40,6 +40,7 @@ issues:
   - Health
   - Immigration
 donors: "[[Protect Freedom Political Action Committee]], [[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[CITIZEN SUPER PAC]], [[Florida Conservative Fund]], [[FLORIDA CONSERVATIVE FUND]], [[Citizen Super PAC]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

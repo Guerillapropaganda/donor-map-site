@@ -6,6 +6,10 @@ last-updated: 2026-04-12
 source-tier: 2
 parent: [[_Michael Whatley Master Profile]]
 related: "[[Michael Whatley RNC Authority to Senate Campaign Conversion]] · [[_Michael Whatley Master Profile|Michael Whatley]] · [[HBW Resources]] · [[Consumer Energy Alliance]] · [[Chevron]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #politician #republican #energy-policy #oil-gas #lobbying #revolving-door #north-carolina
 tags: #republican

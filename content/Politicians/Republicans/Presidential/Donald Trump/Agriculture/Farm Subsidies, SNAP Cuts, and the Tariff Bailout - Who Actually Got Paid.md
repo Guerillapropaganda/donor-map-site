@@ -7,6 +7,10 @@ source-tier: 1
 parent: null
 related: "[[Trade and Tariffs - Donors and Backers]] · [[_Donald Trump Master Profile]] · [[Tariff Wars - The Working Class Tax Disguised as Trade Policy]] · [[Agriculture - Donors and Backers]] · [[Fanjul Family - Florida Crystals]]"
 last-enriched: "2026-04-08"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #agriculture #farm-bill #snap #tariff-bailout #ethanol #meatpacking #rfk-jr #fda #subsidies #class-analysis #follow-the-money
 

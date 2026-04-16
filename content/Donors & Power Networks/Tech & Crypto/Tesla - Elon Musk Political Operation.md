@@ -17,6 +17,8 @@ cross-vault-triangulation-count: 4
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 123
+epa-states: "AZ, CA, CO, FL, GA, IL, IN, MI, MN, MO, NC, NH, NJ, NV, NY, OH, OK, PA, RI, TN, TX, VA, WI"
 ---
 
 <!-- auto:data-panel start -->
@@ -90,3 +92,17 @@ EV tax credit structures that favor Tesla's manufacturing model, reduced NHTSA e
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 123 |
+| States | 23 (AZ, CA, CO, FL, GA, IL, IN, MI, MN, MO, NC, NH, NJ, NV, NY, OH, OK, PA, RI, TN, TX, VA, WI) |
+| Registry IDs | 110002605324, 110001172267, 110005864314, 110019461250, 110071524389 +118 more |
+
+**Facility locations:** TEMPE, AZ, LOS GATOS, CA, SCHAUMBURG, IL, HENRIETTA, NY, NASHVILLE, TN, LINCOLNSHIRE, IL, FREMONT, CA, BATAVIA, IL, LATHROP, CA, GOLDEN VALLEY, MN +87 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

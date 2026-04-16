@@ -15,6 +15,10 @@ issues:
 related: "[[Silicon Valley Democratic Donor Network]] · [[Michael Bloomberg]] · [[_Tom Steyer Master Profile|Tom Steyer]] · [[New Venture Fund]] · [[Laurene Powell Jobs]] · [[Ocean Conservancy]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

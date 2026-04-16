@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: null
 related: "[[The Thiel Pipeline - From Yale to VP]] · [[Signalgate - The Yemen Strike Chat and the Security Theater]] · [[The Contractor Beneficiaries - Who Replaced the Civil Servants]] · [[Valinor Enterprises]] · [[_Donald Trump Master Profile]] · [[Peter Thiel]] · [[_JD Vance Master Profile]] · [[_Chad Bianco Master Profile]] · [[GEO Group]] · [[CoreCivic]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[Elon Musk]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #trump #palantir #surveillance #peter-thiel #class-analysis #follow-the-money #ICE #military-industrial #data #privacy #JD-Vance
 

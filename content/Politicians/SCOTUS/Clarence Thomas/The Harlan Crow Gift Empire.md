@@ -6,6 +6,9 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Clarence Thomas Master Profile]]
 related: "[[_Clarence Thomas Master Profile]] · [[Harlan Crow]] · [[Leonard Leo]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #clarence-thomas #harlan-crow #scotus #gifts #disclosure #real-estate #superyacht #class-analysis #follow-the-money
 

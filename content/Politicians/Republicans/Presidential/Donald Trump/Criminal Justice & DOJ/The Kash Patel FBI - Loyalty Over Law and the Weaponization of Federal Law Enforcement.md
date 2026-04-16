@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Donald Trump Master Profile]]
 related: "[[Criminal Justice and DOJ - Donors and Backers]] · [[The Pardon Machine - Who Got Clemency and Who Funded It]] · [[_Donald Trump Master Profile]] · [[Project 2025 - The Blueprint They Followed]] · [[_Kash Patel Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #criminal-justice #doj #fbi #kash-patel #weaponization #loyalty-test #deep-state #follow-the-money #schedule-f #federal-law-enforcement
 

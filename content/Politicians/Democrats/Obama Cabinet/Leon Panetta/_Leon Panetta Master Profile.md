@@ -12,6 +12,7 @@ known-gaps:
 source-types:
   - Congress
 donors: "[[National Cattlemen's Beef Association]] · [[California Farm Bureau Federation]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

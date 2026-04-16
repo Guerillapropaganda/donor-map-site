@@ -18,7 +18,8 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No voting record data"
   - "No mapped relationships"
-related: "[[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[United Auto Workers]] · [[Koch Network - Charles Koch]] · [[General Motors]] · [[Ford Motor Company]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
+related: "[[_Pete Buttigieg Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Josh Shapiro Master Profile|Josh Shapiro]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Gavin Newsom Master Profile]] · [[SEIU - Service Employees International Union]] · [[Teamsters - International Brotherhood of Teamsters]] · [[United Auto Workers]] · [[Koch Network - Charles Koch]] · [[General Motors]] · [[Ford Motor Company]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[JB Pritzker (Donor Network)]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

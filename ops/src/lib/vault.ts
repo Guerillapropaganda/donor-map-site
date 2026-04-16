@@ -125,6 +125,8 @@ export interface Profile {
   editorialSignoffData?: string
   /** ISO date — narrative / originality sign-off. Only David writes this. */
   editorialSignoffNarrative?: string
+  /** ISO date — first time all URLs on this profile were triaged (no URL NEEDED / NEEDS REVIEW tags). Tracks regression if new broken URLs appear. */
+  urlsFirstTriaged?: string
 }
 
 /**
@@ -218,6 +220,7 @@ export function parseProfile(path: string, content: string): Profile {
     auditSTierPassed: data["audit-s-tier-passed"],
     editorialSignoffData: data["editorial-signoff-data"],
     editorialSignoffNarrative: data["editorial-signoff-narrative"],
+    urlsFirstTriaged: data["urls-first-triaged"],
   }
 }
 

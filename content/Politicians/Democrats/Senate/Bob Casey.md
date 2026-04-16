@@ -20,6 +20,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-13"
+urls-first-triaged: "2026-04-15"
 ---
 #bob-casey #senate #pennsylvania #labor #pharma #class-analysis #2024-defeat #democrat
 tags: #democrat

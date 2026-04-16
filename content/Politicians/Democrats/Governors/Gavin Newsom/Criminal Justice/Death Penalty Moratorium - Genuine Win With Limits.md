@@ -2,10 +2,14 @@
 title: "Death Penalty Moratorium - Genuine Win With Limits"
 type: sub-note
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 1
 parent: [[_Gavin Newsom Master Profile]]
-related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Labor - Donors and Backers]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]] · [[Pro-Israel Donor Network Deep Dive]] · [[Post-October 7 Positions and Flip History]] · [[Early History and Background Ties 2003-2019]]"
+related: "[[San Quentin - COVID Disaster and Rehabilitation Theater]] · [[CCPOA - The Prison Guard Donor and the Reform Ceiling]] · [[Criminal Justice - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Immigration - Donors and Backers]] · [[Prop 22 - The $200M Corporate Rollback]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[The $1.6 Billion Fundraising Machine]] · [[The Biden Exit and Harris Installation]] · [[Legislative Record as Speaker]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Education Committee and Labor Alignment]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]] · [[Labor - Donors and Backers]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[FAST Act and the AB 1228 Deal]] · [[AB5 - Gig Worker Classification]] · [[Pro-Israel Donor Network Deep Dive]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #newsom #criminal-justice #death-penalty #moratorium #genuine-win #executive-order #class-analysis #reversible #race #poverty
 

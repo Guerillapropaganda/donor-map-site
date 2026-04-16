@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[Brand New Congress PAC]] · [[Justice Democrats PAC]] · [[Brand New Congress LLC]] · [[National Legal and Policy Center]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #fec #pac #campaign-finance #justice-democrats #brand-new-congress #dark-money #class-analysis #follow-the-money
 

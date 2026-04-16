@@ -61,6 +61,8 @@ occ-charter-numbers:
 occ-cmp-dollars: 3000
 cross-vault-triangulation-count: 13
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 2
+epa-states: "IL, MD"
 ---
 
 <!-- auto:data-panel start -->
@@ -396,6 +398,19 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 
 <!-- auto:occ-enforcement pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 2 (IL, MD) |
+| Registry IDs | 110017855702, 110013054504 |
+
+**Facility locations:** UNKNOWN, MD, CARLYLE, IL
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

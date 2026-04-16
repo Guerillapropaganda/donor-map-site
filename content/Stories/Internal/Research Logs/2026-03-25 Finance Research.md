@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[AIPAC - American Israel Public Affairs Committee]] · [[Koch Network - Charles Koch]] · [[Stephen Schwarzman - Blackstone]] · [[Peter Thiel]] · [[Fairshake PAC]] · [[Senate Leadership Fund]] · [[US Chamber of Commerce]] · [[ALEC - American Legislative Exchange Council]]"
+checklist-na:
+  - "regulatory: auto: entity type \"daily-update\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"daily-update\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #finance-research #campaign-finance #daily-update #automated
 

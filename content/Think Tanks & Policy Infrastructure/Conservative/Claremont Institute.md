@@ -11,6 +11,9 @@ deepening-pass: 2026-03-26
 related: "[[Bradley Foundation]] · [[Koch Network - Charles Koch]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heritage Foundation]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Mercatus Center]] · [[Heartland Institute]] · [[Federalist Society]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]] · [[Brookings Institution]] · [[Atlantic Council]] · [[Aspen Institute]]"
 known-gaps:
   - "No FEC contribution data"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #think-tank #conservative #new-right #natural-law #straussian #Jan6 #personnel-pipeline #anti-progressive #class-analysis

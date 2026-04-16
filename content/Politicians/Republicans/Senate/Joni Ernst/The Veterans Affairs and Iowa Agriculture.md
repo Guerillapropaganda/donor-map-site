@@ -6,6 +6,10 @@ last-updated: 2026-03-26
 source-tier: 1
 parent: "[[_Joni Ernst Master Profile]]"
 related: "[[_Joni Ernst Master Profile]] · [[_Chuck Grassley Master Profile]] · [[Koch Network - Charles Koch]] · [[Agribusiness Donor Bloc]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #ernst #iowa #veterans #agriculture #ethanol #military #armed-services #pact-act #burn-pits #cafo #crop-insurance #class-analysis
 

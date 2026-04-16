@@ -11,7 +11,7 @@ politicians-funded: "[[Jon Husted]], [[Joe Manchin]]"
 issues:
   - Social Safety Net
   - Healthcare
-federal-awards-total: 38306385
+federal-awards-total: 1039750982
 federal-contracts-count: 12
 federal-grants-count: 0
 federal-register-mentions: 13
@@ -76,6 +76,9 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 1
+epa-states: "MO"
+federal-contracts: 19
 ---
 
 <!-- auto:data-panel start -->
@@ -145,22 +148,19 @@ Centene's structural function in American healthcare is converting public health
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $38.3M |
-| Contracts (recent 3yr) | 12 ($481K sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 19 |
+| Total Obligation | $1,039,750,982 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $85K | Department of Veterans Affairs | RUZURGI 10MG |
-| $84K | Department of Veterans Affairs | ICLUSIG 15 MG TAB |
-| $51K | Department of Justice | CHEMOTHERAPY MEDICATION |
-| $44K | Department of Justice | B1 - PANTHERX JOENJA MEDICATION  SEE JOFOC FOR PANTHERX SPECIALTY PHARMACY THE CCM PROVIDING FUNDS F |
-| $44K | Department of Justice | B1 - PANTHERX - JOENJA - RP0377 |
+- Department of Defense: $1,039,804,157
+- Department of Justice: $80,099
+- Department of Veterans Affairs: $48,620
+- General Services Administration: $-181,894
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Centene%20Corporation) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -353,6 +353,19 @@ Centene's structural function in American healthcare is converting public health
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Centene%20Corporation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (MO) |
+| Registry IDs | 110037512288 |
+
+**Facility locations:** CLAYTON, MO
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

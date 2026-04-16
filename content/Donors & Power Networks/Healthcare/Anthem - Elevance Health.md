@@ -22,6 +22,12 @@ lobbying-filings: 12
 related: "[[Medicare for All - The Policy That Broke the Party]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Mohammed bin Salman]] · [[CNA - California Nurses Association]] · [[Tenet Healthcare]] · [[Insurance Industry Bloc]] · [[Humana]] · [[Cigna Group]]"
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
+federal-contracts: 62
+federal-awards-total: 447187589
 ---
 
 <!-- auto:data-panel start -->
@@ -229,6 +235,23 @@ The Medicare Advantage expansion is the long game. Each year, more Medicare bene
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 62 |
+| Total Obligation | $447,187,589 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
+
+**Top awarding agencies:**
+
+- Department of Health and Human Services: $447,185,089
+- General Services Administration: $2,500
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

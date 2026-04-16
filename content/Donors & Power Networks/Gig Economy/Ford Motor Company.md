@@ -45,12 +45,15 @@ regulatory-agencies:
   - National Highway Traffic Safety Administration
   - Pipeline and Hazardous Materials Safety Administration
   - Transportation Department
-federal-awards-total: 739664294
+federal-awards-total: 1047079197
 federal-contracts-count: 25
 federal-grants-count: 7
 related: "[[The Agriculture Committee and Farm Bill Politics]] · [[The Auto Industry Alliance and EV Manufacturing Subsidies]] · [[Gretchen Whitmer Master Profile]] · [[Alpine Group]] · [[General Motors]] · [[UAW - United Auto Workers]] · [[_Joe Biden Master Profile|Biden]] · [[UPS]]"
 cross-vault-triangulation-count: 6
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 84
+epa-states: "CA, CO, FL, GA, IL, KY, MI, MN, NJ, NY, OH, TN, TX, VA"
+federal-contracts: 18196
 ---
 
 <!-- auto:data-panel start -->
@@ -315,33 +318,32 @@ The class function is straightforward: Ford converts public money into private r
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $739.7M |
-| Contracts (recent 3yr) | 25 ($56.3M sampled) |
-| Grants (recent 3yr) | 7 ($42.3M sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 18,196 |
+| Total Obligation | $1,047,079,197 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $6.4M | General Services Administration | SUV, POLICE USE, 4 DOOR |
-| $6.1M | General Services Administration | 4X4 PICKUP,FULLSIZE,CREW CAB, POLICE USE |
-| $4.3M | General Services Administration | 4X4 PICKUP, FULL SIZE, CREW CAB, MIN 6700 LBS GVWR |
-| $3.6M | General Services Administration | 4X4 PICKUP,FULLSIZE,CREW CAB, POLICE USE |
-| $3.1M | General Services Administration | SUV, POLICE USE, 4 DOOR |
+- General Services Administration: $1,047,043,865
+- Department of Health and Human Services: $71,108
+- Department of State: $-35,776
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $25.0M | Department of Energy | NEW AWARD DE-EE0009858 WITH FORD MOTOR COMPANY TITLED HIGH ENERGY FUEL CELL APPLICATION FOR MEDIUM D |
-| $7.4M | Department of Energy | DE-EE0008878: NEXT GENERATION HIGH EFFICIENCY BOOSTED ENGINE DEVELOPMENT: NEW AWARD |
-| $5.2M | Department of Energy | NEW AWARD DE-EE0009203 WITH FORD MOTOR COMPANY TITLED MULTI-FUNCTIONAL SMART STRUCTURES FOR SMART VE |
-| $1.6M | Department of Energy | DE-EE0008464: USING REAL TIME MASS TRANSIT IN FIRST LAST MILE SOLUTION: NEW AWARD |
-| $1.5M | Department of Energy | CARBON CAPTURE TO REACH CARBON NEUTRAL VEHICLES: CO2-DERIVED PLATFORM MOLECULES FOR POLYURETHANE FOA |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1aaf04d1-c14b-54ee-4f16-a62964267244-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 84 |
+| States | 14 (CA, CO, FL, GA, IL, KY, MI, MN, NJ, NY, OH, TN, TX, VA) |
+| Registry IDs | 110000609486, 110002692051, 110012198273, 110054924356, 110000432354 +79 more |
+
+**Facility locations:** NEWPORT BEACH, CA, SAN JUAN CAPISTRANO, CA, LA MIRADA, CA, MAHWAH, NJ, CHICAGO HEIGHTS, IL, ALLEN PARK, MI, DEARBORN, MI, LIVONIA, MI, REDFORD TWP, MI, DEARBORN HEIGHTS, MI +32 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

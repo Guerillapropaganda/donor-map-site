@@ -23,6 +23,8 @@ regulatory-agencies:
   - "Federal Housing Finance Agency"
   - "Federal Reserve System"
   - "Food and Drug Administration"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #centrist #wall-street #foreign-funding #revolving-door #hamilton-project #defense #financial-deregulation #qatar #jpmorgan #goldman-sachs #healthcare #housing #labor

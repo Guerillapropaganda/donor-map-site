@@ -14,6 +14,10 @@ known-gaps:
   - "No mapped relationships"
 last-enriched: "2026-04-09"
 related: "[[Tim Dunn]] · [[Koch Network - Charles Koch]] · [[Ben Shapiro]] · [[Peter Thiel]] · [[Rupert Murdoch]] · [[How Money Captures Media - The Donor Map Media Pipeline]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

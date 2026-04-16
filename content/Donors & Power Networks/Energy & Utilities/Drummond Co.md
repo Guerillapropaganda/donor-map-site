@@ -44,6 +44,8 @@ lei: "213800LE7MRYU5XL6J42"
 lei-jurisdiction: "GB"
 cross-vault-triangulation-count: 1
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 3
+epa-states: "AL, MT, OK"
 ---
 
 
@@ -240,6 +242,19 @@ Drummond Company exemplifies how fossil fuel extraction industries leverage poli
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 3 (AL, MT, OK) |
+| Registry IDs | 110040641071, 110041399215, 110012848605 |
+
+**Facility locations:** DRUMMOND, MT, JASPER, AL, DRUMMOND, OK
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

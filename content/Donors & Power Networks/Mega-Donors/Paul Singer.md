@@ -37,6 +37,9 @@ total-political-spend: $16,466,849
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[The Paul Singer Alaska Trip and the Argentina Payday]] · [[Fossil Fuel Investments and the Recusal Pattern]] · [[The Neoconservative Billionaire Pipeline and the Iran Letter]] · [[Mike Rogers]] · [[Manhattan Institute for Policy Research]] · [[The National Security-to-Senate Pipeline]] · [[_Samuel Alito Master Profile]] · [[Leonard Leo]] · [[_Tom Cotton Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Winning for Women PAC]] · [[Great Lakes Conservatives Fund]] · [[Michael Whatley]]"
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

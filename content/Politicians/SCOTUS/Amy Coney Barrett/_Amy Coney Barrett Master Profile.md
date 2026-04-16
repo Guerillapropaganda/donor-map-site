@@ -20,6 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Brett Kavanaugh Master Profile]] · [[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Mitch McConnell Master Profile]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

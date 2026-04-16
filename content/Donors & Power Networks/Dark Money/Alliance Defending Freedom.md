@@ -27,6 +27,9 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Alliance_Defending_Freedom"
 wikipedia-extract: "The Alliance Defending Freedom (ADF), formerly the Alliance Defense Fund, is an American 501(c)3 nonprofit conservative Christian legal advocacy group."
 cross-vault-triangulation-count: 9
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

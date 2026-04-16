@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: "_Amy Acton Master Profile"
 related: "[[The Healthcare Platform and the Insurance Industry Question]] · [[Amy Acton Master Profile]] · [[Amy Acton]] · [[_Vivek Ramaswamy Master Profile|Vivek Ramaswamy]] · [[Ohio AFL-CIO]] · [[UAW - United Auto Workers|UAW]] · [[Ohio Federation of Teachers]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[The COVID Tenure and the Political Fallout]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #acton #labor-unions #ohio-afl-cio #uaw #working-class #institutional-democracy #class-analysis #follow-the-money #doge
 

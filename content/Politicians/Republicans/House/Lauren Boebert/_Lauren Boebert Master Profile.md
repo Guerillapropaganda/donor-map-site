@@ -26,6 +26,7 @@ known-gaps:
 related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[Club for Growth]] · [[Freedom Caucus]] · [[American Petroleum Institute]] · [[Koch Industries]]"
 top-donors: "[[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]], [[Colorado United Pac]]"
 donors: "[[Colorado United Pac]], [[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

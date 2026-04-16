@@ -14,6 +14,12 @@ known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[John Barrasso]]"
 related: "[[John Barrasso]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
+federal-contracts: 3
+federal-awards-total: 40731
 ---
 
 ## Auto-Created Stub
@@ -37,3 +43,20 @@ from Research Claude.
 This profile absorbs the following FEC-format committee name(s):
 
 - `AMERICAN CHEMISTRY COUNCIL, INC`
+
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 3 |
+| Total Obligation | $40,731 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
+
+**Top awarding agencies:**
+
+- Department of Commerce: $40,731
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->

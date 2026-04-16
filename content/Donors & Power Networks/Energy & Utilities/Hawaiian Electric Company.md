@@ -45,13 +45,16 @@ court-jurisdictions:
   - "District Court, W.D. Washington"
   - "United States Bankruptcy Court, D. Delaware"
   - "United States Bankruptcy Court, D. Hawaii"
-federal-awards-total: 11258812
+federal-awards-total: 22818802
 federal-contracts-count: 15
 federal-grants-count: 1
 cross-vault-triangulation-count: 1
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 2
+epa-states: "HI"
+federal-contracts: 59
 ---
 
 <!-- auto:data-panel start -->
@@ -238,31 +241,33 @@ HECO follows the same pattern as PG&E in California: a regulated monopoly that u
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $11.3M |
-| Contracts (recent 3yr) | 15 ($187.8M sampled) |
-| Grants (recent 3yr) | 1 ($95.3M sampled) |
-| Federal Agencies | 5 |
+| Federal Contracts | 59 |
+| Total Obligation | $22,818,802 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $128.1M | Department of Defense | 200112!000326!5700!CA12  !30 CONS/LGC                     !N6274268C0001  !A!N!*!N!QW02              |
-| $22.5M | Department of Defense | IGF::OT::IGF  ELECTRIC UTILITY SERVICES |
-| $21.2M | Department of Defense | THIS CONTRACT IS AWARDED FOR THE OWNERSHIP, OPERATION AND MAINTENANCE OF THE ELECTRIC SYSTEMS LOCATE |
-| $4.9M | Department of Homeland Security | UTILITY SERVICES TO EXTEND THE 12KV UNDERGROUND LINE AND RENOVATE ELECTRICAL UTILITIES AT US COAST G |
-| $2.2M | Department of Justice | ELECTRIC UTILITY SERVICE PERIOD OF PERFORMANCE OCTOBER 1, 2022 - DECEMBER 31, 2023 CONTRACT #GS-00P- |
+- Department of Defense: $17,777,904
+- Department of Justice: $3,838,339
+- Department of Homeland Security: $605,559
+- Smithsonian Institution: $597,000
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $95.3M | Department of Energy | BIPARTISAN INFRASTRUCTURE LAW - BIL - CLIMATE ADAPTATION RESILIENCE PROGRAM
-
-CLIMATE ADAPTATION RESI |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/11a8a87d-63d8-cfaa-a9b6-ef53f7406edb-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 1 (HI) |
+| Registry IDs | 110016703245, 110028077854 |
+
+**Facility locations:** HONOLULU, HI, PEARL CITY, HI
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

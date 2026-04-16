@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 related: "[[_Jeff Merkley Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[_Sheldon Whitehouse Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #merkley #oregon #progressive #housing #banking #filibuster #outsider
 

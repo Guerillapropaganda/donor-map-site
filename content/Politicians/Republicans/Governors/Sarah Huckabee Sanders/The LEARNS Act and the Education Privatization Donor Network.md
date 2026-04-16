@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Sarah Huckabee Sanders Master Profile]]
 related: "[[_Sarah Huckabee Sanders Master Profile]] · [[Walton Family Foundation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #arkansas #education #vouchers #privatization #walton-foundation #class-analysis #public-schools
 

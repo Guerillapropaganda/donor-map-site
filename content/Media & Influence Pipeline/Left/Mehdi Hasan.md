@@ -9,6 +9,10 @@ category: left
 platform: multi-platform
 related: "[[Owen Jones]]"
 opposes: "[[Fox Corp - Rupert Murdoch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #left #msnbc #zeteo #subscription #palestine #comcast #institutional-capture #independence

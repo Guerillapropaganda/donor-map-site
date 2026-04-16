@@ -71,6 +71,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 wikidata-id: Q19321870
 wikipedia-url: https://en.wikipedia.org/wiki/Western_Growers_Association
 wikipedia-extract: The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico.
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

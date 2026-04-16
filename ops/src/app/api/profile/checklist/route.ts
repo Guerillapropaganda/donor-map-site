@@ -3,7 +3,7 @@ import { readFile, writeAndPush } from "@/lib/local-write"
 
 export async function POST(request: Request) {
   try {
-    const { path: filePath, checklistNa, verifiedBlocks } = await request.json()
+    const { path: filePath, checklistNa, verifiedBlocks, urlsFirstTriaged } = await request.json()
 
     if (!filePath) {
       return NextResponse.json({ error: "Missing path" }, { status: 400 })
@@ -32,6 +32,16 @@ export async function POST(request: Request) {
 
       if (Array.isArray(verifiedBlocks) && verifiedBlocks.length > 0) {
         const yaml = `verified-blocks:\n${verifiedBlocks.map((b: string) => `  - "${b}"`).join("\n")}\n`
+        updated = updated.replace(/\n---\n/, `\n${yaml}---\n`)
+      }
+    }
+
+    // Update urls-first-triaged
+    if (urlsFirstTriaged !== undefined) {
+      updated = updated.replace(/^urls-first-triaged:.*\n/m, "")
+
+      if (urlsFirstTriaged) {
+        const yaml = `urls-first-triaged: "${urlsFirstTriaged}"\n`
         updated = updated.replace(/\n---\n/, `\n${yaml}---\n`)
       }
     }

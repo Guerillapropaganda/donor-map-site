@@ -25,6 +25,9 @@ cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+urls-first-triaged: "2026-04-15"
+epa-facilities: 5
+epa-states: "CA, TN, TX"
 ---
 
 <!-- auto:data-panel start -->
@@ -149,6 +152,19 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Anthem%20-%20Elevance%20Health%20Political%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 3 (CA, TN, TX) |
+| Registry IDs | 110070930111, 110071082640, 110070723670, 110071238941, 110071203368 |
+
+**Facility locations:** KYLE, TX, MOUNTAIN CITY, TX, WOODLAND HILLS, CA, NASHVILLE, TN, MOUNTAIN CITY ETJ, TX
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

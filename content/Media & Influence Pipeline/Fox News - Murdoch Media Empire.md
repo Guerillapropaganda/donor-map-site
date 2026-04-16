@@ -2,12 +2,16 @@
 title: "Fox News - Murdoch Media Empire"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Crooked Media]] · [[Nicolle Wallace]] · [[Greg Gutfeld]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Cenk Uygur]] · [[Briahna Joy Gray]]"
+related: "[[Rupert Murdoch]] · [[News Corp - Fox Corporation]] · [[Fox News Pipeline to Power]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Sean Hannity]] · [[Crooked Media]] · [[Nicolle Wallace]] · [[Greg Gutfeld]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Rumble]] · [[Matt Walsh]] · [[Laura Ingraham]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jesse Watters]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Dave Rubin]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #fox-news #murdoch #institutional #right #propaganda #class-analysis #follow-the-money

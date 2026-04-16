@@ -17,6 +17,7 @@ donors: "[[Ken Griffin]] · [[CA Farm Bureau Federation]] · [[NRSC]] · [[CLUB 
 related: "[[Lockheed Martin Buys Defense Hawks in Both Parties]] · [[Everytown for Gun Safety]] · [[Michael Bloomberg]] · [[Raytheon Technologies]] · [[Lockheed Martin]] · [[Senate Majority PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Boeing]]"
 opposes: "[[NRSC]] · [[SENATE LEADERSHIP FUND]] · [[DEFENDARIZONA]] · [[CLUB FOR GROWTH ACTION]] · [[THE SENTINEL ACTION FUND]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+urls-first-triaged: "2026-04-15"
 ---
 #master-profile #democrat #senate #arizona #defense #astronaut #gun-control
 

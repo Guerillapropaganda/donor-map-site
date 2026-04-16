@@ -23,6 +23,11 @@ nhtsa-complaints: 0
 last-enriched: "2026-04-09"
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
+urls-first-triaged: "2026-04-15"
+epa-facilities: 6
+epa-states: "AL, IL, UT"
+federal-contracts: 36
+federal-awards-total: 2527004
 ---
 
 <!-- auto:data-panel start -->
@@ -184,6 +189,38 @@ Education, charter schools, COVID closures, curriculum, early childhood, school 
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CTA%20-%20California%20Teachers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 6 |
+| States | 3 (AL, IL, UT) |
+| Registry IDs | 110001677347, 110005906083, 110020411053, 110031329373, 110031379078 +1 more |
+
+**Facility locations:** CHICAGO, IL, MADISON, AL, WEST JORDAN, UT
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 36 |
+| Total Obligation | $2,527,004 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
+
+**Top awarding agencies:**
+
+- General Services Administration: $1,117,436
+- Department of Agriculture: $841,390
+- Department of Defense: $432,448
+- Department of the Interior: $135,731
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

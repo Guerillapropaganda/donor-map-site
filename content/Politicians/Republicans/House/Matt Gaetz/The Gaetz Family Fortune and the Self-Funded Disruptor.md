@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 2
 parent: [[_Matt Gaetz Master Profile]]
 related: "[[_Matt Gaetz Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #matt-gaetz #don-gaetz #vitas-healthcare #family-wealth #healthcare-industry #florida #class-analysis #political-dynasty
 

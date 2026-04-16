@@ -12,6 +12,10 @@ known-gaps:
   - "No mapped relationships"
 related: "[[_Chad Bianco Master Profile]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[287(g) and the Sanctuary State Contradiction]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]]"
 donors: "[[Christopher Ruddy]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 donors: "[[Rebekah Mercer]]"
 ---

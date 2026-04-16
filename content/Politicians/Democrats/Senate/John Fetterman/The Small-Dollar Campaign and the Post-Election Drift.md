@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_John Fetterman Master Profile]]
 related: "[[_John Fetterman Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #john-fetterman #campaign-finance #small-dollar #donor-class #authenticity #2022 #pennsylvania
 

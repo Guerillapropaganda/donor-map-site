@@ -42,6 +42,8 @@ court-jurisdictions:
 cross-vault-triangulation-count: 0
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Richard Neal]]"
+epa-facilities: 5
+epa-states: "MA, NH, RI, TX"
 ---
 
 
@@ -209,6 +211,19 @@ Fidelity exemplifies how supposedly consumer-friendly companies use political po
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 4 (MA, NH, RI, TX) |
+| Registry IDs | 110018857389, 110054259716, 110041064424, 110023089557, 110005079486 |
+
+**Facility locations:** MARLBOROUGH, MA, SMITHFIELD, RI, BOSTON, MA, MERRIMACK, NH, IRVING, TX
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

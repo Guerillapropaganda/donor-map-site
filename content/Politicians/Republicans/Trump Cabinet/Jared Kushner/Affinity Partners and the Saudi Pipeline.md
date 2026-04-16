@@ -8,6 +8,10 @@ parent: [[_Jared Kushner Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Jared Kushner Master Profile]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[_Donald Trump Master Profile]] · [[_Benjamin Netanyahu Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #kushner #affinity-partners #saudi #PIF #class-analysis #follow-the-money #management-fees #foreign-agent #EA #qatar
 

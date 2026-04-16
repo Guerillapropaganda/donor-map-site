@@ -30,6 +30,10 @@ total-political-spend: $3,644,594
 politicians-funded: "[[Mike Lawler]], [[Sherrod Brown]], [[Ted Cruz]], [[Donna Miller]], [[Shontel Brown]], [[Angie Craig]], [[Dan Goldman]], [[Lindsey Graham]], [[Michael Whatley]], [[Stephen Miller]], [[John Cornyn]], [[Donald Trump]]"
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

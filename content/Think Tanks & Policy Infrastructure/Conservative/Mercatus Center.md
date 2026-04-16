@@ -32,6 +32,8 @@ regulatory-agencies:
   - "Health and Human Services Department"
   - "Internal Revenue Service"
   - "Justice Department"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #conservative #libertarian #deregulation #koch #academic-capture #class-analysis

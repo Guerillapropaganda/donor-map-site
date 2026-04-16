@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Tom Cole Master Profile]] · [[_Rosa DeLauro Master Profile|DeLauro]] · [[Boeing]] · [[Lockheed Martin]] · [[Northrop Grumman]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #cole #appropriations #defense #energy #spending #cartel #bipartisan
 

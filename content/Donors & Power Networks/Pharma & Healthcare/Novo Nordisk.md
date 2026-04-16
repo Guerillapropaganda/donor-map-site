@@ -75,11 +75,14 @@ opensanctions-status: "sanctioned"
 opensanctions-matches: 1
 opensanctions-datasets:
   - "eu_esma_saris"
-federal-awards-total: 2137722
+federal-awards-total: 43
 federal-contracts-count: 0
 federal-grants-count: 1
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 5
+epa-states: "CA, CO, FL, MA"
+federal-contracts: 1
 ---
 
 <!-- auto:data-panel start -->
@@ -314,19 +317,30 @@ Novo Nordisk's FEC contributions reveal the bipartisan insurance strategy common
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $2.1M |
-| Contracts (recent 3yr) | 0 ($0 sampled) |
-| Grants (recent 3yr) | 1 ($2.1M sampled) |
-| Federal Agencies | 1 |
+| Federal Contracts | 1 |
+| Total Obligation | $43 |
+| Fiscal Years | 2024 |
+| Awarding Agencies | 1 |
 
-**Top grants:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $2.1M | National Science Foundation | IDEAS LAB: USPRD: ENABLING CELL-FREE SYNTHESIS OF LONGER HUMAN MILK OLIOGOSACCHARIDES -ENABLING CELL |
+- Department of Defense: $43
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/957f1cea-f42c-bcea-e5c0-b8df5fb0d67d-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 4 (CA, CO, FL, MA) |
+| Registry IDs | 110043538197, 110072127226, 110071132424, 110071784072, 110072039176 |
+
+**Facility locations:** WEST PALM BEACH, FL, WALTHAM, MA, WATERTOWN, MA, BOULDER, CO, FREMONT, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

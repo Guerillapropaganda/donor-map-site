@@ -24,6 +24,7 @@ known-gaps:
   - No mapped relationships
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securities & Investment Industry]] · [[_Nancy Pelosi Master Profile]]"
 donors: "[[Republican Jewish Coalition]], [[Sierra Club Independent Action]], [[Mainstream Democrats Pac]], [[Protect Progress]], [[TZEDEK PAC]], [[Tzedek PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 #dan-goldman #house #new-york #levi-strauss-heir #impeachment-lawyer #israel-hawk #class-analysis #inherited-wealth #democrat
 tags: #democrat

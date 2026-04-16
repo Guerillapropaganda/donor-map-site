@@ -37,6 +37,8 @@ lobbying-filings: 52
 federal-contracts: "626681"
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -279,6 +281,19 @@ Relaxed television station ownership limits (allowing more station acquisitions)
 - 2026-02-03 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/1099160/000119312526034347/0001193125-26-034347-index.htm) (VERIFIED)
 
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110071057024 |
+
+**Facility locations:** CHICO, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -7,6 +7,10 @@ source: "OpenSecrets Blog"
 source-url: "http://opensecrets.org/news/2026/04/as-usps-faces-a-cash-crisis-rivals-fedex-ups-spend-big-on-lobbying"
 profiles:
   - "UPS"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

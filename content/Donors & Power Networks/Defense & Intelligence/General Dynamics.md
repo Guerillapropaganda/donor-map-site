@@ -60,6 +60,10 @@ cross-vault-triangulation-count: 20
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 30
+epa-facilities: 18
+epa-states: "CA, FL, LA, MA, MI, MN, NC, NE, PA"
+federal-contracts: 4724
+federal-awards-total: 9006731387
 ---
 
 <!-- auto:data-panel start -->
@@ -379,32 +383,25 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $4.2B |
-| Contracts (recent 3yr) | 25 ($46.0B sampled) |
-| Grants (recent 3yr) | 7 ($223.5M sampled) |
-| Federal Agencies | 5 |
+| Federal Contracts | 4,724 |
+| Total Obligation | $9,006,731,387 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 23 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $5.8B | Department of Defense | DETAIL DESIGN AND CONSTRUCTION (DD&C) FOR T-AO 205 |
-| $5.3B | Department of Defense | FY18-FY22 DDG 51 CLASS SHIP CONSTRUCTION |
-| $5.0B | Department of Defense | CONSTRUCTION OF DDG 51 SHIPS FY23-27 |
-| $4.9B | Department of Defense | FY13-FY17 DDG 51 CLASS SHIP CONSTRUCTION. |
-| $2.6B | Department of Defense | DDG 1001/1002 CONSTRUCTION AND FY11 CLASS SERVICES |
+- Department of Defense: $5,866,299,117
+- General Services Administration: $946,764,793
+- Department of Health and Human Services: $713,512,657
+- Department of State: $301,187,393
+- Department of Homeland Security: $284,675,384
+- Department of the Interior: $226,608,732
+- Department of Transportation: $142,460,437
+- Department of Commerce: $116,291,063
+- Department of Veterans Affairs: $106,514,808
+- Department of Education: $90,813,647
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $213.6M | Department of Defense | COOPERATIVE AGREEMENT FOR ROBOTICS COLLABORATIVE TECHNOLOGY ALLIANCE (RCTA) |
-| $3.4M | Department of Defense | TREATMENT OPTIMIZATION OF BRAIN-INJURED WARFIGHTERS: A PRESCRIBED SUB-SYMPTOMATIC EXERCISE TREATMENT |
-| $2.3M | Department of Defense | REMOTELY SUPERVISED TDCS COMBINED WITH COGNITIVE TRAINING TO IMPROVE COMPLEX ATTENTION IN ACTIVE-DUT |
-| $1.8M | Department of Defense | VALIDATION OF COGNITIVE ENHANCEMENT TECHNIQUES FOR MILD TRAUMATIC BRAIN INJURY (VOCET-MTBI). |
-| $1.2M | Department of Defense | TREATMENT INTERVENTIONS FOR THE MENTAL HEALTH NEEDS OF WARFIGHTERS WITH TRAUMATIC BRAIN INJURY (TIME |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/455555be-773d-eab1-1e6b-7b94400b757e-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -477,6 +474,19 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=General%20Dynamics) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 18 |
+| States | 9 (CA, FL, LA, MA, MI, MN, NC, NE, PA) |
+| Registry IDs | 110001198276, 110012267938, 110001948108, 110003631918, 110000615488 +13 more |
+
+**Facility locations:** SAN DIEGO, CA, MARRERO, LA, NEEDHAM, MA, WARREN, MI, LINCOLN, NE, LONGWOOD, FL, TALLAHASSEE, FL, TORRANCE, CA, OCALA, FL, PATRICK AFB, FL +5 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

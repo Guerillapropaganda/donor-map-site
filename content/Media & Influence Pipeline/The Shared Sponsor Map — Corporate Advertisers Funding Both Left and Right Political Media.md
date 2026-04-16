@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 2
 parent: null
 related: "[[Fox News - Murdoch Media Empire]] · [[Rachel Maddow]] · [[Tucker Carlson]] · [[Sean Hannity]] · [[Laura Ingraham]] · [[PhRMA]] · [[JPMorgan Chase]] · [[Raytheon (RTX)]] · [[Daily Wire]] · [[Joe Rogan]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media #advertising #cross-spectrum #pharma #insurance #defense #tech #boycotts #both-sides-illusion

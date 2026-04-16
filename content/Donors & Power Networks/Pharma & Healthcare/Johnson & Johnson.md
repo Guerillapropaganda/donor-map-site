@@ -25,7 +25,7 @@ subawards-received: 2
 subawards-received-amount: 4948
 top-federal-agency: Department of Defense
 top-naics-code: "423450"
-federal-awards-total: 41140658
+federal-awards-total: -235623591
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
@@ -42,6 +42,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 fda-recalls: 110
 fda-recalls-class-i: 2
 politicians-funded: "[[Cory Booker]]"
+epa-facilities: 7
+epa-states: "IL, NJ"
+federal-contracts: 9088
 ---
 
 <!-- auto:data-panel start -->
@@ -228,28 +231,19 @@ The liability strategy reveals the corporate class position with equal clarity. 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $41.1M |
-| Contracts (recent 3yr) | 25 ($23.4M sampled) |
-| Grants (recent 3yr) | 1 ($319K sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 9,088 |
+| Total Obligation | $-235,623,591 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 4 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $3.3M | Department of Health and Human Services | IGF::OT::IGF LABORATORY EQUIPMENT AND SERVICES |
-| $2.8M | Department of Veterans Affairs | CHEMISTRY REAGENTS |
-| $1.4M | Department of Veterans Affairs | DRY CHEMISTRY/IMMUNOCHEMISTRY SYSTEM |
-| $1.4M | Department of Defense | CHEMISTRY ANALYZER |
-| $1.3M | Department of Veterans Affairs | CHEMISTRY REAGENTS |
+- Department of Defense: $89,222,705
+- Department of Veterans Affairs: $14,921,126
+- General Services Administration: $0
+- Department of Health and Human Services: $-339,767,423
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $319K | Department of Health and Human Services | DEVELOPMENT OF NOVEL METHODS TO ENABLE ROBUST COMPARISON OF REAL-WORLD PROGRESSION FREE SURVIVAL (RW |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/803dca7c-cdfb-9267-ab61-45f868860d81-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Product Recalls (CPSC)
@@ -399,6 +393,19 @@ _Variant firm names in FDA data: Johnson & Johnson Vision Care, Inc.; DePuy Mite
 
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Johnson%20%26%20Johnson) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 7 |
+| States | 2 (IL, NJ) |
+| Registry IDs | 110001811433, 110002066219, 110005896165, 110070059115, 110000802524 +2 more |
+
+**Facility locations:** PARK FOREST, IL, LEMONT, IL, SPRINGFIELD, IL, MORRIS PLAINS, NJ, NEW BRUNSWICK, NJ
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

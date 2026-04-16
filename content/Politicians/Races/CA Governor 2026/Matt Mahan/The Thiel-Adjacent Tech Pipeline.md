@@ -7,7 +7,11 @@ source-tier: 1
 parent: [[_Matt Mahan Master Profile]]
 known-gaps:
   - "No mapped relationships"
-related: "[[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Mithril Capital]] · [[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[_David Sacks Master Profile|David Sacks]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
+related: "[[_Matt Mahan Master Profile]] · [[Peter Thiel]] · [[Mithril Capital]] · [[_JD Vance Master Profile]] · [[The Thiel Pipeline - From Yale to VP]] · [[_David Sacks Master Profile|David Sacks]] · [[David Sacks (Donor Network)]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #matt-mahan #peter-thiel #palantir #joe-lonsdale #mithril-capital #cicero-institute #class-analysis
 

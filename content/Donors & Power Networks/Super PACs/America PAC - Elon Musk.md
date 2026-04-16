@@ -12,6 +12,10 @@ issues:
 related: "[[Mike Lawler Master Profile]] · [[Elon Musk]] · [[Tesla - Elon Musk Political Operation]] · [[SpaceX]] · [[MAGA Inc]] · [[Congressional Leadership Fund]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[Senate Leadership Fund]] · [[Priorities USA Action]] · [[One Nation]] · [[WinRed]] · [[Fairshake PAC]] · [[Trump Victory]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[Future Forward USA Action]] · [[Democratic Senatorial Campaign Committee]] · [[Emilys List]] · [[Club for Growth]]"
 known-gaps:
   - "No FEC contribution data"
+checklist-na:
+  - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -11,6 +11,9 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[Kelcy Warren]] · [[_Greg Abbott Master Profile|Greg Abbott]] · [[Fossil Fuel Bloc]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #investigation #contradiction #kelcy-warren #dapl #fossil-fuel #bipartisan-consensus #class-analysis
 tags: #analysis #story

@@ -49,6 +49,8 @@ sec-form-types:
   - PX14A6G
 lobbying-spend: 3338250
 lobbying-filings: 125
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #liberal #healthcare #climate #economic-policy #revolving-door #idea-laundering #obama-network #biden-network

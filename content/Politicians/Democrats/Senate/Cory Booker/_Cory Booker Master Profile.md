@@ -57,6 +57,7 @@ last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 bioguide-id: B001288
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

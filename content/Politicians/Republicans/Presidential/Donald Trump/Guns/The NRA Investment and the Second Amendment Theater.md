@@ -11,6 +11,10 @@ known-gaps:
   - "No voting record data"
 source-types:
   - Congress
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #guns #nra #second-amendment #bump-stocks #concealed-carry #mass-shootings #scotus #class-analysis #follow-the-money
 

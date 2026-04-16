@@ -10,6 +10,10 @@ platform: multi-platform
 related: "(no existing donor nodes , platform funded via YouTube/Google AdSense + Patreon; corporate deals with Discovery Digital Networks 2013-2016 and Group Nine Media 2016-2017 now defunct)"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #youtube #creator-economy #platform-dependency

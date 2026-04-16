@@ -47,6 +47,8 @@ sec-form-types:
   - N-PX/A
   - SCHEDULE 13G/A
 internal-notes: "[CODE @ 2026-04-13] Pipeline: epa-echo FAILED for ADM - Archer Daniels Midland. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359636746"
+epa-facilities: 69
+epa-states: "AL, AR, CA, CO, FL, IA, IL, IN, KS, LA, MI, MN, MO, NC, ND, NE, NJ, SC, TN, TX, WI"
 ---
 
 <!-- auto:data-panel start -->
@@ -243,6 +245,19 @@ Preservation and expansion of the Renewable Fuel Standard (ethanol mandate), fav
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ADM%20-%20Archer%20Daniels%20Midland%22) (Tier 1) (NEEDS REVIEW: Lots of code page)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 69 |
+| States | 21 (AL, AR, CA, CO, FL, IA, IL, IN, KS, LA, MI, MN, MO, NC, ND, NE, NJ, SC, TN, TX, WI) |
+| Registry IDs | 110000606693, 110001808615, 110002069822, 110007536363, 110007532731 +64 more |
+
+**Facility locations:** LITTLE ROCK, AR, GRANITE CITY, IL, ALTON, IL, DECATUR, IL, TAYLORVILLE, IL, STEGER, IL, FREDONIA, KS, CHAMPAIGN, IL, CHICAGO, IL, PEORIA, IL +34 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

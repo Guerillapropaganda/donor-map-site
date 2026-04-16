@@ -26,6 +26,10 @@ regulatory-agencies:
   - Western Area Power Administration
 cross-vault-triangulation-count: 16
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 156
+epa-states: "CA"
+federal-contracts: 138
+federal-awards-total: 120514827
 ---
 
 <!-- auto:data-panel start -->
@@ -149,6 +153,44 @@ PG&E represents the extreme case of utility political capture: a company that ha
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22PG%26E%20-%20Pacific%20Gas%20and%20Electric%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 156 |
+| States | 1 (CA) |
+| Registry IDs | 110002706055, 110006485990, 110001167665, 110009535271, 110011662450 +151 more |
+
+**Facility locations:** SAN JOSE, CA, BYRON, CA, RICHMOND, CA, DALY CITY, CA, OAKLAND, CA, ORLAND, CA, HERCULES, CA, SAN FRANCISCO, CA, LIVERMORE, CA, ANTIOCH, CA +73 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 138 |
+| Total Obligation | $120,514,827 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 11 |
+
+**Top awarding agencies:**
+
+- Department of Veterans Affairs: $63,814,072
+- Department of the Interior: $23,158,519
+- Department of Defense: $17,635,417
+- Department of Justice: $7,653,056
+- National Aeronautics and Space Administration: $4,435,213
+- Social Security Administration: $1,939,436
+- Department of the Treasury: $995,922
+- Department of Transportation: $378,284
+- Department of Health and Human Services: $360,000
+- General Services Administration: $103,422
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

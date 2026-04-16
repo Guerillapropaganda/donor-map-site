@@ -36,6 +36,9 @@ court-jurisdictions:
 related: "[[Anthem - Elevance Health]] · [[Medicare for All - The Policy That Broke the Party]] · [[Glenn Thompson]] · [[Tim Scott]] · [[Kamala Harris Master Profile]] · [[Pete Aguilar]] · [[Nancy Pelosi Master Profile]] · [[Legislative Record as Speaker]] · [[Buffy Wicks]] · [[Bobby Scott]] · [[Bennie Thompson]] · [[Haim Saban]] · [[American Gaming Association]] · [[Anthony Rendon]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Mental Health CARE Court and Forced Treatment]] · [[Healthcare - Donors and Backers]] · [[Economic Policy - Donors and Backers]] · [[Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[Single-Payer Broken Promise]] · [[COVID No-Bid Contracts - Blue Shield and UnitedHealth]] · [[Prescription Drug Pricing - PBM Veto Cycle]] · [[CNA - California Nurses Association]] · [[Kaiser Permanente]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Turkey - Erdogan Lobbying Operation]] · [[Israel - Government Lobbying Operation]] · [[Gulf State Money - Saudi Arabia, UAE, Qatar]] · [[The Prosecutor Record - DA and AG]] · [[Joe Biden]] · [[Rick Scott]] · [[Gary Peters]] · [[Ash Kalra]]"
 cross-vault-triangulation-count: 27
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

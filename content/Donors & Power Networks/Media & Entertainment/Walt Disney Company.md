@@ -41,6 +41,8 @@ cross-vault-triangulation-count: 7
 needs-reenrichment: true
 reenrich-reason: run lda pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -164,3 +166,17 @@ Copyright term extension (Disney has lobbied for every major copyright extension
 
 - [Source: ProPublica Nonprofit Explorer — EIN 956037079](https://projects.propublica.org/nonprofits/organizations/956037079) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110069706447 |
+
+**Facility locations:** GLENDALE, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

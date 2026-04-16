@@ -68,6 +68,8 @@ sec-form-types:
 cross-vault-triangulation-count: 12
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Joe Biden]]"
+epa-facilities: 7
+epa-states: "FL, MA"
 ---
 
 <!-- auto:data-panel start -->
@@ -280,3 +282,17 @@ Patent protection for mRNA technology platform, favorable vaccine pricing (oppos
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 7 |
+| States | 2 (FL, MA) |
+| Registry IDs | 110071539409, 110064390822, 110071673834, 110071668427, 110063244172 +2 more |
+
+**Facility locations:** MIAMI, FL, DEDHAM, MA, CAMBRIDGE, MA, MARLBOROUGH, MA, HOMESTEAD, FL, WALTHAM, MA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->

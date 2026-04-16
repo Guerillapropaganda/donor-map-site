@@ -66,6 +66,9 @@ total-assets: 290992
 related: "[[US Chamber of Commerce]] · [[The Libertarian Brand and Donor Class Service]] · [[Americans for Tax Reform - Grover Norquist]] · [[Bryan Steil]] · [[The Criminal Justice Reform and Bipartisan Alliance]] · [[Koch Network - Charles Koch|Charles Koch]] · [[Americans for Prosperity]] · [[Heritage Foundation]] · [[ALEC - American Legislative Exchange Council|ALEC]] · [[Cato Institute]] · [[Donors Trust]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[DeVos Family]] · [[Insurance Industry]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[Koch network]] · [[Koch Industries]] · [[Healthcare Sector]]"
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

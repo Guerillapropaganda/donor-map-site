@@ -26,6 +26,9 @@ regulatory-agencies:
 related: "[[VP Labor Record - What Unions Got and Didn't Get]] · [[Nancy Pelosi Master Profile]] · [[Labor - Donors and Backers]] · [[IBEW California State Association]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[SEIU - Service Employees International Union]] · [[California Building and Construction Trades Council]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[UFCW - United Food and Commercial Workers]] · [[UNITE HERE]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[_Gavin Newsom Master Profile]] · [[_Kamala Harris Master Profile]] · [[Ash Kalra]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Koch Network - Charles Koch]] · [[Labor Unions]]"
 cross-vault-triangulation-count: 17
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

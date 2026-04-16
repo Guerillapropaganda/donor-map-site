@@ -10,6 +10,10 @@ entity-type: "Story"
 issues:
   - "Technology"
 related: "[[AI Deregulation Super PAC - Leading the Future]] · [[AI Regulation and Tech Donors]] · [[Anthropic]] · [[OpenAI]] · [[Google - Alphabet]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

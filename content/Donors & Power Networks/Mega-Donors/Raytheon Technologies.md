@@ -3,10 +3,10 @@ title: "Raytheon Technologies"
 type: redirect
 editorial-status: redirect
 redirect-target: "[[Raytheon (RTX)]]"
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 aliases:
   - "Raytheon Technologies"
-related: "[[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 # Raytheon Technologies

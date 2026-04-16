@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: "[[_Ilhan Omar Master Profile]]"
 related: "[[_Ilhan Omar Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[United Democracy Project - UDP|UDP]] · [[AIPAC Super PAC Spending Map]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[The Endorsement Economy - Courage to Change PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #omar #aipac #foreign-affairs #israel #palestine #primary #committee-removal #united-democracy-project #squad
 

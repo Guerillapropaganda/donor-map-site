@@ -92,6 +92,8 @@ cross-vault-triangulation-count: 9
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 12
+epa-states: "CA, KS, NH, OK, TX, WY"
 ---
 
 <!-- auto:data-panel start -->
@@ -332,6 +334,19 @@ Expedited drilling permits on federal lands, opposition to EPA fracking regulati
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Halliburton) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 12 |
+| States | 6 (CA, KS, NH, OK, TX, WY) |
+| Registry IDs | 110004752269, 110037445690, 110008157635, 110005075729, 110005083667 +7 more |
+
+**Facility locations:** BRISTOW, OK, TEXARKANA, TX, ROBSTOWN, TX, CALDWELL, TX, DALLAS, TX, BOULDER, WY, SEABROOK, NH, GREAT BEND, KS, NORWALK, CA, EVANSVILLE, WY
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

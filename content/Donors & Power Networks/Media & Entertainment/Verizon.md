@@ -45,6 +45,8 @@ cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 266
+epa-states: "CA, IA, IL, KS, MA, MD, MI, NH, NJ, NY, PA, RI, VA, VT, WI"
 ---
 
 <!-- auto:data-panel start -->
@@ -298,6 +300,19 @@ Net neutrality repeal (achieved 2017), favorable spectrum auction rules, 5G infr
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 266 |
+| States | 15 (CA, IA, IL, KS, MA, MD, MI, NH, NJ, NY, PA, RI, VA, VT, WI) |
+| Registry IDs | 110058870495, 110001330658, 110040529023, 110003194775, 110017724649 +261 more |
+
+**Facility locations:** BUFFALO, NY, DAVENPORT, IA, BRONX, NY, LENEXA, KS, MILTON, NH, BELMONT, NH, ERROL, NH, LACONIA, NH, NASHUA, NH, ROCHESTER, NH +135 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

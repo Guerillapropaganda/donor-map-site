@@ -8,6 +8,10 @@ parent: null
 category: centrist
 platform: multi-platform
 related: "[[Fox News - Murdoch Media Empire]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #british-tabloid-culture #murdoch-pipeline #cross-platform-controversy #international-media

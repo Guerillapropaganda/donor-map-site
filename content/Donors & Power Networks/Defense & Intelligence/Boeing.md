@@ -103,6 +103,8 @@ ftc-hsr-notices: 16
 federal-awards-total: 21646660464
 federal-contracts-count: 25
 federal-grants-count: 23
+epa-facilities: 14
+epa-states: "AL, AZ, CO, IL, KS, NH, NY, TX, UT, WA"
 ---
 
 <!-- auto:data-panel start -->
@@ -750,6 +752,19 @@ The Boeing Company is an American multinational corporation that designs and man
 - [Source: USASpending.gov](https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest) (Tier 1)
 
 <!-- auto:usaspending pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 14 |
+| States | 10 (AL, AZ, CO, IL, KS, NH, NY, TX, UT, WA) |
+| Registry IDs | 110003023095, 110000470963, 110002135546, 110042256297, 110041529129 +9 more |
+
+**Facility locations:** MADISON, AL, MESA, AZ, EL PASO, TX, MASCOUTAH, IL, COLORADO SPRINGS, CO, WEST JORDAN, UT, AUBURN, WA, CHICAGO, IL, STATEWIDE, CO, NEW WINDSOR, NY +3 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

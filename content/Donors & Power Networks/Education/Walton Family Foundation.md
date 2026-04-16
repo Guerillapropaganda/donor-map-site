@@ -34,6 +34,9 @@ nonprofit-status: 501(c)(3)
 total-revenue: 455437
 total-assets: 1873781
 politicians-funded: "[[Virginia Foxx]], [[Sarah Huckabee Sanders]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

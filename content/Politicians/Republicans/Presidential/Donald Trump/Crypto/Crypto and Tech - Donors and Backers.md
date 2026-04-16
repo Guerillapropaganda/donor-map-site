@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[Trump Crypto - The President as Personal Profiteer]] · [[Crypto Industry Bloc]] · [[_David Sacks Master Profile]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #crypto #tech #donors #backers #fairshake #coinbase #ripple #musk #thiel #sacks #wlfi #meme-coin #sec #follow-the-money #research-node
 

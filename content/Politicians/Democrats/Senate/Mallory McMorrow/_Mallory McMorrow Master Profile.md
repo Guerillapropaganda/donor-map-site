@@ -24,6 +24,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[2026 Senate Primary Races]] · [[Michigan Senate Primary and the Progressive Proxy War]] · [[_Abdul El-Sayed Master Profile]] · [[Viral Moment Pipeline and National Fundraising]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

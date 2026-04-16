@@ -6,6 +6,9 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chad Bianco Master Profile]]
 related: "[[Riverside Sheriffs Association]] · [[_Chad Bianco Master Profile]] · [[CA DOJ Investigation - Pattern and Practice]] · [[Deputy Misconduct and the Whistleblower Firing]] · [[CSPOA - The Anti-Government Sheriff Network]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #bianco #jail-deaths #carceral-state #class-analysis #follow-the-money #use-of-force #fentanyl #medical-neglect #riverside #accountability
 

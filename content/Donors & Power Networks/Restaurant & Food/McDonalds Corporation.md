@@ -52,6 +52,8 @@ court-jurisdictions:
   - "District Court, E.D. Wisconsin"
   - "District Court, N.D. Illinois"
   - "District Court, N.D. Oklahoma"
+epa-facilities: 200
+epa-states: "AL, CA, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NV, NY, PA, SC, TN, TX, UT, VA, VT, WA, WI"
 ---
 
 <!-- auto:data-panel start -->
@@ -188,6 +190,19 @@ Opposition to federal minimum wage increases, favorable franchise regulation (av
 - Steele v. Randall (2025) — District Court, N.D. Illinois
 
 <!-- auto:courtlistener-cases end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 200 |
+| States | 35 (AL, CA, CT, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MT, NC, ND, NE, NH, NJ, NV, NY, PA, SC, TN, TX, UT, VA, VT, WA, WI) |
+| Registry IDs | 110005735810, 110001683928, 110009383381, 110055025155, 110005957134 +195 more |
+
+**Facility locations:** COUNCIL BLUFFS, IA, WOODRIDGE, IL, OAK BROOK, IL, DRAFFENVILLE, KY, DE WITT, IA, MARIETTA, GA, CUT OFF, LA, MATHEWS, LA, SAINT LOUIS, MO, OLD BRIDGE, NJ +126 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

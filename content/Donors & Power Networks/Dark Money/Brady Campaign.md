@@ -2,7 +2,7 @@
 title: Brady Campaign
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 sector: Dark Money
@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: $4.8M
 net-assets: $8.1M
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: 501(c)(4)
@@ -48,7 +48,10 @@ wikipedia-url: https://en.wikipedia.org/wiki/Brady_Campaign
 wikipedia-extract: "Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence."
 federal-register-mentions: 1
 regulatory-agencies:
-  - "Federal Election Commission"
+  - Federal Election Commission
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 

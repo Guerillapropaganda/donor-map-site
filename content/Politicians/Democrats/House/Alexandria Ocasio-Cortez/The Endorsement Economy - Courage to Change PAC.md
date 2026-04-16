@@ -12,6 +12,9 @@ known-gaps:
   - Only 1 Tier 1 source type (FEC). Need second for verified promotion.
   - IE spending data needs FEC cross-check ($279,600 in 2023-2024 cycle)
 related: "[[The Small-Dollar Model and the Anti-Donor Experiment]] · [[_Jamaal Bowman Master Profile]] · [[_Cori Bush Master Profile]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]] · [[The AIPAC Primary Machine and Foreign Affairs Removal]] · [[The Green New Deal - From Resolution to Reality]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #aoc #leadership-pac #courage-to-change #endorsements #progressive #class-analysis #follow-the-money
 

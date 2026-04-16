@@ -10,7 +10,7 @@ entity-type: "Corporation"
 issues:
   - "Healthcare"
   - "Social Safety Net"
-federal-awards-total: 439929
+federal-awards-total: 353830
 federal-contracts-count: 5
 federal-grants-count: 0
 lei: "0W9AIBT6U6ADJ2I8HK17"
@@ -79,6 +79,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 nhtsa-recalls: 0
 nhtsa-complaints: 0
+epa-facilities: 2
+epa-states: "MI"
+federal-contracts: 9
 ---
 
 <!-- auto:data-panel start -->
@@ -233,22 +236,17 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $440K |
-| Contracts (recent 3yr) | 5 ($1.1M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 9 |
+| Total Obligation | $353,830 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $675K | Department of Veterans Affairs | STERILE PROCESSING SERVICES |
-| $208K | Department of Veterans Affairs | SPS SERVICE |
-| $135K | Department of Veterans Affairs | STERILE PROCESSING SERVICES |
-| $69K | Department of Defense | STEAM STERILIZATION |
-| $9K | Department of Defense | INSTRUMENT STERILIZATION |
+- Department of Veterans Affairs: $315,000
+- Department of Defense: $38,830
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Tenet%20Healthcare) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
@@ -403,6 +401,19 @@ The bipartisan contribution pattern confirms the structural analysis: Tenet fund
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Tenet%20Healthcare) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 1 (MI) |
+| Registry IDs | 110003617578, 110032731952 |
+
+**Facility locations:** DETROIT, MI
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

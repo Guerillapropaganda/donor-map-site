@@ -23,6 +23,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 lei: "549300EBCNNXVCJ2FW66"
 lei-jurisdiction: "US-DE"
+federal-contracts: 7
+federal-awards-total: 23323
 ---
 
 <!-- auto:data-panel start -->
@@ -225,6 +227,22 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1)
 
 <!-- auto:gleif-lei pending-merge end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 7 |
+| Total Obligation | $23,323 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
+
+**Top awarding agencies:**
+
+- Department of Justice: $23,323
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

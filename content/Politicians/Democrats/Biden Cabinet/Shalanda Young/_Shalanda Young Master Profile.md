@@ -12,6 +12,7 @@ known-gaps:
 source-types:
   - Congress
 donors: "[[California Farm Bureau Federation]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

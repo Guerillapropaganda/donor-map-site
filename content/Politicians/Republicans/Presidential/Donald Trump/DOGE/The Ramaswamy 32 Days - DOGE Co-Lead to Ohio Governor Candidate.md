@@ -12,6 +12,10 @@ known-gaps:
   - "No mapped relationships"
 related: "[[DOGE - The Billionaires Government]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]"
 donors: "[[Rebekah Mercer]] · [[Christopher Ruddy]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #doge #vivek-ramaswamy #class-analysis #follow-the-money #tech #h1b #ohio #grift
 

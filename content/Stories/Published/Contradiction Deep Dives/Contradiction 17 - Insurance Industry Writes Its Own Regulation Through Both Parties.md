@@ -8,6 +8,10 @@ parent: null
 issues:
   - "Healthcare"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[_Nancy Pelosi Master Profile|Nancy Pelosi]] · [[_Joe Biden Master Profile|Joe Biden]] · [[_Barack Obama Master Profile|Barack Obama]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Joe Manchin Master Profile|Joe Manchin]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Susan Collins Master Profile|Susan Collins]] · [[_John McCain Master Profile|John McCain]] · [[_Lisa Murkowski Master Profile|Lisa Murkowski]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #insurance #healthcare #public-option #medicare-advantage #aca #bipartisan-consensus #class-analysis #revolving-door
 tags: #analysis #story

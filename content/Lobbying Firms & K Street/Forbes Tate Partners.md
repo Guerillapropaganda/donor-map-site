@@ -27,6 +27,9 @@ cross-vault-triangulation-count: 20
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #lobbying #k-street #pharma #healthcare #tobacco #grassroots #tax-policy #telecom #defense #bipartisan-access #clinton-orbit

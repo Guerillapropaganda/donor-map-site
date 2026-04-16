@@ -85,6 +85,9 @@ regulatory-agencies:
 cross-vault-triangulation-count: 11
 audit-a-plus-passed: "2026-04-11"
 internal-notes: "[CODE @ 2026-04-13] Pipeline: lda completed for American Farm Bureau Federation. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24359872848"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

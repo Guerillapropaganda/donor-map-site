@@ -21,6 +21,8 @@ regulatory-agencies:
   - "Energy Department"
   - "Federal Energy Regulatory Commission"
   - "National Oceanic and Atmospheric Administration"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #conservative #climate-denial #tobacco #fossil-fuel #NIPCC #model-legislation #state-policy #class-analysis

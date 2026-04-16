@@ -13,6 +13,7 @@ known-gaps:
   - "No voting record data"
 source-types:
   - Congress
+urls-first-triaged: "2026-04-15"
 ---
 #rendon #democrat #california #assembly-speaker #class-analysis #healthcare-donor #follow-the-money
 tags: #democrat

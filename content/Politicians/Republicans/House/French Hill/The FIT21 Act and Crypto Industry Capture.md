@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_French Hill Master Profile]]"
 related: "[[_French Hill Master Profile]] · [[Coinbase]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #hill #fit21 #crypto #cfpb #financial-services #deregulation #coinbase
 

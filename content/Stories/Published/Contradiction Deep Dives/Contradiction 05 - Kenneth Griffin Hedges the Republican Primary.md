@@ -9,6 +9,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Donald Trump Master Profile]] · [[_Ron DeSantis Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Senate Leadership Fund]] · [[Citadel - Kenneth Griffin|Citadel]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #kenneth-griffin #citadel #republican #intra-party #class-analysis
 tags: #analysis #story

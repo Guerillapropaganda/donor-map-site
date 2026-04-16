@@ -10,6 +10,9 @@ platform: multi-platform
 related: "[[The Grayzone]] · [[Aaron Maté]] · [[Ben Norton]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #left #grayzone #anti-imperialism #state-media-ties #journalist #patreon

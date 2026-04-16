@@ -19,6 +19,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Walton Family Foundation]] · [[National Nurses United]]"
 donors: "[[National Nurses United]], [[Walton Family Foundation]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

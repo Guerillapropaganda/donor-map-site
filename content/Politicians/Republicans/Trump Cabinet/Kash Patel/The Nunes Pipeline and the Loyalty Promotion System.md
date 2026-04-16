@@ -8,6 +8,10 @@ parent: [[_Kash Patel Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Kash Patel Master Profile]] · [[_Donald Trump Master Profile]] · [[_Stephen Miller Master Profile|Stephen Miller]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #kash-patel #devin-nunes #nunes-memo #loyalty #deep-state #trump-pipeline #class-analysis
 

@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Mitch McConnell Master Profile]]
 related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[The 2024 Race - Most Expensive Senate Campaign in History]] · [[NRSC Chair and the McConnell Spending War]] · [[The 2020 Race and the Out-of-State Money Machine]] · [[Josh Hawley Master Profile]] · [[Dark Money and the 2018 Missouri Machine]] · [[Chuck Schumer Master Profile]] · [[_Mitch McConnell Master Profile]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Crypto Industry Bloc]] · [[Majority Forward and the Democratic Dark Money Operation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #mcconnell #dark-money #senate-leadership-fund #one-nation #super-pac #class-analysis #follow-the-money
 

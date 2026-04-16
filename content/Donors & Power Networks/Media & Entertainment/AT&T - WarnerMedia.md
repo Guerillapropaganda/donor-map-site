@@ -43,6 +43,10 @@ court-jurisdictions:
   - "District Court, S.D. New York"
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 486
+epa-states: "AL, CA, CO, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, PA, TN, TX, UT, VA, WI, WV"
+federal-contracts: 6346
+federal-awards-total: 2286101346
 ---
 
 <!-- auto:data-panel start -->
@@ -291,6 +295,44 @@ Elimination of net neutrality rules (achieved under Trump FCC in 2017, partially
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22AT%26T%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 486 |
+| States | 32 (AL, CA, CO, CT, DC, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NE, NJ, NM, NY, OH, PA, TN, TX, UT, VA, WI, WV) |
+| Registry IDs | 110007416670, 110002673330, 110010458236, 110001732590, 110006188204 +481 more |
+
+**Facility locations:** JACKSONVILLE, FL, ROHNERT PARK, CA, DUNNIGAN, CA, CHESHIRE, CT, GARDENA, CA, PACIFICA, CA, SAN BRUNO, CA, SAN RAMON, CA, SAN FRANCISCO, CA, MOUNTAIN VIEW, CA +369 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 6,346 |
+| Total Obligation | $2,286,101,346 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 37 |
+
+**Top awarding agencies:**
+
+- Department of Veterans Affairs: $768,309,009
+- Department of Homeland Security: $309,820,025
+- Department of Justice: $279,731,765
+- Department of Defense: $251,545,568
+- Department of the Treasury: $158,959,876
+- Department of Agriculture: $151,697,859
+- Department of State: $108,761,412
+- Department of Transportation: $72,263,997
+- Department of Housing and Urban Development: $50,072,937
+- Department of Education: $28,773,919
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

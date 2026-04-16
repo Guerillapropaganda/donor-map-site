@@ -41,6 +41,9 @@ sec-form-types:
 related: "[[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Maxine Waters]] · [[Mike Lee]] · [[Barbara Lee]] · [[Labor - Donors and Backers]] · [[Sherrod Brown]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[CNA - California Nurses Association]] · [[_Gavin Newsom Master Profile|Gavin Newsom]] · [[California Labor Federation]] · [[Jeff Merkley]]"
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

@@ -6,10 +6,14 @@ sector: Dark Money
 entity-type: Super PAC
 committee-id: C00608943
 fec-url: https://www.fec.gov/data/committee/C00608943/
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 1
 fec-ie-support: $437,125
 fec-ie-oppose: null
 politicians-funded: "[[John Barrasso]], [[Cathy McMorris Rodgers]], [[John Hoeven]]"
-related: "[[John Hoeven]] · [[John Barrasso]] · [[Cathy McMorris Rodgers]]"
+related: "[[John Hoeven]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---

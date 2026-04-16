@@ -9,6 +9,9 @@ category: right
 platform: multi-platform
 related: "[[Tim Pool]] · [[Ben Shapiro]] · [[Charlie Kirk]] · [[Jordan Peterson]] · [[Steven Crowder]] · [[Glenn Greenwald]] · [[_Media Pipeline Framework]] · [[Rumble]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tenet Media]] · [[Matt Walsh]] · [[Jesse Watters]] · [[Laura Ingraham]] · [[James O'Keefe]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Candace Owens]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Jimmy Dore]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]]"
 donors: "[[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #right #conservative #classical-liberal #IDW #Koch #tenet-media #russian-dark-money #blazetv #locals #class-analysis

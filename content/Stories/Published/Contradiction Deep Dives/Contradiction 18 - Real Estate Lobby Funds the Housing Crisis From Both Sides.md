@@ -8,6 +8,10 @@ parent: null
 issues:
   - "Housing"
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[_Steve Scalise Master Profile|Steve Scalise]] · [[_Jason Smith Master Profile|Jason Smith]] · [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #real-estate #housing #nar #zoning #rent-control #bipartisan-consensus #class-analysis #tax-policy
 tags: #analysis #story

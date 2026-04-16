@@ -69,6 +69,8 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 2
+epa-states: "FL, IN"
 ---
 
 <!-- auto:data-panel start -->
@@ -461,6 +463,19 @@ _Variant firm names in FDA data: Eli Lilly & Company; Eli Lilly & Co_
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Eli%20Lilly) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 2 |
+| States | 2 (FL, IN) |
+| Registry IDs | 110007419944, 110000750241 |
+
+**Facility locations:** BOYNTON BEACH, FL, INDIANAPOLIS, IN
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

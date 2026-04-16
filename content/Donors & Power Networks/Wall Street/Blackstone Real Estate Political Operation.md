@@ -3,10 +3,10 @@ title: "Blackstone Real Estate Political Operation"
 type: redirect
 editorial-status: redirect
 redirect-target: "[[Blackstone Real Estate]]"
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 aliases:
   - "Blackstone Real Estate Political Operation"
-related: "[[Carlyle Group]] · [[Blackstone Group]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 # Blackstone Real Estate Political Operation

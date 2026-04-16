@@ -8,6 +8,10 @@ parent: [[_Lindsey Graham Master Profile]]
 related: "[[Tommy Tuberville Master Profile]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[_Lindsey Graham Master Profile]] · [[_Pete Hegseth Master Profile]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #lindsey-graham #defense #military #armed-services #lockheed #boeing #class-analysis #follow-the-money
 

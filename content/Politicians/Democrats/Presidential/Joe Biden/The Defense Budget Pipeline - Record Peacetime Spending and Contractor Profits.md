@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Joe Biden Master Profile]]
 related: "[[_Joe Biden Master Profile]] · [[Lockheed Martin]] · [[Raytheon]] · [[Northrop Grumman]] · [[Boeing]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #biden #defense-budget #military-industrial-complex #class-analysis #follow-the-money #raytheon #lockheed-martin #northrop-grumman
 

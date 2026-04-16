@@ -39,6 +39,8 @@ lei: 54930042348RKR3ZPN35
 lei-jurisdiction: US-DE
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 12
+epa-states: "CO, LA, MI, NM"
 ---
 
 <!-- auto:data-panel start -->
@@ -282,6 +284,19 @@ The confirmation vote (54-45) included two Democratic crossovers: [[_John Fetter
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 12 |
+| States | 4 (CO, LA, MI, NM) |
+| Registry IDs | 110007239522, 110009929275, 110011186199, 110054841926, 110044922475 +7 more |
+
+**Facility locations:** UNK, CO, MEAUX, LA, UNKNOWN, LA, MCBAIN, MI, GLADWIN, MI, PRESCOTT, MI, SAINT HELEN, MI, HARRISON, MI, UNKNOWN, NM, MORLEY, MI +2 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

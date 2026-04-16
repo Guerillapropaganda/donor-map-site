@@ -6,6 +6,9 @@ last-updated: 2026-04-01
 source-tier: 2
 parent: null
 related: "[[_Media Pipeline Framework|Media Pipeline Framework]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media|Shared Sponsor Map]] · [[The Revolving Door (Media) , Government-to-Media Personnel Pipeline|Revolving Door (Media)]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts|Both-Sides Illusion (Politicians)]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 #media-pipeline #both-sides-illusion #class-analysis #cross-comparison #corporate-media #venture-capital #advertising #platform-dependency

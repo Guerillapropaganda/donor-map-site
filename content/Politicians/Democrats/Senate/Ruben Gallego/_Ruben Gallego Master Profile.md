@@ -22,6 +22,7 @@ known-gaps:
   - "No voting record"
   - "No mapped relationships"
 donors: "[[Fairshake PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

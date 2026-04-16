@@ -29,6 +29,7 @@ total-received: $7,693,038
 fec-candidate-id: H2OH11151
 top-donors: "[[Wfp Ie Committee]], [[Third Way]], [[Mainstream Democrats Pac]], [[DMFI PAC]], [[THE DEMOCRATIC ACTION PAC]], [[The Democratic Action PAC]]"
 donors: "[[The Democratic Action PAC]], [[Third Way]], [[Wfp Ie Committee]], [[Mainstream Democrats Pac]], [[DMFI PAC]], [[THE DEMOCRATIC ACTION PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

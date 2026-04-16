@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: [[_Lindsey Graham Master Profile]]
 related: "[[_Lindsey Graham Master Profile]] · [[Defense Contractors and the Permanent War Donor Base]] · [[The McCain-to-Trump Transformation and Donor Base Shift]] · [[_Donald Trump Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #lindsey-graham #trump #defense-contractors #south-carolina #military-bases #class-analysis #donor-conversion
 

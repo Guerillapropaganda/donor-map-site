@@ -34,6 +34,7 @@ stock-trade-tickers:
   - "VPMAX"
   - "GFAFX"
 donors: "[[ConocoPhillips]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

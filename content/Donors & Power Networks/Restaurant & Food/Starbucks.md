@@ -56,6 +56,8 @@ lobbying-spend: 4663000
 lobbying-filings: 45
 cross-vault-triangulation-count: 2
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 40
+epa-states: "CO, FL, GA, IL, IN, KY, MO, NH, NY, SC, TN, TX, VA, WA"
 ---
 
 <!-- auto:data-panel start -->
@@ -295,6 +297,19 @@ Reduced NLRB enforcement power, opposition to the PRO Act (which would strengthe
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Starbucks%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 40 |
+| States | 14 (CO, FL, GA, IL, IN, KY, MO, NH, NY, SC, TN, TX, VA, WA) |
+| Registry IDs | 110005793891, 110005303242, 110020521210, 110025193145, 110049444507 +35 more |
+
+**Facility locations:** RIVER FOREST, IL, MOUNT VERNON, WA, SOUTHWEST RANCHES, FL, UNKNOWN, IL, FERGUSON, MO, LUTZ, FL, PORT ST LUCIE, FL, ROSWELL, GA, GAINESVILLE, FL, LONGWOOD, FL +27 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

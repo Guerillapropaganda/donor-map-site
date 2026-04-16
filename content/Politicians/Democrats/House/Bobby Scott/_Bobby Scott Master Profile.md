@@ -56,6 +56,7 @@ total-spent: $358,184
 cash-on-hand: "95642.17"
 fec-cycle: 2026
 fec-debt: "3191.43"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

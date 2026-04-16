@@ -25,7 +25,7 @@ subawards-received-amount: 281107145
 top-federal-agency: Department of Veterans Affairs
 top-naics-code: "541512"
 related: "[[The Judiciary Committee and Libertarian Constitutionalism]] · [[Larry Ellison]] · [[Google - Alphabet]] · [[Amazon]] · [[Microsoft]] · [[_Donald Trump Master Profile|Trump]]"
-federal-awards-total: 1133627862
+federal-awards-total: 120226991
 federal-contracts-count: 25
 federal-grants-count: 3
 court-cases: 18876
@@ -46,6 +46,9 @@ lei: 969500QP03W2YD1S4389
 lei-jurisdiction: FR
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 26
+epa-states: "CA, CO, MA, MO, NH, OR, PA, TN, TX, VT"
+federal-contracts: 73
 ---
 
 <!-- auto:data-panel start -->
@@ -203,30 +206,21 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $1.1B |
-| Contracts (recent 3yr) | 25 ($6.9B sampled) |
-| Grants (recent 3yr) | 3 ($74K sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 73 |
+| Total Obligation | $120,226,991 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 6 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $1.3B | Department of Veterans Affairs | IGF::OT::IGF TASK ORDER 36C10B18N0003 UNDER IDIQ CONTRACT 36C10B18D5000 FOR OPERATIONAL MANAGEMENT S |
-| $995.1M | Department of Veterans Affairs | EHRM WAVES K, L, M (VISN 23) AND N, O (VISN 15) DEPLOYMENTS |
-| $516.3M | Department of Veterans Affairs | IGF::OT::IGF   AWARD OF TASK ORDER 0008 TO OEHRM ID/IQ - ADDITIONAL INTERFACES |
-| $468.7M | Department of Veterans Affairs | EHRM OPERATIONS |
-| $423.2M | Department of Veterans Affairs | AWARD FOR WAVES H, J, AND J DEPLOYMENTS. |
+- Department of Defense: $110,626,466
+- Department of Agriculture: $6,543,877
+- Federal Communications Commission: $1,129,902
+- U.S. International Development Finance Corporation: $1,102,437
+- Department of Health and Human Services: $826,073
+- Department of the Interior: $-1,763
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $37K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
-| $19K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
-| $17K | Department of Education | SMALL, RURAL SCHOOL ACHIEVEMENT PROGRAM |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/c406663e-71aa-fbe3-4678-97f901f9fee6-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Court Records (CourtListener)
@@ -295,6 +289,19 @@ Government cloud contracts (competing with Amazon and Microsoft for Pentagon, CI
 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 26 |
+| States | 10 (CA, CO, MA, MO, NH, OR, PA, TN, TX, VT) |
+| Registry IDs | 110054994761, 110058899036, 110054260447, 110054257692, 110023094872 +21 more |
+
+**Facility locations:** BURLINGTON, MA, DENVER, CO, REDWOOD CITY, CA, PLEASANTON, CA, NASHUA, NH, BROOMFIELD, CO, SAN DIEGO, CA, COLORADO SPRINGS, CO, SAN MATEO, CA, MALVERN, PA +11 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

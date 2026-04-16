@@ -78,6 +78,7 @@ const TYPES = [
   'legal',
   'family',
   'related',
+  'government-contract',
 ];
 
 const TYPE_META = {
@@ -141,6 +142,12 @@ const TYPE_META = {
     to_role: 'profile',
     requires: [], // catch-all; no extras
   },
+  'government-contract': {
+    directed: true,
+    from_role: 'agency',
+    to_role: 'contractor',
+    requires: ['amount', 'cycle'],
+  },
 };
 
 const SOURCES = [
@@ -164,6 +171,9 @@ const SOURCES = [
   // edges for one-way `related` edges so the canonical store matches
   // the natural symmetry of the `related` relationship type.
   'bidirectional-normalizer',
+  'fec-bulk',
+  'epa-frs',
+  'usaspending-bulk',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -235,7 +245,7 @@ function computeEdgeId(edge) {
   const meta = TYPE_META[type];
   let parts;
 
-  if (type === 'monetary') {
+  if (type === 'monetary' || type === 'government-contract') {
     parts = [edge.from, edge.to, type, edge.cycle || ''];
   } else if (type === 'staffing' || type === 'affiliation' || type === 'legal') {
     const dr = edge.date_range || '';
@@ -377,6 +387,11 @@ function validateEdge(edge, ctx = {}) {
       }
       const matches = ctx.titleIndex.get(title);
       if (!matches) {
+        // Government agencies in government-contract edges are not profiled in the vault
+        const subcatField = `${side}_subcategory`;
+        if (edge.type === 'government-contract' && edge[subcatField] === 'government-agency') {
+          continue; // skip profile existence check for agencies
+        }
         errors.push(`${side}: no profile with title "${title}" in vault`);
         continue;
       }

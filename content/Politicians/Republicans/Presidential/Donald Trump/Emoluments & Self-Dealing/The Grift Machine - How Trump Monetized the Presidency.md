@@ -6,6 +6,10 @@ last-updated: 2026-03-24
 source-tier: 1
 parent: "[[_Donald Trump Master Profile]]"
 related: "[[_Donald Trump Master Profile]] · [[Emoluments and Self Dealing - Donors and Backers]] · [[Trump Crypto - The President as Personal Profiteer]] · [[World Liberty Financial]] · [[_Jared Kushner Master Profile|Jared Kushner]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Elon Musk|Musk]] · [[Miriam Adelson|Adelson]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #emoluments #self-dealing #class-analysis #second-term #crypto #extraction
 

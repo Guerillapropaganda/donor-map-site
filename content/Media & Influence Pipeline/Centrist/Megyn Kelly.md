@@ -2,12 +2,16 @@
 title: "Megyn Kelly"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-15
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[News Corp - Fox Corporation]] · [[Comcast - NBCUniversal]] · [[Lex Fridman]] · [[Chris Cuomo]] · [[Bari Weiss]] · [[The Free Press]] · [[The Daily Wire]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]]"
+checklist-na:
+  - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #centrist #independence-theater #revolving-door #fox-news #conservative-media

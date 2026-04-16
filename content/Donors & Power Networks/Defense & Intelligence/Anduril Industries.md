@@ -13,7 +13,7 @@ issues:
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 last-enriched: "2026-04-09"
-federal-awards-total: 792468895
+federal-awards-total: 1268646420
 federal-contracts-count: 25
 federal-grants-count: 0
 lei: "254900CIXLZUXXNYQW57"
@@ -62,6 +62,9 @@ lobbying-spend: 5830000
 lobbying-filings: 44
 cross-vault-triangulation-count: 7
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 30
+epa-states: "CA, CO, GA, IN, MA, MS, NC, OR, RI, VA, WA"
+federal-contracts: 223
 ---
 
 <!-- auto:data-panel start -->
@@ -199,22 +202,18 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $792.5M |
-| Contracts (recent 3yr) | 25 ($1.4B sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 223 |
+| Total Obligation | $1,268,646,420 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $363.0M | Department of Homeland Security | PURCHASE OF TOWERS |
-| $250.0M | Department of Defense | ROADRUNNER, ANVIL AND QUASAR PACKAGES |
-| $94.0M | Department of Defense | PRODUCTION AND DELIVERY OF ALTIUS 600M-V LOITERING MUNITIONS AND SUPPORTING HARDWARE |
-| $62.6M | Department of Defense | EFS-ROADRUNNER HARDWARE |
-| $50.7M | Department of Homeland Security | AWARD |
+- Department of Defense: $1,044,203,550
+- Department of Homeland Security: $223,952,383
+- Department of Commerce: $490,487
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/1869c03a-77bb-b66c-469b-988719bbec4c-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
@@ -359,6 +358,19 @@ Anduril represents a new model of defense-sector class power: Silicon Valley ven
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Anduril%20Industries) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 30 |
+| States | 11 (CA, CO, GA, IN, MA, MS, NC, OR, RI, VA, WA) |
+| Registry IDs | 110072072314, 110071531757, 110071531820, 110072089224, 110071680240 +25 more |
+
+**Facility locations:** CARNATION, WA, WEST LAFAYETTE, IN, MCHENRY, MS, MOUNTAIN VIEW, CA, MORRISVILLE, NC, COSTA MESA, CA, SANTA ANA, CA, NORTH KINGSTOWN, RI, GOLETA, CA, SAN JUAN CAPISTRANO, CA +8 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

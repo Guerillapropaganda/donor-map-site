@@ -23,6 +23,7 @@ known-gaps:
 last-enriched: "2026-04-10"
 total-received: $672,085
 fec-candidate-id: H2OH11169
+urls-first-triaged: "2026-04-15"
 ---
 
 

@@ -8,6 +8,9 @@ parent: [[_Chris Wright Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Chris Wright Master Profile]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #chris-wright #koch-network #climate-denial #energy-sobriety #afp #class-analysis #follow-the-money
 

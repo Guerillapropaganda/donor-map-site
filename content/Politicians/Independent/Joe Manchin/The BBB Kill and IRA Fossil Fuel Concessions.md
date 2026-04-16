@@ -6,6 +6,9 @@ last-updated: 2026-04-01
 source-tier: 1
 parent: [[_Joe Manchin Master Profile]]
 related: "[[_Joe Manchin Master Profile]] · [[Enersystems and the Personal Coal Fortune]] · [[Koch Network - Charles Koch]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #joe-manchin #build-back-better #inflation-reduction-act #climate #fossil-fuels #class-analysis #follow-the-money
 

@@ -63,6 +63,10 @@ related: "[[Democracy Alliance]] · [[Media Matters|David Brock]]"
 wikidata-id: "Q368035"
 wikipedia-url: "https://en.wikipedia.org/wiki/Center_for_American_Progress"
 wikipedia-extract: "The Center for American Progress (CAP) is a public policy research and advocacy organization which presents a liberal viewpoint on economic and social issues. CAP is headquartered in Washington, D.C."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

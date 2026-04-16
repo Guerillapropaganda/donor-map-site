@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[Operation Southern Spear and the Cuba Fuel Blockade]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #story #cuba-policy #campaign-finance #trademark-law #title-iii #bacardi #helms-burton #corporate-influence
 

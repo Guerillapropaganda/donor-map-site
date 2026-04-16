@@ -6,6 +6,10 @@ last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Juliana Stratton Master Profile]]
 related: "[[Juliana Stratton]] · [[_Raja Krishnamoorthi Master Profile|Raja Krishnamoorthi]] · [[Illinois Future PAC]] · [[Fairshake PAC]] · [[Think Big AI PAC]] · [[OpenAI]] · [[Cryptocurrency Industry]] · [[Coinbase]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #crypto-politics #fairshake #blockchain-pacs #institutional-democrats #2026-elections
 

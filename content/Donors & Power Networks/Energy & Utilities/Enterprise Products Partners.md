@@ -40,6 +40,8 @@ lobbying-spend: 2047000
 lobbying-filings: 118
 cross-vault-triangulation-count: 4
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 1
+epa-states: "CO"
 ---
 
 <!-- auto:data-panel start -->
@@ -231,6 +233,19 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Enterprise%20Products%20Partners) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CO) |
+| Registry IDs | 110070275526 |
+
+**Facility locations:** PARACHUTE, CO
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -8,6 +8,10 @@ parent: null
 issues:
   - "Israel & Foreign Policy"
 related: "[[Top 10 Most Expensive House Races 2026]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #2026-election #AIPAC #super-pac #primary #donor-analysis #analysis #story

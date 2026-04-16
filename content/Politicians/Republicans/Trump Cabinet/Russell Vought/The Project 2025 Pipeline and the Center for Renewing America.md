@@ -8,6 +8,10 @@ parent: [[_Russell Vought Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Russell Vought Master Profile]] · [[Leonard Leo]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #russell-vought #project-2025 #center-for-renewing-america #heritage #conservative-partnership-institute #class-analysis
 

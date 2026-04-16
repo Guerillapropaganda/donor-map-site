@@ -47,6 +47,10 @@ known-gaps:
   - No lobbying disclosure data
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Haim Saban]] · [[Miriam Adelson]] · [[Republican Jewish Coalition]] · [[Nikki Haley]]"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

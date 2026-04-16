@@ -8,6 +8,10 @@ parent: null
 related: "[[2022 Jail Death Crisis]] · [[_Chad Bianco Master Profile]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]] · [[COVID Mandate Refusal - The Brand-Building Moment]] · [[287(g) and the Sanctuary State Contradiction]]"
 last-enriched: "2026-04-08"
 donors: "[[Reed Hastings]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #bianco #CSPOA #constitutional-sheriff #far-right #posse-comitatus #richard-mack #class-analysis #anti-government #nullification #sovereign-citizen
 

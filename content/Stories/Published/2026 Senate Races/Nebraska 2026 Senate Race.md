@@ -8,6 +8,10 @@ parent: null
 known-gaps:
   - "No mapped relationships"
 related: "[[_Dan Osborn Master Profile]] · [[Senate Majority PAC]] · [[Republican Party Apparatus]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #senate #nebraska #race-frame
 

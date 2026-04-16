@@ -11,6 +11,9 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Chad Bianco Master Profile]] · [[Oath Keepers Membership and the Constitutional Sheriff Movement]] · [[CSPOA - The Anti-Government Sheriff Network]] · [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
 ---
 #bianco #covid #mandate-refusal #constitutional-sheriff #fox-news #class-analysis #newsom #tyranny-framing #vaccine #brand-building
 

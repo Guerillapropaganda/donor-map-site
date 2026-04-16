@@ -15,6 +15,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[_Ted Cruz Master Profile|Ted Cruz]] · [[_Amy Klobuchar Master Profile|Amy Klobuchar]] · [[_John Boozman Master Profile|John Boozman]] · [[_Chuck Grassley Master Profile|Chuck Grassley]] · [[_Deb Fischer Master Profile|Deb Fischer]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #agriculture #farm-subsidies #crop-insurance #snap #bipartisan-consensus #class-analysis
 tags: #analysis #story

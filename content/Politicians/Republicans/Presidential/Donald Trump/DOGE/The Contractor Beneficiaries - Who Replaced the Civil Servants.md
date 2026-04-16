@@ -16,6 +16,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[DOGE - The Billionaires Government]] · [[The Federal Workforce Gutting - 320,000 Jobs and the Services That Disappeared]] · [[The Palantir State - Surveillance as Policy]] · [[_Donald Trump Master Profile]] · [[Elon Musk]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #doge #contractors #privatization #class-analysis #follow-the-money #spacex #palantir #deloitte #booz-allen #outsourcing
 

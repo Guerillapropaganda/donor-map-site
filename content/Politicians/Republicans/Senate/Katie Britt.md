@@ -20,6 +20,7 @@ known-gaps:
 related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]] · [[Defense Contractors]]"
 top-donors: "[[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]], [[AMERICAN DREAM FEDERAL ACTION]], [[American Dream Federal Action]]"
 donors: "[[American Dream Federal Action]], [[AMERICAN DREAM FEDERAL ACTION]], [[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]]"
+urls-first-triaged: "2026-04-15"
 ---
 #katie-britt #senate #alabama #rising-star #business-council #donor-class-project #manufactured
 

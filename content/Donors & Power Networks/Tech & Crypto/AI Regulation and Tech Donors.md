@@ -12,6 +12,10 @@ issues:
 related: "[[AI Safety and Regulatory Capture]] · [[Anthropic]] · [[OpenAI]] · [[Google - Alphabet]] · [[Microsoft]] · [[Nvidia]] · [[Think Big AI PAC]] · [[Marc Andreessen & Horowitz]] · [[AI Deregulation Super PAC - Leading the Future]] · [[Silicon Valley Democratic Donor Network]]"
 source-types:
   - Congress
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

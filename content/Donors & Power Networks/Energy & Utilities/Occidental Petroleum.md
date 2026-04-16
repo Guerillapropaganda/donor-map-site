@@ -40,6 +40,8 @@ regulatory-agencies:
 cross-vault-triangulation-count: 15
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Kevin McCarthy]]"
+epa-facilities: 4
+epa-states: "CA, MI, NJ"
 ---
 
 <!-- auto:data-panel start -->
@@ -163,6 +165,19 @@ Permian Basin drilling access, favorable federal land leasing terms, carbon capt
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Occidental%20Petroleum%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 4 |
+| States | 3 (CA, MI, NJ) |
+| Registry IDs | 110001531147, 110041566873, 110042389046, 110002826041 |
+
+**Facility locations:** WEST CALDWELL, NJ, LOS ANGELES, CA, SPARTA, MI
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

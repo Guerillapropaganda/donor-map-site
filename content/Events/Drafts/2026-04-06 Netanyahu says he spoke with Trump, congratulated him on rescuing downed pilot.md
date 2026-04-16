@@ -7,6 +7,10 @@ source: "The Hill"
 source-url: "https://thehill.com/policy/international/5817394-netanyahu-trump-cooperation-rescue/"
 profiles:
   - "Benjamin Netanyahu"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

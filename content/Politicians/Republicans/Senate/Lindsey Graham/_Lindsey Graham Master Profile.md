@@ -27,6 +27,7 @@ known-gaps:
   - No mapped relationships
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Pete Hegseth Master Profile|Hegseth]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Brett Kavanaugh Master Profile|Kavanaugh]] · [[Leonard Leo]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[South Carolina 2026 Senate Race]] · [[Elliott Management]]"
 donors: "[[Patrick Soon-Shiong]] · [[Democracy Alliance]] · [[California Farm Bureau Federation]] · [[Boeing]] · [[CA Farm Bureau Federation]] · [[Lockheed Martin]] · [[Republican Jewish Coalition]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

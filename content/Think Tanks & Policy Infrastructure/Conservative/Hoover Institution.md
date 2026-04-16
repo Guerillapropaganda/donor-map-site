@@ -32,6 +32,9 @@ sec-form-types:
   - "PRE 14C"
   - "SC 13D"
   - "SC 13D/A"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #think-tank #conservative #free-market #defense #economics #education #Stanford #class-analysis

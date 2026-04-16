@@ -16,6 +16,9 @@ nonprofit-status: "501(c)(3)"
 last-enriched: "2026-04-10"
 total-revenue: 27461394
 total-assets: 121069620
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #think-tank #conservative #neoconservative #foreign-policy #defense #china-hawk #taiwan #national-security #class-analysis

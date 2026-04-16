@@ -10,6 +10,10 @@ known-gaps:
   - "Tier 1 source migration needed before editor-vouched. Sources section has 0 Tier 1 entries , only 5 Tier 2 journalism citations (Michigan Advance, Bridge Michigan, American Prospect, etc). The fundraising totals and donor composition breakdowns in the body need FEC primary sources to back them. Add: FEC candidate pages for Haley Stevens, Mallory McMorrow, Abdul El-Sayed, Mike Rogers; FEC committee page for Great Lakes Conservatives Fund; FEC individual contribution search for Tim Dunn's Texas oil network giving. Current source-tier: 2 is correct, but hallucination-catcher's every-claim-sourced gate will continue to fail against the dollar-amount body claims until Tier 1 citations are added. Editor-only work per the URL fixing scope boundary."
 
 related: "[[_Abdul El-Sayed Master Profile]] · [[_Mallory McMorrow Master Profile]] · [[_Mike Rogers Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Great Lakes Conservatives Fund|Great Lakes Conservatives Fund]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #senate #michigan #race-frame #analysis
 tags: #story

@@ -5,7 +5,11 @@ content-readiness: ready
 last-updated: 2026-04-15
 source-tier: 1
 parent: [[_JD Vance Master Profile]]
-related: "[[Narya Capital and the Venture Capital Pipeline]] · [[_JD Vance Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[The Thiel Pipeline - From Yale to VP]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]]"
+related: "[[Narya Capital and the Venture Capital Pipeline]] · [[_JD Vance Master Profile]] · [[Elon Musk]] · [[Peter Thiel]] · [[Marc Andreessen & Horowitz]] · [[_David Sacks Master Profile|David Sacks]] · [[Crypto Industry Bloc]] · [[The Thiel Pipeline - From Yale to VP]] · [[David Sacks (Donor Network)]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donor-network #2024-election #silicon-valley
 

@@ -45,6 +45,8 @@ occ-charter-numbers:
 occ-cmp-dollars: 11000
 cross-vault-triangulation-count: 24
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 6
+epa-states: "FL, MN, NJ, UT, WA"
 ---
 
 <!-- auto:data-panel start -->
@@ -499,6 +501,19 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Blackstone%20Group%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 6 |
+| States | 5 (FL, MN, NJ, UT, WA) |
+| Registry IDs | 110009833733, 110070603741, 110032637804, 110037462689, 110071958710 +1 more |
+
+**Facility locations:** EAST BRUNSWICK TWP, NJ, PARK CITY, UT, ROCHESTER, MN, DAVIE, FL, IVINS, UT, SAMMAMISH, WA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

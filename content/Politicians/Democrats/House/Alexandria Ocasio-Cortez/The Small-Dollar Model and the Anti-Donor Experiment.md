@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Alexandria Ocasio-Cortez Master Profile]]
 related: "[[The Green New Deal - From Resolution to Reality]] · [[The Endorsement Economy - Courage to Change PAC]] · [[_Alexandria Ocasio-Cortez Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Hakeem Jeffries Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #aoc #small-dollar #fundraising #actblue #no-corporate-pac #donor-model #class-analysis #campaign-finance
 

@@ -42,6 +42,10 @@ sec-form-types:
   - PX14A6G
   - S-1
   - S-1/A
+checklist-na:
+  - "regulatory: auto: entity type \"lobbying-firm\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"lobbying-firm\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #lobbying #k-street #trump #revolving-door #fara #foreign-government #tech #defense #pharma #energy #crypto

@@ -15,6 +15,10 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[The Palantir State - Surveillance as Policy]] · [[Section 702 - The Warrantless Surveillance Expansion]] · [[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #surveillance #signal #signalgate #yemen #houthi #class-analysis #security #hegseth #waltz #classified
 

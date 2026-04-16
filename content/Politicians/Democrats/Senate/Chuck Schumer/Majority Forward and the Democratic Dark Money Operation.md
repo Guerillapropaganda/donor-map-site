@@ -6,6 +6,10 @@ last-updated: 2026-04-08
 source-tier: 1
 parent: [[_Chuck Schumer Master Profile]]
 related: "[[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[_Chuck Schumer Master Profile]] · [[The McConnell Dark Money Empire - SLF and One Nation]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #schumer #dark-money #majority-forward #super-pac #class-analysis #follow-the-money
 

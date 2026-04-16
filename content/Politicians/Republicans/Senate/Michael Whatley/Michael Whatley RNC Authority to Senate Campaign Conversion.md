@@ -6,6 +6,10 @@ last-updated: 2026-04-12
 source-tier: 2
 parent: [[_Michael Whatley Master Profile]]
 related: "[[_Michael Whatley Master Profile|Michael Whatley]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[Trump Donor Network - The Full Map|Trump Donor Network]] · [[Susan B. Anthony Pro-Life America PAC]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #politician #republican #rnc #conflict-of-interest #senate #donor-machine #2026-candidate
 tags: #republican

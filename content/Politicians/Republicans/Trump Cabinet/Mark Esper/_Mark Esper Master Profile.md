@@ -13,6 +13,7 @@ source-types:
   - Congress
 donors: "[[Raytheon (RTX Corporation)]]"
 related: "[[Raytheon (RTX Corporation)]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 

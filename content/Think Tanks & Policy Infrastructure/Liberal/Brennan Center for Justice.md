@@ -21,6 +21,8 @@ regulatory-agencies:
   - "General Services Administration"
   - "National Aeronautics and Space Administration"
   - "Small Business Administration"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #liberal #voting-rights #democracy #criminal-justice #campaign-finance #class-analysis

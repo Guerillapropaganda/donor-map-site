@@ -41,6 +41,7 @@ known-gaps:
 related: "[[_Jim Himes Master Profile|Jim Himes]] · [[Everytown for Gun Safety]] · [[_Elizabeth Warren Master Profile|Warren]] · [[_Richard Blumenthal Master Profile|Blumenthal]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Blue Cross Blue Shield Association]] · [[Michael Bloomberg]] · [[Insurance Industry]] · [[Defense Contractors]] · [[_Joe Biden Master Profile]]"
 last-enriched: "2026-04-11"
 bioguide-id: "M001169"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

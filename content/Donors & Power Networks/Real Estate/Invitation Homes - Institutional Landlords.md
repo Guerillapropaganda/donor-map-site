@@ -22,6 +22,8 @@ reenrich-reason: "run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 5
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -260,6 +262,19 @@ The PE landlord bloc's success in blocking 15+ major federal/state rent protecti
 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Invitation%20Homes%20-%20Institutional%20Landlords) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 1 (CA) |
+| Registry IDs | 110071520362, 110070430833, 110070575107, 110070852289, 110071459383 |
+
+**Facility locations:** SANTA CLARITA, CA, ANAHEIM, CA, SIMI VALLEY, CA, LOS ANGELES, CA, GOLD RIVER, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

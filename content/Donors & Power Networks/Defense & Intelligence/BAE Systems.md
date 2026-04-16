@@ -27,7 +27,7 @@ court-jurisdictions:
   - District Court, S.D. New York
   - District Court, S.D. Texas
   - District Court, W.D. Oklahoma
-federal-awards-total: 1694356217
+federal-awards-total: 12748073526
 federal-contracts-count: 25
 federal-grants-count: 17
 nhtsa-recalls: 0
@@ -46,7 +46,7 @@ top-federal-agency: National Aeronautics and Space Administration
 top-naics-code: "336992"
 lobbying-spend: 10640000
 lobbying-filings: 50
-federal-contracts: "815648"
+federal-contracts: 8140
 federal-register-mentions: 651
 regulatory-agencies:
   - Antitrust Division
@@ -57,6 +57,8 @@ regulatory-agencies:
   - Transportation Department
 cross-vault-triangulation-count: 8
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 33
+epa-states: "AL, AR, AZ, CA, FL, MA, MD, NH, OH, OK, PA, SC, TX, VA"
 ---
 
 <!-- auto:data-panel start -->
@@ -216,32 +218,25 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $1.7B |
-| Contracts (recent 3yr) | 25 ($42.5B sampled) |
-| Grants (recent 3yr) | 17 ($164.9M sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 8,140 |
+| Total Obligation | $12,748,073,526 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 12 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $7.1B | Department of Defense | 200502!000833!2100!W56HZV!TACOM - WARREN                  !DAAE0703CS023  !A!N! !N!             !P00 |
-| $4.1B | Department of Defense | PROCUREMENT OF 10,000 FAMILY OF MEDIUM TACTICAL VEHICLES.  ALSO ADDING PROGRAM SUPPORT AND FEDERAL R |
-| $3.7B | Department of Defense | IGF::OT::IGF |
-| $2.9B | Department of Defense | LETTER CONTRACT FOR EARLY PROCUREMENT MATERIAL TO SUPPORT THE M109A7/M992A3 VEHICLE PRODUCTION. |
-| $2.5B | Department of Defense | EARLY ORDER MATERIAL IN SUPPORT OF THE FUTURE PURCHASE OF 197 AMPVS AND FACILITY CAPACITY EXPANSION  |
+- Department of Defense: $12,411,654,166
+- Department of Justice: $159,794,654
+- Department of Homeland Security: $125,449,706
+- General Services Administration: $34,769,742
+- Department of Labor: $8,999,432
+- Pension Benefit Guaranty Corporation: $6,761,957
+- National Aeronautics and Space Administration: $544,689
+- Department of Commerce: $99,165
+- Department of the Interior: $93,271
+- Department of Transportation: $35,717
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $74.4M | Department of Defense | MICRO AUTONOMOUS SYSTEMS AND TECHNOLOGY CTA |
-| $45.3M | Department of Defense | TAS: : 97X0360: : TAS DEFENSE PRODUCTION ACT TITLE III SPACE INDUSTRIAL BASE COUNCIL (SIBC) NEXT GEN |
-| $7.2M | Department of Defense | TAS::57 73600 TAS:: SHORT-GATE HIGH-EFFICIENCY GALLIUM NITRIDE (GAN) MONOLITHIC MICROWAVE INTEGRATED |
-| $6.2M | Department of Defense | MANTECH ARL COOPERATIVE AGREEMENT W911NF-12-R-0011 |
-| $5.9M | National Aeronautics and Space Administration | OBSERVATIONS AT 1KM HORIZONTAL RESOLUTION ARE NEEDED TO RESOLVE THE FINE THERMODYNAMIC PHASE STRUCTU |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-BAE%20Systems) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Vehicle Safety (NHTSA)
@@ -420,6 +415,19 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22BAE%20Systems%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 33 |
+| States | 14 (AL, AR, AZ, CA, FL, MA, MD, NH, OH, OK, PA, SC, TX, VA) |
+| Registry IDs | 110002606591, 110002943450, 110020050665, 110024415015, 110012173101 +28 more |
+
+**Facility locations:** TUCSON, AZ, SAN DIEGO, CA, SEALY, TX, ANNISTON, AL, MANASSAS, VA, MOJAVE, CA, CRESTVIEW, FL, STERLING, VA, POMPANO BEACH, FL, SAN JOSE, CA +19 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

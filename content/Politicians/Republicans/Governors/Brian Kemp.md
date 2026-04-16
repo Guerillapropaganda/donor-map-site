@@ -13,6 +13,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[Koch Network - Charles Koch]] · [[_Donald Trump Master Profile]] · [[Miriam Adelson]]"
+urls-first-triaged: "2026-04-15"
 ---
 #brian-kemp #governor #georgia #corporate-republican #election-certification #sb-202 #class-analysis
 tags: #republican

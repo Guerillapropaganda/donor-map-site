@@ -6,6 +6,10 @@ last-updated: 2026-04-15
 source-tier: 2
 parent: null
 related: "[[Illinois House Primaries 2026 - The PAC Laboratory]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Georgia 2026 Senate Race]] · [[Harris-Newsom Donor Class Fracture]] · [[Intra-Democratic Contradiction Map - The Progressive vs Moderate Illusion]] · [[Geographic Donor Clustering - Where the Money Actually Comes From]] · [[AIPAC Illinois Shell PAC Operation]] · [[Fairshake PAC]] · [[2026 House Money Map]] · [[_Mike Lawler Master Profile|Mike Lawler]] · [[Intra-Republican Contradiction Map]] · [[Trump-Newsom Donor Class Mirror - Same Money, Different Rhetoric]] · [[Schumer-McConnell Senate Leadership Mirror - Same Money, Different Caucuses]] · [[Pelosi-McCarthy House Leadership Mirror - Same Corporate Apparatus, Different Brand]] · [[How Money Captures Media , The Donor Map Media Pipeline]] · [[Booker-Scott Donor Class Mirror - Two Black Senators, One Donor Class]] · [[Tech Billionaires Switch Parties on Regulatory Self-Interest]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Crypto Industry Buys Both Parties in One Cycle]] · [[ALEC Legislative Language Layer - Who Actually Writes the Laws]] · [[2028 Presidential Landscape]] · [[Illinois 2026 Senate Race]] · [[Adelson 250M Republican Kingmaker Pledge]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #2026-election #house #new-york #race-frame
 

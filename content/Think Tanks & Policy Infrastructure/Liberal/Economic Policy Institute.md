@@ -56,6 +56,8 @@ sec-form-types:
   - "PX14A6G"
   - "PX14A6N"
   - "S-6"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #liberal #labor #economic-policy #minimum-wage #pro-act #nlrb #revolving-door

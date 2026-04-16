@@ -6,6 +6,10 @@ last-updated: 2026-04-02
 source-tier: 1
 parent: null
 related: "[[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Rick Scott Master Profile|Rick Scott]] · [[Bacardi - Bacardi USA]] · [[Helms-Burton Title III and the Bacardi Trademark Wars]] · [[MasTec - Mas Canosa Family]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[The Defense Spending Bipartisan Consensus]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #cuba #flotilla #convoy #embargo #donor-class #media-attack #class-analysis #follow-the-money #code-pink #hasan-piker #ryan-grim #fanjul #rubio #salazar #sugar #blockade #2026 #featured
 

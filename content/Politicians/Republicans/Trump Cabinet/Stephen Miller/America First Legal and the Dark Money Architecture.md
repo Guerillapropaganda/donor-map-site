@@ -11,6 +11,10 @@ related: "[[_Stephen Miller Master Profile]] · [[_Russell Vought Master Profile
 aliases:
   - "America First Legal"
   - "AFL"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #stephen-miller #america-first-legal #dark-money #bradley-impact-fund #donorstrust #conservative-partnership-institute #class-analysis
 

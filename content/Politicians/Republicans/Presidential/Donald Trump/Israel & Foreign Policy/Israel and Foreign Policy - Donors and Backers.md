@@ -10,6 +10,10 @@ known-gaps:
   - "No FEC contribution data"
   - "No legislative record from Congress.gov"
   - "No voting record data"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #donald-trump #israel #foreign-policy #donors #backers #adelson #aipac #kushner #saudi-arabia #defense-contractors #follow-the-money #research-node
 

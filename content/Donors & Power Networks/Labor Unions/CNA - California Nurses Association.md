@@ -19,6 +19,12 @@ related: "[[Tom Steyer Master Profile]] · [[Senate Labor Record and Anti-DOGE R
 last-enriched: "2026-04-09"
 cross-vault-triangulation-count: 16
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
+federal-contracts: 6
+federal-awards-total: 148442
 ---
 
 <!-- auto:data-panel start -->
@@ -214,6 +220,22 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: CNA
 - ... and 3 more years
 
 <!-- auto:nonprofit-990 end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 6 |
+| Total Obligation | $148,442 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 1 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $148,442
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

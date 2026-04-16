@@ -10,7 +10,7 @@ entity-type: Corporation
 politicians-funded: "[[Donald Trump]], [[Tom Cole]], [[Jeanne Shaheen]], [[John Ratcliffe]], [[Roger Wicker]], [[Adam Smith]]"
 issues:
   - Defense & Military
-federal-contracts: "94260"
+federal-contracts: 8319
 ein: "956095343"
 annual-revenue: $15.1M
 net-assets: $31.0M
@@ -57,7 +57,7 @@ sec-form-types:
   - SC 14D9/A
   - SC TO-T/A
   - SCHEDULE 13G/A
-federal-awards-total: 9185964914
+federal-awards-total: 22507257508
 federal-contracts-count: 25
 federal-grants-count: 12
 related: "[[Palantir Technologies Political Operation]] · [[Think Tank Capture - Foreign Governments Writing US Policy]] · [[Defense Contractor 450000 Percent ROI]] · [[Boeing Defense]] · [[Defense Contractor Conflicts and Stock Holdings]] · [[The China Hawk and National Security State]] · [[Raytheon Technologies]] · [[General Dynamics]] · [[Booz Allen Hamilton]] · [[Raytheon (RTX Corporation)]] · [[John Ratcliffe Master Profile]] · [[The Defense Contractor Revolving Door and the Consulting Pipeline]] · [[L3 Technologies]] · [[The Defense Appropriations Pipeline - Mississippi Military Spending]] · [[The Veterans Affairs Committee and Kansas Defense]] · [[The Armed Services Committee and Nebraska Defense]] · [[Tom Cole]] · [[The Appropriations Gavel and the Spending Cartel]] · [[The National Security-to-Senate Pipeline]] · [[The Armed Services Committee and Defense Contractor Pipeline]] · [[Volodymyr Zelenskyy]] · [[The Energy Committee and Nuclear-Renewables Axis]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon (RTX)]] · [[Israel and Foreign Policy - Donors and Backers]] · [[The Iran War Money Trail - From Adelson to Airstrikes]] · [[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Jeanne Shaheen Master Profile]] · [[Koch Industries]] · [[ExxonMobil]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E - Pacific Gas and Electric]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]]"
@@ -79,6 +79,8 @@ cross-vault-triangulation-count: 25
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 ftc-enforcement-actions: 1
 ftc-hsr-notices: 13
+epa-facilities: 38
+epa-states: "AZ, CA, CO, FL, GA, LA, MD, MN, MO, MS, NY, OH, TX, UT, VA"
 ---
 
 <!-- auto:data-panel start -->
@@ -438,32 +440,25 @@ Northrop Grumman represents the defense sector's most refined form of structural
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $9.2B |
-| Contracts (recent 3yr) | 25 ($81.0B sampled) |
-| Grants (recent 3yr) | 12 ($46.2M sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 8,319 |
+| Total Obligation | $22,507,257,508 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 13 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $11.7B | Department of Defense | GROUND-BASED STRATEGIC DETERRENT (GBSD) ENGINEERING AND MANUFACTURING DEVELOPMENT (EMD) AND EARLY PR |
-| $10.0B | Department of Defense | 200506!000026!5700!FA8214!OO-ALC/PKME/LMKE                !F4261098C0001  !A!N! !Y!             !P01 |
-| $8.5B | Department of Defense | E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-7) |
-| $5.4B | Department of Defense | E-2D ADVANCED HAWKEYE AIRCRAFT (FRP-2) |
-| $4.4B | National Aeronautics and Space Administration | FIRST DDT AND E, ARES I-X, AND FLIGHT TESTS.  FIRST STAGE WILL BE A FIVE SEGMENT, SOLID ROCKET BOOST |
+- Department of Defense: $20,736,394,428
+- National Aeronautics and Space Administration: $1,579,034,058
+- Department of Homeland Security: $104,353,490
+- General Services Administration: $34,475,601
+- Department of Transportation: $23,310,674
+- Department of Health and Human Services: $18,898,237
+- Department of the Interior: $7,589,206
+- Department of Housing and Urban Development: $2,525,984
+- Department of Commerce: $532,344
+- Department of State: $245,634
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $18.9M | Department of Defense | DEFENSE PRODUCTION ACT (DPA) TITLE III SCALABLE COMPOSITE ROBOTIC ADDITIVE MANUFACTURING (SCRAM) FOR |
-| $6.8M | National Aeronautics and Space Administration | NORTHROP GRUMMAN AEROSPACE SYSTEMS (NGAS) PROPOSES TO BUILD AND DEMONSTRATE AN INTEGRATED PHOTONIC I |
-| $4.4M | National Aeronautics and Space Administration | SMART ICE CLOUD SENSING |
-| $4.3M | National Aeronautics and Space Administration | PARTICIPATION IN THE NASA HIGH-RATE COMPOSITES AIRCRAFT MANUFACTURING (HICAM) PROJECT PHASE 1  PERFO |
-| $4.0M | Department of Defense | THIS EFFORT WILL ACCELERATE THE 70 NM ADVANCED INP HEMT TECHNOLOGY MATURATIONY TRANSITION AND INCREA |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/fbe19298-837a-c0c2-9e1d-ff4c0a5ad25a-P/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Subawards & Spending Breakdown
@@ -663,6 +658,19 @@ Northrop Grumman represents the defense sector's most refined form of structural
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Northrop%20Grumman) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 38 |
+| States | 15 (AZ, CA, CO, FL, GA, LA, MD, MN, MO, MS, NY, OH, TX, UT, VA) |
+| Registry IDs | 110003410782, 110000910257, 110009553731, 110005599557, 110009693625 +33 more |
+
+**Facility locations:** SIERRA VISTA, AZ, HAWTHORNE, CA, SAN DIEGO, CA, ORLANDO, FL, MELBOURNE, FL, LINTHICUM, MD, MINNETONKA, MN, BELCAMP, MD, MOSS POINT, MS, CHESAPEAKE, VA +22 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

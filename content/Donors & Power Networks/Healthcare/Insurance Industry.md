@@ -35,6 +35,8 @@ lobbying-spend: 25607025
 lobbying-filings: 107
 cross-vault-triangulation-count: 17
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

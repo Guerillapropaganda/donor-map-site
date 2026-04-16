@@ -6,6 +6,7 @@ last-updated: 2026-04-08
 source-tier: null
 parent: null
 related: "[[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Research Methodology and Data Sources]] · [[_VAULT_INDEX]] · [[Think Tank & Policy Infrastructure Framework]] · [[Lobbying Firms & K Street Framework]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 #media-pipeline #methodology #framework #class-analysis

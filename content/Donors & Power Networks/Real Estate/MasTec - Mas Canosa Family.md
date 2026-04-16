@@ -30,6 +30,11 @@ known-gaps:
   - No SEC corporate filings
 cross-vault-triangulation-count: 10
 audit-a-plus-passed: "2026-04-11"
+urls-first-triaged: "2026-04-15"
+epa-facilities: 5
+epa-states: "AZ, CA, MN, NC"
+federal-contracts: 6
+federal-awards-total: -2340741
 ---
 
 <!-- auto:data-panel start -->
@@ -229,3 +234,36 @@ The Mas Canosa family represents the structural intersection of exile politics a
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 5 |
+| States | 4 (AZ, CA, MN, NC) |
+| Registry IDs | 110050668531, 110050892021, 110071687701, 110070571877, 110071475081 |
+
+**Facility locations:** SACRAMENTO, CA, TUCSON, AZ, ROCHESTER, MN
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 6 |
+| Total Obligation | $-2,340,741 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
+
+**Top awarding agencies:**
+
+- National Gallery of Art: $26,274
+- Department of Homeland Security: $4,716
+- Department of Transportation: $-2,371,731
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->

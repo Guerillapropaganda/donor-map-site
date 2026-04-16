@@ -14,6 +14,12 @@ needs-reenrichment: true
 reenrich-reason: run fec pipeline
 cross-vault-triangulation-count: 8
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
+federal-contracts: 2
+federal-awards-total: 26301
 ---
 
 <!-- auto:data-panel start -->
@@ -109,6 +115,23 @@ The IBEW national PAC ($13.45M raised in 2024 cycle) places Local 440 within a l
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 2 |
+| Total Obligation | $26,301 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $16,318
+- Department of Veterans Affairs: $9,983
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

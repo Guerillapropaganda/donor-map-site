@@ -13,6 +13,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Chad Bianco Master Profile|Chad Bianco]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
+urls-first-triaged: "2026-04-15"
 ---
 #steve-hilton #republican #california #governor-2026 #conservative-media #fox-news #tech-money #deregulation
 

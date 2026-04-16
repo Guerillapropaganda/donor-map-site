@@ -51,6 +51,9 @@ wikidata-id: Q5001792
 wikipedia-url: https://en.wikipedia.org/wiki/Business_Roundtable
 wikipedia-extract: The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washington, D.C. whose members are chief executive officers of major U.S. companies.
 total-political-spend: $110,825
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

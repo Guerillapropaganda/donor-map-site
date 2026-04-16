@@ -45,6 +45,7 @@ known-gaps:
 opposes: "[[SENATE MAJORITY PAC]]"
 related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
 donors: "[[Defending Main Street Superpac INC]], [[US CHAMBER OF COMMERCE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[TAKE ME HOME WV ACTION]], [[Senate Majority PAC]], [[DEFENDING MAIN STREET SUPERPAC INC]], [[US Chamber of Commerce]], [[Koch network]], [[Take Me Home WV Action]], [[Koch Network]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -16,6 +16,10 @@ known-gaps:
 ein: "884013706"
 nonprofit-status: "501(c)(4)"
 last-enriched: "2026-04-10"
+checklist-na:
+  - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"pac\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

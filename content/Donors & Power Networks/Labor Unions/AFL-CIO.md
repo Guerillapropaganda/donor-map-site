@@ -43,6 +43,9 @@ regulatory-agencies:
 related: "[[The Progressive Caucus and the Squad's Institutional Wing]] · [[Adam Schiff]] · [[Brendan Boyle]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[SEIU - Service Employees International Union|SEIU]] · [[AFSCME - American Federation of State County and Municipal Employees|AFSCME]] · [[Teamsters - International Brotherhood of Teamsters|Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers|IBEW]] · [[UAW - United Auto Workers|UAW]] · [[National Education Association|NEA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[United Farm Workers]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]]"
 cross-vault-triangulation-count: 15
 audit-a-plus-passed: "2026-04-11"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

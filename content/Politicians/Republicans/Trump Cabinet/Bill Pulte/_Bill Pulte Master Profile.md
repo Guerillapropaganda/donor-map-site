@@ -11,6 +11,7 @@ chamber: "Cabinet"
 issues:
   - "Housing"
 related: "[[National Rental Home Council]] · [[National Multifamily Housing Council]] · [[Donald Trump]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

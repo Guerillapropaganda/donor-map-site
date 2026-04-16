@@ -10,6 +10,10 @@ source-types:
 known-gaps:
   - "No mapped relationships"
 related: "[[_Jon Ossoff Master Profile]] · [[_Raphael Warnock Master Profile]] · [[_Bernie Sanders Master Profile]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #jon-ossoff #investigative-journalism #documentary-filmmaker #senate-record #establishment #brand-gap
 

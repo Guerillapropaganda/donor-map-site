@@ -42,6 +42,8 @@ sec-form-types:
   - "SCHEDULE 13G"
   - "SCHEDULE 13G/A"
   - "TEXT-EXTRACT"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #liberal #tech-policy #google #silicon-valley #national-security #education #obama-pipeline #class-analysis

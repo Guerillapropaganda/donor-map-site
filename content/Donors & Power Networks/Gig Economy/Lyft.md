@@ -21,7 +21,7 @@ top-federal-agency: Department of the Interior
 top-naics-code: "561599"
 lobbying-spend: 3410000
 lobbying-filings: 36
-federal-awards-total: 6002
+federal-awards-total: -27589
 federal-contracts-count: 10
 federal-grants-count: 0
 lei: 549300H7I5VN334XVZ52
@@ -67,6 +67,9 @@ sec-form-types:
   - SCHEDULE 13G/A
 cross-vault-triangulation-count: 13
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 3
+epa-states: "CA"
+federal-contracts: 17
 ---
 
 <!-- auto:data-panel start -->
@@ -294,22 +297,18 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $6K |
-| Contracts (recent 3yr) | 10 ($235K sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 5 |
+| Federal Contracts | 17 |
+| Total Obligation | $-27,589 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $77K | Department of the Interior | RIDESHARE SERVICE LYFT |
-| $40K | Department of Energy | PROVIDE THE U.S. DEPARTMENT OF ENERGY (DOE) WITH RIDESHARE SERVICES UNDER THE GSA RIDESHARE BLANKET  |
-| $30K | Department of State | RIDESHARE SERVICES AT HST |
-| $28K | Department of the Interior | PEACE CORPS BICYCLE SHARING PROGRAM |
-| $24K | Department of Veterans Affairs | VA EMPLOYEE RIDESHARE SERVICES |
+- Department of Veterans Affairs: $26,587
+- Department of Energy: $9,200
+- Department of the Interior: $-63,376
 
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/dd740621-7bb8-7375-766e-de19ead4b3f9-C/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Corporate Structure (GLEIF)
@@ -364,6 +363,19 @@ Climate/EV. Prop 30 ($8M spent, Newsom opposed)
 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Lyft%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 1 (CA) |
+| Registry IDs | 110070593141, 110070655490, 110070676461 |
+
+**Facility locations:** MOUNTAIN VIEW, CA, SANTA MONICA, CA, FREMONT, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -8,6 +8,9 @@ parent: null
 issues:
   - "Wall Street & Finance"
 related: "[[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Goldman Sachs]] · [[_Donald Trump Master Profile|Donald Trump]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Ted Cruz Master Profile|Ted Cruz]] · [[Cory Booker]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
 ---
 #investigation #contradiction #goldman-sachs #both-sides #wall-street #revolving-door #class-analysis
 tags: #analysis #story

@@ -8,6 +8,10 @@ parent: [[_Bernie Sanders Master Profile]]
 known-gaps:
   - "No mapped relationships"
 related: "[[_Bernie Sanders Master Profile]] · [[SEIU - Service Employees International Union]] · [[CNA - California Nurses Association]] · [[Teamsters - International Brotherhood of Teamsters]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[DOGE - The Billionaires Government]] · [[Elon Musk]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #sanders #labor #senate #budget-committee #amazon #walmart #pro-act #doge #resistance #class-analysis #follow-the-money
 

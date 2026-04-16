@@ -31,6 +31,7 @@ needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 donors: "[[Lawrence Summers]] · [[Google - Alphabet]] · [[Preserve America]] · [[Larry Ellison]] · [[MAKE AMERICA GREAT AGAIN INC.]] · [[UFCW - United Food and Commercial Workers]] · [[Restoration PAC]] · [[Laurene Powell Jobs]] · [[Democratic Small Dollar Networks]] · [[UnitedHealth Group - Optum]] · [[Food and Water Action]] · [[Jeffrey Katzenberg]] · [[Michael Bloomberg]] · [[California Labor Federation]] · [[AIPAC - American Israel Public Affairs Committee]] · [[UNITE HERE]] · [[Teamsters - International Brotherhood of Teamsters]] · [[CNA - California Nurses Association]] · [[FF PAC]] · [[Chris Larsen]] · [[Haim Saban]] · [[Blue Shield of California]] · [[David McIntosh]] · [[Ken Griffin]] · [[Eric Schmidt]] · [[SEIU - Service Employees International Union]] · [[Miriam Adelson]] · [[Reed Hastings]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

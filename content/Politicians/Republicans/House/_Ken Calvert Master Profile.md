@@ -33,6 +33,7 @@ known-gaps:
   - No mapped relationships
 related: "[[Raytheon (RTX)|Raytheon PAC]]"
 donors: "[[Elon Musk]], [[Edf Action Votes]], [[EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)]], [[HMP]], [[LCV VICTORY FUND]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

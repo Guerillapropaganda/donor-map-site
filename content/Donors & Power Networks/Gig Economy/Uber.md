@@ -98,6 +98,8 @@ court-jurisdictions:
   - District Court, W.D. Texas
 cross-vault-triangulation-count: 14
 audit-a-plus-passed: "2026-04-11"
+epa-facilities: 3
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -492,6 +494,19 @@ Trump administration, deregulatory alignment, inauguration donations
 - H. v. Uber Technologies, Inc. (2026) — District Court, N.D. California
 
 <!-- auto:courtlistener-cases end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 3 |
+| States | 1 (CA) |
+| Registry IDs | 110070853816, 110070854840, 110070854841 |
+
+**Facility locations:** SACRAMENTO, CA, WEST SACRAMENTO, CA, SANTA CRUZ, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

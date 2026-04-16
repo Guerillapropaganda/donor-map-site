@@ -10,6 +10,10 @@ entity-type: "Story"
 issues:
   - "Dark Money & Campaign Finance"
 related: "[[The Both-Sides Dark Money Illusion]] · [[DonorsTrust]] · [[New Venture Fund]] · [[Sixteen Thirty Fund]] · [[Marble Freedom Trust]] · [[Bradley Impact Fund]] · [[Majority Forward]] · [[Koch vs Soros Mirror Image Dark Money Machines]] · [[CREW - Citizens for Responsibility and Ethics in Washington]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

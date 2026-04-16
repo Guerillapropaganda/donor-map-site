@@ -10,6 +10,10 @@ issues:
 related: "[[Koch vs Soros Mirror Image Dark Money Machines]] · [[Dark Money Networks - The Shadow System]] · [[Arabella Advisors]] · [[DonorsTrust]] · [[Sixteen Thirty Fund]] · [[Federalist Society]] · [[Demand Justice]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #dark-money #both-sides #democrats #republicans #arabella #donors-trust #501c4 #transparency
 

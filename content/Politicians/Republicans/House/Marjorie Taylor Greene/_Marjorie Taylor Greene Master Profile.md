@@ -22,6 +22,7 @@ known-gaps:
 opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 donors: "[[The Lincoln Project]], [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[A GREAT AMERICA PAC]], [[THE LINCOLN PROJECT]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[A Great America PAC]], [[DRAIN THE DC SWAMP PAC]], [[Drain the DC Swamp PAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

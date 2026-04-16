@@ -10,7 +10,7 @@ entity-type: Corporation
 politicians-funded: "[[Roger Wicker]], [[Jack Reed]], [[Mike Rogers]], [[Rosa DeLauro]], [[Adam Smith]], [[Tammy Duckworth]], [[Tom Cole]], [[Lindsey Graham]], [[Colin Powell]], [[Ken Calvert]], [[Kay Granger]]"
 issues:
   - Defense & Military
-federal-awards-total: 51259703736
+federal-awards-total: 126929025758
 federal-contracts-count: 25
 federal-grants-count: 25
 ein: 946107683
@@ -33,6 +33,9 @@ needs-reenrichment: true
 reenrich-reason: run lda pipeline
 cross-vault-triangulation-count: 24
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 47
+epa-states: "AL, AR, AZ, CA, FL, KY, MA, MD, MI, NY, OH, PA, TX, UT, VA"
+federal-contracts: 66615
 ---
 
 <!-- auto:data-panel start -->
@@ -302,32 +305,25 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $51.3B |
-| Contracts (recent 3yr) | 25 ($353.8B sampled) |
-| Grants (recent 3yr) | 25 ($75.0M sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 66,615 |
+| Total Obligation | $126,929,025,758 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 11 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $48.1B | Department of Energy | — |
-| $35.1B | Department of Defense | LRIP LOT 12 ADVANCE ACQUISITION CONTRACT |
-| $34.2B | Department of Defense | 200204!008532!1700!AF600 !NAVAL AIR SYSTEMS COMMAND       !N0001902C3002  !A!N! !N!                  |
-| $30.1B | Department of Defense | THE PURPOSE OF THIS MODIFICATION IS TO AWARD F-35A LRIP 15 USAF  AIRCRAFT* LONG LEAD FUNDING |
-| $24.5B | Department of Defense | THE PURPOSE OF THIS CONTRACT IS TO AWARD LONG LEAD FUNDING FOR F-35A, F-35B, AND F-35C AIRCRAFT FOR  |
+- Department of Defense: $123,592,748,208
+- National Aeronautics and Space Administration: $2,734,970,929
+- Department of Commerce: $364,259,233
+- Department of Homeland Security: $160,496,652
+- Department of Transportation: $60,221,583
+- Department of Justice: $20,543,487
+- General Services Administration: $7,708,817
+- Department of the Interior: $4,008,178
+- Environmental Protection Agency: $-831,821
+- Department of Energy: $-6,500,000
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $14.4M | Department of Defense | CAPABILITY-BASED OPERATIONS SUSTAINMENT TECHNOLOGY AVIATION |
-| $11.2M | Department of Defense | AIRCRAFT AND AIRCREW PROTECTION - PHASE I |
-| $9.1M | Department of Defense | AUTONOMOUS SUSTAINMENT TECHNOLOGIES FOR ROTORCRAFT OPERATIONS TECHNICAL AREA: PROPULSION |
-| $8.9M | Department of Defense | FUTURE ADVANCED ROTORCRAFT DRIVE SYSTEM |
-| $7.7M | Department of Defense | HIGH SPEED, HIGHLY EFFICIENT ROTOR PROGRAM |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-Lockheed%20Martin) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Financial Overview (990 Filing — 2014)
@@ -633,6 +629,19 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Lockheed%20Martin) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 47 |
+| States | 15 (AL, AR, AZ, CA, FL, KY, MA, MD, MI, NY, OH, PA, TX, UT, VA) |
+| Registry IDs | 110009456267, 110008280001, 110009527690, 110002839929, 110000609547 +42 more |
+
+**Facility locations:** HUNTSVILLE, AL, BURBANK, CA, SAN JOSE, CA, CHELMSFORD, MA, DEARBORN, MI, BETHESDA, MD, LAKE SUCCESS, NY, OWEGO, NY, DEWITT, NY, DE WITT, NY +26 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

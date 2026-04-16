@@ -14,6 +14,9 @@ reports/
 content/Vault Maintenance/Pipeline Reports/
 .claude/worktrees/
 .env
+# Bulk CSV downloads (too large for git — processed output goes to data/*.jsonl)
+data/bulk/
+
 ops/.next/
 ops/.env.local
 ops/data/

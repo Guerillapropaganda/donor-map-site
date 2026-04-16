@@ -39,7 +39,7 @@ top-naics-code: "522110"
 nonprofit-status: 501(c)(3)
 total-revenue: 218843611
 total-assets: 10062101
-federal-awards-total: 180306
+federal-awards-total: -331190
 federal-contracts-count: 4
 federal-grants-count: 3
 sec-filings: 10000
@@ -69,6 +69,9 @@ occ-charter-numbers:
 occ-cmp-dollars: 491299530
 cross-vault-triangulation-count: 10
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 448
+epa-states: "CA, CO, CT, FL, GA, IA, IL, IN, KY, MA, MI, MO, NH, NJ, NM, NV, NY, RI, UT, VA, WA, WV"
+federal-contracts: 3
 ---
 
 <!-- auto:data-panel start -->
@@ -280,29 +283,16 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $180K |
-| Contracts (recent 3yr) | 4 ($21.3M sampled) |
-| Grants (recent 3yr) | 3 ($552K sampled) |
-| Federal Agencies | 3 |
+| Federal Contracts | 3 |
+| Total Obligation | $-331,190 |
+| Fiscal Years | 2024 |
+| Awarding Agencies | 1 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $8.7M | Department of Defense | FISCAL YEAR 2022 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
-| $4.2M | Department of Defense | FISCAL YEAR 2021 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
-| $4.2M | Department of Defense | FISCAL YEAR 2020 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
-| $4.2M | Department of Defense | FY18 TASK ORDER FOR OVERSEAS MILITARY BANKING PROGRAM |
+- Department of Defense: $-331,190
 
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $296K | Department of the Interior | DEVELOPMENT BANK OF AMERICAN SAMOA (DBAS) CONTINUES TO SEARCH FOR AVENUES TO ADAPT TO THE CHANGES TO |
-| $256K | Department of the Interior | DBAS STEP INTO VIRTUAL BANKING |
-| $0 | Department of Agriculture | RBDG RURAL BUSINESS COOP RURAL ENTERPRISE GRANT |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/509d48f2-8c0f-b129-8f4d-2638ea28c675-R/latest) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### SEC Filing Activity
@@ -419,6 +409,19 @@ Bank of America occupies the consumer-facing end of Wall Street's political oper
 - [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Bank%20of%20America&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
 
 <!-- auto:occ-enforcement pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 448 |
+| States | 22 (CA, CO, CT, FL, GA, IA, IL, IN, KY, MA, MI, MO, NH, NJ, NM, NV, NY, RI, UT, VA, WA, WV) |
+| Registry IDs | 110002679646, 110001189909, 110002418287, 110002884175, 110001151645 +443 more |
+
+**Facility locations:** CONCORD, CA, LIVERMORE, CA, ANAHEIM, CA, SAN FRANCISCO, CA, LOS ANGELES, CA, FRANKLIN PARK, IL, MASON CITY, IA, CHICAGO, IL, SAGINAW, MI, ASBURY PARK, NJ +258 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -28,6 +28,10 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 cross-vault-triangulation-count: 32
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • LDA data is missing entirely. This profile was promoted to ready without ever having lda enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+epa-facilities: 225
+epa-states: "AL, CA, CO, DC, FL, GA, IL, MA, MI, NC, NV, NY, OR, PA"
+federal-contracts: 9
+federal-awards-total: 7929124
 ---
 
 <!-- auto:data-panel start -->
@@ -491,6 +495,36 @@ Google represents the most advanced form of monopoly power in the vault, one tha
 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Google%20-%20Alphabet) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 225 |
+| States | 14 (AL, CA, CO, DC, FL, GA, IL, MA, MI, NC, NV, NY, OR, PA) |
+| Registry IDs | 110038062253, 110071198745, 110071198728, 110001360492, 110032592727 +220 more |
+
+**Facility locations:** MOUNTAIN VIEW, CA, AUSTELL, GA, LITHIA SPRINGS, GA, ANN ARBOR, MI, THORNTON, CO, FREMONT, CA, PALO ALTO, CA, SAN JOSE, CA, SUNNYVALE, CA, NEW YORK, NY +26 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 9 |
+| Total Obligation | $7,929,124 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
+
+**Top awarding agencies:**
+
+- Department of Agriculture: $7,914,825
+- Department of State: $14,299
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 

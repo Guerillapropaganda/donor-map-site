@@ -8,7 +8,7 @@ parent: null
 sector: Carceral State
 entity-type: Corporation
 politicians-funded: "[[Donald Trump]], [[Chad Bianco]], [[Gavin Newsom]]"
-federal-awards-total: 552105918
+federal-awards-total: 1057092807
 federal-contracts-count: 25
 federal-grants-count: 0
 court-cases: 3058
@@ -30,7 +30,7 @@ ein: "823851866"
 annual-revenue: $511K
 net-assets: $52K
 tax-year: "2024"
-federal-contracts: "608"
+federal-contracts: 228
 subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
@@ -71,6 +71,8 @@ wikidata-id: Q1135278
 wikipedia-url: https://en.wikipedia.org/wiki/CoreCivic
 wikipedia-extract: CoreCivic, Inc. is an American private prison operator and one of the largest for-profit prison, jail and detention contractors in the United States.
 founded: "1983-01-01"
+epa-facilities: 1
+epa-states: "CA"
 ---
 
 <!-- auto:data-panel start -->
@@ -179,21 +181,17 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $559.9M |
-| Contracts (recent 3yr) | 25 ($1.9B sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
+| Federal Contracts | 228 |
+| Total Obligation | $1,057,092,807 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $557.0M | Department of Justice | DETENTION SERVICES - LAS VERGAS, NV |
-| $313.4M | Department of Justice | DETENTION SERVICES (OTAY MESA DETENTION CENTER)- FUNDED BY USMS - $40,605,970.00 |
-| $114.3M | Department of Homeland Security | DETENTION SERVICES FOR SAN DIEGO AOR AT OTAY MESA |
-| $103.7M | Department of Homeland Security | FUNDS FOR NEW TASK ORDER FOR CDF SAN DIEGO, CA. |
-| $87.9M | Department of Homeland Security | NEW TASK ORDER FOR DETENTION SERVICES AT THE OTAY MESA DETENTION CENTER |
+- Department of Justice: $571,879,388
+- Department of Homeland Security: $485,213,419
 
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 <!-- auto:usaspending pending-merge 2026-04-15 -->
@@ -606,6 +604,19 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2)
 
 <!-- auto:wikipedia pending-merge end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 1 |
+| States | 1 (CA) |
+| Registry IDs | 110072141035 |
+
+**Facility locations:** CALIFORNIA CITY, CA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

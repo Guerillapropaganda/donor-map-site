@@ -23,6 +23,7 @@ known-gaps:
   - "No legislative record from Congress.gov"
   - "No mapped relationships"
 related: "[[Sherrod Brown|Sherrod Brown]] · [[Les Wexner - Wexner Family Enterprises]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

@@ -12,6 +12,10 @@ corroboration-count: 2
 known-gaps:
   - "No mapped relationships"
 related: "[[_Jason Smith Master Profile]] · [[_Richard Neal Master Profile|Richard Neal]] · [[Goldman Sachs]] · [[Blackstone Group]] · [[US Chamber of Commerce]] · [[Business Roundtable]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #smith #ways-and-means #tax-policy #tcja #missouri #corporate-tax #carried-interest
 

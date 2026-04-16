@@ -15,6 +15,7 @@ known-gaps:
   - "No voting record data"
   - "No mapped relationships"
 related: "[[_Benjamin Netanyahu Master Profile]] · [[Bezalel Smotrich]] · [[West Bank Annexation and Settlement Expansion]] · [[One Israel Fund]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+urls-first-triaged: "2026-04-15"
 ---
 #ben-gvir #israel #far-right #settlements #otzma-yehudit #kahanist #class-analysis #follow-the-money #international
 

@@ -36,6 +36,9 @@ sec-form-types:
   - "NT 10-K"
   - "SC 13D"
   - "SC 13D/A"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #think-tank #centrist #defense #national-security #FFRDC #government-contracts #revolving-door #AI-policy #class-analysis

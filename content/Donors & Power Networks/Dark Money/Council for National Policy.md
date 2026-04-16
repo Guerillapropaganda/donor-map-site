@@ -44,6 +44,9 @@ wikidata-id: "Q1137011"
 wikipedia-url: "https://en.wikipedia.org/wiki/Council_for_National_Policy"
 wikipedia-extract: "The Council for National Policy (CNP) is an umbrella organization and networking group that advocates for conservative and Republican Party initiatives in the United States."
 total-political-spend: "$2,688"
+checklist-na:
+  - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
 ---
 
 <!-- auto:data-panel start -->

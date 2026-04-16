@@ -8,6 +8,10 @@ parent: [[_Bernie Sanders Master Profile]]
 related: "[[The Anti-Corporate Fundraising Model]] · [[_Bernie Sanders Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Tulsi Gabbard Master Profile|Tulsi Gabbard]] · [[Michael Bloomberg]]"
 source-types:
   - FEC
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #sanders #campaign-finance #2016 #2020 #class-analysis #follow-the-money #small-dollar #anti-donor #consolidation #primary
 

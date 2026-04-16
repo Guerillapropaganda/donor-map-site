@@ -7,8 +7,8 @@ source-tier: 2
 parent: null
 sector: Defense & Intelligence
 entity-type: Corporation
-federal-contracts: "442675"
-federal-awards-total: 367636564
+federal-contracts: 214
+federal-awards-total: 270699079
 federal-contracts-count: 25
 federal-grants-count: 0
 federal-register-mentions: 32
@@ -71,6 +71,8 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 ftc-enforcement-actions: 4
 ftc-hsr-notices: 1
 politicians-funded: "[[John Ratcliffe]]"
+epa-facilities: 7
+epa-states: "CA, MA"
 ---
 
 
@@ -190,22 +192,18 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 <!-- auto:usaspending start -->
 | Metric | Value |
 |--------|-------|
-| All-Time Federal Awards | $367.6M |
-| Contracts (recent 3yr) | 25 ($4.2B sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 1 |
+| Federal Contracts | 214 |
+| Total Obligation | $270,699,079 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 3 |
 
-**Top contracts:**
+**Top awarding agencies:**
 
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $456.5M | Department of Defense | 63 EACH OF THE FOLLOWING HARDWARE ITEMS FOR THE BRADLEY FIGHTING VEHICLE SYSTEM (BFVS):  THOR HMPT 8 |
-| $315.9M | Department of Defense | CEC SYSTEM PRODUCTION AND REPAIR |
-| $267.9M | Department of Defense | UNDERSEA WARFARE TRAINING RANGE (USWTR) PROGRAM REQUIREMENTS WILL PROVIDE THE CAPABILITY FOR UNDERSE |
-| $265.3M | Department of Defense | DESIGN, DEVELOPMENT, TESTING, SYSTEM SUPPORT, AND PRODUCTION OF SUBMARINE PHOTONICS MASTS |
-| $262.9M | Department of Defense | ENHANCED NIGHT VISION GOGGLE - BINOCULAR PRODUCTION SYSTEMS DELIVERY ORDER 02 |
+- Department of Defense: $243,458,520
+- General Services Administration: $26,920,559
+- Department of Homeland Security: $320,000
 
-- [Source: USASpending.gov](https://www.usaspending.gov/search/?hash=recipient-L3%20Technologies) (Tier 1) (VERIFIED)
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
 ### Federal Register Activity
@@ -430,6 +428,19 @@ L3 Technologies exemplifies how defense contractors operate within military-indu
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=L3%20Technologies) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 7 |
+| States | 2 (CA, MA) |
+| Registry IDs | 110070060225, 110008274848, 110024372631, 110070112375, 110070114150 +2 more |
+
+**Facility locations:** WILMINGTON, MA, NATIONAL CITY, CA, FALL RIVER, MA
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
 
 ## Archived
 

@@ -6,6 +6,10 @@ last-updated: 2026-04-12
 source-tier: 1
 parent: [[_Janet Mills Master Profile]]
 related: "[[_Janet Mills Master Profile|Janet Mills]] · [[Democratic Senatorial Campaign Committee]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #politician #janet-mills #opioid-litigation #pharmaceutical-industry #maine-ag
 

@@ -8,6 +8,10 @@ source-url: "https://thehill.com/homenews/education/5824262-title-ix-agreements-
 profiles:
   - "Education - Donors and Backers"
   - "Environment - Donors and Backers"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

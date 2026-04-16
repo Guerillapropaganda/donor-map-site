@@ -11,6 +11,11 @@ known-gaps:
   - "No lobbying data"
   - "No mapped relationships"
 source-types: []
+urls-first-triaged: "2026-04-15"
+epa-facilities: 17
+epa-states: "CA, CO, MA, OH, RI"
+federal-contracts: 8
+federal-awards-total: 222125105
 ---
 
 
@@ -34,3 +39,35 @@ _Data panel computed at build time from `data/entities.jsonl` + `data/relationsh
 Biotechnology giant. One of the largest pharma companies by market cap. Major political donor and lobbying spender.
 
 Profile pending enrichment.
+
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 17 |
+| States | 5 (CA, CO, MA, OH, RI) |
+| Registry IDs | 110002332636, 110022817406, 110031070105, 110016754369, 110024321875 +12 more |
+
+**Facility locations:** THOUSAND OAKS, CA, CAMARILLO, CA, BOULDER, CO, WEST GREENWICH, RI, CAMBRIDGE, MA, MEDFORD, MA, BOSTON, MA, NEW ALBANY, OH, SOUTH SAN FRANCISCO, CA, VALENCIA, CA +1 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 8 |
+| Total Obligation | $222,125,105 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 2 |
+
+**Top awarding agencies:**
+
+- Department of Health and Human Services: $222,059,895
+- Department of Veterans Affairs: $65,210
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->

@@ -7,6 +7,10 @@ source: "ProPublica"
 source-url: "https://www.propublica.org/article/american-kids-detained-trump-immigration-deportation-democrats-investigation"
 profiles:
   - "Immigration - Donors and Backers"
+checklist-na:
+  - "regulatory: auto: entity type \"event\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"event\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 
 #event #draft

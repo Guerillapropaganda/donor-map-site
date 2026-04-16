@@ -6,6 +6,10 @@ last-updated: 2026-04-10
 source-tier: 1
 parent: [[_Chuck Schumer Master Profile]]
 related: "[[Scott Bessent Master Profile]] · [[Wall Street Deregulation and the 3-3-3 Agenda]] · [[Goldman Sachs and the Heidi Cruz Connection]] · [[The Schwarzman Connection and Private Equity Capture]] · [[_Chuck Schumer Master Profile]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Blackstone]] · [[Jim Himes]]"
+checklist-na:
+  - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #schumer #wall-street #goldman-sachs #securities #donor-sectors #class-analysis #follow-the-money
 

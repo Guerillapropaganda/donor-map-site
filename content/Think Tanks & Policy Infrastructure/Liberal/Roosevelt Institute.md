@@ -32,6 +32,8 @@ regulatory-agencies:
   - "Securities and Exchange Commission"
 lei: "254900O5GENSMFU7HU90"
 lei-jurisdiction: "US-NJ"
+checklist-na:
+  - "regulatory: auto: entity type \"think-tank\" does not typically have EPA/OSHA records (2026-04-15)"
 ---
 
 #think-tank #liberal #progressive-economics #antitrust #inequality #industrial-policy #monopoly-power #class-analysis

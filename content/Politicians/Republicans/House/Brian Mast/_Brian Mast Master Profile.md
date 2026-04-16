@@ -40,6 +40,7 @@ opensanctions-datasets:
   - wikidata
   - us_congress
   - ru_mfa_sanctions
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

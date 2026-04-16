@@ -13,6 +13,10 @@ known-gaps:
   - "No mapped relationships"
 
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[AIPAC and the Progressive Purge]] · [[Pro-Israel Donor Network Deep Dive]]"
+checklist-na:
+  - "regulatory: auto: entity type \"story\" does not typically have EPA/OSHA records (2026-04-15)"
+  - "contracts: auto: entity type \"story\" does not typically hold federal contracts (2026-04-15)"
+urls-first-triaged: "2026-04-15"
 ---
 #investigation #contradiction #aipac #progressive-capture #ritchie-torres #both-sides #class-analysis
 tags: #analysis #story

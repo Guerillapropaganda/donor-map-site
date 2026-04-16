@@ -18,6 +18,7 @@ known-gaps:
   - No mapped relationships
 last-enriched: "2026-04-09"
 related: "[[_Samuel Alito Master Profile]] · [[_Clarence Thomas Master Profile]] · [[Leonard Leo]] · [[_Amy Coney Barrett Master Profile]] · [[The Kavanaugh Vote and the Donor Realignment]] · [[The McCain-to-Trump Transformation and Donor Base Shift]]"
+urls-first-triaged: "2026-04-15"
 ---
 
 <!-- auto:data-panel start -->

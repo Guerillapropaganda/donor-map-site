@@ -59,6 +59,10 @@ aliases:
   - "Comcast Corporation"
   - "Comcast"
   - "NBCUniversal"
+epa-facilities: 79
+epa-states: "CA, FL, IN, KY, MA, MI, MN, NH, NM, NY, OR"
+federal-contracts: 784
+federal-awards-total: 17238013
 ---
 
 <!-- auto:data-panel start -->
@@ -303,6 +307,44 @@ The bipartisan giving strategy reveals the structural function: Comcast doesn't 
 
 - [Source: FTC Legal Library](https://www.ftc.gov/legal-library/browse/cases-proceedings?search=Comcast%20-%20NBCUniversal) (Tier 1) (VERIFIED)
 <!-- auto:ftc-enforcement end -->
+
+### EPA Facility Registry
+<!-- auto:epa-echo start -->
+| Metric | Value |
+|--------|-------|
+| EPA-Registered Facilities | 79 |
+| States | 11 (CA, FL, IN, KY, MA, MI, MN, NH, NM, NY, OR) |
+| Registry IDs | 110001944415, 110020892168, 110022925227, 110024431523, 110024441308 +74 more |
+
+**Facility locations:** CHELMSFORD, MA, SAINT CLAIR SHORES, MI, CLIO, MI, FREMONT, NH, STERLING HEIGHTS, MI, MANCHESTER, NH, GRAND BLANC, MI, NOTTINGHAM, NH, GOFFSTOWN, NH, MERCED, CA +36 more
+
+- [Source: EPA Facility Registry Service](https://www.epa.gov/frs) (Tier 1) (VERIFIED)
+<!-- auto:epa-echo end -->
+
+### Federal Contracts (USASpending)
+<!-- auto:usaspending start -->
+| Metric | Value |
+|--------|-------|
+| Federal Contracts | 784 |
+| Total Obligation | $17,238,013 |
+| Fiscal Years | 2024, 2025 |
+| Awarding Agencies | 20 |
+
+**Top awarding agencies:**
+
+- Department of Defense: $10,507,258
+- Department of Health and Human Services: $2,551,480
+- Department of Veterans Affairs: $1,054,173
+- Department of Justice: $789,804
+- Department of State: $545,185
+- Nuclear Regulatory Commission: $496,329
+- Department of Homeland Security: $364,070
+- Department of the Treasury: $291,650
+- Consumer Product Safety Commission: $227,778
+- Department of Energy: $138,950
+
+- [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
+<!-- auto:usaspending end -->
 
 ## Archived
 
