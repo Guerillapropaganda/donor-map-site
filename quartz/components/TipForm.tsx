@@ -47,10 +47,12 @@ const TipForm: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               rows={5}></textarea>
             <div class="tip-char-count"><span id="tip-char">0</span> / 2000</div>
           </div>
-          {/* Honeypot */}
+          {/* Honeypot (kept as fallback for non-JS) */}
           <div style={{ position: "absolute", left: "-9999px", opacity: 0, height: 0, overflow: "hidden" }} aria-hidden="true">
             <input type="text" name="_gotcha" tabIndex={-1} autoComplete="off" />
           </div>
+          {/* Cloudflare Turnstile widget — invisible mode */}
+          <div id="tip-turnstile" class="cf-turnstile" data-sitekey="TURNSTILE_SITE_KEY_PLACEHOLDER" data-callback="onTurnstileVerify" data-theme="dark" data-size="invisible"></div>
           <button type="submit" id="tip-submit" class="tip-submit-btn">
             SEND TIP
           </button>
@@ -230,6 +232,33 @@ TipForm.afterDOMLoaded = `
   var COOLDOWN_MS = 60000;
   var MIN_TIME_MS = 3000;
 
+  // ── Cloudflare Turnstile integration ──────────────────────────
+  // Loads the Turnstile script once, renders an invisible challenge.
+  // If the site key is the placeholder, Turnstile is skipped and the
+  // honeypot remains the only bot defense (pre-Turnstile behavior).
+  var turnstileToken = null;
+  var TURNSTILE_READY = false;
+
+  window.onTurnstileVerify = function(token) {
+    turnstileToken = token;
+  };
+
+  function loadTurnstile() {
+    if (document.getElementById("cf-turnstile-script")) return;
+    var widget = document.querySelector(".cf-turnstile");
+    if (!widget) return;
+    var siteKey = widget.getAttribute("data-sitekey") || "";
+    if (siteKey.indexOf("PLACEHOLDER") !== -1) return; // Not configured yet
+    TURNSTILE_READY = true;
+    var s = document.createElement("script");
+    s.id = "cf-turnstile-script";
+    s.src = "https://challenges.cloudflare.com/turnstile/v0/api.js";
+    s.async = true;
+    s.defer = true;
+    document.head.appendChild(s);
+  }
+  loadTurnstile();
+
   function initTipForm() {
     var root = document.getElementById("tip-form-root");
     if (!root) return;
@@ -330,11 +359,31 @@ TipForm.afterDOMLoaded = `
         return;
       }
 
+      // Turnstile verification (if configured)
+      if (TURNSTILE_READY && !turnstileToken) {
+        status.textContent = "Verifying you are human. Please wait...";
+        status.className = "tip-status";
+        // Turnstile invisible mode triggers on form interaction,
+        // but if token hasn't arrived yet, wait briefly
+        setTimeout(function() {
+          if (turnstileToken) {
+            form.dispatchEvent(new Event("submit"));
+          } else {
+            status.textContent = "Verification failed. Please refresh and try again.";
+            status.className = "tip-status tip-error";
+          }
+        }, 2000);
+        return;
+      }
+
       // Submit
       btn.disabled = true;
       btn.textContent = "SENDING...";
 
       var data = new FormData(form);
+      if (turnstileToken) {
+        data.append("cf-turnstile-response", turnstileToken);
+      }
 
       fetch("https://api.web3forms.com/submit", {
         method: "POST",
@@ -354,6 +403,8 @@ TipForm.afterDOMLoaded = `
           if (accessKeyField) accessKeyField.value = WEB3FORMS_KEY;
           if (subjectField) subjectField.value = "Tip: " + profileTitle;
           if (charCount) charCount.textContent = "0";
+          turnstileToken = null;
+          if (TURNSTILE_READY && window.turnstile) { window.turnstile.reset(); }
           renderTime = Date.now();
         } else {
           status.textContent = result.message || "Submission failed. Please try again.";
