@@ -19,6 +19,11 @@ const CORS_HEADERS = {
   "Access-Control-Allow-Origin": "https://thedonormap.org",
   "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
   "Access-Control-Allow-Headers": "Content-Type",
+  // Chrome's Private Network Access restriction: a public (HTTPS) page
+  // cannot reach a loopback address unless the server explicitly opts
+  // in. Without this header the preflight rejects with "Permission
+  // denied for this request to access the `loopback` address space".
+  "Access-Control-Allow-Private-Network": "true",
   "Access-Control-Max-Age": "86400",
 }
 
