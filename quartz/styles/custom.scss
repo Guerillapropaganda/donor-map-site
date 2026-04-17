@@ -1900,9 +1900,26 @@ body:has(.lp-landing) .breadcrumb-container {
 }
 
 // ─── Money raised ───
+.ph-money-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: 1;
+  gap: 4px;
+}
+
+.ph-money-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: #666;
+  text-transform: uppercase;
+}
+
 .ph-money {
   font-family: 'Space Mono', monospace;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 700;
   color: #e63946;
   letter-spacing: -0.5px;

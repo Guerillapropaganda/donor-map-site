@@ -84,7 +84,16 @@ const ProfileHeader: QuartzComponent = ({
           <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
         </div>
         {(moneyDisplay || donorMoneyDisplay) && (
-          <span class="ph-money">{moneyDisplay || donorMoneyDisplay}</span>
+          <div class="ph-money-wrap">
+            <span class="ph-money-label">
+              {type === "politician"
+                ? "CAREER MONEY RAISED"
+                : type === "donor" || type === "corporation"
+                ? "TOTAL POLITICAL SPEND"
+                : "MONEY"}
+            </span>
+            <span class="ph-money">{moneyDisplay || donorMoneyDisplay}</span>
+          </div>
         )}
       </div>
 
