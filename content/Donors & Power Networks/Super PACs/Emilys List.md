@@ -2,7 +2,7 @@
 title: Emilys List
 type: pac
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 sector: Super PACs
@@ -23,7 +23,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(4)
 total-revenue: 1057103
 total-assets: 79716
-related: ">- · [[Senate Majority PAC]] · [[Democratic Senatorial Campaign Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Preserve America]] · [[Priorities USA Action]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]]"
+related: ">- · [[Senate Majority PAC]] · [[Democratic Senatorial Campaign Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Preserve America]] · [[Priorities USA Action]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[House Majority PAC]]"
 cross-vault-triangulation-count: 7
 internal-notes: >-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: •

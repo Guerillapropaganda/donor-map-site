@@ -2,7 +2,7 @@
 title: House Majority PAC
 type: pac
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: Super PACs
@@ -26,7 +26,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - 10-K
-related: ">- · [[DCCC Red-to-Blue Targets 2026]] · [[Master Donor Database]] · [[Mario Diaz-Balart]] · [[Lee Zeldin]] · [[Rick Crawford]] · [[Nancy Mace]] · [[Maria Elvira Salazar]] · [[Lauren Boebert]] · [[Club for Growth]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]]"
+related: ">- · [[DCCC Red-to-Blue Targets 2026]] · [[Master Donor Database]] · [[Mario Diaz-Balart]] · [[Lee Zeldin]] · [[Rick Crawford]] · [[Nancy Mace]] · [[Maria Elvira Salazar]] · [[Lauren Boebert]] · [[Club for Growth]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]]"
 opposes: '[[Michael Waltz]] · [[Mark Green]]'
 cross-vault-triangulation-count: 8
 internal-notes: >-

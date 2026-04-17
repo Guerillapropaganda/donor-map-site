@@ -3,7 +3,7 @@ title: Chuck Schumer
 type: politician
 content-readiness: ready
 central-thesis: Chuck Schumer is the Democratic Party's answer to Mitch McConnell , not in ideology, but in function. Where McConnell built the Republican donor class's infrastructure through judicial capture and Citizens United, Schumer built the Democratic dono...
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 career-total: $100M
 parent: null
@@ -37,7 +37,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 opposes: "[[_Donald Trump Master Profile]] · [[_Mitch McConnell Master Profile]]"
-related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Martin Heinrich]] · [[Jeff Merkley]] · [[Jeanne Shaheen]] · [[Graham Platner Master Profile]] · [[Warren-Sanders Unity and the Schumer Machine]] · [[Gary Peters]] · [[Debbie Stabenow]] · [[Chris Coons]]"
+related: "[[Goldman Sachs]] · [[AIPAC - American Israel Public Affairs Committee]] · [[The McConnell Dark Money Empire - SLF and One Nation]] · [[_Benjamin Netanyahu Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Martin Heinrich]] · [[Jeff Merkley]] · [[Jeanne Shaheen]] · [[Graham Platner Master Profile]] · [[Warren-Sanders Unity and the Schumer Machine]] · [[Gary Peters]] · [[Debbie Stabenow]] · [[Chris Coons]] · [[Brian Schatz]]"
 last-enriched: "2026-04-10"
 committees:
   - Senate Committee on Rules and Administration

@@ -2,7 +2,7 @@
 title: SEIU - Service Employees International Union
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: Labor Unions
@@ -16,7 +16,7 @@ annual-revenue: $14.9M
 net-assets: $8.2M
 tax-year: "2023"
 total-political-spend: $15,473,514
-related: ">- · [[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Kamala Harris]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi]] · [[Gavin Newsom]] · [[Laphonza Butler]] · [[DOGE - The Billionaires Government]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]]"
+related: ">- · [[Eric Swalwell Master Profile]] · [[The Media Profile Candidate and the Donor Calculation]] · [[Senate Labor Record and Anti-DOGE Resistance]] · [[Kamala Harris]] · [[VP Labor Record - What Unions Got and Didn't Get]] · [[The Appropriations Vice Chair and Defense-Healthcare Axis]] · [[The Progressive Caucus and the Squad's Institutional Wing]] · [[Nancy Pelosi]] · [[Gavin Newsom]] · [[Laphonza Butler]] · [[DOGE - The Billionaires Government]] · [[Xavier Becerra Master Profile]] · [[The HHS Record and the Healthcare Industry Question]] · [[Katie Porter Master Profile]]"
 last-enriched: "2026-04-11"
 nonprofit-status: 501(c)(5)
 total-revenue: 16733765

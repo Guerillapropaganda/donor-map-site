@@ -2,7 +2,7 @@
 title: "Ocean Conservancy"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 sector: "Dark Money"
@@ -26,7 +26,7 @@ regulatory-agencies:
   - "Ocean Energy Management Bureau"
   - "Regulatory Information Service Center"
   - "Securities and Exchange Commission"
-related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[CA Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]]"
+related: "[[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Sheldon Whitehouse]] · [[Climate Philanthropy - The Green Billionaires]] · [[Democratic Donor Network]] · [[Environmental Law & Policy Center]] · [[New Venture Fund]] · [[Arabella Advisors]] · [[Trial Lawyers Fund]] · [[Sixteen Thirty Fund]] · [[National Progressive Donor Networks]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[CA Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]]"
 ein: 237245152
 annual-revenue: "$48.6M"
 net-assets: "$96.1M"

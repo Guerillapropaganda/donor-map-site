@@ -2,7 +2,7 @@
 title: "Arabella Advisors"
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: "Dark Money"
@@ -10,7 +10,7 @@ entity-type: "Individual Donor"
 issues:
   - "Dark Money & Campaign Finance"
   - "Infrastructure"
-related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Demand Justice]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Party Infrastructure]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[The Both-Sides Dark Money Illusion]] · [[Western Growers Association]] · [[Donors Capital Fund]] · [[Judicial Crisis Network]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Council for National Policy]]"
+related: "[[National Progressive Donor Networks]] · [[Sheldon Whitehouse]] · [[Sixteen Thirty Fund]] · [[New Venture Fund]] · [[Demand Justice]] · [[Democracy Alliance]] · [[George Soros]] · [[DonorsTrust]] · [[Leonard Leo]] · [[Ocean Conservancy]] · [[Trial Lawyers Fund]] · [[Open Society Foundations]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Democratic Party Infrastructure]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[The Both-Sides Dark Money Illusion]] · [[Western Growers Association]] · [[Donors Capital Fund]] · [[Judicial Crisis Network]] · [[National Association of Manufacturers]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Council for National Policy]] · [[Conservative Partnership Institute]]"
 known-gaps:
   - "No FEC contribution data"
   - "No lobbying disclosure data"

@@ -2,14 +2,14 @@
 title: Priorities USA Action
 type: pac
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: Super PACs
 entity-type: PAC
 issues:
   - Dark Money & Campaign Finance
-related: ">- · [[John Fetterman]] · [[Winning for Women PAC]] · [[Mitt Romney]] · [[Doug Burgum]] · [[Josh Hawley]] · [[Donald Trump]] · [[Preserve America]] · [[WinRed]] · [[Trump Victory]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[One Nation]]"
+related: ">- · [[John Fetterman]] · [[Winning for Women PAC]] · [[Mitt Romney]] · [[Doug Burgum]] · [[Josh Hawley]] · [[Donald Trump]] · [[Preserve America]] · [[WinRed]] · [[Trump Victory]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[One Nation]] · [[National Rifle Association]]"
 ein: '833099604'
 nonprofit-status: 501(c)(3)
 last-enriched: '2026-04-09'

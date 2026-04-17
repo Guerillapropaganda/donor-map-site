@@ -2,7 +2,7 @@
 title: "Anduril Industries"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: "Defense & Intelligence"
@@ -26,7 +26,7 @@ sec-form-types:
   - "EX-99.2"
   - "NPORT-EX"
   - "NPORT-P"
-related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]]"
+related: "[[Palantir Technologies]] · [[David Sacks]] · [[Peter Thiel]] · [[Palmer Luckey]] · [[Founders Fund]] · [[Palantir Technologies Political Operation]] · [[Lockheed Martin]] · [[Raytheon Technologies]] · [[Raytheon (RTX Corporation)]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]]"
 subawards-issued: 50
 subawards-issued-amount: 156117244
 subawards-received: 50

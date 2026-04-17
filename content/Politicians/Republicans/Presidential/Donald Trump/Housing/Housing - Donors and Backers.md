@@ -2,10 +2,10 @@
 title: "Housing - Donors and Backers"
 type: sub-note
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[3.5 Million Units - Broken Promise]] · [[California Apartment Association]] · [[The Real Estate President and the Fair Housing Demolition]] · [[National Association of Realtors]] · [[_Donald Trump Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[The Biden Exit and Harris Installation]] · [[The Education Committee and Labor Alignment]] · [[Legislative Record as Speaker]] · [[The $1.6 Billion Fundraising Machine]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]]"
+related: "[[Real Estate Development Industry Bloc]] · [[Lennar Corporation]] · [[Supply-Side Framework - Who It Helps]] · [[Rent Control - Props 10, 21, and 33]] · [[Homelessness Spending and Encampments]] · [[3.5 Million Units - Broken Promise]] · [[California Apartment Association]] · [[The Real Estate President and the Fair Housing Demolition]] · [[National Association of Realtors]] · [[_Donald Trump Master Profile]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[The Biden Exit and Harris Installation]] · [[The Education Committee and Labor Alignment]] · [[Legislative Record as Speaker]] · [[The $1.6 Billion Fundraising Machine]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[The Corporate-Democratic Donor Coalition and AIPAC Connection]] · [[School Choice and the Catholic Church Prosecution as Brand Architecture]]"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"

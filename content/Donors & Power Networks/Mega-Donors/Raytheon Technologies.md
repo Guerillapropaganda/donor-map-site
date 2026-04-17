@@ -3,11 +3,11 @@ title: "Raytheon Technologies"
 type: redirect
 editorial-status: redirect
 redirect-target: "[[Raytheon (RTX)]]"
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 aliases:
   - "Raytheon Technologies"
 urls-first-triaged: "2026-04-15"
-related: "[[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[South Carolina 2026 Senate Race]] · [[2026-03-26 Finance Research]] · [[Mark Kelly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]]"
+related: "[[Defense Contractor 450000 Percent ROI]] · [[The National Security-to-Senate Pipeline]] · [[South Carolina 2026 Senate Race]] · [[2026-03-26 Finance Research]] · [[Mark Kelly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]]"
 ---
 
 # Raytheon Technologies
