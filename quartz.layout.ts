@@ -73,13 +73,10 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ProfileHeader(),
       condition: isProfilePage,
     }),
-    Component.ConditionalRender({
-      component: Component.SummaryInfobox(),
-      condition: (page) => {
-        const type = String(page.fileData.frontmatter?.type ?? "")
-        return ["politician", "state-politician", "local-politician", "donor", "corporation", "pac", "think-tank", "lobbying-firm"].includes(type)
-      },
-    }),
+    // SummaryInfobox removed from layout 2026-04-17 — its content
+    // (total-received-note, custom-stats) now rendered inside the data
+    // panel, which lives in the Money tab. Keeps custom-stats grouped
+    // with the money data it annotates instead of floating above tabs.
     Component.ConditionalRender({
       component: Component.VotingRecord(),
       condition: (page) => String(page.fileData.frontmatter?.type ?? "").toLowerCase() === "politician",

@@ -138,7 +138,7 @@ function renderDonorPanel(entity) {
 
   lines.push("")
   lines.push(
-    `_Data panel computed at build time from \`data/entities.jsonl\` + \`data/relationships.jsonl\`. Regenerate via \`node scripts/build-profile-data-panels.cjs --write\`. Part of [[Build Phases|Phase 3]]._`,
+    `<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->`,
   )
   lines.push(BLOCK_END)
   return lines.join("\n")
@@ -193,8 +193,25 @@ function renderPoliticianPanel(entity) {
   const edgeCount = typeof signals.edge_count === "number" ? signals.edge_count : null
   lines.push("")
   lines.push(`**Total received:** ${formatUsd(totalReceived)}`)
+  if (entity.fm_total_received_note) {
+    lines.push(`  <br><small>_${safeCell(entity.fm_total_received_note)}_</small>`)
+  }
   if (edgeCount !== null)
     lines.push(`**Tracked donors:** ${formatCount(edgeCount)} edges in the canonical store`)
+
+  // Custom outlier stats (Trump's Truth Social stake, $TRUMP coin, etc.)
+  // Pulled from frontmatter custom-stats array (see Profile Template.md).
+  if (entity.fm_custom_stats && Array.isArray(entity.fm_custom_stats) && entity.fm_custom_stats.length) {
+    lines.push("")
+    lines.push("#### Additional tracked financials")
+    lines.push("")
+    lines.push("| Stat | Value | Source |")
+    lines.push("|---|---:|---|")
+    for (const s of entity.fm_custom_stats) {
+      if (!s || !s.label || !s.value) continue
+      lines.push(`| ${safeCell(s.label)} | ${safeCell(s.value)} | ${safeCell(s.source || "")} |`)
+    }
+  }
 
   // Committees
   if (signals.committees && signals.committees.length) {
@@ -227,7 +244,7 @@ function renderPoliticianPanel(entity) {
 
   lines.push("")
   lines.push(
-    `_Data panel computed at build time from \`data/entities.jsonl\` + \`data/relationships.jsonl\`. Regenerate via \`node scripts/build-profile-data-panels.cjs --write\`. Part of [[Build Phases|Phase 3]]._`,
+    `<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->`,
   )
   lines.push(BLOCK_END)
   return lines.join("\n")
@@ -315,6 +332,20 @@ function main() {
       stats.errors += 1
       if (VERBOSE) console.warn(`  ! read error ${entity.profile_path}: ${e.message}`)
       continue
+    }
+
+    // Parse frontmatter to pick up profile-specific overrides
+    // (total-received-note and custom-stats for outlier profiles like Trump).
+    try {
+      const fmMatch = text.match(/^---\n([\s\S]*?)\n---\n/)
+      if (fmMatch) {
+        const yaml = require("js-yaml")
+        const fm = yaml.load(fmMatch[1]) || {}
+        entity.fm_total_received_note = fm["total-received-note"] || fm["career-total-note"] || null
+        entity.fm_custom_stats = Array.isArray(fm["custom-stats"]) ? fm["custom-stats"] : null
+      }
+    } catch {
+      // Silent fallback — panel still renders, just without frontmatter overrides
     }
 
     const hadBlock = text.includes(BLOCK_START)

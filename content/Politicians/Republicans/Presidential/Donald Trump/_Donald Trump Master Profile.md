@@ -66,7 +66,18 @@ proclamations: 706
 **FEC candidate ID:** `P80001571`
 
 **Total received:** $724,161,916
+  <br><small>_Canonical store IE + independent spending 2022-2026 cycles. 2024 campaign + PACs raised ~$1.45B total per OpenSecrets. CSV individual contributions ingest pending._</small>
 **Tracked donors:** 627 edges in the canonical store
+
+#### Additional tracked financials
+
+| Stat | Value | Source |
+|---|---:|---|
+| Trump Media (DJT) stake | ~$3B at peak | SEC 10-K filings |
+| $TRUMP meme coin holdings | 800M of 1B tokens | On-chain (Solana) |
+| World Liberty Financial proceeds | $1B+ by Dec 2025 | CBS News / NPR |
+| Family H1 2025 crypto earnings | $460M+ | CBS News |
+| 2024 mega-donors (>$100M each) | 6 individuals | OpenSecrets |
 
 #### Top donors
 
