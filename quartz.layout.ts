@@ -50,6 +50,13 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ConditionalRender({
+      component: Component.HeroContradiction(),
+      condition: (page) => {
+        const type = String(page.fileData.frontmatter?.type ?? "")
+        return ["politician", "state-politician", "local-politician", "donor", "corporation", "pac", "think-tank", "lobbying-firm"].includes(type)
+      },
+    }),
+    Component.ConditionalRender({
       component: Component.ContentMeta(),
       condition: (page) => page.fileData.slug !== "index",
     }),

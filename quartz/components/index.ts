@@ -30,6 +30,7 @@ import DiscoveryPanel from "./DiscoveryPanel"
 import ContradictionCard from "./ContradictionCard"
 import EvidencePanel from "./EvidencePanel"
 import SummaryInfobox from "./SummaryInfobox"
+import HeroContradiction from "./HeroContradiction"
 import IssueExplorer from "./IssueExplorer"
 import PowerRankings from "./PowerRankings"
 import PartySplitMeter from "./PartySplitMeter"
@@ -56,6 +57,7 @@ export {
   ContradictionCard,
   EvidencePanel,
   SummaryInfobox,
+  HeroContradiction,
   IssueExplorer,
   Content,
   TagContent,
