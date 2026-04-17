@@ -89,9 +89,7 @@ const ProfileHeader: QuartzComponent = ({
 
       {/* Row 2: Position + key stat */}
       <div class="ph-row-mid">
-        {positionLine && (
-          <div class="ph-position">{positionLine}</div>
-        )}
+        {/* Position line removed — redundant with page title / breadcrumbs */}
         {keyStat && (
           <div class="ph-key-stat">
             <span class="ph-key-stat-num">{keyStat}</span>

@@ -242,7 +242,7 @@ const EvidencePanel: QuartzComponent = ({
           {lastUpdated && lastUpdated !== "undefined" && (
             <span class="signal-updated">UPDATED {lastUpdated}</span>
           )}
-          <a href="/About-The-Donor-Map" class="signal-verify-link">HOW WE VERIFY →</a>
+          {/* HOW WE VERIFY link removed — folds into 'The Receipts' page in new IA */}
         </div>
       </div>
     </div>

@@ -237,7 +237,9 @@ function renderTimelineMarkdown(entityName, byYear, counts) {
   }
 
   const lines = []
-  lines.push(`_Auto-generated from \`data/events.jsonl\`, \`data/relationships.jsonl\` cycles, and Executive Orders table. ${counts.events} events, ${counts.cycles} cycles, ${counts.execOrders} executive orders, ${counts.custom} editorial entries. Regenerate: \`node scripts/profile-timeline-generator.cjs --write <path>\`_`)
+  // Internal audit info — stays in source as HTML comment (invisible to readers).
+  // Curious readers go to /Behind-the-Map and /The-Receipts instead.
+  lines.push(`<!-- Auto-generated from data/events.jsonl, data/relationships.jsonl cycles, and Executive Orders table. ${counts.events} events, ${counts.cycles} cycles, ${counts.execOrders} executive orders, ${counts.custom} editorial entries. Regenerate: node scripts/profile-timeline-generator.cjs --write <path> -->`)
   lines.push("")
 
   // Years in descending order

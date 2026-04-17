@@ -115,11 +115,8 @@ function renderDonorPanel(entity) {
   // Financial summary
   const totalSpend =
     typeof signals.total_political_spend === "number" ? signals.total_political_spend : null
-  const edgeCount = typeof signals.edge_count === "number" ? signals.edge_count : null
   lines.push("")
   lines.push(`**Total political spend:** ${formatUsd(totalSpend)}`)
-  if (edgeCount !== null)
-    lines.push(`**Tracked relationships:** ${formatCount(edgeCount)} edges in the canonical store`)
 
   // Top politicians funded
   const top = signals.top_politicians_funded || []
@@ -127,10 +124,10 @@ function renderDonorPanel(entity) {
     lines.push("")
     lines.push("#### Top politicians funded")
     lines.push("")
-    lines.push("| Politician | Amount | Edge count |")
-    lines.push("|---|---:|---:|")
+    lines.push("| Politician | Amount |")
+    lines.push("|---|---:|")
     for (const p of top.slice(0, 10)) {
-      lines.push(`| ${safeCell(p.name)} | ${formatUsd(p.amount)} | ${formatCount(p.count)} |`)
+      lines.push(`| ${safeCell(p.name)} | ${formatUsd(p.amount)} |`)
     }
   }
 
@@ -186,14 +183,11 @@ function renderPoliticianPanel(entity) {
   // Financial summary
   const totalReceived =
     typeof signals.total_received === "number" ? signals.total_received : null
-  const edgeCount = typeof signals.edge_count === "number" ? signals.edge_count : null
   lines.push("")
   lines.push(`**Total received:** ${formatUsd(totalReceived)}`)
   if (entity.fm_total_received_note) {
     lines.push(`  <br><small>_${safeCell(entity.fm_total_received_note)}_</small>`)
   }
-  if (edgeCount !== null)
-    lines.push(`**Tracked donors:** ${formatCount(edgeCount)} edges in the canonical store`)
 
   // Custom outlier stats (Trump's Truth Social stake, $TRUMP coin, etc.)
   // Pulled from frontmatter custom-stats array (see Profile Template.md).
@@ -223,10 +217,10 @@ function renderPoliticianPanel(entity) {
     lines.push("")
     lines.push("#### Top donors")
     lines.push("")
-    lines.push("| Donor | Amount | Edge count |")
-    lines.push("|---|---:|---:|")
+    lines.push("| Donor | Amount |")
+    lines.push("|---|---:|")
     for (const d of topDonors.slice(0, 10)) {
-      lines.push(`| ${safeCell(d.name)} | ${formatUsd(d.amount)} | ${formatCount(d.count)} |`)
+      lines.push(`| ${safeCell(d.name)} | ${formatUsd(d.amount)} |`)
     }
   }
 

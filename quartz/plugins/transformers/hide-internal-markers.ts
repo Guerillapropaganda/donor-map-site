@@ -34,6 +34,21 @@ const PATTERNS: Array<[RegExp, (match: string, ...groups: string[]) => string]> 
   // (handled below by code-fence detection)
   [/^\s*\[JANITOR(?:\s+[^\]]+)?\]\s+([^\n]*)/gm, (_m, rest) => `<!-- JANITOR: ${rest.trim()} -->`],
   [/^\s*\[URL Check(?:\s+[^\]]+)?\]\s+([^\n]*)/gm, (_m, rest) => `<!-- URL Check: ${rest.trim()} -->`],
+
+  // Internal ops-process labels. Readers only need the tier and "archived" —
+  // not who did the archiving or what our internal review is called.
+  [/\s*\(Archived by Ops\)/gi, () => ""],
+  [/\s*\(Verified by [^)]+\)/gi, () => ""],
+  [/\s*\(editor-approved\)/gi, () => ""],
+  [/\s*\(editor-signed-off\)/gi, () => ""],
+  [/\s*\(sign-off-date:[^)]+\)/gi, () => ""],
+
+  // Script-plumbing / auto-generation noise that slipped into rendered markdown.
+  // Any italic line that starts with "Auto-generated" or contains a "Regenerate:"
+  // script invocation: strip entirely.
+  [/^_Auto-generated[^_\n]*_\s*$/gm, () => ""],
+  [/^_[^_\n]*Regenerate:[^_\n]*_\s*$/gm, () => ""],
+  [/^Auto-generated from[^\n]*$/gm, () => ""],
 ]
 
 /**
@@ -41,7 +56,7 @@ const PATTERNS: Array<[RegExp, (match: string, ...groups: string[]) => string]> 
  * untouched so we don't mangle code examples that legitimately contain these strings.
  */
 function transform(src: string): string {
-  if (!/\(URL NEEDED\)|\(UNVERIFIED\)|\(NEEDS REVIEW\)|\(VERIFIED\)|\(DEFAMATION-SANITIZED\)|\[JANITOR|\[URL Check/.test(src)) {
+  if (!/\(URL NEEDED\)|\(UNVERIFIED\)|\(NEEDS REVIEW\)|\(VERIFIED\)|\(DEFAMATION-SANITIZED\)|\[JANITOR|\[URL Check|\(Archived by Ops\)|\(Verified by|\(editor-approved\)|\(editor-signed-off\)|\(sign-off-date:|_Auto-generated|Auto-generated from|Regenerate:/.test(src)) {
     return src // fast path — nothing to do
   }
 
