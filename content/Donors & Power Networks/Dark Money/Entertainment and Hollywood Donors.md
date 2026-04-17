@@ -12,7 +12,7 @@ federal-contracts: "997000"
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Israel - Government Lobbying Operation]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[National Association of Manufacturers]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Healthcare Sector]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Democratic Small Dollar Networks]]"
+related: "[[J Street]] · [[Jon Ossoff Master Profile]] · [[The Investigative Filmmaker Brand and the Senate Record Gap]] · [[The $30 Million Special Election and the National Donor Flood]] · [[Trial Lawyers Fund]] · [[Jeffrey Katzenberg]] · [[Haim Saban]] · [[Democratic Donor Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Barack Obama Master Profile|Obama]] · [[_Joe Biden Master Profile|Biden]] · [[_Hillary Clinton Master Profile|Clinton]] · [[Saban Center for Middle East Policy]] · [[Motion Picture Association]] · [[JCRC Bay Area]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[Mohammed bin Salman]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[Saudi Arabia - Kingdom Investment]] · [[Israel - Government Lobbying Operation]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[National Association of Manufacturers]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Healthcare Sector]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]]"
 lobbying-spend: 24863936
 lobbying-filings: 93
 cross-vault-triangulation-count: 12
@@ -230,7 +230,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -245,7 +245,7 @@ The industry's structural function for the donor class: maintain Democratic cult
 
 - [[Jon Ossoff]] — lobbying: $24.9M — contracts: $997K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

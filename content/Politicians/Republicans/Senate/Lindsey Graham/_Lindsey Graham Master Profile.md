@@ -243,7 +243,7 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 | Donors With Federal Contracts | 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (118th Congress)

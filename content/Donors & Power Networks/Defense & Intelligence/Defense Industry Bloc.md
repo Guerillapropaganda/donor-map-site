@@ -13,7 +13,7 @@ lobbying-spend: 2047000
 lobbying-filings: 123
 subawards-issued-amount: 1009778941592127500
 subawards-received-amount: 1009778941592127500
-related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Carlyle Group]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[American Federation for Children]] · [[Boeing Defense]] · [[The 85 Fund]] · [[Stand Together]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]]"
+related: "[[Defense Contractors]] · [[Tommy Tuberville Master Profile]] · [[The STOCK Act Violations and the Enforcement Void]] · [[The Military Promotion Blockade and the Culture War as Donor Cover]] · [[The Trump Conversion and the Defense Contractor Payday]] · [[The National Security-to-Senate Pipeline]] · [[Patty Murray]] · [[Fanjul Family - Florida Crystals]] · [[Lockheed Martin]] · [[Raytheon (RTX)]] · [[Boeing]] · [[Northrop Grumman]] · [[General Dynamics]] · [[L3Harris Technologies]] · [[BAE Systems]] · [[Booz Allen Hamilton]] · [[Leidos]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Carlyle Group]] · [[National Cattlemen's Beef Association]] · [[American Farm Bureau Federation]] · [[DeVos Family]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[National Education Association]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[American Federation for Children]] · [[Boeing Defense]] · [[The 85 Fund]] · [[Stand Together]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]]"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
@@ -130,7 +130,7 @@ The Pentagon has failed its financial audit every year since audits began in 201
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -150,7 +150,7 @@ The Pentagon has failed its financial audit every year since audits began in 201
 
 - [[Patty Murray]] (Appropriations) — lobbying: $2.0M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

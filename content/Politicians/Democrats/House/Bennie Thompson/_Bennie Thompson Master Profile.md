@@ -328,12 +328,14 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-16 -->
+<!-- auto:voting-record pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
 **Key Votes**
 
+| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
+| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
 | 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
 | 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
 | 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
@@ -347,8 +349,6 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 | 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
 | 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
 | 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
 
 **Sources**
 

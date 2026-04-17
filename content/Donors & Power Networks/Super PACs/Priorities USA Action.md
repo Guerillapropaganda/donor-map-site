@@ -9,7 +9,7 @@ sector: Super PACs
 entity-type: PAC
 issues:
   - Dark Money & Campaign Finance
-related: ">- · [[John Fetterman]] · [[Winning for Women PAC]] · [[Mitt Romney]] · [[Doug Burgum]] · [[Josh Hawley]] · [[Donald Trump]] · [[Preserve America]] · [[WinRed]] · [[Trump Victory]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]]"
+related: ">- · [[John Fetterman]] · [[Winning for Women PAC]] · [[Mitt Romney]] · [[Doug Burgum]] · [[Josh Hawley]] · [[Donald Trump]] · [[Preserve America]] · [[WinRed]] · [[Trump Victory]] · [[Senate Majority PAC]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[House Majority PAC]]"
 ein: '833099604'
 nonprofit-status: 501(c)(3)
 last-enriched: '2026-04-09'

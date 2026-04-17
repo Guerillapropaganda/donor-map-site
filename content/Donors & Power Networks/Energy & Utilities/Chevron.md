@@ -24,7 +24,7 @@ ein: 510189525
 annual-revenue: $222K
 net-assets: $781K
 tax-year: "2023"
-related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]]"
+related: "[[Valero Energy]] · [[Alaska 2026 Senate Race]] · [[The Fossil Fuel Op-Ed Pipeline and the Donor-to-Deregulation Map]] · [[The Performative Populism and Goldman Sachs Marriage]] · [[Michael Whatley Oil and Gas Lobbying History]] · [[The Energy Committee and Alaska Oil Dependency]] · [[Kevin McCarthy Master Profile]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[PG&E - Pacific Gas and Electric]] · [[Koch Industries]] · [[HBW Resources]] · [[Cathy McMorris Rodgers Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[Condoleezza Rice]] · [[The Last Oil Democrat - Fossil Fuel Money in a Blue District]] · [[Economic Policy - Donors and Backers]] · [[John Cornyn]] · [[_Gavin Newsom Master Profile]] · [[Fracking and Oil Permits - Green Branding vs. Record]] · [[Environment - Donors and Backers]] · [[Western States Petroleum Association]] · [[American Petroleum Institute]] · [[ExxonMobil]] · [[ConocoPhillips]] · [[Marathon Petroleum]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Johnson & Johnson]] · [[Moderna]] · [[Novo Nordisk]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Tenet Healthcare]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]]"
 federal-awards-total: 368049861
 federal-contracts-count: 25
 federal-grants-count: 5
@@ -446,7 +446,7 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -462,7 +462,7 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 - [[Kevin McCarthy]] — contracts: $422
 - [[John Cornyn]] (Judiciary, Intelligence, Finance) — contracts: $422
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

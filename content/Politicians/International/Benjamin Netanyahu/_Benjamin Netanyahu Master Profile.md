@@ -196,7 +196,7 @@ Netanyahu's coalition depends on Ben-Gvir and Smotrich (20 of 67 seats). Settlem
 | Donors Who Also Lobby | 0 of 1 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

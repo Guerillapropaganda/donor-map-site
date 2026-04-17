@@ -26,7 +26,7 @@ issues:
   - Dark Money & Campaign Finance
   - Financial Deregulation
   - Technology
-related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Mike Collins]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Bernie Moreno]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[French Hill]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Ruben Gallego]] · [[Elissa Slotkin]] · [[Melissa Bean]] · [[George Latimer]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]]"
+related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Mike Collins]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Bernie Moreno]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[French Hill]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Ruben Gallego]] · [[Elissa Slotkin]] · [[Melissa Bean]] · [[George Latimer]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]]"
 source-types:
   - FEC
 known-gaps:

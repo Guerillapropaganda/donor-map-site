@@ -235,7 +235,7 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -266,7 +266,7 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 - [[Meta - Facebook]] — $36.5M lobbying spend (Automotive Industry, Aviation/Airlines/Airports, Banking) + $1 in contracts
 - [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking) + $15 in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

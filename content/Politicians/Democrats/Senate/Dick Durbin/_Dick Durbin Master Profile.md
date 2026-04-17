@@ -263,7 +263,7 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -282,7 +282,7 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 
 - [[Legal Sector Donors]] — $7.7M lobbying spend (Accounting, Advertising, Alcohol and Drug Abuse)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

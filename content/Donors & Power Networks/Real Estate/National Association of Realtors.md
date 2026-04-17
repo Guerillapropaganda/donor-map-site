@@ -455,7 +455,7 @@ The dual crises, antitrust liability and sexual harassment, are not coincidental
 
 - [[Gavin Newsom]] — contracts: $2.6M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ### SEC Filing Activity

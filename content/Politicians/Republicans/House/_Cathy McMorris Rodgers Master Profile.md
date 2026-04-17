@@ -254,7 +254,7 @@ Her committee position turned her funded-by relationship into actual regulatory 
 | Donors With Federal Contracts | 3 |
 | Committee Overlap Detected | None |
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (118th Congress)

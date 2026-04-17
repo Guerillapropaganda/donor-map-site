@@ -198,7 +198,7 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-16 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -211,7 +211,7 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 
 - [[Paul Singer]] — $1.3M lobbying spend (Accounting, Aerospace, Budget/Appropriations)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

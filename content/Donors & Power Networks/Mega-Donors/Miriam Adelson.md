@@ -390,7 +390,7 @@ The class contradiction: the fortune funding West Bank maximalism is generated b
 - [[Jared Kushner]]
 - [[Marco Rubio]]
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ## Archived

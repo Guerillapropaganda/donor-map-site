@@ -452,5 +452,5 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->

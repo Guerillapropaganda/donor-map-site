@@ -371,7 +371,7 @@ conte
 
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (Congress.gov)

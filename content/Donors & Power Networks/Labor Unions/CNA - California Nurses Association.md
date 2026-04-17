@@ -293,5 +293,5 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - [[Kamala Harris]] — contracts: $6
 - [[Tom Steyer]] — contracts: $6
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->

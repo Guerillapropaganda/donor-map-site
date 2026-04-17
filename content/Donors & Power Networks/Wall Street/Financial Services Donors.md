@@ -154,5 +154,5 @@ The financial services industry is the ultimate bipartisan donor: both parties' 
 
 - [[Dick Durbin]] (Judiciary)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->

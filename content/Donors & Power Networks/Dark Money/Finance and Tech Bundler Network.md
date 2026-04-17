@@ -10,7 +10,7 @@ entity-type: Individual Donor
 issues:
   - Wall Street & Finance
   - Technology
-related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[Western Growers Association]] · [[Business Roundtable]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]]"
+related: "[[Legal Sector Donors]] · [[Pete Buttigieg Master Profile]] · [[The Transportation Record - Infrastructure Money and Industry Relationships]] · [[The McKinsey Years and the Consulting-to-Politics Pipeline]] · [[Goldman Sachs]] · [[Silicon Valley Donors]] · [[Jeffrey Katzenberg]] · [[Democratic Donor Network]] · [[Trial Lawyers Fund]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[Western Growers Association]] · [[Business Roundtable]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
@@ -101,7 +101,7 @@ The bundler network operates through fundraising events (dinners, receptions, re
 
 - [[Pete Buttigieg]] — lobbying: $7.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ## Archived

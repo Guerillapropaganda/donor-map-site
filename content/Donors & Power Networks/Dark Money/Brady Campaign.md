@@ -22,7 +22,7 @@ ein: 237321017
 annual-revenue: "$4.8M"
 net-assets: "$8.1M"
 tax-year: "2023"
-related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]] · [[Aaron Bean]] · [[Gina McCarthy]] · [[Salud O. Carbajal]] · [[Robert Menendez]] · [[Melissa Bean]] · [[Jerrold Nadler]] · [[James E. Clyburn]] · [[Gwen Moore]]"
+related: "[[Sheldon Whitehouse]] · [[Bob Menendez]] · [[Jerry Nadler]] · [[Linda McMahon]] · [[Tim Moore]] · [[Riley M. Moore]] · [[Blake D. Moore]] · [[Barry Moore]] · [[Aaron Bean]] · [[Gina McCarthy]] · [[Salud O. Carbajal]] · [[Robert Menendez]] · [[Melissa Bean]] · [[Jerrold Nadler]] · [[James E. Clyburn]] · [[Gwen Moore]] · [[Wes Moore]]"
 lobbying-spend: 836000
 lobbying-filings: 34
 nonprofit-status: 501(c)(4)
@@ -459,7 +459,7 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-16 -->
+<!-- auto:federal-register pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

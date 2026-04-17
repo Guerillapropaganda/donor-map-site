@@ -527,5 +527,5 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - **American Petroleum Institute** donates → Lobbies on **Energy & Climate** → This member sits on **Senate Committee on Energy and Natural Resources**
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->

@@ -396,7 +396,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22John%20Deere%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-16 -->
+<!-- auto:federal-register pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

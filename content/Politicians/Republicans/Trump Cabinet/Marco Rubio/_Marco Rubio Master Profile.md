@@ -202,7 +202,7 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 
 - [[MasTec - Mas Canosa Family]] — $180K lobbying spend (Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil) + $6 in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record

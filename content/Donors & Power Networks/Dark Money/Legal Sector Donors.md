@@ -7,7 +7,7 @@ source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
-related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Business Roundtable]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]]"
+related: "[[Finance and Tech Bundler Network]] · [[Dick Durbin]] · [[Trial Lawyers Fund]] · [[Goldman Sachs]] · [[Democratic Donor Network]] · [[Entertainment and Hollywood Donors]] · [[Ocean Conservancy]] · [[National Progressive Donor Networks]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[New Venture Fund]] · [[Media Matters]] · [[Environmental Law & Policy Center]] · [[Democratic Small Dollar Networks]] · [[Small Dollar Donors - ActBlue]] · [[Ohio Federation of Teachers]] · [[Ohio Democratic Party]] · [[Democratic Party Infrastructure]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Business Roundtable]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]]"
 last-enriched: "2026-04-09"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
@@ -103,5 +103,5 @@ The legal sector's political power extends beyond contributions: lawyers are the
 
 - [[Dick Durbin]] (Judiciary) — lobbying: $7.7M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-16.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
 <!-- auto:influence-cross-ref end -->
