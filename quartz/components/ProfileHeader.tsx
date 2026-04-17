@@ -9,9 +9,6 @@ const ProfileHeader: QuartzComponent = ({
   const type = String(fm?.type ?? "unknown")
   if (type !== "politician" && type !== "donor") return null
 
-  // Normalize display values
-  const typeLabel = type.charAt(0).toUpperCase() + type.slice(1)
-
   // Party for politicians
   const party = String(fm?.party ?? "")
   const partyKey = party.toLowerCase().startsWith("democrat")
@@ -22,11 +19,6 @@ const ProfileHeader: QuartzComponent = ({
     ? "I"
     : ""
   const partyLabel = partyKey === "D" ? "Democrat" : partyKey === "R" ? "Republican" : partyKey === "I" ? "Independent" : ""
-
-  // Type determines color
-  const typeClass = type === "politician" ? "ph-type-politician"
-    : type === "donor" ? "ph-type-donor"
-    : "ph-type-other"
 
   // Build position line
   const chamber = String(fm?.chamber ?? "")
@@ -78,11 +70,9 @@ const ProfileHeader: QuartzComponent = ({
 
   return (
     <div class={classNames(displayClass, "ph-header")} data-profile-type={type}>
-      {/* Row 1: Badges + money raised */}
+      {/* Row 1: Money raised (type is already conveyed by position line below) */}
       <div class="ph-row-top">
-        <div class="ph-badges">
-          <span class={`ph-badge ${typeClass}`}>{typeLabel.toUpperCase()}</span>
-        </div>
+        <div class="ph-badges"></div>
         {(moneyDisplay || donorMoneyDisplay) && (
           <div class="ph-money-wrap">
             <span class="ph-money-label">
