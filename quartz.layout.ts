@@ -24,6 +24,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.ArticleNav(),
     Component.MobileNav(),
     Component.AdminBar(),
+    Component.AnnotationOverlay(),
     Component.CapitolTrades(),
   ],
   footer: Component.Footer({

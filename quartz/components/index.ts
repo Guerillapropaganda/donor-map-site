@@ -49,6 +49,7 @@ import AlphabetJump from "./AlphabetJump"
 import ProfileTabs from "./ProfileTabs"
 import NetworkGraph from "./NetworkGraph"
 import AdminBar from "./AdminBar"
+import AnnotationOverlay from "./AnnotationOverlay"
 import CapitolTrades from "./CapitolTrades"
 import TipForm from "./TipForm"
 
@@ -104,6 +105,7 @@ export {
   ProfileTabs,
   NetworkGraph,
   AdminBar,
+  AnnotationOverlay,
   CapitolTrades,
   TipForm,
 }
