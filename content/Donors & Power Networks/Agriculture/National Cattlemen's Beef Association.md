@@ -15,7 +15,7 @@ annual-revenue: "$54.9M"
 net-assets: "$37.3M"
 tax-year: "2023"
 court-cases: 85
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
@@ -225,7 +225,7 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -519,7 +519,7 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

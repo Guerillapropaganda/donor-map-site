@@ -2007,6 +2007,27 @@ body:has(.lp-landing) .breadcrumb-container {
   font-weight: 700;
 }
 
+// Override the global a.internal yellow highlight for ticker links — this
+// is compact navigation, not prose, so use a subtle red underline instead.
+.ph-donor-link,
+.ph-donor-link.internal {
+  color: #0a0a0a !important;
+  text-decoration: none !important;
+  background: none !important;
+  border: none !important;
+  padding: 0 !important;
+  border-bottom: 1px solid #e63946 !important;
+  font-weight: 700;
+  transition: color 0.15s, border-color 0.15s;
+}
+
+.ph-donor-link:hover,
+.ph-donor-link.internal:hover {
+  color: #e63946 !important;
+  background: none !important;
+  border-bottom-color: #0a0a0a !important;
+}
+
 .ph-donor-sep {
   color: #ddd;
   margin: 0 2px;

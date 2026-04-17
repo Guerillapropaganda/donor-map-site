@@ -34,7 +34,7 @@ annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
@@ -217,7 +217,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -423,7 +423,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

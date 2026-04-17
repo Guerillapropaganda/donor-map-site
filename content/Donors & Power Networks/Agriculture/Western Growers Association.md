@@ -16,7 +16,7 @@ net-assets: $849K
 tax-year: "2023"
 total-political-spend: $481,034
 court-cases: 44
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
@@ -456,7 +456,7 @@ The Western Growers Association (WGA) is an association representing family farm
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

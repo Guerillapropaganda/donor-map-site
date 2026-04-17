@@ -17,7 +17,7 @@ sec-form-types:
   - 40-APP/A
   - EX-99
 federal-register-mentions: 9
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
@@ -299,7 +299,7 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - [Source: ProPublica Nonprofit Explorer — EIN 455097038](https://projects.propublica.org/nonprofits/organizations/455097038) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -420,7 +420,7 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

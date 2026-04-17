@@ -16,7 +16,7 @@ top-federal-agency: Department of Agriculture
 top-naics-code: "311615"
 ein: 476014039
 nonprofit-status: 501(c)(3)
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 total-revenue: 1
@@ -578,7 +578,7 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - [Source: ProPublica Nonprofit Explorer — EIN 476014039](https://projects.propublica.org/nonprofits/organizations/476014039) (Tier 1)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -611,7 +611,7 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

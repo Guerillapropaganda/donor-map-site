@@ -3,11 +3,27 @@ import { classNames } from "../util/lang"
 
 const ProfileHeader: QuartzComponent = ({
   fileData,
+  allFiles,
   displayClass,
 }: QuartzComponentProps) => {
   const fm = fileData.frontmatter
   const type = String(fm?.type ?? "unknown")
   if (type !== "politician" && type !== "donor") return null
+
+  // Build a title -> slug lookup so Top Donors ticker items can link to
+  // their own profile pages when we have one. Loose match: strip
+  // leading underscore + " Master Profile" suffix from the indexed title.
+  const slugByTitle = new Map<string, string>()
+  for (const f of allFiles ?? []) {
+    const t = String(f.frontmatter?.title ?? "")
+      .replace(/^_/, "")
+      .replace(/\s*Master Profile.*/i, "")
+      .trim()
+    if (!t) continue
+    const slug = String(f.slug ?? "")
+    if (!slug) continue
+    if (!slugByTitle.has(t)) slugByTitle.set(t, slug)
+  }
 
   // Position line removed from UI — redundant with page title / breadcrumbs.
   // Frontmatter fields (party/chamber/state/sector/entity-type) retained in
@@ -74,16 +90,26 @@ const ProfileHeader: QuartzComponent = ({
       {/* Row 3: Thesis (populated by client JS) */}
       <div id="ph-thesis" class="ph-thesis" style={{ display: "none" }}></div>
 
-      {/* Row 4: Top donors ticker */}
+      {/* Row 4: Top donors ticker — each name links to its profile if we have one */}
       {topDonors.length > 0 && type === "politician" && (
         <div class="ph-donors-ticker">
           <span class="ph-donors-label">TOP DONORS</span>
-          {topDonors.map((d, i) => (
-            <span class="ph-donor-item">
-              {i > 0 && <span class="ph-donor-sep">·</span>}
-              {String(d).replace(/\[\[/g, "").replace(/\]\]/g, "").split("|")[0]}
-            </span>
-          ))}
+          {topDonors.map((d, i) => {
+            const clean = String(d).replace(/\[\[/g, "").replace(/\]\]/g, "").split("|")[0].trim()
+            const slug = slugByTitle.get(clean)
+            return (
+              <span class="ph-donor-item">
+                {i > 0 && <span class="ph-donor-sep">·</span>}
+                {slug ? (
+                  <a href={`/${slug}`} class="ph-donor-link internal">
+                    {clean}
+                  </a>
+                ) : (
+                  clean
+                )}
+              </span>
+            )
+          })}
         </div>
       )}
     </div>

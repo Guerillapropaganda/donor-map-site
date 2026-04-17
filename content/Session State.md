@@ -3,7 +3,11 @@ title: Session State
 type: system
 last-updated: 2026-04-16
 ---
-<!-- last session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening, Code Claude). Major session: canonical docs rewrite (CLAUDE.md 400->257, Vault Rules, Profile Template, CSV Data Sources, Pipeline Guide); script archive (28 -> _archive/); launch-50 infrastructure (audit + sign-off tracker + prepare); 9-section profile template with validator (pre-commit sentinel #10), generator, SummaryInfobox component, hide-internal-markers transformer, timeline generator; Class Analysis promoted to section 3; Presidential "Executive Actions" variant; Trump live at thedonormap.org as proof-of-concept; tabs (Overview/Money/Executive Actions/Analysis/Timeline/Sources); graph refactor (donors+opposes+media+K-street+contracts) + fullscreen expand; Class Analysis Style Guide shipped; Trump Class Analysis rewritten from data-dump to argumentative voice; custom-stats for outlier financials (Trump DJT stake, TRUMP coin, WLF proceeds); Clerk security patch 7.2.0->7.2.2. -->
+<!-- last session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). Note-taking punch-list then rapid-fire ship: ProfileHeader position line + POLITICIAN badge + VERIFIED labels removed; $2B label added ("CAREER MONEY RAISED"); HOW WE VERIFY link dropped; EDGE COUNT column dropped across 1,463 regenerated data panels; wikilink yellow highlight suppressed in lists; HeroContradiction font swapped Instrument Serif italic -> Space Grotesk 700 upright; three-page IA Behind the Map / Our Sources / The Receipts; hide-internal-markers transformer extended (Archived by Ops / Verified by / editor-approved / Auto-generated / Regenerate); profile-timeline-generator footer -> HTML comment; graph fixes (round-robin type interleave, dynamic ring radius, onclick= expand wiring for SPA nav, 8px min non-donor nodes). Six deploys shipped. Punch list remaining: Class Analysis rewrite (David), Trump polish (Related Figures + donor dedup + 1.45B), EO explainers, stale narrative freshness, Path 3 Ops editor. -->
+<!-- prior session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening). -->
+<!-- prior prior session: Batch editorial Class Analysis pass (2026-04-16 afternoon, Research Claude) -->
+<!-- prior prior prior session: Bulk data ingest marathon (2026-04-15 night). -->
+
 
 
 
@@ -96,6 +100,75 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-16 (late night, Code Claude)
+
+### Theme
+Public-UI cleanup pass + three-page IA + graph fixes + narrative drift detector. David entered "note-taking mode" after initial font fix and itemized a punch list via screenshots. I captured 12 items, then shipped the autonomous-lane tasks back to back while David reviewed live: 8 commits, 6 deploys, one new pre-commit-gated Attention Queue producer, one new page-IA split, and a draft EO-explainer batch waiting for David's approval. Remaining items flagged for David editorial sign-off: Class Analysis rewrite, EO explainer approval, donor-dedup mapping review.
+
+### Done this session
+
+**Public-UI strip pass (deploys 24545177660, 24545267628, 24546197931, 24546304708, 24546394265):**
+- ProfileHeader: removed "Presidential Republican" position line, killed the redundant POLITICIAN badge, added "CAREER MONEY RAISED" label under the `$2B+` dollar figure
+- EvidencePanel: dropped "HOW WE VERIFY →" link (folds into new "The Receipts" page)
+- LandingPage: removed the "568 VERIFIED" stat tile (normies don't know what verified means)
+- PowerRankings, WhoFundsYourRep, IssueExplorer: verified-tier profiles now render as "SOURCED" in the UI; no user-facing "VERIFIED" label anywhere on the public site
+- scripts/build-profile-data-panels.cjs: dropped the "Edge count" column from Top Donors / Top Politicians tables across all 1,463 regenerated profiles, dropped the "Tracked relationships: N edges in the canonical store" line
+- HeroContradiction: font swapped from Instrument Serif italic (literary pull-quote register) to Space Grotesk 700 upright (declarative working-class register)
+- quartz/styles/custom.scss: wikilink yellow-highlight suppressed inside `<li>` — dense navigational link lists (like Trump's "Policy Area Notes") no longer look like a yellow mash. Prose-embedded wikilinks keep the yellow pop.
+- Trump profile: converted "Policy Area Notes" from leading-comma wikilinks to proper bullet list
+- hide-internal-markers transformer: added patterns for "(Archived by Ops)", "(Verified by X)", "(editor-approved)", "(editor-signed-off)", "(sign-off-date:)", "_Auto-generated_", "Regenerate:" italic footers
+- profile-timeline-generator.cjs: demoted the "Auto-generated from data/events.jsonl..." visible footer to an HTML comment — preserved in source for audit, invisible to readers
+
+**Three-page IA (deploy 24547718963):**
+- Replaced the single "About The Donor Map" / "Methodology" page with three named entry points per David's call: "Behind the Map" (mission + class lens), "Our Sources" (tier system in plain English), "The Receipts" (standards + AI disclosure + corrections link)
+- Voice tightened from first-person-singular ("I") to plural ("we") so the pages read as project standards, not one editor's diary
+- `data/public-routes.json` updated: three new slugs in the public allowlist
+- Footer IA rewired in `quartz.layout.ts`: Behind the Map / Our Sources / The Receipts / Corrections / Legal / GitHub (replaced the single Methodology link)
+- Old `About The Donor Map.md` deleted; aliases in "Behind the Map" frontmatter keep `[[About The Donor Map]]` wikilinks resolving
+
+**Graph fixes (deploy 24547861957):**
+- `quartz/components/ProfileWidget.tsx` canvas graph: three fixes
+- Round-robin interleave by type — nodes were clumping on one arc because donors were inserted first (positions 0-9), then opposition (10-14), then media/kstreet/contracts. Now types alternate around the circle so every slice has a mix.
+- Ring radius now scales with node count and fullscreen state: tight for few nodes, pushed out for many, spread wider in fullscreen
+- Fullscreen expand button now wires via `onclick=` (idempotent, replaces any prior handler) every init instead of being gated on a `fullscreenWired` dataset flag that could persist stale state across SPA navigation. Escape-key handler moved to a single page-lifetime global.
+- Opposition/media/kstreet nodes (amount=0) now render at 8px minimum instead of 5px so they're visible and get labels
+
+**Narrative drift detector — item 9 Option B (deploy 24548256089):**
+- `scripts/narrative-drift-detector.cjs`: NEW Attention Queue producer — scans verified/ready profiles against the last 30 days of `data/events.jsonl`, flags profiles whose hand-written prose mentions an entity that's been in the news
+- Registered in `scripts/attention-dispatcher.cjs` to run every 4 hours at :37 (staggered against other producers), 120s timeout
+- Uses shared `lib/attention-queue.cjs` addEntries pattern — entries replace each run, no duplication
+- Dry-run output on commit: 926 verified/ready profiles scanned, 3 flagged in 30-day window. Expected ramp as RSS/events ingest picks up
+
+**Trump EO Explainers draft — item 8 approval path (deploy 24548256089):**
+- `content/Drafts/Trump EO Explainers - David Review.md`: NEW. 25 one-line plain-English impact summaries for each of Trump's current executive orders
+- Class-lens framing: names winners and losers, calls out when "clean coal" or "Made in America" are industry-marketing masks for donor payoffs
+- Awaits David's approve/reject/rewrite pass. On approval, Code Claude applies these as italic subtext under each row in the EO table. Same pattern intended for future Presidential profiles.
+
+### Known issues (flagged for next session)
+
+- **Donor dedup parked pending David review** — "AB PAC"/"Ab Pac", "MAGA Inc"/"MAKE AMERICA GREAT AGAIN INC.", "Rbg Pac"/"RBG PAC" all appear in Trump's top-donors list. Merging these in canonical `data/relationships.jsonl` is a careful surgical operation. David said "For sure I'll help" — next session proposes a mapping CSV for his review before writing any edges.
+- **Class Analysis rewrite (Trump)** — David will do this in his working-class voice. Replaces mine as the reference exemplar in the Class Analysis Style Guide.
+- **EO explainers await approval** — `content/Drafts/Trump EO Explainers - David Review.md`. 25 draft lines. Read + check off, then Code Claude applies to the profile table.
+- **Path 3 Ops live-preview editor** — not built this session (context capacity). Confirmed high-value by David. Spec: new `/profile-editor` Ops page with split-pane markdown editor + live-rendering Quartz preview. First-priority next-session build.
+- **Related Figures auto-generation** (Trump polish item): still open. "Connections to Existing Vault" section is hand-written and drifts (the Bianco/Hilton example). Needs auto-generation from relationships.jsonl.
+
+### In progress
+
+- **Donor dedup mapping** — mapping proposal to be drafted next session for David's pair review
+- **Trump EO explainers** — draft file waiting David approval, then applied to profile
+
+### Next session priorities
+
+1. **Path 3 Ops live-preview profile editor** — highest leverage item. New `/profile-editor` page, split-pane, closes the screenshot+annotate feedback loop.
+2. **Donor dedup — propose mapping CSV for David review** — case-insensitive canonical-name proposal across `data/relationships.jsonl`. David approves before any canonical write.
+3. **Apply approved EO explainers to Trump table** — once David signs off on the draft file, mechanical edit into the Executive Actions H2 table.
+4. **Related Figures auto-generation for Trump** — replace hand-written "Connections to Existing Vault" with top-10 by relevance from relationships.jsonl.
+5. **Hard-refresh check on all tonight's UI changes** — confirm the strip pass, graph interleave, and three-page IA land right on the live site.
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-16 (evening, long session)
 

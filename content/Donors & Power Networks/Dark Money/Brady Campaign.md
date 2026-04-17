@@ -8,7 +8,7 @@ parent: null
 sector: Dark Money
 entity-type: Individual Donor
 court-cases: 410
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 court-jurisdictions:
@@ -184,7 +184,7 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [Source: ProPublica Nonprofit Explorer — EIN 237321017](https://projects.propublica.org/nonprofits/organizations/237321017) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -425,7 +425,7 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
