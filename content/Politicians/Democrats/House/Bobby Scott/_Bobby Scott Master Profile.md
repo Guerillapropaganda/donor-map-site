@@ -33,7 +33,7 @@ bills-sponsored: 18
 bills-cosponsored: 202
 website: https://bobbyscott.house.gov
 phone: 202-225-8351
-total-received: "$290,963"
+total-received: "$415,325"
 fec-candidate-id: "H6VA01117"
 donors: "[[AFGE - American Federation of Government Employees]] · [[Blue Shield of California]] · [[Student Loan Servicer Industry]] · [[Sierra Club Independent Action]] · [[United We Can]] · [[DEMOCRATIC PARTY OF VIRGINIA]] · [[TOGETHER WE THRIVE]] · [[SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[National Committee to Preserve Social Security PAC]] · [[Democratic Party of Virginia]] · [[Southern States Police Benevolent Assoc PAC Fund]] · [[Together We Thrive]]"
 related: "[[Tim Walberg]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[SEIU - Service Employees International Union|SEIU]]"
@@ -261,17 +261,17 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2026 |
-| Total Raised | $290,963 |
-| Individual Contributions | $131,043 |
-| PAC Contributions | $143,341 |
-| Cash on Hand | 95642.17 |
+| Total Raised | $415,325 |
+| Individual Contributions | $213,882 |
+| PAC Contributions | $182,341 |
+| Cash on Hand | 158104.85 |
 | IE Support (Super PAC) | $11,762 |
 
 **Fundraising by cycle:**
 
 | Cycle | Total Raised | Individual | PAC |
 |-------|-------------|------------|-----|
-| 2026 | $290,963 | $131,043 | $143,341 |
+| 2026 | $415,325 | $213,882 | $182,341 |
 | 2024 | $869,637 | $351,896 | $483,757 |
 | 2022 | $851,699 | $312,225 | $497,700 |
 | 2020 | $875,926 | $187,435 | $653,550 |
