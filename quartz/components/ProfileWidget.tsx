@@ -646,6 +646,7 @@ const ProfileWidget: QuartzComponent = ({
 ProfileWidget.afterDOMLoaded = `
 function initProfileWidget() {
   var widget = document.querySelector('.pw-widget');
+  console.warn('[pw-graph] initProfileWidget called. widget=', !!widget);
   if (!widget) return;
 
   var tabs = widget.querySelectorAll('.pw-tab');
@@ -685,14 +686,15 @@ function initProfileWidget() {
 // with draggable nodes, zoom/pan, hover tooltips, and click-to-navigate.
 function initCanvasGraph() {
   var container = document.querySelector('.pw-canvas-graph');
-  if (!container) return;
+  if (!container) { console.warn('[pw-graph] no .pw-canvas-graph container — profile has no canvas-graph panel this page'); return; }
   var svg = container.querySelector('svg.pw-d3-svg');
-  if (!svg) return;
+  if (!svg) { console.warn('[pw-graph] container found but no svg.pw-d3-svg inside'); return; }
   var raw = container.getAttribute('data-canvas-graph');
-  if (!raw) return;
+  if (!raw) { console.warn('[pw-graph] svg found but data-canvas-graph attribute is empty/missing'); return; }
 
   var data;
-  try { data = JSON.parse(raw); } catch(e) { return; }
+  try { data = JSON.parse(raw); } catch(e) { console.warn('[pw-graph] JSON.parse failed on data-canvas-graph:', e && e.message, 'first 120 chars:', raw.slice(0, 120)); return; }
+  console.warn('[pw-graph] initCanvasGraph entry OK. connections=', (data.connections || []).length, 'center=', data.center && data.center.name, 'containerW=', container.clientWidth);
 
   // Wire fullscreen expand button (idempotent onclick, survives SPA nav)
   var expandBtn = container.querySelector('.pw-graph-expand');

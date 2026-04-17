@@ -14,7 +14,6 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.NetworkGraph(),
     Component.InteractiveGraphs(),
-    Component.NetworkGraph(),
     Component.PowerRankings(),
     Component.WhoFundsYourRep(),
     Component.WeeklySpotlight(),
