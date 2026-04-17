@@ -397,42 +397,111 @@ const ProfileWidget: QuartzComponent = ({
   const fullGraphData = JSON.stringify({ nodes: miniGraphNodes, edges: miniGraphEdges })
   const hasMiniGraph = miniGraphNodes.length > 1
 
-  // ── CANVAS GRAPH: Build compact data for the new radial canvas graph ──
-  // Top connections by dollar amount for the mini graph (max 24 for radial layout)
-  const MAX_GRAPH_NODES = 24
-  const graphConnections: { name: string; amount: number; type: "money" | "contract" | "opposition" | "related"; slug: string }[] = []
+  // ── CANVAS GRAPH: Diverse connection types by profile category ──
+  // Per user feedback: don't just show top 24 donors by amount. Mix types:
+  //   - Top donors (by money received)
+  //   - Opposition politicians (the contradictions)
+  //   - Media profiles referenced in this entity's network
+  //   - Think tanks + lobbying firms (K Street)
+  //   - Corporate contracts (for presidents/cabinet with contract data)
+  // Each gets a type label for color-coding in the canvas render.
+  const MAX_GRAPH_NODES = 28
+  const QUOTA = {
+    donors: 10,
+    opposition: 5,
+    media: 5,
+    kstreet: 5, // think-tank + lobbying-firm combined
+    contracts: 3,
+  }
+  const graphConnections: {
+    name: string
+    amount: number
+    type: "donor" | "contract" | "opposition" | "media" | "kstreet"
+    slug: string
+  }[] = []
 
-  // Add monetary connections (sorted by amount)
+  const addedNames = new Set<string>()
+  function addNode(name: string, amount: number, type: typeof graphConnections[0]["type"], slug: string) {
+    if (addedNames.has(name)) return
+    addedNames.add(name)
+    graphConnections.push({ name, amount, type, slug })
+  }
+
+  // 1. TOP DONORS (by monetary amount)
+  let donorCount = 0
   for (const d of [...(monetaryDetail || [])].sort((a, b) => b.amount - a.amount)) {
     if (d.confidence < 0.7) continue
-    if (graphConnections.some(g => g.name === d.name)) continue
     const info = donorInfo.get(d.name)
-    graphConnections.push({ name: d.name, amount: d.amount, type: "money", slug: info?.slug || "" })
-    if (graphConnections.length >= MAX_GRAPH_NODES) break
+    addNode(d.name, d.amount, "donor", info?.slug || "")
+    donorCount++
+    if (donorCount >= QUOTA.donors) break
   }
 
-  // Add contract connections
-  if (graphConnections.length < MAX_GRAPH_NODES) {
-    for (const d of [...(contractDetail || [])].sort((a, b) => b.amount - a.amount)) {
-      if (graphConnections.some(g => g.name === d.name)) continue
-      graphConnections.push({ name: d.name, amount: d.amount, type: "contract", slug: "" })
-      if (graphConnections.length >= MAX_GRAPH_NODES) break
+  // 2. OPPOSITION POLITICIANS (contradictions)
+  let oppositionCount = 0
+  for (const name of (rels?.opposes ?? [])) {
+    if (oppositionCount >= QUOTA.opposition) break
+    if (addedNames.has(name)) continue
+    addNode(name, 0, "opposition", "")
+    oppositionCount++
+  }
+  // Also pull from networkInfo entries marked as opposition
+  for (const [name, info] of networkInfo) {
+    if (oppositionCount >= QUOTA.opposition) break
+    if (info.edgeType === "opposition" && info.type === "politician") {
+      addNode(name, 0, "opposition", info.slug || "")
+      oppositionCount++
     }
   }
 
-  // Add opposition
-  if (graphConnections.length < MAX_GRAPH_NODES) {
-    for (const name of (rels?.opposes ?? [])) {
-      if (graphConnections.some(g => g.name === name)) continue
-      graphConnections.push({ name, amount: 0, type: "opposition", slug: "" })
-      if (graphConnections.length >= MAX_GRAPH_NODES) break
+  // 3. MEDIA PROFILES
+  let mediaCount = 0
+  for (const [name, info] of networkInfo) {
+    if (mediaCount >= QUOTA.media) break
+    if (info.type === "media" || info.type === "media-profile") {
+      addNode(name, 0, "media", info.slug || "")
+      mediaCount++
     }
   }
 
+  // 4. K STREET (think tanks + lobbying firms)
+  let kstreetCount = 0
+  for (const [name, info] of networkInfo) {
+    if (kstreetCount >= QUOTA.kstreet) break
+    if (info.type === "think-tank" || info.type === "lobbying-firm" || info.type === "lobbying") {
+      addNode(name, 0, "kstreet", info.slug || "")
+      kstreetCount++
+    }
+  }
+
+  // 5. CORPORATE CONTRACTS (for presidents/cabinet)
+  let contractCount = 0
+  for (const d of [...(contractDetail || [])].sort((a, b) => b.amount - a.amount)) {
+    if (contractCount >= QUOTA.contracts) break
+    addNode(d.name, d.amount, "contract", "")
+    contractCount++
+  }
+
+  // Fill remaining slots with more donors if any tiers came up short
+  if (graphConnections.length < MAX_GRAPH_NODES) {
+    for (const d of [...(monetaryDetail || [])].sort((a, b) => b.amount - a.amount)) {
+      if (graphConnections.length >= MAX_GRAPH_NODES) break
+      if (d.confidence < 0.7) continue
+      if (addedNames.has(d.name)) continue
+      const info = donorInfo.get(d.name)
+      addNode(d.name, d.amount, "donor", info?.slug || "")
+    }
+  }
+
+  const totalConnections =
+    (monetaryDetail?.length || 0) +
+    (contractDetail?.length || 0) +
+    (rels?.opposes?.length || 0) +
+    networkInfo.size
   const canvasGraphData = JSON.stringify({
     center: { name: currentTitle, type: fmType, party },
     connections: graphConnections,
-    totalConnections: (monetaryDetail?.length || 0) + (contractDetail?.length || 0) + (rels?.opposes?.length || 0),
+    totalConnections,
   })
   const hasCanvasGraph = graphConnections.length > 0
 
@@ -455,13 +524,12 @@ const ProfileWidget: QuartzComponent = ({
       {hasCanvasGraph && (
         <div class="pw-panel pw-panel-active" data-panel="graph">
           <div class="pw-canvas-graph" data-canvas-graph={canvasGraphData}>
+            <button class="pw-graph-expand" title="Expand graph to full view" aria-label="Expand graph">⤢</button>
             <canvas width="600" height="520"></canvas>
           </div>
-          {graphConnections.length < (monetaryDetail?.length || 0) + (contractDetail?.length || 0) && (
-            <div class="pw-graph-overflow">
-              Showing top {graphConnections.length} of {(monetaryDetail?.length || 0) + (contractDetail?.length || 0)} connections by dollar amount
-            </div>
-          )}
+          <div class="pw-graph-overflow">
+            Showing {graphConnections.length} connections (diverse mix: donors, opposes, media, K Street, contracts). {totalConnections} total in canonical store.
+          </div>
         </div>
       )}
       {/* Legacy SVG graph fallback for profiles without monetary data */}
@@ -626,13 +694,49 @@ function initCanvasGraph() {
   var ctx = canvas.getContext('2d');
   if (!ctx) return;
 
+  // Wire up fullscreen expand button (once per container)
+  if (container.dataset.fullscreenWired !== 'true') {
+    container.dataset.fullscreenWired = 'true';
+    var expandBtn = container.querySelector('.pw-graph-expand');
+    if (expandBtn) {
+      expandBtn.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var isFullscreen = container.classList.toggle('pw-graph-fullscreen');
+        if (isFullscreen) {
+          expandBtn.innerHTML = '✕';
+          expandBtn.title = 'Close fullscreen';
+          document.body.style.overflow = 'hidden';
+        } else {
+          expandBtn.innerHTML = '⤢';
+          expandBtn.title = 'Expand graph to full view';
+          document.body.style.overflow = '';
+        }
+        // Re-init to re-render at new size
+        setTimeout(function() { initCanvasGraph(); }, 50);
+      });
+    }
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && container.classList.contains('pw-graph-fullscreen')) {
+        container.classList.remove('pw-graph-fullscreen');
+        var btn = container.querySelector('.pw-graph-expand');
+        if (btn) { btn.innerHTML = '⤢'; btn.title = 'Expand graph to full view'; }
+        document.body.style.overflow = '';
+        setTimeout(function() { initCanvasGraph(); }, 50);
+      }
+    });
+  }
+
+  // Recompute size for current state (normal or fullscreen)
+  var isFullscreenNow = container.classList.contains('pw-graph-fullscreen');
   var dpr = window.devicePixelRatio || 1;
-  var cssW = container.clientWidth || 300;
-  var cssH = 260;
+  var cssW = isFullscreenNow ? window.innerWidth : (container.clientWidth || 300);
+  var cssH = isFullscreenNow ? window.innerHeight : 260;
   canvas.width = cssW * dpr;
   canvas.height = cssH * dpr;
   canvas.style.width = cssW + 'px';
   canvas.style.height = cssH + 'px';
+  ctx.setTransform(1, 0, 0, 1, 0, 0);
   ctx.scale(dpr, dpr);
 
   var cx = cssW / 2;
@@ -640,8 +744,16 @@ function initCanvasGraph() {
   var conns = data.connections || [];
   var center = data.center || {};
 
-  // Color scheme
-  var TYPE_COLORS = { money: '#16a34a', contract: '#3b82f6', opposition: '#e63946', related: '#a855f7' };
+  // Color scheme — one color per connection type
+  var TYPE_COLORS = {
+    donor: '#16a34a',       // green — money in
+    money: '#16a34a',       // legacy alias
+    contract: '#3b82f6',    // blue — govt contracts
+    opposition: '#e63946',  // red — political opposition
+    media: '#a855f7',       // purple — media/press
+    kstreet: '#f59e0b',     // amber — lobbying + think tanks
+    related: '#888'         // gray — generic related
+  };
   var PARTY_COLORS = { Democrat: '#3b82f6', Republican: '#e63946' };
   var centerColor = PARTY_COLORS[center.party] || '#fbbf24';
 
@@ -771,13 +883,16 @@ function initCanvasGraph() {
   var centerLabel = truncName(center.name || '', 14);
   ctx.fillText(centerLabel, cx, cy + 3);
 
-  // Legend
+  // Legend — only show types actually present in the graph
   var legendY = cssH - 14;
-  var legendItems = [
-    { label: 'Funded', color: TYPE_COLORS.money },
-    { label: 'Contracts', color: TYPE_COLORS.contract },
-    { label: 'Opposes', color: TYPE_COLORS.opposition },
-  ];
+  var typesPresent = {};
+  for (var li = 0; li < conns.length; li++) typesPresent[conns[li].type] = true;
+  var legendItems = [];
+  if (typesPresent.donor || typesPresent.money) legendItems.push({ label: 'Donors', color: TYPE_COLORS.donor });
+  if (typesPresent.contract) legendItems.push({ label: 'Contracts', color: TYPE_COLORS.contract });
+  if (typesPresent.opposition) legendItems.push({ label: 'Opposes', color: TYPE_COLORS.opposition });
+  if (typesPresent.media) legendItems.push({ label: 'Media', color: TYPE_COLORS.media });
+  if (typesPresent.kstreet) legendItems.push({ label: 'K Street', color: TYPE_COLORS.kstreet });
   var legendX = 8;
   ctx.font = '8px "Space Mono", monospace';
   for (var i = 0; i < legendItems.length; i++) {
@@ -1104,6 +1219,52 @@ a.pw-bs-recip:hover {
   display: block;
   width: 100%;
   height: 100%;
+}
+
+.pw-graph-expand {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  z-index: 10;
+  background: rgba(251, 191, 36, 0.9);
+  border: none;
+  color: #0a0a0a;
+  width: 28px;
+  height: 28px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s ease;
+  font-family: "Space Mono", monospace;
+}
+
+.pw-graph-expand:hover {
+  background: #fbbf24;
+}
+
+/* Fullscreen modal state */
+.pw-canvas-graph.pw-graph-fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  border: none;
+  background: rgba(10, 10, 10, 0.98);
+  height: 100vh;
+}
+
+.pw-canvas-graph.pw-graph-fullscreen .pw-graph-expand {
+  top: 20px;
+  right: 20px;
+  width: 44px;
+  height: 44px;
+  font-size: 22px;
+  background: #fbbf24;
 }
 
 .pw-graph-overflow {
