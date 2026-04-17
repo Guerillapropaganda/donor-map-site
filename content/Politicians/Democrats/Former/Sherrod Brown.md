@@ -63,7 +63,7 @@ issues:
   - Finance and Financial Sector
   - Government Operations and Politics
   - Health
-total-received: "$14,356,451"
+total-received: "$24,471,408"
 wikidata-id: Q381880
 wikipedia-url: https://en.wikipedia.org/wiki/Sherrod_Brown
 wikipedia-extract: Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as a United States senator from Ohio. A member of the Democratic Party, he was the U.S.
@@ -228,10 +228,10 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2026 |
-| Total Raised | $14,356,451 |
-| Individual Contributions | $5,958,251 |
-| PAC Contributions | $600,126 |
-| Cash on Hand | 9899641.92 |
+| Total Raised | $24,471,408 |
+| Individual Contributions | $10,630,970 |
+| PAC Contributions | $701,523 |
+| Cash on Hand | 16514461.43 |
 | IE Support (Super PAC) | $18,005,691 |
 | IE Opposition (Super PAC) | $217,170,221 |
 
@@ -239,7 +239,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 
 | Cycle | Total Raised | Individual | PAC |
 |-------|-------------|------------|-----|
-| 2026 | $14,356,451 | $5,958,251 | $600,126 |
+| 2026 | $24,471,408 | $10,630,970 | $701,523 |
 | 2024 | $103,336,341 | $54,135,083 | $3,938,332 |
 | 2018 | $28,817,989 | $14,941,915 | $3,801,459 |
 | 2012 | $24,831,022 | $13,198,453 | $3,189,343 |

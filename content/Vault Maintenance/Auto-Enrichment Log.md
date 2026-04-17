@@ -167,6 +167,21 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-17 20:44 UTC — 9 profiles
+
+**FEC — 9 profiles:**
+- Sherrod Brown — 2026 raised $24,471,408
+- Tim Walz — 2018 raised $113,151
+- Adam Smith — 2026 raised $1,128,650
+- Alexandria Ocasio-Cortez — 2026 raised $27,733,215
+- Ayanna Pressley — 2026 raised $914,493
+- Barbara Lee — 2024 raised $375,046
+- Bennie Thompson — 2026 raised $608,726
+- Bobby Scott — 2026 raised $415,325
+- California Farm Bureau Federation — total political spend $892,442
+
+---
 ## 2026-04-17 14:56 UTC — 22 profiles
 
 **ofac-sdn — 22 profiles:**
