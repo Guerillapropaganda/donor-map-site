@@ -168,7 +168,7 @@ article em {
   letter-spacing: 0.5px;
 }
 
-// --- Links — internal wikilinks get yellow underline (names pop) ---
+// --- Links — internal wikilinks get yellow underline (names pop in prose) ---
 a.internal {
   color: #0a0a0a !important;
   font-weight: 700;
@@ -183,6 +183,23 @@ a.internal {
 a.internal:hover {
   color: #0a0a0a !important;
   background: linear-gradient(to bottom, transparent 40%, #fbbf24 40%) !important;
+}
+
+// Inside lists (navigational link-lists), drop the yellow highlight.
+// Otherwise dense lists of 10+ wikilinks become a yellow mash.
+li > a.internal,
+li > a.internal:hover,
+li > p > a.internal,
+li > p > a.internal:hover {
+  background: none !important;
+  font-weight: 600 !important;
+  border-bottom: 1px solid #999 !important;
+  padding: 0 !important;
+}
+
+li > a.internal:hover,
+li > p > a.internal:hover {
+  border-bottom-color: #0a0a0a !important;
 }
 
 a.external {
