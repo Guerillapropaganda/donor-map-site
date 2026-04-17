@@ -29,7 +29,7 @@ nonprofit-status: 501(c)(4)
 sec-filings: 1
 sec-form-types:
   - D
-related: ">- · [[Tulsi Gabbard]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Linda McMahon]] · [[Kash Patel]] · [[Donald Trump]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[GOP House Defense 2026]] · [[Master Donor Database]] · [[Elliott Management]] · [[Winning for Women PAC]] · [[Senate Majority PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]]"
+related: ">- · [[Tulsi Gabbard]] · [[The 50 Million Dollar Pipeline from WWE to the Cabinet]] · [[Linda McMahon]] · [[Kash Patel]] · [[Donald Trump]] · [[The Kash Patel FBI - Loyalty Over Law and the Weaponization of Federal Law Enforcement]] · [[GOP House Defense 2026]] · [[Master Donor Database]] · [[Elliott Management]] · [[Winning for Women PAC]] · [[Senate Majority PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]]"
 wikidata-id: Q123281082
 wikipedia-url: 'https://en.wikipedia.org/wiki/Make_America_Great_Again_Inc.'
 wikipedia-extract: >-

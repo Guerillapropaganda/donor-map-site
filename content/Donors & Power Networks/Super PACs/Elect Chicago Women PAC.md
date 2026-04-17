@@ -2,7 +2,7 @@
 title: "Elect Chicago Women PAC"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-11
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 sector: "Super PACs"
@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Affordable Chicago Now PAC]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]]"
+related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Affordable Chicago Now PAC]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]] · [[DMFI - Democratic Majority for Israel]]"
 cross-vault-triangulation-count: 4
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

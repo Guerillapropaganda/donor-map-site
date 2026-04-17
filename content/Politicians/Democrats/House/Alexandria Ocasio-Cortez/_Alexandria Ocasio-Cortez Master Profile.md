@@ -3,7 +3,7 @@ title: "Alexandria Ocasio-Cortez Master Profile"
 type: politician
 content-readiness: ready
 central-thesis: "AOC represents the donor class's nightmare AND its containment strategy. Her small-dollar funding model proves that politicians don't need corporate money — a demonstration effect that terrifies every institution that depends on the funding chokeh..."
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 party: "Democrat"
@@ -59,7 +59,7 @@ reenrich-reason: "run pipelines"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because:
   • No last-enriched date is set. The pipelines have never touched this file.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 committees:
   - "House Committee on Energy and Commerce"
 total-raised: "$23,658,045"
@@ -456,7 +456,7 @@ _No committee data found for the 119th Congress._
 - {{src:src_001221}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-16 -->
+<!-- auto:fec-politician pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

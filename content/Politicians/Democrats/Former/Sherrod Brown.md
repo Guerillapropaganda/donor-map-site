@@ -3,7 +3,7 @@ title: Sherrod Brown
 type: politician
 content-readiness: ready
 central-thesis: Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r...
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
@@ -50,7 +50,7 @@ total-raised: $14,356,451
 total-spent: $4,456,809
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 bioguide-id: B001313
 issues:
   - Agriculture and Food
@@ -221,7 +221,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - {{src:src_001996}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-16 -->
+<!-- auto:fec-politician pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
