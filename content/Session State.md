@@ -3,7 +3,7 @@ title: Session State
 type: system
 last-updated: 2026-04-16
 ---
-<!-- last session: Bulk data ingest marathon (2026-04-16, Code Claude). Parsed 258M+ rows across 3 new scripts. (1) ingest-usaspending-grants-bulk.cjs: 2.9M rows from FY2026 assistance awards → 37 federal-grant edges + 25 profiles (AEI $7.3M, Heritage $2.4M, Bradley $3.4M). Added federal-grant edge type to schema. (2) ingest-fec-individual-bulk.cjs: 255.3M rows from 6 FEC individual contribution cycles (2016-2026) → 17,816 monetary edges + 294 employer profiles. Per-cycle flush architecture to avoid OOM on 18.7GB. Top: Las Vegas Sands $159M, Blackstone $99.9M, Google $52.8M, FTX $45.8M. (3) ingest-congress-bills-bulk.cjs: 19,308 bill XMLs from 118th Congress → 465 politician profiles with bills-sponsored, bills-cosponsored, bills-enacted, top-policy-area frontmatter + auto-blocks. 96.5% match rate via bioguideId. Reviewed master list of ~200 potential data sources, recommended Tier 1 downloads: IRS 990 bulk, FEC independent expenditures, CMS Open Payments, SEC Form 4, LittleSis, EPA enforcement, OpenSanctions. -->
+<!-- last session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening, Code Claude). Major session: canonical docs rewrite (CLAUDE.md 400->257, Vault Rules, Profile Template, CSV Data Sources, Pipeline Guide); script archive (28 -> _archive/); launch-50 infrastructure (audit + sign-off tracker + prepare); 9-section profile template with validator (pre-commit sentinel #10), generator, SummaryInfobox component, hide-internal-markers transformer, timeline generator; Class Analysis promoted to section 3; Presidential "Executive Actions" variant; Trump live at thedonormap.org as proof-of-concept; tabs (Overview/Money/Executive Actions/Analysis/Timeline/Sources); graph refactor (donors+opposes+media+K-street+contracts) + fullscreen expand; Class Analysis Style Guide shipped; Trump Class Analysis rewritten from data-dump to argumentative voice; custom-stats for outlier financials (Trump DJT stake, TRUMP coin, WLF proceeds); Clerk security patch 7.2.0->7.2.2. -->
 
 
 
@@ -15,33 +15,35 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Current Build Phase
 
-**Phase:** Foundation stabilization — COMPLETE. Maintenance + bug hunt rhythm.
-**Status:** All 5 foundation pillars shipped. Pillar 2 closed tonight.
-**Authority:** ADR-0003 (closed by ADR-0008), ADR-0008, ADR-0009 (auth), CLAUDE.md rules 9–13
+**Phase:** Launch 50 sprint for April 30 public launch. Trump live as proof-of-concept.
+**Status:** Template architecture shipped. Trump at thedonormap.org. Iterating on quality bar before scaling to other 49.
+**Authority:** CLAUDE.md rewritten (2026-04-16), Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011)
 
-**Next concrete actions (autonomous, Code Claude's lane):**
-1. **Fix batch4 silent failures** — fara, osha, voting-record all show Not found:15/15 or Errors:15/15. These pipelines run but accomplish nothing. Diagnose name-matching logic and API endpoint health for each.
-2. **Fix auto-connection-engine crash** — stack trace at `scripts/lib/enrichment-log.cjs:101 (flushLog)` appears in every batch run. Read that file at line 101 and fix the unhandled error.
-3. **FEC full-receipts pipeline wrote 0** — cause unknown (log line cut off). Check `fec-pipeline.cjs` behavior with `--write` flag; likely `selectTargets()` skip or missing committee ID lookup.
-4. **FEC pipeline → upsertEdges()** — plumb the FEC Committee Registry into fec-summary so each run writes monetary edges via `upsertEdges()`. Open item from bug-005 resolution.
-5. **Remaining 215 unmatched FEC committees ($123.4M)** — continue stub creation. Current registry: 293 entries.
-6. ~~Strikethrough source migration~~ DONE (3,415 links across 1,082 profiles, 2026-04-15 evening session).
-7. Re-run heuristic class-tag pass on 2 policy-cited entities (Bank of America, National Republican Senatorial Committee).
+**Next concrete actions (Code Claude's lane, 2026-04-17 priority order):**
+1. **Build live-preview profile editor in Ops** (agreed with David, Path 3 from this session's discussion). New `/profile-editor` page with split-pane: left = markdown editor, right = live-rendering preview using Quartz components. Goal: close the feedback loop so David doesn't have to screenshot+annotate every iteration.
+2. **Wait for David's Trump Class Analysis rewrite** — he'll do it in his working-class voice as the reference exemplar. My job: accept the pasted text, drop it in the profile, commit, update Class Analysis Style Guide with his rewrite as the canonical example (replacing mine).
+3. **Add `class-analysis-signed-off: true` to the validator** — profile-template-validator should block verified-tier promotion without this flag set.
+4. **Trump polish continuation**:
+   - Fix the 2024 fundraising table numbers (current "$3.8M" is wrong per candidate committee only; real is ~$1.45B per OpenSecrets; table needs a pipeline fix or manual correction)
+   - Related Figures section: replace "Connections to Existing Vault" with auto-generated top-10 by relevance from relationships.jsonl
+   - Source conversion pass: inline `[Source: X. Tier 2]` citations → `{{src:ID}}` refs
+   - Verify tabs render correctly on live site post-deploy
+5. **Data dedup**: "Ab Pac" vs "AB PAC" vs "Rbg Pac" vs "RBG PAC" in Trump's top-donors table. Normalization pass on relationships.jsonl.
 
-**Next concrete actions (manual review, David's lane):**
-1. Work through `content/Admin Notes/readiness-promotion-digest.md` — 19 profiles are one flag-flip from verified, 11 more are draft→verified.
-2. Run `gitleaks detect --source . --report-path gitleaks-report.json` on full repo history before any public launch. (The other Claude session is implementing gitleaks CI integration — see `content/Admin Notes/pre-launch-security-brief.md`.)
-3. Answer the 5 blocker questions at the bottom of the pre-launch security brief (attribution name, pseudonymity stance, corrections email, second Git remote, trademark).
-4. Decide: keep going Pillar 2 fresh tomorrow, or defer and work on other things.
+**Next concrete actions (David's lane):**
+1. **Rewrite Trump's Class Analysis in your voice** (working-class perspective, majority-vs-rich framing, John Doe figure critique). This becomes the reference exemplar for all other profiles.
+2. **Review Trump live** at https://thedonormap.org/Politicians/Republicans/Presidential/Donald-Trump/_Donald-Trump-Master-Profile — flag anything still off via screenshot (until live-preview editor ships).
+3. **Decide**: do we promote Trump to `content-readiness: verified` after your Class Analysis rewrite, as the first verified profile? That would unblock the validator enforcement pattern.
+4. **Install 2FA on Namecheap + ProtonMail** if not done (security sprint flagged this).
+5. **Optional**: check Dependabot alerts at https://github.com/Guerillapropaganda/donor-map-site/security/dependabot (all clean as of session end, but any new alerts need triage).
 
-**Do NOT touch** (the other Claude session owns these):
-- LICENSE / CONTENT-LICENSE files
-- Public `/legal` page
-- Rate limiting middleware
-- Query engine cost limits + new contract tests (would become sentinel #10)
-- gitleaks CI wiring
-- Pseudonymity audit scripts
-- Corrections policy / DMCA playbook / backup playbook
+**Current live on thedonormap.org (public-routes.json allowlist):**
+- `index` — homepage
+- `Politicians/Republicans/Presidential/Donald-Trump/_Donald-Trump-Master-Profile` — Trump Master Profile
+- `legal` — licensing page
+- `corrections` — corrections policy
+
+**Do NOT touch** (owned elsewhere): N/A this session — all previously-flagged "other session" items (licensing, security, etc.) are shipped.
 
 See `content/Admin Notes/pre-launch-security-brief.md` for full context.
 
@@ -94,12 +96,92 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 ---
 
 ## Last Session
-Claude: Research
-Date: 2026-04-16
-Context window: interrupted, continued in new session
+Claude: Code
+Date: 2026-04-16 (evening, long session)
 
 ### Theme
-Batch editorial pass on vault profiles. Built editorial infrastructure (queue script, editorialpass skill), fixed a YAML deploy-blocker (Adam Smith), then worked through 7 profiles adding Class Analysis sections and central-thesis frontmatter.
+Template architecture rewrite + Trump live as proof-of-concept. Major structural session: canonical docs rewrite, script archive cleanup, 9-section profile template with full enforcement pipeline (validator + generator + SummaryInfobox + hide-internal-markers + timeline generator), Trump profile regenerated and pushed live at thedonormap.org. Security sprint ran in parallel (Clerk vuln patch, Dependabot cleanup). Class Analysis Style Guide shipped after David flagged that AI-drafted class analysis reads like OpenSecrets summary, not Jacobin. Trump Class Analysis rewritten as argumentative-voice exemplar (subject to David's final rewrite in working-class voice tomorrow).
+
+### Done this session
+
+**Canonical docs rewrite (atomic commit replacing live):**
+- `CLAUDE.md` — fresh 257 lines (was 400). Kills zombie `-generated` rule, resolves Rule 10 vs §6 contradiction, documents CSV-first data posture, 9-section template load-bearing, placeholder preservation rule, active ADR list
+- `content/Vault Rules.md` — 13 numbered rules, lane boundaries, "what changed" section
+- `content/Profile Template.md` — NEW, 9-section spec with auto/editorial split, per-type variants (including Presidential "Executive Actions"), tab mapping table, custom-stats schema
+- `content/CSV Data Sources.md` — NEW, data dictionary with priority order per profile type, quarterly refresh playbook
+- `content/Pipeline Guide.md` — trimmed to 3 active pipelines + STOCK Act, archived tables
+- `content/Class Analysis Style Guide.md` — NEW, hard rules, per-type framing templates, before/after exemplars
+- Historical ADRs moved to `content/Decisions/Archive/` (0003, 0005, 0006, 0008) + Archive README
+
+**Script archive (28 scripts to `scripts/_archive/`):**
+- 6 migrations, 2 backfills, 13 one-time cleanups, 7 deprecated experiments
+- `scripts/_archive/README.md` catalog with resurrect instructions
+- Ops `/scripts` page gets new "Archived Scripts (28)" expandable section
+- Updated 3 allowlist paths in `ops/src/app/api/scripts/route.ts`
+
+**Launch-50 infrastructure:**
+- `scripts/launch-50-audit.cjs` — scores each launch-50 profile against verified-tier requirements
+- `scripts/launch-50-prepare.cjs` — flags under-enriched for re-enrichment + inserts Class Analysis skeletons
+- `ops/src/app/signoff-launch/page.tsx` — 4-stage progress tracker (CA written / URLs verified / David reviewed / promoted)
+- `ops/src/app/api/launch-50/route.ts` — GET audit+signoff, PATCH per-profile
+- Audit output at `content/Admin Notes/launch-50-audit.json`
+
+**9-section profile template pipeline:**
+- `scripts/profile-template-validator.cjs` — pre-commit sentinel #10. Enforces section presence + order + required frontmatter + freshness + no unresolved roadmap markers on verified-tier profiles. Skips lower tiers, claim-object, editor-vouched, non-entity types
+- `scripts/profile-template-generator.cjs` — additive reshape. Preserves editorial content, adds stubs for missing required sections, handles variants with prefix-match, drops stale stubs from prior template versions. Per-type Section 5 (Key Votes for legislators, Executive Actions for presidents, Politicians Funded for donors, Contracts + Lobbying for corps)
+- `scripts/profile-timeline-generator.cjs` — NEW, pulls dated events from events.jsonl + relationships.jsonl cycles + Executive Orders tables in body + frontmatter timeline-entries array. Trump: 30 entries across 2022-2026
+- `.husky/pre-commit` updated to include template validator as gate #5b
+
+**Quartz components + transformers:**
+- `quartz/components/SummaryInfobox.tsx` — NEW, renders only unique content (total-received-note, custom-stats, stale-data warning). Returns null if nothing unique to show (no duplication with ProfileHeader)
+- `quartz/plugins/transformers/hide-internal-markers.ts` — NEW build-time transformer. Converts `(URL NEEDED)`, `(UNVERIFIED)`, `(NEEDS REVIEW)`, `(VERIFIED)`, `(DEFAMATION-SANITIZED)`, `[JANITOR ...]`, `[URL Check ...]` to HTML comments. Skips frontmatter + fenced code blocks
+- `quartz/components/ProfileHeader.tsx` — removed ambiguous source-count dot and party dot per David feedback, expanded tab mapping for 9-section template with new heading variants
+- `quartz/components/ProfileTabs.tsx` — added Timeline as 6th tab. Relabeled: "Donors" → "The Money", "Voting" → "Key Votes", "Executive Orders" → "Executive Actions"
+- `quartz/components/ProfileWidget.tsx` — graph refactor to diverse connection types (10 donors + 5 opposition + 5 media + 5 K Street + 3 contracts = 28 node max, type-colored legend, fullscreen expand button with ESC close)
+- `quartz/components/EvidencePanel.tsx` — money-trail gradient bar now clickable (activates donors/recipients tab + scrolls)
+
+**Trump proof-of-concept:**
+- Entity signals refreshed from canonical store: `total_received` $3.8M → $724,161,916 (188x correction), `edge_count` 107 → 627, real top donors from FEC (PRIORITIES USA ACTION $210M, FF PAC $95M, America PAC-Musk $88M)
+- Regenerated data panel reflects real numbers
+- Added 5 `custom-stats` entries (DJT stake, $TRUMP coin, World Liberty Financial, H1 2025 crypto earnings, 2024 mega-donors count)
+- Manually moved Personal Grift / 2017 Tax Cuts / Epstein Class supps to flow AFTER Donor Class Map (elaborate on money, belong in money zone)
+- Fixed fundraising-by-cycle table (removed nonsense 1988 $0 row, added candidate committee + super PAC column)
+- Class Analysis rewritten from data-dump to argumentative voice — 4 paragraphs opening with position statement, using data as ammunition not summary
+
+**Security sprint (parallel):**
+- Clerk security patch: @clerk/nextjs 7.2.0 → 7.2.2 (GHSA-vqx2-fgx2-5wq9 middleware bypass)
+- @clerk/shared 4.8.0 → 4.8.2, @clerk/backend 3.2.10 → 3.2.12
+- Dismissed Dependabot alerts after real fix in place
+- npm audit: 0 vulnerabilities across root + ops
+
+**Go-live:**
+- `data/public-routes.json` now includes: `index`, Trump Master Profile, `legal`, `corrections`
+- Trump live at https://thedonormap.org/Politicians/Republicans/Presidential/Donald-Trump/_Donald-Trump-Master-Profile
+- Fixed deploy-blocking bug: hide-internal-markers was mangling `[JANITOR ...]` inside YAML frontmatter of Majority Forward profile. Transformer now skips frontmatter.
+- Developer "Data panel computed at build time..." footer now HTML comment (invisible to readers), applied across 1,471 profiles
+
+### Known issues (flagged for next session)
+
+- **Trump Class Analysis needs David's rewrite** — current version is mine. David will rewrite in working-class voice as the reference exemplar tomorrow.
+- **Trump 2024 fundraising table "$3.8M"** — wrong. Real is ~$1.45B per OpenSecrets. Current shows candidate committee only. Needs pipeline-side fix or manual correction. Added explanatory column but underlying number still wrong.
+- **Data dedup**: "Ab Pac" / "AB PAC" / "Rbg Pac" / "RBG PAC" in Trump's top-donors table (same PAC, different cases). Normalization pass needed on relationships.jsonl.
+- **Mark Green pipeline data mismatch** (from prior session): govtrack-id 400159 and 2010-2014 FEC cycles are wrong politician. Still unfixed.
+- **events.jsonl sparse on Trump**: only 6 events, only 2 made timeline after date filter. Most of his timeline is executive orders from body. Need richer events ingest from RSS digests.
+- **"Connections to Existing Vault" as Section 8 variant** — currently matched as Related Figures, but it's a hand-authored wiki-link dump. David wants this replaced with auto-generated top-10 by relevance from relationships.jsonl.
+- **Inline citations `[Source: X. Tier 2]` in Trump body** — not in `{{src:ID}}` ref format. Source conversion pass needed.
+
+### In progress
+
+- **Live-preview profile editor in Ops** (Path 3 agreed with David) — deferred to 2026-04-17. Design: new `/profile-editor` page with split-pane markdown editor + live Quartz preview render. Goal: close David's editorial feedback loop.
+- **David's Class Analysis rewrite on Trump** — he'll do it in working-class voice, that becomes reference exemplar for style guide.
+
+### Next session priorities
+
+1. **Build the Ops live-preview profile editor** (Path 3) — split-pane editor, live render, solves screenshot+annotate cycle pain.
+2. **Accept David's Trump Class Analysis rewrite** — commit it, update Class Analysis Style Guide with his text as canonical example (replacing mine).
+3. **Add `class-analysis-signed-off: true` check to validator** — blocks verified-tier promotion without explicit editor sign-off.
+4. **Trump polish**: Related Figures auto-generation (top-10 relevance), source conversion pass, 2024 number fix.
+5. **After Trump locked**: start on 2nd launch-50 profile to see how the template transfers to a different type. Good candidates: Elon Musk (mega-donor) or Lockheed Martin (corporation).
 
 ### Done this session
 
