@@ -84,12 +84,6 @@ const LandingPage: QuartzComponent = ({
     return slug.startsWith("lobbying-firms") || slug.startsWith("think-tanks")
   }).length
 
-  const verifiedCount = allFiles.filter((f) => {
-    if (!isEntityProfile(f)) return false
-    const r = String(f.frontmatter?.["content-readiness"] ?? "")
-    return r === "ready" || r === "publication-ready"
-  }).length
-
   // Build state lookup data for client-side JS
   const stateData: Record<string, { n: string; p: string; d: string }[]> = {}
   const US_STATES = ["AL","AK","AZ","AR","CA","CO","CT","DE","FL","GA","HI","ID","IL","IN","IA","KS","KY","LA","ME","MD","MA","MI","MN","MS","MO","MT","NE","NV","NH","NJ","NM","NY","NC","ND","OH","OK","OR","PA","RI","SC","SD","TN","TX","UT","VT","VA","WA","WV","WI","WY"]
@@ -153,11 +147,6 @@ const LandingPage: QuartzComponent = ({
             <div class="construct-stat">
               <span class="construct-stat-num construct-stat-accent">{donorCount.toLocaleString()}</span>
               <span class="construct-stat-label">Donors Tracked</span>
-            </div>
-            <div class="construct-stat-divider" />
-            <div class="construct-stat">
-              <span class="construct-stat-num construct-stat-accent">{verifiedCount.toLocaleString()}</span>
-              <span class="construct-stat-label">Verified</span>
             </div>
           </div>
           <div class="construct-teaser">

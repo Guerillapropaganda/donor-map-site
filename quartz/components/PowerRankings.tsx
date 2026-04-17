@@ -135,8 +135,8 @@ const PowerRankings: QuartzComponent = ({
                   ))}
                 </td>
                 <td class="pr-status">
-                  <span class={`pr-status-badge ${d.readiness === "verified" ? "pr-verified" : d.readiness === "ready" || d.readiness === "publication-ready" ? "pr-sourced" : d.readiness === "draft" ? "pr-draft" : "pr-limited"}`}>
-                    {d.readiness === "verified" ? "VERIFIED" : d.readiness === "ready" || d.readiness === "publication-ready" ? "SOURCED" : d.readiness === "draft" ? "DRAFT" : "LIMITED"}
+                  <span class={`pr-status-badge ${d.readiness === "verified" || d.readiness === "ready" || d.readiness === "publication-ready" ? "pr-sourced" : d.readiness === "draft" ? "pr-draft" : "pr-limited"}`}>
+                    {d.readiness === "verified" || d.readiness === "ready" || d.readiness === "publication-ready" ? "SOURCED" : d.readiness === "draft" ? "DRAFT" : "LIMITED"}
                   </span>
                 </td>
               </tr>

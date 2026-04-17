@@ -153,8 +153,8 @@ function initWhoFunds() {
         var r = chamberReps[i];
         var partyClass = r.party === 'Democrat' ? 'wf-dem' : r.party === 'Republican' ? 'wf-rep' : 'wf-ind';
         var partyLetter = r.party === 'Democrat' ? 'D' : r.party === 'Republican' ? 'R' : 'I';
-        var statusClass = r.readiness === 'verified' ? 'wf-verified' : (r.readiness === 'ready' || r.readiness === 'publication-ready') ? 'wf-sourced' : 'wf-draft';
-        var statusText = r.readiness === 'verified' ? 'VERIFIED' : (r.readiness === 'ready' || r.readiness === 'publication-ready') ? 'SOURCED' : 'DRAFT';
+        var statusClass = (r.readiness === 'verified' || r.readiness === 'ready' || r.readiness === 'publication-ready') ? 'wf-sourced' : 'wf-draft';
+        var statusText = (r.readiness === 'verified' || r.readiness === 'ready' || r.readiness === 'publication-ready') ? 'SOURCED' : 'DRAFT';
 
         html += '<a href="' + r.slug + '" class="wf-rep-card internal">';
         html += '<div class="wf-rep-top">';
