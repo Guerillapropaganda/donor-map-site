@@ -694,36 +694,40 @@ function initCanvasGraph() {
   var ctx = canvas.getContext('2d');
   if (!ctx) return;
 
-  // Wire up fullscreen expand button (once per container)
-  if (container.dataset.fullscreenWired !== 'true') {
-    container.dataset.fullscreenWired = 'true';
-    var expandBtn = container.querySelector('.pw-graph-expand');
-    if (expandBtn) {
-      expandBtn.addEventListener('click', function(e) {
-        e.preventDefault();
-        e.stopPropagation();
-        var isFullscreen = container.classList.toggle('pw-graph-fullscreen');
-        if (isFullscreen) {
-          expandBtn.innerHTML = '✕';
-          expandBtn.title = 'Close fullscreen';
-          document.body.style.overflow = 'hidden';
-        } else {
-          expandBtn.innerHTML = '⤢';
-          expandBtn.title = 'Expand graph to full view';
-          document.body.style.overflow = '';
-        }
-        // Re-init to re-render at new size
-        setTimeout(function() { initCanvasGraph(); }, 50);
-      });
-    }
-    document.addEventListener('keydown', function(e) {
-      if (e.key === 'Escape' && container.classList.contains('pw-graph-fullscreen')) {
-        container.classList.remove('pw-graph-fullscreen');
-        var btn = container.querySelector('.pw-graph-expand');
-        if (btn) { btn.innerHTML = '⤢'; btn.title = 'Expand graph to full view'; }
+  // Wire up fullscreen expand button every init (idempotent via onclick
+  // property — replaces any prior handler, safe for SPA navigation).
+  var expandBtn = container.querySelector('.pw-graph-expand');
+  if (expandBtn) {
+    expandBtn.onclick = function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var isFullscreen = container.classList.toggle('pw-graph-fullscreen');
+      if (isFullscreen) {
+        expandBtn.innerHTML = '✕';
+        expandBtn.title = 'Close fullscreen';
+        document.body.style.overflow = 'hidden';
+      } else {
+        expandBtn.innerHTML = '⤢';
+        expandBtn.title = 'Expand graph to full view';
         document.body.style.overflow = '';
-        setTimeout(function() { initCanvasGraph(); }, 50);
       }
+      // Re-init to re-render at new size (next tick, after CSS applies)
+      setTimeout(function() { initCanvasGraph(); }, 50);
+      return false;
+    };
+  }
+  // Global Esc-key handler (wired once per page lifetime)
+  if (!window.__pwGraphEscWired) {
+    window.__pwGraphEscWired = true;
+    document.addEventListener('keydown', function(e) {
+      if (e.key !== 'Escape') return;
+      var c = document.querySelector('.pw-canvas-graph.pw-graph-fullscreen');
+      if (!c) return;
+      c.classList.remove('pw-graph-fullscreen');
+      var btn = c.querySelector('.pw-graph-expand');
+      if (btn) { btn.innerHTML = '⤢'; btn.title = 'Expand graph to full view'; }
+      document.body.style.overflow = '';
+      setTimeout(function() { initCanvasGraph(); }, 50);
     });
   }
 
@@ -741,8 +745,41 @@ function initCanvasGraph() {
 
   var cx = cssW / 2;
   var cy = cssH / 2;
-  var conns = data.connections || [];
+  var rawConns = data.connections || [];
   var center = data.center || {};
+
+  // Round-robin interleave by type so the circle doesn't clump big-dollar
+  // donors on one arc and small-amount opposition/media/kstreet nodes on
+  // another. Produces an even visual distribution around the ring.
+  var conns = (function() {
+    var buckets = {};
+    for (var bi = 0; bi < rawConns.length; bi++) {
+      var t = rawConns[bi].type || 'related';
+      if (!buckets[t]) buckets[t] = [];
+      buckets[t].push(rawConns[bi]);
+    }
+    var order = ['donor', 'opposition', 'contract', 'media', 'kstreet', 'related'];
+    var interleaved = [];
+    var maxLen = 0;
+    for (var oi = 0; oi < order.length; oi++) {
+      if (buckets[order[oi]] && buckets[order[oi]].length > maxLen) {
+        maxLen = buckets[order[oi]].length;
+      }
+    }
+    for (var idx = 0; idx < maxLen; idx++) {
+      for (var oi = 0; oi < order.length; oi++) {
+        var b = buckets[order[oi]];
+        if (b && b[idx]) interleaved.push(b[idx]);
+      }
+    }
+    // Catch any unknown types not in the order list
+    for (var bk in buckets) {
+      if (order.indexOf(bk) === -1) {
+        for (var ii = 0; ii < buckets[bk].length; ii++) interleaved.push(buckets[bk][ii]);
+      }
+    }
+    return interleaved;
+  })();
 
   // Color scheme — one color per connection type
   var TYPE_COLORS = {
@@ -761,11 +798,16 @@ function initCanvasGraph() {
   var maxAmt = 1;
   for (var i = 0; i < conns.length; i++) { if (conns[i].amount > maxAmt) maxAmt = conns[i].amount; }
 
-  function nodeRadius(amt) {
-    if (amt <= 0) return 5;
+  function nodeRadius(conn) {
+    var amt = conn.amount || 0;
+    // Opposition/media/kstreet nodes have no dollar amount but still matter —
+    // give them a visible fixed size so they get labels and aren't specks.
+    if (amt <= 0) {
+      return 8;
+    }
     var logMax = Math.log10(maxAmt + 1);
     var logAmt = Math.log10(amt + 1);
-    return 5 + (logAmt / logMax) * 18;
+    return 8 + (logAmt / logMax) * 16;
   }
 
   function formatAmt(n) {
@@ -785,14 +827,19 @@ function initCanvasGraph() {
   ctx.fillStyle = '#0a0a0a';
   ctx.fillRect(0, 0, cssW, cssH);
 
-  // Layout: radial — connections placed in a circle around center
+  // Layout: radial — connections placed in a circle around center.
+  // Ring radius scales with n: tight for few nodes, pushed out for many so
+  // labels have room to breathe. In fullscreen mode nodes spread even wider.
   var n = conns.length;
-  var ringRadius = Math.min(cssW, cssH) * 0.34;
+  var baseRadius = Math.min(cssW, cssH) * (isFullscreenNow ? 0.38 : 0.34);
+  // Add a small expansion factor per node above 20 (prevents overlap)
+  var crowdBonus = Math.max(0, n - 20) * (isFullscreenNow ? 6 : 2);
+  var ringRadius = baseRadius + crowdBonus;
   var positions = [];
 
   for (var i = 0; i < n; i++) {
     var angle = (2 * Math.PI * i / n) - Math.PI / 2;
-    var r = nodeRadius(conns[i].amount);
+    var r = nodeRadius(conns[i]);
     var px = cx + ringRadius * Math.cos(angle);
     var py = cy + ringRadius * Math.sin(angle);
     positions.push({ x: px, y: py, r: r, conn: conns[i] });
