@@ -28,7 +28,11 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      "The Donor Map": "https://guerillapropaganda.github.io/donor-map-site/",
+      "Behind the Map": "/Behind-the-Map",
+      "Our Sources": "/Our-Sources",
+      "The Receipts": "/The-Receipts",
+      Corrections: "/corrections",
+      Legal: "/legal",
       GitHub: "https://github.com/Guerillapropaganda/donor-map-site",
     },
   }),
