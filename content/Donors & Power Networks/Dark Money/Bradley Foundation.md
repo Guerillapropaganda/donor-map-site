@@ -2,7 +2,7 @@
 title: Bradley Foundation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -22,7 +22,7 @@ net-assets: $3.5M
 tax-year: "2023"
 total-political-spend: $150,500
 last-enriched: "2026-04-10"
-related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[The 85 Fund]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
+related: "[[American Federation for Children]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Claremont Institute]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[James O'Keefe]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Heritage Foundation]] · [[Federalist Society]] · [[ALEC - American Legislative Exchange Council]] · [[Koch Network - Charles Koch]] · [[DonorsTrust]] · [[America First Legal]] · [[_Donald Trump Master Profile|Trump]] · [[DeVos Family]] · [[Bradley Impact Fund]] · [[National Education Association]] · [[US Chamber of Commerce]] · [[Walton Family Foundation]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[American Iron and Steel Institute]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[The 85 Fund]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]]"
 sec-filings: 1623
 sec-form-types:
   - 10-K

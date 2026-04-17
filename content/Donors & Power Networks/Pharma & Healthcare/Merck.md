@@ -2,7 +2,7 @@
 title: Merck
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: Pharma & Healthcare
@@ -25,7 +25,7 @@ subawards-received: 1
 subawards-received-amount: 308700
 top-federal-agency: Department of Defense
 top-naics-code: "325412"
-related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]]"
+related: "[[Novo Nordisk]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[Moderna]] · [[Johnson & Johnson]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[Eli Lilly]] · [[AbbVie]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[UnitedHealth Group - Optum]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]]"
 nonprofit-status: 501(c)(3)
 last-enriched: "2026-04-10"
 needs-reenrichment: true

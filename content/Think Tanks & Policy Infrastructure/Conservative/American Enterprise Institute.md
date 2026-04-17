@@ -2,7 +2,7 @@
 title: American Enterprise Institute
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 category: conservative
@@ -25,7 +25,7 @@ regulatory-agencies:
   - Federal Deposit Insurance Corporation
   - Federal Housing Finance Agency
   - Federal Reserve System
-related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[New America]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]]"
+related: ">- · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Urban Institute]] · [[New America]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]]"
 lei: 549300H55I05SOXHZO50
 lei-jurisdiction: US-DC
 ein: '530218495'

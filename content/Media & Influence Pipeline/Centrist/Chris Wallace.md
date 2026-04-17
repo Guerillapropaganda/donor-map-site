@@ -2,12 +2,12 @@
 title: "Chris Wallace"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 category: centrist
 platform: multi-platform
-related: "[[Fox News - Murdoch Media Empire]] · [[Anderson Cooper]] · [[Nicolle Wallace]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]]"
+related: "[[Fox News - Murdoch Media Empire]] · [[Anderson Cooper]] · [[Nicolle Wallace]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]]"
 checklist-na:
   - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"

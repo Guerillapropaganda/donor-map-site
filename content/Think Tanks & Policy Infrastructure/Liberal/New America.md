@@ -2,14 +2,14 @@
 title: "New America"
 type: think-tank
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 category: liberal
 tax-status: 501c3
 lei: "549300C6JPZKHI5YDM10"
 lei-jurisdiction: "KY"
-related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]] · [[Urban Institute]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heritage Foundation]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]]"
+related: "[[Goldman Sachs]] · [[Gates Foundation]] · [[Brookings Institution]] · [[Urban Institute]] · [[The Think Tank Money Map , Budget, Funding Sources, and the Illusion of Independence]] · [[The Revolving Door , A Cross-Think-Tank Personnel Map]] · [[The Idea Laundering Pipeline , How Think Tank Research Becomes Law]] · [[Economic Policy Institute]] · [[Center on Budget and Policy Priorities]] · [[Center for American Progress]] · [[Brennan Center for Justice]] · [[Cross-Think-Tank Donor Map , The Both-Sides Illusion With Receipts]] · [[Mercatus Center]] · [[Manhattan Institute for Policy Research]] · [[Hudson Institute]] · [[Hoover Institution]] · [[Heartland Institute]] · [[Federalist Society]] · [[Claremont Institute]] · [[Heritage Foundation]] · [[Cato Institute]] · [[American Enterprise Institute]] · [[Third Way]] · [[RAND Corporation]] · [[Council on Foreign Relations]] · [[Center for a New American Security]]"
 known-gaps:
   - "No FEC contribution data"
 sec-filings: 10000

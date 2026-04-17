@@ -2,7 +2,7 @@
 title: America First Policy Institute
 type: donor
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -17,7 +17,7 @@ ein: "854202763"
 annual-revenue: $27.3M
 net-assets: $9.9M
 tax-year: "2023"
-related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]]"
+related: "[[Federalist Society]] · [[Linda McMahon Master Profile]] · [[Heritage Foundation]] · [[Council for National Policy]] · [[Leonard Leo]] · [[DeVos Family]] · [[American Federation for Children]] · [[Walton Family Foundation]] · [[National Education Association]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

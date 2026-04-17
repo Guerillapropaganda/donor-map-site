@@ -2,12 +2,12 @@
 title: "Ben Shapiro"
 type: media-profile
 content-readiness: draft
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Wilks Brothers]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Rebekah Mercer]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]]"
+related: "[[Wilks Brothers]] · [[Koch Network - Charles Koch]] · [[Peter Thiel]] · [[Rebekah Mercer]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Rumble]] · [[Tenet Media]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Matt Walsh]] · [[Jordan Peterson]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Laura Ingraham]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dave Rubin]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Jimmy Dore]] · [[Candace Owens]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]]"
 source-types:
   - FEC
 checklist-na:

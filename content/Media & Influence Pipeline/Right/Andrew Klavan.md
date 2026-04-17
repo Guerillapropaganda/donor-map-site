@@ -2,12 +2,12 @@
 title: "Andrew Klavan"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 category: right
 platform: multi-platform
-related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben Shapiro]] · [[Matt Walsh]] · [[Jeremy Boreing]] · [[Michael Knowles]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Laura Ingraham]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Jimmy Dore]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]] · [[Ezra Klein]]"
+related: "[[Daily Wire - Ben Shapiro|Daily Wire]] · [[Wilks Brothers]] · [[Ben Shapiro]] · [[Matt Walsh]] · [[Jeremy Boreing]] · [[Michael Knowles]] · [[Jordan Peterson]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tenet Media]] · [[Rumble]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Steven Crowder]] · [[Laura Ingraham]] · [[Sean Hannity]] · [[Patrick Bet-David]] · [[Mark Levin]] · [[Jesse Watters]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Jimmy Dore]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]] · [[Ezra Klein]] · [[Chris Wallace]]"
 checklist-na:
   - "regulatory: auto: entity type \"media-profile\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"media-profile\" does not typically hold federal contracts (2026-04-15)"

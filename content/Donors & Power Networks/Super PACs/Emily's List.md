@@ -5,7 +5,7 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 fec-committee-id: C00591073
 aliases:
@@ -13,7 +13,7 @@ aliases:
 known-gaps:
   - Auto-created stub for FEC monetary edge resolution. Full editorial content is pending. Research Claude will fill in donors, politicians funded, ideology, and class analysis.
 politicians-funded: "[[Amy Klobuchar]], [[Elizabeth Warren]]"
-related: "[[Elizabeth Warren]] · [[Tammy Baldwin]] · [[Catherine Cortez Masto]] · [[Amy Klobuchar]] · [[Laphonza Butler]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[Amy Acton]] · [[Winning for Women PAC]]"
+related: "[[Elizabeth Warren]] · [[Tammy Baldwin]] · [[Catherine Cortez Masto]] · [[Amy Klobuchar]] · [[Laphonza Butler]] · [[Ohio 2026 Governor Race - The Structural Landscape]] · [[Ohio 2026 - The Donor Pipeline Comparison - Acton vs Ramaswamy]] · [[Amy Acton]] · [[Winning for Women PAC]] · [[Democratic Senatorial Campaign Committee]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"donor\" does not typically hold federal contracts (2026-04-15)"
