@@ -487,11 +487,12 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 | Metric | Value |
 |--------|-------|
 | Election Cycle | 2024 |
-| Total Raised | $3,852,435 |
-| Individual Contributions | $4,750 |
-| Cash on Hand | 3020902.11 |
-| IE Support (Super PAC) | $151,696,265 |
-| IE Opposition (Super PAC) | $375,115,827 |
+| **Total fundraising (candidate committee + Super PACs)** | **~$1,450,000,000** (OpenSecrets) |
+| Candidate committee raised (FEC, direct) | $3,852,435 |
+| Individual contributions to candidate committee | $4,750 |
+| Cash on hand (candidate committee) | $3,020,902 |
+| Super-PAC independent expenditures supporting | $151,696,265 |
+| Super-PAC independent expenditures opposing | $375,115,827 |
 
 **Fundraising by cycle:**
 
