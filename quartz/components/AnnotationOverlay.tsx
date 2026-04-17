@@ -117,15 +117,26 @@ AnnotationOverlay.afterDOMLoaded = `
 
   var canvas, ctx, overlay, toolbar, root, trigger;
 
-  function show(el) { if (el) el.style.display = ''; }
+  function show(el, asBlock) {
+    if (!el) return;
+    el.style.display = asBlock ? 'block' : '';
+    el.style.visibility = 'visible';
+  }
   function hide(el) { if (el) el.style.display = 'none'; }
 
-  // Show/hide the trigger button based on admin-mode class (poll + observer)
+  // Show/hide the trigger button based on admin session (poll + observer)
   function syncTriggerVisibility() {
     if (!root || !trigger) return;
-    if (checkAdminMode()) {
-      show(root);
-      show(trigger);
+    var isAdmin = checkAdminMode();
+    console.log('[anno] syncTriggerVisibility admin=', isAdmin, 'root=', !!root, 'trigger=', !!trigger);
+    if (isAdmin) {
+      show(root, true);
+      show(trigger, false); // trigger has its own display:flex from CSS
+      // Belt-and-suspenders: force the trigger position + visibility explicitly
+      trigger.style.position = 'fixed';
+      trigger.style.bottom = '24px';
+      trigger.style.right = '24px';
+      trigger.style.zIndex = '99998';
     } else {
       hide(root);
       exitAnnotation();
@@ -525,6 +536,7 @@ AnnotationOverlay.afterDOMLoaded = `
     overlay = document.getElementById('anno-overlay');
     toolbar = document.getElementById('anno-toolbar');
     canvas = document.getElementById('anno-canvas');
+    console.log('[anno] wire called. root=', !!root, 'trigger=', !!trigger, 'canvas=', !!canvas);
     if (!root || !canvas) return;
     ctx = canvas.getContext('2d');
     if (!ctx) return;
