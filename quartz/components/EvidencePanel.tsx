@@ -187,9 +187,9 @@ const EvidencePanel: QuartzComponent = ({
         </div>
       )}
 
-      {/* Row 2: Money trail bar (sector breakdown) */}
+      {/* Row 2: Money trail bar (sector breakdown) — clickable, jumps to The Money tab */}
       {sectorSegments.length > 0 && (
-        <div class="signal-trail">
+        <a href="#the-money" class="signal-trail signal-trail-clickable" data-target-tab="donors" title="Click to view donor breakdown by sector">
           <div class="signal-trail-bar">
             {sectorSegments.map((seg) => (
               <div
@@ -206,17 +206,17 @@ const EvidencePanel: QuartzComponent = ({
               </span>
             ))}
           </div>
-        </div>
+        </a>
       )}
 
-      {/* Row 2b: Party split bar (for donors) */}
+      {/* Row 2b: Party split bar (for donors) — clickable, jumps to Recipients tab */}
       {demPct !== null && repPct !== null && (
-        <div class="signal-trail">
+        <a href="#politicians-funded" class="signal-trail signal-trail-clickable" data-target-tab="recipients" title="Click to view politicians funded">
           <div class="signal-trail-bar">
             <div class="signal-segment" style={{ width: `${demPct}%`, background: "#1d4ed8" }} title={`Democrat: ${demPct}%`} />
             <div class="signal-segment" style={{ width: `${repPct}%`, background: "#e63946" }} title={`Republican: ${repPct}%`} />
           </div>
-        </div>
+        </a>
       )}
 
       {/* Row 3: Meta bar */}
@@ -248,6 +248,42 @@ const EvidencePanel: QuartzComponent = ({
     </div>
   )
 }
+
+EvidencePanel.afterDOMLoaded = `
+(function() {
+  // Wire up click handlers on signal-trail bars to switch profile tabs.
+  // When user clicks the money-trail gradient, activate the "donors" tab
+  // (or whichever tab was declared via data-target-tab).
+  function wireSignalTrails() {
+    var trails = document.querySelectorAll('.signal-trail-clickable');
+    trails.forEach(function(trail) {
+      if (trail.dataset.clickWired === 'true') return;
+      trail.dataset.clickWired = 'true';
+      trail.addEventListener('click', function(e) {
+        e.preventDefault();
+        var targetTab = trail.getAttribute('data-target-tab');
+        if (!targetTab) return;
+        var article = document.querySelector('article');
+        if (!article) return;
+        // Find the tab button and click it
+        var btn = article.querySelector('.profile-tab-btn[data-tab="' + targetTab + '"]');
+        if (btn) {
+          btn.click();
+          // Scroll to the first card in that tab
+          setTimeout(function() {
+            var card = article.querySelector('.profile-section-card[data-tab="' + targetTab + '"]:not(.profile-tab-hidden)');
+            if (card) card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }, 50);
+        }
+      });
+    });
+  }
+  wireSignalTrails();
+  document.addEventListener('nav', function() {
+    setTimeout(wireSignalTrails, 200);
+  });
+})();
+`
 
 EvidencePanel.css = `
 /* ═══════════════════════════════════════════════
@@ -287,6 +323,42 @@ EvidencePanel.css = `
 /* ── Row 2: Money trail bar ── */
 .signal-trail {
   margin-bottom: 8px;
+  display: block;
+}
+
+.signal-trail-clickable {
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  padding: 4px 0;
+  position: relative;
+  transition: opacity 0.15s ease;
+}
+
+.signal-trail-clickable::after {
+  content: "→ view breakdown";
+  position: absolute;
+  right: 0;
+  top: 4px;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--darkgray);
+  text-transform: uppercase;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+
+.signal-trail-clickable:hover {
+  opacity: 0.85;
+}
+
+.signal-trail-clickable:hover::after {
+  opacity: 1;
+}
+
+.signal-trail-clickable:hover .signal-trail-bar {
+  box-shadow: 0 0 0 2px rgba(251, 191, 36, 0.3);
 }
 
 .signal-trail-bar {

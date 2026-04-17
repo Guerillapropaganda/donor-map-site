@@ -24,32 +24,6 @@ const VERIFIED_TYPES = new Set([
   "donor", "corporation", "pac", "think-tank", "lobbying-firm",
 ])
 
-function formatMoney(value: unknown): string {
-  if (value === undefined || value === null || value === "") return ""
-  if (typeof value === "string") {
-    return value
-  }
-  if (typeof value === "number") {
-    if (value >= 1_000_000_000) return `$${(value / 1_000_000_000).toFixed(1)}B`
-    if (value >= 1_000_000) return `$${(value / 1_000_000).toFixed(1)}M`
-    if (value >= 1_000) return `$${(value / 1_000).toFixed(0)}K`
-    return `$${value}`
-  }
-  return ""
-}
-
-function toArray(value: unknown): string[] {
-  if (!value) return []
-  if (Array.isArray(value)) return value.map(String).filter(Boolean)
-  if (typeof value === "string") {
-    // Try parsing wikilink-pipe format: "[[Name]] · [[Other]]"
-    const links = value.match(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g)
-    if (links) return links.map((l) => l.replace(/\[\[|\]\].*/g, "").split("|")[0].trim())
-    return value.split(/[,·]/).map((s) => s.trim()).filter(Boolean)
-  }
-  return []
-}
-
 const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const fm = fileData.frontmatter
   if (!fm) return null
@@ -61,20 +35,8 @@ const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
   // Optional: hide on raw profiles (too incomplete to show a summary box)
   if (readiness === "raw") return null
 
-  const party = String(fm.party ?? "")
-  const chamber = String(fm.chamber ?? "")
-  const state = String(fm.state ?? "")
-  const stateAbbr = String(fm["state-abbr"] ?? "")
-  const district = String(fm.district ?? "")
-  const currentOffice = String(fm["current-office"] ?? "")
-  const sector = String(fm.sector ?? "")
-  const entityType = String(fm["entity-type"] ?? "")
-
-  // Money stats
-  const careerTotal = fm["career-total"] ?? fm["total-received"] ?? fm["total-raised"] ?? ""
+  // Caveat note about the career total (e.g. "$724M from IE only, total ~$1.45B per OpenSecrets")
   const careerTotalNote = String(fm["total-received-note"] ?? fm["career-total-note"] ?? "")
-  const lobbyingSpend = fm["lobbying-spend"] ?? ""
-  const totalRevenue = fm["total-revenue"] ?? ""
 
   // Custom outlier stats (Trump's Truth Social stake, $TRUMP coin, etc.)
   // For profiles with extraordinary financials that don't fit the standard schema.
@@ -89,115 +51,30 @@ const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
         typeof s === "object" && s !== null && "label" in s && "value" in s)
     : []
 
-  // Top connections
-  const topDonors = toArray(fm["top-donors"] ?? fm.donors).slice(0, 3)
-  const politiciansFunded = toArray(fm["politicians-funded"]).slice(0, 3)
-
   // Data freshness
   const lastEnriched = String(fm["last-enriched"] ?? fm["last-updated"] ?? "")
   const lastEnrichedDate = lastEnriched ? new Date(lastEnriched) : null
   const daysOld = lastEnrichedDate && !isNaN(lastEnrichedDate.getTime())
     ? Math.floor((Date.now() - lastEnrichedDate.getTime()) / 86400000)
     : null
-  const freshnessLabel = daysOld === null ? "" : daysOld < 30 ? "fresh" : daysOld < 90 ? "recent" : "stale"
 
-  // Readiness badge
-  const readinessColor =
-    readiness === "verified" ? "#16a34a" :
-    readiness === "ready" ? "#fbbf24" :
-    readiness === "draft" ? "#6b7280" : "#999"
-
-  const isPolitician = type === "politician" || type === "state-politician" || type === "local-politician"
-  const isDonorOrPac = type === "donor" || type === "pac"
-  const isCorp = type === "corporation"
-
-  // Build context line
-  const contextParts: string[] = []
-  if (isPolitician) {
-    if (party) contextParts.push(party)
-    if (chamber) contextParts.push(chamber)
-    if (stateAbbr || state) contextParts.push(stateAbbr || state)
-    if (district) contextParts.push(`District ${district}`)
-  } else {
-    if (entityType) contextParts.push(entityType)
-    if (sector) contextParts.push(sector)
-  }
+  // Don't render anything if there's nothing unique to show.
+  // ProfileHeader already shows: type badge, party, chamber, money, top donors.
+  // This component only exists for content that ProfileHeader DOESN'T show:
+  //   - custom-stats (outlier financials like Trump's Truth Social stake)
+  //   - total-received-note (scope/caveat for career total)
+  //   - data freshness stamp
+  const hasUniqueContent = customStats.length > 0 || careerTotalNote || (lastEnriched && daysOld !== null && daysOld > 90)
+  if (!hasUniqueContent) return null
 
   return (
     <aside class="summary-infobox" data-profile-type={type}>
-      <div class="summary-infobox-header">
-        <span class="summary-type-badge">{type.replace(/-/g, " ").toUpperCase()}</span>
-        {readiness && (
-          <span class="summary-readiness-badge" style={`border-color: ${readinessColor}; color: ${readinessColor};`}>
-            {readiness.toUpperCase()}
-          </span>
-        )}
-      </div>
-
-      {contextParts.length > 0 && (
-        <div class="summary-context">{contextParts.join(" · ")}</div>
-      )}
-
-      {currentOffice && (
-        <div class="summary-office">
-          <span class="summary-label">CURRENT OFFICE</span>
-          <span class="summary-value">{currentOffice}</span>
+      {careerTotalNote && (
+        <div class="summary-stat-note-standalone">
+          <span class="summary-label">ABOUT THE TOTAL</span>
+          <p>{careerTotalNote}</p>
         </div>
       )}
-
-      {/* Primary money stat */}
-      {(isPolitician && careerTotal) && (
-        <div class="summary-stat-primary">
-          <span class="summary-stat-label">CAREER TOTAL RAISED</span>
-          <span class="summary-stat-number">{formatMoney(careerTotal)}</span>
-          {careerTotalNote && <span class="summary-stat-note">{careerTotalNote}</span>}
-        </div>
-      )}
-      {(isDonorOrPac && careerTotal) && (
-        <div class="summary-stat-primary">
-          <span class="summary-stat-label">TOTAL POLITICAL SPEND</span>
-          <span class="summary-stat-number">{formatMoney(careerTotal)}</span>
-        </div>
-      )}
-      {(isCorp && (totalRevenue || lobbyingSpend)) && (
-        <div class="summary-stat-grid">
-          {totalRevenue && (
-            <div class="summary-stat">
-              <span class="summary-stat-label">REVENUE</span>
-              <span class="summary-stat-number">{formatMoney(totalRevenue)}</span>
-            </div>
-          )}
-          {lobbyingSpend && (
-            <div class="summary-stat">
-              <span class="summary-stat-label">LOBBYING SPEND</span>
-              <span class="summary-stat-number">{formatMoney(lobbyingSpend)}</span>
-            </div>
-          )}
-        </div>
-      )}
-
-      {/* Top connections */}
-      {topDonors.length > 0 && (
-        <div class="summary-connections">
-          <span class="summary-label">TOP DONORS</span>
-          <ul class="summary-connections-list">
-            {topDonors.map((name) => (
-              <li><a href={`/${name.toLowerCase().replace(/\s+/g, "-")}`}>{name}</a></li>
-            ))}
-          </ul>
-        </div>
-      )}
-      {politiciansFunded.length > 0 && (
-        <div class="summary-connections">
-          <span class="summary-label">TOP POLITICIANS FUNDED</span>
-          <ul class="summary-connections-list">
-            {politiciansFunded.map((name) => (
-              <li><a href={`/${name.toLowerCase().replace(/\s+/g, "-")}`}>{name}</a></li>
-            ))}
-          </ul>
-        </div>
-      )}
-
       {/* Custom outlier stats (Trump grift numbers, etc.) */}
       {customStats.length > 0 && (
         <div class="summary-custom-stats">
@@ -214,14 +91,11 @@ const SummaryInfobox: QuartzComponent = ({ fileData }: QuartzComponentProps) => 
         </div>
       )}
 
-      {/* Freshness */}
-      {lastEnriched && (
-        <div class="summary-freshness" data-status={freshnessLabel}>
-          <span class="summary-label">DATA AS OF</span>
-          <span class="summary-value">{lastEnriched.slice(0, 10)}</span>
-          {daysOld !== null && daysOld > 90 && (
-            <span class="summary-freshness-warning">({daysOld}d stale — needs re-enrichment)</span>
-          )}
+      {/* Freshness warning (only show if stale) */}
+      {lastEnriched && daysOld !== null && daysOld > 90 && (
+        <div class="summary-freshness-warning-standalone">
+          <span class="summary-label">⚠ STALE DATA</span>
+          <span>Last enriched {lastEnriched.slice(0, 10)} ({daysOld} days ago). Needs re-enrichment.</span>
         </div>
       )}
     </aside>
