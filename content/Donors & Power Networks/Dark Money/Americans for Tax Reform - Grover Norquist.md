@@ -9,7 +9,7 @@ sector: Dark Money
 entity-type: Individual Donor
 issues:
   - Dark Money & Campaign Finance
-related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]] · [[American Enterprise Institute]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Heritage Foundation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]]"
+related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]] · [[American Enterprise Institute]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Heritage Foundation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

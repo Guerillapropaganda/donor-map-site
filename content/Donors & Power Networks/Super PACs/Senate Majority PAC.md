@@ -2,7 +2,7 @@
 title: "Senate Majority PAC"
 type: pac
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: "Super PACs"
@@ -26,7 +26,7 @@ court-jurisdictions:
   - "District Court, N.D. Florida"
   - "District Court, S.D. New York"
   - "United States Bankruptcy Court, D. Delaware"
-related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Priorities USA Action]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[Emilys List]] · [[One Nation]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Bernie Sanders]] · [[Thom Tillis]] · [[2026 Senate Primary Races]] · [[Mark Kelly]] · [[Adam Schiff]] · [[George Soros]] · [[Ohio Democratic Party]] · [[DonorsTrust]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[ActBlue]]"
+related: "[[Senate Leadership Fund]] · [[Dan Osborn Master Profile]] · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Nebraska 2026 Senate Race]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[_Chuck Schumer Master Profile|Chuck Schumer]] · [[Dustin Moskovitz]] · [[Michael Bloomberg]] · [[Majority Forward]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Priorities USA Action]] · [[Winning for Women PAC]] · [[National Republican Senatorial Committee]] · [[Emilys List]] · [[One Nation]] · [[WinRed]] · [[Trump Victory]] · [[Fairshake PAC]] · [[Save America PAC]] · [[Preserve America]] · [[National Rifle Association]] · [[America PAC - Elon Musk]] · [[Trump 2024 Campaign]] · [[Bernie Sanders]] · [[Thom Tillis]] · [[2026 Senate Primary Races]] · [[Mark Kelly]] · [[Adam Schiff]] · [[George Soros]] · [[Ohio Democratic Party]] · [[DonorsTrust]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[ActBlue]] · [[DMFI - Democratic Majority for Israel]]"
 sec-filings: 4
 sec-form-types:
   - "10-K"
