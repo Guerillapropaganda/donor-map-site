@@ -129,7 +129,7 @@ try {
   function syncTriggerVisibility() {
     if (!root || !trigger) return;
     var isAdmin = checkAdminMode();
-    console.log('[anno] syncTriggerVisibility admin=', isAdmin, 'root=', !!root, 'trigger=', !!trigger);
+    console.warn('[anno] syncTriggerVisibility admin=', isAdmin, 'root=', !!root, 'trigger=', !!trigger);
     if (isAdmin) {
       show(root, true);
       show(trigger, false); // trigger has its own display:flex from CSS
@@ -537,7 +537,7 @@ try {
     overlay = document.getElementById('anno-overlay');
     toolbar = document.getElementById('anno-toolbar');
     canvas = document.getElementById('anno-canvas');
-    console.log('[anno] wire called. root=', !!root, 'trigger=', !!trigger, 'canvas=', !!canvas);
+    console.warn('[anno] wire called. root=', !!root, 'trigger=', !!trigger, 'canvas=', !!canvas);
     if (!root || !canvas) return;
     ctx = canvas.getContext('2d');
     if (!ctx) return;
