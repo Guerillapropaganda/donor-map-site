@@ -2,14 +2,14 @@
 title: "CoreCivic - Private Prisons"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 sector: "Carceral State"
 entity-type: "Corporation"
 issues:
   - "Immigration"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 nhtsa-recalls: 0
@@ -189,7 +189,7 @@ Immigration enforcement and ICE funding, justice system reform, mandatory minimu
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic%20-%20Private%20Prisons) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-16 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -487,7 +487,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CoreCivic) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-16 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -523,7 +523,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
-<!-- auto:gleif-lei pending-merge 2026-04-16 -->
+<!-- auto:gleif-lei pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

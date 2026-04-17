@@ -2,7 +2,7 @@
 title: Dianne Feinstein
 type: politician
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -198,7 +198,7 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-16 -->
+<!-- auto:stock-trades pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

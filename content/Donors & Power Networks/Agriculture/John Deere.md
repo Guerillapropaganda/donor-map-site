@@ -442,7 +442,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 
 <!-- auto:cpsc-recalls end -->
 
-<!-- auto:cpsc-recalls pending-merge 2026-04-16 -->
+<!-- auto:cpsc-recalls pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -482,7 +482,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
-<!-- auto:gleif-lei pending-merge 2026-04-16 -->
+<!-- auto:gleif-lei pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

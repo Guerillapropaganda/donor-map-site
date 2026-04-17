@@ -11,7 +11,7 @@ politicians-funded: "[[Chad Bianco]], [[Gavin Newsom]]"
 federal-contracts: "172495"
 ein: "941490964"
 nonprofit-status: 501(c)(5)
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 total-revenue: 35012065
@@ -366,7 +366,7 @@ The return on $2.9 million in Newsom contributions is $1.6 billion in contracts 
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=CCPOA%20-%20California%20Correctional%20Peace%20Officers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-16 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
