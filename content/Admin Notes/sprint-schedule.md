@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-16-template-architecture-trump-live'
+last-updated: '2026-04-16-public-ui-cleanup-ia-graph-drift'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2161,7 +2161,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-16 evening (Code Claude: template architecture + Trump proof-of-concept + rules rewrite)**
+**Schedule last updated: 2026-04-16 late night (Code Claude: public-UI cleanup pass + three-page IA + graph fixes + narrative drift detector producer + Trump EO explainer drafts)**
 **Current phase: Launch 50 sprint for April 30 public launch. Trump live as proof-of-concept.**
 **Next checkpoint: Build Ops live-preview profile editor (2026-04-17). David rewrites Trump Class Analysis in working-class voice. Promote Trump to verified tier.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
