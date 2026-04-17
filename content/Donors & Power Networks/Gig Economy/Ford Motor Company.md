@@ -198,18 +198,18 @@ The class function is straightforward: Ford converts public money into private r
 | Vehicle Recalls | 500 |
 | Consumer Complaints | 0 |
 | NHTSA Investigations | 10 |
-| Recall Components | ENGINE AND ENGINE COOLING, VISIBILITY, AIR BAGS, BACK OVER PREVENTION, FUEL SYSTEM, DIESEL |
-| Most Recent Recall | 2026-03-31 |
+| Recall Components | POWER TRAIN, ENGINE AND ENGINE COOLING, VISIBILITY, AIR BAGS, BACK OVER PREVENTION |
+| Most Recent Recall | 2026-04-14 |
 | Earliest Recall | 2019-05-13 |
 
 **Recent recalls:**
 
+- [26V237000: Unexpected Downshift Can Cause Loss of Control](https://www.nhtsa.gov/recalls?nhtsaId=26V237000) (2026-04-14)
 - [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (2026-03-31)
 - [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (2026-03-31)
 - [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (2026-03-31)
 - [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (2026-03-31)
 - [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (2026-03-19)
-- [26V159000: Improperly Secured Seat Belt Anchors](https://www.nhtsa.gov/recalls?nhtsaId=26V159000) (2026-03-17)
 - ... and 494 more
 
 **Active/recent investigations:**
