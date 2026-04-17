@@ -3,7 +3,7 @@ title: Adam Smith
 type: politician
 content-readiness: ready
 central-thesis: Adam Smith is the Democratic face of the military-industrial complex. His district contains Boeing's Renton operations, Washington State hosts six active-duty military installations, and his top three career donors — Boeing, Northrop Grumman, and ...
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 party: Democrat
@@ -34,7 +34,7 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[SUSAN B ANTHONY LIST INC]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[NARAL]] · [[TOGETHER FOR PROGRESS PAC]] · [[THE 60 PLUS ASSOCIATION]] · [[PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT]] · [[The 60 Plus Association]] · [[Together for Progress PAC]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Raytheon]]"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 govtrack-id: 400379
@@ -202,7 +202,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~{{src:src_006407}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-16 -->
+<!-- auto:fec-politician pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

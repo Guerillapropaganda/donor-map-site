@@ -5,12 +5,12 @@ chamber: House
 party: Democrat
 content-readiness: ready
 central-thesis: Barbara Lee's 2001 AUMF vote is the most celebrated anti-war vote in modern U.S. history. She voted alone against indefinite military authorization. Yet in 2024, when Lee ran for the Senate from California, she was systematically outspent and elim...
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 total-received: "$375,046"
 fec-candidate-id: "H8CA09060"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Kucinich Action PAC]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[Courage California Super Pac]] · [[Together We Thrive]] · [[KUCINICH ACTION PAC]] · [[Sandre Swanson for Assembly 2010]] · [[Care Action]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
@@ -217,7 +217,7 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - {{src:src_005776}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-16 -->
+<!-- auto:fec-politician pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

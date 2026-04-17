@@ -3,7 +3,7 @@ title: Bobby Scott
 type: politician
 content-readiness: ready
 central-thesis: Bobby Scott is the labor movement's legislative architect — the committee chair who writes the bills that unions need but that the donor class ensures never become law. His career is a case study in the structural limits of inside-game progressivi...
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 party: Democrat
@@ -49,7 +49,7 @@ opensanctions-datasets:
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 bioguide-id: S000185
 total-raised: $290,963
 total-spent: $358,184
@@ -254,7 +254,7 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - {{src:src_006315}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-16 -->
+<!-- auto:fec-politician pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
