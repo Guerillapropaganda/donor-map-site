@@ -541,20 +541,33 @@ AdminBar.afterDOMLoaded = `
 
     const type = document.getElementById('admin-note-type').value;
     const priority = document.getElementById('admin-note-priority').value;
-    const allNotes = JSON.parse(localStorage.getItem(NOTES_KEY) || '[]');
-
-    allNotes.push({
+    const note = {
       text, type, priority,
       page: getPageSlug(),
       pageTitle: pageTitle.textContent,
       date: new Date().toISOString(),
       status: 'open',
-    });
+    };
 
+    const allNotes = JSON.parse(localStorage.getItem(NOTES_KEY) || '[]');
+    allNotes.push(note);
     localStorage.setItem(NOTES_KEY, JSON.stringify(allNotes));
     document.getElementById('admin-note-text').value = '';
     loadNotes();
     statusEl.textContent = 'Note saved';
+
+    // Best-effort mirror to the Ops app at localhost:3333 so Research
+    // Claude can read notes on /preflight. If Ops isn't running, this
+    // fails silently — localStorage remains the source of truth for
+    // the user's own queue view.
+    fetch('http://localhost:3333/api/inline-notes', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(note),
+      mode: 'cors',
+    }).then(function(r) {
+      if (r.ok) statusEl.textContent = 'Note saved \u2022 synced to Ops';
+    }).catch(function() { /* Ops not running, localStorage-only */ });
   }
 
   // ===== Queue =====
