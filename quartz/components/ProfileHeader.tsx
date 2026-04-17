@@ -258,20 +258,13 @@ function wrapProfileSections() {
   // Clear article and rebuild
   article.innerHTML = '';
 
-  // Wrap preamble content (Live Data Panel, custom stats, tags) in a
-  // profile-section-card assigned to the "donors" tab (The Money).
-  // This pulls the auto-generated data panel OUT of the top-of-page
-  // (where it rendered above tabs) and INTO the Money tab where it
-  // belongs. Per David feedback: "Top Donors... should be within
-  // those tabs or another tab that makes sense."
-  if (preContent.length > 0) {
-    var preCard = document.createElement('div');
-    preCard.className = 'profile-section-card psc-donors';
-    preCard.dataset.tab = 'donors';
-    for (var j = 0; j < preContent.length; j++) {
-      preCard.appendChild(preContent[j]);
-    }
-    fragment.insertBefore(preCard, fragment.firstChild);
+  // Preamble content (tags, stray pre-H2 lines like #trump #master-profile
+  // hashtag line) renders above the tabs. The auto-generated data panel
+  // block now lives INSIDE the Money H2 section (relocated in the
+  // build-profile-data-panels.cjs generator), so there's no giant data
+  // panel floating above the tabs anymore.
+  for (var j = 0; j < preContent.length; j++) {
+    article.appendChild(preContent[j]);
   }
 
   // Add all cards
