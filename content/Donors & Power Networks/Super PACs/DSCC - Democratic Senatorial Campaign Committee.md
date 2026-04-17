@@ -14,7 +14,7 @@ issues:
 sec-filings: 1
 sec-form-types:
   - EX-99.(P)(II)
-related: ">- · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn]] · [[Chuck Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]]"
+related: ">- · [[2024-2026 Campaign Finance and Democratic Infrastructure]] · [[Dan Osborn]] · [[Chuck Schumer]] · [[Senate Majority PAC]] · [[Majority Forward]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]] · [[House Majority PAC]]"
 cross-vault-triangulation-count: 9
 needs-reenrichment: true
 reenrich-reason: run fec pipeline; run pipelines

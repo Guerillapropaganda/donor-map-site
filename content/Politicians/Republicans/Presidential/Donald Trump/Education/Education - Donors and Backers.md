@@ -5,7 +5,7 @@ content-readiness: draft
 last-updated: 2026-04-17
 source-tier: 2
 parent: "[[_Donald Trump Master Profile]]"
-related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[_Donald Trump Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Laurene Powell Jobs]] · [[Eli Broad Foundation]] · [[California Charter Schools Association]] · [[CTA - California Teachers Association]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]]"
+related: "[[Universal Pre-K and Transitional Kindergarten]] · [[Economic Policy - Donors and Backers]] · [[The DeVos to McMahon Pipeline - Public Schools as Private Profit]] · [[_Donald Trump Master Profile]] · [[Ethnic Studies - Whose History Gets Taught]] · [[Charter Schools and the Billionaire Reform Movement]] · [[COVID School Closures - Learning Loss and Class Division]] · [[Laurene Powell Jobs]] · [[Eli Broad Foundation]] · [[California Charter Schools Association]] · [[CTA - California Teachers Association]] · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Labor - Donors and Backers]] · [[The Education Committee and Labor Alignment]] · [[Single-Payer Broken Promise]] · [[Legislative Record as Speaker]]"
 checklist-na:
   - "regulatory: auto: entity type \"sub-note\" does not typically have EPA/OSHA records (2026-04-15)"
   - "contracts: auto: entity type \"sub-note\" does not typically hold federal contracts (2026-04-15)"
