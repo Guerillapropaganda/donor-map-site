@@ -9,36 +9,9 @@ const ProfileHeader: QuartzComponent = ({
   const type = String(fm?.type ?? "unknown")
   if (type !== "politician" && type !== "donor") return null
 
-  // Party for politicians
-  const party = String(fm?.party ?? "")
-  const partyKey = party.toLowerCase().startsWith("democrat")
-    ? "D"
-    : party.toLowerCase().startsWith("republican")
-    ? "R"
-    : party.toLowerCase().startsWith("independent")
-    ? "I"
-    : ""
-  const partyLabel = partyKey === "D" ? "Democrat" : partyKey === "R" ? "Republican" : partyKey === "I" ? "Independent" : ""
-
-  // Build position line
-  const chamber = String(fm?.chamber ?? "")
-  const state = String(fm?.state ?? "")
-  const sector = String(fm?.sector ?? "")
-  const entityType = String(fm?.["entity-type"] ?? "")
-
-  let positionLine = ""
-  if (type === "politician") {
-    const parts = []
-    if (chamber && chamber !== "undefined") parts.push(chamber)
-    if (partyLabel) parts.push(partyLabel)
-    if (state && state !== "undefined") parts.push(`from ${state}`)
-    positionLine = parts.join(" ")
-  } else {
-    const parts = []
-    if (entityType && entityType !== "undefined" && entityType !== "Individual Donor") parts.push(entityType)
-    if (sector && sector !== "undefined") parts.push(sector)
-    positionLine = parts.join(" · ")
-  }
+  // Position line removed from UI — redundant with page title / breadcrumbs.
+  // Frontmatter fields (party/chamber/state/sector/entity-type) retained in
+  // profile data for other components, just not rendered here.
 
   // ─── #1: Total raised / career total ───
   const totalReceived = String(fm?.["total-received"] ?? "")
