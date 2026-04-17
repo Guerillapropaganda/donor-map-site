@@ -14,7 +14,7 @@ annual-revenue: $477K
 net-assets: $1.3M
 tax-year: "2023"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
@@ -29,7 +29,7 @@ federal-awards-total: -235623591
 federal-contracts-count: 25
 federal-grants-count: 1
 cpsc-recalls: 3
-related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]]"
+related: "[[Moderna]] · [[PhRMA Kills Drug Negotiation From Both Sides]] · [[AbbVie]] · [[Merck]] · [[Eli Lilly]] · [[The Pharma Money and Newark Poverty Paradox]] · [[Cornerstone Government Affairs]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Cory Booker]] · [[PhRMA]] · [[Pfizer]] · [[UnitedHealth Group - Optum]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[Palantir Technologies]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Anthem - Elevance Health Political Operation]] · [[Uber]] · [[Raytheon Technologies]] · [[Palantir Technologies Political Operation]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 359319
 total-assets: 1224754
@@ -165,7 +165,7 @@ The liability strategy reveals the corporate class position with equal clarity. 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

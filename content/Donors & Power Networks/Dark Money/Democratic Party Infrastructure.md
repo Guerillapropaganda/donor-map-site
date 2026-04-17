@@ -10,12 +10,12 @@ entity-type: "Individual Donor"
 issues:
   - "Infrastructure"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
   - "BALKANS"
-related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]] · [[Trial Lawyers Fund]] · [[Small Dollar Donors - ActBlue]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]]"
+related: "[[Ohio Democratic Party]] · [[Center for American Progress]] · [[Democratic Donor Network]] · [[DSCC - Democratic Senatorial Campaign Committee|DSCC]] · [[ActBlue]] · [[Senate Majority PAC]] · [[National Progressive Donor Networks]] · [[Ohio Federation of Teachers]] · [[Trial Lawyers Fund]] · [[Small Dollar Donors - ActBlue]] · [[Sixteen Thirty Fund]] · [[Open Society Foundations]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democracy Alliance]] · [[Demand Justice]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Arabella Advisors]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]]"
 fara-status: "registrant"
 fara-records: 2
 fara-countries:
@@ -93,7 +93,7 @@ The Democratic Party raises more total money than Republicans but deploys it les
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

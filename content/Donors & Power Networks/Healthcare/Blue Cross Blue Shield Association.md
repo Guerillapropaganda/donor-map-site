@@ -11,7 +11,7 @@ issues:
   - Healthcare
   - Antitrust & Monopoly
 ofac-sdn-match: "true"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
@@ -43,7 +43,7 @@ ein: 135656874
 annual-revenue: $819.1M
 net-assets: $1.1B
 tax-year: "2023"
-related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]]"
+related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]]"
 court-cases: 825
 court-jurisdictions:
   - Court of Appeals for the Ninth Circuit
@@ -290,7 +290,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -336,7 +336,7 @@ The public option was included in the original House ACA bill (2009) but strippe
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Blue%20Cross%20Blue%20Shield%20Association) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-16 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

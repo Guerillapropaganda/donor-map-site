@@ -2,7 +2,7 @@
 title: Consumer Energy Alliance
 type: donor
 content-readiness: ready
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 2
 parent: null
 sector: Energy & Utilities
@@ -10,7 +10,7 @@ entity-type: Individual Donor
 issues:
   - Dark Money & Campaign Finance
 ofac-sdn-match: "true"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
@@ -146,7 +146,7 @@ The CEA reveals how fossil fuel industries use dark money astroturf organization
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

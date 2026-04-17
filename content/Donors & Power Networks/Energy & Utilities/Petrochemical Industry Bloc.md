@@ -12,12 +12,12 @@ issues:
 lobbying-spend: 36374000
 lobbying-filings: 51
 ofac-sdn-match: "true"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 ofac-programs:
   - "NPWMD] [IFSR"
-related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]] · [[ALEC - American Legislative Exchange Council]] · [[National Association of Manufacturers]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Stand Together]] · [[Republican Party Apparatus]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]]"
+related: "[[American Petroleum Institute]] · [[Bill Cassidy Master Profile]] · [[The Impeachment Vote and the Petrochemical Protection]] · [[Fossil Fuel Bloc]] · [[Marathon Petroleum]] · [[ExxonMobil]] · [[Koch Network - Charles Koch|Koch Network]] · [[Western States Petroleum Association]] · [[ALEC - American Legislative Exchange Council]] · [[National Association of Manufacturers]] · [[DeVos Family]] · [[Defense Contractors Bloc]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[National Education Association]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Stand Together]] · [[Republican Party Apparatus]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Council for National Policy]] · [[Conservative Partnership Institute]]"
 cross-vault-triangulation-count: 5
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 politicians-funded: "[[Bill Cassidy]]"
@@ -129,7 +129,7 @@ The petrochemical industry's geographic concentration along the Mississippi Rive
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-16 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

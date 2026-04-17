@@ -3,7 +3,7 @@ title: Rick Scott
 type: politician
 content-readiness: draft
 central-thesis: "Rick Scott is the most literal example of the donor-class thesis: he IS the donor class. He doesn't receive money from healthcare fraudsters , he WAS the healthcare fraudster. He doesn't receive self-funding from a clean fortune , his content-readiness: draft52M+ in ca..."
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 party: Republican
@@ -237,7 +237,7 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-16 -->
+<!-- auto:stock-trades pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

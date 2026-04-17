@@ -4,7 +4,7 @@ type: politician
 bioguide-id: J000293
 content-readiness: ready
 central-thesis: Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like...
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: 1
 parent: null
 party: Republican
@@ -218,7 +218,7 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-16 -->
+<!-- auto:stock-trades pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
