@@ -79,6 +79,19 @@ const PRODUCERS = [
     args: ['--write-edges'],
     timeout_ms: 180_000,
   },
+  // Narrative drift detector — flags verified/ready profiles whose
+  // hand-written prose mentions an entity that's been in the news in
+  // the last 30 days. Pairs with `contradiction-miner` and the
+  // `missing-profile-detector`; fills the gap where structured data
+  // stays fresh but prose drifts.
+  // Schedule: every 4 hours at :37 (staggered away from other 4-hour
+  // producers so the dispatcher doesn't queue 2 heavy jobs at once).
+  {
+    name: 'narrative-drift-detector',
+    schedule: '37 */4 * * *',
+    script: 'scripts/narrative-drift-detector.cjs',
+    timeout_ms: 120_000,
+  },
   // Phase 3 Part 4b: bidirectional normalizer + per-profile artifact rebuild.
   // Runs weekly on Sundays at :23 (low frequency — new asymmetries only
   // appear when Research Claude adds one-way related: links). Chains two
