@@ -1419,5 +1419,70 @@
         "news_multiplier": 2
       }
     }
+  ],
+  "narrative-drift-detector": [
+    {
+      "bucket": "deciding",
+      "what": "Re-read K&L Gates › Opening",
+      "why": "New event (2026-03-19) \"S. 4157: No Bailout for Crypto Act\" mentions Richard Durbin. Profile narrative in \"Opening\" references Richard Durbin.",
+      "where": "content/Lobbying Firms & K Street/K&L Gates.md",
+      "cost_min": 3,
+      "leverage": 4,
+      "source": "narrative-drift-detector",
+      "created": "2026-04-17",
+      "metadata": {
+        "profile": "K&L Gates",
+        "events": [
+          {
+            "date": "2026-03-19",
+            "title": "S. 4157: No Bailout for Crypto Act",
+            "entity": "Richard Durbin",
+            "heading": "Opening"
+          }
+        ]
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Re-read The Impeachment Vote and the Petrochemical Protection › Opening",
+      "why": "New event (2026-03-26) \"S. 4251: Mined in America Act of 2026\" mentions Bill Cassidy. Profile narrative in \"Opening\" references Bill Cassidy.",
+      "where": "content/Politicians/Republicans/Senate/Bill Cassidy/The Impeachment Vote and the Petrochemical Protection.md",
+      "cost_min": 3,
+      "leverage": 4,
+      "source": "narrative-drift-detector",
+      "created": "2026-04-17",
+      "metadata": {
+        "profile": "The Impeachment Vote and the Petrochemical Protection",
+        "events": [
+          {
+            "date": "2026-03-26",
+            "title": "S. 4251: Mined in America Act of 2026",
+            "entity": "Bill Cassidy",
+            "heading": "Opening"
+          }
+        ]
+      }
+    },
+    {
+      "bucket": "deciding",
+      "what": "Re-read Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System › Opening",
+      "why": "New event (2026-03-26) \"S. 4251: Mined in America Act of 2026\" mentions Bill Cassidy. Profile narrative in \"Opening\" references Bill Cassidy.",
+      "where": "content/Stories/Published/Cross-Politician Analysis/Defense-Pharma-Carceral-Labor-Wexner Cross-Reference - Five Donors, One System.md",
+      "cost_min": 3,
+      "leverage": 4,
+      "source": "narrative-drift-detector",
+      "created": "2026-04-17",
+      "metadata": {
+        "profile": "Defense-Pharma-Carceral-Labor-Wexner Cross-Reference: Five Donors, One System",
+        "events": [
+          {
+            "date": "2026-03-26",
+            "title": "S. 4251: Mined in America Act of 2026",
+            "entity": "Bill Cassidy",
+            "heading": "Opening"
+          }
+        ]
+      }
+    }
   ]
 }
