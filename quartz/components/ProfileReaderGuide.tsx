@@ -188,39 +188,26 @@ ProfileReaderGuide.afterDOMLoaded = `
 
 ProfileReaderGuide.css = `
 .prg-guide {
-  border: 3px solid #0a0a0a;
-  border-left: 8px solid #fbbf24;
-  background: #fff;
-  padding: 14px 18px;
-  margin: 0 0 24px;
+  border: 2px solid #0a0a0a;
+  background: #fbbf24;
+  padding: 10px 12px;
+  margin: 0 0 12px;
   font-family: "Inter", "Space Grotesk", sans-serif;
   position: relative;
-}
-
-.prg-guide::before {
-  content: "";
-  position: absolute;
-  top: 4px;
-  left: 4px;
-  right: 4px;
-  bottom: 4px;
-  border: 1px solid #fbbf24;
-  pointer-events: none;
-  opacity: 0.3;
+  box-shadow: 3px 3px 0 #0a0a0a;
 }
 
 .prg-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 10px;
   cursor: pointer;
   user-select: none;
 }
 
 .prg-label {
   font-family: "Inter", sans-serif;
-  font-size: 13px;
+  font-size: 10px;
   font-weight: 900;
   letter-spacing: 0.08em;
   color: #0a0a0a;
@@ -230,10 +217,10 @@ ProfileReaderGuide.css = `
 
 .prg-toggle {
   background: #0a0a0a;
-  border: 2px solid #0a0a0a;
-  width: 32px;
-  height: 32px;
-  font-size: 12px;
+  border: 1.5px solid #0a0a0a;
+  width: 20px;
+  height: 20px;
+  font-size: 9px;
   font-family: "Space Mono", monospace;
   font-weight: 700;
   cursor: pointer;
@@ -247,12 +234,12 @@ ProfileReaderGuide.css = `
 }
 
 .prg-toggle:hover {
-  background: #fbbf24;
+  background: #fff;
   color: #0a0a0a;
 }
 
 .prg-guide.prg-open .prg-toggle {
-  background: #fbbf24;
+  background: #fff;
   color: #0a0a0a;
 }
 
@@ -262,101 +249,86 @@ ProfileReaderGuide.css = `
 
 .prg-summary {
   font-family: "Inter", "Space Grotesk", sans-serif;
-  font-size: 17px;
+  font-size: 11px;
   line-height: 1.35;
   color: #0a0a0a;
   font-weight: 500;
   cursor: pointer;
   user-select: none;
+  margin-top: 6px;
 }
 
 .prg-summary strong {
   font-weight: 900;
   letter-spacing: -0.01em;
+  display: block;
+  margin-bottom: 2px;
+  font-size: 12px;
 }
 
 .prg-details {
-  margin-top: 16px;
-  padding-top: 14px;
-  border-top: 2px solid #0a0a0a;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1.5px solid #0a0a0a;
 }
 
 .prg-details-label {
   font-family: "Inter", sans-serif;
-  font-size: 11px;
+  font-size: 9px;
   font-weight: 900;
-  letter-spacing: 0.15em;
+  letter-spacing: 0.12em;
   color: #0a0a0a;
   text-transform: uppercase;
-  margin-bottom: 10px;
-  padding: 4px 8px;
-  background: #fbbf24;
+  margin-bottom: 6px;
+  padding: 2px 5px;
+  background: #0a0a0a;
+  color: #fbbf24;
   display: inline-block;
 }
 
 .prg-tabs-list {
   list-style: none;
   padding: 0;
-  margin: 0 0 14px;
+  margin: 0 0 8px;
 }
 
 .prg-tab-row {
   font-family: "Inter", "Space Grotesk", sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  padding: 4px 0;
-  color: #222;
+  font-size: 10px;
+  line-height: 1.4;
+  padding: 2px 0;
+  color: #0a0a0a;
 }
 
 .prg-tab-name {
   font-weight: 800;
   color: #0a0a0a;
   text-transform: uppercase;
-  font-size: 12px;
-  letter-spacing: 0.05em;
-  display: inline-block;
-  min-width: 110px;
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  display: block;
+  margin-bottom: 1px;
 }
 
 .prg-tab-dash {
-  margin: 0 6px;
-  color: #999;
+  display: none;
 }
 
 .prg-tab-what {
-  color: #333;
+  color: #0a0a0a;
   font-weight: 500;
+  opacity: 0.8;
 }
 
 .prg-closer {
   font-family: "Inter", "Space Grotesk", sans-serif;
-  font-size: 13px;
-  line-height: 1.55;
-  color: #333;
-  padding-top: 10px;
-  margin-top: 10px;
-  border-top: 1px solid #ddd;
+  font-size: 10px;
+  line-height: 1.4;
+  color: #0a0a0a;
+  padding-top: 6px;
+  margin-top: 6px;
+  border-top: 1px solid rgba(10,10,10,0.25);
   font-weight: 500;
-}
-
-@media (max-width: 600px) {
-  .prg-guide {
-    padding: 12px 14px;
-  }
-  .prg-summary {
-    font-size: 15px;
-  }
-  .prg-tab-row {
-    font-size: 13px;
-  }
-  .prg-tab-name {
-    display: block;
-    min-width: 0;
-    margin-bottom: 2px;
-  }
-  .prg-tab-dash {
-    display: none;
-  }
 }
 `
 

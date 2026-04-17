@@ -728,23 +728,184 @@ function initCanvasGraph() {
     });
   }
 
-  // D3 loader — CDN, cached, load-once
-  function loadD3(cb) {
+  // D3 loader — CDN with fallback. If D3 can't load (CSP, network blocked,
+  // timeout), fall back to a static radial render so the user sees something.
+  function loadD3(cb, onFail) {
     if (window.d3 && window.d3.forceSimulation) { cb(window.d3); return; }
-    if (window.__d3LoadPromise) { window.__d3LoadPromise.then(cb); return; }
-    window.__d3LoadPromise = new Promise(function(resolve) {
+    if (window.__d3LoadPromise) {
+      window.__d3LoadPromise.then(cb, onFail);
+      return;
+    }
+    window.__d3LoadPromise = new Promise(function(resolve, reject) {
       var s = document.createElement('script');
       s.src = 'https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js';
       s.async = true;
-      s.onload = function() { resolve(window.d3); };
+      s.crossOrigin = 'anonymous';
+      var loaded = false;
+      s.onload = function() {
+        if (window.d3 && window.d3.forceSimulation) { loaded = true; resolve(window.d3); }
+        else reject(new Error('d3 loaded but forceSimulation missing'));
+      };
+      s.onerror = function() { reject(new Error('d3 script failed to load')); };
       document.head.appendChild(s);
+      // Safety timeout — if script hasn't loaded in 5s, treat as failure
+      setTimeout(function() {
+        if (!loaded) reject(new Error('d3 load timeout'));
+      }, 5000);
     });
-    window.__d3LoadPromise.then(cb);
+    window.__d3LoadPromise.then(cb, onFail);
   }
 
-  loadD3(function(d3) {
-    renderGraph(d3, container, svg, data);
-  });
+  loadD3(
+    function(d3) { renderGraph(d3, container, svg, data); },
+    function(err) {
+      console.warn('[pw-graph] D3 load failed, using static fallback:', err && err.message);
+      renderStaticFallback(container, svg, data);
+    }
+  );
+}
+
+// Static SVG radial fallback used when D3 can't load. Not as pretty as
+// force-directed, but guaranteed to render without any external dependency.
+function renderStaticFallback(container, svgEl, data) {
+  while (svgEl.firstChild) svgEl.removeChild(svgEl.firstChild);
+  var isFullscreenNow = container.classList.contains('pw-graph-fullscreen');
+  var width = isFullscreenNow ? window.innerWidth : (container.clientWidth || 280);
+  var height = isFullscreenNow ? window.innerHeight : 280;
+  svgEl.setAttribute('width', width);
+  svgEl.setAttribute('height', height);
+  svgEl.setAttribute('viewBox', '0 0 ' + width + ' ' + height);
+  var NS = 'http://www.w3.org/2000/svg';
+
+  var rawConns = data.connections || [];
+  var center = data.center || {};
+  var TYPE_COLORS = {
+    donor: '#16a34a', money: '#16a34a', contract: '#3b82f6',
+    opposition: '#e63946', media: '#a855f7', kstreet: '#f59e0b', related: '#888'
+  };
+  var PARTY_COLORS = { Democrat: '#3b82f6', Republican: '#e63946' };
+  var centerColor = PARTY_COLORS[center.party] || '#fbbf24';
+
+  // Background
+  var bg = document.createElementNS(NS, 'rect');
+  bg.setAttribute('width', width); bg.setAttribute('height', height);
+  bg.setAttribute('fill', '#0a0a0a');
+  svgEl.appendChild(bg);
+
+  var cx = width / 2, cy = height / 2;
+  var maxAmt = 1;
+  for (var i = 0; i < rawConns.length; i++) if (rawConns[i].amount > maxAmt) maxAmt = rawConns[i].amount;
+  function nodeR(c) {
+    var amt = c.amount || 0;
+    if (amt <= 0) return 8;
+    return 8 + (Math.log10(amt + 1) / Math.log10(maxAmt + 1)) * 14;
+  }
+  function fmtAmt(n) {
+    if (n >= 1e9) return '$' + (n / 1e9).toFixed(1) + 'B';
+    if (n >= 1e6) return '$' + (n / 1e6).toFixed(1) + 'M';
+    if (n >= 1e3) return '$' + Math.round(n / 1e3) + 'K';
+    return n > 0 ? '$' + n : '';
+  }
+  function trunc(s, n) { return s.length <= n ? s : s.slice(0, n - 2) + '..'; }
+
+  // Interleave connections by type
+  var order = ['donor', 'opposition', 'contract', 'media', 'kstreet', 'related'];
+  var buckets = {};
+  for (var i = 0; i < rawConns.length; i++) {
+    var t = rawConns[i].type || 'related';
+    (buckets[t] = buckets[t] || []).push(rawConns[i]);
+  }
+  var conns = [];
+  var maxLen = 0;
+  for (var oi = 0; oi < order.length; oi++) {
+    if (buckets[order[oi]] && buckets[order[oi]].length > maxLen) maxLen = buckets[order[oi]].length;
+  }
+  for (var idx = 0; idx < maxLen; idx++) {
+    for (var oi = 0; oi < order.length; oi++) {
+      var b = buckets[order[oi]];
+      if (b && b[idx]) conns.push(b[idx]);
+    }
+  }
+  for (var k in buckets) {
+    if (order.indexOf(k) === -1) for (var ii = 0; ii < buckets[k].length; ii++) conns.push(buckets[k][ii]);
+  }
+
+  var n = conns.length;
+  var ringR = Math.min(width, height) * (isFullscreenNow ? 0.38 : 0.34) + Math.max(0, n - 20) * (isFullscreenNow ? 6 : 2);
+
+  // Links
+  for (var i = 0; i < n; i++) {
+    var angle = (2 * Math.PI * i / n) - Math.PI / 2;
+    var px = cx + ringR * Math.cos(angle);
+    var py = cy + ringR * Math.sin(angle);
+    var color = TYPE_COLORS[conns[i].type] || '#555';
+    var line = document.createElementNS(NS, 'line');
+    line.setAttribute('x1', cx); line.setAttribute('y1', cy);
+    line.setAttribute('x2', px); line.setAttribute('y2', py);
+    line.setAttribute('stroke', color); line.setAttribute('stroke-opacity', '0.3');
+    line.setAttribute('stroke-width', '1.5');
+    if (conns[i].type === 'opposition') line.setAttribute('stroke-dasharray', '4 3');
+    svgEl.appendChild(line);
+  }
+
+  // Nodes
+  for (var i = 0; i < n; i++) {
+    var angle = (2 * Math.PI * i / n) - Math.PI / 2;
+    var px = cx + ringR * Math.cos(angle);
+    var py = cy + ringR * Math.sin(angle);
+    var r = nodeR(conns[i]);
+    var color = TYPE_COLORS[conns[i].type] || '#888';
+
+    var g = document.createElementNS(NS, 'g');
+    if (conns[i].slug) {
+      g.style.cursor = 'pointer';
+      g.setAttribute('data-slug', conns[i].slug);
+      g.addEventListener('click', function(e) {
+        var slug = e.currentTarget.getAttribute('data-slug');
+        if (slug) window.location.href = '/' + slug;
+      });
+    }
+    var circle = document.createElementNS(NS, 'circle');
+    circle.setAttribute('cx', px); circle.setAttribute('cy', py); circle.setAttribute('r', r);
+    circle.setAttribute('fill', color); circle.setAttribute('fill-opacity', '0.85');
+    circle.setAttribute('stroke', color); circle.setAttribute('stroke-width', '1');
+    g.appendChild(circle);
+
+    var text = document.createElementNS(NS, 'text');
+    text.setAttribute('x', px); text.setAttribute('y', py + r + 11);
+    text.setAttribute('text-anchor', 'middle');
+    text.setAttribute('fill', color); text.setAttribute('font-size', '9');
+    text.setAttribute('font-family', '"Space Mono", monospace');
+    text.textContent = trunc(conns[i].name, 16);
+    g.appendChild(text);
+
+    if (conns[i].amount > 0) {
+      var amt = document.createElementNS(NS, 'text');
+      amt.setAttribute('x', px); amt.setAttribute('y', py + r + 22);
+      amt.setAttribute('text-anchor', 'middle');
+      amt.setAttribute('fill', color); amt.setAttribute('font-size', '8');
+      amt.setAttribute('font-weight', 'bold');
+      amt.setAttribute('font-family', '"Space Mono", monospace');
+      amt.textContent = fmtAmt(conns[i].amount);
+      g.appendChild(amt);
+    }
+    svgEl.appendChild(g);
+  }
+
+  // Center
+  var centerCircle = document.createElementNS(NS, 'circle');
+  centerCircle.setAttribute('cx', cx); centerCircle.setAttribute('cy', cy); centerCircle.setAttribute('r', '18');
+  centerCircle.setAttribute('fill', centerColor); centerCircle.setAttribute('fill-opacity', '0.95');
+  centerCircle.setAttribute('stroke', centerColor); centerCircle.setAttribute('stroke-width', '2.5');
+  svgEl.appendChild(centerCircle);
+  var centerLabel = document.createElementNS(NS, 'text');
+  centerLabel.setAttribute('x', cx); centerLabel.setAttribute('y', cy + 3);
+  centerLabel.setAttribute('text-anchor', 'middle');
+  centerLabel.setAttribute('fill', '#fff'); centerLabel.setAttribute('font-size', '10');
+  centerLabel.setAttribute('font-weight', 'bold');
+  centerLabel.setAttribute('font-family', '"Space Mono", monospace');
+  centerLabel.textContent = trunc(center.name || '', 14);
+  svgEl.appendChild(centerLabel);
 }
 
 function renderGraph(d3, container, svgEl, data) {
