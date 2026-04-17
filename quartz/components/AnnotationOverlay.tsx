@@ -85,6 +85,7 @@ const AnnotationOverlay: QuartzComponent = () => {
 }
 
 AnnotationOverlay.afterDOMLoaded = `
+try {
 (function() {
   // Gate on admin session — two signals, either one is enough:
   //   1. body.admin-mode class set by AdminBar
@@ -621,6 +622,9 @@ AnnotationOverlay.afterDOMLoaded = `
   wire();
   document.addEventListener('nav', function() { setTimeout(wire, 100); });
 })();
+} catch(err) {
+  console.error('[anno] IIFE crashed:', err && err.message, err && err.stack);
+}
 `
 
 AnnotationOverlay.css = `

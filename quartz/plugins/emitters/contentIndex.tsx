@@ -1,5 +1,5 @@
 import { Root } from "hast"
-import { isConstructionMode } from "../../constructionMode"
+// isConstructionMode removed — this emitter must run regardless
 import { GlobalConfiguration } from "../../cfg"
 import { getDate } from "../../components/Date"
 import { escapeHTML } from "../../util/escape"
@@ -98,7 +98,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
   return {
     name: "ContentIndex",
     async *emit(ctx, content) {
-      if (isConstructionMode) return
+      // Emit even in construction mode — this JSON drives Search + popovers,
+      // and its absence causes cascading client-side fetch errors on Trump
+      // (404 → SyntaxError parsing HTML as JSON → downstream script breakage).
+      // if (isConstructionMode) return
       const cfg = ctx.cfg.configuration
       const linkIndex: ContentIndexMap = new Map()
       for (const [tree, file] of content) {
