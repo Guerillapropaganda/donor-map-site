@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enrichment Log"
 type: reference
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 source-tier: null
 ---
 
@@ -162,6 +162,24 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+## 2026-04-17 04:40 UTC — 10 profiles
+
+**ProPublica — 10 profiles:**
+- California Farm Bureau Federation — $12.9M revenue, 2023 990 ⚠️ CONFLICT
+- Cargill — $2.5M revenue, 2023 990 ⚠️ CONFLICT
+- John Deere — $17.7M revenue, 2023 990 ⚠️ CONFLICT
+- National Cattlemen's Beef Association — $54.9M revenue, 2023 990 ⚠️ CONFLICT
+- Tyson Foods — $1 revenue, 2019 990 ⚠️ CONFLICT
+- CoreCivic — $511K revenue, 2024 990 ⚠️ CONFLICT
+- ActBlue — $2.0M revenue, 2023 990 ⚠️ CONFLICT
+- Brady Campaign — $4.8M revenue, 2023 990 ⚠️ CONFLICT
+- Business Roundtable — $64.5M revenue, 2023 990 ⚠️ CONFLICT
+- Council for National Policy — $3.8M revenue, 2023 990 ⚠️ CONFLICT
+
+**Conflicts detected: 10** (see `pending-merge` blocks in the listed profiles)
+
+---
 ## 2026-04-16 22:42 UTC — 122 profiles
 
 **influence-xref — 122 profiles:**

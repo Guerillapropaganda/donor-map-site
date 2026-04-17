@@ -34,7 +34,7 @@ annual-revenue: "$12.9M"
 net-assets: "$73.5M"
 tax-year: "2023"
 federal-register-mentions: 23
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 regulatory-agencies:
@@ -59,7 +59,7 @@ court-jurisdictions:
 nonprofit-status: 501(c)(5)
 total-revenue: 29941168
 total-assets: 75856990
-related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]]"
+related: "[[Agricultural Labor Vulnerability Donors]] · [[_Gavin Newsom Master Profile]] · [[Farmworker Union Rights - AB 2183 Veto and Reversal]] · [[H-2A Guest Worker Pipeline and Farmworker Vulnerability]] · [[Immigration - Donors and Backers]] · [[Labor - Donors and Backers]] · [[Western Growers Association]] · [[Haim Saban]] · [[JPAC - Jewish Public Affairs Committee of California]] · [[JCRC Bay Area]] · [[J Street]] · [[Christians United for Israel]] · [[American Friends of the Likud]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Blue Shield of California]] · [[Anthem - Elevance Health]] · [[American Gaming Association]] · [[United Arab Emirates - Influence Operation]] · [[Turkey - Erdogan Lobbying Operation]] · [[National Association of Manufacturers]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Democratic Party Infrastructure]] · [[Ohio Democratic Party]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]]"
 sec-filings: 291
 sec-form-types:
   - 10-Q
@@ -217,7 +217,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -423,7 +423,7 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

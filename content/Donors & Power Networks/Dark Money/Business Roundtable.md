@@ -16,7 +16,7 @@ ein: 237236607
 annual-revenue: "$64.5M"
 net-assets: "$47.8M"
 tax-year: "2023"
-last-enriched: "2026-04-16"
+last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
 federal-register-mentions: 172
@@ -30,7 +30,7 @@ regulatory-agencies:
   - "Safety and Environmental Enforcement Bureau"
   - "Securities and Exchange Commission"
   - "Veterans Employment and Training Service"
-related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Finance and Tech Bundler Network]]"
+related: "[[National Association of Manufacturers]] · [[The Agriculture Committee and Farm Bill Politics]] · [[The Ways and Means Gavel and Corporate Tax Architecture]] · [[The Agriculture Committee and Minnesota Suburbs]] · [[The Ways and Means Chair and TCJA Extension]] · [[Akin Gump Strauss Hauer & Feld]] · [[US Chamber of Commerce]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Koch Network - Charles Koch]] · [[Blackstone Group]] · [[_Donald Trump Master Profile|Donald Trump]] · [[DeVos Family]] · [[National Education Association]] · [[American Federation for Children]] · [[Insurance Industry]] · [[Walton Family Foundation]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[Defense Industry Bloc]] · [[American Iron and Steel Institute]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]]"
 sec-filings: 10000
 sec-form-types:
   - 8-K
@@ -258,7 +258,7 @@ The TCJA is the BRT's signature achievement: $320+ billion annually in corporate
 - [Source: ProPublica Nonprofit Explorer — EIN 237236607](https://projects.propublica.org/nonprofits/organizations/237236607) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-16 -->
+<!-- auto:propublica-990 pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -409,7 +409,7 @@ The Business Roundtable (BRT) is a nonprofit lobbyist association based in Washi
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q5001792) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-16 -->
+<!-- auto:wikipedia pending-merge 2026-04-17 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
