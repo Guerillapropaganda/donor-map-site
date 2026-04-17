@@ -756,11 +756,22 @@ function initCanvasGraph() {
     window.__d3LoadPromise.then(cb, onFail);
   }
 
+  // Render the static fallback IMMEDIATELY so the user sees something on
+  // first paint. Then try to load D3 — if it succeeds, upgrade to the
+  // force-directed version. If it fails or times out, static stays.
+  renderStaticFallback(container, svg, data);
   loadD3(
-    function(d3) { renderGraph(d3, container, svg, data); },
+    function(d3) {
+      try {
+        renderGraph(d3, container, svg, data);
+      } catch(e) {
+        console.warn('[pw-graph] D3 render threw, keeping static:', e && e.message);
+        renderStaticFallback(container, svg, data);
+      }
+    },
     function(err) {
-      console.warn('[pw-graph] D3 load failed, using static fallback:', err && err.message);
-      renderStaticFallback(container, svg, data);
+      console.warn('[pw-graph] D3 load failed, keeping static:', err && err.message);
+      // Already rendered, nothing to do
     }
   );
 }
