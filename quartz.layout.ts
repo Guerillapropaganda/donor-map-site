@@ -77,6 +77,17 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.ProfileHeader(),
       condition: isProfilePage,
     }),
+    // "What am I looking at?" — normie-friendly guide on every profile type.
+    // First-time visitors see it expanded, returning readers see the summary
+    // only (localStorage-gated). Sits between the header and the tabs.
+    Component.ConditionalRender({
+      component: Component.ProfileReaderGuide(),
+      condition: (page) => {
+        const type = String(page.fileData.frontmatter?.type ?? "")
+        return ["politician", "state-politician", "local-politician",
+          "donor", "corporation", "pac", "think-tank", "lobbying-firm"].includes(type)
+      },
+    }),
     // SummaryInfobox removed from layout 2026-04-17 — its content
     // (total-received-note, custom-stats) now rendered inside the data
     // panel, which lives in the Money tab. Keeps custom-stats grouped
