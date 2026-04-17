@@ -158,13 +158,55 @@ Public-UI cleanup pass + three-page IA + graph fixes + narrative drift detector.
 - **Donor dedup mapping** — mapping proposal to be drafted next session for David's pair review
 - **Trump EO explainers** — draft file waiting David approval, then applied to profile
 
+### Additional work after first save (same night)
+
+**Top Donors ticker linkable:**
+- ProfileHeader now builds a title → slug lookup from allFiles, wraps ticker names in `<a class="internal">` when a matching profile exists
+- Added `.ph-donor-link` CSS override so ticker reads as subtle red-underlined nav, not the yellow prose-highlight that would dominate the header
+- Clicking Elon Musk, Peter Thiel, etc. in Trump's ticker now jumps to their profile
+
+**ProfileReaderGuide "What am I looking at?" component (NEW):**
+- `quartz/components/ProfileReaderGuide.tsx` — type-aware explainer that sits between HeroContradiction and the profile tabs on every profile (politician, donor, corporation, pac, think-tank, lobbying-firm)
+- Brutalist styling: 3px black outer border + 8px yellow left accent + inset yellow guide at 30% opacity, Inter 900 labels, 32x32 black/yellow toggle button, details label renders as inline yellow-background chip
+- First-time visitors see it expanded. Returning readers see summary line only (localStorage-gated via `donormap:reader-guide-seen`)
+- Toggle uses document-level event delegation (survives SPA nav, no per-element wiring race). Clicks on toggle, label, summary bar, or entire header row all expand/collapse
+- Per-type copy:
+  - politician: "A politician profile. Scroll to see who funds them, how they vote, and the gap between the two."
+  - donor/corp/pac: "Scroll to see who they fund on both sides, what policy they got in return, and how the money moves."
+  - think-tank / lobbying-firm: "Scroll to see who funds them, which policies they push, and which politicians they staff or advise."
+- Tab list explains each of the 6 profile tabs in one line per tab
+- Right-sidebar graph legend: "Yellow nodes = direct money. Red = opposition. Click any node to jump."
+
+### Graph: still the unsolved item
+
+David's feedback after the round-robin interleave + ring-scaling fix: graph still doesn't look right compared to the ops `/relationships` page. The ops graph uses **D3 force simulation with SVG** (draggable nodes, zoom + pan, filter toggles, physics-based layout preventing overlap). Mine uses a static canvas radial. The right call is to port the ops graph pattern into `quartz/components/ProfileWidget.tsx` as a rebuild. This is a 2-3 hour job:
+- Add D3 as a quartz dep (bundle-size note: ~80kb gzipped — needs evaluation)
+- New SVG-based component replacing the canvas graph tab
+- Port force simulation config from `ops/src/app/relationships/page.tsx` (lines 320-396 contain the working setup)
+- Port zoom/pan wheel + drag handlers
+- Port filter UI (toggle edge types, toggle entity types)
+- Keep the data shape — already have connections + center + types via graphConnections
+- Test on mobile: D3 force + touch drag needs care
+
 ### Next session priorities
 
-1. **Path 3 Ops live-preview profile editor** — highest leverage item. New `/profile-editor` page, split-pane, closes the screenshot+annotate feedback loop.
-2. **Donor dedup — propose mapping CSV for David review** — case-insensitive canonical-name proposal across `data/relationships.jsonl`. David approves before any canonical write.
-3. **Apply approved EO explainers to Trump table** — once David signs off on the draft file, mechanical edit into the Executive Actions H2 table.
-4. **Related Figures auto-generation for Trump** — replace hand-written "Connections to Existing Vault" with top-10 by relevance from relationships.jsonl.
-5. **Hard-refresh check on all tonight's UI changes** — confirm the strip pass, graph interleave, and three-page IA land right on the live site.
+1. **Port ops `/relationships` D3 force graph into ProfileWidget** — highest-value visible fix. Reference: `ops/src/app/relationships/page.tsx` lines 320-396 (force simulation), 266-292 (zoom/pan), 269-270 (filter state). The ops graph is the gold standard David called out. 2-3 hour rebuild.
+2. **Path 3 Ops live-preview profile editor** — high leverage but bigger scope than the graph port. After graph.
+3. **Donor dedup — propose mapping CSV for David review** — case-insensitive canonical-name proposal across `data/relationships.jsonl`. David approves before any canonical write.
+4. **Apply approved EO explainers to Trump table** — once David signs off on the draft file at `content/Drafts/Trump EO Explainers - David Review.md`, mechanical edit into the Executive Actions H2 table.
+5. **Related Figures auto-generation for Trump** — replace hand-written "Connections to Existing Vault" with top-10 by relevance from relationships.jsonl.
+
+### Commits shipped this session (14 total, all on v4)
+- `40c9c0ab3` ProfileHeader: drop redundant POLITICIAN badge
+- `a9b61642e` Remove 'VERIFIED' from public-facing UI
+- `4dc0bb37a` Three-page IA: Behind the Map / Our Sources / The Receipts
+- `34e090521` Graph layout fixes: interleave by type, scale ring, reliable expand
+- `d35a8404f` Narrative drift detector + Trump EO explainer drafts
+- `9beafc0bc` Session State: first save
+- `03cb84708` Top Donors ticker: link each name to its profile
+- `b1987d653` ProfileReaderGuide: 'What am I looking at?' explainer
+- `b7e8add04` ProfileReaderGuide: brutalist font pass + bulletproof toggle
+- (+ earlier: font swap, data panel regen, edge-count drop, etc.)
 
 ---
 
