@@ -74,7 +74,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S2CA00955`
 
 **Total received:** $1,908,371
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
@@ -86,7 +86,22 @@ top-policy-area: "Health"
 - Senate Committee on the Budget
 - Senate Committee on the Judiciary
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| COALITION TO GROW SAN FRANCISCO - GROW SF PAC | $10,432 | 2 |
+| CARE ACTION NOW INC. | $6,977 | 2 |
+| ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC | $3,129 | 2 |
+| DEMOCRATIC ALLIANCE FOR ACTION | $1,550 | 2 |
+| DOLORES HUERTA ACTION FUND | $1,449 | 2 |
+| Care Action Now Inc. | — | 1 |
+| Coalition to Grow San Francisco - Grow Sf PAC | — | 1 |
+| Democratic Alliance for Action | — | 1 |
+| Dolores Huerta Action Fund | — | 1 |
+| Alice B. Toklas LGBTQ Democratic Club Federal PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #alex-padilla #democrat #california #senate #ranking-member #rules-committee #election-administration #voting-rights #immigration #daca #latino #secretary-of-state #mit #pacoima #phase-6-gavel-power

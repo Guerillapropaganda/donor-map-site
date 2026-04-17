@@ -57,18 +57,27 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S4HI00136`
 
 **Total received:** $1,513,132
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
 - Appropriations
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Private Equity Industry
-- Real Estate Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| League of Conservation Voters | $1,040,091 | 2 |
+| Working Families for Hawaii | $241,841 | 2 |
+| MOVEON.ORG POLITICAL ACTION | $28,007 | 2 |
+| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $1,613 | 2 |
+| CLIMATE HAWKS VOTE | $1,500 | 2 |
+| Real Estate Industry | — | 1 |
+| Climate Hawks Vote | — | 1 |
+| MoveOn.org Political Action | — | 1 |
+| International Longshore and Warehouse Union -- Political Action Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #brian-schatz #democrat #hawaii #senate #appropriations #telecom #private-equity #schumer-heir #class-analysis #follow-the-money

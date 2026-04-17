@@ -50,6 +50,11 @@ employee-donor-count: 2313
 **Sector:** Labor Unions
 **EIN:** `611602482`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** $4,861,275
 **Tracked relationships:** 6 edges in the canonical store
 
@@ -64,7 +69,7 @@ employee-donor-count: 2313
 | Stephen Miller | — | 1 |
 | Rick Larsen | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #IBEW #building-trades #labor #class-analysis #follow-the-money #california #national #pro-labor #infrastructure #clean-energy #prevailing-wage

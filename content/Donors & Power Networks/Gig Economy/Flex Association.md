@@ -42,10 +42,14 @@ The needs-reenrichment flag has been set. The next scheduled pipeline run will p
 **Sector:** Gig Economy
 **EIN:** `394827006`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 0 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #flex-association #gig-economy #uber #lyft #doordash #instacart #prop-22 #worker-classification #lobbying #class-analysis #follow-the-money

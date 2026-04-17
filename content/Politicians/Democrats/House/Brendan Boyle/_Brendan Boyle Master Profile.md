@@ -44,7 +44,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H4PA13199`
 
 **Total received:** $1,522,158
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
@@ -54,10 +54,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| BUILDING A BETTER PA | $696,069 | 2 |
+| WOMEN VOTE! | $85,090 | 2 |
+| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION | $34,175 | 2 |
+| COMMONWEALTH COMMUNICATIONS | $22,008 | 2 |
+| NARAL Pro-Choice America | $22,000 | 2 |
+| Commonwealth Communications | — | 1 |
+| Building a Better PA | — | 1 |
 | UNITE HERE | — | 1 |
 | AFL-CIO | — | 1 |
+| International Brotherhood of Electrical Workers Local 98 Committee on Political Education | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #brendan-boyle #democrat #pennsylvania #house #ranking-member #budget #debt-ceiling #labor #philadelphia #working-class #reconciliation #blue-collar-caucus #phase-6-gavel-power

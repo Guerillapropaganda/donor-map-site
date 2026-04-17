@@ -65,10 +65,16 @@ employee-donor-count: 53
 **Sector:** Dark Money
 **EIN:** `530218495`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `petty-bourgeois`
+**Ideological function:** `libertarian-ideology`, `dark-money-networked`
+
 **Total political spend:** $6,625
 **Tracked relationships:** 0 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #aei #think-tank #conservative #deregulation #tax #trade #neoconservative

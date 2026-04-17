@@ -33,10 +33,31 @@ checklist-na:
 **Sector:** Agriculture
 **EIN:** `912158769`
 
-**Total political spend:** $216,324
-**Tracked relationships:** 0 edges in the canonical store
+#### Class analysis
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+**Capital type:** `agribusiness-capital`
+**Class position:** `petty-bourgeois`
+**Ideological function:** `deregulatory`
+
+**Total political spend:** $216,324
+**Tracked relationships:** 20 edges in the canonical store
+
+#### Top politicians funded
+
+| Politician | Amount | Edge count |
+|---|---:|---:|
+| Robin L. Kelly | — | 1 |
+| Ketanji Brown Jackson | — | 1 |
+| Donald G. Davis | — | 1 |
+| Cindy Hyde-Smith | — | 1 |
+| Mike Kelly | — | 1 |
+| Trent Kelly | — | 1 |
+| Lindsey Graham | — | 1 |
+| Bennie Thompson | — | 1 |
+| Jonathan L. Jackson | — | 1 |
+| Danny K. Davis | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #agricultural-lobby #california-politics #farm-interests #worker-opposition #environmental-regulation

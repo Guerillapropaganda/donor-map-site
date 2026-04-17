@@ -34,15 +34,18 @@ donors: "[[Federalist Society]], [[Koch Network - Charles Koch]], [[Paul Singer]
 **Chamber:** SCOTUS
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 4 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Leonard Leo
-- Paul Singer
-- Koch Network - Charles Koch
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Koch Network - Charles Koch | — | 1 |
+| Paul Singer | — | 1 |
+| Leonard Leo | — | 1 |
+| Federalist Society | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #samuel-alito #scotus #paul-singer #leonard-leo #federalist-society #donor-capture #class-analysis

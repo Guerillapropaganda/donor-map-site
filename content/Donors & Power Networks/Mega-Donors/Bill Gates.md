@@ -43,6 +43,10 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $652,713
 **Tracked relationships:** 4 edges in the canonical store
 
@@ -55,7 +59,7 @@ checklist-na:
 | Rosa DeLauro | — | 1 |
 | Debbie Stabenow | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #gates #microsoft #philanthropy #education #health #charter-schools #climate

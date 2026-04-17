@@ -61,7 +61,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H8FL27185`
 
 **Total received:** $922,124
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
@@ -72,10 +72,15 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DCCC | $2,048,831 | 2 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $1,712,393 | 2 |
+| HOUSE MAJORITY PAC | $1,162,569 | 2 |
+| Latino Vote for America Pac | $214,840 | 2 |
+| WOMEN VOTE! | $204,486 | 2 |
 | Kenneth Griffin | — | 1 |
 | Bacardi - Bacardi USA | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #house #florida #cuba #exile #class-analysis #follow-the-money #miami #little-havana

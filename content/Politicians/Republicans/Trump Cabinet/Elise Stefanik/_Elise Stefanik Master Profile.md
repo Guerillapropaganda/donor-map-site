@@ -36,7 +36,7 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H4NY21079`
 
 **Total received:** $4,955,682
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -46,10 +46,18 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NEW YORK 2014 | $744,532 | 2 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $397,847 | 2 |
+| THE LINCOLN PROJECT | $252,550 | 2 |
+| NATIONAL VICTORY ACTION FUND | $180,000 | 2 |
+| New York 2014 | — | 1 |
+| The Lincoln Project | — | 1 |
+| National Victory Action Fund | — | 1 |
 | Winning for Women PAC | — | 1 |
 | Miriam Adelson | — | 1 |
+| Citizens for Responsible Energy Solutions Inc. | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #stefanik #new-york #conference-chair #trump #un-ambassador #ideological-transformation #education #antisemitism #aipac #harvard #fort-drum #defense

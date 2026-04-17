@@ -69,7 +69,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S0DE00092`
 
 **Total received:** $5,285,973
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -79,11 +79,21 @@ top-policy-area: "International Affairs"
 - Senate Committee on the Judiciary
 - Senate Select Committee on Ethics
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- PhRMA
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $211,184 | 2 |
+| FIRST AMENDMENT ALLIANCE | $82,000 | 2 |
+| LET FREEDOM RING INC | $14,018 | 2 |
+| AMERICAN WORKER INC, THE | $7,540 | 2 |
+| THE NATIONAL REPUBLICAN TRUST PAC | $6,615 | 2 |
+| First Amendment Alliance | — | 1 |
+| The National Republican Trust PAC | — | 1 |
+| Let Freedom Ring INC | — | 1 |
+| American Worker Inc, the | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #chris-coons #democrat #delaware #senate #pharma #patent-law #corporate-incorporation #biden-seat #israel #class-analysis #follow-the-money

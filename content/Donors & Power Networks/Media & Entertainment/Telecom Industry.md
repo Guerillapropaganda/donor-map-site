@@ -50,6 +50,11 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Media & Entertainment
 
+#### Class analysis
+
+**Capital type:** `media-capital`
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $270,182
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -59,7 +64,7 @@ checklist-na:
 |---|---:|---:|
 | Mark Warner | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #telecom #net-neutrality #spectrum #broadband #lobbying #fcc #bipartisan

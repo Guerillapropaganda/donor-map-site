@@ -62,6 +62,11 @@ employee-donor-count: 321
 **Sector:** Labor Unions
 **EIN:** `332579905`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** $4,933,884
 **Tracked relationships:** 7 edges in the canonical store
 
@@ -77,7 +82,7 @@ employee-donor-count: 321
 | Richard Neal | — | 1 |
 | Mark Takano | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #AFSCME #public-sector #labor #class-analysis #follow-the-money #california #national #county #municipal #Janus #pensions

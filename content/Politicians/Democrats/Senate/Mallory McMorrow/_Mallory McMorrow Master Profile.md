@@ -43,7 +43,7 @@ urls-first-triaged: "2026-04-15"
 
 - National Progressive Donor Networks
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mallory-mcmorrow #michigan #senate #2026 #progressive #viral-politics #warren-endorsed #national-fundraising #class-analysis

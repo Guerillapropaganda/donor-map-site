@@ -68,21 +68,31 @@ employee-donor-count: 1
 **Sector:** Dark Money
 **EIN:** `237321017`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `petty-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $499,761
-**Tracked relationships:** 6 edges in the canonical store
+**Tracked relationships:** 17 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Barry Moore | — | 1 |
 | Wes Moore | — | 1 |
 | Bob Menendez | — | 1 |
-| Melissa Bean | — | 1 |
-| Kevin McCarthy | — | 1 |
-| Linda McMahon | — | 1 |
-| Jerry Nadler | — | 1 |
+| Salud O. Carbajal | — | 1 |
+| Blake D. Moore | — | 1 |
+| Jerrold Nadler | — | 1 |
+| Aaron Bean | — | 1 |
+| Tim Moore | — | 1 |
+| Riley M. Moore | — | 1 |
+| Gina McCarthy | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #gun-violence-prevention #democratic-donor #advocacy-organization #brady-pac

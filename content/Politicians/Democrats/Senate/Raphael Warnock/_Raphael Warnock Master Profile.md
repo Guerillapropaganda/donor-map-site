@@ -73,7 +73,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S0GA00559`
 
 **Total received:** $6,047,785
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
@@ -82,13 +82,22 @@ top-policy-area: "Health"
 - Commerce, Science, and Transportation
 - Special Committee on Aging
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- National tech / media donors ($13.4M from California 2022)
-- Healthcare sector PAC donors
-- Out-of-state individual donors (92% of 2022 cycle)
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| AMERICAN CROSSROADS | $77,735,210 | 2 |
+| Senate Leadership Fund | $77,261,714 | 2 |
+| PEACHTREE PAC | $28,361,919 | 2 |
+| NRSC | $23,545,584 | 2 |
+| WORKER POWER PAC FOR GEORGIA | $8,030,000 | 2 |
+| Worker Power PAC for Georgia | — | 1 |
+| American Crossroads | — | 1 |
+| David McIntosh | — | 1 |
+| Healthcare Sector | — | 1 |
+| Peachtree PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #raphael-warnock #senate #georgia #mlk #ebenezer-baptist #moral-authority #fundraising #corporate-democrat #class-analysis

@@ -52,6 +52,10 @@ employee-donor-count: 35
 **Sector:** Education
 **EIN:** `472066714`
 
+#### Class analysis
+
+**Ideological function:** `privatization`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -62,7 +66,7 @@ employee-donor-count: 35
 | Virginia Foxx | — | 1 |
 | Sarah Huckabee Sanders | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #billionaire-philanthropy #walton #walmart #charter-schools #education-reform #class-analysis #republican-money #follow-the-money #privatization #california

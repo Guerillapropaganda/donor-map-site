@@ -37,15 +37,23 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `S6NC00415`
 
 **Total received:** $6,273,539
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 11 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Consumer Energy Alliance
-- HBW Resources
-- Susan B. Anthony Pro-Life America PAC
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 | 2 |
+| SLF PAC | $911,323 | 2 |
+| Consumer Energy Alliance | — | 1 |
+| Paul Singer | — | 1 |
+| Susan B. Anthony Pro-Life America PAC | — | 1 |
+| Tim Dunn | — | 1 |
+| NORPAC | — | 1 |
+| HBW Resources | — | 1 |
+| Republican Jewish Coalition | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senate #north-carolina #2026-candidate #oil-lobbyist #trump-aligned

@@ -45,6 +45,10 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Class position:** `upper-bourgeois`
+
 **Total political spend:** $2,042,848
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -56,7 +60,7 @@ checklist-na:
 | Donald Trump | — | 1 |
 | Steve Bannon | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #robert-mercer #mega-donor #renaissance-technologies #breitbart #cambridge-analytica #hedge-fund #dark-money #class-analysis

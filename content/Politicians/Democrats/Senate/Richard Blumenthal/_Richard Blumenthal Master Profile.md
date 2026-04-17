@@ -57,7 +57,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S0CT00177`
 
 **Total received:** $619,810
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -69,9 +69,16 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Connecticut Patriots Pac | $5,702,166 | 2 |
+| Restoration PAC | $450,000 | 2 |
+| LEADERSHIP NOW | $446,250 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $158,505 | 2 |
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | $102,121 | 2 |
 | Google - Alphabet | — | 1 |
+| National Committee to Preserve Social Security & Medicare PAC | — | 1 |
+| Leadership Now | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #richard-blumenthal #democrat #connecticut #senate #ranking-member #veterans-affairs #judiciary #armed-services #gun-control #children-online-safety #attorney-general #vietnam-controversy #empire-state-building #malkin #wealthy #phase-6-gavel-power

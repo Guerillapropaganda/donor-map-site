@@ -32,6 +32,10 @@ employee-donor-count: 1
 **Entity type:** corporation
 **Sector:** Defense & Intelligence
 
+#### Class analysis
+
+**Capital type:** `military-industrial`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -41,7 +45,7 @@ employee-donor-count: 1
 |---|---:|---:|
 | Maria Cantwell | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #boeing #defense #aerospace #military #lobbying #government-contracts #safety #revolving-door #too-big-to-fail

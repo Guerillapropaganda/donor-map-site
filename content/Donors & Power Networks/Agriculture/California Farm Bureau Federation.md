@@ -103,22 +103,30 @@ employee-donor-count: 4
 **Sector:** Agriculture
 **EIN:** `940357610`
 
-**Total political spend:** $891,442
-**Tracked relationships:** 7 edges in the canonical store
+#### Class analysis
+
+**Capital type:** `agribusiness-capital`
+**Class position:** `petty-bourgeois`
+
+**Total political spend:** $892,442
+**Tracked relationships:** 19 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
 | Lindsey Graham | — | 1 |
+| Leon Panetta | — | 1 |
 | Glenn Thompson | — | 1 |
+| Nathaniel Moran | — | 1 |
+| Gina McCarthy | — | 1 |
 | Bennie Thompson | — | 1 |
+| Jared F. Golden | — | 1 |
+| Young Kim | — | 1 |
+| Andy Kim | — | 1 |
 | Debbie Stabenow | — | 1 |
-| Kevin McCarthy | — | 1 |
-| John Boehner | — | 1 |
-| Jerry Moran | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #agricultural-employer #farm-bureau #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent

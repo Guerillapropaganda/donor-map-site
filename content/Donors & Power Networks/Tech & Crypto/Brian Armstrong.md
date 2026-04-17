@@ -42,6 +42,10 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Tech & Crypto
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -51,7 +55,7 @@ checklist-na:
 |---|---:|---:|
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #brian-armstrong #coinbase #crypto #fairshake #mega-donor #ceo #class-analysis

@@ -33,7 +33,7 @@ checklist-na:
 ### 📊 Live data panel
 
 **Entity type:** donor
-**Sector:** Jeffrey Epstein Network.md
+**Sector:** Mega-Donors
 
 **Total political spend:** —
 **Tracked relationships:** 3 edges in the canonical store
@@ -46,7 +46,7 @@ checklist-na:
 | Steve Bannon | — | 1 |
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #epstein #wexner #dark-money #intelligence #class-analysis #follow-the-money

@@ -53,6 +53,11 @@ employee-donor-count: 57
 **Sector:** Israel Lobby
 **EIN:** `530217164`
 
+#### Class analysis
+
+**Class position:** `petty-bourgeois`
+**Ideological function:** `zionist-aligned`, `imperialist-aligned`
+
 **Total political spend:** $790,700
 **Tracked relationships:** 15 edges in the canonical store
 
@@ -71,7 +76,7 @@ employee-donor-count: 57
 | Mike Johnson | — | 1 |
 | Kamala Harris | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #israel #AIPAC #pro-israel #national #lobbying #super-pac #UDP #follow-the-money #class-analysis #foreign-policy #congress #primary-weapon

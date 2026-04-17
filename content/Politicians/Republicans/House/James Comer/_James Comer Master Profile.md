@@ -58,13 +58,25 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `H6KY01110`
 
 **Total received:** $1,108,482
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - Oversight & Reform
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $8,599 | 2 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $862 | 2 |
+| TOGETHER WE THRIVE | $750 | 2 |
+| ALLIANCE COAL, LLC PAC | $69 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $13 | 2 |
+| Together We Thrive | — | 1 |
+| Alliance Coal, LLC PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #james-comer #republican #kentucky #house #committee-chair #phase-6-gavel-power #oversight #investigations #class-analysis #follow-the-money

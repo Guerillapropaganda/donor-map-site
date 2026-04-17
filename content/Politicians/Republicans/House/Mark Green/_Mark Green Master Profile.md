@@ -43,7 +43,7 @@ donors: "[[Fraternal Order of Police]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMM
 **FEC candidate ID:** `H8TN07076`
 
 **Total received:** $2,049,040
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 9 edges in the canonical store
 
 #### Committees
 
@@ -53,9 +53,13 @@ donors: "[[Fraternal Order of Police]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMM
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| HOUSE MAJORITY PAC | $705,828 | 2 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $549,329 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,882 | 2 |
+| National Right to Life Victory Fund | $2,451 | 2 |
 | Fraternal Order of Police | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mark-green #republican #tennessee #house #committee-chair #homeland-security #military #special-operations #healthcare #mayorkas-impeachment #resigned #phase-6-gavel-power

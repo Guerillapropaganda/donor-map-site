@@ -37,9 +37,23 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H2OH11169`
 
 **Total received:** $672,085
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DMFI PAC | $3,608,344 | 2 |
+| PROTECT OUR FUTURE PAC | $3,031,156 | 2 |
+| THE DEMOCRATIC ACTION PAC | $545,000 | 2 |
+| Protecting Our Vote Pac | $145,280 | 2 |
+| DMFI - Democratic Majority for Israel | — | 1 |
+| The Democratic Action PAC | — | 1 |
+| Republican Jewish Coalition | — | 1 |
+| Lawrence Summers | — | 1 |
+| Protect Our Future PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #shontel-brown #oh-11 #cuyahoga-county #aipac-backed #dmfi-backed #house #democrat

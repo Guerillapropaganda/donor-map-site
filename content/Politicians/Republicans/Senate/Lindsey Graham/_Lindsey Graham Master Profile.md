@@ -45,16 +45,21 @@ top-policy-area: "International Affairs"
 **Bioguide ID:** `G000359`
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 7 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- AIPAC
-- Lockheed Martin
-- Boeing
-- Republican Jewish Coalition
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| California Farm Bureau Federation | — | 1 |
+| Boeing | — | 1 |
+| CA Farm Bureau Federation | — | 1 |
+| Lockheed Martin | — | 1 |
+| Patrick Soon-Shiong | — | 1 |
+| Republican Jewish Coalition | — | 1 |
+| Democracy Alliance | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #lindsey-graham #senate #south-carolina #defense #trump #mccain #aipac #class-analysis #chameleon #follow-the-money

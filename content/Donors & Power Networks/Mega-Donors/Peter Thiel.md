@@ -55,7 +55,7 @@ checklist-na:
 **Sector:** Mega-Donors
 
 **Total political spend:** —
-**Tracked relationships:** 12 edges in the canonical store
+**Tracked relationships:** 13 edges in the canonical store
 
 #### Top politicians funded
 
@@ -69,10 +69,10 @@ checklist-na:
 | David Sacks | — | 1 |
 | Vivek Ramaswamy | — | 1 |
 | Mike Johnson | — | 1 |
+| David Sacks (Donor Network) | — | 1 |
 | Bari Weiss | — | 1 |
-| JD Vance | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance

@@ -52,8 +52,8 @@ top-policy-area: "Health"
 **Bioguide ID:** `M001198`
 **FEC candidate ID:** `S0KS00315`
 
-**Total received:** —
-**Tracked donors:** 1 edges in the canonical store
+**Total received:** $2,523,809
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -63,9 +63,17 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| ESAFUND | $736,952 | 2 |
+| CLUB FOR GROWTH ACTION | $727,816 | 2 |
+| HOUSE LIBERTY PROJECT | $479,599 | 2 |
+| KANSAS FARMERS FUND | $374,565 | 2 |
+| KANSAS AG COMMUNITIES COALITION | $204,877 | 2 |
+| Kansas Farmers Fund | — | 1 |
+| House Liberty Project | — | 1 |
 | Western Growers Association | — | 1 |
+| Kansas Ag Communities Coalition | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senate #kansas #agriculture #healthcare #pharma #covid #class-analysis #follow-the-money #gavel-power

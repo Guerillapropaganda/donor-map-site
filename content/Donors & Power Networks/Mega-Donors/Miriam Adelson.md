@@ -67,7 +67,7 @@ urls-first-triaged: "2026-04-15"
 | Kamala Harris | — | 1 |
 | Pete Hegseth | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #adelson #casino #class-analysis #follow-the-money #israel #las-vegas-sands #west-bank #annexation #sheldon-adelson #mega-donor #media-ownership #mavericks #texas-gambling #huckabee

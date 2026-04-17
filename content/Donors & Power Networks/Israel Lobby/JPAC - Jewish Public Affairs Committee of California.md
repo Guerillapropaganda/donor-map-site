@@ -44,6 +44,10 @@ employee-donor-count: 2
 **Sector:** Israel Lobby
 **EIN:** `680028695`
 
+#### Class analysis
+
+**Ideological function:** `zionist-aligned`, `imperialist-aligned`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -53,7 +57,7 @@ employee-donor-count: 2
 |---|---:|---:|
 | Gavin Newsom | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #israel #JPAC #pro-israel #california #lobbying #advocacy #sacramento #pressure-network

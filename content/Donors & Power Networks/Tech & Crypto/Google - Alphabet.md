@@ -51,6 +51,10 @@ employee-donor-count: 24906
 **Entity type:** corporation
 **Sector:** Tech & Crypto
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 9 edges in the canonical store
 
@@ -68,7 +72,7 @@ employee-donor-count: 24906
 | Kamala Harris | — | 1 |
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #google #alphabet #tech #lobbying #antitrust #surveillance #advertising #data #ai #revolving-door #monopoly #eu-lobbying #california #pac #dark-money #class-analysis #follow-the-money

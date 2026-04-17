@@ -53,7 +53,7 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H2AZ07070`
 
 **Total received:** $17,388
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -63,9 +63,17 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| AMERICANS FOR TAX REFORM | $460,368 | 2 |
+| MOVEON.ORG POLITICAL ACTION | $291,211 | 2 |
+| CAMPAIGN FOR COMMUNITY CHANGE | $219,993 | 2 |
+| SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU) | $121,000 | 2 |
+| WORKING FAMILIES PARTY PAC | $92,000 | 2 |
 | National Nurses United | — | 1 |
+| Campaign for Community Change | — | 1 |
+| MoveOn.org Political Action | — | 1 |
+| Working Families Party PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #raul-grijalva #democrat #arizona #house #ranking-member #natural-resources #public-lands #environment #mining #indigenous #progressive-caucus #deceased #phase-6-gavel-power

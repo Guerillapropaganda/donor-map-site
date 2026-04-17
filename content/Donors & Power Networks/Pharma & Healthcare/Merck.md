@@ -70,6 +70,10 @@ employee-donor-count: 1285
 **Sector:** Pharma & Healthcare
 **EIN:** `226028476`
 
+#### Class analysis
+
+**Capital type:** `pharma-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -79,7 +83,7 @@ employee-donor-count: 1285
 |---|---:|---:|
 | Cory Booker | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #merck #pharma #drug-pricing #keytruda #vaccines #ira #medicare-negotiation

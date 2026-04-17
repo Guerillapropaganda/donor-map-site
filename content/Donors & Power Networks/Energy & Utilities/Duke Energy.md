@@ -86,10 +86,14 @@ employee-donor-count: 712
 **Sector:** Energy & Utilities
 **EIN:** `581586283`
 
+#### Class analysis
+
+**Capital type:** `fossil-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 0 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #duke-energy #utility #coal-ash #north-carolina #monopoly #rate-base #renewables

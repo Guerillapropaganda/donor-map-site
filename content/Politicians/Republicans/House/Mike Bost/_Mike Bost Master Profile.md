@@ -52,7 +52,7 @@ top-policy-area: "Armed Forces and National Security"
 |---|---:|---:|
 | American Iron and Steel Institute | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mike-bost #republican #illinois #house #committee-chair #veterans-affairs #pact-act #burn-pits #va-healthcare #doge #marine #privatization #community-care #phase-6-gavel-power

@@ -44,7 +44,7 @@ related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Ma
 - SEIU - Service Employees International Union
 - California Nurses Association
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #eric-swalwell #california #governor-2026 #cable-news #hollywood #[[SEIU - Service Employees International Union|SEIU]] #east-bay #class-analysis

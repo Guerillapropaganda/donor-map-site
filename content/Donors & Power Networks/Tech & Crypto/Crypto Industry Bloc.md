@@ -32,8 +32,12 @@ urls-first-triaged: "2026-04-15"
 **Entity type:** corporation
 **Sector:** Tech & Crypto
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
-**Tracked relationships:** 10 edges in the canonical store
+**Tracked relationships:** 11 edges in the canonical store
 
 #### Top politicians funded
 
@@ -43,14 +47,14 @@ urls-first-triaged: "2026-04-15"
 | Ted Cruz | — | 1 |
 | Jared Kushner | — | 1 |
 | Donald Trump | — | 1 |
+| David Sacks (Donor Network) | — | 1 |
 | Elizabeth Warren | — | 1 |
 | JD Vance | — | 1 |
 | David Sacks | — | 1 |
 | Howard Lutnick | — | 1 |
 | Katie Porter | — | 1 |
-| Patrick McHenry | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #crypto #bitcoin #fairshake #deregulation #class-analysis #follow-the-money #trump #SEC #conflict-of-interest #coinbase #ripple #a16z

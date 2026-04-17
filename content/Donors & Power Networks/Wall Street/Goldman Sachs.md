@@ -51,6 +51,10 @@ employee-donor-count: 1647
 **Sector:** Wall Street
 **EIN:** `311678646`
 
+#### Class analysis
+
+**Class position:** `upper-bourgeois`
+
 **Total political spend:** $1,328,690
 **Tracked relationships:** 20 edges in the canonical store
 
@@ -69,7 +73,7 @@ employee-donor-count: 1647
 | Mark Warner | — | 1 |
 | Tim Scott | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #wall-street #finance #revolving-door #bipartisan #too-big-to-fail #regulatory-capture #donor

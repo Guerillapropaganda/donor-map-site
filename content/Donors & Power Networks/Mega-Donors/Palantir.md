@@ -78,17 +78,18 @@ employee-donor-count: 526
 **Sector:** Mega-Donors
 
 **Total political spend:** —
-**Tracked relationships:** 3 edges in the canonical store
+**Tracked relationships:** 4 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| David Sacks (Donor Network) | — | 1 |
 | JD Vance | — | 1 |
 | Donald Trump | — | 1 |
 | David Sacks | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #palantir #thiel #surveillance #defense #ai #military #ice #immigration #data #revolving-door #class-analysis #follow-the-money

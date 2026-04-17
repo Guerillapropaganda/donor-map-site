@@ -42,9 +42,24 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H4NY16087`
 
 **Total received:** $280,886
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 17 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DMFI PAC | $1,825,535 | 2 |
+| WORKING FAMILIES PARTY PAC | $1,338,070 | 2 |
+| JUSTICE DEMOCRATS PAC | $783,227 | 2 |
+| EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | $200,000 | 2 |
+| UNITED DEMOCRACY PROJECT ('UDP') | $168,652 | 2 |
+| DMFI - Democratic Majority for Israel | — | 1 |
+| Bernie Marcus | — | 1 |
+| Fairshake PAC | — | 1 |
+| Justice Democrats PAC | — | 1 |
+| Working Families Party PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #george-latimer #ny-16 #westchester #aipac-backed #udp-supported #house #democrat

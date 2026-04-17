@@ -35,17 +35,23 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S8UT00176`
 
 **Total received:** $483,642,897
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| PRIORITIES USA ACTION | $112,336,878 | 2 |
+| Restore Our Future, Inc. | $23,749,265 | 2 |
+| Winning Our Future | $15,418,720 | 2 |
+| AMERICAN CROSSROADS | $11,481,126 | 2 |
+| Americans for Responsible Leadership | $9,633,565 | 2 |
 | Elliott Management | — | 1 |
 | Christopher Ruddy | — | 1 |
 | Rebekah Mercer | — | 1 |
+| American Crossroads | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senator #presidential2012 #bain-capital #self-funding #private-equity

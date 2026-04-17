@@ -59,7 +59,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H6FL18097`
 
 **Total received:** $2,368,244
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -69,10 +69,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| WITH HONOR FUND, INC. | $1,638,382 | 2 |
+| NRCC | $1,305,418 | 2 |
+| HOUSE MAJORITY PAC | $1,092,265 | 2 |
+| DCCC | $614,220 | 2 |
+| SPECIAL OPERATIONS FOR AMERICA | $411,772 | 2 |
 | NORPAC | — | 1 |
+| Special Operations for America | — | 1 |
 | Fanjul Family - Florida Crystals | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #brian-mast #republican #florida #house #committee-chair #foreign-affairs #israel #aipac #idf #military-veteran #amputee #gaza #arms-sales #sugar #phase-6-gavel-power

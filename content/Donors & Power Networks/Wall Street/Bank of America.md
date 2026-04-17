@@ -104,7 +104,7 @@ employee-donor-count: 10546
 | Tim Scott | — | 1 |
 | French Hill | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bank-of-america #wall-street #banking #too-big-to-fail #consumer-finance #lobbying #mortgage

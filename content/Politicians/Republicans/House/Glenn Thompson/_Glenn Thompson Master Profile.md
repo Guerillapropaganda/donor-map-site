@@ -46,7 +46,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H8PA05071`
 
 **Total received:** $1,227,441
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
@@ -56,12 +56,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $72,300 | 2 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $26,000 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $22,167 | 2 |
+| PENNSYLVANIA PRO-LIFE FEDERATION PAC | $1,635 | 2 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $862 | 2 |
 | California Farm Bureau Federation | — | 1 |
+| Pennsylvania Pro-Life Federation PAC | — | 1 |
+| National Cattlemen's Beef Association | — | 1 |
 | IBEW - International Brotherhood of Electrical Workers | — | 1 |
 | American Gaming Association | — | 1 |
-| Blue Shield of California | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #glenn-thompson #republican #pennsylvania #house #committee-chair #agriculture #farm-bill #crop-insurance #snap #dairy #sugar #agribusiness #phase-6-gavel-power

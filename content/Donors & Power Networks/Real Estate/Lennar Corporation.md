@@ -69,6 +69,10 @@ employee-donor-count: 195
 **Sector:** Real Estate
 **EIN:** `560946914`
 
+#### Class analysis
+
+**Capital type:** `rentier-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -80,7 +84,7 @@ employee-donor-count: 195
 | Gavin Newsom | — | 1 |
 | Ron DeSantis | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #lennar #homebuilder #real-estate #housing #zoning #lobbying #affordability #florida #immigration #labor #class-analysis #follow-the-money

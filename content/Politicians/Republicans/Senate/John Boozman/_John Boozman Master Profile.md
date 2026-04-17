@@ -42,7 +42,7 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `S0AR00150`
 
 **Total received:** $335,864
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 7 edges in the canonical store
 
 #### Committees
 
@@ -53,10 +53,13 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $2,561 | 2 |
+| PLANNED PARENTHOOD ACTION FUND INC | $2 | 2 |
+| Planned Parenthood Action Fund INC | — | 1 |
 | Walmart - Walton Family | — | 1 |
 | Tyson Foods | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #john-boozman #republican #arkansas #senate #committee-chair #agriculture #appropriations #tyson-foods #poultry #meatpacking #farm-bill #snap #crop-insurance #phase-6-gavel-power

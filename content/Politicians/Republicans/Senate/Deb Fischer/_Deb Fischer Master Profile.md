@@ -47,7 +47,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S2NE00094`
 
 **Total received:** $572,417
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -58,9 +58,16 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Retire Career Politicians | $13,725,456 | 2 |
+| END THE GRIDLOCK | $3,197,722 | 2 |
+| ENDING SPENDING ACTION FUND | $1,651,703 | 2 |
+| ESAFUND | $881,915 | 2 |
+| COMMON SENSE FOR AMERICA PAC | $303,194 | 2 |
+| End the Gridlock | — | 1 |
+| Common Sense for America PAC | — | 1 |
 | Insurance Industry | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #deb-fischer #republican #nebraska #senate #armed-services #strategic-forces #nuclear #icbm #sentinel #meatpacking #agriculture #cattle #rancher #defense #phase-6-gavel-power

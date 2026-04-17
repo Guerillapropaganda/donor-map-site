@@ -43,9 +43,20 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H2OH11151`
 
 **Total received:** $7,693,038
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 11 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DMFI PAC | $3,123,638 | 2 |
+| Third Way | $1,010,000 | 2 |
+| THE DEMOCRATIC ACTION PAC | $465,000 | 2 |
+| Wfp Ie Committee | $404,831 | 2 |
+| Mainstream Democrats Pac | $303,171 | 2 |
+| The Democratic Action PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #nina-turner #ohio #oh-11 #former-candidate #bernie-sanders #medicare-for-all #aipac-target #dmfi-target #progressive

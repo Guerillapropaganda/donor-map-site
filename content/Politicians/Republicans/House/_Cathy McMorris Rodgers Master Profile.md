@@ -44,20 +44,28 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `H4WA05077`
 
 **Total received:** $3,631,602
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
 - Energy & Commerce
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Oil & Gas PACs
-- Koch Industries
-- Marathon Petroleum
-- Chevron
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $982,440 | 2 |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $347,605 | 2 |
+| Clearpath Action Fund, Inc. | $336,750 | 2 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $278,926 | 2 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $179,660 | 2 |
+| Patrick Soon-Shiong | — | 1 |
+| Marathon Petroleum | — | 1 |
+| American Hospital Association PAC | — | 1 |
+| Koch Industries | — | 1 |
+| Oil & Gas PACs | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #republican #house #washington #energy-commerce #telecom #net-neutrality #pac-money

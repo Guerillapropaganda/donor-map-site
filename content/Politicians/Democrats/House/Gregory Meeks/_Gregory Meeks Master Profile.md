@@ -53,7 +53,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H8NY06048`
 
 **Total received:** $1,032,781
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
@@ -63,10 +63,18 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| FAIRSHAKE | $92,320 | 2 |
+| DIRECT SELLING EMPOWERS AMERICANS | $18,941 | 2 |
+| CARE ACTION NOW INC. | $4,884 | 2 |
+| SIERRA CLUB POLITICAL COMMITTEE | $180 | 2 |
+| Planned Parenthood Votes | $124 | 2 |
+| Sierra Club Political Committee | — | 1 |
 | Goldman Sachs | — | 1 |
 | NORPAC | — | 1 |
+| Direct Selling Empowers Americans | — | 1 |
+| Care Action Now Inc. | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #gregory-meeks #democrat #new-york #house #ranking-member #foreign-affairs #financial-services #israel-lobby #wall-street #ethics-violations #phase-6-gavel-power

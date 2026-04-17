@@ -49,7 +49,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S8MS00196`
 
 **Total received:** $286,732
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
@@ -59,12 +59,17 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $600,052 | 2 |
+| MISSISSIPPI REPUBLICAN PARTY | $19,442 | 2 |
+| PLANNED PARENTHOOD ACTION FUND INC | $2 | 2 |
 | Lockheed Martin | — | 1 |
+| Mississippi Republican Party | — | 1 |
 | Northrop Grumman | — | 1 |
 | Raytheon (RTX Corporation) | — | 1 |
 | General Dynamics | — | 1 |
+| Planned Parenthood Action Fund INC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #roger-wicker #republican #mississippi #senate #committee-chair #phase-6-gavel-power #armed-services #defense #class-analysis #follow-the-money

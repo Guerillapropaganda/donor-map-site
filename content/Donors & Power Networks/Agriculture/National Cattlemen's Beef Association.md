@@ -103,17 +103,30 @@ employee-donor-count: 16
 **Sector:** Agriculture
 **EIN:** `840738973`
 
+#### Class analysis
+
+**Capital type:** `agribusiness-capital`
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $452,500
-**Tracked relationships:** 2 edges in the canonical store
+**Tracked relationships:** 21 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Mike Carey | — | 1 |
+| Harold Rogers | — | 1 |
+| Jimmy Panetta | — | 1 |
+| Glenn Thompson | — | 1 |
+| Leon Panetta | — | 1 |
+| Richard Hudson | — | 1 |
 | Frank Lucas | — | 1 |
-| Donald Trump | — | 1 |
+| Jim Costa | — | 1 |
+| Bennie Thompson | — | 1 |
+| Mike Rogers | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #agriculture #lobbying #meatpacking #consolidation #class-analysis #follow-the-money #astroturf #trade-policy

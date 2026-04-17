@@ -45,16 +45,24 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H4CA23011`
 
 **Total received:** $431,662
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| FUTURE45 | $899,018 | 2 |
+| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | $321,313 | 2 |
+| STARS AND STRIPES FOREVER PAC | $210,929 | 2 |
+| LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | $62,562 | 2 |
+| ELBERT GUILLORY'S AMERICA | $8,292 | 2 |
+| Los Angeles County Democratic Central Committee | — | 1 |
+| Elbert Guillory's America | — | 1 |
 | California Nurses Association | — | 1 |
+| Stars and Stripes Forever PAC | — | 1 |
 | Goldman Sachs | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #maxine-waters #democrat #california #house #financial-services #ranking-member #phase-6-gavel-power

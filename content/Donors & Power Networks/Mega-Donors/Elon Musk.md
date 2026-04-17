@@ -61,6 +61,10 @@ employee-donor-count: 4
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Class position:** `ruling-class`
+
 **Total political spend:** $367,346,137
 **Tracked relationships:** 8 edges in the canonical store
 
@@ -77,7 +81,7 @@ employee-donor-count: 4
 | Ken Calvert | — | 1 |
 | Mike Collins | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #musk #oligarch #tech #class-analysis #follow-the-money #DOGE #tesla #spacex #twitter #xai #labor-busting #federal-contracts #america-pac #foreign-interference #afd

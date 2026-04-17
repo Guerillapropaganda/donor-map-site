@@ -31,13 +31,21 @@ urls-first-triaged: "2026-04-15"
 **Party:** Republican · **Chamber:** Cabinet
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 7 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Miriam Adelson
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Real Estate Industry | — | 1 |
+| Gulf State Money - Saudi Arabia, UAE, Qatar | — | 1 |
+| Crypto Industry Bloc | — | 1 |
+| World Liberty Financial | — | 1 |
+| Mohammed bin Salman | — | 1 |
+| Trump Organization | — | 1 |
+| Miriam Adelson | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #kushner #master-profile #trump-family #saudi #UAE #class-analysis #follow-the-money #affinity-partners #abraham-accords #PIF #real-estate #slumlord #conflicts-of-interest #foreign-agent

@@ -71,7 +71,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6IL00292`
 
 **Total received:** $385,884
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
@@ -81,12 +81,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $6,878,709 | 2 |
+| NOW OR NEVER PAC | $3,892,413 | 2 |
+| FREEDOMWORKS FOR AMERICA | $3,649,440 | 2 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $858,884 | 2 |
+| NEW PROSPERITY FOUNDATION; THE | $517,710 | 2 |
+| Now Or Never PAC | — | 1 |
 | Boeing | — | 1 |
+| FreedomWorks for America | — | 1 |
 | General Dynamics | — | 1 |
 | Democracy Alliance | — | 1 |
-| Lockheed Martin | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #duckworth #democrat #illinois #defense #veterans #armed-services #disability #thai-american #genuine-win-structural-limit #both-sides-illusion

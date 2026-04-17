@@ -47,6 +47,10 @@ employee-donor-count: 116
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Ideological function:** `libertarian-ideology`, `dark-money-networked`
+
 **Total political spend:** —
 **Tracked relationships:** 27 edges in the canonical store
 
@@ -65,7 +69,7 @@ employee-donor-count: 116
 | Gavin Newsom | — | 1 |
 | Josh Hawley | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #koch #mega-donor #libertarian #anti-union #dark-money #deregulation #fossil-fuel #national #class-analysis #follow-the-money #right-to-work #project-2025 #janus

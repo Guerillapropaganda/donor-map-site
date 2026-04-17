@@ -89,22 +89,30 @@ employee-donor-count: 2
 **Sector:** Agriculture
 **EIN:** `751972150`
 
+#### Class analysis
+
+**Capital type:** `agribusiness-capital`
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $481,034
-**Tracked relationships:** 7 edges in the canonical store
+**Tracked relationships:** 21 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
 | Jerry Moran | — | 1 |
+| Gina McCarthy | — | 1 |
 | Mike Johnson | — | 1 |
+| Tracey Mann | — | 1 |
+| Julie Johnson | — | 1 |
+| Lisa Jackson | — | 1 |
+| Jeh Johnson | — | 1 |
+| Dusty Johnson | — | 1 |
 | Henry Cuellar | — | 1 |
 | Kevin McCarthy | — | 1 |
-| Ron Johnson | — | 1 |
-| John Hoeven | — | 1 |
-| Roger Marshall | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #agricultural-employer #western-growers #labor-opponent #immigration #H-2A #farmworkers #follow-the-money #california #lobbying #dual-opponent

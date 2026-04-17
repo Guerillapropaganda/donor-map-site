@@ -35,6 +35,10 @@ employee-donor-count: 207
 **Entity type:** donor
 **Sector:** Wall Street
 
+#### Class analysis
+
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $707
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -44,7 +48,7 @@ employee-donor-count: 207
 |---|---:|---:|
 | Mitt Romney | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #hedge-fund #paul-singer #republican #national-security #war-hawk #fossil-fuel #israel #neoconservative #scotus #activist-investor #class-analysis #follow-the-money

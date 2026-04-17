@@ -54,13 +54,23 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6ME00159`
 
 **Total received:** $10,153,542
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Blackstone
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| SMP | $50,402,276 | 2 |
+| DSCC | $9,261,000 | 2 |
+| WOMEN VOTE! | $5,926,226 | 2 |
+| 1820 PAC | $4,805,828 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,849,523 | 2 |
+| Blackstone Group | — | 1 |
+| American Gaming Association | — | 1 |
+| Tech Industry | — | 1 |
+| Blackstone | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #susan-collins #senate #maine #moderate #kavanaugh #private-equity #corporate-pacs #class-analysis

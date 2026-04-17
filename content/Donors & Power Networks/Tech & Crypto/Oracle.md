@@ -64,6 +64,10 @@ employee-donor-count: 4914
 **Sector:** Tech & Crypto
 **EIN:** `455577678`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -73,7 +77,7 @@ employee-donor-count: 4914
 |---|---:|---:|
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #oracle #tech #cloud #government-contracts #lobbying #larry-ellison #tiktok

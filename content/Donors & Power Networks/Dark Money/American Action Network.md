@@ -55,6 +55,12 @@ employee-donor-count: 1
 **Sector:** Dark Money
 **EIN:** `270730508`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `ruling-class`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $176,798,895
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -64,7 +70,7 @@ employee-donor-count: 1
 |---|---:|---:|
 | Gary Peters | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #aan #dark-money #republican #501c4 #lobbying #healthcare #tax #class-analysis #follow-the-money #house-republicans #pharma #corporate-dark-money

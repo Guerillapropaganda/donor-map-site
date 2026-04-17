@@ -64,7 +64,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S2TX00312`
 
 **Total received:** $6,442,446
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 21 edges in the canonical store
 
 #### Committees
 
@@ -73,13 +73,22 @@ top-policy-area: "International Affairs"
 - Senate Committee on Rules and Administration
 - Senate Committee on the Judiciary
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Robert Mercer
-- Koch Network - Charles Koch
-- Crypto Industry Bloc
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Texas Conservatives Fund | $11,020,000 | 2 |
+| Truth and Courage PAC | $6,598,631 | 2 |
+| TEXAS FOREVER | $4,600,814 | 2 |
+| SAVE OUR COUNTRY | $3,100,000 | 2 |
+| WinSenate | $2,487,500 | 2 |
+| Crypto Industry Bloc | — | 1 |
+| Republican Jewish Coalition | — | 1 |
+| Texas Forever | — | 1 |
+| Save Our Country | — | 1 |
+| Christopher Ruddy | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #ted-cruz #senate #texas #oil-gas #goldman-sachs #robert-mercer #crypto #class-analysis

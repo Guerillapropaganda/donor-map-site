@@ -58,13 +58,23 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `H6FL01119`
 
 **Total received:** $6,772,979
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- MAGA Small Dollar Base
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Florida Patriots Pac | $4,243,279 | 2 |
+| North Florida Neighbors | $869,566 | 2 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $380,000 | 2 |
+| FLORIDA CONSERVATIVE FUND | $121,542 | 2 |
+| CITIZEN SUPER PAC | $44,721 | 2 |
+| MAGA Small Dollar Base | — | 1 |
+| Florida Conservative Fund | — | 1 |
+| Citizen Super PAC | — | 1 |
+| Protect Freedom Political Action Committee | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #matt-gaetz #house #florida #freedom-caucus #trump-loyalist #sex-trafficking #ethics #family-wealth #chaos-agent #class-analysis #maga

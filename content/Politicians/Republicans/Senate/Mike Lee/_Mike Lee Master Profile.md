@@ -46,7 +46,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S0UT00165`
 
 **Total received:** $6,801,272
-**Tracked donors:** 9 edges in the canonical store
+**Tracked donors:** 22 edges in the canonical store
 
 #### Committees
 
@@ -56,17 +56,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Put Utah First PAC | $8,940,890 | 2 |
+| LIBERTY CHAMPIONS | $3,213,782 | 2 |
+| CLUB FOR GROWTH ACTION | $3,166,433 | 2 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $2,798,792 | 2 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $1,350,000 | 2 |
 | Apollo Global Management | — | 1 |
 | Blackstone Group | — | 1 |
 | Koch network | — | 1 |
 | Tim Dunn | — | 1 |
 | Eric Schmidt | — | 1 |
-| Club for Growth | — | 1 |
-| AFSCME - American Federation of State County and Municipal Employees | — | 1 |
-| Rebekah Mercer | — | 1 |
-| California Nurses Association | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mike-lee #senate #utah #federalist-society #antitrust #tech-deference #oil-gas #public-lands #january-6 #class-analysis

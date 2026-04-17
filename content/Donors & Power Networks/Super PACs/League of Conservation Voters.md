@@ -107,10 +107,20 @@ employee-donor-count: 69
 **Sector:** Super PACs
 **EIN:** `521733698`
 
-**Total political spend:** —
-**Tracked relationships:** 0 edges in the canonical store
+**Total political spend:** $1,705,607
+**Tracked relationships:** 10 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top politicians funded
+
+| Politician | Amount | Edge count |
+|---|---:|---:|
+| Brian Schatz | $1,040,091 | 2 |
+| Jeff Merkley | $591,357 | 2 |
+| Jim Himes | $71,850 | 2 |
+| Ed Markey | $2,106 | 2 |
+| John Thune | $203 | 2 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #environment #climate #progressive #democratic #electoral #dark-money #501c4 #class-analysis #follow-the-money

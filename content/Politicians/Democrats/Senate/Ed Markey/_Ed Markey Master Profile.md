@@ -45,15 +45,26 @@ donors: "[[Sierra Club Political Committee]], [[League of Conservation Voters]],
 **Party:** Democrat · **Chamber:** Senate · **State:** Massachusetts
 **FEC candidate ID:** `S4MA00028`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $99,863
+**Tracked donors:** 10 edges in the canonical store
 
 #### Committees
 
 - Small Business
 - Commerce
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| SIERRA CLUB POLITICAL COMMITTEE | $84,125 | 2 |
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $7,137 | 2 |
+| Sierra Club Independent Action | $6,495 | 2 |
+| League of Conservation Voters | $2,106 | 2 |
+| National Committee to Preserve Social Security PAC | — | 1 |
+| Sierra Club Political Committee | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #ed-markey #democrat #massachusetts #senate #ranking-member #small-business #commerce #telecom #green-new-deal #climate #childrens-privacy #coppa #aoc #telecommunications-act #phase-6-gavel-power

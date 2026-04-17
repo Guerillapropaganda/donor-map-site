@@ -58,7 +58,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6RI00163`
 
 **Total received:** $3,297,809
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 19 edges in the canonical store
 
 #### Committees
 
@@ -68,12 +68,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| National Republican Senatorial Committee | $75,759 | 2 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $75,759 | 2 |
+| PATRIOT VOICES PAC | $8,232 | 2 |
+| Planned Parenthood Votes | $124 | 2 |
+| CAMPAIGN FOR WORKING FAMILIES | $66 | 2 |
+| ENVIRONMENT AMERICA INC | $59 | 2 |
 | NORPAC | — | 1 |
 | General Dynamics | — | 1 |
 | Lockheed Martin | — | 1 |
-| Boeing | — | 1 |
+| Environment America INC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jack-reed #democrat #rhode-island #senate #ranking-member #armed-services #defense #military #west-point #phase-6-gavel-power

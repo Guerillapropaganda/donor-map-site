@@ -36,6 +36,11 @@ urls-first-triaged: "2026-04-15"
 **Sector:** Mega-Donors
 **EIN:** `363342443`
 
+#### Class analysis
+
+**Class position:** `petty-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $266,480
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -45,7 +50,7 @@ urls-first-triaged: "2026-04-15"
 |---|---:|---:|
 | Rand Paul | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #barre-seid #mega-donor #judicial #Leonard-Leo #Marble-Freedom-Trust #tax-avoidance #judicial-capture

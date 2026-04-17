@@ -49,16 +49,22 @@ individual-contributions: 5000
 **Sector:** Super PACs
 **EIN:** `852656340`
 
-**Total political spend:** —
-**Tracked relationships:** 1 edges in the canonical store
+**Total political spend:** $12,371,430
+**Tracked relationships:** 13 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Jon Ossoff | $5,993,817 | 2 |
+| Henry Cuellar | $4,277,678 | 2 |
+| Kyrsten Sinema | $1,143,122 | 2 |
+| Kay Granger | $848,763 | 2 |
+| Nancy Pelosi | $75,000 | 2 |
+| Joseph Morelle | $33,050 | 2 |
 | Mike Lawler | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #super-pac #republican #house #leadership-pac #dark-money #american-action-network #class-analysis #follow-the-money

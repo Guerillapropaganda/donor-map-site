@@ -62,6 +62,10 @@ employee-donor-count: 6059
 **Entity type:** corporation
 **Sector:** Tech & Crypto
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -72,7 +76,7 @@ employee-donor-count: 6059
 | Donald Trump | — | 1 |
 | Amy Klobuchar | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #meta #facebook #tech #lobbying #privacy #section-230 #advertising #zuckerberg #antitrust #ai #surveillance #class-analysis #follow-the-money #revolving-door

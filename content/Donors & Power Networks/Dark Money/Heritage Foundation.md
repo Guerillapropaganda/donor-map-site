@@ -85,18 +85,25 @@ employee-donor-count: 43
 **Sector:** Dark Money
 **EIN:** `237327730`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `upper-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $1,007,158
-**Tracked relationships:** 3 edges in the canonical store
+**Tracked relationships:** 4 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
 | Jim Risch | — | 1 |
+| Jodey Arrington | — | 1 |
 | Donna Miller | — | 1 |
 | Stephen Miller | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #think-tank #project-2025 #dark-money #conservative #501c3 #judicial #tax-policy #deregulation #revolving-door

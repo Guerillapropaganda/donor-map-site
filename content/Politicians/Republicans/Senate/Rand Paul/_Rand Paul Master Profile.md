@@ -48,14 +48,20 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H4OH19044`
 
 **Total received:** $11,515
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 6 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Koch Network - Charles Koch
-- Cryptocurrency Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Cryptocurrency Industry | — | 1 |
+| IBEW - International Brotherhood of Electrical Workers | — | 1 |
+| Koch Network - Charles Koch | — | 1 |
+| Barre Seid | — | 1 |
+| Larry Ellison | — | 1 |
+| Jeffrey Yass | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #rand-paul #senate #kentucky #libertarian #koch-network #ukraine #class-analysis #isolationism

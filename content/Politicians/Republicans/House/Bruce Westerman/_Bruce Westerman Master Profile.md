@@ -49,15 +49,24 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H4AR04048`
 
 **Total received:** $1,848,430
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $144,806 | 2 |
+| THE DISABLED VETERANS COALITION PAC | $125,262 | 2 |
+| AMERICAN CONSERVATIVE UNION | $68,465 | 2 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $36,000 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $9,992 | 2 |
 | American Petroleum Institute | — | 1 |
+| The Disabled Veterans Coalition PAC | — | 1 |
+| Citizens for Responsible Energy Solutions Inc. | — | 1 |
+| American Conservative Union | — | 1 |
+| National Cattlemen's Beef Association | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bruce-westerman #republican #arkansas #house #committee-chair #natural-resources #oil-gas #mining #timber #forestry #public-lands #drilling #stock-trading #phase-6-gavel-power

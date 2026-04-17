@@ -46,14 +46,24 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `S8GA00180`
 
 **Total received:** $31,605,071
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 20 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Tech and Media Donors
-- Entertainment and Hollywood Donors
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NRCC | $11,594,028 | 2 |
+| Congressional Leadership Fund | $5,993,817 | 2 |
+| AMERICA FIRST POLICIES INC. | $4,339,970 | 2 |
+| US CHAMBER OF COMMERCE | $500,000 | 2 |
+| PLANNED PARENTHOOD ACTION FUND INC | $495,427 | 2 |
+| US Chamber of Commerce | — | 1 |
+| Entertainment and Hollywood Donors | — | 1 |
+| JB Pritzker (Donor Network) | — | 1 |
+| David Sacks | — | 1 |
+| Planned Parenthood Action Fund INC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jon-ossoff #senate #georgia #documentary-filmmaker #tech-donors #entertainment #young-democrat #centrist #class-analysis

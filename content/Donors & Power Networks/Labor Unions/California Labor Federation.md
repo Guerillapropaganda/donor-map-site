@@ -44,6 +44,11 @@ employee-donor-count: 10
 **Sector:** Labor Unions
 **EIN:** `940362030`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** $1,740,356
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -55,7 +60,7 @@ employee-donor-count: 10
 | Kamala Harris | — | 1 |
 | Gavin Newsom | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #california-labor-federation #AFL-CIO #labor #class-analysis #follow-the-money #california #statewide #endorsements #coordination #Democratic-Party

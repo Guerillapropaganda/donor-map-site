@@ -44,20 +44,24 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `P00009423`
 
 **Total received:** $1,175,903,792
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 33 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Michael Bloomberg
-- Haim Saban
-- SEIU - Service Employees International Union
-- CNA - California Nurses Association
-- Teamsters - International Brotherhood of Teamsters
-- AIPAC - American Israel Public Affairs Committee
-- Blue Shield of California
-- UnitedHealth Group - Optum
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Food and Water Action | $1,026,511,866 | 2 |
+| FF PAC | $542,693,348 | 2 |
+| MAKE AMERICA GREAT AGAIN INC. | $203,744,984 | 2 |
+| Preserve America | $130,341,113 | 2 |
+| Restoration PAC | $47,398,182 | 2 |
+| Larry Ellison | — | 1 |
+| Lawrence Summers | — | 1 |
+| UFCW - United Food and Commercial Workers | — | 1 |
+| Laurene Powell Jobs | — | 1 |
+| Democratic Small Dollar Networks | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #harris #master-profile #vice-president #president #democrat #class-analysis #follow-the-money #california #prosecutor #labor #donor-class #2024 #tech #hollywood #silicon-valley

@@ -103,7 +103,7 @@ top-policy-area: "Civil Rights and Liberties, Minority Issues"
 - Wall Street / Finance ($600K+ 2022 cycle)
 - AIPAC and affiliated networks ($1.3M+ career)
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #hakeem-jeffries #house-minority-leader #new-york #brooklyn #real-estate #aipac #corporate-democrat #class-analysis

@@ -40,17 +40,24 @@ checklist-na:
 **Sector:** Dark Money
 **EIN:** `994082114`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
-**Tracked relationships:** 2 edges in the canonical store
+**Tracked relationships:** 4 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Scott Perry | — | 1 |
+| Andy Harris | — | 1 |
 | Chip Roy | — | 1 |
 | Jim Jordan | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #freedom-caucus #house #republican #maga #obstruction #koch #tea-party #right-flank #dark-money #small-dollar #club-for-growth #heritage-action

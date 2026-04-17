@@ -59,9 +59,21 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 **FEC candidate ID:** `H2PA18200`
 
 **Total received:** $1,134,454
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 10 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| JUSTICE DEMOCRATS PAC | $2,968,583 | 2 |
+| WORKING FAMILIES PARTY PAC | $640,000 | 2 |
+| CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $437,462 | 2 |
+| Courage to Change PAC | — | 1 |
+| Working Families Party PAC | — | 1 |
+| Congressional Progressive Caucus PAC | — | 1 |
+| Justice Democrats PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #summer-lee #pa-12 #pittsburgh #squad #progressive #first-black-congresswoman-pa #aipac-survivor #dsa #class-analysis #follow-the-money

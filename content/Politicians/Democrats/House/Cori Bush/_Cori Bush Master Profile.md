@@ -92,9 +92,21 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H8MO01143`
 
 **Total received:** $534,492
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| UNITED DEMOCRACY PROJECT ('UDP') | $9,956,554 | 2 |
+| FAIRSHAKE | $2,789,872 | 2 |
+| JUSTICE DEMOCRATS PAC | $2,755,000 | 2 |
+| Mainstream Democrats Pac | $992,222 | 2 |
+| WORKING FAMILIES PARTY PAC | $878,370 | 2 |
+| Justice Democrats PAC | — | 1 |
+| Working Families Party PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money

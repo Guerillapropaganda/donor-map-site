@@ -58,6 +58,11 @@ employee-donor-count: 51
 **Sector:** Energy & Utilities
 **EIN:** `130433430`
 
+#### Class analysis
+
+**Capital type:** `fossil-capital`
+**Class position:** `ruling-class`
+
 **Total political spend:** $24,891,220
 **Tracked relationships:** 9 edges in the canonical store
 
@@ -75,7 +80,7 @@ employee-donor-count: 51
 | Steve Scalise | — | 1 |
 | Ron Johnson | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #dark-money #oil #gas #fossil-fuel #trade-group #climate-denial #api #501c6 #class-analysis #follow-the-money

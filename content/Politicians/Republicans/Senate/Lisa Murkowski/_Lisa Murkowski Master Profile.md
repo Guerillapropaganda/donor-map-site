@@ -57,7 +57,7 @@ top-policy-area: "Health"
 | ConocoPhillips | — | 1 |
 | AFGE - American Federation of Government Employees | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #lisa-murkowski #republican #alaska #senate #energy #natural-resources #oil-gas #conocophillips #willow-project #anwr #bipartisan #write-in #native-affairs #phase-6-gavel-power

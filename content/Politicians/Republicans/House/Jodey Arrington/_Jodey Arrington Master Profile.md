@@ -59,7 +59,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H6TX19099`
 
 **Total received:** $1,678,317
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 3 edges in the canonical store
 
 #### Committees
 
@@ -71,10 +71,11 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Heritage Foundation | — | 1 |
 | American Farm Bureau Federation | — | 1 |
 | Americans for Prosperity | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jodey-arrington #republican #texas #house #committee-chair #budget #ways-and-means #oil-gas #agriculture #tax-cuts #reconciliation #phase-6-gavel-power

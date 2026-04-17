@@ -52,20 +52,21 @@ contributions-to-committees: 2075000
 **Sector:** Super PACs
 **EIN:** `204681603`
 
-**Total political spend:** —
-**Tracked relationships:** 5 edges in the canonical store
+**Total political spend:** $9,118
+**Tracked relationships:** 8 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| John Ratcliffe | $5,083 | 2 |
+| Steve Scalise | $4,035 | 2 |
 | Mike Lee | — | 1 |
 | Ron DeSantis | — | 1 |
 | Jim Jordan | — | 1 |
-| John Ratcliffe | — | 1 |
 | Mike Collins | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #super-pac #republican #primary-enforcement #anti-tax #fiscal-conservative #class-analysis #follow-the-money #mega-donor

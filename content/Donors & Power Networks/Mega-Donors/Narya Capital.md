@@ -63,7 +63,7 @@ employee-donor-count: 1
 **Sector:** Mega-Donors
 
 **Total political spend:** —
-**Tracked relationships:** 2 edges in the canonical store
+**Tracked relationships:** 3 edges in the canonical store
 
 #### Top politicians funded
 
@@ -71,8 +71,9 @@ employee-donor-count: 1
 |---|---:|---:|
 | JD Vance | — | 1 |
 | David Sacks | — | 1 |
+| David Sacks (Donor Network) | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #narya-capital #jd-vance #venture-capital #thiel #tech #ohio #appalachia #defense #carried-interest #conflict-of-interest

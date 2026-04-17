@@ -59,6 +59,11 @@ employee-donor-count: 5
 **Sector:** Education
 **EIN:** `330627955`
 
+#### Class analysis
+
+**Class position:** `upper-bourgeois`
+**Ideological function:** `privatization`
+
 **Total political spend:** $1,465,283
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -68,7 +73,7 @@ employee-donor-count: 5
 |---|---:|---:|
 | Virginia Foxx | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #education #school-choice #privatization #dark-money #devos #vouchers #esa #lobbying #religious-schools #alec

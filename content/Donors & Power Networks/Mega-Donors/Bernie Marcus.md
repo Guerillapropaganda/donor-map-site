@@ -43,6 +43,11 @@ urls-first-triaged: "2026-04-15"
 **Sector:** Retail
 **EIN:** `581720888`
 
+#### Class analysis
+
+**Capital type:** `retail-monopoly`
+**Ideological function:** `zionist-aligned`
+
 **Total political spend:** —
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -54,7 +59,7 @@ urls-first-triaged: "2026-04-15"
 | Donald Trump | — | 1 |
 | Wesley Bell | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bernie-marcus #mega-donor #republican #udp #aipac #home-depot #deceased-2024

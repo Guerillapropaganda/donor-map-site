@@ -56,17 +56,24 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `P40013039`
 
 **Total received:** $375,129
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Kenneth Griffin
-- Koch Network - Charles Koch
-- Fossil Fuel Bloc
-- Club for Growth
-- Lennar Corporation
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Sfa Fund, Inc | $46,974,966 | 2 |
+| MAKE AMERICA GREAT AGAIN INC. | $33,241,929 | 2 |
+| NEVER BACK DOWN INC. | $26,139,099 | 2 |
+| GOOD FIGHT | $5,549,500 | 2 |
+| READY TO WIN | $1,000,000 | 2 |
+| Kenneth Griffin | — | 1 |
+| Fossil Fuel Bloc | — | 1 |
+| Club for Growth | — | 1 |
+| Walt Disney Company | — | 1 |
+| Ready to Win | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #desantis #governor #florida #republican #culture-war #anti-woke #class-analysis #follow-the-money #failed-2024 #tax-haven #disney #donor-capture #presidential-2028

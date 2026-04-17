@@ -70,8 +70,12 @@ employee-donor-count: 24473
 **Entity type:** corporation
 **Sector:** Defense & Intelligence
 
+#### Class analysis
+
+**Capital type:** `military-industrial`
+
 **Total political spend:** —
-**Tracked relationships:** 11 edges in the canonical store
+**Tracked relationships:** 14 edges in the canonical store
 
 #### Top politicians funded
 
@@ -82,13 +86,13 @@ employee-donor-count: 24473
 | Hakeem Jeffries | — | 1 |
 | John Barrasso | — | 1 |
 | Steve Scalise | — | 1 |
+| Seth Moulton | — | 1 |
+| Lloyd Austin | — | 1 |
 | Martin Heinrich | — | 1 |
 | Mike Johnson | — | 1 |
 | Mike Rogers | — | 1 |
-| Roger Wicker | — | 1 |
-| Rosa DeLauro | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #defense #corporation #military-industrial-complex #lobbying #revolving-door #iran #golden-dome #missiles #saudi-arabia #yemen #ukraine #f-35 #patriot #pac #fraud #stinger #tomahawk

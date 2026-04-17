@@ -42,14 +42,22 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H8KY02031`
 
 **Total received:** $3,143,679
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- PhRMA
-- AbbVie
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,251,342 | 2 |
+| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $64,000 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $9,286 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,751 | 2 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $862 | 2 |
+| AbbVie | — | 1 |
+| PhRMA - Pharmaceutical Research and Manufacturers of America | — | 1 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #house #brett-guthrie #donor-pipeline #pharma

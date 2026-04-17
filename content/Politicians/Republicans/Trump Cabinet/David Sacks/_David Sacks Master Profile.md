@@ -33,15 +33,24 @@ donors: "[[World Liberty Financial]] · [[Silicon Valley Donors]] · [[Marc Andr
 **Party:** Republican · **Chamber:** Cabinet
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 11 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Elon Musk
-- Peter Thiel
-- Craft Ventures
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Marc Andreessen & Horowitz | — | 1 |
+| Peter Thiel | — | 1 |
+| World Liberty Financial | — | 1 |
+| Narya Capital | — | 1 |
+| Trump 2024 Campaign | — | 1 |
+| Craft Ventures | — | 1 |
+| Silicon Valley Donors | — | 1 |
+| Elon Musk | — | 1 |
+| Crypto Industry Bloc | — | 1 |
+| Founders Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #david-sacks #paypal-mafia #ai-czar #crypto-czar #trump-admin #class-analysis #follow-the-money #silicon-valley #venture-capital #deregulation #conflicts-of-interest #craft-ventures

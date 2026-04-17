@@ -38,9 +38,21 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `S6NV00028`
 
 **Total received:** $4,692,846
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Crossroads Grassroots Policy Strategies | $4,478,084 | 2 |
+| AMERICAN CROSSROADS | $2,312,078 | 2 |
+| National Republican Senatorial Committee | $2,150,022 | 2 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $2,150,022 | 2 |
+| FIRST AMENDMENT ALLIANCE | $820,690 | 2 |
+| First Amendment Alliance | — | 1 |
+| American Crossroads | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #nevada-machine #gaming-industry #donor-extraction #senate-power

@@ -47,20 +47,23 @@ top-policy-area: "Finance and Financial Sector"
 **FEC candidate ID:** `S4LA00065`
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 4 edges in the canonical store
 
 #### Committees
 
 - Judiciary
 - Banking
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- ExxonMobil
-- Koch Industries
-- ConocoPhillips
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| ExxonMobil | — | 1 |
+| Goldman Sachs | — | 1 |
+| Koch Industries | — | 1 |
+| ConocoPhillips | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #kennedy #louisiana #judiciary #energy #petrochemical #populist-brand #folksy #banking #cfpb #cancer-alley

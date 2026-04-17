@@ -81,6 +81,10 @@ employee-donor-count: 1
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
 **Tracked relationships:** 7 edges in the canonical store
 
@@ -96,7 +100,7 @@ employee-donor-count: 1
 | Tim Scott | — | 1 |
 | Tom Steyer | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #bloomberg #mega-donor #gun-control #climate #charter-schools #technocratic #national #class-analysis #follow-the-money #democratic #independent

@@ -38,9 +38,22 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 **FEC candidate ID:** `H8FL06148`
 
 **Total received:** $3,109
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| WITH HONOR FUND, INC. | $3,847,465 | 2 |
+| HOUSE MAJORITY PAC | $999,863 | 2 |
+| AMERICAN PATRIOTS PAC | $733,000 | 2 |
+| AMERICAN JOBS AND GROWTH PAC | $176,702 | 2 |
+| SPECIAL OPERATIONS FOR AMERICA | $110,004 | 2 |
+| American Patriots PAC | — | 1 |
+| Special Operations for America | — | 1 |
+| American Jobs and Growth PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #trump-cabinet #un-ambassador #national-security #defense #signalgate #class-analysis #follow-the-money

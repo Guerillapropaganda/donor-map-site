@@ -49,20 +49,25 @@ urls-first-triaged: "2026-04-15"
 **Sector:** Super PACs
 **EIN:** `862883453`
 
-**Total political spend:** —
-**Tracked relationships:** 5 edges in the canonical store
+**Total political spend:** $405,261,679
+**Tracked relationships:** 23 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Sherrod Brown | $117,222,951 | 2 |
+| Raphael Warnock | $77,261,714 | 2 |
+| Catherine Cortez Masto | $74,688,772 | 2 |
+| John Fetterman | $68,244,427 | 2 |
+| Mark Kelly | $24,345,799 | 2 |
+| John Hickenlooper | $15,707,048 | 2 |
+| Joe Manchin | $11,682,282 | 2 |
+| Bernie Moreno | $9,777,367 | 2 |
+| Dan Osborn | $6,331,319 | 2 |
 | Mitch McConnell | — | 1 |
-| Jon Husted | — | 1 |
-| Ashley Hinson | — | 1 |
-| Tim Scott | — | 1 |
-| John Cornyn | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #super-pac #republican #senate #mcconnell #thune #dark-money #leadership-pac #class-analysis #follow-the-money

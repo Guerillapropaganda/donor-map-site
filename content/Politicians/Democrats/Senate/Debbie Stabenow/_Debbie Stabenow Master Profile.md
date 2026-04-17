@@ -48,18 +48,26 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S8MI00281`
 
 **Total received:** $92,299
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 10 edges in the canonical store
 
 #### Committees
 
 - Agriculture
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- UAW - United Auto Workers
-- Blue Cross Blue Shield
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| SIERRA CLUB POLITICAL COMMITTEE | $54,697 | 2 |
+| RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE | $174 | 2 |
+| California Farm Bureau Federation | — | 1 |
+| Sam Bankman-Fried | — | 1 |
+| Right to Life of Michigan Political Action Committee | — | 1 |
+| Sierra Club Political Committee | — | 1 |
+| UAW - United Auto Workers | — | 1 |
+| Bill Gates | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #debbie-stabenow #democrat #michigan #senate #agriculture #farm-bill #crop-insurance #agribusiness #healthcare #auto-industry #class-analysis #follow-the-money

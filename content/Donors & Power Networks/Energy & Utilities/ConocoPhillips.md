@@ -96,8 +96,12 @@ employee-donor-count: 1637
 **Sector:** Energy & Utilities
 **EIN:** `202555951`
 
+#### Class analysis
+
+**Capital type:** `fossil-capital`
+
 **Total political spend:** —
-**Tracked relationships:** 3 edges in the canonical store
+**Tracked relationships:** 4 edges in the canonical store
 
 #### Top politicians funded
 
@@ -105,9 +109,10 @@ employee-donor-count: 1637
 |---|---:|---:|
 | Lisa Murkowski | — | 1 |
 | Dan Crenshaw | — | 1 |
+| Dan Sullivan | — | 1 |
 | John Kennedy | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #conocophillips #oil-gas #energy #alaska #willow #lobbying #revolving-door #cheney-energy-task-force

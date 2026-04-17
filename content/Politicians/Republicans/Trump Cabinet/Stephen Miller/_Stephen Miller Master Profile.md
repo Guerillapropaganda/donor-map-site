@@ -38,14 +38,20 @@ donors: "[[Tim Dunn]] · [[IBEW - International Brotherhood of Electrical Worker
 **FEC candidate ID:** `H2NC07104`
 
 **Total received:** $181,912
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 6 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- DonorsTrust
-- Bradley Impact Fund
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Bradley Impact Fund | — | 1 |
+| Tim Dunn | — | 1 |
+| Heritage Foundation | — | 1 |
+| DonorsTrust | — | 1 |
+| IBEW - International Brotherhood of Electrical Workers | — | 1 |
+| Republican Jewish Coalition | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #stephen-miller #republican #immigration #white-house #america-first-legal #dark-money #family-separation #class-analysis #follow-the-money #alien-enemies-act #denaturalization #birthright-citizenship

@@ -37,20 +37,26 @@ donors: "[[Senate Conservatives Fund]], [[MADISON PROJECT INC.]], [[SENATE CONSE
 **FEC candidate ID:** `H4TX04153`
 
 **Total received:** $544,358
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - Intelligence
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Club for Growth
-- L3 Technologies
-- Northrop Grumman
-- Blackstone
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| SENATE CONSERVATIVES FUND | $130,390 | 2 |
+| CLUB FOR GROWTH ACTION | $112,490 | 2 |
+| MADISON PROJECT INC. | $10,000 | 2 |
+| Club for Growth | $5,083 | 2 |
+| Madison Project Inc. | — | 1 |
+| Senate Conservatives Fund | — | 1 |
+| Northrop Grumman | — | 1 |
+| L3 Technologies | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #john-ratcliffe #republican #cia #dni #intelligence #loyalty #revolving-door #class-analysis #follow-the-money

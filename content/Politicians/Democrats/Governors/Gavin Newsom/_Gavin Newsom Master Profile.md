@@ -45,23 +45,24 @@ urls-first-triaged: "2026-04-15"
 **Party:** Democrat · **Chamber:** Governor · **State:** California
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 49 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Elon Musk
-- Michael Bloomberg
-- Haim Saban
-- SEIU - Service Employees International Union
-- CNA - California Nurses Association
-- AIPAC - American Israel Public Affairs Committee
-- Blue Shield of California
-- UnitedHealth Group - Optum
-- Kaiser Permanente
-- Lennar Corporation
-- National Association of Realtors
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| California Nurses Association | — | 1 |
+| Chevron | — | 1 |
+| Lyft | — | 1 |
+| Lennar Corporation | — | 1 |
+| Western States Petroleum Association | — | 1 |
+| JPAC - Jewish Public Affairs Committee of California | — | 1 |
+| IBEW California State Association | — | 1 |
+| Dustin Moskovitz | — | 1 |
+| California Restaurant Association | — | 1 |
+| George Soros | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #newsom #master-profile #california #governor #2028 #class-analysis #follow-the-money #rhetoric-vs-record #donor-class #silicon-valley #progressive-branding

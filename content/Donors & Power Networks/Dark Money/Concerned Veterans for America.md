@@ -41,6 +41,11 @@ urls-first-triaged: "2026-04-15"
 **Sector:** Dark Money
 **EIN:** `853318501`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Ideological function:** `privatization`, `dark-money-networked`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -51,7 +56,7 @@ urls-first-triaged: "2026-04-15"
 | Donald Trump | — | 1 |
 | Pete Hegseth | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #dark-money #koch #veterans #privatization #va #astroturf #class-analysis #follow-the-money #healthcare

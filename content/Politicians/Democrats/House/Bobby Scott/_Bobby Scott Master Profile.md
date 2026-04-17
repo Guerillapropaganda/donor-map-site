@@ -72,7 +72,7 @@ top-policy-area: "Crime and Law Enforcement"
 **FEC candidate ID:** `H6VA01117`
 
 **Total received:** $290,963
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 19 edges in the canonical store
 
 #### Committees
 
@@ -82,11 +82,18 @@ top-policy-area: "Crime and Law Enforcement"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $11,357 | 2 |
+| United We Can | $4,631 | 2 |
+| DEMOCRATIC PARTY OF VIRGINIA | $4,606 | 2 |
+| SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 | 2 |
+| TOGETHER WE THRIVE | $750 | 2 |
+| Sierra Club Independent Action | $10 | 2 |
+| National Committee to Preserve Social Security PAC | — | 1 |
 | AFGE - American Federation of Government Employees | — | 1 |
-| Blue Shield of California | — | 1 |
-| Student Loan Servicer Industry | — | 1 |
+| Democratic Party of Virginia | — | 1 |
+| Southern States Police Benevolent Assoc PAC Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bobby-scott #democrat #virginia #house #ranking-member #education #labor #unions #phase-6-gavel-power

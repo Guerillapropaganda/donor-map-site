@@ -43,10 +43,15 @@ checklist-na:
 **Sector:** Dark Money
 **EIN:** `202466871`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
 **Tracked relationships:** 0 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #85-fund #dark-money #judicial #Leonard-Leo #judicial-education-project #SCOTUS #nomination-campaigns

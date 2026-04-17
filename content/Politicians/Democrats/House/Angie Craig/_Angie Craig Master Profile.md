@@ -47,13 +47,27 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6MN00499`
 
 **Total received:** $6,788,377
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
 - Agriculture
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Center Forward Committee | $1,259,500 | 2 |
+| CLEAR VOICE MINNESOTA | $96,000 | 2 |
+| BLUE MAJORITY PROJECT | $50,853 | 2 |
+| NORTH STAR DAWN PAC | $37,500 | 2 |
+| DMFI PAC | $2,649 | 2 |
+| Clear Voice Minnesota | — | 1 |
+| Republican Jewish Coalition | — | 1 |
+| North Star Dawn PAC | — | 1 |
+| Blue Majority Project | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #angie-craig #democrat #minnesota #house #agriculture #medical-device #st-jude-medical #insulin #swing-district #senate-candidate #class-analysis #follow-the-money

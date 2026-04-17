@@ -71,7 +71,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H8NY25105`
 
 **Total received:** $1,130,491
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -80,11 +80,21 @@ top-policy-area: "Health"
 - Joint Committee of Congress on the Library
 - Joint Committee on Printing
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Labor Unions
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| OPPORTUNITY FOR ALL ACTION FUND | $64,370 | 2 |
+| Congressional Leadership Fund | $33,050 | 2 |
+| TOGETHER WE THRIVE | $750 | 2 |
+| Planned Parenthood Votes | $195 | 2 |
+| NEA ADVOCACY FUND | $68 | 2 |
+| Labor Unions | — | 1 |
+| Together We Thrive | — | 1 |
+| Opportunity for All Action Fund | — | 1 |
+| NEA Advocacy Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #joseph-morelle #democrat #new-york #house #house-administration #voting-rights #election-security #albany-machine #assembly-leader #rochester #class-analysis #follow-the-money

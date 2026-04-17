@@ -61,7 +61,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S0ND00093`
 
 **Total received:** $824,977
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -72,9 +72,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NORTH DAKOTA STRONG INC | $320,600 | 2 |
+| American Energy Action Fund | $204,000 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $108,164 | 2 |
+| NATIONAL WILDLIFE FEDERATION ACTION FUND | $100,000 | 2 |
+| Clearpath Action Fund, Inc. | $50,000 | 2 |
+| National Wildlife Federation Action Fund | — | 1 |
+| North Dakota Strong INC | — | 1 |
 | Western Growers Association | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senate #north-dakota #energy #oil-gas #agriculture #appropriations #pipeline #class-analysis #follow-the-money #gavel-power

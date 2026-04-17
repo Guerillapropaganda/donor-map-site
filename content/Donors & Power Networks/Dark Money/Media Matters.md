@@ -67,6 +67,12 @@ employee-donor-count: 4
 **Sector:** Dark Money
 **EIN:** `453568592`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `upper-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $3,998,524
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -77,7 +83,7 @@ employee-donor-count: 4
 | Bill Clinton | — | 1 |
 | Hillary Clinton | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #media-matters #dark-money #progressive #media-watchdog #democracy-alliance #Elon-Musk-lawsuit #infrastructure

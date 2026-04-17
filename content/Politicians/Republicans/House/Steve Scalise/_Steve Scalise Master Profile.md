@@ -46,21 +46,24 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H0LA01087`
 
 **Total received:** $7,843,280
-**Tracked donors:** 7 edges in the canonical store
+**Tracked donors:** 19 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| THE LINCOLN PROJECT | $99,683 | 2 |
+| MAD DOG PAC | $7,527 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $6,820 | 2 |
+| Club for Growth | $4,035 | 2 |
+| Hunter Action Fund (haf) | $1,857 | 2 |
 | National Restaurant Association | — | 1 |
 | National Association of Manufacturers | — | 1 |
 | Valero Energy | — | 1 |
+| Mad Dog PAC | — | 1 |
 | Raytheon (RTX Corporation) | — | 1 |
-| Larry Ellison | — | 1 |
-| American Petroleum Institute | — | 1 |
-| American Gaming Association | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #house #louisiana #energy #fossil-fuel #climate #leadership #class-analysis #follow-the-money #gavel-power

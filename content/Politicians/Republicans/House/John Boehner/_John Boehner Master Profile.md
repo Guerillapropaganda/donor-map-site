@@ -45,8 +45,8 @@ bills-cosponsored: 1725
 **Bioguide ID:** `B000589`
 **FEC candidate ID:** `H0OH08029`
 
-**Total received:** —
-**Tracked donors:** 6 edges in the canonical store
+**Total received:** $1,096,169
+**Tracked donors:** 21 edges in the canonical store
 
 #### Committees
 
@@ -56,14 +56,18 @@ bills-cosponsored: 1725
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| THE TEA PARTY LEADERSHIP FUND | $553,540 | 2 |
+| FREEDOM VOTE | $342,178 | 2 |
+| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $106,057 | 2 |
+| MOVEON.ORG POLITICAL ACTION | $75,194 | 2 |
+| BLUE AMERICA PAC | $19,200 | 2 |
 | JPMorgan Chase | — | 1 |
 | Mark Zuckerberg | — | 1 |
-| Goldman Sachs | — | 1 |
-| Koch network | — | 1 |
-| Christopher Ruddy | — | 1 |
-| California Farm Bureau Federation | — | 1 |
+| Freedom Vote | — | 1 |
+| The Tea Party Leadership Fund | — | 1 |
+| MoveOn.org Political Action | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #john-boehner #speaker-of-house #tobacco #cannabis #revolving-door #koch-network #finance #class-analysis

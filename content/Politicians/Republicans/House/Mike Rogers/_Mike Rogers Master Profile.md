@@ -44,7 +44,7 @@ top-policy-area: "Health"
 **Bioguide ID:** `R000575`
 
 **Total received:** —
-**Tracked donors:** 7 edges in the canonical store
+**Tracked donors:** 8 edges in the canonical store
 
 #### Committees
 
@@ -58,11 +58,12 @@ top-policy-area: "Health"
 | Koch Network - Charles Koch | — | 1 |
 | Great Lakes Conservatives Fund | — | 1 |
 | Lockheed Martin | — | 1 |
+| National Cattlemen's Beef Association | — | 1 |
 | Christopher Ruddy | — | 1 |
 | Raytheon (RTX Corporation) | — | 1 |
 | Paul Singer | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mike-rogers #republican #alabama #house #committee-chair #armed-services #defense #lockheed-martin #space-force #space-command #phase-6-gavel-power

@@ -72,6 +72,12 @@ employee-donor-count: 14
 **Sector:** Dark Money
 **EIN:** `330771070`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `petty-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $150,500
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -81,7 +87,7 @@ employee-donor-count: 14
 |---|---:|---:|
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bradley #foundation #dark-money #conservative #milwaukee #vouchers #wisconsin #project-2025 #anti-union #climate-denial #think-tank #infrastructure

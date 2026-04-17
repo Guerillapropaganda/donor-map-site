@@ -50,15 +50,23 @@ top-policy-area: "Health"
 **Bioguide ID:** `J000299`
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 9 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- AIPAC - American Israel Public Affairs Committee
-- Peter Thiel
-- Fossil Fuel Bloc
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Western Growers Association | — | 1 |
+| Patrick Soon-Shiong | — | 1 |
+| American Petroleum Institute | — | 1 |
+| Fossil Fuel Bloc | — | 1 |
+| American Iron and Steel Institute | — | 1 |
+| National Restaurant Association | — | 1 |
+| AIPAC - American Israel Public Affairs Committee | — | 1 |
+| Peter Thiel | — | 1 |
+| Raytheon (RTX Corporation) | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mike-johnson #republican #speaker #house #louisiana #aipac #adf #election-denial #religious-right #class-analysis #follow-the-money

@@ -63,7 +63,7 @@ top-policy-area: "Armed Forces and National Security"
 **Bioguide ID:** `T000278`
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 1 edges in the canonical store
 
 #### Committees
 
@@ -73,11 +73,13 @@ top-policy-area: "Armed Forces and National Security"
 - Senate Committee on Veterans' Affairs
 - Senate Special Committee on Aging
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Defense Industry Bloc
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Defense Industry Bloc | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tommy-tuberville #senate #alabama #defense #stock-act #military #class-analysis #football-to-politics

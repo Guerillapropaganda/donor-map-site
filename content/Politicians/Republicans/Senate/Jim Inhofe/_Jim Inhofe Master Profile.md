@@ -42,7 +42,7 @@ related: "[[Koch Network - Charles Koch|Koch Network]] · [[ExxonMobil]] · [[Fo
 
 - Armed Services
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senate #oklahoma #fossil-fuel #climate-denial #defense #armed-services #koch #oil-gas #follow-the-money #class-analysis #deceased

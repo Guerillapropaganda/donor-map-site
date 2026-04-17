@@ -39,14 +39,24 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `P40010977`
 
 **Total received:** $58,378,348
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 17 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Koch Network - Charles Koch
-- Kenneth Griffin
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Sfa Fund, Inc | $65,502,351 | 2 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $45,185,000 | 2 |
+| FIGHT RIGHT INC | $18,881,648 | 2 |
+| MAKE AMERICA GREAT AGAIN INC. | $16,761,873 | 2 |
+| NEVER BACK DOWN INC. | $4,158,125 | 2 |
+| Kenneth Griffin | — | 1 |
+| Fossil Fuel Bloc | — | 1 |
+| Americans for Prosperity | — | 1 |
+| Jan Koum | — | 1 |
+| Never Back Down Inc. | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #nikki-haley #governor #south-carolina #un-ambassador #republican #defense-hawk #class-analysis #follow-the-money #koch-network #wall-street #presidential-2028 #electability-candidate

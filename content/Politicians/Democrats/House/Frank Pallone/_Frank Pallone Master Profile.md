@@ -66,7 +66,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H8NJ03073`
 
 **Total received:** $1,311,209
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 20 edges in the canonical store
 
 #### Committees
 
@@ -76,11 +76,18 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| FREEDOM'S DEFENSE FUND | $119,500 | 2 |
+| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | $54,500 | 2 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $11,590 | 2 |
+| FOCUS ON THE FAMILY ACTION | $7,681 | 2 |
+| NEW JERSEY FAMILY FIRST INC | $7,681 | 2 |
+| Family Research Council Action Political Action Committee | — | 1 |
+| Pfizer | — | 1 |
 | UAW - United Auto Workers | — | 1 |
-| AFGE - American Federation of Government Employees | — | 1 |
-| AIPAC - American Israel Public Affairs Committee | — | 1 |
+| Freedom's Defense Fund | — | 1 |
+| American College of Radiology Association PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #frank-pallone #democrat #new-jersey #house #ranking-member #energy-commerce #pharma #telecom #environment #phase-6-gavel-power

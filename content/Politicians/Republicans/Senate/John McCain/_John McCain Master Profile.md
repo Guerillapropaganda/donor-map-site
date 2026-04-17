@@ -39,16 +39,18 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H2AZ01024`
 
 **Total received:** $707,083
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 5 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NRA POLITICAL VICTORY FUND | $77 | 2 |
+| NRA Political Victory Fund | — | 1 |
 | Patrick Soon-Shiong | — | 1 |
 | Christopher Ruddy | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five

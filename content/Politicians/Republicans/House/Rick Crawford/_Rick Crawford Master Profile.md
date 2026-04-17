@@ -63,14 +63,26 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `H0AR01083`
 
 **Total received:** $525,029
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - Intelligence
 - Agriculture
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $3,557,781 | 2 |
+| HOUSE MAJORITY PAC | $30,396 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,883 | 2 |
+| REVERE AMERICA | $4,298 | 2 |
+| AMERICANS FOR JOB SECURITY | $3,227 | 2 |
+| Revere America | — | 1 |
+| Americans for Job Security | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #rick-crawford #republican #arkansas #house #chairman #intelligence #agriculture #ukraine #fisa #tiktok #trump-loyalty #farm-bill #rice #surveillance #phase-6-gavel-power

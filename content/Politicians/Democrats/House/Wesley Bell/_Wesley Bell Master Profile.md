@@ -48,9 +48,23 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `H4MO01134`
 
 **Total received:** $1,272,557
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| UNITED DEMOCRACY PROJECT ('UDP') | $6,544,513 | 2 |
+| Mainstream Democrats Pac | $1,298,799 | 2 |
+| JUSTICE DEMOCRATS PAC | $1,277,510 | 2 |
+| DMFI PAC | $921,906 | 2 |
+| WORKING FAMILIES PARTY PAC | $403,125 | 2 |
+| Working Families Party PAC | — | 1 |
+| DMFI - Democratic Majority for Israel | — | 1 |
+| Bernie Marcus | — | 1 |
+| Justice Democrats PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #wesley-bell #mo-01 #st-louis #aipac-backed #udp-supported #house #democrat #ferguson

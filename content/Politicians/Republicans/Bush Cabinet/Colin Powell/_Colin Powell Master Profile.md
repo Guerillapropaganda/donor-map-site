@@ -33,17 +33,19 @@ urls-first-triaged: "2026-04-15"
 **Party:** Republican · **Chamber:** Cabinet
 **FEC candidate ID:** `P60003050`
 
-**Total received:** —
-**Tracked donors:** 2 edges in the canonical store
+**Total received:** $8,098
+**Tracked donors:** 5 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| WASHINGTON CITIZENS FOR COLIN POWELL | $8,098 | 2 |
 | Boeing | — | 1 |
+| Washington Citizens for Colin Powell | — | 1 |
 | Lockheed Martin | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #colin-powell #secretary-of-state #chairman-joint-chiefs #iraq-war #wmd-speech #defense-contractor #revolving-door #credibility-weapon #class-analysis

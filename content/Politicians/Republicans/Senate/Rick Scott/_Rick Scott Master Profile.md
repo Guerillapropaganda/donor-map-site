@@ -69,7 +69,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S8FL00273`
 
 **Total received:** $1,289,827
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 5 edges in the canonical store
 
 #### Committees
 
@@ -79,11 +79,17 @@ top-policy-area: "International Affairs"
 - Senate Committee on the Budget
 - Senate Special Committee on Aging
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Fanjul Family - Florida Crystals
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| National Republican Senatorial Committee | — | 1 |
+| AFGE - American Federation of Government Employees | — | 1 |
+| Fanjul Family - Florida Crystals | — | 1 |
+| Raytheon (RTX Corporation) | — | 1 |
+| Blue Shield of California | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #rick-scott #senate #florida #medicare-fraud #columbia-hca #self-funded #billionaire #class-analysis

@@ -44,6 +44,11 @@ employee-donor-count: 656
 **Sector:** Labor Unions
 **EIN:** `940963930`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** —
 **Tracked relationships:** 4 edges in the canonical store
 
@@ -56,7 +61,7 @@ employee-donor-count: 656
 | Kamala Harris | — | 1 |
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #teamsters #logistics #labor #class-analysis #follow-the-money #california #national #amazon #non-endorsement #UPS #waste-management #Sean-OBrien

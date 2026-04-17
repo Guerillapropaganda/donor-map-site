@@ -33,17 +33,19 @@ urls-first-triaged: "2026-04-15"
 **Party:** Democrat · **Chamber:** Governor · **State:** California
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 1 edges in the canonical store
 
 #### Committees
 
 - Education & Labor
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- CTA - California Teachers Association
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| CTA - California Teachers Association | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tony-thurmond #california #governor-2026 #education #superintendent #cta #teachers-union #charter-schools #class-analysis

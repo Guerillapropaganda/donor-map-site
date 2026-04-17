@@ -63,7 +63,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S2TX00106`
 
 **Total received:** $11,155,399
-**Tracked donors:** 10 edges in the canonical store
+**Tracked donors:** 21 edges in the canonical store
 
 #### Committees
 
@@ -75,18 +75,18 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| SMP | $17,074,337 | 2 |
+| FF PAC | $13,200,960 | 2 |
+| Texans for a Conservative Majority | $9,787,637 | 2 |
+| AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $6,910,561 | 2 |
+| WOMEN VOTE! | $1,977,955 | 2 |
 | Harlan Crow | — | 1 |
 | ExxonMobil | — | 1 |
 | Insurance Industry | — | 1 |
 | Fraternal Order of Police | — | 1 |
 | Koch Network - Charles Koch | — | 1 |
-| US Chamber of Commerce | — | 1 |
-| Goldman Sachs | — | 1 |
-| Chevron | — | 1 |
-| Senate Leadership Fund | — | 1 |
-| Republican Jewish Coalition | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #republican #texas #senate #judiciary #intelligence #oil-gas #defense #border #finance #gun-bill #nra #cornyn-cruz

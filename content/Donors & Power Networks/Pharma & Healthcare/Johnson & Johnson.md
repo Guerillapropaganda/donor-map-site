@@ -67,6 +67,10 @@ employee-donor-count: 2008
 **Sector:** Pharma & Healthcare
 **EIN:** `760552018`
 
+#### Class analysis
+
+**Capital type:** `pharma-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -76,7 +80,7 @@ employee-donor-count: 2008
 |---|---:|---:|
 | Cory Booker | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #johnson-and-johnson #pharma #healthcare #lobbying #talc #opioids #drug-pricing

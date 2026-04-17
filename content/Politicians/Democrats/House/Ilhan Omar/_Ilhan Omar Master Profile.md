@@ -79,14 +79,27 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H8MN05239`
 
 **Total received:** $3,125,783
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
 - House Committee on Education and Workforce
 - House Committee on the Budget
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Americans for Tomorrow's Future | $4,967,397 | 2 |
+| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $646,963 | 2 |
+| Takeaction Mn Federal Fund | $375,609 | 2 |
+| Wfp Ie Committee | $161,100 | 2 |
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $155,229 | 2 |
+| Minnesota Democratic-Farmer-Labor Party | — | 1 |
+| National Nurses United for Patient Protection | — | 1 |
+| National Nurses United | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #omar #minnesota #progressive #squad #foreign-affairs #israel #somalia #refugee #budget #education

@@ -100,7 +100,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6RI00221`
 
 **Total received:** $365,144
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Committees
 
@@ -112,10 +112,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| National Republican Senatorial Committee | $716,449 | 2 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $716,449 | 2 |
+| PEOPLE'S MAJORITY | $366,331 | 2 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $177,910 | 2 |
+| Roosevelt Society Action | $159,783 | 2 |
+| MOVEON.ORG POLITICAL ACTION | $5,751 | 2 |
+| MoveOn.org Political Action | — | 1 |
 | Fraternal Order of Police | — | 1 |
+| People's Majority | — | 1 |
 | Judicial Crisis Network | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #democrat #senate #rhode-island #dark-money #court-reform #judicial-capture #environment #trial-lawyers #pro-israel

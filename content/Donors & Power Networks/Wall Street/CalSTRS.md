@@ -57,7 +57,7 @@ employee-donor-count: 25
 |---|---:|---:|
 | Gavin Newsom | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #calstrs #pension #california #teachers #wall-street #investment #education #private-equity #fossil-fuels

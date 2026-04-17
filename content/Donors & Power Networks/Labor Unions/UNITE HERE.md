@@ -60,6 +60,11 @@ employee-donor-count: 983
 **Sector:** Labor Unions
 **EIN:** `352455960`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** $51,678,221
 **Tracked relationships:** 5 edges in the canonical store
 
@@ -73,7 +78,7 @@ employee-donor-count: 983
 | Kamala Harris | — | 1 |
 | JB Pritzker | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #UNITE-HERE #hospitality #hotel #food-service #labor #class-analysis #follow-the-money #california #national #las-vegas #immigrant-workers #strike

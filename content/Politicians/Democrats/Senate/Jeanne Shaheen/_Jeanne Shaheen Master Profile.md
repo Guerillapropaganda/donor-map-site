@@ -49,22 +49,29 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S0NH00219`
 
 **Total received:** $2,658,242
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
 - Foreign Relations
 - Armed Services
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- BAE Systems
-- Raytheon
-- Northrop Grumman
-- Honeywell
-- Defense Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $8,296,003 | 2 |
+| National Republican Senatorial Committee | $8,296,003 | 2 |
+| ENDING SPENDING ACTION FUND | $7,523,339 | 2 |
+| AMERICAN CROSSROADS | $5,194,425 | 2 |
+| INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC | $1,656,880 | 2 |
+| COUNCIL FOR AMERICAN JOB GROWTH | $1,401,341 | 2 |
+| Independent Leadership for New Hampshire PAC | — | 1 |
+| BAE Systems | — | 1 |
+| Northrop Grumman | — | 1 |
+| Defense Industry | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jeanne-shaheen #democrat #new-hampshire #senate #foreign-relations #armed-services #defense-contractors #bae-systems #nato #ukraine #class-analysis #follow-the-money

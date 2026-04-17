@@ -63,6 +63,11 @@ employee-donor-count: 264
 **Sector:** Labor Unions
 **EIN:** `940362060`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** $19,855,072
 **Tracked relationships:** 7 edges in the canonical store
 
@@ -78,7 +83,7 @@ employee-donor-count: 264
 | Sherrod Brown | — | 1 |
 | Barbara Lee | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #cna #nurses #union #california #single-payer #healthcare #progressive #labor

@@ -69,6 +69,7 @@ top-policy-area: "International Affairs"
 ### 📊 Live data panel
 
 **Party:** Democrat · **Chamber:** House · **State:** Massachusetts
+**Bioguide ID:** `M000312`
 
 **Total received:** —
 **Tracked donors:** 1 edges in the canonical store
@@ -79,7 +80,7 @@ top-policy-area: "International Affairs"
 |---|---:|---:|
 | National Nurses United | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jim-mcgovern #democrat #massachusetts #house #rules-committee #ranking-member #human-rights #hunger #snap #tibet #china #saudi-arms #procedural #phase-6-gavel-power

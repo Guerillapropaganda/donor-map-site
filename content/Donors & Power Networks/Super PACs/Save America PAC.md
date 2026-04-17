@@ -52,7 +52,7 @@ individual-contributions: 10010564
 | Kash Patel | — | 1 |
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #pac #leadership-pac #trump #dark-money #class-analysis #follow-the-money #pardons #slush-fund #january-6 #legal-defense

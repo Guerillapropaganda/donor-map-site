@@ -69,17 +69,31 @@ employee-donor-count: 81
 **Sector:** Dark Money
 **EIN:** `455097038`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `upper-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $1,765,636
-**Tracked relationships:** 2 edges in the canonical store
+**Tracked relationships:** 10 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Adrian Smith | — | 1 |
+| Katherine M. Clark | — | 1 |
 | Joe Biden | — | 1 |
 | Dan Osborn | — | 1 |
+| Jon Ossoff | — | 1 |
+| Christopher H. Smith | — | 1 |
+| Tina Smith | — | 1 |
+| James C. Justice | — | 1 |
+| Adam Smith | — | 1 |
+| Jason Smith | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #infrastructure #democratic #payments #dark-money #data #earmark-controversy #class-analysis

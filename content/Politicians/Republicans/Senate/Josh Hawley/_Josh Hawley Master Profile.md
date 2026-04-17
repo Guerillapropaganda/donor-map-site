@@ -41,14 +41,22 @@ donors: "[[Patriots Prevail PAC]], [[PRIORITIES USA ACTION]], [[SMP]], [[PATRIOT
 **FEC candidate ID:** `S8MO00160`
 
 **Total received:** $1,150,554
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Koch Network - Charles Koch
-- Leonard Leo
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| SMP | $35,399,813 | 2 |
+| WOMEN VOTE! | $8,519,441 | 2 |
+| PRIORITIES USA ACTION | $6,808,990 | 2 |
+| MAJORITY FORWARD | $6,433,695 | 2 |
+| PATRIOTS PREVAIL PAC | $540,000 | 2 |
+| Patriots Prevail PAC | — | 1 |
+| Koch Network - Charles Koch | — | 1 |
+| Leonard Leo | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #josh-hawley #senate #missouri #january-6 #populism #dark-money #christian-nationalism #class-analysis

@@ -57,7 +57,7 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `H0WA02080`
 
 **Total received:** $1,185,411
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 10 edges in the canonical store
 
 #### Committees
 
@@ -67,10 +67,15 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| AMERICAN FUTURE FUND | $1,123,991 | 2 |
+| AMERICAN CROSSROADS | $63,731 | 2 |
+| NARAL | $57,293 | 2 |
+| American Crossroads | — | 1 |
 | Boeing | — | 1 |
+| American Future Fund | — | 1 |
 | IBEW - International Brotherhood of Electrical Workers | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #rick-larsen #democrat #washington #house #ranking-member #transportation #infrastructure #boeing #aviation #aerospace #labor #phase-6-gavel-power

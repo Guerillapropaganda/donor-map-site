@@ -66,19 +66,26 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H6NJ05171`
 
 **Total received:** $1,892,291
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - House Committee on Financial Services
 - House Permanent Select Committee on Intelligence
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Palantir
-- Wall Street Finance PACs
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,752,524 | 2 |
+| NO LABELS ACTION, INC. | $773,284 | 2 |
+| Patriot Majority Pac | $350,184 | 2 |
+| Center Forward Committee | $305,000 | 2 |
+| FAIRSHAKE | $245,376 | 2 |
+| Wall Street Finance PACs | — | 1 |
+| No Labels Action, Inc. | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #democrat #house #josh-gottheimer #donor-pipeline #corporate-democrat #problem-solvers

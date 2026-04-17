@@ -25,9 +25,17 @@ urls-first-triaged: "2026-04-15"
 **Party:** Democrat · **Chamber:** EPA Administrator (2013-2017)
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 3 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Western Growers Association | — | 1 |
+| California Farm Bureau Federation | — | 1 |
+| Brady Campaign | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 # Gina McCarthy

@@ -43,7 +43,7 @@ donors: "[[Trinity PAC]], [[League of Conservation Voters]], [[DEMOCRATIC CONGRE
 **FEC candidate ID:** `H8CT04172`
 
 **Total received:** $803,939
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -53,9 +53,17 @@ donors: "[[Trinity PAC]], [[League of Conservation Voters]], [[DEMOCRATIC CONGRE
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,276,129 | 2 |
+| League of Conservation Voters | $71,850 | 2 |
+| TRINITY PAC | $64,118 | 2 |
+| CONNECTICUT TAXPAYERS ALLIANCE | $40,000 | 2 |
+| COMMON SENSE FOR CONNECTICUT | $39,058 | 2 |
+| Common Sense for Connecticut | — | 1 |
+| Trinity PAC | — | 1 |
 | Goldman Sachs | — | 1 |
+| Connecticut Taxpayers Alliance | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jim-himes #democrat #connecticut #house #ranking-member #intelligence #financial-services #wall-street #goldman-sachs #phase-6-gavel-power

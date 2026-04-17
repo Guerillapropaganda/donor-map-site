@@ -74,6 +74,10 @@ employee-donor-count: 121
 **Sector:** Energy & Utilities
 **EIN:** `742904514`
 
+#### Class analysis
+
+**Capital type:** `fossil-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -83,7 +87,7 @@ employee-donor-count: 121
 |---|---:|---:|
 | Steve Scalise | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #corporation #energy #oil-gas #refining #fossil-fuel #lobbying #pac #texas #climate-opposition #follow-the-money #class-analysis

@@ -79,6 +79,12 @@ employee-donor-count: 27
 **Sector:** Dark Money
 **EIN:** `742553304`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `upper-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $2,129,676
 **Tracked relationships:** 5 edges in the canonical store
 
@@ -92,7 +98,7 @@ employee-donor-count: 27
 | JD Vance | — | 1 |
 | Adam Smith | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #nam #manufacturing #lobbying #anti-labor #deregulation #dark-money #climate-denial #trade #class-analysis #follow-the-money

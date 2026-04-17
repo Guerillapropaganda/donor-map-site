@@ -59,6 +59,10 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Class position:** `ruling-class`
+
 **Total political spend:** $28,513,162
 **Tracked relationships:** 5 edges in the canonical store
 
@@ -72,7 +76,7 @@ checklist-na:
 | Joe Biden | — | 1 |
 | Kamala Harris | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund

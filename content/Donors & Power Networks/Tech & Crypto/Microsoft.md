@@ -81,6 +81,10 @@ employee-donor-count: 23747
 **Sector:** Tech & Crypto
 **EIN:** `916374992`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -90,7 +94,7 @@ employee-donor-count: 23747
 |---|---:|---:|
 | Patty Murray | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #microsoft #tech #lobbying #ai #cloud #antitrust #government-contracts #defense

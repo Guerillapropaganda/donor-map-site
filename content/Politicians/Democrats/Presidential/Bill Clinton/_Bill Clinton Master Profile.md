@@ -38,16 +38,19 @@ urls-first-triaged: "2026-04-15"
 **Party:** Democrat · **Chamber:** Presidential
 **FEC candidate ID:** `P60012333`
 
-**Total received:** —
-**Tracked donors:** 1 edges in the canonical store
+**Total received:** $1,875
+**Tracked donors:** 6 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| REPUBLICAN NATIONAL COMMITTEE | $1,278 | 2 |
+| MICHIGAN REPUBLICAN PARTY | $597 | 2 |
+| Michigan Republican Party | — | 1 |
 | Media Matters | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #dlc #third-way #class-realignment #wall-street #deregulation #nafta #crime-bill #telecom #welfare-reform #revolving-door #follow-the-money #class-analysis

@@ -78,7 +78,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S0CO00575`
 
 **Total received:** $7,607,184
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
@@ -91,12 +91,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Senate Leadership Fund | $15,707,048 | 2 |
+| NRSC | $15,464,768 | 2 |
+| SMP | $5,256,392 | 2 |
+| FAIR SHARE ACTION | $1,511,450 | 2 |
+| ESAFUND | $1,050,000 | 2 |
 | Brownstein Hyatt Farber Schreck | — | 1 |
+| Fair Share Action | — | 1 |
 | NORPAC | — | 1 |
 | American Petroleum Institute | — | 1 |
 | Fossil Fuel Bloc | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #democrat #senate #colorado #oil-gas #fracking #tech #brewery #moderate #follow-the-money #class-analysis #2026-election

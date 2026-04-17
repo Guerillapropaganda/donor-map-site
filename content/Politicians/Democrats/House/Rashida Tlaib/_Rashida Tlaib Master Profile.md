@@ -81,14 +81,26 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H8MI13250`
 
 **Total received:** $1,896,063
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - House Committee on Financial Services
 - House Committee on Oversight and Government Reform
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Honoring American Law Enforcement Pac | $127,500 | 2 |
+| Law Enforcement for a Safer America Pac | $127,500 | 2 |
+| Wfp Ie Committee | $110,550 | 2 |
+| MOVEON.ORG POLITICAL ACTION | $89,795 | 2 |
+| FRIENDS OF THE EARTH (ACTION) INC | $40,939 | 2 |
+| Friends of the Earth (action) INC | — | 1 |
+| MoveOn.org Political Action | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tlaib #michigan #progressive #squad #palestine #oversight #dearborn #detroit #dsa #small-dollar #censure #environmental-justice

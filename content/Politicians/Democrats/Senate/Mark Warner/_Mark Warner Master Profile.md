@@ -59,8 +59,8 @@ top-policy-area: "Health"
 **Bioguide ID:** `W000805`
 **FEC candidate ID:** `S6VA00093`
 
-**Total received:** —
-**Tracked donors:** 6 edges in the canonical store
+**Total received:** $2,417
+**Tracked donors:** 9 edges in the canonical store
 
 #### Committees
 
@@ -70,14 +70,16 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| HEALTH JUSTICE FOR ALL | $2,417 | 2 |
 | Telecom Industry | — | 1 |
 | Goldman Sachs | — | 1 |
 | Tech Industry | — | 1 |
 | Insurance Industry | — | 1 |
+| Health Justice for All | — | 1 |
 | Silicon Valley Donors | — | 1 |
 | Defense Contractors | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mark-warner #senate #virginia #intelligence #telecom #venture-capital #personal-wealth #class-analysis #democrat

@@ -42,15 +42,24 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S2SD00068`
 
 **Total received:** $1,221,843
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- NextEra Energy
-- Goldman Sachs
-- Insurance Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NRA POLITICAL VICTORY FUND | $19,176 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $14,048 | 2 |
+| CLUB FOR GROWTH INC PAC | $1,466 | 2 |
+| League of Conservation Voters | $203 | 2 |
+| National Right to Life Victory Fund | $51 | 2 |
+| Insurance Industry | — | 1 |
+| NRA Political Victory Fund | — | 1 |
+| NextEra Energy | — | 1 |
+| Goldman Sachs | — | 1 |
+| Club for Growth INC PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #john-thune #republican #senate #majority-leader #south-dakota #telecom #insurance #net-neutrality #class-analysis #follow-the-money

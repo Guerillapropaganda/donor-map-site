@@ -100,20 +100,24 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `H8CA05035`
 
 **Total received:** $2,408,010
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 23 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Michael Bloomberg
-- Haim Saban
-- AIPAC - American Israel Public Affairs Committee
-- SEIU - Service Employees International Union
-- California Labor Federation
-- Blue Shield of California
-- UnitedHealth Group - Optum
-- Kaiser Permanente
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| FUTURE45 | $1,910,481 | 2 |
+| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | $889,623 | 2 |
+| ARIZONANS FOR AFFORDABLE ELECTRICITY | $241,764 | 2 |
+| Congressional Leadership Fund | $75,000 | 2 |
+| Blue Shield of California | — | 1 |
+| Democratic Small Dollar Networks | — | 1 |
+| California Labor Federation | — | 1 |
+| Kaiser Permanente | — | 1 |
+| Jeffrey Katzenberg | — | 1 |
+| UnitedHealth Group - Optum | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #pelosi #master-profile #speaker #democrat #california #class-analysis #follow-the-money #san-francisco #donor-class #tech #stock-trading #dccc #gatekeeper

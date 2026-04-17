@@ -102,10 +102,14 @@ employee-donor-count: 712
 **Sector:** Healthcare
 **EIN:** `742873537`
 
+#### Class analysis
+
+**Capital type:** `pharma-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 0 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tenet #hospital #healthcare #for-profit #lobbying #medicaid #emergency #fraud #site-neutral #340B #USPI #ambulatory

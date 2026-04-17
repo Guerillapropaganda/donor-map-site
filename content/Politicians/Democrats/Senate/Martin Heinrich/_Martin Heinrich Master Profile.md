@@ -49,19 +49,29 @@ top-policy-area: "Health"
 **Bioguide ID:** `H001046`
 **FEC candidate ID:** `S2NM00088`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $4,961,318
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
 - Intelligence
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Defense Industry
-- Tech Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,657,749 | 2 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $1,071,940 | 2 |
+| AMERICAN FUTURE FUND | $1,012,074 | 2 |
+| REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $930,000 | 2 |
+| ENVIRONMENT AMERICA INC | $289,555 | 2 |
+| American Petroleum Institute | — | 1 |
+| Tech Industry | — | 1 |
+| Bill Gates | — | 1 |
+| American Future Fund | — | 1 |
+| Raytheon (RTX Corporation) | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #martin-heinrich #democrat #new-mexico #senate #nuclear-weapons #national-labs #energy #ai #defense #intelligence #clean-energy #class-analysis #follow-the-money

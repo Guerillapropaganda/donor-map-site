@@ -56,17 +56,23 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H4FL20023`
 
 **Total received:** $1,785,365
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Patriot Majority Pac | $1,193,402 | 2 |
+| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $145,772 | 2 |
+| America's Renewal Pac, Inc. | $133,000 | 2 |
+| Citizens Against Aipac Corruption | $45,408 | 2 |
+| United for Common Sense | $44,250 | 2 |
 | UNITE HERE | — | 1 |
 | Bacardi - Bacardi USA | — | 1 |
+| American College of Radiology Association PAC | — | 1 |
 | Fanjul Family - Florida Crystals | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #democrat #house #florida #sugar #aipac #dnc #both-sides-illusion #class-analysis #follow-the-money

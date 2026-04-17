@@ -52,9 +52,22 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H2TX23082`
 
 **Total received:** $1,189,858
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NRCC | $5,408,102 | 2 |
+| Congressional Leadership Fund | $4,277,678 | 2 |
+| TEXAS FORWARD | $2,373,536 | 2 |
+| Mainstream Democrats Pac | $1,425,211 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $1,285,000 | 2 |
+| Western Growers Association | — | 1 |
+| American Petroleum Institute | — | 1 |
+| Texas Forward | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #cuellar #master-profile #house #texas #blue-dog #corruption #foreign-agent #oil-gas #pardoned #bribery

@@ -64,7 +64,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H6MD08457`
 
 **Total received:** $4,396,225
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -74,10 +74,17 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| FREETHOUGHT EQUALITY SUPER PAC | $72,200 | 2 |
+| NEA ADVOCACY FUND | $13,321 | 2 |
+| NEA FUND FOR CHILDREN AND PUBLIC EDUCATION | $10,000 | 2 |
+| Planned Parenthood Votes | $124 | 2 |
 | UNITE HERE | — | 1 |
+| NEA Advocacy Fund | — | 1 |
 | Demand Justice | — | 1 |
+| NEA Fund for Children and Public Education | — | 1 |
+| Freethought Equality Super PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jamie-raskin #democrat #maryland #house #judiciary #ranking-member #phase-6-gavel-power #january-6th #impeachment

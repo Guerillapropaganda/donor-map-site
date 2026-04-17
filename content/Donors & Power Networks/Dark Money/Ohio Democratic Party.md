@@ -62,6 +62,12 @@ employee-donor-count: 8
 **Sector:** Dark Money
 **EIN:** `273554312`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `upper-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $9,177,680
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -73,7 +79,7 @@ employee-donor-count: 8
 | Amy Acton | — | 1 |
 | Sherrod Brown | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #ohio #democratic-party #state-party #rust-belt #labor #decline #donor-class #working-class

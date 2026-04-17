@@ -51,7 +51,7 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `H2CA31125`
 
 **Total received:** $3,026,029
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 11 edges in the canonical store
 
 #### Committees
 
@@ -61,11 +61,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| RESTORING OUR COMMUNITY | $264,208 | 2 |
+| WOMEN VOTE! | $87,812 | 2 |
+| COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE | $45,992 | 2 |
+| Cooperative of American Physicians Independent Expenditure Committee | — | 1 |
 | AFSCME - American Federation of State County and Municipal Employees | — | 1 |
 | UAW - United Auto Workers | — | 1 |
+| Restoring Our Community | — | 1 |
 | Blue Shield of California | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #aguilar #california #caucus-chair #leadership #inland-empire #january-6 #moderate #appropriations #logistics #dccc

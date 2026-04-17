@@ -32,14 +32,22 @@ urls-first-triaged: "2026-04-15"
 **Party:** Republican · **Chamber:** Governor
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 8 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- PORAC - Peace Officers Research Association of California
-- CCPOA - California Correctional Peace Officers Association
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| IBEW Local 440 - Riverside | — | 1 |
+| RSA - The Single-Patron Sheriff | — | 1 |
+| GEO Group - Private Prison Industrial Complex | — | 1 |
+| CoreCivic | — | 1 |
+| IBEW Local 477 - San Bernardino | — | 1 |
+| CCPOA - California Correctional Peace Officers Association | — | 1 |
+| Riverside Sheriffs Association | — | 1 |
+| PORAC - Peace Officers Research Association of California | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bianco #master-profile #riverside #sheriff #republican #class-analysis #follow-the-money #authoritarian-right #oath-keepers #constitutional-sheriff #police-union #2026-governor

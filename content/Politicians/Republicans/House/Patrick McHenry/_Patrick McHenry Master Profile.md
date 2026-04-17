@@ -55,15 +55,23 @@ top-policy-area: "Finance and Financial Sector"
 **FEC candidate ID:** `H4NC10047`
 
 **Total received:** $2,203,814
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Securities & Investment Industry
-- Kenneth Griffin
-- Crypto Industry Bloc
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| CLUB FOR GROWTH INC PAC | $364,180 | 2 |
+| CRYPTO INNOVATION | $334,000 | 2 |
+| FAIRSHAKE | $253,252 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $11,632 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,130 | 2 |
+| Securities & Investment Industry | — | 1 |
+| Club for Growth INC PAC | — | 1 |
+| Kenneth Griffin | — | 1 |
+| Crypto Industry Bloc | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mchenry #master-profile #house #north-carolina #financial-services #crypto #revolving-door #wall-street #fit21

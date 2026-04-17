@@ -50,7 +50,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S4OK00232`
 
 **Total received:** $1,589,488
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
@@ -61,9 +61,17 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| OKLAHOMANS FOR A CONSERVATIVE FUTURE INC | $766,330 | 2 |
+| Defend Oklahoma Values | $246,000 | 2 |
+| FOUNDATION FOR ECONOMIC PROSPERITY INC. | $216,623 | 2 |
+| American Energy Action Fund | $104,000 | 2 |
+| NOW OR NEVER PAC | $100,000 | 2 |
+| Oklahomans for a Conservative Future INC | — | 1 |
 | Devon Energy | — | 1 |
+| Foundation for Economic Prosperity Inc. | — | 1 |
+| Now Or Never PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #james-lankford #republican #oklahoma #senate #ethics-chair #finance #homeland-security #oil-gas #border #immigration #pastor #baptist #energy #phase-6-gavel-power

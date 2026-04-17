@@ -58,17 +58,28 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `S4WV00159`
 
 **Total received:** $4,455,752
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
 - Environment & Public Works
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Koch Network
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Senate Majority PAC | $468,063 | 2 |
+| TAKE ME HOME WV ACTION | $460,720 | 2 |
+| US CHAMBER OF COMMERCE | $400,000 | 2 |
+| DEFENDING MAIN STREET SUPERPAC INC | $98,000 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $48,061 | 2 |
+| Defending Main Street Superpac INC | — | 1 |
+| US Chamber of Commerce | — | 1 |
+| Koch network | — | 1 |
+| Take Me Home WV Action | — | 1 |
+| Koch Network | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #shelley-moore-capito #republican #west-virginia #senate #committee-chair #environment #public-works #coal #natural-gas #oil #epa #infrastructure #phase-6-gavel-power

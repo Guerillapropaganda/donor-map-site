@@ -61,6 +61,11 @@ employee-donor-count: 66
 **Sector:** Gig Economy
 **EIN:** `931169142`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $695,569
 **Tracked relationships:** 8 edges in the canonical store
 
@@ -77,7 +82,7 @@ employee-donor-count: 66
 | Mike Collins | — | 1 |
 | Bennie Thompson | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #gaming #gambling #casino #sports-betting #lobbying #addiction #deregulation #murphyvncaa #revolving-door #bipartisan #class-analysis #follow-the-money

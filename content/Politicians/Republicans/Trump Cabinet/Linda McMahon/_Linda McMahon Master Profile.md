@@ -40,18 +40,28 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `S0CT00151`
 
 **Total received:** $50,963,418
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Committees
 
 - Education & Labor
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- MAGA Inc
-- America First Policy Institute
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $14,390,579 | 2 |
+| MAJORITY PAC | $5,478,958 | 2 |
+| US CHAMBER OF COMMERCE | $1,400,000 | 2 |
+| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E | $518,043 | 2 |
+| LEAGUE OF CONSERVATION VOTERS ACTION FUND | $509,979 | 2 |
+| MAGA Inc | — | 1 |
+| US Chamber of Commerce | — | 1 |
+| Majority PAC | — | 1 |
+| America First Policy Institute | — | 1 |
+| American Federation of State County & Municipal Employees  P E O P L E | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #linda-mcmahon #trump-cabinet #education #wwe #school-choice #mega-donor #afpi #class-analysis

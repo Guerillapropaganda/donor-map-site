@@ -40,9 +40,21 @@ born: "1946-07-06"
 **FEC candidate ID:** `P00003335`
 
 **Total received:** $377,846,444
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $168,981,286 | 2 |
+| REPUBLICAN NATIONAL COMMITTEE | $12,878,211 | 2 |
+| REPUBLICAN PARTY OF FLORIDA | $2,099,667 | 2 |
+| NRA POLITICAL VICTORY FUND | $1,155,364 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $631,306 | 2 |
+| NRA Political Victory Fund | — | 1 |
+| Republican Party of Florida | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #president #2001-2009 #bush-administration #iraq-war #texas-governor

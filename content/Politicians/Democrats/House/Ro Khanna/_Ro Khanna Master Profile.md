@@ -88,7 +88,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H4CA12055`
 
 **Total received:** $9,579,628
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
@@ -96,15 +96,22 @@ top-policy-area: "Health"
 - House Committee on Oversight and Government Reform
 - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Alphabet/Google employees ($535K career)
-- Wilson Sonsini law firm ($254K career)
-- Stanford University employees ($213K career)
-- Accel Partners ($177K career)
-- Andreessen Horowitz
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| CALIFORNIANS FOR INNOVATION | $745,467 | 2 |
+| Protect Progress | $217,092 | 2 |
+| WORKING FOR US POLITICAL ACTION COMMITTEE INC | $167,557 | 2 |
+| OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | $13,246 | 2 |
+| HE'S GOTTA GO PAC | $4,715 | 2 |
+| Ohlone Area United Democratic Campaign | — | 1 |
+| Working for US Political Action Committee INC | — | 1 |
+| Californians for Innovation | — | 1 |
+| Google - Alphabet | — | 1 |
+| He's Gotta Go PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #ro-khanna #democrat #california #house #silicon-valley #tech #progressive #defense #antitrust #2028

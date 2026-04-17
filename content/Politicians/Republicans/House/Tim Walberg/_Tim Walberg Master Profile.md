@@ -61,7 +61,7 @@ top-policy-area: "International Affairs"
 |---|---:|---:|
 | NORPAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tim-walberg #republican #michigan #house #committee-chair #education #workforce #school-choice #anti-union #devos #private-equity #nlrb #phase-6-gavel-power

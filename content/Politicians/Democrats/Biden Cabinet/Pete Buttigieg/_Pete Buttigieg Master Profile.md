@@ -32,14 +32,23 @@ donors: "[[DoorDash]], [[Women Speak Out Pac]], [[Dream Defenders Fight Pac]], [
 **Party:** Democrat · **Chamber:** Cabinet · **State:** Indiana
 **FEC candidate ID:** `P00010298`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $10,044,460
+**Tracked donors:** 13 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Finance and Tech Bundler Network
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Votevets | $9,939,935 | 2 |
+| DRAIN THE DC SWAMP PAC | $48,200 | 2 |
+| Equality California Votes | $43,609 | 2 |
+| Women Speak Out Pac | $9,200 | 2 |
+| Dream Defenders Fight Pac | $3,516 | 2 |
+| Drain the DC Swamp PAC | — | 1 |
+| DoorDash | — | 1 |
+| Finance and Tech Bundler Network | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #pete-buttigieg #indiana #south-bend #transportation-secretary #democrat #mckinsey #2020-presidential #2028-presidential #class-analysis

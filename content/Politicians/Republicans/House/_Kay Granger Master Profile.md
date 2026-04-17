@@ -48,18 +48,28 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H6TX12060`
 
 **Total received:** $1,080,370
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 15 edges in the canonical store
 
 #### Committees
 
 - Appropriations
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Lockheed Martin
-- Oil & Gas PACs
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $2,301,252 | 2 |
+| CLUB FOR GROWTH ACTION | $2,226,944 | 2 |
+| Congressional Leadership Fund | $848,763 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $118,530 | 2 |
+| WFW ACTION FUND, INC. | $79,662 | 2 |
+| Oil & Gas PACs | — | 1 |
+| Wfw Action Fund, Inc. | — | 1 |
+| Protect Freedom Political Action Committee | — | 1 |
+| Lockheed Martin | — | 1 |
+| Boeing | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #republican #house #texas #appropriations #defense #lockheed-martin #f35 #dementia

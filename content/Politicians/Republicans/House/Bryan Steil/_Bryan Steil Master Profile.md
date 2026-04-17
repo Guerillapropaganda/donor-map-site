@@ -51,17 +51,24 @@ top-policy-area: "Finance and Financial Sector"
 **FEC candidate ID:** `H8WI01156`
 
 **Total received:** $3,443,146
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| FAIRSHAKE | $1,528,412 | 2 |
+| HMP | $239,615 | 2 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $123,200 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $62,666 | 2 |
+| MIDWEST GROWTH PAC | $39,950 | 2 |
+| Midwest Growth PAC | — | 1 |
+| Koch network | — | 1 |
 | National Restaurant Association | — | 1 |
+| Koch Network | — | 1 |
 | Stand Together | — | 1 |
-| Insurance Industry | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bryan-steil #republican #wisconsin #house #committee-chair #house-administration #election-law #voter-id #wall-street #paul-ryan #campaign-finance #fec #phase-6-gavel-power

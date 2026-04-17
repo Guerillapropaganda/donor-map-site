@@ -73,6 +73,10 @@ employee-donor-count: 66
 **Sector:** Healthcare
 **EIN:** `135656874`
 
+#### Class analysis
+
+**Capital type:** `pharma-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -84,7 +88,7 @@ employee-donor-count: 66
 | Tammy Baldwin | — | 1 |
 | Roy Cooper | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bcbs #blue-cross #blue-shield #insurance #healthcare #lobbying #antitrust #bipartisan #aca #medicare-advantage #public-option #class-analysis #follow-the-money

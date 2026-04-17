@@ -63,6 +63,10 @@ independent-expenditures: 2882480
 **Sector:** Super PACs
 **EIN:** `753148958`
 
+#### Class analysis
+
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -73,7 +77,7 @@ independent-expenditures: 2882480
 | Nikki Haley | — | 1 |
 | Jodey Arrington | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #koch-network #dark-money #super-pac #501c4 #astroturf #state-capture #class-analysis #follow-the-money

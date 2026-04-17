@@ -47,6 +47,11 @@ employee-donor-count: 704
 **Sector:** Labor Unions
 **EIN:** `201130122`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** —
 **Tracked relationships:** 4 edges in the canonical store
 
@@ -59,7 +64,7 @@ employee-donor-count: 704
 | Gavin Newsom | — | 1 |
 | Elizabeth Warren | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #UFCW #grocery #retail #labor #class-analysis #follow-the-money #california #national #kroger #albertsons #walmart #strike #two-tier

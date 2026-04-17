@@ -58,7 +58,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S8WA00194`
 
 **Total received:** $896,096
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 10 edges in the canonical store
 
 #### Committees
 
@@ -68,12 +68,16 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| PLANNED PARENTHOOD NW ACTION PAC | $2,799 | 2 |
+| TOGETHER FOR PROGRESS PAC | $383 | 2 |
+| Together for Progress PAC | — | 1 |
 | Comcast - NBCUniversal | — | 1 |
 | Boeing | — | 1 |
 | Jeff Bezos | — | 1 |
+| Planned Parenthood Nw Action PAC | — | 1 |
 | Boeing Defense | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #maria-cantwell #democrat #washington #senate #ranking-member #commerce #tech #amazon #boeing #telecommunications #airlines #realnetworks #phase-6-gavel-power

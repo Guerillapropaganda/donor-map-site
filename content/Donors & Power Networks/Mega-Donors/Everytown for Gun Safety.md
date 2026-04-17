@@ -61,6 +61,10 @@ employee-donor-count: 93
 **Sector:** Mega-Donors
 **EIN:** `208802884`
 
+#### Class analysis
+
+**Class position:** `ruling-class`
+
 **Total political spend:** $39,062,644
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -71,7 +75,7 @@ employee-donor-count: 93
 | Chris Murphy | — | 1 |
 | Hakeem Jeffries | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #gun-control #bloomberg #class-analysis #follow-the-money #everytown #moms-demand-action #national #california

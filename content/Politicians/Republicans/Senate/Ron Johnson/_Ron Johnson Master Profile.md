@@ -35,20 +35,21 @@ top-policy-area: "Congress"
 **Bioguide ID:** `J000293`
 **FEC candidate ID:** `S0WI00197`
 
-**Total received:** —
-**Tracked donors:** 5 edges in the canonical store
+**Total received:** $5,000
+**Tracked donors:** 7 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Really American Pac | $5,000 | 2 |
 | Patrick Soon-Shiong | — | 1 |
 | National Restaurant Association | — | 1 |
 | American Iron and Steel Institute | — | 1 |
 | Western Growers Association | — | 1 |
 | American Petroleum Institute | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senate #wisconsin #tax-policy #manufacturing #covid #russia #class-analysis #follow-the-money #gavel-power

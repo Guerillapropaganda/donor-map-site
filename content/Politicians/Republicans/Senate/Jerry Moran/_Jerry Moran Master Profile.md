@@ -45,7 +45,7 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `S0KS00091`
 
 **Total received:** $1,586,154
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 19 edges in the canonical store
 
 #### Committees
 
@@ -56,10 +56,18 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| KANSANS FOR LIFE POLITICAL ACTION COMMITTEE | $223 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $207 | 2 |
+| PLANNED PARENTHOOD ADVOCATES OF KANSAS | $120 | 2 |
+| PLANNED PARENTHOOD OF KS & MID-MO | $7 | 2 |
+| PLANNED PARENTHOOD ACTION FUND INC | $2 | 2 |
 | Western Growers Association | — | 1 |
-| California Farm Bureau Federation | — | 1 |
+| Planned Parenthood Action Fund INC | — | 1 |
+| Planned Parenthood Advocates of Kansas | — | 1 |
+| Kansans for Life Political Action Committee | — | 1 |
+| Koch network | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jerry-moran #republican #kansas #senate #committee-chair #veterans-affairs #aviation #aerospace #koch #va-privatization #agriculture #wichita #phase-6-gavel-power

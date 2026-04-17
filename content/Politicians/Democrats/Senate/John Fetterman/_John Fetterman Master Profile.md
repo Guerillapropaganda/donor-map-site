@@ -44,13 +44,22 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `S6PA00274`
 
 **Total received:** $9,034,481
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- AIPAC - American Israel Public Affairs Committee
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Senate Leadership Fund | $68,244,427 | 2 |
+| PRIORITIES USA ACTION | $13,092,688 | 2 |
+| AMERICAN CROSSROADS | $11,038,199 | 2 |
+| NRSC | $6,691,948 | 2 |
+| MAKE AMERICA GREAT AGAIN INC. | $6,652,742 | 2 |
+| AIPAC - American Israel Public Affairs Committee | — | 1 |
+| American Crossroads | — | 1 |
+| Devon Energy | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #john-fetterman #senate #pennsylvania #working-class #small-dollar #post-election-drift #israel #aipac #class-analysis

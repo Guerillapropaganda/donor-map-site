@@ -66,6 +66,10 @@ employee-donor-count: 2
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Class position:** `ruling-class`
+
 **Total political spend:** $10,358,971
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -76,7 +80,7 @@ employee-donor-count: 2
 | Maria Cantwell | — | 1 |
 | Patty Murray | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bezos #amazon #blue-origin #washington-post #mega-donor #media #space

@@ -64,6 +64,10 @@ employee-donor-count: 8
 **Sector:** Defense & Intelligence
 **EIN:** `42982768`
 
+#### Class analysis
+
+**Capital type:** `military-industrial`
+
 **Total political spend:** —
 **Tracked relationships:** 4 edges in the canonical store
 
@@ -76,7 +80,7 @@ employee-donor-count: 8
 | Jeanne Shaheen | — | 1 |
 | Martin Heinrich | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #defense #industry #military #ndaa #pentagon #bipartisan

@@ -66,6 +66,11 @@ employee-donor-count: 258
 **Sector:** Labor Unions
 **EIN:** `746062811`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** $5,644,162
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -76,7 +81,7 @@ employee-donor-count: 258
 | Adam Schiff | — | 1 |
 | Brendan Boyle | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #afl-cio #labor #unions #federation #democratic #organizing #wages #pro-act #class-analysis #follow-the-money

@@ -49,17 +49,25 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `H2CA37023`
 
 **Total received:** $4,493,644
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - Appropriations
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Raytheon PAC
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| HMP | $11,502,510 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $1,305,443 | 2 |
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $1,098,954 | 2 |
+| LCV VICTORY FUND | $918,467 | 2 |
+| Edf Action Votes | $795,808 | 2 |
+| Elon Musk | — | 1 |
+| Lockheed Martin | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #house #ken-calvert #donor-pipeline #defense #appropriations

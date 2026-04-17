@@ -45,7 +45,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H2FL25018`
 
 **Total received:** $1,175,788
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Committees
 
@@ -55,12 +55,18 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $965,325 | 2 |
+| GIFFORDS PAC | $415,200 | 2 |
+| CHANGE NOW | $197,825 | 2 |
+| HOUSE MAJORITY PAC | $64,729 | 2 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $20,324 | 2 |
+| Change Now | — | 1 |
 | Bacardi - Bacardi USA | — | 1 |
 | Fanjul Family - Florida Crystals | — | 1 |
 | MasTec - Mas Canosa Family | — | 1 |
 | LARA Fund - Mauricio Claver-Carone | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #house #florida #cuba #sugar #fanjul #appropriations #class-analysis #follow-the-money #aipac #israel #defense

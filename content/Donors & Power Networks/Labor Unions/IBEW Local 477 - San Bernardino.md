@@ -37,6 +37,11 @@ employee-donor-count: 19
 **Sector:** Labor Unions
 **EIN:** `812607816`
 
+#### Class analysis
+
+**Capital type:** `labor-aligned`
+**Class position:** `labor-aligned`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -46,7 +51,7 @@ employee-donor-count: 19
 |---|---:|---:|
 | Chad Bianco | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #union #[[IBEW - International Brotherhood of Electrical Workers|IBEW]] #local-477 #building-trades #labor #class-analysis #follow-the-money #inland-empire #san-bernardino #prevailing-wage #apprenticeship

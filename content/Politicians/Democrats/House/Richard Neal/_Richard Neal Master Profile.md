@@ -52,19 +52,28 @@ top-policy-area: "Armed Forces and National Security"
 **FEC candidate ID:** `H8MA02041`
 
 **Total received:** $1,411,406
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 19 edges in the canonical store
 
 #### Committees
 
 - Ways & Means
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- MassMutual
-- Fidelity Investments
-- Blue Cross Blue Shield
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| JUSTICE DEMOCRATS PAC | $700,000 | 2 |
+| FIGHT CORPORATE MONOPOLIES | $650,000 | 2 |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $509,685 | 2 |
+| INDIVISIBLE ACTION | $302,147 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $126,197 | 2 |
+| Fidelity Investments | — | 1 |
+| Ohio Democratic Party | — | 1 |
+| MassMutual | — | 1 |
+| American Hospital Association PAC | — | 1 |
+| PhRMA - Pharmaceutical Research and Manufacturers of America | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #neal #master-profile #house #massachusetts #ways-and-means #insurance #pharma #corporate-democrat #blocker

@@ -62,19 +62,25 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `S4MI00355`
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 7 edges in the canonical store
 
 #### Committees
 
 - Homeland Security
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Defense Industry
-- UAW - United Auto Workers
-- Real Estate Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Real Estate Industry | — | 1 |
+| Defense Industry | — | 1 |
+| Insurance Industry | — | 1 |
+| American Action Network | — | 1 |
+| UAW - United Auto Workers | — | 1 |
+| Blue Shield of California | — | 1 |
+| AFGE - American Federation of Government Employees | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #gary-peters #democrat #michigan #senate #dscc-chair #homeland-security #defense #cybersecurity #wall-street #investment-banker #class-analysis #follow-the-money

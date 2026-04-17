@@ -70,9 +70,20 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H0NY16143`
 
 **Total received:** $6,052,176
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 11 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| UNITED DEMOCRACY PROJECT ('UDP') | $19,090,698 | 2 |
+| FAIRSHAKE | $4,133,800 | 2 |
+| JUSTICE DEMOCRATS PAC | $3,151,946 | 2 |
+| DMFI PAC | $990,125 | 2 |
+| COURAGE TO CHANGE | $469,200 | 2 |
+| Justice Democrats PAC | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jamaal-bowman #ny-16 #aipac #primary-defeat #israel-lobby #palestine-advocacy #squad #progressive #educator #bronx #westchester

@@ -34,10 +34,15 @@ employee-donor-count: 26
 **Entity type:** corporation
 **Sector:** Carceral State
 
+#### Class analysis
+
+**Capital type:** `carceral-capital`
+**Ideological function:** `carceral-expansion`
+
 **Total political spend:** —
 **Tracked relationships:** 0 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #viapath #gtl #carceral-state #prison-telecom #private-equity #american-securities #national #california #follow-the-money #class-analysis

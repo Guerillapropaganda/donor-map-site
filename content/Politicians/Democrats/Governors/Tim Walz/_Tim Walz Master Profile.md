@@ -38,15 +38,22 @@ fec-cycle: 2018
 **FEC candidate ID:** `H6MN01174`
 
 **Total received:** $113,151
-**Tracked donors:** 1 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $1,935,395 | 2 |
+| SEIU COPE | $516,807 | 2 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $212,147 | 2 |
+| BLUEGREEN ALLIANCE | $108,805 | 2 |
+| FREEDOM CLUB FEDERAL PAC | $66,000 | 2 |
 | Democracy Alliance | — | 1 |
+| Freedom Club Federal PAC | — | 1 |
+| Bluegreen Alliance | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #labor-aligned #authenticity-brand #two-audience-problem #minnesota

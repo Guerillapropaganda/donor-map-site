@@ -44,9 +44,19 @@ top-policy-area: "Government Operations and Politics"
 **FEC candidate ID:** `H0CO03165`
 
 **Total received:** $723,121
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 10 edges in the canonical store
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| HOUSE MAJORITY PAC | $3,520,550 | 2 |
+| DCCC | $2,254,577 | 2 |
+| WOMEN VOTE! | $1,351,032 | 2 |
+| LCV VICTORY FUND | $979,880 | 2 |
+| Colorado United Pac | $720,000 | 2 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #boebert #colorado #freedom-caucus #gun-rights #energy #maga #small-dollar #culture-war #oil-gas #ethics #district-switch

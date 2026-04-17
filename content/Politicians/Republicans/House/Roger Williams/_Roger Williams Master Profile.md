@@ -57,13 +57,22 @@ top-policy-area: "Finance and Financial Sector"
 **FEC candidate ID:** `H2TX33040`
 
 **Total received:** $989,055
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 7 edges in the canonical store
 
 #### Committees
 
 - Small Business
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $10,128 | 2 |
+| Activate America | $4,333 | 2 |
+| COMMITTEE FOR DEFENDING AMERICAN VALUES | $1,715 | 2 |
+| Committee for Defending American Values | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #roger-williams #republican #texas #house #committee-chair #small-business #auto-dealer #self-funding #conflict-of-interest #phase-6-gavel-power

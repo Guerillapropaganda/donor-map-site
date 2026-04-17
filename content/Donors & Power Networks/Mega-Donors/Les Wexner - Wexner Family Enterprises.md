@@ -40,7 +40,7 @@ urls-first-triaged: "2026-04-15"
 | Jon Husted | — | 1 |
 | Donald Trump | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #les-wexner #abigail-wexner #ohio #mega-donor #republican #limited-brands #l-brands #victoria-secret #epstein #columbus #new-albany #retail #wexner-foundation #israel #osu #jobsohio #data-centers #class-analysis #follow-the-money

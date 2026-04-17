@@ -44,21 +44,25 @@ urls-first-triaged: "2026-04-15"
 **Party:** Democrat · **Chamber:** Presidential · **State:** Delaware
 **FEC candidate ID:** `P60012143`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $25,264,186
+**Tracked donors:** 32 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- MBNA Corporation
-- Pharmaceutical Industry
-- Goldman Sachs
-- JPMorgan Chase
-- Citigroup
-- UnitedHealth Group - Optum
-- Pfizer
-- Moderna
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| CLUB FOR GROWTH ACTION | $14,572,648 | 2 |
+| MAKE AMERICA GREAT AGAIN INC. | $6,851,694 | 2 |
+| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $2,130,903 | 2 |
+| Americas Pac | $1,573,351 | 2 |
+| LIVING UNITED FOR CHANGE IN ARIZONA | $135,590 | 2 |
+| Democratic Small Dollar Networks | — | 1 |
+| Pfizer | — | 1 |
+| Citigroup | — | 1 |
+| Ford Motor Company | — | 1 |
+| Trial Lawyers Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #biden #master-profile #president #delaware #senate #class-analysis #follow-the-money #mbna #credit-card-industry #pharmaceutical-industry #wall-street #genuine-win-structural-limit

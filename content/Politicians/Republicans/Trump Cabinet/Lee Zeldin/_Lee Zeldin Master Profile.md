@@ -43,14 +43,22 @@ donors: "[[314 Action Fund]], [[DCCC]], [[AMERICANS FOR COMMON SENSE (AFCS)]], [
 **FEC candidate ID:** `H8NY01148`
 
 **Total received:** $781,455
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Leonard Leo
-- Koch Network - Charles Koch
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| HOUSE MAJORITY PAC | $5,683,910 | 2 |
+| 314 ACTION FUND | $4,263,616 | 2 |
+| AMERICANS FOR COMMON SENSE (AFCS) | $3,160,436 | 2 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $3,039,289 | 2 |
+| DCCC | $2,185,865 | 2 |
+| Leonard Leo | — | 1 |
+| Koch Network - Charles Koch | — | 1 |
+| 314 Action Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #lee-zeldin #republican #epa #deregulation #fossil-fuels #real-estate #pro-israel #leonard-leo #class-analysis #follow-the-money

@@ -49,6 +49,10 @@ employee-donor-count: 116
 **Entity type:** corporation
 **Sector:** Real Estate
 
+#### Class analysis
+
+**Capital type:** `rentier-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -60,7 +64,7 @@ employee-donor-count: 116
 | Carlos Gimenez | — | 1 |
 | Mario Diaz-Balart | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #corporation #infrastructure #construction #cuba #exile #telecom #energy #real-estate #class-analysis #follow-the-money

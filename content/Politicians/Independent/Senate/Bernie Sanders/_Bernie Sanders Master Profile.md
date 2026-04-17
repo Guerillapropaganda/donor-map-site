@@ -73,22 +73,29 @@ top-policy-area: "Health"
 **Bioguide ID:** `S000033`
 **FEC candidate ID:** `S4VT00033`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $25,724
+**Tracked donors:** 19 edges in the canonical store
 
 #### Committees
 
 - Health, Education, Labor & Pensions (Ranking Member, 119th Congress)
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- SEIU — Service Employees International Union
-- CNA — California Nurses Association / National Nurses United
-- Teamsters — International Brotherhood of Teamsters
-- IBEW — International Brotherhood of Electrical Workers
-- Small-dollar individual donors (8.7M unique donations in 2020, avg $19–21)
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NRA POLITICAL VICTORY FUND | $22,848 | 2 |
+| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $2,850 | 2 |
+| INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC | $21 | 2 |
+| PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE | $5 | 2 |
+| NRA Political Victory Fund | — | 1 |
+| Democratic Small Dollar Networks | — | 1 |
+| Senate Majority PAC | — | 1 |
+| J Street | — | 1 |
+| Small Dollar Donors - ActBlue | — | 1 |
+| International Association of Firefighters Interested in Registration and Education PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #sanders #master-profile #senator #independent #democratic-socialist #class-analysis #follow-the-money #vermont #labor #single-payer #medicare-for-all #small-dollar #anti-donor

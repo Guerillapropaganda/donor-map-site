@@ -49,6 +49,12 @@ urls-first-triaged: "2026-04-15"
 **Sector:** Dark Money
 **EIN:** `936032678`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `petty-bourgeois`
+**Ideological function:** `labor-organizing`, `dark-money-networked`
+
 **Total political spend:** $500
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -60,7 +66,7 @@ urls-first-triaged: "2026-04-15"
 | Joseph Morelle | — | 1 |
 | Jeff Merkley | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #labor #unions #democratic #organizing #collective-bargaining #pac #decline

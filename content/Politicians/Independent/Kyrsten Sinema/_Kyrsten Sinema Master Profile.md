@@ -62,15 +62,25 @@ top-policy-area: "Health"
 **Bioguide ID:** `S001191`
 **FEC candidate ID:** `S8AZ00197`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $9,195,905
+**Tracked donors:** 17 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Wall Street Bloc
-- Pharmaceutical Industry
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| DEFENDARIZONA | $3,377,416 | 2 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $2,817,627 | 2 |
+| AMERICAN FUTURE FUND | $1,145,640 | 2 |
+| Congressional Leadership Fund | $1,143,122 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $712,100 | 2 |
+| Wall Street Bloc | — | 1 |
+| Private Equity Industry Bloc | — | 1 |
+| AFSCME - American Federation of State County and Municipal Employees | — | 1 |
+| AFGE - American Federation of Government Employees | — | 1 |
+| Pharmaceutical Industry | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #kyrsten-sinema #senate #arizona #private-equity #carried-interest #pharma #filibuster #voting-rights #class-analysis #independent

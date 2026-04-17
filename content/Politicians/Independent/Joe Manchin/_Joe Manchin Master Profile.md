@@ -43,13 +43,24 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S0WV00090`
 
 **Total received:** $11,923,091
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Fossil Fuel Bloc
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Senate Leadership Fund | $11,682,282 | 2 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $7,213,530 | 2 |
+| National Republican Senatorial Committee | $7,213,530 | 2 |
+| SMP | $6,953,860 | 2 |
+| NRSC | $4,805,962 | 2 |
+| MAJORITY FORWARD | $2,278,848 | 2 |
+| Insurance Industry | — | 1 |
+| Fossil Fuel Bloc | — | 1 |
+| ExxonMobil | — | 1 |
+| Centene Corporation | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #joe-manchin #senate #west-virginia #coal #enersystems #epipen #no-labels #class-analysis #independent

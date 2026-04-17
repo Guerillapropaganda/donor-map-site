@@ -52,7 +52,7 @@ donors: "[[Brady Campaign]], [[J Street]]"
 | J Street | — | 1 |
 | Brady Campaign | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #democrat #house #new-york #judiciary #antitrust #real-estate #israel #class-analysis #follow-the-money #gavel-power

@@ -54,7 +54,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H4MO08162`
 
 **Total received:** —
-**Tracked donors:** 5 edges in the canonical store
+**Tracked donors:** 6 edges in the canonical store
 
 #### Committees
 
@@ -69,8 +69,9 @@ top-policy-area: "International Affairs"
 | National Restaurant Association | — | 1 |
 | National Association of Manufacturers | — | 1 |
 | American Gaming Association | — | 1 |
+| ActBlue | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jason-smith #republican #missouri #house #committee-chair #phase-6-gavel-power #ways-and-means #tax-policy #class-analysis #follow-the-money

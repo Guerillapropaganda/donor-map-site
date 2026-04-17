@@ -44,8 +44,8 @@ top-policy-area: "Health"
 **Bioguide ID:** `T000193`
 **FEC candidate ID:** `H4MS02068`
 
-**Total received:** $497,950
-**Tracked donors:** 4 edges in the canonical store
+**Total received:** $608,726
+**Tracked donors:** 16 edges in the canonical store
 
 #### Committees
 
@@ -55,12 +55,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| UNITE HERE TIP CAMPAIGN COMMITTEE | $49,126 | 2 |
+| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A. | $10,000 | 2 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $9,514 | 2 |
+| NARAL Pro-Choice America | $3,380 | 2 |
 | California Farm Bureau Federation | — | 1 |
+| Unite Here Tip Campaign Committee | — | 1 |
+| CA Farm Bureau Federation | — | 1 |
+| National Cattlemen's Beef Association | — | 1 |
 | IBEW - International Brotherhood of Electrical Workers | — | 1 |
-| Blue Shield of California | — | 1 |
-| American Gaming Association | — | 1 |
+| Laborers' Political League-Laborers' International Union of N.a. | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #bennie-thompson #democrat #mississippi #house #ranking-member #homeland-security #january-6 #surveillance #civil-rights #phase-6-gavel-power

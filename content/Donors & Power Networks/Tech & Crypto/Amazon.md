@@ -69,6 +69,11 @@ employee-donor-count: 8790
 **Sector:** Tech & Crypto
 **EIN:** `873103053`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+**Worker relationship:** `union-busting`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -79,7 +84,7 @@ employee-donor-count: 8790
 | Donald Trump | — | 1 |
 | Amy Klobuchar | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #tech #corporation #anti-union #lobbying #government-contracts #labor #surveillance #revolving-door #bezos

@@ -65,7 +65,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S2WA00189`
 
 **Total received:** $3,798,925
-**Tracked donors:** 5 edges in the canonical store
+**Tracked donors:** 17 edges in the canonical store
 
 #### Committees
 
@@ -75,13 +75,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Evergreen Principles PAC | $8,581,846 | 2 |
+| National Republican Senatorial Committee | $7,901,065 | 2 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $7,901,065 | 2 |
+| Crossroads Grassroots Policy Strategies | $7,116,109 | 2 |
+| WOMEN VOTE! | $4,344,848 | 2 |
+| ESAFUND | $1,954,200 | 2 |
 | Pharmaceutical Industry Bloc | — | 1 |
 | Defense Industry Bloc | — | 1 |
 | Microsoft | — | 1 |
 | Boeing | — | 1 |
-| Jeff Bezos | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #democrat #senate #washington #defense #boeing #pharma #appropriations #follow-the-money #class-analysis

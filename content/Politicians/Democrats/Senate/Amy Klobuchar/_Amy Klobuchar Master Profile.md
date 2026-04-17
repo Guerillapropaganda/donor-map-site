@@ -58,7 +58,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6MN00267`
 
 **Total received:** $2,401,862
-**Tracked donors:** 7 edges in the canonical store
+**Tracked donors:** 21 edges in the canonical store
 
 #### Committees
 
@@ -70,15 +70,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| EMILY'S LIST | $133,005 | 2 |
+| PROGRESSIVE TURNOUT PROJECT | $87,327 | 2 |
+| PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND | $70,488 | 2 |
+| United Breast Cancer Support Pac | $57,125 | 2 |
+| AFSCME WORKING FAMILIES FUND | $36,702 | 2 |
 | Goldman Sachs | — | 1 |
+| Planned Parenthood of Minnesota Political Action Fund | — | 1 |
 | Google - Alphabet | — | 1 |
+| Progressive Turnout Project | — | 1 |
 | Fraternal Order of Police | — | 1 |
-| Jewish Democratic Council of America | — | 1 |
-| Meta - Facebook | — | 1 |
-| Apple | — | 1 |
-| Amazon | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #amy-klobuchar #democrat #minnesota #senate #antitrust #judiciary #agriculture #tech #genuine-win-structural-limit #two-audience-problem #revolving-door

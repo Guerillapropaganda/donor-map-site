@@ -41,18 +41,24 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S6WY00068`
 
 **Total received:** $1,139,745
-**Tracked donors:** 4 edges in the canonical store
+**Tracked donors:** 17 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| High Plains Pac | $1,894,880 | 2 |
+| NATIONAL VICTORY ACTION FUND | $200,000 | 2 |
+| AMERICAN CHEMISTRY COUNCIL, INC | $133,204 | 2 |
+| Clearpath Action Fund, Inc. | $50,375 | 2 |
+| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $39,800 | 2 |
 | American Petroleum Institute | — | 1 |
 | Raytheon (RTX Corporation) | — | 1 |
-| Marathon Petroleum | — | 1 |
-| ExxonMobil | — | 1 |
+| American Chemistry Council, INC | — | 1 |
+| National Victory Action Fund | — | 1 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #senate #wyoming #energy #fossil-fuel #climate #class-analysis #follow-the-money #gavel-power

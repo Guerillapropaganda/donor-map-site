@@ -73,21 +73,24 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S4NJ00185`
 
 **Total received:** $30,106,071
-**Tracked donors:** 7 edges in the canonical store
+**Tracked donors:** 32 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
-| Silicon Valley Democratic Donor Network | — | 1 |
-| Johnson & Johnson | — | 1 |
-| JB Pritzker | — | 1 |
-| JPMorgan Chase | — | 1 |
-| Goldman Sachs | — | 1 |
-| Merck | — | 1 |
-| Mark Zuckerberg | — | 1 |
+| UNITED WE WIN SUPER PAC | $1,873,487 | 2 |
+| Independence Usa Pac | $1,465,072 | 2 |
+| THE MOBILIZATION PROJECT | $1,064,894 | 2 |
+| AMERICAN PRINCIPLES FUND | $511,500 | 2 |
+| AMERICAN COMMITMENT ACTION FUND | $371,600 | 2 |
+| POWERPACPLUS | $81,401 | 2 |
+| DREAM UNITED | $17,667 | 2 |
+| Dream Defenders Fight Pac | $3,516 | 2 |
+| Powerpacplus | — | 1 |
+| United We Win Super PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #cory-booker #democrat #new-jersey #senate #pharma #wall-street #criminal-justice #vegan #two-audience-problem #donor-class-override #revolving-door

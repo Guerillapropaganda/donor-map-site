@@ -88,18 +88,27 @@ employee-donor-count: 151
 **Sector:** Dark Money
 **EIN:** `461561597`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
-**Tracked relationships:** 3 edges in the canonical store
+**Tracked relationships:** 7 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
 | Barack Obama | — | 1 |
+| Jon Ossoff | — | 1 |
 | Donald Trump | — | 1 |
+| Linda McMahon | — | 1 |
+| Shelley Moore Capito | — | 1 |
 | John Cornyn | — | 1 |
+| Mark Takano | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #chamber-of-commerce #dark-money #lobbying #corporate #anti-labor #deregulation #tcja #pro-act #citizens-united #tort-reform #revolving-door #class-analysis

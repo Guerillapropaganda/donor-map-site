@@ -69,6 +69,10 @@ employee-donor-count: 1
 **Sector:** Mega-Donors
 **EIN:** `362167797`
 
+#### Class analysis
+
+**Class position:** `ruling-class`
+
 **Total political spend:** $108,324,551
 **Tracked relationships:** 6 edges in the canonical store
 
@@ -83,7 +87,7 @@ employee-donor-count: 1
 | Patrick McHenry | — | 1 |
 | DOGE - The Billionaires Government | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #griffin #citadel #hedge-fund #wall-street #class-analysis #follow-the-money #financial-deregulation #anti-tariff #desantis #republican

@@ -34,7 +34,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 **FEC candidate ID:** `S2OK00186`
 
 **Total received:** $4,666,234
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
@@ -44,10 +44,16 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DEFEND US PAC | $2,054,348 | 2 |
+| CRYPTO INNOVATION | $850,235 | 2 |
+| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $1,474 | 2 |
+| PERFORMANCE RACING INC. | $500 | 2 |
+| Performance Racing Inc. | — | 1 |
 | Devon Energy | — | 1 |
 | Fraternal Order of Police | — | 1 |
+| Defend US PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #markwayne-mullin #oklahoma #senate #republican #energy #cherokee #indigenous #armed-services #dhs-secretary #trump-cabinet #plumber #stock-trading

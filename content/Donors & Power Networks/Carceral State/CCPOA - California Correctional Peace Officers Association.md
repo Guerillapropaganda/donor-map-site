@@ -41,6 +41,11 @@ employee-donor-count: 2
 **Sector:** Carceral State
 **EIN:** `941490964`
 
+#### Class analysis
+
+**Capital type:** `carceral-capital`
+**Ideological function:** `carceral-expansion`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -51,7 +56,7 @@ employee-donor-count: 2
 | Chad Bianco | — | 1 |
 | Gavin Newsom | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #prison-guards #CCPOA #labor-union #carceral-state #class-analysis #reform-ceiling #california #follow-the-money #union-as-capital-instrument

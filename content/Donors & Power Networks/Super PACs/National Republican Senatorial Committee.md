@@ -49,16 +49,23 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Super PACs
 
-**Total political spend:** —
-**Tracked relationships:** 1 edges in the canonical store
+**Total political spend:** $31,519,246
+**Tracked relationships:** 15 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Jeanne Shaheen | $8,296,003 | 2 |
+| Patty Murray | $7,901,065 | 2 |
+| Joe Manchin | $7,213,530 | 2 |
+| Jeff Merkley | $5,166,418 | 2 |
+| Harry Reid | $2,150,022 | 2 |
+| Sheldon Whitehouse | $716,449 | 2 |
+| Jack Reed | $75,759 | 2 |
 | Rick Scott | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #nrsc #senate #republican #campaign #fundraising #party-committee #class-analysis #follow-the-money

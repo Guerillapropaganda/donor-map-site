@@ -97,6 +97,11 @@ employee-donor-count: 7
 **Sector:** Tech & Crypto
 **EIN:** `954538000`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $336,000
 **Tracked relationships:** 10 edges in the canonical store
 
@@ -115,7 +120,7 @@ employee-donor-count: 7
 | Mike Collins | — | 1 |
 | Hakeem Jeffries | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tech #industry #lobbying #section-230 #antitrust #ai #privacy #bipartisan

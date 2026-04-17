@@ -44,6 +44,12 @@ employee-donor-count: 1
 **Entity type:** donor
 **Sector:** Dark Money
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Class position:** `petty-bourgeois`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** $75,000
 **Tracked relationships:** 5 edges in the canonical store
 
@@ -57,7 +63,7 @@ employee-donor-count: 1
 | Sheldon Whitehouse | — | 1 |
 | Amy Coney Barrett | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #judicial-crisis-network #concord-fund #leonard-leo #scotus #dark-money #judicial-confirmations #class-analysis #follow-the-money #barre-seid #marble-freedom-trust #honest-elections-project #raga

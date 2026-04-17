@@ -77,6 +77,10 @@ employee-donor-count: 31124
 **Sector:** Gig Economy
 **EIN:** `383569669`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -87,7 +91,7 @@ employee-donor-count: 31124
 | Barack Obama | — | 1 |
 | Joe Biden | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #general-motors #gm #auto #detroit #bailout #ev #michigan #manufacturing #uaw

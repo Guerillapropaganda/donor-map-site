@@ -56,19 +56,29 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S8OR00207`
 
 **Total received:** $6,114,210
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Committees
 
 - Budget
 - Environment & Public Works
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Labor Unions
-- Small Dollar Donors
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $5,166,418 | 2 |
+| National Republican Senatorial Committee | $5,166,418 | 2 |
+| FREEDOM PARTNERS ACTION FUND INC | $2,028,031 | 2 |
+| SEIU COPE | $861,651 | 2 |
+| League of Conservation Voters | $591,357 | 2 |
+| AMERICAN FUTURE FUND POLITICAL ACTION | $330,000 | 2 |
+| Labor Unions | — | 1 |
+| American Future Fund Political Action | — | 1 |
+| California Nurses Association | — | 1 |
+| Freedom Partners Action Fund Inc | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jeff-merkley #democrat #oregon #senate #progressive #volcker-rule #wall-street-reform #housing #no-corporate-pac #budget #environment #class-analysis #follow-the-money

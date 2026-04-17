@@ -54,17 +54,25 @@ top-policy-area: "Health"
 **Bioguide ID:** `B001230`
 **FEC candidate ID:** `S2WI00219`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $1,179,681
+**Tracked donors:** 17 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Blue Cross Blue Shield Association
-- SEIU
-- EMILY's List
-- JStreetPAC
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Votevets | $548,176 | 2 |
+| HUMAN RIGHTS CAMPAIGN EQUALITY VOTES | $412,621 | 2 |
+| American Principles Project Pac | $205,000 | 2 |
+| LET AMERICA VOTE PAC | $8,884 | 2 |
+| Protect the Vote | $5,000 | 2 |
+| Let America Vote PAC | — | 1 |
+| UAW - United Auto Workers | — | 1 |
+| Insurance Industry | — | 1 |
+| AFGE - American Federation of Government Employees | — | 1 |
+| National Nurses United | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #baldwin #wisconsin #healthcare #labor #dairy #manufacturing #lgbtq #swing-state #help-committee #buy-american #class-analysis

@@ -34,14 +34,24 @@ urls-first-triaged: "2026-04-15"
 **Party:** Republican · **Chamber:** House · **State:** Georgia
 **FEC candidate ID:** `H0GA06192`
 
-**Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Total received:** $586,099
+**Tracked donors:** 14 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- MAGA Small Dollar Base
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| GEORGIANS FOR STRONG FAMILIES, INC. | $150,000 | 2 |
+| THE LINCOLN PROJECT | $131,892 | 2 |
+| VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE | $121,570 | 2 |
+| A GREAT AMERICA PAC | $109,304 | 2 |
+| DRAIN THE DC SWAMP PAC | $73,333 | 2 |
+| MAGA Small Dollar Base | — | 1 |
+| A Great America PAC | — | 1 |
+| The Lincoln Project | — | 1 |
+| Drain the DC Swamp PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #mtg #marjorie-taylor-greene #house #georgia #qanon #small-dollar #outrage-fundraising #conspiracy #trump-ally #doge #class-analysis #maga

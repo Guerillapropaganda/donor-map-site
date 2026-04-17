@@ -45,7 +45,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 **FEC candidate ID:** `H4AR02141`
 
 **Total received:** $3,232,609
-**Tracked donors:** 7 edges in the canonical store
+**Tracked donors:** 17 edges in the canonical store
 
 #### Committees
 
@@ -55,15 +55,18 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $3,277,086 | 2 |
+| HOUSE MAJORITY PAC | $2,770,089 | 2 |
+| DCCC | $2,177,334 | 2 |
+| WOMEN VOTE! | $1,150,306 | 2 |
+| Defend American Jobs | $1,013,508 | 2 |
 | Goldman Sachs | — | 1 |
 | Marc Andreessen & Horowitz | — | 1 |
 | Crypto Industry Bloc | — | 1 |
 | Fairshake PAC | — | 1 |
 | Coinbase | — | 1 |
-| Citigroup | — | 1 |
-| Bank of America | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #french-hill #republican #arkansas #house #committee-chair #financial-services #banking #crypto #wall-street #phase-6-gavel-power

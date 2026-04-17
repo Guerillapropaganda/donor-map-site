@@ -67,21 +67,28 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H6WA07458`
 
 **Total received:** $1,548,482
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Committees
 
 - Judiciary (Antitrust Subcommittee — former Chair)
 - Budget
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- SEIU — Service Employees International Union
-- CNA / National Nurses United
-- Small-dollar individual donors (ActBlue)
-- Education sector (teachers' unions)
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| WOMEN VOTE! | $564,061 | 2 |
+| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $94,608 | 2 |
+| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $25,017 | 2 |
+| PLANNED PARENTHOOD VOTES NORTHWEST | $19,132 | 2 |
+| ONEAMERICA VOTES | $9,956 | 2 |
+| Planned Parenthood Votes Northwest | — | 1 |
+| Oneamerica Votes | — | 1 |
+| National Nurses United for Patient Protection | — | 1 |
+| United Food and Commercial Workers International Union Active Ballot Club | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #pramila-jayapal #democrat #washington #house #progressive-caucus #medicare-for-all #immigration #labor #tech #seattle #antitrust

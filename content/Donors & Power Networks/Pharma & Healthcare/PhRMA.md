@@ -62,9 +62,14 @@ employee-donor-count: 228
 ### 📊 Live data panel
 
 **Entity type:** corporation
-**Sector:** Mega-Donors
+**Sector:** Pharma & Healthcare
+**EIN:** `530241211`
 
-**Total political spend:** $1,878,043
+#### Class analysis
+
+**Class position:** `upper-bourgeois`
+
+**Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
 #### Top politicians funded
@@ -74,7 +79,7 @@ employee-donor-count: 228
 | Brett Guthrie | — | 1 |
 | Richard Neal | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #pharma #healthcare #lobbying #corporation #medicare-part-d #ira #patent-thicket #dark-money #trade-association

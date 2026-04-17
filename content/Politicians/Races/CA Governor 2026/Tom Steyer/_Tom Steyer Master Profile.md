@@ -42,14 +42,20 @@ cash-on-hand: 46130
 **FEC candidate ID:** `P00012716`
 
 **Total received:** $353,041,956
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 7 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Michael Bloomberg
-- CNA - California Nurses Association
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| MISLOVE, ALAN EDWARD | $941 | 2 |
+| Climate Philanthropy - The Green Billionaires | — | 1 |
+| CNA - California Nurses Association | — | 1 |
+| Michael Bloomberg | — | 1 |
+| Mislove, Alan Edward | — | 1 |
+| National Progressive Donor Networks | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #tom-steyer #california #governor-2026 #billionaire #self-funded #hedge-fund #fossil-fuels #climate #class-analysis

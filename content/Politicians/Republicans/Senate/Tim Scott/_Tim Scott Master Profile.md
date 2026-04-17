@@ -53,7 +53,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `S4SC00240`
 
 **Total received:** $1,539
-**Tracked donors:** 7 edges in the canonical store
+**Tracked donors:** 8 edges in the canonical store
 
 #### Top donors
 
@@ -64,10 +64,11 @@ top-policy-area: "International Affairs"
 | Blue Shield of California | — | 1 |
 | Goldman Sachs | — | 1 |
 | Michael Bloomberg | — | 1 |
+| Blackstone | — | 1 |
 | AFGE - American Federation of Government Employees | — | 1 |
 | Senate Leadership Fund | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #republican #senate #south-carolina #opportunity-zones #corporate-donor #presidential #banking-committee #crypto #wall-street #israel-lobby

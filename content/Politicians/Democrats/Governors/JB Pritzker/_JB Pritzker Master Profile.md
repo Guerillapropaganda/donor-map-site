@@ -34,14 +34,17 @@ urls-first-triaged: "2026-04-15"
 **Party:** Democrat · **Chamber:** Governor · **State:** Illinois
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 3 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Democratic Governors Association
-- UNITE HERE
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Democratic Governors Association | — | 1 |
+| Illinois Future PAC | — | 1 |
+| UNITE HERE | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #jb-pritzker #democrat #governor #illinois #hyatt #billionaire #self-funded #2028 #class-analysis

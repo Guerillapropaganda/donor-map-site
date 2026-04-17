@@ -35,15 +35,19 @@ urls-first-triaged: "2026-04-15"
 **Chamber:** International
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 5 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Miriam Adelson
-- Haim Saban
-- AIPAC - American Israel Public Affairs Committee
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| AIPAC - American Israel Public Affairs Committee | — | 1 |
+| Haim Saban | — | 1 |
+| American Friends of the Likud | — | 1 |
+| Gulf State Money - Saudi Arabia, UAE, Qatar | — | 1 |
+| Miriam Adelson | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #master-profile #netanyahu #israel #prime-minister #likud #class-analysis #follow-the-money #settlements #adelson #corruption #aipac #surveillance #defense-industry #international

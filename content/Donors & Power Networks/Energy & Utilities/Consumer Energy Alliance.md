@@ -66,6 +66,11 @@ employee-donor-count: 1
 **Sector:** Energy & Utilities
 **EIN:** `261658339`
 
+#### Class analysis
+
+**Capital type:** `fossil-capital`
+**Ideological function:** `astroturf`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -75,7 +80,7 @@ employee-donor-count: 1
 |---|---:|---:|
 | Michael Whatley | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #fossil-fuel-astroturf #energy-lobby #dark-money #greenwashing #regulatory-capture

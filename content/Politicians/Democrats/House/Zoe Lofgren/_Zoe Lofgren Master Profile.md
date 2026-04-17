@@ -62,7 +62,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H4CA16049`
 
 **Total received:** $1,274,233
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 16 edges in the canonical store
 
 #### Committees
 
@@ -73,10 +73,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| CENTRAL COAST VALUES PAC | $349,671 | 2 |
+| RESOLUTE COURAGE PAC | $46,152 | 2 |
+| Courage California Super Pac | $2,301 | 2 |
+| SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1,795 | 2 |
+| OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | $1,772 | 2 |
+| Central Coast Values PAC | — | 1 |
 | Google - Alphabet | — | 1 |
+| Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and Public and Pr | — | 1 |
+| San Benito County Democratic Central Committee | — | 1 |
 | Tech Industry | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #zoe-lofgren #democrat #california #house #ranking-member #science-space-technology #silicon-valley #big-tech #immigration #h1b #antitrust #january-6 #apple #google #meta #phase-6-gavel-power

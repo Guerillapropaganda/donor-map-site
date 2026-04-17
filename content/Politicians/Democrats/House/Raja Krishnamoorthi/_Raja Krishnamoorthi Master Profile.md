@@ -65,7 +65,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H6IL08147`
 
 **Total received:** $3,915,957
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -73,7 +73,20 @@ top-policy-area: "Health"
 - House Permanent Select Committee on Intelligence
 - House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| VICTORY FOR SCHAUMBURG | $6,171 | 2 |
+| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $2,092 | 2 |
+| TOGETHER WE THRIVE | $750 | 2 |
+| Planned Parenthood Votes | $195 | 2 |
+| NEA ADVOCACY FUND | $67 | 2 |
+| NEA Advocacy Fund | — | 1 |
+| Victory for Schaumburg | — | 1 |
+| Together We Thrive | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #raja-krishnamoorthi #illinois #house #democrat #oversight #tech #tiktok #india #ccp-committee #senate-2026 #maga-donors

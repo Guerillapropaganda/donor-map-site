@@ -77,6 +77,10 @@ employee-donor-count: 1263
 **Sector:** Energy & Utilities
 **EIN:** `136082357`
 
+#### Class analysis
+
+**Capital type:** `fossil-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 8 edges in the canonical store
 
@@ -93,7 +97,7 @@ employee-donor-count: 1263
 | Joe Manchin | — | 1 |
 | John Barrasso | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #fossil-fuel #oil-gas #exxonmobil #climate #lobbying #bipartisan #donor #class-analysis #follow-the-money

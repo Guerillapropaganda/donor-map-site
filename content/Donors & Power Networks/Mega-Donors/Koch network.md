@@ -40,18 +40,26 @@ checklist-na:
 **Entity type:** donor
 **Sector:** Mega-Donors
 
+#### Class analysis
+
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
-**Tracked relationships:** 3 edges in the canonical store
+**Tracked relationships:** 7 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
 | Mike Lee | — | 1 |
+| Bryan Steil | — | 1 |
 | John Boehner | — | 1 |
+| Jerry Moran | — | 1 |
+| Pete Hegseth | — | 1 |
+| Shelley Moore Capito | — | 1 |
 | Paul Ryan | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #koch #network #dark-money #libertarian #deregulation #afp

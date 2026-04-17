@@ -63,19 +63,29 @@ top-policy-area: "Congress"
 **Bioguide ID:** `S000148`
 
 **Total received:** —
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 12 edges in the canonical store
 
 #### Committees
 
 - Senate Committee on Rules and Administration
 - Senate Select Committee on Intelligence
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Goldman Sachs
-- AIPAC - American Israel Public Affairs Committee
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| Majority Forward | — | 1 |
+| Morgan Stanley | — | 1 |
+| Blackstone Group | — | 1 |
+| Google - Alphabet | — | 1 |
+| Senate Majority PAC | — | 1 |
+| Citigroup | — | 1 |
+| AIPAC - American Israel Public Affairs Committee | — | 1 |
+| Democratic Small Dollar Networks | — | 1 |
+| Mark Zuckerberg | — | 1 |
+| DSCC - Democratic Senatorial Campaign Committee | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #chuck-schumer #senate #majority-leader #new-york #wall-street #aipac #dark-money #class-analysis

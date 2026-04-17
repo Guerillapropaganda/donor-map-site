@@ -63,14 +63,23 @@ donors: "[[Fairshake PAC]] · [[United Democracy Project - UDP]] · [[Think Big 
 **FEC candidate ID:** `H2IL08088`
 
 **Total received:** $2,292,879
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Think Big AI PAC
-- AIPAC
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $4,693,598 | 2 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,860,255 | 2 |
+| NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $464,668 | 2 |
+| NEW HOUSE PAC | $47,072 | 2 |
+| Fairshake PAC | — | 1 |
+| New House PAC | — | 1 |
+| Think Big AI PAC | — | 1 |
+| Brady Campaign | — | 1 |
+| United Democracy Project - UDP | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #democrat #politician #house

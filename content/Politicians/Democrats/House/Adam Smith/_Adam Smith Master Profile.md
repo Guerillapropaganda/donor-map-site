@@ -66,7 +66,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H6WA09025`
 
 **Total received:** $786,535
-**Tracked donors:** 8 edges in the canonical store
+**Tracked donors:** 23 edges in the canonical store
 
 #### Committees
 
@@ -76,16 +76,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| NARAL | $48,944 | 2 |
+| SUSAN B ANTHONY LIST INC | $39,906 | 2 |
+| TOGETHER FOR PROGRESS PAC | $7,797 | 2 |
+| PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | 2 |
+| THE 60 PLUS ASSOCIATION | $6,122 | 2 |
 | Raytheon (RTX Corporation) | — | 1 |
+| The 60 Plus Association | — | 1 |
 | National Restaurant Association | — | 1 |
 | American Gaming Association | — | 1 |
-| Lockheed Martin | — | 1 |
-| Tech Industry | — | 1 |
-| Boeing | — | 1 |
-| National Association of Manufacturers | — | 1 |
-| Northrop Grumman | — | 1 |
+| Together for Progress PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #adam-smith #democrat #washington #house #ranking-member #armed-services #defense #military-industrial-complex #phase-6-gavel-power

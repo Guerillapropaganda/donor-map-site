@@ -54,13 +54,26 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S6OR00110`
 
 **Total received:** $133,281
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
 - Finance
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+#### Top donors
+
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| SIERRA CLUB POLITICAL COMMITTEE | $64,524 | 2 |
+| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $13,477 | 2 |
+| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $1,239 | 2 |
+| SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.) | $679 | 2 |
+| POLITICAL ACTION FOR LASTING SECURITY | $80 | 2 |
+| National Committee to Preserve Social Security PAC | — | 1 |
+| Sierra Club Political Committee | — | 1 |
+| Political Action for Lasting Security | — | 1 |
+
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #ron-wyden #democrat #oregon #senate #ranking-member #phase-6-gavel-power #finance #tax-policy #privacy #tech #class-analysis #follow-the-money

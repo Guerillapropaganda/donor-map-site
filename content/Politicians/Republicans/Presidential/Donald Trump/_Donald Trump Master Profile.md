@@ -83,7 +83,7 @@ proclamations: 706
 | RNC - Republican National Committee | $29,255,723 | 1 |
 | Rbg Pac | $20,476,000 | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #trump #master-profile #president #republican #class-analysis #follow-the-money #fascist #grifter #billionaire-populism #donor-class #oligarch
@@ -98,13 +98,13 @@ Born into wealth, not self-made, despite the mythology. Fred Trump's real estate
 
 ## Class Analysis
 
-Donald Trump is not a servant of the donor class. He is an extraction machine that happens to align with donor-class interests when the price is right. The distinction matters: a captured politician serves one master. Trump runs a multi-directional grift, extracting from the billionaire class (access-selling, deregulation), from the working class (branded merchandise, crypto scams, culture war distraction), and from the state itself (federal contracts, tax policy, direct personal enrichment through presidential power).
+Trump's pitch is that he's the enemy of the elite. The billionaires laugh at that pitch because they wrote the check that bought the megaphone. Six of them put up nine-figure sums for the 2024 campaign. They weren't buying a populist. They were buying the performance of populism, because a president who can convince a factory worker in Ohio that Wall Street is the enemy while signing Wall Street's tax bill is worth every penny.
 
-The 2024 funding structure reveals the class architecture. $1.45 billion raised. 44% from just 10 megadonors. Six individuals gave over $100 million each: Timothy Mellon ($125-197M, banking heir), Elon Musk ($292M total, holds $38B+ in federal contracts), Miriam Adelson ($100-148M, Israel maximalism), the Uihleins ($100M+, far-right infrastructure), Kenneth Griffin ($100M+, financial deregulation), Jeffrey Yass ($100M+, TikTok stake protection). Small-dollar donations collapsed from 50% in 2020 to under 30% in 2024. The populist movement is funded by oligarchs. The hat says "Make America Great Again." The check says "Make My Portfolio Tax-Free."
+The working-class authenticity is the product. The working class is the customer base. Branded Bibles, meme coins, NFTs, gold sneakers — every grift Trump runs extracts from the same people the hat is supposed to represent. His personal media company trades at billions despite negligible revenue because the stock is a loyalty token, not an equity. When an Ohio retiree buys $DJT at a premium, they aren't investing. They're tithing.
 
-The policy returns are explicit and documented. Fossil fuel industry ($75M+) got a declared energy emergency, drilling expansion, EPA weakened, methane limits delayed, and 31 environmental rules targeted for rollback. Crypto industry ($13.5M to inaugural alone) got a strategic Bitcoin reserve, CBDC banned, Biden-era oversight repealed, and a president personally profiting from the asset class he deregulates ($TRUMP meme coin, World Liberty Financial generating $460M+ for the family in H1 2025). Defense/surveillance (Peter Thiel/Palantir) got contracts doubling from $541M to $970.5M in one year. Private prisons (CoreCivic, GEO Group, $500K each) got immigration enforcement expansion filling their beds.
+And the policy returns flow exactly where the money came from. The fossil-fuel industry bought a declared energy emergency. The crypto industry bought a strategic Bitcoin reserve and a Biden-era oversight repeal — then watched the president launch his own meme coin and his family's crypto venture, profiting personally from the asset class he was deregulating. Defense contractors bought a doubling of Palantir's contracts. Private prisons bought an immigration crackdown that fills their beds. The through-line is never ideology. It's invoice.
 
-The structural innovation Trump represents is the merger of state power and personal enrichment at a scale unprecedented in American history. The wealthiest cabinet in history. DOGE run by a billionaire targeting agencies that regulate his own companies. A media company ($DJT) valued at billions despite negligible revenue. Branded Bibles, NFTs, crypto coins, and a gold sneaker line extracting money from supporters. The presidency is not a public office in this model. It is a holding company. The working-class voters who wear the hat are the customer base. The billionaires who write the checks are the shareholders. And the president is the CEO who takes a cut of everything.
+The innovation is that Trump didn't just serve capital. He merged the presidency with a personal holding company and treats both the working class and the donor class as revenue streams. The wealthiest cabinet in American history runs DOGE, an agency invented to cut government spending on everyone except the billionaires inside the agency. The John Doe who drove through three states to see the rally is paying for the tax cut he'll never receive. The populist frame doesn't break the grift. The populist frame IS the grift.
 
 ---
 

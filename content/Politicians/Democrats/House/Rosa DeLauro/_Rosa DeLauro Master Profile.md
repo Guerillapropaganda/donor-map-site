@@ -66,7 +66,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `H0CT03072`
 
 **Total received:** $689,298
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 17 edges in the canonical store
 
 #### Committees
 
@@ -76,11 +76,18 @@ top-policy-area: "Health"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| Wfp Ie Committee | $155,000 | 2 |
+| AMERICAN HOSPITAL ASSOCIATION PAC | $100,000 | 2 |
+| CLEAN UP CONGRESS | $9,464 | 2 |
+| CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT | $5,075 | 2 |
+| MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE | $4,496 | 2 |
+| Clean Up Congress | — | 1 |
 | Lockheed Martin | — | 1 |
 | Bill Gates | — | 1 |
-| Raytheon (RTX Corporation) | — | 1 |
+| Mid-America Conservative Political Action Committee | — | 1 |
+| American Hospital Association PAC | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #rosa-delauro #democrat #connecticut #house #appropriations #ranking-member #phase-6-gavel-power

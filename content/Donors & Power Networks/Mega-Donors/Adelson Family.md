@@ -37,6 +37,10 @@ checklist-na:
 **Sector:** Mega-Donors
 **EIN:** `223769645`
 
+#### Class analysis
+
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $1,000
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -46,7 +50,7 @@ checklist-na:
 |---|---:|---:|
 | Nikki Haley | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #adelson #mega-donor #republican #israel #casino #las-vegas #sheldon #miriam #las-vegas-sands #wire-act #online-gambling #class-analysis #follow-the-money #preserve-america #anti-online-gambling

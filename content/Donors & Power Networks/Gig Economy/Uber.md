@@ -115,6 +115,10 @@ employee-donor-count: 1603
 **Sector:** Gig Economy
 **EIN:** `884207935`
 
+#### Class analysis
+
+**Capital type:** `tech-monopoly`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -125,7 +129,7 @@ employee-donor-count: 1603
 | Donald Trump | — | 1 |
 | Gavin Newsom | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #gig-economy #tech #uber #labor-opponent #prop-22 #AB5 #follow-the-money #silicon-valley #california #uber-innovation-pac #flex-association

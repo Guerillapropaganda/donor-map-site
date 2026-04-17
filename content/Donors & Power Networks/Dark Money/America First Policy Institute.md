@@ -45,6 +45,11 @@ employee-donor-count: 20
 **Sector:** Dark Money
 **EIN:** `854202763`
 
+#### Class analysis
+
+**Capital type:** `dark-money-vehicle`
+**Ideological function:** `dark-money-networked`
+
 **Total political spend:** —
 **Tracked relationships:** 1 edges in the canonical store
 
@@ -54,7 +59,7 @@ employee-donor-count: 20
 |---|---:|---:|
 | Linda McMahon | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #afpi #trump #think-tank #project-2025 #transition #dark-money #maga

@@ -122,6 +122,10 @@ employee-donor-count: 6120
 **Sector:** Defense & Intelligence
 **EIN:** `916056255`
 
+#### Class analysis
+
+**Capital type:** `military-industrial`
+
 **Total political spend:** —
 **Tracked relationships:** 12 edges in the canonical store
 
@@ -140,7 +144,7 @@ employee-donor-count: 6120
 | Jack Reed | — | 1 |
 | Patty Murray | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor-node #defense #aerospace #boeing #bipartisan #safety-failures #revolving-door #class-analysis #donor

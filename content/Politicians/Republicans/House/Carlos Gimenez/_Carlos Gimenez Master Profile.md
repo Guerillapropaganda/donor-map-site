@@ -68,7 +68,7 @@ top-policy-area: "International Affairs"
 **FEC candidate ID:** `H0FL26036`
 
 **Total received:** $301,979
-**Tracked donors:** 3 edges in the canonical store
+**Tracked donors:** 13 edges in the canonical store
 
 #### Committees
 
@@ -78,11 +78,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| DCCC | $7,775,420 | 2 |
+| HOUSE MAJORITY PAC | $7,741,557 | 2 |
+| LCV VICTORY FUND | $1,471,580 | 2 |
+| South Florida Residents First | $1,071,310 | 2 |
+| WOMEN VOTE! | $943,110 | 2 |
 | Fanjul Family - Florida Crystals | — | 1 |
 | MasTec - Mas Canosa Family | — | 1 |
 | Bacardi - Bacardi USA | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #republican #house #florida #cuba #miami #real-estate #defense #class-analysis #follow-the-money #crowley #transportation

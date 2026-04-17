@@ -71,7 +71,7 @@ top-policy-area: "Health"
 **FEC candidate ID:** `S2MA00170`
 
 **Total received:** $3,079,771
-**Tracked donors:** 0 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
@@ -80,15 +80,22 @@ top-policy-area: "Health"
 - Armed Services
 - Health, Education, Labor & Pensions
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Small-dollar individual donors (2024: 96.2% of $9.04M raised)
-- Education / Academia sector
-- Law & Legal Services sector
-- ActBlue (platform)
-- Emily's List
+| Donor | Amount | Edge count |
+|---|---:|---:|
+| AMERICA 360 COMMITTEE | $1,693,306 | 2 |
+| Crossroads Grassroots Policy Strategies | $1,198,424 | 2 |
+| FUTURE45 | $1,015,974 | 2 |
+| AMERICANS FOR TAX REFORM | $878,468 | 2 |
+| COMMONWEALTH UNITY FUND | $785,000 | 2 |
+| Democratic Small Dollar Networks | — | 1 |
+| Boeing | — | 1 |
+| Commonwealth Unity Fund | — | 1 |
+| Crypto Industry Bloc | — | 1 |
+| Emily's List | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #democrat #senate #massachusetts #2026-election #cfpb #wall-street #consumer-protection #class-analysis #financial-regulation #small-dollar

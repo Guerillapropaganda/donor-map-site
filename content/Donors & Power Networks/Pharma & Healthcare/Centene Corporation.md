@@ -94,6 +94,10 @@ employee-donor-count: 945
 **Sector:** Pharma & Healthcare
 **EIN:** `851888769`
 
+#### Class analysis
+
+**Capital type:** `pharma-capital`
+
 **Total political spend:** —
 **Tracked relationships:** 2 edges in the canonical store
 
@@ -104,7 +108,7 @@ employee-donor-count: 945
 | Jon Husted | — | 1 |
 | Joe Manchin | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #centene #managed-care #medicaid #healthcare #lobbying #privatization #aca

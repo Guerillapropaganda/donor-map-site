@@ -38,15 +38,17 @@ individual-contributions: 6964500
 **EIN:** `884013706`
 
 **Total political spend:** —
-**Tracked relationships:** 1 edges in the canonical store
+**Tracked relationships:** 3 edges in the canonical store
 
 #### Top politicians funded
 
 | Politician | Amount | Edge count |
 |---|---:|---:|
+| Juliana Stratton | — | 1 |
+| JB Pritzker (Donor Network) | — | 1 |
 | JB Pritzker | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #illinois-future-pac #pritzker #super-pac #illinois #democratic #governor

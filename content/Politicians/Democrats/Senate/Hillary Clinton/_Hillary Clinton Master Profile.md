@@ -47,16 +47,23 @@ urls-first-triaged: "2026-04-15"
 **FEC candidate ID:** `S0NY00188`
 
 **Total received:** $7,102,485
-**Tracked donors:** 2 edges in the canonical store
+**Tracked donors:** 14 edges in the canonical store
 
 #### Top donors
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| KENTUCKIANS FOR STRONG LEADERSHIP | $740,554 | 2 |
+| UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $313,693 | 2 |
+| FAIR SHARE ACTION | $280,231 | 2 |
+| STOP UNION POLITICAL ABUSE (SUPA) | $202,500 | 2 |
+| CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE | $163,990 | 2 |
+| Kentuckians for Strong Leadership | — | 1 |
+| Fair Share Action | — | 1 |
 | Entertainment and Hollywood Donors | — | 1 |
 | Media Matters | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #politician #donor-captured #wall-street #two-audience-problem

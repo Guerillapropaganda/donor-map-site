@@ -103,6 +103,11 @@ employee-donor-count: 15
 **Sector:** Agriculture
 **EIN:** `360725160`
 
+#### Class analysis
+
+**Capital type:** `agribusiness-capital`
+**Class position:** `petty-bourgeois`
+
 **Total political spend:** $44,294
 **Tracked relationships:** 3 edges in the canonical store
 
@@ -114,7 +119,7 @@ employee-donor-count: 15
 | Frank Lucas | — | 1 |
 | Jodey Arrington | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #donor #agriculture #lobbying #insurance #corporate-agriculture #epa #deregulation #farm-bill #trade #labor

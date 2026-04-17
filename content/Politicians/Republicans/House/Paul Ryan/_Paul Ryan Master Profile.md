@@ -41,7 +41,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 **FEC candidate ID:** `H8WI01024`
 
 **Total received:** $483,642,897
-**Tracked donors:** 6 edges in the canonical store
+**Tracked donors:** 18 edges in the canonical store
 
 #### Committees
 
@@ -51,14 +51,18 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount | Edge count |
 |---|---:|---:|
+| PRIORITIES USA ACTION | $112,336,878 | 2 |
+| Restore Our Future, Inc. | $23,749,265 | 2 |
+| Winning Our Future | $15,418,720 | 2 |
+| AMERICAN CROSSROADS | $11,481,126 | 2 |
+| Americans for Responsible Leadership | $9,633,565 | 2 |
+| American Crossroads | — | 1 |
+| Koch Network | — | 1 |
 | Mark Zuckerberg | — | 1 |
 | Koch network | — | 1 |
 | Goldman Sachs | — | 1 |
-| Jewish Democratic Council of America | — | 1 |
-| JPMorgan Chase | — | 1 |
-| American Iron and Steel Institute | — | 1 |
 
-_Data panel computed at build time from `data/entities.jsonl` + `data/relationships.jsonl`. Regenerate via `node scripts/build-profile-data-panels.cjs --write`. Part of [[Build Phases|Phase 3]]._
+<!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
 #paul-ryan #speaker-of-house #tax-cuts-jobs-act #deficit-hawk #koch-network #fox-corporation #finance #class-analysis
