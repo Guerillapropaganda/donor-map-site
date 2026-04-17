@@ -234,12 +234,14 @@ HeroContradiction.css = `
 
 .hero-contradiction-claim p,
 .hero-contradiction-revelation p {
-  font-family: "Instrument Serif", serif;
+  font-family: "Space Grotesk", "Inter", sans-serif;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 1.35;
   color: var(--dark);
   margin: 0;
-  font-style: italic;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
 .hero-contradiction-revelation {
@@ -250,8 +252,7 @@ HeroContradiction.css = `
 }
 
 .hero-contradiction-revelation p {
-  font-style: normal;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .hero-contradiction-link {
