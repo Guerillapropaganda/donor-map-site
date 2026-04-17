@@ -702,12 +702,24 @@ function initCanvasGraph() {
     expandBtn.onclick = function(e) {
       e.preventDefault();
       e.stopPropagation();
-      var isFullscreen = container.classList.toggle('pw-graph-fullscreen');
-      if (isFullscreen) {
+      var goingFullscreen = !container.classList.contains('pw-graph-fullscreen');
+      if (goingFullscreen) {
+        // Save the original parent + next sibling so we can restore on exit.
+        // Moving to document.body escapes every ancestor stacking context
+        // (transform, filter, will-change) that would otherwise trap
+        // position:fixed and let other elements paint on top.
+        container.__pwOrigParent = container.parentNode;
+        container.__pwOrigNext = container.nextSibling;
+        document.body.appendChild(container);
+        container.classList.add('pw-graph-fullscreen');
         expandBtn.innerHTML = '✕';
         expandBtn.title = 'Close fullscreen';
         document.body.style.overflow = 'hidden';
       } else {
+        container.classList.remove('pw-graph-fullscreen');
+        if (container.__pwOrigParent) {
+          container.__pwOrigParent.insertBefore(container, container.__pwOrigNext || null);
+        }
         expandBtn.innerHTML = '⤢';
         expandBtn.title = 'Expand graph to full view';
         document.body.style.overflow = '';
@@ -723,6 +735,10 @@ function initCanvasGraph() {
       var c = document.querySelector('.pw-canvas-graph.pw-graph-fullscreen');
       if (!c) return;
       c.classList.remove('pw-graph-fullscreen');
+      // Restore to original parent if we moved it to document.body
+      if (c.__pwOrigParent) {
+        c.__pwOrigParent.insertBefore(c, c.__pwOrigNext || null);
+      }
       var btn = c.querySelector('.pw-graph-expand');
       if (btn) { btn.innerHTML = '⤢'; btn.title = 'Expand graph to full view'; }
       document.body.style.overflow = '';
@@ -1498,16 +1514,23 @@ a.pw-bs-recip:hover {
   background: #fbbf24;
 }
 
-/* Fullscreen modal state */
+/* Fullscreen modal state — relies on JS moving the container to body so
+   it escapes any ancestor stacking context (transforms, sticky parents). */
 .pw-canvas-graph.pw-graph-fullscreen {
   position: fixed;
-  top: 0;
-  left: 0;
+  inset: 0;
   width: 100vw;
   height: 100vh;
-  z-index: 9999;
+  z-index: 2147483647;
   border: none;
   background: rgba(10, 10, 10, 0.98);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pw-canvas-graph.pw-graph-fullscreen svg.pw-d3-svg {
+  width: 100vw;
   height: 100vh;
 }
 
