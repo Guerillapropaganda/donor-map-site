@@ -86,8 +86,14 @@ const AnnotationOverlay: QuartzComponent = () => {
 
 AnnotationOverlay.afterDOMLoaded = `
 (function() {
-  // Gate on admin-mode class set by AdminBar
+  // Gate on admin session — two signals, either one is enough:
+  //   1. body.admin-mode class set by AdminBar
+  //   2. localStorage['donor-map-admin'] present (survives page reload
+  //      without needing AdminBar to have run yet)
   function checkAdminMode() {
+    try {
+      if (localStorage.getItem('donor-map-admin')) return true;
+    } catch(e) {}
     return document.body.classList.contains('admin-mode');
   }
 
@@ -584,10 +590,20 @@ AnnotationOverlay.afterDOMLoaded = `
       else if (e.key === 'c' || e.key === 'C') { e.preventDefault(); clearAll(); }
     });
 
-    // Watch body class for admin-mode changes
+    // Watch body class for admin-mode changes (handles login/logout)
     var bodyObs = new MutationObserver(syncTriggerVisibility);
     bodyObs.observe(document.body, { attributes: true, attributeFilter: ['class'] });
     syncTriggerVisibility();
+
+    // Belt-and-suspenders: poll every 500ms for the first 3s in case the
+    // AdminBar auth init is slow or the body class was set before our
+    // observer attached.
+    var pollCount = 0;
+    var poll = setInterval(function() {
+      pollCount++;
+      syncTriggerVisibility();
+      if (pollCount >= 6) clearInterval(poll);
+    }, 500);
   }
 
   wire();
