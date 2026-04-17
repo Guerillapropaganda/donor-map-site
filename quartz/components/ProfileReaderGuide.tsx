@@ -132,92 +132,128 @@ const ProfileReaderGuide: QuartzComponent = ({ fileData }: QuartzComponentProps)
 ProfileReaderGuide.afterDOMLoaded = `
 (function() {
   var STORAGE_KEY = 'donormap:reader-guide-seen';
-  function wireGuide() {
-    var guide = document.querySelector('.prg-guide');
-    if (!guide || guide.dataset.wired === 'true') return;
-    guide.dataset.wired = 'true';
 
+  function setState(guide, open) {
     var toggle = guide.querySelector('.prg-toggle');
     var details = guide.querySelector('.prg-details');
     var icon = guide.querySelector('.prg-toggle-icon');
-    if (!toggle || !details || !icon) return;
-
-    // First-time visitors see the guide expanded. Repeat readers see it
-    // collapsed (they already know how to read the page).
-    var seen = false;
-    try { seen = localStorage.getItem(STORAGE_KEY) === '1'; } catch(e) {}
-    if (!seen) {
-      details.hidden = false;
+    if (!toggle || !details) return;
+    if (open) {
+      details.removeAttribute('hidden');
+      details.style.display = 'block';
       toggle.setAttribute('aria-expanded', 'true');
-      icon.textContent = '▲';
-    }
-
-    toggle.addEventListener('click', function() {
-      var nowOpen = details.hidden;
-      details.hidden = !nowOpen;
-      toggle.setAttribute('aria-expanded', nowOpen ? 'true' : 'false');
-      icon.textContent = nowOpen ? '▲' : '▼';
-      if (nowOpen) {
-        try { localStorage.setItem(STORAGE_KEY, '1'); } catch(e) {}
-      }
-    });
-
-    // Clicking the summary bar itself also toggles — bigger hit target
-    var summary = guide.querySelector('.prg-summary');
-    if (summary) {
-      summary.style.cursor = 'pointer';
-      summary.addEventListener('click', function() { toggle.click(); });
+      if (icon) icon.textContent = '▲';
+      guide.classList.add('prg-open');
+      try { localStorage.setItem(STORAGE_KEY, '1'); } catch(e) {}
+    } else {
+      details.setAttribute('hidden', '');
+      details.style.display = 'none';
+      toggle.setAttribute('aria-expanded', 'false');
+      if (icon) icon.textContent = '▼';
+      guide.classList.remove('prg-open');
     }
   }
-  wireGuide();
-  document.addEventListener('nav', function() { setTimeout(wireGuide, 100); });
+
+  function initGuide() {
+    var guide = document.querySelector('.prg-guide');
+    if (!guide) return;
+    // First-time visitors see expanded. Returning readers see collapsed.
+    var seen = false;
+    try { seen = localStorage.getItem(STORAGE_KEY) === '1'; } catch(e) {}
+    setState(guide, !seen);
+  }
+
+  // Event delegation on document — survives SPA nav, reattaching to new
+  // DOM instances without needing per-element wiring flags.
+  if (!window.__prgDelegated) {
+    window.__prgDelegated = true;
+    document.addEventListener('click', function(e) {
+      var target = e.target;
+      if (!target || !target.closest) return;
+      var hit = target.closest('.prg-toggle, .prg-summary, .prg-header');
+      if (!hit) return;
+      var guide = hit.closest('.prg-guide');
+      if (!guide) return;
+      e.preventDefault();
+      e.stopPropagation();
+      var isOpen = guide.classList.contains('prg-open');
+      setState(guide, !isOpen);
+    });
+  }
+
+  initGuide();
+  document.addEventListener('nav', function() { setTimeout(initGuide, 100); });
 })();
 `
 
 ProfileReaderGuide.css = `
 .prg-guide {
-  border: 2px solid #0a0a0a;
-  border-left: 6px solid #fbbf24;
+  border: 3px solid #0a0a0a;
+  border-left: 8px solid #fbbf24;
   background: #fff;
-  padding: 12px 16px;
-  margin: 0 0 20px;
-  font-family: "Space Grotesk", sans-serif;
+  padding: 14px 18px;
+  margin: 0 0 24px;
+  font-family: "Inter", "Space Grotesk", sans-serif;
+  position: relative;
+}
+
+.prg-guide::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  right: 4px;
+  bottom: 4px;
+  border: 1px solid #fbbf24;
+  pointer-events: none;
+  opacity: 0.3;
 }
 
 .prg-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  user-select: none;
 }
 
 .prg-label {
-  font-family: "Space Mono", monospace;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.2em;
+  font-family: "Inter", sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
   color: #0a0a0a;
   text-transform: uppercase;
+  line-height: 1;
 }
 
 .prg-toggle {
-  background: none;
-  border: 1px solid #0a0a0a;
-  width: 24px;
-  height: 24px;
-  font-size: 10px;
+  background: #0a0a0a;
+  border: 2px solid #0a0a0a;
+  width: 32px;
+  height: 32px;
+  font-size: 12px;
   font-family: "Space Mono", monospace;
+  font-weight: 700;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 0;
-  color: #0a0a0a;
-  transition: background 0.15s;
+  color: #fbbf24;
+  transition: all 0.15s;
+  flex-shrink: 0;
 }
 
 .prg-toggle:hover {
   background: #fbbf24;
+  color: #0a0a0a;
+}
+
+.prg-guide.prg-open .prg-toggle {
+  background: #fbbf24;
+  color: #0a0a0a;
 }
 
 .prg-toggle-icon {
@@ -225,47 +261,61 @@ ProfileReaderGuide.css = `
 }
 
 .prg-summary {
-  font-size: 15px;
-  line-height: 1.4;
+  font-family: "Inter", "Space Grotesk", sans-serif;
+  font-size: 17px;
+  line-height: 1.35;
   color: #0a0a0a;
+  font-weight: 500;
+  cursor: pointer;
+  user-select: none;
 }
 
 .prg-summary strong {
-  font-weight: 800;
+  font-weight: 900;
+  letter-spacing: -0.01em;
 }
 
 .prg-details {
-  margin-top: 14px;
-  padding-top: 12px;
-  border-top: 1px solid #e5e5e5;
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 2px solid #0a0a0a;
 }
 
 .prg-details-label {
-  font-family: "Space Mono", monospace;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.2em;
-  color: #666;
+  font-family: "Inter", sans-serif;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.15em;
+  color: #0a0a0a;
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
+  padding: 4px 8px;
+  background: #fbbf24;
+  display: inline-block;
 }
 
 .prg-tabs-list {
   list-style: none;
   padding: 0;
-  margin: 0 0 12px;
+  margin: 0 0 14px;
 }
 
 .prg-tab-row {
-  font-size: 13px;
-  line-height: 1.5;
-  padding: 3px 0;
+  font-family: "Inter", "Space Grotesk", sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 4px 0;
   color: #222;
 }
 
 .prg-tab-name {
-  font-weight: 700;
+  font-weight: 800;
   color: #0a0a0a;
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  min-width: 110px;
 }
 
 .prg-tab-dash {
@@ -274,26 +324,38 @@ ProfileReaderGuide.css = `
 }
 
 .prg-tab-what {
-  color: #555;
+  color: #333;
+  font-weight: 500;
 }
 
 .prg-closer {
+  font-family: "Inter", "Space Grotesk", sans-serif;
   font-size: 13px;
-  line-height: 1.5;
-  color: #444;
-  padding-top: 8px;
-  border-top: 1px dashed #e5e5e5;
+  line-height: 1.55;
+  color: #333;
+  padding-top: 10px;
+  margin-top: 10px;
+  border-top: 1px solid #ddd;
+  font-weight: 500;
 }
 
 @media (max-width: 600px) {
   .prg-guide {
-    padding: 10px 12px;
+    padding: 12px 14px;
   }
   .prg-summary {
-    font-size: 14px;
+    font-size: 15px;
   }
   .prg-tab-row {
-    font-size: 12px;
+    font-size: 13px;
+  }
+  .prg-tab-name {
+    display: block;
+    min-width: 0;
+    margin-bottom: 2px;
+  }
+  .prg-tab-dash {
+    display: none;
   }
 }
 `
