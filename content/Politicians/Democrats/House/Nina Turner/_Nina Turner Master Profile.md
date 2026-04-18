@@ -2,7 +2,7 @@
 title: Nina Turner
 type: politician
 content-readiness: ready
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: null
 parent: null
 party: Democrat
@@ -14,7 +14,7 @@ issues:
   - Medicare for All
   - Israel & Foreign Policy
   - Labor
-related: "[[_Bernie Sanders Master Profile]] · [[_Shontel Brown Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]]"
+related: "[[_Bernie Sanders Master Profile]] · [[_Shontel Brown Master Profile]] · [[DMFI - Democratic Majority for Israel]] · [[Justice Democrats and Brand New Congress - The Infrastructure He Built]] · [[Third Way]]"
 opposes:
   - DMFI PAC
   - Shontel Brown
@@ -28,7 +28,7 @@ last-enriched: "2026-04-10"
 total-received: $7,693,038
 fec-candidate-id: H2OH11151
 top-donors: "[[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[The Democratic Action PAC]]"
-donors: "[[The Democratic Action PAC]] · [[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]]"
+donors: "[[The Democratic Action PAC]] · [[Wfp Ie Committee]] · [[THE DEMOCRATIC ACTION PAC]] · [[Mainstream Democrats Pac]]"
 urls-first-triaged: "2026-04-15"
 ---
 

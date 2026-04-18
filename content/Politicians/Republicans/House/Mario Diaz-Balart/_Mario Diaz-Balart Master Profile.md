@@ -4,7 +4,7 @@ type: politician
 bioguide-id: D000600
 content-readiness: ready
 central-thesis: Diaz-Balart is the legislative architect of the Cuba embargo's permanence. His Appropriations position — specifically the NSRP subcommittee chairmanship — gives him direct control over State Department funding, Cuba democracy programs, Radio/TV Ma...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -21,7 +21,7 @@ top-donors:
   - Fanjul Family - Florida Crystals
   - AIPAC
 donors: "[[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]] · [[Bacardi - Bacardi USA]] · [[NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE]] · [[Fanjul Family - Florida Crystals]] · [[GIFFORDS PAC]] · [[Change Now]]"
-related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+related: "[[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[_Donald Trump Master Profile|Trump]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[House Majority PAC]]"
 total-received: $1,175,788
 fec-candidate-id: H2FL25018
 needs-reenrichment: true

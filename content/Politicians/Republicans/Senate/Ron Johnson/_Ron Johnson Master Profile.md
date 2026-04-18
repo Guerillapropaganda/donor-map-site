@@ -4,7 +4,7 @@ type: politician
 bioguide-id: J000293
 content-readiness: ready
 central-thesis: Johnson's donor-class function is to serve as the billionaire manufacturing and pass-through business class's enforcer in the Senate — a wealthy CEO who entered politics to protect the tax and regulatory structures that benefit people exactly like...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -13,8 +13,8 @@ state: Wisconsin
 state-abbr: WI
 fec-candidate-id: S0WI00197
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]]"
-related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]] · [[Really American Pac]]"
+related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]] · [[Really American Pac]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."

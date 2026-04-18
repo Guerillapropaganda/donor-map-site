@@ -3,7 +3,7 @@ title: Paul Ryan
 type: politician
 content-readiness: ready
 central-thesis: "Paul Ryan exemplifies the donor-class politician masked as principled conservative. His public brand is 'fiscal hawk' concerned about deficits and wasteful spending. But his legislative record contradicts this entirely: as Speaker, he authored the..."
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -21,8 +21,8 @@ bioguide-id: R000570
 govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Fox News - Murdoch Media Empire|Fox News]] · [[Rupert Murdoch]] · [[_Mitt Romney Master Profile|Mitt Romney]] · [[Donald Trump]]"
-donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]] · [[Americans for Responsible Leadership]] · [[AMERICAN CROSSROADS]] · [[Restore Our Future, Inc.]] · [[Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Crossroads]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Fox News - Murdoch Media Empire|Fox News]] · [[Rupert Murdoch]] · [[_Mitt Romney Master Profile|Mitt Romney]] · [[Donald Trump]] · [[Winning Our Future]]"
+donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]] · [[Americans for Responsible Leadership]] · [[AMERICAN CROSSROADS]] · [[Restore Our Future, Inc.]] · [[Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Crossroads]] · [[Winning Our Future]]"
 total-received: $483,642,897
 fec-candidate-id: H8WI01024
 needs-reenrichment: true

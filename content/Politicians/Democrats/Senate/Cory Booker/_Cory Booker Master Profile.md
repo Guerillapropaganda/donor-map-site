@@ -3,7 +3,7 @@ title: Cory Booker
 type: politician
 content-readiness: draft
 central-thesis: Cory Booker is the Two-Audience Problem incarnate , and the pharma vote is the receipt. His progressive brand (criminal justice reform, racial equity, environmental justice, veganism) plays to the national Democratic base. His donor profile (Wall ...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -46,8 +46,8 @@ bills-sponsored: 156
 bills-cosponsored: 670
 website: https://www.booker.senate.gov
 phone: 202-224-3224
-related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
-donors: "[[JB Pritzker]] · [[Mark Zuckerberg]] · [[Silicon Valley Democratic Donor Network]] · [[Johnson & Johnson]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Independence Usa Pac]] · [[Merck]] · [[THE MOBILIZATION PROJECT]] · [[UNITED WE WIN SUPER PAC]] · [[DREAM UNITED]] · [[POWERPACPLUS]] · [[Powerpacplus]] · [[United We Win Super PAC]] · [[Dream United]] · [[American Principles Fund]] · [[The Mobilization Project]] · [[American Commitment Action Fund]] · [[PhRMA]] · [[Pfizer]] · [[JB Pritzker - Donor Network]] · [[JB Pritzker (Donor Network)]]"
+related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[Dream Defenders Fight Pac]]"
+donors: "[[JB Pritzker]] · [[Mark Zuckerberg]] · [[Silicon Valley Democratic Donor Network]] · [[Johnson & Johnson]] · [[JPMorgan Chase]] · [[Goldman Sachs]] · [[Independence Usa Pac]] · [[Merck]] · [[THE MOBILIZATION PROJECT]] · [[UNITED WE WIN SUPER PAC]] · [[DREAM UNITED]] · [[POWERPACPLUS]] · [[Powerpacplus]] · [[United We Win Super PAC]] · [[Dream United]] · [[American Principles Fund]] · [[The Mobilization Project]] · [[American Commitment Action Fund]] · [[PhRMA]] · [[Pfizer]] · [[JB Pritzker - Donor Network]] · [[JB Pritzker (Donor Network)]] · [[Dream Defenders Fight Pac]]"
 total-received: $30,106,071
 fec-candidate-id: S4NJ00185
 internal-notes: |-

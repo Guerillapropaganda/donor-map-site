@@ -14,7 +14,7 @@ annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
 court-cases: 21
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -30,7 +30,7 @@ court-jurisdictions:
 nonprofit-status: "501(c)(3)"
 total-revenue: 4179564
 total-assets: 3694941
-related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[Ohio Democratic Party]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Business Roundtable]]"
+related: "[[DeVos Family]] · [[The SCOTUS Capture - From Bork to Barrett]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Federalist Society]] · [[Leonard Leo]] · [[Americans for Tax Reform - Grover Norquist]] · [[American Federation for Children]] · [[National Education Association]] · [[Walton Family Foundation]] · [[US Chamber of Commerce]] · [[Insurance Industry]] · [[Defense Contractors Bloc]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[American Petroleum Institute]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Iron and Steel Institute]] · [[National Association of Manufacturers]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[CREW - Citizens for Responsibility and Ethics in Washington]] · [[Ocean Conservancy]] · [[New Venture Fund]] · [[Ohio Democratic Party]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Business Roundtable]] · [[Bradley Impact Fund]]"
 fara-status: "registrant"
 fara-records: 4
 fara-countries:
@@ -117,7 +117,7 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-17 -->
+<!-- auto:propublica-990 pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -237,7 +237,7 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-17 -->
+<!-- auto:wikipedia pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

@@ -3,7 +3,7 @@ title: Sherrod Brown
 type: politician
 content-readiness: ready
 central-thesis: Brown represents the structural ceiling of labor-backed politics in post-2020 America. Despite being the Senate's most pro-labor voting record, highest AFL-CIO rating, strongest defense of trade protections for manufacturing workers, and deepest r...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
@@ -14,8 +14,8 @@ party: Democrat
 chamber: Senate
 state: Ohio
 state-abbr: OH
-donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[David Sacks]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]] · [[David Sacks - Donor Network]]"
-related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Crypto Industry Bloc]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Ohio Federation of Teachers]]"
+donors: "[[Lawrence Summers]] · [[Ken Griffin]] · [[Buckeye Values PAC]] · [[Republican Jewish Coalition]] · [[David Sacks]] · [[Good Jobs and Strong Communities PAC]] · [[UAW - United Auto Workers]] · [[WinSenate]] · [[Conservation Ohio]] · [[Ohio Democratic Party]] · [[GOOD JOBS AND STRONG COMMUNITIES PAC]] · [[AMERICAN CROSSROADS]] · [[David Sacks (Donor Network)]] · [[Ruralvote.org]] · [[Fraternal Order of Police]] · [[California Nurses Association]] · [[American Crossroads]] · [[Stars and Stripes Forever PAC]] · [[American Iron and Steel Institute]] · [[David Sacks - Donor Network]] · [[Crossroads Grassroots Policy Strategies]]"
+related: ">- · [[Crypto Industry Buys Both Parties in One Cycle]] · [[Ohio 2026 Special Senate Election]] · [[Jon Husted Master Profile]] · [[Bob Casey]] · [[Crypto Industry Bloc]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Ohio Federation of Teachers]] · [[Senate Leadership Fund]]"
 editorial-review-date: "2026-04-08"
 editorial-reviewer: Research Claude
 editorial-result: block

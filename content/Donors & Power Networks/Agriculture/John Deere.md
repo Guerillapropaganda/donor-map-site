@@ -2,7 +2,7 @@
 title: "John Deere"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: "Agriculture"
@@ -19,7 +19,7 @@ net-assets: "$212.6M"
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 subawards-issued: 50
@@ -209,7 +209,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F366051024_202310_990PF_2024110422794422.pdf) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-17 -->
+<!-- auto:propublica-990 pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -599,7 +599,7 @@ The political math is straightforward. John Deere's PAC contributes $1-2 million
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q98642757) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-17 -->
+<!-- auto:wikipedia pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

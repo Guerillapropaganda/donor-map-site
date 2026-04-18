@@ -3,7 +3,7 @@ title: Maria Elvira Salazar
 type: politician
 content-readiness: draft
 central-thesis: Salazar is the public face of Miami's Cuba hawks in the House , the communicator who translates the Fanjul/exile donor agenda into populist, identity-driven rhetoric for the Cuban-American base. While Diaz-Balart wields Appropriations power and Ru...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): S000168. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps: null
@@ -24,7 +24,7 @@ total-received: $922,124
 fec-candidate-id: H8FL27185
 bioguide-id: S000168
 donors: "[[Bacardi - Bacardi USA]] · [[Kenneth Griffin]] · [[Latino Vote for America Pac]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]]"
-related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[House Majority PAC]]"
 committees:
   - House Committee on Financial Services
   - House Committee on Foreign Affairs
