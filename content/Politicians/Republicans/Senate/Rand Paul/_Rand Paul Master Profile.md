@@ -240,7 +240,7 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
 - [[Cryptocurrency Industry]] — $90K lobbying spend (Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
 ## Committee Assignments (Congress.gov)

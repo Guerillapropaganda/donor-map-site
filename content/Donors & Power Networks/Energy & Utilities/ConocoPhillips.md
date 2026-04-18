@@ -68,7 +68,7 @@ court-jurisdictions:
   - United States Court of International Trade
 lobbying-spend: 17930000
 lobbying-filings: 39
-related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[Hawaiian Electric Company]] · [[Eli Broad Foundation]] · [[CTA - California Teachers Association]]"
+related: "[[WSPA - Western States Petroleum Association]] · [[Alaska 2026 Senate Race]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Energy Committee and Alaska Oil Dependency]] · [[John Kennedy Master Profile]] · [[The Folksy Populist Brand and Petrochemical Reality]] · [[Koch Industries]] · [[The Homeland Security Committee and Oklahoma Energy]] · [[The Budget Committee and Texas Energy]] · [[Dan Crenshaw Master Profile]] · [[The Energy Committee and Houston Petrochemical Pipeline]] · [[PG&E - Pacific Gas and Electric]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[ExxonMobil]] · [[Chevron]] · [[Marathon Petroleum]] · [[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[_Lisa Murkowski Master Profile|Murkowski]] · [[_Dan Sullivan Master Profile|Sullivan]] · [[NextEra Energy]] · [[Southern Company]] · [[Halliburton]] · [[Duke Energy]] · [[Devon Energy]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Instacart]] · [[Uber]] · [[Lyft]] · [[UnitedHealth Group - Optum]] · [[Eli Lilly]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[Hawaiian Electric Company]] · [[Eli Broad Foundation]] · [[CTA - California Teachers Association]] · [[Raytheon (RTX Corporation)]]"
 nonprofit-status: 501(c)(3)
 total-revenue: 138485
 total-assets: 5548963
@@ -400,7 +400,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -421,7 +421,7 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 - [[Dan Crenshaw]] (House Committee on Energy and Commerce, House Permanent Select Committee on Intelligence) — lobbying: $17.9M
 - [[John Kennedy]] (Judiciary, Banking) — lobbying: $17.9M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

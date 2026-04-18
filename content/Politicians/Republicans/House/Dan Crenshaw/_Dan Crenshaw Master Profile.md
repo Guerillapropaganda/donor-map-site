@@ -315,7 +315,7 @@ party:: Republican
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -334,7 +334,7 @@ party:: Republican
 
 - [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

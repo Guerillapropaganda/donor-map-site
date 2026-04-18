@@ -309,7 +309,7 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -322,7 +322,7 @@ The Warren endorsement crystallizes the class alignment. Elizabeth Warren chose 
 
 - [[National Progressive Donor Networks]] — $3.1M lobbying spend (Advertising, Agriculture, Animals)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

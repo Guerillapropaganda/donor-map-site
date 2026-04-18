@@ -468,7 +468,7 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 - [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
 - [[Peter Thiel]] — $1.7M lobbying spend
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (GovTrack)

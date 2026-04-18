@@ -53,7 +53,7 @@ tax-year: "2023"
 nonprofit-status: 501(c)(6)
 total-revenue: 173949
 total-assets: 231861
-related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Cornyn]] · [[Donald Trump]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[Jon Ossoff]] · [[Barack Obama]] · [[Mark Takano]] · [[2026-03-25 Finance Research]] · [[National Restaurant Association]] · [[Walmart - Walton Family]] · [[UPS]] · [[Insurance Industry]] · [[Western States Petroleum Association]] · [[Southern Company]] · [[Koch Industries]] · [[Walton Family Foundation]] · [[National Education Association]] · [[DeVos Family]]"
+related: ">- · [[Linda McMahon]] · [[Shelley Moore Capito]] · [[The EPW Committee and West Virginia Energy Transition]] · [[The Finance Committee and Tax Industry Alignment]] · [[John Cornyn]] · [[Donald Trump]] · [[The Education Committee and Michigan Manufacturing]] · [[The Transportation Committee and Infrastructure Spending]] · [[The Ways and Means Chair and TCJA Extension]] · [[The FEC to Congress Pipeline and Election Law]] · [[Jon Ossoff]] · [[Barack Obama]] · [[Mark Takano]] · [[2026-03-25 Finance Research]] · [[National Restaurant Association]] · [[Walmart - Walton Family]] · [[UPS]] · [[Insurance Industry]] · [[Western States Petroleum Association]] · [[Southern Company]] · [[Koch Industries]] · [[Walton Family Foundation]] · [[National Education Association]] · [[DeVos Family]] · [[American Federation for Children]]"
 federal-register-mentions: 22
 regulatory-agencies:
   - Commerce Department
@@ -413,7 +413,7 @@ The Chamber does not represent "business." It represents the capital class's int
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -436,7 +436,7 @@ The Chamber does not represent "business." It represents the capital class's int
 
 - [[John Cornyn]] (Judiciary, Intelligence, Finance) — lobbying: $790K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 

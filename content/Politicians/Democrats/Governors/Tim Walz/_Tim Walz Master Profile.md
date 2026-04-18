@@ -207,7 +207,7 @@ Timothy James Walz is an American politician, former educator, and Army National
 
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-17 -->
+<!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

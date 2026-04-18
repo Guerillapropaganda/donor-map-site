@@ -588,5 +588,5 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — contracts: $9
 - [[Barack Obama]] — contracts: $9
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->

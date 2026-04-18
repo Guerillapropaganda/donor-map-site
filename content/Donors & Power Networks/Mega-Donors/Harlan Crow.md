@@ -242,7 +242,7 @@ The Senate Judiciary Committee's December 2024 report found that Crow's gifts to
 
 - [[Clarence Thomas]] — lobbying: $400K
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
 ### Tax Filings (IRS 990)

@@ -220,7 +220,7 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 - [[Peter Thiel]] — $1.7M lobbying spend
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
 ### Legislative Activity (118th Congress)

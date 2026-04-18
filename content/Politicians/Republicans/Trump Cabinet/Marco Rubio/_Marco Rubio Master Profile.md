@@ -249,7 +249,7 @@ Hosted Israel-Lebanon talks (April 14, 2026). Hezbollah declined to participate 
 
 - [[MasTec - Mas Canosa Family]] — $180K lobbying spend (Budget/Appropriations, Energy/Nuclear, Fuel/Gas/Oil) + $6 in contracts
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
 ## Voting Record

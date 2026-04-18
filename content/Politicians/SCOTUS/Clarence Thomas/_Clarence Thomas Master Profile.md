@@ -171,5 +171,5 @@ Clarence Thomas. Associate Justice, U.S. Supreme Court (1991–present). Nominat
 - [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
 - [[Harlan Crow]] — $400K lobbying spend (Financial Institutions/Investments/Securities)
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->

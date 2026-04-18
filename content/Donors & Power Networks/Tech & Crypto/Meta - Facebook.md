@@ -430,7 +430,7 @@ Meta is the vault's clearest case of surveillance capitalism, a business model t
 
 - [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $36.5M — contracts: $1
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
 ### EPA Facility Registry

@@ -273,7 +273,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-17 -->
+<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -291,7 +291,7 @@ For [[IBEW - International Brotherhood of Electrical Workers|IBEW]] members: Gun
 
 - [[Chris Murphy]] (Foreign Relations, Appropriations) — lobbying: $5.2M
 
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-17.*
+*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 
 <!-- auto:influence-cross-ref pending-merge end -->
 
