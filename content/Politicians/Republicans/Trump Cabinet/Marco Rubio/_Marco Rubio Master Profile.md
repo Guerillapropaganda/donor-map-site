@@ -22,6 +22,32 @@ fec-candidate-id: P60006723
 bioguide-id: R000595
 govtrack-id: 412491
 fec-senate-id: S0FL00338
+say-vs-pay:
+  passed:
+    - "Embassy to Jerusalem (2018) . Adelson deliverable"
+    - "JCPOA withdrawal (2018) . Adelson deliverable"
+    - "Abraham Accords (2020)"
+    - "Iran war launched (Feb 28, 2026) . 4th Adelson deliverable"
+    - "Cuba embargo tightening as SecState"
+    - "Venezuela fuel blockade (Operation Southern Spear)"
+    - "China tech sanctions 2025"
+  blocked:
+    - "Gang of Eight immigration reform . his own bill, walked away"
+    - "DREAM Act . voted against after co-sponsoring"
+    - "Any bipartisan legislative win across 14 years"
+    - "Trump-critic posture . flipped to loyalist for SecState nomination"
+  top-donors:
+    - name: "Miriam & Sheldon Adelson"
+      amount: "$10M+ (career, via super PACs)"
+    - name: "Defense contractor bundlers (Boeing, GD, Honeywell)"
+      amount: "$5M+ bundled"
+    - name: "Norman Braman"
+      amount: "$10M+ bundled"
+    - name: "Elliott Management (Paul Singer)"
+      amount: "$220K direct + RJC network"
+    - name: "Fanjul Family . Florida Crystals"
+      amount: "$62K direct + decades bundled"
+  gap-stat: "$48.3M raised , full Adelson policy sequence delivered across two administrations"
 source-types:
   - Congress
   - FEC

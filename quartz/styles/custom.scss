@@ -1915,6 +1915,24 @@ body:has(.lp-landing) .breadcrumb-container {
   letter-spacing: 0.15em;
   color: #666;
   text-transform: uppercase;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.ph-money-info {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  color: #999;
+  font-size: 11px;
+  cursor: help;
+  line-height: 1;
+  font-family: inherit;
+}
+.ph-money-info:hover, .ph-money-info:focus {
+  color: #e63946;
 }
 
 .ph-money {

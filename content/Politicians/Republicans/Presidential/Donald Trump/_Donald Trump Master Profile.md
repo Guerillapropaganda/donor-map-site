@@ -47,6 +47,36 @@ custom-stats:
     value: "6 individuals"
     source: "OpenSecrets"
 fec-candidate-id: P80001571
+say-vs-pay:
+  passed:
+    - "2017 Tax Cuts and Jobs Act . $1.5T to corporations and wealthy"
+    - "Three Supreme Court justices . Gorsuch, Kavanaugh, Barrett"
+    - "Embassy moved to Jerusalem (2018)"
+    - "Abraham Accords"
+    - "USMCA replacing NAFTA"
+    - "Executive energy emergency, 31 environmental rules targeted"
+    - "Strategic Bitcoin Reserve, CBDC banned"
+  blocked:
+    - "Build the Wall . partial fence only, Mexico never paid"
+    - "Lock Her Up . never charged"
+    - "Repeal the ACA . Senate vote failed 49-51"
+    - "Drain the Swamp . donor access expanded instead"
+    - "Infrastructure Week . never happened across 4 years"
+    - "Release of full Epstein files . blocked by DOJ"
+  top-donors:
+    - name: "Timothy Mellon"
+      amount: "$125-197M"
+    - name: "Elon Musk"
+      amount: "$292M (2024 total)"
+    - name: "Miriam Adelson"
+      amount: "$100-148M"
+    - name: "Uihlein Family"
+      amount: "$100M+"
+    - name: "Kenneth Griffin"
+      amount: "$100M+"
+    - name: "Jeffrey Yass"
+      amount: "$100M+"
+  gap-stat: "$1.45B raised in 2024 , 44% from 6 mega-donors , small-dollar share collapsed from 50% to under 30%"
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
   [URL Check 2026-04-08] 29 URLs checked: 25 ok, 2 broken, 2 slow. BROKEN: CBO TCJA analysis, The Hill Palantir contracts. SLOW: Federal Register 2026 EOs, GovTrack.us | [URL Check 2026-04-08] 25 checked: 24 ok, 1 broken, 0 slow. | BROKEN: Preserving America's Game

@@ -70,6 +70,18 @@ const ProfileHeader: QuartzComponent = ({
                 : type === "donor" || type === "corporation"
                 ? "TOTAL POLITICAL SPEND"
                 : "MONEY"}
+              <button
+                type="button"
+                class="ph-money-info"
+                aria-label="What this number means"
+                title={
+                  type === "politician"
+                    ? "Sum of FEC-reported receipts across all federal candidate committees associated with this politician, across all cycles in our data (typically 2016 onward). Does not include dark-money spending, super-PAC independent expenditures for or against, or pre-2016 cycles."
+                    : type === "donor" || type === "corporation"
+                    ? "Sum of FEC-reported political contributions and independent expenditures made by this entity across all cycles in our data (typically 2016 onward)."
+                    : "Total reported money associated with this entity."
+                }
+              >ⓘ</button>
             </span>
             <span class="ph-money">{moneyDisplay || donorMoneyDisplay}</span>
           </div>
