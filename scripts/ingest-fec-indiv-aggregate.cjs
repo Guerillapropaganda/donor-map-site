@@ -6,18 +6,21 @@
  * donor_state) rolled-up totals, writes to indiv-by-committee.jsonl at
  * C:\donor-map-data\fec\. Resume-friendly per ADR-0014.
  *
- * Why aggregate rather than persist raw:
- *   - Raw indiv is ~100-500M rows across all cycles. Persisting raw would be
- *     >100GB and make queries slow.
- *   - Aggregated (per committee per donor across cycles) is ~10-20M rows,
- *     ~2GB. Queryable, tractable for the vault.
+ * DESIGN — committees-of-interest filter:
+ *   The indiv dataset is huge (100M+ rows). Most rows go to small state/local
+ *   committees the vault doesn't care about editorially. We filter to only
+ *   keep rows where CMTE_ID appears in the union of pas2 output committees
+ *   — i.e. any committee that ever gave to a candidate, did IE support/oppose,
+ *   or acted as a conduit. That cuts row-keep by ~80% and bounds heap to
+ *   ~2-4GB for the aggregation.
+ *
+ *   Requires pas2 ingest to have completed first. Reads the committee set
+ *   from pas2-direct-donors.jsonl + pas2-ie-support.jsonl +
+ *   pas2-ie-oppose.jsonl + pas2-conduit.jsonl.
  *
  * Resume detail: aggregation state is snapshotted to `indiv-agg.snapshot.jsonl`
  * after each zip completes. On resume, the snapshot is reloaded into memory
  * before the next zip. Crash mid-zip loses at most one zip's work.
- *
- * Memory: holding 10-20M aggregated entries in a Map takes ~2-4GB. Run with
- *   --max-old-space-size=8192   on the node command line if you hit OOM.
  *
  * Usage:
  *   node --max-old-space-size=8192 scripts/ingest-fec-indiv-aggregate.cjs --resume
@@ -56,6 +59,38 @@ function cycleFromFilename(f) {
 function normName(s) { return (s || '').toUpperCase().replace(/[^A-Z0-9 ,.-]/g, '').trim(); }
 
 function aggKey(cmte, name, state) { return `${cmte}|${name}|${state}`; }
+
+/**
+ * Build committees-of-interest set from pas2 output. Only committees that
+ * participate in pas2 (gave to candidates, IE, conduit, party) are kept.
+ * Reads files at line level — fast, no parse of full JSONL required.
+ */
+async function buildPoiSet() {
+  const poi = new Set();
+  const readline = require('readline');
+  const files = [
+    'pas2-direct-donors.jsonl',
+    'pas2-ie-support.jsonl',
+    'pas2-ie-oppose.jsonl',
+    'pas2-conduit.jsonl',
+    'pas2-party.jsonl',
+  ];
+  for (const f of files) {
+    const p = path.join(DERIVED_ROOT, f);
+    if (!fs.existsSync(p)) continue;
+    const rl = readline.createInterface({
+      input: fs.createReadStream(p, { encoding: 'utf-8' }),
+      crlfDelay: Infinity,
+    });
+    for await (const line of rl) {
+      if (!line) continue;
+      // Extract src_cmte_id via fast substring, avoid full JSON parse
+      const m = line.match(/"src_cmte_id":"([^"]+)"/);
+      if (m) poi.add(m[1]);
+    }
+  }
+  return poi;
+}
 
 function loadSnapshot() {
   if (!fs.existsSync(SNAPSHOT)) return new Map();
@@ -100,6 +135,15 @@ function writeSnapshot(map) {
   }
   cleanupPartials();
 
+  // Build committees-of-interest set from pas2 output
+  console.log('  building committees-of-interest set from pas2 output...');
+  const poi = await buildPoiSet();
+  console.log(`  POI set: ${poi.size} committees`);
+  if (poi.size === 0) {
+    console.error('  [fatal] POI set empty — run scripts/ingest-fec-pas2-bulk.cjs first');
+    process.exit(1);
+  }
+
   const agg = args.resume && fs.existsSync(SNAPSHOT) ? await loadSnapshot() : new Map();
 
   const zips = listZips(SUBDIR).filter(z => {
@@ -130,7 +174,8 @@ function writeSnapshot(map) {
         const amt = Number(p[14] || 0);
         const employer = (p[11] || '').trim();
         const occupation = (p[12] || '').trim();
-        if (!cmte || !name || !amt || Math.abs(amt) < args.minAmount) continue;
+        if (!cmte || !poi.has(cmte)) continue; // skip committees not in pas2 output
+        if (!name || !amt || Math.abs(amt) < args.minAmount) continue;
         const k = aggKey(cmte, name, state);
         if (!agg.has(k)) {
           agg.set(k, {
