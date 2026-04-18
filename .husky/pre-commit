@@ -99,6 +99,18 @@ if [ $? -ne 0 ]; then
   exit 1
 fi
 
+# 5c. FEC anomaly sentinel — blocks verified profiles referencing a committee
+# in the open anomaly queue (pas2-anomalies.jsonl). ADR-0013 / ADR-0014.
+# Soft-fails if no anomaly data exists (fresh worktree).
+echo "  -> fec-anomaly-sentinel"
+node scripts/fec-anomaly-sentinel.cjs --staged
+if [ $? -eq 1 ]; then
+  echo ""
+  echo "[x] fec-anomaly-sentinel blocked the commit."
+  echo "    Resolve the flagged committee(s) before promoting to verified."
+  exit 1
+fi
+
 # 6. Phase 6 regression tests (20 tests, ~75ms, zero deps)
 echo "  -> phase-6-regression-tests"
 node --test scripts/phase-6-regression-tests.cjs >/dev/null 2>&1
