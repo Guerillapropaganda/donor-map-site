@@ -1,12 +1,13 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-16
+last-updated: 2026-04-17
 ---
-<!-- last session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). Note-taking punch-list then rapid-fire ship: ProfileHeader position line + POLITICIAN badge + VERIFIED labels removed; $2B label added ("CAREER MONEY RAISED"); HOW WE VERIFY link dropped; EDGE COUNT column dropped across 1,463 regenerated data panels; wikilink yellow highlight suppressed in lists; HeroContradiction font swapped Instrument Serif italic -> Space Grotesk 700 upright; three-page IA Behind the Map / Our Sources / The Receipts; hide-internal-markers transformer extended (Archived by Ops / Verified by / editor-approved / Auto-generated / Regenerate); profile-timeline-generator footer -> HTML comment; graph fixes (round-robin type interleave, dynamic ring radius, onclick= expand wiring for SPA nav, 8px min non-donor nodes). Six deploys shipped. Punch list remaining: Class Analysis rewrite (David), Trump polish (Related Figures + donor dedup + 1.45B), EO explainers, stale narrative freshness, Path 3 Ops editor. -->
-<!-- prior session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening). -->
-<!-- prior prior session: Batch editorial Class Analysis pass (2026-04-16 afternoon, Research Claude) -->
-<!-- prior prior prior session: Bulk data ingest marathon (2026-04-15 night). -->
+<!-- last session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). 13 deploys. Key outcomes: fullscreen graph portaled to body (stacking-context escape); AnnotationOverlay pill + admin-notes sync to Ops (PNA CORS fix); 142 donor dedups ($1.4B reattributed); support/oppose schema split across build-relationships-per-profile + rebuild-relationship-caches + ProfileWidget; 411 profile data-panels regenerated with real $ amounts from canonical store; 106 profiles frontmatter-pruned of ie-oppose mis-labels; Rubio restructured to 9-section template with new Policy Executed section + Voting Record from curated CSV (39 key votes). External bulk-data junction at C:\donor-map-data\bulk\. New reusable scripts: propose-donor-dedup, apply-donor-dedup, prune-ie-oppose-from-frontmatter, ingest-voting-record-csv, setup-bulk-junction. -->
+<!-- prior session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). -->
+<!-- prior prior session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening). -->
+<!-- prior prior prior session: Batch editorial Class Analysis pass (2026-04-16 afternoon, Research Claude) -->
+<!-- prior prior prior prior session: Bulk data ingest marathon (2026-04-15 night). -->
 
 
 
@@ -100,6 +101,109 @@ Updated every session. Regenerate with `node scripts/status.cjs`.
 ---
 
 ## Last Session
+Claude: Code
+Date: 2026-04-17 (full day + evening, Code Claude)
+
+### Theme
+Live-site debugging → Trump data overhaul → Rubio polish → systemic pipeline fixes. Started with David reporting the annotation pill and fullscreen graph broken on live Trump profile after the prior session's AnnotationOverlay + D3 port shipped with bugs. Traced the black-box graph to an ancestor stacking context trapping `position: fixed`, portaled the graph container to document.body on fullscreen. Caught the missing `[anno]` logs as Chrome's default-level Info filter hiding `console.log`; upgraded diagnostics to `console.warn` so they always surface. Then shifted to Trump data polish and accidentally fixed the entire pipeline: 142 donor dedups collapsed $1.4B of mis-attributed spending, the support/oppose schema split stopped showing anti-Trump super-PACs as donors, and 411 profiles got their top-donor amounts regenerated from the canonical store instead of the stale entities.jsonl signals. Moved to Rubio: section reorder to match the 9-section template, new Policy Executed section (Cabinet-appropriate variant added to the validator), Related Figures block, voting record auto-block populated from a curated 39-vote CSV. Set up a persistent bulk-data store at `C:\donor-map-data\bulk\` junctioned into every worktree so the next session doesn't lose downloads when a worktree is cleaned up.
+
+### Done this session
+
+**Live-site debug: annotate pill + fullscreen graph (Trump)**
+- `dbb78b49c` dev: setup-bulk-junction helper for persistent bulk store
+- `06888eb61` Rubio polish + artifact key normalization + Trump section rename
+- `00a37f1ff` Rubio restructure + data-panel generator swap across 411 profiles
+- `992a4b33b` Rubio: voting record block + frontmatter cleanup + CSV ingester
+- `48e01d15b` Prune IE-oppose names from frontmatter donors across 106 profiles
+- `7cf79db5c` Split IE-opposition from donors across the render pipeline
+- `bd77ada2b` Donor dedup: scanner + proposed mapping CSV for review
+- `83a8503fb` Donor dedup: apply 142 approved merges + regenerate per-profile artifact
+- `ede466f37` Trump profile: relabel FEC auto-block for clarity
+- `ddff9a0a8` inline-notes: add Access-Control-Allow-Private-Network header
+- `4a8c2465b` Admin notes: dual-save to Ops so Research Claude can read them
+- `29b884334` ProfileWidget: portal fullscreen graph to document.body
+- `83add9413` Debug: warn-level diagnostics for pill + graph, dedupe NetworkGraph
+
+**Graph + annotation fixes (live-site saga):**
+- `quartz/components/AnnotationOverlay.tsx` — `console.log` → `console.warn` on wire() + syncTriggerVisibility (Chrome's default filter was hiding all `[anno]` logs as Info level)
+- `quartz/components/ProfileWidget.tsx` — added `console.warn` at every early-return in initCanvasGraph + initProfileWidget entry so black-box failures surface their actual cause
+- Fullscreen graph container now portals to `document.body` on expand and restores to original parent on exit — escapes ancestor stacking contexts that were trapping `position: fixed` behind the profile tab bar
+- `z-index: 2147483647` + `inset: 0` belt-and-suspenders on fullscreen state
+- Removed duplicate `Component.NetworkGraph()` registration in `quartz.layout.ts:15`/:17
+
+**Admin notes sync (live → Ops):**
+- New Ops route `ops/src/app/api/inline-notes/route.ts` — POST/GET/OPTIONS, writes `content/Admin Notes/inline-notes.jsonl`, CORS locked to `https://thedonormap.org`, `Access-Control-Allow-Private-Network: true` for Chrome's loopback restriction
+- `AdminBar.saveNote` now dual-writes: localStorage (source of truth for David's queue view) + POST to `localhost:3333/api/inline-notes` (Claude-readable). Best-effort mirror, silent fallback if Ops is down.
+
+**Trump data polish:**
+- FEC auto-block relabeled: "Total Raised $3.85M" is clearly candidate-committee-only; combined $1.45B (OpenSecrets) promoted to the top row in bold
+- 142 donor dedup merges applied via `scripts/apply-donor-dedup.cjs`: 2,304 name renames in `data/relationships.jsonl`, 57 post-rename duplicates collapsed with amounts summed into winners (e.g. Ab Pac+AB PAC → $92M, RBG PAC+Rbg Pac → $55M, PRIORITIES USA variants → $471M)
+- "Connections to Existing Vault" heading renamed to "Related Figures" to match template
+
+**Support/oppose schema split (systemic):**
+- `scripts/build-relationships-per-profile.cjs` — `monetary` edges with `role: 'ie-oppose'` now route to new buckets `ie-opposed-by` / `ie-opposition-targets` / `ie-opposition-detail` instead of `donors`. Anti-Trump super-PACs (PRIORITIES USA $210M, FF PAC $95M) no longer appear as Trump donors.
+- Also normalized `_Foo Master Profile` ↔ `Foo` keys so edges under either name shape consolidate under the same bucket. 2,621 → 2,462 unique profile entries (159 previously-split profiles consolidated). Rubio went from 1 donor visible to 114.
+- `scripts/rebuild-relationship-caches.cjs` — added role filter so the frontmatter cache rebuilder never writes ie-oppose entities into `donors` going forward
+- `scripts/prune-ie-oppose-from-frontmatter.cjs` — one-time cleanup: 106 profiles had stale ie-oppose entries in their frontmatter from earlier cache-rebuilder runs. Biden no longer "funded by" MAGA Inc, Clinton no longer "funded by" RNC, Nina Turner no longer "funded by" Third Way. Script is idempotent and preserves any entity with a non-opposition edge.
+- `quartz/components/ProfileWidget.tsx` — graph now emits ie-opposition spenders as red opposition nodes with dollar amounts (biggest attack-ad spend = biggest red node)
+
+**Data panel generator swap (411 profiles fixed):**
+- `scripts/build-profile-data-panels.cjs` now prefers `data/relationships-per-profile.json` for top-donor dollar amounts, falls back to `signals.top_donors` then frontmatter
+- Added secondary pass that walks `content/Politicians/` and renders panels for politician profiles NOT in entities.jsonl (Cabinet members etc.) via a synthetic entity built from frontmatter + artifact
+- Fixed `entity.name` vs `entity.title` bug that was blanking Rubio's amounts
+- Result: 411 politician panels got corrected top-donor amounts. Rubio's panel went from 10 em-dashes to real numbers (Elliott $220K, Goldman $209K, Blackstone $96K, Fanjul $62K, Morgan Stanley $57K, Oracle $57K...)
+
+**Rubio restructure:**
+- Section order rebuilt to match 9-section template: Who He Is → Central Thesis → Class Analysis (moved up) → Donor Class Map → **Policy Executed (new)** → Core Contradiction (moved down) → Timeline → Rhetorical Moves → Analytical Patterns → Related Figures → Sources
+- **New "Policy Executed" section** populated with Cuba blockade, Iran confrontation, green-card revocations, Israel-Lebanon diplomacy — Cabinet-level actions his donor base paid for
+- **Voting Record auto-block**: 39 key votes rendered from the curated CSV David supplied (TCJA, ACA repeal, both Trump impeachments, JCPOA review, Ketanji confirmation, Gang of 8, infrastructure, IRA, FISA reauths, Respect for Marriage, Jan 2025 SecState confirmation)
+- Malformed stray `donors:` body line + dangling `---`/`---` separators removed
+- `known-gaps: []` emptied (stale); `last-enriched: "2026-04-17"` added
+- Template validator passes when promoted to `verified` (only blocker: David's Class Analysis sign-off)
+
+**Validator / template:**
+- Added Cabinet-appropriate section-5 variants to `scripts/profile-template-validator.cjs`: `"Policy Executed"`, `"Department Actions"`, `"Diplomatic Record"` (Trump's "Executive Actions" wording doesn't fit SecStates/AGs who execute policy rather than sign EOs)
+
+**New reusable scripts shipped:**
+- `scripts/propose-donor-dedup.cjs` — scans `relationships.jsonl` for name-collision clusters, writes a CSV proposal for David to review (142 clusters found, $1.4B+ in mis-attribution)
+- `scripts/apply-donor-dedup.cjs` — reads the reviewed CSV, applies approved merges, handles post-rename duplicate collapse with amount summing and audit-trail deprecation
+- `scripts/prune-ie-oppose-from-frontmatter.cjs` — removes names from frontmatter donors/top-donors when canonical store only has `role=ie-oppose` edges for them
+- `scripts/ingest-voting-record-csv.cjs` — reads a curated key-votes CSV, writes `<!-- auto:voting-record -->` block to the target profile. Reusable for every politician with a CSV.
+- `scripts/dev/setup-bulk-junction.cjs` — wires `data/bulk/` to external `C:\donor-map-data\bulk\` via Windows directory junction so worktree cleanup never loses downloaded CSVs/ZIPs
+
+**Bulk data persistence:**
+- Created `C:\donor-map-data\bulk\` as the external store, junctioned from both main repo and this worktree
+- Moved `HSall_rollcalls.csv` (29MB Voteview bulk) and `marco_rubio_comprehensive_legislative_record.csv` from Downloads into `data/bulk/voting-records/`
+- All future worktrees can run `node scripts/dev/setup-bulk-junction.cjs` for instant access to the shared store
+
+**Dev-ex misc:**
+- Fixed `[anno]` wire diagnostics — David kept seeing "5 hidden" in console because Chrome's default level filter hides Info-level logs and the other session was asking him to click the filter dropdown instead of just using `console.warn`
+- Root-caused the "new deploy shows no changes" confusion: Cloudflare `Cache-Control: max-age=14400` gives a 4h browser cache on postscript.js; David needed `Ctrl+Shift+R` to bypass
+
+### Known issues (flagged for next session)
+
+- **MAGA Inc ($57M) vs MAKE AMERICA GREAT AGAIN INC. ($44M) are genuinely different committees** (FEC IDs C00892471 vs C00825851) — not a dedup case, successor PACs. Left split.
+- **PRIORITIES USA → Trump has a $72K 2022 direct-contribution edge** alongside the $210M ie-oppose. Suspicious (anti-Trump super-PAC giving to Trump?). Could be a mis-ingest worth investigating but not deleting without proof.
+- **Acronym-vs-full-name donor variants** not caught by dedup scanner (e.g., SEIU vs Service Employees International Union). Needs FEC-ID-first matching, not string similarity.
+- **Old raw bulk CSVs/ZIPs are gone** — lived in prior worktrees that got cleaned up. Canonical stores have the extracted data; raw files would need to be re-downloaded from FEC/USASpending/GPO if ever needed for re-processing. From this point forward they're safe (junctioned external store).
+- **`Uncaught TypeError: ...startsWith("Esc")` at postscript.js** — Escape-key handler in some Quartz component where `e.key` is undefined (IME composition event?). Not ours, pre-existing, harmless.
+- **Pre-existing denormalization drift** — 23k+ stale `to_type` / `to_subcategory` mismatches between edges and profile frontmatter. Not introduced this session; sentinel flags them on every commit. Backlog item for a systemic cleanup pass.
+
+### In progress
+None. Clean stop.
+
+### Next session priorities (2026-04-18)
+
+1. **Research Claude: Class Analysis rewrite on Trump in David's voice** — blocks verified promotion. Rubio's Class Analysis is already well-structured but also needs David's voice pass when ready.
+2. **Promote Trump + Rubio to `content-readiness: verified`** after Class Analysis sign-off. Template validator passes both structurally.
+3. **Continue Launch-50 profile polish.** Code Claude lane for each: run `build-profile-data-panels.cjs` (already done globally), verify relationships-per-profile data, add missing Related Figures / Voting Record blocks per profile type.
+4. **Investigate the PRIORITIES USA $72K Trump edge** — is it a real 2022 donation (confused committee?) or a mis-ingest? One edge, easy to inspect.
+5. **Consider building a proper roll-call-votes bulk ingest pipeline** (`scripts/ingest-senate-roll-calls-bulk.cjs` or use `HSall_rollcalls.csv` from Voteview) — reusable for all current/former Senate members without needing per-profile curated CSVs.
+6. **Source-ref conversion pass** — `[Source: X]` → `{{src:ID}}` mechanical conversion across verified/ready profiles. Each unmapped source needs a registry entry first; that part is David's lane (URL verification).
+
+---
+
+## Previous Session
 Claude: Code
 Date: 2026-04-16 (late night, Code Claude)
 
