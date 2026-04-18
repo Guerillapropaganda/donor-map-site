@@ -26,7 +26,7 @@ court-jurisdictions:
 sec-filings: 1
 sec-form-types:
   - 10-K
-related: ">- · [[DCCC Red-to-Blue Targets 2026]] · [[Master Donor Database]] · [[Mario Diaz-Balart]] · [[Lee Zeldin]] · [[Rick Crawford]] · [[Nancy Mace]] · [[Maria Elvira Salazar]] · [[Lauren Boebert]] · [[Club for Growth]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Future Forward USA Action]] · [[Emilys List]] · [[Elect Chicago Women PAC]]"
+related: ">- · [[DCCC Red-to-Blue Targets 2026]] · [[Master Donor Database]] · [[Mario Diaz-Balart]] · [[Lee Zeldin]] · [[Rick Crawford]] · [[Nancy Mace]] · [[Maria Elvira Salazar]] · [[Lauren Boebert]] · [[Club for Growth]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[Future Forward USA Action]] · [[Emilys List]] · [[Elect Chicago Women PAC]] · [[DonorsTrust]]"
 opposes: '[[Michael Waltz]] · [[Mark Green]]'
 cross-vault-triangulation-count: 8
 internal-notes: >-
