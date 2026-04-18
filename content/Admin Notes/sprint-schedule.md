@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-17-trump-data-overhaul-rubio-polish-systemic-fixes'
+last-updated: '2026-04-17-pelosi-polish-bills-sync-85-profiles'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2061,6 +2061,41 @@ phase_3_tasks:
       added_adhoc: true
       notes: "propose-donor-dedup.cjs, apply-donor-dedup.cjs, prune-ie-oppose-from-frontmatter.cjs, ingest-voting-record-csv.cjs, dev/setup-bulk-junction.cjs. All reusable for future sessions — dedup rerun on new data, prune after any cache rebuild, voting records for any politician with a CSV."
 
+    - id: cc_p3_14
+      task: "Fix Rubio live-site tab routing (data panel relocate + Voting Record H2 promote + Policy Executed tab map)"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Top Donors was rendering above tabs because generator kept panel in place; now relocates. Voting Record block was H3 under Influence Network, promoted to H2 so it lands in Key Votes tab. Policy Executed wasn't in ProfileHeader.tsx tab-mapping text list — added. Commit 5ac4dc4f7."
+
+    - id: cc_p3_15
+      task: "Fix EvidencePanel browser-native title tooltip (grey, unreadable)"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "First attempt styled the CSS ::after hover hint (wrong element). Correct fix: replaced title= attributes with aria-label= on signal-trail-clickable bars. Browsers can't style native title tooltips; aria-label preserves accessibility without the grey box. Commits 487d728f7, ccd364162."
+
+    - id: cc_p3_16
+      task: "Pelosi profile polish (9-section template alignment + Related Figures + public-routes)"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Applied Rubio playbook to Pelosi. Fixed corrupted central-thesis ($1.6B mangled into 'content-readiness: ready.6 billion'), stale known-gaps, stray body donors: line + dangling ---/---, heading renames, section reorder (Class Analysis pos 3, Core Contradiction pos 6), added Related Figures section, added to public-routes.json. Data panel auto-relocated into The Donor Class Map. Still pending: Class Analysis voice rewrite (David) and curated Key Votes CSV. Commit 5fd69f364."
+
+    - id: cc_p3_17
+      task: "Profile polish patterns doc for future sessions"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "content/Admin Notes/profile-polish-patterns.md — running playbook of everything we've hit across Trump + Rubio + Pelosi. Covers frontmatter bugs, 9-section template order, heading renames, tab routing, data panel placement, voting record ingest, donor dedup residuals, IE-oppose prune, public-routes gating, browser title-tooltip gotcha, Chrome console filter gotcha, deploy cache gotcha. Commit 5fd69f364."
+
+    - id: cc_p3_18
+      task: "Sync bills-sponsored/cosponsored frontmatter from auto-block across 85 politicians + add guard"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "David flagged Pelosi bills-cosponsored: 95 as absurd for 36-year career. Root cause: ingest-congress-bills-bulk.cjs clobbered Congress.gov API career totals with 118th-Congress-only numbers. New scripts/sync-bills-frontmatter-from-auto-block.cjs reads each auto:congress-legislation block, writes career numbers back to frontmatter when larger. 85 profiles fixed (Schumer 54→2437, Feinstein 37→2211, Wyden 80→1984, Pelosi 2→199, Clinton 0→713). Added guard to ingest-congress-bills-bulk.cjs so future runs don't re-clobber (--force-bills-overwrite to override). Added bills-data-scope field marking source. Commit a28f98b3c."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -2231,7 +2266,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-17 (Code Claude: Trump data overhaul — 142 donor dedups + support/oppose split + 106-profile frontmatter prune + 411-profile data-panel regen; Rubio restructure to 9-section template with Policy Executed + Voting Record; persistent bulk-data junction; 5 new reusable scripts. 13 commits, all deployed.)**
+**Schedule last updated: 2026-04-17 late (Code Claude continuation: Rubio live-site tab fixes + EvidencePanel tooltip fix + Pelosi polish applying the Rubio playbook + profile-polish-patterns.md running playbook + bills frontmatter sync across 85 politicians with guard against re-clobber. Total session commits: 20 across Trump/Rubio/Pelosi + systemic pipeline fixes, all deployed.)**
 **Current phase: Launch 50 sprint for April 30 public launch. Trump live as proof-of-concept.**
 **Next checkpoint: Build Ops live-preview profile editor (2026-04-17). David rewrites Trump Class Analysis in working-class voice. Promote Trump to verified tier.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
