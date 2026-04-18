@@ -60,7 +60,7 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 
 ---
 
-## The Donor Class Map
+## The Money
 
 
 
@@ -92,17 +92,50 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
-### The Florida Sugar Industry and Defense Contractors:
-- [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]]. Rubio regularly hosts campaign fundraisers at events organized by lobbyists for [[Boeing|Boeing]], General Dynamics, and Honeywell. His Senate assignments. Intelligence Committee, Foreign Relations Committee, gave him direct oversight of the contractors he fundraised from. The defense industry investment returned dividends: Rubio's hawkish posture on Iran (maximum pressure), China (technology sanctions), Venezuela (military option on table), and Cuba (tightest possible embargo) aligns with defense contractor interests in sustained military tension and procurement funding. As Secretary of State, Rubio is now executing the foreign policy that his donor base paid for, including the Iran war that began February 28, 2026, the fourth deliverable in the [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran|Adelson pipeline]] (embassy → JCPOA withdrawal → Abraham Accords → Iran confrontation). Rubio's career-long Iran hawkishness (he led Senate opposition to the JCPOA in 2013-2015) made him the ideal Secretary of State to execute what Sheldon Adelson publicly advocated: military confrontation with Iran. The [[The Iran War Money Trail - From Adelson to Airstrikes|Iran War Money Trail]] documents how three donor constituencies, defense contractors, fossil fuel majors, and the Israel lobby, all extract returns from the same war Rubio now manages.
+### The Campaign Chest
 
-### The Latin American Exile Donor Base:
-- Cuban-American exile community: the single most politically cohesive ethnic donor bloc in Florida. Rubio's parents' Cuban migration narrative, even though they left before Castro, not after, gave him authentic standing in a community whose political identity centers on anti-communism and the Bay of Pigs. His Senate career was built on this constituency: tightest possible Cuba embargo, maximum sanctions on Venezuela, regime change advocacy for both Maduro and the Castro government. These positions serve the exile community's ideology; they also serve US sugar and agriculture interests that compete with Cuban production.
+Rubio's career receipts of $48.3M reflect three electoral cycles: 2010 Senate (upset win over Charlie Crist), 2016 Senate re-election, and 2016 Presidential primary run. The top-donor table above shows finance-heavy direct receipts (Elliott Management, Goldman Sachs, Blackstone, Morgan Stanley top the list, $583K combined) overlaid with the two constituencies that built his political base: the Cuban-American exile network and the Florida sugar industry. The finance sector funds him because of his Banking Committee seat. The exile and sugar networks fund him because of his ethnic identity and foreign policy posture. [Source: FEC (Tier 1)]
 
-### The Fanjul Family. Sugar and Politics:
-- The Fanjul brothers (Alfonso and José "Pepe") own Florida Crystals, the parent company of Domino Sugar, and are estimated to be worth a combined $8 billion (~~[Bloomberg](https://www.bloomberg.com/news/articles/2017-08-09/sugar-barons-amass-8-billion-fortune-by-mastering-u-s-politics)~~ (URL broken, archived by Ops), Tier 2). The family fled Cuba after Castro's revolution, their sugar empire was nationalized. They rebuilt it in Florida and became the state's most politically powerful family. Rubio has received Fanjul family donations throughout his career and has consistently supported the sugar import restrictions and subsidies that protect Florida Crystals from foreign competition (including Cuban sugar). The anti-Cuba political position and the pro-sugar economic position are the same position, funded by the same family.
+### Wealth Outside Donations
 
-### Norman Braman:
-Miami auto dealer Norman Braman was Rubio's major early backer, during the 2010 Senate race and through his career. Braman's support helped establish Rubio as a viable statewide candidate when he was still running against the establishment (Crist) rather than for it. The relationship is personal as well as political; Braman helped fund Rubio's early activities when he was building his political base.
+| Source | Amount | Evidence |
+|---|---:|---|
+| Cabinet salary (SecState, 2025–) | $246,400/year | OPM EX-I schedule |
+| Senate salary (2011–2025) | $174,000/year | Congressional payroll |
+| Book advance. "American Dreams" (2015) | ~$800,000 | Publisher filings |
+| Book royalties (three books 2012–2015) | Undisclosed ongoing | Senate Ethics disclosures |
+| Real estate (West Miami home) | ~$1.5M (2023 assessment) | County records |
+| Speaking fees (pre-Senate, FL House Speaker era) | Reported through 2011 | FL ethics filings |
+| STOCK Act trade history (2011–2025) | No material PTRs filed | disclosures-clerk.house.gov |
+| Florida Crystals-connected investment income | None reported | STOCK Act PTR (none filed) |
+
+No crypto holdings reported. No SEC 13-F filings. No family-business revenue stream comparable to Pelosi's Paul Pelosi portfolio or Trump's Trump Media stake. Rubio's wealth-outside-donations picture is thin. Book advances, a state pension, federal salary. The financial story is the donors, not the personal portfolio. [Source: Senate Ethics disclosures (Tier 1); Clerk filings (Tier 1)]
+
+### The Mega-Donors
+
+Rubio's top career donors cluster into three constituencies that map directly onto his policy posture.
+
+**[[Miriam Adelson|Miriam & Sheldon Adelson]]**, career total $10M+ through the Adelson-funded super PAC network. Widow of casino magnate Sheldon Adelson, primary US political funder of maximalist Israel posture. What they want: US embassy in Jerusalem (delivered 2018), abandonment of two-state policy, JCPOA withdrawal (delivered 2018), Iran regime change or military confrontation (delivered February 28, 2026 as Rubio's first major SecState action). What they got: the complete Adelson policy sequence. Rubio's career-long Senate opposition to the JCPOA (2013–2015) made him the ideal Secretary of State to execute the final piece. See [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran]]. [Source: FEC (Tier 1); Haaretz (Tier 2)]
+
+**Fanjul Family. Florida Crystals**, $62,005 direct + decades of bundled donations. Alfonso and José "Pepe" Fanjul own Florida Crystals, the parent of Domino Sugar. Cuban exiles post-Castro, combined net worth ~$8B. What they want: sugar import tariffs and subsidies that protect Florida Crystals from foreign competition, Cuban sugar chief among them, and a continued Cuba embargo. What they got: Rubio's tightest-possible Cuba embargo posture, sugar program preservation in every Farm Bill cycle. The anti-Cuba political position and the pro-sugar economic position are the same position, funded by the same family. [Source: Bloomberg (Tier 2, archived)]
+
+**Elliott Management**, $220,170 direct. Paul Singer's activist hedge fund. What they want: financial deregulation, favorable posture on distressed-debt investment, pro-Israel foreign policy (Singer is a major Republican Jewish Coalition donor). What they got: Rubio's Banking Committee record (anti-CFPB, pro-Dodd-Frank rollback), hawkish foreign policy framework aligned with RJC priorities. [Source: FEC (Tier 1)]
+
+**Norman Braman**, bundled $10M+ across cycles. Miami auto dealer, Rubio's earliest Senate backer in the 2010 Crist race. What they want: standing in Florida politics, access, family-business protection. What they got: Rubio's ongoing gratitude, Florida-first federal appropriations posture. The relationship is personal as much as transactional. Braman funded Rubio's build-up when he was a longshot against an established incumbent. [Source: Miami Herald archives (Tier 2)]
+
+**Defense Contractor Bundlers. Boeing, General Dynamics, Honeywell**, bundled contributions through lobbyist-organized events, $500K+ per cycle. What they want: sustained defense budgets, Iran confrontation posture, China tech sanctions, Venezuela military option, Cuba embargo. What they got: Rubio's Senate Intelligence Committee + Foreign Relations Committee posture (2011–2025), and now SecState execution of the Iran war and continued China sanctions regime. See [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]]. [Source: FEC (Tier 1); OpenSecrets bundler data (Tier 1)]
+
+### What They Bought
+
+| Sector | Career $ (est.) | Key donors | Policy deliverables |
+|---|---:|---|---|
+| Israel-Maximalist Lobby | $10M+ | Adelson, RJC, Elliott Management (Singer) | Embassy move (2018), JCPOA withdrawal (2018), Abraham Accords, Iran war onset (Feb 2026). Four deliverables across two administrations. |
+| Sugar & Florida Agriculture | $2M+ bundled | Fanjul Family, FL Agriculture PAC | Sugar program preserved across 2014, 2018, 2024 Farm Bills. Cuba embargo maintained (sugar import protection). |
+| Defense Contractors | $5M+ bundled | Boeing, General Dynamics, Honeywell, Lockheed | Intel and Foreign Relations committee alignment 2011–2025. Iran war execution 2026. China tech sanctions 2025. |
+| Finance & Wall Street | $3M+ direct | Elliott Management, Goldman Sachs, Blackstone, Morgan Stanley | Dodd-Frank rollback positions, anti-CFPB posture, favorable posture on distressed-debt policy. |
+| Cuban-American Exile Network | Bundled, decades | Various | Cuba embargo tightening, Venezuela regime-change posture, Maduro sanctions, Castro-government non-recognition. |
+
+See [[Operation Southern Spear and the Cuba Fuel Blockade]] for the Venezuela blockade deliverable. See [[The Iran War Money Trail - From Adelson to Airstrikes]] for the war's donor funding trail. [Source: FEC (Tier 1); State Department public statements (Tier 1); legislative record (Tier 1)]
 
 ---
 

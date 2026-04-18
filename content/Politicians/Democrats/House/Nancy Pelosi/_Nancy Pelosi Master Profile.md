@@ -121,7 +121,7 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 
 ---
 
-## The Donor Class Map
+## The Money
 
 
 <!-- auto:data-panel start -->
@@ -152,19 +152,50 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
-Key institutional relationships and their policy returns, each links to a detailed sub-note:
+### The Campaign Chest
 
-**The $1.6 Billion Machine:** [[The $1.6 Billion Fundraising Machine]]
-Career total: $1.6B+ since 2002 · 2018 cycle: $91M for DCCC · DCCC dues system (fundraising targets tied to committee assignments) · Consultant blacklist (March 2019, post-AOC) · Progressive containment strategy (Squad dismissed as "four people," AOC blocked from Oversight chair) · The infrastructure that ensures only donor-compatible Democrats advance
+Pelosi's personal campaign account is not the story. Her 2024 cycle total of $2.4M is what a safe-seat incumbent raises for routine re-election. The real money machine is the DCCC apparatus she built. $1.6 billion in cumulative fundraising since 2002, routed through a dues-and-blacklist system that determines which Democrats rise through the caucus. See [[The $1.6 Billion Fundraising Machine]] for the structural detail. The top-donor table above shows the 2024 cycle only. The career record is an order of magnitude larger, institutional, and explicitly tied to committee access. [Source: Washington Post fact-check (Tier 2); Fox News (Tier 2)]
 
-**The Stock Trading Record:** [[The Stock Trading Record]]
-Net worth: $240–275M · Visa IPO ($1.8M profit while credit card legislation pending) · Nvidia sale before CHIPS vote ($341K loss, timing scrutiny) · Tesla options before EV mandates · Google sale before antitrust · STOCK Act support, PELOSI Act endorsement, no legislation passed · Paul Pelosi manages portfolio, congressional disclosure requirements widely criticized as insufficient
+### Wealth Outside Donations
 
-**The Biden Exit and Harris Installation:** [[The Biden Exit and Harris Installation]]
-Most powerful single actor in forcing Biden withdrawal (July 2024) · Private pressure campaign July 10–21 · Reframed decision as institutional survival (down-ballot races) · "Process not anointment" rhetoric → endorsed Harris after donor class consolidated ($81M in 24 hours) · Pelosi removed Biden; the donor class installed Harris, both functions operated as designed
+| Source | Amount | Evidence |
+|---|---:|---|
+| Estimated net worth | $240–275M (2025–2026) | Financial disclosure filings (Tier 1) |
+| Public stock holdings | ~$150M (Nvidia, Microsoft, Salesforce, Google, Amazon) | STOCK Act PTRs |
+| Real estate | ~$45M (Napa Valley vineyard, SF Bay Area commercial + residential) | County records |
+| Financial Leasing Services Inc. | Co-owned with Paul Pelosi | Corporate filings |
+| Visa IPO (2008) profit | ~$1.8M, while credit-card legislation pending | STOCK Act disclosure |
+| Nvidia sale (July 2022) | –$341K loss, two weeks before CHIPS vote | STOCK Act PTR |
+| Tesla options (Dec 2020) | Up to $1M, weeks before Biden EV fleet plan | STOCK Act PTR |
+| Alphabet options + sale (2021-2023) | $1.5M+ sold one month before DOJ antitrust suit | STOCK Act PTR |
 
-**Legislative Record as Speaker:** [[Legislative Record as Speaker]]
-ACA (220-215, preserved private insurance, expanded coverage to 20M while healthcare donor class gained millions of customers) · Two Trump impeachments (accountability performed without achieved) · CHIPS Act ($52B semiconductors, Paul Pelosi Nvidia sale shadow) · Build Back Better passed House at $3.5T → Senate killed 90% → IRA survived at $369B · IBEW: prevailing wage in IIJA/IRA/CHIPS construction
+See [[The Stock Trading Record]] for the cumulative pattern. Paul Pelosi manages the portfolio. Every trade is legal under current rules. The pattern is the class position. The Speaker of the House and her spouse transact in securities whose regulatory environment is set by the chamber she leads. [Source: STOCK Act filings (Tier 1) VERIFIED]
+
+### The Mega-Donors
+
+Pelosi's 2024 top donors are institutions, not individuals. Her structural position is as gatekeeper through the DCCC, not as personal megacheck recipient. The five institutions below maxed out to her 2024 cycle. Each funds a specific legislative posture.
+
+**[[Meta|Meta (Facebook)]]**, $33,059. Social media platform with ongoing antitrust exposure, Section 230 dependence, content-moderation liability. What they want: no Section 230 rollback, no federal antitrust breakup, no algorithmic disclosure mandate. What Pelosi did: blocked House antitrust bills against big tech from reaching the floor in 2022, declined to bring the American Innovation and Choice Online Act up for a vote. [Source: FEC (Tier 1)]
+
+**[[Google|Google (Alphabet)]]**, $27,742. Parallel antitrust exposure, DOJ lawsuit pending. What they want: slow-walked regulation, favorable federal AI frameworks that incumbents can navigate. What Pelosi did: same as Meta. Paul Pelosi sold $1.5M+ of Google stock one month before the DOJ antitrust filing. [Source: FEC (Tier 1), STOCK Act (Tier 1)]
+
+**[[Apple|Apple]]**, $27,407. App Store rent extraction, iPhone regulation, right-to-repair exposure. What they want: no federal right-to-repair law, no forced App Store side-loading. What Pelosi did: blocked the Open App Markets Act from a floor vote. [Source: FEC (Tier 1)]
+
+**Kaiser Permanente**, $27,404. Integrated HMO, largest private insurer in California, ACA-built business model. What they want: preserve private insurance as the backbone of US healthcare. What Pelosi did: authored the ACA in 2010 (passed 220-215) with the individual mandate + expanded coverage, delivering 20M+ new paying customers to the private insurance industry while killing the public option. [Source: FEC (Tier 1); ACA legislative record]
+
+**American Hospital Association PAC**, $20,000. Trade association for private hospital systems. What they want: Medicare rate increases, no price transparency, no surprise-billing caps that cut hospital revenue. What Pelosi did: ACA delivered uninsured patients as paying customers. Surprise-billing reform (No Surprises Act, 2020) watered down from original provider-side fixes. [Source: FEC (Tier 1)]
+
+### What They Bought
+
+| Sector | Direct 2024 $ | Career pattern | Policy deliverables |
+|---|---:|---|---|
+| Big Tech (Meta, Google, Apple, Comcast-NBCU) | $104,569 | Top consistent sector since 2008 | Blocked Open App Markets Act, blocked American Innovation and Choice Online Act from floor vote (2022). No Section 230 reform during her speakerships. |
+| Private Healthcare & Insurance (Kaiser, AHA PAC) | $47,404 | ACA architect | ACA preserved private insurance, 20M+ new customers to private carriers, killed public option. Medicare Part D drug-price negotiation weakened vs original progressive version. |
+| Real Estate & Finance (Realtors, Comcast, Hospital PAC) | $56,361 | Career-long | CARES Act + subsequent relief preserved mortgage-backed asset prices. No federal rent cap reached the floor. |
+| Organized Labor (AFSCME PEOPLE, Let America Vote) | $45,000 | Cyclical, spikes on election years | Prevailing-wage provisions in IIJA, IRA, CHIPS Act. Build Back Better passed House at $3.5T, gutted 90% in Senate to IRA at $369B. |
+| Political Infrastructure | DCCC, $1.6B career | Gatekeeper apparatus | Forced Biden withdrawal (July 2024); donor class installed Harris with $81M in 24 hours. See [[The Biden Exit and Harris Installation]]. |
+
+See [[Legislative Record as Speaker]] for the detailed policy record. The pattern: institutional donors get the bills they want killed in committee or on the floor; labor gets procedural wins and enforcement gaps. [Source: FEC (Tier 1); legislative record (Tier 1)]
 
 ---
 
