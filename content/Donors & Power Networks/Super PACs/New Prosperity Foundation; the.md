@@ -46,6 +46,54 @@ individual-contributions: 10000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $6.2M |
+| Money out: IE spending FOR candidates | $1.2M |
+| Money out: IE spending AGAINST candidates | $4.1M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| HERRO, DAVID G (IL) | $840K | HARRIS ASSOCIATES LP |
+| ILLINOIS MANUFACTURERS (IL) | $530K | — |
+| HERRO, DAVID G. (FL) | $408K | HARRIS ASSOCIATES LP |
+| UIHLEIN, RICHARD (IL) | $345K | ULINE/CEO |
+| KREHBIEL, FRED A (IL) | $280K | MOLEX INCORPORATED |
+| MACLEAN FOGG COMPANY (IL) | $250K | — |
+| AMERICAN CROSSROADS 527 (DC) | $250K | — |
+| WEAVER POPCORN (IN) | $249K | — |
+| MAZZA, THOMAS (IL) | $240K | SELF EMPLOYED |
+| BURT, ROBERT (SC) | $190K | NONE |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0IL00261 | $427K |
+| H0IL10302 | $339K |
+| H8NM02073 | $89K |
+| H4IL12060 | $70K |
+| H4IL11237 | $53K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0IL00204 | $579K |
+| H8IL06139 | $435K |
+| S8IN00049 | $415K |
+| H2IL12122 | $395K |
+| H6IL06141 | $292K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

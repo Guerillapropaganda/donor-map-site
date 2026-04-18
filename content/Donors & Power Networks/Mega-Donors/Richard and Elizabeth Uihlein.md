@@ -44,6 +44,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $152.6M across 58 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| CLUB FOR GROWTH ACTION | $94.3M | 2010→2024 |
+| AMERICAS PAC | $13.8M | 2014→2020 |
+| MAKE AMERICA GREAT AGAIN INC. | $5.0M | 2024→2024 |
+| SAVING ARIZONA PAC | $3.0M | 2022→2022 |
+| LEADERSHIP FOR OHIO FUND | $3.0M | 2024→2024 |
+| CFG ACTION WISCONSIN | $2.5M | 2018→2018 |
+| TEAM PAC | $2.5M | 2022→2022 |
+| SOLUTIONS FOR WISCONSIN | $2.4M | 2018→2018 |
+| ARKANSAS PATRIOTS FUND | $2.1M | 2022→2022 |
+| OUR PRINCIPLES PAC | $2.0M | 2016→2016 |
+| SOLUTIONS FOR WISCONSIN | $2.0M | 2018→2018 |
+| CFG ACTION MISSOURI | $2.0M | 2018→2018 |
+| SCHOOL FREEDOM FUND | $2.0M | 2024→2024 |
+| NEVER BACK DOWN INC. | $1.5M | 2024→2024 |
+| TRUSTED LEADERSHIP PAC | $1.0M | 2016→2016 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #uihlein #uline #shipping #far-right #class-analysis #follow-the-money #trump #election-denial #january-6 #anti-union #school-choice #abortion
 
 ---

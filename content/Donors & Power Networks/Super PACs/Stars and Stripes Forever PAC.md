@@ -47,6 +47,53 @@ individual-contributions: 122496
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $710K |
+| Money out: IE spending FOR candidates | $190K |
+| Money out: IE spending AGAINST candidates | $768K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| BRITTON, LYNDA R MS. (OH) | $360K | RETIRED |
+| CURTIS, JOHN D (FL) | $200K | RETIRED |
+| OMEGA LIST COMPANY (VA) | $40K | — |
+| BETTIS, HARRY (ID) | $30K | SELF EMPLOYED |
+| JOHNSON, CHARLES (FL) | $25K | RETIRED |
+| RUST, ROBERT W COL (FL) | $25K | RETIRED |
+| HILLMAN, TATNALL (CO) | $10K | RETIRED |
+| DE CHAINE, JAMES P (CA) | $10K | RETIRED |
+| MARTIN, JOYCE V MRS. (CO) | $10K | RETIRED |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $120K |
+| S8MS00261 | $28K |
+| S4GA11285 | $12K |
+| S0GA00526 | $12K |
+| H2TX28149 | $9K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4CA23011 | $147K |
+| S2IN00091 | $128K |
+| S2WI00219 | $74K |
+| S6MO00305 | $51K |
+| P80000722 | $50K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

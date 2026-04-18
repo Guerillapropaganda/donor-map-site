@@ -49,6 +49,50 @@ contributions-to-committees: 772500
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $-20K |
+| Money out: direct contributions to candidates | $11.7M |
+| Money out: IE spending FOR candidates | $5.1M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| COSTELLO, TOM DR. (NV) | $-20K | Desert Radiology/Physician |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2TX26093 | $100K |
+| H6MI04113 | $89K |
+| H4WA05077 | $88K |
+| H8MA02041 | $85K |
+| H0IN08114 | $81K |
+| H8KY02031 | $79K |
+| H2MD05155 | $79K |
+| H6CA22125 | $76K |
+| H0CA03078 | $74K |
+| H4GA06087 | $74K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8AZ09024 | $584K |
+| S8TN00337 | $386K |
+| S6OH00163 | $266K |
+| S8NV00156 | $245K |
+| S4NC00089 | $240K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

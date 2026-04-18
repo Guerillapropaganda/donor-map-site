@@ -59,6 +59,37 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $51.0M across 19 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| FAIRSHAKE | $45.4M | 2024→2026 |
+| BLACKPAC | $2.5M | 2024→2024 |
+| DEFEND AMERICAN JOBS | $925K | 2024→2026 |
+| PROTECT PROGRESS | $925K | 2024→2026 |
+| SMP | $500K | 2024→2024 |
+| SLF PAC | $500K | 2024→2026 |
+| WINRED | $101K | 2024→2026 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $42K | 2024→2026 |
+| 2024 THUNE REPUBLICAN SENATE VICTORY | $32K | 2024→2024 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $14K | 2024→2024 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | $14K | 2024→2024 |
+| ACTBLUE | $12K | 2024→2024 |
+| ACTBLUE | $12K | 2024→2024 |
+| TEAM MCHENRY | $12K | 2024→2024 |
+| DAINES SENATE MAJORITY FUND | $12K | 2024→2024 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #ben-horowitz #a16z #andreessen-horowitz #crypto #fairshake #leading-the-future #ai-pac #mega-donor
 
 ---

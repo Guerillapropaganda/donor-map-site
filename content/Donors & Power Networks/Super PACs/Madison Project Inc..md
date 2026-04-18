@@ -49,6 +49,70 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $943K |
+| Money out: direct contributions to candidates | $619K |
+| Money out: IE spending FOR candidates | $355K |
+| Money out: IE spending AGAINST candidates | $182K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| UIHLEIN, RICHARD (IL) | $723K | ULINE |
+| SF INVESTMENTS INC. (IL) | $100K | — |
+| NOVA LIST COMPANY (VA) | $28K | — |
+| WILSON, JERRY (TX) | $20K | NONE |
+| MACOMBER, WAYNE (WA) | $20K | NONE |
+| GATES, ALONZO E MR. II (TX) | $12K | — |
+| DICKSON, ALLEN (LA) | $11K | NONE |
+| MONCRIEF, W. A. MR. JR. (TX) | $10K | — |
+| KING, HENRY LEWIS (OH) | $10K | NONE |
+| HILLMAN, TATNALL L (CO) | $10K | NONE |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4MS00120 | $28K |
+| H2WA03100 | $20K |
+| S2TX00312 | $12K |
+| S2OH00170 | $11K |
+| H2FL00292 | $11K |
+| H4GA11061 | $10K |
+| H0MI02094 | $10K |
+| H2MD06179 | $10K |
+| H0FL13158 | $10K |
+| H2WY00166 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6FL00293 | $89K |
+| H6OR05143 | $55K |
+| H6FL02190 | $30K |
+| S4LA00115 | $30K |
+| P60006111 | $29K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8AL00308 | $68K |
+| S2KY00012 | $53K |
+| H8OR05107 | $45K |
+| H2PA09035 | $10K |
+| S2TX00106 | $5K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

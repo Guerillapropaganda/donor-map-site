@@ -79,6 +79,32 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $22.9M across 10 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| MAGA INC. | $12.5M | 2026→2026 |
+| AMERICA FIRST ACTION, INC. | $10.0M | 2020→2020 |
+| AMERICAN FREEDOM FUND | $250K | 2020→2020 |
+| MORE JOBS, LESS GOVERNMENT | $50K | 2024→2024 |
+| TEXANS ARE | $25K | 2018→2018 |
+| ACTBLUE | $13K | 2014→2014 |
+| TRUMP SAVE AMERICA JOINT FUNDRAISING COMMITTEE | $12K | 2024→2024 |
+| REPUBLICAN PARTY OF KENTUCKY | $10K | 2024→2024 |
+| COLORADO REPUBLICAN FEDERAL CAMPAIGN COMMITTEE | $10K | 2020→2020 |
+| BADLANDS PAC | $10K | 2018→2018 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor-node #mega-donor #fossil-fuel #pipeline #texas #republican #class-analysis #donor
 
 ---

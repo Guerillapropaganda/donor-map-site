@@ -49,6 +49,70 @@ employee-donor-count: 15
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $17.0M |
+| Money out: direct contributions to candidates | $613K |
+| Money out: IE spending FOR candidates | $5.1M |
+| Money out: IE spending AGAINST candidates | $2.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| HUIZENGA, J.C. MR. (MI) | $250K | WESTWATER GROUP |
+| HAWORTH, RICHARD MR. (MI) | $240K | HAWORTH INC. |
+| DEVOS, MARIA MRS. (MI) | $210K | N/A |
+| VAN ANDEL, STEPHEN MR. (MI) | $210K | ALTICOR, INC. |
+| HAWORTH, ETHELYN MRS. (MI) | $210K | N/A |
+| DEVOS, DOUGLAS MR. (MI) | $200K | ALTICOR INC. |
+| KENNEDY, JOHN MR. III (MI) | $180K | AUTO CAM CORP. |
+| DEVOS, DAN MR. (MI) | $180K | D.P. FOX L.L.C. |
+| SECCHIA, PETER HON. (MI) | $160K | SIBSCO LLC |
+| WEISER, RONALD (MI) | $160K | U.S. STATE DEPARTMENT |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6MI12181 | $21K |
+| S4MI00165 | $20K |
+| H2MI12032 | $20K |
+| H8MI10082 | $15K |
+| S0HI00092 | $15K |
+| H2MI08048 | $15K |
+| H2MI11042 | $11K |
+| H4MI03011 | $10K |
+| H0MI08042 | $10K |
+| S6CO00168 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8MI00406 | $1.6M |
+| H4MI07103 | $847K |
+| H4MI08135 | $716K |
+| H2MI03197 | $377K |
+| H8MI11320 | $331K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8MI09068 | $1.2M |
+| H0MI01153 | $469K |
+| S8MI00281 | $274K |
+| H8MI07096 | $161K |
+| P80003338 | $155K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

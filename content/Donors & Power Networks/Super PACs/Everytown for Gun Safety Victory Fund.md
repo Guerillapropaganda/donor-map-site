@@ -38,6 +38,54 @@ individual-contributions: 6715401
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $80.8M |
+| Money out: IE spending FOR candidates | $14.1M |
+| Money out: IE spending AGAINST candidates | $27.4M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| EVERYTOWN FOR GUN SAFETY ACTION FUND INC (NY) | $28.4M | — |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND, INC (NY) | $14.1M | — |
+| BALLMER, CONNIE (WA) | $12.0M | BALLMER GROUP |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND (NY) | $10.2M | — |
+| EVERYTOWN-DEMAND A SEAT PAC (NY) | $6.5M | — |
+| BLOOMBERG, MICHAEL R. (NY) | $1.3M | BLOOMBERG INC. |
+| PRITZKER, DANIEL (TX) | $1.0M | SELF EMPLOYED |
+| SIMON SKJODT, CYNTHIA (IN) | $750K | N/A |
+| ABRAMS, AMY (MA) | $525K | NOT EMPLOYED |
+| ABRAMS, DAVID (MA) | $525K | ABRAMS CAPITAL |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8GA06393 | $5.2M |
+| P80000722 | $4.1M |
+| P00009423 | $3.1M |
+| H8CO06229 | $727K |
+| H4CA47085 | $567K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $5.3M |
+| S4NC00162 | $3.9M |
+| S4IA00129 | $2.7M |
+| H8GA06286 | $2.1M |
+| S2GA00225 | $1.0M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

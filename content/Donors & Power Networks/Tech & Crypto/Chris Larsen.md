@@ -55,6 +55,30 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $1.5M across 8 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| JANE FONDA CLIMATE PAC | $1.1M | 2024→2026 |
+| ACTBLUE | $294K | 2018→2026 |
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $50K | 2000→2016 |
+| EQUALITY CALIFORNIA VOTES | $50K | 2024→2024 |
+| 314 ACTION FUND | $25K | 2018→2018 |
+| RO FOR CONGRESS INC | $22K | 2020→2020 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $15K | 2008→2008 |
+| DEMOCRATIC STATE CENTRAL COMMITTEE OF MARYLAND | $10K | 2022→2022 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #chris-larsen #ripple #xrp #crypto #future-forward #kamala-harris #mega-donor
 
 ---

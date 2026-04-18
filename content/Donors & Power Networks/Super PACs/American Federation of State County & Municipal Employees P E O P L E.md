@@ -52,6 +52,62 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $192K |
+| Money out: direct contributions to candidates | $49.0M |
+| Money out: IE spending FOR candidates | $18.7M |
+| Money out: IE spending AGAINST candidates | $66.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| TREASURER OF THE STATE (OH) | $147K | — |
+| AFSCME CA LOCAL 3299 (CA) | $45K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0CT03072 | $219K |
+| H2MD05155 | $214K |
+| H8CA05035 | $191K |
+| H8NJ03073 | $172K |
+| H6NY03031 | $169K |
+| H4MS02068 | $167K |
+| H8NY20056 | $164K |
+| H2SC02042 | $163K |
+| H2OH09031 | $163K |
+| H6CA07043 | $158K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80000235 | $3.5M |
+| P40002214 | $3.4M |
+| P00003392 | $2.4M |
+| P80000722 | $1.4M |
+| S6OH00163 | $1.1M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80002801 | $4.6M |
+| S4PA00121 | $4.5M |
+| S6NV00218 | $4.4M |
+| S2NV00183 | $3.6M |
+| S4NC00162 | $3.5M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

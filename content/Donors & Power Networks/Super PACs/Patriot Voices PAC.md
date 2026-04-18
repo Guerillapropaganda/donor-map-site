@@ -45,6 +45,70 @@ individual-contributions: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.5M |
+| Money out: direct contributions to candidates | $52K |
+| Money out: IE spending FOR candidates | $139K |
+| Money out: IE spending AGAINST candidates | $205K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| TROUTT, KENNETH MR. (TX) | $265K | RETIRED |
+| PATRIOT VOICES INC. (PA) | $250K | — |
+| FRIESS, FOSTER MR. (WY) | $250K | FRIESS ASSOCIATES INC |
+| DORE, WILLIAM J MR. (LA) | $245K | RETIRED |
+| TROUTT, LISA MRS. (TX) | $165K | HOUSEWIFE |
+| MIHAYLO, STEVEN G. MR. (NV) | $160K | CREXENDO |
+| WALL, K MS. (TX) | $90K | SELF EMPLOYED |
+| MIHAYLO, STEVEN G MR. (NV) | $20K | IMERCHANT |
+| MARTINS FAMOUS PASTRY SHOPPE INC. (PA) | $20K | — |
+| NORTH DALLAS HONEY COMPANY LP (TX) | $10K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| P20002721 | $5K |
+| S8VA00214 | $3K |
+| H0PA04220 | $3K |
+| S2MO00429 | $3K |
+| S6MT00097 | $3K |
+| S2IN00083 | $3K |
+| S2OH00170 | $3K |
+| S2ND00073 | $3K |
+| S2PA00224 | $3K |
+| H4IA03081 | $2K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80003353 | $31K |
+| S2OH00170 | $21K |
+| S4IA00129 | $13K |
+| S2PA00224 | $10K |
+| S4CO00395 | $8K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80003338 | $67K |
+| P00003392 | $19K |
+| S0NH00219 | $8K |
+| S8MN00438 | $8K |
+| S6LA00227 | $8K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

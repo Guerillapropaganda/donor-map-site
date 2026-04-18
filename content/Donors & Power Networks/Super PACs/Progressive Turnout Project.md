@@ -50,6 +50,68 @@ employee-donor-count: 36
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $7.3M |
+| Money out: direct contributions to candidates | $3.4M |
+| Money out: IE spending FOR candidates | $12.6M |
+| Money out: IE spending AGAINST candidates | $513K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| DEM TURNOUT 2024 (IL) | $2.8M | — |
+| ADVOCACY ACTION FUND (CA) | $1.0M | — |
+| PROGRESSIVE TURNOUT PROJECT 527 COMMITTEE (IL) | $857K | — |
+| STOP THESE OPPRESSIVE PEOPLE TYRANTS RACISTS UNQUALIFIEDS MISOGYNISTS PROPAGANDISTS STOP TRUMP (IL) | $450K | — |
+| AMALGAMATED BANK (NY) | $323K | — |
+| CIBC BANK (IL) | $232K | — |
+| DEMOCRACYFIRST PAC (IL) | $180K | — |
+| PROGRESSIVE TAKEOVER (IL) | $168K | — |
+| GREEN ADVOCACY PROJECT (DC) | $150K | — |
+| MOSKOVITZ TRUST, DUSTIN (CA) | $145K | INFORMATION REQUESTED |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8IL09067 | $39K |
+| H8KS03155 | $35K |
+| H6MN02131 | $35K |
+| H8PA15229 | $35K |
+| H8ME02185 | $34K |
+| H6NV04020 | $34K |
+| H2NV04011 | $34K |
+| H8NH01210 | $34K |
+| H8IL06139 | $34K |
+| H2PA17079 | $29K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00009423 | $2.8M |
+| P80000722 | $2.1M |
+| S8TX00285 | $612K |
+| S8GA00180 | $345K |
+| S0GA00559 | $340K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8FL00273 | $488K |
+| P80001571 | $21K |
+| H8WI01024 | $4K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

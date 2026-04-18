@@ -70,6 +70,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $22.3M across 27 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| PRIORITIES USA ACTION | $6.1M | 2016→2016 |
+| SMP | $5.9M | 2014→2024 |
+| HMP | $4.5M | 2018→2026 |
+| UNITED DEMOCRACY PROJECT ('UDP') | $4.0M | 2022→2026 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $614K | 2004→2022 |
+| ACTBLUE | $421K | 2018→2026 |
+| NANCY PELOSI VICTORY FUND | $263K | 2022→2022 |
+| COMMITTEE TO ELECT AN EFFECTIVE VALLEY CONGRESSMAN | $175K | 2012→2012 |
+| COMMITTEE FOR MARYLAND'S PROGRESS | $100K | 2016→2016 |
+| AB PAC | $25K | 2018→2018 |
+| SENATE 2018 IMPACT | $22K | 2018→2018 |
+| U.S. ISRAEL FRIENDSHIP PAC | $20K | 2010→2010 |
+| PAC FOR A CHANGE | $20K | 2018→2018 |
+| KNOCK FOR DEMOCRACY, INC. | $20K | 2022→2022 |
+| RE-ELECT HAROLD FORD, JR. | $11K | 2006→2006 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #israel #haim-saban #billionaire #entertainment #single-issue #democratic-mega-donor #follow-the-money #class-analysis #california #beverly-hills
 
 ---

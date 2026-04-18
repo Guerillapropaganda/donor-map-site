@@ -42,6 +42,53 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $15.7M |
+| Money out: IE spending FOR candidates | $760K |
+| Money out: IE spending AGAINST candidates | $15.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SIXTEEN THIRTY FUND (DC) | $9.4M | — |
+| SEIU COPE SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (DC) | $1.9M | — |
+| LCV VICTORY FUND (DC) | $1.8M | — |
+| MAINE MOMENTUM (ME) | $1.6M | — |
+| MURDOCH, JAMES RUPERT (NY) | $500K | LUPA SYSTEMS LLC |
+| BLOOMBERG, MICHAEL R. (NY) | $250K | BLOOMBERG LP |
+| FUND FOR A BETTER FUTURE INC. (CA) | $200K | — |
+| HOUSE MAJORITY PAC (DC) | $31K | — |
+| WOMEN VOTE (DC) | $17K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8VA02111 | $172K |
+| H8GA06393 | $166K |
+| H8NC13067 | $125K |
+| H8TX32098 | $45K |
+| H8FL26039 | $45K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $4.8M |
+| H6MI04113 | $1.5M |
+| S4IA00129 | $1.4M |
+| S6ME00159 | $1.2M |
+| H8CO06138 | $913K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

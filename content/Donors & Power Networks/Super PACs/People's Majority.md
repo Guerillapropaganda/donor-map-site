@@ -43,6 +43,37 @@ total-spent: 1006
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $425K |
+| Money out: IE spending AGAINST candidates | $183K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SAWYER, BRUCE P. (MD) | $150K | INVESTOR |
+| HOPE, JASON (AZ) | $90K | SELF-EMPLOYED |
+| HANLEY, WILLIAM LEE (FL) | $75K | SELF-EMPLOYED |
+| COLLIS, ELLEN (RI) | $50K | RETIRED |
+| BURR, FRANK (NJ) | $30K | RETIRED |
+| PETERFFY, THOMAS (CT) | $10K | N/A |
+| HANLEY, ALICE (FL) | $10K | SELF-EMPLOYED |
+| LEXINGTON MANAGEMENT GROUP INC (FL) | $10K | — |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6RI00221 | $183K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

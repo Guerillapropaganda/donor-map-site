@@ -104,6 +104,35 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $8.6M across 13 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| GLCF, INC. | $4.5M | 2024→2024 |
+| 1820 PAC | $2.0M | 2020→2020 |
+| HONOR PENNSYLVANIA, INC. | $600K | 2022→2022 |
+| THE SENTINEL ACTION FUND | $500K | 2026→2026 |
+| RJC VICTORY FUND | $200K | 2022→2022 |
+| USA FREEDOM FUND | $200K | 2022→2022 |
+| WINRED | $129K | 2024→2026 |
+| OPPORTUNITY MATTERS FUND, INC. | $100K | 2022→2022 |
+| LIBERTY CHAMPIONS | $100K | 2022→2022 |
+| WORKING FOR AMERICA INC. | $100K | 2024→2024 |
+| SECURE NYS PAC | $100K | 2024→2024 |
+| MAX MILLER VICTORY | $24K | 2024→2026 |
+| RIGHT TO RISE USA | $12K | 2016→2016 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #billionaire #republican #private-equity #blackstone #wall-street
 
 ---

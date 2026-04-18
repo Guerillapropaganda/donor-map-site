@@ -46,6 +46,39 @@ contributions-to-committees: 3298
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $638K |
+| Money out: IE spending FOR candidates | $354K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS IBEW LOCAL 98 COPE (PA) | $374K | — |
+| WORKING PHILADELPHIANS PAC (PA) | $109K | — |
+| PLUMBERS UNION LOCAL 690 PAF (PA) | $30K | — |
+| STEAMFITTERS LOCAL UNION 420 COPE (PA) | $20K | — |
+| BRICKLAYERS  ALLIED CRAFTWORKERS LOCAL 1 PADE PAC (PA) | $20K | — |
+| BRIGHTER PENNSYLVANIA PAC (PA) | $15K | — |
+| LANCASTER MEWS PARTNERS LP (PA) | $15K | — |
+| SENCINDIVER, MICHAEL V (NJ) | $15K | KMS DEVELOPMENT PARTNERS LLC |
+| IRON WORKERS LOCAL 401 PAF (PA) | $10K | — |
+| SPRINKLER FITTERS LOCAL UNION 692 PAC (PA) | $10K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4PA13199 | $354K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

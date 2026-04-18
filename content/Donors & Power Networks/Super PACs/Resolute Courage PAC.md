@@ -46,6 +46,43 @@ contributions-to-committees: 14000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $215K |
+| Money out: direct contributions to candidates | $18K |
+| Money out: IE spending FOR candidates | $23K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CONWAY, RON (CA) | $165K | SV ANGEL, LLC |
+| JL WHITE INTERNATIONAL, LLC (AZ) | $25K | — |
+| THE VALLEJO VENTURES TRUST (CA) | $25K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4CA16049 | $5K |
+| H2OH09031 | $4K |
+| H4CA16239 | $3K |
+| H4WA06117 | $3K |
+| H4OR03168 | $3K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4CA16049 | $23K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

@@ -84,6 +84,54 @@ contributions-to-committees: 5331200
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $200.9M |
+| Money out: IE spending FOR candidates | $31.0M |
+| Money out: IE spending AGAINST candidates | $38.2M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE (DC) | $51.5M | — |
+| KOUM, JAN (CA) | $7.0M | RETIRED |
+| JACOBSON, JONATHON (MA) | $5.6M | HIGHFIELDS CAPITAL |
+| SINGER, PAUL (NY) | $5.5M | ELLIOTT INVESTMENT MANAGEMENT |
+| MARCUS, BERNARD (GA) | $4.0M | THE MARCUS FOUNDATION |
+| SABAN, HAIM (CA) | $4.0M | SABAN CAPITAL GROUP |
+| LERNER, HELAINE (NY) | $3.3M | RETIRED |
+| KRAFT GROUP LLC (MA) | $3.0M | — |
+| ZALIK, DAVID (GA) | $2.1M | GREENSKY |
+| RUBIN, LINDA (CA) | $1.9M | SELF EMPLOYED |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4NY16087 | $4.7M |
+| H4MD03156 | $4.3M |
+| H8MI11254 | $3.9M |
+| H4MO01134 | $3.4M |
+| H2MI13246 | $2.7M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0NY16143 | $9.9M |
+| H8MO01143 | $5.3M |
+| H4CA47085 | $4.6M |
+| H2MD04356 | $4.3M |
+| H2PA18200 | $3.3M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #aipac #super-pac #israel-lobby #udp #dark-money
 
 ---

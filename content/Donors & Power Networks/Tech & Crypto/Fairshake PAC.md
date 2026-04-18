@@ -87,6 +87,54 @@ cash-on-hand: 2355043
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $357.8M |
+| Money out: IE spending FOR candidates | $27.1M |
+| Money out: IE spending AGAINST candidates | $21.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| COINBASE (CA) | $101.6M | — |
+| RIPPLE LABS INC. (CA) | $73.0M | — |
+| ANDREESSEN, MARC (CA) | $45.4M | AH CAPITAL MANAGEMENT |
+| HOROWITZ, BEN (CA) | $45.4M | AH CAPITAL MANAGEMENT |
+| COINBASE COMMERCE EXCHANGE (CA) | $33.2M | — |
+| JUMP CRYPTO (IL) | $25.0M | — |
+| RIPPLE LABS INC (CA) | $20.0M | — |
+| WINKLEVOSS, CAMERON (NY) | $2.5M | WINKLEVOSS CAPITAL MANAGEMENT |
+| WINKLEVOSS, TYLER (NY) | $2.5M | WINKLEVOSS CAPITAL MANAGEMENT |
+| WILSON, FRED (NY) | $1.0M | UNION SQUARE VENTURES |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0CA48198 | $2.8M |
+| H2CO08020 | $2.3M |
+| H2NC01149 | $2.3M |
+| H8NY19223 | $2.0M |
+| H2AK01158 | $1.9M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4CA00522 | $10.0M |
+| S6IL00458 | $5.2M |
+| H0NY16143 | $2.1M |
+| H6IL07354 | $1.8M |
+| H8MO01143 | $1.4M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #fairshake #crypto #super-pac #class-analysis #follow-the-money #deregulation #2024-election #2026-midterms #coinbase #a16z #ripple
 
 ---
