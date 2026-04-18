@@ -192,14 +192,49 @@ Live-site debugging → Trump data overhaul → Rubio polish → systemic pipeli
 ### In progress
 None. Clean stop.
 
+### Additional work (after first session-save at commit 2bce7e629)
+
+Session continued — another ~7 commits landed after the first save.
+
+**Rubio live-site tab fixes (commit `5ac4dc4f7`):**
+- Top Donors panel was rendering above tabs (not inside Money tab) because build-profile-data-panels kept it in place instead of relocating to `## The Donor Class Map`. Generator now strips existing blocks and re-inserts inside the Money section regardless of prior position.
+- Key Votes tab showed "data not yet available" because `### Voting Record` (H3) was nested under `## Influence Network` and the tab wrapper only buckets by H2. Ingester now auto-promotes H3 → H2 on every run. Rubio's section promoted manually.
+- `## Policy Executed` wasn't routed to any tab. Added text matches for "policy executed", "voting record", "department action", "diplomatic record" in `ProfileHeader.tsx:232` so Cabinet-section names land in the Key Votes/Executive tab.
+
+**EvidencePanel tooltip fixes (commits `487d728f7`, `ccd364162`):**
+- First fix styled the wrong thing (CSS `::after` pseudo-element instead of the browser-native `title=` tooltip).
+- Correct fix: replaced `title=` attributes with `aria-label=` on `signal-trail-clickable` bars. Browsers render `title=` as grey system tooltips we can't style; `aria-label=` preserves screen reader accessibility without the visible grey box. CSS hover hint (`::after`) is now styled yellow-on-black brutalist.
+
+**Pelosi polish (commit `5fd69f364`, applying the Rubio playbook):**
+- Fixed corrupted `central-thesis` frontmatter — `$1.6 billion` had been mangled into `content-readiness: ready.6 billion` by a past YAML-edit collision.
+- `known-gaps: []` emptied (stale).
+- Removed stray body `donors: [[...]]` line + dangling `---`/`---` double separator (same Windows editor quirk as Rubio).
+- Renamed headings to template-accepted variants: `Donor Class Map` → `The Donor Class Map`, `Donation-to-Policy Timeline` → `Timeline`, `Class Analysis. The Gatekeeper` → `Class Analysis`.
+- Section reorder to match 9-section template: Class Analysis (pos 3) moved up from line 243 to right after Central Thesis; Core Contradiction (pos 6) moved down from line 111 to between Donor Class Map and Analytical Patterns.
+- Added `## Related Figures` section with political network drawn from relationships.jsonl (Harris, Newsom, Jeffries, Trump, AIPAC, Saban, Bloomberg, SEIU, IBEW, House Majority PAC, CA Labor Fed).
+- Data panel auto-relocated into The Donor Class Map section via the relocation fix.
+- Added to `data/public-routes.json` so David can review on live.
+- **Still pending:** Key Votes section awaiting a curated CSV. Bioguide `P000197` + fec-candidate-id `H8CA05035` ready for Voteview/GovTrack when David supplies it.
+
+**Profile polish patterns doc (commit `5fd69f364`):**
+- New at `content/Admin Notes/profile-polish-patterns.md`. Running playbook of everything we've hit across Trump + Rubio + Pelosi so future sessions (and this one, later) apply fixes consistently instead of rediscovering every time. Covers: frontmatter bugs, 9-section template order, heading renames, tab routing, data panel placement, voting record ingest, donor dedup residuals, IE-oppose prune, public-routes gating, browser title-tooltip gotcha, Chrome console filter gotcha, deploy cache gotcha.
+
+**Bills frontmatter sync across 85 politicians (commit `a28f98b3c`):**
+- David flagged Pelosi's `bills-cosponsored: 95` as absurd for a 36-year career. Root cause: `ingest-congress-bills-bulk.cjs` ingested only the 118th Congress bulk XML and clobbered the Congress.gov API career totals already populated in `auto:congress-legislation` block. Pelosi was 2 / 95 in frontmatter but 199 / 5,074 in the auto-block.
+- New script `scripts/sync-bills-frontmatter-from-auto-block.cjs` — reads each politician's auto-block, writes career numbers back to frontmatter when larger. 85 profiles fixed. Heaviest hitters: Schumer 54 → 2,437, Feinstein 37 → 2,211, Wyden 80 → 1,984, Cornyn 118 → 1,592, Klobuchar 153 → 1,409, Bernie 50 → 1,164, Pelosi 2 → 199, Hillary Clinton 0 → 713.
+- Added guard to `ingest-congress-bills-bulk.cjs` so future bulk runs don't clobber larger existing values. Pass `--force-bills-overwrite` to override.
+- Added `bills-data-scope` frontmatter field to every updated profile so the source is explicit.
+
 ### Next session priorities (2026-04-18)
 
-1. **Research Claude: Class Analysis rewrite on Trump in David's voice** — blocks verified promotion. Rubio's Class Analysis is already well-structured but also needs David's voice pass when ready.
-2. **Promote Trump + Rubio to `content-readiness: verified`** after Class Analysis sign-off. Template validator passes both structurally.
-3. **Continue Launch-50 profile polish.** Code Claude lane for each: run `build-profile-data-panels.cjs` (already done globally), verify relationships-per-profile data, add missing Related Figures / Voting Record blocks per profile type.
-4. **Investigate the PRIORITIES USA $72K Trump edge** — is it a real 2022 donation (confused committee?) or a mis-ingest? One edge, easy to inspect.
-5. **Consider building a proper roll-call-votes bulk ingest pipeline** (`scripts/ingest-senate-roll-calls-bulk.cjs` or use `HSall_rollcalls.csv` from Voteview) — reusable for all current/former Senate members without needing per-profile curated CSVs.
-6. **Source-ref conversion pass** — `[Source: X]` → `{{src:ID}}` mechanical conversion across verified/ready profiles. Each unmapped source needs a registry entry first; that part is David's lane (URL verification).
+1. **Research Claude: Class Analysis rewrite on Trump + Rubio + Pelosi in David's voice** — blocks verified promotion. All three structurally passable template-wise.
+2. **Promote Trump + Rubio + Pelosi to `content-readiness: verified`** after Class Analysis sign-off. Template validator passes all structurally.
+3. **Get a curated Pelosi Key Votes CSV** (same schema as Rubio's). Drop at `data/bulk/voting-records/pelosi_key_votes.csv`, run ingester, done.
+4. **Verify Pelosi's `$1.6B raised for DCCC` claim** — add a Roll Call / Politico / FEC citation, or generate our own aggregate from OpenSecrets. Currently uncited body assertion. David flagged as suspicious.
+5. **Continue Launch-50 polish** — next candidates: Schumer (Dem leadership, similar playbook to Pelosi), Ted Cruz (sitting Senator), McConnell, or a donor-type profile (Musk/Thiel/Adelson) to exercise the `donor` template branch.
+6. **Investigate: ingest `unitedstates/congress-legislators` GitHub repo** as an enrichment source (bioguide/govtrack/FEC/ICPSR IDs, historical committee memberships, term dates). Fixes future bioguide contamination incidents like the one that hit Pelosi.
+7. **Investigate the PRIORITIES USA $72K Trump edge** — still on last session's list, not yet done.
+8. **Source-ref conversion pass** — `[Source: X]` → `{{src:ID}}` mechanical conversion, still on last session's list.
 
 ---
 
