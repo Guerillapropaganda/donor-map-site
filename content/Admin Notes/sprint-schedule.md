@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-16-public-ui-cleanup-ia-graph-drift'
+last-updated: '2026-04-17-trump-data-overhaul-rubio-polish-systemic-fixes'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1991,6 +1991,76 @@ phase_3_tasks:
       task: "Final build + deploy pipeline verification"
       status: pending
 
+    - id: cc_p3_04
+      task: "Fix live-site annotate pill + fullscreen graph on Trump profile"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Fullscreen graph container now portals to document.body on expand (escapes ancestor stacking contexts that were trapping position:fixed). [anno] + [pw-graph] diagnostics upgraded to console.warn so Chrome's default filter no longer hides them. Commits 83add9413, 29b884334."
+
+    - id: cc_p3_05
+      task: "Admin notes live→Ops sync"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "New Ops route ops/src/app/api/inline-notes/route.ts. AdminBar.saveNote dual-writes to localStorage + POST localhost:3333 with Access-Control-Allow-Private-Network header for Chrome's loopback restriction. Best-effort, silent fallback if Ops down. Writes to content/Admin Notes/inline-notes.jsonl. Commits 4a8c2465b, ddff9a0a8."
+
+    - id: cc_p3_06
+      task: "Trump FEC auto-block relabel (candidate-only vs combined $1.45B)"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Top table was labeling $3.85M as 'Total Raised' which read as Trump's entire 2024 haul. Relabeled to specify candidate-committee-only; combined ~$1.45B (OpenSecrets) promoted to top row in bold. Commit ede466f37."
+
+    - id: cc_p3_07
+      task: "Donor dedup: 142 merges applied, $1.4B+ re-attributed"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "scripts/propose-donor-dedup.cjs scanned relationships.jsonl for name-collision clusters. David approved all 142. scripts/apply-donor-dedup.cjs applied: 2,304 name renames, 57 post-rename duplicates collapsed with amount summing. Ab Pac+AB PAC→$92M, RBG+Rbg→$55M, PRIORITIES USA variants→$471M. Commits bd77ada2b, 83a8503fb."
+
+    - id: cc_p3_08
+      task: "Support/oppose schema split across render pipeline"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Independent-expenditure opposition (role=ie-oppose) edges now route to new ie-opposed-by / ie-opposition-targets buckets instead of donors. Trump's PRIORITIES USA $210M + FF PAC $95M correctly classified as opposition spending, not donations. Changed: build-relationships-per-profile.cjs, rebuild-relationship-caches.cjs, ProfileWidget.tsx. Artifact key normalization consolidated 159 split profiles (2621→2462 entries). Commit 7cf79db5c."
+
+    - id: cc_p3_09
+      task: "Frontmatter prune: IE-oppose names removed from donors across 106 profiles"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "scripts/prune-ie-oppose-from-frontmatter.cjs — one-time cleanup of stale ie-oppose entries from earlier rebuild-relationship-caches runs. Biden no longer 'funded by' MAGA Inc. / Club for Growth; Clinton no longer 'funded by' RNC; Nina Turner no longer 'funded by' Third Way. Idempotent, preserves any entity with a non-opposition edge. Commit 48e01d15b."
+
+    - id: cc_p3_10
+      task: "build-profile-data-panels.cjs: swap to artifact-backed top-donor amounts"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Generator now reads data/relationships-per-profile.json for dollar amounts (canonical-store-derived) instead of stale signals.top_donors with amount=0. Secondary pass walks content/Politicians/ for profiles not in entities.jsonl (Cabinet members etc.) via synthetic entity. Fixed entity.name vs entity.title bug. 411 politician panels regenerated with real numbers in one run. Commit 00a37f1ff."
+
+    - id: cc_p3_11
+      task: "Rubio profile restructure: 9-section template alignment + Policy Executed + Voting Record"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "Section order rebuilt, new Policy Executed section (Cabinet-appropriate — variants added to validator: Policy Executed / Department Actions / Diplomatic Record). Voting Record block populated from curated CSV (39 key votes). Related Figures block added. Template validator passes when promoted to verified. Commits 06888eb61, 992a4b33b."
+
+    - id: cc_p3_12
+      task: "Persistent bulk-data store external to repo"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "C:\\donor-map-data\\bulk\\ with Windows directory junction from main repo and this worktree. Survives worktree cleanup, git clean, repo re-clones. HSall_rollcalls.csv (29MB Voteview) + Rubio curated CSV moved there. scripts/dev/setup-bulk-junction.cjs helper so every future worktree can wire the link in one command. Commit dbb78b49c."
+
+    - id: cc_p3_13
+      task: "Reusable scripts shipped this session"
+      status: done
+      completed_date: 2026-04-17
+      added_adhoc: true
+      notes: "propose-donor-dedup.cjs, apply-donor-dedup.cjs, prune-ie-oppose-from-frontmatter.cjs, ingest-voting-record-csv.cjs, dev/setup-bulk-junction.cjs. All reusable for future sessions — dedup rerun on new data, prune after any cache rebuild, voting records for any politician with a CSV."
+
   david:
     - id: dc_p3_01
       task: "Legal sanity review — personally read top 20 verified profiles"
@@ -2161,7 +2231,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-16 late night (Code Claude: public-UI cleanup pass + three-page IA + graph fixes + narrative drift detector producer + Trump EO explainer drafts)**
+**Schedule last updated: 2026-04-17 (Code Claude: Trump data overhaul — 142 donor dedups + support/oppose split + 106-profile frontmatter prune + 411-profile data-panel regen; Rubio restructure to 9-section template with Policy Executed + Voting Record; persistent bulk-data junction; 5 new reusable scripts. 13 commits, all deployed.)**
 **Current phase: Launch 50 sprint for April 30 public launch. Trump live as proof-of-concept.**
 **Next checkpoint: Build Ops live-preview profile editor (2026-04-17). David rewrites Trump Class Analysis in working-class voice. Promote Trump to verified tier.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
