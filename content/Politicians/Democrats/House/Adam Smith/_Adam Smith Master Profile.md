@@ -34,7 +34,7 @@ top-donors:
 fec-candidate-id: "H6WA09025"
 related: "[[Tom Cole]] · [[_Rosa DeLauro Master Profile|Rosa DeLauro]] · [[Boeing]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[Lockheed Martin]] · [[NARAL]]"
 donors: "[[American Gaming Association]] · [[Raytheon (RTX Corporation)]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Lockheed Martin]] · [[Boeing]] · [[Northrop Grumman]] · [[TOGETHER FOR PROGRESS PAC]] · [[PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT]] · [[The 60 Plus Association]] · [[Together for Progress PAC]] · [[Puget Sound Energy INC PAC for Good Government]] · [[Raytheon]] · [[NARAL]]"
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 govtrack-id: 400379
@@ -206,7 +206,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~{{src:src_006407}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-17 -->
+<!-- auto:fec-politician pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

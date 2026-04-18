@@ -19,8 +19,8 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: ">- · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Women Speak Out Pac]]"
-donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Finance and Tech Bundler Network]] · [[DRAIN THE DC SWAMP PAC]] · [[Women Speak Out Pac]]"
+related: ">- · [[Newsom 2028 - The Donor Class Presidential Campaign]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]]"
+donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Finance and Tech Bundler Network]] · [[DRAIN THE DC SWAMP PAC]] · [[Women Speak Out Pac]] · [[Dream Defenders Fight Pac]]"
 ---
 
 
