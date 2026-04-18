@@ -173,6 +173,7 @@ Load-bearing decisions that affect ongoing work:
 - **ADR-0010** — Class Tag Amendment: Surveillance State
 - **ADR-0011** — Class Tag Amendment: Reproductive Rights
 - **ADR-0012** — The Money Section: Four Required Subsections (Campaign Chest, Wealth Outside Donations, Mega-Donors, What They Bought)
+- **ADR-0013** — FEC Transaction Taxonomy + Anomaly Detection (shared classifier in `scripts/lib/fec-txn-types.cjs`; every FEC script imports from there)
 
 Historical ADRs (preserved in `content/Decisions/Archive/`, not referenced in active rules): 0003 (superseded by 0008), 0005 (Phase 6 closed), 0006 (Phase 1 closed), 0008 (closure record for 0003).
 
