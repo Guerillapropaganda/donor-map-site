@@ -17,8 +17,8 @@ fec-candidate-id: S8FL00273
 bioguide-id: S001217
 stock-trades: 142
 govtrack-id: 412838
-bills-sponsored: 128
-bills-cosponsored: 552
+bills-sponsored: 628
+bills-cosponsored: 1710
 website: https://www.rickscott.senate.gov
 phone: 202-224-5274
 source-types:
@@ -55,6 +55,7 @@ internal-notes: |-
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 donors: "[[National Republican Senatorial Committee]] · [[AFGE - American Federation of Government Employees]] · [[Fanjul Family - Florida Crystals]] · [[Raytheon (RTX Corporation)]] · [[Blue Shield of California]]"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

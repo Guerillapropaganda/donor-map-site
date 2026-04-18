@@ -30,9 +30,10 @@ issues:
   - Immigration
   - International Affairs
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 71
-bills-cosponsored: 696
+bills-sponsored: 494
+bills-cosponsored: 5809
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

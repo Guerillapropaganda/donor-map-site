@@ -18,8 +18,8 @@ leadership-roles:
 total-received: $4,396,225
 fec-candidate-id: H6MD08457
 govtrack-id: 412708
-bills-sponsored: 29
-bills-cosponsored: 561
+bills-sponsored: 127
+bills-cosponsored: 3681
 website: https://raskin.house.gov
 phone: 202-225-5341
 donors: "[[UNITE HERE]] · [[Demand Justice]] · [[NEA ADVOCACY FUND]] · [[Planned Parenthood Votes]] · [[NEA FUND FOR CHILDREN AND PUBLIC EDUCATION]] · [[FREETHOUGHT EQUALITY SUPER PAC]] · [[NEA Advocacy Fund]] · [[NEA Fund for Children and Public Education]] · [[Freethought Equality Super PAC]]"
@@ -50,6 +50,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Jamie_Raskin
 wikipedia-extract: Jamin Ben Raskin is an American attorney, law professor, and politician serving as the U.S. representative for Maryland's 8th congressional district since 2017.
 born: "1962-12-13"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

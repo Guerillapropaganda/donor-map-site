@@ -29,8 +29,8 @@ issues:
 top-donors:
   - SEIU
 govtrack-id: 400364
-bills-sponsored: 18
-bills-cosponsored: 202
+bills-sponsored: 331
+bills-cosponsored: 4485
 website: https://bobbyscott.house.gov
 phone: 202-225-8351
 total-received: "$290,963"
@@ -58,6 +58,7 @@ fec-cycle: 2026
 fec-debt: "3191.43"
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Crime and Law Enforcement"
 ---
 

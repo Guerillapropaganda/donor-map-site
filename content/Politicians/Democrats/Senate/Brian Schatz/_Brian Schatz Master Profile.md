@@ -23,8 +23,8 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 govtrack-id: 412507
-bills-sponsored: 79
-bills-cosponsored: 272
+bills-sponsored: 684
+bills-cosponsored: 2302
 website: https://www.schatz.senate.gov
 phone: 202-224-3934
 related: "[[_Chuck Schumer Master Profile|Chuck Schumer]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Katie Porter Master Profile|Katie Porter]] · [[Gary Peters]]"
@@ -43,6 +43,7 @@ issues:
   - Taxation
 donors: "[[MoveOn.org Political Action]], [[Real Estate Industry]], [[Working Families for Hawaii]], [[League of Conservation Voters]], [[MOVEON.ORG POLITICAL ACTION]], [[Climate Hawks Vote]], [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]], [[CLIMATE HAWKS VOTE]], [[International Longshore and Warehouse Union -- Political Action Fund]]"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

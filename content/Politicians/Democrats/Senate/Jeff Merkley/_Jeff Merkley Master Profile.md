@@ -39,9 +39,10 @@ related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie San
 bioguide-id: M001176
 donors: "[[California Nurses Association]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[Labor Unions]] · [[League of Conservation Voters]] · [[FREEDOM PARTNERS ACTION FUND INC]] · [[SEIU COPE]] · [[American Future Fund Political Action]] · [[Freedom Partners Action Fund Inc]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 101
-bills-cosponsored: 629
+bills-sponsored: 1216
+bills-cosponsored: 4846
 bills-enacted: 3
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

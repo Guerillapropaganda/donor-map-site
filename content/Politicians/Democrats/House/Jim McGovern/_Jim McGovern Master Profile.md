@@ -15,8 +15,8 @@ leadership-roles:
   - "Ranking Member"
 bioguide-id: "M000312"
 govtrack-id: 400263
-bills-sponsored: 23
-bills-cosponsored: 798
+bills-sponsored: 434
+bills-cosponsored: 11803
 born: "1959-11-20"
 wikidata-id: "Q1337459"
 source-types:
@@ -59,6 +59,7 @@ issues:
   - "Housing and Community Development"
   - "Immigration"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

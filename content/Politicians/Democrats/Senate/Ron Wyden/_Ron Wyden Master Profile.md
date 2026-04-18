@@ -37,9 +37,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 top-donors: "[[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[National Committee to Preserve Social Security PAC]] · [[Sierra Club Political Committee]] · [[Political Action for Lasting Security]]"
 donors: "[[Sierra Club Political Committee]] · [[National Committee to Preserve Social Security PAC]] · [[NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC]] · [[SIERRA CLUB POLITICAL COMMITTEE]] · [[Political Action for Lasting Security]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 80
-bills-cosponsored: 597
+bills-sponsored: 1984
+bills-cosponsored: 8506
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

@@ -28,8 +28,8 @@ top-donors:
   - "NYC Dept of Education employees"
 govtrack-id: 412804
 bioguide-id: "O000172"
-bills-sponsored: 11
-bills-cosponsored: 378
+bills-sponsored: 71
+bills-cosponsored: 1608
 website: "https://ocasio-cortez.house.gov"
 phone: "202-225-3965"
 total-received: "$27,733,215"
@@ -67,6 +67,7 @@ total-spent: "$13,983,781"
 cash-on-hand: "13408910.09"
 fec-cycle: 2026
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

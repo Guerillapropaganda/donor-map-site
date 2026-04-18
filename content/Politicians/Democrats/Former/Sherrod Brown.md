@@ -8,8 +8,8 @@ source-tier: 1
 parent: null
 fec-candidate-id: "S6OH00163"
 govtrack-id: 400050
-bills-sponsored: 12
-bills-cosponsored: 406
+bills-sponsored: 36
+bills-cosponsored: 958
 party: Democrat
 chamber: Senate
 state: Ohio
@@ -69,6 +69,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Sherrod_Brown
 wikipedia-extract: Sherrod Campbell Brown is an American politician who served from 2007 to 2025 as a United States senator from Ohio. A member of the Democratic Party, he was the U.S.
 born: "1952-11-09"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

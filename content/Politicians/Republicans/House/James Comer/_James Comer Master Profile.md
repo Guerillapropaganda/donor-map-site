@@ -14,8 +14,8 @@ district: "1"
 committees:
   - Oversight & Reform
 govtrack-id: 412676
-bills-sponsored: 16
-bills-cosponsored: 92
+bills-sponsored: 48
+bills-cosponsored: 609
 website: https://comer.house.gov
 phone: 202-225-3115
 related: "[[The Oversight Committee and the Anti-Corruption Brand]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch]]"
@@ -44,6 +44,7 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[ALLIANCE COAL, LLC PAC]] · [[TOGETHER WE THRIVE]] · [[Alliance Coal, LLC PAC]]"
 donors: "[[Alliance Coal, LLC PAC]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[TOGETHER WE THRIVE]] · [[ALLIANCE COAL, LLC PAC]]"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Government Operations and Politics"
 ---
 

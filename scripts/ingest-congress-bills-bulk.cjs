@@ -313,25 +313,34 @@ async function main() {
       updated += `\n\n### Legislative Activity (118th Congress)\n${block}\n`
     }
 
-    // Update frontmatter
+    // Update frontmatter — DO NOT clobber if existing value is larger.
+    // The bulk XML here only covers whichever congress(es) this run
+    // ingested (typically just 118th). The Congress.gov API pipeline
+    // writes career totals to these same fields; if that ran first,
+    // bills-sponsored in frontmatter reflects the full career and is
+    // larger than whatever this single-congress ingest computed.
+    // Overwriting would destroy accurate career data. Only write when
+    // the new number is strictly larger than what's already there.
+    //
+    // If that guard blocks legitimate updates (e.g. a full-career bulk
+    // re-ingest), pass --force-bills-overwrite.
+    const forceBillsOverwrite = process.argv.includes("--force-bills-overwrite")
+    function maybeUpdate(fm, field, newVal) {
+      const re = new RegExp(`^${field}:\\s*(\\d+)`, "m")
+      const existing = fm.match(re)
+      if (existing) {
+        const current = parseInt(existing[1], 10)
+        if (!forceBillsOverwrite && current > newVal) return fm
+        return fm.replace(new RegExp(`^${field}:.*$`, "m"), `${field}: ${newVal}`)
+      }
+      return fm + `\n${field}: ${newVal}`
+    }
     const fmMatch = updated.match(/^---\n([\s\S]*?)\n---/)
     if (fmMatch) {
       let fm = fmMatch[1]
-      if (/^bills-sponsored:/m.test(fm)) {
-        fm = fm.replace(/^bills-sponsored:.*$/m, `bills-sponsored: ${ps.billsSponsored}`)
-      } else {
-        fm += `\nbills-sponsored: ${ps.billsSponsored}`
-      }
-      if (/^bills-cosponsored:/m.test(fm)) {
-        fm = fm.replace(/^bills-cosponsored:.*$/m, `bills-cosponsored: ${ps.billsCosponsored}`)
-      } else {
-        fm += `\nbills-cosponsored: ${ps.billsCosponsored}`
-      }
-      if (/^bills-enacted:/m.test(fm)) {
-        fm = fm.replace(/^bills-enacted:.*$/m, `bills-enacted: ${ps.billsEnacted}`)
-      } else {
-        fm += `\nbills-enacted: ${ps.billsEnacted}`
-      }
+      fm = maybeUpdate(fm, "bills-sponsored", ps.billsSponsored)
+      fm = maybeUpdate(fm, "bills-cosponsored", ps.billsCosponsored)
+      fm = maybeUpdate(fm, "bills-enacted", ps.billsEnacted)
       // Top policy area as frontmatter
       if (ps.topPolicyAreas.length > 0) {
         const topArea = ps.topPolicyAreas[0][0]

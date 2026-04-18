@@ -30,8 +30,8 @@ top-donors: "[[Heritage Foundation]], [[American Farm Bureau Federation]], [[Ame
 total-received: $1,678,317
 fec-candidate-id: H6TX19099
 govtrack-id: 412726
-bills-sponsored: 56
-bills-cosponsored: 172
+bills-sponsored: 187
+bills-cosponsored: 767
 website: https://arrington.house.gov
 phone: 202-225-4005
 source-types:
@@ -45,6 +45,7 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[Heritage Foundation]] · [
 last-enriched: "2026-04-10"
 bioguide-id: A000375
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

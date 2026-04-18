@@ -34,8 +34,8 @@ top-donors:
 total-received: $6,047,785
 fec-candidate-id: S0GA00559
 govtrack-id: 456858
-bills-sponsored: 37
-bills-cosponsored: 390
+bills-sponsored: 245
+bills-cosponsored: 1222
 website: https://www.warnock.senate.gov
 phone: 202-224-3643
 source-types:
@@ -59,6 +59,7 @@ reenrich-reason: re-run congress pipeline
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-11"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

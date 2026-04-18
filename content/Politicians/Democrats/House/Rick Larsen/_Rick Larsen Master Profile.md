@@ -32,8 +32,8 @@ donors: "[[IBEW - International Brotherhood of Electrical Workers]] · [[Boeing]
 total-received: $1,185,411
 fec-candidate-id: H0WA02080
 govtrack-id: 400232
-bills-sponsored: 17
-bills-cosponsored: 305
+bills-sponsored: 176
+bills-cosponsored: 3627
 website: https://larsen.house.gov
 phone: 202-225-2605
 related: "[[_Sam Graves Master Profile|Graves]] · [[_Maria Cantwell Master Profile|Cantwell]] · [[Boeing]]"
@@ -43,6 +43,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 last-enriched: "2026-04-11"
 bioguide-id: L000560
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Armed Forces and National Security"
 ---
 
