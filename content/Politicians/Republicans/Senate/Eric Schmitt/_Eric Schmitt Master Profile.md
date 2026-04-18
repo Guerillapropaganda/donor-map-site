@@ -67,6 +67,7 @@ top-policy-area: "Congress"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $1.7M |
+| Party committee support | $518K |
 | Super-PAC IE support (FOR) | $9.6M |
 | Super-PAC IE opposition (AGAINST) | $1.9M |
 

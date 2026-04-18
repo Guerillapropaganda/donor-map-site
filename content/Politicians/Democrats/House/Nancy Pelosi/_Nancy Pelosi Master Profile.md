@@ -159,7 +159,7 @@ The DCCC blacklist, the dues system, the committee assignment leverage, the prog
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $16.4M |
-| Party committee support | $5K |
+| Party committee support | $49K |
 | Super-PAC IE support (FOR) | $48K |
 | Super-PAC IE opposition (AGAINST) | $2.8M |
 

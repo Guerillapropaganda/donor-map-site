@@ -79,7 +79,7 @@ donors: "[[Sierra Club Political Committee]] · [[League of Conservation Voters]
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $4.2M |
-| Party committee support | $782K |
+| Party committee support | $1.1M |
 | Super-PAC IE support (FOR) | $6.6M |
 | Super-PAC IE opposition (AGAINST) | $1.9M |
 

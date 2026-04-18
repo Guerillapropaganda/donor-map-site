@@ -71,7 +71,7 @@ top-policy-area: "Crime and Law Enforcement"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $10.2M |
-| Party committee support | $3.9M |
+| Party committee support | $5.2M |
 | Super-PAC IE support (FOR) | $305K |
 | Super-PAC IE opposition (AGAINST) | $88K |
 

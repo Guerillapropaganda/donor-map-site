@@ -79,7 +79,7 @@ top-policy-area: "Finance and Financial Sector"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $6.6M |
-| Party committee support | $110K |
+| Party committee support | $206K |
 | Super-PAC IE support (FOR) | $902K |
 | Super-PAC IE opposition (AGAINST) | $121K |
 

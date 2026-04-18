@@ -37,7 +37,7 @@ fec-candidate-id: "S4MA00069"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $2.2M |
-| Party committee support | $1.4M |
+| Party committee support | $1.6M |
 | Super-PAC IE support (FOR) | $52K |
 | Super-PAC IE opposition (AGAINST) | $68K |
 

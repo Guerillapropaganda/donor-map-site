@@ -82,16 +82,49 @@ function committeeClass(cmteId) {
 
 // ─── Known party committees (national-level) ────────────────────────
 // Whitelist of committee IDs permitted to use 24N / 24C / 24P.
-// State parties add significantly more — expand on demand.
+// The IDs below are verified against data/fec/committee-master.jsonl —
+// do not change labels without re-verifying.
+//
+// Fixed 2026-04-18: original whitelist had C00003418 mislabeled as DCCC
+// (it is actually RNC) and C00003533 mislabeled as RNC (it is actually
+// PACOSA, a savings-associations PAC). C00000935 (real DCCC) was missing
+// and fell into the anomaly bucket, generating 17,687 false-positive
+// anomaly rows ($81M) across lifetime pas2 data.
+//
+// For full party-committee coverage (including state parties, ~3,692
+// total), consumers should cross-reference data/fec-party-committees.jsonl
+// which is generated from committee-master.jsonl where type ∈ {X, Y, Z}.
 
 const PARTY_COMMITTEE_IDS = new Set([
-  'C00003418', // DCCC — Democratic Congressional Campaign Committee
+  // National party committees
+  'C00000935', // DCCC — Democratic Congressional Campaign Committee
+  'C00347864', // DCCC Contributions — secondary DCCC filing account
   'C00075820', // NRCC — National Republican Congressional Committee
   'C00010603', // DNC — Democratic National Committee
-  'C00003533', // RNC — Republican National Committee
+  'C00003418', // RNC — Republican National Committee
   'C00042366', // DSCC — Democratic Senatorial Campaign Committee
   'C00027466', // NRSC — National Republican Senatorial Committee
 ]);
+
+// Load the full party-committee set at module-init time from the
+// generated snapshot (data/fec-party-committees.jsonl). If the file
+// doesn't exist (fresh worktree before first ingest), fall back to
+// the hardcoded national-level set above.
+try {
+  const fs = require('fs');
+  const path = require('path');
+  const partyFile = path.resolve(__dirname, '..', '..', 'data', 'fec-party-committees.jsonl');
+  if (fs.existsSync(partyFile)) {
+    const text = fs.readFileSync(partyFile, 'utf-8');
+    for (const line of text.split('\n')) {
+      if (!line.trim()) continue;
+      try {
+        const r = JSON.parse(line);
+        if (r.id) PARTY_COMMITTEE_IDS.add(r.id);
+      } catch {}
+    }
+  }
+} catch {}
 
 // ─── Conduits: platform aggregators, not political actors ───────────
 // These committees pass through small-dollar contributions from
