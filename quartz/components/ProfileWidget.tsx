@@ -7,7 +7,10 @@ import { classNames } from "../util/lang"
 // isn't in the JSON yet.
 import relationshipData from "../../data/relationships-per-profile.json"
 
-type RelEntry = { related: string[]; donors: string[]; "politicians-funded": string[]; opposes: string[]; stories: string[] }
+type RelEntry = {
+  related: string[]; donors: string[]; "politicians-funded": string[]; opposes: string[]; stories: string[];
+  "ie-opposed-by"?: string[]; "ie-opposition-targets"?: string[]
+}
 
 function getRels(title: string): RelEntry | null {
   const normalized = title.replace(/^_/, "").replace(/\s*Master Profile.*/i, "").trim()
@@ -247,9 +250,13 @@ const ProfileWidget: QuartzComponent = ({
   }
 
   // ── FLOW TAB: Top donors with sector + dollar amounts ──
-  // monetary-detail has per-connection amounts from the canonical edge store
+  // monetary-detail has per-connection amounts from the canonical edge store.
+  // As of the support/oppose split, monetary-detail contains ONLY legitimate
+  // inflows (direct contributions + IE-support). IE-opposition edges live
+  // in ie-opposition-detail and are surfaced separately as opposition.
   type MonetaryDetail = { name: string; amount: number; cycle: string; confidence: number }
   const monetaryDetail: MonetaryDetail[] = (rels as any)?.["monetary-detail"] ?? []
+  const ieOppositionDetail: MonetaryDetail[] = (rels as any)?.["ie-opposition-detail"] ?? []
   // Aggregate: sum amounts across cycles per donor, filter by confidence >= 0.7
   const donorAmounts = new Map<string, number>()
   for (const d of monetaryDetail) {
@@ -437,8 +444,18 @@ const ProfileWidget: QuartzComponent = ({
     if (donorCount >= QUOTA.donors) break
   }
 
-  // 2. OPPOSITION POLITICIANS (contradictions)
+  // 2. OPPOSITION POLITICIANS (contradictions) + IE-opposition spenders
   let oppositionCount = 0
+  // IE-opposition edges ranked by dollar spend AGAINST this profile —
+  // these are super PACs who ran attack ads. Amount > 0 so the graph
+  // can render node size and show the dollar label, same as donors.
+  for (const d of [...(ieOppositionDetail || [])].sort((a, b) => b.amount - a.amount)) {
+    if (oppositionCount >= QUOTA.opposition) break
+    if (addedNames.has(d.name)) continue
+    const info = donorInfo.get(d.name)
+    addNode(d.name, d.amount, "opposition", info?.slug || "")
+    oppositionCount++
+  }
   for (const name of (rels?.opposes ?? [])) {
     if (oppositionCount >= QUOTA.opposition) break
     if (addedNames.has(name)) continue
@@ -496,6 +513,7 @@ const ProfileWidget: QuartzComponent = ({
   const totalConnections =
     (monetaryDetail?.length || 0) +
     (contractDetail?.length || 0) +
+    (ieOppositionDetail?.length || 0) +
     (rels?.opposes?.length || 0) +
     networkInfo.size
   const canvasGraphData = JSON.stringify({
