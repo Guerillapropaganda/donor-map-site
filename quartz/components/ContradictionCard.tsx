@@ -36,7 +36,7 @@ const ContradictionCard: QuartzComponent = ({
   if (passed.length === 0 && blocked.length === 0 && topDonors.length === 0) return null
 
   return (
-    <div class={classNames(displayClass, "contra-wrap")}>
+    <div class={classNames(displayClass, "contra-wrap", "profile-section-card")} data-tab="contradiction">
       <div class="contra-label">THE CONTRADICTION</div>
       <div class="contra-card">
         {/* Left: The Public Record */}

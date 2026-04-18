@@ -43,6 +43,46 @@ total-spent: 2241
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.2M |
+| Money out: IE spending FOR candidates | $467K |
+| Money out: IE spending AGAINST candidates | $692K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| ARNOLD, JOHN (TX) | $400K | JOHN ARNOLD |
+| ARNOLD, LAURA (TX) | $300K | LAURA ARNOLD |
+| KHOSLA, VINOD (CA) | $70K | KHOSLA VENTURES, LLC |
+| GODHWANI, ANIL (CA) | $45K | HABITERA |
+| OO INVESTMENT LLC (CA) | $40K | — |
+| HARINARAYAN, VENKATESH (CA) | $40K | CAMBRIAN VENTURES INC. |
+| RAJARAMAN, ANAND (CA) | $40K | CAMBRIAN VENTURES INC. |
+| GANDHI, SAMEER (CA) | $35K | ACCEL PARTNERS |
+| REKHI, KANWAL (CA) | $30K | INVENTUS CAPITAL |
+| KRISHNAMURTHI, ASHOK (CA) | $25K | XSIGO SYSTEMS |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4CA12055 | $467K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0CA15148 | $692K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

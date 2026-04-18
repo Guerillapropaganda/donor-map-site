@@ -83,6 +83,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $48.8M across 38 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| PRIORITIES USA ACTION | $15.5M | 2012→2018 |
+| SMP | $5.9M | 2012→2018 |
+| WIN JUSTICE | $5.0M | 2018→2018 |
+| AB PAC | $4.4M | 2012→2018 |
+| HMP | $3.4M | 2012→2016 |
+| COMMUNITY CHANGE VOTERS | $3.0M | 2016→2016 |
+| PLANNED PARENTHOOD VOTES | $2.0M | 2014→2016 |
+| COLOROFCHANGE PAC | $1.4M | 2016→2022 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $1.4M | 1998→2022 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1.3M | 2004→2026 |
+| UNITED FOR PROGRESS PAC | $1.2M | 2016→2020 |
+| TEXAS ORGANIZING PROJECT POLITICAL ACTION COMMITTEE | $850K | 2024→2024 |
+| RED AND GOLD | $600K | 2018→2018 |
+| LCV VICTORY FUND | $500K | 2014→2014 |
+| LATINO VICTORY FUND | $500K | 2018→2018 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #billionaire #democratic #progressive #dark-money #open-society
 
 ---

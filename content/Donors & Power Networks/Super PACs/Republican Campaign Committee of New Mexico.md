@@ -50,6 +50,64 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $835K |
+| Money out: direct contributions to candidates | $287K |
+| Money out: IE spending FOR candidates | $244K |
+| Money out: IE spending AGAINST candidates | $465K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| YATES, SR., JOHN MR. (NM) | $60K | YATES PETROLEUM CORPORATION |
+| FULTON, STANLEY (NV) | $50K | Director/Anchor Gaming/Director/Anc |
+| CHALMERS, DONALD (NM) | $40K | DON CHALMERS FORD |
+| STORY, RICK (NM) | $30K | THORNBURG MTG |
+| DEWHURST, TAMMY JO (TX) | $25K | HOMEMAKER |
+| REED, THOMAS (NM) | $20K | Self/Investments |
+| GIANNELLI, JAMES (NM) | $20K | RMCI INC |
+| ABO PETROLEUM CORPORATION (NM) | $20K | — |
+| MURPHY, MARK MR. (NM) | $20K | STRATA PRODUCTION CO. |
+| SPENCER, BEN MR. (NM) | $20K | ARGUS DEVELOPMENT COMPANY |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6NM03026 | $18K |
+| H4CA49032 | $15K |
+| S6CO00168 | $10K |
+| S2SD00068 | $10K |
+| S2MN00126 | $10K |
+| S2MO00353 | $10K |
+| H2CO07063 | $10K |
+| H2UT02167 | $10K |
+| S2LA00077 | $10K |
+| H8AZ08018 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4NM00183 | $181K |
+| H8NM02156 | $60K |
+| P80001571 | $3K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8NM01224 | $465K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

@@ -47,6 +47,46 @@ employee-donor-count: 12
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $10K |
+| Money out: direct contributions to candidates | $45K |
+| Money out: IE spending AGAINST candidates | $48K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SCHNEIDERMAN, IRWIN MR. (NY) | $10K | CAHILL GORDON & REINDEL |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0NY00188 | $8K |
+| S0NY00410 | $6K |
+| H6NY20167 | $6K |
+| H2NY01067 | $5K |
+| H6NY25125 | $4K |
+| H8NY26079 | $2K |
+| H0NY23065 | $2K |
+| H2NY17071 | $2K |
+| H6NY04112 | $2K |
+| H8NY20056 | $1K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0NY00048 | $48K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

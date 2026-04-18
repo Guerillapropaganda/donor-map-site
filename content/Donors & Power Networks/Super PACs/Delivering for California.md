@@ -43,6 +43,33 @@ related: "[[Dianne Feinstein]]"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $95K |
+| Money out: IE spending FOR candidates | $75K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| FISHER, DORIS F. (CA) | $25K | N/A |
+| HORMEL, JAMES C. (CA) | $25K | EQUIDEX, INC. |
+| OSTERWEIS, JOHN S. (CA) | $25K | OSTERWEIS CAPITAL MANAGEMENT |
+| WITTE, WILLIAM A. (CA) | $20K | RELATED CALIFORNIA |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0CA00199 | $75K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

@@ -79,6 +79,36 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $24.0M across 14 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| SMP | $11.1M | 2014→2026 |
+| LF PAC | $6.9M | 2024→2024 |
+| HMP | $4.4M | 2022→2026 |
+| FF PAC | $1.0M | 2024→2024 |
+| VOTEVETS | $170K | 2020→2020 |
+| ONE GIANT LEAP PAC | $150K | 2026→2026 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $75K | 2000→2008 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $36K | 2022→2022 |
+| ACTBLUE | $33K | 2022→2026 |
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $30K | 1998→2000 |
+| TECHNOLOGY NETWORK FEDERAL POLITICAL ACTION COMMITTEE (TECHNET) | $27K | 2006→2006 |
+| BENNET FOR COLORADO | $11K | 2016→2016 |
+| DEMOCRATIC STATE CENTRAL COMMITTEE (COLORAD0) | $10K | 2014→2014 |
+| PRESIDENT'S CALIFORNIA MAJORITY FUND | $10K | 1998→1998 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #reed-hastings #netflix #charter-school #education-reform #mega-donor #democratic #Hastings Fund
 
 ---

@@ -42,6 +42,66 @@ related: "[[Chris Coons]]"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $200K |
+| Money out: direct contributions to candidates | $77K |
+| Money out: IE spending FOR candidates | $1.4M |
+| Money out: IE spending AGAINST candidates | $9.7M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| KATZ, CARY (NV) | $110K | COLLEGE LOAN CORPORATION |
+| DANIELS, GEORGE (FL) | $35K | DANIELS MANUFACTURING |
+| GALBRAITH, JOHN W. (VA) | $25K | RETIRED |
+| BALL, GEORGE (PA) | $10K | BURPEE |
+| EHLERS, HERBERT E. (FL) | $10K | RETIRED |
+| PATTERSON, JAMES A (KY) | $10K | PATTCO |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6AZ00019 | $10K |
+| H0NC07108 | $10K |
+| H0NY15111 | $10K |
+| H8FL22038 | $5K |
+| H0ND00135 | $5K |
+| H0FL25046 | $5K |
+| H2IA05072 | $5K |
+| P20003281 | $3K |
+| S2SD00068 | $3K |
+| S0AZ00251 | $3K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0NY00048 | $607K |
+| S2GA00118 | $479K |
+| H0NY23107 | $108K |
+| S0MA00109 | $96K |
+| S0AK00121 | $32K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80003338 | $8.4M |
+| S8GA00164 | $794K |
+| H0NY20079 | $210K |
+| P00003392 | $86K |
+| H2MN06198 | $77K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

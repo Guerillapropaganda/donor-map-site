@@ -44,6 +44,54 @@ contributions-to-committees: 6481745
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $71.9M |
+| Money out: IE spending FOR candidates | $8.8M |
+| Money out: IE spending AGAINST candidates | $44.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CHARLES G. KOCH 1997 TRUST (KS) | $11.0M | KOCH INDUSTRIES INC. |
+| MOUNTAIRE CORPORATION (AR) | $7.0M | — |
+| HENDRICKS, DIANE MS. (WI) | $5.0M | HENDRICKS HOLDING CO. INC. |
+| GILLIAM, RICHARD B. MR. (VA) | $3.5M | CUMBERLAND DEVELOPMENT CO. LLC |
+| KOCH, CHARLES MR. (KS) | $3.0M | KOCH INDUSTRIES INC. |
+| MERCER, ROBERT L. MR. (NY) | $2.5M | RENAISSANCE TECHNOLOGIES LLC |
+| DEVOS, RICHARD M. MR. (MI) | $2.3M | RETIRED |
+| FOSTER, PAUL L. MR. (TX) | $2.0M | WESTERN REFINING INC. |
+| DAVID H. KOCH 2003 TRUST (KS) | $2.0M | KOCH INDUSTRIES INC. |
+| GRIFFIN, KENNETH C. MR. (IL) | $2.0M | CITADEL |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4IA00129 | $3.8M |
+| S4AR00103 | $1.2M |
+| S4CO00395 | $1.2M |
+| S0WI00197 | $875K |
+| H0FL02110 | $683K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6OH00254 | $10.0M |
+| S6NV00200 | $8.4M |
+| S6PA00266 | $7.3M |
+| S8KS00227 | $3.1M |
+| S0AR00028 | $2.7M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

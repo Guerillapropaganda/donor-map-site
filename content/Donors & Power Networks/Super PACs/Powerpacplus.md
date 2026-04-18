@@ -46,6 +46,67 @@ contributions-to-committees: 1000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $3.4M |
+| Money out: direct contributions to candidates | $50K |
+| Money out: IE spending FOR candidates | $3.0M |
+| Money out: IE spending AGAINST candidates | $268K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SANDLER, HERBERT M (CA) | $1.9M | SELF |
+| POWERPAC.ORG (CA) | $722K | — |
+| JORDANDELANEY FAMILY TRUST (CA) | $365K | — |
+| SOROS, GEORGE (NY) | $125K | SELF-EMPLOYED |
+| PUBLIC SCHOOLS ALLIES (VA) | $50K | — |
+| CLEAN CITIES COMMUNITY CORP (NY) | $50K | — |
+| PHILLIPS, STEVE (CA) | $43K | SELF-EMPLOYED |
+| PROGRESSIVE ERA PAC (CA) | $35K | — |
+| TISCH, ANDREW H. (NY) | $25K | LOEWS CORP. |
+| NEWSTAT, JOYCE (CA) | $25K | SELF-EMPLOYED |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4NJ00185 | $5K |
+| H2CA43245 | $4K |
+| S2HI00106 | $3K |
+| S8MS00287 | $3K |
+| H8CA50098 | $3K |
+| S2NM00096 | $3K |
+| S4GA11277 | $3K |
+| H4NJ12149 | $3K |
+| H6NV04012 | $3K |
+| H2NM01102 | $2K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8MS00287 | $2.3M |
+| H8CA50098 | $368K |
+| S2WI00441 | $192K |
+| S4NJ00185 | $47K |
+| P00009423 | $40K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0WI00197 | $239K |
+| P80003353 | $29K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

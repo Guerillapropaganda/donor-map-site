@@ -57,6 +57,70 @@ employee-donor-count: 51
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $50.6M |
+| Money out: direct contributions to candidates | $281K |
+| Money out: IE spending FOR candidates | $24.2M |
+| Money out: IE spending AGAINST candidates | $1.7M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| DEMOCRACY PAC (DC) | $6.5M | — |
+| MOVEMENT VOTER PAC (MA) | $4.9M | — |
+| TIDES ADVOCACY (CA) | $3.5M | — |
+| WORKING FAMILIES ORGANIZATION (NY) | $2.9M | — |
+| SCHAFFER, KATRINA (CA) | $2.3M | SELF EMPLOYED |
+| WAY TO LEAD PAC (AZ) | $2.2M | — |
+| ACCOUNTABLE JUSTICE ACTION FUND (CA) | $1.9M | — |
+| JURVETSON, KARLA (CA) | $1.5M | SELF EMPLOYED |
+| LOCAL JOBS AND ECONOMIC DEVELOPMENT (DE) | $1.2M | — |
+| SMITH, SONJIA (VA) | $1.1M | SELF EMPLOYED |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2PA00398 | $49K |
+| H2PA18200 | $18K |
+| S2WI00441 | $17K |
+| H8MO01143 | $15K |
+| H2IL03162 | $15K |
+| H4NJ07107 | $15K |
+| H2TX35144 | $15K |
+| H2TX15203 | $14K |
+| H0NY16143 | $10K |
+| H0TX28077 | $9K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00009423 | $7.6M |
+| S2WI00441 | $4.4M |
+| H2PA18200 | $1.3M |
+| H0TX28077 | $1.1M |
+| H8OR02161 | $962K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4NY16087 | $569K |
+| H4MO01134 | $411K |
+| H2IL03154 | $400K |
+| H8MI11254 | $109K |
+| H8OR05107 | $73K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

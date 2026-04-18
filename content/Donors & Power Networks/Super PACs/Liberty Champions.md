@@ -42,6 +42,39 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.9M |
+| Money out: IE spending FOR candidates | $1.6M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| MELLON, TIMOTHY (WY) | $500K | SELF-EMPLOYED |
+| GREAT AMERICAN COALITION (DC) | $310K | — |
+| OCEAN STAR INTERNATIONAL, INC. (UT) | $300K | — |
+| SCHWARZMAN, STEPHEN (NY) | $100K | SELF-EMPLOYED |
+| KREBS, THOMAS R (UT) | $100K | RETIRED |
+| RIZZUTO, LEANDRO (FL) | $70K | RETIRED |
+| GRUNDHOFER, JERRY A (UT) | $60K | RETIRED |
+| SENATE OPPORTUNITY FUND (DC) | $50K | — |
+| TEXANS FOR A CONSERVATIVE MAJORITY (TX) | $50K | — |
+| MIZEL, LARRY A (CO) | $50K | M.D.C. HOLDINGS, INC. |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0UT00165 | $1.6M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

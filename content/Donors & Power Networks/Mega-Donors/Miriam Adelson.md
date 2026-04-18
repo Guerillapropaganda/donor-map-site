@@ -70,6 +70,34 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $181.9M across 12 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| PRESERVE AMERICA PAC | $106.0M | 2024→2024 |
+| PRESERVE AMERICA PAC | $45.0M | 2020→2020 |
+| AMERICAN CROSSROADS | $11.5M | 2012→2012 |
+| FUTURE45 | $10.0M | 2016→2016 |
+| RJC VICTORY FUND | $7.4M | 2012→2024 |
+| HARDWORKING AMERICANS INC. | $1.0M | 2024→2024 |
+| PATRIOT PROSPERITY POLITICAL ACTION COMMITTEE | $500K | 2012→2012 |
+| AMERICA 360 COMMITTEE | $250K | 2012→2012 |
+| JAN PAC | $125K | 2012→2012 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | $124K | 2020→2020 |
+| NEVADA STATE REPUBLICAN CENTRAL COMMITTEE | $40K | 2006→2018 |
+| MCCONNELL CORNYN LEADERSHIP VICTORY COMMITTEE | $10K | 2014→2014 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #adelson #casino #class-analysis #follow-the-money #israel #las-vegas-sands #west-bank #annexation #sheldon-adelson #mega-donor #media-ownership #mavericks #texas-gambling #huckabee
 
 ---

@@ -45,6 +45,52 @@ cash-on-hand: 14247
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $5.5M |
+| Money out: IE spending FOR candidates | $1.4M |
+| Money out: IE spending AGAINST candidates | $411K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| PLANNED PARENTHOOD VOTES (NY) | $1.8M | — |
+| PLANNED PARENTHOOD MINNESOTA PAC (MN) | $1.5M | — |
+| PLANNED PARENTHOOD MN ND SD ACTION FUND (MN) | $850K | — |
+| WIN MINNESOTA POLITICAL ACTION FUND (MN) | $570K | — |
+| WIN JUSTICE (DC) | $463K | — |
+| PLANNED PARENTHOOD OF MN, ND, SD ACTION FUND (MN) | $279K | — |
+| OPPERMAN, DARIN (MN) | $25K | SELF-EMPLOYED |
+| GROSSMAN, TOM (MN) | $10K | METROPOLITAN FORD |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8MN00578 | $413K |
+| P00009423 | $254K |
+| H6MN02131 | $224K |
+| H8MN03143 | $196K |
+| H4MN03118 | $141K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $179K |
+| S0MN00328 | $86K |
+| H0MN01045 | $72K |
+| H0MN03124 | $40K |
+| H0MN02134 | $11K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

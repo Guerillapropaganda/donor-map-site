@@ -44,6 +44,47 @@ cash-on-hand: 350006
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $28.3M |
+| Money out: IE spending FOR candidates | $23.3M |
+| Money out: IE spending AGAINST candidates | $936K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| BANKMAN-FRIED, SAMUEL () | $27.0M | FTX |
+| SINGH, NISHAD () | $1.0M | FTX |
+| OPPORTUNITY FOR TOMORROW (AZ) | $195K | — |
+| EVERYTOWN FOR GUN SAFETY VICTORY FUND (NY) | $45K | — |
+| PROTECT OUR FUTURE IEC NY (AZ) | $40K | — |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND, INC. (NY) | $11K | — |
+| TARGETED PLATFORM MEDIA (MD) | $11K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2OR06090 | $10.5M |
+| H8GA06393 | $1.9M |
+| H2TX30178 | $1.4M |
+| H2MI13246 | $1.1M |
+| H2NC06114 | $1.0M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2OR06066 | $936K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

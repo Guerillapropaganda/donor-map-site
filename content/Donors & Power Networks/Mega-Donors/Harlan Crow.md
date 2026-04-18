@@ -58,6 +58,37 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $1.2M across 16 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| OUR PRINCIPLES PAC | $350K | 2016→2016 |
+| FREEDOMWORKS FOR AMERICA | $125K | 2020→2020 |
+| CONSERVATIVE SOLUTIONS PAC | $100K | 2016→2016 |
+| JOHN BOLTON SUPER PAC | $100K | 2014→2014 |
+| HISPANIC LEADERSHIP ACTION | $100K | 2024→2024 |
+| TEXANS ARE | $75K | 2018→2018 |
+| LET AMERICA WORK | $55K | 2016→2016 |
+| SHOW ME VALUES PAC | $50K | 2022→2022 |
+| KEYSTONE RENEWAL PAC | $50K | 2024→2024 |
+| FIGHT TO WIN AMERICA, INC. | $40K | 2022→2022 |
+| DEFENDING AMERICA PAC, INC. | $35K | 2024→2026 |
+| AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $25K | 2020→2020 |
+| 1820 PAC | $25K | 2020→2020 |
+| REPUBLICAN NATIONAL COMMITTEE - RNC | $15K | 1994→1994 |
+| REPUBLICAN FEDERAL COMMITTEE OF PENNSYLVANIA | $10K | 2006→2006 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #harlan-crow #mega-donor #real-estate #clarence-thomas #leonard-leo #scotus #class-analysis
 
 ---

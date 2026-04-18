@@ -49,6 +49,54 @@ contributions-to-committees: 4571036
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money out: direct contributions to candidates | $30.7M |
+| Money out: IE spending FOR candidates | $80.8M |
+| Money out: IE spending AGAINST candidates | $37.0M |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2MD05155 | $167K |
+| H2SC02042 | $139K |
+| H2NY00010 | $136K |
+| H2NY17071 | $131K |
+| H6NY03031 | $128K |
+| H8CA05035 | $124K |
+| H4MS02068 | $122K |
+| H0CT03072 | $120K |
+| H6WI03099 | $118K |
+| H8CA09060 | $113K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80003338 | $31.2M |
+| P80000722 | $8.8M |
+| P00009423 | $5.6M |
+| S0AR00168 | $3.3M |
+| P80000235 | $3.2M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80003353 | $3.8M |
+| P80001571 | $3.7M |
+| P80002801 | $3.4M |
+| S4PA00121 | $2.1M |
+| S0NH00201 | $1.3M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

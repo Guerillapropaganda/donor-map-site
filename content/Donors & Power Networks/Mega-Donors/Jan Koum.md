@@ -80,6 +80,33 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $29.6M across 11 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| SFA FUND, INC | $10.0M | 2024→2024 |
+| UNITED DEMOCRACY PROJECT ('UDP') | $7.0M | 2022→2024 |
+| MAKE AMERICA GREAT AGAIN INC. | $5.1M | 2024→2024 |
+| RJC VICTORY FUND | $3.8M | 2022→2024 |
+| KEYSTONE RENEWAL PAC | $1.5M | 2024→2024 |
+| MAGA INC. | $1.0M | 2026→2026 |
+| MARYLAND'S FUTURE | $1.0M | 2024→2024 |
+| CONGRESSIONAL LEADERSHIP FUND | $100K | 2024→2024 |
+| ELISE VICTORY FUND | $60K | 2024→2024 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $44K | 2026→2026 |
+| ACTBLUE | $12K | 2026→2026 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 tags:
  - donor #donor-node #mega-donor #tech #whatsapp #republican #privacy #class-analysis #follow-the-money #jewish-donors #libertarian
 

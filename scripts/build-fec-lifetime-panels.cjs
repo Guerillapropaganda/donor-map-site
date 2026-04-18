@@ -125,6 +125,127 @@ async function buildIndexes() {
 
 // ─── Panel rendering ─────────────────────────────
 
+function renderPacPanel(cmteId, idx) {
+  const lines = [];
+
+  // Money OUT: this committee's contributions + IE spending, grouped by recipient + bucket
+  const out = { direct: new Map(), ieSupport: new Map(), ieOppose: new Map() };
+  for (const [candId, donorMap] of idx.candDirect) {
+    const hit = donorMap.get(cmteId);
+    if (hit) out.direct.set(candId, hit.total);
+  }
+  for (const [candId, srcMap] of idx.candIeSupport) {
+    const hit = srcMap.get(cmteId);
+    if (hit) out.ieSupport.set(candId, hit);
+  }
+  for (const [candId, srcMap] of idx.candIeOppose) {
+    const hit = srcMap.get(cmteId);
+    if (hit) out.ieOppose.set(candId, hit);
+  }
+
+  // Money IN: individual donors funding this committee
+  const funders = idx.cmteFunders.get(cmteId) || [];
+  funders.sort((a, b) => b.total - a.total);
+
+  const directTotal = [...out.direct.values()].reduce((a, b) => a + b, 0);
+  const ieSupportTotal = [...out.ieSupport.values()].reduce((a, b) => a + b, 0);
+  const ieOpposeTotal = [...out.ieOppose.values()].reduce((a, b) => a + b, 0);
+  const funderTotal = funders.reduce((a, b) => a + b.total, 0);
+  if (directTotal + ieSupportTotal + ieOpposeTotal + funderTotal === 0) return null;
+
+  lines.push('');
+  lines.push(`*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*`);
+  lines.push('');
+
+  lines.push('| Channel | Lifetime $ |');
+  lines.push('|---|---:|');
+  if (funderTotal) lines.push(`| Money in (individual donors ≥$10K) | ${fmtUsd(funderTotal)} |`);
+  if (directTotal) lines.push(`| Money out: direct contributions to candidates | ${fmtUsd(directTotal)} |`);
+  if (ieSupportTotal) lines.push(`| Money out: IE spending FOR candidates | ${fmtUsd(ieSupportTotal)} |`);
+  if (ieOpposeTotal) lines.push(`| Money out: IE spending AGAINST candidates | ${fmtUsd(ieOpposeTotal)} |`);
+
+  // Top individual funders
+  if (funders.length) {
+    lines.push('');
+    lines.push('**Top 10 individual funders (lifetime, ≥$10K each):**');
+    lines.push('');
+    lines.push('| Donor | Total | Employer |');
+    lines.push('|---|---:|---|');
+    for (const f of funders.slice(0, 10)) {
+      const emp = f.donor_employer || '—';
+      lines.push(`| ${f.donor_name} (${f.donor_state}) | ${fmtUsd(f.total)} | ${emp} |`);
+    }
+  }
+
+  // Top candidate recipients
+  if (out.direct.size) {
+    const sorted = [...out.direct.entries()].sort((a, b) => b[1] - a[1]).slice(0, 10);
+    lines.push('');
+    lines.push('**Top 10 candidates funded (direct contributions, lifetime):**');
+    lines.push('');
+    lines.push('| Candidate ID | Total |');
+    lines.push('|---|---:|');
+    for (const [cid, amt] of sorted) lines.push(`| ${cid} | ${fmtUsd(amt)} |`);
+  }
+
+  // Top IE targets
+  if (out.ieSupport.size) {
+    const sorted = [...out.ieSupport.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
+    lines.push('');
+    lines.push('**Top 5 IE-support targets (candidates this committee spent FOR):**');
+    lines.push('');
+    lines.push('| Candidate ID | Total |');
+    lines.push('|---|---:|');
+    for (const [cid, amt] of sorted) lines.push(`| ${cid} | ${fmtUsd(amt)} |`);
+  }
+  if (out.ieOppose.size) {
+    const sorted = [...out.ieOppose.entries()].sort((a, b) => b[1] - a[1]).slice(0, 5);
+    lines.push('');
+    lines.push('**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**');
+    lines.push('');
+    lines.push('| Candidate ID | Total |');
+    lines.push('|---|---:|');
+    for (const [cid, amt] of sorted) lines.push(`| ${cid} | ${fmtUsd(amt)} |`);
+  }
+
+  lines.push('');
+  lines.push('*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*');
+  return lines.join('\n');
+}
+
+function renderIndividualDonorPanel(donorNameNorm, donorState, idx) {
+  // Find all rows in indiv-by-committee where donor_name matches
+  const matches = [];
+  for (const [cmteId, funders] of idx.cmteFunders) {
+    for (const f of funders) {
+      if (f.donor_name === donorNameNorm && (!donorState || f.donor_state === donorState)) {
+        matches.push({ ...f, cmte_name: idx.cmteName.get(cmteId) || '(unknown)' });
+      }
+    }
+  }
+  if (matches.length === 0) return null;
+  matches.sort((a, b) => b.total - a.total);
+
+  const total = matches.reduce((a, b) => a + b.total, 0);
+  const lines = [''];
+  lines.push('*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*');
+  lines.push('');
+  lines.push(`**Total tracked: ${fmtUsd(total)} across ${matches.length} committee${matches.length === 1 ? '' : 's'}.**`);
+  lines.push('');
+  lines.push('**Top 15 committees funded:**');
+  lines.push('');
+  lines.push('| Committee | Total | First→Last cycle |');
+  lines.push('|---|---:|---:|');
+  for (const m of matches.slice(0, 15)) {
+    lines.push(`| ${m.cmte_name} | ${fmtUsd(m.total)} | ${m.first_cycle}→${m.last_cycle} |`);
+  }
+  lines.push('');
+  lines.push('*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*');
+  lines.push('');
+  lines.push('*Source: FEC individual contribution filings (indiv), 1982–2026.*');
+  return lines.join('\n');
+}
+
 function renderPoliticianPanel(candId, idx) {
   const lines = [];
   const direct = idx.candDirect.get(candId);
@@ -134,7 +255,7 @@ function renderPoliticianPanel(candId, idx) {
   if (!direct && !ieS && !ieO && !party) return null; // no FEC data
 
   lines.push('');
-  lines.push(`*Lifetime federal FEC data, 1982–2026. Classified per ADR-0013 (anomalies excluded).*`);
+  lines.push(`*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*`);
   lines.push('');
 
   // Summary totals
@@ -193,7 +314,7 @@ function renderPoliticianPanel(candId, idx) {
   }
 
   lines.push('');
-  lines.push('*Source: FEC bulk pas2 (1982–2026). Generated by `scripts/build-fec-lifetime-panels.cjs` per ADR-0014.*');
+  lines.push('*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*');
   return lines.join('\n');
 }
 
@@ -262,8 +383,40 @@ function injectPanel(filePath, panelMd) {
         const p = renderPoliticianPanel(id, idx);
         if (p) { panel = p; break; }
       }
+    } else if (type === 'donor' || type === 'pac' || type === 'corporation') {
+      // PAC / committee-based entity — needs fec-committee-id
+      const cmteId = fm['fec-committee-id'] || fm['fec-cmte-id'] || fm['cmte-id'];
+      if (cmteId) {
+        panel = renderPacPanel(cmteId, idx);
+      } else if (type === 'donor') {
+        // Individual donor — try name match in indiv-by-committee
+        // Name format: "LAST, FIRST" uppercase
+        const nm = String(fm.title || '').trim();
+        if (nm) {
+          // Try "LAST, FIRST" (from "First Last" OR "Last, First")
+          let candidateNames = [];
+          if (nm.includes(',')) {
+            candidateNames.push(nm.toUpperCase());
+          } else {
+            const parts = nm.trim().split(/\s+/);
+            if (parts.length >= 2) {
+              const last = parts[parts.length - 1].toUpperCase();
+              const first = parts[0].toUpperCase();
+              candidateNames.push(`${last}, ${first}`);
+              // middle initials
+              if (parts.length > 2) {
+                const mid = parts.slice(1, -1).join(' ').toUpperCase();
+                candidateNames.push(`${last}, ${first} ${mid}`);
+              }
+            }
+          }
+          for (const n of candidateNames) {
+            const p = renderIndividualDonorPanel(n, null, idx);
+            if (p) { panel = p; break; }
+          }
+        }
+      }
     }
-    // TODO: donor / pac / corporation rendering — next iteration
     scanned++;
 
     if (!panel) { nodata++; continue; }

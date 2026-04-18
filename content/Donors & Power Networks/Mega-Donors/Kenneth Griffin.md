@@ -90,6 +90,37 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $13.4M across 17 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $3.0M | 2024→2024 |
+| GLCF, INC. | $2.5M | 2024→2024 |
+| RESTORE OUR FUTURE, INC. | $1.6M | 2012→2012 |
+| 1820 PAC | $1.5M | 2020→2020 |
+| ALASKANS FOR L.I.S.A. (LEADERSHIP IN A STRONG ALASKA) | $1.5M | 2022→2022 |
+| ILLINOIS VALUES PAC | $1.5M | 2022→2022 |
+| PRIORITIES FOR IOWA POLITICAL FUND | $950K | 2014→2020 |
+| INDEPENDENT VOICE FOR ILLINOIS PAC | $350K | 2016→2016 |
+| ARKANSAS HORIZON | $250K | 2014→2014 |
+| AMERICARISINGPAC.ORG | $150K | 2014→2014 |
+| USA SUPER PAC | $100K | 2014→2014 |
+| ILLINOIS REPUBLICAN PARTY | $40K | 2016→2020 |
+| WINRED | $17K | 2022→2022 |
+| RIGHT TO RISE USA | $12K | 2016→2016 |
+| TEAM MCHENRY | $10K | 2018→2018 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #griffin #citadel #hedge-fund #wall-street #class-analysis #follow-the-money #financial-deregulation #anti-tariff #desantis #republican
 
 ---

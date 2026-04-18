@@ -1920,19 +1920,46 @@ body:has(.lp-landing) .breadcrumb-container {
   gap: 4px;
 }
 
-.ph-money-info {
-  background: none;
-  border: none;
-  padding: 0;
-  margin: 0;
-  color: #999;
-  font-size: 11px;
-  cursor: help;
-  line-height: 1;
-  font-family: inherit;
-}
-.ph-money-info:hover, .ph-money-info:focus {
-  color: #e63946;
+.ph-money-info-details {
+  display: inline-block;
+  position: relative;
+  margin-left: 2px;
+  vertical-align: baseline;
+
+  & > summary {
+    list-style: none;
+    cursor: pointer;
+    color: #999;
+    font-size: 12px;
+    line-height: 1;
+    user-select: none;
+    display: inline-block;
+
+    &::-webkit-details-marker { display: none; }
+    &:hover, &:focus { color: #e63946; outline: none; }
+  }
+
+  &[open] > summary { color: #e63946; }
+
+  & > .ph-money-info-popup {
+    position: absolute;
+    top: calc(100% + 6px);
+    right: 0;
+    z-index: 20;
+    max-width: 340px;
+    min-width: 260px;
+    padding: 12px 14px;
+    background: #0a0a0a;
+    color: #f5f0eb;
+    border: 2px solid #fbbf24;
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+    box-shadow: 4px 4px 0 rgba(0,0,0,0.15);
+  }
 }
 
 .ph-money {

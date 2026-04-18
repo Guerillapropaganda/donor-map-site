@@ -49,6 +49,66 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $975K |
+| Money out: direct contributions to candidates | $305K |
+| Money out: IE spending FOR candidates | $215K |
+| Money out: IE spending AGAINST candidates | $24K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| ROBERTS, DONNA RUTH (MS) | $90K | N/A |
+| YATES, III, WILLIAM G. (MS) | $60K | YATES CONSTRUCTION |
+| JOHNSON, MICHAEL (MS) | $60K | LANDMARK HOMES |
+| CLAY, BETH (MS) | $50K | SELF |
+| SANDERSON, JR., JOE F. (MS) | $40K | SANDERSON FARMS |
+| WELLS, ROB (MS) | $40K | YOUNG WILLIAMS CHILD SUPPORT S |
+| CANIZARO, JOSEPH (LA) | $40K | COLUMBUS PROPERTIES |
+| CARTER, WALLACE (MS) | $30K | WASTE PRO |
+| WALKER, III, GEORGE (MS) | $30K | HERITAGE PROPERTIES |
+| COVINGTON, RIMMER (MS) | $30K | THE MEXICAN GULF FISHING COMPA |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4MS01078 | $20K |
+| H2MS02013 | $19K |
+| H8MS04370 | $15K |
+| H8MS05120 | $15K |
+| H6MS05041 | $11K |
+| H8CA42152 | $10K |
+| H8MS04156 | $10K |
+| H8MS04339 | $10K |
+| S2MS00025 | $10K |
+| H4MS02076 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00003335 | $142K |
+| H8MS01053 | $29K |
+| H6MS03046 | $14K |
+| H4MS04064 | $14K |
+| H4MS01078 | $10K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8MS00287 | $24K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

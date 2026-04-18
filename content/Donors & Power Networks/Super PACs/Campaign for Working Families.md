@@ -52,6 +52,67 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $75K |
+| Money out: direct contributions to candidates | $2.1M |
+| Money out: IE spending FOR candidates | $1.5M |
+| Money out: IE spending AGAINST candidates | $708K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| VETTERICK, PAUL M (OR) | $15K | Information Requested - Not Recd |
+| BRISTOL, BARBARA F (MA) | $10K | — |
+| DRAKE, SARAH  MS (NC) | $10K | DRAKE ENTERPRISES LTD |
+| SCHREIBER, CHARLES J MR JR (CA) | $10K | SELF |
+| BROWN, DALE A MR (TX) | $10K | PETROLEUM STRATEGIES INC |
+| SUNDQUIST, LARRY MR (WA) | $10K | SUNDQUIST HOMES LLC |
+| SLIFKO, SYLVIA C (OH) | $10K | SLIFKO CONSTRUCTION INC |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2IA05072 | $35K |
+| H2CO04045 | $32K |
+| H8NC08042 | $31K |
+| H4MI07103 | $26K |
+| H8NJ05052 | $22K |
+| H8IN02060 | $22K |
+| H8OH01043 | $21K |
+| H6MN06074 | $21K |
+| H6VA10050 | $21K |
+| H4AZ04024 | $21K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8CA22063 | $195K |
+| S2MO00429 | $176K |
+| H8OH01043 | $127K |
+| S2OH00170 | $118K |
+| S0FL00338 | $116K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6NV00028 | $136K |
+| S0PA00434 | $127K |
+| H8MI07096 | $114K |
+| H8VA02046 | $76K |
+| H6MO04141 | $74K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

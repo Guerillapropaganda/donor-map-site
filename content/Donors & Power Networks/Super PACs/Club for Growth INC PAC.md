@@ -49,6 +49,64 @@ related: "[[John Thune]] · [[Patrick McHenry]]"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $42K |
+| Money out: direct contributions to candidates | $731K |
+| Money out: IE spending FOR candidates | $2.0M |
+| Money out: IE spending AGAINST candidates | $2.4M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CAMERON, RONALD (AR) | $12K | MOUNTAIRE CORPORATION |
+| HOLMAN, WAYNE (IL) | $10K | INVESTOR |
+| GILDER, RICHARD MR. (NY) | $10K | GILDER GAGNON HOWE & CO. LLC |
+| STEPHENS, JACKSON (AR) | $10K | EOE INC. |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4PA00121 | $22K |
+| H2IA05072 | $21K |
+| H8IN02060 | $17K |
+| H4TX19110 | $14K |
+| H2UT02167 | $13K |
+| H2FL00250 | $13K |
+| H0CT02124 | $13K |
+| H2TN04159 | $13K |
+| S4SC00083 | $12K |
+| H2IA04067 | $12K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4PA00121 | $436K |
+| S4OK00174 | $230K |
+| H4MI07103 | $192K |
+| H4NC10047 | $183K |
+| S4SC00083 | $173K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8RI00102 | $485K |
+| H6ID01185 | $441K |
+| H6MI03081 | $327K |
+| H6NV02164 | $261K |
+| H4NE01072 | $172K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15
