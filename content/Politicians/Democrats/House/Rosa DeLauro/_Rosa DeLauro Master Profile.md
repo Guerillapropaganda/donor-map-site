@@ -23,8 +23,8 @@ related: "[[Tom Cole]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed M
 total-received: $689,298
 fec-candidate-id: H0CT03072
 govtrack-id: 400103
-bills-sponsored: 45
-bills-cosponsored: 204
+bills-sponsored: 634
+bills-cosponsored: 6485
 website: https://delauro.house.gov
 phone: 202-225-3661
 last-enriched: "2026-04-11"
@@ -52,6 +52,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Rosa_DeLauro
 wikipedia-extract: Rosa Luisa DeLauro is an American politician serving as the U.S. representative for Connecticut's 3rd congressional district since 1991. She is a member of the Democratic Party.
 born: "1943-03-02"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

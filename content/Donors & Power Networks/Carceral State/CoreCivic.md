@@ -291,7 +291,7 @@ SCOTUS. Al Otro Lado asylum arrival doctrine
 - [Source: ProPublica Nonprofit Explorer — EIN 823851866](https://projects.propublica.org/nonprofits/organizations/823851866) (Tier 1) (VERIFIED)
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-17 -->
+<!-- auto:propublica-990 pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -604,7 +604,7 @@ CoreCivic, Inc. is an American private prison operator and one of the largest fo
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1135278) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-17 -->
+<!-- auto:wikipedia pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

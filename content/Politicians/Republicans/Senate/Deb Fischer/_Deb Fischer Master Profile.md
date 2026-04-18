@@ -19,8 +19,8 @@ issues:
 top-donors:
   - AIPAC
 govtrack-id: 412556
-bills-sponsored: 40
-bills-cosponsored: 304
+bills-sponsored: 342
+bills-cosponsored: 1559
 website: https://www.fischer.senate.gov
 phone: 202-224-6551
 total-received: $572,417
@@ -33,6 +33,7 @@ reenrich-reason: re-run congress pipeline
 bioguide-id: F000463
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

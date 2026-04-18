@@ -13,8 +13,8 @@ state-abbr: MO
 district: "1"
 bioguide-id: B001224
 govtrack-id: 456829
-bills-sponsored: 15
-bills-cosponsored: 398
+bills-sponsored: 39
+bills-cosponsored: 756
 total-received: $534,492
 fec-candidate-id: H8MO01143
 fec-committee-id: C00638767
@@ -77,6 +77,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Cori_Bush
 wikipedia-extract: Cori Anika Bush is an American politician, nurse, pastor, and Black Lives Matter activist who served as the U.S. representative for Missouri's 1st congressional district from 2021 to 2025.
 born: "1976-07-21"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

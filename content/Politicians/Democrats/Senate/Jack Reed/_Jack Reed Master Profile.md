@@ -35,8 +35,8 @@ last-enriched: "2026-04-11"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 govtrack-id: 300081
-bills-sponsored: 41
-bills-cosponsored: 300
+bills-sponsored: 1260
+bills-cosponsored: 4939
 website: https://www.reed.senate.gov
 phone: 202-224-4642
 bioguide-id: R000122
@@ -44,6 +44,7 @@ internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.
 total-received: $3,297,809
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

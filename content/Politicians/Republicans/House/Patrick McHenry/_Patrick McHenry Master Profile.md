@@ -35,12 +35,13 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 govtrack-id: 400644
-bills-sponsored: 24
-bills-cosponsored: 69
+bills-sponsored: 139
+bills-cosponsored: 1487
 related: "[[_Donald Trump Master Profile]] · [[_Mike Johnson Master Profile]] · [[Crypto Industry Bloc|Crypto Industry Bloc]] · [[Citadel - Kenneth Griffin|Kenneth Griffin]] · [[Apollo Global Management]]"
 bioguide-id: M001156
 donors: "[[Club for Growth INC PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CRYPTO INNOVATION]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[CLUB FOR GROWTH INC PAC]], [[Securities & Investment Industry]], [[FAIRSHAKE]], [[Kenneth Griffin]], [[Crypto Industry Bloc]]"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Finance and Financial Sector"
 ---
 

@@ -21,8 +21,8 @@ source-types:
 corroboration-count: 3
 central-thesis: Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned.
 top-donors: "[[COPS VOTER GUIDE INC.]] · [[ONE NATION UNITED]] · [[DELIVERING FOR CALIFORNIA]] · [[HUMANE SOCIETY LEGISLATIVE FUND]] · [[Cops Voter Guide Inc.]] · [[One Nation United]] · [[English Language Political Action Committee]] · [[Humane Society Legislative Fund]] · [[Delivering for California]]"
-bills-sponsored: 37
-bills-cosponsored: 297
+bills-sponsored: 2211
+bills-cosponsored: 6727
 known-gaps:
   - Committee data shows empty (deceased member, no longer on active roster)
 last-enriched: "2026-04-12"
@@ -34,6 +34,7 @@ checklist-na:
   - "bills: From the Congress.gov API via the enrichment pipeline. "
 donors: "[[One Nation United]] · [[COPS VOTER GUIDE INC.]] · [[DELIVERING FOR CALIFORNIA]] · [[ONE NATION UNITED]] · [[Cops Voter Guide Inc.]] · [[HUMANE SOCIETY LEGISLATIVE FUND]] · [[English Language Political Action Committee]] · [[Humane Society Legislative Fund]] · [[Delivering for California]]"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Crime and Law Enforcement"
 ---
 

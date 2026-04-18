@@ -29,8 +29,8 @@ issues:
 total-received: "$914,493"
 fec-candidate-id: "H8MA07032"
 govtrack-id: 412782
-bills-sponsored: 41
-bills-cosponsored: 364
+bills-sponsored: 147
+bills-cosponsored: 1817
 website: "https://pressley.house.gov"
 phone: "202-225-5111"
 source-types:
@@ -72,6 +72,7 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Ayanna_Pressley"
 wikipedia-extract: "Ayanna Soyini Pressley is an American politician who has served as the U.S. representative for Massachusetts's 7th congressional district since 2019."
 born: "1974-02-03"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

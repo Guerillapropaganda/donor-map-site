@@ -47,8 +47,8 @@ fec-candidate-id: S6IL00292
 donors: "[[Democracy Alliance]] · [[Boeing]] · [[General Dynamics]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Lockheed Martin]] · [[Now Or Never PAC]] · [[FreedomWorks for America]] · [[New Prosperity Foundation; the]] · [[Raytheon (RTX)]]"
 bioguide-id: D000622
 govtrack-id: 412533
-bills-sponsored: 60
-bills-cosponsored: 477
+bills-sponsored: 552
+bills-cosponsored: 3228
 website: https://www.duckworth.senate.gov
 phone: 202-224-2854
 related: "[[_Dick Durbin Master Profile|Durbin]] · [[Boeing]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)]] · [[L3Harris Technologies]] · [[Defense Contractors Bloc]] · [[Dick Durbin]] · [[_Kamala Harris Master Profile]] · [[Northrop Grumman]]"
@@ -57,6 +57,7 @@ reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-12"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

@@ -22,8 +22,8 @@ top-donors:
   - Koch Network - Charles Koch
   - Crypto Industry Bloc
 govtrack-id: 412573
-bills-sponsored: 142
-bills-cosponsored: 377
+bills-sponsored: 1102
+bills-cosponsored: 2051
 website: https://www.cruz.senate.gov
 phone: 202-224-5922
 total-received: $6,442,446
@@ -50,6 +50,7 @@ internal-notes: |-
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 donors: "[[Rebekah Mercer]] · [[Kelcy Warren]] · [[SAVE OUR COUNTRY]] · [[Crypto Industry Bloc]] · [[Republican Jewish Coalition]] · [[WinSenate]] · [[Truth and Courage PAC]] · [[Christopher Ruddy]] · [[Robert Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Texas Forever]] · [[Save Our Country]] · [[Texas Conservatives Fund]]"
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

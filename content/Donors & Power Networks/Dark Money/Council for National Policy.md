@@ -14,7 +14,7 @@ annual-revenue: "$3.8M"
 net-assets: "$3.5M"
 tax-year: "2023"
 court-cases: 21
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 court-jurisdictions:
@@ -117,7 +117,7 @@ Conservative judicial appointments (the Federalist Society pipeline feeds direct
 
 <!-- auto:propublica-990 end -->
 
-<!-- auto:propublica-990 pending-merge 2026-04-17 -->
+<!-- auto:propublica-990 pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
@@ -237,7 +237,7 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-17 -->
+<!-- auto:wikipedia pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

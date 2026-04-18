@@ -34,9 +34,10 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koc
 bioguide-id: S001213
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 31
-bills-cosponsored: 166
+bills-sponsored: 90
+bills-cosponsored: 606
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Finance and Financial Sector"
 ---
 

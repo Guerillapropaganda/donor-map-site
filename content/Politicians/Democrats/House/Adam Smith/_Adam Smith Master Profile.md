@@ -38,7 +38,7 @@ last-enriched: "2026-04-17"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline
 govtrack-id: 400379
-bills-sponsored: 199
+bills-sponsored: 232
 bills-cosponsored: 4981
 website: https://adamsmith.house.gov
 phone: 202-225-8901
@@ -52,6 +52,7 @@ cash-on-hand: "697967.61"
 fec-cycle: 2026
 total-received: "$1,128,650"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

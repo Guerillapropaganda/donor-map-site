@@ -54,9 +54,10 @@ wikipedia-url: https://en.wikipedia.org/wiki/Joseph_Morelle
 wikipedia-extract: Joseph D. Morelle is an American politician serving as the U.S. representative for New York's 25th congressional district since 2018.
 born: "1957-04-29"
 donors: "[[Together We Thrive]], [[Labor Unions]], [[Planned Parenthood Votes]], [[TOGETHER WE THRIVE]], [[NEA ADVOCACY FUND]], [[OPPORTUNITY FOR ALL ACTION FUND]], [[Congressional Leadership Fund]], [[Opportunity for All Action Fund]], [[NEA Advocacy Fund]]"
-bills-sponsored: 31
-bills-cosponsored: 458
+bills-sponsored: 131
+bills-cosponsored: 1815
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

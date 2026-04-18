@@ -20,8 +20,8 @@ total-received: $619,810
 fec-candidate-id: S0CT00177
 bioguide-id: B001277
 govtrack-id: 412490
-bills-sponsored: 99
-bills-cosponsored: 792
+bills-sponsored: 1067
+bills-cosponsored: 6110
 website: https://www.blumenthal.senate.gov
 phone: 202-224-2823
 stock-trades: 50
@@ -43,6 +43,7 @@ issues:
   - Native Americans
   - Taxation
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

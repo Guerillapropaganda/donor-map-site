@@ -29,8 +29,8 @@ issues:
 total-received: $17,388
 fec-candidate-id: H2AZ07070
 govtrack-id: 400162
-bills-sponsored: 2
-bills-cosponsored: 122
+bills-sponsored: 8
+bills-cosponsored: 187
 donors: "[[National Nurses United]] · [[MOVEON.ORG POLITICAL ACTION]] · [[CAMPAIGN FOR COMMUNITY CHANGE]] · [[SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)]] · [[WORKING FAMILIES PARTY PAC]] · [[Campaign for Community Change]] · [[MoveOn.org Political Action]] · [[Working Families Party PAC]]"
 opposes: "[[AMERICANS FOR TAX REFORM]]"
 related: "[[_Bruce Westerman Master Profile|Bruce Westerman]]"
@@ -40,6 +40,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 last-enriched: "2026-04-11"
 bioguide-id: G000606
 urls-first-triaged: "2026-04-15"
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 ---
 
 

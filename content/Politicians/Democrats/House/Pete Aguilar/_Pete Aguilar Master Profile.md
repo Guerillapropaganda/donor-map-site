@@ -34,9 +34,10 @@ issues:
   - Housing and Community Development
   - Immigration
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 27
-bills-cosponsored: 144
+bills-sponsored: 91
+bills-cosponsored: 1823
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Government Operations and Politics"
 ---
 

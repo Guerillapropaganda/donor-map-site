@@ -14,8 +14,8 @@ top-donors:
   - Koch Network - Charles Koch
   - Cryptocurrency Industry
 govtrack-id: 412492
-bills-sponsored: 52
-bills-cosponsored: 100
+bills-sponsored: 1095
+bills-cosponsored: 1113
 website: https://www.paul.senate.gov
 phone: 202-224-4343
 total-received: $11,515
@@ -34,6 +34,7 @@ issues:
   - Crime and Law Enforcement
 donors: "[[Larry Ellison]] · [[Jeffrey Yass]] · [[Cryptocurrency Industry]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Koch Network - Charles Koch]] · [[Barre Seid]]"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 
