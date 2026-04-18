@@ -45,8 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Western Growers Association | — |
-| National Cattlemen's Beef Association | — |
+| AIPAC - American Israel Public Affairs Committee | $32,512 |
+| National Cattlemen's Beef Association | $30,000 |
+| Valero Energy | $30,000 |
+| Occidental Petroleum | $25,500 |
+| ConocoPhillips | $25,000 |
+| AT&T - WarnerMedia | $25,000 |
+| Marathon Petroleum | $25,000 |
+| National Association of Realtors | $22,000 |
+| Chevron | $20,000 |
+| American Hospital Association PAC | $19,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

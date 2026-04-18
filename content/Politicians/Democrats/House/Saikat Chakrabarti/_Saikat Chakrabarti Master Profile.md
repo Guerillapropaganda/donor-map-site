@@ -55,10 +55,11 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** $1,769,248
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Saikat Chakrabarti (self-loans, 83.1%)
-- Small Dollar Donors (ActBlue)
+| Donor | Amount |
+|---|---:|
+| League of Conservation Voters | $50 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

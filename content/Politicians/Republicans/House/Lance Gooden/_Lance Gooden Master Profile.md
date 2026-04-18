@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $26,510 |
+| National Association of Realtors | $22,000 |
+| MAJORITY PAC | $20,000 |
+| National Restaurant Association | $17,500 |
+| Valero Energy | $15,000 |
+| Marathon Petroleum | $15,000 |
+| Comcast - NBCUniversal | $13,500 |
+| National Multifamily Housing Council | $12,500 |
+| AT&T - WarnerMedia | $11,000 |
+| Chevron | $9,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

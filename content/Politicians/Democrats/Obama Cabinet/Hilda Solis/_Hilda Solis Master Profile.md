@@ -24,6 +24,17 @@ fec-candidate-id: "H6CA38139"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| IBEW - International Brotherhood of Electrical Workers | $3,500 |
+| Kaiser Permanente | $3,500 |
+| UnitedHealth Group - Optum | $1,500 |
+| Pfizer Inc. | $250 |
+| CBRE Group | $250 |
+| Verizon | $250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

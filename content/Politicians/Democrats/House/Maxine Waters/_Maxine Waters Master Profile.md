@@ -48,16 +48,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| FUTURE45 | $899,018 |
-| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | $321,313 |
-| STARS AND STRIPES FOREVER PAC | $210,929 |
 | LOS ANGELES COUNTY DEMOCRATIC CENTRAL COMMITTEE | $62,562 |
-| ELBERT GUILLORY'S AMERICA | $8,292 |
-| Los Angeles County Democratic Central Committee | — |
-| Elbert Guillory's America | — |
-| California Nurses Association | — |
-| Stars and Stripes Forever PAC | — |
-| Goldman Sachs | — |
+| National Association of Realtors | $28,962 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| National Multifamily Housing Council | $24,999 |
+| General Motors | $21,500 |
+| SEIU COPE | $17,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| Walmart - Walton Family | $9,500 |
+| Teamsters - International Brotherhood of Teamsters | $7,500 |
+| Morgan Stanley | $6,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

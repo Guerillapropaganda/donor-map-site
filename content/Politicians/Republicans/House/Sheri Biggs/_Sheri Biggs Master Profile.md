@@ -36,6 +36,21 @@ fec-candidate-id: "H4SC01313"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| VIEW PAC - Value in Electing Women | $15,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Care Action | $8,500 |
+| National Association of Realtors | $8,000 |
+| Honeywell | $7,500 |
+| Duke Energy | $7,000 |
+| Chevron | $5,000 |
+| American Hospital Association PAC | $4,500 |
+| Lockheed Martin | $3,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

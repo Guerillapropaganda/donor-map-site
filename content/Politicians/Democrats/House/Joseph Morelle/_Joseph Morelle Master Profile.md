@@ -81,15 +81,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| OPPORTUNITY FOR ALL ACTION FUND | $64,370 |
+| Opportunity for All Action Fund | $96,555 |
+| DCCC - Democratic Congressional Campaign Committee | $95,000 |
+| AIPAC - American Israel Public Affairs Committee | $51,626 |
+| L3Harris Technologies | $35,000 |
 | Congressional Leadership Fund | $33,050 |
-| TOGETHER WE THRIVE | $750 |
-| Planned Parenthood Votes | $195 |
-| NEA ADVOCACY FUND | $68 |
-| Labor Unions | — |
-| Together We Thrive | — |
-| Opportunity for All Action Fund | — |
-| NEA Advocacy Fund | — |
+| Northrop Grumman | $32,500 |
+| Honeywell | $30,000 |
+| General Motors | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| American Hospital Association PAC | $26,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

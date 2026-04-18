@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| National Multifamily Housing Council | $24,000 |
+| National Association of Realtors | $22,000 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| AIPAC - American Israel Public Affairs Committee | $18,903 |
+| United Food and Commercial Workers International Union Active Ballot Club | $15,000 |
+| AT&T - WarnerMedia | $14,000 |
+| SEIU COPE | $12,713 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| NEA Fund for Children and Public Education | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

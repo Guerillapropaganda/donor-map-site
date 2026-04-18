@@ -36,6 +36,21 @@ fec-candidate-id: "H2CA13115"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $12,292,042 |
+| NRCC - National Republican Congressional Committee | $2,986,545 |
+| National Association of Realtors | $1,074,018 |
+| Hmp | $842,738 |
+| DCCC - Democratic Congressional Campaign Committee | $290,344 |
+| Center Forward Committee | $60,000 |
+| Americans for Prosperity | $46,079 |
+| Google - Alphabet | $39,639 |
+| MAJORITY PAC | $31,078 |
+| NEA Fund for Children and Public Education | $22,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -87,14 +87,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| Americans for Tomorrow's Future | $4,967,397 |
-| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $646,963 |
-| Takeaction Mn Federal Fund | $375,609 |
+| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $971,492 |
+| Takeaction Mn Federal Fund | $558,326 |
+| National Nurses United for Patient Protection | $222,935 |
 | Wfp Ie Committee | $161,100 |
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $155,229 |
-| Minnesota Democratic-Farmer-Labor Party | — |
-| National Nurses United for Patient Protection | — |
-| National Nurses United | — |
+| Law Enforcement for a Safer America Pac | $63,750 |
+| Honoring American Law Enforcement Pac | $63,750 |
+| Medicare for All - The Policy That Broke the Party | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| NEA Fund for Children and Public Education | $22,000 |
+| Unite Here Tip Campaign Committee | $17,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

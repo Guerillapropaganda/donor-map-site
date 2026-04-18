@@ -40,6 +40,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $3,072,908 |
+| Votevets | $1,057,822 |
+| Center Forward Committee | $600,000 |
+| Progressive Turnout Project | $556,013 |
+| Law Enforcement for a Safer America Pac | $443,880 |
+| League of Conservation Voters | $268,063 |
+| NRCC - National Republican Congressional Committee | $229,990 |
+| Honoring American Law Enforcement Pac | $162,500 |
+| Congressional Leadership Fund | $46,986 |
+| WinRed | $40,637 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

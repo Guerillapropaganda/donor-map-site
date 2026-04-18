@@ -38,6 +38,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blackstone Group | $28,201 |
+| Goldman Sachs | $9,100 |
+| Wells Fargo | $6,490 |
+| Anduril Industries | $6,200 |
+| Brad Knott | $6,000 |
+| Meta - Facebook | $5,400 |
+| Duke Energy | $4,200 |
+| Bank of America | $3,324 |
+| Charles Schwab | $3,150 |
+| Coinbase | $2,900 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

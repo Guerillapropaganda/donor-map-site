@@ -50,11 +50,16 @@ donors: "[[Fraternal Order of Police]] · [[National Right to Life Victory Fund]
 
 | Donor | Amount |
 |---|---:|
-| HOUSE MAJORITY PAC | $705,828 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $549,329 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,882 |
-| National Right to Life Victory Fund | $2,451 |
-| Fraternal Order of Police | — |
+| AIPAC - American Israel Public Affairs Committee | $52,510 |
+| CoreCivic | $36,125 |
+| National Association of Realtors | $19,000 |
+| MAJORITY PAC | $10,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $8,500 |
+| Goldman Sachs | $8,267 |
+| Occidental Petroleum | $8,100 |
+| Kelcy Warren - Energy Transfer Partners | $6,600 |
+| Pfizer Inc. | $5,300 |
+| General Dynamics | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

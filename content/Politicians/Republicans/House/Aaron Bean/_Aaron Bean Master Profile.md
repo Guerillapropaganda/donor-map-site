@@ -45,7 +45,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| Brady Campaign | — |
+| American Dream Federal Action | $450,747 |
+| National Association of Realtors | $36,262 |
+| AIPAC - American Israel Public Affairs Committee | $30,009 |
+| Apollo Global Management | $20,300 |
+| MAJORITY PAC | $20,000 |
+| American Hospital Association PAC | $16,000 |
+| Ballard Partners | $14,150 |
+| NextEra Energy | $14,000 |
+| AT&T - WarnerMedia | $13,500 |
+| Comcast - NBCUniversal | $12,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

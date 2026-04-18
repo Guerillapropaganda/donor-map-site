@@ -45,16 +45,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
+| United Democracy Project - UDP | $4,766,881 |
 | DMFI PAC | $1,825,535 |
-| WORKING FAMILIES PARTY PAC | $1,338,070 |
-| JUSTICE DEMOCRATS PAC | $783,227 |
-| EMGAGE FEDERAL POLITICAL ACTION COMMITTEE | $200,000 |
-| UNITED DEMOCRACY PROJECT ('UDP') | $168,652 |
-| DMFI - Democratic Majority for Israel | — |
-| Bernie Marcus | — |
-| Fairshake PAC | — |
-| Justice Democrats PAC | — |
-| Working Families Party PAC | — |
+| DMFI - Democratic Majority for Israel | $915,851 |
+| Working Families Party PAC | $569,035 |
+| JUSTICE DEMOCRATS PAC | $391,612 |
+| AIPAC - American Israel Public Affairs Committee | $222,179 |
+| Emgage Federal Political Action Committee | $100,000 |
+| NORPAC | $43,550 |
+| American Federation of State County & Municipal Employees P E O P L E | $15,000 |
+| CBRE Group | $10,600 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

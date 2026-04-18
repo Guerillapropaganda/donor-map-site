@@ -54,12 +54,16 @@ donors: "[[Sierra Club Political Committee]] · [[League of Conservation Voters]
 
 | Donor | Amount |
 |---|---:|
-| SIERRA CLUB POLITICAL COMMITTEE | $84,125 |
-| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $7,137 |
-| Sierra Club Independent Action | $6,495 |
-| League of Conservation Voters | $2,106 |
-| National Committee to Preserve Social Security PAC | — |
-| Sierra Club Political Committee | — |
+| Sierra Club Political Committee | $84,125 |
+| Unite Here Tip Campaign Committee | $15,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| Teamsters - International Brotherhood of Teamsters | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| IBEW - International Brotherhood of Electrical Workers | $9,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $7,000 |
+| Sierra Club Independent Action | $6,505 |
+| J Street | $5,025 |
+| SEIU COPE | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

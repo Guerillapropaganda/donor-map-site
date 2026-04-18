@@ -65,16 +65,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| National Republican Senatorial Committee | $75,759 |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $75,759 |
-| PATRIOT VOICES PAC | $8,232 |
-| Planned Parenthood Votes | $124 |
-| CAMPAIGN FOR WORKING FAMILIES | $66 |
-| ENVIRONMENT AMERICA INC | $59 |
-| NORPAC | — |
-| General Dynamics | — |
-| Lockheed Martin | — |
-| Environment America INC | — |
+| General Dynamics | $10,000 |
+| Microsoft | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| L3Harris Technologies | $10,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $8,500 |
+| Honeywell | $8,500 |
+| Votevets | $7,500 |
+| Anthem - Elevance Health | $7,500 |
+| Raytheon (RTX) | $7,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

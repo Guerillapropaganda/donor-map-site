@@ -36,6 +36,21 @@ fec-candidate-id: "H4MT02098"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Defend American Jobs | $509,959 |
+| Defending Main Street Superpac INC | $29,229 |
+| Charles Schwab | $17,100 |
+| National Cattlemen's Beef Association | $15,000 |
+| MAJORITY PAC | $10,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| National Association of Realtors | $7,000 |
+| Blackstone Group | $7,000 |
+| Apollo Global Management | $7,000 |
+| American Hospital Association PAC | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

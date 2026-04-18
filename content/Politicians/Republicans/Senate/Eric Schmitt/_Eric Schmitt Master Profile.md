@@ -39,6 +39,21 @@ top-policy-area: "Congress"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Americans for Prosperity | $5,176,333 |
+| Crypto Innovation PAC | $339,048 |
+| Senate Conservatives Fund | $236,876 |
+| Opportunity Matters Fund | $100,000 |
+| NRSC - National Republican Senatorial Committee | $51,200 |
+| International Association of Firefighters Interested in Registration and Education PAC | $20,000 |
+| AT&T - WarnerMedia | $14,000 |
+| Teamsters - International Brotherhood of Teamsters | $10,000 |
+| Anthem - Elevance Health | $10,000 |
+| Pfizer Inc. | $9,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

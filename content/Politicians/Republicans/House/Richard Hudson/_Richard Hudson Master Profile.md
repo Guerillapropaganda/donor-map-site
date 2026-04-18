@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
+| National Association of Realtors | $52,117 |
+| National Rifle Association | $34,831 |
+| Nucor Corporation | $30,944 |
+| National Cattlemen's Beef Association | $30,000 |
+| Valero Energy | $30,000 |
+| AbbVie | $25,000 |
+| Marathon Petroleum | $25,000 |
+| National Association of Manufacturers | $25,000 |
+| Chevron | $25,000 |
+| Amgen Inc | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

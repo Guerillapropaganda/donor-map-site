@@ -79,13 +79,13 @@ top-policy-area: "Health"
 | UNITED WE WIN SUPER PAC | $1,873,487 |
 | Independence Usa Pac | $1,465,072 |
 | THE MOBILIZATION PROJECT | $1,064,894 |
-| AMERICAN PRINCIPLES FUND | $511,500 |
-| AMERICAN COMMITMENT ACTION FUND | $371,600 |
-| POWERPACPLUS | $81,401 |
-| DREAM UNITED | $17,667 |
-| Dream Defenders Fight Pac | $3,516 |
-| Powerpacplus | — |
-| United We Win Super PAC | — |
+| Powerpacplus | $81,401 |
+| Apollo Global Management | $58,300 |
+| Blackstone Group | $34,950 |
+| Google - Alphabet | $23,678 |
+| Lyft | $23,400 |
+| Dream United | $17,667 |
+| BlackRock | $15,925 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

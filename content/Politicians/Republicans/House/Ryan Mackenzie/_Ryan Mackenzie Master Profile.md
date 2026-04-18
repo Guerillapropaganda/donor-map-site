@@ -36,6 +36,21 @@ fec-candidate-id: "H8PA15195"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $6,779,138 |
+| DCCC - Democratic Congressional Campaign Committee | $1,097,411 |
+| Americans for Prosperity | $987,255 |
+| League of Conservation Voters | $371,930 |
+| Congressional Leadership Fund | $235,718 |
+| Emily's List | $186,829 |
+| AFSCME Working Families Fund | $164,478 |
+| National Rifle Association | $64,856 |
+| Republican Jewish Coalition | $12,776 |
+| NRCC - National Republican Congressional Committee | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

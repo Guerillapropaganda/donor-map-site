@@ -61,16 +61,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| US CHAMBER OF COMMERCE | $440,000 |
-| EQUALITY PROJECT PAC | $282,249 |
+| EQUALITY PROJECT PAC | $438,372 |
 | CALIFORNIANS FOR SACRED SITES PROTECTION | $144,114 |
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $70,135 |
-| PLANNED PARENTHOOD ACTION FUND OF THE PACIFIC SOUTHWEST PAC | $11,245 |
-| Planned Parenthood Action Fund of the Pacific Southwest PAC | — |
-| Californians for Sacred Sites Protection | — |
-| National Nurses United for Patient Protection | — |
-| National Nurses United | — |
-| Equality Project PAC | — |
+| National Nurses United for Patient Protection | $70,135 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $25,000 |
+| Leidos | $24,000 |
+| National Association of Realtors | $19,000 |
+| SpaceX | $15,200 |
+| Honeywell | $14,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

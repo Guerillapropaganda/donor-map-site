@@ -69,13 +69,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| Real Estate Industry | — |
-| Defense Industry | — |
-| Insurance Industry | — |
-| American Action Network | — |
-| UAW - United Auto Workers | — |
-| Blue Shield of California | — |
-| AFGE - American Federation of Government Employees | — |
+| Honeywell | $10,000 |
+| BAE Systems | $9,000 |
+| AbbVie | $7,500 |
+| Senate Conservatives Fund | $7,351 |
+| iHeartMedia | $6,000 |
+| Pfizer Inc. | $5,000 |
+| Amgen Inc | $5,000 |
+| American Hospital Association PAC | $5,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $5,000 |
+| Raytheon (RTX) | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

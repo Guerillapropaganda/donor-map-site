@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Ford Motor Company | $47,550 |
+| General Motors | $33,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| SEIU COPE | $25,000 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| Teamsters - International Brotherhood of Teamsters | $25,000 |
+| National Multifamily Housing Council | $24,000 |
+| American Hospital Association PAC | $22,500 |
+| National Association of Realtors | $18,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

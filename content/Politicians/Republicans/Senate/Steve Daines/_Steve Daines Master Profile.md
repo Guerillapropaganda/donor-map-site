@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| WinRed | $105,002 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Gilead Sciences | $14,000 |
+| AT&T - WarnerMedia | $10,000 |
+| Amgen Inc | $10,000 |
+| AbbVie | $10,000 |
+| General Motors | $10,000 |
+| National Multifamily Housing Council | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| Valero Energy | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

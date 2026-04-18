@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $67,327 |
+| Blackstone Group | $65,650 |
+| a16z - Andreessen Horowitz | $48,200 |
+| Apollo Global Management | $37,900 |
+| National Association of Realtors | $29,963 |
+| Palantir Technologies | $25,350 |
+| Votevets | $22,500 |
+| Fidelity Investments | $22,450 |
+| Teamsters - International Brotherhood of Teamsters | $21,000 |
+| National Multifamily Housing Council | $20,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
+| Citadel - Kenneth Griffin | $6,600 |
+| Google - Alphabet | $4,300 |
+| Blackstone Group | $3,500 |
+| FTX - Sam Bankman-Fried | $2,900 |
+| Leidos | $2,500 |
+| Wells Fargo | $1,000 |
+| Fanjul Family - Florida Crystals | $1,000 |
+| Coinbase | $1,000 |
+| Chevron | $750 |
+| PhRMA - Pharmaceutical Research and Manufacturers of America | $500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

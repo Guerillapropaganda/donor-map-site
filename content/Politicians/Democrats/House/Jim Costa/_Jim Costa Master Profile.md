@@ -45,8 +45,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
-| California Farm Bureau Federation | — |
+| Cooperative of American Physicians Independent Expenditure Committee | $60,000 |
+| AIPAC - American Israel Public Affairs Committee | $57,100 |
+| National Cattlemen's Beef Association | $30,000 |
+| National Association of Realtors | $28,071 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| Chevron | $22,500 |
+| PG&E - Pacific Gas and Electric | $22,265 |
+| AT&T - WarnerMedia | $19,000 |
+| Comcast - NBCUniversal | $15,000 |
+| Marathon Petroleum | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

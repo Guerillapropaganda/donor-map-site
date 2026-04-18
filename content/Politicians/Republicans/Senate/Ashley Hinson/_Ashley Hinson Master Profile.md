@@ -48,10 +48,20 @@ donors: "[[Winning for Women PAC]] · [[Senate Leadership Fund]]"
 
 **Total received:** —
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Senate Leadership Fund
-- Winning for Women PAC
+| Donor | Amount |
+|---|---:|
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| SLF PAC | $26,600 |
+| Clearpath Action Fund, Inc. | $24,787 |
+| VIEW PAC - Value in Electing Women | $10,000 |
+| NextEra Energy | $10,000 |
+| American College of Radiology Association PAC | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Republican Jewish Coalition | $7,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $5,000 |
+| Comcast - NBCUniversal | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

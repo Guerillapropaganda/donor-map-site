@@ -55,14 +55,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| NRCC | $5,408,102 |
-| Congressional Leadership Fund | $4,277,678 |
-| TEXAS FORWARD | $2,373,536 |
-| Mainstream Democrats Pac | $1,425,211 |
+| Congressional Leadership Fund | $4,487,778 |
+| NRCC - National Republican Congressional Committee | $3,014,984 |
+| Mainstream Democrats Pac | $2,174,976 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $1,285,000 |
-| Western Growers Association | — |
-| American Petroleum Institute | — |
-| Texas Forward | — |
+| National Association of Realtors | $821,004 |
+| Emily's List | $574,829 |
+| United Democracy Project - UDP | $422,799 |
+| JUSTICE DEMOCRATS PAC | $275,000 |
+| DCCC - Democratic Congressional Campaign Committee | $109,740 |
+| Hmp | $88,700 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

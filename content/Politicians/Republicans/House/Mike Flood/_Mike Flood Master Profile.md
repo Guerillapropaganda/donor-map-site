@@ -40,6 +40,21 @@ top-policy-area: "Finance and Financial Sector"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AMERICAN FUTURE FUND POLITICAL ACTION | $285,359 |
+| Defend American Jobs | $126,740 |
+| National Association of Realtors | $52,258 |
+| Americans for Prosperity | $24,554 |
+| AIPAC - American Israel Public Affairs Committee | $20,510 |
+| Apollo Global Management | $17,900 |
+| Nucor Corporation | $17,500 |
+| National Cattlemen's Beef Association | $17,500 |
+| American Hospital Association PAC | $17,000 |
+| Morgan Stanley | $15,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

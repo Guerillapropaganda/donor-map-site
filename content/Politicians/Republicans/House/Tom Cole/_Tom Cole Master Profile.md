@@ -57,9 +57,16 @@ top-policy-area: "Native Americans"
 
 | Donor | Amount |
 |---|---:|
-| Northrop Grumman | — |
-| Boeing | — |
-| Lockheed Martin | — |
+| Defend American Jobs | $212,498 |
+| National Association of Realtors | $65,441 |
+| Defending Main Street Superpac INC | $48,416 |
+| Lockheed Martin | $31,000 |
+| Honeywell | $30,000 |
+| L3Harris Technologies | $30,000 |
+| BAE Systems | $30,000 |
+| Northrop Grumman | $30,000 |
+| General Dynamics | $28,000 |
+| AIPAC - American Israel Public Affairs Committee | $26,259 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

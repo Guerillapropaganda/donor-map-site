@@ -51,14 +51,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Boeing | — |
-| Koch Network - Charles Koch | — |
-| Great Lakes Conservatives Fund | — |
-| Lockheed Martin | — |
-| National Cattlemen's Beef Association | — |
-| Christopher Ruddy | — |
-| Raytheon (RTX Corporation) | — |
-| Paul Singer | — |
+| Lockheed Martin | $50,750 |
+| Leidos | $31,800 |
+| General Dynamics | $25,200 |
+| L3 Technologies | $13,800 |
+| Microsoft | $13,200 |
+| Southern Company | $12,700 |
+| Goldman Sachs | $8,800 |
+| Amazon | $7,000 |
+| Alabama Power | $6,500 |
+| SpaceX | $4,200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

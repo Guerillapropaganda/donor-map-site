@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $30,001 |
+| UA Political Action Committee | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| Comcast - NBCUniversal | $12,500 |
+| Teamsters - International Brotherhood of Teamsters | $12,500 |
+| National Association of Realtors | $11,500 |
+| Lockheed Martin | $7,500 |
+| SEIU COPE | $7,500 |
+| AT&T - WarnerMedia | $7,000 |
+| Progressive Turnout Project | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

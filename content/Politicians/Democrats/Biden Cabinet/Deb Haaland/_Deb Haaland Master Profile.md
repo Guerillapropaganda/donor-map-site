@@ -23,6 +23,21 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Walmart | $2,250 |
+| Oracle | $2,125 |
+| Verizon | $2,000 |
+| Bank of America | $1,100 |
+| Northrop Grumman | $1,000 |
+| America Votes | $1,000 |
+| Boeing | $1,000 |
+| DNC - Democratic National Committee | $500 |
+| Amazon | $500 |
+| ActBlue | $500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -35,6 +35,21 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Koch Network - Charles Koch | $12,400 |
+| Charles Schwab | $9,500 |
+| Blackstone Group | $7,000 |
+| Kelcy Warren - Energy Transfer Partners | $6,243 |
+| Anduril Industries | $3,300 |
+| GEO Group - Private Prison Industrial Complex | $2,943 |
+| Chevron | $1,930 |
+| General Motors | $1,348 |
+| Ford Motor Company | $1,000 |
+| CVS Health - Aetna | $520 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

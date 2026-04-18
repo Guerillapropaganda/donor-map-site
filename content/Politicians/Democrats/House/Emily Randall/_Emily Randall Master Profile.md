@@ -36,6 +36,21 @@ fec-candidate-id: "H4WA06117"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Progress | $1,491,280 |
+| EQUALITY PROJECT PAC | $22,500 |
+| Microsoft | $19,400 |
+| American Federation of State County & Municipal Employees P E O P L E | $17,500 |
+| CHC BOLD PAC | $15,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $15,000 |
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| Progressive Turnout Project | $8,500 |
+| Mark Takano | $8,000 |
+| SEIU COPE | $7,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Fairshake PAC - Crypto Super PAC | $582,374 |
+| Emily's List | $273,038 |
+| Protect Our Future PAC | $263,453 |
+| DCCC - Democratic Congressional Campaign Committee | $111,444 |
+| Protect Progress | $83,860 |
+| Center Forward Committee | $50,000 |
+| Teamsters - International Brotherhood of Teamsters | $33,662 |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $30,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

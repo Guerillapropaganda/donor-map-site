@@ -42,16 +42,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Sfa Fund, Inc | $65,502,351 |
+| Sfa Fund, Inc | $52,569,647 |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $45,185,000 |
-| FIGHT RIGHT INC | $18,881,648 |
-| MAKE AMERICA GREAT AGAIN INC. | $16,761,873 |
-| NEVER BACK DOWN INC. | $4,158,125 |
-| Kenneth Griffin | — |
-| Fossil Fuel Bloc | — |
-| Americans for Prosperity | — |
-| Jan Koum | — |
-| Never Back Down Inc. | — |
+| Americans for Prosperity | $31,985,362 |
+| Never Back Down Inc | $19,002,686 |
+| MAGA Inc | $9,880,863 |
+| WinRed | $222,132 |
+| Wfw Action Fund, Inc. | $136,630 |
+| Good Fight PAC | $102,695 |
+| Trump Victory | $12,500 |
+| Planned Parenthood Votes | $5,983 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

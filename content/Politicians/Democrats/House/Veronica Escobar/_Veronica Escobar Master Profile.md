@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| L3Harris Technologies | $40,000 |
+| Honeywell | $26,000 |
+| SEIU COPE | $25,220 |
+| Lockheed Martin | $22,500 |
+| J Street | $20,561 |
+| IBEW - International Brotherhood of Electrical Workers | $20,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+| National Association of Realtors | $18,000 |
+| AT&T - WarnerMedia | $17,000 |
+| Raytheon (RTX) | $16,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

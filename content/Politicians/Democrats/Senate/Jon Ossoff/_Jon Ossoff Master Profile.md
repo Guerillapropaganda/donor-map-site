@@ -49,16 +49,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| NRCC | $11,594,028 |
-| Congressional Leadership Fund | $5,993,817 |
-| AMERICA FIRST POLICIES INC. | $4,339,970 |
-| US CHAMBER OF COMMERCE | $500,000 |
-| PLANNED PARENTHOOD ACTION FUND INC | $495,427 |
-| US Chamber of Commerce | — |
-| Entertainment and Hollywood Donors | — |
-| JB Pritzker (Donor Network) | — |
-| David Sacks | — |
-| Planned Parenthood Action Fund INC | — |
+| Google - Alphabet | $977,762 |
+| Planned Parenthood Action Fund INC | $496,252 |
+| Apple | $318,814 |
+| Planned Parenthood Votes | $290,398 |
+| Microsoft | $232,988 |
+| SLF PAC | $213,598 |
+| RNC - Republican National Committee | $199,064 |
+| Meta - Facebook | $190,291 |
+| Amazon | $180,001 |
+| Americans for Prosperity | $165,065 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

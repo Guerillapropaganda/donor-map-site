@@ -46,12 +46,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| DMFI PAC | $3,123,638 |
-| Third Way | $1,010,000 |
-| THE DEMOCRATIC ACTION PAC | $465,000 |
-| Wfp Ie Committee | $404,831 |
-| Mainstream Democrats Pac | $303,171 |
-| The Democratic Action PAC | — |
+| DMFI - Democratic Majority for Israel | $1,525,261 |
+| THE DEMOCRATIC ACTION PAC | $710,500 |
+| Wfp Ie Committee | $257,830 |
+| United Democracy Project - UDP | $198,877 |
+| Congressional Progressive Caucus PAC | $109,000 |
+| MoveOn.org Political Action | $40,973 |
+| National Nurses United for Patient Protection | $25,000 |
+| Courage to Change PAC | $10,000 |
+| Medicare for All - The Policy That Broke the Party | $5,000 |
+| JUSTICE DEMOCRATS PAC | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

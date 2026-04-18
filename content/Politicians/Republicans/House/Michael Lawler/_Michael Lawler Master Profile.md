@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $4,853,483 |
+| Votevets | $3,633,657 |
+| DCCC - Democratic Congressional Campaign Committee | $2,040,225 |
+| National Association of Realtors | $1,534,494 |
+| America PAC - Elon Musk | $937,862 |
+| Giffords PAC | $829,995 |
+| Congressional Leadership Fund | $542,302 |
+| NRCC - National Republican Congressional Committee | $233,000 |
+| League of Conservation Voters | $219,541 |
+| AIPAC - American Israel Public Affairs Committee | $83,680 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

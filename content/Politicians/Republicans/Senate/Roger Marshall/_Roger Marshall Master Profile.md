@@ -61,14 +61,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | ESAFUND | $736,952 |
-| CLUB FOR GROWTH ACTION | $727,816 |
-| HOUSE LIBERTY PROJECT | $479,599 |
-| KANSAS FARMERS FUND | $374,565 |
 | KANSAS AG COMMUNITIES COALITION | $204,877 |
-| Kansas Farmers Fund | — |
-| House Liberty Project | — |
-| Western Growers Association | — |
-| Kansas Ag Communities Coalition | — |
+| Senate Conservatives Fund | $120,893 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| NORPAC | $24,500 |
+| Pfizer Inc. | $12,500 |
+| American College of Radiology Association PAC | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $10,000 |
+| Teamsters - International Brotherhood of Teamsters | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

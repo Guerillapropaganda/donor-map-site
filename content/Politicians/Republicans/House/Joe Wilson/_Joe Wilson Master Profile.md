@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $34,962 |
+| BAE Systems | $24,500 |
+| Honeywell | $24,000 |
+| Lockheed Martin | $20,000 |
+| Northrop Grumman | $20,000 |
+| National Association of Realtors | $16,000 |
+| Raytheon (RTX) | $15,000 |
+| AT&T - WarnerMedia | $13,000 |
+| Nucor Corporation | $13,000 |
+| Associated General Contractors of America Political Action Committee | $11,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

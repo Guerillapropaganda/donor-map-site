@@ -44,7 +44,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| Fairshake PAC | — |
+| Protect Progress | $10,039,655 |
+| Votevets | $2,903,129 |
+| League of Conservation Voters | $2,821,602 |
+| ESAFUND | $2,438,757 |
+| WinSenate | $1,796,752 |
+| DSCC - Democratic Senatorial Campaign Committee | $1,427,520 |
+| CHC BOLD PAC | $1,128,296 |
+| Women Speak Out Pac | $552,745 |
+| American Federation of State County & Municipal Employees P E O P L E | $536,000 |
+| National Nurses United for Patient Protection | $505,871 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -44,15 +44,15 @@ urls-first-triaged: "2026-04-15"
 | Donor | Amount |
 |---|---:|
 | NEW YORK 2014 | $744,532 |
-| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $397,847 |
-| THE LINCOLN PROJECT | $252,550 |
-| NATIONAL VICTORY ACTION FUND | $180,000 |
-| New York 2014 | — |
-| The Lincoln Project | — |
-| National Victory Action Fund | — |
-| Winning for Women PAC | — |
-| Miriam Adelson | — |
-| Citizens for Responsible Energy Solutions Inc. | — |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $416,847 |
+| National Victory Action Fund | $305,000 |
+| The Lincoln Project | $133,616 |
+| WinRed | $54,541 |
+| VIEW PAC - Value in Electing Women | $30,000 |
+| National Association of Realtors | $21,000 |
+| L3Harris Technologies | $21,000 |
+| American Hospital Association PAC | $20,000 |
+| National Multifamily Housing Council | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $32,500 |
+| L3Harris Technologies | $30,000 |
+| Honeywell | $27,500 |
+| Raytheon (RTX) | $26,000 |
+| General Dynamics | $25,000 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| Northrop Grumman | $25,000 |
+| BAE Systems | $22,500 |
+| NEA Fund for Children and Public Education | $22,000 |
+| National Association of Realtors | $21,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

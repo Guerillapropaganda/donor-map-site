@@ -80,15 +80,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $211,184 |
-| FIRST AMENDMENT ALLIANCE | $82,000 |
-| LET FREEDOM RING INC | $14,018 |
+| AbbVie | $10,000 |
+| Leidos | $10,000 |
+| Johnson & Johnson | $10,000 |
+| Northrop Grumman | $10,000 |
+| Pfizer Inc. | $10,000 |
+| Lockheed Martin | $10,000 |
+| Gilead Sciences | $10,000 |
+| General Dynamics | $9,000 |
+| AT&T - WarnerMedia | $8,500 |
 | AMERICAN WORKER INC, THE | $7,540 |
-| THE NATIONAL REPUBLICAN TRUST PAC | $6,615 |
-| First Amendment Alliance | — |
-| The National Republican Trust PAC | — |
-| Let Freedom Ring INC | — |
-| American Worker Inc, the | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

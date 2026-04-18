@@ -41,14 +41,15 @@ urls-first-triaged: "2026-04-15"
 | Donor | Amount |
 |---|---:|
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $4,189,244 |
-| SLF PAC | $911,323 |
-| Consumer Energy Alliance | — |
-| Paul Singer | — |
-| Susan B. Anthony Pro-Life America PAC | — |
-| Tim Dunn | — |
-| NORPAC | — |
-| HBW Resources | — |
-| Republican Jewish Coalition | — |
+| Americans for Prosperity | $1,873,771 |
+| SLF PAC | $293,548 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Republican Jewish Coalition | $25,021 |
+| American Conservative Union | $5,000 |
+| Common Sense for America PAC | $5,000 |
+| CoreCivic - Private Prisons | $5,000 |
+| Halliburton | $5,000 |
+| Valero Energy | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

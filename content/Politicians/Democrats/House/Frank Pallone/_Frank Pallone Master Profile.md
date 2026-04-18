@@ -73,16 +73,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| FREEDOM'S DEFENSE FUND | $119,500 |
-| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | $54,500 |
-| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $11,590 |
-| FOCUS ON THE FAMILY ACTION | $7,681 |
-| NEW JERSEY FAMILY FIRST INC | $7,681 |
-| Family Research Council Action Political Action Committee | — |
-| Pfizer | — |
-| UAW - United Auto Workers | — |
-| Freedom's Defense Fund | — |
-| American College of Radiology Association PAC | — |
+| NORPAC | $33,200 |
+| Comcast - NBCUniversal | $30,000 |
+| Humana | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Johnson & Johnson | $27,000 |
+| iHeartMedia | $27,000 |
+| PG&E - Pacific Gas and Electric | $26,000 |
+| NEA Fund for Children and Public Education | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| Microsoft | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

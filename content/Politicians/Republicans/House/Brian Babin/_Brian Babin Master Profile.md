@@ -51,6 +51,21 @@ top-policy-area: "Health"
 
 - Science, Space & Technology
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $28,934 |
+| Lockheed Martin | $26,000 |
+| Raytheon (RTX) | $20,000 |
+| Valero Energy | $20,000 |
+| American Chemistry Council, INC | $18,500 |
+| National Association of Realtors | $17,000 |
+| Honeywell | $15,000 |
+| Northrop Grumman | $10,000 |
+| Occidental Petroleum | $9,000 |
+| Comcast - NBCUniversal | $7,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

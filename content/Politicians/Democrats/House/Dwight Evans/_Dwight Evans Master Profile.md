@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Comcast - NBCUniversal | $58,650 |
+| United Food and Commercial Workers International Union Active Ballot Club | $30,000 |
+| National Association of Realtors | $27,588 |
+| UA Political Action Committee | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| American Hospital Association PAC | $21,500 |
+| National Multifamily Housing Council | $20,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $16,500 |
+| International Brotherhood of Electrical Workers Local 98 Committee on Political Education | $13,320 |
+| SEIU COPE | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Our Future PAC | $500,970 |
+| DMFI - Democratic Majority for Israel | $90,349 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| UA Political Action Committee | $25,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $23,500 |
+| National Association of Realtors | $20,075 |
+| Demand Justice | $20,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $18,500 |
+| United Food and Commercial Workers International Union Active Ballot Club | $18,300 |
+| Cooperative of American Physicians Independent Expenditure Committee | $17,950 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

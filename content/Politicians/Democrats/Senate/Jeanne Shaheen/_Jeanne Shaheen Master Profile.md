@@ -57,16 +57,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $8,296,003 |
-| National Republican Senatorial Committee | $8,296,003 |
-| ENDING SPENDING ACTION FUND | $7,523,339 |
-| AMERICAN CROSSROADS | $5,194,425 |
-| INDEPENDENT LEADERSHIP FOR NEW HAMPSHIRE PAC | $1,656,880 |
 | COUNCIL FOR AMERICAN JOB GROWTH | $1,401,341 |
-| Independent Leadership for New Hampshire PAC | — |
-| BAE Systems | — |
-| Northrop Grumman | — |
-| Defense Industry | — |
+| Americas Pac | $90,200 |
+| L3Harris Technologies | $10,000 |
+| iHeartMedia | $10,000 |
+| BAE Systems | $8,500 |
+| Anthem - Elevance Health | $7,000 |
+| General Dynamics | $5,500 |
+| Honeywell | $5,000 |
+| Raytheon (RTX) | $5,000 |
+| Teamsters - International Brotherhood of Teamsters | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

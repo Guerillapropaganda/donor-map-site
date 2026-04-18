@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $172,000 |
+| DCCC - Democratic Congressional Campaign Committee | $109,074 |
+| United We Can | $98,080 |
+| SEIU COPE | $49,440 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $30,000 |
+| Honeywell | $29,500 |
+| League of Conservation Voters | $25,576 |
+| AIPAC - American Israel Public Affairs Committee | $20,003 |
+| National Association of Realtors | $20,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

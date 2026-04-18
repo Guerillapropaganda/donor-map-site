@@ -40,6 +40,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $44,160 |
+| Republican Jewish Coalition | $40,247 |
+| National Association of Realtors | $25,608 |
+| AT&T - WarnerMedia | $24,000 |
+| National Multifamily Housing Council | $20,000 |
+| American Hospital Association PAC | $19,000 |
+| CoreCivic - Private Prisons | $16,500 |
+| Honeywell | $15,500 |
+| Ford Motor Company | $14,000 |
+| Care Action | $13,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -38,15 +38,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| GEORGIANS FOR STRONG FAMILIES, INC. | $150,000 |
-| THE LINCOLN PROJECT | $131,892 |
-| VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE | $121,570 |
-| A GREAT AMERICA PAC | $109,304 |
-| DRAIN THE DC SWAMP PAC | $73,333 |
-| MAGA Small Dollar Base | — |
-| A Great America PAC | — |
-| The Lincoln Project | — |
-| Drain the DC Swamp PAC | — |
+| Drain the DC Swamp PAC | $79,999 |
+| GEORGIANS FOR STRONG FAMILIES, INC. | $75,000 |
+| The Lincoln Project | $67,774 |
+| VIEW PAC - Value in Electing Women | $60,784 |
+| Really American Pac | $32,000 |
+| WinRed | $26,429 |
+| Votevets | $24,768 |
+| MAJORITY PAC | $20,000 |
+| Save America PAC | $5,000 |
+| Jim Jordan | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

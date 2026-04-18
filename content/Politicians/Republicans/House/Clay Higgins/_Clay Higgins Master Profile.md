@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $24,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,010 |
+| American Chemistry Council, INC | $15,000 |
+| MAJORITY PAC | $15,000 |
+| Elbert Guillory's America | $12,000 |
+| L3Harris Technologies | $9,000 |
+| Valero Energy | $5,000 |
+| Save America PAC | $5,000 |
+| Jim Jordan | $4,000 |
+| WinRed | $3,154 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -37,11 +37,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Best of America PAC | $37,448,046 |
-| PRIORITIES USA ACTION | $5,311 |
-| Ruralvote.org | $357 |
-| Harold Hamm | — |
-| Koch Network - Charles Koch | — |
+| Best of America PAC | $56,172,067 |
+| WinRed | $123,023 |
+| Microsoft | $18,930 |
+| Trump Victory | $10,000 |
+| CBRE Group | $6,310 |
+| Meta - Facebook | $3,300 |
+| Novo Nordisk | $3,300 |
+| Oracle | $1,630 |
+| ConocoPhillips | $1,182 |
+| ExxonMobil | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

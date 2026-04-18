@@ -54,15 +54,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $72,300 |
-| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $26,000 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $39,000 |
+| National Cattlemen's Beef Association | $30,000 |
+| Comcast - NBCUniversal | $25,000 |
+| Chevron | $22,500 |
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $22,167 |
-| PENNSYLVANIA PRO-LIFE FEDERATION PAC | $1,635 |
-| EVERYTOWN FOR GUN SAFETY ACTION FUND | $862 |
-| California Farm Bureau Federation | — |
-| Pennsylvania Pro-Life Federation PAC | — |
-| National Cattlemen's Beef Association | — |
-| IBEW - International Brotherhood of Electrical Workers | — |
-| American Gaming Association | — |
+| National Association of Realtors | $16,000 |
+| Walmart - Walton Family | $15,500 |
+| Tyson Foods | $13,500 |
+| AIPAC - American Israel Public Affairs Committee | $13,412 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

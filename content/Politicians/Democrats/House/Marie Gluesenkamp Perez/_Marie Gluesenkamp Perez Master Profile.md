@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NRCC - National Republican Congressional Committee | $4,140,739 |
+| America PAC - Elon Musk | $321,422 |
+| DCCC - Democratic Congressional Campaign Committee | $106,255 |
+| National Association of Realtors | $87,142 |
+| Together for Progress PAC | $58,050 |
+| Teamsters - International Brotherhood of Teamsters | $30,980 |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| Let America Vote PAC | $22,800 |
+| AIPAC - American Israel Public Affairs Committee | $20,001 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

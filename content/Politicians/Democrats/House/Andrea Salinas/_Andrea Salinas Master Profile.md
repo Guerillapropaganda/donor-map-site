@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| CHC BOLD PAC | $1,503,299 |
+| Protect Our Future PAC | $935,704 |
+| Congressional Leadership Fund | $869,650 |
+| DCCC - Democratic Congressional Campaign Committee | $539,110 |
+| League of Conservation Voters | $536,107 |
+| Hmp | $173,518 |
+| National Association of Realtors | $43,161 |
+| J Street | $32,920 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Medicare for All - The Policy That Broke the Party | $30,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -58,16 +58,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Votevets | $548,176 |
-| HUMAN RIGHTS CAMPAIGN EQUALITY VOTES | $412,621 |
-| American Principles Project Pac | $205,000 |
-| LET AMERICA VOTE PAC | $8,884 |
-| Protect the Vote | $5,000 |
-| Let America Vote PAC | — |
-| UAW - United Auto Workers | — |
-| Insurance Industry | — |
-| AFGE - American Federation of Government Employees | — |
-| National Nurses United | — |
+| SLF PAC | $22,329,688 |
+| Americans for Prosperity | $6,628,102 |
+| Restoration PAC | $4,554,676 |
+| League of Conservation Voters | $1,753,506 |
+| DSCC - Democratic Senatorial Campaign Committee | $1,134,741 |
+| National Nurses United for Patient Protection | $551,480 |
+| Votevets | $548,399 |
+| Human Rights Campaign Equality Votes | $416,124 |
+| Americas Pac | $406,037 |
+| WinSenate | $339,032 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

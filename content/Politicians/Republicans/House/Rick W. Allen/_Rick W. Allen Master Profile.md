@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| John James | $6,000 |
+| David Schweikert | $6,000 |
+| Ken Calvert | $6,000 |
+| Young Kim | $6,000 |
+| Mariannette Miller-Meeks | $4,000 |
+| Chuck Edwards | $4,000 |
+| Monica de la Cruz | $4,000 |
+| Maria Elvira Salazar | $4,000 |
+| Bryan Steil | $4,000 |
+| Derrick van Orden | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

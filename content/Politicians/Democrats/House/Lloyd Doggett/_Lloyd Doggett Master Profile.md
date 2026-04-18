@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $67,602 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| Teamsters - International Brotherhood of Teamsters | $19,500 |
+| American Hospital Association PAC | $18,500 |
+| SEIU COPE | $17,500 |
+| AT&T - WarnerMedia | $16,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $15,000 |
+| UA Political Action Committee | $15,000 |
+| American College of Radiology Association PAC | $14,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

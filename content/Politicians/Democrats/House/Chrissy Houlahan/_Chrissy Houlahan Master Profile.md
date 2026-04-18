@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Votevets | $310,945 |
+| Comcast - NBCUniversal | $61,766 |
+| BlackRock | $59,000 |
+| WITH HONOR FUND, INC. | $52,842 |
+| Google - Alphabet | $45,462 |
+| League of Conservation Voters | $36,791 |
+| Meta - Facebook | $34,802 |
+| Morgan Stanley | $29,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| Humana | $22,750 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

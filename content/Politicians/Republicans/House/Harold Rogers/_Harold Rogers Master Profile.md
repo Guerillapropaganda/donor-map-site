@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
+| Northrop Grumman | $27,500 |
+| Lockheed Martin | $25,500 |
+| Raytheon (RTX) | $25,000 |
+| General Dynamics | $24,500 |
+| National Association of Realtors | $20,000 |
+| Honeywell | $18,500 |
+| AIPAC - American Israel Public Affairs Committee | $12,612 |
+| MAJORITY PAC | $10,000 |
+| CoreCivic - Private Prisons | $10,000 |
+| National Multifamily Housing Council | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

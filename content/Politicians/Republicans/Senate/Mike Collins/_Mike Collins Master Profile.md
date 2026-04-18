@@ -51,13 +51,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| Fairshake PAC | — |
-| Winklevoss Twins | — |
-| Tech Industry | — |
-| AIPAC - American Israel Public Affairs Committee | — |
-| Elon Musk | — |
-| American Gaming Association | — |
-| Club for Growth | — |
+| SpaceX | $9,700 |
+| CBRE Group | $2,900 |
+| Derrick van Orden | $1,000 |
+| Monica de la Cruz | $1,000 |
+| Maria Elvira Salazar | $1,000 |
+| David Schweikert | $1,000 |
+| John James | $1,000 |
+| Brian Jack | $1,000 |
+| Walmart | $684 |
+| Boeing | $104 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

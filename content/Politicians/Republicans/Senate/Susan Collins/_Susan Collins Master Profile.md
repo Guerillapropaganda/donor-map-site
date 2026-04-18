@@ -57,15 +57,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| SMP | $50,402,276 |
-| DSCC | $9,261,000 |
-| WOMEN VOTE! | $5,926,226 |
 | 1820 PAC | $4,805,828 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,849,523 |
-| Blackstone Group | — |
-| American Gaming Association | — |
-| Tech Industry | — |
-| Blackstone | — |
+| Clearpath Action Fund, Inc. | $300,497 |
+| SLF PAC | $232,950 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| WinRed | $21,315 |
+| Republican Jewish Coalition | $14,372 |
+| Anthem - Elevance Health | $10,000 |
+| Amgen Inc | $10,000 |
+| Associated General Contractors of America Political Action Committee | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

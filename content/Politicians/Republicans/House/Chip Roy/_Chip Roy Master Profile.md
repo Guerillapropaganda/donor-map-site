@@ -59,6 +59,21 @@ top-policy-area: "International Affairs"
 
 - Judiciary
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $40,000 |
+| Americans for Prosperity | $37,387 |
+| Club for Growth INC PAC | $19,443 |
+| National Association of Realtors | $15,000 |
+| JPAC - Jewish Public Affairs Committee of California | $8,000 |
+| Jim Jordan | $8,000 |
+| iHeartMedia | $6,500 |
+| Honeywell | $6,500 |
+| National Restaurant Association | $6,000 |
+| Valero Energy | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

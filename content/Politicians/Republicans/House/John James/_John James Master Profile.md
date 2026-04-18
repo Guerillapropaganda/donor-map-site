@@ -44,6 +44,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $6,290,572 |
+| Americans for Prosperity | $891,034 |
+| Edf Action Votes | $686,401 |
+| Opportunity Matters Fund | $439,499 |
+| America PAC - Elon Musk | $432,757 |
+| Congressional Leadership Fund | $366,569 |
+| NRCC - National Republican Congressional Committee | $233,000 |
+| League of Conservation Voters | $97,452 |
+| Elbert Guillory's America | $85,926 |
+| Hunter Action Fund (haf) | $82,130 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

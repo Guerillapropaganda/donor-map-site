@@ -46,16 +46,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Senate Leadership Fund | $11,682,282 |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $7,213,530 |
-| National Republican Senatorial Committee | $7,213,530 |
 | SMP | $6,953,860 |
-| NRSC | $4,805,962 |
 | MAJORITY FORWARD | $2,278,848 |
-| Insurance Industry | — |
-| Fossil Fuel Bloc | — |
-| ExxonMobil | — |
-| Centene Corporation | — |
+| UA Political Action Committee | $353,136 |
+| Honeywell | $10,000 |
+| McDonalds Corporation | $10,000 |
+| Duke Energy | $10,000 |
+| National Restaurant Association | $10,000 |
+| Bechtel Corporation | $7,500 |
+| Pfizer Inc. | $7,500 |
+| AT&T - WarnerMedia | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

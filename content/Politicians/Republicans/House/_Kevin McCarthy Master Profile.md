@@ -48,12 +48,20 @@ top-policy-area: "Congress"
 
 **Total received:** $15,739,442
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Chevron
-- Occidental Petroleum
-- Marathon Petroleum
-- Koch Industries
+| Donor | Amount |
+|---|---:|
+| WinRed | $487,384 |
+| The Lincoln Project | $53,099 |
+| National Rifle Association | $21,284 |
+| Really American Pac | $20,669 |
+| Honeywell | $20,000 |
+| National Cattlemen's Beef Association | $20,000 |
+| General Dynamics | $19,000 |
+| Johnson & Johnson | $17,500 |
+| National Multifamily Housing Council | $15,000 |
+| AbbVie | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

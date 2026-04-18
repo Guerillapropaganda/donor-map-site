@@ -44,7 +44,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| CA Farm Bureau Federation | — |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Northrop Grumman | $10,000 |
+| MAJORITY PAC | $10,000 |
+| VIEW PAC - Value in Electing Women | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| Chevron | $10,000 |
+| Raytheon (RTX) | $7,000 |
+| General Dynamics | $7,000 |
+| Lockheed Martin | $6,500 |
+| American Hospital Association PAC | $5,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

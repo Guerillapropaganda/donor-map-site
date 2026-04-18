@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $23,000 |
+| Truth and Courage PAC | $10,813 |
+| AIPAC - American Israel Public Affairs Committee | $10,410 |
+| Fanjul Family - Florida Crystals | $10,100 |
+| Congressional Leadership Fund | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Madison Project Inc. | $10,000 |
+| Tzedek PAC | $10,000 |
+| Honeywell | $9,000 |
+| AT&T - WarnerMedia | $7,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

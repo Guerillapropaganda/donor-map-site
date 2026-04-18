@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $2,775,415 |
+| DCCC - Democratic Congressional Campaign Committee | $1,057,017 |
+| NRCC - National Republican Congressional Committee | $571,988 |
+| National Education Association | $340,625 |
+| League of Conservation Voters | $327,611 |
+| National Association of Realtors | $133,831 |
+| Working Families Party PAC | $101,981 |
+| Americans for Prosperity | $72,463 |
+| Teamsters - International Brotherhood of Teamsters | $29,412 |
+| International Association of Firefighters Interested in Registration and Education PAC | $27,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

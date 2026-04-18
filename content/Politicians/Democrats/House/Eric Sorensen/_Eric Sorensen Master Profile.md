@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $5,931,972 |
+| NRCC - National Republican Congressional Committee | $1,117,910 |
+| Fairshake PAC - Crypto Super PAC | $817,169 |
+| 314 ACTION FUND | $639,882 |
+| DCCC - Democratic Congressional Campaign Committee | $389,679 |
+| Hmp | $176,600 |
+| Americans for Prosperity | $86,785 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| J Street | $21,573 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

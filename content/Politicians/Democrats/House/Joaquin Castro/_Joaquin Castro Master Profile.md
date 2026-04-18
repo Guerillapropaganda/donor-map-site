@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| SEIU COPE | $17,500 |
+| National Association of Realtors | $17,000 |
+| NEA Fund for Children and Public Education | $16,000 |
+| IBEW - International Brotherhood of Electrical Workers | $15,000 |
+| UA Political Action Committee | $15,000 |
+| National Multifamily Housing Council | $14,000 |
+| J Street | $9,750 |
+| Teamsters - International Brotherhood of Teamsters | $5,000 |
+| Demand Justice | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

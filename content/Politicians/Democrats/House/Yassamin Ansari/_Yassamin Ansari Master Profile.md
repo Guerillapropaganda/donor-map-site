@@ -36,6 +36,21 @@ fec-candidate-id: "H4AZ03109"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Progress | $1,367,647 |
+| DMFI - Democratic Majority for Israel | $575,604 |
+| Mainstream Democrats Pac | $126,064 |
+| Working Families Party PAC | $75,624 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $15,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| UA Political Action Committee | $10,000 |
+| Medicare for All - The Policy That Broke the Party | $10,000 |
+| American College of Radiology Association PAC | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

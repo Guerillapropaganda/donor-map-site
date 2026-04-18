@@ -88,16 +88,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Senate Leadership Fund | $15,707,048 |
-| NRSC | $15,464,768 |
 | SMP | $5,256,392 |
 | FAIR SHARE ACTION | $1,511,450 |
-| ESAFUND | $1,050,000 |
-| Brownstein Hyatt Farber Schreck | — |
-| Fair Share Action | — |
-| NORPAC | — |
-| American Petroleum Institute | — |
-| Fossil Fuel Bloc | — |
+| DSCC - Democratic Senatorial Campaign Committee | $62,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $5,000 |
+| National Association of Realtors | $5,000 |
+| Mark Kelly | $4,000 |
+| NEA Fund for Children and Public Education | $4,000 |
+| Teamsters - International Brotherhood of Teamsters | $3,767 |
+| Performance Racing Inc. | $3,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $2,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -67,16 +67,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| EMILY'S LIST | $133,005 |
-| PROGRESSIVE TURNOUT PROJECT | $87,327 |
-| PLANNED PARENTHOOD OF MINNESOTA POLITICAL ACTION FUND | $70,488 |
-| United Breast Cancer Support Pac | $57,125 |
-| AFSCME WORKING FAMILIES FUND | $36,702 |
-| Goldman Sachs | — |
-| Planned Parenthood of Minnesota Political Action Fund | — |
-| Google - Alphabet | — |
-| Progressive Turnout Project | — |
-| Fraternal Order of Police | — |
+| Emily's List | $138,005 |
+| Planned Parenthood of Minnesota Political Action Fund | $125,460 |
+| United Breast Cancer Support Pac | $97,541 |
+| Progressive Turnout Project | $87,327 |
+| AFSCME Working Families Fund | $59,637 |
+| AIPAC - American Israel Public Affairs Committee | $27,251 |
+| National Association of Realtors | $25,211 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| Teamsters - International Brotherhood of Teamsters | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $13,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

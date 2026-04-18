@@ -52,16 +52,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| UNITE HERE TIP CAMPAIGN COMMITTEE | $49,126 |
-| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A. | $10,000 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $9,514 |
-| NARAL Pro-Choice America | $3,380 |
-| California Farm Bureau Federation | — |
-| Unite Here Tip Campaign Committee | — |
-| CA Farm Bureau Federation | — |
-| National Cattlemen's Beef Association | — |
-| IBEW - International Brotherhood of Electrical Workers | — |
-| Laborers' Political League-Laborers' International Union of N.a. | — |
+| Unite Here Tip Campaign Committee | $73,983 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Teamsters - International Brotherhood of Teamsters | $26,500 |
+| National Association of Realtors | $25,000 |
+| Honeywell | $25,000 |
+| Leidos | $23,000 |
+| Microsoft | $22,500 |
+| AT&T - WarnerMedia | $21,000 |
+| Northrop Grumman | $17,500 |
+| Walmart - Walton Family | $16,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

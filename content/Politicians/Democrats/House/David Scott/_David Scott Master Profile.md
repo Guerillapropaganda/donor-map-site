@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $226,674 |
+| Center Forward Committee | $125,000 |
+| AIPAC - American Israel Public Affairs Committee | $25,653 |
+| National Multifamily Housing Council | $25,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $21,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+| AT&T - WarnerMedia | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| Citigroup | $16,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $16,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

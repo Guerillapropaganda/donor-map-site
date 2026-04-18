@@ -68,12 +68,20 @@ top-policy-area: "Health"
 - House Committee on Energy and Commerce
 - House Permanent Select Committee on Intelligence
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- ExxonMobil
-- ConocoPhillips
-- Koch Industries
-- AIPAC
+| Donor | Amount |
+|---|---:|
+| Clearpath Action Fund, Inc. | $50,000 |
+| National Association of Realtors | $44,742 |
+| Occidental Petroleum | $30,000 |
+| AIPAC - American Israel Public Affairs Committee | $28,469 |
+| Honeywell | $25,000 |
+| AT&T - WarnerMedia | $22,500 |
+| American Hospital Association PAC | $22,000 |
+| Chevron | $21,000 |
+| Valero Energy | $20,000 |
+| Marathon Petroleum | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

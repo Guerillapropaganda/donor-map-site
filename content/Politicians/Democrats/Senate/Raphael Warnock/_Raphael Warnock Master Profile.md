@@ -83,16 +83,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| AMERICAN CROSSROADS | $77,735,210 |
-| Senate Leadership Fund | $77,261,714 |
-| PEACHTREE PAC | $28,361,919 |
-| NRSC | $23,545,584 |
-| WORKER POWER PAC FOR GEORGIA | $8,030,000 |
-| Worker Power PAC for Georgia | — |
-| American Crossroads | — |
-| David McIntosh | — |
-| Healthcare Sector | — |
-| Peachtree PAC | — |
+| SLF PAC | $45,169,006 |
+| WORKER POWER PAC FOR GEORGIA | $14,810,000 |
+| NRSC - National Republican Senatorial Committee | $5,447,374 |
+| MAGA Inc | $3,427,515 |
+| League of Conservation Voters | $2,524,898 |
+| DSCC - Democratic Senatorial Campaign Committee | $1,755,729 |
+| Americans for Prosperity | $1,429,577 |
+| Planned Parenthood Votes | $1,370,646 |
+| Let America Vote PAC | $1,181,437 |
+| National Rifle Association | $1,180,367 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -84,11 +84,20 @@ top-policy-area: "Health"
 
 - House Committee on Energy and Commerce
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Small Dollar Donors (ActBlue)
-- Google employees
-- NYC Dept of Education employees
+| Donor | Amount |
+|---|---:|
+| Honoring American Law Enforcement Pac | $63,750 |
+| Law Enforcement for a Safer America Pac | $63,750 |
+| Drain the DC Swamp PAC | $13,333 |
+| NEA Fund for Children and Public Education | $12,000 |
+| Unite Here Tip Campaign Committee | $10,000 |
+| SEIU COPE | $10,000 |
+| MoveOn.org Political Action | $5,239 |
+| National Nurses United | $3,500 |
+| Sierra Club Political Committee | $2,500 |
+| Medicare for All - The Policy That Broke the Party | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

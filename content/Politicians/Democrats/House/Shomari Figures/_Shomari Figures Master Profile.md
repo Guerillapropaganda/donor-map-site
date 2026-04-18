@@ -36,6 +36,21 @@ fec-candidate-id: "H4AL02170"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Progress | $2,408,424 |
+| DCCC - Democratic Congressional Campaign Committee | $99,282 |
+| American Federation of State County & Municipal Employees P E O P L E | $15,000 |
+| Drummond Co. | $10,000 |
+| NEA Fund for Children and Public Education | $9,000 |
+| Pete Aguilar | $8,000 |
+| SEIU COPE | $7,500 |
+| Alabama Power | $7,500 |
+| Teamsters - International Brotherhood of Teamsters | $7,000 |
+| League of Conservation Voters | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -55,15 +55,15 @@ top-policy-area: "Finance and Financial Sector"
 | Donor | Amount |
 |---|---:|
 | FAIRSHAKE | $1,528,412 |
-| HMP | $239,615 |
+| Fairshake PAC - Crypto Super PAC | $764,206 |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $123,200 |
+| Hmp | $119,805 |
+| NRCC - National Republican Congressional Committee | $110,000 |
+| National Association of Realtors | $65,586 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $62,666 |
+| Americans for Prosperity | $61,600 |
 | MIDWEST GROWTH PAC | $39,950 |
-| Midwest Growth PAC | — |
-| Koch network | — |
-| National Restaurant Association | — |
-| Koch Network | — |
-| Stand Together | — |
+| Honeywell | $27,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

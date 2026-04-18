@@ -61,15 +61,14 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| Florida Patriots Pac | $4,243,279 |
 | North Florida Neighbors | $869,566 |
-| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $380,000 |
-| FLORIDA CONSERVATIVE FUND | $121,542 |
-| CITIZEN SUPER PAC | $44,721 |
-| MAGA Small Dollar Base | — |
-| Florida Conservative Fund | — |
-| Citizen Super PAC | — |
-| Protect Freedom Political Action Committee | — |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $570,000 |
+| FLORIDA CONSERVATIVE FUND | $166,304 |
+| Jim Jordan | $6,000 |
+| Mad Dog PAC | $3,600 |
+| Really American Pac | $2,297 |
+| WinRed | $1,465 |
+| The Lincoln Project | $250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

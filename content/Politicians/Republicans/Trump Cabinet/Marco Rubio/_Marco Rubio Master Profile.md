@@ -43,16 +43,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| GEO Group - Private Prison Industrial Complex | — |
-| Mark Zuckerberg | — |
-| MasTec - Mas Canosa Family | — |
-| Fanjul Family - Florida Crystals | — |
-| LARA Fund - Mauricio Claver-Carone | — |
-| AIPAC - American Israel Public Affairs Committee | — |
-| Larry Ellison | — |
-| Bacardi - Bacardi USA | — |
-| Christopher Ruddy | — |
-| Miriam Adelson | — |
+| Elliott Management | $220,170 |
+| Goldman Sachs | $209,270 |
+| Blackstone Group | $96,200 |
+| Fanjul Family - Florida Crystals | $62,005 |
+| Morgan Stanley | $57,710 |
+| Oracle | $57,222 |
+| Devon Energy | $35,100 |
+| MasTec - Mas Canosa Family | $30,170 |
+| NextEra Energy | $29,200 |
+| Comcast - NBCUniversal | $27,725 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
@@ -75,10 +75,13 @@ Career arc: Florida House of Representatives (2000–2008, including Speaker) �
 
 ---
 
-## The Core Contradiction
+## Class Analysis
 
-> [!contradiction]
-> In 2013, Marco Rubio co-authored the Border Security, Economic Opportunity, and Immigration Modernization Act — the Gang of Eight bill. It passed the Senate 68-32 with strong bipartisan support and would have provided a path to citizenship for 11 million undocumented immigrants. Rubio toured Spanish-language media defending it. Then the House Tea Party killed it. Then Rubio ran for president. Under pressure from Trump and Cruz in the 2016 primary, Rubio said the bill "was never intended to become law" (~~[NBC News](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (URL broken, archived by Ops), Tier 2) — claiming his own signature legislation was a performance piece. He called comprehensive immigration reform "not achievable right now." The man who wrote the most comprehensive immigration reform of his era said he never meant it to pass. He then served in a Senate that passed zero immigration reform during his tenure. The Fanjul family — who needed cheap agricultural labor and had funded Rubio's career — got their crop picked either way.
+Marco Rubio's career is the purest example of donor-driven position reversal in the vault. In 2013, he co-authored the most ambitious immigration reform legislation in a generation, the Gang of Eight bill. It passed the Senate 68-32 with bipartisan support. Rubio toured Spanish-language media defending a path to citizenship for 11 million undocumented immigrants. Then Donald Trump entered the 2016 primary. Under pressure from the MAGA base, Rubio said his own signature legislation "was never intended to become law." He claimed the bill he wrote, whipped votes for, and defended on national television was a performance piece. The funding base recalibrated around him: centrist donor credit for proposing reform, MAGA donor credit for killing it. Double dipping on a single bill.
+
+Three donor clusters drive Marco Rubio's foreign policy. The Fanjul family (Florida Crystals, Domino Sugar, combined net worth $8 billion) needs the Cuba embargo to protect their Florida sugar empire from Cuban competition. The Fanjul investment in Rubio ($500K+ career) returns federal sugar subsidies worth $1 billion+ annually. AIPAC and the Israel lobby ($1 million+ career) purchased Rubio's leadership of the Senate fight against the Iran nuclear deal, the most hawkish Iran voice in the chamber. The defense contractor network (Boeing, General Dynamics, Honeywell) funded the Intelligence and Foreign Relations Committee member who provided oversight of their contracts while attending their fundraisers. All three clusters extract returns from the same posture: sustained military tension with Iran, Cuba, Venezuela, and China. As Secretary of State (confirmed 99-0 in January 2025), Rubio now executes the foreign policy his donor base paid for over two decades.
+
+The Cuba blockade completed the transaction. Trump's January 2026 executive order declared a national emergency. Joint Task Force Southern Spear interdicted fuel shipments. Cuba's power grid collapsed. The Fanjul family gets permanent protection from Cuban sugar competition. The LARA Fund (run by former Special Envoy Mauricio Claver-Carone) positions $750 million in capital to acquire "distressed" Latin American infrastructure. The Mas Canosa family (MasTec, $12 billion+ revenue) stands ready for post-embargo infrastructure contracts. Norman Braman's $10 million presidential investment in 2016 yielded zero return when Rubio lost Florida by 19 points. But the sugar lobby's $500K career investment yielded $1 billion+ annually in federal price supports. In Marco Rubio's career, the ROI depends on which donor class you belong to.
 
 ---
 
@@ -95,6 +98,43 @@ Career arc: Florida House of Representatives (2000–2008, including Speaker) �
 
 ### Norman Braman:
 Miami auto dealer Norman Braman was Rubio's major early backer, during the 2010 Senate race and through his career. Braman's support helped establish Rubio as a viable statewide candidate when he was still running against the establishment (Crist) rather than for it. The relationship is personal as well as political; Braman helped fund Rubio's early activities when he was building his political base.
+
+---
+
+## Policy Executed
+
+Rubio is the first Secretary of State to execute, in office, the foreign policy his donor base funded for two decades. This section tracks what the money bought.
+
+### Cuba Blockade (January–March 2026)
+
+Trump's January 29, 2026 executive order declared a national emergency. Joint Task Force Southern Spear interdicted fuel shipments. Cuba's power grid collapsed March 16, 2026. Rubio manages the operational policy.
+
+Three donor clusters extract returns simultaneously:
+- [[Fanjul Family - Florida Crystals|Fanjul family]] — permanent protection from Cuban sugar competition
+- [[LARA Fund - Mauricio Claver-Carone|LARA Fund]] — $750M positioned to acquire "distressed" Latin American infrastructure (Claver-Carone is Rubio's former Special Envoy)
+- [[MasTec - Mas Canosa Family|Mas Canosa family]] — MasTec ($12B+ revenue) ready for post-embargo infrastructure contracts
+- [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] provides the legislative shield through House Appropriations
+
+See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeline, OFAC FAQ 1238 "wedge" analysis, and humanitarian cost documentation.
+
+### Iran Confrontation (February 2026–ongoing)
+
+Rubio's career-long Iran hawkishness (Senate leadership against JCPOA, 2013–2015) became operational on February 28, 2026 with the start of active military confrontation. Fourth deliverable in the [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran|Adelson pipeline]] (embassy move → JCPOA withdrawal → Abraham Accords → Iran confrontation). The [[The Iran War Money Trail - From Adelson to Airstrikes|Iran War Money Trail]] documents returns to defense contractors, fossil fuel majors, and the Israel lobby.
+
+### Green-Card Revocations and Immigration Enforcement (April 2026)
+
+Rubio personally revoked green cards of Iranian immigrants during the Iran conflict ([The Hill, 2026-04-04: Rubio revokes green cards of 2 Soleimani relatives](#)) and three more weeks later ([The Hill, 2026-04-11](#)). Uses State Department visa/residency authority as a counter-intelligence tool consistent with career-long hawkishness on adversary-state nationals.
+
+### Israel-Lebanon Diplomacy (April 2026)
+
+Hosted Israel-Lebanon talks (April 14, 2026). Hezbollah declined to participate ([The Hill, 2026-04-14](#)). Framed within Adelson pipeline priorities; positions Rubio as the Cabinet-level enforcer of AIPAC-aligned regional strategy.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> In 2013, Marco Rubio co-authored the Border Security, Economic Opportunity, and Immigration Modernization Act — the Gang of Eight bill. It passed the Senate 68-32 with strong bipartisan support and would have provided a path to citizenship for 11 million undocumented immigrants. Rubio toured Spanish-language media defending it. Then the House Tea Party killed it. Then Rubio ran for president. Under pressure from Trump and Cruz in the 2016 primary, Rubio said the bill "was never intended to become law" (~~[NBC News](https://www.nbcnews.com/politics/2016-election/rubio-gang-8-bill-never-intended-become-law-n518936)~~ (URL broken, archived by Ops), Tier 2) — claiming his own signature legislation was a performance piece. He called comprehensive immigration reform "not achievable right now." The man who wrote the most comprehensive immigration reform of his era said he never meant it to pass. He then served in a Senate that passed zero immigration reform during his tenure. The Fanjul family — who needed cheap agricultural labor and had funded Rubio's career — got their crop picked either way.
 
 ---
 
@@ -135,24 +175,6 @@ Miami auto dealer Norman Braman was Rubio's major early backer, during the 2010 
 > **AIPAC $1M → JCPOA sabotage:** Rubio leads Senate opposition to the Iran nuclear deal — a U.S. diplomatic achievement supported by career foreign service professionals and U.S. allies. His opposition directly serves AIPAC donor priorities. The Iran deal's collapse under Trump in 2018 ultimately fulfilled Rubio's campaign.
 >
 > **Norman Braman $10M → $0 presidential return:** Miami's most prominent political donor bet $10M on Rubio's presidential viability. Rubio lost his home state by 19 points. The investment reveals the limits of donor capital when candidate quality is insufficient — but also how a single Miami donor could fund an entire presidential campaign.
-
-### The 2026 Cuba Blockade. The Policy Executed
-
-In January 2026, Rubio's career-long Cuba hawkishness became operational policy. Trump's January 29 executive order declared a national emergency; Joint Task Force Southern Spear interdicted fuel shipments; Cuba's power grid collapsed March 16. As Secretary of State, Rubio manages the policy that his sugar, defense, and exile donor base funded for two decades.
-
-Three donor clusters extract returns simultaneously: the [[Fanjul Family - Florida Crystals|Fanjul family]] gets permanent protection from Cuban sugar competition; the [[LARA Fund - Mauricio Claver-Carone|LARA Fund]] (run by former Special Envoy Claver-Carone) positions $750M in capital to acquire "distressed" Latin American infrastructure; and [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] provides the legislative shield through Appropriations. The [[MasTec - Mas Canosa Family|Mas Canosa family]] (MasTec, $12B+ revenue) sits ready for post-embargo infrastructure contracts.
-
-See: [[Operation Southern Spear and the Cuba Fuel Blockade]] for the full timeline, OFAC FAQ 1238 "wedge" analysis, and humanitarian cost documentation.
-
----
-
-## Class Analysis
-
-Marco Rubio's career is the purest example of donor-driven position reversal in the vault. In 2013, he co-authored the most ambitious immigration reform legislation in a generation, the Gang of Eight bill. It passed the Senate 68-32 with bipartisan support. Rubio toured Spanish-language media defending a path to citizenship for 11 million undocumented immigrants. Then Donald Trump entered the 2016 primary. Under pressure from the MAGA base, Rubio said his own signature legislation "was never intended to become law." He claimed the bill he wrote, whipped votes for, and defended on national television was a performance piece. The funding base recalibrated around him: centrist donor credit for proposing reform, MAGA donor credit for killing it. Double dipping on a single bill.
-
-Three donor clusters drive Marco Rubio's foreign policy. The Fanjul family (Florida Crystals, Domino Sugar, combined net worth $8 billion) needs the Cuba embargo to protect their Florida sugar empire from Cuban competition. The Fanjul investment in Rubio ($500K+ career) returns federal sugar subsidies worth $1 billion+ annually. AIPAC and the Israel lobby ($1 million+ career) purchased Rubio's leadership of the Senate fight against the Iran nuclear deal, the most hawkish Iran voice in the chamber. The defense contractor network (Boeing, General Dynamics, Honeywell) funded the Intelligence and Foreign Relations Committee member who provided oversight of their contracts while attending their fundraisers. All three clusters extract returns from the same posture: sustained military tension with Iran, Cuba, Venezuela, and China. As Secretary of State (confirmed 99-0 in January 2025), Rubio now executes the foreign policy his donor base paid for over two decades.
-
-The Cuba blockade completed the transaction. Trump's January 2026 executive order declared a national emergency. Joint Task Force Southern Spear interdicted fuel shipments. Cuba's power grid collapsed. The Fanjul family gets permanent protection from Cuban sugar competition. The LARA Fund (run by former Special Envoy Mauricio Claver-Carone) positions $750 million in capital to acquire "distressed" Latin American infrastructure. The Mas Canosa family (MasTec, $12 billion+ revenue) stands ready for post-embargo infrastructure contracts. Norman Braman's $10 million presidential investment in 2016 yielded zero return when Rubio lost Florida by 19 points. But the sugar lobby's $500K career investment yielded $1 billion+ annually in federal price supports. In Marco Rubio's career, the ROI depends on which donor class you belong to.
 
 ---
 

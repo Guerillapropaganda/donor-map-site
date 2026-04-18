@@ -36,6 +36,21 @@ fec-candidate-id: "H4DE00045"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Progress | $112,913 |
+| United Food and Commercial Workers International Union Active Ballot Club | $15,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $14,500 |
+| National Association of Realtors | $12,000 |
+| EQUALITY PROJECT PAC | $11,500 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| American Hospital Association PAC | $9,500 |
+| Teamsters - International Brotherhood of Teamsters | $7,500 |
+| NEA Fund for Children and Public Education | $7,000 |
+| Emily's List | $5,250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

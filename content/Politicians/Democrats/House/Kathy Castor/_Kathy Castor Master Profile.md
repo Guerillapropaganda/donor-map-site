@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $25,025 |
+| iHeartMedia | $25,000 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| Comcast - NBCUniversal | $24,500 |
+| American Hospital Association PAC | $22,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| National Association of Realtors | $22,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $19,500 |
+| AT&T - WarnerMedia | $18,000 |
+| SEIU COPE | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

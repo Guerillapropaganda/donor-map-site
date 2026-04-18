@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| National Association of Realtors | $19,000 |
+| AT&T - WarnerMedia | $19,000 |
+| Teamsters - International Brotherhood of Teamsters | $18,100 |
+| Johnson & Johnson | $17,500 |
+| SEIU COPE | $15,042 |
+| UA Political Action Committee | $15,000 |
+| Google - Alphabet | $13,700 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

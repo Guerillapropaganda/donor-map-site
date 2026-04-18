@@ -35,6 +35,20 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| CoreCivic | $13,000 |
+| Charles Schwab | $10,500 |
+| Tyson Foods | $1,000 |
+| Hospital Corporation of America - HCA | $620 |
+| Koch Network - Charles Koch | $500 |
+| Amazon | $500 |
+| Humana | $500 |
+| CBRE Group | $250 |
+| Walmart | $219 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Honeywell | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,000 |
+| National Association of Realtors | $19,000 |
+| SEIU COPE | $15,000 |
+| NEA Fund for Children and Public Education | $15,000 |
+| Nucor Corporation | $15,000 |
+| Teamsters - International Brotherhood of Teamsters | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $13,500 |
+| AT&T - WarnerMedia | $13,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

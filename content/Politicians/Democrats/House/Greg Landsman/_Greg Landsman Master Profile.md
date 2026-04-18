@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $2,349,636 |
+| NRCC - National Republican Congressional Committee | $1,849,627 |
+| DCCC - Democratic Congressional Campaign Committee | $375,490 |
+| League of Conservation Voters | $79,397 |
+| Women Speak Out Pac | $73,650 |
+| Americans for Prosperity | $56,199 |
+| National Association of Realtors | $42,569 |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| Teamsters - International Brotherhood of Teamsters | $27,778 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -50,15 +50,8 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| KENTUCKIANS FOR STRONG LEADERSHIP | $740,554 |
 | UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA) | $313,693 |
 | FAIR SHARE ACTION | $280,231 |
-| STOP UNION POLITICAL ABUSE (SUPA) | $202,500 |
-| CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE | $163,990 |
-| Kentuckians for Strong Leadership | — |
-| Fair Share Action | — |
-| Entertainment and Hollywood Donors | — |
-| Media Matters | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $38,853 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Honeywell | $25,000 |
+| Northrop Grumman | $23,500 |
+| National Association of Realtors | $23,000 |
+| Puget Sound Energy INC PAC for Good Government | $22,500 |
+| Microsoft | $20,000 |
+| National Multifamily Housing Council | $17,500 |
+| Anthem - Elevance Health | $16,000 |
+| Comcast - NBCUniversal | $15,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

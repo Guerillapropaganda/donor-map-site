@@ -45,6 +45,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| United Democracy Project - UDP | $588,767 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,000 |
+| Gilead Sciences | $18,500 |
+| National Association of Realtors | $17,000 |
+| DMFI - Democratic Majority for Israel | $17,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $15,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $15,000 |
+| AIPAC - American Israel Public Affairs Committee | $12,901 |
+| Teamsters - International Brotherhood of Teamsters | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

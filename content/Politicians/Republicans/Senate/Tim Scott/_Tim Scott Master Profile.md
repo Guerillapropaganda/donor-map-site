@@ -56,14 +56,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| Bank of America | — |
-| Koch Network - Charles Koch | — |
-| Blue Shield of California | — |
-| Goldman Sachs | — |
-| Michael Bloomberg | — |
-| Blackstone | — |
-| AFGE - American Federation of Government Employees | — |
-| Senate Leadership Fund | — |
+| National Victory Action Fund | $2,213,333 |
+| Opportunity Matters Fund | $1,000,000 |
+| WinRed | $497,621 |
+| Elbert Guillory's America | $264,720 |
+| Goldman Sachs | $213,300 |
+| Honoring American Law Enforcement Pac | $212,793 |
+| Blackstone Group | $157,200 |
+| Law Enforcement for a Safer America Pac | $147,269 |
+| American Energy Action Fund | $102,000 |
+| National Association of Realtors | $94,147 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

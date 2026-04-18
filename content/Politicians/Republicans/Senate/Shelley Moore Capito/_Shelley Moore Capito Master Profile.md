@@ -65,16 +65,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Senate Majority PAC | $468,063 |
-| TAKE ME HOME WV ACTION | $460,720 |
+| TAKE ME HOME WV ACTION | $583,854 |
 | US CHAMBER OF COMMERCE | $400,000 |
-| DEFENDING MAIN STREET SUPERPAC INC | $98,000 |
+| Defending Main Street Superpac INC | $98,000 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $48,061 |
-| Defending Main Street Superpac INC | — |
-| US Chamber of Commerce | — |
-| Koch network | — |
-| Take Me Home WV Action | — |
-| Koch Network | — |
+| Johnson & Johnson | $15,500 |
+| Nucor Corporation | $14,865 |
+| Duke Energy | $10,000 |
+| Chevron | $10,000 |
+| Common Sense for America PAC | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

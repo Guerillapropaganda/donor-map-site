@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Honeywell International | $8,100 |
+| American Federation of Teachers | $3,250 |
+| Steven Horsford | $3,000 |
+| FTX - Sam Bankman-Fried | $2,900 |
+| Johnson & Johnson | $2,550 |
+| AFSCME - American Federation of State County and Municipal Employees | $2,450 |
+| Google - Alphabet | $2,000 |
+| Raphael Warnock | $2,000 |
+| Lauren Underwood | $2,000 |
+| Mark Kelly | $2,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

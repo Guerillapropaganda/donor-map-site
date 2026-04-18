@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| House Freedom Caucus | — |
+| Sinclair Broadcasting Group | $20,100 |
+| Blackstone Group | $13,300 |
+| Ken Calvert | $10,000 |
+| Scott Perry | $8,000 |
+| Young Kim | $6,000 |
+| David Schweikert | $6,000 |
+| John James | $4,000 |
+| Maria Elvira Salazar | $4,000 |
+| Derrick van Orden | $4,000 |
+| Michael Lawler | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

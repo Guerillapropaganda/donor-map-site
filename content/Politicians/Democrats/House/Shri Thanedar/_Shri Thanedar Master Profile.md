@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| United Democracy Project - UDP | $1,428,678 |
+| Protect Progress | $1,010,142 |
+| Votevets | $759,604 |
+| AIPAC - American Israel Public Affairs Committee | $28,003 |
+| General Motors | $12,500 |
+| National Association of Realtors | $11,000 |
+| Congressional Progressive Caucus PAC | $10,000 |
+| NEA Fund for Children and Public Education | $8,000 |
+| Honeywell | $7,000 |
+| AT&T - WarnerMedia | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

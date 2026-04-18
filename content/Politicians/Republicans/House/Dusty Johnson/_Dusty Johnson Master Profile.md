@@ -45,7 +45,16 @@ top-policy-area: "Agriculture and Food"
 
 | Donor | Amount |
 |---|---:|
-| Western Growers Association | — |
+| Drain the DC Swamp PAC | $266,134 |
+| American Dream Federal Action | $147,017 |
+| Fairshake PAC - Crypto Super PAC | $124,736 |
+| Defending Main Street Superpac INC | $29,357 |
+| AIPAC - American Israel Public Affairs Committee | $23,910 |
+| National Association of Realtors | $22,785 |
+| National Cattlemen's Beef Association | $20,000 |
+| AT&T - WarnerMedia | $20,000 |
+| MAJORITY PAC | $20,000 |
+| American Hospital Association PAC | $17,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Finance and Financial Sector"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Dream Federal Action | $1,093,228 |
+| Crypto Innovation PAC | $54,648 |
+| Anthem - Elevance Health | $21,000 |
+| National Multifamily Housing Council | $15,000 |
+| Comcast - NBCUniversal | $12,500 |
+| Duke Energy | $12,000 |
+| NextEra Energy | $10,000 |
+| AT&T - WarnerMedia | $10,000 |
+| Morgan Stanley | $10,000 |
+| Honeywell | $9,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

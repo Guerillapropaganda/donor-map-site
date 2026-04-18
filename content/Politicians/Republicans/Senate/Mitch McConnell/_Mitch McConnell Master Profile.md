@@ -57,11 +57,20 @@ top-policy-area: "Congress"
 
 **Total received:** $7,816,890
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Koch Network - Charles Koch
-- Leonard Leo
-- Timothy Mellon
+| Donor | Amount |
+|---|---:|
+| WinRed | $624,280 |
+| Johnson & Johnson | $15,000 |
+| Google - Alphabet | $10,000 |
+| AbbVie | $10,000 |
+| Gilead Sciences | $10,000 |
+| AT&T - WarnerMedia | $8,000 |
+| Citigroup | $7,500 |
+| CVS Health - Aetna | $5,000 |
+| National Multifamily Housing Council | $5,000 |
+| Humana | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -50,11 +50,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $2,561 |
-| PLANNED PARENTHOOD ACTION FUND INC | $2 |
-| Planned Parenthood Action Fund INC | — |
-| Walmart - Walton Family | — |
-| Tyson Foods | — |
+| American Dream Federal Action | $1,215,577 |
+| Crypto Innovation PAC | $356,213 |
+| Heartland Resurgence | $286,688 |
+| National Wildlife Federation Action Fund | $122,742 |
+| National Association of Realtors | $109,419 |
+| American College of Radiology Association PAC | $94,130 |
+| NRSC - National Republican Senatorial Committee | $57,920 |
+| iHeartMedia | $14,000 |
+| National Cattlemen's Beef Association | $12,500 |
+| Amgen Inc | $12,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

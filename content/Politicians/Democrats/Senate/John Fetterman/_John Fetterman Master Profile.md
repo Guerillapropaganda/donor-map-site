@@ -47,14 +47,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Senate Leadership Fund | $68,244,427 |
-| PRIORITIES USA ACTION | $13,092,688 |
-| AMERICAN CROSSROADS | $11,038,199 |
-| NRSC | $6,691,948 |
-| MAKE AMERICA GREAT AGAIN INC. | $6,652,742 |
-| AIPAC - American Israel Public Affairs Committee | — |
-| American Crossroads | — |
-| Devon Energy | — |
+| SLF PAC | $47,555,302 |
+| PRIORITIES USA ACTION | $21,435,477 |
+| AMERICAN CROSSROADS | $6,628,761 |
+| WinSenate | $4,003,733 |
+| MAGA Inc | $3,415,736 |
+| NRSC - National Republican Senatorial Committee | $2,782,078 |
+| DSCC - Democratic Senatorial Campaign Committee | $2,715,847 |
+| League of Conservation Voters | $2,113,706 |
+| Fairshake PAC | $2,019,811 |
+| Americans for Prosperity | $1,537,475 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

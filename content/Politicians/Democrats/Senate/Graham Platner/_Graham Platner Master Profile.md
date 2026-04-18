@@ -31,6 +31,13 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** $7,867,908
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| National Nurses United | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

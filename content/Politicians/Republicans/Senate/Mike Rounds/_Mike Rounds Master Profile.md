@@ -40,6 +40,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Chevron | $15,000 |
+| Morgan Stanley | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| Google - Alphabet | $10,000 |
+| Citigroup | $10,000 |
+| AT&T - WarnerMedia | $8,000 |
+| American Hospital Association PAC | $7,500 |
+| Bank of America | $7,500 |
+| BAE Systems | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

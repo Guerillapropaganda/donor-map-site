@@ -46,6 +46,43 @@ const path = require("path")
 const entitiesStore = require("./lib/entities-store.cjs")
 const { createQueryEngine } = require("./lib/query-engine.cjs")
 
+// Per-profile relationship artifact — canonical-store-derived monetary
+// amounts keyed by normalized profile title. Loaded once; used to supply
+// real dollar amounts for top-donor rows where entities.jsonl signals
+// have zeros or are missing entirely (e.g. Rubio, who has 114 edges
+// pointing at him but no entities.jsonl row).
+const ARTIFACT_PATH = path.join(__dirname, "..", "data", "relationships-per-profile.json")
+let _artifact = null
+function loadArtifact() {
+  if (_artifact) return _artifact
+  if (!fs.existsSync(ARTIFACT_PATH)) { _artifact = {}; return _artifact }
+  _artifact = JSON.parse(fs.readFileSync(ARTIFACT_PATH, "utf-8"))
+  return _artifact
+}
+function normalizeTitle(title) {
+  return String(title || "").replace(/^_/, "").replace(/\s+Master Profile.*$/i, "").trim()
+}
+// Sum monetary-detail entries per donor name and return a sorted list of
+// {name, amount} from the per-profile artifact. Excludes ie-opposition
+// spend (that lives in a separate bucket already).
+function topDonorsFromArtifact(profileTitle, limit) {
+  const a = loadArtifact()
+  const entry = a[normalizeTitle(profileTitle)]
+  if (!entry) return []
+  const md = entry["monetary-detail"] || []
+  const sum = new Map()
+  for (const d of md) {
+    if (!d || !d.name) continue
+    if ((d.confidence || 0) < 0.7) continue
+    sum.set(d.name, (sum.get(d.name) || 0) + (Number(d.amount) || 0))
+  }
+  return [...sum.entries()]
+    .map(([name, amount]) => ({ name, amount }))
+    .filter((d) => d.amount > 0)
+    .sort((a, b) => b.amount - a.amount)
+    .slice(0, limit || 10)
+}
+
 const argv = process.argv.slice(2)
 const WRITE = argv.includes("--write")
 const VERBOSE = argv.includes("--verbose")
@@ -211,21 +248,32 @@ function renderPoliticianPanel(entity) {
     for (const c of signals.committees) lines.push(`- ${c}`)
   }
 
-  // Top donors
-  const topDonors = signals.top_donors || []
+  // Top donors — prefer the per-profile artifact (canonical-store-derived
+  // amounts summed across cycles), fall back to signals.top_donors, then
+  // frontmatter. The artifact wins when it has dollar amounts because
+  // signals.top_donors frequently has name-only entries with amount=0.
+  const profileTitle = (entity.name || entity.title || entity.signals?.name || "").trim()
+  const artifactTop = profileTitle ? topDonorsFromArtifact(profileTitle, 10) : []
+  const signalsTop = (signals.top_donors || []).filter((d) => d && d.name)
+  let topDonors = []
+  if (artifactTop.length) {
+    topDonors = artifactTop
+  } else if (signalsTop.length) {
+    topDonors = signalsTop.slice(0, 10)
+  }
+
   if (topDonors.length) {
     lines.push("")
     lines.push("#### Top donors")
     lines.push("")
     lines.push("| Donor | Amount |")
     lines.push("|---|---:|")
-    for (const d of topDonors.slice(0, 10)) {
+    for (const d of topDonors) {
       lines.push(`| ${safeCell(d.name)} | ${formatUsd(d.amount)} |`)
     }
-  }
-
-  // Frontmatter top donors fallback (when edges don't have amounts)
-  if (!topDonors.length && signals.fm_top_donors && signals.fm_top_donors.length) {
+  } else if (signals.fm_top_donors && signals.fm_top_donors.length) {
+    // No canonical data and no signals — fall back to frontmatter list
+    // (name-only, no amounts).
     lines.push("")
     lines.push("#### Top donors (from frontmatter)")
     lines.push("")
@@ -388,14 +436,109 @@ function main() {
     }
   }
 
+  // ─── Secondary pass: politician profiles not in entities.jsonl ───
+  //
+  // Some politicians (e.g. Cabinet members like Rubio) have profile files
+  // but no row in entities.jsonl, so the main loop above skips them and
+  // their auto:data-panel never updates. Walk the Politicians content
+  // directory, find profiles with no matching entity, and run the same
+  // panel rendering against a synthetic entity built from frontmatter +
+  // the per-profile artifact.
+  console.log("")
+  console.log("  Secondary pass: politician profiles not in entities.jsonl...")
+  const politiciansDir = path.join(repoRoot, "content", "Politicians")
+  const yaml = require("js-yaml")
+  const profilePathsInEntities = new Set(
+    all.filter((e) => e.profile_path).map((e) => path.join(repoRoot, e.profile_path).toLowerCase())
+  )
+  const extraStats = { scanned: 0, inserted: 0, updated: 0, unchanged: 0, errors: 0 }
+
+  function walkMd(dir) {
+    if (!fs.existsSync(dir)) return []
+    const out = []
+    for (const name of fs.readdirSync(dir)) {
+      const full = path.join(dir, name)
+      let st
+      try { st = fs.statSync(full) } catch { continue }
+      if (st.isDirectory()) out.push(...walkMd(full))
+      else if (name.endsWith(".md")) out.push(full)
+    }
+    return out
+  }
+
+  for (const abs of walkMd(politiciansDir)) {
+    if (profilePathsInEntities.has(abs.toLowerCase())) continue
+    let text
+    try { text = fs.readFileSync(abs, "utf-8") } catch { continue }
+    const fmMatch = text.match(/^---\n([\s\S]*?)\n---\n/)
+    if (!fmMatch) continue
+    let fm
+    try { fm = yaml.load(fmMatch[1]) || {} } catch { continue }
+    if (fm.type !== "politician") continue
+    if (!fm.title) continue
+
+    extraStats.scanned += 1
+    const virtualEntity = {
+      id: `virtual-${fm.title.toLowerCase().replace(/\s+/g, "-")}`,
+      title: fm.title,
+      entity_type: "politician",
+      profile_path: path.relative(repoRoot, abs).replace(/\\/g, "/"),
+      signals: {
+        name: fm.title,
+        party: fm.party || null,
+        chamber: fm.chamber || null,
+        state: fm.state || null,
+        bioguide_id: fm["bioguide-id"] || null,
+        fec_candidate_id: fm["fec-candidate-id"] || null,
+        total_received: typeof fm["total-received"] === "number"
+          ? fm["total-received"]
+          : (typeof fm["total-received"] === "string"
+             ? Number(fm["total-received"].replace(/[^0-9.-]/g, "")) || null
+             : null),
+        committees: Array.isArray(fm.committees) ? fm.committees : [],
+        top_donors: [],
+      },
+      tags_approved: false,
+      fm_total_received_note: fm["total-received-note"] || fm["career-total-note"] || null,
+      fm_custom_stats: Array.isArray(fm["custom-stats"]) ? fm["custom-stats"] : null,
+      fm_top_donors: Array.isArray(fm["top-donors"]) ? fm["top-donors"] : null,
+    }
+
+    const hadBlock = text.includes(BLOCK_START)
+    const panel = renderPanel(virtualEntity)
+    const updated = applyBlock(text, panel)
+    if (updated === text) { extraStats.unchanged += 1; continue }
+
+    if (WRITE) {
+      try {
+        fs.writeFileSync(abs, updated, "utf-8")
+        if (hadBlock) extraStats.updated += 1; else extraStats.inserted += 1
+        if (VERBOSE) console.log(`  ${hadBlock ? "↻" : "+"} (virtual) ${fm.title}`)
+      } catch (e) {
+        extraStats.errors += 1
+        if (VERBOSE) console.warn(`  ! write error ${abs}: ${e.message}`)
+      }
+    } else {
+      if (hadBlock) extraStats.updated += 1; else extraStats.inserted += 1
+      if (VERBOSE) console.log(`  · would-${hadBlock ? "update" : "insert"} (virtual) ${fm.title}`)
+    }
+  }
+
   console.log("")
   console.log("═══ results ═══")
-  console.log(`  scanned:      ${stats.scanned}`)
-  console.log(`  inserted:     ${stats.inserted}`)
-  console.log(`  updated:      ${stats.updated}`)
-  console.log(`  unchanged:    ${stats.unchanged}`)
-  console.log(`  missing file: ${stats.missing_file}`)
-  console.log(`  errors:       ${stats.errors}`)
+  console.log(`  entity-backed:`)
+  console.log(`    scanned:      ${stats.scanned}`)
+  console.log(`    inserted:     ${stats.inserted}`)
+  console.log(`    updated:      ${stats.updated}`)
+  console.log(`    unchanged:    ${stats.unchanged}`)
+  console.log(`    missing file: ${stats.missing_file}`)
+  console.log(`    errors:       ${stats.errors}`)
+  console.log(`  politician-only (virtual entity from frontmatter):`)
+  console.log(`    scanned:      ${extraStats.scanned}`)
+  console.log(`    inserted:     ${extraStats.inserted}`)
+  console.log(`    updated:      ${extraStats.updated}`)
+  console.log(`    unchanged:    ${extraStats.unchanged}`)
+  console.log(`    errors:       ${extraStats.errors}`)
   console.log("")
   if (!WRITE) console.log("  DRY RUN — re-run with --write")
 }

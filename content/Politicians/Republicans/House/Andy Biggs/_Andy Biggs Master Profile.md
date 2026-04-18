@@ -40,6 +40,20 @@ top-policy-area: "Government Operations and Politics"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $10,534 |
+| National Association of Realtors | $9,000 |
+| Really American Pac | $8,608 |
+| Jim Jordan | $8,000 |
+| National Rifle Association | $5,193 |
+| WinRed | $1,247 |
+| Lockheed Martin | $1,000 |
+| iHeartMedia | $1,000 |
+| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | $1,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

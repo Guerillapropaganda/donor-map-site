@@ -36,6 +36,21 @@ fec-candidate-id: "H4ND00061"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Club for Growth | $463,309 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $81,830 |
+| Defending Main Street Superpac INC | $72,100 |
+| Wfw Action Fund, Inc. | $48,213 |
+| VIEW PAC - Value in Electing Women | $15,000 |
+| National Association of Realtors | $12,000 |
+| ConocoPhillips | $11,000 |
+| Anthem - Elevance Health | $9,500 |
+| Devon Energy | $8,800 |
+| Northrop Grumman | $7,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

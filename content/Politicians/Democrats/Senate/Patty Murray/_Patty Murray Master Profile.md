@@ -72,16 +72,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Evergreen Principles PAC | $8,581,846 |
-| National Republican Senatorial Committee | $7,901,065 |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $7,901,065 |
-| Crossroads Grassroots Policy Strategies | $7,116,109 |
+| Evergreen Principles PAC | $4,375,859 |
 | WOMEN VOTE! | $4,344,848 |
-| ESAFUND | $1,954,200 |
-| Pharmaceutical Industry Bloc | — |
-| Defense Industry Bloc | — |
-| Microsoft | — |
-| Boeing | — |
+| Emily's List | $2,098,722 |
+| ESAFUND | $1,043,334 |
+| Wfw Action Fund, Inc. | $100,000 |
+| National Education Association | $51,541 |
+| DSCC - Democratic Senatorial Campaign Committee | $51,200 |
+| League of Conservation Voters | $39,851 |
+| Anthem - Elevance Health | $12,500 |
+| Pfizer Inc. | $12,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

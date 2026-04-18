@@ -53,16 +53,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Put Utah First PAC | $8,940,890 |
-| LIBERTY CHAMPIONS | $3,213,782 |
+| LIBERTY CHAMPIONS | $4,853,673 |
+| Put Utah First PAC | $4,586,046 |
 | CLUB FOR GROWTH ACTION | $3,166,433 |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $2,798,792 |
-| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $1,350,000 |
-| Apollo Global Management | — |
-| Blackstone Group | — |
-| Koch network | — |
-| Tim Dunn | — |
-| Eric Schmidt | — |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $2,026,967 |
+| Club for Growth | $1,614,541 |
+| Americans for Prosperity | $1,237,136 |
+| Senate Conservatives Fund | $390,955 |
+| National Association of Realtors | $127,785 |
+| NRSC - National Republican Senatorial Committee | $81,200 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

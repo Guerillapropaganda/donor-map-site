@@ -52,15 +52,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | BUILDING A BETTER PA | $696,069 |
-| WOMEN VOTE! | $85,090 |
-| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION | $34,175 |
-| COMMONWEALTH COMMUNICATIONS | $22,008 |
-| NARAL Pro-Choice America | $22,000 |
-| Commonwealth Communications | — |
-| Building a Better PA | — |
-| UNITE HERE | — |
-| AFL-CIO | — |
-| International Brotherhood of Electrical Workers Local 98 Committee on Political Education | — |
+| International Brotherhood of Electrical Workers Local 98 Committee on Political Education | $52,529 |
+| AIPAC - American Israel Public Affairs Committee | $30,185 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| Comcast - NBCUniversal | $25,000 |
+| UA Political Action Committee | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| Unite Here Tip Campaign Committee | $24,000 |
+| American Hospital Association PAC | $23,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $22,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

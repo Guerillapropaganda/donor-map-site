@@ -48,9 +48,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| Koch Network - Charles Koch | — |
-| Club for Growth | — |
-| House Freedom Caucus | — |
+| Apple | $13,350 |
+| Goldman Sachs | $12,600 |
+| Scott Fitzgerald | $12,000 |
+| Lauren Boebert | $10,000 |
+| Mariannette Miller-Meeks | $10,000 |
+| Russ Fulcher | $10,000 |
+| Thomas Massie | $10,000 |
+| Michael Lawler | $8,000 |
+| Scott Perry | $8,000 |
+| Michelle Fischbach | $8,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $20,010 |
+| National Association of Realtors | $14,000 |
+| MAJORITY PAC | $10,000 |
+| American Chemistry Council, INC | $8,500 |
+| Mariannette Miller-Meeks | $8,000 |
+| National Rifle Association | $7,954 |
+| Bradley Foundation | $6,500 |
+| Comcast - NBCUniversal | $5,000 |
+| McDonalds Corporation | $4,500 |
+| Associated General Contractors of America Political Action Committee | $4,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

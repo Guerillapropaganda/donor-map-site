@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $8,634,274 |
+| Opportunity for All Action Fund | $244,412 |
+| DCCC - Democratic Congressional Campaign Committee | $210,690 |
+| League of Conservation Voters | $65,629 |
+| Americans for Prosperity | $58,835 |
+| National Association of Realtors | $55,468 |
+| SEIU COPE | $48,598 |
+| Teamsters - International Brotherhood of Teamsters | $32,210 |
+| AIPAC - American Israel Public Affairs Committee | $31,003 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

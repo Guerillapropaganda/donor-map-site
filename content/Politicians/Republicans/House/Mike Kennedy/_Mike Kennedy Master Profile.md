@@ -36,6 +36,21 @@ fec-candidate-id: "H4UT03260"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Chevron | $10,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| American College of Radiology Association PAC | $10,000 |
+| National Association of Realtors | $6,000 |
+| L3Harris Technologies | $5,500 |
+| Marathon Petroleum | $5,000 |
+| MAJORITY PAC | $5,000 |
+| Northrop Grumman | $5,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $4,500 |
+| American Hospital Association PAC | $4,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

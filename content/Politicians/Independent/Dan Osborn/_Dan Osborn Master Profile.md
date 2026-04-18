@@ -41,14 +41,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Retire Career Politicians | $15,753,725 |
-| Senate Leadership Fund | $6,331,319 |
-| ESAFUND | $5,369,856 |
-| Heartland Resurgence | $3,787,060 |
-| Railroaders for Public Safety | $1,520,000 |
-| Labor Unions | — |
-| ActBlue | — |
-| Senate Majority PAC | — |
+| Retire Career Politicians | $25,097,851 |
+| SLF PAC | $3,187,409 |
+| Railroaders for Public Safety | $2,717,332 |
+| ESAFUND | $2,634,814 |
+| Heartland Resurgence | $2,140,499 |
+| DSCC - Democratic Senatorial Campaign Committee | $57,800 |
+| Let America Vote PAC | $25,260 |
+| NEA Fund for Children and Public Education | $10,000 |
+| UA Political Action Committee | $10,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

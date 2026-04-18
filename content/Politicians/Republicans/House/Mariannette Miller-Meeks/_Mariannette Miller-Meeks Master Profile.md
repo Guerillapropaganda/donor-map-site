@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $3,995,255 |
+| DCCC - Democratic Congressional Campaign Committee | $2,441,720 |
+| Americans for Prosperity | $925,809 |
+| Opportunity Matters Fund | $436,910 |
+| Congressional Leadership Fund | $330,380 |
+| American Hospital Association PAC | $308,212 |
+| NRCC - National Republican Congressional Committee | $113,000 |
+| Clearpath Action Fund, Inc. | $100,777 |
+| National Association of Realtors | $62,321 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $30,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

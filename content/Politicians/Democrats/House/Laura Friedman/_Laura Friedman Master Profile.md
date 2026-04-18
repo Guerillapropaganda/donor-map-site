@@ -40,6 +40,21 @@ contributions-to-committees: 1000
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| United Food and Commercial Workers International Union Active Ballot Club | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| Medicare for All - The Policy That Broke the Party | $10,000 |
+| National Association of Realtors | $8,000 |
+| League of Conservation Voters | $7,987 |
+| International Association of Firefighters Interested in Registration and Education PAC | $7,500 |
+| Teamsters - International Brotherhood of Teamsters | $6,500 |
+| AIPAC - American Israel Public Affairs Committee | $6,000 |
+| American Hospital Association PAC | $6,000 |
+| Ford Motor Company | $5,550 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

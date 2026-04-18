@@ -50,11 +50,20 @@ top-policy-area: "International Affairs"
 
 - Agriculture
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Koch Network - Charles Koch
-- Agribusiness Donor Bloc
-- Ethanol Industry
+| Donor | Amount |
+|---|---:|
+| WinRed | $129,794 |
+| NORPAC | $39,970 |
+| Indivisible Action | $15,475 |
+| United Breast Cancer Support Pac | $10,212 |
+| Common Sense for America PAC | $10,000 |
+| Amgen Inc | $10,000 |
+| AT&T - WarnerMedia | $8,000 |
+| National Restaurant Association | $7,500 |
+| Google - Alphabet | $7,500 |
+| Raytheon (RTX) | $6,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -39,6 +39,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blackstone Group | $26,341 |
+| Citadel - Kenneth Griffin | $13,148 |
+| Elliott Management | $11,200 |
+| Lennar Corporation | $8,000 |
+| CBRE Group | $5,264 |
+| Verizon | $5,208 |
+| Enterprise Products Partners | $3,500 |
+| Las Vegas Sands | $2,800 |
+| Google - Alphabet | $2,750 |
+| Coinbase | $2,200 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

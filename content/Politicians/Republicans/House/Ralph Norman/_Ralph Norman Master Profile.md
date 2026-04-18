@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $21,630 |
+| MAJORITY PAC | $10,000 |
+| Duke Energy | $9,250 |
+| AIPAC - American Israel Public Affairs Committee | $8,160 |
+| Lockheed Martin | $6,000 |
+| Save America PAC | $5,000 |
+| McDonalds Corporation | $3,950 |
+| Wells Fargo | $3,932 |
+| Club for Growth INC PAC | $3,300 |
+| National Rifle Association | $3,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $17,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,034 |
+| MAJORITY PAC | $10,000 |
+| WinRed | $6,600 |
+| UA Political Action Committee | $5,000 |
+| National Rifle Association | $4,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $4,000 |
+| American Chemistry Council, INC | $3,500 |
+| Raytheon (RTX) | $2,500 |
+| General Motors | $2,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

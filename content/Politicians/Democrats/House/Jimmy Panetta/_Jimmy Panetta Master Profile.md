@@ -45,8 +45,16 @@ top-policy-area: "Taxation"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
-| California Farm Bureau Federation | — |
+| WITH HONOR FUND, INC. | $70,830 |
+| National Cattlemen's Beef Association | $31,000 |
+| National Association of Realtors | $30,905 |
+| Votevets | $30,000 |
+| Morgan Stanley | $28,500 |
+| AIPAC - American Israel Public Affairs Committee | $27,152 |
+| Honeywell | $27,000 |
+| American Hospital Association PAC | $26,000 |
+| Northrop Grumman | $25,000 |
+| Raytheon (RTX) | $24,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

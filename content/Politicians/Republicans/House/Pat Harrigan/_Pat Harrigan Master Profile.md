@@ -36,6 +36,21 @@ fec-candidate-id: "H2NC13243"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Americans for Prosperity | $394,953 |
+| SPECIAL OPERATIONS FOR AMERICA | $23,500 |
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| L3Harris Technologies | $9,000 |
+| Freedom's Defense Fund | $8,000 |
+| National Association of Realtors | $8,000 |
+| Congressional Leadership Fund | $5,000 |
+| MAJORITY PAC | $5,000 |
+| Duke Energy | $4,500 |
+| Honeywell | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

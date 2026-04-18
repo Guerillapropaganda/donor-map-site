@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| IBEW - International Brotherhood of Electrical Workers | $26,000 |
+| American Hospital Association PAC | $24,500 |
+| Teamsters - International Brotherhood of Teamsters | $22,500 |
+| Raytheon (RTX) | $22,500 |
+| National Association of Realtors | $22,500 |
+| PG&E - Pacific Gas and Electric | $22,000 |
+| AT&T - WarnerMedia | $21,500 |
+| NextEra Energy | $20,000 |
+| National Multifamily Housing Council | $20,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

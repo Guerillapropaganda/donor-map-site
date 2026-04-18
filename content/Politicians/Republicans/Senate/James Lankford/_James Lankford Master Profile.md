@@ -58,15 +58,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| OKLAHOMANS FOR A CONSERVATIVE FUTURE INC | $766,330 |
-| Defend Oklahoma Values | $246,000 |
+| Defend Oklahoma Values | $369,000 |
 | FOUNDATION FOR ECONOMIC PROSPERITY INC. | $216,623 |
-| American Energy Action Fund | $104,000 |
-| NOW OR NEVER PAC | $100,000 |
-| Oklahomans for a Conservative Future INC | — |
-| Devon Energy | — |
-| Foundation for Economic Prosperity Inc. | — |
-| Now Or Never PAC | — |
+| American Energy Action Fund | $155,998 |
+| NRSC - National Republican Senatorial Committee | $51,200 |
+| National Association of Realtors | $19,305 |
+| Drain the DC Swamp PAC | $12,194 |
+| MAJORITY PAC | $11,000 |
+| Morgan Stanley | $10,000 |
+| ConocoPhillips | $10,000 |
+| General Dynamics | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

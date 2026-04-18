@@ -39,6 +39,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Charles Schwab | $9,900 |
+| Citadel - Kenneth Griffin | $9,900 |
+| Ken Calvert | $8,000 |
+| Mariannette Miller-Meeks | $7,000 |
+| Michael Lawler | $6,000 |
+| Google - Alphabet | $5,300 |
+| Derrick van Orden | $4,000 |
+| Monica de la Cruz | $4,000 |
+| Ryan Mackenzie | $4,000 |
+| Young Kim | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -64,13 +64,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| AMERICAN FUTURE FUND | $1,123,991 |
-| AMERICAN CROSSROADS | $63,731 |
-| NARAL | $57,293 |
-| American Crossroads | — |
-| Boeing | — |
-| American Future Fund | — |
-| IBEW - International Brotherhood of Electrical Workers | — |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| Honeywell | $29,500 |
+| National Association of Realtors | $27,226 |
+| Raytheon (RTX) | $25,000 |
+| General Dynamics | $24,000 |
+| Puget Sound Energy INC PAC for Good Government | $23,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| AIPAC - American Israel Public Affairs Committee | $20,501 |
+| L3Harris Technologies | $20,000 |
+| SEIU COPE | $17,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

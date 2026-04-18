@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $34,015 |
+| VIEW PAC - Value in Electing Women | $30,000 |
+| MAJORITY PAC | $25,000 |
+| National Association of Realtors | $23,000 |
+| Honeywell | $20,000 |
+| National Multifamily Housing Council | $20,000 |
+| American Hospital Association PAC | $19,500 |
+| Comcast - NBCUniversal | $18,000 |
+| Pfizer Inc. | $17,500 |
+| Teamsters - International Brotherhood of Teamsters | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

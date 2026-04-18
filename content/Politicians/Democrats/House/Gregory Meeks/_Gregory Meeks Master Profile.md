@@ -61,15 +61,15 @@ top-policy-area: "International Affairs"
 | Donor | Amount |
 |---|---:|
 | FAIRSHAKE | $92,320 |
-| DIRECT SELLING EMPOWERS AMERICANS | $18,941 |
-| CARE ACTION NOW INC. | $4,884 |
-| SIERRA CLUB POLITICAL COMMITTEE | $180 |
-| Planned Parenthood Votes | $124 |
-| Sierra Club Political Committee | — |
-| Goldman Sachs | — |
-| NORPAC | — |
-| Direct Selling Empowers Americans | — |
-| Care Action Now Inc. | — |
+| AIPAC - American Israel Public Affairs Committee | $52,693 |
+| Fairshake PAC - Crypto Super PAC | $46,160 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Raytheon (RTX) | $27,000 |
+| Lockheed Martin | $26,000 |
+| National Multifamily Housing Council | $25,000 |
+| Honeywell | $22,000 |
+| Comcast - NBCUniversal | $22,000 |
+| National Association of Realtors | $22,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

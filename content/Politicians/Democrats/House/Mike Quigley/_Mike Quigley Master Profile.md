@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| Honeywell | $27,000 |
+| Raytheon (RTX) | $23,500 |
+| National Association of Realtors | $22,000 |
+| American Hospital Association PAC | $21,500 |
+| National Multifamily Housing Council | $20,000 |
+| AT&T - WarnerMedia | $20,000 |
+| NEA Fund for Children and Public Education | $19,000 |
+| Lockheed Martin | $18,500 |
+| General Dynamics | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

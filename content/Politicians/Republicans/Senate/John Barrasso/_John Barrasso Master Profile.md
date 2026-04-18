@@ -44,16 +44,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| High Plains Pac | $1,894,880 |
-| NATIONAL VICTORY ACTION FUND | $200,000 |
-| AMERICAN CHEMISTRY COUNCIL, INC | $133,204 |
-| Clearpath Action Fund, Inc. | $50,375 |
-| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $39,800 |
-| American Petroleum Institute | — |
-| Raytheon (RTX Corporation) | — |
-| American Chemistry Council, INC | — |
-| National Victory Action Fund | — |
-| Political Action Committee of the American Association of Orthopaedic Surgeons | — |
+| High Plains Pac | $2,842,320 |
+| National Victory Action Fund | $327,500 |
+| American Chemistry Council, INC | $144,204 |
+| Clearpath Action Fund, Inc. | $75,562 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $49,800 |
+| AIPAC - American Israel Public Affairs Committee | $42,621 |
+| WinRed | $16,914 |
+| Drummond Co. | $16,000 |
+| National Association of Realtors | $15,104 |
+| Devon Energy | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -35,6 +35,21 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AT&T | $5,300 |
+| Charles Schwab | $3,775 |
+| Blackstone Group | $3,300 |
+| Lauren Boebert | $2,000 |
+| Goldman Sachs | $2,000 |
+| Jeff Crank | $2,000 |
+| Meta - Facebook | $2,000 |
+| Fidelity Investments | $1,050 |
+| Cigna Group | $1,000 |
+| Amazon | $500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

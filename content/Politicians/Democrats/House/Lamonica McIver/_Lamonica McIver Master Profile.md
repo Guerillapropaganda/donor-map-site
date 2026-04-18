@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Medicare for All - The Policy That Broke the Party | $15,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $14,000 |
+| SEIU COPE | $12,500 |
+| Congressional Progressive Caucus PAC | $10,000 |
+| National Association of Realtors | $7,000 |
+| NEA Fund for Children and Public Education | $7,000 |
+| Pete Aguilar | $6,000 |
+| Walmart - Walton Family | $4,000 |
+| Nancy Pelosi | $4,000 |
+| American Hospital Association PAC | $3,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

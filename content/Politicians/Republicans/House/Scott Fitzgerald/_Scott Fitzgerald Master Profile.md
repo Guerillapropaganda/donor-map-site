@@ -40,6 +40,21 @@ top-policy-area: "Finance and Financial Sector"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $25,010 |
+| Blackstone Group | $24,700 |
+| Law Enforcement for a Safer America Pac | $24,000 |
+| National Association of Realtors | $20,000 |
+| Jim Jordan | $12,000 |
+| Honoring American Law Enforcement Pac | $12,000 |
+| AT&T - WarnerMedia | $11,000 |
+| MAJORITY PAC | $10,000 |
+| National Multifamily Housing Council | $9,500 |
+| National Rifle Association | $8,047 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

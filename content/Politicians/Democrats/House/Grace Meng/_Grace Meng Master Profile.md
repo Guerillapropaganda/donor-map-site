@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $42,328 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| American Hospital Association PAC | $27,000 |
+| National Multifamily Housing Council | $25,000 |
+| National Association of Realtors | $22,000 |
+| Raytheon (RTX) | $21,000 |
+| Unite Here Tip Campaign Committee | $20,000 |
+| AT&T - WarnerMedia | $19,000 |
+| Comcast - NBCUniversal | $19,000 |
+| SEIU COPE | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

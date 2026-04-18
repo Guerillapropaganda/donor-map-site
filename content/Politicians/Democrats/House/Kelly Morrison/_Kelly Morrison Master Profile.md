@@ -36,6 +36,21 @@ fec-candidate-id: "H4MN03118"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Planned Parenthood of Minnesota Political Action Fund | $140,520 |
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| Progressive Turnout Project | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| 314 ACTION FUND | $9,754 |
+| American Hospital Association PAC | $8,500 |
+| NEA Fund for Children and Public Education | $7,000 |
+| Teamsters - International Brotherhood of Teamsters | $5,000 |
+| SEIU COPE | $5,000 |
+| UA Political Action Committee | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

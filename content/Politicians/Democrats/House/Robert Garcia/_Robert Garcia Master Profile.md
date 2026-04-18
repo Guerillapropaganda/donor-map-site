@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Our Future PAC | $1,002,730 |
+| CHC BOLD PAC | $25,000 |
+| EQUALITY PROJECT PAC | $20,300 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| International Longshore and Warehouse Union -- Political Action Fund | $17,500 |
+| National Association of Realtors | $17,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $15,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| Let America Vote PAC | $12,500 |
+| SEIU COPE | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

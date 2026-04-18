@@ -36,6 +36,21 @@ fec-candidate-id: "H2NY04244"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $7,037,291 |
+| NRCC - National Republican Congressional Committee | $2,008,844 |
+| League of Conservation Voters | $688,539 |
+| DCCC - Democratic Congressional Campaign Committee | $296,060 |
+| Hmp | $281,427 |
+| Protect Our Future PAC | $250,662 |
+| Food and Water Action | $90,370 |
+| Leadership Now | $88,809 |
+| Center Forward Committee | $75,000 |
+| Opportunity for All Action Fund | $47,583 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

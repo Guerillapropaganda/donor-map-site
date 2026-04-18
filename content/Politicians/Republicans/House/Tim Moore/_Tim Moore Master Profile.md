@@ -41,7 +41,16 @@ fec-candidate-id: "H4NC14015"
 
 | Donor | Amount |
 |---|---:|
-| Brady Campaign | — |
+| Defend American Jobs | $587,501 |
+| National Association of Realtors | $21,370 |
+| Duke Energy | $20,000 |
+| Honeywell | $11,000 |
+| Club for Growth INC PAC | $10,500 |
+| AIPAC - American Israel Public Affairs Committee | $10,010 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| American Hospital Association PAC | $9,500 |
+| National Restaurant Association | $6,000 |
+| Care Action | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

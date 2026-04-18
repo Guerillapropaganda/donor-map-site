@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $4,262,777 |
+| NRCC - National Republican Congressional Committee | $1,247,885 |
+| DCCC - Democratic Congressional Campaign Committee | $505,222 |
+| America PAC - Elon Musk | $410,357 |
+| The Sentinel Action Fund | $292,295 |
+| Drain the DC Swamp PAC | $281,999 |
+| AFSCME Working Families Fund | $199,070 |
+| Club for Growth | $88,814 |
+| Americans for Prosperity | $61,013 |
+| SEIU COPE | $35,150 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -39,6 +39,21 @@ top-policy-area: "Finance and Financial Sector"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blackstone Group | $61,535 |
+| Apollo Global Management | $45,500 |
+| Goldman Sachs | $41,100 |
+| Wells Fargo | $29,616 |
+| Coinbase | $23,500 |
+| Las Vegas Sands | $11,000 |
+| a16z - Andreessen Horowitz | $10,500 |
+| Charles Schwab | $10,500 |
+| BlackRock | $6,200 |
+| Citadel - Kenneth Griffin | $5,400 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

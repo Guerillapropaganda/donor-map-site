@@ -36,6 +36,21 @@ fec-candidate-id: "H4KS02164"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Americans for Prosperity | $218,248 |
+| AIPAC - American Israel Public Affairs Committee | $25,000 |
+| Conservative Outsider Pac Inc | $23,935 |
+| National Cattlemen's Beef Association | $15,000 |
+| National Association of Realtors | $11,000 |
+| Jim Jordan | $8,000 |
+| CoreCivic - Private Prisons | $5,000 |
+| Associated General Contractors of America Political Action Committee | $5,000 |
+| American Hospital Association PAC | $5,000 |
+| MAJORITY PAC | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

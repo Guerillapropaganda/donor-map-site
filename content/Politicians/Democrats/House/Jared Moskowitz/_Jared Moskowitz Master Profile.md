@@ -41,6 +41,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Our Future PAC | $262,426 |
+| AIPAC - American Israel Public Affairs Committee | $67,111 |
+| National Association of Realtors | $26,250 |
+| NextEra Energy | $23,000 |
+| Ballard Partners | $20,900 |
+| NEA Fund for Children and Public Education | $16,000 |
+| UA Political Action Committee | $15,000 |
+| Teamsters - International Brotherhood of Teamsters | $13,500 |
+| Lennar Corporation | $12,725 |
+| SEIU COPE | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

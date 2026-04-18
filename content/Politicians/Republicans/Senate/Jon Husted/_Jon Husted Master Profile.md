@@ -36,11 +36,20 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** $7,348,700
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Les Wexner
-- Centene Corporation
-- Senate Leadership Fund
+| Donor | Amount |
+|---|---:|
+| SLF PAC | $331,048 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Indivisible Action | $15,475 |
+| Duke Energy | $10,000 |
+| General Dynamics | $10,000 |
+| Chevron | $10,000 |
+| National Cattlemen's Beef Association | $10,000 |
+| Walmart - Walton Family | $8,000 |
+| Pfizer Inc. | $7,500 |
+| Amgen Inc | $6,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

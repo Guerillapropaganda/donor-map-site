@@ -41,7 +41,16 @@ fec-candidate-id: "H4TX32089"
 
 | Donor | Amount |
 |---|---:|
-| Western Growers Association | — |
+| Protect Progress | $961,272 |
+| National Association of Realtors | $61,784 |
+| EQUALITY PROJECT PAC | $19,871 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $19,500 |
+| IBEW - International Brotherhood of Electrical Workers | $15,000 |
+| American Hospital Association PAC | $15,000 |
+| American College of Radiology Association PAC | $12,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| Mark Takano | $8,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

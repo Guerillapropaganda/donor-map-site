@@ -44,7 +44,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| California Farm Bureau Federation | — |
+| National Victory Action Fund | $278,333 |
+| National Association of Realtors | $66,793 |
+| American Energy Action Fund | $52,000 |
+| WinRed | $36,309 |
+| Google - Alphabet | $22,500 |
+| Johnson & Johnson | $16,500 |
+| Humana | $15,000 |
+| Morgan Stanley | $13,500 |
+| Amgen Inc | $12,500 |
+| L3Harris Technologies | $11,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

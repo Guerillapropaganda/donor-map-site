@@ -76,14 +76,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | WOMEN VOTE! | $564,061 |
-| UNITED FOOD AND COMMERCIAL WORKERS INTERNATIONAL UNION ACTIVE BALLOT CLUB | $94,608 |
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $25,017 |
-| PLANNED PARENTHOOD VOTES NORTHWEST | $19,132 |
-| ONEAMERICA VOTES | $9,956 |
-| Planned Parenthood Votes Northwest | — |
-| Oneamerica Votes | — |
-| National Nurses United for Patient Protection | — |
-| United Food and Commercial Workers International Union Active Ballot Club | — |
+| United Food and Commercial Workers International Union Active Ballot Club | $124,608 |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| Unite Here Tip Campaign Committee | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| National Nurses United for Patient Protection | $25,017 |
+| Indivisible Action | $25,000 |
+| Teamsters - International Brotherhood of Teamsters | $22,000 |
+| NEA Fund for Children and Public Education | $22,000 |
+| SEIU COPE | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

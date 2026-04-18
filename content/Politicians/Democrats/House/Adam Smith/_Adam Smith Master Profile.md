@@ -73,16 +73,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| NARAL | $48,944 |
-| SUSAN B ANTHONY LIST INC | $39,906 |
-| TOGETHER FOR PROGRESS PAC | $7,797 |
-| PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 |
-| THE 60 PLUS ASSOCIATION | $6,122 |
-| Raytheon (RTX Corporation) | — |
-| The 60 Plus Association | — |
-| National Restaurant Association | — |
-| American Gaming Association | — |
-| Together for Progress PAC | — |
+| AIPAC - American Israel Public Affairs Committee | $61,905 |
+| L3Harris Technologies | $30,000 |
+| BAE Systems | $30,000 |
+| Northrop Grumman | $30,000 |
+| Puget Sound Energy INC PAC for Good Government | $29,077 |
+| Honeywell | $29,000 |
+| General Dynamics | $27,500 |
+| Raytheon (RTX) | $26,000 |
+| Lockheed Martin | $25,000 |
+| Microsoft | $22,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

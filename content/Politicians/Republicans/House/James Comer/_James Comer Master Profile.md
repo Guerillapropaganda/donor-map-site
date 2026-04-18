@@ -65,13 +65,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $8,599 |
-| EVERYTOWN FOR GUN SAFETY ACTION FUND | $862 |
-| TOGETHER WE THRIVE | $750 |
-| ALLIANCE COAL, LLC PAC | $69 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $13 |
-| Together We Thrive | — |
-| Alliance Coal, LLC PAC | — |
+| WinRed | $38,922 |
+| Chevron | $24,500 |
+| Honeywell | $21,500 |
+| Valero Energy | $20,000 |
+| National Cattlemen's Beef Association | $20,000 |
+| AIPAC - American Israel Public Affairs Committee | $19,714 |
+| National Association of Realtors | $18,000 |
+| Marathon Petroleum | $15,000 |
+| Humana | $14,500 |
+| Microsoft | $13,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

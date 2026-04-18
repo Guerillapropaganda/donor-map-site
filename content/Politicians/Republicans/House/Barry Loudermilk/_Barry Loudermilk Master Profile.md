@@ -40,6 +40,21 @@ top-policy-area: "Finance and Financial Sector"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $27,551 |
+| Lockheed Martin | $18,500 |
+| AIPAC - American Israel Public Affairs Committee | $18,160 |
+| National Multifamily Housing Council | $14,000 |
+| MAJORITY PAC | $10,000 |
+| AT&T - WarnerMedia | $9,000 |
+| National Rifle Association | $8,955 |
+| Associated General Contractors of America Political Action Committee | $5,000 |
+| Save America PAC | $5,000 |
+| Austin Scott | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

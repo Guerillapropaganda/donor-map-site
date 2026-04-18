@@ -45,7 +45,16 @@ top-policy-area: "Taxation"
 
 | Donor | Amount |
 |---|---:|
-| CA Farm Bureau Federation | — |
+| Blackstone Group | $5,200 |
+| AbbVie | $3,025 |
+| Goldman Sachs | $2,700 |
+| CVS Health - Aetna | $2,500 |
+| Ryan Mackenzie | $2,000 |
+| Mariannette Miller-Meeks | $2,000 |
+| Koch Industries | $1,500 |
+| Morgan Stanley | $1,400 |
+| Northrop Grumman | $1,000 |
+| Apple | $750 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

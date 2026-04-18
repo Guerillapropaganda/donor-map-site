@@ -55,16 +55,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $2,301,252 |
-| CLUB FOR GROWTH ACTION | $2,226,944 |
-| Congressional Leadership Fund | $848,763 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $118,530 |
-| WFW ACTION FUND, INC. | $79,662 |
-| Oil & Gas PACs | — |
-| Wfw Action Fund, Inc. | — |
-| Protect Freedom Political Action Committee | — |
-| Lockheed Martin | — |
-| Boeing | — |
+| Wfw Action Fund, Inc. | $79,662 |
+| L3Harris Technologies | $20,000 |
+| Leidos | $20,000 |
+| Lockheed Martin | $17,000 |
+| Honeywell | $16,000 |
+| AT&T - WarnerMedia | $15,000 |
+| Raytheon (RTX) | $15,000 |
+| Google - Alphabet | $15,000 |
+| BAE Systems | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Charles Schwab | $16,600 |
+| Las Vegas Sands | $15,438 |
+| Google - Alphabet | $14,600 |
+| Goldman Sachs | $13,000 |
+| Citadel - Kenneth Griffin | $10,800 |
+| Anduril Industries | $9,300 |
+| BAE Systems | $6,860 |
+| Morgan Stanley | $4,750 |
+| Valero Energy | $3,950 |
+| CBRE Group | $2,250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

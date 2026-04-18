@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Amazon | $26,300 |
+| MassMutual | $17,100 |
+| Google - Alphabet | $16,365 |
+| Wells Fargo | $13,140 |
+| Apple | $11,550 |
+| Let America Vote PAC | $10,500 |
+| Morgan Stanley | $10,300 |
+| Centene Corporation | $8,233 |
+| Goldman Sachs | $7,600 |
+| Airbnb | $7,051 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

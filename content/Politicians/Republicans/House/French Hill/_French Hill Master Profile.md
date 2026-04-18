@@ -52,16 +52,16 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $3,277,086 |
-| HOUSE MAJORITY PAC | $2,770,089 |
-| DCCC | $2,177,334 |
-| WOMEN VOTE! | $1,150,306 |
-| Defend American Jobs | $1,013,508 |
-| Goldman Sachs | — |
-| Marc Andreessen & Horowitz | — |
-| Crypto Industry Bloc | — |
-| Fairshake PAC | — |
-| Coinbase | — |
+| Defend American Jobs | $524,943 |
+| Drain the DC Swamp PAC | $54,159 |
+| National Association of Realtors | $50,473 |
+| Lockheed Martin | $25,500 |
+| Bank of America | $25,000 |
+| Citigroup | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| Morgan Stanley | $24,000 |
+| AIPAC - American Israel Public Affairs Committee | $23,660 |
+| AT&T - WarnerMedia | $22,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| United Democracy Project - UDP | $1,723,988 |
+| Protect Progress | $511,329 |
+| National Association of Realtors | $53,105 |
+| United Food and Commercial Workers International Union Active Ballot Club | $30,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $27,500 |
+| CHC BOLD PAC | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| SEIU COPE | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

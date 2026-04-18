@@ -35,6 +35,16 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Google - Alphabet | $1,300 |
+| US CHAMBER OF COMMERCE | $1,000 |
+| CTA - California Teachers Association | $1,000 |
+| Lockheed Martin | $1,000 |
+| Fidelity Investments | $250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

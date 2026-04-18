@@ -36,6 +36,21 @@ fec-candidate-id: "H6FL06258"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Defend American Jobs | $1,673,735 |
+| America PAC - Elon Musk | $76,888 |
+| SPECIAL OPERATIONS FOR AMERICA | $60,000 |
+| NRCC - National Republican Congressional Committee | $55,000 |
+| REPUBLICAN PARTY OF FLORIDA | $54,126 |
+| Republican Jewish Coalition | $23,175 |
+| Freedom's Defense Fund | $21,000 |
+| Anthem - Elevance Health | $15,000 |
+| Fanjul Family - Florida Crystals | $13,470 |
+| National Association of Realtors | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

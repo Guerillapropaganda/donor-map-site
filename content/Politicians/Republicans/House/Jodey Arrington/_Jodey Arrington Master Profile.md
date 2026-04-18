@@ -68,9 +68,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Heritage Foundation | — |
-| American Farm Bureau Federation | — |
-| Americans for Prosperity | — |
+| National Association of Realtors | $54,826 |
+| Valero Energy | $30,000 |
+| Marathon Petroleum | $27,500 |
+| National Cattlemen's Beef Association | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| American Hospital Association PAC | $23,000 |
+| AT&T - WarnerMedia | $22,500 |
+| American College of Radiology Association PAC | $18,500 |
+| AIPAC - American Israel Public Affairs Committee | $18,434 |
+| Occidental Petroleum | $16,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -55,14 +55,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Retire Career Politicians | $13,725,456 |
-| END THE GRIDLOCK | $3,197,722 |
+| Retire Career Politicians | $7,233,408 |
 | ENDING SPENDING ACTION FUND | $1,651,703 |
-| ESAFUND | $881,915 |
-| COMMON SENSE FOR AMERICA PAC | $303,194 |
-| End the Gridlock | — |
-| Common Sense for America PAC | — |
-| Insurance Industry | — |
+| ESAFUND | $1,409,945 |
+| Common Sense for America PAC | $486,718 |
+| NRSC - National Republican Senatorial Committee | $409,861 |
+| American Hospital Association PAC | $258,940 |
+| Railroaders for Public Safety | $165,210 |
+| AIPAC - American Israel Public Affairs Committee | $83,560 |
+| National Association of Realtors | $49,210 |
+| National Rifle Association | $26,045 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

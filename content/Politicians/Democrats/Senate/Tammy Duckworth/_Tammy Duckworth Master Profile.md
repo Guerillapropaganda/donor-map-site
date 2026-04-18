@@ -78,16 +78,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $6,878,709 |
-| NOW OR NEVER PAC | $3,892,413 |
-| FREEDOMWORKS FOR AMERICA | $3,649,440 |
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $858,884 |
-| NEW PROSPERITY FOUNDATION; THE | $517,710 |
-| Now Or Never PAC | — |
-| Boeing | — |
-| FreedomWorks for America | — |
-| General Dynamics | — |
-| Democracy Alliance | — |
+| National Association of Realtors | $81,119 |
+| United Breast Cancer Support Pac | $30,204 |
+| Votevets | $26,000 |
+| ADM - Archer Daniels Midland | $14,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| AbbVie | $11,500 |
+| Lockheed Martin | $11,000 |
+| Comcast - NBCUniversal | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

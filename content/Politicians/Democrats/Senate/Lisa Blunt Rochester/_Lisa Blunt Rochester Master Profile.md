@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Lisa Blunt Rochester | $192,315 |
+| DNC - Democratic National Committee | $33,857 |
+| Comcast - NBCUniversal | $26,925 |
+| SEIU COPE | $19,000 |
+| National Association of Realtors | $18,792 |
+| Apollo Global Management | $13,800 |
+| AbbVie | $12,500 |
+| Morgan Stanley | $12,500 |
+| Microsoft | $11,000 |
+| Gilead Sciences | $10,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

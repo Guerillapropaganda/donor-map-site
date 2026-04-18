@@ -39,6 +39,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Google - Alphabet | $15,145 |
+| Anduril Industries | $15,100 |
+| Apple | $9,859 |
+| Meta - Facebook | $6,930 |
+| America Votes | $4,000 |
+| a16z - Andreessen Horowitz | $3,332 |
+| Cargill | $3,300 |
+| L3Harris Technologies | $2,900 |
+| Bank of America | $2,500 |
+| UnitedHealth Group - Optum | $1,850 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

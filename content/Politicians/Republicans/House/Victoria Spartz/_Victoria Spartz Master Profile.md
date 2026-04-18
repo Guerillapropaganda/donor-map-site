@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Victory Action Fund | $100,000 |
+| AIPAC - American Israel Public Affairs Committee | $29,312 |
+| Anthem - Elevance Health | $25,000 |
+| VIEW PAC - Value in Electing Women | $15,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $13,500 |
+| National Association of Realtors | $13,000 |
+| MAJORITY PAC | $10,000 |
+| Comcast - NBCUniversal | $10,000 |
+| Honeywell | $10,000 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

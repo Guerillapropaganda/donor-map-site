@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $23,000 |
+| Teamsters - International Brotherhood of Teamsters | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $17,500 |
+| SEIU COPE | $12,500 |
+| NEA Fund for Children and Public Education | $10,000 |
+| Let America Vote PAC | $8,500 |
+| National Association of Realtors | $7,000 |
+| J Street | $6,610 |
+| International Association of Firefighters Interested in Registration and Education PAC | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

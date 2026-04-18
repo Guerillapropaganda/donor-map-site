@@ -55,10 +55,16 @@ top-policy-area: "Finance and Financial Sector"
 
 | Donor | Amount |
 |---|---:|
-| ExxonMobil | — |
-| Goldman Sachs | — |
-| Koch Industries | — |
-| ConocoPhillips | — |
+| National Victory Action Fund | $108,333 |
+| WinRed | $103,797 |
+| Clearpath Action Fund, Inc. | $75,000 |
+| National Association of Realtors | $19,200 |
+| Marathon Petroleum | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| Comcast - NBCUniversal | $10,000 |
+| Chevron | $10,000 |
+| L3Harris Technologies | $9,500 |
+| AIPAC - American Israel Public Affairs Committee | $8,400 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

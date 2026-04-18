@@ -46,14 +46,11 @@ donors: "[[314 Action Fund]] · [[Leonard Leo]] · [[Koch Network - Charles Koch
 
 | Donor | Amount |
 |---|---:|
-| HOUSE MAJORITY PAC | $5,683,910 |
-| 314 ACTION FUND | $4,263,616 |
-| AMERICANS FOR COMMON SENSE (AFCS) | $3,160,436 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $3,039,289 |
-| DCCC | $2,185,865 |
-| Leonard Leo | — |
-| Koch Network - Charles Koch | — |
-| 314 Action Fund | — |
+| Honoring American Law Enforcement Pac | $220,495 |
+| Law Enforcement for a Safer America Pac | $107,963 |
+| WinRed | $9,627 |
+| Republican Jewish Coalition | $5,000 |
+| Planned Parenthood Votes | $8 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

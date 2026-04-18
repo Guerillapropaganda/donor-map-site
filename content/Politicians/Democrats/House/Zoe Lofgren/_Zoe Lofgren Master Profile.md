@@ -70,16 +70,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| CENTRAL COAST VALUES PAC | $349,671 |
-| RESOLUTE COURAGE PAC | $46,152 |
-| Courage California Super Pac | $2,301 |
-| SAN BENITO COUNTY DEMOCRATIC CENTRAL COMMITTEE | $1,795 |
-| OPPORTUNITY PAC - A COALITION OF TEACHERS HEALTH CARE GIVERS FACULTY MEMBERS SCHOOL EMPLOYEES AND PUBLIC AND PR | $1,772 |
-| Central Coast Values PAC | — |
-| Google - Alphabet | — |
-| Opportunity PAC - a Coalition of Teachers Health Care Givers Faculty Members School Employees and Public and Pr | — |
-| San Benito County Democratic Central Committee | — |
-| Tech Industry | — |
+| CENTRAL COAST VALUES PAC | $527,805 |
+| RESOLUTE COURAGE PAC | $74,228 |
+| Google - Alphabet | $30,000 |
+| EQUALITY PROJECT PAC | $24,750 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| National Association of Realtors | $19,000 |
+| iHeartMedia | $18,000 |
+| Microsoft | $13,500 |
+| American Hospital Association PAC | $13,000 |
+| SEIU COPE | $12,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

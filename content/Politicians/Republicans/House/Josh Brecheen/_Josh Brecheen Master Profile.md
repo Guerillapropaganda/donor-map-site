@@ -40,6 +40,21 @@ top-policy-area: "Government Operations and Politics"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $20,009 |
+| National Association of Realtors | $13,000 |
+| Club for Growth INC PAC | $11,228 |
+| Microsoft | $5,000 |
+| MAJORITY PAC | $5,000 |
+| National Rifle Association | $4,000 |
+| Jim Jordan | $4,000 |
+| AT&T - WarnerMedia | $3,000 |
+| Alliance Coal, LLC PAC | $2,500 |
+| Michael Cloud | $2,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

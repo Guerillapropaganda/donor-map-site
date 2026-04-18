@@ -103,16 +103,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| FUTURE45 | $1,910,481 |
-| VIGOP (VIRGIN ISLANDS REPUBLICAN PARTY) | $889,623 |
-| ARIZONANS FOR AFFORDABLE ELECTRICITY | $241,764 |
-| Congressional Leadership Fund | $75,000 |
-| Blue Shield of California | — |
-| Democratic Small Dollar Networks | — |
-| California Labor Federation | — |
-| Kaiser Permanente | — |
-| Jeffrey Katzenberg | — |
-| UnitedHealth Group - Optum | — |
+| Drain the DC Swamp PAC | $36,666 |
+| Meta - Facebook | $33,059 |
+| Google - Alphabet | $27,742 |
+| Apple | $27,407 |
+| Kaiser Permanente | $27,404 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| Let America Vote PAC | $20,000 |
+| American Hospital Association PAC | $20,000 |
+| National Association of Realtors | $20,000 |
+| Comcast - NBCUniversal | $16,361 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -49,16 +49,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| THE LINCOLN PROJECT | $99,683 |
-| MAD DOG PAC | $7,527 |
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $6,820 |
-| Club for Growth | $4,035 |
-| Hunter Action Fund (haf) | $1,857 |
-| National Restaurant Association | — |
-| National Association of Manufacturers | — |
-| Valero Energy | — |
-| Mad Dog PAC | — |
-| Raytheon (RTX Corporation) | — |
+| WinRed | $138,075 |
+| AIPAC - American Israel Public Affairs Committee | $130,564 |
+| The Lincoln Project | $49,841 |
+| National Rifle Association | $39,035 |
+| National Association of Realtors | $30,007 |
+| Marathon Petroleum | $30,000 |
+| Lockheed Martin | $30,000 |
+| Anthem - Elevance Health | $30,000 |
+| ConocoPhillips | $30,000 |
+| Chevron | $30,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

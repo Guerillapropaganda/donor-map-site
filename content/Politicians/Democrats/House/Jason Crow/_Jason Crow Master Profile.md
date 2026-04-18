@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Palantir Technologies | $42,375 |
+| Votevets | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| National Association of Realtors | $18,000 |
+| Let America Vote PAC | $17,500 |
+| UA Political Action Committee | $15,000 |
+| Google - Alphabet | $12,940 |
+| United Food and Commercial Workers International Union Active Ballot Club | $12,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $11,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Fairshake PAC - Crypto Super PAC | $1,836,196 |
+| DCCC - Democratic Congressional Campaign Committee | $372,412 |
+| American Federation of State County & Municipal Employees P E O P L E | $217,275 |
+| Hmp | $133,077 |
+| Center Forward Committee | $100,000 |
+| SEIU COPE | $79,514 |
+| League of Conservation Voters | $64,923 |
+| AFSCME Working Families Fund | $56,747 |
+| Protecting Our Vote Pac | $38,368 |
+| AIPAC - American Israel Public Affairs Committee | $33,501 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

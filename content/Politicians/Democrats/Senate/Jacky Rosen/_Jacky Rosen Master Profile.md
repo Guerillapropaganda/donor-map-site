@@ -45,6 +45,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NRSC - National Republican Senatorial Committee | $10,208,319 |
+| SLF PAC | $3,016,400 |
+| Americans for Prosperity | $1,288,630 |
+| League of Conservation Voters | $1,264,833 |
+| Edf Action Votes | $901,597 |
+| American Federation of State County & Municipal Employees P E O P L E | $452,040 |
+| DSCC - Democratic Senatorial Campaign Committee | $310,000 |
+| United We Can | $278,304 |
+| American College of Radiology Association PAC | $247,642 |
+| Votevets | $223,480 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -48,6 +48,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $32,767 |
+| Raytheon (RTX) | $11,500 |
+| Leidos | $10,000 |
+| Progressive Turnout Project | $10,000 |
+| NEA Fund for Children and Public Education | $10,000 |
+| National Restaurant Association | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| National Multifamily Housing Council | $10,000 |
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| Comcast - NBCUniversal | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

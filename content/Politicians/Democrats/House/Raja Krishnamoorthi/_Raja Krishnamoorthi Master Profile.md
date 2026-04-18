@@ -74,14 +74,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| VICTORY FOR SCHAUMBURG | $6,171 |
-| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $2,092 |
-| TOGETHER WE THRIVE | $750 |
-| Planned Parenthood Votes | $195 |
-| NEA ADVOCACY FUND | $67 |
-| NEA Advocacy Fund | — |
-| Victory for Schaumburg | — |
-| Together We Thrive | — |
+| IBEW - International Brotherhood of Electrical Workers | $35,000 |
+| Honeywell | $35,000 |
+| Northrop Grumman | $25,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $21,301 |
+| AT&T - WarnerMedia | $19,000 |
+| National Association of Realtors | $18,000 |
+| McDonalds Corporation | $17,000 |
+| NextEra Energy | $16,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

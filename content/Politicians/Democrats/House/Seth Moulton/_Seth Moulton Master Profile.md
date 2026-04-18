@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Raytheon (RTX Corporation) | — |
+| Votevets | $7,500 |
+| IBEW - International Brotherhood of Electrical Workers | $5,000 |
+| Goldman Sachs | $4,400 |
+| Morgan Stanley | $4,050 |
+| Blackstone Group | $2,800 |
+| CBRE Group | $1,000 |
+| Fidelity Investments | $800 |
+| Citigroup | $500 |
+| Coinbase | $500 |
+| Carlyle Group | $500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

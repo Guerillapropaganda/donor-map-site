@@ -45,14 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,251,342 |
-| POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS | $64,000 |
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $9,286 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $4,751 |
-| EVERYTOWN FOR GUN SAFETY ACTION FUND | $862 |
-| AbbVie | — |
-| PhRMA - Pharmaceutical Research and Manufacturers of America | — |
-| Political Action Committee of the American Association of Orthopaedic Surgeons | — |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $87,500 |
+| AT&T - WarnerMedia | $30,000 |
+| Amgen Inc | $30,000 |
+| Anthem - Elevance Health | $30,000 |
+| Comcast - NBCUniversal | $30,000 |
+| American College of Radiology Association PAC | $28,000 |
+| Humana | $25,500 |
+| Google - Alphabet | $25,500 |
+| CVS Health - Aetna | $25,000 |
+| Nucor Corporation | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

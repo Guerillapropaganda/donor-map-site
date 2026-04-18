@@ -81,16 +81,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| AMERICA 360 COMMITTEE | $1,693,306 |
-| Crossroads Grassroots Policy Strategies | $1,198,424 |
-| FUTURE45 | $1,015,974 |
-| AMERICANS FOR TAX REFORM | $878,468 |
-| COMMONWEALTH UNITY FUND | $785,000 |
-| Democratic Small Dollar Networks | — |
-| Boeing | — |
-| Commonwealth Unity Fund | — |
-| Crypto Industry Bloc | — |
-| Emily's List | — |
+| COMMONWEALTH UNITY FUND | $407,982 |
+| Teamsters - International Brotherhood of Teamsters | $10,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
+| NEA Fund for Children and Public Education | $7,000 |
+| National Nurses United | $5,000 |
+| Unite Here Tip Campaign Committee | $5,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $2,500 |
+| Chrissy Houlahan | $1,000 |
+| Emily's List | $463 |
+| League of Conservation Voters | $68 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

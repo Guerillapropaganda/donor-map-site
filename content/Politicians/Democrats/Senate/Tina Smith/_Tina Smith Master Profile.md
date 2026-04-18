@@ -55,7 +55,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| ActBlue | — |
+| SEIU COPE | $125,157 |
+| Demand Justice | $10,000 |
+| Citigroup | $5,000 |
+| CVS Health - Aetna | $5,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $5,000 |
+| National Association of Realtors | $4,000 |
+| AT&T - WarnerMedia | $3,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $2,500 |
+| Planned Parenthood of Minnesota Political Action Fund | $2,409 |
+| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $1,275 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

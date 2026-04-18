@@ -45,7 +45,16 @@ top-policy-area: "Taxation"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
+| Conservative Outsider Pac Inc | $231,766 |
+| NRCC - National Republican Congressional Committee | $105,000 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $51,152 |
+| Freedom's Defense Fund | $31,000 |
+| National Association of Realtors | $27,000 |
+| DEFEND US PAC | $24,905 |
+| AIPAC - American Israel Public Affairs Committee | $22,509 |
+| Duke Energy | $21,000 |
+| MAJORITY PAC | $20,000 |
+| Marathon Petroleum | $19,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

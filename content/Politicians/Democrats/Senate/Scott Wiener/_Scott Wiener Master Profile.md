@@ -29,6 +29,21 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** $2,785,989
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Anthropic | $73,050 |
+| OpenAI | $64,950 |
+| Google - Alphabet | $47,253 |
+| Meta - Facebook | $20,052 |
+| Microsoft | $14,000 |
+| Ripple | $13,600 |
+| Airbnb | $8,500 |
+| Founders Fund | $7,000 |
+| PG&E - Pacific Gas and Electric | $7,000 |
+| Apple | $5,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
