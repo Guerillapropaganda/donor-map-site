@@ -26,8 +26,8 @@ stock-trade-tickers:
   - "ZIOP"
 bioguide-id: W000805
 govtrack-id: 412321
-bills-sponsored: 57
-bills-cosponsored: 268
+bills-sponsored: 723
+bills-cosponsored: 2475
 website: https://www.warner.senate.gov
 phone: 202-224-2023
 last-enriched: "2026-04-12"
@@ -46,6 +46,7 @@ issues:
   - Science, Technology, Communications
   - Taxation
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

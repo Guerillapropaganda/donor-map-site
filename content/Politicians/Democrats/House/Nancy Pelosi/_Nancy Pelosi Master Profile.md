@@ -80,9 +80,10 @@ total-spent: $3,306,927
 cash-on-hand: "1179149.96"
 fec-cycle: 2026
 donors: "[[Google - Alphabet]] · [[House Majority PAC]] · [[Blue Shield of California]] · [[Democratic Small Dollar Networks]] · [[California Labor Federation]] · [[Kaiser Permanente]] · [[Jeffrey Katzenberg]] · [[UnitedHealth Group - Optum]] · [[Michael Bloomberg]] · [[Haim Saban]] · [[SEIU - Service Employees International Union]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Mark Zuckerberg]] · [[Arizonans for Affordable Electricity]] · [[Future45]]"
-bills-sponsored: 2
-bills-cosponsored: 95
+bills-sponsored: 199
+bills-cosponsored: 5074
 bills-enacted: 0
+bills-data-scope: "Career total via Congress.gov API (1987–2025). The 118th-only bulk ingest previously clobbered these numbers with 2/95 — sync'd back from the auto:congress-legislation block 2026-04-17."
 top-policy-area: "Government Operations and Politics"
 ---
 

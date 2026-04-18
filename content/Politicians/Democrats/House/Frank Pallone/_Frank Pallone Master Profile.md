@@ -37,8 +37,8 @@ last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 govtrack-id: 400308
-bills-sponsored: 18
-bills-cosponsored: 247
+bills-sponsored: 577
+bills-cosponsored: 6690
 website: https://pallone.house.gov
 phone: 202-225-4671
 bioguide-id: P000034
@@ -52,6 +52,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Frank_Pallone
 wikipedia-extract: Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S. representative for New Jersey's 6th congressional district since 1988. He is a member of the Democratic Party.
 born: "1951-10-30"
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

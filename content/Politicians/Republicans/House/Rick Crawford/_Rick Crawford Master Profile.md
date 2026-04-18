@@ -46,9 +46,10 @@ bioguide-id: C001087
 top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[AMERICANS FOR JOB SECURITY]] · [[REVERE AMERICA]] · [[Revere America]] · [[Americans for Job Security]]"
 donors: "[[Revere America]] · [[AMERICANS FOR JOB SECURITY]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[REVERE AMERICA]] · [[Americans for Job Security]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 23
-bills-cosponsored: 201
+bills-sponsored: 140
+bills-cosponsored: 1608
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Armed Forces and National Security"
 ---
 

@@ -34,6 +34,9 @@ total-received: $1,272,557
 fec-candidate-id: H4MO01134
 bioguide-id: B001324
 urls-first-triaged: "2026-04-15"
+bills-sponsored: 25
+bills-cosponsored: 401
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 ---
 
 

@@ -38,9 +38,10 @@ last-enriched: "2026-04-10"
 bioguide-id: B001230
 donors: "[[UAW - United Auto Workers]] · [[National Nurses United]] · [[Insurance Industry]] · [[AFGE - American Federation of Government Employees]] · [[Votevets]] · [[Blue Cross Blue Shield Association]] · [[Protect the Vote]] · [[LET AMERICA VOTE PAC]] · [[HUMAN RIGHTS CAMPAIGN EQUALITY VOTES]] · [[Let America Vote PAC]] · [[Human Rights Campaign Equality Votes]] · [[Emily's List]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 76
-bills-cosponsored: 503
+bills-sponsored: 725
+bills-cosponsored: 6796
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

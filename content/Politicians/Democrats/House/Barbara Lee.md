@@ -16,8 +16,8 @@ reenrich-reason: run congress pipeline
 donors: "[[Tim Dunn]] · [[Rebekah Mercer]] · [[Kucinich Action PAC]] · [[CARE ACTION]] · [[SANDRE SWANSON FOR ASSEMBLY 2010]] · [[TOGETHER WE THRIVE]] · [[Courage California Super Pac]] · [[Together We Thrive]] · [[KUCINICH ACTION PAC]] · [[Sandre Swanson for Assembly 2010]] · [[Care Action]] · [[California Nurses Association]] · [[AFSCME - American Federation of State County and Municipal Employees]]"
 bioguide-id: L000551
 govtrack-id: 400237
-bills-sponsored: 59
-bills-cosponsored: 1031
+bills-sponsored: 186
+bills-cosponsored: 1649
 related: ">- · [[Adam Schiff]] · [[Rebekah Mercer]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $375,046
@@ -36,6 +36,7 @@ issues:
   - Government Operations and Politics
   - Health
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

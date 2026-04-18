@@ -36,9 +36,10 @@ reenrich-reason: run fec pipeline; run voting pipeline; run congress pipeline; r
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • FEC data is missing entirely. This profile was promoted to ready without ever having fec enrichment run on it. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: "H4NC05146"
-bills-sponsored: 20
-bills-cosponsored: 137
+bills-sponsored: 259
+bills-cosponsored: 1747
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Government Operations and Politics"
 ---
 

@@ -62,9 +62,10 @@ wikidata-id: Q26436159
 wikipedia-url: https://en.wikipedia.org/wiki/Ilhan_Omar
 wikipedia-extract: Ilhan Abdullahi Omar is an American politician serving as the U.S. representative for Minnesota's 5th congressional district since 2019. She is a member of the Democratic Party.
 born: "1982-10-04"
-bills-sponsored: 25
-bills-cosponsored: 534
+bills-sponsored: 122
+bills-cosponsored: 2177
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

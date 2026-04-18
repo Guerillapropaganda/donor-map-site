@@ -37,9 +37,10 @@ issues:
   - Government Operations and Politics
   - Health
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 29
-bills-cosponsored: 509
+bills-sponsored: 223
+bills-cosponsored: 3828
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

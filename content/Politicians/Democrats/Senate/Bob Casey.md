@@ -21,9 +21,10 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 last-enriched: "2026-04-13"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 154
-bills-cosponsored: 489
+bills-sponsored: 1263
+bills-cosponsored: 4166
 bills-enacted: 2
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

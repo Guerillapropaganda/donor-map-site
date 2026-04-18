@@ -14,8 +14,8 @@ district: "21"
 committees:
   - "Judiciary"
 govtrack-id: 412826
-bills-sponsored: 49
-bills-cosponsored: 682
+bills-sponsored: 215
+bills-cosponsored: 1180
 website: "https://roy.house.gov"
 phone: "202-225-4236"
 total-received: "$782,581"
@@ -42,6 +42,7 @@ issues:
   - "Housing and Community Development"
   - "Immigration"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

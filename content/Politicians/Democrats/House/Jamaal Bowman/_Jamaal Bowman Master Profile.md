@@ -26,8 +26,8 @@ total-received: $6,052,176
 fec-candidate-id: H0NY16143
 bioguide-id: B001223
 govtrack-id: 456839
-bills-sponsored: 14
-bills-cosponsored: 523
+bills-sponsored: 37
+bills-cosponsored: 1108
 source-types:
   - FEC
   - GovTrack
@@ -56,6 +56,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Jamaal_Bowman
 wikipedia-extract: Jamaal Anthony Bowman is an American politician and former educator who served from 2021 to 2025 as the United States representative for New York's 16th congressional district.
 born: "1976-04-01"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

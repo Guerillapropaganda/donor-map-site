@@ -57,9 +57,10 @@ fec-debt: "225.58"
 top-donors: "[[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[CARE ACTION NOW INC.]], [[DOLORES HUERTA ACTION FUND]], [[DEMOCRATIC ALLIANCE FOR ACTION]], [[Care Action Now Inc.]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Democratic Alliance for Action]], [[Dolores Huerta Action Fund]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]]"
 donors: "[[Dolores Huerta Action Fund]], [[ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC]], [[Care Action Now Inc.]], [[CARE ACTION NOW INC.]], [[COALITION TO GROW SAN FRANCISCO - GROW SF PAC]], [[DEMOCRATIC ALLIANCE FOR ACTION]], [[DOLORES HUERTA ACTION FUND]], [[Coalition to Grow San Francisco - Grow Sf PAC]], [[Democratic Alliance for Action]], [[Alice B. Toklas LGBTQ Democratic Club Federal PAC]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 105
-bills-cosponsored: 684
+bills-sponsored: 518
+bills-cosponsored: 2027
 bills-enacted: 5
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

@@ -42,8 +42,8 @@ stock-trade-tickers:
   - "DISH"
   - "EBAY"
 govtrack-id: 412598
-bills-sponsored: 156
-bills-cosponsored: 670
+bills-sponsored: 970
+bills-cosponsored: 4125
 website: https://www.booker.senate.gov
 phone: 202-224-3224
 related: "[[PhRMA Kills Drug Negotiation From Both Sides]] · [[Joe Biden Master Profile]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[PhRMA]] · [[Pfizer]] · [[Merck]] · [[Johnson & Johnson]] · [[Silicon Valley Democratic Donor Network]] · [[Mark Zuckerberg]] · [[Pharmaceutical Industry Bloc]] · [[Wall Street Finance Networks]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Elizabeth Warren Master Profile]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]]"
@@ -59,6 +59,7 @@ reenrich-reason: re-run congress pipeline
 bioguide-id: B001288
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

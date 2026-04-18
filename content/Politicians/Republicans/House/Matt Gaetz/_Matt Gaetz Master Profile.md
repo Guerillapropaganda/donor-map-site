@@ -41,9 +41,10 @@ issues:
   - Immigration
 donors: "[[Protect Freedom Political Action Committee]] · [[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[Florida Conservative Fund]] · [[FLORIDA CONSERVATIVE FUND]] · [[Citizen Super PAC]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 43
-bills-cosponsored: 691
+bills-sponsored: 96
+bills-cosponsored: 1727
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Government Operations and Politics"
 ---
 

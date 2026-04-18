@@ -33,9 +33,10 @@ needs-reenrichment: true
 reenrich-reason: re-run fec pipeline; re-run congress pipeline
 bioguide-id: C001053
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-bills-sponsored: 31
-bills-cosponsored: 175
+bills-sponsored: 227
+bills-cosponsored: 3256
 bills-enacted: 4
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Native Americans"
 ---
 

@@ -20,8 +20,8 @@ last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline
 govtrack-id: 412596
-bills-sponsored: 14
-bills-cosponsored: 67
+bills-sponsored: 123
+bills-cosponsored: 1080
 website: https://jasonsmith.house.gov
 phone: 202-225-4404
 donors: "[[American Gaming Association]] · [[National Association of Manufacturers]] · [[Tech Industry]] · [[National Restaurant Association]] · [[ActBlue]] · [[Real Estate Roundtable]]"
@@ -40,6 +40,7 @@ issues:
   - Foreign Trade and International Finance
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • BIOGUIDE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

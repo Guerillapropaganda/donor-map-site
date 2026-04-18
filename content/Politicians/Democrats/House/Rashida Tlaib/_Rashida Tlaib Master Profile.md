@@ -16,8 +16,8 @@ committees:
   - House Committee on Financial Services
   - House Committee on Oversight and Government Reform
 govtrack-id: 412787
-bills-sponsored: 30
-bills-cosponsored: 922
+bills-sponsored: 130
+bills-cosponsored: 3200
 website: https://tlaib.house.gov
 phone: 202-225-5126
 total-received: $1,896,063
@@ -67,6 +67,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Rashida_Tlaib
 wikipedia-extract: Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. representative from Michigan since 2019, representing the state's 12th congressional district since 2023.
 born: "1976-07-24"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 
