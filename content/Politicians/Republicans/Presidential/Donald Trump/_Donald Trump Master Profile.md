@@ -303,7 +303,7 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 
 <!-- template:auto:timeline:end -->
 
-## Connections to Existing Vault
+## Related Figures
 
 **Bianco:** Trump endorsement, America First Legal sanctuary lawsuit ([[_Stephen Miller Master Profile|Stephen Miller]]), immigration enforcement cooperation, gubernatorial campaign positioning. Bianco is the local-level implementation of the Trump model, constitutional sheriff ideology meets MAGA politics. [See: [[287(g) and the Sanctuary State Contradiction]] | [[The Gubernatorial Pivot - From Sheriff to Culture War Candidate]]]
 
