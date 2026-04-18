@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Affordable Chicago Now PAC]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]]"
+related: "[[2026 Primary Race - IL-8 Bean vs. Ahmed]] · [[Melissa Bean Master Profile]] · [[Daniel Biss Master Profile]] · [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Affordable Chicago Now PAC]] · [[United Democracy Project - UDP]] · [[Fairshake PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]] · [[House Majority PAC]]"
 cross-vault-triangulation-count: 4
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"

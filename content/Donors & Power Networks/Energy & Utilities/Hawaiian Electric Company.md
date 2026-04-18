@@ -21,7 +21,7 @@ top-naics-code: "221122"
 lei: "549300PQE8D806LWQV52"
 lei-jurisdiction: "US-HI"
 lei-parent: "HAWAIIAN ELECTRIC INDUSTRIES, INC."
-related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]] · [[PG&E - Pacific Gas and Electric]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]]"
+related: "[[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Josh Green Master Profile]] · [[PG&E - Pacific Gas and Electric]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]]"
 federal-register-mentions: 25
 regulatory-agencies:
   - "Antitrust Division"

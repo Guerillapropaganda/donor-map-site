@@ -16,7 +16,7 @@ nonprofit-status: 501(c)(4)
 last-enriched: '2026-04-09'
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]] · [[Chuck Schumer]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[Emilys List]] · [[Elect Chicago Women PAC]] · [[Democratic Senatorial Campaign Committee]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]]"
+related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]] · [[Chuck Schumer]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[Emilys List]] · [[Elect Chicago Women PAC]] · [[Democratic Senatorial Campaign Committee]] · [[DSCC - Democratic Senatorial Campaign Committee]] · [[Congressional Leadership Fund]] · [[Club for Growth]] · [[Americans for Prosperity]] · [[America PAC - Elon Musk]]"
 court-cases: 36
 court-jurisdictions:
   - Court of Appeals for the Fourth Circuit
