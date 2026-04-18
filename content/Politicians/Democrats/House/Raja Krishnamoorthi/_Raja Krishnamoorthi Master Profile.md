@@ -29,8 +29,8 @@ issues:
 total-received: $3,915,957
 fec-candidate-id: H6IL08147
 govtrack-id: 412701
-bills-sponsored: 27
-bills-cosponsored: 630
+bills-sponsored: 161
+bills-cosponsored: 2501
 website: https://krishnamoorthi.house.gov
 phone: 202-225-3711
 related: "[[Illinois Senate Primary Money War]] · [[Crypto vs. Institutional Democrats in Illinois]] · [[_JB Pritzker Master Profile|JB Pritzker]] · [[_Juliana Stratton Master Profile|Juliana Stratton]] · [[Tech Industry|Tech Industry Bloc]] · [[Palantir]] · [[Meta]] · [[JB Pritzker (Donor Network)]] · [[JB Pritzker - Donor Network]]"
@@ -51,6 +51,7 @@ born: "1973-07-19"
 top-donors: "[[Planned Parenthood Votes]], [[NEA ADVOCACY FUND]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[TOGETHER WE THRIVE]], [[VICTORY FOR SCHAUMBURG]], [[NEA Advocacy Fund]], [[Victory for Schaumburg]], [[Together We Thrive]]"
 donors: "[[Victory for Schaumburg]], [[NEA Advocacy Fund]], [[Together We Thrive]], [[VICTORY FOR SCHAUMBURG]], [[Planned Parenthood Votes]], [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]], [[NEA ADVOCACY FUND]], [[TOGETHER WE THRIVE]]"
 bills-enacted: 1
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

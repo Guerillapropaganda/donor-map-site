@@ -35,8 +35,8 @@ top-donors:
   - Accel Partners ($177K career)
   - Andreessen Horowitz
 govtrack-id: 412684
-bills-sponsored: 43
-bills-cosponsored: 523
+bills-sponsored: 182
+bills-cosponsored: 3600
 website: https://khanna.house.gov
 phone: 202-225-2631
 total-received: $9,579,628
@@ -74,6 +74,7 @@ wikipedia-url: https://en.wikipedia.org/wiki/Ro_Khanna
 wikipedia-extract: Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. representative from California's 17th congressional district since 2017.
 born: "1976-09-13"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

@@ -24,8 +24,8 @@ top-donors:
   - "Paul Singer"
   - "Defense Industry"
 govtrack-id: 412508
-bills-sponsored: 72
-bills-cosponsored: 274
+bills-sponsored: 556
+bills-cosponsored: 1918
 website: "https://www.cotton.senate.gov"
 phone: "202-224-2353"
 source-types:
@@ -40,6 +40,7 @@ last-enriched: "2026-04-10"
 bioguide-id: "C001095"
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "International Affairs"
 ---
 

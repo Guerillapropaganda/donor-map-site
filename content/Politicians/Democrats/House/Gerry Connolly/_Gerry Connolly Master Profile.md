@@ -39,9 +39,10 @@ issues:
   - "Health"
   - "International Affairs"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 47
-bills-cosponsored: 492
+bills-sponsored: 355
+bills-cosponsored: 4563
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

@@ -45,9 +45,10 @@ wikidata-id: Q218217
 wikipedia-url: https://en.wikipedia.org/wiki/Zoe_Lofgren
 wikipedia-extract: Susan Ellen "Zoe" Lofgren is an American politician and lawyer serving as a U.S. representative from California.
 born: "1947-12-21"
-bills-sponsored: 18
-bills-cosponsored: 565
+bills-sponsored: 370
+bills-cosponsored: 8354
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

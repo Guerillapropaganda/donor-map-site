@@ -42,8 +42,8 @@ known-gaps:
 donors: "[[NORPAC]] · [[Brownstein Hyatt Farber Schreck]] · [[FAIR SHARE ACTION]] · [[SMP]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[Fair Share Action]] · [[ESAFUND]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]] · [[Senate Leadership Fund]]"
 govtrack-id: 456797
-bills-sponsored: 49
-bills-cosponsored: 330
+bills-sponsored: 225
+bills-cosponsored: 991
 website: https://www.hickenlooper.senate.gov
 phone: 202-224-5941
 opensanctions-status: pep-sanctioned
@@ -64,6 +64,7 @@ internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: H000273. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID — same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

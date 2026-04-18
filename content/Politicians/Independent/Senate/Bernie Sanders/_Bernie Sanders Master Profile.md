@@ -57,9 +57,10 @@ editorial-notes: "Depth review 2026-04-10. BODY IS EXCEPTIONAL , arguably the st
 last-enriched: "2026-04-11"
 donors: "[[Senate Majority PAC]] · [[Pharmaceutical Industry]] · [[Democratic Small Dollar Networks]] · [[J Street]] · [[Small Dollar Donors - ActBlue]] · [[National Nurses United]] · [[Mohammed bin Salman]] · [[INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND]] · [[INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC]] · [[PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE]] · [[NRA Political Victory Fund]] · [[International Longshore and Warehouse Union -- Political Action Fund]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 50
-bills-cosponsored: 495
+bills-sponsored: 1164
+bills-cosponsored: 7839
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

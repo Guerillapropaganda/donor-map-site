@@ -36,9 +36,10 @@ last-enriched: "2026-04-11"
 bioguide-id: M001198
 donors: "[[Western Growers Association]] · [[ESAFUND]] · [[KANSAS AG COMMUNITIES COALITION]] · [[Kansas Farmers Fund]] · [[House Liberty Project]] · [[Kansas Ag Communities Coalition]]"
 urls-first-triaged: "2026-04-15"
-bills-sponsored: 69
-bills-cosponsored: 426
+bills-sponsored: 504
+bills-cosponsored: 1776
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Health"
 ---
 

@@ -76,11 +76,12 @@ wikipedia-url: "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
 wikipedia-extract: "Hakeem Sekou Jeffries is an American politician and attorney who has served as House minority leader and leader of the House Democratic Caucus since 2023."
 born: "1970-08-04"
 govtrack-id: 412561
-bills-sponsored: 1
-bills-cosponsored: 36
+bills-sponsored: 133
+bills-cosponsored: 1582
 website: "https://jeffries.house.gov"
 phone: "202-225-5936"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Civil Rights and Liberties, Minority Issues"
 ---
 

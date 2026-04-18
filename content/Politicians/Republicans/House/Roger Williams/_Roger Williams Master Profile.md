@@ -22,8 +22,8 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 govtrack-id: 412578
-bills-sponsored: 28
-bills-cosponsored: 223
+bills-sponsored: 138
+bills-cosponsored: 1367
 website: https://williams.house.gov
 phone: 202-225-9896
 related: "[[_Donald Trump Master Profile|Trump]]"
@@ -43,6 +43,7 @@ issues:
 top-donors: "[[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Activate America]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]], [[Committee for Defending American Values]]"
 donors: "[[Committee for Defending American Values]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[COMMITTEE FOR DEFENDING AMERICAN VALUES]], [[Activate America]]"
 bills-enacted: 0
+bills-data-scope: "Career total synced from auto:congress-legislation (Congress.gov API) on 2026-04-17 via sync-bills-frontmatter-from-auto-block.cjs"
 top-policy-area: "Finance and Financial Sector"
 ---
 

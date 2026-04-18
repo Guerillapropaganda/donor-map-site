@@ -229,6 +229,26 @@ Cloudflare/browser `Cache-Control: max-age=14400` gives a 4-hour browser cache o
 
 ---
 
+## Bills frontmatter vs auto-block drift
+
+Politicians have bills metadata in two places that can drift apart:
+
+1. **`auto:congress-legislation` body block** — populated from Congress.gov API, shows **career totals** across all terms served. "Scope | Career Total" header.
+2. **Frontmatter `bills-sponsored`/`bills-cosponsored`/`bills-enacted` fields** — previously overwritten by `scripts/ingest-congress-bills-bulk.cjs` with **single-congress** (usually 118th) totals. Clobbered the larger API career numbers.
+
+**Symptom:** Pelosi showed `bills-sponsored: 2` (118th only) in the data panel while her auto-block correctly reported `199` (career). Across 85 politician profiles, frontmatter numbers were drastically understated.
+
+**Fix shipped 2026-04-17:**
+- `scripts/sync-bills-frontmatter-from-auto-block.cjs` — one-shot sync that reads the auto-block's career numbers and writes them back to frontmatter when larger. Ran against 85 profiles. Adds a `bills-data-scope` field to each profile marking the source.
+- `scripts/ingest-congress-bills-bulk.cjs` — added a guard so it no longer clobbers larger existing values. Pass `--force-bills-overwrite` to override when doing a legitimate full-career bulk re-ingest.
+
+**Operational pattern going forward:**
+- Congress.gov API pipeline is source of truth for career totals
+- Bulk XML ingest stays single-congress (fast, incremental) but writes only when new value > existing
+- Rerun `sync-bills-frontmatter-from-auto-block.cjs` after any full API pipeline refresh to pick up new career data
+
+---
+
 ## Open questions / backlog
 
 - [ ] Build Senate + House roll-call bulk ingest pipeline so we don't need per-profile CSVs forever
