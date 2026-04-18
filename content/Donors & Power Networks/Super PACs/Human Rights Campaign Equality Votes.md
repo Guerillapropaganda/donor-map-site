@@ -52,6 +52,54 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $6.0M |
+| Money out: IE spending FOR candidates | $5.9M |
+| Money out: IE spending AGAINST candidates | $2.4M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| HUMAN RIGHTS CAMPAIGN PAC (DC) | $1.3M | — |
+| PRIORITIES USA ACTION (DC) | $500K | — |
+| WEINHOLTZ, MICHAEL (CA) | $421K | CHG HEALTHCARE SERVICES |
+| COX, MORGAN (TX) | $350K | MARQUIS GROUP |
+| HUMAN RIGHTS CAMPAIGN (DC) | $292K | — |
+| SMITH, YEARDLEY (CA) | $261K | 20TH CENTURY FOX |
+| MACFARLANE, SETH (CA) | $200K | SELF |
+| STRYKER, JON (MI) | $200K | — |
+| ASHER, DESIREE (NY) | $175K | TLFO |
+| COX, MORGAN W. (TX) | $175K | SELF-EMPLOYED |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00009423 | $1.0M |
+| P80000722 | $954K |
+| S0GA00559 | $613K |
+| S8AZ00197 | $498K |
+| S0NC00202 | $430K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $999K |
+| S8AZ00221 | $473K |
+| S2NV00183 | $367K |
+| S8WI00224 | $178K |
+| H8CA49082 | $136K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

@@ -46,6 +46,51 @@ individual-contributions: 26761
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $520K |
+| Money out: IE spending FOR candidates | $158K |
+| Money out: IE spending AGAINST candidates | $638K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| MAHON, ANNIE (DC) | $110K | SELF-EMPLOYED |
+| MOVEMENT VOTER PAC (MA) | $100K | — |
+| UNITED WE DREAM ACTION (DC) | $100K | — |
+| GILMORE, ELSPETH (NY) | $100K | HAND IN HAND:THE DOMESTIC EMPLOYERS NE |
+| FARBMAN, LEO (WA) | $50K | NOT EMPLOYED |
+| JACOBS, BETH (NY) | $50K | JG3 |
+| KATZIN, DONNA (NY) | $10K | SHARED INTEREST |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80000722 | $27K |
+| S8GA00180 | $21K |
+| S0GA00559 | $21K |
+| H8FL26039 | $19K |
+| S0TX00233 | $14K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $529K |
+| S2TX00106 | $29K |
+| S8AZ00221 | $26K |
+| S4NC00162 | $25K |
+| H0FL26036 | $17K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

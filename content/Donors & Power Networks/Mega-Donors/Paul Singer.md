@@ -71,6 +71,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $49.0M across 45 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| AMERICAN UNITY PAC INC | $8.2M | 2012→2020 |
+| UNITED DEMOCRACY PROJECT ('UDP') | $5.5M | 2022→2026 |
+| ESAFUND | $5.4M | 2014→2020 |
+| MAKE AMERICA GREAT AGAIN INC. | $5.0M | 2024→2024 |
+| AMERICAN CROSSROADS | $2.6M | 2014→2014 |
+| OUR PRINCIPLES PAC | $2.5M | 2016→2016 |
+| PRESERVE AMERICA PAC | $2.5M | 2024→2024 |
+| CONSERVATIVES FOR AMERICAN EXCELLENCE INC. | $2.5M | 2024→2026 |
+| KEYSTONE RENEWAL PAC | $2.0M | 2024→2024 |
+| THE SENTINEL ACTION FUND | $1.5M | 2024→2026 |
+| HONOR PENNSYLVANIA, INC. | $1.5M | 2022→2022 |
+| ESAFUND | $1.0M | 2020→2020 |
+| RESTORE OUR FUTURE, INC. | $1.0M | 2012→2012 |
+| GLCF, INC. | $1.0M | 2024→2026 |
+| FIGHTING FOR OHIO FUND | $750K | 2016→2016 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #paul-singer #donor #hedge-fund #elliott-management #vulture-fund #argentina #alito #pro-israel #class-analysis #follow-the-money
 
 ---

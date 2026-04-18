@@ -43,6 +43,51 @@ cash-on-hand: 510
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $426K |
+| Money out: IE spending FOR candidates | $26K |
+| Money out: IE spending AGAINST candidates | $433K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| GOLDMAN, MARC S. (FL) | $85K | N/A |
+| HAAR, STANLEY P. (FL) | $78K | HAAR CAPITAL MANAGEMENT, LLC |
+| FLORIDA PAIN  REHABILITATION ASSOC., PA (FL) | $50K | — |
+| KAUFMAN, DANIEL (FL) | $50K | REAGAN WIRELESS |
+| KAUFMAN, RENEE (FL) | $25K | N/A |
+| ROSEN, JEFFREY H. (FL) | $25K | TRIANGLE FINANCIAL SERVICES |
+| MEUCHADIM OF NEW MEXICO, LP (FL) | $25K | — |
+| MEUCHADIM OF MIAMI, LLC (FL) | $25K | — |
+| TARTELL, PAUL (FL) | $20K | SELF-EMPLOYED |
+| TOPPER, LEWIS E MR. (FL) | $17K | INTEGRATED FOOD SYSTEMS, INC. |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8FL22038 | $18K |
+| H2FL22098 | $8K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80003338 | $367K |
+| H0MN04049 | $16K |
+| H8VA05155 | $16K |
+| H8MI13250 | $16K |
+| H8MN05239 | $16K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

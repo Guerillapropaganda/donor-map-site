@@ -46,6 +46,46 @@ individual-contributions: 397693
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $10.1M |
+| Money out: IE spending FOR candidates | $2.6M |
+| Money out: IE spending AGAINST candidates | $1.1M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| COOPERATIVE OF AMERICAN PHYSICIANS (CA) | $10.0M | — |
+| COOPERATIVE OF AMERICAN PHYSICIANS FEDERAL POLITICAL ACTION COMMITTEE (CA) | $76K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4AR00103 | $392K |
+| S6NV00218 | $300K |
+| H4CA20082 | $283K |
+| S4AK00214 | $237K |
+| S0KS00315 | $140K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4IA00087 | $258K |
+| S2IN00091 | $253K |
+| S2WI00219 | $188K |
+| S2NV00209 | $169K |
+| S6MT00162 | $137K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

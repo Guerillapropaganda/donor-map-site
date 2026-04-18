@@ -48,6 +48,70 @@ contributions-to-committees: 12097
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $12.6M |
+| Money out: direct contributions to candidates | $624K |
+| Money out: IE spending FOR candidates | $3.5M |
+| Money out: IE spending AGAINST candidates | $1.7M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| INDIVISIBLE PROJECT (DC) | $4.9M | — |
+| INDIVISIBLE PROJECT, INC. (DC) | $1.5M | — |
+| JURVETSON, KARLA (CA) | $1.1M | SELF |
+| DEMOCRACY PAC (DC) | $750K | — |
+| GLASER INVESTMENTS (WA) | $250K | — |
+| OUR AMERICAN FUTURE ACTION (DC) | $250K | — |
+| NICKERSON, KENNETH (MA) | $200K | NONE |
+| LONG RIDGE ACTION FUND (CA) | $200K | — |
+| INDIVISIBLE ACTION ARIZONA (DC) | $153K | — |
+| STRATEGIC VICTORY FUND IE PAC (NC) | $150K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6WA07458 | $39K |
+| H8IL03102 | $31K |
+| S0AZ00350 | $20K |
+| S0GA00559 | $20K |
+| H8MN05239 | $19K |
+| H0NY17174 | $16K |
+| H6MD03292 | $14K |
+| S0NY00410 | $14K |
+| H8NY19181 | $13K |
+| H8TX25159 | $13K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80000722 | $564K |
+| P60000722 | $546K |
+| S0GA00559 | $476K |
+| P00009423 | $283K |
+| S8GA00180 | $259K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2IL03154 | $244K |
+| P80001571 | $201K |
+| S4GA11285 | $187K |
+| H8MA02041 | $151K |
+| S8AZ00221 | $132K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

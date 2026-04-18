@@ -53,6 +53,58 @@ employee-donor-count: 11
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $2.4M |
+| Money out: direct contributions to candidates | $105K |
+| Money out: IE spending FOR candidates | $25K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| MATTHEWS, SUZANN W. (VA) | $90K | N/A |
+| RICE, EDWARD HART (VA) | $60K | SELF-EMPLOYED |
+| KLARMAN, SETH (MA) | $50K | BAUPOST GROUP |
+| BILLS, MICHAEL D. (VA) | $40K | BLUESTREAM ASSET MANAGEMENT |
+| HEMPHILL, ROBERT F. JR. (MD) | $35K | AES CORPORATION |
+| FRIED, BARBARA (VA) | $33K | FRIED COMPANIES |
+| LIGON, W. AUSTIN (VA) | $31K | CARMAX |
+| LITTLE, CHRISTOPHER M (VA) | $30K | RETIRED |
+| MURRAY, BRUCE R. (VA) | $30K | EAST MARKET SQUARE |
+| LEDLEY, CHARLES H. (NY) | $30K | CORNWALL CAPITAL |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6VA00093 | $10K |
+| H6VA01117 | $9K |
+| H2VA09010 | $8K |
+| H6VA02057 | $7K |
+| H8VA05064 | $7K |
+| H6VA02099 | $6K |
+| S6VA00127 | $5K |
+| H6VA10183 | $5K |
+| H2VA04060 | $5K |
+| H4VA08034 | $5K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80000235 | $10K |
+| S6VA00127 | $8K |
+| H6VA01117 | $4K |
+| H6VA02099 | $3K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

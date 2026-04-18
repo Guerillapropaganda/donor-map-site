@@ -68,6 +68,34 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $2.9M across 12 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $1.3M | 2022→2022 |
+| SMP | $1.0M | 2022→2022 |
+| VOTE REV PAC | $350K | 2020→2020 |
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $110K | 2022→2022 |
+| ALABAMA CONSERVATIVES FUND | $105K | 2022→2022 |
+| NEW HAMPSHIRE DEMOCRATIC STATE COMMITTEE | $10K | 2022→2022 |
+| DEMOCRATIC EXECUTIVE COMMITTEE OF FLORIDA | $10K | 2022→2022 |
+| NEW YORK STATE DEMOCRATIC COMMITTEE | $10K | 2022→2022 |
+| DEMOCRATIC PARTY OF VIRGINIA - FEDERAL CAMPAIGN COMMITTEE | $10K | 2022→2022 |
+| MASSACHUSETTS DEMOCRATIC STATE COMMITTEE-FED FUNDS | $10K | 2022→2022 |
+| ARIZONA DEMOCRATIC PARTY FEDERAL ACCOUNT | $-10K | 2024→2024 |
+| KANSAS DEMOCRATIC STATE COMMITTEE | $-10K | 2024→2024 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #sbf #ftx #crypto #fraud #democratic-donor #bipartisan #effective-altruism
 
 ---

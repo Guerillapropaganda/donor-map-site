@@ -50,6 +50,54 @@ contributions-to-committees: 1010000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $49.9M |
+| Money out: IE spending FOR candidates | $21.0M |
+| Money out: IE spending AGAINST candidates | $6.4M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| YASS, JEFF MR. (PA) | $41.4M | SIG |
+| KENTUCKY FREEDOM PAC (GA) | $3.0M | — |
+| RUFER, CHRIS (CA) | $950K | THE MORNING STAR COMPANY |
+| MACRICOSTAS, GEORGE (NV) | $751K | RAGING WIRE |
+| ANSELMO, REVERGE (CT) | $730K | SELF EMPLOYED |
+| SCHOOL FREEDOM FUND (DC) | $700K | — |
+| CLUB FOR GROWTH ACTION (DC) | $485K | — |
+| GARSCHINA, KENNETH (NY) | $279K | MASON CAPITAL |
+| HEAVIN, GARY (TX) | $250K | CURVES INTERNATIONAL |
+| VAN WOLFSWINKEL, RANDALL (CA) | $150K | FIRST TEXAS HOMES |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0TN00144 | $1.5M |
+| H4VA07200 | $1.5M |
+| H2MN01165 | $1.4M |
+| S2OK00145 | $1.0M |
+| H2KY04121 | $957K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6TX12060 | $1.2M |
+| S4MI00595 | $1.1M |
+| S0GA00559 | $1.0M |
+| S8GA00180 | $1.0M |
+| S6MT00162 | $625K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

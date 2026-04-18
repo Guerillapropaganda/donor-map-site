@@ -47,6 +47,43 @@ related: "[[Sam Graves]]"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money out: direct contributions to candidates | $19.3M |
+| Money out: IE spending FOR candidates | $334K |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0MO06073 | $127K |
+| H2PA09035 | $85K |
+| H6AK00045 | $81K |
+| H4WA05077 | $81K |
+| H6PA09051 | $80K |
+| S0IA00028 | $78K |
+| H8WI01024 | $77K |
+| H8ID02064 | $71K |
+| H8CA41063 | $68K |
+| S6ME00159 | $65K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6NE02125 | $75K |
+| H0KS03236 | $75K |
+| H4GA03068 | $25K |
+| S6OR00094 | $12K |
+| S2MN00126 | $12K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

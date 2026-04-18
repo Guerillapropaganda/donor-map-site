@@ -51,6 +51,54 @@ related: "[[Shelley Moore Capito]]"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $20.6M |
+| Money out: IE spending FOR candidates | $11.7M |
+| Money out: IE spending AGAINST candidates | $11.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| REPUBLICAN MAIN STREET PARTNERSHIP (DC) | $3.2M | — |
+| MAIN STREET ADVOCACY FUND (DC) | $1.8M | — |
+| LIUNA BUILDING AMERICA (DC) | $1.6M | — |
+| UNITED ASSOCIATION OF JOURNEYMEN  APPRENTICES OF THE PIPE FITTING INDUSTRY (MD) | $1.3M | — |
+| INTERNATIONAL UNION OF OPERATING ENGINEERS EPEC (DC) | $900K | — |
+| WORKING FOR WORKING AMERICANS (DC) | $700K | — |
+| EPSTEIN, MARK (MD) | $700K | MARK EPSTEIN & ASSOCIATES |
+| LETTER CARRIER POLITICAL FUND (DC) | $665K | — |
+| EARN INTERNATIONAL UNION OF OPERATING ENGINEERS (DC) | $625K | — |
+| STRONG LEADERS FUND (VA) | $620K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6PA08277 | $1.6M |
+| H8ID02064 | $967K |
+| H2MN01223 | $796K |
+| H6NE02125 | $638K |
+| H4WA04104 | $604K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2NH01270 | $1.3M |
+| H2NE02132 | $1.0M |
+| H2WA04173 | $660K |
+| H0MI06152 | $604K |
+| H4OR05304 | $520K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

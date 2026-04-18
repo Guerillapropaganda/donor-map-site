@@ -47,6 +47,70 @@ contributions-to-committees: 32600
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $12.6M |
+| Money out: direct contributions to candidates | $1.2M |
+| Money out: IE spending FOR candidates | $3.8M |
+| Money out: IE spending AGAINST candidates | $26.6M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| GIFFORDS (DC) | $3.2M | — |
+| MOSTYN LAW FIRM, PC (TX) | $750K | — |
+| BENIOFF, MARC R. (CA) | $500K | SALESFORCE.COM |
+| BALLMER, CONNIE E. (WA) | $500K | PARTNERS FOR OUR CHILDREN |
+| WEAVER, DELORES BARR (FL) | $500K | JOHN GORRIE INVESTMENT GROUP, LLC |
+| CONWAY, RONALD C. (CA) | $500K | SV ANGEL LLC |
+| SIMMONS, LISA K. (TX) | $350K | HAROLD SIMMONS FOUNDATION |
+| PARKER, SEAN (NY) | $250K | SELF |
+| BLOOMBERG, MICHAEL (NY) | $250K | CITY OF NEW YORK |
+| DALE, KELLY (CA) | $250K | N/A |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0GA00559 | $15K |
+| H8CA01109 | $14K |
+| H2NY10092 | $14K |
+| H8GA06393 | $14K |
+| H8CA05035 | $13K |
+| H0CA25154 | $11K |
+| H2CT05131 | $10K |
+| S0CO00211 | $10K |
+| H6FL07140 | $10K |
+| S8MN00578 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8NC00239 | $975K |
+| H4PA08074 | $374K |
+| H6MN02131 | $330K |
+| S6ME00159 | $312K |
+| S8CO00172 | $272K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2CO00241 | $2.7M |
+| S0NH00235 | $2.5M |
+| S2PA00638 | $2.5M |
+| H2AZ08102 | $1.8M |
+| P80001571 | $1.7M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

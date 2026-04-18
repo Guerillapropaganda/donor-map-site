@@ -44,6 +44,70 @@ cash-on-hand: 1568
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.1M |
+| Money out: direct contributions to candidates | $121K |
+| Money out: IE spending FOR candidates | $1.4M |
+| Money out: IE spending AGAINST candidates | $1.0M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| PEED, THOMAS J (NE) | $410K | SANDHILLS PUBLISHING |
+| AMERICANS FOR A CONSERVATIVE DIRECTION (DC) | $325K | — |
+| WESTERN GROWERS ASSOCIATION (CA) | $120K | — |
+| SINGER, PAUL (NY) | $100K | ELLIOTT MANAGEMENT |
+| CAPITOL 6 ADVISORS LLC (DE) | $50K | — |
+| BARKER, DAVID R (IA) | $25K | BARKER APARTMENTS |
+| RASTETTER, BRUCE L. (IA) | $20K | SUMMIT GROUP |
+| RYAN, PATRICK G (IL) | $15K | RYAN SPECIALTY GROUP |
+| YOUNG, JAMES (OR) | $15K | NONE |
+| GROFF, SUSAN (CA) | $15K | NORTHWEST EXCAVATING |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0IA03121 | $15K |
+| S0IA00028 | $14K |
+| H2IA05072 | $12K |
+| H4IA03081 | $8K |
+| H0IA01117 | $6K |
+| H8IA02043 | $5K |
+| H0IL14056 | $5K |
+| H8CA36170 | $5K |
+| H0IA04145 | $5K |
+| H4IA05102 | $5K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8CA49124 | $366K |
+| H6MI04113 | $307K |
+| H8CA49082 | $304K |
+| H6CA48245 | $122K |
+| H8CA39240 | $113K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2NE01118 | $418K |
+| S8OR00207 | $165K |
+| H8CA49090 | $122K |
+| H8TN06102 | $105K |
+| H8CA10126 | $98K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

@@ -46,6 +46,52 @@ contributions-to-committees: 1817
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $35.0M |
+| Money out: IE spending FOR candidates | $1.9M |
+| Money out: IE spending AGAINST candidates | $32.2M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| ADELSON, MIRIAM (NV) | $10.0M | ADELSON DRUG CLINIC |
+| ADELSON, SHELDON (NV) | $10.0M | LAS VEGAS SANDS INC. |
+| RICKETTS, MARLENE M (NE) | $2.5M | RETIRED |
+| RICKETTS, J. JOE (WY) | $1.9M | SELF-EMPLOYED |
+| SINGER, PAUL E. (NY) | $1.3M | ELLIOTT MANAGEMENT CORP. |
+| RICKETTS, MARLENE M. (NE) | $1.2M | N/A |
+| MCMAHON, LINDA E. (CT) | $1.2M | SELF-EMPLOYED |
+| SCHWAB, CHARLES R. (CA) | $1.0M | CHARLES SCHWAB CORPORATION |
+| SCHWAB, HELEN (CA) | $1.0M | SELF EMPLOYED |
+| GRIFFIN, KENNETH C (IL) | $1.0M | CITADEL LLC |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $1.7M |
+| H0IL17083 | $152K |
+| H0TX13228 | $44K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00003392 | $24.2M |
+| H8CA05035 | $1.9M |
+| P80000722 | $1.8M |
+| S4VT00033 | $1.7M |
+| S2MA00170 | $1.0M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

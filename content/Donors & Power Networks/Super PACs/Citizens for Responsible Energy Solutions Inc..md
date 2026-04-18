@@ -48,6 +48,32 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money out: direct contributions to candidates | $23K |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0NH00235 | $7K |
+| S0IL00261 | $4K |
+| S6ME00159 | $2K |
+| H0IL10302 | $2K |
+| H4FL26038 | $2K |
+| H2MA00014 | $2K |
+| S0OH00133 | $1K |
+| S6AZ00019 | $1K |
+| S0SC00149 | $1K |
+| H4CA52051 | $500 |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

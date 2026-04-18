@@ -52,6 +52,44 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $19.5M |
+| Money out: IE spending FOR candidates | $18.8M |
+| Money out: IE spending AGAINST candidates | $31K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| NATIONAL NURSES UNITED (MD) | $12.1M | — |
+| VOTE NURSES VALUES PAC (CA) | $6.4M | — |
+| NATIONAL NURSES UNITED (DC) | $1.0M | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00009423 | $5.5M |
+| P60007168 | $4.8M |
+| S6OH00163 | $1.3M |
+| S4MD00327 | $1.2M |
+| S6PA00217 | $855K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4MI07103 | $20K |
+| H0MA10066 | $11K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

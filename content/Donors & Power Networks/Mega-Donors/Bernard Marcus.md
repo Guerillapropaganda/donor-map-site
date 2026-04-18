@@ -94,6 +94,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $40.4M across 40 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| PRESERVE AMERICA PAC | $10.0M | 2020→2020 |
+| CONGRESSIONAL LEADERSHIP FUND | $5.8M | 2016→2024 |
+| REBUILDING AMERICA NOW | $5.0M | 2016→2016 |
+| UNITED DEMOCRACY PROJECT ('UDP') | $4.0M | 2022→2024 |
+| 34N22, INC. | $2.3M | 2022→2022 |
+| MAKE AMERICA NUMBER 1 | $2.0M | 2016→2016 |
+| USA FREEDOM FUND | $2.0M | 2022→2022 |
+| MAKE AMERICA GREAT AGAIN INC. | $1.0M | 2024→2024 |
+| MISSOURI FIRST ACTION, INC. | $1.0M | 2022→2022 |
+| SCHOOL FREEDOM FUND | $1.0M | 2024→2024 |
+| UNINTIMIDATED PAC INC | $900K | 2016→2016 |
+| AMERICAN CROSSROADS | $500K | 2014→2014 |
+| ESAFUND | $500K | 2016→2016 |
+| NEW REPUBLICAN PAC | $500K | 2018→2018 |
+| 35TH PAC | $500K | 2018→2018 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor-node #mega-donor #retail #home-depot #republican #israel #class-analysis
 
 ---

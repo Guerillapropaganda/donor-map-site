@@ -49,6 +49,70 @@ related: "[[John Ratcliffe]] · [[Bill Hagerty]]"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $673K |
+| Money out: direct contributions to candidates | $2.7M |
+| Money out: IE spending FOR candidates | $27.7M |
+| Money out: IE spending AGAINST candidates | $202K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CITIZENS FOR JOSH MANDEL (OH) | $154K | — |
+| TED CRUZ FOR SENATE (TX) | $88K | — |
+| HOOSIERS FOR RICHARD MOURDOCK INC (IN) | $84K | — |
+| FRIENDS OF MARK NEUMANN INC (WI) | $79K | — |
+| JEFF FLAKE FOR US SENATE INC (AZ) | $66K | — |
+| GEORGE ALLEN FOR US SENATE (VA) | $38K | — |
+| DEB FISCHER FOR US SENATE INC (NE) | $36K | — |
+| BONGINO FOR SENATE (MD) | $34K | — |
+| TOM SMITH FOR SENATE INC (PA) | $32K | — |
+| CLARK, WILLIAM H. MRS. III (TX) | $20K | RETIRED |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8MI00372 | $262K |
+| S4GA11285 | $219K |
+| S0GA00526 | $203K |
+| S8MO00160 | $163K |
+| S2TX00312 | $157K |
+| S0AL00263 | $131K |
+| S0NH00326 | $125K |
+| S8TN00337 | $92K |
+| S8IN00171 | $84K |
+| S8MT00234 | $80K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2TX00312 | $2.3M |
+| S8MO00160 | $2.0M |
+| S8MI00372 | $1.5M |
+| S4GA11285 | $1.2M |
+| S6NE00079 | $1.0M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0AR00028 | $75K |
+| S2KY00012 | $22K |
+| S6OH00163 | $20K |
+| S2WI00219 | $7K |
+| S4MI00355 | $7K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

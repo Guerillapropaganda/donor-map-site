@@ -47,6 +47,63 @@ contributions-to-committees: 307000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $64K |
+| Money out: direct contributions to candidates | $35K |
+| Money out: IE spending FOR candidates | $1.7M |
+| Money out: IE spending AGAINST candidates | $134K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| FINK, DAVID (CA) | $40K | — |
+| LEFKOWITZ, MICHELE (CA) | $13K | — |
+| ATWOOD IVES, J. (MA) | $11K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6MO00305 | $5K |
+| S2NM00088 | $5K |
+| H8TX23121 | $3K |
+| H8SC05174 | $3K |
+| H6IA02146 | $3K |
+| S6MT00162 | $3K |
+| H6NV04020 | $3K |
+| S8NV00156 | $3K |
+| H8NJ11142 | $3K |
+| H8PA18181 | $3K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6MT00162 | $752K |
+| S0GA00559 | $345K |
+| S6PA00274 | $160K |
+| S4TX00722 | $117K |
+| S2FL00631 | $109K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $45K |
+| S4GA11285 | $38K |
+| S0GA00526 | $38K |
+| S2KY00012 | $12K |
+| H0CO03165 | $709 |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

@@ -67,6 +67,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $51.1M across 50 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| FF PAC | $10.3M | 2024→2024 |
+| LF PAC | $9.5M | 2022→2024 |
+| HOFFMAN, REID | $4.5M | 2020→2020 |
+| ONE FOR ALL COMMITTEE | $4.2M | 2020→2024 |
+| SMP | $3.5M | 2018→2022 |
+| AB PAC | $2.0M | 2020→2024 |
+| GRANITE FOR AMERICA | $2.0M | 2024→2024 |
+| MAINSTREAM DEMOCRATS PAC | $1.9M | 2022→2024 |
+| UNITE THE COUNTRY | $1.5M | 2020→2020 |
+| WELCOMEPAC | $1.2M | 2022→2024 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $1.1M | 2022→2024 |
+| TAXPAC | $1.0M | 2014→2014 |
+| STRAIGHT TALK POLITICS PAC | $1.0M | 2020→2022 |
+| PAF | $770K | 2024→2024 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $730K | 2020→2024 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #billionaire #democratic #tech #linkedin #wisconsin
 
 ---

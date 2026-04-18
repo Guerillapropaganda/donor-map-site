@@ -60,6 +60,36 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $320.6M across 14 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| MAKE AMERICA GREAT AGAIN INC. | $151.5M | 2022→2024 |
+| CONGRESSIONAL LEADERSHIP FUND | $61.0M | 2018→2026 |
+| SLF PAC | $30.0M | 2020→2020 |
+| MAHA PAC | $25.0M | 2024→2024 |
+| AMERICA FIRST ACTION, INC. | $20.0M | 2020→2020 |
+| THE SENTINEL ACTION FUND | $13.0M | 2022→2024 |
+| WISCONSIN TRUTH PAC | $5.0M | 2022→2022 |
+| AMERICAN POLICY FUND | $4.0M | 2022→2022 |
+| CONNECTICUT PATRIOTS PAC | $2.5M | 2022→2022 |
+| EVERGREEN PRINCIPLES PAC | $2.2M | 2022→2022 |
+| WHITE MOUNTAIN PAC | $2.0M | 2022→2022 |
+| BATTLE BORN VALUES PAC | $2.0M | 2022→2022 |
+| MAGA INC. | $1.9M | 2026→2026 |
+| LIBERTY CHAMPIONS | $500K | 2022→2022 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #mellon #banking-dynasty #class-analysis #follow-the-money #immigration #border-wall #old-money #reclusive #MAGA #generational-wealth #project-2025 #military-pay #heritage
 
 ---

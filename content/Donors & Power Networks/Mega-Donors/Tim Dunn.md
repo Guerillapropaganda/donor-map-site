@@ -90,6 +90,27 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $4.0M across 5 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| SENATE REFORM FUND | $2.3M | 2018→2020 |
+| HIGH PLAINS PAC | $750K | 2024→2026 |
+| CAMPAIGN FOR PRIMARY ACCOUNTABILITY INC | $500K | 2012→2012 |
+| CLUB FOR GROWTH ACTION | $450K | 2020→2020 |
+| OUR VALUES POLITICAL ACTION COMMITTEE | $15K | 2018→2018 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #mega-donor #texas-oil #christian-nationalist #republican-megadonor #crownquest
 
 ---

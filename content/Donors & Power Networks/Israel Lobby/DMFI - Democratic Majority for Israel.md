@@ -92,6 +92,70 @@ contributions-to-committees: 38000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $19.0M |
+| Money out: direct contributions to candidates | $843K |
+| Money out: IE spending FOR candidates | $9.0M |
+| Money out: IE spending AGAINST candidates | $7.8M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SCHUSTERMAN, STACY H (OK) | $3.9M | SAMSON ENERGY COMPANY, LLC |
+| SIMON, DEBORAH (IN) | $3.0M | SELF EMPLOYED |
+| DEMOCRATIC MAJORITY FOR ISRAEL (DC) | $2.0M | — |
+| LAUDER, GARY MARK (CA) | $1.5M | LAUDER PARTNERS, LLC |
+| COOPER, MILTON (NY) | $475K | KIMCO REALTY |
+| RODAN, AMNON (CA) | $438K | RODAN & FIELDS |
+| GOTTESMAN, PAULA (NJ) | $385K | N/A |
+| MINDICH, ERIC (NY) | $350K | SELF EMPLOYED |
+| ROSEN, DAVID (NY) | $250K | RUBRIC CAPITAL |
+| BANKMAN-FRIED, SAMUEL (ZZ) | $250K | FTX TRADING LIMITED |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6NY03247 | $12K |
+| H2NC02287 | $11K |
+| H8ME02185 | $10K |
+| H2NV04011 | $9K |
+| H6MN02131 | $9K |
+| H8WA08189 | $9K |
+| H8NY06048 | $8K |
+| H0NY15160 | $8K |
+| H2IL13153 | $8K |
+| H8NY22177 | $8K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2OH11169 | $1.5M |
+| H8NY19058 | $949K |
+| H4NY16087 | $915K |
+| H4AZ03109 | $571K |
+| H2TX15138 | $492K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2OH11151 | $1.5M |
+| P60007168 | $1.4M |
+| H0NY16143 | $760K |
+| H8IL03102 | $503K |
+| H8CA49074 | $425K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #israel #DMFI #pro-israel #national #super-pac #democratic-primary #follow-the-money #class-analysis #aipac #progressive-opposition
 
 ---

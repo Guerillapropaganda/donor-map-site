@@ -49,6 +49,59 @@ contributions-to-committees: 81325
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $20.7M |
+| Money out: direct contributions to candidates | $390K |
+| Money out: IE spending FOR candidates | $21.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| GRIFFIN, KENNETH C. (IL) | $8.0M | CITADEL ASSET MANAGEMENT |
+| GEORGIA ACTION FUND (DC) | $1.7M | — |
+| STANDING WITH CONSERVATIVES (TN) | $1.5M | — |
+| SAVING TEXAS (TX) | $1.5M | — |
+| STAND UP TO CHINA INC. (FL) | $1.3M | — |
+| OPPORTUNITY MATTERS FUND INC. (MA) | $1.0M | — |
+| AMERICAN VOICE (AL) | $920K | — |
+| PERDUE FOR SENATE (GA) | $500K | — |
+| SCHWAB, CHARLES R. (FL) | $300K | CHARLES SCHWAB CORPORATION |
+| SINGER, PAUL E. (MA) | $300K | ELLIOTT MANAGEMENT CORPORATION |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0GA00526 | $21K |
+| S0IA00028 | $17K |
+| H4NY24073 | $15K |
+| S2SD00068 | $13K |
+| S4SC00240 | $13K |
+| H8CA39240 | $12K |
+| H2CA20094 | $10K |
+| H6NE02125 | $10K |
+| H6PA08277 | $10K |
+| H8FL27185 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4GA11285 | $5.7M |
+| S0GA00526 | $3.9M |
+| S0FL00338 | $2.5M |
+| S4SC00240 | $2.2M |
+| S0TN00169 | $1.8M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

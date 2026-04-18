@@ -43,6 +43,46 @@ total-spent: 2343
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.8M |
+| Money out: IE spending FOR candidates | $64K |
+| Money out: IE spending AGAINST candidates | $1.7M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| MAJORITY PAC (DC) | $542K | — |
+| KIMMEL, SIDNEY (CA) | $250K | RETIRED |
+| WEITZ, WALLACE R. (NE) | $250K | WEITZ FUNDS |
+| HOLLAND, RICHARD D. (NE) | $125K | RETIRED |
+| SCHWRTZ, B.L. (NY) | $100K | BLS INVESTMENTS |
+| HERMAN, RICHARD (NE) | $100K | HERMAN TRUST |
+| ANGELOS, PETER G. (MD) | $75K | LAW OFF. OF PETER G. ANGELOS |
+| LOZIER, DIANNE (NE) | $50K | LOZIER CORP. |
+| TISHMAN, JOHN (NY) | $30K | RETIRED |
+| ALLEN, HERBERT A. (NY) | $25K | ALLEN & COMPANY |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8NE00067 | $64K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2NE00094 | $1.7M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15
