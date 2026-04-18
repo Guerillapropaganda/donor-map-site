@@ -107,6 +107,12 @@ function main() {
 
   for (const e of edges) {
     if (e.type !== 'monetary') continue;
+    // Skip independent-expenditure OPPOSITION edges — those are spending
+    // AGAINST the target (attack ads), not donations. Writing them into
+    // frontmatter `donors` mis-labelled anti-Trump super PACs as "donors
+    // of Trump." They belong in the opposition view instead, which reads
+    // from the canonical edge store directly (not from frontmatter).
+    if (e.role === 'ie-oppose') continue;
     const from = e.from;
     const to = e.to;
     if (!from || !to) continue;

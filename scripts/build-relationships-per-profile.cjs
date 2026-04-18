@@ -78,6 +78,16 @@ function main() {
         donors: [],
         'politicians-funded': [],
         opposes: [],
+        // IE-oppose monetary edges — PACs that spent AGAINST this profile
+        // (independent expenditures labelled `role: 'ie-oppose'`). These
+        // used to be lumped into `donors` which mis-labelled anti-Trump
+        // super-PAC spending as "donors of Trump." Split out here so
+        // consumers can show opposition correctly.
+        'ie-opposed-by': [],
+        // IE-oppose from the spender side — if this profile is a PAC, the
+        // politicians it spent against.
+        'ie-opposition-targets': [],
+        'ie-opposition-detail': [],
         stories: [],
         'government-contracts': [],
         // Monetary detail: { name, amount, cycle, confidence }[] for rendering dollar amounts
@@ -115,7 +125,23 @@ function main() {
         break;
       }
       case 'monetary': {
-        // Donor gave to recipient. Store in BOTH endpoints:
+        if (edge.role === 'ie-oppose') {
+          // IE spending AGAINST the target. NOT a donor relationship.
+          // Route to ie-opposed-by (on target) and ie-opposition-targets
+          // (on spender) so downstream views render these as opposition,
+          // not as financial support.
+          const targetEntry = ensure(to);
+          addUnique(targetEntry['ie-opposed-by'], from);
+          addMonetaryDetail(targetEntry['ie-opposition-detail'], from, edge.amount, edge.cycle, edge.confidence);
+          const spenderEntry = ensure(from);
+          addUnique(spenderEntry['ie-opposition-targets'], to);
+          addMonetaryDetail(spenderEntry['ie-opposition-detail'], to, edge.amount, edge.cycle, edge.confidence);
+          mapped++;
+          break;
+        }
+        // Direct contribution (role=null) or IE-support (role='ie-support')
+        // or employee aggregate (role='employee-contributions') — all are
+        // genuine inflows to the recipient from the donor's side.
         //   - recipient.donors                  ← donor
         //   - donor.politicians-funded          ← recipient (if recipient is political)
         const donorEntry = ensure(from);
@@ -162,6 +188,8 @@ function main() {
     entry['politicians-funded'].sort();
     entry.opposes.sort();
     entry.stories.sort();
+    entry['ie-opposed-by'].sort();
+    entry['ie-opposition-targets'].sort();
   }
 
   // Sort profile keys for stable git diff
