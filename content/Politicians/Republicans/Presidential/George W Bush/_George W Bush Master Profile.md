@@ -43,13 +43,8 @@ born: "1946-07-06"
 
 | Donor | Amount |
 |---|---:|
-| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $168,981,286 |
 | REPUBLICAN NATIONAL COMMITTEE | $12,878,211 |
 | REPUBLICAN PARTY OF FLORIDA | $2,099,667 |
-| NRA POLITICAL VICTORY FUND | $1,155,364 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $631,306 |
-| NRA Political Victory Fund | — |
-| Republican Party of Florida | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

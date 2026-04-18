@@ -69,13 +69,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| DCCC | $2,048,831 |
 | AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION | $1,712,393 |
-| HOUSE MAJORITY PAC | $1,162,569 |
-| Latino Vote for America Pac | $214,840 |
-| WOMEN VOTE! | $204,486 |
-| Kenneth Griffin | — |
-| Bacardi - Bacardi USA | — |
+| Americans for Prosperity | $1,104,701 |
+| Latino Vote for America Pac | $342,260 |
+| NRCC - National Republican Congressional Committee | $108,000 |
+| National Association of Realtors | $45,865 |
+| AIPAC - American Israel Public Affairs Committee | $31,162 |
+| VIEW PAC - Value in Electing Women | $25,000 |
+| Comcast - NBCUniversal | $20,500 |
+| Congressional Leadership Fund | $20,000 |
+| MAJORITY PAC | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

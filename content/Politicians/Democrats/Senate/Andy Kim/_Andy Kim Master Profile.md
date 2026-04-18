@@ -44,7 +44,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| California Farm Bureau Federation | — |
+| Let America Vote PAC | $34,542 |
+| J Street | $17,047 |
+| Indivisible Action | $15,399 |
+| SEIU COPE | $10,000 |
+| Progressive Turnout Project | $10,000 |
+| League of Conservation Voters | $8,925 |
+| NEA Fund for Children and Public Education | $8,500 |
+| Votevets | $7,500 |
+| IBEW - International Brotherhood of Electrical Workers | $7,100 |
+| Unite Here Tip Campaign Committee | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

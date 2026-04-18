@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| L3Harris Technologies | $22,000 |
+| General Dynamics | $21,500 |
+| National Association of Realtors | $18,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,510 |
+| Anduril Industries | $15,200 |
+| Honeywell | $14,000 |
+| Americans for Prosperity | $13,289 |
+| Raytheon (RTX) | $12,000 |
+| Northrop Grumman | $11,250 |
+| BAE Systems | $11,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

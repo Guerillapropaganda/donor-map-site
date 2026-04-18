@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| NEA Fund for Children and Public Education | $22,000 |
+| Honeywell | $20,000 |
+| National Association of Realtors | $19,000 |
+| AT&T - WarnerMedia | $18,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| J Street | $9,250 |
+| SEIU COPE | $7,500 |
+| United Food and Commercial Workers International Union Active Ballot Club | $6,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

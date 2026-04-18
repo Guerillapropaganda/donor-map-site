@@ -57,7 +57,7 @@ function getRequiredSections(profileType, fm) {
 
   const typeSpecific =
     isPresidential
-      ? ["Executive Actions", "Executive Orders", "Key Executive Actions"]
+      ? ["Executive Actions", "Executive Orders", "Key Executive Actions", "Policy Executed", "Department Actions", "Diplomatic Record"]
       : profileType === "politician" || profileType === "state-politician" || profileType === "local-politician"
       ? ["Key Votes", "Key Votes + Actions", "Key Votes and Actions", "Voting Record"]
       : profileType === "donor"

@@ -40,6 +40,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $41,832 |
+| VIEW PAC - Value in Electing Women | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $22,260 |
+| National Cattlemen's Beef Association | $20,000 |
+| MAJORITY PAC | $20,000 |
+| American Hospital Association PAC | $19,000 |
+| National Right to Life Victory Fund | $13,162 |
+| Honeywell | $11,000 |
+| Chevron | $10,500 |
+| CVS Health - Aetna | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| General Dynamics | $25,500 |
+| Raytheon (RTX) | $25,000 |
+| NEA Fund for Children and Public Education | $25,000 |
+| National Association of Realtors | $20,000 |
+| Lockheed Martin | $10,000 |
+| Walmart - Walton Family | $8,500 |
+| J Street | $6,600 |
+| International Association of Firefighters Interested in Registration and Education PAC | $5,000 |
+| Progressive Turnout Project | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

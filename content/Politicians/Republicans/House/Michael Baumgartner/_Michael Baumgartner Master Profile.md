@@ -36,6 +36,21 @@ fec-candidate-id: "H4WA05234"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| National Association of Realtors | $8,000 |
+| Chevron | $7,500 |
+| Associated General Contractors of America Political Action Committee | $7,000 |
+| Jim Jordan | $6,000 |
+| National Cattlemen's Beef Association | $5,000 |
+| MAJORITY PAC | $5,000 |
+| Microsoft | $4,500 |
+| Puget Sound Energy INC PAC for Good Government | $4,000 |
+| Honeywell | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

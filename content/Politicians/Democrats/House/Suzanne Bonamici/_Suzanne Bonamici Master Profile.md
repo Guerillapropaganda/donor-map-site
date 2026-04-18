@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $53,163 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| SEIU COPE | $22,500 |
+| NEA Fund for Children and Public Education | $22,000 |
+| Walmart - Walton Family | $19,000 |
+| Teamsters - International Brotherhood of Teamsters | $18,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $17,500 |
+| United Food and Commercial Workers International Union Active Ballot Club | $12,500 |
+| J Street | $11,125 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

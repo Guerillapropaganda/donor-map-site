@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Hospital Association PAC | $85,051 |
+| AIPAC - American Israel Public Affairs Committee | $61,122 |
+| Clearpath Action Fund, Inc. | $25,187 |
+| WinRed | $22,367 |
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| National Association of Realtors | $11,000 |
+| Lockheed Martin | $11,000 |
+| National Cattlemen's Beef Association | $11,000 |
+| National Multifamily Housing Council | $10,000 |
+| Associated General Contractors of America Political Action Committee | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

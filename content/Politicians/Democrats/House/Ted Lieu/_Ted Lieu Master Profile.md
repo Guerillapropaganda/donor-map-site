@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $57,233 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Votevets | $30,000 |
+| Google - Alphabet | $29,240 |
+| National Multifamily Housing Council | $25,000 |
+| National Association of Realtors | $23,000 |
+| AT&T - WarnerMedia | $21,000 |
+| Northrop Grumman | $19,251 |
+| American Hospital Association PAC | $17,500 |
+| Morgan Stanley | $17,210 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

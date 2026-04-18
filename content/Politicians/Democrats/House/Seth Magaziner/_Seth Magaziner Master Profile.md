@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $3,606,237 |
+| NRCC - National Republican Congressional Committee | $1,170,582 |
+| League of Conservation Voters | $422,264 |
+| SEIU COPE | $144,965 |
+| DCCC - Democratic Congressional Campaign Committee | $100,000 |
+| Teamsters - International Brotherhood of Teamsters | $27,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| General Dynamics | $21,500 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $19,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

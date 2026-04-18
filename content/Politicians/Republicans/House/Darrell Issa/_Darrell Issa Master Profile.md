@@ -46,6 +46,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Ken Calvert | $30,000 |
+| Young Kim | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $24,210 |
+| Comcast - NBCUniversal | $22,500 |
+| Google - Alphabet | $19,950 |
+| National Association of Realtors | $19,000 |
+| Microsoft | $15,100 |
+| MAJORITY PAC | $15,000 |
+| Claudia Tenney | $10,000 |
+| Johnson & Johnson | $8,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

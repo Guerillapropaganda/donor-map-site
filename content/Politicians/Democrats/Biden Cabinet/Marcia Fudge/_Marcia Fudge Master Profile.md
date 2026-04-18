@@ -24,6 +24,21 @@ fec-candidate-id: "H8OH11141"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Joyce Beatty | $2,000 |
+| Marilyn Strickland | $2,000 |
+| Marcy Kaptur | $2,000 |
+| Ayanna Pressley | $2,000 |
+| Nikema Williams | $2,000 |
+| Cargill | $500 |
+| US CHAMBER OF COMMERCE | $500 |
+| Cigna Group | $500 |
+| Meta - Facebook | $500 |
+| PhRMA - Pharmaceutical Research and Manufacturers of America | $250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

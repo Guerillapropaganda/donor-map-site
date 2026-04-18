@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American College of Radiology Association PAC | $28,500 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $28,500 |
+| AIPAC - American Israel Public Affairs Committee | $24,153 |
+| Anthem - Elevance Health | $23,000 |
+| National Association of Realtors | $23,000 |
+| AT&T - WarnerMedia | $22,500 |
+| Comcast - NBCUniversal | $22,500 |
+| PG&E - Pacific Gas and Electric | $21,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

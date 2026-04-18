@@ -36,6 +36,21 @@ fec-candidate-id: "H6CO05142"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Americans for Prosperity | $414,386 |
+| L3Harris Technologies | $15,500 |
+| MAJORITY PAC | $10,000 |
+| Lockheed Martin | $8,500 |
+| Leidos | $7,500 |
+| Koch Network - Charles Koch | $6,621 |
+| Jim Jordan | $6,000 |
+| BAE Systems | $5,520 |
+| National Rifle Association | $5,500 |
+| American Hospital Association PAC | $4,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

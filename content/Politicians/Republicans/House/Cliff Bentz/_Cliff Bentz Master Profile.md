@@ -40,6 +40,21 @@ top-policy-area: "Public Lands and Natural Resources"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $25,646 |
+| National Cattlemen's Beef Association | $25,000 |
+| American Hospital Association PAC | $11,000 |
+| AT&T - WarnerMedia | $11,000 |
+| Comcast - NBCUniversal | $10,500 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Care Action | $9,500 |
+| Anthem - Elevance Health | $9,500 |
+| Jim Jordan | $8,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

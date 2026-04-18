@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NRCC - National Republican Congressional Committee | $928,232 |
+| Google - Alphabet | $316,083 |
+| National Association of Realtors | $243,410 |
+| DCCC - Democratic Congressional Campaign Committee | $111,683 |
+| Apple | $65,242 |
+| Meta - Facebook | $44,057 |
+| Teamsters - International Brotherhood of Teamsters | $38,294 |
+| Microsoft | $35,185 |
+| MAJORITY PAC | $31,100 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

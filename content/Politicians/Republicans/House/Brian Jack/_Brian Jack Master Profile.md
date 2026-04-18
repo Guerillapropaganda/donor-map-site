@@ -36,6 +36,21 @@ fec-candidate-id: "H4GA03126"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Defend American Jobs | $1,308,900 |
+| Club for Growth | $430,695 |
+| Blackstone Group | $25,070 |
+| AIPAC - American Israel Public Affairs Committee | $25,000 |
+| MAJORITY PAC | $25,000 |
+| Comcast - NBCUniversal | $13,919 |
+| ADM - Archer Daniels Midland | $10,500 |
+| Palantir Technologies | $10,500 |
+| Chevron | $10,000 |
+| Charles Schwab | $9,900 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

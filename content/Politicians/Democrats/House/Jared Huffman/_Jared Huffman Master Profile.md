@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| IBEW - International Brotherhood of Electrical Workers | $23,500 |
+| Honeywell | $22,000 |
+| National Association of Realtors | $18,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $14,500 |
+| Teamsters - International Brotherhood of Teamsters | $11,500 |
+| NEA Fund for Children and Public Education | $10,000 |
+| SEIU COPE | $10,000 |
+| AT&T - WarnerMedia | $9,000 |
+| PG&E - Pacific Gas and Electric | $9,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

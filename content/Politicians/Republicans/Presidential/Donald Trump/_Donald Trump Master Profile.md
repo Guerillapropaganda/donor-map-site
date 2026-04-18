@@ -104,16 +104,16 @@ The innovation is that Trump didn't just serve capital. He merged the presidency
 
 | Donor | Amount |
 |---|---:|
-| PRIORITIES USA ACTION | $210,068,093 |
-| FF PAC | $95,790,154 |
+| Ab Pac | $92,487,110 |
 | America PAC - Elon Musk | $88,218,291 |
-| Ab Pac | $58,551,561 |
 | MAGA Inc | $57,695,733 |
+| RBG PAC | $55,076,000 |
 | MAKE AMERICA GREAT AGAIN INC. | $44,719,936 |
-| RBG PAC | $34,600,000 |
-| AB PAC | $33,935,549 |
 | RNC - Republican National Committee | $29,255,723 |
-| Rbg Pac | $20,476,000 |
+| Americans for Prosperity | $10,052,329 |
+| Emily's List | $5,099,573 |
+| The Lincoln Project | $4,763,258 |
+| Sfa Fund, Inc | $4,617,898 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

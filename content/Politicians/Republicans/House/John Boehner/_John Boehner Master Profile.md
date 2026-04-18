@@ -53,16 +53,7 @@ bills-cosponsored: 1725
 
 | Donor | Amount |
 |---|---:|
-| THE TEA PARTY LEADERSHIP FUND | $553,540 |
 | FREEDOM VOTE | $342,178 |
-| SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $106,057 |
-| MOVEON.ORG POLITICAL ACTION | $75,194 |
-| BLUE AMERICA PAC | $19,200 |
-| JPMorgan Chase | — |
-| Mark Zuckerberg | — |
-| Freedom Vote | — |
-| The Tea Party Leadership Fund | — |
-| MoveOn.org Political Action | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

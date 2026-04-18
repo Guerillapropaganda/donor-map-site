@@ -45,7 +45,8 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Brady Campaign | — |
+| AFL-CIO | $998 |
+| Sierra Club Independent Action | $10 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -47,11 +47,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| HOUSE MAJORITY PAC | $3,520,550 |
-| DCCC | $2,254,577 |
-| WOMEN VOTE! | $1,351,032 |
-| LCV VICTORY FUND | $979,880 |
-| Colorado United Pac | $720,000 |
+| Colorado United Pac | $370,000 |
+| WinRed | $15,782 |
+| Really American Pac | $14,915 |
+| Club for Growth INC PAC | $11,012 |
+| Jim Jordan | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Drain the DC Swamp PAC | $6,666 |
+| Votevets | $6,621 |
+| SpaceX | $6,600 |
+| Gun Owners of America | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $34,969 |
+| Lockheed Martin | $31,300 |
+| Northrop Grumman | $30,000 |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| United Food and Commercial Workers International Union Active Ballot Club | $25,000 |
+| Unite Here Tip Campaign Committee | $25,000 |
+| Raytheon (RTX) | $25,000 |
+| NEA Fund for Children and Public Education | $25,000 |
+| L3Harris Technologies | $24,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

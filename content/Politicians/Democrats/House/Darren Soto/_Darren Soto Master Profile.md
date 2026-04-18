@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $45,403 |
+| NextEra Energy | $32,250 |
+| National Association of Realtors | $30,545 |
+| Anthem - Elevance Health | $28,000 |
+| Duke Energy | $27,500 |
+| Comcast - NBCUniversal | $25,000 |
+| AT&T - WarnerMedia | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| National Multifamily Housing Council | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $18,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

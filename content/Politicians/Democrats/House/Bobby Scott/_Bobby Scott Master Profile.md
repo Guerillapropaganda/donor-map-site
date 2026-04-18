@@ -79,16 +79,16 @@ top-policy-area: "Crime and Law Enforcement"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $11,357 |
-| United We Can | $4,631 |
-| DEMOCRATIC PARTY OF VIRGINIA | $4,606 |
-| SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 |
-| TOGETHER WE THRIVE | $750 |
-| Sierra Club Independent Action | $10 |
-| National Committee to Preserve Social Security PAC | — |
-| AFGE - American Federation of Government Employees | — |
-| Democratic Party of Virginia | — |
-| Southern States Police Benevolent Assoc PAC Fund | — |
+| Democratic Party of Virginia | $90,542 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| NEA Fund for Children and Public Education | $22,000 |
+| National Association of Realtors | $21,000 |
+| SEIU COPE | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $15,000 |
+| Teamsters - International Brotherhood of Teamsters | $15,000 |
+| Unite Here Tip Campaign Committee | $12,500 |
+| Anthem - Elevance Health | $10,000 |
+| Walmart - Walton Family | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

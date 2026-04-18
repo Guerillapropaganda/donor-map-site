@@ -37,6 +37,14 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** $5,350,824
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Medicare for All - The Policy That Broke the Party | $5,000 |
+| Emgage Federal Political Action Committee | $1,000 |
+| League of Conservation Voters | $50 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

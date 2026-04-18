@@ -71,13 +71,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $3,557,781 |
-| HOUSE MAJORITY PAC | $30,396 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,883 |
-| REVERE AMERICA | $4,298 |
-| AMERICANS FOR JOB SECURITY | $3,227 |
-| Revere America | — |
-| Americans for Job Security | — |
+| National Cattlemen's Beef Association | $30,000 |
+| Nucor Corporation | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $23,159 |
+| National Association of Realtors | $23,000 |
+| Lockheed Martin | $18,000 |
+| Tyson Foods | $14,500 |
+| Associated General Contractors of America Political Action Committee | $14,500 |
+| Raytheon (RTX) | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Honeywell | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

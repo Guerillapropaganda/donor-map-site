@@ -35,6 +35,21 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Chevron | $9,000 |
+| Kelcy Warren - Energy Transfer Partners | $3,500 |
+| Aramark | $2,000 |
+| Johnson & Johnson | $1,750 |
+| Occidental Petroleum | $1,252 |
+| Walmart | $1,000 |
+| Meta - Facebook | $1,000 |
+| Eli Lilly | $787 |
+| Google - Alphabet | $750 |
+| ExxonMobil | $750 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

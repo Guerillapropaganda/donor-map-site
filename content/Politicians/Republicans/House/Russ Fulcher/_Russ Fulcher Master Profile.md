@@ -40,6 +40,21 @@ top-policy-area: "Energy"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $17,910 |
+| National Association of Realtors | $17,000 |
+| Comcast - NBCUniversal | $13,000 |
+| Jim Jordan | $10,000 |
+| MAJORITY PAC | $10,000 |
+| National Cattlemen's Beef Association | $7,500 |
+| AT&T - WarnerMedia | $6,000 |
+| National Multifamily Housing Council | $5,000 |
+| Valero Energy | $5,000 |
+| Marathon Petroleum | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

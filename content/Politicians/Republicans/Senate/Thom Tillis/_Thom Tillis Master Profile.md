@@ -66,16 +66,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| SMP | $54,970,845 |
-| DSCC | $45,046,455 |
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $13,996,631 |
-| Senate Majority PAC | $11,990,212 |
-| NEA ADVOCACY FUND | $10,547,618 |
-| Insurance Industry | — |
-| NEA Advocacy Fund | — |
-| Tech IP and Patent Lobbying | — |
-| Pharmaceutical Industry Bloc | — |
-| Koch Network - Charles Koch | — |
+| WinRed | $32,723 |
+| Gilead Sciences | $15,000 |
+| National Multifamily Housing Council | $10,000 |
+| Johnson & Johnson | $10,000 |
+| General Dynamics | $10,000 |
+| Nucor Corporation | $10,000 |
+| General Motors | $10,000 |
+| Morgan Stanley | $10,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $10,000 |
+| Google - Alphabet | $8,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

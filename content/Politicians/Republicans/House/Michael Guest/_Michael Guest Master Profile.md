@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $44,007 |
+| Honeywell | $30,000 |
+| Raytheon (RTX) | $30,000 |
+| AIPAC - American Israel Public Affairs Committee | $22,910 |
+| MAJORITY PAC | $20,000 |
+| Nucor Corporation | $17,500 |
+| General Dynamics | $14,500 |
+| Chevron | $10,500 |
+| Northrop Grumman | $10,000 |
+| Associated General Contractors of America Political Action Committee | $7,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

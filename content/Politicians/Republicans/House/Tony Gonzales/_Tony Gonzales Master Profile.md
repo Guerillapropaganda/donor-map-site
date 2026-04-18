@@ -39,6 +39,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blackstone Group | $27,500 |
+| Enterprise Products Partners | $25,100 |
+| Charles Schwab | $14,800 |
+| Citadel - Kenneth Griffin | $8,400 |
+| Anduril Industries | $6,800 |
+| Google - Alphabet | $5,800 |
+| Las Vegas Sands | $5,600 |
+| Morgan Stanley | $3,400 |
+| FTX - Sam Bankman-Fried | $2,900 |
+| HBW Resources | $2,503 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -36,10 +36,20 @@ related: "[[SEIU - Service Employees International Union]] · [[_Katie Porter Ma
 
 **Total received:** $1,707,218
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- SEIU - Service Employees International Union
-- California Nurses Association
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $23,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| Raytheon (RTX) | $21,000 |
+| PG&E - Pacific Gas and Electric | $20,883 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| AIPAC - American Israel Public Affairs Committee | $18,903 |
+| Teamsters - International Brotherhood of Teamsters | $15,500 |
+| Anthem - Elevance Health | $14,000 |
+| AT&T - WarnerMedia | $13,500 |
+| Google - Alphabet | $11,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

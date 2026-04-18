@@ -46,7 +46,16 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 
 | Donor | Amount |
 |---|---:|
-| Fairshake PAC | — |
+| SLF PAC | $32,331,382 |
+| NRSC - National Republican Senatorial Committee | $10,984,391 |
+| Protect Progress | $10,046,680 |
+| Americans for Prosperity | $6,050,543 |
+| DSCC - Democratic Senatorial Campaign Committee | $1,959,000 |
+| WinSenate | $1,898,849 |
+| League of Conservation Voters | $1,679,469 |
+| National Nurses United for Patient Protection | $768,918 |
+| Votevets | $424,507 |
+| American Federation of State County & Municipal Employees P E O P L E | $405,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

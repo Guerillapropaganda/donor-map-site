@@ -75,14 +75,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| DCCC | $7,775,420 |
-| HOUSE MAJORITY PAC | $7,741,557 |
-| LCV VICTORY FUND | $1,471,580 |
 | South Florida Residents First | $1,071,310 |
-| WOMEN VOTE! | $943,110 |
-| Fanjul Family - Florida Crystals | — |
-| MasTec - Mas Canosa Family | — |
-| Bacardi - Bacardi USA | — |
+| NRCC - National Republican Congressional Committee | $100,000 |
+| National Association of Realtors | $48,624 |
+| International Association of Firefighters Interested in Registration and Education PAC | $30,000 |
+| AIPAC - American Israel Public Affairs Committee | $25,810 |
+| Lennar Corporation | $22,400 |
+| Honeywell | $21,000 |
+| NextEra Energy | $20,300 |
+| Comcast - NBCUniversal | $17,500 |
+| Drain the DC Swamp PAC | $16,250 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

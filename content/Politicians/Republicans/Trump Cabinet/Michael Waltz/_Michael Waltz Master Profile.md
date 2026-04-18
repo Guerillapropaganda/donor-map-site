@@ -42,13 +42,15 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 | Donor | Amount |
 |---|---:|
 | WITH HONOR FUND, INC. | $3,847,465 |
-| HOUSE MAJORITY PAC | $999,863 |
 | AMERICAN PATRIOTS PAC | $733,000 |
-| AMERICAN JOBS AND GROWTH PAC | $176,702 |
 | SPECIAL OPERATIONS FOR AMERICA | $110,004 |
-| American Patriots PAC | — |
-| Special Operations for America | — |
-| American Jobs and Growth PAC | — |
+| Citadel - Kenneth Griffin | $26,700 |
+| Charles Schwab | $23,400 |
+| Raytheon (RTX) | $20,500 |
+| AT&T - WarnerMedia | $20,000 |
+| National Association of Realtors | $20,000 |
+| Lockheed Martin | $19,000 |
+| Northrop Grumman | $17,600 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

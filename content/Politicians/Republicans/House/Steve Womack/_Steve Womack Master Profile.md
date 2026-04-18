@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Raytheon (RTX) | $35,000 |
+| National Association of Realtors | $30,523 |
+| BAE Systems | $30,000 |
+| General Dynamics | $30,000 |
+| Leidos | $29,500 |
+| Honeywell | $28,000 |
+| AIPAC - American Israel Public Affairs Committee | $27,912 |
+| Walmart - Walton Family | $27,500 |
+| Lockheed Martin | $26,000 |
+| L3Harris Technologies | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

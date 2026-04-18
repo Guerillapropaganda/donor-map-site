@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| ActBlue | — |
+| Blackstone Group | $41,700 |
+| National Association of Realtors | $41,622 |
+| National Cattlemen's Beef Association | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| AT&T - WarnerMedia | $22,500 |
+| American Hospital Association PAC | $22,000 |
+| MAJORITY PAC | $20,000 |
+| Walmart - Walton Family | $19,000 |
+| Anthem - Elevance Health | $17,500 |
+| Comcast - NBCUniversal | $17,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

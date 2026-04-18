@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $40,825 |
+| National Association of Realtors | $16,000 |
+| Raytheon (RTX) | $14,500 |
+| SEIU COPE | $12,500 |
+| NextEra Energy | $10,500 |
+| NEA Fund for Children and Public Education | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| Ted Lieu | $6,000 |
+| AT&T - WarnerMedia | $6,000 |
+| Care Action | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

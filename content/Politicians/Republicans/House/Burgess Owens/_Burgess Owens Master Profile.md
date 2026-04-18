@@ -40,6 +40,21 @@ top-policy-area: "Education"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Elbert Guillory's America | $190,128 |
+| WinRed | $30,444 |
+| National Association of Realtors | $24,000 |
+| AIPAC - American Israel Public Affairs Committee | $19,622 |
+| Associated General Contractors of America Political Action Committee | $16,000 |
+| Chevron | $14,000 |
+| L3Harris Technologies | $14,000 |
+| American College of Radiology Association PAC | $12,000 |
+| Comcast - NBCUniversal | $12,000 |
+| MAJORITY PAC | $10,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Our Future PAC | $963,177 |
+| CHC BOLD PAC | $256,448 |
+| Congressional Progressive Caucus PAC | $167,537 |
+| Working Families Party PAC | $54,754 |
+| Medicare for All - The Policy That Broke the Party | $37,759 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| Demand Justice | $20,000 |
+| Let America Vote PAC | $17,500 |
+| IBEW - International Brotherhood of Electrical Workers | $15,500 |
+| SEIU COPE | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

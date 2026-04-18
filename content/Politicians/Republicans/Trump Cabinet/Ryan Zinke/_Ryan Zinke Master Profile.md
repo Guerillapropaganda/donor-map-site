@@ -24,6 +24,21 @@ fec-candidate-id: "H4MT01041"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $3,741,580 |
+| League of Conservation Voters | $419,931 |
+| NRCC - National Republican Congressional Committee | $228,671 |
+| Americans for Prosperity | $122,750 |
+| WinRed | $87,913 |
+| Hunter Action Fund (haf) | $80,617 |
+| National Rifle Association | $13,161 |
+| ConocoPhillips | $12,500 |
+| Congressional Leadership Fund | $12,006 |
+| National Association of Realtors | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

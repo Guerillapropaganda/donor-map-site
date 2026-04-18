@@ -52,16 +52,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $965,325 |
-| GIFFORDS PAC | $415,200 |
-| CHANGE NOW | $197,825 |
-| HOUSE MAJORITY PAC | $64,729 |
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $20,324 |
-| Change Now | — |
-| Bacardi - Bacardi USA | — |
-| Fanjul Family - Florida Crystals | — |
-| MasTec - Mas Canosa Family | — |
-| LARA Fund - Mauricio Claver-Carone | — |
+| AIPAC - American Israel Public Affairs Committee | $85,955 |
+| Lockheed Martin | $36,500 |
+| Northrop Grumman | $32,500 |
+| General Dynamics | $31,500 |
+| Fanjul Family - Florida Crystals | $31,200 |
+| L3Harris Technologies | $30,000 |
+| BAE Systems | $29,000 |
+| Raytheon (RTX) | $26,000 |
+| Honeywell | $25,000 |
+| Elliott Management | $24,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

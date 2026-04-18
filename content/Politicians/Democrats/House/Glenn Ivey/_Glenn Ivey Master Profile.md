@@ -45,7 +45,16 @@ top-policy-area: "Crime and Law Enforcement"
 
 | Donor | Amount |
 |---|---:|
-| DMFI - Democratic Majority for Israel | — |
+| National Association of Realtors | $37,292 |
+| BlackRock | $5,000 |
+| IBEW - International Brotherhood of Electrical Workers | $2,750 |
+| American Federation of State County & Municipal Employees P E O P L E | $2,500 |
+| Microsoft | $1,600 |
+| Citigroup | $1,500 |
+| Verizon | $1,200 |
+| UnitedHealth Group - Optum | $1,000 |
+| Lockheed Martin | $1,000 |
+| Comcast - NBCUniversal | $600 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

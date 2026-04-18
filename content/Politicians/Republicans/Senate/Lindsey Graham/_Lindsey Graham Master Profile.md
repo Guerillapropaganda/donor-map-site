@@ -48,13 +48,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| California Farm Bureau Federation | — |
-| Boeing | — |
-| CA Farm Bureau Federation | — |
-| Lockheed Martin | — |
-| Patrick Soon-Shiong | — |
-| Republican Jewish Coalition | — |
-| Democracy Alliance | — |
+| WinRed | $233,571 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| NORPAC | $31,800 |
+| Republican Jewish Coalition | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| American Hospital Association PAC | $7,500 |
+| Chevron | $7,500 |
+| BAE Systems | $7,500 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| Microsoft | $5,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $6,005,338 |
+| DCCC - Democratic Congressional Campaign Committee | $625,473 |
+| National Association of Realtors | $329,803 |
+| League of Conservation Voters | $274,182 |
+| American Federation of State County & Municipal Employees P E O P L E | $220,950 |
+| Google - Alphabet | $117,846 |
+| Defending Main Street Superpac INC | $116,875 |
+| Humane Society Legislative Fund | $71,881 |
+| MAJORITY PAC | $70,116 |
+| AIPAC - American Israel Public Affairs Committee | $43,001 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

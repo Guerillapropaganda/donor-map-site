@@ -56,7 +56,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| NORPAC | — |
+| McDonalds Corporation | $23,500 |
+| Ford Motor Company | $22,000 |
+| AIPAC - American Israel Public Affairs Committee | $21,362 |
+| AT&T - WarnerMedia | $21,000 |
+| National Association of Realtors | $20,000 |
+| Associated General Contractors of America Political Action Committee | $16,000 |
+| Marathon Petroleum | $15,000 |
+| Valero Energy | $15,000 |
+| Comcast - NBCUniversal | $15,000 |
+| Walmart - Walton Family | $12,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

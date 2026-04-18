@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $26,662 |
+| National Multifamily Housing Council | $25,000 |
+| Comcast - NBCUniversal | $25,000 |
+| National Association of Realtors | $23,000 |
+| American Hospital Association PAC | $23,000 |
+| AT&T - WarnerMedia | $22,500 |
+| Pfizer Inc. | $15,500 |
+| Associated General Contractors of America Political Action Committee | $15,000 |
+| Marathon Petroleum | $15,000 |
+| Chevron | $13,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

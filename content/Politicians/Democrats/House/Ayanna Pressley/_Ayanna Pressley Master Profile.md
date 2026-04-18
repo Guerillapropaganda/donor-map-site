@@ -90,6 +90,21 @@ top-policy-area: "Health"
 - House Committee on Financial Services
 - House Committee on Oversight and Government Reform
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Honoring American Law Enforcement Pac | $63,750 |
+| Law Enforcement for a Safer America Pac | $63,750 |
+| Teamsters - International Brotherhood of Teamsters | $16,000 |
+| SEIU COPE | $15,000 |
+| NEA Fund for Children and Public Education | $14,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| JUSTICE DEMOCRATS PAC | $10,000 |
+| Unite Here Tip Campaign Committee | $10,000 |
+| Progressive Turnout Project | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $7,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

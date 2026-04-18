@@ -48,6 +48,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $1,336,733 |
+| Fairshake PAC - Crypto Super PAC | $813,215 |
+| Americans for Prosperity | $573,141 |
+| Congressional Leadership Fund | $245,099 |
+| Opportunity Matters Fund | $160,166 |
+| NRCC - National Republican Congressional Committee | $118,000 |
+| The Sentinel Action Fund | $100,000 |
+| National Association of Realtors | $46,779 |
+| WinRed | $33,247 |
+| AIPAC - American Israel Public Affairs Committee | $28,410 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

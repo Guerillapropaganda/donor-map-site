@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| DCCC - Democratic Congressional Campaign Committee | $105,184 |
+| League of Conservation Voters | $98,531 |
+| Indivisible Action | $53,364 |
+| Google - Alphabet | $37,757 |
+| Blue Shield of California | $35,912 |
+| Teamsters - International Brotherhood of Teamsters | $31,162 |
+| National Association of Realtors | $29,748 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| Anthem - Elevance Health | $24,599 |
+| 314 ACTION FUND | $22,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

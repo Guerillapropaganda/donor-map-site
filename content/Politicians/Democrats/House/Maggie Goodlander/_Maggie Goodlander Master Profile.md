@@ -36,6 +36,21 @@ fec-candidate-id: "H4NH02399"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Votevets | $476,287 |
+| Emily's List | $407,227 |
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $7,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $7,500 |
+| NEA Fund for Children and Public Education | $7,000 |
+| Teamsters - International Brotherhood of Teamsters | $6,500 |
+| SEIU COPE | $5,000 |
+| IBEW - International Brotherhood of Electrical Workers | $5,000 |
+| Demand Justice | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

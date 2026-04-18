@@ -64,10 +64,16 @@ top-policy-area: "Finance and Financial Sector"
 
 | Donor | Amount |
 |---|---:|
+| National Association of Realtors | $31,560 |
+| AIPAC - American Israel Public Affairs Committee | $22,612 |
+| Marathon Petroleum | $15,000 |
+| National Multifamily Housing Council | $11,000 |
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $10,128 |
-| Activate America | $4,333 |
-| COMMITTEE FOR DEFENDING AMERICAN VALUES | $1,715 |
-| Committee for Defending American Values | — |
+| AT&T - WarnerMedia | $9,000 |
+| Valero Energy | $7,500 |
+| Citigroup | $7,000 |
+| Lockheed Martin | $6,500 |
+| General Motors | $6,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

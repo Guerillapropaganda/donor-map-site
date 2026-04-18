@@ -59,16 +59,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Sfa Fund, Inc | $46,974,966 |
-| MAKE AMERICA GREAT AGAIN INC. | $33,241,929 |
-| NEVER BACK DOWN INC. | $26,139,099 |
+| Never Back Down Inc | $58,951,651 |
+| MAGA Inc | $23,217,681 |
 | GOOD FIGHT | $5,549,500 |
-| READY TO WIN | $1,000,000 |
-| Kenneth Griffin | — |
-| Fossil Fuel Bloc | — |
-| Club for Growth | — |
-| Walt Disney Company | — |
-| Ready to Win | — |
+| Good Fight PAC | $2,894,340 |
+| READY TO WIN | $1,126,581 |
+| MoveOn.org Political Action | $16,037 |
+| Planned Parenthood Votes | $4,824 |
+| PRIORITIES USA ACTION | $1,874 |
+| Ruralvote.org | $357 |
+| WinRed | $230 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

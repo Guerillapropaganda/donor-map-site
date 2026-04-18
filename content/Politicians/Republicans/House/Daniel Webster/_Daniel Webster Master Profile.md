@@ -42,6 +42,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $51,837 |
+| Congressional Leadership Fund | $44,849 |
+| AIPAC - American Israel Public Affairs Committee | $26,012 |
+| MAJORITY PAC | $20,000 |
+| Fanjul Family - Florida Crystals | $18,400 |
+| Lockheed Martin | $12,000 |
+| Comcast - NBCUniversal | $10,000 |
+| America First Policy Institute | $6,600 |
+| Charles Schwab | $6,600 |
+| AT&T - WarnerMedia | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -40,6 +40,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $30,510 |
+| Blackstone Group | $26,700 |
+| AT&T - WarnerMedia | $23,000 |
+| National Association of Realtors | $23,000 |
+| Pfizer Inc. | $22,500 |
+| Honeywell | $21,000 |
+| National Multifamily Housing Council | $20,000 |
+| Occidental Petroleum | $19,500 |
+| National Cattlemen's Beef Association | $17,500 |
+| Raytheon (RTX) | $17,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

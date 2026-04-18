@@ -36,6 +36,21 @@ fec-candidate-id: "H6FL01390"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Defend American Jobs | $558,813 |
+| Americans for Prosperity | $166,596 |
+| National Association of Realtors | $79,201 |
+| SPECIAL OPERATIONS FOR AMERICA | $35,000 |
+| Freedom's Defense Fund | $21,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| National Cattlemen's Beef Association | $12,500 |
+| REPUBLICAN PARTY OF FLORIDA | $11,264 |
+| America PAC - Elon Musk | $10,244 |
+| National Restaurant Association | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

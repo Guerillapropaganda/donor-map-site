@@ -44,6 +44,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $5,365,424 |
+| Fairshake PAC - Crypto Super PAC | $1,987,660 |
+| NRCC - National Republican Congressional Committee | $1,217,671 |
+| Votevets | $535,359 |
+| DCCC - Democratic Congressional Campaign Committee | $307,916 |
+| American Federation of State County & Municipal Employees P E O P L E | $306,276 |
+| National Association of Realtors | $150,129 |
+| Women Speak Out Pac | $53,257 |
+| Wfw Action Fund, Inc. | $38,280 |
+| Hmp | $35,798 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

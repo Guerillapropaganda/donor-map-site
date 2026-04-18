@@ -45,7 +45,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| California Farm Bureau Federation | — |
+| Fairshake PAC - Crypto Super PAC | $1,924,213 |
+| National Association of Realtors | $1,059,992 |
+| Congressional Leadership Fund | $327,096 |
+| Americans for Prosperity | $304,856 |
+| NRCC - National Republican Congressional Committee | $125,000 |
+| 314 ACTION FUND | $75,000 |
+| National Victory Action Fund | $62,000 |
+| AIPAC - American Israel Public Affairs Committee | $60,570 |
+| WinRed | $47,008 |
+| Opportunity Matters Fund | $33,534 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

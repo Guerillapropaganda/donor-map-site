@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| National Cattlemen's Beef Association | — |
+| MAJORITY PAC | $27,000 |
+| Chevron | $15,000 |
+| National Cattlemen's Beef Association | $15,000 |
+| National Association of Realtors | $13,000 |
+| American Hospital Association PAC | $11,000 |
+| Northrop Grumman | $10,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| Cooperative of American Physicians Independent Expenditure Committee | $10,000 |
+| Valero Energy | $10,000 |
+| Anthem - Elevance Health | $9,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

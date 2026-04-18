@@ -65,14 +65,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
+| AIPAC - American Israel Public Affairs Committee | $17,025 |
+| United Food and Commercial Workers International Union Active Ballot Club | $15,000 |
+| Alex Padilla | $4,000 |
+| Catherine Cortez Masto | $4,000 |
+| Cory Booker | $4,000 |
 | PLANNED PARENTHOOD NW ACTION PAC | $2,799 |
-| TOGETHER FOR PROGRESS PAC | $383 |
-| Together for Progress PAC | — |
-| Comcast - NBCUniversal | — |
-| Boeing | — |
-| Jeff Bezos | — |
-| Planned Parenthood Nw Action PAC | — |
-| Boeing Defense | — |
+| NextEra Energy | $2,500 |
+| Unite Here Tip Campaign Committee | $2,500 |
+| American Gaming Association | $2,500 |
+| NEA Fund for Children and Public Education | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

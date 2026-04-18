@@ -35,6 +35,21 @@ fec-candidate-id: "S4MT00183"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| WinSenate | $23,414,066 |
+| Americans for Prosperity | $6,412,073 |
+| DSCC - Democratic Senatorial Campaign Committee | $4,476,417 |
+| The Sentinel Action Fund | $2,060,431 |
+| National Rifle Association | $1,144,532 |
+| Let America Vote PAC | $992,750 |
+| Senate Conservatives Fund | $436,116 |
+| Votevets | $414,902 |
+| NRSC - National Republican Senatorial Committee | $272,772 |
+| Planned Parenthood Votes | $268,757 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

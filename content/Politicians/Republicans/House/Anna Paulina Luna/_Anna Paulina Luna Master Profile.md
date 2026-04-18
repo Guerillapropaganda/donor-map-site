@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Club for Growth | $767,649 |
+| REPUBLICAN PARTY OF FLORIDA | $123,000 |
+| NRCC - National Republican Congressional Committee | $108,000 |
+| Club for Growth INC PAC | $67,009 |
+| WinRed | $40,787 |
+| MAJORITY PAC | $15,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,260 |
+| Madison Project Inc. | $10,000 |
+| National Association of Realtors | $10,000 |
+| PRIORITIES USA ACTION | $9,622 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

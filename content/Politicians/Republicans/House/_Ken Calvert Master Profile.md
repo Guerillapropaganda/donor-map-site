@@ -56,13 +56,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| HMP | $11,502,510 |
+| Hmp | $4,978,408 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $1,305,443 |
-| EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND) | $1,098,954 |
-| LCV VICTORY FUND | $918,467 |
-| Edf Action Votes | $795,808 |
-| Elon Musk | — |
-| Lockheed Martin | — |
+| America PAC - Elon Musk | $944,490 |
+| Everytown for Gun Safety Victory Fund | $560,393 |
+| Edf Action Votes | $411,423 |
+| League of Conservation Voters | $409,616 |
+| Defending Main Street Superpac INC | $248,149 |
+| National Association of Realtors | $233,172 |
+| NRCC - National Republican Congressional Committee | $120,000 |
+| Equality California Votes | $105,965 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

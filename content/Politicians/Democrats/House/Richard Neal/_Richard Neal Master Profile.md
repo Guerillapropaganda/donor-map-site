@@ -59,16 +59,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| JUSTICE DEMOCRATS PAC | $700,000 |
-| FIGHT CORPORATE MONOPOLIES | $650,000 |
-| AMERICAN HOSPITAL ASSOCIATION PAC | $509,685 |
-| INDIVISIBLE ACTION | $302,147 |
+| American Hospital Association PAC | $532,185 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $126,197 |
-| Fidelity Investments | — |
-| Ohio Democratic Party | — |
-| MassMutual | — |
-| American Hospital Association PAC | — |
-| PhRMA - Pharmaceutical Research and Manufacturers of America | — |
+| National Association of Realtors | $35,504 |
+| Honeywell | $29,000 |
+| National Multifamily Housing Council | $27,500 |
+| Morgan Stanley | $27,500 |
+| NextEra Energy | $26,000 |
+| AT&T - WarnerMedia | $25,000 |
+| Teamsters - International Brotherhood of Teamsters | $25,000 |
+| Humana | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

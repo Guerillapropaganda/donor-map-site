@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $29,500 |
+| National Cattlemen's Beef Association | $27,500 |
+| L3Harris Technologies | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $23,413 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $15,500 |
+| Boeing | $11,450 |
+| Kelcy Warren - Energy Transfer Partners | $10,000 |
+| General Motors | $10,000 |
+| AT&T - WarnerMedia | $10,000 |
+| National Multifamily Housing Council | $9,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

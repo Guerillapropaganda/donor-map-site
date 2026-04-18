@@ -40,6 +40,21 @@ top-policy-area: "Agriculture and Food"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Dream Federal Action | $503,270 |
+| National Association of Realtors | $23,004 |
+| AIPAC - American Israel Public Affairs Committee | $20,509 |
+| Northrop Grumman | $17,000 |
+| ADM - Archer Daniels Midland | $11,000 |
+| MAJORITY PAC | $10,000 |
+| National Cattlemen's Beef Association | $10,000 |
+| Microsoft | $7,500 |
+| Nucor Corporation | $7,500 |
+| Blackstone Group | $7,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -41,14 +41,16 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount |
 |---|---:|
-| DEFEND US PAC | $2,054,348 |
+| DEFEND US PAC | $2,996,522 |
 | CRYPTO INNOVATION | $850,235 |
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $1,474 |
-| PERFORMANCE RACING INC. | $500 |
-| Performance Racing Inc. | — |
-| Devon Energy | — |
-| Fraternal Order of Police | — |
-| Defend US PAC | — |
+| Crypto Innovation PAC | $425,116 |
+| NRSC - National Republican Senatorial Committee | $112,000 |
+| AIPAC - American Israel Public Affairs Committee | $20,000 |
+| ConocoPhillips | $17,500 |
+| Anthem - Elevance Health | $17,000 |
+| Comcast - NBCUniversal | $13,500 |
+| Raytheon (RTX) | $13,500 |
+| Valero Energy | $12,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

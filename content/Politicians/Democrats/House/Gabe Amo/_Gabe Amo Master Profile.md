@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blackstone Group | $14,900 |
+| Palantir Technologies | $11,625 |
+| Anduril Industries | $6,800 |
+| Raytheon (RTX Corporation) | $6,250 |
+| CVS Health - Aetna | $4,750 |
+| Tesla - Elon Musk Political Operation | $4,300 |
+| Booz Allen Hamilton | $4,300 |
+| Goldman Sachs | $3,550 |
+| a16z - Andreessen Horowitz | $3,334 |
+| BlackRock | $3,300 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -76,11 +76,14 @@ top-policy-area: "Health"
 |---|---:|
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $3,752,524 |
 | NO LABELS ACTION, INC. | $773,284 |
+| Center Forward Committee | $457,500 |
 | Patriot Majority Pac | $350,184 |
-| Center Forward Committee | $305,000 |
 | FAIRSHAKE | $245,376 |
-| Wall Street Finance PACs | — |
-| No Labels Action, Inc. | — |
+| Fairshake PAC - Crypto Super PAC | $122,688 |
+| Protect Progress | $120,103 |
+| NORPAC | $83,200 |
+| AIPAC - American Israel Public Affairs Committee | $41,873 |
+| National Association of Realtors | $31,492 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

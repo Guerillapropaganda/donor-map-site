@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Fanjul Family - Florida Crystals | $79,800 |
+| AIPAC - American Israel Public Affairs Committee | $63,636 |
+| Blackstone Group | $38,400 |
+| IBEW - International Brotherhood of Electrical Workers | $35,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Northrop Grumman | $27,500 |
+| National Association of Realtors | $23,500 |
+| Teamsters - International Brotherhood of Teamsters | $23,500 |
+| NEA Fund for Children and Public Education | $19,000 |
+| SEIU COPE | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

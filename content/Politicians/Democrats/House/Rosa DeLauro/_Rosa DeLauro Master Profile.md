@@ -74,15 +74,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | Wfp Ie Committee | $155,000 |
-| AMERICAN HOSPITAL ASSOCIATION PAC | $100,000 |
-| CLEAN UP CONGRESS | $9,464 |
-| CT WORKING FAMILIES FEDERAL PAC D/B/A TAKE BACK CONGRESS CT | $5,075 |
-| MID-AMERICA CONSERVATIVE POLITICAL ACTION COMMITTEE | $4,496 |
-| Clean Up Congress | — |
-| Lockheed Martin | — |
-| Bill Gates | — |
-| Mid-America Conservative Political Action Committee | — |
-| American Hospital Association PAC | — |
+| American Hospital Association PAC | $114,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| L3Harris Technologies | $30,000 |
+| Leidos | $29,000 |
+| Raytheon (RTX) | $27,500 |
+| NEA Fund for Children and Public Education | $27,000 |
+| General Dynamics | $27,000 |
+| National Association of Realtors | $25,000 |
+| Unite Here Tip Campaign Committee | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

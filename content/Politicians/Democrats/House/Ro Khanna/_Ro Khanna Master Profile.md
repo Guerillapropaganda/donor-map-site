@@ -98,15 +98,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | CALIFORNIANS FOR INNOVATION | $745,467 |
-| Protect Progress | $217,092 |
-| WORKING FOR US POLITICAL ACTION COMMITTEE INC | $167,557 |
-| OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | $13,246 |
-| HE'S GOTTA GO PAC | $4,715 |
-| Ohlone Area United Democratic Campaign | — |
-| Working for US Political Action Committee INC | — |
-| Californians for Innovation | — |
-| Google - Alphabet | — |
-| He's Gotta Go PAC | — |
+| Protect Progress | $325,637 |
+| J Street | $17,060 |
+| OHLONE AREA UNITED DEMOCRATIC CAMPAIGN | $13,700 |
+| Teamsters - International Brotherhood of Teamsters | $8,500 |
+| NEA Fund for Children and Public Education | $6,000 |
+| MoveOn.org Political Action | $5,105 |
+| IBEW - International Brotherhood of Electrical Workers | $5,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $2,500 |
+| Unite Here Tip Campaign Committee | $2,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -82,11 +82,15 @@ top-policy-area: "Health"
 
 **Total received:** —
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Small Dollar Donors (ActBlue)
-- UAW Region 6
-- Teamsters California
+| Donor | Amount |
+|---|---:|
+| Fairshake PAC - Crypto Super PAC | $10,041,117 |
+| League of Conservation Voters | $21,601 |
+| Demand Justice | $5,000 |
+| IBEW - International Brotherhood of Electrical Workers | $5,000 |
+| J Street | $18 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

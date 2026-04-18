@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Marathon Petroleum | $26,500 |
+| American Hospital Association PAC | $25,000 |
+| National Association of Realtors | $21,000 |
+| AIPAC - American Israel Public Affairs Committee | $20,744 |
+| National Cattlemen's Beef Association | $20,000 |
+| AT&T - WarnerMedia | $20,000 |
+| Anthem - Elevance Health | $17,500 |
+| Comcast - NBCUniversal | $16,500 |
+| Duke Energy | $15,500 |
+| Pfizer Inc. | $15,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

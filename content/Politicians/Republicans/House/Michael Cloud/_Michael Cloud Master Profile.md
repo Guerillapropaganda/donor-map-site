@@ -40,6 +40,21 @@ top-policy-area: "Government Operations and Politics"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $19,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,509 |
+| Valero Energy | $15,000 |
+| MAJORITY PAC | $10,000 |
+| AT&T - WarnerMedia | $8,000 |
+| National Rifle Association | $6,140 |
+| National Cattlemen's Beef Association | $6,000 |
+| Gun Owners of America | $5,000 |
+| Save America PAC | $5,000 |
+| Jim Jordan | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

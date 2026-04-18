@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| FAIR SHARE ACTION | $232,890 |
+| DCCC - Democratic Congressional Campaign Committee | $105,093 |
+| Fairshake PAC - Crypto Super PAC | $88,256 |
+| National Association of Realtors | $62,596 |
+| League of Conservation Voters | $34,122 |
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| AIPAC - American Israel Public Affairs Committee | $22,003 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| UA Political Action Committee | $20,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $19,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

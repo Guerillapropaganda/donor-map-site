@@ -45,7 +45,16 @@ top-policy-area: "Crime and Law Enforcement"
 
 | Donor | Amount |
 |---|---:|
-| CA Farm Bureau Federation | — |
+| National Association of Realtors | $26,379 |
+| AIPAC - American Israel Public Affairs Committee | $15,010 |
+| Nucor Corporation | $14,000 |
+| Comcast - NBCUniversal | $13,000 |
+| Duke Energy | $12,000 |
+| American Hospital Association PAC | $11,000 |
+| AT&T - WarnerMedia | $10,500 |
+| MAJORITY PAC | $10,000 |
+| Madison Project Inc. | $10,000 |
+| Walmart - Walton Family | $9,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

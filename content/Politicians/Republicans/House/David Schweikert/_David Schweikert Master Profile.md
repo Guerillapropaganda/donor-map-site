@@ -40,6 +40,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Hmp | $7,524,381 |
+| DCCC - Democratic Congressional Campaign Committee | $4,142,890 |
+| Americans for Prosperity | $1,059,847 |
+| Congressional Leadership Fund | $583,108 |
+| American Dream Federal Action | $500,479 |
+| Edf Action Votes | $333,748 |
+| Progressive Turnout Project | $259,866 |
+| NRCC - National Republican Congressional Committee | $223,000 |
+| 314 ACTION FUND | $136,853 |
+| Clearpath Action Fund, Inc. | $123,561 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

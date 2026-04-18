@@ -45,8 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Western Growers Association | — |
-| National Cattlemen's Beef Association | — |
+| American Dream Federal Action | $1,249,674 |
+| Defending Main Street Superpac INC | $795,541 |
+| Americans for Prosperity | $254,393 |
+| NRCC - National Republican Congressional Committee | $213,000 |
+| National Cattlemen's Beef Association | $22,500 |
+| AIPAC - American Israel Public Affairs Committee | $20,010 |
+| MAJORITY PAC | $20,000 |
+| Honeywell | $16,000 |
+| General Dynamics | $15,500 |
+| Congressional Leadership Fund | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| International Association of Firefighters Interested in Registration and Education PAC | $32,500 |
+| Teamsters - International Brotherhood of Teamsters | $30,000 |
+| American College of Radiology Association PAC | $30,000 |
+| UA Political Action Committee | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $22,500 |
+| National Association of Realtors | $21,000 |
+| Unite Here Tip Campaign Committee | $20,000 |
+| SEIU COPE | $15,000 |
+| National Multifamily Housing Council | $15,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

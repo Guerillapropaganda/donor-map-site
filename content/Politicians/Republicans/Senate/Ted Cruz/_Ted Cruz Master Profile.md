@@ -74,16 +74,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| Texas Conservatives Fund | $11,020,000 |
-| Truth and Courage PAC | $6,598,631 |
-| TEXAS FOREVER | $4,600,814 |
-| SAVE OUR COUNTRY | $3,100,000 |
-| WinSenate | $2,487,500 |
-| Crypto Industry Bloc | — |
-| Republican Jewish Coalition | — |
-| Texas Forever | — |
-| Save Our Country | — |
-| Christopher Ruddy | — |
+| Truth and Courage PAC | $10,463,359 |
+| SAVE OUR COUNTRY | $4,800,000 |
+| NRSC - National Republican Senatorial Committee | $2,888,301 |
+| WinSenate | $1,373,567 |
+| Senate Conservatives Fund | $1,064,072 |
+| National Association of Realtors | $673,512 |
+| Club for Growth INC PAC | $129,316 |
+| WinRed | $114,313 |
+| National Rifle Association | $76,736 |
+| Republican Jewish Coalition | $40,148 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

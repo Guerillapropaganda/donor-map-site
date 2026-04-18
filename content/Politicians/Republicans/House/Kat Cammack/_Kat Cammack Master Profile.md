@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Americans for Prosperity | $370,442 |
+| AIPAC - American Israel Public Affairs Committee | $35,059 |
+| National Cattlemen's Beef Association | $32,000 |
+| Duke Energy | $26,000 |
+| VIEW PAC - Value in Electing Women | $25,000 |
+| National Association of Realtors | $22,000 |
+| Marathon Petroleum | $20,000 |
+| AT&T - WarnerMedia | $19,000 |
+| American College of Radiology Association PAC | $18,000 |
+| Anthem - Elevance Health | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

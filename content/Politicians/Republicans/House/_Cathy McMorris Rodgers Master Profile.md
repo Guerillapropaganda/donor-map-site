@@ -51,16 +51,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $982,440 |
-| AMERICAN HOSPITAL ASSOCIATION PAC | $347,605 |
+| American Hospital Association PAC | $358,605 |
 | Clearpath Action Fund, Inc. | $336,750 |
+| American College of Radiology Association PAC | $285,990 |
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $278,926 |
-| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $179,660 |
-| Patrick Soon-Shiong | — |
-| Marathon Petroleum | — |
-| American Hospital Association PAC | — |
-| Koch Industries | — |
-| Oil & Gas PACs | — |
+| Microsoft | $25,000 |
+| Chevron | $20,000 |
+| Occidental Petroleum | $20,000 |
+| Pfizer Inc. | $20,000 |
+| General Motors | $20,000 |
+| Walmart - Walton Family | $18,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

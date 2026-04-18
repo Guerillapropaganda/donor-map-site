@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $7,901,725 |
+| DCCC - Democratic Congressional Campaign Committee | $208,549 |
+| United We Can | $120,432 |
+| League of Conservation Voters | $101,589 |
+| Center Forward Committee | $75,000 |
+| Google - Alphabet | $29,104 |
+| Americans for Prosperity | $28,295 |
+| SEIU COPE | $27,967 |
+| Anthem - Elevance Health | $25,000 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

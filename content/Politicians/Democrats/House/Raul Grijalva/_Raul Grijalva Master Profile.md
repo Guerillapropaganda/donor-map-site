@@ -60,15 +60,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| AMERICANS FOR TAX REFORM | $460,368 |
-| MOVEON.ORG POLITICAL ACTION | $291,211 |
+| MoveOn.org Political Action | $291,211 |
 | CAMPAIGN FOR COMMUNITY CHANGE | $219,993 |
+| Working Families Party PAC | $184,000 |
 | SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU) | $121,000 |
-| WORKING FAMILIES PARTY PAC | $92,000 |
-| National Nurses United | — |
-| Campaign for Community Change | — |
-| MoveOn.org Political Action | — |
-| Working Families Party PAC | — |
+| NEA Fund for Children and Public Education | $22,000 |
+| Medicare for All - The Policy That Broke the Party | $21,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+| National Association of Realtors | $18,000 |
+| IBEW - International Brotherhood of Electrical Workers | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -64,16 +64,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $5,166,418 |
-| National Republican Senatorial Committee | $5,166,418 |
-| FREEDOM PARTNERS ACTION FUND INC | $2,028,031 |
 | SEIU COPE | $861,651 |
-| League of Conservation Voters | $591,357 |
-| AMERICAN FUTURE FUND POLITICAL ACTION | $330,000 |
-| Labor Unions | — |
-| American Future Fund Political Action | — |
-| California Nurses Association | — |
-| Freedom Partners Action Fund Inc | — |
+| United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| Teamsters - International Brotherhood of Teamsters | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $7,500 |
+| IBEW - International Brotherhood of Electrical Workers | $7,100 |
+| National Association of Realtors | $5,000 |
+| Let America Vote PAC | $5,000 |
+| J Street | $4,450 |
+| Mark Kelly | $4,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

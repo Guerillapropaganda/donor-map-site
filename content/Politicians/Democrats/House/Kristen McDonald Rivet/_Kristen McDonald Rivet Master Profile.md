@@ -36,6 +36,21 @@ fec-candidate-id: "H4MI08218"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $4,898,559 |
+| Hmp | $758,171 |
+| NRCC - National Republican Congressional Committee | $629,952 |
+| America PAC - Elon Musk | $434,311 |
+| Edf Action Votes | $142,987 |
+| J Street | $112,645 |
+| DCCC - Democratic Congressional Campaign Committee | $106,330 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| UA Political Action Committee | $20,000 |
+| Emily's List | $18,319 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

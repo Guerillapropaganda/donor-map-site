@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| CHC BOLD PAC | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| Medicare for All - The Policy That Broke the Party | $20,000 |
+| Progressive Turnout Project | $19,750 |
+| NEA Fund for Children and Public Education | $19,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $18,016 |
+| National Association of Realtors | $18,000 |
+| Let America Vote PAC | $10,000 |
+| UA Political Action Committee | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

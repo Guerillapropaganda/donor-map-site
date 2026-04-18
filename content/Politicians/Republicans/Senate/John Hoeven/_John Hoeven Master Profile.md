@@ -69,14 +69,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| NORTH DAKOTA STRONG INC | $320,600 |
-| American Energy Action Fund | $204,000 |
+| NORTH DAKOTA STRONG INC | $480,900 |
+| American Energy Action Fund | $305,998 |
+| National Wildlife Federation Action Fund | $150,000 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $108,164 |
-| NATIONAL WILDLIFE FEDERATION ACTION FUND | $100,000 |
-| Clearpath Action Fund, Inc. | $50,000 |
-| National Wildlife Federation Action Fund | — |
-| North Dakota Strong INC | — |
-| Western Growers Association | — |
+| National Association of Realtors | $76,970 |
+| Clearpath Action Fund, Inc. | $75,000 |
+| National Cattlemen's Beef Association | $12,000 |
+| ADM - Archer Daniels Midland | $10,200 |
+| ConocoPhillips | $10,000 |
+| Common Sense for America PAC | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

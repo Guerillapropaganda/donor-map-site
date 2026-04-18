@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American College of Radiology Association PAC | $305,568 |
+| American Hospital Association PAC | $109,022 |
+| National Victory Action Fund | $100,000 |
+| AIPAC - American Israel Public Affairs Committee | $52,589 |
+| NORPAC | $42,380 |
+| WinRed | $16,473 |
+| Ford Motor Company | $11,500 |
+| VIEW PAC - Value in Electing Women | $10,000 |
+| National Multifamily Housing Council | $10,000 |
+| AT&T - WarnerMedia | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

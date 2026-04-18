@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Emily's List | $136,770 |
+| Food and Water Action | $94,938 |
+| DCCC - Democratic Congressional Campaign Committee | $94,364 |
+| Congressional Leadership Fund | $56,350 |
+| Amgen Inc | $30,157 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Honeywell | $24,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $22,500 |
+| National Association of Realtors | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $19,900 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

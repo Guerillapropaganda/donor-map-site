@@ -36,6 +36,21 @@ fec-candidate-id: "H6NC09200"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Blackstone Group | $10,500 |
+| Bank of America | $10,225 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| Duke Energy | $9,225 |
+| SpaceX | $6,600 |
+| Scott Perry | $4,000 |
+| Wells Fargo | $3,450 |
+| Campaign for Working Families | $3,000 |
+| Morgan Stanley | $2,700 |
+| HBW Resources | $2,700 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

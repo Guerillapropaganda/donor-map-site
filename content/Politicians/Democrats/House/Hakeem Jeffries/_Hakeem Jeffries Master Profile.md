@@ -94,11 +94,20 @@ top-policy-area: "Civil Rights and Liberties, Minority Issues"
 
 **Total received:** $10,327,241
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Real Estate Industry ($365K 2022 cycle)
-- Wall Street / Finance ($600K+ 2022 cycle)
-- AIPAC and affiliated networks ($1.3M+ career)
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $50,961 |
+| National Association of Realtors | $35,361 |
+| Honeywell | $35,000 |
+| American Hospital Association PAC | $30,000 |
+| Comcast - NBCUniversal | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| AT&T - WarnerMedia | $30,000 |
+| General Motors | $28,500 |
+| SEIU COPE | $25,000 |
+| National Multifamily Housing Council | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

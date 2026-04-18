@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $2,308,223 |
+| National Association of Realtors | $760,216 |
+| DCCC - Democratic Congressional Campaign Committee | $117,288 |
+| League of Conservation Voters | $79,154 |
+| Hmp | $67,750 |
+| J Street | $30,430 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| NEA Fund for Children and Public Education | $30,000 |
+| IBEW - International Brotherhood of Electrical Workers | $27,500 |
+| Honeywell | $23,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

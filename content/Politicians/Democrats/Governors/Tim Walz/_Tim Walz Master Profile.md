@@ -41,14 +41,9 @@ fec-cycle: 2018
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $1,935,395 |
 | SEIU COPE | $516,807 |
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $212,147 |
 | BLUEGREEN ALLIANCE | $108,805 |
-| FREEDOM CLUB FEDERAL PAC | $66,000 |
-| Democracy Alliance | — |
-| Freedom Club Federal PAC | — |
-| Bluegreen Alliance | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Chevron | $24,500 |
+| Google - Alphabet | $23,500 |
+| Comcast - NBCUniversal | $23,000 |
+| Equality California Votes | $22,000 |
+| AT&T - WarnerMedia | $21,500 |
+| MAJORITY PAC | $20,000 |
+| PG&E - Pacific Gas and Electric | $19,769 |
+| Anthem - Elevance Health | $19,000 |
+| Honeywell | $19,000 |
+| AIPAC - American Israel Public Affairs Committee | $18,912 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

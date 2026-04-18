@@ -45,9 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| CA Farm Bureau Federation | — |
-| California Farm Bureau Federation | — |
-| National Cattlemen's Beef Association | — |
+| National Association of Realtors | $32,290 |
+| Morgan Stanley | $27,500 |
+| American Hospital Association PAC | $27,000 |
+| National Multifamily Housing Council | $25,000 |
+| PG&E - Pacific Gas and Electric | $24,519 |
+| IBEW - International Brotherhood of Electrical Workers | $24,200 |
+| Honeywell | $22,500 |
+| NextEra Energy | $21,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $18,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

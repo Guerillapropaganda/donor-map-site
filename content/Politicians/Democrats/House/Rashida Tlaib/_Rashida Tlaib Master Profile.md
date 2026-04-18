@@ -89,13 +89,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Honoring American Law Enforcement Pac | $127,500 |
-| Law Enforcement for a Safer America Pac | $127,500 |
 | Wfp Ie Committee | $110,550 |
-| MOVEON.ORG POLITICAL ACTION | $89,795 |
-| FRIENDS OF THE EARTH (ACTION) INC | $40,939 |
-| Friends of the Earth (action) INC | — |
-| MoveOn.org Political Action | — |
+| MoveOn.org Political Action | $95,724 |
+| Friends of the Earth (action) INC | $63,980 |
+| Law Enforcement for a Safer America Pac | $63,750 |
+| Honoring American Law Enforcement Pac | $63,750 |
+| Microsoft | $58,678 |
+| Apple | $46,847 |
+| Meta - Facebook | $27,610 |
+| Google - Alphabet | $26,920 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

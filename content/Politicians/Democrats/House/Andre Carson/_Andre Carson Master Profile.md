@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $32,500 |
+| Anthem - Elevance Health | $22,500 |
+| National Association of Realtors | $21,000 |
+| Honeywell | $18,500 |
+| Duke Energy | $16,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $16,000 |
+| Northrop Grumman | $15,000 |
+| Raytheon (RTX) | $15,000 |
+| AbbVie | $14,758 |
+| Lockheed Martin | $13,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

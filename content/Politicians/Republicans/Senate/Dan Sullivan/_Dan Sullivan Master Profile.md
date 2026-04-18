@@ -56,7 +56,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| ConocoPhillips | — |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Indivisible Action | $15,475 |
+| Halliburton | $10,000 |
+| BAE Systems | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| ConocoPhillips | $10,000 |
+| Microsoft | $10,000 |
+| Bechtel Corporation | $10,000 |
+| Northrop Grumman | $7,500 |
+| Anthem - Elevance Health | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

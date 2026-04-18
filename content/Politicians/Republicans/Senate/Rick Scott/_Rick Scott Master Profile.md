@@ -80,11 +80,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| National Republican Senatorial Committee | — |
-| AFGE - American Federation of Government Employees | — |
-| Fanjul Family - Florida Crystals | — |
-| Raytheon (RTX Corporation) | — |
-| Blue Shield of California | — |
+| Senate Conservatives Fund | $980,937 |
+| National Association of Realtors | $611,864 |
+| WinSenate | $544,999 |
+| Law Enforcement for a Safer America Pac | $135,000 |
+| Club for Growth INC PAC | $82,197 |
+| NRSC - National Republican Senatorial Committee | $52,800 |
+| WinRed | $35,927 |
+| Republican Jewish Coalition | $26,310 |
+| Mad Dog PAC | $18,105 |
+| AIPAC - American Israel Public Affairs Committee | $16,767 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

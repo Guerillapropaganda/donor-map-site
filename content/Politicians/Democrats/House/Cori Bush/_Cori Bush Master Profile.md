@@ -95,13 +95,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| UNITED DEMOCRACY PROJECT ('UDP') | $9,956,554 |
-| FAIRSHAKE | $2,789,872 |
-| JUSTICE DEMOCRATS PAC | $2,755,000 |
-| Mainstream Democrats Pac | $992,222 |
-| WORKING FAMILIES PARTY PAC | $878,370 |
-| Justice Democrats PAC | — |
-| Working Families Party PAC | — |
+| United Democracy Project - UDP | $5,242,242 |
+| JUSTICE DEMOCRATS PAC | $4,153,037 |
+| Working Families Party PAC | $1,550,094 |
+| Fairshake PAC - Crypto Super PAC | $1,406,523 |
+| Mainstream Democrats Pac | $595,279 |
+| Congressional Progressive Caucus PAC | $145,223 |
+| National Nurses United for Patient Protection | $134,500 |
+| Medicare for All - The Policy That Broke the Party | $114,149 |
+| Emgage Federal Political Action Committee | $100,000 |
+| Planned Parenthood Votes | $80,936 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

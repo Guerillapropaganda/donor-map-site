@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Cattlemen's Beef Association | $31,000 |
+| Duke Energy | $25,000 |
+| National Association of Realtors | $24,000 |
+| AIPAC - American Israel Public Affairs Committee | $23,412 |
+| Honeywell | $19,000 |
+| Associated General Contractors of America Political Action Committee | $16,000 |
+| Blackstone Group | $10,300 |
+| Comcast - NBCUniversal | $10,000 |
+| MAJORITY PAC | $10,000 |
+| General Motors | $9,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

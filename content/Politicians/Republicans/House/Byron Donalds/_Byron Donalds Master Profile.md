@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Elbert Guillory's America | $256,707 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $40,000 |
+| National Association of Realtors | $20,063 |
+| Valero Energy | $15,000 |
+| NextEra Energy | $14,500 |
+| Goldman Sachs | $10,650 |
+| AIPAC - American Israel Public Affairs Committee | $10,010 |
+| Marathon Petroleum | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Anthem - Elevance Health | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

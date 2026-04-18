@@ -62,13 +62,16 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount |
 |---|---:|
-| JUSTICE DEMOCRATS PAC | $2,968,583 |
-| WORKING FAMILIES PARTY PAC | $640,000 |
-| CONGRESSIONAL PROGRESSIVE CAUCUS PAC | $437,462 |
-| Courage to Change PAC | — |
-| Working Families Party PAC | — |
-| Congressional Progressive Caucus PAC | — |
-| Justice Democrats PAC | — |
+| JUSTICE DEMOCRATS PAC | $4,011,713 |
+| United Democracy Project - UDP | $3,273,947 |
+| Working Families Party PAC | $1,952,737 |
+| WFP NATIONAL PAC | $1,872,561 |
+| Congressional Progressive Caucus PAC | $645,569 |
+| National Nurses United for Patient Protection | $120,495 |
+| DCCC - Democratic Congressional Campaign Committee | $110,000 |
+| Emgage Federal Political Action Committee | $101,500 |
+| League of Conservation Voters | $81,022 |
+| MoveOn.org Political Action | $63,745 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

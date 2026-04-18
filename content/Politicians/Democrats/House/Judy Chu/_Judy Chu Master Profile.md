@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $31,249 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| National Multifamily Housing Council | $25,000 |
+| NEA Fund for Children and Public Education | $22,000 |
+| Teamsters - International Brotherhood of Teamsters | $21,800 |
+| Morgan Stanley | $21,500 |
+| AT&T - WarnerMedia | $21,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $20,250 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| Comcast - NBCUniversal | $16,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

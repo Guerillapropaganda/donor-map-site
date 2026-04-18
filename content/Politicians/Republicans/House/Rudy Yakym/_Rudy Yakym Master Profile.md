@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $33,879 |
+| Anthem - Elevance Health | $23,500 |
+| WinRed | $20,702 |
+| National Association of Realtors | $18,000 |
+| National Association of Manufacturers | $15,000 |
+| Honeywell | $12,000 |
+| Duke Energy | $12,000 |
+| Associated General Contractors of America Political Action Committee | $10,500 |
+| National Multifamily Housing Council | $10,000 |
+| AT&T - WarnerMedia | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -38,15 +38,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| PRIORITIES USA ACTION | $112,336,878 |
 | Restore Our Future, Inc. | $23,749,265 |
-| Winning Our Future | $15,418,720 |
 | AMERICAN CROSSROADS | $11,481,126 |
 | Americans for Responsible Leadership | $9,633,565 |
-| Elliott Management | — |
-| Christopher Ruddy | — |
-| Rebekah Mercer | — |
-| American Crossroads | — |
+| WinRed | $64,220 |
+| Anthem - Elevance Health | $15,000 |
+| Drain the DC Swamp PAC | $14,999 |
+| AbbVie | $7,500 |
+| National Association of Manufacturers | $7,500 |
+| CVS Health - Aetna | $2,000 |
+| Amgen Inc | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

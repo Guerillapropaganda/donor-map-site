@@ -60,14 +60,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | Patriot Majority Pac | $1,193,402 |
-| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $145,772 |
-| America's Renewal Pac, Inc. | $133,000 |
-| Citizens Against Aipac Corruption | $45,408 |
-| United for Common Sense | $44,250 |
-| UNITE HERE | — |
-| Bacardi - Bacardi USA | — |
-| American College of Radiology Association PAC | — |
-| Fanjul Family - Florida Crystals | — |
+| American College of Radiology Association PAC | $180,772 |
+| NextEra Energy | $50,200 |
+| Comcast - NBCUniversal | $46,000 |
+| AIPAC - American Israel Public Affairs Committee | $45,243 |
+| Fanjul Family - Florida Crystals | $33,300 |
+| Lennar Corporation | $30,400 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| IBEW - International Brotherhood of Electrical Workers | $26,500 |
+| L3Harris Technologies | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

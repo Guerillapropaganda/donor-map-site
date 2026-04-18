@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Club for Growth | $337,420 |
+| Club for Growth INC PAC | $58,238 |
+| Anthem - Elevance Health | $18,500 |
+| National Association of Realtors | $16,000 |
+| CVS Health - Aetna | $15,000 |
+| Cigna Group | $13,250 |
+| AIPAC - American Israel Public Affairs Committee | $11,509 |
+| Honeywell | $7,500 |
+| Tyson Foods | $7,000 |
+| SpaceX | $6,600 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

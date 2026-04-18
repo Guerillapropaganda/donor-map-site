@@ -45,16 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| NRA POLITICAL VICTORY FUND | $19,176 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $14,048 |
-| CLUB FOR GROWTH INC PAC | $1,466 |
-| League of Conservation Voters | $203 |
-| National Right to Life Victory Fund | $51 |
-| Insurance Industry | — |
-| NRA Political Victory Fund | — |
-| NextEra Energy | — |
-| Goldman Sachs | — |
-| Club for Growth INC PAC | — |
+| American Energy Action Fund | $101,998 |
+| ConocoPhillips | $20,000 |
+| National Rifle Association | $17,235 |
+| International Association of Firefighters Interested in Registration and Education PAC | $15,000 |
+| Republican Jewish Coalition | $15,000 |
+| McDonalds Corporation | $15,000 |
+| Chevron | $15,000 |
+| Walmart - Walton Family | $15,000 |
+| Occidental Petroleum | $13,500 |
+| Raytheon (RTX) | $13,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

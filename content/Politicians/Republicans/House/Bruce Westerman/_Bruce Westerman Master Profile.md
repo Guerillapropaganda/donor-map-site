@@ -52,16 +52,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $144,806 |
-| THE DISABLED VETERANS COALITION PAC | $125,262 |
-| AMERICAN CONSERVATIVE UNION | $68,465 |
-| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $36,000 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $9,992 |
-| American Petroleum Institute | — |
-| The Disabled Veterans Coalition PAC | — |
-| Citizens for Responsible Energy Solutions Inc. | — |
-| American Conservative Union | — |
-| National Cattlemen's Beef Association | — |
+| THE DISABLED VETERANS COALITION PAC | $215,503 |
+| American Conservative Union | $68,465 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $54,000 |
+| National Cattlemen's Beef Association | $35,000 |
+| Chevron | $27,500 |
+| Tyson Foods | $24,500 |
+| Lockheed Martin | $24,000 |
+| AIPAC - American Israel Public Affairs Committee | $23,162 |
+| National Association of Realtors | $23,000 |
+| Valero Energy | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

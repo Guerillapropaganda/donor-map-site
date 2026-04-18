@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $5,830,024 |
+| NRCC - National Republican Congressional Committee | $2,343,098 |
+| League of Conservation Voters | $125,527 |
+| DCCC - Democratic Congressional Campaign Committee | $120,450 |
+| Together for Progress PAC | $80,770 |
+| Humane Society Legislative Fund | $71,881 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $64,224 |
+| Teamsters - International Brotherhood of Teamsters | $38,825 |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| Let America Vote PAC | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

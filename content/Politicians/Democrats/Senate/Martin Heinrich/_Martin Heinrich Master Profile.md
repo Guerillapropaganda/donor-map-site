@@ -58,15 +58,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,657,749 |
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $1,071,940 |
-| AMERICAN FUTURE FUND | $1,012,074 |
-| REPUBLICAN CAMPAIGN COMMITTEE OF NEW MEXICO | $930,000 |
-| ENVIRONMENT AMERICA INC | $289,555 |
-| American Petroleum Institute | — |
-| Tech Industry | — |
-| Bill Gates | — |
-| American Future Fund | — |
-| Raytheon (RTX Corporation) | — |
+| ENVIRONMENT AMERICA INC | $293,055 |
+| National Association of Realtors | $58,406 |
+| Google - Alphabet | $38,742 |
+| Comcast - NBCUniversal | $28,015 |
+| Palantir Technologies | $22,650 |
+| Blackstone Group | $19,900 |
+| Meta - Facebook | $15,800 |
+| Anduril Industries | $13,900 |
+| NextEra Energy | $12,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

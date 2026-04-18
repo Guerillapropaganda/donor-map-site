@@ -66,16 +66,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| DEFENDARIZONA | $3,377,416 |
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $2,817,627 |
-| AMERICAN FUTURE FUND | $1,145,640 |
-| Congressional Leadership Fund | $1,143,122 |
 | NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND | $712,100 |
-| Wall Street Bloc | — |
-| Private Equity Industry Bloc | — |
-| AFSCME - American Federation of State County and Municipal Employees | — |
-| AFGE - American Federation of Government Employees | — |
-| Pharmaceutical Industry | — |
+| Indivisible Action | $22,094 |
+| AIPAC - American Israel Public Affairs Committee | $12,750 |
+| CoreCivic - Private Prisons | $10,000 |
+| Associated General Contractors of America Political Action Committee | $10,000 |
+| Humana | $10,000 |
+| AT&T - WarnerMedia | $8,000 |
+| NextEra Energy | $7,500 |
+| Devon Energy | $7,500 |
+| Chevron | $7,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -39,6 +39,15 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Jahana Hayes | $3,300 |
+| Ballard Partners | $2,000 |
+| Fanjul Family - Florida Crystals | $1,000 |
+| NextEra Energy | $250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -36,6 +36,21 @@ fec-candidate-id: "H4CA47085"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| United Democracy Project - UDP | $4,615,281 |
+| Club for Growth | $2,105,424 |
+| League of Conservation Voters | $1,328,827 |
+| Hmp | $932,480 |
+| Everytown for Gun Safety Victory Fund | $567,423 |
+| Congressional Leadership Fund | $352,875 |
+| Edf Action Votes | $200,000 |
+| DCCC - Democratic Congressional Campaign Committee | $101,802 |
+| American Federation of State County & Municipal Employees P E O P L E | $86,812 |
+| DMFI - Democratic Majority for Israel | $86,333 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

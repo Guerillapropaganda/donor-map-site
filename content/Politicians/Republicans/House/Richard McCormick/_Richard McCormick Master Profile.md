@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Americans for Prosperity | $356,121 |
+| SPECIAL OPERATIONS FOR AMERICA | $46,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $28,500 |
+| AIPAC - American Israel Public Affairs Committee | $20,010 |
+| Club for Growth INC PAC | $16,458 |
+| National Association of Realtors | $16,000 |
+| American College of Radiology Association PAC | $14,500 |
+| General Dynamics | $13,000 |
+| Honeywell | $10,000 |
+| MAJORITY PAC | $10,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

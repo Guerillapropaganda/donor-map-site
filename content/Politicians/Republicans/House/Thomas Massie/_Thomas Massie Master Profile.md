@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $588,571 |
+| United Democracy Project - UDP | $319,783 |
+| MAJORITY PAC | $20,000 |
+| National Association of Realtors | $12,000 |
+| Jim Jordan | $10,000 |
+| a16z - Andreessen Horowitz | $9,900 |
+| iHeartMedia | $6,500 |
+| Associated General Contractors of America Political Action Committee | $5,500 |
+| Save America PAC | $5,000 |
+| Meta - Facebook | $4,540 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -36,6 +36,21 @@ fec-candidate-id: "H4FL08168"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| L3Harris Technologies | $20,000 |
+| National Association of Realtors | $12,000 |
+| Ballard Partners | $11,557 |
+| Morgan Stanley | $10,215 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| MAJORITY PAC | $10,000 |
+| Honeywell | $10,000 |
+| Northrop Grumman | $8,436 |
+| Blackstone Group | $7,000 |
+| NextEra Energy | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

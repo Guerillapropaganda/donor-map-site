@@ -61,12 +61,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| Tech Industry | — |
-| Real Estate Roundtable | — |
-| National Restaurant Association | — |
-| National Association of Manufacturers | — |
-| American Gaming Association | — |
-| ActBlue | — |
+| Blackstone Group | $77,650 |
+| Google - Alphabet | $64,250 |
+| Apollo Global Management | $41,800 |
+| Valero Energy | $30,000 |
+| Marathon Petroleum | $30,000 |
+| Anthem - Elevance Health | $27,500 |
+| National Association of Realtors | $27,179 |
+| Pfizer Inc. | $25,500 |
+| AT&T - WarnerMedia | $25,000 |
+| Humana | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

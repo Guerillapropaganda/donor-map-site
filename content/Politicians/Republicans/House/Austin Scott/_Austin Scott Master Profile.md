@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Derrick van Orden | $10,000 |
+| Monica de la Cruz | $8,000 |
+| Brad Finstad | $8,000 |
+| Ryan Zinke | $8,000 |
+| John James | $6,000 |
+| Mariannette Miller-Meeks | $6,000 |
+| Young Kim | $6,000 |
+| Ken Calvert | $6,000 |
+| Michael Lawler | $6,000 |
+| David Schweikert | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

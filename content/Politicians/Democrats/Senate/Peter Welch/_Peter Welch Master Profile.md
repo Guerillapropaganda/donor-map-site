@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| DSCC - Democratic Senatorial Campaign Committee | $51,200 |
+| United Food and Commercial Workers International Union Active Ballot Club | $11,000 |
+| National Association of Realtors | $10,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $10,000 |
+| American Hospital Association PAC | $10,000 |
+| National Restaurant Association | $10,000 |
+| NEA Fund for Children and Public Education | $10,000 |
+| Let America Vote PAC | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| Teamsters - International Brotherhood of Teamsters | $6,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -50,9 +50,11 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Jeffrey Yass | — |
-| Peter Thiel | — |
-| Ross Stevens | — |
+| WinRed | $150,444 |
+| Drain the DC Swamp PAC | $67,600 |
+| Trump Victory | $10,000 |
+| PRIORITIES USA ACTION | $2,521 |
+| Ruralvote.org | $357 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

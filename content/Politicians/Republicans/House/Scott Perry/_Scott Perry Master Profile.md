@@ -46,7 +46,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| House Freedom Caucus | — |
+| Hmp | $2,463,680 |
+| DCCC - Democratic Congressional Campaign Committee | $1,494,525 |
+| Edf Action Votes | $717,068 |
+| Progressive Turnout Project | $378,304 |
+| Club for Growth INC PAC | $125,646 |
+| NRCC - National Republican Congressional Committee | $115,000 |
+| PROTECT FREEDOM POLITICAL ACTION COMMITTEE | $113,500 |
+| DMFI - Democratic Majority for Israel | $25,570 |
+| Mainstream Democrats Pac | $25,570 |
+| MAJORITY PAC | $20,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

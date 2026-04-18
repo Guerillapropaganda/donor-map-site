@@ -36,6 +36,21 @@ fec-candidate-id: "H4CA45170"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $11,363,818 |
+| Hmp | $1,914,514 |
+| League of Conservation Voters | $974,626 |
+| America PAC - Elon Musk | $553,380 |
+| Defending Main Street Superpac INC | $300,000 |
+| DCCC - Democratic Congressional Campaign Committee | $192,684 |
+| Everytown for Gun Safety Victory Fund | $155,819 |
+| AFSCME Working Families Fund | $89,499 |
+| American Federation of State County & Municipal Employees P E O P L E | $56,532 |
+| J Street | $42,347 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

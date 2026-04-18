@@ -56,15 +56,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $600,052 |
+| AIPAC - American Israel Public Affairs Committee | $48,612 |
+| NORPAC | $27,100 |
+| Common Sense for America PAC | $26,948 |
 | MISSISSIPPI REPUBLICAN PARTY | $19,442 |
-| PLANNED PARENTHOOD ACTION FUND INC | $2 |
-| Lockheed Martin | — |
-| Mississippi Republican Party | — |
-| Northrop Grumman | — |
-| Raytheon (RTX Corporation) | — |
-| General Dynamics | — |
-| Planned Parenthood Action Fund INC | — |
+| National Association of Realtors | $15,954 |
+| L3Harris Technologies | $15,000 |
+| American Chemistry Council, INC | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $15,000 |
+| WinRed | $14,350 |
+| General Dynamics | $12,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

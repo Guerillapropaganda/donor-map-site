@@ -52,14 +52,15 @@ urls-first-triaged: "2026-04-15"
 | Donor | Amount |
 |---|---:|
 | UNITED DEMOCRACY PROJECT ('UDP') | $6,544,513 |
-| Mainstream Democrats Pac | $1,298,799 |
-| JUSTICE DEMOCRATS PAC | $1,277,510 |
+| United Democracy Project - UDP | $3,356,270 |
+| Mainstream Democrats Pac | $1,700,542 |
 | DMFI PAC | $921,906 |
-| WORKING FAMILIES PARTY PAC | $403,125 |
-| Working Families Party PAC | — |
-| DMFI - Democratic Majority for Israel | — |
-| Bernie Marcus | — |
-| Justice Democrats PAC | — |
+| JUSTICE DEMOCRATS PAC | $655,004 |
+| DMFI - Democratic Majority for Israel | $493,753 |
+| Working Families Party PAC | $410,625 |
+| AIPAC - American Israel Public Affairs Committee | $290,975 |
+| National Association of Realtors | $109,860 |
+| Planned Parenthood Votes | $19,064 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

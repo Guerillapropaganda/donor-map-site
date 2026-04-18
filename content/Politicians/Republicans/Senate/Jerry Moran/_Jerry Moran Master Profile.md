@@ -53,16 +53,16 @@ top-policy-area: "Armed Forces and National Security"
 
 | Donor | Amount |
 |---|---:|
-| KANSANS FOR LIFE POLITICAL ACTION COMMITTEE | $223 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $207 |
-| PLANNED PARENTHOOD ADVOCATES OF KANSAS | $120 |
-| PLANNED PARENTHOOD OF KS & MID-MO | $7 |
-| PLANNED PARENTHOOD ACTION FUND INC | $2 |
-| Western Growers Association | — |
-| Planned Parenthood Action Fund INC | — |
-| Planned Parenthood Advocates of Kansas | — |
-| Kansans for Life Political Action Committee | — |
-| Koch network | — |
+| American Energy Action Fund | $52,000 |
+| Kansans for Life Political Action Committee | $33,335 |
+| National Association of Realtors | $16,712 |
+| National Cattlemen's Beef Association | $15,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $15,000 |
+| National Rifle Association | $12,859 |
+| Lockheed Martin | $12,500 |
+| Amgen Inc | $12,500 |
+| American Hospital Association PAC | $11,500 |
+| L3Harris Technologies | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

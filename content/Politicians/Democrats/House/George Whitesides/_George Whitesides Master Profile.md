@@ -36,6 +36,21 @@ fec-candidate-id: "H4CA27111"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $9,096,557 |
+| Hmp | $2,414,677 |
+| NRCC - National Republican Congressional Committee | $2,285,222 |
+| League of Conservation Voters | $1,452,391 |
+| DCCC - Democratic Congressional Campaign Committee | $107,536 |
+| SEIU COPE | $67,229 |
+| Google - Alphabet | $39,078 |
+| MAJORITY PAC | $36,330 |
+| 314 ACTION FUND | $24,373 |
+| Progressive Turnout Project | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

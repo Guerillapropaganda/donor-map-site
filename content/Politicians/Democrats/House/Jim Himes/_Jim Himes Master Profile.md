@@ -52,13 +52,14 @@ donors: "[[Trinity PAC]] · [[League of Conservation Voters]] · [[DEMOCRATIC CO
 |---|---:|
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,276,129 |
 | League of Conservation Voters | $71,850 |
-| TRINITY PAC | $64,118 |
-| CONNECTICUT TAXPAYERS ALLIANCE | $40,000 |
-| COMMON SENSE FOR CONNECTICUT | $39,058 |
-| Common Sense for Connecticut | — |
-| Trinity PAC | — |
-| Goldman Sachs | — |
-| Connecticut Taxpayers Alliance | — |
+| Raytheon (RTX) | $33,000 |
+| COMMON SENSE FOR CONNECTICUT | $30,687 |
+| Bank of America | $27,500 |
+| Morgan Stanley | $26,500 |
+| National Multifamily Housing Council | $25,000 |
+| National Association of Realtors | $25,000 |
+| Teamsters - International Brotherhood of Teamsters | $25,000 |
+| Lockheed Martin | $24,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

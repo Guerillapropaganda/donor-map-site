@@ -40,6 +40,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $712,886 |
+| AMERICAN PATRIOTS PAC | $206,917 |
+| Drain the DC Swamp PAC | $72,510 |
+| SPECIAL OPERATIONS FOR AMERICA | $47,003 |
+| Valero Energy | $25,000 |
+| National Cattlemen's Beef Association | $17,500 |
+| AIPAC - American Israel Public Affairs Committee | $15,510 |
+| National Association of Realtors | $11,000 |
+| Honeywell | $10,000 |
+| Lockheed Martin | $8,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

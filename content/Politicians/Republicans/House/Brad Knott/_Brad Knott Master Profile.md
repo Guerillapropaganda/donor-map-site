@@ -41,7 +41,16 @@ fec-candidate-id: "H4NC13116"
 
 | Donor | Amount |
 |---|---:|
-| CA Farm Bureau Federation | — |
+| Americans for Prosperity | $196,023 |
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| Honeywell | $11,000 |
+| National Association of Realtors | $9,000 |
+| Pfizer Inc. | $7,500 |
+| Blackstone Group | $7,000 |
+| Jim Jordan | $6,000 |
+| Michael Lawler | $6,000 |
+| Ted Budd | $6,000 |
+| Google - Alphabet | $5,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

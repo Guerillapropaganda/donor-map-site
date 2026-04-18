@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Airbnb | $12,200 |
+| Google - Alphabet | $11,225 |
+| Goldman Sachs | $6,600 |
+| Mike Levin | $5,000 |
+| Kaiser Permanente | $4,226 |
+| Patrick Ryan | $4,000 |
+| Greg Landsman | $4,000 |
+| Marcy Kaptur | $4,000 |
+| Kim Schrier | $4,000 |
+| Sharice Davids | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

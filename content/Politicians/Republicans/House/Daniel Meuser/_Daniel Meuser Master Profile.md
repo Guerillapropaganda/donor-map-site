@@ -40,6 +40,21 @@ top-policy-area: "Finance and Financial Sector"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Marathon Petroleum | $27,500 |
+| Comcast - NBCUniversal | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $18,410 |
+| National Association of Realtors | $18,000 |
+| National Rifle Association | $10,320 |
+| MAJORITY PAC | $10,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $9,000 |
+| American Hospital Association PAC | $8,000 |
+| Bank of America | $7,500 |
+| Citigroup | $7,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -66,14 +66,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Connecticut Patriots Pac | $5,702,166 |
-| Restoration PAC | $450,000 |
-| LEADERSHIP NOW | $446,250 |
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $158,505 |
+| Connecticut Patriots Pac | $2,851,080 |
+| Restoration PAC | $225,000 |
+| Leadership Now | $174,875 |
 | NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY & MEDICARE PAC | $102,121 |
-| Google - Alphabet | — |
-| National Committee to Preserve Social Security & Medicare PAC | — |
-| Leadership Now | — |
+| NEA Fund for Children and Public Education | $12,000 |
+| Comcast - NBCUniversal | $11,500 |
+| AIPAC - American Israel Public Affairs Committee | $10,800 |
+| National Multifamily Housing Council | $10,000 |
+| Microsoft | $10,000 |
+| SEIU COPE | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Hospital Association PAC | $30,000 |
+| American College of Radiology Association PAC | $30,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $29,000 |
+| Valero Energy | $25,000 |
+| Comcast - NBCUniversal | $25,000 |
+| Chevron | $22,500 |
+| AT&T - WarnerMedia | $22,000 |
+| Marathon Petroleum | $20,000 |
+| National Association of Realtors | $19,000 |
+| Anthem - Elevance Health | $15,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

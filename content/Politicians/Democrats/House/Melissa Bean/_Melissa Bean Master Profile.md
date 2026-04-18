@@ -66,15 +66,16 @@ donors: "[[Fairshake PAC]] · [[United Democracy Project - UDP]] · [[Think Big 
 
 | Donor | Amount |
 |---|---:|
-| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $4,693,598 |
 | DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $1,860,255 |
 | NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE | $464,668 |
 | NEW HOUSE PAC | $47,072 |
-| Fairshake PAC | — |
-| New House PAC | — |
-| Think Big AI PAC | — |
-| Brady Campaign | — |
-| United Democracy Project - UDP | — |
+| American Gaming Association | $3,622 |
+| Wells Fargo | $3,500 |
+| Ballard Partners | $3,500 |
+| Morgan Stanley | $2,500 |
+| Bank of America | $2,500 |
+| Starbucks | $1,500 |
+| JPMorgan Chase | $1,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

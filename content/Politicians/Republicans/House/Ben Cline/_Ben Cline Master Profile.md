@@ -39,6 +39,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| David Schweikert | $3,000 |
+| Young Kim | $3,000 |
+| Ken Calvert | $3,000 |
+| Mariannette Miller-Meeks | $3,000 |
+| FTX - Sam Bankman-Fried | $2,900 |
+| Apple | $2,500 |
+| Chip Roy | $2,000 |
+| Russell Fry | $2,000 |
+| Richard McCormick | $2,000 |
+| Victoria Spartz | $2,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

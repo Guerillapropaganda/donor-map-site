@@ -54,15 +54,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Center Forward Committee | $1,259,500 |
-| CLEAR VOICE MINNESOTA | $96,000 |
-| BLUE MAJORITY PROJECT | $50,853 |
+| Center Forward Committee | $629,749 |
+| BLUE MAJORITY PROJECT | $78,529 |
 | NORTH STAR DAWN PAC | $37,500 |
-| DMFI PAC | $2,649 |
-| Clear Voice Minnesota | — |
-| Republican Jewish Coalition | — |
-| North Star Dawn PAC | — |
-| Blue Majority Project | — |
+| Google - Alphabet | $21,879 |
+| Microsoft | $14,952 |
+| Coinbase | $13,800 |
+| Amazon | $12,805 |
+| UnitedHealth Group - Optum | $11,450 |
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| FTX - Sam Bankman-Fried | $8,700 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

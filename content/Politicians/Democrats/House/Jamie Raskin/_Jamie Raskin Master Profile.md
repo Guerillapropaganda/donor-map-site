@@ -72,14 +72,15 @@ top-policy-area: "Health"
 | Donor | Amount |
 |---|---:|
 | FREETHOUGHT EQUALITY SUPER PAC | $72,200 |
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| Unite Here Tip Campaign Committee | $25,000 |
+| National Association of Realtors | $20,250 |
+| NEA Fund for Children and Public Education | $20,000 |
+| Demand Justice | $15,000 |
+| Comcast - NBCUniversal | $14,500 |
+| Goldman Sachs | $13,900 |
 | NEA ADVOCACY FUND | $13,321 |
-| NEA FUND FOR CHILDREN AND PUBLIC EDUCATION | $10,000 |
-| Planned Parenthood Votes | $124 |
-| UNITE HERE | — |
-| NEA Advocacy Fund | — |
-| Demand Justice | — |
-| NEA Fund for Children and Public Education | — |
-| Freethought Equality Super PAC | — |
+| Google - Alphabet | $11,550 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -53,12 +53,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $398,649 |
 | NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $83,102 |
+| Associated General Contractors of America Political Action Committee | $47,628 |
 | NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE | $41,300 |
-| ASSOCIATED GENERAL CONTRACTORS OF AMERICA POLITICAL ACTION COMMITTEE | $21,628 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $5,890 |
-| Associated General Contractors of America Political Action Committee | — |
+| AIPAC - American Israel Public Affairs Committee | $32,610 |
+| Raytheon (RTX) | $29,000 |
+| National Association of Realtors | $27,421 |
+| Honeywell | $27,000 |
+| General Dynamics | $26,500 |
+| National Multifamily Housing Council | $25,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $25,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -109,16 +109,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| National Republican Senatorial Committee | $716,449 |
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $716,449 |
-| PEOPLE'S MAJORITY | $366,331 |
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $177,910 |
-| Roosevelt Society Action | $159,783 |
-| MOVEON.ORG POLITICAL ACTION | $5,751 |
-| MoveOn.org Political Action | — |
-| Fraternal Order of Police | — |
-| People's Majority | — |
-| Judicial Crisis Network | — |
+| Roosevelt Society Action | $82,828 |
+| AIPAC - American Israel Public Affairs Committee | $35,653 |
+| NEA Fund for Children and Public Education | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| Let America Vote PAC | $11,500 |
+| Teamsters - International Brotherhood of Teamsters | $11,500 |
+| National Multifamily Housing Council | $10,000 |
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| National Association of Realtors | $8,750 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

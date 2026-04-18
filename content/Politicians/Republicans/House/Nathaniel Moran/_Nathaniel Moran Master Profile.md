@@ -45,9 +45,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| California Farm Bureau Federation | — |
-| Western Growers Association | — |
-| National Cattlemen's Beef Association | — |
+| AIPAC - American Israel Public Affairs Committee | $26,510 |
+| National Association of Realtors | $23,000 |
+| MAJORITY PAC | $20,000 |
+| American Hospital Association PAC | $19,000 |
+| Anthem - Elevance Health | $12,000 |
+| National Cattlemen's Beef Association | $7,500 |
+| Honeywell | $7,000 |
+| AT&T - WarnerMedia | $6,000 |
+| National Rifle Association | $5,727 |
+| Lockheed Martin | $5,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

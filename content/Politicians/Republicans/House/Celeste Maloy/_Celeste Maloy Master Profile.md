@@ -40,6 +40,21 @@ top-policy-area: "Public Lands and Natural Resources"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| VIEW PAC - Value in Electing Women | $40,000 |
+| National Cattlemen's Beef Association | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $21,760 |
+| Chevron | $20,000 |
+| National Association of Realtors | $15,000 |
+| L3Harris Technologies | $11,000 |
+| MAJORITY PAC | $10,000 |
+| Raytheon (RTX) | $9,000 |
+| Associated General Contractors of America Political Action Committee | $7,500 |
+| Jim Jordan | $6,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

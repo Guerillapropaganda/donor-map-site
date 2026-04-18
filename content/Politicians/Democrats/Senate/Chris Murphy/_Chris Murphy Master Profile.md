@@ -63,12 +63,20 @@ top-policy-area: "Health"
 - Foreign Relations
 - Appropriations
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- Everytown for Gun Safety
-- Silicon Valley Democratic Donor Network
-- Goldman Sachs
-- Blue Cross Blue Shield Association
+| Donor | Amount |
+|---|---:|
+| NEA Fund for Children and Public Education | $12,000 |
+| SEIU COPE | $5,000 |
+| CT Working Families Federal PAC D-b-a Take Back Congress CT | $4,740 |
+| Alex Padilla | $4,000 |
+| Catherine Cortez Masto | $4,000 |
+| Morgan Stanley | $2,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $2,500 |
+| AFL-CIO | $2,500 |
+| AT&T - WarnerMedia | $2,000 |
+| Google - Alphabet | $2,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

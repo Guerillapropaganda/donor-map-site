@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $107,840 |
+| AIPAC - American Israel Public Affairs Committee | $41,095 |
+| McDonalds Corporation | $22,500 |
+| MAJORITY PAC | $15,000 |
+| Southern States Police Benevolent Assoc PAC Fund | $13,000 |
+| National Restaurant Association | $9,500 |
+| Duke Energy | $8,500 |
+| Raytheon (RTX) | $8,000 |
+| AT&T - WarnerMedia | $8,000 |
+| Jim Jordan | $8,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

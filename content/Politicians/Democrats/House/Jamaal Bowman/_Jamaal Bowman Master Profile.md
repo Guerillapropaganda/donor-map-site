@@ -73,12 +73,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| UNITED DEMOCRACY PROJECT ('UDP') | $19,090,698 |
-| FAIRSHAKE | $4,133,800 |
-| JUSTICE DEMOCRATS PAC | $3,151,946 |
-| DMFI PAC | $990,125 |
+| United Democracy Project - UDP | $9,865,477 |
+| JUSTICE DEMOCRATS PAC | $4,152,919 |
+| Fairshake PAC - Crypto Super PAC | $2,078,023 |
 | COURAGE TO CHANGE | $469,200 |
-| Justice Democrats PAC | — |
+| Working Families Party PAC | $365,597 |
+| Courage to Change PAC | $239,600 |
+| Congressional Progressive Caucus PAC | $150,000 |
+| National Nurses United for Patient Protection | $141,950 |
+| DMFI - Democratic Majority for Israel | $95,244 |
+| Medicare for All - The Policy That Broke the Party | $40,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

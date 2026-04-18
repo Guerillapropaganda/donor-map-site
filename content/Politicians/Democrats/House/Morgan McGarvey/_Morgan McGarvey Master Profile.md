@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Our Future PAC | $971,552 |
+| DMFI - Democratic Majority for Israel | $54,141 |
+| AIPAC - American Israel Public Affairs Committee | $33,111 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| National Association of Realtors | $22,000 |
+| Humana | $20,140 |
+| UA Political Action Committee | $20,000 |
+| Teamsters - International Brotherhood of Teamsters | $20,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $17,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

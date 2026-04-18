@@ -36,6 +36,21 @@ fec-candidate-id: "H4IN06185"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Anthem - Elevance Health | $10,000 |
+| Honeywell | $10,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| National Association of Realtors | $8,000 |
+| MAJORITY PAC | $5,000 |
+| American Hospital Association PAC | $3,500 |
+| Teamsters - International Brotherhood of Teamsters | $3,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $2,500 |
+| Comcast - NBCUniversal | $2,500 |
+| AT&T - WarnerMedia | $2,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

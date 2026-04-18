@@ -44,14 +44,16 @@ donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network 
 
 | Donor | Amount |
 |---|---:|
-| SMP | $35,399,813 |
-| WOMEN VOTE! | $8,519,441 |
-| PRIORITIES USA ACTION | $6,808,990 |
-| MAJORITY FORWARD | $6,433,695 |
-| PATRIOTS PREVAIL PAC | $540,000 |
-| Patriots Prevail PAC | — |
-| Koch Network - Charles Koch | — |
-| Leonard Leo | — |
+| Senate Conservatives Fund | $1,771,758 |
+| PATRIOTS PREVAIL PAC | $379,164 |
+| AIPAC - American Israel Public Affairs Committee | $39,109 |
+| WinRed | $38,325 |
+| NORPAC | $35,086 |
+| Monsanto - Bayer | $22,775 |
+| Really American Pac | $18,842 |
+| Common Sense for America PAC | $15,000 |
+| Blackstone Group | $10,500 |
+| National Association of Realtors | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

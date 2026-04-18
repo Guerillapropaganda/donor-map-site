@@ -40,6 +40,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Hospital Association PAC | $73,427 |
+| WinRed | $35,533 |
+| AIPAC - American Israel Public Affairs Committee | $26,540 |
+| MAJORITY PAC | $25,000 |
+| VIEW PAC - Value in Electing Women | $25,000 |
+| Blackstone Group | $24,100 |
+| Anthem - Elevance Health | $23,000 |
+| National Multifamily Housing Council | $20,000 |
+| National Association of Realtors | $20,000 |
+| Lockheed Martin | $19,300 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -39,6 +39,21 @@ top-policy-area: "Government Operations and Politics"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Google - Alphabet | $25,649 |
+| Ripple | $16,580 |
+| a16z - Andreessen Horowitz | $10,500 |
+| ADM - Archer Daniels Midland | $8,400 |
+| McDonalds Corporation | $6,650 |
+| Bank of America | $5,250 |
+| Apple | $4,500 |
+| Northrop Grumman | $3,650 |
+| Blackstone Group | $2,675 |
+| John James | $2,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

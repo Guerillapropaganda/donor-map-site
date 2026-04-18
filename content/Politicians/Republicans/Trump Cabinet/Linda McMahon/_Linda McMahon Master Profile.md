@@ -47,16 +47,7 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $14,390,579 |
-| MAJORITY PAC | $5,478,958 |
 | US CHAMBER OF COMMERCE | $1,400,000 |
-| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES  P E O P L E | $518,043 |
-| LEAGUE OF CONSERVATION VOTERS ACTION FUND | $509,979 |
-| MAGA Inc | — |
-| US Chamber of Commerce | — |
-| Majority PAC | — |
-| America First Policy Institute | — |
-| American Federation of State County & Municipal Employees  P E O P L E | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -36,6 +36,21 @@ fec-candidate-id: "H4TX26149"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Club for Growth | $500,069 |
+| Club for Growth INC PAC | $28,784 |
+| MAJORITY PAC | $15,000 |
+| AIPAC - American Israel Public Affairs Committee | $15,000 |
+| National Association of Realtors | $10,000 |
+| WinRed | $7,640 |
+| Jim Jordan | $6,000 |
+| National Cattlemen's Beef Association | $6,000 |
+| Anthem - Elevance Health | $4,500 |
+| National Rifle Association | $3,256 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

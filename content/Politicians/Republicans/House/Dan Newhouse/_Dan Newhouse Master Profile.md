@@ -40,6 +40,21 @@ top-policy-area: "Energy"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Clearpath Action Fund, Inc. | $620,010 |
+| Defending Main Street Superpac INC | $603,922 |
+| Americans for Prosperity | $152,850 |
+| National Association of Realtors | $98,679 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $30,000 |
+| Bechtel Corporation | $28,603 |
+| General Dynamics | $25,500 |
+| National Cattlemen's Beef Association | $25,000 |
+| Chevron | $25,000 |
+| Puget Sound Energy INC PAC for Good Government | $23,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

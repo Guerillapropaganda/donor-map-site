@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| National Association of Realtors | $28,890 |
+| National Multifamily Housing Council | $25,000 |
+| Walmart - Walton Family | $25,000 |
+| AT&T - WarnerMedia | $19,000 |
+| IBEW - International Brotherhood of Electrical Workers | $18,500 |
+| Duke Energy | $16,000 |
+| Comcast - NBCUniversal | $15,500 |
+| NEA Fund for Children and Public Education | $15,000 |
+| SEIU COPE | $15,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

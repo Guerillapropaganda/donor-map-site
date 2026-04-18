@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $28,482 |
+| National Multifamily Housing Council | $25,000 |
+| AIPAC - American Israel Public Affairs Committee | $23,903 |
+| United Food and Commercial Workers International Union Active Ballot Club | $18,500 |
+| General Dynamics | $17,000 |
+| AT&T - WarnerMedia | $15,000 |
+| Honeywell | $13,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| Northrop Grumman | $12,500 |
+| Citigroup | $11,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

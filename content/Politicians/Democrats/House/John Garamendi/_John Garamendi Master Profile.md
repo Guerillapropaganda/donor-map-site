@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $29,673 |
+| Raytheon (RTX) | $25,000 |
+| National Multifamily Housing Council | $24,500 |
+| Teamsters - International Brotherhood of Teamsters | $20,000 |
+| IBEW - International Brotherhood of Electrical Workers | $20,000 |
+| Honeywell | $19,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $17,500 |
+| General Dynamics | $15,500 |
+| Lockheed Martin | $13,000 |
+| AT&T - WarnerMedia | $12,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

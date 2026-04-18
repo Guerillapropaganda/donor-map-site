@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| DMFI - Democratic Majority for Israel | — |
+| Congressional Leadership Fund | $1,915,700 |
+| National Association of Realtors | $191,629 |
+| DCCC - Democratic Congressional Campaign Committee | $95,426 |
+| Restoration PAC | $60,844 |
+| DMFI - Democratic Majority for Israel | $39,492 |
+| League of Conservation Voters | $34,159 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| Teamsters - International Brotherhood of Teamsters | $22,500 |
+| Honeywell | $22,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

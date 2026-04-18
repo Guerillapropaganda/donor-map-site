@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| BlackRock | $37,400 |
+| Google - Alphabet | $31,000 |
+| Leidos | $27,200 |
+| Apollo Global Management | $16,900 |
+| Blackstone Group | $16,500 |
+| Environmental Law & Policy Center | $9,750 |
+| Ford Motor Company | $3,500 |
+| Daniel Biss | $3,500 |
+| Amazon | $3,400 |
+| Citadel - Kenneth Griffin | $2,800 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

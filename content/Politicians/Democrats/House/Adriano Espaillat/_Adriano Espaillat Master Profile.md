@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $27,500 |
+| AIPAC - American Israel Public Affairs Committee | $26,094 |
+| National Association of Realtors | $22,000 |
+| SEIU COPE | $20,000 |
+| Fanjul Family - Florida Crystals | $17,600 |
+| NEA Fund for Children and Public Education | $16,000 |
+| Unite Here Tip Campaign Committee | $15,000 |
+| American Hospital Association PAC | $14,500 |
+| Comcast - NBCUniversal | $12,000 |
+| General Motors | $10,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

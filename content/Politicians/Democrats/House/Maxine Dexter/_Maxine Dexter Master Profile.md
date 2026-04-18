@@ -36,6 +36,21 @@ fec-candidate-id: "H4OR03192"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| 314 ACTION FUND | $2,222,743 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
+| American Hospital Association PAC | $10,000 |
+| IBEW - International Brotherhood of Electrical Workers | $10,000 |
+| Teamsters - International Brotherhood of Teamsters | $8,000 |
+| SEIU COPE | $7,500 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $6,500 |
+| National Association of Realtors | $6,000 |
+| Emily's List | $5,290 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

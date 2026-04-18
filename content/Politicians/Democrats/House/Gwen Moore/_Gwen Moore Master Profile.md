@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Brady Campaign | — |
+| American Federation of State County & Municipal Employees P E O P L E | $30,000 |
+| National Multifamily Housing Council | $25,000 |
+| National Association of Realtors | $23,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $17,500 |
+| SEIU COPE | $17,500 |
+| American Hospital Association PAC | $17,000 |
+| Teamsters - International Brotherhood of Teamsters | $15,000 |
+| AT&T - WarnerMedia | $13,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| NEA Fund for Children and Public Education | $12,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

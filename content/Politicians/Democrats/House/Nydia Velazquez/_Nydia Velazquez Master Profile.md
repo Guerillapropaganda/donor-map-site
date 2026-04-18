@@ -48,6 +48,21 @@ top-policy-area: "Health"
 
 - Small Business
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| American Federation of State County & Municipal Employees P E O P L E | $22,500 |
+| National Association of Realtors | $22,000 |
+| National Multifamily Housing Council | $20,000 |
+| SEIU COPE | $15,000 |
+| NEA Fund for Children and Public Education | $14,000 |
+| American Hospital Association PAC | $6,000 |
+| Medicare for All - The Policy That Broke the Party | $6,000 |
+| UA Political Action Committee | $5,000 |
+| Walmart - Walton Family | $4,500 |
+| Ted Lieu | $4,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

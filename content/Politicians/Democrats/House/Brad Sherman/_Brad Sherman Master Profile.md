@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| AIPAC - American Israel Public Affairs Committee | $38,703 |
+| National Association of Realtors | $32,405 |
+| IBEW - International Brotherhood of Electrical Workers | $30,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $25,000 |
+| National Multifamily Housing Council | $22,500 |
+| L3Harris Technologies | $22,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $20,000 |
+| Honeywell | $19,500 |
+| Northrop Grumman | $18,000 |
+| Morgan Stanley | $18,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

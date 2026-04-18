@@ -55,14 +55,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| SIERRA CLUB POLITICAL COMMITTEE | $54,697 |
-| RIGHT TO LIFE OF MICHIGAN POLITICAL ACTION COMMITTEE | $174 |
-| California Farm Bureau Federation | — |
-| Sam Bankman-Fried | — |
-| Right to Life of Michigan Political Action Committee | — |
-| Sierra Club Political Committee | — |
-| UAW - United Auto Workers | — |
-| Bill Gates | — |
+| Ford Motor Company | $5,000 |
+| AT&T - WarnerMedia | $4,000 |
+| Google - Alphabet | $2,000 |
+| Lockheed Martin | $2,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $1,500 |
+| Performance Racing Inc. | $1,000 |
+| Nucor Corporation | $1,000 |
+| American Gaming Association | $1,000 |
+| NextEra Energy | $1,000 |
+| PG&E - Pacific Gas and Electric | $1,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

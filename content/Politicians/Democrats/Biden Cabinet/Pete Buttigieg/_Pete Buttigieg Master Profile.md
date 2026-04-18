@@ -37,13 +37,7 @@ donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Fina
 | Donor | Amount |
 |---|---:|
 | Votevets | $9,939,935 |
-| DRAIN THE DC SWAMP PAC | $48,200 |
 | Equality California Votes | $43,609 |
-| Women Speak Out Pac | $9,200 |
-| Dream Defenders Fight Pac | $3,516 |
-| Drain the DC Swamp PAC | — |
-| DoorDash | — |
-| Finance and Tech Bundler Network | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

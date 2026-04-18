@@ -44,14 +44,10 @@ donors: "[[Senate Conservatives Fund]], [[MADISON PROJECT INC.]], [[SENATE CONSE
 
 | Donor | Amount |
 |---|---:|
-| SENATE CONSERVATIVES FUND | $130,390 |
+| Senate Conservatives Fund | $130,390 |
 | CLUB FOR GROWTH ACTION | $112,490 |
-| MADISON PROJECT INC. | $10,000 |
+| Madison Project Inc. | $10,000 |
 | Club for Growth | $5,083 |
-| Madison Project Inc. | — |
-| Senate Conservatives Fund | — |
-| Northrop Grumman | — |
-| L3 Technologies | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -72,16 +72,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| SMP | $17,074,337 |
-| FF PAC | $13,200,960 |
-| Texans for a Conservative Majority | $9,787,637 |
 | AMERICANS FOR PROSPERITY ACTION, INC.(AFP ACTION) | $6,910,561 |
-| WOMEN VOTE! | $1,977,955 |
-| Harlan Crow | — |
-| ExxonMobil | — |
-| Insurance Industry | — |
-| Fraternal Order of Police | — |
-| Koch Network - Charles Koch | — |
+| Texans for a Conservative Majority | $4,586,847 |
+| National Association of Realtors | $292,770 |
+| Fairshake PAC | $98,581 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| WinRed | $39,056 |
+| Johnson & Johnson | $15,000 |
+| Gilead Sciences | $12,500 |
+| AIPAC - American Israel Public Affairs Committee | $10,000 |
+| Lockheed Martin | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -39,6 +39,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| National Cattlemen's Beef Association | $25,000 |
+| Comcast - NBCUniversal | $20,000 |
+| National Association of Realtors | $16,538 |
+| Common Sense for America PAC | $15,000 |
+| NextEra Energy | $14,000 |
+| General Dynamics | $13,500 |
+| Club for Growth INC PAC | $13,297 |
+| Google - Alphabet | $12,500 |
+| Chevron | $12,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

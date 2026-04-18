@@ -40,15 +40,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
+| Protect Our Future PAC | $4,041,334 |
 | DMFI PAC | $3,608,344 |
-| PROTECT OUR FUTURE PAC | $3,031,156 |
-| THE DEMOCRATIC ACTION PAC | $545,000 |
-| Protecting Our Vote Pac | $145,280 |
-| DMFI - Democratic Majority for Israel | — |
-| The Democratic Action PAC | — |
-| Republican Jewish Coalition | — |
-| Lawrence Summers | — |
-| Protect Our Future PAC | — |
+| DMFI - Democratic Majority for Israel | $1,505,205 |
+| Protecting Our Vote Pac | $345,411 |
+| THE DEMOCRATIC ACTION PAC | $280,500 |
+| UNITED DEMOCRACY PROJECT ('UDP') | $223,200 |
+| United Democracy Project - UDP | $83,171 |
+| National Association of Realtors | $39,953 |
+| American Federation of State County & Municipal Employees P E O P L E | $37,500 |
+| AIPAC - American Israel Public Affairs Committee | $36,575 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

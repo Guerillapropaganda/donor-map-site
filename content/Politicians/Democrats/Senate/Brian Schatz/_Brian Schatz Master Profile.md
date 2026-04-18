@@ -64,15 +64,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| League of Conservation Voters | $1,040,091 |
+| League of Conservation Voters | $1,045,886 |
 | Working Families for Hawaii | $241,841 |
-| MOVEON.ORG POLITICAL ACTION | $28,007 |
-| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $1,613 |
-| CLIMATE HAWKS VOTE | $1,500 |
-| Real Estate Industry | — |
-| Climate Hawks Vote | — |
-| MoveOn.org Political Action | — |
-| International Longshore and Warehouse Union -- Political Action Fund | — |
+| MoveOn.org Political Action | $28,007 |
+| American Federation of State County & Municipal Employees P E O P L E | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| Honeywell | $10,000 |
+| NEA Fund for Children and Public Education | $10,000 |
+| National Multifamily Housing Council | $10,000 |
+| Comcast - NBCUniversal | $10,000 |
+| General Dynamics | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

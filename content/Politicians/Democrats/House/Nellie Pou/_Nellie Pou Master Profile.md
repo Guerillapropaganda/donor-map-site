@@ -35,6 +35,21 @@ urls-first-triaged: "2026-04-15"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Johnson & Johnson | $2,900 |
+| a16z - Andreessen Horowitz | $1,500 |
+| Coinbase | $750 |
+| AT&T | $750 |
+| Novo Nordisk | $500 |
+| Comcast - NBCUniversal | $250 |
+| CVS Health - Aetna | $250 |
+| Meta - Facebook | $250 |
+| Pfizer Inc. | $250 |
+| Ford Motor Company | $250 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

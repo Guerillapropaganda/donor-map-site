@@ -67,14 +67,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| HEALTH JUSTICE FOR ALL | $2,417 |
-| Telecom Industry | — |
-| Goldman Sachs | — |
-| Tech Industry | — |
-| Insurance Industry | — |
-| Health Justice for All | — |
-| Silicon Valley Donors | — |
-| Defense Contractors | — |
+| NORPAC | $15,700 |
+| Honeywell | $12,500 |
+| BAE Systems | $10,000 |
+| Microsoft | $10,000 |
+| Morgan Stanley | $10,000 |
+| AT&T - WarnerMedia | $10,000 |
+| Comcast - NBCUniversal | $10,000 |
+| Care Action | $10,000 |
+| Anthem - Elevance Health | $10,000 |
+| L3Harris Technologies | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

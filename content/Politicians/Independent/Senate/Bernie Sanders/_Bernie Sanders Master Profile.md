@@ -81,16 +81,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| NRA POLITICAL VICTORY FUND | $22,848 |
-| INTERNATIONAL LONGSHORE AND WAREHOUSE UNION -- POLITICAL ACTION FUND | $2,850 |
-| INTERNATIONAL ASSOCIATION OF FIREFIGHTERS INTERESTED IN REGISTRATION AND EDUCATION PAC | $21 |
-| PUTTING PEOPLE FIRST POLITICAL ACTION COMMITTEE | $5 |
-| NRA Political Victory Fund | — |
-| Democratic Small Dollar Networks | — |
-| Senate Majority PAC | — |
-| J Street | — |
-| Small Dollar Donors - ActBlue | — |
-| International Association of Firefighters Interested in Registration and Education PAC | — |
+| NEA Fund for Children and Public Education | $14,000 |
+| United Food and Commercial Workers International Union Active Ballot Club | $10,000 |
+| Let America Vote PAC | $5,000 |
+| SEIU COPE | $5,000 |
+| National Nurses United | $5,000 |
+| Teamsters - International Brotherhood of Teamsters | $5,000 |
+| Courage to Change PAC | $5,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $5,000 |
+| J Street | $3,000 |
+| International Longshore and Warehouse Union -- Political Action Fund | $2,850 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

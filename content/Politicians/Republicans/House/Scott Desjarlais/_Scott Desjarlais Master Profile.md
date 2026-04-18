@@ -40,6 +40,21 @@ top-policy-area: "Armed Forces and National Security"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| MAJORITY PAC | $20,000 |
+| National Association of Realtors | $20,000 |
+| Raytheon (RTX) | $14,000 |
+| Lockheed Martin | $11,000 |
+| AIPAC - American Israel Public Affairs Committee | $10,010 |
+| Leidos | $10,000 |
+| Honeywell | $10,000 |
+| Northrop Grumman | $10,000 |
+| General Dynamics | $6,500 |
+| L3Harris Technologies | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

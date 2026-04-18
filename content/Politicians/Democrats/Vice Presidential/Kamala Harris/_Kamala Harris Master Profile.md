@@ -47,16 +47,16 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| Food and Water Action | $1,026,511,866 |
 | FF PAC | $542,693,348 |
-| MAKE AMERICA GREAT AGAIN INC. | $203,744,984 |
-| Preserve America | $130,341,113 |
-| Restoration PAC | $47,398,182 |
-| Larry Ellison | — |
-| Lawrence Summers | — |
-| UFCW - United Food and Commercial Workers | — |
-| Laurene Powell Jobs | — |
-| Democratic Small Dollar Networks | — |
+| Fairshake PAC | $312,712,571 |
+| MAGA Inc | $251,784,408 |
+| America PAC - Elon Musk | $54,434,171 |
+| Working Families Party PAC | $7,602,534 |
+| League of Conservation Voters | $7,242,188 |
+| SEIU COPE | $5,594,473 |
+| Buckeye Values Pac | $5,575,000 |
+| National Nurses United for Patient Protection | $5,439,467 |
+| Emily's List | $3,251,098 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

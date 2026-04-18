@@ -39,12 +39,16 @@ top-policy-area: "Congress"
 
 | Donor | Amount |
 |---|---:|
-| Really American Pac | $5,000 |
-| Patrick Soon-Shiong | — |
-| National Restaurant Association | — |
-| American Iron and Steel Institute | — |
-| Western Growers Association | — |
-| American Petroleum Institute | — |
+| WinSenate | $24,048,661 |
+| Americans for Prosperity | $9,777,572 |
+| DSCC - Democratic Senatorial Campaign Committee | $3,345,874 |
+| MoveOn.org Political Action | $1,790,528 |
+| Votevets | $1,282,009 |
+| Opportunity Matters Fund | $1,266,604 |
+| Let America Vote PAC | $1,130,657 |
+| NRSC - National Republican Senatorial Committee | $1,009,195 |
+| Everytown for Gun Safety Victory Fund | $1,000,037 |
+| AFSCME Working Families Fund | $827,961 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -40,6 +40,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $5,197,934 |
+| NRCC - National Republican Congressional Committee | $1,461,101 |
+| National Association of Realtors | $1,049,723 |
+| DCCC - Democratic Congressional Campaign Committee | $211,362 |
+| Hmp | $157,232 |
+| Working Families Party PAC | $90,000 |
+| AIPAC - American Israel Public Affairs Committee | $56,951 |
+| ConocoPhillips | $25,000 |
+| Chevron | $25,000 |
+| AT&T - WarnerMedia | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

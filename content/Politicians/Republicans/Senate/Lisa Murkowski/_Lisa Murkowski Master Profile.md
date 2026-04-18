@@ -51,8 +51,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| ConocoPhillips | — |
-| AFGE - American Federation of Government Employees | — |
+| Clearpath Action Fund, Inc. | $1,000,000 |
+| American Hospital Association PAC | $413,231 |
+| Edf Action Votes | $171,016 |
+| NRSC - National Republican Senatorial Committee | $51,200 |
+| Teamsters - International Brotherhood of Teamsters | $15,616 |
+| National Education Association | $14,116 |
+| Raytheon (RTX) | $12,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $11,500 |
+| NEA Fund for Children and Public Education | $11,000 |
+| National Multifamily Housing Council | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

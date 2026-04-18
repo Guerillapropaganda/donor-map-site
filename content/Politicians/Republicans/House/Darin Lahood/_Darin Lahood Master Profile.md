@@ -40,6 +40,21 @@ top-policy-area: "Taxation"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| RNC - Republican National Committee | $159,808 |
+| Honeywell | $27,500 |
+| Chevron | $26,000 |
+| AIPAC - American Israel Public Affairs Committee | $25,010 |
+| Bank of America | $25,000 |
+| American Hospital Association PAC | $25,000 |
+| National Multifamily Housing Council | $25,000 |
+| ADM - Archer Daniels Midland | $25,000 |
+| National Association of Realtors | $25,000 |
+| AbbVie | $25,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

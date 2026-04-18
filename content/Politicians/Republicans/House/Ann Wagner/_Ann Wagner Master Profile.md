@@ -40,6 +40,21 @@ top-policy-area: "International Affairs"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Heartland Resurgence | $165,612 |
+| National Association of Realtors | $60,106 |
+| WinRed | $42,725 |
+| Comcast - NBCUniversal | $34,000 |
+| Blackstone Group | $32,941 |
+| National Multifamily Housing Council | $30,000 |
+| Bank of America | $28,000 |
+| Citigroup | $25,000 |
+| Morgan Stanley | $24,500 |
+| Monsanto - Bayer | $22,662 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

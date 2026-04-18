@@ -68,12 +68,14 @@ top-policy-area: "International Affairs"
 |---|---:|
 | WITH HONOR FUND, INC. | $1,638,382 |
 | NRCC | $1,305,418 |
-| HOUSE MAJORITY PAC | $1,092,265 |
-| DCCC | $614,220 |
 | SPECIAL OPERATIONS FOR AMERICA | $411,772 |
-| NORPAC | — |
-| Special Operations for America | — |
-| Fanjul Family - Florida Crystals | — |
+| AIPAC - American Israel Public Affairs Committee | $61,910 |
+| WinRed | $55,837 |
+| National Association of Realtors | $21,000 |
+| Raytheon (RTX) | $14,000 |
+| UA Political Action Committee | $10,000 |
+| NextEra Energy | $10,000 |
+| NORPAC | $8,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

@@ -35,6 +35,21 @@ fec-candidate-id: "S6FL00640"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Senate Conservatives Fund | $120,096 |
+| NRSC - National Republican Senatorial Committee | $62,000 |
+| Law Enforcement for a Safer America Pac | $55,000 |
+| Anthem - Elevance Health | $12,500 |
+| Amgen Inc | $10,000 |
+| Care Action | $10,000 |
+| Lockheed Martin | $10,000 |
+| Common Sense for America PAC | $10,000 |
+| CVS Health - Aetna | $7,500 |
+| General Dynamics | $7,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

@@ -46,11 +46,6 @@ cash-on-hand: 46130
 | Donor | Amount |
 |---|---:|
 | MISLOVE, ALAN EDWARD | $941 |
-| Climate Philanthropy - The Green Billionaires | — |
-| CNA - California Nurses Association | — |
-| Michael Bloomberg | — |
-| Mislove, Alan Edward | — |
-| National Progressive Donor Networks | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

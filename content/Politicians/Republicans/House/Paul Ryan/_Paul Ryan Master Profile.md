@@ -48,16 +48,9 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 
 | Donor | Amount |
 |---|---:|
-| PRIORITIES USA ACTION | $112,336,878 |
 | Restore Our Future, Inc. | $23,749,265 |
-| Winning Our Future | $15,418,720 |
 | AMERICAN CROSSROADS | $11,481,126 |
 | Americans for Responsible Leadership | $9,633,565 |
-| American Crossroads | — |
-| Koch Network | — |
-| Mark Zuckerberg | — |
-| Koch network | — |
-| Goldman Sachs | — |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

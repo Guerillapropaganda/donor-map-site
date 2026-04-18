@@ -63,10 +63,20 @@ top-policy-area: "Science, Technology, Communications"
 
 - Agriculture
 
-#### Top donors (from frontmatter)
+#### Top donors
 
-- American Farm Bureau Federation
-- National Cattlemen's Beef Association
+| Donor | Amount |
+|---|---:|
+| Clearpath Action Fund, Inc. | $49,852 |
+| National Cattlemen's Beef Association | $30,000 |
+| Northrop Grumman | $25,000 |
+| National Multifamily Housing Council | $22,500 |
+| National Association of Realtors | $20,000 |
+| Lockheed Martin | $20,000 |
+| CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC. | $18,000 |
+| Raytheon (RTX) | $18,000 |
+| Devon Energy | $15,000 |
+| Bank of America | $12,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

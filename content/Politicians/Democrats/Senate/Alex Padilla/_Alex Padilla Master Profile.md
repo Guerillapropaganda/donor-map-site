@@ -87,16 +87,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| COALITION TO GROW SAN FRANCISCO - GROW SF PAC | $10,432 |
-| CARE ACTION NOW INC. | $6,977 |
-| ALICE B. TOKLAS LGBTQ DEMOCRATIC CLUB FEDERAL PAC | $3,129 |
-| DEMOCRATIC ALLIANCE FOR ACTION | $1,550 |
-| DOLORES HUERTA ACTION FUND | $1,449 |
-| Care Action Now Inc. | — |
-| Coalition to Grow San Francisco - Grow Sf PAC | — |
-| Democratic Alliance for Action | — |
-| Dolores Huerta Action Fund | — |
-| Alice B. Toklas LGBTQ Democratic Club Federal PAC | — |
+| Comcast - NBCUniversal | $41,700 |
+| International Association of Firefighters Interested in Registration and Education PAC | $30,000 |
+| League of Conservation Voters | $29,552 |
+| Airbnb | $28,700 |
+| Kaiser Permanente | $25,195 |
+| Coalition to Grow San Francisco - Grow Sf PAC | $20,858 |
+| Blue Shield of California | $17,600 |
+| Coinbase | $16,350 |
+| Google - Alphabet | $15,200 |
+| United Food and Commercial Workers International Union Active Ballot Club | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

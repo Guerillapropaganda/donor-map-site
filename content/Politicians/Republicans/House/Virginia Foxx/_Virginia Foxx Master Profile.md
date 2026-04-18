@@ -59,12 +59,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
-| AIPAC - American Israel Public Affairs Committee | — |
-| Walton Family Foundation | — |
-| American Federation for Children | — |
-| DeVos Family | — |
-| Apollo Global Management | — |
-| Student Loan Servicer Industry | — |
+| Apollo Global Management | $80,800 |
+| AIPAC - American Israel Public Affairs Committee | $32,810 |
+| Elliott Management | $23,400 |
+| McDonalds Corporation | $22,500 |
+| National Association of Realtors | $22,000 |
+| Associated General Contractors of America Political Action Committee | $20,000 |
+| Walmart - Walton Family | $17,000 |
+| Anthem - Elevance Health | $16,000 |
+| National Restaurant Association | $15,200 |
+| VIEW PAC - Value in Electing Women | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

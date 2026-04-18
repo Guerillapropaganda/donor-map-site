@@ -36,6 +36,21 @@ fec-candidate-id: "H4VA10279"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Protect Progress | $106,947 |
+| SEIU COPE | $10,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| L3Harris Technologies | $10,000 |
+| Pete Aguilar | $6,000 |
+| National Association of Realtors | $6,000 |
+| General Dynamics | $5,500 |
+| Medicare for All - The Policy That Broke the Party | $5,000 |
+| AIPAC - American Israel Public Affairs Committee | $5,000 |
+| UA Political Action Committee | $5,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

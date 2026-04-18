@@ -45,7 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Brady Campaign | — |
+| SEIU COPE | $20,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $20,000 |
+| National Association of Realtors | $18,000 |
+| Comcast - NBCUniversal | $17,500 |
+| American Hospital Association PAC | $16,000 |
+| Microsoft | $12,500 |
+| International Association of Firefighters Interested in Registration and Education PAC | $11,000 |
+| Google - Alphabet | $11,000 |
+| AT&T - WarnerMedia | $10,500 |
+| General Motors | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

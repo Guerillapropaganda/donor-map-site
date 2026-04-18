@@ -48,16 +48,11 @@ urls-first-triaged: "2026-04-15"
 
 | Donor | Amount |
 |---|---:|
-| CLUB FOR GROWTH ACTION | $14,572,648 |
-| MAKE AMERICA GREAT AGAIN INC. | $6,851,694 |
+| MAGA Inc | $6,947,399 |
 | SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION) | $2,130,903 |
-| Americas Pac | $1,573,351 |
-| LIVING UNITED FOR CHANGE IN ARIZONA | $135,590 |
-| Democratic Small Dollar Networks | — |
-| Pfizer | — |
-| Citigroup | — |
-| Ford Motor Company | — |
-| Trial Lawyers Fund | — |
+| Teamsters - International Brotherhood of Teamsters | $48,356 |
+| Let America Vote PAC | $23,276 |
+| Courage California Super Pac | $89 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

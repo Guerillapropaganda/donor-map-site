@@ -41,7 +41,16 @@ fec-candidate-id: "H4MD03156"
 
 | Donor | Amount |
 |---|---:|
-| United Democracy Project - UDP | — |
+| United Democracy Project - UDP | $4,218,792 |
+| International Association of Firefighters Interested in Registration and Education PAC | $12,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $12,500 |
+| Leidos | $10,000 |
+| IBEW - International Brotherhood of Electrical Workers | $8,500 |
+| Honeywell | $8,000 |
+| Northrop Grumman | $7,500 |
+| League of Conservation Voters | $7,025 |
+| NEA Fund for Children and Public Education | $7,000 |
+| American Hospital Association PAC | $6,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

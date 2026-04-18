@@ -36,6 +36,21 @@ fec-candidate-id: "H4LA06211"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| National Association of Realtors | $10,000 |
+| NEA Fund for Children and Public Education | $8,000 |
+| American Hospital Association PAC | $5,000 |
+| National Multifamily Housing Council | $5,000 |
+| IBEW - International Brotherhood of Electrical Workers | $5,000 |
+| UnitedHealth Group - Optum | $3,500 |
+| Walmart - Walton Family | $2,500 |
+| SEIU COPE | $2,500 |
+| Chevron | $2,500 |
+| American Federation of State County & Municipal Employees P E O P L E | $2,500 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

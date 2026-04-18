@@ -39,6 +39,21 @@ top-policy-area: "Health"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| NextEra Energy | $58,050 |
+| Blackstone Group | $19,700 |
+| Fanjul Family - Florida Crystals | $17,000 |
+| Ballard Partners | $9,100 |
+| Microsoft | $7,000 |
+| McDonalds Corporation | $5,600 |
+| Morgan Stanley | $3,000 |
+| US CHAMBER OF COMMERCE | $2,900 |
+| Young Kim | $2,000 |
+| Maria Elvira Salazar | $2,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

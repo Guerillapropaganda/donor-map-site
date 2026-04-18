@@ -45,8 +45,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| Western Growers Association | — |
-| National Cattlemen's Beef Association | — |
+| National Cattlemen's Beef Association | $30,000 |
+| National Association of Realtors | $25,183 |
+| AIPAC - American Israel Public Affairs Committee | $24,010 |
+| National Multifamily Housing Council | $14,000 |
+| Tyson Foods | $14,000 |
+| Kansans for Life Political Action Committee | $11,660 |
+| ADM - Archer Daniels Midland | $11,500 |
+| AT&T - WarnerMedia | $9,000 |
+| American Hospital Association PAC | $7,500 |
+| Associated General Contractors of America Political Action Committee | $6,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

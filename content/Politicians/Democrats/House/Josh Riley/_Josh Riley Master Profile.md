@@ -36,6 +36,21 @@ fec-candidate-id: "H8NY22177"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Congressional Leadership Fund | $12,418,451 |
+| NRCC - National Republican Congressional Committee | $3,250,308 |
+| Hmp | $1,087,545 |
+| America PAC - Elon Musk | $551,533 |
+| Defending Main Street Superpac INC | $250,000 |
+| DCCC - Democratic Congressional Campaign Committee | $205,284 |
+| League of Conservation Voters | $177,756 |
+| Apple | $113,730 |
+| Google - Alphabet | $59,342 |
+| Palantir Technologies | $57,301 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

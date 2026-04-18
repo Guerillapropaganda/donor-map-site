@@ -61,14 +61,16 @@ top-policy-area: "Health"
 
 | Donor | Amount |
 |---|---:|
-| SIERRA CLUB POLITICAL COMMITTEE | $64,524 |
-| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $13,477 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $1,239 |
-| SENIOR POLITICAL ACTION COMMITTEE  (WASH D.C.) | $679 |
-| POLITICAL ACTION FOR LASTING SECURITY | $80 |
-| National Committee to Preserve Social Security PAC | — |
-| Sierra Club Political Committee | — |
-| Political Action for Lasting Security | — |
+| League of Conservation Voters | $31,052 |
+| IBEW - International Brotherhood of Electrical Workers | $25,000 |
+| Bechtel Corporation | $15,000 |
+| International Association of Firefighters Interested in Registration and Education PAC | $15,000 |
+| Raytheon (RTX) | $12,000 |
+| American Federation of State County & Municipal Employees P E O P L E | $10,000 |
+| Progressive Turnout Project | $10,000 |
+| CVS Health - Aetna | $10,000 |
+| Humana | $10,000 |
+| NEA Fund for Children and Public Education | $10,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

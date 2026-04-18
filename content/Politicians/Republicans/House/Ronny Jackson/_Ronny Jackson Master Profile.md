@@ -45,8 +45,16 @@ top-policy-area: "International Affairs"
 
 | Donor | Amount |
 |---|---:|
-| CA Farm Bureau Federation | — |
-| Western Growers Association | — |
+| WinRed | $118,801 |
+| AIPAC - American Israel Public Affairs Committee | $42,646 |
+| Valero Energy | $22,500 |
+| National Cattlemen's Beef Association | $20,000 |
+| National Association of Realtors | $16,000 |
+| Political Action Committee of the American Association of Orthopaedic Surgeons | $16,000 |
+| MAJORITY PAC | $15,000 |
+| L3Harris Technologies | $14,000 |
+| Marathon Petroleum | $11,000 |
+| Freedom's Defense Fund | $10,500 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

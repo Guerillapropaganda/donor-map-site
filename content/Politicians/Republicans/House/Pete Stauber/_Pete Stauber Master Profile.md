@@ -40,6 +40,21 @@ top-policy-area: "Crime and Law Enforcement"
 
 **Total received:** —
 
+#### Top donors
+
+| Donor | Amount |
+|---|---:|
+| Valero Energy | $30,000 |
+| National Association of Realtors | $25,349 |
+| AIPAC - American Israel Public Affairs Committee | $20,012 |
+| Marathon Petroleum | $20,000 |
+| Chevron | $19,500 |
+| Teamsters - International Brotherhood of Teamsters | $19,194 |
+| AT&T - WarnerMedia | $19,000 |
+| National Multifamily Housing Council | $15,000 |
+| NextEra Energy | $14,000 |
+| Honeywell | $12,000 |
+
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 

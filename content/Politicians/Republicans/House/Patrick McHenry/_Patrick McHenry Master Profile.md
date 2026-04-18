@@ -58,15 +58,16 @@ top-policy-area: "Finance and Financial Sector"
 
 | Donor | Amount |
 |---|---:|
-| CLUB FOR GROWTH INC PAC | $364,180 |
+| Club for Growth INC PAC | $364,180 |
 | CRYPTO INNOVATION | $334,000 |
 | FAIRSHAKE | $253,252 |
-| NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND | $11,632 |
-| NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE | $8,130 |
-| Securities & Investment Industry | — |
-| Club for Growth INC PAC | — |
-| Kenneth Griffin | — |
-| Crypto Industry Bloc | — |
+| Crypto Innovation PAC | $167,000 |
+| Fairshake PAC - Crypto Super PAC | $126,626 |
+| Chevron | $20,000 |
+| National Association of Realtors | $19,452 |
+| Morgan Stanley | $16,000 |
+| Marathon Petroleum | $15,000 |
+| National Multifamily Housing Council | $15,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->

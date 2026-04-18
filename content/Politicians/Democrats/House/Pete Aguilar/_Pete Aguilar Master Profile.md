@@ -58,14 +58,16 @@ top-policy-area: "Government Operations and Politics"
 
 | Donor | Amount |
 |---|---:|
+| LEAGUE OF CONSERVATION VOTERS VICTORY FUND | $319,383 |
 | RESTORING OUR COMMUNITY | $264,208 |
-| WOMEN VOTE! | $87,812 |
-| COOPERATIVE OF AMERICAN PHYSICIANS INDEPENDENT EXPENDITURE COMMITTEE | $45,992 |
-| Cooperative of American Physicians Independent Expenditure Committee | — |
-| AFSCME - American Federation of State County and Municipal Employees | — |
-| UAW - United Auto Workers | — |
-| Restoring Our Community | — |
-| Blue Shield of California | — |
+| AIPAC - American Israel Public Affairs Committee | $82,588 |
+| Cooperative of American Physicians Independent Expenditure Committee | $55,992 |
+| Wells Fargo | $34,700 |
+| Comcast - NBCUniversal | $34,000 |
+| Lockheed Martin | $32,270 |
+| Northrop Grumman | $30,250 |
+| Raytheon (RTX) | $30,000 |
+| General Dynamics | $30,000 |
 
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
