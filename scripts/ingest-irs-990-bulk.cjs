@@ -29,7 +29,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
+const yauzl = require('yauzl');
 const {
   loadCheckpoint, markComplete, cleanupPartials, fmtBytes,
   DERIVED_ROOT, ensureDerivedDirs,
@@ -204,64 +204,68 @@ function appendLine(file, obj) {
     process.stdout.write(`  ${zip} (${fmtBytes(sizeBytes)})... `);
     const zt0 = Date.now();
 
-    // Extract to temp dir
-    const tmp = path.join(process.env.TEMP || 'C:\\Windows\\Temp', `irs990-${Date.now()}-${Math.random().toString(36).slice(2, 7)}`);
-    fs.mkdirSync(tmp, { recursive: true });
-
+    // yauzl: streaming zip reader with zip64 support (handles >2GB zips).
+    // Reads each entry as a stream without extracting to disk.
     try {
-      execSync(`powershell -NoProfile -Command "Expand-Archive -LiteralPath '${zipPath}' -DestinationPath '${tmp}' -Force"`, { stdio: 'pipe' });
-
-      // Find the extracted directory (usually a single subfolder)
-      let xmlDir = tmp;
-      const entries = fs.readdirSync(tmp, { withFileTypes: true });
-      if (entries.length === 1 && entries[0].isDirectory()) xmlDir = path.join(tmp, entries[0].name);
-
-      // Walk XMLs
-      let scanned = 0, matched = 0, grantsInZip = 0;
-      const xmlFiles = fs.readdirSync(xmlDir).filter(f => f.endsWith('.xml'));
-      for (const f of xmlFiles) {
-        scanned++;
-        const full = path.join(xmlDir, f);
-        // Fast EIN peek: read first 2KB
-        const fd = fs.openSync(full, 'r');
-        const buf = Buffer.alloc(4096);
-        fs.readSync(fd, buf, 0, 4096, 0);
-        fs.closeSync(fd);
-        const head = buf.toString('utf-8');
-        const ein = extractEinFast(head);
-        if (!ein || !eins.has(ein)) continue;
-
-        // Match — read full file and parse
-        const xml = fs.readFileSync(full, 'utf-8');
-        const meta = byEin.get(ein);
-        try {
-          const filing = parse990(xml, { ...meta, ein_full: ein });
-          appendLine(FILINGS_OUT, filing);
-          for (const g of filing.grants) {
-            appendLine(GRANTS_OUT, {
-              grantor_ein: ein,
-              grantor_name: filing.filer_name,
-              tax_year: filing.tax_year,
-              recipient_name: g.recipient_name,
-              recipient_ein: g.recipient_ein,
-              recipient_irs_section: g.recipient_irs_section,
-              amount: g.total,
-              purpose: g.purpose,
-            });
-          }
-          matched++;
-          grantsInZip += filing.grants.length;
-          totalFilings++;
-          totalGrants += filing.grants.length;
-        } catch (e) {
-          // Skip filings that fail to parse
-        }
-      }
+      const stats = await processZipWithYauzl(zipPath, eins, byEin);
       markComplete(PIPELINE, zip);
-      console.log(`scanned=${scanned} matched=${matched} grants=${grantsInZip} in ${((Date.now() - zt0) / 1000).toFixed(1)}s`);
-    } finally {
-      fs.rmSync(tmp, { recursive: true, force: true });
+      totalFilings += stats.matched;
+      totalGrants += stats.grantsInZip;
+      console.log(`scanned=${stats.scanned} matched=${stats.matched} grants=${stats.grantsInZip} in ${((Date.now() - zt0) / 1000).toFixed(1)}s`);
+    } catch (err) {
+      console.log(`FAILED: ${err.message}`);
     }
+  }
+
+  async function processZipWithYauzl(zipPath, eins, byEin) {
+    return new Promise((resolve, reject) => {
+      yauzl.open(zipPath, { lazyEntries: true }, (err, zipfile) => {
+        if (err) return reject(err);
+        let scanned = 0, matched = 0, grantsInZip = 0;
+        zipfile.on('entry', (entry) => {
+          if (/\/$/.test(entry.fileName) || !entry.fileName.endsWith('.xml')) {
+            zipfile.readEntry();
+            return;
+          }
+          scanned++;
+          zipfile.openReadStream(entry, (err2, readStream) => {
+            if (err2) { zipfile.readEntry(); return; }
+            const chunks = [];
+            readStream.on('data', (c) => chunks.push(c));
+            readStream.on('end', () => {
+              const xml = Buffer.concat(chunks).toString('utf-8');
+              const ein = extractEinFast(xml.slice(0, 4096));
+              if (ein && eins.has(ein)) {
+                const meta = byEin.get(ein);
+                try {
+                  const filing = parse990(xml, { ...meta, ein_full: ein });
+                  appendLine(FILINGS_OUT, filing);
+                  for (const g of filing.grants) {
+                    appendLine(GRANTS_OUT, {
+                      grantor_ein: ein,
+                      grantor_name: filing.filer_name,
+                      tax_year: filing.tax_year,
+                      recipient_name: g.recipient_name,
+                      recipient_ein: g.recipient_ein,
+                      recipient_irs_section: g.recipient_irs_section,
+                      amount: g.total,
+                      purpose: g.purpose,
+                    });
+                  }
+                  matched++;
+                  grantsInZip += filing.grants.length;
+                } catch {}
+              }
+              zipfile.readEntry();
+            });
+            readStream.on('error', () => zipfile.readEntry());
+          });
+        });
+        zipfile.on('end', () => resolve({ scanned, matched, grantsInZip }));
+        zipfile.on('error', reject);
+        zipfile.readEntry();
+      });
+    });
   }
 
   console.log(`\n[done] ${((Date.now() - t0) / 60000).toFixed(1)} min. ${totalFilings} filings, ${totalGrants} grants.`);

@@ -76,6 +76,14 @@ ProfileTabs.afterDOMLoaded = `
     var oldPlaceholders = article.querySelectorAll('.profile-tab-placeholder');
     oldPlaceholders.forEach(function(el) { el.remove(); });
 
+    // Reparent any .contra-wrap found outside the article (rendered in
+    // beforeBody by ContradictionCard.tsx) into the article so it gets
+    // picked up as a profile-section-card belonging to the Contradiction tab.
+    var externalContra = document.querySelector('.page-header .contra-wrap, #quartz-body > .contra-wrap');
+    if (externalContra && !article.contains(externalContra)) {
+      article.insertBefore(externalContra, article.firstChild);
+    }
+
     var cards = article.querySelectorAll('.profile-section-card');
     if (cards.length === 0) return;
 
