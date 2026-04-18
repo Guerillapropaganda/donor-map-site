@@ -2,7 +2,7 @@
 title: Nancy Pelosi
 type: politician
 content-readiness: ready
-central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus , content-readiness: ready.6 billion since 2002. Her fundraising power is the structural basis of her politic..."
+central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — $1.6 billion since 2002. Her fundraising power is the structural basis of her political authority, and the donor class that makes her untouchable also dictates what legislation can pass."
 last-updated: 2026-04-15T00:00:00.000Z
 source-tier: 1
 career-total: $1.6B
@@ -65,10 +65,7 @@ source-types:
 corroboration-count: 2
 needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): P000197. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
-known-gaps:
-  - No legislative record from Congress.gov
-  - No voting record data
-  - No mapped relationships
+known-gaps: []
 opposes: "[[_Donald Trump Master Profile]]"
 related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
 wikidata-id: Q170581
@@ -88,6 +85,42 @@ bills-cosponsored: 95
 bills-enacted: 0
 top-policy-area: "Government Operations and Politics"
 ---
+
+
+
+#pelosi #master-profile #speaker #democrat #california #class-analysis #follow-the-money #san-francisco #donor-class #tech #stock-trading #dccc #gatekeeper
+
+---
+
+## Who She Is
+
+Nancy Patricia Pelosi (née D'Alesandro). Born March 26, 1940, Baltimore, Maryland. Democrat. Speaker of the United States House of Representatives (2007–2011, 2019–2023). U.S. Representative from California's 5th/8th/11th/12th district since 1987. House Democratic Leader (2003–2023). First woman to serve as Speaker of the House.
+
+The daughter of Baltimore machine politics (father Thomas D'Alesandro Jr. was mayor and congressman; brother Thomas III was also mayor), transplanted to the San Francisco machine through Phil Burton's liberal apparatus (Sala Burton's deathbed endorsement, 1987 special election), and elevated to the most powerful legislative position in the country. Pelosi is not a politician who takes donor money and delivers policy. She is the infrastructure, the mechanism through which the donor class controls the Democratic Party's candidate pipeline.
+
+---
+
+## The Central Thesis
+
+Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus, $1.6 billion since 2002. Her fundraising power is the structural basis of her political power: she controls who gets resources, which means she controls who wins. The DCCC dues system, the consultant blacklist, the committee assignment leverage, these aren't personal management decisions. They're the structural mechanisms that ensure only donor-compatible Democrats advance.
+
+Her legislative record is simultaneously genuine, the ACA, CHIPS, IIJA, IRA all passed through her chamber, and donor-class-compatible. The ACA preserved private insurance. CHIPS subsidized corporations. The IRA survived at 10% of Build Back Better's ambition because the Senate (where donor-class structural control is most direct) killed the rest. Pelosi delivers what the donor class allows and blocks what it doesn't, not because she's compromised, but because she built and operates the system that makes donor-class compatibility the prerequisite for Democratic advancement.
+
+---
+
+## Class Analysis
+
+*The Gatekeeper.*
+
+Pelosi's $1.6 billion in career fundraising isn't personal enrichment, her wealth comes from investments, not campaign funds. It's institutional power. Every Democratic House member who wants a committee assignment, campaign resources, or leadership support must demonstrate they can raise donor-class money. Pelosi's fundraising apparatus is the filter that ensures only donor-compatible Democrats advance.
+
+For IBEW: Pelosi's speakership delivered the IIJA and IRA through the House, both containing prevailing wage provisions that directly benefit IBEW members. She is simultaneously the gatekeeper who ensures the PRO Act never reaches a floor vote with real momentum, because structural labor reform threatens the donor class whose money she raises. She delivers donor-compatible labor wins (infrastructure spending) while blocking donor-incompatible ones (organizing rights).
+
+The DCCC blacklist, the dues system, the committee assignment leverage, the progressive containment, these aren't personal vendettas. They're the structural mechanisms that maintain donor-class control of the Democratic caucus. Pelosi built and operated those mechanisms more effectively than anyone in modern American politics.
+
+---
+
+## The Donor Class Map
 
 
 <!-- auto:data-panel start -->
@@ -118,43 +151,6 @@ top-policy-area: "Government Operations and Politics"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
-#pelosi #master-profile #speaker #democrat #california #class-analysis #follow-the-money #san-francisco #donor-class #tech #stock-trading #dccc #gatekeeper
-
-donors: [[Michael Bloomberg]], [[Haim Saban]], [[AIPAC - American Israel Public Affairs Committee]], [[SEIU - Service Employees International Union]], [[California Labor Federation]], [[Blue Shield of California]], [[UnitedHealth Group - Optum]], [[Kaiser Permanente]]
-
----
----
-
-## Who She Is
-
-Nancy Patricia Pelosi (née D'Alesandro). Born March 26, 1940, Baltimore, Maryland. Democrat. Speaker of the United States House of Representatives (2007–2011, 2019–2023). U.S. Representative from California's 5th/8th/11th/12th district since 1987. House Democratic Leader (2003–2023). First woman to serve as Speaker of the House.
-
-The daughter of Baltimore machine politics (father Thomas D'Alesandro Jr. was mayor and congressman; brother Thomas III was also mayor), transplanted to the San Francisco machine through Phil Burton's liberal apparatus (Sala Burton's deathbed endorsement, 1987 special election), and elevated to the most powerful legislative position in the country. Pelosi is not a politician who takes donor money and delivers policy. She is the infrastructure, the mechanism through which the donor class controls the Democratic Party's candidate pipeline.
-
----
-
-## The Central Thesis
-
-Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus, $1.6 billion since 2002. Her fundraising power is the structural basis of her political power: she controls who gets resources, which means she controls who wins. The DCCC dues system, the consultant blacklist, the committee assignment leverage, these aren't personal management decisions. They're the structural mechanisms that ensure only donor-compatible Democrats advance.
-
-Her legislative record is simultaneously genuine, the ACA, CHIPS, IIJA, IRA all passed through her chamber, and donor-class-compatible. The ACA preserved private insurance. CHIPS subsidized corporations. The IRA survived at 10% of Build Back Better's ambition because the Senate (where donor-class structural control is most direct) killed the rest. Pelosi delivers what the donor class allows and blocks what it doesn't, not because she's compromised, but because she built and operates the system that makes donor-class compatibility the prerequisite for Democratic advancement.
-
----
-
-## The Core Contradiction
-
-Pelosi simultaneously:
-, Built the most effective legislative operation in modern congressional history (ACA, two impeachments, CHIPS, BBB through the House)
-, Built the most effective donor-class gatekeeping operation in modern politics ($1.6B raised, DCCC blacklist, dues system)
-, Delivered genuine wins for workers (prevailing wage in IIJA/IRA, CHIPS construction jobs for [[IBEW - International Brotherhood of Electrical Workers|IBEW]])
-, Ensured structural labor reform (PRO Act, organizing rights expansion) never reached the floor with real momentum
-
-The contradiction is the system itself: Pelosi's legislative skill is real, and the constraints imposed by the donor-class apparatus she built are also real. She passed Build Back Better through the House, $3.5 trillion in social spending, then watched the Senate kill 90% of it. Her chamber performs ambition. The donor class's Senate apparatus performs containment. Both functions operate as designed.
-
----
-
-## Donor Class Map
-
 Key institutional relationships and their policy returns, each links to a detailed sub-note:
 
 **The $1.6 Billion Machine:** [[The $1.6 Billion Fundraising Machine]]
@@ -168,6 +164,18 @@ Most powerful single actor in forcing Biden withdrawal (July 2024) · Private pr
 
 **Legislative Record as Speaker:** [[Legislative Record as Speaker]]
 ACA (220-215, preserved private insurance, expanded coverage to 20M while healthcare donor class gained millions of customers) · Two Trump impeachments (accountability performed without achieved) · CHIPS Act ($52B semiconductors, Paul Pelosi Nvidia sale shadow) · Build Back Better passed House at $3.5T → Senate killed 90% → IRA survived at $369B · IBEW: prevailing wage in IIJA/IRA/CHIPS construction
+
+---
+
+## The Core Contradiction
+
+Pelosi simultaneously:
+- Built the most effective legislative operation in modern congressional history (ACA, two impeachments, CHIPS, BBB through the House)
+- Built the most effective donor-class gatekeeping operation in modern politics ($1.6B raised, DCCC blacklist, dues system)
+- Delivered genuine wins for workers (prevailing wage in IIJA/IRA, CHIPS construction jobs for [[IBEW - International Brotherhood of Electrical Workers|IBEW]])
+- Ensured structural labor reform (PRO Act, organizing rights expansion) never reached the floor with real momentum
+
+The contradiction is the system itself: Pelosi's legislative skill is real, and the constraints imposed by the donor-class apparatus she built are also real. She passed Build Back Better through the House, $3.5 trillion in social spending, then watched the Senate kill 90% of it. Her chamber performs ambition. The donor class's Senate apparatus performs containment. Both functions operate as designed.
 
 ---
 
@@ -198,7 +206,9 @@ $618,000+ from pro-Israel interest groups over her career. $149,150 from AIPAC P
 
 ---
 
-## Donation-to-Policy Timeline
+## Timeline
+
+*Donation-to-policy receipts — who paid, what passed, what got blocked.*
 
 #### Tech Industry
 
@@ -242,13 +252,25 @@ $618,000+ from pro-Israel interest groups over her career. $149,150 from AIPAC P
 
 ---
 
-## Class Analysis. The Gatekeeper
+## Related Figures
 
-Pelosi's $1.6 billion in career fundraising isn't personal enrichment, her wealth comes from investments, not campaign funds. It's institutional power. Every Democratic House member who wants a committee assignment, campaign resources, or leadership support must demonstrate they can raise donor-class money. Pelosi's fundraising apparatus is the filter that ensures only donor-compatible Democrats advance.
+**Top funders (employee-aggregated FEC contributions, career, from canonical store):**
 
-For IBEW: Pelosi's speakership delivered the IIJA and IRA through the House, both containing prevailing wage provisions that directly benefit IBEW members. She is simultaneously the gatekeeper who ensures the PRO Act never reaches a floor vote with real momentum, because structural labor reform threatens the donor class whose money she raises. She delivers donor-compatible labor wins (infrastructure spending) while blocking donor-incompatible ones (organizing rights).
+*Auto-pulled from `data/relationships.jsonl`. Regenerate with `node scripts/build-relationships-per-profile.cjs`.*
 
-The DCCC blacklist, the dues system, the committee assignment leverage, the progressive containment, these aren't personal vendettas. They're the structural mechanisms that maintain donor-class control of the Democratic caucus. Pelosi built and operated those mechanisms more effectively than anyone in modern American politics.
+**Political network:**
+
+- [[_Kamala Harris Master Profile|Kamala Harris]] — California Democrat elevated by Pelosi's SF apparatus; 24-hour donor-class consolidation after Biden exit
+- [[_Gavin Newsom Master Profile|Gavin Newsom]] — same SF donor class; Pelosi ally in CA politics
+- [[Hakeem Jeffries]] — her succession pick for House Democratic Leader (2023)
+- [[_Donald Trump Master Profile|Donald Trump]] — principal opposition; impeached twice in her speakership
+- [[AIPAC - American Israel Public Affairs Committee]] — top-tier career donor, Israel policy alignment
+- [[Haim Saban]] — major Dem donor, Israel policy pipeline
+- [[Michael Bloomberg]] — major Dem donor, tech/finance axis
+- [[SEIU - Service Employees International Union]] — labor support base, served with donor-compatible limits
+- [[IBEW - International Brotherhood of Electrical Workers]] — construction/infrastructure beneficiary via IIJA/IRA prevailing wage
+- [[House Majority PAC]] — the DCCC-aligned Super PAC that extends her fundraising machine
+- [[California Labor Federation]] — home-state labor coalition
 
 ---
 
