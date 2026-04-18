@@ -123,6 +123,7 @@ top-policy-area: "Civil Rights and Liberties, Minority Issues"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $10.4M |
+| Party committee support | $763 |
 | Super-PAC IE support (FOR) | $28K |
 
 **Top 10 direct PAC donors (lifetime):**

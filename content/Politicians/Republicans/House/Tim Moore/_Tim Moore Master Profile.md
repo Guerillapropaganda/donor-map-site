@@ -65,6 +65,7 @@ fec-candidate-id: "H4NC14015"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $704K |
+| Party committee support | $51K |
 | Super-PAC IE support (FOR) | $752K |
 
 **Top 10 direct PAC donors (lifetime):**

@@ -68,7 +68,7 @@ top-policy-area: "Taxation"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $5.0M |
-| Party committee support | $97K |
+| Party committee support | $105K |
 | Super-PAC IE support (FOR) | $124K |
 | Super-PAC IE opposition (AGAINST) | $2K |
 

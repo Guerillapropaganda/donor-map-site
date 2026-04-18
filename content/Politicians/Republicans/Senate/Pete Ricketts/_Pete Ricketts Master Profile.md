@@ -67,6 +67,7 @@ top-policy-area: "International Affairs"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $2.1M |
+| Party committee support | $66K |
 | Super-PAC IE support (FOR) | $742K |
 | Super-PAC IE opposition (AGAINST) | $431 |
 

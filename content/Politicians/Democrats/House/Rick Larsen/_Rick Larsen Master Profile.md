@@ -89,6 +89,7 @@ top-policy-area: "Armed Forces and National Security"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $12.3M |
+| Party committee support | $166K |
 | Super-PAC IE support (FOR) | $434K |
 | Super-PAC IE opposition (AGAINST) | $629K |
 

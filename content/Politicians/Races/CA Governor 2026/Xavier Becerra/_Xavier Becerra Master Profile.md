@@ -43,6 +43,7 @@ related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] 
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $8.9M |
+| Party committee support | $7K |
 | Super-PAC IE support (FOR) | $4K |
 
 **Top 10 direct PAC donors (lifetime):**

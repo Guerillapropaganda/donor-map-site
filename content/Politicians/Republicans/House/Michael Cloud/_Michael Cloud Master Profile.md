@@ -68,6 +68,7 @@ top-policy-area: "Government Operations and Politics"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $1.1M |
+| Party committee support | $200 |
 | Super-PAC IE support (FOR) | $562K |
 | Super-PAC IE opposition (AGAINST) | $750 |
 

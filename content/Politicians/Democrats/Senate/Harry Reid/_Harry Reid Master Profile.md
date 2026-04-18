@@ -63,7 +63,7 @@ related: "[[Crossroads Grassroots Policy Strategies]]"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $14.5M |
-| Party committee support | $285K |
+| Party committee support | $470K |
 | Super-PAC IE support (FOR) | $838K |
 | Super-PAC IE opposition (AGAINST) | $8.0M |
 

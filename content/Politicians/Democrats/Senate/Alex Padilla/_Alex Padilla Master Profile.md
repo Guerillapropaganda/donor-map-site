@@ -112,6 +112,7 @@ top-policy-area: "Health"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $2.8M |
+| Party committee support | $140K |
 | Super-PAC IE support (FOR) | $27K |
 
 **Top 10 direct PAC donors (lifetime):**

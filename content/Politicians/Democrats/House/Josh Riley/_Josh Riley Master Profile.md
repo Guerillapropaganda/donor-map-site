@@ -64,6 +64,7 @@ fec-candidate-id: "H8NY22177"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $1.6M |
+| Party committee support | $212K |
 | Super-PAC IE support (FOR) | $6.5M |
 | Super-PAC IE opposition (AGAINST) | $17.9M |
 

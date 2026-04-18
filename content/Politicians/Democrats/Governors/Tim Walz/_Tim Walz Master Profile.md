@@ -58,6 +58,7 @@ fec-cycle: 2018
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $4.6M |
+| Party committee support | $159K |
 | Super-PAC IE support (FOR) | $485K |
 | Super-PAC IE opposition (AGAINST) | $1.1M |
 

@@ -64,6 +64,7 @@ fec-candidate-id: "H4AL02170"
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $1.2M |
+| Party committee support | $95K |
 | Super-PAC IE support (FOR) | $2.5M |
 | Super-PAC IE opposition (AGAINST) | $86K |
 

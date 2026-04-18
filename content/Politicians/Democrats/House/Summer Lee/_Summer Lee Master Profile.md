@@ -86,6 +86,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $851K |
+| Party committee support | $105K |
 | Super-PAC IE support (FOR) | $3.3M |
 | Super-PAC IE opposition (AGAINST) | $3.3M |
 

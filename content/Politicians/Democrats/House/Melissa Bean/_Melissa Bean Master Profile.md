@@ -93,6 +93,7 @@ bills-data-scope: "Career total synced from auto:congress-legislation (Congress.
 | Channel | Lifetime $ |
 |---|---:|
 | Direct PAC donors | $5.4M |
+| Party committee support | $242K |
 | Super-PAC IE support (FOR) | $1.4M |
 | Super-PAC IE opposition (AGAINST) | $3.6M |
 
