@@ -340,10 +340,15 @@ EvidencePanel.css = `
   position: absolute;
   right: 0;
   top: 4px;
-  font-size: 9px;
-  font-weight: 700;
+  font-size: 10px;
+  font-weight: 800;
   letter-spacing: 0.1em;
-  color: var(--darkgray);
+  /* Solid black on cream — readable, matches the Inter 900 headline
+     register used elsewhere. Previous var(--darkgray) rendered as
+     washed-out grey that David flagged as hard to see. */
+  color: #0a0a0a;
+  background: #fbbf24;
+  padding: 2px 6px;
   text-transform: uppercase;
   opacity: 0;
   transition: opacity 0.15s ease;
