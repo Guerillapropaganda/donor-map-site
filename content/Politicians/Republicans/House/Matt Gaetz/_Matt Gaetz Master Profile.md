@@ -11,7 +11,7 @@ chamber: House
 state: Florida
 state-abbr: FL
 district: "1"
-top-donors: "[[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]], [[CITIZEN SUPER PAC]], [[FLORIDA CONSERVATIVE FUND]], [[Florida Conservative Fund]], [[Citizen Super PAC]], [[Protect Freedom Political Action Committee]]"
+top-donors: "[[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]] · [[FLORIDA CONSERVATIVE FUND]] · [[Florida Conservative Fund]] · [[Citizen Super PAC]] · [[Protect Freedom Political Action Committee]]"
 total-received: $6,772,979
 fec-candidate-id: H6FL01119
 bioguide-id: G000578
@@ -39,7 +39,7 @@ issues:
   - Government Operations and Politics
   - Health
   - Immigration
-donors: "[[Protect Freedom Political Action Committee]], [[North Florida Neighbors]], [[MAGA Small Dollar Base]], [[CITIZEN SUPER PAC]], [[Florida Conservative Fund]], [[FLORIDA CONSERVATIVE FUND]], [[Citizen Super PAC]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[Florida Patriots Pac]]"
+donors: "[[Protect Freedom Political Action Committee]] · [[North Florida Neighbors]] · [[MAGA Small Dollar Base]] · [[Florida Conservative Fund]] · [[FLORIDA CONSERVATIVE FUND]] · [[Citizen Super PAC]] · [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 43
 bills-cosponsored: 691

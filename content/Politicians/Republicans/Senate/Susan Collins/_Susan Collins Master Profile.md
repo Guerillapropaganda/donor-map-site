@@ -35,7 +35,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[The McConnell-Leo Judicial Pipeline]] · [[Blackstone]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Schwarzman and Singer Fund Every Republican Faction]] · [[Janet Mills]]"
-donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[WOMEN VOTE!]] · [[DSCC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[SMP]] · [[Blackstone]]"
+donors: "[[Blackstone Group]] · [[Tech Industry]] · [[1820 PAC]] · [[American Gaming Association]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Blackstone]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 37
 bills-cosponsored: 475

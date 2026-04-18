@@ -13,7 +13,7 @@ state: South Dakota
 state-abbr: SD
 leadership-roles:
   - Majority Leader
-top-donors: "[[Insurance Industry]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[Goldman Sachs]], [[League of Conservation Voters]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH INC PAC]], [[NRA Political Victory Fund]], [[Club for Growth INC PAC]]"
+top-donors: "[[Insurance Industry]] · [[National Right to Life Victory Fund]] · [[NextEra Energy]] · [[Goldman Sachs]] · [[CLUB FOR GROWTH INC PAC]] · [[NRA Political Victory Fund]] · [[Club for Growth INC PAC]]"
 total-received: $1,221,843
 fec-candidate-id: S2SD00068
 source-types:
@@ -23,7 +23,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Mitch McConnell Master Profile]] · [[_Donald Trump Master Profile]] · [[_Rick Scott Master Profile]] · [[John Cornyn]]"
-donors: "[[NRA Political Victory Fund]], [[Insurance Industry]], [[CLUB FOR GROWTH INC PAC]], [[NRA POLITICAL VICTORY FUND]], [[National Right to Life Victory Fund]], [[NextEra Energy]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[League of Conservation Voters]], [[Goldman Sachs]], [[Club for Growth INC PAC]]"
+donors: "[[NRA Political Victory Fund]] · [[Insurance Industry]] · [[CLUB FOR GROWTH INC PAC]] · [[National Right to Life Victory Fund]] · [[NextEra Energy]] · [[Goldman Sachs]] · [[Club for Growth INC PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 49
 bills-cosponsored: 260

@@ -37,7 +37,7 @@ known-gaps:
 last-enriched: "2026-04-11"
 related: "[[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[_Chuck Schumer Master Profile|Chuck Schumer]]"
 bioguide-id: M001176
-donors: "[[California Nurses Association]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[Labor Unions]], [[National Republican Senatorial Committee]], [[League of Conservation Voters]], [[FREEDOM PARTNERS ACTION FUND INC]], [[AMERICAN FUTURE FUND POLITICAL ACTION]], [[SEIU COPE]], [[American Future Fund Political Action]], [[Freedom Partners Action Fund Inc]]"
+donors: "[[California Nurses Association]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[Labor Unions]] · [[League of Conservation Voters]] · [[FREEDOM PARTNERS ACTION FUND INC]] · [[SEIU COPE]] · [[American Future Fund Political Action]] · [[Freedom Partners Action Fund Inc]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 101
 bills-cosponsored: 629

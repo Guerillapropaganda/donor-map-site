@@ -14,7 +14,7 @@ bioguide-id: R000615
 govtrack-id: 412841
 bills-sponsored: 27
 bills-cosponsored: 150
-donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]] · [[PRIORITIES USA ACTION]] · [[Winning Our Future]] · [[Americans for Responsible Leadership]] · [[Restore Our Future, Inc.]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]]"
+donors: "[[Elliott Management]] · [[Rebekah Mercer]] · [[Christopher Ruddy]] · [[Americans for Responsible Leadership]] · [[Restore Our Future, Inc.]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]]"
 related: "[[Paul Ryan]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

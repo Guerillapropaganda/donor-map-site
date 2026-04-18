@@ -25,7 +25,7 @@ issues:
 total-received: $1,848,430
 fec-candidate-id: H4AR04048
 related: "[[Raul Grijalva]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[AMERICAN CONSERVATIVE UNION]] · [[THE DISABLED VETERANS COALITION PAC]] · [[The Disabled Veterans Coalition PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[American Conservative Union]]"
+donors: "[[American Petroleum Institute]] · [[National Cattlemen's Beef Association]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[CITIZENS FOR RESPONSIBLE ENERGY SOLUTIONS INC.]] · [[AMERICAN CONSERVATIVE UNION]] · [[THE DISABLED VETERANS COALITION PAC]] · [[The Disabled Veterans Coalition PAC]] · [[Citizens for Responsible Energy Solutions Inc.]] · [[American Conservative Union]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true
 reenrich-reason: re-run congress pipeline

@@ -39,7 +39,7 @@ stock-trade-tickers:
   - "UPS"
   - "UN"
   - "USB"
-donors: "[[Jeff Bezos]], [[Pharmaceutical Industry Bloc]], [[Crossroads Grassroots Policy Strategies]], [[Evergreen Principles PAC]], [[National Republican Senatorial Committee]], [[Defense Industry Bloc]], [[Microsoft]], [[Boeing]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[WOMEN VOTE!]], [[ESAFUND]]"
+donors: "[[Jeff Bezos]] · [[Pharmaceutical Industry Bloc]] · [[Evergreen Principles PAC]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[WOMEN VOTE!]] · [[ESAFUND]]"
 total-received: $3,798,925
 fec-candidate-id: S2WA00189
 related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]]"

@@ -15,7 +15,7 @@ committees:
 issues:
   - Environment
   - Infrastructure
-top-donors: "[[TAKE ME HOME WV ACTION]], [[Senate Majority PAC]], [[US CHAMBER OF COMMERCE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[Koch Network]], [[DEFENDING MAIN STREET SUPERPAC INC]], [[Defending Main Street Superpac INC]], [[US Chamber of Commerce]], [[Koch network]], [[Take Me Home WV Action]]"
+top-donors: "[[TAKE ME HOME WV ACTION]] · [[US CHAMBER OF COMMERCE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[Koch Network]] · [[DEFENDING MAIN STREET SUPERPAC INC]] · [[Defending Main Street Superpac INC]] · [[US Chamber of Commerce]] · [[Koch network]] · [[Take Me Home WV Action]]"
 total-received: $4,455,752
 fec-candidate-id: S4WV00159
 stock-trades: 347
@@ -44,7 +44,7 @@ known-gaps:
   - No mapped relationships
 opposes: "[[SENATE MAJORITY PAC]]"
 related: "[[_Joe Manchin Master Profile|Manchin]] · [[_Donald Trump Master Profile|Trump]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[Defending Main Street Superpac INC]], [[US CHAMBER OF COMMERCE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[TAKE ME HOME WV ACTION]], [[Senate Majority PAC]], [[DEFENDING MAIN STREET SUPERPAC INC]], [[US Chamber of Commerce]], [[Koch network]], [[Take Me Home WV Action]], [[Koch Network]]"
+donors: "[[Defending Main Street Superpac INC]] · [[US CHAMBER OF COMMERCE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[TAKE ME HOME WV ACTION]] · [[DEFENDING MAIN STREET SUPERPAC INC]] · [[US Chamber of Commerce]] · [[Koch network]] · [[Take Me Home WV Action]] · [[Koch Network]]"
 urls-first-triaged: "2026-04-15"
 ---
 

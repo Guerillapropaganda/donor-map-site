@@ -20,7 +20,7 @@ source-types:
   - GovTrack
 corroboration-count: 3
 central-thesis: Wealth-through-marriage converting into policy power that compounds the wealth. Feinstein chaired committees overseeing the defense contractors her husband owned.
-top-donors: "[[COPS VOTER GUIDE INC.]], [[ONE NATION UNITED]], [[DELIVERING FOR CALIFORNIA]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]], [[Cops Voter Guide Inc.]], [[One Nation United]], [[English Language Political Action Committee]], [[Humane Society Legislative Fund]], [[Delivering for California]]"
+top-donors: "[[COPS VOTER GUIDE INC.]] · [[ONE NATION UNITED]] · [[DELIVERING FOR CALIFORNIA]] · [[HUMANE SOCIETY LEGISLATIVE FUND]] · [[Cops Voter Guide Inc.]] · [[One Nation United]] · [[English Language Political Action Committee]] · [[Humane Society Legislative Fund]] · [[Delivering for California]]"
 bills-sponsored: 37
 bills-cosponsored: 297
 known-gaps:
@@ -32,7 +32,7 @@ reenrich-reason: run committee pipeline; re-run congress pipeline for bills coun
 internal-notes: "[CODE @ 2026-04-12] Pipeline: congress FAILED for Dianne Feinstein. Run: https://github.com/Guerillapropaganda/donor-map-engine/actions/runs/24318211380"
 checklist-na:
   - "bills: From the Congress.gov API via the enrichment pipeline. "
-donors: "[[One Nation United]], [[COPS VOTER GUIDE INC.]], [[DELIVERING FOR CALIFORNIA]], [[ONE NATION UNITED]], [[Cops Voter Guide Inc.]], [[HUMANE SOCIETY LEGISLATIVE FUND]], [[English Language Political Action Committee]], [[ENGLISH LANGUAGE POLITICAL ACTION COMMITTEE]], [[Humane Society Legislative Fund]], [[Delivering for California]]"
+donors: "[[One Nation United]] · [[COPS VOTER GUIDE INC.]] · [[DELIVERING FOR CALIFORNIA]] · [[ONE NATION UNITED]] · [[Cops Voter Guide Inc.]] · [[HUMANE SOCIETY LEGISLATIVE FUND]] · [[English Language Political Action Committee]] · [[Humane Society Legislative Fund]] · [[Delivering for California]]"
 bills-enacted: 1
 top-policy-area: "Crime and Law Enforcement"
 ---

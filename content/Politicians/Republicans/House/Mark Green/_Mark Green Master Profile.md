@@ -30,7 +30,7 @@ known-gaps:
   - No mapped relationships
 opposes: "[[HOUSE MAJORITY PAC]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[_Bennie Thompson Master Profile|Thompson]]"
-donors: "[[Fraternal Order of Police]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[National Right to Life Victory Fund]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
+donors: "[[Fraternal Order of Police]] · [[National Right to Life Victory Fund]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]]"
 ---
 
 <!-- auto:data-panel start -->

@@ -25,7 +25,7 @@ website: https://www.fischer.senate.gov
 phone: 202-224-6551
 total-received: $572,417
 fec-candidate-id: S2NE00094
-donors: "[[Insurance Industry]], [[ESAFUND]], [[Retire Career Politicians]], [[ENDING SPENDING ACTION FUND]], [[END THE GRIDLOCK]], [[COMMON SENSE FOR AMERICA PAC]], [[End the Gridlock]], [[Common Sense for America PAC]]"
+donors: "[[Insurance Industry]] · [[ESAFUND]] · [[Retire Career Politicians]] · [[ENDING SPENDING ACTION FUND]] · [[COMMON SENSE FOR AMERICA PAC]] · [[End the Gridlock]] · [[Common Sense for America PAC]]"
 related: "[[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 last-enriched: "2026-04-10"
 needs-reenrichment: true

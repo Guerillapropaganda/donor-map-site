@@ -39,7 +39,7 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - No voting record data
   - No mapped relationships
-donors: "[[NORPAC]], [[Brownstein Hyatt Farber Schreck]], [[FAIR SHARE ACTION]], [[SMP]], [[American Petroleum Institute]], [[Fossil Fuel Bloc]], [[NRSC]], [[Senate Leadership Fund]], [[ESAFUND]], [[Fair Share Action]]"
+donors: "[[NORPAC]] · [[Brownstein Hyatt Farber Schreck]] · [[FAIR SHARE ACTION]] · [[SMP]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[Fair Share Action]]"
 related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
 govtrack-id: 456797
 bills-sponsored: 49

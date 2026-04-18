@@ -30,7 +30,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
-donors: "[[JB Pritzker]] · [[David Sacks]] · [[Congressional Leadership Fund]] · [[NRCC]] · [[US CHAMBER OF COMMERCE]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Tech and Media Donors]] · [[AMERICA FIRST POLICIES INC.]] · [[David McIntosh]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[US Chamber of Commerce]] · [[Planned Parenthood Action Fund INC]] · [[JB Pritzker (Donor Network)]] · [[David Sacks - Donor Network]] · [[David Sacks (Donor Network)]] · [[JB Pritzker - Donor Network]]"
+donors: "[[JB Pritzker]] · [[David Sacks]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Tech and Media Donors]] · [[David McIntosh]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[US Chamber of Commerce]] · [[Planned Parenthood Action Fund INC]] · [[JB Pritzker (Donor Network)]] · [[David Sacks - Donor Network]] · [[David Sacks (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 bills-enacted: 3
 top-policy-area: "Armed Forces and National Security"
 ---

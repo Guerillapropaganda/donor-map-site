@@ -57,7 +57,7 @@ opposes:
   - Silicon Valley tech executives (post-wealth-tax)
   - Defense contractors (NDAA dissent)
   - Ethan Agarwal (primary challenger funded by Y Combinator CEO Garry Tan, Chamath Palihapitiya)
-donors: "[[Google - Alphabet]] · [[Protect Progress]] · [[CALIFORNIANS FOR INNOVATION]] · [[WORKING FOR US POLITICAL ACTION COMMITTEE INC]] · [[HE'S GOTTA GO PAC]] · [[OHLONE AREA UNITED DEMOCRATIC CAMPAIGN]] · [[Ohlone Area United Democratic Campaign]] · [[Working for US Political Action Committee INC]] · [[Californians for Innovation]] · [[He's Gotta Go PAC]]"
+donors: "[[Google - Alphabet]] · [[Protect Progress]] · [[CALIFORNIANS FOR INNOVATION]] · [[OHLONE AREA UNITED DEMOCRATIC CAMPAIGN]] · [[Ohlone Area United Democratic Campaign]] · [[Working for US Political Action Committee INC]] · [[Californians for Innovation]] · [[He's Gotta Go PAC]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate

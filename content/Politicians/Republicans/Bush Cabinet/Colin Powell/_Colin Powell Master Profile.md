@@ -8,7 +8,7 @@ source-tier: 1
 parent: null
 party: Republican
 chamber: Cabinet
-top-donors: "[[Boeing]], [[Lockheed Martin]], [[WASHINGTON CITIZENS FOR COLIN POWELL]], [[Washington Citizens for Colin Powell]]"
+top-donors: "[[Boeing]] · [[Lockheed Martin]] · [[Washington Citizens for Colin Powell]]"
 fec-candidate-id: P60003050
 last-enriched: "2026-04-07"
 source-types:
@@ -20,7 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[George W Bush]] · [[Dick Cheney]] · [[Lockheed Martin]] · [[Boeing]] · [[Kleiner Perkins]] · [[Defense & Intelligence/Defense Contractors]] · [[Iraq War Coalition]]"
-donors: "[[Washington Citizens for Colin Powell]], [[Boeing]], [[WASHINGTON CITIZENS FOR COLIN POWELL]], [[Lockheed Martin]]"
+donors: "[[Washington Citizens for Colin Powell]] · [[Boeing]] · [[Lockheed Martin]]"
 urls-first-triaged: "2026-04-15"
 ---
 

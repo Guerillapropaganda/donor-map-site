@@ -22,7 +22,7 @@ govtrack-id: 400351
 bills-sponsored: 0
 bills-cosponsored: 0
 related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[John Boehner]] · [[Koch Network - Charles Koch|Koch Network]] · [[Heritage Foundation]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Fox News - Murdoch Media Empire|Fox News]] · [[Rupert Murdoch]] · [[_Mitt Romney Master Profile|Mitt Romney]] · [[Donald Trump]]"
-donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]] · [[PRIORITIES USA ACTION]] · [[Americans for Responsible Leadership]] · [[AMERICAN CROSSROADS]] · [[Restore Our Future, Inc.]] · [[Winning Our Future]] · [[Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Crossroads]]"
+donors: "[[Jewish Democratic Council of America]] · [[American Iron and Steel Institute]] · [[Koch network]] · [[Mark Zuckerberg]] · [[Americans for Responsible Leadership]] · [[AMERICAN CROSSROADS]] · [[Restore Our Future, Inc.]] · [[Koch Network]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[American Crossroads]]"
 total-received: $483,642,897
 fec-candidate-id: H8WI01024
 needs-reenrichment: true

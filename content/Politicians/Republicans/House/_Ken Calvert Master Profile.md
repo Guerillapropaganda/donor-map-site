@@ -32,7 +32,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[Raytheon (RTX)|Raytheon PAC]]"
-donors: "[[Elon Musk]], [[Edf Action Votes]], [[EVERYTOWN FOR GUN SAFETY VICTORY FUND (EVERYTOWN VICTORY FUND)]], [[HMP]], [[LCV VICTORY FUND]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]]"
+donors: "[[Elon Musk]] · [[Edf Action Votes]] · [[HMP]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Lockheed Martin]]"
 urls-first-triaged: "2026-04-15"
 bills-enacted: 1
 top-policy-area: "Government Operations and Politics"

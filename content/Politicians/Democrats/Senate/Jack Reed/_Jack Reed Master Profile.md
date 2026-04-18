@@ -29,7 +29,7 @@ top-donors:
   - Boeing
 stock-trades: 1
 fec-candidate-id: S6RI00163
-donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[National Republican Senatorial Committee]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[PATRIOT VOICES PAC]] · [[CAMPAIGN FOR WORKING FAMILIES]] · [[ENVIRONMENT AMERICA INC]] · [[Environment America INC]] · [[Patriot Voices PAC]] · [[Campaign for Working Families]]"
+donors: "[[General Dynamics]] · [[NORPAC]] · [[Planned Parenthood Votes]] · [[Lockheed Martin]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[CAMPAIGN FOR WORKING FAMILIES]] · [[ENVIRONMENT AMERICA INC]] · [[Environment America INC]] · [[Patriot Voices PAC]]"
 related: "[[General Dynamics]] · [[_Roger Wicker Master Profile|Wicker]] · [[Lockheed Martin]] · [[Boeing]]"
 last-enriched: "2026-04-11"
 needs-reenrichment: true

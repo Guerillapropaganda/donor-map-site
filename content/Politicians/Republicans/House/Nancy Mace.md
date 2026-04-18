@@ -24,8 +24,8 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]]"
-top-donors: "[[CLUB FOR GROWTH ACTION]], [[DCCC]], [[HOUSE MAJORITY PAC]], [[SOUTH CAROLINA PATRIOTS PAC]], [[314 ACTION FUND]], [[314 Action Fund]], [[South Carolina Patriots PAC]]"
-donors: "[[South Carolina Patriots PAC]], [[SOUTH CAROLINA PATRIOTS PAC]], [[CLUB FOR GROWTH ACTION]], [[314 ACTION FUND]], [[DCCC]], [[314 Action Fund]], [[HOUSE MAJORITY PAC]]"
+top-donors: "[[CLUB FOR GROWTH ACTION]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[314 Action Fund]] · [[South Carolina Patriots PAC]]"
+donors: "[[South Carolina Patriots PAC]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[CLUB FOR GROWTH ACTION]] · [[314 Action Fund]]"
 bills-enacted: 0
 top-policy-area: "Government Operations and Politics"
 ---

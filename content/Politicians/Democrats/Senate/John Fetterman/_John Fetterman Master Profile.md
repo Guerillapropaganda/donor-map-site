@@ -30,7 +30,7 @@ known-gaps:
   - No mapped relationships
 opposes: "[[SENATE LEADERSHIP FUND]] · [[AMERICAN CROSSROADS]] · [[NRSC]] · [[MAKE AMERICA GREAT AGAIN INC.]]"
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC - American Israel Public Affairs Committee]] · [[Fossil Fuel Bloc]] · [[_Kamala Harris Master Profile]] · [[_Joe Manchin Master Profile]] · [[_Bernie Sanders Master Profile]] · [[Jewish Democratic Council of America]] · [[DMFI - Democratic Majority for Israel]] · [[Priorities USA Action]]"
-donors: "[[Devon Energy]], [[Senate Leadership Fund]], [[AIPAC - American Israel Public Affairs Committee]], [[NRSC]], [[PRIORITIES USA ACTION]], [[MAKE AMERICA GREAT AGAIN INC.]], [[AMERICAN CROSSROADS]], [[American Crossroads]]"
+donors: "[[Devon Energy]] · [[AIPAC - American Israel Public Affairs Committee]] · [[PRIORITIES USA ACTION]] · [[AMERICAN CROSSROADS]] · [[American Crossroads]]"
 urls-first-triaged: "2026-04-15"
 ---
 

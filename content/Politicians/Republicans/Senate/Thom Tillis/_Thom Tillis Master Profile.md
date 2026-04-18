@@ -49,7 +49,7 @@ total-spent: $5,232,134
 cash-on-hand: "3675005.14"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
-donors: "[[Insurance Industry]], [[NEA ADVOCACY FUND]], [[SMP]], [[Tech IP and Patent Lobbying]], [[Senate Majority PAC]], [[DSCC]], [[Pharmaceutical Industry Bloc]], [[Koch Network - Charles Koch]], [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]], [[NEA Advocacy Fund]]"
+donors: "[[Insurance Industry]] · [[Tech IP and Patent Lobbying]] · [[Pharmaceutical Industry Bloc]] · [[Koch Network - Charles Koch]] · [[NEA Advocacy Fund]]"
 urls-first-triaged: "2026-04-15"
 ---
 

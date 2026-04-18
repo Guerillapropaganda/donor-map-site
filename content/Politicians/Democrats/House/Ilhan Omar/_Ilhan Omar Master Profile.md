@@ -44,7 +44,7 @@ opposes:
   - AIPAC
   - United Democracy Project
   - Don Samuels
-donors: "[[Americans for Tomorrow's Future]], [[National Nurses United]], [[Wfp Ie Committee]], [[Takeaction Mn Federal Fund]], [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]], [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]], [[Minnesota Democratic-Farmer-Labor Party]], [[National Nurses United for Patient Protection]]"
+donors: "[[National Nurses United]] · [[Wfp Ie Committee]] · [[Takeaction Mn Federal Fund]] · [[MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY]] · [[NATIONAL NURSES UNITED FOR PATIENT PROTECTION]] · [[Minnesota Democratic-Farmer-Labor Party]] · [[National Nurses United for Patient Protection]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate

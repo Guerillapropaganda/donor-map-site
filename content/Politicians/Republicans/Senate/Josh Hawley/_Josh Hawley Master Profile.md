@@ -12,7 +12,7 @@ state: Missouri
 state-abbr: MO
 issues:
   - Dark Money & Campaign Finance
-top-donors: "[[PATRIOTS PREVAIL PAC]], [[WOMEN VOTE!]], [[Koch Network - Charles Koch]], [[Leonard Leo]], [[SMP]], [[MAJORITY FORWARD]], [[PRIORITIES USA ACTION]], [[Patriots Prevail PAC]]"
+top-donors: "[[PATRIOTS PREVAIL PAC]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]] · [[Patriots Prevail PAC]]"
 total-received: $1,150,554
 fec-candidate-id: S8MO00160
 source-types:
@@ -28,7 +28,7 @@ last-enriched: "2026-04-10"
 govtrack-id: 405245
 bills-sponsored: 0
 bills-cosponsored: 0
-donors: "[[Patriots Prevail PAC]], [[PRIORITIES USA ACTION]], [[SMP]], [[PATRIOTS PREVAIL PAC]], [[WOMEN VOTE!]], [[Koch Network - Charles Koch]], [[Leonard Leo]], [[MAJORITY FORWARD]]"
+donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network - Charles Koch]] · [[Leonard Leo]]"
 ---
 
 <!-- auto:data-panel start -->

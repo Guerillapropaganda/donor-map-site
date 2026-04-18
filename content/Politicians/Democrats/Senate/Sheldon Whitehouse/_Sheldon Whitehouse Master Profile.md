@@ -66,7 +66,7 @@ opposes:
   - DonorsTrust
   - Judicial Crisis Network
   - Marble Freedom Trust
-donors: "[[Fraternal Order of Police]] · [[MOVEON.ORG POLITICAL ACTION]] · [[DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE]] · [[Judicial Crisis Network]] · [[National Republican Senatorial Committee]] · [[Roosevelt Society Action]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[PEOPLE'S MAJORITY]] · [[MoveOn.org Political Action]] · [[People's Majority]]"
+donors: "[[Fraternal Order of Police]] · [[MOVEON.ORG POLITICAL ACTION]] · [[Judicial Crisis Network]] · [[Roosevelt Society Action]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MoveOn.org Political Action]] · [[People's Majority]]"
 editorial-review-date: "2026-04-10"
 editorial-reviewer: Research Claude
 editorial-result: verified-candidate

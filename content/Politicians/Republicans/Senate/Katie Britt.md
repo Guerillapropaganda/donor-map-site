@@ -18,8 +18,8 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[Business Council of Alabama]] · [[Alabama Power]] · [[Drummond Co|Drummond Co.]] · [[Defense Contractors]]"
-top-donors: "[[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]], [[AMERICAN DREAM FEDERAL ACTION]], [[American Dream Federal Action]]"
-donors: "[[American Dream Federal Action]], [[AMERICAN DREAM FEDERAL ACTION]], [[Alabama Conservatives Fund]], [[Alabama Christian Conservatives]], [[Conservative Outsider Pac Inc]], [[CLUB FOR GROWTH ACTION]]"
+top-donors: "[[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[American Dream Federal Action]]"
+donors: "[[American Dream Federal Action]] · [[AMERICAN DREAM FEDERAL ACTION]] · [[Alabama Conservatives Fund]] · [[Alabama Christian Conservatives]] · [[Conservative Outsider Pac Inc]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 17
 bills-cosponsored: 367

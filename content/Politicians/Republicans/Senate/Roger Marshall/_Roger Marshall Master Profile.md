@@ -34,7 +34,7 @@ known-gaps:
 related: "[[_John Barrasso Master Profile|Barrasso]] · [[_Ron Johnson Master Profile|Ron Johnson]]"
 last-enriched: "2026-04-11"
 bioguide-id: M001198
-donors: "[[Western Growers Association]], [[ESAFUND]], [[CLUB FOR GROWTH ACTION]], [[HOUSE LIBERTY PROJECT]], [[KANSAS AG COMMUNITIES COALITION]], [[KANSAS FARMERS FUND]], [[Kansas Farmers Fund]], [[House Liberty Project]], [[Kansas Ag Communities Coalition]]"
+donors: "[[Western Growers Association]] · [[ESAFUND]] · [[KANSAS AG COMMUNITIES COALITION]] · [[Kansas Farmers Fund]] · [[House Liberty Project]] · [[Kansas Ag Communities Coalition]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 69
 bills-cosponsored: 426
