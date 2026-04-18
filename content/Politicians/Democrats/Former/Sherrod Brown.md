@@ -50,7 +50,7 @@ total-raised: $14,356,451
 total-spent: $4,456,809
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 bioguide-id: B001313
 issues:
   - Agriculture and Food
@@ -254,7 +254,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - {{src:src_001996}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-17 -->
+<!-- auto:fec-politician pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
