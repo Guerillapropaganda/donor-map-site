@@ -48,6 +48,70 @@ contributions-to-committees: 110750
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $20.8M |
+| Money out: direct contributions to candidates | $95K |
+| Money out: IE spending FOR candidates | $8.9M |
+| Money out: IE spending AGAINST candidates | $7.3M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| STEPHENS, WARREN A. (AR) | $3.5M | STEPHENS INC. |
+| SINGER, PAUL E. (MA) | $2.9M | PRESIDENT |
+| CONGRESSIONAL LEADERSHIP FUND (DC) | $2.8M | — |
+| GRIFFIN, KENNETH C. (IL) | $2.5M | CITADEL INVESTMENT GROUP LLC |
+| SCHWAB, CHARLES R. (FL) | $850K | CHARLES SCHWAB CORPORATION |
+| GRANIERI, ROBERT (NY) | $850K | JANE STREET |
+| AMERICAN ACTION NETWORK INC. (DC) | $820K | — |
+| WINNING FOR WOMEN INC (DC) | $775K | — |
+| SINGER, PAUL E. (NY) | $500K | ELLIOTT MANAGEMENT CORPORATION |
+| LEON RACHEL CORP (VA) | $500K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4NC01137 | $10K |
+| H4WA03122 | $7K |
+| H4MI08259 | $7K |
+| H4UT02296 | $6K |
+| H0OK05205 | $5K |
+| H4AK00156 | $5K |
+| H4NY18117 | $5K |
+| H6TX38065 | $5K |
+| H6WA04216 | $5K |
+| S2NE00094 | $3K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2OH00360 | $2.0M |
+| H4IN03158 | $703K |
+| H4SC01339 | $652K |
+| H0WA03187 | $623K |
+| S0GA00526 | $597K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2WA03100 | $1.7M |
+| H2IA02111 | $715K |
+| H0IN01150 | $610K |
+| H2SC01150 | $569K |
+| H0NC03172 | $559K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

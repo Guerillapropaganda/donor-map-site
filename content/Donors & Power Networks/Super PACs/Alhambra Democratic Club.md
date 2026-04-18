@@ -43,6 +43,27 @@ total-spent: 2383
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money out: IE spending FOR candidates | $9K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0CA27085 | $4K |
+| H8CA34068 | $1K |
+| S0CA00199 | $1K |
+| P80003338 | $1K |
+| H0CA32101 | $1K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

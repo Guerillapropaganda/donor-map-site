@@ -61,6 +61,37 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $163.1M across 21 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| CONGRESSIONAL LEADERSHIP FUND | $70.0M | 2012→2020 |
+| PRESERVE AMERICA PAC | $45.0M | 2020→2020 |
+| RESTORE OUR FUTURE, INC. | $15.0M | 2012→2012 |
+| FUTURE45 | $10.0M | 2016→2016 |
+| WINNING OUR FUTURE | $7.5M | 2012→2012 |
+| INDEPENDENCE VIRGINIA PAC | $4.0M | 2012→2012 |
+| YG ACTION FUND | $2.5M | 2012→2012 |
+| NEW REPUBLICAN PAC | $2.5M | 2018→2018 |
+| RJC VICTORY FUND | $2.4M | 2012→2020 |
+| ARIZONA GRASSROOTS ACTION PAC | $1.2M | 2016→2016 |
+| HARDWORKING AMERICANS COMMITTEE | $1.0M | 2012→2012 |
+| TREASURE COAST JOBS COALITION | $525K | 2012→2014 |
+| PATRIOT PROSPERITY POLITICAL ACTION COMMITTEE | $500K | 2012→2012 |
+| CONSERVATIVE RENEWAL POLITICAL ACTION COMMITTEE (PAC) | $250K | 2012→2012 |
+| TEXAS CONSERVATIVES FUND | $250K | 2012→2012 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #mega-donor #israel-lobby #casino #deceased #miriam-adelson #republican #foreign-policy #jerusalem #iran
 
 ---

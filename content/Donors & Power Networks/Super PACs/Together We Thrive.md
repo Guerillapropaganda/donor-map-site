@@ -49,6 +49,46 @@ employee-donor-count: 2
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $61K |
+| Money out: IE spending FOR candidates | $190K |
+| Money out: IE spending AGAINST candidates | $92K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CONTRIBUTION, UNITEMIZED () | $42K | — |
+| CONTRIBUTIONS, UNITEMIZED () | $19K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0AL00156 | $3K |
+| H8NY19181 | $3K |
+| H8NJ07223 | $3K |
+| H8NY11113 | $2K |
+| H8CA49058 | $2K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2KY00012 | $2K |
+| S4NC00162 | $2K |
+| S4GA11285 | $2K |
+| S8MS00261 | $2K |
+| S6ME00159 | $1K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

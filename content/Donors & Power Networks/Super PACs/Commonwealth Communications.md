@@ -45,6 +45,44 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $550K |
+| Money out: IE spending FOR candidates | $859K |
+| Money out: IE spending AGAINST candidates | $36K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| STRATEGIC VICTORY FUND (NC) | $500K | — |
+| STRATEGIC VICTORY FUND IE PAC (NC) | $50K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80000722 | $636K |
+| S6PA00274 | $25K |
+| H4PA18131 | $11K |
+| H2PA17079 | $11K |
+| H4PA13199 | $11K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2PA00638 | $23K |
+| P80001571 | $11K |
+| S6PA00274 | $3K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

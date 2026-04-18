@@ -46,6 +46,60 @@ contributions-to-committees: 93316
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $12K |
+| Money out: direct contributions to candidates | $180K |
+| Money out: IE spending FOR candidates | $168K |
+| Money out: IE spending AGAINST candidates | $438K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| EDONATION (VA) | $12K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4MS00120 | $10K |
+| H8FL22038 | $8K |
+| H2UT04023 | $8K |
+| H4TX04039 | $7K |
+| S4SC00240 | $6K |
+| H0SC01105 | $5K |
+| H6KS01146 | $5K |
+| H0LA03141 | $5K |
+| H2MT01060 | $5K |
+| H4IL02293 | $5K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4OH08062 | $73K |
+| H4IL02293 | $26K |
+| S4LA00129 | $19K |
+| H8FL22038 | $15K |
+| H0LA03141 | $12K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0OH08029 | $279K |
+| P80003338 | $127K |
+| S8AK00090 | $20K |
+| S0NH00219 | $12K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

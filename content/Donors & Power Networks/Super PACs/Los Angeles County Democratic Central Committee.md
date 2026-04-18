@@ -52,6 +52,62 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $150K |
+| Money out: direct contributions to candidates | $8K |
+| Money out: IE spending FOR candidates | $67K |
+| Money out: IE spending AGAINST candidates | $961 |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| MORONGO BAND OF MISSION INDIANS (CA) | $10K | — |
+| AGUA CALIENTE BAND OF CAHUILLA INDIANS (CA) | $10K | — |
+| PACHULSKI, RICHARD (CA) | $10K | PACHULSKI STANG ZIEHL YOUNG JONES/A |
+| LOCAL 11 IBEW AFL-CIO (CA) | $10K | — |
+| IBEW LOCAL 18 WATER  POWER DEFENSE LEAGUE (CA) | $10K | — |
+| GIRARDI, ERIKA (CA) | $10K | EJ GLOBAL LLC |
+| SWIG, STEVEN (CA) | $10K | STEVEN L SWIG/ATTORNEY |
+| DEAN FLOREZ FOR LIEUTENANT GOVERNOR (CA) | $10K | — |
+| JOHN A. PEREZ FOR ASSEMBLY 2010 (CA) | $10K | — |
+| DRIVE COMMITTEE (DC) | $10K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8CA50023 | $5K |
+| H8CA39174 | $2K |
+| P40002289 | $800 |
+| H2CA28113 | $361 |
+| H6CA23206 | $257 |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4CA23011 | $32K |
+| H8CA34266 | $15K |
+| H8CA39174 | $7K |
+| H0CA25253 | $7K |
+| H8CA36097 | $1K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4CA25123 | $901 |
+| P80001571 | $60 |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

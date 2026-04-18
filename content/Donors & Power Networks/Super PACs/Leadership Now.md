@@ -50,6 +50,47 @@ employee-donor-count: 6
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.2M |
+| Money out: IE spending FOR candidates | $139K |
+| Money out: IE spending AGAINST candidates | $153K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| LEADERSHIP NOW PROJECT (DC) | $214K | — |
+| TOGETHER WISCONSIN ACTS, INC. (WI) | $200K | — |
+| PIVOTAL VENTURES (WA) | $200K | — |
+| SIXTEEN THIRTY FUND (DC) | $145K | — |
+| A BETTER WISCONSIN TOGETHER (WI) | $100K | — |
+| LEDLEY, CHARLES H. (MA) | $65K | HIGHFIELDS CAPITAL MANAGEMENT |
+| SIMON, JEROME (CA) | $55K | LONESTAR CAPITAL MANAGEMENT |
+| WALKER, JEFFREY (FL) | $55K | N/A |
+| STATE VICTORY ACTION (NC) | $50K | — |
+| UNITE AMERICA PAC INC. (CO) | $50K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2NY04244 | $89K |
+| P00009423 | $50K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $153K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

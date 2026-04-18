@@ -8,6 +8,7 @@ ProfileTabs.afterDOMLoaded = `
 (function() {
   var POLITICIAN_TABS = [
     { id: 'overview', label: 'Overview' },
+    { id: 'contradiction', label: 'Contradiction' },
     { id: 'donors', label: 'The Money' },
     { id: 'voting', label: 'Key Votes' },
     { id: 'analysis', label: 'Analysis' },
@@ -16,6 +17,7 @@ ProfileTabs.afterDOMLoaded = `
   ];
   var PRESIDENTIAL_TABS = [
     { id: 'overview', label: 'Overview' },
+    { id: 'contradiction', label: 'Contradiction' },
     { id: 'donors', label: 'The Money' },
     { id: 'executive', label: 'Executive Actions' },
     { id: 'analysis', label: 'Analysis' },
@@ -24,6 +26,7 @@ ProfileTabs.afterDOMLoaded = `
   ];
   var DONOR_TABS = [
     { id: 'overview', label: 'Overview' },
+    { id: 'contradiction', label: 'Contradiction' },
     { id: 'recipients', label: 'Recipients' },
     { id: 'wins', label: 'Policy Wins' },
     { id: 'analysis', label: 'Analysis' },

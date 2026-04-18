@@ -73,6 +73,23 @@ employee-donor-count: 507
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $14.2M across 1 committee.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| NEA ADVOCACY FUND | $14.2M | 2014→2016 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #nea #education #union #teachers #democratic #vouchers #charter #political-spending
 
 ---

@@ -48,6 +48,54 @@ contributions-to-committees: 5500
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $1.29B |
+| Money out: IE spending FOR candidates | $57.4M |
+| Money out: IE spending AGAINST candidates | $876.2M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| ONE NATION (VA) | $190.0M | — |
+| ADELSON, MIRIAM DR. (NV) | $105.0M | ADELSON DRUG CLINIC |
+| SCHWARZMAN, STEPHEN A. MR. (NY) | $81.6M | BLACKSTONE |
+| ADELSON, SHELDON G. MR. (NV) | $77.5M | LAS VEGAS SANDS CORPORATION |
+| GRIFFIN, KENNETH C. MR. (IL) | $49.1M | CITADEL INVESTMENT GROUP |
+| GRIFFIN, KENNETH C. (FL) | $42.0M | CITADEL INVESTMENT GROUP |
+| SINGER, PAUL ELLIOTT (FL) | $37.5M | EMC |
+| MELLON, TIMOTHY (WY) | $30.0M | SELF-EMPLOYED |
+| STEPHENS, WARREN A. MR. (AR) | $21.6M | STEPHENS INC. |
+| REYES, J. CHRISTOPHER (FL) | $20.8M | REYES HOLDINGS |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0NH00326 | $9.2M |
+| S2GA00225 | $8.7M |
+| S0IA00176 | $7.7M |
+| S4OH00192 | $6.9M |
+| S4IA00129 | $4.7M |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S8GA00180 | $92.4M |
+| S6OH00163 | $63.7M |
+| S6PA00217 | $52.8M |
+| S6PA00274 | $47.6M |
+| S0GA00559 | $47.2M |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

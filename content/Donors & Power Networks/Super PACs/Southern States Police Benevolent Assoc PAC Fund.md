@@ -47,6 +47,52 @@ contributions-to-committees: 5000
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $444K |
+| Money out: direct contributions to candidates | $175K |
+| Money out: IE spending FOR candidates | $34K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SOUTHERN STATES P.B.A (GA) | $369K | — |
+| SOUTHERN STATES P.B.A., INC. (GA) | $64K | — |
+| SOUTHERN STATES P.B.A. (GA) | $11K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2NC14050 | $13K |
+| H4GA07259 | $10K |
+| H2NC08185 | $10K |
+| H2NC02287 | $10K |
+| H8SC04144 | $5K |
+| H0NC09187 | $5K |
+| S0GA00526 | $5K |
+| S2NC00505 | $5K |
+| H2NC14019 | $5K |
+| S2GA00225 | $5K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| P80001571 | $5K |
+| S2GA00118 | $3K |
+| H2GA11149 | $2K |
+| H0AL05049 | $1K |
+| S8GA00099 | $1K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

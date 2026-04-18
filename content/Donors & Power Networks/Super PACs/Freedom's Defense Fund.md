@@ -48,6 +48,65 @@ contributions-to-committees: 74500
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $365K |
+| Money out: direct contributions to candidates | $783K |
+| Money out: IE spending FOR candidates | $874K |
+| Money out: IE spending AGAINST candidates | $2.5M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CASEY, JOSEPH K. MR. (GA) | $191K | INFORMATION REQUESTED |
+| MADDEN 601, TERRENCE B (IL) | $65K | NONE |
+| WONG, EDWARD G MR. (CA) | $64K | NONE |
+| HILLMAN, TATNALL LEA MR. (CO) | $35K | NONE |
+| WALDEN 653, JOHN R MR (MO) | $10K | — |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2MI11133 | $20K |
+| H4NC01137 | $17K |
+| H2FL20043 | $16K |
+| H2MT02050 | $16K |
+| H0NV01151 | $15K |
+| H0CA25105 | $15K |
+| H4TX04039 | $12K |
+| H4MN06087 | $11K |
+| H4NJ12081 | $11K |
+| H0WI03175 | $11K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S2MO00429 | $242K |
+| H2MI11133 | $140K |
+| H8PA12044 | $59K |
+| H8TX06266 | $57K |
+| S8MN00586 | $55K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| P00003392 | $1.2M |
+| P80003338 | $945K |
+| S2ND00099 | $73K |
+| P20000642 | $68K |
+| H8NJ03073 | $67K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

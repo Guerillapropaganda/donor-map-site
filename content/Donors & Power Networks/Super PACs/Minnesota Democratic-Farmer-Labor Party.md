@@ -51,6 +51,70 @@ ofac-programs:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $6.7M |
+| Money out: direct contributions to candidates | $355K |
+| Money out: IE spending FOR candidates | $1.4M |
+| Money out: IE spending AGAINST candidates | $100K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| MESSINGER, ALIDA (MN) | $550K | SELF EMPLOYED |
+| OPPERMAN, VANCE (MN) | $315K | KEY INVESTMENTS - PRESIDENT |
+| DEAL, JAMES D (MN) | $263K | PSD, LLC |
+| DEAL, PAMELA S (MN) | $158K | NOT EMPLOYED |
+| PHILLIPS, TYLER M.D. (MN) | $140K | INDEPENDENT CONTRACTOR |
+| GABBERT, MARTHA (MN) | $135K | R & B PROPERTIES |
+| MINNESOTA DEMOCRATIC STATE ACCT-L (MN) | $102K | — |
+| GROSBARD, MOIRA (FL) | $100K | RETIRED |
+| WALTER, H WILLIAM (MN) | $95K | HEARTLAND REALTY |
+| ANDERSON, JEFFREY (MN) | $93K | REINHARDT & ANDERSON |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2MN07014 | $20K |
+| H8MN01055 | $17K |
+| H2MN01025 | $15K |
+| H8MN06096 | $13K |
+| H4MN01088 | $12K |
+| H0MN04049 | $11K |
+| H2MN06073 | $10K |
+| H6MN01174 | $10K |
+| H6MN07106 | $10K |
+| H2MN02023 | $10K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2MN08111 | $682K |
+| H8MN05239 | $323K |
+| H0MN04049 | $96K |
+| H8MN08068 | $63K |
+| H6MN05183 | $46K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8MN08043 | $28K |
+| H4MN07077 | $25K |
+| H4MN08083 | $18K |
+| H8MN08068 | $15K |
+| H8MN03077 | $11K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

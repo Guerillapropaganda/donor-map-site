@@ -63,6 +63,37 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $23.5M across 23 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| MAKE AMERICA NUMBER 1 | $15.5M | 2016→2016 |
+| RESTORE OUR FUTURE, INC. | $1.0M | 2012→2012 |
+| REMEMBER MISSISSIPPI | $1.0M | 2018→2018 |
+| CONCERNED TAXPAYERS OF AMERICA | $644K | 2010→2010 |
+| MAKE AMERICA NUMBER 1 | $620K | 2022→2022 |
+| WARRIOR PAC | $600K | 2016→2016 |
+| WOMEN SPEAK OUT PAC | $500K | 2014→2014 |
+| NEW YORK WINS PAC | $500K | 2016→2016 |
+| REPUBLICAN SUPER PAC INC | $439K | 2012→2012 |
+| REPUBLICAN NATIONAL COMMITTEE - RNC | $401K | 2016→2016 |
+| AMERICAN HEARTLAND PAC | $350K | 2014→2014 |
+| NEW YORK 2014 | $350K | 2014→2014 |
+| STATE CONSERVATIVE REFORM ACTION PAC (SCRAP) | $250K | 2016→2016 |
+| BELIEVE AGAIN | $250K | 2016→2016 |
+| NATIONAL HORIZON | $200K | 2012→2012 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #robert-mercer #mega-donor #renaissance-technologies #breitbart #cambridge-analytica #hedge-fund #dark-money #class-analysis
 
 ---

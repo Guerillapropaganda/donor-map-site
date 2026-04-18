@@ -58,6 +58,30 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $326K across 8 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| WINRED | $98K | 2024→2026 |
+| EMMER VICTORY COMMITTEE DBA REPUBLICAN CONGRESSIONAL VICTORY COMMITTEE | $51K | 2026→2026 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $37K | 2024→2024 |
+| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $37K | 2024→2024 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $37K | 2024→2024 |
+| NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE EXPENDITURES | $37K | 2024→2024 |
+| ACTBLUE | $21K | 2020→2022 |
+| KANSAS DEMOCRATIC STATE COMMITTEE | $10K | 2022→2022 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #brad-garlinghouse #ripple #xrp #crypto #fairshake #trump-inaugural #genius-act #ceo
 
 ---

@@ -75,6 +75,33 @@ checklist-na:
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $44.0M across 11 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| SAVING ARIZONA PAC | $20.0M | 2022→2022 |
+| PROTECT OHIO VALUES PAC (POV PAC) | $15.0M | 2022→2022 |
+| ENDORSE LIBERTY, INC | $2.6M | 2012→2012 |
+| FREE FOREVER POLITICAL ACTION COMMITTEE | $2.1M | 2020→2020 |
+| CONSERVATIVE, AUTHENTIC, RESPONSIVE LEADERSHIP FOR YOU AND FOR AMERICA | $2.0M | 2016→2016 |
+| FIGHTING FOR OHIO FUND | $1.0M | 2016→2016 |
+| MAKE AMERICA NUMBER 1 | $1.0M | 2016→2016 |
+| MCCARTHY VICTORY FUND | $133K | 2016→2022 |
+| SLF PAC | $100K | 2020→2020 |
+| OHIO SENATE FUND | $15K | 2012→2012 |
+| CALIFORNIA REPUBLICAN PARTY | $10K | 2012→2012 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #thiel #palantir #surveillance #paypal-mafia #class-analysis #follow-the-money #anti-democracy #dark-enlightenment #kingmaker #venture-capital #trump #vance
 
 ---

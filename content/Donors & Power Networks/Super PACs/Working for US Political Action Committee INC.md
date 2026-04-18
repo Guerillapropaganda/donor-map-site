@@ -43,6 +43,54 @@ total-spent: 341
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $3.9M |
+| Money out: IE spending FOR candidates | $2.6M |
+| Money out: IE spending AGAINST candidates | $986K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| SUSSMAN, S. DONALD (ME) | $1.1M | TRUST ASSET MANAGEMENT |
+| SEIU COPE SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION (DC) | $762K | — |
+| WOMEN VOTE (DC) | $500K | — |
+| AMERICAN FEDERATION OF TEACHERS (DC) | $150K | — |
+| UAW - V - CAP UAW VOLUNTARY COMMUNITY ACTION PROGRAM (MI) | $150K | — |
+| MOVEON.ORG POLITICAL ACTION (CA) | $130K | — |
+| D.R.I.V.E. - DEMOCRAT, REPUBLICAN, INDEPENDENT VOTER EDUCATION THE PAC OF THE INTERNATION (DC) | $115K | — |
+| BAUMAN, PATRICIA (DC) | $105K | THE BAUMAN FOUNDATION |
+| INTERNATIONAL UNION OF OPERATING ENGINEERS (DC) | $100K | — |
+| UAW EDUCATION FUND (MI) | $100K | — |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| S6MD03458 | $1.7M |
+| S2CT00132 | $339K |
+| P80003338 | $209K |
+| H0MI01153 | $168K |
+| H6MI01028 | $148K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S0IL00261 | $687K |
+| H4CA12055 | $84K |
+| H0CT05176 | $79K |
+| S0CT00151 | $72K |
+| H0CT04146 | $41K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

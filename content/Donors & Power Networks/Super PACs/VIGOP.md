@@ -34,6 +34,65 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $62K |
+| Money out: direct contributions to candidates | $179K |
+| Money out: IE spending FOR candidates | $4.8M |
+| Money out: IE spending AGAINST candidates | $1.9M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| HILLMAN, TATNALL LEA CAPT (CO) | $27K | — |
+| HILLMAN 816, TATNALL LEA CAPT (CO) | $15K | US NAVY |
+| GATES 782, ALONZO E MR II (TX) | $10K | SELF EMPLOYED |
+| JOHNSON 334, CHARLES (FL) | $10K | FRANKLIN RESOURCES |
+| STEMLE 275, LYNN MR (NC) | — | NONE |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4WV02080 | $16K |
+| H0TX23086 | $12K |
+| S4SC00240 | $12K |
+| H6PA14192 | $11K |
+| S8MI00372 | $10K |
+| H0WA03187 | $8K |
+| H6FL18097 | $8K |
+| H2UT04023 | $6K |
+| H2FL25018 | $5K |
+| S2TX00312 | $5K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H2UT04023 | $1.6M |
+| H0TX23086 | $1.5M |
+| S2TX00312 | $647K |
+| S8MI00372 | $296K |
+| S4SC00240 | $180K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8CA05035 | $636K |
+| P00003392 | $523K |
+| P20000642 | $492K |
+| H4CA23011 | $228K |
+| H0TX23086 | $21K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

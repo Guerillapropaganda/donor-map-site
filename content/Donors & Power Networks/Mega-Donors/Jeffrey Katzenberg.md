@@ -54,6 +54,37 @@ urls-first-triaged: "2026-04-15"
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $13.3M across 23 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| SMP | $5.2M | 2012→2024 |
+| PRIORITIES USA ACTION | $4.1M | 2012→2020 |
+| NANCY PELOSI VICTORY FUND | $1.0M | 2020→2022 |
+| FF PAC | $1.0M | 2024→2024 |
+| HMP | $725K | 2012→2024 |
+| DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE | $403K | 2002→2024 |
+| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $287K | 1994→2024 |
+| PACRONYM | $100K | 2020→2020 |
+| THE LINCOLN PROJECT | $100K | 2020→2020 |
+| FAIR FIGHT | $95K | 2022→2022 |
+| DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMITTEE | $62K | 2006→2018 |
+| GRASSROOTS VICTORY PROJECT 2014 | $32K | 2014→2014 |
+| COMMITTEE TO ELECT AN EFFECTIVE VALLEY CONGRESSMAN | $25K | 2012→2012 |
+| GIFFORDS PAC | $25K | 2014→2014 |
+| TAXPAC | $25K | 2014→2014 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #mega-donor #hollywood #democratic #bundler #dreamworks #wndrco #entertainment #class-analysis #follow-the-money
 
 ---

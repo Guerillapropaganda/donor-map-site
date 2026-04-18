@@ -45,6 +45,61 @@ individual-contributions: 2250
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $30K |
+| Money out: direct contributions to candidates | $716K |
+| Money out: IE spending FOR candidates | $173K |
+| Money out: IE spending AGAINST candidates | $60K |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| CUMMINS, JOAN (MN) | $10K | NONE |
+| CUMMINS, ROBERT (MN) | $10K | PRIMERA TECHNOLOGY |
+| OCONNOR, MICHAEL E (MN) | $10K | COLD SPRINGS GRANITE |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8MN06047 | $85K |
+| H4MN01070 | $57K |
+| H0MN01045 | $42K |
+| H6MN06074 | $40K |
+| H8MN03077 | $35K |
+| H0MN02035 | $30K |
+| H6MN02149 | $30K |
+| S2MN00126 | $25K |
+| H4MN08083 | $20K |
+| H0MN02134 | $20K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H0MN02035 | $61K |
+| H0MN03124 | $37K |
+| H0MN01045 | $24K |
+| H4MN01070 | $11K |
+| S2MN00126 | $10K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| H6MN01174 | $44K |
+| H2MN07014 | $14K |
+| P60012143 | $2K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

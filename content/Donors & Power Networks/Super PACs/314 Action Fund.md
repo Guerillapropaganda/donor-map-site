@@ -52,6 +52,70 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC data, 1982–2026. Anomalous filings excluded.*
+
+| Channel | Lifetime $ |
+|---|---:|
+| Money in (individual donors ≥$10K) | $19.5M |
+| Money out: direct contributions to candidates | $1.1M |
+| Money out: IE spending FOR candidates | $7.2M |
+| Money out: IE spending AGAINST candidates | $13.6M |
+
+**Top 10 individual funders (lifetime, ≥$10K each):**
+
+| Donor | Total | Employer |
+|---|---:|---|
+| 314 ACTION FUND CONTRIBUTION ACCOUNT (DC) | $8.3M | — |
+| 314 ACTION (DC) | $1.9M | — |
+| SMP (DC) | $1.4M | — |
+| ROTHROCK, RAY (CA) | $770K | REDSEAL |
+| BLOOMBERG, MICHAEL (NY) | $500K | BLOOMBERG LP |
+| MASSON, COLIN (MA) | $400K | N/A |
+| GOODMAN, COREY (CA) | $400K | VENBIO PARTNERS, LLC |
+| GRANIERI, ROBERT (NY) | $350K | JANE STREET |
+| SMITH, SONJIA (VA) | $290K | N/A |
+| DEAN, JEFF (CA) | $260K | GOOGLE, INC. |
+
+**Top 10 candidates funded (direct contributions, lifetime):**
+
+| Candidate ID | Total |
+|---|---:|
+| H8IL14174 | $38K |
+| H8WA08189 | $37K |
+| H8VA02111 | $35K |
+| H8PA06087 | $33K |
+| H2CA36439 | $32K |
+| H2IA02111 | $30K |
+| H0CA03078 | $29K |
+| H8IL06139 | $28K |
+| H8NY21203 | $25K |
+| H8AZ08083 | $25K |
+
+**Top 5 IE-support targets (candidates this committee spent FOR):**
+
+| Candidate ID | Total |
+|---|---:|
+| H4OR03192 | $2.2M |
+| H2IL17147 | $615K |
+| H0TX10216 | $474K |
+| H4OR05304 | $474K |
+| H0NY01186 | $453K |
+
+**Top 5 IE-oppose targets (candidates this committee spent AGAINST):**
+
+| Candidate ID | Total |
+|---|---:|
+| S4AK00214 | $2.5M |
+| H0VA05160 | $2.4M |
+| H8NY01148 | $2.3M |
+| H2OR05209 | $2.0M |
+| H0SC01394 | $898K |
+
+*Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 ## Auto-Created Stub
 
 This profile was created by `scripts/create-top-fec-pac-stubs.cjs` on 2026-04-15

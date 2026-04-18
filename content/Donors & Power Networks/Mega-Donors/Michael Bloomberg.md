@@ -103,6 +103,37 @@ employee-donor-count: 1
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+<!-- auto:fec-lifetime start -->
+
+*Lifetime federal FEC-tracked political giving, 1982–2026. Individual contributions ≥$10K to committees.*
+
+**Total tracked: $95.4M across 26 committees.**
+
+**Top 15 committees funded:**
+
+| Committee | Total | First→Last cycle |
+|---|---:|---:|
+| HMP | $23.8M | 2020→2022 |
+| LCV VICTORY FUND | $20.1M | 2014→2024 |
+| FF PAC | $19.0M | 2024→2024 |
+| WOMEN VOTE | $12.9M | 2014→2022 |
+| FAIR FIGHT | $5.0M | 2020→2020 |
+| UNITE THE COUNTRY | $4.4M | 2020→2020 |
+| UNITE AMERICA PAC INC. | $2.5M | 2024→2024 |
+| NEIGHBORS FOR RESULTS | $2.0M | 2024→2024 |
+| FLORIDA FREEDOM PAC | $1.5M | 2020→2020 |
+| CENTER FOR ESSENTIAL INFORMATION | $1.2M | 2020→2020 |
+| CENTER FORWARD COMMITTEE | $500K | 2022→2022 |
+| 314 ACTION FUND | $500K | 2024→2024 |
+| REPUBLICAN VOTERS AGAINST FAILED LEADERSHIP | $500K | 2020→2020 |
+| GEORGIANS TOGETHER | $350K | 2014→2014 |
+| OUR FUTURE UNITED | $260K | 2022→2022 |
+
+*Note: dark-money 501(c)(4) contributions and sub-$10K donations are not in FEC bulk data and therefore not in this total.*
+
+*Source: FEC individual contribution filings (indiv), 1982–2026.*
+<!-- auto:fec-lifetime end -->
+
 #donor #bloomberg #mega-donor #gun-control #climate #charter-schools #technocratic #national #class-analysis #follow-the-money #democratic #independent
 
 ---
