@@ -43,10 +43,15 @@ const args = (() => {
   const o = { resume: a.includes('--resume'), dryRun: a.includes('--dry-run') };
   const c = a.indexOf('--cycles');
   if (c !== -1) o.cycles = a[c + 1].split(',').map(Number);
-  // Min contribution threshold — skip trivially small rows. Default $1K.
-  // Lower threshold means more rows aggregated (more memory).
+  // Min contribution threshold. Default $10K.
+  // The Tier 2 mega-donor story is about donors giving $10K+ per transaction
+  // to political committees (true mega-donors give $1M-$250M chunks). At
+  // $1K threshold the in-memory aggregation Map exceeds V8's 8GB heap by
+  // indiv16. $10K keeps the map at ~1M entries, ~2GB heap. For sub-$10K
+  // individual contribution research, run with --min-amount 1000 and
+  // --max-old-space-size=24576, OR refactor to disk-backed aggregation.
   const m = a.indexOf('--min-amount');
-  o.minAmount = m !== -1 ? Number(a[m + 1]) : 1000;
+  o.minAmount = m !== -1 ? Number(a[m + 1]) : 10000;
   return o;
 })();
 
