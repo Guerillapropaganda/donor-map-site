@@ -59,9 +59,6 @@ urls-first-triaged: "2026-04-15"
 
 #marco-rubio #secretary-of-state #florida #sugar-industry #defense-contractors #class-analysis #follow-the-money #cuba #venezuela #fanjul #gang-of-eight #immigration-flip #hawkish #[[AIPAC - American Israel Public Affairs Committee|AIPAC]] #little-marco
 
-donors: [[Miriam Adelson]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Fanjul Family - Florida Crystals]] · [[MasTec - Mas Canosa Family]] · [[LARA Fund - Mauricio Claver-Carone]]
-
----
 ---
 
 ## Who He Is
@@ -85,7 +82,7 @@ Career arc: Florida House of Representatives (2000–2008, including Speaker) �
 
 ---
 
-## Donor Class Map
+## The Donor Class Map
 
 ### The Florida Sugar Industry and Defense Contractors:
 - [[The Defense Contractor Pipeline and the Hawkish Foreign Policy]]. Rubio regularly hosts campaign fundraisers at events organized by lobbyists for [[Boeing|Boeing]], General Dynamics, and Honeywell. His Senate assignments. Intelligence Committee, Foreign Relations Committee, gave him direct oversight of the contractors he fundraised from. The defense industry investment returned dividends: Rubio's hawkish posture on Iran (maximum pressure), China (technology sanctions), Venezuela (military option on table), and Cuba (tightest possible embargo) aligns with defense contractor interests in sustained military tension and procurement funding. As Secretary of State, Rubio is now executing the foreign policy that his donor base paid for, including the Iran war that began February 28, 2026, the fourth deliverable in the [[The Adelson Pipeline - Embassy, Abraham Accords, and Iran|Adelson pipeline]] (embassy → JCPOA withdrawal → Abraham Accords → Iran confrontation). Rubio's career-long Iran hawkishness (he led Senate opposition to the JCPOA in 2013-2015) made him the ideal Secretary of State to execute what Sheldon Adelson publicly advocated: military confrontation with Iran. The [[The Iran War Money Trail - From Adelson to Airstrikes|Iran War Money Trail]] documents how three donor constituencies, defense contractors, fossil fuel majors, and the Israel lobby, all extract returns from the same war Rubio now manages.
@@ -101,9 +98,9 @@ Miami auto dealer Norman Braman was Rubio's major early backer, during the 2010 
 
 ---
 
-## Donation-to-Policy Timeline
+## Timeline
 
-*Note: Rubio went from "Little Marco" to Secretary of State by becoming useful, the Gang of Eight bill was abandoned when the MAGA donor base demanded it, proving donor-driven position reversal is his operating model.*
+*Donation-to-policy receipts. Rubio went from "Little Marco" to Secretary of State by becoming useful — the Gang of Eight bill was abandoned when the MAGA donor base demanded it, proving donor-driven position reversal is his operating model.*
 
 #### Fanjul Family / Sugar Industry
 
@@ -174,6 +171,32 @@ The Cuba blockade completed the transaction. Trump's January 2026 executive orde
 **The Two-Audience Problem**. To bipartisan immigration moderates in 2013, Rubio was the serious reformer co-authoring comprehensive legislation. To MAGA base in 2016, he claimed the bill "was never intended to become law." To Miami's Cuban exile community and Fanjul family sugar interests, he's the hawk guaranteeing maximum pressure on Cuba and Venezuela. The identical foreign policy serves ideological hardliners and agricultural/defense contractor donors.
 
 **The Villain Framing**. Rubio frames China, Cuba, and Venezuela as existential threats requiring sustained hawkish posture, deflecting from the class analysis: his foreign policy positions serve defense contractor donors who funded his Senate career and the Miami exile community (Fanjul family, Norman Braman) whose geopolitical preferences align with U.S. agricultural and industrial interests.
+
+---
+
+## Related Figures
+
+**Top funders (employee-aggregated FEC contributions, career):**
+
+- [[Elliott Management]] — $213K
+- [[Goldman Sachs]] — $206K
+- [[Blackstone Group]] — $90K
+- [[Fanjul Family - Florida Crystals]] — $61K (sugar + Cuba policy interlock)
+- [[Morgan Stanley]] — $55K
+- [[Oracle]] — $42K
+- [[MasTec - Mas Canosa Family]] — $22K (Latin America infrastructure)
+
+**Political network:**
+
+- [[_Donald Trump Master Profile|Donald Trump]] — principal; Rubio's 2016 rival turned his confirmer
+- [[Miriam Adelson]] + [[AIPAC - American Israel Public Affairs Committee|AIPAC]] — Israel / Iran pipeline
+- [[_Mario Diaz-Balart Master Profile|Mario Diaz-Balart]] — Florida Cuban-exile delegation, House Appropriations shield
+- [[_Rick Scott Master Profile|Rick Scott]] — Florida senior-partner Senate seat
+- [[LARA Fund - Mauricio Claver-Carone]] — post-Cuba-blockade infrastructure capital
+- [[Reclaim America PAC]] — his leadership PAC
+- [[Koch Network - Charles Koch]] — 2010 Tea Party launch funder
+
+*Auto-pulled from `data/relationships.jsonl`. Regenerate with `node scripts/build-relationships-per-profile.cjs`.*
 
 ---
 

@@ -71,7 +71,18 @@ function main() {
 
   const byProfile = new Map();
 
-  function ensure(title) {
+  // Normalize "_Foo Master Profile" → "Foo" so edges using either the
+  // raw filename-style name and edges using the clean display name land
+  // under the same bucket. Without this, profiles end up split across
+  // two keys and ProfileWidget's lookup misses the majority of the data
+  // (Rubio had 114 donors under "_Marco Rubio Master Profile" and 1
+  // under "Marco Rubio" before this fix).
+  function normalizeKey(title) {
+    return String(title || '').replace(/^_/, '').replace(/\s+Master Profile.*$/i, '').trim();
+  }
+
+  function ensure(rawTitle) {
+    const title = normalizeKey(rawTitle);
     if (!byProfile.has(title)) {
       byProfile.set(title, {
         related: [],
