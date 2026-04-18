@@ -189,13 +189,13 @@ const EvidencePanel: QuartzComponent = ({
 
       {/* Row 2: Money trail bar (sector breakdown) — clickable, jumps to The Money tab */}
       {sectorSegments.length > 0 && (
-        <a href="#the-money" class="signal-trail signal-trail-clickable" data-target-tab="donors" title="Click to view donor breakdown by sector">
+        <a href="#the-money" class="signal-trail signal-trail-clickable" data-target-tab="donors" aria-label="Click to view donor breakdown by sector">
           <div class="signal-trail-bar">
             {sectorSegments.map((seg) => (
               <div
                 class="signal-segment"
                 style={{ width: `${seg.pct}%`, background: seg.color }}
-                title={`${seg.sector}: ${seg.pct}%`}
+                aria-label={`${seg.sector}: ${seg.pct}%`}
               />
             ))}
           </div>
@@ -211,10 +211,10 @@ const EvidencePanel: QuartzComponent = ({
 
       {/* Row 2b: Party split bar (for donors) — clickable, jumps to Recipients tab */}
       {demPct !== null && repPct !== null && (
-        <a href="#politicians-funded" class="signal-trail signal-trail-clickable" data-target-tab="recipients" title="Click to view politicians funded">
+        <a href="#politicians-funded" class="signal-trail signal-trail-clickable" data-target-tab="recipients" aria-label="Click to view politicians funded">
           <div class="signal-trail-bar">
-            <div class="signal-segment" style={{ width: `${demPct}%`, background: "#1d4ed8" }} title={`Democrat: ${demPct}%`} />
-            <div class="signal-segment" style={{ width: `${repPct}%`, background: "#e63946" }} title={`Republican: ${repPct}%`} />
+            <div class="signal-segment" style={{ width: `${demPct}%`, background: "#1d4ed8" }} aria-label={`Democrat: ${demPct}%`} />
+            <div class="signal-segment" style={{ width: `${repPct}%`, background: "#e63946" }} aria-label={`Republican: ${repPct}%`} />
           </div>
         </a>
       )}
