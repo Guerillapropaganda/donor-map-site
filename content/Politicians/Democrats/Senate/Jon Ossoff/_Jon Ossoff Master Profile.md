@@ -3,7 +3,7 @@ title: Jon Ossoff
 type: politician
 content-readiness: ready
 central-thesis: "Jon Ossoff is the template for next-generation corporate Democrats: young, visually polished, media-savvy, positioned as anti-establishment 'outsider' despite strong establishment backing. His documentary filmmaker brand provided authenticity cove..."
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -29,7 +29,7 @@ corroboration-count: 2
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]]"
+related: "[[_Raphael Warnock Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Pete Buttigieg Master Profile]] · [[Silicon Valley Donors]] · [[Tech Industry]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Congressional Leadership Fund]]"
 donors: "[[JB Pritzker]] · [[David Sacks]] · [[Entertainment and Hollywood Donors]] · [[ActBlue]] · [[Tech and Media Donors]] · [[David McIntosh]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[US Chamber of Commerce]] · [[Planned Parenthood Action Fund INC]] · [[JB Pritzker (Donor Network)]] · [[David Sacks - Donor Network]] · [[David Sacks (Donor Network)]] · [[JB Pritzker - Donor Network]]"
 bills-enacted: 3
 top-policy-area: "Armed Forces and National Security"

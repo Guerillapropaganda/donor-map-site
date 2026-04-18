@@ -2,7 +2,7 @@
 title: Ford Motor Company
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Gig Economy
@@ -15,7 +15,7 @@ annual-revenue: $30.0M
 net-assets: $243K
 tax-year: "2016"
 court-cases: 21936
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 court-jurisdictions:
@@ -192,7 +192,7 @@ The class function is straightforward: Ford converts public money into private r
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

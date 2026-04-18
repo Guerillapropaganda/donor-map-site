@@ -1,7 +1,7 @@
 ---
 title: "Auto-Enrichment Log"
 type: reference
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: null
 ---
 
@@ -169,6 +169,64 @@ Bot-written. Research Claude reads this to see what fresh API data landed in the
 
 
 
+
+
+## 2026-04-18 04:33 UTC — 22 profiles
+
+**ofac-sdn — 22 profiles:**
+- Democratic Party Infrastructure — fuzzy match, 1 records, programs: BALKANS ⚠️ CONFLICT
+- Consumer Energy Alliance — fuzzy match, 1 records, programs: IRAN-EO13846 ⚠️ CONFLICT
+- Oil & Gas PACs — fuzzy match, 16 records, programs: SDGT] [NPWMD] [IRGC] [IFSR,IRAN,IRAN] [IRAN-EO13876,LIBYA3,IRAN-EO13876,IRAN-EO13846,RUSSIA-EO14024,UKRAINE-EO13662] [RUSSIA-EO14024,IRAN-EO13902 ⚠️ CONFLICT
+- Petrochemical Industry Bloc — fuzzy match, 2 records, programs: NPWMD] [IFSR ⚠️ CONFLICT
+- Gulf State Money - Saudi Arabia, UAE, Qatar — fuzzy match, 1 records, programs: SDGT ⚠️ CONFLICT
+- Saudi Arabia - Kingdom Investment — fuzzy match, 1 records, programs: SDGT ⚠️ CONFLICT
+- Blue Cross Blue Shield Association — fuzzy match, 17 records, programs: SDNTK,IRAN,SDGT,SDGT] [IFSR,BELARUS-EO14038,GLOMAG,IRAN-EO13846,NPWMD] [IFSR,IRAN-EO13902,SDGT] [ILLICIT-DRUGS-EO14059 ⚠️ CONFLICT
+- Insurance Industry Bloc — fuzzy match, 1 records, programs: UKRAINE-EO13662] [RUSSIA-EO14024 ⚠️ CONFLICT
+- JPAC - Jewish Public Affairs Committee of California — fuzzy match, 4 records, programs: BELARUS,GLOMAG ⚠️ CONFLICT
+- UFCW - United Food and Commercial Workers — fuzzy match, 1 records, programs: RUSSIA-EO14024 ⚠️ CONFLICT
+- Johnson & Johnson — fuzzy match, 3 records, programs: GLOMAG ⚠️ CONFLICT
+- Real Estate Board of New York — fuzzy match, 30 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,VENEZUELA-EO13850,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO ⚠️ CONFLICT
+- Real Estate Development Industry Bloc — fuzzy match, 33 records, programs: PAARSSR-EO13894,SDGT,GLOMAG,TCO,IRAN] [IRAN-EO13876,SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT] [IFSR,IRAN,RUSSIA-EO14024,IRAN-EO13846,DPRK2,ILLICIT-DRUGS-EO14059 ⚠️ CONFLICT
+- Real Estate Industry Bloc — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO ⚠️ CONFLICT
+- Real Estate Roundtable — fuzzy match, 26 records, programs: SDNTK,UKRAINE-EO13662] [RUSSIA-EO14024,SDGT,PAARSSR-EO13894,RUSSIA-EO14024,IRAN-EO13846,GLOMAG,DPRK2,ILLICIT-DRUGS-EO14059,TCO ⚠️ CONFLICT
+- Great Lakes Conservatives Fund — fuzzy match, 1 records, programs: DRCONGO ⚠️ CONFLICT
+- National Republican Senatorial Committee — fuzzy match, 3 records, programs: BALKANS,BELARUS,GLOMAG ⚠️ CONFLICT
+- Apollo Global Management — fuzzy match, 1 records, programs: IRAN-EO13846 ⚠️ CONFLICT
+- Financial Services Donors — fuzzy match, 5 records, programs: UKRAINE-EO13662] [RUSSIA-EO14024,GLOMAG,SDGT] [IFSR,RUSSIA-EO14024 ⚠️ CONFLICT
+- Securities & Investment Industry — fuzzy match, 4 records, programs: IRAN,SDGT] [IFSR,SDGT ⚠️ CONFLICT
+- Trump Media & Technology Group — fuzzy match, 1 records, programs: CAATSA - RUSSIA] [CYBER4 ⚠️ CONFLICT
+- Maria Elvira Salazar — fuzzy match, 1 records, programs: SDNTK ⚠️ CONFLICT
+
+**Conflicts detected: 22** (see `pending-merge` blocks in the listed profiles)
+
+---
+## 2026-04-18 04:33 UTC — 20 profiles
+
+**stock-watcher — 20 profiles:**
+- Chris Coons — 24 trades (2 buys, 21 sells), top: NFLX, AAPL, MSFT ⚠️ CONFLICT
+- Cory Booker — 13 trades (0 buys, 13 sells), top: IRM, AMT, NFLX ⚠️ CONFLICT
+- Dianne Feinstein — 29 trades (0 buys, 0 sells), top:  ⚠️ CONFLICT
+- Elizabeth Warren — 1 trades (0 buys, 0 sells), top:  ⚠️ CONFLICT
+- Jack Reed — 1 trades (0 buys, 0 sells), top:  ⚠️ CONFLICT
+- Maria Cantwell — 6 trades (0 buys, 5 sells), top: RNWK ⚠️ CONFLICT
+- Mark Warner — 88 trades (12 buys, 27 sells), top: ZAYO, CHTR, HALO ⚠️ CONFLICT
+- Michael Bennet — 7 trades (4 buys, 2 sells), top: RGC, LVLT ⚠️ CONFLICT
+- Patty Murray — 161 trades (78 buys, 83 sells), top: WMB, WRK, WFC ⚠️ CONFLICT
+- Richard Blumenthal — 50 trades (0 buys, 0 sells), top:  ⚠️ CONFLICT
+- Ron Wyden — 10 trades (10 buys, 0 sells), top:  ⚠️ CONFLICT
+- Sheldon Whitehouse — 687 trades (384 buys, 272 sells), top: GILD, FB, IBM ⚠️ CONFLICT
+- Tammy Duckworth — 15 trades (1 buys, 14 sells), top: CAT, BBL, GS ⚠️ CONFLICT
+- John Barrasso — 1 trades (0 buys, 1 sells), top:  ⚠️ CONFLICT
+- John Boozman — 43 trades (0 buys, 0 sells), top:  ⚠️ CONFLICT
+- John Cornyn — 2 trades (1 buys, 1 sells), top: AAPL ⚠️ CONFLICT
+- John Kennedy — 2 trades (1 buys, 0 sells), top: MTUM ⚠️ CONFLICT
+- Rick Scott — 142 trades (119 buys, 19 sells), top:  ⚠️ CONFLICT
+- Roger Wicker — 8 trades (2 buys, 6 sells), top: GDV, BIF ⚠️ CONFLICT
+- Ron Johnson — 2 trades (0 buys, 2 sells), top:  ⚠️ CONFLICT
+
+**Conflicts detected: 20** (see `pending-merge` blocks in the listed profiles)
+
+---
 ## 2026-04-17 22:42 UTC — 122 profiles
 
 **influence-xref — 122 profiles:**

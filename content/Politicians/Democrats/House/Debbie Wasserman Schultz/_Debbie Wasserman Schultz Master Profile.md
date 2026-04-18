@@ -4,7 +4,7 @@ type: politician
 bioguide-id: "W000797"
 content-readiness: ready
 central-thesis: Wasserman Schultz is the Both-Sides Illusion made flesh. She is a Democrat funded by the same sugar PACs and Israel lobby money that funds the Republican Cuba hawks. Her presence in the sugar-defense-Israel coalition proves that the embargo , and ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -31,8 +31,8 @@ fec-candidate-id: H4FL20023
 last-enriched: "2026-04-15"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
-donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[American College of Radiology Association PAC]]"
-related: ">- · [[Fanjul Family - Florida Crystals]]"
+donors: "[[UNITE HERE]] · [[Bacardi - Bacardi USA]] · [[United for Common Sense]] · [[Citizens Against Aipac Corruption]] · [[Fanjul Family - Florida Crystals]] · [[Patriot Majority Pac]] · [[AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC]] · [[American College of Radiology Association PAC]] · [[America's Renewal Pac, Inc.]]"
+related: ">- · [[Fanjul Family - Florida Crystals]] · [[America's Renewal Pac, Inc.]]"
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
 total-raised: $1,785,365
 total-spent: $875,347

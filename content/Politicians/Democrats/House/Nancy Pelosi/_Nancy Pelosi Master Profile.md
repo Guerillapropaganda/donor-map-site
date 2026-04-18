@@ -3,7 +3,7 @@ title: Nancy Pelosi
 type: politician
 content-readiness: ready
 central-thesis: "Pelosi is the Democratic Party's financial gatekeeper. No single politician in American history has raised more money for their party's congressional apparatus — $1.6 billion since 2002. Her fundraising power is the structural basis of her political authority, and the donor class that makes her untouchable also dictates what legislation can pass."
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 career-total: $1.6B
 parent: null
@@ -67,7 +67,7 @@ needs-reenrichment: true
 reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified): P000197. Next pipeline run should populate Congress.gov + GovTrack auto-blocks with correct data."
 known-gaps: []
 opposes: "[[_Donald Trump Master Profile]]"
-related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]]"
+related: "[[_Kamala Harris Master Profile]] · [[_Gavin Newsom Master Profile]] · [[_Donald Trump Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Elizabeth Warren Master Profile|Elizabeth Warren]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Haim Saban]] · [[Michael Bloomberg]] · [[Koch Network - Charles Koch]] · [[SEIU - Service Employees International Union]] · [[California Labor Federation]] · [[Blue Shield of California]] · [[UnitedHealth Group - Optum]] · [[Kaiser Permanente]] · [[IBEW - International Brotherhood of Electrical Workers]] · [[Crypto Industry Bloc]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Congressional Leadership Fund]]"
 wikidata-id: Q170581
 wikipedia-url: https://en.wikipedia.org/wiki/Nancy_Pelosi
 wikipedia-extract: Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the United States House of Representatives, serving from 2007 to 2011 and again from 2019 to 2023.

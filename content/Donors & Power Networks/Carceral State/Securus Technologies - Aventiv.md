@@ -2,7 +2,7 @@
 title: "Securus Technologies - Aventiv"
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: "Carceral State"
@@ -14,7 +14,7 @@ subawards-received-amount: 51876611853
 related: "[[Aramark]] · [[Tulsi Gabbard Master Profile]] · [[ViaPath Technologies - GTL]] · [[GEO Group]] · [[CoreCivic]] · [[CCPOA - California Correctional Peace Officers Association]] · [[PORAC - Peace Officers Research Association of California]] · [[Riverside Sheriffs Association]] · [[Immigration Enforcement - The Detention Economy]] · [[GEO Group - Private Prisons]] · [[CoreCivic - Private Prisons]] · [[Prison Policy Initiative]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 cross-vault-triangulation-count: 10
@@ -179,7 +179,7 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Securus%20Technologies%20-%20Aventiv) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

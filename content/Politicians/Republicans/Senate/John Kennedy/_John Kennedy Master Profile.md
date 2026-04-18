@@ -3,7 +3,7 @@ title: John Kennedy
 type: politician
 content-readiness: ready
 central-thesis: Kennedy's folksy populist brand disguises a conventional Louisiana energy-state voting record and a Banking Committee position that serves Wall Street's deregulatory agenda. His committee hearing performances , sharp questioning, memorable soundbi...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -266,7 +266,7 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-17 -->
+<!-- auto:stock-trades pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

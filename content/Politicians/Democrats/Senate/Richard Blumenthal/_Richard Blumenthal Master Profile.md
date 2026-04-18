@@ -3,7 +3,7 @@ title: Richard Blumenthal
 type: politician
 content-readiness: ready
 central-thesis: Richard Blumenthal is the attorney general-turned-senator who built a career on holding powerful institutions accountable , and then became the ranking member of the committee that oversees the institution responsible for veteran care. His donor p...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -290,7 +290,7 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-17 -->
+<!-- auto:stock-trades pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

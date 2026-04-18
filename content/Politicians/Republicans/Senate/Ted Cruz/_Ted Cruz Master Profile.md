@@ -3,7 +3,7 @@ title: Ted Cruz
 type: politician
 content-readiness: ready
 central-thesis: Ted Cruz is the perfect case study in donor-class override of personal unpopularity. He is consistently rated the least-liked senator among his own colleagues. His favorability ratings are among the lowest of any incumbent senator. He fled to Canc...
-last-updated: 2026-04-16
+last-updated: 2026-04-18
 source-tier: 1
 career-total: $100M
 parent: null
@@ -38,7 +38,7 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[John Cornyn]] · [[Dan Crenshaw Master Profile]] · [[Elliott Management]]"
+related: ">- · [[Real Estate Lobby Funds the Housing Crisis From Both Sides]] · [[Big Agriculture Subsidies Feed the Same Corporate Farms From Both Sides]] · [[Telecom Buys Net Neutrality's Death From Both Sides]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Goldman Sachs Funds Both Sides of Financial Regulation]] · [[John Cornyn]] · [[Dan Crenshaw Master Profile]] · [[Elliott Management]] · [[Texas Conservatives Fund]]"
 last-enriched: "2026-04-11"
 committees:
   - Senate Committee on Commerce, Science, and Transportation
@@ -48,7 +48,7 @@ committees:
 internal-notes: |-
   [MANUAL 2026-04-11] Bioguide recovered: C001098. Previously cleared by fix-bioguide-contamination.cjs because the profile was sharing a contaminated wrong bioguide (C001091 or B001296) with other unrelated profiles. Manually verified against bioguide.congress.gov/search. needs-reenrichment flipped from false to true , the next scheduled pipeline run will now populate correct Congress.gov auto-blocks.
   [JANITOR 2026-04-11] Bioguide contamination cleared by fix-bioguide-contamination.cjs. This profile had bioguide-id set to 'C001091' (Joaquin Castro's ID), almost certainly from a past bulk-set script that fell through to candidates[0]?.bioguideId when a name search failed. 19 unrelated profiles all had the same wrong ID , same class of bug as the A000383 Alan Armstrong incident documented in the Pipeline Guide. The wrong ID has been removed. A correct bioguide must be added manually (verify at bioguide.congress.gov/search) before the Congress.gov pipeline can enrich this profile. Pipeline will skip this profile until a bioguide is provided.
-donors: "[[Rebekah Mercer]] · [[Kelcy Warren]] · [[SAVE OUR COUNTRY]] · [[Crypto Industry Bloc]] · [[Republican Jewish Coalition]] · [[WinSenate]] · [[Truth and Courage PAC]] · [[Christopher Ruddy]] · [[Robert Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Texas Forever]] · [[Save Our Country]]"
+donors: "[[Rebekah Mercer]] · [[Kelcy Warren]] · [[SAVE OUR COUNTRY]] · [[Crypto Industry Bloc]] · [[Republican Jewish Coalition]] · [[WinSenate]] · [[Truth and Courage PAC]] · [[Christopher Ruddy]] · [[Robert Mercer]] · [[Cambridge Analytica and the Data Weaponization of Elections]] · [[Koch Network - Charles Koch]] · [[ExxonMobil]] · [[Texas Forever]] · [[Save Our Country]] · [[Texas Conservatives Fund]]"
 bills-enacted: 2
 top-policy-area: "International Affairs"
 ---

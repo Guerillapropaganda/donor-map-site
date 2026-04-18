@@ -4,7 +4,7 @@ type: politician
 bioguide-id: M001183
 content-readiness: ready
 central-thesis: "Joe Manchin is the donor class's most efficient investment in modern American politics. A single senator , one vote , killed content-readiness: ready86 billion in climate legislation (Build Back Better's clean electricity program, methane fees, EV incentives), then ext..."
-last-updated: 2026-04-15
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Independent
@@ -23,7 +23,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No voting record data
   - No mapped relationships
-related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Williams Companies]] · [[Enterprise Products Partners]]"
+related: "[[Koch Network - Charles Koch]] · [[Fossil Fuel Bloc]] · [[_Kyrsten Sinema Master Profile|Kyrsten Sinema]] · [[_Chuck Schumer Master Profile]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Williams Companies]] · [[Enterprise Products Partners]] · [[Senate Leadership Fund]]"
 donors: "[[Centene Corporation]] · [[Insurance Industry]] · [[SMP]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[MAJORITY FORWARD]] · [[Fossil Fuel Bloc]] · [[ExxonMobil]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 57

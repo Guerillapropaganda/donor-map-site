@@ -5,7 +5,7 @@ chamber: House
 party: Republican
 content-readiness: ready
 central-thesis: Nancy Mace is the donor-class weather vane. Her positions do not reflect a stable ideology or principle , they shift when the donor incentive structure changes. Her post-January 6 criticism of Trump was genuine, but only lasted as long as moderate...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 total-received: $452,863
@@ -23,7 +23,7 @@ corroboration-count: 2
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]]"
+related: "[[_Donald Trump Master Profile]] · [[Crypto Industry Bloc]] · [[House Majority PAC]]"
 top-donors: "[[CLUB FOR GROWTH ACTION]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[314 Action Fund]] · [[South Carolina Patriots PAC]]"
 donors: "[[South Carolina Patriots PAC]] · [[SOUTH CAROLINA PATRIOTS PAC]] · [[CLUB FOR GROWTH ACTION]] · [[314 Action Fund]]"
 bills-enacted: 0

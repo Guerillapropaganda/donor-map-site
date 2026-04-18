@@ -3,7 +3,7 @@ title: John Hickenlooper
 type: politician
 content-readiness: ready
 central-thesis: Hickenlooper is the fossil fuel industry's preferred kind of Democrat , one who speaks the language of environmental concern while protecting the industry's operating space. As Colorado governor, he was the state's top recipient of oil and gas cam...
-last-updated: 2026-04-13T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -39,8 +39,8 @@ reenrich-reason: "Bioguide recovered 2026-04-11 (was contaminated, now verified)
 known-gaps:
   - No voting record data
   - No mapped relationships
-donors: "[[NORPAC]] · [[Brownstein Hyatt Farber Schreck]] · [[FAIR SHARE ACTION]] · [[SMP]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[Fair Share Action]]"
-related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]]"
+donors: "[[NORPAC]] · [[Brownstein Hyatt Farber Schreck]] · [[FAIR SHARE ACTION]] · [[SMP]] · [[American Petroleum Institute]] · [[Fossil Fuel Bloc]] · [[Fair Share Action]] · [[ESAFUND]]"
+related: "[[Fossil Fuel Bloc]] · [[American Petroleum Institute]] · [[Silicon Valley Democratic Donor Network]] · [[_Michael Bennet Master Profile|Michael Bennet]] · [[Brownstein Hyatt Farber Schreck]] · [[Senate Leadership Fund]]"
 govtrack-id: 456797
 bills-sponsored: 49
 bills-cosponsored: 330

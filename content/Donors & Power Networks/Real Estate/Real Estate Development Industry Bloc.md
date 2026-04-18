@@ -2,7 +2,7 @@
 title: Real Estate Development Industry Bloc
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Real Estate
@@ -11,7 +11,7 @@ politicians-funded: "[[Donald Trump]], [[Gavin Newsom]]"
 issues:
   - Housing
 ofac-sdn-match: "true"
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: run lda pipeline
 ofac-programs:
@@ -171,7 +171,7 @@ Specific FPPC filings for Lennar contributions to California state politicians 2
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

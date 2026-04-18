@@ -3,7 +3,7 @@ title: Joe Biden
 type: politician
 content-readiness: ready
 central-thesis: "Biden is the structural Democrat. He genuinely believes he fights for working people , and he has done some real things (the ACA expansion, the IRA's clean energy investment, the content-readiness: ready5 minimum wage push, the union tiebreaker votes). But his politica..."
-last-updated: 2026-04-15
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -23,7 +23,7 @@ top-donors:
   - Moderna
 fec-candidate-id: P60012143
 opposes: "[[_Donald Trump Master Profile]]"
-related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Chris Coons]]"
+related: "[[Cory Booker]] · [[_Barack Obama Master Profile]] · [[_Kamala Harris Master Profile]] · [[_Nancy Pelosi Master Profile]] · [[_Bernie Sanders Master Profile]] · [[_Gavin Newsom Master Profile]] · [[MBNA Corporation]] · [[Pfizer]] · [[Moderna]] · [[Johnson & Johnson]] · [[UnitedHealth Group - Optum]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Citigroup]] · [[Tim Geithner]] · [[Blue Shield of California]] · [[Kaiser Permanente]] · [[Joe Biden Donor Network - The Full Map]] · [[Joe Biden Executive Orders Timeline]] · [[IRA and Climate Donor Alignment]] · [[CHIPS Act and Silicon Valley]] · [[Student Loan Cancellation Theater]] · [[Afghanistan Withdrawal and the Military-Industrial Base]] · [[The Bankruptcy Bill and MBNA - The Credit Card Senator's Defining Vote]] · [[The Pharmaceutical Deal and the IRA - Ten Drugs Out of Twelve Thousand]] · [[The Defense Budget Pipeline - Record Peacetime Spending and Contractor Profits]] · [[The Student Loan Gambit - Promise Block and Political Credit]] · [[Insurance Industry Writes Its Own Regulation Through Both Parties]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[Chris Coons]] · [[Americas Pac]]"
 last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline
@@ -31,7 +31,7 @@ executive-orders: 162
 presidential-memoranda: 160
 proclamations: 747
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Lawrence Summers]] · [[Sam Bankman-Fried]] · [[Democratic Small Dollar Networks]] · [[Citigroup]] · [[Ford Motor Company]] · [[Trial Lawyers Fund]] · [[LIVING UNITED FOR CHANGE IN ARIZONA]] · [[Jeffrey Katzenberg]] · [[ActBlue]] · [[Tim Geithner]] · [[DoorDash]] · [[JPMorgan Chase]] · [[General Motors]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[MBNA Corporation]] · [[Entertainment and Hollywood Donors]] · [[Reed Hastings]] · [[Haim Saban]] · [[Moderna]] · [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]] · [[UnitedHealth Group - Optum]] · [[Pfizer]]"
+donors: "[[Lawrence Summers]] · [[Sam Bankman-Fried]] · [[Democratic Small Dollar Networks]] · [[Citigroup]] · [[Ford Motor Company]] · [[Trial Lawyers Fund]] · [[LIVING UNITED FOR CHANGE IN ARIZONA]] · [[Jeffrey Katzenberg]] · [[ActBlue]] · [[Tim Geithner]] · [[DoorDash]] · [[JPMorgan Chase]] · [[General Motors]] · [[Pharmaceutical Industry]] · [[Goldman Sachs]] · [[MBNA Corporation]] · [[Entertainment and Hollywood Donors]] · [[Reed Hastings]] · [[Haim Saban]] · [[Moderna]] · [[SEIU COPE (SERVICE EMPLOYEES INTERNATIONAL UNION COMMITTEE ON POLITICAL EDUCATION)]] · [[UnitedHealth Group - Optum]] · [[Pfizer]] · [[Americas Pac]]"
 urls-first-triaged: "2026-04-15"
 ---
 

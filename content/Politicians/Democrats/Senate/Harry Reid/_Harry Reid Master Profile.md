@@ -3,7 +3,7 @@ title: Harry Reid
 type: politician
 content-readiness: ready
 central-thesis: Reid was a powerful progressive on selected issues (labor alliance, some environmental stands, healthcare reform) while serving Nevada's gaming, real estate, and development donor base with absolute fidelity. He managed this by maintaining a progr...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -22,8 +22,9 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 top-donors: "[[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[First Amendment Alliance]] · [[American Crossroads]]"
-donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[American Crossroads]]"
+donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[American Crossroads]] · [[Crossroads Grassroots Policy Strategies]]"
 urls-first-triaged: "2026-04-15"
+related: "[[Crossroads Grassroots Policy Strategies]]"
 ---
 
 

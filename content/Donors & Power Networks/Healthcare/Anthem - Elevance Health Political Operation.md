@@ -13,10 +13,10 @@ subawards-issued: 50
 subawards-issued-amount: 51876611853
 subawards-received: 50
 subawards-received-amount: 51876611853
-related: "[[Humana]] · [[The Insurance Industry Public Option Kill]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Kaiser Permanente]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]]"
+related: "[[Humana]] · [[The Insurance Industry Public Option Kill]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Johnson & Johnson]] · [[Moderna]] · [[Merck]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Kaiser Permanente]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]]"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run lda pipeline"
 ftc-enforcement-actions: 0
@@ -119,7 +119,7 @@ The structural position: Elevance profits from Medicaid expansion (more enrollee
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Anthem%20-%20Elevance%20Health%20Political%20Operation) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-17 -->
+<!-- auto:nhtsa-recalls pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

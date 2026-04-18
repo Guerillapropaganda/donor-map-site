@@ -3,7 +3,7 @@ title: Rick Crawford
 type: politician
 content-readiness: ready
 central-thesis: Rick Crawford is the loyalty appointee who chairs America's intelligence oversight committee , a former EOD technician and Arkansas rice farmer who got the gavel not because of intelligence expertise but because his predecessor was too supportive ...
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -36,7 +36,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-related: "[[_Donald Trump Master Profile|Trump]]"
+related: "[[_Donald Trump Master Profile|Trump]] · [[House Majority PAC]]"
 total-raised: $525,029
 total-spent: $342,238
 cash-on-hand: "1013618.58"

@@ -2,7 +2,7 @@
 title: "Oil & Gas PACs"
 type: pac
 content-readiness: draft
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: "Energy & Utilities"
@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Energy & Climate"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -108,7 +108,7 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

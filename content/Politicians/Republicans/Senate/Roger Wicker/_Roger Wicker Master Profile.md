@@ -3,7 +3,7 @@ title: Roger Wicker
 type: politician
 content-readiness: ready
 central-thesis: "Wicker is the defense-state senator who chairs the defense committee. The structural alignment is total: Mississippi's largest employer (Huntington Ingalls), Mississippi's military bases (Stennis, Keesler, Columbus, Camp Shelby), and the defense c..."
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -28,7 +28,7 @@ stock-trade-tickers:
   - "GDV"
   - "BIF"
 donors: "[[Raytheon (RTX Corporation)]] · [[General Dynamics]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[MISSISSIPPI REPUBLICAN PARTY]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[Mississippi Republican Party]]"
-related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]]"
+related: "[[Telecom Buys Net Neutrality's Death From Both Sides]] · [[The Armed Services Ranking Member and Defense Bipartisanship]] · [[Lockheed Martin]] · [[Northrop Grumman]] · [[Raytheon (RTX)|Raytheon]] · [[_Donald Trump Master Profile|Trump]] · [[Democratic Senatorial Campaign Committee]]"
 total-received: $286,732
 fec-candidate-id: S8MS00196
 needs-reenrichment: true
@@ -245,7 +245,7 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-17 -->
+<!-- auto:stock-trades pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

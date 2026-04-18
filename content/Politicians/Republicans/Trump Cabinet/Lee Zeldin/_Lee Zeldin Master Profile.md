@@ -3,7 +3,7 @@ title: Lee Zeldin
 type: politician
 content-readiness: ready
 central-thesis: "Lee Zeldin's EPA appointment is the donor-to-deregulation pipeline in its most transparent form. Congressional career: oil and gas industry donated $410K+, Koch Industries $60K+. Post-government: Leonard Leo's CRC Advisors paid him $3K+ for fossil..."
-last-updated: 2026-04-15T00:00:00.000Z
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -24,7 +24,7 @@ corroboration-count: 2
 known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
-related: "[[_Donald Trump Master Profile]] · [[_Doug Burgum Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
+related: "[[_Donald Trump Master Profile]] · [[_Doug Burgum Master Profile]] · [[Leonard Leo]] · [[Koch Network - Charles Koch|Koch Network]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[House Majority PAC]]"
 wikidata-id: Q16221257
 last-enriched: "2026-04-10"
 wikipedia-url: https://en.wikipedia.org/wiki/Lee_Zeldin

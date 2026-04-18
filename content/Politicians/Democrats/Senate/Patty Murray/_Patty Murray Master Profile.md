@@ -4,7 +4,7 @@ type: politician
 bioguide-id: M001111
 content-readiness: ready
 central-thesis: "Patty Murray exemplifies the unsexy, unglamorous accumulation of structural power in the Senate: appropriations control, committee seniority, and the ability to direct billions of dollars to home-state industries. Unlike dramatic figures who draw ..."
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -39,10 +39,10 @@ stock-trade-tickers:
   - "UPS"
   - "UN"
   - "USB"
-donors: "[[Jeff Bezos]] · [[Pharmaceutical Industry Bloc]] · [[Evergreen Principles PAC]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[WOMEN VOTE!]] · [[ESAFUND]]"
+donors: "[[Jeff Bezos]] · [[Pharmaceutical Industry Bloc]] · [[Evergreen Principles PAC]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Boeing]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[WOMEN VOTE!]] · [[ESAFUND]] · [[Crossroads Grassroots Policy Strategies]]"
 total-received: $3,798,925
 fec-candidate-id: S2WA00189
-related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]]"
+related: "[[Boeing]] · [[Pharmaceutical Industry Bloc]] · [[Defense Industry Bloc]] · [[Microsoft]] · [[Crossroads Grassroots Policy Strategies]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
@@ -305,7 +305,7 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-17 -->
+<!-- auto:stock-trades pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

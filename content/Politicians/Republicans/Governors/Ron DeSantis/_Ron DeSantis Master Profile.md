@@ -3,7 +3,7 @@ title: Ron DeSantis
 type: politician
 content-readiness: ready
 central-thesis: DeSantis is the donor class's backup plan. When Trump became criminally indicted and legally toxic heading into 2024, billionaires like Ken Griffin ($5M+ to DeSantis's 2022 reelection), the Koch network, and Club for Growth-aligned donors rallied ...
-last-updated: 2026-04-15
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Republican
@@ -42,7 +42,7 @@ total-raised: $375,129
 total-spent: $375,129
 cash-on-hand: "0.00"
 fec-cycle: 2024
-donors: "[[Walt Disney Company]] · [[GOOD FIGHT]] · [[READY TO WIN]] · [[Kenneth Griffin]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Koch Network - Charles Koch]] · [[NEVER BACK DOWN INC.]] · [[Lennar Corporation]] · [[Ready to Win]] · [[Never Back Down Inc.]]"
+donors: "[[Walt Disney Company]] · [[GOOD FIGHT]] · [[READY TO WIN]] · [[Kenneth Griffin]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Koch Network - Charles Koch]] · [[NEVER BACK DOWN INC.]] · [[Lennar Corporation]] · [[Ready to Win]] · [[Never Back Down Inc.]] · [[Sfa Fund, Inc]]"
 urls-first-triaged: "2026-04-15"
 ---
 

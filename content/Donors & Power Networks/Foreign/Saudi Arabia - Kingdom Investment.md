@@ -2,13 +2,13 @@
 title: "Saudi Arabia - Kingdom Investment"
 type: donor
 content-readiness: draft
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: "Foreign Influence"
 entity-type: "Individual Donor"
 ofac-sdn-match: "true"
-last-enriched: "2026-04-17"
+last-enriched: "2026-04-18"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
 ofac-programs:
@@ -100,7 +100,7 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-17 -->
+<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 

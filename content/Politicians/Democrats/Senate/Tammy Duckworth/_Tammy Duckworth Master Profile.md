@@ -3,7 +3,7 @@ title: Tammy Duckworth
 type: politician
 content-readiness: ready
 central-thesis: Duckworth's military sacrifice provides moral authority that converts directly into policy authority on defense spending — the most donor-lucrative jurisdiction in Congress. Her Armed Services Committee seat and combat veteran status make her the ...
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 party: Democrat
@@ -263,7 +263,7 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-17 -->
+<!-- auto:stock-trades pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge
 > Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
