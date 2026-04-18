@@ -19,6 +19,9 @@ top-donors:
   - LARA Fund - Mauricio Claver-Carone
 total-received: $48,331,862
 fec-candidate-id: P60006723
+bioguide-id: R000595
+govtrack-id: 412491
+fec-senate-id: S0FL00338
 source-types:
   - Congress
   - FEC

@@ -109,21 +109,43 @@ On mobile (<800px), tabs collapse to vertical accordion. Reader can expand secti
 
 ## Section 3: The Money
 
-**Purpose:** show the money visually, not as prose.
+**Purpose:** show the money from four angles. Campaign chest → personal wealth outside donations → who the mega-donors are → what the money bought. No angle is optional; empty states are themselves informative.
 
-**Auto-rendered components:**
-- Career total stat block (large number, cycle breakdown underneath)
-- Top 10 donors table with: name, amount, cycle(s), relationship type, edge-count
-- Sector breakdown donut (where the money comes from)
-- Year-over-year bar chart
-- Link to full donor list (paginated)
+**Rule (ADR-0012):** every verified profile's `## The Money` section contains these four H3 subsections, in this order:
 
-**Data source:** `data/relationships.jsonl` filtered by this entity.
+### 3.1 The Campaign Chest
+- Auto-rendered: total raised, top 10 donors table, sector breakdown, year-over-year, cycle breakdown
+- Data source: `data/relationships.jsonl` filtered by entity
+- Editorial slot: 1 paragraph framing the donor composition
+- Empty state (non-federal candidates): `No FEC filings on record. Funding reported via [state/local source].`
 
-**Editorial slot:** 1 paragraph framing at top explaining what the pattern reveals. Research Claude writes.
+### 3.2 Wealth Outside Donations
+- **Required even when empty.** A politician with no reported outside wealth is still a data point.
+- Auto-rendered table: source / amount / evidence (SEC filing, STOCK Act PTR, annual financial disclosure, book contract, speaking fee registration, on-chain data)
+- Data source: `data/wealth-disclosures.jsonl` (new canonical store) + STOCK Act events from `data/events.jsonl` + `custom-stats` frontmatter for outlier facts
+- Editorial slot: 1 paragraph only if the wealth outside donations is a material part of the thesis (Trump's crypto, Pelosi's trading record)
+- Empty state: `No reported holdings beyond congressional salary ($174,000) per [year] financial disclosure. [Source: Clerk filing]`
 
-**Example framing (Koch Industries):**
-> Koch's political spending has three tiers. Direct corporate PAC contributions are the visible layer at $25M per cycle. The dark-money layer — Americans for Prosperity, Stand Together, the network of 501(c)(4)s — is an order of magnitude larger and not required to disclose donors. What's tracked here is the visible layer.
+### 3.3 The Mega-Donors
+- Named profiles of the top 5 individual or institutional donors, each treated as a character sketch
+- Format per donor:
+  > **[Donor Name]**, $X amount. [Business context, 1 sentence.] [Policy interest: what they want.] [Class position: 1 phrase.] [Source: citation with tier]
+- Data source: editorial (Research Claude writes from `data/relationships.jsonl` totals + public-record research)
+- Empty state: `Top donors are institutional PACs (each <$50K); no individual mega-donor presence. Largest institutional donor: [PAC name]. [Source]`
+
+### 3.4 What They Bought
+- Industry sector ROI: sector → total $ from sector → key donor companies → specific policy deliverables
+- Format: table or sub-headings per sector. 3-5 sectors typical.
+- Data source: sector totals from `data/relationships.jsonl`; deliverables editorial (anchored to votes, executive actions, contracts, regulatory rollbacks)
+- Empty state: `Elected [date]; pending first substantive votes. Re-audit this section after [6 months post-seating].`
+
+**Voice:** direct, punchy. Short sentences. No em dashes. No AI vocabulary. Every claim has a source with tier.
+
+**Example (Trump's "What They Bought" entry for Fossil Fuel):**
+> **Fossil Fuel:** At least $75M to Trump campaign + PACs. Chevron ($2M), ExxonMobil ($1M), Occidental Petroleum ($1M) to inaugural fund. What they got: declared energy emergency, 31 key environmental rules targeted for rollback, EPA ordered to weaken emissions rules, proposed repeal of 2009 endangerment finding, delayed methane limits. [Source: Yale Climate Connections. Tier 2; The Hill. Tier 2]
+
+**Example (empty-state Wealth Outside for a freshman rep):**
+> No reported holdings beyond congressional salary ($174,000) per 2024 annual financial disclosure (Form A). No STOCK Act PTR filings this cycle. Spouse income: teacher salary, public-school district. [Source: [Clerk financial disclosure filing](https://disclosures-clerk.house.gov/...). Tier 1]
 
 ## Section 4: Type-specific auto section
 

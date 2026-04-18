@@ -126,6 +126,64 @@ function extractH2Headings(body) {
   return headings
 }
 
+function extractH3HeadingsBetween(body, startLine, endLine) {
+  const headings = []
+  const lines = body.split("\n")
+  let inCode = false
+  for (let i = startLine; i < Math.min(lines.length, endLine); i++) {
+    const line = lines[i]
+    if (/^```/.test(line)) inCode = !inCode
+    if (inCode) continue
+    const match = line.match(/^###\s+(.+?)\s*$/)
+    if (match) {
+      headings.push({ line: i + 1, text: match[1].trim() })
+    }
+  }
+  return headings
+}
+
+// ─── The Money 4-subsection contract (ADR-0012) ───────────────────
+// Every verified profile's "## The Money" section must have all four
+// H3 subsections, in order. Empty states are required, not optional.
+
+const MONEY_SUBSECTIONS = [
+  { pos: 1, canonical: "The Campaign Chest", variants: ["The Campaign Chest", "Campaign Chest", "The Campaign", "Campaign Finance", "Campaign Donations", "Donor Class Map", "The Donor Class Map"] },
+  { pos: 2, canonical: "Wealth Outside Donations", variants: ["Wealth Outside Donations", "Wealth Outside of Donations", "Outside Wealth", "Additional Tracked Financials", "Personal Wealth", "Wealth and Holdings"] },
+  { pos: 3, canonical: "The Mega-Donors", variants: ["The Mega-Donors", "Mega-Donors", "The Mega Donors", "Mega Donors", "Top Donors", "The Top Donors", "Named Donors"] },
+  { pos: 4, canonical: "What They Bought", variants: ["What They Bought", "What It Bought", "What He Bought", "What She Bought", "Industry Sectors", "Industry Sectors. What They Bought", "Sector ROI", "What The Money Bought", "Policy Returns"] },
+]
+
+function validateMoneySection(body, moneyH2Line, nextH2Line) {
+  const errors = []
+  const h3s = extractH3HeadingsBetween(body, moneyH2Line, nextH2Line)
+  const matchesVariant = (heading, variant) => {
+    const h = heading.toLowerCase().trim()
+    const v = variant.toLowerCase().trim()
+    if (h === v) return true
+    if (h.length > v.length && h.startsWith(v)) {
+      const next = h[v.length]
+      if (next === "," || next === ":" || next === " " || next === "—" || next === "-" || next === ".") return true
+    }
+    return false
+  }
+  const subPositions = MONEY_SUBSECTIONS.map((s) => {
+    const foundAt = h3s.findIndex((h) => s.variants.some((v) => matchesVariant(h.text, v)))
+    return { ...s, foundAt, found: foundAt >= 0 ? h3s[foundAt] : null }
+  })
+  for (const sp of subPositions) {
+    if (sp.foundAt === -1) {
+      errors.push(`"The Money" missing required subsection ${sp.pos}: "### ${sp.canonical}" (accepted variants: ${sp.variants.slice(0, 3).join(", ")}...). See ADR-0012.`)
+    }
+  }
+  const foundSubs = subPositions.filter((sp) => sp.foundAt >= 0)
+  for (let i = 1; i < foundSubs.length; i++) {
+    if (foundSubs[i].foundAt <= foundSubs[i - 1].foundAt) {
+      errors.push(`"The Money" subsection order wrong: "### ${foundSubs[i].canonical}" appears before "### ${foundSubs[i - 1].canonical}". Required order: Campaign Chest → Wealth Outside → Mega-Donors → What They Bought.`)
+    }
+  }
+  return errors
+}
+
 // ─── The check ─────────────────────────────────────────────────────
 
 function validateProfile(filePath, fm, body) {
@@ -211,6 +269,16 @@ function validateProfile(filePath, fm, body) {
         `appears before "## ${foundSections[i - 1].canonical}" (line ${foundSections[i - 1].found.line})`
       )
     }
+  }
+
+  // ADR-0012: "The Money" section must have 4 required H3 subsections in order
+  const moneySection = sectionPositions.find((sp) => sp.canonical === "The Money" || (sp.variants && sp.variants.includes("The Money")))
+  if (moneySection && moneySection.foundAt >= 0) {
+    const moneyLine = moneySection.found.line
+    const nextSection = foundSections.find((sp) => sp.found && sp.found.line > moneyLine)
+    const nextLine = nextSection ? nextSection.found.line : Number.MAX_SAFE_INTEGER
+    const moneyErrors = validateMoneySection(body, moneyLine, nextLine)
+    for (const e of moneyErrors) errors.push(e)
   }
 
   // Defamation-sanitized placeholder warning (soft check)
