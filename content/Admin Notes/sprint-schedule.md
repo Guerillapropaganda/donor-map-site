@@ -2266,9 +2266,9 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-17 late (Code Claude continuation: Rubio live-site tab fixes + EvidencePanel tooltip fix + Pelosi polish applying the Rubio playbook + profile-polish-patterns.md running playbook + bills frontmatter sync across 85 politicians with guard against re-clobber. Total session commits: 20 across Trump/Rubio/Pelosi + systemic pipeline fixes, all deployed.)**
-**Current phase: Launch 50 sprint for April 30 public launch. Trump live as proof-of-concept.**
-**Next checkpoint: Build Ops live-preview profile editor (2026-04-17). David rewrites Trump Class Analysis in working-class voice. Promote Trump to verified tier.**
+**Schedule last updated: 2026-04-18 (Code Claude: FEC full-database ingest marathon. pas2 classified 5.37M direct-donor rows + 604K IE-support + 336K IE-oppose via ADR-0013 taxonomy. Indiv aggregated 171K donor-committee rows. Oth 6.93M committee-to-committee transfers. Oppexp 284K vendor aggregations. CM/CN/CCL masters ingested. 3 new ADRs: 0012 Money 4-subsection, 0013 FEC taxonomy + anomaly classifier, 0014 full-DB ingest pipeline. 640 profiles auto-enriched via build-fec-lifetime-panels (412 politicians + 228 donor/PAC/corp). 3 bioguide contaminations fixed (Casar/Summer Lee/Sherrod Brown). ContradictionCard moved to own tab. Info tooltip → details collapsible. Anomaly queue -86% after party-committee whitelist bug fix. IRS 990 + Congress-votes-resume running in background at session-save time.)**
+**Current phase: Launch 50 sprint for April 30 public launch. Trump/Rubio/Pelosi live with full FEC lifetime panels.**
+**Next checkpoint: Complete IRS 990 + Votes ingests. Extend lifetime panel to render grants + committee-transfers. Research Claude pass on the 3 canary profiles' Mega-Donors narrative. Review the 8,434 remaining anomalies.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
 
 ### Template architecture + Trump proof-of-concept — 2026-04-16 evening (Code Claude, long session)

@@ -1,13 +1,13 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 ---
-<!-- last session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). 13 deploys. Key outcomes: fullscreen graph portaled to body (stacking-context escape); AnnotationOverlay pill + admin-notes sync to Ops (PNA CORS fix); 142 donor dedups ($1.4B reattributed); support/oppose schema split across build-relationships-per-profile + rebuild-relationship-caches + ProfileWidget; 411 profile data-panels regenerated with real $ amounts from canonical store; 106 profiles frontmatter-pruned of ie-oppose mis-labels; Rubio restructured to 9-section template with new Policy Executed section + Voting Record from curated CSV (39 key votes). External bulk-data junction at C:\donor-map-data\bulk\. New reusable scripts: propose-donor-dedup, apply-donor-dedup, prune-ie-oppose-from-frontmatter, ingest-voting-record-csv, setup-bulk-junction. -->
-<!-- prior session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). -->
-<!-- prior prior session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening). -->
-<!-- prior prior prior session: Batch editorial Class Analysis pass (2026-04-16 afternoon, Research Claude) -->
-<!-- prior prior prior prior session: Bulk data ingest marathon (2026-04-15 night). -->
+<!-- last session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). Massive. New canonical stores at C:\donor-map-data\fec\ (~2GB derived from ~30GB bulk zips): pas2 classified 5.37M direct-donor rows + 604K IE-support + 336K IE-oppose + 1.29M conduit + 27K party; indiv aggregated 171K donor-committee rows ≥$10K; oth committee-to-committee 6.93M transfers; oppexp 284K vendor/consultant aggregations; CM+CN+CCL masters. New ADRs: 0012 (Money 4-subsection), 0013 (FEC taxonomy + anomaly classifier), 0014 (full-database ingest). New scripts: ingest-unitedstates-legislators, ingest-congress-votes, ingest-fec-pas2/masters/indiv/oth/oppexp, ingest-irs-990 (in-progress), fec-mega-donor-trace, fec-anomaly-scanner, fec-anomaly-sentinel, fec-name-dedup, fec-cross-check, fec-politician-donor-totals, build-fec-lifetime-panels, tag-conduits, setup-bulk-junction. 640 profiles (412 politician + 228 donor/PAC/corp) now have FEC lifetime auto-panels rendered from derived stores. 3 bioguide contaminations fixed (Casar, Summer Lee, Sherrod Brown). ContradictionCard now has its own tab. Info button converted to <details> collapsible. 86% anomaly reduction after party-committee whitelist bug fix. -->
+<!-- prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). 13 deploys. -->
+<!-- prior prior session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). -->
+<!-- prior prior prior session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening). -->
+<!-- prior prior prior prior session: Batch editorial Class Analysis pass (2026-04-16 afternoon, Research Claude) -->
 
 
 
@@ -20,9 +20,53 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ## Current Build Phase
 
-**Phase:** Launch 50 sprint for April 30 public launch. Trump live as proof-of-concept.
-**Status:** Template architecture shipped. Trump at thedonormap.org. Iterating on quality bar before scaling to other 49.
-**Authority:** CLAUDE.md rewritten (2026-04-16), Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011)
+**Phase:** Launch 50 sprint for April 30 public launch. Trump + Rubio + Pelosi live, enriched with FEC lifetime data.
+**Status:** FEC full-database ingest complete (~2GB derived stores). 640 profiles auto-enriched with lifetime FEC panels. Template architecture shipped. Contradiction tab added. Info tooltips work.
+**Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, **0012 new: Money 4-subsection**, **0013 new: FEC taxonomy + anomaly**, **0014 new: full-DB ingest**)
+
+---
+
+## HANDOFF — 2026-04-18 (picks up mid-session)
+
+### Two ingests running in background at session-save time
+
+1. **IRS 990 selective ingest** (task `b7jzyld3n`) — running `scripts/ingest-irs-990-bulk.cjs` with yauzl against 25GB of IRS bulk zips. Filters to 225 vault EINs. When it completes, `data/nonprofit-990.jsonl` + `data/nonprofit-grants.jsonl` will be the output. At save time: mid-way through 2023_11A.zip.
+2. **Congress.gov + senate.gov votes resume** (task `bmmpmdr2l`) — running `scripts/ingest-congress-votes.cjs --resume --throttle-ms 250`. At save time: House 118/2 at 25/517. Existing: 1098 votes + 360K positions committed; cache has 722 files.
+
+Both resume-safe. If they crash or context ends mid-run, re-run:
+```
+node --max-old-space-size=8192 scripts/ingest-irs-990-bulk.cjs --resume
+node scripts/ingest-congress-votes.cjs --resume --throttle-ms 250
+```
+
+### What needs to happen next session
+
+**Immediate follow-ups to this session's ingests:**
+1. **Check IRS 990 + Votes completion.** If done, commit `data/nonprofit-990.jsonl`, `data/nonprofit-grants.jsonl`, updated `data/votes.jsonl` + `data/legislator-positions.jsonl`.
+2. **Extend `build-fec-lifetime-panels.cjs`** to render an "Outgoing Grants" panel from `data/nonprofit-grants.jsonl` for foundation / 501(c)(4) profiles. Unlocks Koch / Bradley / Scaife / Adelson Family Foundation grantmaking visibility.
+3. **Add "Committee Transfers" panel** pulling from `C:\donor-map-data\fec\oth-transfers.jsonl` — shows 3-hop money chains (Adelson → SLF → Conservative Solutions PAC → Rubio type flows).
+4. **Review `data/anomalies-to-review.jsonl`** after running `scripts/fec-anomaly-scanner.cjs` against the new full-DB state — 60,608 rows dropped to 8,434 after party-whitelist fix; the 8,434 remaining need manual review or further whitelist expansion via `scripts/lib/fec-committee-succession.cjs`.
+5. **Research Claude pass** on Pelosi / Rubio / Trump Mega-Donors sections — the trace data is in the auto-panel, but the narrative sections above the panels still need voice polish.
+
+### Tier A data completeness items (from ADR-0014 completeness review)
+
+| # | Item | Status |
+|---|---|---|
+| 1 | FEC `oth` | ✅ **Ingested 6.93M rows** |
+| 2 | FEC `oppexp` | ✅ **Ingested 284K rows** |
+| 3 | FEC `se` standalone | ✅ **Confirmed redundant with pas2** (24A/24E already classified) |
+| 4 | Historical legislators | ✅ **12,765 total** (537 current + 12,228 historical) |
+| 5 | Committee-succession + party whitelist | ✅ **Bug fix + dynamic load** — anomalies dropped 86% |
+| 6 | Annual Financial Disclosures (Form A) | 📋 **Deferred with plan doc** at `content/Admin Notes/fec-annual-financial-disclosures-plan.md` |
+
+### Uncommitted files at session-save
+
+- `data/legislator-positions.jsonl` + `data/votes.jsonl` — being appended by running ingest, committed last at 1,098 votes / 360K positions
+- `data/nonprofit-990.jsonl` + `data/nonprofit-grants.jsonl` — being written by running ingest
+- `content/Admin Notes/bioguide-contamination-alert.md` — sentinel artifact, not needed
+- `content/Events/Drafts/2026-04-15 Trump SCOTUS...md` — unrelated pre-existing modification
+
+All session-relevant code and derived stores are committed via the commits listed in the next section.
 
 **Next concrete actions (Code Claude's lane, 2026-04-17 priority order):**
 1. **Build live-preview profile editor in Ops** (agreed with David, Path 3 from this session's discussion). New `/profile-editor` page with split-pane: left = markdown editor, right = live-rendering preview using Quartz components. Goal: close the feedback loop so David doesn't have to screenshot+annotate every iteration.
