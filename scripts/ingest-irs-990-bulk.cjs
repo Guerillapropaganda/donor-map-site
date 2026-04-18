@@ -38,8 +38,12 @@ const {
 const ROOT = path.resolve(__dirname, '..');
 const PIPELINE = 'irs-990';
 const BULK_DIR = 'C:\\donor-map-data\\bulk\\IRS 990';
-const FILINGS_OUT = path.join(ROOT, 'data', 'nonprofit-990.jsonl');
-const GRANTS_OUT = path.join(ROOT, 'data', 'nonprofit-grants.jsonl');
+// Output to the external derived-data store (gitignored, too large for git —
+// 1,038 filings + 423,747 grants = ~200MB). Matches ADR-0014 pattern where
+// FEC derived stores live at C:\donor-map-data\fec\. Consumer scripts read
+// from the absolute path.
+const FILINGS_OUT = 'C:\\donor-map-data\\fec\\nonprofit-990.jsonl';
+const GRANTS_OUT = 'C:\\donor-map-data\\fec\\nonprofit-grants.jsonl';
 
 const args = process.argv.slice(2);
 const RESUME = args.includes('--resume');
