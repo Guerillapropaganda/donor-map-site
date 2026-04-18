@@ -146,19 +146,38 @@ function renderBlock(rows, profile) {
 
 // ─── Block insertion ─────────────────────────────────────────────────
 function applyBlock(content, block) {
+  // Always promote any existing H3 "Voting Record"/"Key Votes" to H2 first —
+  // an H3 landing means a past run inserted under Sources or Influence
+  // Network, which routes to the wrong tab (analysis) in ProfileTabs.
+  // Top-level H2 is required for the Key Votes tab to pick it up.
+  const h3 = content.match(/^###\s+(Voting Record|Key Votes)\s*$/m)
+  if (h3) {
+    content = content.replace(h3[0], h3[0].replace(/^###/, "##"))
+  }
+
   const startIdx = content.indexOf(BLOCK_START)
   const endIdx = content.indexOf(BLOCK_END)
   if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
     return content.slice(0, startIdx) + block + content.slice(endIdx + BLOCK_END.length)
   }
 
-  // Look for existing "### Voting Record" or "## Voting Record" heading
-  const headingRe = /^(#{2,3})\s+Voting Record\s*$/m
-  const headingMatch = content.match(headingRe)
-  if (headingMatch) {
-    const headingEnd = content.indexOf(headingMatch[0]) + headingMatch[0].length
-    // Insert block right after the heading with a blank line
+  // Prefer H2 "## Voting Record" or "## Key Votes" — these are top-level
+  // sections the ProfileTabs wrapper buckets into the Key Votes tab. An
+  // existing H3 "### Voting Record" (legacy placement under Sources or
+  // Influence Network) is PROMOTED to H2 so the content actually lands
+  // in the correct tab.
+  const h2Match = content.match(/^##\s+(Voting Record|Key Votes)\s*$/m)
+  if (h2Match) {
+    const headingEnd = content.indexOf(h2Match[0]) + h2Match[0].length
     return content.slice(0, headingEnd) + "\n\n" + block + "\n" + content.slice(headingEnd)
+  }
+  // Promote any existing H3 "### Voting Record" to H2 + insert block
+  const h3Match = content.match(/^###\s+(Voting Record|Key Votes)\s*$/m)
+  if (h3Match) {
+    const promoted = h3Match[0].replace(/^###/, "##")
+    const withPromoted = content.replace(h3Match[0], promoted)
+    const headingEnd = withPromoted.indexOf(promoted) + promoted.length
+    return withPromoted.slice(0, headingEnd) + "\n\n" + block + "\n" + withPromoted.slice(headingEnd)
   }
 
   // No heading — insert a new "## Voting Record" section just before "## Sources"

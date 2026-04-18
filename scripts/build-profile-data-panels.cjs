@@ -305,33 +305,40 @@ function applyBlock(fileContent, block) {
   const startIdx = fileContent.indexOf(BLOCK_START)
   const endIdx = fileContent.indexOf(BLOCK_END)
 
+  // If a block already exists, check whether it's in the right location
+  // (inside the Money H2). If not, strip it and re-insert in the correct
+  // spot. Prior behavior was "replace in place" which left legacy panels
+  // stranded above every H2, breaking the ProfileTabs wrapper (the panel
+  // content rendered in the preamble above the tab nav instead of inside
+  // the Money tab).
+  let withoutExistingBlock = fileContent
   if (startIdx !== -1 && endIdx !== -1 && endIdx > startIdx) {
-    // Block already exists somewhere — replace in place (don't relocate)
     const endEndIdx = endIdx + BLOCK_END.length
-    return fileContent.slice(0, startIdx) + block + fileContent.slice(endEndIdx)
+    // Also eat a trailing blank line if present so we don't accumulate them
+    let trailingCut = endEndIdx
+    while (withoutExistingBlock[trailingCut] === "\n") trailingCut++
+    withoutExistingBlock = fileContent.slice(0, startIdx) + fileContent.slice(trailingCut)
   }
 
-  // No existing block — find the Money section and insert inside it
-  const moneyMatch = fileContent.match(MONEY_SECTION_RE)
+  // Find the Money section and insert inside it
+  const moneyMatch = withoutExistingBlock.match(MONEY_SECTION_RE)
   if (moneyMatch) {
-    // Insert right after the Money H2 heading (+ its blank line if present)
-    const headingIdx = fileContent.indexOf(moneyMatch[0])
+    const headingIdx = withoutExistingBlock.indexOf(moneyMatch[0])
     const afterHeading = headingIdx + moneyMatch[0].length
-    // Skip a trailing newline if present
     let insertAt = afterHeading
-    if (fileContent[insertAt] === "\n") insertAt++
-    return fileContent.slice(0, insertAt) + "\n" + block + "\n\n" + fileContent.slice(insertAt)
+    if (withoutExistingBlock[insertAt] === "\n") insertAt++
+    return withoutExistingBlock.slice(0, insertAt) + "\n" + block + "\n\n" + withoutExistingBlock.slice(insertAt)
   }
 
   // No Money section — fall back to just-after-frontmatter (old behavior)
-  const fmMatch = fileContent.match(/^---\s*\n[\s\S]*?\n---\s*\n/)
+  const fmMatch = withoutExistingBlock.match(/^---\s*\n[\s\S]*?\n---\s*\n/)
   if (fmMatch) {
     const after = fmMatch[0]
-    return fileContent.slice(0, after.length) + "\n" + block + "\n\n" + fileContent.slice(after.length)
+    return withoutExistingBlock.slice(0, after.length) + "\n" + block + "\n\n" + withoutExistingBlock.slice(after.length)
   }
 
   // No frontmatter — prepend
-  return block + "\n\n" + fileContent
+  return block + "\n\n" + withoutExistingBlock
 }
 
 // ─── Main ─────────────────────────────────────────────────────────────
