@@ -10,7 +10,7 @@ entity-type: "PAC"
 issues:
   - "Israel & Foreign Policy"
   - "Dark Money & Campaign Finance"
-related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]]"
+related: "[[Donna Miller Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[Elect Chicago Women PAC]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[DMFI - Democratic Majority for Israel]] · [[Senate Majority PAC]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[National Republican Senatorial Committee]] · [[MAGA Inc]]"
 cross-vault-triangulation-count: 2
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline; run pipelines"
