@@ -18,6 +18,7 @@ leadership-roles:
 issues:
   - Energy & Climate
 fec-candidate-id: S4MA00028
+bioguide-id: M000133
 source-types:
   - Congress
   - FEC

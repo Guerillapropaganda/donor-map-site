@@ -73,6 +73,7 @@ for (const file of files) {
   try { fm = yaml.load(m[1]) || {}; } catch { continue; }
   if (fm.type !== 'politician' && !/_.*Master Profile/i.test(file)) continue;
   if (fm['bioguide-id'] || fm.bioguide || fm.bioguide_id) continue;
+  if (fm['claim-object']) continue; // claim-object profiles are identified by claims-slug, not bioguide (ADR-0007)
 
   // Only in-scope: Senate or House folders
   const isSenate = inFolder(file, 'Senate');

@@ -15,6 +15,7 @@ website: https://goldman.house.gov
 phone: 202-225-7944
 total-received: $2,082,447
 fec-candidate-id: H2NY10308
+bioguide-id: G000599
 source-types:
   - FEC
   - GovTrack

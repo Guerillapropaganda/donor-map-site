@@ -20,6 +20,7 @@ issues:
 top-donors: "[[League of Conservation Voters]] · [[Goldman Sachs]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[COMMON SENSE FOR CONNECTICUT]] · [[Common Sense for Connecticut]] · [[Trinity PAC]] · [[Connecticut Taxpayers Alliance]]"
 total-received: $803,939
 fec-candidate-id: H8CT04172
+bioguide-id: H001047
 govtrack-id: 412282
 bills-sponsored: 110
 bills-cosponsored: 2527
