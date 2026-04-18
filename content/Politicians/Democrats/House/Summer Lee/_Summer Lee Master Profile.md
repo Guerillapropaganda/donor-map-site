@@ -11,7 +11,7 @@ chamber: House
 state: Pennsylvania
 state-abbr: PA
 district: "12"
-bioguide-id: L000299
+bioguide-id: L000602
 fec-candidate-id: H2PA18200
 issues:
   - Israel & Foreign Policy
@@ -56,7 +56,7 @@ internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** House · **State:** Pennsylvania
-**Bioguide ID:** `L000299`
+**Bioguide ID:** `L000602`
 **FEC candidate ID:** `H2PA18200`
 
 **Total received:** $1,134,454

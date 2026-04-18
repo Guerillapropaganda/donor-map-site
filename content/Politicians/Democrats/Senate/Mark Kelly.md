@@ -10,6 +10,7 @@ source-tier: 1
 parent: null
 total-received: $33,067,827
 fec-candidate-id: S0AZ00350
+bioguide-id: K000377
 last-enriched: "2026-04-08"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline

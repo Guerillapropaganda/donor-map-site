@@ -18,6 +18,7 @@ issues:
 top-donors: "[[TAKE ME HOME WV ACTION]] · [[US CHAMBER OF COMMERCE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[Koch Network]] · [[DEFENDING MAIN STREET SUPERPAC INC]] · [[Defending Main Street Superpac INC]] · [[US Chamber of Commerce]] · [[Koch network]] · [[Take Me Home WV Action]]"
 total-received: $4,455,752
 fec-candidate-id: S4WV00159
+bioguide-id: C001047
 stock-trades: 347
 stock-trade-tickers:
   - MSFT

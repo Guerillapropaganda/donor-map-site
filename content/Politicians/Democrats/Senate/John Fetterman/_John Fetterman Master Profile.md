@@ -16,6 +16,7 @@ top-donors:
   - AIPAC - American Israel Public Affairs Committee
 total-received: $9,034,481
 fec-candidate-id: S6PA00274
+bioguide-id: F000479
 govtrack-id: 456877
 bills-sponsored: 24
 bills-cosponsored: 296

@@ -10,7 +10,7 @@ chamber: "House"
 state: "Texas"
 state-abbr: "TX"
 district: "35"
-bioguide-id: "C001133"
+bioguide-id: "C001131"
 fec-candidate-id: "H2TX35108"
 issues:
   - Labor
@@ -26,7 +26,7 @@ source-types:
 corroboration-count: 1
 known-gaps:
   - No body content yet. Needs full profile build.
-  - Congress.gov member profile not yet added (bioguide C001133 confirmed).
+  - Congress.gov member profile not yet added (bioguide C001131 confirmed via unitedstates/congress-legislators registry).
   - No GovTrack enrichment yet.
   - No donation-to-policy timeline.
   - No class analysis written.
@@ -52,7 +52,7 @@ top-policy-area: "Armed Forces and National Security"
 <!-- tier: paid -->
 
 **Party:** Democrat · **Chamber:** House · **State:** Texas
-**Bioguide ID:** `C001133`
+**Bioguide ID:** `C001131`
 **FEC candidate ID:** `H2TX35108`
 
 **Total received:** —

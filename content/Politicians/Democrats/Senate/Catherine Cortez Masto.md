@@ -10,6 +10,7 @@ source-tier: 1
 parent: null
 total-received: $4,570,516
 fec-candidate-id: S6NV00200
+bioguide-id: C001113
 source-types:
   - FEC
 known-gaps:

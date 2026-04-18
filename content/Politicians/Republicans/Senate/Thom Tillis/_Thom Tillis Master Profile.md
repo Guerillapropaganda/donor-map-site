@@ -35,6 +35,7 @@ stock-trade-tickers:
   - TXRH
 total-received: $8,072,231
 fec-candidate-id: S4NC00162
+bioguide-id: T000476
 source-types:
   - Congress
   - FEC

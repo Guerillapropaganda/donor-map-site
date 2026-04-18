@@ -51,7 +51,7 @@ total-spent: $4,456,809
 cash-on-hand: "9899641.92"
 fec-cycle: 2026
 last-enriched: "2026-04-18"
-bioguide-id: B001313
+bioguide-id: B000944
 issues:
   - Agriculture and Food
   - Armed Forces and National Security
