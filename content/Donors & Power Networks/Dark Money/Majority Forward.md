@@ -2,7 +2,7 @@
 title: Majority Forward
 type: pac
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -16,7 +16,7 @@ nonprofit-status: 501(c)(4)
 last-enriched: '2026-04-09'
 needs-reenrichment: true
 reenrich-reason: run fec pipeline
-related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]] · [[Chuck Schumer]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]]"
+related: ">- · [[Senate Majority PAC]] · [[DonorsTrust]] · [[Joe Manchin]] · [[Josh Hawley]] · [[Chuck Schumer]] · [[National Republican Senatorial Committee]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Leadership Fund]] · [[Save America PAC]] · [[Priorities USA Action]] · [[Preserve America]] · [[One Nation]] · [[National Rifle Association]] · [[MAGA Inc]] · [[House Majority PAC]] · [[Future Forward USA Action]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Fairshake PAC]] · [[Emilys List]]"
 court-cases: 36
 court-jurisdictions:
   - Court of Appeals for the Fourth Circuit

@@ -2,7 +2,7 @@
 title: Insurance Industry
 type: donor
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Healthcare
@@ -30,7 +30,7 @@ regulatory-agencies:
   - Homeland Security Department
   - Housing and Urban Development Department
   - Internal Revenue Service
-related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Pharmaceutical Industry]] · [[Thom Tillis]] · [[Joe Manchin]] · [[Tammy Baldwin]] · [[Gary Peters]] · [[Wes Moore]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Republican Party Apparatus]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]]"
+related: "[[Healthcare Sector]] · [[The Moderate Brand as Donor Strategy]] · [[John Thune Master Profile]] · [[John Cornyn]] · [[Deb Fischer]] · [[Bryan Steil]] · [[Mark Warner]] · [[Barack Obama Master Profile]] · [[The Maui Wildfire Response and the Rebuilding Money Trail]] · [[Chris Murphy Master Profile]] · [[Defense Contractors]] · [[Insurance Industry Bloc]] · [[UnitedHealth Group - Optum]] · [[Blue Cross Blue Shield Association]] · [[Anthem PAC]] · [[PhRMA]] · [[Centene Corporation PAC]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[DeVos Family]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[Pharmaceutical Industry]] · [[Thom Tillis]] · [[Joe Manchin]] · [[Tammy Baldwin]] · [[Gary Peters]] · [[Wes Moore]] · [[American Iron and Steel Institute]] · [[The 85 Fund]] · [[Republican Party Apparatus]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Concerned Veterans for America]] · [[Business Roundtable]] · [[Bradley Impact Fund]] · [[Bradley Foundation]]"
 lobbying-spend: 25607025
 lobbying-filings: 107
 cross-vault-triangulation-count: 17

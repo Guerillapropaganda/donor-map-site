@@ -2,12 +2,12 @@
 title: "Laura Ingraham"
 type: media-profile
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 category: right
 platform: multi-platform
-related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]] · [[Ezra Klein]] · [[Chris Wallace]]"
+related: "[[_Media Pipeline Framework]] · [[The Shared Sponsor Map , Corporate Advertisers Funding Both Left and Right Political Media]] · [[Jesse Watters]] · [[Dave Rubin]] · [[The Platform Dependency Spectrum , Revenue Vulnerability Across Political Media]] · [[Tucker Carlson]] · [[Tim Pool]] · [[Tenet Media]] · [[Steven Crowder]] · [[Sean Hannity]] · [[Rumble]] · [[Patrick Bet-David]] · [[Matt Walsh]] · [[Mark Levin]] · [[Jordan Peterson]] · [[Michael Knowles]] · [[Jeremy Boreing]] · [[James O'Keefe]] · [[Greg Gutfeld]] · [[Dan Bongino]] · [[Jimmy Dore]] · [[The Daily Wire]] · [[Christopher Rufo]] · [[Charlie Kirk]] · [[Candace Owens]] · [[Ben Shapiro]] · [[Andrew Klavan]] · [[TYT Network - The Young Turks]] · [[Sam Seder]] · [[Rachel Maddow]] · [[Pod Save America]] · [[Kyle Kulinski]] · [[John Oliver]] · [[Hasan Piker]] · [[David Pakman]] · [[Crooked Media]] · [[Cenk Uygur]] · [[Briahna Joy Gray]] · [[Fox News - Murdoch Media Empire]] · [[Valuetainment]] · [[The Free Press]] · [[Russell Brand]] · [[Nicolle Wallace]] · [[Nate Silver]] · [[Megyn Kelly]] · [[Matt Taibbi]] · [[Lex Fridman]] · [[Joe Scarborough]] · [[Joe Rogan]] · [[Jake Tapper]] · [[Glenn Greenwald]] · [[Ezra Klein]] · [[Chris Wallace]] · [[Chris Cuomo]]"
 donors: "(Fox Corp / Murdoch family , indirect via corporate employment)"
 opposes: "[[Rachel Maddow]]"
 checklist-na:

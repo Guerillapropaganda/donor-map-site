@@ -2,7 +2,7 @@
 title: Healthcare Sector
 type: donor
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -25,7 +25,7 @@ court-jurisdictions:
   - District Court, S.D. Florida
   - District Court, S.D. Iowa
   - District Court, W.D. Michigan
-related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Blue Cross Blue Shield Association]] · [[Insurance Industry]] · [[American Hospital Association]] · [[Medicare for All]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Mitch McConnell Master Profile|McConnell]] · [[Insurance Industry Bloc]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[Walton Family Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Council for National Policy]]"
+related: "[[Raphael Warnock Master Profile]] · [[The Moral Authority Brand and the Corporate Democrat Question]] · [[The $170 Million Georgia Machine and the National Donor Base]] · [[PhRMA]] · [[Pharmaceutical Industry Bloc]] · [[Blue Cross Blue Shield Association]] · [[Insurance Industry]] · [[American Hospital Association]] · [[Medicare for All]] · [[_Chuck Schumer Master Profile|Schumer]] · [[_Mitch McConnell Master Profile|McConnell]] · [[Insurance Industry Bloc]] · [[US Chamber of Commerce]] · [[Stand Together]] · [[National Education Association]] · [[Walton Family Foundation]] · [[DeVos Family]] · [[American Federation for Children]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Western States Petroleum Association]] · [[Petrochemical Industry Bloc]] · [[American Petroleum Institute]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Democratic Small Dollar Networks]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Council for National Policy]] · [[Conservative Partnership Institute]]"
 lei: 54930024HJBJ7HNLBO26
 lei-jurisdiction: US
 cross-vault-triangulation-count: 9

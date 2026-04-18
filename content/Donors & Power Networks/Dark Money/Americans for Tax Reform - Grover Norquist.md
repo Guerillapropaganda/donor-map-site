@@ -2,14 +2,14 @@
 title: Americans for Tax Reform - Grover Norquist
 type: donor
 content-readiness: draft
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Dark Money
 entity-type: Individual Donor
 issues:
   - Dark Money & Campaign Finance
-related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]] · [[American Enterprise Institute]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Heritage Foundation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]] · [[Federalist Society]] · [[Environmental Law & Policy Center]]"
+related: "American Legislative Exchange Council]] · [[Koch Industries]] · [[DeVos · [[The Libertarian Brand and Donor Class Service]] · [[Stand Together]] · [[ALEC - American Legislative Exchange Council]] · [[Council for National Policy]] · [[American Enterprise Institute]] · [[Bradley Impact Fund]] · [[Bradley Foundation]] · [[Heritage Foundation]] · [[National Association of Manufacturers]] · [[Judicial Crisis Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]] · [[Federalist Society]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

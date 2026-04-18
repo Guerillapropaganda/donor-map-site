@@ -2,12 +2,12 @@
 title: CA Farm Bureau Federation
 type: donor
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 2
 parent: null
 sector: Agriculture
 entity-type: Individual Donor
-related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[Glenn Thompson]] · [[Cindy Hyde-Smith]] · [[Ketanji Brown Jackson]] · [[Lindsey Graham]] · [[Trent Kelly]] · [[Democratic Donor Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[National Association of Manufacturers]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]] · [[Federalist Society]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]]"
+related: "[[Labor - Donors and Backers]] · [[Immigration - Donors and Backers]] · [[Western Growers Association]] · [[California Farm Bureau Federation]] · [[Agricultural Labor Vulnerability Donors]] · [[Glenn Thompson]] · [[Cindy Hyde-Smith]] · [[Ketanji Brown Jackson]] · [[Lindsey Graham]] · [[Trent Kelly]] · [[Democratic Donor Network]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[National Association of Manufacturers]] · [[Media Matters]] · [[Legal Sector Donors]] · [[Judicial Crisis Network]] · [[Heritage Foundation]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Finance and Tech Bundler Network]] · [[Federalist Society]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Donors Capital Fund]]"
 known-gaps:
   - No FEC contribution data
   - No lobbying disclosure data

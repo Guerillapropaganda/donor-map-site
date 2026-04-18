@@ -2,7 +2,7 @@
 title: Fairshake PAC
 type: pac
 content-readiness: draft
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Tech & Crypto
@@ -26,7 +26,7 @@ issues:
   - Dark Money & Campaign Finance
   - Financial Deregulation
   - Technology
-related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Mike Collins]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Bernie Moreno]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[French Hill]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Ruben Gallego]] · [[Elissa Slotkin]] · [[Melissa Bean]] · [[George Latimer]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]]"
+related: ">- · [[Cross-Politician Contradiction Map - The Both-Sides Illusion With Receipts]] · [[Crypto vs Labor - The Structural Funding Gap]] · [[Mike Collins]] · [[Crypto and AIPAC's Georgia Strategy]] · [[Bernie Moreno]] · [[Crypto and Tech - Donors and Backers]] · [[The Financial Services Legacy and Crypto Deregulation]] · [[French Hill]] · [[The FIT21 Act and Crypto Industry Capture]] · [[Ruben Gallego]] · [[Elissa Slotkin]] · [[Melissa Bean]] · [[George Latimer]] · [[United Democracy Project - UDP]] · [[Think Big AI PAC]] · [[Elect Chicago Women PAC]] · [[Affordable Chicago Now PAC]] · [[Senate Leadership Fund]] · [[Winning for Women PAC]] · [[WinRed]] · [[Trump Victory]] · [[Senate Majority PAC]]"
 source-types:
   - FEC
 known-gaps:

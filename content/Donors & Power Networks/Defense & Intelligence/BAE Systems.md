@@ -2,7 +2,7 @@
 title: BAE Systems
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Defense & Intelligence
@@ -34,7 +34,7 @@ nhtsa-recalls: 0
 nhtsa-complaints: 0
 lei: 8SVCSVKSGDWMW2QHOH83
 lei-jurisdiction: GB
-related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Northrop Grumman]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]]"
+related: "[[Raytheon (RTX Corporation)]] · [[The Foreign Relations Committee and Defense-Diplomacy Axis]] · [[Lockheed Martin]] · [[General Dynamics]] · [[Raytheon (RTX)|Raytheon]] · [[_Jeanne Shaheen Master Profile|Shaheen]] · [[Raytheon Technologies]] · [[Palantir Technologies]] · [[Palantir Technologies Political Operation]] · [[Northrop Grumman]] · [[Valero Energy]] · [[Occidental Petroleum]] · [[WSPA - Western States Petroleum Association]] · [[Instacart]] · [[Flex Association]] · [[Airbnb]] · [[Lyft]] · [[Uber]] · [[UnitedHealth Group - Optum]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Johnson & Johnson]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[Centene Corporation]] · [[AbbVie]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Cigna Group]] · [[CVS Health - Aetna]] · [[Blue Cross Blue Shield Association]] · [[Anthem - Elevance Health Political Operation]] · [[DoorDash]] · [[Southern Company]]"
 nonprofit-status: 501(c)(9)
 total-revenue: 534243661
 total-assets: 33156493

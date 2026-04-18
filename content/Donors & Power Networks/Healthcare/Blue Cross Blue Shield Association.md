@@ -2,7 +2,7 @@
 title: Blue Cross Blue Shield Association
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Healthcare
@@ -43,7 +43,7 @@ ein: 135656874
 annual-revenue: $819.1M
 net-assets: $1.1B
 tax-year: "2023"
-related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]]"
+related: "[[Johnson & Johnson]] · [[The Healthcare Industry Senator and ACA Repeal]] · [[Tammy Baldwin Master Profile]] · [[The HELP Committee and Prescription Drug Pricing]] · [[Roy Cooper Master Profile]] · [[Roy Cooper Health Insurance Industry Funding]] · [[Chris Murphy Master Profile]] · [[The Gun Control Brand and Insurance Industry Reality]] · [[The Insurance Industry Public Option Kill]] · [[Centene Corporation]] · [[UnitedHealth Group - Optum]] · [[Cigna Group]] · [[Anthem - Elevance Health]] · [[Anthem - Elevance Health Political Operation|Elevance Health]] · [[CVS Health - Aetna]] · [[Insurance Industry Bloc]] · [[PhRMA]] · [[Master Donor Database]] · [[Donor Registry - Master Index]] · [[Purdue Pharma - Sackler Family]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[Novo Nordisk]] · [[Moderna]] · [[Merck]] · [[Gilead Sciences]] · [[Eli Lilly]] · [[AbbVie]] · [[Palantir Technologies]] · [[PBM Industry Bloc - OptumRx, CVS Caremark, Express Scripts]] · [[Tenet Healthcare]] · [[Kaiser Permanente]] · [[Humana]] · [[Palantir Technologies Political Operation]] · [[Raytheon Technologies]] · [[Hospital Corporation of America - HCA]] · [[Civica Rx]] · [[Uber]] · [[Lyft]] · [[Instacart]] · [[Flex Association]] · [[DoorDash]] · [[Airbnb]] · [[WSPA - Western States Petroleum Association]] · [[Valero Energy]] · [[Southern Company]] · [[PG&E]] · [[PG&E - Pacific Gas and Electric]] · [[Occidental Petroleum]] · [[NextEra Energy]] · [[Marathon Petroleum]] · [[Koch Industries]] · [[Hawaiian Electric Company]] · [[Halliburton]]"
 court-cases: 825
 court-jurisdictions:
   - Court of Appeals for the Ninth Circuit

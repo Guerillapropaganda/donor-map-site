@@ -2,7 +2,7 @@
 title: American Action Network
 type: donor
 content-readiness: ready
-last-updated: 2026-04-17
+last-updated: 2026-04-18
 source-tier: 1
 parent: null
 sector: Dark Money
@@ -32,7 +32,7 @@ total-revenue: 74081200
 total-assets: 35265577
 fara-status: registrant
 fara-records: 1
-related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]] · [[Insurance Industry]] · [[DeVos Family]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]]"
+related: "[[National Association of Manufacturers]] · [[Congressional Leadership Fund]] · [[Heritage Foundation]] · [[US Chamber of Commerce]] · [[Republican Party Apparatus]] · [[PhRMA]] · [[One Nation]] · [[ALEC - American Legislative Exchange Council]] · [[Business Roundtable]] · [[American Petroleum Institute]] · [[Insurance Industry]] · [[DeVos Family]] · [[National Education Association]] · [[Walton Family Foundation]] · [[American Federation for Children]] · [[Petrochemical Industry Bloc]] · [[Western States Petroleum Association]] · [[Defense Industry]] · [[Defense Industry Bloc]] · [[Defense Contractors]] · [[Defense Contractors Bloc]] · [[Judicial Crisis Network]] · [[Healthcare Sector]] · [[House Freedom Caucus]] · [[Federalist Society]] · [[Donors Capital Fund]] · [[Demand Justice]] · [[Council for National Policy]] · [[Conservative Partnership Institute]] · [[Legal Sector Donors]] · [[Ocean Conservancy]] · [[Ohio Democratic Party]] · [[New Venture Fund]] · [[National Progressive Donor Networks]] · [[Media Matters]] · [[Finance and Tech Bundler Network]] · [[Environmental Law & Policy Center]] · [[Entertainment and Hollywood Donors]] · [[Democratic Small Dollar Networks]] · [[Democratic Party Infrastructure]] · [[Democratic Donor Network]] · [[Democracy Alliance]] · [[Concerned Veterans for America]]"
 total-political-spend: $176,798,895
 politicians-funded: "[[Gary Peters]]"
 cross-vault-triangulation-count: 12
