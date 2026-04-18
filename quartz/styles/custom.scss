@@ -1942,6 +1942,7 @@ body:has(.lp-landing) .breadcrumb-container {
   &[open] > summary { color: #e63946; }
 
   & > .ph-money-info-popup {
+    display: none;
     position: absolute;
     top: calc(100% + 6px);
     right: 0;
@@ -1959,6 +1960,10 @@ body:has(.lp-landing) .breadcrumb-container {
     letter-spacing: 0;
     text-transform: none;
     box-shadow: 4px 4px 0 rgba(0,0,0,0.15);
+  }
+
+  &[open] > .ph-money-info-popup {
+    display: block;
   }
 }
 
