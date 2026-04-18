@@ -43,8 +43,8 @@ cash-on-hand: "1013618.58"
 fec-cycle: 2026
 last-enriched: "2026-04-11"
 bioguide-id: C001087
-top-donors: "[[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[AMERICANS FOR JOB SECURITY]], [[REVERE AMERICA]], [[Revere America]], [[Americans for Job Security]]"
-donors: "[[Revere America]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[AMERICANS FOR JOB SECURITY]], [[HOUSE MAJORITY PAC]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[REVERE AMERICA]], [[Americans for Job Security]]"
+top-donors: "[[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[AMERICANS FOR JOB SECURITY]] · [[REVERE AMERICA]] · [[Revere America]] · [[Americans for Job Security]]"
+donors: "[[Revere America]] · [[AMERICANS FOR JOB SECURITY]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[REVERE AMERICA]] · [[Americans for Job Security]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 23
 bills-cosponsored: 201

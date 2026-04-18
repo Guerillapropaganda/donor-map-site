@@ -23,7 +23,7 @@ ofac-programs:
 total-received: $922,124
 fec-candidate-id: H8FL27185
 bioguide-id: S000168
-donors: "[[Bacardi - Bacardi USA]] · [[Kenneth Griffin]] · [[Latino Vote for America Pac]] · [[WOMEN VOTE!]] · [[DCCC]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[HOUSE MAJORITY PAC]]"
+donors: "[[Bacardi - Bacardi USA]] · [[Kenneth Griffin]] · [[Latino Vote for America Pac]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]]"
 related: "[[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Carlos Gimenez Master Profile|Gimenez]] · [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
 committees:
   - House Committee on Financial Services

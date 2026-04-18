@@ -36,7 +36,7 @@ cash-on-hand: "483316.29"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "238000.00"
-donors: "[[American Petroleum Institute]] · [[Western Growers Association]] · [[TEXAS FORWARD]] · [[Mainstream Democrats Pac]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[NRCC]] · [[Texas Forward]]"
+donors: "[[American Petroleum Institute]] · [[Western Growers Association]] · [[Mainstream Democrats Pac]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS CONGRESSIONAL FUND]] · [[Texas Forward]]"
 bills-enacted: 1
 top-policy-area: "Health"
 ---

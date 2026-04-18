@@ -11,7 +11,7 @@ chamber: House
 state: Georgia
 state-abbr: GA
 district: "14"
-top-donors: "[[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[THE LINCOLN PROJECT]], [[A GREAT AMERICA PAC]], [[DRAIN THE DC SWAMP PAC]], [[A Great America PAC]], [[The Lincoln Project]], [[Drain the DC Swamp PAC]]"
+top-donors: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[THE LINCOLN PROJECT]] · [[DRAIN THE DC SWAMP PAC]] · [[A Great America PAC]] · [[The Lincoln Project]] · [[Drain the DC Swamp PAC]]"
 fec-candidate-id: H0GA06192
 source-types:
   - FEC
@@ -21,7 +21,7 @@ known-gaps:
   - No mapped relationships
 opposes: "[[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[THE LINCOLN PROJECT]] · [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]] · [[A GREAT AMERICA PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_Matt Gaetz Master Profile|Matt Gaetz]] · [[Freedom Caucus]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]]"
-donors: "[[The Lincoln Project]], [[VALUE IN ELECTING WOMEN POLITICAL ACTION COMMITTEE]], [[A GREAT AMERICA PAC]], [[THE LINCOLN PROJECT]], [[GEORGIANS FOR STRONG FAMILIES, INC.]], [[MAGA Small Dollar Base]], [[A Great America PAC]], [[DRAIN THE DC SWAMP PAC]], [[Drain the DC Swamp PAC]]"
+donors: "[[The Lincoln Project]] · [[THE LINCOLN PROJECT]] · [[GEORGIANS FOR STRONG FAMILIES, INC.]] · [[MAGA Small Dollar Base]] · [[A Great America PAC]] · [[DRAIN THE DC SWAMP PAC]] · [[Drain the DC Swamp PAC]]"
 urls-first-triaged: "2026-04-15"
 ---
 

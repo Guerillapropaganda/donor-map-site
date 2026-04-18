@@ -11,7 +11,7 @@ chamber: Cabinet
 issues:
   - Environment
   - Housing
-top-donors: "[[DCCC]], [[Leonard Leo]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Koch Network - Charles Koch]], [[HOUSE MAJORITY PAC]], [[AMERICANS FOR COMMON SENSE (AFCS)]], [[314 ACTION FUND]], [[314 Action Fund]]"
+top-donors: "[[Leonard Leo]] · [[Koch Network - Charles Koch]] · [[314 Action Fund]]"
 govtrack-id: 412646
 bills-sponsored: 0
 bills-cosponsored: 0
@@ -30,7 +30,7 @@ last-enriched: "2026-04-10"
 wikipedia-url: https://en.wikipedia.org/wiki/Lee_Zeldin
 wikipedia-extract: Lee Michael Zeldin is an American politician and lawyer serving as the 17th administrator of the Environmental Protection Agency (EPA) since January 2025.
 born: "1980-01-30"
-donors: "[[314 Action Fund]], [[DCCC]], [[AMERICANS FOR COMMON SENSE (AFCS)]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Leonard Leo]], [[314 ACTION FUND]], [[Koch Network - Charles Koch]], [[HOUSE MAJORITY PAC]]"
+donors: "[[314 Action Fund]] · [[Leonard Leo]] · [[Koch Network - Charles Koch]]"
 ---
 
 <!-- auto:data-panel start -->

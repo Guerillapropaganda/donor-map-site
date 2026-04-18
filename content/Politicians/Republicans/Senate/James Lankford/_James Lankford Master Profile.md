@@ -27,7 +27,7 @@ issues:
   - Taxation
 total-received: $1,589,488
 fec-candidate-id: S4OK00232
-donors: "[[Devon Energy]], [[Defend Oklahoma Values]], [[American Energy Action Fund]], [[NOW OR NEVER PAC]], [[OKLAHOMANS FOR A CONSERVATIVE FUTURE INC]], [[FOUNDATION FOR ECONOMIC PROSPERITY INC.]], [[Oklahomans for a Conservative Future INC]], [[Foundation for Economic Prosperity Inc.]], [[Now Or Never PAC]]"
+donors: "[[Devon Energy]] · [[Defend Oklahoma Values]] · [[American Energy Action Fund]] · [[FOUNDATION FOR ECONOMIC PROSPERITY INC.]] · [[Oklahomans for a Conservative Future INC]] · [[Foundation for Economic Prosperity Inc.]] · [[Now Or Never PAC]]"
 related: "[[_Donald Trump Master Profile|Trump]]"
 needs-reenrichment: true
 reenrich-reason: run voting pipeline; run congress pipeline; run pipelines

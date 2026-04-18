@@ -35,7 +35,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[_Nancy Pelosi Master Profile]] · [[_Chuck Schumer Master Profile]] · [[_Elizabeth Warren Master Profile]] · [[MassMutual]] · [[Fidelity Investments]] · [[Blue Cross Blue Shield Association|Blue Cross Blue Shield]] · [[Private Equity Buys Regulatory Immunity Across the Aisle]] · [[The Ways and Means Chair and TCJA Extension]]"
-donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Fidelity Investments]] · [[Ohio Democratic Party]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[MassMutual]] · [[JUSTICE DEMOCRATS PAC]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[INDIVISIBLE ACTION]] · [[FIGHT CORPORATE MONOPOLIES]] · [[American Hospital Association PAC]] · [[Fight Corporate Monopolies]] · [[Indivisible Action]] · [[Justice Democrats PAC]]"
+donors: "[[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[AFSCME - American Federation of State County and Municipal Employees]] · [[Fidelity Investments]] · [[Ohio Democratic Party]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[MassMutual]] · [[AMERICAN HOSPITAL ASSOCIATION PAC]] · [[INDIVISIBLE ACTION]] · [[American Hospital Association PAC]] · [[Fight Corporate Monopolies]] · [[Justice Democrats PAC]]"
 urls-first-triaged: "2026-04-15"
 bills-enacted: 0
 top-policy-area: "Armed Forces and National Security"

@@ -29,7 +29,7 @@ related: "[[Richard Blumenthal]] · [[_Donald Trump Master Profile|Trump]] · [[
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines
 internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[PLANNED PARENTHOOD OF KS & MID-MO]] · [[KANSANS FOR LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ADVOCATES OF KANSAS]] · [[Planned Parenthood Action Fund INC]] · [[Planned Parenthood Advocates of Kansas]] · [[Kansans for Life Political Action Committee]] · [[Koch network]] · [[Planned Parenthood of KS & Mid-MO]]"
+donors: "[[Western Growers Association]] · [[California Farm Bureau Federation]] · [[National Cattlemen's Beef Association]] · [[Koch Network]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[PLANNED PARENTHOOD ACTION FUND INC]] · [[KANSANS FOR LIFE POLITICAL ACTION COMMITTEE]] · [[Planned Parenthood Advocates of Kansas]] · [[Kansans for Life Political Action Committee]] · [[Koch network]] · [[Planned Parenthood of KS & Mid-MO]]"
 bills-enacted: 0
 top-policy-area: "Armed Forces and National Security"
 ---

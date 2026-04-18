@@ -29,7 +29,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[Lockheed Martin]] · [[Boeing]]"
-donors: "[[Boeing]], [[Oil & Gas PACs]], [[Congressional Leadership Fund]], [[PROTECT FREEDOM POLITICAL ACTION COMMITTEE]], [[CLUB FOR GROWTH ACTION]], [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]], [[Lockheed Martin]], [[WFW ACTION FUND, INC.]], [[Wfw Action Fund, Inc.]], [[Protect Freedom Political Action Committee]]"
+donors: "[[Boeing]] · [[Oil & Gas PACs]] · [[Congressional Leadership Fund]] · [[NATIONAL ASSOCIATION OF REALTORS POLITICAL ACTION COMMITTEE]] · [[Lockheed Martin]] · [[WFW ACTION FUND, INC.]] · [[Wfw Action Fund, Inc.]] · [[Protect Freedom Political Action Committee]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 8
 bills-cosponsored: 108

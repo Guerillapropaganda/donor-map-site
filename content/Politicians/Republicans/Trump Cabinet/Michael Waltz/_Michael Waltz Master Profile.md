@@ -21,7 +21,7 @@ source-types:
   - FEC
   - GovTrack
 corroboration-count: 3
-donors: "[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[AMERICAN JOBS AND GROWTH PAC]] · [[HOUSE MAJORITY PAC]] · [[American Patriots PAC]] · [[Special Operations for America]] · [[American Jobs and Growth PAC]]"
+donors: "[[WITH HONOR FUND, INC.]] · [[AMERICAN PATRIOTS PAC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[American Patriots PAC]] · [[Special Operations for America]] · [[American Jobs and Growth PAC]]"
 opposes: "[[HOUSE MAJORITY PAC]] · [[AMERICAN JOBS AND GROWTH PAC]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

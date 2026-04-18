@@ -24,7 +24,7 @@ known-gaps:
 executive-orders: 310
 presidential-memoranda: 89
 proclamations: 761
-donors: "[[Media Matters]], [[REPUBLICAN NATIONAL COMMITTEE]], [[MICHIGAN REPUBLICAN PARTY]], [[Michigan Republican Party]]"
+donors: "[[Media Matters]] · [[MICHIGAN REPUBLICAN PARTY]]"
 urls-first-triaged: "2026-04-15"
 ---
 

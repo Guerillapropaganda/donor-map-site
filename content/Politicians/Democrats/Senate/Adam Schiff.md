@@ -10,7 +10,7 @@ last-updated: 2026-04-13T00:00:00.000Z
 source-tier: 1
 parent: null
 fec-candidate-id: H0CA27085
-donors: "[[AFL-CIO]], [[ALHAMBRA DEMOCRATIC CLUB]], [[NARAL]], [[27TH CONGRESSIONAL DISTRICT DEMOCRATIC CLUB]], [[Alhambra Democratic Club]], [[27th Congressional District Democratic Club]]"
+donors: "[[AFL-CIO]] · [[Alhambra Democratic Club]] · [[27th Congressional District Democratic Club]]"
 related: "[[Barbara Lee]] · [[Laphonza Butler]] · [[_Nancy Pelosi Master Profile]] · [[AIPAC - American Israel Public Affairs Committee]] · [[_Katie Porter Master Profile]] · [[Haim Saban]] · [[Jeffrey Katzenberg]] · [[Senate Majority PAC]] · [[Everytown for Gun Safety]]"
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.

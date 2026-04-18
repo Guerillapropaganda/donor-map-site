@@ -21,8 +21,8 @@ source-types:
 corroboration-count: 3
 known-gaps:
   - No mapped relationships
-top-donors: "[[National Republican Senatorial Committee]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[AMERICAN CROSSROADS]], [[Crossroads Grassroots Policy Strategies]], [[FIRST AMENDMENT ALLIANCE]], [[First Amendment Alliance]], [[American Crossroads]]"
-donors: "[[First Amendment Alliance]], [[AMERICAN CROSSROADS]], [[National Republican Senatorial Committee]], [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]], [[Crossroads Grassroots Policy Strategies]], [[FIRST AMENDMENT ALLIANCE]], [[American Crossroads]]"
+top-donors: "[[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[First Amendment Alliance]] · [[American Crossroads]]"
+donors: "[[First Amendment Alliance]] · [[NATIONAL REPUBLICAN SENATORIAL COMMITTEE]] · [[American Crossroads]]"
 urls-first-triaged: "2026-04-15"
 ---
 

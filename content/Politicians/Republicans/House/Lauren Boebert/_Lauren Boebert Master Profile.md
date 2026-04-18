@@ -24,8 +24,8 @@ corroboration-count: 3
 known-gaps:
   - No mapped relationships
 related: "[[_Marjorie Taylor Greene Master Profile|MTG]] · [[National Rifle Association]] · [[Club for Growth]] · [[Freedom Caucus]] · [[American Petroleum Institute]] · [[Koch Industries]]"
-top-donors: "[[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]], [[Colorado United Pac]]"
-donors: "[[Colorado United Pac]], [[WOMEN VOTE!]], [[DCCC]], [[LCV VICTORY FUND]], [[HOUSE MAJORITY PAC]]"
+top-donors: "[[Colorado United Pac]]"
+donors: "[[Colorado United Pac]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 26
 bills-cosponsored: 335

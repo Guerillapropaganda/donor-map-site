@@ -28,7 +28,7 @@ bills-sponsored: 24
 bills-cosponsored: 95
 website: https://hill.house.gov
 phone: 202-225-2506
-donors: "[[Citigroup]] · [[Bank of America]] · [[Coinbase]] · [[Goldman Sachs]] · [[Marc Andreessen & Horowitz]] · [[Defend American Jobs]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]] · [[HOUSE MAJORITY PAC]] · [[WOMEN VOTE!]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[DCCC]]"
+donors: "[[Citigroup]] · [[Bank of America]] · [[Coinbase]] · [[Goldman Sachs]] · [[Marc Andreessen & Horowitz]] · [[Defend American Jobs]] · [[Crypto Industry Bloc]] · [[Fairshake PAC]]"
 related: "[[The Wall Street Senator - Finance Industry Alignment]] · [[Goldman Sachs]] · [[Fairshake PAC]] · [[Crypto Industry Bloc]] · [[Marc Andreessen & Horowitz]] · [[FTX - Sam Bankman-Fried]] · [[The Financial Services Committee and Wall Street Oversight]] · [[The Wall Street Democrat - Goldman Sachs to Congress Pipeline]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

@@ -42,7 +42,7 @@ total-raised: $375,129
 total-spent: $375,129
 cash-on-hand: "0.00"
 fec-cycle: 2024
-donors: "[[Walt Disney Company]], [[GOOD FIGHT]], [[READY TO WIN]], [[Kenneth Griffin]], [[Fossil Fuel Bloc]], [[Sfa Fund, Inc]], [[Club for Growth]], [[Koch Network - Charles Koch]], [[NEVER BACK DOWN INC.]], [[Lennar Corporation]], [[MAKE AMERICA GREAT AGAIN INC.]], [[Ready to Win]], [[Never Back Down Inc.]]"
+donors: "[[Walt Disney Company]] · [[GOOD FIGHT]] · [[READY TO WIN]] · [[Kenneth Griffin]] · [[Fossil Fuel Bloc]] · [[Club for Growth]] · [[Koch Network - Charles Koch]] · [[NEVER BACK DOWN INC.]] · [[Lennar Corporation]] · [[Ready to Win]] · [[Never Back Down Inc.]]"
 urls-first-triaged: "2026-04-15"
 ---
 

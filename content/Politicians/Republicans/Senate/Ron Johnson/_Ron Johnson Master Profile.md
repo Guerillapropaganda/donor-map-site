@@ -13,7 +13,7 @@ state: Wisconsin
 state-abbr: WI
 fec-candidate-id: S0WI00197
 stock-trades: 2
-donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]] · [[Really American Pac]]"
+donors: "[[Patrick Soon-Shiong]] · [[American Iron and Steel Institute]] · [[American Petroleum Institute]] · [[National Restaurant Association]] · [[Western Growers Association]]"
 related: "[[Roger Marshall]] · [[Tammy Baldwin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]] · [[_Mitch McConnell Master Profile|McConnell]] · [[_Donald Trump Master Profile|Trump]] · [[_John Barrasso Master Profile|Barrasso]] · [[John Kennedy Master Profile]]"
 needs-reenrichment: true
 reenrich-reason: run congress pipeline; run pipelines

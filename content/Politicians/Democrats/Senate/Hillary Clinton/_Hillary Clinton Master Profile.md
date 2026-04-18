@@ -26,7 +26,7 @@ total-received: $7,102,485
 fec-candidate-id: S0NY00188
 bioguide-id: C001041
 last-enriched: "2026-04-11"
-donors: "[[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR SHARE ACTION]] · [[Media Matters]] · [[KENTUCKIANS FOR STRONG LEADERSHIP]] · [[STOP UNION POLITICAL ABUSE (SUPA)]] · [[CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE]] · [[Kentuckians for Strong Leadership]] · [[Fair Share Action]]"
+donors: "[[Entertainment and Hollywood Donors]] · [[UNITED ASSOCIATION POLITICAL EDUCATION COMMITTEE (UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING & PIPEFITTING INDUSTRY OF THE UNITED STATES AND CANADA)]] · [[FAIR SHARE ACTION]] · [[Media Matters]] · [[Kentuckians for Strong Leadership]] · [[Fair Share Action]]"
 opposes: "[[KENTUCKIANS FOR STRONG LEADERSHIP]] · [[STOP UNION POLITICAL ABUSE (SUPA)]] · [[CONSERVATIVE LEADERSHIP POLITICAL ACTION COMMITTEE]]"
 internal-notes: |-
   [JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • Internal notes say pipeline data was damaged or needs repopulation. • VOTING data is missing entirely. This profile was promoted to ready without ever having voting enrichment run on it. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.

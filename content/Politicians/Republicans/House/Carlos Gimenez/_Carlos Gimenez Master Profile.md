@@ -27,7 +27,7 @@ bills-sponsored: 21
 bills-cosponsored: 307
 website: https://gimenez.house.gov
 phone: 202-225-2778
-donors: "[[Bacardi - Bacardi USA]], [[HOUSE MAJORITY PAC]], [[Fanjul Family - Florida Crystals]], [[South Florida Residents First]], [[LCV VICTORY FUND]], [[MasTec - Mas Canosa Family]], [[WOMEN VOTE!]], [[DCCC]]"
+donors: "[[Bacardi - Bacardi USA]] · [[Fanjul Family - Florida Crystals]] · [[South Florida Residents First]] · [[MasTec - Mas Canosa Family]]"
 related: "[[Lennar Corporation]] · [[_Marco Rubio Master Profile|Rubio]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]] · [[_Maria Elvira Salazar Master Profile|Salazar]] · [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]"
 source-types:
   - FEC

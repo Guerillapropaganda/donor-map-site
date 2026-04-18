@@ -10,7 +10,7 @@ party: Republican
 chamber: Cabinet
 state: North Dakota
 state-abbr: ND
-top-donors: "[[Ruralvote.org]], [[PRIORITIES USA ACTION]], [[Best of America PAC]], [[Harold Hamm]], [[Koch Network - Charles Koch]]"
+top-donors: "[[Best of America PAC]] · [[Harold Hamm]] · [[Koch Network - Charles Koch]]"
 total-received: $18,007,929
 fec-candidate-id: P40013518
 source-types:
@@ -20,7 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Donald Trump Master Profile]] · [[_Chris Wright Master Profile]] · [[_Lee Zeldin Master Profile]] · [[Koch Network - Charles Koch|Koch Network]]"
-donors: "[[Ruralvote.org]], [[Best of America PAC]], [[PRIORITIES USA ACTION]], [[Harold Hamm]], [[Koch Network - Charles Koch]]"
+donors: "[[Best of America PAC]] · [[Harold Hamm]] · [[Koch Network - Charles Koch]]"
 urls-first-triaged: "2026-04-15"
 ---
 

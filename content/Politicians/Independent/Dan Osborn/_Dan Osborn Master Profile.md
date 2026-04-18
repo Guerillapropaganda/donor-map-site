@@ -8,7 +8,7 @@ source-tier: 1
 parent: null
 party: Independent
 chamber: Senate
-top-donors: "[[Labor Unions]], [[Heartland Resurgence]], [[Railroaders for Public Safety]], [[ActBlue]], [[Senate Leadership Fund]], [[Retire Career Politicians]], [[ESAFUND]], [[Senate Majority PAC]]"
+top-donors: "[[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[Retire Career Politicians]] · [[ESAFUND]] · [[Senate Majority PAC]]"
 total-received: $2,121,436
 fec-candidate-id: S4NE00207
 source-types:
@@ -24,7 +24,7 @@ cash-on-hand: "575663.35"
 fec-cycle: 2026
 last-enriched: "2026-04-10"
 fec-debt: "33492.00"
-donors: "[[Retire Career Politicians]], [[Labor Unions]], [[Heartland Resurgence]], [[Railroaders for Public Safety]], [[ActBlue]], [[Senate Leadership Fund]], [[ESAFUND]], [[Senate Majority PAC]]"
+donors: "[[Retire Career Politicians]] · [[Labor Unions]] · [[Heartland Resurgence]] · [[Railroaders for Public Safety]] · [[ActBlue]] · [[ESAFUND]] · [[Senate Majority PAC]]"
 urls-first-triaged: "2026-04-15"
 ---
 

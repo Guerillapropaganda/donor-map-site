@@ -20,7 +20,7 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: ">- · [[Newsom 2028 - The Donor Class Presidential Campaign]]"
-donors: "[[DoorDash]], [[Women Speak Out Pac]], [[Dream Defenders Fight Pac]], [[Votevets]], [[Equality California Votes]], [[Finance and Tech Bundler Network]], [[DRAIN THE DC SWAMP PAC]], [[Drain the DC Swamp PAC]]"
+donors: "[[DoorDash]] · [[Votevets]] · [[Equality California Votes]] · [[Finance and Tech Bundler Network]] · [[DRAIN THE DC SWAMP PAC]]"
 ---
 
 <!-- auto:data-panel start -->

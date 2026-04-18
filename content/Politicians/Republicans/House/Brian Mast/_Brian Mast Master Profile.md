@@ -29,7 +29,7 @@ corroboration-count: 2
 known-gaps:
   - No voting record data
   - No mapped relationships
-donors: "[[NORPAC]], [[DCCC]], [[HOUSE MAJORITY PAC]], [[NRCC]], [[SPECIAL OPERATIONS FOR AMERICA]], [[WITH HONOR FUND, INC.]], [[Fanjul Family - Florida Crystals]], [[Special Operations for America]]"
+donors: "[[NORPAC]] · [[NRCC]] · [[SPECIAL OPERATIONS FOR AMERICA]] · [[WITH HONOR FUND, INC.]] · [[Fanjul Family - Florida Crystals]] · [[Special Operations for America]]"
 related: "[[_Donald Trump Master Profile|Trump]] · [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Marco Rubio Master Profile|Rubio]] · [[Fanjul Family - Florida Crystals]] · [[Operation Southern Spear and the Cuba Fuel Blockade]] · [[_Mario Diaz-Balart Master Profile|Diaz-Balart]]"
 opensanctions-status: pep-sanctioned
 opensanctions-matches: 2

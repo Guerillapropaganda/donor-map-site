@@ -18,8 +18,8 @@ known-gaps:
   - No voting record data
   - No mapped relationships
 related: "[[_Jared Kushner Master Profile]] · [[_Donald Trump Master Profile]] · [[Real Estate Industry]]"
-top-donors: "[[Conservative Solutions PAC]], [[America Leads]], [[Tell It Like It Is Pac]]"
-donors: "[[Tell It Like It Is Pac]], [[America Leads]], [[Conservative Solutions PAC]]"
+top-donors: "[[America Leads]] · [[Tell It Like It Is Pac]]"
+donors: "[[Tell It Like It Is Pac]] · [[America Leads]]"
 ---
 #christie #independent #former-governor #new-jersey #bridgegate #anti-trump #kushner-vendetta #2024-candidate #class-analysis
 tags: #independent

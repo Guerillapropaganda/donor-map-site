@@ -12,7 +12,7 @@ chamber: House
 district: "2"
 issues:
   - Healthcare
-top-donors: "[[AbbVie]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
+top-donors: "[[AbbVie]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[Political Action Committee of the American Association of Orthopaedic Surgeons]]"
 total-received: $3,143,679
 fec-candidate-id: H8KY02031
 source-types:
@@ -23,7 +23,7 @@ known-gaps:
   - No legislative record from Congress.gov
   - No mapped relationships
 related: "[[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] · [[AbbVie]]"
-donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[AbbVie]], [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]], [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]], [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]], [[PhRMA - Pharmaceutical Research and Manufacturers of America]], [[EVERYTOWN FOR GUN SAFETY ACTION FUND]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]]"
+donors: "[[Political Action Committee of the American Association of Orthopaedic Surgeons]] · [[AbbVie]] · [[POLITICAL ACTION COMMITTEE OF THE AMERICAN ASSOCIATION OF ORTHOPAEDIC SURGEONS]] · [[NATIONAL RIGHT TO LIFE POLITICAL ACTION COMMITTEE]] · [[NATIONAL RIFLE ASSOCIATION OF AMERICA POLITICAL VICTORY FUND]] · [[PhRMA - Pharmaceutical Research and Manufacturers of America]]"
 urls-first-triaged: "2026-04-15"
 bills-sponsored: 25
 bills-cosponsored: 185

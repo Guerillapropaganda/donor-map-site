@@ -17,7 +17,7 @@ leadership-roles:
   - Ranking Member
 issues:
   - Wall Street & Finance
-top-donors: "[[League of Conservation Voters]], [[Goldman Sachs]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[COMMON SENSE FOR CONNECTICUT]], [[TRINITY PAC]], [[CONNECTICUT TAXPAYERS ALLIANCE]], [[Common Sense for Connecticut]], [[Trinity PAC]], [[Connecticut Taxpayers Alliance]]"
+top-donors: "[[League of Conservation Voters]] · [[Goldman Sachs]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[COMMON SENSE FOR CONNECTICUT]] · [[Common Sense for Connecticut]] · [[Trinity PAC]] · [[Connecticut Taxpayers Alliance]]"
 total-received: $803,939
 fec-candidate-id: H8CT04172
 govtrack-id: 412282
@@ -30,7 +30,7 @@ needs-reenrichment: true
 reenrich-reason: re-run fec pipeline
 related: "[[Chris Murphy Master Profile]] · [[_Nancy Pelosi Master Profile|Pelosi]] · [[_Chuck Schumer Master Profile|Schumer]] · [[Goldman Sachs - Wall Street Titan|Goldman Sachs]] · [[The Wall Street-Schumer Funding Axis]]"
 internal-notes: "[JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • FEC-CANDIDATE data was stripped from this profile but the frontmatter still says it was enriched. The pipeline thinks it's already done and won't refresh it. Needs a re-run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
-donors: "[[Trinity PAC]], [[League of Conservation Voters]], [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]], [[Common Sense for Connecticut]], [[COMMON SENSE FOR CONNECTICUT]], [[CONNECTICUT TAXPAYERS ALLIANCE]], [[TRINITY PAC]], [[Goldman Sachs]], [[Connecticut Taxpayers Alliance]]"
+donors: "[[Trinity PAC]] · [[League of Conservation Voters]] · [[DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE]] · [[Common Sense for Connecticut]] · [[COMMON SENSE FOR CONNECTICUT]] · [[Goldman Sachs]] · [[Connecticut Taxpayers Alliance]]"
 ---
 
 <!-- auto:data-panel start -->

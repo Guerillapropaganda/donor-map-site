@@ -41,7 +41,7 @@ internal-notes: |-
   [JANITOR 2026-04-10] Demoted ready→draft by pipeline-janitor.cjs because: • The profile's own known-gaps field says it needs a fresh pipeline run. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically.
   [CODE @ 2026-04-10] DEMOTED verified→ready. Previous 'A+ verified' promotion by Research Claude on 2026-04-09 counted Congress.gov as one of 3 Tier 1 source types. That Congress data was A000383-contaminated (wrong member). Corroboration-count reduced from 3 to 2 (FEC + GovTrack only). Same reasoning as Cori Bush demotion. Re-review for verified promotion AFTER fresh pipeline runs populate correct Congress/committee/govtrack data.
 opposes: "[[UNITED DEMOCRACY PROJECT ('UDP')]] · [[FAIRSHAKE]] · [[DMFI - Democratic Majority for Israel]]"
-donors: "[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]] · [[UNITED DEMOCRACY PROJECT ('UDP')]] · [[FAIRSHAKE]] · [[DMFI PAC]] · [[Justice Democrats PAC]]"
+donors: "[[JUSTICE DEMOCRATS PAC]] · [[COURAGE TO CHANGE]] · [[Justice Democrats PAC]]"
 related: "[[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[_Ilhan Omar Master Profile|Omar]] · [[_Rashida Tlaib Master Profile|Tlaib]] · [[_Alexandria Ocasio-Cortez Master Profile|AOC]] · [[_Cori Bush Master Profile|Cori Bush]] · [[_Bernie Sanders Master Profile|Bernie Sanders]] · [[DMFI - Democratic Majority for Israel|DMFI]] · [[NORPAC]] · [[AIPAC Locks Bipartisan Israel Policy While Politicians Fight on Everything Else]] · [[Pramila Jayapal]]"
 last-enriched: "2026-04-13"
 needs-reenrichment: true
