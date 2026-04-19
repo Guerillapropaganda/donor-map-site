@@ -41,8 +41,8 @@ type Intent =
 
 interface EntityContext {
   name: string
-  gloss: string               // 1-sentence "what is this" label
-  blurb?: string              // first paragraph from the profile's "Who They Are" section
+  gloss: string
+  blurb?: string
 }
 
 interface AskResult {
@@ -54,10 +54,15 @@ interface AskResult {
   spec?: unknown
   total: number
   rows: unknown[]
-  answer?: string         // headline prose answer
-  bullets?: string[]      // supporting bullet points
-  context?: EntityContext[]   // 1-sentence explainers for each entity mentioned
-  summary?: string        // one-line meta, smaller
+  answer?: string                 // headline prose answer
+  bullets?: string[]              // supporting bullet points
+  interpretation?: string         // "what this means" plain-language explainer
+  caveats?: string[]              // data limitations, "note that..."
+  context?: EntityContext[]       // 1-sentence explainers for each entity
+  follow_ups?: string[]           // suggested next questions, clickable in UI
+  citation?: string               // cite-ready paragraph for journalists
+  label?: string                  // human-friendly intent label (overrides default)
+  summary?: string                // one-line meta
   note?: string
 }
 
@@ -225,6 +230,160 @@ function loadFmSignals(profilePath: string | undefined): { nonprofit_status?: st
   } catch {
     return {}
   }
+}
+
+// Build a clickable-source citation for a single edge. Returns the
+// human-readable filing label plus a URL the user can open.
+function citeEdge(e: Record<string, unknown>): { label: string; url?: string } {
+  const src = (e.source as string) || ""
+  const cycle = (e.cycle as string) || ""
+  if (src === "irs-990-bulk") {
+    const from = (e.from as string) || ""
+    const fromEnt = findEntity(from)
+    const ein = (fromEnt?.signals as any)?.ein
+    if (ein) {
+      return {
+        label: `IRS 990 Schedule I, ${from} (EIN ${ein})${cycle ? ", tax year " + cycle : ""}`,
+        url: `https://projects.propublica.org/nonprofits/organizations/${ein}`,
+      }
+    }
+    return { label: `IRS 990 Schedule I${cycle ? ", tax year " + cycle : ""}` }
+  }
+  if (src === "fec-bulk" || src === "fec-api" || src === "fec-individual-bulk") {
+    return {
+      label: `FEC bulk filings${cycle ? ", " + cycle + " cycle" : ""}`,
+      url: `https://www.fec.gov/data/filings/`,
+    }
+  }
+  if (src === "lda-api") return { label: `Senate LDA lobbying disclosure${cycle ? " " + cycle : ""}`, url: `https://lda.senate.gov/` }
+  if (src === "usaspending" || src === "usaspending-bulk" || src === "usaspending-grants-bulk") {
+    return { label: `USAspending.gov${cycle ? " " + cycle : ""}`, url: `https://usaspending.gov/` }
+  }
+  if (src === "frontmatter-migration" || src === "body-migration-april-9") {
+    return { label: "Vault-side editorial annotation (not a filing)" }
+  }
+  return { label: src || "unknown source" }
+}
+
+// Generate a plain-language interpretation of the findings. Looks at
+// the shape of the result (intent + what entities are involved) and
+// emits a 1-2 sentence "what this means" card. No jargon.
+function interpret(res: AskResult): string | undefined {
+  const ctx = res.context || []
+  const hasDAF = ctx.some((c) => c.gloss.includes("donor-advised fund"))
+  const hasC4 = ctx.some((c) => c.gloss.includes("501(c)(4)"))
+  const hasC3 = ctx.some((c) => c.gloss.includes("501(c)(3) public charity"))
+  const hasSuperPAC = ctx.some((c) => c.gloss.includes("Super PAC"))
+
+  if (res.intent === "money_chain" && res.total > 0) {
+    if (hasDAF) {
+      return (
+        `This is the textbook dark-money laundering pattern. Money leaves the first org, passes through a donor-advised fund (DAF), and lands at the destination. The DAF step is the point — commercial DAFs are legally allowed to conceal who originally gave the money, so once the flow passes through one, the paper trail to the true donor is broken. Any of these ${res.total} paths would give the final recipient deniability about where the cash started.`
+      )
+    }
+    if (hasC4 && hasSuperPAC) {
+      return (
+        `Classic c4-to-super-PAC handoff. 501(c)(4) "social welfare" groups can accept unlimited anonymous donations but aren't supposed to be "primarily political." They transfer money to a super PAC sibling, which is allowed to spend on elections but has to disclose donors — except the disclosed donor is the c4, not the actual person who gave. This is how "dark money" becomes "disclosed" spending without the original donor ever being named.`
+      )
+    }
+    return `These ${res.total} paths show indirect money flows. None are single-hop direct gifts — each goes through at least one intermediary organization. Intermediaries are often where the public record of who gave what ends.`
+  }
+
+  if (res.intent === "edge_between") {
+    const hasDirectDollars = (res.rows || []).some((r: any) => r.type === "monetary" && r.amount)
+    if (!hasDirectDollars && res.total > 0) {
+      return `These two organizations are linked in the vault (related wikilinks and/or board overlap), but no direct dollar flow between them is in the canonical store. If you want to trace money between them, try the "money chain" version of this question — it walks up to 3 hops through intermediaries.`
+    }
+  }
+
+  if (res.intent === "donors_to") {
+    const summaryParts = (res.summary || "").match(/(\d+) support edges, (\d+) opposition edges/)
+    if (summaryParts && parseInt(summaryParts[2]) > 0) {
+      return `The "donors" shown here are groups whose money landed with the subject — direct contributions, party committee support, and super-PAC ads running in their favor. Separately, ${summaryParts[2]} super PAC(s) spent money running ads AGAINST the subject, which shows up in the meta line. Opposition edges are excluded from the total above so they don't inflate the "who funds them" answer.`
+    }
+  }
+
+  if (res.intent === "summary" && hasC4) {
+    const personMode = (res.context || []).some((c) => c.gloss.includes("entity") || !c.gloss.includes("501") && !c.gloss.includes("DAF") && !c.gloss.includes("Super"))
+    if (personMode && res.total > 0) {
+      return `Most of this person's tracked financial footprint flows through the organizations they chair or sit on the board of, not under their personal name. Federal law doesn't require individuals to disclose gifts they direct through 501(c)(4) vehicles, which is why the personal name lookup shows zero direct edges. The board-seat rows above tell you where the real money is.`
+    }
+  }
+
+  return undefined
+}
+
+// Generate follow-up question suggestions. Keeps users exploring.
+function suggestFollowUps(res: AskResult): string[] {
+  const out: string[] = []
+  const a = res.resolved_title
+  const b = res.resolved_title_2
+
+  if (res.intent === "edge_between" && a && b) {
+    out.push(`money chain from ${a} to ${b}`)
+    out.push(`tell me about ${a}`)
+    out.push(`tell me about ${b}`)
+    out.push(`what else has ${a} funded`)
+  } else if (res.intent === "money_chain" && a && b) {
+    out.push(`who funds ${a}`)
+    out.push(`where does ${a}'s money go`)
+    out.push(`tell me about ${b}`)
+  } else if (res.intent === "donors_to" && a) {
+    out.push(`where does ${a}'s money go`)
+    out.push(`tell me about ${a}`)
+    out.push(`${a} voting record`)
+    out.push(`what boards is ${a} on`)
+  } else if (res.intent === "recipients_from" && a) {
+    out.push(`who funds ${a}`)
+    out.push(`tell me about ${a}`)
+    out.push(`what boards is ${a} on`)
+  } else if (res.intent === "summary" && a) {
+    out.push(`who funds ${a}`)
+    out.push(`where does ${a}'s money go`)
+    out.push(`what boards is ${a} on`)
+  } else if (res.intent === "affiliations_from" && a) {
+    out.push(`tell me about ${a}`)
+    out.push(`${a} voting record`)
+  } else if (res.intent === "leaderboard") {
+    out.push("top donors")
+    out.push("top super pacs")
+    out.push("top politicians")
+    out.push("top dafs")
+  }
+
+  // dedupe, remove same question
+  const seen = new Set<string>([res.question.toLowerCase()])
+  return out.filter((q) => {
+    const k = q.toLowerCase()
+    if (seen.has(k)) return false
+    seen.add(k)
+    return true
+  }).slice(0, 5)
+}
+
+// Build a cite-ready paragraph for journalists to paste into stories.
+function buildCitation(res: AskResult): string | undefined {
+  if (res.intent === "money_chain" && res.rows.length > 0) {
+    const top = res.rows[0] as any
+    if (!top?.path || !top?.edges) return undefined
+    const steps: string[] = []
+    for (let i = 0; i < top.edges.length; i++) {
+      const from = top.path[i]
+      const to = top.path[i + 1]
+      const e = top.edges[i]
+      const amt = fmtUsd(e.amount)
+      const cy = e.cycle ? ` (tax year ${e.cycle})` : ""
+      steps.push(`${from} transferred ${amt} to ${to}${cy}`)
+    }
+    return `According to IRS 990 filings, ${steps.join("; ")}. Source: ${top.edges.map((e: any) => citeEdge(e).label).filter((v: string, i: number, a: string[]) => a.indexOf(v) === i).join("; ")}.`
+  }
+  if (res.intent === "donors_to" && res.rows.length > 0) {
+    const top5 = (res.rows as any[]).filter((e) => e.amount).slice(0, 5)
+    if (top5.length === 0) return undefined
+    const parts = top5.map((e) => `${e.from} (${fmtUsd(e.amount)}${e.cycle ? ", " + e.cycle : ""}) per ${citeEdge(e).label}`)
+    return `Top tracked donors to ${res.resolved_title}: ${parts.join("; ")}.`
+  }
+  return undefined
 }
 
 function explainEntity(name: string): EntityContext {
@@ -847,18 +1006,58 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
     }
   }
 
-  return {
+  // Humanize rows: "path" becomes a readable arrow string, "bottleneck"
+  // becomes "Smallest link", "total_pass_through" becomes "Total dollars
+  // through chain". Keep raw edge arrays hidden in an _edges field so
+  // power users can still see them if they want.
+  const humanRows = paths.slice(0, 10).map((p) => {
+    const steps: string[] = []
+    for (let i = 0; i < p.edges.length; i++) {
+      const e: any = p.edges[i]
+      steps.push(`${p.path[i]} → ${fmtUsd(e.amount)}${e.cycle ? " (" + e.cycle + ")" : ""}`)
+    }
+    steps.push(p.path[p.path.length - 1])
+    return {
+      trail: steps.join(" → "),
+      smallest_link: fmtUsd(p.min_amount),
+      total_through_chain: fmtUsd(p.total_pass_through),
+      sources: [...new Set(p.edges.map((e: any) => citeEdge(e).label))].join("; "),
+    }
+  })
+
+  // Build citation from raw paths BEFORE they're humanized
+  let citation: string | undefined
+  if (paths.length > 0) {
+    const top = paths[0]
+    const steps: string[] = []
+    for (let i = 0; i < top.edges.length; i++) {
+      const e: any = top.edges[i]
+      steps.push(`${top.path[i]} transferred ${fmtUsd(e.amount)} to ${top.path[i + 1]}${e.cycle ? " (tax year " + e.cycle + ")" : ""}`)
+    }
+    const sources = [...new Set(top.edges.map((e: any) => citeEdge(e).label))].join("; ")
+    citation = `According to IRS 990 filings, ${steps.join("; ")}. Source: ${sources}.`
+  }
+
+  const result: AskResult = {
     question,
     intent: "money_chain",
+    label: "Money trail",
     resolved_title: a.title,
     resolved_title_2: b.title,
     total: paths.length,
-    rows: paths.slice(0, 10),
+    rows: humanRows,
     answer,
     bullets,
     context,
+    caveats: paths.length > 0 && context.some((c) => c.gloss.includes("donor-advised fund"))
+      ? ["A donor-advised fund (DAF) sits in the middle of this chain. DAFs let the ultimate donor stay anonymous — the public record shows the DAF as the giver, not the person who originally wrote the check."]
+      : [],
     summary: paths.length === 0 ? `0 paths within ${maxDepth} hops` : `${paths.length} path(s) examined (${examined} nodes visited).`,
   }
+  result.interpretation = interpret(result)
+  result.follow_ups = suggestFollowUps(result)
+  result.citation = citation
+  return result
 }
 
 // ─── LLM fallback (optional, requires ANTHROPIC_API_KEY) ─────────────
@@ -917,6 +1116,31 @@ Question: ${question}`
 
 // ─── Main handler ────────────────────────────────────────────────────
 
+function finalize(res: AskResult): AskResult {
+  if (!res.interpretation) res.interpretation = interpret(res)
+  if (!res.follow_ups) res.follow_ups = suggestFollowUps(res)
+  if (!res.citation) res.citation = buildCitation(res)
+
+  // Humanize intent labels for display
+  const labels: Record<string, string> = {
+    cross_party_donors: "Cross-party donors",
+    voting_record: "Voting record",
+    affiliations_from: "Board seats held",
+    affiliations_to: "People on this board",
+    grants_from: "Grants out",
+    donors_to: "Who funds them",
+    recipients_from: "Where their money goes",
+    edge_between: "Connection",
+    summary: "Profile snapshot",
+    leaderboard: "Leaderboard",
+    money_chain: "Money trail",
+    generic: "General lookup",
+  }
+  if (!res.label) res.label = labels[res.intent] || res.intent
+
+  return res
+}
+
 async function handleQuestion(question: string): Promise<AskResult> {
   let c = classify(question)
   const engine = await createQueryEngine()
@@ -931,24 +1155,24 @@ async function handleQuestion(question: string): Promise<AskResult> {
 
   if (c.intent === "cross_party_donors") {
     const r = await engine.query({ subject: "cross_party_donors", filters: { days: 365 }, limit: 25 })
-    return { question, intent: c.intent, total: r.total || r.rows.length, rows: r.rows, summary: `${r.total || r.rows.length} donors giving to BOTH major parties within the last 365 days.` }
+    return finalize({ question, intent: c.intent, total: r.total || r.rows.length, rows: r.rows, summary: `${r.total || r.rows.length} donors giving to BOTH major parties within the last 365 days.` })
   }
   if (c.intent === "voting_record") {
     const name = resolveTitle(c.subjectName as string)
     const bio = findBioguide(name.title)
-    if (!bio) return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No bioguide-id found for "${name.title}".` }
-    return showVotingRecord(bio, name.title, question)
+    if (!bio) return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: 0, rows: [], note: `No bioguide-id found for "${name.title}".` })
+    return finalize(showVotingRecord(bio, name.title, question))
   }
-  if (c.intent === "leaderboard") return handleLeaderboard(c, question, engine)
-  if (c.intent === "money_chain") return handleMoneyChain(c, question)
-  if (c.intent === "edge_between") return handleEdgeBetween(c, question, engine)
-  if (c.intent === "summary") return handleSummary(c, question, engine)
+  if (c.intent === "leaderboard") return finalize(await handleLeaderboard(c, question, engine))
+  if (c.intent === "money_chain") return finalize(await handleMoneyChain(c, question))
+  if (c.intent === "edge_between") return finalize(await handleEdgeBetween(c, question, engine))
+  if (c.intent === "summary") return finalize(await handleSummary(c, question, engine))
 
   if (c.intent === "affiliations_from" || c.intent === "affiliations_to") {
     const name = resolveTitle(c.subjectName as string)
     const side = c.intent === "affiliations_from" ? "from" : "to"
     const r = await engine.query({ subject: "edges", filters: { [side]: name.title, type: "affiliation" }, limit: 50 })
-    return {
+    return finalize({
       question,
       intent: c.intent,
       resolved_title: name.title,
@@ -959,7 +1183,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
         c.intent === "affiliations_from"
           ? `${name.title} appears as officer on ${r.total} board(s)`
           : `${r.total} officer(s) recorded on ${name.title}'s board`,
-    }
+    })
   }
   if (c.intent === "grants_from") {
     const name = resolveTitle(c.subjectName as string)
@@ -968,7 +1192,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const r = await engine.query({ subject: "edges", filters, limit: 200 })
     const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
-    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, summary: `${name.title}${c.extra?.year ? " (" + c.extra.year + ")" : ""}: ${r.total} grants totaling ~${fmtUsd(total$)} across top 50.` }
+    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, summary: `${name.title}${c.extra?.year ? " (" + c.extra.year + ")" : ""}: ${r.total} grants totaling ~${fmtUsd(total$)} across top 50.` })
   }
   if (c.intent === "donors_to") {
     const name = resolveTitle(c.subjectName as string)
@@ -990,8 +1214,8 @@ async function handleQuestion(question: string): Promise<AskResult> {
       total$ > 0
         ? `**${name.title}** received **${fmtUsd(total$)}** in tracked support edges from **${supporters.length}** donors/committees.${opposeNote}`
         : `**${name.title}** has ${supporters.length} donor edges in the store without dollar amounts.${opposeNote}`
-    const bullets = top5.map((e: any) => `${e.from}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${e.source}]` : ""}`)
-    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${supporters.length} support edges, ${opposers.length} opposition edges. Support ~${fmtUsd(total$)}, opposition ~${fmtUsd(oppose$)}.` }
+    const bullets = top5.map((e: any) => `${e.from}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`)
+    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${supporters.length} support edges, ${opposers.length} opposition edges. Support ~${fmtUsd(total$)}, opposition ~${fmtUsd(oppose$)}.` })
   }
   if (c.intent === "recipients_from") {
     const name = resolveTitle(c.subjectName as string)
@@ -1003,15 +1227,15 @@ async function handleQuestion(question: string): Promise<AskResult> {
       total$ > 0
         ? `**${name.title}** moved **${fmtUsd(total$)}** across **${r.total}** recipient edges.`
         : `**${name.title}** has ${r.total} outgoing edges but no dollar amounts attached.`
-    const bullets = top5.map((e: any) => `${e.to}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${e.source}]` : ""}`)
-    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${name.title} outflows: ${r.total} edges, ~${fmtUsd(total$)} tracked.` }
+    const bullets = top5.map((e: any) => `${e.to}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`)
+    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${name.title} outflows: ${r.total} edges, ~${fmtUsd(total$)} tracked.` })
   }
 
   // Generic fallback
   const r = resolveTitle(c.subjectName as string)
   const out = await engine.query({ subject: "edges", filters: { from: r.title }, limit: 25 })
   const inc = await engine.query({ subject: "edges", filters: { to: r.title }, limit: 25 })
-  return {
+  return finalize({
     question,
     intent: "generic",
     resolved_title: r.title,
@@ -1019,7 +1243,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
     total: out.total + inc.total,
     rows: [...(out.rows || []).map((x: any) => ({ dir: "out", ...x })), ...(inc.rows || []).map((x: any) => ({ dir: "in", ...x }))],
     summary: `Generic lookup on "${r.title}": ${out.total} outgoing + ${inc.total} incoming edges. Try a more specific pattern or tell me about ${r.title}.`,
-  }
+  })
 }
 
 // ─── Route ───────────────────────────────────────────────────────────

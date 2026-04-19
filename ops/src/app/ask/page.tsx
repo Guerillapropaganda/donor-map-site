@@ -30,6 +30,7 @@ interface EntityContext {
 interface AskResponse {
   question: string
   intent: string
+  label?: string
   resolved_title?: string | null
   resolved_title_2?: string | null
   did_you_mean?: string[]
@@ -37,18 +38,73 @@ interface AskResponse {
   rows: Row[]
   answer?: string
   bullets?: string[]
+  interpretation?: string
+  caveats?: string[]
   context?: EntityContext[]
+  follow_ups?: string[]
+  citation?: string
   summary?: string
   note?: string
   error?: string
 }
 
-// Minimal bold renderer: splits text on `**...**` and wraps in <strong>
+// Glossary: terms we automatically decorate with hover tooltips
+const GLOSSARY: Record<string, string> = {
+  "501(c)(4)":
+    "A tax-exempt 'social welfare' nonprofit. Can accept unlimited donations. Is NOT required to publicly disclose donors. The main vehicle for 'dark money' in US politics.",
+  "501(c)(3)":
+    "A tax-exempt public charity. Donations are tax-deductible. Direct political advocacy is limited. Donor names are not public (with some exceptions via Schedule I grant disclosures).",
+  "527":
+    "A tax-exempt political organization. Must publicly disclose donors. Includes super PACs, party committees, and most state political committees.",
+  DAF:
+    "Donor-Advised Fund. A legal pass-through: a donor gives money to the DAF, the DAF later disburses grants at the donor's recommendation. The ultimate donor is legally shielded from public disclosure.",
+  "donor-advised fund":
+    "A legal pass-through: a donor gives money to the DAF, the DAF later disburses grants at the donor's recommendation. The ultimate donor is legally shielded from public disclosure.",
+  "Super PAC":
+    "An independent-expenditure political committee. Can accept and spend unlimited money for or against federal candidates but cannot coordinate with a campaign. Must disclose donors to the FEC.",
+  "super pac":
+    "An independent-expenditure political committee. Can accept and spend unlimited money for or against federal candidates but cannot coordinate with a campaign. Must disclose donors to the FEC.",
+  "independent-expenditure":
+    "Spending on political ads that is NOT coordinated with any candidate campaign. Allows unlimited amounts.",
+  "dark-money":
+    "Political spending where the original source of the money is not publicly disclosed, typically via 501(c)(4)s and shell LLCs.",
+  "bundler":
+    "A person who solicits contributions from many donors and presents them as a package to a campaign. Bundlers' identities are not required to be disclosed in most cases.",
+  EIN:
+    "Employer Identification Number. A 9-digit federal tax ID. Every nonprofit or PAC has one. Used to look up their IRS filings.",
+  "Schedule I":
+    "The section of IRS Form 990 where a nonprofit lists every grant they gave to other organizations, with dollar amounts and recipient names.",
+  "c4":
+    "Shorthand for 501(c)(4). A tax-exempt social welfare nonprofit that does not have to disclose donors.",
+  "c3":
+    "Shorthand for 501(c)(3). A tax-exempt public charity where donations are tax-deductible.",
+}
+
+function renderWithGlossary(text: string): React.ReactNode {
+  // Build a regex of all glossary terms, longest-first to avoid partial matches
+  const terms = Object.keys(GLOSSARY).sort((a, b) => b.length - a.length)
+  const escaped = terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"))
+  const re = new RegExp(`(${escaped.join("|")})`, "gi")
+  const parts = text.split(re)
+  return parts.map((p, i) => {
+    const hit = Object.keys(GLOSSARY).find((k) => k.toLowerCase() === p.toLowerCase())
+    if (hit) {
+      return (
+        <span key={i} title={GLOSSARY[hit]} style={{ borderBottom: "1px dotted #fbbf24", cursor: "help" }}>
+          {p}
+        </span>
+      )
+    }
+    return <span key={i}>{p}</span>
+  })
+}
+
+// Bold renderer with glossary-tooltip integration
 function renderRichText(text: string): React.ReactNode {
   const parts = text.split(/(\*\*[^*]+\*\*)/g)
   return parts.map((p, i) => {
-    if (p.startsWith("**") && p.endsWith("**")) return <strong key={i}>{p.slice(2, -2)}</strong>
-    return <span key={i}>{p}</span>
+    if (p.startsWith("**") && p.endsWith("**")) return <strong key={i}>{renderWithGlossary(p.slice(2, -2))}</strong>
+    return <span key={i}>{renderWithGlossary(p)}</span>
   })
 }
 
@@ -155,7 +211,7 @@ export default function AskPage() {
         ))}
       </div>
 
-      {result && <ResultCard r={result} />}
+      {result && <ResultCard r={result} onFollowUp={(q) => { setQuestion(q); submit(q) }} />}
 
       {history.length > 1 && (
         <div style={styles.histWrap}>
@@ -178,7 +234,7 @@ export default function AskPage() {
   )
 }
 
-function ResultCard({ r }: { r: AskResponse }) {
+function ResultCard({ r, onFollowUp }: { r: AskResponse; onFollowUp: (q: string) => void }) {
   if (r.error) {
     return (
       <div style={{ ...styles.card, borderColor: "#e63946" }}>
@@ -217,10 +273,16 @@ function ResultCard({ r }: { r: AskResponse }) {
     ...headers.filter((h) => !prioritized.includes(h) && h !== "id" && !h.endsWith("_slug") && !h.endsWith("_subcategory") && h !== "evidence" && h !== "confidence" && h !== "direction" && h !== "status" && h !== "first_seen" && h !== "last_verified"),
   ]
 
+  const label = r.label || r.intent.replace(/_/g, " ")
+  async function copyCitation() {
+    if (!r.citation) return
+    try { await navigator.clipboard.writeText(r.citation) } catch {}
+  }
+
   return (
     <div style={styles.card}>
       <div style={styles.cardHead}>
-        <div style={styles.cardLabel}>{r.intent.replace(/_/g, " ").toUpperCase()}</div>
+        <div style={styles.cardLabel}>{label.toUpperCase()}</div>
 
         {r.answer && <div style={styles.answer}>{renderRichText(r.answer)}</div>}
 
@@ -232,16 +294,53 @@ function ResultCard({ r }: { r: AskResponse }) {
           </ul>
         )}
 
+        {r.interpretation && (
+          <div style={styles.interpretationWrap}>
+            <div style={styles.interpretationLabel}>What this means</div>
+            <div style={styles.interpretation}>{renderWithGlossary(r.interpretation)}</div>
+          </div>
+        )}
+
+        {r.caveats && r.caveats.length > 0 && (
+          <div style={styles.caveatsWrap}>
+            <div style={styles.caveatsLabel}>Important caveat</div>
+            {r.caveats.map((c, i) => (
+              <div key={i} style={styles.caveatItem}>{renderWithGlossary(c)}</div>
+            ))}
+          </div>
+        )}
+
         {r.context && r.context.length > 0 && (
           <div style={styles.contextWrap}>
             <div style={styles.contextLabel}>Who these are</div>
             {r.context.map((c, i) => (
               <div key={i} style={styles.contextItem}>
                 <div style={styles.contextName}>{c.name}</div>
-                <div style={styles.contextGloss}>{c.gloss}</div>
-                {c.blurb && <div style={styles.contextBlurb}>{c.blurb}</div>}
+                <div style={styles.contextGloss}>{renderWithGlossary(c.gloss)}</div>
+                {c.blurb && <div style={styles.contextBlurb}>{renderWithGlossary(c.blurb)}</div>}
               </div>
             ))}
+          </div>
+        )}
+
+        {r.follow_ups && r.follow_ups.length > 0 && (
+          <div style={styles.followWrap}>
+            <div style={styles.followLabel}>Follow-up questions</div>
+            <div style={styles.followChipsRow}>
+              {r.follow_ups.map((q) => (
+                <button key={q} style={styles.followChip} onClick={() => onFollowUp(q)}>
+                  {q}
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {r.citation && (
+          <div style={styles.citeWrap}>
+            <div style={styles.citeLabel}>Cite-ready paragraph</div>
+            <div style={styles.citeText}>{r.citation}</div>
+            <button style={styles.citeBtn} onClick={copyCitation}>Copy</button>
           </div>
         )}
 
@@ -376,6 +475,24 @@ const styles: Record<string, React.CSSProperties> = {
   contextName: { fontSize: 14, fontWeight: 700, color: "#fbbf24" },
   contextGloss: { fontSize: 13, color: "#bbb", marginBottom: 3 },
   contextBlurb: { fontSize: 12, color: "#999", lineHeight: 1.5, fontStyle: "italic" },
+
+  interpretationWrap: { marginTop: 14, padding: "12px 14px", background: "#1a1408", border: "1px solid #fbbf24" },
+  interpretationLabel: { fontSize: 10, fontWeight: 700, color: "#fbbf24", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
+  interpretation: { fontSize: 14, color: "#eee", lineHeight: 1.55 },
+
+  caveatsWrap: { marginTop: 12, padding: "10px 14px", background: "#1a0c0c", border: "1px solid #e63946" },
+  caveatsLabel: { fontSize: 10, fontWeight: 700, color: "#e63946", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
+  caveatItem: { fontSize: 13, color: "#ddd", lineHeight: 1.55, marginBottom: 4 },
+
+  followWrap: { marginTop: 14 },
+  followLabel: { fontSize: 10, fontWeight: 700, color: "#888", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
+  followChipsRow: { display: "flex", flexWrap: "wrap", gap: 6 },
+  followChip: { fontSize: 12, padding: "6px 10px", background: "#1d4ed8", color: "#fff", border: "none", cursor: "pointer", fontFamily: "inherit" },
+
+  citeWrap: { marginTop: 14, padding: "10px 14px", background: "#0f0f0f", border: "1px solid #2a2a2a", position: "relative" },
+  citeLabel: { fontSize: 10, fontWeight: 700, color: "#888", letterSpacing: 2, textTransform: "uppercase", marginBottom: 6 },
+  citeText: { fontSize: 13, color: "#ccc", lineHeight: 1.55, fontFamily: "ui-monospace, monospace", whiteSpace: "pre-wrap" as const, paddingRight: 60 },
+  citeBtn: { position: "absolute" as const, top: 8, right: 8, fontSize: 11, padding: "4px 10px", background: "#fbbf24", color: "#111", border: "none", cursor: "pointer", fontWeight: 700 },
   tableWrap: { overflowX: "auto" },
   table: { width: "100%", borderCollapse: "collapse", fontSize: 12 },
   th: { textAlign: "left", padding: "6px 8px", background: "#222", color: "#aaa", fontWeight: 600, fontSize: 11, textTransform: "uppercase", letterSpacing: 1 },
