@@ -1,8 +1,10 @@
 ---
 title: Andre Carson
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Andre Carson is the Indianapolis Muslim member of the House Intelligence Committee whose $5.6M lifetime direct PAC combines a complete Indiana labor coalition (IBEW $102K/23 txns, UFCW $101K/21 txns, Machinists $100K/20 txns, AFSCME $95K/52 txns, TWU $94K/39 txns, Sheet Metal $92K/21 txns, Laborers $88K/23 txns) with genuine Indianapolis constituency giving (Allison Engine $82K/30 txns, Anthem/Elevance $22.5K, Duke Energy $16K) and an aviation-intelligence cluster (NATCA $78K/64 txns, ALPA $77K/32 txns) that reflects Intelligence Committee jurisdiction; J Street in his donor list and consistent Nay deviations on Israel-related House votes make him one of the most sustained progressive critics of US pro-Israel policy in the current Congress."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -148,7 +150,87 @@ top-donors: "[[Duke Energy]], [[American Federation of State County & Municipal 
 
 # Andre Carson
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Andre Carson. Democrat, Indiana-7 (Indianapolis and surrounding Marion County). First elected 2008 in a special election succeeding his grandmother, Julia Carson, who held the seat for 11 years. One of the first two Muslims elected to Congress (along with Keith Ellison). Born October 1974 in Indianapolis. Indiana University graduate; Indianapolis Metropolitan Police Department, Indiana State Excise Police before Congress. Member of the House Intelligence Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.5% party-line loyalty across 1,692 substantive votes, 42 deviations. IN-7 is a safe Democratic district in a Republican-lean state.
+
+---
+
+## The Central Thesis
+
+Carson is the Indianapolis Muslim member of the House Intelligence Committee whose $5.6M lifetime direct PAC combines a complete Indiana labor coalition with genuine Indianapolis constituency giving and an aviation-intelligence access cluster. Seven of the top ten lifetime direct PAC donors are unions: IBEW $102K/23 txns, UFCW $101K/21 txns, Machinists $100K/20 txns, AFSCME $95K/52 txns, TWU $94K/39 txns, Sheet Metal Workers $92K/21 txns, and Midwest Laborers $88K/23 txns. The three non-labor entries are each structurally distinct: Allison Engine (now Allison Transmission) at $82K/30 txns is Indianapolis-headquartered and makes transmissions for military vehicles, making it genuine constituency giving and defense access simultaneously; NATCA at $78K/64 txns reflects Intelligence Committee jurisdiction over aviation and national security; ALPA at $77K/32 txns reflects the same aviation-oversight access. J Street in his top-donors list and consistent Nay deviations on Israel-related House votes separate Carson from the AIPAC-aligned House Democrat mainstream.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Carson is one of the most consistent House critics of US pro-Israel policy: he sponsored HR 9649 (UNRWA Funding Emergency Restoration Act, 2024), voted Nay on HRES 893 (censuring Rashida Tlaib for Palestine advocacy when the Democratic majority voted Aye), and accumulates Nay deviations on Israel-related House resolutions at a rate higher than most House Democrats. J Street (the progressive pro-peace organization) is in his top-donors list; AIPAC is absent. Meanwhile, the data panel includes Northrop Grumman ($15K), Raytheon ($15K), Honeywell ($18.5K), Lockheed Martin ($13K), and L3Harris. These companies manufacture the weapons systems transferred to Israel through Foreign Military Sales. Carson's Intelligence Committee position makes him a target for their access-giving regardless of his policy positions on Israeli use of those weapons. The defense access money flows through the committee jurisdiction circuit; the Palestinian rights advocacy operates through the policy circuit. Both are active simultaneously, and the companies giving him access money do not condition that access on alignment with Israeli policy.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $5.6M (17-year accumulation; Intelligence Committee premium)
+- Party committee support: $101K (DCCC standard cycle support)
+- Super-PAC IE support (FOR): $422K (DCCC $270K dominant; SEIU $150K)
+- Super-PAC IE opposition (AGAINST): $17K (Leadership for Indiana PAC; Republican opposition vehicle)
+
+### Top direct PAC donors (lifetime): Indiana labor coalition + aviation access
+
+**Labor coalition (seven of top ten):**
+- **IBEW**: $102K across 23 transactions (highest lifetime; electrical workers are Indianapolis constituency)
+- **UFCW (United Food and Commercial Workers)**: $101K across 21 transactions
+- **Machinists (IAM)**: $100K across 20 transactions
+- **AFSCME**: $95K across 52 transactions (52 transactions = consistent multi-year access)
+- **Transport Workers Union**: $94K across 39 transactions
+- **Sheet Metal Workers**: $92K across 21 transactions
+- **Midwest Laborers**: $88K across 23 transactions
+
+**Indianapolis constituency + defense access:**
+- **Allison Engine Company PAC**: $82K across 30 transactions (Allison Transmission, headquartered in Indianapolis; makes transmissions for military vehicles including the Abrams tank and M113 APC; genuine constituency and defense access simultaneously)
+
+**Aviation-intelligence cluster:**
+- **NATCA (Air Traffic Controllers)**: $78K across 64 transactions (64 transactions at 3.8 per year; Intelligence Committee oversight of aviation security)
+- **ALPA (Air Line Pilots Association)**: $77K across 32 transactions (aviation safety and security access)
+
+### Data-panel top donors
+
+- **AFSCME**: $32.5K
+- **Anthem/Elevance Health**: $22.5K (Anthem is headquartered in Indianapolis; genuine constituency giving)
+- **NAR**: $21K (access; Indianapolis real estate market below national top-tier)
+- **Honeywell**: $18.5K (defense and aerospace; Intelligence Committee access)
+- **Duke Energy**: $16K (Indiana's primary utility; genuine constituency)
+- **UFCW**: $16K
+- **Northrop Grumman**: $15K (Intelligence Committee access)
+- **Raytheon (RTX)**: $15K (precision munitions; Intelligence Committee access)
+- **AbbVie**: $14.8K (pharma; no IN-7 constituency basis)
+- **Lockheed Martin**: $13K (Intelligence Committee access)
+
+> [!money]
+> **Allison Engine $82K: the Indianapolis defense intersection.** Allison Transmission (formerly Allison Engine Company) is one of the largest employers in Indianapolis and is headquartered in IN-7's orbit. The company makes transmissions for military ground vehicles: the M1 Abrams main battle tank, the M113 armored personnel carrier, the Bradley fighting vehicle. Its PAC giving $82K across 30 transactions to Carson is simultaneously constituency service (protecting Indianapolis jobs) and defense access (maintaining relationships with a member who votes on military procurement). This is the dual-function giving pattern: a company with local employment can justify its political giving as constituency representation while also accessing the committee-oversight benefit. The 30 transactions across 17 years (1.8 per year) reflects a consistent relationship, not a cycle-specific surge.
+
+---
+
+## Class Analysis
+
+Carson's $5.6M lifetime record is dominated by Indiana labor organizing: seven of the top ten direct PAC donors are unions representing workers in Indianapolis's manufacturing, public sector, and service industries. This is not the national-access labor giving seen in some House Democrats; TWU, Sheet Metal Workers, and Midwest Laborers represent genuine Indianapolis constituency sectors. The Allison Engine entry ($82K/30 txns) is the clearest example of dual-function giving: an Indianapolis manufacturer that employs district workers AND makes military equipment that benefits from defense appropriations. Anthem ($22.5K in data panel) and Duke Energy ($16K) round out the constituency picture: Indianapolis's dominant health insurer and dominant utility maintaining access to the district's senior House member.
+
+The NATCA 64-transaction relationship (78 episodes across 17 years = 3.8 per year) mirrors the pattern seen in McCollum's file from this vault. Air traffic controllers are a federal workforce with urgent Appropriations and Intelligence Committee interests: FAA funding, aviation security infrastructure, and national security clearance protocols. Carson's Intelligence Committee position adds a national security dimension to what would otherwise be a straightforward labor-FAA access relationship.
+
+The defense data panel (Honeywell, Northrop, Raytheon, Lockheed, L3Harris) reflects Intelligence Committee access with no Indianapolis constituency logic. These companies give across the committee regardless of member politics. The notable fact is that their access giving coexists with Carson's Palestinian rights advocacy and UNRWA restoration bill without apparent tension. The companies are not asking for his support on Israel policy; they are asking for his attention on their contracts, procurement lines, and regulatory environment. The two domains operate independently.
+
+The 42 deviations at 97.5% loyalty include Nay votes on HRES 893 (Rashida Tlaib censure), HR 7006 (December 2025), HRES 719 (September 2025), S 331 (June 2025), and S 1071 (December 2025), and a Yea on HR 2988 (January 2026 when Dems voted Nay). The Nay cluster on resolutions and the UNRWA bill sponsorship form a consistent pattern: Carson breaks left from the caucus majority specifically on Israel-Palestine votes, more consistently than most House Democrats except the Squad members.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** Carson's Palestinian rights advocacy (UNRWA bill, Tlaib censure Nay, consistent Israel-vote deviations) represents genuine policy positioning maintained against caucus majority pressure. The structural limit is the defense data panel: Raytheon, Northrop, Honeywell, Lockheed, and L3Harris access money flows regardless of his votes. The companies maintain committee access relationships without requiring political alignment on downstream use of their weapons. Carson can advocate for Palestinian rights while the companies that make US weapons continue giving him access money because the two activities do not intersect at the contract-funding level.
+
+**Both-Sides Illusion.** J Street is in Carson's top-donors list (progressive pro-peace); AIPAC is absent. The defense contractors are in his data panel. The donor record shows a member whose identity-politics alignment (Muslim, progressive on Palestinian rights) shapes which pro-Israel donors give to him (J Street yes, AIPAC no) while the institutional defense access giving continues regardless of those identity positions. A replacement member with identical committee assignments but no Palestinian rights advocacy would receive the same defense access giving and different pro-Israel giving.
 
 
 ### Legislative Activity (118th Congress)
