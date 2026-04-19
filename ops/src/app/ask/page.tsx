@@ -67,10 +67,13 @@ const EXAMPLES = [
 function fmtUsd(n: unknown): string {
   const num = typeof n === "number" ? n : Number(n)
   if (!num || Number.isNaN(num)) return "—"
-  if (Math.abs(num) >= 1e9) return "$" + (num / 1e9).toFixed(2) + "B"
-  if (Math.abs(num) >= 1e6) return "$" + (num / 1e6).toFixed(1) + "M"
-  if (Math.abs(num) >= 1e3) return "$" + (num / 1e3).toFixed(0) + "K"
-  return "$" + num.toLocaleString()
+  const a = Math.abs(num)
+  if (a >= 1e9) return "$" + (num / 1e9).toFixed(2) + "B"
+  if (a >= 10e6) return "$" + Math.round(num / 1e6) + "M"
+  if (a >= 1e6) return "$" + (num / 1e6).toFixed(1) + "M"
+  if (a >= 10e3) return "$" + Math.round(num / 1e3) + "K"
+  if (a >= 1e3) return "$" + (num / 1e3).toFixed(1) + "K"
+  return "$" + Math.round(num).toLocaleString()
 }
 
 export default function AskPage() {
