@@ -2,7 +2,8 @@
 title: Dan Sullivan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15T00:00:00.000Z
+
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +18,10 @@ phone: 202-224-3004
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - No direct individual contribution totals
+  - NEA Advocacy Fund $728K FOR designation anomalous (may not be National Education Association)
+central-thesis: "Dan Sullivan is the Alaska extraction senator in a Marine Corps officer's uniform. The fossil fuel donor slate (ConocoPhillips, Devon Energy, Halliburton, Chevron, Marathon) funds the senator who blocks drilling restrictions on the North Slope. The defense contractor slate (Northrop, Raytheon, L3Harris, General Dynamics, Lockheed, Bechtel) funds the Marine Reserves Colonel who sits on Armed Services. The $29.6M in opposition super-PAC spending (7:1 over his support) reflects anti-MAGA and Democratic targeting, but Alaska's partisan lean held."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 stock-trades: 26
 stock-trade-tickers:
   - RPM
@@ -166,7 +167,95 @@ top-policy-area: International Affairs
 
 # Dan Sullivan
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Dan Sullivan. Republican, Alaska. US Senator since January 2015, elected 2014 (defeating Democratic incumbent Mark Begich), re-elected 2020. Born November 1964 in Ohio. Harvard Law graduate, Marine Corps JAG officer (serves as Colonel in Marine Corps Reserves, including active duty deployments during his Senate tenure). Former Alaska Attorney General (2009-2010) and Commissioner of Natural Resources (2010-2013) under Gov. Sarah Palin. Assigned to Armed Services, Commerce Science and Transportation, Environment and Public Works, and Veterans' Affairs. Top policy area is International Affairs (58 bills), followed by Armed Forces (39) and Environmental Protection (36). 74 bills sponsored, 335 cosponsored, 0 enacted. Voting record: 94.9% party-line loyalty across 2,651 substantive votes, 133 deviations. 26 STOCK Act trades, $674K-$1.6M estimated value range, predominantly diversified index funds.
+
+---
+
+## The Central Thesis
+
+Sullivan is the Alaska extraction senator in a Marine Corps officer's uniform. The fossil fuel donor slate, ConocoPhillips, Devon Energy, Halliburton, Chevron, Marathon Petroleum, funds the senator who blocks drilling restrictions on the North Slope and opposes EPA regulations that would constrain Alaska's oil economy. The defense contractor slate, Northrop Grumman, Raytheon, L3Harris, General Dynamics, Lockheed Martin, Bechtel, funds the Marine Reserves Colonel who sits on Armed Services and whose International Affairs record (58 bills, top policy area) aligns with sustained defense posture and China containment. The $29.6M in opposition super-PAC spending (7:1 over his $3.9M support) reflects an unusual targeting pattern: the Lincoln Project, DSCC, and anti-MAGA Republican vehicles all spent heavily against him, suggesting the 2020 race was considered genuinely competitive. Alaska's partisan lean held. Sullivan's environmental record (36 bills, Save Our Seas Act, public lands work) exists alongside and underneath the extraction economy that funds his office. The two are not contradictory by accident.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Sullivan's legislative record includes 36 Environment and Public Works bills, Save Our Seas 2.0 Amendments Act, and sustained attention to Alaska's coastal ecosystems. He is not the senator who pretends environmental issues do not exist. The contradiction is that his top direct-PAC donors include ConocoPhillips, Halliburton, Devon Energy, Chevron, and Marathon Petroleum, the companies whose North Slope operations he consistently protects from federal environmental restrictions. His time as Alaska Commissioner of Natural Resources under Palin was defined by opening state lands to oil and gas development. His Senate record on the Environment and Public Works committee has included opposition to EPA regulations restricting Arctic drilling and support for ANWR oil development. The environmental legislation he sponsors addresses specific Alaska issues (ocean plastics, fishery management, public lands) that do not threaten the extraction economy. The legislation he opposes addresses the climate and permafrost and drilling regulations that would. A senator can sponsor Save Our Seas and vote against oil drilling restrictions. Both votes serve Alaska's specific economic geography. The contradiction is that the same committee seat (Environment and Public Works) that generates the positive environmental record is the seat where extraction-friendly votes also happen, and the donor map predicts which direction the close calls go.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $5.7M
+- Party committee support: $330K
+- Super-PAC IE support (FOR): $3.9M
+- Super-PAC IE opposition (AGAINST): $29.6M (anomalously high for a won race)
+
+### Top direct PAC donors (lifetime)
+
+- **NRSC**: $152K across 3 transactions (party apparatus, 2020 cycle)
+- **Legacy Victory Committee 2014**: $70K (2014 election cycle vehicle)
+- **Denali Leadership PAC**: $50K across 10 transactions (Sullivan's own leadership PAC, self-reciprocal giving)
+- **Cruise Lines International Association PAC**: $42K across 12 transactions (Inside Passage cruise industry, Alaska-specific constituency)
+- **Citizens for Prosperity in America Today PAC**: $37K across 10 transactions
+- **Freedom Fund**: $35K
+- **Safari Club International PAC**: $32K across 12 transactions (hunting/guide industry, major Alaska economic sector)
+- **Heartland Values PAC**: $30K
+- **Fund for America's Future**: $30K
+- **Microsoft PAC**: $30K across 9 transactions
+
+### Top super-PAC IE support (FOR)
+
+- **Alaska's Energy / America's Values**: $870K (energy industry IE vehicle, name reflects explicit Alaska-extraction alignment)
+- **NEA Advocacy Fund**: $728K (designation anomalous; may not be National Education Association)
+- **Freedom Partners Action Fund**: $629K (Koch network IE vehicle)
+- **The Guardian Fund**: $349K
+- **American Crossroads**: $326K (Karl Rove-affiliated Republican super-PAC)
+
+### Top super-PAC IE opposition (AGAINST)
+
+- **Put Alaska First**: $9.6M (anti-Sullivan vehicle; Lincoln Project-adjacent positioning)
+- **North Star**: $6.9M
+- **DSCC**: $4.5M (Democrat Senate campaign committee)
+- **314 Action Fund**: $2.5M (science-aligned anti-Republican PAC)
+- **Lincoln Project**: $1.5M (anti-MAGA Republican IE)
+
+Total opposition: $29.6M across 5 vehicles. This is 7.6x his super-PAC support, an inversion of the typical pattern where incumbents attract more support than opposition. Sullivan won anyway.
+
+### Fossil fuel and defense donor cluster
+
+From frontmatter relationships: [[ConocoPhillips]], [[Devon Energy]], [[Halliburton]], [[Chevron]], [[Marathon Petroleum]] (fossil fuel extraction). [[Northrop Grumman]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[General Dynamics]], [[Lockheed Martin]], [[BAE Systems]], [[Bechtel Corporation]] (defense and construction). [[CoreCivic - Private Prisons]] (carceral state). [[National Rifle Association]].
+
+> [!money]
+> **The extraction tribute structure.** ConocoPhillips and Halliburton giving to an Alaska senator who sits on Armed Services and Environment and Public Works is the committee-constituent overlap made explicit. Alaska's oil economy runs on North Slope production and the Trans-Alaska Pipeline. The senator who controls the regulatory environment for that production receives tribute from the companies who operate it. Alaska's Energy / America's Values naming its super-PAC explicitly after the extraction economy is the rare case where the donor-to-senator relationship names itself. The Safari Club and Cruise Lines donors are the second Alaska economic layer: guide hunting and Inside Passage tourism. Sullivan's donor map is a map of Alaska's extractive and tourism economy, plus the defense contractors who fund any Armed Services senator regardless of geography.
+
+---
+
+## Class Analysis
+
+Sullivan's donor coalition is the Alaska resource-extraction architecture overlaid with the Armed Services defense contractor slate. The fossil fuel companies, ConocoPhillips, Halliburton, Devon Energy, Chevron, Marathon, give because Sullivan's Environment and Public Works seat and his Alaska-specific energy policy votes are the most direct regulatory lever over their North Slope operations. The defense contractors, Northrop, Raytheon, L3Harris, General Dynamics, Lockheed, Bechtel, give because any Senate Armed Services member receives their committee-tribute regardless of geography. Sullivan's active duty Marine deployments and his Harvard Law background give the defense relationship intellectual credibility: he is not a civilian politician learning defense policy from contractor briefings. He came in with the operational framework already.
+
+The $29.6M in opposition spending is the most structurally interesting data point in the Sullivan profile. The Lincoln Project, 314 Action Fund, and Put Alaska First spending against him in 2020 suggests the anti-MAGA Republican money considered Alaska genuinely winnable for a Democratic or independent challenger. Sullivan won with 53% over independent Al Gross. The opposition coalition (anti-MAGA Republicans plus Democrats plus science-policy PAC) outspent his super-PAC support 7:1 and lost. This confirms that Alaska's partisan lean in federal races is more durable than opposition spending can overcome, but it also reveals that Sullivan's personal incumbency advantage was not primarily financial.
+
+The environmental record needs parsing. Environmental Protection is Sullivan's third-largest policy area at 36 bills. Save Our Seas, fishery management, public lands in Alaska. These are not cover-story bills. Alaska's environmental politics are genuinely complex: the state has more protected wilderness than any other, a Native American population with strong land and subsistence rights, and coastal and permafrost systems that are among the most climate-vulnerable in the country. A senator representing Alaska must engage with environmental protection as a constituent interest, not just as Democratic Party positioning. What Sullivan navigates is the line between Alaska-specific environmental protection (fisheries, coastal systems, tribal lands) and national climate and drilling regulation that would directly harm the oil economy his donors own. He draws that line consistently in his donors' favor when it matters.
+
+The 94.9% party loyalty with 133 deviations (the second-highest deviation count in the Republican Senate cohort after profiles yet to be written) reflects a long tenure (four cycles) and an Alaska-specific constituency that occasionally requires him to break from the national Republican caucus on public lands appropriations, Native American policy, and Alaska-specific federal spending. The deviations are not ideological heterodoxy. They are the Alaska allocation: every Republican senator from a resource-dependent state carries some deviation count as the cost of managing constituent demands that do not align with the national caucus position.
+
+---
+
+## Analytical Patterns
+
+**Donor-Class Override (structural, not episodic).** Sullivan's fossil fuel donors do not need to override his individual votes on individual bills. The override is structural: the Alaska economy is the extraction economy, and a senator who wants to win re-election in Alaska cannot threaten the economic foundation of the state's private sector. The donor map and the constituency map are the same map. ConocoPhillips is not capturing Sullivan away from his constituents. ConocoPhillips employs Sullivan's constituents.
+
+**Both-Sides Illusion (anti-MAGA version).** The Lincoln Project and Put Alaska First spending against Sullivan in 2020 creates the visual of an Alaska race where both establishment Republicans and Democrats opposed him. The reality is that the anti-MAGA Republican money (Lincoln Project) was attempting to peel off Republican-leaning independents while the DSCC targeted the same voters. Sullivan won by holding the base. The both-sides opposition spending is not evidence of Sullivan's centrism; it is evidence of a targeted effort to win a seat by fragmenting his coalition. The effort failed.
+
+**Revolving Door (state government to Senate).** Sullivan's path from Alaska Commissioner of Natural Resources (2010-2013, opening state lands to development under Palin) to Senate Energy and Environment positions is the resource-state revolving door at the state level: state natural resources executive to federal senator with jurisdiction over federal natural resources policy. The companies whose state permits he managed as Commissioner are the companies whose federal regulatory environment he manages as senator.
+
+**Two-Audience Problem.** Sullivan's Marine Corps identity and his defense-hawk record are coherent with his military constituency and his national security policy area. His environmental record is coherent with his Alaska constituency. The two-audience problem is subtler: the environmental bills are for Alaska voters and tribes; the extraction-friendly regulatory votes are for the energy companies that fund him. He can tell both stories because the Alaska policy context makes them non-contradictory at the rhetorical level. The donor map makes them contradictory at the structural level.
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
