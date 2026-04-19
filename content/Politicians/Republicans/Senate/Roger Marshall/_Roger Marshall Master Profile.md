@@ -3,7 +3,7 @@ title: Roger Marshall
 type: politician
 content-readiness: draft
 central-thesis: Marshall's donor-class function is to serve as the agribusiness and healthcare industry's physician-legislator — using his medical credentials to lend authority to industry-friendly positions on health policy while using his committee seats to pro...
-last-updated: 2026-04-11T00:00:00.000Z
+last-updated: 2026-04-19
 source-tier: 1
 parent: null
 party: Republican
@@ -206,6 +206,16 @@ Marshall's donor-class function is to serve as the agribusiness and healthcare i
 - Aligned with donor-class opposition to workplace mandates affecting business operations
 
 ---
+
+## Class Analysis
+
+Marshall's $3.5M lifetime direct PAC record reflects the Kansas economy and his committee positioning in roughly equal measure. Spirit AeroSystems ($25K, Wichita KS) and Textron ($25K/11 transactions, Cessna and Beechcraft in Wichita) are genuine Kansas constituency donors: aerospace manufacturing employs tens of thousands in the Wichita metro. The agricultural sector donors (Kansas Ag Communities Coalition, National Cattlemen's Beef, Tyson Foods, ADM, Kansas Farmers Fund) reflect the agricultural economy Marshall was elected to represent. These are constituency-service relationships.
+
+The non-constituency donors reveal the committee-access structure. Goldman Sachs PAC ($27K/10 transactions) gave to a Kansas senator because Marshall sits on the Finance Committee with jurisdiction over financial regulation. Kansas has no Goldman Sachs constituency. Total Renal Care (DaVita) PAC ($25K) reflects Marshall's HELP Committee seat and the dialysis industry's interest in Medicare reimbursement policy. The Boston Scientific PAC ($21K/11 transactions, highest transaction count for a medical device company) reflects the intersection of medical device regulation and Marshall's physician identity. These are committee-tribute payments from industries that need access to a senator with jurisdiction over their regulatory environment.
+
+AFP Action's $4.9M out of $7.7M total FOR super-PAC support (63%) makes the Koch network the decisive outside spender in Marshall's Senate career, identical to the pattern in Eric Schmitt's profile. AFP Action's program is deregulation of energy, healthcare, and financial markets - directly intersecting with Marshall's Agriculture, HELP, and Finance committee seats. The $4.9M is not charity; it is investment in a senator who chairs subcommittees over agricultural regulation, primary healthcare policy, and financial services.
+
+The $15.6M in opposition spending includes Club for Growth Action ($642K against) and House Liberty Project opposition from the earlier FEC data. Club for Growth spent against Marshall in Republican primaries, making the Marshall profile one of the few in the vault where major conservative donors are on the opposition side. The Club for Growth's primary opposition to Marshall (likely driven by Farm Bill positioning - Marshall's 2024 vote against the Farm Bill generated primary threats) and the $15.6M in Democratic opposition (Duty and Country $6.4M, Sunflower State $5.1M, Women Vote $2.7M) bracket Marshall from both right and left. Women Vote's $2.7M against a practicing obstetrician who opposes abortion is the most pointed donor-to-candidate targeting in the opposition pool: the organization whose name describes a voting bloc Marshall's legislative record most directly affects.
 
 ## Rhetorical Signature Moves
 
