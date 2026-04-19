@@ -2,7 +2,7 @@
 title: Monica de la Cruz
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: House
@@ -18,10 +18,10 @@ phone: 202-225-9901
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - OFAC SDN match is a false positive (multiple name-collision programs: CUBA, SDNT, VENEZUELA-EO13850, SDGT; different individuals)
+  - No individual contributor totals
+central-thesis: "Monica de la Cruz is the Rio Grande Valley Latino realignment story in legislative form. Her 2022 election flipped TX-15, an 85%-Hispanic majority district, from decades of Democratic control to Republican, running on border security and anti-inflation messaging. Fairshake PAC spent $813K for her (second largest outside spender), AFP Action $573K, and CLF $225K: the national conservative infrastructure investing in the Latino realignment proof of concept. The 96.4% party loyalty reflects a representative who delivers on the conservative brand her constituents chose."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
@@ -159,7 +159,89 @@ top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]]
 
 # Monica de la Cruz
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Monica de la Cruz. Republican, Texas-15 (Rio Grande Valley: Hidalgo County, McAllen, Edinburg, part of Starr County). First elected 2022, re-elected 2024. Born November 1974 in McAllen, TX. Latina Republican, insurance agent background, McAllen native. Prior race: lost TX-15 by 3 points to Henry Cuellar in 2020, then flipped the seat in 2022 when Cuellar survived a Democratic primary but lost the general. Assigned to Foreign Affairs and Financial Services. Top policy area is International Affairs (0 bills profiled in sponsored legislation context). 30 bills sponsored, 315 cosponsored, 0 enacted. Voting record: 96.4% party-line loyalty across 1,617 substantive votes, 59 deviations. Note: OFAC SDN match is a false positive (19 name-collision matches on "de la Cruz" across CUBA, SDNT, VENEZUELA, SDGT programs; all matched entities are different individuals and organizations).
+
+---
+
+## The Central Thesis
+
+De la Cruz is the Rio Grande Valley Latino realignment story in legislative form. TX-15 was reliably Democratic for generations in a district that is 85% Hispanic. Trump narrowed the margin in 2020, and de la Cruz completed the flip in 2022. She ran on border security, anti-inflation messaging, and anti-socialism rhetoric that resonates with South Texas communities whose families fled Cuba and Venezuela. The national conservative infrastructure invested accordingly: AFP Action (Koch) at $573K, Fairshake (crypto) at $813K, CLF at $225K. Fairshake's $813K as the second-largest outside spender for a border-district Republican Latina is the crypto industry's most counterintuitive investment in this vault: TX-15 has no obvious crypto policy jurisdiction, and Fairshake was buying national bipartisan credibility by funding a Latina Republican in a historically Democratic district. The 96.4% party loyalty reflects a representative who delivers consistently on the conservative brand her constituents chose.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> De la Cruz represents a majority-Hispanic border district where the most pressing economic issues are poverty (Hidalgo County poverty rate above 30%), agricultural wages, and healthcare access. Her 96.4% party-line voting record tracks with the Republican budget framework: cuts to Medicaid, SNAP, ACA subsidies, and the federal programs that disproportionately support low-income constituents in the Rio Grande Valley. The contradiction is not that she deceives her voters: they chose a border-security Republican who votes with the Republican caucus. It is structural: the national conservative infrastructure (AFP Action, CLF, Fairshake) invested $1.4M+ in her not because they care about Hidalgo County's poverty rate or agricultural wages, but because TX-15's flip is the proof of concept for the Latino realignment the Republican party needs demographically. The donor coalition is not buying representation for TX-15. It is buying a data point for a national political thesis. De la Cruz delivers both: she represents her constituents' expressed preferences and validates the national donor coalition's demographic investment simultaneously. The question is which constituency gets served when the two diverge.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $2.4M
+- Party committee support: $103K
+- Super-PAC IE support (FOR): $2.1M
+- Super-PAC IE opposition (AGAINST): $1.6M (HMP targeting competitive TX-15)
+
+### Top direct PAC donors (lifetime)
+
+- **Commercial Metals Company PAC**: $40K across 15 transactions (highest frequency; steel company with Texas manufacturing footprint)
+- **VALUE PAC (Value in Electing Women)**: $35K across 7 transactions (women Republican candidates PAC)
+- **AIPAC PAC**: $33K across 14 transactions (pro-Israel Republican giving)
+- **InsurPAC (Insurance Agents)**: $33K across 8 transactions (de la Cruz's own industry background)
+- **American Revival PAC**: $30K
+- **Valero Energy PAC**: $25K (South Texas refinery giant, constituency)
+- **Home Depot PAC**: $25K
+- **Hispanic Leadership Trust**: $25K (conservative Hispanic donor network)
+- **America Reloaded**: $23K
+- **Upper Hand Fund**: $23K
+
+### Top super-PAC IE support (FOR)
+
+- **Fairshake (crypto)**: $813K (second-largest outside spender; anomalous for border district)
+- **AFP Action (Koch network)**: $573K
+- **Congressional Leadership Fund**: $225K
+- **Opportunity Matters Fund**: $160K
+- **The Sentinel Action Fund**: $100K
+
+### Top super-PAC IE opposition (AGAINST)
+
+- **House Majority PAC (HMP)**: $1.3M (Democrats targeting competitive TX-15)
+- **Pro-Choice Majority 2024**: $250K (abortion-rights IE)
+- **Greenpeace**: $19K
+
+### Energy and corporate cluster
+
+From top-donors field: [[Chevron]], [[ConocoPhillips]], [[Valero Energy]], [[Marathon Petroleum]], [[Halliburton]] (fossil fuel/energy; Texas constituency). [[General Dynamics]], [[Lockheed Martin]] (defense). [[AIPAC - American Israel Public Affairs Committee]], [[Republican Jewish Coalition]] (pro-Israel). [[Fairshake PAC - Crypto Super PAC]] (crypto, anomalous). [[General Motors]], [[Ford Motor Company]] (automotive).
+
+> [!money]
+> **Fairshake $813K in a border district.** The crypto industry spent $813K supporting Monica de la Cruz, making Fairshake her second-largest outside spender. TX-15 is a border district with no obvious connection to cryptocurrency regulation, digital asset markets, or fintech policy. De la Cruz's committee assignment (Financial Services) is the mechanism: Fairshake buys access to any Financial Services member in any competitive district, regardless of local constituency relevance. The investment is not about McAllen or the Rio Grande Valley. It is about having a Latina Republican on Financial Services who votes for crypto-friendly legislation when it comes to markup. The local economic profile of TX-15 (agricultural wages, undocumented-family exposure, poverty) has no bearing on Fairshake's investment calculus.
+
+---
+
+## Class Analysis
+
+De la Cruz's donor coalition is the national conservative infrastructure investing in a Latino realignment district. The AFP Action ($573K), Fairshake ($813K), CLF ($225K), and Opportunity Matters Fund ($160K) are not constituency-service donors. They are ideological-investment donors: each is funding a specific Republican political thesis (Latino realignment, bipartisan crypto access, conservative House majority, anti-poverty narrative via Opportunity Matters) through a TX-15 seat that proves the thesis works. The district-specific donors are thinner: Commercial Metals Company ($40K, steel manufacturing), Valero Energy ($25K, refinery), InsurPAC ($33K, de la Cruz's background), and the Hispanic Leadership Trust ($25K, conservative Hispanic network).
+
+The 96.4% party loyalty with 59 deviations is the cleanest execution of the conservative brand her election required. She does not triangulate. She votes with the caucus 96% of the time and uses the 59 deviations for district-specific or bipartisan signals. Several 2025 deviations include Aye votes on bills where the party majority voted Nay, suggesting she occasionally crosses for bipartisan or district-specific legislation.
+
+The HMP $1.3M opposition reflects that Democrats consider TX-15 competitive. The Pro-Choice Majority 2024 $250K addition suggests that the 2024 opposition tried to make abortion rights the dominant issue in a district with a significant Catholic population. The strategy failed: de la Cruz won with 61% in 2024, a substantial improvement over her 2022 margin, suggesting the seat is becoming less competitive rather than more.
+
+The Republican Jewish Coalition, AIPAC, and National Right to Life donors form de la Cruz's social conservative coalition. The pro-Israel giving is standard for Republicans on Foreign Affairs committee. The NRTL giving is consistent with her South Texas Catholic constituency and her voting record on reproductive legislation. The donor map here is unusually coherent: the conservative social values and the conservative economic votes are aligned with both the constituency and the donor coalition.
+
+---
+
+## Analytical Patterns
+
+**Pilot Program (Latino Realignment).** TX-15 is the most explicit test of the Republican Latino realignment hypothesis. A conservative Latina running on border security in an 85%-Hispanic border district, flipping a seat that was reliably Democratic. The national conservative infrastructure invested $1.4M+ in her because the thesis needs proof of concept in a Hispanic-majority district to be credible nationally. De la Cruz's 2024 improvement (61% win) strengthens the case. The pilot is not just about her seat. It is about whether the Republican party can maintain a competitive electoral coalition with demographic change.
+
+**Donor-Class Override (minimal).** De la Cruz is one of the few politicians in this vault where the donor-class override pressure appears genuinely minimal. Her voters chose a border-security conservative. Her donor coalition supports a border-security conservative. Her voting record is a border-security conservative's record. The override question is whether the AFP Action and Fairshake investments eventually produce specific legislative requests that diverge from TX-15 constituent interests (crypto deregulation, Koch-network deregulation of labor and environmental standards). Those tests have not yet produced visible divergence in the voting record.
+
+**Two-Audience Problem (mild).** De la Cruz's public messaging emphasizes border security, anti-communism (targeting Venezuelan and Cuban refugee community narratives), and economic empowerment. Her donor messaging emphasizes the Latino realignment proof of concept and the competitive House seat. Both messages are honest about different things. The potential divergence is on economic policy: if a Koch-network fiscal agenda requires cuts to Medicaid or SNAP that disproportionately harm Hidalgo County, the two audiences' interests diverge. The 96.4% loyalty means de la Cruz votes for the Republican fiscal framework when it comes to the floor.
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
