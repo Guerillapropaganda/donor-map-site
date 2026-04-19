@@ -25,6 +25,8 @@ interface AskResponse {
   question: string
   intent: string
   resolved_title?: string | null
+  resolved_title_2?: string | null
+  did_you_mean?: string[]
   total: number
   rows: Row[]
   summary?: string
@@ -34,6 +36,14 @@ interface AskResponse {
 
 const EXAMPLES = [
   "who funds marble freedom trust",
+  "tell me about leonard leo",
+  "elon musk funds donald trump",
+  "does marble freedom trust fund the 85 fund",
+  "money chain from fidelity investments to america votes",
+  "top donors",
+  "top super pacs",
+  "top politicians",
+  "top dafs",
   "where does fidelity charitable's money go",
   "top donors to kamala harris",
   "what boards is leonard leo on",
@@ -183,7 +193,15 @@ function ResultCard({ r }: { r: AskResponse }) {
       <div style={styles.cardHead}>
         <div style={styles.cardLabel}>{r.intent.replace(/_/g, " ").toUpperCase()}</div>
         {r.resolved_title && r.resolved_title !== r.question && (
-          <div style={styles.resolved}>resolved to: <strong>{r.resolved_title}</strong></div>
+          <div style={styles.resolved}>
+            resolved to: <strong>{r.resolved_title}</strong>
+            {r.resolved_title_2 ? <> + <strong>{r.resolved_title_2}</strong></> : null}
+          </div>
+        )}
+        {r.did_you_mean && r.did_you_mean.length > 0 && (
+          <div style={styles.resolved}>
+            did you mean: {r.did_you_mean.slice(0, 5).join(" · ")}
+          </div>
         )}
         {r.summary && <div style={styles.summary}>{r.summary}</div>}
         {r.note && <div style={styles.note}>{r.note}</div>}
