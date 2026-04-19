@@ -1,8 +1,10 @@
 ---
 title: Adam Gray
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Adam Gray is the CA-13 Blue Dog Democrat in California's most expensive swing district, where $15.7M in Republican super-PAC opposition (Congressional Leadership Fund $12.3M + NRCC $3.0M) is the largest anti-Democrat outside-spending total in this vault's cohort; his 82.3% party-line loyalty (80 deviations in 485 votes) is the lowest in the vault, reflecting the Blue Dog strategy of consistent Republican cross-voting in a Central Valley district where a Democrat cannot survive on base-alone turnout, and the National Association of Realtors Congressional Fund's $938K FOR investment plus California Real Estate PAC's $304K reflects the Realtors' calculation that a centrist Democrat holding this seat is worth maximum outside spending."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -145,4 +147,79 @@ top-donors: "[[Amgen Inc]], [[Julia Brownley]], [[Nancy Pelosi]], [[Robert Garci
 
 # Adam Gray
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Adam Gray. Democrat, California-13 (Merced, Turlock, and the Central Valley agriculture corridor). Member of the Blue Dog Coalition and the New Democrat Coalition. California state assemblyman (2012-2022) before Congress. Born September 1977. 485 roll-call votes tracked (119th Congress only). Voting record: 82.3% party-line loyalty across 453 substantive votes, 80 deviations. CA-13 is the Republican Party's most heavily targeted California swing district, drawing $15.7M in Republican super-PAC opposition spending across Gray's competitive races.
+
+---
+
+## The Central Thesis
+
+Gray is the CA-13 Blue Dog Democrat in California's most expensive swing district. The $15.7M in Republican super-PAC opposition spending against him (Congressional Leadership Fund $12.3M + NRCC $3.0M) is the largest anti-Democrat outside-spending total in this vault's current cohort. The Democrats and outside allies responded with $4.4M in FOR super-PAC support, led by the National Association of Realtors Congressional Fund ($938K) and California Real Estate PAC ($304K). His 82.3% party-line loyalty with 80 deviations in 485 votes is the vault's lowest for a current House member, reflecting a Blue Dog strategy of consistent Republican cross-voting in a district with a large agricultural and moderate white working-class population where Democratic base turnout alone cannot hold the seat. The direct PAC record confirms the centrist positioning: AmeriPAC ($55K, New Democrat Coalition), New Democrat Coalition Action Fund ($30K), and Blue Dog PAC ($25K) are three of the top eight lifetime donors. The Western Pistachio Association PAC ($24K/8 txns) is the vault's most visible Central Valley agricultural constituency entry.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Gray is a member of the Blue Dog Coalition, the most conservative House Democratic caucus, whose founding premise is that Democrats must moderate their positions to hold swing districts. The voting record matches the brand: 80 deviations in 485 votes, all visible in the top-10 deviation list as Yea votes when Democrats voted Nay, meaning Gray votes for Republican-led bills the Democratic caucus opposes. He has voted Yea with Republicans on HR 6398, HR 6409, HR 7084, HR 5103, HR 4638, HR 1958, HR 556, HR 4626, HR 2189, and HR 261 in the 119th Congress alone. The National Association of Realtors spent $938K FOR Gray plus California Real Estate PAC spent $304K, a combined $1.24M in Realtor outside money for a Blue Dog Democrat. The NAR does not spend $1.24M because of Gray's agricultural credentials; it spends because a centrist Democrat who votes with Republicans is a more reliable vote for housing finance deregulation, capital gains treatment, and real estate-sector tax provisions than a progressive alternative would be. The Blue Dog brand markets itself to voters as independence from party orthodoxy; the Realtor investment reveals whose independence is being purchased.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $2.2M
+- Party committee support: $190K (DCCC support for a targeted seat)
+- Super-PAC IE support (FOR): $4.4M (NAR Congressional Fund $938K, HMP $823K, SOMOS PAC $503K, Lucete Leadership Fund $402K, CA Real Estate PAC $304K)
+- Super-PAC IE opposition (AGAINST): $15.7M (Congressional Leadership Fund $12.3M, NRCC $3.0M, AFP Action $46K, Spirit of America PAC $174K)
+
+### Top direct PAC donors (lifetime): centrist-Democrat infrastructure
+
+**Centrist caucus signals:**
+- **AmeriPAC (Steny Hoyer's PAC)**: $55K across 16 transactions (New Democrat Coalition access; highest lifetime donor)
+- **New Democrat Coalition Action Fund**: $30K across 15 transactions (centrist Democratic caucus)
+- **Blue Dog PAC**: $25K across 10 transactions (most conservative House Democratic caucus; direct affiliation)
+
+**Other leadership PACs:**
+- **Fair Shot PAC**: $37K across 10 transactions
+- **Jobs, Education and Families First PAC**: $35K across 7 transactions
+- **Defend the Dream**: $30K across 9 transactions
+- **PAC to the Future**: $25K across 5 transactions (Nancy Pelosi's leadership PAC)
+
+**Labor and constituency:**
+- **Sheet Metal Workers**: $25K across 7 transactions
+- **National Union of Healthcare Workers**: $24K across 5 transactions
+- **Western Pistachio Association PAC**: $24K across 8 transactions (Central Valley agriculture; pistachios are a major CA-13 export crop)
+
+### Super-PAC outside spending context
+
+The data panel reflects full relationship amounts including opposition:
+- **Congressional Leadership Fund** ($12.3M): Republican super-PAC opposition
+- **NRCC** ($3.0M): Republican party opposition
+- **NAR Congressional Fund** ($1.07M as combined relationship): Realtor FOR support
+- **HMP** ($842K): pro-Gray outside spending
+
+> [!money]
+> **The $15.7M Republican targeting investment.** The Congressional Leadership Fund and NRCC spent a combined $15.3M against Adam Gray in his competitive races. This is not a measure of Gray's vulnerability as an individual; it reflects the California Central Valley's status as one of the small number of genuinely competitive House districts in an otherwise solid-blue state. Republicans spent to take this seat because it is one of their few realistic pickup opportunities in California. The scale of the opposition spending also explains the Realtors' FOR investment: at $938K from NAR Congressional Fund plus $304K from California Real Estate PAC, the Realtors are making the calculation that a centrist Democrat who can survive in this seat with Blue Dog positioning is a better long-term investment than either a progressive Democrat (who might lose to a Republican) or a Republican (who would be harder to access on housing finance issues than a Blue Dog). The Realtor money is a structural defense of the centrist-Democrat presence in a swing-district seat.
+
+---
+
+## Class Analysis
+
+Gray's record is the vault's clearest example of the swing-district Blue Dog architecture. Three of his top eight lifetime direct PAC donors are explicitly centrist-Democrat institutional entities: AmeriPAC (Steny Hoyer's New Democrat vehicle), New Democrat Coalition Action Fund, and Blue Dog PAC. These are not generic leadership PAC giving; they are the specific institutional support networks that exist to fund House Democrats willing to take Republican cross-votes in competitive districts. The Blue Dog PAC does not fund progressive Democrats. Its giving to Gray is institutional confirmation that his centrist positioning is recognized and rewarded by the House Democratic establishment's moderate wing.
+
+The 82.3% party-line loyalty rate is the vault's lowest. Contextualized against the 119th Congress coverage only (Gray's prior House experience, if any, is not in the voting record), the 80 deviations in 485 votes represent a 16.5% crossover rate. Every visible deviation in the top-10 list is a rightward break: Yea when Democrats voted Nay, consistently, through 2025 and 2026. This is not a member who occasionally sides with Republicans on specific principled issues; this is a member whose vote-signaling strategy is systematic cross-voting to maintain centrist credibility in a district where a Democrat cannot win on base turnout alone.
+
+The Western Pistachio Association PAC ($24K/8 txns) is the clearest genuine constituency entry. CA-13's Central Valley agriculture sector includes pistachio orchards, almond farms, dairy operations, and field crops. A PAC representing pistachio growers gives to the Central Valley's House member regardless of party because water policy, agricultural subsidies, and labor regulations affect their operations directly. Gray as the Blue Dog who holds the Central Valley seat is more valuable to agricultural interests than a progressive alternative who might be more adversarial on water rights and agricultural labor regulations.
+
+The SOMOS PAC ($503K FOR) reflects CA-13's Latino demographic composition. Central Valley districts have significant Hispanic agricultural worker and farmworker communities. SOMOS PAC's investment in Gray reflects the calculation that a Democrat holding this seat serves Latino constituent interests better than a Republican would, even if Gray's Blue Dog positioning places him closer to the Republican center than the progressive left.
+
+---
+
+## Analytical Patterns
+
+**Two-Audience Problem.** The Blue Dog/New Democrat PAC cluster and the SOMOS PAC/DCCC FOR support reach separate audiences: the centrist Democratic institutional network funds Gray's crossover credibility while the Latino-identity and progressive-party infrastructure funds his base mobilization. Both audiences are necessary to hold CA-13. The 82.3% loyalty rate is the arithmetic result of serving both audiences simultaneously; a higher loyalty rate would lose the moderate crossover voters, and a lower rate would lose the base.
+
+**Donor-Class Override.** The NAR $938K + California Real Estate PAC $304K = $1.24M in Realtor outside money for a Blue Dog Democrat reflects the Realtors' calculation that a centrist Democrat in a swing seat serves their interests better than the alternatives. The Blue Dog positioning on housing finance, Fannie/Freddie oversight, and capital gains is more aligned with Realtor priorities than a progressive alternative would be. The Realtor money is not buying specific votes; it is investing in the preservation of a centrist-Democrat presence that produces a more favorable regulatory environment than a progressive or Republican alternative.
