@@ -2,7 +2,9 @@
 title: Crypto Industry Bloc
 type: corporation
 content-readiness: draft
-last-updated: 2026-04-16
+central-thesis: "The crypto industry bought a regulatory framework from scratch in a single election cycle, then purchased the president and his family as direct business partners, erasing the distinction between the industry it lobbies and the government that regulates it."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] Wrote Central Thesis, filled formal Class Analysis (4 paragraphs), added Analytical Patterns. Profile stays at draft pending LDA pipeline reenrichment (LDA domain migration gap until June 2026 sunset per CLAUDE.md). Editorial is ready-tier; data gap only."
 source-tier: 1
 parent: null
 sector: Tech & Crypto
@@ -67,6 +69,12 @@ urls-first-triaged: "2026-04-15"
 The cryptocurrency industry as a political donor bloc. Led by [[Fairshake PAC|Fairshake PAC]], a super PAC funded primarily by four companies (Coinbase, [[Marc Andreessen & Horowitz|Andreessen Horowitz]]/a16z, Ripple Labs, Jump Crypto) that spent $195 million in the 2024 cycle with a 91% win rate across 58 targeted races. 274 pro-crypto candidates elected to the House. 20 to the Senate. $18 million+ to Trump's inaugural fund. An additional $7.5 million in crypto donations to Trump's PAC directly.
 
 This is not a traditional industry lobbying operation. It is a new class of capital, digital asset companies and venture capital firms, purchasing its own regulatory framework from scratch. The crypto industry did not need to roll back existing regulation (like fossil fuel). It needed to prevent regulation from being created in the first place, and then install friendly regulators in the positions that matter. They succeeded.
+
+---
+
+## The Central Thesis
+
+The crypto industry bought a regulatory framework from scratch in a single election cycle. Fairshake PAC spent $195 million across 58 targeted races, won 54 of them, and elected a Congress in which 274 House members and 20 senators owe their seats to crypto money. The industry then purchased Trump's inaugural fund, purchased the installation of Paul Atkins at SEC to replace Gary Gensler, and purchased the president himself as a direct business partner through World Liberty Financial and the $TRUMP meme coin. The structural innovation is not regulatory capture in the old sense, which implies a government that was once independent. It is regulatory origination: writing the rules at the moment they are created, while simultaneously merging the regulator and the regulated into a single economic entity.
 
 ---
 
@@ -208,13 +216,29 @@ The crypto industry didn't just buy elections, it built a permanent political op
 
 ## Class Analysis
 
-<!-- RESEARCH CLAUDE: Draft the class analysis section here.
-     Anchor on contracts, lobbying, and politicians funded. Focus on:
-     1. What state function this corp captures (defense, surveillance, carceral, pharma regulation, etc.)
-     2. The revolving door , board members cycling through government
-     3. Material interest in maintaining current policy
-     4. How class position shapes lobbying priorities
-     Remove this comment block when done. ~300-500 words. -->
+The crypto industry represents a new capital type in American politics. It is not extractive capital like fossil fuel, not industrial capital like Koch or Uihlein, not tech-platform capital like Meta or Google. It is synthetic-asset capital: wealth generated from the issuance, trading, and custody of digital tokens whose value is underwritten by the regulatory framework the industry is simultaneously purchasing. That distinction matters because the class interest is existential. Koch Industries can survive unfavorable EPA rules. Uline can survive a pro-union NLRB. A crypto exchange cannot survive an SEC that classifies its tokens as unregistered securities, because the enforcement action retroactively voids the product. The industry therefore does not lobby for marginal policy concessions. It lobbies for the continued legal existence of its business model.
+
+Four companies produced 95% of Fairshake's funding: Coinbase ($75M+), Andreessen Horowitz ($70M), Ripple ($50M), and Jump Crypto. That concentration is the key class fact. The political operation is not an industry coalition in the trade-association sense. It is a four-firm cartel that writes checks to a single super PAC, which then enforces discipline across both parties through the bipartisan affiliate structure (Protect Progress on the Democratic side, Defend American Jobs on the Republican). The affiliate structure is what makes the operation resistant to partisan swings. A Republican crypto-skeptic and a Democratic crypto-skeptic both face Fairshake-funded primaries. Partisan rotation does not produce regulatory rotation because both parties have been made structurally dependent on the same four funders.
+
+The Trump-family financial integration is the systemic innovation. World Liberty Financial generated $1.2 billion for the Trump family in 16 months. The UAE purchased a 49% stake for $500 million, with $187 million routed directly to Trump family entities four days before inauguration. The $TRUMP meme coin reserved 800 million of one billion tokens for Trump-family wallets. The Strategic Bitcoin Reserve, created by executive order in March 2025, established a federal policy commitment to hold Bitcoin on the US balance sheet, which raises the floor price on every Bitcoin position held by the industry and by the president personally. The donor class and the regulating class are no longer separable entities engaged in a lobbying relationship. They are joint owners of the same asset pool. This is the endpoint that traditional regulatory capture theory did not anticipate: the captured official is a direct equity holder in the capturing industry.
+
+The industry's legislative output so far, the GENIUS Act (stablecoin framework, signed July 2025) and the pending FIT21 (shifting regulation from SEC to CFTC), demonstrates the return on investment. Stablecoin legalization legitimized the Trump family's USD1 stablecoin ($5 billion in circulation by February 2026). The SEC-to-CFTC shift moves jurisdictional authority from an agency with enforcement history to an agency with a fraction of the budget and a more industry-friendly commissioner structure. The mechanism is not secret or disguised. The industry spent $25M+ annually on lobbying, produced 44% of all corporate election money in 2024, and the policy outputs arrived on schedule. The class analysis is almost boring in its directness: concentrated money purchased concentrated policy, and the concentration of both sides of the transaction in the same handful of wallets is what makes this the defining corruption case of the 2020s.
+
+## Analytical Patterns
+
+**Both-Sides Illusion.** Fairshake's affiliate structure (Protect Progress on the Democratic side, Defend American Jobs on the Republican) is the clearest operational example of the pattern in American politics. The same four funders (Coinbase, a16z, Ripple, Jump) route money to both parties through nominally separate PACs, discipline both parties' primary fields, and ensure that partisan rotation cannot produce regulatory rotation. Politicians who appear to be on opposite sides of the aisle on other issues converge on crypto deregulation because they share a funder.
+
+**Donor-Class Override.** Public polling on crypto regulation is mixed at best, but on specific questions (should the president be personally profiting from a crypto venture while deregulating crypto, for example) public opposition is overwhelming. The administration's crypto agenda proceeds anyway because the funders who benefit from the agenda are concentrated enough to fund the primary discipline that keeps it moving.
+
+**Revolving Door.** Commerce Secretary Howard Lutnick came from Cantor Fitzgerald, Tether's primary custodian. Fellowship PAC's treasurer, Mitchell Nobel, directs digital-assets strategy at Cantor Fitzgerald. SEC Chair Paul Atkins had worked extensively with digital asset firms before confirmation. The pipeline is not informal. It is the staffing model.
+
+**Self-Funding as Independence.** Brian Armstrong, Marc Andreessen, and Ben Horowitz present their political giving as a defense against "anti-innovation" regulators, not as self-interested lobbying. The framing converts a $70 million political investment into a heroic free-speech act. The actual content of the investment is a business-model-preservation insurance premium.
+
+**Villain Framing.** The crypto industry's political messaging casts Elizabeth Warren, Gary Gensler, and "the SEC" as the villains threatening innovation. This redirects attention from the structural fact that the industry's political operation is now larger than the regulatory apparatus it opposes, and that the villains it names are among the few remaining institutional checks on the Trump-family financial integration.
+
+**Pilot Program.** The Strategic Bitcoin Reserve, established by executive order in March 2025, is functionally a pilot for state treasuries holding crypto as a reserve asset. If the federal reserve succeeds as a political matter, the industry has a template to push at state level. The reserve is marketed as a policy innovation. Its primary effect is to put a federal bid under the price of Bitcoin, which benefits every Bitcoin holder including the Trump family.
+
+---
 
 ### Sources
 
