@@ -1,8 +1,9 @@
 ---
 title: Adriano Espaillat
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Adriano Espaillat is the Dominican-born NY-13 member whose $2.0M lifetime direct PAC total is overwhelmingly labor-coalition money anchored by the Transit Workers Union ($72K/21 txns), reflecting a district whose working-class residents depend on subway and bus service; the Realtors PAC ($39K/19 txns) is the access anomaly in a district with one of New York City's most active tenant-advocacy communities, and the Fanjul Family (Florida Crystals sugar billionaires, $17.6K in data panel) is the out-of-constituency billionaire agricultural access payment that requires explanation."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -23,6 +24,7 @@ known-gaps:
   - No voting record
   - No mapped relationships
 urls-first-triaged: "2026-04-15"
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 fec-candidate-id: H2NY13096
 bills-sponsored: 59
 bills-cosponsored: 555
@@ -140,7 +142,87 @@ top-donors: "[[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[Gi
 
 # Adriano Espaillat
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Adriano Espaillat. Democrat, New York-13 (Northern Manhattan: Washington Heights, Inwood, West Harlem, East Harlem, Marble Hill; parts of the Bronx). First elected 2016, succeeding Charles Rangel after 46 years in the seat. The first Dominican-born member of Congress. Born September 1954 in Santiago, Dominican Republic; came to the United States at age nine. Queens College graduate; New York State Assembly (1997-2010), New York State Senate (2010-2016). 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.6% party-line loyalty across 1,706 substantive votes, 41 deviations. NY-13 is one of the safest Democratic districts in the country; no Republican competitive pressure.
+
+---
+
+## The Central Thesis
+
+Espaillat is the Dominican-born NY-13 member whose $2.0M lifetime direct PAC total is overwhelmingly labor-coalition money anchored by the Transit Workers Union ($72K/21 txns), reflecting a district whose working-class residents depend on subway and bus service. The labor-coalition structure is textbook urban progressive: TWU, Machinists, AFT, AFSCME, SEIU, Laborers, NEA, Trial Lawyers all in the top ten, a near-complete map of the public and private sector unions that built the New York City Democratic machine. The CHC Bold PAC ($45K/10 txns) is the Congressional Hispanic Caucus directing resources to its first Dominican-born member. The Realtors PAC ($39K/19 txns) is the access anomaly: direct giving to a member representing a district with some of New York's most active tenant-rights advocacy. The Fanjul Family (Florida Crystals sugar billionaires, $17.6K in the data panel) is the out-of-constituency billionaire agricultural access payment that sits entirely outside this member's legislative lane.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Espaillat represents Washington Heights and East Harlem, two of New York City's most rent-burdened and tenant-organizing neighborhoods. His district has some of the highest rates of rent-stabilized housing in Manhattan and a long history of tenant-protection advocacy. The Realtors Political Action Committee gave Espaillat $39K across 19 transactions. The National Association of Realtors is the organization that lobbies against rent control, against tenant protections, and for capital gains treatment on property sales. The Realtors do not share Espaillat's constituents' housing interests. They give $39K across 19 transactions to maintain access to a member who sits in a position to affect housing finance policy. The AIPAC $26K in the data panel is a second anomaly: NY-13 has a large Latino and immigrant population but a small Jewish constituency relative to other New York districts where AIPAC concentrates its giving. The AIPAC entry reflects the organization's district-agnostic national strategy of maintaining access to every House member regardless of constituency composition.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $2.0M (modest for a nine-term New York member; reflects safe district with low competitive pressure on fundraising)
+- Super-PAC IE support (FOR): $96K (Latino Victory Fund $60K dominant; constituency-identity giving, not access money)
+- Super-PAC IE opposition (AGAINST): $0 recorded
+
+### Top direct PAC donors (lifetime): the labor coalition
+
+**Transit and transport:**
+- **Transport Workers Union**: $72K across 21 transactions (vault's highest-transaction entry for Espaillat; NY-13 is heavily transit-dependent; TWU represents NYC subway and bus workers)
+- **Machinists (IAM)**: $70K across 14 transactions
+
+**Public sector and services:**
+- **AFT (American Federation of Teachers)**: $50K across 11 transactions
+- **AFSCME**: $47K across 20 transactions
+- **SEIU**: $45K across 12 transactions
+- **NEA**: $37K across 12 transactions
+
+**Caucus and identity:**
+- **CHC Bold PAC**: $45K across 10 transactions (Congressional Hispanic Caucus PAC investing in its first Dominican-born member)
+
+**Building trades and construction:**
+- **Laborers (LIUNA)**: $39K across 11 transactions
+
+**Legal:**
+- **Trial Lawyers (ATLA)**: $36K across 16 transactions
+
+**Real estate access:**
+- **Realtors PAC**: $39K across 19 transactions (access anomaly; see contradiction section)
+
+### Data-panel top donors
+
+- **AFSCME**: $27.5K (highest in panel)
+- **AIPAC**: $26K (district-agnostic national strategy; NY-13 has small Jewish constituency relative to other NY districts)
+- **NAR**: $22K (Realtors combined)
+- **SEIU COPE**: $20K
+- **Fanjul Family (Florida Crystals)**: $17.6K (sugar industry billionaires; out-of-constituency)
+
+> [!money]
+> **The Fanjul Family access payment.** The Fanjul family controls Florida Crystals, one of the largest sugar producers in the United States, and the American Crystal Sugar company. They give to both parties across the country, including to progressive urban House members with no connection to agricultural policy. Their $17.6K to Espaillat reflects the sugar industry's standard practice of maintaining a small access payment to every member of the Congressional Hispanic Caucus, because CHC members can affect Latino agricultural worker protections, sugar import tariffs, and food policy through the Farm Bill. There is no constituency rationale: NY-13 grows no sugar. The Fanjul family gives because the CHC caucus votes matter for their agricultural policy agenda.
+
+---
+
+## Class Analysis
+
+Espaillat's $2.0M lifetime direct PAC total is the cleanest labor-coalition map in the current House Democratic cohort examined in this vault. Eight of the top ten lifetime donors are unions: TWU, IAM, AFT, AFSCME, SEIU, Laborers, NEA, Trial Lawyers. The two outliers are CHC Bold PAC (institutional caucus investment, not access money) and the Realtors PAC (access money that cuts against the district's tenant-organizing tradition). The labor-coalition dominance reflects the structural reality of NY-13: Washington Heights, Inwood, and East Harlem are heavily union-member districts where the Democratic machine was built on labor organizing, and maintaining those union relationships is both electoral necessity and constituent service. TWU's 21 transactions is the highest in Espaillat's file, and the reason is straightforward: NY-13 residents ride the subway to work. An MTA labor dispute affects his constituents directly. TWU is not buying committee access; they are investing in the member who represents their workers' neighborhoods.
+
+The CHC Bold PAC entry ($45K/10 txns) is the vault's clearest example of caucus-directed investment in identity-representation: the Hispanic Caucus directing resources to its most historically significant member. The first Dominican-born member of Congress is a symbolic and electoral asset for the CHC, and the PAC investment reflects that calculation. This is institutional Democratic-party money functioning as identity investment rather than policy-access money.
+
+The Realtors PAC ($39K/19 txns) and AIPAC ($26K data panel) break the constituency pattern. Realtors giving to an East Harlem/Washington Heights member is the national organization maintaining access to every Housing-adjacent Democrat regardless of district character. Espaillat's constituents are renters. The Realtors represent landlords and sellers. The access payment maintains a relationship that may matter during housing finance legislation regardless of whose interests are served. AIPAC's giving reflects the same district-agnostic strategy visible across the vault: give to every Democrat, maintain access, build relationships before they matter. NY-13's constituency composition does not determine AIPAC's investment calculus.
+
+The 41 deviations at 97.6% loyalty over 1,706 substantive votes include a Yea on S 1582 (July 2025) when the Democratic majority voted Nay, the same deviation seen in Blunt Rochester and several others in this session, suggesting a possible alignment on crypto or stablecoin legislation. The HJRES 25 Yea (March 2025, Dems voted Nay) is not identifiable from the available data. The Nay deviations in 119th Congress (HR 7148, HR 7006, HRES 893, S 1071) suggest occasional leftward breaks from a caucus majority that moved right on specific procedural or security votes.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** Espaillat's labor-coalition donor map produces real constituency alignment: transit workers, teachers, public sector employees, and construction workers are genuinely represented in NY-13 and in his donor file. The labor money is constituency-service money in the clearest sense. The structural limit is the Realtors PAC and AIPAC access payments, which operate outside the constituency logic and reflect national organizations maintaining access regardless of local fit. The access money does not dominate the record ($39K + $26K out of $2.0M total); it exists at the margin while the labor coalition does the structural work.
+
+**Both-Sides Illusion.** The data panel shows AIPAC ($26K) and DMFI (Democratic Majority for Israel) in Espaillat's top-donors, alongside League of Conservation Voters, Planned Parenthood, and Open Society Foundations. Espaillat's voting record (41 deviations including leftward Nay breaks) and his district's demographics (heavily immigrant, working-class, Latino and Black) align more closely with the progressive-coalition donors than the pro-Israel access donors. The AIPAC and DMFI entries reflect national organizations building cross-caucus access portfolios, not Espaillat's policy priorities.
 
 
 ### Legislative Activity (118th Congress)
