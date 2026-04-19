@@ -1,8 +1,10 @@
 ---
 title: Diana Degette
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Diana DeGette is the 28-year Denver Energy and Commerce Committee Democrat whose $8.5M lifetime direct PAC reflects three distinct access tiers: labor coalition (Trial Lawyers $159K/59 txns, IBEW $155K/41 txns, CWA $115K/39 txns, AFSCME $98K/48 txns), Energy and Commerce committee-tribute (National Cable Television Association $127K/46 txns, Abbott Laboratories $89K/31 txns), and the vault's most puzzling outlier (American Podiatric Medical Association $118K/48 txns, which reflects Medicare physician-payment jurisdiction rather than any Colorado podiatry constituency)."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -139,9 +141,91 @@ top-donors: "[[Care Action]], [[Google - Alphabet]], [[National Association of R
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
-# Diana Degette
+# Diana DeGette
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Diana DeGette. Democrat, Colorado-1 (Denver and immediate suburbs). First elected 1996. One of the longest-serving House Democrats from Colorado, in Congress for 28 years. Born July 1957 in Tachikawa, Japan (US military base). University of Colorado and University of Denver School of Law graduate; Colorado state legislature before Congress. Member of the House Energy and Commerce Committee; formerly Co-Chair of the House Pro-Choice Caucus. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 98.0% party-line loyalty across 1,709 substantive votes, 35 deviations. CO-1 is a safe Democratic district; no competitive pressure.
+
+---
+
+## The Central Thesis
+
+DeGette is the 28-year Denver Energy and Commerce Committee Democrat whose $8.5M lifetime direct PAC reflects three structurally distinct access tiers across nearly three decades. The labor coalition provides the foundation: Trial Lawyers ($159K/59 txns, the vault's highest transaction count for this donor type), IBEW ($155K/41 txns), CWA ($115K/39 txns), AFSCME ($98K/48 txns), Carpenters ($93K/25 txns), SEIU ($79K/23 txns). The Energy and Commerce committee-tribute tier sits above the labor base: the National Cable Television Association's Cable PAC ($127K/46 txns) gives because DeGette votes on cable and broadband regulation; Abbott Laboratories ($89K/31 txns) gives because Energy and Commerce oversees FDA and pharmaceutical regulation. The third tier is the anomaly: the American Podiatric Medical Association ($118K/48 txns) is not a Colorado constituency; it is the podiatry profession maintaining sustained access to the committee member who affects Medicare physician payment rates for podiatric services.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> DeGette has been one of the House's most consistent pro-choice advocates for 28 years: she co-chaired the Pro-Choice Caucus, sponsors reproductive rights legislation, and cosponsors the Colorado Wilderness Act and public lands bills. The National Cable Television Association gave her $127K across 46 transactions across 28 years. The NCTA's Cable PAC is the lobbying arm of the cable industry, which has consistently fought net neutrality, broadband regulation, and consumer protections on cable pricing that progressive Democrats champion. DeGette has legislative authority over cable regulation through Energy and Commerce. The cable industry does not give to Denver's most progressive veteran because they agree with her on reproductive rights; they give because she sits on the committee that determines whether cable companies face price regulation, net neutrality mandates, or franchise fee structures. The Realtors PAC ($123K/58 txns) adds the second access relationship in a member who has no housing-finance jurisdiction rationale from Denver's safe Democratic seat. Both donors reflect sustained committee-access investment across nearly three decades.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $8.5M (28-year accumulation; safe seat with no competitive fundraising pressure)
+- Party committee support: $4K (trivially small; no competitive demand)
+- Super-PAC IE support (FOR): $15K (nominal; safe seat)
+- Super-PAC IE opposition (AGAINST): $0 recorded
+
+### Top direct PAC donors (lifetime): three-tier access map
+
+**Labor coalition:**
+- **Trial Lawyers (ATLA)**: $159K across 59 transactions (vault's highest per-donor transaction count for this donor; 2.1 per year for 28 years)
+- **IBEW**: $155K across 41 transactions
+- **CWA**: $115K across 39 transactions (Energy and Commerce has telecom jurisdiction; labor-access intersection)
+- **AFSCME**: $98K across 48 transactions
+- **Carpenters**: $93K across 25 transactions
+- **SEIU**: $79K across 23 transactions
+
+**Energy and Commerce committee tribute:**
+- **National Cable Television Association (Cable PAC)**: $127K across 46 transactions (direct cable/broadband regulatory access; no Colorado cable company constituency basis)
+- **Abbott Laboratories Better Government Fund**: $89K across 31 transactions (pharmaceutical access; Energy and Commerce FDA jurisdiction)
+
+**Medicare-payment access:**
+- **Realtors PAC**: $123K across 58 transactions (58 transactions across 28 years = 2.1 per year; committee access)
+- **American Podiatric Medical Association PAC**: $118K across 48 transactions (Medicare physician payment access; no Denver podiatry constituency rationale)
+
+### Data-panel top donors
+
+- **AFSCME**: $22.5K
+- **IBEW**: $20K
+- **NAR**: $19K
+- **AT&T**: $19K (Energy and Commerce telecom access)
+- **Teamsters**: $18.1K
+- **Johnson and Johnson**: $17.5K (pharma; Energy and Commerce access)
+- **SEIU**: $15K
+- **UA Plumbers**: $15K
+- **Google**: $13.7K
+- **Orthopaedic Surgeons PAC**: $12.5K (Medicare physician payment access)
+
+> [!money]
+> **The Podiatric Medical Association $118K anomaly.** The American Podiatric Medical Association's PAC gave Diana DeGette $118K across 48 transactions, making podiatrists the fifth-highest lifetime donor in her file. There is no Denver podiatry constituency rationale: CO-1 has no unusual concentration of podiatric practices or foot-care industry. The APMAPAC gives to Energy and Commerce Committee members because the committee holds jurisdiction over Medicare physician payment policies, including the Relative Value Scale Update Committee (RUC) process that determines Medicare reimbursement rates for podiatric procedures. Podiatrists depend on Medicare coverage of foot care for diabetic patients and orthopedic conditions; their payment rates are determined by the committee DeGette serves on. The $118K/48 txns over 28 years reflects a sustained access relationship that operates entirely at the committee-jurisdiction level with no constituency-service dimension.
+
+---
+
+## Class Analysis
+
+DeGette's $8.5M record is the cleanest example of long-tenure committee-access compounding in this vault's House Democrat cohort. Twenty-eight years on Energy and Commerce produces three distinct access-donor pools. The labor coalition (Trial Lawyers, IBEW, CWA, AFSCME, Carpenters, SEIU) reflects both Denver constituency relationships and Energy and Commerce labor-adjacent jurisdiction. The industry access pool (Cable PAC, Abbott, Realtors) reflects the committee's regulatory reach across cable/broadband, pharmaceuticals, and financial products. The physician-payment pool (Podiatry, Orthopaedic Surgeons) reflects the committee's Medicare and health care jurisdiction.
+
+The Cable PAC $127K/46 txns is the most structurally significant access entry. The National Cable Television Association has given to DeGette at 1.6 transactions per year for 28 years, maintaining a relationship across every major cable regulatory cycle: the 1996 Telecommunications Act, net neutrality debates, broadband access fights, and streaming regulation. DeGette has historically been involved in these fights on the Democratic side of the committee. The cable industry does not agree with her consumer-protection positions; they maintain the access relationship regardless, because the alternative (losing access to a senior Energy and Commerce Democrat) is worse than the cost of the PAC contribution.
+
+Abbott Laboratories ($89K/31 txns) reflects Energy and Commerce pharmaceutical jurisdiction: FDA approval processes, drug pricing legislation, and Medicare Part D structure all pass through the committee. Abbott is a major pharmaceutical company with cardiovascular, diabetes, and diagnostics products subject to FDA regulation. Their PAC giving to DeGette across 31 transactions reflects sustained access to the committee process that determines their regulatory environment.
+
+The 35 deviations at 98.0% loyalty include consistent leftward Nay breaks: HR 7148, S 1071, HRES 537, S 331, HR 2483, HR 8333, all when the Democratic majority voted Aye. Several of these are Israel-related resolutions where DeGette broke left from the caucus majority. J Street is in her top-donors list; the deviation pattern suggests genuine independent positioning on Israel-Palestine policy rather than the AIPAC-aligned center.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** DeGette's 28-year advocacy record on reproductive rights, public lands (Colorado Wilderness Act), and consumer protection is real. The structural limit is the cable and pharmaceutical committee-tribute that flows regardless of her consumer-advocacy positions. The Cable PAC does not give because they agree with net neutrality; they give because losing access to a senior Energy and Commerce Democrat is more costly than the access payment. The consumer advocate and the cable access payment operate in parallel without canceling each other out.
+
+**Revolving Door (committee capture pattern).** The Podiatric Medical Association's $118K/48 txns is the vault's clearest case of pure committee-access giving: the donor has no constituency relationship with the member, no geographic overlap, and no issue-advocacy alignment. The PAC gives solely because the member has Medicare-payment jurisdiction. This is the committee-access mechanism in its most naked form: industry without any voter constituency in a member's district maintains a 28-year access relationship purely through committee jurisdiction.
+
+**Pilot Program (personal-bill pattern).** The Colorado Wilderness Act (HR 9400) and PREVENT DIABETES Act and protecting Front Line Multimission Hospitals Act in the recent bill list reflect a member sponsoring targeted constituency legislation while the committee-access donor pool maintains the broader regulatory access relationship. The legislating pattern: safe-seat members sponsor district-specific bills while committee access money flows through industry relationships that have nothing to do with those district bills.
 
 
 ### Legislative Activity (118th Congress)
