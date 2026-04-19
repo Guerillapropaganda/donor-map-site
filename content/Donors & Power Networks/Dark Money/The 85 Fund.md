@@ -234,13 +234,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Freedom Foundation | $640K | 1 | 2022 |
 | Center for Law and Policy | $550K | 2 | 2022–2023 |
 
-**Grants received (2018–2024):** $505.6M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $556.5M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | SCHWAB CHARITABLE FUND | $482.6M | 4 | 2021–2024 |
+| Donors Trust Inc | $50.9M | 34 | 2020–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $12.1M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $10.9M | 2 | 2020–2021 |
 | VANGUARD CHARITABLE ENDOWMENT PROGRAM | $25K | 1 | 2023 |

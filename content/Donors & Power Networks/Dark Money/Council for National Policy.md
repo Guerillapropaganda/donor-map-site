@@ -306,12 +306,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $3.5M |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $553K across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $874K across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| Donors Trust Inc | $322K | 5 | 2020–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $184K | 3 | 2020–2023 |
 | Goldman Sachs Philanthropy Fund | $110K | 4 | 2019–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $90K | 2 | 2018–2023 |

@@ -101,7 +101,30 @@ This profile absorbs the following FEC-format committee name(s):
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $2.1M |
+| Total expenses | — |
+| Total assets (EOY) | $8.1M |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $188K across 6 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Appalachian Citizens' Law Center | $77K | 2 | 2021–2022 |
+| Appalachian Voices | $77K | 2 | 2021–2022 |
+| Taxpayers for Common Sense | $19K | 1 | 2019 |
+| Creation Justice Ministries | $5K | 1 | 2020 |
+| Western Colorado Alliance | $5K | 1 | 2020 |
+| Greenfaith Inc | $5K | 1 | 2019 |
 
 **Grants received (2020–2023):** $1.2M across 3 grantors (from other vault orgs' Schedule I records).
 

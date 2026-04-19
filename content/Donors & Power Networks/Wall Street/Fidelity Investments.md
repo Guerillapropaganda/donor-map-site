@@ -311,7 +311,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | CORNELL UNIVERSITY | $150.3M | 6 | 2018–2023 |
 | TRUSTEES OF PRINCETON UNIVERSITY | $148.9M | 113 | 2018–2023 |
 
-**Grants received (2018–2024):** $3.38B across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $3.38B across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -326,6 +326,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Vanguard Charitable Endowment Program | $147.0M | 3 | 2021–2023 |
 | IMPACTASSETSINC | $19.5M | 7 | 2018–2023 |
 | Rule of Law Trust | $9.0M | 1 | 2020 |
+| Donors Trust Inc | $1.6M | 4 | 2022–2024 |
 | Greater Horizons | $846K | 1 | 2024 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $163K | 2 | 2021–2023 |
 

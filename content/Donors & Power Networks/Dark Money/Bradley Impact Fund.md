@@ -206,7 +206,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | LIBERTAS INSTITUTE | $1.7M | 3 | 2022–2024 |
 | BLACK PASTORS UNITED FOR EDUCATION | $1.5M | 1 | 2024 |
 
-**Grants received (2018–2024):** $81.8M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $94.8M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -214,6 +214,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $53.6M | 6 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $25.6M | 1 | 2023 |
+| Donors Trust Inc | $13.0M | 4 | 2022–2024 |
 | SCHWAB CHARITABLE FUND | $1.6M | 5 | 2019–2024 |
 | Vanguard Charitable Endowment Program | $633K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $300K | 1 | 2023 |

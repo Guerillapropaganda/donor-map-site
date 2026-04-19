@@ -52,7 +52,17 @@ contributions-to-committees: 100000
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $405.8M |
+| Grants paid out | — |
 
 **Grants received (2021):** $450K across 1 grantors (from other vault orgs' Schedule I records).
 

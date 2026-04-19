@@ -81,7 +81,38 @@ ofac-programs:
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 5 (2019–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.4M |
+| Total expenses | — |
+| Total assets (EOY) | $3.5M |
+| Grants paid out | $120K |
+
+**Lifetime grants out (2019–2023):** $3.1M across 14 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Clean Future Action Fund | $1.5M | 1 | 2021 |
+| Republican Governors Association | $300K | 3 | 2021–2023 |
+| Senate Leadership Fund | $300K | 1 | 2021 |
+| 1820 PAC | $250K | 1 | 2021 |
+| US Chamber of Commerce | $200K | 2 | 2021–2022 |
+| Security Is Strength PAC | $150K | 1 | 2021 |
+| Conservatives for a Clean Energy Future | $100K | 1 | 2020 |
+| Alaskans for LISA | $100K | 1 | 2022 |
+| Republican Governors Assoc | $100K | 1 | 2019 |
+| Community Leaders of America | $25K | 1 | 2022 |
+| Governing Majority Education Fund | $20K | 1 | 2023 |
+| Conservatives for a Clean | $20K | 1 | 2019 |
+| International Conservation Caucus Foundation | $10K | 1 | 2020 |
+| BCSE Foundation | $5K | 1 | 2021 |
 
 **Grants received (2023):** $200K across 1 grantors (from other vault orgs' Schedule I records).
 

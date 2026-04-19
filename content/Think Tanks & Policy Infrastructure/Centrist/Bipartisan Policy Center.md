@@ -394,7 +394,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL ACADEMY OF SCIENCES | $10K | 1 | 2022 |
 | THE ELIZABETH DOLE FOUNDATION | $10K | 1 | 2022 |
 
-**Grants received (2018–2024):** $22.2M across 13 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $22.3M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -412,6 +412,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | US Chamber of Commerce Foundation | $250K | 2 | 2022–2023 |
 | AMERICAN PETROLEUM INSTITUTE | $150K | 3 | 2018–2020 |
 | THIRD WAY | $100K | 1 | 2020 |
+| Donors Trust Inc | $25K | 1 | 2022 |
 | SIXTEEN THIRTY FUND | $10K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

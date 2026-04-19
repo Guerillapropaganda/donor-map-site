@@ -204,12 +204,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FOUNDATION FOR GOVERNMENT ACCOUNTABILITY | $250K | 1 | 2023 |
 | NATIONAL FAITH ADVISORY BOARD | $100K | 1 | 2023 |
 
-**Grants received (2022–2024):** $8.7M across 8 grantors (from other vault orgs' Schedule I records).
+**Grants received (2022–2024):** $13.4M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| Donors Trust Inc | $4.7M | 8 | 2022–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.6M | 2 | 2022–2023 |
 | GOLDMAN SACHS PHILANTHROPY FUND | $2.5M | 3 | 2022–2024 |
 | SCHWAB CHARITABLE FUND | $1.3M | 3 | 2022–2024 |

@@ -146,7 +146,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | GENESIS 123 FOUNDATION | $218K | 2 | 2018–2019 |
 | MAALE ADUMIM FOUNDATION | $9K | 1 | 2018 |
 
-**Grants received (2018–2024):** $1.9M across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.0M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -157,6 +157,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | BRADLEY IMPACT FUND INC | $100K | 1 | 2022 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $79K | 2 | 2023–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $61K | 2 | 2019–2023 |
+| Donors Trust Inc | $25K | 1 | 2023 |
 | Greater Horizons | $10K | 1 | 2024 |
 | GS DONOR ADVISED PHILANTHROPY FUND | $9K | 1 | 2023 |
 

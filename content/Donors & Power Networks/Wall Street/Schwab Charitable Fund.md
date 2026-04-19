@@ -88,7 +88,7 @@ politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Gri
 | CALIFORNIA INSTITUTE OF TECHNOLOGY | $121.8M | 7 | 2018–2024 |
 | CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS | $120.9M | 4 | 2021–2024 |
 
-**Grants received (2018–2024):** $2.68B across 14 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.68B across 16 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -105,9 +105,11 @@ politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Gri
 | Rule of Law Trust | $43.8M | 3 | 2022–2024 |
 | Greater Horizons | $8.3M | 2 | 2019–2024 |
 | IMPACTASSETSINC | $8.3M | 7 | 2018–2023 |
+| Donors Trust Inc | $2.3M | 1 | 2024 |
 | NEW VENTURE FUND | $505K | 1 | 2018 |
 | MAGA ACTION INC | $400K | 1 | 2023 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $200K | 1 | 2024 |
+| AMERICAN FUTURE FUND | $60K | 1 | 2019 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

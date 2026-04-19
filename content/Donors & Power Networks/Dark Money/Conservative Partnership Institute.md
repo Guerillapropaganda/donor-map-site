@@ -254,12 +254,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Capitol Hill Christian Academy | $30K | 2 | 2023–2024 |
 | Conservative Partnership Initiative | $20K | 2 | 2022–2023 |
 
-**Grants received (2018–2024):** $7.1M across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $9.6M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| Donors Trust Inc | $2.5M | 13 | 2020–2024 |
 | SCHWAB CHARITABLE FUND | $2.2M | 4 | 2021–2024 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.7M | 4 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $1.0M | 3 | 2021–2023 |

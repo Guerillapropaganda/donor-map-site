@@ -46,7 +46,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2024):** $120.8M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $121.0M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -59,6 +59,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $350K | 2 | 2020–2022 |
 | AMERICAN ENDOWMENT FOUNDATION | $251K | 4 | 2020–2024 |
 | Greater Horizons | $245K | 3 | 2018–2024 |
+| Donors Trust Inc | $150K | 3 | 2020–2023 |
 | Vanguard Charitable Endowment Program | $95K | 3 | 2021–2023 |
 | Silicon Valley Community Foundation | $50K | 1 | 2020 |
 

@@ -261,7 +261,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $769K |
+| Total expenses | — |
+| Total assets (EOY) | $4.5M |
+| Grants paid out | $318K |
+
+**Lifetime grants out (2018–2024):** $1.9M across 8 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| OHIO AFL-CIO VOTER REGISTRATION FUND | $1.8M | 6 | 2018–2024 |
+| CORDRAYSUTTON COMMITTEE | $25K | 1 | 2018 |
+| 2020 OHIO CELEBRATION | $25K | 1 | 2020 |
+| COALITION OF LABOR UNION WOMEN | $21K | 1 | 2020 |
+| OHIO DEMOCRATIC PARTY | $18K | 1 | 2018 |
+| OHIO UNITY COALITION | $10K | 1 | 2020 |
+| LEAD OHIO FOUNDATION | $10K | 1 | 2020 |
+| OPPORTUNITY CITY | $10K | 1 | 2020 |
 
 **Grants received (2020):** $50K across 1 grantors (from other vault orgs' Schedule I records).
 

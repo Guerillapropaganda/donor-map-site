@@ -1,22 +1,23 @@
 ---
-title: "American Energy Alliance"
+title: American Energy Alliance
 type: corporation
 ein: "262731617"
 content-readiness: draft
-last-updated: 2026-04-12
+last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
-sector: "Energy & Utilities"
-entity-type: "corporation"
+sector: Energy & Utilities
+entity-type: corporation
 known-gaps:
-  - "No FEC contribution data"
-  - "No lobbying data"
-  - "No mapped relationships"
+  - No FEC contribution data
+  - No lobbying data
+  - No mapped relationships
 source-types: []
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
-  - "IRAN-EO13846"
+  - IRAN-EO13846
 urls-first-triaged: "2026-04-15"
+politicians-funded: "[[Club for Growth]]"
 ---
 
 
@@ -69,7 +70,28 @@ Profile pending enrichment.
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $2.3M |
+| Total expenses | — |
+| Total assets (EOY) | $716K |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $1.2M across 4 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| CLUB FOR GROWTH | $752K | 1 | 2022 |
+| INSTITUTE FOR ENERGY RESEARCH | $425K | 1 | 2019 |
+| ENERGY 45 FUND | $50K | 1 | 2019 |
+| CAESAR RODNEY INSTITUTE | $15K | 1 | 2019 |
 
 **Grants received (2019–2023):** $850K across 1 grantors (from other vault orgs' Schedule I records).
 

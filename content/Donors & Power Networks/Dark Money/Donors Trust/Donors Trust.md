@@ -17,7 +17,7 @@ urls-first-triaged: "2026-04-15"
 employee-contributions: 40
 employee-contributions-total: 6256
 employee-donor-count: 8
-politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[Ted Cruz]]"
+politicians-funded: "[[NRSC - National Republican Senatorial Committee]], [[WinRed]], [[_Ted Cruz Master Profile]], [[RNC - Republican National Committee]], [[Ted Cruz]], [[Bradley Impact Fund]], [[Cato Institute]], [[The 85 Fund]], [[American Enterprise Institute]], [[Alliance Defending Freedom]], [[Heritage Foundation]], [[Fidelity Investments]], [[Conservative Partnership Institute]], [[Mercatus Center]], [[TPUSA - Turning Point USA]], [[Heartland Institute]], [[America First Policy Institute]], [[State Policy Network]], [[National Philanthropic Trust]], [[American Endowment Foundation]], [[Stand Together Foundation]], [[Council for National Policy]], [[Hudson Institute]], [[Schwab Charitable Fund]]"
 ---
 
 
@@ -75,9 +75,46 @@ Profile pending enrichment.
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 4 (2020–2024)
 
-**Grants received (2018–2024):** $435.8M across 12 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $232.1M |
+| Total expenses | — |
+| Total assets (EOY) | $1.36B |
+| Grants paid out | $282.1M |
+
+**Lifetime grants out (2020–2024):** $1.05B across 1,219 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Dechomai Asset Trust | $100.7M | 1 | 2023 |
+| The 85 Fund | $50.9M | 34 | 2020–2024 |
+| State Policy Network | $37.3M | 15 | 2020–2024 |
+| MedStar Georgetown University Hospital | $36.0M | 2 | 2024 |
+| Legion of Christ | $25.0M | 1 | 2023 |
+| America First Legal Foundation | $24.6M | 9 | 2022–2024 |
+| Consumers' Research Inc | $22.4M | 5 | 2020–2024 |
+| GMU Foundation | $20.1M | 28 | 2020–2024 |
+| Catholic University of America | $16.8M | 16 | 2022–2023 |
+| Institute for Justice | $15.8M | 18 | 2020–2024 |
+| Real Clear Foundation | $15.1M | 7 | 2020–2024 |
+| Texas A&amp;M Foundation | $15.0M | 3 | 2022–2024 |
+| Cold Spring Harbor Laboratory | $14.5M | 2 | 2020–2022 |
+| Bradley Impact Fund | $13.0M | 4 | 2022–2024 |
+| Lucy Burns Institute | $13.0M | 10 | 2020–2024 |
+| ACANI Inc | $12.7M | 4 | 2020–2024 |
+| Constitutional Defense Fund | $12.1M | 3 | 2020–2023 |
+| Teneo Network Inc | $11.8M | 7 | 2020–2024 |
+| Federalist Society | $11.3M | 9 | 2020–2024 |
+| Reason Foundation | $11.0M | 8 | 2020–2024 |
+
+**Grants received (2018–2024):** $436.0M across 13 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -92,6 +129,7 @@ Profile pending enrichment.
 | NATIONAL PHILANTHROPIC TRUST | $4.0M | 5 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $2.7M | 7 | 2018–2024 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $590K | 1 | 2018 |
+| AMERICAN FUTURE FUND | $240K | 2 | 2018–2020 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $85K | 1 | 2022 |
 | STATE POLICY NETWORK | $15K | 1 | 2018 |
 | CATO INSTITUTE | $8K | 1 | 2019 |

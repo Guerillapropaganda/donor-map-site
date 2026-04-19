@@ -82,7 +82,35 @@ employee-donor-count: 1
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $8.1M |
+| Total expenses | — |
+| Total assets (EOY) | $11.4M |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2024):** $1.0M across 11 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| ADRC ACTION | $200K | 1 | 2022 |
+| Mi Familia Vota | $170K | 1 | 2020 |
+| Our Voice Our Vote | $165K | 2 | 2019–2020 |
+| Arizona Wins | $150K | 1 | 2020 |
+| Case Action Fund | $146K | 1 | 2020 |
+| Progress Now AZ | $120K | 1 | 2018 |
+| Arizona Democratic Party | $60K | 1 | 2018 |
+| Arizona Coalition for Change | $20K | 1 | 2018 |
+| Arizona AFL-CIO (V) | $6K | 1 | 2023 |
+| Other Under Threshold | $3K | 1 | 2023 |
+| OTHERS UNDER THRESHOLD | $600 | 1 | 2022 |
 
 **Grants received (2019–2024):** $1.7M across 5 grantors (from other vault orgs' Schedule I records).
 

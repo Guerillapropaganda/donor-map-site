@@ -85,7 +85,7 @@ politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center
 | THE SEMINAR NETWORK INC | $73.8M | 3 | 2019–2022 |
 | LUCILE PACKARD FOUNDATION FOR CHILDREN'S HEALTH | $73.1M | 6 | 2018–2023 |
 
-**Grants received (2018–2024):** $2.75B across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.75B across 13 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -102,6 +102,7 @@ politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center
 | IMPACTASSETSINC | $6.4M | 7 | 2018–2023 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $3.6M | 3 | 2020–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $2.1M | 4 | 2018–2023 |
+| Donors Trust Inc | $649K | 1 | 2024 |
 | Greater Horizons | $500K | 1 | 2019 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

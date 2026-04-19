@@ -104,7 +104,37 @@ employee-donor-count: 48
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $13.8M |
+| Total expenses | — |
+| Total assets (EOY) | $55.8M |
+| Grants paid out | $25K |
+
+**Lifetime grants out (2018–2023):** $16.1M across 13 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| ENVIRONMENT AMERICA ACTION FUND | $15.0M | 4 | 2018–2022 |
+| CHANGE CORPS | $685K | 1 | 2018 |
+| FAIR FIGHT ACTION INC | $100K | 1 | 2021 |
+| CENTER FOR INNOVATIVE POLICY | $100K | 3 | 2019–2023 |
+| OUR COLORADO VALUES (FEC COMMITTEE ID 20165031870) | $50K | 1 | 2018 |
+| COLORADOANS FOR FAIRNESS (FEC COMMITTEE ID 20165031864) | $50K | 1 | 2018 |
+| OUR COLORADO VALUES | $50K | 1 | 2019 |
+| GREEN CORPS | $27K | 1 | 2020 |
+| COLORADANS CREATING OPPORTUNITY | $25K | 1 | 2021 |
+| ALASKA WILDERNESS ACTION | $10K | 1 | 2021 |
+| NORTHAM FOR GOVERNOR | $6K | 1 | 2018 |
+| NATIONAL WILDLIFE FEDERATION | $5K | 1 | 2022 |
+| CITIZENS FOR INTEGRITY | $5K | 1 | 2019 |
 
 **Grants received (2018–2023):** $8.2M across 2 grantors (from other vault orgs' Schedule I records).
 

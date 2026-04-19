@@ -84,7 +84,7 @@ politicians-funded: "[[Renaissance Charitable Foundation]], [[National Philanthr
 | Community Foundation of South Alabama | $7.1M | 2 | 2018–2019 |
 | OneOC | $6.9M | 2 | 2018–2019 |
 
-**Grants received (2018–2024):** $269.0M across 8 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $269.1M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -98,6 +98,7 @@ politicians-funded: "[[Renaissance Charitable Foundation]], [[National Philanthr
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.3M | 3 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $831K | 1 | 2021 |
 | GS DONOR ADVISED PHILANTHROPY FUND | $100K | 1 | 2024 |
+| Donors Trust Inc | $62K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

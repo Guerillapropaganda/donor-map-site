@@ -539,7 +539,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | California Institute of Technology | $750K | 3 | 2020–2022 |
 | Columbia University in the City of New York | $725K | 2 | 2020–2021 |
 
-**Grants received (2018–2024):** $48.5M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $49.1M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -551,6 +551,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL PHILANTHROPIC TRUST | $3.5M | 4 | 2019–2023 |
 | Silicon Valley Community Foundation | $2.1M | 1 | 2020 |
 | The 85 Fund | $750K | 1 | 2020 |
+| Donors Trust Inc | $588K | 12 | 2020–2024 |
 | Donors Capital Fund Inc | $250K | 2 | 2020 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $110K | 5 | 2019–2024 |
 | PHARMACEUTICAL RESEARCH AND MANUFACTURERS | $50K | 2 | 2023–2024 |

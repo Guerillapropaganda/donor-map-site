@@ -80,7 +80,17 @@ Mass incarceration is a $182 billion annual industry. The beneficiaries include:
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2018–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.9M |
+| Total expenses | — |
+| Total assets (EOY) | $8.3M |
+| Grants paid out | — |
 
 **Grants received (2018–2024):** $4.3M across 9 grantors (from other vault orgs' Schedule I records).
 

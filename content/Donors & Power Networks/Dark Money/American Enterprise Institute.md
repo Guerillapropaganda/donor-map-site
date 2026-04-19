@@ -314,7 +314,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | BROWN UNIVERSITY | $10K | 1 | 2022 |
 | RENEW DEMOCRACY INITIATIVE | $10K | 1 | 2024 |
 
-**Grants received (2018–2024):** $25.8M across 14 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $29.7M across 15 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -323,6 +323,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | SCHWAB CHARITABLE FUND | $8.7M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $5.5M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.1M | 5 | 2019–2023 |
+| Donors Trust Inc | $3.9M | 17 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $3.3M | 3 | 2021–2023 |
 | Silicon Valley Community Foundation | $1.6M | 5 | 2018–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $1.1M | 6 | 2018–2024 |

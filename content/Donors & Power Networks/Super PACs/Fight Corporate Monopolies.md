@@ -87,7 +87,17 @@ employee-donor-count: 2
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $132K |
+| Total expenses | — |
+| Total assets (EOY) | $219K |
+| Grants paid out | — |
 
 **Grants received (2023):** $100K across 1 grantors (from other vault orgs' Schedule I records).
 

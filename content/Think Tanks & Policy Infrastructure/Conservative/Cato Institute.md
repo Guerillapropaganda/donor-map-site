@@ -524,7 +524,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ONE AMERICA MOVEMENT | $13K | 1 | 2025 |
 | YOUNG AMERICANS FOR LIBERTY FOUNDATION | $10K | 1 | 2025 |
 
-**Grants received (2018–2024):** $62.4M across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $68.8M across 13 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -532,6 +532,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $9.0M | 7 | 2018–2024 |
+| Donors Trust Inc | $6.4M | 9 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $5.5M | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $3.1M | 6 | 2018–2023 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.6M | 6 | 2018–2024 |

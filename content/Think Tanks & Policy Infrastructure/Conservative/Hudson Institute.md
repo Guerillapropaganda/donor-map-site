@@ -279,7 +279,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $121.1M |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $14.4M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $14.6M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -291,6 +291,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Vanguard Charitable Endowment Program | $1.6M | 3 | 2021–2023 |
 | SCHWAB CHARITABLE FUND | $1.1M | 7 | 2018–2024 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $375K | 3 | 2020–2024 |
+| Donors Trust Inc | $225K | 2 | 2020 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $200K | 6 | 2020–2024 |
 | BRADLEY IMPACT FUND INC | $75K | 2 | 2019–2023 |
 | AMERICAN ENDOWMENT FOUNDATION | $10K | 1 | 2018 |

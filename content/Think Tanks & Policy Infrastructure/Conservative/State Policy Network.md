@@ -329,12 +329,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | OPPORTUNITY ARKANSAS | $477K | 3 | 2022–2024 |
 | ALASKA POLICY FORUM | $475K | 5 | 2019–2023 |
 
-**Grants received (2018–2024):** $2.8M across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $40.1M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| Donors Trust Inc | $37.3M | 15 | 2020–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $530K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $438K | 5 | 2019–2023 |

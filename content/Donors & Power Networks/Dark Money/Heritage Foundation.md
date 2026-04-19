@@ -551,7 +551,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | STATE FINANCIAL OFFICERS FOUNDATION | $100K | 1 | 2022 |
 | DEFENSE OF FREEDOM INSTITUTE | $100K | 1 | 2022 |
 
-**Grants received (2018–2024):** $20.4M across 14 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $22.5M across 15 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -561,6 +561,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | SCHWAB CHARITABLE FUND | $6.0M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $2.2M | 6 | 2018–2023 |
 | Vanguard Charitable Endowment Program | $2.2M | 3 | 2021–2023 |
+| Donors Trust Inc | $2.1M | 13 | 2020–2024 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.6M | 6 | 2020–2024 |
 | AMERICAN ENDOWMENT FOUNDATION | $611K | 6 | 2018–2024 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $513K | 4 | 2018–2022 |

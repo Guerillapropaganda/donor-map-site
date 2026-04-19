@@ -84,7 +84,7 @@ politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foun
 | CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS | $20.2M | 21 | 2018–2024 |
 | THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY | $18.4M | 31 | 2019–2024 |
 
-**Grants received (2018–2024):** $492.5M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $493.0M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -98,6 +98,7 @@ politicians-funded: "[[Morgan Stanley Global Impact Funding Trust]], [[ACLU Foun
 | Vanguard Charitable Endowment Program | $4.4M | 3 | 2021–2023 |
 | GS DONOR ADVISED PHILANTHROPY FUND | $3.6M | 2 | 2018–2023 |
 | Greater Horizons | $2.9M | 3 | 2018–2024 |
+| Donors Trust Inc | $490K | 1 | 2023 |
 | IMPACTASSETSINC | $11K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

@@ -396,7 +396,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $35.9M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $36.0M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -411,6 +411,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Goldman Sachs Philanthropy Fund | $435K | 6 | 2018–2024 |
 | MORGAN STANLEY GLOBAL IMPACT FUNDING | $400K | 3 | 2020–2024 |
 | NEW VENTURE FUND | $250K | 1 | 2019 |
+| Donors Trust Inc | $60K | 3 | 2022–2024 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $25K | 3 | 2018–2021 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

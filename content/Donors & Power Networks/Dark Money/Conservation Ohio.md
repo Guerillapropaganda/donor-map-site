@@ -51,7 +51,30 @@ individual-contributions: 100742
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $3.4M |
+| Total expenses | — |
+| Total assets (EOY) | $3.4M |
+| Grants paid out | $382K |
+
+**Lifetime grants out (2018–2023):** $485K across 6 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| POWER A CLEAN FUTURE OHIO | $371K | 1 | 2023 |
+| BLACK ENVIRONMENTAL LEADERS ASSOC | $78K | 2 | 2021–2022 |
+| OHIO AGRICULTURE CONSERVATION COUNCIL | $20K | 3 | 2021–2023 |
+| OHIO MAYORS ALLIANCE FOUNDATION | $6K | 1 | 2023 |
+| CITIZENS CAMPAIGN FOR METROPARKS | $5K | 1 | 2021 |
+| GREEN UMBRELLA | $5K | 1 | 2022 |
 
 **Grants received (2018–2024):** $2.2M across 6 grantors (from other vault orgs' Schedule I records).
 

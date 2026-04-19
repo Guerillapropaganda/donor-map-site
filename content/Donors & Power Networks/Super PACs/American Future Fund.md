@@ -6,14 +6,14 @@ content-readiness: raw
 editorial-status: stub
 sector: Political Committees
 entity-type: PAC
-last-updated: 2026-04-16
+last-updated: 2026-04-16T00:00:00.000Z
 source-tier: 1
 aliases:
   - AMERICAN FUTURE FUND
 known-gaps:
   - Auto-created stub for relationship edge resolution. Full editorial content pending , needs Research Claude to fill in donors, politicians funded, ideology, and class analysis.
 opposes: "[[Kyrsten Sinema]]"
-politicians-funded: "[[Rick Larsen]], [[Kyrsten Sinema]], [[Martin Heinrich]]"
+politicians-funded: "[[Rick Larsen]], [[Kyrsten Sinema]], [[Martin Heinrich]], [[Donors Trust]]"
 related: "[[Martin Heinrich]] · [[Rick Larsen]]"
 checklist-na:
   - "regulatory: auto: entity type \"donor\" does not typically have EPA/OSHA records (2026-04-15)"
@@ -68,7 +68,40 @@ This profile absorbs the following FEC-format committee name(s):
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 5 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $578K |
+| Total expenses | — |
+| Total assets (EOY) | $1.2M |
+| Grants paid out | $47K |
+
+**Lifetime grants out (2018–2023):** $2.8M across 16 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| EMPOWER IOWA FUND | $580K | 5 | 2018–2023 |
+| FREEDOM PARTNERS | $500K | 1 | 2018 |
+| FAITH AND FREEDOM COALITION | $300K | 1 | 2018 |
+| AR2 INC | $225K | 2 | 2018–2019 |
+| DONORSTRUST | $200K | 1 | 2020 |
+| THE PATRIOTS FOUNDATION | $168K | 1 | 2018 |
+| BEYOND BALL | $155K | 2 | 2018–2019 |
+| STATE SOLUTIONS INC | $150K | 2 | 2018–2019 |
+| CIVIC BENEFIT IRRV TRUST TTE BRUCE CHADWICK | $133K | 1 | 2018 |
+| NATIONAL RIGHT TO LIFE COMMITTEE INC | $100K | 1 | 2018 |
+| SCHWAB CHARITABLE | $60K | 1 | 2019 |
+| FRONTIERS OF FREEDOM | $59K | 1 | 2022 |
+| SOUTH CAROLINA CLUB FOR GROWTH | $50K | 1 | 2018 |
+| FREE OUR INTERNET | $40K | 1 | 2018 |
+| DONORS TRUST | $40K | 1 | 2018 |
+| IOWA INTERNATIONAL AG SUMMIT | $10K | 1 | 2018 |
 
 **Grants received (2019):** $1.0M across 1 grantors (from other vault orgs' Schedule I records).
 

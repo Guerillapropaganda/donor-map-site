@@ -84,7 +84,7 @@ politicians-funded: "[[ACLU Foundation]], [[Hopewell Fund]], [[Cato Institute]],
 | ARC Research Institute | $22.0M | 2 | 2022–2023 |
 | UNIVERSITY OF NOTRE DAME DU LAC | $21.6M | 3 | 2021–2023 |
 
-**Grants received (2018–2024):** $288.6M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $288.6M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -100,6 +100,7 @@ politicians-funded: "[[ACLU Foundation]], [[Hopewell Fund]], [[Cato Institute]],
 | The 85 Fund | $500K | 2 | 2020–2022 |
 | Donors Capital Fund Inc | $361K | 1 | 2022 |
 | IMPACTASSETSINC | $155K | 4 | 2018–2022 |
+| Donors Trust Inc | $59K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
