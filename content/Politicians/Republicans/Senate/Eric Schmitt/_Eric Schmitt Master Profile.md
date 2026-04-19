@@ -1,8 +1,8 @@
 ---
 title: Eric Schmitt
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,12 @@ phone: 202-224-5721
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline
+  - Save Missouri Values $3.4M super-PAC donor composition not yet verified
+  - Secure Our Freedom Action Fund context (primary or general opposition?) not confirmed
+  - Husch Blackwell AG-era business context not in vault
+central-thesis: "Eric Schmitt is the Missouri AG-turned-senator whose dominant donor is AFP Action ($5.2M), meaning the Koch network funded the senator who built his brand on suing the government 70+ times. Crypto Innovation PAC ($339K) is the second-largest outside spender despite Missouri having no dominant crypto constituency. The 90 deviations are concentrated on presidential nominations (blocking confirms the Republican majority accepted) and spending bills, establishing Schmitt as a hardline obstructionist to the right of Senate Republican leadership."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S2MO00544
 bills-sponsored: 30
@@ -147,7 +149,75 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 
 # Eric Schmitt
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Eric Schmitt. Republican, Missouri. US Senator since January 2023, elected November 2022 defeating Democrat Trudy Busch Valentine. Born June 1975 in Glendale, MO. Saint Louis University Law School graduate. Glendale city alderman, Missouri state senator, Missouri State Treasurer (2017-2021), Missouri Attorney General (2021-2023), then US Senate. As AG: filed over 70 lawsuits against the Biden administration (more than any other state AG), joined multi-state DACA challenges, sued school districts over mask mandates, led multi-state China COVID litigation. Committee assignments not yet in pipeline. 1,433 roll-call votes tracked (118th and 119th Congress). Voting record: 93.4% party-line loyalty across 1,394 substantive votes, 90 deviations. The 90-deviation count is among the higher counts in the Republican Senate cohort and concentrated on nominations and spending votes.
+
+---
+
+## The Central Thesis
+
+Schmitt is the Missouri AG-turned-senator whose entire Senate brand rests on government accountability and executive overreach opposition, and whose dominant outside donor is AFP Action ($5.2M), the Koch network vehicle whose primary mission is deregulating the industries Schmitt's accountability brand nominally targets. AFP Action's $5.2M out of $9.6M total FOR spending makes the Koch network the decisive factor in Schmitt's Senate win. Crypto Innovation PAC ($339K) is the second-largest outside spender despite Missouri having no obvious crypto constituency; this is ideological investment from the crypto industry in a senator positioned to affect cryptocurrency regulation. The 90 deviations from party loyalty include concentrated Nay votes on presidential nominations the Republican Senate majority was prepared to confirm, establishing Schmitt as a hardline obstructionist to the right of Senate leadership on both personnel and spending.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Schmitt's political identity is the accountability hawk who sued the federal government over 70 times as Missouri AG: COVID litigation against China, DACA challenges, mask mandate lawsuits, 70+ Biden administration suits in three years. The government-targeting brand requires a theory of government overreach as the primary threat. AFP Action ($5.2M), the dominant outside spender FOR Schmitt, is the Koch network's super-PAC arm. The Koch network's consistent policy program is deregulation: reducing government oversight of energy production, healthcare markets, financial services, and labor regulation. The senator who built his brand on holding the government accountable takes his dominant outside funding from the network whose entire political mission is reducing the government's capacity to regulate private industry. These two theories of government are not the same. The government Schmitt sued (executive branch agencies making health, immigration, and environmental rules) is different from the government AFP Action wants weakened (regulatory agencies that constrain Koch-affiliated energy, chemical, and manufacturing interests). Schmitt's accountability is selective: it targets government action that constrains individual behavior and expands on the enforcement side; AFP Action's program weakens the regulatory apparatus that constrains corporate behavior. The overlap is large enough that the $5.2M makes sense. But the tension between government-accountability populism and deregulation-funding is the structural gap in Schmitt's donor map.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $1.7M
+- Party committee support: $518K (NRSC $51K direct)
+- Super-PAC IE support (FOR): $9.6M (AFP Action $5.2M, Save Missouri Values $3.4M, Crypto Innovation $339K, Senate Conservatives Fund $229K, GOA Victory Fund $212K)
+- Super-PAC IE opposition (AGAINST): $1.9M (Team PAC $1.4M, Secure Our Freedom Action Fund $501K; likely primary-cycle opposition)
+
+### Top direct PAC donors (lifetime)
+
+- **Missouri Schmitt Victory Committee**: $181K across 3 transactions (joint fundraising committee for 2022 race)
+- **NRSC**: $51K across 2 transactions (party apparatus)
+- **Cigna Corporation PAC**: $24K across 7 transactions (health insurer; AG jurisdiction over insurance markets)
+- **Husch Blackwell PAC**: $22K across 6 transactions (major law firm, Kansas City MO headquarters; AG-era relationship)
+- **IAFF (Firefighters)**: $20K across 5 transactions (bipartisan union giving; unusual for Republican)
+- **SBC Communications/AT&T EMPAC**: $19K across 6 transactions (telecom access)
+- **BLINE PAC**: $15K across 3 transactions
+- **Anheuser-Busch PAC**: $15K across 3 transactions (AB InBev, St. Louis MO; genuine Missouri constituency)
+- **Heartland Values PAC**: $15K across 3 transactions
+- **DRIVE Committee (Teamsters)**: $15K across 3 transactions (bipartisan union giving; unusual for Republican)
+
+### Notable frontmatter entries
+
+[[Palantir Technologies]] (defense-tech data; Schmitt has positioned on AI regulation and government data). [[Crypto Innovation PAC]] ($339K super-PAC; Schmitt is among the Senate's most crypto-friendly members). [[Alliance Coal, LLC PAC]] (coal; Missouri energy constituency). [[ADM - Archer Daniels Midland]] (agriculture; Missouri grain constituency). [[National Cattlemen's Beef Association]] (ranching). [[GOA Victory Fund]] ($212K FOR; Gun Owners of America, harder-right than NRA). [[Republican Jewish Coalition]] (pro-Israel access giving to new Republican senators).
+
+> [!money]
+> **AFP Action's $5.2M made Schmitt's Senate win possible.** The 2022 Missouri Republican primary produced Eric Greitens (former Governor under indictment), Vicky Hartzler, and Schmitt as the three-way race. AFP Action's decision to back Schmitt in the primary and general election was determinative. Missouri is not a swing state: general election spending was not the margin. The primary spending was. AFP Action invested in Schmitt as the electable Koch-network candidate over Greitens and Hartzler. The result is a senator whose entire political career from state AG to Senate required Koch network support at each inflection point. The $5.2M is not just outside spending; it is a founding investment with a return expectation measured in deregulation votes.
+
+---
+
+## Class Analysis
+
+Schmitt's donor map is structured by one dominant relationship: AFP Action and the broader Koch network. AFP Action's $5.2M out of $9.6M total FOR super-PAC spending represents more than half of all outside money supporting Schmitt's Senate win. Save Missouri Values ($3.4M) is the second vehicle, likely populated by Missouri-based conservative donors, but its composition is not yet in the vault. The direct PAC record ($1.7M) is thinner and more diverse: Cigna's $24K reflects AG-era jurisdiction over insurance markets, Husch Blackwell's $22K reflects the law firm relationships an AG builds during four years of litigation, and Anheuser-Busch's $15K reflects the one genuine Missouri constituency relationship in the top direct PAC tier.
+
+The Crypto Innovation PAC at $339K is the fastest-rising donor relationship relative to its implied constituency justification. Missouri has no dominant crypto industry base. Crypto Innovation is the industry's investment in senators who will be useful on cryptocurrency regulatory legislation: crypto reserve bills, stablecoin frameworks, SEC jurisdiction questions. Schmitt's positioning as a deregulatory senator and his Commerce Committee potential makes him a logical investment for the crypto industry's national political program. The $339K in IE spending for a Missouri Senate race is not constituent service; it is sector access investment.
+
+The 90 deviations split into two patterns. Presidential nomination deviations (PN 645, PN 183, PN 677, PN 1399) are Nay votes where Schmitt voted against confirmations the Republican Senate majority accepted. This is the hardline posture: Schmitt is more willing to block nominations than the Republican caucus majority. The spending bill deviations (H.R. 5860, H.R. 3935, H.R. 9747) are the Blackburn-pattern fiscal hawk Nay votes on continuing resolutions and omnibus legislation. Schmitt's 90 deviations with 93.4% loyalty means he breaks from the caucus roughly once every 15 votes, which is meaningfully higher than the new-senator default visible in Sheehy (3 deviations) and Moody (7 deviations).
+
+The Teamsters DRIVE Committee ($15K) and IAFF ($20K) giving to a Republican AG-turned-senator reflects the union hedging model: when a politician holds regulatory authority over their industry or labor relations environment, giving access money regardless of party is rational. Schmitt as Missouri AG had jurisdiction over labor enforcement matters. The firefighters specifically have a pattern of bipartisan giving based on safety regulation and local government funding concerns rather than partisan alignment.
+
+---
+
+## Analytical Patterns
+
+**Pilot Program (AG-to-Senate pipeline).** Schmitt is the second AG-to-Senate profile in this vault's current cohort (after Ashley Moody). The AG-to-Senate pipeline is a specific career path: AGs build national profiles through litigation, develop multi-state coalition relationships, and accumulate donor relationships through campaign cycles at the state level that then transfer to Senate campaigns. Schmitt's 70+ lawsuits against the Biden administration were simultaneously legal actions and campaign infrastructure: each press release was a fundraising event. The accountability-brand senator is the AG litigation brand converted to a Senate seat.
+
+**Self-Funding as Independence (inverse).** Schmitt does not self-fund, but he ran on an independence-from-the-establishment brand that his donor map does not support. AFP Action's $5.2M is the Koch establishment. Senate Conservatives Fund is the Ted Cruz caucus establishment. The anti-establishment AG brand and the establishment-network funding are the same senator. This is the standard populist donor map contradiction: the outsider brand is financed by insiders who prefer an electable outsider to an unelectable one (Greitens) or an ideologically moderate one (Hartzler).
+
+**Donor-Class Override (deferred).** Schmitt's voting record is too new for documented donor-class overrides: he has 0 bills enacted in the 118th Congress (30 sponsored, 217 cosponsored) and his committee positioning is not yet in the vault. The AFP Action-to-deregulation vote chain requires committee-level analysis. When energy deregulation, insurance market legislation, or financial services regulation comes to the floor in the 119th Congress, Schmitt's vote will either confirm or complicate the AFP Action investment thesis. Flag for 2025-2026 vote analysis.
 
 
 ### Legislative Activity (118th Congress)
