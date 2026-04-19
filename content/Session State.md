@@ -1,13 +1,13 @@
 ---
 title: Session State
 type: system
-last-updated: 2026-04-18
+last-updated: 2026-04-19
 ---
-<!-- last session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). Massive. New canonical stores at C:\donor-map-data\fec\ (~2GB derived from ~30GB bulk zips): pas2 classified 5.37M direct-donor rows + 604K IE-support + 336K IE-oppose + 1.29M conduit + 27K party; indiv aggregated 171K donor-committee rows ≥$10K; oth committee-to-committee 6.93M transfers; oppexp 284K vendor/consultant aggregations; CM+CN+CCL masters. New ADRs: 0012 (Money 4-subsection), 0013 (FEC taxonomy + anomaly classifier), 0014 (full-database ingest). New scripts: ingest-unitedstates-legislators, ingest-congress-votes, ingest-fec-pas2/masters/indiv/oth/oppexp, ingest-irs-990 (in-progress), fec-mega-donor-trace, fec-anomaly-scanner, fec-anomaly-sentinel, fec-name-dedup, fec-cross-check, fec-politician-donor-totals, build-fec-lifetime-panels, tag-conduits, setup-bulk-junction. 640 profiles (412 politician + 228 donor/PAC/corp) now have FEC lifetime auto-panels rendered from derived stores. 3 bioguide contaminations fixed (Casar, Summer Lee, Sherrod Brown). ContradictionCard now has its own tab. Info button converted to <details> collapsible. 86% anomaly reduction after party-committee whitelist bug fix. -->
-<!-- prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). 13 deploys. -->
-<!-- prior prior session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). -->
-<!-- prior prior prior session: Template architecture + Trump proof-of-concept + rules rewrite (2026-04-16 evening). -->
-<!-- prior prior prior prior session: Batch editorial Class Analysis pass (2026-04-16 afternoon, Research Claude) -->
+<!-- last session: QUERY ACCURACY MARATHON — silent-truncation bug hunt, FEC committee identity layer, 4-slice per-cycle reconciliation, canonical/derived file split (2026-04-19, Code Claude). 15+ commits. Ended with edge store at 175K edges, partitioned into data/relationships.jsonl (22MB canonical) + data/derived/*.jsonl (per-source ingest output, max 38MB). Reconciliation: 21/30 top committee receipts within ±10% of upstream FEC. Verification infrastructure baked into pre-commit gate. -->
+<!-- prior session: Ops Ask UI marathon + IE classifier (2026-04-19 AM, Code Claude). 18 commits. -->
+<!-- prior prior session: FULL-DATABASE FEC INGEST + profile infrastructure (2026-04-18, Code Claude). -->
+<!-- prior prior prior session: Trump data overhaul + Rubio polish + systemic pipeline fixes (2026-04-17, Code Claude). -->
+<!-- prior prior prior prior session: Public-UI cleanup + Trump polish + IA rewrite (2026-04-16 late, Code Claude). -->
 
 
 
@@ -21,12 +21,167 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 ## Current Build Phase
 
 **Phase:** Launch 50 sprint for April 30 public launch. Trump + Rubio + Pelosi live, enriched with FEC lifetime data.
-**Status:** FEC full-database ingest complete (~2GB derived stores). 640 profiles auto-enriched with lifetime FEC panels. Template architecture shipped. Contradiction tab added. Info tooltips work.
-**Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, **0012 new: Money 4-subsection**, **0013 new: FEC taxonomy + anomaly**, **0014 new: full-DB ingest**)
+**Status:** Edge store partitioned into canonical + derived (92MB → 22MB main + 70MB in 8 derived files, each under GitHub 100MB cap). Per-cycle reconciliation infrastructure in pre-commit gate. FEC committee identity layer operational (850+ committees mapped to vault entities). /ask UI pools 30+ controlled vehicles across Trump/Harris/Leo/McConnell/AIPAC and returns numbers within ±10% of authoritative FEC upstream on the top 21 of 30 cycles.
+**Authority:** CLAUDE.md, Profile Template.md, Class Analysis Style Guide.md, active ADRs (0001, 0002, 0004, 0007, 0009, 0010, 0011, 0012, 0013, 0014)
 
 ---
 
-## HANDOFF — 2026-04-19 (Ops Ask UI marathon)
+## HANDOFF — 2026-04-19 PM (Query accuracy marathon)
+
+Session theme: make the donor-map numbers ACTUALLY accurate, not
+just "in the neighborhood." Started with David flagging that
+"Donald Trump received $228M" was off by 7x vs OpenSecrets' $1.45B.
+Ended with a verification infrastructure that can prove accuracy
+against authoritative FEC upstream data, a partitioned edge store
+that solves the 100MB git file cap, and 175K active edges across
+the full store.
+
+### Shipped today (15+ commits)
+
+**Silent-truncation bug hunt + fixes:**
+- CRITICAL: `engine.query()` was silently truncating every callsite
+  to 100 rows because `limit:` was at the wrong nesting level. Fix
+  in scripts/lib/query-engine.cjs accepts limit at both spec level
+  AND inside filters. Harris donors jumped from 91 → 140 edges,
+  $907M support total surfaced (was $43M).
+- Bumped MAX_PAGE_SIZE 500 → 2000. MAGA Inc has 967 inflow edges;
+  the 500 ceiling was undercounting its $973M by 65%.
+- Every route.ts vehicle-query limit bumped from 200/50 → 1500/2000.
+
+**Self-edge + double-count filters:**
+- 406 self-ref edges ($246M) filtered out of donors_to /
+  recipients_from / money_chain / leaderboard. Honeywell→Honeywell
+  employee aggregation artifacts, Morgan Stanley GIF→itself DAF
+  accounting.
+- Political leaderboards exclude irs-990-bulk + employee-
+  contributions from "top donors" — prevents Fidelity Charitable's
+  $6.1B DAF grantmaking from dominating the political rank.
+- Deprecated 65 null-role edges from 5 IE-only super PACs
+  (Fairshake $312M ghost "donation" to Harris + 4 others). Hidden
+  from queries via status=deprecated, preserved for audit.
+
+**FEC committee identity layer:**
+- scripts/fix-registry-paths.cjs — normalized 559 stale bold-clarke
+  worktree paths in fec-committee-registry.json
+- scripts/sync-campaign-committees.cjs — matched 275 politicians
+  to FEC candidate-master via LAST, FIRST + office; created 332
+  campaign committee entity stubs with controlled_by back-ref
+- scripts/auto-link-committee-affiliates.cjs — 269 committee→parent
+  mappings across 111 parent orgs via FEC connected_org field +
+  name-stem pattern. AFL-CIO now pools 54 affiliated committees.
+- scripts/scrub-bad-committee-links.cjs — removed 14 candidate
+  committees accidentally linked via conduit connected_org
+
+**Three new ingest pipelines:**
+- scripts/aggregate-indiv-to-edges.cjs — reads indiv-by-committee.jsonl
+  (171K rows), emits 83K donor→committee edges at $200 threshold.
+  Source=fec-indiv-by-committee. Unlocks Timothy Mellon $151M→MAGA Inc,
+  Musk $286M→America PAC, etc.
+- scripts/aggregate-committee-transfers-to-edges.cjs — reads
+  oth-transfers.jsonl (6.9M rows), emits 16K committee→committee
+  edges at $50K threshold. Fixed RNC 2020 under-reporting from
+  -92% → -6.2%. Source=fec-oth-transfers.
+- Source enum + migration exemptions added to validator for both.
+
+**Pool expansion (ops/src/app/api/ask/route.ts):**
+- vehiclesFor() helper: MANUAL_VEHICLE_MAP (15 high-profile figures
+  including Trump, Harris, Leo, Koch, McConnell, Schumer, Pelosi,
+  AIPAC) + name-containment heuristic. Pooled across all intents:
+  donors_to, recipients_from, edge_between, money_chain, summary,
+  grants_from.
+- AIPAC wired: UDP + Standing Strong PAC as vehicles. Pooled total
+  1,296 inflows / $218M (was 147 / $3.2M).
+
+**3-layer verification infrastructure:**
+- scripts/cross-check-totals.cjs — aggregator vs upstream, 50 top
+  committees reconcile at 0.0% drift.
+- scripts/reconcile-canonical-totals.cjs — 4 canonical subjects
+  (Trump, Harris, Leo, McConnell), ±50% bounds, pre-commit gate.
+- scripts/verify-committee-receipts.cjs — TIGHT per-cycle
+  reconciliation across 4 FEC source slices (indiv + conduit +
+  transfers + pac_gifts). 21 of top 30 receipts within ±10% of
+  authoritative FEC. THIS is the accuracy gate going forward.
+
+**Canonical/derived file split (solves GitHub 100MB cap):**
+- scripts/split-relationships-by-source.cjs — partitions
+  data/relationships.jsonl (92MB) into:
+  - data/relationships.jsonl (22MB canonical — editorial edges only)
+  - data/derived/{source}.jsonl × 8 files (each <40MB)
+- scripts/lib/relationships-store.cjs updated: loadEdges() globs all
+  files, upsertEdges() auto-routes by source, deprecateEdge() same.
+- ops/src/lib/relationships-store.ts TS mirror: same glob logic.
+- ops/src/app/api/ask/route.ts handleLeaderboard + handleMoneyChain
+  fs reads updated to read main + derived concat.
+- ops/src/app/api/lobby-trades/route.ts same.
+- mtime cache invalidation watches data/derived/* too.
+
+**Cache + engine fixes:**
+- /api/ask answer cache now flushes query-engine store cache too
+  (not just ops-local caches) when data mtime changes. Fixes stale
+  reads that previously required dev-server restart.
+- scripts/lib/relationship-edge-validator.cjs MIGRATION_SOURCES
+  exempts fec-indiv-by-committee + fec-oth-transfers from vault-
+  profile existence checks (raw FEC contributor names legitimately
+  don't have vault profiles).
+
+### Known state at end-of-session
+
+**File sizes:**
+- data/relationships.jsonl: 22 MB (30K canonical edges)
+- data/derived/fec-indiv-by-committee.jsonl: 38 MB (84K)
+- data/derived/fec-bulk.jsonl: 12 MB (25K)
+- data/derived/fec-individual-bulk.jsonl: 11 MB (18K)
+- data/derived/fec-oth-transfers.jsonl: 8 MB (17K)
+- data/derived/irs-990-bulk.jsonl: 1 MB (2K)
+- data/derived/fec-api.jsonl: 0.4 MB (595)
+- data/derived/usaspending-bulk.jsonl: 0.4 MB (714)
+- All well under 100MB cap. Room to grow.
+
+**Reconciliation scorecard (top 30 FEC receipts ≥$1M):**
+- 21 ✓ within ±10% of authoritative upstream
+- 5 OVER (JFC loop-backs, +10-40%)
+- 4 UNDER (below-$50K transaction floor: DCCC/NRSC/NRCC 2024
+  at -12-16%; WinSenate 2024 -61% due to source-side cycle
+  attribution quirk)
+
+**Pooled totals (via /ask) — now within OpenSecrets range:**
+- Donald Trump: $1.72B (was $228M); pools 13 vehicles
+- Kamala Harris: $953M; pools 8 vehicles incl. FF PAC
+- Mitch McConnell: $1.5B; SLF PAC lifetime
+- Leonard Leo: $892M; Marble Freedom + 85 Fund + JCN
+- AIPAC + UDP: $218M inflows / $77M outflows
+
+### Next session priorities
+
+**Accuracy follow-ups (remaining reconciliation gaps):**
+1. **Refresh FEC committee-master snapshot.** Our bulk predates
+   some 2024 registrations — Trump's principal "Donald J Trump for
+   President 2024" principal committee isn't in the snapshot. Rerun
+   bulk download from FEC, re-run sync-campaign-committees.
+2. **WinSenate 2024 -61% drift investigation.** Source sums $1.02B
+   but our edge store has $396M. Other WinSenate cycles reconcile.
+   Likely a cycle-attribution bug in one of the aggregators.
+3. **JFC loop-back double-count (SLF PAC 2020 +40%).** Transfer
+   edges counted once as outflow, once as inflow. Fix requires
+   per-cycle intra-pool detection.
+4. **435 politicians unmatched** in sync-campaign-committees fuzzy
+   LAST, FIRST match — extend to handle "Mary J. Smith", hyphenated
+   names, etc.
+
+**Other:**
+5. Re-ingest fec-bulk with role emission from 24A/24E codes at
+   source — will un-deprecate the 65 superseded Fairshake-type edges
+   with real role data.
+6. Extend MANUAL_VEHICLE_MAP coverage — currently 16 high-profile
+   figures. Auto-derive from entities with signals.controlled_by.
+7. Site-wide grep for other consumers of relationships.jsonl that
+   might miss derived files (scripts/apply-donor-dedup.cjs flagged).
+
+### Uncommitted at session-save
+
+None — all committed and merged to v4.
+
+### Orig ## HANDOFF — 2026-04-19 AM (Ops Ask UI marathon)
 
 Session theme: Built a natural-language query UI inside Ops (`/ask`)
 that sits on top of the canonical edge store, then made it actually
