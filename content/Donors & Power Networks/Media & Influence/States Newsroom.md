@@ -33,17 +33,17 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2020–2024):** $57.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2019–2024):** $57.7M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $57.2M | 4 | 2020–2023 |
+| HOPEWELL FUND | $264K | 2 | 2019–2022 |
 | SCHWAB CHARITABLE FUND | $92K | 4 | 2021–2024 |
-| HOPEWELL FUND | $14K | 1 | 2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $10K | 1 | 2020 |
-| Vanguard Charitable Endowment Program | $8K | 1 | 2022 |
+| Vanguard Charitable Endowment Program | $56K | 2 | 2022–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $31K | 3 | 2020–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $7K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

@@ -616,16 +616,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | TEMPE CHAMBER OF COMMERCE FOUNDATION | $95K | 1 | 2018 |
 | WAKE FOREST CHAMBER FOUNDATION FOR COMMON PROGRESS | $95K | 1 | 2018 |
 
-**Grants received (2018–2024):** $2.8M across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $5.8M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| Silicon Valley Community Foundation | $2.9M | 5 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $1.1M | 4 | 2018–2022 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $1.0M | 2 | 2022–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $490K | 4 | 2018–2022 |
-| GOLDMAN SACHS PHILANTHROPY FUND | $469K | 1 | 2022 |
-| Silicon Valley Community Foundation | $450K | 2 | 2020–2022 |
 | SCHWAB CHARITABLE FUND | $200K | 3 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $136K | 1 | 2021 |
 | AMERICAN PETROLEUM INSTITUTE | $30K | 2 | 2022–2023 |

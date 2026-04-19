@@ -137,7 +137,7 @@ employee-donor-count: 1
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $159.9M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $160.5M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -145,10 +145,11 @@ employee-donor-count: 1
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $155.8M | 5 | 2019–2023 |
 | SCHWAB CHARITABLE FUND | $2.9M | 7 | 2018–2024 |
+| Goldman Sachs Philanthropy Fund | $699K | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $693K | 6 | 2018–2023 |
-| Goldman Sachs Philanthropy Fund | $271K | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $144K | 2 | 2021–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $75K | 2 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $221K | 3 | 2021–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $185K | 6 | 2020–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $18K | 3 | 2019–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

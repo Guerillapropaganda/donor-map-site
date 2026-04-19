@@ -322,7 +322,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ACCOUNTABLEUS | $9.9M | 4 | 2019–2023 |
 | NATURE AND CULTURE INTERNATIONAL | $9.9M | 6 | 2018–2024 |
 
-**Grants received (2018–2024):** $844.8M across 15 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $930.0M across 16 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -330,18 +330,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $497.9M | 6 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $250.7M | 6 | 2018–2023 |
+| Silicon Valley Community Foundation | $46.2M | 5 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $30.9M | 7 | 2018–2024 |
-| Silicon Valley Community Foundation | $17.7M | 2 | 2020–2022 |
-| Goldman Sachs Philanthropy Fund | $14.7M | 2 | 2020–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $30.0M | 7 | 2018–2024 |
+| Goldman Sachs Philanthropy Fund | $23.1M | 6 | 2018–2024 |
+| CO-IMPACT PHILANTHROPIC FUNDS INC | $16.4M | 3 | 2023–2024 |
+| HOPEWELL FUND | $12.4M | 4 | 2019–2023 |
 | SIXTEEN THIRTY FUND | $10.2M | 5 | 2018–2023 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $8.4M | 3 | 2020–2022 |
-| HOPEWELL FUND | $5.5M | 2 | 2020–2022 |
-| IMPACTASSETSINC | $3.2M | 5 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $3.0M | 2 | 2021–2022 |
+| IMPACTASSETSINC | $5.0M | 10 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $3.8M | 3 | 2021–2023 |
 | FUTURE FORWARD USA ACTION | $1.6M | 1 | 2024 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $735K | 2 | 2020–2022 |
-| PLANNED PARENTHOOD FEDERATION OF AMERICA INC | $50K | 1 | 2020 |
-| AMERICAN ENDOWMENT FOUNDATION | $30K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.5M | 4 | 2020–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $167K | 5 | 2018–2023 |
+| PLANNED PARENTHOOD FEDERATION OF AMERICA INC | $60K | 2 | 2019–2020 |
 | CENTER FOR AMERICAN PROGRESS | $25K | 1 | 2018 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

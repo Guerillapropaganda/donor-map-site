@@ -383,22 +383,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $28.9M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $35.9M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $10.0M | 6 | 2018–2023 |
+| Silicon Valley Community Foundation | $9.2M | 5 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $7.9M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $6.1M | 6 | 2018–2023 |
-| Silicon Valley Community Foundation | $3.5M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $632K | 2 | 2021–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $366K | 2 | 2020–2022 |
+| Vanguard Charitable Endowment Program | $936K | 3 | 2021–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $627K | 6 | 2018–2024 |
+| Goldman Sachs Philanthropy Fund | $435K | 6 | 2018–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $400K | 3 | 2020–2024 |
 | NEW VENTURE FUND | $250K | 1 | 2019 |
-| Goldman Sachs Philanthropy Fund | $133K | 2 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $15K | 1 | 2020 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $8K | 1 | 2021 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $25K | 3 | 2018–2021 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

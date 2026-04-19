@@ -72,7 +72,7 @@ politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center
 | THE SEMINAR NETWORK INC | $73.8M | 3 | 2019–2022 |
 | LUCILE PACKARD FOUNDATION FOR CHILDREN'S HEALTH | $73.1M | 6 | 2018–2023 |
 
-**Grants received (2018–2024):** $2.00B across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.75B across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -80,15 +80,16 @@ politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.07B | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $631.9M | 7 | 2018–2024 |
-| Vanguard Charitable Endowment Program | $170.1M | 2 | 2021–2022 |
-| Goldman Sachs Philanthropy Fund | $83.7M | 2 | 2020–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $17.4M | 4 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $529.9M | 6 | 2018–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $209.1M | 9 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $171.5M | 3 | 2021–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $70.4M | 17 | 2018–2023 |
+| Silicon Valley Community Foundation | $32.3M | 5 | 2018–2023 |
 | FUTURE FORWARD USA ACTION | $16.8M | 1 | 2024 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $4.9M | 4 | 2020–2022 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $2.6M | 2 | 2020–2021 |
+| IMPACTASSETSINC | $6.4M | 7 | 2018–2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $3.6M | 3 | 2020–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $2.1M | 4 | 2018–2023 |
-| IMPACTASSETSINC | $1.2M | 3 | 2020–2022 |
-| Silicon Valley Community Foundation | $110K | 2 | 2020–2022 |
+| Greater Horizons | $500K | 1 | 2019 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

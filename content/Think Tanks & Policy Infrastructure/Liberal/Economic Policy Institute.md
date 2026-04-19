@@ -406,7 +406,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ISAIAH | $201K | 2 | 2023–2024 |
 | NORTH CAROLINA JUSTICE CENTER | $200K | 2 | 2022–2023 |
 
-**Grants received (2018–2024):** $5.9M across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $6.7M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -414,9 +414,12 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.6M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $780K | 4 | 2019–2023 |
+| SILICON VALLEY COMMUNITY FOUNDATION | $716K | 2 | 2018–2019 |
 | SCHWAB CHARITABLE FUND | $452K | 6 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $28K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $25K | 1 | 2019 |
-| Vanguard Charitable Endowment Program | $19K | 2 | 2021–2022 |
+| HOPEWELL FUND | $25K | 1 | 2019 |
+| IMPACTASSETSINC | $15K | 2 | 2018–2019 |
 | ROCKEFELLER PHILANTHROPY ADVISORS INC | $10K | 1 | 2021 |
 | SIXTEEN THIRTY FUND | $6K | 1 | 2018 |
 

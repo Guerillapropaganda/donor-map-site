@@ -9,7 +9,7 @@ ein: "262048480"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Independent DAF with an impact-investing focus; channels values-aligned giving from institutional donors. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Planned Parenthood Federation of America]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[The Barack Obama Foundation]], [[Renaissance Charitable Foundation]], [[New Venture Fund]], [[National Philanthropic Trust]], [[Fidelity Investments]], [[Bank of America Charitable Gift Fund]], [[Rockefeller Philanthropy Advisors]], [[Schwab Charitable Fund]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Roosevelt Institute]], [[Hopewell Fund]], [[Proteus Fund]], [[NEO Philanthropy]], [[Equal Justice Initiative]], [[Center for Popular Democracy]], [[Urban Institute]], [[Natural Resources Defense Council]], [[Sierra Club Foundation]]"
+politicians-funded: "[[Planned Parenthood Federation of America]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[The Barack Obama Foundation]], [[Renaissance Charitable Foundation]], [[New Venture Fund]], [[National Philanthropic Trust]], [[Fidelity Investments]], [[Bank of America Charitable Gift Fund]], [[Rockefeller Philanthropy Advisors]], [[Schwab Charitable Fund]], [[Silicon Valley Community Foundation]], [[ACLU Foundation]], [[Roosevelt Institute]], [[Hopewell Fund]], [[Proteus Fund]], [[NEO Philanthropy]], [[Equal Justice Initiative]], [[Center for Popular Democracy]], [[Urban Institute]], [[Natural Resources Defense Council]], [[Sierra Club Foundation]], [[Environmental Law & Policy Center]], [[Organizing for Action]], [[Robin Hood Foundation]], [[ImpactAssets]]"
 ---
 
 # ImpactAssets
@@ -32,9 +32,9 @@ politicians-funded: "[[Planned Parenthood Federation of America]], [[Bipartisan 
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 4 (2020–2022)
+**Filings available:** 9 (2018–2024)
 
-**Most recent filing (2022):**
+**Most recent filing (2024):**
 
 | Metric | Amount |
 |---|---:|
@@ -44,47 +44,49 @@ politicians-funded: "[[Planned Parenthood Federation of America]], [[Bipartisan 
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Lifetime grants out (2020–2022):** $386.2M across 3,458 recipients.
+**Lifetime grants out (2018–2024):** $873.5M across 5,147 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $15.7M | 2 | 2020–2022 |
-| GLOBALGIVING FOUNDATION | $8.0M | 1 | 2020 |
-| PLANNED PARENTHOOD FEDERATION OF AMERICA | $6.3M | 2 | 2020–2022 |
-| CHARITIES AID FOUNDATION OF AMERICA | $5.5M | 1 | 2022 |
-| GIVEDIRECTLY INC | $5.5M | 3 | 2020–2022 |
-| FOUNDATION FOR CIVIC LEADERSHIP | $4.4M | 2 | 2020–2022 |
-| SCHWAB CHARITABLE FUND | $4.1M | 2 | 2020–2022 |
-| CLEAN FUTURE FORUM INC | $4.0M | 2 | 2020–2022 |
+| BAYADA | $91.7M | 1 | 2018 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $16.5M | 3 | 2020–2023 |
+| GLOBALGIVING FOUNDATION | $13.4M | 4 | 2018–2020 |
+| GLOBALGIVING | $12.0M | 2 | 2022–2023 |
+| FOUNDATION FOR CIVIC LEADERSHIP | $11.4M | 5 | 2018–2023 |
+| EAST BAY MEDITATION CENTER | $8.0M | 4 | 2019–2023 |
+| SCHWAB CHARITABLE FUND | $7.7M | 4 | 2018–2023 |
+| PLANNED PARENTHOOD FEDERATION OF AMERICA | $7.1M | 7 | 2018–2023 |
+| THE TIDES FOUNDATION | $6.8M | 3 | 2018–2022 |
+| UNITED WAY WORLDWIDE | $6.8M | 3 | 2018–2020 |
+| JUBILEE GIFT GALAXY INC | $6.1M | 2 | 2022–2023 |
+| CLEAN FUTURE FORUM INC | $6.0M | 3 | 2020–2023 |
+| CHARITIES AID FOUNDATION OF AMERICA | $5.8M | 2 | 2022–2023 |
+| GIVEDIRECTLY INC | $5.6M | 6 | 2019–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $5.2M | 5 | 2018–2023 |
+| HELP KITCHEN | $5.0M | 2 | 2022–2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $4.2M | 5 | 2018–2023 |
+| TIDES FOUNDATION FBO MOVEMENT VOTER FUND | $4.0M | 3 | 2020–2023 |
+| VIRGINIA ORGANIZING INC | $3.9M | 2 | 2022–2023 |
 | THE BLACKBAUD GIVING FUND FBO YOURCAUSE | $3.9M | 2 | 2020–2022 |
-| TIDES FOUNDATION FBO MOVEMENT VOTER FUND | $3.8M | 2 | 2020–2022 |
-| JUBILEE GIFT GALAXY INC | $3.7M | 1 | 2022 |
-| HELP KITCHEN | $3.0M | 1 | 2022 |
-| UNITED WAY WORLDWIDE | $2.6M | 1 | 2020 |
-| SUMMER OF SASS INC | $2.5M | 1 | 2022 |
-| THE SCHOTT FOUNDATION FOR PUBLIC EDUCATION | $2.5M | 2 | 2020–2022 |
-| INTERNATIONAL MEDICAL CORPS | $2.5M | 2 | 2020–2022 |
-| DOCTORS WITHOUT BORDERS | $2.5M | 2 | 2020–2022 |
-| NEW VENTURE FUND FBO THE ENOUGH PROJECT | $2.5M | 1 | 2020 |
-| NEO PHILANTHROPY INC | $2.4M | 2 | 2020–2022 |
-| CALIFORNIA COMMUNITY FOUNDATION FBO GLOBAL BRIDGE FOUNDATION | $2.3M | 1 | 2020 |
 
-**Grants received (2018–2024):** $365.4M across 8 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $424.8M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| AMERICAN ENDOWMENT FOUNDATION | $102.0M | 2 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $124.7M | 6 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $92.4M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $88.0M | 7 | 2018–2024 |
-| Vanguard Charitable Endowment Program | $41.9M | 2 | 2021–2022 |
+| Vanguard Charitable Endowment Program | $68.8M | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $26.4M | 6 | 2018–2023 |
-| Silicon Valley Community Foundation | $14.5M | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $285K | 2 | 2020–2022 |
-| GOLDMAN SACHS PHILANTHROPY FUND | $52K | 1 | 2022 |
+| Silicon Valley Community Foundation | $21.1M | 4 | 2018–2023 |
+| Greater Horizons | $1.7M | 1 | 2019 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.4M | 4 | 2020–2023 |
+| IMPACTASSETSINC | $151K | 1 | 2018 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $130K | 3 | 2022–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

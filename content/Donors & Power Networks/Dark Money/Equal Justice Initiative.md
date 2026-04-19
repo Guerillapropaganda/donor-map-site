@@ -33,7 +33,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2024):** $78.7M across 13 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $90.1M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -42,13 +42,14 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | NATIONAL PHILANTHROPIC TRUST | $26.7M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $24.1M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $14.7M | 7 | 2018–2024 |
-| Silicon Valley Community Foundation | $5.4M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $2.9M | 2 | 2021–2022 |
-| Goldman Sachs Philanthropy Fund | $2.7M | 2 | 2020–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $1.1M | 2 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $641K | 2 | 2020–2022 |
-| IMPACTASSETSINC | $335K | 2 | 2020–2022 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $100K | 2 | 2021–2022 |
+| Silicon Valley Community Foundation | $9.1M | 5 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $5.0M | 3 | 2021–2023 |
+| Goldman Sachs Philanthropy Fund | $4.8M | 5 | 2019–2024 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $2.2M | 4 | 2019–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $1.8M | 6 | 2018–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.0M | 7 | 2018–2024 |
+| IMPACTASSETSINC | $523K | 5 | 2018–2023 |
+| Greater Horizons | $41K | 3 | 2018–2024 |
 | OpenAI Inc | $20K | 1 | 2020 |
 | CALIFORNIA CHARTER SCHOOLS ASSOCIATION | $10K | 1 | 2020 |
 | CALIFORNIA NURSES ASSOCIATION | $10K | 1 | 2019 |

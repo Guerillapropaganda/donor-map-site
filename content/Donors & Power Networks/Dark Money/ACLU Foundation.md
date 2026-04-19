@@ -31,9 +31,9 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 4 (2021–2023)
+**Filings available:** 10 (2019–2025)
 
-**Most recent filing (2023):**
+**Most recent filing (2025):**
 
 | Metric | Amount |
 |---|---:|
@@ -43,50 +43,51 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Lifetime grants out (2021–2023):** $30.9M across 107 recipients.
+**Lifetime grants out (2019–2025):** $94.3M across 170 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| ACLU Foundation of Florida | $1.7M | 1 | 2023 |
-| ACLUF OF OHIO | $961K | 1 | 2021 |
-| ACLU Foundation of Virginia | $912K | 1 | 2023 |
-| ACLU Foundation of Texas | $880K | 1 | 2023 |
-| ACLU Foundation of Nebraska | $780K | 1 | 2023 |
-| ACLU Foundation of New Mexico | $766K | 1 | 2023 |
-| ACLUF OF FLORIDA | $714K | 1 | 2021 |
-| ACLU Foundation of Georgia | $627K | 1 | 2023 |
-| ACLUF OF PENNSYLVANIA | $624K | 1 | 2021 |
-| ACLUF OF NEW JERSEY | $600K | 1 | 2021 |
-| ACLUF OF TEXAS | $580K | 1 | 2021 |
-| ACLUF OF NEW MEXICO | $539K | 1 | 2021 |
-| ACLUF OF ARKANSAS | $535K | 1 | 2021 |
-| ACLUF OF MICHIGAN | $526K | 1 | 2021 |
-| ACLU Foundation of Alabama | $512K | 1 | 2023 |
-| ACLU Foundation of South Carolina | $507K | 1 | 2023 |
-| ACLUF OF KENTUCKY | $504K | 1 | 2021 |
-| ACLUF OF GEORGIA | $464K | 1 | 2021 |
-| ACLUF OF NORTH CAROLINA | $461K | 1 | 2021 |
-| ACLU Foundation of Louisiana | $435K | 1 | 2023 |
+| ACLU Foundation of Florida | $5.5M | 3 | 2023–2025 |
+| ACLU Foundation of Texas | $4.1M | 3 | 2023–2025 |
+| ACLU Foundation of Alabama | $2.6M | 3 | 2023–2025 |
+| ACLU Foundation of Virginia | $2.6M | 3 | 2023–2025 |
+| ACLU Foundation of Louisiana | $2.5M | 3 | 2023–2025 |
+| ACLU Foundation of Georgia | $2.4M | 3 | 2023–2025 |
+| ACLU Foundation of West Virginia | $2.4M | 3 | 2023–2025 |
+| ACLU Foundation of South Carolina | $1.9M | 3 | 2023–2025 |
+| ACLU Foundation of Minnesota | $1.9M | 3 | 2023–2025 |
+| ACLU Foundation of Tennessee | $1.8M | 2 | 2023–2025 |
+| ACLU Foundation of Arkansas | $1.7M | 3 | 2023–2025 |
+| ACLU Foundation of Pennsylvania | $1.7M | 3 | 2023–2025 |
+| ACLU Foundation of Nebraska | $1.6M | 3 | 2023–2025 |
+| CITIZENS NOT POLITICIANS | $1.6M | 1 | 2025 |
+| ACLU of North Carolina | $1.4M | 2 | 2020–2024 |
+| ACLU Foundation of New Mexico | $1.4M | 3 | 2023–2025 |
+| ACLU Foundation of Nevada | $1.4M | 3 | 2023–2025 |
+| ACLU Foundation of Southern California | $1.3M | 3 | 2023–2025 |
+| ACLUF OF NEW MEXICO | $1.2M | 3 | 2019–2021 |
+| MISSOURIANS FOR CONSTITUTIONAL FREEDOM | $1.1M | 1 | 2025 |
 
-**Grants received (2018–2024):** $220.9M across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $288.0M across 13 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $151.4M | 6 | 2018–2023 |
-| Goldman Sachs Philanthropy Fund | $24.7M | 2 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $68.6M | 6 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $19.9M | 8 | 2018–2024 |
+| Silicon Valley Community Foundation | $19.9M | 5 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $8.7M | 6 | 2018–2023 |
-| Silicon Valley Community Foundation | $8.2M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $4.2M | 2 | 2021–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.3M | 7 | 2020–2022 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $1.1M | 2 | 2021–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $839K | 2 | 2020–2022 |
-| IMPACTASSETSINC | $270K | 3 | 2020–2022 |
-| HOPEWELL FUND | $250K | 1 | 2022 |
+| Vanguard Charitable Endowment Program | $6.0M | 3 | 2021–2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $3.8M | 4 | 2019–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $3.7M | 31 | 2018–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $2.7M | 6 | 2018–2024 |
+| HOPEWELL FUND | $2.2M | 2 | 2019–2022 |
+| IMPACTASSETSINC | $612K | 6 | 2018–2023 |
+| Greater Horizons | $315K | 3 | 2018–2024 |
 | NEW VENTURE FUND | $50K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

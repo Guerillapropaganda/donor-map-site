@@ -9,7 +9,7 @@ generated-by: scripts/build-officer-registry.cjs
 
 Officers who appear on 2+ distinct EINs across the IRS 990 filings ingested into the vault. Aggregation is by EIN (not filer name) so multi-year spelling variants collapse correctly.
 
-Generated from 1191 filings, 6,386 officer rows, 2,717 unique names.
+Generated from 1300 filings, 7,019 officer rows, 3,023 unique names.
 
 ## Overlaps where 2+ orgs are in the vault
 
@@ -17,12 +17,15 @@ These are the highest-signal rows — same person on multiple boards of vault-tr
 
 | Officer | Boards | Orgs |
 |---|---:|---|
+| ANDREW SCHULZ | 3 | [[New Venture Fund]] / [[Sixteen Thirty Fund]] / [[Hopewell Fund]] |
+| WILBUR PRIESTER | 3 | [[Sixteen Thirty Fund]] / [[New Venture Fund]] / [[Hopewell Fund]] |
 | GREG SPEED | 2 | [[America Votes]] / [[Emilys List]] |
 | ERIC KESSLER | 2 | [[Sixteen Thirty Fund]] / [[New Venture Fund]] |
 | KIMBERLY O DENNIS | 2 | [[American Enterprise Institute]] / [[Donors Capital Fund]] |
 | HENRY CISNEROS | 2 | [[DMFI - Democratic Majority for Israel]] / [[Bipartisan Policy Center]] |
 | ADAM EICHBERG | 2 | [[New Venture Fund]] / [[Democracy Alliance]] |
-| ANDREW SCHULZ | 2 | [[New Venture Fund]] / [[Sixteen Thirty Fund]] |
+| LEE BODNER | 2 | [[New Venture Fund]] / [[Hopewell Fund]] |
+| RAKESH RAJANI | 2 | [[New Venture Fund]] / [[Co Impact Philanthropic Funds]] |
 | ADAM MEYERSON | 2 | [[Donors Capital Fund]] / [[State Policy Network]] |
 | ROME ALOISE | 2 | [[California Labor Federation]] / [[Teamsters - International Brotherhood of Teamsters]] |
 | GARY MARX | 2 | [[The 85 Fund]] / [[The Concord Fund]] |
@@ -47,7 +50,8 @@ These are the highest-signal rows — same person on multiple boards of vault-tr
 | WILLIE CHIANG | 2 | [[American Petroleum Institute]] / [[American Fuel and Petrochemical Manufacturers]] |
 | THOMAS SCHULTZ | 2 | [[Club for Growth]] / [[American Federation for Children]] |
 | JULIAN CASTRO | 2 | [[Center for American Progress]] / [[Bipartisan Policy Center]] |
-| WILBUR PRIESTER | 2 | [[Sixteen Thirty Fund]] / [[New Venture Fund]] |
+| LEANA WEN | 2 | [[Bipartisan Policy Center]] / [[Planned Parenthood Federation of America]] |
+| GREG AVIS | 2 | [[Schwab Charitable Fund]] / [[Silicon Valley Community Foundation]] |
 
 ## All overlaps (2+ distinct EINs)
 
@@ -55,12 +59,15 @@ Includes mixed vault / non-vault appearances. Cross-reference for board-to-board
 
 | Officer | Boards | Vault | Orgs |
 |---|---:|---:|---|
+| ANDREW SCHULZ | 3 | 3 | [[New Venture Fund]] / [[Sixteen Thirty Fund]] / [[Hopewell Fund]] |
+| WILBUR PRIESTER | 3 | 3 | [[Sixteen Thirty Fund]] / [[New Venture Fund]] / [[Hopewell Fund]] |
 | GREG SPEED | 2 | 2 | [[America Votes]] / [[Emilys List]] |
 | ERIC KESSLER | 2 | 2 | [[Sixteen Thirty Fund]] / [[New Venture Fund]] |
 | KIMBERLY O DENNIS | 2 | 2 | [[American Enterprise Institute]] / [[Donors Capital Fund]] |
 | HENRY CISNEROS | 2 | 2 | [[DMFI - Democratic Majority for Israel]] / [[Bipartisan Policy Center]] |
 | ADAM EICHBERG | 2 | 2 | [[New Venture Fund]] / [[Democracy Alliance]] |
-| ANDREW SCHULZ | 2 | 2 | [[New Venture Fund]] / [[Sixteen Thirty Fund]] |
+| LEE BODNER | 2 | 2 | [[New Venture Fund]] / [[Hopewell Fund]] |
+| RAKESH RAJANI | 2 | 2 | [[New Venture Fund]] / [[Co Impact Philanthropic Funds]] |
 | ADAM MEYERSON | 2 | 2 | [[Donors Capital Fund]] / [[State Policy Network]] |
 | ROME ALOISE | 2 | 2 | [[California Labor Federation]] / [[Teamsters - International Brotherhood of Teamsters]] |
 | GARY MARX | 2 | 2 | [[The 85 Fund]] / [[The Concord Fund]] |
@@ -85,7 +92,8 @@ Includes mixed vault / non-vault appearances. Cross-reference for board-to-board
 | WILLIE CHIANG | 2 | 2 | [[American Petroleum Institute]] / [[American Fuel and Petrochemical Manufacturers]] |
 | THOMAS SCHULTZ | 2 | 2 | [[Club for Growth]] / [[American Federation for Children]] |
 | JULIAN CASTRO | 2 | 2 | [[Center for American Progress]] / [[Bipartisan Policy Center]] |
-| WILBUR PRIESTER | 2 | 2 | [[Sixteen Thirty Fund]] / [[New Venture Fund]] |
+| LEANA WEN | 2 | 2 | [[Bipartisan Policy Center]] / [[Planned Parenthood Federation of America]] |
+| GREG AVIS | 2 | 2 | [[Schwab Charitable Fund]] / [[Silicon Valley Community Foundation]] |
 
 ## How to use this
 

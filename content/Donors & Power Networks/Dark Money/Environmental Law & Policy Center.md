@@ -292,16 +292,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Little Village Environmental Justice Organization | $8K | 1 | 2021 |
 | Heaven's View Community Development Corp | $7K | 1 | 2021 |
 
-**Grants received (2018–2024):** $594K across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $1.0M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| IMPACTASSETSINC | $380K | 1 | 2023 |
 | SCHWAB CHARITABLE FUND | $268K | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $260K | 6 | 2018–2023 |
-| Vanguard Charitable Endowment Program | $47K | 2 | 2021–2022 |
+| Vanguard Charitable Endowment Program | $61K | 3 | 2021–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $37K | 2 | 2023–2024 |
 | NEW VENTURE FUND | $20K | 2 | 2022–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $5K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

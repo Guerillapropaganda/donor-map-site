@@ -310,22 +310,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | CORNELL UNIVERSITY | $150.3M | 6 | 2018–2023 |
 | TRUSTEES OF PRINCETON UNIVERSITY | $148.9M | 113 | 2018–2023 |
 
-**Grants received (2018–2024):** $2.24B across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $3.38B across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| Silicon Valley Community Foundation | $783.3M | 2 | 2020–2022 |
+| Silicon Valley Community Foundation | $987.6M | 5 | 2018–2023 |
+| Goldman Sachs Philanthropy Fund | $737.4M | 6 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $695.5M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $390.8M | 6 | 2018–2023 |
-| Goldman Sachs Philanthropy Fund | $123.2M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $88.0M | 2 | 2021–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $79.2M | 6 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $53.2M | 11 | 2020–2022 |
-| IMPACTASSETSINC | $15.8M | 3 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $212.5M | 34 | 2018–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $182.3M | 11 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $147.0M | 3 | 2021–2023 |
+| IMPACTASSETSINC | $19.5M | 7 | 2018–2023 |
 | Rule of Law Trust | $9.0M | 1 | 2020 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $120K | 1 | 2021 |
+| Greater Horizons | $846K | 1 | 2024 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $163K | 2 | 2021–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

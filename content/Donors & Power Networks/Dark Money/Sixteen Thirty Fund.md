@@ -393,7 +393,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NEVADANS FOR SECURE ELECTIONS | $6.3M | 1 | 2018 |
 | ENVIRONMENT AMERICA | $6.2M | 4 | 2018–2023 |
 
-**Grants received (2018–2024):** $307.8M across 5 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $313.2M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -401,8 +401,9 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | NEW VENTURE FUND | $267.3M | 6 | 2018–2024 |
 | FUTURE FORWARD USA ACTION | $29.2M | 2 | 2024 |
-| HOPEWELL FUND | $10.9M | 2 | 2020–2022 |
+| HOPEWELL FUND | $16.2M | 5 | 2018–2023 |
 | GROVE ACTION FUND | $400K | 5 | 2018–2023 |
+| Rockefeller Philanthropy Advisors Inc | $60K | 1 | 2019 |
 | LEAGUE OF CONSERVATION VOTERS INC | $50K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

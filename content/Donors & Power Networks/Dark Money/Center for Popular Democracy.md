@@ -33,7 +33,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2024):** $58.2M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $59.0M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -42,12 +42,15 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $53.4M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $2.5M | 6 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $760K | 7 | 2018–2024 |
-| Silicon Valley Community Foundation | $466K | 1 | 2020 |
+| Silicon Valley Community Foundation | $691K | 3 | 2018–2020 |
+| Vanguard Charitable Endowment Program | $446K | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $411K | 6 | 2018–2023 |
-| Vanguard Charitable Endowment Program | $346K | 2 | 2021–2022 |
-| IMPACTASSETSINC | $139K | 2 | 2020–2022 |
+| IMPACTASSETSINC | $406K | 3 | 2019–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $162K | 5 | 2019–2024 |
 | CALIFORNIA NURSES ASSOCIATION | $50K | 1 | 2019 |
-| AMERICAN ENDOWMENT FOUNDATION | $41K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $45K | 2 | 2019–2024 |
+| HOPEWELL FUND | $10K | 1 | 2023 |
+| GS DONOR ADVISED PHILANTHROPY FUND | $10K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

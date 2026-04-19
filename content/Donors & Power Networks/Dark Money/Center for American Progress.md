@@ -356,7 +356,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ARIZONA STATE UNIVERSITY | $63K | 1 | 2020 |
 | LEAGUE OF CONSERVATION VOTERS | $60K | 1 | 2019 |
 
-**Grants received (2018–2024):** $53.5M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $56.6M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -365,13 +365,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $4.8M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $4.1M | 5 | 2018–2024 |
+| Silicon Valley Community Foundation | $3.2M | 5 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $1.2M | 6 | 2018–2024 |
-| Silicon Valley Community Foundation | $1.2M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $692K | 2 | 2021–2022 |
-| IMPACTASSETSINC | $400K | 2 | 2020–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $800K | 2 | 2022–2023 |
+| Vanguard Charitable Endowment Program | $708K | 3 | 2021–2023 |
+| IMPACTASSETSINC | $550K | 5 | 2018–2023 |
 | HOPEWELL FUND | $290K | 2 | 2020–2022 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $100K | 1 | 2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $7K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $163K | 3 | 2018–2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $30K | 1 | 2019 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

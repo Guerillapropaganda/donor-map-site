@@ -31,28 +31,28 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 4 (2020–2022)
+**Filings available:** 10 (2017–2024)
 
-**Most recent filing (2022):**
+**Most recent filing (2024):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $914.6M |
+| Contribution revenue | — |
 | Total expenses | — |
-| Total assets (EOY) | $3.08B |
-| Grants paid out | $403.3M |
+| Total assets (EOY) | — |
+| Grants paid out | — |
 
-**Lifetime grants out (2020–2022):** $755.7M across 2 recipients.
+**Lifetime grants out (2017–2024):** $2.18B across 2 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
-| See Attached Grant Report | $403.3M | 1 | 2022 |
-| View Attached Grant Report | $352.4M | 1 | 2020 |
+| View Attached Grant Report | $1.23B | 4 | 2017–2020 |
+| See Attached Grant Report | $956.0M | 2 | 2022–2023 |
 
-**Grants received (2018–2024):** $369.0M across 8 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $392.7M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -61,11 +61,12 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | SCHWAB CHARITABLE FUND | $184.8M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $109.4M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $63.7M | 5 | 2019–2023 |
-| AMERICAN ENDOWMENT FOUNDATION | $7.3M | 2 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.4M | 5 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $1.0M | 2 | 2021–2022 |
-| GOLDMAN SACHS PHILANTHROPY FUND | $885K | 1 | 2022 |
-| IMPACTASSETSINC | $447K | 2 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $22.1M | 7 | 2018–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $4.8M | 13 | 2018–2023 |
+| IMPACTASSETSINC | $3.3M | 5 | 2018–2023 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $2.5M | 4 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $1.8M | 3 | 2021–2023 |
+| Greater Horizons | $347K | 3 | 2018–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

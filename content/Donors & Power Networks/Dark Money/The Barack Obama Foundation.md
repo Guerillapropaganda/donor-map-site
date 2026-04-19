@@ -33,21 +33,22 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2024):** $110.0M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $189.4M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $43.8M | 6 | 2018–2023 |
+| Goldman Sachs Philanthropy Fund | $38.6M | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $35.4M | 6 | 2018–2023 |
-| Goldman Sachs Philanthropy Fund | $12.6M | 2 | 2020–2022 |
-| Silicon Valley Community Foundation | $8.5M | 2 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $26.1M | 5 | 2019–2024 |
+| Silicon Valley Community Foundation | $22.3M | 5 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $12.2M | 3 | 2021–2023 |
 | SCHWAB CHARITABLE FUND | $7.2M | 7 | 2018–2024 |
-| IMPACTASSETSINC | $1.2M | 2 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.1M | 3 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $73K | 2 | 2021–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $38K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $2.6M | 10 | 2018–2024 |
+| IMPACTASSETSINC | $1.2M | 3 | 2020–2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $25K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

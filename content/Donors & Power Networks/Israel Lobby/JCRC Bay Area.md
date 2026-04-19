@@ -181,12 +181,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $1.0M |
 | Grants paid out | — |
 
-**Grants received (2024):** $13K across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2023–2024):** $43K across 2 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| GS DONOR ADVISED PHILANTHROPY FUND | $30K | 1 | 2023 |
 | DONOR ADVISED CHARITABLE GIVING INC | $13K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

@@ -33,7 +33,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2019–2024):** $74.2M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2019–2024):** $74.3M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -43,6 +43,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | NEW VENTURE FUND | $32.1M | 4 | 2020–2024 |
 | GROVE ACTION FUND | $225K | 3 | 2021–2024 |
 | FUTURE FORWARD USA ACTION | $50K | 1 | 2024 |
+| HOPEWELL FUND | $45K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

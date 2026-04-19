@@ -75,24 +75,26 @@ politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Gri
 | CALIFORNIA INSTITUTE OF TECHNOLOGY | $121.8M | 7 | 2018–2024 |
 | CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS | $120.9M | 4 | 2021–2024 |
 
-**Grants received (2018–2024):** $1.88B across 12 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.68B across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $943.2M | 6 | 2018–2023 |
+| Silicon Valley Community Foundation | $507.7M | 5 | 2018–2023 |
 | Marble Freedom Trust | $447.6M | 4 | 2021–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $332.0M | 6 | 2018–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $168.6M | 10 | 2018–2024 |
+| Goldman Sachs Philanthropy Fund | $119.2M | 6 | 2018–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $49.2M | 25 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $46.3M | 3 | 2021–2023 |
 | Rule of Law Trust | $43.8M | 3 | 2022–2024 |
-| Goldman Sachs Philanthropy Fund | $37.5M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $31.1M | 2 | 2021–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $18.8M | 6 | 2020–2022 |
-| Silicon Valley Community Foundation | $18.3M | 2 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $7.5M | 5 | 2020–2022 |
-| IMPACTASSETSINC | $4.4M | 3 | 2020–2022 |
+| Greater Horizons | $8.3M | 2 | 2019–2024 |
+| IMPACTASSETSINC | $8.3M | 7 | 2018–2023 |
 | NEW VENTURE FUND | $505K | 1 | 2018 |
 | MAGA ACTION INC | $400K | 1 | 2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $200K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

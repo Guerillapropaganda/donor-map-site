@@ -511,7 +511,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ONE AMERICA MOVEMENT | $13K | 1 | 2025 |
 | YOUNG AMERICANS FOR LIBERTY FOUNDATION | $10K | 1 | 2025 |
 
-**Grants received (2018–2024):** $58.9M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $62.4M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -519,14 +519,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $9.0M | 7 | 2018–2024 |
-| Vanguard Charitable Endowment Program | $3.6M | 2 | 2021–2022 |
+| Vanguard Charitable Endowment Program | $5.5M | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $3.1M | 6 | 2018–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.6M | 6 | 2018–2024 |
 | Donors Capital Fund Inc | $713K | 4 | 2020–2023 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $670K | 2 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $572K | 5 | 2018–2024 |
 | BRADLEY IMPACT FUND INC | $521K | 5 | 2018–2024 |
+| Silicon Valley Community Foundation | $352K | 5 | 2018–2023 |
 | NEW VENTURE FUND | $200K | 1 | 2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $157K | 2 | 2020–2022 |
-| Silicon Valley Community Foundation | $144K | 2 | 2020–2022 |
+| Greater Horizons | $39K | 1 | 2024 |
+| GS DONOR ADVISED PHILANTHROPY FUND | $7K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

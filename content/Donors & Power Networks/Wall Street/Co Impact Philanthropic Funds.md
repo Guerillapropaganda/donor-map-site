@@ -1,14 +1,15 @@
 ---
-title: "Co Impact Philanthropic Funds"
+title: Co Impact Philanthropic Funds
 type: donor
 content-readiness: raw
-last-updated: 2026-04-18
-sector: "Wall Street"
-entity-type: "Donor-Collaborative"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Wall Street
+entity-type: Donor-Collaborative
 ein: "882408684"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Collaborative philanthropy vehicle pooling large-donor capital for gender/health/education programs. $266M+ in Schedule I grants received. Narrative pending Research Claude editorial pass."
+internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Collaborative philanthropy vehicle pooling large-donor capital for gender/health/education programs. $266M+ in Schedule I grants received. Narrative pending Research Claude editorial pass.
+politicians-funded: "[[New Venture Fund]]"
 ---
 
 # Co Impact Philanthropic Funds
@@ -31,39 +32,53 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 1 (2022–2022)
+**Filings available:** 3 (2022–2024)
 
-**Most recent filing (2022):**
+**Most recent filing (2024):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $75.0M |
+| Contribution revenue | $32.4M |
 | Total expenses | — |
-| Total assets (EOY) | $31.8M |
-| Grants paid out | $5.5M |
+| Total assets (EOY) | $272.9M |
+| Grants paid out | $33.5M |
 
-**Lifetime grants out (2022–2022):** $5.5M across 7 recipients.
+**Lifetime grants out (2022–2024):** $80.0M across 45 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
+| NEW VENTURE FUND | $16.4M | 3 | 2023–2024 |
+| ONE ACRE FUND | $12.8M | 2 | 2023–2024 |
+| MASSACHUSETTS INSTITUTE OF TECHNOLOGY | $7.9M | 2 | 2023–2024 |
+| DASRA | $3.9M | 1 | 2024 |
+| LWALA COMMUNITY ALLIANCE | $3.6M | 2 | 2022–2024 |
 | JAN SAHAS SOCIAL DEVELOPMENT SOCIETY | $3.0M | 1 | 2022 |
-| PLANETREAD | $1.3M | 1 | 2022 |
-| LWALA COMMUNITY ALLIANCE | $500K | 1 | 2022 |
-| CENTER FOR GLOBAL DEVELOPMENT | $295K | 1 | 2022 |
-| BRIDGESPAN GROUP | $200K | 1 | 2022 |
-| INTERNATIONAL INITIATIVE FOR IMPACT EVALUATION | $160K | 1 | 2022 |
-| MSI | $60K | 1 | 2022 |
+| LAST MILE HEALTH | $2.8M | 2 | 2023–2024 |
+| PEOPLE'S COURAGE INTERNATIONAL | $2.7M | 1 | 2023 |
+| PLANETREAD | $2.2M | 2 | 2022–2024 |
+| UNIVERSITY OF NEW MEXICO ECHO INSTITUTE | $2.1M | 1 | 2024 |
+| INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT | $2.0M | 1 | 2023 |
+| ARMMAN-USA | $2.0M | 1 | 2024 |
+| IDINSIGHT | $1.8M | 1 | 2023 |
+| OPEN GOVERNMENT PARTNERSHIP SECRETARIAT | $1.5M | 2 | 2023–2024 |
+| UNIVERSITY OF NEW MEXICO | $1.4M | 1 | 2023 |
+| ARROW | $1.1M | 1 | 2024 |
+| INTERNATIONAL ASSOCIATION OF WOMEN JUDGES | $1.0M | 2 | 2023–2024 |
+| THE GLOBAL FUND FOR WOMEN INC | $1.0M | 1 | 2023 |
+| ID INSIGHT INC | $894K | 1 | 2024 |
+| INTERNATIONAL BUSINESS PARTNERSHIP | $866K | 1 | 2023 |
 
-**Grants received (2022–2024):** $266.7M across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2022–2024):** $267.2M across 2 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | NEW VENTURE FUND | $266.7M | 3 | 2022–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $500K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

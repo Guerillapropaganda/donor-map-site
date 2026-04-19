@@ -308,18 +308,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $1.1M |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $1.6M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.0M across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| Vanguard Charitable Endowment Program | $720K | 2 | 2021–2022 |
+| Vanguard Charitable Endowment Program | $974K | 3 | 2021–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $303K | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $275K | 7 | 2018–2024 |
-| AMERICAN ENDOWMENT FOUNDATION | $104K | 1 | 2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $186K | 3 | 2018–2023 |
 | BRADLEY IMPACT FUND INC | $103K | 2 | 2019–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $92K | 3 | 2021–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $20K | 2 | 2023–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

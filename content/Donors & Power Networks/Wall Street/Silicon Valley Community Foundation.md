@@ -9,7 +9,7 @@ ein: "205205488"
 nonprofit-status: 501(c)(3)
 source-tier: 1
 internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Largest community foundation in the US; operates as one of the largest donor-advised fund sponsors, channeling tech-sector wealth. Observed inflow of $843M from Fidelity Investments Charitable Gift Fund in 2022. Narrative pending Research Claude editorial pass.
-politicians-funded: "[[Rockefeller Philanthropy Advisors]], [[National Philanthropic Trust]], [[Morgan Stanley Global Impact Funding Trust]], [[Cato Institute]], [[Schwab Charitable Fund]], [[Mercatus Center]], [[Vanguard Charitable Endowment Program]], [[US Chamber of Commerce]], [[Urban Institute]], [[Bank of America Charitable Gift Fund]], [[RAND Corporation]], [[ImpactAssets]], [[ACLU Foundation]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[Brennan Center for Justice]], [[Hudson Institute]], [[Council on Foreign Relations]], [[Hopewell Fund]], [[New Venture Fund]], [[American Endowment Foundation]], [[Fidelity Investments]], [[The Barack Obama Foundation]], [[Planned Parenthood Federation of America]], [[American Enterprise Institute]], [[NEO Philanthropy]], [[Ocean Conservancy]], [[Equal Justice Initiative]], [[Natural Resources Defense Council]], [[Center for Popular Democracy]], [[ClimateWorks Foundation]], [[Proteus Fund]], [[Vital Strategies]]"
+politicians-funded: "[[Rockefeller Philanthropy Advisors]], [[National Philanthropic Trust]], [[Morgan Stanley Global Impact Funding Trust]], [[Cato Institute]], [[Schwab Charitable Fund]], [[Mercatus Center]], [[Vanguard Charitable Endowment Program]], [[US Chamber of Commerce]], [[Urban Institute]], [[Bank of America Charitable Gift Fund]], [[RAND Corporation]], [[ImpactAssets]], [[ACLU Foundation]], [[Bipartisan Policy Center]], [[Center for American Progress]], [[Brennan Center for Justice]], [[Hudson Institute]], [[Council on Foreign Relations]], [[Hopewell Fund]], [[New Venture Fund]], [[American Endowment Foundation]], [[Fidelity Investments]], [[The Barack Obama Foundation]], [[Planned Parenthood Federation of America]], [[American Enterprise Institute]], [[NEO Philanthropy]], [[Ocean Conservancy]], [[Equal Justice Initiative]], [[Natural Resources Defense Council]], [[Center for Popular Democracy]], [[ClimateWorks Foundation]], [[Proteus Fund]], [[Vital Strategies]], [[Greater Horizons]], [[The Seminar Network]], [[Goldman Sachs Philanthropy Fund]], [[California Charter Schools Association]], [[Roosevelt Institute]], [[Sierra Club Foundation]], [[Economic Policy Institute]], [[OpenAI]], [[Silicon Valley Community Foundation]]"
 ---
 
 # Silicon Valley Community Foundation
@@ -32,46 +32,46 @@ politicians-funded: "[[Rockefeller Philanthropy Advisors]], [[National Philanthr
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 4 (2020–2022)
+**Filings available:** 9 (2018–2024)
 
-**Most recent filing (2022):**
+**Most recent filing (2024):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $2.48B |
+| Contribution revenue | — |
 | Total expenses | — |
-| Total assets (EOY) | $10.98B |
-| Grants paid out | $2.06B |
+| Total assets (EOY) | — |
+| Grants paid out | — |
 
-**Lifetime grants out (2020–2022):** $4.63B across 5,553 recipients.
+**Lifetime grants out (2018–2024):** $12.64B across 8,307 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
+| Further Future Foundation | $1.31B | 1 | 2023 |
 | Fidelity Inv Charitable Gift Fund | $744.3M | 1 | 2020 |
-| Center for Technology and Civic Life | $329.1M | 2 | 2020–2022 |
-| Evidence Action Inc | $112.4M | 2 | 2020–2022 |
-| T L P Education | $78.5M | 2 | 2020–2022 |
+| CZ Institute for Advanced Biological Imaging LLC | $586.0M | 1 | 2023 |
+| CZ Biohub SF LLC | $576.0M | 1 | 2023 |
+| Schwab Charitable Fund | $507.7M | 5 | 2018–2023 |
+| Center for Technology and Civic Life | $330.0M | 4 | 2019–2023 |
+| CZ Biohub New York LLC | $248.0M | 1 | 2023 |
+| CZ Biohub Chicago LLC | $246.5M | 1 | 2023 |
+| Fidelity Investments Charitable Gift Fund | $243.3M | 4 | 2018–2023 |
+| Parker Institute for Cancer Immunotherapy | $214.8M | 4 | 2018–2022 |
+| Evidence Action Inc | $149.0M | 5 | 2018–2023 |
+| The Just Trust for Education | $131.6M | 1 | 2023 |
+| American Online Giving Foundation Inc | $107.8M | 5 | 2018–2023 |
+| First Look Media Works Inc | $105.5M | 4 | 2018–2022 |
+| The Chicago Community Trust | $100.9M | 2 | 2019–2020 |
+| Helen Keller International Inc | $98.5M | 2 | 2022–2023 |
+| Board of Trustees of the Leland Stanford Junior University | $81.0M | 5 | 2018–2023 |
+| T L P Education | $78.5M | 3 | 2019–2022 |
+| City Fund | $72.3M | 3 | 2019–2023 |
 | Center for Election Innovation &amp; Research | $69.5M | 1 | 2020 |
-| American Online Giving Foundation Inc | $55.9M | 2 | 2020–2022 |
-| Denver Foundation | $51.8M | 1 | 2020 |
-| First Look Media Works Inc | $49.4M | 2 | 2020–2022 |
-| Tides Foundation | $44.6M | 2 | 2020–2022 |
-| One Valley Community Foundation | $42.3M | 1 | 2020 |
-| Fidelity Investments Charitable Gift Fund | $39.0M | 1 | 2022 |
-| A Khmer Buddhist Foundation | $33.8M | 1 | 2020 |
-| Effective Ventures Foundation USA Inc | $32.2M | 1 | 2022 |
-| Helen Keller International Inc | $31.0M | 1 | 2022 |
-| Board of Trustees of the Leland Stanford Junior University | $30.0M | 2 | 2020–2022 |
-| GAVI Alliance | $30.0M | 1 | 2020 |
-| Planned Parenthood of the Pacific SW | $30.0M | 1 | 2022 |
-| BRAC USA Inc | $26.9M | 2 | 2020–2022 |
-| Jewish Community Fed of SF Marin Peninsula &amp; Sonoma Counties | $25.8M | 1 | 2022 |
-| Rockefeller Philanthropy Advisors Inc | $21.9M | 2 | 2020–2022 |
 
-**Grants received (2018–2024):** $2.44B across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $2.55B across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -79,12 +79,14 @@ politicians-funded: "[[Rockefeller Philanthropy Advisors]], [[National Philanthr
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $1.17B | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.04B | 6 | 2018–2023 |
-| Goldman Sachs Philanthropy Fund | $210.3M | 2 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $320.7M | 5 | 2018–2024 |
 | SCHWAB CHARITABLE FUND | $13.4M | 7 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $2.6M | 3 | 2021–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $2.5M | 5 | 2019–2024 |
 | IMPACTASSETSINC | $1.4M | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.2M | 2 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $1.2M | 2 | 2021–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $94K | 2 | 2020–2022 |
+| SILICON VALLEY COMMUNITY FOUNDATION | $252K | 3 | 2018–2019 |
+| AMERICAN ENDOWMENT FOUNDATION | $111K | 4 | 2018–2022 |
+| Rockefeller Philanthropy Advisors Inc | $100K | 1 | 2018 |
 | HOPEWELL FUND | $35K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

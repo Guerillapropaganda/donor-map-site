@@ -313,7 +313,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | BROWN UNIVERSITY | $10K | 1 | 2022 |
 | RENEW DEMOCRACY INITIATIVE | $10K | 1 | 2024 |
 
-**Grants received (2018–2024):** $22.4M across 14 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $25.8M across 14 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -322,17 +322,17 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | SCHWAB CHARITABLE FUND | $8.7M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $5.5M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.1M | 5 | 2019–2023 |
-| Vanguard Charitable Endowment Program | $2.1M | 2 | 2021–2022 |
+| Vanguard Charitable Endowment Program | $3.3M | 3 | 2021–2023 |
+| Silicon Valley Community Foundation | $1.6M | 5 | 2018–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $1.1M | 6 | 2018–2024 |
 | BRADLEY IMPACT FUND INC | $521K | 6 | 2018–2024 |
-| Silicon Valley Community Foundation | $421K | 2 | 2020–2022 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $350K | 5 | 2018–2024 |
-| AMERICAN ENDOWMENT FOUNDATION | $325K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $282K | 5 | 2022–2024 |
+| Goldman Sachs Philanthropy Fund | $182K | 5 | 2018–2023 |
 | AMERICAN PETROLEUM INSTITUTE | $135K | 2 | 2018–2024 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $94K | 1 | 2022 |
 | BLUE CROSS BLUE SHIELD ASSOCIATION | $50K | 1 | 2023 |
 | Donors Capital Fund Inc | $30K | 1 | 2020 |
 | THE BUSINESS ROUNDTABLE INC | $25K | 1 | 2024 |
-| Goldman Sachs Philanthropy Fund | $13K | 2 | 2020–2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

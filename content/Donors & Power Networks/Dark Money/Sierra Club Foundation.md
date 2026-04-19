@@ -33,7 +33,7 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2024):** $68.7M across 11 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $71.4M across 12 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -41,15 +41,16 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $50.9M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $13.5M | 8 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $1.7M | 3 | 2021–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $1.5M | 6 | 2018–2023 |
-| Vanguard Charitable Endowment Program | $1.2M | 2 | 2021–2022 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $865K | 4 | 2018–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $807K | 8 | 2018–2024 |
 | NEW VENTURE FUND | $560K | 4 | 2018–2023 |
-| AMERICAN ENDOWMENT FOUNDATION | $213K | 4 | 2020–2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $186K | 2 | 2020–2022 |
-| IMPACTASSETSINC | $179K | 2 | 2020–2022 |
-| ROCKEFELLER PHILANTHROPY ADVISORS INC | $165K | 2 | 2020–2022 |
-| Silicon Valley Community Foundation | $120K | 2 | 2020–2022 |
-| Goldman Sachs Philanthropy Fund | $55K | 2 | 2020–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $553K | 13 | 2018–2024 |
+| IMPACTASSETSINC | $368K | 5 | 2018–2023 |
+| Silicon Valley Community Foundation | $367K | 5 | 2018–2023 |
+| Goldman Sachs Philanthropy Fund | $159K | 6 | 2018–2024 |
+| Greater Horizons | $128K | 2 | 2018–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

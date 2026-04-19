@@ -33,17 +33,17 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2024):** $215.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $251.4M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| GOLDMAN SACHS PHILANTHROPY FUND | $128.0M | 1 | 2022 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $163.0M | 3 | 2022–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $32.3M | 4 | 2020–2023 |
 | SCHWAB CHARITABLE FUND | $28.0M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $17.2M | 6 | 2018–2023 |
-| Silicon Valley Community Foundation | $10.0M | 1 | 2022 |
+| Silicon Valley Community Foundation | $11.0M | 2 | 2022–2023 |
 | IMPACTASSETSINC | $10K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

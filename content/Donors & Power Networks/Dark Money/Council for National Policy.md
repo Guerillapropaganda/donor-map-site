@@ -305,19 +305,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $3.5M |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $440K across 7 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $553K across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $184K | 3 | 2020–2023 |
+| Goldman Sachs Philanthropy Fund | $110K | 4 | 2019–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $90K | 2 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $61K | 4 | 2019–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $48K | 3 | 2018–2022 |
 | CLUB FOR GROWTH | $35K | 2 | 2021–2024 |
-| AMERICAN ENDOWMENT FOUNDATION | $30K | 2 | 2020–2022 |
 | The Concord Fund | $25K | 1 | 2022 |
-| Goldman Sachs Philanthropy Fund | $15K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

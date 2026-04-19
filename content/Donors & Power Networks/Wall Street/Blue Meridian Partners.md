@@ -33,13 +33,13 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
 
-**Grants received (2018–2023):** $321.2M across 3 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $561.5M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
-| Goldman Sachs Philanthropy Fund | $196.8M | 2 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $437.1M | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $96.7M | 2 | 2018–2022 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $27.6M | 3 | 2021–2023 |
 

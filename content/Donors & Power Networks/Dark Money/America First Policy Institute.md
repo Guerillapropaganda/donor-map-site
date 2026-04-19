@@ -203,18 +203,20 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FOUNDATION FOR GOVERNMENT ACCOUNTABILITY | $250K | 1 | 2023 |
 | NATIONAL FAITH ADVISORY BOARD | $100K | 1 | 2023 |
 
-**Grants received (2022–2024):** $6.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2022–2024):** $8.7M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.6M | 2 | 2022–2023 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $2.5M | 3 | 2022–2024 |
 | SCHWAB CHARITABLE FUND | $1.3M | 3 | 2022–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $625K | 2 | 2022–2023 |
-| GOLDMAN SACHS PHILANTHROPY FUND | $503K | 1 | 2022 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $285K | 1 | 2022 |
-| Vanguard Charitable Endowment Program | $52K | 1 | 2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $375K | 3 | 2022–2024 |
+| Greater Horizons | $150K | 1 | 2024 |
+| Vanguard Charitable Endowment Program | $89K | 2 | 2022–2023 |
+| AMERICAN ENDOWMENT FOUNDATION | $50K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

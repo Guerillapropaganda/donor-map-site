@@ -31,44 +31,44 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 2 (2020–2022)
+**Filings available:** 5 (2019–2024)
 
-**Most recent filing (2022):**
+**Most recent filing (2024):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | $103.9M |
+| Contribution revenue | $130.9M |
 | Total expenses | — |
-| Total assets (EOY) | $142.3M |
-| Grants paid out | $46.1M |
+| Total assets (EOY) | $114.3M |
+| Grants paid out | $8.8M |
 
-**Lifetime grants out (2020–2022):** $70.1M across 99 recipients.
+**Lifetime grants out (2019–2024):** $101.8M across 168 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
 | RESOLVE TO SAVE LIVES INC | $35.7M | 1 | 2022 |
-| PAN AMERICAN HEALTH ORGANIZATION - PAHO | $2.5M | 2 | 2020–2022 |
-| INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (WORLD BANK) | $2.0M | 1 | 2020 |
-| QUINTILES (IQVIA) | $2.0M | 1 | 2020 |
-| CAMPAIGN FOR TOBACCO FREE KIDS | $1.7M | 2 | 2020–2022 |
-| CDC FOUNDATION | $1.4M | 1 | 2020 |
+| QUINTILES (IQVIA) | $8.1M | 3 | 2019–2023 |
+| PAN AMERICAN HEALTH ORGANIZATION - PAHO | $3.2M | 5 | 2019–2024 |
+| INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (WORLD BANK) | $3.0M | 2 | 2019–2020 |
+| CAMPAIGN FOR TOBACCO FREE KIDS | $2.8M | 3 | 2019–2022 |
+| CDC FOUNDATION | $1.9M | 2 | 2019–2020 |
+| PROJECT HOPE FOUNDATION | $1.8M | 3 | 2019–2022 |
+| NORTH CAROLINA COMMUNITY FOUNDATION INC | $1.5M | 1 | 2023 |
 | ALIMA USA INC | $1.4M | 1 | 2020 |
-| PROJECT HOPE FOUNDATION | $1.2M | 2 | 2020–2022 |
+| JOHNS HOPKINS UNIVERSITY | $1.3M | 3 | 2020–2024 |
+| YALE UNIVERSITY | $1.2M | 3 | 2019–2024 |
 | IQVIA | $1.2M | 1 | 2022 |
+| NEWARK COMMUNITY STREET TEAM INC | $1.2M | 3 | 2022–2024 |
 | HEALTH RESEARCH INC | $1.1M | 1 | 2020 |
 | THE GRAND RAPIDS RED PROJECT | $1.1M | 2 | 2020–2022 |
+| LEGAL ACTION CENTER OF THE CITY OF NEW YORK INC | $1.1M | 3 | 2022–2024 |
+| COMMUNITY FOUNDATION FOR SOUTHEAST MICHIGAN | $1.0M | 3 | 2020–2024 |
 | THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK | $995K | 2 | 2020–2022 |
-| JOHNS HOPKINS UNIVERSITY | $949K | 2 | 2020–2022 |
-| COMMUNITY FOUNDATION FOR SOUTHEAST MICHIGAN | $912K | 1 | 2020 |
+| SOUTHEASTERN MICHIGAN HEALTH ASSOCIATION | $947K | 4 | 2019–2023 |
 | PATH | $863K | 1 | 2020 |
-| NOVETTA INC | $835K | 1 | 2020 |
-| LAST MILE HEALTH | $737K | 2 | 2020–2022 |
-| MUSO INC | $694K | 1 | 2020 |
-| SOUTHEASTERN MICHIGAN HEALTH ASSOCIATION | $652K | 2 | 2020–2022 |
-| UNIVERSITY OF PITTSBURGH | $647K | 2 | 2020–2022 |
 
 **Grants received (2018–2024):** $259.0M across 4 grantors (from other vault orgs' Schedule I records).
 

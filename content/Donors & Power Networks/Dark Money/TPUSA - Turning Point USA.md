@@ -212,7 +212,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | DAILY CALLER NEWS FOUNDATION | $8K | 1 | 2022 |
 | VINDEX MEDIA | $8K | 1 | 2023 |
 
-**Grants received (2018–2024):** $50.1M across 9 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $53.8M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -223,10 +223,12 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $5.1M | 6 | 2018–2023 |
 | The 85 Fund | $3.3M | 2 | 2020–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $2.8M | 5 | 2019–2023 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $610K | 4 | 2020–2022 |
-| Vanguard Charitable Endowment Program | $296K | 2 | 2021–2022 |
-| Goldman Sachs Philanthropy Fund | $293K | 2 | 2020–2022 |
-| AMERICAN ENDOWMENT FOUNDATION | $230K | 4 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $1.7M | 5 | 2019–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $1.4M | 8 | 2018–2024 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.2M | 10 | 2020–2024 |
+| Vanguard Charitable Endowment Program | $560K | 3 | 2021–2023 |
+| Greater Horizons | $326K | 1 | 2024 |
+| IMPACTASSETSINC | $61K | 1 | 2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -254,5 +254,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | DONOR NETWORK WEST FOUNDATION | $2.0M | 1 | 2023 |
 
+**Grants received (2018):** $5K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN ENDOWMENT FOUNDATION | $5K | 1 | 2018 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

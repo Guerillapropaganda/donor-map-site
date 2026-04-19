@@ -1,14 +1,15 @@
 ---
-title: "Greater Horizons"
+title: Greater Horizons
 type: donor
 content-readiness: raw
-last-updated: 2026-04-18
-sector: "Wall Street"
-entity-type: "Donor-Advised Fund"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Wall Street
+entity-type: Donor-Advised Fund
 ein: "200849590"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. DAF sponsor operated by the Greater Kansas City Community Foundation. Significant pass-through volume. Narrative pending Research Claude editorial pass."
+internal-notes: Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. DAF sponsor operated by the Greater Kansas City Community Foundation. Significant pass-through volume. Narrative pending Research Claude editorial pass.
+politicians-funded: "[[Renaissance Charitable Foundation]], [[National Philanthropic Trust]], [[American Endowment Foundation]], [[Bank of America Charitable Gift Fund]], [[Heritage Foundation]], [[ACLU Foundation]], [[Stand Together Foundation]], [[Natural Resources Defense Council]], [[Fidelity Investments]], [[Sierra Club Foundation]], [[ImpactAssets]], [[America First Policy Institute]], [[Alliance Defending Freedom]], [[Schwab Charitable Fund]], [[Morgan Stanley Global Impact Funding Trust]], [[TPUSA - Turning Point USA]]"
 ---
 
 # Greater Horizons
@@ -31,28 +32,46 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-**Filings available:** 4 (2020–2022)
+**Filings available:** 9 (2018–2024)
 
-**Most recent filing (2022):**
+**Most recent filing (2024):**
 
 | Metric | Amount |
 |---|---:|
 | Total revenue | — |
-| Contribution revenue | — |
+| Contribution revenue | $647.5M |
 | Total expenses | — |
-| Total assets (EOY) | — |
-| Grants paid out | — |
+| Total assets (EOY) | $2.78B |
+| Grants paid out | $212.2M |
 
-**Lifetime grants out (2020–2022):** $624.5M across 2 recipients.
+**Lifetime grants out (2018–2024):** $2.03B across 4,089 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
+| SEE ATTACHMENT | $852.9M | 1 | 2023 |
 | SEE ATTACHED | $352.2M | 1 | 2022 |
 | SEE SCHEDULE I ATTACHMENT | $272.3M | 1 | 2020 |
+| Essex County Community Foundation | $31.8M | 2 | 2018–2019 |
+| Tahoe Truckee Community Foundation | $26.8M | 3 | 2018–2024 |
+| Central Kansas Community Foundation | $24.0M | 1 | 2019 |
+| Indian River Community Foundation | $18.9M | 2 | 2018–2019 |
+| South Central Community Foundation | $18.3M | 3 | 2018–2019 |
+| The Community Foundation Serving Boulder County | $17.2M | 2 | 2018–2019 |
+| Community Foundation of Southern New Mexico | $15.6M | 2 | 2018–2019 |
+| Nevada Community Foundation | $11.2M | 2 | 2018–2019 |
+| Community Foundation of Central Illinois | $10.2M | 2 | 2018–2019 |
+| University of Southern California | $10.1M | 1 | 2024 |
+| American Jewish Committee | $9.0M | 2 | 2018–2019 |
+| Donor Advised Charitable Giving Inc (dba DAFgiving360) | $8.2M | 1 | 2024 |
+| Community Foundation of HuntsvilleMadison County | $8.2M | 2 | 2018–2019 |
+| Hutchinson Community Foundation | $7.9M | 2 | 2018–2019 |
+| Long Beach Community Foundation | $7.7M | 2 | 2018–2019 |
+| Community Foundation of South Alabama | $7.1M | 2 | 2018–2019 |
+| OneOC | $6.9M | 2 | 2018–2019 |
 
-**Grants received (2018–2024):** $262.0M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $269.0M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -61,9 +80,11 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 | NATIONAL PHILANTHROPIC TRUST | $164.1M | 3 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $82.2M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $12.7M | 7 | 2018–2024 |
-| AMERICAN ENDOWMENT FOUNDATION | $1.2M | 1 | 2020 |
-| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.0M | 2 | 2020–2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $5.9M | 4 | 2019–2024 |
+| SILICON VALLEY COMMUNITY FOUNDATION | $2.0M | 1 | 2018 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $1.3M | 3 | 2020–2024 |
 | Vanguard Charitable Endowment Program | $831K | 1 | 2021 |
+| GS DONOR ADVISED PHILANTHROPY FUND | $100K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

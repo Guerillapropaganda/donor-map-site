@@ -335,12 +335,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Cornell University | $150K | 1 | 2024 |
 | University of Pennsylvania | $150K | 1 | 2024 |
 
-**Grants received (2019–2024):** $12.8M across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2019–2024):** $42.8M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| Silicon Valley Community Foundation | $30.0M | 1 | 2019 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $7.8M | 3 | 2019–2021 |
 | DONOR ADVISED CHARITABLE GIVING INC | $5.0M | 1 | 2024 |
 

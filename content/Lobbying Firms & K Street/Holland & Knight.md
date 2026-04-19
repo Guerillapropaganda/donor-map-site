@@ -421,13 +421,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | BEST BUDDIES INTERNATIONAL | $8K | 1 | 2022 |
 | FOUNDATION DEMOCRATIC DEVELOPMENT | $7K | 1 | 2022 |
 
-**Grants received (2020–2024):** $82K across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $112K across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $72K | 4 | 2020–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $30K | 2 | 2018–2024 |
 | DONOR ADVISED CHARITABLE GIVING INC | $11K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

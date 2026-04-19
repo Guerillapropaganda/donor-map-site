@@ -324,7 +324,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Arab-American Family Support Center | $333K | 3 | 2021–2023 |
 | El Buen Samaritano Episcopal Mission | $323K | 3 | 2021–2023 |
 
-**Grants received (2018–2024):** $21.2M across 10 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $23.1M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -332,13 +332,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $15.3M | 3 | 2021–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.0M | 6 | 2018–2023 |
-| Goldman Sachs Philanthropy Fund | $1.4M | 2 | 2020–2022 |
+| Goldman Sachs Philanthropy Fund | $2.7M | 4 | 2020–2024 |
+| Silicon Valley Community Foundation | $600K | 2 | 2020–2023 |
 | SCHWAB CHARITABLE FUND | $577K | 4 | 2020–2024 |
 | NEW VENTURE FUND | $336K | 1 | 2020 |
-| Silicon Valley Community Foundation | $200K | 1 | 2020 |
+| HOPEWELL FUND | $320K | 3 | 2018–2020 |
+| Vanguard Charitable Endowment Program | $168K | 3 | 2021–2023 |
 | IMPACTASSETSINC | $156K | 1 | 2022 |
-| Vanguard Charitable Endowment Program | $152K | 2 | 2021–2022 |
-| HOPEWELL FUND | $120K | 1 | 2020 |
 | BIPARTISAN POLICY CENTER INC | $20K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
