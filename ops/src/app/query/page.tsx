@@ -380,6 +380,42 @@ export default function QueryPage() {
               onChange={(e) => updateFilter("min_amount", e.target.value ? parseFloat(e.target.value) : undefined)}
               style={inputStyle}
             />
+            <select
+              value={filters.role || ""}
+              onChange={(e) => updateFilter("role", e.target.value)}
+              style={inputStyle}
+              title="Filter by edge role (ie-support, ie-oppose, etc.)"
+            >
+              <option value="">any role (support + oppose + direct)</option>
+              <option value="null">direct donations only (role=null)</option>
+              <option value="ie-support">IE-support only</option>
+              <option value="ie-oppose">IE-oppose only (attack spending)</option>
+              <option value="employee-contributions">employee contributions</option>
+            </select>
+            <select
+              value={filters.exclude_role || ""}
+              onChange={(e) => updateFilter("exclude_role", e.target.value)}
+              style={inputStyle}
+              title="Exclude specific role. Useful: exclude IE-oppose when asking about donors."
+            >
+              <option value="">include all roles</option>
+              <option value="ie-oppose">exclude IE-oppose (attack spending)</option>
+              <option value="ie-support">exclude IE-support</option>
+            </select>
+            <input
+              type="text"
+              placeholder="source (e.g. fec-bulk)"
+              value={filters.source || ""}
+              onChange={(e) => updateFilter("source", e.target.value)}
+              style={inputStyle}
+            />
+            <input
+              type="text"
+              placeholder="cycle (e.g. 2024)"
+              value={filters.cycle || ""}
+              onChange={(e) => updateFilter("cycle", e.target.value)}
+              style={inputStyle}
+            />
           </div>
         )}
 
@@ -547,21 +583,31 @@ export default function QueryPage() {
               <tr style={{ background: "#1f2937", textAlign: "left" }}>
                 {Object.keys(result.rows[0]).map((k) => (
                   <th key={k} style={thStyle}>
-                    {k}
+                    {humanizeColumn(k)}
                   </th>
                 ))}
               </tr>
             </thead>
             <tbody>
-              {result.rows.map((row, i) => (
-                <tr key={i} style={{ borderTop: "1px solid #1f2937" }}>
-                  {Object.keys(row).map((k) => (
-                    <td key={k} style={tdStyle}>
-                      {renderCell((row as any)[k])}
-                    </td>
-                  ))}
-                </tr>
-              ))}
+              {result.rows.map((row, i) => {
+                const isOppose = (row as any).role === "ie-oppose"
+                return (
+                  <tr
+                    key={i}
+                    style={{
+                      borderTop: "1px solid #1f2937",
+                      background: isOppose ? "#3f1d1d" : undefined,
+                    }}
+                    title={isOppose ? "IE-oppose: attack spending, NOT a donation" : undefined}
+                  >
+                    {Object.keys(row).map((k) => (
+                      <td key={k} style={tdStyle}>
+                        {renderCell((row as any)[k], k)}
+                      </td>
+                    ))}
+                  </tr>
+                )
+              })}
             </tbody>
           </table>
         </div>
@@ -608,8 +654,16 @@ export default function QueryPage() {
   )
 }
 
-function renderCell(v: any): string {
+function renderCell(v: any, key?: string): string {
   if (v === null || v === undefined) return "—"
+  // Humanize known money columns at natural scale
+  if (key && MONEY_KEYS.has(key) && typeof v === "number") return fmtMoney(v)
+  // Humanize role values
+  if (key === "role" && typeof v === "string") {
+    if (v === "ie-oppose") return "IE-oppose (attack)"
+    if (v === "ie-support") return "IE-support"
+    return v
+  }
   if (typeof v === "number") return v.toLocaleString()
   if (typeof v === "boolean") return v ? "✓" : "✗"
   if (Array.isArray(v)) {
@@ -620,6 +674,56 @@ function renderCell(v: any): string {
   if (typeof v === "object") return JSON.stringify(v).slice(0, 80)
   const s = String(v)
   return s.length > 120 ? s.slice(0, 120) + "…" : s
+}
+
+const MONEY_KEYS = new Set([
+  "amount", "total", "total_spend", "total_amount", "positive_spend", "attack_spend",
+  "direct_donations", "ie_support", "ie_oppose", "support_amount", "oppose_amount",
+  "donation_amount", "d_spend", "r_spend", "pro_d", "pro_r",
+])
+
+function fmtMoney(n: number): string {
+  if (!Number.isFinite(n) || n === 0) return "$0"
+  const a = Math.abs(n)
+  if (a >= 1e9) return "$" + (n / 1e9).toFixed(2) + "B"
+  if (a >= 10e6) return "$" + Math.round(n / 1e6) + "M"
+  if (a >= 1e6) return "$" + (n / 1e6).toFixed(1) + "M"
+  if (a >= 10e3) return "$" + Math.round(n / 1e3) + "K"
+  if (a >= 1e3) return "$" + (n / 1e3).toFixed(1) + "K"
+  return "$" + Math.round(n).toLocaleString()
+}
+
+const COLUMN_LABELS: Record<string, string> = {
+  from: "From",
+  to: "To",
+  type: "Type",
+  role: "Role",
+  amount: "Amount",
+  cycle: "Cycle",
+  source: "Source",
+  confidence: "Conf.",
+  date_range: "Dates",
+  from_type: "From type",
+  to_type: "To type",
+  entity_type: "Entity",
+  capital_type: "Capital",
+  class_position: "Class",
+  ideological_function: "Ideology",
+  worker_relationship: "Workers",
+  total_spend: "Total spend",
+  edge_count: "Edges",
+  politicians_count: "Politicians",
+  support_amount: "IE support",
+  oppose_amount: "IE oppose",
+  donation_amount: "Direct $",
+  d_spend: "D spend",
+  r_spend: "R spend",
+  balance: "Balance",
+  days_between: "Days ±",
+}
+
+function humanizeColumn(k: string): string {
+  return COLUMN_LABELS[k] || k.replace(/_/g, " ")
 }
 
 const inputStyle: React.CSSProperties = {

@@ -137,16 +137,28 @@ function stripQuestionWords(s) {
   m = lower.match(/top donors? (?:to|for)\s+(.+?)$/) || lower.match(/(?:who funds|funders of|who funded)\s+(.+?)$/);
   if (m) {
     const name = resolveTitle(m[1]);
-    const r = await engine.query({ subject: 'edges', filters: { to: name, type: 'monetary' }, limit: 200 });
-    r.rows.sort((a, b) => (b.amount || 0) - (a.amount || 0));
-    const withAmount = r.rows.filter((e) => e.amount);
-    console.log(`Top donors to ${name} (${r.total} edges, ${withAmount.length} with dollar amounts):`);
+    const r = await engine.query({ subject: 'edges', filters: { to: name, type: 'monetary' }, limit: 500 });
+    // Split support vs opposition: IE-oppose edges document super-PAC
+    // attack spending, not donations TO the target.
+    const supporters = r.rows.filter((e) => e.role !== 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
+    const opposers = r.rows.filter((e) => e.role === 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
+    const withAmount = supporters.filter((e) => e.amount);
+    const supportTotal = withAmount.reduce((a, e) => a + (e.amount || 0), 0);
+    const opposeTotal = opposers.reduce((a, e) => a + (e.amount || 0), 0);
+    console.log(`Top donors to ${name} (${supporters.length} support / ${opposers.length} oppose edges; ~${fmtUsd(supportTotal)} support vs ~${fmtUsd(opposeTotal)} attack):`);
     withAmount.slice(0, 15).forEach((e) => {
-      console.log(`  ${e.cycle || '—'}  ${fmtUsd(e.amount).padStart(10)}  ${e.from}  [${e.source}]`);
+      const tag = e.role === 'ie-support' ? ' [IE support]' : '';
+      console.log(`  ${e.cycle || '—'}  ${fmtUsd(e.amount).padStart(10)}  ${e.from}${tag}  [${e.source}]`);
     });
-    if (withAmount.length === 0 && r.rows.length > 0) {
-      console.log('  (edges without dollar amounts:)');
-      r.rows.slice(0, 10).forEach((e) => console.log(`  ${e.cycle || '—'}  ${e.from}  [${e.source}]`));
+    if (opposers.length > 0) {
+      console.log(`\n  Opposition spending AGAINST ${name}:`);
+      opposers.slice(0, 10).forEach((e) => {
+        console.log(`  ${e.cycle || '—'}  ${fmtUsd(e.amount).padStart(10)}  ${e.from}  [${e.source}]`);
+      });
+    }
+    if (withAmount.length === 0 && supporters.length > 0) {
+      console.log('  (support edges without dollar amounts:)');
+      supporters.slice(0, 10).forEach((e) => console.log(`  ${e.cycle || '—'}  ${e.from}  [${e.source}]`));
     }
     return;
   }
@@ -158,11 +170,21 @@ function stripQuestionWords(s) {
   if (m) {
     const name = resolveTitle(m[1]);
     const r = await engine.query({ subject: 'edges', filters: { from: name, type: 'monetary' }, limit: 500 });
-    r.rows.sort((a, b) => (b.amount || 0) - (a.amount || 0));
-    console.log(`Where ${name}'s money goes (${r.total} edges):`);
-    r.rows.slice(0, 15).forEach((e) => {
-      console.log(`  ${e.cycle || '—'}  ${fmtUsd(e.amount).padStart(10)}  ${e.to}  [${e.source}]`);
+    const supportEdges = r.rows.filter((e) => e.role !== 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
+    const opposeEdges = r.rows.filter((e) => e.role === 'ie-oppose').sort((a, b) => (b.amount || 0) - (a.amount || 0));
+    const supportTotal = supportEdges.reduce((a, e) => a + (e.amount || 0), 0);
+    const opposeTotal = opposeEdges.reduce((a, e) => a + (e.amount || 0), 0);
+    console.log(`Where ${name}'s money goes (${supportEdges.length} support / ${opposeEdges.length} attack edges; ~${fmtUsd(supportTotal)} to allies, ~${fmtUsd(opposeTotal)} attacking opponents):`);
+    supportEdges.slice(0, 15).forEach((e) => {
+      const tag = e.role === 'ie-support' ? ' [IE support]' : '';
+      console.log(`  ${e.cycle || '—'}  ${fmtUsd(e.amount).padStart(10)}  → ${e.to}${tag}  [${e.source}]`);
     });
+    if (opposeEdges.length > 0) {
+      console.log(`\n  Attack spending AGAINST:`);
+      opposeEdges.slice(0, 10).forEach((e) => {
+        console.log(`  ${e.cycle || '—'}  ${fmtUsd(e.amount).padStart(10)}  AGAINST ${e.to}  [${e.source}]`);
+      });
+    }
     return;
   }
 

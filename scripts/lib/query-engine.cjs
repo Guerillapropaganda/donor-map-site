@@ -24,7 +24,7 @@
  *       limit, offset,
  *       // edges (relationships.jsonl)
  *       from, to, from_type, to_type, type, min_confidence,
- *       min_amount, max_amount, source, status,
+ *       min_amount, max_amount, source, status, role, exclude_role,
  *       // entities (entities.jsonl)
  *       entity_type, capital_type, class_position,
  *       ideological_function, worker_relationship,
@@ -135,6 +135,19 @@ function createInMemoryEngine() {
       if (resolved.source && e.source !== resolved.source) return false
       // Cycle filter (e.g., "2024" or "FY2024")
       if (resolved.cycle && e.cycle !== resolved.cycle) return false
+      // Role filter: accepts string or array. "null" matches role === null/undefined.
+      if (resolved.role !== undefined && resolved.role !== null && resolved.role !== "") {
+        const want = Array.isArray(resolved.role) ? resolved.role : [resolved.role]
+        const edgeRole = e.role == null ? "null" : e.role
+        if (!want.includes(edgeRole)) return false
+      }
+      // Exclude role: accepts string or array. Common use: exclude_role='ie-oppose'
+      // to hide opposition-spending from "top donors" rankings.
+      if (resolved.exclude_role !== undefined && resolved.exclude_role !== null && resolved.exclude_role !== "") {
+        const reject = Array.isArray(resolved.exclude_role) ? resolved.exclude_role : [resolved.exclude_role]
+        const edgeRole = e.role == null ? "null" : e.role
+        if (reject.includes(edgeRole)) return false
+      }
       return true
     })
   }
@@ -287,6 +300,12 @@ function createInMemoryEngine() {
   /**
    * Top opposition donors across multiple events/sectors. The core of
    * the /who-blocks-us enemy list for Phase 2.75.
+   *
+   * Each aggregated row now breaks down its total by role so the caller
+   * can distinguish $X in direct donations vs $Y in independent-
+   * expenditure support vs $Z in opposition spending. A PAC that spends
+   * $500M attacking Democrats is NOT a "top donor to Democrats" — it's
+   * a top opponent.
    */
   function topOppositionDonors({ sector_affected = null, limit = 20 } = {}) {
     ensureLoaded()
@@ -305,12 +324,23 @@ function createInMemoryEngine() {
     for (const edge of edges) {
       if (!politiciansInEvents.has(edge.to)) continue
       if (!byDonor.has(edge.from)) {
-        byDonor.set(edge.from, { amount: 0, count: 0, politicians: new Set() })
+        byDonor.set(edge.from, {
+          amount: 0,
+          count: 0,
+          politicians: new Set(),
+          support_amount: 0,
+          oppose_amount: 0,
+          donation_amount: 0,
+        })
       }
       const r = byDonor.get(edge.from)
-      r.amount += edge.amount || 0
+      const amt = edge.amount || 0
+      r.amount += amt
       r.count += 1
       r.politicians.add(edge.to)
+      if (edge.role === "ie-oppose") r.oppose_amount += amt
+      else if (edge.role === "ie-support") r.support_amount += amt
+      else r.donation_amount += amt
     }
 
     return [...byDonor.entries()]
@@ -319,6 +349,9 @@ function createInMemoryEngine() {
         total_spend: r.amount,
         edge_count: r.count,
         politicians_count: r.politicians.size,
+        support_amount: r.support_amount,
+        oppose_amount: r.oppose_amount,
+        donation_amount: r.donation_amount,
       }))
       .sort((a, b) => b.total_spend - a.total_spend)
       .slice(0, limit)
@@ -417,7 +450,7 @@ function createInMemoryEngine() {
         `Unbounded query on "${subject}" requires at least one filter. ` +
         `Supported filter fields: ` +
         (subject === "edges"
-          ? "from, to, from_type, to_type, type, min_confidence, min_amount, max_amount, source, status"
+          ? "from, to, from_type, to_type, type, min_confidence, min_amount, max_amount, source, status, role, exclude_role"
           : subject === "entities"
           ? "entity_type, capital_type, class_position, worker_relationship, tags_approved, ideological_function, search"
           : "event_type, obstruction_type, policy_id, chamber, outcome, stakeholder, sector_affected, since, until")
