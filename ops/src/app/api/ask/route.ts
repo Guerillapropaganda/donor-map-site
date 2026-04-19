@@ -716,8 +716,19 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   const name = r.title
   const ent = findEntity(name)
 
-  const inflows = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 500 })
+  const inflowsRaw = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 500 })
   const outflows = await engine.query({ subject: "edges", filters: { from: name, type: "monetary" }, limit: 500 })
+
+  // Split support vs opposition. The role field carries "ie-support" /
+  // "ie-oppose" on independent-expenditure edges. Without it, an
+  // opposition ad-spend super-PAC (American Crossroads $78M "against"
+  // Raphael Warnock) will otherwise surface as a top donor.
+  const inflows = {
+    total: inflowsRaw.rows.filter((e: any) => e.role !== "ie-oppose").length,
+    rows: inflowsRaw.rows.filter((e: any) => e.role !== "ie-oppose"),
+  }
+  const oppoEdges = inflowsRaw.rows.filter((e: any) => e.role === "ie-oppose")
+  const oppoTotal = oppoEdges.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
   const affiliations_from = await engine.query({ subject: "edges", filters: { from: name, type: "affiliation" }, limit: 20 })
   const affiliations_to = await engine.query({ subject: "edges", filters: { to: name, type: "affiliation" }, limit: 20 })
 
@@ -797,7 +808,10 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
 
   if (topIn.length > 0) {
     const totalIn = inflows.rows.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
-    bullets.push(`Received ~${fmtUsd(totalIn)} across ${inflows.total} donors. Top: ${topIn.slice(0, 3).map((e: any) => e.from + " " + fmtUsd(e.amount)).join(", ")}`)
+    const oppoNote = oppoEdges.length > 0
+      ? ` (Plus ${fmtUsd(oppoTotal)} spent AGAINST them by ${oppoEdges.length} opposition edge${oppoEdges.length === 1 ? "" : "s"} — excluded.)`
+      : ""
+    bullets.push(`Received ~${fmtUsd(totalIn)} across ${inflows.total} donors. Top: ${topIn.slice(0, 3).map((e: any) => e.from + " " + fmtUsd(e.amount)).join(", ")}.${oppoNote}`)
   }
   if (topOut.length > 0) {
     const totalOut = outflows.rows.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
@@ -1219,9 +1233,33 @@ async function handleQuestion(question: string): Promise<AskResult> {
   }
   if (c.intent === "recipients_from") {
     const name = resolveTitle(c.subjectName as string)
+    const ent = findEntity(name.title)
+    const isPolitician = ent?.entity_type === "politician" || ent?.entity_type === "state-politician"
     const r = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 500 })
     const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
+
+    // Politicians don't "give" money in our monetary-edge model — they
+    // receive it. Redirect the user rather than silently returning 0.
+    if (isPolitician && total$ === 0) {
+      return finalize({
+        question,
+        intent: c.intent,
+        resolved_title: name.title,
+        did_you_mean: name.candidates.slice(0, 5),
+        total: 0,
+        rows: [],
+        answer: `**${name.title}** is a politician, not a grant-making organization. Politicians don't "give" money in this database — they receive it from donors and spend it through their campaign committee.`,
+        note: `Use "who funds ${name.title}" or "tell me about ${name.title}" for what you probably want. Campaign-committee expenditures (FEC oppexp data) are tracked separately and not yet exposed via the ask UI.`,
+        follow_ups: [
+          `who funds ${name.title}`,
+          `tell me about ${name.title}`,
+          `${name.title} voting record`,
+        ],
+        summary: `Politician outflows are not in this view.`,
+      })
+    }
+
     const top5 = rows.filter((e: any) => e.amount).slice(0, 5)
     const answer =
       total$ > 0
