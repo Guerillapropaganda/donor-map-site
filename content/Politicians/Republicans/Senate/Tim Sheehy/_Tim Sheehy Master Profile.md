@@ -1,8 +1,8 @@
 ---
 title: Tim Sheehy
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,11 @@ phone: 202-224-2644
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline
+  - Bridger Aerospace USFS contract details not yet in vault
+  - AFP Action both-sides anomaly requires cycle-level verification (support vs opposition cycle breakdown)
+central-thesis: "Tim Sheehy is the Navy SEAL who unseated Jon Tester in the most expensive per-capita Senate race of 2024: $64.8M in Democratic opposition, $18.6M in Republican support, Montana won. The 99.6% loyalty with 3 deviations is the brand-new senator's default before any deviation pattern emerges. The structural story is Bridger Aerospace: Sheehy founded a firefighting air tanker company holding USFS contracts, and he now votes on the appropriations that fund those contracts. Club for Growth gave $40K across 143 transactions, the highest donor-candidate transaction count in the vault."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4MT00183
 top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin]], [[American Chemistry Council, INC]], [[AT&T - WarnerMedia]], [[NRSC - National Republican Senatorial Committee]], [[Gilead Sciences]], [[Amgen Inc]], [[Devon Energy]], [[National Right to Life Victory Fund]], [[Republican Jewish Coalition]], [[Senate Conservatives Fund]], [[Club for Growth INC PAC]], [[NORPAC]], [[Edf Action Votes]], [[Campaign for Working Families]], [[American Hospital Association PAC]], [[Tzedek PAC]], [[L3Harris Technologies]], [[SAVE OUR COUNTRY]], [[Citigroup]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[WinRed]], [[Puget Sound Energy INC PAC for Good Government]], [[The Sentinel Action Fund]], [[National Association of Realtors]], [[National Cattlemen's Beef Association]], [[Planned Parenthood Votes]], [[Hunter Action Fund (haf)]], [[National Victory Action Fund]], [[National Multifamily Housing Council]], [[Teamsters - International Brotherhood of Teamsters]], [[ConocoPhillips]], [[Common Sense for America PAC]], [[Americans for Prosperity]], [[DSCC - Democratic Senatorial Campaign Committee]], [[Valero Energy]], [[Alliance Coal, LLC PAC]], [[MAJORITY PAC]], [[Reclaim America PAC]], [[Votevets]], [[SLF PAC]], [[League of Conservation Voters]], [[Gun Owners of America]], [[Women Speak Out Pac]], [[WinSenate]], [[Bank of America]], [[Let America Vote PAC]], [[Freedom's Defense Fund]], [[Marathon Petroleum]], [[Halliburton]], [[AT&T]], [[Save Our Country]], [[Majority PAC]]"
@@ -137,4 +138,94 @@ top-donors: "[[National Rifle Association]], [[Drummond Co.]], [[Lockheed Martin
 
 # Tim Sheehy
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Tim Sheehy. Republican, Montana. US Senator since January 2025, elected November 2024 defeating Democratic incumbent Jon Tester (the only Democrat-to-Republican Senate flip of the 2024 cycle). Born November 1985 in Minnesota. Navy SEAL (six combat deployments, wounded in action, Purple Heart recipient), then founder and CEO of Bridger Aerospace (firefighting air tanker company, Bozeman MT, holds federal USFS contracts). Committee assignments not yet in pipeline. 742 roll-call votes tracked (119th Congress only). Voting record: 99.6% party-line loyalty across 720 substantive votes, 3 deviations. The 99.6% rate and 3 deviations are the highest loyalty and lowest deviation count in the Republican Senate cohort - and in the entire vault Democrat-and-Republican combined.
+
+---
+
+## The Central Thesis
+
+Sheehy is the Navy SEAL who won the most expensive per-capita Senate race of 2024 by defeating the last Democratic senator in a deeply red state. Democrats spent $64.8M trying to hold Montana: Last Best Place PAC ($32M), WinSenate ($23.4M), DSCC ($4.5M), End Citizens United ($993K). Sheehy's coalition spent $18.6M for him: More Jobs Less Government ($6.8M), AFP Action ($5.8M), Sentinel Action Fund ($2.1M), NRA Political Victory Fund ($1.1M). Democrats outspent Republicans 3.5:1 and lost. The 99.6% loyalty with 3 deviations is the brand-new senator's default before any deviation pattern develops. The structural story underneath the SEAL-rancher-outsider brand is Bridger Aerospace: Sheehy founded a company that holds USFS firefighting contracts and he now votes on the appropriations that determine those contracts. Club for Growth gave $40K across 143 transactions, the highest single donor-candidate transaction count in the vault.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Sheehy's political identity is the military outsider who built a Montana business and ran against the permanent political class. Bridger Aerospace, his firefighting air tanker company, is the Montana business success story his campaign ran on. What the brand does not foreground: Bridger Aerospace holds contracts from the US Forest Service. USFS funding flows through the Interior and Agriculture appropriations bills. Sheehy now votes on those bills. The senator-founder who runs a company funded by federal contracts is the most direct personal financial stake in federal appropriations of any senator in this vault cohort. This is distinct from stock trading: Sheehy's own company, which he founded and ran before winning the Senate seat, has a revenue line that depends on federal wildfire management funding he now votes to authorize. He did not enter politics to protect his company's contracts. The structural position of his company relative to his legislative role creates that outcome regardless of his intent.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $1.8M
+- Party committee support: $220K
+- Super-PAC IE support (FOR): $18.6M
+- Super-PAC IE opposition (AGAINST): $64.8M (the largest opposition-to-support ratio in the vault)
+
+**$64.8M vs $18.6M: Democrats outspent 3.5:1 and lost.** Last Best Place PAC ($32M) was the dominant Democratic vehicle.
+
+### Top direct PAC donors (lifetime)
+
+- **NRSC**: $53K (one transaction)
+- **Club for Growth PAC**: $40K across 143 transactions (the highest transaction count in any single donor-candidate pair in this vault; 143 small transactions indicate sustained Club for Growth engagement)
+- **Senate Conservatives Fund**: $28K
+- **Thune Senate Victory**: $23K (Thune network, now Senate Majority Leader)
+- **Petroleum Marketers Association**: $21K
+- **Williams Companies PAC**: $20K (natural gas pipeline company)
+- **DOC's PAC**: $20K
+- **Peter Norbeck Leadership PAC**: $20K
+- **Republican Jewish Coalition PAC**: $19K across 60 transactions (second-highest transaction count)
+- **Susan B Anthony List Candidate Fund**: $15K across 53 transactions
+
+### Top super-PAC IE support (FOR)
+
+- **More Jobs Less Government**: $6.8M (largest FOR supporter; Koch-adjacent free-enterprise vehicle)
+- **AFP Action (Koch network)**: $5.8M
+- **The Sentinel Action Fund**: $2.1M
+- **NRA Political Victory Fund**: $1.1M
+- **Senate Conservatives Fund**: $408K
+
+### Top super-PAC IE opposition (AGAINST)
+
+- **Last Best Place PAC**: $32M (dominant Democratic IE vehicle, Montana-named)
+- **WinSenate**: $23.4M (DSCC-aligned)
+- **DSCC**: $4.5M
+- **End Citizens United**: $993K
+- **AFP Action**: $625K (anomalous: also appears in FOR column; likely cycle-level split across primary and general)
+
+### Fossil fuel and conservative cluster
+
+From top-donors field: [[Drummond Co.]] (coal), [[Devon Energy]], [[ConocoPhillips]], [[Valero Energy]], [[Marathon Petroleum]], [[Halliburton]], [[Alliance Coal, LLC PAC]] (fossil fuel). [[Lockheed Martin]], [[L3Harris Technologies]] (defense). [[Club for Growth INC PAC]], [[Senate Conservatives Fund]], [[The Sentinel Action Fund]], [[National Victory Action Fund]] (conservative infrastructure). [[National Rifle Association]], [[Gun Owners of America]] (gun rights). [[National Cattlemen's Beef Association]] (ranching, Montana constituency). [[Republican Jewish Coalition]], [[NORPAC]], [[Tzedek PAC]] (pro-Israel cluster).
+
+> [!money]
+> **$64.8M opposition in Montana.** Montana has approximately 1.1 million registered voters. Democrats spent $64.8M trying to defeat Tim Sheehy. That is roughly $59 per Montana registered voter in Democratic outside spending alone. WinSenate at $23.4M and Last Best Place PAC at $32M were the dominant vehicles. This spending level for a state where the population does not justify it reflects the structural calculation: holding Jon Tester's seat was worth $64.8M because it affected Senate control and because Tester represented the last competitive Democrat in the Mountain West. Democrats lost anyway. The per-voter spending is a record; the outcome was not close.
+
+---
+
+## Class Analysis
+
+Sheehy's donor coalition is the first-cycle Republican Senate infrastructure for a state that had not elected a Republican senator in over a decade. The fossil fuel slate (Devon, ConocoPhillips, Valero, Marathon, Halliburton, Alliance Coal, Williams Companies) reflects Montana's extractive economy (coal, oil, natural gas on federal and state lands). The NRA and Gun Owners of America giving reflects Montana's gun culture and Sheehy's explicit Second Amendment positioning. The Club for Growth (143 transactions) and Koch network (AFP Action $5.8M) investment established Sheehy as the free-market conservative alternative to Tester's union-labor populism.
+
+The Bridger Aerospace situation requires ongoing tracking as Sheehy's Senate career develops. The company's USFS contract structure and revenue are not detailed in the current profile. What is known: Sheehy founded Bridger Aerospace, it operates firefighting air tankers, it holds USFS contracts, and USFS appropriations flow through committees Sheehy will eventually affect. The personal financial conflict is structural, not yet visible in his voting record.
+
+The 99.6% loyalty with 3 deviations is the most extreme loyalty score in the entire vault (Republican and Democrat combined). Three deviations across 742 votes: all three are Yea votes where the Republican party majority voted Nay, suggesting bipartisan votes or Montana-specific issues where Sheehy crossed the caucus majority. Without bill-level analysis the specific votes are not interpretable, but none involve breaking rightward from the caucus (which would be deviations going harder MAGA than leadership wanted).
+
+The AFP Action both-sides anomaly (support $5.8M and opposition $625K) likely reflects different cycle periods: AFP Action PAC spending against Sheehy in a primary (potentially supporting a different candidate) and then spending for him in the general election. This is the classic Koch network primary-then-general behavior, documented in other races. The cycle breakdown is the research gap.
+
+The RJC ($19K/60 transactions), NORPAC, and Tzedek PAC presence reflects the full pro-Israel Republican donor network giving to a new Montana senator as relationship-building spending before committee assignments are even established. This is the transactional investment in a new senator before anyone knows what committee seats he will hold.
+
+---
+
+## Analytical Patterns
+
+**Self-Funding as Independence (inverse).** Sheehy ran explicitly as an outsider-entrepreneur who built his own business. The Bridger Aerospace story was the campaign's symbol of independence from the political class. The structure of his personal financial position is the opposite of independence: his company depends on federal contracts. The outsider framing and the federal dependency are the same senator.
+
+**Pilot Program (Mountain West realignment).** Sheehy's win completes the Republican takeover of the Mountain West Senate delegation. Idaho, Wyoming, South Dakota, North Dakota, and Utah were already Republican. Montana (Tester) was the last holdout. The $64.8M Democratic investment to hold it failed. The pilot for whether a SEAL-businessman profile can hold a historically red-state seat that recently elected a Democrat is now running: if Sheehy builds a durable six-year record in 2025-2030, the Mountain West is consolidated Republican at the Senate level.
+
+**Donor-Class Override (deferred).** There is no deviation data to analyze yet. Three votes in a new senator's first term do not produce donor-class override evidence. The question for 2026 and beyond: when fossil fuel deregulation legislation or USFS appropriations come to the floor, does Sheehy vote to protect the Montana cattle-ranching and outdoor tourism economy, or does he vote to protect the fossil fuel extractors who funded his campaign? The two constituencies have genuine conflicts on public lands management and climate policy.
+
+**Genuine Win + Structural Limit.** Sheehy won a genuinely competitive race despite 3.5:1 opposition spending. The structural limit is his first: Bridger Aerospace's federal contract dependence creates a personal financial interest in appropriations decisions that will recur throughout his term.
