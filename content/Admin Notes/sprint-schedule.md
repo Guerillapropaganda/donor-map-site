@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-18-990-enrichment-marathon-plus-launch-50-editorial-pass'
+last-updated: '2026-04-19-ask-ui-marathon-and-ie-classifier'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -2442,3 +2442,41 @@ Launch-50 rollup after session: 45 ready / 4 draft / 1 raw / 0 verified.
 - Final 3 ambiguous EINs verified via ProPublica / OpenSecrets and applied: PPAF 13-3539048 c4, PP Votes 13-4128897 super PAC, ACU 52-0810813 c4.
 
 **Session commit tally: 15 commits pushed to v4** — spanning 990 enrichment marathon, denorm cleanup, officer registry, Grants-IN panels, EIN backfills, Concord/JCN merge, launch-50 editorial pass promotions.
+
+### Ops Ask UI + IE classifier — 2026-04-19 (Code Claude, long session)
+
+Built a natural-language query UI for the canonical edge store, then a systemic data-integrity fix for FEC independent-expenditure classification.
+
+**New scripts (2):**
+- `scripts/ask.cjs` — local CLI for the natural-language query engine
+- `scripts/classify-ie-edges.cjs` — one-shot classifier applying ie-support vs ie-oppose to 4,136 previously-null-role FEC edges via politician-party + partisan-committee cross-reference
+
+**New Ops pages + routes (3):**
+- `ops/src/app/ask/page.tsx` — `/ask` UI with example buttons, follow-up chips, glossary tooltips, copy-paragraph button, collapsed evidence table
+- `ops/src/app/api/ask/route.ts` — POST endpoint (free-auth tier, rate-limited) classifying questions to one of 11 intents + LLM fallback
+- `ops/src/components/Sidebar.tsx` — added "/ask" nav link after "/query"
+
+**Query engine loader fix:** switched from `createRequire(import.meta.url)` to dynamic `import(pathToFileURL(...))` after discovering Next.js 15 Turbopack rejects createRequire-with-variable-argument (MODULE_NOT_FOUND on any absolute path). Both `/query` and `/ask` now load without 500s.
+
+**IE classifier results:** 4,136 edges reclassified
+- 640 ie-oppose (SLF PAC $243M, CLF $125M, American Crossroads $38M, etc.)
+- 3,496 ie-support (MAGA Inc $90M, Americans for Prosperity $57M, LCV $33M, etc.)
+- 27,222 candidates left null (PAC not in partisan map — corporate PACs, individual donors, small committees)
+- 613 edges already had role set correctly
+
+**"Who funds X" now excludes opposition spending.** Previously Raphael Warnock's top 3 "donors" were Republican super-PACs attacking him — now those $207M of opposition edges are filtered out and surfaced in a caveat note.
+
+**Humanization pass on ask results:**
+- plain-English labels ("Money trail" not "MONEY_CHAIN")
+- money formatter at natural scale ($185K not $0.2M)
+- humanized money-chain row ("Marble → $154M (2022) → Schwab → $160M → The 85 Fund")
+- pattern interpretation card explaining DAF laundering / c4-to-super-PAC handoff / person-via-orgs
+- per-entity context card with gloss + profile blurb
+- glossary tooltips on 501(c)(4), DAF, Super PAC, 527, EIN, Schedule I, etc.
+- cite-ready paragraph for journalists with Copy button
+- follow-up question chips for natural exploration
+- evidence table collapsed behind `<details>`
+- super-PAC vs 501(c)(4) miscategorization fix: corrected nonprofit-status on 5 profiles (CLF, MAGA Inc, SLF, Sentinel Action Fund, Illinois Future PAC)
+- politician short-circuit on recipients_from: "Where does [politician] money go" returns clear explainer instead of "0 edges"
+
+**Session commit tally: 18 commits pushed to v4** — ask UI, ask API, loader fix, humanization, IE classifier, polish.

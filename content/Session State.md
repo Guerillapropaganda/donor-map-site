@@ -26,7 +26,59 @@ Both Code Claude and Research Claude update this at the end of every session. Re
 
 ---
 
-## HANDOFF — 2026-04-18 (end-of-day, session 2)
+## HANDOFF — 2026-04-19 (Ops Ask UI marathon)
+
+Session theme: Built a natural-language query UI inside Ops (`/ask`)
+that sits on top of the canonical edge store, then made it actually
+useful for humans — prose answers, context cards, follow-up chips,
+cite-ready citations, glossary tooltips, and a system-wide data-
+integrity pass classifying 4,136 FEC independent-expenditure edges
+as support vs opposition.
+
+### Shipped today (18 commits on top of yesterday's work)
+
+- **Ops `/ask` page** at `localhost:3333/ask` with example buttons,
+  follow-up chips, glossary-tooltip decorated terms (501(c)(4), DAF,
+  Super PAC, etc.), copy-paragraph button, collapsed evidence table.
+- **`/api/ask` endpoint** gated by Clerk free-auth, rate-limited. Mirrors
+  `scripts/ask.cjs` CLI. Intents: edge_between, summary, donors_to,
+  recipients_from, grants_from, affiliations_from/to, voting_record,
+  cross_party_donors, leaderboard, money_chain, generic, with LLM
+  fallback via ANTHROPIC_API_KEY if set.
+- **Query engine loader fix**: switched to dynamic `import(pathToFileURL(...))`
+  after discovering Next.js 15 Turbopack rejects createRequire-with-
+  variable-argument. `/query` and `/ask` now both load without 500s.
+- **Humanization pass**: plain-English labels ("Money trail" not
+  "MONEY_CHAIN"), prose answers with bold emphasis, specific-dollar
+  bullets, money formatter that reads at natural scale ($185K not
+  $0.2M), humanized money-chain rows ("Marble Freedom Trust → $154M
+  (2022) → Schwab Charitable Fund → $160M → The 85 Fund").
+- **Pattern interpretation** ("What this means" yellow card): auto-
+  detects DAF laundering, c4-to-super-PAC handoff, person-via-orgs,
+  cross-party. Explains WHY the flow looks the way it does.
+- **Per-entity context** ("Who these are"): pulls blurb from the
+  profile's Who They Are section, emits structural gloss including
+  DAF / c4 / c3 / 527 distinctions.
+- **IE classifier** (`scripts/classify-ie-edges.cjs`): 4,136 edges
+  newly tagged — 640 ie-oppose, 3,496 ie-support. SLF PAC $243M,
+  Congressional Leadership Fund $125M, American Crossroads $38M etc.
+  previously mis-surfacing as "donors" now correctly flagged.
+- **Super PAC vs 501(c)(4) mislabeling fix**: corrected the
+  nonprofit-status frontmatter on 5 profiles (Congressional Leadership
+  Fund, MAGA Inc, Senate Leadership Fund, Sentinel Action Fund,
+  Illinois Future PAC) that had been mis-tagged 501(c)(4).
+- **Politician short-circuit on recipients_from**: "Where does
+  [politician] money go" now returns a clear explainer instead of "0
+  edges."
+
+### Known immediate issue
+
+Dev server at PID 31136 (port 3333) still holds a stale in-memory
+edge cache from before the IE classifier ran. Opposition super-PACs
+may still display as "top donors" until the dev server is restarted.
+`npm run dev` cycle will reload the cache and the fix takes effect.
+
+### Orig ## HANDOFF — 2026-04-18 (end-of-day, session 2)
 
 ### One ingest still running at session-save time
 
