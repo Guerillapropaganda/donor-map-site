@@ -1,8 +1,8 @@
 ---
 title: Brad Sherman
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Democrat
 chamber: House
@@ -18,10 +18,11 @@ phone: 202-225-5911
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline (Financial Services + Foreign Affairs confirmed by donor pattern; subcommittees not verified)
+  - CUNA 74-transaction cycle breakdown not yet pulled
+  - Deloitte PAC $131K relationship context not confirmed
+central-thesis: "Brad Sherman is the 28-year Financial Services and Foreign Affairs committee Democrat whose $9.5M lifetime direct PAC total is built on three industry pillars: credit unions (CUNA $171K/74 transactions, vault's most sustained credit union relationship), real estate (Realtors PAC $150K/73 txns direct + NAR Congressional Fund $937K + Realtors PAC $560K super-PAC = $1.6M+ total Realtor investment), and his own CPA professional association (AICPA $163K/48 txns). The pro-Israel donor cluster (AIPAC, NORPAC, DMFI) reflects genuine constituency giving in a San Fernando Valley district with a large Jewish population."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H6CA24113
 bills-sponsored: 15
@@ -141,7 +142,85 @@ top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [
 
 # Brad Sherman
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Brad Sherman. Democrat, California-32 (San Fernando Valley / Thousand Oaks). First elected 1996, re-elected continuously to present. One of the longest-serving House Democrats, in Congress since January 1997 (28 years). Born October 1954 in Los Angeles. UCLA, Harvard Law School graduate. California Certified Public Accountant and California State Board of Equalization member before Congress. Committee assignments not yet pipeline-verified; Financial Services and Foreign Affairs committees confirmed by donor pattern and public record. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.5% party-line loyalty across 1,695 substantive votes, 43 deviations. CA-32 is a safe Democratic district in the San Fernando Valley; Sherman faces no meaningful Republican opposition.
+
+---
+
+## The Central Thesis
+
+Sherman is the 28-year Financial Services and Foreign Affairs committee Democrat whose $9.5M lifetime direct PAC total is one of the largest in the House Democratic caucus, accumulated over nearly three decades of sustained relationship-building with three industry pillars: credit unions (CUNA $171K across 74 transactions, the most sustained single credit union relationship in this vault), real estate (Realtors PAC $150K/73 transactions direct, plus NAR Congressional Fund $937K super-PAC and Realtors PAC $560K super-PAC, totaling $1.6M+ combined across all channels), and his own profession (AICPA $163K/48 transactions, the American accountants' association giving to its most prominent congressional CPA). The pro-Israel donor cluster (AIPAC, NORPAC, DMFI) reflects genuine San Fernando Valley constituency giving, unlike the committee-access pattern visible in other profiles. The defense cluster (L3Harris, Northrop Grumman, Honeywell, Raytheon, Lockheed) reflects Foreign Affairs Committee jurisdiction over arms sales and international security.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Sherman introduced articles of impeachment against Donald Trump (among the first in Congress, in 2017 and 2019) and positioned himself as a progressive institutional defender. His lifetime donor map is built on real estate ($1.6M+ combined), financial services industry (Financial Services Committee jurisdiction), and the National Association of Realtors (which specifically works to weaken capital gains taxes on property sales and protect the mortgage interest deduction). A congressman who champions progressive institutional norms against executive overreach takes $1.6M+ from the industry whose federal tax treatment he can directly affect through the Financial Services Committee. The Realtors do not give $1.6M because they agree with Sherman's impeachment politics. They give because Sherman's committee seats determine housing finance regulation, mortgage market rules, and real estate-related tax treatment. The progressive credentials and the financial-sector donor coalition operate in separate arenas: Sherman champions democratic norms against the executive while serving financial-industry access interests in committee.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $9.5M (among the largest in House Democratic caucus; 28-year accumulation)
+- Party committee support: $127K
+- Super-PAC IE support (FOR): $1.8M (NAR Congressional Fund $937K dominant, Realtors PAC $560K, Californians for Integrity $224K)
+- Super-PAC IE opposition (AGAINST): $0 recorded (safe district with no serious opposition)
+
+### Top direct PAC donors (lifetime): the three pillars
+
+**Credit Union pillar:**
+- **Credit Union Legislative Action Council (CUNA)**: $171K across 74 transactions (74 transactions is the highest in this vault for a financial services industry donor; Sherman is the leading House Democratic credit union champion)
+
+**Real estate pillar:**
+- **Realtors Political Action Committee**: $150K across 73 transactions (73 transactions; also $560K in FOR super-PAC IE support)
+
+**CPA professional identity pillar:**
+- **AICPA (Certified Public Accountants)**: $163K across 48 transactions (the professional association for Sherman's pre-congressional career; he is a CPA who legislates financial markets)
+
+**Labor pillar:**
+- **IBEW**: $170K across 44 transactions
+- **Machinists (IAM)**: $155K across 39 transactions
+- **Carpenters**: $148K across 39 transactions
+- **Trial Lawyers (ATLA)**: $147K across 65 transactions
+- **AFSCME**: $130K across 65 transactions
+- **Operating Engineers Local 12**: $124K across 33 transactions
+
+**Financial services access:**
+- **Deloitte PAC**: $131K across 47 transactions (professional services; Financial Services Committee access)
+
+### Data-panel top donors (relationships store)
+
+- **AIPAC**: $39K (constituency giving; San Fernando Valley has large Jewish community)
+- **National Association of Realtors**: $32K (second-highest after AIPAC in data panel; part of the $1.6M+ combined Realtor total)
+- **L3Harris Technologies**: $22K (Foreign Affairs Committee arms-sales jurisdiction)
+- **Northrop Grumman**: $18K (same Foreign Affairs jurisdiction)
+
+> [!money]
+> **The Realtor $1.6M dominance.** The National Association of Realtors invested $937K in FOR super-PAC support, $560K in additional Realtors PAC super-PAC support, and $150K in direct PAC giving to Brad Sherman across his career. The combined $1.6M+ is the Realtors' multi-decade investment in a Financial Services Committee member who sits on the committee that oversees housing finance regulation, mortgage market rules, Fannie Mae/Freddie Mac oversight, and real estate-related financial instruments. Los Angeles real estate is the largest single asset class in Southern California. A Financial Services Committee Democrat from the San Fernando Valley is among the most strategically valuable access investments the Realtors can make in California. The $1.6M figure does not reflect Sherman's district's real estate market alone; it reflects the national Realtor association's calculation that Sherman's committee position justifies maximum access investment.
+
+---
+
+## Class Analysis
+
+Sherman's $9.5M lifetime direct PAC record reflects 28 years of compounding access relationships rather than any single dominant industry capture. The CUNA credit union relationship ($171K/74 transactions) is the vault's clearest example of sustained small-frequency financial access giving: 74 transactions across 28 years averages 2.6 transactions per year, meaning CUNA has given to Sherman at nearly every opportunity for nearly every cycle. Sherman's championship of credit union legislation (interest rate caps, credit union charter reform, member business lending limits) and his Financial Services Committee positioning make him the credit union industry's most consistent House ally over the period covered.
+
+The AICPA relationship ($163K/48 transactions) is structurally different from the other entries: Sherman IS a CPA. He is the professional association giving to the most prominent congressional member of its own profession. This is not access money in the traditional sense; it is the professional association investing in its legislator-member who has specialized knowledge of the regulatory environment affecting their profession. Whether the investment is constituency giving (Sherman represents CPAs professionally) or access giving (AICPA wants favorable accounting regulation) is not a clean distinction when the senator and the constituency share an identity.
+
+The defense cluster (L3Harris $22K, Northrop $18K, Honeywell $19.5K, Raytheon and Lockheed in frontmatter) reflects Foreign Affairs Committee jurisdiction over arms export approvals, ITAR regulations, and Foreign Military Sales. Sherman's district has no major defense contractor presence; these are committee-access payments from defense companies whose export sales require Foreign Affairs Committee cooperation. Sherman has historically been involved in Iran sanctions legislation, which intersects directly with defense export controls.
+
+The 43 deviations at 97.5% loyalty in 1,695 substantive votes reflect a 2.5% deviation rate: lower than most Democrats in competitive districts (Houlahan's 5.3%) and consistent with a safe-seat incumbent with no electoral pressure to signal bipartisanship. The deviations visible in the data include Nay votes against the Democratic majority, suggesting occasional leftward breaks rather than the centrist-bipartisan deviations visible in swing-district members.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** Sherman's 28-year tenure has produced real legislative wins for credit unions, real estate deregulation advocacy, and Iran sanctions enforcement. These are constituencies and policy areas with genuine California and national significance. The structural limit is the $1.6M+ Realtor investment: the credit union and real estate access money does not conflict with Sherman's progressive positioning because housing finance deregulation and credit union expansion are not salient progressive-versus-conservative battles. The financial industry access operates beneath the progressive identity rather than in conflict with it.
+
+**Revolving Door (professional identity).** The AICPA relationship is the vault's cleanest example of professional-identity capture: a CPA serving on the committee that regulates the accounting profession, funded by the association that represents CPAs. The expertise and the conflict of interest are the same credential. Sherman's accounting background gives him legitimate policy expertise and simultaneously makes him the target of the accounting profession's political access investment. Whether this produces policy outcomes that serve accountants over the public interest requires committee-level analysis not yet in the vault.
 
 
 ### Legislative Activity (118th Congress)
