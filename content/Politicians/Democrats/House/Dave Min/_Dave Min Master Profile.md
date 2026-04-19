@@ -1,8 +1,10 @@
 ---
 title: Dave Min
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Dave Min is the CA-47 Orange County freshman Democrat who attracted $4.6M from AIPAC's United Democracy Project (UDP) and $83K from DMFI in super-PAC opposition alongside $2.1M from Club for Growth and $1.2M from Win It Back PAC, making him the target of both pro-Israel Democratic outside spending and Republican groups simultaneously; the $4.6M FOR progressive super-PAC pool (LCV $1.3M, Everytown $567K, Worker Power $366K) countered both fronts, and his profile is defined more by who spent against him than by his thin $1.1M direct PAC record."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -145,4 +147,78 @@ top-donors: "[[Congressional Progressive Caucus PAC]], [[AFSCME Working Families
 
 # Dave Min
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Dave Min. Democrat, California-47 (Orange County coastal communities including Irvine, Laguna Niguel, Huntington Beach). First elected 2024 in a competitive swing district; newly seated in the 119th Congress (January 2025). UC Irvine School of Law professor specializing in securities regulation and financial law; California state senator (2018-2024) before Congress. 485 roll-call votes tracked (119th Congress only). Voting record: 94.8% party-line loyalty across 481 substantive votes, 25 deviations.
+
+---
+
+## The Central Thesis
+
+Min is the CA-47 Orange County freshman Democrat whose profile is defined more by who spent against him than by his thin $1.1M lifetime direct PAC record. The $8.6M in super-PAC AGAINST spending is the vault's most structurally significant opposition picture for a first-term member: AIPAC's United Democracy Project at $4.6M and DMFI PAC at $83K opposed him, while Club for Growth ($2.1M), Win It Back PAC ($1.2M), and the Congressional Leadership Fund ($353K) attacked him from the Republican side. A Democrat absorbed opposition fire from both pro-Israel Democratic super-PACs and Republican groups simultaneously. The $4.6M in FOR super-PAC support (LCV Victory Fund $1.3M, HMP $922K, Everytown $567K, Worker Power $366K, Health Care Saves Lives $361K) successfully counter-deployed to help him win, but the AIPAC/UDP opposition is the defining structural fact of his entry into Congress.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> AIPAC's independent expenditure arm, the United Democracy Project, spent $4.6M against Dave Min in a California congressional race. DMFI, a second pro-Israel Democratic super-PAC, spent $83K against him. Pro-Israel Democratic outside groups do not spend $4.7M combined against a Democrat without a specific trigger: either the member has a documented record of votes or statements on Israel-Palestine that AIPAC found disqualifying, or his campaign's positions were seen as incompatible with AIPAC's access strategy. The $4.6M UDP investment in opposition to a single House candidate exceeds AIPAC's spending in support of some incumbent members' entire re-election campaigns. Meanwhile, the League of Conservation Voters ($1.3M FOR), Everytown for Gun Safety ($567K FOR), and Worker Power PAC ($366K FOR) all backed Min. The same race that attracted AIPAC's largest single-candidate opposition investment also attracted major progressive environmental, gun-safety, and labor outside spending in support. Min sits at the exact intersection where pro-Israel Democratic money and progressive Democratic infrastructure have chosen opposite sides.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $1.1M (freshman record; reflects limited PAC-fundraising base from state senate career)
+- Party committee support: $95K
+- Super-PAC IE support (FOR): $4.6M (LCV Victory Fund $1.3M, HMP $922K, Everytown $567K, Worker Power $366K, Health Care Saves Lives $361K)
+- Super-PAC IE opposition (AGAINST): $8.6M (UDP/AIPAC $4.6M, Club for Growth $2.1M, Win It Back PAC $1.2M, CLF $353K, DMFI $83K)
+
+### Top direct PAC donors (lifetime): standard Democratic access donors
+
+- **Southern California Victory Fund**: $33K across 4 transactions (regional Democratic infrastructure)
+- **Jobs, Education and Families First PAC**: $30K across 6 transactions (leadership PAC)
+- **IAFF (Firefighters)**: $21K across 5 transactions
+- **National Union of Healthcare Workers**: $21K across 6 transactions
+- **AFT**: $20K across 4 transactions
+- **AFSCME**: $20K across 5 transactions
+- **Trial Lawyers (ATLA)**: $20K across 6 transactions
+- **DIGIDEMS PAC**: $16K across 5 transactions (Democratic digital organizing infrastructure)
+- **IBEW**: $15K across 5 transactions
+- **UFCW**: $15K across 3 transactions
+
+### Data-panel relationship totals (FOR and AGAINST combined)
+
+- **United Democracy Project**: $4.6M (AIPAC super-PAC; opposition spending AGAINST Min)
+- **Club for Growth**: $2.1M (Republican; opposition spending AGAINST Min)
+- **LCV**: $1.3M (environmental; FOR Min)
+- **HMP**: $932K (FOR Min)
+- **Everytown**: $567K (gun safety; FOR Min)
+- **CLF**: $353K (Republican; AGAINST Min)
+- **DMFI**: $86.3K (pro-Israel Democratic; AGAINST Min)
+- **DCCC**: $102K (FOR Min)
+- **AFSCME**: $86.8K (FOR Min)
+
+> [!money]
+> **AIPAC's United Democracy Project $4.6M: the two-front war.** AIPAC's super-PAC spent $4.6M against Dave Min while Republican groups spent an additional $3.6M against him. Min won despite this two-front attack. UDP/AIPAC spending $4.6M against a single Democratic candidate in a House race is at the high end of AIPAC's single-candidate opposition investment: it reflects a calculation that Min's presence in Congress is sufficiently contrary to AIPAC's interests to justify maximum-investment opposition. The LCV's counter-deployment of $1.3M FOR Min alongside Everytown and Worker Power reveals the competing infrastructure calculus: progressive outside groups decided Min was worth defending at scale against both the Republican and pro-Israel Democratic opposition machines. The combined $13.2M in outside spending on a single House seat in CA-47 (FOR + AGAINST) reflects the district's swing-status and the intensity of both coalitions' investments in its outcome.
+
+---
+
+## Class Analysis
+
+Min's $1.1M direct PAC record is thin for a California House member and reflects his recent arrival from state politics where PAC fundraising patterns differ from federal races. The direct PAC donors are standard Democratic access relationships without distinctive California constituency patterns: no tech-sector PACs, no Orange County industry-specific relationships, no defense access money. The profile is essentially a generic new-member PAC base that has not yet built the committee-access relationships that generate larger industry giving.
+
+The outside spending record is the analytically significant part of the profile. $8.6M in opposition and $4.6M in support represents a total outside spend of $13.2M on a California swing-district House race, a figure that reflects CA-47's competitive status and the national stakes that both Republican and Democratic outside groups attach to Orange County seats. Republican groups (CLF, Club for Growth, Win It Back) spent $3.65M to support the Republican candidate. AIPAC's UDP spent $4.6M and DMFI spent $83K to oppose Min from the Democratic side. Progressive groups (LCV, Everytown, Worker Power, Health Care Saves Lives) spent $4.6M to support him. The net result was a Democratic victory, but the AIPAC opposition investment is the structural finding: AIPAC identified CA-47 as a race worth $4.6M in opposition spending against a Democrat.
+
+Min's 25 deviations in 485 votes (94.8% loyalty) include Nay votes on HRES 1100 (March 2026) and HR 7148 (January 2026) when Democrats voted Aye, which may reflect Israel-related positions consistent with the AIPAC opposition rationale. The "Yea when Dems voted Nay" cluster in November-December 2025 (HR 3638, HR 4305, HR 2965, HR 5107, HR 5214) mirrors the pattern in other swing-district California members, suggesting some crossover voting to maintain centrist credibility in a competitive district.
+
+The law-professor background (securities regulation, financial law) suggests Min will develop Energy and Commerce or Financial Services committee relationships over time, which would produce a different access donor profile than the current freshman baseline. The current profile reflects where he started, not where the committee system will take him.
+
+---
+
+## Analytical Patterns
+
+**Both-Sides Illusion.** AIPAC and DMFI opposed Min while LCV and Everytown supported him. The same candidate attracted maximum-scale opposition from pro-Israel Democratic infrastructure and maximum-scale support from environmental and gun-safety Democratic infrastructure. These are both wings of the Democratic coalition, and they chose opposite sides in the same race. This is not ideological incoherence on Min's part; it is the Democratic coalition's internal conflict over Israel-Palestine policy playing out in an outside-spending battle in a California swing district.
+
+**Donor-Class Override (attempted).** The $4.6M UDP/AIPAC opposition investment is an attempt to override progressive Democratic donor-class support for Min. The attempt failed: Min won. But the UDP investment establishes AIPAC's willingness to spend at scale against Democrats who deviate from pro-Israel positioning, creating a deterrent effect for other California Democrats who might consider similar positions. The spending against Min is not only about Min; it is a signal to the broader California Democratic delegation about the cost of deviation from AIPAC-aligned positions.
