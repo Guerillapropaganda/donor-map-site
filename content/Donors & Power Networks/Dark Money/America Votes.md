@@ -53,7 +53,7 @@ checklist-na:
 employee-contributions: 109
 employee-contributions-total: 47117
 employee-donor-count: 43
-politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation Voters]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Emily's List]], [[Future Forward USA Action]], [[Majority Forward]], [[_Gabe Vasquez Master Profile]], [[Deb Haaland]], [[Gabe Vasquez]], [[Fair Share Action]], [[Living United for Change in Arizona]], [[United We Can]]"
+politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation Voters]], [[ActBlue]], [[DNC - Democratic National Committee]], [[Emily's List]], [[Future Forward USA Action]], [[Majority Forward]], [[_Gabe Vasquez Master Profile]], [[Deb Haaland]], [[Gabe Vasquez]], [[Fair Share Action]], [[Living United for Change in Arizona]], [[United We Can]], [[Planned Parenthood Action Fund INC]], [[Planned Parenthood Votes]]"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: Planned Parenthood Action Fund INC
 type: donor
+ein: "133539048"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
