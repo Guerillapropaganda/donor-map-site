@@ -25,7 +25,7 @@ court-jurisdictions:
   - 'District Court, S.D. Texas'
   - 'United States Bankruptcy Court, D. Puerto Rico'
 ein: '921057815'
-nonprofit-status: 501(c)(4)
+nonprofit-status: "527 (Super PAC)"
 sec-filings: 1
 sec-form-types:
   - D

@@ -14,7 +14,7 @@ related: "[[Illinois 2026 Senate Race]] · [[The Pritzker Machine and Illinois D
 known-gaps:
   - "No FEC contribution data"
 ein: "884013706"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: "527 (Super PAC)"
 last-enriched: "2026-04-10"
 checklist-na:
   - "regulatory: auto: entity type \"pac\" does not typically have EPA/OSHA records (2026-04-15)"

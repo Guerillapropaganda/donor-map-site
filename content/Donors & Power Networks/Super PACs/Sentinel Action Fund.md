@@ -8,7 +8,7 @@ parent: null
 sector: "Super PACs"
 entity-type: "PAC"
 ein: "824373804"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: "527 (Super PAC)"
 last-enriched: "2026-04-07"
 needs-reenrichment: true
 reenrich-reason: "run fec pipeline"
