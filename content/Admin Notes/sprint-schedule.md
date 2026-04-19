@@ -4,7 +4,7 @@ type: admin-note
 note-type: data
 priority: normal
 status: active
-last-updated: '2026-04-19-ask-ui-marathon-and-ie-classifier'
+last-updated: '2026-04-19-query-accuracy-marathon-and-file-split'
 sprint-id: "2026-04-sprint"
 sprint-start: '2026-04-10'
 sprint-end: '2026-04-30'
@@ -1805,6 +1805,94 @@ phase_1_tasks:
       added_adhoc: true
       notes: "content/Admin Notes/bulk-data-progress.md tracks all ingested/pending/not-downloaded data. 9 scripts added to ops /scripts page under Bulk Data Ingest and Screening categories. FEC individual contributions (18.7GB, 6 cycles) downloaded and renamed."
 
+    - id: cc_172
+      task: "Silent-truncation bug hunt across /ask + /query + CLI"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        CRITICAL: scripts/lib/query-engine.cjs query() read limit only from filters.limit — every callsite in route.ts (13) passed limit at the spec level, so engine silently clamped to default 100. Fix reads spec.limit first. MAX_PAGE_SIZE bumped 500 → 2000 (MAGA Inc has 967 inflow edges; 500 ceiling undercounting $973M by 65%). Every route.ts vehicle-query limit bumped 200/50 → 1500/2000. scripts/ask.cjs CLI matching fix. Updated query-engine-contract-tests.cjs. Harris support surfaced from $43M → $907M; MAGA Inc $342M → $915M.
+
+    - id: cc_173
+      task: "Self-edge + double-count filters + super-PAC deprecations"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        406 self-ref edges ($246M) filtered out of donors_to/recipients_from/money_chain/leaderboard — Honeywell→Honeywell employee aggregation artifacts, Morgan Stanley GIF→itself DAF accounting. Political leaderboards exclude irs-990-bulk + employee-contributions from "top donors" (Fidelity Charitable $6.1B DAF grantmaking was dominating the political rank). scripts/supersede-ie-only-null-role.cjs deprecated 65 null-role aggregate edges from 5 C7 IE-only super PACs (Fairshake $312M ghost "donation" to Harris + 4 others) — these represented IE spending with no direction-of-spend data, misleadingly labeled as donations.
+
+    - id: cc_174
+      task: "FEC committee identity layer: 275 politicians + 332 campaign committees + 269 affiliate links"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        scripts/fix-registry-paths.cjs normalized 559 stale bold-clarke worktree paths. scripts/sync-campaign-committees.cjs matched 275 politicians to FEC candidate-master via LAST, FIRST + office/chamber, created 332 campaign committee entity stubs with controlled_by back-ref. scripts/auto-link-committee-affiliates.cjs found 269 committee→parent mappings across 111 parent orgs via FEC connected_org field + name-stem pattern — AFL-CIO pools 54 committees, Virginia Dem Party 18, Michigan GOP 15, Koch Industries 4. scripts/scrub-bad-committee-links.cjs removed 14 candidate committees accidentally linked via conduit connected_org.
+
+    - id: cc_175
+      task: "Three new ingest pipelines: indiv-to-edges, oth-transfers-to-edges, systematic parent-affiliate wiring"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        scripts/aggregate-indiv-to-edges.cjs reads indiv-by-committee.jsonl (171K rows), emits 83K donor→committee edges at $200 threshold. Unlocks Timothy Mellon $151M→MAGA Inc, Musk $286M→America PAC, Miriam Adelson $106M→Preserve America. scripts/aggregate-committee-transfers-to-edges.cjs reads oth-transfers.jsonl (6.9M rows), emits 16K committee→committee edges at $50K threshold (below which is 7% of dollars but 75% of rows — tight to stay under 100MB cap). Fixed RNC 2020 under-reporting from -92% → -6.2%. Source enum + MIGRATION_SOURCES additions in validator. AIPAC+UDP+Standing Strong pool: $218M inflows / $77M outflows (was $3.2M / $7.1M).
+
+    - id: cc_176
+      task: "Pool expansion across all /ask intents via vehiclesFor()"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        ops/src/app/api/ask/route.ts MANUAL_VEHICLE_MAP expanded to 16 high-profile figures (Trump, Harris, Biden, Leo, Koch, Thiel, Soros, Hoffman, SBF, Adelson, McConnell, Schumer, Pelosi, McCarthy, Jeffries, AIPAC). vehiclesFor() helper pools controlled-by stubs via MAP + name-containment heuristic. Wired into donors_to, recipients_from, edge_between, money_chain, summary, grants_from. Trump pooled: $228M → $1.72B. Harris: $43M → $953M.
+
+    - id: cc_177
+      task: "3-layer verification infrastructure + pre-commit gate"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        Layer 1 — scripts/cross-check-totals.cjs validates aggregator output against its upstream (50 top committees at 0.0% drift). Layer 2 — scripts/reconcile-canonical-totals.cjs runs donors_to pooling on 4 canonical subjects (Trump/Harris/Leo/McConnell) with ±50% bounds, wired into .husky/pre-commit as gate 7b. Layer 3 — scripts/verify-committee-receipts.cjs is the TIGHT per-cycle reconciliation across 4 FEC source slices (indiv + conduit + transfers + pac_gifts); 21 of top 30 receipts within ±10% of authoritative FEC. Used by David to verify accuracy going forward.
+
+    - id: cc_178
+      task: "Canonical/derived file split — solves GitHub 100MB cap"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        scripts/split-relationships-by-source.cjs partitioned data/relationships.jsonl (92MB, approaching cap) into data/relationships.jsonl (22MB canonical editorial) + data/derived/{source}.jsonl x8 files (max 38MB each). scripts/lib/relationships-store.cjs loadEdges() globs both, upsertEdges()/deprecateEdge() auto-route by source. ops/src/lib/relationships-store.ts TS mirror updated. ops/src/app/api/ask/route.ts handleLeaderboard + handleMoneyChain direct fs reads updated to concat main + derived. ops/src/app/api/lobby-trades/route.ts same. mtime cache invalidation watches data/derived/*. Edge store: 175K active edges, all 3 validation gates pass. Future ingests automatically land in the right file.
+
+    - id: cc_179
+      task: "Cache invalidation fix: flush engine store caches on data mtime change"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        Round-3 mtime-based cache invalidation only cleared ops-local caches (ASK_CACHE, entitiesCache, officerRegistryCache) but the query engine's underlying store caches live in scripts/lib/*-store.cjs at module scope and survived across createQueryEngine() calls — so the engine kept serving stale edges even after the answer cache flushed. Fix: mtime change now also calls engine.clear() which recursively clears edgesStore/entitiesStore/eventsStore/sourcesStore. Eliminates "must restart dev server to see fresh ingest data" problem.
+
+    - id: cc_180
+      task: "/ask politician resolution + stub entity creation for 15 missing politicians"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        scripts/sync-politicians-to-entities.cjs walks Politicians/** for _*Master Profile.md and creates stub entities for 15 politicians that appeared in edge store but had no entity record (Bill Hagerty, Mark Kelly, Katie Britt, Catherine Cortez Masto, Ritchie Torres, Nancy Mace, Bernie Moreno, Barbara Lee, etc.). Now "tell me about Bill Hagerty" resolves.
+
+    - id: cc_181
+      task: "990 Part VII officer registry wired into /ask affiliations"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        Only 24 officer→org affiliation edges existed because strict name-match on ingest dropped 3,036 of 3,060 officers. ops/src/app/api/ask/route.ts handleAffiliation* + handleSummary now fall back to data/officer-registry.jsonl (3,060 rows from IRS 990 Part VII) directly. "Who's on the board of Marble Freedom Trust" and "What boards is Leonard Leo on" now return full 990 coverage. New lookupOfficerRegistry() helper with both org-side and person-side matching.
+
+    - id: cc_182
+      task: "Related edges: 10,643 backfilled evidence + 5,800 pruned orphan-to-orphan"
+      status: done
+      completed_date: 2026-04-19
+      added_adhoc: true
+      notes: |
+        scripts/backfill-and-prune-related-edges.cjs audited 27K related edges. Backfilled standardized provenance strings for 10,643 frontmatter-migration + bidirectional-normalizer evidence gaps. Pruned 5,800 bi-orphan edges (both endpoints not in entities.jsonl — essay-to-essay navigation masquerading as relationships). Single-orphan edges (1 endpoint real, other an essay or un-stubbed person) left alone for stub creation.
+
   research_claude:
     - id: rc_01
       task: "Write ops/CLAUDE.md (frontmatter-only + URL editor-only rules)"
@@ -2266,7 +2354,7 @@ parser_guidance:
         Removed inline body dataview fields on Stratton and Miller. Fixed Mark Green central-thesis typo.
         Flag: Mark Green FEC/GovTrack auto-blocks show wrong politician data (govtrack-id 400159, 2010-2014 cycles). Pipeline correction needed.
 
-**Schedule last updated: 2026-04-18 (Code Claude: FEC full-database ingest marathon. pas2 classified 5.37M direct-donor rows + 604K IE-support + 336K IE-oppose via ADR-0013 taxonomy. Indiv aggregated 171K donor-committee rows. Oth 6.93M committee-to-committee transfers. Oppexp 284K vendor aggregations. CM/CN/CCL masters ingested. 3 new ADRs: 0012 Money 4-subsection, 0013 FEC taxonomy + anomaly classifier, 0014 full-DB ingest pipeline. 640 profiles auto-enriched via build-fec-lifetime-panels (412 politicians + 228 donor/PAC/corp). 3 bioguide contaminations fixed (Casar/Summer Lee/Sherrod Brown). ContradictionCard moved to own tab. Info tooltip → details collapsible. Anomaly queue -86% after party-committee whitelist bug fix. IRS 990 + Congress-votes-resume running in background at session-save time.)**
+**Schedule last updated: 2026-04-19 (Code Claude: Query accuracy marathon. Silent-truncation bug hunt across /ask + /query + CLI (engine limit-at-wrong-level + MAX_PAGE_SIZE 500→2000 + 13 route.ts vehicle-query bumps). FEC committee identity layer: 275 politicians synced + 332 campaign committee stubs + 269 parent-affiliate links across 111 parents. Three new ingest pipelines: aggregate-indiv-to-edges (83K edges), aggregate-committee-transfers-to-edges (16K edges), scrub-bad-committee-links. Pool expansion via vehiclesFor() across all /ask intents. 3-layer verification infrastructure: cross-check-totals + reconcile-canonical-totals (pre-commit gate 7b) + verify-committee-receipts tight per-cycle. Canonical/derived file split — data/relationships.jsonl 92MB → 22MB + 8 files under data/derived/. Results: Trump pooled $228M → $1.72B. Harris $43M → $953M. RNC 2020 -92% → -6.2%. 21 of top 30 FEC receipts within ±10% of authoritative upstream. Edge store 75K → 175K active edges. All 3 validation gates pass.)**
 **Current phase: Launch 50 sprint for April 30 public launch. Trump/Rubio/Pelosi live with full FEC lifetime panels.**
 **Next checkpoint: Complete IRS 990 + Votes ingests. Extend lifetime panel to render grants + committee-transfers. Research Claude pass on the 3 canary profiles' Mega-Donors narrative. Review the 8,434 remaining anomalies.**
 **New data sources added 2026-04-11: FDA (pharma/device/food enforcement), OCC (national bank enforcement), FTC (mergers + historical enforcement). All three live in CI + Ops app.**
