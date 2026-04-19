@@ -29,9 +29,20 @@ interface AskResponse {
   did_you_mean?: string[]
   total: number
   rows: Row[]
+  answer?: string
+  bullets?: string[]
   summary?: string
   note?: string
   error?: string
+}
+
+// Minimal bold renderer: splits text on `**...**` and wraps in <strong>
+function renderRichText(text: string): React.ReactNode {
+  const parts = text.split(/(\*\*[^*]+\*\*)/g)
+  return parts.map((p, i) => {
+    if (p.startsWith("**") && p.endsWith("**")) return <strong key={i}>{p.slice(2, -2)}</strong>
+    return <span key={i}>{p}</span>
+  })
 }
 
 const EXAMPLES = [
@@ -200,7 +211,18 @@ function ResultCard({ r }: { r: AskResponse }) {
     <div style={styles.card}>
       <div style={styles.cardHead}>
         <div style={styles.cardLabel}>{r.intent.replace(/_/g, " ").toUpperCase()}</div>
-        {r.resolved_title && r.resolved_title !== r.question && (
+
+        {r.answer && <div style={styles.answer}>{renderRichText(r.answer)}</div>}
+
+        {r.bullets && r.bullets.length > 0 && (
+          <ul style={styles.bullets}>
+            {r.bullets.map((b, i) => (
+              <li key={i} style={styles.bulletItem}>{renderRichText(b)}</li>
+            ))}
+          </ul>
+        )}
+
+        {r.resolved_title && r.resolved_title !== r.question && !r.answer && (
           <div style={styles.resolved}>
             resolved to: <strong>{r.resolved_title}</strong>
             {r.resolved_title_2 ? <> + <strong>{r.resolved_title_2}</strong></> : null}
@@ -216,7 +238,11 @@ function ResultCard({ r }: { r: AskResponse }) {
       </div>
 
       {r.rows.length > 0 && (
-        <div style={styles.tableWrap}>
+        <details style={styles.detailsWrap}>
+          <summary style={styles.detailsSummary}>
+            Evidence ({r.rows.length} row{r.rows.length === 1 ? "" : "s"})
+          </summary>
+          <div style={styles.tableWrap}>
           <table style={styles.table}>
             <thead>
               <tr>
@@ -258,10 +284,11 @@ function ResultCard({ r }: { r: AskResponse }) {
           {r.rows.length > 50 && (
             <div style={styles.more}>... {r.rows.length - 50} more rows not shown</div>
           )}
-        </div>
+          </div>
+        </details>
       )}
 
-      {r.rows.length === 0 && !r.note && (
+      {r.rows.length === 0 && !r.note && !r.answer && (
         <div style={styles.empty}>No rows matched.</div>
       )}
     </div>
@@ -311,10 +338,15 @@ const styles: Record<string, React.CSSProperties> = {
     marginTop: 16,
   },
   cardHead: { marginBottom: 12 },
-  cardLabel: { fontSize: 11, fontWeight: 700, color: "#fbbf24", letterSpacing: 2, marginBottom: 6 },
+  cardLabel: { fontSize: 11, fontWeight: 700, color: "#fbbf24", letterSpacing: 2, marginBottom: 8 },
+  answer: { fontSize: 17, color: "#fff", lineHeight: 1.45, marginBottom: 10 },
+  bullets: { margin: "6px 0 12px 0", padding: "0 0 0 20px", color: "#ddd" },
+  bulletItem: { fontSize: 14, lineHeight: 1.55, marginBottom: 4 },
   resolved: { fontSize: 12, color: "#888", marginBottom: 4 },
-  summary: { fontSize: 14, color: "#ddd", marginBottom: 4 },
+  summary: { fontSize: 12, color: "#777", marginTop: 8, fontStyle: "italic" },
   note: { fontSize: 13, color: "#ccc", fontStyle: "italic" },
+  detailsWrap: { marginTop: 12, borderTop: "1px solid #222", paddingTop: 8 },
+  detailsSummary: { cursor: "pointer", fontSize: 11, color: "#888", textTransform: "uppercase", letterSpacing: 1, userSelect: "none", marginBottom: 8 },
   tableWrap: { overflowX: "auto" },
   table: { width: "100%", borderCollapse: "collapse", fontSize: 12 },
   th: { textAlign: "left", padding: "6px 8px", background: "#222", color: "#aaa", fontWeight: 600, fontSize: 11, textTransform: "uppercase", letterSpacing: 1 },

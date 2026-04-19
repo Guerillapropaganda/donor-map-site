@@ -48,7 +48,9 @@ interface AskResult {
   spec?: unknown
   total: number
   rows: unknown[]
-  summary?: string
+  answer?: string         // headline prose answer
+  bullets?: string[]      // supporting bullet points
+  summary?: string        // one-line meta, smaller
   note?: string
 }
 
@@ -371,6 +373,19 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
     if (monetaryForward.length) parts.push(`${a.title} → ${b.title}: ${monetaryForward.length} monetary edge(s), $${(fwdTotal / 1e6).toFixed(2)}M`)
     if (monetaryReverse.length) parts.push(`${b.title} → ${a.title}: ${monetaryReverse.length} monetary edge(s), $${(revTotal / 1e6).toFixed(2)}M`)
     if (affiliationForward.length || affiliationReverse.length) parts.push(`${affiliationForward.length + affiliationReverse.length} affiliation edge(s)`)
+
+    const answer =
+      monetaryForward.length + monetaryReverse.length > 0
+        ? `**${a.title}** and **${b.title}** have $${((fwdTotal + revTotal) / 1e6).toFixed(1)}M in tracked direct flows${affiliationForward.length + affiliationReverse.length > 0 ? ` plus ${affiliationForward.length + affiliationReverse.length} officer/board affiliation(s)` : ""}.`
+        : `**${a.title}** and **${b.title}** are linked only by ${affiliationForward.length + affiliationReverse.length} affiliation edge(s). No direct dollar flows in the store.`
+    const bullets: string[] = []
+    for (const e of [...monetaryForward, ...monetaryReverse].sort((x: any, y: any) => y.amount - x.amount).slice(0, 5)) {
+      bullets.push(`${e.from} → ${e.to}: $${(Number(e.amount) / 1e6).toFixed(2)}M${e.cycle ? ` (${e.cycle})` : ""} [${e.source}]`)
+    }
+    for (const e of [...affiliationForward, ...affiliationReverse].slice(0, 3)) {
+      bullets.push(`${e.from} — ${e.role || "affiliation"} — ${e.to}${e.date_range ? ` (${e.date_range.slice(0, 4)}–${e.date_range.slice(-10, -6)})` : ""}`)
+    }
+
     return {
       question,
       intent: "edge_between",
@@ -379,6 +394,8 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
       did_you_mean: [...(a.candidates || []), ...(b.candidates || [])].filter(Boolean).slice(0, 5),
       total: rows.length,
       rows: rows.slice(0, 50),
+      answer,
+      bullets,
       summary: parts.join("; "),
     }
   }
@@ -478,6 +495,59 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
 
   const rows = [...tagRows, ...topIn, ...topOut, ...boards, ...officers, ...viaOrgs]
 
+  // Build narrative answer
+  const typeSector = `${ent?.entity_type || "unknown entity"}${ent?.signals?.sector ? " in " + (ent.signals.sector as string) : ""}`
+  const bullets: string[] = []
+
+  if (boards.length > 0) {
+    const boardStr = boards.map((b: any) => {
+      const role = b.role ? ` (${b.role}${b.date_range ? ", " + b.date_range.slice(0, 4) + "–" + b.date_range.slice(-10, -6) : ""})` : ""
+      return `${b.to}${role}`
+    }).join(", ")
+    bullets.push(`Chairs/sits on: ${boardStr}`)
+  }
+
+  if (topIn.length > 0) {
+    const totalIn = inflows.rows.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
+    bullets.push(`Received ~$${(totalIn / 1e6).toFixed(1)}M across ${inflows.total} donors. Top: ${topIn.slice(0, 3).map((e: any) => e.from + " $" + (e.amount / 1e6).toFixed(1) + "M").join(", ")}`)
+  }
+  if (topOut.length > 0) {
+    const totalOut = outflows.rows.filter((e: any) => e.amount).reduce((a: number, e: any) => a + Number(e.amount), 0)
+    bullets.push(`Distributed ~$${(totalOut / 1e6).toFixed(1)}M across ${outflows.total} recipients. Top: ${topOut.slice(0, 3).map((e: any) => e.to + " $" + (e.amount / 1e6).toFixed(1) + "M").join(", ")}`)
+  }
+
+  if (viaOrgs.length > 0) {
+    const perOrg: Record<string, { inDollars: number; outDollars: number; topOut: Array<{ to: string; amount: number }> }> = {}
+    for (const v of viaOrgs) {
+      const orgMatch = String(v.kind).match(/^via (.+?) \((in|out)\)$/)
+      if (!orgMatch) continue
+      const [, org, dir] = orgMatch
+      if (!perOrg[org]) perOrg[org] = { inDollars: 0, outDollars: 0, topOut: [] }
+      const amt = Number(v.amount) || 0
+      if (dir === "in") perOrg[org].inDollars += amt
+      else {
+        perOrg[org].outDollars += amt
+        perOrg[org].topOut.push({ to: v.to as string, amount: amt })
+      }
+    }
+    for (const [org, d] of Object.entries(perOrg)) {
+      const outStr = d.topOut.length
+        ? ` Out: ${d.topOut.sort((a, b) => b.amount - a.amount).slice(0, 3).map((x) => x.to + " $" + (x.amount / 1e6).toFixed(1) + "M").join(", ")}.`
+        : ""
+      bullets.push(
+        `Via ${org}: ${d.inDollars > 0 ? "received $" + (d.inDollars / 1e6).toFixed(1) + "M. " : ""}${d.outDollars > 0 ? "moved $" + (d.outDollars / 1e6).toFixed(1) + "M out." : ""}${outStr}`,
+      )
+    }
+  }
+
+  if (classTags.length > 0) bullets.push(`Class tags: ${classTags.join(", ")}`)
+
+  const answer =
+    `**${name}** — ${typeSector}.` +
+    (topIn.length === 0 && topOut.length === 0 && boards.length > 0
+      ? ` Most flows move through the ${boards.length} org${boards.length === 1 ? "" : "s"} this person chairs, not their personal name.`
+      : "")
+
   return {
     question,
     intent: "summary",
@@ -485,12 +555,9 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     did_you_mean: r.candidates.slice(0, 5),
     total: rows.length,
     rows,
-    summary:
-      `${name} (${ent?.entity_type || "unknown"}${ent?.signals?.sector ? ", " + (ent.signals.sector as string) : ""}): ` +
-      `${inflows.total} inbound edges, ${outflows.total} outbound edges, ${affiliations_from.total + affiliations_to.total} affiliations` +
-      (viaOrgs.length > 0 ? ` (plus ${viaOrgs.length} flows surfaced via orgs this person chairs)` : "") +
-      `. ` +
-      (classTags.length > 0 ? `Class tags: ${classTags.join(", ")}.` : "No class tags approved."),
+    answer,
+    bullets,
+    summary: `${inflows.total} inbound, ${outflows.total} outbound, ${affiliations_from.total + affiliations_to.total} affiliations${viaOrgs.length > 0 ? ", " + viaOrgs.length + " via-org flows" : ""}.`,
   }
 }
 
@@ -569,7 +636,10 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
     summary = `Top 25 donor-advised funds / charitable vehicles by grant dollars out.`
   }
 
-  return { question, intent: "leaderboard", total: rows.length, rows, summary }
+  const topName = rows[0] ? ` Top: **${rows[0].name}** at $${((rows[0].total as number) / 1e6).toFixed(1)}M.` : ""
+  const answer = `${summary}${topName}`
+  const bullets = rows.slice(0, 10).map((r: any) => `${r.name}: $${(r.total / 1e6).toFixed(1)}M across ${r.edges} edge${r.edges === 1 ? "" : "s"}`)
+  return { question, intent: "leaderboard", total: rows.length, rows, answer, bullets, summary }
 }
 
 async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promise<AskResult> {
@@ -614,6 +684,28 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
 
   paths.sort((x, y) => y.min_amount - x.min_amount)
 
+  let answer: string
+  const bullets: string[] = []
+  if (paths.length === 0) {
+    answer = `No money chain from **${a.title}** to **${b.title}** within ${maxDepth} hops. They may not be connected through tracked dollar flows yet.`
+  } else {
+    const top = paths[0]
+    const chainStr = top.path.map((p, i) => {
+      if (i === 0) return p
+      const e = top.edges[i - 1]
+      return `→ $${(e.amount / 1e6).toFixed(1)}M → ${p}`
+    }).join(" ")
+    answer = `**${a.title}** → **${b.title}**: ${paths.length} path${paths.length === 1 ? "" : "s"} found (up to ${maxDepth} hops). Strongest flow: ${chainStr}.`
+    for (const p of paths.slice(0, 5)) {
+      const bullet = p.path.map((n, i) => {
+        if (i === 0) return n
+        const e = p.edges[i - 1]
+        return `→ $${(e.amount / 1e6).toFixed(1)}M (${e.cycle || "?"}) → ${n}`
+      }).join(" ")
+      bullets.push(`${bullet}  [bottleneck $${(p.min_amount / 1e6).toFixed(1)}M]`)
+    }
+  }
+
   return {
     question,
     intent: "money_chain",
@@ -621,10 +713,9 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
     resolved_title_2: b.title,
     total: paths.length,
     rows: paths.slice(0, 10),
-    summary:
-      paths.length === 0
-        ? `No ${maxDepth}-hop money chain found from ${a.title} to ${b.title}. They may not be connected in the canonical store yet, or the chain exceeds ${maxDepth} hops.`
-        : `${paths.length} path(s) found (up to ${maxDepth} hops). Ranked by min-edge amount (the bottleneck). Examined ${examined} nodes.`,
+    answer,
+    bullets,
+    summary: paths.length === 0 ? `0 paths within ${maxDepth} hops` : `${paths.length} path(s) examined (${examined} nodes visited).`,
   }
 }
 
@@ -740,16 +831,38 @@ async function handleQuestion(question: string): Promise<AskResult> {
   if (c.intent === "donors_to") {
     const name = resolveTitle(c.subjectName as string)
     const r = await engine.query({ subject: "edges", filters: { to: name.title, type: "monetary" }, limit: 500 })
-    const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
+    // Split IE-support vs IE-oppose: super-PAC ads "opposing" X are not
+    // donors TO X. The edge.role field carries ie-support / ie-oppose.
+    const supporters = r.rows.filter((e: any) => e.role !== "ie-oppose")
+    const opposers = r.rows.filter((e: any) => e.role === "ie-oppose")
+    const rows = [...supporters].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
-    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, summary: `Top donors to ${name.title}: ${r.total} edges, ~$${(total$ / 1e6).toFixed(1)}M tracked.` }
+    const oppose$ = opposers.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
+    const top5 = rows.filter((e: any) => e.amount).slice(0, 5)
+
+    const opposeNote = opposers.length > 0
+      ? ` (Plus $${(oppose$ / 1e6).toFixed(1)}M spent AGAINST them by ${opposers.length} super-PAC opposition edge${opposers.length === 1 ? "" : "s"} — excluded from the totals above.)`
+      : ""
+
+    const answer =
+      total$ > 0
+        ? `**${name.title}** received **$${(total$ / 1e6).toFixed(1)}M** in tracked support edges from **${supporters.length}** donors/committees.${opposeNote}`
+        : `**${name.title}** has ${supporters.length} donor edges in the store without dollar amounts.${opposeNote}`
+    const bullets = top5.map((e: any) => `${e.from}: $${(e.amount / 1e6).toFixed(2)}M${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${e.source}]` : ""}`)
+    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${supporters.length} support edges, ${opposers.length} opposition edges. Support ~$${(total$ / 1e6).toFixed(1)}M, opposition ~$${(oppose$ / 1e6).toFixed(1)}M.` }
   }
   if (c.intent === "recipients_from") {
     const name = resolveTitle(c.subjectName as string)
     const r = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 500 })
     const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
-    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, summary: `${name.title} outflows: ${r.total} edges, ~$${(total$ / 1e6).toFixed(1)}M tracked.` }
+    const top5 = rows.filter((e: any) => e.amount).slice(0, 5)
+    const answer =
+      total$ > 0
+        ? `**${name.title}** moved **$${(total$ / 1e6).toFixed(1)}M** across **${r.total}** recipient edges.`
+        : `**${name.title}** has ${r.total} outgoing edges but no dollar amounts attached.`
+    const bullets = top5.map((e: any) => `${e.to}: $${(e.amount / 1e6).toFixed(2)}M${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${e.source}]` : ""}`)
+    return { question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${name.title} outflows: ${r.total} edges, ~$${(total$ / 1e6).toFixed(1)}M tracked.` }
   }
 
   // Generic fallback
