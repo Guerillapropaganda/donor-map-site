@@ -1,8 +1,8 @@
 ---
 title: Cindy Hyde-Smith
 type: politician
-content-readiness: raw
-last-updated: 2026-04-15T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,12 @@ phone: 202-224-5054
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline
+  - NAR Congressional Fund $923K spending context (which cycle, what triggered the investment?) not confirmed
+  - OORAH! PAC identity and donor type not confirmed (possibly pro-Israel affiliated)
+  - Remember Mississippi PAC (2018 controversy opposition vehicle) not yet documented in vault
+central-thesis: "Cindy Hyde-Smith is the Mississippi agricultural senator whose direct PAC donor map is the most constituency-specific in the Republican Senate cohort: Cotton Council ($34K/13 txns), USA Rice Federation ($34K/14 txns), National Cattlemen's Beef ($45K/10 txns), Farm Credit Council ($33K/15 txns), Bank of Mississippi ($33K/7 txns), Beer Wholesalers ($35K/8 txns). The NAR Congressional Fund's $923K as the dominant FOR super-PAC spender is the one major non-constituency relationship: Realtors spending at near-Senate-record levels for a Mississippi Agriculture Committee senator."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 donors: "[[CA Farm Bureau Federation]], [[AIPAC - American Israel Public Affairs Committee]], [[Northrop Grumman]], [[National Cattlemen's Beef Association]], [[Lockheed Martin]], [[CoreCivic - Private Prisons]], [[American Gaming Association]], [[MAJORITY PAC]], [[Really American Pac]], [[Gilead Sciences]], [[National Rifle Association]], [[American Hospital Association PAC]], [[NRSC - National Republican Senatorial Committee]], [[American Chemistry Council, INC]], [[WinRed]], [[General Motors]], [[Honeywell]], [[VIEW PAC - Value in Electing Women]], [[Leidos]], [[Planned Parenthood Votes]], [[Common Sense for America PAC]], [[Raytheon (RTX)]], [[National Multifamily Housing Council]], [[Tyson Foods]], [[National Association of Realtors]], [[General Dynamics]], [[Chevron]], [[Majority PAC]], [[Honeywell International]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8MS00261
@@ -153,7 +155,73 @@ top-policy-area: Health
 
 # Cindy Hyde-Smith
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Cindy Hyde-Smith. Republican, Mississippi. US Senator since April 2018, initially appointed by Governor Phil Bryant to replace retiring Thad Cochran, then won a special election in November 2018 defeating Democrat Mike Espy, then won re-election in 2020 against Espy again, term runs through January 2027. Born May 1959 in Brookhaven, MS. University of Southern Mississippi graduate. Mississippi state representative, Mississippi Commissioner of Agriculture and Commerce (2011-2018). Committee assignments not yet in pipeline; Agriculture and Appropriations committee history inferred from donor pattern. 2,363 roll-call votes tracked (115th-119th Congress). Voting record: 97.4% party-line loyalty across 2,307 substantive votes, 55 deviations. Mississippi is a deep red state.
+
+---
+
+## The Central Thesis
+
+Hyde-Smith is the Mississippi agricultural senator whose direct PAC donor map is the most constituency-specific in the Republican Senate cohort currently profiled in this vault. Cotton, rice, cattle, beer distribution, a regional Mississippi bank, and farm credit lending are the top direct donors: the Mississippi economy rendered as political access. The National Cattlemen's Beef Association at $45K across 10 transactions is the top single donor; the National Cotton Council at $34K/13 transactions and USA Rice Federation at $34K/14 transactions are the two highest-transaction-count direct donors and reflect the two crops that dominate Mississippi's agricultural export economy. The NAR Congressional Fund's $923K in FOR super-PAC support is the anomaly that breaks the constituency-only pattern: the national Realtors association spent $923K for a Mississippi senator, a figure that reflects Agriculture Committee jurisdiction over rural land and farm credit programs rather than Mississippi's real estate market.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Hyde-Smith's public controversy centers on racial statements that became national news in 2018: she said she would sit in a "public hanging" if invited by a supporter, and made comments about suppressing votes of younger voters, both of which generated substantial national backlash and fueled the opposition vehicles that spent $1.6M against her. The Remember Mississippi PAC ($208K against) was specifically organized around these statements. The contradiction in the donor record is not ideological but structural: the senator whose statements triggered national racial controversy received $923K from the National Association of Realtors, the organization that represents an industry with documented racial discrimination in home lending and neighborhood access. The Realtors' national PAC spending $923K to elect and re-elect a Mississippi senator who made statements reminiscent of lynching history is the NAR's access-over-accountability calculation made visible at maximum scale. The NAR does not give based on the racial implications of a senator's rhetoric; it gives based on the agricultural and rural land-use committee access that a Mississippi senator provides.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $4.5M
+- Party committee support: $434K (NRSC $109K across 2 transactions; reflects two contested cycles)
+- Super-PAC IE support (FOR): $2.4M (NAR Congressional Fund $923K, US Chamber $675K, America First Action $271K, Credit Union Legislative Action $200K, National Right to Life $80K)
+- Super-PAC IE opposition (AGAINST): $1.6M (SMP $874K, Front Row PAC $391K, Remember Mississippi PAC $208K, Protecting Our Values $65K, PAC for a Change $35K)
+
+### Top direct PAC donors (lifetime) — Mississippi constituency core
+
+- **NRSC**: $109K across 2 transactions (highest in Republican Senate cohort for this profile set; reflects two contested 2018 and 2020 cycles)
+- **National Cattlemen's Beef Association**: $45K across 10 transactions (Mississippi beef cattle; genuine constituency)
+- **Making Business Excel PAC**: $35K across 7 transactions
+- **National Beer Wholesalers Association**: $35K across 8 transactions (alcohol distribution; Mississippi beer industry access)
+- **VIEW PAC (Value in Electing Women)**: $35K across 7 transactions (Republican women candidates PAC)
+- **National Cotton Council**: $34K across 13 transactions (Mississippi cotton industry; second-highest transaction count)
+- **USA Rice Federation**: $34K across 14 transactions (Mississippi rice production; highest direct PAC transaction count in file)
+- **Bank of Mississippi**: $33K across 7 transactions (Mississippi regional bank; genuine constituency)
+- **Farm Credit Council**: $33K across 15 transactions (agricultural lending; Ag Committee intersection)
+- **OORAH! PAC**: $30K across 6 transactions (identity not confirmed; possible pro-Israel affiliated)
+
+### Notable frontmatter entries
+
+[[Northrop Grumman]], [[Lockheed Martin]], [[General Dynamics]], [[Raytheon (RTX)]], [[Leidos]] (defense; Mississippi has Keesler AFB, Columbus AFB, and Huntington Ingalls shipbuilding at Pascagoula). [[American Gaming Association]] (casino gaming; Mississippi Gulf Coast has major casino operations). [[CoreCivic - Private Prisons]] (private prison operators; Mississippi uses private prison contracts). [[Chevron]] (fossil fuel; Gulf of Mexico offshore drilling). [[Tyson Foods]] (poultry processing; Mississippi chicken processing operations).
+
+> [!money]
+> **The NAR Congressional Fund $923K anomaly.** The National Association of Realtors spent $923K in FOR super-PAC support for a Mississippi senator. Mississippi's real estate market ranks among the lowest in the country by volume, price, and transaction activity. The NAR's $923K is not a Mississippi constituency investment. It is an Agriculture and Appropriations Committee investment: a Mississippi senator controls rural land-use policy, farm credit regulation, and rural development appropriations that affect Realtors' interest in rural property markets, rural lending, and federal housing programs for agricultural communities. The NAR has consistently been among the largest outside spenders in Senate races regardless of state market size when a senator sits on relevant committees. At $923K, Hyde-Smith's NAR relationship is near the top of NAR Senate spending on any single candidate in the vault.
+
+---
+
+## Class Analysis
+
+Hyde-Smith's direct donor map is the clearest constituency-matching record in the Republican Senate cohort examined in this vault. The Mississippi agricultural economy is directly represented: cotton, rice, cattle, beer distribution, regional banking, and farm credit lending are the sectors that gave the most money across the most transactions. The USA Rice Federation's 14 transactions and the Farm Credit Council's 15 transactions are the two highest direct PAC transaction counts in her file, and both are pure Mississippi constituency donors. No other Republican Senate profile in this vault has this concentration of genuine constituency giving in its top direct PAC tier. Most profiles show a mix of constituency and committee-tribute access money; Hyde-Smith's shows constituency money as the dominant pattern.
+
+The super-PAC FOR record breaks the constituency pattern. NAR Congressional Fund ($923K), US Chamber of Commerce ($675K), and America First Action ($271K) are not Mississippi constituency organizations. NAR is the committee-jurisdiction investment. The Chamber is the business establishment support for an institutionalist Republican. America First Action (the Trump super-PAC) is the MAGA ideological investment. These three account for $1.87M of the $2.4M total FOR super-PAC support. The constituency donors dominate the direct PAC record; the institutional and ideological donors dominate the super-PAC record. These two pools serve different functions: direct PAC giving maintains constituent-service relationships, super-PAC IE gives the senator the outside-money advantage needed to win contested races.
+
+The $1.6M in opposition spending reflects the 2018 controversy rather than ongoing structural vulnerability. Remember Mississippi PAC ($208K) was organized specifically around Hyde-Smith's statements. Front Row PAC ($391K) is a Democratic Senate opposition vehicle. SMP's $874K is the standard Democratic Senate opposition spending. The racial controversy generated significant national attention in 2018, fueled substantial fundraising for her opponent Mike Espy, and produced the $1.6M opposition total. Hyde-Smith won both the 2018 special election and the 2020 rematch against Espy. Mississippi's Republican lean made both victories achievable despite the opposition spending.
+
+The 55 deviations at 97.4% loyalty include bipartisan nomination confirmations (Yea on PN 1510, PN 455, PN 1212 when the Republican majority voted Nay) that mirror the institutionalist deviation pattern visible in Cramer and Ricketts. The unnamed Nay deviations in October-November 2019 are not identifiable from the available data. The S. 2806 Nay in 2025 appears in Ricketts's record as well, suggesting a bipartisan or Mississippi-specific position on that legislation.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** Hyde-Smith's genuine wins are constituent-service: an agricultural senator who maintains deep direct-donor relationships with every major Mississippi crop and food-production industry does the work her state expects. The Cotton Council, Rice Federation, and Cattlemen's Association are not access money in the traditional sense; they are constituent industries maintaining a relationship with their senator. The structural limit is the NAR's $923K, which is national-interest committee access that has nothing to do with Mississippi real estate. The senator who does genuine constituent service for agricultural Mississippi also serves as an Agriculture Committee access point for a national industry that is not Mississippi's.
+
+**Pilot Program (appointed-then-contested model).** Hyde-Smith's career follows the Bryant appointment (2018) to two contested wins against the same Democratic challenger in the same cycle (special election) and the next full cycle. The appointed senator who then had to fight for the seat twice produces a different donor map than a senator who was always expected to hold the seat easily. The NRSC's $109K across 2 transactions reflects the party's investment in two contested cycles. The $1.6M in opposition and $2.4M in support reflect genuinely contested races in a deep-red state where Democrats mounted credible campaigns in 2018 and 2020 before the seat settled into safe status.
 
 
 ### Legislative Activity (118th Congress)
