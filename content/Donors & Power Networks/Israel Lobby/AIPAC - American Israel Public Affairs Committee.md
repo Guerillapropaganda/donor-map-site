@@ -2,7 +2,9 @@
 title: AIPAC - American Israel Public Affairs Committee
 type: donor
 content-readiness: ready
-last-updated: 2026-04-18T00:00:00.000Z
+central-thesis: "AIPAC is the pipe through which donor-class capital crosses party lines to discipline elected officials on a single issue, spending $126.9M in 2024 to maintain a floor of compliance across the entire institution and removing critics through the most expensive primary challenges in US history."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] Added formal Central Thesis, Core Contradiction callout, Analytical Patterns. Pre-existing rich body content preserved. Audit A+ already passed 2026-04-11."
 source-tier: 1
 parent: null
 sector: Israel Lobby
@@ -93,6 +95,19 @@ lobbying: [[SKDK]]
 The American Israel Public Affairs Committee. The most powerful foreign policy lobbying organization in American politics. AIPAC operates through three financial channels: AIPAC itself (a 501(c)(4) lobbying organization, does not make direct contributions), AIPAC PAC (a federal political action committee, makes direct contributions to candidates), and the [[United Democracy Project - UDP|United Democracy Project]] (UDP, a super PAC that spends unlimited amounts on independent expenditures for and against candidates).
 
 The combined operation spent approximately **$126.9 million in the 2024 cycle**, making it one of the single largest political spending operations in American politics, comparable to the Koch network and the crypto industry's [[Fairshake PAC|Fairshake PAC]]. [Source: [Read Sludge: All the money AIPAC spent on 2024 elections](https://readsludge.com/2025/01/24/here-is-all-the-money-aipac-spent-on-the-2024-elections/) (Tier 2) (VERIFIED)]
+
+---
+
+## The Central Thesis
+
+AIPAC is the pipe through which donor-class capital crosses party lines to discipline elected officials on a single issue. The organization does not need every member of Congress to support Israel. It needs every member of Congress to fear the cost of criticizing Israel. That cost is quantified: $14.9 million against Jamaal Bowman in NY-16 (the most expensive House primary in American history) and $8.6 million against Cori Bush in MO-1. Both lost. The message reaches every other member without a dollar being spent on them. The $126.9 million 2024 spend produced $30 billion-plus in policy outcomes, near-universal congressional support for unconditional weapons transfers, and a bipartisan floor of compliance that neither party has attempted to raise. The structural function is donor-class discipline. The surface language is foreign policy.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> AIPAC publicly frames itself as a bipartisan pro-Israel organization reflecting a broad American Jewish consensus and a grassroots membership base. Meanwhile, **46% of AIPAC-channeled donors to Democratic candidates in 2024 had also given to Republicans since 2020, compared to just 2% of ActBlue donors generally**. In the Bowman-Latimer race, approximately 40% of Latimer's AIPAC-channeled donors had previously given to Republicans. The ads attacking Bowman and other progressive Democrats never mentioned Israel. They attacked candidates on policing, on fire alarms, on domestic issues polled for district resonance. The gap between funding source (Republican hedge fund and venture capital donors) and advertised content (Democratic-primary-friendly domestic attacks) is the structural tell. AIPAC is not a bipartisan membership organization operating in Israel's interest. It is a cross-party donor-class conduit whose policy output happens to concern Israel.
 
 ---
 
@@ -343,15 +358,21 @@ AIPAC called for "crippling" sanctions on Iran in a 2012 letter to every member 
 ---
 
 
-## Class Analysis
+## Analytical Patterns
 
-<!-- RESEARCH CLAUDE: Draft the class analysis section here.
-     Anchor on this donor's actual contribution pattern. Focus on:
-     1. What fraction of capital , finance, tech, fossil, carceral, etc.
-     2. Ideological function , which policy demands track to the money
-     3. Cross-party spending if any, and what it reveals
-     4. Relationship to the broader donor network / dark money flows
-     Remove this comment block when done. ~300-500 words. -->
+**Donor-Class Override.** Polling of Democratic voters shows majority support for conditioning military aid to Israel. AIPAC-aligned spending has held the congressional floor on unconditional aid regardless, because the donor pressure is concentrated enough to defeat any member who acts on the constituency preference. Bowman and Bush are the textbook cases.
+
+**Two-Audience Problem.** The public-audience message is "pro-Israel bipartisan consensus." The donor-audience message is "cross-party discipline machine." Both are operationally true. AIPAC's primary-challenge ads run domestic content; AIPAC's donor letters emphasize Israel. The gap between the two registers is the organization's political-economic innovation.
+
+**Both-Sides Illusion.** The 46% cross-party donor overlap is the clearest example in the vault of donors crossing party lines to enforce a single-issue policy floor. Republican hedge-fund managers fund attacks on progressive Democrats through AIPAC's Democratic-primary channel. The politicians look partisan. The donors are not.
+
+**Revolving Door.** The AIEF (American Israel Education Foundation) congressional travel program has sent roughly half of all current House members to Israel on $10 million-plus in trips since 2012. The pipeline is institutional, staff-level, and continuous, covering legislative staff, members, and their spouses.
+
+**Villain Framing.** AIPAC messaging routinely frames progressive Democrats who support conditions on aid as "antisemitic" or "radical," deflecting class-analysis questions about donor composition by locating the controversy in the moral character of the critic. The frame converts a conversation about $126.9 million in cross-party donor pressure into a conversation about the critics' character.
+
+**Pilot Program.** State-level anti-BDS laws in 38 states functioned as pilots for federal legislation equating criticism of Israeli government policy with antisemitism. When state-level adoption normalized the framework, federal adoption followed. The state laws were not policy experiments. They were marketing for the federal move.
+
+<!-- Formal Class Analysis lives above in the "### The Class Analysis" section. Placeholder removed 2026-04-19. -->
 
 ### Sources
 
