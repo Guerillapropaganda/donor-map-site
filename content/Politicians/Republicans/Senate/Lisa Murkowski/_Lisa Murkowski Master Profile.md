@@ -288,20 +288,24 @@ Murkowski genuinely supports climate science, sits on the Climate Solutions Cauc
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,383 |
-| Votes with party majority | 995 |
-| Party-line loyalty | 71.9% |
-| Deviations from party | 386 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,631 |
+| Votes with party majority | 2,156 |
+| Party-line loyalty | 81.9% |
+| Deviations from party | 470 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 386):**
+**Most recent party-line deviations (top 10 of 470):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

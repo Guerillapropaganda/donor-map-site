@@ -349,20 +349,21 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,522 |
-| Votes with party majority | 1,354 |
-| Party-line loyalty | 89.0% |
-| Deviations from party | 168 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,552 |
+| Votes with party majority | 1,379 |
+| Party-line loyalty | 88.9% |
+| Deviations from party | 173 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 168):**
+**Most recent party-line deviations (top 10 of 173):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

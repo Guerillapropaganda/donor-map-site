@@ -521,14 +521,15 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,515 |
-| Votes with party majority | 1,501 |
+| Roll-call votes tracked | 1,735 |
+| Substantive votes (Y/N) | 1,523 |
+| Votes with party majority | 1,509 |
 | Party-line loyalty | 99.1% |
 | Deviations from party | 14 |
 
 **Coverage:**
 
+- house 117/1: 9 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

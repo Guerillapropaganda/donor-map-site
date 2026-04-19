@@ -106,20 +106,21 @@ top-donors: "[[Medicare for All - The Policy That Broke the Party]], [[IBEW - In
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,660 |
-| Votes with party majority | 1,621 |
-| Party-line loyalty | 97.7% |
-| Deviations from party | 39 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,689 |
+| Votes with party majority | 1,649 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 40 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 39):**
+**Most recent party-line deviations (top 10 of 40):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

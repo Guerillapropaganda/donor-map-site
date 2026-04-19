@@ -314,20 +314,21 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,689 |
-| Votes with party majority | 1,625 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,718 |
+| Votes with party majority | 1,653 |
 | Party-line loyalty | 96.2% |
-| Deviations from party | 64 |
+| Deviations from party | 65 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 64):**
+**Most recent party-line deviations (top 10 of 65):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

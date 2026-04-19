@@ -108,20 +108,21 @@ urls-first-triaged: "2026-04-15"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,363 |
-| Votes with party majority | 1,282 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 80 |
+| Roll-call votes tracked | 1,478 |
+| Substantive votes (Y/N) | 1,408 |
+| Votes with party majority | 1,312 |
+| Party-line loyalty | 93.2% |
+| Deviations from party | 95 |
 
 **Coverage:**
 
+- senate 116/2: 45 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 80):**
+**Most recent party-line deviations (top 10 of 95):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

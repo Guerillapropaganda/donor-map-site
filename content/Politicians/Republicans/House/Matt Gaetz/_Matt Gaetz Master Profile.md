@@ -355,19 +355,20 @@ _No committee data found._
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,185 |
-| Substantive votes (Y/N) | 1,066 |
-| Votes with party majority | 899 |
-| Party-line loyalty | 84.3% |
-| Deviations from party | 167 |
+| Roll-call votes tracked | 1,216 |
+| Substantive votes (Y/N) | 1,096 |
+| Votes with party majority | 923 |
+| Party-line loyalty | 84.2% |
+| Deviations from party | 173 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 460 votes
 - house 119/1: 1 votes
 
-**Most recent party-line deviations (top 10 of 167):**
+**Most recent party-line deviations (top 10 of 173):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

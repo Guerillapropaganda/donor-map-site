@@ -129,20 +129,24 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,375 |
-| Votes with party majority | 1,279 |
-| Party-line loyalty | 93.0% |
-| Deviations from party | 95 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,651 |
+| Votes with party majority | 2,515 |
+| Party-line loyalty | 94.9% |
+| Deviations from party | 133 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 95):**
+**Most recent party-line deviations (top 10 of 133):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -150,12 +154,12 @@ top-policy-area: International Affairs
 | September  | s216-118.1 | Yea | N | PN 743 |
 | September  | s213-118.1 | Nay | Y | PN 645 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
 | September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 26 | s271-118.1 | Nay | Y | — |
-| October 25 | s265-118.1 | Yea | N | PN 155 |
-| October 24 | s264-118.1 | Yea | N | PN 155 |
-| November 3 | s325-118.1 | Nay | Y | PN 500 |
+| October 28 | s335-116.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

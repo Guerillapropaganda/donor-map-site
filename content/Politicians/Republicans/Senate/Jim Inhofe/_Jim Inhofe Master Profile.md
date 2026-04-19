@@ -149,3 +149,41 @@ Inhofe represented one of America's poorest states while serving its wealthiest 
 
 ---
 
+
+
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,318 |
+| Substantive votes (Y/N) | 1,280 |
+| Votes with party majority | 1,240 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 37 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+
+**Most recent party-line deviations (top 10 of 37):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| October 28 | s335-116.1 | Yea | N | — |
+| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
+| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
+| November 2 | s365-116.1 | Nay | Y | H.R. 3055 |
+| November 2 | s364-116.1 | Nay | Y | H.R. 3055 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->

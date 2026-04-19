@@ -113,14 +113,15 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,660 |
-| Votes with party majority | 1,612 |
-| Party-line loyalty | 97.1% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,689 |
+| Votes with party majority | 1,641 |
+| Party-line loyalty | 97.2% |
 | Deviations from party | 48 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

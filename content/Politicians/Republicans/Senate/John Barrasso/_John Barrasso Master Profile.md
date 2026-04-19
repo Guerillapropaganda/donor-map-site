@@ -113,33 +113,37 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,315 |
-| Votes with party majority | 1,291 |
-| Party-line loyalty | 98.2% |
-| Deviations from party | 22 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,630 |
+| Votes with party majority | 2,559 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 66 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 22):**
+**Most recent party-line deviations (top 10 of 66):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s310-116.1 | Yea | N | — |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| October 3, | s220-115.2 | Nay | Y | H.R. 302 |
+| October 28 | s335-116.1 | Yea | N | — |
+| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
+| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
+| October 1, | s219-115.2 | Nay | Y | H.R. 302 |
 | November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 1 | s284-118.1 | Nay | Y | H.R. 4366 |
-| March 28,  | s76-118.1 | Yea | N | S. 316 |
-| March 23,  | s114-118.2 | Nay | Y | H.R. 2882 |
-| March 14,  | s132-119.1 | Nay | Y | — |
-| June 13, 2 | s196-118.2 | Yea | N | PN 1469 |
-| June 12, 2 | s195-118.2 | Yea | N | PN 1469 |
-| June 1, 20 | s136-118.1 | Yea | N | — |
-| July 1, 20 | s360-119.1 | Yea | N | — |
-| February 2 | s77-119.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

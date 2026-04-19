@@ -90,33 +90,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,428 |
-| Votes with party majority | 1,383 |
-| Party-line loyalty | 96.8% |
-| Deviations from party | 44 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,711 |
+| Votes with party majority | 2,482 |
+| Party-line loyalty | 91.6% |
+| Deviations from party | 220 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 220):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
-| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
-| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
-| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
-| March 8, 2 | s49-118.1 | Nay | Y | H.J.Res. 26 |
-| March 6, 2 | s110-119.1 | Nay | Y | S. 331 |
-| March 15,  | s55-118.1 | Nay | Y | PN 29 |
-| March 15,  | s56-118.1 | Nay | Y | PN 29 |
-| March 14,  | s127-119.1 | Nay | Y | S. 331 |
-| March 13,  | s124-119.1 | Nay | Y | S. 331 |
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s159-116.2 | Nay | Y | PN 1662 |
+| September  | s164-116.2 | Nay | Y | PN 775 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s158-116.2 | Nay | Y | PN 1662 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s204-115.1 | Nay | Y | PN 173 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

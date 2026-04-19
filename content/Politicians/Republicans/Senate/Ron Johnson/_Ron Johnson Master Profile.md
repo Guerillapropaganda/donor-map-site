@@ -305,33 +305,37 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,404 |
-| Votes with party majority | 1,329 |
-| Party-line loyalty | 94.7% |
-| Deviations from party | 73 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,687 |
+| Votes with party majority | 2,562 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 120 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 73):**
+**Most recent party-line deviations (top 10 of 120):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
 | September  | s244-118.1 | Nay | Y | PN 183 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
 | September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s310-116.1 | Yea | N | — |
 | September  | s255-118.2 | Nay | Y | H.R. 9747 |
 | September  | s254-118.2 | Yea | N | PN 1902 |
 | September  | s253-118.2 | Yea | N | PN 1902 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| November 1 | s284-118.1 | Nay | Y | H.R. 4366 |
-| May 9, 202 | s161-118.2 | Nay | Y | H.R. 3935 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

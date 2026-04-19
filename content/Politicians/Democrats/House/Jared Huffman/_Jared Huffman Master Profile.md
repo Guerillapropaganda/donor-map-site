@@ -106,14 +106,15 @@ top-donors: "[[Google - Alphabet]], [[American Hospital Association PAC]], [[Ame
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,641 |
-| Votes with party majority | 1,593 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,671 |
+| Votes with party majority | 1,623 |
 | Party-line loyalty | 97.1% |
 | Deviations from party | 48 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

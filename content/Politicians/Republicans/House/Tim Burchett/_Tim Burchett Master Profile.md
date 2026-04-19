@@ -113,20 +113,21 @@ top-donors: "[[MAJORITY PAC]], [[Lauren Boebert]], [[Raytheon (RTX)]], [[America
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,680 |
-| Votes with party majority | 1,438 |
-| Party-line loyalty | 85.6% |
-| Deviations from party | 242 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,710 |
+| Votes with party majority | 1,466 |
+| Party-line loyalty | 85.7% |
+| Deviations from party | 244 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 242):**
+**Most recent party-line deviations (top 10 of 244):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

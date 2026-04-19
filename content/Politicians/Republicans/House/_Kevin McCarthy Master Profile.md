@@ -124,17 +124,18 @@ top-policy-area: "Congress"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 470 |
-| Substantive votes (Y/N) | 378 |
-| Votes with party majority | 340 |
-| Party-line loyalty | 89.9% |
-| Deviations from party | 38 |
+| Roll-call votes tracked | 501 |
+| Substantive votes (Y/N) | 408 |
+| Votes with party majority | 369 |
+| Party-line loyalty | 90.4% |
+| Deviations from party | 39 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 470 votes
 
-**Most recent party-line deviations (top 10 of 38):**
+**Most recent party-line deviations (top 10 of 39):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

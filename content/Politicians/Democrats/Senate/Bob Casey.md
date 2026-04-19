@@ -132,29 +132,35 @@ Yet Casey remained unfazed. His pharma donors were reliable, his labor base felt
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 691 |
-| Substantive votes (Y/N) | 673 |
-| Votes with party majority | 665 |
-| Party-line loyalty | 98.8% |
-| Deviations from party | 8 |
+| Roll-call votes tracked | 2,009 |
+| Substantive votes (Y/N) | 1,986 |
+| Votes with party majority | 1,906 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 72 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 8):**
+**Most recent party-line deviations (top 10 of 72):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 31 | s277-118.1 | Yea | N | — |
-| May 3, 202 | s109-118.1 | Yea | N | H.J.Res. 39 |
-| May 21, 20 | s176-118.2 | Yea | N | S.J.Res. 58 |
-| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
-| March 29,  | s80-118.1 | Yea | N | H.J.Res. 7 |
-| March 21,  | s101-118.2 | Nay | Y | S.J.Res. 62 |
-| June 1, 20 | s145-118.1 | Nay | Y | — |
-| April 19,  | s148-118.2 | Nay | Y | — |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s298-116.1 | Nay | Y | PN 408 |
+| September  | s294-116.1 | Nay | Y | PN 408 |
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s206-115.2 | Yea | N | PN 1620 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -427,33 +427,37 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,425 |
-| Votes with party majority | 1,371 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 53 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,736 |
+| Votes with party majority | 2,600 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 127 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 53):**
+**Most recent party-line deviations (top 10 of 127):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s203-115.2 | Yea | N | PN 1525 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s272-116.1 | Nay | Y | PN 631 |
+| September  | s269-116.1 | Nay | Y | PN 631 |
 | October 21 | s577-119.1 | Yea | N | PN 466-6 |
 | October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
-| May 13, 20 | s246-119.1 | Yea | N | PN 12-30 |
-| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
-| March 8, 2 | s49-118.1 | Nay | Y | H.J.Res. 26 |
-| March 24,  | s136-119.1 | Yea | N | PN 12-36 |
-| March 14,  | s125-119.1 | Yea | N | PN 12-16 |
+| October 11 | s239-115.2 | Yea | N | PN 1644 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

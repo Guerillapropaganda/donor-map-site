@@ -114,14 +114,15 @@ top-donors: "[[AT&T - WarnerMedia]], [[International Brotherhood of Electrical W
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,673 |
-| Votes with party majority | 1,654 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,703 |
+| Votes with party majority | 1,684 |
 | Party-line loyalty | 98.9% |
 | Deviations from party | 19 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

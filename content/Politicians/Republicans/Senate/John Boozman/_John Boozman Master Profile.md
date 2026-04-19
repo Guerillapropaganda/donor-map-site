@@ -333,33 +333,37 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,410 |
-| Votes with party majority | 1,370 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 38 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,722 |
+| Votes with party majority | 2,662 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 55 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 38):**
+**Most recent party-line deviations (top 10 of 55):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s533-119.1 | Nay | Y | S. 2806 |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
 | September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| October 31 | s339-116.1 | Nay | Y | — |
 | October 26 | s271-118.1 | Nay | Y | — |
 | November 7 | s293-118.1 | Yea | N | PN 649 |
 | November 6 | s292-118.1 | Yea | N | PN 649 |
-| November 1 | s311-118.1 | Nay | Y | — |
-| May 2, 202 | s102-118.1 | Yea | N | PN 97 |
-| May 2, 202 | s104-118.1 | Yea | N | PN 97 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

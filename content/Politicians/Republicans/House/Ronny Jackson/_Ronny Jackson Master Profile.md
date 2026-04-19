@@ -116,20 +116,21 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,633 |
-| Votes with party majority | 1,538 |
-| Party-line loyalty | 94.2% |
-| Deviations from party | 95 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,655 |
+| Votes with party majority | 1,558 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 97 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 95):**
+**Most recent party-line deviations (top 10 of 97):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

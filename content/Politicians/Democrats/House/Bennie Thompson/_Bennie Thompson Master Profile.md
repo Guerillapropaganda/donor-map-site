@@ -360,14 +360,15 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,653 |
-| Votes with party majority | 1,627 |
-| Party-line loyalty | 98.4% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,683 |
+| Votes with party majority | 1,657 |
+| Party-line loyalty | 98.5% |
 | Deviations from party | 26 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

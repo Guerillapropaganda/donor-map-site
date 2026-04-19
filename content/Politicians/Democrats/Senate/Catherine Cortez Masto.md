@@ -111,33 +111,37 @@ urls-first-triaged: "2026-04-15"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,406 |
-| Votes with party majority | 1,331 |
-| Party-line loyalty | 94.7% |
-| Deviations from party | 74 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,706 |
+| Votes with party majority | 2,539 |
+| Party-line loyalty | 93.8% |
+| Deviations from party | 158 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 74):**
+**Most recent party-line deviations (top 10 of 158):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s535-119.1 | Yea | N | H.R. 5371 |
-| October 9, | s558-119.1 | Yea | N | H.R. 5371 |
-| October 8, | s551-119.1 | Yea | N | H.R. 5371 |
-| October 6, | s545-119.1 | Yea | N | H.R. 5371 |
-| October 31 | s277-118.1 | Yea | N | — |
-| October 3, | s543-119.1 | Yea | N | H.R. 5371 |
-| October 28 | s590-119.1 | Yea | N | H.R. 5371 |
-| October 22 | s581-119.1 | Yea | N | H.R. 5371 |
-| October 20 | s576-119.1 | Yea | N | H.R. 5371 |
-| October 16 | s573-119.1 | Yea | N | H.R. 5371 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s206-115.2 | Yea | N | PN 1620 |
+| September  | s205-115.2 | Yea | N | PN 1620 |
+| September  | s194-115.1 | Nay | Y | PN 457 |
+| September  | s278-116.1 | Nay | Y | PN 566 |
+| September  | s277-116.1 | Nay | Y | PN 524 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

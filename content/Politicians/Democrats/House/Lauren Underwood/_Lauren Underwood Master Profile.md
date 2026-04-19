@@ -118,20 +118,21 @@ top-donors: "[[Judy Chu]], [[Performance Racing Inc.]], [[314 ACTION FUND]], [[I
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,682 |
-| Votes with party majority | 1,654 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,712 |
+| Votes with party majority | 1,683 |
 | Party-line loyalty | 98.3% |
-| Deviations from party | 28 |
+| Deviations from party | 29 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 28):**
+**Most recent party-line deviations (top 10 of 29):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -123,14 +123,15 @@ top-donors: "[[National Association of Realtors]], [[Planned Parenthood Votes]],
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,633 |
-| Votes with party majority | 1,571 |
-| Party-line loyalty | 96.2% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,663 |
+| Votes with party majority | 1,601 |
+| Party-line loyalty | 96.3% |
 | Deviations from party | 62 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

@@ -119,20 +119,21 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,983 |
-| Substantive votes (Y/N) | 1,929 |
-| Votes with party majority | 1,793 |
-| Party-line loyalty | 92.9% |
-| Deviations from party | 135 |
+| Roll-call votes tracked | 2,014 |
+| Substantive votes (Y/N) | 1,958 |
+| Votes with party majority | 1,820 |
+| Party-line loyalty | 93.0% |
+| Deviations from party | 137 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 135):**
+**Most recent party-line deviations (top 10 of 137):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

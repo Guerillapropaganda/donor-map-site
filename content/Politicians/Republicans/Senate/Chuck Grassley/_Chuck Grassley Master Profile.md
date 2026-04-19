@@ -225,33 +225,37 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,424 |
-| Votes with party majority | 1,334 |
-| Party-line loyalty | 93.7% |
-| Deviations from party | 88 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,730 |
+| Votes with party majority | 2,599 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 126 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 88):**
+**Most recent party-line deviations (top 10 of 126):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
 | September  | s245-118.1 | Yea | N | PN 453 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s193-116.2 | Yea | N | PN 1693 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
 | October 9, | s564-119.1 | Nay | Y | — |
 | October 9, | s563-119.1 | Nay | Y | — |
 | October 4, | s249-118.1 | Yea | N | PN 676 |
 | October 3, | s248-118.1 | Yea | N | PN 676 |
 | October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| October 16 | s254-118.1 | Yea | N | PN 812 |
-| November 2 | s303-118.2 | Nay | Y | PN 2041 |
-| November 2 | s295-118.2 | Nay | Y | S.J.Res. 117 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

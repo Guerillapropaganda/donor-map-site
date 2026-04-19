@@ -118,14 +118,15 @@ top-donors: "[[Unite Here Tip Campaign Committee]], [[Emily's List]], [[DCCC - D
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,583 |
-| Votes with party majority | 1,533 |
-| Party-line loyalty | 96.8% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,613 |
+| Votes with party majority | 1,563 |
+| Party-line loyalty | 96.9% |
 | Deviations from party | 50 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

@@ -410,32 +410,36 @@ Hosted Israel-Lebanon talks (April 14, 2026). Hezbollah declined to participate 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 699 |
-| Substantive votes (Y/N) | 610 |
-| Votes with party majority | 561 |
-| Party-line loyalty | 92.0% |
-| Deviations from party | 47 |
+| Roll-call votes tracked | 2,017 |
+| Substantive votes (Y/N) | 1,855 |
+| Votes with party majority | 1,766 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 85 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 8 votes
 
-**Most recent party-line deviations (top 10 of 47):**
+**Most recent party-line deviations (top 10 of 85):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s310-116.1 | Yea | N | — |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
 | September  | s235-118.1 | Nay | Y | PN 677 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
+| October 28 | s335-116.1 | Yea | N | — |
 | October 17 | s255-118.1 | Yea | N | PN 812 |
-| May 2, 202 | s103-118.1 | Yea | N | PN 96 |
-| May 2, 202 | s105-118.1 | Yea | N | PN 96 |
-| March 8, 2 | s77-118.2 | Nay | Y | H.R. 4366 |
-| March 8, 2 | s84-118.2 | Nay | Y | H.R. 4366 |
-| March 7, 2 | s75-118.2 | Yea | N | S. 3853 |
-| March 23,  | s114-118.2 | Nay | Y | H.R. 2882 |
+| October 17 | s325-116.1 | Yea | N | S.J.Res. 54 |
+| May 8, 201 | s102-116.1 | Nay | Y | PN 54 |
+| May 8, 201 | s101-116.1 | Nay | Y | PN 47 |
+| May 8, 201 | s100-116.1 | Nay | Y | PN 55 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

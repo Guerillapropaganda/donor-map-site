@@ -210,14 +210,15 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,258 |
-| Substantive votes (Y/N) | 1,215 |
-| Votes with party majority | 1,179 |
-| Party-line loyalty | 97.0% |
+| Roll-call votes tracked | 1,289 |
+| Substantive votes (Y/N) | 1,235 |
+| Votes with party majority | 1,199 |
+| Party-line loyalty | 97.1% |
 | Deviations from party | 36 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 567 votes
 - house 118/2: 317 votes
 - house 119/1: 261 votes

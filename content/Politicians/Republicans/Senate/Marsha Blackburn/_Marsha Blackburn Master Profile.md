@@ -117,33 +117,35 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,348 |
-| Votes with party majority | 1,301 |
-| Party-line loyalty | 96.5% |
-| Deviations from party | 45 |
+| Roll-call votes tracked | 2,152 |
+| Substantive votes (Y/N) | 2,053 |
+| Votes with party majority | 1,961 |
+| Party-line loyalty | 95.5% |
+| Deviations from party | 89 |
 
 **Coverage:**
 
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 45):**
+**Most recent party-line deviations (top 10 of 89):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
 | September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
 | September  | s255-118.2 | Nay | Y | H.R. 9747 |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| November 3 | s325-118.1 | Nay | Y | PN 500 |
-| November 1 | s312-118.1 | Nay | Y | H.R. 6363 |
-| March 8, 2 | s77-118.2 | Nay | Y | H.R. 4366 |
-| March 8, 2 | s84-118.2 | Nay | Y | H.R. 4366 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

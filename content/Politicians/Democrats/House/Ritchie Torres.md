@@ -241,20 +241,21 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,631 |
-| Votes with party majority | 1,573 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,661 |
+| Votes with party majority | 1,602 |
 | Party-line loyalty | 96.4% |
-| Deviations from party | 58 |
+| Deviations from party | 59 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 58):**
+**Most recent party-line deviations (top 10 of 59):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

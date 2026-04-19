@@ -399,33 +399,37 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,390 |
-| Votes with party majority | 1,330 |
-| Party-line loyalty | 95.7% |
-| Deviations from party | 58 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,703 |
+| Votes with party majority | 2,620 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 78 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 58):**
+**Most recent party-line deviations (top 10 of 78):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s533-119.1 | Nay | Y | S. 2806 |
 | September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
+| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
 | September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
 | October 4, | s249-118.1 | Yea | N | PN 676 |
 | October 3, | s248-118.1 | Yea | N | PN 676 |
 | October 26 | s271-118.1 | Nay | Y | — |
+| October 17 | s325-116.1 | Yea | N | S.J.Res. 54 |
 | November 2 | s295-118.2 | Nay | Y | S.J.Res. 117 |
-| November 1 | s311-118.1 | Nay | Y | — |
-| May 30, 20 | s133-118.1 | Yea | N | PN 455 |
-| May 22, 20 | s177-118.2 | Yea | N | PN 1462 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

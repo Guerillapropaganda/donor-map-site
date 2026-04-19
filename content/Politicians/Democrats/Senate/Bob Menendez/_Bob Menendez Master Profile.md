@@ -175,31 +175,35 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 582 |
-| Substantive votes (Y/N) | 501 |
-| Votes with party majority | 484 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 17 |
+| Roll-call votes tracked | 1,900 |
+| Substantive votes (Y/N) | 1,726 |
+| Votes with party majority | 1,601 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 117 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 230 votes
 
-**Most recent party-line deviations (top 10 of 17):**
+**Most recent party-line deviations (top 10 of 117):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s223-118.1 | Nay | Y | PN 551 |
-| October 31 | s277-118.1 | Yea | N | — |
-| October 25 | s269-118.1 | Yea | N | — |
-| November 2 | s318-118.1 | Nay | Y | PN 157 |
-| March 23,  | s107-118.2 | Nay | Y | H.R. 2882 |
-| March 21,  | s101-118.2 | Nay | Y | S.J.Res. 62 |
-| February 7 | s39-118.2 | Nay | Y | H.R. 815 |
-| February 2 | s62-118.2 | Yea | N | S.J.Res. 60 |
-| December 1 | s348-118.1 | Nay | Y | PN 981 |
-| December 1 | s344-118.1 | Nay | Y | PN 769 |
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s204-115.2 | Nay | Y | PN 1650 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

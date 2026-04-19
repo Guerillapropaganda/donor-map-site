@@ -264,33 +264,37 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,365 |
-| Votes with party majority | 1,139 |
-| Party-line loyalty | 83.4% |
-| Deviations from party | 224 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,593 |
+| Votes with party majority | 2,116 |
+| Party-line loyalty | 81.6% |
+| Deviations from party | 472 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 224):**
+**Most recent party-line deviations (top 10 of 472):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
 | September  | s214-118.1 | Nay | Y | PN 645 |
 | September  | s213-118.1 | Nay | Y | PN 645 |
 | September  | s503-119.1 | Nay | Y | S. 2296 |
 | September  | s535-119.1 | Nay | Y | H.R. 5371 |
 | September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s532-119.1 | Nay | Y | PN 342 |
-| September  | s531-119.1 | Nay | Y | PN 342 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s199-116.2 | Yea | N | — |
+| September  | s198-116.2 | Nay | Y | S. 178 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

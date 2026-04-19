@@ -330,20 +330,21 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,684 |
-| Votes with party majority | 1,655 |
-| Party-line loyalty | 98.3% |
-| Deviations from party | 29 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,714 |
+| Votes with party majority | 1,684 |
+| Party-line loyalty | 98.2% |
+| Deviations from party | 30 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 30):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

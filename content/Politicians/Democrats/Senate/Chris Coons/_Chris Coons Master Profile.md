@@ -431,33 +431,37 @@ party:: Democrat
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,357 |
-| Votes with party majority | 1,304 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 52 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,623 |
+| Votes with party majority | 2,465 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 149 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 52):**
+**Most recent party-line deviations (top 10 of 149):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| November 5 | s606-119.1 | Yea | N | PN 25-37 |
-| November 5 | s607-119.1 | Yea | N | PN 25-37 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
-| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
-| March 25,  | s139-119.1 | Yea | N | PN 13-8 |
-| March 24,  | s137-119.1 | Yea | N | PN 12-25 |
+| September  | s263-116.1 | Yea | N | PN 713 |
+| September  | s203-115.2 | Yea | N | PN 1525 |
+| September  | s208-115.1 | Yea | N | PN 89 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s284-116.1 | Yea | N | PN 127 |
+| September  | s283-116.1 | Yea | N | PN 135 |
+| September  | s285-116.1 | Yea | N | PN 127 |
+| September  | s282-116.1 | Yea | N | PN 135 |
+| September  | s273-116.1 | Yea | N | PN 561 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

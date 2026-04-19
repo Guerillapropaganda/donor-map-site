@@ -124,18 +124,19 @@ top-policy-area: Armed Forces and National Security
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,241 |
-| Substantive votes (Y/N) | 1,142 |
-| Votes with party majority | 1,100 |
-| Party-line loyalty | 96.3% |
-| Deviations from party | 42 |
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,170 |
+| Votes with party majority | 1,126 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 44 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 42):**
+**Most recent party-line deviations (top 10 of 44):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

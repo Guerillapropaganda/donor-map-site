@@ -497,33 +497,37 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,364 |
-| Votes with party majority | 1,303 |
-| Party-line loyalty | 95.5% |
-| Deviations from party | 60 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,359 |
+| Votes with party majority | 2,138 |
+| Party-line loyalty | 90.6% |
+| Deviations from party | 213 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 60):**
+**Most recent party-line deviations (top 10 of 213):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s204-115.2 | Nay | Y | PN 1650 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
 | September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| November 1 | s313-118.1 | Nay | Y | H.R. 2670 |
-| November 1 | s614-119.1 | Nay | Y | — |
-| May 23, 20 | s182-118.2 | Nay | Y | S. 4361 |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s261-119.1 | Yea | N | PN 24-4 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

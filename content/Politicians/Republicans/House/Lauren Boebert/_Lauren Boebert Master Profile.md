@@ -317,20 +317,21 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,607 |
-| Votes with party majority | 1,394 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,636 |
+| Votes with party majority | 1,418 |
 | Party-line loyalty | 86.7% |
-| Deviations from party | 213 |
+| Deviations from party | 218 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 213):**
+**Most recent party-line deviations (top 10 of 218):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

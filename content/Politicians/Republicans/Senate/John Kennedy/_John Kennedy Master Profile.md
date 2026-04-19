@@ -398,33 +398,37 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,389 |
-| Votes with party majority | 1,280 |
-| Party-line loyalty | 92.2% |
-| Deviations from party | 107 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,688 |
+| Votes with party majority | 2,497 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 186 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 107):**
+**Most recent party-line deviations (top 10 of 186):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s500-119.1 | Nay | Y | S. 2296 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
 | October 9, | s563-119.1 | Nay | Y | — |
 | October 31 | s274-118.1 | Yea | N | PN 452 |
 | October 30 | s273-118.1 | Yea | N | PN 452 |
 | October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 26 | s270-118.1 | Yea | N | S.J.Res. 44 |
-| November 2 | s319-118.1 | Yea | N | PN 1022 |
-| November 2 | s322-118.1 | Yea | N | PN 1023 |
-| November 2 | s321-118.1 | Yea | N | PN 1023 |
-| November 2 | s320-118.1 | Yea | N | PN 1022 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

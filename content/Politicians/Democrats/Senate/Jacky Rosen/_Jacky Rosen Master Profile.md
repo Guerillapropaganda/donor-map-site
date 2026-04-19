@@ -123,33 +123,35 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,420 |
-| Votes with party majority | 1,319 |
-| Party-line loyalty | 92.9% |
-| Deviations from party | 100 |
+| Roll-call votes tracked | 2,152 |
+| Substantive votes (Y/N) | 2,132 |
+| Votes with party majority | 1,985 |
+| Party-line loyalty | 93.1% |
+| Deviations from party | 143 |
 
 **Coverage:**
 
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 100):**
+**Most recent party-line deviations (top 10 of 143):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
 | October 31 | s277-118.1 | Yea | N | — |
 | October 25 | s266-118.1 | Yea | N | — |
 | October 25 | s269-118.1 | Yea | N | — |
 | October 25 | s268-118.1 | Yea | N | — |
+| October 22 | s213-116.2 | Yea | N | PN 1663 |
+| October 22 | s211-116.2 | Yea | N | PN 1663 |
 | November 9 | s610-119.1 | Yea | N | H.R. 5371 |
-| November 1 | s618-119.1 | Yea | N | H.R. 5371 |
-| November 1 | s617-119.1 | Yea | N | H.R. 5371 |
-| November 1 | s616-119.1 | Yea | N | — |
-| November 1 | s615-119.1 | Yea | N | — |
-| November 1 | s611-119.1 | Yea | N | H.R. 5371 |
+| November 2 | s366-116.1 | Nay | Y | PN 1268 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

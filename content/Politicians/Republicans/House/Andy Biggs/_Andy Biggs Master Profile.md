@@ -115,20 +115,21 @@ top-donors: "[[WinRed]], [[Really American Pac]], [[Jim Jordan]], [[National Ass
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,677 |
-| Votes with party majority | 1,369 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,707 |
+| Votes with party majority | 1,393 |
 | Party-line loyalty | 81.6% |
-| Deviations from party | 308 |
+| Deviations from party | 314 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 308):**
+**Most recent party-line deviations (top 10 of 314):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

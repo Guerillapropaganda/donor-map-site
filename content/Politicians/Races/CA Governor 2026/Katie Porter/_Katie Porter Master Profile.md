@@ -375,18 +375,19 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,241 |
-| Substantive votes (Y/N) | 1,066 |
-| Votes with party majority | 1,037 |
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,096 |
+| Votes with party majority | 1,066 |
 | Party-line loyalty | 97.3% |
-| Deviations from party | 29 |
+| Deviations from party | 30 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 29):**
+**Most recent party-line deviations (top 10 of 30):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -131,33 +131,37 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,424 |
-| Votes with party majority | 1,381 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 41 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,738 |
+| Votes with party majority | 2,634 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 99 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 41):**
+**Most recent party-line deviations (top 10 of 99):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
 | September  | s214-118.1 | Nay | Y | PN 645 |
 | September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s310-116.1 | Yea | N | — |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| October 16 | s254-118.1 | Yea | N | PN 812 |
-| May 22, 20 | s177-118.2 | Yea | N | PN 1462 |
-| May 21, 20 | s175-118.2 | Yea | N | PN 1462 |
-| March 28,  | s75-118.1 | Nay | Y | S. 316 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

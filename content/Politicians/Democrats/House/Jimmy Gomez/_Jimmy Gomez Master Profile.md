@@ -106,14 +106,15 @@ top-donors: "[[Protect Progress]], [[Planned Parenthood Votes]], [[National Asso
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,610 |
-| Votes with party majority | 1,562 |
-| Party-line loyalty | 97.0% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,640 |
+| Votes with party majority | 1,592 |
+| Party-line loyalty | 97.1% |
 | Deviations from party | 48 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

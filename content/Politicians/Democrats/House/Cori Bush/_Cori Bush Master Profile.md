@@ -529,14 +529,15 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,241 |
-| Substantive votes (Y/N) | 981 |
-| Votes with party majority | 890 |
-| Party-line loyalty | 90.7% |
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,011 |
+| Votes with party majority | 920 |
+| Party-line loyalty | 91.0% |
 | Deviations from party | 91 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 

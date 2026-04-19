@@ -204,14 +204,15 @@ Before Congress, Connolly worked at SRI International (a government contractor) 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,378 |
-| Substantive votes (Y/N) | 1,265 |
-| Votes with party majority | 1,233 |
+| Roll-call votes tracked | 1,409 |
+| Substantive votes (Y/N) | 1,295 |
+| Votes with party majority | 1,263 |
 | Party-line loyalty | 97.5% |
 | Deviations from party | 32 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 137 votes

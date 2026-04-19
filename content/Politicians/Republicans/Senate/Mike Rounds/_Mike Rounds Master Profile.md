@@ -118,20 +118,24 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,395 |
-| Votes with party majority | 1,272 |
-| Party-line loyalty | 91.2% |
-| Deviations from party | 121 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,612 |
+| Votes with party majority | 2,459 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 148 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 121):**
+**Most recent party-line deviations (top 10 of 148):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
@@ -143,8 +147,8 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 | September  | s217-118.1 | Yea | N | PN 644 |
 | September  | s533-119.1 | Nay | Y | S. 2806 |
 | September  | s245-118.1 | Yea | N | PN 453 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
 | September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

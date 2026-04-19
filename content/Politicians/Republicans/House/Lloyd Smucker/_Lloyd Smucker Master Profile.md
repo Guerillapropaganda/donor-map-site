@@ -116,20 +116,21 @@ top-donors: "[[Raytheon (RTX)]], [[Humana]], [[Johnson & Johnson]], [[Walmart - 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,665 |
-| Votes with party majority | 1,598 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,695 |
+| Votes with party majority | 1,627 |
 | Party-line loyalty | 96.0% |
-| Deviations from party | 67 |
+| Deviations from party | 68 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 67):**
+**Most recent party-line deviations (top 10 of 68):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

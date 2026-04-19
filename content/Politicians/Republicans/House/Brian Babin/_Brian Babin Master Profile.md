@@ -127,20 +127,21 @@ top-donors: "[[Leidos]], [[American College of Radiology Association PAC]], [[Na
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,647 |
-| Votes with party majority | 1,577 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,674 |
+| Votes with party majority | 1,602 |
 | Party-line loyalty | 95.7% |
-| Deviations from party | 70 |
+| Deviations from party | 72 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 70):**
+**Most recent party-line deviations (top 10 of 72):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

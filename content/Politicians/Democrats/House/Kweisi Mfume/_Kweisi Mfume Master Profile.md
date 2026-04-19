@@ -114,14 +114,15 @@ top-donors: "[[Walmart - Walton Family]], [[Lockheed Martin]], [[Sierra Club Ind
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,620 |
-| Votes with party majority | 1,594 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,650 |
+| Votes with party majority | 1,624 |
 | Party-line loyalty | 98.4% |
 | Deviations from party | 26 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

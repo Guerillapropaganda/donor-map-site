@@ -117,14 +117,15 @@ top-donors: "[[National Association of Realtors]], [[Google - Alphabet]], [[Plan
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,683 |
-| Votes with party majority | 1,654 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,713 |
+| Votes with party majority | 1,684 |
 | Party-line loyalty | 98.3% |
 | Deviations from party | 29 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

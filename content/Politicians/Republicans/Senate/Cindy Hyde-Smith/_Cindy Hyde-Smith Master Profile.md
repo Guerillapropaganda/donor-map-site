@@ -117,33 +117,36 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,397 |
-| Votes with party majority | 1,360 |
+| Roll-call votes tracked | 2,363 |
+| Substantive votes (Y/N) | 2,307 |
+| Votes with party majority | 2,248 |
 | Party-line loyalty | 97.4% |
-| Deviations from party | 35 |
+| Deviations from party | 55 |
 
 **Coverage:**
 
+- senate 115/2: 211 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 35):**
+**Most recent party-line deviations (top 10 of 55):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| September  | s208-115.2 | Yea | N | — |
+| October 31 | s339-116.1 | Nay | Y | — |
 | October 26 | s271-118.1 | Nay | Y | — |
 | November 1 | s311-118.1 | Nay | Y | — |
 | May 30, 20 | s133-118.1 | Yea | N | PN 455 |
 | May 23, 20 | s181-118.2 | Yea | N | PN 1212 |
 | May 22, 20 | s180-118.2 | Yea | N | PN 1212 |
 | May 17, 20 | s129-118.1 | Yea | N | PN 455 |
-| March 8, 2 | s79-118.2 | Yea | N | H.R. 4366 |
-| March 8, 2 | s82-118.2 | Nay | Y | H.R. 4366 |
-| March 8, 2 | s81-118.2 | Nay | Y | H.R. 4366 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

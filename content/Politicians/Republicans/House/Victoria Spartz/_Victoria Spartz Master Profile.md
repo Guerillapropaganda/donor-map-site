@@ -118,20 +118,21 @@ top-donors: "[[MAJORITY PAC]], [[Morgan Stanley]], [[National Victory Action Fun
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,572 |
-| Votes with party majority | 1,418 |
-| Party-line loyalty | 90.2% |
-| Deviations from party | 154 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,602 |
+| Votes with party majority | 1,447 |
+| Party-line loyalty | 90.3% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 154):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

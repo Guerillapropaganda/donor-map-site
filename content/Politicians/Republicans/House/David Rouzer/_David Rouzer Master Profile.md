@@ -117,20 +117,21 @@ top-donors: "[[National Association of Manufacturers]], [[Leidos]], [[Bank of Am
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,687 |
-| Votes with party majority | 1,641 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 46 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,717 |
+| Votes with party majority | 1,669 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 48 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 46):**
+**Most recent party-line deviations (top 10 of 48):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

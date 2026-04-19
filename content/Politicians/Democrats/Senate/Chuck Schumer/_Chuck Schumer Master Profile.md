@@ -338,33 +338,37 @@ conte
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,426 |
-| Votes with party majority | 1,394 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 31 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,739 |
+| Votes with party majority | 2,575 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 155 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 31):**
+**Most recent party-line deviations (top 10 of 155):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| September  | s233-118.1 | Nay | Y | — |
-| November 2 | s318-118.1 | Nay | Y | PN 157 |
-| November 1 | s614-119.1 | Nay | Y | — |
-| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
-| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
-| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
-| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
-| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
-| March 14,  | s128-119.1 | Yea | N | H.R. 1968 |
-| March 11,  | s115-119.1 | Nay | Y | PN 12-41 |
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

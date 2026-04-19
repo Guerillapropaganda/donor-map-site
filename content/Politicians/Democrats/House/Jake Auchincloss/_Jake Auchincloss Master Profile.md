@@ -112,14 +112,15 @@ top-donors: "[[Votevets]], [[Ted Lieu]], [[National Multifamily Housing Council]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,642 |
-| Votes with party majority | 1,595 |
-| Party-line loyalty | 97.1% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,671 |
+| Votes with party majority | 1,624 |
+| Party-line loyalty | 97.2% |
 | Deviations from party | 47 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

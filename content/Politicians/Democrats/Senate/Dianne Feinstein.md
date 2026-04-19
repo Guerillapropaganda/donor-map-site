@@ -366,22 +366,34 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 243 |
-| Substantive votes (Y/N) | 125 |
-| Votes with party majority | 123 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 2 |
+| Roll-call votes tracked | 1,561 |
+| Substantive votes (Y/N) | 1,393 |
+| Votes with party majority | 1,302 |
+| Party-line loyalty | 93.5% |
+| Deviations from party | 83 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 243 votes
 
-**Most recent party-line deviations (top 10 of 2):**
+**Most recent party-line deviations (top 10 of 83):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| June 1, 20 | s145-118.1 | Nay | Y | — |
-| July 20, 2 | s194-118.1 | Nay | Y | — |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| October 26 | s251-115.1 | Nay | Y | PN 374 |
+| October 25 | s250-115.1 | Nay | Y | PN 374 |
+| October 22 | s213-116.2 | Yea | N | PN 1663 |
+| October 16 | s316-116.1 | Yea | N | PN 722 |
+| October 16 | s321-116.1 | Yea | N | PN 722 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

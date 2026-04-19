@@ -400,33 +400,37 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,398 |
-| Votes with party majority | 1,310 |
-| Party-line loyalty | 93.7% |
-| Deviations from party | 87 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,682 |
+| Votes with party majority | 2,469 |
+| Party-line loyalty | 92.1% |
+| Deviations from party | 204 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 87):**
+**Most recent party-line deviations (top 10 of 204):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 25 | s269-118.1 | Yea | N | — |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| May 9, 202 | s162-118.2 | Nay | Y | H.R. 3935 |
-| May 9, 202 | s161-118.2 | Nay | Y | H.R. 3935 |
-| May 6, 202 | s232-119.1 | Yea | N | H.J.Res. 61 |
-| May 5, 202 | s231-119.1 | Yea | N | H.J.Res. 61 |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 2, 202 | s158-118.2 | Nay | Y | H.R. 3935 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
+| September  | s284-116.1 | Yea | N | PN 127 |
+| September  | s285-116.1 | Yea | N | PN 127 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s280-116.1 | Yea | N | PN 561 |
+| September  | s273-116.1 | Yea | N | PN 561 |
+| October 5, | s213-115.1 | Yea | N | PN 734 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -473,33 +473,37 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,388 |
-| Votes with party majority | 1,350 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 37 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,640 |
+| Votes with party majority | 2,526 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 107 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 37):**
+**Most recent party-line deviations (top 10 of 107):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| March 9, 2 | s48-119.2 | Yea | N | PN 711 |
-| March 8, 2 | s49-118.1 | Nay | Y | H.J.Res. 26 |
-| March 6, 2 | s109-119.1 | Yea | N | PN 11-4 |
-| March 10,  | s49-119.2 | Yea | N | PN 711 |
-| March 10,  | s111-119.1 | Yea | N | PN 11-4 |
-| June 30, 2 | s352-119.1 | Nay | Y | — |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s196-115.1 | Nay | Y | PN 363 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s265-116.1 | Yea | N | PN 88 |
+| September  | s266-116.1 | Yea | N | PN 88 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

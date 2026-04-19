@@ -299,33 +299,37 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,385 |
-| Votes with party majority | 1,362 |
-| Party-line loyalty | 98.3% |
-| Deviations from party | 21 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,693 |
+| Votes with party majority | 2,628 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 60 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 21):**
+**Most recent party-line deviations (top 10 of 60):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
 | September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| October 31 | s339-116.1 | Nay | Y | — |
+| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
+| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
 | November 2 | s303-118.2 | Nay | Y | PN 2041 |
-| May 2, 202 | s102-118.1 | Yea | N | PN 97 |
-| May 2, 202 | s104-118.1 | Yea | N | PN 97 |
-| March 7, 2 | s75-118.2 | Yea | N | S. 3853 |
-| March 6, 2 | s69-118.2 | Yea | N | PN 1213 |
-| March 5, 2 | s68-118.2 | Yea | N | PN 1213 |
-| March 28,  | s75-118.1 | Nay | Y | S. 316 |
-| June 11, 2 | s191-118.2 | Nay | Y | PN 1470 |
+| May 4, 201 | s121-115.1 | Nay | Y | H.R. 244 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

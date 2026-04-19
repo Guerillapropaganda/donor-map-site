@@ -119,31 +119,35 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 691 |
-| Substantive votes (Y/N) | 595 |
-| Votes with party majority | 492 |
-| Party-line loyalty | 82.7% |
-| Deviations from party | 97 |
+| Roll-call votes tracked | 2,009 |
+| Substantive votes (Y/N) | 1,892 |
+| Votes with party majority | 1,442 |
+| Party-line loyalty | 76.2% |
+| Deviations from party | 436 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 97):**
+**Most recent party-line deviations (top 10 of 436):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s263-116.1 | Yea | N | PN 713 |
 | September  | s215-118.1 | Nay | Y | PN 743 |
 | September  | s216-118.1 | Nay | Y | PN 743 |
+| September  | s203-115.2 | Yea | N | PN 1525 |
 | September  | s243-118.1 | Yea | N | S.J.Res. 24 |
 | September  | s242-118.1 | Yea | N | S.J.Res. 9 |
-| October 31 | s278-118.1 | Yea | N | — |
-| October 31 | s277-118.1 | Yea | N | — |
-| October 26 | s272-118.1 | Yea | N | S.J.Res. 42 |
-| October 25 | s266-118.1 | Yea | N | — |
-| October 25 | s269-118.1 | Yea | N | — |
-| October 25 | s268-118.1 | Yea | N | — |
+| September  | s208-115.1 | Yea | N | PN 89 |
+| September  | s307-116.1 | Yea | N | S.Res. 336 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s295-116.1 | Yea | N | PN 114 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

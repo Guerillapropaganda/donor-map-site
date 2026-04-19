@@ -333,33 +333,37 @@ conte
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,332 |
-| Votes with party majority | 1,265 |
-| Party-line loyalty | 95.0% |
-| Deviations from party | 65 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,578 |
+| Votes with party majority | 2,427 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 146 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 65):**
+**Most recent party-line deviations (top 10 of 146):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
 | September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s199-116.2 | Yea | N | — |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
 | September  | s244-118.1 | Nay | Y | PN 183 |
+| September  | s196-116.2 | Nay | Y | H.R. 8337 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
 | September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s228-118.1 | Nay | Y | H.R. 4366 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

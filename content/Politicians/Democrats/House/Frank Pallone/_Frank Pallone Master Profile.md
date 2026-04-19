@@ -330,14 +330,15 @@ The class function is clear: Pallone is the progressive validator for industries
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,692 |
-| Votes with party majority | 1,645 |
-| Party-line loyalty | 97.2% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,722 |
+| Votes with party majority | 1,675 |
+| Party-line loyalty | 97.3% |
 | Deviations from party | 47 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

@@ -118,14 +118,15 @@ top-donors: "[[EQUALITY PROJECT PAC]], [[General Motors]], [[Chrissy Houlahan]],
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,653 |
-| Votes with party majority | 1,544 |
-| Party-line loyalty | 93.4% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,682 |
+| Votes with party majority | 1,573 |
+| Party-line loyalty | 93.5% |
 | Deviations from party | 109 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

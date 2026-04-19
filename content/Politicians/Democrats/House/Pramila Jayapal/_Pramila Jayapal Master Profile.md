@@ -137,14 +137,15 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,618 |
-| Votes with party majority | 1,543 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,648 |
+| Votes with party majority | 1,573 |
 | Party-line loyalty | 95.4% |
 | Deviations from party | 75 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

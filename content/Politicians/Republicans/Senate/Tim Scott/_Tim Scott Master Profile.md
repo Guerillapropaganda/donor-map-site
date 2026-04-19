@@ -334,33 +334,37 @@ The class function Scott performs is unique and cannot be replicated by a white 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,256 |
-| Votes with party majority | 1,216 |
-| Party-line loyalty | 96.8% |
-| Deviations from party | 39 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,561 |
+| Votes with party majority | 2,485 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 72 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 39):**
+**Most recent party-line deviations (top 10 of 72):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
 | September  | s255-118.2 | Nay | Y | H.R. 9747 |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
+| September  | s208-115.2 | Yea | N | — |
 | September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| March 8, 2 | s77-118.2 | Nay | Y | H.R. 4366 |
-| March 8, 2 | s84-118.2 | Nay | Y | H.R. 4366 |
-| March 28,  | s76-118.1 | Yea | N | S. 316 |
-| March 23,  | s114-118.2 | Nay | Y | H.R. 2882 |
-| March 22,  | s103-118.2 | Nay | Y | H.R. 2882 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

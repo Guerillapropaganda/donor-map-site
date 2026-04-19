@@ -107,14 +107,15 @@ top-donors: "[[Progressive Turnout Project]], [[Sierra Club Political Committee]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,623 |
-| Votes with party majority | 1,579 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,653 |
+| Votes with party majority | 1,609 |
 | Party-line loyalty | 97.3% |
 | Deviations from party | 44 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

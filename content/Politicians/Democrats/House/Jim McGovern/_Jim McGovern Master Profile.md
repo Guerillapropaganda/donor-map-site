@@ -282,20 +282,21 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,672 |
-| Votes with party majority | 1,615 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,702 |
+| Votes with party majority | 1,644 |
 | Party-line loyalty | 96.6% |
-| Deviations from party | 57 |
+| Deviations from party | 58 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 58):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

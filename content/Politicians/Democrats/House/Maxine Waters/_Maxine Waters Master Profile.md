@@ -289,14 +289,15 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,626 |
-| Votes with party majority | 1,574 |
-| Party-line loyalty | 96.8% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,656 |
+| Votes with party majority | 1,604 |
+| Party-line loyalty | 96.9% |
 | Deviations from party | 52 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

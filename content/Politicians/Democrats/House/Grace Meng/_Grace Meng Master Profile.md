@@ -107,20 +107,21 @@ top-donors: "[[Raytheon (RTX)]], [[Anthem - Elevance Health]], [[Google - Alphab
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,595 |
-| Votes with party majority | 1,559 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,625 |
+| Votes with party majority | 1,588 |
 | Party-line loyalty | 97.7% |
-| Deviations from party | 36 |
+| Deviations from party | 37 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 36):**
+**Most recent party-line deviations (top 10 of 37):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -114,20 +114,21 @@ top-donors: "[[Paul Tonko]], [[Leidos]], [[Giffords PAC]], [[314 ACTION FUND]], 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,643 |
-| Votes with party majority | 1,556 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,673 |
+| Votes with party majority | 1,585 |
 | Party-line loyalty | 94.7% |
-| Deviations from party | 87 |
+| Deviations from party | 88 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 87):**
+**Most recent party-line deviations (top 10 of 88):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

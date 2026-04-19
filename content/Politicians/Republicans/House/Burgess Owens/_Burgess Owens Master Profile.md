@@ -117,20 +117,21 @@ top-donors: "[[Women Speak Out Pac]], [[National Association of Realtors]], [[Wa
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,685 |
-| Votes with party majority | 1,589 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,714 |
+| Votes with party majority | 1,616 |
 | Party-line loyalty | 94.3% |
-| Deviations from party | 96 |
+| Deviations from party | 98 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 96):**
+**Most recent party-line deviations (top 10 of 98):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -113,14 +113,15 @@ top-donors: "[[Sierra Club Independent Action]], [[SEIU COPE]], [[IBEW - Interna
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,635 |
-| Votes with party majority | 1,579 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,665 |
+| Votes with party majority | 1,609 |
 | Party-line loyalty | 96.6% |
 | Deviations from party | 56 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

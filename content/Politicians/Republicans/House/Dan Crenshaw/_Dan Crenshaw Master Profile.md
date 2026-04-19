@@ -442,20 +442,21 @@ party:: Republican
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,517 |
-| Votes with party majority | 1,431 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,542 |
+| Votes with party majority | 1,454 |
 | Party-line loyalty | 94.3% |
-| Deviations from party | 86 |
+| Deviations from party | 88 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 86):**
+**Most recent party-line deviations (top 10 of 88):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

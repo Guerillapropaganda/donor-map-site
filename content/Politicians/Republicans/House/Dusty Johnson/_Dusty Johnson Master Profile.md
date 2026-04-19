@@ -116,20 +116,21 @@ top-policy-area: Agriculture and Food
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,677 |
-| Votes with party majority | 1,628 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 49 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,707 |
+| Votes with party majority | 1,655 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 52 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 49):**
+**Most recent party-line deviations (top 10 of 52):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

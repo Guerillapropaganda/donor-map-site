@@ -132,33 +132,37 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,424 |
-| Votes with party majority | 1,383 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 40 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,733 |
+| Votes with party majority | 2,615 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 110 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 40):**
+**Most recent party-line deviations (top 10 of 110):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s202-115.2 | Nay | Y | PN 2047 |
 | September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
 | September  | s500-119.1 | Nay | Y | S. 2296 |
+| September  | s278-116.1 | Nay | Y | PN 566 |
+| September  | s277-116.1 | Nay | Y | PN 524 |
 | October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 9, | s568-119.1 | Yea | N | — |
-| October 31 | s277-118.1 | Yea | N | — |
-| October 25 | s266-118.1 | Yea | N | — |
-| November 1 | s614-119.1 | Nay | Y | — |
-| November 1 | s280-118.1 | Yea | N | — |
-| May 3, 202 | s109-118.1 | Yea | N | H.J.Res. 39 |
-| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

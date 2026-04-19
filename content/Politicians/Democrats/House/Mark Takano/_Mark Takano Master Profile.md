@@ -259,20 +259,21 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,680 |
-| Votes with party majority | 1,633 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,710 |
+| Votes with party majority | 1,662 |
 | Party-line loyalty | 97.2% |
-| Deviations from party | 47 |
+| Deviations from party | 48 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 47):**
+**Most recent party-line deviations (top 10 of 48):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -218,31 +218,33 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 691 |
-| Substantive votes (Y/N) | 617 |
-| Votes with party majority | 511 |
-| Party-line loyalty | 82.8% |
-| Deviations from party | 104 |
+| Roll-call votes tracked | 1,410 |
+| Substantive votes (Y/N) | 1,328 |
+| Votes with party majority | 1,186 |
+| Party-line loyalty | 89.3% |
+| Deviations from party | 139 |
 
 **Coverage:**
 
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 104):**
+**Most recent party-line deviations (top 10 of 139):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s254-118.2 | Yea | N | PN 1902 |
 | September  | s253-118.2 | Yea | N | PN 1902 |
+| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
 | September  | s241-118.2 | Yea | N | PN 1825 |
 | September  | s243-118.2 | Yea | N | PN 1825 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
 | October 4, | s249-118.1 | Yea | N | PN 676 |
+| October 31 | s340-116.1 | Nay | Y | — |
 | October 3, | s248-118.1 | Yea | N | PN 676 |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| October 16 | s254-118.1 | Yea | N | PN 812 |
-| November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 6 | s292-118.1 | Yea | N | PN 649 |
+| October 28 | s335-116.1 | Yea | N | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

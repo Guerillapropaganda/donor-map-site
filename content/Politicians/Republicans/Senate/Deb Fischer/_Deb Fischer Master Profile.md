@@ -362,33 +362,37 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,421 |
-| Votes with party majority | 1,392 |
-| Party-line loyalty | 98.0% |
-| Deviations from party | 27 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,708 |
+| Votes with party majority | 2,650 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 53 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 27):**
+**Most recent party-line deviations (top 10 of 53):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
 | September  | s533-119.1 | Nay | Y | S. 2806 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
 | September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s310-116.1 | Yea | N | — |
 | September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| March 8, 2 | s81-118.2 | Nay | Y | H.R. 4366 |
-| March 6, 2 | s69-118.2 | Yea | N | PN 1213 |
-| March 5, 2 | s68-118.2 | Yea | N | PN 1213 |
-| March 30,  | s82-118.1 | Yea | N | PN 2 |
-| March 28,  | s76-118.1 | Yea | N | S. 316 |
-| March 15,  | s59-118.1 | Yea | N | PN 2 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| October 28 | s335-116.1 | Yea | N | — |
+| October 19 | s237-115.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -87,33 +87,37 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,362 |
-| Votes with party majority | 1,295 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 66 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,650 |
+| Votes with party majority | 2,503 |
+| Party-line loyalty | 94.5% |
+| Deviations from party | 138 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 66):**
+**Most recent party-line deviations (top 10 of 138):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 9, | s564-119.1 | Yea | N | — |
-| October 9, | s563-119.1 | Yea | N | — |
-| October 9, | s562-119.1 | Yea | N | — |
-| October 27 | s589-119.1 | Yea | N | PN 466-3 |
-| October 22 | s582-119.1 | Yea | N | PN 466-3 |
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| November 9 | s610-119.1 | Yea | N | H.R. 5371 |
-| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
+| September  | s203-115.2 | Yea | N | PN 1525 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
+| September  | s198-115.1 | Nay | Y | H.R. 2810 |
+| September  | s178-116.2 | Yea | N | PN 1439 |
+| September  | s177-116.2 | Yea | N | PN 1507 |
+| September  | s180-116.2 | Yea | N | PN 1439 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

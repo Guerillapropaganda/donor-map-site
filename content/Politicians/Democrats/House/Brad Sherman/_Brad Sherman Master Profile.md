@@ -107,20 +107,21 @@ top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,666 |
-| Votes with party majority | 1,624 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,695 |
+| Votes with party majority | 1,652 |
 | Party-line loyalty | 97.5% |
-| Deviations from party | 42 |
+| Deviations from party | 43 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 42):**
+**Most recent party-line deviations (top 10 of 43):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

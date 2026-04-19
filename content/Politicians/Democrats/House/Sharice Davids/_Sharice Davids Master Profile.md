@@ -118,20 +118,21 @@ top-donors: "[[Walmart - Walton Family]], [[Teamsters - International Brotherhoo
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,688 |
-| Votes with party majority | 1,605 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,718 |
+| Votes with party majority | 1,634 |
 | Party-line loyalty | 95.1% |
-| Deviations from party | 83 |
+| Deviations from party | 84 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 83):**
+**Most recent party-line deviations (top 10 of 84):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -117,14 +117,15 @@ top-donors: "[[National Rifle Association]], [[McDonalds Corporation]], [[Lockhe
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,669 |
-| Votes with party majority | 1,576 |
-| Party-line loyalty | 94.4% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,698 |
+| Votes with party majority | 1,605 |
+| Party-line loyalty | 94.5% |
 | Deviations from party | 93 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

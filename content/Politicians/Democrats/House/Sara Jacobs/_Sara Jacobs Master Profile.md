@@ -116,14 +116,15 @@ top-donors: "[[Courage California Super Pac]], [[J Street]], [[National Associat
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,662 |
-| Votes with party majority | 1,620 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,691 |
+| Votes with party majority | 1,649 |
 | Party-line loyalty | 97.5% |
 | Deviations from party | 42 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

@@ -299,14 +299,15 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,651 |
-| Votes with party majority | 1,584 |
-| Party-line loyalty | 95.9% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,681 |
+| Votes with party majority | 1,614 |
+| Party-line loyalty | 96.0% |
 | Deviations from party | 67 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

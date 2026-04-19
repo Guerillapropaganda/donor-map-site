@@ -115,20 +115,21 @@ top-donors: "[[AIPAC - American Israel Public Affairs Committee]], [[Marathon Pe
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,576 |
-| Votes with party majority | 1,415 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,604 |
+| Votes with party majority | 1,441 |
 | Party-line loyalty | 89.8% |
-| Deviations from party | 161 |
+| Deviations from party | 163 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 161):**
+**Most recent party-line deviations (top 10 of 163):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

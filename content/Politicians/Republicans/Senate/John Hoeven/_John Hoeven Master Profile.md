@@ -139,23 +139,30 @@ top-policy-area: International Affairs
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,399 |
-| Votes with party majority | 1,349 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 48 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,697 |
+| Votes with party majority | 2,630 |
+| Party-line loyalty | 97.5% |
+| Deviations from party | 62 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 48):**
+**Most recent party-line deviations (top 10 of 62):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| October 31 | s339-116.1 | Nay | Y | — |
 | October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
 | November 3 | s325-118.1 | Nay | Y | PN 500 |
 | May 23, 20 | s181-118.2 | Yea | N | PN 1212 |
@@ -163,9 +170,6 @@ top-policy-area: International Affairs
 | May 22, 20 | s180-118.2 | Yea | N | PN 1212 |
 | May 21, 20 | s173-118.2 | Yea | N | PN 1460 |
 | May 21, 20 | s175-118.2 | Yea | N | PN 1462 |
-| May 21, 20 | s174-118.2 | Yea | N | PN 1460 |
-| May 15, 20 | s167-118.2 | Yea | N | PN 1436 |
-| March 8, 2 | s47-118.1 | Yea | N | PN 162 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

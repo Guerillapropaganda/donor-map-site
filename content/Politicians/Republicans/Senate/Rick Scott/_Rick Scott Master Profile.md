@@ -402,33 +402,35 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,376 |
-| Votes with party majority | 1,283 |
-| Party-line loyalty | 93.2% |
-| Deviations from party | 91 |
+| Roll-call votes tracked | 2,152 |
+| Substantive votes (Y/N) | 2,067 |
+| Votes with party majority | 1,946 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 118 |
 
 **Coverage:**
 
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 91):**
+**Most recent party-line deviations (top 10 of 118):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s214-118.1 | Nay | Y | PN 645 |
 | September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
 | September  | s244-118.1 | Nay | Y | PN 183 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
 | September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s228-118.1 | Nay | Y | H.R. 4366 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 9, | s562-119.1 | Yea | N | — |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

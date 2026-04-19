@@ -114,14 +114,15 @@ top-donors: "[[Nucor Corporation]], [[National Rifle Association]], [[General Dy
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,628 |
-| Votes with party majority | 1,560 |
-| Party-line loyalty | 95.8% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,657 |
+| Votes with party majority | 1,589 |
+| Party-line loyalty | 95.9% |
 | Deviations from party | 68 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

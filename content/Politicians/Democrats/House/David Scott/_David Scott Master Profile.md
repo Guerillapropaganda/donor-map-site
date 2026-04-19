@@ -107,14 +107,15 @@ top-donors: "[[Anthem - Elevance Health]], [[Walmart - Walton Family]], [[Honeyw
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,653 |
-| Votes with party majority | 1,595 |
-| Party-line loyalty | 96.5% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,683 |
+| Votes with party majority | 1,625 |
+| Party-line loyalty | 96.6% |
 | Deviations from party | 58 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

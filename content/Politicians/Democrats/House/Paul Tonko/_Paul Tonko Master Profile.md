@@ -107,14 +107,15 @@ top-donors: "[[SEIU COPE]], [[Care Action]], [[AT&T - WarnerMedia]], [[Nucor Cor
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,678 |
-| Votes with party majority | 1,646 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,708 |
+| Votes with party majority | 1,676 |
 | Party-line loyalty | 98.1% |
 | Deviations from party | 32 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

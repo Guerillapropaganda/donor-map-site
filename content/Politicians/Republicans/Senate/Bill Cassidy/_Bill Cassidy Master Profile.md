@@ -266,33 +266,37 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,346 |
-| Votes with party majority | 1,262 |
-| Party-line loyalty | 93.8% |
-| Deviations from party | 82 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,610 |
+| Votes with party majority | 2,483 |
+| Party-line loyalty | 95.1% |
+| Deviations from party | 122 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 82):**
+**Most recent party-line deviations (top 10 of 122):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s533-119.1 | Nay | Y | S. 2806 |
 | September  | s250-118.2 | Yea | N | PN 1342 |
 | September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s193-116.2 | Yea | N | PN 1693 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
 | September  | s224-118.1 | Yea | N | PN 551 |
 | October 9, | s566-119.1 | Yea | N | — |
 | October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| October 16 | s254-118.1 | Yea | N | PN 812 |
-| November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 6 | s292-118.1 | Yea | N | PN 649 |
+| October 19 | s238-115.1 | Nay | Y | — |
+| October 19 | s237-115.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

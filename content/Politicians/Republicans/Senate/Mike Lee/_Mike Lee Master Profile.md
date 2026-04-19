@@ -125,33 +125,37 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,367 |
-| Votes with party majority | 1,239 |
-| Party-line loyalty | 90.6% |
-| Deviations from party | 127 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,661 |
+| Votes with party majority | 2,323 |
+| Party-line loyalty | 87.3% |
+| Deviations from party | 334 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 127):**
+**Most recent party-line deviations (top 10 of 334):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
 | September  | s214-118.1 | Nay | Y | PN 645 |
 | September  | s213-118.1 | Nay | Y | PN 645 |
 | September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s237-118.1 | Nay | Y | PN 537 |
-| September  | s236-118.1 | Nay | Y | PN 537 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
+| September  | s199-116.2 | Yea | N | — |
+| September  | s198-116.2 | Nay | Y | S. 178 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
+| September  | s196-116.2 | Nay | Y | H.R. 8337 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

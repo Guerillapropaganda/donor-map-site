@@ -116,14 +116,15 @@ top-donors: "[[SEIU COPE]], [[DMFI - Democratic Majority for Israel]], [[Nationa
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,670 |
-| Votes with party majority | 1,573 |
-| Party-line loyalty | 94.2% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,700 |
+| Votes with party majority | 1,603 |
+| Party-line loyalty | 94.3% |
 | Deviations from party | 97 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

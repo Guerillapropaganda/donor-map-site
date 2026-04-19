@@ -106,20 +106,21 @@ top-donors: "[[L3Harris Technologies]], [[PG&E - Pacific Gas and Electric]], [[B
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,538 |
-| Votes with party majority | 1,494 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,567 |
+| Votes with party majority | 1,522 |
 | Party-line loyalty | 97.1% |
-| Deviations from party | 44 |
+| Deviations from party | 45 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 44):**
+**Most recent party-line deviations (top 10 of 45):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

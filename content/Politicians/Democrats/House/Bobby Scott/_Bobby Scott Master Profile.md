@@ -341,14 +341,15 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,693 |
-| Votes with party majority | 1,652 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,723 |
+| Votes with party majority | 1,682 |
 | Party-line loyalty | 97.6% |
 | Deviations from party | 41 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

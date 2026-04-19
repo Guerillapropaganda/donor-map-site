@@ -115,20 +115,21 @@ top-donors: "[[Walmart - Walton Family]], [[United Food and Commercial Workers I
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,623 |
-| Votes with party majority | 1,589 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,653 |
+| Votes with party majority | 1,618 |
 | Party-line loyalty | 97.9% |
-| Deviations from party | 34 |
+| Deviations from party | 35 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 34):**
+**Most recent party-line deviations (top 10 of 35):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

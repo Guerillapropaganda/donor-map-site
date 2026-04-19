@@ -380,33 +380,37 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,382 |
-| Votes with party majority | 1,329 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 51 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,685 |
+| Votes with party majority | 2,589 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 91 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 51):**
+**Most recent party-line deviations (top 10 of 91):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
 | September  | s249-118.2 | Nay | Y | PN 1399 |
 | September  | s248-118.2 | Nay | Y | PN 1399 |
+| September  | s211-115.2 | Nay | Y | H.R. 6157 |
 | September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 9, | s564-119.1 | Nay | Y | — |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| November 2 | s303-118.2 | Nay | Y | PN 2041 |
-| November 1 | s285-118.1 | Nay | Y | H.R. 662 |
-| November 1 | s284-118.1 | Nay | Y | H.R. 4366 |
-| May 9, 202 | s161-118.2 | Nay | Y | H.R. 3935 |
-| May 8, 202 | s160-118.2 | Yea | N | H.R. 3935 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -118,20 +118,21 @@ top-donors: "[[AT&T - WarnerMedia]], [[General Motors]], [[CVS Health - Aetna]],
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,630 |
-| Votes with party majority | 1,500 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,660 |
+| Votes with party majority | 1,528 |
 | Party-line loyalty | 92.0% |
-| Deviations from party | 130 |
+| Deviations from party | 132 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 130):**
+**Most recent party-line deviations (top 10 of 132):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -115,14 +115,15 @@ top-donors: "[[Bank of America]], [[Amgen Inc]], [[NextEra Energy]], [[American 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,624 |
-| Votes with party majority | 1,543 |
-| Party-line loyalty | 95.0% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,654 |
+| Votes with party majority | 1,573 |
+| Party-line loyalty | 95.1% |
 | Deviations from party | 81 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

@@ -87,6 +87,41 @@ urls-first-triaged: "2026-04-15"
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 518 |
+| Substantive votes (Y/N) | 282 |
+| Votes with party majority | 260 |
+| Party-line loyalty | 92.2% |
+| Deviations from party | 21 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 193 votes
+
+**Most recent party-line deviations (top 10 of 21):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| October 19 | s240-115.1 | Nay | Y | — |
+| October 19 | s239-115.1 | Yea | N | — |
+| October 19 | s238-115.1 | Nay | Y | — |
+| October 19 | s237-115.1 | Nay | Y | — |
+| November 7 | s263-115.1 | Nay | Y | PN 58 |
+| November 7 | s264-115.1 | Nay | Y | PN 58 |
+| November 1 | s272-115.1 | Nay | Y | PN 558 |
+| November 1 | s271-115.1 | Nay | Y | PN 558 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 #politician #republican #senator #presidential2008 #maverick-brand #keating-five
 
 **related:** [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon Technologies]] · [[Northrop Grumman]] · [[AT&T - American Telephone & Telegraph|AT&T]] · [[Hensley & Co]]

@@ -319,14 +319,15 @@ Krishnamoorthi's $29 million Senate campaign, the most expensive in the Illinois
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,675 |
-| Votes with party majority | 1,645 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,705 |
+| Votes with party majority | 1,675 |
 | Party-line loyalty | 98.2% |
 | Deviations from party | 30 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

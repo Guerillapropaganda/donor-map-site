@@ -113,20 +113,21 @@ top-donors: "[[Care Action]], [[Tzedek PAC]], [[Halliburton]], [[American Hospit
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,689 |
-| Votes with party majority | 1,623 |
-| Party-line loyalty | 96.1% |
-| Deviations from party | 66 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,719 |
+| Votes with party majority | 1,650 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 69 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 66):**
+**Most recent party-line deviations (top 10 of 69):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

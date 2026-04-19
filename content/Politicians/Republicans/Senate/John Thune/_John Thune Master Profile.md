@@ -118,33 +118,37 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,432 |
-| Votes with party majority | 1,373 |
-| Party-line loyalty | 95.9% |
-| Deviations from party | 57 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,745 |
+| Votes with party majority | 2,671 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 69 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 57):**
+**Most recent party-line deviations (top 10 of 69):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | September  | s522-119.1 | Nay | Y | PN 55-25 |
 | September  | s513-119.1 | Nay | Y | S.Res. 377 |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
 | October 23 | s585-119.1 | Nay | Y | S. 3012 |
 | October 22 | s581-119.1 | Nay | Y | H.R. 5371 |
 | October 20 | s576-119.1 | Nay | Y | H.R. 5371 |
 | October 16 | s573-119.1 | Nay | Y | H.R. 5371 |
-| October 16 | s575-119.1 | Nay | Y | H.R. 4016 |
-| October 14 | s571-119.1 | Nay | Y | H.R. 5371 |
-| November 3 | s325-118.1 | Nay | Y | PN 500 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

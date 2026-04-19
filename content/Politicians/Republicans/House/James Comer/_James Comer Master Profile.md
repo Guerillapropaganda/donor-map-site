@@ -335,14 +335,15 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale â
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,667 |
-| Votes with party majority | 1,565 |
-| Party-line loyalty | 93.9% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,697 |
+| Votes with party majority | 1,595 |
+| Party-line loyalty | 94.0% |
 | Deviations from party | 102 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

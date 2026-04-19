@@ -307,33 +307,37 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,332 |
-| Votes with party majority | 1,247 |
-| Party-line loyalty | 93.6% |
-| Deviations from party | 83 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,548 |
+| Votes with party majority | 2,398 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 145 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 83):**
+**Most recent party-line deviations (top 10 of 145):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
 | September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
 | October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
 | October 26 | s271-118.1 | Nay | Y | — |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 6 | s292-118.1 | Yea | N | PN 649 |
-| November 1 | s311-118.1 | Nay | Y | — |
-| May 23, 20 | s181-118.2 | Yea | N | PN 1212 |
-| May 22, 20 | s177-118.2 | Yea | N | PN 1462 |
-| May 22, 20 | s180-118.2 | Yea | N | PN 1212 |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
+| October 19 | s238-115.1 | Nay | Y | — |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

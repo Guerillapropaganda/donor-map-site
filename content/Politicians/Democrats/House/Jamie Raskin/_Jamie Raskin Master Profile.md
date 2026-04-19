@@ -292,14 +292,15 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,677 |
-| Votes with party majority | 1,649 |
-| Party-line loyalty | 98.3% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,706 |
+| Votes with party majority | 1,678 |
+| Party-line loyalty | 98.4% |
 | Deviations from party | 28 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

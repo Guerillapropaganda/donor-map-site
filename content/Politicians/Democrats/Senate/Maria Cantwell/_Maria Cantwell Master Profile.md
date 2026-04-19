@@ -373,33 +373,37 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,424 |
-| Votes with party majority | 1,393 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 30 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,728 |
+| Votes with party majority | 2,597 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 123 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 30):**
+**Most recent party-line deviations (top 10 of 123):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 9, | s563-119.1 | Yea | N | — |
-| October 9, | s562-119.1 | Yea | N | — |
-| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
-| March 25,  | s139-119.1 | Yea | N | PN 13-8 |
-| June 25, 2 | s325-119.1 | Yea | N | PN 26-12 |
-| June 24, 2 | s324-119.1 | Yea | N | PN 26-12 |
-| July 30, 2 | s455-119.1 | Nay | Y | S.J.Res. 34 |
-| July 30, 2 | s454-119.1 | Nay | Y | S.J.Res. 41 |
-| January 30 | s20-119.2 | Yea | N | H.R. 7148 |
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s183-116.2 | Nay | Y | PN 1508 |
+| September  | s176-116.2 | Nay | Y | PN 1538 |
+| September  | s181-116.2 | Nay | Y | PN 1508 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

@@ -360,20 +360,21 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,657 |
-| Votes with party majority | 1,484 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,687 |
+| Votes with party majority | 1,511 |
 | Party-line loyalty | 89.6% |
-| Deviations from party | 173 |
+| Deviations from party | 176 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 173):**
+**Most recent party-line deviations (top 10 of 176):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

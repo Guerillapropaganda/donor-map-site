@@ -110,20 +110,21 @@ top-donors: "[[Lockheed Martin]], [[Gilead Sciences]], [[American Chemistry Coun
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,686 |
-| Votes with party majority | 1,534 |
-| Party-line loyalty | 91.0% |
-| Deviations from party | 152 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,716 |
+| Votes with party majority | 1,563 |
+| Party-line loyalty | 91.1% |
+| Deviations from party | 153 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 152):**
+**Most recent party-line deviations (top 10 of 153):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -113,20 +113,21 @@ top-policy-area: Taxation
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,552 |
-| Votes with party majority | 1,443 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,582 |
+| Votes with party majority | 1,471 |
 | Party-line loyalty | 93.0% |
-| Deviations from party | 109 |
+| Deviations from party | 111 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 109):**
+**Most recent party-line deviations (top 10 of 111):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

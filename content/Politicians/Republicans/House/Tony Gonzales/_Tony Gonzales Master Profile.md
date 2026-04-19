@@ -104,20 +104,21 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,712 |
-| Substantive votes (Y/N) | 1,558 |
-| Votes with party majority | 1,451 |
-| Party-line loyalty | 93.1% |
-| Deviations from party | 107 |
+| Roll-call votes tracked | 1,743 |
+| Substantive votes (Y/N) | 1,588 |
+| Votes with party majority | 1,476 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 112 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 110 votes
 
-**Most recent party-line deviations (top 10 of 107):**
+**Most recent party-line deviations (top 10 of 112):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

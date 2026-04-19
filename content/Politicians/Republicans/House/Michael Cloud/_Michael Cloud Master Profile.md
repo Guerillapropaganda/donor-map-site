@@ -114,20 +114,21 @@ top-donors: "[[Josh Brecheen]], [[Anthem - Elevance Health]], [[Lockheed Martin]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,676 |
-| Votes with party majority | 1,465 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,698 |
+| Votes with party majority | 1,484 |
 | Party-line loyalty | 87.4% |
-| Deviations from party | 211 |
+| Deviations from party | 214 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 211):**
+**Most recent party-line deviations (top 10 of 214):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

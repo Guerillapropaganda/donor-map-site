@@ -386,14 +386,15 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,626 |
-| Votes with party majority | 1,527 |
-| Party-line loyalty | 93.9% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,656 |
+| Votes with party majority | 1,557 |
+| Party-line loyalty | 94.0% |
 | Deviations from party | 99 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

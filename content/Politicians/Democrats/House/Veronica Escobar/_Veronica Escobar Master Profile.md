@@ -113,14 +113,15 @@ top-donors: "[[Raytheon (RTX)]], [[IBEW - International Brotherhood of Electrica
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,641 |
-| Votes with party majority | 1,609 |
-| Party-line loyalty | 98.0% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,671 |
+| Votes with party majority | 1,639 |
+| Party-line loyalty | 98.1% |
 | Deviations from party | 32 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

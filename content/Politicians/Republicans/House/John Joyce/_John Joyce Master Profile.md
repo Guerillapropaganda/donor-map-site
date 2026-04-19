@@ -114,14 +114,15 @@ top-donors: "[[Anthem - Elevance Health]], [[American Chemistry Council, INC]], 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,694 |
-| Votes with party majority | 1,594 |
-| Party-line loyalty | 94.1% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,724 |
+| Votes with party majority | 1,624 |
+| Party-line loyalty | 94.2% |
 | Deviations from party | 100 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

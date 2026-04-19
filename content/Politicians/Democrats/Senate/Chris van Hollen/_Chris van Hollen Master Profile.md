@@ -115,33 +115,37 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,401 |
-| Votes with party majority | 1,355 |
-| Party-line loyalty | 96.7% |
-| Deviations from party | 45 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,710 |
+| Votes with party majority | 2,560 |
+| Party-line loyalty | 94.5% |
+| Deviations from party | 141 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 45):**
+**Most recent party-line deviations (top 10 of 141):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s164-116.2 | Nay | Y | PN 775 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s158-116.2 | Nay | Y | PN 1662 |
 | September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| October 9, | s568-119.1 | Yea | N | — |
-| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
-| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
-| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
-| May 9, 202 | s162-118.2 | Nay | Y | H.R. 3935 |
-| May 9, 202 | s161-118.2 | Nay | Y | H.R. 3935 |
-| May 2, 202 | s158-118.2 | Nay | Y | H.R. 3935 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

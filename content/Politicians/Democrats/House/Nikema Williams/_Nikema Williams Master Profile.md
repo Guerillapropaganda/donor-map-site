@@ -107,14 +107,15 @@ top-donors: "[[DMFI - Democratic Majority for Israel]], [[J Street]], [[Microsof
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,676 |
-| Votes with party majority | 1,630 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,706 |
+| Votes with party majority | 1,660 |
 | Party-line loyalty | 97.3% |
 | Deviations from party | 46 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

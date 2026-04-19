@@ -114,20 +114,21 @@ top-donors: "[[Comcast - NBCUniversal]], [[Leidos]], [[American Gaming Associati
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,680 |
-| Votes with party majority | 1,622 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,710 |
+| Votes with party majority | 1,650 |
 | Party-line loyalty | 96.5% |
-| Deviations from party | 58 |
+| Deviations from party | 60 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 58):**
+**Most recent party-line deviations (top 10 of 60):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

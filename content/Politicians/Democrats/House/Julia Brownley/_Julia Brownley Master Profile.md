@@ -118,14 +118,15 @@ top-donors: "[[Lockheed Martin]], [[Amgen Inc]], [[American College of Radiology
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,655 |
-| Votes with party majority | 1,638 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,685 |
+| Votes with party majority | 1,668 |
 | Party-line loyalty | 99.0% |
 | Deviations from party | 17 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

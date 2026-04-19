@@ -379,33 +379,37 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,419 |
-| Votes with party majority | 1,396 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 22 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,723 |
+| Votes with party majority | 2,558 |
+| Party-line loyalty | 93.9% |
+| Deviations from party | 156 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 22):**
+**Most recent party-line deviations (top 10 of 156):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
-| November 1 | s614-119.1 | Nay | Y | — |
-| March 11,  | s115-119.1 | Nay | Y | PN 12-41 |
-| March 11,  | s114-119.1 | Nay | Y | PN 12-41 |
-| June 30, 2 | s352-119.1 | Nay | Y | — |
-| July 30, 2 | s455-119.1 | Nay | Y | S.J.Res. 34 |
-| July 30, 2 | s454-119.1 | Nay | Y | S.J.Res. 41 |
-| July 23, 2 | s214-118.2 | Nay | Y | PN 1236 |
-| July 20, 2 | s194-118.1 | Nay | Y | — |
-| January 30 | s20-119.2 | Yea | N | H.R. 7148 |
-| January 29 | s25-119.1 | Nay | Y | PN 11-3 |
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s194-116.2 | Nay | Y | PN 1922 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

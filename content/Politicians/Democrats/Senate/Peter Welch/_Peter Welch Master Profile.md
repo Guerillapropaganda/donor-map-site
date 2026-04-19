@@ -102,14 +102,15 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,373 |
-| Votes with party majority | 1,309 |
-| Party-line loyalty | 95.3% |
+| Roll-call votes tracked | 1,464 |
+| Substantive votes (Y/N) | 1,402 |
+| Votes with party majority | 1,338 |
+| Party-line loyalty | 95.4% |
 | Deviations from party | 64 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes

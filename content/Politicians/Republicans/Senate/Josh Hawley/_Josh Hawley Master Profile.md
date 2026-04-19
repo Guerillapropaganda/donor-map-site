@@ -118,33 +118,35 @@ donors: "[[Patriots Prevail PAC]] · [[PATRIOTS PREVAIL PAC]] · [[Koch Network 
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,348 |
-| Votes with party majority | 1,204 |
-| Party-line loyalty | 89.3% |
-| Deviations from party | 142 |
+| Roll-call votes tracked | 2,152 |
+| Substantive votes (Y/N) | 2,061 |
+| Votes with party majority | 1,874 |
+| Party-line loyalty | 90.9% |
+| Deviations from party | 184 |
 
 **Coverage:**
 
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 142):**
+**Most recent party-line deviations (top 10 of 184):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
 | September  | s214-118.1 | Nay | Y | PN 645 |
 | September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
 | September  | s244-118.1 | Nay | Y | PN 183 |
+| September  | s196-116.2 | Nay | Y | H.R. 8337 |
 | September  | s241-118.1 | Nay | Y | H.R. 3935 |
 | September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
 | September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
 | September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

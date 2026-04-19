@@ -411,18 +411,19 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,241 |
-| Substantive votes (Y/N) | 991 |
-| Votes with party majority | 926 |
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,020 |
+| Votes with party majority | 953 |
 | Party-line loyalty | 93.4% |
-| Deviations from party | 65 |
+| Deviations from party | 67 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 
-**Most recent party-line deviations (top 10 of 65):**
+**Most recent party-line deviations (top 10 of 67):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

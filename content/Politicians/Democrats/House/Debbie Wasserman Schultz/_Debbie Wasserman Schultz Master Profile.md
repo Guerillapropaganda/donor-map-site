@@ -320,14 +320,15 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,672 |
-| Votes with party majority | 1,626 |
-| Party-line loyalty | 97.2% |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,702 |
+| Votes with party majority | 1,656 |
+| Party-line loyalty | 97.3% |
 | Deviations from party | 46 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes

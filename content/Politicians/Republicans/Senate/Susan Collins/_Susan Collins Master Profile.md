@@ -130,20 +130,24 @@ top-policy-area: Health
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,433 |
-| Votes with party majority | 1,020 |
-| Party-line loyalty | 71.2% |
-| Deviations from party | 411 |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,749 |
+| Votes with party majority | 2,193 |
+| Party-line loyalty | 79.8% |
+| Deviations from party | 551 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes
 - senate 119/2: 83 votes
 
-**Most recent party-line deviations (top 10 of 411):**
+**Most recent party-line deviations (top 10 of 551):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

@@ -544,31 +544,35 @@ _No committee data found._
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 691 |
-| Substantive votes (Y/N) | 681 |
-| Votes with party majority | 661 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 20 |
+| Roll-call votes tracked | 2,009 |
+| Substantive votes (Y/N) | 1,981 |
+| Votes with party majority | 1,861 |
+| Party-line loyalty | 93.9% |
+| Deviations from party | 112 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 
-**Most recent party-line deviations (top 10 of 20):**
+**Most recent party-line deviations (top 10 of 112):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s298-116.1 | Nay | Y | PN 408 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s294-116.1 | Nay | Y | PN 408 |
 | September  | s247-118.2 | Yea | N | — |
-| October 31 | s277-118.1 | Yea | N | — |
-| October 25 | s266-118.1 | Yea | N | — |
-| November 8 | s303-118.1 | Yea | N | S.J.Res. 38 |
-| May 3, 202 | s109-118.1 | Yea | N | H.J.Res. 39 |
-| May 21, 20 | s176-118.2 | Yea | N | S.J.Res. 58 |
-| March 29,  | s80-118.1 | Yea | N | H.J.Res. 7 |
-| March 15,  | s55-118.1 | Nay | Y | PN 29 |
-| March 15,  | s56-118.1 | Nay | Y | PN 29 |
-| June 1, 20 | s145-118.1 | Nay | Y | — |
+| September  | s181-116.2 | Nay | Y | PN 1508 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->

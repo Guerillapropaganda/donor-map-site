@@ -422,14 +422,18 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,309 |
-| Votes with party majority | 1,115 |
-| Party-line loyalty | 85.2% |
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,196 |
+| Votes with party majority | 1,727 |
+| Party-line loyalty | 78.6% |
 | Deviations from party | 66 |
 
 **Coverage:**
 
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
 - senate 118/1: 352 votes
 - senate 118/2: 339 votes
 - senate 119/1: 659 votes

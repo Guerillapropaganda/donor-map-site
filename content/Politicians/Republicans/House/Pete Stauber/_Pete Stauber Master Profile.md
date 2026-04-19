@@ -118,20 +118,21 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,612 |
-| Votes with party majority | 1,524 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,642 |
+| Votes with party majority | 1,552 |
 | Party-line loyalty | 94.5% |
-| Deviations from party | 88 |
+| Deviations from party | 90 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 88):**
+**Most recent party-line deviations (top 10 of 90):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|

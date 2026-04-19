@@ -113,20 +113,21 @@ top-donors: "[[National Association of Realtors]], [[National Multifamily Housin
 
 | Metric | Value |
 |---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,683 |
-| Votes with party majority | 1,552 |
-| Party-line loyalty | 92.2% |
-| Deviations from party | 131 |
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,704 |
+| Votes with party majority | 1,572 |
+| Party-line loyalty | 92.3% |
+| Deviations from party | 132 |
 
 **Coverage:**
 
+- house 117/1: 31 votes
 - house 118/1: 724 votes
 - house 118/2: 517 votes
 - house 119/1: 361 votes
 - house 119/2: 124 votes
 
-**Most recent party-line deviations (top 10 of 131):**
+**Most recent party-line deviations (top 10 of 132):**
 
 | Date | Vote | Position | Party majority | Bill |
 |---|---|---|---|---|
