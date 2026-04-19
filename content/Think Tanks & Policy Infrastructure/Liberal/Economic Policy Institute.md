@@ -406,7 +406,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ISAIAH | $201K | 2 | 2023–2024 |
 | NORTH CAROLINA JUSTICE CENTER | $200K | 2 | 2022–2023 |
 
-**Grants received (2018–2024):** $5.9M across 5 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $5.9M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -416,6 +416,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NEW VENTURE FUND | $780K | 4 | 2019–2023 |
 | SCHWAB CHARITABLE FUND | $452K | 6 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $25K | 1 | 2019 |
+| Vanguard Charitable Endowment Program | $11K | 1 | 2021 |
 | SIXTEEN THIRTY FUND | $6K | 1 | 2018 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

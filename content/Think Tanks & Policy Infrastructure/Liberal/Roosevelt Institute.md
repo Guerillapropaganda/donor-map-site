@@ -347,7 +347,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | PACE UNIVERSITY | $8K | 1 | 2024 |
 | THE TRUSTEES OF PRINCETON UNIVERSITY | $6K | 1 | 2024 |
 
-**Grants received (2018–2024):** $12.3M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $12.6M across 11 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -356,9 +356,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $11.0M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $887K | 7 | 2018–2024 |
 | NEW VENTURE FUND | $313K | 3 | 2018–2023 |
+| IMPACTASSETSINC | $150K | 1 | 2020 |
+| HOPEWELL FUND | $75K | 1 | 2020 |
+| Silicon Valley Community Foundation | $50K | 1 | 2020 |
+| Vanguard Charitable Endowment Program | $22K | 1 | 2021 |
 | NATIONAL PHILANTHROPIC TRUST | $16K | 1 | 2019 |
 | SIXTEEN THIRTY FUND | $12K | 1 | 2018 |
 | CALIFORNIA NURSES ASSOCIATION | $10K | 1 | 2021 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $8K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

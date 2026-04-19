@@ -1,0 +1,52 @@
+---
+title: "Bank of America Charitable Gift Fund"
+type: donor
+content-readiness: raw
+last-updated: 2026-04-18
+sector: "Wall Street"
+entity-type: "Donor-Advised Fund"
+ein: "046010342"
+nonprofit-status: "501(c)(3)"
+source-tier: 1
+internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. Bank of America DAF sponsor. Completes the Big Four commercial DAFs (Fidelity, Schwab, Vanguard, Morgan Stanley, BofA) that account for the majority of commercial DAF assets. Narrative pending Research Claude editorial pass."
+---
+
+# Bank of America Charitable Gift Fund
+
+*Stub profile. Narrative pending Research Claude editorial pass.*
+
+## Quick facts
+
+- **EIN:** 046010342
+- **Type:** 501(c)(3), Donor-Advised Fund
+- **Note:** Bank of America DAF sponsor. Completes the Big Four commercial DAFs (Fidelity, Schwab, Vanguard, Morgan Stanley, BofA) that account for the majority of commercial DAF assets.
+
+## Sources
+
+- [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)
+- [ProPublica Nonprofit Explorer (EIN 04-6010342)](https://projects.propublica.org/nonprofits/organizations/046010342)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $117.2M across 8 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $48.6M | 7 | 2018–2024 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $47.4M | 6 | 2018–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $19.8M | 6 | 2018–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $399K | 1 | 2020 |
+| Silicon Valley Community Foundation | $395K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $280K | 2 | 2020 |
+| IMPACTASSETSINC | $250K | 1 | 2020 |
+| Vanguard Charitable Endowment Program | $30K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

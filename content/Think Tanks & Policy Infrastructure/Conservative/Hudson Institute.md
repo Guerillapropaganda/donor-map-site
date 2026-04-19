@@ -266,17 +266,21 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $121.1M |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $7.3M across 5 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $10.0M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | NATIONAL PHILANTHROPIC TRUST | $3.8M | 6 | 2018–2023 |
+| Silicon Valley Community Foundation | $2.6M | 1 | 2020 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $2.0M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $1.1M | 7 | 2018–2024 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $375K | 3 | 2020–2024 |
+| Vanguard Charitable Endowment Program | $113K | 1 | 2021 |
 | BRADLEY IMPACT FUND INC | $75K | 2 | 2019–2023 |
+| Goldman Sachs Philanthropy Fund | $7K | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $5K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

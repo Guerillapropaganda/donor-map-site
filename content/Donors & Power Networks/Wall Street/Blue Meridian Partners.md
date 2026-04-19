@@ -1,0 +1,47 @@
+---
+title: "Blue Meridian Partners"
+type: donor
+content-readiness: raw
+last-updated: 2026-04-18
+sector: "Wall Street"
+entity-type: "Donor-Collaborative"
+ein: "815086187"
+nonprofit-status: "501(c)(3)"
+source-tier: 1
+internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top-recipient list. High-dollar collaborative philanthropy vehicle aggregating large-donor commitments for poverty-and-mobility programs. Anchored at Edna McConnell Clark Foundation. Narrative pending Research Claude editorial pass."
+---
+
+# Blue Meridian Partners
+
+*Stub profile. Narrative pending Research Claude editorial pass.*
+
+## Quick facts
+
+- **EIN:** 815086187
+- **Type:** 501(c)(3), Donor-Collaborative
+- **Note:** High-dollar collaborative philanthropy vehicle aggregating large-donor commitments for poverty-and-mobility programs. Anchored at Edna McConnell Clark Foundation.
+
+## Sources
+
+- [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)
+- [ProPublica Nonprofit Explorer (EIN 81-5086187)](https://projects.propublica.org/nonprofits/organizations/815086187)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2023):** $213.1M across 3 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $96.7M | 2 | 2018–2022 |
+| Goldman Sachs Philanthropy Fund | $88.8M | 1 | 2020 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $27.6M | 3 | 2021–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

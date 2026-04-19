@@ -263,7 +263,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | James Hochberg AAL | $87K | 3 | 2018–2020 |
 | Pennsylvania Family Institute | $82K | 2 | 2018–2019 |
 
-**Grants received (2018–2024):** $24.1M across 5 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $24.5M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -273,7 +273,11 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $8.0M | 6 | 2018–2023 |
 | BRADLEY IMPACT FUND INC | $5.0M | 4 | 2022–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $2.5M | 6 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $317K | 1 | 2021 |
 | THE HERITAGE FOUNDATION | $100K | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $60K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $43K | 1 | 2020 |
+| Goldman Sachs Philanthropy Fund | $29K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

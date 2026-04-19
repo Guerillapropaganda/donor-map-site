@@ -31,9 +31,46 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 2 (2021–2021)
 
-**Grants received (2018–2024):** $180.1M across 4 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2021):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $227.4M |
+| Total expenses | — |
+| Total assets (EOY) | $735.1M |
+| Grants paid out | $14.9M |
+
+**Lifetime grants out (2021–2021):** $14.9M across 55 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| ACLUF OF OHIO | $961K | 1 | 2021 |
+| ACLUF OF FLORIDA | $714K | 1 | 2021 |
+| ACLUF OF PENNSYLVANIA | $624K | 1 | 2021 |
+| ACLUF OF NEW JERSEY | $600K | 1 | 2021 |
+| ACLUF OF TEXAS | $580K | 1 | 2021 |
+| ACLUF OF NEW MEXICO | $539K | 1 | 2021 |
+| ACLUF OF ARKANSAS | $535K | 1 | 2021 |
+| ACLUF OF MICHIGAN | $526K | 1 | 2021 |
+| ACLUF OF KENTUCKY | $504K | 1 | 2021 |
+| ACLUF OF GEORGIA | $464K | 1 | 2021 |
+| ACLUF OF NORTH CAROLINA | $461K | 1 | 2021 |
+| ACLUF OF SOUTHERN CALIFORNIA | $429K | 1 | 2021 |
+| ACLUF OF NEBRASKA | $425K | 1 | 2021 |
+| ACLUF OF MISSISSIPPI | $420K | 1 | 2021 |
+| ACLUF OF KANSAS | $413K | 1 | 2021 |
+| ACLUF OF MISSOURI | $397K | 1 | 2021 |
+| ACLUF OF WISCONSIN | $372K | 1 | 2021 |
+| ACLUF OF LOUISIANA | $357K | 1 | 2021 |
+| ACLUF OF MONTANA | $352K | 1 | 2021 |
+| ACLUF OF ILLINOIS | $350K | 1 | 2021 |
+
+**Grants received (2018–2024):** $198.4M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -41,7 +78,13 @@ internal-notes: "Stub profile auto-created 2026-04-18 from discover-990-gaps top
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $151.4M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $19.9M | 8 | 2018–2024 |
+| Goldman Sachs Philanthropy Fund | $11.2M | 1 | 2020 |
 | NATIONAL PHILANTHROPIC TRUST | $8.7M | 6 | 2018–2023 |
+| Silicon Valley Community Foundation | $3.7M | 1 | 2020 |
+| Vanguard Charitable Endowment Program | $2.1M | 1 | 2021 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $633K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $424K | 1 | 2020 |
+| IMPACTASSETSINC | $200K | 1 | 2020 |
 | NEW VENTURE FUND | $50K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

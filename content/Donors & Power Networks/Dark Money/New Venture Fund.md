@@ -322,7 +322,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ACCOUNTABLEUS | $9.9M | 4 | 2019–2023 |
 | NATURE AND CULTURE INTERNATIONAL | $9.9M | 6 | 2018–2024 |
 
-**Grants received (2018–2024):** $791.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $817.2M across 15 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -331,9 +331,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $497.9M | 6 | 2018–2023 |
 | NATIONAL PHILANTHROPIC TRUST | $250.7M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $30.9M | 7 | 2018–2024 |
+| Goldman Sachs Philanthropy Fund | $10.4M | 1 | 2020 |
 | SIXTEEN THIRTY FUND | $10.2M | 5 | 2018–2023 |
+| Silicon Valley Community Foundation | $8.6M | 1 | 2020 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $2.8M | 1 | 2020 |
+| IMPACTASSETSINC | $2.5M | 1 | 2020 |
 | FUTURE FORWARD USA ACTION | $1.6M | 1 | 2024 |
+| Vanguard Charitable Endowment Program | $940K | 1 | 2021 |
+| HOPEWELL FUND | $411K | 1 | 2020 |
+| PLANNED PARENTHOOD FEDERATION OF AMERICA INC | $50K | 1 | 2020 |
 | CENTER FOR AMERICAN PROGRESS | $25K | 1 | 2018 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $10K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $5K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

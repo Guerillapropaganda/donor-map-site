@@ -295,7 +295,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL ASSOCIATION OF LATINO ELECTED &amp; APPOINTED OFFICIALS | $25K | 1 | 2021 |
 | ASIAN AMERICANS ADVANCING JUSTICE-ATLANTA | $10K | 1 | 2021 |
 
-**Grants received (2018–2024):** $30.2M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $31.4M across 10 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -305,6 +305,12 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | SCHWAB CHARITABLE FUND | $3.7M | 7 | 2018–2024 |
 | NATIONAL PHILANTHROPIC TRUST | $1.9M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $1.5M | 6 | 2018–2024 |
+| Vanguard Charitable Endowment Program | $792K | 1 | 2021 |
+| Silicon Valley Community Foundation | $145K | 1 | 2020 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $115K | 1 | 2020 |
+| AMERICAN ENDOWMENT FOUNDATION | $79K | 1 | 2020 |
+| IMPACTASSETSINC | $58K | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $23K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

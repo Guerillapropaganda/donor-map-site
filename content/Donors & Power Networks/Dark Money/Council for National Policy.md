@@ -305,7 +305,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $3.5M |
 | Grants paid out | — |
 
-**Grants received (2018–2024):** $395K across 5 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $425K across 7 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -316,6 +316,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | SCHWAB CHARITABLE FUND | $61K | 4 | 2019–2024 |
 | CLUB FOR GROWTH | $35K | 2 | 2021–2024 |
 | The Concord Fund | $25K | 1 | 2022 |
+| AMERICAN ENDOWMENT FOUNDATION | $15K | 1 | 2020 |
+| Goldman Sachs Philanthropy Fund | $15K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

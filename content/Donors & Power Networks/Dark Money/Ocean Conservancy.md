@@ -384,7 +384,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Bering Sea Fishermen's Association | $120K | 2 | 2022–2023 |
 | Alaska Conservation Foundation | $115K | 2 | 2023–2024 |
 
-**Grants received (2018–2024):** $13.8M across 3 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $14.6M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -393,6 +393,12 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL PHILANTHROPIC TRUST | $7.2M | 6 | 2018–2023 |
 | SCHWAB CHARITABLE FUND | $3.7M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $2.8M | 6 | 2018–2023 |
+| Vanguard Charitable Endowment Program | $601K | 1 | 2021 |
+| AMERICAN ENDOWMENT FOUNDATION | $93K | 1 | 2020 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING | $34K | 1 | 2020 |
+| Silicon Valley Community Foundation | $32K | 1 | 2020 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $15K | 1 | 2020 |
+| Goldman Sachs Philanthropy Fund | $9K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
