@@ -2,7 +2,7 @@
 title: Mike Rounds
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,10 @@ phone: 202-224-5842
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - No direct individual contribution totals
+  - STOCK Act trades have no ticker (all unlabeled in the data)
+central-thesis: "Mike Rounds is the defense appropriations senator who delivers through NDAA insertion: 5 of his 9 enacted bills are NDAA provisions, Armed Forces is his top legislative area, and the full defense contractor slate (Northrop, Lockheed, BAE, L3Harris, Leidos, Raytheon, General Dynamics) funds the Armed Services member. South Dakota adds two layers: the finance industry domiciled there to escape interest rate caps (Citigroup, Morgan Stanley, Bank of America) and the farm economy requiring agricultural subsidies. The STOCK Act trades ($5.7M-$26.4M) are the largest by estimated value in the Republican Senate cohort."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 stock-trades: 9
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S4SD00049
@@ -155,7 +155,101 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 
 # Mike Rounds
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Mike Rounds. Republican, South Dakota. US Senator since January 2015, elected 2014 (defeating Democrat Rick Weiland) and re-elected 2020. Born October 1954 in Huron, SD. Former South Dakota Governor (2003-2011), prior career in insurance and financial services (Rounds Insurance, family business). Assigned to Armed Services, Banking, Commerce Science and Transportation, and Veterans' Affairs. Top policy area is Armed Forces and National Security (51 bills in 118th Congress). 54 bills sponsored, 339 cosponsored, 9 enacted. The 9 enacted bills are among the highest in the Republican Senate cohort: 5 are NDAA provisions. Voting record: 94.1% party-line loyalty across 2,612 substantive votes, 148 deviations. 9 STOCK Act trades, estimated $5.7-$26.4M value range (the highest by estimated value in the Republican Senate cohort profiled here).
+
+---
+
+## The Central Thesis
+
+Rounds is the defense appropriations senator who delivers through NDAA insertion. Five of his 9 enacted bills are National Defense Authorization Act provisions. Armed Forces and National Security is his top legislative area. The full defense contractor slate, Northrop Grumman, Lockheed Martin, BAE Systems, L3Harris, Leidos, Raytheon, General Dynamics, funds the Armed Services member who turns that focus into enacted law. South Dakota adds two structural donor layers on top of the defense slate. First: the financial industry domiciled in SD. South Dakota eliminated usury laws in the early 1980s, making it the domicile for national credit card operations. Citigroup's credit card subsidiary, major mortgage banking operations, and USAA (veteran financial services) give to Rounds because his Banking Committee seat governs their regulatory environment. Second: the agricultural economy. Agriculture and Food is his 4th-largest policy area (30 bills); crop insurance, commodity subsidies, and the Farm Bill are essential to SD's wheat, corn, and livestock sectors. The STOCK Act trades ($5.7-$26.4M) represent a wealth position and a potential sector-exposure question that the data currently cannot answer (no tickers disclosed).
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Rounds is the senator from one of the most agricultural and Native American-heavy states in the country. Native Americans appear as his 7th-largest legislative policy area (23 bills). South Dakota's Sioux reservations (Pine Ridge, Rosebud, Cheyenne River, Standing Rock) hold some of the deepest concentrated poverty in the country. The contradiction is that his donor coalition, the defense contractors, financial institutions, and Republican party apparatus, funds a policy posture (Republican budget frameworks, defense spending priorities, deregulation of financial services) that consistently competes with Indian Health Service funding, Native housing appropriations, and tribal college support for federal discretionary dollars. The Native Americans legislative focus is real constituent service: his Armed Services seat and his Agriculture work include reservation-specific provisions. What it is not is structural challenge to the budget allocation dynamics that produce Native American poverty. The financial industry donor cluster (Mortgage Bankers $58K, USAA $40K, Citigroup, Morgan Stanley, Bank of America) funds the senator whose state has no usury laws specifically because those same financial institutions wanted to escape consumer protection regulations in their home states. Rounds did not create that arrangement. He inherited it as governor and as senator. He defends it on the Banking Committee. The poverty on the reservations and the no-interest-cap credit card industry exist in the same state, and the same senator serves both.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $5.8M
+- Party committee support: $180K
+- Super-PAC IE support (FOR): $360K (very low; SD is safe Republican, no competitive pressure)
+- Super-PAC IE opposition (AGAINST): $1.6M
+
+### Top direct PAC donors (lifetime)
+
+- **NRSC**: $107K across 3 transactions (party apparatus)
+- **Mortgage Bankers Association PAC**: $58K across 16 transactions (highest transactional count, finance constituent)
+- **USAA Group PAC**: $40K across 12 transactions (veteran financial services, SD military-family constituency)
+- **Chevron PAC**: $35K across 9 transactions (energy, SD fossil fuel constituent)
+- **Common Values PAC**: $30K
+- **Salomon Smith Barney PAC**: $30K across 10 transactions (legacy finance sector giving)
+- **Heartland Values PAC**: $30K
+- **Denali Leadership PAC** (Dan Sullivan's PAC): $30K (Senate Republican PAC network)
+- **Responsibility and Freedom Work PAC**: $30K
+- **Freedom Fund**: $30K
+
+### Top super-PAC IE support (FOR)
+
+- **American Hospital Association PAC**: $102K (health sector, SD rural hospital constituency)
+- **NRA Institute for Legislative Action**: $82K (gun rights, consistent SD position)
+- **Independent Insurance Agents**: $82K (insurance industry; Rounds's own career background)
+- **Credit Union Legislative Action Council**: $62K (credit union industry, Banking committee constituent)
+- **National Right to Life PAC**: $21K
+
+### Super-PAC IE opposition (AGAINST)
+
+- **Every Voice Action**: $839K
+- **DSCC**: $388K
+- **TAXPAC**: $291K
+- Total: $1.6M (modest; SD is a safe Republican seat)
+
+### Defense and corporate donor cluster
+
+From top-donors field: [[Northrop Grumman]], [[Lockheed Martin]], [[BAE Systems]], [[L3Harris Technologies]], [[Leidos]], [[General Dynamics]], [[Raytheon (RTX)]] (full defense slate). [[Citigroup]], [[Morgan Stanley]], [[Bank of America]] (Wall Street banking). [[Coinbase]] (crypto). [[AIPAC - American Israel Public Affairs Committee]], [[NORPAC]], [[Republican Jewish Coalition]] (pro-Israel Republican cluster). [[Chevron]] (energy). [[National Rifle Association]].
+
+> [!money]
+> **The NDAA insertion model.** Five of Rounds's 9 enacted bills are NDAA provisions, and Armed Forces and National Security leads his legislative output at 51 bills in the 118th Congress. The defense contractors funding him, Northrop, Lockheed, BAE, L3Harris, Leidos, General Dynamics, Raytheon, are paying for the most productive NDAA legislator in the Republican Senate cohort among those profiled here. The return on investment is enacted law, not just a friendly vote. Every NDAA cycle, Armed Services members who can move provisions through markup to final passage are worth more to contractors than members who can only promise floor votes. Rounds is the insertion mechanism. The contractor donations are access fees to a legislative conveyor belt.
+
+---
+
+## Class Analysis
+
+Rounds's donor coalition is structured around three constituencies that map onto South Dakota's political economy: defense, finance, and agriculture. Defense dominates legislatively (Armed Forces 51 bills, NDAA as primary enactment mechanism) because Ellsworth AFB in Rapid City is the state's largest single employer, and because Armed Services committee members receive contractor tribute by institutional norm. Finance dominates direct PAC giving (Mortgage Bankers at highest transaction count, USAA, Salomon Smith Barney legacy, Citigroup, Morgan Stanley, Bank of America) because South Dakota's no-usury-law regime created a financial industry domicile that the Banking Committee seat now governs. The agricultural layer (Agriculture and Food at 30 bills, 4th-largest) reflects the Farm Bill and crop insurance constituency.
+
+The STOCK Act trades are the largest by estimated value in the Republican Senate cohort: $5.7M-$26.4M range, dominated by a December 2015 spouse sale of $5-25M. The tickers are not disclosed in the current data (STOCK Act filing shows no ticker symbols), which means sector analysis is impossible without additional research. The value range suggests a substantial personal wealth position that arrived early in his Senate tenure. Rounds's pre-Senate career in insurance and his time as South Dakota governor (2003-2011) are the likely wealth accumulation periods.
+
+The AIPAC, NORPAC, and Republican Jewish Coalition cluster is the full pro-Israel Republican donor package. This is standard for Republican senators who sit on Armed Services and deal with foreign military aid: Israel military assistance runs through the same committee networks. The Coinbase giving reflects the crypto industry's 2022-2024 bipartisan access-buying campaign; SD's status as a favorable financial regulatory environment made it a relevant jurisdiction for crypto firms pursuing state-level licensing.
+
+The 94.1% party loyalty with 148 deviations is the highest deviation count in the Republican Senate cohort profiled here. Many deviations in the 118th Congress data are PN (Presidential Nomination) Yea votes where the Republican caucus voted Nay, suggesting Rounds occasionally supports nominees his party opposes. Whether this reflects genuine independence or transactional deal-making within the Senate's nomination dynamics requires vote-level analysis not available in the current data.
+
+---
+
+## Analytical Patterns
+
+**Donor-Class Override (structural alignment).** The finance industry's domicile in South Dakota is not a coincidence that happened to Rounds. It is the structural product of the state's regulatory choices in the 1980s that Rounds, as governor and senator, has maintained. The Mortgage Bankers Association, Citigroup, and USAA giving to the senator who governs the Banking Committee rules that protect their SD operations is not donor-class override of constituent interest. It is donor-class alignment with a regulatory structure Rounds inherited and sustains.
+
+**The NDAA Insertion Mechanism.** Rounds's legislative productivity (9 enacted, 5 NDAA provisions) represents a specific skill set: attaching provisions to the must-pass NDAA during committee markup and conference negotiations. This is the Armed Services senator's primary legislative tool. Defense contractors fund the senators who have demonstrated they can use this tool, because every provision in the NDAA is a potential contract expansion, procurement authorization, or regulatory carve-out for the contracting community. Rounds's record is the highest enacted-bill count in this Republican Senate cohort precisely because he mastered the insertion model.
+
+**Two-Audience Problem.** South Dakota farmers want crop subsidies, rural hospital funding, and infrastructure. Defense contractors want NDAA provisions. Financial institutions want no interest rate caps and favorable Banking Committee treatment. Native American tribes want Indian Health Service funding and land rights. Rounds represents all four simultaneously. The donor map shows which audience receives legislative priority when federal dollar allocation requires trade-offs: defense and finance at the top, with agriculture maintained as the essential rural base and Native American legislation as constituent service that does not threaten the other three.
+
+**Genuine Win + Structural Limit.** Rounds's 9 enacted bills are a genuine legislative record. The NDAA provisions do real things: base funding, procurement authorizations, military family benefits. The structural limit is that the same NDAA process that enables Rounds's enacted record also gives the defense contractors who fund him the specific procurement provisions they paid for. The wins and the donor returns are the same legislation.
+
+**Revolving Door (pre-politics).** Rounds's insurance background (Rounds Insurance) predates his political career. He moved from private-sector financial services to state government to Senate. The revolving door here runs in the opposite direction from the standard post-office model: he brought the industry background into the office, not the office into industry. The Mortgage Bankers, insurance agents, and USAA giving to a former insurance executive now on the Banking Committee is the industry funding its own.
+
+---
+
+## Sources
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+- [Source: FEC Bulk Filings](https://www.fec.gov/data/bulk-downloads/) (Tier 1) (VERIFIED)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
