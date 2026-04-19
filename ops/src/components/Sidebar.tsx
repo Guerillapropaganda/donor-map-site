@@ -31,6 +31,7 @@ const NAV_ITEMS = [
   { href: "/class-tags", label: "Class Tags", icon: "target" },
   { href: "/policies", label: "Policies", icon: "book" },
   { href: "/query", label: "Query Engine", icon: "search" },
+  { href: "/ask", label: "Ask", icon: "search" },
   // Foundation stabilization (Pillars 3+5, added 2026-04-15)
   { href: "/system-health", label: "System Health", icon: "shield" },
   { href: "/bugs", label: "Bugs & Deferred", icon: "bell" },
