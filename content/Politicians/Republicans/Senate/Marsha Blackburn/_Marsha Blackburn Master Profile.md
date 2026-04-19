@@ -1,8 +1,8 @@
 ---
 title: Marsha Blackburn
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,11 @@ phone: 202-224-3344
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline
+  - IDEMIA Identity & Security contract/lobbying context not yet in vault
+  - AIPAC 53-transaction breakdown by cycle not yet pulled
+central-thesis: "Marsha Blackburn is the Tennessee culture-war senator who built a Big Tech attack brand while collecting access money from AT&T, Google, Comcast, and Microsoft. The American College of Radiology PAC ($305K, the dominant direct relationship) points to committee jurisdiction over Medicare imaging reimbursements, not constituency service. IDEMIA Identity & Security ($30K/6 transactions), a biometric surveillance company, gave to the senator who co-authored KOSA and positioned herself as the Senate's online-privacy guardian. The 89 deviations are almost exclusively rightward breaks on appropriations and continuing resolutions, revealing the fiscal-hawk identity beneath the culture-war brand."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8TN00337
 bills-sponsored: 101
@@ -152,7 +153,83 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 
 # Marsha Blackburn
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Marsha Blackburn. Republican, Tennessee. US Senator since January 2019, elected in 2018 defeating former Governor Phil Bredesen, re-elected 2024. Previously Tennessee's 7th Congressional District representative (2003-2019, 8 House terms). Born June 1952 in Laurel, MS. Mississippi State University graduate. State senator before Congress. Committee assignments not yet in pipeline. 2,152 roll-call votes tracked across Senate 116th, 118th, and 119th Congresses. Voting record: 95.5% party-line loyalty across 2,053 substantive votes, 89 deviations. Tennessee is a deep-red state; the 2024 re-election faced $17.5M in Democratic opposition and held. Health is her top legislative policy area (91 bills in 118th Congress), consistent with the dominant healthcare donor relationships.
+
+---
+
+## The Central Thesis
+
+Blackburn is the Tennessee culture-war senator whose Big Tech attack brand coexists with an access-money relationship from the same companies she publicly targets. The American College of Radiology PAC's $305K is the dominant direct donor relationship in her entire career, pointing not to constituency service but to committee jurisdiction over Medicare imaging reimbursement policy. IDEMIA Identity and Security ($30K across 6 transactions), a biometric identity and data-collection company, gave to the senator who co-authored the Kids Online Safety Act and positioned herself as the Senate's privacy guardian. AT&T-WarnerMedia, Google-Alphabet, Comcast-NBCUniversal, and Microsoft all appear in her donor map alongside the anti-Big-Tech rhetoric. The 89 deviations from party loyalty are almost exclusively rightward breaks: Nay votes on continuing resolutions, omnibus appropriations, and FAA reauthorization where Blackburn broke harder fiscally conservative than the Republican Senate majority. The culture-war senator is a fiscal hawk underneath the cable-news brand.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Blackburn's Senate identity is built substantially on opposition to Big Tech: she has targeted TikTok, pushed Section 230 reform, co-authored the Kids Online Safety Act (KOSA), and positioned herself as the Senate's most aggressive defender of online privacy and child safety. Her direct donor record includes AT&T-WarnerMedia, Google-Alphabet, Comcast-NBCUniversal, and Microsoft. These are not small access fees: telecom companies give to both sides of every telecommunications debate because they need committee access regardless of the senator's public position. The IDEMIA entry is the structural tell. IDEMIA Identity and Security is a biometric data company: it sells fingerprint systems, facial recognition technology, national identity infrastructure, and biometric passport systems to governments globally. IDEMIA's $30K across 6 transactions went to the senator who made teen online safety and biometric data privacy her signature issue. The company that profits from collecting biometric data funded the senator who campaigns against companies that collect personal data. This is the access-money model applied without ideological filter: IDEMIA sells to governments; Blackburn votes on government data procurement standards. The committee seat matters more than the public rhetoric.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $5.0M
+- Party committee support: $1.0M (NRSC $47K direct + party coordination)
+- Super-PAC IE support (FOR): $9.5M (SLF PAC $4.4M, AFP Action $3.0M, NRA Political Victory Fund $624K)
+- Super-PAC IE opposition (AGAINST): $17.5M (SMP $8.3M, Majority Forward $8.2M, AFSCME $1.0M)
+
+### Top direct PAC donors (lifetime)
+
+- **Senate Conservatives Fund**: $92K across 4 transactions (dominant conservative caucus vehicle; highest direct PAC total)
+- **AIPAC PAC**: $57K across 53 transactions (second-highest transaction count in file; sustained access pattern)
+- **NORPAC**: $48K across 4 transactions (pro-Israel infrastructure, second donor cluster)
+- **NRSC**: $47K (one transaction; party apparatus)
+- **Thune Senate Victory**: $31K across 4 transactions (now Senate Majority Leader network)
+- **IDEMIA Identity and Security PAC**: $30K across 6 transactions (biometric data company; see Core Contradiction)
+- **US Cellular PAC**: $27K across 9 transactions (telecom; highest transaction count among industry donors)
+- **National Association of Home Builders**: $25K across 5 transactions
+- **Continuing America's Strength and Security PAC**: $25K
+- **Big Sky Opportunity PAC**: $25K
+
+### Data-panel top donors (relationships store)
+
+- **American College of Radiology Association PAC**: $305K (dominant single relationship; Medicare imaging reimbursement committee access)
+- **American Hospital Association PAC**: $109K (healthcare industry second cluster)
+- **National Victory Action Fund**: $100K (conservative political infrastructure)
+- **AIPAC**: $52K
+- **NORPAC**: $42K
+
+### Notable frontmatter entries
+
+[[AT&T - WarnerMedia]], [[Google - Alphabet]], [[Comcast - NBCUniversal]], [[Microsoft]], [[Sinclair Broadcast Group]] (telecom/media access cluster; Senate Commerce Committee jurisdiction). [[Raytheon (RTX)]], [[Lockheed Martin]], [[BAE Systems]], [[General Dynamics]], [[Leidos]] (defense; Tennessee has no dominant defense contractor base, making these access fees not constituency-service giving). [[Gilead Sciences]], [[AbbVie]], [[Pfizer Inc.]], [[CVS Health - Aetna]], [[Anthem - Elevance Health]] (pharma/insurance; Health as top policy area). [[ConocoPhillips]], [[Devon Energy]], [[Occidental Petroleum]], [[Chevron]], [[Valero Energy]] (fossil fuels). [[CoreCivic - Private Prisons]] (immigration enforcement and detention; Blackburn's immigration positioning). [[DoorDash]], [[Airbnb]] (gig economy regulatory access). [[Tyson Foods]] (Tennessee agriculture constituency).
+
+> [!money]
+> **The American College of Radiology's $305K is larger than any other direct PAC relationship in Blackburn's career.** The American College of Radiology is the professional association for diagnostic imaging physicians. Its PAC's $305K giving reflects a specific committee-jurisdiction investment: Medicare reimbursement rates for imaging (MRI, CT, X-ray) are set through legislation and CMS rulemaking that a senior Senate Republican with health committee access can affect. This is not constituent service; Tennessee's radiology market does not explain a $305K relationship from a national professional PAC. This is the medical professional association access model applied at maximum scale: the dominant donor is not an industry Blackburn represents but an industry whose federal payment schedule she can influence.
+
+---
+
+## Class Analysis
+
+Blackburn's $5.0M lifetime direct PAC record is built on three distinct donor clusters that do not reflect the same logic. The healthcare professional and hospital cluster (American College of Radiology $305K, AHA $109K, Emergency Physicians, Orthopaedic Surgeons, American College of Radiology Association) reflects Medicare and Medicaid reimbursement committee access: these associations give to senators who sit on committees that set payment rates for their procedures. The cluster is not explained by Tennessee's healthcare economy; it is explained by Blackburn's committee positioning relative to legislation that determines how much radiologists and orthopedic surgeons get paid per procedure. The $305K from the radiology association is the most direct single expression of the reimbursement-access model in this vault's Republican Senate cohort.
+
+The telecom and technology cluster (AT&T-WarnerMedia, Google-Alphabet, Comcast-NBCUniversal, Microsoft, Sinclair, US Cellular) reflects Senate Commerce Committee jurisdiction and Blackburn's prominent positioning on Big Tech regulation. This is the standard telecom both-sides model: companies that face federal regulatory risk from a senator's stated policy positions give to that senator anyway, because the access to shape legislation matters more than the ideological alignment. A senator who publicly attacks Big Tech and privately takes $10K from AT&T-WarnerMedia and $10K from Google is not selling out: she is receiving the standard access fee from companies that need a seat at the regulatory table regardless of outcome. IDEMIA's $30K is the variant that goes beyond the standard model: a biometric surveillance company funding the privacy-hawk senator is the capture mechanism working at its clearest.
+
+The pro-Israel cluster (AIPAC $57K/53 transactions, NORPAC $48K) establishes Blackburn in the same sustained-relationship pattern visible across the Republican Senate cohort. AIPAC's 53 transactions indicate continuous engagement across multiple cycles, not single-cycle giving. This is relationship investment in a senator who has been consistently reliable on Israel-adjacent votes. The 53-transaction count places Blackburn among the highest AIPAC-engagement senators in the vault.
+
+The 89 deviations from party loyalty are the most analytically meaningful part of the voting record. The visible deviations are almost entirely rightward breaks: Nay votes on H.R. 5860 (CR), H.R. 8337 (CR), H.R. 3935 (FAA reauthorization), H.R. 4378 (appropriations), H.R. 9747. These are continuing resolutions and omnibus spending bills where Blackburn consistently votes harder against government spending than the Republican Senate majority position. This is the fiscal hawk pattern, not the culture-war pattern. The culture-war brand generates media attention and small-dollar fundraising. The actual deviation pattern is a senator who will not vote for spending bills her party leadership needs passed.
+
+---
+
+## Analytical Patterns
+
+**Two-Audience Problem.** Blackburn's public positioning is anti-Big-Tech culture war: she has called out TikTok, pushed KOSA, criticized algorithmic manipulation, and made online privacy a signature issue. Her donor map includes AT&T-WarnerMedia, Google-Alphabet, Comcast-NBCUniversal, and Microsoft. The two messages are: "these companies are dangerous" (to voters) and "we are willing to work with you on regulatory outcomes" (to donors). Both messages are real. Neither cancels the other. The tech access money does not require Blackburn to support tech regulation outcomes favorable to donors; it requires that she maintain access. The public attack and the private access fee coexist without resolving.
+
+**Donor-Class Override (deferred).** The IDEMIA biometric surveillance company PAC giving ($30K) and the telecom cluster giving have not produced a documented vote pattern where Blackburn's stated privacy positions yielded to donor interests. The research gap is committee-level votes and amendment behavior, not floor votes. KOSA passed committee with bipartisan support. Whether Blackburn's regulatory positioning on biometric data procurement or telecom access rules has been shaped by IDEMIA and the telecom cluster is the question the current data cannot answer. Flag for cycle-level analysis when committee markup data is in the pipeline.
+
+**Fiscal Hawk Override.** The 89 deviations, concentrated on appropriations and continuing resolutions, reveal the primary tension in Blackburn's Senate positioning: she is a fiscal hawk first and a party-loyalty senator second when government spending is the vote. Republican leadership needs spending bills passed; Blackburn votes Nay on them at a rate that places her among the Senate's consistent fiscal-hawk dissenters. This is not donor-class override (no donor is paying for the Nay votes on CRs). It is constituency-and-identity override: Blackburn's conservative Tennessee base and her own fiscal conservatism override party leadership on the votes that matter most to the Senate's operational continuity.
 
 
 ### Legislative Activity (118th Congress)
