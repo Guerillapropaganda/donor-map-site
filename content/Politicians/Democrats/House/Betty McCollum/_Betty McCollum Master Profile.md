@@ -1,8 +1,10 @@
 ---
 title: Betty McCollum
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Betty McCollum is the 25-year Defense Appropriations subcommittee Democrat whose $6.6M lifetime direct PAC total combines a deep labor coalition (IBEW $152K/49 txns, NATCA $105K/84 txns, Southern Minnesota Sugar Cooperative $98K/56 txns as genuine Minnesota constituency anchors) with a defense-industry data panel (L3Harris $30K, Honeywell $27.5K, Raytheon $26K, General Dynamics $25K, Northrop Grumman $25K, BAE Systems $22.5K) that contradicts her public position as Congress's most sustained critic of US military aid used on Palestinian children."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -151,7 +153,80 @@ top-donors: "[[National Association of Realtors]], [[Google - Alphabet]], [[Plan
 
 # Betty McCollum
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Betty McCollum. Democrat, Minnesota-4 (St. Paul, Roseville, Falcon Heights, and surrounding suburbs). First elected 2000; re-elected continuously to present. One of the longest-serving House Democrats from Minnesota. Born July 1954 in South St. Paul. St. Paul Community College graduate; St. Paul City Council, Minnesota state legislature before Congress. Member of the House Appropriations Committee and its Defense subcommittee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 98.3% party-line loyalty across 1,713 substantive votes, 29 deviations. MN-4 is a safe Democratic district; no meaningful Republican pressure.
+
+---
+
+## The Central Thesis
+
+McCollum is the 25-year Defense Appropriations subcommittee Democrat whose $6.6M lifetime direct PAC total combines a deep labor coalition with a defense-industry data panel that contradicts her public position as Congress's most sustained critic of US military aid used on Palestinian children. The labor coalition is the structural foundation: IBEW $152K/49 txns (highest lifetime donor), AFT $132K/37 txns, NEA $128K/44 txns, Machinists $120K/25 txns, Trial Lawyers $118K/58 txns, Teamsters $116K/36 txns, AFSCME $112K/55 txns, NATCA $105K/84 txns, CWA $98K/41 txns. NATCA's 84 transactions across 25 years is the most sustained single-donor transaction relationship in this profile: air traffic controllers gave to McCollum at a rate of more than three times per year, every year, reflecting her Appropriations work on FAA funding. The Southern Minnesota Sugar Cooperative PAC at $98K/56 txns is genuine constituency money: Minnesota is a major sugar beet state and the cooperative represents the agricultural industry that employs McCollum's district's rural neighbors. The defense data panel is the contradiction.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> McCollum introduced HR 2407 (Defending the Human Rights of Palestinian Children and Families Living Under Israeli Military Occupation Act) and has been one of the most consistent House critics of US military aid funding Israeli operations. She voted Nay on HR 6090 (the Antisemitism Awareness Act, May 2024) when the Democratic majority voted Aye. J Street (the progressive pro-Israel/pro-Palestinian-rights organization) is in her top-donors list; AIPAC is absent. Meanwhile, the top entries in her data panel are L3Harris ($30K), Honeywell ($27.5K), Raytheon ($26K), General Dynamics ($25K), Northrop Grumman ($25K), and BAE Systems ($22.5K). These are the companies that manufacture the weapons systems transferred to Israel through the Foreign Military Sales program that McCollum has publicly opposed. Raytheon makes the precision-guided munitions used in Gaza. General Dynamics makes artillery shells. BAE Systems supplies ammunition. McCollum takes their PAC money while the Defense Appropriations subcommittee she serves on funds the procurement programs that produce the weapons she opposes in their final use. The companies do not give because they share her Palestinian children advocacy. They give because she votes on the defense appropriations that fund their contracts.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $6.6M (25-year accumulation; Appropriations committee premium)
+- Party committee support: $72K
+- Super-PAC IE support (FOR): $465K (Common Good Fund $298K dominant; Minnesota DFL $96K; NARAL $32K)
+- Super-PAC IE opposition (AGAINST): $50K (League of Conservation Voters Earth Fund $22K; American Principles Fund $16K; UNITE Campaign Committee $12K)
+
+### Top direct PAC donors (lifetime): labor coalition dominant
+
+- **IBEW**: $152K across 49 transactions (lifetime highest; electrical workers are a St. Paul constituency and a national Appropriations Committee priority)
+- **AFT (American Federation of Teachers)**: $132K across 37 transactions
+- **NEA**: $128K across 44 transactions
+- **Machinists (IAM)**: $120K across 25 transactions
+- **Trial Lawyers (ATLA)**: $118K across 58 transactions
+- **DRIVE (Teamsters)**: $116K across 36 transactions
+- **AFSCME**: $112K across 55 transactions
+- **NATCA (Air Traffic Controllers)**: $105K across 84 transactions (84 transactions is the highest per-donor transaction count in this file; 3+ contributions per year for 25 years; FAA appropriations access)
+- **CWA (Communications Workers)**: $98K across 41 transactions
+- **Southern Minnesota Sugar Cooperative PAC**: $98K across 56 transactions (genuine constituency; Minnesota sugar beet industry)
+
+### Data-panel top donors: defense cluster
+
+- **L3Harris Technologies**: $30K (Defense Appropriations access; no major MN-4 facility)
+- **Honeywell**: $27.5K (Honeywell has MN operations; partial constituency)
+- **Raytheon (RTX)**: $26K (precision munitions manufacturer; Defense Appropriations access)
+- **General Dynamics**: $25K (Defense Appropriations access)
+- **Northrop Grumman**: $25K (Defense Appropriations access)
+- **IBEW**: $25K
+- **BAE Systems**: $22.5K (UK-based defense contractor; Defense Appropriations access; no MN constituency)
+- **NAR**: $21K (access; MN-4 is not a real estate market driving national Realtor priorities)
+
+> [!money]
+> **The NATCA 84-transaction relationship.** The National Air Traffic Controllers Association gave to Betty McCollum 84 times across her 25-year career, a rate of 3.4 contributions per year. No other single-donor relationship in this profile comes close in transaction density. Air traffic controllers are federal employees whose budget, staffing levels, contract terms, and facility upgrades all flow through the House Appropriations Committee. McCollum's Appropriations seat makes her one of the most strategically valuable targets for NATCA's access-giving strategy. The $105K total is modest relative to the relationship intensity: NATCA is not trying to buy a specific vote with a large check; it is maintaining continuous access through a high-frequency small-contribution pattern that ensures the member stays informed about NATCA priorities and NATCA stays in the member's office. This is access maintenance at its most systematic.
+
+---
+
+## Class Analysis
+
+McCollum's $6.6M lifetime record separates cleanly into two pools: a labor-coalition foundation that reflects 25 years of union-organizing alignment and an Appropriations subcommittee premium that attracts defense-industry tribute from companies with no Minnesota constituency rationale. The labor coalition (IBEW, AFT, NEA, IAM, ATLA, Teamsters, AFSCME, NATCA, CWA) accounts for nine of the top ten lifetime direct PAC donors, with the Southern Minnesota Sugar Cooperative as the tenth providing genuine regional constituency coverage. This is the union-Democrat relationship at its most stable: safe district, long tenure, consistent labor voting record, consistent labor giving.
+
+The defense data panel breaks the labor-pure pattern. L3Harris, Honeywell, Raytheon, General Dynamics, Northrop Grumman, and BAE Systems are not Minnesota constituency donors. Three of the six (Raytheon, GD, BAE) have no significant MN-4 employment footprint. They give to McCollum because she sits on the Defense Appropriations subcommittee that funds their contracts. This is the Appropriations premium: every member of the defense subcommittee receives regular PAC giving from defense contractors regardless of where those members represent. The pattern is uniform across both parties: defense contractors build access relationships with every member who votes on their budget lines. McCollum is unusual in that the defense access money contradicts her most prominent public legislative position.
+
+The Southern Minnesota Sugar Cooperative's $98K/56 txns is the profile's most structurally coherent entry: genuine constituency giving from an industry that directly employs workers in McCollum's state. Minnesota grows more sugar beets than almost any other state, and the cooperative PAC maintaining a 25-year giving relationship with its congressional delegation member is the access-maintenance pattern operating as intended. Compare to the Fanjul Family (Florida Crystals sugar billionaires) giving to Espaillat in NY-13: the Florida billionaires giving to a New York City member is out-of-constituency access; the Minnesota cooperative giving to its Minnesota member is not.
+
+The LCV $22K AGAINST McCollum is the anomaly with no clear explanation in the available data. The League of Conservation Voters spending against a Democrat who cosponsors environmental legislation (Forever Chemical Regulation Act, environmental protections in her bill list) is unusual and may reflect a specific primary-cycle decision or a policy dispute on a single vote. The American Principles Fund ($16K against, a social conservative organization) and UNITE Campaign Committee ($12K against) suggest contested primary cycles rather than general election vulnerability.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** McCollum's Palestinian children advocacy (HR 2407 and related) and her Nay votes on Israel-related bills represent genuine policy positions held against caucus majority pressure. The structural limit is that the defense appropriations access money flows regardless of how she votes on the downstream use of those weapons. The defense companies give to maintain subcommittee relationships, not to direct specific votes. McCollum can vote against aid to Israel while still serving as an access target for the companies that produce the weapons. The access mechanism and the policy position occupy separate circuits.
+
+**Both-Sides Illusion.** J Street (progressive pro-Israel/pro-Palestinian rights) and AIPAC's absence, combined with the defense contractor data panel, produce a profile in which the humanitarian advocacy and the industry access exist simultaneously without visible contradiction in the donor record. The AIPAC absence is itself a signal: McCollum has been sufficiently consistent on Palestinian rights that AIPAC does not maintain access to her in the way it does with most House Democrats. The defense contractors have no such ideological filter; they give across the political spectrum based on subcommittee jurisdiction.
 
 
 ### Legislative Activity (118th Congress)
