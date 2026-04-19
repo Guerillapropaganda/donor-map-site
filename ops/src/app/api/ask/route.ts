@@ -942,8 +942,8 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   const name = r.title
   const ent = findEntity(name)
 
-  const inflowsRaw = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 500 })
-  const outflows = await engine.query({ subject: "edges", filters: { from: name, type: "monetary" }, limit: 500 })
+  const inflowsRaw = await engine.query({ subject: "edges", filters: { to: name, type: "monetary" }, limit: 2000 })
+  const outflows = await engine.query({ subject: "edges", filters: { from: name, type: "monetary" }, limit: 2000 })
 
   // Split support vs opposition. The role field carries "ie-support" /
   // "ie-oppose" on independent-expenditure edges. Without it, an
@@ -1579,10 +1579,10 @@ async function handleQuestion(question: string): Promise<AskResult> {
     const allRows: any[] = []
     const baseFilters: Record<string, unknown> = { type: "monetary", source: "irs-990-bulk" }
     if (c.extra?.year) baseFilters.cycle = c.extra.year
-    const mainR = await engine.query({ subject: "edges", filters: { ...baseFilters, from: name.title }, limit: 200 })
+    const mainR = await engine.query({ subject: "edges", filters: { ...baseFilters, from: name.title }, limit: 1500 })
     allRows.push(...mainR.rows)
     for (const v of vehicles.slice(0, 8)) {
-      const vr = await engine.query({ subject: "edges", filters: { ...baseFilters, from: v }, limit: 200 })
+      const vr = await engine.query({ subject: "edges", filters: { ...baseFilters, from: v }, limit: 1500 })
       for (const row of vr.rows) allRows.push({ ...row, _via: v })
     }
     const rows = allRows.sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
@@ -1605,10 +1605,10 @@ async function handleQuestion(question: string): Promise<AskResult> {
     // Trump." Otherwise we miss the vast majority of the actual money.
     const vehicles = vehiclesFor(name.title)
     const allEdges: any[] = []
-    const mainRes = await engine.query({ subject: "edges", filters: { to: name.title, type: "monetary" }, limit: 500 })
+    const mainRes = await engine.query({ subject: "edges", filters: { to: name.title, type: "monetary" }, limit: 2000 })
     allEdges.push(...mainRes.rows)
     for (const v of vehicles.slice(0, 8)) {
-      const vr = await engine.query({ subject: "edges", filters: { to: v, type: "monetary" }, limit: 200 })
+      const vr = await engine.query({ subject: "edges", filters: { to: v, type: "monetary" }, limit: 1500 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
     // Drop self-ref edges. 406 exist in the store (Honeywell→Honeywell from
@@ -1677,10 +1677,10 @@ async function handleQuestion(question: string): Promise<AskResult> {
     // IE spend, not just Musk's own $2K in direct donations.
     const vehicles = vehiclesFor(name.title)
     const allEdges: any[] = []
-    const mainRes = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 500 })
+    const mainRes = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 2000 })
     allEdges.push(...mainRes.rows)
     for (const v of vehicles.slice(0, 8)) {
-      const vr = await engine.query({ subject: "edges", filters: { from: v, type: "monetary" }, limit: 200 })
+      const vr = await engine.query({ subject: "edges", filters: { from: v, type: "monetary" }, limit: 1500 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
     // Drop self-ref edges (see donors_to — same rationale)

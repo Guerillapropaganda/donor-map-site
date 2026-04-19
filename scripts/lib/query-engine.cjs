@@ -368,7 +368,12 @@ function createInMemoryEngine() {
   //      one filter beyond limit/offset — prevents full table scans
   //   3. 5-second wall-clock timeout on any query execution
 
-  const MAX_PAGE_SIZE = 500
+  // Bumped from 500 → 2000. The indiv-to-edges ingest produces big
+  // entities: MAGA Inc at 967 inflow edges, Trump Victory at 1,197,
+  // ActBlue/WinRed at 1,000+. A 500-row ceiling silently truncated the
+  // donors_to totals — MAGA Inc reported $342M instead of the real
+  // $973M. 2000 accommodates the biggest vault committees with headroom.
+  const MAX_PAGE_SIZE = 2000
   const QUERY_TIMEOUT_MS = 5000
 
   // Filter keys that count as "real" filters (not pagination)
