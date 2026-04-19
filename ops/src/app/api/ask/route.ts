@@ -119,14 +119,26 @@ const MANUAL_VEHICLE_MAP: Record<string, string[]> = {
   "Donald Trump": [
     "MAGA Inc",
     "Make America Great Again Inc",
+    "MAKE AMERICA GREAT AGAIN INC.",
     "Save America PAC",
     "Trump Victory",
     "Trump National Committee JFC",
     "Donald J. Trump for President",
+    "DONALD J. TRUMP REPUBLICAN NOMINEE FUND 2024",
     "Team Trump",
     "Right for America",
+    "Preserve America",
+    "America PAC - Elon Musk", // Musk's PAC ran $90M IE for Trump; pool under both
   ],
-  "Kamala Harris": ["Harris for President", "Harris Victory Fund"],
+  "Kamala Harris": [
+    "Harris for President",
+    "Harris Victory Fund",
+    "KAMALA HARRIS VICTORY FUND",
+    "HARRIS VICTORY FUND",
+    "FF PAC", // Future Forward - $542M IE support
+    "Future Forward USA Action",
+    "FUTURE FORWARD USA ACTION",
+  ],
   "Joe Biden": ["Biden for President", "Biden Victory Fund", "Biden Action Fund"],
   "Leonard Leo": [
     "Marble Freedom Trust",

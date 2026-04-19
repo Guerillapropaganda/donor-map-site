@@ -184,6 +184,13 @@ const SOURCES = [
   'usaspending-grants-bulk',
   'fec-individual-bulk',
   'irs-990-bulk',
+  // Per-committee indiv aggregation derived from
+  // C:\donor-map-data\fec\indiv-by-committee.jsonl — captures
+  // natural-person donors contributing $200+ directly to a campaign
+  // committee, matched to the committee via fec_committee_id signals
+  // on the receiving entity. Fills the gap where ingest-fec-individual-
+  // bulk.cjs only emitted employer-aggregated edges.
+  'fec-indiv-by-committee',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -206,6 +213,12 @@ const MIGRATION_SOURCES = new Set([
   'frontmatter-migration',
   'body-migration-april-9',
   'manual-ops',
+  // indiv-by-committee surfaces natural-person donors who don't (and
+  // shouldn't) have vault profiles — their "from" names are raw FEC
+  // contributor records. Allow these edges to skip the vault-profile
+  // existence check on the from-side; the committee receiving the
+  // contribution is a real vault entity by construction.
+  'fec-indiv-by-committee',
 ]);
 
 // ─── Title normalization ──────────────────────────────────────────────
@@ -409,6 +422,18 @@ function validateEdge(edge, ctx = {}) {
         const subcatField = `${side}_subcategory`;
         if ((edge.type === 'government-contract' || edge.type === 'federal-grant') && edge[subcatField] === 'government-agency') {
           continue; // skip profile existence check for agencies
+        }
+        // Natural-person donors in fec-indiv-by-committee edges are raw
+        // FEC contributor names — they legitimately don't have vault
+        // profiles. The to-side can also lack a profile when the edge
+        // targets a freshly-stub'd campaign committee (sync-campaign-
+        // committees creates entity records without corresponding .md
+        // files — profile creation is Research Claude's lane). Allow
+        // this source to skip BOTH side profile checks; the committee
+        // identity is anchored by fec_committee_id signals on the
+        // entity record, not by a profile file.
+        if (edge.source === 'fec-indiv-by-committee') {
+          continue;
         }
         errors.push(`${side}: no profile with title "${title}" in vault`);
         continue;
