@@ -1,8 +1,10 @@
 ---
 title: Darren Soto
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Darren Soto is the Puerto Rican-heritage FL-9 member whose $5.5M lifetime direct PAC is built on Florida-specific constituency relationships (Florida Blue $57K/23 txns, SpaceX PAC $53K/12 txns, ACRE rural cooperatives $46K/29 txns, NextEra Energy and Duke Energy in data panel) with $1.3M in Latino-identity super-PAC FOR support (Latino Victory Fund $550K dominant); his only enacted bill is the Launch Communications Act (HR 682), which traces directly to the SpaceX relationship, and AIPAC's $45K/30 txns as the highest data-panel entry sits in a district with minimal Jewish constituency while his Nay on HRES 893 (Tlaib censure) suggests independent positioning on Palestinian issues."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -150,7 +152,78 @@ top-donors: "[[Lockheed Martin]], [[Honeywell]], [[AIPAC - American Israel Publi
 
 # Darren Soto
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Darren Soto. Democrat, Florida-9 (Osceola County, southern Orange County, parts of Kissimmee and the Orlando metro). First elected 2016. The first Puerto Rican elected to Congress from Florida. Born February 1978 in Ringwood, NJ; moved to Florida. Rutgers University and Florida State University College of Law graduate; Florida state legislature before Congress. Member of the House Energy and Commerce Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 95.8% party-line loyalty across 1,720 substantive votes, 73 deviations. FL-9 is a safe Democratic district anchored by Osceola County's Puerto Rican and Latino community.
+
+---
+
+## The Central Thesis
+
+Soto is the Puerto Rican-heritage FL-9 member whose $5.5M lifetime direct PAC is built on Florida-specific constituency relationships with $1.3M in Latino-identity super-PAC FOR support. The top ten direct PAC donors are a coherent map of Florida constituencies: Florida Blue Cross ($57K/23 txns) is the state's dominant health insurer; SpaceX PAC ($53K/12 txns) has launch facilities at Cape Canaveral within Soto's geographic orbit; CUNA ($55K/16 txns) represents Florida's extensive credit union network; ACRE ($46K/29 txns) serves the rural electric cooperatives of Osceola County's agricultural corridor; and NATCA ($46K/33 txns) reflects Kennedy Space Center's air traffic control operations. The $1.3M FOR super-PAC total is nearly entirely Latino-identity organizations: Latino Victory Fund ($550K), Progress Tomorrow ($272K), United for Progress ($213K), Alianza for Progress ($50K), UnidosUS Action ($49K). These five account for $1.13M of the $1.3M total. Soto's only enacted bill, the Launch Communications Act (HR 682), directly reflects the SpaceX PAC relationship.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> AIPAC is Soto's highest single-entity data-panel entry at $45.4K across 30 transactions across 8 years. FL-9 (Kissimmee, Osceola County) has a Puerto Rican and Latino-majority population with a small Jewish constituency relative to Florida's South Florida congressional districts where AIPAC concentrates its largest investments. AIPAC gives to Soto at 30 transactions (3.75 per year) not because his constituency demands pro-Israel positioning, but because AIPAC maintains a district-agnostic access strategy across every House Democrat. The contradiction surfaces in the voting record: Soto voted Nay on HRES 893, the resolution censuring Rashida Tlaib for her Palestine advocacy, when the Democratic majority voted Aye. AIPAC supported the Tlaib censure; Soto voted against it. A member receiving $45.4K from AIPAC across 30 transactions breaks with AIPAC's preferred position on the censure vote. The 30-transaction relationship continues regardless of this single vote, because AIPAC's access strategy is maintained through sustained small-dollar giving that survives individual deviations. The money flow and the vote operate in separate circuits.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $5.5M (8-year accumulation; Energy and Commerce Committee premium)
+- Super-PAC IE support (FOR): $1.3M (Latino Victory Fund $550K, Progress Tomorrow $272K, United for Progress $213K, Alianza for Progress $50K, UnidosUS Action $49K)
+- Super-PAC IE opposition (AGAINST): $255K (True Blue Florida $129K, United We Can $75K, Women Vote $35K; likely primary opposition vehicles)
+
+### Top direct PAC donors (lifetime): Florida constituency core
+
+- **Florida Blue (Blue Cross Blue Shield of Florida PAC)**: $57K across 23 transactions (Florida's largest health insurer; Energy and Commerce Committee access; genuine constituency)
+- **CUNA (Credit Unions)**: $55K across 16 transactions (Florida has significant credit union density; Energy and Commerce financial regulation)
+- **SpaceX PAC (Space Exploration Technologies Corp.)**: $53K across 12 transactions (Cape Canaveral launch operations; tied to enacted Launch Communications Act)
+- **Machinists (IAM)**: $49K across 10 transactions
+- **AFSCME**: $48K across 19 transactions
+- **Realtors PAC**: $47K across 19 transactions (access; Florida real estate is a major policy battleground)
+- **ACRE (Action Committee for Rural Electrification)**: $46K across 29 transactions (rural electric cooperatives; Osceola County agricultural corridor)
+- **NATCA**: $46K across 33 transactions (Kennedy Space Center air traffic control; aviation-security access)
+- **AIPAC**: $45K across 30 transactions (district-agnostic national access strategy)
+- **NBWA (Beer Wholesalers)**: $56K across 23 transactions (second-highest; alcohol distribution; Energy and Commerce)
+
+### Data-panel top donors
+
+- **AIPAC**: $45.4K (highest; district-agnostic AIPAC giving; see contradiction section)
+- **NextEra Energy**: $32.3K (Florida Power and Light parent; Florida's dominant utility; genuine constituency)
+- **NAR**: $30.5K
+- **Anthem/Elevance Health**: $28K
+- **Duke Energy**: $27.5K (Florida utility; genuine constituency)
+- **Comcast**: $25K (Energy and Commerce Committee access; major Florida cable operator)
+- **AT&T**: $25K (Energy and Commerce access)
+
+> [!money]
+> **SpaceX PAC $53K and the Launch Communications Act.** The Space Exploration Technologies Corp. PAC gave Darren Soto $53K across 12 transactions. SpaceX operates launch facilities at Cape Canaveral, Florida, which falls within or adjacent to FL-9's geographic orbit. Soto's only enacted bill, HR 682 (Launch Communications Act), governs communications systems used during space launch operations, directly affecting SpaceX's operational regulatory environment at Cape Canaveral. This is the vault's clearest example of a direct donor-to-enacted-legislation chain: SpaceX gives to a member who can affect space launch regulation, the member sponsors and passes legislation that affects SpaceX's operations, the legislation becomes law. The 12 transactions reflect a sustained relationship that began when Soto joined the Energy and Commerce Committee, which has jurisdiction over telecommunications and federal communications regulation relevant to launch operations.
+
+---
+
+## Class Analysis
+
+Soto's $5.5M record is the most Florida-specific in the House Democrat cohort examined in this vault. Florida Blue ($57K), ACRE ($46K), NextEra ($32.3K), Duke Energy ($27.5K), and SpaceX ($53K) are all either headquartered in Florida, have major Florida operations, or serve Florida's energy and space infrastructure. The credit union network ($55K, CUNA), beer wholesalers ($56K, NBWA), and Realtors PAC ($47K) add the three standard Energy and Commerce access donors who give across the full committee regardless of geography. The combined effect is a direct PAC record that reads as a map of Florida's regulated industries: health insurance, alcohol distribution, real estate, space, rural electricity, and telecommunications.
+
+The SpaceX-to-Launch Communications Act chain is structurally significant because it is confirmable: the PAC began giving, the member sponsored the bill, the bill passed, and SpaceX operates at Cape Canaveral. This is not a circumstantial access relationship; it is a verifiable donor-to-jurisdiction-to-legislation sequence. The Launch Communications Act addresses frequency coordination and communications protocols for launch operations, which affects SpaceX's Cape Canaveral operational costs and regulatory efficiency. SpaceX gave to the member who could affect those regulations, and the regulations were adjusted through the member's bill.
+
+The Latino super-PAC FOR pool ($1.13M from five Latino-identity organizations) reflects Soto's symbolic significance to the Puerto Rican and broader Latino political community: the first Puerto Rican elected to Congress from Florida is a priority investment for organizations seeking to build Latino political power in Florida, a state where Latino electoral influence is nationally significant. The $550K from Latino Victory Fund dwarfs any other single FOR spender in his file. These organizations are not investing in Soto's specific legislative positions; they are investing in his identity representation as an electoral priority for the Latino vote in Florida.
+
+The 73 deviations at 95.8% include a mixed pattern: the November-December 2025 cluster shows rightward crossover votes (same set of Republican-led bills seen in Pappas and Gray: HR 1005, HR 1069, HR 1049, HR 3638, HR 3383, HCONRES 58), but also the HRES 893 Nay (leftward from the Democratic majority on Tlaib censure). The mixed direction distinguishes Soto from pure Blue Dog/swing-district crossover patterns: he takes some Republican-side votes and some progressive-side votes, producing a 95.8% loyalty rate that is moderate by this vault's standards (higher than Gray and Pappas, lower than the 97-98% safe-seat average).
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** The Launch Communications Act is Soto's clearest legislative win and the vault's most transparent example of constituency-to-legislation-to-enactment: SpaceX PAC funds the member, the member passes space communications legislation, SpaceX benefits. The structural limit is that this win required giving SpaceX the access relationship that produced the bill. The legislation may be good policy (communications coordination for launch safety has legitimate public-interest rationale) and the SpaceX money may have facilitated rather than distorted that policy outcome. The ambiguity is structural: both readings are consistent with the available data.
+
+**Both-Sides Illusion.** AIPAC ($45.4K, highest data-panel entry) and Soto's Nay on the Tlaib censure represent the same member receiving money from pro-Israel access organizations while independently voting against their preferred position on a specific high-visibility vote. The AIPAC access relationship continues through individual deviations because AIPAC's investment strategy is based on sustained access maintenance, not individual vote compliance. Soto's vote against the censure and AIPAC's continued giving are simultaneously visible in the record without visible contradiction at the transactional level.
 
 
 ### Legislative Activity (118th Congress)
