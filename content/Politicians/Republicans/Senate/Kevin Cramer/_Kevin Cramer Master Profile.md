@@ -1,8 +1,8 @@
 ---
 title: Kevin Cramer
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,12 @@ phone: 202-224-2043
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline (Armed Forces + Banking confirmed by donor pattern but not pipeline-verified)
+  - ClearPath Action Fund donor motivation (constituency vs. ideological investment) not confirmed
+  - AIPAC 70-transaction cycle breakdown not yet pulled
+  - RJC 81-transaction breakdown not yet pulled
+central-thesis: "Kevin Cramer is the North Dakota extraction senator whose donor map splits cleanly between ND constituency giving (Lignite Energy Council, Petroleum Marketers, National Cattlemen's Beef) and committee-tribute giving (Goldman Sachs $20K/9 txns for Banking jurisdiction, Northrop/Lockheed/BAE/GD/Raytheon/L3Harris for Armed Forces). AIPAC's 70-transaction relationship ($67K lifetime) and RJC's 81-transaction relationship ($18K) are the vault's most sustained pro-Israel micro-giving patterns for a senator from a state with almost no Jewish constituency."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S8ND00120
 bills-sponsored: 17
@@ -152,7 +154,82 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 
 # Kevin Cramer
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Kevin Cramer. Republican, North Dakota. US Senator since January 2019, elected 2018 defeating Democratic incumbent Heidi Heitkamp. Previously North Dakota's at-large House member (2013-2019, 3 terms). Born January 1961 in Rolette, ND. Minnesota State University Moorhead graduate. North Dakota Public Service Commissioner (1993-2012) before Congress. Committee assignments not yet pipeline-verified but donor pattern indicates Armed Forces Committee and Banking, Housing, and Urban Affairs Committee positions. 2,152 roll-call votes tracked (116th, 118th, 119th Congress; 117th coverage missing). Voting record: 96.6% party-line loyalty across 2,031 substantive votes, 67 deviations. North Dakota is one of the safest Republican states; the $630K in FOR outside spending reflects a seat no one contested seriously.
+
+---
+
+## The Central Thesis
+
+Cramer is the North Dakota extraction senator whose donor map divides between genuine constituency giving and committee-tribute access money. The Lignite Energy Council PAC ($18K), Petroleum Marketers ($20K), National Cattlemen's Beef Association ($11K), and the full fossil fuel frontmatter slate (ConocoPhillips, Devon Energy, Halliburton, Occidental, Chevron, Marathon, Valero) are the North Dakota economy in donor form: lignite coal, Bakken shale oil, and ranching. Goldman Sachs's $20K across 9 transactions and the Wall Street cluster (Morgan Stanley, Citigroup, Bank of America) point to Banking Committee jurisdiction for a senator whose state has almost no connection to New York financial markets. AIPAC's 70-transaction relationship ($67K) and RJC's 81-transaction relationship ($18K) are the vault's most sustained pro-Israel micro-giving patterns for a senator from a state with no measurable Jewish constituency. The pro-Israel donor infrastructure and the Wall Street access money reflect committee seats, not North Dakota.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Cramer represents North Dakota, which is approximately 90% white with one of the smallest Jewish populations of any state. His two most transaction-intensive donor relationships are AIPAC (70 transactions, $67K lifetime) and the Republican Jewish Coalition (81 transactions, $18K lifetime). RJC's 81-transaction count is the highest single donor-candidate transaction frequency in the vault for the dollar amount involved: $18K spread across 81 transactions averages $222 per transaction. This is not a large-dollar investment; it is the maximum-frequency relationship maintenance pattern, AIPAC and RJC giving at every available opportunity to a senator who has delivered reliably on Israel-related votes. The structural explanation is straightforward: pro-Israel donor infrastructure does not give based on constituency composition. It gives based on voting record and committee access. Cramer's record on Israel-adjacent votes is consistent; the donations reflect that consistency. North Dakota's Jewish population has nothing to do with it. Goldman Sachs's $20K/9 transactions for a senator from a state without a Goldman Sachs office is the parallel: Banking Committee jurisdiction is the North Dakota senator's most valuable non-constituency asset.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $3.0M
+- Party committee support: $181K
+- Super-PAC IE support (FOR): $630K (ND Republican Party $175K, NRSC $84K, AHA PAC $75K, SLF PAC $65K, Women Speak Out PAC $54K)
+- Super-PAC IE opposition (AGAINST): $6.8M (SMP $2.8M, DSCC $2.1M, Majority Forward $1.1M, Priorities USA $813K)
+
+### Top direct PAC donors (lifetime)
+
+- **AIPAC PAC**: $67K across 70 transactions (70 transactions = most sustained AIPAC micro-giving pattern for a senator in this vault)
+- **Thune Senate Victory**: $22K across 4 transactions (Senate Majority Leader network)
+- **Common Values PAC, Heartland Values PAC, Hawkeye PAC**: $20K each (conservative leadership PAC cluster)
+- **Goldman Sachs PAC**: $20K across 9 transactions (Wall Street; Banking Committee access)
+- **Petroleum Marketers Association**: $20K across 5 transactions (ND oil constituency)
+- **RJC PAC**: $18K across 81 transactions (81 transactions = vault's highest transaction frequency for this dollar total; see Core Contradiction)
+- **Lignite Energy Council PAC**: $18K across 4 transactions (North Dakota's lignite coal industry; genuine constituency)
+- **American Dental PAC**: $18K across 5 transactions
+
+### Data-panel top donors (relationships store)
+
+- **American Hospital Association PAC**: $85K (dominant direct relationship; healthcare committee access)
+- **AIPAC**: $61K (relationship totals differ slightly from FEC lifetime due to anomaly filtering)
+- **ClearPath Action Fund**: $25K (conservative clean energy advocacy; ideological investment in a coal-state senator)
+- **WinRed**: $22K
+- **IAFF (Firefighters)**: $12.5K (bipartisan union giving)
+- **National Association of Realtors**: $11K
+- **Lockheed Martin**: $11K
+- **National Cattlemen's Beef Association**: $11K
+
+### Fossil fuel and defense clusters
+
+[[Devon Energy]], [[ConocoPhillips]], [[Halliburton]], [[Chevron]], [[Occidental Petroleum]], [[Marathon Petroleum]], [[Valero Energy]] (fossil fuel; Bakken shale oil and gas production is North Dakota's dominant revenue source). [[Northrop Grumman]], [[Lockheed Martin]], [[BAE Systems]], [[General Dynamics]], [[Raytheon (RTX)]], [[L3Harris Technologies]] (defense; Armed Forces Committee access; North Dakota has Minot AFB and Grand Forks AFB, genuine state constituency plus committee tribute).
+
+> [!money]
+> **The Goldman Sachs Problem in North Dakota.** Goldman Sachs Group gave $20K to Kevin Cramer across 9 transactions. North Dakota does not have a Goldman Sachs office. North Dakota's banking industry is dominated by the Bank of North Dakota (the only state-owned bank in the country) and regional community banks. Goldman Sachs's interest in Kevin Cramer is pure committee jurisdiction: Banking, Housing, and Urban Affairs Committee. Cramer votes on financial regulation, derivatives rules, and bank capital requirements. His state has almost no financial services industry to speak of. The $20K/9 transactions is Goldman Sachs paying for access to a Banking Committee seat occupied by a senator from the only state in the union where Goldman Sachs has no meaningful commercial footprint.
+
+---
+
+## Class Analysis
+
+Cramer's donor map is one of the cleaner examples in the vault of the committee-tribute model working in parallel with genuine constituency service. The North Dakota constituency donors are identifiable and coherent: Lignite Energy Council (the trade association for ND's lignite coal industry, the largest in the country), Petroleum Marketers (Bakken shale oil), National Cattlemen's Beef (ranching), and the Minot AFB/Grand Forks AFB defense constituency that justifies some of the defense contractor giving. These are industries that North Dakota actually has. A senator who protects their federal regulatory and appropriations environment is doing constituent service.
+
+The non-constituency donors are equally identifiable: Goldman Sachs ($20K/9 transactions), Morgan Stanley, Citigroup, Bank of America for Banking Committee; Northrop Grumman, Lockheed, BAE, General Dynamics, Raytheon, L3Harris for Armed Forces (beyond the ND military base constituency). AIPAC ($67K/70 transactions) and RJC ($18K/81 transactions) for Israel-adjacent votes. These are committee-jurisdiction access fees paid by industries and interest groups that have no North Dakota presence and no North Dakota constituency rationale. The $3.0M in lifetime direct PAC giving is split roughly between these two pools, with the committee-tribute side heavier.
+
+The 67 deviations across 96.6% loyalty contain a pattern distinct from Schmitt's or Blackburn's rightward breaks. Cramer's deviations include Yea votes on presidential nominations (PN 1902, PN 1342, PN 1826) where the Republican majority voted Nay. These are institutionalist deviations: Cramer crossed the caucus to confirm nominees the party was blocking. The S.Con.Res. 22 Nay in the 119th Congress is the opposite: Cramer voted against the budget resolution (the procedural vehicle for the "Big Beautiful Bill") when the Republican majority supported it, becoming one of the Senate holdouts who forced negotiations over the bill's deficit impact. These are not fiscal-hawk deviations in the Blackburn pattern. They are senator-specific position deviations on nominations and budget mechanics.
+
+The ClearPath Action Fund ($25K) is an outlier requiring context: ClearPath is a conservative clean energy organization that advocates for nuclear power, natural gas, and carbon capture within a conservative policy framework. For a lignite coal senator to receive $25K from ClearPath suggests either ClearPath's investment in natural gas as a bridge fuel (which overlaps with North Dakota's gas production) or ideological investment in a senator they hope to move toward clean energy conservatism. The Lignite Energy Council and ClearPath are not obvious allies; their coexistence in Cramer's donor map is the tension between ND's coal economy and the broader energy transition that will affect it.
+
+---
+
+## Analytical Patterns
+
+**Both-Sides Illusion (pro-Israel cluster).** AIPAC's 70 transactions and RJC's 81 transactions together represent the highest combined pro-Israel transaction frequency for any senator in the vault relative to the constituency rationale. North Dakota has no meaningful Jewish population. The pro-Israel donor infrastructure gives to Cramer based on his voting record, not his state. This is the purest expression of issue-based donor capture: the constituency served is not geographically located in the state the senator represents. A North Dakotan asking their senator about Israel policy is getting a response shaped by AIPAC and RJC, not by the North Dakota Jewish community.
+
+**Genuine Win + Structural Limit.** Cramer's constituency service is real: protecting lignite coal, Bakken shale, and ND military bases is what a North Dakota senator is supposed to do, and his donor map reflects those interests. The structural limit is that the same donor map adds Goldman Sachs, AIPAC, and national defense contractors whose interests do not always align with North Dakota's. The Bank of North Dakota (the state-owned bank) and Goldman Sachs have different interests in banking regulation. The coal industry and ClearPath have different interests in energy transition policy. These tensions have not yet produced visible vote-record conflicts, but they are the structural limit of representing North Dakota while holding committee seats that attract national-interest donors.
 
 
 ### Legislative Activity (118th Congress)
