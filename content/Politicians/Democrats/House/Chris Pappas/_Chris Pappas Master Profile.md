@@ -1,8 +1,10 @@
 ---
 title: Chris Pappas
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Chris Pappas is NH-1's most centrist House Democrat (92.0% party-line loyalty, 138 deviations, the lowest loyalty rate in this vault's current cohort), whose competitive New Hampshire district produced a donor map dominated by tech-sector individual contributors (Amazon $26.3K, Google $16.4K, Apple $11.6K) and moderate-Democrat-signaling PACs (Moderate Democrats PAC, SD PAC, Granite Values PAC) with minimal overall PAC fundraising ($606K lifetime); the a16z, Coinbase, Palantir, and Anduril entries in his top-donors alongside Let America Vote and J Street reflect the bifurcated coalition of a swing-district Democrat who lost a 2024 Senate race."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -137,7 +139,82 @@ top-donors: "[[Robert Garcia]], [[League of Conservation Voters]], [[VOTER PROTE
 
 # Chris Pappas
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Chris Pappas. Democrat, New Hampshire-1 (Manchester, Concord, and surrounding communities). First elected 2018; NH-1 is a competitive swing district. The first openly gay person elected to Congress from New Hampshire. Born June 1980 in Manchester. University of New Hampshire graduate; New Hampshire state legislature, NH Executive Council before Congress. Armed Services Committee member. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 92.0% party-line loyalty across 1,716 substantive votes, 138 deviations. NH-1 is competitive; Pappas ran for US Senate in 2024 and lost to Republican Kelly Ayotte.
+
+---
+
+## The Central Thesis
+
+Pappas is NH-1's most centrist House Democrat, posting 92.0% party-line loyalty with 138 deviations, the lowest loyalty rate in this vault's current cohort. His $606K lifetime direct PAC total is also among the lowest in the cohort, reflecting a fundraising model built on individual donors (primarily tech-sector workers) rather than union and industry PACs. The data panel is dominated by tech company individual-aggregate contributions: Amazon $26.3K, Google $16.4K, Apple $11.6K, Morgan Stanley $10.3K, Goldman Sachs $7.6K, Airbnb $7.1K. The direct PAC record tells a different story: Southwest Airlines Pilots $15K (SWAPA, aviation safety access), End Citizens United $11K, and a cluster of moderate-Democrat-signaling PACs (Moderate Democrats PAC, SD PAC, A New Direction PAC, Rev Up PAC, Smart Solutions PAC, Granite Values PAC) all at $10K each. The top-donors list also includes a16z (Andreessen Horowitz), Coinbase, Palantir, and Anduril, tech-right venture-capital and defense-tech donors that have no New Hampshire constituency rationale and reflect the individual-donor fundraising from tech workers and investors that a swing-district candidate pursuing a Senate seat cultivates nationally.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Pappas voted with the Republican majority 138 times across 1,716 substantive votes, a 8.0% deviation rate that places him in the most conservative quartile of House Democrats. His November-December 2025 voting record shows a sustained pattern of Yea votes when the Democratic majority voted Nay (HR 5107, HCONRES 58, HR 4305, HR 1005, HR 1069, HR 1049, HR 3638, HR 3383) across multiple consecutive weeks, a clustering pattern consistent with a member positioning for crossover appeal before a Senate race or in preparation for a general-election cycle. Meanwhile, a16z (Andreessen Horowitz), whose co-founder Marc Andreessen publicly endorsed Donald Trump for president in 2024, is in Pappas's top-donors list alongside Let America Vote PAC, J Street, and Giffords PAC. A swing-district Democrat who takes money from a venture capital firm whose principals backed Trump while simultaneously receiving funding from gun-control and voting-rights organizations is not managing a contradictory ideology; he is managing a competitive district's coalition arithmetic. But the a16z entry in particular is the tech-right access payment visible in the donor record.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $606K (very low for a six-year House member; reflects individual-donor-heavy fundraising model)
+- Party committee support: not prominent in available data
+- Super-PAC IE support (FOR): $1K (nominal; no major outside spending for his races)
+- Super-PAC IE opposition (AGAINST): not recorded
+
+### Top direct PAC donors (lifetime): moderate-Democrat PAC cluster
+
+- **Southwest Airlines Pilots (SWAPA PAC)**: $15K across 4 transactions (aviation safety access; NH-1 has Manchester-Boston Regional Airport)
+- **End Citizens United**: $11K across 2 transactions (campaign finance reform identity)
+- **Amalgamated Transit Union (ATU)**: $10K across 2 transactions
+- **Moderate Democrats PAC**: $10K across 2 transactions (caucus membership signal)
+- **Purpose PAC**: $10K across 2 transactions
+- **A New Direction PAC**: $10K across 2 transactions
+- **SD PAC**: $10K across 2 transactions
+- **Rev Up PAC**: $10K across 2 transactions
+- **Smart Solutions PAC**: $10K across 3 transactions
+- **Granite Values PAC**: $10K across 2 transactions (New Hampshire-specific moderate positioning)
+
+### Data-panel top donors: tech-sector individual aggregates
+
+- **Amazon**: $26.3K (highest in panel; individual employees, not corporate PAC)
+- **MassMutual**: $17.1K (financial services; Boston-adjacent New Hampshire district)
+- **Google**: $16.4K
+- **Wells Fargo**: $13.1K
+- **Apple**: $11.6K
+- **Let America Vote PAC**: $10.5K (voting rights; identity)
+- **Morgan Stanley**: $10.3K
+- **Centene Corporation**: $8.2K (managed care)
+- **Goldman Sachs**: $7.6K
+- **Airbnb**: $7.1K (platform economy; NH-1 has short-term rental market)
+
+> [!money]
+> **The tech-right donor cluster in a swing-district Democrat's file.** The top-donors list includes a16z (Andreessen Horowitz), Coinbase, Palantir Technologies, and Anduril Industries: the venture capital firm whose co-founder endorsed Trump in 2024; the crypto exchange that has spent heavily lobbying both parties; and two defense-tech companies (Palantir and Anduril) founded by Peter Thiel and Palmer Luckey respectively, both associated with the tech-right's alignment with the Trump administration. None of these entities have a New Hampshire constituency rationale. They represent individual donor contributions from tech investors and executives who fund swing-district Democrats as part of a bipartisan access strategy, particularly for members on Armed Services (where Palantir and Anduril have contracts). The combination of a16z and Let America Vote PAC in the same donor profile is the swing-district coalition visible in the money.
+
+---
+
+## Class Analysis
+
+Pappas's 92.0% party-line loyalty is the clearest competitive-district signal in the current vault cohort. Safe-district Democrats in this session run 97-98% loyalty; Pappas runs 92%. The 138 deviations are not random: the November-December 2025 cluster of Yea votes when Dems voted Nay (eight deviations in a three-week period) suggests a strategic positioning period coinciding with his Senate race preparation or its aftermath. Swing-district members in competitive territories vote with the opposing party more frequently, and the clustering suggests that those deviations were not issue-by-issue independent decisions but a sustained positioning signal.
+
+The $606K lifetime direct PAC is among the lowest in the cohort for a multi-term member, reflecting a fundraising model that prioritizes individual donors over PAC relationships. The top-donors list (Amazon, Google, Apple, MassMutual, Wells Fargo) reflects individual aggregate contributions from tech and finance workers, not corporate PAC giving. This model has structural implications: individual donors who give to swing-district members in tech sectors tend to be wealthier, more geographically dispersed, and more ideologically flexible than union PAC donors. The absence of a significant union base (no IBEW, AFT, AFSCME, Machinists in the top lifetime PAC donors) is notable for a Democrat; the moderate-Democrat PAC cluster (Moderate Democrats PAC, SD PAC, Granite Values PAC) fills the ideological space that union PACs normally occupy for safe-district Democrats.
+
+The Armed Services Committee membership and 78 armed forces bills cosponsored (second-highest policy area after Health) drives the tech-defense entries: Palantir, Anduril, and Booz Allen Hamilton all have significant Armed Services interests. Palantir sells data analytics to the Defense Department; Anduril makes autonomous defense systems; both have cultivated relationships with Armed Services Committee members across both parties. Pappas's Armed Services membership makes him a target for their individual-donor access giving regardless of his partisan positioning.
+
+The 2024 Senate loss to Republican Kelly Ayotte is the crucial context for reading this profile: everything about the donor map, including the tech-right access money and the 138 deviations, reflects a member who was trying to run statewide in a competitive state and needed to build a coalitioned that could cross partisan lines. The campaign failed, but the donor record from those years reflects the Senate-race-positioning logic rather than the governing logic of a safe House member.
+
+---
+
+## Analytical Patterns
+
+**Two-Audience Problem.** Pappas maintains two distinct donor audiences simultaneously: progressive identity organizations (Let America Vote, J Street, Giffords PAC, Emily's List) and tech-right individual contributors (a16z, Coinbase, Palantir, Anduril). The voting record (138 deviations, 92% loyalty) reflects the same two-audience tension: he votes with Democrats enough to maintain the caucus relationship and takes enough crossover votes to signal to New Hampshire's competitive general electorate. This is the pure swing-district two-audience problem, not ideological incoherence.
+
+**Donor-Class Override (partial).** The moderate-Democrat PAC cluster (Moderate Democrats PAC, SD PAC, New Direction PAC, Rev Up PAC, Smart Solutions PAC) reflects institutional support for centrist Democrats who vote with Republicans frequently. These PACs exist specifically to fund members who are willing to deviate from the caucus majority, and they funded Pappas during his House tenure. The cluster at $10K per PAC (the maximum cycle contribution) suggests coordinated moderate-Democrat institutional support rather than organic donor enthusiasm.
 
 
 ### Legislative Activity (118th Congress)
