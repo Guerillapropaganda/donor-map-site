@@ -105,6 +105,92 @@ function loadEntities(): EntityRec[] {
 }
 
 /**
+ * Hand-curated map of persons → vehicles whose name does NOT literally
+ * contain the person's name. MAGA Inc is Trump's super PAC, Save America
+ * PAC is his leadership PAC, but neither contains "Donald Trump" in its
+ * name, so the name-heuristic below misses them. This map fills the gap
+ * for high-profile cases. Extend as new launch-50 / high-value figures
+ * are added.
+ *
+ * Keys are canonical vault titles (exact). Values are arrays of vault
+ * entity names (exact). Unknown keys fall back to the name heuristic.
+ */
+const MANUAL_VEHICLE_MAP: Record<string, string[]> = {
+  "Donald Trump": [
+    "MAGA Inc",
+    "Make America Great Again Inc",
+    "Save America PAC",
+    "Trump Victory",
+    "Trump National Committee JFC",
+    "Donald J. Trump for President",
+    "Team Trump",
+    "Right for America",
+  ],
+  "Kamala Harris": ["Harris for President", "Harris Victory Fund"],
+  "Joe Biden": ["Biden for President", "Biden Victory Fund", "Biden Action Fund"],
+  "Leonard Leo": [
+    "Marble Freedom Trust",
+    "The 85 Fund",
+    "Concord Fund",
+    "Judicial Crisis Network",
+    "Rule of Law Trust",
+    "DonorsTrust",
+  ],
+  "Charles Koch": [
+    "Americans for Prosperity",
+    "Americans for Prosperity Action, Inc. (AFP Action) dba CVA Action and dba Libre Action",
+    "Stand Together",
+    "Koch Industries",
+  ],
+  "Peter Thiel": ["Palantir Technologies", "Founders Fund"],
+  "George Soros": ["Open Society Foundations", "Democracy PAC", "Democracy Alliance"],
+  "Reid Hoffman": ["Mainstream Democrats PAC"],
+  "Sam Bankman-Fried": ["FTX - Sam Bankman-Fried", "Protect Our Future PAC"],
+  "Miriam Adelson": ["Preserve America PAC"],
+  "Mitch McConnell": ["Senate Leadership Fund", "SLF PAC", "One Nation"],
+  "Chuck Schumer": ["Senate Majority PAC", "Majority Forward"],
+  "Nancy Pelosi": ["House Majority PAC", "HMP"],
+  "Kevin McCarthy": ["Congressional Leadership Fund", "CLF", "American Action Network"],
+  "Hakeem Jeffries": ["House Majority PAC", "HMP"],
+}
+
+/**
+ * Given an entity name, return the names of *vehicles they control* — PACs,
+ * foundations, DAFs, and donor networks. Combines a hand-curated map
+ * (MANUAL_VEHICLE_MAP) for cases where the vehicle name doesn't carry the
+ * person's name, plus a heuristic that matches vehicles literally
+ * containing the person's full name (e.g. "America PAC - Elon Musk").
+ *
+ * Without this expansion, a Musk → Trump query misses the whole $147M
+ * America PAC Trump-operation stack, and a "who funds Trump" query misses
+ * the $55M flowing through MAGA Inc.
+ *
+ * Heuristic tightness: only match if the vehicle name is LONGER than the
+ * person's name (so "Elon Musk" doesn't self-match, but "America PAC -
+ * Elon Musk" does). Skip when the person name is ≤ 6 chars (too short to
+ * avoid false positives like "Lee" matching every Lee-something PAC).
+ */
+function vehiclesFor(personName: string): string[] {
+  if (!personName) return []
+  const out = new Set<string>()
+  // Hand map first — authoritative for cases the heuristic misses
+  for (const v of MANUAL_VEHICLE_MAP[personName] || []) out.add(v)
+  // Heuristic match (vehicles whose name contains the person's full name)
+  if (personName.length > 6) {
+    const ents = loadEntities()
+    const needle = personName.toLowerCase()
+    const controllerTypes = new Set(["donor", "pac", "nonprofit", "corporation", "network"])
+    for (const e of ents) {
+      if (e.name === personName) continue
+      if (e.name.length <= personName.length) continue
+      if (!controllerTypes.has(e.entity_type || "")) continue
+      if (e.name.toLowerCase().includes(needle)) out.add(e.name)
+    }
+  }
+  return [...out]
+}
+
+/**
  * Levenshtein distance, bounded cheap version. Returns Infinity if
  * beyond threshold so the caller can early-reject.
  */
@@ -633,10 +719,26 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
   const a = resolveTitle(c.subjectName as string)
   const b = resolveTitle(c.objectName as string)
 
-  const r1 = await engine.query({ subject: "edges", filters: { from: a.title, to: b.title }, limit: 100 })
-  const r2 = await engine.query({ subject: "edges", filters: { from: b.title, to: a.title }, limit: 100 })
-  const forward = r1.rows || []
-  const reverse = r2.rows || []
+  // Expand both sides by vehicles they control — an "Elon Musk funds
+  // Donald Trump" question should pick up America PAC → Trump (and
+  // America PAC → Trump's committees) as direct edges, not fall through
+  // to a multi-hop BFS that finds an incidental $600 chain.
+  const aSources = [a.title, ...vehiclesFor(a.title)]
+  const bTargets = [b.title, ...vehiclesFor(b.title)]
+  const forward: any[] = []
+  const reverse: any[] = []
+  for (const from of aSources) {
+    for (const to of bTargets) {
+      const r = await engine.query({ subject: "edges", filters: { from, to }, limit: 50 })
+      for (const row of r.rows) forward.push({ ...row, _from_via: from !== a.title ? from : undefined, _to_via: to !== b.title ? to : undefined })
+    }
+  }
+  for (const from of bTargets) {
+    for (const to of aSources) {
+      const r = await engine.query({ subject: "edges", filters: { from, to }, limit: 50 })
+      for (const row of r.rows) reverse.push({ ...row, _from_via: from !== b.title ? from : undefined, _to_via: to !== a.title ? to : undefined })
+    }
+  }
 
   // Separate monetary edges (the ones with real dollars) from "related"
   // and other weak-signal types that exist only because one side was
@@ -687,7 +789,9 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
     const bullets: string[] = []
     for (const e of [...monetaryForward, ...monetaryReverse].sort((x: any, y: any) => y.amount - x.amount).slice(0, 5)) {
       const arrow = e.role === "ie-oppose" ? "AGAINST" : "→"
-      bullets.push(`${e.from} ${arrow} ${e.to}: ${fmtUsd(Number(e.amount))}${e.cycle ? ` (${e.cycle})` : ""} [${e.source}]`)
+      const fromLabel = e._from_via ? `${e._from_via} (a ${a.title} vehicle)` : e.from
+      const toLabel = e._to_via ? `${e._to_via} (a ${b.title} vehicle)` : e.to
+      bullets.push(`${fromLabel} ${arrow} ${toLabel}: ${fmtUsd(Number(e.amount))}${e.cycle ? ` (${e.cycle})` : ""} [${e.source}]`)
     }
     for (const e of [...affiliationForward, ...affiliationReverse].slice(0, 3)) {
       bullets.push(`${e.from} — ${e.role || "affiliation"} — ${e.to}${e.date_range ? ` (${e.date_range.slice(0, 4)}–${e.date_range.slice(-10, -6)})` : ""}`)
@@ -785,13 +889,18 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     classTags.push(...ent.ideological_function.map((f) => `ideological_function:${f}`))
   const tagRows = classTags.map((t) => ({ kind: "class-tag", tag: t }))
 
-  // For PEOPLE (or anyone with 0 direct edges), also pull flows from the
-  // orgs they chair. Money doesn't usually flow through a person's name —
-  // it flows through their foundation / c4 / super PAC. Show those.
+  // For PEOPLE, pull flows from vehicles they control — PACs, foundations,
+  // DAFs whose name carries theirs. Musk's direct giving is a few thousand
+  // dollars; America PAC (which his name is on) put $147M into the Trump
+  // operation. We ALWAYS show vehicles for persons now, not just when
+  // there are zero direct edges — otherwise small direct donations mask
+  // the much larger flows moving through the person's named vehicles.
+  const vehiclesControlled = vehiclesFor(name)
   const viaOrgs: Array<Record<string, unknown>> = []
-  if (topIn.length === 0 && topOut.length === 0 && boards.length > 0) {
-    for (const b of boards.slice(0, 3)) {
-      const orgName = b.to as string
+  const boardOrgs = boards.slice(0, 3).map((b: any) => b.to).filter(Boolean) as string[]
+  const orgsToProbe = [...new Set([...vehiclesControlled, ...boardOrgs])].slice(0, 5)
+  if (orgsToProbe.length > 0) {
+    for (const orgName of orgsToProbe) {
       if (!orgName) continue
       const orgIn = await engine.query({ subject: "edges", filters: { to: orgName, type: "monetary" }, limit: 50 })
       const orgOut = await engine.query({ subject: "edges", filters: { from: orgName, type: "monetary" }, limit: 50 })
@@ -806,9 +915,14 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
         .filter((e: any) => e.amount)
         .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
         .slice(0, 3)
-        .forEach((e: any) =>
-          viaOrgs.push({ kind: `via ${orgName} (out)`, from: orgName, to: e.to, amount: e.amount, cycle: e.cycle, source: e.source }),
-        )
+        .forEach((e: any) => {
+          const label = e.role === "ie-oppose"
+            ? `via ${orgName} AGAINST`
+            : e.role === "ie-support"
+            ? `via ${orgName} supports`
+            : `via ${orgName} (out)`
+          viaOrgs.push({ kind: label, from: orgName, to: e.to, amount: e.amount, cycle: e.cycle, source: e.source, role: e.role })
+        })
     }
   }
 
@@ -839,26 +953,41 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   }
 
   if (viaOrgs.length > 0) {
-    const perOrg: Record<string, { inDollars: number; outDollars: number; topOut: Array<{ to: string; amount: number }> }> = {}
+    const perOrg: Record<string, { inDollars: number; supportOut: number; attackOut: number; donationOut: number; topSupport: Array<{ to: string; amount: number }>; topAttack: Array<{ to: string; amount: number }> }> = {}
     for (const v of viaOrgs) {
-      const orgMatch = String(v.kind).match(/^via (.+?) \((in|out)\)$/)
-      if (!orgMatch) continue
-      const [, org, dir] = orgMatch
-      if (!perOrg[org]) perOrg[org] = { inDollars: 0, outDollars: 0, topOut: [] }
+      const kind = String(v.kind)
+      // Recognize all kind shapes: "via X (in)", "via X (out)", "via X AGAINST", "via X supports"
+      const m = kind.match(/^via (.+?)(?: \((in|out)\)| AGAINST| supports)?$/)
+      if (!m) continue
+      const org = m[1]
+      const isIn = kind.endsWith("(in)")
+      if (!perOrg[org]) perOrg[org] = { inDollars: 0, supportOut: 0, attackOut: 0, donationOut: 0, topSupport: [], topAttack: [] }
       const amt = Number(v.amount) || 0
-      if (dir === "in") perOrg[org].inDollars += amt
-      else {
-        perOrg[org].outDollars += amt
-        perOrg[org].topOut.push({ to: v.to as string, amount: amt })
+      if (isIn) perOrg[org].inDollars += amt
+      else if (v.role === "ie-oppose") {
+        perOrg[org].attackOut += amt
+        perOrg[org].topAttack.push({ to: v.to as string, amount: amt })
+      } else if (v.role === "ie-support") {
+        perOrg[org].supportOut += amt
+        perOrg[org].topSupport.push({ to: v.to as string, amount: amt })
+      } else {
+        perOrg[org].donationOut += amt
+        perOrg[org].topSupport.push({ to: v.to as string, amount: amt })
       }
     }
     for (const [org, d] of Object.entries(perOrg)) {
-      const outStr = d.topOut.length
-        ? ` Out: ${d.topOut.sort((a, b) => b.amount - a.amount).slice(0, 3).map((x) => x.to + " " + fmtUsd(x.amount)).join(", ")}.`
+      const parts: string[] = []
+      if (d.inDollars > 0) parts.push(`received ${fmtUsd(d.inDollars)}`)
+      const outPositive = d.supportOut + d.donationOut
+      if (outPositive > 0) parts.push(`moved ${fmtUsd(outPositive)} to allies`)
+      if (d.attackOut > 0) parts.push(`spent ${fmtUsd(d.attackOut)} AGAINST opponents`)
+      const supStr = d.topSupport.length
+        ? ` Support: ${d.topSupport.sort((a, b) => b.amount - a.amount).slice(0, 3).map((x) => x.to + " " + fmtUsd(x.amount)).join(", ")}.`
         : ""
-      bullets.push(
-        `Via ${org}: ${d.inDollars > 0 ? "received " + fmtUsd(d.inDollars) + ". " : ""}${d.outDollars > 0 ? "moved " + fmtUsd(d.outDollars) + " out." : ""}${outStr}`,
-      )
+      const attStr = d.topAttack.length
+        ? ` Attacks: ${d.topAttack.sort((a, b) => b.amount - a.amount).slice(0, 3).map((x) => x.to + " " + fmtUsd(x.amount)).join(", ")}.`
+        : ""
+      bullets.push(`Via ${org}: ${parts.join("; ")}.${supStr}${attStr}`)
     }
   }
 
@@ -1004,7 +1133,7 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
   // nonsense "money chains" where cash appears to flow to a target who
   // was actually being attacked.
   const raw = fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
-  const adj = new Map<string, Array<{ to: string; amount: number; cycle?: string; source: string }>>()
+  const adj = new Map<string, Array<{ to: string; amount: number; cycle?: string; source: string; role?: string }>>()
   for (const line of raw.split("\n")) {
     if (!line.trim()) continue
     try {
@@ -1012,21 +1141,31 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
       if (e.type !== "monetary" || !e.amount) continue
       if (e.role === "ie-oppose") continue
       const arr = adj.get(e.from) || []
-      arr.push({ to: e.to, amount: Number(e.amount), cycle: e.cycle, source: e.source })
+      arr.push({ to: e.to, amount: Number(e.amount), cycle: e.cycle, source: e.source, role: e.role })
       adj.set(e.from, arr)
     } catch {}
   }
 
-  // BFS up to 3 hops from A to B, keep all paths, rank by min-amount along path
+  // Expand both endpoints to include vehicles they control — a money chain
+  // from Elon Musk to Donald Trump should traverse America PAC ($147M IE
+  // spend) even though Musk's direct donations are only a few hundred
+  // dollars. Any vehicle whose name contains the person's full name is
+  // treated as an alternate start/end node.
+  const sources = [a.title, ...vehiclesFor(a.title)]
+  const targets = new Set<string>([b.title, ...vehiclesFor(b.title)])
+
+  // BFS up to 3 hops from any source to any target. Each path carries the
+  // original source/target labels so the response can say "Elon Musk
+  // via America PAC → Donald Trump" accurately.
   const maxDepth = 3
   const paths: Array<{ path: string[]; edges: any[]; min_amount: number; total_pass_through: number }> = []
-  const queue: Array<{ node: string; path: string[]; edges: any[] }> = [{ node: a.title, path: [a.title], edges: [] }]
+  const queue: Array<{ node: string; path: string[]; edges: any[] }> = sources.map(s => ({ node: s, path: [s], edges: [] }))
   let examined = 0
   const budget = 20000
   while (queue.length && examined < budget) {
     const cur = queue.shift()!
     examined++
-    if (cur.node === b.title && cur.edges.length > 0) {
+    if (targets.has(cur.node) && cur.edges.length > 0) {
       const min = Math.min(...cur.edges.map((e) => e.amount))
       const total = cur.edges.reduce((acc, e) => acc + e.amount, 0)
       paths.push({ path: cur.path, edges: cur.edges, min_amount: min, total_pass_through: total })
@@ -1251,16 +1390,47 @@ async function handleQuestion(question: string): Promise<AskResult> {
   }
   if (c.intent === "grants_from") {
     const name = resolveTitle(c.subjectName as string)
-    const filters: Record<string, unknown> = { from: name.title, type: "monetary", source: "irs-990-bulk" }
-    if (c.extra?.year) filters.cycle = c.extra.year
-    const r = await engine.query({ subject: "edges", filters, limit: 200 })
-    const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
+    // Pool grants from the named entity AND any foundation / DAF whose
+    // name contains theirs — "biggest grants from Leonard Leo" should find
+    // Marble Freedom Trust + 85 Fund + Concord Fund flows, not just grants
+    // literally emitted by a "Leonard Leo" entity record.
+    const vehicles = vehiclesFor(name.title)
+    const allRows: any[] = []
+    const baseFilters: Record<string, unknown> = { type: "monetary", source: "irs-990-bulk" }
+    if (c.extra?.year) baseFilters.cycle = c.extra.year
+    const mainR = await engine.query({ subject: "edges", filters: { ...baseFilters, from: name.title }, limit: 200 })
+    allRows.push(...mainR.rows)
+    for (const v of vehicles.slice(0, 8)) {
+      const vr = await engine.query({ subject: "edges", filters: { ...baseFilters, from: v }, limit: 200 })
+      for (const row of vr.rows) allRows.push({ ...row, _via: v })
+    }
+    const rows = allRows.sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
-    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, summary: `${name.title}${c.extra?.year ? " (" + c.extra.year + ")" : ""}: ${r.total} grants totaling ~${fmtUsd(total$)} across top 50.` })
+    return finalize({
+      question,
+      intent: c.intent,
+      resolved_title: name.title,
+      did_you_mean: name.candidates.slice(0, 5),
+      total: allRows.length,
+      rows,
+      summary: `${name.title}${c.extra?.year ? " (" + c.extra.year + ")" : ""}: ${allRows.length} grants${vehicles.length ? " (pooled with " + vehicles.length + " controlled foundations)" : ""} totaling ~${fmtUsd(total$)} across top 50.`,
+    })
   }
   if (c.intent === "donors_to") {
     const name = resolveTitle(c.subjectName as string)
-    const r = await engine.query({ subject: "edges", filters: { to: name.title, type: "monetary" }, limit: 500 })
+    // Vehicles controlled by the target — a question like "who funds
+    // Donald Trump" should pool donors to Trump Victory, Save America PAC,
+    // MAGA Inc, etc., not just edges where target === literal "Donald
+    // Trump." Otherwise we miss the vast majority of the actual money.
+    const vehicles = vehiclesFor(name.title)
+    const allEdges: any[] = []
+    const mainRes = await engine.query({ subject: "edges", filters: { to: name.title, type: "monetary" }, limit: 500 })
+    allEdges.push(...mainRes.rows)
+    for (const v of vehicles.slice(0, 8)) {
+      const vr = await engine.query({ subject: "edges", filters: { to: v, type: "monetary" }, limit: 200 })
+      for (const row of vr.rows) allEdges.push({ ...row, _via: v })
+    }
+    const r = { total: allEdges.length, rows: allEdges }
     // Split IE-support vs IE-oppose: super-PAC ads "opposing" X are not
     // donors TO X. The edge.role field carries ie-support / ie-oppose.
     const supporters = r.rows.filter((e: any) => e.role !== "ie-oppose")
@@ -1274,18 +1444,59 @@ async function handleQuestion(question: string): Promise<AskResult> {
       ? ` (Plus ${fmtUsd(oppose$)} spent AGAINST them by ${opposers.length} super-PAC opposition edge${opposers.length === 1 ? "" : "s"} — excluded from the totals above.)`
       : ""
 
+    // Tally by vehicle so we can explain "$X direct + $Y via Trump Victory + ..."
+    const viaTotals: Record<string, number> = {}
+    let directTotal = 0
+    for (const e of supporters) {
+      if (!e.amount) continue
+      const via = (e as any)._via
+      if (via) viaTotals[via] = (viaTotals[via] || 0) + Number(e.amount)
+      else directTotal += Number(e.amount)
+    }
+    const viaParts = Object.entries(viaTotals)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 4)
+      .map(([v, amt]) => `${fmtUsd(amt)} via **${v}**`)
+    const viaBreakdown = viaParts.length > 0
+      ? ` Breakdown: ${fmtUsd(directTotal)} direct; ${viaParts.join("; ")}.`
+      : ""
+
     const answer =
       total$ > 0
-        ? `**${name.title}** received **${fmtUsd(total$)}** in tracked support edges from **${supporters.length}** donors/committees.${opposeNote}`
+        ? `**${name.title}** received **${fmtUsd(total$)}** in tracked support edges from **${supporters.length}** donors/committees${vehicles.length > 0 ? ` (pooled across ${vehicles.length + 1} entities including controlled vehicles)` : ""}.${viaBreakdown}${opposeNote}`
         : `**${name.title}** has ${supporters.length} donor edges in the store without dollar amounts.${opposeNote}`
-    const bullets = top5.map((e: any) => `${e.from}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`)
-    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${supporters.length} support edges, ${opposers.length} opposition edges. Support ~${fmtUsd(total$)}, opposition ~${fmtUsd(oppose$)}.` })
+    const bullets = top5.map((e: any) => {
+      const via = e._via ? ` → ${e._via}` : ""
+      return `${e.from}${via}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`
+    })
+    return finalize({
+      question,
+      intent: c.intent,
+      resolved_title: name.title,
+      did_you_mean: name.candidates.slice(0, 5),
+      total: r.total,
+      rows,
+      answer,
+      bullets,
+      summary: `${supporters.length} support edges (pooled across ${name.title}${vehicles.length ? " + " + vehicles.length + " controlled vehicles" : ""}), ${opposers.length} opposition edges. Support ~${fmtUsd(total$)}, opposition ~${fmtUsd(oppose$)}.`,
+    })
   }
   if (c.intent === "recipients_from") {
     const name = resolveTitle(c.subjectName as string)
     const ent = findEntity(name.title)
     const isPolitician = ent?.entity_type === "politician" || ent?.entity_type === "state-politician"
-    const r = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 500 })
+    // Pool outflows from the entity AND from vehicles they control —
+    // "where does Elon Musk's money go" should include America PAC's $147M
+    // IE spend, not just Musk's own $2K in direct donations.
+    const vehicles = vehiclesFor(name.title)
+    const allEdges: any[] = []
+    const mainRes = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 500 })
+    allEdges.push(...mainRes.rows)
+    for (const v of vehicles.slice(0, 8)) {
+      const vr = await engine.query({ subject: "edges", filters: { from: v, type: "monetary" }, limit: 200 })
+      for (const row of vr.rows) allEdges.push({ ...row, _via: v })
+    }
+    const r = { total: allEdges.length, rows: allEdges }
     const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
 
@@ -1326,9 +1537,33 @@ async function handleQuestion(question: string): Promise<AskResult> {
         : `**${name.title}** has ${r.total} outgoing edges but no dollar amounts attached.`
     const bullets = top5.map((e: any) => {
       const arrow = e.role === "ie-oppose" ? "AGAINST" : "→"
-      return `${arrow} ${e.to}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`
+      const via = e._via ? ` (via ${e._via})` : ""
+      return `${arrow} ${e.to}${via}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`
     })
-    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${name.title} outflows: ${supportEdges.length} support / ${opposeEdges.length} oppose edges, ~${fmtUsd(supportTotal)} support · ~${fmtUsd(opposeTotal)} attack.` })
+    // Vehicle breakdown so the user sees "$147M via America PAC" etc.
+    const viaTotals: Record<string, { support: number; oppose: number; donation: number }> = {}
+    let directSupport = 0, directOppose = 0
+    for (const e of rows) {
+      if (!e.amount) continue
+      const via = (e as any)._via
+      const amt = Number(e.amount)
+      const bucket: "support" | "oppose" | "donation" = e.role === "ie-oppose" ? "oppose" : e.role === "ie-support" ? "support" : "donation"
+      if (via) {
+        viaTotals[via] = viaTotals[via] || { support: 0, oppose: 0, donation: 0 }
+        viaTotals[via][bucket] += amt
+      } else if (bucket === "oppose") directOppose += amt
+      else directSupport += amt
+    }
+    const viaSummary = Object.entries(viaTotals).length > 0
+      ? ` Vehicle breakdown: ${Object.entries(viaTotals).sort((a, b) => (b[1].support + b[1].oppose + b[1].donation) - (a[1].support + a[1].oppose + a[1].donation)).slice(0, 4).map(([v, t]) => {
+          const parts: string[] = []
+          if (t.support + t.donation > 0) parts.push(`${fmtUsd(t.support + t.donation)} support`)
+          if (t.oppose > 0) parts.push(`${fmtUsd(t.oppose)} attack`)
+          return `**${v}** (${parts.join(", ")})`
+        }).join("; ")}.`
+      : ""
+    const enrichedAnswer = answer + viaSummary
+    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer: enrichedAnswer, bullets, summary: `${name.title} outflows (${vehicles.length ? "incl. " + vehicles.length + " controlled vehicles" : "direct only"}): ${supportEdges.length} support / ${opposeEdges.length} oppose edges, ~${fmtUsd(supportTotal)} support · ~${fmtUsd(opposeTotal)} attack.` })
   }
 
   // Generic fallback
