@@ -256,7 +256,15 @@ function computeEdgeId(edge) {
   let parts;
 
   if (type === 'monetary' || type === 'government-contract' || type === 'federal-grant') {
-    parts = [edge.from, edge.to, type, edge.cycle || ''];
+    // Monetary edges include role in the hash ONLY when a role is set, so
+    // null-role donation edges keep their pre-ADR-0013 IDs (backwards-
+    // compatible with the 75K+ existing edges). IE-support and IE-oppose
+    // edges hash to distinct IDs so a committee that both donates to AND
+    // runs IE ads for/against the same candidate in the same cycle
+    // produces separate edges instead of colliding.
+    parts = edge.role
+      ? [edge.from, edge.to, type, edge.cycle || '', edge.role]
+      : [edge.from, edge.to, type, edge.cycle || ''];
   } else if (type === 'staffing' || type === 'affiliation' || type === 'legal') {
     const dr = edge.date_range || '';
     const start = typeof dr === 'string' && dr.includes('/') ? dr.split('/')[0] : dr;

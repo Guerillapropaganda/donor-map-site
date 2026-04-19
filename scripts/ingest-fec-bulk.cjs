@@ -32,6 +32,23 @@ const {
   computeEdgeId,
   normalizeTitle,
 } = require('./lib/relationship-edge-validator.cjs')
+const { classifyTransaction } = require('./lib/fec-txn-types.cjs')
+
+// Map classifyTransaction() bucket → edge.role field.
+// Direct donations stay role=null. IE buckets get explicit ie-support /
+// ie-oppose so downstream consumers (ask, query, leaderboards) can
+// distinguish them from actual donations without re-deriving from txn codes.
+function bucketToRole(bucket) {
+  if (bucket === 'ie-support') return 'ie-support'
+  if (bucket === 'ie-oppose') return 'ie-oppose'
+  return null
+}
+
+// Buckets we emit edges for. Others (anomaly, unknown, electioneering,
+// comm-cost) are skipped at the edge level — they're captured in the
+// pas2-* derived stores for separate analysis but shouldn't pollute the
+// canonical relationship graph.
+const EMITTED_BUCKETS = new Set(['direct-donor', 'ie-support', 'ie-oppose', 'party-support', 'conduit-aggregation'])
 
 const ROOT = path.join(__dirname, '..')
 const BULK_DIR = path.join(ROOT, 'data', 'bulk')
@@ -204,11 +221,23 @@ async function main() {
       const politicianTitle = politician.title
       const politicianEntry = politician
 
+      // Classify transaction type via the canonical ADR-0013 classifier.
+      // Only donor-shaped buckets are emitted as edges — anomalies/unknown
+      // are dropped here but retained in the pas2-* bucket files by the
+      // separate ingest-fec-pas2-bulk.cjs derivation.
+      const cls = classifyTransaction({ srcCmte: cmteId, txnTp: transactionType, amount, candId })
+      if (!EMITTED_BUCKETS.has(cls.bucket)) return
+
       cycleMatched++
       matchedRows++
 
-      // Aggregate by (donor → politician, cycle)
-      const aggKey = `${donor.title}|${politicianTitle}|${cycle}`
+      // Aggregate by (donor → politician, cycle, bucket). Splitting on
+      // bucket means a committee that both donated ($X, 24K) AND ran IE
+      // ads supporting ($Y, 24E) the same candidate in the same cycle
+      // produces TWO edges: one role=null donation, one role=ie-support.
+      // Same for IE-oppose. This is what unblocks accurate downstream
+      // classification without relying on the classify-ie-edges patch.
+      const aggKey = `${donor.title}|${politicianTitle}|${cycle}|${cls.bucket}`
       if (!aggregated.has(aggKey)) {
         aggregated.set(aggKey, {
           from: donor.title,
@@ -221,6 +250,8 @@ async function main() {
           amount: 0,
           count: 0,
           cycle,
+          bucket: cls.bucket,
+          role: bucketToRole(cls.bucket),
         })
       }
       const agg = aggregated.get(aggKey)
@@ -265,10 +296,10 @@ async function main() {
       confidence: 0.95, // authoritative bulk data
       source: 'fec-bulk',
       source_url: null, // FEC URLs are per-committee, registered separately
-      evidence: [`FEC PAS2 bulk: ${agg.count} transactions totaling $${Math.round(agg.amount).toLocaleString()} in cycle ${agg.cycle}`],
+      evidence: [`FEC PAS2 bulk (${agg.bucket}): ${agg.count} transactions totaling $${Math.round(agg.amount).toLocaleString()} in cycle ${agg.cycle}`],
       amount: Math.round(agg.amount),
       cycle: String(agg.cycle),
-      role: null,
+      role: agg.role,
       date_range: null,
       first_seen: NOW,
       last_verified: NOW,

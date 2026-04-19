@@ -36,6 +36,22 @@ const { loadEdges, upsertEdges } = require('./lib/relationships-store.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
 const POLITICIANS_DIR = path.join(ROOT, 'content', 'Politicians');
+const AUTO_MAP_FILE = path.join(__dirname, 'derived', 'partisan-committees.auto.json');
+
+// Load the auto-derived partisan map (from derive-partisan-committees.cjs).
+// Used as a fallback after the hand-curated PARTISAN_COMMITTEES below.
+// The hand map takes precedence — it captures editorial judgment about
+// ambiguous cases (e.g. intra-party IE spenders like Justice Democrats,
+// which are D-aligned but empirically look NEUTRAL because they primary
+// other Ds).
+let AUTO_MAP = {};
+try {
+  if (fs.existsSync(AUTO_MAP_FILE)) {
+    AUTO_MAP = JSON.parse(fs.readFileSync(AUTO_MAP_FILE, 'utf-8')).alignment || {};
+  }
+} catch (err) {
+  console.warn(`[classify-ie-edges] auto-map load failed: ${err.message}`);
+}
 
 const args = process.argv.slice(2);
 const WRITE = args.includes('--write');
@@ -320,7 +336,6 @@ function committeeParty(name) {
   if (!name) return null;
   const key = name.toLowerCase().trim();
   if (PARTISAN_COMMITTEES[key]) return PARTISAN_COMMITTEES[key];
-  // fuzzy: strip common suffixes
   const stripped = key
     .replace(/[\-,]\s*inc\.?$/, '')
     .replace(/[\-,]\s*pac$/, '')
@@ -329,6 +344,11 @@ function committeeParty(name) {
     .replace(/ super pac$/, '')
     .trim();
   if (PARTISAN_COMMITTEES[stripped]) return PARTISAN_COMMITTEES[stripped];
+  // Auto-map is intentionally NOT consulted for role tagging — the
+  // empirical data captures direction of ALL spending (including direct
+  // donations from industry PACs), which would incorrectly tag direct
+  // donations as ie-support. Use `derive-partisan-committees.cjs` as a
+  // diagnostic report to discover candidates for the hand map.
   return null;
 }
 
@@ -381,7 +401,18 @@ function committeeParty(name) {
       agg.count++;
       supportByCommittee.set(e.from, agg);
     }
-    updates.push({ ...e, role });
+    // Stamp a why-tagged explanation onto the edge so downstream
+    // consumers (/ask, /query, evidence panel) can show the reasoning.
+    // Evidence array is additive: append without clobbering existing.
+    const existingEvidence = Array.isArray(e.evidence) ? e.evidence : [];
+    const reason = `classify-ie-edges: ${e.from} mapped as ${fromParty}-aligned; ${e.to} is party ${toParty} → role=${role}`;
+    updates.push({
+      ...e,
+      role,
+      classified_by: 'classify-ie-edges',
+      classification_reason: reason,
+      evidence: existingEvidence.includes(reason) ? existingEvidence : [...existingEvidence, reason],
+    });
     if (VERBOSE) {
       console.log(`  [${role}] ${e.from} → ${e.to}: $${((e.amount || 0) / 1e6).toFixed(2)}M`);
     }
