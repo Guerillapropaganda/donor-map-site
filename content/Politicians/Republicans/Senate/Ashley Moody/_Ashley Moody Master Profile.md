@@ -1,8 +1,8 @@
 ---
 title: Ashley Moody
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,10 @@ phone: 202-224-3041
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - No Senate fundraising cycle completed (appointed December 2024; FEC lifetime data is predominantly from FL AG campaign cycles)
+  - Committee assignments not yet in pipeline
+central-thesis: "Ashley Moody is the DeSantis appointment who replaced Rubio without a Senate election or voter mandate. Her 99.0% party loyalty in 734 votes (119th Congress only) is the brand-new senator's loyalty score before any independent deviation pattern emerges. The donor base is her AG legacy: healthcare companies she regulated as AG (Wellpoint/Anthem, Amgen, CVS/Aetna, Anesthesiologists) and defense contractors reflecting Florida's military-base economy. The AG who led ACA lawsuits is now funded by the insurers who operate under that system."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6FL00640
 top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Senate Conservatives Fund]], [[Amgen Inc]], [[Honeywell]], [[Duke Energy]], [[Nucor Corporation]], [[CVS Health - Aetna]], [[NRSC - National Republican Senatorial Committee]], [[Comcast - NBCUniversal]], [[Law Enforcement for a Safer America Pac]], [[Care Action]], [[L3Harris Technologies]], [[Microsoft]], [[Walmart - Walton Family]], [[AbbVie]], [[Associated General Contractors of America Political Action Committee]], [[Chevron]], [[Lockheed Martin]], [[American Hospital Association PAC]], [[American College of Radiology Association PAC]], [[General Dynamics]], [[Anthem - Elevance Health]], [[Humana]], [[General Motors]], [[International Association of Firefighters Interested in Registration and Education PAC]], [[Pfizer Inc.]], [[National Restaurant Association]], [[BAE Systems]], [[National Rifle Association]], [[VIEW PAC - Value in Electing Women]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Republican Jewish Coalition]], [[Northrop Grumman]], [[Citigroup]], [[Common Sense for America PAC]], [[Gilead Sciences]], [[NextEra Energy]], [[Honeywell International]]"
@@ -135,4 +135,77 @@ top-donors: "[[National Association of Realtors]], [[Johnson & Johnson]], [[Sena
 
 # Ashley Moody
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Ashley Moody. Republican, Florida. US Senator since December 2024, appointed by Gov. Ron DeSantis after Marco Rubio became Secretary of State. Born March 1975 in Plant City, FL. University of Florida Law graduate, former Hillsborough County circuit court judge (2011-2015), Florida Attorney General (2019-2024, won two statewide elections). As AG: led multi-state lawsuits against ACA, challenged vaccine mandates, led anti-DEI litigation, led immigration enforcement partnerships with ICE. Committee assignments not yet in pipeline. 734 roll-call votes tracked (119th Congress only). Voting record: 99.0% party-line loyalty across 729 substantive votes, 7 deviations. The 99.0% rate and 7-deviation count reflect a brand-new appointed senator without an established deviation pattern. Florida is not an election cycle; she will face a 2026 election for the remaining term.
+
+---
+
+## The Central Thesis
+
+Moody is the DeSantis appointment who replaced Rubio without a Senate election or voter mandate. Her entire Senate voting record exists in the 119th Congress (2025-2026), and the 7 deviations in 734 votes are the starting-position loyalty pattern of a senator who has not yet needed to signal independence to a statewide constituency. The donor base she brings to the Senate is her AG legacy: healthcare companies she regulated during four years as Florida's top law enforcement officer (Wellpoint/Anthem, Amgen, CVS/Aetna, Anesthesiologists PAC), defense contractors reflecting Florida's military-base economy (Lockheed, L3Harris, BAE, Northrop, General Dynamics, Honeywell), and conservative legal infrastructure (Senate Conservatives Fund, Law Enforcement for a Safer America PAC). The 2026 statewide Florida race will be the first test of whether the AG donor base scales to a Senate campaign and whether a deviation pattern emerges to signal independence. Until then, the 99.0% loyalty is the appointed senator's default.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Moody's AG career (2019-2024) was defined in part by healthcare litigation: joining multi-state ACA lawsuits, challenging vaccine mandates, opposing federal healthcare regulatory enforcement. Her direct PAC donor history includes Wellpoint (now Anthem/Elevance Health), Amgen, CVS/Aetna, the Anesthesiologists PAC, the American College of Radiology PAC, and Anthem directly. These are the companies and professional associations that operate within the regulatory framework she litigated against or enforced. The insurance and pharmaceutical industries funded the AG who led challenges to the ACA. The logic is not ideological capture: it is hedging. A Republican statewide officeholder in Florida who might become senator is worth maintaining regardless of whether they sued your regulatory framework. The investment in Moody the AG challenger became the investment in Moody the senator. The insurers gave to the politician who tried to eliminate their largest regulatory mandate (ACA exchanges) because she was winning, and because the alternative was giving money to someone else. The ideology and the donor interest aligned without either dictating to the other.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $1.4M (predominantly from FL AG campaign cycles, not Senate)
+- Super-PAC IE support (FOR): $197K (Senate Conservatives Fund $110K + Law Enforcement PAC $55K + Senate Conservatives Action $32K)
+- Super-PAC IE opposition (AGAINST): $15K (Out of the Swamp PAC)
+- No 2024 Senate fundraising cycle (she was appointed, not elected)
+
+### Top direct PAC donors (lifetime)
+
+- **NRSC**: $62K (party apparatus, one transaction)
+- **Republican Majority Fund**: $30K across 6 transactions
+- **Wellpoint/Anthem PAC**: $15K across 6 transactions (healthcare insurer regulated by FL AG)
+- **Anesthesiologists PAC**: $12K across 4 transactions
+- **Lockheed Martin PAC**: $12K across 7 transactions (highest direct PAC transaction count; defense, FL constituency)
+- **AMGEN PAC**: $10K
+- **Mercantile Bankshares PAC**: $10K
+- **Regions Financial PAC**: $10K
+- **Heartland Values PAC**: $10K
+
+### Top super-PAC IE support (FOR Senate)
+
+- **Senate Conservatives Fund**: $110K (conservative Senate caucus vehicle)
+- **Law Enforcement for a Safer America PAC**: $55K (law enforcement identity alignment)
+- **Senate Conservatives Action**: $32K
+
+### Notable frontmatter donor entries
+
+[[L3Harris Technologies]], [[BAE Systems]], [[Northrop Grumman]], [[General Dynamics]], [[Honeywell]] (defense; Florida military-base constituency: Eglin AFB, Patrick SFB, NAS Jacksonville, CENTCOM in Tampa). [[Senate Conservatives Fund]] (DeSantis-network aligned). [[Republican Jewish Coalition]] (pro-Israel conservative). [[NextEra Energy]] (Florida energy utility, major FL power company). [[Gilead Sciences]] (pharma).
+
+> [!money]
+> **The healthcare regulator-donor relationship.** Moody spent four years as Florida AG with jurisdiction over insurance markets, pharmaceutical pricing enforcement, and Medicaid fraud. Her direct donor list includes the Anesthesiologists PAC, the American College of Radiology PAC, Anthem/Wellpoint, Amgen, CVS/Aetna, and Humana. These are the professional associations and corporations whose regulatory environment she oversaw. Healthcare entities giving to a state AG who oversees their compliance environment is the textbook regulator-donor relationship. The Senate transition converts that relationship from state regulatory access to federal legislative access. The healthcare donors follow the politician from AG to Senate.
+
+---
+
+## Class Analysis
+
+Moody's donor coalition is not yet a Senate coalition. The $1.4M in direct PAC lifetime giving and the $197K in super-PAC support are AG-era accumulations. She was not elected to the Senate and ran no Senate campaign. The donor map reflects four years as Florida's top legal officer, during which healthcare companies, defense contractors, financial institutions, and conservative legal infrastructure funded her re-elections and shaped her relationships. The Senate career begins in 2025 with that inherited coalition and no statewide Senate mandate.
+
+The 99.0% loyalty rate and 7 deviations are the most extreme loyalty score in the Republican Senate cohort profiled here. There is nothing structurally remarkable about this: she was appointed, has never run a Florida Senate race, and has no deviation precedent to maintain. A senator who has never needed to signal independence to Florida voters does not have an established deviation pattern. This will change in 2026 when she faces a statewide election in a state where Republicans need to win around 49-51% to hold federal seats.
+
+The defense contractor presence (Lockheed, L3Harris, BAE, Northrop, General Dynamics, Honeywell) is the Florida constituency justification: Florida has the highest concentration of military installations of any state, with Eglin AFB (Panhandle), Patrick Space Force Base, NAS Jacksonville, CENTCOM in Tampa Bay, MacDill AFB. Any Florida senator regardless of committee assignment receives defense contractor attention. Lockheed Martin's 7-transaction relationship is the deepest in her direct PAC history, reflecting persistent engagement rather than one-cycle giving.
+
+The DeSantis appointment raises a structural question that the donor data cannot answer: does Moody's Senate positioning reflect her own politics, or DeSantis's political calculations about who should hold the seat? DeSantis could have appointed a placeholder senator and then appointed himself. He appointed Moody, who was term-limited as AG and needed a political future. The appointment was mutually beneficial: Moody gets a Senate seat, DeSantis keeps a loyalist in the seat who will not challenge his Florida political dominance. Whether the donor coalition shifts as Moody establishes her own Senate identity or remains tied to the DeSantis-network orthodoxy is the 2026 watch variable.
+
+---
+
+## Analytical Patterns
+
+**Pilot Program (appointed senator).** Moody's first year in the Senate is a test of whether an appointed AG with a legal-enforcement identity can convert statewide law enforcement credibility into a durable Senate brand. Florida Republicans have not lost a Senate seat since 2012. The brand just needs to hold through 2026. Whether her voting record shows any deviation development by then will indicate whether she is building her own Senate identity or serving as DeSantis's proxy.
+
+**Revolving Door (regulatory).** The AG-to-Senate pipeline is the state-level equivalent of the federal revolving door. As Florida AG, Moody exercised jurisdiction over the same industries that gave to her campaigns. She is now in the Senate, where some of those regulatory relationships convert to legislative ones. Healthcare companies that gave to the AG who oversaw their state compliance now give to the senator who votes on federal healthcare legislation. The individuals are the same; the legislative lever is different.
+
+**Genuine Win + Structural Limit (deferred).** There is no Genuine Win yet: no legislation, no contested election win, no Senate-specific policy delivery. The structural limit (donor coalition, DeSantis network) is already established before the win has been achieved. This is the appointed senator's specific situation: the constraints are in place before the electoral mandate is earned.
