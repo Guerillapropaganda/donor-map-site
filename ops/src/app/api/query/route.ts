@@ -33,15 +33,16 @@ export const dynamic = "force-dynamic"
 // Admin users bypass both caps.
 
 // Singleton engine — created once per server process, lazy-loads data
-// on first query and caches forever
-let _engine: ReturnType<typeof createQueryEngine> | null = null
+// on first query and caches forever. createQueryEngine is now async
+// (dynamic import of the CJS file) so we cache the Promise.
+let _enginePromise: ReturnType<typeof createQueryEngine> | null = null
 function getEngine() {
-  if (!_engine) _engine = createQueryEngine()
-  return _engine
+  if (!_enginePromise) _enginePromise = createQueryEngine()
+  return _enginePromise
 }
 
-function runSpec(spec: QuerySpec) {
-  const engine = getEngine()
+async function runSpec(spec: QuerySpec) {
+  const engine = await getEngine()
   return engine.query(spec)
 }
 
@@ -116,7 +117,7 @@ export async function GET(req: NextRequest) {
   try {
     const { searchParams } = new URL(req.url)
     const spec = specFromSearchParams(searchParams)
-    const result = runSpec(spec)
+    const result = await runSpec(spec)
     return NextResponse.json({
       ...result,
       _limits: {
@@ -144,7 +145,7 @@ export async function POST(req: NextRequest) {
       )
     }
     const spec: QuerySpec = { subject: body.subject, filters: body.filters || {} }
-    const result = runSpec(spec)
+    const result = await runSpec(spec)
     return NextResponse.json({
       ...result,
       _limits: {

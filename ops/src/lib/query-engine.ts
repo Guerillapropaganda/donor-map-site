@@ -22,48 +22,62 @@
  * changes — this adapter stays put.
  */
 
-let _engineModule: any = null
+import fs from "fs"
+import path from "path"
+import { pathToFileURL } from "url"
 
-function loadEngineModule() {
-  if (_engineModule) return _engineModule
+// Turbopack and webpack both refuse to let us require() an arbitrary
+// absolute path at runtime — they rewrite require into a bundler-aware
+// stub that only knows about modules collected at build time. Dynamic
+// import() is the native Node ESM escape hatch: Node loads file:// URLs
+// directly off disk, CJS interop wraps the exports as default.
+let _engineModulePromise: Promise<any> | null = null
 
-  // Escape webpack module resolution. Next.js bundles imports from
-  // "module" and "fs" into runtime stubs that mis-resolve filesystem
-  // paths. Using (0, eval)("require") gets the real Node require()
-  // at request time, untransformed. All three calls (path, fs, and
-  // the engine itself) live inside this lazy function so module-load
-  // stays side-effect-free for next-build's page-data phase.
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const nodeRequire: NodeRequire = (0, eval)("require")
-  const path: typeof import("path") = nodeRequire("path")
-  const fs: typeof import("fs") = nodeRequire("fs")
+function loadEngineModule(): Promise<any> {
+  if (_engineModulePromise) return _engineModulePromise
 
-  function findRepoRoot(startDir: string): string {
-    let dir = startDir
-    for (let i = 0; i < 8; i++) {
-      if (fs.existsSync(path.join(dir, "scripts", "lib", "query-engine.cjs"))) return dir
-      if (fs.existsSync(path.join(dir, ".git"))) return dir
-      const parent = path.dirname(dir)
-      if (parent === dir) break
-      dir = parent
+  _engineModulePromise = (async () => {
+    function findRepoRoot(startDir: string): string {
+      let dir = startDir
+      for (let i = 0; i < 8; i++) {
+        if (fs.existsSync(path.join(dir, "scripts", "lib", "query-engine.cjs"))) return dir
+        if (fs.existsSync(path.join(dir, ".git"))) return dir
+        const parent = path.dirname(dir)
+        if (parent === dir) break
+        dir = parent
+      }
+      return startDir
     }
-    return startDir
-  }
 
-  const cwd = process.cwd()
-  const root = findRepoRoot(cwd)
-  const enginePath = path.join(root, "scripts", "lib", "query-engine.cjs")
-  if (!fs.existsSync(enginePath)) {
-    throw new Error(
-      `query-engine.cjs not found. Tried: ${enginePath}. cwd=${cwd}. ` +
-        `Ensure the Ops dev server was started from the repo root or ops/.`,
-    )
-  }
-  _engineModule = nodeRequire(enginePath)
-  return _engineModule
+    const cwd = process.cwd()
+    const root = findRepoRoot(cwd)
+    const enginePath = path.join(root, "scripts", "lib", "query-engine.cjs")
+
+    if (!fs.existsSync(enginePath)) {
+      throw new Error(
+        `query-engine.cjs not found. Tried: ${enginePath}. cwd=${cwd}.`,
+      )
+    }
+
+    const url = pathToFileURL(enginePath).href
+    try {
+      const mod = await import(/* webpackIgnore: true */ /* @vite-ignore */ url)
+      // CJS interop: Node wraps module.exports in `default` when imported
+      // from ESM. Fall through to the top-level object if not.
+      return mod.default ?? mod
+    } catch (err) {
+      const e = err as Error & { code?: string }
+      throw new Error(
+        `Failed to load query-engine.cjs: ${e.message}. url=${url} code=${e.code || "unknown"}`,
+      )
+    }
+  })()
+
+  return _engineModulePromise
 }
 
-export const createQueryEngine: () => any = () => loadEngineModule().createQueryEngine()
+export const createQueryEngine: () => Promise<any> = async () =>
+  (await loadEngineModule()).createQueryEngine()
 
 export type QuerySpec = {
   subject:

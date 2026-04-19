@@ -160,7 +160,7 @@ function classify(
 
 async function handleQuestion(question: string): Promise<AskResult> {
   const c = classify(question)
-  const engine = createQueryEngine()
+  const engine = await createQueryEngine()
 
   if (c.intent === "cross_party_donors") {
     const r = await engine.query({
