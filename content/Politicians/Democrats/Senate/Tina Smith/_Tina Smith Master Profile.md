@@ -2,7 +2,9 @@
 title: Tina Smith
 type: politician
 content-readiness: draft
-last-updated: 2026-04-15T00:00:00.000Z
+central-thesis: "Tina Smith is the Planned Parenthood executive turned senator, the clearest donor-origin story in the Minnesota delegation: Planned Parenthood organizations are her top super-PAC backers because she literally ran one. The 96.6% party loyalty reflects a safe-seat senator without swing-state donor override pressure. The STOCK Act trades in health device companies while sitting on the HELP committee are the structural conflict: $2.2-4.9M in device stocks traded across the same device-regulation jurisdiction her committee covers."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -17,10 +19,8 @@ phone: 202-224-5641
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - No direct individual contribution data
+  - HELP committee assignment (known from biography, not yet in committee store)
 stock-trades: 23
 stock-trade-tickers:
   - PODD
@@ -164,7 +164,89 @@ top-policy-area: Health
 
 # Tina Smith
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Tina Smith. Democrat, Minnesota. US Senator since January 2018, appointed by Gov. Mark Dayton after Al Franken's resignation, then elected in the 2018 special election and re-elected 2020 and 2024. Born March 1958. Former Vice President of External Affairs at Planned Parenthood Minnesota, North Dakota, South Dakota (2003-2006), then Lieutenant Governor of Minnesota (2015-2018). Assigned to Agriculture, Banking, Energy and Natural Resources, and Health Education Labor and Pensions (HELP) committees. Top policy area is Health (131 cosponsored bills in that area in the 118th). 70 bills sponsored, 571 cosponsored, 0 enacted. Voting record: 96.6% party-line loyalty across 2,364 substantive votes, 72 deviations. 23 STOCK Act trades, estimated $2.2-4.9M value range, predominantly health-device company stocks.
+
+---
+
+## The Central Thesis
+
+Smith is the Planned Parenthood executive turned senator, the clearest donor-origin story in the Minnesota delegation. The $655K in super-PAC support from Planned Parenthood organizations (PP of MN at $413K, PP Action Fund at $242K) is not ideological alignment from external allies. It is an institution funding its own alumna. She ran Planned Parenthood Minnesota before becoming Lt. Governor. The advocacy organization she worked for became the largest outside spender for her Senate campaigns. The 96.6% party loyalty reflects a safe-seat senator operating without swing-state donor override pressure: Minnesota has not been competitive at the Senate level, so there is no swing-state constituency that requires ideological triangulation. The STOCK Act trades in health device companies (Insulet, DexCom, Abbott, Cutera) while sitting on HELP committee are the structural conflict between personal portfolio and legislative jurisdiction that defines the senator-investor problem. The farm state overlay (Agriculture committee, Southern MN Sugar Coop, Farm Credit donors) is the second constituency the Minnesota Senate seat requires: grain, sugar beets, dairy, and ethanol are the other half of the job.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Smith's public identity is as a health equity and reproductive rights senator. Her STOCK Act disclosures show 23 trades in health-device company stocks, estimated $2.2-4.9M value, across the same sector her HELP committee jurisdiction covers. Insulet Corporation (PODD, insulin pumps), DexCom (DXCM, continuous glucose monitoring), Abbott (ABT, diagnostics and devices), Cutera (CUTR, aesthetic devices), Tactile Systems (TCMD, lymphedema devices), Integra Lifesciences (IIN). These are medical device companies. Their pricing, reimbursement rates, FDA clearance timelines, and Medicare coverage decisions flow through committee jurisdiction Smith holds. The trades are all filed as spouse or joint account under STOCK Act reporting, which is legal. The regulatory overlap is real. A senator on HELP committee whose portfolio includes health-device equity is structurally positioned to benefit from decisions her committee influences. This is not the Paul Pelosi situation (naked call options on chip stocks days before a chip subsidy bill). It is the subtler version: sector alignment between personal investment and committee work, disclosed but not conflicted-out. Minnesota is also the medical device capital of the Midwest (Medtronic in Fridley, 3M Medical, Boston Scientific nearby). The geographic constituency rationale for device-sector interest exists. It does not eliminate the structural tension.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $4.7M
+- Party committee support: $2.1M
+- Super-PAC IE support (FOR): $1.6M (concentrated in Planned Parenthood and SEIU)
+- Super-PAC IE opposition (AGAINST): $477K (very low, reflecting safe seat)
+
+### Top direct PAC donors (lifetime)
+
+- **Great Lakes PAC**: $40K across 8 transactions (Midwestern Democratic leadership PAC network)
+- **Off the Sidelines PAC**: $35K across 7 transactions (Jeanne Shaheen's women's leadership PAC)
+- **Impact**: $35K across 7 transactions (Minnesota-based progressive PAC)
+- **Southern Minnesota Sugar Cooperative PAC**: $30K across 7 transactions (sugar beet growers, farm constituent)
+- **Farm Credit Council PAC**: $30K across 6 transactions (agriculture finance constituent)
+- **American Optometric Association PAC**: $30K across 6 transactions (health sector)
+- **Painters Union PAC**: $28K across 6 transactions (building trades labor)
+- **Norwest Corporation PAC**: $27K across 7 transactions (legacy financial sector)
+- **NATCA (Air Traffic Controllers)**: $25K across 15 transactions (rural aviation, agricultural aviation constituent)
+- **A New Direction PAC**: $25K across 9 transactions (Democratic leadership PAC)
+
+### Top super-PAC IE support (FOR)
+
+- **Planned Parenthood of MN Political Action Fund**: $413K (largest single outside spender; former employer)
+- **SEIU Political Campaign Committee**: $333K (healthcare labor, aligned with HELP committee work)
+- **Alliance for a Better Minnesota Federal PAC**: $279K (MN-based Democratic IE vehicle)
+- **Planned Parenthood Action Fund**: $242K (national PP super-PAC; second PP vehicle, $655K combined)
+- **LIUNA Minnesota North Dakota**: $67K (Laborers union, construction)
+
+### Super-PAC IE opposition (AGAINST)
+
+$477K total. Right Now USA ($160K), Americas PAC ($142K), Valor America ($102K), Heartland Fund ($73K). The opposition spending is marginal, consistent with a safe Democratic seat.
+
+### Notable frontmatter donor entries
+
+[[BAE Systems]] (defense, anomalous for a Health-focused senator), [[Citigroup]] (banking, Banking committee seat), [[CVS Health - Aetna]] (pharmacy and insurance, HELP jurisdiction), [[Demand Justice]] (judicial nominations advocacy), [[National Association of Realtors]] (standard Senate giving).
+
+> [!money]
+> **The Planned Parenthood feedback loop.** Smith's largest super-PAC backers are the two organizations she worked for professionally before entering politics. Planned Parenthood of MN and PP Action Fund together spent $655K to elect the senator who was their former VP of External Affairs. This is not ideological alignment. It is an institution funding its alumna for a legislative seat that directly governs abortion rights, contraception coverage mandates, and Title X family planning funding. The loop is closed: Smith works for PP, Smith becomes senator, PP funds Smith's campaigns, Smith governs the policy space PP operates in. The structure is legal and disclosed. The transactional clarity is unusual.
+
+---
+
+## Class Analysis
+
+Smith's donor coalition is the safe-seat Democratic architecture with a distinctive institutional origin. The Planned Parenthood organizations are dominant because she is their alumna and because reproductive rights policy is explicitly within her HELP committee jurisdiction. The SEIU relationship reflects healthcare labor's investment in a senator who votes on healthcare worker organizing rights and wages. The farm state donors (Sugar Coop, Farm Credit, NATCA) reflect the Agriculture committee constituency: Minnesota runs on agriculture, and every MN senator regardless of party needs the farm economy. The opposition spending at $477K total is the smallest in the Senate Democrat cohort profiled in this vault, confirming that Minnesota is not a competitive seat and that Smith does not face the swing-state donor override pressure that shapes Rosen, Slotkin, or Gallego.
+
+The STOCK Act trades are the structural anomaly. Twenty-three trades concentrated in medical device companies over 2018-2019, estimated $2.2-4.9M, during a period when Smith was first appointed and then elected to her HELP committee seat. Insulet (insulin pumps), DexCom (glucose monitoring), Cutera (aesthetics), Integra Lifesciences, Tactile Systems. These are device companies whose regulatory environment flows through FDA approval processes and CMS reimbursement decisions that HELP committee jurisdiction touches. Minnesota's status as a medical device hub (Medtronic corporate campus in Fridley, 3M Medical, substantial device manufacturing employment) provides geographic constituent rationale for device-sector investment. The rationale does not resolve the structural tension. It contextualizes it.
+
+The 96.6% party loyalty with 72 deviations is the lowest deviation count in the Senate cohort after Andy Kim (71). The deviations concentrate in PN (Presidential Nomination) Nay votes during Trump's first administration (116th Congress), where Smith voted against certain nominees the Democratic caucus ultimately allowed through. This pattern is not swing-state override: it is progressive senators voting against the party when the party votes to confirm Trump nominees. It registers as a deviation but runs in the more progressive direction, not the donor-class override direction.
+
+The 0 enacted bills across 70 sponsored is a structural Senate feature: sponsors in the minority, or without committee chair status, rarely get bills to the floor. The legislative productivity is better measured by cosponsorship breadth (571 bills across 10 policy areas) and by amendment success in committee markup, data not available in the current profile. The enacted record gap does not indicate legislative passivity but rather the Senate's structural barriers to individual senator productivity.
+
+---
+
+## Analytical Patterns
+
+**Revolving Door (institutional, not personal).** The standard revolving-door pattern involves movement between office and lobbying or contracting. Smith's version is the reverse: she moved from a major advocacy organization (Planned Parenthood MN) into the political office that governs the advocacy organization's operating environment. The institution did not place a former staffer in government. The former institutional employee won the government seat. The institution then became her largest super-PAC backer. Both directions of movement (institution to government, government funding from institution) are documented.
+
+**Donor-Class Override (absent).** Smith's safe Minnesota seat and homogeneous labor/Planned Parenthood donor coalition produce the cleanest absence of donor-class override in the Senate Democrat cohort. No defense contractors requiring foreign policy triangulation. No pharma giants requiring drug pricing carve-outs. No Wall Street requiring CFPB softening. The 96.6% loyalty record is what Democratic coalition discipline looks like without the corporate override layer that shapes swing-state colleagues.
+
+**Genuine Win + Structural Limit.** Smith's Health cosponsorship record (131 bills in the area) and her Planned Parenthood-aligned reproductive rights record represent genuine policy alignment with her donor base. The structural limit is the HELP committee stock trades: the sector where she is most legislatively active is also the sector where her personal portfolio had the most concentrated exposure during her first Senate term. The wins and the structural conflicts exist in the same policy space.
+
+**Two-Audience Problem (absent).** Unlike most senators profiled in this vault, Smith does not have a meaningful two-audience problem. Her public message to progressive Minnesota voters and her message to her donor coalition are the same message. Planned Parenthood, SEIU, and Minnesota DFL voters all want reproductive rights, healthcare labor protections, and agricultural support. The donor-public alignment is unusually coherent. What breaks the coherence is the STOCK Act record, which is visible to neither audience in any operationally meaningful way.
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
