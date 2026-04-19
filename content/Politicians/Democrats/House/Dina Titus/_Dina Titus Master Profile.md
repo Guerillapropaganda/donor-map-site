@@ -1,8 +1,10 @@
 ---
 title: Dina Titus
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Dina Titus is the Las Vegas Strip Democrat whose $6.8M lifetime direct PAC is the most gaming-and-hospitality-specific in this vault: MGM Grand PAC $100K/22 txns (the highest-dollar entry), UNITE HERE $80K/18 txns (hotel and hospitality workers), Painters $81K/20 txns and Carpenters $88K/20 txns (Las Vegas construction trades), and NBWA Beer Wholesalers $78K/28 txns (entertainment economy); the $11.2M in Republican super-PAC opposition (Congressional Leadership Fund $8.6M) reflects Nevada's swing-state status, and her one enacted bill (FAA Reauthorization Act 2024) combined with her top policy area of International Affairs reflects Foreign Affairs Committee work that sits entirely outside her casino-economy constituency."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -152,7 +154,88 @@ top-donors: "[[Unite Here Tip Campaign Committee]], [[Emily's List]], [[DCCC - D
 
 # Dina Titus
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Dina Titus. Democrat, Nevada-1 (Las Vegas downtown, the Strip corridor, and surrounding Clark County). First elected to Congress 2012 after losing the 2010 Nevada Senate race. Born May 1950 in Thomasville, Georgia. College of William and Mary and Florida State University graduate; University of Nevada Las Vegas political science professor (1977-2011), Nevada state legislature, Nevada state senator, and Nevada state Senate Majority Leader before Congress. Member of the House Transportation and Infrastructure Committee and Foreign Affairs Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 96.9% party-line loyalty across 1,613 substantive votes, 50 deviations. NV-1 has faced significant Republican outside spending despite Las Vegas's Democratic lean.
+
+---
+
+## The Central Thesis
+
+Titus is the Las Vegas Strip Democrat whose $6.8M lifetime direct PAC is the most gaming-and-hospitality-specific in this vault. MGM Grand PAC at $100K/22 txns is the lifetime highest-dollar direct PAC donor, reflecting a Las Vegas casino company maintaining access to the congresswoman who represents their business operations. UNITE HERE ($80K/18 txns) represents the hotel and hospitality workers who clean the rooms, serve the food, and staff the gaming floors that MGM and other Las Vegas casino companies operate. The Carpenters ($88K/20 txns), Painters ($81K/20 txns), and Beer Wholesalers ($78K/28 txns) complete the Las Vegas economy map: construction workers who built the casinos, finishing tradespeople who maintain them, and alcohol distributors who supply the bars. The $11.2M in Republican super-PAC opposition (Congressional Leadership Fund $8.6M, NRCC $1.7M, Americans for Tax Reform $622K) reflects Nevada's status as one of the few genuinely competitive states where Republicans target Las Vegas-adjacent seats. Her one enacted bill, the FAA Reauthorization Act 2024, and her top policy area of International Affairs (148 cosponsored bills) reflect Foreign Affairs Committee work that sits entirely outside the casino-economy donor base.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> MGM Grand's PAC is Titus's highest-dollar lifetime direct PAC donor at $100K/22 txns. The Las Vegas casino industry relies on hospitality workers who have some of the most documented labor disputes in the country: UNITE HERE has negotiated contracts with Las Vegas casino operators through repeated strike threats, and the gaming industry's labor record on tipped worker wages, healthcare benefits, and shift scheduling has been a consistent union-management battleground. Titus receives money from both MGM (the employer) and UNITE HERE (the union representing MGM's workers), with both donors appearing in the top direct PAC tier. The casino operator and the casino workers' union fund the same Las Vegas member simultaneously. This is the Las Vegas version of the both-sides pattern: employer and employee both investing in the member who represents their common geographic constituency, because both need the congresswoman's support in Washington regardless of their conflicting interests in collective bargaining.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $6.8M (12-year House accumulation; competitive Nevada seat)
+- Party committee support: $298K (DCCC; competitive seat with cycling pressure)
+- Super-PAC IE support (FOR): $3.9M (DCCC $1.2M dominant, Workers Vote $584K, SEIU $386K, LCV $253K, Opportunity for All $244K)
+- Super-PAC IE opposition (AGAINST): $11.2M (Congressional Leadership Fund $8.6M, NRCC $1.7M, Americans for Tax Reform $622K)
+
+### Top direct PAC donors (lifetime): Las Vegas economy
+
+**Gaming and hospitality:**
+- **MGM Grand PAC**: $100K across 22 transactions (lifetime highest; Las Vegas casino operations; genuine constituency)
+- **UNITE HERE (DRIVE)**: $80K across 18 transactions (hotel and hospitality workers; genuine Las Vegas constituency)
+- **NBWA (Beer Wholesalers)**: $78K across 28 transactions (Las Vegas entertainment economy)
+
+**Construction and building trades:**
+- **Carpenters**: $88K across 20 transactions (Las Vegas construction; genuine constituency)
+- **Painters**: $81K across 20 transactions (Las Vegas finishing trades)
+
+**Multi-use access:**
+- **AFSCME**: $86K across 33 transactions
+- **TWU**: $86K across 26 transactions
+- **Realtors PAC**: $85K across 36 transactions (Nevada real estate; Nevada's housing market has been volatile)
+- **DRIVE (Teamsters)**: $83K across 20 transactions
+
+### Data-panel top donors
+
+- **Congressional Leadership Fund**: $8.6M (AGAINST; Republican opposition; largest single relationship in panel)
+- **Opportunity for All Action Fund**: $244K (FOR)
+- **DCCC**: $210.7K (FOR)
+- **LCV**: $65.6K (FOR)
+- **AFP Action**: $58.8K (AGAINST; Koch network)
+- **NAR**: $55.5K
+- **SEIU**: $48.6K
+- **Teamsters**: $32.2K
+- **AIPAC**: $31K (Foreign Affairs Committee access)
+- **AFSCME**: $30K
+
+> [!money]
+> **CLF $8.6M vs. DCCC $1.2M + SEIU $386K + Workers Vote $584K.** The Congressional Leadership Fund spent $8.6M against Dina Titus, the largest single outside-spending relationship in her profile. Democrats and their aligned groups counter-deployed $3.9M FOR. The net outside-spending deficit for Titus (roughly $7.3M net Republican advantage in outside spending) reflects Nevada-1's real vulnerability despite its Las Vegas Democratic lean. The CLF does not spend $8.6M on a safe Democratic seat; it spends to contest a district where they believe a Republican can win if properly resourced. The Republican outside-spending arms race in NV-1 reflects the national Republican strategy of contesting urban-adjacent Nevada seats as part of their Nevada Senate and presidential battleground investment.
+
+---
+
+## Class Analysis
+
+Titus's $6.8M record is the most geographically coherent in the House Democrat cohort examined in this vault: the top direct PAC donors literally map Las Vegas's economic structure. MGM (gaming) + UNITE HERE (hospitality labor) + Carpenters + Painters (construction trades) + Teamsters + Beer Wholesalers = the physical economy of a city built on casino construction, hotel service, and entertainment spending. No other member in this session's cohort has this degree of constituency-economy mirroring in the direct PAC record. A replacement member from NV-1 with identical committee assignments would receive roughly the same donor map, because the donor map reflects the Las Vegas economy rather than Titus's individual legislative record.
+
+The construction trades cluster (Carpenters $88K, Painters $81K) reflects Las Vegas's perpetual building cycle: the Strip has been under construction continuously since the 1990s, and construction union workers in Clark County are both a significant voter constituency and a significant PAC-giving constituency. These are genuine constituent relationships, not committee-access payments.
+
+The Realtors PAC ($85K/36 txns) is the one access entry without obvious Las Vegas constituency logic at scale: Nevada's real estate market is more volatile than most states (it was the hardest-hit market in the 2008 housing crisis), and the Realtors' access investment in Titus reflects the same national strategy visible in every other state's House delegation.
+
+The Foreign Affairs Committee work is the policy disconnect: with 148 International Affairs bills cosponsored (the highest policy area), Titus is doing committee work that has no Las Vegas constituency rationale. The casino economy does not need Foreign Affairs legislation; AIPAC ($31K in data panel) reflects the district-agnostic access giving that Foreign Affairs Committee membership generates. The FAA Reauthorization Act enacted in 2024 reflects her Transportation subcommittee work, which is more Las Vegas-relevant (McCarran International Airport is one of the busiest in the country).
+
+The 50 deviations at 96.9% loyalty include a mixed pattern: rightward Yea votes (HR 3638, HR 4305, HCONRES 58, S 1582 crypto bill, HR 35) and leftward Nay votes (HRES 893 Tlaib censure, HRES 537). The S 1582 Yea and FairShake PAC in her top-donors list are consistent: crypto industry giving correlating with a pro-crypto vote.
+
+---
+
+## Analytical Patterns
+
+**Both-Sides Illusion.** MGM Grand (employer) and UNITE HERE (the hotel and hospitality union) both appear in Titus's top direct PAC donors. They are in an ongoing collective bargaining relationship. Both fund the same Las Vegas congresswoman because they both need her support in Washington, regardless of their opposing interests on the Las Vegas Strip. This is not ideological contradiction; it is the geographic-constituency logic at its most concentrated: everyone who depends on Las Vegas's economy funds Las Vegas's member.
+
+**Genuine Win + Structural Limit.** The FAA Reauthorization Act is Titus's legislative win: Transportation and Infrastructure Committee work that produced an enacted bill. The structural limit is that her most funded committee (Foreign Affairs, per cosponsored bill counts) has no Las Vegas constituency connection and the access money it generates (AIPAC, foreign policy organizations) reflects national-access maintenance rather than constituent service.
 
 
 ### Legislative Activity (118th Congress)
