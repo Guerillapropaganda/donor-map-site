@@ -2,7 +2,9 @@
 title: Jacky Rosen
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12T00:00:00.000Z
+central-thesis: "Jacky Rosen is the Nevada Democratic senator whose 2024 reelection survived $51.2M in IE opposition by running on a bipartisan-moderate brand backed by a donor coalition of defense contractors, Israel-lobby PACs, gaming-industry money, and the union infrastructure that produces Nevada's Democratic majority."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -158,7 +160,88 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 # Jacky Rosen
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Jacky Rosen. Democrat, Nevada. US Senator since January 2019, reelected November 2024 against Republican Sam Brown. Previously House member for NV-3 (2017 to 2019). Born August 1957. Pre-Congress: software developer and former president of Congregation Ner Tamid, one of Nevada's largest Reform Jewish congregations. Top legislative policy area is Armed Forces and National Security. Assigned to Senate Armed Services, Commerce, and Small Business committees. 66 bills sponsored, 379 cosponsored, 1 enacted in the 118th Congress. Voting record: 93.1% party loyalty across 2,132 substantive votes, 143 deviations.
+
+---
+
+## The Central Thesis
+
+Rosen's 2024 reelection is the test case for how a Nevada Democrat survives the post-Dobbs, post-October-7, swing-state political environment. FEC bulk data records $15.0 million in super-PAC IE support and $51.2 million in opposition ($18.9M SLF PAC, $15.1M NRSC, $12.1M Win It Back PAC). The coalition that produced the win has four components: defense-industry donors (Lockheed, Raytheon, Northrop Grumman, BAE, L3Harris, Leidos, General Dynamics, Honeywell) aligned with her Armed Services seat; Israel-lobby PACs (AIPAC PAC $62K direct, DMFI, NORPAC) that bought distance from the progressive-left critique of Israel policy; gaming-industry giving (American Gaming Association on the donor list) reflecting Nevada's dominant economic sector; and the union infrastructure (Culinary Local 226, IBEW, SEIU, Teamsters, AFSCME, Workers Vote super PAC $1.9M) that organizes the Nevada Democratic majority. Each component has a distinct ask. The coalition holds because no single component's ask blocks another's.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Rosen campaigns on a "bipartisan problem-solver" frame emphasizing Nevada workers, veterans, and small-business issues, and her Jewish-community biography is a central authenticity marker. Meanwhile, **the AIPAC PAC contributed $62K across 50 transactions to her direct campaign, and DMFI and NORPAC appear on her donor list**, placing her inside the Israel-lobby donor network that spent $14.9 million defeating Jamaal Bowman in 2024 for challenging that same network. Rosen's voting record on Israel military aid and related measures tracks AIPAC's preferences. The "bipartisan moderate" brand is genuine at the level of floor speeches on roads, veterans benefits, and Nevada-specific concerns. At the level of the donor-policed votes (Israel aid, NDAA authorization, defense procurement), the record runs through the donor network's priorities rather than through Nevada-median-voter preferences on those questions.
+
+---
+
+## Donor Class Map
+
+### Top direct PAC donors (lifetime)
+- **SCHIFF(T) THE SENATE** (Schiff leadership PAC): $66K
+- **AIPAC PAC**: $62K across 50 transactions
+- **DSCC**: $47K
+- **CWA-COPE**: $45K
+- **Credit Union CUNA PAC**: $35K
+- **National Association of Health Underwriters**: $31K
+- **Newmont Mining (Nevada gold-mining)**: $30K
+- **NATCA PAC**: $26K
+- **Amalgamated Transit Union**: $25K
+- **Perimeter PAC**: $25K
+
+### Top super-PAC IE support (FOR)
+- **Somos PAC**: $1.9M (Latino voter mobilization)
+- **Workers Vote**: $1.9M (union infrastructure)
+- **LCV Victory Fund**: $1.3M
+- **NextGen Climate Action**: $1.2M
+- **New American Jobs Fund**: $918K
+
+### Top super-PAC IE opposition (AGAINST)
+- **SLF PAC**: $18.9M
+- **NRSC**: $15.1M
+- **Win It Back PAC**: $12.1M (Club for Growth-aligned)
+- **State Action Fund PAC**: $2.5M
+- **Americans for Prosperity Action**: $1.3M
+
+### Sector composition
+Defense and intelligence contractors (Lockheed Martin, Raytheon RTX, Northrop Grumman, BAE Systems, L3Harris, Leidos, General Dynamics, Honeywell, Booz Allen-adjacent) appear across the donor list with modest PAC contributions, reflecting her Armed Services seat. Pharma and health (Pfizer, Gilead, Humana, Amgen, AbbVie, CVS-Aetna, Anthem, Johnson & Johnson, American College of Radiology) reflect committee relevance and the health-industry diversification of Nevada's economy. Gaming (American Gaming Association) is the Nevada-specific sector signal. Tech (Google, Microsoft, Comcast). Financial services (Bank of America, Citigroup). Union giving is the counterweight to the corporate layer.
+
+> [!money]
+> **The $51M Opposition Problem.** Rosen drew $51.2 million in IE opposition spending, the second-highest Democratic Senate target of 2024 after Slotkin. Republican concentration at this level reflects the structural vulnerability of a Nevada Democratic senator in a state Trump won at the top of the ticket (Nevada went Republican presidential in 2024 for the first time since 2004). Rosen won anyway, by approximately 1.2 points, because the union infrastructure (Culinary Local 226 and affiliated SEIU/Teamsters organizations) produced a ground game that national IE spending could not match. The donor class and the union class collaborated to hold a seat neither could have held alone. The class alliance is what made the defense-industry donor-layer votes affordable.
+
+---
+
+## Class Analysis
+
+Nevada's political economy rests on three pillars: the gaming/hospitality industry (roughly 27% of state employment), federal facilities (Nellis Air Force Base, Creech Air Force Base, the Nevada National Security Site, Hawthorne Army Depot), and a growing tech/data-center corridor in Reno and Las Vegas. Rosen's donor map reflects all three. The American Gaming Association line item is the gaming-industry marker. The Armed Services assignment and the defense-contractor donor layer are the federal-facility marker. The tech-company giving (Google, Microsoft, Apple, Amazon-adjacent) is the data-center and platform-economy marker. What binds these together politically is the Culinary Union Local 226 and the broader Nevada labor federation, which mobilizes the largely Latino and immigrant-origin workforce that services the gaming economy. The Democratic coalition in Nevada is that specific alliance, and Rosen's coalition management is the operational expression of it.
+
+The Israel-lobby alignment is the most politically visible piece and the one most at tension with her Democratic primary electorate. AIPAC PAC contributed $62K across 50 transactions, a pattern indicating relationship-building across multiple cycles rather than one-time support. DMFI and NORPAC appear on the donor list. The Schiff leadership PAC ($66K) signals network alignment with the Democratic foreign-policy establishment that tracks AIPAC's priorities. The tradeoff is explicit: Rosen supports Israel military aid and related measures without conditions, and in return the Israel-lobby network does not primary her and contributes directly to her reelection. Nevada Democratic primary voters polling on conditioning Israeli aid show majority support for conditions. Rosen's vote does not reflect that majority. The donor-class override is functioning as designed.
+
+The voting record deviations tell a consistent swing-state story. 143 deviations from party majority, pattern running right: "Yea" on motions and nominations where Democrats voted "Nay," consistent with cross-party cooperation on confirmations and specific procedural questions. This is the same pattern seen in Slotkin, Jon Tester (when he was in office), and other swing-state Democrats. The deviations are not ideological heterodoxy in a progressive or libertarian direction. They are institutional lubricant for the appropriations, confirmations, and NDAA pipeline that the defense-industry and financial-services donors need to continue moving. The 93.1% party loyalty floor is what keeps her inside the Democratic coalition. The 6.9% of deviations is what keeps her acceptable to the donor-class preferences that sit underneath.
+
+The systemic observation is that Rosen represents the Nevada model of Democratic swing-state survival, which is distinctive from the Maryland model (safe-state progressive brand with defense-intelligence donor map) and the Michigan model (high-opposition Slotkin variant requiring crypto and defense money to survive). The Nevada model combines Culinary Union ground game with Israel-lobby and defense-industry donor money, holds the seat with a 1- to 2-point margin, and produces the voting record the donor coalition needs. Replace Rosen with another Nevada Democrat and the same model runs again. The individual politician is downstream of the state's specific class structure.
+
+---
+
+## Analytical Patterns
+
+**Two-Audience Problem.** Nevada voters hear messaging on veterans, small business, and Culinary Union priorities. The donor class sees the Israel-aid votes, the NDAA authorizations, and the confirmation-vote deviations that keep the appropriations pipeline moving. Both are real. They address different audiences.
+
+**Donor-Class Override.** Nevada Democratic primary polling on conditioning Israeli military aid shows majority support for conditions. Rosen's voting record and AIPAC PAC funding track the opposite position. The concentrated donor preference overrides the diffuse primary-voter preference.
+
+**Both-Sides Illusion (donor-class variant).** Rosen's donor list pairs Sierra Club Independent Action (progressive environmental) with Lockheed Martin (defense capital) and AIPAC PAC (Israel lobby). The progressive environmental donors get climate-bill cosponsorship and LCV Victory Fund reciprocity. The defense and Israel donors get the votes on the items that matter to them.
+
+**Revolving Door.** Nevada's federal-facility economy produces a continuous pipeline between Armed Services staff roles, defense-contractor Nevada operations, and Rosen's office. The pipeline is operational rather than ideological.
+
+**Genuine Win + Structural Limit.** Rosen has produced real victories on Nevada-specific infrastructure, veterans services, and Las Vegas transit funding. These are wins. The structural limit is that none of them touch the defense-industry budget envelope, the Israel-aid framework, or the gaming-industry regulatory posture that her donor base collectively defends.
+
+**Pilot Program.** Rosen's 2024 coalition (Culinary Union + Israel lobby + defense contractors + tech/pharma) is the pilot model for Nevada Democratic Senate survival in a state trending Republican at the presidential level. If the model survives 2026 and 2028 election cycles, it becomes the template for other swing-state Democrats facing similar pressure.
+
+---
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
