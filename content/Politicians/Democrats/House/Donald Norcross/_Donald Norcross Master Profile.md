@@ -1,8 +1,10 @@
 ---
 title: Donald Norcross
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Donald Norcross is the South Jersey union electrician-turned-congressman whose $6.6M lifetime direct PAC is the most building-trades concentrated in this vault, with ten of the top ten lifetime direct PAC donors being construction, industrial, and building trades unions (Painters $84K, IBEW $80K, UFCW $75K, Carpenters $75K, AFT $75K, Ironworkers $75K, Sheet Metal $74K, UNITE $70K, Bricklayers $70K, Teamsters $65K); his Armed Services Committee membership produces the defense data panel (Lockheed $31.3K, Northrop $30K, Raytheon $25K, L3Harris $24.5K), and his one enacted bill is a provision in the FY2024 National Defense Authorization Act."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -140,7 +142,79 @@ top-donors: "[[L3Harris Technologies]], [[PG&E - Pacific Gas and Electric]], [[B
 
 # Donald Norcross
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Donald Norcross. Democrat, New Jersey-1 (Camden, Cherry Hill, and southern New Jersey). First elected 2014 in a special election. Former IBEW Local 351 union electrician and labor leader; served as international vice president of IBEW. Brother of George Norcross, the South Jersey Democratic political organization's longtime leader. Born December 1958 in Camden. Member of the House Armed Services Committee and Education and the Workforce Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.1% party-line loyalty across 1,567 substantive votes, 45 deviations. NJ-1 is a safe Democratic district.
+
+---
+
+## The Central Thesis
+
+Norcross is the South Jersey union electrician-turned-congressman whose $6.6M lifetime direct PAC is the most building-trades concentrated in this vault. Ten of the top ten lifetime direct PAC donors are construction, industrial, and building trades unions: Painters $84K/18 txns (highest), IBEW $80K/16 txns, UFCW $75K/19 txns, Carpenters $75K/15 txns, AFT $75K/16 txns, Ironworkers $75K/18 txns, Sheet Metal Workers $74K/16 txns, UNITE $70K/15 txns, Bricklayers $70K/15 txns, and Teamsters $65K/18 txns. Not a single non-union donor appears in the direct PAC top ten. This is unique in the vault's House Democrat cohort: every other member in this session has at least one industry or corporate PAC in their top-ten direct donors. Norcross's direct PAC top ten is entirely union, reflecting both his biographical identity (he was an IBEW electrician before Congress) and the South Jersey labor organizing tradition. The Armed Services Committee membership produces the defense data panel (Lockheed Martin $31.3K, Northrop Grumman $30K, Raytheon $25K, L3Harris $24.5K) entirely through committee-access logic.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> AIPAC is Norcross's highest data-panel entry at $34.9K, reflecting the organization's district-agnostic access strategy. NJ-1 (Camden, Cherry Hill, southern New Jersey) has a Jewish community in Cherry Hill but is not a district where AIPAC's access investment would be driven by constituency composition at this dollar level. Norcross voted Nay on HRES 537 (June 2025) when the Democratic majority voted Aye. HRES 537 was an Israel-related resolution; AIPAC supported the majority position. A member with $34.9K in AIPAC access money broke with AIPAC's preferred position on an Israel-related vote. The access money and the vote go in different directions, reflecting the same pattern seen across this vault: AIPAC maintains access giving regardless of individual vote compliance, because the cost of an annual access payment is lower than the cost of losing access entirely. Norcross's labor identity is genuine (he was an electrician); his AIPAC access relationship is structural (he sits in Congress and votes on foreign policy). The two operate in separate circuits without canceling each other out.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $6.6M (10-year accumulation; safe seat)
+- Super-PAC IE support (FOR): $1.0M (HMP $816K dominant; Patriot Majority USA $215K)
+- Super-PAC IE opposition (AGAINST): $0 recorded
+
+### Top direct PAC donors (lifetime): ten-for-ten building trades
+
+- **Painters (IUPAT)**: $84K across 18 transactions (highest lifetime; no NJ-1 constituency rationale beyond general labor alignment)
+- **IBEW**: $80K across 16 transactions (Norcross's personal union; biographical identity giving)
+- **UFCW**: $75K across 19 transactions
+- **Carpenters**: $75K across 15 transactions
+- **AFT (American Federation of Teachers)**: $75K across 16 transactions
+- **Ironworkers**: $75K across 18 transactions
+- **Sheet Metal Workers**: $74K across 16 transactions
+- **UNITE (garment workers)**: $70K across 15 transactions
+- **Bricklayers**: $70K across 15 transactions
+- **DRIVE (Teamsters)**: $65K across 18 transactions
+
+### Data-panel top donors: AIPAC + defense access
+
+- **AIPAC**: $34.9K (highest in panel; district-agnostic access)
+- **Lockheed Martin**: $31.3K (Armed Services Committee access)
+- **Northrop Grumman**: $30K (Armed Services Committee access)
+- **IBEW**: $30K (biographical identity)
+- **AFSCME**: $27.5K
+- **UFCW**: $25K
+- **UNITE HERE**: $25K
+- **Raytheon**: $25K (Armed Services access)
+- **NEA**: $25K
+- **L3Harris**: $24.5K (Armed Services access)
+
+> [!money]
+> **The all-union top-ten.** No other profile in this vault's House Democrat cohort has a direct PAC top-ten composed entirely of labor unions. Every other member has at least one industry PAC, corporate PAC, or professional association PAC in their top ten. Norcross's record reflects both his pre-congressional identity (IBEW electrician, labor leader) and South Jersey's organizing culture, where labor unions have been the dominant political fundraising infrastructure for decades. The IBEW's $80K/16 txns is a union giving to one of its own members: Norcross was in their ranks before he was in Congress. The biographical connection between member and donor is the strongest in this cohort, stronger even than Sherman (CPA/AICPA) or Pingree (organic farmer/American Crystal Sugar), because Norcross was an IBEW card-holder rather than simply a member of the profession.
+
+---
+
+## Class Analysis
+
+Norcross's $6.6M record is the building-trades union machine rendered as a campaign finance profile. The ten-for-ten union top-ten is not a coincidence; it reflects a specific organizing tradition in South Jersey where labor unions are the primary political infrastructure, and where a member who came up through the labor movement maintains those relationships through sustained giving. The Painters at $84K (highest lifetime donor) do not have an obvious NJ-1 constituency connection; painters give to Norcross because he is a labor-aligned member who came from a construction trade and votes their interests. The entire top-ten operates on this logic.
+
+The Armed Services Committee addition produces a completely separate access-donor tier in the data panel: Lockheed, Northrop, Raytheon, L3Harris. These four companies have no South Jersey constituency rationale. Lockheed operates in nearby Moorestown, NJ, which provides a partial constituency connection (defense manufacturing employment), but Northrop, Raytheon, and L3Harris give because Armed Services Committee membership generates access regardless of geographic proximity. Norcross's enacted bill (a provision in the FY2024 NDAA) reflects the committee work that produces both the policy output and the access-giving rationale.
+
+The 45 deviations at 97.1% loyalty include both rightward Yea votes (HCONRES 58, HR 3109, HR 875, HR 27, HR 23, HR 2189, HR 8446) and leftward Nay votes (HRES 537, HR 6500, HR 3383). The mixed pattern suggests a member who takes crossover votes in both directions for specific issue-based reasons rather than systematic positioning for electoral advantage.
+
+---
+
+## Analytical Patterns
+
+**Revolving Door (biographical identity).** Norcross is the clearest case of biographical-identity giving in this vault: he was an IBEW electrician and labor leader before Congress, and IBEW gives to him as a member-turned-legislator. The conflict of interest and the genuine representation are the same credential: he knows labor's interests because he lived them, and he legislates in their favor for the same reason. Whether this produces policy that serves workers broadly or specifically the labor organizations that fund him requires committee-level analysis not available in the current profile data.
+
+**Genuine Win + Structural Limit.** The NDAA provision is Norcross's enacted win. The structural limit is that NDAA provisions for a member on Armed Services Committee attract defense-contractor access money from companies that have no South Jersey constituency relationship. Norcross can be a genuine labor champion and simultaneously be an Armed Services access target for defense contractors. The two functions operate independently in different legislative and funding circuits.
 
 
 ### Legislative Activity (118th Congress)
