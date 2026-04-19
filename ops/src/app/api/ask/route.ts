@@ -349,29 +349,60 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
   const forward = r1.rows || []
   const reverse = r2.rows || []
 
-  const forwardTotal = forward.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + Number(e.amount), 0)
-  const reverseTotal = reverse.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + Number(e.amount), 0)
-  const rows = [...forward.map((e: any) => ({ direction: "→", ...e })), ...reverse.map((e: any) => ({ direction: "←", ...e }))]
+  // Separate monetary edges (the ones with real dollars) from "related"
+  // and other weak-signal types that exist only because one side was
+  // wiki-linked from the other.
+  const monetaryForward = forward.filter((e: any) => e.type === "monetary" && e.amount)
+  const monetaryReverse = reverse.filter((e: any) => e.type === "monetary" && e.amount)
+  const affiliationForward = forward.filter((e: any) => e.type === "affiliation")
+  const affiliationReverse = reverse.filter((e: any) => e.type === "affiliation")
+  const fwdTotal = monetaryForward.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
+  const revTotal = monetaryReverse.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
 
-  let summary: string
-  if (rows.length === 0) {
-    summary = `No direct edges found between ${a.title} and ${b.title} in the canonical store. Try asking for one side's donors or recipients, or the money chain between them.`
-  } else {
+  // If direct monetary edges exist, great — just show them.
+  if (monetaryForward.length + monetaryReverse.length + affiliationForward.length + affiliationReverse.length > 0) {
+    const rows = [
+      ...monetaryForward.map((e: any) => ({ direction: "→", kind: "direct $", ...e })),
+      ...monetaryReverse.map((e: any) => ({ direction: "←", kind: "direct $", ...e })),
+      ...affiliationForward.map((e: any) => ({ direction: "→", kind: "affiliation", ...e })),
+      ...affiliationReverse.map((e: any) => ({ direction: "←", kind: "affiliation", ...e })),
+    ]
     const parts: string[] = []
-    if (forward.length) parts.push(`${a.title} → ${b.title}: ${forward.length} edge(s), $${(forwardTotal / 1e6).toFixed(2)}M total`)
-    if (reverse.length) parts.push(`${b.title} → ${a.title}: ${reverse.length} edge(s), $${(reverseTotal / 1e6).toFixed(2)}M total`)
-    summary = parts.join("; ")
+    if (monetaryForward.length) parts.push(`${a.title} → ${b.title}: ${monetaryForward.length} monetary edge(s), $${(fwdTotal / 1e6).toFixed(2)}M`)
+    if (monetaryReverse.length) parts.push(`${b.title} → ${a.title}: ${monetaryReverse.length} monetary edge(s), $${(revTotal / 1e6).toFixed(2)}M`)
+    if (affiliationForward.length || affiliationReverse.length) parts.push(`${affiliationForward.length + affiliationReverse.length} affiliation edge(s)`)
+    return {
+      question,
+      intent: "edge_between",
+      resolved_title: a.title,
+      resolved_title_2: b.title,
+      did_you_mean: [...(a.candidates || []), ...(b.candidates || [])].filter(Boolean).slice(0, 5),
+      total: rows.length,
+      rows: rows.slice(0, 50),
+      summary: parts.join("; "),
+    }
   }
 
-  return {
+  // No direct monetary / affiliation edges. Fall through to money-chain BFS
+  // so the user sees intermediary paths (this is the common case — e.g.
+  // "elon musk funds donald trump" flows through America PAC, not directly).
+  const chain = await handleMoneyChain(
+    { intent: "money_chain", subjectName: a.title, objectName: b.title },
     question,
+  )
+
+  const haveRelatedOnly = [...forward, ...reverse].filter((e: any) => e.type === "related").length > 0
+
+  return {
+    ...chain,
     intent: "edge_between",
     resolved_title: a.title,
     resolved_title_2: b.title,
     did_you_mean: [...(a.candidates || []), ...(b.candidates || [])].filter(Boolean).slice(0, 5),
-    total: rows.length,
-    rows: rows.slice(0, 50),
-    summary,
+    summary:
+      chain.total > 0
+        ? `No direct monetary edge in the store. Found ${chain.total} money-chain path(s) through intermediaries (up to 3 hops). ${haveRelatedOnly ? "The two profiles are also linked via vault-side 'related' references. " : ""}Ranked by min-edge bottleneck.`
+        : `No direct monetary edge AND no money chain within 3 hops. They may not be connected through tracked dollar flows yet. Try asking for one side's donors/recipients.`,
   }
 }
 
@@ -389,23 +420,25 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     .filter((e: any) => e.amount)
     .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
     .slice(0, 5)
-    .map((e: any) => ({ kind: "top-donor", from: e.from, amount: e.amount, cycle: e.cycle, source: e.source }))
+    .map((e: any) => ({ kind: "top-donor", from: e.from, to: name, amount: e.amount, cycle: e.cycle, source: e.source }))
 
   const topOut = [...(outflows.rows || [])]
     .filter((e: any) => e.amount)
     .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
     .slice(0, 5)
-    .map((e: any) => ({ kind: "top-recipient", to: e.to, amount: e.amount, cycle: e.cycle, source: e.source }))
+    .map((e: any) => ({ kind: "top-recipient", from: name, to: e.to, amount: e.amount, cycle: e.cycle, source: e.source }))
 
-  const boards = [...(affiliations_from.rows || [])].slice(0, 5).map((e: any) => ({
+  const boards = [...(affiliations_from.rows || [])].slice(0, 10).map((e: any) => ({
     kind: "board-seat",
+    from: name,
     to: e.to,
     role: e.role,
     date_range: e.date_range,
   }))
-  const officers = [...(affiliations_to.rows || [])].slice(0, 5).map((e: any) => ({
+  const officers = [...(affiliations_to.rows || [])].slice(0, 10).map((e: any) => ({
     kind: "officer",
     from: e.from,
+    to: name,
     role: e.role,
     date_range: e.date_range,
   }))
@@ -414,19 +447,49 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
   if (ent?.capital_type) classTags.push(`capital_type:${ent.capital_type}`)
   if (ent?.ideological_function && ent.ideological_function.length > 0)
     classTags.push(...ent.ideological_function.map((f) => `ideological_function:${f}`))
-
   const tagRows = classTags.map((t) => ({ kind: "class-tag", tag: t }))
+
+  // For PEOPLE (or anyone with 0 direct edges), also pull flows from the
+  // orgs they chair. Money doesn't usually flow through a person's name —
+  // it flows through their foundation / c4 / super PAC. Show those.
+  const viaOrgs: Array<Record<string, unknown>> = []
+  if (topIn.length === 0 && topOut.length === 0 && boards.length > 0) {
+    for (const b of boards.slice(0, 3)) {
+      const orgName = b.to as string
+      if (!orgName) continue
+      const orgIn = await engine.query({ subject: "edges", filters: { to: orgName, type: "monetary" }, limit: 50 })
+      const orgOut = await engine.query({ subject: "edges", filters: { from: orgName, type: "monetary" }, limit: 50 })
+      ;[...(orgIn.rows || [])]
+        .filter((e: any) => e.amount)
+        .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
+        .slice(0, 3)
+        .forEach((e: any) =>
+          viaOrgs.push({ kind: `via ${orgName} (in)`, from: e.from, to: orgName, amount: e.amount, cycle: e.cycle, source: e.source }),
+        )
+      ;[...(orgOut.rows || [])]
+        .filter((e: any) => e.amount)
+        .sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0))
+        .slice(0, 3)
+        .forEach((e: any) =>
+          viaOrgs.push({ kind: `via ${orgName} (out)`, from: orgName, to: e.to, amount: e.amount, cycle: e.cycle, source: e.source }),
+        )
+    }
+  }
+
+  const rows = [...tagRows, ...topIn, ...topOut, ...boards, ...officers, ...viaOrgs]
 
   return {
     question,
     intent: "summary",
     resolved_title: name,
     did_you_mean: r.candidates.slice(0, 5),
-    total: topIn.length + topOut.length + boards.length + officers.length + tagRows.length,
-    rows: [...tagRows, ...topIn, ...topOut, ...boards, ...officers],
+    total: rows.length,
+    rows,
     summary:
       `${name} (${ent?.entity_type || "unknown"}${ent?.signals?.sector ? ", " + (ent.signals.sector as string) : ""}): ` +
-      `${inflows.total} inbound edges, ${outflows.total} outbound edges, ${affiliations_from.total + affiliations_to.total} affiliations. ` +
+      `${inflows.total} inbound edges, ${outflows.total} outbound edges, ${affiliations_from.total + affiliations_to.total} affiliations` +
+      (viaOrgs.length > 0 ? ` (plus ${viaOrgs.length} flows surfaced via orgs this person chairs)` : "") +
+      `. ` +
       (classTags.length > 0 ? `Class tags: ${classTags.join(", ")}.` : "No class tags approved."),
   }
 }

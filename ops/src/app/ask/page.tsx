@@ -167,9 +167,17 @@ function ResultCard({ r }: { r: AskResponse }) {
     )
   }
 
-  const headers = r.rows.length > 0 ? Object.keys(r.rows[0] as Row) : []
+  // Collect keys from ALL rows — rows can have heterogeneous shapes
+  // (summary intent mixes class-tag, board-seat, top-donor, top-recipient
+  // rows with different field sets).
+  const headerSet = new Set<string>()
+  for (const row of r.rows) for (const k of Object.keys(row as Row)) headerSet.add(k)
+  const headers = [...headerSet]
   const prioritized = [
+    "kind",
+    "tag",
     "cycle",
+    "direction",
     "from",
     "to",
     "amount",
