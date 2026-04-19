@@ -1,8 +1,10 @@
 ---
 title: Chellie Pingree
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
+central-thesis: "Chellie Pingree is the Maine organic farmer progressive whose $2.3M lifetime direct PAC combines a labor coalition (Machinists $90K, AFT $83K, NEA $78K, Laborers $73K, Trial Lawyers $68K, AFSCME $61K) with General Dynamics at $81K/40 txns, the third-highest lifetime donor by transactions, where the GD giving reflects Bath Iron Works's Navy destroyer construction in Maine rather than ideological alignment; the American Crystal Sugar PAC ($45K/9 txns) is the industrial monoculture agricultural industry giving to an Agriculture Committee member whose sustainable food and fisheries advocacy runs directly contrary to consolidated sugar production."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: House
@@ -150,7 +152,83 @@ top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[Internati
 
 # Chellie Pingree
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Chellie Pingree. Democrat, Maine-1 (Portland, southern Maine coast, and islands). First elected 2008. Organic farmer; owns North Haven Farm on a Penobscot Bay island. Maine state legislature (1992-2000), Maine Senate Majority Leader before Congress. Member of the House Appropriations Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.8% party-line loyalty across 1,642 substantive votes, 36 deviations. ME-1 is a safe Democratic district covering Maine's more urban and coastal communities; no meaningful Republican pressure.
+
+---
+
+## The Central Thesis
+
+Pingree is the Maine organic farmer progressive whose $2.3M lifetime direct PAC combines a labor coalition with General Dynamics as its third-highest lifetime donor by transaction count. Machinists ($90K/18 txns), AFT ($83K/19 txns), NEA ($78K/24 txns), Laborers ($73K/19 txns), Realtors PAC ($71K/34 txns), Trial Lawyers ($68K/29 txns), and AFSCME ($61K/28 txns) form the labor and access core. General Dynamics at $81K/40 txns sits between AFT and NEA in the lifetime ranking, and 40 transactions over 16 years (2.5 per year) reflects a sustained relationship driven by Bath Iron Works: the General Dynamics subsidiary that builds US Navy destroyers in Bath, Maine, one of the state's largest manufacturing employers. American Crystal Sugar PAC at $45K/9 txns is the agricultural-access anomaly: an industrial monoculture sugar cooperative giving to a member who co-sponsors fisheries sustainability bills, organic food legislation, and working waterfront disaster relief.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Pingree is an organic farmer who advocates for sustainable food systems: she cosponsors the O DAIRY Act (organic dairy support), the Sustaining America's Fisheries for the Future Act, Working Waterfront legislation, and World Food Day resolutions. The American Crystal Sugar Political Action Committee gave her $45K across 9 transactions. American Crystal Sugar is the dominant industrial sugar beet processor in the United States, a company whose monoculture production model, pesticide use, and consolidation of agricultural land represent the opposite of sustainable food systems Pingree advocates publicly. The company gives to Agriculture Committee members regardless of those members' farming philosophy because Appropriations and Agriculture committee votes affect sugar price supports, import quotas, and the Farm Bill provisions that determine their profitability. Pingree's identity as a farmer does not insulate her from the sugar industry's access-giving strategy; it may make her a more valuable target, because a farmer-member who votes on agricultural subsidies carries more credibility in committee than a non-farming member.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $2.3M (modest for 16-year Appropriations member; reflects Maine's small population and low competitive pressure)
+- Party committee support: $105K
+- Super-PAC IE support (FOR): $81K (Progressive Turnout Project $61K dominant)
+- Super-PAC IE opposition (AGAINST): $104K (Super PAC for America $87K; NRCC $16K; Republican opposition in earlier cycles)
+
+### Top direct PAC donors (lifetime): labor coalition + Bath Iron Works
+
+**Labor coalition:**
+- **Machinists (IAM)**: $90K across 18 transactions (highest lifetime; Maine has significant manufacturing)
+- **AFT (American Federation of Teachers)**: $83K across 19 transactions
+- **General Dynamics**: $81K across 40 transactions (third by transactions; Bath Iron Works constituency driving)
+- **NEA**: $78K across 24 transactions
+- **Laborers (LIUNA)**: $73K across 19 transactions
+- **Trial Lawyers (ATLA)**: $68K across 29 transactions
+- **AFSCME**: $61K across 28 transactions
+- **CUNA (Credit Unions)**: $50K across 18 transactions
+
+**Agricultural access:**
+- **Realtors PAC**: $71K across 34 transactions (access; Maine housing market has tightened significantly due to remote worker migration)
+- **American Crystal Sugar PAC**: $45K across 9 transactions (industrial sugar; Agriculture/Appropriations access)
+
+### Data-panel top donors
+
+- **AFSCME**: $30K
+- **General Dynamics**: $25.5K (second in panel; Bath Iron Works, Maine)
+- **Raytheon (RTX)**: $25K (Appropriations access)
+- **NEA**: $25K
+- **NAR**: $20K
+- **Lockheed Martin**: $10K (Appropriations access)
+- **Walmart/Walton Family**: $8.5K (out-of-state retail access)
+- **J Street**: $6.6K (progressive pro-peace; consistent with Pingree's Israel-vote deviations)
+
+> [!money]
+> **General Dynamics $81K/40 txns: Bath Iron Works drives the relationship.** General Dynamics's Bath Iron Works subsidiary is located in Bath, Maine, approximately 35 miles north of Portland. Bath Iron Works builds Arleigh Burke-class destroyers for the US Navy and employs approximately 6,000 workers, making it one of Maine's largest manufacturing employers. Every Navy shipbuilding contract that passes through the House Appropriations Committee affects Bath Iron Works's workforce. General Dynamics gives to Pingree not because she supports expanded military spending in the abstract, but because Bath Iron Works's contracts depend on Navy shipbuilding budget lines that the Appropriations Committee funds. The 40 transactions at 2.5 per year reflect a company maintaining continuous access to a committee member whose votes directly affect their Maine facility's production schedule and workforce.
+
+---
+
+## Class Analysis
+
+Pingree's $2.3M record is structurally straightforward: Maine's labor coalition (machinists, teachers, education workers, construction laborers, public employees, trial lawyers) dominates the direct PAC record, and General Dynamics fills the third slot by virtue of Bath Iron Works's geographic and economic significance to Maine. The labor-union dominance is not a national-access pattern; the IAM giving to a Maine progressive reflects actual machinist workers in Maine's manufacturing sector. The same logic applies to the Laborers giving (construction workers) and AFSCME (state and local government workers).
+
+General Dynamics at $81K/40 txns breaks the labor-pure pattern and breaks it with a constituency rationale that is real but not ideologically aligned with Pingree's brand. Bath Iron Works is the kind of defense employer a progressive appropriator represents honestly: the workers are union members (IAM-represented), the facility is in her state, and the product (naval destroyers) is not the kind of weapons system progressive critics target as instruments of specific foreign military operations. A member can be skeptical of defense spending growth while still fighting to maintain her state's shipyard contracts. The 40 transactions over 16 years suggest GD's Bath Iron Works relationship began before Pingree joined Appropriations and has continued as an ongoing constituency-maintenance investment.
+
+The American Crystal Sugar PAC ($45K/9 txns) is the sharpest ideological mismatch in the file. American Crystal Sugar is the Midwest sugar beet cooperative that has spent decades fighting to maintain the US sugar program, which keeps domestic sugar prices artificially high through import quotas and price supports. Pingree grows organic produce and advocates for sustainable food systems, fisheries sustainability, and dairy farmers. The sugar cooperative's access investment in a member who is an organic farmer and Agriculture Committee cosponsorer reflects the standard PAC strategy: maintain relationships with every Agriculture Committee-adjacent member, regardless of that member's farming philosophy, because the sugar program survives on bipartisan agricultural-committee support. Pingree's farmer identity may even make her a more valuable access target: a member who can credibly claim to understand agriculture carries more persuasive weight in committee than a non-farming urbanite.
+
+The 36 deviations at 97.8% loyalty include consistent Nay votes when the Democratic majority voted Aye on Israel-related resolutions (HRES 1213 in May 2024, HRES 537 in June 2025, S 331 in June 2025), a Nay on HR 8333 (defense authorization, September 2024), and a Nay on HR 2483 (June 2025). The J Street presence in the data panel and the absence of AIPAC is consistent with the deviation pattern: Pingree breaks left from the caucus majority on Israel votes, and her pro-Israel access money flows from J Street (progressive pro-peace) rather than AIPAC.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** Pingree's sustainable agriculture and fisheries advocacy is genuine: her bill list includes the O DAIRY Act, Sustaining America's Fisheries for the Future Act, Working Waterfront legislation, and food system policy. The structural limit is that American Crystal Sugar and the Realtors PAC access money flows regardless of her advocacy positions. The sugar industry does not require her to support their specific policy preferences; they require her to remain accessible and open to agriculture conversations. The access payment is a relationship maintenance fee, not a policy purchase.
+
+**Revolving Door (industry constituency).** Bath Iron Works/General Dynamics gives at the constituency-service level: protecting Maine shipyard jobs is genuinely Pingree's job. The "revolving door" here operates at the geographic level rather than the personnel level: Maine's shipbuilding identity locks the district's representative into a defense-industry access relationship that transcends the member's ideological preferences. A progressive who represents Bath will take General Dynamics money. This is not corruption; it is the structural reality of representing a defense-manufacturing community while holding progressive positions on other issues.
 
 
 ### Legislative Activity (118th Congress)
