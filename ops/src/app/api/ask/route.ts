@@ -164,6 +164,11 @@ const MANUAL_VEHICLE_MAP: Record<string, string[]> = {
   "Nancy Pelosi": ["House Majority PAC", "HMP"],
   "Kevin McCarthy": ["Congressional Leadership Fund", "CLF", "American Action Network"],
   "Hakeem Jeffries": ["House Majority PAC", "HMP"],
+  "AIPAC - American Israel Public Affairs Committee": [
+    "United Democracy Project - UDP",
+    "Standing Strong PAC",
+    "People Standing Strong",
+  ],
 }
 
 // ─── Officer registry (IRS 990 Part VII) ─────────────────────────────
