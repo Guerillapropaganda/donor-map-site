@@ -132,6 +132,43 @@ top-policy-area: Health
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,384 |
+| Votes with party majority | 1,285 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 97 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 97):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s235-118.1 | Nay | Y | PN 677 |
+| September  | s234-118.1 | Nay | Y | PN 677 |
+| September  | s227-118.1 | Nay | Y | H.R. 4366 |
+| October 9, | s562-119.1 | Yea | N | — |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Roger Marshall. Republican senator from Kansas since 2021. Previously served in the U.S. House representing Kansas's 1st District (2017-2021) — the "Big First," one of the largest agricultural districts in the country. Serves on the Agriculture, Nutrition, and Forestry Committee; Health, Education, Labor, and Pensions (HELP) Committee; Finance Committee (new in 119th Congress); and Budget Committee. Chairs the Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and the HELP Subcommittee on Primary Health and Retirement Security. Board-certified obstetrician/gynecologist who delivered over 5,000 babies in Great Bend, Kansas. Army Reserve veteran (1984-1991). B.S. in biochemistry from Kansas State University; M.D. from the University of Kansas School of Medicine. Top industry donor: Health Professionals ($667,476 in 2019-2024 cycle). Funding split: 52% large individual contributions, 35% PAC, 8% small donors.
@@ -280,43 +317,6 @@ The $15.6M in opposition spending includes Club for Growth Action ($642K against
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,384 |
-| Votes with party majority | 1,285 |
-| Party-line loyalty | 92.8% |
-| Deviations from party | 97 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 97):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 9, | s562-119.1 | Yea | N | — |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
-
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

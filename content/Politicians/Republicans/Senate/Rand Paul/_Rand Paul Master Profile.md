@@ -73,6 +73,47 @@ donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libert
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,593 |
+| Votes with party majority | 2,116 |
+| Party-line loyalty | 81.6% |
+| Deviations from party | 472 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 472):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s214-118.1 | Nay | Y | PN 645 |
+| September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s535-119.1 | Nay | Y | H.R. 5371 |
+| September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s199-116.2 | Yea | N | — |
+| September  | s198-116.2 | Nay | Y | S. 178 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Rand Paul. Junior Senator from Kentucky (2011–present). Son of former Representative Ron Paul (TX), the libertarian movement's patriarch. Ophthalmologist who practiced in Bowling Green, Kentucky. Self-certified by a board he created himself (National Board of Ophthalmologists) after objecting to the American Board of Ophthalmology's recertification requirements. Ran for President in 2016; dropped out after poor showing in Iowa. Senate Foreign Relations Committee, Homeland Security and Governmental Affairs Committee. Net worth: estimated $2–3 million. The Senate's most prominent self-described libertarian.
@@ -258,46 +299,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,593 |
-| Votes with party majority | 2,116 |
-| Party-line loyalty | 81.6% |
-| Deviations from party | 472 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 472):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s535-119.1 | Nay | Y | H.R. 5371 |
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s199-116.2 | Yea | N | — |
-| September  | s198-116.2 | Nay | Y | S. 178 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

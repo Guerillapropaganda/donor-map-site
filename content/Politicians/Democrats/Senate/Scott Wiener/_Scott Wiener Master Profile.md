@@ -88,6 +88,11 @@ None yet. Potential sub-notes: Real estate donor relationships, SB 35/SB 50 hous
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Scott Wiener (born May 11, 1970, San Francisco) represents California's 11th Senate District (San Francisco and parts of San Mateo County) since 2016. Previously served on the SF Board of Supervisors representing Harvey Milk's former District 8. Harvard Law graduate. Chairs the Senate Budget & Fiscal Review and Elections Committees. Co-chaired the CA Legislative Jewish Caucus (stepped down February 2026). A prominent LGBTQ legislator who has authored over 100 bills on housing, transit, climate, and technology. Running for Congress (CA-11) with $2.78M raised and $2.27M cash on hand.
@@ -202,10 +207,6 @@ His congressional campaign fundraising is notably cleaner than his career patter
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

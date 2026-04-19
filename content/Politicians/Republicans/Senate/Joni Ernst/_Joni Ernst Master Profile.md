@@ -128,6 +128,47 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,685 |
+| Votes with party majority | 2,589 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 91 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 91):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s248-118.2 | Nay | Y | PN 1399 |
+| September  | s211-115.2 | Nay | Y | H.R. 6157 |
+| September  | s227-118.1 | Nay | Y | H.R. 4366 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Joni Ernst. U.S. Senator from Iowa (2015–2026, retiring). Born July 1, 1970, in Montgomery County, Iowa. Iraq War combat veteran (Lieutenant Colonel, U.S. Army Reserve). Iowa State Senator (2011–2014). Famous for farm-based brand identity ("make 'em squeal" TV ads from her 2014 House campaign referencing pig farming background). Won her Senate seat in 2014 with massive [[Koch Network - Charles Koch|Koch Network]] support. Reelected in 2020 with 6.6-point margin (51.8%) — comfortable but showing Iowa's gradual shift away from Republicans. Announced September 2, 2025, that she would not seek reelection in 2026. The vault's case study in how Koch Network money and agribusiness donations fund politicians whose "family farmer" brand masks corporate agricultural capture.
@@ -374,46 +415,6 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,685 |
-| Votes with party majority | 2,589 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 91 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 91):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s211-115.2 | Nay | Y | H.R. 6157 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge

@@ -135,6 +135,37 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 204 |
+| Substantive votes (Y/N) | 200 |
+| Votes with party majority | 194 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 6 |
+
+**Coverage:**
+
+- house 119/1: 80 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 6):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Raul Grijalva represented Arizona's 7th Congressional District (southern Arizona — Tucson, Yuma, border communities) and served as Ranking Member and Chair Emeritus of the House Natural Resources Committee until his death on November 29, 2025, at age 78. He served in Congress from 2003 to 2025 and was co-chair of the Congressional Progressive Caucus (2009-2015).
@@ -344,36 +375,6 @@ Grijalva spent two decades fighting battles with no corporate lobby behind them.
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 204 |
-| Substantive votes (Y/N) | 200 |
-| Votes with party majority | 194 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 6 |
-
-**Coverage:**
-
-- house 119/1: 80 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 6):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
-| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

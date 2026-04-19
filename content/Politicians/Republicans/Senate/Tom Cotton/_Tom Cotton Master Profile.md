@@ -73,6 +73,47 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,693 |
+| Votes with party majority | 2,628 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 60 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 60):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| September  | s248-118.2 | Nay | Y | PN 1399 |
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| October 31 | s339-116.1 | Nay | Y | — |
+| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
+| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
+| November 2 | s303-118.2 | Nay | Y | PN 2041 |
+| May 4, 201 | s121-115.1 | Nay | Y | H.R. 244 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservative donor class's favorite product. Harvard College (3-year accelerated), Harvard Law, law clerk (5th Circuit), McKinsey & Company, Army Infantry officer (Iraq, Afghanistan, Bronze Star). Won 2014 Senate race at age 37 with $7.1 million raised — and $960,000 from Bill Kristol's Emergency Committee for Israel, plus the #2 largest donor being [[Paul Singer|Paul Singer]]'s Elliott Management. [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-attributed spending for his 2014 race: reported at $2-4.5 million. Authored the Iran letter (47 Republican senators writing Iran's leadership to undermine Obama's nuclear deal) — the letter that made a freshman senator the neoconservative movement's champion. Armed Services Committee (Airland, Cybersecurity, Strategic Forces). FORCE Act: $43 billion for Indo-Pacific military infrastructure. Opposed the First Step Act (justice system reform) — called it "the worst mistake of Trump's first term." Wrote the NYT "Send in the Troops" op-ed (June 2020) advocating military deployment against protesters — the editor was forced to resign, the Times retracted. RAISE Act (with David Perdue): cut legal immigration from 1M+ to 500K, eliminate diversity lottery. The Harvard-McKinsey-Goldman pipeline packaged as "Arkansas values" — the most elite-credentialed senator in the chamber running as an anti-establishment hawk, funded entirely by East Coast neoconservative billionaires.
@@ -292,44 +333,3 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: GovTrack.us](https://www.govtrack.us/congress/members/412508)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001095)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 
-
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,693 |
-| Votes with party majority | 2,628 |
-| Party-line loyalty | 97.6% |
-| Deviations from party | 60 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 60):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 24 | s248-115.1 | Nay | Y | H.R. 2266 |
-| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
-| October 23 | s246-115.1 | Nay | Y | H.R. 2266 |
-| November 2 | s303-118.2 | Nay | Y | PN 2041 |
-| May 4, 201 | s121-115.1 | Nay | Y | H.R. 244 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->

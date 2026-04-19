@@ -91,6 +91,11 @@ related: "[[_Donald Trump Master Profile|Trump]] · [[_Markwayne Mullin Master P
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Kristi Lynn Noem (born November 30, 1971). Republican politician who served as the 8th United States Secretary of Homeland Security from January 2025 until her removal in March 2026. Previously the 33rd Governor of South Dakota (2019–2025) and U.S. Representative for South Dakota's at-large congressional district (2011–2019). State legislator (2007–2011).
@@ -188,10 +193,6 @@ The firing tells the class story most clearly. Trump did not fire Noem for the c
 ---
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

@@ -158,6 +158,47 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,359 |
+| Votes with party majority | 2,138 |
+| Party-line loyalty | 90.6% |
+| Deviations from party | 213 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 213):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s204-115.2 | Nay | Y | PN 1650 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Cory Booker. Democrat, New Jersey. Senator since 2013. Former Mayor of Newark (2006-2013). 2020 presidential candidate. Member of the Judiciary, Foreign Relations, and Agriculture committees. In April 2025, Booker broke the Senate record for longest floor speech, 25 hours and 5 minutes, protesting Trump's health care and Social Security executive orders.
@@ -491,46 +532,6 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 <!-- auto:fec-politician pending-merge end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,359 |
-| Votes with party majority | 2,138 |
-| Party-line loyalty | 90.6% |
-| Deviations from party | 213 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 213):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge

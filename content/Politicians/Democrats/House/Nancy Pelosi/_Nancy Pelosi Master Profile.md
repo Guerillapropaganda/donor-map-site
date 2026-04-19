@@ -93,6 +93,44 @@ top-policy-area: Government Operations and Politics
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,735 |
+| Substantive votes (Y/N) | 1,523 |
+| Votes with party majority | 1,509 |
+| Party-line loyalty | 99.1% |
+| Deviations from party | 14 |
+
+**Coverage:**
+
+- house 117/1: 9 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 14):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
+| 2024-09-24 | h448-118.2 | Yea | N | HR 8790 |
+| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
+| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
+| 2024-05-22 | h226-118.2 | Aye | N | HR 4763 |
+| 2024-04-12 | h117-118.2 | Aye | N | — |
+| 2023-11-08 | h623-118.1 | No | Y | — |
+| 2023-09-28 | h491-118.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Nancy Patricia Pelosi (née D'Alesandro). Born March 26, 1940, Baltimore, Maryland. Democrat. Speaker of the United States House of Representatives (2007–2011, 2019–2023). U.S. Representative from California's 5th/8th/11th/12th district since 1987. House Democratic Leader (2003–2023). First woman to serve as Speaker of the House.
@@ -515,43 +553,6 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 <!-- auto:fec-summary end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,735 |
-| Substantive votes (Y/N) | 1,523 |
-| Votes with party majority | 1,509 |
-| Party-line loyalty | 99.1% |
-| Deviations from party | 14 |
-
-**Coverage:**
-
-- house 117/1: 9 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 14):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
-| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
-| 2024-09-24 | h448-118.2 | Yea | N | HR 8790 |
-| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
-| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
-| 2024-05-22 | h226-118.2 | Aye | N | HR 4763 |
-| 2024-04-12 | h117-118.2 | Aye | N | — |
-| 2023-11-08 | h623-118.1 | No | Y | — |
-| 2023-09-28 | h491-118.1 | No | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

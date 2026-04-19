@@ -148,6 +148,47 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,515 |
+| Votes with party majority | 2,362 |
+| Party-line loyalty | 93.9% |
+| Deviations from party | 144 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 144):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s243-118.1 | Yea | N | S.J.Res. 24 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s183-116.2 | Nay | Y | PN 1508 |
+| September  | s176-116.2 | Nay | Y | PN 1538 |
+| September  | s181-116.2 | Nay | Y | PN 1508 |
+| September  | s170-116.2 | Nay | Y | PN 1383 |
+| September  | s175-116.2 | Nay | Y | PN 1531 |
+| September  | s174-116.2 | Nay | Y | PN 1538 |
+| September  | s173-116.2 | Nay | Y | PN 1531 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Amy Klobuchar. Democrat, Minnesota. Senator since 2007. Chair of the Judiciary Subcommittee on Competition Policy, Antitrust, and Consumer Rights, the Senate's primary antitrust jurisdiction. Former Hennepin County Attorney (1999-2007). 2020 presidential candidate. Klobuchar has positioned herself as the Senate's antitrust champion, authoring the American Innovation and Choice Online Act (targeting Big Tech self-preferencing) and the Competition and Antitrust Law Enforcement Reform Act.
@@ -388,46 +429,6 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,515 |
-| Votes with party majority | 2,362 |
-| Party-line loyalty | 93.9% |
-| Deviations from party | 144 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 144):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s243-118.1 | Yea | N | S.J.Res. 24 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s183-116.2 | Nay | Y | PN 1508 |
-| September  | s176-116.2 | Nay | Y | PN 1538 |
-| September  | s181-116.2 | Nay | Y | PN 1508 |
-| September  | s170-116.2 | Nay | Y | PN 1383 |
-| September  | s175-116.2 | Nay | Y | PN 1531 |
-| September  | s174-116.2 | Nay | Y | PN 1538 |
-| September  | s173-116.2 | Nay | Y | PN 1531 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

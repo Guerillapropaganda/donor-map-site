@@ -168,6 +168,44 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,691 |
+| Votes with party majority | 1,568 |
+| Party-line loyalty | 92.7% |
+| Deviations from party | 123 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 123):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-15 | h29-119.2 | Nay | Y | — |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-09-10 | h258-119.1 | Aye | N | — |
+| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-07-18 | h207-119.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Ilhan Omar. Democratic Representative from Minnesota's 5th District (Minneapolis). Somali-American refugee who arrived in the U.S. at age 14 after four years in a Kenyan refugee camp. First Somali-American elected to Congress. One of the first two Muslim women elected to Congress (2018, alongside Rashida Tlaib). Original "Squad" member. Current committee assignments: Budget and Education committees (removed from Foreign Affairs by House Republicans in 2023).
@@ -435,43 +473,6 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 <!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,691 |
-| Votes with party majority | 1,568 |
-| Party-line loyalty | 92.7% |
-| Deviations from party | 123 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 123):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-15 | h29-119.2 | Nay | Y | — |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-09-10 | h258-119.1 | Aye | N | — |
-| 2025-09-02 | h220-119.1 | Nay | Y | HR 747 |
-| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
-| 2025-07-18 | h207-119.1 | Aye | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

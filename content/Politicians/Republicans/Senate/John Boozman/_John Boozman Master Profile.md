@@ -120,6 +120,47 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,722 |
+| Votes with party majority | 2,662 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 55 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 55):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| September  | s248-118.2 | Nay | Y | PN 1399 |
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| October 31 | s339-116.1 | Nay | Y | — |
+| October 26 | s271-118.1 | Nay | Y | — |
+| November 7 | s293-118.1 | Yea | N | PN 649 |
+| November 6 | s292-118.1 | Yea | N | PN 649 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 John Boozman is the senior senator from Arkansas and chairs the Senate Agriculture, Nutrition, and Forestry Committee, the Senate counterpart to Glenn Thompson's House Agriculture Committee. Together, the two write the Farm Bill. Boozman also sits on the Appropriations Committee, where he chairs the Military Construction and Veterans Affairs subcommittee.
@@ -327,46 +368,6 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,722 |
-| Votes with party majority | 2,662 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 55 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 55):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 26 | s271-118.1 | Nay | Y | — |
-| November 7 | s293-118.1 | Yea | N | PN 649 |
-| November 6 | s292-118.1 | Yea | N | PN 649 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

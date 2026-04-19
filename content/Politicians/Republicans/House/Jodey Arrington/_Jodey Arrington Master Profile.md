@@ -139,6 +139,44 @@ donors: [[Americans for Prosperity]] [[American Farm Bureau Federation]] [[Herit
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,644 |
+| Votes with party majority | 1,547 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 97 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 97):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-14 | h109-119.2 | Nay | Y | HR 1011 |
+| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2025-12-15 | h335-119.1 | Nay | Y | S 284 |
+| 2025-12-09 | h315-119.1 | Nay | Y | S 356 |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
+| 2025-07-18 | h209-119.1 | Aye | N | — |
+| 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jodey Arrington. Republican, Texas's 19th District (Lubbock, one of the largest agriculture and energy districts in the nation). Chair of the House Budget Committee and senior member of the House Ways and Means Committee. First elected in 2016. Before Congress, Arrington served as Chief of Staff at the FDIC under George W. Bush (one of the youngest in FDIC history at age 28), worked in the Bush White House as Associate Director of Presidential Personnel, then moved to Texas Tech University System as Vice Chancellor, and finally served as President of Scott Laboratories, a Lubbock healthcare innovation company. Announced retirement in November 2025 after shepherding Trump's reconciliation megabill through his committee.
@@ -349,43 +387,6 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,644 |
-| Votes with party majority | 1,547 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 97 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 97):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-04-14 | h109-119.2 | Nay | Y | HR 1011 |
-| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
-| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2025-12-15 | h335-119.1 | Nay | Y | S 284 |
-| 2025-12-09 | h315-119.1 | Nay | Y | S 356 |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-| 2025-07-18 | h209-119.1 | Aye | N | — |
-| 2025-06-23 | h174-119.1 | Nay | Y | HR 3422 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

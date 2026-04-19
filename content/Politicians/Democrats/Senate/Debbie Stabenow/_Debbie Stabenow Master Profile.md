@@ -129,6 +129,45 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,009 |
+| Substantive votes (Y/N) | 1,944 |
+| Votes with party majority | 1,832 |
+| Party-line loyalty | 94.2% |
+| Deviations from party | 104 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+
+**Most recent party-line deviations (top 10 of 104):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s204-115.2 | Nay | Y | PN 1650 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s283-116.1 | Yea | N | PN 135 |
+| September  | s282-116.1 | Yea | N | PN 135 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s272-116.1 | Nay | Y | PN 631 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 [[_Debbie Stabenow Master Profile|Debbie Stabenow]] served as United States Senator from Michigan from January 2001 to January 2025, a 24-year Senate career capping a 50-year run as an elected official. Born April 29, 1950, in Gladwin, Michigan. B.A. from Michigan State University (1972), M.S.W. from Michigan State (1975). Elected to the Ingham County Board of Commissioners at age 24 (1975–1978), youngest and first woman to chair it. Michigan House of Representatives (1979–1990), first woman to preside over the chamber. Michigan Senate (1991–1994). U.S. House of Representatives, 8th District (1997–2001). Defeated one-term Republican incumbent Spencer Abraham for the Senate in 2000 by 1.5 points. Reelected 2006 (57%), 2012 (59%), 2018 (52%). First woman elected to the U.S. Senate from Michigan. Announced retirement January 5, 2023; succeeded by Elissa Slotkin.
@@ -286,45 +325,6 @@ party:: Democrat
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,009 |
-| Substantive votes (Y/N) | 1,944 |
-| Votes with party majority | 1,832 |
-| Party-line loyalty | 94.2% |
-| Deviations from party | 104 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-
-**Most recent party-line deviations (top 10 of 104):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s283-116.1 | Yea | N | PN 135 |
-| September  | s282-116.1 | Yea | N | PN 135 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s272-116.1 | Nay | Y | PN 631 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
-
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

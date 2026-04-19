@@ -138,6 +138,47 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,658 |
+| Votes with party majority | 2,546 |
+| Party-line loyalty | 95.8% |
+| Deviations from party | 107 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 107):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s221-118.1 | Yea | N | PN 673 |
+| September  | s222-118.1 | Yea | N | PN 673 |
+| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
+| September  | s254-118.2 | Yea | N | PN 1902 |
+| September  | s253-118.2 | Yea | N | PN 1902 |
+| September  | s305-116.1 | Yea | N | S.Res. 333 |
+| September  | s250-118.2 | Yea | N | PN 1342 |
+| September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| October 4, | s249-118.1 | Yea | N | PN 676 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Shelley Moore Capito is the senior senator from West Virginia and chairs the Senate Environment and Public Works Committee — the body with jurisdiction over the EPA, Clean Air Act, Clean Water Act, Superfund, highway infrastructure, and environmental regulation. She has served in the Senate since 2015 and previously represented West Virginia's 2nd Congressional District in the House for 14 years (2001-2015).
@@ -353,46 +394,6 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,658 |
-| Votes with party majority | 2,546 |
-| Party-line loyalty | 95.8% |
-| Deviations from party | 107 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 107):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s221-118.1 | Yea | N | PN 673 |
-| September  | s222-118.1 | Yea | N | PN 673 |
-| September  | s252-118.2 | Nay | Y | S.Con.Res. 41 |
-| September  | s254-118.2 | Yea | N | PN 1902 |
-| September  | s253-118.2 | Yea | N | PN 1902 |
-| September  | s305-116.1 | Yea | N | S.Res. 333 |
-| September  | s250-118.2 | Yea | N | PN 1342 |
-| September  | s251-118.2 | Yea | N | PN 1342 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge

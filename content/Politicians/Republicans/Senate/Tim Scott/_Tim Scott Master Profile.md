@@ -133,6 +133,47 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,561 |
+| Votes with party majority | 2,485 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 72 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 72):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| September  | s248-118.2 | Nay | Y | PN 1399 |
+| September  | s208-115.2 | Yea | N | — |
+| September  | s227-118.1 | Nay | Y | H.R. 4366 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Tim Scott, U.S. Senator from South Carolina (2013–present). Chairman of the Senate Banking, Housing, and Urban Affairs Committee (2025–present; Ranking Member 2023–2024). Also serves on the Finance Committee and Foreign Relations Committee. Only Black Republican senator. 2024 presidential candidate (suspended November 2023). Author of Opportunity Zones legislation in the 2017 Tax Cuts and Jobs Act. Evangelical Christian. Endorsed Trump for president in January 2024 after dropping his own bid; became VP shortlist finalist before JD Vance was selected.
@@ -328,46 +369,6 @@ The class function Scott performs is unique and cannot be replicated by a white 
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,561 |
-| Votes with party majority | 2,485 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 72 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 72):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| September  | s208-115.2 | Yea | N | — |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

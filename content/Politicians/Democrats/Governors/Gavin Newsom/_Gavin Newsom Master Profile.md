@@ -73,6 +73,11 @@ donors: [[Elon Musk]], [[Michael Bloomberg]], [[Haim Saban]], [[SEIU - Service E
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Gavin Christopher Newsom. Born October 10, 1967, in San Francisco. Democrat. California's 40th Governor since January 2019. Prior: Lieutenant Governor of California (2011–2019), Mayor of San Francisco (2004–2011), member of the San Francisco Board of Supervisors (1997–2003).
@@ -286,10 +291,6 @@ The genuine wins are real and should not be dismissed. Universal transitional ki
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

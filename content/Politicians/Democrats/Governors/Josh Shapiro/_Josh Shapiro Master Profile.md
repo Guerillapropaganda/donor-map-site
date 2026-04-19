@@ -55,6 +55,11 @@ donors: [[Michael Bloomberg]] · [[AIPAC - American Israel Public Affairs Commit
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Josh Shapiro. Governor of Pennsylvania (2023–present). Former Pennsylvania Attorney General (2017–2023), won 2020 AG re-election by 4 points while Biden carried the state by 1.2. Won 2022 governor's race with $68 million, outraising Doug Mastriano 16:1 ($68M vs $4.2M). The most expensive governor's race in Pennsylvania history. Top donors: [[Michael Bloomberg|Michael Bloomberg]] ($2.5M), [[George Soros|George Soros]] ($500K), Steven Spielberg ($100K), 240+ CEOs for his re-election. Coal executive Robindale Energy donated $271K. [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-aligned donor network so significant it became the central issue in his 2024 VP vetting. Hamas-linked media called him "an agent of the Israeli government," progressive groups threatened revolt. Biden chose Walz. Now the 2028 frontrunner who bridges corporate donors and progressive positioning, fracking advocate funded by CNX Resources, school choice supporter who proposed a $100M voucher program (PASS Scholarships), Catholic Church abuse prosecutor who built a national reputation. The donor base is business-Democrat: finance, energy, real estate, and trial lawyers, not progressive movement money. The question for 2028: can the most corporate-friendly Democrat in the field survive a progressive primary?
@@ -162,10 +167,6 @@ Shapiro built his national brand prosecuting the Catholic Church's child abuse c
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

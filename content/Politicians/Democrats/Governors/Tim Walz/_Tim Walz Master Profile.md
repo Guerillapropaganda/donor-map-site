@@ -105,6 +105,11 @@ fec-cycle: 2018
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Tim Walz is Vice President of the United States (2025–present, under Kamala Harris). He was Governor of Minnesota (2019–2025) and represented Minnesota's 1st Congressional District in the U.S. House (2007–2019). Before politics, Walz was a public school teacher and football coach, served 24 years in the Minnesota Army National Guard, and lived in a rural district. His political brand is "authentic working-class Democrat" — the anti-Hillary Clinton to compensate for Harris's donor-class image.
@@ -250,10 +255,6 @@ Timothy James Walz is an American politician, former educator, and Army National
 <!-- auto:wikipedia end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

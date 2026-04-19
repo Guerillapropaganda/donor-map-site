@@ -130,6 +130,44 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,711 |
+| Votes with party majority | 1,633 |
+| Party-line loyalty | 95.4% |
+| Deviations from party | 78 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 78):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-22 | h44-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2025-09-04 | h235-119.1 | No | Y | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Tim Walberg represents Michigan's 5th Congressional District and chairs the House Education and Workforce Committee, the committee with jurisdiction over K-12 education, higher education, labor standards, workplace safety, pension policy, and the National Labor Relations Board. He was first elected in 2006, lost in 2008, and won the seat back in 2010.
@@ -262,43 +300,6 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,711 |
-| Votes with party majority | 1,633 |
-| Party-line loyalty | 95.4% |
-| Deviations from party | 78 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 78):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
-| 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-09-03 | h230-119.1 | No | Y | — |
-| 2025-07-18 | h206-119.1 | Aye | N | — |
-| 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

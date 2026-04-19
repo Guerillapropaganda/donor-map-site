@@ -191,6 +191,47 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,640 |
+| Votes with party majority | 2,526 |
+| Party-line loyalty | 95.7% |
+| Deviations from party | 107 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 107):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s196-115.1 | Nay | Y | PN 363 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s265-116.1 | Yea | N | PN 88 |
+| September  | s266-116.1 | Yea | N | PN 88 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Sheldon Whitehouse. U.S. Senator from Rhode Island (2007–present). Born November 20, 1955, in New York City to career diplomat Charles Sheldon Whitehouse (whose grandfather was a diplomat to Italy and Guatemala). Grew up in diplomatic households in Saigon, Africa, and Washington. Yale undergraduate (1978), University of Virginia School of Law (1982). Rhode Island Attorney General (1999–2003) before winning his Senate seat in 2006. Personal net worth estimated at $4–6M per public financial disclosures — old-money background, not self-made wealth.
@@ -467,46 +508,6 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,640 |
-| Votes with party majority | 2,526 |
-| Party-line loyalty | 95.7% |
-| Deviations from party | 107 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 107):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s196-115.1 | Nay | Y | PN 363 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s265-116.1 | Yea | N | PN 88 |
-| September  | s266-116.1 | Yea | N | PN 88 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->

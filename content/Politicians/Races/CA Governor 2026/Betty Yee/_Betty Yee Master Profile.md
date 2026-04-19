@@ -49,6 +49,11 @@ donors: [[CalPERS]] · [[CalSTRS]] · [[SEIU - Service Employees International U
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Betty Yee. Former California State Controller (2015–2023, elected 2014 and 2018). Former Board of Equalization member (2011–2015, elected). Board member of CalPERS and CalSTRS (the massive public pension funds). Vice Chair of California Democratic Party (2023–present). 2026 California governor candidate. First Asian-American woman to hold the elected Controller position. Net worth: $500,000–$1.5 million (2023 disclosure).
@@ -198,11 +203,6 @@ Without clarity on these questions, her fiscal watchdog credential is ambiguous.
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
-
 
 ## Archived
 

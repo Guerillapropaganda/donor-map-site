@@ -155,6 +155,43 @@ top-policy-area: Health
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,385 |
+| Votes with party majority | 1,332 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 52 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 52):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 23 | s585-119.1 | Yea | N | S. 3012 |
+| November 7 | s609-119.1 | Yea | N | S. 3012 |
+| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
+| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
+| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
+| November 1 | s620-119.1 | Yea | N | PN 445-6 |
+| November 1 | s619-119.1 | Yea | N | PN 445-6 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Reverend Dr. Raphael Gamaliel Warnock. U.S. Senator from Georgia (2021–present). Senior Pastor of Ebenezer Baptist Church, Atlanta (2005–present). Fifth and youngest pastor to lead Ebenezer Baptist Church, the historic pulpit where Martin Luther King Jr. preached. Ph.D. in Theology from Union Theological Seminary. Age 54. Married with two children. Elected in 2020 in special election (defeating appointed Republican Kelly Loeffler); re-elected in 2022. Combined 2020–2022 fundraising: $170+ million. Net worth: ~$1–2 million.
@@ -459,42 +496,6 @@ The healthcare positioning makes the mechanism visible. Warnock pastors a church
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,385 |
-| Votes with party majority | 1,332 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 52 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 52):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| October 23 | s585-119.1 | Yea | N | S. 3012 |
-| November 7 | s609-119.1 | Yea | N | S. 3012 |
-| November 2 | s294-118.2 | Yea | N | S.J.Res. 115 |
-| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
-| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| November 1 | s614-119.1 | Nay | Y | — |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 13, 20 | s245-119.1 | Yea | N | PN 12-30 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

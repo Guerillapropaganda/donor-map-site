@@ -147,6 +147,44 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,696 |
+| Votes with party majority | 1,679 |
+| Party-line loyalty | 99.0% |
+| Deviations from party | 17 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 17):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-09-17 | h275-119.1 | Yea | N | HR 5143 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
+| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
+| 2024-09-18 | h429-118.2 | Yea | N | HR 7909 |
+| 2024-06-05 | h243-118.2 | No | Y | — |
+| 2024-04-17 | h135-118.2 | Aye | N | — |
+| 2024-04-16 | h131-118.2 | Nay | Y | HR 5826 |
+| 2023-12-13 | h721-118.1 | Yea | N | HRES 927 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Adam Smith. Democrat, Washington's 9th Congressional District (Redmond to Tacoma — Boeing country). First elected 1996. Ranking Member, House Armed Services Committee — the committee that writes the annual National Defense Authorization Act (NDAA), the single largest discretionary spending bill in the federal budget. Served as chairman 2019-2023. Self-described "raging moderate." Member of the New Democrat Coalition (pro-business caucus). 60% of his campaign donations come from PACs, with defense contractors dominating the pipeline. Created a leadership PAC called ADAM (American Defense & Military) PAC — virtually 100% funded by defense contractors and lobbyists.
@@ -531,43 +569,6 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 <!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,696 |
-| Votes with party majority | 1,679 |
-| Party-line loyalty | 99.0% |
-| Deviations from party | 17 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 17):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-09-17 | h275-119.1 | Yea | N | HR 5143 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
-| 2024-09-23 | h440-118.2 | Yea | N | S 2228 |
-| 2024-09-18 | h429-118.2 | Yea | N | HR 7909 |
-| 2024-06-05 | h243-118.2 | No | Y | — |
-| 2024-04-17 | h135-118.2 | Aye | N | — |
-| 2024-04-16 | h131-118.2 | Nay | Y | HR 5826 |
-| 2023-12-13 | h721-118.1 | Yea | N | HRES 927 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

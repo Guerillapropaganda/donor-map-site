@@ -108,6 +108,30 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Not Voting** | Cloture Motion Agreed to |
+| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
+| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
+| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Nay** | Cloture Motion Rejected |
+| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Yea** | Cloture Motion Rejected |
+| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Yea** | Nomination Confirmed |
+| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Yea** | Cloture Motion Agreed to |
+| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
+| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
+| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
+| 2026-03-11 | S.Amdt. 4308 (Scott) to H.R. 6644: In the nature of a substitute. | **Yea** | Amendment Agreed to |
+| 2026-03-10 | Motion to Invoke Cloture Re: Amdt. No. 4308 | **Yea** | Cloture Motion Agreed to |
+| 2026-03-10 | On the Nomination PN711: Lt. Gen. Joshua M. Rudd, in the Army, to be General | **Yea** | Nomination Confirmed |
+| 2026-03-09 | Motion to Invoke Cloture: Lt. Gen. Joshua M. Rudd to be General in the United States Army: Lt. Gen. Joshua M. Rudd, in t | **Yea** | Cloture Motion Agreed to |
+
+**Sources**
+
+- [GovTrack: Markwayne Mullin](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Markwayne Mullin. Republican Senator from Oklahoma (2023-2026), Cherokee Nation citizen, former plumbing company owner, and Trump's confirmed Secretary of Homeland Security as of March 23, 2026. Mullin served in the House (2013-2023) representing Oklahoma's 2nd District before winning the special election for Jim Inhofe's Senate seat. He brands himself as the "blue-collar senator", a working-class plumber who built a multimillion-dollar business before entering politics.
@@ -303,29 +327,6 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Not Voting** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Nay** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Yea** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Yea** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Yea** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-| 2026-03-11 | S.Amdt. 4308 (Scott) to H.R. 6644: In the nature of a substitute. | **Yea** | Amendment Agreed to |
-| 2026-03-10 | Motion to Invoke Cloture Re: Amdt. No. 4308 | **Yea** | Cloture Motion Agreed to |
-| 2026-03-10 | On the Nomination PN711: Lt. Gen. Joshua M. Rudd, in the Army, to be General | **Yea** | Nomination Confirmed |
-| 2026-03-09 | Motion to Invoke Cloture: Lt. Gen. Joshua M. Rudd to be General in the United States Army: Lt. Gen. Joshua M. Rudd, in t | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Markwayne Mullin](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
-<!-- auto:voting-record end -->
 
 ## Archived
 

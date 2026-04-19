@@ -68,6 +68,11 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Dick Durbin. U.S. Senator from Illinois since 1997. Senate Minority Whip — the #2 Democrat in the Senate. Former Senate Majority Whip (2005–2015, 2021–2025). Former Chair of the Senate Judiciary Committee (2021–2025), now Ranking Member. Age 81. Announced April 2025 he will not seek reelection in 2026 — ending a 44-year congressional career (House: 1983–1997, Senate: 1997–2027). Net worth: $3–8 million.
@@ -241,11 +246,6 @@ Durbin's retirement in 2027 confirms the model's sustainability. Forty-four year
 - [U.S. Senator Dick Durbin official website — committee assignments](https://www.durbin.senate.gov/about/committees-assignments) (Tier 1) (VERIFIED)
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
-
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -149,6 +149,47 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,578 |
+| Votes with party majority | 2,427 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 146 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 146):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s247-118.1 | Nay | Y | H.R. 5860 |
+| September  | s199-116.2 | Yea | N | — |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
+| September  | s244-118.1 | Nay | Y | PN 183 |
+| September  | s196-116.2 | Nay | Y | H.R. 8337 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Ted Cruz. Senior Senator from Texas (2013–present). Princeton undergraduate, Harvard Law (magna cum laude), Supreme Court clerk (Chief Justice Rehnquist), Texas Solicitor General. 2016 Republican presidential candidate (second to Trump). Won 2024 reelection in the most expensive Senate race in American history ($192M total). Net worth: ~$4.5 million (plus Heidi Cruz's [[Goldman Sachs|Goldman Sachs]] Managing Director compensation). The most publicly disliked Republican senator who keeps winning because the money never stops.
@@ -327,46 +368,6 @@ conte
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,578 |
-| Votes with party majority | 2,427 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 146 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 146):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s247-118.1 | Nay | Y | H.R. 5860 |
-| September  | s199-116.2 | Yea | N | — |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s196-116.2 | Nay | Y | H.R. 8337 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge

@@ -103,6 +103,43 @@ top-policy-area: International Affairs
 
 **related:** [[_Donald Trump Master Profile|Trump]] · [[Goldman Sachs]] · [[JPMorgan Chase]] · [[Morgan Stanley]] · [[Bank of America]] · [[Koch Network - Charles Koch|Koch Network]] · [[Peter Thiel]] · [[Bain Capital]]
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,410 |
+| Substantive votes (Y/N) | 1,328 |
+| Votes with party majority | 1,186 |
+| Party-line loyalty | 89.3% |
+| Deviations from party | 139 |
+
+**Coverage:**
+
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+
+**Most recent party-line deviations (top 10 of 139):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s254-118.2 | Yea | N | PN 1902 |
+| September  | s253-118.2 | Yea | N | PN 1902 |
+| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
+| September  | s241-118.2 | Yea | N | PN 1825 |
+| September  | s243-118.2 | Yea | N | PN 1825 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| October 4, | s249-118.1 | Yea | N | PN 676 |
+| October 31 | s340-116.1 | Nay | Y | — |
+| October 3, | s248-118.1 | Yea | N | PN 676 |
+| October 28 | s335-116.1 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Mitt Romney (born 1947) served as U.S. Senator from Utah (2019–2025, retired). 2012 Republican presidential nominee. Massachusetts Governor (2003–2007). Co-founder and former CEO of Bain Capital (1984–2002), a private equity firm. Billionaire (net worth $250M+). Presented himself as a "successful businessman" and "self-funded" candidate, insulating himself from traditional donor dependence through personal wealth.
@@ -212,42 +249,6 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,410 |
-| Substantive votes (Y/N) | 1,328 |
-| Votes with party majority | 1,186 |
-| Party-line loyalty | 89.3% |
-| Deviations from party | 139 |
-
-**Coverage:**
-
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-
-**Most recent party-line deviations (top 10 of 139):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s254-118.2 | Yea | N | PN 1902 |
-| September  | s253-118.2 | Yea | N | PN 1902 |
-| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
-| September  | s241-118.2 | Yea | N | PN 1825 |
-| September  | s243-118.2 | Yea | N | PN 1825 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 31 | s340-116.1 | Nay | Y | — |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
-| October 28 | s335-116.1 | Yea | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

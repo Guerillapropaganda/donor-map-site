@@ -75,6 +75,47 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,639 |
+| Votes with party majority | 2,532 |
+| Party-line loyalty | 95.9% |
+| Deviations from party | 102 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 102):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s189-115.1 | Nay | Y | H.R. 601 |
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s303-116.1 | Nay | Y | S.Res. 331 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| September  | s208-115.2 | Yea | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jim Risch is the junior senator from Idaho and chairs the Senate Foreign Relations Committee — the body with jurisdiction over treaties, arms sales, foreign aid, the State Department, USAID, and U.S. diplomatic relations worldwide. He also sits on the Energy and Natural Resources Committee, the Select Committee on Intelligence, and the Small Business Committee.
@@ -229,46 +270,6 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,639 |
-| Votes with party majority | 2,532 |
-| Party-line loyalty | 95.9% |
-| Deviations from party | 102 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 102):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s189-115.1 | Nay | Y | H.R. 601 |
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s303-116.1 | Nay | Y | S.Res. 331 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s208-115.2 | Yea | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

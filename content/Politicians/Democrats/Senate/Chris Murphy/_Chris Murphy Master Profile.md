@@ -149,6 +149,47 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,715 |
+| Votes with party majority | 2,538 |
+| Party-line loyalty | 93.5% |
+| Deviations from party | 168 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 168):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s263-116.1 | Yea | N | PN 713 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s295-116.1 | Yea | N | PN 114 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s299-116.1 | Yea | N | PN 114 |
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
+| September  | s291-116.1 | Yea | N | PN 794 |
+| September  | s290-116.1 | Yea | N | PN 795 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Chris Murphy. Democrat, Connecticut. Senator since 2013. Former House member (2007-2013) representing Connecticut's 5th District when the Sandy Hook Elementary School shooting occurred in December 2012 — an event that transformed Murphy from a backbench congressman into the Senate's most vocal gun control advocate. Member of the Foreign Relations Committee (top Democrat on the Middle East subcommittee), Health, Education, Labor and Pensions (HELP) Committee, and Appropriations Committee.
@@ -374,46 +415,6 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 <!-- auto:influence-cross-ref pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,715 |
-| Votes with party majority | 2,538 |
-| Party-line loyalty | 93.5% |
-| Deviations from party | 168 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 168):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s263-116.1 | Yea | N | PN 713 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s295-116.1 | Yea | N | PN 114 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s299-116.1 | Yea | N | PN 114 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s291-116.1 | Yea | N | PN 794 |
-| September  | s290-116.1 | Yea | N | PN 795 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

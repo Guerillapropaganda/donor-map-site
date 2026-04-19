@@ -133,6 +133,43 @@ donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,216 |
+| Substantive votes (Y/N) | 1,096 |
+| Votes with party majority | 923 |
+| Party-line loyalty | 84.2% |
+| Deviations from party | 173 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 460 votes
+- house 119/1: 1 votes
+
+**Most recent party-line deviations (top 10 of 173):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
+| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
+| 2024-09-24 | h445-118.2 | Nay | Y | HR 3208 |
+| 2024-09-18 | h431-118.2 | Nay | Y | HR 9494 |
+| 2024-09-18 | h425-118.2 | Nay | Y | HR 1513 |
+| 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
+| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
+| 2024-07-11 | h352-118.2 | Nay | Y | HR 8772 |
+| 2024-07-08 | h337-118.2 | Nay | Y | HR 5441 |
+| 2024-06-28 | h333-118.2 | Nay | Y | HR 8752 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representative for Florida's 1st congressional district (2017–November 2024). Resigned from Congress after Trump nominated him as Attorney General, before the House Ethics Committee could release its report on him. The Ethics report was released in December 2024 after his resignation. His father, Don Gaetz, is the former Florida Senate President and co-founder of VITAS Healthcare, which sold for $406 million in 2004. Don and Victoria Gaetz's net worth: approximately $29.6 million. Matt Gaetz's own net worth: estimated $700,000–$1 million, largely from his congressional salary, he is functionally dependent on his family's wealth for his political position. Never indicted by the DOJ on sex trafficking charges despite FBI investigation beginning 2021. Attorney General nomination withdrawn November 21, 2024, after Senate Republicans signaled they would not confirm him.
@@ -349,42 +386,6 @@ _No committee data found._
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,216 |
-| Substantive votes (Y/N) | 1,096 |
-| Votes with party majority | 923 |
-| Party-line loyalty | 84.2% |
-| Deviations from party | 173 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 460 votes
-- house 119/1: 1 votes
-
-**Most recent party-line deviations (top 10 of 173):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2024-09-25 | h450-118.2 | Nay | Y | HR 9747 |
-| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
-| 2024-09-24 | h445-118.2 | Nay | Y | HR 3208 |
-| 2024-09-18 | h431-118.2 | Nay | Y | HR 9494 |
-| 2024-09-18 | h425-118.2 | Nay | Y | HR 1513 |
-| 2024-09-17 | h419-118.2 | Nay | Y | S 2861 |
-| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
-| 2024-07-11 | h352-118.2 | Nay | Y | HR 8772 |
-| 2024-07-08 | h337-118.2 | Nay | Y | HR 5441 |
-| 2024-06-28 | h333-118.2 | Nay | Y | HR 8752 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

@@ -86,6 +86,12 @@ proclamations: 706
 
 #trump #master-profile #president #republican #class-analysis #follow-the-money #fascist #grifter #billionaire-populism #donor-class #oligarch
 
+<!-- auto:voting-record start -->
+**Sources**
+
+- [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Donald John Trump. Born June 14, 1946, in Queens, New York. Republican. 45th and 47th President of the United States. Real estate heir turned casino bankrupter turned reality TV host turned president turned convicted felon turned president again. Net worth fluctuates wildly depending on who's counting and what his stock is doing, somewhere between $2 billion and $6 billion, much of it in branding value and Truth Social stock rather than liquid assets.
@@ -642,11 +648,6 @@ _Candidate committee totals from FEC. Super PAC totals aggregated across MAGA In
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-- [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
-<!-- auto:voting-record end -->
 
 ## Archived
 

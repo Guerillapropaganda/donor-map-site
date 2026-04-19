@@ -147,6 +147,44 @@ donors: [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|A
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,703 |
+| Votes with party majority | 1,676 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 27 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 27):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-06-24 | h178-119.1 | Nay | Y | — |
+| 2025-02-13 | h42-119.1 | Yea | N | HR 35 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-06-27 | h325-118.2 | No | Y | — |
+| 2024-04-17 | h135-118.2 | Aye | N | — |
+| 2024-04-15 | h123-118.2 | Yea | N | HR 5921 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Rosa DeLauro. Democrat, Connecticut's 3rd District (New Haven). First elected 1990. Ranking Member, House Appropriations Committee, the single most powerful spending committee in the House. As ranking member, she holds ex officio status on all 12 Appropriations subcommittees, with primary jurisdiction over the Labor, Health and Human Services, Education, and Related Agencies subcommittee.
@@ -386,43 +424,6 @@ c
 <!-- auto:fec-summary end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,703 |
-| Votes with party majority | 1,676 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 27 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 27):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-06-24 | h178-119.1 | Nay | Y | — |
-| 2025-02-13 | h42-119.1 | Yea | N | HR 35 |
-| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
-| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-| 2024-06-27 | h325-118.2 | No | Y | — |
-| 2024-04-17 | h135-118.2 | Aye | N | — |
-| 2024-04-15 | h123-118.2 | Yea | N | HR 5921 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

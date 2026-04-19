@@ -122,6 +122,43 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,238 |
+| Votes with party majority | 1,094 |
+| Party-line loyalty | 88.4% |
+| Deviations from party | 143 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 143):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s535-119.1 | Yea | N | H.R. 5371 |
+| September  | s532-119.1 | Yea | N | PN 342 |
+| September  | s531-119.1 | Yea | N | PN 342 |
+| September  | s530-119.1 | Yea | N | PN 343 |
+| September  | s529-119.1 | Yea | N | PN 343 |
+| September  | s528-119.1 | Yea | N | H.R. 5371 |
+| October 9, | s558-119.1 | Yea | N | H.R. 5371 |
+| October 9, | s563-119.1 | Yea | N | — |
+| October 8, | s551-119.1 | Yea | N | H.R. 5371 |
+| October 8, | s555-119.1 | Nay | Y | S.J.Res. 83 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 John Karl Fetterman. U.S. Senator from Pennsylvania (2023–present). Former Mayor of Braddock, Pennsylvania (2005–2019). Former Lieutenant Governor of Pennsylvania (2019–2023). Age 54. Known for unconventional working-class aesthetic: Carhartt hoodies, gym shorts, tattoos on forearms. Recovered from a stroke in May 2022 while running for Senate, with minimal audible or visible effects. 2022 Senate race: $48.5 million raised, 53% from small-dollar donations (averaging $27 per contribution), winning against celebrity physician Mehmet Oz. Net worth: ~$500,000. Married with three children.
@@ -344,42 +381,6 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,238 |
-| Votes with party majority | 1,094 |
-| Party-line loyalty | 88.4% |
-| Deviations from party | 143 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 143):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s535-119.1 | Yea | N | H.R. 5371 |
-| September  | s532-119.1 | Yea | N | PN 342 |
-| September  | s531-119.1 | Yea | N | PN 342 |
-| September  | s530-119.1 | Yea | N | PN 343 |
-| September  | s529-119.1 | Yea | N | PN 343 |
-| September  | s528-119.1 | Yea | N | H.R. 5371 |
-| October 9, | s558-119.1 | Yea | N | H.R. 5371 |
-| October 9, | s563-119.1 | Yea | N | — |
-| October 8, | s551-119.1 | Yea | N | H.R. 5371 |
-| October 8, | s555-119.1 | Nay | Y | S.J.Res. 83 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-11 -->
 > [!attention] Fresh API data available — needs manual merge

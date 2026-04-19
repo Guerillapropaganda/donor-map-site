@@ -51,6 +51,11 @@ donors: [[Leonard Leo]], [[Fossil Fuel Bloc]], [[Judicial Crisis Network]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-48). The most expensive Supreme Court confirmation in history: $17.1 million from a single anonymous donor to the Judicial Crisis Network (now Concord Fund), $10 million+ deployed by JCN for confirmkavanaugh.com and ad campaigns. [[Leonard Leo|Leonard Leo]] personally orchestrated the confirmation, told Alliance donors he needed to raise $10 million "as fast as possible" when the nomination was "teetering" after Christine Blasey Ford's testimony. Pre-SCOTUS: Ken Starr investigation (principal author of Starr Report), Bush v. Gore legal team (Florida recount, 2000), Bush White House Staff Secretary (approved every document reaching the president's desk). DC Circuit (2006-2018): consistent advocate for expanded executive power, unitary executive theory, NSA warrantless surveillance. The debt mystery: $60K-$200K in reported debts (2016-2017, "baseball tickets") disappeared before confirmation, never fully explained. Key rulings: joined West Virginia v. EPA majority (gutting EPA regulatory authority), authored NEPA narrowing (blocking cumulative environmental harm consideration), expanded corporate standing to challenge regulations. Leo "hand-walked" Kavanaugh to the top of Trump's list. Kavanaugh "auditioned harder than anyone," filling DC Circuit decisions with Federalist Society signaling and setting the record for speeches to the organization.
@@ -158,10 +163,6 @@ Brett Kavanaugh. Associate Justice, Supreme Court (2018–present, confirmed 50-
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

@@ -128,6 +128,44 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,687 |
+| Votes with party majority | 1,511 |
+| Party-line loyalty | 89.6% |
+| Deviations from party | 176 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 176):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-22 | h44-119.2 | No | Y | — |
+| 2026-01-22 | h43-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-14 | h26-119.2 | No | Y | — |
+| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
+| 2026-01-08 | h8-119.2 | Yea | N | HR 504 |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-04 | h236-119.1 | No | Y | — |
+| 2025-09-04 | h235-119.1 | No | Y | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Tom Cole. Republican, Oklahoma's 4th Congressional District (Norman, Lawton, southern Oklahoma City suburbs — home to Fort Sill, Tinker Air Force Base, and the Chickasaw Nation). First elected 2002. Chairman, House Appropriations Committee — elected to the gavel April 2024, making him the first Native American and first Oklahoman to control the spending committee. Former Chairman of the NRCC (2006-2008). Former RNC Chief of Staff (1999-2001). Member of the Chickasaw Nation — the longest-serving Native American in the history of the U.S. House of Representatives.
@@ -354,43 +392,6 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,687 |
-| Votes with party majority | 1,511 |
-| Party-line loyalty | 89.6% |
-| Deviations from party | 176 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 176):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-22 | h43-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
-| 2026-01-14 | h26-119.2 | No | Y | — |
-| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
-| 2026-01-08 | h8-119.2 | Yea | N | HR 504 |
-| 2025-09-10 | h244-119.1 | Aye | N | — |
-| 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h234-119.1 | No | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

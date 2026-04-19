@@ -111,6 +111,47 @@ top-policy-area: Congress
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,687 |
+| Votes with party majority | 2,562 |
+| Party-line loyalty | 95.3% |
+| Deviations from party | 120 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 120):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
+| September  | s244-118.1 | Nay | Y | PN 183 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s254-118.2 | Yea | N | PN 1902 |
+| September  | s253-118.2 | Yea | N | PN 1902 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Ron Johnson. Republican senator from Wisconsin since 2011. Won his seat in 2010 by defeating three-term incumbent Russ Feingold, won a rematch against Feingold in 2016, and narrowly defeated Lt. Governor Mandela Barnes in 2022. Current term expires 2029. Former chairman of the Senate Homeland Security and Governmental Affairs Committee (2015-2021). Currently serves on the Finance Committee, Homeland Security and Governmental Affairs Committee, and Special Committee on Aging in the 119th Congress. Before entering politics, Johnson was CEO of PACUR LLC, a polyester and plastics manufacturing company in Oshkosh, Wisconsin, from the mid-1980s to 2010. Self-funded $9 million of his $15.2 million 2010 campaign. Estimated net worth between $18 million and $88 million (2023 financial disclosure). Received $10 million in deferred compensation from PACUR after winning his Senate seat in 2010, and reported $5-25 million from the sale of PACUR in 2020.
@@ -299,46 +340,6 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 <!-- auto:stock-trades pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,687 |
-| Votes with party majority | 2,562 |
-| Party-line loyalty | 95.3% |
-| Deviations from party | 120 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 120):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s254-118.2 | Yea | N | PN 1902 |
-| September  | s253-118.2 | Yea | N | PN 1902 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

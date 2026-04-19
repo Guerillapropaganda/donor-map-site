@@ -110,6 +110,44 @@ tags: #republican
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,709 |
+| Votes with party majority | 1,570 |
+| Party-line loyalty | 91.9% |
+| Deviations from party | 139 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 139):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2025-09-04 | h236-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
+| 2025-09-03 | h228-119.1 | No | Y | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2024-07-24 | h398-118.2 | No | Y | — |
+| 2024-07-24 | h396-118.2 | No | Y | — |
+| 2024-07-24 | h390-118.2 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 Ashley Nicole Hinson, born September 19, 1983, is a U.S. Representative from Iowa's 2nd congressional district (2021–present), former Iowa state representative for the 67th district (2017-2021), and former television news anchor. Hinson earned her bachelor's degree in broadcast journalism from the University of Southern California and began her media career at KCRG-TV in Cedar Rapids in 2005, where she spent a decade as an anchor, reporter, and producer—earning two regional Emmy awards. In 2016, she transitioned to politics, winning election to the Iowa House as the first woman to represent the 67th district. In 2020, she won a competitive U.S. House race against Democratic incumbent Abby Finkenauer, establishing herself as a rising Republican star in a purple district. In September 2025, following Republican Sen. [[_Joni Ernst Master Profile|Joni Ernst]]'s retirement announcement, Hinson declared her candidacy for the open Iowa Senate seat. By March 2026, she had established herself as the frontrunner for the Republican primary, endorsing President Trump, securing support from Senate Majority Leader [[_John Thune Master Profile|John Thune]] and NRSC Chair Tim Scott, and receiving backing from the [[Senate Leadership Fund|Senate Leadership Fund]] and Winning for Women super PAC. Her campaign raised $1.68 million in Q4 2025 alone, building a war chest of $4.05+ million by early 2026—significantly outpacing her main Democratic opponents ([[_Zach Wahls Master Profile|Zach Wahls]] and Josh Turek, each in the $1-2M range).
 
@@ -261,43 +299,6 @@ party:: Republican
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,709 |
-| Votes with party majority | 1,570 |
-| Party-line loyalty | 91.9% |
-| Deviations from party | 139 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 139):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2026-01-14 | h27-119.2 | No | Y | — |
-| 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-09-03 | h230-119.1 | No | Y | — |
-| 2025-09-03 | h228-119.1 | No | Y | — |
-| 2025-07-18 | h206-119.1 | Aye | N | — |
-| 2024-07-24 | h398-118.2 | No | Y | — |
-| 2024-07-24 | h396-118.2 | No | Y | — |
-| 2024-07-24 | h390-118.2 | No | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge

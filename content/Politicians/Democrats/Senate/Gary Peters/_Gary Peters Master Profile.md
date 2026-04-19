@@ -143,6 +143,47 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,720 |
+| Votes with party majority | 2,564 |
+| Party-line loyalty | 94.3% |
+| Deviations from party | 147 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 147):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s204-115.2 | Nay | Y | PN 1650 |
+| September  | s208-115.1 | Yea | N | PN 89 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s184-116.2 | Yea | N | PN 1348 |
+| September  | s292-116.1 | Yea | N | H.R. 2740 |
+| September  | s283-116.1 | Yea | N | PN 135 |
+| September  | s282-116.1 | Yea | N | PN 135 |
+| September  | s280-116.1 | Yea | N | PN 561 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 [[_Gary Peters Master Profile|Gary Peters]] is the junior United States Senator from Michigan, serving since January 2015. Born December 1, 1958, in Pontiac, Michigan. B.A. in political science from Alma College (1980). M.B.A. in finance from the University of Detroit (1984). J.D. from Wayne State University Law School (1989). M.A. in philosophy from Michigan State University (2007). Worked as an investment advisor for 22 years, assistant vice president at Merrill Lynch (1980–1989), then vice president at UBS/Paine Webber (1989–2003). Served in the United States Navy Reserve (1993–2000, 2001–2005), achieving the rank of Lieutenant Commander with a Seabee Combat Warfare Specialist designation. Rochester Hills City Council (1991–1993). Michigan Senate (1995–2002). Michigan lottery commissioner (2003–2007, appointed by Governor Granholm). U.S. House of Representatives, 9th and 14th Districts (2009–2015). Won the 2014 Senate race, then won reelection in 2020 in the most expensive Senate race in Michigan history, more than $100 million in combined spending.
@@ -306,46 +347,6 @@ party:: Democrat
 <!-- auto:stock-trades end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,720 |
-| Votes with party majority | 2,564 |
-| Party-line loyalty | 94.3% |
-| Deviations from party | 147 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 147):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s208-115.1 | Yea | N | PN 89 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s184-116.2 | Yea | N | PN 1348 |
-| September  | s292-116.1 | Yea | N | H.R. 2740 |
-| September  | s283-116.1 | Yea | N | PN 135 |
-| September  | s282-116.1 | Yea | N | PN 135 |
-| September  | s280-116.1 | Yea | N | PN 561 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-09 -->
 > [!attention] Fresh API data available — needs manual merge

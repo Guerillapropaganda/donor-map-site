@@ -137,6 +137,47 @@ donors: [[Lockheed Martin]] [[Boeing]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,736 |
+| Votes with party majority | 2,600 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 127 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 127):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s203-115.2 | Yea | N | PN 1525 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s195-115.1 | Yea | N | — |
+| September  | s272-116.1 | Nay | Y | PN 631 |
+| September  | s269-116.1 | Nay | Y | PN 631 |
+| October 21 | s577-119.1 | Yea | N | PN 466-6 |
+| October 16 | s574-119.1 | Yea | N | PN 466-6 |
+| October 11 | s239-115.2 | Yea | N | PN 1644 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jack Reed is the senior senator from Rhode Island and the Ranking Member (formerly Chair) of the Senate Armed Services Committee — the body that authorizes every dollar the Pentagon spends and confirms every senior military appointment. He has held his Senate seat since 1997 and served in the House from 1991 to 1997.
@@ -421,46 +462,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,736 |
-| Votes with party majority | 2,600 |
-| Party-line loyalty | 95.0% |
-| Deviations from party | 127 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 127):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s203-115.2 | Yea | N | PN 1525 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s195-115.1 | Yea | N | — |
-| September  | s272-116.1 | Nay | Y | PN 631 |
-| September  | s269-116.1 | Nay | Y | PN 631 |
-| October 21 | s577-119.1 | Yea | N | PN 466-6 |
-| October 16 | s574-119.1 | Yea | N | PN 466-6 |
-| October 11 | s239-115.2 | Yea | N | PN 1644 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

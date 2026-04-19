@@ -147,6 +147,44 @@ donors: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corpo
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,566 |
+| Votes with party majority | 1,440 |
+| Party-line loyalty | 92.0% |
+| Deviations from party | 126 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 126):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-17 | h124-119.2 | Aye | N | HRES 1175 |
+| 2026-04-17 | h123-119.2 | Yea | N | — |
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-03-26 | h102-119.2 | Yea | N | HRES 1128 |
+| 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
+| 2026-02-11 | h67-119.2 | Yea | N | HR 261 |
+| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
+| 2026-01-13 | h23-119.2 | Yea | N | HR 4593 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Rep [[_Josh Gottheimer Master Profile|Josh Gottheimer]] represents New Jersey's 5th Congressional District (Bergen County suburbs, North Jersey affluent areas) and co-chairs the Problem Solvers Caucus, a bipartisan group of ~50 House members that positions itself as pragmatic, anti-partisan, and focused on "getting things done." A five-term congressman from a light-blue district (D+1 after redistricting), Gottheimer has built his career as Wall Street and tech's inside man within the Democratic caucus. He functions as insurance policy: if progressive economic legislation threatens corporate interests, Gottheimer and his centrist bloc can negotiate watered-down compromises or kill bills entirely while maintaining Democratic control and bipartisan credibility.
@@ -334,43 +372,6 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,566 |
-| Votes with party majority | 1,440 |
-| Party-line loyalty | 92.0% |
-| Deviations from party | 126 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 126):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-04-17 | h124-119.2 | Aye | N | HRES 1175 |
-| 2026-04-17 | h123-119.2 | Yea | N | — |
-| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
-| 2026-03-26 | h102-119.2 | Yea | N | HRES 1128 |
-| 2026-03-19 | h96-119.2 | Yea | N | HR 4638 |
-| 2026-02-11 | h67-119.2 | Yea | N | HR 261 |
-| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
-| 2026-01-13 | h23-119.2 | Yea | N | HR 4593 |
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-13 -->
 > [!attention] Fresh API data available — needs manual merge

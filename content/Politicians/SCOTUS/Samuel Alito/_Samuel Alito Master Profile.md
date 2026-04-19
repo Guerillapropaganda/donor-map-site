@@ -56,6 +56,11 @@ donors: [[Leonard Leo]], [[Paul Singer]], [[Koch Network - Charles Koch]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Samuel Alito. Associate Justice, U.S. Supreme Court (2006–present). Nominated by George W. Bush after Harriet Miers withdrew, [[Leonard Leo|Leonard Leo]] orchestrated the switch. Confirmed 58-42. Author of Dobbs v. Jackson (overturning Roe v. Wade). 2008 Alaska fishing trip with hedge fund billionaire [[Paul Singer|Paul Singer]] (private jet, $100K+ value, undisclosed). Singer's NML Capital subsequently had 10+ cases before the Court. Alito never recused. Robin Arkley II provided free luxury lodge accommodations. Martha-Ann Alito: upside-down American flag (January 2021), Appeal to Heaven flag, refused recusal from J6 cases. Fossil fuel portfolio: $60K–$245K across 7 companies, triggering more recusals than any other sitting justice. The second proof of concept for donor capture on the Supreme Court.
@@ -199,10 +204,6 @@ Samuel Anthony Alito Jr. is an American jurist who serves as an associate justic
 <!-- auto:wikipedia end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

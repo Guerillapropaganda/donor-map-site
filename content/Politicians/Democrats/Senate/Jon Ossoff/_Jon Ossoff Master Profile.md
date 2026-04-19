@@ -123,6 +123,43 @@ donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Holl
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,372 |
+| Votes with party majority | 1,328 |
+| Party-line loyalty | 96.8% |
+| Deviations from party | 43 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 43):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 23 | s585-119.1 | Yea | N | S. 3012 |
+| November 7 | s609-119.1 | Yea | N | S. 3012 |
+| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
+| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
+| November 1 | s620-119.1 | Yea | N | PN 445-6 |
+| November 1 | s619-119.1 | Yea | N | PN 445-6 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| November 1 | s282-118.1 | Yea | N | — |
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Jonathan Ossoff. U.S. Senator from Georgia (2021–present). Age 37. Former investigative journalist and documentary filmmaker (2013–2021); managing director of Insight TWI, a London-based investigative production company. Former national security staffer and legislative assistant to U.S. Representative Hank Johnson. 2017: ran in Georgia's 6th Congressional District special election (House race), raising $30 million, then the most expensive House race in history. 2020: ran in Georgia Senate special election/runoff, raising $106.8 million, then the most-funded Senate race in history. Defeated Republican David Perdue in January 2021 runoff. Reelected in 2022. Net worth: ~$500,000–$1 million. Married, no children.
@@ -422,42 +459,6 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,372 |
-| Votes with party majority | 1,328 |
-| Party-line loyalty | 96.8% |
-| Deviations from party | 43 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 43):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| October 23 | s585-119.1 | Yea | N | S. 3012 |
-| November 7 | s609-119.1 | Yea | N | S. 3012 |
-| November 2 | s293-118.2 | Yea | N | S.J.Res. 113 |
-| November 2 | s292-118.2 | Yea | N | S.J.Res. 111 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| November 1 | s614-119.1 | Nay | Y | — |
-| November 1 | s282-118.1 | Yea | N | — |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

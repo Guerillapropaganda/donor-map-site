@@ -131,6 +131,47 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,655 |
+| Votes with party majority | 2,508 |
+| Party-line loyalty | 94.5% |
+| Deviations from party | 138 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 138):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s214-115.2 | Nay | Y | PN 2048 |
+| September  | s213-115.2 | Nay | Y | PN 1447 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| September  | s196-115.1 | Nay | Y | PN 363 |
+| September  | s194-115.1 | Nay | Y | PN 457 |
+| September  | s278-116.1 | Nay | Y | PN 566 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 [[_Martin Heinrich Master Profile|Martin Heinrich]] is the senior United States Senator from New Mexico, serving since January 2013. Born October 17, 1971, in Fallon, Nevada. B.S. in mechanical engineering from the University of Missouri. Moved to Albuquerque, New Mexico, where he began his career as a contractor working on directed energy technology at Phillips Laboratory (now Air Force Research Laboratory) at Kirtland Air Force Base. Albuquerque City Council (2004–2008), elected council president, championed minimum wage increase, community policing, and campaign finance reform. U.S. House of Representatives, 1st District (2009–2013). Elected to the Senate in 2012. Reelected 2018 and 2024. Among the first Democratic senators to encourage President Biden to suspend his 2024 reelection campaign.
@@ -299,47 +340,6 @@ party:: Democrat
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,655 |
-| Votes with party majority | 2,508 |
-| Party-line loyalty | 94.5% |
-| Deviations from party | 138 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 138):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s214-115.2 | Nay | Y | PN 2048 |
-| September  | s213-115.2 | Nay | Y | PN 1447 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s196-115.1 | Nay | Y | PN 363 |
-| September  | s194-115.1 | Nay | Y | PN 457 |
-| September  | s278-116.1 | Nay | Y | PN 566 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
-
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

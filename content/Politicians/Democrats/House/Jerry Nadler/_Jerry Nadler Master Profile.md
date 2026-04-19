@@ -60,6 +60,11 @@ donors: "[[Brady Campaign]], [[J Street]]"
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jerry Nadler. Democratic congressman from New York (Manhattan's West Side) since 1992. Currently serving in the 119th Congress representing New York's 12th District. Former chairman of the House Judiciary Committee (2019-2023), oversaw both impeachments of Donald Trump. Currently ranking member of the Judiciary Subcommittee on Administrative State, Regulatory Reform, and Antitrust. Stepped down from the full Judiciary Committee ranking member race in 2024, clearing the path for Jamie Raskin. Previously served in the New York State Assembly from 1977-1992. Congress's most senior Jewish member. Announced he will not seek re-election, citing need for "generational change." Net worth modest by congressional standards. Top industry donors: lawyers and law firms ($132K in 2023-24 cycle). Top PAC donor: JStreetPAC ($30,850 in 2023-24). Funding split: 54% large individual contributions, 40% PAC contributions, 6% small donors. Key real estate donors include Larry Silverstein (World Trade Center), Stephen Ross (Related Companies/Hudson Yards), Douglas Durst (Durst Organization), and Arthur Zeckendorf, all major Manhattan developers whose projects sit in or near Nadler's district.
@@ -176,10 +181,6 @@ Nadler's donor-class function is more complex than most profiles in this vault b
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

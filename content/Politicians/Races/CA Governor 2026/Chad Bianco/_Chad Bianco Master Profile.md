@@ -58,6 +58,11 @@ donors: [[PORAC - Peace Officers Research Association of California]], [[CCPOA -
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Chad Bianco. Born October 8, 1967. Republican. Sheriff-Coroner of [[IBEW Local 440 - Riverside|Riverside]] County since January 2019. 30-year veteran of the Riverside County Sheriff's Department before winning office. Ran in 2014 and lost; ran again in 2018, defeated incumbent Stan Sniff with massive police union backing. Re-elected 2022 with roughly 60% of the vote. Announced candidacy for California Governor in February 2025.
@@ -233,10 +238,6 @@ Bianco's investigators claim citizen volunteers reviewing public records found 6
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

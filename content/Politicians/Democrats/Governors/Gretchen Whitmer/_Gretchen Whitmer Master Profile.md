@@ -44,6 +44,11 @@ donors: Auto Industry Donors · SOAR Fund Corporate Beneficiaries
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Gretchen Whitmer. Governor of Michigan (2019–present). Former Michigan State Senate Minority Leader. Re-elected in 2022 by 10+ points in a competitive swing state. Democratic Governors Association vice chair as of late 2025. Survived a domestic terror kidnapping plot (2020) by militia extremists. Author of *True Gretch* (2023). Known for "Fix the Damn Roads" infrastructure branding and the "Big Gretch" persona, magenta lipstick, no-nonsense Midwestern affect, relatable toughness. Successfully campaigned alongside Michigan's Proposal 3 (2022) which enshrined reproductive rights in the state constitution. Net worth: estimated $1–2 million (modest by major politician standards). Currently one of the top-tier names for 2028.
@@ -162,11 +167,6 @@ Not every Whitmer win is donor-class service. The analytical framework demands a
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
-
 
 ## Archived
 

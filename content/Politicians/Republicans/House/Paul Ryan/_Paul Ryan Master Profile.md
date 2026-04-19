@@ -114,6 +114,30 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[J
 
 ---
 
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | **Yea** | Passed |
+| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany the bill (H.R. 2) to provide for the refo | **Aye** | Passed |
+| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | **Yea** | Passed |
+| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | **Aye** | Failed |
+| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Yea** | Passed |
+| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Nay** | Failed |
+| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | **Yea** | Passed |
+| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriations Act, 2018 | **Aye** | Passed |
+| 2018-02-09 | H.R. 1892: Further Extension of Continuing Appropriations Act, 2018; Department of Defense Appropriations Act, 2018; SUS | **Aye** | Passed |
+| 2018-01-18 | H.R. 195: Continuing appropriations through February 16, 2018 | **Yea** | Passed |
+| 2018-01-11 | S. 139: Rapid DNA Act of 2017 | **Yea** | Passed |
+| 2018-01-11 | H.Amdt. 510 (Amash) to S. 139: Amendment sought to replace the text of S. 139 with the text of H.R. 4124, the USA RIGHTS | **Nay** | Failed |
+| 2017-12-21 | H.R. 4667: Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assist | **Yea** | Passed |
+| 2017-12-21 | H.R. 1370: Department of Homeland Security Blue Campaign Authorization Act of 2017 | **Yea** | Passed |
+| 2017-12-20 | H.R. 1: Tax Cuts and Jobs Act | **Yea** | Passed |
+
+**Sources**
+
+- [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015–2019). 2012 Vice Presidential nominee (with Mitt Romney). Fox Corporation board member (2019–present). Koch network beneficiary and ideological aligned congressman — chairman of the House Budget Committee (2011–2015) and Ways & Means Committee (2015–2019). Presented himself as "policy wonk" and "serious fiscal conservative" focused on deficit reduction and entitlement reform. Net worth: $6–15 million (2019 disclosure).
@@ -291,29 +315,6 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | **Yea** | Passed |
-| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany the bill (H.R. 2) to provide for the refo | **Aye** | Passed |
-| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | **Yea** | Passed |
-| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | **Aye** | Failed |
-| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Yea** | Passed |
-| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Nay** | Failed |
-| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | **Yea** | Passed |
-| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriations Act, 2018 | **Aye** | Passed |
-| 2018-02-09 | H.R. 1892: Further Extension of Continuing Appropriations Act, 2018; Department of Defense Appropriations Act, 2018; SUS | **Aye** | Passed |
-| 2018-01-18 | H.R. 195: Continuing appropriations through February 16, 2018 | **Yea** | Passed |
-| 2018-01-11 | S. 139: Rapid DNA Act of 2017 | **Yea** | Passed |
-| 2018-01-11 | H.Amdt. 510 (Amash) to S. 139: Amendment sought to replace the text of S. 139 with the text of H.R. 4124, the USA RIGHTS | **Nay** | Failed |
-| 2017-12-21 | H.R. 4667: Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assist | **Yea** | Passed |
-| 2017-12-21 | H.R. 1370: Department of Homeland Security Blue Campaign Authorization Act of 2017 | **Yea** | Passed |
-| 2017-12-20 | H.R. 1: Tax Cuts and Jobs Act | **Yea** | Passed |
-
-**Sources**
-
-- [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-10 -->
 > [!attention] Fresh API data available — needs manual merge

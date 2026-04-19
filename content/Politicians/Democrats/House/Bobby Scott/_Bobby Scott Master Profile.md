@@ -143,6 +143,44 @@ donors: [[SEIU - Service Employees International Union|SEIU]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,723 |
+| Votes with party majority | 1,682 |
+| Party-line loyalty | 97.6% |
+| Deviations from party | 41 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 41):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
+| 2024-06-28 | h329-118.2 | Aye | N | — |
+| 2024-06-27 | h325-118.2 | No | Y | — |
+| 2024-06-13 | h264-118.2 | Aye | N | — |
+| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
+| 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Bobby Scott has represented Virginia's 3rd Congressional District since 1993 — over three decades. He was the first Black congressman from Virginia since Reconstruction. His district spans the Hampton Roads region: Norfolk, Newport News, and parts of Richmond. It's a majority-minority district anchored by military installations (Naval Station Norfolk, Newport News Shipbuilding) and historically Black communities.
@@ -335,43 +373,6 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 <!-- auto:fec-politician pending-merge end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,723 |
-| Votes with party majority | 1,682 |
-| Party-line loyalty | 97.6% |
-| Deviations from party | 41 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 41):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
-| 2024-06-28 | h329-118.2 | Aye | N | — |
-| 2024-06-27 | h325-118.2 | No | Y | — |
-| 2024-06-13 | h264-118.2 | Aye | N | — |
-| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
-| 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

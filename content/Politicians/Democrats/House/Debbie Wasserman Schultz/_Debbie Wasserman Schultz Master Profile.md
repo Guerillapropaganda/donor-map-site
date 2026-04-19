@@ -132,6 +132,44 @@ donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,702 |
+| Votes with party majority | 1,656 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 46 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 46):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Debbie Wasserman Schultz. U.S. Representative, Florida's 25th Congressional District (D). Serving since 2005. Former Chair of the Democratic National Committee (2011-2016). Born September 27, 1966, Queens, NY. Moved to Florida for college (University of Florida).
@@ -314,43 +352,6 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,702 |
-| Votes with party majority | 1,656 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 46 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 46):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-27 | h105-119.2 | Yea | N | HR 7084 |
-| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
-| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
-| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
-| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

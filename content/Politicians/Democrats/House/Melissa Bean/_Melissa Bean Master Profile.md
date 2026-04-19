@@ -144,6 +144,11 @@ donors: [[Think Big AI PAC]] · [[AIPAC - American Israel Public Affairs Committ
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Melissa L. Bean was born January 22, 1962, in Chicago to a Serbian-American family; her adopted father owned a machine belt factory. She graduated from Maine East High School in Park Ridge in 1980, earned an associate degree from Oakton Community College in Des Plaines in 1982, and received a Bachelor's degree from Roosevelt University in 2002. Bean worked for several telecommunications companies before founding Sales Resources Inc. in 1995, a consulting firm providing training and curriculum services specializing in channel market optimization. She served as U.S. Representative from Illinois' 8th Congressional District from 2005 to 2011, becoming the first Democrat to represent the district since its formation in 1935. Bean lost her 2010 re-election bid to Republican Joe Walsh by 291 votes. After Congress, she served as President and CEO of the Executives Club of Chicago (2011-2019), as Midwest operations chair for JPMorgan Chase, and as CEO of Mesirow Wealth Advisors (2019-2025). On March 17, 2026, Bean won the Democratic primary for Illinois' 8th Congressional District with $7M+ in super PAC support, positioning her for a return to Congress after a 15-year absence.
@@ -376,10 +381,6 @@ _No committee data found._
 <!-- auto:fec-summary end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

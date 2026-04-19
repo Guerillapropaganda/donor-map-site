@@ -171,6 +171,43 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,410 |
+| Votes with party majority | 1,354 |
+| Party-line loyalty | 96.0% |
+| Deviations from party | 55 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 55):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| October 31 | s277-118.1 | Yea | N | — |
+| October 18 | s260-118.1 | Yea | N | S.J.Res. 32 |
+| November 1 | s614-119.1 | Nay | Y | — |
+| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
+| March 6, 2 | s109-119.1 | Yea | N | PN 11-4 |
+| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
+| March 29,  | s80-118.1 | Yea | N | H.J.Res. 7 |
+| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
+| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
+| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 John Wright Hickenlooper Jr. (born February 7, 1952). Democratic U.S. Senator from Colorado since 2021. Previously the 42nd Governor of Colorado (2011–2019) and Mayor of Denver (2003–2011). Geologist turned brewpub founder turned politician. Up for reelection in 2026, has confirmed this will be his final Senate campaign. Serves on the Senate Energy and Natural Resources Committee, Commerce Committee, and Small Business and Entrepreneurship Committee. Leadership PAC: Giddy Up PAC.
@@ -501,42 +538,6 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,410 |
-| Votes with party majority | 1,354 |
-| Party-line loyalty | 96.0% |
-| Deviations from party | 55 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 55):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| October 31 | s277-118.1 | Yea | N | — |
-| October 18 | s260-118.1 | Yea | N | S.J.Res. 32 |
-| November 1 | s614-119.1 | Nay | Y | — |
-| May 16, 20 | s169-118.2 | Yea | N | H.J.Res. 109 |
-| March 6, 2 | s109-119.1 | Yea | N | PN 11-4 |
-| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
-| March 29,  | s80-118.1 | Yea | N | H.J.Res. 7 |
-| March 26,  | s151-119.1 | Yea | N | H.J.Res. 25 |
-| March 26,  | s150-119.1 | Yea | N | H.J.Res. 25 |
-| March 25,  | s138-119.1 | Yea | N | PN 13-8 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

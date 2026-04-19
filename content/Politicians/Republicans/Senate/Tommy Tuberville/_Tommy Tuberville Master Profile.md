@@ -91,6 +91,43 @@ donors: [[Defense Industry Bloc]] · Agriculture Bloc
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,346 |
+| Votes with party majority | 1,263 |
+| Party-line loyalty | 93.8% |
+| Deviations from party | 81 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 81):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s214-118.1 | Nay | Y | PN 645 |
+| September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s235-118.1 | Nay | Y | PN 677 |
+| September  | s234-118.1 | Nay | Y | PN 677 |
+| September  | s227-118.1 | Nay | Y | H.R. 4366 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Tommy Tuberville. Junior Senator from Alabama (2021–present). Former head football coach at Auburn University (1999–2008), Ole Miss (1995–1998), Texas Tech (2010–2012), and University of Cincinnati (2013–2016). No prior political experience before winning the 2020 Senate race against Democratic incumbent Doug Jones. Member of the Senate Armed Services Committee, Agriculture Committee, and Veterans' Affairs Committee. First-time political candidate who had never held elected office before age 65. Voted to object to the 2020 presidential election certification on January 6, 2021.
@@ -302,42 +339,6 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,346 |
-| Votes with party majority | 1,263 |
-| Party-line loyalty | 93.8% |
-| Deviations from party | 81 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 81):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s234-118.1 | Nay | Y | PN 677 |
-| September  | s227-118.1 | Nay | Y | H.R. 4366 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

@@ -118,6 +118,11 @@ donors: [[Senate Majority PAC]] · [[ActBlue]] · Working Families PAC · [[Labo
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 [[_Dan Osborn Master Profile|Dan Osborn]] is an independent U.S. Senate candidate from Nebraska running in 2026 against incumbent Republican Pete Ricketts. He is a U.S. Navy veteran and industrial mechanic with over two decades of labor union organizing experience. Osborn served as president of Bakery, Confectionery, Tobacco Workers and Grain Millers International Union Local 50G in Omaha and led the major strike at Kellogg's Omaha plant in 2021, gaining national attention for his working-class organizing. His 2024 Senate campaign against Deb Fischer was one of the most competitive independent campaigns in Nebraska history, losing by only 7 points (47%–53%) in a state that broke for Trump by 20+ points. In late 2024, Osborn founded the Working Class Heroes Fund, a hybrid PAC designed to support working-class candidates for office. In July 2025, he announced his candidacy for the 2026 race.
@@ -293,10 +298,6 @@ party:: Independent
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->

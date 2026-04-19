@@ -92,6 +92,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,702 |
+| Votes with party majority | 1,644 |
+| Party-line loyalty | 96.6% |
+| Deviations from party | 58 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 58):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-15 | h29-119.2 | Nay | Y | — |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jim McGovern represents Massachusetts's 2nd Congressional District (Worcester and western Massachusetts) and is the Ranking Member of the House Rules Committee — the committee that controls which bills reach the House floor, under what terms, and with which amendments allowed. He chaired the Rules Committee in the 116th and 117th Congresses (2019-2023). He has served in Congress since 1997.
@@ -276,43 +314,6 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 ## Committee Assignments (Congress.gov)
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,702 |
-| Votes with party majority | 1,644 |
-| Party-line loyalty | 96.6% |
-| Deviations from party | 58 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 58):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
-| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-15 | h29-119.2 | Nay | Y | — |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
-| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
-| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

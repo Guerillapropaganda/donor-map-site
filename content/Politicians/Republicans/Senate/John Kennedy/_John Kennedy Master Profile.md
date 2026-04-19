@@ -137,6 +137,47 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,688 |
+| Votes with party majority | 2,497 |
+| Party-line loyalty | 92.9% |
+| Deviations from party | 186 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 186):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| September  | s500-119.1 | Nay | Y | S. 2296 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| October 9, | s563-119.1 | Nay | Y | — |
+| October 31 | s274-118.1 | Yea | N | PN 452 |
+| October 30 | s273-118.1 | Yea | N | PN 452 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 John Kennedy. Republican Senator from Louisiana since 2017. Former Democrat (switched parties in 2007). Former state treasurer (2000–2017). Serves on Judiciary, Appropriations, Banking, Budget, and Small Business committees. Reelected in 2022, defeating 12 opponents in an open primary with 62% of the vote, avoiding a runoff entirely. Raised $51.6M for the 2019–2024 cycle with $15.9M cash on hand at cycle's end. Oxford and University of Virginia law degrees. Next election: 2028.
@@ -392,46 +433,6 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 <!-- auto:influence-cross-ref pending-merge end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,688 |
-| Votes with party majority | 2,497 |
-| Party-line loyalty | 92.9% |
-| Deviations from party | 186 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 186):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 9, | s563-119.1 | Nay | Y | — |
-| October 31 | s274-118.1 | Yea | N | PN 452 |
-| October 30 | s273-118.1 | Yea | N | PN 452 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-09 -->
 > [!attention] Fresh API data available — needs manual merge

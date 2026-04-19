@@ -113,6 +113,40 @@ urls-first-triaged: "2026-04-15"
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 485 |
+| Substantive votes (Y/N) | 468 |
+| Votes with party majority | 459 |
+| Party-line loyalty | 98.1% |
+| Deviations from party | 9 |
+
+**Coverage:**
+
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 9):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
+| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
+| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+| 2025-01-09 | h7-119.1 | Yea | N | HR 23 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 George Latimer. U.S. Representative for New York's 16th Congressional District since January 2025. Former Westchester County Executive (2018–2024). Defeated incumbent [[_Jamaal Bowman Master Profile|Jamaal Bowman]] in the June 2024 Democratic primary in the most expensive House primary in American history, a race defined by $14.9M+ in independent expenditures from AIPAC's United Democracy Project supporting Latimer and opposing Bowman.
@@ -201,39 +235,6 @@ His House voting record confirms the expectation. FIT21, the crypto markets dere
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 485 |
-| Substantive votes (Y/N) | 468 |
-| Votes with party majority | 459 |
-| Party-line loyalty | 98.1% |
-| Deviations from party | 9 |
-
-**Coverage:**
-
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 9):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
-| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-07-17 | h199-119.1 | Yea | N | HR 3633 |
-| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
-| 2025-03-11 | h71-119.1 | Yea | N | HJRES 25 |
-| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
-| 2025-01-09 | h7-119.1 | Yea | N | HR 23 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ## Archived
 

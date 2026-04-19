@@ -63,6 +63,45 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,900 |
+| Substantive votes (Y/N) | 1,726 |
+| Votes with party majority | 1,601 |
+| Party-line loyalty | 92.8% |
+| Deviations from party | 117 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 230 votes
+
+**Most recent party-line deviations (top 10 of 117):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s204-115.2 | Nay | Y | PN 1650 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services misconduct. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee, the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
@@ -169,44 +208,6 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,900 |
-| Substantive votes (Y/N) | 1,726 |
-| Votes with party majority | 1,601 |
-| Party-line loyalty | 92.8% |
-| Deviations from party | 117 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 230 votes
-
-**Most recent party-line deviations (top 10 of 117):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s204-115.2 | Nay | Y | PN 1650 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

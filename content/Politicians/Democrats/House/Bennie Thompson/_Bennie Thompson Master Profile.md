@@ -122,6 +122,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,683 |
+| Votes with party majority | 1,657 |
+| Party-line loyalty | 98.5% |
+| Deviations from party | 26 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 26):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
+| 2025-05-07 | h120-119.1 | Yea | N | HR 881 |
+| 2025-05-01 | h114-119.1 | Yea | N | HJRES 88 |
+| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Bennie Thompson has represented Mississippi's 2nd Congressional District since 1993. The district is one of the poorest in America, 26%+ poverty rate, majority-Black, spanning the Mississippi Delta from Jackson to the Arkansas border. Before Congress, Thompson was a civil rights organizer with the Student Nonviolent Coordinating Committee (SNCC) and served as an alderman and mayor in Bolton, Mississippi.
@@ -354,43 +392,6 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,683 |
-| Votes with party majority | 1,657 |
-| Party-line loyalty | 98.5% |
-| Deviations from party | 26 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 26):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-02-12 | h70-119.2 | Yea | N | HR 2189 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
-| 2025-05-07 | h120-119.1 | Yea | N | HR 881 |
-| 2025-05-01 | h114-119.1 | Yea | N | HJRES 88 |
-| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

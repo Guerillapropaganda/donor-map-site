@@ -123,6 +123,11 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Elise Stefanik. U.S. Representative for New York's 21st District (2015-present), House Republican Conference Chair (third-ranking Republican), and the politician whose career arc most clearly illustrates the financial rewards of ideological transformation in the Trump-era GOP.
@@ -284,10 +289,6 @@ Stefanik's E-PAC (Elevate PAC) extends the class function beyond her own career.
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

@@ -141,6 +141,43 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,410 |
+| Substantive votes (Y/N) | 1,274 |
+| Votes with party majority | 1,080 |
+| Party-line loyalty | 84.8% |
+| Deviations from party | 183 |
+
+**Coverage:**
+
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+
+**Most recent party-line deviations (top 10 of 183):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s307-116.1 | Yea | N | S.Res. 336 |
+| September  | s306-116.1 | Yea | N | S.Res. 335 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s295-116.1 | Yea | N | PN 114 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s299-116.1 | Yea | N | PN 114 |
+| September  | s185-116.2 | Yea | N | PN 1348 |
+| September  | s189-116.2 | Yea | N | PN 1694 |
+| September  | s188-116.2 | Yea | N | PN 1694 |
+| September  | s291-116.1 | Yea | N | PN 794 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Kyrsten Sinema. Former U.S. Senator from Arizona (2019–2025). Left the Democratic Party to register as Independent (December 9, 2022). Did not seek reelection in 2024 despite holding a $10.6 million campaign war chest. Post-Senate: joined Hogan Lovells as Senior Advisor for AI, crypto, and regulatory affairs (March 2025); appointed to Coinbase Global Advisory Council (January 2025); founded AI Infrastructure Coalition; professor at Arizona State University. The most documented case of real-time donor capture in modern Senate history: ran as a progressive bisexual social worker in 2018, shifted to Wall Street and private equity funding by 2021, blocked the carried interest loophole closure that would have cost her new donors $6.5–14 billion over a decade, then moved directly to the industries she protected within months of leaving office.
@@ -373,42 +410,6 @@ _No committee data found._
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,410 |
-| Substantive votes (Y/N) | 1,274 |
-| Votes with party majority | 1,080 |
-| Party-line loyalty | 84.8% |
-| Deviations from party | 183 |
-
-**Coverage:**
-
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-
-**Most recent party-line deviations (top 10 of 183):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s307-116.1 | Yea | N | S.Res. 336 |
-| September  | s306-116.1 | Yea | N | S.Res. 335 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s295-116.1 | Yea | N | PN 114 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s299-116.1 | Yea | N | PN 114 |
-| September  | s185-116.2 | Yea | N | PN 1348 |
-| September  | s189-116.2 | Yea | N | PN 1694 |
-| September  | s188-116.2 | Yea | N | PN 1694 |
-| September  | s291-116.1 | Yea | N | PN 794 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

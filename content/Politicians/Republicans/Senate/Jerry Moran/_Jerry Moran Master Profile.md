@@ -123,6 +123,47 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,548 |
+| Votes with party majority | 2,398 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 145 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 145):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| October 26 | s271-118.1 | Nay | Y | — |
+| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
+| October 19 | s238-115.1 | Nay | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jerry Moran is the senior senator from Kansas and chairs the Senate Veterans' Affairs Committee. He also serves on the Appropriations Committee, the Commerce Committee (where he chairs the Aviation, Space, and Innovation Subcommittee), Agriculture, Indian Affairs, and the Select Committee on Intelligence. He has served in the Senate since 2011, after 14 years representing Kansas's 1st Congressional District ("the Big First", western Kansas) in the House (1997-2011).
@@ -301,46 +342,6 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,548 |
-| Votes with party majority | 2,398 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 145 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 145):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s302-116.1 | Yea | N | S.J.Res. 54 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 26 | s271-118.1 | Nay | Y | — |
-| October 24 | s247-115.1 | Nay | Y | H.R. 2266 |
-| October 19 | s238-115.1 | Nay | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

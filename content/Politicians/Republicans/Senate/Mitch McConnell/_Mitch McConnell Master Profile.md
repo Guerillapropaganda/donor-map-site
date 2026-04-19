@@ -135,6 +135,47 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,637 |
+| Votes with party majority | 2,510 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 122 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 122):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s292-116.1 | Nay | Y | H.R. 2740 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
+| October 9, | s563-119.1 | Nay | Y | — |
+| October 4, | s249-118.1 | Yea | N | PN 676 |
+| October 31 | s339-116.1 | Nay | Y | — |
+| October 31 | s342-116.1 | Nay | Y | H.R. 2740 |
+| October 30 | s600-119.1 | Yea | N | S.J.Res. 88 |
+| October 3, | s248-118.1 | Yea | N | PN 676 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 [[_Mitch McConnell Master Profile|Mitch McConnell]]. U.S. Senate Republican Leader (2007–2025, longest-serving Senate leader in American history). Senior Senator from Kentucky (1985–present, retiring 2026). Now serves as Senate Rules Committee Chairman. Net worth: ~$35 million (largely through wife Elaine Chao's family shipping fortune). Career campaign fundraising: $47+ million to campaign committees. Announced February 20, 2025 (his 83rd birthday) that he will not seek reelection.
@@ -388,46 +429,6 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 <!-- auto:fec-politician end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,637 |
-| Votes with party majority | 2,510 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 122 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 122):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s292-116.1 | Nay | Y | H.R. 2740 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s521-119.1 | Nay | Y | S.Con.Res. 22 |
-| October 9, | s563-119.1 | Nay | Y | — |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 31 | s339-116.1 | Nay | Y | — |
-| October 31 | s342-116.1 | Nay | Y | H.R. 2740 |
-| October 30 | s600-119.1 | Yea | N | S.J.Res. 88 |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ## Committee Assignments (Congress.gov)
 

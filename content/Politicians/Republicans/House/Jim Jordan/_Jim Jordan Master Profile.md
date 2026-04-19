@@ -73,6 +73,44 @@ donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,691 |
+| Votes with party majority | 1,567 |
+| Party-line loyalty | 92.7% |
+| Deviations from party | 124 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 124):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Jim Jordan. U.S. Representative, Ohio's 4th District (2007–present). Chairman, House Judiciary Committee (2023–present). Co-founder, House Freedom Caucus (2015, with Mark Meadows). Failed Speaker candidate (October 2023, lost three ballots, opposition grew from 12 to 25 Republicans). The most aggressive Trump defender in Congress, and the congressman who spent 15 years receiving zero NRCC contributions, then received $1.7 million when he pursued committee leadership.
@@ -223,43 +261,6 @@ The class function is explicit: Jordan converts congressional authority into a s
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,691 |
-| Votes with party majority | 1,567 |
-| Party-line loyalty | 92.7% |
-| Deviations from party | 124 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 124):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
-| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
-| 2025-11-19 | h300-119.1 | Nay | Y | HR 4058 |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-09-10 | h255-119.1 | Aye | N | — |
-| 2025-09-10 | h244-119.1 | Aye | N | — |
-| 2025-09-04 | h237-119.1 | Aye | N | — |
-| 2025-09-03 | h229-119.1 | Aye | N | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

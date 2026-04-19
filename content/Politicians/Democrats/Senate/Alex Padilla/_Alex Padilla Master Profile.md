@@ -151,6 +151,43 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,433 |
+| Substantive votes (Y/N) | 1,372 |
+| Votes with party majority | 1,330 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 41 |
+
+**Coverage:**
+
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 41):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s503-119.1 | Nay | Y | S. 2296 |
+| September  | s500-119.1 | Nay | Y | S. 2296 |
+| October 9, | s570-119.1 | Nay | Y | S. 2296 |
+| November 1 | s620-119.1 | Yea | N | PN 445-6 |
+| November 1 | s619-119.1 | Yea | N | PN 445-6 |
+| May 23, 20 | s182-118.2 | Nay | Y | S. 4361 |
+| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
+| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
+| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
+| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Alex Padilla is the senior U.S. Senator from California and the Ranking Member of the Senate Rules and Administration Committee — the committee overseeing federal election administration, campaign finance law, and Senate operations. He also serves on Judiciary, Environment and Public Works, Budget, and Homeland Security and Governmental Affairs. He was appointed to the Senate in January 2021 by Governor Gavin Newsom after Kamala Harris became Vice President, and won election in his own right in 2022.
@@ -388,42 +425,6 @@ The appointment contradiction adds a layer. Padilla's Senate career began when G
 <!-- auto:fec-summary end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,433 |
-| Substantive votes (Y/N) | 1,372 |
-| Votes with party majority | 1,330 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 41 |
-
-**Coverage:**
-
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 41):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s503-119.1 | Nay | Y | S. 2296 |
-| September  | s500-119.1 | Nay | Y | S. 2296 |
-| October 9, | s570-119.1 | Nay | Y | S. 2296 |
-| November 1 | s620-119.1 | Yea | N | PN 445-6 |
-| November 1 | s619-119.1 | Yea | N | PN 445-6 |
-| May 23, 20 | s182-118.2 | Nay | Y | S. 4361 |
-| May 21, 20 | s263-119.1 | Yea | N | S. 1582 |
-| May 19, 20 | s262-119.1 | Yea | N | S. 1582 |
-| March 4, 2 | s101-119.1 | Yea | N | S.J.Res. 3 |
-| March 4, 2 | s102-119.1 | Yea | N | S.J.Res. 3 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

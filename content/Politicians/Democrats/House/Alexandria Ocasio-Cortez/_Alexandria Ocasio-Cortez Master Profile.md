@@ -161,6 +161,44 @@ donors: [[Small Dollar Donors - ActBlue]]
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,670 |
+| Votes with party majority | 1,568 |
+| Party-line loyalty | 93.9% |
+| Deviations from party | 102 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 102):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-01-15 | h29-119.2 | Nay | Y | — |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Alexandria Ocasio-Cortez. Born October 13, 1989, Bronx, New York. Democrat. U.S. Representative for New York's 14th district (2019–present). Member of the Democratic Socialists of America. Graduated cum laude from Boston University in 2011, double major in International Relations and Economics. Interned for Ted Kennedy's immigration casework office during college. Studied abroad in Niger through BU's Niamey International Development program — a USAID-funded initiative that brought ~20 students per semester at its peak. The program was briefly suspended in spring 2010 during the Nigerien coup and resumed fall 2010. [Daily Free Press (BU student newspaper), January 2023](URL NEEDED) (Tier 2). After graduation, returned to the Bronx. Launched Brook Avenue Press, a children's book publishing startup, through the Sunshine Bronx Business Incubator — a city-subsidized co-working space in Hunts Point run by Israeli-American entrepreneurs Joe Raby and Cheni Yerushalmi. Also worked as Lead Educational Strategist at GAGEis, Inc. (Yerushalmi's professional development firm housed in the same incubator). Raby later relocated to Israel and founded Maverick Ventures Israel. When the Times of Israel investigated the connection in October 2020, AOC spokesperson Lauren Hitt said the names "are not ringing a bell with us over here." Raby responded: "Never met her. She was a tenant. That's all." Brook Avenue Press was dissolved by New York State in October 2016 for inactivity; Fox News reported the company owed $1,870 in state taxes. [Times of Israel, October 2020](URL NEEDED) (Tier 2). Bartender and community organizer before entering politics. Defeated 10-term incumbent Joe Crowley in the 2018 primary — one of the largest upsets in modern congressional history. Youngest woman ever elected to Congress at time of election (age 29). No corporate PAC money accepted — ever. 2024 fundraising: raised $9.4 million for her own race, plus an additional $15M in H1 2025 alone with 736,000 individual contributions at ~$20 average. Net worth: modest (negative to low-positive, consistent with no personal wealth before entering politics).
@@ -557,43 +595,6 @@ _No committee data found for the 119th Congress._
 <!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,670 |
-| Votes with party majority | 1,568 |
-| Party-line loyalty | 93.9% |
-| Deviations from party | 102 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 102):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
-| 2026-01-15 | h29-119.2 | Nay | Y | — |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
-| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
-| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

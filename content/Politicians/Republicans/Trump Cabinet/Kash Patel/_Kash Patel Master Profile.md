@@ -49,6 +49,11 @@ donors: [[Save America PAC]] · Trump Media · [[MAGA Inc]] · Epoch Times
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Kash Patel. FBI Director (2025–present). Former Chief of Staff to Acting Secretary of Defense (2020–2021). Former Principal Deputy Director of National Intelligence (2020). Former NSC Senior Director for Counterterrorism (2019–2020). Former House Intelligence Committee aide and primary author of the Nunes Memo (2017–2018). Founder, Trishul LLC (consulting firm, $2.1M in 2024). Author, "Government Gangsters" (NYT bestseller). Net worth: $5–30 million. Confirmed 51-49. The first FBI Director whose entire pre-appointment career was built on loyalty to the president who appointed him.
@@ -195,10 +200,6 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

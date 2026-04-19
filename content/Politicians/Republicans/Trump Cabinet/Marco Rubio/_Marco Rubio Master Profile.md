@@ -62,6 +62,46 @@ urls-first-triaged: "2026-04-15"
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,017 |
+| Substantive votes (Y/N) | 1,855 |
+| Votes with party majority | 1,766 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 85 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 8 votes
+
+**Most recent party-line deviations (top 10 of 85):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s310-116.1 | Yea | N | — |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s235-118.1 | Nay | Y | PN 677 |
+| September  | s248-118.2 | Nay | Y | PN 1399 |
+| October 28 | s335-116.1 | Yea | N | — |
+| October 17 | s255-118.1 | Yea | N | PN 812 |
+| October 17 | s325-116.1 | Yea | N | S.J.Res. 54 |
+| May 8, 201 | s102-116.1 | Nay | Y | PN 54 |
+| May 8, 201 | s101-116.1 | Nay | Y | PN 47 |
+| May 8, 201 | s100-116.1 | Nay | Y | PN 55 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Marco Rubio. U.S. Secretary of State (confirmed 99-0, January 20, 2025, first Latino to serve as Secretary of State) ([ABC News](https://abcnews.com/Politics/marco-rubio-unanimously-confirmed-secretary-state-becoming-member/story?id=117914119) (VERIFIED), Tier 2). Former U.S. Senator from Florida (2011–2025). 2016 Republican presidential candidate. Born May 28, 1971, Miami, FL, to Cuban immigrant parents who came to the United States in the late 1950s before Castro's revolution. West Miami neighborhood. Catholic. University of Florida → University of Miami Law School.
@@ -403,46 +443,6 @@ Hosted Israel-Lebanon talks (April 14, 2026). Hezbollah declined to participate 
 <!-- auto:influence-cross-ref end -->
 
 ## Voting Record
-
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,017 |
-| Substantive votes (Y/N) | 1,855 |
-| Votes with party majority | 1,766 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 85 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 8 votes
-
-**Most recent party-line deviations (top 10 of 85):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s310-116.1 | Yea | N | — |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s235-118.1 | Nay | Y | PN 677 |
-| September  | s248-118.2 | Nay | Y | PN 1399 |
-| October 28 | s335-116.1 | Yea | N | — |
-| October 17 | s255-118.1 | Yea | N | PN 812 |
-| October 17 | s325-116.1 | Yea | N | S.J.Res. 54 |
-| May 8, 201 | s102-116.1 | Nay | Y | PN 54 |
-| May 8, 201 | s101-116.1 | Nay | Y | PN 47 |
-| May 8, 201 | s100-116.1 | Nay | Y | PN 55 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ## Archived
 

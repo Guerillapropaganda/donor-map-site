@@ -129,6 +129,42 @@ donors: [[Securities & Investment Industry]], Commercial Banks Bloc, [[Citadel -
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,020 |
+| Votes with party majority | 953 |
+| Party-line loyalty | 93.4% |
+| Deviations from party | 67 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 67):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-07-24 | h387-118.2 | No | Y | — |
+| 2024-07-23 | h379-118.2 | No | Y | — |
+| 2024-07-23 | h377-118.2 | No | Y | — |
+| 2024-07-23 | h376-118.2 | No | Y | — |
+| 2024-07-23 | h373-118.2 | No | Y | — |
+| 2024-07-23 | h372-118.2 | No | Y | — |
+| 2024-07-23 | h371-118.2 | No | Y | — |
+| 2024-07-23 | h370-118.2 | No | Y | — |
+| 2024-07-23 | h369-118.2 | No | Y | — |
+| 2024-07-23 | h368-118.2 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 [[_Patrick McHenry Master Profile|Patrick McHenry]]. U.S. Representative, North Carolina's 10th District (2005–present). Republican. Chair, House Financial Services Committee (2023-2024). The most consequential financial deregulation architect in the 118th Congress. Career campaign financing: $5M+ from securities, banking, and crypto sectors. His signature legislative achievement: FIT21 (Financial Innovation and Technology for the 21st Century Act), the crypto industry's dream bill, passed May 2024, that preempts state crypto regulation and creates a federal framework written by the industry it supposedly regulates. Six weeks after leaving office in January 2025, McHenry took six jobs in the financial sector simultaneously. The revolving door made explicit: he was hired by the industries he regulated because his regulation was actually deregulation written in their handwriting.
@@ -405,41 +441,6 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,020 |
-| Votes with party majority | 953 |
-| Party-line loyalty | 93.4% |
-| Deviations from party | 67 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-
-**Most recent party-line deviations (top 10 of 67):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2024-07-24 | h387-118.2 | No | Y | — |
-| 2024-07-23 | h379-118.2 | No | Y | — |
-| 2024-07-23 | h377-118.2 | No | Y | — |
-| 2024-07-23 | h376-118.2 | No | Y | — |
-| 2024-07-23 | h373-118.2 | No | Y | — |
-| 2024-07-23 | h372-118.2 | No | Y | — |
-| 2024-07-23 | h371-118.2 | No | Y | — |
-| 2024-07-23 | h370-118.2 | No | Y | — |
-| 2024-07-23 | h369-118.2 | No | Y | — |
-| 2024-07-23 | h368-118.2 | No | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

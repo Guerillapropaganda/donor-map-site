@@ -57,6 +57,11 @@ donors: [[Robert Mercer]] · [[Rebekah Mercer]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Steve Bannon. Former White House Chief Strategist (January–August 2017, 7.5 months). Trump campaign CEO (August–November 2016). Breitbart News Executive Chairman (2012–2018). [[Goldman Sachs|Goldman Sachs]] VP, Mergers & Acquisitions (1985–1990, ~$450K/year). Seinfeld residuals: swapped Goldman advisory fees for syndication equity stake (estimated $25-50 million cumulative from $3.1 billion in reruns). Breitbart salary: $750K/year. Government Accountability Institute co-founder with Peter Schweizer ($376K salary for 30 hrs/week, dual compensation with Breitbart). Cambridge Analytica VP ($125K+, named the company). Entirely funded by one family: [[Robert Mercer|Robert Mercer]] invested $10 million in Breitbart, $15-20 million in Cambridge Analytica, $3.7 million in GAI. Met Mercers at 2011 [[Club for Growth|Club for Growth]] event (introduced by Andrew Breitbart). Directed Mercer money from Cruz to Trump in 2016, the most consequential donor-candidate redirection in modern political history. We Build the Wall misconduct: $25M raised, $1M to Bannon personally. Federal charges pardoned by Trump (January 19, 2021, final hours of first term). New York state guilty plea (February 2025, plan to deceive, 3-year conditional discharge). Contempt of Congress: convicted July 2022, 4 months federal prison (served July-October 2024). War Room podcast as ongoing influence operation. Mercer estrangement since January 2018 ("Fire and Fury" fallout + Roy Moore support). The [[Goldman Sachs|Goldman Sachs]] banker turned populist warrior, funded by a hedge fund billionaire, convicted of defrauding the donors he claimed to serve.
@@ -155,10 +160,6 @@ When Bannon's usefulness expired, the Mercers cut him off. The January 2018 "Fir
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

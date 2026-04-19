@@ -137,6 +137,47 @@ donors: [[Boeing]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,728 |
+| Votes with party majority | 2,597 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 123 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 123):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s183-116.2 | Nay | Y | PN 1508 |
+| September  | s176-116.2 | Nay | Y | PN 1538 |
+| September  | s181-116.2 | Nay | Y | PN 1508 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Maria Cantwell is the junior senator from Washington State, serving since 2001. She chairs (or serves as ranking member of) the Senate Commerce, Science, and Transportation Committee, the first woman to hold that position. The committee's jurisdiction spans aviation (FAA), telecommunications, internet policy, consumer protection, surface transportation, and the Coast Guard. She also sits on Finance and Energy and Natural Resources.
@@ -367,46 +408,6 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 <!-- auto:stock-trades pending-merge end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,728 |
-| Votes with party majority | 2,597 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 123 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 123):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s183-116.2 | Nay | Y | PN 1508 |
-| September  | s176-116.2 | Nay | Y | PN 1538 |
-| September  | s181-116.2 | Nay | Y | PN 1508 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

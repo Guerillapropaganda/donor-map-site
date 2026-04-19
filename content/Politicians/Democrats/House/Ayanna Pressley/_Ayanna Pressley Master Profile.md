@@ -173,6 +173,44 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,656 |
+| Votes with party majority | 1,557 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 99 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 99):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
+| 2025-07-15 | h196-119.1 | Nay | Y | HR 1717 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Ayanna Pressley. Democratic Representative from Massachusetts's 7th District (Boston, Cambridge, parts of Milton and Randolph). First Black woman elected to Congress from Massachusetts. Original "Squad" member alongside AOC, Ilhan Omar, and Rashida Tlaib. Serves on the Financial Services Committee. Elected in 2018 by defeating 20-year incumbent Michael Capuano in the Democratic primary — not on policy differences (their voting records were nearly identical) but on representation, generational change, and constituent accountability. Pressley herself acknowledged during the campaign: "We will vote the same way, but lead differently." Capuano was a reliable progressive vote; Pressley's argument was that representation itself is a form of power.
@@ -380,43 +418,6 @@ Pressley's real power base is Labor ($278,750 career PAC) and Ideological donors
 <!-- auto:govtrack pending-merge end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,656 |
-| Votes with party majority | 1,557 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 99 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 99):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-09-02 | h219-119.1 | Nay | Y | HR 4216 |
-| 2025-07-15 | h196-119.1 | Nay | Y | HR 1717 |
-| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
-| 2025-06-23 | h173-119.1 | Nay | Y | HR 3394 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

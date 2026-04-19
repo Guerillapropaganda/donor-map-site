@@ -130,6 +130,47 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,708 |
+| Votes with party majority | 2,650 |
+| Party-line loyalty | 97.9% |
+| Deviations from party | 53 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 53):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s191-115.1 | Nay | Y | H.R. 601 |
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s255-118.2 | Nay | Y | H.R. 9747 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| October 28 | s335-116.1 | Yea | N | — |
+| October 19 | s237-115.1 | Nay | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Deb Fischer is the senior senator from Nebraska and chairs the Senate Armed Services Subcommittee on Strategic Forces — the subcommittee with jurisdiction over U.S. Strategic Command (STRATCOM, headquartered at Offutt Air Force Base in Nebraska), the nuclear triad, missile defense, and the Department of Energy's nuclear weapons programs. She also sits on the Commerce Committee and the Agriculture Committee.
@@ -356,46 +397,6 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,708 |
-| Votes with party majority | 2,650 |
-| Party-line loyalty | 97.9% |
-| Deviations from party | 53 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 53):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s191-115.1 | Nay | Y | H.R. 601 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s255-118.2 | Nay | Y | H.R. 9747 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 28 | s335-116.1 | Yea | N | — |
-| October 19 | s237-115.1 | Nay | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

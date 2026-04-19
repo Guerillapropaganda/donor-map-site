@@ -154,6 +154,47 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] �
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,623 |
+| Votes with party majority | 2,465 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 149 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 149):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s263-116.1 | Yea | N | PN 713 |
+| September  | s203-115.2 | Yea | N | PN 1525 |
+| September  | s208-115.1 | Yea | N | PN 89 |
+| September  | s297-116.1 | Yea | N | PN 87 |
+| September  | s301-116.1 | Yea | N | PN 87 |
+| September  | s284-116.1 | Yea | N | PN 127 |
+| September  | s283-116.1 | Yea | N | PN 135 |
+| September  | s285-116.1 | Yea | N | PN 127 |
+| September  | s282-116.1 | Yea | N | PN 135 |
+| September  | s273-116.1 | Yea | N | PN 561 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 [[_Chris Coons Master Profile|Chris Coons]] is the senior United States Senator from Delaware, serving since November 2010. Born September 9, 1963, in Greenwich, Connecticut. B.A. in chemistry and political science from Amherst College. Master's in ethics from Yale Divinity School. J.D. from Yale Law School. Worked for eight years as in-house counsel at W.L. Gore & Associates (makers of Gore-Tex), handling ethics training, federal government relations, and commercial contracting. Served as president of the New Castle County Council (2001–2005) and New Castle County Executive (2005–2010). Won a 2010 special election against Christine O'Donnell to fill Joe Biden's Senate seat, the seat Biden vacated when he became Vice President. Coons's family business manufactures medical devices and depends on patents to maintain its monopolies. Reelected 2014 and 2020.
@@ -425,46 +466,6 @@ party:: Democrat
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,623 |
-| Votes with party majority | 2,465 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 149 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 149):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s263-116.1 | Yea | N | PN 713 |
-| September  | s203-115.2 | Yea | N | PN 1525 |
-| September  | s208-115.1 | Yea | N | PN 89 |
-| September  | s297-116.1 | Yea | N | PN 87 |
-| September  | s301-116.1 | Yea | N | PN 87 |
-| September  | s284-116.1 | Yea | N | PN 127 |
-| September  | s283-116.1 | Yea | N | PN 135 |
-| September  | s285-116.1 | Yea | N | PN 127 |
-| September  | s282-116.1 | Yea | N | PN 135 |
-| September  | s273-116.1 | Yea | N | PN 561 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

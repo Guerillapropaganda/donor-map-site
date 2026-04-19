@@ -164,6 +164,42 @@ top-policy-area: Health
 
 #politician #democrat #progressive #squad #missouri #aipac-target #blm #federal-indictment #class-analysis #follow-the-money
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,011 |
+| Votes with party majority | 920 |
+| Party-line loyalty | 91.0% |
+| Deviations from party | 91 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 91):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-12-10 | h498-118.2 | Nay | Y | HR 9668 |
+| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
+| 2024-11-20 | h476-118.2 | Nay | Y | HRES 1449 |
+| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-09-09 | h401-118.2 | Nay | Y | HR 1157 |
+| 2024-06-13 | h264-118.2 | Aye | N | — |
+| 2024-06-05 | h244-118.2 | No | Y | — |
+| 2024-06-05 | h243-118.2 | No | Y | — |
+| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Cori Bush. Born July 21, 1976, St. Louis, Missouri. U.S. Representative for Missouri's 1st Congressional District from 2021 to 2025. The first Black woman and first nurse to represent Missouri in Congress. The first Black Lives Matter activist elected to Congress. A frontline protester during the 2014 Ferguson uprising and member of the progressive "Squad." She lost the 2024 Democratic primary to Wesley Bell and announced a 2026 comeback bid in October 2025. In August 2025, a federal grand jury indicted Bush and her husband Cortney Merritts on charges related to campaign security payments.
@@ -523,41 +559,6 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer serving in the 119th Congress. Committee assignments from her 117th–118th Congress tenure (Judiciary Committee, Oversight Committee, Education & Labor) are documented in the body narrative above. If her 2026 comeback bid succeeds, this section will repopulate with 120th Congress assignments._
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,011 |
-| Votes with party majority | 920 |
-| Party-line loyalty | 91.0% |
-| Deviations from party | 91 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-
-**Most recent party-line deviations (top 10 of 91):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2024-12-10 | h498-118.2 | Nay | Y | HR 9668 |
-| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
-| 2024-11-20 | h476-118.2 | Nay | Y | HRES 1449 |
-| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-| 2024-09-09 | h401-118.2 | Nay | Y | HR 1157 |
-| 2024-06-13 | h264-118.2 | Aye | N | — |
-| 2024-06-05 | h244-118.2 | No | Y | — |
-| 2024-06-05 | h243-118.2 | No | Y | — |
-| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

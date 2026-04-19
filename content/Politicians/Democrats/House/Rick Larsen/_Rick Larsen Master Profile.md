@@ -139,6 +139,44 @@ donors: [[Boeing]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,652 |
+| Votes with party majority | 1,615 |
+| Party-line loyalty | 97.8% |
+| Deviations from party | 37 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 37):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
+| 2025-11-20 | h304-119.1 | Yea | N | HR 1949 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-06-24 | h178-119.1 | Nay | Y | — |
+| 2025-06-10 | h163-119.1 | Yea | N | HR 884 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Rick Larsen has represented Washington's 2nd Congressional District since 2001 and serves as Ranking Member of the House Transportation and Infrastructure Committee. He previously chaired the Aviation Subcommittee (top Democrat since 2013), the subcommittee with direct FAA oversight authority over Boeing, the largest manufacturer in his state and district.
@@ -333,43 +371,6 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 <!-- auto:govtrack end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,652 |
-| Votes with party majority | 1,615 |
-| Party-line loyalty | 97.8% |
-| Deviations from party | 37 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 37):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-12-11 | h322-119.1 | Yea | N | HRES 939 |
-| 2025-11-20 | h304-119.1 | Yea | N | HR 1949 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-06-24 | h178-119.1 | Nay | Y | — |
-| 2025-06-10 | h163-119.1 | Yea | N | HR 884 |
-| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
-| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

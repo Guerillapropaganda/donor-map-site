@@ -76,6 +76,43 @@ donors: [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,726 |
+| Substantive votes (Y/N) | 1,679 |
+| Votes with party majority | 1,520 |
+| Party-line loyalty | 90.5% |
+| Deviations from party | 159 |
+
+**Coverage:**
+
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 159):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
+| 2025-12-11 | h325-119.1 | Aye | N | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Mike Collins. Republican Senate candidate for Georgia (2026), challenging incumbent Democrat [[_Jon Ossoff Master Profile|Jon Ossoff]]. U.S. Representative (Georgia's 10th congressional district, 2023-present, 2nd term). Background: Trucking company owner (founded with wife Leigh Ann in early 1990s). Age 56 (born July 2, 1967). House voting record: Heritage Action scorecard 98% (2024), aligned with Freedom Caucus on spending/immigration/taxes. Campaign messaging: "send a trucker to the U.S. Senate to steamroll the radical left, deliver on President Trump's America First agenda." Current fundraising: $746K raised (as of early 2026), with concentrated support from three donor blocs: (1) crypto industry including Winklevoss twins ($7K each), [[Elon Musk|Elon Musk]] ($6.6K), SpaceX ($10K); (2) [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and pro-Israel lobby ($20K+); (3) [[Club for Growth|Club for Growth]] (conservative PAC). Self-described cryptocurrency trader with personal portfolio including Ethereum and altcoins (filed up to $745K in crypto trades since entering office). Campaign accepts cryptocurrency donations. Trump relationship: publicly positioning as Trump loyalist; Trump has not yet endorsed in Georgia race. Georgia context: Trump designated Georgia as top priority state to flip Senate seat.
@@ -247,40 +284,3 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Congress.gov: Mike Collins campaign finance summary](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Congress.gov: Mike Collins expenditure records](https://www.congress.gov/search?q=Mike%20Collins&searchResultViewType=expanded)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 
-
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,726 |
-| Substantive votes (Y/N) | 1,679 |
-| Votes with party majority | 1,520 |
-| Party-line loyalty | 90.5% |
-| Deviations from party | 159 |
-
-**Coverage:**
-
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 159):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-24 | h97-119.2 | Nay | Y | HR 6422 |
-| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
-| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
-| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2026-01-20 | h33-119.2 | Nay | Y | HR 5764 |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
-| 2026-01-12 | h14-119.2 | Nay | Y | HR 6500 |
-| 2025-12-11 | h325-119.1 | Aye | N | — |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-09-10 | h255-119.1 | Aye | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->

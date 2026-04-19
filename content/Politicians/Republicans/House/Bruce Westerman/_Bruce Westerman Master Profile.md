@@ -124,6 +124,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,718 |
+| Votes with party majority | 1,653 |
+| Party-line loyalty | 96.2% |
+| Deviations from party | 65 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 65):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-14 | h26-119.2 | No | Y | — |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-04 | h236-119.1 | No | Y | — |
+| 2025-09-04 | h235-119.1 | No | Y | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h228-119.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Bruce Westerman represents Arkansas's 4th Congressional District and chairs the House Natural Resources Committee — the body with jurisdiction over public lands, oil and gas leasing on federal land, mining, forestry, water resources, fisheries, tribal affairs, and national parks. The committee controls who gets to extract what from America's public lands and at what price.
@@ -308,43 +346,6 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,718 |
-| Votes with party majority | 1,653 |
-| Party-line loyalty | 96.2% |
-| Deviations from party | 65 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 65):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-01-14 | h27-119.2 | No | Y | — |
-| 2026-01-14 | h26-119.2 | No | Y | — |
-| 2025-09-10 | h244-119.1 | Aye | N | — |
-| 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-09-03 | h228-119.1 | No | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

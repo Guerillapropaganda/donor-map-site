@@ -120,6 +120,11 @@ This mismatch became the defining feature of his career: real empathy for workin
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Central Thesis. The Structural Democrat
 
 Biden is the structural Democrat. He genuinely believes he fights for working people, and he has done some real things (the ACA expansion, the IRA's clean energy investment, the $15 minimum wage push, the union tiebreaker votes). But his political formation is institutional Democratic politics, where "worker" means "union member" and "capital" means "the financial sector that funds elections." He is not anti-capital; he operates within capital's accepted parameters.
@@ -391,10 +396,6 @@ Biden's career trajectory confirms the class reading. MBNA senator (1989-2005). 
 <!-- auto:executive-orders end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

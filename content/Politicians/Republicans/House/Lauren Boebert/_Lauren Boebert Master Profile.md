@@ -126,6 +126,44 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,636 |
+| Votes with party majority | 1,418 |
+| Party-line loyalty | 86.7% |
+| Deviations from party | 218 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 218):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-17 | h124-119.2 | No | Y | HRES 1175 |
+| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
+| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
+| 2026-02-03 | h53-119.2 | Nay | Y | HR 7148 |
+| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who She Is
 
 Lauren Boebert. Republican Representative, originally from Colorado's 3rd District (2021-2025), relocated to Colorado's 4th District for the 2024 cycle after barely surviving her 2022 re-election by 546 votes. Gun rights activist, former owner of Shooters Grill (a gun-themed restaurant in Rifle, Colorado), Freedom Caucus Communications Chair. No college degree. No prior political experience before 2020.
@@ -311,43 +349,6 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,636 |
-| Votes with party majority | 1,418 |
-| Party-line loyalty | 86.7% |
-| Deviations from party | 218 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 218):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-04-17 | h124-119.2 | No | Y | HRES 1175 |
-| 2026-03-17 | h89-119.2 | Nay | Y | S 3971 |
-| 2026-03-17 | h88-119.2 | Nay | Y | HR 4294 |
-| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
-| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2026-03-04 | h81-119.2 | Nay | Y | S 723 |
-| 2026-02-03 | h53-119.2 | Nay | Y | HR 7148 |
-| 2026-01-22 | h45-119.2 | Nay | Y | HR 7148 |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

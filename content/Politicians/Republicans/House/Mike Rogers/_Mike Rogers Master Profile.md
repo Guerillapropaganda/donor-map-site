@@ -76,6 +76,44 @@ donors: [[Lockheed Martin]] [[Boeing]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,684 |
+| Votes with party majority | 1,594 |
+| Party-line loyalty | 94.7% |
+| Deviations from party | 90 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 90):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-22 | h44-119.2 | No | Y | — |
+| 2026-01-14 | h27-119.2 | No | Y | — |
+| 2026-01-14 | h26-119.2 | No | Y | — |
+| 2025-09-04 | h236-119.1 | No | Y | — |
+| 2025-09-04 | h235-119.1 | No | Y | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-09-03 | h231-119.1 | No | Y | — |
+| 2025-09-03 | h230-119.1 | No | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Mike Rogers has represented Alabama's 3rd Congressional District since 2003 and chairs the House Armed Services Committee, the body that authorizes every dollar of Pentagon spending and every major weapons system acquisition. He's a lawyer by training (Birmingham School of Law, Jacksonville State University) who served on the Calhoun County Commission before entering Congress.
@@ -300,41 +338,3 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
-
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,684 |
-| Votes with party majority | 1,594 |
-| Party-line loyalty | 94.7% |
-| Deviations from party | 90 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 90):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-01-22 | h44-119.2 | No | Y | — |
-| 2026-01-14 | h27-119.2 | No | Y | — |
-| 2026-01-14 | h26-119.2 | No | Y | — |
-| 2025-09-04 | h236-119.1 | No | Y | — |
-| 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-09-03 | h231-119.1 | No | Y | — |
-| 2025-09-03 | h230-119.1 | No | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->

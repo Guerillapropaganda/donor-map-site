@@ -66,6 +66,30 @@ donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Vent
 | Senate Voting Record | 57 bills introduced, 0 passed |
 | 2028 Polling | 46% favorability (Emerson) |
 
+<!-- auto:voting-record start -->
+**Key Votes**
+
+| 2025-07-01 | H.R. 1: An act to provide for reconciliation pursuant to title II of H. Con. Res. 14. | **Yea** | Bill Passed |
+| 2025-07-01 | S.Amdt. 2360 (Graham) to H.R. 1: In the nature of a substitute. | **Yea** | Amendment Agreed to |
+| 2025-07-01 | S.Amdt. 2848 (Graham) to H.R. 1: To improve the bill. | **Yea** | Amendment Agreed to |
+| 2025-01-24 | On the Nomination PN11-7: Peter Hegseth, of Tennessee, to be Secretary of Defense | **Yea** | Nomination Confirmed |
+| 2025-01-09 | Motion to Invoke Cloture: Motion to Proceed to S. 5 | **Yea** | Cloture on the Motion to Proceed Agreed to |
+| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | **Not Voting** | Bill Passed |
+| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | **Not Voting** | Bill Passed |
+| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension offset and windfall elimination provision | **Not Voting** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | **Not Voting** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | **Not Voting** | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages for Social Security benefits and increase | **Not Voting** | Amendment Rejected |
+| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United States District Judge for the Central Distr | **Not Voting** | Nomination Confirmed |
+| 2024-12-20 | Motion to Invoke Cloture: Serena Raquel Murillo to be U.S. District Judge for the Central District of California: Serena | **Not Voting** | Cloture Motion Agreed to |
+| 2024-12-20 | On the Nomination PN2244: Benjamin J. Cheeks, of California, to be United States District Judge for the Southern Distric | **Not Voting** | Nomination Confirmed |
+| 2024-12-20 | Motion to Invoke Cloture: Benjamin J. Cheeks to be U.S. District Judge for the Southern District of California: Benjamin | **Not Voting** | Cloture Motion Agreed to |
+
+**Sources**
+
+- [GovTrack: JD Vance](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 [[_JD Vance Master Profile|JD Vance]] is a venture capitalist and political product manufactured by Silicon Valley's ultra-wealthy donors—primarily [[Peter Thiel|Peter Thiel]]—who needed a charismatic spokesperson for a white-working-class politics that benefits billionaires, not workers. He was elevated through a coordinated pipeline: Thiel fellowship (2011), Yale law school mentorship, [[Mithril Capital|Mithril Capital]] investing (2016-2025), and finally a Senate seat designed as a holding pattern until a VP slot opened.
@@ -215,29 +239,6 @@ The vault's central insight applies directly: **Vance is not a politician with d
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-**Key Votes**
-
-| 2025-07-01 | H.R. 1: An act to provide for reconciliation pursuant to title II of H. Con. Res. 14. | **Yea** | Bill Passed |
-| 2025-07-01 | S.Amdt. 2360 (Graham) to H.R. 1: In the nature of a substitute. | **Yea** | Amendment Agreed to |
-| 2025-07-01 | S.Amdt. 2848 (Graham) to H.R. 1: To improve the bill. | **Yea** | Amendment Agreed to |
-| 2025-01-24 | On the Nomination PN11-7: Peter Hegseth, of Tennessee, to be Secretary of Defense | **Yea** | Nomination Confirmed |
-| 2025-01-09 | Motion to Invoke Cloture: Motion to Proceed to S. 5 | **Yea** | Cloture on the Motion to Proceed Agreed to |
-| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | **Not Voting** | Bill Passed |
-| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | **Not Voting** | Bill Passed |
-| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension offset and windfall elimination provision | **Not Voting** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | **Not Voting** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | **Not Voting** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages for Social Security benefits and increase | **Not Voting** | Amendment Rejected |
-| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United States District Judge for the Central Distr | **Not Voting** | Nomination Confirmed |
-| 2024-12-20 | Motion to Invoke Cloture: Serena Raquel Murillo to be U.S. District Judge for the Central District of California: Serena | **Not Voting** | Cloture Motion Agreed to |
-| 2024-12-20 | On the Nomination PN2244: Benjamin J. Cheeks, of California, to be United States District Judge for the Southern Distric | **Not Voting** | Nomination Confirmed |
-| 2024-12-20 | Motion to Invoke Cloture: Benjamin J. Cheeks to be U.S. District Judge for the Southern District of California: Benjamin | **Not Voting** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: JD Vance](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
-<!-- auto:voting-record end -->
 
 ## Archived
 

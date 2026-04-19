@@ -61,6 +61,47 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,610 |
+| Votes with party majority | 2,483 |
+| Party-line loyalty | 95.1% |
+| Deviations from party | 122 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 122):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+| September  | s250-118.2 | Yea | N | PN 1342 |
+| September  | s251-118.2 | Yea | N | PN 1342 |
+| September  | s193-116.2 | Yea | N | PN 1693 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| September  | s224-118.1 | Yea | N | PN 551 |
+| October 9, | s566-119.1 | Yea | N | — |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+| October 19 | s238-115.1 | Nay | Y | — |
+| October 19 | s237-115.1 | Nay | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Bill Cassidy. U.S. Senator from Louisiana (2015–present). Born September 8, 1957, in Highland Park, Illinois. Medical doctor (LSU School of Medicine, 1984). Family medicine physician and cardiologist. Served in U.S. House (2009–2015) representing Louisiana's 6th District. Voted to convict President Trump during his second impeachment (February 2021) — one of only seven Republicans to do so. Running for reelection in 2026 facing Trump-backed primary challenger Julia Letlow. The rarest Republican unicorn: a physician-politician who broke with Trump and survived (barely) in a deep-red state.
@@ -259,44 +300,3 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Congress.gov: Bill Cassidy campaign finance summary](https://www.congress.gov/search?q=Bill%20Cassidy&searchResultViewType=expanded)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[19thNews: Trump backs Rep. Julia Letlow to challenge Sen. Bill Cassidy in Louisiana](https://19thnews.org/2026/01/louisiana-senate-2026-cassidy-letlow/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 
-
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,610 |
-| Votes with party majority | 2,483 |
-| Party-line loyalty | 95.1% |
-| Deviations from party | 122 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 122):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-| September  | s250-118.2 | Yea | N | PN 1342 |
-| September  | s251-118.2 | Yea | N | PN 1342 |
-| September  | s193-116.2 | Yea | N | PN 1693 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| September  | s224-118.1 | Yea | N | PN 551 |
-| October 9, | s566-119.1 | Yea | N | — |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-| October 19 | s238-115.1 | Nay | Y | — |
-| October 19 | s237-115.1 | Nay | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->

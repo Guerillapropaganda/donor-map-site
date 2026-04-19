@@ -52,6 +52,11 @@ donors: [[Koch Network - Charles Koch]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Chris Wright. Secretary of Energy (2025–present). Founder and CEO of Liberty Energy ($4.31B revenue, ~$4.5B market cap), a hydraulic fracturing services company that fracs approximately 20% of all U.S. onshore wells. Net worth: $67M–$1.5B (estimates vary; ~$40-53M in Liberty stock alone). CEO compensation (2023): $5.6M. Confirmed 59-38, the most bipartisan of Trump's controversial cabinet picks. Koch donor network member: contributed $100K to [[Americans for Prosperity|Americans for Prosperity]] Action (2024), $15K to Freedom Partners Action Fund (2014), wrote that he and his wife "proudly stand with the Kochs." Personal Trump contributions: $528K ($228K Trump 47 Committee, $175K co-hosted fundraiser). LinkedIn video (January 2023): "There is no climate crisis and we're not in the midst of an energy transition either." Reversed LNG export pause within weeks. Proposed 70% cut to renewable energy research. The first active fossil fuel CEO to serve as Energy Secretary, the industry isn't lobbying the regulator anymore. The industry is the regulator.
@@ -176,10 +181,6 @@ The climate denial is the intellectual infrastructure for the financial interest
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

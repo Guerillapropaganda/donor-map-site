@@ -102,6 +102,11 @@ The post-presidency reveals the class position fully: $65 million book deal (201
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Central Thesis. The Two-Audience Problem
 
 Obama is the master of the Two-Audience Problem: one message for progressive voters, one private reassurance for donors. His 2008 campaign promised "hope and change" and ran against the financial sector's power. His private reassurance to bankers (which leaked in 2009) was: "I'm the only thing between you and the pitchforks." Both statements were true, and both functioned simultaneously to elect Obama and protect Wall Street.
@@ -387,10 +392,6 @@ Compare this to [[_Bernie Sanders Master Profile|Bernie Sanders]], who left offi
 <!-- auto:executive-orders end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

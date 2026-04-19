@@ -153,6 +153,42 @@ SORT title ASC
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,272 |
+| Substantive votes (Y/N) | 1,075 |
+| Votes with party majority | 991 |
+| Party-line loyalty | 92.2% |
+| Deviations from party | 84 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+
+**Most recent party-line deviations (top 10 of 84):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
+| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
+| 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
+| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
+| 2024-05-01 | h172-118.2 | Nay | Y | HR 6090 |
+| 2024-04-20 | h152-118.2 | Nay | Y | HR 8034 |
+| 2024-04-20 | h145-118.2 | Nay | Y | HR 8038 |
+| 2024-04-19 | h142-118.2 | Nay | Y | HRES 1160 |
+| 2024-04-18 | h141-118.2 | Nay | Y | HRES 1143 |
+| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Jamaal Bowman. Democratic Representative from New York's 16th District (Westchester County and portions of the Bronx), 2021–2025. One-term member of the Congressional Progressive Caucus and the Squad's broader orbit. Before Congress, Bowman founded and served as principal of Cornerstone Academy for Social Action, a public middle school in the Bronx, making him one of the few members of Congress with a career rooted in urban public education rather than law, business, or party infrastructure.
@@ -550,41 +586,6 @@ _No committee data found._
 <!-- auto:fec-summary end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,272 |
-| Substantive votes (Y/N) | 1,075 |
-| Votes with party majority | 991 |
-| Party-line loyalty | 92.2% |
-| Deviations from party | 84 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-
-**Most recent party-line deviations (top 10 of 84):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
-| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
-| 2024-05-15 | h203-118.2 | Nay | Y | HR 7581 |
-| 2024-05-08 | h188-118.2 | Nay | Y | HRES 1209 |
-| 2024-05-01 | h172-118.2 | Nay | Y | HR 6090 |
-| 2024-04-20 | h152-118.2 | Nay | Y | HR 8034 |
-| 2024-04-20 | h145-118.2 | Nay | Y | HR 8038 |
-| 2024-04-19 | h142-118.2 | Nay | Y | HRES 1160 |
-| 2024-04-18 | h141-118.2 | Nay | Y | HRES 1143 |
-| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

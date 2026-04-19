@@ -43,6 +43,11 @@ donors: N/A. Acosta is an appointee, not an elected official. No campaign commit
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Alexander Acosta. Born January 16, 1969, Miami, Florida. Cuban-American. Harvard Law School (1994). Career trajectory: NLRB member (2002–2003) → Assistant Attorney General, Civil Rights Division (2003–2005) → U.S. Attorney, Southern District of Florida (2005–2009) → Dean, FIU College of Law (2009–2017) → U.S. Secretary of Labor (2017–2019). Resigned July 19, 2019 under bipartisan pressure over the Epstein plea deal. Currently partner at Holdun Family Office and senior advisor to DLA Piper's New York office. Federalist Society member. Confirmed as Labor Secretary 60-38 (April 28, 2017).
@@ -181,10 +186,6 @@ The legal firepower assembled for Epstein's defense was extraordinary and reflec
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

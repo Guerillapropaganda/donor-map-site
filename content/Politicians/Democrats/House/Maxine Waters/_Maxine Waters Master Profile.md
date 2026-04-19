@@ -122,6 +122,44 @@ donors: [[Goldman Sachs]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,656 |
+| Votes with party majority | 1,604 |
+| Party-line loyalty | 96.9% |
+| Deviations from party | 52 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 52):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-04-14 | h110-119.2 | Nay | Y | HR 7613 |
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
+| 2025-07-14 | h192-119.1 | Nay | Y | HR 1770 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
+| 2025-01-23 | h25-119.1 | Yea | N | HR 471 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Maxine Waters. Democrat, California's 43rd District (South Los Angeles, Inglewood, Hawthorne). First elected 1990. Ranking Member, House Financial Services Committee — the committee with primary jurisdiction over Wall Street, banking regulation, housing policy, insurance, and digital assets. Chaired the committee from 2019-2023. As ranking member, she serves as ex officio member on all Financial Services subcommittees, including Capital Markets, Housing and Insurance, National Security and Illicit Finance, Digital Assets, and Oversight and Investigations.
@@ -283,43 +321,6 @@ Her rhetoric consistently frames regulation as protection — protecting consume
 ## Committee Assignments (Congress.gov)
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,656 |
-| Votes with party majority | 1,604 |
-| Party-line loyalty | 96.9% |
-| Deviations from party | 52 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 52):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-04-14 | h110-119.2 | Nay | Y | HR 7613 |
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-09-19 | h282-119.1 | Nay | Y | HRES 719 |
-| 2025-07-14 | h192-119.1 | Nay | Y | HR 1770 |
-| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
-| 2025-01-23 | h25-119.1 | Yea | N | HR 471 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

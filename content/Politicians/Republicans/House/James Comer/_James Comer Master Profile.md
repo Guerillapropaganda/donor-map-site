@@ -135,6 +135,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,697 |
+| Votes with party majority | 1,595 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 102 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 102):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
+| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
+| 2025-09-10 | h257-119.1 | Aye | N | — |
+| 2025-09-10 | h256-119.1 | Aye | N | — |
+| 2025-09-10 | h255-119.1 | Aye | N | — |
+| 2025-09-10 | h244-119.1 | Aye | N | — |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-09-03 | h229-119.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 James Comer. Republican, Kentucky's 1st District (rural western Kentucky). Born 1972. First elected to Congress in 2016. Chair, House Oversight and Accountability Committee (118th and 119th Congress) — one of only three House committee chairs with unilateral subpoena power, meaning he can issue subpoenas without a committee vote or ranking member consultation.
@@ -329,43 +367,6 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,697 |
-| Votes with party majority | 1,595 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 102 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 102):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
-| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2026-01-12 | h15-119.2 | Nay | Y | HR 6504 |
-| 2026-01-08 | h9-119.2 | Yea | N | HR 131 |
-| 2025-09-10 | h257-119.1 | Aye | N | — |
-| 2025-09-10 | h256-119.1 | Aye | N | — |
-| 2025-09-10 | h255-119.1 | Aye | N | — |
-| 2025-09-10 | h244-119.1 | Aye | N | — |
-| 2025-09-04 | h237-119.1 | Aye | N | — |
-| 2025-09-03 | h229-119.1 | Aye | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

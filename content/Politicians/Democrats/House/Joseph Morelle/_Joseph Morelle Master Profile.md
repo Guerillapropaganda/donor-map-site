@@ -152,6 +152,44 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,684 |
+| Votes with party majority | 1,633 |
+| Party-line loyalty | 97.0% |
+| Deviations from party | 51 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 51):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-05-07 | h120-119.1 | Yea | N | HR 881 |
+| 2025-05-01 | h114-119.1 | Yea | N | HJRES 88 |
+| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
+| 2025-02-13 | h42-119.1 | Yea | N | HR 35 |
+| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 [[_Joseph Morelle Master Profile|Joseph Morelle]] is the U.S. Representative for New York's 25th Congressional District (Rochester area), serving since November 2018. Born April 29, 1957, in Utica, New York. B.A. from SUNY Geneseo. Got his political start as a constituent services representative and legislative aide for State Senator John D. Perry. Elected to the Monroe County Legislature. Elected to the New York State Assembly in 1990, representing the 136th District (eastern Rochester and Monroe County suburbs) for 28 years. Appointed Assembly Majority Leader by Speaker Sheldon Silver in January 2013. Served as acting speaker in the Speaker's absence. Won a special election in November 2018 to succeed the late Louise Slaughter, the longtime progressive champion who held the Rochester seat. Reelected 2020, 2022, and 2024 in a safe Democratic district. Son of a Korean War veteran and lifelong Plumbers and Pipefitters union member.
@@ -419,43 +457,6 @@ party:: Democrat
 <!-- auto:fec-summary end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,684 |
-| Votes with party majority | 1,633 |
-| Party-line loyalty | 97.0% |
-| Deviations from party | 51 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 51):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
-| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
-| 2025-05-07 | h120-119.1 | Yea | N | HR 881 |
-| 2025-05-01 | h114-119.1 | Yea | N | HJRES 88 |
-| 2025-03-11 | h68-119.1 | Yea | N | HR 1156 |
-| 2025-02-13 | h42-119.1 | Yea | N | HR 35 |
-| 2025-02-06 | h33-119.1 | Yea | N | HR 27 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

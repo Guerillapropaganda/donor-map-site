@@ -77,6 +77,44 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,289 |
+| Substantive votes (Y/N) | 1,235 |
+| Votes with party majority | 1,199 |
+| Party-line loyalty | 97.1% |
+| Deviations from party | 36 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 567 votes
+- house 118/2: 317 votes
+- house 119/1: 261 votes
+- house 119/2: 113 votes
+
+**Most recent party-line deviations (top 10 of 36):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2024-06-12 | h259-118.2 | Aye | N | — |
+| 2024-04-20 | h151-118.2 | Yea | N | HR 8035 |
+| 2024-04-12 | h114-118.2 | No | Y | — |
+| 2024-03-22 | h102-118.2 | Yea | N | HRES 1102 |
+| 2023-10-26 | h554-118.1 | Aye | N | — |
+| 2023-09-30 | h513-118.1 | Nay | Y | HR 5860 |
+| 2023-09-28 | h497-118.1 | Aye | N | — |
+| 2023-09-28 | h476-118.1 | Aye | N | — |
+| 2023-09-28 | h474-118.1 | Aye | N | — |
+| 2023-09-28 | h473-118.1 | Aye | N | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Mike Johnson. Speaker of the House (October 2023–present). Representative for Louisiana's 4th District (2017–present). The most obscure Speaker in modern history, a 16-year backbencher with no leadership positions, no committee chairs, and minimal national profile who became second in line to the presidency overnight. Net worth: estimates range from negative $280,000 to $350,000 (least wealthy Speaker of the century). Claims personal bank account is exempt from disclosure because it doesn't earn interest. Alliance Defending Freedom attorney for 9 years (2002-2010), wrote editorials supporting criminalization of gay sex (2003), endorsed briefs criminalizing consensual adult sexual activity. Council for National Policy member (secretive conservative influence network). Led the 2020 election overturn amicus brief signed by 100+ House Republicans. Trump personally called to thank him and asked him to contact all GOP members. Speaker fundraising explosion: $71 million raised in first three quarters of 2024 ($20M Q1, $23.5M Q2, $27.5M Q3). [[AIPAC - American Israel Public Affairs Committee|AIPAC]]: from ~$25K pre-Speaker to $104K in 2023 ($95K in November alone after pushing $14B Israel aid package). [[Peter Thiel|Peter Thiel]]: $852K to joint fundraising committee. [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire): $1.1M. Rex Sinquefeld: $1.1M. Oil and gas: $338K+ career. Russian-owned American Ethane Company donated to his 2018 campaign (88% owned by Russian nationals). The ADF attorney turned election denier turned Speaker, the religious right's man in the chair, funded by AIPAC, fossil fuels, and tech billionaires.
@@ -204,43 +242,6 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,289 |
-| Substantive votes (Y/N) | 1,235 |
-| Votes with party majority | 1,199 |
-| Party-line loyalty | 97.1% |
-| Deviations from party | 36 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 567 votes
-- house 118/2: 317 votes
-- house 119/1: 261 votes
-- house 119/2: 113 votes
-
-**Most recent party-line deviations (top 10 of 36):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2024-06-12 | h259-118.2 | Aye | N | — |
-| 2024-04-20 | h151-118.2 | Yea | N | HR 8035 |
-| 2024-04-12 | h114-118.2 | No | Y | — |
-| 2024-03-22 | h102-118.2 | Yea | N | HRES 1102 |
-| 2023-10-26 | h554-118.1 | Aye | N | — |
-| 2023-09-30 | h513-118.1 | Nay | Y | HR 5860 |
-| 2023-09-28 | h497-118.1 | Aye | N | — |
-| 2023-09-28 | h476-118.1 | Aye | N | — |
-| 2023-09-28 | h474-118.1 | Aye | N | — |
-| 2023-09-28 | h473-118.1 | Aye | N | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

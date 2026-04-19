@@ -147,6 +147,44 @@ donors: [[Pfizer]] [[PhRMA]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,722 |
+| Votes with party majority | 1,675 |
+| Party-line loyalty | 97.3% |
+| Deviations from party | 47 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 47):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
+| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
+| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
+| 2025-01-09 | h7-119.1 | Yea | N | HR 23 |
+| 2024-11-12 | h458-118.2 | Yea | N | HR 9495 |
+| 2024-09-18 | h428-118.2 | Yea | N | HR 5179 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Frank Pallone. Democrat, New Jersey's 6th Congressional District (Middlesex and Monmouth counties). First elected 1988. Ranking Member, House Energy and Commerce Committee — the single broadest jurisdiction committee in the House, covering healthcare, energy, environment, telecommunications, consumer protection, and food and drug safety. Served as chairman 2019-2023 before the Republican majority. Career total raised: $3.4M+ in the 2024 cycle alone, with $3M+ cash on hand. Fifth-largest corporate PAC haul of any House candidate in recent cycles.
@@ -324,43 +362,6 @@ The class function is clear: Pallone is the progressive validator for industries
 <!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,722 |
-| Votes with party majority | 1,675 |
-| Party-line loyalty | 97.3% |
-| Deviations from party | 47 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 47):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2025-06-09 | h158-119.1 | Yea | N | HRES 488 |
-| 2025-06-04 | h151-119.1 | Nay | Y | HR 2483 |
-| 2025-03-27 | h83-119.1 | Yea | N | HR 1048 |
-| 2025-01-09 | h7-119.1 | Yea | N | HR 23 |
-| 2024-11-12 | h458-118.2 | Yea | N | HR 9495 |
-| 2024-09-18 | h428-118.2 | Yea | N | HR 5179 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

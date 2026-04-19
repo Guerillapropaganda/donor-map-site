@@ -155,6 +155,45 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,152 |
+| Substantive votes (Y/N) | 2,067 |
+| Votes with party majority | 1,946 |
+| Party-line loyalty | 94.1% |
+| Deviations from party | 118 |
+
+**Coverage:**
+
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 118):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s214-118.1 | Nay | Y | PN 645 |
+| September  | s213-118.1 | Nay | Y | PN 645 |
+| September  | s197-116.2 | Nay | Y | H.R. 8337 |
+| September  | s244-118.1 | Nay | Y | PN 183 |
+| September  | s241-118.1 | Nay | Y | H.R. 3935 |
+| September  | s240-118.1 | Nay | Y | H.R. 3935 |
+| September  | s311-116.1 | Nay | Y | H.R. 4378 |
+| September  | s249-118.2 | Nay | Y | PN 1399 |
+| September  | s190-116.2 | Nay | Y | PN 1314 |
+| September  | s191-116.2 | Nay | Y | PN 1314 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA, the company that committed the largest Medicare misconduct in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
@@ -396,44 +435,6 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,152 |
-| Substantive votes (Y/N) | 2,067 |
-| Votes with party majority | 1,946 |
-| Party-line loyalty | 94.1% |
-| Deviations from party | 118 |
-
-**Coverage:**
-
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 118):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s214-118.1 | Nay | Y | PN 645 |
-| September  | s213-118.1 | Nay | Y | PN 645 |
-| September  | s197-116.2 | Nay | Y | H.R. 8337 |
-| September  | s244-118.1 | Nay | Y | PN 183 |
-| September  | s241-118.1 | Nay | Y | H.R. 3935 |
-| September  | s240-118.1 | Nay | Y | H.R. 3935 |
-| September  | s311-116.1 | Nay | Y | H.R. 4378 |
-| September  | s249-118.2 | Nay | Y | PN 1399 |
-| September  | s190-116.2 | Nay | Y | PN 1314 |
-| September  | s191-116.2 | Nay | Y | PN 1314 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

@@ -137,6 +137,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,602 |
+| Votes with party majority | 1,522 |
+| Party-line loyalty | 95.0% |
+| Deviations from party | 80 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 80):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
+| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
+| 2025-09-04 | h237-119.1 | Aye | N | — |
+| 2025-09-04 | h235-119.1 | No | Y | — |
+| 2025-09-03 | h234-119.1 | No | Y | — |
+| 2025-09-03 | h233-119.1 | No | Y | — |
+| 2025-09-03 | h232-119.1 | No | Y | — |
+| 2025-07-18 | h210-119.1 | Aye | N | — |
+| 2025-07-18 | h206-119.1 | Aye | N | — |
+| 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Roger Williams represents Texas's 25th Congressional District and chairs the House Small Business Committee. Before Congress, he was, and still is, a car dealer. He inherited his father's dealership (founded 1939), owns Roger Williams Chrysler Dodge Jeep RAM in Weatherford, Texas, and has operated the family auto business for over 50 years. He also runs a cow-calf operation.
@@ -369,43 +407,6 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,602 |
-| Votes with party majority | 1,522 |
-| Party-line loyalty | 95.0% |
-| Deviations from party | 80 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 80):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-04 | h82-119.2 | Nay | Y | HR 6472 |
-| 2026-02-24 | h72-119.2 | Yea | N | S 2503 |
-| 2025-09-04 | h237-119.1 | Aye | N | — |
-| 2025-09-04 | h235-119.1 | No | Y | — |
-| 2025-09-03 | h234-119.1 | No | Y | — |
-| 2025-09-03 | h233-119.1 | No | Y | — |
-| 2025-09-03 | h232-119.1 | No | Y | — |
-| 2025-07-18 | h210-119.1 | Aye | N | — |
-| 2025-07-18 | h206-119.1 | Aye | N | — |
-| 2024-12-17 | h511-118.2 | Nay | Y | HR 1101 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

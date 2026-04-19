@@ -159,6 +159,44 @@ top-policy-area: "Civil Rights and Liberties, Minority Issues"
 
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,719 |
+| Votes with party majority | 1,699 |
+| Party-line loyalty | 98.8% |
+| Deviations from party | 20 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 20):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
+| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
+| 2024-04-12 | h115-118.2 | Aye | N | — |
+| 2023-12-13 | h721-118.1 | Yea | N | HRES 927 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Hakeem Sekou Jeffries. Born August 4, 1970, Brooklyn, New York. U.S. Representative for New York's 8th congressional district (2013–present). House Minority Leader (2023–present) — the first Black person to lead a major party in either chamber of Congress. Former corporate attorney. Unanimously elected by House Democrats to succeed [[_Nancy Pelosi Master Profile|Nancy Pelosi]] as leader in November 2022. Net worth: estimated –$217,000 to $402,000 per 2024 disclosure (negative due to mortgages, relatively modest for a leader of his stature). Raised in Crown Heights, Brooklyn.
@@ -616,43 +654,6 @@ _No committee data found._
 <!-- auto:committee-assignments pending-merge end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,719 |
-| Votes with party majority | 1,699 |
-| Party-line loyalty | 98.8% |
-| Deviations from party | 20 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 20):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-11-19 | h302-119.1 | Nay | Y | HRES 893 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2024-12-11 | h500-118.2 | Yea | N | HR 5009 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-| 2024-05-15 | h210-118.2 | Nay | Y | HR 6572 |
-| 2024-04-17 | h136-118.2 | Yea | N | HR 4639 |
-| 2024-04-12 | h115-118.2 | Aye | N | — |
-| 2023-12-13 | h721-118.1 | Yea | N | HRES 927 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

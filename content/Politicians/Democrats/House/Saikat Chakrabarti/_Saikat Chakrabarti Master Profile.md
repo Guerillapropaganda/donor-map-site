@@ -98,6 +98,12 @@ urls-first-triaged: "2026-04-15"
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+- ~~[Congress.gov: Saikat Chakrabarti](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Saikat Chakrabarti. Born January 12, 1986, Fort Worth, Texas. Bengali immigrant family — father born in Dhaka, displaced during Partition, squatted in an abandoned house in Kolkata, emigrated to the US in 1979 with no money. Paul Laurence Dunbar High School, Fort Worth. BA in Computer Science, Harvard University, 2007. One year at Bridgewater Associates (Ray Dalio's hedge fund) straight out of Harvard. Co-founded Mockingbird (web wireframing startup) in San Francisco, 2009. Founding engineer (second engineer) at Stripe, February 2011 to May 2013 — approximately 27 months. Director of Organizing Technology on [[_Bernie Sanders Master Profile|Bernie Sanders]]' 2016 presidential campaign. Co-founded Brand New Congress (April 2016) and Justice Democrats (January 2017). Served as [[_Alexandria Ocasio-Cortez Master Profile|Alexandria Ocasio-Cortez]]'s first Chief of Staff, January to August 2019 — the seven months that produced the Green New Deal resolution. Co-founded New Consensus think tank (2017). Currently a candidate for Congress in California's 11th district (San Francisco), the seat [[_Nancy Pelosi Master Profile|Nancy Pelosi]] held for 37 years. Top-two primary: June 2, 2026.
@@ -264,9 +270,5 @@ Running for Pelosi's CA-11 is not incidental. Pelosi is the institutional figure
 <!-- auto:fec-politician end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- ~~[Congress.gov: Saikat Chakrabarti](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:voting-record end -->
 - ~~[Politico: SF establishment moves to sink progressive (March 27, 2026)](https://www.politico.com/news/2026/03/27/san-franciscos-establishment-moves-to-sink-a-progressive-house-candidate-00847914)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

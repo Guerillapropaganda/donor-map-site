@@ -52,6 +52,11 @@ donors: [[California Building and Construction Trades Council]] · [[California 
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Antonio Villaraigosa. Former Mayor of Los Angeles (2005–2013). Former California Assembly Speaker (1998–2000). 2018 California governor candidate (lost primary to Newsom with 10.6% vs. Newsom's 61.6%). 2026 California governor candidate. Former union organizer turned developer-friendly machine politician. Net worth: $800,000–$2.5 million (2023 disclosure).
@@ -217,10 +222,6 @@ Building Trades (labor) + Real Estate Developers + Charter School Billionaires =
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

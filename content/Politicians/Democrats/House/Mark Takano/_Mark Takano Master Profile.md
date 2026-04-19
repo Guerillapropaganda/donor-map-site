@@ -132,6 +132,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,710 |
+| Votes with party majority | 1,662 |
+| Party-line loyalty | 97.2% |
+| Deviations from party | 48 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 48):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
+| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
+| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
+| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
+| 2024-09-10 | h405-118.2 | Nay | Y | HR 1103 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Mark Takano represents California's 39th Congressional District (Riverside, Moreno Valley, Jurupa Valley, Perris) and is the Ranking Member of the House Veterans' Affairs Committee. He chaired the committee in the 117th Congress (2021-2023), during which the PACT Act — the largest expansion of VA benefits in decades — was signed into law.
@@ -253,43 +291,6 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,710 |
-| Votes with party majority | 1,662 |
-| Party-line loyalty | 97.2% |
-| Deviations from party | 48 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 48):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-03-05 | h84-119.2 | Nay | Y | HRES 1099 |
-| 2026-03-04 | h83-119.2 | Nay | Y | HRES 1100 |
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-06-24 | h175-119.1 | Nay | Y | HRES 537 |
-| 2024-12-06 | h492-118.2 | Nay | Y | HR 5349 |
-| 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
-| 2024-09-10 | h405-118.2 | Nay | Y | HR 1103 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-| 2024-07-22 | h357-118.2 | Nay | Y | HR 1631 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-15 -->
 > [!attention] Fresh API data available — needs manual merge

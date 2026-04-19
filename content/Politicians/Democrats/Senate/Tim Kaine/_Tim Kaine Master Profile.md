@@ -108,13 +108,6 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
 
-## Archived
-
-Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
-
-- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
-
-
 <!-- auto:voting-record start -->
 
 *Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
@@ -155,3 +148,10 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+## Archived
+
+Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
+
+- ~~[Source: Senate Stock Watcher](https://senatestockwatcher.com/)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+

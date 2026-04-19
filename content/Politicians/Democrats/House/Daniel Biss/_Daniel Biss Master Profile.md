@@ -70,6 +70,11 @@ donors: J Street PAC · Progressive Donors · Chicago-Based Pro-Israel Donors ·
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Daniel K. Biss was born in Bloomington, Indiana, and earned a B.A. from Harvard University and a Ph.D. in mathematics from MIT. He served as an assistant professor of mathematics at the University of Chicago from 2002 to 2008. Biss entered electoral politics in 2010, winning a seat in the Illinois House of Representatives representing the 17th District (2011-2013). In 2012, he was elected to the Illinois State Senate, representing the 9th District from 2013 to 2019. He was a candidate for Illinois governor in 2018, finishing second to J.B. Pritzker. In 2021, Biss was elected Mayor of Evanston. On March 17, 2026, he won the Democratic primary for Illinois' 9th Congressional District with 29.6% of the vote, defeating 15 other candidates including state Sen. Laura Fine and Palestinian-American activist Kat Abughazaleh.
@@ -219,10 +224,6 @@ _No committee data found for the 119th Congress._
 <!-- auto:committee-assignments end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

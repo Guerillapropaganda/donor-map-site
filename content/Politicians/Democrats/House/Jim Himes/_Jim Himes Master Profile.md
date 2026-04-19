@@ -126,6 +126,44 @@ donors: [[Goldman Sachs - Wall Street Titan|Goldman Sachs]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,705 |
+| Votes with party majority | 1,643 |
+| Party-line loyalty | 96.4% |
+| Deviations from party | 62 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 62):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
+| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
+| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
+| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
+| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
+| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
+| 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
+| 2025-06-24 | h178-119.1 | Nay | Y | — |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jim Himes represents Connecticut's 4th Congressional District — Fairfield County, the hedge fund corridor between New York and Boston. Before Congress, he spent twelve years at Goldman Sachs, rising to Vice President in the Latin American finance division. He joined Goldman in 1998, left in 2003 to work at a nonprofit housing developer, and won his House seat in 2008 — the year Goldman's industry detonated the global economy.
@@ -273,43 +311,6 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,705 |
-| Votes with party majority | 1,643 |
-| Party-line loyalty | 96.4% |
-| Deviations from party | 62 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 62):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-02-03 | h53-119.2 | Yea | N | HR 7148 |
-| 2026-01-09 | h12-119.2 | Yea | N | HR 5184 |
-| 2025-12-11 | h328-119.1 | Aye | N | HR 3383 |
-| 2025-12-11 | h324-119.1 | Yea | N | HR 3638 |
-| 2025-12-03 | h311-119.1 | Yea | N | HR 4305 |
-| 2025-11-21 | h305-119.1 | Yea | N | HCONRES 58 |
-| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-07-17 | h200-119.1 | Yea | N | S 1582 |
-| 2025-06-26 | h183-119.1 | Yea | N | HR 875 |
-| 2025-06-24 | h178-119.1 | Nay | Y | — |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

@@ -135,6 +135,44 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 1,757 |
+| Substantive votes (Y/N) | 1,706 |
+| Votes with party majority | 1,678 |
+| Party-line loyalty | 98.4% |
+| Deviations from party | 28 |
+
+**Coverage:**
+
+- house 117/1: 31 votes
+- house 118/1: 724 votes
+- house 118/2: 517 votes
+- house 119/1: 361 votes
+- house 119/2: 124 votes
+
+**Most recent party-line deviations (top 10 of 28):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
+| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
+| 2025-09-10 | h260-119.1 | No | Y | — |
+| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
+| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
+| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
+| 2024-06-28 | h329-118.2 | Aye | N | — |
+| 2024-06-13 | h264-118.2 | Aye | N | — |
+| 2024-06-05 | h243-118.2 | No | Y | — |
+| 2024-04-20 | h152-118.2 | Nay | Y | HR 8034 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee, the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, justice system, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
@@ -286,43 +324,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 <!-- auto:govtrack end -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 1,757 |
-| Substantive votes (Y/N) | 1,706 |
-| Votes with party majority | 1,678 |
-| Party-line loyalty | 98.4% |
-| Deviations from party | 28 |
-
-**Coverage:**
-
-- house 117/1: 31 votes
-- house 118/1: 724 votes
-- house 118/2: 517 votes
-- house 119/1: 361 votes
-- house 119/2: 124 votes
-
-**Most recent party-line deviations (top 10 of 28):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| 2026-01-14 | h28-119.2 | Nay | Y | HR 7006 |
-| 2025-12-10 | h320-119.1 | Nay | Y | S 1071 |
-| 2025-09-10 | h260-119.1 | No | Y | — |
-| 2025-07-21 | h213-119.1 | Yea | N | HR 3095 |
-| 2025-06-12 | h166-119.1 | Nay | Y | S 331 |
-| 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
-| 2024-06-28 | h329-118.2 | Aye | N | — |
-| 2024-06-13 | h264-118.2 | Aye | N | — |
-| 2024-06-05 | h243-118.2 | No | Y | — |
-| 2024-04-20 | h152-118.2 | Nay | Y | HR 8034 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 <!-- auto:voting-record pending-merge 2026-04-18 -->
 > [!attention] Fresh API data available — needs manual merge

@@ -111,6 +111,12 @@ donors: [[Jeffrey Yass]] · [[Peter Thiel]] · Ross Stevens
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+- ~~[Congress.gov: Vivek Ramaswamy](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now running for Ohio governor (2026). Net worth $2.4 billion, built entirely on Roivant Sciences, a biotech company that buys failed pharmaceutical patents and restructures them through subsidiary "Vant" companies. Roivant stake: ~$565–670 million (10% ownership, $15.1B market cap). Additional wealth: Strive Asset Management ($1.7B AUM, anti-ESG positioning, funded by [[Peter Thiel|Peter Thiel]], [[_JD Vance Master Profile|JD Vance]], Bill Ackman). 2024 presidential primary: raised $66.2 million, self-funded $26 million+, dropped out after 4th place Iowa (8%), endorsed Trump same night. DOGE tenure lasted 32 days before Musk forced him out. H-1B visa comments criticizing American workers ("venerated mediocrity over excellence") alienated the MAGA base and Trump himself. Ohio governor race: $19.8 million raised (state record), [[Jeff Yass|Jeff Yass]] $10 million to super PAC, Ross Stevens $5 million. The "anti-woke" pharma billionaire whose entire fortune depends on the FDA he wants to "gut." The 2028 audition is the Ohio statehouse.
@@ -223,10 +229,6 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 <!-- auto:influence-cross-ref end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
 
-- ~~[Congress.gov: Vivek Ramaswamy](https://www.congress.gov/member/c001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
-<!-- auto:voting-record end -->
 - ~~[Washington Post: Vivek Ramaswamy's push for FDA changes could boost his wealth](https://www.washingtonpost.com/business/2024/11/25/vivek-ramaswamy-conflicts-doge-fda/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Axios: Roivant DEI contradiction](https://www.axios.com/2023/06/16/vivek-ramaswamy-dei-esg-company)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)

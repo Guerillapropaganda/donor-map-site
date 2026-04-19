@@ -97,6 +97,47 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,739 |
+| Votes with party majority | 2,575 |
+| Party-line loyalty | 94.0% |
+| Deviations from party | 155 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 155):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s205-115.1 | Nay | Y | PN 249 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 [[_Chuck Schumer Master Profile|Chuck Schumer]]. U.S. Senate Majority Leader (2021–present), Senior Senator from New York (1999–present). Previously served in the House (1981–1998). Career campaign fundraising: $100M+. Net worth: ~$1.8 million (modest by Senate standards, the wealth is in the network, not the bank account). The most powerful Democrat in the Senate and the highest-ranking Jewish elected official in American history.
@@ -332,47 +373,6 @@ Schumer's role is not to vote yes or no. His role is to determine what the Senat
 conte
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,739 |
-| Votes with party majority | 2,575 |
-| Party-line loyalty | 94.0% |
-| Deviations from party | 155 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 155):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s205-115.1 | Nay | Y | PN 249 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
-
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

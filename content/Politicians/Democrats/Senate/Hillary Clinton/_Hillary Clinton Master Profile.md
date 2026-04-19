@@ -118,6 +118,11 @@ bills-data-scope: Career total synced from auto:congress-legislation (Congress.g
 
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Hillary Clinton has held four major political positions: First Lady (1993–2001), U.S. Senator from New York (2001–2009), Secretary of State (2009–2013), and 2016 Democratic presidential nominee. Her career spans 25 years of institutional Democratic politics, marked by a public positioning as a progressive achiever while maintaining the closest donor relationships with Wall Street of any Democratic presidential candidate in history.
@@ -249,10 +254,6 @@ _No committee data found._
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

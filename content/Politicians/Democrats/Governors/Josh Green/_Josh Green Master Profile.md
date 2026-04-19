@@ -50,6 +50,11 @@ donors: Healthcare Industry Donors · Hawaii Tourism Industry · Labor Unions - 
 ---
 ---
 
+<!-- auto:voting-record start -->
+**Sources**
+
+<!-- auto:voting-record end -->
+
 ## Who He Is
 
 Joshua Booth Green, Jr. Governor of Hawaii (2022–present). Physician; emergency room doctor with 20+ years of practice. Member of Hawaii State Legislature (2004–2018). Lieutenant Governor of Hawaii (2018–2022). First generation Japanese American. Built political identity around healthcare access, social justice positioning, and local community roots.
@@ -249,10 +254,6 @@ Hawaii's unique healthcare context makes the class analysis structural rather th
 
 
 ### Voting Record
-<!-- auto:voting-record start -->
-**Sources**
-
-<!-- auto:voting-record end -->
 
 ## Archived
 

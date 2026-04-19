@@ -63,6 +63,47 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,730 |
+| Votes with party majority | 2,599 |
+| Party-line loyalty | 95.2% |
+| Deviations from party | 126 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 126):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s192-115.1 | Nay | Y | H.R. 601 |
+| September  | s245-118.1 | Yea | N | PN 453 |
+| September  | s310-116.1 | Yea | N | — |
+| September  | s193-116.2 | Yea | N | PN 1693 |
+| September  | s182-116.2 | Yea | N | PN 1510 |
+| October 9, | s564-119.1 | Nay | Y | — |
+| October 9, | s563-119.1 | Nay | Y | — |
+| October 4, | s249-118.1 | Yea | N | PN 676 |
+| October 3, | s248-118.1 | Yea | N | PN 676 |
+| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Chuck Grassley is 92 years old and the longest-serving Republican senator in history. He has held his Iowa Senate seat since 1981, 45 years. He is President pro tempore of the Senate (third in the presidential line of succession) and chairs the Judiciary Committee, the body that confirms every federal judge, Supreme Court justice, and Attorney General in America.
@@ -219,46 +260,6 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 <!-- auto:govtrack end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,730 |
-| Votes with party majority | 2,599 |
-| Party-line loyalty | 95.2% |
-| Deviations from party | 126 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 126):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s192-115.1 | Nay | Y | H.R. 601 |
-| September  | s245-118.1 | Yea | N | PN 453 |
-| September  | s310-116.1 | Yea | N | — |
-| September  | s193-116.2 | Yea | N | PN 1693 |
-| September  | s182-116.2 | Yea | N | PN 1510 |
-| October 9, | s564-119.1 | Nay | Y | — |
-| October 9, | s563-119.1 | Nay | Y | — |
-| October 4, | s249-118.1 | Yea | N | PN 676 |
-| October 3, | s248-118.1 | Yea | N | PN 676 |
-| October 29 | s597-119.1 | Yea | N | S.J.Res. 69 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

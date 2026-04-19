@@ -141,6 +141,47 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,723 |
+| Votes with party majority | 2,558 |
+| Party-line loyalty | 93.9% |
+| Deviations from party | 156 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 156):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s161-116.2 | Nay | Y | PN 1713 |
+| September  | s160-116.2 | Nay | Y | PN 1511 |
+| September  | s163-116.2 | Nay | Y | PN 1431 |
+| September  | s162-116.2 | Nay | Y | PN 1511 |
+| September  | s202-115.2 | Nay | Y | PN 2047 |
+| September  | s201-115.2 | Nay | Y | PN 2047 |
+| September  | s312-116.1 | Nay | Y | PN 585 |
+| September  | s308-116.1 | Nay | Y | PN 585 |
+| September  | s215-115.2 | Nay | Y | PN 2048 |
+| September  | s194-116.2 | Nay | Y | PN 1922 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Richard Blumenthal is the senior U.S. Senator from Connecticut and the Ranking Member of the Senate Veterans' Affairs Committee. He also serves on the Judiciary Committee, the Armed Services Committee, and the Homeland Security and Governmental Affairs Committee (where he ranks on the Permanent Subcommittee on Investigations). He was elected in 2010 and reelected in 2016 and 2022.
@@ -373,46 +414,6 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,723 |
-| Votes with party majority | 2,558 |
-| Party-line loyalty | 93.9% |
-| Deviations from party | 156 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 156):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s161-116.2 | Nay | Y | PN 1713 |
-| September  | s160-116.2 | Nay | Y | PN 1511 |
-| September  | s163-116.2 | Nay | Y | PN 1431 |
-| September  | s162-116.2 | Nay | Y | PN 1511 |
-| September  | s202-115.2 | Nay | Y | PN 2047 |
-| September  | s201-115.2 | Nay | Y | PN 2047 |
-| September  | s312-116.1 | Nay | Y | PN 585 |
-| September  | s308-116.1 | Nay | Y | PN 585 |
-| September  | s215-115.2 | Nay | Y | PN 2048 |
-| September  | s194-116.2 | Nay | Y | PN 1922 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

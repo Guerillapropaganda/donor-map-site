@@ -123,6 +123,47 @@ donors:
 ---
 ---
 
+<!-- auto:voting-record start -->
+
+*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
+
+| Metric | Value |
+|---|---:|
+| Roll-call votes tracked | 2,751 |
+| Substantive votes (Y/N) | 2,631 |
+| Votes with party majority | 2,156 |
+| Party-line loyalty | 81.9% |
+| Deviations from party | 470 |
+
+**Coverage:**
+
+- senate 115/1: 325 votes
+- senate 115/2: 274 votes
+- senate 116/1: 428 votes
+- senate 116/2: 291 votes
+- senate 118/1: 352 votes
+- senate 118/2: 339 votes
+- senate 119/1: 659 votes
+- senate 119/2: 83 votes
+
+**Most recent party-line deviations (top 10 of 470):**
+
+| Date | Vote | Position | Party majority | Bill |
+|---|---|---|---|---|
+| September  | s506-119.1 | Nay | Y | PN 129-10 |
+| September  | s507-119.1 | Nay | Y | PN 129-10 |
+| September  | s221-118.1 | Yea | N | PN 673 |
+| September  | s220-118.1 | Yea | N | PN 646 |
+| September  | s222-118.1 | Yea | N | PN 673 |
+| September  | s215-118.1 | Yea | N | PN 743 |
+| September  | s219-118.1 | Yea | N | PN 646 |
+| September  | s217-118.1 | Yea | N | PN 644 |
+| September  | s216-118.1 | Yea | N | PN 743 |
+| September  | s533-119.1 | Nay | Y | S. 2806 |
+
+*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
+<!-- auto:voting-record end -->
+
 ## Who They Are
 
 Lisa Murkowski is the senior senator from Alaska, serving since 2002. She chairs the Senate Indian Affairs Committee and serves on Energy and Natural Resources, Appropriations, and HELP (Health, Education, Labor, and Pensions). She previously chaired the Energy and Natural Resources Committee (2015-2021), the most powerful energy policy position in the Senate.
@@ -282,46 +323,6 @@ Murkowski genuinely supports climate science, sits on the Climate Solutions Cauc
 <!-- auto:congress-legislation end -->
 
 ### Voting Record
-<!-- auto:voting-record start -->
-
-*Roll-call vote positions from Congress.gov (House) and senate.gov (Senate), 118th and 119th Congress. Position normalization: Aye/Yea → Y, No/Nay → N. Non-substantive positions (Present / Not Voting) excluded from loyalty math.*
-
-| Metric | Value |
-|---|---:|
-| Roll-call votes tracked | 2,751 |
-| Substantive votes (Y/N) | 2,631 |
-| Votes with party majority | 2,156 |
-| Party-line loyalty | 81.9% |
-| Deviations from party | 470 |
-
-**Coverage:**
-
-- senate 115/1: 325 votes
-- senate 115/2: 274 votes
-- senate 116/1: 428 votes
-- senate 116/2: 291 votes
-- senate 118/1: 352 votes
-- senate 118/2: 339 votes
-- senate 119/1: 659 votes
-- senate 119/2: 83 votes
-
-**Most recent party-line deviations (top 10 of 470):**
-
-| Date | Vote | Position | Party majority | Bill |
-|---|---|---|---|---|
-| September  | s506-119.1 | Nay | Y | PN 129-10 |
-| September  | s507-119.1 | Nay | Y | PN 129-10 |
-| September  | s221-118.1 | Yea | N | PN 673 |
-| September  | s220-118.1 | Yea | N | PN 646 |
-| September  | s222-118.1 | Yea | N | PN 673 |
-| September  | s215-118.1 | Yea | N | PN 743 |
-| September  | s219-118.1 | Yea | N | PN 646 |
-| September  | s217-118.1 | Yea | N | PN 644 |
-| September  | s216-118.1 | Yea | N | PN 743 |
-| September  | s533-119.1 | Nay | Y | S. 2806 |
-
-*Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
-<!-- auto:voting-record end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->
