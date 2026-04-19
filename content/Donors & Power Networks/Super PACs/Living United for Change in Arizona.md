@@ -1,6 +1,7 @@
 ---
 title: Living United for Change in Arizona
 type: donor
+ein: "271398645"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -74,6 +75,27 @@ employee-donor-count: 1
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2019–2024):** $1.7M across 5 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICA VOTES | $701K | 3 | 2020–2023 |
+| SIXTEEN THIRTY FUND | $647K | 4 | 2019–2023 |
+| GROVE ACTION FUND | $340K | 5 | 2019–2024 |
+| NEW VENTURE FUND | $40K | 1 | 2019 |
+| LEAGUE OF CONSERVATION VOTERS INC | $5K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
 
 ## Auto-Created Stub
 

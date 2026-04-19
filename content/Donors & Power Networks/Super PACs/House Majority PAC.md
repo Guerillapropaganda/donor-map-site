@@ -1,6 +1,7 @@
 ---
 title: House Majority PAC
 type: pac
+ein: "451672898"
 content-readiness: ready
 last-updated: 2026-04-18
 source-tier: 1
@@ -265,3 +266,21 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Roll Call: House Democratic Super PAC California Investment](https://www.latimes.com/politics/story/2023-04-11/could-california-decide-control-of-congress-a-democratic-super-pac-plans-to-spend-35-million-in-the-staten-into-california/)~~ (was Tier 2. URL broken, archived by Ops) (Tier 2)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22House%20Majority%20PAC%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22House%20Majority%20PAC%22)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2019):** $500K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $500K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

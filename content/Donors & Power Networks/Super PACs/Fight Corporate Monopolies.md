@@ -1,6 +1,7 @@
 ---
 title: Fight Corporate Monopolies
 type: donor
+ein: "825097446"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -79,6 +80,23 @@ employee-donor-count: 2
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2023):** $100K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $100K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
 
 ## Auto-Created Stub
 

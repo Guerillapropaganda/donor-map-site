@@ -1,6 +1,7 @@
 ---
 title: "Senate Majority PAC"
 type: pac
+ein: "272896127"
 content-readiness: ready
 last-updated: 2026-04-17
 source-tier: 1
@@ -274,3 +275,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Axios: Schumer-Linked PAC Raises $119M in Q3 2024](https://www.axios.com/2024/10/15/schumer-pac-senate-fundraising)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 - ~~[OpenSecrets: Senate Majority PAC Summary](https://www.opensecrets.org/orgs/senate-majority-pac/summary)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Senate%20Majority%20PAC%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2019–2023):** $126.4M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| MAJORITY FORWARD | $124.4M | 3 | 2021–2023 |
+| SIXTEEN THIRTY FUND | $2.0M | 3 | 2019–2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

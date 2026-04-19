@@ -1,6 +1,7 @@
 ---
 title: "American Energy Alliance"
 type: corporation
+ein: "262731617"
 content-readiness: draft
 last-updated: 2026-04-12
 source-tier: 3
@@ -60,3 +61,21 @@ Profile pending enrichment.
 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2019–2023):** $850K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN FUEL AND PETROCHEMICAL | $850K | 4 | 2019–2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

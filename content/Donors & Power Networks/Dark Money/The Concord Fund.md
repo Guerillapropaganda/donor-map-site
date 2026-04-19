@@ -12,7 +12,7 @@ aliases:
   - Judicial Crisis Network
   - JCN
 internal-notes: Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. EIN verified against IRS 990 bulk recipient records.
-politicians-funded: "[[One Nation]]"
+politicians-funded: "[[One Nation]], [[American Future Fund]], [[Michigan Republican Party]]"
 ---
 
 # The Concord Fund

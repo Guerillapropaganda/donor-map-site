@@ -1,6 +1,7 @@
 ---
 title: Put Utah First PAC
 type: donor
+ein: "873204548"
 content-readiness: raw
 sector: Dark Money
 entity-type: Super PAC
@@ -41,3 +42,21 @@ total-spent: 10398
 <!-- Build: data panel generated from data/entities.jsonl + data/relationships.jsonl. Regenerate: node scripts/build-profile-data-panels.cjs --write. Phase 3. -->
 <!-- auto:data-panel end -->
 
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2022):** $460K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $460K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

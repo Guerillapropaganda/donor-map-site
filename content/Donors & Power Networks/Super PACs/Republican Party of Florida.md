@@ -1,6 +1,7 @@
 ---
 title: Republican Party of Florida
 type: donor
+ein: "590683241"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -87,3 +88,21 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $330K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $330K | 6 | 2018–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

@@ -1,6 +1,7 @@
 ---
 title: Environment America INC
 type: donor
+ein: "205355252"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -96,6 +97,24 @@ employee-donor-count: 48
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2023):** $8.2M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $6.2M | 4 | 2018–2023 |
+| LEAGUE OF CONSERVATION VOTERS INC | $2.0M | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
 
 ## Auto-Created Stub
 

@@ -1,6 +1,7 @@
 ---
 title: Ohio AFL-CIO
 type: donor
+ein: "314425064"
 content-readiness: ready
 last-updated: 2026-04-08T00:00:00.000Z
 source-tier: 2
@@ -252,3 +253,21 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[OpenSecrets: Ohio AFL-CIO spending 2024](https://www.opensecrets.org/organizations/ohio-afl-cio)~~ (was Tier 1. URL broken, archived by Ops) (Tier 1)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Ohio%20AFL-CIO%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2020):** $50K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $50K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

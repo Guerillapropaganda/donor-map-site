@@ -1,6 +1,7 @@
 ---
 title: Michigan Republican Party
 type: donor
+ein: "381221182"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -112,6 +113,23 @@ employee-donor-count: 15
 
 *Source: FEC bulk filings (pas2 + independent expenditures), 1982–2026.*
 <!-- auto:fec-lifetime end -->
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2019):** $200K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| Judicial Crisis Network | $200K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
 
 ## Auto-Created Stub
 

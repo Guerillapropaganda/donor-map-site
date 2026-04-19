@@ -1,6 +1,7 @@
 ---
 title: Bluegreen Alliance
 type: donor
+ein: "264086284"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -92,3 +93,23 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2020–2023):** $1.2M across 3 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $775K | 2 | 2022–2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $350K | 2 | 2021–2022 |
+| THIRD WAY | $100K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

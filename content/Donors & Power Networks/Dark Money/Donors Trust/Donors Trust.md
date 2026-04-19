@@ -1,6 +1,7 @@
 ---
 title: Donors Trust
 type: corporation
+ein: "522166327"
 content-readiness: raw
 last-updated: 2026-04-12T00:00:00.000Z
 source-tier: 3
@@ -66,3 +67,32 @@ Profile pending enrichment.
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $435.8M across 12 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| The 85 Fund | $196.5M | 3 | 2020–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $157.3M | 6 | 2018–2023 |
+| Marble Freedom Trust | $41.1M | 1 | 2021 |
+| Vanguard Charitable Endowment Program | $22.4M | 3 | 2021–2023 |
+| Rule of Law Trust | $5.8M | 1 | 2020 |
+| Donors Capital Fund Inc | $5.3M | 2 | 2020–2022 |
+| NATIONAL PHILANTHROPIC TRUST | $4.0M | 5 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $2.7M | 7 | 2018–2024 |
+| PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $590K | 1 | 2018 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $85K | 1 | 2022 |
+| STATE POLICY NETWORK | $15K | 1 | 2018 |
+| CATO INSTITUTE | $8K | 1 | 2019 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

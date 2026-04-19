@@ -1,6 +1,7 @@
 ---
 title: The Lincoln Project
 type: donor
+ein: "843583045"
 content-readiness: raw
 editorial-status: stub
 sector: Political Committees
@@ -83,3 +84,22 @@ This profile absorbs the following FEC-format committee name(s):
 
 - [Source: FEC Individual Contributions](https://www.fec.gov/data/browse-data/?tab=bulk-data) (Tier 1) (VERIFIED)
 <!-- auto:fec-individual end -->
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2020–2021):** $1.6M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| MAJORITY FORWARD | $1.4M | 1 | 2021 |
+| SIXTEEN THIRTY FUND | $300K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

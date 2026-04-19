@@ -1,38 +1,38 @@
 ---
-title: "American Fuel and Petrochemical Manufacturers"
+title: American Fuel and Petrochemical Manufacturers
 type: corporation
 content-readiness: ready
-last-updated: 2026-04-09
+last-updated: 2026-04-09T00:00:00.000Z
 source-tier: 1
 parent: null
-sector: "Energy & Utilities"
-entity-type: "Corporation"
+sector: Energy & Utilities
+entity-type: Corporation
 issues:
-  - "Energy & Climate"
+  - Energy & Climate
 ofac-sdn-match: "true"
 last-enriched: "2026-04-09"
 ofac-programs:
-  - "IRAN-EO13846"
+  - IRAN-EO13846
 ein: "530115970"
-annual-revenue: "$60.8M"
-net-assets: "$74.5M"
+annual-revenue: $60.8M
+net-assets: $74.5M
 tax-year: "2023"
 nhtsa-recalls: 0
 nhtsa-complaints: 0
 court-cases: 68
 court-jurisdictions:
-  - "Court of Appeals for the D.C. Circuit"
-  - "Court of Appeals for the Fifth Circuit"
-  - "Court of Appeals for the First Circuit"
-  - "Court of Appeals for the Fourth Circuit"
-  - "District Court, D. Puerto Rico"
-  - "District Court, District of Columbia"
-  - "District Court, E.D. California"
-  - "District Court, N.D. California"
+  - Court of Appeals for the D.C. Circuit
+  - Court of Appeals for the Fifth Circuit
+  - Court of Appeals for the First Circuit
+  - Court of Appeals for the Fourth Circuit
+  - District Court, D. Puerto Rico
+  - District Court, District of Columbia
+  - District Court, E.D. California
+  - District Court, N.D. California
 lobbying-spend: 3142538
 lobbying-filings: 146
 related: "[[Marathon Petroleum]] · [[Enterprise Products Partners]] · [[Williams Companies]] · [[InfluenceMap]] · [[League of Conservation Voters]]"
-nonprofit-status: "501(c)(6)"
+nonprofit-status: 501(c)(6)
 total-revenue: 55318139
 total-assets: 57058180
 source-types:
@@ -40,29 +40,30 @@ source-types:
   - LDA
 corroboration-count: 2
 known-gaps:
-  - "No SEC corporate filings"
-  - "No FEC contribution data"
+  - No SEC corporate filings
+  - No FEC contribution data
 sec-filings: 115
 sec-form-types:
-  - "10-K"
-  - "10-K/A"
-  - "10-Q"
+  - 10-K
+  - 10-K/A
+  - 10-Q
   - "425"
-  - "8-K"
-  - "ARS"
-  - "DEF 14A"
-  - "DEFA14A"
-  - "DEFN14A"
-  - "DEFR14A"
-  - "EX-9.1"
-  - "EX-99.1"
-  - "PRE 14A"
-  - "PREC14A"
-  - "PREN14A"
-  - "PRRN14A"
-  - "PX14A6G"
+  - 8-K
+  - ARS
+  - DEF 14A
+  - DEFA14A
+  - DEFN14A
+  - DEFR14A
+  - EX-9.1
+  - EX-99.1
+  - PRE 14A
+  - PREC14A
+  - PREN14A
+  - PRRN14A
+  - PX14A6G
 cross-vault-triangulation-count: 5
 audit-a-plus-passed: "2026-04-11"
+politicians-funded: "[[American Energy Alliance]]"
 ---
 
 

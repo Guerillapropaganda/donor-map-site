@@ -1,6 +1,7 @@
 ---
 title: "Prison Policy Initiative"
 type: reference
+ein: "203671130"
 content-readiness: draft
 last-updated: 2026-04-08
 source-tier: 1
@@ -71,3 +72,29 @@ Mass incarceration is a $182 billion annual industry. The beneficiaries include:
 - [Vera Institute: Incarceration cost analysis](https://www.vera.org/publications/price-of-prisons-2015-state-spending-trends) (Tier 2) (VERIFIED)
 - [Ballotpedia: Mass incarceration](https://ballotpedia.org/Mass_incarceration_in_the_United_States) (Tier 3) (VERIFIED)
 
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $4.3M across 9 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.7M | 6 | 2018–2023 |
+| Silicon Valley Community Foundation | $830K | 5 | 2018–2023 |
+| NEW VENTURE FUND | $725K | 2 | 2022–2024 |
+| ROCKEFELLER PHILANTHROPY ADVISORS INC | $625K | 3 | 2020–2022 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $201K | 2 | 2022–2023 |
+| IMPACTASSETSINC | $100K | 2 | 2022–2023 |
+| SCHWAB CHARITABLE FUND | $75K | 3 | 2022–2024 |
+| Vanguard Charitable Endowment Program | $34K | 2 | 2021–2022 |
+| NATIONAL PHILANTHROPIC TRUST | $31K | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->
