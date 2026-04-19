@@ -1820,6 +1820,16 @@ export async function POST(req: NextRequest) {
       entitiesCache = null
       officerRegistryCache = null
       ASK_CACHE_LAST_DATA_MTIME = maxMtime
+      // Also flush the query-engine's underlying store caches. These
+      // live in scripts/lib/*-store.cjs at module scope — survive
+      // across createQueryEngine() calls — so without an explicit
+      // clear, the engine keeps serving edges from the last disk read.
+      // Without this, the UI kept reporting Trump at $228M even after
+      // the indiv-aggregation ingest landed 83K new edges on disk.
+      try {
+        const engine = await createQueryEngine()
+        if (engine && typeof engine.clear === "function") engine.clear()
+      } catch {}
     }
   } catch {}
 
