@@ -31,32 +31,75 @@ const fs = require('fs');
 const path = require('path');
 const { TYPE_META } = require('./relationship-edge-validator.cjs');
 
-const EDGE_FILE = path.join(__dirname, '..', '..', 'data', 'relationships.jsonl');
+const DATA_DIR = path.join(__dirname, '..', '..', 'data');
+const EDGE_FILE = path.join(DATA_DIR, 'relationships.jsonl');
+const DERIVED_DIR = path.join(DATA_DIR, 'derived');
+
+// Sources whose edges live in the canonical file. Every other source is
+// treated as derived (persisted to data/derived/{source}.jsonl). Keep in
+// sync with CANONICAL_SOURCES in scripts/split-relationships-by-source.cjs.
+const CANONICAL_SOURCES = new Set([
+  'manual-ops',
+  'research-claude',
+  'frontmatter-migration',
+  'body-migration-april-9',
+  'bidirectional-normalizer',
+  'discovery-scanner',
+  'connection-suggester',
+  'contradiction-scanner',
+]);
+
+function fileForEdge(edge) {
+  const src = edge && edge.source;
+  if (!src || CANONICAL_SOURCES.has(src)) return EDGE_FILE;
+  // Sanitize filename — source names are always lowercase-dash-separated
+  return path.join(DERIVED_DIR, `${src}.jsonl`);
+}
 
 let _cache = null;
 
 // ─── Loading ───────────────────────────────────────────────────────────
 
+/**
+ * Load every edge from the canonical file PLUS every .jsonl file in
+ * data/derived/. The split was introduced in 2026-04 to keep any single
+ * file under GitHub's 100 MB cap. Canonical edges (editorial,
+ * hand-curated) live in relationships.jsonl; derived edges (FEC, IRS,
+ * USASpending ingest output) live in per-source files under derived/.
+ *
+ * Consumers see one merged list. The split is invisible to the query
+ * engine, the CLI ask.cjs, route.ts, and all pipeline scripts.
+ */
 function loadEdges() {
   if (_cache) return _cache;
-  if (!fs.existsSync(EDGE_FILE)) {
-    _cache = [];
-    return _cache;
-  }
-  const raw = fs.readFileSync(EDGE_FILE, 'utf-8');
   const edges = [];
-  const lines = raw.split(/\r?\n/);
-  for (const line of lines) {
-    const trimmed = line.trim();
-    if (!trimmed) continue;
-    try {
-      edges.push(JSON.parse(trimmed));
-    } catch (_) {
-      // Skip malformed lines silently. The pre-commit sentinel should have
-      // blocked this before it landed; if it didn't, we don't want query
-      // consumers to crash mid-request.
+
+  // 1. Canonical file (always first)
+  if (fs.existsSync(EDGE_FILE)) {
+    const raw = fs.readFileSync(EDGE_FILE, 'utf-8');
+    for (const line of raw.split(/\r?\n/)) {
+      const trimmed = line.trim();
+      if (!trimmed) continue;
+      try { edges.push(JSON.parse(trimmed)); } catch {}
     }
   }
+
+  // 2. Every .jsonl file under data/derived/ (sorted so ordering is
+  //    deterministic across reloads — matters for downstream diff tooling)
+  if (fs.existsSync(DERIVED_DIR)) {
+    const files = fs.readdirSync(DERIVED_DIR)
+      .filter((f) => f.endsWith('.jsonl'))
+      .sort();
+    for (const f of files) {
+      const raw = fs.readFileSync(path.join(DERIVED_DIR, f), 'utf-8');
+      for (const line of raw.split(/\r?\n/)) {
+        const trimmed = line.trim();
+        if (!trimmed) continue;
+        try { edges.push(JSON.parse(trimmed)); } catch {}
+      }
+    }
+  }
+
   _cache = edges;
   return _cache;
 }
@@ -288,14 +331,7 @@ function upsertEdges(newEdges) {
     a.id < b.id ? -1 : a.id > b.id ? 1 : 0
   );
 
-  // Atomic write
-  if (!fs.existsSync(path.dirname(EDGE_FILE))) {
-    fs.mkdirSync(path.dirname(EDGE_FILE), { recursive: true });
-  }
-  const tmp = `${EDGE_FILE}.tmp-${process.pid}-${Date.now()}`;
-  const body = sorted.map((e) => JSON.stringify(e)).join('\n') + '\n';
-  fs.writeFileSync(tmp, body, 'utf-8');
-  fs.renameSync(tmp, EDGE_FILE);
+  writeEdgesPartitioned(sorted);
   clearEdgesCache();
 
   return {
@@ -306,6 +342,48 @@ function upsertEdges(newEdges) {
     total: sorted.length,
     errors,
   };
+}
+
+/**
+ * Partition-write helper: groups edges by their target file (canonical
+ * vs derived-by-source) and atomically writes each file. Keeps derived
+ * data out of the main relationships.jsonl so no single file grows past
+ * GitHub's 100 MB cap. Callers see the same unified list via loadEdges()
+ * which globs everything back together.
+ */
+function writeEdgesPartitioned(sortedEdges) {
+  // Group by target file
+  const byFile = new Map();
+  for (const e of sortedEdges) {
+    const target = fileForEdge(e);
+    if (!byFile.has(target)) byFile.set(target, []);
+    byFile.get(target).push(e);
+  }
+
+  // Ensure data/ and data/derived/ exist
+  if (!fs.existsSync(path.dirname(EDGE_FILE))) fs.mkdirSync(path.dirname(EDGE_FILE), { recursive: true });
+  if (!fs.existsSync(DERIVED_DIR)) fs.mkdirSync(DERIVED_DIR, { recursive: true });
+
+  // Write every target file that has any content
+  for (const [file, edges] of byFile) {
+    const tmp = `${file}.tmp-${process.pid}-${Date.now()}`;
+    const body = edges.map((e) => JSON.stringify(e)).join('\n') + '\n';
+    fs.writeFileSync(tmp, body, 'utf-8');
+    fs.renameSync(tmp, file);
+  }
+
+  // Also truncate any derived file that USED to have edges but no
+  // longer does (e.g. all edges from that source got deprecated and
+  // pruned). Skip the canonical file — even if empty, keep it present.
+  if (fs.existsSync(DERIVED_DIR)) {
+    for (const f of fs.readdirSync(DERIVED_DIR)) {
+      if (!f.endsWith('.jsonl')) continue;
+      const fp = path.join(DERIVED_DIR, f);
+      if (!byFile.has(fp)) {
+        fs.writeFileSync(fp, '', 'utf-8');
+      }
+    }
+  }
 }
 
 /**
@@ -347,10 +425,7 @@ function deprecateEdge(edgeId) {
     a.id < b.id ? -1 : a.id > b.id ? 1 : 0
   );
 
-  const tmp = `${EDGE_FILE}.tmp-${process.pid}-${Date.now()}`;
-  const body = sorted.map((e) => JSON.stringify(e)).join('\n') + '\n';
-  fs.writeFileSync(tmp, body, 'utf-8');
-  fs.renameSync(tmp, EDGE_FILE);
+  writeEdgesPartitioned(sorted);
   clearEdgesCache();
 
   return { ok: true, existed: true, total: sorted.length };
@@ -387,10 +462,7 @@ function activateEdge(edgeId) {
     a.id < b.id ? -1 : a.id > b.id ? 1 : 0
   );
 
-  const tmp = `${EDGE_FILE}.tmp-${process.pid}-${Date.now()}`;
-  const body = sorted.map((e) => JSON.stringify(e)).join('\n') + '\n';
-  fs.writeFileSync(tmp, body, 'utf-8');
-  fs.renameSync(tmp, EDGE_FILE);
+  writeEdgesPartitioned(sorted);
   clearEdgesCache();
 
   return { ok: true, existed: true, total: sorted.length };

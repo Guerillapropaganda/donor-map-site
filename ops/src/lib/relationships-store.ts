@@ -124,12 +124,12 @@ export function endpointsForLegacyWrite(
 
 // ─── File resolution + cache ───────────────────────────────────────────
 
-// Resolve from the ops working directory (process.cwd() is ops/ when the
-// dev server runs) or from the repo root if running a standalone script.
-function resolveEdgeFilePath(): string {
+// Resolve data directory (canonical file lives here, derived/ subdir too).
+// process.cwd() is ops/ when the dev server runs, repo root from scripts.
+function resolveDataDir(): string {
   const candidates = [
-    path.resolve(process.cwd(), "..", "data", "relationships.jsonl"),
-    path.resolve(process.cwd(), "data", "relationships.jsonl"),
+    path.resolve(process.cwd(), "..", "data"),
+    path.resolve(process.cwd(), "data"),
   ]
   for (const c of candidates) {
     if (fs.existsSync(c)) return c
@@ -137,26 +137,46 @@ function resolveEdgeFilePath(): string {
   return candidates[0]
 }
 
+function resolveEdgeFilePath(): string {
+  return path.join(resolveDataDir(), "relationships.jsonl")
+}
+
 let _cache: RelationshipEdge[] | null = null
 
+/**
+ * Load canonical edges (data/relationships.jsonl) PLUS every derived file
+ * (data/derived/*.jsonl). The 2026-04 split pushed FEC/IRS/USASpending
+ * bulk-aggregated edges out of the main file to keep it under GitHub's
+ * 100 MB cap. Consumers see the same unified list.
+ */
 export function loadEdges(): RelationshipEdge[] {
   if (_cache) return _cache
-  const file = resolveEdgeFilePath()
-  if (!fs.existsSync(file)) {
-    _cache = []
-    return _cache
-  }
-  const raw = fs.readFileSync(file, "utf-8")
+  const dataDir = resolveDataDir()
   const edges: RelationshipEdge[] = []
-  for (const line of raw.split(/\r?\n/)) {
-    const trimmed = line.trim()
-    if (!trimmed) continue
-    try {
-      edges.push(JSON.parse(trimmed) as RelationshipEdge)
-    } catch {
-      // Skip malformed lines. Pre-commit sentinel should have blocked these.
+
+  const canonical = path.join(dataDir, "relationships.jsonl")
+  if (fs.existsSync(canonical)) {
+    const raw = fs.readFileSync(canonical, "utf-8")
+    for (const line of raw.split(/\r?\n/)) {
+      const trimmed = line.trim()
+      if (!trimmed) continue
+      try { edges.push(JSON.parse(trimmed) as RelationshipEdge) } catch {}
     }
   }
+
+  const derivedDir = path.join(dataDir, "derived")
+  if (fs.existsSync(derivedDir)) {
+    for (const f of fs.readdirSync(derivedDir).sort()) {
+      if (!f.endsWith(".jsonl")) continue
+      const raw = fs.readFileSync(path.join(derivedDir, f), "utf-8")
+      for (const line of raw.split(/\r?\n/)) {
+        const trimmed = line.trim()
+        if (!trimmed) continue
+        try { edges.push(JSON.parse(trimmed) as RelationshipEdge) } catch {}
+      }
+    }
+  }
+
   _cache = edges
   return _cache
 }

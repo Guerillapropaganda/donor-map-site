@@ -128,23 +128,35 @@ function loadLobbyingEntities(): LobbyEntity[] {
 }
 
 function loadDonorPoliticianEdges(): Record<string, string[]> {
-  // Map: donor name (lowercase) -> politicians they fund
+  // Map: donor name (lowercase) -> politicians they fund.
+  // Reads canonical relationships.jsonl + every data/derived/*.jsonl
+  // (2026-04 split — FEC/IRS/USASpending edges moved to per-source files
+  // to keep each under GitHub's 100 MB cap).
   const edges: Record<string, string[]> = {}
-  if (!fs.existsSync(RELATIONSHIPS_FILE)) return edges
-
-  try {
-    const lines = fs.readFileSync(RELATIONSHIPS_FILE, 'utf-8').split('\n').filter(Boolean)
-    for (const line of lines) {
-      try {
-        const e = JSON.parse(line)
-        if (e.type === 'monetary' || e.type === 'related') {
-          const from = (e.from || '').toLowerCase()
-          if (!edges[from]) edges[from] = []
-          edges[from].push(e.to || '')
-        }
-      } catch {}
+  const files: string[] = []
+  if (fs.existsSync(RELATIONSHIPS_FILE)) files.push(RELATIONSHIPS_FILE)
+  const derivedDir = path.join(ROOT, 'data', 'derived')
+  if (fs.existsSync(derivedDir)) {
+    for (const f of fs.readdirSync(derivedDir).sort()) {
+      if (f.endsWith('.jsonl')) files.push(path.join(derivedDir, f))
     }
-  } catch {}
+  }
+
+  for (const file of files) {
+    try {
+      const lines = fs.readFileSync(file, 'utf-8').split('\n').filter(Boolean)
+      for (const line of lines) {
+        try {
+          const e = JSON.parse(line)
+          if (e.type === 'monetary' || e.type === 'related') {
+            const from = (e.from || '').toLowerCase()
+            if (!edges[from]) edges[from] = []
+            edges[from].push(e.to || '')
+          }
+        } catch {}
+      }
+    } catch {}
+  }
 
   return edges
 }
