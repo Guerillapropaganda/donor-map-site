@@ -224,10 +224,10 @@ test("query() with limit=1 returns exactly one row when data exists", () => {
   assert.equal(result.returned, 1)
 })
 
-test("query() with very large limit is clamped to MAX_PAGE_SIZE (500)", () => {
+test("query() with very large limit is clamped to MAX_PAGE_SIZE (2000)", () => {
   const result = engine.query({ subject: "entities", filters: { entity_type: "donor", limit: 9999999 } })
   assert.ok(Array.isArray(result.rows))
-  assert.ok(result.rows.length <= 500, "returned rows must not exceed MAX_PAGE_SIZE")
+  assert.ok(result.rows.length <= 2000, "returned rows must not exceed MAX_PAGE_SIZE")
   assert.equal(result.returned, result.rows.length)
 })
 
@@ -311,9 +311,13 @@ test("SECURITY: query with real filter is allowed", () => {
   assert.ok(result.rows.length <= 5)
 })
 
-test("SECURITY: limit is clamped to 500 (MAX_PAGE_SIZE)", () => {
+test("SECURITY: limit is clamped to 2000 (MAX_PAGE_SIZE)", () => {
+  // Bumped from 500 → 2000 on 2026-04-19 to accommodate the biggest
+  // vault committees (MAGA Inc 967 inflow edges, Trump Victory 1,197)
+  // after the indiv-aggregation ingest. UI silently truncated MAGA
+  // Inc's $973M to $342M under the old 500-row cap.
   const result = engine.query({ subject: "edges", filters: { type: "monetary", limit: 10000 } })
-  assert.ok(result.rows.length <= 500, `returned ${result.rows.length} rows, expected <= 500`)
+  assert.ok(result.rows.length <= 2000, `returned ${result.rows.length} rows, expected <= 2000`)
 })
 
 test("SECURITY: composers (cross_party_donors) still work without unbounded gate", () => {
