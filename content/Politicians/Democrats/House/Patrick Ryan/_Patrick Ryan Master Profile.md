@@ -2,7 +2,7 @@
 title: Patrick Ryan
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12T00:00:00.000Z
+last-updated: 2026-04-19
 source-tier: 1
 party: Democrat
 chamber: House
@@ -18,10 +18,10 @@ phone: 202-225-5614
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - No direct individual contribution totals
+  - OFAC SDN match is a false positive (matched Canadian national Damion Patrick John Ryan, IRAN-HR; not this politician)
+central-thesis: "Patrick Ryan is the competitive-district military Democrat who kept NY-18 blue by running as a West Point veteran in a Hudson Valley district where Republicans were targeting incumbents on national security and crime. Fairshake PAC at $2M is his largest non-party outside spender, placing him in the crypto-bought swing district category alongside Slotkin and Gallego. Palantir and Anduril give because his veteran identity and Armed Forces focus align with defense-tech contracts. AmerIPAC and New Democrat Coalition Action Fund stamp him as centrist: he holds the competitive seat by operating in the donor coalition that requires it."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 ofac-sdn-match: "true"
 last-enriched: "2026-04-12"
 ofac-programs:
@@ -155,7 +155,93 @@ top-donors: "[[MoveOn.org Political Action]], [[National Multifamily Housing Cou
 
 # Patrick Ryan
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Patrick Ryan. Democrat, New York-18 (Hudson Valley: Kingston, Newburgh, parts of Dutchess County). Won a special election in August 2022 after the seat opened, then won the general in November 2022 and re-elected 2024. Born March 1982 in Kingston, NY. West Point graduate, US Army officer (Iraq deployment, Bronze Star), later co-founded Etsy (early stage) and worked in technology. Assigned to Armed Services, Financial Services, and Homeland Security. Top policy areas: Health (55) and Armed Forces (55) tied, then International Affairs (32). 17 bills sponsored, 359 cosponsored, 0 enacted. Voting record: 93.2% party-line loyalty across 1,689 substantive votes, 115 deviations. Note: the OFAC SDN match on this profile is a false positive (matched Canadian national Damion Patrick John Ryan, IRAN-HR sanctions; not this politician).
+
+---
+
+## The Central Thesis
+
+Ryan is the competitive-district military Democrat who kept NY-18 blue by running as a West Point veteran in a Hudson Valley district Republicans targeted on national security and crime. The NY-18 seat swings with the political environment: Republicans spent $6.5M against Ryan (Congressional Leadership Fund $5.4M, NRCC $1.2M). Ryan won with help from $4M in outside support, led by Fairshake PAC at $2M as the single largest non-party IE spender for his campaign. This places Ryan in the same crypto-bought swing-district cohort as Gallego and Slotkin: competitive Democrats who received crypto industry's largest outside spending in exchange for positioning on GENIUS Act and stablecoin legislation. The defense-tech donor cluster (Palantir, Anduril Industries, Oracle, General Dynamics) reflects his Armed Forces committee seat and his veteran credibility in the defense-tech space. AmerIPAC ($47K, Josh Gottheimer's bipartisan PAC) and the New Democrat Coalition Action Fund ($31K) stamp him as a centrist: he holds the seat by operating in the donor coalition that requires it.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Ryan's campaign finance record includes End Citizens United at $31K across 12 transactions. He cosponsors campaign finance reform legislation. His campaign brand in a post-Citizens United competitive district emphasizes money-in-politics reform as a distinguishing Democratic value. Meanwhile, Fairshake PAC (the crypto industry's $195M national electoral vehicle) spent $2M supporting his campaign, making it the largest single non-party outside spender in his entire career. End Citizens United gave $31K to reform the system. Fairshake spent $2M to buy access to the system. Both are in his donor file for the same election cycle. The reform brand and the super-PAC machine exist simultaneously, and the super-PAC machine is larger by two orders of magnitude. The DMFI and AIPAC simultaneous presence in his donor list is the Israel-money both-sides version of the same pattern: both pro-Israel PACs fund the same competitive-district Democrat so neither can credibly claim he is theirs.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $2.2M
+- Party committee support: $286K
+- Super-PAC IE support (FOR): $4.0M
+- Super-PAC IE opposition (AGAINST): $6.7M (competitive district)
+
+### Top direct PAC donors (lifetime)
+
+- **AmerIPAC (Gottheimer's Fund for a Greater America)**: $47K across 16 transactions (bipartisan/centrist Democrat network, highest transaction count)
+- **VoteVets**: $45K across 12 transactions (veterans-focused, aligned with Ryan's military identity)
+- **JEFF PAC**: $35K
+- **Sheet Metal Workers International PAC**: $35K (building trades labor)
+- **End Citizens United**: $31K across 12 transactions (campaign finance reform PAC)
+- **New Democrat Coalition Action Fund**: $31K across 11 transactions (centrist House Democrat caucus stamp)
+- **Serve America PAC**: $30K (veterans and service-oriented PAC)
+- **AFSCME**: $30K
+- **AFT (American Federation of Teachers)**: $30K
+- **With Honor PAC**: $30K (veterans in Congress advocacy)
+
+### Top super-PAC IE support (FOR)
+
+- **Fairshake**: $2.0M (crypto industry's national IE vehicle; dominant outside spender in Ryan's cycle)
+- **Votevets**: $510K (veterans-focused IE)
+- **AFSCME**: $276K (public employee union)
+- **With Honor Fund**: $261K (veterans super-PAC)
+- **Votevets.org Action Fund**: $239K
+
+### Top super-PAC IE opposition (AGAINST)
+
+- **Congressional Leadership Fund**: $5.4M (House Republican super-PAC; dominant opposition spender)
+- **NRCC IE**: $1.2M
+- **Women Speak Out PAC**: $53K
+- **WFW Action Fund**: $38K
+- **Americans for Prosperity Action**: $33K (Koch network)
+
+### Defense-tech and corporate cluster
+
+From top-donors field: [[Palantir Technologies]], [[Anduril Industries]], [[Oracle]], [[Microsoft]], [[Google - Alphabet]] (defense-tech and big tech). [[Goldman Sachs]], [[JPMorgan Chase]], [[Apollo Global Management]] (Wall Street). [[General Dynamics]], [[ExxonMobil]], [[Johnson & Johnson]], [[Pfizer Inc.]], [[Verizon]] (industrials). [[Tesla - Elon Musk Political Operation]] (presence requires further verification of directionality).
+
+> [!money]
+> **The Fairshake swing-district purchase.** NY-18 is a competitive seat in a competitive cycle. The Congressional Leadership Fund spent $5.4M against Ryan. Fairshake spent $2M for him. In the arithmetic of a close race, the crypto industry's $2M outside spending is meaningful. What the crypto industry bought: a House Financial Services member and Armed Services member who is positioned to vote on digital asset regulation in committee. Ryan's New Democrat Coalition membership and his centrist positioning make him an accessible target for crypto lobbying. Fairshake does not spend $2M on a sure loss. They spent it because Ryan was a viable Democrat whose Financial Services committee seat was worth purchasing.
+
+---
+
+## Class Analysis
+
+Ryan's donor coalition is the swing-district competitive architecture: labor union base (VoteVets, AFT, Sheet Metal, AFSCME), crypto super-PAC ($2M Fairshake), defense-tech (Palantir, Anduril, Oracle), traditional finance (Goldman, JPMorgan, Apollo), and Republican super-PAC opposition ($6.5M trying to unseat him). The AmerIPAC and New Democrat Coalition Action Fund placement situate Ryan in the centrist House Democrat network that manages competitive districts by operating inside the bipartisan donor coalition rather than against it.
+
+The defense-tech donor presence deserves analysis. Palantir and Anduril Industries are not traditional defense contractors. Palantir sells data analytics and surveillance platforms to the US military and intelligence agencies. Anduril builds autonomous weapons systems (drones, fixed surveillance towers) and is backed by Peter Thiel. Both companies are selling the next generation of military technology, and both target Armed Services committee members who will vote on the procurement authorizations that determine their contract pipeline. Ryan's West Point background and Iraq deployment give him credibility in the defense-tech space that generic House Armed Services members lack. Palantir and Anduril are not buying votes on NDAA provisions (that is what traditional defense contractors do). They are buying a credible voice who can defend autonomous weapons and surveillance spending against skeptical progressives in his caucus.
+
+The 93.2% party loyalty with 115 deviations includes a cluster of November-December 2025 Yea votes on Republican-sponsored House bills (h310-h314 range, multiple Yea votes where party majority voted Nay). This pattern is consistent with a swing-district Democrat who occasionally votes for bills his leadership opposes, either to signal independence or because the crypto/defense-tech donors require it. The March 2026 Nay on HRES 1100 and January 2026 Nay on HR 7006 represent more recent deviations whose bill content is not parsed here.
+
+The simultaneous presence of AIPAC, DMFI, NORPAC, and pro-Israel giving in a competitive district is the standard hedge: both Israel-policy donor streams give to a swing-district Democrat to ensure his support regardless of which direction the party's Israel debate moves. Ryan does not have to choose between AIPAC and DMFI. Both fund him because the seat is worth owning regardless of intra-party positioning.
+
+---
+
+## Analytical Patterns
+
+**Donor-Class Override (crypto version).** Fairshake's $2M as the dominant non-party outside spender for a House Financial Services member is the crypto industry's committee-seat purchase in competitive district form. The return is not legislation (Ryan does not chair the committee). The return is a vote on markup, on amendments, and on floor passage of digital asset legislation. End Citizens United giving $31K to the same candidate Fairshake spent $2M supporting is the clearest illustration of the override: the reform money is meaningful rhetorically, the override money is meaningful structurally.
+
+**Two-Audience Problem.** Ryan's Hudson Valley voters hear the West Point veteran, the Iraq service, the local roots. Wall Street (Goldman, JPMorgan, Apollo) and defense-tech (Palantir, Anduril) donors hear the Financial Services and Armed Services committee member who can move their issues without the progressive baggage of a safer-district Democrat. The centrist brand is not a deception. It is the product that keeps both audiences active.
+
+**Genuine Win + Structural Limit.** Ryan won NY-18 twice in cycles where Democrats were expected to lose competitive districts. The structural limit is that winning required accepting the Fairshake $2M and the centrist donor coalition. A progressive challenger in NY-18 would face the same $6.5M in Republican opposition with $2M less in support and less Wall Street access. The win is real. The terms of the win are also real.
+
+**Pilot Program (defense-tech).** Ryan is an early test of whether defense-tech companies (Palantir, Anduril) can establish the same committee-donor-to-policy pipeline that traditional defense contractors built over decades. If Ryan votes for autonomous weapons procurement and surveillance platform authorizations, the pilot succeeds and the defense-tech donor template replicates across Armed Services members. If his voting record on AI defense spending diverges from their interests, the money moves.
 
 ### OFAC Sanctions Screening
 <!-- auto:ofac-sdn start -->
