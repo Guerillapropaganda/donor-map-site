@@ -229,6 +229,63 @@ const PARTISAN_COMMITTEES = {
   'iowa democratic party': 'D',
   'georgia democratic party': 'D',
   'ohio republican party': 'R',
+
+  // ── Added 2026-04-19 (partisan-map expansion pass) ──────
+  // R-aligned super PACs / IE spenders
+  'rbg pac': 'R',
+  'retire career politicians': 'R',
+  'esafund': 'R',
+  'school freedom fund': 'R',
+  'opportunity matters fund': 'R',
+  'opportunity matters fund action': 'R',
+  'alabama conservatives fund': 'R',
+  'south carolina patriots pac': 'R',
+  'alabama christian conservatives': 'R',
+  'connecticut patriots pac': 'R',
+  'heartland resurgence': 'R',
+  'texans for a conservative majority': 'R',
+  'evergreen principles pac': 'R',
+  'defending main street superpac inc': 'R',
+  'defending main street superpac': 'R',
+  'defending main street': 'R',
+  'truth and courage pac': 'R',
+  'liberty champions': 'R',
+  'conservative outsider pac inc': 'R',
+  'conservative outsider pac': 'R',
+  'save our country': 'R',
+  'america pac - elon musk': 'R',
+  'america pac': 'R',
+
+  // D-aligned super PACs / IE spenders
+  'the lincoln project': 'D',
+  'lincoln project': 'D',
+  'illinois future pac': 'D',
+  'justice democrats pac': 'D',
+  'justice democrats': 'D',
+  'mainstream democrats pac': 'D',
+  'mainstream democrats': 'D',
+  'protect our future pac': 'D',
+  'protect our future': 'D',
+  'patriot majority pac': 'D',
+  'patriot majority usa': 'D',
+  'congressional progressive caucus pac': 'D',
+  'united democracy project - udp': 'D',
+  'united democracy project': 'D',
+  'udp': 'D',
+
+  // NEUTRAL — genuinely bipartisan / cross-party spenders. Explicitly
+  // mapped so they short-circuit instead of being considered for
+  // classification.
+  'fairshake pac': 'NEUTRAL',
+  'fairshake': 'NEUTRAL',
+  'protect progress': 'NEUTRAL',
+  'american dream federal action': 'NEUTRAL',
+  'crypto innovation pac': 'NEUTRAL',
+  'clearpath action fund, inc.': 'NEUTRAL',
+  'clearpath action fund': 'NEUTRAL',
+  'clearpath action': 'NEUTRAL',
+  'center forward committee': 'NEUTRAL',
+  'center forward': 'NEUTRAL',
 };
 
 function loadPoliticianParties() {
