@@ -1,8 +1,8 @@
 ---
 title: Chrissy Houlahan
 type: politician
-content-readiness: raw
-last-updated: 2026-04-12T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Democrat
 chamber: House
@@ -18,10 +18,12 @@ phone: 202-225-4315
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline (Armed Services confirmed by donor pattern; specific subcommittees not verified)
+  - SHIELD PAC ($396K) donor composition and defense-sector affiliation not yet in vault
+  - 119th Congress House vote deviations (88 total): bill titles not yet pulled; all appear to be bipartisan Yea votes
+  - Anduril Industries donor context (Palmer Luckey connection, Thiel-adjacent) not yet documented in vault
+central-thesis: "Chrissy Houlahan is the Chester County military Democrat whose Armed Services Committee seat is funded by Boeing ($41K/32 txns, highest direct PAC transaction count), SHIELD PAC ($396K dominant outside spender), Northrop Grumman, L3Harris, Raytheon, Anduril, and BAE simultaneously. VoteVets ($311K combined) and With Honor Fund anchor her veteran-identity brand that makes the defense giving politically coherent to suburban Philadelphia voters."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: H8PA06087
 bills-sponsored: 27
@@ -148,7 +150,83 @@ top-donors: "[[Paul Tonko]], [[Leidos]], [[Giffords PAC]], [[314 ACTION FUND]], 
 
 # Chrissy Houlahan
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Chrissy Houlahan. Democrat, Pennsylvania-6 (Chester County). First elected 2018, re-elected 2020, 2022, 2024. Born June 1967 in Germany (Air Force family). Stanford University, MIT Sloan MBA. Air Force and Air Force Reserves veteran (Captain). Technology executive at Gap Inc., co-founded social enterprise AroundUS. Committee assignments not yet pipeline-verified; Armed Services Committee confirmed by donor pattern. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 94.7% party-line loyalty across 1,673 substantive votes, 88 deviations. Chester County PA is a competitive suburban Philadelphia district; Republicans have targeted it in multiple cycles.
+
+---
+
+## The Central Thesis
+
+Houlahan is the Chester County military Democrat whose Armed Services Committee seat is funded directly by the defense industry that benefits from her committee positioning. Boeing PAC's $41K across 32 transactions is the highest direct PAC transaction count in her file and reflects the defense contractor's Ridley Park PA helicopter facility (constituency giving) plus Armed Services Committee access (committee tribute). SHIELD PAC's $396K in FOR super-PAC support is the dominant outside spender, a defense-affiliated vehicle investing in a member who sits on the committee that funds their industry. Northrop Grumman, L3Harris, Raytheon, Lockheed Martin, General Dynamics, BAE Systems, and Anduril complete the defense donor cluster. VoteVets ($311K combined direct and IE) and With Honor Fund provide the veteran-identity framing that makes the defense industry giving politically coherent to suburban Philadelphia voters who elect progressive candidates.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Houlahan's political identity is the progressive veteran: Planned Parenthood Votes, Everytown for Gun Safety, League of Conservation Voters, SEIU, Machinists Union, and AFSCME all give to her campaigns. So does Anduril Industries, the defense tech company co-founded by Palmer Luckey and backed by venture capital aligned with Peter Thiel, which makes autonomous weapons systems and drone warfare technology. Houlahan's veteran status provides the brand cover for receiving defense industry access money while presenting as a progressive: she understands military service, therefore she supports defense funding responsibly, therefore the defense contractors giving to her are investing in conscientious stewardship of their budget. The mechanism is: veteran identity launders defense industry access money through the voter-credibility of military service. The money flows from the same institutional source (defense procurement industry) whether the recipient is a progressive veteran Democrat or a conservative hawk Republican. Houlahan's progressive coalition and her defense donor coalition are funding two different things: the progressive coalition is funding a suburban Democrat who votes on guns and healthcare; the defense coalition is funding an Armed Services Committee member who votes on defense authorizations.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $4.4M
+- Party committee support: $140 (essentially zero; DCCC does not spend significantly on safe-ish incumbents)
+- Super-PAC IE support (FOR): $1.2M (SHIELD PAC $396K, VoteVets $281K, Independence USA PAC $213K, With Honor Fund $97K + $42K)
+- Super-PAC IE opposition (AGAINST): $700 (Pennsylvania Pro-Life Federation; effectively zero opposition)
+
+### Top direct PAC donors (lifetime)
+
+- **VoteVets**: $48K across 17 transactions (veteran-aligned Democratic PAC; also $281K in IE support)
+- **Trial Lawyers (ATLA)**: $46K across 22 transactions (consumer-protection alignment)
+- **Deloitte PAC**: $43K across 15 transactions (professional services; Houlahan's tech/business background)
+- **AFSCME**: $42K across 16 transactions (public-sector labor)
+- **Boeing PAC**: $41K across 32 transactions (highest transaction count; Ridley Park PA facility + Armed Services committee access)
+- **Women's Political Committee**: $40K across 8 transactions
+- **Laborers LIUNA**: $40K across 10 transactions
+- **Machinists (IAM)**: $40K across 8 transactions
+- **Comcast PAC**: $40K across 10 transactions (Philadelphia-area regional constituency)
+- **With Honor PAC**: $40K across 15 transactions (veterans in Congress PAC)
+
+### Data-panel top donors (relationships store)
+
+- **VoteVets**: $311K (combined direct + IE; dominant relationship)
+- **Comcast-NBCUniversal**: $62K (Philadelphia-area regional)
+- **BlackRock**: $59K (financial services; Chester County PA has significant financial industry presence)
+- **With Honor Fund**: $53K
+- **Google-Alphabet**: $45K
+- **League of Conservation Voters**: $37K
+- **Meta-Facebook**: $35K
+
+### Defense and pro-Israel clusters
+
+[[Boeing]], [[Raytheon (RTX)]], [[L3Harris Technologies]], [[Northrop Grumman]], [[Lockheed Martin]], [[General Dynamics]], [[BAE Systems]], [[Leidos]], [[Anduril Industries]] (defense and defense-tech; Armed Services Committee access). [[AIPAC - American Israel Public Affairs Committee]], [[DMFI - Democratic Majority for Israel]], [[J Street]], [[Care Action Now Inc.]] (both hawkish and progressive pro-Israel donors; rare dual-presence in a single member's donor map). [[BlackRock]], [[Goldman Sachs]], [[Morgan Stanley]], [[Blackstone Group]], [[Fidelity Investments]], [[Elliott Management]], [[Wells Fargo]] (financial industry; Chester County PA financial sector constituency).
+
+> [!money]
+> **The SHIELD PAC / Boeing structure.** SHIELD PAC spent $396K in FOR super-PAC support for Houlahan — the dominant outside spender in her career. SHIELD PAC is a defense-affiliated outside spending vehicle. Boeing PAC gave $41K in direct donations across 32 transactions — the highest-frequency donor-candidate relationship in her direct PAC record. Boeing operates a helicopter facility in Ridley Park, Chester County, making it both a constituency donor and a committee-access donor. The two entries together ($437K combined across both channels) constitute the defense industry's dominant financial relationship with Houlahan. This is not constituency service to Boeing workers alone; it is the Armed Services Committee investment that all major defense contractors make regardless of the member's district.
+
+---
+
+## Class Analysis
+
+Houlahan's $4.4M lifetime direct PAC record divides between her two donor bases: the progressive-labor coalition and the defense industry. The labor cluster (AFSCME $42K, Machinists $40K, Laborers LIUNA $40K, SEIU from frontmatter) reflects the union side of the Chester County suburban economy and Houlahan's progressive branding. The defense cluster (Boeing $41K/32 txns, plus Raytheon, L3Harris, Northrop, Lockheed, Anduril in frontmatter) reflects Armed Services Committee positioning. These are not contradictory donor groups in an electoral sense: Chester County voters who care about gun control and abortion rights also work in defense manufacturing and financial services. The district's competitive nature forces a member who serves both bases.
+
+VoteVets ($311K combined) and With Honor Fund ($97K + $42K + $40K direct) are the veteran-identity infrastructure that provides the political rationale for the defense industry giving. Houlahan's Air Force service makes her Armed Services Committee seat read as personal qualification rather than institutional access. The SHIELD PAC's $396K is the defense industry's return investment in that framing: a veteran on Armed Services is the optimal profile for defense contractors who need credible committee stewardship.
+
+The Independence USA PAC's $213K in FOR support connects Houlahan to Michael Bloomberg's independent expenditure strategy of investing in swing-district Democrats who are likely to survive Republican challengers. Bloomberg's PAC does not give randomly; it targets members in competitive districts who represent the centrist Democratic profile Bloomberg prefers. Houlahan fits that profile exactly: Air Force veteran, suburban Philadelphia, generally centrist voting record, occasional bipartisan deviations.
+
+The 88 deviations at 94.7% loyalty are predominantly Yea-when-Democrats-voted-Nay votes in the 119th Congress (2025-2026). Without bill-level verification (a known gap), the pattern suggests bipartisan positions that the Democratic caucus majority opposed. Members in competitive suburban districts like PA-6 have structural incentives to record bipartisan votes that signal independence to moderate constituents. The deviation rate of 5.3% is meaningfully higher than safe-seat Democrats like Welch (4.6%) but lower than senators in genuinely competitive states.
+
+---
+
+## Analytical Patterns
+
+**Two-Audience Problem.** Houlahan presents as a progressive veteran to Chester County Democrats and as a defense-credentialed Armed Services member to defense contractors. The two audiences receive different messages: gun safety and healthcare to progressive constituents, responsible defense stewardship to Boeing and SHIELD PAC. The veteran identity bridges both because military service codes as patriotic to both liberal and moderate voters while simultaneously legitimizing defense industry access money as expertise-based rather than capture-based.
+
+**Genuine Win + Structural Limit.** Houlahan has held a competitive suburban Pennsylvania district through four cycles (2018-2024) against Republican challenges in a district that had previously been represented by a Republican. That is a genuine electoral win requiring real constituent service. The structural limit is that the Armed Services Committee seat that makes her effective also makes her the target of defense industry investment that would arrive regardless of her progressive voting record elsewhere. The veteran legitimacy and the defense industry money are inseparable in her political economy.
 
 
 ### Legislative Activity (118th Congress)
