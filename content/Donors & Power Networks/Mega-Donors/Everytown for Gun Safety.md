@@ -362,7 +362,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $23.2M |
 | Grants paid out | $721K |
 
-**Lifetime grants out (2019–2023):** $2.7M across 53 recipients.
+**Lifetime grants out (2019–2023):** $2.7M across 50 recipients.
 
 **Top 20 recipients:**
 
@@ -386,8 +386,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NCSL FOUNDATION FOR STATE LEGISLATURES | $60K | 2 | 2022–2023 |
 | VOICES FOR A SAFER TENNESSEE | $50K | 1 | 2023 |
 | NATIONAL CONFERENCE OF STATE LEGISLATURES | $48K | 2 | 2019–2022 |
+| WOMEN IN GOVERNMENT RELATIONS | $40K | 2 | 2022–2023 |
 | CONGRESSIONAL BLACK CAUCUS POLITICAL EDUCATION AND LEADERSHIP INSTITUTE | $31K | 1 | 2023 |
-| NATIONAL GOVERNORS ASSOCIATION CENTER FOR BEST PRACTICES | $30K | 1 | 2022 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

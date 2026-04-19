@@ -285,16 +285,56 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 10 (2018–2023)
 
-**Grants received (2018–2023):** $3.3M across 2 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Lifetime grants out (2018–2023):** $32.0M across 274 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Brookings Institution | $1.8M | 4 | 2018–2022 |
+| Regents of The University of California-Berkeley | $909K | 3 | 2021–2023 |
+| Georgetown University | $889K | 5 | 2019–2023 |
+| President and Fellows of Harvard College | $779K | 2 | 2022–2023 |
+| Sasha Bruce Youthwork | $764K | 4 | 2018–2021 |
+| WorkHands Inc | $617K | 2 | 2022–2023 |
+| National Center for State Courts | $524K | 3 | 2019–2021 |
+| University of New Orleans | $504K | 4 | 2020–2023 |
+| Child Trends Inc | $458K | 6 | 2018–2023 |
+| The University of Central Florida Board of Trustees | $453K | 3 | 2020–2022 |
+| Massachusetts Institute of Technology | $400K | 2 | 2022–2023 |
+| Curators of the University of Missouri | $390K | 4 | 2020–2023 |
+| The University of Vermont | $390K | 4 | 2020–2023 |
+| University of Delaware | $390K | 4 | 2020–2023 |
+| The Data Center of Southeast Louisiana | $377K | 2 | 2019–2020 |
+| Tulsa Authority for Economic Opportunity | $368K | 2 | 2022–2023 |
+| Community information Now | $360K | 4 | 2019–2023 |
+| University of Denver | $340K | 3 | 2021–2023 |
+| Arab-American Family Support Center | $333K | 3 | 2021–2023 |
+| El Buen Samaritano Episcopal Mission | $323K | 3 | 2021–2023 |
+
+**Grants received (2018–2024):** $19.2M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $15.3M | 3 | 2021–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.0M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $577K | 4 | 2020–2024 |
 | NEW VENTURE FUND | $336K | 1 | 2020 |
+| BIPARTISAN POLICY CENTER INC | $20K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

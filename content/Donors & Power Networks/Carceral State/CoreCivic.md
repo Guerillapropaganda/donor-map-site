@@ -692,7 +692,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $28K |
 | Grants paid out | $504K |
 
-**Lifetime grants out (2020–2025):** $3.1M across 41 recipients.
+**Lifetime grants out (2020–2025):** $3.1M across 40 recipients.
 
 **Top 20 recipients:**
 
@@ -717,7 +717,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | CASA NASHVILLE | $50K | 5 | 2020–2025 |
 | TN VOICES FOR VICTIMS | $42K | 5 | 2021–2025 |
 | CROSSBRIDGE | $40K | 4 | 2022–2025 |
-| FAMILY RECONCILIATION CENTER | $40K | 4 | 2020–2025 |
+| REFUGE CENTER FOR COUNSELING | $40K | 4 | 2020–2025 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

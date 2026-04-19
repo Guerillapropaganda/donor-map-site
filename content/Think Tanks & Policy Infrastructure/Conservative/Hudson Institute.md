@@ -254,15 +254,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2018–2024)
 
-**Grants received (2018–2024):** $2.4M across 3 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $18.3M |
+| Total expenses | — |
+| Total assets (EOY) | $121.1M |
+| Grants paid out | — |
+
+**Grants received (2018–2024):** $7.3M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $3.8M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $2.0M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $1.1M | 7 | 2018–2024 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $375K | 3 | 2020–2024 |
 | BRADLEY IMPACT FUND INC | $75K | 2 | 2019–2023 |
 

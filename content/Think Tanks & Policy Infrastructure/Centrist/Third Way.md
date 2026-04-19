@@ -292,7 +292,40 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2023)
+
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $25.5M |
+| Total expenses | — |
+| Total assets (EOY) | $57.6M |
+| Grants paid out | $460K |
+
+**Lifetime grants out (2018–2023):** $1.9M across 16 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| NATIONAL URBAN LEAGUE INC | $410K | 2 | 2022–2023 |
+| SMART GROWTH AMERICA | $298K | 1 | 2020 |
+| THE NEWDEAL FORUM | $250K | 1 | 2023 |
+| NEWDEAL FORUM | $200K | 2 | 2020–2021 |
+| THE ENERGY FOR GROWTH HUB | $200K | 1 | 2020 |
+| BIPARTISAN POLICY INSTITUTE | $100K | 1 | 2020 |
+| BLUEGREEN ALLIANCE | $100K | 1 | 2020 |
+| NATIONAL WILDLIFE FEDERATION | $100K | 1 | 2020 |
+| THE BREAKTHROUGH INSTITUTE | $100K | 1 | 2020 |
+| NEWDEAL | $50K | 2 | 2018–2019 |
+| COMMITTEE FOR A RESPONSIBLE FEDERAL BUDGET | $30K | 1 | 2019 |
+| CLEAN ENERGY LEADERSHIP INSTITUTE | $20K | 2 | 2021–2022 |
+| ENERGY FOR GROWTH HUB | $15K | 1 | 2022 |
+| COLLECTIVE FUTURE | $10K | 1 | 2021 |
+| CENTER FOR INNOVATIVE POLICY | $10K | 1 | 2022 |
+| EMILY'S LIST | $10K | 1 | 2023 |
 
 **Grants received (2020–2024):** $521K across 2 grantors (from other vault orgs' Schedule I records).
 

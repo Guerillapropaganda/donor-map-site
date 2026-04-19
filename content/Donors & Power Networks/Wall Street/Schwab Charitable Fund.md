@@ -1,15 +1,16 @@
 ---
-title: "Schwab Charitable Fund"
+title: Schwab Charitable Fund
 type: donor
 content-readiness: raw
-last-updated: 2026-04-18
-sector: "Wall Street"
-entity-type: "Donor-Advised Fund"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Wall Street
+entity-type: Donor-Advised Fund
 ein: "311640316"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 source-tier: 1
 related: "[[Charles Schwab]]"
-internal-notes: "Stub profile auto-created 2026-04-18. Schwab Charitable Fund is the DAF sponsor affiliated with Charles Schwab the brokerage. They are separate legal entities with separate EINs (Schwab Charitable EIN 31-1640316; Charles Schwab Corp EIN 94-3192615). Narrative pending Research Claude editorial pass."
+internal-notes: Stub profile auto-created 2026-04-18. Schwab Charitable Fund is the DAF sponsor affiliated with Charles Schwab the brokerage. They are separate legal entities with separate EINs (Schwab Charitable EIN 31-1640316; Charles Schwab Corp EIN 94-3192615). Narrative pending Research Claude editorial pass.
+politicians-funded: "[[Fidelity Investments]], [[Cato Institute]], [[Kenneth Griffin]], [[Ocean Conservancy]], [[Mercatus Center]], [[One Israel Fund]], [[Roosevelt Institute]], [[New Venture Fund]], [[Alliance Defending Freedom]], [[Brennan Center for Justice]], [[Center for American Progress]], [[Council on Foreign Relations]], [[California Charter Schools Association]], [[International Association of Chiefs of Police]], [[Hudson Institute]], [[Bipartisan Policy Center]], [[National Philanthropic Trust]], [[Conservative Partnership Institute]], [[Economic Policy Institute]], [[America First Policy Institute]], [[Heritage Foundation]], [[TPUSA - Turning Point USA]], [[Apollo Global Management]], [[The 85 Fund]], [[RAND Corporation]], [[Airbnb]], [[American Enterprise Institute]], [[OpenAI]], [[Founders Fund]], [[US Chamber of Commerce]], [[Urban Institute]], [[State Policy Network]], [[Bradley Impact Fund]]"
 ---
 
 # Schwab Charitable Fund
@@ -35,9 +36,46 @@ internal-notes: "Stub profile auto-created 2026-04-18. Schwab Charitable Fund is
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 11 (2018–2024)
 
-**Grants received (2018–2024):** $1.39B across 4 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $9.31B |
+| Total expenses | — |
+| Total assets (EOY) | $41.11B |
+| Grants paid out | $6.37B |
+
+**Lifetime grants out (2018–2024):** $26.78B across 87,422 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| JOHNS HOPKINS UNIVERSITY | $1.14B | 11 | 2018–2024 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $695.5M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $631.9M | 7 | 2018–2024 |
+| LUCAS MUSEUM OF NARRATIVE ART | $571.3M | 3 | 2018–2024 |
+| 85 FUND | $442.8M | 3 | 2022–2024 |
+| BLUE JAYS UNLIMITED | $404.8M | 2 | 2018–2020 |
+| UCSF FOUNDATION | $267.3M | 6 | 2018–2024 |
+| SCHMIDT OCEAN INSTITUTE | $200.0M | 6 | 2018–2023 |
+| JOHN HOPKINS UNIVERSITY | $192.5M | 10 | 2018–2024 |
+| GLOBAL SUPPORT AND DEVELOPMENT | $186.0M | 5 | 2020–2024 |
+| RENAISSANCE CHARITABLE FOUNDATION | $184.8M | 7 | 2018–2024 |
+| CANTOR ARTS CENTER AT STANFORD UNIVERSITY | $172.3M | 4 | 2018–2022 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST INC | $170.6M | 7 | 2018–2024 |
+| STANFORD UNIVERSITY BOARD OF TRUSTEES | $167.2M | 3 | 2018–2024 |
+| BROAD INSTITUTE INC | $166.5M | 6 | 2018–2024 |
+| AMERICAN ENDOWMENT FOUNDATION | $133.2M | 7 | 2018–2024 |
+| UC BERKELEY FOUNDATION | $132.2M | 7 | 2018–2024 |
+| MAYO CLINIC | $129.8M | 19 | 2018–2024 |
+| CALIFORNIA INSTITUTE OF TECHNOLOGY | $121.8M | 7 | 2018–2024 |
+| CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS | $120.9M | 4 | 2021–2024 |
+
+**Grants received (2018–2024):** $1.77B across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -45,6 +83,8 @@ internal-notes: "Stub profile auto-created 2026-04-18. Schwab Charitable Fund is
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $943.2M | 6 | 2018–2023 |
 | Marble Freedom Trust | $447.6M | 4 | 2021–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $332.0M | 6 | 2018–2023 |
+| Rule of Law Trust | $43.8M | 3 | 2022–2024 |
 | NEW VENTURE FUND | $505K | 1 | 2018 |
 | MAGA ACTION INC | $400K | 1 | 2023 |
 

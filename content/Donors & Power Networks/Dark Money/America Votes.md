@@ -111,7 +111,7 @@ politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation V
 | Total assets (EOY) | $24.3M |
 | Grants paid out | $91.4M |
 
-**Lifetime grants out (2020–2023):** $331.8M across 305 recipients.
+**Lifetime grants out (2020–2023):** $331.8M across 301 recipients.
 
 **Top 20 recipients:**
 

@@ -410,7 +410,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $6.3M |
 | Grants paid out | $895K |
 
-**Lifetime grants out (2018–2024):** $10.7M across 73 recipients.
+**Lifetime grants out (2018–2024):** $10.7M across 69 recipients.
 
 **Top 20 recipients:**
 
@@ -420,11 +420,11 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | AMERICAN FED FOR CHILDREN ACTION FUND DBA VIRGINIA FED FOR CHILDREN PAC | $700K | 1 | 2023 |
 | MISSOURI FEDERATION FOR CHILDREN PAC | $690K | 1 | 2022 |
 | AFC ACTION FUND - WI IE COMMITTEE | $650K | 2 | 2018–2020 |
-| SCHOOL CHOICE OHIO ALLIANCE | $575K | 4 | 2019–2023 |
+| SCHOOL CHOICE OHIO ALLIANCE | $625K | 5 | 2019–2024 |
+| LEADERS FOR A BETTER COMMUNITY INC | $515K | 4 | 2018–2022 |
 | ALABAMA FEDERATION FOR CHILDREN PAC | $501K | 3 | 2019–2022 |
 | EMPOWER KENTUCKY PARENTS INC | $500K | 1 | 2024 |
 | ALABAMA OPPORTUNITY ACTION FUND | $390K | 3 | 2019–2023 |
-| LEADERS FOR A BETTER COMMUNITY INC | $355K | 3 | 2019–2022 |
 | CITIZENS FOR A BETTER NORTH CAROLINA | $345K | 1 | 2020 |
 | HOOSIERS FOR QUALITY EDUCATION | $327K | 4 | 2020–2024 |
 | MISSOURI SENATE CAMPAIGN COMMITTEE | $305K | 2 | 2018–2020 |

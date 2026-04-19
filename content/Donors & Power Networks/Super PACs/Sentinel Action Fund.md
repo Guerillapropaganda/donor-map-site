@@ -203,7 +203,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $15.3M |
 | Grants paid out | $4.1M |
 
-**Lifetime grants out (2018–2024):** $26.2M across 107 recipients.
+**Lifetime grants out (2018–2024):** $26.2M across 103 recipients.
 
 **Top 20 recipients:**
 
@@ -213,8 +213,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ARIZONA WINS | $2.2M | 6 | 2018–2023 |
 | CENTER FOR CIVIC ACTION | $1.3M | 7 | 2018–2024 |
 | TIDES ADVOCACY | $1.0M | 5 | 2018–2023 |
+| NEO PHILANTHROPY ACTION FUND | $860K | 7 | 2018–2024 |
 | BETTER FUTURE FOR NEW MEXICO | $840K | 6 | 2018–2024 |
-| NEO PHILANTHROPY ACTION FUND | $700K | 5 | 2019–2024 |
 | ONE APIA NEVADA | $675K | 6 | 2018–2024 |
 | PROGRESSIVE LEADERSHIP ALLIANCE OF NEVADA ACTION FUND | $580K | 4 | 2019–2024 |
 | NILC IMMIGRANT JUSTICE FUND | $552K | 6 | 2019–2024 |

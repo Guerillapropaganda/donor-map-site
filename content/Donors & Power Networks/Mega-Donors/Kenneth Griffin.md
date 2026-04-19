@@ -137,13 +137,15 @@ employee-donor-count: 1
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Grants received (2019–2023):** $155.8M across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $159.4M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $155.8M | 5 | 2019–2023 |
+| SCHWAB CHARITABLE FUND | $2.9M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $693K | 6 | 2018–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

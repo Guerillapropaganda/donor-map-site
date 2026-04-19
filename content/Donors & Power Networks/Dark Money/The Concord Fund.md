@@ -1,17 +1,18 @@
 ---
-title: "The Concord Fund"
+title: The Concord Fund
 type: donor
 content-readiness: raw
-last-updated: 2026-04-18
-sector: "Dark Money"
-entity-type: "501(c)(4)"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Dark Money
+entity-type: 501(c)(4)
 ein: "202303252"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 source-tier: 1
 aliases:
-  - "Judicial Crisis Network"
-  - "JCN"
-internal-notes: "Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. EIN verified against IRS 990 bulk recipient records."
+  - Judicial Crisis Network
+  - JCN
+internal-notes: Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. EIN verified against IRS 990 bulk recipient records.
+politicians-funded: "[[One Nation]]"
 ---
 
 # The Concord Fund
@@ -35,15 +36,53 @@ internal-notes: "Stub profile auto-created 2026-04-18 to close 990-edge coverage
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 4 (2019–2023)
 
-**Grants received (2021–2024):** $161.3M across 1 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $52.8M |
+| Total expenses | — |
+| Total assets (EOY) | $735K |
+| Grants paid out | $44.3M |
+
+**Lifetime grants out (2019–2023):** $101.2M across 82 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| One Nation | $12.6M | 3 | 2019–2022 |
+| Susan B Anthony List Inc | $12.5M | 4 | 2019–2023 |
+| Republican State Leadership | $7.1M | 4 | 2019–2023 |
+| Republican Governors Association | $6.5M | 2 | 2022–2023 |
+| Republican Attorney Generals Assoc | $5.0M | 2 | 2022–2023 |
+| Republican Attorneys General Assoc | $4.8M | 1 | 2021 |
+| Heritage Action for America | $4.4M | 3 | 2021–2023 |
+| Bluegrass Freedom Action | $3.0M | 1 | 2023 |
+| Protect Women Ohio Action | $3.0M | 1 | 2023 |
+| Catholic Vote Civic Action | $2.8M | 3 | 2021–2023 |
+| Republican Attorney Generals Asso | $2.6M | 1 | 2019 |
+| Foundation for Fair Courts LLC | $2.5M | 2 | 2022–2023 |
+| Faith Freedom Coalition | $2.2M | 3 | 2021–2023 |
+| FGA Action | $2.1M | 3 | 2021–2023 |
+| Advancing American Freedom | $2.0M | 3 | 2021–2023 |
+| Independent Womens Voice | $2.0M | 2 | 2021–2022 |
+| Americans for Limited Govt | $1.9M | 3 | 2021–2023 |
+| Club for Growth | $1.6M | 3 | 2021–2023 |
+| People United For Privacy | $1.6M | 2 | 2022–2023 |
+| Winning for Women | $1.2M | 4 | 2019–2023 |
+
+**Grants received (2020–2024):** $182.8M across 2 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | Marble Freedom Trust | $161.3M | 4 | 2021–2024 |
+| Rule of Law Trust | $21.5M | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

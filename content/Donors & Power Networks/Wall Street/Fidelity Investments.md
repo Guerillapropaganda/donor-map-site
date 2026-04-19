@@ -283,7 +283,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Lifetime grants out (2018–2023):** $48.13B across 107,218 recipients.
+**Lifetime grants out (2018–2023):** $48.13B across 106,237 recipients.
 
 **Top 20 recipients:**
 
@@ -309,6 +309,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | AMERICAN CIVIL LIBERTIES UNION FOUNDATION INC | $151.4M | 6 | 2018–2023 |
 | CORNELL UNIVERSITY | $150.3M | 6 | 2018–2023 |
 | TRUSTEES OF PRINCETON UNIVERSITY | $148.9M | 113 | 2018–2023 |
+
+**Grants received (2018–2024):** $1.10B across 3 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $695.5M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $390.8M | 6 | 2018–2023 |
+| Rule of Law Trust | $9.0M | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

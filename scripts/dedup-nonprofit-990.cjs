@@ -30,7 +30,7 @@ const GRANTS = 'C:\\donor-map-data\\fec\\nonprofit-grants.jsonl';
 
 function normName(s) {
   if (!s) return '';
-  return String(s)
+  let n = String(s)
     .replace(/&amp;/g, '&')
     .replace(/&#39;/g, "'")
     .replace(/&quot;/g, '"')
@@ -39,6 +39,16 @@ function normName(s) {
     .trim()
     .toUpperCase()
     .replace(/\s+/g, ' ');
+  // Canonicalize " AND " <-> " & " so ampersand spellings merge.
+  // Applied word-boundary-safe so "BRAND" etc. don't get eaten.
+  n = n.replace(/\s+AND\s+/g, ' & ');
+  // Strip trailing organizational suffixes that don't change entity identity.
+  // Conservative list; intentionally leaves e.g. "TRUST" and "FUND" in place
+  // because those change meaning ("Marble Freedom Trust" != "Marble Freedom").
+  n = n.replace(/,?\s+(INC|INCORPORATED|CORP|CORPORATION|CO|COMPANY|LLC|LLP|LTD|LIMITED)\.?$/i, '');
+  // Collapse any resulting double spaces and trailing punctuation.
+  n = n.replace(/\s+/g, ' ').replace(/[.,;:]+$/, '').trim();
+  return n;
 }
 
 function pickBetter(a, b) {

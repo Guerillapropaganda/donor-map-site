@@ -550,13 +550,15 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | STATE FINANCIAL OFFICERS FOUNDATION | $100K | 1 | 2022 |
 | DEFENSE OF FREEDOM INSTITUTE | $100K | 1 | 2022 |
 
-**Grants received (2018–2024):** $7.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $15.6M across 8 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $6.3M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $6.0M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $2.2M | 6 | 2018–2023 |
 | PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $513K | 4 | 2018–2022 |
 | BRADLEY IMPACT FUND INC | $318K | 5 | 2018–2024 |
 | THE 85 FUND | $190K | 2 | 2022–2023 |

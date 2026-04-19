@@ -371,15 +371,27 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 10 (2019–2024)
 
-**Grants received (2018–2023):** $10.3M across 2 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+**Grants received (2018–2024):** $24.3M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $10.0M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $7.9M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $6.1M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $250K | 1 | 2019 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

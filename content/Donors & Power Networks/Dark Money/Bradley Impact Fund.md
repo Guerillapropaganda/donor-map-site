@@ -178,7 +178,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $200.3M |
 | Grants paid out | $47.9M |
 
-**Lifetime grants out (2018–2024):** $193.4M across 614 recipients.
+**Lifetime grants out (2018–2024):** $193.4M across 582 recipients.
 
 **Top 20 recipients:**
 
@@ -198,20 +198,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | GEORGIA STATE UNIVERSITY RESEARCH FOUNDATION INC | $2.7M | 3 | 2022–2024 |
 | PAYPAL GIVING FUND | $2.5M | 1 | 2023 |
 | AMERICAN INDEPENDENT MEDIA | $2.5M | 1 | 2022 |
+| MOMS FOR AMERICA INC | $2.4M | 3 | 2022–2024 |
 | FRANKLIN NEWS FOUNDATION | $2.3M | 3 | 2022–2024 |
 | PROJECT VERITAS | $2.2M | 4 | 2018–2023 |
-| MOMS FOR AMERICA | $2.1M | 2 | 2023–2024 |
 | YOUNG AMERICA'S FOUNDATION | $1.8M | 5 | 2018–2024 |
 | LIBERTAS INSTITUTE | $1.7M | 3 | 2022–2024 |
 | BLACK PASTORS UNITED FOR EDUCATION | $1.5M | 1 | 2024 |
 
-**Grants received (2018–2024):** $53.6M across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $55.6M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $53.6M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $1.6M | 5 | 2019–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $300K | 1 | 2023 |
 | BRADLEY IMPACT FUND INC | $22K | 2 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

@@ -414,7 +414,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $4.3M |
 | Grants paid out | $3.0M |
 
-**Lifetime grants out (2018–2023):** $14.3M across 519 recipients.
+**Lifetime grants out (2018–2023):** $14.3M across 515 recipients.
 
 **Top 20 recipients:**
 
@@ -424,6 +424,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FRIENDS OF KAREN INC | $260K | 5 | 2019–2023 |
 | THE FOODBANK OF MONMOUTH &amp; OCEAN CO | $210K | 4 | 2019–2021 |
 | MOUNT KISCO CHILD CARE CENTER | $200K | 4 | 2018–2022 |
+| FREEDOM HOUSE | $170K | 3 | 2019–2023 |
 | CENTER FOR SAFETY &amp; CHANGE | $150K | 3 | 2018–2020 |
 | CHILDREN'S HEALTH FUND | $150K | 3 | 2019–2021 |
 | RIVERKEEPER INC | $150K | 3 | 2020–2023 |
@@ -439,15 +440,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | VOGEL ALCOVE | $110K | 5 | 2018–2023 |
 | CREATE YOUR DREAMS | $105K | 3 | 2018–2021 |
 | OPERATION HEALING FORCES INC | $102K | 4 | 2018–2023 |
-| OUR FRIENDS PLACE | $100K | 5 | 2018–2023 |
 
-**Grants received (2018–2023):** $165K across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2023):** $259K across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $165K | 5 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $67K | 4 | 2018–2021 |
+| NATIONAL PHILANTHROPIC TRUST | $28K | 2 | 2022–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -329,7 +329,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $84.5M |
 | Grants paid out | $4.1M |
 
-**Lifetime grants out (2018–2024):** $44.0M across 54 recipients.
+**Lifetime grants out (2018–2024):** $44.0M across 52 recipients.
 
 **Top 20 recipients:**
 
@@ -340,30 +340,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | CENTER ON BUDGET AND POLICY PRIORITIES | $2.5M | 4 | 2018–2022 |
 | CENTER FOR LAW AND SOCIAL POLICY | $2.5M | 4 | 2018–2022 |
 | GEORGETOWN UNIVERSITY LAW CENTER | $1.2M | 2 | 2019–2020 |
+| THE PARTNERSHIP PROJECT INC | $850K | 3 | 2022–2024 |
 | GEORGETOWN CENTER ON POVERTY AND INEQUALITY | $614K | 1 | 2022 |
 | GEORGETOWN UNIVERSITY LAW | $614K | 1 | 2018 |
 | CENTER FOR HEALTH ENERGY AND DEMOCRACY | $603K | 1 | 2020 |
-| THE PARTNERSHIP PROJECT INC | $600K | 2 | 2022–2023 |
+| CENTER FOR EARTH ENERGY &amp; DEMOCRACY | $434K | 3 | 2018–2023 |
 | NATIONAL EMPLOYMENT LAW PROJECT | $340K | 2 | 2018–2020 |
-| Center for Earth Energy and Democracy | $284K | 2 | 2018–2023 |
-| The Partnership Project | $250K | 1 | 2024 |
 | Center for Earth Energy and Democ | $241K | 1 | 2024 |
 | COMMUNITY LEGAL SERVICES | $220K | 2 | 2018–2020 |
-| CENTER FOR EARTH ENERGY &amp; DEMOCRACY | $150K | 1 | 2022 |
 | WEST HARLEM ENVIRONMENTAL ACTION (WE ACT) | $110K | 1 | 2022 |
 | HOPEWELL FUND | $108K | 2 | 2019–2020 |
 | SAFE AND JUST MICHIGAN | $85K | 2 | 2018–2019 |
 | ACTION CENTER ON RACE AND THE ECONOMY AMERICANS FOR FINANCIAL REFORM | $75K | 1 | 2020 |
 | COLORADO CENTER ON LAW AND POLICY | $65K | 2 | 2018–2020 |
+| ARIZONA STATE UNIVERSITY | $63K | 1 | 2020 |
+| LEAGUE OF CONSERVATION VOTERS | $60K | 1 | 2019 |
 
-**Grants received (2018–2024):** $44.9M across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $50.9M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $4.8M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $4.1M | 5 | 2018–2024 |
+| SCHWAB CHARITABLE FUND | $1.2M | 6 | 2018–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

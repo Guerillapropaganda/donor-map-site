@@ -321,16 +321,42 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
 
-**Grants received (2018–2023):** $11.3M across 4 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $21.2M |
+| Total expenses | — |
+| Total assets (EOY) | $48.6M |
+| Grants paid out | $124K |
+
+**Lifetime grants out (2018–2024):** $5.9M across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| AMALGAMATED CHARITABLE FOUNDATION INC | $5.3M | 2 | 2021–2022 |
+| THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK | $575K | 7 | 2018–2024 |
+| RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK | $48K | 1 | 2020 |
+| RESEARCH FOUNDATION OF CITY UNIVERSITY OF NEW YORK | $28K | 1 | 2021 |
+| UNIVERSITY OF MASSACHUSETTS | $21K | 1 | 2020 |
+| PACE UNIVERSITY | $8K | 1 | 2024 |
+| THE TRUSTEES OF PRINCETON UNIVERSITY | $6K | 1 | 2024 |
+
+**Grants received (2018–2024):** $12.3M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $11.0M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $887K | 7 | 2018–2024 |
 | NEW VENTURE FUND | $313K | 3 | 2018–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $16K | 1 | 2019 |
 | SIXTEEN THIRTY FUND | $12K | 1 | 2018 |
 | CALIFORNIA NURSES ASSOCIATION | $10K | 1 | 2021 |
 

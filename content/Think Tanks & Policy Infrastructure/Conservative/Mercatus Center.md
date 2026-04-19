@@ -487,15 +487,54 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2018–2024)
 
-**Grants received (2018–2024):** $9.4M across 4 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $37.3M |
+| Total expenses | — |
+| Total assets (EOY) | $36.8M |
+| Grants paid out | $3.5M |
+
+**Lifetime grants out (2018–2024):** $54.7M across 219 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| University of Washington Seattle | $5.8M | 3 | 2020–2022 |
+| University of California Berkeley | $3.8M | 4 | 2020–2023 |
+| University of California San Francisco | $2.9M | 3 | 2020–2022 |
+| Stanford University | $2.8M | 2 | 2020–2021 |
+| Yale University | $2.8M | 3 | 2020–2022 |
+| Kyiv School of Economics | $2.2M | 3 | 2022–2024 |
+| George Mason University | $2.1M | 5 | 2018–2024 |
+| Boston Children's Hospital | $1.6M | 2 | 2020–2021 |
+| Icahn School of Medicine at Mount Sinai | $1.3M | 2 | 2020–2021 |
+| Washington University in St Louis | $1.2M | 2 | 2020–2021 |
+| Emory University | $1.2M | 2 | 2020–2021 |
+| Cornell University | $1.1M | 4 | 2020–2024 |
+| Essential Impact Inc | $1.0M | 1 | 2023 |
+| Rockefeller University | $990K | 2 | 2020–2021 |
+| The Scripps Research Institute | $975K | 2 | 2020–2021 |
+| Tulane University | $850K | 2 | 2020–2021 |
+| George Mason University Foundation | $814K | 7 | 2018–2024 |
+| University of California Berkeley Foundation | $800K | 2 | 2020–2021 |
+| California Institute of Technology | $750K | 3 | 2020–2022 |
+| Columbia University in the City of New York | $725K | 2 | 2020–2021 |
+
+**Grants received (2018–2024):** $17.9M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $8.4M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $5.1M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $3.5M | 4 | 2019–2023 |
 | The 85 Fund | $750K | 1 | 2020 |
 | Donors Capital Fund Inc | $250K | 2 | 2020 |
 | PHARMACEUTICAL RESEARCH AND MANUFACTURERS | $50K | 2 | 2023–2024 |

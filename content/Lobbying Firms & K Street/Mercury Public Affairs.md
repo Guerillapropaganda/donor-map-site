@@ -313,3 +313,23 @@ The Peter Kucik hire is the purest expression of this logic. OFAC sanctions crea
 Sources below were broken, redirected, or bot-blocked as of their last fingerprint check. Preserved here for audit trail. Not used as active citations.
 
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Mercury%20Public%20Affairs%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 2 (2021–2022)
+
+**Most recent filing (2022):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | $180K |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | — |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

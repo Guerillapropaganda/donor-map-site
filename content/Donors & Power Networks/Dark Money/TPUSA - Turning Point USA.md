@@ -212,15 +212,17 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | DAILY CALLER NEWS FOUNDATION | $8K | 1 | 2022 |
 | VINDEX MEDIA | $8K | 1 | 2023 |
 
-**Grants received (2018–2024):** $35.0M across 3 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $48.7M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | BRADLEY IMPACT FUND INC | $26.6M | 5 | 2018–2024 |
+| SCHWAB CHARITABLE FUND | $10.9M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $5.1M | 6 | 2018–2023 |
 | The 85 Fund | $3.3M | 2 | 2020–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $2.8M | 5 | 2019–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

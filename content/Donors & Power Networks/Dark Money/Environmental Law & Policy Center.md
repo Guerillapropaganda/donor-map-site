@@ -292,12 +292,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Little Village Environmental Justice Organization | $8K | 1 | 2021 |
 | Heaven's View Community Development Corp | $7K | 1 | 2021 |
 
-**Grants received (2018–2024):** $280K across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $548K across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $268K | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $260K | 6 | 2018–2023 |
 | NEW VENTURE FUND | $20K | 2 | 2022–2024 |
 

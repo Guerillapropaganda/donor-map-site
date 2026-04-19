@@ -341,3 +341,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/387169824/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:K%26L%20Gates,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME,P200_COUNTRY:K%26L%20Gates,)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 5 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $75K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

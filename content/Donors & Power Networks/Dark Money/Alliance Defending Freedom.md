@@ -263,14 +263,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | James Hochberg AAL | $87K | 3 | 2018–2020 |
 | Pennsylvania Family Institute | $82K | 2 | 2018–2019 |
 
-**Grants received (2018–2024):** $13.2M across 3 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $24.1M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $8.5M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $8.0M | 6 | 2018–2023 |
 | BRADLEY IMPACT FUND INC | $5.0M | 4 | 2022–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $2.5M | 6 | 2018–2023 |
 | THE HERITAGE FOUNDATION | $100K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

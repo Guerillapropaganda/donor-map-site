@@ -443,32 +443,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $349.0M |
 | Grants paid out | $41.4M |
 
-**Lifetime grants out (2018–2024):** $268.4M across 1,363 recipients.
+**Lifetime grants out (2018–2024):** $268.4M across 1,344 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
 | RX Abuse Leadership Initiative | $56.0M | 4 | 2018–2022 |
+| American Action Network Inc | $28.5M | 6 | 2018–2024 |
 | WE Work For Health | $26.8M | 3 | 2022–2024 |
-| American Action Network Inc | $21.0M | 5 | 2018–2024 |
 | ADDICTION POLICY FORUM | $14.2M | 2 | 2018–2019 |
 | Yale University | $10.0M | 5 | 2018–2024 |
 | Center Forward | $8.8M | 5 | 2018–2023 |
-| American Action Network | $7.5M | 1 | 2022 |
 | Healthcare Leadership Council | $4.2M | 6 | 2018–2024 |
 | Republican Governors Association | $2.3M | 6 | 2018–2024 |
 | Healthy Nevada PAC | $2.1M | 6 | 2018–2024 |
 | ORRIN G HATCH FOUNDATION | $2.1M | 2 | 2018–2019 |
 | Republican State Leadership Committee | $2.0M | 5 | 2019–2024 |
+| Lupus Foundation of America | $1.9M | 10 | 2018–2024 |
 | National Consumers League Inc | $1.8M | 4 | 2020–2024 |
 | AIDS Institute Inc | $1.5M | 6 | 2018–2024 |
+| Partnership for Americas Health Care Future | $1.5M | 5 | 2019–2024 |
 | PHRMA INDEPENDENT EXPENDITURE COMMITTEE | $1.5M | 2 | 2023–2024 |
 | American Lung Association | $1.5M | 6 | 2018–2024 |
 | Council for Affordable Health Coverage | $1.4M | 4 | 2020–2024 |
 | American Action Forum | $1.3M | 6 | 2018–2024 |
 | National Health Council | $1.3M | 4 | 2020–2024 |
-| Biotechnology Innovation Organization | $1.3M | 4 | 2018–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

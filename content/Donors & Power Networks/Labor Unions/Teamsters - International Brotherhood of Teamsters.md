@@ -293,7 +293,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $14.0M |
 | Grants paid out | $538K |
 
-**Lifetime grants out (2018–2024):** $988K across 25 recipients.
+**Lifetime grants out (2018–2024):** $988K across 24 recipients.
 
 **Top 20 recipients:**
 
@@ -309,16 +309,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Teamsters Local 25 Autism Fund | $25K | 1 | 2023 |
 | San Francisco Labor Council | $24K | 3 | 2019–2024 |
 | TEAMSTERS LOCAL 853 POLITICAL ACTION COMMITTEE | $20K | 3 | 2018–2020 |
+| JAMES R HOFFA MEMORIAL SCHOLARSHIP FUND INC | $20K | 2 | 2019–2022 |
 | The Davis Street Community Center Inc | $15K | 1 | 2022 |
 | SAN FRANCISCO BLDG CNST TRADES COUNCIL | $11K | 1 | 2024 |
-| JAMES R HOFFA MEMORIAL SCHOLARSHIP FUND INC | $10K | 1 | 2022 |
 | Working Families Organization | $10K | 1 | 2023 |
 | TEAMSTERS LOCAL 431 | $10K | 1 | 2018 |
 | TEAMSTERS LOCAL 117 | $10K | 1 | 2019 |
-| JAMES R HOFFA MEMORIAL SCHOLARSHIP FUND | $10K | 1 | 2019 |
 | San Francisco Transit Riders | $8K | 1 | 2022 |
 | ALAMEDA COUNTY BLDG &amp; CNST TRADES COUNCIL | $8K | 1 | 2023 |
 | ALAMEDA COUNTY BLDG CNST TRADES COUNCIL | $7K | 1 | 2024 |
+| TEAMSTERS LOCAL 986 CHARITY FUND INC | $7K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

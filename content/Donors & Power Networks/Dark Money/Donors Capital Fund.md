@@ -327,5 +327,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | National Legal &amp; Policy Center | $40K | 1 | 2020 |
 | Washington Legal Foundation | $40K | 1 | 2020 |
 
+**Grants received (2024):** $8K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| DONOR ADVISED CHARITABLE GIVING INC | $8K | 1 | 2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

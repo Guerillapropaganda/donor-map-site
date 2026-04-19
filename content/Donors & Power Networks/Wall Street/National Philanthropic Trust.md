@@ -1,14 +1,15 @@
 ---
-title: "National Philanthropic Trust"
+title: National Philanthropic Trust
 type: donor
 content-readiness: raw
-last-updated: 2026-04-18
-sector: "Wall Street"
-entity-type: "Donor-Advised Fund"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Wall Street
+entity-type: Donor-Advised Fund
 ein: "237825575"
-nonprofit-status: "501(c)(3)"
+nonprofit-status: 501(c)(3)
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 to close 990 coverage gap. National Philanthropic Trust is one of the largest independent donor-advised funds in the US, often used as a pass-through vehicle for anonymous giving. Narrative pending Research Claude editorial pass."
+internal-notes: Stub profile auto-created 2026-04-18 to close 990 coverage gap. National Philanthropic Trust is one of the largest independent donor-advised funds in the US, often used as a pass-through vehicle for anonymous giving. Narrative pending Research Claude editorial pass.
+politicians-funded: "[[The 85 Fund]], [[Fidelity Investments]], [[Brennan Center for Justice]], [[Kenneth Griffin]], [[Council on Foreign Relations]], [[Hudson Institute]], [[Center for American Progress]], [[Mercatus Center]], [[Conservative Partnership Institute]], [[TPUSA - Turning Point USA]], [[Heritage Foundation]], [[US Chamber of Commerce]], [[Urban Institute]], [[New Venture Fund]], [[Bipartisan Policy Center]], [[American Enterprise Institute]], [[Schwab Charitable Fund]], [[Ocean Conservancy]], [[Alliance Defending Freedom]], [[Cato Institute]], [[International Association of Chiefs of Police]], [[State Policy Network]], [[National Philanthropic Trust]], [[America First Policy Institute]], [[Airbnb]], [[Bradley Impact Fund]]"
 ---
 
 # National Philanthropic Trust
@@ -32,16 +33,55 @@ internal-notes: "Stub profile auto-created 2026-04-18 to close 990 coverage gap.
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 9 (2018–2023)
 
-**Grants received (2018–2024):** $1.09B across 2 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $9.21B |
+| Total expenses | — |
+| Total assets (EOY) | $28.24B |
+| Grants paid out | $4.09B |
+
+**Lifetime grants out (2018–2023):** $19.83B across 31,031 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| SILICON VALLEY COMMUNITY FOUNDATION | $1.17B | 6 | 2018–2023 |
+| LUCAS MUSEUM OF NARRATIVE ART | $485.0M | 3 | 2021–2023 |
+| JOHNS HOPKINS UNIVERSITY | $440.0M | 6 | 2018–2023 |
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $390.8M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $332.0M | 6 | 2018–2023 |
+| NEW VENTURE FUND | $250.7M | 6 | 2018–2023 |
+| GREATER HORIZONS | $164.1M | 3 | 2018–2023 |
+| GOLDMAN SACHS PHILANTHROPY FUND | $132.4M | 5 | 2018–2023 |
+| XQ INSTITUTE | $124.1M | 2 | 2022–2023 |
+| PRESIDENT AND FELLOWS OF HARVARD COLLEGE | $119.3M | 6 | 2018–2023 |
+| JEWISH COMMUNAL FUND | $110.2M | 6 | 2018–2023 |
+| MORGAN STANLEY GLOBAL IMPACT FUNDING TRUST | $109.7M | 8 | 2018–2023 |
+| RENAISSANCE CHARITABLE FOUNDATION INC | $109.4M | 6 | 2018–2023 |
+| STAND TOGETHER FOUNDATION | $106.0M | 4 | 2020–2023 |
+| ROCKEFELLER PHILANTHROPY ADVISORS | $103.7M | 5 | 2019–2023 |
+| JEREMY AND HANNELORE GRANTHAM ENVIRONMENTAL TRUST | $102.1M | 4 | 2020–2023 |
+| BLUE MERIDIAN PARTNERS INC | $96.7M | 2 | 2018–2022 |
+| VITAL STRATEGIES | $84.9M | 4 | 2019–2023 |
+| THE SEMINAR NETWORK INC | $73.8M | 3 | 2019–2022 |
+| LUCILE PACKARD FOUNDATION FOR CHILDREN'S HEALTH | $73.1M | 6 | 2018–2023 |
+
+**Grants received (2018–2024):** $1.72B across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.07B | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $631.9M | 7 | 2018–2024 |
 | FUTURE FORWARD USA ACTION | $16.8M | 1 | 2024 |
+| NATIONAL PHILANTHROPIC TRUST | $2.1M | 4 | 2018–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -417,5 +417,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | EPISLS INC | $15K | 1 | 2023 |
 | KEEP GROWING DETROIT | $10K | 1 | 2022 |
 
+**Grants received (2022):** $500K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $500K | 1 | 2022 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

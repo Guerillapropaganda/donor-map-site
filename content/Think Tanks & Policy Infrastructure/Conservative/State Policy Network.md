@@ -277,20 +277,60 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2018–2024)
 
-**Grants received (2018–2024):** $1.4M across 6 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $23.8M |
+| Total expenses | — |
+| Total assets (EOY) | $24.6M |
+| Grants paid out | $3.2M |
+
+**Lifetime grants out (2018–2024):** $26.6M across 100 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| GEORGIA CENTER FOR OPPORTUNITY | $1.4M | 8 | 2018–2024 |
+| BEACON CENTER OF TENNESSEE | $1.4M | 10 | 2018–2024 |
+| PEOPLE UNITED FOR PRIVACY FOUNDATION | $1.4M | 5 | 2019–2022 |
+| CARDINAL INSTITUTE FOR WEST VIRGINIA POLICY | $1.0M | 8 | 2018–2024 |
+| PELICAN INSTITUTE FOR PUBLIC POLICY | $925K | 6 | 2018–2024 |
+| INSTITUTE FOR REFORMING GOVERNMENT | $913K | 5 | 2021–2024 |
+| SOUTH CAROLINA POLICY COUNCIL | $791K | 3 | 2022–2024 |
+| INDEPENDENCE INSTITUTE | $777K | 6 | 2018–2024 |
+| GEORGIA PUBLIC POLICY FOUNDATION | $730K | 7 | 2019–2024 |
+| COMMONWEALTH FOUNDATION | $715K | 7 | 2019–2024 |
+| LIBERTAS INSTITUTE | $713K | 5 | 2020–2024 |
+| OKLAHOMA COUNCIL OF PUBLIC AFFAIRS | $708K | 7 | 2018–2024 |
+| EMPIRE CENTER FOR PUBLIC POLICY | $695K | 6 | 2018–2024 |
+| CALIFORNIA POLICY CENTER | $671K | 5 | 2019–2023 |
+| MACKINAC CENTER FOR PUBLIC POLICY | $655K | 7 | 2018–2024 |
+| ILLINOIS POLICY INSTITUTE | $641K | 8 | 2019–2024 |
+| THE BUCKEYE INSTITUTE | $640K | 6 | 2021–2024 |
+| EMPOWER MISSISSIPPI FOUNDATION | $636K | 4 | 2021–2024 |
+| OPPORTUNITY ARKANSAS | $477K | 3 | 2022–2024 |
+| ALASKA POLICY FORUM | $475K | 5 | 2019–2023 |
+
+**Grants received (2018–2024):** $2.3M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $438K | 5 | 2019–2023 |
+| SCHWAB CHARITABLE FUND | $433K | 7 | 2018–2024 |
 | BRADLEY IMPACT FUND INC | $153K | 4 | 2018–2024 |
 | Donors Capital Fund Inc | $50K | 1 | 2020 |
 | THE 85 FUND | $50K | 1 | 2022 |
 | AMERICAN FUEL AND PETROCHEMICAL | $40K | 3 | 2019–2023 |
 | AMERICAN ENTERPRISE INSTITUTE FOR PUBLIC | $20K | 1 | 2023 |
+| Mercatus Center Inc | $8K | 1 | 2018 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

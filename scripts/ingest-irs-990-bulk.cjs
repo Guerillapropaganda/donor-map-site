@@ -47,6 +47,17 @@ const GRANTS_OUT = 'C:\\donor-map-data\\fec\\nonprofit-grants.jsonl';
 
 const args = process.argv.slice(2);
 const RESUME = args.includes('--resume');
+const FORCE = args.includes('--force');
+// --eins E1,E2,...  — restrict the scan to a specific EIN subset (e.g. for
+// backfilling after a stub profile adds a new EIN post-initial-ingest).
+// When combined with --force, bypasses the checkpoint skip logic so all
+// zips get re-scanned against the narrow EIN filter. Appends to existing
+// output files — never truncates. Duplicates are deduped by the
+// dedup-nonprofit-990.cjs post-processor.
+const einsFlagIdx = args.indexOf('--eins');
+const EIN_FILTER = einsFlagIdx !== -1
+  ? new Set(args[einsFlagIdx + 1].split(',').map(s => s.trim().replace(/\D/g, '')).filter(s => s.length === 9))
+  : null;
 
 // ─── Load EINs of interest ──────────────────────────────────
 function loadEinsOfInterest() {
@@ -106,10 +117,31 @@ function parse990(xml, einMeta) {
   const taxYear = taxPeriodEnd ? parseInt(taxPeriodEnd.slice(0, 4), 10) : null;
   const returnType = extractTag(xml, 'ReturnTypeCd') || extractTag(xml, 'ReturnType') || null;
 
-  const totalRevenue = parseFloat(extractTag(xml, 'TotalRevenueAmt') || extractTag(xml, 'TotalRevenue') || '0') || 0;
-  const totalExpenses = parseFloat(extractTag(xml, 'TotalFunctionalExpensesAmt') || extractTag(xml, 'TotalExpenses') || '0') || 0;
-  const totalAssets = parseFloat(extractTag(xml, 'TotalAssetsEOYAmt') || extractTag(xml, 'TotalAssetsEOY') || '0') || 0;
-  const contribRevenue = parseFloat(extractTag(xml, 'TotalContributionsAmt') || extractTag(xml, 'TotalContributions') || '0') || 0;
+  // Tag names vary between Form 990 (c3/c4) and Form 990-PF (private
+  // foundations). 990 uses TotalRevenueAmt / TotalFunctionalExpensesAmt /
+  // TotalAssetsEOYAmt. 990-PF uses TotalRevAndExpnssAmt /
+  // TotalExpensesRevAndExpnssAmt / FMVAssetsEOYAmt. Fall through the
+  // variants so both form types populate the same output fields.
+  const totalRevenue = parseFloat(
+    extractTag(xml, 'TotalRevenueAmt') ||
+    extractTag(xml, 'TotalRevenue') ||
+    extractTag(xml, 'TotalRevAndExpnssAmt') || '0'
+  ) || 0;
+  const totalExpenses = parseFloat(
+    extractTag(xml, 'TotalFunctionalExpensesAmt') ||
+    extractTag(xml, 'TotalExpenses') ||
+    extractTag(xml, 'TotalExpensesRevAndExpnssAmt') || '0'
+  ) || 0;
+  const totalAssets = parseFloat(
+    extractTag(xml, 'TotalAssetsEOYAmt') ||
+    extractTag(xml, 'TotalAssetsEOY') ||
+    extractTag(xml, 'FMVAssetsEOYAmt') || '0'
+  ) || 0;
+  const contribRevenue = parseFloat(
+    extractTag(xml, 'TotalContributionsAmt') ||
+    extractTag(xml, 'TotalContributions') ||
+    extractTag(xml, 'ContriRcvdRevAndExpnssAmt') || '0'
+  ) || 0;
 
   // Schedule I (grants to other orgs). The 990 schedule's recipient entries.
   const grants = [];
@@ -184,10 +216,31 @@ function appendLine(file, obj) {
 (async function main() {
   ensureDerivedDirs();
   const t0 = Date.now();
-  const { eins, byEin } = loadEinsOfInterest();
-  console.log(`[ingest-irs-990-bulk] ${RESUME ? 'RESUME' : 'FRESH'}. ${eins.size} EINs of interest.`);
+  let { eins, byEin } = loadEinsOfInterest();
 
-  if (!RESUME) {
+  // Narrow to the --eins subset if flag was passed
+  if (EIN_FILTER) {
+    const narrowEins = new Set();
+    const narrowByEin = new Map();
+    for (const e of EIN_FILTER) {
+      if (byEin.has(e)) {
+        narrowEins.add(e);
+        narrowByEin.set(e, byEin.get(e));
+      }
+    }
+    eins = narrowEins;
+    byEin = narrowByEin;
+    console.log(`[ingest-irs-990-bulk] --eins filter active: ${EIN_FILTER.size} requested, ${eins.size} matched in entities.jsonl`);
+    if (eins.size === 0) {
+      console.log('[ingest-irs-990-bulk] Nothing to do — none of the requested EINs are in entities.jsonl.');
+      return;
+    }
+  }
+
+  const mode = EIN_FILTER ? 'EIN-SUBSET' : (RESUME ? 'RESUME' : 'FRESH');
+  console.log(`[ingest-irs-990-bulk] ${mode}. ${eins.size} EINs of interest.`);
+
+  if (!RESUME && !EIN_FILTER) {
     if (fs.existsSync(FILINGS_OUT)) fs.rmSync(FILINGS_OUT);
     if (fs.existsSync(GRANTS_OUT)) fs.rmSync(GRANTS_OUT);
     const cp = path.join(DERIVED_ROOT, '.checkpoints', `${PIPELINE}.json`);
@@ -197,7 +250,10 @@ function appendLine(file, obj) {
 
   const zips = listZips();
   const completed = new Set(loadCheckpoint(PIPELINE).completed);
-  const pending = zips.filter(z => !completed.has(z));
+  // With --force (typically used with --eins), rescan all zips even though
+  // they're marked complete. Don't update checkpoint so subsequent RESUME
+  // runs still treat them as done for the original EIN set.
+  const pending = (FORCE || EIN_FILTER) ? zips.slice() : zips.filter(z => !completed.has(z));
   console.log(`  zips: total=${zips.length} completed=${completed.size} pending=${pending.length}`);
 
   let totalFilings = 0, totalGrants = 0;
@@ -212,7 +268,7 @@ function appendLine(file, obj) {
     // Reads each entry as a stream without extracting to disk.
     try {
       const stats = await processZipWithYauzl(zipPath, eins, byEin);
-      markComplete(PIPELINE, zip);
+      if (!EIN_FILTER) markComplete(PIPELINE, zip);
       totalFilings += stats.matched;
       totalGrants += stats.grantsInZip;
       console.log(`scanned=${stats.scanned} matched=${stats.matched} grants=${stats.grantsInZip} in ${((Date.now() - zt0) / 1000).toFixed(1)}s`);

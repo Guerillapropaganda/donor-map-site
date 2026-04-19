@@ -298,12 +298,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $83K |
 | Grants paid out | — |
 
-**Grants received (2020–2023):** $380K across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2020–2024):** $886K across 2 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $506K | 5 | 2020–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $380K | 4 | 2020–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

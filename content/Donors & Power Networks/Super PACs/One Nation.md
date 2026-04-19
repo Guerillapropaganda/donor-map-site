@@ -239,12 +239,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | CROSSROADS GRASSROOTS POLICY STRATEGIES | $990K | 2 | 2019–2020 |
 | SUSAN B ANTHONY LIST | $100K | 1 | 2019 |
 
-**Grants received (2018–2023):** $1.2M across 3 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2023):** $13.8M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| The Concord Fund | $12.6M | 3 | 2019–2022 |
 | AMERICAN PETROLEUM INSTITUTE | $1.1M | 3 | 2018–2019 |
 | BLUE CROSS BLUE SHIELD ASSOCIATION | $100K | 1 | 2023 |
 | THE REAL ESTATE ROUNDTABLE INC | $50K | 1 | 2020 |

@@ -414,7 +414,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $1.2M |
 | Grants paid out | $3.2M |
 
-**Lifetime grants out (2020–2024):** $9.8M across 223 recipients.
+**Lifetime grants out (2020–2024):** $9.8M across 205 recipients.
 
 **Top 20 recipients:**
 
@@ -422,24 +422,32 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | Astros Foundation | $500K | 2 | 2022–2023 |
 | Houston Police Foundation | $377K | 4 | 2022–2024 |
-| Kids Meals | $204K | 3 | 2020–2022 |
+| Kids Meals | $312K | 5 | 2020–2024 |
+| Medical Bridges | $185K | 5 | 2020–2024 |
 | Coastal Prairie Conservancy | $179K | 4 | 2022–2024 |
+| Inspiration Ranch | $162K | 4 | 2022–2024 |
 | Combined Arms | $159K | 4 | 2022–2024 |
 | High Sky CHildrens Ranch | $156K | 4 | 2022–2024 |
+| Be An Angel Fund | $155K | 4 | 2022–2024 |
 | Undies for Everyone | $155K | 4 | 2022–2024 |
 | The Council on Recovery | $154K | 4 | 2022–2024 |
 | Safe Kids Worldwide | $153K | 4 | 2022–2024 |
 | Trees for Houston | $152K | 4 | 2022–2024 |
 | The Montrose Center | $152K | 4 | 2022–2024 |
 | Houston Food Bank | $150K | 4 | 2020–2024 |
-| Medical Bridges | $129K | 4 | 2020–2023 |
+| HOUSTON AREA WOMENS CENTER | $128K | 2 | 2023–2024 |
 | Brighter Bites | $127K | 3 | 2022–2024 |
+| Hunt with Heart | $126K | 3 | 2022–2024 |
 | Buckner | $115K | 3 | 2022–2023 |
-| KIDS MEALS INC | $108K | 2 | 2023–2024 |
 | The Village Centers | $106K | 3 | 2022–2023 |
-| RONALD MCDONALD HOUSE OF HOUSTON INC | $104K | 2 | 2023–2024 |
-| GIRLS INCORPORATED OF GREATER HOUSTON | $104K | 2 | 2023–2024 |
-| RECIPE FOR SUCCESS FOUNDATION | $103K | 2 | 2023–2024 |
+
+**Grants received (2021):** $35K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $35K | 1 | 2021 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

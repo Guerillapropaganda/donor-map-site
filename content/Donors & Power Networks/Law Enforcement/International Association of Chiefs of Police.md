@@ -209,24 +209,25 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
-**Lifetime grants out (2018–2024):** $65K across 4 recipients.
+**Lifetime grants out (2018–2024):** $65K across 3 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
 | THE COMMUNITY FOUNDATION OF MIDDLE TENNESSEE INC | $25K | 1 | 2023 |
+| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND INC | $20K | 2 | 2018–2023 |
 | RESEARCH FOUNDATION OF CUNY | $20K | 1 | 2019 |
-| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND INC | $10K | 1 | 2023 |
-| NATIONAL LAW ENFORCEMENT OFFICERS MEMORIAL FUND | $10K | 1 | 2018 |
 
-**Grants received (2018–2019):** $650K across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2022):** $7.9M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $7.0M | 1 | 2022 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $650K | 2 | 2018–2019 |
+| SCHWAB CHARITABLE FUND | $250K | 1 | 2019 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

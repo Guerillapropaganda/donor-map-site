@@ -1,14 +1,15 @@
 ---
-title: "Rule of Law Trust"
+title: Rule of Law Trust
 type: donor
 content-readiness: raw
-last-updated: 2026-04-18
-sector: "Dark Money"
-entity-type: "501(c)(4)"
+last-updated: 2026-04-18T00:00:00.000Z
+sector: Dark Money
+entity-type: 501(c)(4)
 ein: "831047727"
-nonprofit-status: "501(c)(4)"
+nonprofit-status: 501(c)(4)
 source-tier: 1
-internal-notes: "Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. Received $153M from Marble Freedom Trust in 2021. EIN verified against IRS 990 bulk recipient records."
+internal-notes: Stub profile auto-created 2026-04-18 to close 990-edge coverage gap. Narrative (Who They Are, Class Analysis, etc.) to be written by Research Claude. Received $153M from Marble Freedom Trust in 2021. EIN verified against IRS 990 bulk recipient records.
+politicians-funded: "[[Schwab Charitable Fund]], [[The Concord Fund]], [[Fidelity Investments]]"
 ---
 
 # Rule of Law Trust
@@ -32,7 +33,31 @@ internal-notes: "Stub profile auto-created 2026-04-18 to close 990-edge coverage
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 4 (2020–2024)
+
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | — |
+| Total expenses | — |
+| Total assets (EOY) | $174.0M |
+| Grants paid out | $15.2M |
+
+**Lifetime grants out (2020–2024):** $88.4M across 7 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| Schwab Charitable Fund | $43.8M | 3 | 2022–2024 |
+| Judicial Crisis Network | $21.5M | 1 | 2020 |
+| Fidelity Charitable | $9.0M | 1 | 2020 |
+| Knights of Columbus Charitable Fund | $8.1M | 3 | 2022–2024 |
+| Donors Trust Inc | $5.8M | 1 | 2020 |
+| Right Vote Inc | $236K | 1 | 2023 |
+| Chicago Freedom Trust | $50K | 1 | 2023 |
 
 **Grants received (2021):** $153.0M across 1 grantors (from other vault orgs' Schedule I records).
 

@@ -250,12 +250,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ROCKLIN ACADEMY | $142K | 3 | 2018–2023 |
 | VOICES COLLGE-BOUND LANGUAGE ACADEMY | $140K | 1 | 2021 |
 
-**Grants received (2018–2023):** $540K across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2023):** $13.4M across 2 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $12.9M | 4 | 2018–2021 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $540K | 5 | 2018–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

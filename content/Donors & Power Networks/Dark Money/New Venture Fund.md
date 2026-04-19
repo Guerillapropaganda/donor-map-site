@@ -295,7 +295,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $624.9M |
 | Grants paid out | $359.6M |
 
-**Lifetime grants out (2018–2024):** $1.96B across 2,935 recipients.
+**Lifetime grants out (2018–2024):** $1.96B across 2,920 recipients.
 
 **Top 20 recipients:**
 
@@ -322,13 +322,15 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ACCOUNTABLEUS | $9.9M | 4 | 2019–2023 |
 | NATURE AND CULTURE INTERNATIONAL | $9.9M | 6 | 2018–2024 |
 
-**Grants received (2018–2024):** $509.8M across 4 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $791.4M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $497.9M | 6 | 2018–2023 |
+| NATIONAL PHILANTHROPIC TRUST | $250.7M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $30.9M | 7 | 2018–2024 |
 | SIXTEEN THIRTY FUND | $10.2M | 5 | 2018–2023 |
 | FUTURE FORWARD USA ACTION | $1.6M | 1 | 2024 |
 | CENTER FOR AMERICAN PROGRESS | $25K | 1 | 2018 |

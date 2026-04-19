@@ -134,3 +134,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 - ~~[Full 990 Filing (PDF)](https://projects.propublica.org/nonprofits/download-filing?path=download990pdf_02_2024_prefixes_84-93%2F852619691_202303_990_2024022022297382.pdf)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Wikipedia: InfluenceMap](https://en.wikipedia.org/wiki/InfluenceMap)~~ (was Tier 4 - URL broken, archived by Ops) (Tier 4)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+**Filings available:** 4 (2021–2025)
+
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $1.1M |
+| Total expenses | — |
+| Total assets (EOY) | $114K |
+| Grants paid out | — |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

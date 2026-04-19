@@ -589,7 +589,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $62.5M |
 | Grants paid out | $1.9M |
 
-**Lifetime grants out (2018–2024):** $24.0M across 277 recipients.
+**Lifetime grants out (2018–2024):** $24.0M across 276 recipients.
 
 **Top 20 recipients:**
 
@@ -616,13 +616,15 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | TEMPE CHAMBER OF COMMERCE FOUNDATION | $95K | 1 | 2018 |
 | WAKE FOREST CHAMBER FOUNDATION FOR COMMON PROGRESS | $95K | 1 | 2018 |
 
-**Grants received (2018–2023):** $520K across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $1.8M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $1.1M | 4 | 2018–2022 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $490K | 4 | 2018–2022 |
+| SCHWAB CHARITABLE FUND | $200K | 3 | 2020–2024 |
 | AMERICAN PETROLEUM INSTITUTE | $30K | 2 | 2022–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

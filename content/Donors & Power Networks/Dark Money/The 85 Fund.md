@@ -206,7 +206,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $3.9M |
 | Grants paid out | $101.4M |
 
-**Lifetime grants out (2020–2023):** $239.7M across 86 recipients.
+**Lifetime grants out (2020–2023):** $239.7M across 85 recipients.
 
 **Top 20 recipients:**
 
@@ -214,8 +214,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | Donors Trust | $196.5M | 3 | 2020–2023 |
 | Federalist Society | $8.7M | 3 | 2020–2023 |
+| Turning Point USA Inc | $3.3M | 2 | 2020–2023 |
 | Ethics and Public Policy Center | $3.1M | 3 | 2020–2023 |
-| Turning Point USA Inc | $2.8M | 1 | 2020 |
 | Foundation for Individual Rights in Expression Inc | $2.1M | 1 | 2022 |
 | Foundation for Government Accountability | $2.0M | 1 | 2020 |
 | Club for Growth Foundation | $1.5M | 1 | 2023 |
@@ -233,12 +233,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Freedom Foundation | $640K | 1 | 2022 |
 | Center for Law and Policy | $550K | 2 | 2022–2023 |
 
-**Grants received (2020–2021):** $10.9M across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $505.6M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $482.6M | 4 | 2021–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $12.1M | 6 | 2018–2023 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $10.9M | 2 | 2020–2021 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

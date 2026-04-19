@@ -342,19 +342,59 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
 
-**Grants received (2018–2024):** $5.6M across 6 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $33.9M |
+| Total expenses | — |
+| Total assets (EOY) | $62.8M |
+| Grants paid out | $1.8M |
+
+**Lifetime grants out (2018–2024):** $4.1M across 21 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| THE ELECTIONS GROUP LLC | $2.6M | 2 | 2023–2024 |
+| CLEARPATH INC | $250K | 1 | 2023 |
+| AMERICAN FLOOD COALITION | $175K | 1 | 2019 |
+| THIRD WAY INSTITUTE | $145K | 1 | 2020 |
+| ENERGY INNOVATION REFORM PROJECT | $100K | 1 | 2020 |
+| TRUSTEES OF PRINCETON UNIVERSITY | $93K | 1 | 2024 |
+| CLEAN AIR TASK FORCE INC | $90K | 1 | 2020 |
+| ARIZONA SMALL BUSINESS ASSOCIATION | $90K | 1 | 2022 |
+| CENTERLINE LIBERTIES INC | $90K | 1 | 2022 |
+| PORTLAND STATE UNIVERSITY FOUNDATION | $75K | 1 | 2024 |
+| AUBURN UNIVERSITY | $63K | 1 | 2024 |
+| HACKHACKERS INC | $62K | 1 | 2024 |
+| ELECTION REFORMERS NETWORK INC | $50K | 1 | 2024 |
+| RESEARCH FOUNDATION OF STATE UNIVERSITY OF NEW YORK | $49K | 1 | 2024 |
+| UNIVERSITY OF KENTUCKY RESEARCH FOUNDATION | $43K | 1 | 2024 |
+| REGENTS OF UNIVERISTY OF CALIFORNIA LOS ANGELES | $37K | 1 | 2024 |
+| CURATORS OF THE UNIVERSITY OF MISSOURI | $31K | 1 | 2024 |
+| THE URBAN INSTITUTE | $20K | 1 | 2024 |
+| NATIONAL ACADEMY OF SCIENCES | $10K | 1 | 2022 |
+| THE ELIZABETH DOLE FOUNDATION | $10K | 1 | 2022 |
+
+**Grants received (2018–2024):** $18.3M across 9 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $11.8M | 3 | 2019–2022 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.4M | 5 | 2019–2023 |
+| SCHWAB CHARITABLE FUND | $891K | 5 | 2018–2024 |
 | THE BUSINESS ROUNDTABLE INC | $425K | 2 | 2023–2024 |
 | NEW VENTURE FUND | $305K | 2 | 2022–2024 |
 | US Chamber of Commerce Foundation | $250K | 2 | 2022–2023 |
 | AMERICAN PETROLEUM INSTITUTE | $150K | 3 | 2018–2020 |
+| THIRD WAY | $100K | 1 | 2020 |
 | SIXTEEN THIRTY FUND | $10K | 1 | 2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

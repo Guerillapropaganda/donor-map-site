@@ -226,18 +226,17 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $72.3M |
 | Grants paid out | $8.4M |
 
-**Lifetime grants out (2019–2024):** $15.3M across 27 recipients.
+**Lifetime grants out (2019–2024):** $15.3M across 24 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
 | Foundation for Accountability Integrity &amp; Research in Elections Fund | $6.0M | 1 | 2024 |
-| Center for Renewing America | $1.3M | 1 | 2022 |
+| Personnel Policy Operations | $2.0M | 2 | 2023–2024 |
+| Center for Renewing America | $1.4M | 2 | 2022–2023 |
 | Personnel Policy Organization Inc | $1.1M | 1 | 2022 |
-| Personnel Policy Operations Inc | $1.1M | 1 | 2024 |
 | State Freedom Caucus Foundation | $1.0M | 2 | 2022–2023 |
-| Personnel Policy Operations | $880K | 1 | 2023 |
 | FAIR Elections Fund | $795K | 1 | 2023 |
 | Election Integrity Network Inc | $545K | 2 | 2022–2023 |
 | Virginia Institute for Public Policy | $505K | 2 | 2022–2023 |
@@ -252,15 +251,18 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | American Main Street Initiative Inc | $89K | 1 | 2022 |
 | America First Legal Foundation | $65K | 2 | 2022–2024 |
 | Capitol Hill Christian Academy | $30K | 2 | 2023–2024 |
+| Conservative Partnership Initiative | $20K | 2 | 2022–2023 |
 
-**Grants received (2019–2024):** $2.0M across 2 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $4.4M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| SCHWAB CHARITABLE FUND | $2.2M | 4 | 2021–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.0M | 5 | 2019–2023 |
 | BRADLEY IMPACT FUND INC | $1.0M | 3 | 2022–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $128K | 2 | 2018–2020 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

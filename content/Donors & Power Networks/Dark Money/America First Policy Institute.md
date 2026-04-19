@@ -203,13 +203,15 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | FOUNDATION FOR GOVERNMENT ACCOUNTABILITY | $250K | 1 | 2023 |
 | NATIONAL FAITH ADVISORY BOARD | $100K | 1 | 2023 |
 
-**Grants received (2022–2023):** $3.6M across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2022–2024):** $5.5M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $3.6M | 2 | 2022–2023 |
+| SCHWAB CHARITABLE FUND | $1.3M | 3 | 2022–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $625K | 2 | 2022–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

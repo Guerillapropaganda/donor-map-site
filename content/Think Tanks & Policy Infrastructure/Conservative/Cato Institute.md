@@ -475,15 +475,51 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 7 (2019–2025)
 
-**Grants received (2018–2024):** $42.2M across 4 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2025):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $57.4M |
+| Total expenses | — |
+| Total assets (EOY) | $190.5M |
+| Grants paid out | $227K |
+
+**Lifetime grants out (2019–2025):** $1.1M across 17 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| The Innocence Project Inc | $250K | 1 | 2022 |
+| Cuban American National Foundation | $250K | 1 | 2019 |
+| AMERICA'S FUTURE FOUNDATION | $108K | 3 | 2023–2025 |
+| Brookings Institution | $85K | 4 | 2020–2024 |
+| YORK COLLEGE OF PENNSYLVANIA | $83K | 2 | 2023–2024 |
+| American Legislative Exchange Council | $61K | 3 | 2022–2025 |
+| Moral Courage Project | $60K | 2 | 2022–2024 |
+| ROOTS OF PROGRESS | $50K | 1 | 2025 |
+| STUDENTS FOR LIBERTY | $44K | 3 | 2023–2025 |
+| Liberty Fund Inc | $28K | 1 | 2020 |
+| CENTER FOR CIVIL SOCIETY | $25K | 1 | 2025 |
+| Talent Market LLC | $25K | 2 | 2019–2021 |
+| Columbia University | $23K | 1 | 2021 |
+| AMERICAN INSTITUTE FOR ECONOMIC RESEARCH | $20K | 1 | 2023 |
+| YOUNG AMERICANS FOR LIBERTY INC | $15K | 1 | 2025 |
+| ONE AMERICA MOVEMENT | $13K | 1 | 2025 |
+| YOUNG AMERICANS FOR LIBERTY FOUNDATION | $10K | 1 | 2025 |
+
+**Grants received (2018–2024):** $54.4M across 6 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $9.0M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $3.1M | 6 | 2018–2023 |
 | Donors Capital Fund Inc | $713K | 4 | 2020–2023 |
 | BRADLEY IMPACT FUND INC | $521K | 5 | 2018–2024 |
 | NEW VENTURE FUND | $200K | 1 | 2022 |

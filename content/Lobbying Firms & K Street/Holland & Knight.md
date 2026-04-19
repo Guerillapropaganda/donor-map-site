@@ -382,15 +382,53 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 4 (2019–2023)
 
-**Grants received (2020–2023):** $72K across 1 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2023):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $345K |
+| Total expenses | — |
+| Total assets (EOY) | $1.3M |
+| Grants paid out | $145K |
+
+**Lifetime grants out (2019–2023):** $755K across 23 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| COMMUNITY FOUNDATION OF TAMPA BAY | $240K | 2 | 2020–2022 |
+| UNIVERSITY OF MIAMI SCHOOL OF LAW | $112K | 1 | 2019 |
+| AMERICAN LUNG ASSOCIATION - GREATER | $68K | 4 | 2019–2023 |
+| BOOKER T WASHINGTON SCHOOL OF ARTS | $45K | 2 | 2022–2023 |
+| FRIENDS OF UNITED HATZALAH INC | $40K | 1 | 2023 |
+| UNITED WAY OF MIAMI-DADE | $35K | 1 | 2022 |
+| GENESIS WOMEN'S SHELTER | $30K | 1 | 2019 |
+| DALLAS THEATER CENTER | $25K | 2 | 2022–2023 |
+| GOODWILL INDUSTRIES OF DALLAS INC | $20K | 2 | 2022–2023 |
+| SMALL STEPS NURTURING CENTER | $19K | 2 | 2022–2023 |
+| APK CHARITIES | $15K | 2 | 2019–2022 |
+| HOUSE OF HEROES | $15K | 2 | 2019–2022 |
+| COMMUNITY SERVICES FUND | $11K | 1 | 2022 |
+| COFFEE FOR GOOD | $10K | 1 | 2020 |
+| TELETON USA | $10K | 1 | 2023 |
+| PARKINSONS BODY AND MIND | $10K | 1 | 2023 |
+| HOUSTON LIVESTOCK SHOW AND RODEO | $10K | 1 | 2023 |
+| TESSITURA NETWORK INC | $9K | 1 | 2022 |
+| BEST BUDDIES INTERNATIONAL | $8K | 1 | 2022 |
+| FOUNDATION DEMOCRATIC DEVELOPMENT | $7K | 1 | 2022 |
+
+**Grants received (2020–2024):** $82K across 2 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $72K | 4 | 2020–2023 |
+| DONOR ADVISED CHARITABLE GIVING INC | $11K | 1 | 2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

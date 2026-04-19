@@ -260,15 +260,50 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2019–2024)
 
-**Grants received (2018–2024):** $24.7M across 2 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $51.2M |
+| Total expenses | — |
+| Total assets (EOY) | $313.3M |
+| Grants paid out | $286K |
+
+**Lifetime grants out (2019–2024):** $1.2M across 16 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| R STREET INSTITUTE | $300K | 3 | 2022–2024 |
+| COMMON CAUSE EDUCATION FUND | $103K | 2 | 2020–2021 |
+| ISSUE ONE | $100K | 1 | 2020 |
+| THE GERMAN MARSHALL FUND OF THE UNITED STATES | $100K | 1 | 2022 |
+| CITIZENS NOT POLITICIANS | $100K | 1 | 2024 |
+| WE THE VETERANS FOUNDATION | $85K | 2 | 2023–2024 |
+| PUBLIC POLICY AND EDUCATION FUND | $80K | 2 | 2023–2024 |
+| HOUSTON IN ACTION | $65K | 1 | 2021 |
+| LEAGUE OF WOMEN VOTERS OF FLORIDA EDUCATION FUND | $62K | 1 | 2021 |
+| SOUTHWEST VOTER REGISTRATION EDUCATION PROJECT | $52K | 1 | 2021 |
+| TEXAS PUBLIC POLICY FOUNDATION | $30K | 1 | 2019 |
+| DEMOCRACY NORTH CAROLINA | $25K | 1 | 2020 |
+| NEW GEORGIA PROJECT | $25K | 1 | 2020 |
+| CITIZEN ACTION OF NEW YORK | $25K | 1 | 2021 |
+| NATIONAL ASSOCIATION OF LATINO ELECTED &amp; APPOINTED OFFICIALS | $25K | 1 | 2021 |
+| ASIAN AMERICANS ADVANCING JUSTICE-ATLANTA | $10K | 1 | 2021 |
+
+**Grants received (2018–2024):** $30.2M across 4 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $23.1M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $3.7M | 7 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $1.9M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $1.5M | 6 | 2018–2024 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

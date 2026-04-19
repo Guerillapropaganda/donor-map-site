@@ -263,17 +263,17 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | Total assets (EOY) | $24.4M |
 | Grants paid out | $3.8M |
 
-**Lifetime grants out (2020–2024):** $44.7M across 48 recipients.
+**Lifetime grants out (2020–2024):** $44.7M across 46 recipients.
 
 **Top 20 recipients:**
 
 | Recipient | Total | Grants | Years |
 |---|---:|---:|---|
 | ALIGHT | $9.5M | 2 | 2022–2023 |
-| HIAS INC | $4.9M | 3 | 2022–2024 |
+| HIAS | $5.4M | 4 | 2020–2024 |
 | LUTHERAN IMMIGRATION &amp; REFUGEE SERVICE INC | $4.6M | 1 | 2022 |
+| CHURCH WORLD SERVICE | $3.3M | 4 | 2020–2024 |
 | AMERICAN JEWISH JOINT DISTRIBUTION COMMITTEE INC | $3.3M | 2 | 2022–2023 |
-| CHURCH WORLD SERVICE INC | $3.0M | 3 | 2022–2024 |
 | INTERNATIONAL RESCUE COMMITTEE INC | $2.9M | 3 | 2022–2024 |
 | CATHOLIC CHARITIES USA | $1.9M | 3 | 2022–2024 |
 | ETHIOPIAN COMMUNITY DEVELOPMENT COUNCIL INC | $1.6M | 1 | 2022 |
@@ -287,16 +287,18 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | UNITED STATES ASSOCIATION FOR UNHCR | $606K | 2 | 2023–2024 |
 | CATHOLIC RELIEF SERVICES | $536K | 2 | 2022–2023 |
 | HAITIAN BRIDGE ALLIANCE | $526K | 2 | 2023–2024 |
-| HIAS | $506K | 1 | 2020 |
 | WORLD RELIEF CORPORATION OF THE NATIONAL ASSOCIATION OF EVANGELICALS | $462K | 2 | 2022–2023 |
+| TURKISH PHILANTHROPY FUNDS INC | $400K | 1 | 2023 |
 
-**Grants received (2021–2023):** $26.4M across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2021–2024):** $31.1M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $26.4M | 3 | 2021–2023 |
+| SCHWAB CHARITABLE FUND | $3.2M | 3 | 2022–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $1.5M | 2 | 2022–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

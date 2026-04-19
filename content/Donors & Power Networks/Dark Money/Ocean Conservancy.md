@@ -357,7 +357,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $95.3M |
 | Grants paid out | $2.3M |
 
-**Lifetime grants out (2018–2024):** $9.1M across 125 recipients.
+**Lifetime grants out (2018–2024):** $9.1M across 120 recipients.
 
 **Top 20 recipients:**
 
@@ -376,20 +376,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Asociacion Interamericanca Para La Defensa Del Ambiente (AIDA) | $173K | 2 | 2023–2024 |
 | Aleut Community of St Paul Island Tribal Government of St Paul | $155K | 3 | 2022–2024 |
 | FLORIDA INTERNATIONAL UNIVERSITY FOUNDATION INC | $143K | 1 | 2024 |
+| Big Blue &amp; You Inc | $129K | 2 | 2021–2023 |
+| Dream In Green | $127K | 5 | 2019–2024 |
 | Gulf On Maine Lobster Foundation | $122K | 1 | 2021 |
 | University Of Georgia Research Foundation Inc | $122K | 2 | 2021–2022 |
 | Debris Free Global Inc dba Debris Free Oceans | $120K | 1 | 2023 |
 | Bering Sea Fishermen's Association | $120K | 2 | 2022–2023 |
 | Alaska Conservation Foundation | $115K | 2 | 2023–2024 |
-| Big Blue &amp; You | $107K | 1 | 2023 |
-| Puget Soundkeeper Alliance | $105K | 3 | 2021–2024 |
 
-**Grants received (2018–2023):** $2.8M across 1 grantors (from other vault orgs' Schedule I records).
+**Grants received (2018–2024):** $13.8M across 3 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
 | Grantor | Total | Grants | Years |
 |---|---:|---:|---|
+| NATIONAL PHILANTHROPIC TRUST | $7.2M | 6 | 2018–2023 |
+| SCHWAB CHARITABLE FUND | $3.7M | 7 | 2018–2024 |
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $2.8M | 6 | 2018–2023 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

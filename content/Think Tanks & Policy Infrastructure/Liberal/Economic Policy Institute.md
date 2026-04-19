@@ -367,9 +367,46 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 
 *IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
 
-*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+**Filings available:** 6 (2018–2024)
 
-**Grants received (2018–2023):** $5.4M across 3 grantors (from other vault orgs' Schedule I records).
+**Most recent filing (2024):**
+
+| Metric | Amount |
+|---|---:|
+| Total revenue | — |
+| Contribution revenue | $11.5M |
+| Total expenses | — |
+| Total assets (EOY) | $19.6M |
+| Grants paid out | $3.8M |
+
+**Lifetime grants out (2018–2024):** $11.0M across 101 recipients.
+
+**Top 20 recipients:**
+
+| Recipient | Total | Grants | Years |
+|---|---:|---:|---|
+| COLORADO FISCAL INSTITUTE | $710K | 4 | 2020–2024 |
+| POLICY MATTERS OHIO | $524K | 3 | 2022–2024 |
+| KIDS FORWARD | $464K | 3 | 2022–2024 |
+| DC FISCAL POLICY INSTITUTE INC | $450K | 3 | 2022–2024 |
+| OREGON CENTER FOR PUBLIC POLICY | $450K | 3 | 2022–2024 |
+| MISSOURI JOBS WITH JUSTICE | $439K | 3 | 2022–2024 |
+| FLORIDA POLICY INSTITUTE | $425K | 4 | 2019–2024 |
+| MISSOURI BUDGET PROJECT | $370K | 3 | 2022–2024 |
+| ALABAMA ARISE | $350K | 4 | 2019–2024 |
+| THE GREENLINING INSTITUTE | $303K | 1 | 2020 |
+| COMMON GOOD IOWA | $297K | 3 | 2022–2024 |
+| MAINE CENTER FOR ECONOMIC POLICY | $296K | 4 | 2020–2024 |
+| THINK TENNESSEE | $271K | 2 | 2023–2024 |
+| ARKANSAS ADVOCATES FOR CHILDREN AND FAMILIES | $264K | 3 | 2022–2024 |
+| KENTUCKY CENTER FOR ECONOMIC POLICY | $239K | 3 | 2022–2024 |
+| CENTER FOR PUBLIC POLICY PRIORITIES | $220K | 3 | 2019–2023 |
+| THE COMMONWEALTH INSTITUTE | $213K | 3 | 2019–2023 |
+| MINNESOTA COUNCIL OF NONPROFITS | $203K | 1 | 2024 |
+| ISAIAH | $201K | 2 | 2023–2024 |
+| NORTH CAROLINA JUSTICE CENTER | $200K | 2 | 2022–2023 |
+
+**Grants received (2018–2024):** $5.9M across 5 grantors (from other vault orgs' Schedule I records).
 
 **Top 20 grantors:**
 
@@ -377,6 +414,8 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 |---|---:|---:|---|
 | FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.6M | 6 | 2018–2023 |
 | NEW VENTURE FUND | $780K | 4 | 2019–2023 |
+| SCHWAB CHARITABLE FUND | $452K | 6 | 2018–2024 |
+| NATIONAL PHILANTHROPIC TRUST | $25K | 1 | 2019 |
 | SIXTEEN THIRTY FUND | $6K | 1 | 2018 |
 
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*

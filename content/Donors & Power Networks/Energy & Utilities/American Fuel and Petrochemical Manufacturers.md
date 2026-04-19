@@ -329,7 +329,7 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $74.5M |
 | Grants paid out | $553K |
 
-**Lifetime grants out (2019–2023):** $2.6M across 65 recipients.
+**Lifetime grants out (2019–2023):** $2.6M across 64 recipients.
 
 **Top 20 recipients:**
 
