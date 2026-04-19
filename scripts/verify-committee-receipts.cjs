@@ -110,19 +110,22 @@ async function streamSum(file, keyFn, valueFn, cycleFn) {
     entityToCmtes.get(ent.name).add(cmteId);
   }
 
-  // Candidate-to-principal-committee map (for pas2 pac_gifts, where
-  // pas2 rows key on cand_id, not committee directly)
-  console.log('  loading candidate-committees linkages...');
+  // Each candidate has ONE principal committee per cycle (cmte_dsgn=P).
+  // Conduit flows + PAC gifts to that candidate route to the ONE principal,
+  // not to every authorized committee linked to them — otherwise we
+  // triple-count across Make-America-PAC + Nominee-Fund + general
+  // election funds.
+  console.log('  loading candidate-master (principal_cmte_id)...');
   const candToPrincipal = new Map();
-  const rl = readline.createInterface({ input: fs.createReadStream(path.join(FEC_ROOT, 'candidate-committees.jsonl')) });
-  for await (const line of rl) {
+  const candMasterRl = readline.createInterface({ input: fs.createReadStream(path.join(FEC_ROOT, 'candidate-master.jsonl')) });
+  for await (const line of candMasterRl) {
     if (!line.trim()) continue;
     try {
       const r = JSON.parse(line);
-      if (r.cmte_dsgn === 'P' || r.cmte_dsgn === 'A') {
-        // Map candidate → their authorized campaign committees
-        if (!candToPrincipal.has(r.cand_id)) candToPrincipal.set(r.cand_id, new Set());
-        candToPrincipal.get(r.cand_id).add(r.cmte_id);
+      if (r.principal_cmte_id) {
+        // If a candidate appears in multiple cycles, keep the most
+        // recent principal committee (master is loaded in file order)
+        candToPrincipal.set(r.id, r.principal_cmte_id);
       }
     } catch {}
   }
@@ -168,12 +171,10 @@ async function streamSum(file, keyFn, valueFn, cycleFn) {
     const out = new Map();
     for (const [candCompositeKey, amount] of candAgg) {
       const [candId, cycle] = candCompositeKey.split('|');
-      const cmtes = candToPrincipal.get(candId);
-      if (!cmtes) continue;
-      for (const cmteId of cmtes) {
-        const key = `${cmteId}|${cycle}`;
-        out.set(key, (out.get(key) || 0) + amount);
-      }
+      const principal = candToPrincipal.get(candId);
+      if (!principal) continue;
+      const key = `${principal}|${cycle}`;
+      out.set(key, (out.get(key) || 0) + amount);
     }
     return out;
   }

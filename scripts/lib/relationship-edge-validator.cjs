@@ -191,6 +191,7 @@ const SOURCES = [
   // on the receiving entity. Fills the gap where ingest-fec-individual-
   // bulk.cjs only emitted employer-aggregated edges.
   'fec-indiv-by-committee',
+  'fec-oth-transfers',
 ];
 
 const STATUSES = ['active', 'historical', 'disputed', 'deprecated'];
@@ -219,6 +220,11 @@ const MIGRATION_SOURCES = new Set([
   // existence check on the from-side; the committee receiving the
   // contribution is a real vault entity by construction.
   'fec-indiv-by-committee',
+  // Committee-to-committee transfers target stub entities created by
+  // sync-campaign-committees.cjs that don't have .md profile files
+  // yet — profile creation is Research Claude's lane, but the edges
+  // are still real money flows we want in the graph now.
+  'fec-oth-transfers',
 ]);
 
 // ─── Title normalization ──────────────────────────────────────────────
@@ -433,6 +439,12 @@ function validateEdge(edge, ctx = {}) {
         // identity is anchored by fec_committee_id signals on the
         // entity record, not by a profile file.
         if (edge.source === 'fec-indiv-by-committee') {
+          continue;
+        }
+        // fec-oth-transfers edges target stubbed campaign committees
+        // (e.g. DONALD J TRUMP REPUBLICAN NOMINEE FUND 2024) that exist
+        // as entity records but don't have profile .md files yet.
+        if (edge.source === 'fec-oth-transfers') {
           continue;
         }
         errors.push(`${side}: no profile with title "${title}" in vault`);

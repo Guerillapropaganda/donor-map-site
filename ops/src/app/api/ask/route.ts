@@ -1608,6 +1608,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
     // MAGA Inc, etc., not just edges where target === literal "Donald
     // Trump." Otherwise we miss the vast majority of the actual money.
     const vehicles = vehiclesFor(name.title)
+    const poolSet = new Set([name.title, ...vehicles])
     const allEdges: any[] = []
     const mainRes = await engine.query({ subject: "edges", filters: { to: name.title, type: "monetary" }, limit: 2000 })
     allEdges.push(...mainRes.rows)
@@ -1615,11 +1616,14 @@ async function handleQuestion(question: string): Promise<AskResult> {
       const vr = await engine.query({ subject: "edges", filters: { to: v, type: "monetary" }, limit: 1500 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
-    // Drop self-ref edges. 406 exist in the store (Honeywell→Honeywell from
-    // employee aggregation, Morgan Stanley GIF→itself from DAF accounting,
-    // politician→self from leadership-PAC→campaign-committee resolution).
-    // They're real data but misleading in a donor list — a committee isn't
-    // "donating to itself."
+    // Drop self-ref edges. Do NOT drop intra-pool transfers — when
+    // Future Forward USA Action (c4) → FF PAC (super PAC) → Harris,
+    // the c4-side donor data is undisclosed, so dropping the intra-
+    // pool flow erases hundreds of millions we can actually count.
+    // Accept ~10% JFC-loop overcounting for Trump/JFC-heavy candidates
+    // as a documented tradeoff — total reads as "gross flow through
+    // the candidate's ecosystem" rather than "unique external donor
+    // dollars," which matches OpenSecrets reporting conventions.
     const filtered = allEdges.filter((e: any) => e.from !== e.to)
     const r = { total: filtered.length, rows: filtered }
     // Split IE-support vs IE-oppose: super-PAC ads "opposing" X are not
@@ -1680,6 +1684,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
     // "where does Elon Musk's money go" should include America PAC's $147M
     // IE spend, not just Musk's own $2K in direct donations.
     const vehicles = vehiclesFor(name.title)
+    const poolSet = new Set([name.title, ...vehicles])
     const allEdges: any[] = []
     const mainRes = await engine.query({ subject: "edges", filters: { from: name.title, type: "monetary" }, limit: 2000 })
     allEdges.push(...mainRes.rows)
@@ -1687,7 +1692,7 @@ async function handleQuestion(question: string): Promise<AskResult> {
       const vr = await engine.query({ subject: "edges", filters: { from: v, type: "monetary" }, limit: 1500 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
-    // Drop self-ref edges (see donors_to — same rationale)
+    // Drop self-edges only. Intra-pool kept for same reason as donors_to.
     const filtered = allEdges.filter((e: any) => e.from !== e.to)
     const r = { total: filtered.length, rows: filtered }
     const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)

@@ -202,7 +202,7 @@ function titleCaseName(fecName) {
       source: 'fec-indiv-by-committee',
       source_url: null,
       evidence: [
-        `FEC individual contributions aggregated across ${a.count} transactions totaling $${Math.round(a.amount).toLocaleString()} in cycle ${a.cycle} (cmte_ids: ${[...a.cmteIds].join(', ')})`,
+        `FEC indiv-by-committee: ${a.count} txns totaling $${Math.round(a.amount).toLocaleString()} (cycle ${a.cycle})`,
       ],
       amount: Math.round(a.amount),
       cycle: a.cycle,
