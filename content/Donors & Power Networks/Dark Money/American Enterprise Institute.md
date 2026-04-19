@@ -313,5 +313,19 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | BROWN UNIVERSITY | $10K | 1 | 2022 |
 | RENEW DEMOCRACY INITIATIVE | $10K | 1 | 2024 |
 
+**Grants received (2018–2024):** $5.2M across 7 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.1M | 5 | 2019–2023 |
+| BRADLEY IMPACT FUND INC | $521K | 6 | 2018–2024 |
+| PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $350K | 5 | 2018–2024 |
+| AMERICAN PETROLEUM INSTITUTE | $135K | 2 | 2018–2024 |
+| BLUE CROSS BLUE SHIELD ASSOCIATION | $50K | 1 | 2023 |
+| Donors Capital Fund Inc | $30K | 1 | 2020 |
+| THE BUSINESS ROUNDTABLE INC | $25K | 1 | 2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

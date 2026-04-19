@@ -26,3 +26,21 @@ internal-notes: "Stub profile auto-created 2026-04-18 to close 990-edge coverage
 
 - [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)
 - [ProPublica Nonprofit Explorer (EIN 83-1047727)](https://projects.propublica.org/nonprofits/organizations/831047727)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2021):** $153.0M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| Marble Freedom Trust | $153.0M | 1 | 2021 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

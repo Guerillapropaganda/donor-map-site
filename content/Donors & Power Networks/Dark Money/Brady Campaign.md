@@ -537,5 +537,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | OREGON ALLIANCE FOR GUN SAFETY | $50K | 1 | 2023 |
 | REMNANT CHURCH | $15K | 1 | 2021 |
 
+**Grants received (2019):** $20K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $20K | 1 | 2019 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

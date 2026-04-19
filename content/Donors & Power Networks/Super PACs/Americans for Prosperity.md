@@ -339,5 +339,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Oregon Business &amp; Industry Association | $10K | 1 | 2023 |
 | No on Proposition 126 | $10K | 1 | 2018 |
 
+**Grants received (2024):** $20K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA | $20K | 1 | 2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

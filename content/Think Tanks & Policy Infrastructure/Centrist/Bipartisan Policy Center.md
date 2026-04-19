@@ -336,3 +336,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Bipartisan%20Policy%20Center%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Bipartisan%20Policy%20Center)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $5.6M across 6 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.4M | 5 | 2019–2023 |
+| THE BUSINESS ROUNDTABLE INC | $425K | 2 | 2023–2024 |
+| NEW VENTURE FUND | $305K | 2 | 2022–2024 |
+| US Chamber of Commerce Foundation | $250K | 2 | 2022–2023 |
+| AMERICAN PETROLEUM INSTITUTE | $150K | 3 | 2018–2020 |
+| SIXTEEN THIRTY FUND | $10K | 1 | 2020 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

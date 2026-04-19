@@ -145,5 +145,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | GENESIS 123 FOUNDATION | $218K | 2 | 2018–2019 |
 | MAALE ADUMIM FOUNDATION | $9K | 1 | 2018 |
 
+**Grants received (2018–2023):** $1.2M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
+| BRADLEY IMPACT FUND INC | $100K | 1 | 2022 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

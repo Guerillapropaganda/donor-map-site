@@ -292,5 +292,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Little Village Environmental Justice Organization | $8K | 1 | 2021 |
 | Heaven's View Community Development Corp | $7K | 1 | 2021 |
 
+**Grants received (2018–2024):** $280K across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $260K | 6 | 2018–2023 |
+| NEW VENTURE FUND | $20K | 2 | 2022–2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

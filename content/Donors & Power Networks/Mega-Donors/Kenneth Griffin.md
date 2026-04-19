@@ -137,6 +137,14 @@ employee-donor-count: 1
 | Total assets (EOY) | — |
 | Grants paid out | — |
 
+**Grants received (2019–2023):** $155.8M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $155.8M | 5 | 2019–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
 

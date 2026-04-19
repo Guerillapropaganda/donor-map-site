@@ -393,5 +393,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | AR2 | $100K | 1 | 2022 |
 | YRs Run Inc | $100K | 1 | 2023 |
 
+**Grants received (2018–2024):** $29.2M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| PHARMACEUTICAL RESEARCH &amp; MANUFACTURERS | $28.5M | 6 | 2018–2024 |
+| THE BUSINESS ROUNDTABLE INC | $700K | 2 | 2022–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

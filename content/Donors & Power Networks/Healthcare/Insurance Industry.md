@@ -441,5 +441,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | OPERATION HEALING FORCES INC | $102K | 4 | 2018–2023 |
 | OUR FRIENDS PLACE | $100K | 5 | 2018–2023 |
 
+**Grants received (2018–2023):** $165K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $165K | 5 | 2018–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

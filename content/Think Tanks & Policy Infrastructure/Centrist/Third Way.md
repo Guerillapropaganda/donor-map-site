@@ -286,3 +286,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/201734070/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2020–2024):** $521K across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $321K | 2 | 2022–2023 |
+| THE BUSINESS ROUNDTABLE INC | $200K | 4 | 2020–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

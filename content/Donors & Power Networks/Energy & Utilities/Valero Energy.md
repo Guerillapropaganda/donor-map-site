@@ -394,5 +394,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | SEE ATTACHMENT 1 | $44.6M | 4 | 2020–2024 |
 | SEE ATTACHEMENT 4 | $17.8M | 1 | 2021 |
 
+**Grants received (2018–2019):** $20K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $20K | 2 | 2018–2019 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

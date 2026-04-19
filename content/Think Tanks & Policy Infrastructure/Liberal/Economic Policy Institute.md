@@ -361,3 +361,23 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/521368964/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Source: DOJ FARA](https://efile.fara.gov/ords/fara/f?p=185:130:0::NO:RP,130:P130_DATERANGE:N)~~ (URL broken, archived by Ops) | ~~[Search](https://efile.fara.gov/ords/fara/f?p=185:200:0::NO:RP,200:P200_REG_NAME:Economic%20Policy%20Institute)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2023):** $5.4M across 3 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $4.6M | 6 | 2018–2023 |
+| NEW VENTURE FUND | $780K | 4 | 2019–2023 |
+| SIXTEEN THIRTY FUND | $6K | 1 | 2018 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

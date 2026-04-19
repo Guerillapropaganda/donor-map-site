@@ -271,3 +271,26 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/570952531/2019)~~ (URL broken, archived by Ops)
 - ~~[Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22State%20Policy%20Network%22&type=r)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $1.4M across 6 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.1M | 6 | 2018–2023 |
+| BRADLEY IMPACT FUND INC | $153K | 4 | 2018–2024 |
+| Donors Capital Fund Inc | $50K | 1 | 2020 |
+| THE 85 FUND | $50K | 1 | 2022 |
+| AMERICAN FUEL AND PETROCHEMICAL | $40K | 3 | 2019–2023 |
+| AMERICAN ENTERPRISE INSTITUTE FOR PUBLIC | $20K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

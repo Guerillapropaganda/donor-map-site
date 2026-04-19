@@ -469,3 +469,24 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2022 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2022)~~ (URL broken, archived by Ops)
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/237432162/2020)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $42.2M across 4 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
+| Donors Capital Fund Inc | $713K | 4 | 2020–2023 |
+| BRADLEY IMPACT FUND INC | $521K | 5 | 2018–2024 |
+| NEW VENTURE FUND | $200K | 1 | 2022 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

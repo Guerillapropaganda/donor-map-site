@@ -138,6 +138,19 @@ politicians-funded: "[[_Deb Haaland Master Profile]], [[League of Conservation V
 | MAP USA | $3.5M | 1 | 2023 |
 | WIN JUSTICE | $3.4M | 2 | 2021 |
 
+**Grants received (2018–2024):** $356.2M across 6 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $184.5M | 5 | 2018–2023 |
+| NEW VENTURE FUND | $90.1M | 6 | 2018–2024 |
+| MAJORITY FORWARD | $73.5M | 2 | 2021–2023 |
+| LEAGUE OF CONSERVATION VOTERS INC | $4.3M | 2 | 2020–2022 |
+| GROVE ACTION FUND | $3.6M | 7 | 2018–2024 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $135K | 3 | 2020–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
 

@@ -358,5 +358,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | DEFEND ALASKA ELECTIONS | $15K | 1 | 2021 |
 | NATIONAL TAX LIMITATION COALITION | $10K | 1 | 2022 |
 
+**Grants received (2024):** $1.7M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| American Leadership Fund Inc | $1.7M | 1 | 2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -384,5 +384,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Big Blue &amp; You | $107K | 1 | 2023 |
 | Puget Soundkeeper Alliance | $105K | 3 | 2021–2024 |
 
+**Grants received (2018–2023):** $2.8M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $2.8M | 6 | 2018–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

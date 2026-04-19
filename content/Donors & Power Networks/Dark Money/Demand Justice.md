@@ -405,5 +405,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | NATIONAL BLACK LAW STUDENTS ASSOCIATION | $25K | 1 | 2022 |
 | RISE INC | $15K | 1 | 2023 |
 
+**Grants received (2022):** $1.4M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| LEAGUE OF CONSERVATION VOTERS INC | $1.4M | 1 | 2022 |
+| SIXTEEN THIRTY FUND | $29K | 1 | 2022 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

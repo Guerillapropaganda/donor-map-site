@@ -356,5 +356,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ACTION CENTER ON RACE AND THE ECONOMY AMERICANS FOR FINANCIAL REFORM | $75K | 1 | 2020 |
 | COLORADO CENTER ON LAW AND POLICY | $65K | 2 | 2018–2020 |
 
+**Grants received (2018–2024):** $44.9M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $40.8M | 6 | 2018–2023 |
+| NEW VENTURE FUND | $4.1M | 5 | 2018–2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

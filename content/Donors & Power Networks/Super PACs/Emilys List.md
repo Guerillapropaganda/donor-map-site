@@ -331,5 +331,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | WOMEN VOTE | $2.2M | 4 | 2021–2024 |
 | VOTO LATINO FOUNDATION | $65K | 2 | 2022–2023 |
 
+**Grants received (2021–2024):** $965K across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FUTURE FORWARD USA ACTION | $500K | 1 | 2024 |
+| MAJORITY FORWARD | $465K | 2 | 2021–2022 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

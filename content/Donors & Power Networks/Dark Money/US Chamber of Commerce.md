@@ -616,5 +616,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | TEMPE CHAMBER OF COMMERCE FOUNDATION | $95K | 1 | 2018 |
 | WAKE FOREST CHAMBER FOUNDATION FOR COMMON PROGRESS | $95K | 1 | 2018 |
 
+**Grants received (2018–2023):** $520K across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $490K | 4 | 2018–2022 |
+| AMERICAN PETROLEUM INSTITUTE | $30K | 2 | 2022–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -292,5 +292,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $1.6M |
 | Grants paid out | — |
 
+**Grants received (2019–2023):** $51K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICAN FUEL AND PETROCHEMICAL | $51K | 3 | 2019–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

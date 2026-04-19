@@ -253,5 +253,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | America First Legal Foundation | $65K | 2 | 2022–2024 |
 | Capitol Hill Christian Academy | $30K | 2 | 2023–2024 |
 
+**Grants received (2019–2024):** $2.0M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $1.0M | 5 | 2019–2023 |
+| BRADLEY IMPACT FUND INC | $1.0M | 3 | 2022–2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

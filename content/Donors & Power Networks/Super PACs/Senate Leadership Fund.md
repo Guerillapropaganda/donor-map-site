@@ -329,5 +329,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | AG CONSERVATIVES | $175K | 2 | 2022–2023 |
 | SERIOUS CONSERVATIVES | $100K | 1 | 2022 |
 
+**Grants received (2022–2023):** $4.1M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| American Action Network Inc | $4.1M | 3 | 2022–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

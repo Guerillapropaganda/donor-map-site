@@ -433,5 +433,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | MAINE CONSERVATION VOTERS | $2.0M | 5 | 2018–2023 |
 | ENVIRONMENT AMERICA INC | $2.0M | 1 | 2018 |
 
+**Grants received (2018–2023):** $35.1M across 4 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| SIXTEEN THIRTY FUND | $21.0M | 5 | 2018–2023 |
+| AMERICA VOTES | $13.7M | 8 | 2020–2023 |
+| GROVE ACTION FUND | $355K | 5 | 2019–2023 |
+| MAJORITY FORWARD | $150K | 1 | 2021 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

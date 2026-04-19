@@ -397,5 +397,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Womens Foodservice Forum | $175K | 6 | 2018–2024 |
 | Council of State Restaurant Association | $175K | 1 | 2024 |
 
+**Grants received (2018):** $100K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| National Restaurant Association | $100K | 1 | 2018 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

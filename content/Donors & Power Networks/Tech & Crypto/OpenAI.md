@@ -335,5 +335,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Cornell University | $150K | 1 | 2024 |
 | University of Pennsylvania | $150K | 1 | 2024 |
 
+**Grants received (2019–2021):** $7.8M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $7.8M | 3 | 2019–2021 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -332,5 +332,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | RJC VICTORY FUND | $7.2M | 3 | 2020–2024 |
 | MAGA ACTION INC | $275K | 1 | 2023 |
 
+**Grants received (2021–2024):** $2.9M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| American Action Network Inc | $2.4M | 2 | 2021–2023 |
+| AMERICAN ISRAEL PUBLIC AFFAIRS COMMITTEE | $500K | 1 | 2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

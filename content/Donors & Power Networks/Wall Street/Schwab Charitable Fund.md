@@ -29,3 +29,24 @@ internal-notes: "Stub profile auto-created 2026-04-18. Schwab Charitable Fund is
 
 - [IRS Exempt Organization 990 records](https://www.irs.gov/charities-non-profits/form-990-series-downloads)
 - [ProPublica Nonprofit Explorer (EIN 31-1640316)](https://projects.propublica.org/nonprofits/organizations/311640316)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $1.39B across 4 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $943.2M | 6 | 2018–2023 |
+| Marble Freedom Trust | $447.6M | 4 | 2021–2024 |
+| NEW VENTURE FUND | $505K | 1 | 2018 |
+| MAGA ACTION INC | $400K | 1 | 2023 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

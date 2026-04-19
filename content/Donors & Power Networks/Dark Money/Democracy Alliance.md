@@ -321,5 +321,13 @@ The tell is the secrecy. If the Democracy Alliance's work were genuinely aligned
 | Planned Parenthood of the Rocky Mtn | $15K | 1 | 2023 |
 | One Colorado | $10K | 1 | 2023 |
 
+**Grants received (2024):** $20K across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| NEW VENTURE FUND | $20K | 1 | 2024 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

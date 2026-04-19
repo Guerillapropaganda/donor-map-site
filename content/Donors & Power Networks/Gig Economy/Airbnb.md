@@ -290,5 +290,13 @@ Preemption of local short-term rental regulations, reduced hotel tax requirement
 | HIAS | $506K | 1 | 2020 |
 | WORLD RELIEF CORPORATION OF THE NATIONAL ASSOCIATION OF EVANGELICALS | $462K | 2 | 2022–2023 |
 
+**Grants received (2021–2023):** $26.4M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $26.4M | 3 | 2021–2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -257,5 +257,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | 222 EVERGREEN | $250K | 1 | 2021 |
 | AMERICAN CENTER | $250K | 1 | 2021 |
 
+**Grants received (2022):** $1.0M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| AMERICA VOTES | $1.0M | 1 | 2022 |
+| EVERYTOWN FOR GUN SAFETY ACTION FUND | $15K | 1 | 2022 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -254,3 +254,22 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 - ~~[2021 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2021)~~ (URL broken, archived by Ops)
 - ~~[2020 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2020)~~ (URL broken, archived by Ops)
 - ~~[2019 Filing](https://projects.propublica.org/nonprofits/organizations/133839293/2019)~~ (URL broken, archived by Ops)
+
+
+<!-- auto:irs-990 start -->
+
+*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*
+
+*No own 990 filings ingested yet; data below is from other organizations' Schedule I records showing grants received.*
+
+**Grants received (2018–2024):** $24.7M across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $23.1M | 6 | 2018–2023 |
+| NEW VENTURE FUND | $1.5M | 6 | 2018–2024 |
+
+*Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
+<!-- auto:irs-990 end -->

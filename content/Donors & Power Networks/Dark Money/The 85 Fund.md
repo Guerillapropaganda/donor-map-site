@@ -233,5 +233,13 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Freedom Foundation | $640K | 1 | 2022 |
 | Center for Law and Policy | $550K | 2 | 2022–2023 |
 
+**Grants received (2020–2021):** $10.9M across 1 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $10.9M | 2 | 2020–2021 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

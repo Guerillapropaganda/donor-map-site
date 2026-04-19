@@ -96,59 +96,78 @@ async function buildIndexes() {
   for (const list of filingsByEin.values()) list.sort((a, b) => (b.tax_year || 0) - (a.tax_year || 0));
   console.log(`  filings: ${filingCount} across ${filingsByEin.size} EINs`);
 
-  // EIN → Map(recipient_name_normalized → { name, ein, total, years: Set, purposes: Set })
+  // grantor_ein -> Map(recipient_name_normalized -> { name, ein, total, count, years })
+  // recipient_ein -> Map(grantor_ein -> { grantor_name, total, count, years })
   const grantsByEin = new Map();
+  const grantsInByEin = new Map();
   let grantCount = 0;
   for await (const g of streamJsonl(GRANTS)) {
     if (!g.grantor_ein) continue;
     grantCount++;
+
+    // Outgoing (existing)
     if (!grantsByEin.has(g.grantor_ein)) grantsByEin.set(g.grantor_ein, new Map());
     const inner = grantsByEin.get(g.grantor_ein);
     const key = g.recipient_name_normalized || g.recipient_name || '(unknown)';
     if (!inner.has(key)) {
-      inner.set(key, {
-        name: g.recipient_name,
-        ein: g.recipient_ein,
-        total: 0,
-        count: 0,
-        years: new Set(),
-      });
+      inner.set(key, { name: g.recipient_name, ein: g.recipient_ein, total: 0, count: 0, years: new Set() });
     }
     const row = inner.get(key);
     row.total += Number(g.amount) || 0;
     row.count++;
     if (g.tax_year) row.years.add(g.tax_year);
-  }
-  console.log(`  grants: ${grantCount} rows across ${grantsByEin.size} grantors`);
 
-  return { einToEntity, filingsByEin, grantsByEin };
+    // Incoming (new)
+    const recEin = g.recipient_ein ? String(g.recipient_ein).replace(/\D/g, '') : null;
+    if (recEin && recEin.length === 9) {
+      if (!grantsInByEin.has(recEin)) grantsInByEin.set(recEin, new Map());
+      const innerIn = grantsInByEin.get(recEin);
+      if (!innerIn.has(g.grantor_ein)) {
+        innerIn.set(g.grantor_ein, { grantor_name: g.grantor_name, grantor_ein: g.grantor_ein, total: 0, count: 0, years: new Set() });
+      }
+      const rowIn = innerIn.get(g.grantor_ein);
+      rowIn.total += Number(g.amount) || 0;
+      rowIn.count++;
+      if (g.tax_year) rowIn.years.add(g.tax_year);
+    }
+  }
+  console.log(`  grants: ${grantCount} rows across ${grantsByEin.size} grantors, ${grantsInByEin.size} recipient-EINs`);
+
+  return { einToEntity, filingsByEin, grantsByEin, grantsInByEin };
 }
 
 function renderPanel(ein, idx) {
   const filings = idx.filingsByEin.get(ein);
   const grants = idx.grantsByEin.get(ein);
-  if (!filings || filings.length === 0) return null;
+  const grantsIn = idx.grantsInByEin.get(ein);
+  if ((!filings || filings.length === 0) && (!grantsIn || grantsIn.size === 0)) return null;
+  // Allow a panel for recipient-only orgs (no filings ingested for them but they
+  // appear as recipients in other orgs' Schedule I).
 
   const lines = [''];
   lines.push('*IRS Form 990 data from bulk e-file releases. Tax years listed are by filing period end.*');
   lines.push('');
 
-  // Filings overview
-  const years = filings.map(f => f.tax_year).filter(Boolean).sort();
-  const yearRange = years.length ? `${years[0]}–${years[years.length - 1]}` : '—';
-  const latest = filings[0];
+  let yearRange = '—';
+  if (filings && filings.length > 0) {
+    const years = filings.map(f => f.tax_year).filter(Boolean).sort();
+    yearRange = years.length ? `${years[0]}–${years[years.length - 1]}` : '—';
+    const latest = filings[0];
 
-  lines.push(`**Filings available:** ${filings.length} (${yearRange})`);
-  lines.push('');
-  lines.push('**Most recent filing (' + (latest.tax_year || '—') + '):**');
-  lines.push('');
-  lines.push('| Metric | Amount |');
-  lines.push('|---|---:|');
-  lines.push(`| Total revenue | ${fmtUsd(latest.total_revenue)} |`);
-  lines.push(`| Contribution revenue | ${fmtUsd(latest.contribution_revenue)} |`);
-  lines.push(`| Total expenses | ${fmtUsd(latest.total_expenses)} |`);
-  lines.push(`| Total assets (EOY) | ${fmtUsd(latest.total_assets)} |`);
-  lines.push(`| Grants paid out | ${fmtUsd(latest.grant_total)} |`);
+    lines.push(`**Filings available:** ${filings.length} (${yearRange})`);
+    lines.push('');
+    lines.push('**Most recent filing (' + (latest.tax_year || '—') + '):**');
+    lines.push('');
+    lines.push('| Metric | Amount |');
+    lines.push('|---|---:|');
+    lines.push(`| Total revenue | ${fmtUsd(latest.total_revenue)} |`);
+    lines.push(`| Contribution revenue | ${fmtUsd(latest.contribution_revenue)} |`);
+    lines.push(`| Total expenses | ${fmtUsd(latest.total_expenses)} |`);
+    lines.push(`| Total assets (EOY) | ${fmtUsd(latest.total_assets)} |`);
+    lines.push(`| Grants paid out | ${fmtUsd(latest.grant_total)} |`);
+  } else {
+    lines.push('*No own 990 filings ingested yet; data below is from other organizations\' Schedule I records showing grants received.*');
+  }
 
   // Grants out summary
   if (grants && grants.size > 0) {
@@ -166,6 +185,29 @@ function renderPanel(ein, idx) {
       const yrs = [...r.years].sort();
       const yrRange = yrs.length === 0 ? '—' : yrs.length === 1 ? String(yrs[0]) : `${yrs[0]}–${yrs[yrs.length - 1]}`;
       lines.push(`| ${r.name} | ${fmtUsd(r.total)} | ${r.count} | ${yrRange} |`);
+    }
+  }
+
+  // Grants IN (who funded this org)
+  if (grantsIn && grantsIn.size > 0) {
+    const allIn = [...grantsIn.values()].sort((a, b) => b.total - a.total);
+    const totalIn = allIn.reduce((a, g) => a + g.total, 0);
+    const inYears = new Set();
+    for (const r of allIn) for (const y of r.years) inYears.add(y);
+    const inYearsSorted = [...inYears].sort();
+    const inRange = inYearsSorted.length === 0 ? '—' : inYearsSorted.length === 1 ? String(inYearsSorted[0]) : `${inYearsSorted[0]}–${inYearsSorted[inYearsSorted.length - 1]}`;
+
+    lines.push('');
+    lines.push(`**Grants received (${inRange}):** ${fmtUsd(totalIn)} across ${allIn.length.toLocaleString()} grantors (from other vault orgs' Schedule I records).`);
+    lines.push('');
+    lines.push('**Top 20 grantors:**');
+    lines.push('');
+    lines.push('| Grantor | Total | Grants | Years |');
+    lines.push('|---|---:|---:|---|');
+    for (const r of allIn.slice(0, 20)) {
+      const yrs = [...r.years].sort();
+      const yrRange = yrs.length === 0 ? '—' : yrs.length === 1 ? String(yrs[0]) : `${yrs[0]}–${yrs[yrs.length - 1]}`;
+      lines.push(`| ${r.grantor_name} | ${fmtUsd(r.total)} | ${r.count} | ${yrRange} |`);
     }
   }
 

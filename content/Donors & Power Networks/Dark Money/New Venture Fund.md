@@ -322,5 +322,16 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | ACCOUNTABLEUS | $9.9M | 4 | 2019–2023 |
 | NATURE AND CULTURE INTERNATIONAL | $9.9M | 6 | 2018–2024 |
 
+**Grants received (2018–2024):** $509.8M across 4 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| FIDELITY INVESTMENTS CHARITABLE GIFT FUND | $497.9M | 6 | 2018–2023 |
+| SIXTEEN THIRTY FUND | $10.2M | 5 | 2018–2023 |
+| FUTURE FORWARD USA ACTION | $1.6M | 1 | 2024 |
+| CENTER FOR AMERICAN PROGRESS | $25K | 1 | 2018 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->

@@ -242,5 +242,14 @@ Sources below were broken, redirected, or bot-blocked as of their last fingerpri
 | Total assets (EOY) | $6.3M |
 | Grants paid out | — |
 
+**Grants received (2021–2023):** $50K across 2 grantors (from other vault orgs' Schedule I records).
+
+**Top 20 grantors:**
+
+| Grantor | Total | Grants | Years |
+|---|---:|---:|---|
+| CALIFORNIA NURSES ASSOCIATION | $40K | 2 | 2021–2023 |
+| California Labor Federation AFL-CIO | $10K | 1 | 2023 |
+
 *Source: IRS Tax-Exempt Organization 990 e-file bulk releases.*
 <!-- auto:irs-990 end -->
