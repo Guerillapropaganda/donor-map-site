@@ -234,14 +234,16 @@ function wrapProfileSections() {
         if (isClassAnalysis || text.indexOf('who ') !== -1 || text.indexOf('bio') === 0 || text.indexOf('background') !== -1 || text.indexOf('about') === 0) tab = 'overview';
         else if (variant.indexOf('psc-donors') !== -1 || variant.indexOf('psc-timeline') !== -1) tab = 'recipients';
         else if (variant.indexOf('psc-wins') !== -1 || variant.indexOf('psc-voting') !== -1) tab = 'wins';
-        else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-contradiction') !== -1) tab = 'contradiction';
+        else if (variant.indexOf('psc-patterns') !== -1) tab = 'analysis';
         else if (variant.indexOf('psc-sources') !== -1 || text.indexOf('related') !== -1) tab = 'sources';
       } else {
         if (isClassAnalysis || text.indexOf('who ') !== -1 || text.indexOf('bio') === 0 || text.indexOf('background') !== -1 || text.indexOf('about') === 0) tab = 'overview';
         else if (variant.indexOf('psc-donors') !== -1 || text.indexOf('the money') !== -1 || text.indexOf('the donor class') !== -1 || text.indexOf('personal grift') !== -1 || text.indexOf('tax cuts') !== -1 || text.indexOf('epstein') !== -1 || text.indexOf('mega-donor') !== -1 || text.indexOf('industry sector') !== -1) tab = 'donors';
         else if (variant.indexOf('psc-executive') !== -1 || variant.indexOf('psc-voting') !== -1 || variant.indexOf('psc-wins') !== -1 || text.indexOf('executive action') !== -1 || text.indexOf('key vote') !== -1 || text.indexOf('voting record') !== -1 || text.indexOf('policy executed') !== -1 || text.indexOf('department action') !== -1 || text.indexOf('diplomatic record') !== -1) tab = 'voting';
         else if (variant.indexOf('psc-timeline') !== -1 || text.indexOf('timeline') !== -1 || text.indexOf('donation-to-policy') !== -1) tab = 'timeline';
-        else if (variant.indexOf('psc-contradiction') !== -1 || variant.indexOf('psc-patterns') !== -1 || text.indexOf('influence network') !== -1 || text.indexOf('connections') !== -1) tab = 'analysis';
+        else if (variant.indexOf('psc-contradiction') !== -1) tab = 'contradiction';
+        else if (variant.indexOf('psc-patterns') !== -1 || text.indexOf('influence network') !== -1 || text.indexOf('connections') !== -1) tab = 'analysis';
         else if (variant.indexOf('psc-sources') !== -1 || text.indexOf('related') !== -1 || text.indexOf('archived') !== -1) tab = 'sources';
       }
       currentCard.dataset.tab = tab;
@@ -264,16 +266,74 @@ function wrapProfileSections() {
   // Clear article and rebuild
   article.innerHTML = '';
 
-  // Preamble content (tags, stray pre-H2 lines like #trump #master-profile
-  // hashtag line) renders above the tabs. The auto-generated data panel
-  // block now lives INSIDE the Money H2 section (relocated in the
-  // build-profile-data-panels.cjs generator), so there's no giant data
-  // panel floating above the tabs anymore.
-  for (var j = 0; j < preContent.length; j++) {
-    article.appendChild(preContent[j]);
+  // Process pre-H2 content: detect auto-generated data blocks and slot them
+  // into the correct tab via synthetic section cards rather than dumping
+  // everything as floating preamble above the tab nav.
+  //
+  // Auto-blocks (data-panel, fec-lifetime, voting-record) sit before the first
+  // H2 in the profile markdown, so they land here as preContent. We detect
+  // them by anchor text and create synthetic .profile-section-card divs so
+  // ProfileTabs.tsx picks them up correctly.
+  var autoBlockState = null; // null | 'donors' | 'voting'
+  var autoBlockDonors = [];
+  var autoBlockVoting = [];
+  var truePreContent = [];
+
+  for (var pi = 0; pi < preContent.length; pi++) {
+    var pel = preContent[pi];
+    var ptxt = (pel.textContent || '').trim();
+
+    // H1 title and empty lines stay as true preamble (above tab nav)
+    if (pel.tagName === 'H1' || ptxt.length === 0) {
+      truePreContent.push(pel);
+      continue;
+    }
+
+    // Detect auto-block boundaries by anchor text
+    if (ptxt.indexOf('Roll-call vote') !== -1 || ptxt.indexOf('Party-line loyalty') !== -1) {
+      autoBlockState = 'voting';
+    } else if (ptxt.indexOf('Lifetime federal FEC') !== -1 ||
+               (ptxt.indexOf('Party:') !== -1 && ptxt.indexOf('Chamber:') !== -1)) {
+      autoBlockState = 'donors';
+    }
+
+    if (autoBlockState === 'voting') {
+      autoBlockVoting.push(pel);
+    } else if (autoBlockState === 'donors') {
+      autoBlockDonors.push(pel);
+    } else {
+      truePreContent.push(pel);
+    }
   }
 
-  // Add all cards
+  // Render true preamble (H1 etc.) above the tab nav
+  for (var j = 0; j < truePreContent.length; j++) {
+    article.appendChild(truePreContent[j]);
+  }
+
+  // Create synthetic donors card (data-panel + FEC lifetime tables)
+  if (autoBlockDonors.length > 0) {
+    var donorAutoCard = document.createElement('div');
+    donorAutoCard.className = 'profile-section-card psc-donors psc-auto-block';
+    donorAutoCard.dataset.tab = 'donors';
+    for (var dai = 0; dai < autoBlockDonors.length; dai++) {
+      donorAutoCard.appendChild(autoBlockDonors[dai]);
+    }
+    fragment.appendChild(donorAutoCard);
+  }
+
+  // Create synthetic voting card (voting record tables)
+  if (autoBlockVoting.length > 0) {
+    var votingAutoCard = document.createElement('div');
+    votingAutoCard.className = 'profile-section-card psc-voting psc-auto-block';
+    votingAutoCard.dataset.tab = 'voting';
+    for (var vai = 0; vai < autoBlockVoting.length; vai++) {
+      votingAutoCard.appendChild(autoBlockVoting[vai]);
+    }
+    fragment.appendChild(votingAutoCard);
+  }
+
+  // Add all H2-based section cards
   article.appendChild(fragment);
 
   article.dataset.sectionsWrapped = 'true';
