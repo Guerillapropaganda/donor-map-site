@@ -1022,6 +1022,13 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
   // All leaderboard variants run off the relationships.jsonl edge store directly
   const topic = c.extra?.topic || "top_donors"
   const raw = fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
+  // Political leaderboards default to fec-* sourced edges. IRS 990 grants
+  // reflect DAF-to-nonprofit flows (Fidelity Charitable $843M → Silicon
+  // Valley Community Foundation, etc.) — real data but not political
+  // giving, and dominant enough to bury actual political donors when
+  // mixed in. For political questions, filter them out.
+  const POLITICAL_TOPICS = new Set(["top_donors", "top_superpacs", "top_pacs", "top_politicians"])
+  const politicalOnly = POLITICAL_TOPICS.has(topic)
   type Agg = { edges: number; total: number; support: number; oppose: number; donation: number }
   const mkAgg = (): Agg => ({ edges: 0, total: 0, support: 0, oppose: 0, donation: 0 })
   const byFrom = new Map<string, Agg>()
@@ -1031,6 +1038,15 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
     try {
       const e = JSON.parse(line)
       if (e.type !== "monetary" || !e.amount) continue
+      // Drop self-edges (Honeywell→Honeywell employee-aggregation artifacts,
+      // Morgan Stanley GIF→itself DAF accounting, etc.) — 406 in the store
+      if (e.from === e.to) continue
+      // For political leaderboards, exclude IRS 990 grantmaking flows.
+      if (politicalOnly && e.source === "irs-990-bulk") continue
+      // Employee-contributions are pass-through aggregate signal via
+      // conduits — exclude from "top donor" rankings to avoid double-
+      // counting the same dollars already tallied under the corporate PAC
+      if (politicalOnly && e.role === "employee-contributions") continue
       const amt = Number(e.amount) || 0
       const bucket = e.role === "ie-oppose" ? "oppose" : e.role === "ie-support" ? "support" : "donation"
       const a = byFrom.get(e.from) || mkAgg()
@@ -1140,6 +1156,7 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
       const e = JSON.parse(line)
       if (e.type !== "monetary" || !e.amount) continue
       if (e.role === "ie-oppose") continue
+      if (e.from === e.to) continue  // no self-edges in BFS graph
       const arr = adj.get(e.from) || []
       arr.push({ to: e.to, amount: Number(e.amount), cycle: e.cycle, source: e.source, role: e.role })
       adj.set(e.from, arr)
@@ -1430,7 +1447,13 @@ async function handleQuestion(question: string): Promise<AskResult> {
       const vr = await engine.query({ subject: "edges", filters: { to: v, type: "monetary" }, limit: 200 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
-    const r = { total: allEdges.length, rows: allEdges }
+    // Drop self-ref edges. 406 exist in the store (Honeywell→Honeywell from
+    // employee aggregation, Morgan Stanley GIF→itself from DAF accounting,
+    // politician→self from leadership-PAC→campaign-committee resolution).
+    // They're real data but misleading in a donor list — a committee isn't
+    // "donating to itself."
+    const filtered = allEdges.filter((e: any) => e.from !== e.to)
+    const r = { total: filtered.length, rows: filtered }
     // Split IE-support vs IE-oppose: super-PAC ads "opposing" X are not
     // donors TO X. The edge.role field carries ie-support / ie-oppose.
     const supporters = r.rows.filter((e: any) => e.role !== "ie-oppose")
@@ -1496,7 +1519,9 @@ async function handleQuestion(question: string): Promise<AskResult> {
       const vr = await engine.query({ subject: "edges", filters: { from: v, type: "monetary" }, limit: 200 })
       for (const row of vr.rows) allEdges.push({ ...row, _via: v })
     }
-    const r = { total: allEdges.length, rows: allEdges }
+    // Drop self-ref edges (see donors_to — same rationale)
+    const filtered = allEdges.filter((e: any) => e.from !== e.to)
+    const r = { total: filtered.length, rows: filtered }
     const rows = [...r.rows].sort((a: any, b: any) => (b.amount || 0) - (a.amount || 0)).slice(0, 50)
     const total$ = rows.filter((e: any) => e.amount).reduce((acc: number, e: any) => acc + (Number(e.amount) || 0), 0)
 

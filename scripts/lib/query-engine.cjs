@@ -409,8 +409,16 @@ function createInMemoryEngine() {
   function query(spec = {}) {
     const subject = spec.subject || "edges"
     const filters = spec.filters || {}
-    const limit = clampLimit(filters.limit ?? 100)
-    const offset = filters.offset ?? 0
+    // Accept limit/offset at BOTH the spec level and inside filters. Many
+    // callers naturally write `engine.query({ subject, filters: {...},
+    // limit: 500 })` expecting the top-level limit to apply; the original
+    // API only read `filters.limit`, silently truncating those calls to
+    // the default of 100 rows. Every call site in ops/src/app/api/ask/
+    // hit this bug and missed the tail of 150+-edge donor lists (FF PAC
+    // $542M / Fairshake $312M to Harris were being dropped below the cut).
+    // Fix: read spec.limit first, fall back to filters.limit, then 100.
+    const limit = clampLimit(spec.limit ?? filters.limit ?? 100)
+    const offset = spec.offset ?? filters.offset ?? 0
 
     // Class-analysis composers are special query subjects (pre-aggregated,
     // always bounded by their own logic, so no unbounded-query gate needed)
