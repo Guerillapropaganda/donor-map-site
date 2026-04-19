@@ -39,6 +39,12 @@ type Intent =
   | "money_chain"
   | "generic"
 
+interface EntityContext {
+  name: string
+  gloss: string               // 1-sentence "what is this" label
+  blurb?: string              // first paragraph from the profile's "Who They Are" section
+}
+
 interface AskResult {
   question: string
   intent: Intent
@@ -50,6 +56,7 @@ interface AskResult {
   rows: unknown[]
   answer?: string         // headline prose answer
   bullets?: string[]      // supporting bullet points
+  context?: EntityContext[]   // 1-sentence explainers for each entity mentioned
   summary?: string        // one-line meta, smaller
   note?: string
 }
@@ -158,6 +165,71 @@ function resolveTitle(fragment: string): ResolveResult {
 function findEntity(title: string): EntityRec | null {
   const ents = loadEntities()
   return ents.find((e) => e.name === title) || null
+}
+
+// ─── Entity context: 1-sentence explainer + first paragraph from profile ─
+
+const _blurbCache = new Map<string, string>()
+function loadBlurb(profilePath: string | undefined): string {
+  if (!profilePath) return ""
+  if (_blurbCache.has(profilePath)) return _blurbCache.get(profilePath)!
+  try {
+    const abs = path.join(REPO_ROOT, profilePath)
+    if (!fs.existsSync(abs)) return ""
+    const text = fs.readFileSync(abs, "utf-8")
+    // Strip frontmatter + auto-blocks, find first real "Who They Are"/"Who
+    // He Is"/"Who She Is" paragraph, else first real paragraph under any
+    // H2.
+    const body = text.replace(/^---\n[\s\S]*?\n---\n/, "").replace(/<!-- auto:[^\n]*start[\s\S]*?<!-- auto:[^\n]*end -->/g, "")
+    const whoMatch = body.match(/##\s+(?:Who They Are|Who (?:He|She) Is|About)[^\n]*\n+([^\n#][\s\S]*?)(?=\n##|\n\n\n|$)/i)
+    let para = whoMatch ? whoMatch[1] : ""
+    if (!para) {
+      const anyH2 = body.match(/##\s+[^\n]+\n+([^\n#][\s\S]*?)(?=\n##|\n\n\n|$)/)
+      para = anyH2 ? anyH2[1] : ""
+    }
+    para = para
+      .replace(/<!--[\s\S]*?-->/g, "")  // kill HTML comments
+      .replace(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/g, "$1")  // wikilinks -> plain
+      .replace(/\*\*([^*]+)\*\*/g, "$1")
+      .replace(/\s+/g, " ")
+      .trim()
+    // Trim to first 2 sentences, cap length
+    const sentences = para.split(/(?<=[.!?])\s+/).slice(0, 2).join(" ")
+    const trimmed = sentences.length > 400 ? sentences.slice(0, 397) + "..." : sentences
+    _blurbCache.set(profilePath, trimmed)
+    return trimmed
+  } catch {
+    return ""
+  }
+}
+
+function explainEntity(name: string): EntityContext {
+  const ent = findEntity(name)
+  if (!ent) return { name, gloss: "(not in vault)" }
+  const kind = ent.entity_type || "entity"
+  const sector = (ent.signals as any)?.sector as string | undefined
+  const ein = (ent.signals as any)?.ein as string | undefined
+  const classTags: string[] = []
+  if (ent.capital_type) classTags.push(ent.capital_type)
+  if (ent.ideological_function?.length) classTags.push(...ent.ideological_function)
+
+  // Known structural types for common intermediaries
+  const lower = name.toLowerCase()
+  let structural = ""
+  if (lower.includes("charitable fund") || lower.includes("philanthropy fund") || lower.includes("charitable gift fund") || lower.includes("donor advised") || lower.includes("endowment program")) {
+    structural = " Commercial donor-advised fund (DAF) — donor identities are obscured from the public; money enters from one donor, flows out under the DAF's name."
+  } else if (lower.includes("foundation") && kind === "donor") {
+    structural = " Tax-exempt foundation."
+  } else if (sector && /dark money/i.test(sector)) {
+    structural = " Part of the 501(c)(4) dark-money network — donor identities are not required to be disclosed."
+  } else if (sector && /super pac/i.test(sector)) {
+    structural = " Super PAC (independent-expenditure committee) — accepts unlimited donations but must disclose them."
+  }
+
+  const tagStr = classTags.length > 0 ? ` Class tags: ${classTags.join(", ")}.` : ""
+  const gloss = `${kind}${sector ? " (" + sector + ")" : ""}${ein ? ", EIN " + ein : ""}.${structural}${tagStr}`.trim()
+  const blurb = loadBlurb(ent.profile_path)
+  return { name, gloss, blurb: blurb || undefined }
 }
 
 // ─── Bioguide lookup for voting records ──────────────────────────────
@@ -408,6 +480,7 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
       rows: rows.slice(0, 50),
       answer,
       bullets,
+      context: [explainEntity(a.title), explainEntity(b.title)],
       summary: parts.join("; "),
     }
   }
@@ -560,6 +633,11 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
       ? ` Most flows move through the ${boards.length} org${boards.length === 1 ? "" : "s"} this person chairs, not their personal name.`
       : "")
 
+  // Also explain the top orgs this person/entity is connected to
+  const contextNames = new Set<string>([name])
+  for (const b of boards.slice(0, 3)) if (b.to) contextNames.add(b.to as string)
+  const context = [...contextNames].map((n) => explainEntity(n))
+
   return {
     question,
     intent: "summary",
@@ -569,6 +647,7 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
     rows,
     answer,
     bullets,
+    context,
     summary: `${inflows.total} inbound, ${outflows.total} outbound, ${affiliations_from.total + affiliations_to.total} affiliations${viaOrgs.length > 0 ? ", " + viaOrgs.length + " via-org flows" : ""}.`,
   }
 }
@@ -696,6 +775,12 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
 
   paths.sort((x, y) => y.min_amount - x.min_amount)
 
+  // Collect distinct intermediary entities seen across top-ranked paths
+  // so we can explain what each node is.
+  const nodesSeen = new Set<string>([a.title, b.title])
+  for (const p of paths.slice(0, 5)) for (const n of p.path) nodesSeen.add(n)
+  const context = [...nodesSeen].map((name) => explainEntity(name))
+
   let answer: string
   const bullets: string[] = []
   if (paths.length === 0) {
@@ -727,6 +812,7 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
     rows: paths.slice(0, 10),
     answer,
     bullets,
+    context,
     summary: paths.length === 0 ? `0 paths within ${maxDepth} hops` : `${paths.length} path(s) examined (${examined} nodes visited).`,
   }
 }

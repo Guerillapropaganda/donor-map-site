@@ -21,6 +21,12 @@ import { useState } from "react"
 
 type Row = Record<string, unknown>
 
+interface EntityContext {
+  name: string
+  gloss: string
+  blurb?: string
+}
+
 interface AskResponse {
   question: string
   intent: string
@@ -31,6 +37,7 @@ interface AskResponse {
   rows: Row[]
   answer?: string
   bullets?: string[]
+  context?: EntityContext[]
   summary?: string
   note?: string
   error?: string
@@ -225,6 +232,19 @@ function ResultCard({ r }: { r: AskResponse }) {
           </ul>
         )}
 
+        {r.context && r.context.length > 0 && (
+          <div style={styles.contextWrap}>
+            <div style={styles.contextLabel}>Who these are</div>
+            {r.context.map((c, i) => (
+              <div key={i} style={styles.contextItem}>
+                <div style={styles.contextName}>{c.name}</div>
+                <div style={styles.contextGloss}>{c.gloss}</div>
+                {c.blurb && <div style={styles.contextBlurb}>{c.blurb}</div>}
+              </div>
+            ))}
+          </div>
+        )}
+
         {r.resolved_title && r.resolved_title !== r.question && !r.answer && (
           <div style={styles.resolved}>
             resolved to: <strong>{r.resolved_title}</strong>
@@ -350,6 +370,12 @@ const styles: Record<string, React.CSSProperties> = {
   note: { fontSize: 13, color: "#ccc", fontStyle: "italic" },
   detailsWrap: { marginTop: 12, borderTop: "1px solid #222", paddingTop: 8 },
   detailsSummary: { cursor: "pointer", fontSize: 11, color: "#888", textTransform: "uppercase", letterSpacing: 1, userSelect: "none", marginBottom: 8 },
+  contextWrap: { marginTop: 14, padding: "12px 14px", background: "#0f0f0f", border: "1px solid #2a2a2a" },
+  contextLabel: { fontSize: 10, fontWeight: 700, color: "#888", letterSpacing: 2, textTransform: "uppercase", marginBottom: 8 },
+  contextItem: { marginBottom: 10 },
+  contextName: { fontSize: 14, fontWeight: 700, color: "#fbbf24" },
+  contextGloss: { fontSize: 13, color: "#bbb", marginBottom: 3 },
+  contextBlurb: { fontSize: 12, color: "#999", lineHeight: 1.5, fontStyle: "italic" },
   tableWrap: { overflowX: "auto" },
   table: { width: "100%", borderCollapse: "collapse", fontSize: 12 },
   th: { textAlign: "left", padding: "6px 8px", background: "#222", color: "#aaa", fontWeight: 600, fontSize: 11, textTransform: "uppercase", letterSpacing: 1 },
