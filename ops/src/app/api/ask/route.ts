@@ -1146,7 +1146,17 @@ async function handleSummary(c: ClassifiedQuestion, question: string, engine: an
 async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engine: any): Promise<AskResult> {
   // All leaderboard variants run off the relationships.jsonl edge store directly
   const topic = c.extra?.topic || "top_donors"
-  const raw = fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
+  const _mainRaw = fs.existsSync(path.join(REPO_ROOT, "data", "relationships.jsonl"))
+      ? fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
+      : ""
+    const _derivedDir = path.join(REPO_ROOT, "data", "derived")
+    const _derivedParts: string[] = []
+    if (fs.existsSync(_derivedDir)) {
+      for (const df of fs.readdirSync(_derivedDir).sort()) {
+        if (df.endsWith(".jsonl")) _derivedParts.push(fs.readFileSync(path.join(_derivedDir, df), "utf-8"))
+      }
+    }
+    const raw = _mainRaw + "\n" + _derivedParts.join("\n")
   // Political leaderboards default to fec-* sourced edges. IRS 990 grants
   // reflect DAF-to-nonprofit flows (Fidelity Charitable $843M → Silicon
   // Valley Community Foundation, etc.) — real data but not political
@@ -1273,7 +1283,17 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
   // not a transfer TO them, so treating it as a graph edge produces
   // nonsense "money chains" where cash appears to flow to a target who
   // was actually being attacked.
-  const raw = fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
+  const _mainRaw = fs.existsSync(path.join(REPO_ROOT, "data", "relationships.jsonl"))
+      ? fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
+      : ""
+    const _derivedDir = path.join(REPO_ROOT, "data", "derived")
+    const _derivedParts: string[] = []
+    if (fs.existsSync(_derivedDir)) {
+      for (const df of fs.readdirSync(_derivedDir).sort()) {
+        if (df.endsWith(".jsonl")) _derivedParts.push(fs.readFileSync(path.join(_derivedDir, df), "utf-8"))
+      }
+    }
+    const raw = _mainRaw + "\n" + _derivedParts.join("\n")
   const adj = new Map<string, Array<{ to: string; amount: number; cycle?: string; source: string; role?: string }>>()
   for (const line of raw.split("\n")) {
     if (!line.trim()) continue
@@ -1829,6 +1849,20 @@ export async function POST(req: NextRequest) {
         if (stat.mtimeMs > maxMtime) maxMtime = stat.mtimeMs
       } catch {}
     }
+    // Also watch every file in data/derived/ — FEC + IRS ingest targets
+    // after the 2026-04 canonical/derived split.
+    try {
+      const derivedDir = path.join(REPO_ROOT, "data", "derived")
+      if (fs.existsSync(derivedDir)) {
+        for (const df of fs.readdirSync(derivedDir)) {
+          if (!df.endsWith(".jsonl")) continue
+          try {
+            const stat = fs.statSync(path.join(derivedDir, df))
+            if (stat.mtimeMs > maxMtime) maxMtime = stat.mtimeMs
+          } catch {}
+        }
+      }
+    } catch {}
     if (maxMtime > ASK_CACHE_LAST_DATA_MTIME) {
       ASK_CACHE.clear()
       entitiesCache = null
