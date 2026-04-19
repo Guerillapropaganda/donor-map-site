@@ -2,7 +2,9 @@
 title: Steve Daines
 type: politician
 content-readiness: draft
-last-updated: 2026-04-12T00:00:00.000Z
+central-thesis: "Steve Daines is the NRSC chair whose Montana donor map combines fossil-fuel capital (Occidental, Marathon, Valero, ConocoPhillips, Chevron, Drummond, Duke Energy), defense contractors, and the full Republican corporate PAC slate, producing a 95.1% party-loyalty record that services the donor base and a leadership role that extends that service across the Republican Senate conference."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -155,7 +157,88 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 
 # Steve Daines
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Steve Daines. Republican, Montana. US Senator since January 2015. Previously represented Montana At-Large in the House 2013-2015. Born August 1962. Pre-politics career at Procter & Gamble and then as a senior vice president at RightNow Technologies, a Montana-based software company acquired by Oracle in 2012. Chair of the NRSC for the 2024 cycle, producing a 53-47 Senate Republican majority and directly responsible for the IE spending operations that targeted Slotkin, Rosen, Brown, and Casey. Assigned to Finance, Appropriations, Energy & Natural Resources, and Indian Affairs across recent Congresses. 95.1% party-line loyalty across 2,673 substantive votes.
+
+---
+
+## The Central Thesis
+
+Daines is the NRSC chair whose Montana donor map combines fossil-fuel capital (Occidental Petroleum, Marathon Petroleum, Valero Energy, ConocoPhillips, Chevron, Drummond Co., Duke Energy) with the standard Republican corporate PAC slate (pharma: Pfizer, AbbVie, Gilead, Amgen, Johnson & Johnson; defense: Lockheed, Raytheon, Northrop Grumman, General Dynamics, BAE, Honeywell; finance: Morgan Stanley, Bank of America, Citigroup; tech: Microsoft, Google, Coinbase). The NRSC chairmanship leveraged Daines's $5.0 million in AFP Action support plus $1.3 million from NAR into a national fundraising operation that directed $18.9 million against Rosen, $32.3 million against Slotkin, and tens of millions more against Democratic incumbents. The job description is donor-class coordinator for the Republican Senate conference. Montana's fossil-fuel and extractive-capital base anchors the home-state politics. The NRSC seat converts it into a national political operation.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Daines campaigns in Montana as a plainspoken small-business conservative, with biographical emphasis on his Procter & Gamble and RightNow Technologies career and on Montana agricultural-interest positioning. Meanwhile, **his donor list includes Occidental Petroleum, Marathon Petroleum, Valero Energy, ConocoPhillips, Chevron, Drummond Co., CoreCivic (private prisons), AIPAC PAC, and the defense-contractor full slate**, placing him inside the concentrated national donor-class networks that his public Montana-local framing disclaims. The NRSC chairmanship makes the structural role explicit: Daines's job is not to represent Montana. It is to produce a Republican Senate majority funded by the national donor class, and to enforce conference discipline on the votes that protect that donor class's interests.
+
+---
+
+## Donor Class Map
+
+### Top direct PAC donors (lifetime)
+- **NRSC**: $107K (counts as leadership-support, not external)
+- **Legacy Victory Committee 2014**: $57K
+- **Action Committee for Rural Electrification (ACRE)**: $40K
+- **Safari Club International PAC**: $38K
+- **MassMutual Life Insurance PAC**: $35K
+- **ONEOK (natural gas pipeline) PAC**: $34K
+- **National Association of Convenience Stores PAC**: $30K
+- **ARKPAC (Arkansas leadership)**: $30K
+- **National Restaurant Association**: $29K
+- **Susan B Anthony List Candidate Fund**: $29K
+
+### Top super-PAC IE support (FOR)
+- **Americans for Prosperity Action (Koch network)**: $5.0M
+- **National Association of Realtors Congressional Fund**: $1.3M
+- **Senate Conservatives Fund**: $717K
+- **Credit Union CUNA**: $300K
+- **US Chamber of Commerce**: $250K
+
+### Top super-PAC IE opposition (AGAINST)
+- **DSCC**: $18.4M
+- **SMP (Senate Majority PAC)**: $16.8M
+- **LCV Victory Fund**: $4.3M
+- **Montana Hunters and Anglers Leadership Fund**: $2.0M
+- **EDF Action Votes**: $1.5M
+
+### Sector composition
+Fossil-fuel capital dominates the sector profile: Occidental, Marathon, Valero, ConocoPhillips, Chevron, Drummond, Duke Energy, NextEra, PG&E. Pharma (Pfizer, AbbVie, Gilead, Amgen, Johnson & Johnson, Humana, Anthem, CVS-Aetna). Defense (Lockheed, Raytheon, Northrop Grumman, General Dynamics, BAE, Honeywell). Finance (Morgan Stanley, Bank of America, Citigroup). Tech (Microsoft, Google, Coinbase, DoorDash). Carceral capital (CoreCivic). Israel lobby (AIPAC, Tzedek PAC). Safari Club International PAC signals NRA-adjacent sportsmen-industry alignment important in Montana.
+
+> [!money]
+> **The $5 Million Koch Problem.** Americans for Prosperity Action, the Koch network's electoral arm, contributed $5.0 million to Daines's IE support, the largest single super-PAC backing in his donor map. The Koch network's top priorities are deregulation of fossil-fuel and industrial operations, anti-union policy, and opposition to corporate tax increases. Daines's voting record on EPA rulemaking, labor relations, and the 2017 TCJA delivers on each of those priorities. The AFP Action contribution is not a gift. It is the purchase price of a Senate vote that would have been cheaper to buy from a backbench senator. Daines's NRSC chairmanship inflates the purchase price because it guarantees the same vote gets replicated across the Republican conference.
+
+---
+
+## Class Analysis
+
+Daines is the clearest current example of how fossil-fuel and extractive-capital donor networks operate inside the Republican Senate caucus. The Montana home-state alignment (Drummond Co., ONEOK natural gas, mining interests, Safari Club) provides the local-politics cover for what is structurally a national operation. The NRSC chairmanship converts that local base into a national donor-coordination role. AFP Action's $5 million IE contribution is the operational signal: the Koch network is not buying a Montana senator. It is buying a Senate Republican leadership position through which the Koch policy agenda (deregulation, anti-union, corporate tax preservation, fossil-fuel extraction) gets enforced across the conference.
+
+The pharma donor layer is the second structural piece. Pfizer, AbbVie, Gilead, Amgen, Johnson & Johnson, Humana, Anthem, and CVS-Aetna all appear on his donor list. Daines's Finance Committee seat makes this seat relevant for drug-pricing legislation, Medicare Advantage rate-setting, and pharma-specific tax provisions. The pattern that governs every Republican Finance Committee senator governs him too: pharma-industry donors distributed widely across the committee, with the concentration varying by seniority and by specific subcommittee assignment. The output is remarkable consistency on the industry's priorities (opposition to Medicare negotiation, preservation of orphan-drug protections, opposition to IRA drug-pricing provisions) regardless of which senator is in the lead role.
+
+The defense-contractor donor layer (Lockheed, Raytheon, Northrop Grumman, General Dynamics, BAE, Honeywell) is the third piece. Montana hosts Malmstrom Air Force Base, which operates ICBM silo fields that require continuous modernization funding. Daines's Armed Services-adjacent work and his Appropriations seat make him a reliable vote on NDAA authorization growth and on the Sentinel ICBM replacement program specifically. The defense donors are buying Montana-specific project protection plus the general NDAA vote, and both get delivered.
+
+The systemic observation is that Daines demonstrates how Republican Senate leadership roles get funded. The money comes from the concentrated donor networks (Koch, fossil-fuel, pharma, defense, Israel lobby) that benefit most from concentrated policy outputs. The NRSC chairmanship is the mechanism that converts leadership-level donor support into conference-wide policy delivery. Replace Daines with another Republican senator from a Western extractive-economy state and the arrangement runs identically. The role produces the donor-class returns. The specific officeholder is downstream.
+
+---
+
+## Analytical Patterns
+
+**Donor-Class Override.** Montana polling shows substantial support for some clean-energy development and for conservation policy. Daines's votes on EPA rulemaking and fossil-fuel lease authorizations run consistently against the clean-energy position, reflecting the concentrated donor preference from Occidental, Marathon, Valero, ConocoPhillips, and Chevron rather than the diffuse state-voter preference.
+
+**Revolving Door.** Daines's career path (Procter & Gamble → RightNow Technologies → Congress → NRSC chair) is itself a corporate-to-political pipeline, and his staff includes alumni from the major lobbying firms that represent the fossil-fuel and pharma donors on his list.
+
+**Genuine Win + Structural Limit.** Daines has delivered real Montana-specific wins on Malmstrom AFB modernization, wildfire appropriations, and infrastructure funding for rural Montana. The structural limit is that none of those wins touches the donor-class budget envelope. The Koch-priority deregulation agenda, the pharma-priority Medicare-negotiation opposition, and the fossil-fuel-priority extraction agenda all proceed unchanged.
+
+**Pilot Program.** Daines's NRSC chairmanship produced the 2024 Republican Senate majority through a specific playbook: concentrate IE spending against vulnerable Democratic incumbents, fund primary-discipline operations to clear the Republican field, and layer AFP Action, Senate Conservatives Fund, and state-specific super PACs on top of direct NRSC spending. The 2024 playbook will serve as the pilot for 2026 and 2028 cycles.
+
+**Both-Sides Illusion (bipartisan-donor variant).** AIPAC PAC appears on Daines's donor list alongside NAR, ATR, Chamber of Commerce, and the standard Republican corporate slate. The same AIPAC PAC appears on Rosen's and van Hollen's donor lists. The Israel-lobby network does not care which party holds the seat. It cares about the vote, which both parties deliver.
+
+**Villain Framing.** Daines's NRSC messaging cast Democratic senators as extremists and socialists in 2024 IE ad buys. The framing is standard partisan combat. The structural point is that the donor networks funding both parties converge on many of the same substantive outcomes (fossil-fuel extraction, defense authorization, pharma industry protection, AIPAC alignment) regardless of which party wins.
+
+---
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->

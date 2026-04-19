@@ -1,8 +1,10 @@
 ---
 title: Andy Kim
 type: politician
-content-readiness: raw
-last-updated: 2026-04-15T00:00:00.000Z
+content-readiness: draft
+central-thesis: "Andy Kim is the reform-brand Democrat who defeated the Menendez machine in 2024 with a donor coalition that tracks his stated politics more closely than most Democratic senators: J Street rather than AIPAC, labor unions rather than defense contractors, End Citizens United rather than corporate PACs. The result is a 96.1% party-line loyalty record that operates without the donor-class override pressure that shapes his colleagues."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -147,7 +149,84 @@ top-policy-area: Health
 
 # Andy Kim
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Andy Kim. Democrat, New Jersey. US Senator since December 2024, appointed by Gov. Murphy after Bob Menendez's resignation following his federal prosecution, then elected in November 2024 to the full term. Previously served NJ-3 in the House (2019 to 2024). Born July 1982, Korean-American, Rhodes Scholar, former State Department and National Security Council staff under Obama (Iraq and Afghanistan portfolios). Assigned to Senate Foreign Relations and Homeland Security & Governmental Affairs. Top policy area is Health. 25 bills sponsored, 567 cosponsored, 1 enacted in the 118th Congress. Voting record: 96.1% party-line loyalty across 1,869 substantive votes, 71 deviations (the lowest deviation count among the Senate Democrats profiled in this vault).
+
+---
+
+## The Central Thesis
+
+Kim is the reform-brand Democrat who defeated the Menendez machine in 2024, and the donor map tracks the brand more closely than most Democratic senators. J Street (the pro-Israel, pro-two-state-solution alternative to AIPAC) is his top direct PAC donor at $17K across 25 transactions. End Citizens United is on the list. Indivisible Action, Sierra Club, Progressive Turnout Project. The super-PAC IE opposition against him was only $325K total, an order of magnitude lower than Slotkin or Rosen, because New Jersey is safe Democratic and because Kim's primary challenge to Menendez removed the corruption-liability anchor that Republicans would have needed to make the seat competitive. The result is a senator operating without the donor-class override pressure that shapes his swing-state colleagues' voting records. The 96.1% party-line loyalty is what coalition discipline looks like when the donor coalition does not require ideological triangulation.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Kim's public brand is anti-establishment reform, anchored by the sit-in image on the January 6 Capitol floor (picking up debris after the riot) and by his primary challenge to Menendez before Menendez's federal indictment. The reform identity is real and grounded in documented conduct. Meanwhile, **his direct-PAC donor list includes J Street PAC, American Crystal Sugar PAC, and National Association of Realtors**, and his policy work on his Foreign Relations seat requires continuous engagement with the national-security establishment he previously staffed. The contradiction is not that Kim is secretly captured. It is that "reform" in the Senate context operates through the same structural channels (PAC giving, IE-supported campaigns, committee-donor relationship management) as the establishment politics he positioned himself against. The reform brand produces a different donor composition, not a different political-economic process.
+
+---
+
+## Donor Class Map
+
+### Top direct PAC donors (lifetime)
+- **J Street PAC**: $17K across 25 transactions (the largest and most consistent commitment)
+- **American Crystal Sugar PAC**: $15K
+- **NAPUS Postmasters PAC**: $15K
+- **End Citizens United**: $11K
+- **JEFF PAC**: $10K
+- **Progressive Turnout Project**: $10K
+- **SEIU**: $10K
+- **Letter Carriers Political Action Fund**: $10K
+- **LOBO PAC**: $10K
+- **Hawaii PAC**: $10K
+
+### Top super-PAC IE support (FOR)
+- **Leadership with Integrity PAC**: $885K
+- **Working New Jersey**: $310K
+- **With Honor Fund II** (veterans-oriented PAC): $40K
+- **Make the Road Action (immigrant-rights)**: $39K
+- **End Citizens United**: $24K
+
+### Top super-PAC IE opposition (AGAINST)
+- **United 2024**: $325K (total opposition spending)
+
+### Sector composition
+Labor unions dominate (SEIU, Teamsters, IBEW, AFSCME, UFCW, Unite Here, NEA). Environmental (Sierra Club, League of Conservation Voters, Environment America). Progressive movement organizations (Indivisible Action, Progressive Turnout Project, End Citizens United, Let America Vote). Pro-Israel: J Street (not AIPAC). Health care: American Hospital Association, American Association of Orthopaedic Surgeons. Real estate: NAR, National Multifamily Housing Council. Notably absent from the top tier: defense contractors, fossil-fuel companies, pharma giants, and the Republican corporate PAC slate that appears on most senators' lists.
+
+> [!money]
+> **The Reform Coalition Anomaly.** Kim's $1.3M in super-PAC IE support and $325K in opposition is roughly 2-3% of Slotkin's total IE footprint and 3% of Rosen's. The donor ecology therefore looks fundamentally different: a reform-Democrat coalition funded by labor, progressive movement organizations, and J Street, rather than the Democratic corporate-moderate coalition funded by defense, pharma, and AIPAC. The structural question is whether this donor ecology survives the transition from winning a primary against a scandal-liability incumbent to operating as a sitting senator with Foreign Relations jurisdiction. The first term will test whether the donor composition holds when Kim becomes a bill-sponsor and committee-vote source rather than a challenger to a weakened incumbent.
+
+---
+
+## Class Analysis
+
+Kim represents a specific niche in the Democratic coalition: the reform-Democrat variant that captures progressive energy without becoming an ideological outlier on national-security or foreign-policy questions. The career trajectory (State Department and NSC Iraq/Afghanistan portfolio under Obama) places him inside the Democratic foreign-policy establishment. The J Street alignment rather than AIPAC alignment signals two-state-solution orthodoxy rather than unconditional-aid orthodoxy. The Foreign Relations committee assignment is therefore the load-bearing seat, because it is where the distinction between the two Israel-policy positions becomes operationally visible on weapons transfers and conditions-on-aid votes.
+
+The donor coalition is structured around labor unions, progressive movement organizations, and reform-oriented PACs (End Citizens United, With Honor Fund for veterans, Make the Road Action for immigrant communities). This coalition has a distinct set of policy demands: union organizing rights, progressive tax policy, immigration protection, campaign finance reform, and a foreign policy that conditions aid on human-rights criteria. What distinguishes this coalition from the Rosen/Slotkin/van Hollen coalition is what it does not include: the defense-contractor full slate, the pharma-giant donor layer, and AIPAC. The absence of those donors produces different freedom-of-movement on the votes those donors police.
+
+The voting record's 96.1% party-line loyalty with only 71 deviations is consistent with a senator operating inside the Democratic coalition's structural consensus rather than triangulating between the coalition and a donor-class pressure that would pull him rightward. The deviations are not available for detailed review in the data extract, but the low count itself is the significant fact. Kim has less donor-class-imposed pressure to vote against the caucus on nominations, appropriations, and NDAA authorizations than swing-state Democrats do, because his donor coalition does not require those deviations.
+
+The systemic observation is that Kim is a test case for whether reform-Democrat politics can operate at the Senate level without drifting into the donor-class-funded moderate pattern over time. The typical trajectory is that a reform-brand freshman senator accumulates incumbent fundraising advantages, begins receiving corporate PAC giving as a matter of Senate-institutional norm, and drifts toward the Rosen/Slotkin coalition structure by the second term. Whether Kim avoids that trajectory or follows it will be the empirical question his vault entry needs to track across 2026 and 2028. The reform-brand entry point does not guarantee reform-brand steady-state operation.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** Kim's primary-then-general defeat of the Menendez machine is a real reform victory, and his coalition composition is genuinely different from the typical Democratic senator. The structural limit is that the Senate itself imposes institutional norms (corporate PAC acceptance, seniority-based committee assignments, donor-class staffing pipelines) that erode reform-brand distinction over time. The pattern to watch is whether Kim's donor map looks like it does now in 2030.
+
+**Two-Audience Problem (reform-inverted).** Most Democratic senators have one message for voters and another for donors. Kim's reform brand produces an unusually coherent alignment between the two. The public audience hears the anti-corruption framing. The donor audience is largely composed of organizations that support the anti-corruption framing. The coherence is notable and temporary.
+
+**Donor-Class Override (anticipatory).** Kim's J Street alignment rather than AIPAC alignment is the most visible donor-class distinction. AIPAC PAC does not appear in his top direct donors. The structural question is whether AIPAC will target Kim in 2030 if his voting record on Israel aid diverges from AIPAC preferences, and whether the J Street and progressive-coalition donor base can provide a counterweight large enough to resist a $14.9M Bowman-style IE campaign.
+
+**Revolving Door.** Kim's pre-Congress career (State Department, NSC, Iraq and Afghanistan portfolios) is itself a Democratic foreign-policy-establishment pipeline. The reform brand operates on top of a standard Washington career path, not instead of one.
+
+**Self-Funding as Independence** does not apply. Kim is not a self-funded candidate. The relevant pattern is **small-donor + movement-PAC Independence**: a Democratic senator whose coalition composition allows floor-vote independence from the corporate-donor pressure his colleagues face.
+
+**Pilot Program.** Kim's 2024 campaign is a pilot for whether reform-brand Democratic Senate politics is operationally viable at the national level. If Kim produces a substantively different six-year record from his coalition-peer senators, the template replicates. If his voting record converges on the caucus median by 2028, the template fails.
+
+---
 
 
 ### Legislative Activity (118th Congress)
