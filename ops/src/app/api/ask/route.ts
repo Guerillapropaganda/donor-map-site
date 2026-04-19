@@ -645,29 +645,49 @@ async function handleEdgeBetween(c: ClassifiedQuestion, question: string, engine
   const monetaryReverse = reverse.filter((e: any) => e.type === "monetary" && e.amount)
   const affiliationForward = forward.filter((e: any) => e.type === "affiliation")
   const affiliationReverse = reverse.filter((e: any) => e.type === "affiliation")
-  const fwdTotal = monetaryForward.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
-  const revTotal = monetaryReverse.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
+  // Split support vs opposition on each direction so we don't describe
+  // attack spending as "direct flows."
+  const fwdSupport = monetaryForward.filter((e: any) => e.role !== "ie-oppose")
+  const fwdOppose = monetaryForward.filter((e: any) => e.role === "ie-oppose")
+  const revSupport = monetaryReverse.filter((e: any) => e.role !== "ie-oppose")
+  const revOppose = monetaryReverse.filter((e: any) => e.role === "ie-oppose")
+  const fwdTotal = fwdSupport.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
+  const revTotal = revSupport.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
+  const fwdOpposeTotal = fwdOppose.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
+  const revOpposeTotal = revOppose.reduce((acc: number, e: any) => acc + Number(e.amount), 0)
 
   // If direct monetary edges exist, great — just show them.
   if (monetaryForward.length + monetaryReverse.length + affiliationForward.length + affiliationReverse.length > 0) {
+    const kindFor = (e: any) => e.role === "ie-oppose" ? "attack $" : e.role === "ie-support" ? "IE support $" : "direct $"
     const rows = [
-      ...monetaryForward.map((e: any) => ({ direction: "→", kind: "direct $", ...e })),
-      ...monetaryReverse.map((e: any) => ({ direction: "←", kind: "direct $", ...e })),
+      ...monetaryForward.map((e: any) => ({ direction: "→", kind: kindFor(e), ...e })),
+      ...monetaryReverse.map((e: any) => ({ direction: "←", kind: kindFor(e), ...e })),
       ...affiliationForward.map((e: any) => ({ direction: "→", kind: "affiliation", ...e })),
       ...affiliationReverse.map((e: any) => ({ direction: "←", kind: "affiliation", ...e })),
     ]
     const parts: string[] = []
-    if (monetaryForward.length) parts.push(`${a.title} → ${b.title}: ${monetaryForward.length} monetary edge(s), ${fmtUsd(fwdTotal)}`)
-    if (monetaryReverse.length) parts.push(`${b.title} → ${a.title}: ${monetaryReverse.length} monetary edge(s), ${fmtUsd(revTotal)}`)
+    if (fwdSupport.length) parts.push(`${a.title} → ${b.title}: ${fwdSupport.length} monetary edge(s), ${fmtUsd(fwdTotal)}`)
+    if (fwdOppose.length) parts.push(`${a.title} AGAINST ${b.title}: ${fwdOppose.length} IE-oppose edge(s), ${fmtUsd(fwdOpposeTotal)}`)
+    if (revSupport.length) parts.push(`${b.title} → ${a.title}: ${revSupport.length} monetary edge(s), ${fmtUsd(revTotal)}`)
+    if (revOppose.length) parts.push(`${b.title} AGAINST ${a.title}: ${revOppose.length} IE-oppose edge(s), ${fmtUsd(revOpposeTotal)}`)
     if (affiliationForward.length || affiliationReverse.length) parts.push(`${affiliationForward.length + affiliationReverse.length} affiliation edge(s)`)
 
-    const answer =
-      monetaryForward.length + monetaryReverse.length > 0
-        ? `**${a.title}** and **${b.title}** have ${fmtUsd((fwdTotal + revTotal))} in tracked direct flows${affiliationForward.length + affiliationReverse.length > 0 ? ` plus ${affiliationForward.length + affiliationReverse.length} officer/board affiliation(s)` : ""}.`
-        : `**${a.title}** and **${b.title}** are linked only by ${affiliationForward.length + affiliationReverse.length} affiliation edge(s). No direct dollar flows in the store.`
+    const supportSum = fwdTotal + revTotal
+    const opposeSum = fwdOpposeTotal + revOpposeTotal
+    let answer: string
+    if (supportSum > 0 && opposeSum > 0) {
+      answer = `**${a.title}** and **${b.title}** have ${fmtUsd(supportSum)} in tracked direct flows, PLUS ${fmtUsd(opposeSum)} in attack (IE-oppose) spending between them.`
+    } else if (supportSum > 0) {
+      answer = `**${a.title}** and **${b.title}** have ${fmtUsd(supportSum)} in tracked direct flows${affiliationForward.length + affiliationReverse.length > 0 ? ` plus ${affiliationForward.length + affiliationReverse.length} officer/board affiliation(s)` : ""}.`
+    } else if (opposeSum > 0) {
+      answer = `**${a.title}** and **${b.title}** have NO direct donations, but ${fmtUsd(opposeSum)} in attack (IE-oppose) spending${fwdOppose.length ? ` from ${a.title} against ${b.title}` : ""}${revOppose.length ? ` from ${b.title} against ${a.title}` : ""}.`
+    } else {
+      answer = `**${a.title}** and **${b.title}** are linked only by ${affiliationForward.length + affiliationReverse.length} affiliation edge(s). No direct dollar flows in the store.`
+    }
     const bullets: string[] = []
     for (const e of [...monetaryForward, ...monetaryReverse].sort((x: any, y: any) => y.amount - x.amount).slice(0, 5)) {
-      bullets.push(`${e.from} → ${e.to}: ${fmtUsd(Number(e.amount))}${e.cycle ? ` (${e.cycle})` : ""} [${e.source}]`)
+      const arrow = e.role === "ie-oppose" ? "AGAINST" : "→"
+      bullets.push(`${e.from} ${arrow} ${e.to}: ${fmtUsd(Number(e.amount))}${e.cycle ? ` (${e.cycle})` : ""} [${e.source}]`)
     }
     for (const e of [...affiliationForward, ...affiliationReverse].slice(0, 3)) {
       bullets.push(`${e.from} — ${e.role || "affiliation"} — ${e.to}${e.date_range ? ` (${e.date_range.slice(0, 4)}–${e.date_range.slice(-10, -6)})` : ""}`)
@@ -873,17 +893,21 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
   // All leaderboard variants run off the relationships.jsonl edge store directly
   const topic = c.extra?.topic || "top_donors"
   const raw = fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
-  const byFrom = new Map<string, { edges: number; total: number }>()
-  const byTo = new Map<string, { edges: number; total: number }>()
+  type Agg = { edges: number; total: number; support: number; oppose: number; donation: number }
+  const mkAgg = (): Agg => ({ edges: 0, total: 0, support: 0, oppose: 0, donation: 0 })
+  const byFrom = new Map<string, Agg>()
+  const byTo = new Map<string, Agg>()
   for (const line of raw.split("\n")) {
     if (!line.trim()) continue
     try {
       const e = JSON.parse(line)
       if (e.type !== "monetary" || !e.amount) continue
-      const a = byFrom.get(e.from) || { edges: 0, total: 0 }
-      a.edges++; a.total += Number(e.amount) || 0; byFrom.set(e.from, a)
-      const b = byTo.get(e.to) || { edges: 0, total: 0 }
-      b.edges++; b.total += Number(e.amount) || 0; byTo.set(e.to, b)
+      const amt = Number(e.amount) || 0
+      const bucket = e.role === "ie-oppose" ? "oppose" : e.role === "ie-support" ? "support" : "donation"
+      const a = byFrom.get(e.from) || mkAgg()
+      a.edges++; a.total += amt; a[bucket] += amt; byFrom.set(e.from, a)
+      const b = byTo.get(e.to) || mkAgg()
+      b.edges++; b.total += amt; b[bucket] += amt; byTo.set(e.to, b)
     } catch {}
   }
 
@@ -908,52 +932,77 @@ async function handleLeaderboard(c: ClassifiedQuestion, question: string, _engin
 
   let rows: Array<Record<string, unknown>> = []
   let summary = ""
+  // For "donor" leaderboards, rank by positive spend (direct donation + IE
+  // support). Attack spending (ie-oppose) is tracked separately as
+  // attack_spend so the UI can surface it as a distinct column. Sorting by
+  // raw total would elevate SLF PAC — a $500M attack operation — as a "top
+  // donor," which it is not.
+  const rowShape = (name: string, v: Agg) => ({
+    name,
+    edges: v.edges,
+    total: v.total,
+    positive_spend: v.donation + v.support,
+    attack_spend: v.oppose,
+    direct_donations: v.donation,
+    ie_support: v.support,
+    ie_oppose: v.oppose,
+  })
   if (topic === "top_donors") {
     rows = [...byFrom.entries()]
-      .map(([name, v]) => ({ name, edges: v.edges, total: v.total }))
-      .sort((a, b) => b.total - a.total)
+      .map(([name, v]) => rowShape(name, v))
+      .sort((a, b) => b.positive_spend - a.positive_spend)
       .slice(0, 25)
-    summary = `Top 25 donors by total monetary-edge dollars out.`
+    summary = `Top 25 donors by positive spend (direct donations + IE support). Attack spend shown separately.`
   } else if (topic === "top_superpacs") {
     rows = [...byFrom.entries()]
       .filter(([name]) => typeMatch(name, "superpac"))
-      .map(([name, v]) => ({ name, edges: v.edges, total: v.total }))
+      .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.total - a.total)
       .slice(0, 25)
-    summary = `Top 25 super PACs by dollars out (entity_type=pac or donor + sector match).`
+    summary = `Top 25 super PACs by total IE + direct spend. Support and attack broken out per row.`
   } else if (topic === "top_pacs") {
     rows = [...byFrom.entries()]
       .filter(([name]) => typeMatch(name, "pac"))
-      .map(([name, v]) => ({ name, edges: v.edges, total: v.total }))
+      .map(([name, v]) => rowShape(name, v))
       .sort((a, b) => b.total - a.total)
       .slice(0, 25)
-    summary = `Top 25 PACs / political committees by dollars out.`
+    summary = `Top 25 PACs / political committees by total spend. Support and attack broken out per row.`
   } else if (topic === "top_politicians") {
     rows = [...byTo.entries()]
       .filter(([name]) => typeMatch(name, "politician"))
-      .map(([name, v]) => ({ name, edges: v.edges, total: v.total }))
-      .sort((a, b) => b.total - a.total)
+      .map(([name, v]) => rowShape(name, v))
+      .sort((a, b) => b.positive_spend - a.positive_spend)
       .slice(0, 25)
-    summary = `Top 25 politicians by dollars received.`
+    summary = `Top 25 politicians by positive money received. Attack spending against them tracked separately.`
   } else if (topic === "top_dafs") {
     rows = [...byFrom.entries()]
       .filter(([name]) => typeMatch(name, "daf"))
-      .map(([name, v]) => ({ name, edges: v.edges, total: v.total }))
-      .sort((a, b) => b.total - a.total)
+      .map(([name, v]) => rowShape(name, v))
+      .sort((a, b) => b.positive_spend - a.positive_spend)
       .slice(0, 25)
     summary = `Top 25 donor-advised funds / charitable vehicles by grant dollars out.`
   }
 
-  const topName = rows[0] ? ` Top: **${rows[0].name}** at ${fmtUsd((rows[0].total as number))}.` : ""
+  const topName = rows[0] ? ` Top: **${rows[0].name}** at ${fmtUsd((rows[0].positive_spend as number) || (rows[0].total as number))}.` : ""
   const answer = `${summary}${topName}`
-  const bullets = rows.slice(0, 10).map((r: any) => `${r.name}: ${fmtUsd(r.total)} across ${r.edges} edge${r.edges === 1 ? "" : "s"}`)
+  const bullets = rows.slice(0, 10).map((r: any) => {
+    const primary = r.positive_spend || r.total
+    const parts: string[] = [`${r.name}: ${fmtUsd(primary)}`]
+    if (r.attack_spend > 0) parts.push(`${fmtUsd(r.attack_spend)} attack`)
+    parts.push(`${r.edges} edge${r.edges === 1 ? "" : "s"}`)
+    return parts.join(" · ")
+  })
   return { question, intent: "leaderboard", total: rows.length, rows, answer, bullets, summary }
 }
 
 async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promise<AskResult> {
   const a = resolveTitle(c.subjectName as string)
   const b = resolveTitle(c.objectName as string)
-  // Build adjacency from monetary edges only
+  // Build adjacency from monetary edges only. Exclude IE-oppose: an
+  // opposition ad-spend edge documents money spent AGAINST a politician,
+  // not a transfer TO them, so treating it as a graph edge produces
+  // nonsense "money chains" where cash appears to flow to a target who
+  // was actually being attacked.
   const raw = fs.readFileSync(path.join(REPO_ROOT, "data", "relationships.jsonl"), "utf-8")
   const adj = new Map<string, Array<{ to: string; amount: number; cycle?: string; source: string }>>()
   for (const line of raw.split("\n")) {
@@ -961,6 +1010,7 @@ async function handleMoneyChain(c: ClassifiedQuestion, question: string): Promis
     try {
       const e = JSON.parse(line)
       if (e.type !== "monetary" || !e.amount) continue
+      if (e.role === "ie-oppose") continue
       const arr = adj.get(e.from) || []
       arr.push({ to: e.to, amount: Number(e.amount), cycle: e.cycle, source: e.source })
       adj.set(e.from, arr)
@@ -1261,12 +1311,24 @@ async function handleQuestion(question: string): Promise<AskResult> {
     }
 
     const top5 = rows.filter((e: any) => e.amount).slice(0, 5)
+    // Split ie-oppose vs ie-support vs direct: a super-PAC's top "recipient"
+    // is often a politician they spent AGAINST, not one they funded. Frame
+    // the outflow accurately.
+    const supportEdges = rows.filter((e: any) => e.role !== "ie-oppose" && e.amount)
+    const opposeEdges = rows.filter((e: any) => e.role === "ie-oppose" && e.amount)
+    const supportTotal = supportEdges.reduce((a: number, e: any) => a + Number(e.amount), 0)
+    const opposeTotal = opposeEdges.reduce((a: number, e: any) => a + Number(e.amount), 0)
     const answer =
       total$ > 0
-        ? `**${name.title}** moved **${fmtUsd(total$)}** across **${r.total}** recipient edges.`
+        ? (opposeTotal > 0
+            ? `**${name.title}** moved **${fmtUsd(total$)}** across **${r.total}** edges: **${fmtUsd(supportTotal)}** in donations / IE support, plus **${fmtUsd(opposeTotal)}** in attack (IE-oppose) spending against ${opposeEdges.length} politician${opposeEdges.length === 1 ? "" : "s"}.`
+            : `**${name.title}** moved **${fmtUsd(total$)}** across **${r.total}** recipient edges.`)
         : `**${name.title}** has ${r.total} outgoing edges but no dollar amounts attached.`
-    const bullets = top5.map((e: any) => `${e.to}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`)
-    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${name.title} outflows: ${r.total} edges, ~${fmtUsd(total$)} tracked.` })
+    const bullets = top5.map((e: any) => {
+      const arrow = e.role === "ie-oppose" ? "AGAINST" : "→"
+      return `${arrow} ${e.to}: ${fmtUsd(e.amount)}${e.cycle ? ` (${e.cycle})` : ""}${e.source ? ` [${citeEdge(e).label}]` : ""}`
+    })
+    return finalize({ question, intent: c.intent, resolved_title: name.title, did_you_mean: name.candidates.slice(0, 5), total: r.total, rows, answer, bullets, summary: `${name.title} outflows: ${supportEdges.length} support / ${opposeEdges.length} oppose edges, ~${fmtUsd(supportTotal)} support · ~${fmtUsd(opposeTotal)} attack.` })
   }
 
   // Generic fallback
@@ -1310,10 +1372,33 @@ export async function POST(req: NextRequest) {
   if (!question) return NextResponse.json({ error: "question required" }, { status: 400 })
   if (question.length > 400) return NextResponse.json({ error: "question too long (max 400 chars)" }, { status: 400 })
 
+  // In-memory answer cache. /api/ask runs a full store-load + intent
+  // classifier + synthesis on every call; identical repeat questions
+  // (e.g. follow-up chips that echo an earlier question) should not
+  // re-walk 75K edges. TTL is short (5 min) because the edge store is
+  // mutable — a classify-ie-edges run or ingest should invalidate.
+  const cacheKey = question.toLowerCase().replace(/\s+/g, " ").trim()
+  const cached = ASK_CACHE.get(cacheKey)
+  if (cached && Date.now() - cached.at < ASK_CACHE_TTL_MS) {
+    return NextResponse.json({ ...cached.result, _cache: "hit" })
+  }
+
   try {
     const result = await handleQuestion(question)
+    ASK_CACHE.set(cacheKey, { at: Date.now(), result })
+    if (ASK_CACHE.size > ASK_CACHE_MAX) {
+      // Drop oldest ~25% to keep bounded
+      const keys = [...ASK_CACHE.keys()].slice(0, Math.floor(ASK_CACHE_MAX / 4))
+      for (const k of keys) ASK_CACHE.delete(k)
+    }
     return NextResponse.json(result)
   } catch (err) {
     return NextResponse.json({ error: String(err instanceof Error ? err.message : err) }, { status: 500 })
   }
 }
+
+// Module-level cache (per Next.js route instance). Survives until the
+// Next dev server restarts or the serverless instance cycles.
+const ASK_CACHE_TTL_MS = 5 * 60 * 1000
+const ASK_CACHE_MAX = 500
+const ASK_CACHE = new Map<string, { at: number; result: any }>()
