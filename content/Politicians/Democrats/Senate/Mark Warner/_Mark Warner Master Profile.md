@@ -183,6 +183,53 @@ donors: [[Telecom Industry]] · [[Silicon Valley Donors]] · [[Defense Contracto
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 57 |
+| Bills Cosponsored | 268 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (51)
+- Government Operations and Politics (32)
+- Taxation (31)
+- Armed Forces and National Security (22)
+- Finance and Financial Sector (22)
+- Congress (19)
+- International Affairs (19)
+- Science, Technology, Communications (12)
+- Civil Rights and Liberties, Minority Issues (11)
+- Public Lands and Natural Resources (10)
+
+**Enacted into law:**
+
+- S 3331: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 248 |
+| Total Votes Cast | 6,033 |
+| Leadership | Senate Democratic Conference Vice Chair |
+
+**Recent bills sponsored:**
+
+- S. 4233: A bill to amend title XVIII of the Social Security Act to codify the Medicare low-wage index hospital policy. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 135: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4118: Hospice CARE Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4046: Economy of the Future Commission Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 815: A bill to designate the outdoor amphitheater at the Blue Ridge Music Center in Galax, Virginia, as the “Rick Boucher Amp — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412321) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Mark Warner. U.S. Senator from Virginia (2009–present). Former Governor of Virginia (2002–2006). Telecom venture capitalist, co-founder and managing director of Columbia Capital. Net worth: ~$215M (wealthiest senator in office). Made fortune investing in cellular spectrum and Nextel stock in the 1990s. Sits on Intelligence Committee (Vice Chair), Finance Committee, and Banking Committee. The senator who regulates the industries that made him wealthy.
@@ -340,55 +387,7 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Total Trades | 88 |
-| Purchases | 12 |
-| Sales | 27 |
-| Est. Value Range | $8,991,039 – $30,365,000 |
-
-**Top tickers traded:** ZAYO, CHTR, HALO, XON, ZIOP
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/24/2018 | -- | Sale | $1,001 - $15,000 | Spouse |
-| 12/24/2018 | -- | Sale | $1,001 - $15,000 | Self |
-| 12/19/2018 | -- | Sale | $250,001 - $500,000 | Self |
-| 12/15/2016 | N/A | other | Unknown | N/A |
-| 12/15/2015 | N/A | other | Unknown | N/A |
-| 12/13/2012 | N/A | other | Unknown | N/A |
-| 12/12/2014 | N/A | other | Unknown | N/A |
-| 12/07/2018 | -- | Purchase | $50,001 - $100,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 35 |
-| Bills Cosponsored | 248 |
-| Total Votes Cast | 6,033 |
-| Leadership | Senate Democratic Conference Vice Chair |
-
-**Recent bills sponsored:**
-
-- S. 4233: A bill to amend title XVIII of the Social Security Act to codify the Medicare low-wage index hospital policy. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.J.Res. 135: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4118: Hospice CARE Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4046: Economy of the Future Commission Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 815: A bill to designate the outdoor amphitheater at the Blue Ridge Music Center in Galax, Virginia, as the “Rick Boucher Amp — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412321) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -409,27 +408,6 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **Telecom Industry** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
-
-**Donors who lobby (by spend):**
-
-- [[Telecom Industry]] — $9.0M lobbying spend (Aerospace, Agriculture, Banking)
-- [[Silicon Valley Donors]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -464,34 +442,6 @@ Warner announced 2026 reelection bid (fourth term), positioning himself for cont
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 57 |
-| Bills Cosponsored | 268 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (51)
-- Government Operations and Politics (32)
-- Taxation (31)
-- Armed Forces and National Security (22)
-- Finance and Financial Sector (22)
-- Congress (19)
-- International Affairs (19)
-- Science, Technology, Communications (12)
-- Civil Rights and Liberties, Minority Issues (11)
-- Public Lands and Natural Resources (10)
-
-**Enacted into law:**
-
-- S 3331: FAA Reauthorization Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

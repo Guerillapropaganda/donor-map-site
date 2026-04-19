@@ -153,6 +153,38 @@ top-donors: "[[National Association of Realtors]], [[Google - Alphabet]], [[Plan
 
 # Betty McCollum
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 10 |
+| Bills Cosponsored | 496 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (82)
+- International Affairs (47)
+- Crime and Law Enforcement (40)
+- Civil Rights and Liberties, Minority Issues (32)
+- Taxation (29)
+- Government Operations and Politics (25)
+- Labor and Employment (22)
+- Environmental Protection (20)
+- Agriculture and Food (20)
+- Education (19)
+
+**Recent bills sponsored:**
+
+- HR 9571: CARE Act
+- HRES 1397: Expressing support for July to be designated as "Disability Pride Month".
+- HR 8074: Forever Chemical Regulation and Accountability Act of 2024
+- HR 7289: MRRRI Act
+- HRES 750: A resolution recognizing Operation Green Light for Veterans for supporting veterans and raising awareness about impor...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Betty McCollum. Democrat, Minnesota-4 (St. Paul, Roseville, Falcon Heights, and surrounding suburbs). First elected 2000; re-elected continuously to present. One of the longest-serving House Democrats from Minnesota. Born July 1954 in South St. Paul. St. Paul Community College graduate; St. Paul City Council, Minnesota state legislature before Congress. Member of the House Appropriations Committee and its Defense subcommittee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 98.3% party-line loyalty across 1,713 substantive votes, 29 deviations. MN-4 is a safe Democratic district; no meaningful Republican pressure.
@@ -229,35 +261,4 @@ The LCV $22K AGAINST McCollum is the anomaly with no clear explanation in the av
 **Both-Sides Illusion.** J Street (progressive pro-Israel/pro-Palestinian rights) and AIPAC's absence, combined with the defense contractor data panel, produce a profile in which the humanitarian advocacy and the industry access exist simultaneously without visible contradiction in the donor record. The AIPAC absence is itself a signal: McCollum has been sufficiently consistent on Palestinian rights that AIPAC does not maintain access to her in the way it does with most House Democrats. The defense contractors have no such ideological filter; they give across the political spectrum based on subcommittee jurisdiction.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 10 |
-| Bills Cosponsored | 496 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (82)
-- International Affairs (47)
-- Crime and Law Enforcement (40)
-- Civil Rights and Liberties, Minority Issues (32)
-- Taxation (29)
-- Government Operations and Politics (25)
-- Labor and Employment (22)
-- Environmental Protection (20)
-- Agriculture and Food (20)
-- Education (19)
-
-**Recent bills sponsored:**
-
-- HR 9571: CARE Act
-- HRES 1397: Expressing support for July to be designated as "Disability Pride Month".
-- HR 8074: Forever Chemical Regulation and Accountability Act of 2024
-- HR 7289: MRRRI Act
-- HRES 750: A resolution recognizing Operation Green Light for Veterans for supporting veterans and raising awareness about impor...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

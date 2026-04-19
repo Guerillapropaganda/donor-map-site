@@ -168,6 +168,64 @@ donors: Lockheed Martin PAC [[Raytheon (RTX)|Raytheon PAC]] Northrop Grumman PAC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 198 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (29)
+- International Affairs (27)
+- Crime and Law Enforcement (21)
+- Taxation (20)
+- Armed Forces and National Security (19)
+- Health (13)
+- Finance and Financial Sector (10)
+- Environmental Protection (9)
+- Transportation and Public Works (8)
+- Public Lands and Natural Resources (7)
+
+**Enacted into law:**
+
+- HR 273: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 162 |
+| Total Votes Cast | 20,833 |
+
+**Recent bills sponsored:**
+
+- H.R. 4638: Federal Working Animal Protection Act — *This bill passed in the House on March 19, 2026 and goes to the Senate next for consideration.*
+- H.R. 831: Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025 — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
+- H.R. 1663: VSAFE Act of 2025 — *This bill passed in the House on January 20, 2026 and goes to the Senate next for consideration.*
+- H.Res. 978: Expressing the profound sorrow of the House of Representatives on the death of the Honorable Doug LaMalfa. — *This simple resolution was agreed to on January 7, 2026. That is the end of the legislative process for a simple resolution.*
+- H.R. 5992: Stuck On Hold Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Rep [[_Ken Calvert Master Profile|Ken Calvert]] represents California's 42nd Congressional District (Inland Empire, [[IBEW Local 440 - Riverside|Riverside]]/[[IBEW Local 477 - San Bernardino|San Bernardino]] area) and currently chairs the Defense Appropriations Subcommittee (2025). A 16-term congressman from a solidly Republican district (R+15), he has built his career as the weapons industry's most dependable allocator of federal money. As a member of the full Appropriations Committee and chair of the Defense Subcommittee, Calvert controls how the Pentagon budget gets carved into specific contracts, bases, and weapon systems, and whose campaign gets funded for the privilege.
@@ -281,36 +339,6 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 - [House Appropriations Committee: Defense Subcommittee Composition](https://appropriations.house.gov/subcommittees/defense-0) (Tier 1) (VERIFIED)
 - [House Appropriations Committee Defense Markup, 2025](https://appropriations.house.gov/news/press-releases) (Tier 1) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 20 |
-| Bills Cosponsored | 162 |
-| Total Votes Cast | 20,833 |
-
-**Recent bills sponsored:**
-
-- H.R. 4638: Federal Working Animal Protection Act — *This bill passed in the House on March 19, 2026 and goes to the Senate next for consideration.*
-- H.R. 831: Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025 — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
-- H.R. 1663: VSAFE Act of 2025 — *This bill passed in the House on January 20, 2026 and goes to the Senate next for consideration.*
-- H.Res. 978: Expressing the profound sorrow of the House of Representatives on the death of the Honorable Doug LaMalfa. — *This simple resolution was agreed to on January 7, 2026. That is the end of the legislative process for a simple resolution.*
-- H.R. 5992: Stuck On Hold Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -350,34 +378,6 @@ When progressive members proposed redirecting small portions of the Pentagon bud
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 21 |
-| Bills Cosponsored | 198 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (29)
-- International Affairs (27)
-- Crime and Law Enforcement (21)
-- Taxation (20)
-- Armed Forces and National Security (19)
-- Health (13)
-- Finance and Financial Sector (10)
-- Environmental Protection (9)
-- Transportation and Public Works (8)
-- Public Lands and Natural Resources (7)
-
-**Enacted into law:**
-
-- HR 273: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -111,6 +111,64 @@ donors: [[Koch Network - Charles Koch]], [[Club for Growth]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 4 |
+| Bills Cosponsored | 45 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (11)
+- Taxation (8)
+- International Affairs (5)
+- Finance and Financial Sector (3)
+- Health (3)
+- Education (3)
+- Congress (3)
+- Crime and Law Enforcement (2)
+- Armed Forces and National Security (2)
+- Environmental Protection (2)
+
+**Recent bills sponsored:**
+
+- HRES 1292: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
+- HR 4791: Free Speech Protection Act
+- HRES 159: Providing for the expenses of certain committees of the House of Representatives in the One Hundred Eighteenth Congress.
+- HRES 12: Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 1 |
+| Bills Cosponsored | 16 |
+| Total Votes Cast | 12,539 |
+
+**Recent bills sponsored:**
+
+- H.Res. 86: Providing amounts for the expenses of the Committee on the Judiciary in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 31, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412226) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Jim Jordan. U.S. Representative, Ohio's 4th District (2007–present). Chairman, House Judiciary Committee (2023–present). Co-founder, House Freedom Caucus (2015, with Mark Meadows). Failed Speaker candidate (October 2023, lost three ballots, opposition grew from 12 to 25 Republicans). The most aggressive Trump defender in Congress, and the congressman who spent 15 years receiving zero NRCC contributions, then received $1.7 million when he pursued committee leadership.
@@ -213,33 +271,6 @@ The class function is explicit: Jordan converts congressional authority into a s
 - [Club for Growth: Jim Jordan Scorecard](https://www.clubforgrowth.org/scorecards/legislator/J000289/Jim-Jordan/) (Tier 3) (VERIFIED)
 - [CNN: Jim Jordan's speakership bid ends after third lost vote](https://www.cnn.com/politics/live-news/house-speaker-vote-10-20-23/index.html) (Tier 2) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 1 |
-| Bills Cosponsored | 16 |
-| Total Votes Cast | 12,539 |
-
-**Recent bills sponsored:**
-
-- H.Res. 86: Providing amounts for the expenses of the Committee on the Judiciary in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 31, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412226) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -262,37 +293,6 @@ The class function is explicit: Jordan converts congressional authority into a s
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 4 |
-| Bills Cosponsored | 45 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (11)
-- Taxation (8)
-- International Affairs (5)
-- Finance and Financial Sector (3)
-- Health (3)
-- Education (3)
-- Congress (3)
-- Crime and Law Enforcement (2)
-- Armed Forces and National Security (2)
-- Environmental Protection (2)
-
-**Recent bills sponsored:**
-
-- HRES 1292: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
-- HR 4791: Free Speech Protection Act
-- HRES 159: Providing for the expenses of certain committees of the House of Representatives in the One Hundred Eighteenth Congress.
-- HRES 12: Adopting the Rules of the House of Representatives for the One Hundred Eighteenth Congress, and for other purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

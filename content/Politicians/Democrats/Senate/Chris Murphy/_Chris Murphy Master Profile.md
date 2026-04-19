@@ -190,6 +190,38 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 355 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- International Affairs (41)
+- Crime and Law Enforcement (36)
+- Education (29)
+- Civil Rights and Liberties, Minority Issues (23)
+- Agriculture and Food (19)
+- Government Operations and Politics (19)
+- Labor and Employment (19)
+- Congress (18)
+- Taxation (15)
+
+**Recent bills sponsored:**
+
+- S 5593: A bill to amend the Elementary and Secondary Education Act to expand the Magnet Schools Assistance Program.
+- S 5524: A bill to provide for civil monetary penalties for violations of mental health parity requirements.
+- S 5375: Vision Lab Choice Act of 2024
+- S 5232: Vote Without Fear Act
+- S 5247: Witness Assistance and Criminal Accountability Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Chris Murphy. Democrat, Connecticut. Senator since 2013. Former House member (2007-2013) representing Connecticut's 5th District when the Sandy Hook Elementary School shooting occurred in December 2012 — an event that transformed Murphy from a backbench congressman into the Senate's most vocal gun control advocate. Member of the Foreign Relations Committee (top Democrat on the Middle East subcommittee), Health, Education, Labor and Pensions (HELP) Committee, and Appropriations Committee.
@@ -390,64 +422,9 @@ The class tell is Medicare for All. When Bernie Sanders proposed it in 2019, Mur
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Everytown for Gun Safety** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Silicon Valley Democratic Donor Network** donates → Lobbies on **Defense** → This member sits on **Appropriations**
-
-**Donors who lobby (by spend):**
-
-- [[Everytown for Gun Safety]] — $5.2M lobbying spend (Budget/Appropriations, Firearms/Guns/Ammunition, Health Issues)
-- [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 45 |
-| Bills Cosponsored | 355 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (64)
-- International Affairs (41)
-- Crime and Law Enforcement (36)
-- Education (29)
-- Civil Rights and Liberties, Minority Issues (23)
-- Agriculture and Food (19)
-- Government Operations and Politics (19)
-- Labor and Employment (19)
-- Congress (18)
-- Taxation (15)
-
-**Recent bills sponsored:**
-
-- S 5593: A bill to amend the Elementary and Secondary Education Act to expand the Magnet Schools Assistance Program.
-- S 5524: A bill to provide for civil monetary penalties for violations of mental health parity requirements.
-- S 5375: Vision Lab Choice Act of 2024
-- S 5232: Vote Without Fear Act
-- S 5247: Witness Assistance and Criminal Accountability Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

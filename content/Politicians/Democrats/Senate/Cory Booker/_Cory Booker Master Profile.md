@@ -199,6 +199,70 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 156 |
+| Bills Cosponsored | 670 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (156)
+- Crime and Law Enforcement (80)
+- Agriculture and Food (62)
+- Education (62)
+- International Affairs (49)
+- Civil Rights and Liberties, Minority Issues (38)
+- Government Operations and Politics (37)
+- Labor and Employment (36)
+- Armed Forces and National Security (33)
+- Environmental Protection (27)
+
+**Recent bills sponsored:**
+
+- SRES 933: A resolution calling on the United Nations Security Council to enforce the existing arms embargo on Darfur and extend...
+- SRES 927: A resolution commemorating and supporting the goals of World AIDS Day.
+- S 5507: A bill to expand reporting on subcontracts and subgrants made under Federal awards, and for other purposes.
+- S 5516: A bill to establish a new Housing and Urban Development grant program to provide community land trusts and other comm...
+- S 5464: A bill to amend title XVIII of the Social Security Act to require the collection of data regarding graduate medical e...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 92 |
+| Bills Cosponsored | 541 |
+| Total Votes Cast | 4,626 |
+| Leadership | Senate Democratic Strategic Communications Committee Chair |
+
+**Recent bills sponsored:**
+
+- S. 4225: A bill to require the Secretary of Veterans Affairs to establish a pilot program to furnish doula services to veterans. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 154: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 661: A resolution recognizing the 205th anniversary of the independence of Greece and celebrating democracy in Greece and the — *This simple resolution was agreed to on March 25, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 4143: Fair Wages for Incarcerated Workers Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4136: Sentencing Commission Improvements Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412598) (Tier 1) (NEEDS REVIEW: Slow response (6155ms) does work)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Cory Booker. Democrat, New Jersey. Senator since 2013. Former Mayor of Newark (2006-2013). 2020 presidential candidate. Member of the Judiciary, Foreign Relations, and Agriculture committees. In April 2025, Booker broke the Senate record for longest floor speech, 25 hours and 5 minutes, protesting Trump's health care and Social Security executive orders.
@@ -362,24 +426,6 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 3 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
-- [[Silicon Valley Democratic Donor Network]] — $1.3M lobbying spend (Banking, Budget/Appropriations, Chemicals/Chemical Industry)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -407,70 +453,9 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 13 |
-| Purchases | 0 |
-| Sales | 13 |
-| Est. Value Range | $104,013 – $385,000 |
-
-**Top tickers traded:** IRM, AMT, NFLX, NKE, IBM, FB, AMZN, AAPL
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 08/08/2014 | NKE | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | IRM | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | IBM | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | FB | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | AMZN | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | AAPL | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | DISH | Sale | $1,001 - $15,000 | Self |
-| 08/08/2014 | AMT | Sale | $50,001 - $100,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ## Committee Assignments (Congress.gov)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 92 |
-| Bills Cosponsored | 541 |
-| Total Votes Cast | 4,626 |
-| Leadership | Senate Democratic Strategic Communications Committee Chair |
-
-**Recent bills sponsored:**
-
-- S. 4225: A bill to require the Secretary of Veterans Affairs to establish a pilot program to furnish doula services to veterans. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.J.Res. 154: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 661: A resolution recognizing the 205th anniversary of the independence of Greece and celebrating democracy in Greece and the — *This simple resolution was agreed to on March 25, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 4143: Fair Wages for Incarcerated Workers Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4136: Sentencing Commission Improvements Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412598) (Tier 1) (NEEDS REVIEW: Slow response (6155ms) does work)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -495,71 +480,9 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 - {{src:src_001199}} (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $30,106,071 |
-| Individual Contributions | $7,856,086 |
-| PAC Contributions | $523,290 |
-| Cash on Hand | 21904743.82 |
-| IE Support (Super PAC) | $2,661,367 |
-| IE Opposition (Super PAC) | $995,883 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $30,106,071 | $7,856,086 | $523,290 |
-| 2020 | $16,619,139 | $7,005,908 | $1,265,745 |
-| 2014 | $18,368,139 | $14,218,105 | $1,880,427 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| INDEPENDENCE USA PAC | $1,465,072 | $0 |
-| THE MOBILIZATION PROJECT | $1,064,894 | $0 |
-| AMERICAN PRINCIPLES FUND | $0 | $511,500 |
-| AMERICAN COMMITMENT ACTION FUND | $0 | $371,600 |
-| POWERPACPLUS | $81,401 | $0 |
-
-- {{src:src_005515}} (Tier 1) (VERIFIED)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Nay** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Not Voting** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Yea** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Nay** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Present** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Cory Booker](https://www.govtrack.us/congress/members/412598) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -592,38 +515,6 @@ Cory Booker's 2020 presidential run attracted 39 billionaire donors, more than a
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 156 |
-| Bills Cosponsored | 670 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (156)
-- Crime and Law Enforcement (80)
-- Agriculture and Food (62)
-- Education (62)
-- International Affairs (49)
-- Civil Rights and Liberties, Minority Issues (38)
-- Government Operations and Politics (37)
-- Labor and Employment (36)
-- Armed Forces and National Security (33)
-- Environmental Protection (27)
-
-**Recent bills sponsored:**
-
-- SRES 933: A resolution calling on the United Nations Security Council to enforce the existing arms embargo on Darfur and extend...
-- SRES 927: A resolution commemorating and supporting the goals of World AIDS Day.
-- S 5507: A bill to expand reporting on subcontracts and subgrants made under Federal awards, and for other purposes.
-- S 5516: A bill to establish a new Housing and Urban Development grant program to provide community land trusts and other comm...
-- S 5464: A bill to amend title XVIII of the Social Security Act to require the collection of data regarding graduate medical e...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

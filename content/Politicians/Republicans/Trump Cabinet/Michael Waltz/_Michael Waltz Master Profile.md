@@ -115,6 +115,29 @@ None yet. Potential sub-notes: Signalgate controversy, Metis Solutions defense c
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 3,210 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2025-01-16 | H.R. 30: Preventing Violence Against Women by Illegal Aliens Act | Not Voting | Passed |
+| 2025-01-16 | On Motion to Recommit: H.R. 30: Preventing Violence Against Women by Illegal Ali… | Not Voting | Failed |
+| 2025-01-15 | H.R. 33: To amend the Internal Revenue Code of 1986 to provide special rules for… | Not Voting | Passed |
+| 2025-01-15 | H.R. 144: Tennessee Valley Authority Salary Transparency Act | Not Voting | Passed |
+| 2025-01-15 | H.R. 164: POWER Act of 2025 | Not Voting | Passed |
+| 2025-01-14 | H.R. 28: Protection of Women and Girls in Sports Act of 2025 | Yea | Passed |
+| 2025-01-14 | On Motion to Recommit: H.R. 28: Protection of Women and Girls in Sports Act of 2… | Nay | Failed |
+| 2025-01-14 | H.R. 153: Post-Disaster Assistance Online Accountability Act | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412764) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Michael Waltz (born January 31, 1974, Florida) is a retired U.S. Army Colonel and Green Beret, the first Green Beret elected to Congress. He represented Florida's 6th District from 2019 to 2025, served briefly as National Security Advisor (January–May 2025), and became U.S. Ambassador to the United Nations in September 2025. Before politics, he co-founded Metis Solutions, a defense consulting firm sold to PAE for $92 million in 2020. He served in Bush administration policy roles under Rumsfeld, Gates, and Cheney. Net worth: ~$3M (assets $4–9M, liabilities $1–2.2M). Capital gains of $5–25M from the Metis Solutions sale.
@@ -243,31 +266,7 @@ The Signalgate incident stripped the credentialing bare. Waltz built his politic
 - {{src:src_002841}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (Congress.gov)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 3,210 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2025-01-16 | H.R. 30: Preventing Violence Against Women by Illegal Aliens Act | Not Voting | Passed |
-| 2025-01-16 | On Motion to Recommit: H.R. 30: Preventing Violence Against Women by Illegal Ali… | Not Voting | Failed |
-| 2025-01-15 | H.R. 33: To amend the Internal Revenue Code of 1986 to provide special rules for… | Not Voting | Passed |
-| 2025-01-15 | H.R. 144: Tennessee Valley Authority Salary Transparency Act | Not Voting | Passed |
-| 2025-01-15 | H.R. 164: POWER Act of 2025 | Not Voting | Passed |
-| 2025-01-14 | H.R. 28: Protection of Women and Girls in Sports Act of 2025 | Yea | Passed |
-| 2025-01-14 | On Motion to Recommit: H.R. 28: Protection of Women and Girls in Sports Act of 2… | Nay | Failed |
-| 2025-01-14 | H.R. 153: Post-Disaster Assistance Online Accountability Act | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412764) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Voting Record
 

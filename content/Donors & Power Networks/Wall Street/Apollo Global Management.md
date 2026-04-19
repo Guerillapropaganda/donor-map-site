@@ -146,25 +146,6 @@ Reduced regulation of for-profit education (University of Phoenix), favorable pr
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 1 |
-| Sanctions Programs | IRAN-EO13846 |
-| Entity Types | -0- |
-
-**Matched SDN entries:**
-- GLOBAL MARINE SHIP MANAGEMENT CO., LTD. (-0-) [IRAN-EO13846]
-  - Remarks: Website www.GMSHIPS.com; Executive Order 13846 information: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv); Identification Number IMO 5528362; Commercial Registry Number 1427788 (China).
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-
-<!-- auto:ofac-sdn pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

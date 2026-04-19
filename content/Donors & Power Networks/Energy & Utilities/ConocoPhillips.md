@@ -401,30 +401,6 @@ The Willow Project ($8 billion investment, 180,000 barrels per day at peak, 600 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 2 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Energy/Nuclear** → Funds **Dan Crenshaw** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Environment/Superfund** → Funds **Dan Crenshaw** → Sits on **House Committee on Energy and Commerce**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Kennedy** → Sits on **Banking**
-
-**Funded politicians:**
-
-- [[Dan Crenshaw]] (House Committee on Energy and Commerce, House Permanent Select Committee on Intelligence) — lobbying: $17.9M
-- [[John Kennedy]] (Judiciary, Banking) — lobbying: $17.9M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

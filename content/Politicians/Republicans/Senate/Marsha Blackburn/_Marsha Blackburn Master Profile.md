@@ -153,6 +153,38 @@ top-donors: "[[American Chemistry Council, INC]], [[Raytheon (RTX)]], [[National
 
 # Marsha Blackburn
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 101 |
+| Bills Cosponsored | 581 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (91)
+- Crime and Law Enforcement (66)
+- International Affairs (60)
+- Armed Forces and National Security (45)
+- Education (43)
+- Taxation (41)
+- Immigration (35)
+- Government Operations and Politics (33)
+- Congress (27)
+- Science, Technology, Communications (24)
+
+**Recent bills sponsored:**
+
+- S 5604: A bill to amend the Internal Revenue Code of 1986 to expand the advanced manufacturing investment credit to include m...
+- S 5603: A bill to amend the Internal Revenue Code of 1986 to increase the threshold amounts for inclusion of Social Security ...
+- S 5549: A bill to establish a grant program within the Office of Juvenile Justice and Delinquency Prevention to award grants ...
+- S 5538: A bill to direct the Secretary of Homeland Security to amend certain regulations to permit certain children to accomp...
+- S 5540: A bill to amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B o...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Marsha Blackburn. Republican, Tennessee. US Senator since January 2019, elected in 2018 defeating former Governor Phil Bredesen, re-elected 2024. Previously Tennessee's 7th Congressional District representative (2003-2019, 8 House terms). Born June 1952 in Laurel, MS. Mississippi State University graduate. State senator before Congress. Committee assignments not yet in pipeline. 2,152 roll-call votes tracked across Senate 116th, 118th, and 119th Congresses. Voting record: 95.5% party-line loyalty across 2,053 substantive votes, 89 deviations. Tennessee is a deep-red state; the 2024 re-election faced $17.5M in Democratic opposition and held. Health is her top legislative policy area (91 bills in 118th Congress), consistent with the dominant healthcare donor relationships.
@@ -232,35 +264,4 @@ The 89 deviations from party loyalty are the most analytically meaningful part o
 **Fiscal Hawk Override.** The 89 deviations, concentrated on appropriations and continuing resolutions, reveal the primary tension in Blackburn's Senate positioning: she is a fiscal hawk first and a party-loyalty senator second when government spending is the vote. Republican leadership needs spending bills passed; Blackburn votes Nay on them at a rate that places her among the Senate's consistent fiscal-hawk dissenters. This is not donor-class override (no donor is paying for the Nay votes on CRs). It is constituency-and-identity override: Blackburn's conservative Tennessee base and her own fiscal conservatism override party leadership on the votes that matter most to the Senate's operational continuity.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 101 |
-| Bills Cosponsored | 581 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (91)
-- Crime and Law Enforcement (66)
-- International Affairs (60)
-- Armed Forces and National Security (45)
-- Education (43)
-- Taxation (41)
-- Immigration (35)
-- Government Operations and Politics (33)
-- Congress (27)
-- Science, Technology, Communications (24)
-
-**Recent bills sponsored:**
-
-- S 5604: A bill to amend the Internal Revenue Code of 1986 to expand the advanced manufacturing investment credit to include m...
-- S 5603: A bill to amend the Internal Revenue Code of 1986 to increase the threshold amounts for inclusion of Social Security ...
-- S 5549: A bill to establish a grant program within the Office of Juvenile Justice and Delinquency Prevention to award grants ...
-- S 5538: A bill to direct the Secretary of Homeland Security to amend certain regulations to permit certain children to accomp...
-- S 5540: A bill to amend title XVIII of the Social Security Act to clarify payment rules for manual wheelchairs under part B o...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

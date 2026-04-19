@@ -155,6 +155,38 @@ top-donors: "[[MoveOn.org Political Action]], [[National Multifamily Housing Cou
 
 # Patrick Ryan
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 359 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (55)
+- Armed Forces and National Security (55)
+- International Affairs (32)
+- Crime and Law Enforcement (25)
+- Government Operations and Politics (24)
+- Agriculture and Food (21)
+- Taxation (20)
+- Transportation and Public Works (17)
+- Finance and Financial Sector (16)
+- Labor and Employment (13)
+
+**Recent bills sponsored:**
+
+- HR 9377: Deliver Housing Now Act of 2024
+- HR 9379: Mortgage Rate Reduction Act
+- HR 9380: Workforce Housing Tax Credit Act
+- HR 9378: Pro-Housing Act of 2024
+- HR 9341: Protecting Social Security Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Patrick Ryan. Democrat, New York-18 (Hudson Valley: Kingston, Newburgh, parts of Dutchess County). Won a special election in August 2022 after the seat opened, then won the general in November 2022 and re-elected 2024. Born March 1982 in Kingston, NY. West Point graduate, US Army officer (Iraq deployment, Bronze Star), later co-founded Etsy (early stage) and worked in technology. Assigned to Armed Services, Financial Services, and Homeland Security. Top policy areas: Health (55) and Armed Forces (55) tied, then International Affairs (32). 17 bills sponsored, 359 cosponsored, 0 enacted. Voting record: 93.2% party-line loyalty across 1,689 substantive votes, 115 deviations. Note: the OFAC SDN match on this profile is a false positive (matched Canadian national Damion Patrick John Ryan, IRAN-HR sanctions; not this politician).
@@ -261,35 +293,4 @@ The simultaneous presence of AIPAC, DMFI, NORPAC, and pro-Israel giving in a com
 <!-- auto:ofac-sdn end -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 17 |
-| Bills Cosponsored | 359 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (55)
-- Armed Forces and National Security (55)
-- International Affairs (32)
-- Crime and Law Enforcement (25)
-- Government Operations and Politics (24)
-- Agriculture and Food (21)
-- Taxation (20)
-- Transportation and Public Works (17)
-- Finance and Financial Sector (16)
-- Labor and Employment (13)
-
-**Recent bills sponsored:**
-
-- HR 9377: Deliver Housing Now Act of 2024
-- HR 9379: Mortgage Rate Reduction Act
-- HR 9380: Workforce Housing Tax Credit Act
-- HR 9378: Pro-Housing Act of 2024
-- HR 9341: Protecting Social Security Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

@@ -142,6 +142,38 @@ top-donors: "[[Comcast - NBCUniversal]], [[UA Political Action Committee]], [[Gi
 
 # Adriano Espaillat
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 59 |
+| Bills Cosponsored | 555 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (75)
+- Crime and Law Enforcement (59)
+- International Affairs (54)
+- Civil Rights and Liberties, Minority Issues (42)
+- Immigration (38)
+- Government Operations and Politics (38)
+- Education (32)
+- Transportation and Public Works (29)
+- Labor and Employment (27)
+- Arts, Culture, Religion (24)
+
+**Recent bills sponsored:**
+
+- HRES 1607: Recognizing the significant global impact and legacy of Peter Westbrook in the sport of fencing in the United States ...
+- HR 8680: Community Mental Wellness Worker Training Act
+- HR 8130: La Comisión de las Ocupaciónes Americanos Act
+- HR 8087: Solid Waste Infrastructure for Recycling Grant Program Reauthorization Act
+- HR 7998: Combating Hate Across Campus
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Adriano Espaillat. Democrat, New York-13 (Northern Manhattan: Washington Heights, Inwood, West Harlem, East Harlem, Marble Hill; parts of the Bronx). First elected 2016, succeeding Charles Rangel after 46 years in the seat. The first Dominican-born member of Congress. Born September 1954 in Santiago, Dominican Republic; came to the United States at age nine. Queens College graduate; New York State Assembly (1997-2010), New York State Senate (2010-2016). 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.6% party-line loyalty across 1,706 substantive votes, 41 deviations. NY-13 is one of the safest Democratic districts in the country; no Republican competitive pressure.
@@ -225,35 +257,4 @@ The 41 deviations at 97.6% loyalty over 1,706 substantive votes include a Yea on
 **Both-Sides Illusion.** The data panel shows AIPAC ($26K) and DMFI (Democratic Majority for Israel) in Espaillat's top-donors, alongside League of Conservation Voters, Planned Parenthood, and Open Society Foundations. Espaillat's voting record (41 deviations including leftward Nay breaks) and his district's demographics (heavily immigrant, working-class, Latino and Black) align more closely with the progressive-coalition donors than the pro-Israel access donors. The AIPAC and DMFI entries reflect national organizations building cross-caucus access portfolios, not Espaillat's policy priorities.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 59 |
-| Bills Cosponsored | 555 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (75)
-- Crime and Law Enforcement (59)
-- International Affairs (54)
-- Civil Rights and Liberties, Minority Issues (42)
-- Immigration (38)
-- Government Operations and Politics (38)
-- Education (32)
-- Transportation and Public Works (29)
-- Labor and Employment (27)
-- Arts, Culture, Religion (24)
-
-**Recent bills sponsored:**
-
-- HRES 1607: Recognizing the significant global impact and legacy of Peter Westbrook in the sport of fencing in the United States ...
-- HR 8680: Community Mental Wellness Worker Training Act
-- HR 8130: La Comisión de las Ocupaciónes Americanos Act
-- HR 8087: Solid Waste Infrastructure for Recycling Grant Program Reauthorization Act
-- HR 7998: Combating Hate Across Campus
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

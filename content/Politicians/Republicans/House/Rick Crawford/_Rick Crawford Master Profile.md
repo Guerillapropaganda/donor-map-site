@@ -183,6 +183,38 @@ donors:
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 201 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (22)
+- Agriculture and Food (19)
+- Crime and Law Enforcement (17)
+- Taxation (16)
+- Finance and Financial Sector (15)
+- Government Operations and Politics (15)
+- Health (13)
+- International Affairs (13)
+- Immigration (11)
+- Transportation and Public Works (11)
+
+**Recent bills sponsored:**
+
+- HCONRES 120: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the unveiling of the...
+- HR 8475: Explosive Ordnance Disposal Brain Health and Suicide Report Act of 2024
+- HR 8473: Total Army Analysis Explosive Ordnance Disposal Domestic Response Act of 2024
+- HR 8476: Department of the Army’s Explosive Ordnance Disposal Enterprise Act of 2024
+- HR 8474: Explosive Ordnance Disposal Incentive Pay Improvement Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Rick Crawford represents Arkansas's 1st Congressional District (the Delta, eastern Arkansas rice country, Jonesboro, the Mississippi River corridor) and is Chairman of the House Permanent Select Committee on Intelligence. He also serves as a senior member of the House Agriculture Committee, where he co-founded the Congressional Rice Caucus and the Congressional Chicken Caucus. He has served in Congress since 2011.
@@ -400,38 +432,6 @@ The Arkansas farm boy turned intelligence chairman is the point, not the irony. 
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 23 |
-| Bills Cosponsored | 201 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (22)
-- Agriculture and Food (19)
-- Crime and Law Enforcement (17)
-- Taxation (16)
-- Finance and Financial Sector (15)
-- Government Operations and Politics (15)
-- Health (13)
-- International Affairs (13)
-- Immigration (11)
-- Transportation and Public Works (11)
-
-**Recent bills sponsored:**
-
-- HCONRES 120: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony as part of the unveiling of the...
-- HR 8475: Explosive Ordnance Disposal Brain Health and Suicide Report Act of 2024
-- HR 8473: Total Army Analysis Explosive Ordnance Disposal Domestic Response Act of 2024
-- HR 8476: Department of the Army’s Explosive Ordnance Disposal Enterprise Act of 2024
-- HR 8474: Explosive Ordnance Disposal Incentive Pay Improvement Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

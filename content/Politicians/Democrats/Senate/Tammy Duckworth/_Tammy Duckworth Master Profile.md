@@ -200,6 +200,69 @@ SORT title ASC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 60 |
+| Bills Cosponsored | 477 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- Crime and Law Enforcement (44)
+- International Affairs (37)
+- Government Operations and Politics (34)
+- Civil Rights and Liberties, Minority Issues (29)
+- Labor and Employment (29)
+- Education (29)
+- Armed Forces and National Security (29)
+- Transportation and Public Works (26)
+- Immigration (25)
+
+**Recent bills sponsored:**
+
+- S 5348: Uniformed Services Leave Parity Act
+- S 5330: Improving Access to Prenatal Care for Military Families Act
+- S 5118: Kangaroo Protection Act of 2023
+- S 5088: Entrepreneurs with Disabilities Reporting Act of 2024
+- S 5033: CCAMPIS Reauthorization Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 47 |
+| Bills Cosponsored | 423 |
+| Total Votes Cast | 6,221 |
+
+**Recent bills sponsored:**
+
+- S. 4247: A bill to establish rights for people being considered for and in protective arrangements, including guardianships and c — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4217: Copay Fairness for Veterans Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4218: VA Appraisal Modernization Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4194: Inspector General Accessibility Reporting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 657: A resolution commending Taiwan on the 30th anniversary of its first direct presidential election in 1996, and expressing — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 23, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412533) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 Tammy Duckworth. Democrat, Illinois. Senator since 2017. Purple Heart recipient who lost both legs and partial use of her right arm when her Black Hawk helicopter was shot down in Iraq (November 2004). First Thai-American senator, first senator to give birth while in office, first female double amputee in Congress. Chairs the Armed Services Subcommittee on Airland — overseeing Army and Air Force planning, operations, and National Guard/Reserve policy. Also serves on Commerce, Environment and Public Works, and Small Business committees.
@@ -353,35 +416,6 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 15 |
-| Purchases | 1 |
-| Sales | 14 |
-| Est. Value Range | $29,015 – $260,000 |
-
-**Top tickers traded:** CAT, BBL, GS, SOUHY, DWDP, ABT, JNJ, CC
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/21/2017 | BBL | Purchase | $1,001 - $15,000 | Joint |
-| 11/30/2017 | GS | Sale | $1,001 - $15,000 | Joint |
-| 11/01/2017 | SOUHY | Sale | $1,001 - $15,000 | Joint |
-| 10/23/2017 | DWDP | Sale | $1,001 - $15,000 | Joint |
-| 10/18/2017 | ABT | Sale | $1,001 - $15,000 | Joint |
-| 10/17/2017 | JNJ | Sale | $1,001 - $15,000 | Joint |
-| 10/10/2017 | CC | Sale | $1,001 - $15,000 | Joint |
-| 09/15/2017 | INTC | Sale | $1,001 - $15,000 | Joint |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -418,37 +452,6 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 - {{src:src_005102}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 47 |
-| Bills Cosponsored | 423 |
-| Total Votes Cast | 6,221 |
-
-**Recent bills sponsored:**
-
-- S. 4247: A bill to establish rights for people being considered for and in protective arrangements, including guardianships and c — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4217: Copay Fairness for Veterans Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4218: VA Appraisal Modernization Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4194: Inspector General Accessibility Reporting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 657: A resolution commending Taiwan on the 30th anniversary of its first direct presidential election in 1996, and expressing — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 23, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412533) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -478,38 +481,6 @@ Duckworth's veteran advocacy, the billions in caregiver funding, the suicide pre
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 60 |
-| Bills Cosponsored | 477 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (74)
-- Crime and Law Enforcement (44)
-- International Affairs (37)
-- Government Operations and Politics (34)
-- Civil Rights and Liberties, Minority Issues (29)
-- Labor and Employment (29)
-- Education (29)
-- Armed Forces and National Security (29)
-- Transportation and Public Works (26)
-- Immigration (25)
-
-**Recent bills sponsored:**
-
-- S 5348: Uniformed Services Leave Parity Act
-- S 5330: Improving Access to Prenatal Care for Military Families Act
-- S 5118: Kangaroo Protection Act of 2023
-- S 5088: Entrepreneurs with Disabilities Reporting Act of 2024
-- S 5033: CCAMPIS Reauthorization Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

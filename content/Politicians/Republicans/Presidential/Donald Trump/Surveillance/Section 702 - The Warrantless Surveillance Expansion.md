@@ -79,7 +79,6 @@ The surveillance expansion serves the defense contractor and tech donor class di
 - [The Intercept. Controversial Warrantless Spying Law Expiring Soon and Trump Officials Are Silent On It (January 2026)](https://theintercept.com/2026/01/29/nsa-702-fisa-surveillance/) (Tier 2) (VERIFIED)
 - [CBS News. House approves bill renewing FISA spy program (April 2024)](https://www.cbsnews.com/news/fisa-reauthorization-house-vote-section-702/) (Tier 3) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Committee Assignments (Congress.gov)
 

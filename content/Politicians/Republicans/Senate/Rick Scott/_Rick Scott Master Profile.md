@@ -194,6 +194,52 @@ donors: Healthcare Industry · [[Fanjul Family - Florida Crystals]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 128 |
+| Bills Cosponsored | 552 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (113)
+- Government Operations and Politics (54)
+- Health (47)
+- Armed Forces and National Security (47)
+- Finance and Financial Sector (44)
+- Crime and Law Enforcement (43)
+- Education (36)
+- Congress (34)
+- Taxation (31)
+- Immigration (22)
+
+**Enacted into law:**
+
+- S 3181: Michel O. Maceda Memorial Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 142 |
+| Bills Cosponsored | 331 |
+| Total Votes Cast | 3,093 |
+
+**Recent bills sponsored:**
+
+- S.Res. 647: A resolution designating March 21, 2026, as “National Osceola Turkey Day”. — *This simple resolution was agreed to on March 27, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 4229: A bill to require the Secretary of Veterans Affairs to establish a comprehensive standard for timing between referrals a — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4231: A bill to amend title 38, United States Code, to increase flexibility in the transferability of Post-9/11 Educational As — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Con.Res. 30: A concurrent resolution expressing the sense of Congress that the Ratepayer Protection Pledge announced on March 4, 2026 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4184: Senior Citizens’ Freedom to Work Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412838) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Rick Scott. Senior Senator from Florida (2019–present). Former Governor of Florida (2011–2019). Former CEO of Columbia/HCA, the company that committed the largest Medicare misconduct in U.S. history ($1.7 billion settlement, 14 felonies). Invoked the Fifth Amendment 75 times in deposition. Departure package: $370M+. Self-funded $152M+ across campaigns. Net worth: $200–300M (wealthiest member of Congress). NRSC chair 2022 (spent 95% of $181.5M before general election). Wife Ann Scott's portfolio: 550+ investment items, Cayman Islands hedge funds, tech giants.
@@ -335,53 +381,7 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Total Trades | 142 |
-| Purchases | 119 |
-| Sales | 19 |
-| Exchanges | 4 |
-| Est. Value Range | $55,002,142 – $141,530,000 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/19/2019 | -- | Purchase | $100,001 - $250,000 | Self |
-| 12/19/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
-| 12/19/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
-| 12/19/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
-| 12/17/2019 | -- | Purchase | $100,001 - $250,000 | Self |
-| 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
-| 12/17/2019 | -- | Purchase | $500,001 - $1,000,000 | Spouse |
-| 12/17/2019 | -- | Purchase | $250,001 - $500,000 | Spouse |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 142 |
-| Bills Cosponsored | 331 |
-| Total Votes Cast | 3,093 |
-
-**Recent bills sponsored:**
-
-- S.Res. 647: A resolution designating March 21, 2026, as “National Osceola Turkey Day”. — *This simple resolution was agreed to on March 27, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 4229: A bill to require the Secretary of Veterans Affairs to establish a comprehensive standard for timing between referrals a — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4231: A bill to amend title 38, United States Code, to increase flexibility in the transferability of Post-9/11 Educational As — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Con.Res. 30: A concurrent resolution expressing the sense of Congress that the Ratepayer Protection Pledge announced on March 4, 2026 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4184: Senior Citizens’ Freedom to Work Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412838) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -436,34 +436,6 @@ Scott's wife Ann holds a portfolio of 550+ investment items, including Cayman Is
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 128 |
-| Bills Cosponsored | 552 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (113)
-- Government Operations and Politics (54)
-- Health (47)
-- Armed Forces and National Security (47)
-- Finance and Financial Sector (44)
-- Crime and Law Enforcement (43)
-- Education (36)
-- Congress (34)
-- Taxation (31)
-- Immigration (22)
-
-**Enacted into law:**
-
-- S 3181: Michel O. Maceda Memorial Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

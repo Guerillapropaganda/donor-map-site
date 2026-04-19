@@ -142,6 +142,38 @@ top-donors: "[[International Association of Firefighters Interested in Registrat
 
 # Lisa Blunt Rochester
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 470 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (148)
+- Armed Forces and National Security (40)
+- Crime and Law Enforcement (34)
+- Civil Rights and Liberties, Minority Issues (32)
+- Government Operations and Politics (27)
+- Labor and Employment (23)
+- Agriculture and Food (22)
+- Taxation (21)
+- Education (20)
+- International Affairs (19)
+
+**Recent bills sponsored:**
+
+- HR 10465: To study the need for, and the feasibility and cost of, establishing a national residential rental registry, and for ...
+- HR 9673: Consumers LEARN AI Act
+- HRES 1465: Honoring the life and legacy of Diaz Bonville.
+- HR 8604: Reducing Regulatory Barriers to Housing Act
+- HR 8223: Advancing Menopause Care and Mid-Life Women’s Health Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Lisa Blunt Rochester. Democrat, Delaware. US Senator since January 2025, elected November 2024 to succeed retiring Senator Tom Carper. Previously Delaware's at-large House member (2017-2025, 4 terms), the first Black woman elected to Congress from Delaware. Born February 1962 in Philadelphia, PA. University of Delaware and Georgetown. Delaware Secretary of Health and Social Services and State Personnel Director under Governor Carper before Congress. Committee assignments not yet in pipeline. 2,014 roll-call votes tracked (117th-119th Congress, House and Senate). Voting record: 98.4% party-line loyalty across 1,948 substantive votes, 30 deviations. Delaware is a safe blue state; total outside support was $17K and total opposition was zero.
@@ -220,35 +252,4 @@ The 30 deviations at 98.4% loyalty in 1,948 substantive votes reflect a senator 
 **Donor-Class Override (deferred to S. 1582 verification).** The potential crypto-alignment deviation (S. 1582 Yea while Democrats voted Nay) is the first test case for whether Blunt Rochester's AI/crypto donors are shaping her early Senate positioning. The analysis is deferred until bill-level verification of S. 1582 is complete. If confirmed as a crypto-regulatory vote, it would establish the first documented donor-class override case in her Senate career: a Democrat voting with the crypto industry against the Democratic caucus majority within the first six months of her Senate term.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 29 |
-| Bills Cosponsored | 470 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (148)
-- Armed Forces and National Security (40)
-- Crime and Law Enforcement (34)
-- Civil Rights and Liberties, Minority Issues (32)
-- Government Operations and Politics (27)
-- Labor and Employment (23)
-- Agriculture and Food (22)
-- Taxation (21)
-- Education (20)
-- International Affairs (19)
-
-**Recent bills sponsored:**
-
-- HR 10465: To study the need for, and the feasibility and cost of, establishing a national residential rental registry, and for ...
-- HR 9673: Consumers LEARN AI Act
-- HRES 1465: Honoring the life and legacy of Diaz Bonville.
-- HR 8604: Reducing Regulatory Barriers to Housing Act
-- HR 8223: Advancing Menopause Care and Mid-Life Women’s Health Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

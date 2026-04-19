@@ -208,6 +208,69 @@ SORT file.name ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 330 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (41)
+- International Affairs (28)
+- Armed Forces and National Security (28)
+- Public Lands and Natural Resources (22)
+- Civil Rights and Liberties, Minority Issues (21)
+- Labor and Employment (21)
+- Congress (19)
+- Science, Technology, Communications (19)
+- Energy (18)
+- Education (17)
+
+**Recent bills sponsored:**
+
+- S 5573: A bill to amend title 35, United States Code, to provide for a safe harbor from infringement of a method of use paten...
+- S 5404: Summit of the Americas Act
+- S 5401: Workforce Data Enhancement Act
+- S 5281: REPLACE Act
+- S 5251: Critical Materials Future Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 106 |
+| Bills Cosponsored | 879 |
+| Total Votes Cast | 2,373 |
+
+**Recent bills sponsored:**
+
+- S. 4116: Geo POWER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4005: Responsible Containment Reauthorization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1898: ORBITS Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3792: Water Project Navigators Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3576: PREPARE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456797) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 John Wright Hickenlooper Jr. (born February 7, 1952). Democratic U.S. Senator from Colorado since 2021. Previously the 42nd Governor of Colorado (2011–2019) and Mayor of Denver (2003–2011). Geologist turned brewpub founder turned politician. Up for reelection in 2026, has confirmed this will be his final Senate campaign. Serves on the Senate Energy and Natural Resources Committee, Commerce Committee, and Small Business and Entrepreneurship Committee. Leadership PAC: Giddy Up PAC.
@@ -398,75 +461,10 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 - {{src:src_005322}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $7,607,184 |
-| Individual Contributions | $4,226,430 |
-| PAC Contributions | $844,277 |
-| Cash on Hand | 3877765.39 |
-| IE Support (Super PAC) | $7,715,842 |
-| IE Opposition (Super PAC) | $33,536,139 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $7,607,184 | $4,226,430 | $844,277 |
-| 2020 | $44,246,118 | $25,067,941 | $786,813 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| SENATE LEADERSHIP FUND | $0 | $15,707,048 |
-| NRSC | $0 | $15,464,768 |
-| SMP | $5,256,392 | $0 |
-| FAIR SHARE ACTION | $1,511,450 | $0 |
-| ESAFUND | $0 | $1,050,000 |
-
-- {{src:src_001920}} (Tier 1) (VERIFIED)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 106 |
-| Bills Cosponsored | 879 |
-| Total Votes Cast | 2,373 |
-
-**Recent bills sponsored:**
-
-- S. 4116: Geo POWER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4005: Responsible Containment Reauthorization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 1898: ORBITS Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
-- S. 3792: Water Project Navigators Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3576: PREPARE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456797) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -539,38 +537,6 @@ The Brownstein Hyatt Farber Schreck connection illustrates how the donor class o
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 49 |
-| Bills Cosponsored | 330 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (41)
-- International Affairs (28)
-- Armed Forces and National Security (28)
-- Public Lands and Natural Resources (22)
-- Civil Rights and Liberties, Minority Issues (21)
-- Labor and Employment (21)
-- Congress (19)
-- Science, Technology, Communications (19)
-- Energy (18)
-- Education (17)
-
-**Recent bills sponsored:**
-
-- S 5573: A bill to amend title 35, United States Code, to provide for a safe harbor from infringement of a method of use paten...
-- S 5404: Summit of the Americas Act
-- S 5401: Workforce Data Enhancement Act
-- S 5281: REPLACE Act
-- S 5251: Critical Materials Future Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

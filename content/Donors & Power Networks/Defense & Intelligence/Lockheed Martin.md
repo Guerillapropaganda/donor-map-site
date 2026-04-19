@@ -398,40 +398,6 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 8 |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | 7 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Defense & Military** → Funds **Jack Reed** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Kay Granger** → Sits on **Appropriations**
-- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
-
-**Funded politicians:**
-
-- [[Adam Smith]] (House Committee on Armed Services) — contracts: $67K
-- [[Rosa DeLauro]] (House Committee on Appropriations) — contracts: $67K
-- [[Jack Reed]] (Armed Services) — contracts: $67K
-- [[Tammy Duckworth]] (Armed Services) — contracts: $67K
-- [[Mike Rogers]] (Armed Services) — contracts: $67K
-- [[Kay Granger]] (Appropriations) — contracts: $67K
-- [[Lindsey Graham]] — contracts: $67K
-- [[Roger Wicker]] (Armed Services) — contracts: $67K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
@@ -504,64 +470,6 @@ Lockheed Martin's PAC splits roughly 55% Republican, 45% Democrat. This is not a
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Subawards Issued (as prime) | 50 ($2.9B sampled) |
-| Subawards Received (as sub) | 50 ($2.9B sampled) |
-| Top Federal Agency | National Aeronautics and Space Administration ($4.0B) |
-| Primary NAICS Sector | All Other Support Services |
-
-**Subcontractors receiving federal money from Lockheed Martin:**
-
-| Subcontractor | Amount | Awards |
-|---------------|--------|--------|
-| LOCKHEED MARTIN CORPORATION | $2.8B | 45 |
-| RAYTHEON/LOCKHEED MARTIN JAVELIN JV | $48.4M | 2 |
-| LOCKHEED MARTIN CORP | $42.8M | 1 |
-| LOCKHEED MARTIN GLOBAL, INC | $38.0M | 1 |
-| LOCKHEED MARTIN SIPPICAN, INC. | $22.7M | 1 |
-
-**Prime contractors funneling federal money to Lockheed Martin:**
-
-| Prime Contractor | Amount | Awards |
-|------------------|--------|--------|
-| LOCKHEED MARTIN CORPORATION | $1.5B | 25 |
-| NORTHROP GRUMMAN SYSTEMS CORPORATION | $568.9M | 10 |
-| BELL TEXTRON INC. | $343.1M | 3 |
-| RAYTHEON COMPANY | $242.6M | 1 |
-| BOEING COMPANY, THE | $152.2M | 5 |
-| JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC, THE | $42.8M | 1 |
-| THE BOEING COMPANY | $37.1M | 1 |
-| ELECTRIC BOAT CORPORATION | $24.3M | 1 |
-
-**Federal agency spending breakdown:**
-
-| Agency | Amount |
-|--------|--------|
-| National Aeronautics and Space Administration | $4.0B |
-| Department of Homeland Security | $673.3M |
-| Department of Commerce | $489.0M |
-| Department of Transportation | $170.9M |
-| General Services Administration | $130.2M |
-| Department of Justice | $34.1M |
-| Department of the Interior | $13.8M |
-
-**Federal spending by industry sector (NAICS):**
-
-| Sector | Amount |
-|--------|--------|
-| All Other Support Services (561990) | $3.9B |
-| Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing (336415) | $3.1B |
-| Research and Development in the Physical, Engineering, and Life Sciences (541710) | $2.3B |
-| Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing (336419) | $2.3B |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-
-<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

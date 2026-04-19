@@ -101,6 +101,38 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 354 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (56)
+- Health (45)
+- Crime and Law Enforcement (42)
+- International Affairs (32)
+- Agriculture and Food (29)
+- Taxation (26)
+- Government Operations and Politics (24)
+- Education (17)
+- Transportation and Public Works (16)
+- Environmental Protection (13)
+
+**Recent bills sponsored:**
+
+- HR 10267: Complete the Mission Act of 2024
+- HR 10201: To amend title 36, United States Code, to move the place of incorporation and domicile of the National Woman's Relief...
+- HRES 1586: Recognizing the 50th anniversary of Mid-America Transplant.
+- HR 9685: USPS Act
+- HR 9427: Veterans’ Mental Health Access Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Mike Bost represents Illinois's 12th Congressional District (Southern Illinois) and chairs the House Veterans' Affairs Committee, the body with jurisdiction over VA healthcare, benefits, disability compensation, the GI Bill, and the Veterans Health Administration's $300+ billion budget. He has chaired the committee since 2023 and was reelected to the chairmanship for the 119th Congress.
@@ -230,38 +262,6 @@ The class structure here is institutional, not financial. Bost's chairmanship de
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 37 |
-| Bills Cosponsored | 354 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (56)
-- Health (45)
-- Crime and Law Enforcement (42)
-- International Affairs (32)
-- Agriculture and Food (29)
-- Taxation (26)
-- Government Operations and Politics (24)
-- Education (17)
-- Transportation and Public Works (16)
-- Environmental Protection (13)
-
-**Recent bills sponsored:**
-
-- HR 10267: Complete the Mission Act of 2024
-- HR 10201: To amend title 36, United States Code, to move the place of incorporation and domicile of the National Woman's Relief...
-- HRES 1586: Recognizing the 50th anniversary of Mid-America Transplant.
-- HR 9685: USPS Act
-- HR 9427: Veterans’ Mental Health Access Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

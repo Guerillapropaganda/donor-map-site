@@ -226,30 +226,6 @@ Continued US defense spending on armored vehicles (Bradley replacement program, 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Active Lobbyist | Yes |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
-- Lobbies on **Intelligence** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Jeanne Shaheen** → Sits on **Armed Services**
-
-**Funded politicians:**
-
-- [[Jeanne Shaheen]] (Foreign Relations, Armed Services) — lobbying: $10.6M — contracts: $816K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

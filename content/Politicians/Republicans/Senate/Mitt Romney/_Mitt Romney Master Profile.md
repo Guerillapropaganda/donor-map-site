@@ -140,6 +140,61 @@ top-policy-area: International Affairs
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 150 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (32)
+- Congress (18)
+- Armed Forces and National Security (15)
+- Education (14)
+- Government Operations and Politics (11)
+- Finance and Financial Sector (10)
+- Labor and Employment (8)
+- Public Lands and Natural Resources (7)
+- Environmental Protection (7)
+- Health (7)
+
+**Recent bills sponsored:**
+
+- S 5616: A bill to establish the Artificial Intelligence Safety Review Office in the Department of Commerce, and for other pur...
+- S 5403: Aligning Development and Competition Act of 2024
+- S 5256: Family Security Act
+- S 5140: COVID Spending Transparency Act of 2024
+- S 5079: Tax Relief for American Families and Workers Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 2,360 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | Nay | Bill Passed |
+| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | Nay | Bill Passed |
+| 2024-12-20 | On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 82) | Nay | Motion Agreed to |
+| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension o… | Yea | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | Yea | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | Yea | Amendment Rejected |
+| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages f… | Nay | Amendment Rejected |
+| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United Sta… | Nay | Nomination Confirmed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412841) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Mitt Romney (born 1947) served as U.S. Senator from Utah (2019–2025, retired). 2012 Republican presidential nominee. Massachusetts Governor (2003–2007). Co-founder and former CEO of Bain Capital (1984–2002), a private equity firm. Billionaire (net worth $250M+). Presented himself as a "successful businessman" and "self-funded" candidate, insulating himself from traditional donor dependence through personal wealth.
@@ -224,64 +279,9 @@ His 2020 impeachment vote (one of seven Republicans voting to convict) demonstra
 - {{src:src_003307}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 2,360 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | Nay | Bill Passed |
-| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | Nay | Bill Passed |
-| 2024-12-20 | On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 82) | Nay | Motion Agreed to |
-| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension o… | Yea | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | Yea | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | Yea | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages f… | Nay | Amendment Rejected |
-| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United Sta… | Nay | Nomination Confirmed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412841) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 27 |
-| Bills Cosponsored | 150 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (32)
-- Congress (18)
-- Armed Forces and National Security (15)
-- Education (14)
-- Government Operations and Politics (11)
-- Finance and Financial Sector (10)
-- Labor and Employment (8)
-- Public Lands and Natural Resources (7)
-- Environmental Protection (7)
-- Health (7)
-
-**Recent bills sponsored:**
-
-- S 5616: A bill to establish the Artificial Intelligence Safety Review Office in the Department of Commerce, and for other pur...
-- S 5403: Aligning Development and Competition Act of 2024
-- S 5256: Family Security Act
-- S 5140: COVID Spending Transparency Act of 2024
-- S 5079: Tax Relief for American Families and Workers Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

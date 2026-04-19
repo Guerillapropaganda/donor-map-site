@@ -179,26 +179,6 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Securus%20Technologies%20-%20Aventiv) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Vehicle Recalls | 0 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
-
-**Active/recent investigations:**
-
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
-
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Securus%20Technologies%20-%20Aventiv) (Tier 1)
-
-<!-- auto:nhtsa-recalls pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -218,23 +198,6 @@ The $315M California contract is the countervailing force. Even as rates are reg
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
-<!-- auto:gleif-lei pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Field | Value |
-|-------|-------|
-| LEI | [549300EBCNNXVCJ2FW66](https://search.gleif.org/#/record/549300EBCNNXVCJ2FW66) |
-| Legal Name | Aventiv Technologies, LLC |
-| Jurisdiction | US-DE |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | LAPSED |
-| Last Updated | 2023-12-22T13:30:05Z |
-
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-
-<!-- auto:gleif-lei pending-merge end -->
 
 ### Federal Contracts (USASpending)
 <!-- auto:usaspending start -->

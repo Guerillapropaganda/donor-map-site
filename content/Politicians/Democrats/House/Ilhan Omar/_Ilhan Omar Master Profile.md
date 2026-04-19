@@ -206,6 +206,38 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 534 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (76)
+- Health (55)
+- Labor and Employment (45)
+- Crime and Law Enforcement (35)
+- Civil Rights and Liberties, Minority Issues (34)
+- Taxation (32)
+- Government Operations and Politics (29)
+- Armed Forces and National Security (28)
+- Education (27)
+- Immigration (25)
+
+**Recent bills sponsored:**
+
+- HRES 1593: Expressing support for the designation of December 16, 2024, as the "National Day of Awareness for Missing and Murder...
+- HR 9907: Long COVID Research Moonshot Act
+- HR 9878: No Shame at School Act of 2024
+- HR 9279: Shrinkflation Reduction Act
+- HRES 1388: Supporting the goals and ideals of World Drowning Prevention Day.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Ilhan Omar. Democratic Representative from Minnesota's 5th District (Minneapolis). Somali-American refugee who arrived in the U.S. at age 14 after four years in a Kenyan refugee camp. First Somali-American elected to Congress. One of the first two Muslim women elected to Congress (2018, alongside Rashida Tlaib). Original "Squad" member. Current committee assignments: Budget and Education committees (removed from Foreign Affairs by House Republicans in 2023).
@@ -364,37 +396,6 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - [Ballotpedia: Ilhan Omar](https://ballotpedia.org/Ilhan_Omar) (Tier 3) (VERIFIED)
 
 #### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 25 |
-| Bills Cosponsored | 534 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (76)
-- Health (55)
-- Labor and Employment (45)
-- Crime and Law Enforcement (35)
-- Civil Rights and Liberties, Minority Issues (34)
-- Taxation (32)
-- Government Operations and Politics (29)
-- Armed Forces and National Security (28)
-- Education (27)
-- Immigration (25)
-
-**Recent bills sponsored:**
-
-- HRES 1593: Expressing support for the designation of December 16, 2024, as the "National Day of Awareness for Missing and Murder...
-- HR 9907: Long COVID Research Moonshot Act
-- HR 9878: No Shame at School Act of 2024
-- HR 9279: Shrinkflation Reduction Act
-- HRES 1388: Supporting the goals and ideals of World Drowning Prevention Day.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 - ~~[OpenSecrets News: Pro-Israel PACs poised to spend big to unseat progressive Congress members in 2024](https://www.opensecrets.org/news/2023/12/pro-israel-pacs-poised-to-spend-big-to-unseat-progressive-members-of-congress-in-2024-election-cycle/)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09, use FEC/Jewish Insider sources above for same data)
@@ -434,55 +435,9 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - {{src:src_006158}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $3,125,783 |
-| Individual Contributions | $1,052,716 |
-| PAC Contributions | $35,829 |
-| Cash on Hand | 1120804.52 |
-| IE Support (Super PAC) | $1,523,284 |
-| IE Opposition (Super PAC) | $5,386,791 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $3,125,783 | $1,052,716 | $35,829 |
-| 2024 | $8,335,875 | $4,038,893 | $232,667 |
-| 2022 | $3,111,918 | $1,526,058 | $198,407 |
-| 2020 | $5,810,874 | $2,153,641 | $200,743 |
-| 2018 | $1,084,183 | $575,041 | $189,943 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| AMERICANS FOR TOMORROW'S FUTURE | $0 | $4,967,397 |
-| MINNESOTA DEMOCRATIC-FARMER-LABOR PARTY | $646,963 | $0 |
-| TAKEACTION MN FEDERAL FUND | $375,609 | $0 |
-| WFP IE COMMITTEE | $161,100 | $0 |
-| NATIONAL NURSES UNITED FOR PATIENT PROTECTION | $155,229 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Ilhan Omar](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 
 ### Legislative Activity (Congress.gov)
@@ -514,37 +469,6 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - ~~[Source: Congress.gov](https://www.congress.gov/member/O000173)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | MN |
-| Chamber | House |
-| Bills Sponsored | 122 |
-| Bills Cosponsored | 2177 |
-
-**Policy areas:** Agriculture and Food, Animals, Commerce, Crime and Law Enforcement, Energy, Environmental Protection, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Native Americans, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 5720 | Federal Worker Childcare Protection Act of 2025 | Referred to the House Committee on Oversight and Government Reform. |
-| 5655 | No Shame at School Act of 2025 | Referred to the House Committee on Education and Workforce. |
-| 51 | To direct the removal of United States Armed Forces from hostilities that have n… | Referred to the House Committee on Foreign Affairs. |
-| 669 | Honoring the victims and survivors of the mass shooting at Annunciation Catholic… | Referred to the House Committee on Oversight and Government Reform. |
-| 606 | Supporting the goals and ideals of World Drowning Prevention Day. | Referred to the House Committee on Foreign Affairs. |
-| 4714 | End Polluter Welfare Act of 2025 | Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, Natural Resources, Science, Space, and Technology, Energy and Commerce, Agriculture, Appropriations, Financial Services, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 4241 | Syria Sanctions Relief Act | Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 451 | Expressing condemnation for police brutality wherever in the world it occurs. | Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/O000173) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -561,23 +485,6 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Committees:**
-
-- House Committee on Education and Workforce
-- House Committee on the Budget
-
-**Subcommittees:**
-
-- Higher Education and Workforce Development
-- Workforce Protections
-
-- [Source: Congress.gov](https://www.congress.gov/member/O000173) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -604,33 +511,6 @@ Omar's small-dollar model ($1.7M in Q1 2024, 56,022 contributions, $31.79 averag
 - {{src:src_006158}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $3,125,783 |
-| Total Spent | $2,329,199 |
-| Cash on Hand | 1120804.52 |
-| Individual Contributions | $1,052,716 |
-| PAC Contributions | $35,829 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $3,125,783 | $2,329,199 | 1120804.52 |
-| 2024 | $8,335,875 | $8,063,371 | 324220.63 |
-| 2022 | $3,111,918 | $3,227,971 | 51716.15 |
-| 2020 | $5,810,874 | $5,697,934 | 167769.73 |
-| 2018 | $1,084,183 | $1,029,354 | 54829.27 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MN05239/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

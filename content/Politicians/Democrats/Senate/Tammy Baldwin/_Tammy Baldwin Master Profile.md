@@ -182,6 +182,35 @@ SORT title ASC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 76 |
+| Bills Cosponsored | 503 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (101)
+- Taxation (45)
+- Armed Forces and National Security (39)
+- Agriculture and Food (33)
+- Labor and Employment (31)
+- Crime and Law Enforcement (29)
+- Government Operations and Politics (29)
+- Civil Rights and Liberties, Minority Issues (28)
+- International Affairs (26)
+- Education (25)
+
+**Enacted into law:**
+
+- S 2046: National Defense Authorization Act for Fiscal Year 2024
+- S 2487: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Tammy Baldwin. U.S. Senator from Wisconsin (2013–present). First openly gay person elected to the U.S. Senate, defeating former Republican Governor Tommy Thompson in 2012 in a race that attracted national attention. Reelected in 2018 and 2024. The 2024 race was one of the most expensive Senate contests in the cycle: Baldwin raised $58.5M versus Eric Hovde's $31.6M, with outside spending exceeding $119M combined. She won by roughly one point in a state Donald Trump carried by three, the highest-profile Democratic swing-state Senate survival of the 2024 cycle.
@@ -384,35 +413,6 @@ The class position is swing-state progressive funded by professionals, serving w
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 76 |
-| Bills Cosponsored | 503 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (101)
-- Taxation (45)
-- Armed Forces and National Security (39)
-- Agriculture and Food (33)
-- Labor and Employment (31)
-- Crime and Law Enforcement (29)
-- Government Operations and Politics (29)
-- Civil Rights and Liberties, Minority Issues (28)
-- International Affairs (26)
-- Education (25)
-
-**Enacted into law:**
-
-- S 2046: National Defense Authorization Act for Fiscal Year 2024
-- S 2487: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

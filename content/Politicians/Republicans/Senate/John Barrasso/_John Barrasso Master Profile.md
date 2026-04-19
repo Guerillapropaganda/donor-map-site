@@ -152,6 +152,53 @@ top-policy-area: International Affairs
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 65 |
+| Bills Cosponsored | 338 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (51)
+- Health (42)
+- Environmental Protection (33)
+- Public Lands and Natural Resources (27)
+- Taxation (27)
+- Energy (23)
+- Congress (21)
+- Education (20)
+- Finance and Financial Sector (17)
+- Crime and Law Enforcement (16)
+
+**Enacted into law:**
+
+- S 763: Prohibiting Russian Uranium Imports Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 196 |
+| Total Votes Cast | 6,464 |
+| Leadership | Senate Majority Whip |
+
+**Recent bills sponsored:**
+
+- S. 4255: A bill to provide for phased-in payment of Social Security Disability Insurance payments during the waiting period for i — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4202: A bill to amend title XVIII of the Social Security Act to improve access to mental health services under the Medicare pr — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4173: Dollar-for-Dollar Deficit Reduction Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2787: Grasslands Grazing Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S. 3965: EDA Short Form Application Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412251) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 John Barrasso. Republican senator from Wyoming since 2007 (appointed to fill the seat of the late Craig Thomas, won special election in 2008, re-elected 2012, 2018, 2024). Senate Majority Whip in the 119th Congress, the second-highest position in Senate Republican leadership. Former chairman of the Senate Republican Conference (2019-2025). Former chairman of the Senate Environment and Public Works Committee (2019-2021). Former ranking member of the Senate Energy and Natural Resources Committee (2021-2025). Board-certified orthopedic surgeon in private practice in Casper, Wyoming from 1983 to 2007. Estimated net worth $8.3 million (2018). Wyoming's senior senator.
@@ -297,25 +344,6 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 - {{src:src_003553}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 49 |
-| Bills Cosponsored | 196 |
-| Total Votes Cast | 6,464 |
-| Leadership | Senate Majority Whip |
-
-**Recent bills sponsored:**
-
-- S. 4255: A bill to provide for phased-in payment of Social Security Disability Insurance payments during the waiting period for i — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4202: A bill to amend title XVIII of the Social Security Act to improve access to mental health services under the Medicare pr — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4173: Dollar-for-Dollar Deficit Reduction Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 2787: Grasslands Grazing Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-- S. 3965: EDA Short Form Application Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412251) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -334,55 +362,7 @@ Wyoming is the class contradiction made geographic. The state produces more coal
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Total Trades | 1 |
-| Purchases | 0 |
-| Sales | 1 |
-| Est. Value Range | $50,001 – $100,000 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 05/01/2018 | -- | Sale | $50,001 - $100,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 65 |
-| Bills Cosponsored | 338 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (51)
-- Health (42)
-- Environmental Protection (33)
-- Public Lands and Natural Resources (27)
-- Taxation (27)
-- Energy (23)
-- Congress (21)
-- Education (20)
-- Finance and Financial Sector (17)
-- Crime and Law Enforcement (16)
-
-**Enacted into law:**
-
-- S 763: Prohibiting Russian Uranium Imports Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

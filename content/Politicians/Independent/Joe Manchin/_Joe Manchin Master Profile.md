@@ -159,6 +159,34 @@ donors: [[Fossil Fuel Bloc]]
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 57 |
+| Bills Cosponsored | 260 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- International Affairs (33)
+- Armed Forces and National Security (33)
+- Congress (26)
+- Energy (16)
+- Finance and Financial Sector (16)
+- Environmental Protection (15)
+- Government Operations and Politics (14)
+- Public Lands and Natural Resources (13)
+- Taxation (13)
+
+**Enacted into law:**
+
+- S 3004: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Joe Manchin. Former U.S. Senator from West Virginia (2010–2025). Former Governor of West Virginia (2005–2010). Switched from Democrat to Independent in 2024 after declining to seek reelection. Explored a No Labels presidential bid before withdrawing. Founder of Enersystems Inc. a coal brokerage firm that paid him ~$500,000/year in dividends while he served in the Senate. Daughter Heather Bresch served as CEO of Mylan Pharmaceuticals during the EpiPen price scandal (391% increase). Net worth: ~$8 million.
@@ -335,31 +363,4 @@ The Manchin-Kyrsten Sinema bloc functioned as the donor class's two-person insur
 <!-- auto:fec-politician end -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 57 |
-| Bills Cosponsored | 260 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (34)
-- International Affairs (33)
-- Armed Forces and National Security (33)
-- Congress (26)
-- Energy (16)
-- Finance and Financial Sector (16)
-- Environmental Protection (15)
-- Government Operations and Politics (14)
-- Public Lands and Natural Resources (13)
-- Taxation (13)
-
-**Enacted into law:**
-
-- S 3004: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

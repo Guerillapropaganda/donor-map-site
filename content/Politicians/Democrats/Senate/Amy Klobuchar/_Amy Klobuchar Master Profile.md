@@ -189,6 +189,35 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 153 |
+| Bills Cosponsored | 644 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (133)
+- Crime and Law Enforcement (75)
+- Government Operations and Politics (55)
+- Taxation (49)
+- Agriculture and Food (43)
+- Education (43)
+- Armed Forces and National Security (39)
+- International Affairs (36)
+- Congress (33)
+- Commerce (30)
+
+**Enacted into law:**
+
+- S 1752: FAA Reauthorization Act of 2024
+- S 66: NOTAM Improvement Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Amy Klobuchar. Democrat, Minnesota. Senator since 2007. Chair of the Judiciary Subcommittee on Competition Policy, Antitrust, and Consumer Rights, the Senate's primary antitrust jurisdiction. Former Hennepin County Attorney (1999-2007). 2020 presidential candidate. Klobuchar has positioned herself as the Senate's antitrust champion, authoring the American Innovation and Choice Online Act (targeting Big Tech self-preferencing) and the Competition and Antitrust Law Enforcement Reform Act.
@@ -328,40 +357,6 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 3 of 4 |
-| Donors With Federal Contracts | 3 |
-| Committee Overlap Detected | 3 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Amazon** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-- **Amazon** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
-- **Amazon** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
-- **Amazon** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
-- **Amazon** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
-- **Apple** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-- **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
-- **Apple** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
-- **Apple** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
-- **Apple** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
-- **Meta - Facebook** donates → Lobbies on **Immigration** → This member sits on **Antitrust (Judiciary)**
-- **Meta - Facebook** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
-
-**Donors who lobby (by spend):**
-
-- [[Amazon]] — $42.1M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
-- [[Meta - Facebook]] — $36.5M lobbying spend (Automotive Industry, Aviation/Airlines/Airports, Banking) + $1 in contracts
-- [[Apple]] — $29.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking) + $15 in contracts
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -430,35 +425,6 @@ The legislative record is the class proof. The Merger Filing Fee Modernization A
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 153 |
-| Bills Cosponsored | 644 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (133)
-- Crime and Law Enforcement (75)
-- Government Operations and Politics (55)
-- Taxation (49)
-- Agriculture and Food (43)
-- Education (43)
-- Armed Forces and National Security (39)
-- International Affairs (36)
-- Congress (33)
-- Commerce (30)
-
-**Enacted into law:**
-
-- S 1752: FAA Reauthorization Act of 2024
-- S 66: NOTAM Improvement Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

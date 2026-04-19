@@ -194,6 +194,34 @@ top-policy-area: Health
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 84 |
+| Bills Cosponsored | 623 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (102)
+- Crime and Law Enforcement (49)
+- Armed Forces and National Security (46)
+- Labor and Employment (43)
+- Education (42)
+- Government Operations and Politics (41)
+- Taxation (36)
+- Finance and Financial Sector (35)
+- Civil Rights and Liberties, Minority Issues (34)
+- International Affairs (26)
+
+**Enacted into law:**
+
+- S 2047: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Elizabeth Herring Warren. Born June 22, 1949. Harvard Law professor, bankruptcy law expert, and architect of the Consumer Financial Protection Bureau. U.S. Senator from Massachusetts (2013–present). 2020 Democratic presidential candidate (third place). Author of 19 books on economic policy and family finances. The most intellectually serious financial critic in the Senate and the rare Democratic politician whose policy agenda genuinely threatens the donor class.
@@ -493,26 +521,6 @@ party:: Democrat
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 1 |
-| Purchases | 0 |
-| Sales | 0 |
-| Est. Value Range | $0 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 01/30/2013 | N/A | other | Unknown | N/A |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -581,34 +589,6 @@ party:: Democrat
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 84 |
-| Bills Cosponsored | 623 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (102)
-- Crime and Law Enforcement (49)
-- Armed Forces and National Security (46)
-- Labor and Employment (43)
-- Education (42)
-- Government Operations and Politics (41)
-- Taxation (36)
-- Finance and Financial Sector (35)
-- Civil Rights and Liberties, Minority Issues (34)
-- International Affairs (26)
-
-**Enacted into law:**
-
-- S 2047: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

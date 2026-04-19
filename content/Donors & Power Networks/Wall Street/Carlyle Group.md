@@ -371,37 +371,6 @@ The analytical pattern here is **Revolving Door** + **Both-Sides Illusion** + **
 
 <!-- auto:occ-enforcement end -->
 
-<!-- auto:occ-enforcement pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Legal name (OCC) | Oakland National Bank |
-| Charter number(s) | 2212 |
-| Total OCC enforcement actions | 2 |
-| **Active actions** | **1** |
-| Civil Money Penalties | 1 |
-| Total CMP dollars | $3,000 |
-| Most recent action | 11/10/1992 |
-
-**Action types:**
-
-- Prohibition/Removal Orders: 1
-- Civil Money Penalty (CMP): 1
-
-**Still-active enforcement actions:**
-
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
-
-**Recent enforcement history:**
-
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea860.pdf) (11/10/1992)
-- [: Civil Money Penalty (CMP)](https://www.occ.gov/static/enforcement-actions/ea826.pdf) (11/10/1992) — $3,000
-
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=Carlyle%20Group&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
-
-<!-- auto:occ-enforcement pending-merge end -->
 
 ### EPA Facility Registry
 <!-- auto:epa-echo start -->

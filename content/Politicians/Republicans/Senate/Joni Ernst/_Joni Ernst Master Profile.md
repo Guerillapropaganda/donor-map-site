@@ -169,6 +169,67 @@ donors: [[Koch Network - Charles Koch]], [[Agribusiness Donor Bloc]], [[Ethanol 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 81 |
+| Bills Cosponsored | 299 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (41)
+- Government Operations and Politics (34)
+- Health (29)
+- Agriculture and Food (29)
+- Armed Forces and National Security (27)
+- Education (23)
+- Congress (22)
+- Crime and Law Enforcement (22)
+- Immigration (18)
+- Commerce (16)
+
+**Enacted into law:**
+
+- S 3547: National Defense Authorization Act for Fiscal Year 2024
+- S 1469: National Defense Authorization Act for Fiscal Year 2024
+- S 2034: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 84 |
+| Bills Cosponsored | 174 |
+| Total Votes Cast | 4,194 |
+
+**Recent bills sponsored:**
+
+- S.Res. 653: A resolution designating March 21, 2026, as “National Women in Agriculture Day”. — *This simple resolution was agreed to on March 19, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 4130: COST Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3971: Small Business Innovation and Economic Security Act — *This bill was passed by Congress on March 17, 2026 and goes to the President next.*
+- S. 4059: End-of-Year Fiscal Responsibility Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1070: National STEM Week Act — *This bill passed in the Senate on February 26, 2026 and goes to the House next for consideration.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412667) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 Joni Ernst. U.S. Senator from Iowa (2015–2026, retiring). Born July 1, 1970, in Montgomery County, Iowa. Iraq War combat veteran (Lieutenant Colonel, U.S. Army Reserve). Iowa State Senator (2011–2014). Famous for farm-based brand identity ("make 'em squeal" TV ads from her 2014 House campaign referencing pig farming background). Won her Senate seat in 2014 with massive [[Koch Network - Charles Koch|Koch Network]] support. Reelected in 2020 with 6.6-point margin (51.8%) — comfortable but showing Iowa's gradual shift away from Republicans. Announced September 2, 2025, that she would not seek reelection in 2026. The vault's case study in how Koch Network money and agribusiness donations fund politicians whose "family farmer" brand masks corporate agricultural capture.
@@ -356,124 +417,11 @@ Retirement avoided the risk of a difficult 2026 campaign while preserving her ex
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 3 of 3 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 3 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Koch Network - Charles Koch** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-- **Agribusiness Donor Bloc** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-- **Ethanol Industry** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-
-**Donors who lobby (by spend):**
-
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
-- [[Ethanol Industry]] — $2.3M lobbying spend (Agriculture, Copyright/Patent/Trademark, Energy/Nuclear)
-- [[Agribusiness Donor Bloc]] — $480K lobbying spend (Agriculture, Budget/Appropriations)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 84 |
-| Bills Cosponsored | 174 |
-| Total Votes Cast | 4,194 |
-
-**Recent bills sponsored:**
-
-- S.Res. 653: A resolution designating March 21, 2026, as “National Women in Agriculture Day”. — *This simple resolution was agreed to on March 19, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 4130: COST Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3971: Small Business Innovation and Economic Security Act — *This bill was passed by Congress on March 17, 2026 and goes to the President next.*
-- S. 4059: End-of-Year Fiscal Responsibility Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 1070: National STEM Week Act — *This bill passed in the Senate on February 26, 2026 and goes to the House next for consideration.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412667) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Yea** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Yea** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Yea** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Nay** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Yea** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Yea** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Yea** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Joni Ernst](https://www.govtrack.us/congress/members/412667) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 81 |
-| Bills Cosponsored | 299 |
-| Bills Enacted | 3 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (41)
-- Government Operations and Politics (34)
-- Health (29)
-- Agriculture and Food (29)
-- Armed Forces and National Security (27)
-- Education (23)
-- Congress (22)
-- Crime and Law Enforcement (22)
-- Immigration (18)
-- Commerce (16)
-
-**Enacted into law:**
-
-- S 3547: National Defense Authorization Act for Fiscal Year 2024
-- S 1469: National Defense Authorization Act for Fiscal Year 2024
-- S 2034: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

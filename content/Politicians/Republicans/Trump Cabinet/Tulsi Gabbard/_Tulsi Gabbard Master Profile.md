@@ -92,6 +92,29 @@ donors: Hindu Nationalist Organizations · Adelson Network · Anti-Interventioni
 ---
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,693 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2020-12-28 | H.R. 6395: National Defense Authorization Act for Fiscal Year 2021 | Nay | Passed |
+| 2020-12-28 | H.R. 9051: CASH Act of 2020 | Yea | Passed |
+| 2020-12-21 | H.R. 133: Consolidated Appropriations Act, 2021 [Including Coronavirus Stimulus … | Nay | Passed |
+| 2020-12-21 | H.R. 133: Consolidated Appropriations Act, 2021 [Including Coronavirus Stimulus … | Nay | Passed |
+| 2020-12-21 | H.Res. 1271: Providing for consideration of the Senate amendment to the bill (H.… | Nay | Passed |
+| 2020-12-20 | H.J.Res. 110: Extension of Continuing Appropriations Act, 2021 | Yea | Passed |
+| 2020-12-18 | H.J.Res. 107: Further Additional Continuing Appropriations Act, 2021 | Yea | Passed |
+| 2020-12-18 | S. 979: Federal Advance Contracts Enhancement Act | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412532) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 Tulsi Gabbard. Born April 12, 1981, Leloaloa, American Samoa. Republican (formerly Democrat, then Independent). U.S. Representative from Hawaii's 2nd district (2013–2021). 2020 Democratic presidential candidate. Director of National Intelligence (February 2025–present). Major, Hawaii Army National Guard. Iraq War veteran (2004–2005 deployment, Combat Medical Badge).
@@ -228,29 +251,6 @@ Gabbard was raised in the Science of Identity Foundation (SIF), a new religious 
 - [Honolulu Civil Beat: Senators urged to examine Gabbard's 'deep and intense' ties to Hawaii sect](https://www.civilbeat.org/2024/12/senators-urged-to-examine-gabbards-deep-and-intense-ties-to-hawaii-sect/) (Tier 2) (VERIFIED)
 - [FEC: Tulsi Gabbard contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=gabbard,+tulsi) (Tier 1) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 4,693 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2020-12-28 | H.R. 6395: National Defense Authorization Act for Fiscal Year 2021 | Nay | Passed |
-| 2020-12-28 | H.R. 9051: CASH Act of 2020 | Yea | Passed |
-| 2020-12-21 | H.R. 133: Consolidated Appropriations Act, 2021 [Including Coronavirus Stimulus … | Nay | Passed |
-| 2020-12-21 | H.R. 133: Consolidated Appropriations Act, 2021 [Including Coronavirus Stimulus … | Nay | Passed |
-| 2020-12-21 | H.Res. 1271: Providing for consideration of the Senate amendment to the bill (H.… | Nay | Passed |
-| 2020-12-20 | H.J.Res. 110: Extension of Continuing Appropriations Act, 2021 | Yea | Passed |
-| 2020-12-18 | H.J.Res. 107: Further Additional Continuing Appropriations Act, 2021 | Yea | Passed |
-| 2020-12-18 | S. 979: Federal Advance Contracts Enhancement Act | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412532) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Archived
 

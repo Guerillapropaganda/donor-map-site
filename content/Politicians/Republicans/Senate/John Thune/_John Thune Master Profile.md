@@ -160,6 +160,38 @@ donors: [[NextEra Energy]], [[Goldman Sachs]], [[Insurance Industry]]
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 260 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (33)
+- International Affairs (26)
+- Taxation (26)
+- Crime and Law Enforcement (22)
+- Agriculture and Food (20)
+- Government Operations and Politics (19)
+- Congress (18)
+- Environmental Protection (16)
+- Science, Technology, Communications (16)
+- Armed Forces and National Security (15)
+
+**Recent bills sponsored:**
+
+- SRES 902: A resolution relating to the death of Timothy Peter Johnson, former Senator for the State of South Dakota.
+- S 5216: Western South Dakota Water Supply Project Feasibility Study Act
+- S 4821: Accelerating Broadband Permits Act
+- S 4301: A bill to grant States and Indian Tribes the authority to waive the 2-year foreign residence requirement for educator...
+- S 4257: END BYOD Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 John Thune. Senate Majority Leader (2025–present). Republican senator from South Dakota (2005–present, 4th term). The man [[_Mitch McConnell Master Profile|Mitch McConnell]] chose as his successor. Won the leadership race 29-24 over John Cornyn on the second ballot after [[_Rick Scott Master Profile|Rick Scott]] (Trump/Musk-backed) was eliminated in the first round. Career fundraising: $20+ million this cycle, $4 million single transfer to NRSC (largest ever by a Senate Republican). Top corporate donor: NextEra Energy (~$300K since 2016). Insurance industry: $361K (PAC + individual). Telecom: $928K+ career from ISPs (AT&T, Verizon, Comcast), second-highest Senate recipient of telecom money in 2015-16. Led opposition to net neutrality. Pharma CEOs: $35K in a single month (Pfizer, Gilead, Eli Lilly CEOs in February 2022). Finance: [[Goldman Sachs|Goldman Sachs]], Citigroup, Blackstone, Capital Group. Called for Trump to withdraw in October 2016 ("[[_Donald Trump Master Profile|Donald Trump]] should withdraw and Mike Pence should be our nominee"). Trump threatened to primary him. March 2024 Mar-a-Lago reconciliation dinner. Now clearing Trump nominees and blocking tariff resolutions. The agricultural-state senator funded by telecom, insurance, and Wall Street who campaigns on "South Dakota values" from the Senate Majority Leader's office.
@@ -302,38 +334,6 @@ The Majority Leader position is the capstone of the donor-class capture model. M
 - {{src:src_003500}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 49 |
-| Bills Cosponsored | 260 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (33)
-- International Affairs (26)
-- Taxation (26)
-- Crime and Law Enforcement (22)
-- Agriculture and Food (20)
-- Government Operations and Politics (19)
-- Congress (18)
-- Environmental Protection (16)
-- Science, Technology, Communications (16)
-- Armed Forces and National Security (15)
-
-**Recent bills sponsored:**
-
-- SRES 902: A resolution relating to the death of Timothy Peter Johnson, former Senator for the State of South Dakota.
-- S 5216: Western South Dakota Water Supply Project Feasibility Study Act
-- S 4821: Accelerating Broadband Permits Act
-- S 4301: A bill to grant States and Indian Tribes the authority to waive the 2-year foreign residence requirement for educator...
-- S 4257: END BYOD Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

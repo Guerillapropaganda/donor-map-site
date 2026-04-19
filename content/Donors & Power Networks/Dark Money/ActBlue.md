@@ -221,26 +221,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ActBlue%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 5 |
-| Form Types | 40-APP, 40-APP/A, EX-99 |
-
-**Notable filings:**
-
-- 2025-08-08 — **40-APP/A**: 40-APP/A
-- 2025-07-07 — **40-APP**: 40-APP
-- 2018-04-12 — **EX-99**: FORMC
-- 2018-04-13 — **EX-99**: FORMC
-- 2019-09-23 — **EX-99**: FORMC
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22ActBlue%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -264,30 +244,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 9 |
-| Rule | 1 |
-| Proposed Rule | 2 |
-| Notice | 6 |
-| Agencies | Federal Election Commission |
-
-**Recent regulatory activity:**
-- [Technological Modernization](https://www.federalregister.gov/documents/2024/01/02/2023-27908/technological-modernization) (2024-01-02) — Federal Election Commission
-- [Technological Modernization](https://www.federalregister.gov/documents/2022/09/08/2022-19382/technological-modernization) (2022-09-08) — Federal Election Commission
-- [Technological Modernization](https://www.federalregister.gov/documents/2016/11/02/2016-25102/technological-modernization) (2016-11-02) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2015/01/12/2015-00367/sunshine-act-meetings) (2015-01-12) — Federal Election Commission
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2014/09/16/2014-22087/sunshine-act-meetings) (2014-09-16) — Federal Election Commission
-- [Sunshine Act Notices](https://www.federalregister.gov/documents/2007/12/10/07-6011/sunshine-act-notices) (2007-12-10) — Federal Election Commission
-- ... and 3 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22ActBlue%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -339,27 +295,6 @@ The comparison to WinRed reveals the bipartisan nature of the grift. Both platfo
 
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 141 |
-| Courts | District Court, C.D. California, District Court, D. New Mexico, District Court, District of Columbia, District Court, E.D. Michigan, District Court, E.D. Virginia, District Court, N.D. California, District Court, N.D. Illinois, United States Bankruptcy Court, D. Massachusetts |
-| Case Types | 370 Other Fraud, 840 Trademark, 895 Freedom of Information Act, Civil Rights: Other |
-
-**Notable cases:**
-- COMMITTEE TO ELECT YAIDA FORD v. ACTBLUE LLC. (2026) — District Court, District of Columbia
-- JUDICIAL WATCH, INC. v. FEDERAL ELECTION COMMISSION (2026) — District Court, District of Columbia
-- PROTECT DEMOCRACY PROJECT v. U.S. DEPARTMENT OF THE TREASURY (2025) — District Court, District of Columbia
-- Center for Civic Action v. City of Albuquerque Board of Ethics and Campaign Practices (2025) — District Court, D. New Mexico
-- Campbell's Company v. Campbell (2025) — District Court, E.D. Michigan
-- Park 54 Restaurant Group LLC (2025) — United States Bankruptcy Court, D. Massachusetts
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22ActBlue%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -424,23 +359,6 @@ ActBlue is an American Democratic Party political action committee (PAC) and fun
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-ActBlue is an American Democratic Party political action committee (PAC) and fundraising platform founded in 2004. ActBlue is a major part of the Democratic Party's fundraising infrastructure.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q4676589](https://www.wikidata.org/wiki/Q4676589) |
-| Description | political nonprofit organization |
-| Founded | 2004-00-00 |
-| Website | [https://secure.actblue.com/](https://secure.actblue.com/) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/ActBlue) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q4676589) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

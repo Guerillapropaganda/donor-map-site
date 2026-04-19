@@ -164,6 +164,35 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 166 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (34)
+- International Affairs (21)
+- Government Operations and Politics (19)
+- Taxation (18)
+- Health (16)
+- Crime and Law Enforcement (11)
+- Armed Forces and National Security (11)
+- Congress (10)
+- Agriculture and Food (8)
+- Labor and Employment (7)
+
+**Enacted into law:**
+
+- HR 5734: A bill to amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain repor...
+- HR 3196: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Bryan Steil represents Wisconsin's 1st Congressional District (southeast Wisconsin — Janesville, Racine, Kenosha) and chairs the House Administration Committee — the committee with jurisdiction over federal election law, campaign finance, House operations, FEC oversight, contested elections, and the Capitol complex. He also serves on the Financial Services Committee.
@@ -359,35 +388,6 @@ Steil is Paul Ryan's protege and successor. He worked as Ryan's aide in 2003, sp
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 31 |
-| Bills Cosponsored | 166 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Finance and Financial Sector (34)
-- International Affairs (21)
-- Government Operations and Politics (19)
-- Taxation (18)
-- Health (16)
-- Crime and Law Enforcement (11)
-- Armed Forces and National Security (11)
-- Congress (10)
-- Agriculture and Food (8)
-- Labor and Employment (7)
-
-**Enacted into law:**
-
-- HR 5734: A bill to amend the Federal Election Campaign Act of 1971 to extend the Administrative Fine Program for certain repor...
-- HR 3196: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

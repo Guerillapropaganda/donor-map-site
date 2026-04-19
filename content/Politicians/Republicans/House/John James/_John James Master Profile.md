@@ -155,6 +155,38 @@ top-donors: "[[Andy Harris]], [[Anthem - Elevance Health]], [[Associated General
 
 # John James
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 177 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (49)
+- Armed Forces and National Security (34)
+- Health (25)
+- Education (16)
+- Taxation (12)
+- Government Operations and Politics (11)
+- Crime and Law Enforcement (10)
+- Labor and Employment (8)
+- Finance and Financial Sector (6)
+- Environmental Protection (5)
+
+**Recent bills sponsored:**
+
+- HR 10365: To extend certain authorities relating to United States efforts to combat HIV/AIDS, tuberculosis, and malaria globall...
+- HR 10366: To reauthorize the African Growth and Opportunity Act.
+- HR 10364: To safeguard children from harmful app services accessible through app stores across the United States, to provide pa...
+- HRES 1429: Congratulating the Olympians and Paralympians of Michigan who competed in the 2024 Olympics and Paralympics in Paris,...
+- HR 8893: Preserving Veterans’ Legacy Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 John James. Republican, Michigan-10 (Macomb County, northern Detroit suburbs). First elected 2022 after two Senate losses (2018 and 2020 against Gary Peters, losing by 6.5 points and 1.6 points respectively). Born June 1981, Black American, Detroit-area native, West Point graduate, US Army Ranger and Iraq War helicopter pilot (combat deployments 2004-2005), Bronze Star. CEO of James Group International (family automotive logistics company, Detroit). Assigned to Armed Services and Foreign Affairs. Top policy area is International Affairs (49 bills in 118th Congress), followed by Armed Forces (34). 36 bills sponsored, 177 cosponsored, 0 enacted. Voting record: 89.8% party-line loyalty across 1,625 substantive votes, 166 deviations, the highest deviation count in the Republican House cohort. Note: OFAC SDN match is a false positive (matched Jeffrey John James Ashfield, Australian national, SDGT/IFSR programs; not this politician).
@@ -256,35 +288,4 @@ Elon Musk's America PAC at $433K is the most politically significant donor in th
 <!-- auto:ofac-sdn end -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 177 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (49)
-- Armed Forces and National Security (34)
-- Health (25)
-- Education (16)
-- Taxation (12)
-- Government Operations and Politics (11)
-- Crime and Law Enforcement (10)
-- Labor and Employment (8)
-- Finance and Financial Sector (6)
-- Environmental Protection (5)
-
-**Recent bills sponsored:**
-
-- HR 10365: To extend certain authorities relating to United States efforts to combat HIV/AIDS, tuberculosis, and malaria globall...
-- HR 10366: To reauthorize the African Growth and Opportunity Act.
-- HR 10364: To safeguard children from harmful app services accessible through app stores across the United States, to provide pa...
-- HRES 1429: Congratulating the Olympians and Paralympians of Michigan who competed in the 2024 Olympics and Paralympics in Paris,...
-- HR 8893: Preserving Veterans’ Legacy Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

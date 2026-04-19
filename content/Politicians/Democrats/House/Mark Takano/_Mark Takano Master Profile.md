@@ -170,6 +170,38 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 509 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- Education (43)
+- Government Operations and Politics (41)
+- Civil Rights and Liberties, Minority Issues (41)
+- Armed Forces and National Security (39)
+- Crime and Law Enforcement (36)
+- Labor and Employment (31)
+- Taxation (27)
+- International Affairs (21)
+- Agriculture and Food (19)
+
+**Recent bills sponsored:**
+
+- HR 10381: To amend title 38, United States Code, to authorize a joint scholarship program under which the Secretary of Veterans...
+- HR 9855: VA Employee Fairness Act of 2024
+- HRES 1324: Condemning Uganda's undemocratic human rights regression.
+- HR 8560: End Veteran Homelessness Act of 2024
+- HRES 1135: A resolution supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Mark Takano represents California's 39th Congressional District (Riverside, Moreno Valley, Jurupa Valley, Perris) and is the Ranking Member of the House Veterans' Affairs Committee. He chaired the committee in the 117th Congress (2021-2023), during which the PACT Act — the largest expansion of VA benefits in decades — was signed into law.
@@ -292,15 +324,6 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Mark Takano](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -382,38 +405,6 @@ Takano's class position as a former teacher is not incidental. He spent 24 years
 - [Source: Congress.gov](https://www.congress.gov/member/T000472) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 29 |
-| Bills Cosponsored | 509 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (74)
-- Education (43)
-- Government Operations and Politics (41)
-- Civil Rights and Liberties, Minority Issues (41)
-- Armed Forces and National Security (39)
-- Crime and Law Enforcement (36)
-- Labor and Employment (31)
-- Taxation (27)
-- International Affairs (21)
-- Agriculture and Food (19)
-
-**Recent bills sponsored:**
-
-- HR 10381: To amend title 38, United States Code, to authorize a joint scholarship program under which the Secretary of Veterans...
-- HR 9855: VA Employee Fairness Act of 2024
-- HRES 1324: Condemning Uganda's undemocratic human rights regression.
-- HR 8560: End Veteran Homelessness Act of 2024
-- HRES 1135: A resolution supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

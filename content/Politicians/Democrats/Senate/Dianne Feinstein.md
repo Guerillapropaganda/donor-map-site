@@ -118,6 +118,26 @@ top-policy-area: Crime and Law Enforcement
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 10,389 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval … | Not Voting | Veto Sustained |
+| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval u… | Not Voting | Veto Sustained |
+| 2023-09-28 | On the Motion to Proceed H.R. 3935 | Yea | Motion to Proceed Agreed to |
+| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | Not Voting | Cloture Motion Agreed to |
+| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | Not Voting | Nomination Confirmed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1) (VERIFIED: slow but works)
+<!-- auto:govtrack end -->
+
 ## Who She Was
 
 Dianne Feinstein. Born June 22, 1929, died September 29, 2023 (age 94). Former U.S. Senator from California (1992-2023, 31 years, longest-serving female U.S. senator). Former Mayor of San Francisco (1978-1988). Chair of Senate Intelligence Committee (2009-2015). Married billionaire financier Richard Blum (1980-2022). Net worth approximately $110M at death ($58M minimum, $160M maximum range).
@@ -276,33 +296,6 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 29 |
-| Purchases | 0 |
-| Sales | 0 |
-| Est. Value Range | $0 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/18/2018 | N/A | other | Unknown | N/A |
-| 11/15/2018 | N/A | other | Unknown | N/A |
-| 10/19/2017 | N/A | other | Unknown | N/A |
-| 10/15/2018 | N/A | other | Unknown | N/A |
-| 09/13/2018 | N/A | other | Unknown | N/A |
-| 08/19/2019 | N/A | other | Unknown | N/A |
-| 08/15/2018 | N/A | other | Unknown | N/A |
-| 07/17/2019 | N/A | other | Unknown | N/A |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -338,26 +331,6 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 - {{src:src_005079}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 10,389 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval … | Not Voting | Veto Sustained |
-| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval u… | Not Voting | Veto Sustained |
-| 2023-09-28 | On the Motion to Proceed H.R. 3935 | Yea | Motion to Proceed Agreed to |
-| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | Not Voting | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | Not Voting | Nomination Confirmed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300043) (Tier 1) (VERIFIED: slow but works)
-<!-- auto:govtrack end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
@@ -398,33 +371,6 @@ The final-years cognitive decline exposes the class infrastructure beneath the i
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2023-09-28 | S.J.Res. 24 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United State | **Not Voting** | Veto Sustained |
-| 2023-09-28 | S.J.Res. 9 (118th): A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States | **Not Voting** | Veto Sustained |
-| 2023-09-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 3935 | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN691: Gen. Eric M. Smith, in the Marine Corps, to be General | **Not Voting** | Nomination Confirmed |
-| 2023-09-21 | Motion to Invoke Cloture: Gen. Eric M. Smith for appointment as Commandant of the Marine Corps and appointment in the U. | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-21 | On the Nomination PN537: Gen. Randy A. George, in the Army, to be General | **Not Voting** | Nomination Confirmed |
-| 2023-09-20 | Motion to Invoke Cloture: Gen. Randy A. George for appointment as Chief of Staff of the Army and appointment in the U.S. | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-20 | On the Nomination PN677: Gen. Charles Q. Brown, Jr., in the Air Force, to be General | **Not Voting** | Nomination Confirmed |
-| 2023-09-20 | Motion to Invoke Cloture: Gen. Charles Q. Brown Jr. for reappointment as Chairman of the Joint Chiefs of Staff and appoi | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-20 | Motion to Invoke Cloture: Motion to Suspend the rules under Rule V Re: Amdt No 1092 | **Yea** | Cloture Motion Rejected |
-| 2023-09-19 | On the Nomination PN173: Rita F. Lin, of California, to be United States District Judge for the Northern District of Cal | **Not Voting** | Nomination Confirmed |
-| 2023-09-19 | Motion to Invoke Cloture: Rita F. Lin to be U.S. District Judge for the Northern District of California: Rita F. Lin, of | **Not Voting** | Cloture Motion Agreed to |
-| 2023-09-19 | On the Nomination PN591: Vernon D. Oliver, of Connecticut, to be United States District Judge for the District of Connec | **Not Voting** | Nomination Confirmed |
-| 2023-09-18 | Motion to Invoke Cloture: Vernon D. Oliver to be U.S. District Judge for the District of Connecticut: Vernon D. Oliver,  | **Yea** | Cloture Motion Agreed to |
-| 2023-09-12 | Motion to Invoke Cloture: Motion to Proceed to H.R. 4366 | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Dianne Feinstein](https://www.govtrack.us/congress/members/300043) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->

@@ -167,6 +167,38 @@ top-policy-area: International Affairs
 
 # Dan Sullivan
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 74 |
+| Bills Cosponsored | 335 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (58)
+- Armed Forces and National Security (39)
+- Environmental Protection (36)
+- Health (32)
+- Energy (27)
+- Public Lands and Natural Resources (22)
+- Native Americans (20)
+- Finance and Financial Sector (18)
+- Congress (17)
+- Crime and Law Enforcement (14)
+
+**Recent bills sponsored:**
+
+- S 5649: Save Our Seas 2.0 Amendments Act
+- S 5646: Pay Our Military Act of 2024
+- S 5544: A bill to reduce the number of student visas available to nationals of the People's Republic of China until China rem...
+- S 5536: A bill to prohibit United States Government assistance to the Government of the People's Republic of China and affili...
+- S 5365: Stop Adversaries Meddling in American Elections Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Dan Sullivan. Republican, Alaska. US Senator since January 2015, elected 2014 (defeating Democratic incumbent Mark Begich), re-elected 2020. Born November 1964 in Ohio. Harvard Law graduate, Marine Corps JAG officer (serves as Colonel in Marine Corps Reserves, including active duty deployments during his Senate tenure). Former Alaska Attorney General (2009-2010) and Commissioner of Natural Resources (2010-2013) under Gov. Sarah Palin. Assigned to Armed Services, Commerce Science and Transportation, Environment and Public Works, and Veterans' Affairs. Top policy area is International Affairs (58 bills), followed by Armed Forces (39) and Environmental Protection (36). 74 bills sponsored, 335 cosponsored, 0 enacted. Voting record: 94.9% party-line loyalty across 2,651 substantive votes, 133 deviations. 26 STOCK Act trades, $674K-$1.6M estimated value range, predominantly diversified index funds.
@@ -283,38 +315,6 @@ The 94.9% party loyalty with 133 deviations (the second-highest deviation count 
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 74 |
-| Bills Cosponsored | 335 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (58)
-- Armed Forces and National Security (39)
-- Environmental Protection (36)
-- Health (32)
-- Energy (27)
-- Public Lands and Natural Resources (22)
-- Native Americans (20)
-- Finance and Financial Sector (18)
-- Congress (17)
-- Crime and Law Enforcement (14)
-
-**Recent bills sponsored:**
-
-- S 5649: Save Our Seas 2.0 Amendments Act
-- S 5646: Pay Our Military Act of 2024
-- S 5544: A bill to reduce the number of student visas available to nationals of the People's Republic of China until China rem...
-- S 5536: A bill to prohibit United States Government assistance to the Government of the People's Republic of China and affili...
-- S 5365: Stop Adversaries Meddling in American Elections Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

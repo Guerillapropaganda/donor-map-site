@@ -182,6 +182,26 @@ donors: [[Pharmaceutical Industry Bloc]], [[Tech IP and Patent Lobbying]], [[Koc
 ---
 ---
 
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 53 |
+| Bills Cosponsored | 318 |
+| Total Votes Cast | 4,194 |
+
+**Recent bills sponsored:**
+
+- S. 3705: Semiquincentennial Congressional Time Capsule Act — *This bill was enacted after being signed by the President on February 18, 2026.*
+- S.Res. 611: A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for a Bipawtisan Doggi Gras  — *This simple resolution was agreed to on February 12, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 3782: Justice for Victims of Sanctuary Cities and Fallen Law Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3719: National Law Enforcement Officers Remembrance, Support, and Community Outreach Act. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 28, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3551: PROTECT for Rare Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/thom_tillis/412668) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Thom Tillis. U.S. Senator from North Carolina (2015–2025, retired). Born August 30, 1960, in Jacksonville, Florida. Businessman and real estate developer. Served as North Carolina House Speaker (2011–2014) before being elected to Senate. Announced June 29, 2025, that he would not seek reelection to a third term in 2026. Narrowly reelected in 2020 (50.7%), raising concerns about 2026 vulnerability in a swing state. The pharmaceutical industry's most reliable Senate investment, with voting record and legislative sponsorship data to prove it.
@@ -303,26 +323,6 @@ Retirement preserved his exit while the pharmaceutical industry maintained its i
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 53 |
-| Bills Cosponsored | 318 |
-| Total Votes Cast | 4,194 |
-
-**Recent bills sponsored:**
-
-- S. 3705: Semiquincentennial Congressional Time Capsule Act — *This bill was enacted after being signed by the President on February 18, 2026.*
-- S.Res. 611: A resolution authorizing the use of the atrium in the Philip A. Hart Senate Office Building for a Bipawtisan Doggi Gras  — *This simple resolution was agreed to on February 12, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 3782: Justice for Victims of Sanctuary Cities and Fallen Law Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3719: National Law Enforcement Officers Remembrance, Support, and Community Outreach Act. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 28, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3551: PROTECT for Rare Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/thom_tillis/412668) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 

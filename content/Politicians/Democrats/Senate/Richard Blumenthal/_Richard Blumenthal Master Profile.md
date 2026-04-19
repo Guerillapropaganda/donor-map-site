@@ -182,6 +182,52 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 99 |
+| Bills Cosponsored | 792 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (132)
+- Crime and Law Enforcement (84)
+- Armed Forces and National Security (55)
+- Government Operations and Politics (50)
+- International Affairs (49)
+- Agriculture and Food (46)
+- Education (40)
+- Civil Rights and Liberties, Minority Issues (38)
+- Taxation (38)
+- Labor and Employment (37)
+
+**Enacted into law:**
+
+- S 305: 250th Anniversary of the United States Marine Corps Commemorative Coin Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 102 |
+| Bills Cosponsored | 625 |
+| Total Votes Cast | 5,337 |
+
+**Recent bills sponsored:**
+
+- S. 4269: A bill to repeal certain student loan provisions, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4237: A bill to amend title 38, United States Code, to modify the eligibility requirements for transfer of unused entitlement  — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 150: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4149: Social Determinants for Moms Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4140: Carlton H. Ingram Veterans’ Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412490) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Richard Blumenthal is the senior U.S. Senator from Connecticut and the Ranking Member of the Senate Veterans' Affairs Committee. He also serves on the Judiciary Committee, the Armed Services Committee, and the Homeland Security and Governmental Affairs Committee (where he ranks on the Permanent Subcommittee on Investigations). He was elected in 2010 and reelected in 2016 and 2022.
@@ -339,24 +385,6 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 - {{src:src_005198}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 102 |
-| Bills Cosponsored | 625 |
-| Total Votes Cast | 5,337 |
-
-**Recent bills sponsored:**
-
-- S. 4269: A bill to repeal certain student loan provisions, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4237: A bill to amend title 38, United States Code, to modify the eligibility requirements for transfer of unused entitlement  — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.J.Res. 150: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4149: Social Determinants for Moms Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4140: Carlton H. Ingram Veterans’ Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412490) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -382,33 +410,6 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 50 |
-| Purchases | 0 |
-| Sales | 0 |
-| Est. Value Range | $0 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/22/2015 | N/A | other | Unknown | N/A |
-| 12/18/2018 | N/A | other | Unknown | N/A |
-| 12/18/2017 | N/A | other | Unknown | N/A |
-| 12/16/2019 | N/A | other | Unknown | N/A |
-| 12/06/2016 | N/A | other | Unknown | N/A |
-| 12/04/2018 | N/A | other | Unknown | N/A |
-| 12/02/2020 | N/A | other | Unknown | N/A |
-| 11/28/2018 | N/A | other | Unknown | N/A |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -443,34 +444,6 @@ The Vietnam service record controversy sharpens the class analysis. Blumenthal r
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 99 |
-| Bills Cosponsored | 792 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (132)
-- Crime and Law Enforcement (84)
-- Armed Forces and National Security (55)
-- Government Operations and Politics (50)
-- International Affairs (49)
-- Agriculture and Food (46)
-- Education (40)
-- Civil Rights and Liberties, Minority Issues (38)
-- Taxation (38)
-- Labor and Employment (37)
-
-**Enacted into law:**
-
-- S 305: 250th Anniversary of the United States Marine Corps Commemorative Coin Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

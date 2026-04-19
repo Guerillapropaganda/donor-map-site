@@ -189,6 +189,61 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 523 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (76)
+- Education (60)
+- Labor and Employment (43)
+- Civil Rights and Liberties, Minority Issues (39)
+- Crime and Law Enforcement (34)
+- Government Operations and Politics (30)
+- International Affairs (28)
+- Taxation (26)
+- Immigration (22)
+- Arts, Culture, Religion (18)
+
+**Recent bills sponsored:**
+
+- HRES 1617: Expressing the sense of the House of Representatives that it is the duty of the Federal Government to dramatically ex...
+- HR 8797: Ending Corporate Greed Act
+- HR 8678: FAIR Costs Act
+- HR 7924: ACCESS in Mental Health Act
+- HRES 988: Supporting the values of the Equity or Else quality-of-life platform and acknowledging the need for the House of Repr...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 2,239 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Not Voting | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Not Voting | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Not Voting | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Jamaal Bowman. Democratic Representative from New York's 16th District (Westchester County and portions of the Bronx), 2021–2025. One-term member of the Congressional Progressive Caucus and the Squad's broader orbit. Before Congress, Bowman founded and served as principal of Cornerstone Academy for Social Action, a public middle school in the Bronx, making him one of the few members of Congress with a career rooted in urban public education rather than law, business, or party infrastructure.
@@ -461,29 +516,6 @@ Bowman's zero dollars from party committees confirms the structural isolation. T
 - {{src:src_006137}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 2,239 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Not Voting | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Not Voting | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Not Voting | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456839) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -491,15 +523,6 @@ _No committee data found._
 
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001223) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -529,37 +552,6 @@ _No committee data found._
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | NY |
-| Chamber | House |
-| Bills Sponsored | 37 |
-| Bills Cosponsored | 1108 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Emergency Management, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Social Welfare, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 1617 | Expressing the sense of the House of Representatives that it is the duty of the … | Referred to the Committee on Education and the Workforce, and in addition to the Committees on Energy and Commerce, Transportation and Infrastructure, Financial Services, Agriculture, the Judiciary, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 8797 | Ending Corporate Greed Act | Referred to the House Committee on Ways and Means. |
-| 8678 | FAIR Costs Act | Referred to the House Committee on Financial Services. |
-| 7924 | ACCESS in Mental Health Act | Sponsor introductory remarks on measure. (CR H2869) |
-| 988 | Supporting the values of the Equity or Else quality-of-life platform and acknowl… | Referred to the House Committee on the Judiciary. |
-| 6616 | College Athlete Right to Organize Act | Referred to the House Committee on Education and the Workforce. |
-| 5784 | Green New Deal for Public Schools Act of 2023 | Referred to the House Committee on Education and the Workforce. |
-| 4900 | Fair College Admissions for Students Act | Referred to the House Committee on Education and the Workforce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001223) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -587,33 +579,6 @@ _No committee data found._
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Not Voting** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Not Voting** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Not Voting** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Not Voting** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Not Voting** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Not Voting** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **Not Voting** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Not Voting** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Not Voting** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Not Voting** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Not Voting** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Jamaal Bowman](https://www.govtrack.us/congress/members/456839) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -632,38 +597,6 @@ Jamaal Anthony Bowman is an American politician and former educator who served f
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q96419280) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 14 |
-| Bills Cosponsored | 523 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (76)
-- Education (60)
-- Labor and Employment (43)
-- Civil Rights and Liberties, Minority Issues (39)
-- Crime and Law Enforcement (34)
-- Government Operations and Politics (30)
-- International Affairs (28)
-- Taxation (26)
-- Immigration (22)
-- Arts, Culture, Religion (18)
-
-**Recent bills sponsored:**
-
-- HRES 1617: Expressing the sense of the House of Representatives that it is the duty of the Federal Government to dramatically ex...
-- HR 8797: Ending Corporate Greed Act
-- HR 8678: FAIR Costs Act
-- HR 7924: ACCESS in Mental Health Act
-- HRES 988: Supporting the values of the Equity or Else quality-of-life platform and acknowledging the need for the House of Repr...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

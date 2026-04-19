@@ -177,6 +177,66 @@ donors: [[Americans for Prosperity]] [[American Farm Bureau Federation]] [[Herit
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 56 |
+| Bills Cosponsored | 172 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (28)
+- Taxation (26)
+- Crime and Law Enforcement (17)
+- International Affairs (16)
+- Armed Forces and National Security (15)
+- Government Operations and Politics (15)
+- Immigration (14)
+- Economics and Public Finance (10)
+- Environmental Protection (10)
+- Finance and Financial Sector (9)
+
+**Enacted into law:**
+
+- HR 1821: I-27 Numbering Act of 2023
+- HR 3358: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 79 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 7812: Securing Accountability in Foreign Entries Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7745: To establish certain requirements relating to wellness checks for the health and welfare of certain members of the Armed — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7348: Transparency in Federal Land Acquisitions Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6974: Improving MA SNP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 8, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6707: CFIUSMCA Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412726) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jodey Arrington. Republican, Texas's 19th District (Lubbock, one of the largest agriculture and energy districts in the nation). Chair of the House Budget Committee and senior member of the House Ways and Means Committee. First elected in 2016. Before Congress, Arrington served as Chief of Staff at the FDIC under George W. Bush (one of the youngest in FDIC history at age 28), worked in the Bush White House as Associate Director of Presidential Personnel, then moved to Texas Tech University System as Vice Chancellor, and finally served as President of Scott Laboratories, a Lubbock healthcare innovation company. Announced retirement in November 2025 after shepherding Trump's reconciliation megabill through his committee.
@@ -354,37 +414,6 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 54 |
-| Bills Cosponsored | 79 |
-| Total Votes Cast | 4,873 |
-
-**Recent bills sponsored:**
-
-- H.R. 7812: Securing Accountability in Foreign Entries Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7745: To establish certain requirements relating to wellness checks for the health and welfare of certain members of the Armed — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7348: Transparency in Federal Land Acquisitions Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6974: Improving MA SNP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 8, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6707: CFIUSMCA Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412726) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
@@ -409,35 +438,6 @@ Arrington serves the oil and gas industry, corporate tax beneficiaries, and agri
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 56 |
-| Bills Cosponsored | 172 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (28)
-- Taxation (26)
-- Crime and Law Enforcement (17)
-- International Affairs (16)
-- Armed Forces and National Security (15)
-- Government Operations and Politics (15)
-- Immigration (14)
-- Economics and Public Finance (10)
-- Environmental Protection (10)
-- Finance and Financial Sector (9)
-
-**Enacted into law:**
-
-- HR 1821: I-27 Numbering Act of 2023
-- HR 3358: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

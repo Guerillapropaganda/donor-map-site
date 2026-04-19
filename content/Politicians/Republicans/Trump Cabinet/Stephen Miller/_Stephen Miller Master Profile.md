@@ -82,6 +82,29 @@ donors: [[DonorsTrust]] [[Bradley Impact Fund]]
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 570 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 1833-03-02 | TO PASS THE RESOLUTION PROVIDING THAT THE SENATE DO ADVISE AND CONSENT TO THE RA… | Not Voting | unknown |
+| 1833-03-02 | TO PASS S. 115, AN ACT TO EXPLAIN AND AMEND THE ACT TO ALTER AND AMEND THE SEVER… | Not Voting | unknown |
+| 1833-03-02 | TO PASS THE RESOLUTION PROVIDING THAT THE SENATE ADVISE AND CONSENT TO THE RATIF… | Not Voting | unknown |
+| 1833-03-02 | ON ORDERING ENGROSSMENT AND THIRD READING OF THE RESOLUTION (4 STAT 668, MAR. 2,… | Not Voting | unknown |
+| 1833-03-02 | TO PASS THE RESOLUTION APPOINTING WILLIAM FORBES SAVAGE, TO BE RECEIVER OF PUBLI… | Not Voting | unknown |
+| 1833-03-02 | TO ADJOURN UNTIL TEN (10 A.M.) TOMORROW.  (P. 812). | Not Voting | unknown |
+| 1833-03-02 | *****MISSING TEXT***** OF THE RESOLUTION AND BY PROVIDING THAT THE RESOLUTION FO… | Not Voting | unknown |
+| 1833-03-02 | ON ORDERING THIRD READING OF H.R. 632 (6 STAT 546, MAR. 2, 1833) FOR THE RELIEF … | Not Voting | unknown |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/407733) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Stephen Miller. Deputy Chief of Staff for Policy and Homeland Security Adviser (January 2025–present). Previously White House Senior Advisor (2017–2021) and founder/president of America First Legal (2021–2024). The policy architect of immigration restriction across two administrations. Biography: Duke University 2003 (BA Politics), conservative columnist at The Chronicle, then president of Duke Students for Academic Freedom. Joined Alabama Senator Jeff Sessions as communications director (2009–2016), co-authoring immigration restriction agenda. Trump campaign senior policy advisor (2016). White House policy architect (2017–2021). Founded America First Legal post-term (2021–2024) funded by dark money ($44.4M in 2022 revenue, $27M from Bradley Impact Fund alone, $21.3M from DonorsTrust in 2024). Miller's compensation at AFL grew from $77K to $567K+ including $75K bonus and $100K "below market" adjustment awarded just before White House return. Current White House salary $195,200. No previous Pentagon, intelligence, or law enforcement experience. No diplomatic background. His entire career path flows through immigration restriction advocacy, white nationalist media networking (documented leaked emails to Breitbart showing affinity for extremist literature), and dark money funding of legal infrastructure designed to enforce anti-immigration policy. The most powerful unelected policy architect in the federal government. His great-grandfather fled anti-Jewish pogroms in Belarus in 1903; Miller now architects policies targeting the descendants of refugees like his own family.
@@ -264,29 +287,6 @@ The Villain Framing Miller frames immigrants and immigration advocates as the th
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 570 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 1833-03-02 | TO PASS THE RESOLUTION PROVIDING THAT THE SENATE DO ADVISE AND CONSENT TO THE RA… | Not Voting | unknown |
-| 1833-03-02 | TO PASS S. 115, AN ACT TO EXPLAIN AND AMEND THE ACT TO ALTER AND AMEND THE SEVER… | Not Voting | unknown |
-| 1833-03-02 | TO PASS THE RESOLUTION PROVIDING THAT THE SENATE ADVISE AND CONSENT TO THE RATIF… | Not Voting | unknown |
-| 1833-03-02 | ON ORDERING ENGROSSMENT AND THIRD READING OF THE RESOLUTION (4 STAT 668, MAR. 2,… | Not Voting | unknown |
-| 1833-03-02 | TO PASS THE RESOLUTION APPOINTING WILLIAM FORBES SAVAGE, TO BE RECEIVER OF PUBLI… | Not Voting | unknown |
-| 1833-03-02 | TO ADJOURN UNTIL TEN (10 A.M.) TOMORROW.  (P. 812). | Not Voting | unknown |
-| 1833-03-02 | *****MISSING TEXT***** OF THE RESOLUTION AND BY PROVIDING THAT THE RESOLUTION FO… | Not Voting | unknown |
-| 1833-03-02 | ON ORDERING THIRD READING OF H.R. 632 (6 STAT 546, MAR. 2, 1833) FOR THE RELIEF … | Not Voting | unknown |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/407733) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Archived
 

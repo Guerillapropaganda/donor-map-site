@@ -169,6 +169,66 @@ donors: Charter Communications · [[Private Equity Industry Bloc|Private Equity 
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 79 |
+| Bills Cosponsored | 272 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (36)
+- Crime and Law Enforcement (26)
+- International Affairs (25)
+- Government Operations and Politics (25)
+- Native Americans (22)
+- Taxation (22)
+- Congress (20)
+- Civil Rights and Liberties, Minority Issues (19)
+- Labor and Employment (18)
+- Armed Forces and National Security (17)
+
+**Enacted into law:**
+
+- S 2285: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 249 |
+| Total Votes Cast | 4,871 |
+| Leadership | Senate Democratic Conference Deputy Secretary |
+
+**Recent bills sponsored:**
+
+- S.Con.Res. 32: A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4216: GUARDRAILS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4210: A bill to authorize the Secretary of Health and Human Services to award grants to establish or expand programs to implem — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 625: A resolution designating February 2026 as “Hawaiian Language Month” or “Olelo Hawai’i Month”. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3910: ReSCUE Oceans Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Not Voting | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412507) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 [[_Brian Schatz Master Profile|Brian Schatz]] is the senior United States Senator from Hawaii, serving since December 2012. Born October 20, 1972, in Ann Arbor, Michigan, raised in Hawaii from age two. Punahou School graduate (same elite Honolulu prep school as Barack Obama). B.A. in philosophy from Pomona College (1994). Served in the Hawaii House of Representatives (1998–2006), as chairman of the Democratic Party of Hawaii (2008–2010), and as lieutenant governor (2010–2012). Became senator when Governor Neil Abercrombie appointed him to fill Daniel Inouye's seat after Inouye's death, bypassing Inouye's own deathbed request that Congresswoman Colleen Hanabusa be appointed. Before politics, served as CEO of Helping Hands Hawaii, a nonprofit social service agency. Won a tight 2014 special election against Hanabusa, then reelected comfortably in 2016 and 2022.
@@ -347,38 +407,6 @@ party:: Democrat
 - {{src:src_005563}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 41 |
-| Bills Cosponsored | 249 |
-| Total Votes Cast | 4,871 |
-| Leadership | Senate Democratic Conference Deputy Secretary |
-
-**Recent bills sponsored:**
-
-- S.Con.Res. 32: A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4216: GUARDRAILS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4210: A bill to authorize the Secretary of Health and Human Services to award grants to establish or expand programs to implem — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 625: A resolution designating February 2026 as “Hawaiian Language Month” or “Olelo Hawai’i Month”. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3910: ReSCUE Oceans Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Not Voting | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412507) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -399,34 +427,6 @@ party:: Democrat
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 79 |
-| Bills Cosponsored | 272 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (36)
-- Crime and Law Enforcement (26)
-- International Affairs (25)
-- Government Operations and Politics (25)
-- Native Americans (22)
-- Taxation (22)
-- Congress (20)
-- Civil Rights and Liberties, Minority Issues (19)
-- Labor and Employment (18)
-- Armed Forces and National Security (17)
-
-**Enacted into law:**
-
-- S 2285: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

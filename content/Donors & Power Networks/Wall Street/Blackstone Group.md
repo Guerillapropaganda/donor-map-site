@@ -384,28 +384,6 @@ The pension fund dynamic completes the circle. State employee pension funds, Cal
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Active Lobbyist | Yes |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Mike Lee** → Sits on **Antitrust (Judiciary)**
-
-**Funded politicians:**
-
-- [[Mike Lee]] (Antitrust (Judiciary)) — lobbying: $4.5M — contracts: $623K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Contracts
 <!-- auto:sam-contracts start -->

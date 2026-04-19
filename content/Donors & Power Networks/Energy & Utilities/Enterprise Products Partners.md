@@ -144,26 +144,6 @@ Enterprise Products Partners represents the structural core of fossil fuel polit
 
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Contracts (recent 3yr) | 0 ($0 sampled) |
-| Grants (recent 3yr) | 2 ($2.4M sampled) |
-| Federal Agencies | 1 |
-
-**Top grants:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $2.0M | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
-| $460K | Department of Homeland Security | PORT SECURITY GRANT PROGRAM |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/5e4fdfca-eeae-3394-3f5b-8ce6f2c8488c-P/latest) (Tier 1) (VERIFIED)
-
-<!-- auto:usaspending pending-merge end -->
 
 ### Sources
 

@@ -184,6 +184,58 @@ donors: [[Defense Industry]] · Cybersecurity Industry · Wall Street · [[UAW -
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 164 |
+| Bills Cosponsored | 403 |
+| Bills Enacted | 15 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (88)
+- Health (79)
+- Armed Forces and National Security (63)
+- International Affairs (28)
+- Crime and Law Enforcement (23)
+- Science, Technology, Communications (22)
+- Transportation and Public Works (22)
+- Labor and Employment (21)
+- Taxation (21)
+- Congress (20)
+
+**Enacted into law:**
+
+- S 4335: FAA Reauthorization Act of 2024
+- S 2177: National Defense Authorization Act for Fiscal Year 2024
+- S 3504: National Defense Authorization Act for Fiscal Year 2024
+- S 3475: Strengthening the Commercial Driver’s License Information System Act
+- S 3640: S. 3640, a bill to designate the facility of the United States Postal Service located at 155 South Main Street in Mou...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 70 |
+| Bills Cosponsored | 228 |
+| Total Votes Cast | 8,659 |
+
+**Recent bills sponsored:**
+
+- S. 4264: A bill to provide NASA the authority to detect, identify, monitor, and track unmanned aircraft systems, and for other pu — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4074: Fund CISA Personnel Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 623: A resolution commemorating the accomplishments of Team USA in ice hockey. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3913: Self-Initiation Trade Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3870: Lifelong Learning Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 [[_Gary Peters Master Profile|Gary Peters]] is the junior United States Senator from Michigan, serving since January 2015. Born December 1, 1958, in Pontiac, Michigan. B.A. in political science from Alma College (1980). M.B.A. in finance from the University of Detroit (1984). J.D. from Wayne State University Law School (1989). M.A. in philosophy from Michigan State University (2007). Worked as an investment advisor for 22 years, assistant vice president at Merrill Lynch (1980–1989), then vice president at UBS/Paine Webber (1989–2003). Served in the United States Navy Reserve (1993–2000, 2001–2005), achieving the rank of Lieutenant Commander with a Seabee Combat Warfare Specialist designation. Rochester Hills City Council (1991–1993). Michigan Senate (1995–2002). Michigan lottery commissioner (2003–2007, appointed by Governor Granholm). U.S. House of Representatives, 9th and 14th Districts (2009–2015). Won the 2014 Senate race, then won reelection in 2020 in the most expensive Senate race in Michigan history, more than $100 million in combined spending.
@@ -279,26 +331,6 @@ The class function is pipeline operator. Peters does not generate progressive po
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 70 |
-| Bills Cosponsored | 228 |
-| Total Votes Cast | 8,659 |
-
-**Recent bills sponsored:**
-
-- S. 4264: A bill to provide NASA the authority to detect, identify, monitor, and track unmanned aircraft systems, and for other pu — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4074: Fund CISA Personnel Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 623: A resolution commemorating the accomplishments of Team USA in ice hockey. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3913: Self-Initiation Trade Enforcement Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3870: Lifelong Learning Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/gary_peters/412305) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 
@@ -348,33 +380,6 @@ party:: Democrat
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-09 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Nay** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Not Voting** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Yea** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Nay** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Nay** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Gary Peters](https://www.govtrack.us/congress/members/412305) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -396,61 +401,7 @@ party:: Democrat
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-10.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **Real Estate Industry** donates → Lobbies on **Government Issues** → This member sits on **Homeland Security**
-- **Real Estate Industry** donates → Lobbies on **Homeland Security** → This member sits on **Homeland Security**
-- **Real Estate Industry** donates → Lobbies on **Immigration** → This member sits on **Homeland Security**
-
-**Donors who lobby (by spend):**
-
-- [[Real Estate Industry]] — $32.2M lobbying spend (Agriculture, Aviation/Airlines/Airports, Banking)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 164 |
-| Bills Cosponsored | 403 |
-| Bills Enacted | 15 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (88)
-- Health (79)
-- Armed Forces and National Security (63)
-- International Affairs (28)
-- Crime and Law Enforcement (23)
-- Science, Technology, Communications (22)
-- Transportation and Public Works (22)
-- Labor and Employment (21)
-- Taxation (21)
-- Congress (20)
-
-**Enacted into law:**
-
-- S 4335: FAA Reauthorization Act of 2024
-- S 2177: National Defense Authorization Act for Fiscal Year 2024
-- S 3504: National Defense Authorization Act for Fiscal Year 2024
-- S 3475: Strengthening the Commercial Driver’s License Information System Act
-- S 3640: S. 3640, a bill to designate the facility of the United States Postal Service located at 155 South Main Street in Mou...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -166,6 +166,62 @@ donors: Azerbaijan State Oil Company (SOCAR), Mexico Banking Sector, Eagle Ford 
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 254 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- International Affairs (24)
+- Government Operations and Politics (24)
+- Taxation (19)
+- Crime and Law Enforcement (18)
+- Armed Forces and National Security (16)
+- Agriculture and Food (15)
+- Finance and Financial Sector (13)
+- Civil Rights and Liberties, Minority Issues (13)
+- Immigration (12)
+
+**Enacted into law:**
+
+- HR 3569: Starr–Camargo Bridge Expansion Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 2 |
+| Bills Cosponsored | 150 |
+| Total Votes Cast | 13,753 |
+
+**Recent bills sponsored:**
+
+- H.R. 7865: American Consumer Tariff Rebate Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1297: LPOE Modernization Trust Fund Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 13, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400657) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Henry Cuéllar. U.S. Representative, Texas's 28th District (2005–present). Democrat. The first Congressman to be convicted of bribery in 36 years. FBI raided his home in June 2022. Indicted May 2024 on 14 counts: money laundering, receiving bribes from a foreign government, conspiracy to commit bribery, FARA violations. December 2025: Trump issued a presidential pardon, erasing the conviction. The most explicit corruption case in this vault, not a lobbyist proxy, not a policy quid pro quo, but literal cash payments from a foreign government to a Congressman's bank account with recorded floor speeches and legislative language insertion in return.
@@ -321,34 +377,6 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 - {{src:src_006182}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 2 |
-| Bills Cosponsored | 150 |
-| Total Votes Cast | 13,753 |
-
-**Recent bills sponsored:**
-
-- H.R. 7865: American Consumer Tariff Rebate Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1297: LPOE Modernization Trust Fund Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 13, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400657) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -379,31 +407,4 @@ After December 2025, Cuéllar's media strategy shifted to portraying himself as 
 <!-- auto:fec-summary end -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 11 |
-| Bills Cosponsored | 254 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (34)
-- International Affairs (24)
-- Government Operations and Politics (24)
-- Taxation (19)
-- Crime and Law Enforcement (18)
-- Armed Forces and National Security (16)
-- Agriculture and Food (15)
-- Finance and Financial Sector (13)
-- Civil Rights and Liberties, Minority Issues (13)
-- Immigration (12)
-
-**Enacted into law:**
-
-- HR 3569: Starr–Camargo Bridge Expansion Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

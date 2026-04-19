@@ -178,6 +178,56 @@ donors: [[Boeing]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 225 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- Congress (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Native Americans (17)
+- Commerce (16)
+- Science, Technology, Communications (15)
+- Crime and Law Enforcement (14)
+- Taxation (14)
+- Government Operations and Politics (10)
+- Public Lands and Natural Resources (10)
+
+**Recent bills sponsored:**
+
+- S 5600: A bill to authorize programs for the National Aeronautics and Space Administration for fiscal year 2025, and for othe...
+- S 5601: A bill to improve the National Oceanic and Atmospheric Administration's weather research, support improvements in wea...
+- S 5468: A bill to authorize appropriations for the Coast Guard, and for other purposes.
+- S 5411: A bill to reauthorize the National Quantum Initiative Act, and for other purposes.
+- SRES 864: A resolution expressing support for the designation of the week of September 18 through September 24, 2023, as "Rail ...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 188 |
+| Total Votes Cast | 9,765 |
+
+**Recent bills sponsored:**
+
+- S. 4014: A bill to direct the Secretary of the Interior to convey to the Nisqually Indian Tribe the Clear Creek Hatchery infrastr — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3881: Tsunami Warning, Research, and Education Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3700: FAA SMS Compliance Review Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3795: Radar Next Program Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3769: Helping Our People Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300018) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Maria Cantwell is the junior senator from Washington State, serving since 2001. She chairs (or serves as ranking member of) the Senate Commerce, Science, and Transportation Committee, the first woman to hold that position. The committee's jurisdiction spans aviation (FAA), telecommunications, internet policy, consumer protection, surface transportation, and the Coast Guard. She also sits on Finance and Energy and Natural Resources.
@@ -336,24 +386,6 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 - {{src:src_005258}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 21 |
-| Bills Cosponsored | 188 |
-| Total Votes Cast | 9,765 |
-
-**Recent bills sponsored:**
-
-- S. 4014: A bill to direct the Secretary of the Interior to convey to the Nisqually Indian Tribe the Clear Creek Hatchery infrastr — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3881: Tsunami Warning, Research, and Education Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3700: FAA SMS Compliance Review Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
-- S. 3795: Radar Next Program Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3769: Helping Our People Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300018) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -379,33 +411,6 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 6 |
-| Purchases | 0 |
-| Sales | 5 |
-| Est. Value Range | $5,005 – $75,000 |
-
-**Top tickers traded:** RNWK
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
-| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
-| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
-| 06/06/2014 | RNWK | Sale | $1,001 - $15,000 | Self |
-| 04/28/2016 | RNWK | Sale | $1,001 - $15,000 | Self |
-| 01/16/2014 | N/A | other | Unknown | N/A |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ## Voting Record
 
@@ -437,38 +442,6 @@ Boeing is the most visible case. Cantwell's committee oversees FAA regulation of
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 37 |
-| Bills Cosponsored | 225 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (44)
-- Congress (18)
-- Civil Rights and Liberties, Minority Issues (18)
-- Native Americans (17)
-- Commerce (16)
-- Science, Technology, Communications (15)
-- Crime and Law Enforcement (14)
-- Taxation (14)
-- Government Operations and Politics (10)
-- Public Lands and Natural Resources (10)
-
-**Recent bills sponsored:**
-
-- S 5600: A bill to authorize programs for the National Aeronautics and Space Administration for fiscal year 2025, and for othe...
-- S 5601: A bill to improve the National Oceanic and Atmospheric Administration's weather research, support improvements in wea...
-- S 5468: A bill to authorize appropriations for the Coast Guard, and for other purposes.
-- S 5411: A bill to reauthorize the National Quantum Initiative Act, and for other purposes.
-- SRES 864: A resolution expressing support for the designation of the week of September 18 through September 24, 2023, as "Rail ...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -188,6 +188,35 @@ donors: [[Boeing]] · [[Defense Industry Bloc]] · [[Pharmaceutical Industry Blo
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 318 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- Armed Forces and National Security (40)
+- Labor and Employment (27)
+- Civil Rights and Liberties, Minority Issues (26)
+- International Affairs (22)
+- Congress (21)
+- Crime and Law Enforcement (20)
+- Taxation (19)
+- Government Operations and Politics (17)
+- Native Americans (16)
+
+**Enacted into law:**
+
+- SCONRES 25: Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+- SCONRES 29: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Patty Murray, U.S. Senator from Washington (1993–present). Vice Chair of Senate Appropriations Committee (formerly Chair, 2021–2023). Member of Senate HELP Committee (formerly Chair, 2019–2020). Most powerful spending position in the Senate: Appropriations controls all discretionary federal spending. Washington's largest employer is [[Boeing|Boeing]] ($53K+ in direct and executive donations to Murray); second largest industry cluster is pharma/biotech. Murray's 30-year Senate tenure built on constituency service, defense industry expansion, and corporate-friendly labor relationships. Brand: "mom in tennis shoes" (1992 campaign slogan); grassroots symbolism concealing establishment power and defense contractor alignment.
@@ -343,33 +372,6 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 3 |
-| Donors With Federal Contracts | 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Defense Industry Bloc** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Defense Industry Bloc** donates → Lobbies on **Defense** → This member sits on **Appropriations**
-- **Defense Industry Bloc** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
-- **Microsoft** donates → Lobbies on **Budget/Appropriations** → This member sits on **Appropriations**
-- **Microsoft** donates → Lobbies on **Defense** → This member sits on **Appropriations**
-- **Microsoft** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
-
-**Donors who lobby (by spend):**
-
-- [[Microsoft]] — $20.7M lobbying spend (Budget/Appropriations, Communications/Broadcasting/Radio/TV, Computer Industry) + $955 in contracts
-- [[Defense Industry Bloc]] — $2.0M lobbying spend (Aerospace, Animals, Aviation/Airlines/Airports)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -397,35 +399,6 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 161 |
-| Purchases | 78 |
-| Sales | 83 |
-| Est. Value Range | $161,161 – $2,415,000 |
-
-**Top tickers traded:** WMB, WRK, WFC, WBA, WMT, VZ, UTX, UPS
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 06/15/2017 | WMB | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | WRK | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | WFC | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | WBA | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | WMT | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | VZ | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | VTR | Sale | $1,001 - $15,000 | Spouse |
-| 06/15/2017 | UTX | Sale | $1,001 - $15,000 | Spouse |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -462,35 +435,6 @@ The pharmaceutical dimension completes the picture. Murray chaired the HELP Comm
 - {{src:src_005224}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 45 |
-| Bills Cosponsored | 318 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (44)
-- Armed Forces and National Security (40)
-- Labor and Employment (27)
-- Civil Rights and Liberties, Minority Issues (26)
-- International Affairs (22)
-- Congress (21)
-- Crime and Law Enforcement (20)
-- Taxation (19)
-- Government Operations and Politics (17)
-- Native Americans (16)
-
-**Enacted into law:**
-
-- SCONRES 25: Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
-- SCONRES 29: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

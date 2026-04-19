@@ -177,6 +177,55 @@ donors: [[American Farm Bureau Federation]] · [[National Cattlemen's Beef Assoc
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 80 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Science, Technology, Communications (19)
+- Finance and Financial Sector (13)
+- Crime and Law Enforcement (8)
+- International Affairs (8)
+- Agriculture and Food (8)
+- Health (5)
+- Taxation (4)
+- Energy (4)
+- Foreign Trade and International Finance (4)
+- Armed Forces and National Security (4)
+
+**Recent bills sponsored:**
+
+- HR 9633: Securing Innovation in Financial Regulation Act
+- HR 9632: CASH Act
+- HCONRES 124: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Go...
+- HR 8958: ASCEND Act
+- HR 8802: Capital Markets Impact of Federal Reserve Study Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 63 |
+| Total Votes Cast | 20,047 |
+
+**Recent bills sponsored:**
+
+- H.R. 8087: To amend the Federal Deposit Insurance Act to provide deposit insurance for noninterest-bearing transaction accounts, an — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1531: PROTECT Taiwan Act — *This bill passed in the House on February 9, 2026 and goes to the Senate next for consideration.*
+- H.R. 6967: Public Company Advisory Committee Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on January 22, 2026.*
+- H.R. 5089: Weather Act Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 10, 2025.*
+- H.R. 4459: MINT Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on July 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Frank Dean Lucas. Born January 6, 1960, in Cheyenne, Oklahoma. U.S. Representative from Oklahoma's 3rd district (1994–present, 30 years continuous service). Rancher (third generation). Chairman of the House Agriculture Committee (2011–2015, 2019–2021). Currently Chairman of the House Science, Space, and Technology Committee (2023–present).
@@ -455,23 +504,6 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 - [USDA: Commodity subsidy distribution data](https://www.usda.gov/farmbill/) (Tier 1) (NEEDS REVIEW)
 - [EWG: Farm subsidy database — Frank Lucas district data](https://farm.ewg.org/) (Tier 2) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 13 |
-| Bills Cosponsored | 63 |
-| Total Votes Cast | 20,047 |
-
-**Recent bills sponsored:**
-
-- H.R. 8087: To amend the Federal Deposit Insurance Act to provide deposit insurance for noninterest-bearing transaction accounts, an — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1531: PROTECT Taiwan Act — *This bill passed in the House on February 9, 2026 and goes to the Senate next for consideration.*
-- H.R. 6967: Public Company Advisory Committee Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on January 22, 2026.*
-- H.R. 5089: Weather Act Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 10, 2025.*
-- H.R. 4459: MINT Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on July 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -491,27 +523,6 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **American Farm Bureau Federation** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-- **National Cattlemen's Beef Association** donates → Lobbies on **Agriculture** → This member sits on **Agriculture**
-
-**Donors who lobby (by spend):**
-
-- [[National Cattlemen's Beef Association]] — $3.1M lobbying spend (Advertising, Agriculture, Animals)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -579,38 +590,6 @@ Lucas is a third-generation rancher. His wealth is partially inherited, partiall
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 22 |
-| Bills Cosponsored | 80 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Science, Technology, Communications (19)
-- Finance and Financial Sector (13)
-- Crime and Law Enforcement (8)
-- International Affairs (8)
-- Agriculture and Food (8)
-- Health (5)
-- Taxation (4)
-- Energy (4)
-- Foreign Trade and International Finance (4)
-- Armed Forces and National Security (4)
-
-**Recent bills sponsored:**
-
-- HR 9633: Securing Innovation in Financial Regulation Act
-- HR 9632: CASH Act
-- HCONRES 124: Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Go...
-- HR 8958: ASCEND Act
-- HR 8802: Capital Markets Impact of Federal Reserve Study Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

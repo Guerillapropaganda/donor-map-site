@@ -179,6 +179,24 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[US CHAMBER OF COMMERCE
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 278 |
+| Total Votes Cast | 13,966 |
+| Leadership | Senate Republican Policy Committee Chair |
+
+**Recent bills sponsored:**
+
+- S. 4221: Ensuring Better Interest Treatment and Deductibility Act (EBITDA) — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4036: AADAPT Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3472: National Strategy for School Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 537: A resolution honoring the service and sacrifice of United States Army Specialist Sarah Beckstrom and United States Air F — *This simple resolution was agreed to on December 9, 2025. That is the end of the legislative process for a simple resolution.*
+- S. 351: STEWARD Act of 2025 — *This bill passed in the Senate on November 20, 2025 and goes to the House next for consideration.*
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Shelley Moore Capito is the senior senator from West Virginia and chairs the Senate Environment and Public Works Committee — the body with jurisdiction over the EPA, Clean Air Act, Clean Water Act, Superfund, highway infrastructure, and environmental regulation. She has served in the Senate since 2015 and previously represented West Virginia's 2nd Congressional District in the House for 14 years (2001-2015).
@@ -374,54 +392,9 @@ The U.S. Chamber of Commerce spent $400,000 supporting Capito. TAKE ME HOME WV A
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 24 |
-| Bills Cosponsored | 278 |
-| Total Votes Cast | 13,966 |
-| Leadership | Senate Republican Policy Committee Chair |
-
-**Recent bills sponsored:**
-
-- S. 4221: Ensuring Better Interest Treatment and Deductibility Act (EBITDA) — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4036: AADAPT Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3472: National Strategy for School Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 537: A resolution honoring the service and sacrifice of United States Army Specialist Sarah Beckstrom and United States Air F — *This simple resolution was agreed to on December 9, 2025. That is the end of the legislative process for a simple resolution.*
-- S. 351: STEWARD Act of 2025 — *This bill passed in the Senate on November 20, 2025 and goes to the House next for consideration.*
-
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Yea** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Yea** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Yea** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Nay** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Yea** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Yea** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Yea** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Shelley Moore Capito](https://www.govtrack.us/congress/members/400061) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ## Archived
 

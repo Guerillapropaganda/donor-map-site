@@ -267,27 +267,6 @@ Coinbase is the crypto industry's political infrastructure. The company's $45 mi
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Contracts (recent 3yr) | 3 ($7.9M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 2 |
-
-**Top contracts:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $7.0M | Department of Justice | AFD: CRYPTOCURRENCY MANAGED SERVICES - CLASS 1 BASE YEAR  POP JULY 1, 2024 TO JUNE 30, 32025 |
-| $910K | Department of Homeland Security | COINBASE ANALYTICS LICENSES |
-| $29K | Department of Homeland Security | COINBASE ANALYTICS PLATFORM LICENSES |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/92758004-9797-9b84-aca3-932d2c0322e5-C/latest) (Tier 1) (VERIFIED)
-
-<!-- auto:usaspending pending-merge end -->
 
 ### FTC Enforcement & Merger Review
 <!-- auto:ftc-enforcement start -->

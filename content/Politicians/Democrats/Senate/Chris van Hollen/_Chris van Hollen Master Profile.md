@@ -154,6 +154,38 @@ top-donors: "[[Let America Vote PAC]], [[Google - Alphabet]], [[Bank of America]
 
 # Chris van Hollen
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 51 |
+| Bills Cosponsored | 602 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- International Affairs (64)
+- Education (61)
+- Government Operations and Politics (45)
+- Taxation (44)
+- Crime and Law Enforcement (34)
+- Armed Forces and National Security (32)
+- Civil Rights and Liberties, Minority Issues (26)
+- Labor and Employment (24)
+- Finance and Financial Sector (24)
+
+**Recent bills sponsored:**
+
+- S 5613: A bill to improve the quality, appropriateness, and effectiveness of diagnosis in health care, and for other purposes.
+- S 5561: A bill to establish a Federal standard in order to improve the Nation's resilience to current and future flood risk.
+- S 5499: A bill to amend title 28, United States Code, with regard to counsel for persons proceeding in forma pauperis.
+- S 5495: A bill to cap the emissions of greenhouse gases through a requirement to purchase carbon permits, to distribute the p...
+- SJRES 118: Providing for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Em...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Chris van Hollen. Democrat, Maryland. US Senator since January 2017 after seven terms representing MD-8 in the House (2003 to 2017). Born January 1959. Pre-Congress: Maryland General Assembly (1991 to 2002), including 12 years as a state senator. House Democratic Caucus Chair (2005 to 2006), DCCC Chair (2007 to 2011). Assigned to Senate Appropriations, Banking, Budget, Foreign Relations, and Environment & Public Works committees across the 115th through 119th Congress. Top legislative policy area is Health (86 bills in the 118th Congress) followed by International Affairs (64), Education (61), and Government Operations (45). Sponsored SJRES 118 disapproving a UAE foreign military sale and S.5495 creating a greenhouse-gas carbon-permit cap. Zero bills enacted in the 118th as lead sponsor, 602 cosponsored.
@@ -255,38 +287,6 @@ The systemic observation is that van Hollen demonstrates how the Democratic coal
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 51 |
-| Bills Cosponsored | 602 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (86)
-- International Affairs (64)
-- Education (61)
-- Government Operations and Politics (45)
-- Taxation (44)
-- Crime and Law Enforcement (34)
-- Armed Forces and National Security (32)
-- Civil Rights and Liberties, Minority Issues (26)
-- Labor and Employment (24)
-- Finance and Financial Sector (24)
-
-**Recent bills sponsored:**
-
-- S 5613: A bill to improve the quality, appropriateness, and effectiveness of diagnosis in health care, and for other purposes.
-- S 5561: A bill to establish a Federal standard in order to improve the Nation's resilience to current and future flood risk.
-- S 5499: A bill to amend title 28, United States Code, with regard to counsel for persons proceeding in forma pauperis.
-- S 5495: A bill to cap the emissions of greenhouse gases through a requirement to purchase carbon permits, to distribute the p...
-- SJRES 118: Providing for congressional disapproval of the proposed foreign military sale to the Government of the United Arab Em...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -185,6 +185,65 @@ donors: [[Pfizer]] [[PhRMA]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 247 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Government Operations and Politics (22)
+- Crime and Law Enforcement (21)
+- Civil Rights and Liberties, Minority Issues (18)
+- Health (17)
+- Taxation (16)
+- Armed Forces and National Security (13)
+- Labor and Employment (13)
+- Arts, Culture, Religion (11)
+- Finance and Financial Sector (10)
+
+**Enacted into law:**
+
+- HR 7520: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+- HR 6829: HEARTS Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 534 |
+| Bills Cosponsored | 6,690 |
+| Total Votes Cast | 22,669 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1045: Calling on the Secretary of Education to work with stakeholders to immediately eliminate race-based Native logos, mascot — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7407: Prohibiting Tianeptine and Other Dangerous Products Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7372: Safety is Not For Sale Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1431: To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, N — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 2, 2025.*
+- H.R. 6292: Don’t Sell Kids’ Data Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 25, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Frank Pallone. Democrat, New Jersey's 6th Congressional District (Middlesex and Monmouth counties). First elected 1988. Ranking Member, House Energy and Commerce Committee — the single broadest jurisdiction committee in the House, covering healthcare, energy, environment, telecommunications, consumer protection, and food and drug safety. Served as chairman 2019-2023 before the Republican majority. Career total raised: $3.4M+ in the 2024 cycle alone, with $3M+ cash on hand. Fifth-largest corporate PAC haul of any House candidate in recent cycles.
@@ -323,105 +382,11 @@ The class function is clear: Pallone is the progressive validator for industries
 - {{src:src_006246}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,311,209 |
-| Individual Contributions | $404,090 |
-| PAC Contributions | $878,107 |
-| Cash on Hand | 3125718.74 |
-| IE Support (Super PAC) | $15,898 |
-| IE Opposition (Super PAC) | $190,330 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $1,311,209 | $404,090 | $878,107 |
-| 2024 | $3,462,887 | $1,274,858 | $2,058,500 |
-| 2022 | $3,144,740 | $1,097,827 | $2,020,455 |
-| 2020 | $3,240,051 | $1,002,268 | $2,215,700 |
-| 2018 | $2,810,635 | $893,771 | $1,885,555 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| FREEDOM'S DEFENSE FUND | $0 | $119,500 |
-| FAMILY RESEARCH COUNCIL ACTION POLITICAL ACTION COMMITTEE | $0 | $54,500 |
-| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $11,590 | $0 |
-| NEW JERSEY FAMILY FIRST INC | $0 | $7,681 |
-| FOCUS ON THE FAMILY ACTION | $0 | $7,681 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Frank Pallone](https://www.govtrack.us/congress/members/400308) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 534 |
-| Bills Cosponsored | 6,690 |
-| Total Votes Cast | 22,669 |
-
-**Recent bills sponsored:**
-
-- H.Res. 1045: Calling on the Secretary of Education to work with stakeholders to immediately eliminate race-based Native logos, mascot — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7407: Prohibiting Tianeptine and Other Dangerous Products Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7372: Safety is Not For Sale Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1431: To designate the facility of the United States Postal Service located at 2407 State Route 71, Suite 1, in Spring Lake, N — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 2, 2025.*
-- H.R. 6292: Don’t Sell Kids’ Data Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 25, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -451,37 +416,6 @@ The class function is clear: Pallone is the progressive validator for industries
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | NJ |
-| Chamber | House |
-| Bills Sponsored | 577 |
-| Bills Cosponsored | 6691 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Economics and Public Finance, Energy, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Science, Technology, Communications, Sports and Recreation, Taxation, Transportation and Public Works, Water Resources Development
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 1045 | Calling on the Secretary of Education to work with stakeholders to immediately e… | Referred to the House Committee on Education and Workforce. |
-| 7407 | Prohibiting Tianeptine and Other Dangerous Products Act of 2026 | Referred to the House Committee on Energy and Commerce. |
-| 7372 | Safety is Not For Sale Act | Forwarded by Subcommittee to Full Committee by Voice Vote. |
-| 6292 | Don’t Sell Kids’ Data Act of 2025 | Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Voice Vote. |
-| 6166 | Lowering Drug Costs for American Families Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5448 | Protecting Free Vaccines Act | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5484 | National Flood Insurance Program Reauthorization and Reform Act of 2025 | Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management. |
-| 648 | Celebrating 50 years of Bruce Springsteen's album, "Born to Run". | Referred to the House Committee on Education and Workforce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/P000034) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -510,35 +444,6 @@ The class function is clear: Pallone is the progressive validator for industries
 - {{src:src_006246}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,311,209 |
-| Total Spent | $1,257,401 |
-| Cash on Hand | 3125718.74 |
-| Individual Contributions | $404,090 |
-| PAC Contributions | $878,107 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $1,311,209 | $1,257,401 | 3125718.74 |
-| 2024 | $3,462,887 | $3,077,720 | 3071910.32 |
-| 2022 | $3,144,740 | $3,795,593 | 2686743.08 |
-| 2020 | $3,240,051 | $2,030,033 | 3337595.75 |
-| 2018 | $2,810,635 | $1,722,277 | 2127577.21 |
-| 2016 | $2,415,229 | $1,879,868 | 1039220.84 |
-| ... | 14 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NJ03073/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -548,17 +453,6 @@ The class function is clear: Pallone is the progressive validator for industries
 
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Committees:**
-
-- House Committee on Energy and Commerce
-
-- [Source: Congress.gov](https://www.congress.gov/member/P000034) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -577,35 +471,6 @@ Frank Joseph Pallone Jr. is an American lawyer and politician serving as the U.S
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q965289) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 18 |
-| Bills Cosponsored | 247 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (47)
-- Government Operations and Politics (22)
-- Crime and Law Enforcement (21)
-- Civil Rights and Liberties, Minority Issues (18)
-- Health (17)
-- Taxation (16)
-- Armed Forces and National Security (13)
-- Labor and Employment (13)
-- Arts, Culture, Religion (11)
-- Finance and Financial Sector (10)
-
-**Enacted into law:**
-
-- HR 7520: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
-- HR 6829: HEARTS Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -159,6 +159,38 @@ top-donors: "[[Chevron]], [[National Victory Action Fund]], [[General Dynamics]]
 
 # Monica de la Cruz
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 315 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (45)
+- Finance and Financial Sector (36)
+- Health (33)
+- Crime and Law Enforcement (30)
+- Armed Forces and National Security (27)
+- Immigration (24)
+- Government Operations and Politics (23)
+- Taxation (20)
+- Agriculture and Food (17)
+- Education (12)
+
+**Recent bills sponsored:**
+
+- HR 10113: South Texas Agriculture Emergency Assistance Act
+- HR 10085: Saving Lives on Campuses Act of 2024
+- HR 10039: Diabetes Prevention Program Reauthorization Act of 2024
+- HR 10002: Lance Corporal Dustin Sekula Congressional Gold Medal Act
+- HR 9960: Water Delivery Transparency Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Monica de la Cruz. Republican, Texas-15 (Rio Grande Valley: Hidalgo County, McAllen, Edinburg, part of Starr County). First elected 2022, re-elected 2024. Born November 1974 in McAllen, TX. Latina Republican, insurance agent background, McAllen native. Prior race: lost TX-15 by 3 points to Henry Cuellar in 2020, then flipped the seat in 2022 when Cuellar survived a Democratic primary but lost the general. Assigned to Foreign Affairs and Financial Services. Top policy area is International Affairs (0 bills profiled in sponsored legislation context). 30 bills sponsored, 315 cosponsored, 0 enacted. Voting record: 96.4% party-line loyalty across 1,617 substantive votes, 59 deviations. Note: OFAC SDN match is a false positive (19 name-collision matches on "de la Cruz" across CUBA, SDNT, VENEZUELA, SDGT programs; all matched entities are different individuals and organizations).
@@ -269,35 +301,4 @@ The Republican Jewish Coalition, AIPAC, and National Right to Life donors form d
 <!-- auto:ofac-sdn end -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 315 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (45)
-- Finance and Financial Sector (36)
-- Health (33)
-- Crime and Law Enforcement (30)
-- Armed Forces and National Security (27)
-- Immigration (24)
-- Government Operations and Politics (23)
-- Taxation (20)
-- Agriculture and Food (17)
-- Education (12)
-
-**Recent bills sponsored:**
-
-- HR 10113: South Texas Agriculture Emergency Assistance Act
-- HR 10085: Saving Lives on Campuses Act of 2024
-- HR 10039: Diabetes Prevention Program Reauthorization Act of 2024
-- HR 10002: Lance Corporal Dustin Sekula Congressional Gold Medal Act
-- HR 9960: Water Delivery Transparency Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

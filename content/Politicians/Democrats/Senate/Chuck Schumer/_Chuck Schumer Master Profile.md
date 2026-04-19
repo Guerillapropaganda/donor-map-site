@@ -138,6 +138,34 @@ donors: [[Goldman Sachs]], [[AIPAC - American Israel Public Affairs Committee]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 134 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (52)
+- Health (16)
+- Crime and Law Enforcement (13)
+- Government Operations and Politics (12)
+- International Affairs (9)
+- Armed Forces and National Security (9)
+- Taxation (9)
+- Civil Rights and Liberties, Minority Issues (8)
+- Labor and Employment (7)
+- Arts, Culture, Religion (5)
+
+**Enacted into law:**
+
+- S 1395: Fiscal Responsibility Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 [[_Chuck Schumer Master Profile|Chuck Schumer]]. U.S. Senate Majority Leader (2021–present), Senior Senator from New York (1999–present). Previously served in the House (1981–1998). Career campaign fundraising: $100M+. Net worth: ~$1.8 million (modest by Senate standards, the wealth is in the network, not the bank account). The most powerful Democrat in the Senate and the highest-ranking Jewish elected official in American history.
@@ -411,34 +439,6 @@ conte
 
 <!-- auto:committee-assignments end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 54 |
-| Bills Cosponsored | 134 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Congress (52)
-- Health (16)
-- Crime and Law Enforcement (13)
-- Government Operations and Politics (12)
-- International Affairs (9)
-- Armed Forces and National Security (9)
-- Taxation (9)
-- Civil Rights and Liberties, Minority Issues (8)
-- Labor and Employment (7)
-- Arts, Culture, Religion (5)
-
-**Enacted into law:**
-
-- S 1395: Fiscal Responsibility Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

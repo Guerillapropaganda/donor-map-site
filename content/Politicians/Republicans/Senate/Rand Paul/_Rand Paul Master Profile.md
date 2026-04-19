@@ -114,6 +114,56 @@ donors: [[Koch Network - Charles Koch]] · [[Cryptocurrency Industry]] · Libert
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 52 |
+| Bills Cosponsored | 100 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (23)
+- Congress (22)
+- Health (21)
+- Government Operations and Politics (12)
+- Crime and Law Enforcement (11)
+- Taxation (8)
+- Labor and Employment (6)
+- Education (6)
+- Finance and Financial Sector (5)
+- Environmental Protection (4)
+
+**Recent bills sponsored:**
+
+- S 5512: A bill to restore the integrity of the Fifth Amendment to the Constitution of the United States, and for other purposes.
+- S 5458: A bill to allow Federal funds appropriated for kindergarten through grade 12 education to follow the student.
+- SJRES 117: A joint resolution relating to the disapproval of the Presidential report with respect to the indebtedness of the Gov...
+- S 5299: Paperwork Reduction for Farmers and H–2A Modernization Act
+- S 5298: Health Marketplace for All Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 59 |
+| Total Votes Cast | 5,337 |
+
+**Recent bills sponsored:**
+
+- S. 601: A bill to remove restrictions from a parcel of land in Paducah, Kentucky. — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S.J.Res. 108: A joint resolution providing for congressional disapproval of the proposed foreign military sales to the Government of U — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3853: End the Vaccine Carveout Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3670: End Welfare for Noncitizens Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3638: Antitrust Freedom Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 14, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412492) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Rand Paul. Junior Senator from Kentucky (2011–present). Son of former Representative Ron Paul (TX), the libertarian movement's patriarch. Ophthalmologist who practiced in Bowling Green, Kentucky. Self-certified by a board he created himself (National Board of Ophthalmologists) after objecting to the American Board of Ophthalmology's recertification requirements. Ran for President in 2016; dropped out after poor showing in Iowa. Senate Foreign Relations Committee, Homeland Security and Governmental Affairs Committee. Net worth: estimated $2–3 million. The Senate's most prominent self-described libertarian.
@@ -250,24 +300,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 - [KFF Health News: Rand Paul opposed federal handouts while taking Medicare patients](https://kffhealthnews.org/morning-breakout/reform-politics-and-personalities/) (Tier 2) (VERIFIED)
 - [Wikipedia: Rand Paul](https://en.wikipedia.org/wiki/Rand_Paul) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 48 |
-| Bills Cosponsored | 59 |
-| Total Votes Cast | 5,337 |
-
-**Recent bills sponsored:**
-
-- S. 601: A bill to remove restrictions from a parcel of land in Paducah, Kentucky. — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-- S.J.Res. 108: A joint resolution providing for congressional disapproval of the proposed foreign military sales to the Government of U — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3853: End the Vaccine Carveout Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3670: End Welfare for Noncitizens Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3638: Antitrust Freedom Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 14, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412492) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -328,38 +360,6 @@ The dynasty matters for the donor-class analysis: the Paul movement created a pi
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 52 |
-| Bills Cosponsored | 100 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (23)
-- Congress (22)
-- Health (21)
-- Government Operations and Politics (12)
-- Crime and Law Enforcement (11)
-- Taxation (8)
-- Labor and Employment (6)
-- Education (6)
-- Finance and Financial Sector (5)
-- Environmental Protection (4)
-
-**Recent bills sponsored:**
-
-- S 5512: A bill to restore the integrity of the Fifth Amendment to the Constitution of the United States, and for other purposes.
-- S 5458: A bill to allow Federal funds appropriated for kindergarten through grade 12 education to follow the student.
-- SJRES 117: A joint resolution relating to the disapproval of the Presidential report with respect to the indebtedness of the Gov...
-- S 5299: Paperwork Reduction for Farmers and H–2A Modernization Act
-- S 5298: Health Marketplace for All Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -190,6 +190,53 @@ donors: [[Robert Mercer]] · [[Koch Network - Charles Koch]] · [[Crypto Industr
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 142 |
+| Bills Cosponsored | 377 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (74)
+- Crime and Law Enforcement (50)
+- Armed Forces and National Security (42)
+- Government Operations and Politics (37)
+- Immigration (32)
+- Finance and Financial Sector (29)
+- Congress (26)
+- Health (24)
+- Education (23)
+- Taxation (20)
+
+**Enacted into law:**
+
+- S 2339: National Defense Authorization Act for Fiscal Year 2024
+- S 1280: TRANQ Research Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 111 |
+| Bills Cosponsored | 220 |
+| Total Votes Cast | 4,851 |
+
+**Recent bills sponsored:**
+
+- S. 4063: Polisario Front Terrorist Designation Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3798: Safe Access to Cash Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
+- S. 4009: Falun Gong and Victims of Forced Organ Harvesting Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 933: NASA Transition Authorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S. 3923: Weather Research and Forecasting Innovation Reauthorization Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412573) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Ted Cruz. Senior Senator from Texas (2013–present). Princeton undergraduate, Harvard Law (magna cum laude), Supreme Court clerk (Chief Justice Rehnquist), Texas Solicitor General. 2016 Republican presidential candidate (second to Trump). Won 2024 reelection in the most expensive Senate race in American history ($192M total). Net worth: ~$4.5 million (plus Heidi Cruz's [[Goldman Sachs|Goldman Sachs]] Managing Director compensation). The most publicly disliked Republican senator who keeps winning because the money never stops.
@@ -314,24 +361,6 @@ The leaked 2026 recordings are the class analysis in audio form. Cruz privately 
 - [CNBC: leaked 2026 tariff recordings](https://www.axios.com/2026/01/25/cruz-trump-vance-secret-tapes) (Tier 2) (VERIFIED)
 conte
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 111 |
-| Bills Cosponsored | 220 |
-| Total Votes Cast | 4,851 |
-
-**Recent bills sponsored:**
-
-- S. 4063: Polisario Front Terrorist Designation Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3798: Safe Access to Cash Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
-- S. 4009: Falun Gong and Victims of Forced Organ Harvesting Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 933: NASA Transition Authorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-- S. 3923: Weather Research and Forecasting Innovation Reauthorization Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412573) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -369,33 +398,6 @@ conte
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Yea** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Yea** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Yea** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Nay** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Yea** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Yea** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Yea** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Nay** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Nay** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: Ted Cruz](https://www.govtrack.us/congress/members/412573) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -472,35 +474,6 @@ conte
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 142 |
-| Bills Cosponsored | 377 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (74)
-- Crime and Law Enforcement (50)
-- Armed Forces and National Security (42)
-- Government Operations and Politics (37)
-- Immigration (32)
-- Finance and Financial Sector (29)
-- Congress (26)
-- Health (24)
-- Education (23)
-- Taxation (20)
-
-**Enacted into law:**
-
-- S 2339: National Defense Authorization Act for Fiscal Year 2024
-- S 1280: TRANQ Research Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

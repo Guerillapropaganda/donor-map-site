@@ -192,13 +192,76 @@ top-policy-area: Health
 | 2024-09-24 | h447-118.2 | Nay | Y | HR 7073 |
 | 2024-09-09 | h402-118.2 | Nay | Y | HR 8333 |
 | 2024-09-09 | h401-118.2 | Nay | Y | HR 1157 |
-| 2024-06-13 | h264-118.2 | Aye | N | — |
-| 2024-06-05 | h244-118.2 | No | Y | — |
-| 2024-06-05 | h243-118.2 | No | Y | — |
+| 2024-06-13 | h264-118.2 | Aye | N | - |
+| 2024-06-05 | h244-118.2 | No | Y | - |
+| 2024-06-05 | h243-118.2 | No | Y | - |
 | 2024-05-17 | h218-118.2 | Nay | Y | HRES 1213 |
 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
+
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 398 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- Civil Rights and Liberties, Minority Issues (36)
+- Crime and Law Enforcement (29)
+- Labor and Employment (25)
+- Government Operations and Politics (25)
+- Taxation (24)
+- Education (22)
+- International Affairs (20)
+- Agriculture and Food (16)
+- Housing and Community Development (15)
+
+**Recent bills sponsored:**
+
+- HRES 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropr...
+- HR 8470: Helping Families Heal Act of 2024
+- HCONRES 92: Honoring the Mary Meachum Freedom Crossing.
+- HRES 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
+- HRES 634: Unhoused Persons Bill of Rights
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 38 |
+| Bills Cosponsored | 756 |
+| Total Votes Cast | 2,239 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriation — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 8470: Helping Families Heal Act of 2024 — *This bill was introduced on May 21, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Con.Res. 92: Honoring the Mary Meachum Freedom Crossing. — *This resolution was introduced on February 20, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine. — *This resolution was introduced on October 25, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.Res. 634: Unhoused Persons Bill of Rights — *This resolution was introduced on July 28, 2023, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
+<!-- auto:govtrack end -->
 
 ## Who They Are
 
@@ -265,10 +328,10 @@ AIPAC's spending against Bush was not proportional to her Israel critique — it
 | Date | Money In | Amount | Policy Out | Time Gap |
 |------|----------|--------|------------|----------|
 | 2020 | Justice Democrats + grassroots small donors | $1.43M total cycle | Won primary against 20-year incumbent Lacy Clay. First BLM activist elected to Congress. | Direct |
-| Sep 23, 2021 | N/A — institutional pressure | — | Voted against Iron Dome funding ($1B supplemental, 420–9 vote). One of only 9 House "no" votes. Triggered AIPAC targeting. | — |
+| Sep 23, 2021 | N/A — institutional pressure | - | Voted against Iron Dome funding ($1B supplemental, 420–9 vote). One of only 9 House "no" votes. Triggered AIPAC targeting. | - |
 | 2022 cycle | Small donors + progressive PACs | $2.45M total cycle | First re-election; bill sponsorships ramp: Unhoused Persons Bill of Rights (~~[H.Res. 634](https://www.congress.gov/bill/118th-congress/house-resolution/634)~~ (URL broken, archived by Ops), Jul 28, 2023), Mary Meachum Freedom Crossing recognition (~~[H.Con.Res. 92](https://www.congress.gov/bill/118th-congress/house-concurrent-resolution/92)~~ (URL broken, archived by Ops), Feb 20, 2024). 38 bills sponsored / 756 cosponsored across 117-118th Congresses. | Ongoing |
 | **Oct 25, 2023** | **N/A — trigger event** | **—** | **Bush introduces [H.Res. 786](https://www.congress.gov/bill/118th-congress/house-resolution/786), "Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine." One of the earliest ceasefire resolutions in Congress after October 7. This is the vote that moved her from "AIPAC watchlist" to "AIPAC primary target."** | **Trigger** |
-| May 2024 | H.R. 8470 ("Helping Families Heal Act of 2024") introduced — domestic mental health support | — | Continues building domestic progressive record in parallel with Gaza advocacy. Bill did not receive a vote. | — |
+| May 2024 | H.R. 8470 ("Helping Families Heal Act of 2024") introduced — domestic mental health support | - | Continues building domestic progressive record in parallel with Gaza advocacy. Bill did not receive a vote. | - |
 | 2024 cycle | Individual donors (70% of $4.17M total) | $4,165,846 total | Medicare for All co-sponsor, Green New Deal, continued ceasefire advocacy, Defund police advocacy, 2,239 total votes cast across her tenure | Ongoing |
 | 2023–2024 | Campaign security spending to husband Cortney Merritts | $102,500+ | Unlicensed security services. DOJ investigation opened. | Led to indictment |
 | 2024 primary | AIPAC/United Democracy Project (against Bush) | **$9,956,554 opposing** (FEC IE filings) | Bush defeated in primary by Wesley Bell. Largest anti-Squad expenditure of 2024 cycle. | Direct |
@@ -277,7 +340,7 @@ AIPAC's spending against Bush was not proportional to her Israel critique — it
 | 2024 primary | Justice Democrats PAC (for Bush) | $2,755,000 supporting | Largest single pro-Bush outside spender. Outspent 3.17-to-1 by combined opposition. | Insufficient |
 | 2024 primary | Working Families Party PAC (for Bush) | $878,370 supporting | Progressive institutional support. | Insufficient |
 | Aug 2025 | Federal grand jury | Indictment | Bush and husband charged jointly over campaign security payments. She calls it political persecution. | 12 months post-defeat |
-| Oct 2025 | Comeback announcement | — | 2026 comeback bid announced after DOJ indictment. Frames as political retaliation. | — |
+| Oct 2025 | Comeback announcement | - | 2026 comeback bid announced after DOJ indictment. Frames as political retaliation. | - |
 | 2026 cycle (through Q1) | Comeback campaign donors | **$534,492 raised, $0 PAC** | 2026 comeback bid. Zero PAC contributions — deliberate repositioning. 70.6% from individual donors, fully grassroots-funded. IE support $4.4M vs IE opposition $14.0M still in place (same 2024 battle lines). | Ongoing |
 
 ---
@@ -333,37 +396,6 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - [Wikipedia: Cori Bush](https://en.wikipedia.org/wiki/Cori_Bush) (Tier 4) (VERIFIED)
 
 ##### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 15 |
-| Bills Cosponsored | 398 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (86)
-- Civil Rights and Liberties, Minority Issues (36)
-- Crime and Law Enforcement (29)
-- Labor and Employment (25)
-- Government Operations and Politics (25)
-- Taxation (24)
-- Education (22)
-- International Affairs (20)
-- Agriculture and Food (16)
-- Housing and Community Development (15)
-
-**Recent bills sponsored:**
-
-- HRES 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropr...
-- HR 8470: Helping Families Heal Act of 2024
-- HCONRES 92: Honoring the Mary Meachum Freedom Crossing.
-- HRES 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine.
-- HRES 634: Unhoused Persons Bill of Rights
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 - ~~[bush.house.gov: About](https://bush.house.gov/about)~~ (was Tier 1, site deactivated after Bush left office Jan 2025, bio data preserved in Who They Are section)
@@ -384,104 +416,7 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - [Source: Congress.gov](https://www.congress.gov/member/cori-bush/B001224) (Tier 1) (VERIFIED: Removed from bad)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | MO |
-| Chamber | Former House |
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 756 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Environmental Protection, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Social Welfare, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 1278 | Affirming the importance of the survival of Garífuna culture and identity, conde… | Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 8470 | Helping Families Heal Act of 2024 | Referred to the Subcommittee on Health. |
-| 92 | Honoring the Mary Meachum Freedom Crossing. | Sponsor introductory remarks on measure. (CR H769) |
-| 786 | Calling for an immediate deescalation and cease-fire in Israel and occupied Pale… | Referred to the House Committee on Foreign Affairs. |
-| 634 | Unhoused Persons Bill of Rights | Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture. |
-| 4972 | End Solitary Confinement Act | Referred to the House Committee on the Judiciary. |
-| 4901 | Reproductive Health Care Accessibility Act | Referred to the Subcommittee on Health. |
-| 4699 | The People’s Response Act | Referred to the Subcommittee on Health. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 38 |
-| Bills Cosponsored | 756 |
-| Total Votes Cast | 2,239 |
-
-**Recent bills sponsored:**
-
-- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriation — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 8470: Helping Families Heal Act of 2024 — *This bill was introduced on May 21, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Con.Res. 92: Honoring the Mary Meachum Freedom Crossing. — *This resolution was introduced on February 20, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine. — *This resolution was introduced on October 25, 2023, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 634: Unhoused Persons Bill of Rights — *This resolution was introduced on July 28, 2023, in a previous session of Congress, but it did not receive a vote.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 38 |
-| Bills Cosponsored | 756 |
-| Total Votes Cast | 2,239 |
-
-**Recent bills sponsored:**
-
-- H.Res. 1278: Affirming the importance of the survival of Garífuna culture and identity, condemning the violent and illegal appropriat — *This resolution was introduced on June 5, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 8470: Helping Families Heal Act of 2024 — *This bill was introduced on May 21, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Con.Res. 92: Honoring the Mary Meachum Freedom Crossing. — *This resolution was introduced on February 20, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 786: Calling for an immediate deescalation and cease-fire in Israel and occupied Palestine. — *This resolution was introduced on October 25, 2023, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 634: Unhoused Persons Bill of Rights — *This resolution was introduced on July 28, 2023, in a previous session of Congress, but it did not receive a vote.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456829) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -517,42 +452,6 @@ The DOJ indictment over $102,500 in security payments to Bush's husband compound
 - {{src:src_006283}} (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $534,492 |
-| Individual Contributions | $377,596 |
-| Cash on Hand | 203864.16 |
-| IE Support (Super PAC) | $4,401,980 |
-| IE Opposition (Super PAC) | $13,968,928 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $534,492 | $377,596 | $0 |
-| 2024 | $4,165,846 | $2,501,283 | $206,609 |
-| 2022 | $2,448,937 | $1,044,344 | $144,949 |
-| 2020 | $1,429,837 | $527,593 | $116,849 |
-| 2018 | $177,038 | $44,763 | $3,832 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| UNITED DEMOCRACY PROJECT ('UDP') | $0 | $9,956,554 |
-| FAIRSHAKE | $0 | $2,789,872 |
-| JUSTICE DEMOCRATS PAC | $2,755,000 | $0 |
-| MAINSTREAM DEMOCRATS PAC | $0 | $992,222 |
-| WORKING FAMILIES PARTY PAC | $878,370 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ## Committee Assignments (Congress.gov)
 
@@ -560,33 +459,6 @@ _N/A — Bush lost her 2024 Democratic primary to Wesley Bell and is no longer s
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Yea** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Yea** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Yea** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Nay** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **No** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Yea** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Yea** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Yea** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Yea** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Cori Bush](https://www.govtrack.us/congress/members/456829) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -595,15 +467,6 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001224) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -631,34 +494,6 @@ _No committee data found._
 - {{src:src_006283}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $534,492 |
-| Total Spent | $352,962 |
-| Cash on Hand | 203864.16 |
-| Debt | 13374.55 |
-| Individual Contributions | $377,596 |
-| PAC Contributions | $0 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $534,492 | $352,962 | 203864.16 |
-| 2024 | $4,165,846 | $4,154,359 | 22333.49 |
-| 2022 | $2,448,937 | $2,522,593 | 10847.18 |
-| 2020 | $1,429,837 | $1,345,334 | 84502.71 |
-| 2018 | $177,038 | $177,038 | 0.00 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8MO01143/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

@@ -169,6 +169,38 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 269 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (68)
+- Crime and Law Enforcement (33)
+- Congress (18)
+- Education (15)
+- Energy (15)
+- Armed Forces and National Security (15)
+- Environmental Protection (15)
+- Immigration (14)
+- Health (13)
+- Taxation (13)
+
+**Recent bills sponsored:**
+
+- S 5643: A bill to impose sanctions with respect to the Government of Turkiye, and for other purposes.
+- SRES 931: A resolution recognizing the exceptional service of Ambassador Michael Herzog during his tenure as Ambassador of Isra...
+- S 5457: A bill to amend the Internal Revenue Code of 1986 to allow a portion of general business credit carryforwards to be t...
+- SRES 860: A resolution designating the week of October 1, 2023, through October 7, 2023, as "Religious Education Week" to celeb...
+- S 5223: Birthright Citizenship Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Lindsey Graham. Senior Senator from South Carolina (2003–present). Armed Services Committee, Judiciary Committee, Appropriations Committee, Budget Committee. Former U.S. Representative (1995–2003). JAG Corps lawyer, Air Force Reserve Colonel (retired). John McCain's closest Senate ally until McCain's death (August 2018), then Trump's closest Senate ally. Failed 2016 presidential candidate, dropped out before primaries, called Trump a "race-baiting, xenophobic, religious bigot."
@@ -343,35 +375,4 @@ South Carolina's population: 5.1 million. Graham's national donor base: millions
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 269 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (68)
-- Crime and Law Enforcement (33)
-- Congress (18)
-- Education (15)
-- Energy (15)
-- Armed Forces and National Security (15)
-- Environmental Protection (15)
-- Immigration (14)
-- Health (13)
-- Taxation (13)
-
-**Recent bills sponsored:**
-
-- S 5643: A bill to impose sanctions with respect to the Government of Turkiye, and for other purposes.
-- SRES 931: A resolution recognizing the exceptional service of Ambassador Michael Herzog during his tenure as Ambassador of Isra...
-- S 5457: A bill to amend the Internal Revenue Code of 1986 to allow a portion of general business credit carryforwards to be t...
-- SRES 860: A resolution designating the week of October 1, 2023, through October 7, 2023, as "Religious Education Week" to celeb...
-- S 5223: Birthright Citizenship Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

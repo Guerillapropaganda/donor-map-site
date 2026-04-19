@@ -231,34 +231,6 @@ National Nurses United represents class analysis embedded within labor organizin
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-07.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 6 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Health Issues** → Funds **Bernie Sanders** → Sits on **Health, Education, Labor & Pensions (Ranking Member, 119th Congress)**
-- Lobbies on **Medicare/Medicaid** → Funds **Bernie Sanders** → Sits on **Health, Education, Labor & Pensions (Ranking Member, 119th Congress)**
-- Lobbies on **Veterans** → Funds **Mark Takano** → Sits on **Veterans' Affairs**
-
-**Funded politicians:**
-
-- [[Bernie Sanders]] (Health, Education, Labor & Pensions (Ranking Member, 119th Congress)) — lobbying: $3.1M
-- [[Sarah Huckabee Sanders]] — lobbying: $3.1M
-- [[Mark Takano]] (Veterans' Affairs) — lobbying: $3.1M
-- [[Raul Grijalva]] (Environment & Public Works) — lobbying: $3.1M
-- [[Tammy Baldwin]] — lobbying: $3.1M
-- [[Jim McGovern]] — lobbying: $3.1M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 
 ### Employee Political Contributions (FEC)

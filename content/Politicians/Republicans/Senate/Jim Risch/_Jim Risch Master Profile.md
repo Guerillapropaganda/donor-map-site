@@ -116,6 +116,38 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 62 |
+| Bills Cosponsored | 431 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (82)
+- Health (32)
+- Crime and Law Enforcement (30)
+- Armed Forces and National Security (28)
+- Public Lands and Natural Resources (26)
+- Energy (26)
+- Environmental Protection (25)
+- Government Operations and Politics (22)
+- Taxation (22)
+- Congress (21)
+
+**Recent bills sponsored:**
+
+- S 5421: A bill to provide enhanced provisions for advanced nuclear energy projects receiving loan guarantees through the Depa...
+- S 5303: Stand with Israel Act
+- S 5224: Modern Firearm Safety Act
+- S 5131: Blocking Bad Batteries Act
+- S 5003: VALOR Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Jim Risch is the junior senator from Idaho and chairs the Senate Foreign Relations Committee — the body with jurisdiction over treaties, arms sales, foreign aid, the State Department, USAID, and U.S. diplomatic relations worldwide. He also sits on the Energy and Natural Resources Committee, the Select Committee on Intelligence, and the Small Business Committee.
@@ -271,38 +303,6 @@ The domestic side completes the picture: Risch sits on Energy and Natural Resour
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 62 |
-| Bills Cosponsored | 431 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (82)
-- Health (32)
-- Crime and Law Enforcement (30)
-- Armed Forces and National Security (28)
-- Public Lands and Natural Resources (26)
-- Energy (26)
-- Environmental Protection (25)
-- Government Operations and Politics (22)
-- Taxation (22)
-- Congress (21)
-
-**Recent bills sponsored:**
-
-- S 5421: A bill to provide enhanced provisions for advanced nuclear energy projects receiving loan guarantees through the Depa...
-- S 5303: Stand with Israel Act
-- S 5224: Modern Firearm Safety Act
-- S 5131: Blocking Bad Batteries Act
-- S 5003: VALOR Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

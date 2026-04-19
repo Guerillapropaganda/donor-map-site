@@ -265,33 +265,6 @@ Apple occupies a unique position: a corporation that extracts value through cons
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 2 |
-| Active Lobbyist | Yes |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Agriculture** → Funds **Amy Klobuchar** → Sits on **Agriculture**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Copyright/Patent/Trademark** → Funds **Amy Klobuchar** → Sits on **Judiciary**
-- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Antitrust (Judiciary)**
-- Lobbies on **Immigration** → Funds **Amy Klobuchar** → Sits on **Judiciary**
-
-**Funded politicians:**
-
-- [[Barack Obama]] — lobbying: $29.2M — contracts: $15
-- [[Amy Klobuchar]] (Antitrust (Judiciary), Judiciary, Agriculture) — lobbying: $29.2M — contracts: $15
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

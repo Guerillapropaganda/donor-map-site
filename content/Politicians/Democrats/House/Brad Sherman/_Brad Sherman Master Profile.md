@@ -142,6 +142,38 @@ top-donors: "[[SEIU COPE]], [[Sierra Club Independent Action]], [[Citigroup]], [
 
 # Brad Sherman
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 452 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (134)
+- Finance and Financial Sector (37)
+- Health (32)
+- Government Operations and Politics (30)
+- Civil Rights and Liberties, Minority Issues (22)
+- Armed Forces and National Security (22)
+- Crime and Law Enforcement (22)
+- Taxation (21)
+- Transportation and Public Works (17)
+- Labor and Employment (17)
+
+**Recent bills sponsored:**
+
+- HR 9709: 8–K Trading Gap Act of 2024
+- HR 8340: H.R. 8340, Housing Unhoused Disabled Veterans Act
+- HR 7914: H.R. 7914, Accountability for Terrorist Perpetrators of October 7th Act
+- HR 7758: No China in Index Funds Act
+- HR 7760: No Capital Gains Allowance for American Adversaries Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Brad Sherman. Democrat, California-32 (San Fernando Valley / Thousand Oaks). First elected 1996, re-elected continuously to present. One of the longest-serving House Democrats, in Congress since January 1997 (28 years). Born October 1954 in Los Angeles. UCLA, Harvard Law School graduate. California Certified Public Accountant and California State Board of Equalization member before Congress. Committee assignments not yet pipeline-verified; Financial Services and Foreign Affairs committees confirmed by donor pattern and public record. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.5% party-line loyalty across 1,695 substantive votes, 43 deviations. CA-32 is a safe Democratic district in the San Fernando Valley; Sherman faces no meaningful Republican opposition.
@@ -223,35 +255,4 @@ The 43 deviations at 97.5% loyalty in 1,695 substantive votes reflect a 2.5% dev
 **Revolving Door (professional identity).** The AICPA relationship is the vault's cleanest example of professional-identity capture: a CPA serving on the committee that regulates the accounting profession, funded by the association that represents CPAs. The expertise and the conflict of interest are the same credential. Sherman's accounting background gives him legitimate policy expertise and simultaneously makes him the target of the accounting profession's political access investment. Whether this produces policy outcomes that serve accountants over the public interest requires committee-level analysis not yet in the vault.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 15 |
-| Bills Cosponsored | 452 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (134)
-- Finance and Financial Sector (37)
-- Health (32)
-- Government Operations and Politics (30)
-- Civil Rights and Liberties, Minority Issues (22)
-- Armed Forces and National Security (22)
-- Crime and Law Enforcement (22)
-- Taxation (21)
-- Transportation and Public Works (17)
-- Labor and Employment (17)
-
-**Recent bills sponsored:**
-
-- HR 9709: 8–K Trading Gap Act of 2024
-- HR 8340: H.R. 8340, Housing Unhoused Disabled Veterans Act
-- HR 7914: H.R. 7914, Accountability for Terrorist Perpetrators of October 7th Act
-- HR 7758: No China in Index Funds Act
-- HR 7760: No Capital Gains Allowance for American Adversaries Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

@@ -136,6 +136,38 @@ top-donors: "[[Teamsters - International Brotherhood of Teamsters]], [[National 
 
 # Peter Welch
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 93 |
+| Bills Cosponsored | 638 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (99)
+- Agriculture and Food (86)
+- Crime and Law Enforcement (49)
+- Government Operations and Politics (42)
+- International Affairs (41)
+- Taxation (40)
+- Armed Forces and National Security (30)
+- Civil Rights and Liberties, Minority Issues (29)
+- Commerce (27)
+- Environmental Protection (26)
+
+**Recent bills sponsored:**
+
+- SRES 941: A resolution congratulating the University of Vermont men's soccer team on winning the 2024 National Collegiate Athle...
+- S 5642: A bill to amend title 18, United States Code, to prevent and mitigate the potential for conflicts of interest followi...
+- S 5617: A bill to provide for debt reduction for developing countries for purposes of climate adaptation, and for other purpo...
+- S 5539: A bill to require systematic review of artificial intelligence systems before deployment by the Federal Government, a...
+- S 5526: A bill to establish a Federal Public Defender Commission, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Peter Welch. Democrat, Vermont. US Senator since January 2023, succeeding Patrick Leahy (who held the seat for 48 years). Previously Vermont's lone at-large House member (2007-2023). Born May 1947 in Springfield, MA. Harvard Law graduate. State senator and Vermont Senate President Pro Tempore before Congress. Committee assignments not yet in pipeline. 1,464 roll-call votes tracked across House and Senate (117th-119th Congress). Voting record: 95.4% party-line loyalty across 1,402 substantive votes, 64 deviations. Vermont is one of the safest Democratic states in the country; Welch holds Patrick Leahy's seat with no meaningful competition. The $1.1M lifetime direct PAC total and near-zero super-PAC footprint ($2K FOR, $0 AGAINST) are the structural result.
@@ -205,35 +237,4 @@ The 93 bills sponsored and 638 cosponsored with 0 enacted across the 118th Congr
 **Pilot Program (safe-seat model).** Welch's career is the longest-running safe-seat model in the current Democrat Senate cohort. Sixteen years in the House as Vermont's at-large member, then the Senate seat vacated by Patrick Leahy after 48 years. The pilot question is whether a senator who has never faced meaningful electoral pressure develops the same donor-class capture patterns as senators who need outside money to survive. The answer visible in Welch's record is: not in the same volume, but in the same structural form. Labor and healthcare donors for ideological alignment, Fox PAC for access, DSCC for party maintenance. The capture mechanism operates at a lower dollar volume in safe seats; it does not disappear.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 93 |
-| Bills Cosponsored | 638 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (99)
-- Agriculture and Food (86)
-- Crime and Law Enforcement (49)
-- Government Operations and Politics (42)
-- International Affairs (41)
-- Taxation (40)
-- Armed Forces and National Security (30)
-- Civil Rights and Liberties, Minority Issues (29)
-- Commerce (27)
-- Environmental Protection (26)
-
-**Recent bills sponsored:**
-
-- SRES 941: A resolution congratulating the University of Vermont men's soccer team on winning the 2024 National Collegiate Athle...
-- S 5642: A bill to amend title 18, United States Code, to prevent and mitigate the potential for conflicts of interest followi...
-- S 5617: A bill to provide for debt reduction for developing countries for purposes of climate adaptation, and for other purpo...
-- S 5539: A bill to require systematic review of artificial intelligence systems before deployment by the Federal Government, a...
-- S 5526: A bill to establish a Federal Public Defender Commission, and for other purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

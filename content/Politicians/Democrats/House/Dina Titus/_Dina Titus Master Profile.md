@@ -154,6 +154,34 @@ top-donors: "[[Unite Here Tip Campaign Committee]], [[Emily's List]], [[DCCC - D
 
 # Dina Titus
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 42 |
+| Bills Cosponsored | 820 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (148)
+- Health (97)
+- Armed Forces and National Security (64)
+- Crime and Law Enforcement (56)
+- Transportation and Public Works (50)
+- Taxation (44)
+- Government Operations and Politics (44)
+- Civil Rights and Liberties, Minority Issues (35)
+- Education (34)
+- Labor and Employment (32)
+
+**Enacted into law:**
+
+- HR 3780: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Dina Titus. Democrat, Nevada-1 (Las Vegas downtown, the Strip corridor, and surrounding Clark County). First elected to Congress 2012 after losing the 2010 Nevada Senate race. Born May 1950 in Thomasville, Georgia. College of William and Mary and Florida State University graduate; University of Nevada Las Vegas political science professor (1977-2011), Nevada state legislature, Nevada state senator, and Nevada state Senate Majority Leader before Congress. Member of the House Transportation and Infrastructure Committee and Foreign Affairs Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 96.9% party-line loyalty across 1,613 substantive votes, 50 deviations. NV-1 has faced significant Republican outside spending despite Las Vegas's Democratic lean.
@@ -238,31 +266,4 @@ The 50 deviations at 96.9% loyalty include a mixed pattern: rightward Yea votes 
 **Genuine Win + Structural Limit.** The FAA Reauthorization Act is Titus's legislative win: Transportation and Infrastructure Committee work that produced an enacted bill. The structural limit is that her most funded committee (Foreign Affairs, per cosponsored bill counts) has no Las Vegas constituency connection and the access money it generates (AIPAC, foreign policy organizations) reflects national-access maintenance rather than constituent service.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 42 |
-| Bills Cosponsored | 820 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (148)
-- Health (97)
-- Armed Forces and National Security (64)
-- Crime and Law Enforcement (56)
-- Transportation and Public Works (50)
-- Taxation (44)
-- Government Operations and Politics (44)
-- Civil Rights and Liberties, Minority Issues (35)
-- Education (34)
-- Labor and Employment (32)
-
-**Enacted into law:**
-
-- HR 3780: FAA Reauthorization Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

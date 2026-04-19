@@ -119,6 +119,29 @@ donors:
 ---
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,645 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2006-12-09 | S. 3546 (109th): Dietary Supplement and Nonprescription Drug Consumer Protection… | Yea | Passed |
+| 2006-12-09 | S. 3718 (109th): Pool and Spa Safety Act | Nay | Failed |
+| 2006-12-08 | H.R. 5682 (109th): Henry J. Hyde United States and India Nuclear Cooperation Pro… | Yea | Passed |
+| 2006-12-08 | H.J.Res. 102 (109th): Continuing Appropriations resolution FY2007 (Third) | Yea | Passed |
+| 2006-12-08 | H.R. 6406 (109th): To modify temporarily certain rates of duty and make other te… | No | Passed |
+| 2006-12-08 | Call of the House | Present | Passed |
+| 2006-12-08 | H.R. 5948 (109th): Belarus Democracy Reauthorization Act of 2006 | Yea | Passed |
+| 2006-12-08 | H.Res. 1100 (109th): Providing for consideration of the bill (H.R. 6406) to modi… | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400159) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Mark Green represented Tennessee's 7th Congressional District and chaired the House Homeland Security Committee from 2023 until his resignation in July 2025. Before Congress, he had two notable careers: elite military operator and healthcare entrepreneur.
@@ -283,29 +306,6 @@ The healthcare background adds the structural complexity. Green ran a staffing c
 - {{src:src_004331}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 4,645 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2006-12-09 | S. 3546 (109th): Dietary Supplement and Nonprescription Drug Consumer Protection… | Yea | Passed |
-| 2006-12-09 | S. 3718 (109th): Pool and Spa Safety Act | Nay | Failed |
-| 2006-12-08 | H.R. 5682 (109th): Henry J. Hyde United States and India Nuclear Cooperation Pro… | Yea | Passed |
-| 2006-12-08 | H.J.Res. 102 (109th): Continuing Appropriations resolution FY2007 (Third) | Yea | Passed |
-| 2006-12-08 | H.R. 6406 (109th): To modify temporarily certain rates of duty and make other te… | No | Passed |
-| 2006-12-08 | Call of the House | Present | Passed |
-| 2006-12-08 | H.R. 5948 (109th): Belarus Democracy Reauthorization Act of 2006 | Yea | Passed |
-| 2006-12-08 | H.Res. 1100 (109th): Providing for consideration of the bill (H.R. 6406) to modi… | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400159) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Archived
 

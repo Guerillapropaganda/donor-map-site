@@ -95,7 +95,6 @@ The January 2020 Phase One trade deal with China was framed as the payoff for th
 - [American Farm Bureau Federation. Farm Bankruptcy Data 2018 to 2020](https://www.fb.org/market-intel/) (Tier 2) (VERIFIED)
 - [U.S. International Trade Commission. USMCA Economic Impact Assessment](https://www.usitc.gov/publications/332/pub4889.pdf) (Tier 1) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Committee Assignments (Congress.gov)
 

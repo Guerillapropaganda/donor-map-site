@@ -169,6 +169,66 @@ donors: [[MassMutual]], [[Fidelity Investments]], MetLife, NAIFA - National Asso
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 96 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (14)
+- International Affairs (13)
+- Civil Rights and Liberties, Minority Issues (9)
+- Government Operations and Politics (6)
+- Agriculture and Food (6)
+- Crime and Law Enforcement (6)
+- Finance and Financial Sector (5)
+- Labor and Employment (5)
+- Health (4)
+- Education (4)
+
+**Recent bills sponsored:**
+
+- HRES 1345: Recognizing the 100th anniversary of the establishment of diplomatic relations between the United States and Ireland.
+- HR 8392: AOH Act
+- HR 7293: Automatic IRA Act of 2024
+- HR 4260: Public Servants Protection and Fairness Act of 2023
+- HR 2718: Addressing SILO Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 3 |
+| Bills Cosponsored | 108 |
+| Total Votes Cast | 22,669 |
+
+**Recent bills sponsored:**
+
+- H.R. 8060: To reauthorize funding for programs to prevent, investigate, and prosecute elder abuse, neglect, and exploitation, and f — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6722: Automatic IRA Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1337: To add Ireland to the E3 nonimmigrant visa program. — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 13, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Richard Edward Neal. U.S. Representative, Massachusetts's 1st District (1989–present). Democrat. Chair, House Ways & Means Committee (2019-2023), the most powerful committee in Congress, with jurisdiction over healthcare, taxation, Social Security, Medicare, and all federal revenue. Career campaign financing: $3.5M+ from insurance industry, $750K+ from pharmaceutical manufacturers. His institutional function: not to pass healthcare reform, but to prevent it. His district, the First Congressional District of Massachusetts, voted 73% for Medicare for All in a non-binding 2018 referendum. [[_Richard Neal Master Profile|Richard Neal]] opposed it, and he received $472,000 in career contributions from MassMutual alone, the largest insurance company in his district. His signature role: killing surprise medical billing reform (2019), blocking Medicare price negotiation (2015-2021), and preventing any federal universal healthcare legislation from reaching a floor vote. The insurance industry's single most valuable investment: a Massachusetts Democrat positioned to prevent progressive healthcare policy from the most powerful committee in Congress.
@@ -354,70 +414,10 @@ In 2018, Massachusetts held a non-binding referendum on "Medicare for All." In R
 - {{src:src_001197}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 3 |
-| Bills Cosponsored | 108 |
-| Total Votes Cast | 22,669 |
-
-**Recent bills sponsored:**
-
-- H.R. 8060: To reauthorize funding for programs to prevent, investigate, and prosecute elder abuse, neglect, and exploitation, and f — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6722: Automatic IRA Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 15, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1337: To add Ireland to the E3 nonimmigrant visa program. — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 13, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 6 |
-| Bills Cosponsored | 96 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (14)
-- International Affairs (13)
-- Civil Rights and Liberties, Minority Issues (9)
-- Government Operations and Politics (6)
-- Agriculture and Food (6)
-- Crime and Law Enforcement (6)
-- Finance and Financial Sector (5)
-- Labor and Employment (5)
-- Health (4)
-- Education (4)
-
-**Recent bills sponsored:**
-
-- HRES 1345: Recognizing the 100th anniversary of the establishment of diplomatic relations between the United States and Ireland.
-- HR 8392: AOH Act
-- HR 7293: Automatic IRA Act of 2024
-- HR 4260: Public Servants Protection and Fairness Act of 2023
-- HR 2718: Addressing SILO Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -131,6 +131,35 @@ top-policy-area: Government Operations and Politics
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 2 |
+| Bills Cosponsored | 95 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (22)
+- International Affairs (16)
+- Civil Rights and Liberties, Minority Issues (6)
+- Crime and Law Enforcement (6)
+- Labor and Employment (6)
+- Health (6)
+- Finance and Financial Sector (5)
+- Education (3)
+- Taxation (3)
+- Congress (3)
+
+**Recent bills sponsored:**
+
+- HRES 742: A resolution honoring the life and legacy of Dianne Feinstein, the late Senator for the State of California.
+- HRES 621: A resolution commemorating the life, legacy, and entertainment career of Tony Bennett.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Nancy Patricia Pelosi (née D'Alesandro). Born March 26, 1940, Baltimore, Maryland. Democrat. Speaker of the United States House of Representatives (2007–2011, 2019–2023). U.S. Representative from California's 5th/8th/11th/12th district since 1987. House Democratic Leader (2003–2023). First woman to serve as Speaker of the House.
@@ -554,45 +583,7 @@ Nancy Patricia Pelosi is an American politician who was the 52nd speaker of the 
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Sources**
-
-- [Congress.gov: Nancy Pelosi](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 2 |
-| Bills Cosponsored | 95 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (22)
-- International Affairs (16)
-- Civil Rights and Liberties, Minority Issues (6)
-- Crime and Law Enforcement (6)
-- Labor and Employment (6)
-- Health (6)
-- Finance and Financial Sector (5)
-- Education (3)
-- Taxation (3)
-- Congress (3)
-
-**Recent bills sponsored:**
-
-- HRES 742: A resolution honoring the life and legacy of Dianne Feinstein, the late Senator for the State of California.
-- HRES 621: A resolution commemorating the life, legacy, and entertainment career of Tony Bennett.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

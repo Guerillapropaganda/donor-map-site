@@ -169,6 +169,38 @@ top-policy-area: Health
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 69 |
+| Bills Cosponsored | 426 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Agriculture and Food (39)
+- International Affairs (33)
+- Crime and Law Enforcement (31)
+- Government Operations and Politics (30)
+- Congress (25)
+- Environmental Protection (24)
+- Taxation (22)
+- Immigration (20)
+- Energy (19)
+
+**Recent bills sponsored:**
+
+- S 5535: A bill to amend title XXVII of the Public Health Service Act, the Employee Retirement Income Security Act of 1974, an...
+- S 5424: A bill to prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to...
+- S 5356: Defining Male and Female Act of 2024
+- S 5198: Small Energy Producers Performance Enhancement Act
+- S 5145: Farmer First Fuel Incentives Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Roger Marshall. Republican senator from Kansas since 2021. Previously served in the U.S. House representing Kansas's 1st District (2017-2021) — the "Big First," one of the largest agricultural districts in the country. Serves on the Agriculture, Nutrition, and Forestry Committee; Health, Education, Labor, and Pensions (HELP) Committee; Finance Committee (new in 119th Congress); and Budget Committee. Chairs the Agriculture Subcommittee on Conservation, Forestry, Natural Resources, and Biotechnology and the HELP Subcommittee on Primary Health and Retirement Security. Board-certified obstetrician/gynecologist who delivered over 5,000 babies in Great Bend, Kansas. Army Reserve veteran (1984-1991). B.S. in biochemistry from Kansas State University; M.D. from the University of Kansas School of Medicine. Top industry donor: Health Professionals ($667,476 in 2019-2024 cycle). Funding split: 52% large individual contributions, 35% PAC, 8% small donors.
@@ -346,38 +378,6 @@ The $15.6M in opposition spending includes Club for Growth Action ($642K against
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 69 |
-| Bills Cosponsored | 426 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (92)
-- Agriculture and Food (39)
-- International Affairs (33)
-- Crime and Law Enforcement (31)
-- Government Operations and Politics (30)
-- Congress (25)
-- Environmental Protection (24)
-- Taxation (22)
-- Immigration (20)
-- Energy (19)
-
-**Recent bills sponsored:**
-
-- S 5535: A bill to amend title XXVII of the Public Health Service Act, the Employee Retirement Income Security Act of 1974, an...
-- S 5424: A bill to prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to...
-- S 5356: Defining Male and Female Act of 2024
-- S 5198: Small Energy Producers Performance Enhancement Act
-- S 5145: Farmer First Fuel Incentives Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

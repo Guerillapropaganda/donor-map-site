@@ -183,6 +183,65 @@ donors: [[SEIU - Service Employees International Union|SEIU]] · [[Teamsters - I
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 85 |
+| Bills Cosponsored | 762 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (118)
+- Government Operations and Politics (87)
+- International Affairs (69)
+- Crime and Law Enforcement (49)
+- Education (48)
+- Taxation (48)
+- Armed Forces and National Security (40)
+- Agriculture and Food (39)
+- Civil Rights and Liberties, Minority Issues (36)
+- Labor and Employment (34)
+
+**Enacted into law:**
+
+- HR 2618: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 174 |
+| Bills Cosponsored | 1,848 |
+| Total Votes Cast | 3,193 |
+
+**Recent bills sponsored:**
+
+- H.R. 10554: To direct the Secretary of Defense to submit to Congress annual reports on medical malpractice claims by members of the  — *This bill was introduced on December 20, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 5658: Vote by Mail Tracking Act — *This bill was introduced in a previous session of Congress and was passed by the House on November 18, 2024 but was never passed by the Senate.*
+- H.R. 10162: RESERVE Federal Land Act — *This bill was introduced on November 18, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 3386: Bottles and Breastfeeding Equipment Screening Enhancement Act — *This bill was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 5509: Electronic Permitting Modernization Act — *This bill was introduced in a previous session of Congress and was passed by the House on September 24, 2024 but was never passed by the Senate.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Not Voting | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Not Voting | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Not Voting | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 Katie Porter. Former U.S. Representative (CA-47, 2019–2025). UC Irvine law professor. 2024 U.S. Senate candidate (lost primary). 2026 California governor candidate. [[_Elizabeth Warren Master Profile|Elizabeth Warren]] protégé — took Warren's bankruptcy course at Harvard Law, named her daughter Elizabeth after her. Served as independent monitor of $25 billion mortgage settlement (appointed by AG [[_Kamala Harris Master Profile|Kamala Harris]], 2012), overseeing $9.5 billion in reforms for California homeowners.
@@ -328,37 +387,6 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 - EMILY's List endorsement (Tier 1)
 - Washington Post viral video analysis (Tier 2)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 174 |
-| Bills Cosponsored | 1,848 |
-| Total Votes Cast | 3,193 |
-
-**Recent bills sponsored:**
-
-- H.R. 10554: To direct the Secretary of Defense to submit to Congress annual reports on medical malpractice claims by members of the  — *This bill was introduced on December 20, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 5658: Vote by Mail Tracking Act — *This bill was introduced in a previous session of Congress and was passed by the House on November 18, 2024 but was never passed by the Senate.*
-- H.R. 10162: RESERVE Federal Land Act — *This bill was introduced on November 18, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 3386: Bottles and Breastfeeding Equipment Screening Enhancement Act — *This bill was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 5509: Electronic Permitting Modernization Act — *This bill was introduced in a previous session of Congress and was passed by the House on September 24, 2024 but was never passed by the Senate.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Not Voting | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Not Voting | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Not Voting | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412758) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -406,34 +434,6 @@ The labor endorsement pattern reveals something: the industrial unions (Teamster
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 85 |
-| Bills Cosponsored | 762 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (118)
-- Government Operations and Politics (87)
-- International Affairs (69)
-- Crime and Law Enforcement (49)
-- Education (48)
-- Taxation (48)
-- Armed Forces and National Security (40)
-- Agriculture and Food (39)
-- Civil Rights and Liberties, Minority Issues (36)
-- Labor and Employment (34)
-
-**Enacted into law:**
-
-- HR 2618: FAA Reauthorization Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

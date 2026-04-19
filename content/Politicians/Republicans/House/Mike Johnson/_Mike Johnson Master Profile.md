@@ -115,6 +115,57 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Peter Thiel]], [
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 126 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (20)
+- Crime and Law Enforcement (18)
+- Government Operations and Politics (13)
+- Taxation (9)
+- Armed Forces and National Security (8)
+- Education (8)
+- Finance and Financial Sector (7)
+- International Affairs (7)
+- Immigration (5)
+- Law (5)
+
+**Recent bills sponsored:**
+
+- HRES 1126: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
+- HR 5488: Protecting Our Courts from Foreign Manipulation Act of 2023
+- HR 4872: Federal Lands Amplified Security for the Homeland (FLASH) Act
+- HR 4491: Ensuring Faith in Our Elections Act
+- HR 1580: HALT Fentanyl Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 3 |
+| Total Votes Cast | 4,406 |
+| Leadership | Speaker of the House |
+
+**Recent bills sponsored:**
+
+- H.Res. 719: Honoring the life and legacy of Charles “Charlie” James Kirk. — *This simple resolution was agreed to on September 19, 2025. That is the end of the legislative process for a simple resolution.*
+- H.R. 2: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412706) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Mike Johnson. Speaker of the House (October 2023–present). Representative for Louisiana's 4th District (2017–present). The most obscure Speaker in modern history, a 16-year backbencher with no leadership positions, no committee chairs, and minimal national profile who became second in line to the presidency overnight. Net worth: estimates range from negative $280,000 to $350,000 (least wealthy Speaker of the century). Claims personal bank account is exempt from disclosure because it doesn't earn interest. Alliance Defending Freedom attorney for 9 years (2002-2010), wrote editorials supporting criminalization of gay sex (2003), endorsed briefs criminalizing consensual adult sexual activity. Council for National Policy member (secretive conservative influence network). Led the 2020 election overturn amicus brief signed by 100+ House Republicans. Trump personally called to thank him and asked him to contact all GOP members. Speaker fundraising explosion: $71 million raised in first three quarters of 2024 ($20M Q1, $23.5M Q2, $27.5M Q3). [[AIPAC - American Israel Public Affairs Committee|AIPAC]]: from ~$25K pre-Speaker to $104K in 2023 ($95K in November alone after pushing $14B Israel aid package). [[Peter Thiel|Peter Thiel]]: $852K to joint fundraising committee. [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire): $1.1M. Rex Sinquefeld: $1.1M. Oil and gas: $338K+ career. Russian-owned American Ethane Company donated to his 2018 campaign (88% owned by Russian nationals). The ADF attorney turned election denier turned Speaker, the religious right's man in the chair, funded by AIPAC, fossil fuels, and tech billionaires.
@@ -216,27 +267,7 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 - Democracy Docket: Election denier Speaker (Tier 2)
 - DeSmog: Oil and gas industry donations (Tier 2)
 
-### Legislative Activity (Congress.gov)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 6 |
-| Bills Cosponsored | 3 |
-| Total Votes Cast | 4,406 |
-| Leadership | Speaker of the House |
-
-**Recent bills sponsored:**
-
-- H.Res. 719: Honoring the life and legacy of Charles “Charlie” James Kirk. — *This simple resolution was agreed to on September 19, 2025. That is the end of the legislative process for a simple resolution.*
-- H.R. 2: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8: Reserved for the Speaker. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412706) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -257,38 +288,6 @@ The AIPAC speaker preservation sequence is the clearest proof that donor priorit
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 11 |
-| Bills Cosponsored | 126 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (20)
-- Crime and Law Enforcement (18)
-- Government Operations and Politics (13)
-- Taxation (9)
-- Armed Forces and National Security (8)
-- Education (8)
-- Finance and Financial Sector (7)
-- International Affairs (7)
-- Immigration (5)
-- Law (5)
-
-**Recent bills sponsored:**
-
-- HRES 1126: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
-- HR 5488: Protecting Our Courts from Foreign Manipulation Act of 2023
-- HR 4872: Federal Lands Amplified Security for the Homeland (FLASH) Act
-- HR 4491: Ensuring Faith in Our Elections Act
-- HR 1580: HALT Fentanyl Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

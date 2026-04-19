@@ -142,6 +142,24 @@ donors: [[Crypto Industry Bloc]] · [[Trump Donor Coalition]] · Defend American
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 159 |
+| Total Votes Cast | 733 |
+
+**Recent bills sponsored:**
+
+- S.Res. 663: A resolution honoring the service and sacrifice of the Ohio Air National Guard airmen who were killed in the Boeing KC-1 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3889: American Lending Fairness Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3746: Stopping Transfers of Public Funds Abroad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3283: Exclusive Citizenship Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3089: STOP Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 30, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456967) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Bernie Moreno. U.S. Senator from Ohio (2025–present). Auto dealership magnate (55 dealerships, CEO). Blockchain entrepreneur (Ownum, ChampTitles). Net worth $30–50M. Defeated Sherrod Brown (labor senator) in 2024 with crypto industry $40M+ spending. The crypto class replacement for Ohio's labor tradition. Class function: convert working-class Democratic seat into crypto-friendly Republican monopoly.
@@ -220,26 +238,7 @@ The payoff is already visible. Moreno supports the GENIUS Act, FIT21 framework, 
 - [Cleveland Scene: The Furious Saga of Bernie Moreno, Car Dealer Turned Tech Evangelist](https://www.clevescene.com/news/the-furious-saga-of-bernie-moreno-car-dealer-turned-tech-evangelist-24514858/) (Tier 2) (VERIFIED)
 - [WOSU: Who is Bernie Moreno? Car salesman turned politician](https://www.wosu.org/2024-09-24/who-is-bernie-moreno-car-salesman-turned-politician-sells-his-ideas-to-ohio-voters) (Tier 2) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 23 |
-| Bills Cosponsored | 159 |
-| Total Votes Cast | 733 |
-
-**Recent bills sponsored:**
-
-- S.Res. 663: A resolution honoring the service and sacrifice of the Ohio Air National Guard airmen who were killed in the Boeing KC-1 — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3889: American Lending Fairness Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3746: Stopping Transfers of Public Funds Abroad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3283: Exclusive Citizenship Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3089: STOP Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 30, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456967) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Committee Assignments (Congress.gov)
 

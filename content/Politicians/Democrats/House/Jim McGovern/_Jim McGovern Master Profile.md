@@ -130,6 +130,64 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 798 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (116)
+- Health (108)
+- Agriculture and Food (54)
+- Armed Forces and National Security (46)
+- Immigration (45)
+- Government Operations and Politics (43)
+- Crime and Law Enforcement (42)
+- Labor and Employment (40)
+- Taxation (40)
+- Civil Rights and Liberties, Minority Issues (37)
+
+**Enacted into law:**
+
+- HR 533: Promoting a Resolution to the Tibet-China Dispute Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 431 |
+| Total Votes Cast | 18,371 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1068: Providing for consideration of the joint resolution (H.J. Res. 143) enabling Congress to advance important policies. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7521: United States-Cuba Trade Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7546: To amend title XVIII of the Social Security Act to provide coverage for wigs as durable medical equipment under the Medi — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 68: To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress. — *This resolution failed in the House on January 22, 2026.*
+- H.J.Res. 143: Resolution Act. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 22, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jim McGovern represents Massachusetts's 2nd Congressional District (Worcester and western Massachusetts) and is the Ranking Member of the House Rules Committee — the committee that controls which bills reach the House floor, under what terms, and with which amendments allowed. He chaired the Rules Committee in the 116th and 117th Congresses (2019-2023). He has served in Congress since 1997.
@@ -280,68 +338,11 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 - [Source: Congress.gov](https://www.congress.gov/member/M000312) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 431 |
-| Total Votes Cast | 18,371 |
-
-**Recent bills sponsored:**
-
-- H.Res. 1068: Providing for consideration of the joint resolution (H.J. Res. 143) enabling Congress to advance important policies. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7521: United States-Cuba Trade Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7546: To amend title XVIII of the Social Security Act to provide coverage for wigs as durable medical equipment under the Medi — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Con.Res. 68: To direct the removal of United States Armed Forces from Venezuela that have not been authorized by Congress. — *This resolution failed in the House on January 22, 2026.*
-- H.J.Res. 143: Resolution Act. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 22, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-<!-- auto:govtrack end -->
 
 ## Committee Assignments (Congress.gov)
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Jim McGovern](https://www.govtrack.us/congress/members/400263) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -378,34 +379,6 @@ McGovern is the anti-pattern that proves the pattern across the vault. When a po
 - [Source: Congress.gov](https://www.congress.gov/member/F000485) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 23 |
-| Bills Cosponsored | 798 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (116)
-- Health (108)
-- Agriculture and Food (54)
-- Armed Forces and National Security (46)
-- Immigration (45)
-- Government Operations and Politics (43)
-- Crime and Law Enforcement (42)
-- Labor and Employment (40)
-- Taxation (40)
-- Civil Rights and Liberties, Minority Issues (37)
-
-**Enacted into law:**
-
-- HR 533: Promoting a Resolution to the Tibet-China Dispute Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

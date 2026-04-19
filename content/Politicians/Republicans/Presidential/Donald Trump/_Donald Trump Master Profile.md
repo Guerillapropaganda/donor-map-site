@@ -92,6 +92,16 @@ proclamations: 706
 - [GovTrack: Donald Trump](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 0 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Donald John Trump. Born June 14, 1946, in Queens, New York. Republican. 45th and 47th President of the United States. Real estate heir turned casino bankrupter turned reality TV host turned president turned convicted felon turned president again. Net worth fluctuates wildly depending on who's counting and what his stock is doing, somewhere between $2 billion and $6 billion, much of it in branding value and Truth Social stock rather than liquid assets.
@@ -598,16 +608,6 @@ The working-class voters who wear the hat get the culture war. The billionaires 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 0 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412733) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->

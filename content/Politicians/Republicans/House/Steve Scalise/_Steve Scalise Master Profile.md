@@ -158,6 +158,68 @@ top-policy-area: International Affairs
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 32 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (8)
+- Congress (8)
+- Government Operations and Politics (7)
+- Crime and Law Enforcement (4)
+- Education (4)
+- Energy (2)
+- Economics and Public Finance (2)
+- Taxation (2)
+- Public Lands and Natural Resources (1)
+- Health (1)
+
+**Recent bills sponsored:**
+
+- HR 8364: Firearms Interstate Commerce Reform Act
+- HCONRES 93: Providing for a joint session of Congress to receive a message from the President.
+- HR 7423: A bill to designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Lou...
+- HR 6843: Atchafalaya National Heritage Area Boundary Modification Act
+- HRES 811: Authorizing the Clerk to inform the President of the election of the Speaker.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 3 |
+| Bills Cosponsored | 5 |
+| Total Votes Cast | 11,086 |
+| Leadership | House Majority Leader |
+
+**Recent bills sponsored:**
+
+- H.R. 4: Rescissions Act of 2025 — *This bill was enacted after being signed by the President on July 24, 2025.*
+- H.Res. 3: Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. — *This simple resolution was agreed to on January 3, 2025. That is the end of the legislative process for a simple resolution.*
+- H.Res. 2: To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. — *This simple resolution was agreed to on January 3, 2025. That is the end of the legislative process for a simple resolution.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412261) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Steve Scalise. Republican congressman from Louisiana's 1st Congressional District since 2008. House Majority Leader in the 119th Congress, the second-highest position in House Republican leadership. Previously served as House Majority Whip (2014-2019) and House Minority Whip (2019-2023). Former chairman of the Republican Study Committee. Senior member of the House Energy and Commerce Committee, serving on the Energy and Environment Subcommittee and the Commerce, Trade, and Consumer Protection Subcommittee. Before politics, worked as a software engineer and technology company marketing executive. B.S. from Louisiana State University. Survived a mass shooting at a congressional baseball practice in June 2017. Diagnosed with multiple myeloma (blood cancer) in August 2023, described it as "very treatable." Nominated for House Speaker in October 2023 after Kevin McCarthy's ouster but withdrew his candidacy after failing to secure enough votes, partly due to resurfaced controversy over a 2002 speech to a white supremacist group founded by David Duke. Career fundraising exceeds $85 million through his campaign committee; leadership PAC has raised over $11 million.
@@ -321,36 +383,6 @@ The class contradiction hits hardest in Louisiana's Cancer Alley. Scalise's dist
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 3 |
-| Bills Cosponsored | 5 |
-| Total Votes Cast | 11,086 |
-| Leadership | House Majority Leader |
-
-**Recent bills sponsored:**
-
-- H.R. 4: Rescissions Act of 2025 — *This bill was enacted after being signed by the President on July 24, 2025.*
-- H.Res. 3: Authorizing the Speaker to appoint a committee to notify the President of the assembly of the Congress. — *This simple resolution was agreed to on January 3, 2025. That is the end of the legislative process for a simple resolution.*
-- H.Res. 2: To inform the Senate that a quorum of the House has assembled and of the election of the Speaker and the Clerk. — *This simple resolution was agreed to on January 3, 2025. That is the end of the legislative process for a simple resolution.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412261) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -369,38 +401,6 @@ Stephen Joseph Scalise is an American politician who has been the House majority
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1857141) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 12 |
-| Bills Cosponsored | 32 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (8)
-- Congress (8)
-- Government Operations and Politics (7)
-- Crime and Law Enforcement (4)
-- Education (4)
-- Energy (2)
-- Economics and Public Finance (2)
-- Taxation (2)
-- Public Lands and Natural Resources (1)
-- Health (1)
-
-**Recent bills sponsored:**
-
-- HR 8364: Firearms Interstate Commerce Reform Act
-- HCONRES 93: Providing for a joint session of Congress to receive a message from the President.
-- HR 7423: A bill to designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Lou...
-- HR 6843: Atchafalaya National Heritage Area Boundary Modification Act
-- HRES 811: Authorizing the Clerk to inform the President of the election of the Speaker.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

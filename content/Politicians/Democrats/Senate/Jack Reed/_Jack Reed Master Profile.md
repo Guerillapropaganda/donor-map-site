@@ -178,6 +178,68 @@ donors: [[Lockheed Martin]] [[Boeing]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 300 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (48)
+- Taxation (28)
+- Crime and Law Enforcement (25)
+- Labor and Employment (25)
+- Education (23)
+- Congress (20)
+- Civil Rights and Liberties, Minority Issues (18)
+- Finance and Financial Sector (18)
+- Government Operations and Politics (17)
+- Armed Forces and National Security (16)
+
+**Recent bills sponsored:**
+
+- SCONRES 44: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
+- SRES 821: Expressing support for designation of the week of September 15 through 21, 2024, as "National Adult Education and Fam...
+- SRES 814: A resolution designating September 2024 as "National Literacy Month".
+- S 4905: Innovation in Pediatric Drugs Act of 2024
+- S 4678: Legislative Branch Appropriations Act, 2025
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 238 |
+| Total Votes Cast | 13,321 |
+
+**Recent bills sponsored:**
+
+- S.J.Res. 132: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.J.Res. 134: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4110: EMPOWER for Health Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4109: Stem Cell Therapeutic and Research Reauthorization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4068: ACTION for National Service Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jack Reed is the senior senator from Rhode Island and the Ranking Member (formerly Chair) of the Senate Armed Services Committee — the body that authorizes every dollar the Pentagon spends and confirms every senior military appointment. He has held his Senate seat since 1997 and served in the House from 1991 to 1997.
@@ -333,26 +395,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 1 |
-| Purchases | 0 |
-| Sales | 0 |
-| Est. Value Range | $0 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 01/06/2014 | N/A | other | Unknown | N/A |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -364,74 +406,7 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 - {{src:src_005374}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $3,297,809 |
-| Individual Contributions | $1,948,848 |
-| PAC Contributions | $1,160,085 |
-| Cash on Hand | 3190821.18 |
-| IE Support (Super PAC) | $193 |
-| IE Opposition (Super PAC) | $8,297 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $3,297,809 | $1,948,848 | $1,160,085 |
-| 2020 | $4,028,130 | $1,908,787 | $1,857,482 |
-| 2014 | $3,960,335 | $1,672,567 | $1,938,137 |
-| 2008 | $4,735,246 | $2,297,153 | $1,846,423 |
-| 2002 | $3,764,624 | $0 | $1,461,048 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| NATIONAL REPUBLICAN SENATORIAL COMMITTEE | $0 | $75,759 |
-| PATRIOT VOICES PAC | $0 | $8,232 |
-| PLANNED PARENTHOOD VOTES | $124 | $0 |
-| CAMPAIGN FOR WORKING FAMILIES | $0 | $66 |
-| ENVIRONMENT AMERICA INC | $59 | $0 |
-
-- {{src:src_005381}} (Tier 1) (VERIFIED)
-
-<!-- auto:fec-politician pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 35 |
-| Bills Cosponsored | 238 |
-| Total Votes Cast | 13,321 |
-
-**Recent bills sponsored:**
-
-- S.J.Res. 132: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.J.Res. 134: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule s — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 18, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4110: EMPOWER for Health Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4109: Stem Cell Therapeutic and Research Reauthorization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4068: ACTION for National Service Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -463,38 +438,6 @@ Reed's net worth is among the lowest in the Senate, reported between negative $5
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 41 |
-| Bills Cosponsored | 300 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (48)
-- Taxation (28)
-- Crime and Law Enforcement (25)
-- Labor and Employment (25)
-- Education (23)
-- Congress (20)
-- Civil Rights and Liberties, Minority Issues (18)
-- Finance and Financial Sector (18)
-- Government Operations and Politics (17)
-- Armed Forces and National Security (16)
-
-**Recent bills sponsored:**
-
-- SCONRES 44: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
-- SRES 821: Expressing support for designation of the week of September 15 through 21, 2024, as "National Adult Education and Fam...
-- SRES 814: A resolution designating September 2024 as "National Literacy Month".
-- S 4905: Innovation in Pediatric Drugs Act of 2024
-- S 4678: Legislative Branch Appropriations Act, 2025
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -181,6 +181,34 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 461 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (138)
+- Immigration (51)
+- Health (38)
+- Crime and Law Enforcement (34)
+- Armed Forces and National Security (29)
+- Government Operations and Politics (21)
+- Taxation (20)
+- Commerce (15)
+- Agriculture and Food (13)
+- Finance and Financial Sector (11)
+
+**Enacted into law:**
+
+- HR 537: Forgotten Heroes of the Holocaust Congressional Gold Medal Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Maria Elvira Salazar. U.S. Representative, Florida's 27th Congressional District (R). Born November 1, 1961, in Miami's Little Havana to Cuban exile parents. Former TV journalist (Univision, Telemundo, CNN en Español, PBS, Mega TV). Elected 2020, reelected 2022 and 2024.
@@ -305,25 +333,6 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 1 |
-| Sanctions Programs | SDNTK |
-| Entity Types | individual |
-
-**Matched SDN entries:**
-- SALAZAR HERNANDEZ, Maria Alejandrina (individual) [SDNTK]
-  - Remarks: DOB 17 Jul 1958; POB Culiacan, Sinaloa, Mexico; Passport 140302262 (Mexico); R.F.C. SAHA580717AP6 (Mexico); C.U.R.P. SAHA580717MSLLRL07 (Mexico).
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-
-<!-- auto:ofac-sdn pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -382,34 +391,6 @@ Her stated position: "Sanctions exist to deny economic support to the Cuban dict
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 32 |
-| Bills Cosponsored | 461 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (138)
-- Immigration (51)
-- Health (38)
-- Crime and Law Enforcement (34)
-- Armed Forces and National Security (29)
-- Government Operations and Politics (21)
-- Taxation (20)
-- Commerce (15)
-- Agriculture and Food (13)
-- Finance and Financial Sector (11)
-
-**Enacted into law:**
-
-- HR 537: Forgotten Heroes of the Holocaust Congressional Gold Medal Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

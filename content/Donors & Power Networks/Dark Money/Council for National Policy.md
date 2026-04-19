@@ -238,24 +238,6 @@ The Council for National Policy (CNP) is an umbrella organization and networking
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-The Council for National Policy (CNP) is an umbrella organization and networking group that advocates for conservative and Republican Party initiatives in the United States.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q1137011](https://www.wikidata.org/wiki/Q1137011) |
-| Description | nonprofit organization |
-| Founded | 1981-00-00 |
-| Website | [http://cfnp.org/](http://cfnp.org/) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/4/46/Council_for_National_Policy_%28logo%29.jpg) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Council_for_National_Policy) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1137011) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

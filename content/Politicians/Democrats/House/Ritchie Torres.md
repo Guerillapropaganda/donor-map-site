@@ -273,15 +273,6 @@ The 2026 cycle reveals the scale. Torres has raised $5,052,480 with $1,616,453 f
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Ritchie Torres](https://www.congress.gov/member/s001193) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->

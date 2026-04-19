@@ -139,6 +139,38 @@ top-donors: "[[Robert Garcia]], [[League of Conservation Voters]], [[VOTER PROTE
 
 # Chris Pappas
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 41 |
+| Bills Cosponsored | 542 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (126)
+- Armed Forces and National Security (78)
+- International Affairs (62)
+- Crime and Law Enforcement (40)
+- Taxation (29)
+- Government Operations and Politics (29)
+- Transportation and Public Works (23)
+- Agriculture and Food (21)
+- Civil Rights and Liberties, Minority Issues (17)
+- Education (14)
+
+**Recent bills sponsored:**
+
+- HRES 1614: Expressing support for the recognition of December 2024 as "National Impaired Driving Prevention Month", and promotin...
+- HRES 1557: Expressing support for the designation of October 28 as "Oxi Day" to commemorate the anniversary of Greek Prime Minis...
+- HR 9734: SERVE Act
+- HR 9636: To allow States to require payment of State fees related to boating as a condition for issuance of a vessel number an...
+- HR 9481: Improving Coordination for the Northern Border Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Chris Pappas. Democrat, New Hampshire-1 (Manchester, Concord, and surrounding communities). First elected 2018; NH-1 is a competitive swing district. The first openly gay person elected to Congress from New Hampshire. Born June 1980 in Manchester. University of New Hampshire graduate; New Hampshire state legislature, NH Executive Council before Congress. Armed Services Committee member. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 92.0% party-line loyalty across 1,716 substantive votes, 138 deviations. NH-1 is competitive; Pappas ran for US Senate in 2024 and lost to Republican Kelly Ayotte.
@@ -217,35 +249,4 @@ The 2024 Senate loss to Republican Kelly Ayotte is the crucial context for readi
 **Donor-Class Override (partial).** The moderate-Democrat PAC cluster (Moderate Democrats PAC, SD PAC, New Direction PAC, Rev Up PAC, Smart Solutions PAC) reflects institutional support for centrist Democrats who vote with Republicans frequently. These PACs exist specifically to fund members who are willing to deviate from the caucus majority, and they funded Pappas during his House tenure. The cluster at $10K per PAC (the maximum cycle contribution) suggests coordinated moderate-Democrat institutional support rather than organic donor enthusiasm.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 41 |
-| Bills Cosponsored | 542 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (126)
-- Armed Forces and National Security (78)
-- International Affairs (62)
-- Crime and Law Enforcement (40)
-- Taxation (29)
-- Government Operations and Politics (29)
-- Transportation and Public Works (23)
-- Agriculture and Food (21)
-- Civil Rights and Liberties, Minority Issues (17)
-- Education (14)
-
-**Recent bills sponsored:**
-
-- HRES 1614: Expressing support for the recognition of December 2024 as "National Impaired Driving Prevention Month", and promotin...
-- HRES 1557: Expressing support for the designation of October 28 as "Oxi Day" to commemorate the anniversary of Greek Prime Minis...
-- HR 9734: SERVE Act
-- HR 9636: To allow States to require payment of State fees related to boating as a condition for issuance of a vessel number an...
-- HR 9481: Improving Coordination for the Northern Border Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

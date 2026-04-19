@@ -185,6 +185,38 @@ donors: [[Palantir]] [[Wall Street Finance PACs]] Hedge Fund Industry Tech Corpo
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 46 |
+| Bills Cosponsored | 1074 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (181)
+- International Affairs (146)
+- Armed Forces and National Security (104)
+- Crime and Law Enforcement (92)
+- Taxation (70)
+- Education (58)
+- Agriculture and Food (54)
+- Government Operations and Politics (52)
+- Finance and Financial Sector (39)
+- Labor and Employment (36)
+
+**Recent bills sponsored:**
+
+- HR 10484: To direct the Secretary of Health and Human Services to carry out a public awareness campaign to increase participati...
+- HR 10485: To authorize to be appropriated funds for COPS Tech projects.
+- HRES 1620: Calling on law enforcement led by the Federal Bureau of Investigation, the Department of Homeland Security, and the F...
+- HR 10182: Caregiver Financial Relief Act
+- HR 10154: Ballot Box Protection Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Rep [[_Josh Gottheimer Master Profile|Josh Gottheimer]] represents New Jersey's 5th Congressional District (Bergen County suburbs, North Jersey affluent areas) and co-chairs the Problem Solvers Caucus, a bipartisan group of ~50 House members that positions itself as pragmatic, anti-partisan, and focused on "getting things done." A five-term congressman from a light-blue district (D+1 after redistricting), Gottheimer has built his career as Wall Street and tech's inside man within the Democratic caucus. He functions as insurance policy: if progressive economic legislation threatens corporate interests, Gottheimer and his centrist bloc can negotiate watered-down compromises or kill bills entirely while maintaining Democratic control and bipartisan credibility.
@@ -373,14 +405,6 @@ Gottheimer justified this by noting that Palantir also works for non-ICE governm
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -469,38 +493,6 @@ Joshua S. Gottheimer is an American politician, attorney, writer, and public pol
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6288908) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 46 |
-| Bills Cosponsored | 1074 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (181)
-- International Affairs (146)
-- Armed Forces and National Security (104)
-- Crime and Law Enforcement (92)
-- Taxation (70)
-- Education (58)
-- Agriculture and Food (54)
-- Government Operations and Politics (52)
-- Finance and Financial Sector (39)
-- Labor and Employment (36)
-
-**Recent bills sponsored:**
-
-- HR 10484: To direct the Secretary of Health and Human Services to carry out a public awareness campaign to increase participati...
-- HR 10485: To authorize to be appropriated funds for COPS Tech projects.
-- HRES 1620: Calling on law enforcement led by the Federal Bureau of Investigation, the Department of Homeland Security, and the F...
-- HR 10182: Caregiver Financial Relief Act
-- HR 10154: Ballot Box Protection Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

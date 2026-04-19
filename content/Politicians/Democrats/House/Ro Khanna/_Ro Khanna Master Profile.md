@@ -212,6 +212,56 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 43 |
+| Bills Cosponsored | 523 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (57)
+- International Affairs (51)
+- Government Operations and Politics (49)
+- Armed Forces and National Security (44)
+- Taxation (37)
+- Crime and Law Enforcement (33)
+- Civil Rights and Liberties, Minority Issues (25)
+- Environmental Protection (24)
+- Agriculture and Food (24)
+- Finance and Financial Sector (21)
+
+**Recent bills sponsored:**
+
+- HR 10531: To prohibit the exportation of gasoline during periods of high gasoline prices.
+- HR 10532: To amend the Federal Election Campaign Act of 1971 to prohibit a candidate for election to the office or Representati...
+- HR 10530: To amend the Federal Reserve Act to modify the goals of the Board of Governors of the Federal Reserve System, to elim...
+- HR 10456: To direct the Secretary of Health and Human Services to conduct a study to assess the unintended impacts on the healt...
+- HR 10429: To amend the Internal Revenue Code of 1986 to establish a State and local general sales tax credit for small businesses.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 392 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 8107: To require the establishment of a list identifying program areas and administrative practices presenting the greatest ri — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8108: To amend the Internal Revenue Code of 1986 to provide for an end date for the credit for certain qualified carbon oxide, — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7960: To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax co — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7907: AI-Ready Bio-Data Standards Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7832: To establish the America’s Living Library Project, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412684) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Ro Khanna (Rohit Khanna). Democrat, California's 17th District (Silicon Valley. Cupertino, Santa Clara, Fremont, Sunnyvale). The district contains the headquarters of Apple and Intel and sits at the center of the global tech industry's physical infrastructure. First South Asian elected to Congress from Northern California. Before Congress: patent attorney, Stanford and Santa Clara University lecturer, and Deputy Assistant Secretary of Commerce under Obama. Elected in 2016 after defeating incumbent Mike Honda. Re-elected in 2018, 2020, 2022, 2024. Member of the House Armed Services Committee (Ranking Member, Subcommittee on Cyber, Innovative Technologies and Information Systems) and House Oversight and Government Reform Committee.
@@ -429,24 +479,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 392 |
-| Total Votes Cast | 4,873 |
-
-**Recent bills sponsored:**
-
-- H.R. 8107: To require the establishment of a list identifying program areas and administrative practices presenting the greatest ri — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8108: To amend the Internal Revenue Code of 1986 to provide for an end date for the credit for certain qualified carbon oxide, — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7960: To amend the Internal Revenue Code of 1986 to impose a windfall profits excise tax on crude oil and to rebate the tax co — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7907: AI-Ready Bio-Data Standards Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7832: To establish the America’s Living Library Project, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412684) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -488,33 +520,6 @@ The class function Khanna serves: he demonstrates that progressive politics can 
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-13 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Ro Khanna](https://www.govtrack.us/congress/members/412684) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -606,38 +611,6 @@ Rohit "Ro" Khanna is an American politician and attorney serving as the U.S. rep
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7339221) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 43 |
-| Bills Cosponsored | 523 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (57)
-- International Affairs (51)
-- Government Operations and Politics (49)
-- Armed Forces and National Security (44)
-- Taxation (37)
-- Crime and Law Enforcement (33)
-- Civil Rights and Liberties, Minority Issues (25)
-- Environmental Protection (24)
-- Agriculture and Food (24)
-- Finance and Financial Sector (21)
-
-**Recent bills sponsored:**
-
-- HR 10531: To prohibit the exportation of gasoline during periods of high gasoline prices.
-- HR 10532: To amend the Federal Election Campaign Act of 1971 to prohibit a candidate for election to the office or Representati...
-- HR 10530: To amend the Federal Reserve Act to modify the goals of the Board of Governors of the Federal Reserve System, to elim...
-- HR 10456: To direct the Secretary of Health and Human Services to conduct a study to assess the unintended impacts on the healt...
-- HR 10429: To amend the Internal Revenue Code of 1986 to establish a State and local general sales tax credit for small businesses.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

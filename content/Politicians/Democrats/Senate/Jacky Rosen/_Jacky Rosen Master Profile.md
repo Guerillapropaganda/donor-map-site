@@ -160,6 +160,34 @@ top-donors: "[[American Federation of State County & Municipal Employees P E O P
 
 # Jacky Rosen
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 66 |
+| Bills Cosponsored | 379 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (59)
+- Health (51)
+- International Affairs (44)
+- Government Operations and Politics (26)
+- Crime and Law Enforcement (25)
+- Taxation (23)
+- Congress (21)
+- Science, Technology, Communications (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Commerce (17)
+
+**Enacted into law:**
+
+- S 932: S. 932, No CORRUPTION Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Jacky Rosen. Democrat, Nevada. US Senator since January 2019, reelected November 2024 against Republican Sam Brown. Previously House member for NV-3 (2017 to 2019). Born August 1957. Pre-Congress: software developer and former president of Congregation Ner Tamid, one of Nevada's largest Reform Jewish congregations. Top legislative policy area is Armed Forces and National Security. Assigned to Senate Armed Services, Commerce, and Small Business committees. 66 bills sponsored, 379 cosponsored, 1 enacted in the 118th Congress. Voting record: 93.1% party loyalty across 2,132 substantive votes, 143 deviations.
@@ -266,34 +294,6 @@ The systemic observation is that Rosen represents the Nevada model of Democratic
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 66 |
-| Bills Cosponsored | 379 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (59)
-- Health (51)
-- International Affairs (44)
-- Government Operations and Politics (26)
-- Crime and Law Enforcement (25)
-- Taxation (23)
-- Congress (21)
-- Science, Technology, Communications (18)
-- Civil Rights and Liberties, Minority Issues (18)
-- Commerce (17)
-
-**Enacted into law:**
-
-- S 932: S. 932, No CORRUPTION Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

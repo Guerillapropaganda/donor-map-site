@@ -143,6 +143,38 @@ top-donors: "[[Care Action]], [[Google - Alphabet]], [[National Association of R
 
 # Diana DeGette
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 15 |
+| Bills Cosponsored | 302 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (84)
+- Crime and Law Enforcement (35)
+- Public Lands and Natural Resources (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Environmental Protection (16)
+- Government Operations and Politics (15)
+- Taxation (13)
+- Labor and Employment (12)
+- International Affairs (11)
+- Education (11)
+
+**Recent bills sponsored:**
+
+- HR 9400: Colorado Wilderness Act of 2024
+- HRES 1381: Commemorating the past success of the United States Olympic and Paralympic Teams and supporting the United States Oly...
+- HR 7856: PREVENT DIABETES Act
+- HR 7743: Department of Energy Experienced Worker Program Act
+- HR 7327: Protecting Front Line Multimission Hospitals Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Diana DeGette. Democrat, Colorado-1 (Denver and immediate suburbs). First elected 1996. One of the longest-serving House Democrats from Colorado, in Congress for 28 years. Born July 1957 in Tachikawa, Japan (US military base). University of Colorado and University of Denver School of Law graduate; Colorado state legislature before Congress. Member of the House Energy and Commerce Committee; formerly Co-Chair of the House Pro-Choice Caucus. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 98.0% party-line loyalty across 1,709 substantive votes, 35 deviations. CO-1 is a safe Democratic district; no competitive pressure.
@@ -228,35 +260,4 @@ The 35 deviations at 98.0% loyalty include consistent leftward Nay breaks: HR 71
 **Pilot Program (personal-bill pattern).** The Colorado Wilderness Act (HR 9400) and PREVENT DIABETES Act and protecting Front Line Multimission Hospitals Act in the recent bill list reflect a member sponsoring targeted constituency legislation while the committee-access donor pool maintains the broader regulatory access relationship. The legislating pattern: safe-seat members sponsor district-specific bills while committee access money flows through industry relationships that have nothing to do with those district bills.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 15 |
-| Bills Cosponsored | 302 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (84)
-- Crime and Law Enforcement (35)
-- Public Lands and Natural Resources (18)
-- Civil Rights and Liberties, Minority Issues (18)
-- Environmental Protection (16)
-- Government Operations and Politics (15)
-- Taxation (13)
-- Labor and Employment (12)
-- International Affairs (11)
-- Education (11)
-
-**Recent bills sponsored:**
-
-- HR 9400: Colorado Wilderness Act of 2024
-- HRES 1381: Commemorating the past success of the United States Olympic and Paralympic Teams and supporting the United States Oly...
-- HR 7856: PREVENT DIABETES Act
-- HR 7743: Department of Energy Experienced Worker Program Act
-- HR 7327: Protecting Front Line Multimission Hospitals Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

@@ -161,6 +161,68 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] [[DMFI - Demo
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 287 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (67)
+- Health (44)
+- Civil Rights and Liberties, Minority Issues (24)
+- Government Operations and Politics (24)
+- Finance and Financial Sector (23)
+- Crime and Law Enforcement (20)
+- Armed Forces and National Security (13)
+- Labor and Employment (10)
+- Housing and Community Development (7)
+- Immigration (7)
+
+**Recent bills sponsored:**
+
+- HR 10498: To amend the National Housing Act to restrict the collection of annual mortgage insurance premiums when a 78 percent ...
+- HCONRES 135: Affirming the nature and importance of the support of the United States for Syria.
+- HR 10294: To establish a pilot program for the Secretary of Housing and Urban Development to evaluate the effectiveness of insu...
+- HR 10268: U.S. Engagement in Sudanese Peace Act
+- HR 9719: Strengthening USAID Management Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 193 |
+| Total Votes Cast | 17,715 |
+
+**Recent bills sponsored:**
+
+- H.J.Res. 150: Terminating the national emergency declared to impose global tariffs. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.J.Res. 72: Relating to a national emergency by the President on February 1, 2025. — *This resolution passed in the House on February 11, 2026 and goes to the Senate next for consideration.*
+- H.J.Res. 147: Terminating the national emergency declared to impose duties on articles imported from Brazil. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6879: RESTRICT Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 61: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces fro — *This resolution failed in the House on December 17, 2025.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Not Voting | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Gregory Meeks. Democrat, New York's 5th Congressional District (Southeast Queens. Jamaica, Laurelton, Rosedale, Cambria Heights, Far Rockaway, JFK Airport area). First elected 1998. Ranking Member, House Foreign Affairs Committee, one of only four House members with effective veto authority over U.S. foreign military sales. Senior Member, House Financial Services Committee. Former Dodd-Frank conferee. Member of the New Democrat Coalition (pro-business caucus, only five Black lawmakers in the coalition). Named one of the "Most compromised Members of Congress" by Citizens for Responsibility and Ethics in Washington (CREW) in 2011. Multiple ethics investigations involving undisclosed gifts, below-market home purchases, and foreign government-funded travel.
@@ -349,69 +411,7 @@ The KKR pop-up PAC is the most precisely documented pay-to-play sequence in the 
 - {{src:src_006212}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 193 |
-| Total Votes Cast | 17,715 |
 
-**Recent bills sponsored:**
-
-- H.J.Res. 150: Terminating the national emergency declared to impose global tariffs. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.J.Res. 72: Relating to a national emergency by the President on February 1, 2025. — *This resolution passed in the House on February 11, 2026 and goes to the Senate next for consideration.*
-- H.J.Res. 147: Terminating the national emergency declared to impose duties on articles imported from Brazil. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6879: RESTRICT Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Con.Res. 61: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces fro — *This resolution failed in the House on December 17, 2025.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Not Voting | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-<!-- auto:govtrack end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 23 |
-| Bills Cosponsored | 287 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (67)
-- Health (44)
-- Civil Rights and Liberties, Minority Issues (24)
-- Government Operations and Politics (24)
-- Finance and Financial Sector (23)
-- Crime and Law Enforcement (20)
-- Armed Forces and National Security (13)
-- Labor and Employment (10)
-- Housing and Community Development (7)
-- Immigration (7)
-
-**Recent bills sponsored:**
-
-- HR 10498: To amend the National Housing Act to restrict the collection of annual mortgage insurance premiums when a 78 percent ...
-- HCONRES 135: Affirming the nature and importance of the support of the United States for Syria.
-- HR 10294: To establish a pilot program for the Secretary of Housing and Urban Development to evaluate the effectiveness of insu...
-- HR 10268: U.S. Engagement in Sudanese Peace Act
-- HR 9719: Strengthening USAID Management Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

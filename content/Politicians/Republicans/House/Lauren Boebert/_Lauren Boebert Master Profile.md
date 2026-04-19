@@ -164,6 +164,38 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 335 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (44)
+- Crime and Law Enforcement (39)
+- Health (33)
+- Immigration (26)
+- International Affairs (25)
+- Energy (20)
+- Armed Forces and National Security (17)
+- Environmental Protection (17)
+- Taxation (15)
+- Public Lands and Natural Resources (14)
+
+**Recent bills sponsored:**
+
+- HR 9755: Human Trafficking Fingerprint Background Check Protection Act of 2024
+- HR 9756: Private Sector Competition in Microtransit Act
+- HR 9514: Finish the Arkansas Valley Conduit Act
+- HR 9034: Secret Service Accountability Act
+- HR 8753: To establish new ZIP Codes for certain communities, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Lauren Boebert. Republican Representative, originally from Colorado's 3rd District (2021-2025), relocated to Colorado's 4th District for the 2024 cycle after barely surviving her 2022 re-election by 546 votes. Gun rights activist, former owner of Shooters Grill (a gun-themed restaurant in Rifle, Colorado), Freedom Caucus Communications Chair. No college degree. No prior political experience before 2020.
@@ -350,38 +382,6 @@ Shooters Grill, Boebert's gun-themed restaurant in Rifle, accumulated $600,000+ 
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 26 |
-| Bills Cosponsored | 335 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (44)
-- Crime and Law Enforcement (39)
-- Health (33)
-- Immigration (26)
-- International Affairs (25)
-- Energy (20)
-- Armed Forces and National Security (17)
-- Environmental Protection (17)
-- Taxation (15)
-- Public Lands and Natural Resources (14)
-
-**Recent bills sponsored:**
-
-- HR 9755: Human Trafficking Fingerprint Background Check Protection Act of 2024
-- HR 9756: Private Sector Competition in Microtransit Act
-- HR 9514: Finish the Arkansas Valley Conduit Act
-- HR 9034: Secret Service Accountability Act
-- HR 8753: To establish new ZIP Codes for certain communities, and for other purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

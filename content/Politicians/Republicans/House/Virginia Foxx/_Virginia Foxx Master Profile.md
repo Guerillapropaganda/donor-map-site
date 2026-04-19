@@ -169,6 +169,38 @@ donors: [[DeVos Family]] [[American Federation for Children]] [[Walton Family Fo
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 137 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (23)
+- Education (21)
+- Labor and Employment (15)
+- Health (12)
+- International Affairs (12)
+- Immigration (9)
+- Taxation (9)
+- Crime and Law Enforcement (8)
+- Civil Rights and Liberties, Minority Issues (5)
+- Economics and Public Finance (4)
+
+**Recent bills sponsored:**
+
+- HR 10425: To amend and reauthorize the Workforce Innovation and Opportunity Act and the Older Americans Act of 1965.
+- HR 10257: Protect Economic Freedom Act
+- HR 10087: Disaster Recovery and Resilience Act of 2024
+- HR 10088: Helene Recovery Support Act
+- HR 8573: Union Members Right to Know Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Virginia Foxx. Republican, North Carolina's 5th District. Chair of the House Education and Workforce Committee (2023–2025; previously chaired 2017–2019). First elected to Congress in 2004 after 10 years in the North Carolina State Senate. Before politics, Foxx was President of Mayland Community College (1987–1994), a biographical detail she leverages for education expertise while running interference for the for-profit college industry that funds her campaigns. She is the single largest recipient of for-profit college industry campaign donations in Congress: $81,800 in the 2021–2022 cycle alone, nearly four times what any other member received.
@@ -364,38 +396,6 @@ Virginia Foxx serves the for-profit education industry and its private equity ba
 ### Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 20 |
-| Bills Cosponsored | 137 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (23)
-- Education (21)
-- Labor and Employment (15)
-- Health (12)
-- International Affairs (12)
-- Immigration (9)
-- Taxation (9)
-- Crime and Law Enforcement (8)
-- Civil Rights and Liberties, Minority Issues (5)
-- Economics and Public Finance (4)
-
-**Recent bills sponsored:**
-
-- HR 10425: To amend and reauthorize the Workforce Innovation and Opportunity Act and the Older Americans Act of 1965.
-- HR 10257: Protect Economic Freedom Act
-- HR 10087: Disaster Recovery and Resilience Act of 2024
-- HR 10088: Helene Recovery Support Act
-- HR 8573: Union Members Right to Know Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

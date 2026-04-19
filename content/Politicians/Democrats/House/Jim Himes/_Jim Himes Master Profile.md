@@ -164,6 +164,22 @@ donors: [[Goldman Sachs - Wall Street Titan|Goldman Sachs]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 3 |
+| Bills Cosponsored | 157 |
+| Total Votes Cast | 10,663 |
+
+**Recent bills sponsored:**
+
+- H.R. 7792: Property Improvement and Manufactured Housing Loan Modernization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3395: Middle Market IPO Cost Act — *This bill passed in the House on July 21, 2025 and goes to the Senate next for consideration.*
+- H.R. 3542: CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense Production Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412282) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jim Himes represents Connecticut's 4th Congressional District — Fairfield County, the hedge fund corridor between New York and Boston. Before Congress, he spent twelve years at Goldman Sachs, rising to Vice President in the Latin American finance division. He joined Goldman in 1998, left in 2003 to work at a nonprofit housing developer, and won his House seat in 2008 — the year Goldman's industry detonated the global economy.
@@ -290,55 +306,12 @@ The district-donor-committee triangle is nearly perfect. Fairfield County is the
 - [Wikipedia: Jim Himes](https://en.wikipedia.org/wiki/Jim_Himes) (Tier 3) (VERIFIED)
 - [Connecticut Mirror: Himes and the Finance Committee](https://ctmirror.org/custom/jim-himes/) (Tier 2) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 3 |
-| Bills Cosponsored | 157 |
-| Total Votes Cast | 10,663 |
-
-**Recent bills sponsored:**
-
-- H.R. 7792: Property Improvement and Manufactured Housing Loan Modernization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3395: Middle Market IPO Cost Act — *This bill passed in the House on July 21, 2025 and goes to the Senate next for consideration.*
-- H.R. 3542: CLEAR (Committee Leadership and Enhanced Accountability for Resilience) Defense Production Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412282) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Jim Himes](https://www.govtrack.us/congress/members/412282) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

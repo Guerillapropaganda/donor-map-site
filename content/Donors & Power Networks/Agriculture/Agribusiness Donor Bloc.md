@@ -102,27 +102,6 @@ The four pillars:
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Agriculture** → Funds **Joni Ernst** → Sits on **Agriculture**
-
-**Funded politicians:**
-
-- [[Joni Ernst]] (Agriculture) — lobbying: $480K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -146,27 +125,6 @@ The four pillars:
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
-<!-- auto:lda-lobbying pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $480K |
-| Quarterly Filings | 17 |
-| Year Range | 2024-2025 |
-| Lobbying Firms | 2 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Agriculture, Budget/Appropriations
-
-**Lobbying firms:** COMBEST, SELL & ASSOCIATES, LLC, THE PETERSON GROUP INC
-
-**Agencies contacted:** Agriculture, Dept of (USDA), HOUSE OF REPRESENTATIVES, SENATE
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Agribusiness%20Donor%20Bloc) (Tier 1)
-
-<!-- auto:lda-lobbying pending-merge end -->
 
 ## Archived
 

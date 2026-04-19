@@ -160,6 +160,38 @@ donors: Corporate PACs - Energy & Commerce Sector · [[Oil & Gas PACs]] · [[Koc
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 160 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (31)
+- International Affairs (22)
+- Health (15)
+- Crime and Law Enforcement (14)
+- Finance and Financial Sector (10)
+- Government Operations and Politics (10)
+- Agriculture and Food (9)
+- Taxation (9)
+- Labor and Employment (7)
+- Economics and Public Finance (7)
+
+**Recent bills sponsored:**
+
+- HR 10296: To amend the Internal Revenue Code of 1986 to make expiring ABLE provisions permanent, improve accessibility and educ...
+- HR 9484: RELIEVE Act
+- HR 8905: MIRACLE Act of 2024
+- HR 8818: American Privacy Rights Act of 2024
+- HR 8395: AUDIT EPA Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 [[_Cathy McMorris Rodgers Master Profile|Cathy McMorris Rodgers]]. U.S. Representative (WA-5, Eastern Washington, 2005–2022; retired 2023). Chair, House Energy & Commerce Committee (2023–2022). Conference Vice Chair (House Republican Leadership, 2009–2013). Representing Eastern Washington's 5th district (Spokane-based, rural/agricultural/tech mix). Married to Bryan Rodgers (former U.S. Navy). Net worth: $3.9–$12.5 million (2022 disclosure). Retired from Congress in 2023.
@@ -346,38 +378,6 @@ Her committee position turned her funded-by relationship into actual regulatory 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 160 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (31)
-- International Affairs (22)
-- Health (15)
-- Crime and Law Enforcement (14)
-- Finance and Financial Sector (10)
-- Government Operations and Politics (10)
-- Agriculture and Food (9)
-- Taxation (9)
-- Labor and Employment (7)
-- Economics and Public Finance (7)
-
-**Recent bills sponsored:**
-
-- HR 10296: To amend the Internal Revenue Code of 1986 to make expiring ABLE provisions permanent, improve accessibility and educ...
-- HR 9484: RELIEVE Act
-- HR 8905: MIRACLE Act of 2024
-- HR 8818: American Privacy Rights Act of 2024
-- HR 8395: AUDIT EPA Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

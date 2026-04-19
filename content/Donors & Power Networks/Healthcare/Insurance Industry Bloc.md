@@ -100,22 +100,3 @@ Post-ACA insurance industry revenue growth: UnitedHealth grew from $110 billion 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 1 |
-| Sanctions Programs | UKRAINE-EO13662] [RUSSIA-EO14024 |
-| Entity Types | -0- |
-
-**Matched SDN entries:**
-- GAS INDUSTRY INSURANCE COMPANY SOGAZ (-0-) [UKRAINE-EO13662] [RUSSIA-EO14024]
-  - Remarks: Secondary sanctions risk: See Section 11 of Executive Order 14024.; alt. Secondary sanctions risk: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209; Tax ID No. 7736035485 (...
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-
-<!-- auto:ofac-sdn pending-merge end -->

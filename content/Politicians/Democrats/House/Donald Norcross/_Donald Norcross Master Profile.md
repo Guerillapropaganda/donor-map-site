@@ -142,6 +142,34 @@ top-donors: "[[L3Harris Technologies]], [[PG&E - Pacific Gas and Electric]], [[B
 
 # Donald Norcross
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 353 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (49)
+- Labor and Employment (40)
+- Armed Forces and National Security (37)
+- International Affairs (36)
+- Government Operations and Politics (31)
+- Taxation (23)
+- Education (22)
+- Crime and Law Enforcement (22)
+- Finance and Financial Sector (16)
+- Transportation and Public Works (16)
+
+**Enacted into law:**
+
+- HR 3438: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Donald Norcross. Democrat, New Jersey-1 (Camden, Cherry Hill, and southern New Jersey). First elected 2014 in a special election. Former IBEW Local 351 union electrician and labor leader; served as international vice president of IBEW. Brother of George Norcross, the South Jersey Democratic political organization's longtime leader. Born December 1958 in Camden. Member of the House Armed Services Committee and Education and the Workforce Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.1% party-line loyalty across 1,567 substantive votes, 45 deviations. NJ-1 is a safe Democratic district.
@@ -217,31 +245,4 @@ The 45 deviations at 97.1% loyalty include both rightward Yea votes (HCONRES 58,
 **Genuine Win + Structural Limit.** The NDAA provision is Norcross's enacted win. The structural limit is that NDAA provisions for a member on Armed Services Committee attract defense-contractor access money from companies that have no South Jersey constituency relationship. Norcross can be a genuine labor champion and simultaneously be an Armed Services access target for defense contractors. The two functions operate independently in different legislative and funding circuits.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 20 |
-| Bills Cosponsored | 353 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (49)
-- Labor and Employment (40)
-- Armed Forces and National Security (37)
-- International Affairs (36)
-- Government Operations and Politics (31)
-- Taxation (23)
-- Education (22)
-- Crime and Law Enforcement (22)
-- Finance and Financial Sector (16)
-- Transportation and Public Works (16)
-
-**Enacted into law:**
-
-- HR 3438: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

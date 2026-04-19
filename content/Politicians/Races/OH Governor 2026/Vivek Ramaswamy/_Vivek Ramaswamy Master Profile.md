@@ -209,7 +209,6 @@ Vivek Ramaswamy. DOGE co-lead (32 days, November 2024–January 2025). Now runni
 ### Archived
 - ~~[OpenSecrets: Ramaswamy 2024 presidential fundraising](https://www.opensecrets.org/2024-presidential-race?id=N00052397)~~ (was Tier 1, OpenSecrets demoted, data preserved in FEC section above)
 
-### Legislative Activity (Congress.gov)
 
 ## Committee Assignments (Congress.gov)
 

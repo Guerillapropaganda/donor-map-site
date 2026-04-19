@@ -159,6 +159,23 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC - American Isra
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 296 |
+| Total Votes Cast | 1,424 |
+
+**Recent bills sponsored:**
+
+- S. 4045: Food and Nutrition Delivery Safety Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3468: National Programmable Cloud Laboratories Network Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3796: Ohio River Restoration Program Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for  — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3660: Credit Card Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 John Karl Fetterman. U.S. Senator from Pennsylvania (2023–present). Former Mayor of Braddock, Pennsylvania (2005–2019). Former Lieutenant Governor of Pennsylvania (2019–2023). Age 54. Known for unconventional working-class aesthetic: Carhartt hoodies, gym shorts, tattoos on forearms. Recovered from a stroke in May 2022 while running for Senate, with minimal audible or visible effects. 2022 Senate race: $48.5 million raised, 53% from small-dollar donations (averaging $27 per contribution), winning against celebrity physician Mehmet Oz. Net worth: ~$500,000. Married with three children.
@@ -362,53 +379,9 @@ The Pennsylvania context matters: a $500K net-worth senator in a swing state is 
 - {{src:src_005345}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 24 |
-| Bills Cosponsored | 296 |
-| Total Votes Cast | 1,424 |
-
-**Recent bills sponsored:**
-
-- S. 4045: Food and Nutrition Delivery Safety Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 10, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3468: National Programmable Cloud Laboratories Network Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
-- S. 3796: Ohio River Restoration Program Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for  — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 29, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3660: Credit Card Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | **Nay** | Cloture Motion Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-24 | On the Nomination PN786-9: Colin McDonald, of California, to be an Assistant Attorney General | **Nay** | Nomination Confirmed |
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Colin McDonald, of California, to be an As | **Nay** | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homeland Security | **Yea** | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security: Markwayne Mullin, of Oklahoma, to be Se | **Yea** | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | **Not Voting** | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in the House Amendment to S. 1383 with Amend | **Not Voting** | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-17 | On the Nomination PN787-4: Anna St. John, of Louisiana, to be United States District Judge for the Eastern District of L | **Nay** | Nomination Confirmed |
-| 2026-03-17 | Motion to Invoke Cloture: Anna St. John to be U.S. District Judge for the Eastern District of Louisiana: Anna St. John,  | **Nay** | Cloture Motion Agreed to |
-| 2026-03-12 | Motion to Invoke Cloture Re: Motion to Proceed to H.R. 7147 | **Yea** | Cloture on the Motion to Proceed Rejected |
-| 2026-03-12 | H.R. 6644: 21st Century ROAD to Housing Act | **Yea** | Bill Passed |
-| 2026-03-11 | Motion to Invoke Cloture: H.R. 6644 as amended | **Yea** | Cloture Motion Agreed to |
-
-**Sources**
-
-- [GovTrack: John Fetterman](https://www.govtrack.us/congress/members/456877) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ## Archived
 

@@ -152,6 +152,34 @@ top-donors: "[[Lockheed Martin]], [[Honeywell]], [[AIPAC - American Israel Publi
 
 # Darren Soto
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 571 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (146)
+- Government Operations and Politics (39)
+- Agriculture and Food (38)
+- International Affairs (38)
+- Crime and Law Enforcement (34)
+- Education (30)
+- Taxation (29)
+- Civil Rights and Liberties, Minority Issues (25)
+- Armed Forces and National Security (23)
+- Immigration (22)
+
+**Enacted into law:**
+
+- HR 682: Launch Communications Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Darren Soto. Democrat, Florida-9 (Osceola County, southern Orange County, parts of Kissimmee and the Orlando metro). First elected 2016. The first Puerto Rican elected to Congress from Florida. Born February 1978 in Ringwood, NJ; moved to Florida. Rutgers University and Florida State University College of Law graduate; Florida state legislature before Congress. Member of the House Energy and Commerce Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 95.8% party-line loyalty across 1,720 substantive votes, 73 deviations. FL-9 is a safe Democratic district anchored by Osceola County's Puerto Rican and Latino community.
@@ -226,31 +254,4 @@ The 73 deviations at 95.8% include a mixed pattern: the November-December 2025 c
 **Both-Sides Illusion.** AIPAC ($45.4K, highest data-panel entry) and Soto's Nay on the Tlaib censure represent the same member receiving money from pro-Israel access organizations while independently voting against their preferred position on a specific high-visibility vote. The AIPAC access relationship continues through individual deviations because AIPAC's investment strategy is based on sustained access maintenance, not individual vote compliance. Soto's vote against the censure and AIPAC's continued giving are simultaneously visible in the record without visible contradiction at the transactional level.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 24 |
-| Bills Cosponsored | 571 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (146)
-- Government Operations and Politics (39)
-- Agriculture and Food (38)
-- International Affairs (38)
-- Crime and Law Enforcement (34)
-- Education (30)
-- Taxation (29)
-- Civil Rights and Liberties, Minority Issues (25)
-- Armed Forces and National Security (23)
-- Immigration (22)
-
-**Enacted into law:**
-
-- HR 682: Launch Communications Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

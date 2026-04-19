@@ -186,6 +186,65 @@ donors: [[MasTec - Mas Canosa Family]] · [[Fanjul Family - Florida Crystals]]
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 307 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (74)
+- Armed Forces and National Security (35)
+- Crime and Law Enforcement (27)
+- Government Operations and Politics (25)
+- Finance and Financial Sector (16)
+- Taxation (15)
+- Education (15)
+- Immigration (13)
+- Transportation and Public Works (12)
+- Public Lands and Natural Resources (9)
+
+**Enacted into law:**
+
+- HR 1348: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 113 |
+| Total Votes Cast | 2,709 |
+
+**Recent bills sponsored:**
+
+- H.Res. 998: Commending President Trump, his administration, and the brave men and women of the Armed Forces, Intelligence Community, — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 14, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 504: Miccosukee Reserved Area Amendments Act — *This bill was vetoed. The House attempted to override the veto on January 8, 2026 but failed.*
+- H.R. 1608: Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Act of 2025 — *This bill passed in the House on November 17, 2025 and goes to the Senate next for consideration.*
+- H.Res. 643: Removing a certain Member from a certain standing committee of the House of Representatives. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on August 8, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3319: Women’s and Family Protection Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 9, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456809) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Carlos Gimenez. U.S. Representative, Florida's 28th Congressional District (R). Born January 17, 1954, in Havana, Cuba, the first Cuban-born member currently serving in Congress. Former Miami-Dade County Mayor (2011-2020). Former career firefighter-paramedic, the first to serve in Congress. Chair of the House Transportation Subcommittee.
@@ -359,37 +418,6 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 - {{src:src_004514}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 8 |
-| Bills Cosponsored | 113 |
-| Total Votes Cast | 2,709 |
-
-**Recent bills sponsored:**
-
-- H.Res. 998: Commending President Trump, his administration, and the brave men and women of the Armed Forces, Intelligence Community, — *This resolution is in the first stage of the legislative process. It was introduced into Congress on January 14, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 504: Miccosukee Reserved Area Amendments Act — *This bill was vetoed. The House attempted to override the veto on January 8, 2026 but failed.*
-- H.R. 1608: Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Act of 2025 — *This bill passed in the House on November 17, 2025 and goes to the Senate next for consideration.*
-- H.Res. 643: Removing a certain Member from a certain standing committee of the House of Representatives. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on August 8, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3319: Women’s and Family Protection Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 9, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456809) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -409,34 +437,6 @@ The Crowley Maritime contradiction is the sharpest class signal. Crowley is a ma
 ### Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 21 |
-| Bills Cosponsored | 307 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (74)
-- Armed Forces and National Security (35)
-- Crime and Law Enforcement (27)
-- Government Operations and Politics (25)
-- Finance and Financial Sector (16)
-- Taxation (15)
-- Education (15)
-- Immigration (13)
-- Transportation and Public Works (12)
-- Public Lands and Natural Resources (9)
-
-**Enacted into law:**
-
-- HR 1348: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

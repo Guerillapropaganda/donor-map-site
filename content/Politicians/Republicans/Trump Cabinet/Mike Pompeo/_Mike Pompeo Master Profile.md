@@ -52,6 +52,29 @@ donors: [[Koch Network - Charles Koch]]
 ---
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,196 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2017-01-23 | H.R. 582: Kari’s Law Act of 2017 | Not Voting | Passed |
+| 2017-01-23 | H.R. 423: Anti-Spoofing Act of 2017 | Not Voting | Passed |
+| 2017-01-13 | S. 84: A bill to provide for an exception to a limitation against appointment of… | Not Voting | Passed |
+| 2017-01-13 | S.Con.Res. 3: A concurrent resolution setting forth the congressional budget for… | Not Voting | Passed |
+| 2017-01-13 | H.Amdt. 44 (Yarmuth) to S.Con.Res. 3: Amendment sought to strike all after the r… | Not Voting | Failed |
+| 2017-01-13 | H.Res. 48: Providing for consideration of the concurrent resolution (S. Con. Res… | Not Voting | Passed |
+| 2017-01-13 | On Ordering the Previous Question: H.Res. 48: Providing for consideration of the… | Not Voting | Passed |
+| 2017-01-12 | H.R. 238: Commodity End-User Relief Act | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412431) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Mike Pompeo. 70th U.S. Secretary of State (April 2018–January 2021). Director of the CIA (January 2017–April 2018). U.S. Representative from Kansas's 4th Congressional District (January 2011–January 2017). Born December 30, 1963, Orange, CA. U.S. Military Academy at West Point, 1986 (first in his class). Harvard Law School, 1994. Army cavalry officer, 1986–1991 (left as captain). Koch-funded aerospace entrepreneur in Wichita, KS. Conservative politician dubbed "the Congressman from Koch."
@@ -181,29 +204,6 @@ The post-government revolving door confirmed the class function. Hudson Institut
 - [Wikipedia: Mike Pompeo](https://en.wikipedia.org/wiki/Mike_Pompeo) (Tier 3) (VERIFIED)
 - [FEC: Mike Pompeo contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=pompeo,+mike) (Tier 1) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 4,196 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2017-01-23 | H.R. 582: Kari’s Law Act of 2017 | Not Voting | Passed |
-| 2017-01-23 | H.R. 423: Anti-Spoofing Act of 2017 | Not Voting | Passed |
-| 2017-01-13 | S. 84: A bill to provide for an exception to a limitation against appointment of… | Not Voting | Passed |
-| 2017-01-13 | S.Con.Res. 3: A concurrent resolution setting forth the congressional budget for… | Not Voting | Passed |
-| 2017-01-13 | H.Amdt. 44 (Yarmuth) to S.Con.Res. 3: Amendment sought to strike all after the r… | Not Voting | Failed |
-| 2017-01-13 | H.Res. 48: Providing for consideration of the concurrent resolution (S. Con. Res… | Not Voting | Passed |
-| 2017-01-13 | On Ordering the Previous Question: H.Res. 48: Providing for consideration of the… | Not Voting | Passed |
-| 2017-01-12 | H.R. 238: Commodity End-User Relief Act | Not Voting | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412431) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

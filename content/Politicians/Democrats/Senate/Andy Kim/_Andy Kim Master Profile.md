@@ -149,6 +149,34 @@ top-policy-area: Health
 
 # Andy Kim
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 567 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (89)
+- Armed Forces and National Security (64)
+- International Affairs (62)
+- Government Operations and Politics (47)
+- Crime and Law Enforcement (44)
+- Education (44)
+- Labor and Employment (27)
+- Taxation (25)
+- Agriculture and Food (22)
+- Civil Rights and Liberties, Minority Issues (20)
+
+**Enacted into law:**
+
+- HR 4220: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Andy Kim. Democrat, New Jersey. US Senator since December 2024, appointed by Gov. Murphy after Bob Menendez's resignation following his federal prosecution, then elected in November 2024 to the full term. Previously served NJ-3 in the House (2019 to 2024). Born July 1982, Korean-American, Rhodes Scholar, former State Department and National Security Council staff under Obama (Iraq and Afghanistan portfolios). Assigned to Senate Foreign Relations and Homeland Security & Governmental Affairs. Top policy area is Health. 25 bills sponsored, 567 cosponsored, 1 enacted in the 118th Congress. Voting record: 96.1% party-line loyalty across 1,869 substantive votes, 71 deviations (the lowest deviation count among the Senate Democrats profiled in this vault).
@@ -229,31 +257,4 @@ The systemic observation is that Kim is a test case for whether reform-Democrat 
 ---
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 25 |
-| Bills Cosponsored | 567 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (89)
-- Armed Forces and National Security (64)
-- International Affairs (62)
-- Government Operations and Politics (47)
-- Crime and Law Enforcement (44)
-- Education (44)
-- Labor and Employment (27)
-- Taxation (25)
-- Agriculture and Food (22)
-- Civil Rights and Liberties, Minority Issues (20)
-
-**Enacted into law:**
-
-- HR 4220: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

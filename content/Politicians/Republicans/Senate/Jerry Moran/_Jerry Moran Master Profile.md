@@ -164,6 +164,55 @@ donors: [[Koch Network - Charles Koch|Koch Network]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 55 |
+| Bills Cosponsored | 319 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (61)
+- Health (39)
+- Taxation (29)
+- International Affairs (26)
+- Congress (21)
+- Finance and Financial Sector (21)
+- Agriculture and Food (19)
+- Transportation and Public Works (16)
+- Environmental Protection (13)
+- Crime and Law Enforcement (12)
+
+**Recent bills sponsored:**
+
+- SRES 939: A resolution commending and congratulating the Hutchinson Community College Blue Dragons football team for winning th...
+- SRES 932: A resolution designating the month of October 2024 as "National Military Toxic Exposures Awareness Month".
+- S 5568: A bill to amend title XVI of the Social Security Act to provide that the supplemental security income benefits of adu...
+- S 5472: A bill to authorize peace officer standards and training agencies to access criminal history records, and for other p...
+- S 5460: A bill to modify the Precision Medicine for Veterans Initiative of the Department of Veterans Affairs.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 71 |
+| Bills Cosponsored | 171 |
+| Total Votes Cast | 14,700 |
+
+**Recent bills sponsored:**
+
+- S. 4211: A bill to protect the privacy of consumers. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 372: A resolution honoring the life of Kansas City, Kansas police officer Hunter Simoncic. — *This simple resolution was agreed to on March 21, 2026. That is the end of the legislative process for a simple resolution.*
+- S.Res. 425: A resolution honoring the life of Hays, Kansas police sergeant Scott Heimann. — *This simple resolution was agreed to on March 21, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 2981: Veterans Prosthetics Advancement and Reform Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+- S. 410: Love Lives On Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jerry Moran is the senior senator from Kansas and chairs the Senate Veterans' Affairs Committee. He also serves on the Appropriations Committee, the Commerce Committee (where he chairs the Aviation, Space, and Innovation Subcommittee), Agriculture, Indian Affairs, and the Select Committee on Intelligence. He has served in the Senate since 2011, after 14 years representing Kansas's 1st Congressional District ("the Big First", western Kansas) in the House (1997-2011).
@@ -289,23 +338,6 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 - [Ballotpedia: Jerry Moran](https://ballotpedia.org/Jerry_Moran) (Tier 3) (VERIFIED)
 - [Wikipedia: Jerry Moran](https://en.wikipedia.org/wiki/Jerry_Moran) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 71 |
-| Bills Cosponsored | 171 |
-| Total Votes Cast | 14,700 |
-
-**Recent bills sponsored:**
-
-- S. 4211: A bill to protect the privacy of consumers. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 372: A resolution honoring the life of Kansas City, Kansas police officer Hunter Simoncic. — *This simple resolution was agreed to on March 21, 2026. That is the end of the legislative process for a simple resolution.*
-- S.Res. 425: A resolution honoring the life of Hays, Kansas police sergeant Scott Heimann. — *This simple resolution was agreed to on March 21, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 2981: Veterans Prosthetics Advancement and Reform Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
-- S. 410: Love Lives On Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
-
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -343,38 +375,6 @@ The aviation side completes the Kansas donor map. Moran chairs the Commerce Subc
 
 ## Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 55 |
-| Bills Cosponsored | 319 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (61)
-- Health (39)
-- Taxation (29)
-- International Affairs (26)
-- Congress (21)
-- Finance and Financial Sector (21)
-- Agriculture and Food (19)
-- Transportation and Public Works (16)
-- Environmental Protection (13)
-- Crime and Law Enforcement (12)
-
-**Recent bills sponsored:**
-
-- SRES 939: A resolution commending and congratulating the Hutchinson Community College Blue Dragons football team for winning th...
-- SRES 932: A resolution designating the month of October 2024 as "National Military Toxic Exposures Awareness Month".
-- S 5568: A bill to amend title XVI of the Social Security Act to provide that the supplemental security income benefits of adu...
-- S 5472: A bill to authorize peace officer standards and training agencies to access criminal history records, and for other p...
-- S 5460: A bill to modify the Precision Medicine for Veterans Initiative of the Department of Veterans Affairs.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

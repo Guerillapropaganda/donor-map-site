@@ -278,33 +278,6 @@ Preservation of the $2.13/hour tipped minimum wage, opposition to federal minimu
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-11.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 7 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-
-**Funded politicians:**
-
-- [[Steve Scalise]] — lobbying: $3.1M
-- [[Mike Johnson]] — lobbying: $3.1M
-- [[Ron Johnson]] — lobbying: $3.1M
-- [[Kevin McCarthy]] — lobbying: $3.1M
-- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $3.1M
-- [[Jason Smith]] (Ways & Means) — lobbying: $3.1M
-- [[Bryan Steil]] — lobbying: $3.1M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Contracts (USASpending)
 <!-- auto:usaspending start -->

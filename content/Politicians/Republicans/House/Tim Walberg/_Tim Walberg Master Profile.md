@@ -168,6 +168,38 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 213 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (23)
+- Labor and Employment (20)
+- Education (19)
+- Energy (18)
+- Crime and Law Enforcement (18)
+- Health (17)
+- Government Operations and Politics (17)
+- Armed Forces and National Security (14)
+- Immigration (14)
+- Science, Technology, Communications (13)
+
+**Recent bills sponsored:**
+
+- HR 9302: Worker Enfranchisement Act
+- HJRES 199: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+- HRES 1391: Congratulating the American Motorcyclist Association on their 100th Anniversary.
+- HJRES 181: H.J. Res. 181, providing for Congressional disapproval under chapter 8 of title 5, United States Code, of the rule su...
+- HJRES 166: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Tim Walberg represents Michigan's 5th Congressional District and chairs the House Education and Workforce Committee, the committee with jurisdiction over K-12 education, higher education, labor standards, workplace safety, pension policy, and the National Labor Relations Board. He was first elected in 2006, lost in 2008, and won the seat back in 2010.
@@ -301,38 +333,6 @@ Walberg was "delighted" by Trump's executive order closing the Department of Edu
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 32 |
-| Bills Cosponsored | 213 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (23)
-- Labor and Employment (20)
-- Education (19)
-- Energy (18)
-- Crime and Law Enforcement (18)
-- Health (17)
-- Government Operations and Politics (17)
-- Armed Forces and National Security (14)
-- Immigration (14)
-- Science, Technology, Communications (13)
-
-**Recent bills sponsored:**
-
-- HR 9302: Worker Enfranchisement Act
-- HJRES 199: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
-- HRES 1391: Congratulating the American Motorcyclist Association on their 100th Anniversary.
-- HJRES 181: H.J. Res. 181, providing for Congressional disapproval under chapter 8 of title 5, United States Code, of the rule su...
-- HJRES 166: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

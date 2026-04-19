@@ -126,6 +126,24 @@ donors: [[Goldman Sachs]] [[Fairshake PAC]] [[Crypto Industry Bloc]] [[Marc Andr
 ---
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 95 |
+| Total Votes Cast | 6,198 |
+
+**Recent bills sponsored:**
+
+- H.R. 6644: 21st Century ROAD to Housing Act — *This bill has been passed in the House and the Senate, but the Senate made changes and sent it back to the House on March 12, 2026.*
+- H.R. 6955: Main Street Capital Access Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- H.R. 7253: Ticket to Work Advertisement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7180: Countering Captagon and Narcotics Post-Assad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 21, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3187: To require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas,  — *This bill passed in the House on December 15, 2025 and goes to the Senate next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412609) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 French Hill. Republican, Arkansas's 2nd District (Little Rock). Chair of the House Financial Services Committee since January 2025. First elected to Congress in 2014 after a 35-year career in banking and financial policy, including founding and running Delta Trust & Banking Corporation in Little Rock from 1999 to 2014, serving as Deputy Assistant Secretary of Treasury under George H.W. Bush, and staffing the Senate Banking Committee under Senator John Tower. Hill is not a politician who drifted into financial services jurisdiction, he is a career banker who entered Congress and took the gavel over the committee that regulates his own industry.
@@ -305,24 +323,6 @@ French Hill serves the financial donor class with unusual structural completenes
 - {{src:src_004476}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 24 |
-| Bills Cosponsored | 95 |
-| Total Votes Cast | 6,198 |
-
-**Recent bills sponsored:**
-
-- H.R. 6644: 21st Century ROAD to Housing Act — *This bill has been passed in the House and the Senate, but the Senate made changes and sent it back to the House on March 12, 2026.*
-- H.R. 6955: Main Street Capital Access Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-- H.R. 7253: Ticket to Work Advertisement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7180: Countering Captagon and Narcotics Post-Assad Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 21, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3187: To require the Secretary of Agriculture to convey a parcel of property of the Forest Service to Perry County, Arkansas,  — *This bill passed in the House on December 15, 2025 and goes to the Senate next for consideration.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412609) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Archived
 

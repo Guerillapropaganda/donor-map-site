@@ -182,6 +182,38 @@ SORT title ASC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 541 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (85)
+- Crime and Law Enforcement (41)
+- Labor and Employment (38)
+- International Affairs (38)
+- Government Operations and Politics (37)
+- Civil Rights and Liberties, Minority Issues (36)
+- Education (28)
+- Immigration (28)
+- Taxation (27)
+- Agriculture and Food (19)
+
+**Recent bills sponsored:**
+
+- HRES 1604: A resolution recognizing the 40th year since the 1984 Bhopal chemical disaster and helping to ensure that no other co...
+- HRES 1588: A resolution supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of vio...
+- HR 9209: Workforce Opportunities for Communities in Recovery Act
+- HR 9156: Health Over Wealth Act
+- HRES 1318: Recognizing the Museum of Pop Culture in Seattle, Washington, as the "National Museum of Pop Culture".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Pramila Jayapal. Democrat, Washington's 7th District (Seattle and surrounding areas). Chair of the Congressional Progressive Caucus 2021–2024 — the largest ideological caucus in the Democratic Party, with 100+ members. Before Congress, Jayapal was a community organizer and immigrant rights activist who founded OneAmerica, the largest immigrant advocacy organization in Washington State. Elected to Congress in 2016.
@@ -383,38 +415,6 @@ Jayapal proves that even a well-funded progressive operating on a labor-and-gras
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 541 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (85)
-- Crime and Law Enforcement (41)
-- Labor and Employment (38)
-- International Affairs (38)
-- Government Operations and Politics (37)
-- Civil Rights and Liberties, Minority Issues (36)
-- Education (28)
-- Immigration (28)
-- Taxation (27)
-- Agriculture and Food (19)
-
-**Recent bills sponsored:**
-
-- HRES 1604: A resolution recognizing the 40th year since the 1984 Bhopal chemical disaster and helping to ensure that no other co...
-- HRES 1588: A resolution supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of vio...
-- HR 9209: Workforce Opportunities for Communities in Recovery Act
-- HR 9156: Health Over Wealth Act
-- HRES 1318: Recognizing the Museum of Pop Culture in Seattle, Washington, as the "National Museum of Pop Culture".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

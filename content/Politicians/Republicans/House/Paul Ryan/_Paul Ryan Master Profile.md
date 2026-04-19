@@ -138,6 +138,29 @@ donors: [[Koch Network - Charles Koch|Koch Network]] · [[Goldman Sachs]] · [[J
 - [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 11,602 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | Yea | Passed |
+| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany t… | Aye | Passed |
+| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | Yea | Passed |
+| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | Aye | Failed |
+| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | Yea | Passed |
+| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | Nay | Failed |
+| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | Yea | Passed |
+| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriatio… | Aye | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Paul Ryan. U.S. Representative (WI-1, 1999–2019). Speaker of the House (2015–2019). 2012 Vice Presidential nominee (with Mitt Romney). Fox Corporation board member (2019–present). Koch network beneficiary and ideological aligned congressman — chairman of the House Budget Committee (2011–2015) and Ways & Means Committee (2015–2019). Presented himself as "policy wonk" and "serious fiscal conservative" focused on deficit reduction and entitlement reform. Net worth: $6–15 million (2019 disclosure).
@@ -267,82 +290,10 @@ The post-Congress transition confirms the transaction. Ryan moved seamlessly fro
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **JPMorgan Chase** donates → Lobbies on **Banking** → This member sits on **Finance**
-- **JPMorgan Chase** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
-- **JPMorgan Chase** donates → Lobbies on **Wall Street & Finance** → This member sits on **Finance**
-
-**Donors who lobby (by spend):**
-
-- [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 11,602 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | Yea | Passed |
-| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany t… | Aye | Passed |
-| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | Yea | Passed |
-| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | Aye | Failed |
-| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | Yea | Passed |
-| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | Nay | Failed |
-| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | Yea | Passed |
-| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriatio… | Aye | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400351) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2018-12-20 | H.R. 695: Further Additional Continuing Appropriations Act, 2019 | **Yea** | Passed |
-| 2018-12-12 | H.Res. 1176: Providing for consideration of the conference report to accompany the bill (H.R. 2) to provide for the refo | **Aye** | Passed |
-| 2018-09-28 | H.R. 6760: Protecting Family and Small Business Tax Cuts Act of 2018 | **Yea** | Passed |
-| 2018-06-27 | H.R. 6136: Border Security and Immigration Reform Act of 2018 | **Aye** | Failed |
-| 2018-06-21 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Yea** | Passed |
-| 2018-05-18 | H.R. 2: Agriculture and Nutrition Act of 2018 | **Nay** | Failed |
-| 2018-03-22 | H.R. 1625: Consolidated Appropriations Act, 2018 | **Yea** | Passed |
-| 2018-03-22 | H.Res. 796: Providing for consideration of H.R. 1625: Consolidated  Appropriations Act, 2018 | **Aye** | Passed |
-| 2018-02-09 | H.R. 1892: Further Extension of Continuing Appropriations Act, 2018; Department of Defense Appropriations Act, 2018; SUS | **Aye** | Passed |
-| 2018-01-18 | H.R. 195: Continuing appropriations through February 16, 2018 | **Yea** | Passed |
-| 2018-01-11 | S. 139: Rapid DNA Act of 2017 | **Yea** | Passed |
-| 2018-01-11 | H.Amdt. 510 (Amash) to S. 139: Amendment sought to replace the text of S. 139 with the text of H.R. 4124, the USA RIGHTS | **Nay** | Failed |
-| 2017-12-21 | H.R. 4667: Making further supplemental appropriations for the fiscal year ending September 30, 2018, for disaster assist | **Yea** | Passed |
-| 2017-12-21 | H.R. 1370: Department of Homeland Security Blue Campaign Authorization Act of 2017 | **Yea** | Passed |
-| 2017-12-20 | H.R. 1: Tax Cuts and Jobs Act | **Yea** | Passed |
-
-**Sources**
-
-- [GovTrack: Paul Ryan](https://www.govtrack.us/congress/members/400351) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

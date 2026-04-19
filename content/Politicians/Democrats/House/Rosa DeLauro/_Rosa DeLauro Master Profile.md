@@ -185,6 +185,69 @@ donors: [[Lockheed Martin]] [[AIPAC - American Israel Public Affairs Committee|A
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 45 |
+| Bills Cosponsored | 204 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (46)
+- Labor and Employment (23)
+- Civil Rights and Liberties, Minority Issues (20)
+- Taxation (20)
+- Crime and Law Enforcement (17)
+- International Affairs (17)
+- Government Operations and Politics (13)
+- Education (11)
+- Agriculture and Food (11)
+- Armed Forces and National Security (7)
+
+**Recent bills sponsored:**
+
+- HR 10548: To amend the Internal Revenue Code of 1986 to protect children's health by denying any deduction for advertising and ...
+- HR 10526: To amend the Social Security Act to establish a Medicare for America health program to provide for comprehensive heal...
+- HR 10525: To facilitate efficient investments and financing of infrastructure projects and new job creation through the establi...
+- HR 10339: To amend title 40, United States Code, to establish a Southern New England Regional Commission, and for other purposes.
+- HR 9817: Toxic Free Food Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 179 |
+| Total Votes Cast | 21,765 |
+
+**Recent bills sponsored:**
+
+- H.R. 7867: Infant Formula Safety Modernization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7822: Tariff Relief for Consumers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1096: Providing for consideration of the bill (H.R. 4213) making appropriations for the Department of Homeland Security for th — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7531: Healthy Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7481: Department of Homeland Security Appropriations Act, 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400103) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Rosa DeLauro. Democrat, Connecticut's 3rd District (New Haven). First elected 1990. Ranking Member, House Appropriations Committee, the single most powerful spending committee in the House. As ranking member, she holds ex officio status on all 12 Appropriations subcommittees, with primary jurisdiction over the Labor, Health and Human Services, Education, and Related Agencies subcommittee.
@@ -324,37 +387,6 @@ c
 - {{src:src_005855}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 29 |
-| Bills Cosponsored | 179 |
-| Total Votes Cast | 21,765 |
-
-**Recent bills sponsored:**
-
-- H.R. 7867: Infant Formula Safety Modernization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7822: Tariff Relief for Consumers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1096: Providing for consideration of the bill (H.R. 4213) making appropriations for the Department of Homeland Security for th — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7531: Healthy Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7481: Department of Homeland Security Appropriations Act, 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400103) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -442,38 +474,6 @@ Rosa Luisa DeLauro is an American politician serving as the U.S. representative 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q434952) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 45 |
-| Bills Cosponsored | 204 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (46)
-- Labor and Employment (23)
-- Civil Rights and Liberties, Minority Issues (20)
-- Taxation (20)
-- Crime and Law Enforcement (17)
-- International Affairs (17)
-- Government Operations and Politics (13)
-- Education (11)
-- Agriculture and Food (11)
-- Armed Forces and National Security (7)
-
-**Recent bills sponsored:**
-
-- HR 10548: To amend the Internal Revenue Code of 1986 to protect children's health by denying any deduction for advertising and ...
-- HR 10526: To amend the Social Security Act to establish a Medicare for America health program to provide for comprehensive heal...
-- HR 10525: To facilitate efficient investments and financing of infrastructure projects and new job creation through the establi...
-- HR 10339: To amend title 40, United States Code, to establish a Southern New England Regional Commission, and for other purposes.
-- HR 9817: Toxic Free Food Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

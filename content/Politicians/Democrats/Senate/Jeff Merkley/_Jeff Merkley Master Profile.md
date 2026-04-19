@@ -180,6 +180,36 @@ donors: [[Labor Unions]] · Environmental Groups · [[Small Dollar Donors - ActB
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 101 |
+| Bills Cosponsored | 629 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (108)
+- International Affairs (80)
+- Government Operations and Politics (46)
+- Crime and Law Enforcement (42)
+- Civil Rights and Liberties, Minority Issues (39)
+- Education (37)
+- Taxation (34)
+- Armed Forces and National Security (34)
+- Labor and Employment (33)
+- Environmental Protection (33)
+
+**Enacted into law:**
+
+- S 2231: Maternal and Child Health Stillbirth Prevention Act of 2024
+- S 1286: To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Con...
+- S 910: Grand Ronde Reservation Act Amendment of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 [[_Jeff Merkley Master Profile|Jeff Merkley]] is the junior United States Senator from Oregon, serving since January 2009. Born October 24, 1956, in Myrtle Creek, Oregon. B.A. in international relations from Stanford University. M.P.P. from the Woodrow Wilson School at Princeton University (now the School of Public and International Affairs). Worked as a presidential management fellow at the Congressional Budget Office and the Office of the Secretary of Defense. Program director at the World Affairs Council of Oregon. Executive director of Portland Habitat for Humanity (1993–1996), launched Walk for Humanity, started YouthBuild pilot for gang-affected youth building homes in their own neighborhoods. Oregon House of Representatives (1999–2008). Speaker of the Oregon House (2007–2009) after leading Democrats to their first majority in a decade. Elected to the Senate in 2008, defeating Republican incumbent Gordon Smith. Reelected 2014 and 2020. Running for reelection in 2026.
@@ -357,36 +387,6 @@ party:: Democrat
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 101 |
-| Bills Cosponsored | 629 |
-| Bills Enacted | 3 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (108)
-- International Affairs (80)
-- Government Operations and Politics (46)
-- Crime and Law Enforcement (42)
-- Civil Rights and Liberties, Minority Issues (39)
-- Education (37)
-- Taxation (34)
-- Armed Forces and National Security (34)
-- Labor and Employment (33)
-- Environmental Protection (33)
-
-**Enacted into law:**
-
-- S 2231: Maternal and Child Health Stillbirth Prevention Act of 2024
-- S 1286: To amend the Siletz Reservation Act to address the hunting, fishing, trapping, and animal gathering rights of the Con...
-- S 910: Grand Ronde Reservation Act Amendment of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

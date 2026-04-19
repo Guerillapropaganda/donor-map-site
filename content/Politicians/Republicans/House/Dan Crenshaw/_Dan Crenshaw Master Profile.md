@@ -192,6 +192,38 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 405 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (91)
+- Crime and Law Enforcement (56)
+- International Affairs (50)
+- Armed Forces and National Security (32)
+- Government Operations and Politics (28)
+- Immigration (25)
+- Education (22)
+- Taxation (21)
+- Environmental Protection (18)
+- Energy (15)
+
+**Recent bills sponsored:**
+
+- HR 8775: Contingency Plan for Critical Infrastructure Act
+- HR 8251: The HCT/P Modernization Act of 2024
+- HJRES 123: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 7626: H.R. 7626, Affordable Air Conditioning Act
+- HR 6848: To amend the Higher Education Act of 1965 to prohibit institutions of higher education from requiring ideological oat...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Dan Crenshaw. Republican, formerly representing Texas's 2nd Congressional District (Houston suburbs), 2019–2027. Former Navy SEAL officer who lost his right eye to an IED in Afghanistan (2012). Served on Energy and Commerce Committee and Permanent Select Committee on Intelligence. Career fundraising: $24.9M+ (2017–2024 cycles). Net worth: $1.5M–$3.4M.
@@ -402,28 +434,6 @@ party:: Republican
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **ConocoPhillips** donates → Lobbies on **Energy/Nuclear** → This member sits on **House Committee on Energy and Commerce**
-- **ConocoPhillips** donates → Lobbies on **Environment/Superfund** → This member sits on **House Committee on Energy and Commerce**
-
-**Donors who lobby (by spend):**
-
-- [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -475,38 +485,6 @@ party:: Republican
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 25 |
-| Bills Cosponsored | 405 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (91)
-- Crime and Law Enforcement (56)
-- International Affairs (50)
-- Armed Forces and National Security (32)
-- Government Operations and Politics (28)
-- Immigration (25)
-- Education (22)
-- Taxation (21)
-- Environmental Protection (18)
-- Energy (15)
-
-**Recent bills sponsored:**
-
-- HR 8775: Contingency Plan for Critical Infrastructure Act
-- HR 8251: The HCT/P Modernization Act of 2024
-- HJRES 123: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
-- HR 7626: H.R. 7626, Affordable Air Conditioning Act
-- HR 6848: To amend the Higher Education Act of 1965 to prohibit institutions of higher education from requiring ideological oat...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -365,37 +365,6 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Top Federal Agency | Department of Defense ($879.7M) |
-| Primary NAICS Sector | Petroleum Refineries |
-
-**Federal agency spending breakdown:**
-
-| Agency | Amount |
-|--------|--------|
-| Department of Defense | $879.7M |
-| General Services Administration | $277K |
-| Department of State | $148K |
-
-**Federal spending by industry sector (NAICS):**
-
-| Sector | Amount |
-|--------|--------|
-| Petroleum Refineries (324110) | $792.7M |
-| Other Warehousing and Storage (493190) | $68.9M |
-| Petroleum Lubricating Oil and Grease Manufacturing (324191) | $18.1M |
-| General Automotive Repair (811111) | $277K |
-| Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) (424720) | $94K |
-| Support Activities for Oil and Gas Operations (213112) | $54K |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-
-<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->
@@ -450,25 +419,6 @@ Environment, oil production, refinery regulation, environmental justice, frackin
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 3 |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | None |
-
-**Funded politicians:**
-
-- [[Cathy McMorris Rodgers]] (Energy & Commerce) — contracts: $422
-- [[Kevin McCarthy]] — contracts: $422
-- [[John Cornyn]] (Judiciary, Intelligence, Finance) — contracts: $422
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

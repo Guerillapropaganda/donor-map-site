@@ -297,36 +297,6 @@ The $13 billion DOJ settlement in 2013, the largest with a single entity in Amer
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 5 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Banking** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Wall Street & Finance** → Funds **John Boehner** → Sits on **Finance**
-- Lobbies on **Banking** → Funds **Paul Ryan** → Sits on **Finance**
-- Lobbies on **Financial Institutions/Investments/Securities** → Funds **Paul Ryan** → Sits on **Finance**
-- Lobbies on **Wall Street & Finance** → Funds **Paul Ryan** → Sits on **Finance**
-
-**Funded politicians:**
-
-- [[Barack Obama]] — lobbying: $9.8M
-- [[Joe Biden]] — lobbying: $9.8M
-- [[Cory Booker]] — lobbying: $9.8M
-- [[John Boehner]] (Finance) — lobbying: $9.8M
-- [[Paul Ryan]] (Finance) — lobbying: $9.8M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->

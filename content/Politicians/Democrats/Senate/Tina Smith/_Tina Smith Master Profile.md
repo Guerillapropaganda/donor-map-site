@@ -164,6 +164,38 @@ top-policy-area: Health
 
 # Tina Smith
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 70 |
+| Bills Cosponsored | 571 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (131)
+- Agriculture and Food (60)
+- Education (47)
+- Taxation (34)
+- Government Operations and Politics (32)
+- Native Americans (28)
+- Crime and Law Enforcement (26)
+- Finance and Financial Sector (25)
+- Labor and Employment (24)
+- Civil Rights and Liberties, Minority Issues (21)
+
+**Recent bills sponsored:**
+
+- S 5626: A bill to modify the Federal share of operating costs for certain projects that receive grants under the Formula Gran...
+- S 5621: A bill to provide grants to States, Indian Tribes, and Tribal organizations for activities to increase the availabili...
+- S 5595: A bill to amend the Act of June 22, 1948.
+- S 5534: A bill to authorize a grant program for educational institutions to analyze, digitize, and map historic records relat...
+- S 5456: A bill to amend the Public Health Service Act to authorize rural residency planning and development grant programs, a...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Tina Smith. Democrat, Minnesota. US Senator since January 2018, appointed by Gov. Mark Dayton after Al Franken's resignation, then elected in the 2018 special election and re-elected 2020 and 2024. Born March 1958. Former Vice President of External Affairs at Planned Parenthood Minnesota, North Dakota, South Dakota (2003-2006), then Lieutenant Governor of Minnesota (2015-2018). Assigned to Agriculture, Banking, Energy and Natural Resources, and Health Education Labor and Pensions (HELP) committees. Top policy area is Health (131 cosponsored bills in that area in the 118th). 70 bills sponsored, 571 cosponsored, 0 enacted. Voting record: 96.6% party-line loyalty across 2,364 substantive votes, 72 deviations. 23 STOCK Act trades, estimated $2.2-4.9M value range, predominantly health-device company stocks.
@@ -274,38 +306,6 @@ The 0 enacted bills across 70 sponsored is a structural Senate feature: sponsors
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 70 |
-| Bills Cosponsored | 571 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (131)
-- Agriculture and Food (60)
-- Education (47)
-- Taxation (34)
-- Government Operations and Politics (32)
-- Native Americans (28)
-- Crime and Law Enforcement (26)
-- Finance and Financial Sector (25)
-- Labor and Employment (24)
-- Civil Rights and Liberties, Minority Issues (21)
-
-**Recent bills sponsored:**
-
-- S 5626: A bill to modify the Federal share of operating costs for certain projects that receive grants under the Formula Gran...
-- S 5621: A bill to provide grants to States, Indian Tribes, and Tribal organizations for activities to increase the availabili...
-- S 5595: A bill to amend the Act of June 22, 1948.
-- S 5534: A bill to authorize a grant program for educational institutions to analyze, digitize, and map historic records relat...
-- S 5456: A bill to amend the Public Health Service Act to authorize rural residency planning and development grant programs, a...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

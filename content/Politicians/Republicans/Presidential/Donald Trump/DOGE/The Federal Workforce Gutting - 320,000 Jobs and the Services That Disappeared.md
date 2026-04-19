@@ -110,7 +110,6 @@ The positions that were cut were not abstract "bureaucracy." They were food safe
 - [Office of Personnel Management. DOGE Workforce Optimization Guidance](https://www.war.gov/Portals/1/Spotlight/2025/Guidance_For_Federal_Policies/Implementing_DOGE_Workforce_Optimization/Implementing_DOGE_Workforce_Optimization_OPM_Guidance.pdf) (Tier 1) (VERIFIED)
 - [PBS NewsHour. DOGE disassembled but the principles remain alive](https://www.pbs.org/newshour/show/doge-disassembled-but-the-principles-remain-alive-trump-administration-says) (Tier 2) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Committee Assignments (Congress.gov)
 

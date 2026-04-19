@@ -156,6 +156,34 @@ top-policy-area: International Affairs
 
 # Todd Young
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 43 |
+| Bills Cosponsored | 324 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (54)
+- Health (31)
+- Education (23)
+- Labor and Employment (22)
+- Taxation (22)
+- Congress (19)
+- Science, Technology, Communications (17)
+- Finance and Financial Sector (17)
+- Crime and Law Enforcement (15)
+- Commerce (15)
+
+**Enacted into law:**
+
+- S 4141: FIFA World Cup 2026 Commemorative Coin Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Todd Young. Republican, Indiana. US Senator since January 2017, elected 2016 defeating Democrat Evan Bayh, re-elected 2022. Previously Indiana's 9th Congressional District representative (2011-2017). Born August 1972 in Lancaster, PA. US Naval Academy graduate, Marine Corps officer, Indiana University law degree. NRSC chairman (2017-2021), leading Republican Senate campaign efforts. Co-author of the CHIPS and Science Act (2022) with Senate Majority Leader Chuck Schumer, the $52B federal investment in domestic semiconductor manufacturing. Committee assignments not yet in pipeline. 2,751 roll-call votes tracked (115th-119th Congress, 8+ years). Voting record: 94.2% party-line loyalty across 2,718 substantive votes, 153 deviations. Indiana is a safe Republican state; the $15.2M in opposition spending reflects competitive 2022 cycle investment, not structural vulnerability.
@@ -236,31 +264,4 @@ Young's one enacted bill in the 118th Congress is the FIFA World Cup 2026 Commem
 **Revolving Door (NRSC-to-institutional support).** Young's four-year tenure as NRSC chairman (2017-2021) built the institutional Republican Senate network relationships that explain his donor map. The Chamber of Commerce $1.0M, the leadership PAC cluster, and the party infrastructure giving all flow from the four years Young spent managing the institutional Republican apparatus. NRSC chair is the most direct pipeline from party institutional donor relationships to personal campaign finance. Young converted four years of party service into a permanent expansion of his donor base.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 43 |
-| Bills Cosponsored | 324 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (54)
-- Health (31)
-- Education (23)
-- Labor and Employment (22)
-- Taxation (22)
-- Congress (19)
-- Science, Technology, Communications (17)
-- Finance and Financial Sector (17)
-- Crime and Law Enforcement (15)
-- Commerce (15)
-
-**Enacted into law:**
-
-- S 4141: FIFA World Cup 2026 Commemorative Coin Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

@@ -114,6 +114,56 @@ donors: [[AIPAC - American Israel Public Affairs Committee]], [[Paul Singer]], [
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 72 |
+| Bills Cosponsored | 274 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (46)
+- Armed Forces and National Security (40)
+- Crime and Law Enforcement (38)
+- Health (24)
+- Immigration (24)
+- Congress (18)
+- Finance and Financial Sector (18)
+- Education (17)
+- Taxation (16)
+- Government Operations and Politics (11)
+
+**Recent bills sponsored:**
+
+- SRES 935: A resolution condemning the commutation of Michael Conahan granted by President Biden on December 12, 2024.
+- SJRES 119: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- S 5431: A bill to prohibit the use of materials that use the term "West Bank", and for other purposes.
+- S 5419: Protecting Our Essential Medicines Act
+- S 5410: Expel Illegal Chinese Police Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 78 |
+| Bills Cosponsored | 149 |
+| Total Votes Cast | 5,398 |
+| Leadership | Senate Republican Conference Chair |
+
+**Recent bills sponsored:**
+
+- S. 4235: A bill to prohibit executive agencies from procuring or operating certain unmanned ground vehicle systems, and for other — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4206: A bill to amend title 31, United States Code, to require certain financial institutions to verify the citizenship and le — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4165: Educational Visa Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4158: A bill to temporarily suspend the clean electricity production credit to support the Strategic Petroleum Reserve. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4106: Rx ACCESS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Tom Cotton. Republican senator from Arkansas (2015–present). The neoconservative donor class's favorite product. Harvard College (3-year accelerated), Harvard Law, law clerk (5th Circuit), McKinsey & Company, Army Infantry officer (Iraq, Afghanistan, Bronze Star). Won 2014 Senate race at age 37 with $7.1 million raised — and $960,000 from Bill Kristol's Emergency Committee for Israel, plus the #2 largest donor being [[Paul Singer|Paul Singer]]'s Elliott Management. [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-attributed spending for his 2014 race: reported at $2-4.5 million. Authored the Iran letter (47 Republican senators writing Iran's leadership to undermine Obama's nuclear deal) — the letter that made a freshman senator the neoconservative movement's champion. Armed Services Committee (Airland, Cybersecurity, Strategic Forces). FORCE Act: $43 billion for Indo-Pacific military infrastructure. Opposed the First Step Act (justice system reform) — called it "the worst mistake of Trump's first term." Wrote the NYT "Send in the Troops" op-ed (June 2020) advocating military deployment against protesters — the editor was forced to resign, the Times retracted. RAISE Act (with David Perdue): cut legal immigration from 1M+ to 500K, eliminate diversity lottery. The Harvard-McKinsey-Goldman pipeline packaged as "Arkansas values" — the most elite-credentialed senator in the chamber running as an anti-establishment hawk, funded entirely by East Coast neoconservative billionaires.
@@ -211,24 +261,6 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 - [Washington Post: NYT editorial page editor resigns after uproar over Cotton op-ed](https://www.washingtonpost.com/lifestyle/media/new-york-times-editorial-page-editor-resigns-after-uproar-over-cotton-op-ed/2020/06/07/bca09606-a8fd-11ea-9063-e69bd6520940_story.html) (Tier 2) (VERIFIED)
 - [Daily Beast: Cotton as neocon darling](https://www.thedailybeast.com/cruz-trashed-trump-and-vance-in-secret-recordings-f-you-ted/) (Tier 2) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 78 |
-| Bills Cosponsored | 149 |
-| Total Votes Cast | 5,398 |
-| Leadership | Senate Republican Conference Chair |
-
-**Recent bills sponsored:**
-
-- S. 4235: A bill to prohibit executive agencies from procuring or operating certain unmanned ground vehicle systems, and for other — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4206: A bill to amend title 31, United States Code, to require certain financial institutions to verify the citizenship and le — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4165: Educational Visa Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4158: A bill to temporarily suspend the clean electricity production credit to support the Strategic Petroleum Reserve. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4106: Rx ACCESS Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -244,22 +276,6 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[Paul Singer]] — $1.3M lobbying spend (Accounting, Aerospace, Budget/Appropriations)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Voting Record
 
@@ -292,38 +308,6 @@ Cotton's Armed Services Committee position completes the donor-to-policy circuit
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 72 |
-| Bills Cosponsored | 274 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (46)
-- Armed Forces and National Security (40)
-- Crime and Law Enforcement (38)
-- Health (24)
-- Immigration (24)
-- Congress (18)
-- Finance and Financial Sector (18)
-- Education (17)
-- Taxation (16)
-- Government Operations and Politics (11)
-
-**Recent bills sponsored:**
-
-- SRES 935: A resolution condemning the commutation of Michael Conahan granted by President Biden on December 12, 2024.
-- SJRES 119: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
-- S 5431: A bill to prohibit the use of materials that use the term "West Bank", and for other purposes.
-- S 5419: Protecting Our Essential Medicines Act
-- S 5410: Expel Illegal Chinese Police Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

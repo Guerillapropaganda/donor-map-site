@@ -117,6 +117,28 @@ donors: Progressive Small-Dollar Donors · Oakland Community Organizations · La
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 17,162 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Barbara Lee. U.S. Representative from California, District 13 (Oakland, 1998–2025). Sole vote against the 2001 Authorization for Use of Military Force (AUMF). 2024 Senate candidate (finished fourth). Career anti-war progressive backed by small-dollar donors, labor unions, and community organizations. Class function: represent the contradiction between progressive politics and capitalist democracy, prove that moral courage in voting does not translate into electoral power when money controls outcomes.
@@ -224,36 +246,6 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| Chamber | House |
-| Bills Sponsored | 668 |
-| Bills Cosponsored | 10571 |
-
-**Policy areas:** Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Education, Environmental Protection, Families, Government Operations and Politics, Health, International Affairs, Labor and Employment, Science, Technology, Communications, Social Welfare, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 10457 | PEPFAR Extension Act of 2024 | Referred to the House Committee on Foreign Affairs. |
-| 1605 | Supporting the goals of World AIDS Day. | Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 9977 | Victims of Agent Orange Relief Act of 2024 | Referred to the Subcommittee on Health. |
-| 9872 | Sickle Cell Disease Treatment Centers Act of 2024 | Referred to the House Committee on Energy and Commerce. |
-| 1513 | Affirming the term "woke" and its historical connection to Black history, Black … | Referred to the House Committee on Oversight and Accountability. |
-| 9631 | National Food as Medicine Program Act of 2024 | Referred to the Subcommittee on Nutrition, Foreign Agriculture, and Horticulture. |
-| 9607 | Workforce of the Future Act of 2024 | Referred to the Committee on Education and the Workforce, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 1411 | Recognizing July 2024 as the 30th anniversary of the reproductive justice moveme… | Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/L000551) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -289,42 +281,6 @@ Barbara Lee represents the political powerlessness of moral clarity in capitalis
 - {{src:src_005776}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2024 |
-| Total Raised | $375,046 |
-| Individual Contributions | $308,954 |
-| PAC Contributions | $11,800 |
-| Cash on Hand | 144.39 |
-| IE Support (Super PAC) | $21,066 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2024 | $375,046 | $308,954 | $11,800 |
-| 2022 | $2,183,373 | $1,281,697 | $474,500 |
-| 2020 | $1,888,202 | $957,363 | $481,349 |
-| 2018 | $1,875,867 | $1,042,536 | $439,817 |
-| 2016 | $1,328,822 | $821,484 | $330,440 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| CARE ACTION | $8,769 | $0 |
-| KUCINICH ACTION PAC | $5,523 | $0 |
-| COURAGE CALIFORNIA SUPER PAC | $2,188 | $0 |
-| SANDRE SWANSON FOR ASSEMBLY 2010 | $1,244 | $0 |
-| TOGETHER WE THRIVE | $750 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -333,76 +289,10 @@ _No committee data found._
 - [Source: Congress.gov](https://www.congress.gov/member/C001091) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/L000551) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 17,162 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
-
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 604 |
-| Bills Cosponsored | 10,572 |
-| Total Votes Cast | 17,162 |
-
-**Recent bills sponsored:**
-
-- H.R. 10457: PEPFAR Extension Act of 2024 — *This bill was introduced on December 17, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 1605: Supporting the goals of World AIDS Day. — *This resolution was introduced on December 3, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 9977: Victims of Agent Orange Relief Act of 2024 — *This bill was introduced on October 11, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 9872: Sickle Cell Disease Treatment Centers Act of 2024 — *This bill was introduced on September 27, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 1513: Affirming the term “woke” and its historical connection to Black history, Black liberation movements, and social justice — *This resolution was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Nay | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Yea | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Yea | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400237) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -431,35 +321,6 @@ _No committee data found._
 - {{src:src_005776}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2024 |
-| Total Raised | $375,046 |
-| Total Spent | $427,255 |
-| Cash on Hand | 144.39 |
-| Individual Contributions | $308,954 |
-| PAC Contributions | $11,800 |
-| Coverage Through | 2024-09-30 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2024 | $375,046 | $427,255 | 144.39 |
-| 2022 | $2,183,373 | $2,341,393 | 52353.25 |
-| 2020 | $1,888,202 | $1,810,132 | 210373.72 |
-| 2018 | $1,875,867 | $1,781,696 | 132303.44 |
-| 2016 | $1,328,822 | $1,374,381 | 38131.96 |
-| 2014 | $1,139,240 | $1,100,730 | 83690.60 |
-| ... | 8 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8CA09060/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
@@ -498,33 +359,6 @@ _No committee data found._
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | **Nay** | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | **Yea** | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | **Yea** | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | **Yea** | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | **Yea** | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | **Yea** | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | **Yea** | Passed |
-| 2024-12-17 | H.R. 115 (118th): Midnight Rules Relief Act | **Nay** | Passed |
-| 2024-12-17 | H.Res. 1616 (118th): Providing for consideration of the bill (H.R. 115) to amend chapter 8 of title 5, United States Cod | **No** | Passed |
-| 2024-12-16 | S. 4077 (118th): A bill to designate the facility of the United States Postal Service located at 180 Steuart Street in S | **Yea** | Passed |
-| 2024-12-16 | S. 141 (118th): Senator Elizabeth Dole 21st Century Veterans Healthcare and Benefits Improvement Act | **Yea** | Passed |
-| 2024-12-16 | S. 3998 (118th): Federal Judiciary Stabilization Act of 2024 | **Yea** | Passed |
-| 2024-12-16 | H.R. 7213 (118th): Autism CARES Act of 2024 | **Yea** | Passed |
-| 2024-12-12 | S. 4199 (118th): JUDGES Act of 2024 | **Not Voting** | Passed |
-
-**Sources**
-
-- [GovTrack: Barbara Lee](https://www.govtrack.us/congress/members/400237) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

@@ -165,6 +165,61 @@ donors: [[Securities & Investment Industry]], Commercial Banks Bloc, [[Citadel -
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 24 |
+| Bills Cosponsored | 69 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (19)
+- Crime and Law Enforcement (10)
+- International Affairs (9)
+- Education (8)
+- Health (7)
+- Taxation (7)
+- Government Operations and Politics (6)
+- Energy (3)
+- Economics and Public Finance (3)
+- Environmental Protection (3)
+
+**Recent bills sponsored:**
+
+- HR 10293: To extend certain authorities under the Defense Production Act of 1950.
+- HRES 1600: Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financ...
+- HR 7440: H.R. 7440, Financial Services Innovation Act of 2024
+- HR 4766: Clarity for Payment Stablecoins Act of 2023
+- HR 4036: Accountability through Confirmation Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 13,283 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
+| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Yea | Failed |
+| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
+| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
+| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
+| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
+| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
+| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 [[_Patrick McHenry Master Profile|Patrick McHenry]]. U.S. Representative, North Carolina's 10th District (2005–present). Republican. Chair, House Financial Services Committee (2023-2024). The most consequential financial deregulation architect in the 118th Congress. Career campaign financing: $5M+ from securities, banking, and crypto sectors. His signature legislative achievement: FIT21 (Financial Innovation and Technology for the 21st Century Act), the crypto industry's dream bill, passed May 2024, that preempts state crypto regulation and creates a federal framework written by the industry it supposedly regulates. Six weeks after leaving office in January 2025, McHenry took six jobs in the financial sector simultaneously. The revolving door made explicit: he was hired by the industries he regulated because his regulation was actually deregulation written in their handwriting.
@@ -353,64 +408,6 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 13,283 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Yea | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 124 |
-| Bills Cosponsored | 1,487 |
-| Total Votes Cast | 13,283 |
-
-**Recent bills sponsored:**
-
-- H.Res. 1626: Expressing the profound regret and sorrow of the House of Representatives on the death of James Earl Carter, Jr., thirty — *This simple resolution was agreed to on December 31, 2024. That is the end of the legislative process for a simple resolution.*
-- H.R. 10293: To extend certain authorities under the Defense Production Act of 1950. — *This bill was introduced on December 4, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.Res. 1600: Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financial — *This resolution was introduced on November 26, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 807: Working Dog Commemorative Coin Act — *This bill was enacted after being signed by the President on November 25, 2024.*
-- H.R. 7440: Financial Services Innovation Act of 2024 — *This bill was introduced on April 17, 2024, in a previous session of Congress, but it did not receive a vote.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-20 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Passed |
-| 2024-12-19 | H.R. 10515 (118th): American Relief Act, 2025 | Yea | Failed |
-| 2024-12-18 | S. 759 (118th): Beagle Brigade Act of 2023 | Not Voting | Passed |
-| 2024-12-18 | H.R. 8663 (118th): DETECT Fentanyl and Xylazine Act of 2024 | Yea | Passed |
-| 2024-12-18 | S. 3857 (118th): Jamul Indian Village Land Transfer Act | Yea | Passed |
-| 2024-12-18 | S. 1351 (118th): Stop Institutional Child Abuse Act | Yea | Passed |
-| 2024-12-17 | H.R. 1101 (118th): Lumbee Fairness Act | Not Voting | Passed |
-| 2024-12-17 | S. 3448 (118th): Never Again Education Reauthorization Act of 2023 | Not Voting | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400644) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -452,38 +449,6 @@ When questioned about consumer harm or misconduct risk, McHenry invoked "free ma
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 24 |
-| Bills Cosponsored | 69 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Finance and Financial Sector (19)
-- Crime and Law Enforcement (10)
-- International Affairs (9)
-- Education (8)
-- Health (7)
-- Taxation (7)
-- Government Operations and Politics (6)
-- Energy (3)
-- Economics and Public Finance (3)
-- Environmental Protection (3)
-
-**Recent bills sponsored:**
-
-- HR 10293: To extend certain authorities under the Defense Production Act of 1950.
-- HRES 1600: Expressing the sense of the House of Representatives with respect to the use of artificial intelligence in the financ...
-- HR 7440: H.R. 7440, Financial Services Innovation Act of 2024
-- HR 4766: Clarity for Payment Stablecoins Act of 2023
-- HR 4036: Accountability through Confirmation Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

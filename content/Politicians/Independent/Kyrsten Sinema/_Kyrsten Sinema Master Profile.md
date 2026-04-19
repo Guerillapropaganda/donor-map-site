@@ -178,6 +178,34 @@ donors: [[Wall Street Bloc]] · Private Equity Donors · [[Pharmaceutical Indust
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 318 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (65)
+- Armed Forces and National Security (43)
+- Government Operations and Politics (31)
+- Congress (17)
+- Finance and Financial Sector (16)
+- Taxation (15)
+- Immigration (14)
+- International Affairs (13)
+- Public Lands and Natural Resources (13)
+- Native Americans (11)
+
+**Enacted into law:**
+
+- S 1172: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Kyrsten Sinema. Former U.S. Senator from Arizona (2019–2025). Left the Democratic Party to register as Independent (December 9, 2022). Did not seek reelection in 2024 despite holding a $10.6 million campaign war chest. Post-Senate: joined Hogan Lovells as Senior Advisor for AI, crypto, and regulatory affairs (March 2025); appointed to Coinbase Global Advisory Council (January 2025); founded AI Infrastructure Coalition; professor at Arizona State University. The most documented case of real-time donor capture in modern Senate history: ran as a progressive bisexual social worker in 2018, shifted to Wall Street and private equity funding by 2021, blocked the carried interest loophole closure that would have cost her new donors $6.5–14 billion over a decade, then moved directly to the industries she protected within months of leaving office.
@@ -411,34 +439,6 @@ _No committee data found._
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 37 |
-| Bills Cosponsored | 318 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (65)
-- Armed Forces and National Security (43)
-- Government Operations and Politics (31)
-- Congress (17)
-- Finance and Financial Sector (16)
-- Taxation (15)
-- Immigration (14)
-- International Affairs (13)
-- Public Lands and Natural Resources (13)
-- Native Americans (11)
-
-**Enacted into law:**
-
-- S 1172: Making emergency supplemental appropriations for the fiscal year ending September 30, 2024, and for other purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

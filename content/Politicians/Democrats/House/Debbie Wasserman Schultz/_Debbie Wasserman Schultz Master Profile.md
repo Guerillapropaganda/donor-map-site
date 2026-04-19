@@ -170,6 +170,38 @@ donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 465 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (115)
+- International Affairs (60)
+- Crime and Law Enforcement (47)
+- Government Operations and Politics (47)
+- Civil Rights and Liberties, Minority Issues (26)
+- Labor and Employment (23)
+- Immigration (22)
+- Education (19)
+- Armed Forces and National Security (17)
+- Taxation (16)
+
+**Recent bills sponsored:**
+
+- HRES 1596: Recognizing November 30, 2024, as Yom Haplitim or Jewish Refugee Day.
+- HR 9995: REVOCAR Act
+- HR 9858: Reinforcing Crime Victims’ Rights Act
+- HR 9713: BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2024
+- HR 9641: PROTECT Our Children Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Debbie Wasserman Schultz. U.S. Representative, Florida's 25th Congressional District (D). Serving since 2005. Former Chair of the Democratic National Committee (2011-2016). Born September 27, 1966, Queens, NY. Moved to Florida for college (University of Florida).
@@ -310,58 +342,12 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - {{src:src_006273}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,785,365 |
-| Individual Contributions | $1,322,746 |
-| PAC Contributions | $401,750 |
-| Cash on Hand | 1967326.77 |
-| IE Support (Super PAC) | $1,369,917 |
-| IE Opposition (Super PAC) | $250,658 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $1,785,365 | $1,322,746 | $401,750 |
-| 2024 | $2,896,300 | $1,938,134 | $795,500 |
-| 2022 | $2,087,129 | $1,220,446 | $672,050 |
-| 2020 | $2,204,638 | $1,273,036 | $656,648 |
-| 2018 | $2,233,842 | $1,192,955 | $579,781 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| PATRIOT MAJORITY PAC | $1,193,402 | $0 |
-| AMERICAN COLLEGE OF RADIOLOGY ASSOCIATION PAC | $145,772 | $0 |
-| AMERICA'S RENEWAL PAC, INC. | $0 | $133,000 |
-| CITIZENS AGAINST AIPAC CORRUPTION | $0 | $45,408 |
-| UNITED FOR COMMON SENSE | $0 | $44,250 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Debbie Wasserman Schultz](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -390,38 +376,6 @@ The DNC chairmanship (2011-2016) exposed the party-level version of the same don
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4FL20023/) (Tier 1)
 <!-- auto:fec-summary end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 35 |
-| Bills Cosponsored | 465 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (115)
-- International Affairs (60)
-- Crime and Law Enforcement (47)
-- Government Operations and Politics (47)
-- Civil Rights and Liberties, Minority Issues (26)
-- Labor and Employment (23)
-- Immigration (22)
-- Education (19)
-- Armed Forces and National Security (17)
-- Taxation (16)
-
-**Recent bills sponsored:**
-
-- HRES 1596: Recognizing November 30, 2024, as Yom Haplitim or Jewish Refugee Day.
-- HR 9995: REVOCAR Act
-- HR 9858: Reinforcing Crime Victims’ Rights Act
-- HR 9713: BIRD Energy and U.S.-Israel Energy Center Reauthorization Act of 2024
-- HR 9641: PROTECT Our Children Reauthorization Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

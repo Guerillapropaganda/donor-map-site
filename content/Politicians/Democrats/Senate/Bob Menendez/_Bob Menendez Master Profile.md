@@ -102,6 +102,36 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 75 |
+| Bills Cosponsored | 263 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (55)
+- Health (47)
+- Crime and Law Enforcement (39)
+- Finance and Financial Sector (20)
+- Government Operations and Politics (18)
+- Taxation (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Congress (15)
+- Education (14)
+- Armed Forces and National Security (14)
+
+**Enacted into law:**
+
+- S 2119: Firefighter Cancer Registry Reauthorization Act of 2023
+- S 746: No Stolen Trademarks Honored in America Act of 2023
+- S 509: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Robert "Bob" Menendez. Former U.S. Senator from New Jersey (D). Resigned August 2024 after conviction on 16 federal counts including bribery, extortion, acting as an unregistered foreign agent (Egypt and Qatar), conspiracy, and honest services misconduct. Began serving an 11-year prison sentence in June 2025. Previously served as Chairman of the Senate Foreign Relations Committee, the most powerful committee position for shaping U.S. foreign policy, including Cuba policy.
@@ -209,36 +239,6 @@ The class analysis is straightforward: Menendez proves that the campaign finance
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 75 |
-| Bills Cosponsored | 263 |
-| Bills Enacted | 3 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (55)
-- Health (47)
-- Crime and Law Enforcement (39)
-- Finance and Financial Sector (20)
-- Government Operations and Politics (18)
-- Taxation (18)
-- Civil Rights and Liberties, Minority Issues (18)
-- Congress (15)
-- Education (14)
-- Armed Forces and National Security (14)
-
-**Enacted into law:**
-
-- S 2119: Firefighter Cancer Registry Reauthorization Act of 2023
-- S 746: No Stolen Trademarks Honored in America Act of 2023
-- S 509: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -170,6 +170,38 @@ donors: Don Gaetz Family Fortune · [[MAGA Small Dollar Base]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 43 |
+| Bills Cosponsored | 691 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (105)
+- International Affairs (86)
+- Congress (83)
+- Health (81)
+- Agriculture and Food (44)
+- Labor and Employment (41)
+- Public Lands and Natural Resources (36)
+- Crime and Law Enforcement (30)
+- Armed Forces and National Security (29)
+- Taxation (26)
+
+**Recent bills sponsored:**
+
+- HR 10067: HARRIS Act of 2024
+- HR 10066: JAIL for Alien Voters Act of 2024
+- HRES 1549: Expressing the sense of the House of Representatives on contract breaches and other failures under the F-35 aircraft ...
+- HR 10003: National Motor Voter Clarification Act
+- HR 9895: BARRIER Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Matt Gaetz. Born May 7, 1982, Hollywood, Florida. Republican. U.S. Representative for Florida's 1st congressional district (2017–November 2024). Resigned from Congress after Trump nominated him as Attorney General, before the House Ethics Committee could release its report on him. The Ethics report was released in December 2024 after his resignation. His father, Don Gaetz, is the former Florida Senate President and co-founder of VITAS Healthcare, which sold for $406 million in 2004. Don and Victoria Gaetz's net worth: approximately $29.6 million. Matt Gaetz's own net worth: estimated $700,000–$1 million, largely from his congressional salary, he is functionally dependent on his family's wealth for his political position. Never indicted by the DOJ on sex trafficking charges despite FBI investigation beginning 2021. Attorney General nomination withdrawn November 21, 2024, after Senate Republicans signaled they would not confirm him.
@@ -387,38 +419,6 @@ _No committee data found._
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 43 |
-| Bills Cosponsored | 691 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (105)
-- International Affairs (86)
-- Congress (83)
-- Health (81)
-- Agriculture and Food (44)
-- Labor and Employment (41)
-- Public Lands and Natural Resources (36)
-- Crime and Law Enforcement (30)
-- Armed Forces and National Security (29)
-- Taxation (26)
-
-**Recent bills sponsored:**
-
-- HR 10067: HARRIS Act of 2024
-- HR 10066: JAIL for Alien Voters Act of 2024
-- HRES 1549: Expressing the sense of the House of Representatives on contract breaches and other failures under the F-35 aircraft ...
-- HR 10003: National Motor Voter Clarification Act
-- HR 9895: BARRIER Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

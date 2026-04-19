@@ -204,41 +204,6 @@ The MBNA-Biden relationship is the most documented donor-policy pipeline in Bide
 
 <!-- auto:occ-enforcement end -->
 
-<!-- auto:occ-enforcement pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Legal name (OCC) | Mbna America Bank, N.A. |
-| Charter number(s) | 22381 |
-| Total OCC enforcement actions | 4 |
-| **Active actions** | **4** |
-| Most recent action | 07/28/2006 |
-| Earliest action | 04/07/2000 |
-
-**Action types:**
-
-- Prohibition/Removal Orders: 3
-- C&D or PC&D Requiring Restitution: 1
-
-**Still-active enforcement actions:**
-
-- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
-- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
-
-**Recent enforcement history:**
-
-- [AA-EC-06-40: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2006-132.pdf) (07/28/2006)
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002)
-- [: C&D or PC&D Requiring Restitution](https://www.occ.gov/static/enforcement-actions/ea2002-31.pdf) (04/08/2002) — $11,305
-- [: Prohibition/Removal Orders](https://www.occ.gov/static/enforcement-actions/ea2000-35.pdf) (04/07/2000)
-
-- [Source: OCC Enforcement Action Search](https://apps.occ.gov/EASearch/Search/Table?q=MBNA%20Corporation&srt=1&pg=1&pgsz=25&isAdv=false) (Tier 1)
-
-<!-- auto:occ-enforcement pending-merge end -->
 
 ### Employee Political Contributions (FEC)
 <!-- auto:fec-individual start -->

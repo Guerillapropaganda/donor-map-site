@@ -512,59 +512,6 @@ RTX represents the defense sector's structural capture of the American state. Th
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 21 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 5 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Mike Rogers** → Sits on **Armed Services**
-- Lobbies on **Defense** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-- Lobbies on **Budget/Appropriations** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Defense** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Defense & Military** → Funds **Rosa DeLauro** → Sits on **House Committee on Appropriations**
-- Lobbies on **Budget/Appropriations** → Funds **Rick Scott** → Sits on **Senate Committee on the Budget**
-- Lobbies on **Defense** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
-- Lobbies on **Government Issues** → Funds **Rick Scott** → Sits on **Senate Committee on Homeland Security and Governmental Affairs**
-- Lobbies on **Defense & Military** → Funds **Rick Scott** → Sits on **Senate Committee on Armed Services**
-- Lobbies on **Defense** → Funds **Roger Wicker** → Sits on **Armed Services**
-- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
-
-**Funded politicians:**
-
-- [[Donald Trump]] — lobbying: $2.2M
-- [[Lloyd Austin]] — lobbying: $2.2M
-- [[Mark Esper]] — lobbying: $2.2M
-- [[Mike Rogers]] (Armed Services) — lobbying: $2.2M
-- [[Rob Wittman]] — lobbying: $2.2M
-- [[Adam Smith]] (House Committee on Armed Services) — lobbying: $2.2M
-- [[Salud Carbajal]] — lobbying: $2.2M
-- [[Seth Moulton]] — lobbying: $2.2M
-- [[Rosa DeLauro]] (House Committee on Appropriations) — lobbying: $2.2M
-- [[Hal Rogers]] — lobbying: $2.2M
-- [[Mike Simpson]] — lobbying: $2.2M
-- [[Mike Johnson]] — lobbying: $2.2M
-- [[Steve Scalise]] — lobbying: $2.2M
-- [[Hakeem Jeffries]] — lobbying: $2.2M
-- [[Katherine Clark]] — lobbying: $2.2M
-- [[Rick Scott]] (Senate Committee on Armed Services, Senate Committee on Foreign Relations, Senate Committee on Homeland Security and Governmental Affairs) — lobbying: $2.2M
-- [[Martin Heinrich]] (Intelligence) — lobbying: $2.2M
-- [[Roger Wicker]] (Armed Services) — lobbying: $2.2M
-- [[John Barrasso]] — lobbying: $2.2M
-- [[Mark Meadows]] — lobbying: $2.2M
-- [[Greg Gianforte]] — lobbying: $2.2M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -117,6 +117,37 @@ donors: [[Tobacco Industry/Reynolds American]] · [[Altria - Philip Morris]] · 
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 130 |
+| Bills Cosponsored | 1,725 |
+| Total Votes Cast | 12,814 |
+
+**Recent bills sponsored:**
+
+- H.R. 10: SOAR Reauthorization Act — *This bill was introduced in a previous session of Congress and was passed by the House on October 21, 2015 but was never passed by the Senate.*
+- H.R. 3461: To approve the Joint Comprehensive Plan of Action, signed at Vienna on July 14, 2015, relating to the nuclear program of — *This bill failed in the House on September 11, 2015.*
+- H.Con.Res. 146: Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the S — *This resolution was introduced in a previous session of Congress and was passed by the House on December 21, 2012 but was never passed by the Senate.*
+- H.Res. 786: Honoring the four United States public servants who died in Libya and condemning the attacks on United States diplomatic — *This simple resolution was agreed to on September 19, 2012. That is the end of the legislative process for a simple resolution.*
+- H.Res. 497: To provide for the placement of a statue or bust of Sir Winston Churchill in the United States Capitol. — *This simple resolution was agreed to on December 19, 2011. That is the end of the legislative process for a simple resolution.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2015-10-29 | Election of the Speaker | Ryan (WI) | Ryan (WI) |
+| 2015-10-29 | Call of the House | Present | Passed |
+| 2015-10-28 | H.R. 1314: Trade Act of 2015 | Yea | Passed |
+| 2015-07-08 | H.R. 5: Student Success Act | Aye | Passed |
+| 2015-06-18 | H.R. 2146: Defending Public Safety Employees’ Retirement Act | Aye | Passed |
+| 2015-06-12 | H.R. 644: Trade Facilitation and Trade Enforcement Act of 2015 | Aye | Passed |
+| 2015-06-12 | Concurring in portion of senate amendment preceding title II: H R 1314 Trade Act… | Aye | Passed |
+| 2015-06-12 | Concurring in portion of Senate Amdt comprising title II (except section 212): H… | No | Failed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400036) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 John Boehner. U.S. Representative (OH-8, 1991–2015). Speaker of the House (2011–2015). Former tobacco lobbyist and House floor check-distributor for tobacco industry. Post-House career: board member, cannabis legalization advocate, lobbying contracts. Known for "regular guy" brand (tanning, golf, crying at press conferences). Constructed public persona as everyman conservative while serving as legislative manager for corporate donor class. Net worth: $1–5 million (2015 disclosure).
@@ -255,28 +286,6 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **JPMorgan Chase** donates → Lobbies on **Banking** → This member sits on **Finance**
-- **JPMorgan Chase** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
-- **JPMorgan Chase** donates → Lobbies on **Wall Street & Finance** → This member sits on **Finance**
-
-**Donors who lobby (by spend):**
-
-- [[JPMorgan Chase]] — $9.8M lobbying spend (Agriculture, Banking, Budget/Appropriations)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -310,37 +319,6 @@ The post-House career confirms the pattern. Boehner left Congress in 2015 and be
 - {{src:src_004386}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 130 |
-| Bills Cosponsored | 1,725 |
-| Total Votes Cast | 12,814 |
-
-**Recent bills sponsored:**
-
-- H.R. 10: SOAR Reauthorization Act — *This bill was introduced in a previous session of Congress and was passed by the House on October 21, 2015 but was never passed by the Senate.*
-- H.R. 3461: To approve the Joint Comprehensive Plan of Action, signed at Vienna on July 14, 2015, relating to the nuclear program of — *This bill failed in the House on September 11, 2015.*
-- H.Con.Res. 146: Providing for a conditional adjournment of the House of Representatives and a conditional recess or adjournment of the S — *This resolution was introduced in a previous session of Congress and was passed by the House on December 21, 2012 but was never passed by the Senate.*
-- H.Res. 786: Honoring the four United States public servants who died in Libya and condemning the attacks on United States diplomatic — *This simple resolution was agreed to on September 19, 2012. That is the end of the legislative process for a simple resolution.*
-- H.Res. 497: To provide for the placement of a statue or bust of Sir Winston Churchill in the United States Capitol. — *This simple resolution was agreed to on December 19, 2011. That is the end of the legislative process for a simple resolution.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2015-10-29 | Election of the Speaker | Ryan (WI) | Ryan (WI) |
-| 2015-10-29 | Call of the House | Present | Passed |
-| 2015-10-28 | H.R. 1314: Trade Act of 2015 | Yea | Passed |
-| 2015-07-08 | H.R. 5: Student Success Act | Aye | Passed |
-| 2015-06-18 | H.R. 2146: Defending Public Safety Employees’ Retirement Act | Aye | Passed |
-| 2015-06-12 | H.R. 644: Trade Facilitation and Trade Enforcement Act of 2015 | Aye | Passed |
-| 2015-06-12 | Concurring in portion of senate amendment preceding title II: H R 1314 Trade Act… | Aye | Passed |
-| 2015-06-12 | Concurring in portion of Senate Amdt comprising title II (except section 212): H… | No | Failed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400036) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Archived
 

@@ -114,6 +114,69 @@ donors: [[Lockheed Martin]] [[Boeing]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 6 |
+| Bills Cosponsored | 153 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (23)
+- Crime and Law Enforcement (20)
+- Taxation (18)
+- Finance and Financial Sector (14)
+- Government Operations and Politics (10)
+- Armed Forces and National Security (8)
+- International Affairs (8)
+- Education (6)
+- Energy (5)
+- Foreign Trade and International Finance (4)
+
+**Recent bills sponsored:**
+
+- HCONRES 134: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
+- HR 8070: TAP Promotion Act
+- HR 5880: To provide that reimbursement of Members of Congress by the House of Representatives for expenses incurred in connect...
+- HR 2670: Intergovernmental Critical Minerals Task Force Act
+- HR 1474: Daylight Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 82 |
+| Bills Cosponsored | 1,979 |
+| Total Votes Cast | 14,974 |
+
+**Recent bills sponsored:**
+
+- H.R. 6971: To require congressional approval of major Executive Orders and major rules, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 7, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6970: To amend the Internal Revenue Code of 1986 to exclude from gross income the earnings from certain overseas deployments o — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 7, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 66: Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 1071. — *This concurrent resolution was agreed to by both chambers of Congress on December 17, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
+- H.Res. 915: Expressing the sense of the House of Representatives that the Ukrainian famine of 1932-1933, known as the Holodomor, is  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on November 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3838: Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 202 — *This bill passed in the House on September 10, 2025 and goes to the Senate next for consideration. Provisions of this bill were incorporated into other bills.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400341) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Mike Rogers has represented Alabama's 3rd Congressional District since 2003 and chairs the House Armed Services Committee, the body that authorizes every dollar of Pentagon spending and every major weapons system acquisition. He's a lawyer by training (Birmingham School of Law, Jacksonville State University) who served on the Calhoun County Commission before entering Congress.
@@ -248,70 +311,7 @@ Rogers' number one career donor is Lockheed Martin, the company competing for th
 - [Encyclopedia of Alabama: Mike Rogers](https://encyclopediaofalabama.org/article/mike-rogers/) (Tier 3) (VERIFIED)
 
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 82 |
-| Bills Cosponsored | 1,979 |
-| Total Votes Cast | 14,974 |
 
-**Recent bills sponsored:**
-
-- H.R. 6971: To require congressional approval of major Executive Orders and major rules, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 7, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6970: To amend the Internal Revenue Code of 1986 to exclude from gross income the earnings from certain overseas deployments o — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 7, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Con.Res. 66: Directing the Secretary of the Senate to make a correction in the enrollment of the bill S. 1071. — *This concurrent resolution was agreed to by both chambers of Congress on December 17, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
-- H.Res. 915: Expressing the sense of the House of Representatives that the Ukrainian famine of 1932-1933, known as the Holodomor, is  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on November 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3838: Streamlining Procurement for Effective Execution and Delivery and National Defense Authorization Act for Fiscal Year 202 — *This bill passed in the House on September 10, 2025 and goes to the Senate next for consideration. Provisions of this bill were incorporated into other bills.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400341) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 6 |
-| Bills Cosponsored | 153 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (23)
-- Crime and Law Enforcement (20)
-- Taxation (18)
-- Finance and Financial Sector (14)
-- Government Operations and Politics (10)
-- Armed Forces and National Security (8)
-- International Affairs (8)
-- Education (6)
-- Energy (5)
-- Foreign Trade and International Finance (4)
-
-**Recent bills sponsored:**
-
-- HCONRES 134: Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025
-- HR 8070: TAP Promotion Act
-- HR 5880: To provide that reimbursement of Members of Congress by the House of Representatives for expenses incurred in connect...
-- HR 2670: Intergovernmental Critical Minerals Task Force Act
-- HR 1474: Daylight Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

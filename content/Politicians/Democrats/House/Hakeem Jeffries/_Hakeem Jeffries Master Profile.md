@@ -197,6 +197,66 @@ top-policy-area: "Civil Rights and Liberties, Minority Issues"
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 1 |
+| Bills Cosponsored | 36 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Civil Rights and Liberties, Minority Issues (6)
+- Health (5)
+- Arts, Culture, Religion (5)
+- Crime and Law Enforcement (4)
+- Government Operations and Politics (3)
+- International Affairs (3)
+- Labor and Employment (2)
+- Finance and Financial Sector (2)
+- Congress (1)
+- Social Welfare (1)
+
+**Recent bills sponsored:**
+
+- HRES 1396: A resolution recognizing the 49th anniversary of the independence of the Republic of Cabo Verde and celebrating the c...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 120 |
+| Bills Cosponsored | 1,582 |
+| Total Votes Cast | 7,402 |
+| Leadership | House Minority Leader |
+
+**Recent bills sponsored:**
+
+- H.Res. 625: Recognizing the 50th anniversary of the independence of the Republic of Cabo Verde and celebrating the contributions of  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1396: Recognizing a half century of the independence of the Republic of Cabo Verde and celebrating the contributions of Cabo V — *This resolution was introduced on July 30, 2024, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 18: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 19: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
+- H.R. 13: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412561) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Hakeem Sekou Jeffries. Born August 4, 1970, Brooklyn, New York. U.S. Representative for New York's 8th congressional district (2013–present). House Minority Leader (2023–present) — the first Black person to lead a major party in either chamber of Congress. Former corporate attorney. Unanimously elected by House Democrats to succeed [[_Nancy Pelosi Master Profile|Nancy Pelosi]] as leader in November 2022. Net worth: estimated –$217,000 to $402,000 per 2024 disclosure (negative due to mortgages, relatively modest for a leader of his stature). Raised in Crown Heights, Brooklyn.
@@ -322,33 +382,6 @@ The leadership PAC (Jobs, Education and Family First) and Team Blue PAC (co-foun
 - Direct FEC IE filings for AIPAC coordinated spending on Jeffries
 
 #### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 1 |
-| Bills Cosponsored | 36 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Civil Rights and Liberties, Minority Issues (6)
-- Health (5)
-- Arts, Culture, Religion (5)
-- Crime and Law Enforcement (4)
-- Government Operations and Politics (3)
-- International Affairs (3)
-- Labor and Employment (2)
-- Finance and Financial Sector (2)
-- Congress (1)
-- Social Welfare (1)
-
-**Recent bills sponsored:**
-
-- HRES 1396: A resolution recognizing the 49th anniversary of the independence of the Republic of Cabo Verde and celebrating the c...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 - ~~[OpenSecrets: Democratic leadership profile — Hakeem Jeffries](https://www.opensecrets.org/news/2025/04/democratic-leadership-profile-hakeem-jeffries)~~ (was Tier 1, OpenSecrets demoted per Vault Rules 2026-04-09 — industry breakdown data referenced in Donor Class Map body; needs FEC cross-check)
@@ -463,42 +496,6 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - {{src:src_006189}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $10,327,241 |
-| Individual Contributions | $2,259,645 |
-| PAC Contributions | $1,224,500 |
-| Cash on Hand | 5864742.02 |
-| IE Support (Super PAC) | $46,398 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $10,327,241 | $2,259,645 | $1,224,500 |
-| 2024 | $22,977,197 | $7,242,168 | $2,639,351 |
-| 2022 | $6,037,500 | $2,506,901 | $2,054,097 |
-| 2020 | $4,201,480 | $2,383,236 | $1,669,549 |
-| 2018 | $1,744,153 | $855,829 | $844,300 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| STUDENTSFIRST | $20,778 | $0 |
-| BLUEWAVEAMERICA LLC | $11,300 | $0 |
-| PROGRESSIVE CHANGE CAMPAIGN COMMITTEE | $7,612 | $0 |
-| HEROES UNITED PAC, DBA VOLUNTEER FIREFIGHTERS ASSOCIATION, DBA ASSOCIATION OF POLICE & FIRST RESPONDERS | $6,400 | $0 |
-| PLANNED PARENTHOOD VOTES | $195 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -547,37 +544,6 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - ~~[Source: Congress.gov](https://www.congress.gov/member/J000294)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | NY |
-| Chamber | House |
-| Bills Sponsored | 133 |
-| Bills Cosponsored | 1582 |
-
-**Policy areas:** Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Finance and Financial Sector, Government Operations and Politics, Health, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 625 | Recognizing the 50th anniversary of the independence of the Republic of Cabo Ver… | Referred to the House Committee on Foreign Affairs. |
-| 13 | Reserved for the Minority Leader. | — |
-| 11 | Reserved for the Minority Leader. | — |
-| 19 | Reserved for the Minority Leader. | — |
-| 16 | Reserved for the Minority Leader. | — |
-| 1396 | Recognizing a half century of the independence of the Republic of Cabo Verde and… | Referred to the House Committee on Foreign Affairs. |
-| 19 | Reserved for the Minority Leader. | Introduced in House |
-| 18 | Reserved for the Minority Leader. | Introduced in House |
-
-- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -606,35 +572,6 @@ The transition is the most visible evidence that Democratic leadership is a dono
 - {{src:src_006189}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $10,327,241 |
-| Total Spent | $9,417,063 |
-| Cash on Hand | 5864742.02 |
-| Individual Contributions | $2,259,645 |
-| PAC Contributions | $1,224,500 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $10,327,241 | $9,417,063 | 5864742.02 |
-| 2024 | $22,977,197 | $20,238,858 | 4954564.65 |
-| 2022 | $6,037,500 | $5,966,557 | 2216225.11 |
-| 2020 | $4,201,480 | $3,325,841 | 2145321.91 |
-| 2018 | $1,744,153 | $1,486,075 | 1269682.34 |
-| 2016 | $1,294,870 | $791,629 | 1011604.86 |
-| ... | 2 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H2NY10092/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -643,45 +580,9 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/J000294) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Hakeem Jeffries](https://www.govtrack.us/congress/members/412561) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -700,35 +601,4 @@ Hakeem Sekou Jeffries is an American politician and attorney who has served as H
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q5640425) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 120 |
-| Bills Cosponsored | 1,582 |
-| Total Votes Cast | 7,402 |
-| Leadership | House Minority Leader |
 
-**Recent bills sponsored:**
-
-- H.Res. 625: Recognizing the 50th anniversary of the independence of the Republic of Cabo Verde and celebrating the contributions of  — *This resolution is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1396: Recognizing a half century of the independence of the Republic of Cabo Verde and celebrating the contributions of Cabo V — *This resolution was introduced on July 30, 2024, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 18: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 19: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
-- H.R. 13: Reserved for the Minority Leader. — *This bill was introduced on January 3, 2023, in a previous session of Congress, but it did not receive a vote.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412561) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->

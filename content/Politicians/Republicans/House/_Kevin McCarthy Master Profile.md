@@ -159,6 +159,37 @@ donors: [[Chevron]] · [[Occidental Petroleum]] · [[Marathon Petroleum]] · [[K
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 9 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (4)
+- Government Operations and Politics (3)
+- Health (3)
+- International Affairs (2)
+- Social Welfare (1)
+- Public Lands and Natural Resources (1)
+- Water Resources Development (1)
+- Science, Technology, Communications (1)
+- Environmental Protection (1)
+
+**Recent bills sponsored:**
+
+- HR 6718: City of Ridgecrest Land Exchange Act
+- HR 6068: Clergy Act
+- HR 5617: Space Transformation And Reliability Act
+- HRES 593: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
+- HRES 523: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Kevin Owen McCarthy. Born January 26, 1965, in Bakersfield, California. U.S. Representative from California's 20th and 23rd districts (2007–2023). House Minority Leader (2019–2023). Speaker of the House (January–September 2023). Ousted by motion to vacate October 3, 2023, after 269 days as Speaker. Currently a lobbyist and political consultant.
@@ -403,51 +434,7 @@ McCarthy was the answer to the question: what does a successful donor-servant lo
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 0 of 3 |
-| Donors With Federal Contracts | 3 |
-| Committee Overlap Detected | None |
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 14 |
-| Bills Cosponsored | 9 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Congress (4)
-- Government Operations and Politics (3)
-- Health (3)
-- International Affairs (2)
-- Social Welfare (1)
-- Public Lands and Natural Resources (1)
-- Water Resources Development (1)
-- Science, Technology, Communications (1)
-- Environmental Protection (1)
-
-**Recent bills sponsored:**
-
-- HR 6718: City of Ridgecrest Land Exchange Act
-- HR 6068: Clergy Act
-- HR 5617: Space Transformation And Reliability Act
-- HRES 593: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
-- HRES 523: Authorizing video recording in the House Chamber during a joint meeting of Congress for certain educational purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -174,6 +174,38 @@ SORT file.name ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 248 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (47)
+- Health (38)
+- Education (31)
+- Taxation (26)
+- Congress (18)
+- Finance and Financial Sector (17)
+- Crime and Law Enforcement (16)
+- Immigration (14)
+- Labor and Employment (13)
+- Environmental Protection (9)
+
+**Recent bills sponsored:**
+
+- S 5357: SBA Disaster Transparency Act
+- SRES 861: A resolution expressing support for the designation of September 2023 as "Sickle Cell Disease Awareness Month" in ord...
+- S 5190: STRATEGIC Act of 2024
+- S 5139: Small Entity Update Act
+- S 5037: Indian Ocean Region Strategic Review Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Tim Scott, U.S. Senator from South Carolina (2013–present). Chairman of the Senate Banking, Housing, and Urban Affairs Committee (2025–present; Ranking Member 2023–2024). Also serves on the Finance Committee and Foreign Relations Committee. Only Black Republican senator. 2024 presidential candidate (suspended November 2023). Author of Opportunity Zones legislation in the 2017 Tax Cuts and Jobs Act. Evangelical Christian. Endorsed Trump for president in January 2024 after dropping his own bid; became VP shortlist finalist before JD Vance was selected.
@@ -370,38 +402,6 @@ The class function Scott performs is unique and cannot be replicated by a white 
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 54 |
-| Bills Cosponsored | 248 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (47)
-- Health (38)
-- Education (31)
-- Taxation (26)
-- Congress (18)
-- Finance and Financial Sector (17)
-- Crime and Law Enforcement (16)
-- Immigration (14)
-- Labor and Employment (13)
-- Environmental Protection (9)
-
-**Recent bills sponsored:**
-
-- S 5357: SBA Disaster Transparency Act
-- SRES 861: A resolution expressing support for the designation of September 2023 as "Sickle Cell Disease Awareness Month" in ord...
-- S 5190: STRATEGIC Act of 2024
-- S 5139: Small Entity Update Act
-- S 5037: Indian Ocean Region Strategic Review Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

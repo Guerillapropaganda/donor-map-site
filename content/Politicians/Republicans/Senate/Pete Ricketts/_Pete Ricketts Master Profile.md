@@ -148,6 +148,38 @@ top-donors: "[[Common Sense for America PAC]], [[General Dynamics]], [[Internati
 
 # Pete Ricketts
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 373 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (66)
+- Environmental Protection (36)
+- Health (29)
+- Taxation (27)
+- Agriculture and Food (26)
+- Immigration (25)
+- Crime and Law Enforcement (23)
+- Congress (20)
+- Energy (20)
+- Armed Forces and National Security (17)
+
+**Recent bills sponsored:**
+
+- SRES 928: A resolution honoring the life of Nebraska community leader John Edmund Gottschalk.
+- S 5233: No Capital Gains Allowance for American Adversaries Act
+- S 5234: Protecting Endowments from Our Adversaries Act
+- S 5277: Securing American Agriculture Act
+- S 5244: PRC Military and Human Rights Capital Markets Sanctions Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Pete Ricketts. Republican, Nebraska. US Senator since January 2023, initially appointed by himself when he was governor following Ben Sasse's December 2022 resignation, then elected to the full term in November 2024. Born August 1964 in Nebraska City, NE. University of Chicago MBA. Chief Operating Officer of TD Ameritrade (2001-2006), the online brokerage founded by his father Joe Ricketts. Nebraska Governor (2015-2023). The Ricketts family also owns the Chicago Cubs (Tom Ricketts, his brother, is the Cubs chairman). Committee assignments not yet in pipeline. 1,433 roll-call votes tracked (118th and 119th Congress). Voting record: 97.0% party-line loyalty across 1,409 substantive votes, 40 deviations. Nebraska is a safe Republican state; the $431 in total super-PAC opposition across his Senate career is the lowest opposition figure in the vault.
@@ -215,35 +247,4 @@ The 40 deviations at 97.0% loyalty contain both fiscal-hawk Nay votes (H.R. 3935
 **Pilot Program (self-appointment model).** The governor-to-senator self-appointment is constitutionally permitted and rare in practice. Ricketts is one of several recent examples (appointing oneself rather than a placeholder) of a governor using appointment power to advance their own career. Whether the Nebraska electorate validates the self-appointment (they did, in 2024) is the test of whether the constitutional mechanism produces a durable Senate seat. It did. The pilot for whether self-appointment by an incumbent governor is a viable career path in safe-state Republican politics is now confirmed in Nebraska.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 373 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (66)
-- Environmental Protection (36)
-- Health (29)
-- Taxation (27)
-- Agriculture and Food (26)
-- Immigration (25)
-- Crime and Law Enforcement (23)
-- Congress (20)
-- Energy (20)
-- Armed Forces and National Security (17)
-
-**Recent bills sponsored:**
-
-- SRES 928: A resolution honoring the life of Nebraska community leader John Edmund Gottschalk.
-- S 5233: No Capital Gains Allowance for American Adversaries Act
-- S 5234: Protecting Endowments from Our Adversaries Act
-- S 5277: Securing American Agriculture Act
-- S 5244: PRC Military and Human Rights Capital Markets Sanctions Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

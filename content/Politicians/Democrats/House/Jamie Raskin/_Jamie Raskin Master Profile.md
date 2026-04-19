@@ -173,6 +173,56 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 561 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- Government Operations and Politics (58)
+- Crime and Law Enforcement (57)
+- International Affairs (51)
+- Taxation (39)
+- Civil Rights and Liberties, Minority Issues (29)
+- Education (27)
+- Armed Forces and National Security (24)
+- Labor and Employment (23)
+- Agriculture and Food (22)
+
+**Recent bills sponsored:**
+
+- HR 10505: To amend the Commodity Exchange Act to prohibit political election or contest agreements, contracts, transactions, an...
+- HR 10310: Free Speech Protection Act
+- HRES 1499: A resolution expressing concern about the spreading problem of book banning and the proliferation of threats to freed...
+- HR 9577: STOP Suicide Act
+- HR 9578: Ranked Choice Voting Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 265 |
+| Total Votes Cast | 4,873 |
+
+**Recent bills sponsored:**
+
+- H.R. 8122: To amend the Public Health Service Act to award grants to eligible crisis centers to provide follow-up services to indiv — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8124: To amend the Public Health Service Act to establish a grant program to support models for providing stabilization servic — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8123: To amend the Commodity Exchange Act to prohibit certain event contracts on prediction markets, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6761: People’s White House Historic Preservation Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6589: Ranked Choice Voting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412708) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jamie Raskin. Democrat, Maryland's 8th District (Montgomery County, suburban Washington DC). First elected 2016. Ranking Member, House Judiciary Committee, the committee with jurisdiction over constitutional law, civil liberties, antitrust, immigration, justice system, and the federal courts. Previously served as Ranking Member of the House Oversight and Accountability Committee.
@@ -304,54 +354,9 @@ On campaign finance reform, he leads with the structural argument, corporations 
 - [American University: Jamie Raskin faculty profile](https://www.american.edu/wcl/faculty/raskin.cfm) (Tier 3) (VERIFIED)
 - [Free Speech for People: Raskin introduces bill to ban multinational corporate campaign spending](https://freespeechforpeople.org/rep-jamie-raskin-introduces-bill-to-ban-multinational-corporations-from-spending-money-in-u-s-elections/) (Tier 2) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 18 |
-| Bills Cosponsored | 265 |
-| Total Votes Cast | 4,873 |
-
-**Recent bills sponsored:**
-
-- H.R. 8122: To amend the Public Health Service Act to award grants to eligible crisis centers to provide follow-up services to indiv — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8124: To amend the Public Health Service Act to establish a grant program to support models for providing stabilization servic — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8123: To amend the Commodity Exchange Act to prohibit certain event contracts on prediction markets, and for other purposes. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6761: People’s White House Historic Preservation Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 16, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6589: Ranked Choice Voting Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412708) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Jamie Raskin](https://www.govtrack.us/congress/members/412708) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -381,37 +386,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | MD |
-| Chamber | House |
-| Bills Sponsored | 128 |
-| Bills Cosponsored | 3684 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Crime and Law Enforcement, Economics and Public Finance, Education, Environmental Protection, Finance and Financial Sector, Foreign Trade and International Finance, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Public Lands and Natural Resources, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 8275 | To establish the Commission on Presidential Capacity to Discharge the Powers and… | Referred to the Committee on the Judiciary, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 8122 | 9–8–8 Connect Act | Referred to the House Committee on Energy and Commerce. |
-| 8123 | STOP Corrupt Bets Act of 2026 | Referred to the House Committee on Agriculture. |
-| 8124 | STOP Suicide Act | Referred to the House Committee on Energy and Commerce. |
-| 6761 | People’s White House Historic Preservation Act | Referred to the House Committee on Natural Resources. |
-| 6589 | Ranked Choice Voting Act | Referred to the House Committee on House Administration. |
-| 913 | Expressing the opposition of the House of Representatives to any grant of commut… | Referred to the House Committee on the Judiciary. |
-| 6310 | To designate the facility of the United States Postal Service located at 3570 Ol… | Motion to reconsider laid on the table Agreed to without objection. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -421,17 +395,6 @@ On campaign finance reform, he leads with the structural argument, corporations 
 
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Committees:**
-
-- House Committee on the Judiciary
-
-- [Source: Congress.gov](https://www.congress.gov/member/R000606) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -510,38 +473,6 @@ Jamin Ben Raskin is an American attorney, law professor, and politician serving 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q640835) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 29 |
-| Bills Cosponsored | 561 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (86)
-- Government Operations and Politics (58)
-- Crime and Law Enforcement (57)
-- International Affairs (51)
-- Taxation (39)
-- Civil Rights and Liberties, Minority Issues (29)
-- Education (27)
-- Armed Forces and National Security (24)
-- Labor and Employment (23)
-- Agriculture and Food (22)
-
-**Recent bills sponsored:**
-
-- HR 10505: To amend the Commodity Exchange Act to prohibit political election or contest agreements, contracts, transactions, an...
-- HR 10310: Free Speech Protection Act
-- HRES 1499: A resolution expressing concern about the spreading problem of book banning and the proliferation of threats to freed...
-- HR 9577: STOP Suicide Act
-- HR 9578: Ranked Choice Voting Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

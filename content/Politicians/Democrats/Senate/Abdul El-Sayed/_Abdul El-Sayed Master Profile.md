@@ -275,7 +275,6 @@ The Michigan primary is a proxy war between two factions of the Democratic donor
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED) (NEEDS REVIEW: Goes to sanctions search with no results)
 <!-- auto:ofac-sdn end -->
 
-### Legislative Activity (Congress.gov)
 
 ## Committee Assignments (Congress.gov)
 

@@ -102,6 +102,38 @@ donors: [[Petrochemical Industry Bloc]], [[Fossil Fuel Bloc]], [[Koch Network - 
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 95 |
+| Bills Cosponsored | 436 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (54)
+- International Affairs (53)
+- Taxation (47)
+- Armed Forces and National Security (38)
+- Education (32)
+- Crime and Law Enforcement (32)
+- Labor and Employment (28)
+- Immigration (27)
+- Energy (26)
+- Finance and Financial Sector (22)
+
+**Enacted into law:**
+
+- S 4632: FAFSA Deadline Act
+- S 677: VETT Act
+- S 3634: To designate the facility of the United States Postal Service located at 3901 MacArthur Blvd., in New Orleans, Louisi...
+- S 3678: Federal Disaster Tax Relief Act of 2023
+- S 4329: To designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Louisiana,...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Bill Cassidy. U.S. Senator from Louisiana (2015–present). Born September 8, 1957, in Highland Park, Illinois. Medical doctor (LSU School of Medicine, 1984). Family medicine physician and cardiologist. Served in U.S. House (2009–2015) representing Louisiana's 6th District. Voted to convict President Trump during his second impeachment (February 2021) — one of only seven Republicans to do so. Running for reelection in 2026 facing Trump-backed primary challenger Julia Letlow. The rarest Republican unicorn: a physician-politician who broke with Trump and survived (barely) in a deep-red state.
@@ -238,60 +270,10 @@ That impeachment vote is the key to understanding Cassidy's class function. He s
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[Petrochemical Industry Bloc]] — $36.4M lobbying spend (Budget/Appropriations, Chemicals/Chemical Industry, Energy/Nuclear)
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 95 |
-| Bills Cosponsored | 436 |
-| Bills Enacted | 5 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (54)
-- International Affairs (53)
-- Taxation (47)
-- Armed Forces and National Security (38)
-- Education (32)
-- Crime and Law Enforcement (32)
-- Labor and Employment (28)
-- Immigration (27)
-- Energy (26)
-- Finance and Financial Sector (22)
-
-**Enacted into law:**
-
-- S 4632: FAFSA Deadline Act
-- S 677: VETT Act
-- S 3634: To designate the facility of the United States Postal Service located at 3901 MacArthur Blvd., in New Orleans, Louisi...
-- S 3678: Federal Disaster Tax Relief Act of 2023
-- S 4329: To designate the facility of the United States Postal Service located at 103 Benedette Street in Rayville, Louisiana,...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

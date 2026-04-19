@@ -154,6 +154,38 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] P
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 25 |
+| Bills Cosponsored | 185 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (29)
+- Crime and Law Enforcement (24)
+- International Affairs (17)
+- Environmental Protection (14)
+- Taxation (13)
+- Labor and Employment (13)
+- Energy (13)
+- Finance and Financial Sector (9)
+- Government Operations and Politics (9)
+- Armed Forces and National Security (9)
+
+**Recent bills sponsored:**
+
+- HR 9898: Securing America’s Midstream Critical Materials Processing of 2024
+- HJRES 204: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 9184: Patient Access Act of 2024
+- HR 9077: Fair and Efficient Regulatory Commonsense Act
+- HR 9067: H.R. 9067, Building America’s Health Care Workforce Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Rep [[_Brett Guthrie Master Profile|Brett Guthrie]] represents Kentucky's 2nd Congressional District and currently chairs the House Energy & Commerce Committee (2025). A 12-term congressman from a reliably Republican district (R+19), he has built his career as the pharmaceutical industry's most dependable vote in Congress. His district includes parts of Louisville, Bowling Green, and rural Kentucky.
@@ -300,38 +332,6 @@ The FEC data reveals the structure cleanly. In the current cycle, Guthrie's PAC 
 - {{src:src_001563}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 25 |
-| Bills Cosponsored | 185 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (29)
-- Crime and Law Enforcement (24)
-- International Affairs (17)
-- Environmental Protection (14)
-- Taxation (13)
-- Labor and Employment (13)
-- Energy (13)
-- Finance and Financial Sector (9)
-- Government Operations and Politics (9)
-- Armed Forces and National Security (9)
-
-**Recent bills sponsored:**
-
-- HR 9898: Securing America’s Midstream Critical Materials Processing of 2024
-- HJRES 204: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
-- HR 9184: Patient Access Act of 2024
-- HR 9077: Fair and Efficient Regulatory Commonsense Act
-- HR 9067: H.R. 9067, Building America’s Health Care Workforce Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

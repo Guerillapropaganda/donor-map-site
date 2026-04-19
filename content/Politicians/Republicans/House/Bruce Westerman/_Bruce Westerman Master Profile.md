@@ -162,6 +162,38 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 166 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (27)
+- International Affairs (17)
+- Armed Forces and National Security (17)
+- Crime and Law Enforcement (16)
+- Finance and Financial Sector (12)
+- Taxation (12)
+- Education (11)
+- Agriculture and Food (8)
+- Environmental Protection (8)
+- Government Operations and Politics (8)
+
+**Recent bills sponsored:**
+
+- HR 10409: To address the high costs of health care services, prescription drugs, and health insurance coverage in the United St...
+- HR 9938: Promising Pathway Act 2.0
+- HRES 1467: A resolution calling on Congress, schools, and State and local educational agencies to recognize the significant educ...
+- HR 9533: ESA Amendments Act of 2024
+- HR 8993: Focus on Learning Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Bruce Westerman represents Arkansas's 4th Congressional District and chairs the House Natural Resources Committee — the body with jurisdiction over public lands, oil and gas leasing on federal land, mining, forestry, water resources, fisheries, tribal affairs, and national parks. The committee controls who gets to extract what from America's public lands and at what price.
@@ -347,38 +379,6 @@ This is the triple alignment: donor money from oil and gas ($184,000+ in a singl
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 16 |
-| Bills Cosponsored | 166 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (27)
-- International Affairs (17)
-- Armed Forces and National Security (17)
-- Crime and Law Enforcement (16)
-- Finance and Financial Sector (12)
-- Taxation (12)
-- Education (11)
-- Agriculture and Food (8)
-- Environmental Protection (8)
-- Government Operations and Politics (8)
-
-**Recent bills sponsored:**
-
-- HR 10409: To address the high costs of health care services, prescription drugs, and health insurance coverage in the United St...
-- HR 9938: Promising Pathway Act 2.0
-- HRES 1467: A resolution calling on Congress, schools, and State and local educational agencies to recognize the significant educ...
-- HR 9533: ESA Amendments Act of 2024
-- HR 8993: Focus on Learning Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

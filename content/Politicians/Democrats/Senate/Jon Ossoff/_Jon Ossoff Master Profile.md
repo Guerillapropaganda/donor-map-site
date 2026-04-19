@@ -160,6 +160,54 @@ donors: [[Tech and Media Donors]] · Tech and Crypto · [[Entertainment and Holl
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 76 |
+| Bills Cosponsored | 237 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (56)
+- Crime and Law Enforcement (33)
+- International Affairs (23)
+- Government Operations and Politics (23)
+- Health (23)
+- Congress (19)
+- Agriculture and Food (19)
+- Taxation (12)
+- Civil Rights and Liberties, Minority Issues (11)
+- Transportation and Public Works (10)
+
+**Enacted into law:**
+
+- S 2359: National Defense Authorization Act for Fiscal Year 2024
+- S 1980: National Defense Authorization Act for Fiscal Year 2024
+- S 1401: Federal Prison Oversight Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 182 |
+| Total Votes Cast | 2,371 |
+
+**Recent bills sponsored:**
+
+- S. 4067: Land Grant Research Prioritization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2102: Ralph David Abernathy, Sr., National Historic Site Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
+- S. 1049: Preventing Child Trafficking Act of 2025 — *This bill passed in the Senate on December 16, 2025 and goes to the House next for consideration.*
+- S. 3459: Support Small Business Growth Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2713: American Energy Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456857) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Jonathan Ossoff. U.S. Senator from Georgia (2021–present). Age 37. Former investigative journalist and documentary filmmaker (2013–2021); managing director of Insight TWI, a London-based investigative production company. Former national security staffer and legislative assistant to U.S. Representative Hank Johnson. 2017: ran in Georgia's 6th Congressional District special election (House race), raising $30 million, then the most expensive House race in history. 2020: ran in Georgia Senate special election/runoff, raising $106.8 million, then the most-funded Senate race in history. Defeated Republican David Perdue in January 2021 runoff. Reelected in 2022. Net worth: ~$500,000–$1 million. Married, no children.
@@ -414,24 +462,6 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
 <!-- auto:influence-cross-ref end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 16 |
-| Bills Cosponsored | 182 |
-| Total Votes Cast | 2,371 |
-
-**Recent bills sponsored:**
-
-- S. 4067: Land Grant Research Prioritization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 2102: Ralph David Abernathy, Sr., National Historic Site Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 4, 2026.*
-- S. 1049: Preventing Child Trafficking Act of 2025 — *This bill passed in the Senate on December 16, 2025 and goes to the House next for consideration.*
-- S. 3459: Support Small Business Growth Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 2713: American Energy Security Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456857) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -460,36 +490,6 @@ Ossoff didn't invent this template, but he has executed it particularly effectiv
 
 ## Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 76 |
-| Bills Cosponsored | 237 |
-| Bills Enacted | 3 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (56)
-- Crime and Law Enforcement (33)
-- International Affairs (23)
-- Government Operations and Politics (23)
-- Health (23)
-- Congress (19)
-- Agriculture and Food (19)
-- Taxation (12)
-- Civil Rights and Liberties, Minority Issues (11)
-- Transportation and Public Works (10)
-
-**Enacted into law:**
-
-- S 2359: National Defense Authorization Act for Fiscal Year 2024
-- S 1980: National Defense Authorization Act for Fiscal Year 2024
-- S 1401: Federal Prison Oversight Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

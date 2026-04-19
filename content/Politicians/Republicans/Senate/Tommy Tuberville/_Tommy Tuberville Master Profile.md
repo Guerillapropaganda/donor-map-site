@@ -128,6 +128,55 @@ donors: [[Defense Industry Bloc]] · Agriculture Bloc
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 228 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (25)
+- Education (23)
+- International Affairs (20)
+- Immigration (18)
+- Congress (17)
+- Agriculture and Food (14)
+- Crime and Law Enforcement (14)
+- Government Operations and Politics (13)
+- Health (13)
+- Finance and Financial Sector (13)
+
+**Recent bills sponsored:**
+
+- S 4816: Alabama Underwater Forest National Marine Sanctuary and Protection Act
+- S 4568: CHIPS Improvement Act
+- S 4506: Workforce DATA Act
+- S 4297: Repealing Big Brother Overreach Act
+- SRES 667: Expressing support for the month of May as "Fallen Heroes Memorial Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 194 |
+| Total Votes Cast | 2,373 |
+
+**Recent bills sponsored:**
+
+- S. 4177: Student Athlete Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 1726: ASSIST Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+- S. 3936: USDA Loan Modernization Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 524: A resolution recognizing the 90th anniversary of the Alabama Highway Patrol and commemorating its history of excellence. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on December 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3121: UBER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Tommy Tuberville. Junior Senator from Alabama (2021–present). Former head football coach at Auburn University (1999–2008), Ole Miss (1995–1998), Texas Tech (2010–2012), and University of Cincinnati (2013–2016). No prior political experience before winning the 2020 Senate race against Democratic incumbent Doug Jones. Member of the Senate Armed Services Committee, Agriculture Committee, and Veterans' Affairs Committee. First-time political candidate who had never held elected office before age 65. Voted to object to the 2020 presidential election certification on January 6, 2021.
@@ -249,23 +298,6 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 - [Slate: Tuberville D-Day/WWII confusion](https://slate.com/news-and-politics/2020/11/alabama-senator-tommy-tuberville-blockhead-interview-wwii-socialism-american-government.html) (Tier 2) (VERIFIED)
 - [Wikipedia: Tommy Tuberville](https://en.wikipedia.org/wiki/Tommy_Tuberville) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 35 |
-| Bills Cosponsored | 194 |
-| Total Votes Cast | 2,373 |
-
-**Recent bills sponsored:**
-
-- S. 4177: Student Athlete Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 1726: ASSIST Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
-- S. 3936: USDA Loan Modernization Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 524: A resolution recognizing the 90th anniversary of the Alabama Highway Patrol and commemorating its history of excellence. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on December 3, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3121: UBER Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -340,38 +372,6 @@ Alabama is the fifth-poorest state in America. 46th in healthcare, 48th in educa
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 21 |
-| Bills Cosponsored | 228 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (25)
-- Education (23)
-- International Affairs (20)
-- Immigration (18)
-- Congress (17)
-- Agriculture and Food (14)
-- Crime and Law Enforcement (14)
-- Government Operations and Politics (13)
-- Health (13)
-- Finance and Financial Sector (13)
-
-**Recent bills sponsored:**
-
-- S 4816: Alabama Underwater Forest National Marine Sanctuary and Protection Act
-- S 4568: CHIPS Improvement Act
-- S 4506: Workforce DATA Act
-- S 4297: Repealing Big Brother Overreach Act
-- SRES 667: Expressing support for the month of May as "Fallen Heroes Memorial Month".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

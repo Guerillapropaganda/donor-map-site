@@ -90,6 +90,16 @@ donors: [[The Thiel Pipeline - From Yale to VP]] · [[Narya Capital and the Vent
 - [GovTrack: JD Vance](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 2 |
+| Total Votes Cast | 700 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 [[_JD Vance Master Profile|JD Vance]] is a venture capitalist and political product manufactured by Silicon Valley's ultra-wealthy donors—primarily [[Peter Thiel|Peter Thiel]]—who needed a charismatic spokesperson for a white-working-class politics that benefits billionaires, not workers. He was elevated through a coordinated pipeline: Thiel fellowship (2011), Yale law school mentorship, [[Mithril Capital|Mithril Capital]] investing (2016-2025), and finally a Senate seat designed as a holding pattern until a VP slot opened.
@@ -227,16 +237,6 @@ The vault's central insight applies directly: **Vance is not a politician with d
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 2 |
-| Total Votes Cast | 700 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456876) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 

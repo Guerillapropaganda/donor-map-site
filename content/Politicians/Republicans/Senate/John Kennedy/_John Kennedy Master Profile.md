@@ -178,6 +178,46 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 84 |
+| Bills Cosponsored | 240 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (35)
+- Crime and Law Enforcement (32)
+- International Affairs (29)
+- Congress (21)
+- Health (19)
+- Commerce (17)
+- Taxation (17)
+- Agriculture and Food (16)
+- Environmental Protection (16)
+- Government Operations and Politics (15)
+
+**Enacted into law:**
+
+- S 1169: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 1,836 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/john_kennedy/406274) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 John Kennedy. Republican Senator from Louisiana since 2017. Former Democrat (switched parties in 2007). Former state treasurer (2000–2017). Serves on Judiciary, Appropriations, Banking, Budget, and Small Business committees. Reelected in 2022, defeating 12 opponents in an open primary with 62% of the vote, avoiding a runoff entirely. Raised $51.6M for the 2019–2024 cycle with $15.9M cash on hand at cycle's end. Oxford and University of Virginia law degrees. Next election: 2028.
@@ -306,18 +346,6 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 1,836 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/john_kennedy/406274) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 
@@ -357,30 +385,6 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 2 |
-| Purchases | 1 |
-| Sales | 0 |
-| Exchanges | 1 |
-| Est. Value Range | $2,002 – $30,000 |
-
-**Top tickers traded:** MTUM
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 10/11/2018 | MTUM | Purchase | $1,001 - $15,000 | Self |
-| 10/09/2018 | -- | exchange | $1,001 - $15,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -410,86 +414,10 @@ Kennedy's class position is the populist brand as capital shield. The folksy per
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **ConocoPhillips** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Banking**
-
-**Donors who lobby (by spend):**
-
-- [[ConocoPhillips]] — $17.9M lobbying spend (Clean Air and Water (quality), Energy/Nuclear, Environment/Superfund)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-09 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Key Votes**
-
-| 1960-09-01 | HR. 4384.  KERR MOTION TO TABLE COTTON AMEND. (ABOVE). | **Not Voting** | unknown |
-| 1960-09-01 | HR. 4384.  CLARK AMEND. (ABOVE). | **Not Voting** | unknown |
-| 1960-09-01 | HR. 13062.  EXTEND SUGAR ACT AND AUTHORIZE PRES. TO CUT THE SUGAR QUOTA OF THE DOMINICAN REPUBLIC, PROVIDED THE OAS VOTE | **Not Voting** | unknown |
-| 1960-09-01 | HR. 4384.  JOHNSON MOTION TO RESUME CONSIDERATION OF THE BILL. | **Not Voting** | unknown |
-| 1960-09-01 | HR. 4384.  AMEND THE TARIFF ACT OF 1930 TO PROVIDE FOR THE FREE IMPORTATION OF CERTAIN RELIGIOUS ARTICLES. KEATING MOTIO | **Not Voting** | unknown |
-| 1960-08-29 | HR. 13161.  SECOND SUPPLEMENTAL APPROPRIATION ACT FOR FISCAL 1961.  COMMITTEE AMENDMENTS PROVIDING $190 MILLION FOR THE  | **Yea** | unknown |
-| 1960-08-29 | S.RES. 334.  EXPRESSING THE SENSE OF THE SENATE THAT THE PRES. SHOULD NOT MAKE RECESS APPOINTMENTS TO THE SUPREME COURT, | **Nay** | unknown |
-| 1960-08-29 | HR. 12580.  SOCIAL SECURITY AMENDMENTS OF 1960. ADOPTION OF CONFERENCE REPORT. | **Yea** | unknown |
-| 1960-08-29 | HR. 13161.  SECOND SUPPLEMENTAL APPROPRIATION ACT, PROVIDING $305,042,731 FOR VARIOUS AGENCIES AND PROGRAMS. | **Yea** | unknown |
-| 1960-08-29 | S. 3713 (HR 13053) BILL TO INCREASE SALARIES OF D.C. POLICE, FIREMAN AND U.S. PARK AND WHITE HOUSE POLICE 7 AND 1/2 PERC | **Yea** | unknown |
-| 1960-08-29 | S.RES. 334.  ADOPTION OF THE RESOLUTION. | **Yea** | unknown |
-| 1960-08-26 | HR. 12619.  ADOPTION OF CONFERENCE REPORT. | **Yea** | unknown |
-| 1960-08-24 | HR. 12619.  MUTUAL SECURITY AND RELATED AGENCIES APPROPRIATIONS FOR FISCAL 1961. | **Yea** | unknown |
-| 1960-08-23 | HR. 12580.  ANDERSON AMEND. PROVIDING MEDICAL BENEFITS FOR ALL SOCIAL SECURITY RETIREES 68 AND OVER, TO BE FINANCED BY A | **Yea** | unknown |
-| 1960-08-23 | HR. 12580.  LONG AMEND. TO INCLUDE COVERAGE OF MENTAL AND TUBERCULOSIS PATIENTS IN STATE PROGRAMS FOR THE MEDICAL- LY NE | **Yea** | unknown |
-
-**Sources**
-
-- [GovTrack: John Kennedy](https://www.govtrack.us/congress/members/406274) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 84 |
-| Bills Cosponsored | 240 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Finance and Financial Sector (35)
-- Crime and Law Enforcement (32)
-- International Affairs (29)
-- Congress (21)
-- Health (19)
-- Commerce (17)
-- Taxation (17)
-- Agriculture and Food (16)
-- Environmental Protection (16)
-- Government Operations and Politics (15)
-
-**Enacted into law:**
-
-- S 1169: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

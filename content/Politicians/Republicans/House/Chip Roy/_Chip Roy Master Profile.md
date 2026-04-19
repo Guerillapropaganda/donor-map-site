@@ -182,6 +182,56 @@ SORT title ASC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 49 |
+| Bills Cosponsored | 682 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (102)
+- Government Operations and Politics (96)
+- Health (81)
+- Congress (78)
+- Agriculture and Food (43)
+- Labor and Employment (42)
+- Environmental Protection (35)
+- Public Lands and Natural Resources (33)
+- Education (22)
+- Commerce (18)
+
+**Recent bills sponsored:**
+
+- HR 10462: To modify a provision relating to adjustments of certain State apportionments for Federal highway programs, and for o...
+- HR 10446: Disaster Offset and Government Efficiency Act
+- HRES 1336: Calling on Vice President Kamala Harris to convene and mobilize the principal officers of the executive departments o...
+- HR 8672: Smarter Sentencing Act of 2023
+- HJRES 160: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 48 |
+| Bills Cosponsored | 125 |
+| Total Votes Cast | 3,663 |
+
+**Recent bills sponsored:**
+
+- H.R. 8064: To amend title 18, United States Code, to provide for sentencing of three strikes offenders. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7776: Highway Formula Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1057: Providing for consideration of the bill (S. 1383) to establish the Veterans Advisory Committee on Equal Access, and for  — *This simple resolution was agreed to on February 11, 2026. That is the end of the legislative process for a simple resolution.*
+- H.R. 7296: SAVE America Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 30, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 2159: Count the Crimes to Cut Act — *This bill passed in the House on December 1, 2025 and goes to the Senate next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412826) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Chip Roy. Republican Representative from Texas's 21st District (Austin suburbs to San Antonio). First elected 2018. Former chief of staff to Senator [[_Ted Cruz Master Profile|Ted Cruz]] and former First Assistant Attorney General of Texas under Ken Paxton. Freedom Caucus member. Serves on Judiciary, Rules, and Budget committees.
@@ -342,24 +392,6 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 48 |
-| Bills Cosponsored | 125 |
-| Total Votes Cast | 3,663 |
-
-**Recent bills sponsored:**
-
-- H.R. 8064: To amend title 18, United States Code, to provide for sentencing of three strikes offenders. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7776: Highway Formula Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1057: Providing for consideration of the bill (S. 1383) to establish the Veterans Advisory Committee on Equal Access, and for  — *This simple resolution was agreed to on February 11, 2026. That is the end of the legislative process for a simple resolution.*
-- H.R. 7296: SAVE America Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 30, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 2159: Count the Crimes to Cut Act — *This bill passed in the House on December 1, 2025 and goes to the Senate next for consideration.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412826) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -399,38 +431,6 @@ The class math is straightforward. Roy supports making the 2017 tax cuts permane
 ## Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 49 |
-| Bills Cosponsored | 682 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (102)
-- Government Operations and Politics (96)
-- Health (81)
-- Congress (78)
-- Agriculture and Food (43)
-- Labor and Employment (42)
-- Environmental Protection (35)
-- Public Lands and Natural Resources (33)
-- Education (22)
-- Commerce (18)
-
-**Recent bills sponsored:**
-
-- HR 10462: To modify a provision relating to adjustments of certain State apportionments for Federal highway programs, and for o...
-- HR 10446: Disaster Offset and Government Efficiency Act
-- HRES 1336: Calling on Vice President Kamala Harris to convene and mobilize the principal officers of the executive departments o...
-- HR 8672: Smarter Sentencing Act of 2023
-- HJRES 160: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rul...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

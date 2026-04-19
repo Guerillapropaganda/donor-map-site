@@ -166,6 +166,68 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 175 |
+| Bills Enacted | 4 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Native Americans (30)
+- Health (28)
+- International Affairs (14)
+- Taxation (14)
+- Congress (14)
+- Economics and Public Finance (12)
+- Armed Forces and National Security (12)
+- Finance and Financial Sector (11)
+- Crime and Law Enforcement (11)
+- Government Operations and Politics (8)
+
+**Enacted into law:**
+
+- HR 10515: American Relief Act, 2025
+- HRES 583: National Defense Authorization Act for Fiscal Year 2024
+- HRES 456: Fiscal Responsibility Act of 2023
+- HRES 582: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 80 |
+| Total Votes Cast | 14,974 |
+
+**Recent bills sponsored:**
+
+- H.R. 7147: Further Additional Continuing Appropriations Act, 2026 — *This bill passed in the Senate and the House, but the House made changes and sent it back to the Senate on March 27, 2026.*
+- H.R. 7744: Department of Homeland Security Appropriations Act, 2026 — *This bill passed in the House on March 5, 2026 and goes to the Senate next for consideration.*
+- H.R. 7490: Tribal Warrant Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7148: Consolidated Appropriations Act, 2026 — *This bill was enacted after being signed by the President on February 3, 2026.*
+- H.R. 7325: Truth and Healing Commission on Indian Boarding School Policies Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400077) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Tom Cole. Republican, Oklahoma's 4th Congressional District (Norman, Lawton, southern Oklahoma City suburbs — home to Fort Sill, Tinker Air Force Base, and the Chickasaw Nation). First elected 2002. Chairman, House Appropriations Committee — elected to the gavel April 2024, making him the first Native American and first Oklahoman to control the spending committee. Former Chairman of the NRCC (2006-2008). Former RNC Chief of Staff (1999-2001). Member of the Chickasaw Nation — the longest-serving Native American in the history of the U.S. House of Representatives.
@@ -307,55 +369,7 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 0 of 1 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Appropriations**
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 14 |
-| Bills Cosponsored | 80 |
-| Total Votes Cast | 14,974 |
-
-**Recent bills sponsored:**
-
-- H.R. 7147: Further Additional Continuing Appropriations Act, 2026 — *This bill passed in the Senate and the House, but the House made changes and sent it back to the Senate on March 27, 2026.*
-- H.R. 7744: Department of Homeland Security Appropriations Act, 2026 — *This bill passed in the House on March 5, 2026 and goes to the Senate next for consideration.*
-- H.R. 7490: Tribal Warrant Fairness Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7148: Consolidated Appropriations Act, 2026 — *This bill was enacted after being signed by the President on February 3, 2026.*
-- H.R. 7325: Truth and Healing Commission on Indian Boarding School Policies Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400077) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -393,37 +407,6 @@ Cole's personal net worth grew from $3.2 million in 2008 to $9.4 million in 2024
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 31 |
-| Bills Cosponsored | 175 |
-| Bills Enacted | 4 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Native Americans (30)
-- Health (28)
-- International Affairs (14)
-- Taxation (14)
-- Congress (14)
-- Economics and Public Finance (12)
-- Armed Forces and National Security (12)
-- Finance and Financial Sector (11)
-- Crime and Law Enforcement (11)
-- Government Operations and Politics (8)
-
-**Enacted into law:**
-
-- HR 10515: American Relief Act, 2025
-- HRES 583: National Defense Authorization Act for Fiscal Year 2024
-- HRES 456: Fiscal Responsibility Act of 2023
-- HRES 582: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

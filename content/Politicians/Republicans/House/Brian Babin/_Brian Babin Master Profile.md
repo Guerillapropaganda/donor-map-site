@@ -166,6 +166,38 @@ donors:
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 13 |
+| Bills Cosponsored | 392 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (51)
+- Immigration (44)
+- International Affairs (43)
+- Crime and Law Enforcement (36)
+- Government Operations and Politics (34)
+- Armed Forces and National Security (23)
+- Taxation (19)
+- Energy (16)
+- Finance and Financial Sector (15)
+- Education (15)
+
+**Recent bills sponsored:**
+
+- HR 9680: RIDER Act
+- HR 8999: Dialysis-Related Amyloidosis Treatment Act of 2024
+- HR 7739: Remain in Canada Act of 2024
+- HRES 1078: A resolution recognizing the 75th anniversary of the National Institute of Dental and Craniofacial Research and its c...
+- HR 6612: Birthright Citizenship Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Brian Babin represents Texas's 36th Congressional District (southeast Texas — Beaumont, Orange, Jasper, Liberty County, parts of Harris County) and is Chairman of the House Science, Space, and Technology Committee. He has served in Congress since 2015.
@@ -282,38 +314,6 @@ The donor-class interest is structural: Babin's district IS the fossil fuel refi
 - [Ballotpedia: Brian Babin](https://ballotpedia.org/Brian_Babin) (Tier 3) (VERIFIED)
 - [Wikipedia: Brian Babin](https://en.wikipedia.org/wiki/Brian_Babin) (Tier 3) (VERIFIED)
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 13 |
-| Bills Cosponsored | 392 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (51)
-- Immigration (44)
-- International Affairs (43)
-- Crime and Law Enforcement (36)
-- Government Operations and Politics (34)
-- Armed Forces and National Security (23)
-- Taxation (19)
-- Energy (16)
-- Finance and Financial Sector (15)
-- Education (15)
-
-**Recent bills sponsored:**
-
-- HR 9680: RIDER Act
-- HR 8999: Dialysis-Related Amyloidosis Treatment Act of 2024
-- HR 7739: Remain in Canada Act of 2024
-- HRES 1078: A resolution recognizing the 75th anniversary of the National Institute of Dental and Craniofacial Research and its c...
-- HR 6612: Birthright Citizenship Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

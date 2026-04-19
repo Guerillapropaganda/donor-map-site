@@ -181,6 +181,55 @@ donors: [[SEIU - Service Employees International Union|SEIU]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 18 |
+| Bills Cosponsored | 202 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (25)
+- Health (25)
+- Labor and Employment (23)
+- Government Operations and Politics (22)
+- Armed Forces and National Security (16)
+- Civil Rights and Liberties, Minority Issues (15)
+- Environmental Protection (9)
+- International Affairs (9)
+- Finance and Financial Sector (8)
+- Taxation (8)
+
+**Recent bills sponsored:**
+
+- HR 9137: LET’S Protect Workers Act
+- HR 8907: Virginia Plan to Reduce Gun Violence Act of 2024
+- HR 7522: To amend the America's Conservation Enhancement Act to reauthorize the Chesapeake WILD program.
+- HR 6581: Protecting Older Workers Against Discrimination Act
+- HR 5511: Opening Doors for Youth Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 154 |
+| Total Votes Cast | 20,833 |
+
+**Recent bills sponsored:**
+
+- H.R. 7340: Rebuild America’s Schools Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6893: Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and Science (WATERS) Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6597: LET’S Protect Workers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5740: WIC Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 4862: LOAN Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Bobby Scott has represented Virginia's 3rd Congressional District since 1993 — over three decades. He was the first Black congressman from Virginia since Reconstruction. His district spans the Hampton Roads region: Norfolk, Newport News, and parts of Richmond. It's a majority-minority district anchored by military installations (Naval Station Norfolk, Newport News Shipbuilding) and historically Black communities.
@@ -298,23 +347,6 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - [NPR: PRO Act Passes House, Stalls in Senate (2021)](https://www.npr.org/2021/03/09/975259434/house-democrats-pass-bill-that-would-protect-worker-organizing-efforts) (Tier 2) (VERIFIED)
 - [Ballotpedia: Bobby Scott](https://ballotpedia.org/Bobby_Scott) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 17 |
-| Bills Cosponsored | 154 |
-| Total Votes Cast | 20,833 |
-
-**Recent bills sponsored:**
-
-- H.R. 7340: Rebuild America’s Schools Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6893: Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and Science (WATERS) Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 18, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6597: LET’S Protect Workers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5740: WIC Benefits Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 4862: LOAN Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -335,72 +367,9 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 - {{src:src_006315}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $415,325 |
-| Individual Contributions | $213,882 |
-| PAC Contributions | $182,341 |
-| Cash on Hand | 158104.85 |
-| IE Support (Super PAC) | $11,762 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $415,325 | $213,882 | $182,341 |
-| 2024 | $869,637 | $351,896 | $483,757 |
-| 2022 | $851,699 | $312,225 | $497,700 |
-| 2020 | $875,926 | $187,435 | $653,550 |
-| 2018 | $653,415 | $150,593 | $459,669 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| NATIONAL COMMITTEE TO PRESERVE SOCIAL SECURITY PAC | $0 | $11,357 |
-| UNITED WE CAN | $4,631 | $0 |
-| DEMOCRATIC PARTY OF VIRGINIA | $4,606 | $0 |
-| SOUTHERN STATES POLICE BENEVOLENT ASSOC PAC FUND | $984 | $0 |
-| TOGETHER WE THRIVE | $750 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Bobby Scott](https://www.govtrack.us/congress/members/400364) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -446,37 +415,6 @@ Scott proves that alignment with workers is possible and insufficient. The labor
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | VA |
-| Chamber | House |
-| Bills Sponsored | 331 |
-| Bills Cosponsored | 4486 |
-
-**Policy areas:** Agriculture and Food, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Environmental Protection, Families, Health, Labor and Employment, Public Lands and Natural Resources, Sports and Recreation, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 7340 | Rebuild America’s Schools Act of 2026 | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 6893 | Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and S… | Subcommittee Hearings Held |
-| 6597 | LET’S Protect Workers Act | Referred to the Committee on Education and Workforce, and in addition to the Committees on Oversight and Government Reform, and House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5740 | WIC Benefits Protection Act | Referred to the House Committee on Education and Workforce. |
-| 4862 | LOAN Act | Referred to the Committee on Education and Workforce, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 4771 | Transformation to Competitive Integrated Employment Act | Referred to the House Committee on Education and Workforce. |
-| 4418 | Child Care for Working Families Act | Referred to the House Committee on Education and Workforce. |
-| 3997 | Protecting Children Act | Referred to the House Committee on Education and Workforce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/S000185) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -513,69 +451,7 @@ _No committee data found._
 - {{src:src_006327}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $290,963 |
-| Total Spent | $358,184 |
-| Cash on Hand | 95642.17 |
-| Debt | 3191.43 |
-| Individual Contributions | $131,043 |
-| PAC Contributions | $143,341 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $290,963 | $358,184 | 95642.17 |
-| 2024 | $869,637 | $899,213 | 162841.47 |
-| 2022 | $851,699 | $856,030 | 192336.91 |
-| 2020 | $875,926 | $837,219 | 210393.19 |
-| 2018 | $653,415 | $615,208 | 148742.68 |
-| 2016 | $771,224 | $765,805 | 110924.80 |
-| ... | 13 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6VA01117/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 18 |
-| Bills Cosponsored | 202 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Crime and Law Enforcement (25)
-- Health (25)
-- Labor and Employment (23)
-- Government Operations and Politics (22)
-- Armed Forces and National Security (16)
-- Civil Rights and Liberties, Minority Issues (15)
-- Environmental Protection (9)
-- International Affairs (9)
-- Finance and Financial Sector (8)
-- Taxation (8)
-
-**Recent bills sponsored:**
-
-- HR 9137: LET’S Protect Workers Act
-- HR 8907: Virginia Plan to Reduce Gun Violence Act of 2024
-- HR 7522: To amend the America's Conservation Enhancement Act to reauthorize the Chesapeake WILD program.
-- HR 6581: Protecting Older Workers Against Discrimination Act
-- HR 5511: Opening Doors for Youth Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

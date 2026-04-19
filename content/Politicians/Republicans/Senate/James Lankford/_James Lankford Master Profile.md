@@ -173,6 +173,35 @@ donors:
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 63 |
+| Bills Cosponsored | 434 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (54)
+- Health (50)
+- Government Operations and Politics (48)
+- Education (32)
+- Taxation (32)
+- Armed Forces and National Security (31)
+- Crime and Law Enforcement (30)
+- Immigration (25)
+- Environmental Protection (21)
+- Congress (20)
+
+**Enacted into law:**
+
+- S 349: National Defense Authorization Act for Fiscal Year 2024
+- S 5314: A bill to designate the medical center of the Department of Veterans Affairs in Tulsa, Oklahoma, as the James Mountai...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 James Lankford is the senior senator from Oklahoma and chairs the Senate Select Committee on Ethics. He also serves on the Finance Committee, the Homeland Security and Governmental Affairs Committee, and the Indian Affairs Committee. He has served in the Senate since 2015, after representing Oklahoma's 5th Congressional District in the House (2011-2015).
@@ -352,35 +381,6 @@ The pastoral background completes the picture. Lankford ran the largest Christia
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 63 |
-| Bills Cosponsored | 434 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (54)
-- Health (50)
-- Government Operations and Politics (48)
-- Education (32)
-- Taxation (32)
-- Armed Forces and National Security (31)
-- Crime and Law Enforcement (30)
-- Immigration (25)
-- Environmental Protection (21)
-- Congress (20)
-
-**Enacted into law:**
-
-- S 349: National Defense Authorization Act for Fiscal Year 2024
-- S 5314: A bill to designate the medical center of the Department of Veterans Affairs in Tulsa, Oklahoma, as the James Mountai...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

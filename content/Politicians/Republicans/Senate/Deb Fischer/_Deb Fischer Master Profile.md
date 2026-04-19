@@ -171,6 +171,66 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 40 |
+| Bills Cosponsored | 304 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (37)
+- International Affairs (35)
+- Congress (28)
+- Transportation and Public Works (24)
+- Armed Forces and National Security (24)
+- Government Operations and Politics (21)
+- Taxation (19)
+- Agriculture and Food (18)
+- Crime and Law Enforcement (18)
+- Environmental Protection (14)
+
+**Enacted into law:**
+
+- S 1659: FAA Reauthorization Act of 2024
+- S 3230: Winnebago Land Transfer Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 154 |
+| Total Votes Cast | 4,851 |
+
+**Recent bills sponsored:**
+
+- S. 629: Emergency Conservation Program Improvement Act of 2025 — *This bill passed in the Senate on March 24, 2026 and goes to the House next for consideration.*
+- S. 4151: Unfunded Mandates Accountability and Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 2585: MAP for Broadband Funding Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S. 3802: Foster Care Stabilization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 592: A resolution supporting the designation of 2026 as the “International Year of the Woman Farmer” to recognize and honor t — *This simple resolution was agreed to on January 29, 2026. That is the end of the legislative process for a simple resolution.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412556) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Deb Fischer is the senior senator from Nebraska and chairs the Senate Armed Services Subcommittee on Strategic Forces — the subcommittee with jurisdiction over U.S. Strategic Command (STRATCOM, headquartered at Offutt Air Force Base in Nebraska), the nuclear triad, missile defense, and the Department of Energy's nuclear weapons programs. She also sits on the Commerce Committee and the Agriculture Committee.
@@ -302,37 +362,6 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 - [Ballotpedia: Deb Fischer](https://ballotpedia.org/Deb_Fischer) (Tier 3) (VERIFIED)
 - [Wikipedia: Deb Fischer](https://en.wikipedia.org/wiki/Deb_Fischer) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 154 |
-| Total Votes Cast | 4,851 |
-
-**Recent bills sponsored:**
-
-- S. 629: Emergency Conservation Program Improvement Act of 2025 — *This bill passed in the Senate on March 24, 2026 and goes to the House next for consideration.*
-- S. 4151: Unfunded Mandates Accountability and Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 2585: MAP for Broadband Funding Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
-- S. 3802: Foster Care Stabilization Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 592: A resolution supporting the designation of 2026 as the “International Year of the Woman Farmer” to recognize and honor t — *This simple resolution was agreed to on January 29, 2026. That is the end of the legislative process for a simple resolution.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Yea | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Yea | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Yea | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Nay | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Nay | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Yea | Motion to Table Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412556) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -398,35 +427,6 @@ The pharmaceutical industry adds a third extraction point: $205,000 in career co
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 40 |
-| Bills Cosponsored | 304 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (37)
-- International Affairs (35)
-- Congress (28)
-- Transportation and Public Works (24)
-- Armed Forces and National Security (24)
-- Government Operations and Politics (21)
-- Taxation (19)
-- Agriculture and Food (18)
-- Crime and Law Enforcement (18)
-- Environmental Protection (14)
-
-**Enacted into law:**
-
-- S 1659: FAA Reauthorization Act of 2024
-- S 3230: Winnebago Land Transfer Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

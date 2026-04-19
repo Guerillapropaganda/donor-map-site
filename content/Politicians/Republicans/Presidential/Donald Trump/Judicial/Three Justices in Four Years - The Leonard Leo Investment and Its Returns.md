@@ -140,7 +140,6 @@ The lower courts matter because the Supreme Court hears approximately 70 cases p
 - [Courthouse News Service. Trump Flips Another Circuit to Majority GOP Appointees](https://www.courthousenews.com/trump-flips-another-circuit-to-majority-gop-appointees/) (Tier 2) (VERIFIED)
 - [SCOTUSblog. Loper Bright Enterprises v. Raimondo (June 28, 2024)](https://www.scotusblog.com/2024/06/supreme-court-strikes-down-chevron-curtailing-power-of-federal-agencies/) (Tier 2) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Committee Assignments (Congress.gov)
 

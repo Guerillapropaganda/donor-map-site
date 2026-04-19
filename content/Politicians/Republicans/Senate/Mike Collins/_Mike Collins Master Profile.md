@@ -113,6 +113,56 @@ donors: [[Fairshake PAC]] [[AIPAC - American Israel Public Affairs Committee]] [
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 162 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (31)
+- Crime and Law Enforcement (25)
+- International Affairs (14)
+- Immigration (11)
+- Congress (11)
+- Taxation (10)
+- Transportation and Public Works (9)
+- Science, Technology, Communications (8)
+- Armed Forces and National Security (8)
+- Health (7)
+
+**Recent bills sponsored:**
+
+- HRES 1438: A resolution condemning the horrific shooting at Apalachee High School in Winder, Georgia, recognizing the victims, a...
+- HR 9197: H.R. 9197, Small Business Artificial Intelligence Advancement Act
+- HR 8603: ROAM Act
+- HJRES 151: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- HR 7511: SUE for Immigration Enforcement Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 206 |
+| Total Votes Cast | 1,711 |
+
+**Recent bills sponsored:**
+
+- H.R. 8079: To prohibit the enforcement of laws relating to the installation, certification, and maintenance of emissions control de — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3679: Small Business Artificial Intelligence Advancement Act — *This bill passed in the House on February 23, 2026 and goes to the Senate next for consideration.*
+- H.R. 3898: PERMIT Act — *This bill passed in the House on December 11, 2025 and goes to the Senate next for consideration.*
+- H.R. 5258: Lawsuit Abuse Reduction Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 4068: Streamlining NEPA for Coal Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on June 23, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456895) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Mike Collins. Republican Senate candidate for Georgia (2026), challenging incumbent Democrat [[_Jon Ossoff Master Profile|Jon Ossoff]]. U.S. Representative (Georgia's 10th congressional district, 2023-present, 2nd term). Background: Trucking company owner (founded with wife Leigh Ann in early 1990s). Age 56 (born July 2, 1967). House voting record: Heritage Action scorecard 98% (2024), aligned with Freedom Caucus on spending/immigration/taxes. Campaign messaging: "send a trucker to the U.S. Senate to steamroll the radical left, deliver on President Trump's America First agenda." Current fundraising: $746K raised (as of early 2026), with concentrated support from three donor blocs: (1) crypto industry including Winklevoss twins ($7K each), [[Elon Musk|Elon Musk]] ($6.6K), SpaceX ($10K); (2) [[AIPAC - American Israel Public Affairs Committee|AIPAC]] and pro-Israel lobby ($20K+); (3) [[Club for Growth|Club for Growth]] (conservative PAC). Self-described cryptocurrency trader with personal portfolio including Ethereum and altcoins (filed up to $745K in crypto trades since entering office). Campaign accepts cryptocurrency donations. Trump relationship: publicly positioning as Trump loyalist; Trump has not yet endorsed in Georgia race. Georgia context: Trump designated Georgia as top priority state to flip Senate seat.
@@ -220,60 +270,10 @@ The class function is clear: Collins provides a Trump-aligned, working-class fac
 - [CNBC: Fairshake PAC $193M+ cash on hand 2026](https://www.cnbc.com/2025/01/30/crypto-pac-fairshake-has-116-million-on-hand-for-2026-elections.html) (Tier 2) (VERIFIED)
 - [Track AIPAC: Georgia congressional delegation AIPAC tracking](https://www.trackaipac.com/states/georgia) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 12 |
-| Bills Cosponsored | 206 |
-| Total Votes Cast | 1,711 |
-
-**Recent bills sponsored:**
-
-- H.R. 8079: To prohibit the enforcement of laws relating to the installation, certification, and maintenance of emissions control de — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3679: Small Business Artificial Intelligence Advancement Act — *This bill passed in the House on February 23, 2026 and goes to the Senate next for consideration.*
-- H.R. 3898: PERMIT Act — *This bill passed in the House on December 11, 2025 and goes to the Senate next for consideration.*
-- H.R. 5258: Lawsuit Abuse Reduction Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 4068: Streamlining NEPA for Coal Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on June 23, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456895) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 11 |
-| Bills Cosponsored | 162 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (31)
-- Crime and Law Enforcement (25)
-- International Affairs (14)
-- Immigration (11)
-- Congress (11)
-- Taxation (10)
-- Transportation and Public Works (9)
-- Science, Technology, Communications (8)
-- Armed Forces and National Security (8)
-- Health (7)
-
-**Recent bills sponsored:**
-
-- HRES 1438: A resolution condemning the horrific shooting at Apalachee High School in Winder, Georgia, recognizing the victims, a...
-- HR 9197: H.R. 9197, Small Business Artificial Intelligence Advancement Act
-- HR 8603: ROAM Act
-- HJRES 151: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
-- HR 7511: SUE for Immigration Enforcement Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

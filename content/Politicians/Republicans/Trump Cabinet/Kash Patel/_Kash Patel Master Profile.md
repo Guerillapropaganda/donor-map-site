@@ -194,7 +194,6 @@ The innovation: money doesn't flow directly from donors to Patel. It flows throu
 - [TechCrunch: FBI is buying location data to track US citizens, director confirms](https://techcrunch.com/2026/03/18/fbi-is-buying-location-data-to-track-us-citizens-kash-patel-wyden/) (Tier 2) (VERIFIED)
 - [The New Republic: Kash Patel Brags That the FBI Is Buying Your Location Data](https://newrepublic.com/post/207944/kash-patel-fbi-buying-location-data) (Tier 2) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ## Committee Assignments (Congress.gov)
 

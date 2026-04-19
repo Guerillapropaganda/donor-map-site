@@ -100,25 +100,6 @@ Continued U.S. arms sales (particularly advanced weapons systems), diplomatic co
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 1 |
-| Sanctions Programs | SDGT |
-| Entity Types | -0- |
-
-**Matched SDN entries:**
-- ISIL-SAUDI ARABIA (-0-) [SDGT]
-  - Remarks: Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886; a.k.a. 'WILAYAT NAJD'; a.k.a. 'NAJD PROVINCE'; a.k.a. 'PROVINCE OF THE TWO HOLY PLACES'; a.k.a. 'A...
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-
-<!-- auto:ofac-sdn pending-merge end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->

@@ -148,6 +148,37 @@ tags: #republican
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 26 |
+| Bills Cosponsored | 196 |
+| Total Votes Cast | 2,709 |
+
+**Recent bills sponsored:**
+
+- H.R. 8084: To direct the Secretary of Health and Human Services to conduct a study and submit to Congress a report on contraceptive — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8083: To allow women greater access to safe and effective oral contraceptive drugs intended for routine use, and to direct the — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8049: End Special Treatment for Congress at Airports Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7498: After Hours Child Care Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7330: DALCI Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456816) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 Ashley Nicole Hinson, born September 19, 1983, is a U.S. Representative from Iowa's 2nd congressional district (2021–present), former Iowa state representative for the 67th district (2017-2021), and former television news anchor. Hinson earned her bachelor's degree in broadcast journalism from the University of Southern California and began her media career at KCRG-TV in Cedar Rapids in 2005, where she spent a decade as an anchor, reporter, and producer—earning two regional Emmy awards. In 2016, she transitioned to politics, winning election to the Iowa House as the first woman to represent the 67th district. In 2020, she won a competitive U.S. House race against Democratic incumbent Abby Finkenauer, establishing herself as a rising Republican star in a purple district. In September 2025, following Republican Sen. [[_Joni Ernst Master Profile|Joni Ernst]]'s retirement announcement, Hinson declared her candidacy for the open Iowa Senate seat. By March 2026, she had established herself as the frontrunner for the Republican primary, endorsing President Trump, securing support from Senate Majority Leader [[_John Thune Master Profile|John Thune]] and NRSC Chair Tim Scott, and receiving backing from the [[Senate Leadership Fund|Senate Leadership Fund]] and Winning for Women super PAC. Her campaign raised $1.68 million in Q4 2025 alone, building a war chest of $4.05+ million by early 2026—significantly outpacing her main Democratic opponents ([[_Zach Wahls Master Profile|Zach Wahls]] and Josh Turek, each in the $1-2M range).
 
@@ -266,67 +297,9 @@ office:: U.S. Representative (IA-02, 2021-present); Senate Candidate (2026)
 state:: IA
 party:: Republican
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 26 |
-| Bills Cosponsored | 196 |
-| Total Votes Cast | 2,709 |
-
-**Recent bills sponsored:**
-
-- H.R. 8084: To direct the Secretary of Health and Human Services to conduct a study and submit to Congress a report on contraceptive — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8083: To allow women greater access to safe and effective oral contraceptive drugs intended for routine use, and to direct the — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8049: End Special Treatment for Congress at Airports Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7498: After Hours Child Care Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7330: DALCI Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456816) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **Aye** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Yea** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Yea** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Yea** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Yea** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **Aye** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Yea** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Yea** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Yea** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Aye** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Aye** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Yea** | Passed |
-
-**Sources**
-
-- [GovTrack: Ashley Hinson](https://www.govtrack.us/congress/members/456816) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -173,6 +173,56 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 92 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (24)
+- Crime and Law Enforcement (10)
+- Health (10)
+- Finance and Financial Sector (8)
+- Labor and Employment (8)
+- Environmental Protection (7)
+- Agriculture and Food (7)
+- Taxation (6)
+- International Affairs (4)
+- Congress (4)
+
+**Recent bills sponsored:**
+
+- HR 9812: Health Care Workforce Investment Act
+- HR 9598: Office of National Drug Control Policy Reauthorization Act of 2024
+- HR 9597: Federal Acquisition Security Council Improvement Act of 2024
+- HRES 1293: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
+- HR 8489: Presidential Ethics Reform Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 67 |
+| Total Votes Cast | 4,920 |
+
+**Recent bills sponsored:**
+
+- H.R. 7248: MARINA Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 1276: To remove restrictions from a parcel of land in Paducah, Kentucky. — *This bill passed in the House on December 9, 2025 and goes to the Senate next for consideration.*
+- H.R. 4366: Save Local Business Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on July 23, 2025.*
+- H.R. 1295: Reorganizing Government Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 25, 2025.*
+- H.R. 1515: GOOD Act — *This bill passed in the House on March 3, 2025 and goes to the Senate next for consideration.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412676) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 James Comer. Republican, Kentucky's 1st District (rural western Kentucky). Born 1972. First elected to Congress in 2016. Chair, House Oversight and Accountability Committee (118th and 119th Congress) — one of only three House committee chairs with unilateral subpoena power, meaning he can issue subpoenas without a committee vote or ranking member consultation.
@@ -312,24 +362,6 @@ On DOGE and government efficiency, Comer has adopted Musk's language wholesale �
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 7 |
-| Bills Cosponsored | 67 |
-| Total Votes Cast | 4,920 |
-
-**Recent bills sponsored:**
-
-- H.R. 7248: MARINA Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 1276: To remove restrictions from a parcel of land in Paducah, Kentucky. — *This bill passed in the House on December 9, 2025 and goes to the Senate next for consideration.*
-- H.R. 4366: Save Local Business Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on July 23, 2025.*
-- H.R. 1295: Reorganizing Government Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 25, 2025.*
-- H.R. 1515: GOOD Act — *This bill passed in the House on March 3, 2025 and goes to the Senate next for consideration.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412676) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -416,38 +448,6 @@ James Richardson Comer Jr. is an American politician from Kentucky who represent
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6131602) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 16 |
-| Bills Cosponsored | 92 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (24)
-- Crime and Law Enforcement (10)
-- Health (10)
-- Finance and Financial Sector (8)
-- Labor and Employment (8)
-- Environmental Protection (7)
-- Agriculture and Food (7)
-- Taxation (6)
-- International Affairs (4)
-- Congress (4)
-
-**Recent bills sponsored:**
-
-- HR 9812: Health Care Workforce Investment Act
-- HR 9598: Office of National Drug Control Policy Reauthorization Act of 2024
-- HR 9597: Federal Acquisition Security Council Improvement Act of 2024
-- HRES 1293: Finding that Merrick Garland, Attorney General of the United States, is in contempt of the House of Representatives f...
-- HR 8489: Presidential Ethics Reform Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

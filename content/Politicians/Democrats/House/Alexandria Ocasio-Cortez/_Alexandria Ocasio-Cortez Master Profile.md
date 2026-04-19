@@ -199,6 +199,56 @@ donors: [[Small Dollar Donors - ActBlue]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 378 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (49)
+- Government Operations and Politics (33)
+- Labor and Employment (32)
+- Civil Rights and Liberties, Minority Issues (27)
+- Crime and Law Enforcement (26)
+- Education (20)
+- Taxation (19)
+- Environmental Protection (19)
+- International Affairs (17)
+- Housing and Community Development (16)
+
+**Recent bills sponsored:**
+
+- HR 9705: Oyster Reef Recovery Act
+- HR 9662: Homes Act of 2024
+- HRES 1353: Impeaching Clarence Thomas, Associate Justice of the Supreme Court of the United States, for high crimes and misdemea...
+- HRES 1354: Impeaching Samuel Alito, Jr., Associate Justice of the Supreme Court of the United States, for high crimes and misdem...
+- HR 7782: Green New Deal for Public Housing Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 323 |
+| Total Votes Cast | 3,663 |
+
+**Recent bills sponsored:**
+
+- H.R. 7917: Fair Wages for Home Care Workers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 398: Geothermal Cost-Recovery Authority Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
+- H.R. 3302: Healthy Start Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 17, 2025.*
+- H.R. 5333: 9/11 Immigrant Worker Freedom Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3562: DEFIANCE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 Alexandria Ocasio-Cortez. Born October 13, 1989, Bronx, New York. Democrat. U.S. Representative for New York's 14th district (2019–present). Member of the Democratic Socialists of America. Graduated cum laude from Boston University in 2011, double major in International Relations and Economics. Interned for Ted Kennedy's immigration casework office during college. Studied abroad in Niger through BU's Niamey International Development program — a USAID-funded initiative that brought ~20 students per semester at its peak. The program was briefly suspended in spring 2010 during the Nigerien coup and resumed fall 2010. [Daily Free Press (BU student newspaper), January 2023](URL NEEDED) (Tier 2). After graduation, returned to the Bronx. Launched Brook Avenue Press, a children's book publishing startup, through the Sunshine Bronx Business Incubator — a city-subsidized co-working space in Hunts Point run by Israeli-American entrepreneurs Joe Raby and Cheni Yerushalmi. Also worked as Lead Educational Strategist at GAGEis, Inc. (Yerushalmi's professional development firm housed in the same incubator). Raby later relocated to Israel and founded Maverick Ventures Israel. When the Times of Israel investigated the connection in October 2020, AOC spokesperson Lauren Hitt said the names "are not ringing a bell with us over here." Raby responded: "Never met her. She was a tenant. That's all." Brook Avenue Press was dissolved by New York State in October 2016 for inactivity; Fox News reported the company owed $1,870 in state taxes. [Times of Israel, October 2020](URL NEEDED) (Tier 2). Bartender and community organizer before entering politics. Defeated 10-term incumbent Joe Crowley in the 2018 primary — one of the largest upsets in modern congressional history. Youngest woman ever elected to Congress at time of election (age 29). No corporate PAC money accepted — ever. 2024 fundraising: raised $9.4 million for her own race, plus an additional $15M in H1 2025 alone with 736,000 individual contributions at ~$20 average. Net worth: modest (negative to low-positive, consistent with no personal wealth before entering politics).
@@ -341,37 +391,6 @@ The class function AOC performs is unique: she demonstrates that the small-dolla
 - [Quiver Quantitative: Q4 2025 Filing](https://www.quiverquant.com/news/Fundraising+Update:+Representative+Alexandria+Ocasio-Cortez+just+disclosed+$3.7M+of+new+fundraising) (Tier 2) (VERIFIED)
 
 #### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 11 |
-| Bills Cosponsored | 378 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (49)
-- Government Operations and Politics (33)
-- Labor and Employment (32)
-- Civil Rights and Liberties, Minority Issues (27)
-- Crime and Law Enforcement (26)
-- Education (20)
-- Taxation (19)
-- Environmental Protection (19)
-- International Affairs (17)
-- Housing and Community Development (16)
-
-**Recent bills sponsored:**
-
-- HR 9705: Oyster Reef Recovery Act
-- HR 9662: Homes Act of 2024
-- HRES 1353: Impeaching Clarence Thomas, Associate Justice of the Supreme Court of the United States, for high crimes and misdemea...
-- HRES 1354: Impeaching Samuel Alito, Jr., Associate Justice of the Supreme Court of the United States, for high crimes and misdem...
-- HR 7782: Green New Deal for Public Housing Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 - ~~[OpenSecrets: AOC Industries Combined](https://www.opensecrets.org/members-of-congress/industries?cycle=2024&type=C)~~ (was Tier 1, OpenSecrets demoted, FEC data preserved)
@@ -449,77 +468,7 @@ _No committee data found for the 119th Congress._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/A000383)~~ (was Tier 1 - wrong bioguide ID from pipeline bug, needs correct ID)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Committees:**
-
-- House Committee on Energy and Commerce
-
-**Subcommittees:**
-
-- Energy
-- Health
-- Oversight and Investigations
-
-- [Source: Congress.gov](https://www.congress.gov/member/O000172) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 7 |
-| Bills Cosponsored | 323 |
-| Total Votes Cast | 3,663 |
-
-**Recent bills sponsored:**
-
-- H.R. 7917: Fair Wages for Home Care Workers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 398: Geothermal Cost-Recovery Authority Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
-- H.R. 3302: Healthy Start Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 17, 2025.*
-- H.R. 5333: 9/11 Immigrant Worker Freedom Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3562: DEFIANCE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 59 |
-| Bills Cosponsored | 1,609 |
-| Total Votes Cast | 3,665 |
-
-**Recent bills sponsored:**
-
-- H.R. 7917: Fair Wages for Home Care Workers Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 398: Geothermal Cost-Recovery Authority Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 5, 2026.*
-- H.R. 3302: Healthy Start Reauthorization Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on September 17, 2025.*
-- H.R. 5333: 9/11 Immigrant Worker Freedom Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on September 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3562: DEFIANCE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collisi… | Yea | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | Yea | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412804) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -556,74 +505,9 @@ _No committee data found for the 119th Congress._
 - {{src:src_001221}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $27,733,215 |
-| Individual Contributions | $8,388,671 |
-| PAC Contributions | $17,050 |
-| Cash on Hand | 14689448.31 |
-| IE Support (Super PAC) | $5,917 |
-| IE Opposition (Super PAC) | $1,323,914 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $27,733,215 | $8,388,671 | $17,050 |
-| 2024 | $15,299,236 | $4,264,081 | $44,883 |
-| 2022 | $12,471,243 | $3,910,643 | $54,935 |
-| 2020 | $21,166,404 | $4,232,825 | $60,690 |
-| 2018 | $2,147,896 | $749,453 | $77,618 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| FUTURE45 | $0 | $633,303 |
-| STOP THE AOC PAC | $0 | $193,069 |
-| HONORING AMERICAN LAW ENFORCEMENT PAC | $0 | $127,500 |
-| LAW ENFORCEMENT FOR A SAFER AMERICA PAC | $0 | $127,500 |
-| KEEP AMERICA AMERICA ACTION FUND | $0 | $81,400 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Alexandria Ocasio-Cortez](https://www.congress.gov/member/f000485) (Tier 1)
-- [GovTrack: Alexandria Ocasio-Cortez](https://www.govtrack.us/congress/members/412804) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -672,37 +556,6 @@ _No committee data found for the 119th Congress._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/O000172)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | NY |
-| Chamber | House |
-| Bills Sponsored | 71 |
-| Bills Cosponsored | 1609 |
-
-**Policy areas:** Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Crime and Law Enforcement, Education, Energy, Environmental Protection, Families, Finance and Financial Sector, Foreign Trade and International Finance, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Law, Public Lands and Natural Resources, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 7917 | Fair Wages for Home Care Workers Act | Referred to the House Committee on Education and Workforce. |
-| 5333 | 9/11 Immigrant Worker Freedom Act | Referred to the House Committee on the Judiciary. |
-| 3562 | DEFIANCE Act of 2025 | Referred to the House Committee on the Judiciary. |
-| 3302 | Healthy Start Reauthorization Act of 2025 | Placed on the Union Calendar, Calendar No. 284. |
-| 1944 | 10 Percent Credit Card Interest Rate Cap Act | Referred to the House Committee on Financial Services. |
-| 398 | Geothermal Cost-Recovery Authority Act of 2025 | Ordered to be Reported by Unanimous Consent. |
-| 360 | Oyster Reef Recovery Act of 2025 | Referred to the House Committee on Natural Resources. |
-| 9705 | Oyster Reef Recovery Act | Referred to the House Committee on Natural Resources. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/O000172) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -729,33 +582,6 @@ _No committee data found for the 119th Congress._
 - {{src:src_001221}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $23,658,045 |
-| Total Spent | $13,983,781 |
-| Cash on Hand | 13408910.09 |
-| Individual Contributions | $6,636,331 |
-| PAC Contributions | $12,050 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $23,658,045 | $13,983,781 | 13408910.09 |
-| 2024 | $15,299,236 | $16,716,493 | 3734646.88 |
-| 2022 | $12,471,243 | $11,344,695 | 5151904.20 |
-| 2020 | $21,166,404 | $17,506,285 | 4025356.26 |
-| 2018 | $2,147,896 | $1,782,302 | 365236.59 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H8NY15148/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 - ~~[Congress.gov: Alexandria Ocasio-Cortez member profile](https://www.congress.gov/member/alexandria-ocasio-cortez/O000172)~~ (was Tier 1 - URL broken, archived by Ops) (Tier 1)
 - ~~[Politico: AOC raised $9.6M in Q1 2025](https://www.politico.com/news/2025/04/15/ocasio-cortez-raised-9-6-million-in-three-months-smashing-her-own-record-00291694)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)
 - ~~[Forbes: Ethics Committee Met Gala ruling](https://www.forbes.com/sites/tylerroush/2025/07/25/alexandria-ocasio-cortez-violated-house-rules-during-met-gala-appearance-ethics-committee-says/)~~ (was Tier 2 - URL broken, archived by Ops) (Tier 2)

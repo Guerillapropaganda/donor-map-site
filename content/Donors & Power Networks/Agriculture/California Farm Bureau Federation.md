@@ -247,30 +247,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 23 |
-| Final Rules | 10 |
-| Proposed Rules | 7 |
-| Notices | 6 |
-| Agencies | Alcohol and Tobacco Tax and Trade Bureau, Commerce Department, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department +7 more |
-
-**Recent regulatory activity:**
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption Relating to Agricultural Water](https://www.federalregister.gov/documents/2021/12/06/2021-26127/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption-relating) (2021-12-06) — Health and Human Services Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/11/10/2021-24365/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-11-10) — Interior Department ★
-- [Endangered and Threatened Wildlife and Plants; Revised Designation of Critical Habitat for the Northern Spotted Owl](https://www.federalregister.gov/documents/2021/01/15/2021-00484/endangered-and-threatened-wildlife-and-plants-revised-designation-of-critical-habitat-for-the) (2021-01-15) — Interior Department ★
-- [Hours of Service of Drivers](https://www.federalregister.gov/documents/2019/08/22/2019-17810/hours-of-service-of-drivers) (2019-08-22) — Transportation Department ★
-- [Amendments To Implement Certain Provisions of the Fixing America's Surface Transportation Act or “FAST Act”](https://www.federalregister.gov/documents/2016/07/22/2016-17114/amendments-to-implement-certain-provisions-of-the-fixing-americas-surface-transportation-act-or-fast) (2016-07-22) — Transportation Department
-- [Improve Tracking of Workplace Injuries and Illnesses](https://www.federalregister.gov/documents/2016/05/12/2016-10443/improve-tracking-of-workplace-injuries-and-illnesses) (2016-05-12) — Labor Department ★
-- ... and 17 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -290,27 +266,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 111 |
-| Courts | Court of Appeals for the Federal Circuit, Court of Appeals for the Ninth Circuit, District Court, C.D. California, District Court, E.D. California, District Court, W.D. Washington, United States Bankruptcy Court, D. Delaware |
-| Case Types | 896 Other Statutes: Arbitration, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Environmental Matters, Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, Racketeer/Corrupt Organization |
-
-**Notable cases:**
-- United Farm Workers v. United States Department of Labor (2025) — District Court, E.D. California
-- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
-- Moreno v. Rivas (2025) — District Court, E.D. California
-- Kohleriter v. U.S. Dept. of Agriculture (2025) — District Court, E.D. California
-- San Luis Obispo Coastkeeper, et al. v. County of San Luis Obispo (2024) — Court of Appeals for the Ninth Circuit
-- Baker Ranches, Inc., et al. v. Haaland, et al. (2024) — Court of Appeals for the Ninth Circuit
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22California%20Farm%20Bureau%20Federation%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -376,26 +331,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Farm%20Bureau%20Federation%22) (Tier 1) (NEEDS REVIEW: page full of text...not sure what it referances)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 291 |
-| Form Types | 10-Q, 485APOS, 485BPOS, 497, 8-K, ARS, EX-2.1, EX-2.2 +8 more |
-
-**Notable filings:**
-
-- 2009-09-28 — **497**: 497
-- 2004-11-05 — **497**: 25144_GMF_497
-- 2001-06-18 — **497**: NATIONWIDE MUTUAL FUNDS       497(E)
-- 2012-09-19 — **497**: 497
-- 2006-08-22 — **8-K**: FORM 8-K DATED AUGUST 21, 2006
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22California%20Farm%20Bureau%20Federation%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -408,19 +343,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q126731054](https://www.wikidata.org/wiki/Q126731054) |
-| Description | corporation with its principal place of business in Auburn, California |
-| Website | [https://www.cfbf.com/](https://www.cfbf.com/) |
-
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q126731054) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -447,33 +369,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
-<!-- auto:fec-donor pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $892,442 |
-| Contributions | 244 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| NRCC | $100,400 | REP |
-| TAKE BACK THE HOUSE CALIFORNIA 2022 | $100,000 | — |
-| BOEHNER FOR SPEAKER | $50,000 | — |
-| MAJORITY COMMITTEE PAC--MC PAC | $32,500 | — |
-| MCCARTHY VICTORY FUND | $30,400 | — |
-| TAKE BACK THE HOUSE 2022 | $25,000 | — |
-| RYAN-MCCARTHY VICTORY | $25,000 | — |
-| FRIENDS OF GLENN THOMPSON | $16,000 | REP |
-| PETERSON FOR CONGRESS | $15,500 | DEM |
-| JIM COSTA FOR CONGRESS | $15,000 | DEM |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=California%20Farm%20Bureau%20Federation) (Tier 1)
-
-<!-- auto:fec-donor pending-merge end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -494,27 +389,6 @@ The Farm Bureau's most revealing feature is what it does not do. It does not adv
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
-<!-- auto:lda-lobbying pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $10.8M |
-| Quarterly Filings | 122 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 56 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Accounting, Agriculture, Banking, Bankruptcy, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Gaming/Gambling/Casino, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Indian/Native American Affairs, Insurance, Labor Issues/Antitrust/Workplace, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medical/Disease Research/Clinical Labs, Medicare/Medicaid, Natural Resources, Pharmacy, Railroads, Retirement, Science/Technology, Small Business, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Torts, Trade (domestic/foreign), Transportation, Trucking/Shipping, Unemployment, Urban Development/Municipalities, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
-
-**Lobbying firms:** ACG ADVOCACY, ALSTON & BIRD LLP, ASSOCIATION OF CALIFORNIA WATER AGENCIES, BGR GOVERNMENT AFFAIRS, BLUE SHIELD OF CALIFORNIA, BRYANT CHRISTIE INC., CALIFORNIA AND NEVADA CREDIT UNION LEAGUES, CALIFORNIA ASSOCIATION OF REALTORS, CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION, CALIFORNIA FORESTRY ASSOCIATION, CALIFORNIA HOSPITAL ASSOCIATION, CALIFORNIA LIFE SCIENCES, CALIFORNIA MEDICAL ASSOCIATION INC., CALIFORNIA STATE UNIVERSITY, CAPITOL CORE GROUP, INC., CARPI & CLAY, INC, CONNECTOR INC., CORNERSTONE GOVERNMENT AFFAIRS, INC., COZEN O'CONNOR PUBLIC STRATEGIES, DENTONS US LLP, DOWNS GOVERNMENT AFFAIRS, DUTKO WORLDWIDE, LLC, EHRLICH & ASSOCIATES, ENS RESOURCES, INC., FONTENOT HEALTH POLICY LLC, FORBES-TATE, GOVERNMENT COUNSEL, LLC, HALEY & ASSOCIATES, HARO SOLUTIONS LLC, HOLLAND & KNIGHT LLP, IMPACT HEALTH POLICY PARTNERS, KANNER & ASSOCIATES, LLC, KING & SPALDING LLP, MARK VARGAS, MCALLISTER & QUINN, LLC, MERCHANT MCINTYRE & ASSOCIATES, LLC, METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA, MG HOUSING STRATEGIES LLC, MO STRATEGIES, INC., NATIONAL GROUP, LLP, NORTHERN CALIFORNIA POWER AGENCY, OLSSON, FRANK, WEEDA, TERMAN & MATZ, PC, ORSO GROUP, PACIFIC ATLANTIC PARTNERS, PAUL V. BEDDOE GOVERNMENT AFFAIRS, LLC, POTOMAC PARTNERS DC, POWERS PYLES SUTTER & VERVILLE, P.C., RBW GROUP, LLC, ROBERTSON, MONAGLE, & EASTAUGH LLC (FKA ROBERTSON, MONAGLE & EASTAUGH PC), SOUTHERN CALIFORNIA PUBLIC RADIO, TELEGRAPH AVENUE ADVISORS, THE MCKEON GROUP, INC., TROUTMAN STATEGIES, TRUMAN KEITH JONES, UNIVERSITY OF CALIFORNIA, UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION
-
-**Agencies contacted:** AMTRAK - Natl Railroad Passenger Corporation, Administration for Children & Families (ACF), Agriculture, Dept of (USDA), Army, Dept of (Corps of Engineers), Bureau of Reclamation, Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Consumer Financial Protection Bureau (CFPB), Council on Environmental Quality (CEQ) +49 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=California%20Farm%20Bureau%20Federation) (Tier 1)
-
-<!-- auto:lda-lobbying pending-merge end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

@@ -168,6 +168,48 @@ donors: Agribusiness Industry · Crop Insurance Lobby · [[UAW - United Auto Wor
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 343 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (103)
+- Armed Forces and National Security (31)
+- Taxation (30)
+- Congress (21)
+- International Affairs (19)
+- Government Operations and Politics (18)
+- Civil Rights and Liberties, Minority Issues (18)
+- Agriculture and Food (17)
+- Education (17)
+- Labor and Employment (12)
+
+**Recent bills sponsored:**
+
+- S 5335: Colorado River Salinity Control Fix Act
+- SRES 775: A resolution designating July 15, 2023, as "National Leiomyosarcoma Awareness Day".
+- S 4693: Revitalizing Downtowns and Main Streets Act
+- S 4192: We Can't Wait Act of 2023
+- SRES 639: A resolution expressing support for the designation of April 2023 as "Parkinson's Awareness Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 10,311 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300093) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 [[_Debbie Stabenow Master Profile|Debbie Stabenow]] served as United States Senator from Michigan from January 2001 to January 2025, a 24-year Senate career capping a 50-year run as an elected official. Born April 29, 1950, in Gladwin, Michigan. B.A. from Michigan State University (1972), M.S.W. from Michigan State (1975). Elected to the Ingham County Board of Commissioners at age 24 (1975–1978), youngest and first woman to chair it. Michigan House of Representatives (1979–1990), first woman to preside over the chamber. Michigan Senate (1991–1994). U.S. House of Representatives, 8th District (1997–2001). Defeated one-term Republican incumbent Spencer Abraham for the Senate in 2000 by 1.5 points. Reelected 2006 (57%), 2012 (59%), 2018 (52%). First woman elected to the U.S. Senate from Michigan. Announced retirement January 5, 2023; succeeded by Elissa Slotkin.
@@ -285,16 +327,6 @@ office:: Senate
 state:: Michigan
 party:: Democrat
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 10,311 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300093) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -326,35 +358,4 @@ party:: Democrat
 
 ## Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 343 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (103)
-- Armed Forces and National Security (31)
-- Taxation (30)
-- Congress (21)
-- International Affairs (19)
-- Government Operations and Politics (18)
-- Civil Rights and Liberties, Minority Issues (18)
-- Agriculture and Food (17)
-- Education (17)
-- Labor and Employment (12)
-
-**Recent bills sponsored:**
-
-- S 5335: Colorado River Salinity Control Fix Act
-- SRES 775: A resolution designating July 15, 2023, as "National Leiomyosarcoma Awareness Day".
-- S 4693: Revitalizing Downtowns and Main Streets Act
-- S 4192: We Can't Wait Act of 2023
-- SRES 639: A resolution expressing support for the designation of April 2023 as "Parkinson's Awareness Month".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

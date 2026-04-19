@@ -150,6 +150,38 @@ top-donors: "[[Duke Energy]], [[American Federation of State County & Municipal 
 
 # Andre Carson
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 899 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (111)
+- International Affairs (70)
+- Government Operations and Politics (68)
+- Crime and Law Enforcement (65)
+- Armed Forces and National Security (60)
+- Civil Rights and Liberties, Minority Issues (54)
+- Taxation (49)
+- Education (46)
+- Labor and Employment (46)
+- Agriculture and Food (43)
+
+**Recent bills sponsored:**
+
+- HR 10205: National Amusement Park Ride Safety Act
+- HR 9649: UNRWA Funding Emergency Restoration Act of 2024
+- HRES 1458: Recognizing the contributions of medical research and observing "Medical Research Week" from September 16 through Sep...
+- HR 8755: Eid Days Act
+- HRES 1036: Expressing support for the designation of February 28, 2023, as "Rare Disease Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Andre Carson. Democrat, Indiana-7 (Indianapolis and surrounding Marion County). First elected 2008 in a special election succeeding his grandmother, Julia Carson, who held the seat for 11 years. One of the first two Muslims elected to Congress (along with Keith Ellison). Born October 1974 in Indianapolis. Indiana University graduate; Indianapolis Metropolitan Police Department, Indiana State Excise Police before Congress. Member of the House Intelligence Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.5% party-line loyalty across 1,692 substantive votes, 42 deviations. IN-7 is a safe Democratic district in a Republican-lean state.
@@ -233,35 +265,4 @@ The 42 deviations at 97.5% loyalty include Nay votes on HRES 893 (Rashida Tlaib 
 **Both-Sides Illusion.** J Street is in Carson's top-donors list (progressive pro-peace); AIPAC is absent. The defense contractors are in his data panel. The donor record shows a member whose identity-politics alignment (Muslim, progressive on Palestinian rights) shapes which pro-Israel donors give to him (J Street yes, AIPAC no) while the institutional defense access giving continues regardless of those identity positions. A replacement member with identical committee assignments but no Palestinian rights advocacy would receive the same defense access giving and different pro-Israel giving.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 20 |
-| Bills Cosponsored | 899 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (111)
-- International Affairs (70)
-- Government Operations and Politics (68)
-- Crime and Law Enforcement (65)
-- Armed Forces and National Security (60)
-- Civil Rights and Liberties, Minority Issues (54)
-- Taxation (49)
-- Education (46)
-- Labor and Employment (46)
-- Agriculture and Food (43)
-
-**Recent bills sponsored:**
-
-- HR 10205: National Amusement Park Ride Safety Act
-- HR 9649: UNRWA Funding Emergency Restoration Act of 2024
-- HRES 1458: Recognizing the contributions of medical research and observing "Medical Research Week" from September 16 through Sep...
-- HR 8755: Eid Days Act
-- HRES 1036: Expressing support for the designation of February 28, 2023, as "Rare Disease Day".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

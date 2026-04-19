@@ -157,6 +157,37 @@ donors: Trump-Aligned Donors · Conservative PACs · [[Crypto Industry Bloc]] ·
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 79 |
+| Bills Cosponsored | 170 |
+| Total Votes Cast | 2,709 |
+
+**Recent bills sponsored:**
+
+- H.R. 8179: To amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the use of funds under the Edward Byrne Mem — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8112: To amend titles II and XVIII of the Social Security Act to limit Social Security and Medicare benefits to certain indivi — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 8015: Incentivizing Cooperation in Immigration Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1100: Directing the Committee on Ethics to preserve and publicly release records of the Committee’s review of violations or al — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7702: Death Penalty for Child Rapists Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456843) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Nancy Mace. U.S. Representative from South Carolina District 1 (2021–present). Age 45. First woman to graduate from The Citadel. Former state representative (2015-2019). Military background (served in U.S. Air Force Reserve). Known for sharp social media presence and visibility-seeking behavior. Mace is the clearest case study of how Republican politician ideology tracks with donor funding: when her funding sources shift, her stated positions flip with mechanical precision.
@@ -345,37 +376,6 @@ The class structure is straightforward. Mace's $8M+ career fundraising has track
 - {{src:src_004084}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 79 |
-| Bills Cosponsored | 170 |
-| Total Votes Cast | 2,709 |
-
-**Recent bills sponsored:**
-
-- H.R. 8179: To amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the use of funds under the Edward Byrne Mem — *This bill is in the first stage of the legislative process. It was introduced into Congress on April 2, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8112: To amend titles II and XVIII of the Social Security Act to limit Social Security and Medicare benefits to certain indivi — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 8015: Incentivizing Cooperation in Immigration Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1100: Directing the Committee on Ethics to preserve and publicly release records of the Committee’s review of violations or al — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7702: Death Penalty for Child Rapists Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456843) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (118th Congress)
 <!-- auto:congress-bills start -->

@@ -155,6 +155,38 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 
 # Elissa Slotkin
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 63 |
+| Bills Cosponsored | 380 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (90)
+- Health (57)
+- Agriculture and Food (37)
+- International Affairs (33)
+- Crime and Law Enforcement (28)
+- Government Operations and Politics (23)
+- Taxation (21)
+- Labor and Employment (20)
+- Civil Rights and Liberties, Minority Issues (16)
+- Immigration (16)
+
+**Enacted into law:**
+
+- HR 5260: National Defense Authorization Act for Fiscal Year 2024
+- HR 2852: National Defense Authorization Act for Fiscal Year 2024
+- HR 5261: National Defense Authorization Act for Fiscal Year 2024
+- HR 5262: National Defense Authorization Act for Fiscal Year 2024
+- HR 6895: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Elissa Slotkin. Democrat, Michigan. Sworn into the US Senate January 2025 after three House terms representing MI-08 and MI-07 (2019 to 2025). Born 1976. Career before elected office: CIA analyst with three tours in Iraq, then political appointee at the Department of Defense, rising to Acting Assistant Secretary of Defense for International Security Affairs under Obama. Her 2024 Senate campaign, defeating former Rep. Mike Rogers (R), was one of the most expensive in Michigan history: FEC records show $24.3 million in super-PAC support and $54.8 million in opposition spending tracked against her. Her top legislative policy area is Armed Forces and National Security, with 90 bills touching defense, 57 health, 37 agriculture, and 33 international affairs across the 118th Congress. Five enacted bills, all NDAA provisions.
@@ -247,38 +279,6 @@ The class function is therefore clear. Slotkin represents the permanent national
 ---
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 63 |
-| Bills Cosponsored | 380 |
-| Bills Enacted | 5 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (90)
-- Health (57)
-- Agriculture and Food (37)
-- International Affairs (33)
-- Crime and Law Enforcement (28)
-- Government Operations and Politics (23)
-- Taxation (21)
-- Labor and Employment (20)
-- Civil Rights and Liberties, Minority Issues (16)
-- Immigration (16)
-
-**Enacted into law:**
-
-- HR 5260: National Defense Authorization Act for Fiscal Year 2024
-- HR 2852: National Defense Authorization Act for Fiscal Year 2024
-- HR 5261: National Defense Authorization Act for Fiscal Year 2024
-- HR 5262: National Defense Authorization Act for Fiscal Year 2024
-- HR 6895: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 <!-- Editorial Class Analysis lives above in the ## Class Analysis section. Placeholder removed 2026-04-19. -->
 

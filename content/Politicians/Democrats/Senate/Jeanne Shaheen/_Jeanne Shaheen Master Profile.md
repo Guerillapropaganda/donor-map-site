@@ -172,6 +172,65 @@ donors: [[BAE Systems]] · [[Raytheon]] · [[Northrop Grumman]] · Sierra Nevada
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 96 |
+| Bills Cosponsored | 463 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (79)
+- Health (79)
+- Armed Forces and National Security (54)
+- Crime and Law Enforcement (35)
+- Taxation (31)
+- Government Operations and Politics (26)
+- Education (24)
+- Commerce (23)
+- Agriculture and Food (20)
+- Congress (20)
+
+**Enacted into law:**
+
+- S 4564: To designate the facility of the United States Postal Service located at 50 East Derry Road in East Derry, New Hampsh...
+- S 3339: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 77 |
+| Bills Cosponsored | 409 |
+| Total Votes Cast | 6,033 |
+
+**Recent bills sponsored:**
+
+- S. 4275: A bill to encourage Hungary to end its reliance on Russian energy and prevent Hungary’s efforts to obstruct financial or — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4257: A bill to apply user fees with respect to tobacco products deemed subject to the requirements of chapter IX of the Feder — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4215: AFFIRM Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4189: A bill to reduce the price of insulin and provide for patient protections with respect to the cost of insulin. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3758: End Veterans Overdose Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
+| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
+| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 [[_Jeanne Shaheen Master Profile|Jeanne Shaheen]] is the senior United States Senator from New Hampshire, serving since January 2009. Born January 28, 1947, in St. Charles, Missouri. B.A. in English from Shippensburg University of Pennsylvania. M.S.S. in political science from the University of Mississippi. Taught high school in Mississippi before moving to New Hampshire in 1973, where she also taught school. New Hampshire State Senate (1990–1996). Governor of New Hampshire (1997–2003), the first woman to serve as governor of the state. Lost a 2002 Senate race to John E. Sununu. Won the 2008 rematch against Sununu. Reelected 2014 (51.6%) and 2020 (57%). First woman in American history elected both governor and U.S. senator. Announced March 12, 2025, that she would not seek reelection in 2026.
@@ -323,30 +382,6 @@ party:: Democrat
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 2 |
-| Donors With Federal Contracts | 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **BAE Systems** donates → Lobbies on **Defense** → This member sits on **Armed Services**
-- **BAE Systems** donates → Lobbies on **Intelligence** → This member sits on **Armed Services**
-- **BAE Systems** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
-
-**Donors who lobby (by spend):**
-
-- [[BAE Systems]] — $10.6M lobbying spend (Budget/Appropriations, Defense, Economics/Economic Development) + $816K in contracts
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -383,36 +418,6 @@ party:: Democrat
 - {{src:src_005363}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 77 |
-| Bills Cosponsored | 409 |
-| Total Votes Cast | 6,033 |
-
-**Recent bills sponsored:**
-
-- S. 4275: A bill to encourage Hungary to end its reliance on Russian energy and prevent Hungary’s efforts to obstruct financial or — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4257: A bill to apply user fees with respect to tobacco products deemed subject to the requirements of chapter IX of the Feder — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4215: AFFIRM Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4189: A bill to reduce the price of insulin and provide for patient protections with respect to the cost of insulin. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3758: End Veterans Overdose Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on March 18, 2026.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-26 | Motion to Invoke Cloture: Motion to Proceed to H.R. 7147 | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-26 | Motion to Invoke Cloture on Husted Amdt. No. 4732 | Nay | Cloture Motion Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 103: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-25 | Upon Reconsideration, Motion to Invoke Cloture Re: Motion to Proceed to H.R. 714… | Nay | Cloture on the Motion to Proceed Rejected |
-| 2026-03-25 | Motion to Proceed on S.J.Res. 107: A joint resolution providing for congressiona… | Yea | Motion to Proceed Rejected |
-| 2026-03-24 | On the Motion to Discharge S.J.Res. 116 | Yea | Motion to Discharge Rejected |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-| 2026-03-24 | On the Motion to Table S. 1383 | Nay | Motion to Table Agreed to |
-
-<!-- auto:govtrack end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -420,35 +425,6 @@ party:: Democrat
 ### Voting Record
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 96 |
-| Bills Cosponsored | 463 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (79)
-- Health (79)
-- Armed Forces and National Security (54)
-- Crime and Law Enforcement (35)
-- Taxation (31)
-- Government Operations and Politics (26)
-- Education (24)
-- Commerce (23)
-- Agriculture and Food (20)
-- Congress (20)
-
-**Enacted into law:**
-
-- S 4564: To designate the facility of the United States Postal Service located at 50 East Derry Road in East Derry, New Hampsh...
-- S 3339: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

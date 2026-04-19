@@ -177,6 +177,69 @@ donors: [[Boeing]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 305 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (43)
+- Health (39)
+- International Affairs (26)
+- Crime and Law Enforcement (22)
+- Government Operations and Politics (21)
+- Civil Rights and Liberties, Minority Issues (19)
+- Transportation and Public Works (18)
+- Taxation (13)
+- Agriculture and Food (12)
+- Labor and Employment (12)
+
+**Recent bills sponsored:**
+
+- HR 10185: To provide authority to contribute to the NATO Innovation Fund.
+- HR 10047: Closing the Substance Use Care Gap Act of 2024
+- HR 9903: Next Generation Military Education Act
+- HR 9871: End Fentanyl Trafficking with Local Task Forces Act of 2024
+- HR 9406: Summer Meals Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 187 |
+| Total Votes Cast | 15,970 |
+
+**Recent bills sponsored:**
+
+- H.R. 6530: AI Training for National Security Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 9, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6451: VA Transit Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6348: Transportation Assistance for Olympic and World Cup Cities Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 2, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6148: Patients Over Paperwork Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 19, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 4855: Veteran Families Health Services Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400232) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Rick Larsen has represented Washington's 2nd Congressional District since 2001 and serves as Ranking Member of the House Transportation and Infrastructure Committee. He previously chaired the Aviation Subcommittee (top Democrat since 2013), the subcommittee with direct FAA oversight authority over Boeing, the largest manufacturer in his state and district.
@@ -338,68 +401,9 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 - {{src:src_005888}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 8 |
-| Bills Cosponsored | 187 |
-| Total Votes Cast | 15,970 |
-
-**Recent bills sponsored:**
-
-- H.R. 6530: AI Training for National Security Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 9, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6451: VA Transit Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 4, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6348: Transportation Assistance for Olympic and World Cup Cities Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 2, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6148: Patients Over Paperwork Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 19, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 4855: Veteran Families Health Services Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on August 1, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400232) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Not Voting** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Not Voting** | Passed |
-
-**Sources**
-
-- [Congress.gov: Rick Larsen](https://www.congress.gov/member/f000485) (Tier 1)
-- [GovTrack: Rick Larsen](https://www.govtrack.us/congress/members/400232) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -429,38 +433,6 @@ The bipartisan protection model makes the class function explicit. Larsen (Democ
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 17 |
-| Bills Cosponsored | 305 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (43)
-- Health (39)
-- International Affairs (26)
-- Crime and Law Enforcement (22)
-- Government Operations and Politics (21)
-- Civil Rights and Liberties, Minority Issues (19)
-- Transportation and Public Works (18)
-- Taxation (13)
-- Agriculture and Food (12)
-- Labor and Employment (12)
-
-**Recent bills sponsored:**
-
-- HR 10185: To provide authority to contribute to the NATO Innovation Fund.
-- HR 10047: Closing the Substance Use Care Gap Act of 2024
-- HR 9903: Next Generation Military Education Act
-- HR 9871: End Fentanyl Trafficking with Local Task Forces Act of 2024
-- HR 9406: Summer Meals Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

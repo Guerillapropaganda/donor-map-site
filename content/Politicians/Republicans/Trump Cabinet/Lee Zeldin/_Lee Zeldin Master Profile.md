@@ -115,6 +115,18 @@ donors: [[Leonard Leo]] · [[Koch Network - Charles Koch]]
 ---
 ---
 
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 4,487 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/lee_zeldin/412646) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Lee Zeldin. EPA Administrator (2025–present, confirmed January 29, 2025). Previously U.S. Representative for New York's 1st District (Long Island, 2015–2023). 2022 New York governor candidate, closest Republican finish since 1994 (46.7% vs. Hochul 53.1%). League of Conservation Voters lifetime score: 14%. Called the EPA's 2009 Endangerment Finding the "'Holy Grail' of the 'climate change religion.'" March 2025: announced 31 deregulatory rollbacks, "the greatest and most consequential day of deregulation in U.S. history." Proposed EPA budget cut: 54.5% ($4.2 billion). Considering firing 50–75% of EPA scientists (770–1,155 of 1,540). Projected impact of 12 of 31 rollbacks: ~200,000 premature deaths through 2050, 100 million additional asthma attacks. Guaranteed "absolutely" no adverse health effects. Congressional donors: oil and gas $410K+, Koch Industries $60K+. Post-government: Zeldin Strategies CEO ($775K salary, $1–5M dividends). Paid by [[Leonard Leo|Leonard Leo]]'s CRC Advisors ($3K+) for op-eds promoting fossil fuel interests. Paid by CGCN Group ($98K) for published and unpublished op-eds in Newsweek, Washington Examiner, Washington Times. Ronald Lauder (World Jewish Congress President): $11M to super PACs for 2022 governor race. Real estate donors: $400K+. [[Tim Dunn|Tim Dunn]] ($2.2B fracking billionaire, America First Policy Institute co-founder): organization Zeldin sat on board of. The fossil fuel industry's man running the agency designed to regulate the fossil fuel industry.
@@ -206,18 +218,6 @@ The 2022 governor race reveals the donor network's full scope. Ronald Lauder, pr
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 4,487 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/lee_zeldin/412646) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 

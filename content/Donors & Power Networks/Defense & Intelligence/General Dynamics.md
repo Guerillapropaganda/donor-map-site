@@ -232,27 +232,6 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense & Military** → Funds **Tammy Duckworth** → Sits on **Armed Services**
-
-**Funded politicians:**
-
-- [[Tammy Duckworth]] (Armed Services) — contracts: $5K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -331,67 +310,6 @@ The final FY2026 bill included **$58.8 million for 4 tanks**, reduced from the f
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Subawards Issued (as prime) | 50 ($5.7B sampled) |
-| Subawards Received (as sub) | 50 ($5.7B sampled) |
-| Top Federal Agency | General Services Administration ($4.5B) |
-| Primary NAICS Sector | Computer Systems Design Services |
-
-**Subcontractors receiving federal money from General Dynamics:**
-
-| Subcontractor | Amount | Awards |
-|---------------|--------|--------|
-| GENERAL DYNAMICS MISSION SYSTEMS, INC. | $3.6B | 28 |
-| GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC. | $1.1B | 10 |
-| GENERAL DYNAMICS-OTS, INC. | $885.1M | 11 |
-| GENERAL DYNAMICS INFORMATION TECHNOLOGY INC | $178.7M | 1 |
-
-**Prime contractors funneling federal money to General Dynamics:**
-
-| Prime Contractor | Amount | Awards |
-|------------------|--------|--------|
-| NORTHROP GRUMMAN SYSTEMS CORPORATION | $3.0B | 18 |
-| LOCKHEED MARTIN CORPORATION | $1.6B | 20 |
-| RAYTHEON COMPANY | $328.4M | 4 |
-| SECURIGENCE LLC | $270.7M | 2 |
-| CACI, INC. - FEDERAL | $223.1M | 2 |
-| LOCKHEED MARTIN CORP | $80.6M | 1 |
-| KBR WYLE SERVICES, LLC | $60.0M | 1 |
-| LEIDOS, INC. | $55.2M | 1 |
-
-**Federal agency spending breakdown:**
-
-| Agency | Amount |
-|--------|--------|
-| General Services Administration | $4.5B |
-| Department of Health and Human Services | $4.2B |
-| Department of Homeland Security | $2.3B |
-| Department of State | $2.1B |
-| Department of Veterans Affairs | $890.2M |
-| Department of Transportation | $862.2M |
-| Department of Commerce | $792.0M |
-| Department of the Interior | $730.4M |
-
-**Federal spending by industry sector (NAICS):**
-
-| Sector | Amount |
-|--------|--------|
-| Computer Systems Design Services (541512) | $9.0B |
-| Ammunition (except Small Arms) Manufacturing (332993) | $6.9B |
-| Custom Computer Programming Services (541511) | $3.3B |
-| Other Computer Related Services (541519) | $1.9B |
-| Computer Facilities Management Services (541513) | $1.8B |
-| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $1.6B |
-| Facilities Support Services (561210) | $1.5B |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-
-<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Federal Spending (USASpending)
 <!-- auto:usaspending start -->

@@ -303,27 +303,6 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Cattlemen's%20Beef%20Association%22&type=r) (Tier 1) (VERIFIED)
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 85 |
-| Courts | Court of Appeals for the D.C. Circuit, Court of Appeals for the Eighth Circuit, Court of Appeals for the Fifth Circuit, Court of Appeals for the Ninth Circuit, District Court, D. North Dakota, District Court, D. Oregon, District Court, D. Utah, District Court, D. Wyoming +2 more |
-| Case Types | 2899 Other Statutes, 2899 Other Statutes - APA Review/Appeal, 2899 Other Statutes APA/Review Agency, 893 Environmental Matters, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision |
-
-**Notable cases:**
-- Rural Empowerment Association for Community Help v. EPA (2025) — Court of Appeals for the D.C. Circuit
-- Texas v. US Dept of the Interior (2025) — Court of Appeals for the Fifth Circuit
-- AMERICAN FARM BUREAU FEDERATION v. UNITED STATES FISH AND WILDLIFE SERVICE (2025) — District Court, District of Columbia
-- American Farm Bureau Federation v. United States Department of the Interior (2024) — District Court, D. Utah
-- Chamber of Commerce of the United States of Americ v. EPA (2024) — Court of Appeals for the D.C. Circuit
-- Shoshone-Bannock Tribes of the Fort Hall Reservati v. USDOI (2023) — Court of Appeals for the Ninth Circuit
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22National%20Cattlemen's%20Beef%20Association%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -343,27 +322,6 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 
 <!-- auto:lda-lobbying end -->
 
-<!-- auto:lda-lobbying pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $3.1M |
-| Quarterly Filings | 143 |
-| Year Range | 2024-2026 |
-| Lobbying Firms | 96 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Advertising, Agriculture, Animals, Arts/Entertainment, Automotive Industry, Aviation/Airlines/Airports, Banking, Budget/Appropriations, Civil Rights/Civil Liberties, Clean Air and Water (quality), Communications/Broadcasting/Radio/TV, Computer Industry, Consumer Issues/Safety/Products, Copyright/Patent/Trademark, Defense, Disaster Planning/Emergencies, Economics/Economic Development, Education, Energy/Nuclear, Environment/Superfund, Family issues/Abortion/Adoption, Financial Institutions/Investments/Securities, Food Industry (safety, labeling, etc.), Fuel/Gas/Oil, Government Issues, Health Issues, Homeland Security, Housing, Immigration, Insurance, Labor Issues/Antitrust/Workplace, Law Enforcement/Crime/Criminal Justice, Manufacturing, Marine/Maritime/Boating/Fisheries, Media (information/publishing), Medicare/Medicaid, Natural Resources, Postal, Retirement, Roads/Highway, Science/Technology, Small Business, Sports/Athletics, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Telecommunications, Tobacco, Trade (domestic/foreign), Transportation, Trucking/Shipping, Utilities, Veterans, Waste (hazardous/solid/interstate/nuclear), Welfare
-
-**Lobbying firms:** A STREET STRATEGIES, ACG ADVOCACY, ACTIVE POLICY SOLUTIONS, LLC, ADAMS AND REESE, LLP, ADAPTIVE GOVERNMENT RELATIONS, ALSTON & BIRD LLP, AMERICAN DEFENSE INTERNATIONAL, INC., APCO WORLDWIDE LLC, ASCEND CONSULTING, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, BAYARD RIDGE GROUP, LLC, BECKER & POLIAKOFF, P.A., BGR GOVERNMENT AFFAIRS, CAPSTONE NATIONAL PARTNERS, CARLOUGH SOLUTIONS, LLC, CJ LAKE, LLC, CONLON PUBLIC STRATEGIES, CONTINENTAL STRATEGY, LLC, CORCORAN STRATEGIES GROUP, CUMBERLAND GAP CONSULTING, LLC, DUTKO GOVERNMENT RELATIONS, EB CONSULTING, FIDELITY NATIONAL INFORMATION SYSTEMS, INC. AND SUBSIDIARIES, FRANZ CONSULTING, LLC, GRAYROBINSON PA, HB STRATEGIES, HOLLAND & KNIGHT LLP, HOLLIER & ASSOCIATES, I STREET ADVOCATES, KLEIN/JOHNSON GROUP, LOBBYIT.COM, LUCAS | COMPTON, MCDERMOTT+ LLC, MEHLMAN CONSULTING, INC., MERCURY PUBLIC AFFAIRS, LLC, MILLER STRATEGIES, LLC, MINDSET ADVOCACY, LLC, MONUMENT ADVOCACY, MORGAN, LEWIS & BOCKIUS, LLP, NATIONAL ACCREDITING COMMISSION OF CAREER ARTS & SCIENCES, NATIONAL AGRICULTURAL AVIATION ASSOCIATION, NATIONAL ASSOCIATION OF CONSUMER ADVOCATES, INC., NATIONAL ASSOCIATION OF GOVERNMENT GUARANTEED LENDERS, INC., NATIONAL ASSOCIATION OF HOUSING COOPERATIVES, NATIONAL ASSOCIATION OF INSURANCE AND FINANCIAL ADVISORS, NATIONAL ASSOCIATION OF POSTAL SUPERVISORS, NATIONAL ASSOCIATION OF SOCIAL WORKERS, NATIONAL ASSOCIATION OF TELECOMMUNICATIONS OFFICERS AND ADVISORS, NATIONAL CANNABIS INDUSTRY ASSOCIATION, NATIONAL CLUB ASSOCIATION, NATIONAL COMMUNITY STABILIZATION TRUST, NATIONAL COOPERATIVE SERVICES CORPORATION, NATIONAL COUNCIL FOR BEHAVIORAL HEALTH, NATIONAL COUNCIL OF HIGHER EDUCATION LOAN PROGRAMS, INC, NATIONAL COUNCIL ON COMPENSATION INSURANCE, INC., NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION, INC., NATIONAL EMERGENCY NUMBER ASSOCIATION, NATIONAL ENVIRONMENTAL STRATEGIES, NATIONAL FIRE PROTECTION ASSOCIATION, NATIONAL FLIGHT TRAINING ALLIANCE, NATIONAL GROUP, LLP, NATIONAL GUILD FOR COMMUNITY ARTS EDUCATION, NATIONAL INDEPENDENT AUTOMOBILE DEALERS ASSOCIATION, NATIONAL INSURANCE CRIME BUREAU, NATIONAL MAIN STREET CENTER, INC., NATIONAL OILHEAT RESEARCH ALLIANCE, NATIONAL ORGANIZATION FOR THE REFORM OF MARIJUANA LAWS, NATIONAL POTATO COUNCIL, NATIONAL RIGHT TO LIFE COMMITTEE, NATIONAL ROOFING CONTRACTORS ASSOCIATION, NATIONAL STAR ROUTE MAIL CONTRACTORS ASSOCIATION, NATIONAL TRUCK EQUIPMENT ASSOCIATION, NATIONAL TRUST FOR HISTORIC PRESERVATION, NATIONAL TURKEY FEDERATION, NATIONAL WASTE & RECYCLING ASSOCIATION, NATURAL RESOURCE RESULTS LLC, NELSON MULLINS RILEY & SCARBOROUGH, OCULUS STRATEGIES, LLC, PHRONESISDC, LLC, POLISPECTIVES, LLC, POTOMAC STRATEGIC CONSULTING LLC, RAGNAR GROUP LLC, REVERE FEDERAL STRATEGIES, RIVER PUBLIC AFFAIRS GROUP, S-3 GROUP, SHUMAKER ADVISORS, LLC, SLEEP, INC., SORINI, SAMET & ASSOCIATES, LLC, THE INGRAM GROUP LLC, THE NICKLES GROUP, LLC, THE RESERVE COMPONENT, THE VOGEL GROUP, THE WAYFINDER GROUP, THEGROUP DC, LLC, VAN SCOYOC ASSOCIATES, VENTURE GOVERNMENT STRATEGIES, LLC (FKA HOBART HALLAWAY & QUAYLE VENTURES, LLC)
-
-**Agencies contacted:** Advisory Council on Historic Preservation (ACHP), Agriculture, Dept of (USDA), American Battle Monuments Commission, Army, Dept of (Corps of Engineers), Bureau of Land Management (BLM), Centers For Disease Control & Prevention (CDC), Centers For Medicare and Medicaid Services (CMS), Commerce, Dept of (DOC), Congressional Budget Office (CBO), Consumer Financial Protection Bureau (CFPB) +60 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=National%20Cattlemen's%20Beef%20Association) (Tier 1)
-
-<!-- auto:lda-lobbying pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -387,30 +345,6 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 71 |
-| Final Rules | 27 |
-| Proposed Rules | 27 |
-| Notices | 17 |
-| Agencies | Agricultural Marketing Service, Agriculture Department, Animal and Plant Health Inspection Service, Commodity Futures Trading Commission, Environmental Protection Agency, Federal Motor Carrier Safety Administration, Federal Trade Commission, Fish and Wildlife Service +4 more |
-
-**Recent regulatory activity:**
-- [Endangered and Threatened Wildlife and Plants; Removal of Northern and Southern Distinct Population Segments of the Lesser Prairie-Chicken From the List of Endangered and Threatened Wildlife in Compliance With Court Order](https://www.federalregister.gov/documents/2026/02/26/2026-03883/endangered-and-threatened-wildlife-and-plants-removal-of-northern-and-southern-distinct-population) (2026-02-26) — Interior Department
-- [Price Discovery and Competition in Markets for Fed Cattle](https://www.federalregister.gov/documents/2024/10/11/2024-23528/price-discovery-and-competition-in-markets-for-fed-cattle) (2024-10-11) — Agriculture Department ★
-- [Use of Electronic Identification Eartags as Official Identification in Cattle and Bison](https://www.federalregister.gov/documents/2024/05/09/2024-09717/use-of-electronic-identification-eartags-as-official-identification-in-cattle-and-bison) (2024-05-09) — Agriculture Department ★
-- [Voluntary Labeling of FSIS-Regulated Products With U.S.-Origin Claims](https://www.federalregister.gov/documents/2024/03/18/2024-05479/voluntary-labeling-of-fsis-regulated-products-with-us-origin-claims) (2024-03-18) — Agriculture Department ★
-- [Inclusive Competition and Market Integrity Under the Packers and Stockyards Act](https://www.federalregister.gov/documents/2024/03/06/2024-04419/inclusive-competition-and-market-integrity-under-the-packers-and-stockyards-act) (2024-03-06) — Agriculture Department ★
-- [Clean Water Act Effluent Limitations Guidelines and Standards for the Meat and Poultry Products Point Source Category](https://www.federalregister.gov/documents/2024/01/23/2023-28498/clean-water-act-effluent-limitations-guidelines-and-standards-for-the-meat-and-poultry-products) (2024-01-23) — Environmental Protection Agency ★
-- ... and 65 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -483,28 +417,6 @@ Ranchers pay $1/head (mandatory checkoff) → funds flow to NCBA ($45.6M in 2020
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 108 |
-| Form Types | 10-K, 10-K/A, 10-K405, 10-Q, 3, 424B1, 424B3, 8-K +16 more |
-| CIK | 310522 |
-| Ticker | FNMA |
-
-**Notable filings:**
-
-- 2026-02-23 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/310522/000031052226000030/0000310522-26-000030-index.htm)
-- 2026-02-12 — **ABS-15G/A**: [FNM FILE 10 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000027/0000310522-26-000027-index.htm)
-- 2026-02-12 — **ABS-15G/A**: [FNM FILE 09 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000026/0000310522-26-000026-index.htm)
-- 2026-02-12 — **ABS-15G/A**: [FNM FILE 08 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000025/0000310522-26-000025-index.htm)
-- 2026-02-12 — **ABS-15G/A**: [FNM FILE 07 OF 10](https://www.sec.gov/Archives/edgar/data/310522/000031052226000024/0000310522-26-000024-index.htm)
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22National%20Cattlemen's%20Beef%20Association%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -523,25 +435,6 @@ National Cattlemen's Beef Association (NCBA) is an American trade association an
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-National Cattlemen's Beef Association (NCBA) is an American trade association and lobbying group working for American beef producers.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q6971302](https://www.wikidata.org/wiki/Q6971302) |
-| Description | advocate group for the cattle industry's policy positions and economic interests |
-| Founded | 1996-01-01 |
-| Website | [http://www.beefusa.org/](http://www.beefusa.org/) |
-| X/Twitter | [@beefusa](https://x.com/beefusa) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/en/thumb/0/05/National_Cattlemans%27_Beef_Association_Logo.JPG/330px-National_Cattlemans%27_Beef_Association_Logo.JPG) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/National_Cattlemen's_Beef_Association) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q6971302) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->

@@ -185,6 +185,64 @@ donors: [[Boeing]] [[Northrop Grumman]] [[Raytheon (RTX)|Raytheon]] [[Lockheed M
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 361 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- Agriculture and Food (30)
+- Labor and Employment (29)
+- Crime and Law Enforcement (28)
+- Civil Rights and Liberties, Minority Issues (26)
+- Government Operations and Politics (23)
+- International Affairs (19)
+- Immigration (18)
+- Environmental Protection (16)
+- Education (16)
+
+**Enacted into law:**
+
+- HR 1049: FAA Reauthorization Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 199 |
+| Bills Cosponsored | 4,972 |
+| Total Votes Cast | 18,371 |
+
+**Recent bills sponsored:**
+
+- H.R. 6281: CHARGE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5859: Behavioral Health Crisis Care Centers Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5807: Empowering Individuals to Succeed Through Education and Workforce Training Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5806: Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 5785: Voluntary Grazing Permit Retirement Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Adam Smith. Democrat, Washington's 9th Congressional District (Redmond to Tacoma — Boeing country). First elected 1996. Ranking Member, House Armed Services Committee — the committee that writes the annual National Defense Authorization Act (NDAA), the single largest discretionary spending bill in the federal budget. Served as chairman 2019-2023. Self-described "raging moderate." Member of the New Democrat Coalition (pro-business caucus). 60% of his campaign donations come from PACs, with defense contractors dominating the pipeline. Created a leadership PAC called ADAM (American Defense & Military) PAC — virtually 100% funded by defense contractors and lobbyists.
@@ -293,43 +351,6 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - ~~{{src:src_006407}}~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,128,650 |
-| Individual Contributions | $641,476 |
-| PAC Contributions | $420,250 |
-| Cash on Hand | 847127.52 |
-| IE Support (Super PAC) | $31,191 |
-| IE Opposition (Super PAC) | $50,926 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $1,128,650 | $641,476 | $420,250 |
-| 2024 | $1,677,916 | $899,896 | $714,400 |
-| 2022 | $1,386,776 | $601,760 | $727,000 |
-| 2020 | $1,327,196 | $523,669 | $776,312 |
-| 2018 | $1,415,994 | $562,795 | $809,946 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| NARAL | $0 | $48,944 |
-| SUSAN B ANTHONY LIST INC | $0 | $39,906 |
-| TOGETHER FOR PROGRESS PAC | $7,797 | $0 |
-| PUGET SOUND ENERGY INC PAC FOR GOOD GOVERNMENT | $6,577 | $0 |
-| THE 60 PLUS ASSOCIATION | $0 | $6,122 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -359,37 +380,6 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | WA |
-| Chamber | House |
-| Bills Sponsored | 232 |
-| Bills Cosponsored | 4981 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Crime and Law Enforcement, Education, Energy, Environmental Protection, Health, Housing and Community Development, Immigration, International Affairs, Labor and Employment, Taxation, Transportation and Public Works
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 6281 | CHARGE Act of 2025 | Referred to the House Committee on Energy and Commerce. |
-| 5859 | Behavioral Health Crisis Care Centers Act of 2025 | Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5807 | Empowering Individuals to Succeed Through Education and Workforce Training Act | Referred to the House Committee on Education and Workforce. |
-| 5806 | Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 | Referred to the House Committee on Education and Workforce. |
-| 5785 | Voluntary Grazing Permit Retirement Act of 2025 | Referred to the House Committee on Natural Resources. |
-| 5532 | To direct the Secretary of Education to establish a program to facilitate the tr… | Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 5531 | Career and Technical Education Access Act | Referred to the House Committee on Education and Workforce. |
-| 5492 | PAAF Act | Referred to the House Committee on the Judiciary. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -406,90 +396,7 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 0 of 2 |
-| Donors With Federal Contracts | 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
-- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **House Committee on Armed Services**
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 199 |
-| Bills Cosponsored | 4,972 |
-| Total Votes Cast | 18,371 |
-
-**Recent bills sponsored:**
-
-- H.R. 6281: CHARGE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5859: Behavioral Health Crisis Care Centers Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5807: Empowering Individuals to Succeed Through Education and Workforce Training Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5806: Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5785: Voluntary Grazing Permit Retirement Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 199 |
-| Bills Cosponsored | 4,981 |
-| Total Votes Cast | 18,376 |
-
-**Recent bills sponsored:**
-
-- H.R. 6281: CHARGE Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5859: Behavioral Health Crisis Care Centers Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 28, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5807: Empowering Individuals to Succeed Through Education and Workforce Training Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5806: Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 21, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 5785: Voluntary Grazing Permit Retirement Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on October 17, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-04-15 | On Motion to Discharge: H.Res. 965: Providing for consideration of the bill (H.R… | Yea | Passed |
-| 2026-04-15 | On Agreeing to the Resolution: H RES 1174 Providing for consideration of the bil… | No | Passed |
-| 2026-04-15 | On Ordering the Previous Question: H RES 1174 Providing for consideration of the… | Nay | Passed |
-| 2026-04-14 | H.R. 7613: To require certain aircraft to be equipped and operating with collisi… | Yea | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | Yea | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400379) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -499,17 +406,6 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Committees:**
-
-- House Committee on Armed Services
-
-- [Source: Congress.gov](https://www.congress.gov/member/S000510) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -538,95 +434,10 @@ Smith publicly supports campaign finance reform, states "corporations are not pe
 - {{src:src_006409}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $786,535 |
-| Total Spent | $659,320 |
-| Cash on Hand | 697967.61 |
-| Individual Contributions | $412,258 |
-| PAC Contributions | $326,250 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $786,535 | $659,320 | 697967.61 |
-| 2024 | $1,677,916 | $1,701,114 | 570752.82 |
-| 2022 | $1,386,776 | $1,378,653 | 593950.77 |
-| 2020 | $1,327,196 | $933,145 | 585827.81 |
-| 2018 | $1,415,994 | $1,623,913 | 191776.67 |
-| 2016 | $925,645 | $1,105,447 | 399695.38 |
-| ... | 10 more cycles available | | |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H6WA09025/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [Congress.gov: Adam Smith](https://www.congress.gov/member/f000485) (Tier 1)
-- [GovTrack: Adam Smith](https://www.govtrack.us/congress/members/400379) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 19 |
-| Bills Cosponsored | 361 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (64)
-- Agriculture and Food (30)
-- Labor and Employment (29)
-- Crime and Law Enforcement (28)
-- Civil Rights and Liberties, Minority Issues (26)
-- Government Operations and Politics (23)
-- International Affairs (19)
-- Immigration (18)
-- Environmental Protection (16)
-- Education (16)
-
-**Enacted into law:**
-
-- HR 1049: FAA Reauthorization Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

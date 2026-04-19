@@ -542,26 +542,6 @@ Six individuals accounted for over $900 million in 2024 election spending. That'
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-10 -->
-> [!attention] Fresh API data available - needs manual merge
-> Bot detected your edits to this section. New data below - fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 4,522 |
-| Form Types | 4, 4/A, 425, 5, 8-K, CORRESP, DEF 14A, DEFA14A +18 more |
-
-**Notable filings:**
-
-- 2022-06-22 - **EX1A-13 TST WTRS**: TESTING THE WATERS MATERIALS RELATING TO SERIES #ELON1
-- 2018-05-09 - **PX14A6G**: PX14A6G
-- 2023-04-24 - **PX14A6N**: PX14A6N
-- 2016-11-02 - **425**: 425
-- 2024-05-21 - **PX14A6G**: PX14A6G
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Elon%20Musk%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Employee Political Contributions (FEC)
 <!-- auto:fec-individual start -->

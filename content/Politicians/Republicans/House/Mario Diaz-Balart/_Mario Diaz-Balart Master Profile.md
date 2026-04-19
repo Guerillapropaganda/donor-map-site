@@ -163,6 +163,34 @@ donors: [[Fanjul Family - Florida Crystals]] · [[AIPAC - American Israel Public
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 143 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (35)
+- Government Operations and Politics (18)
+- Education (12)
+- Armed Forces and National Security (11)
+- Crime and Law Enforcement (10)
+- Taxation (10)
+- Finance and Financial Sector (8)
+- Economics and Public Finance (7)
+- Health (5)
+- Immigration (5)
+
+**Enacted into law:**
+
+- HCONRES 100: Further Consolidated Appropriations Act, 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Mario Diaz-Balart. U.S. Representative, Florida's 26th Congressional District (R). Serving since 2003 — the longest-serving Cuban-American member of Congress. Vice Chair of the House Committee on Appropriations. Chairman of the Subcommittee on National Security, Department of State, and Related Programs (NSRP). Born September 25, 1961, Fort Lauderdale, FL, to Cuban exile parents.
@@ -313,34 +341,6 @@ The family narrative is the rhetorical armor. Diaz-Balart's aunt, Mirta Diaz-Bal
 - {{src:src_004359}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 16 |
-| Bills Cosponsored | 143 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (35)
-- Government Operations and Politics (18)
-- Education (12)
-- Armed Forces and National Security (11)
-- Crime and Law Enforcement (10)
-- Taxation (10)
-- Finance and Financial Sector (8)
-- Economics and Public Finance (7)
-- Health (5)
-- Immigration (5)
-
-**Enacted into law:**
-
-- HCONRES 100: Further Consolidated Appropriations Act, 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

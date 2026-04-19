@@ -190,6 +190,38 @@ donors: [[Labor Unions]] · Corporate PACs · Democratic Leadership PACs
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 31 |
+| Bills Cosponsored | 458 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (101)
+- Crime and Law Enforcement (42)
+- International Affairs (39)
+- Armed Forces and National Security (33)
+- Government Operations and Politics (29)
+- Taxation (28)
+- Labor and Employment (25)
+- Education (23)
+- Civil Rights and Liberties, Minority Issues (20)
+- Agriculture and Food (17)
+
+**Recent bills sponsored:**
+
+- HR 9845: HOPE Act of 2024
+- HR 9844: DELIVER Act of 2024
+- HR 9276: Veteran Caregiver Reeducation, Reemployment, and Retirement Act
+- HR 9222: Summer Meals and Learning Act of 2024
+- HJRES 193: Proposing an amendment to the Constitution of the United States providing that there is no immunity from criminal pro...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 [[_Joseph Morelle Master Profile|Joseph Morelle]] is the U.S. Representative for New York's 25th Congressional District (Rochester area), serving since November 2018. Born April 29, 1957, in Utica, New York. B.A. from SUNY Geneseo. Got his political start as a constituent services representative and legislative aide for State Senator John D. Perry. Elected to the Monroe County Legislature. Elected to the New York State Assembly in 1990, representing the 136th District (eastern Rochester and Monroe County suburbs) for 28 years. Appointed Assembly Majority Leader by Speaker Sheldon Silver in January 2013. Served as acting speaker in the Speaker's absence. Won a special election in November 2018 to succeed the late Louise Slaughter, the longtime progressive champion who held the Rochester seat. Reelected 2020, 2022, and 2024 in a safe Democratic district. Son of a Korean War veteran and lifelong Plumbers and Pipefitters union member.
@@ -350,26 +382,6 @@ party:: Democrat
 
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Committees:**
-
-- House Committee on Appropriations
-- House Committee on House Administration
-- Joint Committee of Congress on the Library
-- Joint Committee on Printing
-
-**Subcommittees:**
-
-- Commerce, Justice, Science, and Related Agencies
-- Defense
-- Modernization and Innovation
-
-- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -399,37 +411,6 @@ party:: Democrat
 
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | NY |
-| Chamber | House |
-| Bills Sponsored | 131 |
-| Bills Cosponsored | 1816 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Civil Rights and Liberties, Minority Issues, Commerce, Congress, Crime and Law Enforcement, Education, Government Operations and Politics, Health, Immigration, International Affairs, Labor and Employment, Science, Technology, Communications, Taxation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 1098 | Expressing support for the designation of March 3, 2026, as "National Triple-Neg… | Referred to the House Committee on Oversight and Government Reform. |
-| 7404 | Fair Repair Act | Referred to the House Committee on Energy and Commerce. |
-| 982 | Providing for consideration of the bill (H.R. 6039) to advance commonsense prior… | Motion to Discharge Committee filed by Mr. Morelle. Petition No: 119-14. (<a href="https://clerk.house.gov/DischargePetition/2026012114">Discharge petition</a> text with signatures.) |
-| 6694 | To designate the facility of the United States Postal Service located at 130 Nor… | Referred to the House Committee on Oversight and Government Reform. |
-| 6471 | Justice in Sentencing for Survivors Act of 2025 | Referred to the House Committee on the Judiciary. |
-| 6307 | Hunger Clearinghouse Enhancement Act of 2025 | Referred to the House Committee on Education and Workforce. |
-| 5918 | Protect Law Enforcement Task Forces Act | Referred to the House Committee on the Judiciary. |
-| 726 | Supporting the recognition of September 16, 2025, as "National Voter Registratio… | Referred to the House Committee on House Administration. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/M001206) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -458,15 +439,6 @@ party:: Democrat
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Joseph Morelle](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -485,38 +457,6 @@ Joseph D. Morelle is an American politician serving as the U.S. representative f
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q6285623) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 31 |
-| Bills Cosponsored | 458 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (101)
-- Crime and Law Enforcement (42)
-- International Affairs (39)
-- Armed Forces and National Security (33)
-- Government Operations and Politics (29)
-- Taxation (28)
-- Labor and Employment (25)
-- Education (23)
-- Civil Rights and Liberties, Minority Issues (20)
-- Agriculture and Food (17)
-
-**Recent bills sponsored:**
-
-- HR 9845: HOPE Act of 2024
-- HR 9844: DELIVER Act of 2024
-- HR 9276: Veteran Caregiver Reeducation, Reemployment, and Retirement Act
-- HR 9222: Summer Meals and Learning Act of 2024
-- HJRES 193: Proposing an amendment to the Constitution of the United States providing that there is no immunity from criminal pro...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

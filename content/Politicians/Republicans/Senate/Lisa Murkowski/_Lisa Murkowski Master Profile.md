@@ -164,6 +164,38 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 294 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (65)
+- Armed Forces and National Security (38)
+- International Affairs (29)
+- Native Americans (25)
+- Energy (17)
+- Congress (16)
+- Public Lands and Natural Resources (16)
+- Crime and Law Enforcement (13)
+- Finance and Financial Sector (12)
+- Taxation (12)
+
+**Recent bills sponsored:**
+
+- S 5081: Arctic Research and Policy Amendments Act of 2024
+- SRES 797: A resolution designating August 16, 2023, as "National Airborne Day".
+- S 4974: A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to reauthorize the National Vol...
+- S 4591: A bill to permanently authorize the exemption of aliens working as fish processors from the numerical limitation on H...
+- S 4573: To extend the obligation deadline of funds made available to recipients under the American Rescue Plan Act for the pu...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Lisa Murkowski is the senior senator from Alaska, serving since 2002. She chairs the Senate Indian Affairs Committee and serves on Energy and Natural Resources, Appropriations, and HELP (Health, Education, Labor, and Pensions). She previously chaired the Energy and Natural Resources Committee (2015-2021), the most powerful energy policy position in the Senate.
@@ -324,38 +356,6 @@ Murkowski genuinely supports climate science, sits on the Climate Solutions Cauc
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 294 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (65)
-- Armed Forces and National Security (38)
-- International Affairs (29)
-- Native Americans (25)
-- Energy (17)
-- Congress (16)
-- Public Lands and Natural Resources (16)
-- Crime and Law Enforcement (13)
-- Finance and Financial Sector (12)
-- Taxation (12)
-
-**Recent bills sponsored:**
-
-- S 5081: Arctic Research and Policy Amendments Act of 2024
-- SRES 797: A resolution designating August 16, 2023, as "National Airborne Day".
-- S 4974: A bill to amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act to reauthorize the National Vol...
-- S 4591: A bill to permanently authorize the exemption of aliens working as fish processors from the numerical limitation on H...
-- S 4573: To extend the obligation deadline of funds made available to recipients under the American Rescue Plan Act for the pu...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

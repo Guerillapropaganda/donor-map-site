@@ -108,6 +108,16 @@ donors: [[Club for Growth]] · [[L3 Technologies]] · [[Northrop Grumman]] · [[
 ---
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 3,345 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412653) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 John Ratcliffe. CIA Director (2025–present, confirmed 74-25). Previously Director of National Intelligence (May 2020–January 2021). Previously U.S. Representative for Texas's 4th District (2015–2020, R+16). Previously mayor of Heath, Texas (population 7,000, 2004–2012). No intelligence community background. First person to hold both DNI and CIA Director positions. Net worth $2–6 million. Post-government consulting income (2021–2024): $2.2 million itemized, including Blackstone ($1.3M), Starlight Futures ($1.2M salary), US Trinity Energy Services ($500K). Advisory board: Latent AI (military AI/ISR contractor, stock options). Heritage Foundation visiting fellow ($80–90K). Congressional donors: defense sector ($110.5K), [[Club for Growth|Club for Growth]] ($111K), L3 Technologies PAC ($28K), AT&T ($10K), Northrop Grumman ($10K). Resume inflation: claimed "dozens" of terrorism investigations and "put terrorists in prison", office could not name any terrorism suspects sent to prison. 2005 admission: "My background isn't in law enforcement and I don't have any real specialized training." Rose to power through Trump impeachment defense, named to Trump's defense team, emerged as "fiercest defender." The intelligence community skeptic who now runs the intelligence community, funded by the defense contractors the intelligence community oversees.
@@ -209,16 +219,6 @@ The resume inflation tells the whole story. Ratcliffe claimed "dozens" of terror
 - [NPR: CIA Director confirmation](https://www.npr.org/2025/01/23/g-s1-44389/john-ratcliffe-cia-director) (Tier 2) (VERIFIED)
 - [FEC: John Ratcliffe contribution records](https://www.fec.gov/data/receipts/?two_year_transaction_period=2026&min_date=01/01/2025&max_date=12/31/2026?_contributors=ratcliffe,+john) (Tier 1) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 3,345 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412653) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

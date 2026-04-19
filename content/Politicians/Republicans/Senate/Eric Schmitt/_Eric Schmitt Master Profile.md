@@ -149,6 +149,38 @@ top-donors: "[[Associated General Contractors of America Political Action Commit
 
 # Eric Schmitt
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 217 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (24)
+- Health (24)
+- Government Operations and Politics (23)
+- International Affairs (18)
+- Crime and Law Enforcement (16)
+- Taxation (16)
+- Armed Forces and National Security (15)
+- Education (15)
+- Immigration (10)
+- Finance and Financial Sector (10)
+
+**Recent bills sponsored:**
+
+- SRES 942: A resolution congratulating the Washington University in St. Louis Bears women's soccer team for winning the 2024 NCA...
+- S 5623: A bill to establish a debt reduction fund to reduce the national debt of the United States.
+- S 5541: A bill to amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, and Respond to Health and Wellne...
+- S 5500: A bill to amend title 5, United States Code, to instruct Inspectors General to report to Congress on social media com...
+- S 5353: National Plan for Epilepsy Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Eric Schmitt. Republican, Missouri. US Senator since January 2023, elected November 2022 defeating Democrat Trudy Busch Valentine. Born June 1975 in Glendale, MO. Saint Louis University Law School graduate. Glendale city alderman, Missouri state senator, Missouri State Treasurer (2017-2021), Missouri Attorney General (2021-2023), then US Senate. As AG: filed over 70 lawsuits against the Biden administration (more than any other state AG), joined multi-state DACA challenges, sued school districts over mask mandates, led multi-state China COVID litigation. Committee assignments not yet in pipeline. 1,433 roll-call votes tracked (118th and 119th Congress). Voting record: 93.4% party-line loyalty across 1,394 substantive votes, 90 deviations. The 90-deviation count is among the higher counts in the Republican Senate cohort and concentrated on nominations and spending votes.
@@ -220,35 +252,4 @@ The Teamsters DRIVE Committee ($15K) and IAFF ($20K) giving to a Republican AG-t
 **Donor-Class Override (deferred).** Schmitt's voting record is too new for documented donor-class overrides: he has 0 bills enacted in the 118th Congress (30 sponsored, 217 cosponsored) and his committee positioning is not yet in the vault. The AFP Action-to-deregulation vote chain requires committee-level analysis. When energy deregulation, insurance market legislation, or financial services regulation comes to the floor in the 119th Congress, Schmitt's vote will either confirm or complicate the AFP Action investment thesis. Flag for 2025-2026 vote analysis.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 217 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Congress (24)
-- Health (24)
-- Government Operations and Politics (23)
-- International Affairs (18)
-- Crime and Law Enforcement (16)
-- Taxation (16)
-- Armed Forces and National Security (15)
-- Education (15)
-- Immigration (10)
-- Finance and Financial Sector (10)
-
-**Recent bills sponsored:**
-
-- SRES 942: A resolution congratulating the Washington University in St. Louis Bears women's soccer team for winning the 2024 NCA...
-- S 5623: A bill to establish a debt reduction fund to reduce the national debt of the United States.
-- S 5541: A bill to amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, and Respond to Health and Wellne...
-- S 5500: A bill to amend title 5, United States Code, to instruct Inspectors General to report to Congress on social media com...
-- S 5353: National Plan for Epilepsy Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

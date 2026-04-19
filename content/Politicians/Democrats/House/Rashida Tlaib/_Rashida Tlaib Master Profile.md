@@ -207,6 +207,54 @@ SORT title ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 922 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (145)
+- Civil Rights and Liberties, Minority Issues (67)
+- Crime and Law Enforcement (58)
+- International Affairs (58)
+- Taxation (56)
+- Labor and Employment (56)
+- Education (53)
+- Government Operations and Politics (53)
+- Finance and Financial Sector (44)
+- Armed Forces and National Security (43)
+
+**Enacted into law:**
+
+- HR 5892: A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the "Rosa Parks Fede...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 871 |
+| Total Votes Cast | 3,663 |
+
+**Recent bills sponsored:**
+
+- H.Res. 1146: Standing with the people of Lebanon against the illegal invasion, war crimes, and ethnic cleansing perpetrated by the St — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Con.Res. 83: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7930: To amend title 18, United States Code, to increase the mens rea requirements for offenses under the Espionage Act. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7854: Medicines for the People Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7637: Head Start for America’s Children Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/rashida_tlaib/412787) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who She Is
 
 Rashida Tlaib. Democratic Representative from Michigan's 12th District (Detroit, Dearborn). Palestinian-American, first Palestinian-American in Congress, one of the first two Muslim women elected to Congress (2018, alongside [[_Ilhan Omar Master Profile|Ilhan Omar]]). Original "Squad" member. Card-carrying member of the Democratic Socialists of America (DSA). Serves on the Oversight Committee. Endorsed by Justice Democrats in 2018.
@@ -316,26 +364,6 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 32 |
-| Bills Cosponsored | 871 |
-| Total Votes Cast | 3,663 |
-
-**Recent bills sponsored:**
-
-- H.Res. 1146: Standing with the people of Lebanon against the illegal invasion, war crimes, and ethnic cleansing perpetrated by the St — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Con.Res. 83: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove the United States Armed Forces — *This resolution is in the first stage of the legislative process. It was introduced into Congress on March 27, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7930: To amend title 18, United States Code, to increase the mens rea requirements for offenses under the Espionage Act. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7854: Medicines for the People Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 5, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7637: Head Start for America’s Children Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 20, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/rashida_tlaib/412787) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 
@@ -389,34 +417,6 @@ The structural trap is visible: Tlaib's small-dollar model proves the alternativ
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Nay** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **No** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Nay** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Nay** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Nay** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **No** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **No** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-
-**Sources**
-
-- [Congress.gov: Rashida Tlaib](https://www.congress.gov/member/f000485) (Tier 1)
-- [GovTrack: Rashida Tlaib](https://www.govtrack.us/congress/members/412787) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -502,34 +502,6 @@ Rashida Harbi Tlaib is an American lawyer and politician serving as a U.S. repre
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q7294939) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 922 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (145)
-- Civil Rights and Liberties, Minority Issues (67)
-- Crime and Law Enforcement (58)
-- International Affairs (58)
-- Taxation (56)
-- Labor and Employment (56)
-- Education (53)
-- Government Operations and Politics (53)
-- Finance and Financial Sector (44)
-- Armed Forces and National Security (43)
-
-**Enacted into law:**
-
-- HR 5892: A bill to designate the Federal building located at 985 Michigan Avenue in Detroit, Michigan, as the "Rosa Parks Fede...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -174,6 +174,38 @@ WHERE type = "sub-note"
 SORT last-updated DESC
 ```
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 129 |
+| Bills Cosponsored | 287 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (34)
+- Crime and Law Enforcement (34)
+- International Affairs (31)
+- Government Operations and Politics (28)
+- Transportation and Public Works (26)
+- Congress (25)
+- Environmental Protection (24)
+- Armed Forces and National Security (21)
+- Public Lands and Natural Resources (20)
+- Finance and Financial Sector (19)
+
+**Recent bills sponsored:**
+
+- S 5576: A bill to limit eligibility for Federal benefits for certain immigrants, and for other purposes.
+- S 5579: A bill to prevent covered vehicle manufacturers from accessing, selling, or otherwise selling certain covered vehicle...
+- S 5533: A bill to repeal the Impoundment Control Act of 1974.
+- S 5505: A bill to limit spending from the Highway Trust Fund, and for other purposes.
+- S 5440: A bill to amend the Department of Agriculture Reorganization Act of 1994 to provide that the President shall appoint,...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Mike Lee. U.S. Senator from Utah (2011–present). Born June 4, 1971, Mesa, Arizona, son of Rex E. Lee, U.S. Solicitor General under Reagan (1981–1985). BYU undergrad, BYU Law. Clerked for Judge Dee Benson (D. Utah) and Supreme Court Justice Samuel Alito (then Third Circuit). Former assistant U.S. Attorney in Salt Lake City. Won 2010 Senate race by defeating three-term incumbent Bob Bennett in the Republican convention, a Tea Party insurgency backed by Club for Growth and FreedomWorks.
@@ -328,27 +360,6 @@ The January 6 texts to Mark Meadows reveal where the ideology actually breaks. C
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 1 of 1 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | 1 donor |
-
-**Donate → Lobby → Committee chains:**
-
-- **Blackstone Group** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Antitrust (Judiciary)**
-
-**Donors who lobby (by spend):**
-
-- [[Blackstone Group]] — $4.5M lobbying spend (Aviation/Airlines/Airports, Banking, Budget/Appropriations) + $623K in contracts
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -385,35 +396,4 @@ The January 6 texts to Mark Meadows reveal where the ideology actually breaks. C
 <!-- auto:fec-politician end -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 129 |
-| Bills Cosponsored | 287 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (34)
-- Crime and Law Enforcement (34)
-- International Affairs (31)
-- Government Operations and Politics (28)
-- Transportation and Public Works (26)
-- Congress (25)
-- Environmental Protection (24)
-- Armed Forces and National Security (21)
-- Public Lands and Natural Resources (20)
-- Finance and Financial Sector (19)
-
-**Recent bills sponsored:**
-
-- S 5576: A bill to limit eligibility for Federal benefits for certain immigrants, and for other purposes.
-- S 5579: A bill to prevent covered vehicle manufacturers from accessing, selling, or otherwise selling certain covered vehicle...
-- S 5533: A bill to repeal the Impoundment Control Act of 1974.
-- S 5505: A bill to limit spending from the Highway Trust Fund, and for other purposes.
-- S 5440: A bill to amend the Department of Agriculture Reorganization Act of 1994 to provide that the President shall appoint,...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

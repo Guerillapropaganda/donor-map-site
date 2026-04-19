@@ -169,29 +169,6 @@ The liability strategy reveals the corporate class position with equal clarity. 
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 3 |
-| Sanctions Programs | GLOMAG |
-| Entity Types | individual |
-
-**Matched SDN entries:**
-- JOHNSON, Prince Yormie (individual) [GLOMAG]
-  - Remarks: DOB 06 Jul 1952; POB Gomaplay, Liberia; nationality Liberia; Gender Male.
-- ANDRE, Johnson (individual) [GLOMAG]
-  - Remarks: DOB 1997; POB Haiti; nationality Haiti; citizen Haiti; Gender Male; a.k.a. 'IZO'; a.k.a. 'IZO VILAJ DE DYE'; a.k.a. 'IZO 5 SECONDS'; a.k.a. 'IZO 5 SEGONN'.
-- BYABASHAIJA, Johnson (individual) [GLOMAG]
-  - Remarks: DOB 27 Sep 1957; POB Kajure, Rukungiri District, Uganda; nationality Uganda; Gender Male.
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-
-<!-- auto:ofac-sdn pending-merge end -->
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->

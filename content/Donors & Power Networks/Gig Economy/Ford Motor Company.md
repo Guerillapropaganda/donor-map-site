@@ -193,39 +193,6 @@ The class function is straightforward: Ford converts public money into private r
 - [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1) (VERIFIED)
 <!-- auto:nhtsa-recalls end -->
 
-<!-- auto:nhtsa-recalls pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Vehicle Recalls | 500 |
-| Consumer Complaints | 0 |
-| NHTSA Investigations | 10 |
-| Recall Components | POWER TRAIN, ENGINE AND ENGINE COOLING, VISIBILITY, AIR BAGS, BACK OVER PREVENTION |
-| Most Recent Recall | 2026-04-14 |
-| Earliest Recall | 2019-05-13 |
-
-**Recent recalls:**
-
-- [26V237000: Unexpected Downshift Can Cause Loss of Control](https://www.nhtsa.gov/recalls?nhtsaId=26V237000) (2026-04-14)
-- [26V205000: Incorrectly Installed Piston Circlips](https://www.nhtsa.gov/recalls?nhtsaId=26V205000) (2026-03-31)
-- [26V204000: Windshield Wipers May Fail](https://www.nhtsa.gov/recalls?nhtsaId=26V204000) (2026-03-31)
-- [26V202000: Inoperative Defrosting and Defogging System](https://www.nhtsa.gov/recalls?nhtsaId=26V202000) (2026-03-31)
-- [26V201000: Front Passenger Air Bag May Not Deploy/FMVSS 208](https://www.nhtsa.gov/recalls?nhtsaId=26V201000) (2026-03-31)
-- [26V165000: Loss of Rearview Camera Image and ADAS Features](https://www.nhtsa.gov/recalls?nhtsaId=26V165000) (2026-03-19)
-- ... and 494 more
-
-**Active/recent investigations:**
-
-- DP26003: Fuel smell and loss of motive power (2026-03-30)
-- EA26002: FSD Collisions in Reduced Roadway Visibility Conditions (2026-03-18)
-- DP26001: All wheel drive allegation (2026-03-06)
-- DP26002: Redundant wheel fastener locking mechanism (2026-03-04)
-
-- [Source: NHTSA](https://www.nhtsa.gov/recalls?manufacturer=Ford%20Motor%20Company) (Tier 1)
-
-<!-- auto:nhtsa-recalls pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->

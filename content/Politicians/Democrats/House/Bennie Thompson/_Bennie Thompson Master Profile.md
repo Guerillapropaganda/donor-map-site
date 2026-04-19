@@ -160,6 +160,68 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 373 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (54)
+- Crime and Law Enforcement (36)
+- Education (31)
+- Government Operations and Politics (29)
+- Civil Rights and Liberties, Minority Issues (27)
+- Agriculture and Food (24)
+- Labor and Employment (23)
+- Armed Forces and National Security (21)
+- Taxation (11)
+- Transportation and Public Works (10)
+
+**Recent bills sponsored:**
+
+- HRES 1555: Condemning the spreading of disinformation and malicious rumors that have led to threats against disaster response pe...
+- HR 9743: DEPLOY Tax Relief Act
+- HR 8618: Forest Biomass Emissions Act of 2024
+- HRES 1261: Honoring the service and sacrifices of the men and women of the U.S. Border Patrol and their families on its centennial.
+- HR 8370: Rights for the TSA Workforce Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 355 |
+| Total Votes Cast | 20,697 |
+
+**Recent bills sponsored:**
+
+- H.R. 4467: Vicksburg National Military Park Boundary Modification Act — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
+- H.R. 7382: Nonprofit Security Grant Program Transparency Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 1035: Condemning Federal workforce reductions that undermine preparedness, response, and recovery, and expressing concern rega — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7124: Realigning Mobile Phone Biometrics for American Privacy Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 6548: DHS Suicide Prevention and Resiliency for Law Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
+| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Bennie Thompson has represented Mississippi's 2nd Congressional District since 1993. The district is one of the poorest in America, 26%+ poverty rate, majority-Black, spanning the Mississippi Delta from Jackson to the Arkansas border. Before Congress, Thompson was a civil rights organizer with the Student Nonviolent Coordinating Committee (SNCC) and served as an alderman and mayor in Bolton, Mississippi.
@@ -319,107 +381,13 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - {{src:src_006332}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $608,726 |
-| Individual Contributions | $145,169 |
-| PAC Contributions | $452,744 |
-| Cash on Hand | 1415264.19 |
-| IE Support (Super PAC) | $83,665 |
-| IE Opposition (Super PAC) | $184 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $608,726 | $145,169 | $452,744 |
-| 2024 | $1,245,201 | $410,855 | $809,372 |
-| 2022 | $1,515,666 | $580,777 | $900,903 |
-| 2020 | $1,379,892 | $366,160 | $998,263 |
-| 2018 | $1,020,602 | $194,947 | $814,474 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| UNITE HERE TIP CAMPAIGN COMMITTEE | $49,126 | $0 |
-| AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES - P E O P L E, QUALIFIED | $10,000 | $0 |
-| LABORERS' POLITICAL LEAGUE-LABORERS' INTERNATIONAL UNION OF N.A. | $10,000 | $0 |
-| DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE | $9,514 | $0 |
-| NARAL PRO-CHOICE AMERICA | $3,380 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 14 |
-| Bills Cosponsored | 355 |
-| Total Votes Cast | 20,697 |
-
-**Recent bills sponsored:**
-
-- H.R. 4467: Vicksburg National Military Park Boundary Modification Act — *This bill passed in the House on March 16, 2026 and goes to the Senate next for consideration.*
-- H.R. 7382: Nonprofit Security Grant Program Transparency Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 1035: Condemning Federal workforce reductions that undermine preparedness, response, and recovery, and expressing concern rega — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7124: Realigning Mobile Phone Biometrics for American Privacy Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on January 15, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 6548: DHS Suicide Prevention and Resiliency for Law Enforcement Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | No | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Nay | Passed |
-| 2026-03-27 | On Motion to Adjourn | Nay | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Nay | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Nay | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Yea | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Nay | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Nay | Passed |
-
-<!-- auto:govtrack end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-04-17 | H.Res. 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the  | **No** | Failed |
-| 2026-04-17 | H.Amdt. 175 (Scott) to H.Res. 1175: An amendment to strike the first section after the resolving clause and insert a new | **Nay** | Failed |
-| 2026-04-16 | H.Res. 1156: Expressing support for tax policies that support working families. | **Nay** | Passed |
-| 2026-04-16 | H.R. 1689: To require the Secretary of Homeland Security to designate Haiti for temporary protected status. | **Yea** | Passed |
-| 2026-04-16 | H.Res. 965: Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designa | **Yea** | Passed |
-| 2026-04-16 | H.R. 6398: RED Tape Act | **Nay** | Passed |
-| 2026-04-16 | H.R. 6409: FENCES Act | **Nay** | Passed |
-| 2026-04-16 | H.Con.Res. 40: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States A | **Yea** | Failed |
-| 2026-04-15 | H.Res. 1174: Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regu | **No** | Passed |
-| 2026-04-14 | H.R. 7613: ALERT Act | **Yea** | Passed |
-| 2026-04-14 | H.R. 1011: Emergency Conservation Program Improvement Act of 2025 | **Yea** | Passed |
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **No** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Nay** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Nay** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Nay** | Passed |
-
-**Sources**
-
-- [GovTrack: Bennie Thompson](https://www.govtrack.us/congress/members/400402) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -448,38 +416,6 @@ The January 6th investigation was Thompson's highest-profile moment and his clea
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4MS02068/) (Tier 1)
 <!-- auto:fec-summary end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 14 |
-| Bills Cosponsored | 373 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (54)
-- Crime and Law Enforcement (36)
-- Education (31)
-- Government Operations and Politics (29)
-- Civil Rights and Liberties, Minority Issues (27)
-- Agriculture and Food (24)
-- Labor and Employment (23)
-- Armed Forces and National Security (21)
-- Taxation (11)
-- Transportation and Public Works (10)
-
-**Recent bills sponsored:**
-
-- HRES 1555: Condemning the spreading of disinformation and malicious rumors that have led to threats against disaster response pe...
-- HR 9743: DEPLOY Tax Relief Act
-- HR 8618: Forest Biomass Emissions Act of 2024
-- HRES 1261: Honoring the service and sacrifices of the men and women of the U.S. Border Patrol and their families on its centennial.
-- HR 8370: Rights for the TSA Workforce Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

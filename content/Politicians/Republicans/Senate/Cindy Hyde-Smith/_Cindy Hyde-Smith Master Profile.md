@@ -155,6 +155,38 @@ top-policy-area: Health
 
 # Cindy Hyde-Smith
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 30 |
+| Bills Cosponsored | 404 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (69)
+- Crime and Law Enforcement (40)
+- Education (34)
+- Taxation (32)
+- Finance and Financial Sector (26)
+- International Affairs (25)
+- Congress (19)
+- Agriculture and Food (18)
+- Environmental Protection (18)
+- Energy (17)
+
+**Recent bills sponsored:**
+
+- SRES 884: A resolution designating the week of September 24 through September 30, 2023, as "Gold Star Families Remembrance Week".
+- SRES 794: A resolution designating September 25, 2023, as "National Ataxia Awareness Day", and raising awareness of ataxia, ata...
+- S 4968: IDeA Reauthorization Act of 2024
+- SRES 733: A resolution honoring the life and legacy of Patrick Gottsch.
+- S 4533: RESTORE Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Cindy Hyde-Smith. Republican, Mississippi. US Senator since April 2018, initially appointed by Governor Phil Bryant to replace retiring Thad Cochran, then won a special election in November 2018 defeating Democrat Mike Espy, then won re-election in 2020 against Espy again, term runs through January 2027. Born May 1959 in Brookhaven, MS. University of Southern Mississippi graduate. Mississippi state representative, Mississippi Commissioner of Agriculture and Commerce (2011-2018). Committee assignments not yet in pipeline; Agriculture and Appropriations committee history inferred from donor pattern. 2,363 roll-call votes tracked (115th-119th Congress). Voting record: 97.4% party-line loyalty across 2,307 substantive votes, 55 deviations. Mississippi is a deep red state.
@@ -224,35 +256,4 @@ The 55 deviations at 97.4% loyalty include bipartisan nomination confirmations (
 **Pilot Program (appointed-then-contested model).** Hyde-Smith's career follows the Bryant appointment (2018) to two contested wins against the same Democratic challenger in the same cycle (special election) and the next full cycle. The appointed senator who then had to fight for the seat twice produces a different donor map than a senator who was always expected to hold the seat easily. The NRSC's $109K across 2 transactions reflects the party's investment in two contested cycles. The $1.6M in opposition and $2.4M in support reflect genuinely contested races in a deep-red state where Democrats mounted credible campaigns in 2018 and 2020 before the seat settled into safe status.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 30 |
-| Bills Cosponsored | 404 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (69)
-- Crime and Law Enforcement (40)
-- Education (34)
-- Taxation (32)
-- Finance and Financial Sector (26)
-- International Affairs (25)
-- Congress (19)
-- Agriculture and Food (18)
-- Environmental Protection (18)
-- Energy (17)
-
-**Recent bills sponsored:**
-
-- SRES 884: A resolution designating the week of September 24 through September 30, 2023, as "Gold Star Families Remembrance Week".
-- SRES 794: A resolution designating September 25, 2023, as "National Ataxia Awareness Day", and raising awareness of ataxia, ata...
-- S 4968: IDeA Reauthorization Act of 2024
-- SRES 733: A resolution honoring the life and legacy of Patrick Gottsch.
-- S 4533: RESTORE Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

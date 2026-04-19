@@ -210,7 +210,6 @@ Kelly's public identity: Gun control advocate married to a shooting survivor, Gi
 - [Breaking Defense: Mark Kelly, Ranking Member Armed Services Subcommittee](https://breakingdefense.com/2025/09/whos-who-in-defense-mark-kelly-ranking-member-senate-armed-services-sasc-subcommittee-of-airland/) (Tier 2) (VERIFIED)
 - [Senate Armed Services Committee membership](https://www.armed-services.senate.gov/about/membership) (Tier 1) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

@@ -152,27 +152,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 411 |
-| Courts | Court of Appeals for the D.C. Circuit, District Court, D. Kansas, District Court, D. Maryland, District Court, District of Columbia, District Court, E.D. North Carolina, District Court, W.D. Texas |
-| Case Types | 2899 Other Statutes APA/Review Agency, 440 Civil Rights: Other, 840 Trademark, 890 Other Statutory Actions, 899 Administrative Procedure Act/Review or Appeal of Agency Decision |
-
-**Notable cases:**
-- National Trust for Historic Preservation in the U v. NPS (2026) — Court of Appeals for the D.C. Circuit
-- National Trust for Historic Preservation v. NPS (2026) — Court of Appeals for the D.C. Circuit
-- WASHINGTON AREA BICYCLIST ASSOCIATION, INC. v. BURGUM (2026) — District Court, District of Columbia
-- DC PRESERVATION LEAGUE v. BOARD OF TRUSTEES OF THE JOHN F. KENNEDY CENTER FOR THE PERFORMING ARTS (2026) — District Court, District of Columbia
-- State of Maryland v. Mullin (2026) — District Court, D. Maryland
-- LEMMON v. TRUMP (2026) — District Court, District of Columbia
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Brady%20Campaign%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Financial Overview (990 Filing — 2023)
 <!-- auto:propublica-990 start -->
@@ -239,39 +218,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 17 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | None |
-
-**Funded politicians:**
-
-- [[Jerrold Nadler]] — lobbying: $836K
-- [[Jerry Nadler]] (Judiciary, Antitrust (Judiciary)) — lobbying: $836K
-- [[James E. Clyburn]] — lobbying: $836K
-- [[Gina McCarthy]] — lobbying: $836K
-- [[Kevin McCarthy]] — lobbying: $836K
-- [[Robert Menendez]] — lobbying: $836K
-- [[Bob Menendez]] (Foreign Relations) — lobbying: $836K
-- [[Wes Moore]] — lobbying: $836K
-- [[Gwen Moore]] — lobbying: $836K
-- [[Barry Moore]] — lobbying: $836K
-- [[Blake D. Moore]] — lobbying: $836K
-- [[Riley M. Moore]] — lobbying: $836K
-- [[Tim Moore]] — lobbying: $836K
-- [[Melissa Bean]] — lobbying: $836K
-- [[Aaron Bean]] — lobbying: $836K
-- [[Linda McMahon]] (Education & Labor) — lobbying: $836K
-- [[Salud O. Carbajal]] — lobbying: $836K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -338,26 +284,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 44 |
-| Form Types | 10-K, 485BPOS, 497, DEF 14A, DEF 14C, DEFA14A, EX-99.1, N-1A/A +1 more |
-
-**Notable filings:**
-
-- 2004-01-28 — **U5S**: FORM U5S
-- 2003-01-28 — **U5S**: ANNUAL REPORT
-- 2002-01-28 — **U5S**: FORM U5S
-- 2019-02-08 — **EX-99.1**: EX-99.1
-- 2019-04-30 — **DEFA14A**: DEFA14A
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Brady%20Campaign%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-donor start -->
@@ -384,33 +310,6 @@ Brady represents issue-based donor infrastructure serving Democratic electoral p
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
-<!-- auto:fec-donor pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $499,761 |
-| Contributions | 100 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| BRADY PAC | $429,429 | — |
-| PERLMUTTER FOR CONGRESS | $6,800 | DEM |
-| NADLER FOR CONGRESS | $6,000 | DEM |
-| FRIENDS OF JIM CLYBURN | $5,500 | DEM |
-| SCHRADER FOR CONGRESS | $5,000 | DEM |
-| FRIENDS OF CAROLYN MCCARTHY | $4,000 | DEM |
-| MENENDEZ FOR SENATE | $4,000 | DEM |
-| MOORE FOR CONGRESS | $3,000 | DEM |
-| DARCY BURNER FOR CONGRESS | $2,500 | DEM |
-| DEMOCRATIC PARTY OF VIRGINIA | $2,000 | DEM |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Brady%20Campaign) (Tier 1)
-
-<!-- auto:fec-donor pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -429,25 +328,6 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-Brady: United Against Gun Violence is an American nonprofit organization that advocates for gun control and against gun violence.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q4955170](https://www.wikidata.org/wiki/Q4955170) |
-| Description | American nonprofit organization that advocates for gun control |
-| Founded | 1974-00-00 |
-| Website | [http://www.bradycampaign.org/](http://www.bradycampaign.org/) |
-| X/Twitter | [@bradybuzz](https://x.com/bradybuzz) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brady_Campaign_logo.svg/330px-Brady_Campaign_logo.svg.png) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Brady_Campaign) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q4955170) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -463,22 +343,6 @@ Brady: United Against Gun Violence is an American nonprofit organization that ad
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 1 |
-| Notice | 1 |
-| Agencies | Federal Election Commission |
-
-**Recent regulatory activity:**
-- [Sunshine Act Meetings](https://www.federalregister.gov/documents/2024/12/09/2024-28995/sunshine-act-meetings) (2024-12-09) — Federal Election Commission
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Brady%20Campaign%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
 
 ### Employee Political Contributions (FEC)
 <!-- auto:fec-individual start -->

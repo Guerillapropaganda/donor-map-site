@@ -152,6 +152,38 @@ top-policy-area: Congress
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 16 |
+| Bills Cosponsored | 125 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (18)
+- Government Operations and Politics (17)
+- International Affairs (13)
+- Education (11)
+- Crime and Law Enforcement (10)
+- Immigration (9)
+- Health (7)
+- Taxation (7)
+- Transportation and Public Works (6)
+- Finance and Financial Sector (5)
+
+**Recent bills sponsored:**
+
+- S 5608: A bill to reduce the size of the Federal workforce through attrition, and for other purposes.
+- S 5481: A bill to clarify that agencies of the Department of Health and Human Services do not have the authority to regulate ...
+- S 5158: Interstate Commerce Simplification Act of 2024
+- SRES 764: A resolution expressing support for the designation of July 2023 as "National Sarcoma Awareness Month".
+- S 4485: Midnight Rules Relief Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Ron Johnson. Republican senator from Wisconsin since 2011. Won his seat in 2010 by defeating three-term incumbent Russ Feingold, won a rematch against Feingold in 2016, and narrowly defeated Lt. Governor Mandela Barnes in 2022. Current term expires 2029. Former chairman of the Senate Homeland Security and Governmental Affairs Committee (2015-2021). Currently serves on the Finance Committee, Homeland Security and Governmental Affairs Committee, and Special Committee on Aging in the 119th Congress. Before entering politics, Johnson was CEO of PACUR LLC, a polyester and plastics manufacturing company in Oshkosh, Wisconsin, from the mid-1980s to 2010. Self-funded $9 million of his $15.2 million 2010 campaign. Estimated net worth between $18 million and $88 million (2023 financial disclosure). Received $10 million in deferred compensation from PACUR after winning his Senate seat in 2010, and reported $5-25 million from the sale of PACUR in 2020.
@@ -317,27 +349,6 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 2 |
-| Purchases | 0 |
-| Sales | 2 |
-| Est. Value Range | $5,100,002 – $25,250,000 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/20/2019 | -- | Sale | $100,001 - $250,000 | Self |
-| 03/02/2020 | -- | Sale | $5,000,001 - $25,000,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Voting Record
 
@@ -369,38 +380,6 @@ Johnson supplements this core tax function with aggressive partisan investigatio
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 16 |
-| Bills Cosponsored | 125 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Congress (18)
-- Government Operations and Politics (17)
-- International Affairs (13)
-- Education (11)
-- Crime and Law Enforcement (10)
-- Immigration (9)
-- Health (7)
-- Taxation (7)
-- Transportation and Public Works (6)
-- Finance and Financial Sector (5)
-
-**Recent bills sponsored:**
-
-- S 5608: A bill to reduce the size of the Federal workforce through attrition, and for other purposes.
-- S 5481: A bill to clarify that agencies of the Department of Health and Human Services do not have the authority to regulate ...
-- S 5158: Interstate Commerce Simplification Act of 2024
-- SRES 764: A resolution expressing support for the designation of July 2023 as "National Sarcoma Awareness Month".
-- S 4485: Midnight Rules Relief Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -195,6 +195,34 @@ donors: [[PhRMA - Pharmaceutical Research and Manufacturers of America|PhRMA]] �
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 77 |
+| Bills Cosponsored | 425 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (79)
+- Health (52)
+- Crime and Law Enforcement (45)
+- Government Operations and Politics (27)
+- Armed Forces and National Security (27)
+- Energy (26)
+- Civil Rights and Liberties, Minority Issues (24)
+- Commerce (24)
+- Taxation (22)
+- Labor and Employment (21)
+
+**Enacted into law:**
+
+- S 3745: BRIDGE for Workers Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 [[_Chris Coons Master Profile|Chris Coons]] is the senior United States Senator from Delaware, serving since November 2010. Born September 9, 1963, in Greenwich, Connecticut. B.A. in chemistry and political science from Amherst College. Master's in ethics from Yale Divinity School. J.D. from Yale Law School. Worked for eight years as in-house counsel at W.L. Gore & Associates (makers of Gore-Tex), handling ethics training, federal government relations, and commercial contracting. Served as president of the New Castle County Council (2001–2005) and New Castle County Executive (2005–2010). Won a 2010 special election against Christine O'Donnell to fill Joe Biden's Senate seat, the seat Biden vacated when he became Vice President. Coons's family business manufactures medical devices and depends on patents to maintain its monopolies. Reelected 2014 and 2020.
@@ -339,35 +367,6 @@ party:: Democrat
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 24 |
-| Purchases | 2 |
-| Sales | 21 |
-| Est. Value Range | $2,310,023 – $4,950,000 |
-
-**Top tickers traded:** NFLX, AAPL, MSFT
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/27/2018 | -- | Sale | $100,001 - $250,000 | Spouse |
-| 12/27/2018 | -- | Sale | $100,001 - $250,000 | Spouse |
-| 11/05/2018 | AAPL | Sale | $1,001 - $15,000 | Child |
-| 10/24/2018 | NFLX | Sale | $1,001 - $15,000 | Child |
-| 10/24/2018 | AAPL | Purchase | $1,001 - $15,000 | Child |
-| 09/12/2017 | -- | Sale | $250,001 - $500,000 | Self |
-| 08/23/2018 | NFLX | Purchase | $1,001 - $15,000 | Child |
-| 07/31/2020 | -- | Sale | $50,001 - $100,000 | Child |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -467,34 +466,6 @@ party:: Democrat
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 77 |
-| Bills Cosponsored | 425 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (79)
-- Health (52)
-- Crime and Law Enforcement (45)
-- Government Operations and Politics (27)
-- Armed Forces and National Security (27)
-- Energy (26)
-- Civil Rights and Liberties, Minority Issues (24)
-- Commerce (24)
-- Taxation (22)
-- Labor and Employment (21)
-
-**Enacted into law:**
-
-- S 3745: BRIDGE for Workers Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -152,6 +152,38 @@ top-donors: "[[Raytheon (RTX)]], [[Northrop Grumman]], [[J Street]], [[Internati
 
 # Chellie Pingree
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 19 |
+| Bills Cosponsored | 616 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (129)
+- Agriculture and Food (101)
+- Taxation (40)
+- Crime and Law Enforcement (31)
+- International Affairs (30)
+- Education (29)
+- Government Operations and Politics (27)
+- Environmental Protection (25)
+- Labor and Employment (24)
+- Civil Rights and Liberties, Minority Issues (24)
+
+**Recent bills sponsored:**
+
+- HR 10502: To require the United States Armed Forces to fully utilize applicable State extreme risk protection order programs, a...
+- HR 9909: Working Waterfront Disaster Mitigation Tax Credit Act
+- HR 6937: O DAIRY Act of 2023
+- HR 6641: Sustaining America’s Fisheries for the Future Act of 2024
+- HRES 783: A resolution designating October 16, 2023, and October 16, 2024, as "World Food Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Chellie Pingree. Democrat, Maine-1 (Portland, southern Maine coast, and islands). First elected 2008. Organic farmer; owns North Haven Farm on a Penobscot Bay island. Maine state legislature (1992-2000), Maine Senate Majority Leader before Congress. Member of the House Appropriations Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.8% party-line loyalty across 1,642 substantive votes, 36 deviations. ME-1 is a safe Democratic district covering Maine's more urban and coastal communities; no meaningful Republican pressure.
@@ -231,35 +263,4 @@ The 36 deviations at 97.8% loyalty include consistent Nay votes when the Democra
 **Revolving Door (industry constituency).** Bath Iron Works/General Dynamics gives at the constituency-service level: protecting Maine shipyard jobs is genuinely Pingree's job. The "revolving door" here operates at the geographic level rather than the personnel level: Maine's shipbuilding identity locks the district's representative into a defense-industry access relationship that transcends the member's ideological preferences. A progressive who represents Bath will take General Dynamics money. This is not corruption; it is the structural reality of representing a defense-manufacturing community while holding progressive positions on other issues.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 19 |
-| Bills Cosponsored | 616 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (129)
-- Agriculture and Food (101)
-- Taxation (40)
-- Crime and Law Enforcement (31)
-- International Affairs (30)
-- Education (29)
-- Government Operations and Politics (27)
-- Environmental Protection (25)
-- Labor and Employment (24)
-- Civil Rights and Liberties, Minority Issues (24)
-
-**Recent bills sponsored:**
-
-- HR 10502: To require the United States Armed Forces to fully utilize applicable State extreme risk protection order programs, a...
-- HR 9909: Working Waterfront Disaster Mitigation Tax Credit Act
-- HR 6937: O DAIRY Act of 2023
-- HR 6641: Sustaining America’s Fisheries for the Future Act of 2024
-- HRES 783: A resolution designating October 16, 2023, and October 16, 2024, as "World Food Day".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

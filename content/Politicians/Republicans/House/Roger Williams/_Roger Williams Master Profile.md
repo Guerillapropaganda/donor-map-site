@@ -175,6 +175,69 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 28 |
+| Bills Cosponsored | 223 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Finance and Financial Sector (41)
+- International Affairs (25)
+- Government Operations and Politics (22)
+- Crime and Law Enforcement (22)
+- Health (19)
+- Immigration (16)
+- Taxation (14)
+- Armed Forces and National Security (12)
+- Labor and Employment (11)
+- Commerce (9)
+
+**Recent bills sponsored:**
+
+- HRES 1338: Expressing support for the designation of the month of July as "American Patriotism Month".
+- HR 8591: Federal Reserve Financial Accountability and Transparency Act
+- HRES 1267: Supporting the Second Amendment's guarantee that the right of the people to keep and bear arms shall not be infringed...
+- HR 8332: No Student Loan Forgiveness for Antisemitic Criminals Act
+- HRES 1203: A resolution designating July 17, 2024, as "Glioblastoma Awareness Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 36 |
+| Bills Cosponsored | 182 |
+| Total Votes Cast | 7,402 |
+
+**Recent bills sponsored:**
+
+- H.R. 7412: Put America on Commission Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 11, 2026.*
+- H.R. 5763: Main Street Parity Act — *This bill passed in the House on January 20, 2026 and goes to the Senate next for consideration.*
+- H.R. 6546: Merger Process Review Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 17, 2025.*
+- H.R. 6683: Safer Schools Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 3174: Made in America Manufacturing Finance Act — *This bill passed in the House on December 1, 2025 and goes to the Senate next for consideration.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412578) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Roger Williams represents Texas's 25th Congressional District and chairs the House Small Business Committee. Before Congress, he was, and still is, a car dealer. He inherited his father's dealership (founded 1939), owns Roger Williams Chrysler Dodge Jeep RAM in Weatherford, Texas, and has operated the family auto business for over 50 years. He also runs a cow-calf operation.
@@ -346,37 +409,6 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 - {{src:src_004212}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 182 |
-| Total Votes Cast | 7,402 |
-
-**Recent bills sponsored:**
-
-- H.R. 7412: Put America on Commission Act of 2026 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 11, 2026.*
-- H.R. 5763: Main Street Parity Act — *This bill passed in the House on January 20, 2026 and goes to the Senate next for consideration.*
-- H.R. 6546: Merger Process Review Act — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on December 17, 2025.*
-- H.R. 6683: Safer Schools Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 11, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 3174: Made in America Manufacturing Finance Act — *This bill passed in the House on December 1, 2025 and goes to the Senate next for consideration.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Yea | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412578) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -408,38 +440,6 @@ The ethics record confirms the structure. The Office of Congressional Ethics una
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 28 |
-| Bills Cosponsored | 223 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Finance and Financial Sector (41)
-- International Affairs (25)
-- Government Operations and Politics (22)
-- Crime and Law Enforcement (22)
-- Health (19)
-- Immigration (16)
-- Taxation (14)
-- Armed Forces and National Security (12)
-- Labor and Employment (11)
-- Commerce (9)
-
-**Recent bills sponsored:**
-
-- HRES 1338: Expressing support for the designation of the month of July as "American Patriotism Month".
-- HR 8591: Federal Reserve Financial Accountability and Transparency Act
-- HRES 1267: Supporting the Second Amendment's guarantee that the right of the people to keep and bear arms shall not be infringed...
-- HR 8332: No Student Loan Forgiveness for Antisemitic Criminals Act
-- HRES 1203: A resolution designating July 17, 2024, as "Glioblastoma Awareness Day".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

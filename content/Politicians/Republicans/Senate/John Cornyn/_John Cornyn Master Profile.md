@@ -194,6 +194,38 @@ SORT file.name ASC
 
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 118 |
+| Bills Cosponsored | 440 |
+| Bills Enacted | 12 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (68)
+- Crime and Law Enforcement (61)
+- Armed Forces and National Security (53)
+- Health (43)
+- Education (39)
+- Government Operations and Politics (29)
+- Immigration (22)
+- Agriculture and Food (21)
+- Science, Technology, Communications (21)
+- Finance and Financial Sector (20)
+
+**Enacted into law:**
+
+- S 1965: National Defense Authorization Act for Fiscal Year 2024
+- S 3499: National Defense Authorization Act for Fiscal Year 2024
+- S 2260: Grant Transparency Act of 2023
+- S 3473: National Defense Authorization Act for Fiscal Year 2024
+- S 2828: Protecting Hunting Heritage and Education Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 John Cornyn, U.S. Senator from Texas (2002–present). Senior senator. Former Senate Majority Whip (2015–2019). Former chair of the National Republican Senatorial Committee (2009–2013). Member of the Judiciary, Finance, and Intelligence committees. Before the Senate: Texas Attorney General (1999–2002), Texas Supreme Court justice (1991–1997). Lead Republican negotiator on the Bipartisan Safer Communities Act (2022), the first significant federal gun legislation in 30 years.
@@ -385,36 +417,6 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 3 |
-| Donors With Federal Contracts | 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Koch Network - Charles Koch** donates → Lobbies on **Banking** → This member sits on **Finance**
-- **Koch Network - Charles Koch** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
-- **Koch Network - Charles Koch** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
-- **US Chamber of Commerce** donates → Lobbies on **Banking** → This member sits on **Finance**
-- **US Chamber of Commerce** donates → Lobbies on **Copyright/Patent/Trademark** → This member sits on **Judiciary**
-- **US Chamber of Commerce** donates → Lobbies on **Financial Institutions/Investments/Securities** → This member sits on **Finance**
-- **US Chamber of Commerce** donates → Lobbies on **Immigration** → This member sits on **Judiciary**
-- **US Chamber of Commerce** donates → Lobbies on **Intelligence** → This member sits on **Intelligence**
-- **US Chamber of Commerce** donates → Lobbies on **Medicare/Medicaid** → This member sits on **Finance**
-
-**Donors who lobby (by spend):**
-
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
-- [[US Chamber of Commerce]] — $790K lobbying spend (Aerospace, Agriculture, Alcohol and Drug Abuse)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -436,29 +438,6 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 2 |
-| Purchases | 1 |
-| Sales | 1 |
-| Est. Value Range | $30,002 – $100,000 |
-
-**Top tickers traded:** AAPL
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 08/21/2015 | AAPL | Purchase | $15,001 - $50,000 | Self |
-| 02/01/2017 | AAPL | Sale | $15,001 - $50,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -491,38 +470,6 @@ The gun bill is the exception that proves the rule. The Bipartisan Safer Communi
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 118 |
-| Bills Cosponsored | 440 |
-| Bills Enacted | 12 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (68)
-- Crime and Law Enforcement (61)
-- Armed Forces and National Security (53)
-- Health (43)
-- Education (39)
-- Government Operations and Politics (29)
-- Immigration (22)
-- Agriculture and Food (21)
-- Science, Technology, Communications (21)
-- Finance and Financial Sector (20)
-
-**Enacted into law:**
-
-- S 1965: National Defense Authorization Act for Fiscal Year 2024
-- S 3499: National Defense Authorization Act for Fiscal Year 2024
-- S 2260: Grant Transparency Act of 2023
-- S 3473: National Defense Authorization Act for Fiscal Year 2024
-- S 2828: Protecting Hunting Heritage and Education Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

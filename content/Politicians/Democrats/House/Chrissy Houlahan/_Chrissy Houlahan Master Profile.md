@@ -150,6 +150,38 @@ top-donors: "[[Paul Tonko]], [[Leidos]], [[Giffords PAC]], [[314 ACTION FUND]], 
 
 # Chrissy Houlahan
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 377 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (72)
+- Armed Forces and National Security (64)
+- International Affairs (36)
+- Government Operations and Politics (36)
+- Taxation (25)
+- Crime and Law Enforcement (22)
+- Labor and Employment (19)
+- Education (14)
+- Immigration (12)
+- Agriculture and Food (12)
+
+**Recent bills sponsored:**
+
+- HRES 1510: Expressing support for "Military Sexual Trauma Awareness Day".
+- HRES 1298: A resolution designating June 16, 2023, as National Service and Conservation Corps Day.
+- HR 8711: To amend title II of the Public Health Service Act to include as an additional right or privilege of commissioned off...
+- HR 8633: Stop Copay Overpay Act
+- HR 8479: Unity through Service Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Chrissy Houlahan. Democrat, Pennsylvania-6 (Chester County). First elected 2018, re-elected 2020, 2022, 2024. Born June 1967 in Germany (Air Force family). Stanford University, MIT Sloan MBA. Air Force and Air Force Reserves veteran (Captain). Technology executive at Gap Inc., co-founded social enterprise AroundUS. Committee assignments not yet pipeline-verified; Armed Services Committee confirmed by donor pattern. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 94.7% party-line loyalty across 1,673 substantive votes, 88 deviations. Chester County PA is a competitive suburban Philadelphia district; Republicans have targeted it in multiple cycles.
@@ -229,35 +261,4 @@ The 88 deviations at 94.7% loyalty are predominantly Yea-when-Democrats-voted-Na
 **Genuine Win + Structural Limit.** Houlahan has held a competitive suburban Pennsylvania district through four cycles (2018-2024) against Republican challenges in a district that had previously been represented by a Republican. That is a genuine electoral win requiring real constituent service. The structural limit is that the Armed Services Committee seat that makes her effective also makes her the target of defense industry investment that would arrive regardless of her progressive voting record elsewhere. The veteran legitimacy and the defense industry money are inseparable in her political economy.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 27 |
-| Bills Cosponsored | 377 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (72)
-- Armed Forces and National Security (64)
-- International Affairs (36)
-- Government Operations and Politics (36)
-- Taxation (25)
-- Crime and Law Enforcement (22)
-- Labor and Employment (19)
-- Education (14)
-- Immigration (12)
-- Agriculture and Food (12)
-
-**Recent bills sponsored:**
-
-- HRES 1510: Expressing support for "Military Sexual Trauma Awareness Day".
-- HRES 1298: A resolution designating June 16, 2023, as National Service and Conservation Corps Day.
-- HR 8711: To amend title II of the Public Health Service Act to include as an additional right or privilege of commissioned off...
-- HR 8633: Stop Copay Overpay Act
-- HR 8479: Unity through Service Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

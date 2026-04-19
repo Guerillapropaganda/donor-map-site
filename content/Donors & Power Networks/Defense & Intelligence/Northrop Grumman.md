@@ -407,29 +407,6 @@ Northrop Grumman represents the defense sector's most refined form of structural
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 2 |
-| Federal Contractor | Yes |
-| Committee Overlap Detected | 2 politicians |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Defense & Military** → Funds **Adam Smith** → Sits on **House Committee on Armed Services**
-- Lobbies on **Defense & Military** → Funds **Roger Wicker** → Sits on **Armed Services**
-
-**Funded politicians:**
-
-- [[Adam Smith]] (House Committee on Armed Services) — contracts: $8K
-- [[Roger Wicker]] (Armed Services) — contracts: $8K
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -531,63 +508,6 @@ Northrop Grumman represents the defense sector's most refined form of structural
 - [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1) (VERIFIED)
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Subawards Issued (as prime) | 50 ($25.8B sampled) |
-| Subawards Received (as sub) | 50 ($25.8B sampled) |
-| Top Federal Agency | National Aeronautics and Space Administration ($2.9B) |
-| Primary NAICS Sector | Engineering Services |
-
-**Subcontractors receiving federal money from Northrop Grumman:**
-
-| Subcontractor | Amount | Awards |
-|---------------|--------|--------|
-| NORTHROP GRUMMAN SYSTEMS CORPORATION | $24.2B | 44 |
-| NORTHROP GRUMMAN SYSTEMS CORP | $1.6B | 6 |
-
-**Prime contractors funneling federal money to Northrop Grumman:**
-
-| Prime Contractor | Amount | Awards |
-|------------------|--------|--------|
-| LOCKHEED MARTIN CORPORATION | $24.1B | 43 |
-| BOEING COMPANY, THE | $596.7M | 2 |
-| HUNTINGTON INGALLS INCORPORATED | $381.2M | 2 |
-| PERATON INC. | $377.1M | 1 |
-| ELECTRIC BOAT CORPORATION | $350.0M | 2 |
-
-**Federal agency spending breakdown:**
-
-| Agency | Amount |
-|--------|--------|
-| National Aeronautics and Space Administration | $2.9B |
-| Department of Homeland Security | $361.1M |
-| Social Security Administration | $254.5M |
-| General Services Administration | $205.7M |
-| Department of Health and Human Services | $167.2M |
-| Department of Transportation | $89.1M |
-| Department of the Treasury | $71.6M |
-| Department of State | $67.3M |
-
-**Federal spending by industry sector (NAICS):**
-
-| Sector | Amount |
-|--------|--------|
-| Engineering Services (541330) | $9.2B |
-| Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) (541715) | $8.6B |
-| Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing (334511) | $8.4B |
-| Other Aircraft Parts and Auxiliary Equipment Manufacturing (336413) | $4.9B |
-| Ammunition (except Small Arms) Manufacturing (332993) | $3.8B |
-| Other Support Activities for Air Transportation (488190) | $2.2B |
-| Research and Development in the Physical, Engineering, and Life Sciences (except Biotechnology) (541712) | $1.6B |
-| Other Electronic Component Manufacturing (334419) | $1.2B |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-
-<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->

@@ -149,6 +149,38 @@ top-donors: "[[National Multifamily Housing Council]], [[United Food and Commerc
 
 # Dwight Evans
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 11 |
+| Bills Cosponsored | 624 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Crime and Law Enforcement (57)
+- Taxation (47)
+- Government Operations and Politics (40)
+- Civil Rights and Liberties, Minority Issues (39)
+- International Affairs (39)
+- Education (38)
+- Agriculture and Food (34)
+- Labor and Employment (34)
+- Armed Forces and National Security (20)
+
+**Recent bills sponsored:**
+
+- HRES 1591: Recognizing November 2023 as "National Family Caregivers Month".
+- HR 9306: Safe Streets for All Program Improvement Act
+- HR 9063: Legal Guardianship Inclusion Act
+- HR 9041: PEER Mentors Act of 2024
+- HRES 898: A resolution recognizing November 2023 as "National Family Caregivers Month".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Dwight Evans. Democrat, Pennsylvania-3 (Northwest Philadelphia, including Germantown, West Oak Lane, Overbrook, and Mount Airy). First elected to Congress 2016 (special election). Pennsylvania state legislature from 1981 to 2016, the first Black chair of the Pennsylvania House Appropriations Committee in state history. Born May 1954 in Philadelphia. La Salle University graduate; small business advocate. Member of the House Ways and Means Committee and Agriculture Committee. 1,757 roll-call votes tracked (117th-119th Congress). Voting record: 97.8% party-line loyalty across 1,306 substantive votes, 29 deviations. PA-3 is a safe Democratic district.
@@ -231,35 +263,4 @@ The 29 deviations at 97.8% loyalty form a consistent leftward pattern: Nay on HR
 **Donor-Class Override.** The NADA $60K as highest direct PAC lifetime donor represents the clearest donor-class override in Evans's profile: the auto dealers' access investment in a Philadelphia transit-district member reflects the Ways and Means mechanism overriding any constituency logic. Evans's constituents ride SEPTA; his highest-dollar donor sells cars. The committee jurisdiction determines the donor map, not the district's transportation reality.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 11 |
-| Bills Cosponsored | 624 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (92)
-- Crime and Law Enforcement (57)
-- Taxation (47)
-- Government Operations and Politics (40)
-- Civil Rights and Liberties, Minority Issues (39)
-- International Affairs (39)
-- Education (38)
-- Agriculture and Food (34)
-- Labor and Employment (34)
-- Armed Forces and National Security (20)
-
-**Recent bills sponsored:**
-
-- HRES 1591: Recognizing November 2023 as "National Family Caregivers Month".
-- HR 9306: Safe Streets for All Program Improvement Act
-- HR 9063: Legal Guardianship Inclusion Act
-- HR 9041: PEER Mentors Act of 2024
-- HRES 898: A resolution recognizing November 2023 as "National Family Caregivers Month".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

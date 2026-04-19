@@ -151,6 +151,34 @@ top-policy-area: International Affairs
 
 # Ruben Gallego
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 42 |
+| Bills Cosponsored | 304 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (34)
+- Health (33)
+- Crime and Law Enforcement (29)
+- Education (25)
+- Taxation (21)
+- Government Operations and Politics (21)
+- Armed Forces and National Security (20)
+- Native Americans (19)
+- Finance and Financial Sector (13)
+- Immigration (13)
+
+**Enacted into law:**
+
+- HR 6752: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Ruben Gallego. Democrat, Arizona. US Senator since January 2025, elected November 2024 after Kyrsten Sinema's retirement vacated the seat. Previously represented AZ-3 in the House (2015-2025). Born November 1979 in Chicago, son of undocumented Mexican immigrants, grew up in South Side poverty, Harvard graduate (2004), US Marine Corps Iraq War veteran (Fallujah, 2004-2007). Defeated Republican Kari Lake in the general by 5 points in a cycle Democrats lost the Senate overall. Assigned to Armed Services, Commerce Science and Transportation, Rules and Administration, and Veterans' Affairs. Top policy area is International Affairs. 42 bills sponsored, 304 cosponsored, 1 enacted. Voting record: 92.5% party-line loyalty across 1,672 substantive votes, 125 deviations. The deviation count is notably higher than reform-brand Democrats like Andy Kim (71 deviations, 96.1%), consistent with the swing-state pressure to signal independence from the caucus majority, particularly on nominations.
@@ -239,31 +267,4 @@ The Fairshake and DMFI presence points to the second-order question: where does 
 **Pilot Program.** Gallego's election is sometimes cited in progressive circles as proof that a working-class-branded progressive can win competitive Senate races. The donor map complicates the template. He won by adopting the donor coalition he needed to win, not by proving the donor coalition he entered the House with could scale statewide.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 42 |
-| Bills Cosponsored | 304 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- International Affairs (34)
-- Health (33)
-- Crime and Law Enforcement (29)
-- Education (25)
-- Taxation (21)
-- Government Operations and Politics (21)
-- Armed Forces and National Security (20)
-- Native Americans (19)
-- Finance and Financial Sector (13)
-- Immigration (13)
-
-**Enacted into law:**
-
-- HR 6752: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

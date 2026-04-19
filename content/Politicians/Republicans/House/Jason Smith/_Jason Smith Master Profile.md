@@ -169,6 +169,65 @@ donors: [[Real Estate Roundtable]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 14 |
+| Bills Cosponsored | 67 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- International Affairs (10)
+- Taxation (9)
+- Crime and Law Enforcement (8)
+- Agriculture and Food (7)
+- Finance and Financial Sector (6)
+- Health (4)
+- Environmental Protection (4)
+- Transportation and Public Works (4)
+- Congress (4)
+- Foreign Trade and International Finance (3)
+
+**Enacted into law:**
+
+- HR 4004: United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 7 |
+| Bills Cosponsored | 27 |
+| Total Votes Cast | 7,205 |
+
+**Recent bills sponsored:**
+
+- H.R. 6500: AGOA Extension Act — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+- H.R. 6599: Leasing and Infrastructure Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.Res. 212: Returning Senate Joint Resolution 3 to the Senate. — *This simple resolution was agreed to on March 11, 2025. That is the end of the legislative process for a simple resolution.*
+- H.R. 1156: Pandemic Unemployment misconduct Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
+- H.Res. 109: Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
+| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
+| 2026-03-27 | On Motion to Adjourn | Not Voting | Passed |
+| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
+| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
+| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
+| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
+| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412596) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Jason Smith. Republican, Missouri's 8th District (rural southeast Missouri). Won a 2013 special election at age 29. Chair, House Ways and Means Committee — the most powerful tax-writing body in Congress, with jurisdiction over all federal tax policy, trade and tariffs, Social Security, Medicare, and welfare programs. Youngest Ways & Means Chair in over 150 years and the first Missourian since John Phelps in 1859.
@@ -298,67 +357,9 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 7 |
-| Bills Cosponsored | 27 |
-| Total Votes Cast | 7,205 |
-
-**Recent bills sponsored:**
-
-- H.R. 6500: AGOA Extension Act — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
-- H.R. 6599: Leasing and Infrastructure Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on December 10, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.Res. 212: Returning Senate Joint Resolution 3 to the Senate. — *This simple resolution was agreed to on March 11, 2025. That is the end of the legislative process for a simple resolution.*
-- H.R. 1156: Pandemic Unemployment misconduct Enforcement Act — *This bill passed in the House on March 11, 2025 and goes to the Senate next for consideration.*
-- H.Res. 109: Providing amounts for the expenses of the Committee on Ways and Means in the One Hundred Nineteenth Congress. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 5, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R.… | Aye | Passed |
-| 2026-03-27 | On Ordering the Previous Question: H.Res. 1142: Providing for disposition of the… | Yea | Passed |
-| 2026-03-27 | On Motion to Adjourn | Not Voting | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | Yea | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | Yea | Passed |
-| 2026-03-26 | On Motion to Recommit: H.R. 8029: Pay Our Homeland Defenders Act | Nay | Failed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Depa… | Yea | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | Yea | Passed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412596) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2026-03-27 | H.Res. 1142: Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appro | **Aye** | Passed |
-| 2026-03-27 | H.R. 7084: Defending American Property Abroad Act of 2026 | **Yea** | Passed |
-| 2026-03-26 | H.R. 8029: Pay Our Homeland Defenders Act | **Yea** | Passed |
-| 2026-03-26 | H.Res. 1128: Expressing the support of the House of Representatives for the Department of Homeland Security. | **Yea** | Passed |
-| 2026-03-25 | H.R. 5103: Make the District of Columbia Safe and Beautiful Act of 2025 | **Yea** | Passed |
-| 2026-03-25 | H.Res. 1131: Providing for consideration of the bill (H.R. 8029) making appropriations for the Department of Homeland Se | **Aye** | Passed |
-| 2026-03-24 | H.R. 6422: American Water Stewardship Act | **Yea** | Passed |
-| 2026-03-19 | H.R. 4638: Federal Working Animal Protection Act | **Yea** | Passed |
-| 2026-03-18 | H.J.Res. 139: Proposing an amendment to the Constitution of the United States requiring a balanced budget for the Federa | **Yea** | Failed |
-| 2026-03-18 | H.R. 1958: Deporting Fraudsters Act of 2026 | **Yea** | Passed |
-| 2026-03-18 | H.R. 556: Protecting Access for Hunters and Anglers Act | **Aye** | Passed |
-| 2026-03-17 | H.Res. 1115: Providing for consideration of the bill (H.R. 556) to prohibit the Secretary of the Interior and the Secret | **Aye** | Passed |
-| 2026-03-17 | S. 3971: Small Business Innovation and Economic Security Act | **Yea** | Passed |
-| 2026-03-17 | H.R. 4294: MAWS Act of 2026 | **Yea** | Passed |
-| 2026-03-05 | H.R. 7744: Department of Homeland Security Appropriations Act, 2026 | **Yea** | Passed |
-
-**Sources**
-
-- [GovTrack: Jason Smith](https://www.govtrack.us/congress/members/412596) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -388,34 +389,6 @@ On trade, he adopts Trump's protectionist language — "treating countries how t
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 14 |
-| Bills Cosponsored | 67 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- International Affairs (10)
-- Taxation (9)
-- Crime and Law Enforcement (8)
-- Agriculture and Food (7)
-- Finance and Financial Sector (6)
-- Health (4)
-- Environmental Protection (4)
-- Transportation and Public Works (4)
-- Congress (4)
-- Foreign Trade and International Finance (3)
-
-**Enacted into law:**
-
-- HR 4004: United States-Taiwan Initiative on 21st-Century Trade First Agreement Implementation Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

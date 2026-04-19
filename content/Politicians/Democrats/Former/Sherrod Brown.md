@@ -161,6 +161,16 @@ donors: [[Teamsters - International Brotherhood of Teamsters]]
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 14,251 |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Sherrod Brown. U.S. Senator from Ohio (2007–2025). Former U.S. Representative (1993–2007). The last statewide Democrat to win in Ohio. Labor populist — trade skeptic, union ally, opponent of corporate consolidation, critic of China trade policies. His defeat in 2024 to crypto-backed Republican Bernie Moreno ended the era of Democratic viability in Ohio and exemplifies how donor-class capital can outspend labor movements 4-to-1 and win.
@@ -304,89 +314,7 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - {{src:src_001996}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $24,471,408 |
-| Individual Contributions | $10,630,970 |
-| PAC Contributions | $701,523 |
-| Cash on Hand | 16514461.43 |
-| IE Support (Super PAC) | $18,005,691 |
-| IE Opposition (Super PAC) | $217,170,221 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $24,471,408 | $10,630,970 | $701,523 |
-| 2024 | $103,336,341 | $54,135,083 | $3,938,332 |
-| 2018 | $28,817,989 | $14,941,915 | $3,801,459 |
-| 2012 | $24,831,022 | $13,198,453 | $3,189,343 |
-| 2006 | $8,937,005 | $5,453,392 | $1,471,968 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| SENATE LEADERSHIP FUND | $0 | $117,222,951 |
-| AMERICAN CROSSROADS | $0 | $58,125,688 |
-| BUCKEYE VALUES PAC | $0 | $12,774,928 |
-| WINSENATE | $12,170,854 | $0 |
-| CROSSROADS GRASSROOTS POLICY STRATEGIES | $0 | $11,968,181 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
-
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 14,251 |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
-
-<!-- auto:govtrack pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 897 |
-| Bills Cosponsored | 7,312 |
-| Total Votes Cast | 14,251 |
-
-**Recent bills sponsored:**
-
-- S. 2784: A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust the boundary of the Dayton Aviation Heri — *This bill was introduced in a previous session of Congress and was passed by the Senate on December 19, 2024 but was never passed by the House.*
-- S.Res. 870: A resolution designating the week of September 15 through September 21, 2024, as “Community School Coordinators Apprecia — *This resolution was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
-- S. 131: Improving Access to Workers’ Compensation for Injured Federal Workers Act — *This bill was introduced on September 25, 2024, in a previous session of Congress, but it did not receive a vote.*
-- S. 5034: American Energy Worker Opportunity Act of 2024 — *This bill was introduced on September 12, 2024, in a previous session of Congress, but it did not receive a vote.*
-- S. 4997: Veterans Supplemental Appropriations Act, 2024 — *This bill was introduced on September 9, 2024, in a previous session of Congress, but it did not receive a vote.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | Yea | Bill Passed |
-| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | Yea | Bill Passed |
-| 2024-12-20 | On the Motion (Motion to Waive All Applicable Budgetary Discipline Re: H.R. 82) | Yea | Motion Agreed to |
-| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension o… | Nay | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | Nay | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | Nay | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages f… | Nay | Amendment Rejected |
-| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United Sta… | Yea | Nomination Confirmed |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/400050) (Tier 1)
-
-<!-- auto:govtrack pending-merge end -->
 
 ### Sanctions & PEP Screening (OpenSanctions)
 <!-- auto:opensanctions start -->
@@ -431,33 +359,6 @@ The class lesson Brown's defeat teaches is that labor movements cannot own polit
 - {{src:src_006846}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-<!-- auto:fec-summary pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $14,356,451 |
-| Total Spent | $4,456,809 |
-| Cash on Hand | 9899641.92 |
-| Individual Contributions | $5,958,251 |
-| PAC Contributions | $600,126 |
-| Coverage Through | 2025-12-31 |
-
-**Fundraising history:**
-
-| Cycle | Raised | Spent | Cash on Hand |
-|-------|--------|-------|-------------|
-| 2026 | $14,356,451 | $4,456,809 | 9899641.92 |
-| 2024 | $103,336,341 | $104,313,356 | 394230.48 |
-| 2018 | $28,817,989 | $27,997,834 | 1371245.26 |
-| 2012 | $24,831,022 | $24,567,107 | 551089.00 |
-| 2006 | $8,937,005 | $10,752,667 | 287174.00 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/S6OH00163/) (Tier 1)
-
-<!-- auto:fec-summary pending-merge end -->
 
 ### Committee Assignments (Congress.gov)
 <!-- auto:committee-assignments start -->
@@ -466,15 +367,6 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/C001091)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-_No committee data found._
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Legislative Activity (Congress.gov)
 <!-- auto:congress-legislation start -->
@@ -505,37 +397,6 @@ _No committee data found._
 - ~~[Source: Congress.gov](https://www.congress.gov/member/B001313)~~ (was Tier 1 — URL broken, archived by Ops) (Tier 1)
 <!-- auto:congress-legislation end -->
 
-<!-- auto:congress-legislation pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Scope | Career Total |
-| Party | Democrat |
-| State | OH |
-| Chamber | Senate |
-| Bills Sponsored | 36 |
-| Bills Cosponsored | 960 |
-
-**Policy areas:** Agriculture and Food, Armed Forces and National Security, Arts, Culture, Religion, Civil Rights and Liberties, Minority Issues, Congress, Economics and Public Finance, Education, Finance and Financial Sector, Government Operations and Politics, Health, Housing and Community Development, International Affairs, Labor and Employment, Sports and Recreation
-
-**Recent sponsored legislation:**
-
-| Bill | Title | Status |
-|------|-------|--------|
-| 7975 | Feeding Families Not Fear Act of 2026 | Referred to the Committee on the Judiciary, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned. |
-| 7685 | Healthy Hair Act | Referred to the House Committee on Energy and Commerce. |
-| 1004 | Honoring Reverend Dr. Martin Luther King, Jr., by celebrating diversity, promoti… | Referred to the House Committee on the Judiciary. |
-| 6429 | Expanding Cybersecurity Workforce Act of 2025 | Referred to the House Committee on Homeland Security. |
-| 5457 | Strengthening Agency Management and Oversight of Software Assets Act | Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs. |
-| 5255 | Thriving Community Gardens Act | Referred to the House Committee on Education and Workforce. |
-| 4635 | To designate the facility of the United States Postal Service located at 890 Eas… | Motion to reconsider laid on the table Agreed to without objection. |
-| 4392 | Uterine Fibroid Intervention and Gynecological Health Treatment Act of 2025 | Referred to the House Committee on Energy and Commerce. |
-
-- [Source: Congress.gov](https://www.congress.gov/member/B001313) (Tier 1)
-
-<!-- auto:congress-legislation pending-merge end -->
 
 ### Voting Record
 <!-- auto:voting-record start -->
@@ -577,34 +438,6 @@ _No committee data found._
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
-<!-- auto:voting-record pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Key Votes**
-
-| 2024-12-21 | H.R. 10545 (118th): American Relief Act, 2025 | **Yea** | Bill Passed |
-| 2024-12-21 | H.R. 82 (118th): Social Security Fairness Act of 2023 | **Yea** | Bill Passed |
-| 2024-12-20 | S.Amdt. 3331 (Crapo) to H.R. 82: To delay the repeal of the Government pension offset and windfall elimination provision | **Nay** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3360 (Cruz) to H.R. 82: In the nature of a substitute. | **Nay** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3352 (Paul) to H.R. 82: To provide for automatic continuing resolutions. | **Nay** | Amendment Rejected |
-| 2024-12-20 | S.Amdt. 3346 (Paul) to H.R. 82: To adjust the normal and early retirement ages for Social Security benefits and increase | **Nay** | Amendment Rejected |
-| 2024-12-20 | On the Nomination PN2245: Serena Raquel Murillo, of California, to be United States District Judge for the Central Distr | **Yea** | Nomination Confirmed |
-| 2024-12-20 | Motion to Invoke Cloture: Serena Raquel Murillo to be U.S. District Judge for the Central District of California: Serena | **Yea** | Cloture Motion Agreed to |
-| 2024-12-20 | On the Nomination PN2244: Benjamin J. Cheeks, of California, to be United States District Judge for the Southern Distric | **Yea** | Nomination Confirmed |
-| 2024-12-20 | Motion to Invoke Cloture: Benjamin J. Cheeks to be U.S. District Judge for the Southern District of California: Benjamin | **Yea** | Cloture Motion Agreed to |
-| 2024-12-18 | S. 4367 (118th): Thomas R. Carper Water Resources Development Act of 2024 | **Yea** | Motion Agreed to |
-| 2024-12-18 | Motion to Invoke Cloture: Motion to Proceed to H.R. 82 | **Yea** | Cloture on the Motion to Proceed Agreed to |
-| 2024-12-18 | H.R. 5009 (118th): To authorize appropriations for fiscal year 2025 for military activities of the Department of Defense | **Yea** | Motion Agreed to |
-| 2024-12-16 | Motion to Invoke Cloture: Motion to Concur in the House Amendment to the Senate Amendment to H.R. 5009 | **Yea** | Cloture Motion Agreed to |
-| 2024-12-12 | On the Nomination PN1980: Matthew James Marzano, of Illinois, to be a Member of the Nuclear Regulatory Commission for th | **Yea** | Nomination Confirmed |
-
-**Sources**
-
-- [Congress.gov: Sherrod Brown](https://www.congress.gov/member/f000485) (Tier 1)
-- [GovTrack: Sherrod Brown](https://www.govtrack.us/congress/members/400050) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

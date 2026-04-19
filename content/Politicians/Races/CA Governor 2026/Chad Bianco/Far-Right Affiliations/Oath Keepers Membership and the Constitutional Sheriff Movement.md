@@ -113,7 +113,6 @@ Bianco is the most prominent California example. He is also the one running for 
 - [GW Program on Extremism. Oath Keepers](https://extremism.gwu.edu/oath-keepers) (Tier 1) (VERIFIED)
 - [PBS. Rhodes sentencing](https://www.pbs.org/newshour/politics/oath-keepers-founder-sentenced-to-18-years-for-seditious-conspiracy-in-jan-6-capitol-attack) (Tier 2) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 
 ### Voting Record

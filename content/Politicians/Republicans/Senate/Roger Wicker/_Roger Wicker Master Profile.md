@@ -171,6 +171,58 @@ donors: [[Lockheed Martin]] [[Northrop Grumman]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 35 |
+| Bills Cosponsored | 448 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- International Affairs (43)
+- Environmental Protection (35)
+- Taxation (30)
+- Crime and Law Enforcement (29)
+- Science, Technology, Communications (25)
+- Education (23)
+- Government Operations and Politics (23)
+- Congress (20)
+- Armed Forces and National Security (20)
+
+**Recent bills sponsored:**
+
+- S 5618: A bill to promote defense innovation, and for other purposes.
+- SRES 878: A resolution honoring the life, legacy, and contributions of James Earl Jones.
+- S 4994: Vicksburg National Military Park Boundary Modification Act
+- SRES 802: A resolution designating August 2023 as "National Catfish Month".
+- SRES 791: A resolution designating August 1, 2024, as "Gold Star Children's Day".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 237 |
+| Total Votes Cast | 14,606 |
+
+**Recent bills sponsored:**
+
+- S. 4164: A bill to make technical corrections to the National Defense Authorization Act for Fiscal Year 2026. — *This bill passed in the Senate on March 23, 2026 and goes to the House next for consideration.*
+- S. 4138: A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States — *This bill was enacted after being signed by the President on March 20, 2026.*
+- S. 4154: Research and Oversight of AI in Courts Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3266: USMMA Athletics Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
+- S.Con.Res. 27: A concurrent resolution celebrating the 125th Anniversary of the Army Nurse Corps. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/roger_wicker/400432) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Roger Wicker. Republican, Mississippi. Senior Senator, appointed December 31, 2007 to fill Trent Lott's vacated seat, subsequently elected in 2008 and re-elected in 2012, 2018, and 2024 (current term ends January 2031). Chair, Senate Armed Services Committee (119th Congress), the committee with jurisdiction over the entire Department of Defense budget, military operations, weapons systems acquisition, and base infrastructure.
@@ -273,26 +325,6 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 237 |
-| Total Votes Cast | 14,606 |
-
-**Recent bills sponsored:**
-
-- S. 4164: A bill to make technical corrections to the National Defense Authorization Act for Fiscal Year 2026. — *This bill passed in the Senate on March 23, 2026 and goes to the House next for consideration.*
-- S. 4138: A bill to waive the 60-day notice requirement for the posthumous honorary promotion of Captain Cody Khork, United States — *This bill was enacted after being signed by the President on March 20, 2026.*
-- S. 4154: Research and Oversight of AI in Courts Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 19, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3266: USMMA Athletics Act of 2025 — *The committees assigned to this bill sent it to the House or Senate as a whole for consideration on February 12, 2026.*
-- S.Con.Res. 27: A concurrent resolution celebrating the 125th Anniversary of the Army Nurse Corps. — *This resolution is in the first stage of the legislative process. It was introduced into Congress on February 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/roger_wicker/400432) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 
@@ -336,35 +368,6 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 8 |
-| Purchases | 2 |
-| Sales | 6 |
-| Est. Value Range | $50,008 – $225,000 |
-
-**Top tickers traded:** GDV, BIF
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 11/17/2014 | -- | Sale | $1,001 - $15,000 | Spouse |
-| 08/24/2018 | GDV | Sale | $1,001 - $15,000 | Spouse |
-| 05/17/2019 | BIF | Purchase | $1,001 - $15,000 | Spouse |
-| 05/17/2019 | GDV | Sale | $1,001 - $15,000 | Spouse |
-| 04/29/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
-| 04/23/2018 | GDV | Purchase | $1,001 - $15,000 | Spouse |
-| 04/23/2018 | -- | Sale | $15,001 - $50,000 | Spouse |
-| 01/02/2014 | -- | Sale | $15,001 - $50,000 | Spouse |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -381,24 +384,6 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 0 of 2 |
-| Donors With Federal Contracts | 2 |
-| Committee Overlap Detected | 2 donors |
-
-**Donate → Lobby → Committee chains:**
-
-- **Lockheed Martin** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
-- **Northrop Grumman** donates → Lobbies on **Defense & Military** → This member sits on **Armed Services**
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -435,38 +420,6 @@ On foreign policy, Wicker positions as a reliable hawk, pro-Ukraine, pro-Taiwan,
 
 ## Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 35 |
-| Bills Cosponsored | 448 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (67)
-- International Affairs (43)
-- Environmental Protection (35)
-- Taxation (30)
-- Crime and Law Enforcement (29)
-- Science, Technology, Communications (25)
-- Education (23)
-- Government Operations and Politics (23)
-- Congress (20)
-- Armed Forces and National Security (20)
-
-**Recent bills sponsored:**
-
-- S 5618: A bill to promote defense innovation, and for other purposes.
-- SRES 878: A resolution honoring the life, legacy, and contributions of James Earl Jones.
-- S 4994: Vicksburg National Military Park Boundary Modification Act
-- SRES 802: A resolution designating August 2023 as "National Catfish Month".
-- SRES 791: A resolution designating August 1, 2024, as "Gold Star Children's Day".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

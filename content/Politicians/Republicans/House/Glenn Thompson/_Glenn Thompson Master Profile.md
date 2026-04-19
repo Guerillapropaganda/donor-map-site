@@ -163,6 +163,34 @@ donors:
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 310 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (67)
+- Labor and Employment (31)
+- Taxation (27)
+- Armed Forces and National Security (26)
+- Education (24)
+- Crime and Law Enforcement (24)
+- Government Operations and Politics (19)
+- International Affairs (18)
+- Agriculture and Food (14)
+- Finance and Financial Sector (12)
+
+**Enacted into law:**
+
+- HR 3165: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Glenn "GT" Thompson represents Pennsylvania's 15th Congressional District and chairs the House Agriculture Committee, the body that writes the Farm Bill, the single largest piece of legislation governing federal agriculture, nutrition, and rural programs. He is the first Pennsylvanian to chair the Agriculture Committee in nearly 170 years.
@@ -352,34 +380,6 @@ Agriculture Committee jurisdiction maps directly to donor base: Farm Bill (crop 
 - {{src:src_004463}} (Tier 1)
 <!-- auto:fec-summary end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 32 |
-| Bills Cosponsored | 310 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (67)
-- Labor and Employment (31)
-- Taxation (27)
-- Armed Forces and National Security (26)
-- Education (24)
-- Crime and Law Enforcement (24)
-- Government Operations and Politics (19)
-- International Affairs (18)
-- Agriculture and Food (14)
-- Finance and Financial Sector (12)
-
-**Enacted into law:**
-
-- HR 3165: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

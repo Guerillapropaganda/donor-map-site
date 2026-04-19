@@ -157,6 +157,34 @@ top-donors: "[[AT&T - WarnerMedia]], [[DoorDash]], [[Johnson & Johnson]], [[Asso
 
 # Steve Daines
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 58 |
+| Bills Cosponsored | 450 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (64)
+- International Affairs (44)
+- Finance and Financial Sector (35)
+- Armed Forces and National Security (30)
+- Crime and Law Enforcement (30)
+- Public Lands and Natural Resources (28)
+- Taxation (28)
+- Education (23)
+- Congress (23)
+- Immigration (22)
+
+**Enacted into law:**
+
+- S 758: Moving Americans Privacy Protection Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Steve Daines. Republican, Montana. US Senator since January 2015. Previously represented Montana At-Large in the House 2013-2015. Born August 1962. Pre-politics career at Procter & Gamble and then as a senior vice president at RightNow Technologies, a Montana-based software company acquired by Oracle in 2012. Chair of the NRSC for the 2024 cycle, producing a 53-47 Senate Republican majority and directly responsible for the IE spending operations that targeted Slotkin, Rosen, Brown, and Casey. Assigned to Finance, Appropriations, Energy & Natural Resources, and Indian Affairs across recent Congresses. 95.1% party-line loyalty across 2,673 substantive votes.
@@ -257,34 +285,6 @@ The systemic observation is that Daines demonstrates how Republican Senate leade
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 58 |
-| Bills Cosponsored | 450 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (64)
-- International Affairs (44)
-- Finance and Financial Sector (35)
-- Armed Forces and National Security (30)
-- Crime and Law Enforcement (30)
-- Public Lands and Natural Resources (28)
-- Taxation (28)
-- Education (23)
-- Congress (23)
-- Immigration (22)
-
-**Enacted into law:**
-
-- S 758: Moving Americans Privacy Protection Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -158,6 +158,29 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]]
 ---
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 5,551 |
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 1905-03-03 | TO PROCEED TO CONSIDERATION OF H.R. 12273 (APP. 3-3-05, 33, STAT. L. 1263), A BI… | Not Voting | unknown |
+| 1905-03-03 | TO PASS S.J.RES. 114, PROPOSING TO CONTINUE IN FORCE THE PROVISIONS OF SECTION 2… | Not Voting | unknown |
+| 1905-03-01 | TO AGREE TO THE FIRST DIVISION OF AMENDMENT TO H.R. 17865, (APP. 3-3-05, 33 STAT… | Not Voting | unknown |
+| 1905-03-01 | TO AMEND THE FIRST DIVISION OF THE AMENDMENT TO H.R. 17865, (APP. 3-3-05, 33 STA… | Not Voting | unknown |
+| 1905-02-28 | TO DECIDE THE POINT OF ORDER THAT THE AMENDMENT PROPOSING THAT NO PORTION OF THE… | Not Voting | unknown |
+| 1905-02-28 | TO AMEND H.R. 17474, BY GIVING THE INDIAN THE RIGHT TO DECIDE WHETHER ANY PART O… | Not Voting | unknown |
+| 1905-02-28 | TO SUSTAIN THE DECISION OF THE CHAIR DURING CONSIDERATION OF H.R. 17474, WHICH D… | Not Voting | unknown |
+| 1905-02-27 | TO DECIDE THE GUILT OR INNOCENCE OF CHARLES SWAYNE, U.S. DISTRICT COURT JUDGE IN… | Not Voting | unknown |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/405245) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Josh Hawley. Junior Senator from Missouri (2019–present). Former Missouri Attorney General (2017–2019). Judiciary Committee. Yale Law, Stanford undergrad. Worked at Becket Fund for Religious Liberty (2011–2015). Wife Erin Hawley is ADF senior counsel. Author, "The Tyranny of Big Tech" ($467K royalties 2021). Net worth: ~$2.8 million. The senator who raised his fist at January 6 protesters and was rewarded with $969,000 in a single month from 12,000 new donors.
@@ -297,29 +320,6 @@ The household economics complete the picture. Josh Hawley's wife Erin Hawley is 
 ### Voting Record
 
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 5,551 |
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 1905-03-03 | TO PROCEED TO CONSIDERATION OF H.R. 12273 (APP. 3-3-05, 33, STAT. L. 1263), A BI… | Not Voting | unknown |
-| 1905-03-03 | TO PASS S.J.RES. 114, PROPOSING TO CONTINUE IN FORCE THE PROVISIONS OF SECTION 2… | Not Voting | unknown |
-| 1905-03-01 | TO AGREE TO THE FIRST DIVISION OF AMENDMENT TO H.R. 17865, (APP. 3-3-05, 33 STAT… | Not Voting | unknown |
-| 1905-03-01 | TO AMEND THE FIRST DIVISION OF THE AMENDMENT TO H.R. 17865, (APP. 3-3-05, 33 STA… | Not Voting | unknown |
-| 1905-02-28 | TO DECIDE THE POINT OF ORDER THAT THE AMENDMENT PROPOSING THAT NO PORTION OF THE… | Not Voting | unknown |
-| 1905-02-28 | TO AMEND H.R. 17474, BY GIVING THE INDIAN THE RIGHT TO DECIDE WHETHER ANY PART O… | Not Voting | unknown |
-| 1905-02-28 | TO SUSTAIN THE DECISION OF THE CHAIR DURING CONSIDERATION OF H.R. 17474, WHICH D… | Not Voting | unknown |
-| 1905-02-27 | TO DECIDE THE GUILT OR INNOCENCE OF CHARLES SWAYNE, U.S. DISTRICT COURT JUDGE IN… | Not Voting | unknown |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/405245) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ### Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->

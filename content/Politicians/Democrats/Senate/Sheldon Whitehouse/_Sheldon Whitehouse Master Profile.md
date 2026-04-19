@@ -232,6 +232,38 @@ SORT file.name ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 61 |
+| Bills Cosponsored | 576 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (86)
+- Crime and Law Enforcement (59)
+- Taxation (46)
+- International Affairs (41)
+- Armed Forces and National Security (39)
+- Government Operations and Politics (37)
+- Civil Rights and Liberties, Minority Issues (33)
+- Environmental Protection (28)
+- Labor and Employment (27)
+- Education (26)
+
+**Recent bills sponsored:**
+
+- S 5612: A bill to amend part C of title XVIII of the Social Security Act to provide for prior authorization reforms under the...
+- S 5441: A bill to provide for offshore wind energy development, and for other purposes.
+- S 5399: Medical Bankruptcy Fairness Act of 2024
+- SRES 871: Expressing support for the designation of October 2024 as "National Youth Justice Action Month".
+- S 5220: Supreme Court Review Act of 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Sheldon Whitehouse. U.S. Senator from Rhode Island (2007–present). Born November 20, 1955, in New York City to career diplomat Charles Sheldon Whitehouse (whose grandfather was a diplomat to Italy and Guatemala). Grew up in diplomatic households in Saigon, Africa, and Washington. Yale undergraduate (1978), University of Virginia School of Law (1982). Rhode Island Attorney General (1999–2003) before winning his Senate seat in 2006. Personal net worth estimated at $4–6M per public financial disclosures — old-money background, not self-made wealth.
@@ -473,36 +505,6 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 687 |
-| Purchases | 384 |
-| Sales | 272 |
-| Exchanges | 13 |
-| Est. Value Range | $2,993,669 – $15,770,000 |
-
-**Top tickers traded:** GILD, FB, IBM, T, BIIB, NVDA, BMY, C
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/28/2018 | AMZN | Purchase | $1,001 - $15,000 | Joint |
-| 12/28/2018 | F | Sale | $1,001 - $15,000 | Joint |
-| 12/28/2018 | NVDA | Purchase | $1,001 - $15,000 | Joint |
-| 12/28/2018 | T | Sale | $1,001 - $15,000 | Joint |
-| 12/28/2018 | TSLA | Purchase | $1,001 - $15,000 | Joint |
-| 12/28/2018 | BMY | Sale | $15,001 - $50,000 | Joint |
-| 12/28/2018 | ILMN | Purchase | $1,001 - $15,000 | Self |
-| 12/28/2018 | F | Sale | $1,001 - $15,000 | Self |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -555,38 +557,6 @@ Then there is the wife's employer. Sandra Whitehouse has received $2,686,800 fro
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 61 |
-| Bills Cosponsored | 576 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (86)
-- Crime and Law Enforcement (59)
-- Taxation (46)
-- International Affairs (41)
-- Armed Forces and National Security (39)
-- Government Operations and Politics (37)
-- Civil Rights and Liberties, Minority Issues (33)
-- Environmental Protection (28)
-- Labor and Employment (27)
-- Education (26)
-
-**Recent bills sponsored:**
-
-- S 5612: A bill to amend part C of title XVIII of the Social Security Act to provide for prior authorization reforms under the...
-- S 5441: A bill to provide for offshore wind energy development, and for other purposes.
-- S 5399: Medical Bankruptcy Fairness Act of 2024
-- SRES 871: Expressing support for the designation of October 2024 as "National Youth Justice Action Month".
-- S 5220: Supreme Court Review Act of 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

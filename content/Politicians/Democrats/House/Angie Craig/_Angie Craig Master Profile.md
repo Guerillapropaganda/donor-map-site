@@ -154,6 +154,38 @@ donors: Medical Device Industry · St. Jude Medical · Abbott Laboratories · Ag
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 29 |
+| Bills Cosponsored | 543 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (144)
+- Armed Forces and National Security (44)
+- Crime and Law Enforcement (41)
+- Agriculture and Food (40)
+- Taxation (40)
+- Government Operations and Politics (29)
+- Education (27)
+- International Affairs (25)
+- Transportation and Public Works (23)
+- Labor and Employment (22)
+
+**Recent bills sponsored:**
+
+- HR 9621: 21st Century Workforce Partnerships Act
+- HR 8918: Cooper Davis Act
+- HR 8584: Stop Fraud in Federal Programs Act of 2024
+- HR 8493: Task Force to Stop Price Gouging Act of 2024
+- HRES 1245: Recognizing "National Public Works Week".
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 [[_Angie Craig Master Profile|Angie Craig]] is the U.S. Representative for Minnesota's 2nd Congressional District, serving since January 2019. Born February 14, 1972, in West Helena, Arkansas. B.A. from the University of Memphis. Moved to Minnesota in 2005 for a position at St. Jude Medical, the global medical device company headquartered in suburban St. Paul. Rose to vice president of communications at St. Jude, also serving as a director of the company's political action committee. Remained with St. Jude until its 2017 acquisition by Abbott Laboratories. Lost her first Congressional race in 2016 by fewer than 7,000 votes. Won in 2018, defeating one-term Republican Jason Lewis. Reelected 2020, 2022 (51–46%), and 2024 in a consistently competitive swing district. First openly LGBTQ+ person elected to Congress from Minnesota. In December 2024, became the first openly LGBTQ+ person and first woman to serve as Ranking Member of the House Agriculture Committee. Announced April 29, 2025, that she is running for the U.S. Senate in 2026 to succeed retiring Senator Tina Smith.
@@ -293,35 +325,4 @@ party:: Democrat
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 29 |
-| Bills Cosponsored | 543 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (144)
-- Armed Forces and National Security (44)
-- Crime and Law Enforcement (41)
-- Agriculture and Food (40)
-- Taxation (40)
-- Government Operations and Politics (29)
-- Education (27)
-- International Affairs (25)
-- Transportation and Public Works (23)
-- Labor and Employment (22)
-
-**Recent bills sponsored:**
-
-- HR 9621: 21st Century Workforce Partnerships Act
-- HR 8918: Cooper Davis Act
-- HR 8584: Stop Fraud in Federal Programs Act of 2024
-- HR 8493: Task Force to Stop Price Gouging Act of 2024
-- HRES 1245: Recognizing "National Public Works Week".
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

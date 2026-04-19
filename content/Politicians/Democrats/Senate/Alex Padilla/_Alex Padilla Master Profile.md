@@ -188,6 +188,38 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 105 |
+| Bills Cosponsored | 684 |
+| Bills Enacted | 5 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (92)
+- Crime and Law Enforcement (57)
+- Agriculture and Food (56)
+- Education (55)
+- Government Operations and Politics (54)
+- Armed Forces and National Security (40)
+- Civil Rights and Liberties, Minority Issues (36)
+- Labor and Employment (36)
+- Public Lands and Natural Resources (36)
+- International Affairs (33)
+
+**Enacted into law:**
+
+- S 3711: Federal Disaster Tax Relief Act of 2023
+- S 3605: Consolidated Appropriations Act, 2024
+- S 277: Pala Band of Mission Indians Land Transfer Act of 2023
+- S 2803: Wounded Warrior Access Act
+- S 4077: S. 4077, a bill to designate the facility of the United States Postal Service located at 180 Steuart Street in San Fr...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Alex Padilla is the senior U.S. Senator from California and the Ranking Member of the Senate Rules and Administration Committee — the committee overseeing federal election administration, campaign finance law, and Senate operations. He also serves on Judiciary, Environment and Public Works, Budget, and Homeland Security and Governmental Affairs. He was appointed to the Senate in January 2021 by Governor Gavin Newsom after Kamala Harris became Vice President, and won election in his own right in 2022.
@@ -426,38 +458,6 @@ The appointment contradiction adds a layer. Padilla's Senate career began when G
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 105 |
-| Bills Cosponsored | 684 |
-| Bills Enacted | 5 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (92)
-- Crime and Law Enforcement (57)
-- Agriculture and Food (56)
-- Education (55)
-- Government Operations and Politics (54)
-- Armed Forces and National Security (40)
-- Civil Rights and Liberties, Minority Issues (36)
-- Labor and Employment (36)
-- Public Lands and Natural Resources (36)
-- International Affairs (33)
-
-**Enacted into law:**
-
-- S 3711: Federal Disaster Tax Relief Act of 2023
-- S 3605: Consolidated Appropriations Act, 2024
-- S 277: Pala Band of Mission Indians Land Transfer Act of 2023
-- S 2803: Wounded Warrior Access Act
-- S 4077: S. 4077, a bill to designate the facility of the United States Postal Service located at 180 Steuart Street in San Fr...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

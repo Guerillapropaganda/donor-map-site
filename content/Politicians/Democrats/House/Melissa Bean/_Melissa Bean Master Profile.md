@@ -284,14 +284,6 @@ _No committee data found for the 119th Congress._
 
 <!-- auto:committee-assignments end -->
 
-<!-- auto:committee-assignments pending-merge 2026-04-11 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-_No committee data found._
-
-
-<!-- auto:committee-assignments pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -382,15 +374,6 @@ _No committee data found._
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Melissa Bean](https://www.congress.gov/member/s001193) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->

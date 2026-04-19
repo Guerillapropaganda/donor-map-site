@@ -161,6 +161,34 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 20 |
+| Bills Cosponsored | 351 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (49)
+- Health (45)
+- International Affairs (30)
+- Taxation (25)
+- Finance and Financial Sector (23)
+- Environmental Protection (22)
+- Congress (20)
+- Crime and Law Enforcement (19)
+- Education (16)
+- Agriculture and Food (15)
+
+**Enacted into law:**
+
+- S 788: Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 John Boozman is the senior senator from Arkansas and chairs the Senate Agriculture, Nutrition, and Forestry Committee, the Senate counterpart to Glenn Thompson's House Agriculture Committee. Together, the two write the Farm Bill. Boozman also sits on the Appropriations Committee, where he chairs the Military Construction and Veterans Affairs subcommittee.
@@ -282,7 +310,6 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 - [Ballotpedia: John Boozman](https://ballotpedia.org/John_Boozman) (Tier 3) (VERIFIED)
 - [Wikipedia: John Boozman](https://en.wikipedia.org/wiki/John_Boozman) (Tier 3) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -308,33 +335,6 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 
 <!-- auto:stock-trades end -->
 
-<!-- auto:stock-trades pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Trades | 43 |
-| Purchases | 0 |
-| Sales | 0 |
-| Est. Value Range | $0 |
-
-**Recent notable trades:**
-
-| Date | Ticker | Type | Amount | Owner |
-|------|--------|------|--------|-------|
-| 12/20/2019 | N/A | other | Unknown | N/A |
-| 12/12/2018 | N/A | other | Unknown | N/A |
-| 12/12/2017 | N/A | other | Unknown | N/A |
-| 11/26/2018 | N/A | other | Unknown | N/A |
-| 11/17/2016 | N/A | other | Unknown | N/A |
-| 11/07/2017 | N/A | other | Unknown | N/A |
-| 10/28/2016 | N/A | other | Unknown | N/A |
-| 10/18/2017 | N/A | other | Unknown | N/A |
-
-- [Source: Senate Stock Watcher](https://senatestockwatcher.com/) (Tier 1)
-
-<!-- auto:stock-trades pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -369,34 +369,6 @@ The northwest Arkansas connection locks the donor map into place. Boozman's form
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 20 |
-| Bills Cosponsored | 351 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (49)
-- Health (45)
-- International Affairs (30)
-- Taxation (25)
-- Finance and Financial Sector (23)
-- Environmental Protection (22)
-- Congress (20)
-- Crime and Law Enforcement (19)
-- Education (16)
-- Agriculture and Food (15)
-
-**Enacted into law:**
-
-- S 788: Making further continuing appropriations for the fiscal year ending September 30, 2024, and for other purposes.
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

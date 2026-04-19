@@ -172,6 +172,38 @@ donors: [[Blackstone]]
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 37 |
+| Bills Cosponsored | 475 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (74)
+- Education (45)
+- International Affairs (42)
+- Armed Forces and National Security (33)
+- Agriculture and Food (27)
+- Taxation (27)
+- Public Lands and Natural Resources (22)
+- Government Operations and Politics (22)
+- Environmental Protection (21)
+- Congress (20)
+
+**Recent bills sponsored:**
+
+- SRES 924: A resolution designating December 14, 2024, as "National Wreaths Across America Day".
+- SRES 882: A resolution designating the week of September 23 through September 27, 2024, as "National Clean Energy Week".
+- S 5149: Catching Up Family Caregivers Act of 2024
+- S 5148: Improving Retirement Security for Family Caregivers Act of 2024
+- S 5055: Armed Forces Crisis Intervention Notification Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who She Is
 
 Susan Collins. Senior Senator from Maine (1997–present). Armed Services, Appropriations, Health Committee. Career fundraising: $36.4M+. 95% from out-of-state in 2020 cycle. $5.7M from corporate PACs (most in Maine history). Cast the deciding vote on Kavanaugh confirmation and Trump tax bill. The Senate's designated "moderate", a brand that generates premium donor pricing for reliable corporate service.
@@ -281,7 +313,6 @@ Collins does not represent Maine voters. She represents the national corporate d
 - [Common Dreams/Rolling Stone: Schwarzman-tax bill timeline](https://www.commondreams.org/news/collins-private-equity-donation-tax-bill) (Tier 2) (VERIFIED)
 - [Maine Public: post-Kavanaugh fundraising](https://www.mainepublic.org/politics/2019-02-04/collins-brings-in-most-money-of-her-career-after-kavanaugh-vote) (Tier 2) (VERIFIED)
 
-### Legislative Activity (Congress.gov)
 
 ### Congressional Stock Trades (STOCK Act)
 <!-- auto:stock-trades start -->
@@ -348,38 +379,6 @@ Collins does not represent Maine voters. She represents the national corporate d
 ## Committee Assignments (Congress.gov)
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 37 |
-| Bills Cosponsored | 475 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (74)
-- Education (45)
-- International Affairs (42)
-- Armed Forces and National Security (33)
-- Agriculture and Food (27)
-- Taxation (27)
-- Public Lands and Natural Resources (22)
-- Government Operations and Politics (22)
-- Environmental Protection (21)
-- Congress (20)
-
-**Recent bills sponsored:**
-
-- SRES 924: A resolution designating December 14, 2024, as "National Wreaths Across America Day".
-- SRES 882: A resolution designating the week of September 23 through September 27, 2024, as "National Clean Energy Week".
-- S 5149: Catching Up Family Caregivers Act of 2024
-- S 5148: Improving Retirement Security for Family Caregivers Act of 2024
-- S 5055: Armed Forces Crisis Intervention Notification Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

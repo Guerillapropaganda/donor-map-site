@@ -165,6 +165,36 @@ donors:
 ---
 ---
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 21 |
+| Bills Cosponsored | 127 |
+| Bills Enacted | 3 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (18)
+- Transportation and Public Works (15)
+- Crime and Law Enforcement (14)
+- Taxation (11)
+- Finance and Financial Sector (10)
+- Armed Forces and National Security (10)
+- Government Operations and Politics (10)
+- International Affairs (10)
+- Education (8)
+- Agriculture and Food (8)
+
+**Enacted into law:**
+
+- HR 8289: Airport and Airway Extension Act of 2024, Part II
+- HR 5711: Continuing Appropriations Act, 2024 and Other Extensions Act
+- HR 7454: Airport and Airway Extension Act of 2023, Part II
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Sam Graves has represented Missouri's 6th Congressional District since 2001, now in his 13th term, and chairs the House Transportation and Infrastructure Committee. The T&I Committee has jurisdiction over every mode of American transportation: aviation (FAA), highways and bridges (Federal Highway Administration), transit and rail (FRA, Amtrak), pipelines (PHMSA), maritime transport, and the Army Corps of Engineers. It is the largest committee in Congress and oversees trillions in infrastructure spending.
@@ -328,36 +358,6 @@ Graves brands himself as a Missouri farmer and small-government conservative. He
 - {{src:src_004201}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 21 |
-| Bills Cosponsored | 127 |
-| Bills Enacted | 3 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (18)
-- Transportation and Public Works (15)
-- Crime and Law Enforcement (14)
-- Taxation (11)
-- Finance and Financial Sector (10)
-- Armed Forces and National Security (10)
-- Government Operations and Politics (10)
-- International Affairs (10)
-- Education (8)
-- Agriculture and Food (8)
-
-**Enacted into law:**
-
-- HR 8289: Airport and Airway Extension Act of 2024, Part II
-- HR 5711: Continuing Appropriations Act, 2024 and Other Extensions Act
-- HR 7454: Airport and Airway Extension Act of 2023, Part II
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

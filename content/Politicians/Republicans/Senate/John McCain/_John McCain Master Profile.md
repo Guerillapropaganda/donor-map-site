@@ -126,6 +126,15 @@ urls-first-triaged: "2026-04-15"
 
 **related:** [[_Lindsey Graham Master Profile|Lindsey Graham]] · [[_Donald Trump Master Profile|Trump]] · [[Lockheed Martin]] · [[Boeing]] · [[Raytheon Technologies]] · [[Northrop Grumman]] · [[AT&T - American Telephone & Telegraph|AT&T]] · [[Hensley & Co]]
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 12,179 |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 John McCain (1936–2018) served as U.S. Senator from Arizona (1987–2018) and was the 2008 Republican presidential nominee. A Navy pilot and Vietnam War POW (shot down 1967, held captive 5.5 years), McCain built his political brand on military service, "maverick" independence, and campaign finance reform. His Keating Five scandal (1989) involved improper influence from savings & loan tycoon Charles Keating; McCain was cleared but damaged.
@@ -179,15 +188,6 @@ His opposition to Trump's tariffs on China (2018) and defense budget cuts (2017)
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 12,179 |
-
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

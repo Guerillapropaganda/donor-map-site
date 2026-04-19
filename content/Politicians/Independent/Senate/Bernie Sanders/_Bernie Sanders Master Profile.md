@@ -192,6 +192,38 @@ top-policy-area: Health
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 50 |
+| Bills Cosponsored | 495 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (55)
+- Labor and Employment (45)
+- Government Operations and Politics (37)
+- Agriculture and Food (35)
+- Crime and Law Enforcement (34)
+- Taxation (32)
+- Civil Rights and Liberties, Minority Issues (31)
+- Education (30)
+- Armed Forces and National Security (29)
+- International Affairs (27)
+
+**Recent bills sponsored:**
+
+- SJRES 112: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 114: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 113: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 111: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
+- SJRES 116: A joint resolution providing for congressional disapproval of the proposed enhancement or upgrade of sensitivity of t...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Bernard Sanders. Born September 8, 1941, Brooklyn, New York. Independent (caucuses with Democrats). U.S. Senator from Vermont (2007–present). Former U.S. Representative (1991–2007). Former Mayor of Burlington, Vermont (1981–1989). 2016 and 2020 Democratic presidential candidate.
@@ -486,38 +518,6 @@ For IBEW members specifically: Sanders' Raise the Wage Act, PRO Act, and prevail
 
 <!-- auto:congress-legislation end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 50 |
-| Bills Cosponsored | 495 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (55)
-- Labor and Employment (45)
-- Government Operations and Politics (37)
-- Agriculture and Food (35)
-- Crime and Law Enforcement (34)
-- Taxation (32)
-- Civil Rights and Liberties, Minority Issues (31)
-- Education (30)
-- Armed Forces and National Security (29)
-- International Affairs (27)
-
-**Recent bills sponsored:**
-
-- SJRES 112: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
-- SJRES 114: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
-- SJRES 113: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
-- SJRES 111: A joint resolution providing for congressional disapproval of the proposed foreign military sale to the Government of...
-- SJRES 116: A joint resolution providing for congressional disapproval of the proposed enhancement or upgrade of sensitivity of t...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -237,27 +237,6 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 44 |
-| Courts | Court of Appeals for the Ninth Circuit, Court of Appeals for the Second Circuit, District Court, C.D. California, District Court, E.D. California, District Court, S.D. California, District Court, W.D. New York |
-| Case Types | 890 Other Statutory Actions, 899 Other Statutes: Administrative Procedures Act/Review or Appeal of Agency Decision, 950 Constitutional - State Statute, Constitutional - State Statute |
-
-**Notable cases:**
-- California League of Food Producers v. Bonta (2026) — District Court, S.D. California
-- California Chamber of Commerce, et al. v. Bonta, et al. (2025) — Court of Appeals for the Ninth Circuit
-- United States of America Chamber of Commerce, et al. v. Sanchez, et al. (2025) — Court of Appeals for the Ninth Circuit
-- Daimler Truck North America LLC v. CA Air Resources Board (2025) — District Court, E.D. California
-- Western Growers Association v. Agricultural Labor Relations Board (2025) — District Court, E.D. California
-- California Chamber of Commerce v. Bonta (2024) — District Court, E.D. California
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Western%20Growers%20Association%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -323,26 +302,6 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 61 |
-| Form Types | 10-K, 10-K/A, 10KSB, 20-F, 20-F/A, 424B4, 485BPOS, 8-K +14 more |
-
-**Notable filings:**
-
-- 2018-08-02 — **8-K**: 8-K
-- 2018-08-02 — **EX-99.1**: EX-99.1
-- 2021-02-25 — **DEF 14A**: DEF 14A
-- 2003-05-28 — **10KSB**: 10KSB
-- 2001-08-20 — **SB-2**: SB-2
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Western%20Growers%20Association%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Federal Register Activity
 <!-- auto:federal-register start -->
@@ -366,30 +325,6 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 22 |
-| Final Rules | 8 |
-| Proposed Rules | 8 |
-| Notices | 6 |
-| Agencies | Agricultural Marketing Service, Agriculture Department, Environmental Protection Agency, Fish and Wildlife Service, Food and Drug Administration, Health and Human Services Department, Homeland Security Department, Interior Department +2 more |
-
-**Recent regulatory activity:**
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2015/11/27/2015-28159/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2015-11-27) — Health and Human Services Department ★
-- [Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption](https://www.federalregister.gov/documents/2013/01/16/2013-00123/standards-for-the-growing-harvesting-packing-and-holding-of-produce-for-human-consumption) (2013-01-16) — Health and Human Services Department ★
-- [Perishable Agricultural Commodities Act: Increase in License Fees](https://www.federalregister.gov/documents/2010/08/24/2010-20978/perishable-agricultural-commodities-act-increase-in-license-fees) (2010-08-24) — Agriculture Department
-- [Draft Guidance for Industry: Guide to Minimize Microbial Food Safety Hazards of Leafy Greens; Availability](https://www.federalregister.gov/documents/2009/08/03/E9-18451/draft-guidance-for-industry-guide-to-minimize-microbial-food-safety-hazards-of-leafy-greens) (2009-08-03) — Health and Human Services Department
-- [Hazardous Materials: Miscellaneous Cargo Tank Motor Vehicle and Cylinder Issues; Petitions for Rulemaking](https://www.federalregister.gov/documents/2009/04/09/E9-8021/hazardous-materials-miscellaneous-cargo-tank-motor-vehicle-and-cylinder-issues-petitions-for) (2009-04-09) — Transportation Department
-- [Safe Harbor Procedures for Employers Who Receive a No-Match Letter: Clarification; Final Regulatory Flexibility Analysis](https://www.federalregister.gov/documents/2008/10/28/E8-25544/safe-harbor-procedures-for-employers-who-receive-a-no-match-letter-clarification-final-regulatory) (2008-10-28) — Homeland Security Department
-- ... and 16 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Western%20Growers%20Association%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
 
 ### DOJ Press Releases
 <!-- auto:doj-press removed 2026-04-10 by Research Claude: was showing >10K DOJ mentions from the API index-size false-positive bug. Main engine fix d1ceb91 (2026-04-10) caps at 10K + validates 60% name match. Will repopulate correctly on next pipeline run. -->
@@ -419,33 +354,6 @@ The PAGA reform spending ($9.5 million coalition) reveals the second dimension. 
 - [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1) (VERIFIED)
 <!-- auto:fec-donor end -->
 
-<!-- auto:fec-donor pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Political Spend | $481,034 |
-| Contributions | 323 |
-
-**Top recipients:**
-
-| Recipient | Amount | Party |
-|-----------|--------|-------|
-| AMERICAN FUTURE FUND POLITICAL ACTION | $120,000 | — |
-| HOEVEN FOR SENATE | $17,500 | REP |
-| RNC REPUBLICAN NATIONAL STATE ELECTION COMMITTEE | $15,863 | — |
-| MCCARTHY VICTORY FUND | $15,000 | — |
-| KEVIN MCCARTHY FOR CONGRESS | $12,500 | REP |
-| FRIENDS OF DENNIS CARDOZA | $10,000 | DEM |
-| TEXANS FOR HENRY CUELLAR CONGRESSIONAL CAMPAIGN | $9,000 | DEM |
-| YVETTE4CONGRESS | $8,800 | NNE |
-| TEXANS FOR RONNY JACKSON | $8,500 | REP |
-| FINSTAD FOR CONGRESS | $8,500 | REP |
-
-- [Source: FEC.gov](https://www.fec.gov/data/receipts/individual-contributions/?contributor_name=Western%20Growers%20Association) (Tier 1)
-
-<!-- auto:fec-donor pending-merge end -->
 
 ### Wikipedia
 <!-- auto:wikipedia start -->
@@ -460,21 +368,6 @@ The Western Growers Association (WGA) is an association representing family farm
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-The Western Growers Association (WGA) is an association representing family farmers who grow fresh produce and tree nuts in California, Arizona, Colorado and New Mexico.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q19321870](https://www.wikidata.org/wiki/Q19321870) |
-| Description | association representing farmers in the states of California and Arizona |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Western_Growers_Association) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q19321870) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Employee Political Contributions (FEC)
 <!-- auto:fec-individual start -->

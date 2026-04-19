@@ -123,7 +123,6 @@ Tillerson operates with corporate executive framing: measured language, institut
 
 ---
 
-### Legislative Activity (Congress.gov)
 
 ## Committee Assignments (Congress.gov)
 

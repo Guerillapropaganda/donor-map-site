@@ -154,6 +154,38 @@ top-donors: "[[Northrop Grumman]], [[Devon Energy]], [[National Association of R
 
 # Kevin Cramer
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 548 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (57)
+- Armed Forces and National Security (52)
+- International Affairs (50)
+- Finance and Financial Sector (38)
+- Crime and Law Enforcement (34)
+- Taxation (33)
+- Environmental Protection (27)
+- Immigration (25)
+- Education (24)
+- Government Operations and Politics (22)
+
+**Recent bills sponsored:**
+
+- S 5113: Homeward Bound Act
+- S 4652: Firearms Interstate Commerce Reform Act
+- S 4493: Expanding Access to Capital Act of 2023
+- S 4404: To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota,...
+- SRES 591: Reaffirming the deep and steadfast United States-Canada partnership and the ties that bind the two countries in suppo...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Kevin Cramer. Republican, North Dakota. US Senator since January 2019, elected 2018 defeating Democratic incumbent Heidi Heitkamp. Previously North Dakota's at-large House member (2013-2019, 3 terms). Born January 1961 in Rolette, ND. Minnesota State University Moorhead graduate. North Dakota Public Service Commissioner (1993-2012) before Congress. Committee assignments not yet pipeline-verified but donor pattern indicates Armed Forces Committee and Banking, Housing, and Urban Affairs Committee positions. 2,152 roll-call votes tracked (116th, 118th, 119th Congress; 117th coverage missing). Voting record: 96.6% party-line loyalty across 2,031 substantive votes, 67 deviations. North Dakota is one of the safest Republican states; the $630K in FOR outside spending reflects a seat no one contested seriously.
@@ -232,35 +264,4 @@ The ClearPath Action Fund ($25K) is an outlier requiring context: ClearPath is a
 **Genuine Win + Structural Limit.** Cramer's constituency service is real: protecting lignite coal, Bakken shale, and ND military bases is what a North Dakota senator is supposed to do, and his donor map reflects those interests. The structural limit is that the same donor map adds Goldman Sachs, AIPAC, and national defense contractors whose interests do not always align with North Dakota's. The Bank of North Dakota (the state-owned bank) and Goldman Sachs have different interests in banking regulation. The coal industry and ClearPath have different interests in energy transition policy. These tensions have not yet produced visible vote-record conflicts, but they are the structural limit of representing North Dakota while holding committee seats that attract national-interest donors.
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 17 |
-| Bills Cosponsored | 548 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (57)
-- Armed Forces and National Security (52)
-- International Affairs (50)
-- Finance and Financial Sector (38)
-- Crime and Law Enforcement (34)
-- Taxation (33)
-- Environmental Protection (27)
-- Immigration (25)
-- Education (24)
-- Government Operations and Politics (22)
-
-**Recent bills sponsored:**
-
-- S 5113: Homeward Bound Act
-- S 4652: Firearms Interstate Commerce Reform Act
-- S 4493: Expanding Access to Capital Act of 2023
-- S 4404: To designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota,...
-- SRES 591: Reaffirming the deep and steadfast United States-Canada partnership and the ties that bind the two countries in suppo...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

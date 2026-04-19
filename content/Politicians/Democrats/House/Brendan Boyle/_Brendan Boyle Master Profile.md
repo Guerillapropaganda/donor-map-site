@@ -160,6 +160,35 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 17 |
+| Bills Cosponsored | 329 |
+| Bills Enacted | 2 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (44)
+- International Affairs (39)
+- Taxation (34)
+- Government Operations and Politics (33)
+- Crime and Law Enforcement (31)
+- Labor and Employment (22)
+- Civil Rights and Liberties, Minority Issues (18)
+- Education (18)
+- Armed Forces and National Security (13)
+- Transportation and Public Works (10)
+
+**Enacted into law:**
+
+- HR 7032: H.R. 7032, Congressional Budget Office Data Sharing Act
+- HR 6073: H.R. 6073, a bill to designate the facility of the United States Postal Service located at 9925 Bustleton Avenue in P...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Brendan Boyle represents Pennsylvania's 2nd Congressional District (entirely within Philadelphia. Northeast Philadelphia, Kensington, Olney, the riverwards) and is the Ranking Member of the House Budget Committee. He has served in Congress since 2015.
@@ -325,55 +354,9 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 - {{src:src_006302}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-<!-- auto:fec-politician pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Election Cycle | 2026 |
-| Total Raised | $1,522,158 |
-| Individual Contributions | $358,434 |
-| PAC Contributions | $502,235 |
-| Cash on Hand | 4812331.40 |
-| IE Support (Super PAC) | $801,485 |
-| IE Opposition (Super PAC) | $105,659 |
-
-**Fundraising by cycle:**
-
-| Cycle | Total Raised | Individual | PAC |
-|-------|-------------|------------|-----|
-| 2026 | $1,522,158 | $358,434 | $502,235 |
-| 2024 | $2,337,216 | $622,941 | $1,112,299 |
-| 2022 | $1,708,550 | $568,755 | $1,221,250 |
-| 2020 | $1,560,584 | $381,701 | $1,123,520 |
-| 2018 | $1,174,515 | $311,399 | $835,840 |
-
-**Top outside spenders:**
-
-| Committee | Support | Oppose |
-|-----------|---------|--------|
-| BUILDING A BETTER PA | $696,069 | $0 |
-| WOMEN VOTE! | $0 | $85,090 |
-| INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL 98 COMMITTEE ON POLITICAL EDUCATION | $34,175 | $0 |
-| COMMONWEALTH COMMUNICATIONS | $22,008 | $0 |
-| NARAL Pro-Choice America | $22,000 | $0 |
-
-- [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
-
-<!-- auto:fec-politician pending-merge end -->
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-**Sources**
-
-- [Congress.gov: Brendan Boyle](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
 
 ### Campaign Finance Summary (FEC)
 <!-- auto:fec-summary start -->
@@ -402,35 +385,6 @@ The Philadelphia machine connection carries its own class complication. IBEW Loc
 - [Source: FEC.gov](https://www.fec.gov/data/candidate/H4PA13199/) (Tier 1)
 <!-- auto:fec-summary end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 17 |
-| Bills Cosponsored | 329 |
-| Bills Enacted | 2 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Health (44)
-- International Affairs (39)
-- Taxation (34)
-- Government Operations and Politics (33)
-- Crime and Law Enforcement (31)
-- Labor and Employment (22)
-- Civil Rights and Liberties, Minority Issues (18)
-- Education (18)
-- Armed Forces and National Security (13)
-- Transportation and Public Works (10)
-
-**Enacted into law:**
-
-- HR 7032: H.R. 7032, Congressional Budget Office Data Sharing Act
-- HR 6073: H.R. 6073, a bill to designate the facility of the United States Postal Service located at 9925 Bustleton Avenue in P...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

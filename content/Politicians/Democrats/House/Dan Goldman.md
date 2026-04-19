@@ -140,6 +140,26 @@ donors: [[AIPAC - American Israel Public Affairs Committee|AIPAC]] · [[Securiti
 
 ---
 
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 32 |
+| Bills Cosponsored | 568 |
+| Total Votes Cast | 1,711 |
+
+**Recent bills sponsored:**
+
+- H.R. 7869: RAD Conversion Continuity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7692: Supreme Court Ethics and Investigations Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7658: Enhanced Cybersecurity for SNAP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7659: To designate the Pride flag as an authorized flag eligible for display at units of the National Park System, to express  — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- H.R. 7591: Secure Firearm Storage and Suicide Prevention Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/dan_goldman/456923) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Dan Goldman. U.S. Representative, New York's 10th Congressional District (2023–present). Levi Strauss heir, net worth $64–253M (estimated range; among top 20 wealthiest in Congress). Great-grandson of Walter A. Haas, founder of Levi Strauss & Co. Former federal prosecutor; lead majority counsel in Trump's first impeachment (2019); lead counsel to House managers in impeachment trial. Campaign self-funded with $4M personal contribution in 2022 primary (crowded field). [[AIPAC - American Israel Public Affairs Committee|AIPAC]]-aligned (met wife at AIPAC young leadership event 2012). The heir who purchased credibility through impeachment prosecution and uses it for Israel advocacy.
@@ -215,26 +235,6 @@ Goldman's class function in Congress is to normalize inherited wealth purchasing
 
 Goldman represents the final stage of Democratic realignment: dynastic wealth in legislative power. His presence in Congress normalizes that inherited wealth buys political power, and that this is consistent with "defending democracy." His primary victory ($4M self-funded crushing grassroots opponents) proves that the Democratic Party is now organized to accept wealthy heirs if they reference the right values. Goldman's impeccable defense-of-democracy credentials provide cover for wealth dominance. AIPAC alignment shows that his inherited wealth power serves specific capital interests. He is not unique; he is exemplary. Future wealthy Democrats will replicate his model: purchase a House seat through superior fundraising, establish legislative credentials through controversy engagement (impeachment, Israel advocacy), and leverage that position for long-term power. Goldman proved the model works.
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 32 |
-| Bills Cosponsored | 568 |
-| Total Votes Cast | 1,711 |
-
-**Recent bills sponsored:**
-
-- H.R. 7869: RAD Conversion Continuity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 9, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7692: Supreme Court Ethics and Investigations Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7658: Enhanced Cybersecurity for SNAP Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7659: To designate the Pride flag as an authorized flag eligible for display at units of the National Park System, to express  — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- H.R. 7591: Secure Firearm Storage and Suicide Prevention Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 17, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/dan_goldman/456923) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ### Sources
 

@@ -174,6 +174,34 @@ SORT file.name ASC
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 27 |
+| Bills Cosponsored | 144 |
+| Bills Enacted | 1 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Government Operations and Politics (25)
+- Congress (20)
+- Health (19)
+- Civil Rights and Liberties, Minority Issues (11)
+- Labor and Employment (11)
+- Armed Forces and National Security (9)
+- Crime and Law Enforcement (9)
+- International Affairs (8)
+- Finance and Financial Sector (7)
+- Education (6)
+
+**Enacted into law:**
+
+- HR 1060: H.R. 1060, a bill to designate the facility of the United States Postal Service located at 1663 East Date Place in Sa...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who He Is
 
 Pete Aguilar. U.S. Representative for California's 33rd District (San Bernardino, Inland Empire) and Chair of the House Democratic Caucus — the third-ranking Democrat in the House. Aguilar is the highest-ranking Latino member of House Democratic leadership and a key figure in the party's moderate institutional wing. Former mayor of Redlands, California. Serves on the House Appropriations Committee, giving him direct access to federal spending allocation.
@@ -363,44 +391,7 @@ Estimated net worth: $218,000 (439th highest in Congress as of January 2026). Mi
 
 ### Voting Record
 
-<!-- auto:voting-record pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
 
-**Sources**
-
-- [Congress.gov: Pete Aguilar](https://www.congress.gov/member/f000485) (Tier 1)
-
-<!-- auto:voting-record pending-merge end -->
-
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 27 |
-| Bills Cosponsored | 144 |
-| Bills Enacted | 1 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Government Operations and Politics (25)
-- Congress (20)
-- Health (19)
-- Civil Rights and Liberties, Minority Issues (11)
-- Labor and Employment (11)
-- Armed Forces and National Security (9)
-- Crime and Law Enforcement (9)
-- International Affairs (8)
-- Finance and Financial Sector (7)
-- Education (6)
-
-**Enacted into law:**
-
-- HR 1060: H.R. 1060, a bill to designate the facility of the United States Postal Service located at 1663 East Date Place in Sa...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

@@ -172,6 +172,58 @@ donors: [[Defense Industry]] · National Labs Complex · Energy Industry · [[Te
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 67 |
+| Bills Cosponsored | 451 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Health (81)
+- Agriculture and Food (41)
+- Armed Forces and National Security (33)
+- Native Americans (29)
+- Public Lands and Natural Resources (26)
+- Education (25)
+- Labor and Employment (24)
+- Environmental Protection (24)
+- Civil Rights and Liberties, Minority Issues (23)
+- Taxation (23)
+
+**Recent bills sponsored:**
+
+- S 5645: A bill to amend title 54, United States Code, to increase amounts deposited in the Historic Preservation Fund, and fo...
+- S 5632: A bill to direct the Secretary of Agriculture to establish and administer a pilot program to provide grants to suppor...
+- S 5585: A bill to reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994, and for other purposes.
+- S 5447: A bill to establish a grant program to assist projects that use nonlethal coexistence measures to reduce property dam...
+- S 5203: Maternal and Infant Syphilis Prevention Act
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 39 |
+| Bills Cosponsored | 329 |
+| Total Votes Cast | 8,112 |
+
+**Recent bills sponsored:**
+
+- S. 4252: A bill to amend the Waste Isolation Pilot Plant Land Withdrawal Act to ensure that economic assistance payments under th — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4258: A bill to authorize the Secretary of Education to award grants to revitalize schoolyards. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4183: Veteran Education Assistance Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4091: Habitat Connectivity on Working Lands Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4093: Tariff Refunds for Working Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/martin_heinrich/412281) (Tier 1) (VERIFIED)
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 [[_Martin Heinrich Master Profile|Martin Heinrich]] is the senior United States Senator from New Mexico, serving since January 2013. Born October 17, 1971, in Fallon, Nevada. B.S. in mechanical engineering from the University of Missouri. Moved to Albuquerque, New Mexico, where he began his career as a contractor working on directed energy technology at Phillips Laboratory (now Air Force Research Laboratory) at Kirtland Air Force Base. Albuquerque City Council (2004–2008), elected council president, championed minimum wage increase, community policing, and campaign finance reform. U.S. House of Representatives, 1st District (2009–2013). Elected to the Senate in 2012. Reelected 2018 and 2024. Among the first Democratic senators to encourage President Biden to suspend his 2024 reelection campaign.
@@ -266,26 +318,6 @@ Heinrich's clean energy and AI work provide the progressive credential. He co-fo
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 39 |
-| Bills Cosponsored | 329 |
-| Total Votes Cast | 8,112 |
-
-**Recent bills sponsored:**
-
-- S. 4252: A bill to amend the Waste Isolation Pilot Plant Land Withdrawal Act to ensure that economic assistance payments under th — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4258: A bill to authorize the Secretary of Education to award grants to revitalize schoolyards. — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4183: Veteran Education Assistance Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 24, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4091: Habitat Connectivity on Working Lands Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4093: Tariff Refunds for Working Families Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 12, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/martin_heinrich/412281) (Tier 1) (VERIFIED)
-
-<!-- auto:govtrack end -->
 
 ## Sources
 
@@ -341,35 +373,4 @@ party:: Democrat
 
 ## Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 67 |
-| Bills Cosponsored | 451 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Health (81)
-- Agriculture and Food (41)
-- Armed Forces and National Security (33)
-- Native Americans (29)
-- Public Lands and Natural Resources (26)
-- Education (25)
-- Labor and Employment (24)
-- Environmental Protection (24)
-- Civil Rights and Liberties, Minority Issues (23)
-- Taxation (23)
-
-**Recent bills sponsored:**
-
-- S 5645: A bill to amend title 54, United States Code, to increase amounts deposited in the Historic Preservation Fund, and fo...
-- S 5632: A bill to direct the Secretary of Agriculture to establish and administer a pilot program to provide grants to suppor...
-- S 5585: A bill to reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994, and for other purposes.
-- S 5447: A bill to establish a grant program to assist projects that use nonlethal coexistence measures to reduce property dam...
-- S 5203: Maternal and Infant Syphilis Prevention Act
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->

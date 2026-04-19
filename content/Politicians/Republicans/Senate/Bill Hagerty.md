@@ -115,6 +115,24 @@ donors: [[Blackstone]] · Private Equity Networks · [[Trump Donor Coalition]]
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 22 |
+| Bills Cosponsored | 158 |
+| Total Votes Cast | 2,373 |
+
+**Recent bills sponsored:**
+
+- S. 4265: A bill to require the Secretary of Housing and Urban Development to establish a Freedom to Build designation for certain — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4198: Main Street Depositor Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 652: A resolution recognizing the importance of the United States-Japan Alliance and welcoming the visit of Prime Minister Ta — *This simple resolution was agreed to on March 19, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 3290: Financial Services and General Government Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+- S. 3129: Preventing Foreign Interference in American Elections Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456798) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Bill Hagerty. U.S. Senator from Tennessee (2021–present). Private equity background (Hagerty Peterson & Company, co-founder). U.S. Ambassador to Japan (2017–2019, Trump-appointed). Net worth $35–50M (family wealth, PE returns). Corporate Republican who converted Trump diplomatic appointment into Senate seat. Class function: private equity and financial sector political representative.
@@ -186,26 +204,7 @@ Hagerty's donor base is not Tennessee. His $13.8 million in total receipts flows
 - [Tennessee Lookout: GOP Senate hopeful serves with donors on White House panel](https://tennesseelookout.com/2020/05/08/tenn-senate-campaign-lures-cash-from-gop-politicos-megadonors/) (Tier 2) (VERIFIED)
 - [Solana Compass: Senator Hagerty on Crypto Regulation](https://solanacompass.com/learn/Validated/the-2024-pro-crypto-election-w-senator-bill-hagerty-r-tn) (Tier 3) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 22 |
-| Bills Cosponsored | 158 |
-| Total Votes Cast | 2,373 |
 
-**Recent bills sponsored:**
-
-- S. 4265: A bill to require the Secretary of Housing and Urban Development to establish a Freedom to Build designation for certain — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4198: Main Street Depositor Protection Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 25, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 652: A resolution recognizing the importance of the United States-Japan Alliance and welcoming the visit of Prime Minister Ta — *This simple resolution was agreed to on March 19, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 3290: Financial Services and General Government Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
-- S. 3129: Preventing Foreign Interference in American Elections Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on November 6, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/456798) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
-
-### Legislative Activity (Congress.gov)
 
 ### Committee Assignments (Congress.gov)
 

@@ -155,6 +155,38 @@ top-donors: "[[WinRed]], [[Northrop Grumman]], [[Morgan Stanley]], [[iHeartMedia
 
 # Mike Rounds
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 54 |
+| Bills Cosponsored | 339 |
+| Bills Enacted | 9 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Armed Forces and National Security (51)
+- Health (35)
+- Finance and Financial Sector (31)
+- Agriculture and Food (30)
+- International Affairs (28)
+- Native Americans (23)
+- Crime and Law Enforcement (23)
+- Environmental Protection (20)
+- Congress (19)
+- Immigration (19)
+
+**Enacted into law:**
+
+- S 2486: National Defense Authorization Act for Fiscal Year 2024
+- S 2502: National Defense Authorization Act for Fiscal Year 2024
+- S 2715: National Defense Authorization Act for Fiscal Year 2024
+- S 3267: S. 3267, a bill to designate the facility of the United States Postal Service located at 410 Dakota Avenue South in H...
+- S 2473: National Defense Authorization Act for Fiscal Year 2024
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
 ## Who They Are
 
 Mike Rounds. Republican, South Dakota. US Senator since January 2015, elected 2014 (defeating Democrat Rick Weiland) and re-elected 2020. Born October 1954 in Huron, SD. Former South Dakota Governor (2003-2011), prior career in insurance and financial services (Rounds Insurance, family business). Assigned to Armed Services, Banking, Commerce Science and Transportation, and Veterans' Affairs. Top policy area is Armed Forces and National Security (51 bills in 118th Congress). 54 bills sponsored, 339 cosponsored, 9 enacted. The 9 enacted bills are among the highest in the Republican Senate cohort: 5 are NDAA provisions. Voting record: 94.1% party-line loyalty across 2,612 substantive votes, 148 deviations. 9 STOCK Act trades, estimated $5.7-$26.4M value range (the highest by estimated value in the Republican Senate cohort profiled here).
@@ -275,38 +307,6 @@ The 94.1% party loyalty with 148 deviations is the highest deviation count in th
 
 <!-- auto:stock-trades end -->
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 54 |
-| Bills Cosponsored | 339 |
-| Bills Enacted | 9 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Armed Forces and National Security (51)
-- Health (35)
-- Finance and Financial Sector (31)
-- Agriculture and Food (30)
-- International Affairs (28)
-- Native Americans (23)
-- Crime and Law Enforcement (23)
-- Environmental Protection (20)
-- Congress (19)
-- Immigration (19)
-
-**Enacted into law:**
-
-- S 2486: National Defense Authorization Act for Fiscal Year 2024
-- S 2502: National Defense Authorization Act for Fiscal Year 2024
-- S 2715: National Defense Authorization Act for Fiscal Year 2024
-- S 3267: S. 3267, a bill to designate the facility of the United States Postal Service located at 410 Dakota Avenue South in H...
-- S 2473: National Defense Authorization Act for Fiscal Year 2024
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

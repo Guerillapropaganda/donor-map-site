@@ -109,33 +109,6 @@ Oil and gas PACs are targeted with precision: the largest contributions go to me
 - [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1) (VERIFIED)
 <!-- auto:ofac-sdn end -->
 
-<!-- auto:ofac-sdn pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| SDN List Status | **Match found** |
-| Match Quality | Fuzzy match (token overlap) |
-| SDN Records Matched | 16 |
-| Sanctions Programs | SDGT] [NPWMD] [IRGC] [IFSR, IRAN, IRAN] [IRAN-EO13876, LIBYA3, IRAN-EO13876, IRAN-EO13846, RUSSIA-EO14024, UKRAINE-EO13662] [RUSSIA-EO14024, IRAN-EO13902 |
-| Entity Types | -0- |
-
-**Matched SDN entries:**
-- SEPANIR OIL AND GAS ENGINEERING COMPANY (-0-) [SDGT] [NPWMD] [IRGC] [IFSR]
-  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886.
-- PARS OIL AND GAS COMPANY (-0-) [IRAN]
-  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions.
-- PERSIA OIL & GAS INDUSTRY DEVELOPMENT CO. (-0-) [IRAN] [IRAN-EO13876]
-  - Remarks: Website http://www.pogidc.com; Additional Sanctions Information - Subject to Secondary Sanctions; National ID No. 10102933619 (Iran); Registration Number 252925 (Iran); Linked To: TADBIR ENERGY DEVELO...
-- TIUBODA OIL AND GAS SERVICES (-0-) [LIBYA3]
-  - Remarks: Tax ID No. 18571; Trade License No. 41992 (Libya); License 4541992.
-- PARSIAN OIL AND GAS DEVELOPMENT (-0-) [IRAN]
-  - Remarks: Additional Sanctions Information - Subject to Secondary Sanctions; Linked To: GHADIR INVESTMENT COMPANY.
-
-- [Source: OFAC SDN List](https://sanctionssearch.ofac.treas.gov/) (Tier 1)
-
-<!-- auto:ofac-sdn pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->

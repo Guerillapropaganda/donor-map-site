@@ -132,6 +132,37 @@ SORT file.name ASC
 - [GovTrack: Markwayne Mullin](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
 <!-- auto:voting-record end -->
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 23 |
+| Bills Cosponsored | 157 |
+| Total Votes Cast | 7,105 |
+
+**Recent bills sponsored:**
+
+- S. 3994: PRIME Meat Processing in Indian Country Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3945: Tribal Police Department Parity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3946: Tribal Firearm Access Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 550: A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other — *This bill passed in the Senate on December 15, 2025 and goes to the House next for consideration.*
+- S. 3302: Mikaela Naylon Give Kids a Chance Act of 2025 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+
+**Recent votes:**
+
+| Date | Question | Vote | Result |
+|------|----------|------|--------|
+| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Co… | Not Voting | Cloture Motion Agreed to |
+| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homel… | Yea | Nomination Confirmed |
+| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security:… | Yea | Cloture Motion Agreed to |
+| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | Nay | Cloture Motion Rejected |
+| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in t… | Yea | Cloture Motion Rejected |
+| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. … | Yea | Cloture on the Motion to Proceed Rejected |
+| 2026-03-18 | On the Motion to Discharge S.J.Res. 118 | Nay | Motion to Discharge Rejected |
+| 2026-03-17 | Motion to Proceed on S. 1383: Safeguard American Voter Eligibility Act / SAVE Am… | Yea | Motion to Proceed Agreed to |
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 Markwayne Mullin. Republican Senator from Oklahoma (2023-2026), Cherokee Nation citizen, former plumbing company owner, and Trump's confirmed Secretary of Homeland Security as of March 23, 2026. Mullin served in the House (2013-2023) representing Oklahoma's 2nd District before winning the special election for Jim Inhofe's Senate seat. He brands himself as the "blue-collar senator", a working-class plumber who built a multimillion-dollar business before entering politics.
@@ -294,37 +325,6 @@ The DHS nomination is the capstone. Mullin signed an ethics agreement pledging t
 - {{src:src_003376}} (Tier 1) (VERIFIED)
 <!-- auto:fec-politician end -->
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 23 |
-| Bills Cosponsored | 157 |
-| Total Votes Cast | 7,105 |
-
-**Recent bills sponsored:**
-
-- S. 3994: PRIME Meat Processing in Indian Country Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 4, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3945: Tribal Police Department Parity Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3946: Tribal Firearm Access Act — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 26, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 550: A bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other — *This bill passed in the Senate on December 15, 2025 and goes to the House next for consideration.*
-- S. 3302: Mikaela Naylon Give Kids a Chance Act of 2025 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
-
-**Recent votes:**
-
-| Date | Question | Vote | Result |
-|------|----------|------|--------|
-| 2026-03-23 | Motion to Invoke Cloture: Colin McDonald to be an Assistant Attorney General: Co… | Not Voting | Cloture Motion Agreed to |
-| 2026-03-23 | On the Nomination PN858: Markwayne Mullin, of Oklahoma, to be Secretary of Homel… | Yea | Nomination Confirmed |
-| 2026-03-22 | Motion to Invoke Cloture: Markwayne Mullin to be Secretary of Homeland Security:… | Yea | Cloture Motion Agreed to |
-| 2026-03-21 | Motion to Invoke Cloture: Schumer Motion to Suspend the Rules re: TSA Funding | Nay | Cloture Motion Rejected |
-| 2026-03-21 | Motion to Invoke Cloture: Tuberville Amdt. No. 4421 to the Motion to Concur in t… | Yea | Cloture Motion Rejected |
-| 2026-03-20 | Upon Reconsideration, Motion to Invoke Cloture on the Motion to Proceed to H.R. … | Yea | Cloture on the Motion to Proceed Rejected |
-| 2026-03-18 | On the Motion to Discharge S.J.Res. 118 | Nay | Motion to Discharge Rejected |
-| 2026-03-17 | Motion to Proceed on S. 1383: Safeguard American Voter Eligibility Act / SAVE Am… | Yea | Motion to Proceed Agreed to |
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/412568) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Voting Record
 

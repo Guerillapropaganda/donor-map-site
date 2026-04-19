@@ -212,28 +212,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-09.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Politicians Funded | 1 |
-| Active Lobbyist | Yes |
-| Committee Overlap Detected | 1 politician |
-
-**Lobby → Donate → Committee chains:**
-
-- Lobbies on **Agriculture** → Funds **John Boozman** → Sits on **Agriculture**
-- Lobbies on **Budget/Appropriations** → Funds **John Boozman** → Sits on **Appropriations**
-
-**Funded politicians:**
-
-- [[John Boozman]] (Agriculture, Appropriations) — lobbying: $5.0M
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-15.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Federal Subawards & Spending Breakdown
 <!-- auto:usaspending-subawards start -->
@@ -251,25 +229,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 
 <!-- auto:usaspending-subawards end -->
 
-<!-- auto:usaspending-subawards pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Top Federal Agency | Department of Agriculture ($1.1B) |
-| Primary NAICS Sector | Poultry Processing |
-
-**Federal spending by industry sector (NAICS):**
-
-| Sector | Amount |
-|--------|--------|
-| Poultry Processing (311615) | $1.1B |
-| Animal (except Poultry) Slaughtering (311611) | $38.8M |
-
-- [Source: USASpending.gov Subawards](https://www.usaspending.gov/search) (Tier 1)
-
-<!-- auto:usaspending-subawards pending-merge end -->
 
 ### Tax Filings (IRS 990)
 <!-- auto:nonprofit-990 start -->
@@ -338,30 +297,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tyson%20Foods%22) (Tier 1) (NEEDS REVIEW)
 <!-- auto:federal-register end -->
 
-<!-- auto:federal-register pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Register Mentions | 74 |
-| Final Rules | 20 |
-| Proposed Rules | 12 |
-| Notices | 42 |
-| Agencies | Agricultural Marketing Service, Agriculture Department, Children and Families Administration, Consumer Financial Protection Bureau, Employment and Training Administration, Environmental Protection Agency, Federal Aviation Administration, Federal Maritime Commission +7 more |
-
-**Recent regulatory activity:**
-- [Air Plan Approval; Ohio; Source-Specific Non-CTG RACT and SIP Strengthening for Ohio](https://www.federalregister.gov/documents/2026/02/27/2026-03931/air-plan-approval-ohio-source-specific-non-ctg-ract-and-sip-strengthening-for-ohio) (2026-02-27) — Environmental Protection Agency
-- [Grandfathering Registration Notice](https://www.federalregister.gov/documents/2026/01/29/2026-01794/grandfathering-registration-notice) (2026-01-29) — Susquehanna River Basin Commission
-- [Designation of Perfluorooctanoic Acid (PFOA) and Perfluorooctanesulfonic Acid (PFOS) as CERCLA Hazardous Substances](https://www.federalregister.gov/documents/2024/05/08/2024-08547/designation-of-perfluorooctanoic-acid-pfoa-and-perfluorooctanesulfonic-acid-pfos-as-cercla-hazardous) (2024-05-08) — Environmental Protection Agency
-- [Child Nutrition Programs: Meal Patterns Consistent With the 2020-2025 Dietary Guidelines for Americans](https://www.federalregister.gov/documents/2024/04/25/2024-08098/child-nutrition-programs-meal-patterns-consistent-with-the-2020-2025-dietary-guidelines-for) (2024-04-25) — Agriculture Department
-- [Demurrage and Detention Billing Requirements](https://www.federalregister.gov/documents/2024/02/26/2024-02926/demurrage-and-detention-billing-requirements) (2024-02-26) — Federal Maritime Commission ★
-- [Definition of Unreasonable Refusal To Deal or Negotiate With Respect to Vessel Space Accommodations Provided by an Ocean Common Carrier](https://www.federalregister.gov/documents/2023/06/14/2023-12744/definition-of-unreasonable-refusal-to-deal-or-negotiate-with-respect-to-vessel-space-accommodations) (2023-06-14) — Federal Maritime Commission ★
-- ... and 68 more
-
-- [Source: Federal Register](https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=%22Tyson%20Foods%22) (Tier 1)
-
-<!-- auto:federal-register pending-merge end -->
 
 ### Federal Court Records (CourtListener)
 <!-- auto:courtlistener-cases start -->
@@ -381,27 +316,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 
 <!-- auto:courtlistener-cases end -->
 
-<!-- auto:courtlistener-cases pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Federal Court Cases | 14,512 |
-| Courts | Court of Appeals for the Tenth Circuit, District Court, C.D. California, District Court, C.D. Illinois, District Court, D. Oregon, District Court, E.D. Arkansas, District Court, E.D. Washington, District Court, M.D. Alabama, District Court, S.D. Florida +3 more |
-| Case Types | 440 Civil Rights: Other, 441 Civil Rights: Voting, 830 Patent, 890 Other Statutory Actions, 893 Environmental Matters |
-
-**Notable cases:**
-- Pearson v. Amazon Data Services, Inc. (2026) — District Court, D. Oregon
-- Payne v. Tyson Foods, Inc. (2026) — District Court, S.D. Illinois
-- The National Ben Gamla Jewish Charter School Foundation Inc v. Drummond (2026) — District Court, W.D. Oklahoma
-- Chaudhary v. Tyson Foods Inc (2026) — District Court, E.D. Washington
-- California Department of Parks and Recreation v. Sable Offshore Corp. (2026) — District Court, C.D. California
-- United States v. one white Tyson Foods semi-truck USDOT003327 located at 7033 Cold Creek Drive, Alexander, AR 72002 aka Vehicle 2 (2026) — District Court, E.D. Arkansas
-
-- [Source: CourtListener / RECAP](https://www.courtlistener.com/?q=%22Tyson%20Foods%22&type=r) (Tier 1)
-
-<!-- auto:courtlistener-cases pending-merge end -->
 
 ### Vehicle Safety (NHTSA)
 <!-- auto:nhtsa-recalls start -->
@@ -437,30 +351,6 @@ Tyson's $220 million in federal contracts, primarily through the Department of A
 - [Source: USASpending.gov](https://www.usaspending.gov/) (Tier 1) (VERIFIED)
 <!-- auto:usaspending end -->
 
-<!-- auto:usaspending pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| All-Time Federal Awards | $218.1M |
-| Contracts (recent 3yr) | 25 ($490.1M sampled) |
-| Grants (recent 3yr) | 0 ($0 sampled) |
-| Federal Agencies | 1 |
-
-**Top contracts:**
-
-| Amount | Agency | Description |
-|--------|--------|-------------|
-| $29.6M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000009015/4400001627/4100026817/CHICKEN WHOLE BAGGED FRZ CTN-36 |
-| $28.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010990/4100032985/CHICKEN LARGE CHILLED -BULK |
-| $27.5M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010352/4100031038/CHICKEN LARGE CHILLED -BULK |
-| $26.7M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000010261/4100030713/CHICKEN LARGE CHILLED -BULK |
-| $25.4M | Department of Agriculture | COMMODITIES FOR USG FOOD DONATIONS: 2000011083/4100033455/CHICKEN LARGE CHILLED -BULK |
-
-- [Source: USASpending.gov](https://www.usaspending.gov/recipient/388ab88d-74c2-54ac-19e4-cb2df60ad520-C/latest) (Tier 1)
-
-<!-- auto:usaspending pending-merge end -->
 
 ### FDA Enforcement (openFDA)
 <!-- auto:fda-enforcement start -->
@@ -493,39 +383,6 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:fda-enforcement end -->
 
-<!-- auto:fda-enforcement pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total FDA recalls | 7 |
-| Food recalls | 7 |
-| **Class I (life-threatening)** | **1** |
-| Class II (temporary/reversible) | 6 |
-| Most recent | 2018-10-19 |
-| Earliest | 2017-05-11 |
-
-**Class I recalls (life-threatening):**
-
-- [food] **F-1475-2018** (2018-04-27): Vans gluten free Original 6 WAFFLES NET WT 9 OZ (255g) INGREDIENTS:***VAN'S GLUTEN FREE MIX (BROWN RICE FLOUR, POTATO STARCH, RICE FLOUR, SOY FLOUR),***RICE FLOUR,***SUNFLOWER AND/OR SOY LECITHIN***CO
-  - Reason: The firm was notified that they failed to include the allergens milk & wheat in their ingredient statement.
-
-**Recent recalls:**
-
-- [food] [Class II] F-0363-2019 (2018-10-19): Pierre Philly Style Chicken Sandwich, item 1238, 12 units packaged per case Net Wt. 4.99 LBS (2.27 kg) KEEP FROZEN
-- [food] [Class II] F-0365-2019 (2018-10-19): Steak-EZE Philly Cheesesteak Sandwich, item 06433, Net Wt 5.15 OZ., 4 sandwiches per case KEEP FROZEN
-- [food] [Class II] F-0364-2019 (2018-10-19): TGIF All American Slider, item 5461, 4 cartons of 4 sandwiches per case NET WT 10 OZ KEEP FROZEN
-- [food] [Class II] F-0362-2019 (2018-10-19): Pierre Philly Style Cheesesteak Sandwich, item 1125, 12 units packaged per case Net Wt. 4.65 LBS (2.11 kg) KEEP FROZEN
-- [food] [Class I] F-1475-2018 (2018-04-27): Vans gluten free Original 6 WAFFLES NET WT 9 OZ (255g) INGREDIENTS:***VAN'S GLUTEN FREE MIX (BROWN RICE FLOUR, POTATO STARCH, RICE FLOUR, SOY FLOUR),***RICE FLOUR,***SUNFLOWER AND/OR SOY LECITHIN***CO
-- [food] [Class II] F-2247-2017 (2017-05-11): Chef Pierre 10 Spinach Quiche, and 6/10 Frozen Quiche, 38 oz. packed in a paper carton, keep frozen
-- ... and 1 more
-
-_Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc._
-
-- [Source: openFDA / FDA Enforcement Reports](https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=Tyson%20Foods) (Tier 1)
-
-<!-- auto:fda-enforcement pending-merge end -->
 
 ### SEC Filing Activity
 <!-- auto:sec-edgar start -->
@@ -547,28 +404,6 @@ _Variant firm names in FDA data: Tyson Foods Discovery Center; Tyson Foods, inc.
 - [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tyson%20Foods%22) (Tier 1) (VERIFIED)
 <!-- auto:sec-edgar end -->
 
-<!-- auto:sec-edgar pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Filings | 10,000 |
-| Form Types | 10-K, 4, 424B5, 8-K, DEFA14A, DFAN14A, EX-10, EX-10.1 +30 more |
-| CIK | 100493 |
-| Ticker | TSN |
-
-**Notable filings:**
-
-- 2026-04-02 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000010049326000014/0000100493-26-000014-index.htm)
-- 2026-03-27 — **SCHEDULE 13G/A**: [SCHEDULE 13G/A](https://www.sec.gov/Archives/edgar/data/100493/000010290926002468/0000102909-26-002468-index.htm)
-- 2026-02-20 — **8-K**: [8-K](https://www.sec.gov/Archives/edgar/data/100493/000114036126006328/0001140361-26-006328-index.htm)
-- 2026-02-13 — **SCHEDULE 13D/A**: [SCHEDULE 13D/A](https://www.sec.gov/Archives/edgar/data/100493/000199937126003264/0001999371-26-003264-index.htm)
-- 2026-02-11 — **424B5**: [424B5](https://www.sec.gov/Archives/edgar/data/100493/000114036126004824/0001140361-26-004824-index.htm)
-
-- [Source: SEC EDGAR](https://efts.sec.gov/LATEST/search-index?q=%22Tyson%20Foods%22) (Tier 1)
-
-<!-- auto:sec-edgar pending-merge end -->
 
 ### Financial Overview (990 Filing — 2019)
 <!-- auto:propublica-990 start -->
@@ -615,25 +450,6 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2) (VERIFIED)
 <!-- auto:wikipedia end -->
 
-<!-- auto:wikipedia pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-Tyson Foods, Inc. is an American multinational corporation based in Springdale, Arkansas that operates in the food industry.
-
-| Fact | Value |
-|------|-------|
-| Wikidata ID | [Q1325987](https://www.wikidata.org/wiki/Q1325987) |
-| Description | food manufacturing company |
-| Founded | 1935-01-01 |
-| Website | [http://www.tyson.com](http://www.tyson.com) |
-| X/Twitter | [@TysonFoods](https://x.com/TysonFoods) |
-| Image | [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Tyson_Foods_corporate_logo_%282024%29.svg/330px-Tyson_Foods_corporate_logo_%282024%29.svg.png) |
-
-- [Source: Wikipedia](https://en.wikipedia.org/wiki/Tyson_Foods) (Tier 3)
-- [Source: Wikidata](https://www.wikidata.org/wiki/Q1325987) (Tier 2)
-
-<!-- auto:wikipedia pending-merge end -->
 
 ### Corporate Structure (GLEIF)
 <!-- auto:gleif-lei start -->
@@ -650,23 +466,6 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: GLEIF](https://www.gleif.org/) (Tier 1) (NEEDS REVIEW)
 <!-- auto:gleif-lei end -->
 
-<!-- auto:gleif-lei pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Field | Value |
-|-------|-------|
-| LEI | [WD6L6041MNRW1JE49D58](https://search.gleif.org/#/record/WD6L6041MNRW1JE49D58) |
-| Legal Name | TYSON FOODS, INC. |
-| Jurisdiction | US-DE |
-| Entity Status | ACTIVE |
-| Category | GENERAL |
-| Registration | ISSUED |
-| Last Updated | 2025-10-06T11:59:32Z |
-
-- [Source: GLEIF](https://www.gleif.org/) (Tier 1)
-
-<!-- auto:gleif-lei pending-merge end -->
 
 ### Lobbying Activity
 <!-- auto:lda-lobbying start -->
@@ -687,27 +486,6 @@ Tyson Foods, Inc. is an American multinational corporation based in Springdale, 
 - [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1) (VERIFIED)
 <!-- auto:lda-lobbying end -->
 
-<!-- auto:lda-lobbying pending-merge 2026-04-15 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Total Lobbying Spend | $5.0M |
-| Quarterly Filings | 30 |
-| Year Range | 2024-2025 |
-| Lobbying Firms | 4 |
-| Individual Lobbyists | 0 |
-
-**Issues lobbied:** Agriculture, Animals, Budget/Appropriations, Energy/Nuclear, Environment/Superfund, Food Industry (safety, labeling, etc.), Foreign Relations, Government Issues, Health Issues, Homeland Security, Immigration, Labor Issues/Antitrust/Workplace, Tariff (miscellaneous tariff bills), Taxation/Internal Revenue Code, Torts, Trade (domestic/foreign), Transportation
-
-**Lobbying firms:** BROWNSTEIN HYATT FARBER SCHRECK, LLP, FORBES-TATE, MINDSET ADVOCACY, LLC, TYSON FOODS, INC
-
-**Agencies contacted:** Agriculture, Dept of (USDA), Commerce, Dept of (DOC), Environmental Protection Agency (EPA), Executive Office of the President (EOP), Federal Trade Commission (FTC), Food & Drug Administration (FDA), HOUSE OF REPRESENTATIVES, Health & Human Services, Dept of (HHS), Homeland Security, Dept of (DHS), Justice, Dept of (DOJ) +7 more
-
-- [Source: Senate Lobbying Disclosures](https://lda.senate.gov/filings/public/filing/search/?client_name=Tyson%20Foods) (Tier 1)
-
-<!-- auto:lda-lobbying pending-merge end -->
 
 ### EPA Facility Registry
 <!-- auto:epa-echo start -->

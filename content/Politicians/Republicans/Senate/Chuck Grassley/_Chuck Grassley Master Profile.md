@@ -104,6 +104,56 @@ donors:
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 77 |
+| Bills Cosponsored | 324 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Crime and Law Enforcement (59)
+- International Affairs (49)
+- Health (42)
+- Agriculture and Food (29)
+- Education (24)
+- Finance and Financial Sector (20)
+- Government Operations and Politics (19)
+- Congress (18)
+- Immigration (16)
+- Armed Forces and National Security (15)
+
+**Recent bills sponsored:**
+
+- S 5578: A bill to amend title 18, United States Code, to reform certain forfeiture procedures, and for other purposes.
+- S 5510: A bill to amend title XI of the Social Security Act to require pharmaceutical and device manufacturers to publicly di...
+- S 5437: A bill to authorize the Secretary of Health and Human Services to collect registration fees from members of the Organ...
+- S 5164: Temporary Extension of Fentanyl Scheduling Act of 2024
+- S 5160: A bill to expand the sharing of information with respect to suspected violations of intellectual property rights in t...
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 73 |
+| Bills Cosponsored | 202 |
+| Total Votes Cast | 20,014 |
+| Leadership | President Pro Tempore of the Senate |
+
+**Recent bills sponsored:**
+
+- S. 4100: A bill to amend title 5, United States Code, to clarify whistleblower protections for duty speech disclosures, and for o — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 16, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 4099: Whistleblower Anti-Gag Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 16, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S.Res. 626: A resolution designating March 6, 2026, as “National Speech and Debate Education Day”. — *This simple resolution was agreed to on March 4, 2026. That is the end of the legislative process for a simple resolution.*
+- S. 3977: Bankruptcy Threshold Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+- S. 3826: Litigation Funding Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Chuck Grassley is 92 years old and the longest-serving Republican senator in history. He has held his Iowa Senate seat since 1981, 45 years. He is President pro tempore of the Senate (third in the presidential line of succession) and chairs the Judiciary Committee, the body that confirms every federal judge, Supreme Court justice, and Attorney General in America.
@@ -240,59 +290,9 @@ The whistleblower work is the genuine complication. Grassley has spent decades p
 - [Ballotpedia: Chuck Grassley](https://ballotpedia.org/Chuck_Grassley) (Tier 3) (VERIFIED)
 - [Environmental Working Group: Grassley Farm Subsidies](https://farm.ewg.org/search.php?search=Chuck%20Grassley) (Tier 1) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 73 |
-| Bills Cosponsored | 202 |
-| Total Votes Cast | 20,014 |
-| Leadership | President Pro Tempore of the Senate |
-
-**Recent bills sponsored:**
-
-- S. 4100: A bill to amend title 5, United States Code, to clarify whistleblower protections for duty speech disclosures, and for o — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 16, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 4099: Whistleblower Anti-Gag Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 16, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S.Res. 626: A resolution designating March 6, 2026, as “National Speech and Debate Education Day”. — *This simple resolution was agreed to on March 4, 2026. That is the end of the legislative process for a simple resolution.*
-- S. 3977: Bankruptcy Threshold Adjustment Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on March 3, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-- S. 3826: Litigation Funding Transparency Act of 2026 — *This bill is in the first stage of the legislative process. It was introduced into Congress on February 11, 2026. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-<!-- auto:govtrack end -->
 
 ### Voting Record
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 77 |
-| Bills Cosponsored | 324 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
-
-**Top policy areas:**
-
-- Crime and Law Enforcement (59)
-- International Affairs (49)
-- Health (42)
-- Agriculture and Food (29)
-- Education (24)
-- Finance and Financial Sector (20)
-- Government Operations and Politics (19)
-- Congress (18)
-- Immigration (16)
-- Armed Forces and National Security (15)
-
-**Recent bills sponsored:**
-
-- S 5578: A bill to amend title 18, United States Code, to reform certain forfeiture procedures, and for other purposes.
-- S 5510: A bill to amend title XI of the Social Security Act to require pharmaceutical and device manufacturers to publicly di...
-- S 5437: A bill to authorize the Secretary of Health and Human Services to collect registration fees from members of the Organ...
-- S 5164: Temporary Extension of Fentanyl Scheduling Act of 2024
-- S 5160: A bill to expand the sharing of information with respect to suspected violations of intellectual property rights in t...
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
 
 ## Archived
 

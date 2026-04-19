@@ -112,6 +112,15 @@ related: "[[Crossroads Grassroots Policy Strategies]]"
 
 ---
 
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 0 |
+| Bills Cosponsored | 0 |
+| Total Votes Cast | 11,661 |
+
+<!-- auto:govtrack end -->
+
 ## Who They Are
 
 Harry Reid was U.S. Senator from Nevada (1987–2017) and Senate Majority/Minority Leader (2005–2017) — the most powerful Democrat in the Senate for a full decade. He died in December 2021. Reid built the modern Democratic political machine in Nevada, a state whose economy is dominated by casino and gaming corporations, real estate development, and tourism. His career illustrates the complete integration of Democratic leadership with regional extractive industries.
@@ -173,15 +182,6 @@ The Nevada machine illustrates how a regional power can balance labor alliance w
 
 ---
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 0 |
-| Bills Cosponsored | 0 |
-| Total Votes Cast | 11,661 |
-
-<!-- auto:govtrack end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->

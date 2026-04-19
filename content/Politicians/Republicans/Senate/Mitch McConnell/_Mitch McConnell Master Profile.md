@@ -176,6 +176,56 @@ donors: [[Koch Network - Charles Koch]], [[Leonard Leo]], [[Timothy Mellon]]
 *Source: Congress.gov roll-call API (House) + senate.gov XML feeds (Senate).*
 <!-- auto:voting-record end -->
 
+<!-- auto:congress-bills start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 8 |
+| Bills Cosponsored | 108 |
+| Bills Enacted | 0 |
+| Congress | 118th (2023-2024) |
+
+**Top policy areas:**
+
+- Congress (39)
+- International Affairs (13)
+- Crime and Law Enforcement (13)
+- Education (8)
+- Government Operations and Politics (6)
+- Labor and Employment (6)
+- Health (6)
+- Armed Forces and National Security (5)
+- Environmental Protection (5)
+- Immigration (4)
+
+**Recent bills sponsored:**
+
+- S 5289: White Oak Resilience Act of 2024
+- S 4293: To designate the United States courthouse annex located at 310 South Main Street in London, Kentucky, as the "Eugene ...
+- S 4095: SHOP Act
+- SJRES 65: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
+- S 2284: Federal Prisons Accountability Act of 2023
+
+- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
+<!-- auto:congress-bills end -->
+
+<!-- auto:govtrack start -->
+| Metric | Value |
+|--------|-------|
+| Bills Sponsored | 12 |
+| Bills Cosponsored | 52 |
+| Total Votes Cast | 14,297 |
+
+**Recent bills sponsored:**
+
+- S.Res. 388: A resolution recognizing September 16, 2025, as “National Voter Registration Day”. — *This simple resolution was agreed to on September 15, 2025. That is the end of the legislative process for a simple resolution.*
+- S.Res. 362: A resolution to provide for the printing of the Senate Manual for the One Hundred Nineteenth Congress. — *This simple resolution was agreed to on July 31, 2025. That is the end of the legislative process for a simple resolution.*
+- S. 2572: Department of Defense Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
+- S.Con.Res. 12: A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present — *This concurrent resolution was agreed to by both chambers of Congress on May 8, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
+- S. 1674: Mammoth Cave National Park Boundary Adjustment Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 8, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
+
+- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300072) (Tier 1) (NEEDS REVIEW)
+<!-- auto:govtrack end -->
+
 ## Who He Is
 
 [[_Mitch McConnell Master Profile|Mitch McConnell]]. U.S. Senate Republican Leader (2007–2025, longest-serving Senate leader in American history). Senior Senator from Kentucky (1985–present, retiring 2026). Now serves as Senate Rules Committee Chairman. Net worth: ~$35 million (largely through wife Elaine Chao's family shipping fortune). Career campaign fundraising: $47+ million to campaign committees. Announced February 20, 2025 (his 83rd birthday) that he will not seek reelection.
@@ -340,24 +390,6 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 - [ProPublica: Leonard Leo Supreme Court reporting](https://www.propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority) (Tier 2) (VERIFIED)
 - [Kentucky Lantern: fundraising decline reporting](https://kentuckylantern.com/2024/10/24/mcconnells-fundraising-total-the-lowest-in-years/) (Tier 2) (VERIFIED)
 
-### Legislative Activity (GovTrack)
-<!-- auto:govtrack start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 12 |
-| Bills Cosponsored | 52 |
-| Total Votes Cast | 14,297 |
-
-**Recent bills sponsored:**
-
-- S.Res. 388: A resolution recognizing September 16, 2025, as “National Voter Registration Day”. — *This simple resolution was agreed to on September 15, 2025. That is the end of the legislative process for a simple resolution.*
-- S.Res. 362: A resolution to provide for the printing of the Senate Manual for the One Hundred Nineteenth Congress. — *This simple resolution was agreed to on July 31, 2025. That is the end of the legislative process for a simple resolution.*
-- S. 2572: Department of Defense Appropriations Act, 2026 — *Provisions of this bill were incorporated into other bills which were enacted, so there will not likely be further activity on this bill.*
-- S.Con.Res. 12: A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present — *This concurrent resolution was agreed to by both chambers of Congress on May 8, 2025. That is the end of the legislative process for concurrent resolutions. They do not have the force of law.*
-- S. 1674: Mammoth Cave National Park Boundary Adjustment Act of 2025 — *This bill is in the first stage of the legislative process. It was introduced into Congress on May 8, 2025. It will typically be considered by committee next before it is possibly sent on to the House or Senate as a whole.*
-
-- [Source: GovTrack.us](https://www.govtrack.us/congress/members/300072) (Tier 1) (NEEDS REVIEW)
-<!-- auto:govtrack end -->
 
 ## Influence Network (Cross-Reference)
 <!-- auto:influence-cross-ref start -->
@@ -374,24 +406,6 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 *Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-13.*
 <!-- auto:influence-cross-ref end -->
 
-<!-- auto:influence-cross-ref pending-merge 2026-04-18 -->
-> [!attention] Fresh API data available — needs manual merge
-> Bot detected your edits to this section. New data below — fold in what's useful, then delete this block.
-
-| Metric | Value |
-|--------|-------|
-| Donors Who Also Lobby | 2 of 2 |
-| Donors With Federal Contracts | 1 |
-| Committee Overlap Detected | None |
-
-**Donors who lobby (by spend):**
-
-- [[Koch Network - Charles Koch]] — $21.3M lobbying spend (Agriculture, Banking, Bankruptcy) + $17 in contracts
-- [[Timothy Mellon]] — $1.9M lobbying spend (Banking, Energy/Nuclear, Financial Institutions/Investments/Securities)
-
-*Cross-referenced from vault lobbying and FEC data. Auto-generated 2026-04-18.*
-
-<!-- auto:influence-cross-ref pending-merge end -->
 
 ### Campaign Finance (FEC)
 <!-- auto:fec-politician start -->
@@ -434,35 +448,4 @@ McConnell announced retirement February 20, 2025 after multiple health episodes 
 
 
 
-### Legislative Activity (118th Congress)
-<!-- auto:congress-bills start -->
-| Metric | Value |
-|--------|-------|
-| Bills Sponsored | 8 |
-| Bills Cosponsored | 108 |
-| Bills Enacted | 0 |
-| Congress | 118th (2023-2024) |
 
-**Top policy areas:**
-
-- Congress (39)
-- International Affairs (13)
-- Crime and Law Enforcement (13)
-- Education (8)
-- Government Operations and Politics (6)
-- Labor and Employment (6)
-- Health (6)
-- Armed Forces and National Security (5)
-- Environmental Protection (5)
-- Immigration (4)
-
-**Recent bills sponsored:**
-
-- S 5289: White Oak Resilience Act of 2024
-- S 4293: To designate the United States courthouse annex located at 310 South Main Street in London, Kentucky, as the "Eugene ...
-- S 4095: SHOP Act
-- SJRES 65: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the ...
-- S 2284: Federal Prisons Accountability Act of 2023
-
-- [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
-<!-- auto:congress-bills end -->
