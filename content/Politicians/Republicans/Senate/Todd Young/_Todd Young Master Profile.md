@@ -1,8 +1,8 @@
 ---
 title: Todd Young
 type: politician
-content-readiness: raw
-last-updated: 2026-04-15T00:00:00.000Z
+content-readiness: draft
+last-updated: 2026-04-19
 source-tier: 1
 party: Republican
 chamber: Senate
@@ -17,10 +17,12 @@ phone: 202-224-5623
 source-types:
   - Congress
 known-gaps:
-  - No FEC contribution data
-  - No legislative record
-  - No voting record
-  - No mapped relationships
+  - Committee assignments not yet in pipeline
+  - CHIPS Act (117th Congress) benefits/donors cross-reference not yet built
+  - VoteSane PAC 63-transaction cycle breakdown not yet pulled
+  - National Victory Action Fund $278K identity/context needs verification
+central-thesis: "Todd Young is the Indiana bipartisan industrialist who co-authored the CHIPS Act with Chuck Schumer and whose donor map is dominated by the US Chamber of Commerce ($1.0M FOR super-PAC support), Google NetPac ($38K direct, 11 txns), and Caterpillar ($30K) - the manufacturing and technology companies that directly benefited from his signature legislation. He is the rare Republican in this vault with a documented Schumer collaboration and a tech-industry industrial-policy win to show for it."
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns."
 donors: "[[California Farm Bureau Federation]], [[Walmart - Walton Family]], [[American College of Radiology Association PAC]], [[Johnson & Johnson]], [[Amgen Inc]], [[Citigroup]], [[Raytheon (RTX)]], [[Sinclair Broadcast Group]], [[BAE Systems]], [[Humana]], [[Chevron]], [[CVS Health - Aetna]], [[General Motors]], [[AbbVie]], [[National Association of Realtors]], [[Lockheed Martin]], [[PG&E - Pacific Gas and Electric]], [[McDonalds Corporation]], [[American Gaming Association]], [[National Victory Action Fund]], [[Honeywell]], [[National Cattlemen's Beef Association]], [[WinRed]], [[Anthem - Elevance Health]], [[L3Harris Technologies]], [[Gilead Sciences]], [[Political Action Committee of the American Association of Orthopaedic Surgeons]], [[Northrop Grumman]], [[National Multifamily Housing Council]], [[General Dynamics]], [[IBEW - International Brotherhood of Electrical Workers]], [[Ford Motor Company]], [[Duke Energy]], [[Morgan Stanley]], [[Leidos]], [[Valero Energy]], [[American Hospital Association PAC]], [[National Rifle Association]], [[Google - Alphabet]], [[DoorDash]], [[Bank of America]], [[National Restaurant Association]], [[Associated General Contractors of America Political Action Committee]], [[National Association of Manufacturers]], [[Marathon Petroleum]], [[NextEra Energy]], [[Comcast - NBCUniversal]], [[CoreCivic - Private Prisons]], [[AIPAC - American Israel Public Affairs Committee]], [[AT&T - WarnerMedia]], [[Republican Jewish Coalition]], [[Care Action]], [[American Energy Action Fund]], [[Pfizer Inc.]], [[Tenet Healthcare]], [[Performance Racing Inc.]], [[iHeartMedia]], [[Nucor Corporation]], [[Microsoft]], [[Care Action Now Inc.]], [[Honeywell International]], [[AT&T]]"
 urls-first-triaged: "2026-04-15"
 fec-candidate-id: S6IN00191
@@ -154,7 +156,84 @@ top-policy-area: International Affairs
 
 # Todd Young
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Todd Young. Republican, Indiana. US Senator since January 2017, elected 2016 defeating Democrat Evan Bayh, re-elected 2022. Previously Indiana's 9th Congressional District representative (2011-2017). Born August 1972 in Lancaster, PA. US Naval Academy graduate, Marine Corps officer, Indiana University law degree. NRSC chairman (2017-2021), leading Republican Senate campaign efforts. Co-author of the CHIPS and Science Act (2022) with Senate Majority Leader Chuck Schumer, the $52B federal investment in domestic semiconductor manufacturing. Committee assignments not yet in pipeline. 2,751 roll-call votes tracked (115th-119th Congress, 8+ years). Voting record: 94.2% party-line loyalty across 2,718 substantive votes, 153 deviations. Indiana is a safe Republican state; the $15.2M in opposition spending reflects competitive 2022 cycle investment, not structural vulnerability.
+
+---
+
+## The Central Thesis
+
+Young is the Indiana bipartisan industrialist whose signature legislative achievement is the CHIPS Act, a $52B federal subsidy for domestic semiconductor manufacturing co-written with Chuck Schumer. The US Chamber of Commerce's $1.0M in FOR super-PAC support (40% of his total $2.5M FOR) establishes Young as the business establishment's preferred Indiana senator at a time when the Chamber has increasingly broken from the MAGA wing of the Republican Party. Google NetPac ($38K/11 transactions), Caterpillar ($30K), and L3Harris ($11.5K) in his direct donor record align with the beneficiaries of his CHIPS/technology legislative work. He is the rare Republican in this vault with a documented major bipartisan legislative win and a donor map that reflects the corporate coalition behind it.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Young is a conservative Republican who co-authored the $52B CHIPS and Science Act: the largest federal industrial subsidy for domestic manufacturing in modern US history. The legislation directs federal funds to semiconductor companies to build fabrication plants in the United States. This is industrial policy, the kind of government-directed market intervention that Republican free-market ideology opposes in principle. The US Chamber of Commerce, which gave $1.0M in FOR super-PAC support to Young, normally opposes government market intervention. It supported CHIPS because the semiconductor industry's supply chain security argument convinced the business establishment that government subsidy of domestic chip manufacturing served corporate interests. Young delivered $52B in government intervention. His Chamber donors supported it. The senator who ran as a free-market conservative co-authored one of the largest government interventions in manufacturing markets in postwar American history. The Republican Party's ideological commitment to free markets dissolved completely when it served the interests of the corporate coalition that funds Republican senators. Young is the clearest example in this vault of a Republican donor-class coalition overriding stated ideology when donor interests demanded the opposite policy.
+
+---
+
+## Donor Class Map
+
+### Campaign fundraising overview
+
+- Direct PAC lifetime: $6.7M
+- Party committee support: $1.0M
+- Super-PAC IE support (FOR): $2.5M (US Chamber of Commerce $1.0M, NRA-ILA $391K, SLF PAC $291K, National Victory Action Fund $270K, NFIB $203K)
+- Super-PAC IE opposition (AGAINST): $15.2M (DSCC $6.8M, SMP $4.9M, VoteVets $1.6M, NEA Advocacy Fund $846K, AFSCME $615K)
+
+### Top direct PAC donors (lifetime)
+
+- **Hoosiers for Conservative Government**: $459K across 1 transaction (joint fundraising committee for Senate cycle; largest single direct PAC entry)
+- **Lankford Young Victory Committee**: $87K across 2 transactions (joint fundraising with Senator Lankford)
+- **NRSC**: $47K across 1 transaction (party apparatus; Young was NRSC chair 2017-2021)
+- **VoteSane PAC**: $40K across 63 transactions (pro-Israel PAC; 63 transactions is the highest sustained frequency for a pro-Israel donor in the Young file)
+- **Google LLC NetPac**: $38K across 11 transactions (technology; CHIPS Act beneficiary)
+- **Caterpillar PAC**: $30K across 6 transactions (Indiana constituency; Caterpillar has major IN facilities)
+- **American Consulting Engineers Council PAC**: $27K across 20 transactions
+- **Johnson & Johnson PAC**: $27K across 19 transactions (healthcare)
+- **New York Life Insurance PAC**: $25K across 8 transactions
+- **Columbia Energy Group PAC**: $25K across 14 transactions
+
+### Data-panel top donors (relationships store)
+
+- **National Victory Action Fund**: $278K (conservative political infrastructure; dominant data-panel entry)
+- **National Association of Realtors**: $67K
+- **American Energy Action Fund**: $52K
+- **WinRed**: $36K
+- **Google-Alphabet**: $22.5K
+- **Johnson & Johnson**: $16.5K
+
+### Technology and manufacturing cluster
+
+[[Google - Alphabet]], [[Microsoft]], [[Comcast - NBCUniversal]], [[AT&T - WarnerMedia]] (technology access; CHIPS Act beneficiaries). [[Caterpillar]] is the Indiana manufacturing constituency anchor. [[IBEW]] (Electrical Workers; unusual bipartisan union giving on energy/manufacturing alignment). [[National Association of Manufacturers]] (manufacturing lobby; CHIPS Act supporter). [[L3Harris Technologies]], [[Lockheed Martin]], [[BAE Systems]], [[Northrop Grumman]], [[General Dynamics]], [[Leidos]], [[Raytheon (RTX)]] (defense; Indiana military-base constituency and Armed Forces committee access).
+
+> [!money]
+> **The US Chamber of Commerce's $1.0M.** The Chamber of Commerce spent $1.0M in FOR super-PAC support for Todd Young: 40% of his total $2.5M in outside support. This is not constituency giving (Indiana's Chamber of Commerce chapter is a small fraction of the national organization's operations). This is the national business establishment investing in a senator who delivered $52B in semiconductor manufacturing subsidies through CHIPS Act, who served as NRSC chair for four years managing Senate Republican campaigns, and who represents the institutional Republican posture of business-friendly governance over MAGA populism. When the Chamber spends $1M on a Republican senator, it is identifying its preferred model for how Republican senators should behave.
+
+---
+
+## Class Analysis
+
+Young's $6.7M lifetime direct PAC record is built on a bipartisan business coalition that reflects both Indiana's manufacturing economy and the tech-industry interest in his CHIPS Act work. Caterpillar's $30K reflects the Indiana constituency model: Caterpillar operates major facilities in Lafayette, IN and employs thousands of Indiana workers. Johnson & Johnson's $27K/19 transactions is the healthcare access pattern. Google NetPac's $38K/11 transactions is the technology sector investing in the Republican who delivered their supply chain legislation.
+
+The VoteSane PAC at $40K/63 transactions is the pro-Israel sustained-access pattern: 63 transactions at an average of $635 per transaction across a career indicates continuous relationship maintenance rather than election-cycle giving. Young's AIPAC and RJC entries in the frontmatter complete the pro-Israel cluster. Indiana has no dominant Jewish constituency that would explain this giving; it is Israel-policy voting record maintaining the relationship.
+
+The 153 deviations from party loyalty over 8 years of voting reflect a longer career and a more complex deviation pattern than the one-to-two-year senators. The visible deviations include bipartisan nomination confirmations (Yea on PN 673, PN 1510, PN 676 when the Republican majority voted Nay), fiscal positions (Nay on S.Con.Res. 41 and S.Con.Res. 22 budget resolutions), and nomination blocks (Nay on PN 1314 when party voted Yea). Young's Nay on S.Con.Res. 22 in the 119th Congress (the budget resolution for the Big Beautiful Bill) makes him one of the Republican senators whose resistance delayed the bill's Senate progression. The 153 deviations over 2,718 votes is a 5.6% deviation rate, which is higher than most of the vault's Republican senators and reflects genuine bipartisan positioning rather than pure party discipline.
+
+Young's one enacted bill in the 118th Congress is the FIFA World Cup 2026 Commemorative Coin Act, which is the form legislation takes when the substantive work was done in prior congresses. CHIPS Act was enacted in the 117th Congress (2022), not covered in the current pipeline data. The 118th Congress shows Young as a cosponsorship senator (324 bills) rather than a bill-enactment senator post-CHIPS, which is normal for a senator whose major legislative achievement is complete.
+
+---
+
+## Analytical Patterns
+
+**Genuine Win + Structural Limit.** The CHIPS Act is the most substantive legislative win in the Republican Senate cohort currently profiled in this vault. Young co-authored a $52B bipartisan industrial policy bill that became law. This is a genuine outcome for semiconductor manufacturing companies, Indiana tech employers, and the US manufacturing supply chain. The structural limit is that the win served the interests of the corporate coalition that funded Young's career: tech companies, manufacturers, the US Chamber. He did not deliver CHIPS Act against donor resistance. He delivered it with donor support and at donor request.
+
+**Both-Sides Illusion (CHIPS Act).** The bipartisan framing of CHIPS Act (Young-Schumer authorship) obscures that the underlying political logic is the same on both sides: tech and manufacturing companies funded both Republican Young and Democrat Schumer, and both senators delivered the $52B their shared donors wanted. The bipartisan appearance is not evidence of independence from donor interests. It is evidence that the same donor class funds both parties when it wants a specific outcome badly enough.
+
+**Revolving Door (NRSC-to-institutional support).** Young's four-year tenure as NRSC chairman (2017-2021) built the institutional Republican Senate network relationships that explain his donor map. The Chamber of Commerce $1.0M, the leadership PAC cluster, and the party infrastructure giving all flow from the four years Young spent managing the institutional Republican apparatus. NRSC chair is the most direct pipeline from party institutional donor relationships to personal campaign finance. Young converted four years of party service into a permanent expansion of his donor base.
 
 
 ### Legislative Activity (118th Congress)
