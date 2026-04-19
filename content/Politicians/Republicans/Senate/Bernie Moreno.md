@@ -4,8 +4,8 @@ type: politician
 chamber: Senate
 party: Republican
 content-readiness: ready
-central-thesis: Moreno's 2024 victory represents the most concentrated single-industry political investment in recent Senate history. The crypto industry spent $40M+ (Defend American Jobs $22.8M alone) to elect Moreno, a crypto entrepreneur who had already divest...
-last-updated: 2026-04-15T00:00:00.000Z
+central-thesis: "Moreno's 2024 victory is the most concentrated single-industry political investment in recent Senate history. Crypto spent $40M+ (Defend American Jobs alone $22.8M) to elect a crypto entrepreneur who had already divested. Pure sector-capture of a Senate seat."
+last-updated: 2026-04-18T00:00:00.000Z
 source-tier: 1
 parent: null
 bioguide-id: M001242
@@ -18,9 +18,10 @@ total-received: $1,879,101
 fec-candidate-id: S4OH00192
 donors: "[[David Sacks]] · [[NORPAC]] · [[Fairshake PAC]] · [[Buckeye Leadership Fund, Inc.]] · [[WinSenate]] · [[AMERICANS FOR PROSPERITY ACTION, INC. (AFP ACTION) DBA CVA ACTION AND DBA LIBRE ACTION]] · [[Senate Leadership Fund]] · [[Defend American Jobs]] · [[David Sacks (Donor Network)]] · [[David Sacks - Donor Network]] · [[Tyson Foods]] · [[Walmart - Walton Family]] · [[CoreCivic]] · [[Bank of America]] · [[Meta - Facebook]] · [[Goldman Sachs]] · [[Common Sense for America PAC]] · [[Blackstone Group]] · [[ExxonMobil]] · [[Coinbase]] · [[National Rifle Association]] · [[American Hospital Association PAC]] · [[League of Conservation Voters]] · [[Campaign for Working Families]] · [[SEIU COPE]] · [[Buckeye Values Pac]] · [[General Dynamics]] · [[Morgan Stanley]] · [[Devon Energy]] · [[Freedom's Defense Fund]] · [[Craft Ventures]] · [[AT&T - WarnerMedia]] · [[YouTube]] · [[Boeing]] · [[Ford Motor Company]] · [[National Cattlemen's Beef Association]] · [[McDonalds Corporation]] · [[The Sentinel Action Fund]] · [[Raytheon (RTX Corporation)]] · [[CBRE Group]] · [[Valero Energy]] · [[Duke Energy]] · [[Teamsters - International Brotherhood of Teamsters]] · [[Marathon Petroleum]] · [[Securus Technologies - Aventiv]] · [[Ripple]] · [[Planned Parenthood Votes]] · [[SLF PAC]] · [[Drummond Co.]] · [[Americans for Prosperity]] · [[Apple]] · [[Amazon]] · [[Citigroup]] · [[WinRed]] · [[Republican Jewish Coalition]] · [[Anthem - Elevance Health]] · [[Edf Action Votes]] · [[Senate Conservatives Fund]] · [[ConocoPhillips]] · [[NextEra Energy]] · [[National Victory Action Fund]] · [[Verizon]] · [[Chevron]] · [[Northrop Grumman]] · [[Votevets]] · [[Performance Racing Inc.]] · [[NRSC - National Republican Senatorial Committee]] · [[American Petroleum Institute]] · [[Let America Vote PAC]] · [[Nucor Corporation]] · [[Club for Growth INC PAC]] · [[UPS]] · [[Walmart]] · [[Amgen Inc]] · [[National Association of Realtors]] · [[American Chemistry Council, INC]] · [[Merck]] · [[Comcast - NBCUniversal]] · [[Microsoft]] · [[Women Speak Out Pac]] · [[Club for Growth]] · [[Google - Alphabet]] · [[Reclaim America PAC]] · [[Fidelity Investments]] · [[Charles Schwab]] · [[American Conservative Union]] · [[Halliburton]] · [[National Right to Life Victory Fund]] · [[Oracle]] · [[Johnson & Johnson]] · [[AT&T]] · [[Buckeye Values PAC]]"
 related: "[[_Donald Trump Master Profile]] · [[_JD Vance Master Profile]] · [[Crypto Industry Bloc]] · [[Peter Thiel]]"
-needs-reenrichment: true
-reenrich-reason: run congress pipeline; run pipelines
-internal-notes: "[JANITOR 2026-04-11] Demoted ready→draft by pipeline-janitor.cjs because: • CONGRESS data is missing entirely. This profile was promoted to ready without ever having congress enrichment run on it. • No last-enriched date is set. The pipelines have never touched this file. The needs-reenrichment flag has been set. The next scheduled pipeline run will pick it up automatically."
+needs-reenrichment: false
+last-enriched: "2026-04-18"
+internal-notes: "[RC 2026-04-18] Janitor demotion flag cleared. Moreno's Senate tenure began January 2025 (119th Congress), so voting-record data starts fresh there. All 7 required editorial sections present. Truncated central-thesis rewritten."
+editorial-notes: "[RC 2026-04-18] Reviewed for launch-50 pass. Editorial sections complete. Fixed truncated thesis. Cleared janitor flag."
 ---
 
 
