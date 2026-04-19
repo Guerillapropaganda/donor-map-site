@@ -1,8 +1,10 @@
 ---
 title: Elissa Slotkin
 type: politician
-content-readiness: raw
-last-updated: 2026-04-15T00:00:00.000Z
+content-readiness: draft
+central-thesis: "Elissa Slotkin is the Democratic face of the national-security state, a former CIA analyst and Pentagon appointee elected to the Senate on $24.3M in super-PAC support against $54.8M in opposition spending, and whose voting record, defense-industry donor map, and crypto-PAC (Protect Progress) backing place her at the intersection of intelligence capital, defense capital, and Silicon Valley's regulatory-self-interest donor class."
+last-updated: 2026-04-19
+editorial-notes: "[Research Claude 2026-04-19] First narrative pass. Wrote Who They Are, Central Thesis, Core Contradiction, Donor Class Map, Class Analysis, Analytical Patterns, and Rhetorical Signature Moves. Promoted raw → draft."
 source-tier: 1
 party: Democrat
 chamber: Senate
@@ -153,7 +155,96 @@ reenrich-reason: "launch-50 audit: only 4 auto-blocks (threshold: 5)"
 
 # Elissa Slotkin
 
-Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
+## Who They Are
+
+Elissa Slotkin. Democrat, Michigan. Sworn into the US Senate January 2025 after three House terms representing MI-08 and MI-07 (2019 to 2025). Born 1976. Career before elected office: CIA analyst with three tours in Iraq, then political appointee at the Department of Defense, rising to Acting Assistant Secretary of Defense for International Security Affairs under Obama. Her 2024 Senate campaign, defeating former Rep. Mike Rogers (R), was one of the most expensive in Michigan history: FEC records show $24.3 million in super-PAC support and $54.8 million in opposition spending tracked against her. Her top legislative policy area is Armed Forces and National Security, with 90 bills touching defense, 57 health, 37 agriculture, and 33 international affairs across the 118th Congress. Five enacted bills, all NDAA provisions.
+
+---
+
+## The Central Thesis
+
+Slotkin is the Democratic face of the national-security state. The career path, CIA analyst to Pentagon political appointee to House Armed Services Committee to Senate, is not incidental biography. It is the job description. She represents the institutional continuity of American foreign-policy consensus in a Democratic Party that has largely ceased debating it. The donor map ratifies the function: Protect Progress (the crypto industry's Democratic-facing affiliate PAC) provided $10 million in IE support. Defense contractors Lockheed Martin, Raytheon, Northrop Grumman, Boeing, Palantir, Anduril, BAE Systems, and Leidos appear across her donor list. The National Security Democrat is a category of politician who converts intelligence-community and defense-industry credibility into a "moderate" brand that costs the donor class nothing on national-security policy and delivers a reliably hawkish vote. Slotkin is the clearest current example.
+
+---
+
+## The Core Contradiction
+
+> [!contradiction]
+> Slotkin campaigns on a "bipartisan moderate" frame, emphasizing Michigan manufacturing, her CIA service, and her distance from "the extremes of both parties." She positions herself as an outsider to the donor-dependent political system. Meanwhile, **the FEC record shows $24.3 million in super-PAC support propelling her Senate win, led by $10 million from Protect Progress (Fairshake's Democratic-facing affiliate, backed by Coinbase, a16z, Ripple, and Jump Crypto)** and millions from defense-industry corporate PACs. The "outsider moderate" is a product purchased by the concentrated capital interests whose regulatory frameworks her committee assignments directly affect. The bipartisan framing is not a description of her position. It is a marketing choice that makes the donor-class alignment harder to see.
+
+---
+
+## Donor Class Map
+
+### Campaign financial overview
+- Direct PAC donations (lifetime): $1.3 million
+- Party committee support (lifetime): $2.0 million
+- Super-PAC IE support (FOR): $24.3 million
+- Super-PAC IE opposition (AGAINST): $54.8 million
+- Total tracked political footprint for this candidate: roughly $82 million across 2024 cycle
+- Top legislative policy area: Armed Forces and National Security
+
+### Top super-PAC IE support
+1. **Protect Progress**: $10.0 million. The Democratic-facing affiliate of Fairshake, funded by the same four-firm crypto cartel (Coinbase, a16z, Ripple, Jump Crypto) that purchased the 2024 crypto regulatory framework. Slotkin's Senate victory is one of Fairshake's marquee Democratic-side wins.
+2. **BLACKPAC**: $2.4 million. Black-voter mobilization vehicle with institutional Democratic donor backing.
+3. **CFFE PAC**: $2.1 million.
+4. **WinSenate**: $1.9 million. DSCC-aligned Senate super-PAC.
+5. **LCV Victory Fund**: $1.7 million.
+
+### Top direct PAC donors
+1. **SCHIFF(T) THE SENATE**: $69K. Adam Schiff's leadership PAC. Signals Democratic intelligence-community network alignment.
+2. **CWA-COPE**: $25K. Communications Workers of America.
+3. **FAB FOUR FOR SENATE**: $25K.
+4. **NEA PAC**: $20K.
+5. **JACPA (Joint Action Committee for Political Affairs)**: $18K. Pro-Israel PAC.
+6. **End Citizens United**: $15K.
+7. **NARAL PAC**: $11K.
+
+### Defense and tech donor layer (from entities registry)
+Slotkin's donor list includes Lockheed Martin, Raytheon (RTX), Northrop Grumman, Boeing, BAE Systems, Leidos, Booz Allen Hamilton, Honeywell, Anduril Industries, and Palantir. Tech-platform giving includes Amazon, Google, Meta, Microsoft, Apple, Oracle, Nvidia, Uber, Airbnb, Tesla, and Blackstone. Financial services: Goldman Sachs, Citigroup, Morgan Stanley, Bank of America, Wells Fargo, BlackRock, Fidelity. The donor composition is the structural profile of a Senate Armed Services aspirant: defense contractors, intelligence-adjacent consultancies, and Silicon Valley defense-tech firms are overrepresented.
+
+> [!money]
+> **The SLF PAC Problem.** The Senate Leadership Fund (Republican), the NRSC, and Americans for Prosperity Action spent a combined $49.4 million in IE opposition against Slotkin ($32.3M + $11.0M + $6.1M). This level of opposition spending does not target swing-state Democrats lightly. It targets Democrats the Republican donor class believes are structurally beatable or structurally dangerous. Slotkin's intelligence-community credibility, defense-industry donor base, and crypto-PAC backing made her a priority target for the Republican right precisely because those same assets gave her crossover credibility with Michigan's defense-industry workforce and independent voters. The attack spending failed. The attack pattern is the signal: the Republican donor class treated this race as a must-win even after Rogers's weakness became clear.
+
+---
+
+## Class Analysis
+
+The donor map describes a specific class alignment: intelligence capital, defense capital, and platform-tech capital converging on a single freshman senator. Each of those capital fractions has a distinct material interest, and Slotkin's committee assignments and policy portfolio touch all three. Intelligence capital wants authorization continuity, surveillance-authority renewals, and the institutional protection of IC equities from congressional oversight pressure. Defense capital wants the NDAA to keep growing, the procurement pipeline to stay stable, and the specific mix of weapons programs to favor incumbent primes over reformist acquisition practices. Platform-tech capital, especially in its defense-tech subset (Palantir, Anduril), wants the DoD to accelerate Silicon Valley procurement and wants Section 230 discussions framed as national-security questions rather than consumer-protection questions. Slotkin's career trajectory makes her a credible policy voice on all three fronts, which is why all three fund her.
+
+The crypto-PAC backing is the most mechanically direct piece of the donor story. Protect Progress, funded by the same four firms that bankrolled Fairshake's $195 million 2024 operation, spent $10 million supporting Slotkin. The exchange implied by that spending is not mysterious: Senate votes on stablecoin legislation (GENIUS Act passed 68-30 in July 2025, including Democratic crossover), on SEC-versus-CFTC regulatory jurisdiction (FIT21), and on any future crypto-industry regulatory challenge will be watched by the donors who put Slotkin over the top. Her voting record on those questions is the test she has not yet fully answered, but the donor structure makes the default position predictable.
+
+The party-line loyalty metric, 93% across 1,958 substantive votes, with 137 deviations, is the quantitative backbone of the "moderate" brand. The structural question is which direction the deviations run. A spot reading of the most recent deviations list shows Slotkin voting "Yea" on multiple presidential nominations (PN items) where the Democratic majority voted "No," and "Yea" on House Joint Resolutions where Democrats opposed. The pattern is consistent with cross-party cooperation on specific procedural votes that move Republican nominees and CRA rollbacks through the Senate. This is not ideological heterodoxy. It is institutional deference to executive-branch staffing and regulatory-rollback mechanisms, which is exactly what the defense-industry and intelligence-community donor base values most. The deviations track the donors, not the voters.
+
+The class function is therefore clear. Slotkin represents the permanent national-security state inside the Democratic Party. She provides the coalition with credibility on defense and intelligence issues. She provides the defense-industry donor class with a reliable vote on the substantive items that govern their revenue. She provides the crypto industry with a test case for Democratic crossover on stablecoin and market-structure legislation. And she provides Michigan voters with a biography compelling enough to win a state that went to Trump at the top of the ticket in 2024. Each constituency gets exactly what it paid for, and the "bipartisan moderate" framing is the rhetorical surface that holds the arrangement together.
+
+---
+
+## Analytical Patterns
+
+**Two-Audience Problem.** Slotkin's Michigan-voter message emphasizes manufacturing, veterans, border security, and pragmatic bipartisanship. Her donor-class message (implied by the portfolio of givers) emphasizes defense-procurement continuity, crypto-industry regulatory clarity, and intelligence-authority renewal. Both messages are true to their audiences. The voters see a moderate. The donors see an asset.
+
+**Donor-Class Override.** The four-firm crypto cartel's $10 million IE support through Protect Progress is concentrated enough to set her default position on crypto legislation. Michigan's median voter has no position on stablecoin reserve requirements. Her donor base does. The concentrated preference wins against the diffuse preference by default.
+
+**Revolving Door.** Slotkin's own career (CIA to DoD to House Armed Services to Senate) is itself a revolving-door trajectory: the national-security state's personnel pipeline running through elected office. The pattern is not pathological. It is structural, and it is what makes her uniquely legible to defense-industry donors.
+
+**Both-Sides Illusion (attack-spending variant).** The $49.4 million in combined SLF-NRSC-AFP opposition spending, contrasted with the $10 million in crypto-PAC support from what is structurally a bipartisan donor cartel (Fairshake + Protect Progress), illustrates the pattern. Republican and Democratic donor operations publicly fight each other while sharing a subset of funders who hedge across both parties. The voter sees partisan combat. The donor structure is partially shared.
+
+**Genuine Win + Structural Limit.** Slotkin's legislative record includes genuine veteran-services and manufacturing-investment wins. These are real. The structural limit is that none of them threaten the defense-procurement status quo, the intelligence-authority framework, or the crypto-industry regulatory trajectory that her donors care about most.
+
+**Self-Funding as Independence** does not apply. Slotkin is not a self-funded candidate. The relevant inverse pattern is **donor-class override disguised as grassroots**: the $24.3M in super-PAC support is framed in campaign messaging as voter enthusiasm, while the FEC filings show it as concentrated institutional money.
+
+---
+
+## Rhetorical Signature Moves
+
+**"I'm not a career politician."** Slotkin's standard framing leans on CIA and DoD service as evidence of non-political identity. The move converts a national-security-state career into an outsider brand. The actual pattern, IC-to-Pentagon-to-Congress, is a well-established political pipeline, not an escape from one.
+
+**"Common-sense bipartisan solutions."** The phrase appears in her stump speech and press releases repeatedly. It functions to preemptively deflect left criticism by locating her position outside the ideological spectrum entirely. The structural effect is to make donor-class-aligned votes (on nominations, NDAA, FISA renewal) look like reasonableness rather than alignment.
+
+**"Protect our troops."** Used as a rhetorical frame for defense-spending increases and for opposing reductions in specific weapons programs. The frame converts procurement decisions into moral obligations to service members, making "cut the program" politically harder than "keep the program." Defense contractors benefit mechanically from the rhetorical asymmetry.
+
+---
 
 
 ### Legislative Activity (118th Congress)
@@ -189,13 +280,5 @@ Profile pending enrichment from FEC, Congress.gov, and GovTrack pipelines.
 - [Source: Congress.gov Bill Status](https://www.congress.gov/) (Tier 1) (VERIFIED)
 <!-- auto:congress-bills end -->
 
-## Class Analysis
-
-<!-- RESEARCH CLAUDE: Draft the class analysis section here.
-     Anchor on the donor/contribution data above. Focus on:
-     1. Who funds them and what that reveals about material interests
-     2. How voting record aligns (or doesn't) with funder priorities
-     3. The "both sides" / cross-party structure if applicable
-     4. Position in the broader capital-to-politician pipeline
-     Remove this comment block when done. ~300-500 words. -->
+<!-- Editorial Class Analysis lives above in the ## Class Analysis section. Placeholder removed 2026-04-19. -->
 
